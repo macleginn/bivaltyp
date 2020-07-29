@@ -1,0 +1,38 @@
+<div id="title-div">
+    <h1><a href="{{ site_url_j }}" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="{{ site_url_j }}/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="{{ site_url_j }}/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="{{ site_url_j }}/project/instruction/"><div class="menu-button">Instruction for authors</div></a>
+            <a href="{{ site_url_j }}/project/team/"><div class="menu-button">Team</div></a>
+            <a href="{{ site_url_j }}/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="{{ site_url_j }}/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="{{ site_url_j }}/languages/mapview/"><div class="menu-button">Map view</div></a>
+            <a href="{{ site_url_j }}/languages/listview/"><div class="menu-button">List view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="{{ site_url_j }}/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="{{ site_url_j }}/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="{{ site_url_j }}/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="{{ site_url_j }}/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>

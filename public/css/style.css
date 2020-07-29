@@ -1,0 +1,114 @@
+/* Tag styles */
+
+body {
+    font-family: 'Noto Serif', serif;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    background-color: beige;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h3 {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+h4 {
+    margin: 0;
+    margin-bottom: 7px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p a {
+    text-decoration: underline;
+}
+
+/* Class styles */
+
+.txt {
+    max-width: 800px;
+}
+
+.menu-element {
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.submenu {
+    background-color: beige;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    padding: 5px;
+    display: none;
+    z-index: 10;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    min-width: 100px;
+}
+
+.menu-button {
+    /* font-variant: small-caps; */
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 7px;
+    padding-right: 7px;
+    cursor: pointer;
+}
+
+.menu-button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.submenu .menu-button {
+    background-color: transparent;
+    padding: 3px;
+    border-radius: 2px;
+}
+
+.submenu .menu-button:hover {
+    background-color: black;
+}
+
+.options-row {
+    grid-row: auto;
+    background-color: rgb(230, 230, 230);
+    margin-bottom: 3px;
+    padding: 3px;
+}
+
+/* By-id styles */
+
+#title-div {
+    padding-left: 20px;
+}
+
+#main {
+    position: absolute;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+#menu {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100vw;
+    position: absolute;
+    padding-left: 15px;
+}
+
+#table {
+    font-size: smaller;
+}
+

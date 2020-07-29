@@ -1,0 +1,261 @@
+language_no	predicate_no	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en
+85	1	ruqχ’.u	GEN	NOM	X	GEN_NOM	"Same verb as in #2. Different pattern. ""there are reasons to think that the genitive here behaves as clause-level"""	alia-r miar ruqχ’.u-r	pn.obl-inan2(gen) head[inan2][nom] ache.pst-inan2	‘Ali has a headache.’
+85	2	ruqχ’.udo	NOM	COM	Y	NOM_COM	Same verb as in #1. Different pattern.	ali ruqχ’.udo honqχ’isːol-loj	pn[m][nom] ache.npst.prs influenza-com	‘Ali has the flu.’
+85	3	sːir.i	NOM	CONT	Y	NOM_CONT		ali χʷe-tʃ’u sːir.i-r	pn[m][nom] dog.obl-cont fear.pst-prog	‘Ali fears the dog.’
+85	4	ʃamm.i	ERG	NOM	TR	TR		ali-di hints’o ʃamm.i	pn-erg stone[inan1][nom] throw.pst(aor)	‘Ali threw a stone.’
+85	5	<b>-iʔ.u-mallo 	DAT	NOM	X	DAT_NOM		ali-ɬu orsi b-iʔ.u-mallo	pn-dat money[inan1][nom] inan1-be_enough-prog	‘Ali has enough money.’
+85	6	a<w>ɬin	NOM	AFF	Y	NOM_AFF	NV	ali a<w>ɬin muħammadi-<w>o	pn[m][nom] resemblant<m> pn.obl-aff<m>	‘Ali resembles Muhammad.’
+85	7	buʒ.u	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	Same verb as in #114 (Not progressive here)	ali buʒ.u-r mariam-ʔo	pn[m][nom] believe.pst-prog pn-super.lat	‘Ali believes Mariam.’
+85	8	<r>-iχ.i	ERG	NOM	TR	TR		ali-di χutʃa r-iχ.i	pn-erg book[inan2][nom] inan2-take.pst(aor)	‘Ali took a book.’
+85	9	haʔ.o	AFF	NOM	X	AFF_NOM		pat’imati-<b>o haʔ.o-r milki	pn.obl-aff<inan1> see.pst-prog house[inan1][nom]	‘Patimat sees a house.’
+85	10	*	*	*	*		"Нет эквивалента (только ""с течением времени память ухудшается"")"	zaman b-uʔonn.i-r-qχi pamjat b-itʃ’.o-r	time inan1-go.pst-prog-inst memory inan1-die.pst-prog	‘With time passing, memory dies.’
+85	11	badi <w>-ukː.u	AFF	NOM	X	AFF_NOM	CV ('forth' + 'fall'). It is not entirely clear which of the two arguments is semantically more subject-like. In all probability it is the one in the Affective case, that is why X is label as AFF here.	ali-<w>o badi aliħadʒi w-ukː.u	pn-aff<m> forth pn[m][nom] m-fall.pst(aor)	‘Ali met Aligaji’
+85	12	kab.i	NOM	ILLAT	Y	NOM_ILLAT	"Со вторым актантом ""дом"" была особая форма этого существительного. Здесь записан иллтив -- эта форма существительного ""комната"" в аналогичном контексте. Но вообще, по словам Нэжъ, тут может быть любой лативный падеж -- например, интерлатив и что-то такое"	ali harqχ’u-di kab.i	pn[m][nom] room.obl-illat enter.pst(aor)	‘Ali entered the room.’
+85	13	<w>-uʃ.a	NOM	SUPER.LAT	Y	NOM_SUPER.LAT		ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo	pn[m][nom] m-win.pst(aor) chess-? Umargaji-super.lat	‘Ali won over Umar at chess.’
+85	14	<w>-uʔ.on	NOM	IN.EL	Y	NOM_IN.EL	"Тут ""IN"" (инэссив) постулируется немного условно, в конкретном примере его скорее нет, потому что это особое слово ""дом"", но он предполагается по общим соображениям. Есть еще вариант сказать буквально ""Оказался во двор"", дом оформляется так же"	ali w-uʔ.on iʃu-kːu	pn[m][nom] m-go.pst(aor) home-el	‘Ali went out of the house.’
+85	15	<b>-uqχ’.i-r	ERG	NOM	TR	TR		ali-di ziw̃ b-uqχ’.i-r aliχil-ʔo	pn-erg cow[an][nom] an-push.pst-prog pasture-super.lat	‘Ali pushes the cow to the pasture.’
+85	16	tʃ’ab-oɬ.i	ERG	NOM	TR	TR	CAUS	pat’imati-di anɡa tʃ’ab-oɬ.i	pn-erg branch[inan1][nom] bend_oneself-caus.pst(aor)	‘Patimat bent the branch.’
+85	17	rutɬ.i:	ERG	INST	Y	ERG_INST		ali-di umarħadʒi-qχi rutɬ.i: “…”	pn-erg Umargaji-inst say.pst(aor)	‘Ali said to Umagaji: “…”’
+85	18	0	CONT	NOM	X	CONT_NOM	"Никакого глагола в конструкции нет. Просто ""у Х-а книга в руках"""	ali-tʃ’u kod.u χutʃa	pn-cont in_hands book[inan2][nom]	‘Ali is holding a book.’
+85	19	<w>-eχːudu <w>-oqχ.o-j	NOM	CONT	Y	NOM_CONT	"Тут в качестве предиката засчитано сочетание глагола и слова, которое переводится ""after"". Возможно, правильно было бы считать, что это слово входит в модель управления в комплекте с CONT"	ali muħammadi-tʃ’u w-eχːudu w-oqχ.o-j	pn[m][nom] pn.obl-cont m-after m-reach.pst-pf	‘Ali reached Muhammad.’
+85	20	<b>-ertʃ’.u	ERG	NOM	TR	TR		pat’imati-di b-ertʃ’.u ziw̃	pn.obl-erg an-milk.pst(aor) cow[an][nom]	‘Patimat milked the cow.’
+85	21	<w>-oqχ.o	NOM	SUPER.LAT	Y	NOM_SUPER.LAT		ali rahal-ʔo w-oqχ.o	pn[m][nom] bank.obl-super.lat m-reach.pst(aor)	‘Ali reached the river bank.’
+85	22	reʔa ob.i	ERG	SUPER	Y	ERG_SUPER	CV ('hand touch')	ali-di reʔa ob.i qχ’enno-ʔa	pn-erg hand[inan2][nom] touch.pst(aor) wall.obl-super	‘Ali touched the wall.’
+85	23	<w>-aχː.o-j	NOM	COM	Y	NOM_COM		ali aħmadi=lojɡu w-aχː.o-j	pn[m][nom] pn.obl=com m-fight.pst-pf	‘Ali and Ahmad are fighting.’
+85	24	homoloʁi-ɬir-ʔa	NOM	COM	Y	NOM_COM	"NV (""friend-ABST-SUPER"")"	ali homoloʁi-ɬir-ʔa qχ’urban-noj	pn[m][nom] friend-abst-super pn-com	‘Ali is friends with Qurban.’
+85	25	urʁ.u-mallo	NOM	SUPER.LAT	Y	NOM_SUPER.LAT		ali urʁ.u-mallo umarħadʒi-ʔo	pn[m][nom] think.pst-prog pn-super.lat	‘Ali is thinking about Umargaji.’
+85	26	k’amm.i	ERG	NOM	TR	TR		ali-di intʃi k’amm.i	pn-erg apple[inan1][nom] eat.pst(aor)	‘Ali ate an apple.’
+85	27	<b>-eʒ.a	ERG	NOM	TR	TR		pat’imati-di b-eʒ.a χʷammi	pn-erg inan1-brown.pst(aor) fish[inan1][nom]	‘Patimat fried a fish.’
+85	28	tʃ’on	NOM	SUPER.LAT	Y	NOM_SUPER.LAT		pat’imati mariam-ʔo tʃ’on	pn[F][NOM] mariam-super.lat waiting	‘Patimat is waiting for Mariam.’
+85	29	retʃː.o-j	AFF	NOM	X	AFF_NOM		ali-<b>o se-b=lo miqχ’i retʃː.o-j	pn-aff<inan1> one-inan1=add road[inan1][nom] forget.pst-pf	‘Ali forgot about the other road.’
+85	30	*	*	*	*		"Глагола ""зависеть не удалось получить"". Только ""память уходит с возрастом"""	aqχ’ulo r-uʔ.inn-ija w-oχːor-tl’ir-qχi	knowledge inan2-go.npst-pstcp:npst m-old-abst-inst	‘Memory depends on age.’
+85	31	qχ’or.i	ERG	NOM	TR	TR	Same verb as in #69	pat’imati-di muħammad qχ’or.i	pn-erg pn[m][nom] call.pst(aor)	‘Patimat called Muhammad.’
+85	32	ts’inn.i	AFF	NOM	X	AFF_NOM	"Форма глагола ""знать"" (33)"	pat’imati-<j>o sːobɡu ts’inn.i j-iʁ.i mariam.	pn-aff<f> a_year_ago know.pst(aor) f-stand.pst(aor) pn[f][nom]	‘Patimat met Mariam a year ago.’
+85	33	ts’inn-e	AFF	NOM	X	AFF_NOM	Тот же глагол, что познакомиться (32)	ali-<j>o ts’inn-e mariam.	pn-aff<f> know-hab pn[f][nom]	‘Ali knows Mariam.’
+85	34	qχʷar.i-r	ERG	NOM	TR	TR	Первый перевод это перевод с биабсолютивной конструкцией, но это зависит от аспектуальной конструкции, сам глагол переходной и даже с этой формой может использоваться переходная конструкция	pat’imati-di pandur qχʷar.i-r.	pn.obl-erg guitar[inan1][nom] write.pst-prog	‘Patimat is playing the guitar.’
+85	35	<w>-utʃ’.u-mado	NOM	CONT.EL	Y	NOM_CONT.EL		ali muħammadi-tʃ’u-kːu w-utʃ’.u-mado.	pn[m][nom] pn.obl-cont-el m-?.pst-prog	‘Ali is avoiding Muhammad.’
+85	36	dʒid.i	ERG	NOM	TR	TR	"То же, что в (85), ""рожать"""	ali-di bomba dʒid.i.	pn-erg bomb[inan1][nom] make.pst(aor)	‘Ali made a bomb.’
+85	37	<j>-eɬː-o	NOM	SUPER	Y	NOM_SUPER		pat’imati muħammadi-ʔa j-eɬː-o	pn[f][nom] Muhammad-super f-laugh-hab	‘Patimat is laughing at Muhammad.’
+85	38	dʒi	GEN	NOM	X	GEN_NOM	Предикат -- просто связка	ali-b dʒi maʃina.	pn-inan1(gen) cop car[inan1][nom]	‘Ali has a car.’
+85	39	kusd.i-r	ERG	NOM	TR	TR		pat’imati-di kusd.i-r rek’ulol.	pn-erg search.pst-prog key[inan2].pl[nom]	‘Patimat is looking for the key.’
+85	40	buʃ.o	ERG	NOM	TR	TR		ali-di qχen buʃ.o.	pn-erg wall[inan1][nom] smear.pst(aor)	‘Ali painted the wall.’
+85	41	qχ’amm.i-j	ERG	SUPER	Y	ERG_SUPER		χʷedo-di qχ’amm.i-j pat’imati-ʔa.	dog.obl-erg bit.pst-pf pn-super	‘The dog bit Patimat.’
+85	42	hek’u sːu	GEN	NOM	X	GEN_NOM	"Букв. ""more is"" (у Х-а больше нет Y-а)"	ali-r hek’u haqχ’u sːu.	pn-inan2(gen) more house cop:neg	‘Ali lost his house.’
+85	43	<b>-itʃː.i-r	ERG	NOM	TR	TR		ali-di ɡedu b-itʃː.i-r.	pn-erg cat[an][nom] an-catch.pst-prog	‘Ali is catching the cat.’
+85	44	<r>-iqχ-onɬ.i	ERG	NOM	TR	TR	CAUS	ali-di ts’ur r-iqχ-onɬ.i.	pn-erg stick[inan2][nom] inan2-break_oneself-caus.pst(aor)	‘Ali broke the stick.’
+85	45	*	*	*	*		Нет хорошего перевода, что-то вроде praise, хвалить	pat’imati-di mariam j-etsːiqχ-o.	pn-erg pn[f][nom] f-praise-hab	‘Patimat is praising Mariam.’
+85	46	dʒiʔ.i-r	AFF	NOM	X	AFF_NOM	Same verb as in #58, #119	pat’imati-<j>o dʒiʔ.i-r mariam.	pn-aff<f> like.pst-prog pn[f][nom]	‘Patimat likes Mariam.’
+85	47	xʷaʔi-la	NOM	INST	Y	NOM_INST		pat’imati k’azil-qχi xʷaʔi-la	pn[f][nom] shawl.obl-inst waving-in	‘Patimat is waving with her shawl.’
+85	48	aniʃːi	GEN	NOM	X	GEN_NOM	NV (lit. 'Ali's dream is new car')	ali-b aniʃːi tsiw̃ maʃina	pn-inan1(gen) dream[inan1][nom] new car[inan1][nom]	‘Ali dreams of a new car.’
+85	49	a<r>tʃ.o-j	ERG	NOM	TR	TR		pat’imati-di a<r>tʃ.o-j tʃinɡil	pn-erg wash<inan2>.pst-pf cup[inan1][nom]	‘Patimat washed the cup.’
+85	50	riqχ’.inn-ij	ERG	NOM	TR	TR		ali-di riqχ’.inn-ij ortʃoɡi	pn-erg put_on_clothing.npst-pf trousers[inan1][nom]	‘Ali put on trousers.’
+85	51	ts’er	SUPER.LAT	NOM	X	SUPER.LAT_NOM	NV	he-b dan-ʔo ts’er qχ’ilba	dem-inan1 thing[inan1]-super.lat name[inan2][nom] compass	‘This thing is called a compass.’
+85	52	*	*	*	*		"NR: ""(52) There is no such word in Andi for ‘наказать’"""	*	*	*
+85	53	ɬib.i-j  hiʔo 	NOM	SUPER.LAT	Y	NOM_SUPER.LAT		sej ɬib.i-j hiʔo χʷammi b-itʃː.i-r-sːi hek’ʷaʃ-ʔo	bear[an][nom] jump.pst-pf postp fish[an][nom] an-catch.pst-prog-atr person.obl-super.lat	‘The bear attacked the fisherman.’
+85	54	<b>-its’.i-j	NOM	INST	Y	NOM_INST	There is a complication with this instrumental, which homonymous with the ergative. However, the two uses are reported to be syntactically distinct	vedra ɬen-di b-its’.i-j	bucket[inan1][nom] water-inst inan1-fill.pst-pf	‘The bucket has filled up with water.’
+85	55	r-osː.onn-ij	AFF	NOM	X	AFF_NOM		pat’imati-<r>o r-osː.onn-ij rek’ulol	pn-aff<inan2> inan2-pl\find-pst-pf keys[inan2].pl[nom]	‘Patimat has found the keys.’
+85	56	b-iʔ.u-mado-sːu	DAT	NOM	X	DAT_NOM	быть достаточно' (5) + NEG	ali-ɬu sːe-b som b-iʔ.u-mado-sːu	pn-dat one-inan1 rouble inan1-be_enough.pst-prog-neg	‘Ali is missing one rouble.’
+85	57	*	*	*	*		"Только ""не любит"" пока"	pat’imati-<j>o dʒiʔ.i-r-sːu mariam	pn-aff<f> like.pst-prog-neg pn[f][nom]	‘Patimat doesn’t like Mariam.’
+85	58	dʒiʔ.i-j	AFF	NOM	X	AFF_NOM	Same verb as in #46, #119	pat’imati-<r>o dʒiʔ.i-j ɡurdo	pn-aff<inan2> like.pst-pf shirt[inan2][nom]	‘Patimat likes [this] shirt.’
+85	59	*	*	*	*		"Получено только ""хотеть"""	ali-ɬu orsi qχ’oroqχ’.o-j	pn-dat money want.pst-pf	‘Ali wants/needs money.’
+85	60	hinni <b>-iʃ-oɬ.i-j	ERG	NOM	TR	TR	CV ('inside be.seized')	qχ’enada-di hinni b-iʃ-oɬ.i-j ʃahar	wall.pl.obl-erg inside inan1-be_seized.pst-pf town[inan1][nom]	‘The walls surround the town.’
+85	61	<b>-ekː.u-j	CONT	NOM	X	CONT_NOM	"Букв. ""упасть"""	ali-tʃ’u hots’o=ɡu som b-ekː.u-j	pn-cont ten=num rouble[inan1][nom] inan1-fall.pst-pf	‘Ali has ten roubles left.’
+85	62	dʒawab itʃː.i	ERG	DAT	Y	ERG_DAT	CV ('answer give')	ali-di utʃitelʃːu-j dʒawab itʃː.i.	pn-erg teacher.obl-dat answer[inan1][nom] give.pst(aor)	‘Ali answered the teacher.’
+85	63	arχ.onn-ij	ERG	NOM	TR	TR		pat’imati-di arχ.onn-ij banka.	pn-erg open.pst-pf tin[inan1][nom]	‘Patimat opened the tin.’
+85	64	bat’a	NOM	CONT	Y	NOM_CONT	NV	di-r ɡurdu du-r-tʃ’u bat’a.	I.obl-inan2(gen) shirt[inan1][nom] thou.obl-inan2(gen)-cont different	‘My shirt is different than yours.’
+85	65	<j>-eχːudu <j>-ekː.u-j	NOM	CONT	Y	NOM_CONT	"Тут в качестве предиката засчитано сочетание глагола и слова, которое переводится ""after"". Возможно, правильно было бы считать, что это слово входит в модель управления в комплекте с CONT"	pat’imati mariam-tʃ’u j-eχːudu j-ekː.u-j.	pn[f][nom] pn-cont f-after f-fall.pst-pf	‘Patimat fell behind Mariam.’
+85	66	<b>-eqχ’.i-r	ERG	NOM	TR	TR		ali-di b-eqχ’.i-r χur.	pn-erg inan1-plough.pst-prog field[inan1][nom]	‘Ali is ploughing the field.’
+85	67	ʃan (<b>-aχ-o)	CONT.EL	GEN	XY	CONT.EL_GEN	"Букв. ""с моих рук запах бензина (кончается)"". Есть аргументы за то, что ""бензин"" и ""запах"" не образуют единую именную группу"	di-r-ul reʔoba-tʃ’u-kːu benzinu-tɬi zolo ʃan (b-aχ-o).	I.obl-inan2(gen)-pl hand.pl.obl-cont-el benzine.obl-gen very odour[inan1][nom] inan1-end_up-pst(aor)	‘My hands smell benzine very strongly.’
+85	68	buqχ’-i	ERG	NOM	TR	TR	букв. 'разрезал'. Same verb as in #80.	ali-di miqχ’i buqχ’-i.	pn-erg road[inan1][nom] cut.pst(aor)	‘Ali crossed the road.’
+85	69	qχ’or.i-j	ERG	NOM	TR	TR	Same verb as in #31	pat’imati-di qχ’or.i-j baʁu ketʃ’i.	pn-erg call.pst-pf beautiful song[inan1][nom]	‘Patimat sang a beautifl song.’
+85	70	qχʷar.i-j	ERG	NOM	TR	TR		pat’imati-di qχʷar.i-j kaʁar.	pn-erg write.pst-pf lettter[inan1][nom]	‘Patimat has written a letter.’
+85	71	ts’ad.i	ERG	NOM	TR	TR		ali-di ʃiw̃ ts’ad.i.	pn-erg milk[inan2][nom] drink.pst(aor)	‘Ali has drunk the milk.’
+85	72	<b>-uts’-oɬ.i	ERG	NOM	TR	TR	CAUS	ali-di b-uts’-oɬ.i t’uʃi.	pn-erg inan1-melt-caus.pst(aor) lead	‘Ali has melt lead.’
+85	73	roqχ’.i-r	NOM	SUPER	Y	NOM_SUPER		hene-r rotɬ’utʃ’ur di-r gurdo-ʔa roqχ’.i-r.	dem-inan2 belt[inan2][nom] I.obl-inan2(gen) shirt-super convene.pst-prog	‘This belt fits my dress.’
+85	74	<w>-uʔ.onn-ij	NOM	SUPER.EL	Y	NOM_SUPER.EL	Same verb as in #123. Different pattern	ali w-uʔ.onn-ij hon-ʔa-kːu.	pn[m][nom] m-go.pst-pf village-super-el	‘Ali left the village.’
+85	75	riʃd.i-r	ERG	NOM	TR	TR		t’amsu-di riʃd.i-r itɬ’uɡu hoʔor.	carpet.obl-erg lock.pst-prog all floor[inan1][nom]	‘The carpet covers the whole floor.’
+85	76	rok’or-ʔa <r>-iʁ.i	AFF	NOM	X	AFF_NOM	CV ('в сердце стоит')	pat’imati-<r>o haqχ’u ʃu-r rok’or-ʔa r-iʁ.i	pn-aff<inan2> house[inan2][nom] good-inan2 heart.obl-super inan2-stand.pst(aor)	‘Patimat remembers the house well.’
+85	77	kumeki dʒid.i	ERG	DAT	Y	ERG_DAT	CV ('помощь делать')	pat’imati-di mariamu-ɬu kumeki dʒid.i.	pn-erg pn.obl-dat help[inan1][nom] make.pst(aor)	‘Patimat helped Mariam.’
+85	78	batʃ’ː.u-mado	AFF	NOM	X	AFF_NOM	"Для ""французского языка"" был получен перевод типа ""знает"", пришлось поменять на ""эти слова"""	hegeʃːu-<b>o batʃ’ː.u-mado hingi-b-ul roʃol.	dem.obl-aff<inan1> understand.pst-prog dem-inan1-pl[nom] word[inan1].pl[nom]	‘Patimat understands these words.’
+85	79	<b>-aχː.o-j	NOM	SUPER	Y	NOM_SUPER	"Слово ""дом"" использовалось в особой наречной форме, пришлось его поменять на ""дерево"""	piri b-aχː.o-j reʃu-ʔa.	lightning[inan1][nom] inan1-end_up.pst-pf wood-super	‘The lightning fell on the tree.’
+85	80	buqχ’.i-j	ERG	INST	Y	ERG_INST	Same verb as in #68	ali-di buqχ’.i-j besuno-qχi.	pn-erg cut.pst-pf knife.obl-inst	‘Ali cut himself with a knife.’
+85	81	<b>-ats’.i	NOM	SUPER	Y	NOM_SUPER		stakan ustulu-ʔa b-ats’.i.	glass[inan1][nom] table.obl-super inan1-stick.pst(aor)	‘The glass got stuck to the table.’
+85	82	<w>-uʁ.an	NOM	SUPER.LAT	Y	NOM_SUPER.LAT		ali muħammadi-ʔo w-uʁ.an.	pn[m][nom] pn.obl-super.lat m-lose.pst(aor)	‘Ali lost to Muhammad.’
+85	83	<j>-erʁ.ann-ij	NOM	CONT.EL	Y	NOM_CONT.EL		pat’imati pismo-tʃ’u-kːu j-erʁ.ann-ij.	pn[f][nom] letter-cont-el f-rejoince.pst-pf	‘Patimat rejoiced over the letter.’
+85	84	j-edːo-mado	NOM	COM	Y	NOM_COM		pat’imati mariam=lojɡu j-edːo-mado.	pn[f][nom] pn-com f-talk.pst-prog	‘Patimat is talking with Mariam.’
+85	85	dʒid.i	ERG	NOM	TR	TR	"Букв. ""сделать"", то же, что 36"	mariam-di woʃo dʒid.i.	pn-erg boy[m][nom] make.pst(aor)	‘Mariam gave birth to a boy.’
+85	86	<r>-ukː-oɬ.i	ERG	NOM	TR	TR	CAUS	pat’imati-di r-ukː-oɬ.i istakan.	pn.obl-erg inan2-fall-caus-pst(aor) glass[inan2][nom]	‘Patimat dropped a glass.’
+85	87	<w>-etʃ’uχa	NOM	INTER	Y	NOM_INTER	NV ('большой')	ali hon-tɬi w-etʃ’uχa.	pn[m][nom] village-inter m-big	‘Ali leads our village.’
+85	88	haluχ.onn-ij	NOM	INST	Y	NOM_INST		mariam haluχ.onn-ij pat’imati-qχi	pn[f][nom] miss.pst-pf pn-inst	‘Mariam misses Patimat.’
+85	89	<w>-eχːudu <w>-uʔ.inn-e	NOM	CONT	Y	NOM_CONT	"Тут в качестве предиката засчитано сочетание глагола и слова, которое переводится ""after"". Возможно, правильно было бы считать, что это слово входит в модель управления в комплекте с CONT"	ali muħammadi-tʃ’u w-eχːudu w-uʔ.inn-e	pn[m][nom] pn.obl-cont m-after m-go.npst-hab	‘Ali is going after/following Muhammad.’
+85	90	<w>-utɬ.i hitɬ’u	NOM	SUPER.EL	Y	NOM_SUPER.EL	CV ('become + POSTP'). Другими словами, тут в качестве предиката засчитано сочетание глагола и некого адвербиального элемента, возможно, следовао бы этот адвербиальный элемент считать частью зависимостного маркирования вместе с SUPER.EL	ali w-utɬ.i k’otu-ʔa-kːu hitɬ’u.	pn[m][nom] m-become.pst(aor) horse-super-el postp	‘Ali got off the horse.’
+85	91	antʃː.i-r	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	Same verb as in #92	pat’imat radiol-ʔo antʃː.i-r.	pn[f][nom] radio-super.lat listen.pst-prog	‘Patimat is listening to the radio.’
+85	92	antʃː.i	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	Same verb as in #91	ali baba-ʔo antʃː.i.	pn[m][nom] Mum-super.lat listen.pst(aor)	‘Ali obeys Mum.’
+85	93	anɬ.i-r	AFF	NOM	X	AFF_NOM		ali-<b>o anɬ.i-r ketʃ’ibaqχ’an.	pn-aff<inan1> hear.pst-prog song+melody[inan1][nom]	‘Ali hears the music.’
+85	94	a<r>ʒ.a-j	NOM	COM	Y	NOM_COM		hunts’ːi ʃiw̃=lojɡu itɬu a<r>ʒ.a-j.	honey[inan2][nom] milk=com all mix<inan2>.pst-pf	‘The honey has blended with the milk.’
+85	95	haltʃ’.o-mado	NOM	SUPER.LAT	Y	NOM_SUPER.LAT		pat’imat hiroda-ʔo tʃ’.on / haltʃ’.o-mado.	pn[f][nom] cloud.pl.obl-super.lat stand_waiting.pst(aor) look.pst-prog	‘Patimat is looking at the clouds.’
+85	96	<r>-uχ.i	ERG	NOM	TR	TR		ali-di ɡurdo r-uχ.i.	pn-erg shirt[inan2][nom] inan2-take.pst(aor)	‘Ali took off his shirt.’
+85	97	motɬ’i-tɬi ha-ʔ.o-r	AFF	NOM	X	AFF_NOM	"CV (""видеть во сне"")"	pat’imati-<j>o motɬ’i-tɬi ha-ʔ.o-r mariam .	pn.obl-aff<f> dream-inter see.pst-prog pn[f][nom]	‘Patimat dreams of Mariam.’
+85	98	razi	NOM	SUPER	Y	NOM_SUPER	"NV. То же, что 112. Нет уверенности в том, что это очень аккуратный перевод (скорее ""доволен""), но он воспроизведен снова, наверное, можно засчитать"	ali mariam-ʔa razi.	pn[m][nom] pn-super contented	‘Ali agreed with Mariam.’
+85	99	<j>-iχ.on	NOM	COM	Y	NOM_COM	Same verb as in #122, different pattern.	pat’imati j-iχ.on mariam=lojɡu.	pn[f][nom] f-be_offended.pst(aor) Mariam=com	‘Patimat quareled with Mariam.’
+85	100	baha	GEN	NOM	X	GEN_NOM	"NV (""цена""). Видимо, не образует единую составяляющую с ""чашкой"" (разрыв возможен)"	hono-b kuruʃku-tɬi baha oziru=ɡu som.	dem-inan1 cup-gen price[inan1][nom] thousand=num rouble	‘This cup costs a thousand roubles.’
+85	101	qχ’ʷaʁ.unn	ERG	SUPER.LAT	Y	ERG_SUPER.LAT		ali-di ʃːekibo-ʔo qχ’ʷaʁ.unn-ij.	pn-erg bird.obl-super.lat shoot.pst-pf	‘Ali shot at the bird.’
+85	102	t’inn.i	ERG	NOM	TR	TR		ali-di pisoki t’inn.i.	pn-erg sugar[inan1][nom] pour.pst(aor)	‘Ali poured sugar.’
+85	103	<r>-ot’-oɬ.i	ERG	NOM	TR	TR		ali-di r-ot’-oɬ.i rek’ulol.	pn-erg inan2-pl\lose-caus.pst(aor) key[inan2].pl[nom]	‘Ali lost the keys.’
+85	104	ʁʷanqχ’.unn-ij	NOM	INTER	Y	NOM_INTER		reʃa ɬen-tɬi ʁʷanqχ’.unn-ij.	wood[inan1][nom] water-inter sink. pst-pf	‘The log sank in the water.’
+85	105	dʒab.i	ERG	NOM	TR	TR	Тот же глагол, что в 106, но другая модель управления и отсюда разница в значении	ali-di muħammadi dʒab.i.	pn-erg pn[m][nom] beat.pst(aor)	‘Ali killed Muhammad.’
+85	106	dʒab.i	ERG	SUPER	Y	ERG_SUPER	Тот же глагол, что в 105, но другая модель управления и отсюда разница в значении	ali-di dʒab.i muħammadi-ʔa.	pn-erg beat.pst(aor) pn-super	‘Ali hit Muhammad.’
+85	107	ts’omm.i 	ERG	SUPER	Y	ERG_SUPER		χadiʒati-di ts’omm.i mariam-ʔa.	pn-erg kiss.pst(aor) pn-super	‘Khadizhat kissed Mariam.’
+85	108	baʔ.i 	ERG	NOM	TR	TR		pat’imati-di baʔ.i interesni χutʃa.	pn-erg read.pst(aor) interesting book[inan2][nom]	‘Patimat has read an interesting book.’
+85	109	<b>-erʁ-oɬ.i-j	ERG	NOM	TR	TR		ali-di ts’ek’a b-erʁ-oɬ.i-j.	pn-erg finger[inan1][nom] inan1-stir.pst-pf	‘Ali moved his finger’
+85	110	<j>-etʃ’uχa-jd.i-r	ERG	NOM	TR	TR		pat’imati-di j-etʃ’uχa-jd.i-r mariam.	pn-erg f-big-fct.pst-prog mariam[f][nom]	‘Patimat respects Mariam.’
+85	111	joʃ.u-mado-sːu	ERG	NOM	TR	TR	"Что-то вроде ""уважать, нравиться""+NEG. При переводе получена биабсолютивная конструкция из-за видового значения, глагол переходный"	pat’imati hek’u qχ’ajʔa joʃ.u-mado-sːu.	pn[f][nom] dirty dishes ?.pst-prog-neg	‘Patimat is disgusted by the dirty dishes.
+85	112	razi	NOM	SUPER	Y	NOM_SUPER	NV. То же, что 98	ali razi enʃu-w=ɡu woʃu-ʔa.	pn[m][nom] contented rfl-m(gen)=emph boy.obl-super	‘Ali is pleased with his son.’
+85	113	ruqχ’i <b>-ukː.u-j	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	CV ('любовь падать')	ali ruqχ’i b-ukː.u-j mariam-ʔo.	pn[m][nom] love[inan1][nom] inan1-fall.pst-pf mariam-super.lat	‘Ali fell in love with Mariam.’
+85	114	buʒ.u-rado	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	Same verb as in #7. (Here progressive) 	pat’imati buʒ.u-rado mariam-ʔo.	pn[f][nom] believe.pst-prog mariam-super.lat	‘Patimat trusts Mariam.’
+85	115	rok’o uzad.i-r	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	"CV (""сердце Х-а жалеет на Y-а""). ""Сердце"" и X могут быть разорваны"	pat’imati-tɬi rok’o uzad.i-r en-tɬi=ɡu baba-ʔo.	pn-gen heart[inan2][nom] pity.pst-prog rfl-gen=emph Mum-super.lat	‘Patimat feels sorry for her Mum.’
+85	116	rok’o qχubi-ɬ.i-j	GEN	SUPER.LAT	XY	GEN_SUPER	"CV (""сердце Х-а untidies на Y-а""). ""Сердце"" и X могут быть разорваны"	muħammadi-r rok’o qχubi-ɬ.i-j ali-ʔa.	pn-inan2(gen) heart[inan2][nom] untidy-inch.pst-pf pn-super	‘Muhammad envies Ali.’
+85	117	sːim <b>-iʔ.o-j	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	CV ('гнев приходить'). То же, что 127. В этом примере разрываемость специально не спрашивал, но предполагаю, что она есть по аналогии с другими примерами	pat’imati-tɬi sːim b-iʔ.o-j mariam-ʔo.	pn.obl-gen anger[inan1][nom] inan1-arrive.pst-pf pn-super.lat	‘Patimat is angry at Mariam.’
+85	118	tamaʃa-ɬ.i	NOM	SUPER	Y	NOM_SUPER		pat’imati tamaʃa-ɬ.i hede-b padarkal-ʔa.	pn[f][nom] surprise-inch.pst(aor) dem-inan1 gift.obl-super	‘Patimat was surprised by this gift.’
+85	119	dʒiʔ.i-r	AFF	NOM	X	AFF_NOM	Same verb as in #46, #58	pat’imati-<b>o dʒiʔ.i-r tʃaj.	pn-aff<inan1> like.pst-prog tea[inan1][nom]	‘Patimat likes tea.’
+85	120	t’aʔam <b>-iχ.i-r	ERG	CONT.EL	Y	ERG_CONT.EL	CV ('вкус брать')	pat’imati-di tʃa-tʃ’u-kːu t’aʔam b-iχ.i-r.	pn-erg tea-cont-el taste[inan1][nom] inan1-take.pst-prog	‘Patimat is enjoying hot tea.’
+85	121	qχ’oroqχ’.o-j	DAT	NOM	X	DAT_NOM		pat’imati-j qχ’oroqχ’.o-j ts’iw telefon.	pn-dat want.pst-pf new telephone[inan1][nom]	‘Patimat wants a new cellphone.’
+85	122	<j>-iχ.onn-ij	NOM	SUPER	Y	NOM_SUPER	Same verb as in #99. Different pattern.  Еще получен такой же перевод, как в 117	pat’imati j-iχ.onn-ij mariam-ʔa	pn[f][nom] f-be_offended.pst-pf pn-super	‘Patimat is cross with Mariam
+85	123	<w>-uχ.onn-ij	NOM	SUPER	Y	NOM_SUPER	Same verb as in #74. Different pattern	muħammad w-uχ.onn-ij ali-ʔa.	pn[m][nom] m-be_offended.pst-pf pn-super	‘Muhammad was offended by Ali.’
+85	124	waswasil-ʔo <j>-ukː-oɬ.i	ERG	NOM	TR	TR	CV, CAUS ('ронять в сомнение')	pat’imati-di waswasil-ʔo j-ukː-oɬ.i mariam.	pn-erg doubt.obl-super.lat f-fall-caus.pst(aor) pn[f][nom]	‘Patimat upset Mariam.’
+85	125	<w>-uχː.i-j	NOM	CONT.EL	Y	NOM_CONT.EL	"Буквально ""появился от этого города"""	ali w-uχː.i-j hono-b gorodil-tʃ’u-kːu.	pn[m][nom] m-appear.pst-pf dem-inan1 city-cont-el	‘Ali was astounded by that city.’
+85	126	ħaqχ’ir-ijd.i-r	AFF	NOM	X	AFF_NOM		pat’imati-<j>o ħaqχ’ir-ijd.i-r mariam.	pn-aff<f> humiliated-fct.pst-prog pn[f][nom]	‘Patimat despises Mariam.’
+85	127	sːim <b>-iʔ.o-j	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	Cf. 117. CV ('гнев приходить'). В этом примере разрываемость специально не спрашивал, но предполагаю, что она есть по аналогии с другими примерами	ali-b sːim b-iʔ.o-j enʃu-w=ɡu woʃu-ʔo.	pn-inan1(gen) anger[inan1][nom] inan1-arrive.pst-pf rfl-m(gen)=emph boy.obl-super.lat	‘Ali was upset by his son.’
+85	128	*	*	*	*		Ничего особенно убедительного не получено. Либо та же структура, что в 117 и 127, либо просто переходная конструкция, где Y раздражает X-а	*	*	*
+85	129	rok’or-di <j>-iχ.i-j	AFF	NOM	X	AFF_NOM	CV. ('heart-ERG take')	pat’imati-<j>o mariam rok’or-di j-iχ.i-j.	pn-aff<f> pn[f][nom] heart.obl-erg f-take.pst-pf	‘Patimat is fond of Mariam.’
+85	130	sːuloʔ.o-rado	NOM	CONT.EL	Y	NOM_CONT.EL		ali sːuloʔ.o-rado enʃu-b=ɡu wotʃo-ɬir-tʃ’u-kːu.	pn[m][nom] be_embarrassed.pst-prog rfl.obl-inan1(gen)=emph short-abst-cont-el	‘Ali is ashamed by his height (lit. ‘by his shortness’).’
+83	1	jeʃ	*	*	*		Literally, 'there is Y-pain to X'. It is not possible to include this pattern, because Y is clearly adnominal.	le Pinχas jeʃ koev roʃ	to Pinchas there.is[PRS] pain head	‘P. has a headache.’
+83	2	jeʃ	le	SBJ	X	le_SBJ	Same as #38. The predicate is literally 'there is'. 'Flu' is the subject.	le Pinχas jeʃ ʃapaat	to Pinchas there.is[PRS] flu	‘P. has flu.’
+83	3	mefaχed	SBJ	mi	Y	SBJ_mi		Pinχas mefaχed me ha kelev	Pinchas be.afraid[SG.M] from DEF dog	‘P. is afraid of the dog.’
+83	4	zarak	SBJ	DO	TR	TR		Pinχas zarak even	Pinchas throw[PST.3SG.M] stone	‘P. threw a stone.’
+83	5	*	*	*	*		Literally, 'there is enough money to X'. 'enough' is clearly adnominal, so there is no predicate with the meaning 'to have enough'	aχʃav jeʃ le Pinχas maspik kesef	now there.is[PRS] to Pinchas enough money	‘Now P. has enough money.’
+83	6	dome	SBJ	le	Y	SBJ_le	NV	Pinχas dome le Menaχem	Pinchas similar to Menachem	‘P. resembles M.’
+83	7	maamin 	SBJ	le	Y	SBJ_le		Pinχas maamin le Menaχem	Pinchas believe[PTCP.SG.M] to Menachem	‘P. believes M.’
+83	8	lakaχ	SBJ	DO	TR	TR		Pinχas lakaχ sefer	Pinchas take[PST.3SG.M] book	‘P. took a book.’
+83	9	ro-e	SBJ	DO	TR	TR		Pinχas ro-e bajt	Pinchas see[PTCP]-SG.M house	‘P. sees a house.’
+83	10	maʃpia	SBJ	al	Y	SBJ_al		gil maʃpia al ha zikaron	age influence[PTCP.SG.M] on DEF memory	‘Age influences memory.’
+83	11	nitkal 	SBJ	be	Y	SBJ_be	Alternative translation is Pinχas pagaʃ et Menaχem [Pinchas encounter[PST.3SG.M] DO Menachem], transitive structure. I take this one, because DN says it is more informal + it is intransitive	Pinχas nitkal be Menaχem	Pinchas bump.into[PST.3SG.M] in Menachem	‘P. encountered M.’
+83	12	niχnas	SBJ	el	Y	SBJ_el		Pinχas niχnas el ha bajt	Pinchas enter[PST.3SG.M] towards DEF house	‘P. entered the house.’
+83	13	nitsaχ	SBJ	DO	TR	TR	Alternative translation is with the verb hevis, the structure is the same	Pinχas nitsaχ et Menaχem	Pinchas beat[PST.3SG.M] DO Menachem	‘P. beat M.’
+83	14	jatsa	SBJ	mi	Y	SBJ_mi		Pinχas jatsa me ha bajt	Pinchas exit[PST.3SG.M] from DEF house	‘P. went out of the house.’
+83	15	movil	SBJ	DO	TR	TR		Pinχas movil et ha para	Pinchas drive[PTCP.SG.M] DO DEF cow	‘P. is driving the cow.’
+83	16	kofef	SBJ	DO	TR	TR		Pinχas kofef et ha anaf	Pinchas bend[PST.3SG.M] DO DEF branch	‘P. bent the branch.’
+83	17	amar	SBJ	le	Y	SBJ_le		Pinχas amar le Menaχem	Pinchas say[PST.3SG.M] to Menachem	‘P. told Menachem.’
+83	18	maχzik	SBJ	DO	TR	TR		Pinχas maχzik sefer	Pinchas hold[PTCP.SG.M] book	‘P. is holding a book.’
+83	19	higia	SBJ	el	Y	SBJ_el	"Same as #21. Alternative translation is Pinχas hidbik et tsadiy-a ʃel Mirjam, ""Pinchas catch.up[PST.3SG.M] DO side-POSS.3SG.F POSS Miriam"", not suitable for my purposes, because Mirjam is the adnominal dependent of ""side"""	Pinχas higia el Mirjam	Pinchas reach[PST.3SG.M] towards Miriam	‘P. caught up with M.’
+83	20	χalav	SBJ	DO	TR	TR		Pinχas χalav et ha para	Pinchas milk[PST.3SG.M] DO DEF cow	‘P. milked the cow.’
+83	21	higia 	SBJ	el	Y	SBJ_el	Same as #19	Pinχas higia el ha gada	Pinchas reach[PST.3SG.M] towards DEF bank	‘P. reached the bank.’
+83	22	naga 	SBJ	be	Y	SBJ_be		Pinχas naga ba kir	Pinchas touch[PST.3SG.M] in+DEF wall	‘P. touched the wall.’
+83	23	rav	SBJ	im	Y	SBJ_im	Same as #99. Alternative predicate is holeχ mak-ot [go[PTCP.SG.M] punch-PL], the valency structure is the same	Pinχas rav im Menaχem	Pinchas fight[PTCP.SG.M] with Menachem	‘P. is fighting with M.’
+83	24	χaver	*	*	*		Y is syntactically an adnominal dependents, 'X (is) Y's friend', I don't take this	Pinχas χaver ʃel Menaχem	Pinchas friend POSS Menachem	‘P. is friends with M.’
+83	25	hoʃev	SBJ	al	Y	SBJ_al		Pinχas hoʃev al Menaχem	Pinchas think[PTCP.SG.M] on Menachem	‘P. is thinking about M.’
+83	26	aχal	SBJ	DO	TR	TR		Pinχas aχal tapuaχ	Pinchas eat[PST.3SG.M] apple	‘P. ate an apple.’
+83	27	tigen	SBJ	DO	TR	TR		Pinχas tigen et ha dag	Pinchas fry[PST.3SG.M] DO DEF fish	‘P. fried the fish.’
+83	28	meχake	SBJ	le	Y	SBJ_le		Pinχas meχake le Menaχem	Pinchas wait[PTCP.SG.M] to Menachem	‘P. is waiting for M.’
+83	29	ʃaχaχ	SBJ	DO	TR	TR		Pinχas ʃaχaχ et ha dereχ ha aχeret	Pinchas forget[PST.3SG.M] DO DEF road DEF other	‘P. forgot (about) the other road.’
+83	30	taluj 	SBJ	be	Y	SBJ_be	NV	zikaron taluj be gil	memory dependent in age	‘Memory depends on age.’
+83	31	hitkaʃer	SBJ	le	Y	SBJ_le		Pinχas hitkaʃer le Menaχem	Pinchas call[PST.3SG.M] to Menachem	‘P. called M.’
+83	32	hikir	SBJ	DO	TR	TR		Pinχas hikir et Menaχem lifnej ʃaa	Pinchas know[PST.3SG.M] DO Menachem ago year	‘P. got to know M. a year ago.’
+83	33	makir	SBJ	DO	TR	TR		Pinχas makir et Menaχem	Pinchas know[PTCP.SG.M] DO Menachem	‘P. knows M.’
+83	34	menagen	SBJ	be	Y	SBJ_be		Pinχas menagen ba gitara	Pinchas play[PTCP.SG.M] in+DEF guitar	‘P. is playing the guitar.’
+83	35	mitχamek	SBJ	mi	Y	SBJ_mi		Pinχas mitχamek mi Menaχem	Pinchas avoid[PTCP.SG.M] from Menachem	‘P. avoids M.’
+83	36	heχin	SBJ	DO	TR	TR		Pinχas heχin malkodet aχbar-im	Pinchas prepare[PST.3SG.M] trap mouse-PL	‘P. made a mousetrap.’
+83	37	maknit	SBJ	DO	TR	TR	Alternative translation is Pinχas os-e tsχok mi Menaχem [Pinchas do[PTCP.SG]-M laughter from Menachem]. DN: maknit seems to be more precise. Grossman says that ose tsxok is closer to ‘to make a laughing stock of smbd’	Pinχas maknit et Menaχem	Pinchas tease[PTCP.SG.M] DO Menachem	‘P. is making fun of M.’
+83	38	jeʃ 	le	SBJ	X	le_SBJ	Same as #2. The predicate is literally 'there is'. Car is the subject	jeʃ le Pinχas meχona	there.is[PRS] to Pinchas car	‘P. has a car.’
+83	39	meχapes	SBJ	DO	TR	TR		Pinχas meχapes et ha maftex-ot ʃel-o	Pinchas search[PTCP.SG.M] DO DEF key-PL POSS-3SG.M	‘P. is looking for his keys.’
+83	40	tsava	SBJ	DO	TR	TR		Pinχas tsava et ha gader	Pinchas paint[PST.3SG.M] DO DEF fence	‘P. painted the fence.’
+83	41	naʃaχ 	SBJ	DO	TR	TR		kelev naʃaχ et Pinχas	dog bite[PST.3SG.M] DO Pinchas	‘A dog bit P.’
+83	42	ibed	SBJ	DO	TR	TR	Same as #103	Pinχas ibed et ha bajt ʃel-o	Pinchas lose[PST.3SG.M] DO DEF house POSS-3SG.M	‘P. lost hist house.’
+83	43	menas-e litpos	SBJ	DO	TR	TR	CV ('try to catch')	Pinχas menas-e litpos et ha χatul	Pinchas try[PTCP]-SG.M catch[INF] DO DEF cat	‘P. is trying to catch the cat.’
+83	44	ʃavar	SBJ	DO	TR	TR		Pinχas ʃavar makel	Pinchas break[PST.3SG.M] stick	‘P. broke a stick.’
+83	45	maχmi	SBJ	le	Y	SBJ_le		Pinχas maχmi le Menaχem	Pinchas flatter[PTCP.SG.M] to Menachem	‘P. is flattering M.’
+83	46	ohev	SBJ	DO	TR	TR	Same as # 58	Pinχas ohev et Menaχem	Pinchas love[PTCP.SG.M] DO Menachem	‘P. loves M.’
+83	47	menofef	SBJ	be	Y	SBJ_be		Pinχas menofef be mitpaχat	Pinchas wave[PTCP.SG.M] in handkerchief	‘P. is waving a handkerchief.’
+83	48	χolem	SBJ	al	Y	SBJ_al	Same as #97	Pinχas χolem al meχonit χadaʃa	Pinchas dream[PTCP.SG.M] on car new	‘P. is dreaming of a new car.’
+83	49	ʃataf	SBJ	DO	TR	TR		Pinχas ʃataf et ha kos	Pinchas wash[PST.3SG.M] DO DEF cup	‘P. washed the cup.’
+83	50	lavaʃ	SBJ	DO	TR	TR		Pinχas lavaʃ et miχnasa-v	Pinchas put.on[PST.3SG.M] DO trousers-POSS.3SG.M.PL	‘P. put on his trousers.’
+83	51	kor-im 	le	DO	X	le_DO	"DN: ""this is an impersonal cxn, and matspen does indeed fill the slot for DO"""	le kli ha z-e kor-im matspen	to instrument DEF this[SG]-M call-PL compass	‘This instrument is called a compass.’
+83	52	heenish	SBJ	DO	TR	TR		Pinχas heenish et ha ben ʃel-o	Pinchas punish[PST.3SG.M] DO DEF son POSS-3SG.M	‘P. punished his son.’
+83	53	takaf	SBJ	DO	TR	TR		dav takaf dajag	bear attack[PST.3SG.M] fisherman	‘A bear attacked a fisherman.’
+83	54	hitmale	SBJ	be	Y	SBJ_be		ha dli hitmale be maim	DEF bucket fill[PST.3SG.M] in water	‘The bucket filled with water.’
+83	55	matsa	SBJ	DO	TR	TR		Pinχas matsa et ha mafteχot ʃel-o	Pinchas find[PST.3SG.M] DO DEF key-PL POSS-3SG.M	‘P. found his keys.’
+83	56	χaser	le	SBJ	X	le_SBJ		χaser le Pinχas juro eχad	is.lacking to Pinchas euro one	‘P. is one euro short.’
+83	57	sone	SBJ	DO	TR	TR		Pinχas sone et Menaχem	Pinchas hate[PTCP.SG.M] DO Menachem	‘P. hates M.’
+83	58	ohev	SBJ	DO	TR	TR	Same as #46	Pinχas ohev et ha χultsa ha z-o	Pinchas love[PTCP.SG.M] DO DEF shirt DEF this[SG]-F	‘P. likes this shirt.’
+83	59	tsariχ	SBJ	DO	TR	TR		Pinχas tsariχ kesef	Pinchas need[PTCP.SG.M] money	‘P. needs money.’
+83	60	makif-ot	SBJ	DO	TR	TR		χom-ot makif-ot et ha ir	wall-PL surround[PTCP]-PL.F DO DEF city	‘Walls surround the city.’
+83	61	niʃar-u	le	SBJ	X	le_SBJ	Y is the subject (controls agrreement, etc.)	niʃar-u le Pinχas asara juro	be.left-3PL to Pinchas ten[M] euro	‘P. has ten euro left.’
+83	62	ana	SBJ	le	Y	SBJ_le		Pinχas ana le more	Pinchas respond[PST.3SG.M] to teacher	‘P. answered the teacher.’
+83	63	pataχ	SBJ	DO	TR	TR		Pinχas pataχ paχit	Pinχas open[PST.3SG.M] can	‘P. opened a can.’
+83	64	ʃone	SBJ	mi	Y	SBJ_mi	NV	lo ha χultsa ʃel-i ʃone mi ʃel-χa	no DEF shirt POSS-1SG different from POSS-2SG.M	‘No, my shirt is different from yours.’
+83	65	piger	SBJ	axarej	Y	SBJ_axarej		Pinχas piger aχarej Menaχem	Pinchas lag[PST.3SG.M] after Menachem	‘P. fell behind M.’
+83	66	χoreʃ	SBJ	DO	TR	TR		Pinχas χoreʃ et ha sade	Pinchas plow[PTCP.SG.M] DO DEF field	‘P. is ploughing the field.’
+83	67	meriχ-ot	SBJ	mi	Y	SBJ_mi		ha jad-ajim ʃel-i meriχ-ot mi delek	DEF hand-PL POSS-1SG smell[PTCP]-PL.F from gasoline	‘My hands smell of gasoline.’
+83	68	χatsa	SBJ	DO	TR	TR		Pinχas χatsa et ha reχov	Pinchas cross[PST.3SG.M] DO DEF street	‘P. crossed the road.’
+83	69	ʃar	SBJ	DO	TR	TR		Pinχas ʃar ʃir jafe	Pinchas sing[PST.3SG.M] song beautiful	‘P. sang a beautiful song.’
+83	70	katav	SBJ	DO	TR	TR		Pinχas katav miχtav	Pinchas write[PST.3SG.M] letter	‘P. wrote a letter.’
+83	71	ʃata	SBJ	DO	TR	TR		Pinχas ʃata et ha χalav	Pinchas drink[PST.3SG.M] DO DEF milk	‘P. drank the milk.’
+83	72	hitiχ	SBJ	DO	TR	TR		Pinχas hitiχ pisa-t oferet	Pinchas melt[PST.3SG.M] piece-CS lead	‘P. melted a piece of lead.’
+83	73	matim-a	SBJ	le	Y	SBJ_le		ha χagora ha z-o matim-a le simla ʃel-i	DEF belt DEF this[SG]-F fit[PTCP.SG]-F to dress POSS-1SG	‘This belt goes well with my dress.’
+83	74	azav	SBJ	DO	TR	TR		Pinχas azav et ir uledat-o	Pinchas leave[PST.3SG.M] DO city birth-POSS.3SG.M	‘P. left his native city.’
+83	75	meχas-e	SBJ	DO	TR	TR		ha ʃatiaχ meχas-e et kol ha ritspa	DEF carptet cover[PTCP.SG]-M DO whole DEF floor	‘The carpet covers the whole floor.’
+83	76	zoχer	SBJ	DO	TR	TR		Pinχas zoχer tov et ha bajt	Pinchas remember[PTCP.SG.M] good DO DEF house	‘P. remembers the house well.’
+83	77	azar	SBJ	le	Y	SBJ_le		Pinχas azar le Menaχem	Pinchas help[PST.3SG.M] to Menachem	‘P. helped M.’
+83	78	mevin	SBJ	DO	TR	TR		Pinχas mevin tsarfatit	Pinchas understand[PTCP.SG.M] French	‘P. understands French.’
+83	79	paga	SBJ	be	Y	SBJ_be		barak paga ba bajt	lightning hit[PST.3SG.M] in+DEF house	‘Lightning struck the house.’
+83	80	χataχ et atsm-o	SBJ	im	Y	SBJ_im		Pinχas χataχ et atsm-o im taar	Pinchas cut[PST.3SG.M] DO self-3SG.M with razor	‘P. cut himself with a razor.’
+83	81	nidbak-a	SBJ	le	Y	SBJ_le		ha kos nidbak-a le ʃulχan	DEF glass get.stuck[PST]-3SG.F to table	‘The glass got stuck to the table.’
+83	82	ifsid	SBJ	le	Y	SBJ_le		Pinχas ifsid le Menaχem	Pinchas lose[PST.3SG.M] to Menachem	‘P. lost to M.’
+83	83	samaχ	SBJ	legabej	Y	SBJ_legabej		Pinχas samaχ legabej ha miχtav	Pinchas be.glad[PST.3SG.M] about DEF letter	‘P. was glad about the letter.’
+83	84	medaber	SBJ	im	Y	SBJ_im		Pinχas medaber im Menaχem	Pinchas speak[PTCP.SG.M] with Menachem	‘P. is speaking with M.’
+83	85	jald-a	SBJ	DO	TR	TR		Mirjam jald-a ben	Miriam give.birth[PST]-3SG.F son	‘M. gave birth to a son.’
+83	86	hipil	SBJ	DO	TR	TR		Pinχas hipil et ha kos	Pinchas drop[PST.3SG.M] DO DEF glass	‘P. dropped the glass.’
+83	87	menahel	SBJ	DO	TR	TR		Pinχas menahel et ha ir ʃel-anu	Pinchas manage[PTCP.SG.M] DO DEF city POSS-1PL	‘P. runs our town.’
+83	88	mitgagea	SBJ	le	Y	SBJ_le		Pinχas mitgagea le Menaχem	Pinchas miss[PTCP.SG.M] to Menachem	‘P. misses M.’
+83	89	okev	SBJ	axarej	Y	SBJ_axarej		Pinχas okev aχarej Menaχem	Pinchas follow[PTCP.SG.M] after Menachem	‘P. follows M.’
+83	90	jarad	SBJ	mi	Y	SBJ_mi		Pinχas jarad me ha sus	Pinchas descend[PST.3SG.M] from DEF horse	‘P. got down from the horse.’
+83	91	makʃiv	SBJ	le	Y	SBJ_le	Same as #92	Pinχas makʃiv le radio	Pinchas listen[PTCP.SG.M] to radio	‘P. is listening to radio.’
+83	92	makʃiv 	SBJ	le	Y	SBJ_le	Same as #91	Pinχas tamid makʃiv le ima ʃel-o	Pinchas always listen[PTCP.SG.M] to mother POSS-3SG.M	‘P. always listens to his mother.’
+83	93	shomea	SBJ	DO	TR	TR		Pinχas shomea et ha muzika	Pinchas hear[PTCP.SG.M] DO DEF music	‘P. hears the music.’
+83	94	hitarbev	SBJ	im	Y	SBJ_im		ha dvaʃ hitarbev im ha χalav	DEF honey get.mixed[PST.3SG.M] with DEF milk	‘The honey got mixed with milk.’
+83	95	mistakel	SBJ	al	Y	SBJ_al		Pinχas mistakel al ha anan-im	Pinchas look[PTCP.SG.M] on DEF cloud-PL	‘P. is looking at the clouds.’
+83	96	paʃat	SBJ	DO	TR	TR	Alternative: horid, same structure	Pinχas paʃat et ha χultsa ʃel-o	Pinchas take.off[PST.3SG.M] DO DEF shirt POSS-3SG.M	‘P. took off his shirt.’
+83	97	χolem-et	SBJ	al	Y	SBJ_al	Same as #48	Mirjam χolem-et al Pinχas	Miriam dream[PTCP]-SG.F on Pinchas	‘M. dreams about P.’
+83	98	hiskim	SBJ	im	Y	SBJ_im		Pinχas hiskim im Menaχem	Pinchas agree[PST.3SG.M] with Menachem	‘P. agreed with M.’
+83	99	rav	SBJ	im	Y	SBJ_im	Same as #23	Pinχas rav im Menaχem	Pinchas quarrel[PST.3SG.M] with Menachem	‘P. had a quarrel with M.’
+83	100	ol-a	SBJ	DO	TR	TR		ha kos ha z-ot ol-a juro	DEF cup DEF this[SG]-F cost[PTCP]-SG.F euro	‘This cup costs 1 euro.’
+83	101	jara	SBJ	be	Y	SBJ_be		Pinχas jara be tsipor	Pinchas shoot[PST.3SG.M] in bird	‘P. shot at the bird.’
+83	102	ʃafaχ	SBJ	DO	TR	TR		Pinχas ʃafaχ et ha sukar	Pinchas pour[PST.3SG.M] DO DEF sugar	‘P. poured the sugar.’
+83	103	ibed	SBJ	DO	TR	TR	Same as #42	Pinχas ibed et ha mafteχ-ot ʃel-o	Pinchas lose[PST.3SG.M] DO DEF key-PL POSS-3SG.M	‘P. lost his keys.’
+83	104	ʃaka	SBJ	be	Y	SBJ_be		bul ha ets ʃaka ba maim	log1 DEF log2 sink[PST.3SG.M] in+DEF water	‘The log sank in the water.’
+83	105	harag	SBJ	DO	TR	TR		Pinχas harag et Menaχem	Pinchas kill[PST.3SG.M] DO Menachem	‘P. killed M.’
+83	106	hika	SBJ	DO	TR	TR		Pinχas hika et Menaχem	Pinchas hit[PST.3SG.M] DO Menachem	‘P. hit M.’
+83	107	niʃek	SBJ	DO	TR	TR		Pinχas niʃek et Menaχem	Pinchas kiss[PST.3SG.M] DO Menachem	‘P. kissed M.’
+83	108	kara	SBJ	DO	TR	TR		Pinχas kara sefer meanjen	Pinchas read[PST.3SG.M] book interesting	‘P. read an interesting book.’
+83	109	heevir	SBJ	DO	TR	TR		Pinχas heevir et etsba-o	Pinchas move[PST.3SG.M] DO finger-POSS.3SG.M	‘P. moved his finger.’
+83	110	meχabed	SBJ	DO	TR	TR		Pinχas meχabed et Menaχem	Pinchas respect[PTCP.SG.M] DO Menachem	‘P. respects M.’
+83	111	nirta	SBJ	mi	Y	SBJ_mi	"SS. I take this as the equivalent. The Russian translation of nirta is ‘отпрянуть, испугаться’. No ideal, but better than other alternatives. The original translation in the questionnaire was ""Pinχas ragiʃ le kel-im meluχlaχ-im"" [Pinchas sensitive to dish-PL dirty-PL]"	Pinxas nirta mi kelim meluxlaxim	Pinchas be.afraid[PTCP.SG.M] from dish-PL dirty-PL	‘P. is squeamish about dirty dishes.’
+83	112	merutse	SBJ	mi	Y	SBJ_mi	NV	Pinχas merutse me ha ben ʃel-o	Pinchas satisfied from DEF son POSS-3SG.M	‘P. is satisfied with his son.’
+83	113	hitahev	SBJ	be	Y	SBJ_be		Pinχas hitahev be Menaχem	Pinchas fall.in.love[PST.3SG.M] in Menachem	‘P. fell in love with M.’
+83	114	someχ	SBJ	al	Y	SBJ_al		Pinχas someχ al Menaχem	Pinchas trust[PTCP.SG.M] on Menachem	‘P. trusts M.’
+83	115	meraxem	SBJ	al	Y	SBJ_al		Pinχas meraxem al im-o	Pinchas sympathise[PTCP.SG.M] on mother-POSS.3SG.M	‘P. sympathises with his mother.’
+83	116	mekan-e	SBJ	be	Y	SBJ_be		Pinχas mekan-e be Menaχem	Pinchas envy[PTCP]-SG.M im Menachem	‘P. envies M.’
+83	117	koes	SBJ	al	Y	SBJ_al		Pinχas koes al Menaχem	Pinchas be.angry[PTCP.SG.M] on Menachem	‘P. is angry with M.’
+83	118	hufta	SBJ	mi	Y	SBJ_mi		Pinχas hufta me ha matana ha z-o	Pinchas be.surprised[PST.3SG.M] from DEF gift DEF this-SG.F	‘P. was surprised at this gift.’
+83	119	ohev	SBJ	DO	TR	TR		Pinχas ohev te	Pinchas love[PTCP.SG.M] tea	‘P. loves tea.’
+83	120	nehene	SBJ	mi	Y	SBJ_mi	"Mitja's comment: ""Халели пропустила это предложение. Я спросил Гроссмана, он выдавил из себя это, но говорит, что sounds artificial"""	Pinχas nehene me ha te ha χam	Pinchas enjoy[PTCP.SG.M] from DEF tea DEF hot	‘P. enjoys hot tea.’
+83	121	rots-e	SBJ	DO	TR	TR		Pinχas rots-e telefon najad χadaʃ	Pinchas want[PTCP.SG]-M phone mobile new	‘P. wants a new mobile phone.’
+83	122	noter tina	SBJ	le	Y	SBJ_le	CV ('guard malice')	Pinχas noter tina le Menaχem	Pinchas guard[PTCP.SG.M] malice to Menachem	‘P. holds a grudge against M.’
+83	123	nifga	SBJ	mi	Y	SBJ_mi		Pinχas nifga mi Menaχem	Pinchas be.offended[PST.3SG.M] from Menachem	‘P. took offence at M.’
+83	124	hirgiz 	SBJ	DO	TR	TR		Pinχas hirgiz meod et Mirjam	Pinchas upset[PST.3SG.M] much Miriam	‘P. greatly upset M.’
+83	125	hitraʃem	SBJ	mi	Y	SBJ_mi		Pinχas hitraʃem me ha ir ha z-o	Pinchas be.impressed[PST.3SG.M] from DEF town DEF this-SG.F	‘P. was impressed by this town.’
+83	126	metaev	SBJ	DO	TR	TR		Pinχas metaev et Menaχem	Pinchas despise[PTCP.SG.M] DO Menachem	‘P. despises M.’
+83	127	hitatsben	SBJ	al	Y	SBJ_al		Pinχas hitatsben al ha ben ʃel-o	Pinchas become.annoyed[PST.3SG.M] on DEF son POSS-3SG.M	‘P. got upset with his son.’
+83	128	mitatsben	SBJ	al	Y	SBJ_al		Pinχas mitatsben al ha bat ʃel-o	Pinχas become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M	‘P. is getting irritated with his daughter.’
+83	129	meχabev	SBJ	DO	TR	TR		Pinχas meχabev et Menaχem	Pinchas like[PTCP.SG.M] DO Menachem	‘P. is fond of M.’
+83	130	mitbajeʃ	SBJ	be	Y	SBJ_be		Pinχas mitbajeʃ ba gova ʃel-o	Pinchas be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M	‘P. is embarrased about his height.’
