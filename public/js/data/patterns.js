@@ -92,7 +92,7 @@ const patternsData = [
     "Andi_Zilo"
   ],
   [
-    "1",
+    1,
     "feel_pain",
     "X (have) Yache",
     "болеть-1",
@@ -184,7 +184,7 @@ const patternsData = [
     "GEN_NOM"
   ],
   [
-    "2",
+    2,
     "have#illness#",
     "X (have) Y",
     "болеть-2",
@@ -276,7 +276,7 @@ const patternsData = [
     "NOM_COM"
   ],
   [
-    "3",
+    3,
     "be_afraid",
     "X (be afraid) of Y",
     "бояться",
@@ -368,7 +368,7 @@ const patternsData = [
     "NOM_CONT"
   ],
   [
-    "4",
+    4,
     "throw",
     "X (throw) Y",
     "бросить",
@@ -460,7 +460,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "5",
+    5,
     "have_enough",
     "X (have enough) Y",
     "быть достаточно",
@@ -552,7 +552,7 @@ const patternsData = [
     "DAT_NOM"
   ],
   [
-    "6",
+    6,
     "resemble",
     "X (resemble) Y",
     "быть похожим",
@@ -644,7 +644,7 @@ const patternsData = [
     "NOM_AFF"
   ],
   [
-    "7",
+    7,
     "believe",
     "X (believe) Y",
     "верить",
@@ -736,7 +736,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "8",
+    8,
     "take",
     "X (take) Y",
     "взять",
@@ -828,7 +828,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "9",
+    9,
     "see",
     "X (see) Y",
     "видеть",
@@ -920,7 +920,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "10",
+    10,
     "influence",
     "X (influence) Y",
     "влиять",
@@ -1012,7 +1012,7 @@ const patternsData = [
     ""
   ],
   [
-    "11",
+    11,
     "encounter",
     "X (encounter) Y",
     "встречаться",
@@ -1104,7 +1104,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "12",
+    12,
     "enter",
     "X (enter) Y",
     "входить ",
@@ -1196,7 +1196,7 @@ const patternsData = [
     "NOM_ILLAT"
   ],
   [
-    "13",
+    13,
     "win",
     "X (beat) Y",
     "выиграть",
@@ -1288,7 +1288,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "14",
+    14,
     "go_out",
     "X (go out) of Y",
     "выходить",
@@ -1380,7 +1380,7 @@ const patternsData = [
     "NOM_IN.EL"
   ],
   [
-    "15",
+    15,
     "drive",
     "X (drive) Y",
     "гнать",
@@ -1472,7 +1472,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "16",
+    16,
     "bend",
     "X (bend) Y",
     "гнуть",
@@ -1564,7 +1564,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "17",
+    17,
     "tell",
     "X (tell) Y",
     "говорить",
@@ -1656,7 +1656,7 @@ const patternsData = [
     "ERG_INST"
   ],
   [
-    "18",
+    18,
     "hold",
     "X (hold)Y",
     "держать",
@@ -1748,7 +1748,7 @@ const patternsData = [
     "CONT_NOM"
   ],
   [
-    "19",
+    19,
     "catch_up",
     "X (catch up) with Y",
     "догнать",
@@ -1840,7 +1840,7 @@ const patternsData = [
     "NOM_CONT"
   ],
   [
-    "20",
+    20,
     "milk",
     "X (milk) Y",
     "доить",
@@ -1932,7 +1932,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "21",
+    21,
     "reach",
     "X (reach) Y",
     "достичь",
@@ -2024,7 +2024,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "22",
+    22,
     "touch",
     "X (touch) Y",
     "дотронуться",
@@ -2116,7 +2116,7 @@ const patternsData = [
     "ERG_SUPER"
   ],
   [
-    "23",
+    23,
     "fight",
     "X (fight) with Y",
     "драться",
@@ -2208,7 +2208,7 @@ const patternsData = [
     "NOM_COM"
   ],
   [
-    "24",
+    24,
     "be_friends",
     "X (be friends) with Y",
     "дружить",
@@ -2300,7 +2300,7 @@ const patternsData = [
     "NOM_COM"
   ],
   [
-    "25",
+    25,
     "think",
     "X (think) about Y",
     "думать",
@@ -2392,7 +2392,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "26",
+    26,
     "eat",
     "X (eat) Y",
     "есть",
@@ -2484,7 +2484,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "27",
+    27,
     "fry",
     "X (fry) Y",
     "жарить",
@@ -2576,7 +2576,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "28",
+    28,
     "wait",
     "X (wait) for Y",
     "ждать",
@@ -2668,7 +2668,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "29",
+    29,
     "forget",
     "X (forget) (about) Y",
     "забывать",
@@ -2760,7 +2760,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "30",
+    30,
     "depend",
     "X (depend) on Y",
     "зависеть",
@@ -2852,7 +2852,7 @@ const patternsData = [
     ""
   ],
   [
-    "31",
+    31,
     "call",
     "X (call) Y",
     "звать",
@@ -2944,7 +2944,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "32",
+    32,
     "get_to_know",
     "X (get to know) Y",
     "знакомиться",
@@ -3036,7 +3036,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "33",
+    33,
     "know",
     "X (know) Y",
     "знать ",
@@ -3128,7 +3128,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "34",
+    34,
     "play#instrument#",
     "X (play) Y",
     "играть",
@@ -3220,7 +3220,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "35",
+    35,
     "avoid",
     "X (avoid) Y",
     "избегать",
@@ -3312,7 +3312,7 @@ const patternsData = [
     "NOM_CONT.EL"
   ],
   [
-    "36",
+    36,
     "make",
     "X (make) Y",
     "изготовить",
@@ -3404,7 +3404,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "37",
+    37,
     "make_fun",
     "X (make fun) of Y",
     "издеваться",
@@ -3496,7 +3496,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "38",
+    38,
     "have",
     "X (have) Y",
     "иметь",
@@ -3588,7 +3588,7 @@ const patternsData = [
     "GEN_NOM"
   ],
   [
-    "39",
+    39,
     "look_for",
     "X (look for) Y",
     "искать",
@@ -3680,7 +3680,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "40",
+    40,
     "paint",
     "X (paint) Y",
     "красить",
@@ -3772,7 +3772,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "41",
+    41,
     "bite",
     "X (bite) Y",
     "кусать",
@@ -3864,7 +3864,7 @@ const patternsData = [
     "ERG_SUPER"
   ],
   [
-    "42",
+    42,
     "forfeit",
     "X (lose) Y",
     "лишаться",
@@ -3956,7 +3956,7 @@ const patternsData = [
     "GEN_NOM"
   ],
   [
-    "43",
+    43,
     "try_to_catch",
     "X (try to catch) Y",
     "ловить",
@@ -4048,7 +4048,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "44",
+    44,
     "break",
     "X (break) Y",
     "ломать",
@@ -4140,7 +4140,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "45",
+    45,
     "flatter",
     "X (flatter) Y",
     "льстить",
@@ -4232,7 +4232,7 @@ const patternsData = [
     ""
   ],
   [
-    "46",
+    46,
     "love1",
     "X (love) Y",
     "любить-1",
@@ -4324,7 +4324,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "47",
+    47,
     "wave",
     "X (wave) Y",
     "махать",
@@ -4416,7 +4416,7 @@ const patternsData = [
     "NOM_INST"
   ],
   [
-    "48",
+    48,
     "dream",
     "X (dream) of Y",
     "мечтать",
@@ -4508,7 +4508,7 @@ const patternsData = [
     "GEN_NOM"
   ],
   [
-    "49",
+    49,
     "wash",
     "X (wash) Y",
     "мыть",
@@ -4600,7 +4600,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "50",
+    50,
     "put_on",
     "X (put_on) Y",
     "надевать",
@@ -4692,7 +4692,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "51",
+    51,
     "be_called",
     "X (be_called) Y",
     "называться",
@@ -4784,7 +4784,7 @@ const patternsData = [
     "SUPER.LAT_NOM"
   ],
   [
-    "52",
+    52,
     "punish",
     "X (punish) Y",
     "наказывать",
@@ -4876,7 +4876,7 @@ const patternsData = [
     ""
   ],
   [
-    "53",
+    53,
     "attack",
     "X (attack) Y",
     "напасть",
@@ -4968,7 +4968,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "54",
+    54,
     "fill#intr#",
     "X (fill) with Y",
     "наполняться",
@@ -5060,7 +5060,7 @@ const patternsData = [
     "NOM_INST"
   ],
   [
-    "55",
+    55,
     "find",
     "X (find) Y",
     "находить",
@@ -5152,7 +5152,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "56",
+    56,
     "be_short",
     "X (be short) Y",
     "недоставать",
@@ -5244,7 +5244,7 @@ const patternsData = [
     "DAT_NOM"
   ],
   [
-    "57",
+    57,
     "hate",
     "X (hate) Y",
     "ненавидеть",
@@ -5336,7 +5336,7 @@ const patternsData = [
     ""
   ],
   [
-    "58",
+    58,
     "like",
     "X (like) Y",
     "нравиться",
@@ -5428,7 +5428,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "59",
+    59,
     "need",
     "X (need) Y",
     "нуждаться",
@@ -5520,7 +5520,7 @@ const patternsData = [
     ""
   ],
   [
-    "60",
+    60,
     "surround",
     "X (surround) Y",
     "окружать",
@@ -5612,7 +5612,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "61",
+    61,
     "remain",
     "X (have) Y left",
     "оставаться",
@@ -5704,7 +5704,7 @@ const patternsData = [
     "CONT_NOM"
   ],
   [
-    "62",
+    62,
     "answer",
     "X (answer) Y",
     "отвечать",
@@ -5796,7 +5796,7 @@ const patternsData = [
     "ERG_DAT"
   ],
   [
-    "63",
+    63,
     "open",
     "X (open) Y",
     "открывать",
@@ -5888,7 +5888,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "64",
+    64,
     "be_different",
     "X (be different) from Y",
     "отличаться",
@@ -5980,7 +5980,7 @@ const patternsData = [
     "NOM_CONT"
   ],
   [
-    "65",
+    65,
     "fall_behind",
     "X (fall behind) Y",
     "отстать",
@@ -6072,7 +6072,7 @@ const patternsData = [
     "NOM_CONT"
   ],
   [
-    "66",
+    66,
     "plough",
     "X (plough) Y",
     "пахать",
@@ -6164,7 +6164,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "67",
+    67,
     "smell",
     "X (smell) like / of Y",
     "пахнуть",
@@ -6256,7 +6256,7 @@ const patternsData = [
     "CONT.EL_GEN"
   ],
   [
-    "68",
+    68,
     "cross",
     "X (cross) Y",
     "пересечь",
@@ -6348,7 +6348,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "69",
+    69,
     "sing",
     "X (sing) Y",
     "петь",
@@ -6440,7 +6440,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "70",
+    70,
     "write",
     "X (write) Y",
     "писать",
@@ -6532,7 +6532,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "71",
+    71,
     "drink",
     "X (drink) Y",
     "пить",
@@ -6624,7 +6624,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "72",
+    72,
     "melt",
     "X (melt) Y",
     "плавить",
@@ -6716,7 +6716,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "73",
+    73,
     "match",
     "X (match) Y",
     "подходить",
@@ -6808,7 +6808,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "74",
+    74,
     "leave",
     "X (leave) Y",
     "покидать",
@@ -6900,7 +6900,7 @@ const patternsData = [
     "NOM_SUPER.EL"
   ],
   [
-    "75",
+    75,
     "cover",
     "X (cover) Y",
     "покрывать",
@@ -6992,7 +6992,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "76",
+    76,
     "remember",
     "X (remember) Y",
     "помнить",
@@ -7084,7 +7084,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "77",
+    77,
     "help",
     "X (help) Y",
     "помочь",
@@ -7176,7 +7176,7 @@ const patternsData = [
     "ERG_DAT"
   ],
   [
-    "78",
+    78,
     "understand",
     "X (understand) Y",
     "понимать",
@@ -7268,7 +7268,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "79",
+    79,
     "hit#target#",
     "X (hit) Y",
     "попасть",
@@ -7360,7 +7360,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "80",
+    80,
     "cut_oneself",
     "X (cut oneself) with Y",
     "порезаться",
@@ -7452,7 +7452,7 @@ const patternsData = [
     "ERG_INST"
   ],
   [
-    "81",
+    81,
     "get_stuck",
     "X (get stuck) to Y",
     "прилипать",
@@ -7544,7 +7544,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "82",
+    82,
     "lose#game#",
     "X (lose) to Y",
     "проиграть",
@@ -7636,7 +7636,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "83",
+    83,
     "be_glad",
     "X (be glad) about Y",
     "радоваться",
@@ -7728,7 +7728,7 @@ const patternsData = [
     "NOM_CONT.EL"
   ],
   [
-    "84",
+    84,
     "speak",
     "X (speak) with Y",
     "разговаривать",
@@ -7820,7 +7820,7 @@ const patternsData = [
     "NOM_COM"
   ],
   [
-    "85",
+    85,
     "give_birth",
     "X (give birth) to Y",
     "рожать",
@@ -7912,7 +7912,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "86",
+    86,
     "drop",
     "X (drop) Y",
     "ронять",
@@ -8004,7 +8004,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "87",
+    87,
     "govern",
     "X (govern) Y",
     "руководить",
@@ -8096,7 +8096,7 @@ const patternsData = [
     "NOM_INTER"
   ],
   [
-    "88",
+    88,
     "miss",
     "X (miss) Y",
     "скучать",
@@ -8188,7 +8188,7 @@ const patternsData = [
     "NOM_INST"
   ],
   [
-    "89",
+    89,
     "follow",
     "X (follow) Y",
     "следовать",
@@ -8280,7 +8280,7 @@ const patternsData = [
     "NOM_CONT"
   ],
   [
-    "90",
+    90,
     "dismount",
     "X (get down) from Y",
     "слезать",
@@ -8372,7 +8372,7 @@ const patternsData = [
     "NOM_SUPER.EL"
   ],
   [
-    "91",
+    91,
     "listen",
     "X (listen) to Y",
     "слушать",
@@ -8464,7 +8464,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "92",
+    92,
     "obey",
     "X (obey) Y",
     "слушаться",
@@ -8556,7 +8556,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "93",
+    93,
     "hear",
     "X (hear) Y",
     "слышать",
@@ -8648,7 +8648,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "94",
+    94,
     "mix",
     "X (get mixed) with Y",
     "смешаться",
@@ -8740,7 +8740,7 @@ const patternsData = [
     "NOM_COM"
   ],
   [
-    "95",
+    95,
     "look",
     "X (look) at Y",
     "смотреть",
@@ -8832,7 +8832,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "96",
+    96,
     "take_off",
     "X (take off) Y",
     "снимать",
@@ -8924,7 +8924,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "97",
+    97,
     "dream#sleeping#",
     "X (dream) about Y",
     "сниться",
@@ -9016,7 +9016,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "98",
+    98,
     "agree",
     "X (agree) with Y",
     "соглашаться",
@@ -9108,7 +9108,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "99",
+    99,
     "have_a_quarrel",
     "X (have a quarrel) with Y",
     "ссориться",
@@ -9200,7 +9200,7 @@ const patternsData = [
     "NOM_COM"
   ],
   [
-    "100",
+    100,
     "cost",
     "X (cost) Y",
     "стоить",
@@ -9292,7 +9292,7 @@ const patternsData = [
     "GEN_NOM"
   ],
   [
-    "101",
+    101,
     "shoot_at",
     "X (shoot) at Y",
     "стрелять",
@@ -9384,7 +9384,7 @@ const patternsData = [
     "ERG_SUPER.LAT"
   ],
   [
-    "102",
+    102,
     "pour",
     "X (pour) Y",
     "сыпать",
@@ -9476,7 +9476,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "103",
+    103,
     "lose",
     "X (lose) Y",
     "терять",
@@ -9568,7 +9568,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "104",
+    104,
     "sink",
     "X (sink) in Y",
     "тонуть",
@@ -9660,7 +9660,7 @@ const patternsData = [
     "NOM_INTER"
   ],
   [
-    "105",
+    105,
     "kill",
     "X (kill) Y",
     "убивать",
@@ -9752,7 +9752,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "106",
+    106,
     "hit",
     "X (hit) Y",
     "ударить",
@@ -9844,7 +9844,7 @@ const patternsData = [
     "ERG_SUPER"
   ],
   [
-    "107",
+    107,
     "kiss",
     "X (kiss) Y",
     "целовать",
@@ -9936,7 +9936,7 @@ const patternsData = [
     "ERG_SUPER"
   ],
   [
-    "108",
+    108,
     "read",
     "X (read) Y",
     "читать",
@@ -10028,7 +10028,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "109",
+    109,
     "move#bodypart#",
     "X (move) Y",
     "шевелить",
@@ -10120,7 +10120,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "110",
+    110,
     "respect",
     "X (respect) Y",
     "уважать",
@@ -10212,7 +10212,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "111",
+    111,
     "be_squeamish",
     "X (be squeamish) about Y",
     "брезговать",
@@ -10304,7 +10304,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "112",
+    112,
     "be_content",
     "X (be content) with",
     "быть довольным",
@@ -10396,7 +10396,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "113",
+    113,
     "fall_in_love",
     "X (fall in love) with Y",
     "влюбляться",
@@ -10488,7 +10488,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "114",
+    114,
     "trust",
     "X (trust) Y",
     "доверять",
@@ -10580,7 +10580,7 @@ const patternsData = [
     "NOM_SUPER.LAT"
   ],
   [
-    "115",
+    115,
     "sympathise",
     "X (sympathise) with Y",
     "жалеть",
@@ -10672,7 +10672,7 @@ const patternsData = [
     "GEN_SUPER.LAT"
   ],
   [
-    "116",
+    116,
     "envy",
     "X (envy) Y",
     "завидовать",
@@ -10764,7 +10764,7 @@ const patternsData = [
     "GEN_SUPER"
   ],
   [
-    "117",
+    117,
     "be_angry",
     "X (be angry) with Y",
     "злиться",
@@ -10856,7 +10856,7 @@ const patternsData = [
     "GEN_SUPER.LAT"
   ],
   [
-    "118",
+    118,
     "be_surprised",
     "X (be surprised) at Y",
     "удивляться",
@@ -10948,7 +10948,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "119",
+    119,
     "love2",
     "X (love) Y",
     "любить-2",
@@ -11040,7 +11040,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "120",
+    120,
     "enjoy",
     "X (enjoy) Y",
     "наслаждаться",
@@ -11132,7 +11132,7 @@ const patternsData = [
     "ERG_CONT.EL"
   ],
   [
-    "121",
+    121,
     "want",
     "X (want) Y",
     "хотеть",
@@ -11224,7 +11224,7 @@ const patternsData = [
     "DAT_NOM"
   ],
   [
-    "122",
+    122,
     "have_a_grudge",
     "X (have a grudge) against Y",
     "сердиться",
@@ -11316,7 +11316,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "123",
+    123,
     "take_offence",
     "X (take_offence) at Y",
     "обижаться",
@@ -11408,7 +11408,7 @@ const patternsData = [
     "NOM_SUPER"
   ],
   [
-    "124",
+    124,
     "upset",
     "X (upset) Y",
     "огорчать",
@@ -11500,7 +11500,7 @@ const patternsData = [
     "TR"
   ],
   [
-    "125",
+    125,
     "marvel",
     "X (marvel) at Y",
     "поражаться",
@@ -11592,7 +11592,7 @@ const patternsData = [
     "NOM_CONT.EL"
   ],
   [
-    "126",
+    126,
     "despise",
     "X (despise) Y",
     "презирать",
@@ -11684,7 +11684,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "127",
+    127,
     "get_upset",
     "X (get upset) with Y",
     "огорчаться",
@@ -11776,7 +11776,7 @@ const patternsData = [
     "GEN_SUPER.LAT"
   ],
   [
-    "128",
+    128,
     "get_irritated",
     "X (get irritated) with Y",
     "раздражаться",
@@ -11868,7 +11868,7 @@ const patternsData = [
     ""
   ],
   [
-    "129",
+    129,
     "be_fond",
     "X (be fond) of Y",
     "симпатизировать",
@@ -11960,7 +11960,7 @@ const patternsData = [
     "AFF_NOM"
   ],
   [
-    "130",
+    130,
     "be_shy",
     "X (be shy) about Y",
     "стесняться",
@@ -12050,281 +12050,5 @@ const patternsData = [
     "SBJ_be",
     "NOM_över",
     "NOM_CONT.EL"
-  ],
-  [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "номер_языка",
-    "language_no",
-    "",
-    "",
-    "",
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "10",
-    "11",
-    "12",
-    "13",
-    "14",
-    "15",
-    "16",
-    "17",
-    "18",
-    "19",
-    "20",
-    "21",
-    "22",
-    "23",
-    "24",
-    "25",
-    "26",
-    "27",
-    "28",
-    "29",
-    "30",
-    "31",
-    "32",
-    "33",
-    "34",
-    "35",
-    "36",
-    "37",
-    "38",
-    "39",
-    "40",
-    "41",
-    "42",
-    "43",
-    "44",
-    "45",
-    "46",
-    "47",
-    "48",
-    "49",
-    "50",
-    "51",
-    "52",
-    "53",
-    "54",
-    "55",
-    "56",
-    "57",
-    "58",
-    "59",
-    "60",
-    "61",
-    "62",
-    "63",
-    "64",
-    "65",
-    "66",
-    "67",
-    "68",
-    "69",
-    "70",
-    "71",
-    "72",
-    "73",
-    "74",
-    "75",
-    "76",
-    "77",
-    "78",
-    "79",
-    "80",
-    "81",
-    "82",
-    "83",
-    "84",
-    "85"
-  ],
-  [
-    "язык",
-    "language",
-    "",
-    "",
-    "",
-    "Russian",
-    "Arabic_Standard",
-    "Guarani_Paraguayan",
-    "Estonian",
-    "Tsakhur",
-    "Tuvinian",
-    "Finnish_Ingrian",
-    "Basque",
-    "French",
-    "German",
-    "Bagvalal",
-    "Japanese",
-    "Lithuanian",
-    "Kalmyk",
-    "Khmer",
-    "Bashkir",
-    "Latvian",
-    "Guro",
-    "Loma",
-    "Lezgian",
-    "Greek_Modern",
-    "Greek_Ancient",
-    "Albanian",
-    "Spanish",
-    "Irish",
-    "Armenian_Eastern",
-    "Azerbaijani",
-    "Romani_Kalderash",
-    "English",
-    "Chinese_Mandarin",
-    "Polish",
-    "Dutch",
-    "Italian",
-    "Komi_Zyrian",
-    "Ossetic",
-    "Serbian",
-    "Chukchi",
-    "Norwegian_Bokmal",
-    "Romanian",
-    "Ingush",
-    "Ukrainian",
-    "Komi_Permyak",
-    "Erzya",
-    "Georgian",
-    "Nanai",
-    "Enets_Forest",
-    "Mandinka",
-    "Joola_Fonyi",
-    "Soninke",
-    "Turkish",
-    "Yakut",
-    "Buriat",
-    "Hungarian",
-    "Moksha",
-    "Evenki",
-    "Udihe",
-    "Bengali",
-    "Gascon",
-    "Mari_Western",
-    "Abaza",
-    "Slovenian",
-    "Latin",
-    "Czech",
-    "Icelandic",
-    "Belarusian",
-    "Finnish",
-    "Macedonian",
-    "Rutul",
-    "Adyghe",
-    "Goo",
-    "Chuvash",
-    "Udmurt",
-    "Croatian",
-    "Bulgarian",
-    "Udi",
-    "Assyrian_Neo_Aramaic",
-    "Kazakh",
-    "Chechen",
-    "Dargwa_Icari",
-    "Saami_Skolt",
-    "Aghul",
-    "Saami_Southern",
-    "Hebrew_Modern",
-    "Swedish",
-    "Andi_Zilo"
   ]
 ];
