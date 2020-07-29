@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://eurphon.info/static/bivaltyp/css/style.css">
+
+<!-- dataframe-js -->
+<script src="https://eurphon.info/static/bivaltyp/js/dataframejs/dataframe.min.js"></script>
+
+<!-- Handsontable -->
+<script src="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.css">
+
+<!-- Load data -->
+<script src="https://eurphon.info/static/bivaltyp/js/data/languages.js"></script>
+<script src="https://eurphon.info/static/bivaltyp/js/data/patterns.js"></script>
+
+<!-- Misc JavaScript -->
+
+<script src="https://eurphon.info/static/bivaltyp/js/misc.js"></script>
+    </head>
+<body>
+    <div id="title-div">
+    <div>
+        <h1><a href="https://eurphon.info/static/bivaltyp" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/"><img src="https://eurphon.info/static/bivaltyp/images/ili.png" alt="Институт лингвистических исследований РАН"></a>
+    </div>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/instruction/"><div class="menu-button">Instruction for authors</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/team/"><div class="menu-button">Team</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/languages/mapview/"><div class="menu-button">Map view</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/languages/listview/"><div class="menu-button">List view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>
+    <div id="main"><h2>Patterns overview</h2>
+<div id="options" style="display: grid; width: 450px;">
+    <div class="options-row">
+        <h3>Options</h3>
+    </div>
+    <div class="options-row">
+        <span>Show Russian meta columns: </span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();">
+    </div>
+    <div class="options-row">
+        <span>Only show languages from the following phylum (WALS):</span>
+        <br/>
+        <select name="phylum" id="phylum" style="width: 150px;" onchange="redraw();">
+            <option value="any">Any</option>
+        </select>
+    </div>
+    <div class="options-row">
+        <span>Only show languages from the following macro-area (WALS):</span>
+        <br/>
+        <select name="marea" id="marea" style="width: 150px;" onchange="redraw();">
+            <option value="any">Any</option>
+        </select>
+    </div>
+    <div class="options-row">
+        <span><span style="color: red;">NB:</span> Applying these filters will reset the table. Use them before using filters in individual columns.</span>
+    </div>
+</div><br/>
+<div id="table"></div>
+<script>
+    // dataframe-js singleton object.
+    let DataFrame = dfjs.DataFrame;
+
+    // The spreadsheet object.
+    // Initialised with a no-op 'destroy' method.
+    let patternsTable = {
+        destroy: () => {}
+    };
+
+    let patternsDf, languageDf, languageDfMin,
+        phyla, macroareas, langDict;
+
+    let phylumFilter = 'any',
+        mareaFilter = 'any';
+
+    let container = byId('table');
+
+    function byId(id) {
+        return document.getElementById(id);
+    }
+
+    function populateSelectFromArray(select, arr) {
+        for (const el of arr) {
+            let option = document.createElement('option');
+            option.value = el;
+            option.innerText = el;
+            select.appendChild(option);
+        }
+    }
+
+    function redraw() {
+        phylumFilter = byId('phylum').value;
+        mareaFilter = byId('marea').value;
+
+        const alwaysSelect = [
+            'predicate_no',
+            'predicate_label_en',
+            'argument_frame_en'
+        ];
+
+        let colsPrefix = [],
+            colsSuffix = [];
+        for (const col of patternsDf.listColumns()) {
+            if (col === 'predicate_label_ru' ||
+                col === 'argument_frame_ru') {
+                if (byId('russian_meta').checked)
+                colsPrefix.push(col);
+            } else if (alwaysSelect.indexOf(col) >= 0) {
+                colsPrefix.push(col);
+            } else {
+                if (phylumFilter !== 'any' &&
+                    langDict[col].phylum !== phylumFilter)
+                    continue;
+                if (mareaFilter !== 'any' &&
+                    langDict[col].marea !== mareaFilter)
+                    continue;
+                colsSuffix.push(col);
+            }
+        }
+
+        // Show langs in the alphabetical order.
+        colsSuffix.sort();
+        let colsToSelect = colsPrefix.concat(colsSuffix),
+            currentDf = patternsDf.select(...colsToSelect);
+
+        patternsTable.destroy();
+        patternsTable = new Handsontable(container, {
+            licenseKey: 'non-commercial-and-evaluation',
+            data: currentDf.toArray(),
+            colHeaders: currentDf.listColumns(),
+            editor: false,
+            rowHeaders: false,
+            filters: true,
+            dropdownMenu: ['filter_by_condition', 'filter_by_value', 'filter_action_bar']
+        });
+
+    }
+
+    // Create a dataframe-js object for column subsetting.
+    let columnNames = patternsData[0];
+    patternsDf = new DataFrame(
+        patternsData.slice(1),
+        columnNames
+    );
+
+    // Create a language dataframe for subsetting.
+    columnNames = languageData[0];
+    languageDf = new DataFrame(
+        languageData.slice(1),
+        columnNames
+    );
+    languageDfMin = languageDf.select(
+        'language',
+        'macroarea_WALS',
+        'family_WALS'
+    );
+
+    // Populate filter dict from this df
+    langDict = {};
+    languageDfMin.chain(
+        row => { langDict[row.get('language')] = {
+            phylum: row.get('family_WALS'),
+            marea: row.get('macroarea_WALS')
+        } }
+    );
+
+    // Populate menus
+    // TODO: add genera and langs.
+    // TODO: Make hierarchical.
+    phyla = languageDfMin
+        .distinct('family_WALS')
+        .toArray()
+        .map(oneElArr => oneElArr[0]);
+    phyla.sort();
+    macroareas = languageDfMin
+        .distinct('macroarea_WALS')
+        .toArray()
+        .map(oneElArr => oneElArr[0]);
+    macroareas.sort();
+    let phylaSelect = byId('phylum'),
+        mareaSelect = byId('marea');
+    populateSelectFromArray(phylaSelect, phyla);
+    populateSelectFromArray(mareaSelect, macroareas);
+
+    redraw();
+</script></div>
+    
+</body>
+</html>

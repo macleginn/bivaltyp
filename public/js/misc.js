@@ -15,9 +15,14 @@ const months = ["January", "February", "March", "April", "May", "June", "July",
 
 document.addEventListener('DOMContentLoaded', () => {
     let d = new Date();
-    document
+    try {
+        document
         .getElementById('today')
         .innerText = d.getDate() + ' ' +
                      months[d.getMonth()] + ' ' +
                      d.getFullYear();
+    }
+    catch {
+        return;
+    }
 })

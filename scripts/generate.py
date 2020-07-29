@@ -1,8 +1,10 @@
 import re
+import os
 
 import markdown2
-from jinja2 import Template
+from jinja2 import Template, Environment
 
+Environment(autoescape=False)
 
 with open('../templates/base/base.html', 'r', encoding='utf-8') as inp:
     BASE_TEMPLATE = Template(inp.read())
@@ -65,14 +67,17 @@ def renderTemplate(txt):
     return result
 
 
-def pipeline(txt, classes=None):
+def pipeline(txt, parse_md=True, classes=None):
     # 1. Render the project-specific template.
     # 2. Supply the globals using Jinja.
     # 3. Convert Markdown to HTML
     jinja_txt = renderTemplate(txt)
     jinja_template = Template(jinja_txt)
     md = jinja_template.render(JINJA_GLOBALS)
-    main = markdown2.markdown(md)
+    if parse_md:
+        main = markdown2.markdown(md)
+    else:
+        main = md
     if classes is None:
         main = '<div id="main">' + main + '</div>'
     else:
@@ -87,7 +92,19 @@ def pipeline(txt, classes=None):
     )
 
 
-with open('../content/index.md', 'r', encoding='utf-8') as inp:
-    txt = inp.read()
-    with open('../public/index.html', 'w', encoding='utf-8') as out:
-        print(pipeline(txt, ['txt']), file=out)
+# Walk the 'content' directory and convert index.md's with appropriate
+# index.html's in the 'public' directory
+for root, _, files in os.walk('../content'):
+    for f in files:
+        parse_md = not f.endswith('html')
+        path = os.path.join(root, f)
+        outpath = os.path.split(path)[0].replace('content', 'public')
+        if not os.path.exists(outpath):
+            os.makedirs(outpath)
+        with open(path, 'r', encoding='utf-8') as inp:
+            txt = inp.read()
+            with open(outpath + '/index.html', 'w', encoding='utf-8') as out:
+                if 'data' in path or 'mapview' in path:
+                    print(pipeline(txt, parse_md), file=out)
+                else:
+                    print(pipeline(txt, parse_md, ['txt']), file=out)
