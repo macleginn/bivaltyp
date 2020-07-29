@@ -28,8 +28,8 @@ DATA_DICT = {
 }
 
 JINJA_GLOBALS = {
-    # 'site_url_j': 'https://eurphon.info/static/bivaltyp'
-    'site_url_j': 'file:///Users/macbook/Documents/Yandex.Disk/WorkInProgress/BivalTyp/webapp/public'
+    'site_url_j': 'https://eurphon.info/static/bivaltyp'
+    # 'site_url_j': 'file:///Users/macbook/Documents/Yandex.Disk/WorkInProgress/BivalTyp/webapp/public'
 }
 
 

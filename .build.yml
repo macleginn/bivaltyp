@@ -1,0 +1,14 @@
+image: alpine/edge
+packages:
+  - rsync
+sources:
+  - https://git.sr.ht/~macleginn/bivaltyp
+environment:
+  deploy: eurphon@23.254.167.151
+secrets:
+  - 01838fd9-d89e-48da-a4d4-2bba32883398
+tasks:
+  - deploy: |
+      cd bivaltyp
+      sshopts="ssh -o StrictHostKeyChecking=no"
+      rsync --rsh="$sshopts" -a public/ $deploy:/var/www/static/bivaltyp
