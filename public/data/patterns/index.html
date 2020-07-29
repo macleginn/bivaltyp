@@ -19,9 +19,9 @@
 <!-- Load data -->
 <script src="https://eurphon.info/static/bivaltyp/js/data/languages.js"></script>
 <script src="https://eurphon.info/static/bivaltyp/js/data/patterns.js"></script>
+<script src="https://eurphon.info/static/bivaltyp/js/data/full.js"></script>
 
 <!-- Misc JavaScript -->
-
 <script src="https://eurphon.info/static/bivaltyp/js/misc.js"></script>
     </head>
 <body>
@@ -112,10 +112,6 @@
         mareaFilter = 'any';
 
     let container = byId('table');
-
-    function byId(id) {
-        return document.getElementById(id);
-    }
 
     function populateSelectFromArray(select, arr) {
         for (const el of arr) {

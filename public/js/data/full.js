@@ -1,7 +1,7 @@
 const fullData = [
   [
-    "language_no",
-    "predicate_no",
+    "language",
+    "predicate",
     "verb",
     "X",
     "Y",
@@ -14,8 +14,8 @@ const fullData = [
     "back_translation_ru"
   ],
   [
-    85,
-    1,
+    "Zilo Andi",
+    "feel_pain",
     "ruqχ’.u",
     "GEN",
     "NOM",
@@ -24,12 +24,12 @@ const fullData = [
     "ali-r miar ruqχ’.u-r",
     "PN.OBL-INAN2(GEN) head[INAN2][NOM] ache.PST-PROG",
     "‘Ali has a headache.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    2,
+    "Zilo Andi",
+    "have#illness#",
     "ruqχ’.udo",
     "NOM",
     "COM",
@@ -38,12 +38,12 @@ const fullData = [
     "ali ruqχ’.udo honqχ’isːol=loj",
     "PN[M][NOM] ache.PST.PRS influenza=COM",
     "‘Ali has the flu.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    3,
+    "Zilo Andi",
+    "be_afraid",
     "sːir.i",
     "NOM",
     "CONT",
@@ -52,12 +52,12 @@ const fullData = [
     "ali χʷe-tʃ’u sːir.i-r",
     "PN[M][NOM] dog.OBL-CONT fear.PST-PROG",
     "‘Ali fears the dog.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    4,
+    "Zilo Andi",
+    "throw",
     "ʃamm.i",
     "ERG",
     "NOM",
@@ -66,12 +66,12 @@ const fullData = [
     "ali-di hints’o ʃamm.i",
     "PN-ERG stone[INAN1][NOM] throw.PST(AOR)",
     "‘Ali threw a stone.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    5,
+    "Zilo Andi",
+    "have_enough",
     "<b>-iʔ.u-mallo ",
     "DAT",
     "NOM",
@@ -80,12 +80,12 @@ const fullData = [
     "ali-ɬu orsi b-iʔ.u-mallo",
     "PN-DAT money[INAN1][NOM] INAN1-be_enough.PST-PROG",
     "‘Ali has enough money.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    6,
+    "Zilo Andi",
+    "resemble",
     "a<w>ɬin",
     "NOM",
     "AFF",
@@ -94,12 +94,12 @@ const fullData = [
     "ali a<w>ɬin muħammadi-<w>o",
     "PN[M][NOM] resemblant<M> PN-AFF<M>",
     "‘Ali resembles Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    7,
+    "Zilo Andi",
+    "believe",
     "buʒ.u",
     "NOM",
     "SUPER.LAT",
@@ -108,12 +108,12 @@ const fullData = [
     "ali buʒ.u-r mariam-ʔo",
     "PN[M][NOM] believe.PST-PROG PN-SUPER.LAT",
     "‘Ali believes Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    8,
+    "Zilo Andi",
+    "take",
     "<r>-iχ.i",
     "ERG",
     "NOM",
@@ -122,12 +122,12 @@ const fullData = [
     "ali-di χutʃa r-iχ.i",
     "PN-ERG book[INAN2][NOM] INAN2-take.PST(AOR)",
     "‘Ali took a book.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    9,
+    "Zilo Andi",
+    "see",
     "haʔ.o",
     "AFF",
     "NOM",
@@ -136,26 +136,26 @@ const fullData = [
     "pat’imati-<b>o haʔ.o-r milki",
     "PN-AFF<INAN1> see.PST-PROG house[INAN1][NOM]",
     "‘Patimat sees a house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    10,
+    "Zilo Andi",
+    "influence",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "zaman b-uʔonn.i-r-qχi pamjat b-itʃ’.o-r",
     "time INAN1-go.PST-PROG-INST memory INAN1-die.PST-PROG",
     "‘With time passing, memory dies.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    11,
+    "Zilo Andi",
+    "encounter",
     "badi <w>-ukː.u",
     "AFF",
     "NOM",
@@ -164,12 +164,12 @@ const fullData = [
     "ali-<w>o badi aliħadʒi w-ukː.u",
     "PN-AFF<M> forth PN[M][NOM] M-fall.PST(AOR)",
     "‘Ali met Aligaji’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    12,
+    "Zilo Andi",
+    "enter",
     "kab.i",
     "NOM",
     "ILLAT",
@@ -178,12 +178,12 @@ const fullData = [
     "ali harqχ’u-di kab.i",
     "PN[M][NOM] room.OBL-ILLAT enter.PST(AOR)",
     "‘Ali entered the room.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    13,
+    "Zilo Andi",
+    "win",
     "<w>-uʃ.a",
     "NOM",
     "SUPER.LAT",
@@ -192,12 +192,12 @@ const fullData = [
     "ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo",
     "PN[M][NOM] M-win.PST(AOR) chess-? Umargaji-SUPER.LAT",
     "‘Ali won over Umar at chess.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    14,
+    "Zilo Andi",
+    "go_out",
     "<w>-uʔ.on",
     "NOM",
     "IN.EL",
@@ -206,12 +206,12 @@ const fullData = [
     "ali w-uʔ.on iʃu-kːu",
     "PN[M][NOM] M-go.PST(AOR) home.IN-EL",
     "‘Ali went out of the house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    15,
+    "Zilo Andi",
+    "drive",
     "<b>-uqχ’.i-r",
     "ERG",
     "NOM",
@@ -220,12 +220,12 @@ const fullData = [
     "ali-di ziw̃ b-uqχ’.i-r alaχil-ʔo",
     "PN-ERG cow[AN][NOM] AN-push.PST-PROG pasture-SUPER.LAT",
     "‘Ali pushes the cow to the pasture.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    16,
+    "Zilo Andi",
+    "bend",
     "tʃ’ab-oɬ.i",
     "ERG",
     "NOM",
@@ -234,12 +234,12 @@ const fullData = [
     "pat’imati-di anɡa tʃ’ab-oɬ.i",
     "PN-ERG branch[INAN1][NOM] bend_oneself-CAUS.PST(AOR)",
     "‘Patimat bent the branch.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    17,
+    "Zilo Andi",
+    "tell",
     "rutɬ.i:",
     "ERG",
     "INST",
@@ -248,12 +248,12 @@ const fullData = [
     "ali-di umarħadʒi-qχi rutɬ.i: “…”",
     "PN-ERG PN-INST say.PST(AOR)",
     "‘Ali said to Umagaji: “…”’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    18,
+    "Zilo Andi",
+    "hold",
     "0",
     "CONT",
     "NOM",
@@ -262,12 +262,12 @@ const fullData = [
     "ali-tʃ’u kodu χutʃa",
     "PN-CONT hands.IN book[INAN2][NOM]",
     "‘Ali is holding a book.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    19,
+    "Zilo Andi",
+    "catch_up",
     "<w>-eχːudu <w>-oqχ.o-j",
     "NOM",
     "CONT",
@@ -276,12 +276,12 @@ const fullData = [
     "ali muħammadi-tʃ’u w-eχːudu w-oqχ.o-j",
     "PN[M][NOM] PN-CONT M-after M-reach.PST-PF",
     "‘Ali reached Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    20,
+    "Zilo Andi",
+    "milk",
     "<b>-ertʃ’.u",
     "ERG",
     "NOM",
@@ -290,12 +290,12 @@ const fullData = [
     "pat’imati-di b-ertʃ’.u ziw̃",
     "PN-ERG AN-milk.PST(AOR) cow[AN][NOM]",
     "‘Patimat milked the cow.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    21,
+    "Zilo Andi",
+    "reach",
     "<w>-oqχ.o",
     "NOM",
     "SUPER.LAT",
@@ -304,12 +304,12 @@ const fullData = [
     "ali rahal-ʔo w-oqχ.o",
     "PN[M][NOM] bank.OBL-SUPER.LAT M-reach.PST(AOR)",
     "‘Ali reached the river bank.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    22,
+    "Zilo Andi",
+    "touch",
     "reʔa ob.i",
     "ERG",
     "SUPER",
@@ -318,12 +318,12 @@ const fullData = [
     "ali-di reʔa ob.i qχ’enno-ʔa",
     "PN-ERG hand[INAN2][NOM] touch.PST(AOR) wall.OBL-SUPER",
     "‘Ali touched the wall.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    23,
+    "Zilo Andi",
+    "fight",
     "<w>-aχː.o-j",
     "NOM",
     "COM",
@@ -332,12 +332,12 @@ const fullData = [
     "ali aħmadi=lojɡu w-aχː.o-j",
     "PN[M][NOM] PN.OBL=COM M-fight.PST-PF",
     "‘Ali and Ahmad are fighting.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    24,
+    "Zilo Andi",
+    "be_friends",
     "homoloʁi-ɬir-ʔa",
     "NOM",
     "COM",
@@ -346,12 +346,12 @@ const fullData = [
     "ali homoloʁi-ɬir-ʔa qχ’urban=noj",
     "PN[M][NOM] friend-ABST-SUPER PN=COM",
     "‘Ali is friends with Qurban.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    25,
+    "Zilo Andi",
+    "think",
     "urʁ.u-mallo",
     "NOM",
     "SUPER.LAT",
@@ -360,12 +360,12 @@ const fullData = [
     "ali urʁ.u-mallo umarħadʒi-ʔo",
     "PN[M][NOM] think.PST-PROG PN-SUPER.LAT",
     "‘Ali is thinking about Umargaji.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    26,
+    "Zilo Andi",
+    "eat",
     "k’amm.i",
     "ERG",
     "NOM",
@@ -374,12 +374,12 @@ const fullData = [
     "ali-di intʃi k’amm.i",
     "PN-ERG apple[INAN1][NOM] eat.PST(AOR)",
     "‘Ali ate an apple.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    27,
+    "Zilo Andi",
+    "fry",
     "<b>-eʒ.a",
     "ERG",
     "NOM",
@@ -388,12 +388,12 @@ const fullData = [
     "pat’imati-di b-eʒ.a χʷammi",
     "PN-ERG INAN1-brown.PST(AOR) fish[INAN1][NOM]",
     "‘Patimat fried a fish.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    28,
+    "Zilo Andi",
+    "wait",
     "tʃ’on",
     "NOM",
     "SUPER.LAT",
@@ -402,12 +402,12 @@ const fullData = [
     "pat’imati mariam-ʔo tʃ’on",
     "PN[F][NOM] PN[F]-SUPER.LAT stand_waiting.PST(AOR)",
     "‘Patimat is waiting for Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    29,
+    "Zilo Andi",
+    "forget",
     "retʃː.o-j",
     "AFF",
     "NOM",
@@ -416,26 +416,26 @@ const fullData = [
     "ali-<b>o se-b=lo miqχ’i retʃː.o-j",
     "PN-AFF<INAN1> one-INAN1=ADD road[INAN1][NOM] forget.PST-PF",
     "‘Ali forgot about the other road.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    30,
+    "Zilo Andi",
+    "depend",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "aqχ’ulo r-uʔ.inn-ija w-oχːor-l’ir-qχi",
     "knowledge INAN2-go.NPST-PTCP.NPST M-old-ABST-INST",
     "‘Memory depends on age.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    31,
+    "Zilo Andi",
+    "call",
     "qχ’or.i",
     "ERG",
     "NOM",
@@ -444,12 +444,12 @@ const fullData = [
     "pat’imati-di muħammad qχ’or.i",
     "PN-ERG PN[M][NOM] call.PST(AOR)",
     "‘Patimat called Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    32,
+    "Zilo Andi",
+    "get_to_know",
     "ts’inn.i j-iʁ.i",
     "AFF",
     "NOM",
@@ -458,12 +458,12 @@ const fullData = [
     "pat’imati-<j>o sːobɡu ts’inn.i j-iʁ.i mariam.",
     "PN-AFF<F> a_year_ago know.PST(AOR) F-stop.PST(AOR) PN[F][NOM]",
     "‘Patimat met Mariam a year ago.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    33,
+    "Zilo Andi",
+    "know",
     "ts’inn-e",
     "AFF",
     "NOM",
@@ -472,12 +472,12 @@ const fullData = [
     "ali-<j>o ts’inn-e mariam.",
     "PN-AFF<F> know-HAB PN[F][NOM]",
     "‘Ali knows Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    34,
+    "Zilo Andi",
+    "play#instrument#",
     "qχʷar.i-r",
     "ERG",
     "NOM",
@@ -486,12 +486,12 @@ const fullData = [
     "pat’imati-di pandur qχʷar.i-r.",
     "PN-ERG guitar[INAN1][NOM] write.PST-PROG",
     "‘Patimat is playing the guitar.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    35,
+    "Zilo Andi",
+    "avoid",
     "<w>-utʃ’.u-mado",
     "NOM",
     "CONT.EL",
@@ -500,12 +500,12 @@ const fullData = [
     "ali muħammadi-tʃ’u-kːu w-utʃ’.u-mado.",
     "PN[M][NOM] PN.OBL-CONT-EL M-?.PST-PROG",
     "‘Ali is avoiding Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    36,
+    "Zilo Andi",
+    "make",
     "dʒid.i",
     "ERG",
     "NOM",
@@ -514,12 +514,12 @@ const fullData = [
     "ali-di bomba dʒid.i.",
     "PN-ERG bomb[INAN1][NOM] make.PST(AOR)",
     "‘Ali made a bomb.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    37,
+    "Zilo Andi",
+    "make_fun",
     "<j>-eɬː-o",
     "NOM",
     "SUPER",
@@ -528,12 +528,12 @@ const fullData = [
     "pat’imati muħammadi-ʔa j-eɬː-o",
     "PN[F][NOM] PN-SUPER F-laugh-HAB",
     "‘Patimat is laughing at Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    38,
+    "Zilo Andi",
+    "have",
     "dʒi",
     "GEN",
     "NOM",
@@ -542,12 +542,12 @@ const fullData = [
     "ali-b dʒi maʃina.",
     "PN-INAN1(GEN) COP car[INAN1][NOM]",
     "‘Ali has a car.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    39,
+    "Zilo Andi",
+    "look_for",
     "kusd.i-r",
     "ERG",
     "NOM",
@@ -556,12 +556,12 @@ const fullData = [
     "pat’imati-di kusd.i-r rek’ulol.",
     "PN-ERG search.PST-PROG key[INAN2].PL[NOM]",
     "‘Patimat is looking for the key.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    40,
+    "Zilo Andi",
+    "paint",
     "buʃ.o",
     "ERG",
     "NOM",
@@ -570,12 +570,12 @@ const fullData = [
     "ali-di qχen buʃ.o.",
     "PN-ERG wall[INAN1][NOM] smear.PST(AOR)",
     "‘Ali painted the wall.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    41,
+    "Zilo Andi",
+    "bite",
     "qχ’amm.i-j",
     "ERG",
     "SUPER",
@@ -584,12 +584,12 @@ const fullData = [
     "χʷedo-di qχ’amm.i-j pat’imati-ʔa.",
     "dog.OBL-ERG bite.PST-PF PN-SUPER",
     "‘The dog bit Patimat.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    42,
+    "Zilo Andi",
+    "forfeit",
     "<w>-at’a-ɬ.i-j",
     "NOM",
     "CONT.EL",
@@ -598,12 +598,12 @@ const fullData = [
     "ali milki-tʃ’u-kːu w-at’a-ɬ.i-j",
     "PN[M][NOM] house-CONT-EL M-separate-INCH.PST-PF",
     "‘Ali lost his house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    43,
+    "Zilo Andi",
+    "try_to_catch",
     "<b>-itʃː.i-r",
     "ERG",
     "NOM",
@@ -612,12 +612,12 @@ const fullData = [
     "ali-di ɡedu b-itʃː.i-r.",
     "PN-ERG cat[AN][NOM] AN-catch.PST-PROG",
     "‘Ali is catching the cat.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    44,
+    "Zilo Andi",
+    "break",
     "<r>-iqχ-onɬ.i",
     "ERG",
     "NOM",
@@ -626,26 +626,26 @@ const fullData = [
     "ali-di ts’ur r-iqχ-onɬ.i.",
     "PN-ERG stick[INAN2][NOM] INAN2-break_oneself-CAUS.PST(AOR)",
     "‘Ali broke the stick.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    45,
+    "Zilo Andi",
+    "flatter",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "pat’imati-di mariam j-etsːiqχ-o.",
     "PN-ERG PN[F][NOM] F-praise-HAB",
     "‘Patimat is praising Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    46,
+    "Zilo Andi",
+    "love1",
     "dʒiʔ.i-r",
     "AFF",
     "NOM",
@@ -654,12 +654,12 @@ const fullData = [
     "pat’imati-<j>o dʒiʔ.i-r mariam.",
     "PN-AFF<F> like.PST-PROG PN[F][NOM]",
     "‘Patimat likes Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    47,
+    "Zilo Andi",
+    "wave",
     "xʷaʔi-la",
     "NOM",
     "INST",
@@ -668,12 +668,12 @@ const fullData = [
     "pat’imati k’azil-qχi xʷaʔi-la",
     "PN[F][NOM] shawl.OBL-INST waving-IN",
     "‘Patimat is waving with her shawl.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    48,
+    "Zilo Andi",
+    "dream",
     "aniʃːi",
     "GEN",
     "NOM",
@@ -682,12 +682,12 @@ const fullData = [
     "ali-b aniʃːi tsiw̃ maʃina",
     "PN-INAN1(GEN) dream[INAN1][NOM] new car[INAN1][NOM]",
     "‘Ali dreams of a new car.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    49,
+    "Zilo Andi",
+    "wash",
     "a<r>tʃ.o-j",
     "ERG",
     "NOM",
@@ -696,12 +696,12 @@ const fullData = [
     "pat’imati-di a<r>tʃ.o-j tʃinɡil",
     "PN-ERG wash<INAN2>.PST-PF cup[INAN1][NOM]",
     "‘Patimat washed the cup.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    50,
+    "Zilo Andi",
+    "put_on",
     "ritɬ’.inn-ij",
     "ERG",
     "NOM",
@@ -710,12 +710,12 @@ const fullData = [
     "ali-di ritɬ’.inn-ij ortʃoɡi",
     "PN-ERG put_on.PST-PF trousers[INAN1][NOM]",
     "‘Ali put on trousers.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    51,
+    "Zilo Andi",
+    "be_called",
     "ts’er",
     "SUPER.LAT",
     "NOM",
@@ -724,26 +724,26 @@ const fullData = [
     "he-b dan-ʔo ts’er qχ’ilba",
     "DEM-INAN1 thing[INAN1]-SUPER.LAT name[INAN2][NOM] compass",
     "‘This thing is called a compass.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    52,
+    "Zilo Andi",
+    "punish",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "*",
     "*",
     "*",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    53,
+    "Zilo Andi",
+    "attack",
     "ɬib.i-j  hiʔo ",
     "NOM",
     "SUPER.LAT",
@@ -752,12 +752,12 @@ const fullData = [
     "sej ɬib.i-j hiʔo χʷammi b-itʃː.i-r-sːi hek’ʷaʃ-ʔo",
     "bear[AN][NOM] jump.PST-PF up.LAT fish[AN][NOM] AN-catch.PST-PROG-ATR person.OBL-SUPER.LAT",
     "‘The bear attacked the fisherman.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    54,
+    "Zilo Andi",
+    "fill#intr#",
     "<b>-its’.i-j",
     "NOM",
     "INST",
@@ -766,12 +766,12 @@ const fullData = [
     "vedra ɬen-di b-its’.i-j",
     "bucket[INAN1][NOM] water-INST INAN1-fill.PST-PF",
     "‘The bucket has filled up with water.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    55,
+    "Zilo Andi",
+    "find",
     "r-osː.onn-ij",
     "AFF",
     "NOM",
@@ -780,12 +780,12 @@ const fullData = [
     "pat’imati-<r>o r-osː.onn-ij rek’ulol",
     "PN-AFF<INAN2> INAN2-PL\\find.PST-PF keys[INAN2].PL[NOM]",
     "‘Patimat has found the keys.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    56,
+    "Zilo Andi",
+    "be_short",
     "b-iʔ.u-mado-sːu",
     "DAT",
     "NOM",
@@ -794,26 +794,26 @@ const fullData = [
     "ali-ɬu sːe-b som b-iʔ.u-mado-sːu",
     "PN-DAT one-INAN1 rouble INAN1-be_enough.PST-PROG-NEG",
     "‘Ali is missing one rouble.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    57,
+    "Zilo Andi",
+    "hate",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "pat’imati-<j>o dʒiʔ.i-r-sːu mariam",
     "PN-AFF<F> like.PST-PROG-NEG PN[F][NOM]",
     "‘Patimat doesn’t like Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    58,
+    "Zilo Andi",
+    "like",
     "dʒiʔ.i-j",
     "AFF",
     "NOM",
@@ -822,26 +822,26 @@ const fullData = [
     "pat’imati-<r>o dʒiʔ.i-j ɡurdo",
     "PN-AFF<INAN2> like.PST-PF shirt[INAN2][NOM]",
     "‘Patimat likes [this] shirt.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    59,
+    "Zilo Andi",
+    "need",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "ali-ɬu orsi qχ’oroqχ’.o-j",
     "PN-DAT money want.PST-PF",
     "‘Ali wants/needs money.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    60,
+    "Zilo Andi",
+    "surround",
     "hinni <b>-iʃ-oɬ.i-j",
     "ERG",
     "NOM",
@@ -850,12 +850,12 @@ const fullData = [
     "qχ’enada-di hinni b-iʃ-oɬ.i-j ʃahar",
     "wall.PL.OBL-ERG inside.LAT INAN1-return-CAUS.PST-PF town[INAN1][NOM]",
     "‘The walls surround the town.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    61,
+    "Zilo Andi",
+    "remain",
     "<b>-ekː.u-j",
     "CONT",
     "NOM",
@@ -864,12 +864,12 @@ const fullData = [
     "ali-tʃ’u hots’o=ɡu som b-ekː.u-j",
     "PN-CONT ten=CARD rouble[INAN1][NOM] INAN1-stay.PST-PF",
     "‘Ali has ten roubles left.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    62,
+    "Zilo Andi",
+    "answer",
     "dʒawab itʃː.i",
     "ERG",
     "DAT",
@@ -878,12 +878,12 @@ const fullData = [
     "ali-di utʃitelʃːu-j dʒawab itʃː.i.",
     "PN-ERG teacher.OBL-DAT answer[INAN1][NOM] give.PST(AOR)",
     "‘Ali answered the teacher.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    63,
+    "Zilo Andi",
+    "open",
     "arχ.onn-ij",
     "ERG",
     "NOM",
@@ -892,12 +892,12 @@ const fullData = [
     "pat’imati-di arχ.onn-ij banka.",
     "PN-ERG open.PST-PF tin[INAN1][NOM]",
     "‘Patimat opened the tin.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    64,
+    "Zilo Andi",
+    "be_different",
     "<b>-at’a",
     "NOM",
     "CONT",
@@ -906,12 +906,12 @@ const fullData = [
     "di-r ɡurdo du-r-tʃ’u b-at’a.",
     "I.OBL-INAN2(GEN) shirt[INAN2][NOM] thou.OBL-INAN2(GEN)-CONT INAN1-separate",
     "‘My shirt is different from yours.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    65,
+    "Zilo Andi",
+    "fall_behind",
     "<j>-eχːudu <j>-ekː.u-j",
     "NOM",
     "CONT",
@@ -920,12 +920,12 @@ const fullData = [
     "pat’imati mariam-tʃ’u j-eχːudu j-ekː.u-j.",
     "PN[F][NOM] PN-CONT F-after F-stay.PST-PF",
     "‘Patimat fell behind Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    66,
+    "Zilo Andi",
+    "plough",
     "<b>-eqχ’.i-r",
     "ERG",
     "NOM",
@@ -934,12 +934,12 @@ const fullData = [
     "ali-di b-eqχ’.i-r χur.",
     "PN-ERG INAN1-PLough.PST-PROG field[INAN1][NOM]",
     "‘Ali is ploughing the field.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    67,
+    "Zilo Andi",
+    "smell",
     "ʃan (<b>-aχ-o)",
     "CONT.EL",
     "GEN",
@@ -948,12 +948,12 @@ const fullData = [
     "di-r-ul reʔoba-tʃ’u-kːu benzinu-tɬi zolo ʃan (b-aχ.o).",
     "I.OBL-INAN2(GEN)-PL hand.PL.OBL-CONT-EL benzine.OBL-GEN very odour[INAN1][NOM] INAN1-end_up.PST(AOR)",
     "‘My hands smell of benzine very strongly.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    68,
+    "Zilo Andi",
+    "cross",
     "buqχ’-i",
     "ERG",
     "NOM",
@@ -962,12 +962,12 @@ const fullData = [
     "ali-di miqχ’i buqχ’-i.",
     "PN-ERG road[INAN1][NOM] cut.PST(AOR)",
     "‘Ali crossed the road.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    69,
+    "Zilo Andi",
+    "sing",
     "qχ’or.i-j",
     "ERG",
     "NOM",
@@ -976,12 +976,12 @@ const fullData = [
     "pat’imati-di qχ’or.i-j baʁu ketʃ’i.",
     "PN-ERG call.PST-PF beautiful song[INAN1][NOM]",
     "‘Patimat sang a beautifl song.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    70,
+    "Zilo Andi",
+    "write",
     "qχʷar.i-j",
     "ERG",
     "NOM",
@@ -990,12 +990,12 @@ const fullData = [
     "pat’imati-di qχʷar.i-j kaʁar.",
     "PN-ERG write.PST-PF lettter[INAN1][NOM]",
     "‘Patimat has written a letter.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    71,
+    "Zilo Andi",
+    "drink",
     "ts’ad.i",
     "ERG",
     "NOM",
@@ -1004,12 +1004,12 @@ const fullData = [
     "ali-di ʃiw̃ ts’ad.i.",
     "PN-ERG milk[INAN2][NOM] drink.PST(AOR)",
     "‘Ali has drunk the milk.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    72,
+    "Zilo Andi",
+    "melt",
     "<b>-uts’-oɬ.i",
     "ERG",
     "NOM",
@@ -1018,12 +1018,12 @@ const fullData = [
     "ali-di b-uts’-oɬ.i t’uʃi.",
     "PN-ERG INAN1-melt-CAUS.PST(AOR) lead",
     "‘Ali has melt lead.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    73,
+    "Zilo Andi",
+    "match",
     "roqχ’.i-r",
     "NOM",
     "SUPER",
@@ -1032,12 +1032,12 @@ const fullData = [
     "hene-r rotɬ’utʃ’ur di-r gurdo-ʔa roqχ’.i-r.",
     "DEM-INAN2 belt[INAN2][NOM] I.OBL-INAN2(GEN) shirt-SUPER convene.PST-PROG",
     "‘This belt fits my dress.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    74,
+    "Zilo Andi",
+    "leave",
     "<w>-uʔ.onn-ij",
     "NOM",
     "SUPER.EL",
@@ -1046,12 +1046,12 @@ const fullData = [
     "ali w-uʔ.onn-ij hon-ʔa-kːu.",
     "PN[M][NOM] M-go.PST-PF village-SUPER-EL",
     "‘Ali left the village.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    75,
+    "Zilo Andi",
+    "cover",
     "riʃd.i-r",
     "ERG",
     "NOM",
@@ -1060,12 +1060,12 @@ const fullData = [
     "t’amsu-di riʃd.i-r itɬ’uɡu hoʔor.",
     "carpet.OBL-ERG lock.PST-PROG all floor[INAN1][NOM]",
     "‘The carpet covers the whole floor.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    76,
+    "Zilo Andi",
+    "remember",
     "rok’or-ʔa <r>-iʁ.i",
     "AFF",
     "NOM",
@@ -1074,12 +1074,12 @@ const fullData = [
     "pat’imati-<r>o haqχ’u ʃu-r rok’or-ʔa r-iʁ.i",
     "PN-AFF<INAN2> house[INAN2][NOM] good-INAN2 heart.OBL-SUPER INAN2-stop.PST(AOR)",
     "‘Patimat remembers the house well.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    77,
+    "Zilo Andi",
+    "help",
     "kumeki dʒid.i",
     "ERG",
     "DAT",
@@ -1088,12 +1088,12 @@ const fullData = [
     "pat’imati-di mariamu-ɬu kumeki dʒid.i.",
     "PN-ERG PN.OBL-DAT help[INAN1][NOM] make.PST(AOR)",
     "‘Patimat helped Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    78,
+    "Zilo Andi",
+    "understand",
     "batʃ’ː.u-mado",
     "AFF",
     "NOM",
@@ -1102,12 +1102,12 @@ const fullData = [
     "he-ge-ʃːu-<b>o b-atʃ’ː.u-mado hin-gi-b-ul roʃol.",
     "DEM-LL-OBL-AFF<INAN1> INAN1-PL\\understand.PST-PROG DEM-LL-INAN1-PL[NOM] word[INAN1].PL[NOM]",
     "‘He understands these words.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    79,
+    "Zilo Andi",
+    "hit#target#",
     "<b>-aχː.o-j",
     "NOM",
     "SUPER",
@@ -1116,12 +1116,12 @@ const fullData = [
     "piri b-aχː.o-j reʃu-ʔa.",
     "lightning[INAN1][NOM] INAN1-end_up.PST-PF wood-SUPER",
     "‘The lightning fell on the tree.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    80,
+    "Zilo Andi",
+    "cut_oneself",
     "buqχ’.i-j",
     "ERG",
     "INST",
@@ -1130,12 +1130,12 @@ const fullData = [
     "ali-di buqχ’.i-j besuno-qχi.",
     "PN-ERG cut.PST-PF knife.OBL-INST",
     "‘Ali cut himself with a knife.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    81,
+    "Zilo Andi",
+    "get_stuck",
     "<b>-ats’.i",
     "NOM",
     "SUPER",
@@ -1144,12 +1144,12 @@ const fullData = [
     "stakan ustulu-ʔa b-ats’.i.",
     "glass[INAN1][NOM] table.OBL-SUPER INAN1-stick.PST(AOR)",
     "‘The glass got stuck to the table.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    82,
+    "Zilo Andi",
+    "lose#game#",
     "<w>-uʁ.an",
     "NOM",
     "SUPER.LAT",
@@ -1158,12 +1158,12 @@ const fullData = [
     "ali muħammadi-ʔo w-uʁ.an.",
     "PN[M][NOM] PN-SUPER.LAT M-lose.PST(AOR)",
     "‘Ali lost to Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    83,
+    "Zilo Andi",
+    "be_glad",
     "<j>-erʁ.ann-ij",
     "NOM",
     "CONT.EL",
@@ -1172,12 +1172,12 @@ const fullData = [
     "pat’imati pismo-tʃ’u-kːu j-erʁ.ann-ij.",
     "PN[F][NOM] letter-CONT-EL F-rejoice.PST-PF",
     "‘Patimat rejoiced over the letter.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    84,
+    "Zilo Andi",
+    "speak",
     "j-edːo-mado",
     "NOM",
     "COM",
@@ -1186,12 +1186,12 @@ const fullData = [
     "pat’imati mariam=lojɡu j-edːo-mado.",
     "PN[F][NOM] PN=COM F-talk.PST-PROG",
     "‘Patimat is talking with Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    85,
+    "Zilo Andi",
+    "give_birth",
     "dʒid.i",
     "ERG",
     "NOM",
@@ -1200,12 +1200,12 @@ const fullData = [
     "mariam-di woʃo dʒid.i.",
     "PN-ERG boy[M][NOM] make.PST(AOR)",
     "‘Mariam gave birth to a boy.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    86,
+    "Zilo Andi",
+    "drop",
     "<r>-ukː-oɬ.i",
     "ERG",
     "NOM",
@@ -1214,12 +1214,12 @@ const fullData = [
     "pat’imati-di r-ukː-oɬ.i istakan.",
     "PN.OBL-ERG INAN2-fall-CAUS.PST(AOR) glass[INAN2][NOM]",
     "‘Patimat dropped a glass.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    87,
+    "Zilo Andi",
+    "govern",
     "<w>-etʃ’uχa",
     "NOM",
     "INTER",
@@ -1228,12 +1228,12 @@ const fullData = [
     "ali hon-tɬi w-etʃ’uχa.",
     "PN[M][NOM] village-INTER M-big",
     "‘Ali leads our village.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    88,
+    "Zilo Andi",
+    "miss",
     "haluχ.onn-ij",
     "NOM",
     "INST",
@@ -1242,12 +1242,12 @@ const fullData = [
     "mariam haluχ.onn-ij pat’imati-qχi",
     "PN[F][NOM] miss.PST-PF PN-INST",
     "‘Mariam misses Patimat.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    89,
+    "Zilo Andi",
+    "follow",
     "<w>-eχːudu <w>-uʔ.inn-e",
     "NOM",
     "CONT",
@@ -1256,12 +1256,12 @@ const fullData = [
     "ali muħammadi-tʃ’u w-eχːudu w-uʔ.inn-e",
     "PN[M][NOM] PN-CONT M-after M-go.NPST-HAB",
     "‘Ali is going after/following Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    90,
+    "Zilo Andi",
+    "dismount",
     "<w>-utɬ.i hitɬ’u",
     "NOM",
     "SUPER.EL",
@@ -1270,12 +1270,12 @@ const fullData = [
     "ali w-utɬ.i k’otu-ʔa-kːu hitɬ’u.",
     "PN[M][NOM] M-become.PST(AOR) horse-SUPER-EL down",
     "‘Ali got off the horse.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    91,
+    "Zilo Andi",
+    "listen",
     "antʃː.i-r",
     "NOM",
     "SUPER.LAT",
@@ -1284,12 +1284,12 @@ const fullData = [
     "pat’imat radiol-ʔo antʃː.i-r.",
     "PN[F][NOM] radio-SUPER.LAT listen.PST-PROG",
     "‘Patimat is listening to the radio.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    92,
+    "Zilo Andi",
+    "obey",
     "antʃː.i",
     "NOM",
     "SUPER.LAT",
@@ -1298,12 +1298,12 @@ const fullData = [
     "ali baba-ʔo antʃː.i.",
     "PN[M][NOM] Mum-SUPER.LAT listen.PST(AOR)",
     "‘Ali obeys Mum.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    93,
+    "Zilo Andi",
+    "hear",
     "anɬ.i-r",
     "AFF",
     "NOM",
@@ -1312,12 +1312,12 @@ const fullData = [
     "ali-<b>o anɬ.i-r ketʃ’ibaqχ’an.",
     "PN-AFF<INAN1> hear.PST-PROG song+melody[INAN1][NOM]",
     "‘Ali hears the music.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    94,
+    "Zilo Andi",
+    "mix",
     "a<r>ʒ.a-j",
     "NOM",
     "COM",
@@ -1326,12 +1326,12 @@ const fullData = [
     "hunts’ːi ʃiw̃=lojɡu itɬu a<r>ʒ.a-j.",
     "honey[INAN2][NOM] milk=COM all mix<INAN2>.PST-PF",
     "‘The honey has blended with the milk.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    95,
+    "Zilo Andi",
+    "look",
     "haltʃ’.o-mado",
     "NOM",
     "SUPER.LAT",
@@ -1340,12 +1340,12 @@ const fullData = [
     "pat’imat hiroda-ʔo tʃ’.on / haltʃ’.o-mado.",
     "PN[F][NOM] cloud.PL.OBL-SUPER.LAT stand_waiting.PST(AOR) look.PST-PROG",
     "‘Patimat is looking at the clouds.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    96,
+    "Zilo Andi",
+    "take_off",
     "<r>-uχ.i",
     "ERG",
     "NOM",
@@ -1354,12 +1354,12 @@ const fullData = [
     "ali-di ɡurdo r-uχ.i.",
     "PN-ERG shirt[INAN2][NOM] INAN2-take_off.PST(AOR)",
     "‘Ali took off his shirt.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    97,
+    "Zilo Andi",
+    "dream#sleeping#",
     "motɬ’i-tɬi ha-ʔ.o-r",
     "AFF",
     "NOM",
@@ -1368,12 +1368,12 @@ const fullData = [
     "pat’imati-<j>o motɬ’i-tɬi haʔ.o-r mariam .",
     "PN-AFF<F> dream-INTER see.PST-PROG PN[F][NOM]",
     "‘Patimat dreams of Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    98,
+    "Zilo Andi",
+    "agree",
     "razi",
     "NOM",
     "SUPER",
@@ -1382,12 +1382,12 @@ const fullData = [
     "ali mariam-ʔa razi.",
     "PN[M][NOM] PN-SUPER contented",
     "‘Ali agreed with Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    99,
+    "Zilo Andi",
+    "have_a_quarrel",
     "<j>-iχ.on",
     "NOM",
     "COM",
@@ -1396,12 +1396,12 @@ const fullData = [
     "pat’imati j-iχ.on mariam=lojɡu.",
     "PN[F][NOM] F-be_offended.PST(AOR) Mariam=COM",
     "‘Patimat quareled with Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    100,
+    "Zilo Andi",
+    "cost",
     "baha",
     "GEN",
     "NOM",
@@ -1410,12 +1410,12 @@ const fullData = [
     "ho-no-b kuruʃku-tɬi baha oziru=ɡu som.",
     "DEM-EMPH-INAN1 cup.OBL-GEN price[INAN1][NOM] thousand=CARD rouble",
     "‘This cup costs a thousand roubles.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    101,
+    "Zilo Andi",
+    "shoot_at",
     "qχ’ʷaʁ.unn",
     "ERG",
     "SUPER.LAT",
@@ -1424,12 +1424,12 @@ const fullData = [
     "ali-di ʃːekibo-ʔo qχ’ʷaʁ.unn-ij.",
     "PN-ERG bird.OBL-SUPER.LAT shoot.PST-PF",
     "‘Ali shot at the bird.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    102,
+    "Zilo Andi",
+    "pour",
     "t’inn.i",
     "ERG",
     "NOM",
@@ -1438,12 +1438,12 @@ const fullData = [
     "ali-di pisoki t’inn.i.",
     "PN-ERG sugar[INAN1][NOM] pour.PST(AOR)",
     "‘Ali poured sugar.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    103,
+    "Zilo Andi",
+    "lose",
     "<r>-ot’-oɬ.i",
     "ERG",
     "NOM",
@@ -1452,12 +1452,12 @@ const fullData = [
     "ali-di r-ot’-oɬ.i rek’ulol.",
     "PN-ERG INAN2-PL\\come_lost-CAUS.PST(AOR) key[INAN2].PL[NOM]",
     "‘Ali lost the keys.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    104,
+    "Zilo Andi",
+    "sink",
     "ʁʷanqχ’.unn-ij",
     "NOM",
     "INTER",
@@ -1466,12 +1466,12 @@ const fullData = [
     "reʃa ɬen-tɬi ʁʷanqχ’.unn-ij.",
     "wood[INAN1][NOM] water-INTER sink.PST-PF",
     "‘The log sank in the water.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    105,
+    "Zilo Andi",
+    "kill",
     "dʒab.i",
     "ERG",
     "NOM",
@@ -1480,12 +1480,12 @@ const fullData = [
     "ali-di muħammadi dʒab.i.",
     "PN-ERG PN[M][NOM] beat.PST(AOR)",
     "‘Ali killed Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    106,
+    "Zilo Andi",
+    "hit",
     "dʒab.i",
     "ERG",
     "SUPER",
@@ -1494,12 +1494,12 @@ const fullData = [
     "ali-di dʒab.i muħammadi-ʔa.",
     "PN-ERG beat.PST(AOR) PN-SUPER",
     "‘Ali hit Muhammad.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    107,
+    "Zilo Andi",
+    "kiss",
     "ts’omm.i ",
     "ERG",
     "SUPER",
@@ -1508,12 +1508,12 @@ const fullData = [
     "χadiʒati-di ts’omm.i mariam-ʔa.",
     "PN-ERG kiss.PST(AOR) PN-SUPER",
     "‘Khadizhat kissed Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    108,
+    "Zilo Andi",
+    "read",
     "baʔ.i ",
     "ERG",
     "NOM",
@@ -1522,12 +1522,12 @@ const fullData = [
     "pat’imati-di baʔ.i interesni χutʃa.",
     "PN-ERG read.PST(AOR) interesting book[INAN2][NOM]",
     "‘Patimat has read an interesting book.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    109,
+    "Zilo Andi",
+    "move#bodypart#",
     "<b>-erʁ-oɬ.i-j",
     "ERG",
     "NOM",
@@ -1536,12 +1536,12 @@ const fullData = [
     "ali-di ts’ek’a b-erʁ-oɬ.i-j.",
     "PN-ERG finger[INAN1][NOM] INAN1-move-CAUS.PST-PF",
     "‘Ali moved his finger’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    110,
+    "Zilo Andi",
+    "respect",
     "<j>-etʃ’uχa-jd.i-r",
     "ERG",
     "NOM",
@@ -1550,12 +1550,12 @@ const fullData = [
     "pat’imati-di j-etʃ’uχa-jd.i-r mariam.",
     "PN-ERG F-big-FCT.PST-PROG PN[F][NOM]",
     "‘Patimat respects Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    111,
+    "Zilo Andi",
+    "be_squeamish",
     "joʃ.u-mado-sːu",
     "ERG",
     "NOM",
@@ -1564,12 +1564,12 @@ const fullData = [
     "pat’imati hek’u qχ’ajʔa joʃ.u-mado-sːu.",
     "PN[F][NOM] dirty dishes enjoy.PST-PROG-NEG",
     "‘Patimat is disgusted by the dirty dishes.",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    112,
+    "Zilo Andi",
+    "be_content",
     "razi",
     "NOM",
     "SUPER",
@@ -1578,12 +1578,12 @@ const fullData = [
     "ali razi enʃu-w=ɡu woʃu-ʔa.",
     "PN[M][NOM] contented RFL.OBL.M-M(GEN)=emph boy.OBL-SUPER",
     "‘Ali is pleased with his son.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    113,
+    "Zilo Andi",
+    "fall_in_love",
     "ruqχ’i <b>-ukː.u-j",
     "NOM",
     "SUPER.LAT",
@@ -1592,12 +1592,12 @@ const fullData = [
     "ali ruqχ’i b-ukː.u-j mariam-ʔo.",
     "PN[M][NOM] love[INAN1][NOM] INAN1-fall.PST-PF PN-SUPER.LAT",
     "‘Ali fell in love with Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    114,
+    "Zilo Andi",
+    "trust",
     "buʒ.u-rado",
     "NOM",
     "SUPER.LAT",
@@ -1606,12 +1606,12 @@ const fullData = [
     "pat’imati buʒ.u-rado mariam-ʔo.",
     "PN[F][NOM] believe.PST-PROG PN-SUPER.LAT",
     "‘Patimat trusts Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    115,
+    "Zilo Andi",
+    "sympathise",
     "rok’o uzad.i-r",
     "GEN",
     "SUPER.LAT",
@@ -1620,12 +1620,12 @@ const fullData = [
     "pat’imati-tɬi rok’o uzad.i-r en-tɬi=ɡu baba-ʔo.",
     "PN-GEN heart[INAN2][NOM] pity.PST-PROG RFL-GEN=EMPH mum-SUPER.LAT",
     "‘Patimat feels sorry for her Mum.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    116,
+    "Zilo Andi",
+    "envy",
     "rok’o qχubi-ɬ.i-j",
     "GEN",
     "SUPER.LAT",
@@ -1634,12 +1634,12 @@ const fullData = [
     "muħammadi-r rok’o qχubi-ɬ.i-j ali-ʔa.",
     "PN-INAN2(GEN) heart[INAN2][NOM] untidy-INCH.PST-PF PN-SUPER",
     "‘Muhammad envies Ali.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    117,
+    "Zilo Andi",
+    "be_angry",
     "sːim <b>-iʔ.o-j",
     "GEN",
     "SUPER.LAT",
@@ -1648,12 +1648,12 @@ const fullData = [
     "pat’imati-tɬi sːim b-iʔ.o-j mariam-ʔo.",
     "PN-GEN anger[INAN1][NOM] INAN1-come.PST-PF PN-SUPER.LAT",
     "‘Patimat is angry at Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    118,
+    "Zilo Andi",
+    "be_surprised",
     "tamaʃa-ɬ.i",
     "NOM",
     "SUPER",
@@ -1662,12 +1662,12 @@ const fullData = [
     "pat’imati tamaʃa-ɬ.i he-de-b padarkal-ʔa.",
     "PN[F][NOM] amazement-INCH.PST(AOR) DEM-SL-INAN1 gift.OBL-SUPER",
     "‘Patimat was surprised by this gift.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    119,
+    "Zilo Andi",
+    "love2",
     "dʒiʔ.i-r",
     "AFF",
     "NOM",
@@ -1676,12 +1676,12 @@ const fullData = [
     "pat’imati-<b>o dʒiʔ.i-r tʃaj.",
     "PN-AFF<INAN1> like.PST-PROG tea[INAN1][NOM]",
     "‘Patimat likes tea.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    120,
+    "Zilo Andi",
+    "enjoy",
     "t’aʔam <b>-iχ.i-r",
     "ERG",
     "CONT.EL",
@@ -1690,12 +1690,12 @@ const fullData = [
     "pat’imati-di tʃa-tʃ’u-kːu t’aʔam b-iχ.i-r.",
     "PN-ERG tea.OBL-CONT-EL taste[INAN1][NOM] INAN1-take.PST-PROG",
     "‘Patimat is enjoying hot tea.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    121,
+    "Zilo Andi",
+    "want",
     "qχ’oroqχ’.o-j",
     "DAT",
     "NOM",
@@ -1704,12 +1704,12 @@ const fullData = [
     "pat’imati-j qχ’oroqχ’.o-j ts’iw telefon.",
     "PN-DAT want.PST-PF new telephone[INAN1][NOM]",
     "‘Patimat wants a new cellphone.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    122,
+    "Zilo Andi",
+    "have_a_grudge",
     "<j>-iχ.onn-ij",
     "NOM",
     "SUPER",
@@ -1718,12 +1718,12 @@ const fullData = [
     "pat’imati j-iχ.onn-ij mariam-ʔa",
     "PN[F][NOM] F-be_offended.PST-PF PN-SUPER",
     "‘Patimat is cross with Mariam",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    123,
+    "Zilo Andi",
+    "take_offence",
     "<w>-uχ.onn-ij",
     "NOM",
     "SUPER",
@@ -1732,12 +1732,12 @@ const fullData = [
     "muħammad w-uχ.onn-ij ali-ʔa.",
     "PN[M][NOM] M-be_offended.PST-PF PN-SUPER",
     "‘Muhammad was offended by Ali.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    124,
+    "Zilo Andi",
+    "upset",
     "waswasil-ʔo <j>-ukː-oɬ.i",
     "ERG",
     "NOM",
@@ -1746,12 +1746,12 @@ const fullData = [
     "pat’imati-di waswasil-ʔo j-ukː-oɬ.i mariam.",
     "PN-ERG doubt.OBL-SUPER.LAT F-fall-CAUS.PST(AOR) PN[F][NOM]",
     "‘Patimat upset Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    125,
+    "Zilo Andi",
+    "marvel",
     "<w>-uχː.i-j",
     "NOM",
     "CONT.EL",
@@ -1760,12 +1760,12 @@ const fullData = [
     "ali w-uχ.i-j ho-no-b gorodil-tʃ’u-kːu.",
     "PN[M][NOM] M-take_off.PST-PF DEM-EMPH-INAN1 city-CONT-EL",
     "‘Ali was astounded by that city.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    126,
+    "Zilo Andi",
+    "despise",
     "ħaqχ’ir-ijd.i-r",
     "ERG",
     "NOM",
@@ -1774,12 +1774,12 @@ const fullData = [
     "pat’imati-di ħaqχ’ir-ijd.i-r mariam.",
     "PN-ERG humiliated-FCT.PST-PROG PN[F][NOM]",
     "‘Patimat despises Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    127,
+    "Zilo Andi",
+    "get_upset",
     "sːim <b>-iʔ.o-j",
     "GEN",
     "SUPER.LAT",
@@ -1788,26 +1788,26 @@ const fullData = [
     "ali-b sːim b-iʔ.o-j enʃu-w=ɡu woʃu-ʔo.",
     "PN-INAN1(GEN) anger[INAN1][NOM] INAN1-come.PST-PF RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER.LAT",
     "‘Ali was upset by his son.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    128,
+    "Zilo Andi",
+    "get_irritated",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "*",
     "*",
     "*",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    129,
+    "Zilo Andi",
+    "be_fond",
     "rok’or-di <j>-iχ.i-j",
     "AFF",
     "NOM",
@@ -1816,12 +1816,12 @@ const fullData = [
     "pat’imati-<j>o mariam rok’or-di j-iχ.i-j.",
     "PN-AFF<F> PN[F][NOM] heart.OBL-ERG F-take.PST-PF",
     "‘Patimat is fond of Mariam.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    85,
-    130,
+    "Zilo Andi",
+    "be_shy",
     "sːuloʔ.o-rado",
     "NOM",
     "CONT.EL",
@@ -1830,26 +1830,26 @@ const fullData = [
     "ali sːuloʔ.o-rado enʃu-b=ɡu wotʃo-ɬir-tʃ’u-kːu.",
     "PN[M][NOM] be_embarrassed.PST-PROG RFL.OBL.M-INAN1(GEN)=EMPH short-ABST-CONT-EL",
     "‘Ali is ashamed by his height (lit. ‘by his shortness’).’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    1,
+    "Modern Hebrew",
+    "feel_pain",
     "jeʃ",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "le Pinχas jeʃ koev roʃ",
     "to Pinchas there.is[PRS] pain head",
     "‘P. has a headache.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    2,
+    "Modern Hebrew",
+    "have#illness#",
     "jeʃ",
     "le",
     "SBJ",
@@ -1858,12 +1858,12 @@ const fullData = [
     "le Pinχas jeʃ ʃapaat",
     "to Pinchas there.is[PRS] flu",
     "‘P. has flu.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    3,
+    "Modern Hebrew",
+    "be_afraid",
     "mefaχed",
     "SBJ",
     "mi",
@@ -1872,12 +1872,12 @@ const fullData = [
     "Pinχas mefaχed me ha kelev",
     "Pinchas be.afraid[SG.M] from DEF dog",
     "‘P. is afraid of the dog.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    4,
+    "Modern Hebrew",
+    "throw",
     "zarak",
     "SBJ",
     "DO",
@@ -1886,26 +1886,26 @@ const fullData = [
     "Pinχas zarak even",
     "Pinchas throw[PST.3SG.M] stone",
     "‘P. threw a stone.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    5,
+    "Modern Hebrew",
+    "have_enough",
     "*",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "aχʃav jeʃ le Pinχas maspik kesef",
     "now there.is[PRS] to Pinchas enough money",
     "‘Now P. has enough money.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    6,
+    "Modern Hebrew",
+    "resemble",
     "dome",
     "SBJ",
     "le",
@@ -1914,12 +1914,12 @@ const fullData = [
     "Pinχas dome le Menaχem",
     "Pinchas similar to Menachem",
     "‘P. resembles M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    7,
+    "Modern Hebrew",
+    "believe",
     "maamin ",
     "SBJ",
     "le",
@@ -1928,12 +1928,12 @@ const fullData = [
     "Pinχas maamin le Menaχem",
     "Pinchas believe[PTCP.SG.M] to Menachem",
     "‘P. believes M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    8,
+    "Modern Hebrew",
+    "take",
     "lakaχ",
     "SBJ",
     "DO",
@@ -1942,12 +1942,12 @@ const fullData = [
     "Pinχas lakaχ sefer",
     "Pinchas take[PST.3SG.M] book",
     "‘P. took a book.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    9,
+    "Modern Hebrew",
+    "see",
     "ro-e",
     "SBJ",
     "DO",
@@ -1956,12 +1956,12 @@ const fullData = [
     "Pinχas ro-e bajt",
     "Pinchas see[PTCP]-SG.M house",
     "‘P. sees a house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    10,
+    "Modern Hebrew",
+    "influence",
     "maʃpia",
     "SBJ",
     "al",
@@ -1970,12 +1970,12 @@ const fullData = [
     "gil maʃpia al ha zikaron",
     "age influence[PTCP.SG.M] on DEF memory",
     "‘Age influences memory.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    11,
+    "Modern Hebrew",
+    "encounter",
     "nitkal ",
     "SBJ",
     "be",
@@ -1984,12 +1984,12 @@ const fullData = [
     "Pinχas nitkal be Menaχem",
     "Pinchas bump.into[PST.3SG.M] in Menachem",
     "‘P. encountered M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    12,
+    "Modern Hebrew",
+    "enter",
     "niχnas",
     "SBJ",
     "el",
@@ -1998,12 +1998,12 @@ const fullData = [
     "Pinχas niχnas el ha bajt",
     "Pinchas enter[PST.3SG.M] towards DEF house",
     "‘P. entered the house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    13,
+    "Modern Hebrew",
+    "win",
     "nitsaχ",
     "SBJ",
     "DO",
@@ -2012,12 +2012,12 @@ const fullData = [
     "Pinχas nitsaχ et Menaχem",
     "Pinchas beat[PST.3SG.M] DO Menachem",
     "‘P. beat M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    14,
+    "Modern Hebrew",
+    "go_out",
     "jatsa",
     "SBJ",
     "mi",
@@ -2026,12 +2026,12 @@ const fullData = [
     "Pinχas jatsa me ha bajt",
     "Pinchas exit[PST.3SG.M] from DEF house",
     "‘P. went out of the house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    15,
+    "Modern Hebrew",
+    "drive",
     "movil",
     "SBJ",
     "DO",
@@ -2040,12 +2040,12 @@ const fullData = [
     "Pinχas movil et ha para",
     "Pinchas drive[PTCP.SG.M] DO DEF cow",
     "‘P. is driving the cow.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    16,
+    "Modern Hebrew",
+    "bend",
     "kofef",
     "SBJ",
     "DO",
@@ -2054,12 +2054,12 @@ const fullData = [
     "Pinχas kofef et ha anaf",
     "Pinchas bend[PST.3SG.M] DO DEF branch",
     "‘P. bent the branch.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    17,
+    "Modern Hebrew",
+    "tell",
     "amar",
     "SBJ",
     "le",
@@ -2068,12 +2068,12 @@ const fullData = [
     "Pinχas amar le Menaχem",
     "Pinchas say[PST.3SG.M] to Menachem",
     "‘P. told Menachem.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    18,
+    "Modern Hebrew",
+    "hold",
     "maχzik",
     "SBJ",
     "DO",
@@ -2082,12 +2082,12 @@ const fullData = [
     "Pinχas maχzik sefer",
     "Pinchas hold[PTCP.SG.M] book",
     "‘P. is holding a book.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    19,
+    "Modern Hebrew",
+    "catch_up",
     "higia",
     "SBJ",
     "el",
@@ -2096,12 +2096,12 @@ const fullData = [
     "Pinχas higia el Mirjam",
     "Pinchas reach[PST.3SG.M] towards Miriam",
     "‘P. caught up with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    20,
+    "Modern Hebrew",
+    "milk",
     "χalav",
     "SBJ",
     "DO",
@@ -2110,12 +2110,12 @@ const fullData = [
     "Pinχas χalav et ha para",
     "Pinchas milk[PST.3SG.M] DO DEF cow",
     "‘P. milked the cow.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    21,
+    "Modern Hebrew",
+    "reach",
     "higia ",
     "SBJ",
     "el",
@@ -2124,12 +2124,12 @@ const fullData = [
     "Pinχas higia el ha gada",
     "Pinchas reach[PST.3SG.M] towards DEF bank",
     "‘P. reached the bank.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    22,
+    "Modern Hebrew",
+    "touch",
     "naga ",
     "SBJ",
     "be",
@@ -2138,12 +2138,12 @@ const fullData = [
     "Pinχas naga ba kir",
     "Pinchas touch[PST.3SG.M] in+DEF wall",
     "‘P. touched the wall.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    23,
+    "Modern Hebrew",
+    "fight",
     "rav",
     "SBJ",
     "im",
@@ -2152,26 +2152,26 @@ const fullData = [
     "Pinχas rav im Menaχem",
     "Pinchas fight[PTCP.SG.M] with Menachem",
     "‘P. is fighting with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    24,
+    "Modern Hebrew",
+    "be_friends",
     "χaver",
     "*",
     "*",
     "*",
-    NaN,
+    "",
     "Pinχas χaver ʃel Menaχem",
     "Pinchas friend POSS Menachem",
     "‘P. is friends with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    25,
+    "Modern Hebrew",
+    "think",
     "hoʃev",
     "SBJ",
     "al",
@@ -2180,12 +2180,12 @@ const fullData = [
     "Pinχas hoʃev al Menaχem",
     "Pinchas think[PTCP.SG.M] on Menachem",
     "‘P. is thinking about M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    26,
+    "Modern Hebrew",
+    "eat",
     "aχal",
     "SBJ",
     "DO",
@@ -2194,12 +2194,12 @@ const fullData = [
     "Pinχas aχal tapuaχ",
     "Pinchas eat[PST.3SG.M] apple",
     "‘P. ate an apple.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    27,
+    "Modern Hebrew",
+    "fry",
     "tigen",
     "SBJ",
     "DO",
@@ -2208,12 +2208,12 @@ const fullData = [
     "Pinχas tigen et ha dag",
     "Pinchas fry[PST.3SG.M] DO DEF fish",
     "‘P. fried the fish.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    28,
+    "Modern Hebrew",
+    "wait",
     "meχake",
     "SBJ",
     "le",
@@ -2222,12 +2222,12 @@ const fullData = [
     "Pinχas meχake le Menaχem",
     "Pinchas wait[PTCP.SG.M] to Menachem",
     "‘P. is waiting for M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    29,
+    "Modern Hebrew",
+    "forget",
     "ʃaχaχ",
     "SBJ",
     "DO",
@@ -2236,12 +2236,12 @@ const fullData = [
     "Pinχas ʃaχaχ et ha dereχ ha aχeret",
     "Pinchas forget[PST.3SG.M] DO DEF road DEF other",
     "‘P. forgot (about) the other road.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    30,
+    "Modern Hebrew",
+    "depend",
     "taluj ",
     "SBJ",
     "be",
@@ -2250,12 +2250,12 @@ const fullData = [
     "zikaron taluj be gil",
     "memory dependent in age",
     "‘Memory depends on age.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    31,
+    "Modern Hebrew",
+    "call",
     "hitkaʃer",
     "SBJ",
     "le",
@@ -2264,12 +2264,12 @@ const fullData = [
     "Pinχas hitkaʃer le Menaχem",
     "Pinchas call[PST.3SG.M] to Menachem",
     "‘P. called M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    32,
+    "Modern Hebrew",
+    "get_to_know",
     "hikir",
     "SBJ",
     "DO",
@@ -2278,12 +2278,12 @@ const fullData = [
     "Pinχas hikir et Menaχem lifnej ʃaa",
     "Pinchas know[PST.3SG.M] DO Menachem ago year",
     "‘P. got to know M. a year ago.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    33,
+    "Modern Hebrew",
+    "know",
     "makir",
     "SBJ",
     "DO",
@@ -2292,12 +2292,12 @@ const fullData = [
     "Pinχas makir et Menaχem",
     "Pinchas know[PTCP.SG.M] DO Menachem",
     "‘P. knows M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    34,
+    "Modern Hebrew",
+    "play#instrument#",
     "menagen",
     "SBJ",
     "be",
@@ -2306,12 +2306,12 @@ const fullData = [
     "Pinχas menagen ba gitara",
     "Pinchas play[PTCP.SG.M] in+DEF guitar",
     "‘P. is playing the guitar.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    35,
+    "Modern Hebrew",
+    "avoid",
     "mitχamek",
     "SBJ",
     "mi",
@@ -2320,12 +2320,12 @@ const fullData = [
     "Pinχas mitχamek mi Menaχem",
     "Pinchas avoid[PTCP.SG.M] from Menachem",
     "‘P. avoids M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    36,
+    "Modern Hebrew",
+    "make",
     "heχin",
     "SBJ",
     "DO",
@@ -2334,12 +2334,12 @@ const fullData = [
     "Pinχas heχin malkodet aχbar-im",
     "Pinchas prepare[PST.3SG.M] trap mouse-PL",
     "‘P. made a mousetrap.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    37,
+    "Modern Hebrew",
+    "make_fun",
     "maknit",
     "SBJ",
     "DO",
@@ -2348,12 +2348,12 @@ const fullData = [
     "Pinχas maknit et Menaχem",
     "Pinchas tease[PTCP.SG.M] DO Menachem",
     "‘P. is making fun of M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    38,
+    "Modern Hebrew",
+    "have",
     "jeʃ ",
     "le",
     "SBJ",
@@ -2362,12 +2362,12 @@ const fullData = [
     "jeʃ le Pinχas meχona",
     "there.is[PRS] to Pinchas car",
     "‘P. has a car.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    39,
+    "Modern Hebrew",
+    "look_for",
     "meχapes",
     "SBJ",
     "DO",
@@ -2376,12 +2376,12 @@ const fullData = [
     "Pinχas meχapes et ha maftex-ot ʃel-o",
     "Pinchas search[PTCP.SG.M] DO DEF key-PL POSS-3SG.M",
     "‘P. is looking for his keys.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    40,
+    "Modern Hebrew",
+    "paint",
     "tsava",
     "SBJ",
     "DO",
@@ -2390,12 +2390,12 @@ const fullData = [
     "Pinχas tsava et ha gader",
     "Pinchas paint[PST.3SG.M] DO DEF fence",
     "‘P. painted the fence.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    41,
+    "Modern Hebrew",
+    "bite",
     "naʃaχ ",
     "SBJ",
     "DO",
@@ -2404,12 +2404,12 @@ const fullData = [
     "kelev naʃaχ et Pinχas",
     "dog bite[PST.3SG.M] DO Pinchas",
     "‘A dog bit P.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    42,
+    "Modern Hebrew",
+    "forfeit",
     "ibed",
     "SBJ",
     "DO",
@@ -2418,12 +2418,12 @@ const fullData = [
     "Pinχas ibed et ha bajt ʃel-o",
     "Pinchas lose[PST.3SG.M] DO DEF house POSS-3SG.M",
     "‘P. lost hist house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    43,
+    "Modern Hebrew",
+    "try_to_catch",
     "menas-e litpos",
     "SBJ",
     "DO",
@@ -2432,12 +2432,12 @@ const fullData = [
     "Pinχas menas-e litpos et ha χatul",
     "Pinchas try[PTCP]-SG.M catch[INF] DO DEF cat",
     "‘P. is trying to catch the cat.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    44,
+    "Modern Hebrew",
+    "break",
     "ʃavar",
     "SBJ",
     "DO",
@@ -2446,12 +2446,12 @@ const fullData = [
     "Pinχas ʃavar makel",
     "Pinchas break[PST.3SG.M] stick",
     "‘P. broke a stick.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    45,
+    "Modern Hebrew",
+    "flatter",
     "maχmi",
     "SBJ",
     "le",
@@ -2460,12 +2460,12 @@ const fullData = [
     "Pinχas maχmi le Menaχem",
     "Pinchas flatter[PTCP.SG.M] to Menachem",
     "‘P. is flattering M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    46,
+    "Modern Hebrew",
+    "love1",
     "ohev",
     "SBJ",
     "DO",
@@ -2474,12 +2474,12 @@ const fullData = [
     "Pinχas ohev et Menaχem",
     "Pinchas love[PTCP.SG.M] DO Menachem",
     "‘P. loves M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    47,
+    "Modern Hebrew",
+    "wave",
     "menofef",
     "SBJ",
     "be",
@@ -2488,12 +2488,12 @@ const fullData = [
     "Pinχas menofef be mitpaχat",
     "Pinchas wave[PTCP.SG.M] in handkerchief",
     "‘P. is waving a handkerchief.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    48,
+    "Modern Hebrew",
+    "dream",
     "χolem",
     "SBJ",
     "al",
@@ -2502,12 +2502,12 @@ const fullData = [
     "Pinχas χolem al meχonit χadaʃa",
     "Pinchas dream[PTCP.SG.M] on car new",
     "‘P. is dreaming of a new car.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    49,
+    "Modern Hebrew",
+    "wash",
     "ʃataf",
     "SBJ",
     "DO",
@@ -2516,12 +2516,12 @@ const fullData = [
     "Pinχas ʃataf et ha kos",
     "Pinchas wash[PST.3SG.M] DO DEF cup",
     "‘P. washed the cup.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    50,
+    "Modern Hebrew",
+    "put_on",
     "lavaʃ",
     "SBJ",
     "DO",
@@ -2530,12 +2530,12 @@ const fullData = [
     "Pinχas lavaʃ et miχnasa-v",
     "Pinchas put.on[PST.3SG.M] DO trousers-POSS.3SG.M.PL",
     "‘P. put on his trousers.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    51,
+    "Modern Hebrew",
+    "be_called",
     "kor-im ",
     "le",
     "DO",
@@ -2544,12 +2544,12 @@ const fullData = [
     "le kli ha z-e kor-im matspen",
     "to instrument DEF this[SG]-M call-PL compass",
     "‘This instrument is called a compass.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    52,
+    "Modern Hebrew",
+    "punish",
     "heenish",
     "SBJ",
     "DO",
@@ -2558,12 +2558,12 @@ const fullData = [
     "Pinχas heenish et ha ben ʃel-o",
     "Pinchas punish[PST.3SG.M] DO DEF son POSS-3SG.M",
     "‘P. punished his son.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    53,
+    "Modern Hebrew",
+    "attack",
     "takaf",
     "SBJ",
     "DO",
@@ -2572,12 +2572,12 @@ const fullData = [
     "dav takaf dajag",
     "bear attack[PST.3SG.M] fisherman",
     "‘A bear attacked a fisherman.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    54,
+    "Modern Hebrew",
+    "fill#intr#",
     "hitmale",
     "SBJ",
     "be",
@@ -2586,12 +2586,12 @@ const fullData = [
     "ha dli hitmale be maim",
     "DEF bucket fill[PST.3SG.M] in water",
     "‘The bucket filled with water.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    55,
+    "Modern Hebrew",
+    "find",
     "matsa",
     "SBJ",
     "DO",
@@ -2600,12 +2600,12 @@ const fullData = [
     "Pinχas matsa et ha mafteχot ʃel-o",
     "Pinchas find[PST.3SG.M] DO DEF key-PL POSS-3SG.M",
     "‘P. found his keys.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    56,
+    "Modern Hebrew",
+    "be_short",
     "χaser",
     "le",
     "SBJ",
@@ -2614,12 +2614,12 @@ const fullData = [
     "χaser le Pinχas juro eχad",
     "is.lacking to Pinchas euro one",
     "‘P. is one euro short.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    57,
+    "Modern Hebrew",
+    "hate",
     "sone",
     "SBJ",
     "DO",
@@ -2628,12 +2628,12 @@ const fullData = [
     "Pinχas sone et Menaχem",
     "Pinchas hate[PTCP.SG.M] DO Menachem",
     "‘P. hates M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    58,
+    "Modern Hebrew",
+    "like",
     "ohev",
     "SBJ",
     "DO",
@@ -2642,12 +2642,12 @@ const fullData = [
     "Pinχas ohev et ha χultsa ha z-o",
     "Pinchas love[PTCP.SG.M] DO DEF shirt DEF this[SG]-F",
     "‘P. likes this shirt.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    59,
+    "Modern Hebrew",
+    "need",
     "tsariχ",
     "SBJ",
     "DO",
@@ -2656,12 +2656,12 @@ const fullData = [
     "Pinχas tsariχ kesef",
     "Pinchas need[PTCP.SG.M] money",
     "‘P. needs money.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    60,
+    "Modern Hebrew",
+    "surround",
     "makif-ot",
     "SBJ",
     "DO",
@@ -2670,12 +2670,12 @@ const fullData = [
     "χom-ot makif-ot et ha ir",
     "wall-PL surround[PTCP]-PL.F DO DEF city",
     "‘Walls surround the city.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    61,
+    "Modern Hebrew",
+    "remain",
     "niʃar-u",
     "le",
     "SBJ",
@@ -2684,12 +2684,12 @@ const fullData = [
     "niʃar-u le Pinχas asara juro",
     "be.left-3PL to Pinchas ten[M] euro",
     "‘P. has ten euro left.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    62,
+    "Modern Hebrew",
+    "answer",
     "ana",
     "SBJ",
     "le",
@@ -2698,12 +2698,12 @@ const fullData = [
     "Pinχas ana le more",
     "Pinchas respond[PST.3SG.M] to teacher",
     "‘P. answered the teacher.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    63,
+    "Modern Hebrew",
+    "open",
     "pataχ",
     "SBJ",
     "DO",
@@ -2712,12 +2712,12 @@ const fullData = [
     "Pinχas pataχ paχit",
     "Pinχas open[PST.3SG.M] can",
     "‘P. opened a can.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    64,
+    "Modern Hebrew",
+    "be_different",
     "ʃone",
     "SBJ",
     "mi",
@@ -2726,12 +2726,12 @@ const fullData = [
     "lo ha χultsa ʃel-i ʃone mi ʃel-χa",
     "no DEF shirt POSS-1SG different from POSS-2SG.M",
     "‘No, my shirt is different from yours.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    65,
+    "Modern Hebrew",
+    "fall_behind",
     "piger",
     "SBJ",
     "axarej",
@@ -2740,12 +2740,12 @@ const fullData = [
     "Pinχas piger aχarej Menaχem",
     "Pinchas lag[PST.3SG.M] after Menachem",
     "‘P. fell behind M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    66,
+    "Modern Hebrew",
+    "plough",
     "χoreʃ",
     "SBJ",
     "DO",
@@ -2754,12 +2754,12 @@ const fullData = [
     "Pinχas χoreʃ et ha sade",
     "Pinchas plow[PTCP.SG.M] DO DEF field",
     "‘P. is ploughing the field.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    67,
+    "Modern Hebrew",
+    "smell",
     "meriχ-ot",
     "SBJ",
     "mi",
@@ -2768,12 +2768,12 @@ const fullData = [
     "ha jad-ajim ʃel-i meriχ-ot mi delek",
     "DEF hand-PL POSS-1SG smell[PTCP]-PL.F from gasoline",
     "‘My hands smell of gasoline.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    68,
+    "Modern Hebrew",
+    "cross",
     "χatsa",
     "SBJ",
     "DO",
@@ -2782,12 +2782,12 @@ const fullData = [
     "Pinχas χatsa et ha reχov",
     "Pinchas cross[PST.3SG.M] DO DEF street",
     "‘P. crossed the road.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    69,
+    "Modern Hebrew",
+    "sing",
     "ʃar",
     "SBJ",
     "DO",
@@ -2796,12 +2796,12 @@ const fullData = [
     "Pinχas ʃar ʃir jafe",
     "Pinchas sing[PST.3SG.M] song beautiful",
     "‘P. sang a beautiful song.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    70,
+    "Modern Hebrew",
+    "write",
     "katav",
     "SBJ",
     "DO",
@@ -2810,12 +2810,12 @@ const fullData = [
     "Pinχas katav miχtav",
     "Pinchas write[PST.3SG.M] letter",
     "‘P. wrote a letter.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    71,
+    "Modern Hebrew",
+    "drink",
     "ʃata",
     "SBJ",
     "DO",
@@ -2824,12 +2824,12 @@ const fullData = [
     "Pinχas ʃata et ha χalav",
     "Pinchas drink[PST.3SG.M] DO DEF milk",
     "‘P. drank the milk.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    72,
+    "Modern Hebrew",
+    "melt",
     "hitiχ",
     "SBJ",
     "DO",
@@ -2838,12 +2838,12 @@ const fullData = [
     "Pinχas hitiχ pisa-t oferet",
     "Pinchas melt[PST.3SG.M] piece-CS lead",
     "‘P. melted a piece of lead.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    73,
+    "Modern Hebrew",
+    "match",
     "matim-a",
     "SBJ",
     "le",
@@ -2852,12 +2852,12 @@ const fullData = [
     "ha χagora ha z-o matim-a le simla ʃel-i",
     "DEF belt DEF this[SG]-F fit[PTCP.SG]-F to dress POSS-1SG",
     "‘This belt goes well with my dress.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    74,
+    "Modern Hebrew",
+    "leave",
     "azav",
     "SBJ",
     "DO",
@@ -2866,12 +2866,12 @@ const fullData = [
     "Pinχas azav et ir uledat-o",
     "Pinchas leave[PST.3SG.M] DO city birth-POSS.3SG.M",
     "‘P. left his native city.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    75,
+    "Modern Hebrew",
+    "cover",
     "meχas-e",
     "SBJ",
     "DO",
@@ -2880,12 +2880,12 @@ const fullData = [
     "ha ʃatiaχ meχas-e et kol ha ritspa",
     "DEF carptet cover[PTCP.SG]-M DO whole DEF floor",
     "‘The carpet covers the whole floor.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    76,
+    "Modern Hebrew",
+    "remember",
     "zoχer",
     "SBJ",
     "DO",
@@ -2894,12 +2894,12 @@ const fullData = [
     "Pinχas zoχer tov et ha bajt",
     "Pinchas remember[PTCP.SG.M] good DO DEF house",
     "‘P. remembers the house well.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    77,
+    "Modern Hebrew",
+    "help",
     "azar",
     "SBJ",
     "le",
@@ -2908,12 +2908,12 @@ const fullData = [
     "Pinχas azar le Menaχem",
     "Pinchas help[PST.3SG.M] to Menachem",
     "‘P. helped M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    78,
+    "Modern Hebrew",
+    "understand",
     "mevin",
     "SBJ",
     "DO",
@@ -2922,12 +2922,12 @@ const fullData = [
     "Pinχas mevin tsarfatit",
     "Pinchas understand[PTCP.SG.M] French",
     "‘P. understands French.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    79,
+    "Modern Hebrew",
+    "hit#target#",
     "paga",
     "SBJ",
     "be",
@@ -2936,12 +2936,12 @@ const fullData = [
     "barak paga ba bajt",
     "lightning hit[PST.3SG.M] in+DEF house",
     "‘Lightning struck the house.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    80,
+    "Modern Hebrew",
+    "cut_oneself",
     "χataχ et atsm-o",
     "SBJ",
     "im",
@@ -2950,12 +2950,12 @@ const fullData = [
     "Pinχas χataχ et atsm-o im taar",
     "Pinchas cut[PST.3SG.M] DO self-3SG.M with razor",
     "‘P. cut himself with a razor.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    81,
+    "Modern Hebrew",
+    "get_stuck",
     "nidbak-a",
     "SBJ",
     "le",
@@ -2964,12 +2964,12 @@ const fullData = [
     "ha kos nidbak-a le ʃulχan",
     "DEF glass get.stuck[PST]-3SG.F to table",
     "‘The glass got stuck to the table.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    82,
+    "Modern Hebrew",
+    "lose#game#",
     "ifsid",
     "SBJ",
     "le",
@@ -2978,12 +2978,12 @@ const fullData = [
     "Pinχas ifsid le Menaχem",
     "Pinchas lose[PST.3SG.M] to Menachem",
     "‘P. lost to M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    83,
+    "Modern Hebrew",
+    "be_glad",
     "samaχ",
     "SBJ",
     "legabej",
@@ -2992,12 +2992,12 @@ const fullData = [
     "Pinχas samaχ legabej ha miχtav",
     "Pinchas be.glad[PST.3SG.M] about DEF letter",
     "‘P. was glad about the letter.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    84,
+    "Modern Hebrew",
+    "speak",
     "medaber",
     "SBJ",
     "im",
@@ -3006,12 +3006,12 @@ const fullData = [
     "Pinχas medaber im Menaχem",
     "Pinchas speak[PTCP.SG.M] with Menachem",
     "‘P. is speaking with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    85,
+    "Modern Hebrew",
+    "give_birth",
     "jald-a",
     "SBJ",
     "DO",
@@ -3020,12 +3020,12 @@ const fullData = [
     "Mirjam jald-a ben",
     "Miriam give.birth[PST]-3SG.F son",
     "‘M. gave birth to a son.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    86,
+    "Modern Hebrew",
+    "drop",
     "hipil",
     "SBJ",
     "DO",
@@ -3034,12 +3034,12 @@ const fullData = [
     "Pinχas hipil et ha kos",
     "Pinchas drop[PST.3SG.M] DO DEF glass",
     "‘P. dropped the glass.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    87,
+    "Modern Hebrew",
+    "govern",
     "menahel",
     "SBJ",
     "DO",
@@ -3048,12 +3048,12 @@ const fullData = [
     "Pinχas menahel et ha ir ʃel-anu",
     "Pinchas manage[PTCP.SG.M] DO DEF city POSS-1PL",
     "‘P. runs our town.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    88,
+    "Modern Hebrew",
+    "miss",
     "mitgagea",
     "SBJ",
     "le",
@@ -3062,12 +3062,12 @@ const fullData = [
     "Pinχas mitgagea le Menaχem",
     "Pinchas miss[PTCP.SG.M] to Menachem",
     "‘P. misses M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    89,
+    "Modern Hebrew",
+    "follow",
     "okev",
     "SBJ",
     "axarej",
@@ -3076,12 +3076,12 @@ const fullData = [
     "Pinχas okev aχarej Menaχem",
     "Pinchas follow[PTCP.SG.M] after Menachem",
     "‘P. follows M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    90,
+    "Modern Hebrew",
+    "dismount",
     "jarad",
     "SBJ",
     "mi",
@@ -3090,12 +3090,12 @@ const fullData = [
     "Pinχas jarad me ha sus",
     "Pinchas descend[PST.3SG.M] from DEF horse",
     "‘P. got down from the horse.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    91,
+    "Modern Hebrew",
+    "listen",
     "makʃiv",
     "SBJ",
     "le",
@@ -3104,12 +3104,12 @@ const fullData = [
     "Pinχas makʃiv le radio",
     "Pinchas listen[PTCP.SG.M] to radio",
     "‘P. is listening to radio.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    92,
+    "Modern Hebrew",
+    "obey",
     "makʃiv ",
     "SBJ",
     "le",
@@ -3118,12 +3118,12 @@ const fullData = [
     "Pinχas tamid makʃiv le ima ʃel-o",
     "Pinchas always listen[PTCP.SG.M] to mother POSS-3SG.M",
     "‘P. always listens to his mother.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    93,
+    "Modern Hebrew",
+    "hear",
     "shomea",
     "SBJ",
     "DO",
@@ -3132,12 +3132,12 @@ const fullData = [
     "Pinχas shomea et ha muzika",
     "Pinchas hear[PTCP.SG.M] DO DEF music",
     "‘P. hears the music.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    94,
+    "Modern Hebrew",
+    "mix",
     "hitarbev",
     "SBJ",
     "im",
@@ -3146,12 +3146,12 @@ const fullData = [
     "ha dvaʃ hitarbev im ha χalav",
     "DEF honey get.mixed[PST.3SG.M] with DEF milk",
     "‘The honey got mixed with milk.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    95,
+    "Modern Hebrew",
+    "look",
     "mistakel",
     "SBJ",
     "al",
@@ -3160,12 +3160,12 @@ const fullData = [
     "Pinχas mistakel al ha anan-im",
     "Pinchas look[PTCP.SG.M] on DEF cloud-PL",
     "‘P. is looking at the clouds.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    96,
+    "Modern Hebrew",
+    "take_off",
     "paʃat",
     "SBJ",
     "DO",
@@ -3174,12 +3174,12 @@ const fullData = [
     "Pinχas paʃat et ha χultsa ʃel-o",
     "Pinchas take.off[PST.3SG.M] DO DEF shirt POSS-3SG.M",
     "‘P. took off his shirt.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    97,
+    "Modern Hebrew",
+    "dream#sleeping#",
     "χolem-et",
     "SBJ",
     "al",
@@ -3188,12 +3188,12 @@ const fullData = [
     "Mirjam χolem-et al Pinχas",
     "Miriam dream[PTCP]-SG.F on Pinchas",
     "‘M. dreams about P.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    98,
+    "Modern Hebrew",
+    "agree",
     "hiskim",
     "SBJ",
     "im",
@@ -3202,12 +3202,12 @@ const fullData = [
     "Pinχas hiskim im Menaχem",
     "Pinchas agree[PST.3SG.M] with Menachem",
     "‘P. agreed with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    99,
+    "Modern Hebrew",
+    "have_a_quarrel",
     "rav",
     "SBJ",
     "im",
@@ -3216,12 +3216,12 @@ const fullData = [
     "Pinχas rav im Menaχem",
     "Pinchas quarrel[PST.3SG.M] with Menachem",
     "‘P. had a quarrel with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    100,
+    "Modern Hebrew",
+    "cost",
     "ol-a",
     "SBJ",
     "DO",
@@ -3230,12 +3230,12 @@ const fullData = [
     "ha kos ha z-ot ol-a juro",
     "DEF cup DEF this[SG]-F cost[PTCP]-SG.F euro",
     "‘This cup costs 1 euro.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    101,
+    "Modern Hebrew",
+    "shoot_at",
     "jara",
     "SBJ",
     "be",
@@ -3244,12 +3244,12 @@ const fullData = [
     "Pinχas jara be tsipor",
     "Pinchas shoot[PST.3SG.M] in bird",
     "‘P. shot at the bird.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    102,
+    "Modern Hebrew",
+    "pour",
     "ʃafaχ",
     "SBJ",
     "DO",
@@ -3258,12 +3258,12 @@ const fullData = [
     "Pinχas ʃafaχ et ha sukar",
     "Pinchas pour[PST.3SG.M] DO DEF sugar",
     "‘P. poured the sugar.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    103,
+    "Modern Hebrew",
+    "lose",
     "ibed",
     "SBJ",
     "DO",
@@ -3272,12 +3272,12 @@ const fullData = [
     "Pinχas ibed et ha mafteχ-ot ʃel-o",
     "Pinchas lose[PST.3SG.M] DO DEF key-PL POSS-3SG.M",
     "‘P. lost his keys.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    104,
+    "Modern Hebrew",
+    "sink",
     "ʃaka",
     "SBJ",
     "be",
@@ -3286,12 +3286,12 @@ const fullData = [
     "bul ha ets ʃaka ba maim",
     "log1 DEF log2 sink[PST.3SG.M] in+DEF water",
     "‘The log sank in the water.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    105,
+    "Modern Hebrew",
+    "kill",
     "harag",
     "SBJ",
     "DO",
@@ -3300,12 +3300,12 @@ const fullData = [
     "Pinχas harag et Menaχem",
     "Pinchas kill[PST.3SG.M] DO Menachem",
     "‘P. killed M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    106,
+    "Modern Hebrew",
+    "hit",
     "hika",
     "SBJ",
     "DO",
@@ -3314,12 +3314,12 @@ const fullData = [
     "Pinχas hika et Menaχem",
     "Pinchas hit[PST.3SG.M] DO Menachem",
     "‘P. hit M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    107,
+    "Modern Hebrew",
+    "kiss",
     "niʃek",
     "SBJ",
     "DO",
@@ -3328,12 +3328,12 @@ const fullData = [
     "Pinχas niʃek et Menaχem",
     "Pinchas kiss[PST.3SG.M] DO Menachem",
     "‘P. kissed M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    108,
+    "Modern Hebrew",
+    "read",
     "kara",
     "SBJ",
     "DO",
@@ -3342,12 +3342,12 @@ const fullData = [
     "Pinχas kara sefer meanjen",
     "Pinchas read[PST.3SG.M] book interesting",
     "‘P. read an interesting book.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    109,
+    "Modern Hebrew",
+    "move#bodypart#",
     "heevir",
     "SBJ",
     "DO",
@@ -3356,12 +3356,12 @@ const fullData = [
     "Pinχas heevir et etsba-o",
     "Pinchas move[PST.3SG.M] DO finger-POSS.3SG.M",
     "‘P. moved his finger.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    110,
+    "Modern Hebrew",
+    "respect",
     "meχabed",
     "SBJ",
     "DO",
@@ -3370,12 +3370,12 @@ const fullData = [
     "Pinχas meχabed et Menaχem",
     "Pinchas respect[PTCP.SG.M] DO Menachem",
     "‘P. respects M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    111,
+    "Modern Hebrew",
+    "be_squeamish",
     "nirta",
     "SBJ",
     "mi",
@@ -3384,12 +3384,12 @@ const fullData = [
     "Pinxas nirta mi kelim meluxlaxim",
     "Pinchas be.afraid[PTCP.SG.M] from dish-PL dirty-PL",
     "‘P. is squeamish about dirty dishes.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    112,
+    "Modern Hebrew",
+    "be_content",
     "merutse",
     "SBJ",
     "mi",
@@ -3398,12 +3398,12 @@ const fullData = [
     "Pinχas merutse me ha ben ʃel-o",
     "Pinchas satisfied from DEF son POSS-3SG.M",
     "‘P. is satisfied with his son.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    113,
+    "Modern Hebrew",
+    "fall_in_love",
     "hitahev",
     "SBJ",
     "be",
@@ -3412,12 +3412,12 @@ const fullData = [
     "Pinχas hitahev be Menaχem",
     "Pinchas fall.in.love[PST.3SG.M] in Menachem",
     "‘P. fell in love with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    114,
+    "Modern Hebrew",
+    "trust",
     "someχ",
     "SBJ",
     "al",
@@ -3426,12 +3426,12 @@ const fullData = [
     "Pinχas someχ al Menaχem",
     "Pinchas trust[PTCP.SG.M] on Menachem",
     "‘P. trusts M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    115,
+    "Modern Hebrew",
+    "sympathise",
     "meraxem",
     "SBJ",
     "al",
@@ -3440,12 +3440,12 @@ const fullData = [
     "Pinχas meraxem al im-o",
     "Pinchas sympathise[PTCP.SG.M] on mother-POSS.3SG.M",
     "‘P. sympathises with his mother.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    116,
+    "Modern Hebrew",
+    "envy",
     "mekan-e",
     "SBJ",
     "be",
@@ -3454,12 +3454,12 @@ const fullData = [
     "Pinχas mekan-e be Menaχem",
     "Pinchas envy[PTCP]-SG.M im Menachem",
     "‘P. envies M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    117,
+    "Modern Hebrew",
+    "be_angry",
     "koes",
     "SBJ",
     "al",
@@ -3468,12 +3468,12 @@ const fullData = [
     "Pinχas koes al Menaχem",
     "Pinchas be.angry[PTCP.SG.M] on Menachem",
     "‘P. is angry with M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    118,
+    "Modern Hebrew",
+    "be_surprised",
     "hufta",
     "SBJ",
     "mi",
@@ -3482,12 +3482,12 @@ const fullData = [
     "Pinχas hufta me ha matana ha z-o",
     "Pinchas be.surprised[PST.3SG.M] from DEF gift DEF this-SG.F",
     "‘P. was surprised at this gift.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    119,
+    "Modern Hebrew",
+    "love2",
     "ohev",
     "SBJ",
     "DO",
@@ -3496,12 +3496,12 @@ const fullData = [
     "Pinχas ohev te",
     "Pinchas love[PTCP.SG.M] tea",
     "‘P. loves tea.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    120,
+    "Modern Hebrew",
+    "enjoy",
     "nehene",
     "SBJ",
     "mi",
@@ -3510,12 +3510,12 @@ const fullData = [
     "Pinχas nehene me ha te ha χam",
     "Pinchas enjoy[PTCP.SG.M] from DEF tea DEF hot",
     "‘P. enjoys hot tea.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    121,
+    "Modern Hebrew",
+    "want",
     "rots-e",
     "SBJ",
     "DO",
@@ -3524,12 +3524,12 @@ const fullData = [
     "Pinχas rots-e telefon najad χadaʃ",
     "Pinchas want[PTCP.SG]-M phone mobile new",
     "‘P. wants a new mobile phone.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    122,
+    "Modern Hebrew",
+    "have_a_grudge",
     "noter tina",
     "SBJ",
     "le",
@@ -3538,12 +3538,12 @@ const fullData = [
     "Pinχas noter tina le Menaχem",
     "Pinchas guard[PTCP.SG.M] malice to Menachem",
     "‘P. holds a grudge against M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    123,
+    "Modern Hebrew",
+    "take_offence",
     "nifga",
     "SBJ",
     "mi",
@@ -3552,12 +3552,12 @@ const fullData = [
     "Pinχas nifga mi Menaχem",
     "Pinchas be.offended[PST.3SG.M] from Menachem",
     "‘P. took offence at M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    124,
+    "Modern Hebrew",
+    "upset",
     "hirgiz ",
     "SBJ",
     "DO",
@@ -3566,12 +3566,12 @@ const fullData = [
     "Pinχas hirgiz meod et Mirjam",
     "Pinchas upset[PST.3SG.M] much Miriam",
     "‘P. greatly upset M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    125,
+    "Modern Hebrew",
+    "marvel",
     "hitraʃem",
     "SBJ",
     "mi",
@@ -3580,12 +3580,12 @@ const fullData = [
     "Pinχas hitraʃem me ha ir ha z-o",
     "Pinchas be.impressed[PST.3SG.M] from DEF town DEF this-SG.F",
     "‘P. was impressed by this town.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    126,
+    "Modern Hebrew",
+    "despise",
     "metaev",
     "SBJ",
     "DO",
@@ -3594,12 +3594,12 @@ const fullData = [
     "Pinχas metaev et Menaχem",
     "Pinchas despise[PTCP.SG.M] DO Menachem",
     "‘P. despises M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    127,
+    "Modern Hebrew",
+    "get_upset",
     "hitatsben",
     "SBJ",
     "al",
@@ -3608,12 +3608,12 @@ const fullData = [
     "Pinχas hitatsben al ha ben ʃel-o",
     "Pinchas become.annoyed[PST.3SG.M] on DEF son POSS-3SG.M",
     "‘P. got upset with his son.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    128,
+    "Modern Hebrew",
+    "get_irritated",
     "mitatsben",
     "SBJ",
     "al",
@@ -3622,12 +3622,12 @@ const fullData = [
     "Pinχas mitatsben al ha bat ʃel-o",
     "Pinχas become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M",
     "‘P. is getting irritated with his daughter.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    129,
+    "Modern Hebrew",
+    "be_fond",
     "meχabev",
     "SBJ",
     "DO",
@@ -3636,12 +3636,12 @@ const fullData = [
     "Pinχas meχabev et Menaχem",
     "Pinchas like[PTCP.SG.M] DO Menachem",
     "‘P. is fond of M.’",
-    NaN,
-    NaN
+    "",
+    ""
   ],
   [
-    83,
-    130,
+    "Modern Hebrew",
+    "be_shy",
     "mitbajeʃ",
     "SBJ",
     "be",
@@ -3650,7 +3650,7 @@ const fullData = [
     "Pinχas mitbajeʃ ba gova ʃel-o",
     "Pinchas be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M",
     "‘P. is embarrased about his height.’",
-    NaN,
-    NaN
+    "",
+    ""
   ]
 ];
