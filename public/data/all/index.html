@@ -73,7 +73,7 @@
 <script>
     function addSmallCaps(str) {
         // Remove personal names from Hebrew.
-        str = str.replaceAll(/(Pinchas)|(Menachem)|(Miriam)/g, 'PN');
+        str = str.replace(/(Pinchas)|(Menachem)|(Miriam)/g, 'PN');
 
         let re = /([A-Z]+\d*)/g,
             result = str;
@@ -91,7 +91,7 @@
                 return 0;
         })
         for (const match of matches) {
-            result = result.replaceAll(match, `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
+            result = result.replace(match, `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
         }
         return result;
     }
