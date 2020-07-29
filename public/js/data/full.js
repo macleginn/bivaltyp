@@ -6,7 +6,7 @@ const fullData = [
     "X",
     "Y",
     "locus",
-    "valency_pattern",
+    'valency_pattern',
     "sentence",
     "glosses_en",
     "back_translation_en",

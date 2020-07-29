@@ -71,6 +71,28 @@
     <div id="main"><h2>The data table</h2>
 <div id="table"></div>
 <script>
+    function addSmallCaps(str) {
+        let re = /([A-Z]+\d*)/g,
+            result = str;
+        // Replace longest matches first.
+        let matches = Array.from(str.matchAll(re));
+        for (let i = matches.length-1; i >= 0; i--) {
+            matches[i] = matches[i][0];
+        }
+        matches.sort((a, b) => {
+            if (a.length > b.length)
+                return -1;
+            else if (a.length < b.length)
+                return 1;
+            else
+                return 0;
+        })
+        for (const match of matches) {
+            result = result.replaceAll(match, `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
+        }
+        return result;
+    }
+
     let DataFrame = dfjs.DataFrame;
 
     document.addEventListener('DOMContentLoaded', () => {
@@ -79,20 +101,35 @@
             dataFrame = new DataFrame(
                 fullData.slice(1),
                 columnNames
-            ),
-            table = new Handsontable(container, {
-                licenseKey: 'non-commercial-and-evaluation',
-                data: dataFrame.toArray(),
-                colHeaders: dataFrame.listColumns(),
-                editor: false,
-                rowHeaders: false,
-                filters: true,
-                dropdownMenu: [
-                    'filter_by_condition',
-                    'filter_by_value',
-                    'filter_action_bar'
-                ]
-            });
+            );
+        dataFrame = dataFrame.map(row => row.set(
+            'glosses_en',
+            addSmallCaps(row.get('glosses_en'))
+            )
+        );
+        let columns = [];
+        for (const colname of columnNames) {
+            if (colname === 'glosses_en')
+                columns.push({renderer: 'html'});
+            else
+                columns.push({renderer: 'text'});
+        }
+        console.table(columns);
+        console.log(dataFrame.listColumns());
+        let table = new Handsontable(container, {
+            licenseKey: 'non-commercial-and-evaluation',
+            data: dataFrame.toArray(),
+            colHeaders: dataFrame.listColumns(),
+            editor: false,
+            rowHeaders: false,
+            filters: true,
+            dropdownMenu: [
+                'filter_by_condition',
+                'filter_by_value',
+                'filter_action_bar'
+            ],
+            columns: columns
+        });
     });
 </script></div>
     
