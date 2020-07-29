@@ -2,6 +2,9 @@
 <div id="table"></div>
 <script>
     function addSmallCaps(str) {
+        // Remove personal names from Hebrew.
+        str = str.replaceAll(/(Pinchas)|(Menachem)|(Miriam)/, 'PN');
+
         let re = /([A-Z]+\d*)/g,
             result = str;
         // Replace longest matches first.
