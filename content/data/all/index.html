@@ -1,0 +1,25 @@
+<h2>The data table</h2>
+<div id="table"></div>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        let container = byId('table'),
+            columnNames = fullData[0],
+            dataFrame = new DataFrame(
+                fullData.slice(1),
+                columnNames
+            ),
+            table = new Handsontable(container, {
+                licenseKey: 'non-commercial-and-evaluation',
+                data: dataFrame.toArray(),
+                colHeaders: dataFrame.listColumns(),
+                editor: false,
+                rowHeaders: false,
+                filters: true,
+                dropdownMenu: [
+                    'filter_by_condition',
+                    'filter_by_value',
+                    'filter_action_bar'
+                ]
+            });
+    });
+</script>
