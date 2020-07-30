@@ -107,7 +107,7 @@ td {
     font-weight: bold;
 }
 
-.predicate-translation {
+.predicate-translation, .example-word {
     font-style: italic;
 }
 
