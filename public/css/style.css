@@ -32,6 +32,14 @@ p a {
     text-decoration: underline;
 }
 
+img {
+    width: 200px;
+}
+
+td {
+    padding: 5px;
+}
+
 /* Class styles */
 
 .txt {
@@ -89,6 +97,26 @@ p a {
     background-color: rgb(230, 230, 230);
     margin-bottom: 3px;
     padding: 3px;
+}
+
+.gloss {
+    font-variant: small-caps;
+}
+
+.predicate-name {
+    font-weight: bold;
+}
+
+.predicate-translation {
+    font-style: italic;
+}
+
+.example-word, .example-translation {
+    background-color: white;
+}
+
+.example-gloss {
+    background-color: rgb(240,240,240);
 }
 
 /* By-id styles */
