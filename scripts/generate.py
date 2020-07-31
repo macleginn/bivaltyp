@@ -313,6 +313,7 @@ for root, _, files in os.walk('../content'):
                     print(pipeline(txt, parse_md), file=out)
                 elif 'descriptions' in path:
                     print(pipeline(txt, parse_md,
+                                   classes=['txt'],
                                    language=prefix), file=out)
                 else:
                     print(pipeline(txt, parse_md, classes=['txt']), file=out)
