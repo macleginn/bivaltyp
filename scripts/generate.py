@@ -2,6 +2,7 @@ import re
 import os
 import sys
 from xml.etree import ElementTree as ET
+from xml.dom import minidom
 from string import ascii_uppercase
 
 import pandas as pd
@@ -156,13 +157,39 @@ def cleanupGloss(word):
     return result
 
 
+def renderInfoTuple(tup):
+    result = ET.Element('table')
+
+    tr = ET.Element('tr')
+    X = ET.Element('td', attrib={'class': 'predicate-info-table'})
+    X.text = f'X: {tup.X}'
+    Y = ET.Element('td', attrib={'class': 'predicate-info-table'})
+    Y.text = f'Y: {tup.Y}'
+    tr.append(X)
+    tr.append(Y)
+    result.append(tr)
+
+    tr2 = ET.Element('tr')
+    locus = ET.Element('td', attrib={'class': 'predicate-info-table'})
+    locus.text = f'Locus: {tup.locus}'
+    valency_pattern = ET.Element(
+        'td', attrib={'class': 'predicate-info-table'})
+    valency_pattern.text = f'Valency pattern: {tup.valency_pattern}'
+    tr2.append(locus)
+    tr2.append(valency_pattern)
+    result.append(tr2)
+
+    return result
+
+
 def renderExampleTuple(tup):
     sent = tup.sentence
     glos = tup.glosses_en
     # A conservative way of rendering examples:
     # take what is the shortest array of words
     # and construct a table based on it.
-    result = ET.Element('table', attrib={'class': 'example', 'cellspacing': '0'})
+    result = ET.Element(
+        'table', attrib={'class': 'example', 'cellspacing': '0'})
     sent_arr = sent.split()
     glos_arr = glos.split()
     ncol = min(len(sent_arr), len(glos_arr))
@@ -204,23 +231,36 @@ def renderExamples(language):
         p = ET.Element('p', attrib={'class': 'examples-header'})
         predicate = ET.Element('span', attrib={'class': 'predicate-name'})
 
+        number = ET.Element('span')
+        number.text = f'{tup.predicate_no}. '
+
         predicate_name = PATTERNS.loc[tup.predicate_no].predicate_label_en
         predicate.text = cleanupPredicate(predicate_name).strip()
+
         blank = ET.Element('span')
         blank.text = ' ('
+
         predicate_translation = ET.Element(
             'span', attrib={'class': 'predicate-translation'})
         predicate_translation.text = tup.verb.strip()
+
         blank2 = ET.Element('span')
         blank2.text = '):'
+
+        p.append(number)
         p.append(predicate)
         p.append(blank)
         p.append(predicate_translation)
         p.append(blank2)
 
         result.append(p)
-        result.append(renderExampleTuple(tup))
-    return ET.tostring(result, method='html', encoding='unicode')
+        data_div = ET.Element('div', attrib={'class': 'predicate-info'})
+        data_div.append(renderInfoTuple(tup))
+        data_div.append(renderExampleTuple(tup))
+        result.append(data_div)
+    return minidom.parseString(
+        ET.tostring(result, method='html', encoding='unicode')
+    ).toprettyxml(indent='    ')
 
 
 def pipeline(txt, parse_md, classes=None, language=None):

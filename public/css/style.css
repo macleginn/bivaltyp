@@ -119,6 +119,18 @@ td {
     background-color: rgb(240,240,240);
 }
 
+.predicate-info {
+    padding-left: 15px;
+}
+
+table.example {
+    margin-top: 5px;
+}
+
+td.predicate-info-table {
+    background-color: rgb(245,245,245);
+}
+
 /* By-id styles */
 
 #title-div {
