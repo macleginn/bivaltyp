@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://eurphon.info/static/bivaltyp/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://eurphon.info/static/bivaltyp/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://eurphon.info/static/bivaltyp/js/data/languages.js"></script>
+        <script src="https://eurphon.info/static/bivaltyp/js/data/patterns.js"></script>
+        <script src="https://eurphon.info/static/bivaltyp/js/data/full.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://eurphon.info/static/bivaltyp/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://eurphon.info/static/bivaltyp" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://eurphon.info/static/bivaltyp/images/ili.png" alt="Институт лингвистических исследований РАН"></a>
+    </div>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/instruction/"><div class="menu-button">Instruction for authors</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/team/"><div class="menu-button">Team</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/languages/mapview/"><div class="menu-button">Map view</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/languages/listview/"><div class="menu-button">List view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>
+
+
+<div id="main">
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/feel_pain.html">feel pain</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/haveillness.html">have (illness)</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_afraid.html">be afraid</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/throw.html">throw</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/have_enough.html">have enough</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/resemble.html">resemble</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/believe.html">believe</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/take.html">take</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/see.html">see</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/influence.html">influence</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/encounter.html">encounter</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/enter.html">enter</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/win.html">win</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/go_out.html">go out</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/drive.html">drive</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/bend.html">bend</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/tell.html">tell</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/hold.html">hold</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/catch_up.html">catch up</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/milk.html">milk</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/reach.html">reach</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/touch.html">touch</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/fight.html">fight</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_friends.html">be friends</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/think.html">think</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/eat.html">eat</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/fry.html">fry</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/wait.html">wait</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/forget.html">forget</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/depend.html">depend</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/call.html">call</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/get_to_know.html">get to know</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/know.html">know</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/playinstrument.html">play (instrument)</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/avoid.html">avoid</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/make.html">make</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/make_fun.html">make fun</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/have.html">have</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/look_for.html">look for</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/paint.html">paint</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/bite.html">bite</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/forfeit.html">forfeit</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/try_to_catch.html">try to catch</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/break.html">break</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/flatter.html">flatter</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/love1.html">love1</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/wave.html">wave</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/dream.html">dream</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/wash.html">wash</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/put_on.html">put on</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_called.html">be called</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/punish.html">punish</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/attack.html">attack</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/fillintr.html">fill (intr)</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/find.html">find</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_short.html">be short</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/hate.html">hate</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/like.html">like</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/need.html">need</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/surround.html">surround</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/remain.html">remain</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/answer.html">answer</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/open.html">open</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_different.html">be different</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/fall_behind.html">fall behind</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/plough.html">plough</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/smell.html">smell</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/cross.html">cross</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/sing.html">sing</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/write.html">write</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/drink.html">drink</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/melt.html">melt</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/match.html">match</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/leave.html">leave</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/cover.html">cover</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/remember.html">remember</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/help.html">help</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/understand.html">understand</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/hittarget.html">hit (target)</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/cut_oneself.html">cut oneself</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/get_stuck.html">get stuck</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/losegame.html">lose (game)</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_glad.html">be glad</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/speak.html">speak</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/give_birth.html">give birth</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/drop.html">drop</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/govern.html">govern</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/miss.html">miss</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/follow.html">follow</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/dismount.html">dismount</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/listen.html">listen</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/obey.html">obey</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/hear.html">hear</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/mix.html">mix</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/look.html">look</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/take_off.html">take off</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/dreamsleeping.html">dream (sleeping)</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/agree.html">agree</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/have_a_quarrel.html">have a quarrel</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/cost.html">cost</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/shoot_at.html">shoot at</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/pour.html">pour</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/lose.html">lose</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/sink.html">sink</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/kill.html">kill</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/hit.html">hit</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/kiss.html">kiss</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/read.html">read</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/movebodypart.html">move (bodypart)</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/respect.html">respect</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_squeamish.html">be squeamish</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_content.html">be content</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/fall_in_love.html">fall in love</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/trust.html">trust</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/sympathise.html">sympathise</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/envy.html">envy</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_angry.html">be angry</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_surprised.html">be surprised</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/love2.html">love2</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/enjoy.html">enjoy</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/want.html">want</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/have_a_grudge.html">have a grudge</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/take_offence.html">take offence</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/upset.html">upset</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/marvel.html">marvel</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/despise.html">despise</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/get_upset.html">get upset</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/get_irritated.html">get irritated</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_fond.html">be fond</a>
+    </p>
+    <p>
+        <a class="data-link" href="https://eurphon.info/static/bivaltyp/predicates/pred/be_shy.html">be shy</a>
+    </p>
+</div>
+
+
+
+</body>
+</html>
+

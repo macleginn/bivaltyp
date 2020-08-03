@@ -121,6 +121,8 @@ td {
 
 .predicate-info {
     padding-left: 15px;
+    display: flex;
+    align-items: flex-start;
 }
 
 table.example {
@@ -129,6 +131,15 @@ table.example {
 
 td.predicate-info-table {
     background-color: rgb(245,245,245);
+}
+
+.example-info-div {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.b {
+    font-weight: bold;
 }
 
 /* By-id styles */

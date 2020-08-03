@@ -21,7 +21,9 @@
                 return 0;
         })
         for (const match of matches) {
-            result = result.replace(match, `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
+            result = result.replace(
+                match,
+                `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
         }
         return result;
     }

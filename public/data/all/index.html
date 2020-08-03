@@ -23,6 +23,7 @@
 
         <!-- Misc JavaScript -->
         <script src="https://eurphon.info/static/bivaltyp/js/misc.js"></script>
+
     </head>
 <body>
 <div id="title-div">
@@ -68,6 +69,7 @@
         <a href="https://eurphon.info/static/bivaltyp/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
+
 <div id="main"><h2>The data table</h2>
 <div id="table"></div>
 <script>
@@ -91,7 +93,9 @@
                 return 0;
         })
         for (const match of matches) {
-            result = result.replace(match, `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
+            result = result.replace(
+                match,
+                `<span style="font-variant: small-caps;">${match.toLowerCase()}</span>`);
         }
         return result;
     }
@@ -135,7 +139,10 @@
         });
     });
 </script>
+
 </div>
+
 
 </body>
 </html>
+

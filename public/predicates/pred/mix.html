@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://eurphon.info/static/bivaltyp/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://eurphon.info/static/bivaltyp/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://eurphon.info/static/bivaltyp/js/data/languages.js"></script>
+        <script src="https://eurphon.info/static/bivaltyp/js/data/patterns.js"></script>
+        <script src="https://eurphon.info/static/bivaltyp/js/data/full.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://eurphon.info/static/bivaltyp/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://eurphon.info/static/bivaltyp" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://eurphon.info/static/bivaltyp/images/ili.png" alt="Институт лингвистических исследований РАН"></a>
+    </div>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/instruction/"><div class="menu-button">Instruction for authors</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/team/"><div class="menu-button">Team</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/languages/mapview/"><div class="menu-button">Map view</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/languages/listview/"><div class="menu-button">List view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>
+
+<div id="main" class="txt">
+<div>
+    <h2>‘mix’</h2>
+    <div data-valpal="NOM_COM">
+        <p>
+            <a class="data-link" href="https://eurphon.info/static/bivaltyp/languages/descriptions/Andi_Zilo.html">Zilo Andi</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern</span>
+                            <span>: NOM_COM</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: COM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: Y</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">hunts’ːi</td>
+                        <td class="example-word">ʃiw̃=lojɡu</td>
+                        <td class="example-word">itɬu</td>
+                        <td class="example-word">a&lt;r&gt;ʒ.a-j.</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span>honey[</span>
+                            <span class="gloss">inan</span>
+                            <span>2][</span>
+                            <span class="gloss">nom</span>
+                            <span>]</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>milk=</span>
+                            <span class="gloss">com</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>all</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>mix&lt;</span>
+                            <span class="gloss">inan</span>
+                            <span>2&gt;.</span>
+                            <span class="gloss">pst</span>
+                            <span>-</span>
+                            <span class="gloss">pf</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘The honey has blended with the milk.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="SBJ_im">
+        <p>
+            <a class="data-link" href="https://eurphon.info/static/bivaltyp/languages/descriptions/Hebrew_Modern.html">Modern Hebrew</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern</span>
+                            <span>: SBJ_im</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: SBJ</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: im</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: Y</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">ha</td>
+                        <td class="example-word">dvaʃ</td>
+                        <td class="example-word">hitarbev</td>
+                        <td class="example-word">im</td>
+                        <td class="example-word">ha</td>
+                        <td class="example-word">χalav</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">def</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>honey</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>get.mixed[</span>
+                            <span class="gloss">pst</span>
+                            <span>.3</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">m</span>
+                            <span>]</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>with</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">def</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>milk</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="6">‘The honey got mixed with milk.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+</body>
+</html>
+
