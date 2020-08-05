@@ -25,7 +25,7 @@ Case marking displays the ergative-absolutive alignment. In the basic transitive
 
 1. *ali-di ɡurdo r-uχ.i*  
 PN-ERG shirt[INAN2][NOM] INAN2-take_off.PST(AOR)  
-“Ali bent the branch.”
+“Ali took off his shirt.”
 
 2. *ali-di intʃi k’amm.i*  
 PN-ERG apple[INAN1][NOM] eat.PST(AOR)  
