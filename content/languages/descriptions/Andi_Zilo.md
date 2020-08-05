@@ -10,7 +10,9 @@ The data were gathered in {{ data_collection_year }} in Zilo, Dagestan, Russia.
 > Rochant, Neige. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). {{ last_database_release_year }}. BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
-> St.Petersburg: Institute for Linguistic Studies, RAS. (Data first published on {{ initial_version }}; last revised on {{ version }}.) (Available online at {{  }}, Accessed on {{ today }})
+> St.Petersburg: Institute for Linguistic Studies, RAS. 
+>(Data first published on {{ initial_release_date }}; last revised on {{ version }}.) 
+>(Available online at {{ site_url }}, Accessed on {{ today }})
 
 ## Basic info
 - Coordinates. Latitude: {{ latitude }}; longitude: {{ longitude }}.
