@@ -384,7 +384,8 @@ def render_examples_for_language(language):
     for tup in data.itertuples():
         block = ET.Element('div', attrib={
             'data-valpal': tup.valency_pattern,
-            'data-locus': tup.locus
+            'data-locus': tup.locus,
+            'style': 'margin-bottom: 5px'
         })
         block.append(render_example_header(tup))
         block.append(render_example(tup))
