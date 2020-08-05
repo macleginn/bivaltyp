@@ -6,7 +6,7 @@ const fullData = [
     "X",
     "Y",
     "locus",
-    'valency_pattern',
+    "valency_pattern",
     "sentence",
     "glosses_en",
     "back_translation_en",
@@ -190,7 +190,7 @@ const fullData = [
     "Y",
     "NOM_SUPER.LAT",
     "ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo",
-    "PN[M][NOM] M-win.PST(AOR) chess-? Umargaji-SUPER.LAT",
+    "PN[M][NOM] M-win.PST(AOR) chess-? PN-SUPER.LAT",
     "‘Ali won over Umar at chess.’",
     "",
     ""
@@ -694,7 +694,7 @@ const fullData = [
     "TR",
     "TR",
     "pat’imati-di a<r>tʃ.o-j tʃinɡil",
-    "PN-ERG wash<INAN2>.PST-PF cup[INAN1][NOM]",
+    "PN-ERG wash<INAN2>.PST-PF cup[INAN2][NOM]",
     "‘Patimat washed the cup.’",
     "",
     ""
@@ -932,7 +932,7 @@ const fullData = [
     "TR",
     "TR",
     "ali-di b-eqχ’.i-r χur.",
-    "PN-ERG INAN1-PLough.PST-PROG field[INAN1][NOM]",
+    "PN-ERG INAN1-plough.PST-PROG field[INAN1][NOM]",
     "‘Ali is ploughing the field.’",
     "",
     ""
@@ -1576,7 +1576,7 @@ const fullData = [
     "Y",
     "NOM_SUPER",
     "ali razi enʃu-w=ɡu woʃu-ʔa.",
-    "PN[M][NOM] contented RFL.OBL.M-M(GEN)=emph boy.OBL-SUPER",
+    "PN[M][NOM] contented RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER",
     "‘Ali is pleased with his son.’",
     "",
     ""

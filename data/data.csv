@@ -11,7 +11,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 85	10	*	*	*	*		zaman b-uʔonn.i-r-qχi pamjat b-itʃ’.o-r	time INAN1-go.PST-PROG-INST memory INAN1-die.PST-PROG	‘With time passing, memory dies.’		
 85	11	badi <w>-ukː.u	AFF	NOM	X	AFF_NOM	ali-<w>o badi aliħadʒi w-ukː.u	PN-AFF<M> forth PN[M][NOM] M-fall.PST(AOR)	‘Ali met Aligaji’		
 85	12	kab.i	NOM	ILLAT	Y	NOM_ILLAT	ali harqχ’u-di kab.i	PN[M][NOM] room.OBL-ILLAT enter.PST(AOR)	‘Ali entered the room.’		
-85	13	<w>-uʃ.a	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo	PN[M][NOM] M-win.PST(AOR) chess-? Umargaji-SUPER.LAT	‘Ali won over Umar at chess.’		
+85	13	<w>-uʃ.a	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo	PN[M][NOM] M-win.PST(AOR) chess-? PN-SUPER.LAT	‘Ali won over Umar at chess.’		
 85	14	<w>-uʔ.on	NOM	IN.EL	Y	NOM_IN.EL	ali w-uʔ.on iʃu-kːu	PN[M][NOM] M-go.PST(AOR) home.IN-EL	‘Ali went out of the house.’		
 85	15	<b>-uqχ’.i-r	ERG	NOM	TR	TR	ali-di ziw̃ b-uqχ’.i-r alaχil-ʔo	PN-ERG cow[AN][NOM] AN-push.PST-PROG pasture-SUPER.LAT	‘Ali pushes the cow to the pasture.’		
 85	16	tʃ’ab-oɬ.i	ERG	NOM	TR	TR	pat’imati-di anɡa tʃ’ab-oɬ.i	PN-ERG branch[INAN1][NOM] bend_oneself-CAUS.PST(AOR)	‘Patimat bent the branch.’		
@@ -47,7 +47,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 85	46	dʒiʔ.i-r	AFF	NOM	X	AFF_NOM	pat’imati-<j>o dʒiʔ.i-r mariam.	PN-AFF<F> like.PST-PROG PN[F][NOM]	‘Patimat likes Mariam.’		
 85	47	xʷaʔi-la	NOM	INST	Y	NOM_INST	pat’imati k’azil-qχi xʷaʔi-la	PN[F][NOM] shawl.OBL-INST waving-IN	‘Patimat is waving with her shawl.’		
 85	48	aniʃːi	GEN	NOM	X	GEN_NOM	ali-b aniʃːi tsiw̃ maʃina	PN-INAN1(GEN) dream[INAN1][NOM] new car[INAN1][NOM]	‘Ali dreams of a new car.’		
-85	49	a<r>tʃ.o-j	ERG	NOM	TR	TR	pat’imati-di a<r>tʃ.o-j tʃinɡil	PN-ERG wash<INAN2>.PST-PF cup[INAN1][NOM]	‘Patimat washed the cup.’		
+85	49	a<r>tʃ.o-j	ERG	NOM	TR	TR	pat’imati-di a<r>tʃ.o-j tʃinɡil	PN-ERG wash<INAN2>.PST-PF cup[INAN2][NOM]	‘Patimat washed the cup.’		
 85	50	ritɬ’.inn-ij	ERG	NOM	TR	TR	ali-di ritɬ’.inn-ij ortʃoɡi	PN-ERG put_on.PST-PF trousers[INAN1][NOM]	‘Ali put on trousers.’		
 85	51	ts’er	SUPER.LAT	NOM	X	SUPER.LAT_NOM	he-b dan-ʔo ts’er qχ’ilba	DEM-INAN1 thing[INAN1]-SUPER.LAT name[INAN2][NOM] compass	‘This thing is called a compass.’		
 85	52	*	*	*	*		*	*	*		
@@ -64,7 +64,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 85	63	arχ.onn-ij	ERG	NOM	TR	TR	pat’imati-di arχ.onn-ij banka.	PN-ERG open.PST-PF tin[INAN1][NOM]	‘Patimat opened the tin.’		
 85	64	<b>-at’a	NOM	CONT	Y	NOM_CONT	di-r ɡurdo du-r-tʃ’u b-at’a.	I.OBL-INAN2(GEN) shirt[INAN2][NOM] thou.OBL-INAN2(GEN)-CONT INAN1-separate	‘My shirt is different from yours.’		
 85	65	<j>-eχːudu <j>-ekː.u-j	NOM	CONT	Y	NOM_CONT	pat’imati mariam-tʃ’u j-eχːudu j-ekː.u-j.	PN[F][NOM] PN-CONT F-after F-stay.PST-PF	‘Patimat fell behind Mariam.’		
-85	66	<b>-eqχ’.i-r	ERG	NOM	TR	TR	ali-di b-eqχ’.i-r χur.	PN-ERG INAN1-PLough.PST-PROG field[INAN1][NOM]	‘Ali is ploughing the field.’		
+85	66	<b>-eqχ’.i-r	ERG	NOM	TR	TR	ali-di b-eqχ’.i-r χur.	PN-ERG INAN1-plough.PST-PROG field[INAN1][NOM]	‘Ali is ploughing the field.’		
 85	67	ʃan (<b>-aχ-o)	CONT.EL	GEN	XY	CONT.EL_GEN	di-r-ul reʔoba-tʃ’u-kːu benzinu-tɬi zolo ʃan (b-aχ.o).	I.OBL-INAN2(GEN)-PL hand.PL.OBL-CONT-EL benzine.OBL-GEN very odour[INAN1][NOM] INAN1-end_up.PST(AOR)	‘My hands smell of benzine very strongly.’		
 85	68	buqχ’-i	ERG	NOM	TR	TR	ali-di miqχ’i buqχ’-i.	PN-ERG road[INAN1][NOM] cut.PST(AOR)	‘Ali crossed the road.’		
 85	69	qχ’or.i-j	ERG	NOM	TR	TR	pat’imati-di qχ’or.i-j baʁu ketʃ’i.	PN-ERG call.PST-PF beautiful song[INAN1][NOM]	‘Patimat sang a beautifl song.’		
@@ -110,7 +110,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 85	109	<b>-erʁ-oɬ.i-j	ERG	NOM	TR	TR	ali-di ts’ek’a b-erʁ-oɬ.i-j.	PN-ERG finger[INAN1][NOM] INAN1-move-CAUS.PST-PF	‘Ali moved his finger’		
 85	110	<j>-etʃ’uχa-jd.i-r	ERG	NOM	TR	TR	pat’imati-di j-etʃ’uχa-jd.i-r mariam.	PN-ERG F-big-FCT.PST-PROG PN[F][NOM]	‘Patimat respects Mariam.’		
 85	111	joʃ.u-mado-sːu	ERG	NOM	TR	TR	pat’imati hek’u qχ’ajʔa joʃ.u-mado-sːu.	PN[F][NOM] dirty dishes enjoy.PST-PROG-NEG	‘Patimat is disgusted by the dirty dishes.		
-85	112	razi	NOM	SUPER	Y	NOM_SUPER	ali razi enʃu-w=ɡu woʃu-ʔa.	PN[M][NOM] contented RFL.OBL.M-M(GEN)=emph boy.OBL-SUPER	‘Ali is pleased with his son.’		
+85	112	razi	NOM	SUPER	Y	NOM_SUPER	ali razi enʃu-w=ɡu woʃu-ʔa.	PN[M][NOM] contented RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER	‘Ali is pleased with his son.’		
 85	113	ruqχ’i <b>-ukː.u-j	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali ruqχ’i b-ukː.u-j mariam-ʔo.	PN[M][NOM] love[INAN1][NOM] INAN1-fall.PST-PF PN-SUPER.LAT	‘Ali fell in love with Mariam.’		
 85	114	buʒ.u-rado	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imati buʒ.u-rado mariam-ʔo.	PN[F][NOM] believe.PST-PROG PN-SUPER.LAT	‘Patimat trusts Mariam.’		
 85	115	rok’o uzad.i-r	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	pat’imati-tɬi rok’o uzad.i-r en-tɬi=ɡu baba-ʔo.	PN-GEN heart[INAN2][NOM] pity.PST-PROG RFL-GEN=EMPH mum-SUPER.LAT	‘Patimat feels sorry for her Mum.’		

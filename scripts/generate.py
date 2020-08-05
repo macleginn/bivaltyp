@@ -3,6 +3,7 @@ import os
 import json
 import sys
 
+from subprocess import run
 from xml.etree import ElementTree as ET
 from xml.dom import minidom
 from string import ascii_uppercase
@@ -335,7 +336,8 @@ def render_examples_for_language(language):
 
     all_select_div = ET.Element('div')
 
-    select_div = ET.Element('div', attrib={'style': "display: inline-block; width: 200px;"})
+    select_div = ET.Element(
+        'div', attrib={'style': "display: inline-block; width: 200px;"})
     select_header = ET.Element('span')
     select_header.text = 'Subset examples by valency pattern'
     select = ET.Element('select', attrib={'id': 'valpal-select'})
@@ -352,7 +354,8 @@ def render_examples_for_language(language):
     select_div.append(select)
     all_select_div.append(select_div)
 
-    select_div = ET.Element('div', attrib={'style': "display: inline-block; width: 200px;"})
+    select_div = ET.Element(
+        'div', attrib={'style': "display: inline-block; width: 200px;"})
     select_header = ET.Element('span')
     select_header.text = 'Subset examples by locus'
     select = ET.Element('select', attrib={'id': 'locus-select'})
@@ -428,11 +431,11 @@ def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
 
     if language is not None:
         main = prefix + main + \
-               ('\n' + '<h2>Data</h2>\n' +
+            ('\n' + '<h2>Data</h2>\n' +
                 render_examples_for_language(language)) + '\n</div>'
     elif predicate is not None:
         main = prefix + main + \
-               render_examples_for_predicate(predicate) + '\n</div>'
+            render_examples_for_predicate(predicate) + '\n</div>'
     else:
         main = prefix + main + '\n</div>'
 
