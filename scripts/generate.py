@@ -216,7 +216,7 @@ def get_predicate_meta_table(tup):
     valpal_span = ET.Element('span', attrib={'class': 'b'})
     valpal_span.text = 'Valency pattern:'
     valpal_span2 = ET.Element('span')
-    valpal_span2.text = tup.valency_pattern
+    valpal_span2.text = tup.valency_pattern if tup.valency_pattern.strip() else 'NA'
     valency_pattern.append(valpal_span)
     valency_pattern.append(valpal_span2)
     tr.append(valency_pattern)
