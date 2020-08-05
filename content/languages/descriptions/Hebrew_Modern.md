@@ -47,4 +47,4 @@ There is no morphological case on nouns.
 Verbs are shown in the inflectional form which is used in the translation of the stimulus sentence, e.g. ‘to eat’ is shown as *aχal* = [eat.PST.3SG.M].
 
 ## Glossing abbreviations
-1, 2, 3 — first, second, third perosn; CS — construct state; DEF — definite; DO — direct object; F — feminine; INF — infinitive; M — masculine; PL — plural; POSS — possessive; PRS — present; PST — past; PTCP — participle; SG — singular.
+1, 2, 3 — first, second, third person; CS — construct state; DEF — definite; DO — direct object; F — feminine; INF — infinitive; M — masculine; PL — plural; POSS — possessive; PRS — present; PST — past; PTCP — participle; SG — singular.

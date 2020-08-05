@@ -21,6 +21,7 @@ The data were gathered in {{ data_collection_year }} in Zilo, Dagestan, Russia.
 
 ## Grammar notes
 ### Basic clause structure and the transitive construction
+
 Case marking displays the ergative-absolutive alignment. In the basic transitive construction, the A-argument is in the ergative, and the P-argument, 
 in the (unmarked) nominative (which can also be referred to as absolutive). Nouns are classified into 4 genders, or noun classes. The gender of the nominative 
 argument can be indexed on the verb by a prefix or infix; other arguments are never indexed. Whether or not the nominative argument is indexed is the lexical 
@@ -30,7 +31,7 @@ clauses with and without gender indexing can be found in (1) and (2).
 ```
 (1) ali-di ɡurdo             r-uχ.i  
     PN-ERG shirt[INAN2][NOM] INAN2-take_off.PST(AOR)  
-    “Ali bent the branch.”
+    “Ali took off his shirt.”
 
 (2) ali-di intʃi             k’amm.i  
     PN-ERG apple[INAN1][NOM] eat.PST(AOR)  
