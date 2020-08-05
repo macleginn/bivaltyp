@@ -1,6 +1,6 @@
 # {{ language_external }}
 Contributed by [Neige Rochant](https://lacito.vjf.cnrs.fr/membres/rochant_en.htm), 
-[Academia.edu profile](https://paris3.academia.edu/NeigeRochant)
+[Academia.edu profile](https://paris3.academia.edu/NeigeRochant).
 
 ![N.R.'s photo]({{ site_url_j }}/images/rochant.jpeg "N.R.'s photo")
 
@@ -11,8 +11,8 @@ The data were gathered in {{ data_collection_year }} in Zilo, Dagestan, Russia.
 > In: Say, Sergey (ed.). {{ last_database_release_year }}. BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
 > St.Petersburg: Institute for Linguistic Studies, RAS. 
->(Data first published on {{ initial_release_date }}; last revised on {{ version }}.) 
->(Available online at {{ site_url }}, Accessed on {{ today }})
+> (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
+> (Available online at {{ site_url }}, Accessed on {{ today }})
 
 ## Basic info
 - Coordinates. Latitude: {{ latitude }}; longitude: {{ longitude }}.
@@ -39,7 +39,7 @@ There are 21 cases (including locative cases that express both localization and 
 ## Verb lemmas
 Verbs are cited in the inflectional form which is used in the translation of the stimulus 
 sentence, with morpheme boundaries shown. Gender indexes, if present, are shown in angle 
-brackets, e.g. ‘to take off’ is shown as *<r>-uχ.i* = [INAN2-take_off.PST(AOR)].
+brackets, e.g. ‘to take off’ is shown as *&lt;r&gt;-uχ.i* = [INAN2-take_off.PST(AOR)].
 
 ## Glossing abbreviations
 ABST — abstract; ADD — additive; AFF — affective; AN — animate; AOR — aorist; ATR — attributive; 

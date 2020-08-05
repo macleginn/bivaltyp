@@ -57,6 +57,7 @@ LANGUAGE_FIELDS = {
     'consultant',
     'language_external',
     'initial_release_date',
+    'last_release_date',
     'latitude',
     'longitude',
     'family_WALS',
@@ -416,7 +417,7 @@ def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
         language
     ).replace('{{ site_url_j }}', SITE_URL)
     if parse_md:
-        main = markdown2.markdown(md)
+        main = markdown2.markdown(md, extras=["fenced-code-blocks"])
     else:
         main = md
 

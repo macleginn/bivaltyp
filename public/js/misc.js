@@ -1,3 +1,6 @@
+const version = '0.1-alpha',
+    lastReleaseYear = 2020;
+
 function byId(id) {
     return document.getElementById(id);
 }
@@ -16,13 +19,18 @@ const months = ["January", "February", "March", "April", "May", "June", "July",
 document.addEventListener('DOMContentLoaded', () => {
     let d = new Date();
     try {
-        document
-        .getElementById('today')
-        .innerText = d.getDate() + ' ' +
-                     months[d.getMonth()] + ' ' +
-                     d.getFullYear();
+        byId('today')
+            .innerText = d.getDate() + ' ' +
+                         months[d.getMonth()] + ' ' +
+                         d.getFullYear();
     }
-    catch {
-        return;
-    }
-})
+    catch {}
+
+    try {
+        byId('last-release-year').innerText = String(lastReleaseYear);
+    } catch {}
+
+    try {
+        byId('version').innerText = version;
+    } catch {}
+});
