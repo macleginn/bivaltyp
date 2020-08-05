@@ -205,19 +205,20 @@ def cleanup_gloss(word):
     return result
 
 
-def render_info_tuple(tup):
+def get_predicate_meta_table(tup):
     result = ET.Element('table')
 
     tr = ET.Element('tr')
     valency_pattern = ET.Element(
         'td', attrib={'class': 'predicate-info-table'})
     valpal_span = ET.Element('span', attrib={'class': 'b'})
-    valpal_span.text = 'Valency pattern'
+    valpal_span.text = 'Valency pattern:'
     valpal_span2 = ET.Element('span')
-    valpal_span2.text = f': {tup.valency_pattern}'
+    valpal_span2.text = tup.valency_pattern
     valency_pattern.append(valpal_span)
     valency_pattern.append(valpal_span2)
     tr.append(valency_pattern)
+
     result.append(tr)
 
     tr = ET.Element('tr')
@@ -243,7 +244,7 @@ def render_info_tuple(tup):
     return div_el
 
 
-def render_example_tuple(tup):
+def get_predicate_example_table(tup):
     sent = tup.sentence
     glos = tup.glosses_en
     # A conservative way of rendering examples:
@@ -289,15 +290,17 @@ def render_example_tuple(tup):
 def xml2str(tree):
     return minidom.parseString(
         ET.tostring(tree, method='html', encoding='unicode')
-    ).toprettyxml(indent='    ')
+    ).toprettyxml(
+        indent='    '
+    ).replace('<?xml version="1.0" ?>', '')
 
 
 def render_example(tup):
     data_div = ET.Element('div', attrib={
         'class': 'predicate-info',
     })
-    data_div.append(render_info_tuple(tup))
-    data_div.append(render_example_tuple(tup))
+    data_div.append(get_predicate_meta_table(tup))
+    data_div.append(get_predicate_example_table(tup))
     return data_div
 
 
@@ -321,15 +324,21 @@ def render_example_header(tup):
     return p
 
 
-def render_examples(language):
+def render_examples_for_language(language):
     language_no = LANGUAGE_META.loc[language].language_no
     data = GOLDEN_DATA.loc[GOLDEN_DATA.language_no == language_no]
     result = ET.Element('div', attrib={'id': 'sentences'})
 
+    option_any = ET.Element('option', attrib={'value': 'any'})
+    option_any.text = 'Any'
+
+    all_select_div = ET.Element('div')
+
+    select_div = ET.Element('div', attrib={'style': "display: inline-block; width: 200px;"})
+    select_header = ET.Element('span')
+    select_header.text = 'Subset examples by valency pattern'
     select = ET.Element('select', attrib={'id': 'valpal-select'})
-    any = ET.Element('option', attrib={'value': 'any'})
-    any.text = 'Any'
-    select.append(any)
+    select.append(option_any)
     all_valpal = set()
     for tup in data.itertuples():
         all_valpal.add(tup.valency_pattern)
@@ -338,24 +347,43 @@ def render_examples(language):
         option = ET.Element('option', attrib={'value': vp})
         option.text = vp if vp else 'NA'
         select.append(option)
-    select_header = ET.Element('h4')
-    select_header.text = 'Subset examples by valency pattern'
-    result.append(select_header)
-    result.append(select)
+    select_div.append(select_header)
+    select_div.append(select)
+    all_select_div.append(select_div)
+
+    select_div = ET.Element('div', attrib={'style': "display: inline-block; width: 200px;"})
+    select_header = ET.Element('span')
+    select_header.text = 'Subset examples by locus'
+    select = ET.Element('select', attrib={'id': 'locus-select'})
+    select.append(option_any)
+    all_loci = set()
+    for tup in data.itertuples():
+        all_loci.add(tup.locus)
+    loci_arr = sorted(all_loci)
+    for l in loci_arr:
+        option = ET.Element('option', attrib={'value': l})
+        option.text = l if l else 'NA'
+        select.append(option)
+    select_div.append(select_header)
+    select_div.append(select)
+    all_select_div.append(select_div)
+
+    result.append(all_select_div)
+    result.append(ET.Element('p', attrib={'id': 'stats'}))
 
     for tup in data.itertuples():
         block = ET.Element('div', attrib={
-            'data-valpal': tup.valency_pattern
+            'data-valpal': tup.valency_pattern,
+            'data-locus': tup.locus
         })
         block.append(render_example_header(tup))
         block.append(render_example(tup))
         result.append(block)
-    return minidom.parseString(
-        ET.tostring(result, method='html', encoding='unicode')
-    ).toprettyxml(indent='    ')
+
+    return xml2str(result)
 
 
-def render_data_points(predicate_no_hash):
+def render_examples_for_predicate(predicate_no_hash):
     predicate = PRED_W_HASH[predicate_no_hash]
     predicate_no = PRED_DICT[predicate]
     data_points = GOLDEN_DATA.loc[GOLDEN_DATA.predicate_no == predicate_no]
@@ -383,12 +411,14 @@ def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
     2. Supply the globals using Jinja.
     3. Convert Markdown to HTML if needed.
     '''
-    md = render_template(txt, language)
+    md = render_template(
+        txt,
+        language
+    ).replace('{{ site_url_j }}', SITE_URL)
     if parse_md:
         main = markdown2.markdown(md)
     else:
         main = md
-    main = main.replace('{{ site_url_j }}', SITE_URL)
 
     if classes is None:
         prefix = '<div id="main">'
@@ -397,11 +427,11 @@ def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
 
     if language is not None:
         main = prefix + main + \
-               ('\n' + '<h2>Questionnaire</h2>\n' +
-                render_examples(language)) + '\n</div>'
+               ('\n' + '<h2>Data</h2>\n' +
+                render_examples_for_language(language)) + '\n</div>'
     elif predicate is not None:
         main = prefix + main + \
-                render_data_points(predicate) + '\n</div>'
+               render_examples_for_predicate(predicate) + '\n</div>'
     else:
         main = prefix + main + '\n</div>'
 
@@ -413,9 +443,7 @@ def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
     return BASE_TEMPLATE.format(
         includes=INCLUDES_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
         header=HEADER_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
-        main=main
-            .replace('{{ site_url_j }}', SITE_URL)
-            .replace('<?xml version="1.0" ?>', ''),
+        main=main.replace('{{ site_url_j }}', SITE_URL),
         script=js,
         footer=''
     )
@@ -439,9 +467,7 @@ def predicate_page():
     return BASE_TEMPLATE.format(
         includes=INCLUDES_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
         header=HEADER_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
-        main=template
-            .replace('{{ site_url_j }}', SITE_URL)
-            .replace('<?xml version="1.0" ?>', ''),
+        main=template.replace('{{ site_url_j }}', SITE_URL),
         script='',
         footer=''
     )
@@ -469,14 +495,13 @@ for root, _, files in os.walk('../content'):
                     print(pipeline(txt, parse_md), file=out)
                 elif 'descriptions' in path:
                     print(pipeline(txt, parse_md,
-                                   classes=['txt'],
                                    language=prefix), file=out)
                 elif 'predicates/pred' in path:
-                    print(pipeline(txt, parse_md, classes=['txt'],
+                    print(pipeline(txt, parse_md,
                                    predicate=prefix), file=out)
                 elif 'predicates/index.html' in path:
                     print(predicate_page(), file=out)
                 else:
-                    print(pipeline(txt, parse_md, classes=['txt']), file=out)
+                    print(pipeline(txt, parse_md), file=out)
     with open('last_modified.json', 'w') as out:
         json.dump(LAST_MODIFIED, out)

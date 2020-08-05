@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Noto Serif', serif;
+    font-size: 12pt;
     padding-top: 15px;
     padding-bottom: 50px;
     padding-left: 0;
@@ -22,6 +23,10 @@ h3 {
 h4 {
     margin: 0;
     margin-bottom: 7px;
+}
+
+p {
+    max-width: 800px;
 }
 
 a {
@@ -117,6 +122,11 @@ td {
 
 .example-gloss {
     background-color: rgb(240,240,240);
+    font-size: 0;
+}
+
+td.example-gloss span {
+    font-size: 12pt;
 }
 
 .predicate-info {
