@@ -308,16 +308,22 @@ def render_example(tup):
 
 def render_example_header(tup):
     p = ET.Element('p', attrib={'class': 'examples-header'})
+
     number = ET.Element('span')
     number.text = f'{tup.predicate_no}. '
+
     predicate_name_link = pred_link(tup)
-    blank = ET.Element('span')
-    blank.text = ' ('
+
+    blank = ET.Element('span', attrib={'style': 'margin-left: 3px;'})
+    blank.text = '('
+
     predicate_translation = ET.Element(
         'span', attrib={'class': 'predicate-translation'})
     predicate_translation.text = tup.verb.strip()
+
     blank2 = ET.Element('span')
     blank2.text = '):'
+
     p.append(number)
     p.append(predicate_name_link)
     p.append(blank)

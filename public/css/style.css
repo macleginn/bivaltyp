@@ -129,6 +129,18 @@ td.example-gloss span {
     font-size: 12pt;
 }
 
+.examples-header {
+    font-size: 0;
+}
+
+p.examples-header span {
+    font-size: 12pt;
+}
+
+p.examples-header a {
+    font-size: 12pt;
+}
+
 .predicate-info {
     padding-left: 15px;
     display: flex;
