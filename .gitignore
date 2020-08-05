@@ -2,3 +2,5 @@ scripts/__pycache__
 todo.md
 *.swp
 *#
+.idea/
+scripts/upload.sh
