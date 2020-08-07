@@ -10,7 +10,8 @@ const languageData = [
     "genus_WALS",
     "latitude",
     "longitude",
-    "number_nominal_cases"
+    "number_nominal_cases",
+    "language_external"
   ],
   [
     1,
@@ -23,7 +24,8 @@ const languageData = [
     "Slavic",
     59.0,
     50.0,
-    6.0
+    6.0,
+    "Russian"
   ],
   [
     2,
@@ -36,7 +38,8 @@ const languageData = [
     "Semitic",
     27.96,
     43.85,
-    ""
+    NaN,
+    "Standard Arabic"
   ],
   [
     3,
@@ -49,7 +52,8 @@ const languageData = [
     "TupiGuarani",
     -25.61,
     -57.09,
-    ""
+    NaN,
+    "Paraguayan Guarani"
   ],
   [
     4,
@@ -62,7 +66,8 @@ const languageData = [
     "Finnic",
     58.55,
     25.82,
-    ""
+    NaN,
+    "Estonian"
   ],
   [
     5,
@@ -75,7 +80,8 @@ const languageData = [
     "Lezgic",
     41.59,
     46.89,
-    ""
+    NaN,
+    "Tsakhur"
   ],
   [
     6,
@@ -88,7 +94,8 @@ const languageData = [
     "Turkic",
     51.7,
     94.37,
-    ""
+    NaN,
+    "Tuvinian"
   ],
   [
     7,
@@ -101,7 +108,8 @@ const languageData = [
     "Finnic",
     59.47,
     29.71,
-    ""
+    NaN,
+    "Ingrian Finnish"
   ],
   [
     8,
@@ -114,7 +122,8 @@ const languageData = [
     "Basque",
     43.28,
     -1.32,
-    ""
+    NaN,
+    "Basque"
   ],
   [
     9,
@@ -127,7 +136,8 @@ const languageData = [
     "Romance",
     48.0,
     2.0,
-    0.0
+    0.0,
+    "French"
   ],
   [
     10,
@@ -140,7 +150,8 @@ const languageData = [
     "Germanic",
     48.65,
     12.47,
-    4.0
+    4.0,
+    "German"
   ],
   [
     11,
@@ -153,7 +164,8 @@ const languageData = [
     "AvarAndicTsezic",
     42.4,
     46.1,
-    ""
+    NaN,
+    "Bagvalal"
   ],
   [
     12,
@@ -166,7 +178,8 @@ const languageData = [
     "Japanese",
     35.0,
     135.0,
-    ""
+    NaN,
+    "Japanese"
   ],
   [
     13,
@@ -179,7 +192,8 @@ const languageData = [
     "Baltic",
     55.14,
     23.96,
-    7.0
+    7.0,
+    "Lithuanian"
   ],
   [
     14,
@@ -192,7 +206,8 @@ const languageData = [
     "Mongolic",
     46.57,
     45.32,
-    ""
+    NaN,
+    "Kalmyk"
   ],
   [
     15,
@@ -205,7 +220,8 @@ const languageData = [
     "Khmer",
     12.05,
     105.02,
-    ""
+    NaN,
+    "Khmer"
   ],
   [
     16,
@@ -218,7 +234,8 @@ const languageData = [
     "Turkic",
     53.6,
     56.56,
-    ""
+    NaN,
+    "Bashkir"
   ],
   [
     17,
@@ -231,7 +248,8 @@ const languageData = [
     "Baltic",
     56.83,
     24.31,
-    5.0
+    5.0,
+    "Latvian"
   ],
   [
     18,
@@ -244,7 +262,8 @@ const languageData = [
     "EasternMande",
     7.35,
     -6.31,
-    ""
+    NaN,
+    "Guro"
   ],
   [
     19,
@@ -257,7 +276,8 @@ const languageData = [
     "WesternMande",
     8.2,
     -9.23,
-    ""
+    NaN,
+    "Loma"
   ],
   [
     20,
@@ -270,7 +290,8 @@ const languageData = [
     "Lezgic",
     41.52,
     47.9,
-    ""
+    NaN,
+    "Lezgian"
   ],
   [
     21,
@@ -283,7 +304,8 @@ const languageData = [
     "Greek",
     38.36,
     23.13,
-    4.0
+    4.0,
+    "Modern Greek"
   ],
   [
     22,
@@ -296,7 +318,8 @@ const languageData = [
     "Greek",
     39.82,
     21.91,
-    5.0
+    5.0,
+    "Ancient Greek"
   ],
   [
     23,
@@ -309,7 +332,8 @@ const languageData = [
     "Albanian",
     41.2,
     20.0,
-    4.0
+    4.0,
+    "Albanian"
   ],
   [
     24,
@@ -322,7 +346,8 @@ const languageData = [
     "Romance",
     40.44,
     -1.12,
-    0.0
+    0.0,
+    "Spanish"
   ],
   [
     25,
@@ -335,7 +360,8 @@ const languageData = [
     "Celtic",
     53.22,
     -7.62,
-    2.0
+    2.0,
+    "Irish"
   ],
   [
     26,
@@ -348,7 +374,8 @@ const languageData = [
     "Armenian",
     40.0,
     45.0,
-    5.0
+    5.0,
+    "Eastern Armenian"
   ],
   [
     27,
@@ -361,7 +388,8 @@ const languageData = [
     "Turkic",
     40.98,
     46.47,
-    7.0
+    7.0,
+    "Azerbaijani"
   ],
   [
     28,
@@ -374,7 +402,8 @@ const languageData = [
     "Indic",
     46.09,
     18.16,
-    8.0
+    8.0,
+    "Kalderash Romani"
   ],
   [
     29,
@@ -387,7 +416,8 @@ const languageData = [
     "Germanic",
     53.0,
     -1.0,
-    2.0
+    2.0,
+    "English"
   ],
   [
     30,
@@ -400,7 +430,8 @@ const languageData = [
     "Chinese",
     40.02,
     116.23,
-    ""
+    NaN,
+    "Mandarin Chinese"
   ],
   [
     31,
@@ -413,7 +444,8 @@ const languageData = [
     "Slavic",
     51.84,
     18.63,
-    7.0
+    7.0,
+    "Polish"
   ],
   [
     32,
@@ -426,7 +458,8 @@ const languageData = [
     "Germanic",
     52.0,
     5.0,
-    0.0
+    0.0,
+    "Dutch"
   ],
   [
     33,
@@ -439,7 +472,8 @@ const languageData = [
     "Romance",
     43.05,
     12.65,
-    0.0
+    0.0,
+    "Italian"
   ],
   [
     34,
@@ -452,7 +486,8 @@ const languageData = [
     "Finnic",
     64.05,
     54.95,
-    ""
+    NaN,
+    "Komi-Zyrian"
   ],
   [
     35,
@@ -465,7 +500,8 @@ const languageData = [
     "Iranian",
     42.98,
     44.61,
-    9.0
+    9.0,
+    "Ossetic"
   ],
   [
     36,
@@ -478,7 +514,8 @@ const languageData = [
     "Slavic",
     44.32,
     21.92,
-    6.0
+    6.0,
+    "Serbian"
   ],
   [
     37,
@@ -491,7 +528,8 @@ const languageData = [
     "NorthernChukotkoKamchatkan",
     68.64,
     170.04,
-    ""
+    NaN,
+    "Chukchi"
   ],
   [
     38,
@@ -504,7 +542,8 @@ const languageData = [
     "Germanic",
     61.11,
     8.89,
-    0.0
+    0.0,
+    "Norwegian Bokmål"
   ],
   [
     39,
@@ -517,7 +556,8 @@ const languageData = [
     "Romance",
     46.39,
     24.23,
-    2.0
+    2.0,
+    "Romanian"
   ],
   [
     40,
@@ -530,7 +570,8 @@ const languageData = [
     "Nakh",
     43.11,
     45.03,
-    ""
+    NaN,
+    "Ingush"
   ],
   [
     41,
@@ -543,7 +584,8 @@ const languageData = [
     "Slavic",
     49.8,
     29.95,
-    7.0
+    7.0,
+    "Ukrainian"
   ],
   [
     42,
@@ -556,7 +598,8 @@ const languageData = [
     "Finnic",
     59.66,
     54.8,
-    ""
+    NaN,
+    "Komi-Permyak"
   ],
   [
     43,
@@ -569,7 +612,8 @@ const languageData = [
     "Finnic",
     52.85,
     45.39,
-    ""
+    NaN,
+    "Erzya"
   ],
   [
     44,
@@ -582,7 +626,8 @@ const languageData = [
     "Kartvelian",
     41.85,
     43.79,
-    ""
+    NaN,
+    "Georgian"
   ],
   [
     45,
@@ -595,7 +640,8 @@ const languageData = [
     "Tungusic",
     48.43,
     134.8,
-    ""
+    NaN,
+    "Nanai"
   ],
   [
     46,
@@ -608,7 +654,8 @@ const languageData = [
     "Samoyedic",
     69.98,
     88.21,
-    ""
+    NaN,
+    "Forest Enets"
   ],
   [
     47,
@@ -621,7 +668,8 @@ const languageData = [
     "WesternMande",
     12.82,
     -15.65,
-    ""
+    NaN,
+    "Mandinka"
   ],
   [
     48,
@@ -634,7 +682,8 @@ const languageData = [
     "NorthenAtlantic",
     12.76,
     -15.74,
-    ""
+    NaN,
+    "Joola-Fonyi"
   ],
   [
     49,
@@ -647,7 +696,8 @@ const languageData = [
     "WesternMande",
     13.13,
     -11.72,
-    ""
+    NaN,
+    "Soninke"
   ],
   [
     50,
@@ -660,7 +710,8 @@ const languageData = [
     "Turkic",
     39.87,
     32.87,
-    ""
+    NaN,
+    "Turkish"
   ],
   [
     51,
@@ -673,7 +724,8 @@ const languageData = [
     "Turkic",
     61.7,
     133.98,
-    ""
+    NaN,
+    "Yakut"
   ],
   [
     52,
@@ -686,7 +738,8 @@ const languageData = [
     "Mongolic",
     50.85,
     105.56,
-    ""
+    NaN,
+    "Buriat"
   ],
   [
     53,
@@ -699,7 +752,8 @@ const languageData = [
     "Ugric",
     46.91,
     19.66,
-    ""
+    NaN,
+    "Hungarian"
   ],
   [
     54,
@@ -712,7 +766,8 @@ const languageData = [
     "Finnic",
     54.19,
     42.67,
-    ""
+    NaN,
+    "Moksha"
   ],
   [
     55,
@@ -725,7 +780,8 @@ const languageData = [
     "Tungusic",
     61.97,
     94.69,
-    ""
+    NaN,
+    "Evenki"
   ],
   [
     56,
@@ -738,7 +794,8 @@ const languageData = [
     "Tungusic",
     46.63,
     135.68,
-    ""
+    NaN,
+    "Udihe"
   ],
   [
     57,
@@ -751,7 +808,8 @@ const languageData = [
     "Indic",
     24.0,
     90.0,
-    4.0
+    4.0,
+    "Bengali"
   ],
   [
     58,
@@ -764,7 +822,8 @@ const languageData = [
     "Romance",
     44.14,
     6.83,
-    0.0
+    0.0,
+    "Gascon"
   ],
   [
     59,
@@ -777,7 +836,8 @@ const languageData = [
     "Finnic",
     56.22,
     46.57,
-    10.0
+    10.0,
+    "Western Mari"
   ],
   [
     60,
@@ -790,7 +850,8 @@ const languageData = [
     "NorthwestCaucasian",
     44.25,
     42.0,
-    0.0
+    0.0,
+    "Abaza"
   ],
   [
     61,
@@ -803,7 +864,8 @@ const languageData = [
     "Slavic",
     46.25,
     14.78,
-    6.0
+    6.0,
+    "Slovenian"
   ],
   [
     62,
@@ -816,7 +878,8 @@ const languageData = [
     "[Romance]",
     41.9,
     12.45,
-    6.0
+    6.0,
+    "Latin"
   ],
   [
     63,
@@ -829,7 +892,8 @@ const languageData = [
     "Slavic",
     49.87,
     15.1,
-    7.0
+    7.0,
+    "Czech"
   ],
   [
     64,
@@ -842,7 +906,8 @@ const languageData = [
     "Germanic",
     63.48,
     -19.02,
-    4.0
+    4.0,
+    "Icelandic"
   ],
   [
     65,
@@ -855,7 +920,8 @@ const languageData = [
     "Slavic",
     53.23,
     25.6,
-    6.0
+    6.0,
+    "Belarusian"
   ],
   [
     66,
@@ -868,7 +934,8 @@ const languageData = [
     "Finnic",
     64.76,
     25.56,
-    15.0
+    15.0,
+    "Finnish"
   ],
   [
     67,
@@ -881,7 +948,8 @@ const languageData = [
     "Slavic",
     41.6,
     21.79,
-    0.0
+    0.0,
+    "Macedonian"
   ],
   [
     68,
@@ -894,7 +962,8 @@ const languageData = [
     "Lezgic",
     41.62,
     47.32,
-    18.0
+    18.0,
+    "Rutul"
   ],
   [
     69,
@@ -907,7 +976,8 @@ const languageData = [
     "NorthwestCaucasian",
     44.0,
     39.33,
-    4.0
+    4.0,
+    "Adyghe"
   ],
   [
     70,
@@ -920,7 +990,8 @@ const languageData = [
     "EasternMande",
     7.58,
     -7.56,
-    0.0
+    0.0,
+    "Goo"
   ],
   [
     71,
@@ -933,7 +1004,8 @@ const languageData = [
     "Turkic",
     55.49,
     47.16,
-    8.0
+    8.0,
+    "Chuvash"
   ],
   [
     72,
@@ -946,7 +1018,8 @@ const languageData = [
     "Finnic",
     56.13,
     52.64,
-    15.0
+    15.0,
+    "Udmurt"
   ],
   [
     73,
@@ -959,7 +1032,8 @@ const languageData = [
     "Slavic",
     45.55,
     15.98,
-    6.0
+    6.0,
+    "Croatian"
   ],
   [
     74,
@@ -972,7 +1046,8 @@ const languageData = [
     "Slavic",
     43.36,
     25.05,
-    0.0
+    0.0,
+    "Bulgarian"
   ],
   [
     75,
@@ -985,7 +1060,8 @@ const languageData = [
     "Lezgic",
     40.9,
     47.72,
-    10.0
+    10.0,
+    "Udi"
   ],
   [
     76,
@@ -998,7 +1074,8 @@ const languageData = [
     "Semitic",
     36.75,
     43.0,
-    0.0
+    0.0,
+    "Assyrian Neo-Aramaic"
   ],
   [
     77,
@@ -1011,7 +1088,8 @@ const languageData = [
     "Turkic",
     41.87,
     65.77,
-    6.0
+    6.0,
+    "Kazakh"
   ],
   [
     78,
@@ -1024,7 +1102,8 @@ const languageData = [
     "Nakh",
     43.5,
     45.5,
-    10.0
+    10.0,
+    "Chechen"
   ],
   [
     79,
@@ -1037,20 +1116,22 @@ const languageData = [
     "LakDargwa",
     41.98,
     47.57,
-    26.0
+    26.0,
+    "Icari Dargwa"
   ],
   [
     80,
     "колтта-саамский",
     "Saami_Skolt",
-    "Алена Алексеевна Блинова, Ксения Андреевна Шагал, Tim Feist",
-    "Alena Blinova, Ksenia Shagal, Tim Feist",
+    "Алена Алексеевна Блинова, Ксения Андреевна Шагал, Тимоти Фейст",
+    "Alena Blinova, Ksenia Shagal, Timothy Feist",
     "Eurasia",
     "Uralic",
     "Saami",
     68.83,
     29.72,
-    9.0
+    9.0,
+    "Skolt Saami"
   ],
   [
     81,
@@ -1063,33 +1144,36 @@ const languageData = [
     "Lezgic",
     41.92,
     47.58,
-    26.0
+    26.0,
+    "Aghul"
   ],
   [
     82,
     "южносаамский",
     "Saami_Southern",
-    "Рихард Ковалик, Ксения Шагал",
+    "Рикард Ковалик, Ксения Андреевна Шагал",
     "Richard Kowalik, Ksenia Shagal",
     "Eurasia",
     "Uralic",
     "Saami",
     62.88,
     13.7,
-    8.0
+    8.0,
+    "Southern Saami"
   ],
   [
     83,
     "иврит",
     "Hebrew_Modern",
-    "Дмитрий Сергеевич Николаев, Халели Харел",
-    "Dmitry Nikolaev, Haleli Harel",
+    "Дмитрий Сергеевич Николаев",
+    "Dmitry Nikolaev",
     "Africa",
     "Afroasiatic",
     "Semitic",
     31.11,
     35.02,
-    0.0
+    0.0,
+    "Modern Hebrew"
   ],
   [
     84,
@@ -1102,7 +1186,8 @@ const languageData = [
     "Germanic",
     59.8,
     17.39,
-    0.0
+    0.0,
+    "Swedish"
   ],
   [
     85,
@@ -1115,6 +1200,7 @@ const languageData = [
     "AvarAndicTsezic",
     42.81,
     46.29,
-    12.0
+    21.0,
+    "Zilo Andi"
   ]
-];
+]

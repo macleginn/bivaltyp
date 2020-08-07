@@ -164,6 +164,23 @@ td.predicate-info-table {
     font-weight: bold;
 }
 
+div.circle {
+    border-width: 1px;
+    border-color: grey;
+    border-radius: 8px;
+    border-style: solid;
+    width: 8px;
+    height: 8px;
+}
+
+div.circle-active {
+    background-color: #00b33c;
+}
+
+div.circle-inactive {
+    background-color: lightgrey;
+}
+
 /* By-id styles */
 
 #title-div {
@@ -195,3 +212,8 @@ td.predicate-info-table {
     font-size: smaller;
 }
 
+div#map {
+    width: 100%;
+    height: 600px;
+    z-index: 1;
+}

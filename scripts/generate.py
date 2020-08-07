@@ -10,7 +10,6 @@ from string import ascii_uppercase
 
 import pandas as pd
 import markdown2
-# from jinja2 import Template, Environment
 
 with open('../templates/base/base.html', 'r', encoding='utf-8') as inp:
     BASE_TEMPLATE = inp.read()
@@ -21,6 +20,7 @@ with open('../templates/partials/includes.html', 'r', encoding='utf-8') as inp:
 
 SITE_URL = 'https://eurphon.info/static/bivaltyp'
 # SITE_URL = 'file:///Users/macbook/Documents/Yandex.Disk/WorkInProgress/BivalTyp/webapp/public'
+# SITE_URL = 'file:///C:/Users/dniko/PycharmProjects/bivaltyp/public'
 
 # For not re-rendering unchanged pages.
 if len(sys.argv) > 1 and sys.argv[1] == '-r':
@@ -108,7 +108,6 @@ def lang_link(lang_name):
 
 
 def pred_link(tup):
-    # predicate = ET.Element('span', attrib={'class': 'predicate-name'})
     predicate_name = PATTERNS.loc[tup.predicate_no].predicate_label_en
     a = ET.Element('a', attrib={
         'class': 'data-link',
@@ -121,11 +120,11 @@ def pred_link(tup):
 
 
 def render_template(txt, language):
-    '''
+    """
     This function processes the project-specific
     template elements replacing them with hyperlinks
     and appropriate values.
-    '''
+    """
     hyperlink_pattern = re.compile(r'(\[(.+?)\])?\{\{(.+?)\}\}')
     replacement_dict = {}
     for hl in hyperlink_pattern.finditer(txt):
@@ -173,8 +172,7 @@ def cleanup_predicate(pred):
 def cleanup_gloss(word):
     names_pat = re.compile(r'Pinchas|Menachem|Miriam')
     word = names_pat.sub('PN', word)
-    # Only glosses are supposed to be in the upper case
-    # at this stage.
+    # Only glosses are supposed to be in the upper case at this stage.
     result = []
     tmp = []
     in_gloss = False
@@ -332,7 +330,7 @@ def render_example_header(tup):
     return p
 
 
-def render_examples_for_language(language):
+def render_examples_for_language(language: str) -> str:
     language_no = LANGUAGE_META.loc[language].language_no
     data = GOLDEN_DATA.loc[GOLDEN_DATA.language_no == language_no]
     result = ET.Element('div', attrib={'id': 'sentences'})
@@ -349,8 +347,8 @@ def render_examples_for_language(language):
     select = ET.Element('select', attrib={'id': 'valpal-select'})
     select.append(option_any)
     all_valpal = set()
-    for tup in data.itertuples():
-        all_valpal.add(tup.valency_pattern)
+    for t in data.itertuples():
+        all_valpal.add(t.valency_pattern)
     valpal_arr = sorted(all_valpal)
     for vp in valpal_arr:
         option = ET.Element('option', attrib={'value': vp})
@@ -367,8 +365,8 @@ def render_examples_for_language(language):
     select = ET.Element('select', attrib={'id': 'locus-select'})
     select.append(option_any)
     all_loci = set()
-    for tup in data.itertuples():
-        all_loci.add(tup.locus)
+    for t in data.itertuples():
+        all_loci.add(t.locus)
     loci_arr = sorted(all_loci)
     for l in loci_arr:
         option = ET.Element('option', attrib={'value': l})
@@ -381,14 +379,14 @@ def render_examples_for_language(language):
     result.append(all_select_div)
     result.append(ET.Element('p', attrib={'id': 'stats'}))
 
-    for tup in data.itertuples():
+    for t in data.itertuples():
         block = ET.Element('div', attrib={
-            'data-valpal': tup.valency_pattern,
-            'data-locus': tup.locus,
+            'data-valpal': t.valency_pattern,
+            'data-locus': t.locus,
             'style': 'margin-bottom: 5px'
         })
-        block.append(render_example_header(tup))
-        block.append(render_example(tup))
+        block.append(render_example_header(t))
+        block.append(render_example(t))
         result.append(block)
 
     return xml2str(result)
@@ -403,25 +401,25 @@ def render_examples_for_predicate(predicate_no_hash):
     h2 = ET.Element('h2')
     h2.text = f'‘{cleanup_predicate(predicate).strip()}’'
     result.append(h2)
-    for tup in data_points.itertuples():
+    for t in data_points.itertuples():
         block = ET.Element('div', attrib={
-            'data-valpal': tup.valency_pattern
+            'data-valpal': t.valency_pattern
         })
-        language = LANG_DICT[tup.language_no]
+        language = LANG_DICT[t.language_no]
         p = ET.Element('p')
         p.append(lang_link(language))
         block.append(p)
-        block.append(render_example(tup))
+        block.append(render_example(t))
         result.append(block)
     return xml2str(result)
 
 
 def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
-    '''
+    """
     1. Render the project-specific template.
     2. Supply the globals using Jinja.
     3. Convert Markdown to HTML if needed.
-    '''
+    """
     md = render_template(
         txt,
         language
@@ -462,15 +460,15 @@ def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
 
 def predicate_page():
     result = ET.Element('div', attrib={'id': 'main'})
-    for tup in PATTERNS.itertuples():
+    for t in PATTERNS.itertuples():
         p = ET.Element('p')
         a = ET.Element('a', attrib={
             'class': 'data-link',
             'href': '{{ site_url_j }}/predicates/pred/' +
-                    tup.predicate_label_en.replace('#', '') +
+                    t.predicate_label_en.replace('#', '') +
                     '.html'
         })
-        a.text = cleanup_predicate(tup.predicate_label_en).strip()
+        a.text = cleanup_predicate(t.predicate_label_en).strip()
         p.append(a)
         result.append(p)
     template = xml2str(result)
@@ -507,10 +505,10 @@ for root, _, files in os.walk('../content'):
                 elif 'descriptions' in path:
                     print(pipeline(txt, parse_md,
                                    language=prefix), file=out)
-                elif 'predicates/pred' in path:
+                elif os.path.join('predicates', 'pred') in path:
                     print(pipeline(txt, parse_md,
                                    predicate=prefix), file=out)
-                elif 'predicates/index.html' in path:
+                elif os.path.join('predicates', 'index.html') in path:
                     print(predicate_page(), file=out)
                 else:
                     print(pipeline(txt, parse_md), file=out)

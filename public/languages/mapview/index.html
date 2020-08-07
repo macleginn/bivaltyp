@@ -70,7 +70,71 @@
     </div>
 </div>
 
-<div id="main">
+<div id="main"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+<p>Click on a green circle to open the description in a new window. Summary data for grey circles can be found in the ‘Patterns overview’ section</p>
+<div id="map"></div>
+<script>
+    // const siteURL = 'file:///C:/Users/dniko/PycharmProjects/bivaltyp/public';
+    const siteURL = 'https://eurphon.info/static/bivaltyp';
+    document.addEventListener('DOMContentLoaded', () => {
+        let mymap = L.map('map', { zoomControl: false });
+        mymap.setView([52.483333, 96.085833], 2);
+        L.control.zoom({ position: 'bottomleft' }).addTo(mymap);
+        L.tileLayer(
+            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            {
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+                maxZoom: 18,
+            })
+            .addTo(mymap);
+
+        // Extract all languages.
+        let allLanguages = new Set(),
+            external2internal = {},
+            coords = {};
+        for (const row of languageData.slice(1)) {
+            const externalName = row[11],
+                internalName = row[2];
+            allLanguages.add(externalName);
+            external2internal[externalName] = internalName;
+            coords[externalName] = {
+                lat: row[8],
+                lon: row[9]
+            };
+        }
+
+        // Extract active languages.
+        let activeLanguages = new Set();
+        for (const row of fullData.slice(1)) {
+            activeLanguages.add(row[0]);
+        }
+
+        for (const lang in coords) {
+            if (!coords.hasOwnProperty(lang))
+                continue;
+            const id = external2internal[lang],
+                lat = coords[lang].lat,
+                lon = coords[lang].lon;
+            let circle = L.divIcon({
+                className: activeLanguages.has(lang) ?
+                    'circle circle-active' :
+                    'circle circle-inactive',
+                iconSize: [10, 10]
+            });
+            let marker = L.marker([lat, lon], {
+                icon: circle,
+                title: lang
+            });
+            if (activeLanguages.has(lang))
+                marker.on('click', () => {
+                    window.open(`${siteURL}/languages/descriptions/${id}.html`)
+                });
+            marker.addTo(mymap);
+        }
+    });
+</script>
 </div>
 
 
