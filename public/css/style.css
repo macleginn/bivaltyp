@@ -3,10 +3,7 @@
 body {
     font-family: 'Noto Serif', serif;
     font-size: 12pt;
-    padding-top: 15px;
-    padding-bottom: 50px;
-    padding-left: 0;
-    padding-right: 30px;
+    padding: 15px 30px 50px 0;
     background-color: beige;
     margin: 0;
 }
