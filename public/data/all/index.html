@@ -40,7 +40,7 @@
         <div class="submenu" id="project-submenu">
             <a href="https://eurphon.info/static/bivaltyp/project/description/"><div class="menu-button">Project description</div></a>
             <a href="https://eurphon.info/static/bivaltyp/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
-            <a href="https://eurphon.info/static/bivaltyp/project/instruction/"><div class="menu-button">Instruction for authors</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/instruction/"><div class="menu-button">Instruction for contributors</div></a>
             <a href="https://eurphon.info/static/bivaltyp/project/team/"><div class="menu-button">Team</div></a>
             <a href="https://eurphon.info/static/bivaltyp/project/publications/"><div class="menu-button">Publications</div></a>
         </div>
@@ -71,6 +71,11 @@
 </div>
 
 <div id="main"><h2>The data table</h2>
+<div id="options" style="display: grid; width: 450px;">
+    <div class="options-row">
+        <span><label for="russian_meta">Show Russian meta columns: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();">
+    </div>
+</div><br/>
 <div id="table"></div>
 <script>
     function addSmallCaps(str) {
@@ -100,33 +105,57 @@
         return result;
     }
 
-    let DataFrame = dfjs.DataFrame;
+    let DataFrame = dfjs.DataFrame,
+        // Add a dummy destroy method for the first redraw.
+        table = {
+            destroy: () => {}
+        },
+        showRussianMeta = false;
 
-    document.addEventListener('DOMContentLoaded', () => {
-        let container = byId('table'),
-            columnNames = fullData[0],
-            dataFrame = new DataFrame(
-                fullData.slice(1),
-                columnNames
-            );
-        dataFrame = dataFrame.map(row => row.set(
-            'glosses_en',
-            addSmallCaps(row.get('glosses_en'))
-            )
-        );
+    // For column subsetting.
+    let columnNames = fullData[0];
+    fullDf = new DataFrame(
+        fullData.slice(1),
+        columnNames
+    );
+
+    function redraw() {
+        showRussianMeta = byId('russian_meta').checked;
+
+        // Show/hide Russian meta.
+        let cols = [];
+        for (const col of fullDf.listColumns()) {
+            if (col === 'glosses_ru' ||
+                col === 'back_translation_ru') {
+                if (byId('russian_meta').checked)
+                    cols.push(col);
+            } else {
+                cols.push(col);
+            }
+        }
+
+        // Process glosses.
+        let currentDf = fullDf.select(...cols);
+        currentDf = currentDf.map(row => row.set('glosses_en', addSmallCaps(row.get('glosses_en'))));
+        if (byId('russian_meta').checked)
+            currentDf = currentDf.map(row => row.set('glosses_ru', addSmallCaps(row.get('glosses_ru'))));
+
+        // Cells with glosses need the HTML renderer for small caps.
         let columns = [];
-        for (const colname of columnNames) {
-            if (colname === 'glosses_en')
+        for (const colname of cols) {
+            if (colname === 'glosses_en' || colname === 'glosses_ru')
                 columns.push({renderer: 'html'});
             else
                 columns.push({renderer: 'text'});
         }
-        console.table(columns);
-        console.log(dataFrame.listColumns());
-        let table = new Handsontable(container, {
+
+        let container = byId('table');
+
+        table.destroy();
+        table = new Handsontable(container, {
             licenseKey: 'non-commercial-and-evaluation',
-            data: dataFrame.toArray(),
-            colHeaders: dataFrame.listColumns(),
+            data: currentDf.toArray(),
+            colHeaders: currentDf.listColumns(),
             editor: false,
             rowHeaders: false,
             filters: true,
@@ -137,7 +166,8 @@
             ],
             columns: columns
         });
-    });
+    }
+    document.addEventListener('DOMContentLoaded', redraw);
 </script>
 
 </div>

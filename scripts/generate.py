@@ -41,7 +41,8 @@ URL_DICT = {
     'patterns': '{{ site_url_j }}/data/patterns/',
     'all_data': '{{ site_url_j }}/data/all/',
     'download': '{{ site_url_j }}/download/',
-    'how to read the data': '{{ site_url_j }}/howtoreadthedata/'
+    'how to read the data': '{{ site_url_j }}/howtoreadthedata/',
+    'instructions_for_contributors': '{{ site_url_j }}/project/instructions'
 }
 
 DATA_DICT = {
