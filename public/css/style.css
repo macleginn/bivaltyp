@@ -129,6 +129,10 @@ td.example-gloss span {
     font-size: 12pt;
 }
 
+td.stimulus-sentence, td.predicate-prop {
+    padding: 0;
+}
+
 .examples-header {
     font-size: 0;
 }
@@ -179,6 +183,43 @@ div.circle-active {
 
 div.circle-inactive {
     background-color: lightgrey;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.it {
+    font-style: italic;
+}
+
+.sc {
+    font-variant: small-caps;
+}
+
+.stimulus-sentence {
+    font-size: 0;
+}
+
+.stimulus-sentence span {
+    font-size: 12pt;
+}
+
+.bg {
+    background-color: #fafaff;
+}
+
+.predicate-prop {
+    display: inline-block;
+    width: 200px;
+}
+
+.ru {
+    display: none;
 }
 
 /* By-id styles */

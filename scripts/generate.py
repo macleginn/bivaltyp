@@ -81,6 +81,11 @@ LANG_EXTERNAL = {
     tup.language: tup.language_external for tup in LANGUAGE_META.itertuples()
 }
 
+# Load the predicates. Some of the data is duplicated in patterns.csv.
+# This should not be a problem.
+PREDICATES = pd.read_csv('../data/predicates.csv', sep='\t')
+PREDICATES.index = PREDICATES.predicate_no
+
 # Load the golden-data.
 GOLDEN_DATA = pd.read_csv('../data/data.csv', sep='\t')
 GOLDEN_DATA.fillna('', inplace=True)
@@ -97,6 +102,21 @@ PRED_W_HASH = {
     tup.predicate_label_en.replace('#', ''): tup.predicate_label_en
     for tup in PATTERNS.itertuples()
 }
+
+
+def dom(element_name: str, text: str = None, classes: str = None) -> ET.Element:
+    if text is None and classes is None:
+        return ET.Element(element_name)
+    elif text is None:
+        return ET.Element(element_name, attrib={'class': classes})
+    elif classes is None:
+        result = ET.Element(element_name)
+        result.text = text
+        return result
+    else:
+        result = ET.Element(element_name, attrib={'class': classes})
+        result.text = text
+        return result
 
 
 def lang_link(lang_name):
@@ -296,29 +316,29 @@ def xml2str(tree):
     ).replace('<?xml version="1.0" ?>', '')
 
 
-def render_example(tup):
+def render_example(t):
     data_div = ET.Element('div', attrib={
         'class': 'predicate-info',
     })
-    data_div.append(get_predicate_meta_table(tup))
-    data_div.append(get_predicate_example_table(tup))
+    data_div.append(get_predicate_meta_table(t))
+    data_div.append(get_predicate_example_table(t))
     return data_div
 
 
-def render_example_header(tup):
+def render_example_header(t):
     p = ET.Element('p', attrib={'class': 'examples-header'})
 
     number = ET.Element('span')
-    number.text = f'{tup.predicate_no}. '
+    number.text = f'{t.predicate_no}. '
 
-    predicate_name_link = pred_link(tup)
+    predicate_name_link = pred_link(t)
 
     blank = ET.Element('span', attrib={'style': 'margin-left: 3px;'})
     blank.text = '('
 
     predicate_translation = ET.Element(
         'span', attrib={'class': 'predicate-translation'})
-    predicate_translation.text = tup.verb.strip()
+    predicate_translation.text = t.verb.strip()
 
     blank2 = ET.Element('span')
     blank2.text = '):'
@@ -459,26 +479,147 @@ def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
     )
 
 
+def render_stimulus_sentence(sent: str, ru: str = '') -> ET.Element:
+    d = dom('table', classes='' + ru)
+    tr = dom('tr')
+    if ru:
+        tr.append(dom('td', text='Stimulus sentence Ru: ', classes='sc predicate-prop'))
+    else:
+        tr.append(dom('td', text='Stimulus sentence: ', classes='sc predicate-prop'))
+    
+    
+    # Split the sentence into the parts between and around X and Y and X and Y themselves.
+    xy_pattern = re.compile(r'\[(.+?)\]_(x|y)')
+    m_iter = xy_pattern.finditer(sent)
+
+    # First find the X and Y spans.
+    match_spans = [m.span() for m in m_iter]
+    if not match_spans:
+        return dom('p', text=sent)
+
+    # Add the spans between and around X and Y.
+    spans = []
+    # i runs over the span indices for X and Y;
+    # j runs over the characters in the sentence.
+    i = j = 0
+    start_tmp = 0
+    while j <= len(sent):
+        if i < len(match_spans) and match_spans[i][1] == j:
+            spans.append(match_spans[i])
+            start_tmp = j
+            i += 1
+        elif i < len(match_spans) and j == match_spans[i][0]:
+            spans.append([start_tmp, j])
+        j += 1
+    spans.append([start_tmp, j])
+
+    td = dom('td', classes='stimulus-sentence')
+    # Style and add spans.
+    for lo, hi in spans:
+        if lo == hi:
+            continue
+        if sent[hi-2:hi] == '_x':
+            span = dom('span', classes='red bg', text=sent[lo+1:hi-3]+' ')
+        elif sent[hi-2:hi] == '_y':
+            if hi == len(sent) or sent[hi] in {'.', '»'}:
+                span = dom('span', classes='blue bg', text=sent[lo+1:hi-3])
+            else:
+                span = dom('span', classes='blue bg', text=sent[lo+1:hi-3]+' ')
+        else:
+            span = dom('span', text=sent[lo:hi], classes='bg')
+        td.append(span)
+    tr.append(td)
+    d.append(tr)
+    return d
+
+
+def render_argument_frame(text: str, ru: str = '') -> ET.Element:
+    d = dom('table', classes='' + ru)
+    tr = dom('tr')
+    if ru:
+        tr.append(dom('td', text='Argument frame Ru: ', classes='sc predicate-prop'))
+    else:
+        tr.append(dom('td', text='Argument frame: ', classes='sc predicate-prop'))
+
+    td = dom('td', classes='stimulus-sentence')
+    X_idx = text.find('X')
+    Y_idx = text.find('Y')
+    td.append(dom('span', text=text[:X_idx], classes='bg'))
+    td.append(dom('span', text='X', classes='red bg'))
+    td.append(dom('span', text=text[X_idx+1:Y_idx], classes='bg'))
+    td.append(dom('span', text='Y', classes='blue bg'))
+    td.append(dom('span', text=text[Y_idx+1:], classes='bg'))
+    tr.append(td)
+    d.append(tr)
+    return d
+
+
+def render_predicate_label(text: str, ru: str = '') -> ET.Element:
+    d = dom('table', classes='' + ru)
+    tr = dom('tr')
+    if ru:
+        tr.append(dom('td', text='Predicate label Ru: ', classes='sc predicate-prop'))
+    else:
+        tr.append(dom('td', text='Predicate label: ', classes='sc predicate-prop'))
+    td = dom('td', classes='stimulus-sentence')
+    td.append(dom('span', text=text, classes='bg'))
+    tr.append(td)
+    d.append(tr)
+    return d
+
+
+def render_predicate(t):
+    predicate_div = ET.Element('div', attrib={'class': 'predicate-info-div'})
+
+    p = ET.Element('p')
+    predicate_number = dom('span', text=f'{t.predicate_no}.')
+    a = ET.Element('a', attrib={
+        'class': 'data-link',
+        'href': '{{ site_url_j }}/predicates/pred/' +
+                t.predicate_label_en.replace('#', '') +
+                '.html'
+    })
+    a.text = cleanup_predicate(t.predicate_label_en).strip()
+    p.append(predicate_number)
+    p.append(a)
+
+    predicate_div.append(p)
+    predicate_div.append(render_argument_frame(t.argument_frame_en))
+    predicate_div.append(render_stimulus_sentence(t.stimulus_sentence_en))
+    predicate_div.append(render_predicate_label(t.predicate_label_ru, ' ru'))
+    predicate_div.append(render_argument_frame(t.argument_frame_ru, ' ru'))
+    predicate_div.append(render_stimulus_sentence(t.stimulus_sentence_ru, ' ru'))
+    return predicate_div
+
+
 def predicate_page():
     result = ET.Element('div', attrib={'id': 'main'})
-    for t in PATTERNS.itertuples():
-        p = ET.Element('p')
-        a = ET.Element('a', attrib={
-            'class': 'data-link',
-            'href': '{{ site_url_j }}/predicates/pred/' +
-                    t.predicate_label_en.replace('#', '') +
-                    '.html'
-        })
-        a.text = cleanup_predicate(t.predicate_label_en).strip()
-        p.append(a)
-        result.append(p)
+
+    for t in PREDICATES.itertuples():
+        result.append(render_predicate(t))
     template = xml2str(result)
+
+    with open('../templates/partials/predicates_helpers.js', 'r') as inp:
+        js = f'<script>\n{inp.read()}\n</script>'
 
     return BASE_TEMPLATE.format(
         includes=INCLUDES_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
         header=HEADER_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
-        main=template.replace('{{ site_url_j }}', SITE_URL),
-        script='',
+        main=template
+            .replace('{{ site_url_j }}', SITE_URL)
+            .replace('<div id="main">', '''<div id="main">
+    <div>
+        <span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();">
+    </div>''')
+            .replace('<span class="blue bg">Y</span>\n            <span class="bg">ache</span>',
+                     '<span class="blue bg">Y</span><span class="bg">ache</span>')
+            .replace('<span class="blue bg">head </span>\n            <span class="bg">ache.</span>',
+                     '<span class="blue bg">head</span><span class="bg">ache.</span>')
+            .replace('<span class="red bg">X</span>\n            <span class="bg">-',
+                     '<span class="red bg">X</span><span class="bg">-')
+            .replace('<span class="blue bg">Y</span>\n            <span class="bg">-',
+                     '<span class="blue bg">Y</span><span class="bg">-'),
+        script=js,
         footer=''
     )
 
