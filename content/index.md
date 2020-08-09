@@ -6,7 +6,7 @@ BivalTyp is a typological database of bivalent verbs and their encoding frames. 
 
 You can browse BivalTyp by [predicate]{{ predicates }} (e.g., in case you are interested in how the arguments of the verb ‘to fear’ are encoded in different languages) or by [language]{{ languages }} (e.g., in case you want to explore the behaviour of 130 predicates in a specific language). Besides, you can [take an overview]{{ patterns }} of the data in your browser or search the database as an extended [spreadsheet]{{ all_data }} form. Finally, you can {{ download }} the spreadsheet with data for further use offline.
 
-In order to properly interpret the tags used in the database go to {{ how to read the data }}.
+In order to properly interpret the tags used in the database, go to {{ how to read the data }}.
 
 ## How to cite BivalTyp
 
