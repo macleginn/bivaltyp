@@ -19,7 +19,8 @@ COLNAMES = [
     'glosses_en',
     'back_translation_en',
     'glosses_ru',
-    'back_translation_ru'
+    'back_translation_ru',
+    'comms_internal'
 ]
 
 COLNAMES_OUT = [
