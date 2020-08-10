@@ -142,6 +142,11 @@ p.examples-header a {
     font-size: 12pt;
 }
 
+p.example-comment {
+    max-width: 400px;
+    font-style: italic;
+}
+
 .predicate-info {
     padding-left: 15px;
     display: flex;

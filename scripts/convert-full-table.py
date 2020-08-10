@@ -30,6 +30,7 @@ result = []
 result.append(list(d.columns))
 result[0][0] = 'language'
 result[0][1] = 'predicate'
+result[0][10] = 'comments'
 for row in d.itertuples():
     result.append(list(row)[1:])
 result_string = json.dumps(result, indent=2, ensure_ascii=False)

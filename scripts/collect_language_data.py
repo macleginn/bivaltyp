@@ -34,6 +34,7 @@ COLNAMES_OUT = [
     'sentence',
     'glosses_en',
     'back_translation_en',
+    'comms',
     'glosses_ru',
     'back_translation_ru'
 ]
@@ -65,6 +66,7 @@ Expected:
         'sentence',
         'glosses_en',
         'back_translation_en',
+        'comms',
         'glosses_ru',
         'back_translation_ru'
     ]].itertuples():
@@ -79,6 +81,7 @@ Expected:
             verb_tuple.sentence,
             verb_tuple.glosses_en,
             verb_tuple.back_translation_en,
+            verb_tuple.comms,
             verb_tuple.glosses_ru,
             verb_tuple.back_translation_ru
         ))

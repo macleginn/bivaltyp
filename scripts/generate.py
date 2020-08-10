@@ -265,11 +265,11 @@ def get_predicate_meta_table(tup):
     return div_el
 
 
-def get_predicate_example_table(tup):
-    sent = tup.sentence
-    glos = tup.glosses_en
+def get_predicate_example_table(t):
+    sent = t.sentence
+    glos = t.glosses_en
     # A conservative way of rendering examples:
-    # take what is the shortest array of words
+    # take the shorter array of words (sentence vs. glosses)
     # and construct a table based on it.
     result = ET.Element(
         'table', attrib={'class': 'example', 'cellspacing': '0'})
@@ -299,12 +299,13 @@ def get_predicate_example_table(tup):
         'colspan': str(ncol),
         'class': 'example-translation'
     })
-    tran_td.text = tup.back_translation_en
+    tran_td.text = t.back_translation_en
     tran_tr.append(tran_td)
     result.append(tran_tr)
 
     div_el = ET.Element('div', attrib={'class': 'example-info-div'})
     div_el.append(result)
+    div_el.append(dom('p', classes='example-comment', text=t.comms))
     return div_el
 
 
@@ -422,6 +423,11 @@ def render_examples_for_predicate(predicate_no_hash):
     h2 = ET.Element('h2')
     h2.text = f'‘{cleanup_predicate(predicate).strip()}’'
     result.append(h2)
+
+    # Add predicate meta
+    result.append(render_predicate_info(PREDICATES.loc[predicate_no], add_header=False))
+
+    # Add examples
     for t in data_points.itertuples():
         block = ET.Element('div', attrib={
             'data-valpal': t.valency_pattern
@@ -435,35 +441,35 @@ def render_examples_for_predicate(predicate_no_hash):
     return xml2str(result)
 
 
-def pipeline(txt, parse_md, classes=None, language=None, predicate=None):
+def pipeline(template_text, parse_markdown, classes=None, language=None, predicate=None):
     """
     1. Render the project-specific template.
     2. Supply the globals using Jinja.
     3. Convert Markdown to HTML if needed.
     """
     md = render_template(
-        txt,
+        template_text,
         language
     ).replace('{{ site_url_j }}', SITE_URL)
-    if parse_md:
+    if parse_markdown:
         main = markdown2.markdown(md, extras=["fenced-code-blocks"])
     else:
         main = md
 
     if classes is None:
-        prefix = '<div id="main">'
+        div_prefix = '<div id="main">'
     else:
-        prefix = f'''<div id="main" class="{' '.join(classes)}">'''
+        div_prefix = f'''<div id="main" class="{' '.join(classes)}">'''
 
     if language is not None:
-        main = prefix + main + \
+        main = div_prefix + main + \
             ('\n' + '<h2>Data</h2>\n' +
                 render_examples_for_language(language)) + '\n</div>'
     elif predicate is not None:
-        main = prefix + main + \
+        main = div_prefix + main + \
             render_examples_for_predicate(predicate) + '\n</div>'
     else:
-        main = prefix + main + '\n</div>'
+        main = div_prefix + main + '\n</div>'
 
     js = ''
     if language is not None:
@@ -568,22 +574,23 @@ def render_predicate_label(text: str, ru: str = '') -> ET.Element:
     return d
 
 
-def render_predicate(t):
+def render_predicate_info(t, add_header=True):
     predicate_div = ET.Element('div', attrib={'class': 'predicate-info-div'})
 
-    p = ET.Element('p')
-    predicate_number = dom('span', text=f'{t.predicate_no}.')
-    a = ET.Element('a', attrib={
-        'class': 'data-link',
-        'href': '{{ site_url_j }}/predicates/pred/' +
-                t.predicate_label_en.replace('#', '') +
-                '.html'
-    })
-    a.text = cleanup_predicate(t.predicate_label_en).strip()
-    p.append(predicate_number)
-    p.append(a)
+    if add_header:
+        p = ET.Element('p')
+        predicate_number = dom('span', text=f'{t.predicate_no}.')
+        a = ET.Element('a', attrib={
+            'class': 'data-link',
+            'href': '{{ site_url_j }}/predicates/pred/' +
+                    t.predicate_label_en.replace('#', '') +
+                    '.html'
+        })
+        a.text = cleanup_predicate(t.predicate_label_en).strip()
+        p.append(predicate_number)
+        p.append(a)
+        predicate_div.append(p)
 
-    predicate_div.append(p)
     predicate_div.append(render_argument_frame(t.argument_frame_en))
     predicate_div.append(render_stimulus_sentence(t.stimulus_sentence_en))
     predicate_div.append(render_predicate_label(t.predicate_label_ru, ' ru'))
@@ -596,7 +603,7 @@ def predicate_page():
     result = ET.Element('div', attrib={'id': 'main'})
 
     for t in PREDICATES.itertuples():
-        result.append(render_predicate(t))
+        result.append(render_predicate_info(t))
     template = xml2str(result)
 
     with open('../templates/partials/predicates_helpers.js', 'r') as inp:
