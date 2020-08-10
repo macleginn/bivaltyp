@@ -4,17 +4,22 @@
 The dataset is based on a {{ questionnaire }} containing 130 {{ predicates }} given in context. In the questionnaire, two arguments are labelled as the first argument (X) and the second argument (Y), e.g., in ‘Peter is afraid of the dog’, ‘Peter’ is X, and ‘the dog’ is Y. Language-specific valency patterns are identified for individual predicates based on the ways in which X and Y are encoded in translations of stimulus sentences. The gaps in the data appear if no translation of the stimulus sentence has been obtained or if the translation does not meet the acceptance criteria (see below). Also see [instructions for contributors]{{ instructions_for_contributors }} for criteria for choosing the equivalent to be included in the datasetin case several translations are available.
 
 ### Acceptance criteria
+
 In order to be included in the dataset, translations must meet the following criteria.
 
 - Translations should be sufficiently precise semantically, at least as far as the meaning of the predicate in the stimulus sentence is concerned. For example, if the translation obtained for ‘P. is flattering M.’ actually means ‘P. praises M.’, this translation is not included.
-- Translations should have a unified predicative expression in their core. Typically, this is a simplex verb, but this can also be a non-verbal predicate or a multi-word expression, such as a phrasal verb or a complex verb. Translations where the meaning of the predicate is distributed between elements that are structurally discontinuous are not included in the dataset. 
+
+- Translations should have a unified predicative expression in their core. Typically, this is a simplex verb, but this can also be a non-verbal predicate or a multi-word expression, such as a phrasal verb or a complex verb. Translations where the meaning of the predicate is distributed between elements that are structurally discontinuous are not included in the dataset.
+ 
 - X and Y should be expressed as noun phrases. Translations where one of the arguments is expressed by a clause or a verb phrase (e.g., lit. ‘Peter wants to buy a new mobile phone’ for the stimulus sentence ‘Peter wants a new mobile phone’) are not included in the dataset.
+
 - X and Y should be expressed as two independent noun phrases. Translations where X and Y are expressed by a conjoined noun phrase (e.g., ‘The honey and the milk got mixed’) are not included in the dataset.
+
 - X and Y should be expressed as clause-level constituents. Translations where one of the arguments is clearly adnominal are not included in the dataset (e.g., lit. ‘[Peter’s one euro] is lacking’ for the stimulus sentence ‘Peter lacks one euro’).
 
 See [instructions for contributors]{{ instructions_for_contributors }} for more detail on the acceptance criteria.
 
-### Datasetfields
+### Dataset fields
 The full dataset includes the following fields (explained below): predicate, verb, X, Y, locus, valency pattern, sentence, glosses, back translation and comments. You can browse or search the full dataset (all fields for each predicate in each language) in one [spreadsheet]{{ all_data }} or {{ download }} them. You can also explore the data by language (e.g., see how the 130 predicates are encoded in Modern Hebrew) or by predicate (e.g., see how ‘be afraid’ is encoded in the languages of the sample) and take an [overview]{{ patterns }} of the valency patterns — in the latter mode, the only field shown is the valency pattern for each predicate in each language.
 
 ### Predicate and Verb
