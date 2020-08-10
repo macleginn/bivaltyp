@@ -45,7 +45,7 @@ Devices involved in encoding X and Y arguments in a given language-particular tr
 
 - “XY” stands for patterns with two oblique devices, such as the “GEN_SUPER.LAT” pattern in Zilo Andi.
 
-### Sentence, Glosses, Back translation and Comments
+### Sentence, Glosses, Back translation, and Comments
 “Sentence” is the translation of the stimulus sentence into the target language, which is interlinearized in the “Glosses” field. Abbreviations used in glosses are languages-specific; they are explained on pages devoted to individual {{ languages }}. Notice that the information contained in the sentence and its glosses may be insufficient to unequivocally identify the valency class: sentences should be viewed as illustrations rather than as evidence.
 
 “Back translation” is the maximally precise translation of the sentence back to English. This field is needed because occasionally sentences used for translation slightly diverged from the stimulus sentence in the questionnaire.
