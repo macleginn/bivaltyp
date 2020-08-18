@@ -80,6 +80,9 @@ for tup in LANGUAGE_META.itertuples():
 LANG_EXTERNAL = {
     tup.language: tup.language_external for tup in LANGUAGE_META.itertuples()
 }
+PHYLO_DICT = {
+    tup.language: (tup.family_WALS, tup.genus_WALS) for tup in LANGUAGE_META.itertuples()
+}
 
 # Load the predicates. Some of the data is duplicated in patterns.csv.
 # This should not be a problem.
@@ -599,6 +602,33 @@ def render_predicate_info(t, add_header=True):
     return predicate_div
 
 
+def language_list_page():
+    result = ET.Element('div', attrib={'id': 'main'})
+    result.append(dom('h3', text='Published languages'))
+    active_languages = set(GOLDEN_DATA.language_no.unique())
+    # Sort languages by the external name
+    for lang_internal, lang_external in sorted(LANG_EXTERNAL.items(), key=lambda x: x[1]):
+        lang_no = LANG_DICT[lang_internal]
+        if lang_no not in active_languages:
+            continue
+        p = ET.Element('p')
+        a = ET.Element('a', attrib={
+            'href': f'{SITE_URL}/languages/descriptions/{lang_internal}.html'
+        })
+        a.text = lang_external
+        p.append(a)
+        p.append(dom( 'span', text='(' + PHYLO_DICT[lang_internal][0] + ', ' + PHYLO_DICT[lang_internal][1] + ')'))
+        result.append(p)
+    template = xml2str(result)
+    return BASE_TEMPLATE.format(
+        includes=INCLUDES_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
+        header=HEADER_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
+        main=template.replace('{{ site_url_j }}', SITE_URL),
+        script='',
+        footer=''
+    )
+
+
 def predicate_page():
     result = ET.Element('div', attrib={'id': 'main'})
 
@@ -659,6 +689,8 @@ for root, _, files in os.walk('../content'):
                                    predicate=prefix), file=out)
                 elif os.path.join('predicates', 'index.html') in path:
                     print(predicate_page(), file=out)
+                elif os.path.join('listview', 'index.html') in path:
+                    print(language_list_page(), file=out)
                 else:
                     print(pipeline(txt, parse_md), file=out)
     with open('last_modified.json', 'w') as out:

@@ -246,7 +246,7 @@ div.circle-inactive {
 #menu {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-    width: 100vw;
+    width: calc(100% - 25px);
     padding-left: 25px;
     position: absolute;
 }
