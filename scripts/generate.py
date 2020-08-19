@@ -36,7 +36,7 @@ else:
 # Project specific data
 URL_DICT = {
     'predicates': '{{ site_url_j }}/predicates/',
-    'languages': '{{ site_url_j }}/languages/',
+    'languages': '{{ site_url_j }}/languages/listview/',
     'questionnaire': '{{ site_url_j }}/questionnaire/',
     'patterns': '{{ site_url_j }}/data/patterns/',
     'all_data': '{{ site_url_j }}/data/all/',
