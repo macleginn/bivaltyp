@@ -17,12 +17,12 @@ The data were gathered in {{ data_collection_year }} in Urmiya, Krasnodar Krai, 
 ## Basic info
 - Coordinates. Latitude: {{ latitude }}; longitude: {{ longitude }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
-- Macro-area (as given in [WALS](https://wals.info/)): {{ macroarea_WALS }}  
+- Macro-area (as given in [WALS](https://wals.info/)): {{ macroarea_WALS }}
 
 "Assyrian Neo-Aramaic" is a conventional label for Northeastern Neo-Aramaic (NENA) varieties spoken by Christians who identify themselves as "Assyrians". Assyrians' homeland is a large area near the borders of modern (Northwestern) Iran, (Northern) Iraq, (Southeastern) Turkey and (Northeastern) Syria, as represented on the [map]{{ map_view }} . Presently, many Assyrians are dispersed around the world, including several communities in the South Caucasus and in the South of Russia.
-The data for this project were gathered from Assyrians living in Urmiya, Krasnodar Krai, Russia. A majority of Assyrians in Urmiya speak the Urmi dialect of NENA, originating from the area near Urmia in modern Iran. Other consultants are descendants of settlers originating from the highlands in the Southeast of modern Turkey. Sentences elicited from the latter group of speakers are marked "Non-Urmi speaker" below. Valency patterns in the Urmi and non-Urmi varieties attested in the village of Urmiya do not exhibit significant differences, but see Say, in prep. for details.
+The data for this project were gathered from Assyrians living in Urmiya, Krasnodar Krai, Russia. A majority of Assyrians in Urmiya speak the Urmi dialect of NENA, originating from the area near Urmia in modern Iran. Other consultants are descendants of settlers originating from the highlands in the Southeast of modern Turkey. Sentences elicited from the latter group of speakers are marked "Non-Urmi speaker" below. Valency patterns in the Urmi and non-Urmi varieties attested in the village of Urmiya do not exhibit significant differences, but see (Say, in prep.) for details.
 
-> Say, Sergey. Under review. Markirovanie aktantov dvuxmestnyx predikatov
+> Say, Sergey. In prep. Markirovanie aktantov dvuxmestnyx predikatov
 > v novoaramejskix idiomax sela Urmiya. Acta Linguistica Petropolitana.
 
 ## Grammar notes
@@ -51,7 +51,7 @@ The two variants of the transitive construction — with and without object inde
 
 ```
 
-Non-core arguments are typically flagged by prepositions. Some non-core arguments have the status represented as "BARE", see [Say, in prep.] for details.
+Non-core arguments are typically flagged by prepositions. Some non-core arguments have the status represented as "BARE", see (Say, in prep.) for details.
 
 ## Case system
 There is no morphological case on nouns.
