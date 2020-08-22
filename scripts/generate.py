@@ -42,7 +42,8 @@ URL_DICT = {
     'all_data': '{{ site_url_j }}/data/all/',
     'download': '{{ site_url_j }}/download/',
     'how to read the data': '{{ site_url_j }}/howtoreadthedata/',
-    'instructions_for_contributors': '{{ site_url_j }}/project/instructions/'
+    'instructions_for_contributors': '{{ site_url_j }}/project/instructions/',
+    'map_view': '{{ site_url_j }}/languages/mapview/'
 }
 
 DATA_DICT = {
@@ -374,7 +375,7 @@ def render_examples_for_language(language: str) -> str:
     all_valpal = set()
     for t in data.itertuples():
         all_valpal.add(t.valency_pattern)
-    valpal_arr = sorted(all_valpal)
+    valpal_arr = sorted(all_valpal, key=lambda x: str(x).lower())
     for vp in valpal_arr:
         option = ET.Element('option', attrib={'value': vp})
         option.text = vp if vp else 'NA'
@@ -392,7 +393,7 @@ def render_examples_for_language(language: str) -> str:
     all_loci = set()
     for t in data.itertuples():
         all_loci.add(t.locus)
-    loci_arr = sorted(all_loci)
+    loci_arr = sorted(all_loci, key=lambda x: str(x).lower())
     for l in loci_arr:
         option = ET.Element('option', attrib={'value': l})
         option.text = l if l else 'NA'
