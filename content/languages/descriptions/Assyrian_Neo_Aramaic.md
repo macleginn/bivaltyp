@@ -60,4 +60,4 @@ There is no morphological case on nouns.
 Verbs are shown in the so-called *patəx* form: this is the present tense (PRS) form with the zero-realized 3rd person masculine singular S-suffix and no L-suffix.
 
 ## Glossing abbreviations
-1, 2, 3 — 1st, 2nd, 3rd person; DEM1, DEM2, DEM3, DEM4 — demonstratives; EXI — existential copula; F — feminine; LS — L-suffix; M — masculine; NEG — negation; O — object; OBL — oblique; P — possessive; PL — plural; PRF — perfect; PROG — progressive; PRON —  pronoun; PRS — present; PST — past; REL — relator; RES — resultative; SS — S-suffix.
+1, 2, 3 — 1st, 2nd, 3rd person; DEM1, DEM2, DEM3, DEM4 — demonstratives; EXI — existential copula; F — feminine; LS — L-suffix; M — masculine; NEG — negation; O — object; OBL — oblique; P — possessive; PL — plural; PL — person name; PRF — perfect; PROG — progressive; PRON —  pronoun; PRS — present; PST — past; REL — relator; RES — resultative; SS — S-suffix.
