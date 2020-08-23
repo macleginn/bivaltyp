@@ -1,7 +1,7 @@
 import pandas as pd
 
-patterns = pd.read_csv('result/patterns.csv', sep='\t')
-langs = pd.read_csv('result/languages.csv', sep='\t')
+patterns = pd.read_csv('../data/patterns.csv', sep='\t')
+langs = pd.read_csv('../data/languages.csv', sep='\t')
 
 lang_map = {}
 for tup in langs[['language_ru', 'language']].itertuples():
@@ -13,4 +13,4 @@ for i in range(5, len(new_cols)):
     new_cols[i] = lang_map[new_cols[i]]
 patterns.columns = new_cols
 
-patterns.to_csv('result/patterns.csv', sep='\t', index=False)
+patterns.to_csv('../data/patterns.csv', sep='\t', index=False)
