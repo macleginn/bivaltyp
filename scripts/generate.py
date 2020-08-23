@@ -69,15 +69,18 @@ LANGUAGE_FIELDS = {
 }
 
 # Load language meta data.
-LANGUAGE_META = pd.read_csv('../data/languages.csv', sep='\t')
+LANGUAGE_META = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
 LANGUAGE_META.fillna('', inplace=True)
 LANGUAGE_META.index = LANGUAGE_META.language
-LANGUAGE_META.data_collection_year = LANGUAGE_META.data_collection_year.map(
-    lambda x: x if x == '' else int(x))
+# LANGUAGE_META.data_collection_year = LANGUAGE_META.data_collection_year.map(lambda x: x if x == '' else int(x))
+# print(LANGUAGE_META.index)
+# print(LANGUAGE_META.columns)
+
 LANG_DICT = {}
 for tup in LANGUAGE_META.itertuples():
     LANG_DICT[tup.language_no] = tup.language
     LANG_DICT[tup.language] = tup.language_no
+
 LANG_EXTERNAL = {
     tup.language: tup.language_external for tup in LANGUAGE_META.itertuples()
 }
@@ -456,7 +459,7 @@ def pipeline(template_text, parse_markdown, classes=None, language=None, predica
         language
     ).replace('{{ site_url_j }}', SITE_URL)
     if parse_markdown:
-        main = markdown2.markdown(md, extras=["fenced-code-blocks"])
+        main = markdown2.markdown(md, extras=["fenced-code-blocks", "extras"])
     else:
         main = md
 
