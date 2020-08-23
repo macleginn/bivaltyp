@@ -31,6 +31,7 @@ The data for this project were gathered from Assyrians living in Urmiya, Krasnod
 There is no flagging for subjects (A- and S-arguments) or direct objects (P-arguments). The person, number and sometimes gender of the subject are obligatorily indexed on the verb, while indexing of the direct object is optional (Differential Object Indexing). The choice of indices for subjects and objects depends on tense and aspect, as summarized in Table 1.
 
 Table 1. The choice of subject and object person indices in tense and aspect subsystems
+
 |                    |     Subject                     |     Direct object                       |
 |--------------------|---------------------------------|-----------------------------------------|
 |     Present        |     S-suffixes (SS.1F etc.)     |     L-suffixes (LS.1SG etc.)            |
