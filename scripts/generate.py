@@ -459,7 +459,7 @@ def pipeline(template_text, parse_markdown, classes=None, language=None, predica
         language
     ).replace('{{ site_url_j }}', SITE_URL)
     if parse_markdown:
-        main = markdown2.markdown(md, extras=["fenced-code-blocks", "extras"])
+        main = markdown2.markdown(md, extras=["fenced-code-blocks", "tables"])
     else:
         main = md
 
