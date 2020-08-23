@@ -412,14 +412,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	21	laʹddj-i	NOM	ILL	Y	NOM_ILL	Peâtt laʹddj-i ridd-u.	PN.SG.NOM reach-PST.3SG bank.SG.ILL	‘P. reached the bank.’			
 80	22	kuõsk-i	NOM	ILL	Y	NOM_ILL	Peâtt kuõsk-i seinn-a.	PN.SG.NOM touch.PST.3SG wall-SG.ILL	‘P. touched the wall.’			
 80	23	tuärr-men	NOM	COM	Y	NOM_COM	Peâtt lij tuärr-men Määʹrja-in.	PN.SG.NOM be.PRS.3SG fight-PROG.PTCP PN-SG.COM	‘P. is fighting with M.’			
-80	24	taaurõš	*	*	*		Peâtt lij Määrʹj taaurõš.	PN.SG.NOM be.PRS.3SG PN.SG.GEN friend.SG.NOM	‘P. is PN’s friend.’	Not included in the database because Y is expressed as an NP-internal modifier.		
+80	24	taaurõš	*	*	*		Peâtt lij Määrʹj taaurõš.	PN.SG.NOM be.PRS.3SG PN.SG.GEN friend.SG.NOM	‘P. is M.’s friend.’	Not included in the database because Y is expressed as an NP-internal modifier.		
 80	25	juurdač	NOM	ACC	TR	TR	Peâtt juurdač Määʹrj	PN.SG.NOM think.PRS.3SG PN.SG.ACC	‘P. is thinking about M.’			
 80	26	poor-i	NOM	ACC	TR	TR	Peâtt poor-i jaabl.	PN.SG.NOM eat-PST.3SG apple.SG.ACC	‘P. ate an apple.’			
 80	27	paaʹšt-i	NOM	ACC	TR	TR	Peâtt paaʹšt-i kueʹl.	PN.SG.NOM fry-PST.3SG fish.SG.ACC	‘P. fried the fish.’			
 80	28	vuârdd	NOM	ACC	TR	TR	Peâtt vuârdd Määʹrj.	PN.SG.NOM wait.PRS.3SG PN.SG.ACC	‘P. is waiting for M.’			
 80	29	väjldõõʹv-i	NOM	ACC	TR	TR	Peâtt väjldõõʹv-i tõn nuuʹbb čuõkku.	PN.SG.NOM forget-PST.3SG DIST.SG.ACC other.SG.ACC road.SG.ACC	‘P. forgot (about) the other road.’			
 80	30	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
-80	31	čuârva-i	NOM	ACC	TR	TR	Peâtt čuârva-i Määʹrj (vieʹǩǩ-en).	PN.SG.NOM shout-PST.3SG PN.SG.ACC (help-ESS).	‘P. called M (P. shouted to M. for help).’			
+80	31	čuârva-i	NOM	ACC	TR	TR	Peâtt čuârva-i Määʹrj vieʹǩǩ-en.	PN.SG.NOM shout-PST.3SG PN.SG.ACC help-ESS.	‘P. shouted to M. for help.’			
 80	32	tobdst-õõđ-i	NOM	COM	Y	NOM_COM	Peâtt tobdst-õõđ-i Määʹrja-in õhtt eeʹǩǩ mââiårra.	PN.SG.NOM get.to.know-REFL-PST.3SG PN-SG.COM one year.SG.NOM ago	‘P. got to know M. a year ago.’			
 80	33	tåbdd	NOM	ACC	TR	TR	Peâtt tåbdd Määʹrj.	PN.SG.NOM know.PRS.3SG PN.SG.ACC	‘P. knows M.’			
 80	34	seârr	NOM	COM	Y	NOM_COM	Peâtt seârr kitara-in.	PN.SG.NOM play.PRS.3SG guitar-SG.COM	‘PN is playing the guitar.’			
@@ -444,7 +444,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	53	kõrmml-i	NOM	GENool	Y	NOM_GENool	Kueʹbǯǯ kõrmml-i kueʹllšiili ool.	bear.SG.NOM attack-PST.3SG fisherman.SG.GEN onto	‘A bear attacked a fisherman.’			
 80	54	teâuddj-i	NOM	LOC	Y	NOM_LOC	Skääll teâuddj-i čääʹʒʒ-est.	bucket.SG.NOM become.filled-PST.3SG water-SG.LOC	‘The bucket filled with water.’			
 80	55	kaaun-i	NOM	ACC	TR	TR	Peâtt kaaun-i lokkčouddj-es.	PN.SG.NOM find-PST.3SG key.SG.ACC-POSS.3SG	‘P. found his key.’			
-80	56	leäi väjja	LOC	GEN	XY	LOC_GEN	Peâtt-ast leäi õõut eeuʹr väjja.	PN-SG.LOC be.PST.3SG one.SG.GEN euro.SG.GEN short	‘P. was short / lacks one euro.’			
+80	56	leäi väjja	LOC	GEN	XY	LOC_GEN	Peâtt-ast leäi õõut eeuʹr väjja.	PN-SG.LOC be.PST.3SG one.SG.GEN euro.SG.GEN short	‘P. was short one euro.’			
 80	57	vââjaš	NOM	ACC	TR	TR	Peâtt vââjaš Määrʹj.	PN.SG.NOM hate.PRS.3SG PN.SG.ACC	‘P. hates M.’			
 80	58	tuʹǩǩad	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad tän pääiʹdest.	PN.SG.NOM like.PRS.3SG PROX.SG.GEN shirt.SG.LOC	‘P. likes this shirt.’			
 80	59	taarbaš	NOM	ACC	TR	TR	Peâtt taarbaš tieʹǧǧ-id.	PN.SG.NOM need.PRS.3SG money-PL.ACC	‘P. needs money.’			
@@ -455,19 +455,19 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	64	jeeʹresnallšem	NOM	ko	Y	NOM_ko	Ij muu päiʹdd lij jeeʹresnallšem ko tuu päiʹdd.	NEG.3SG 1SG.GEN shirt.SG.NOM be.PRS.3SG different than 2SG.GEN shirt.SG.NOM	‘No, my shirt is different from yours’			
 80	65	kuâđđj-i	NOM	GENtuakka	Y	NOM_GENtuakka	Peâtt kuâđđj-i Määʹrj tuâkka.	PN.SG.NOM remain-PST.3SG PN.SG.GEN behind	‘P. fell behind M.’			
 80	66	auʹrrje-men	NOM	ACC	TR	TR	Peâtt lij auʹrrje-men peäld.	PN.SG.NOM be.PRS.3SG plough-PROG.PTCP field.SG.ACC	‘P. is ploughing the field.’			
-80	67	âʹpsse	NOM	mate	Y	NOM_mate	Muu ǩiõđ âʹpsse mâte beʹnsin.	1SG.GEN hand.PL.NOM smell.PRS.3PL like gasoline.SG.NOM	‘My hands smell like / smell of gasoline.’			
+80	67	âʹpsse	NOM	mate	Y	NOM_mate	Muu ǩiõđ âʹpsse mâte beʹnsin.	1SG.GEN hand.PL.NOM smell.PRS.3PL like gasoline.SG.NOM	‘My hands smell of gasoline.’			
 80	68	mõõn-i	NOM	GENraast	Y	NOM_GENraast	Peâtt mõõn-i čuõkku rââst.	PN.SG.NOM go.PST.3SG road.SG.GEN across	‘P. crossed the road’			
 80	69	lääula-i	NOM	ACC	TR	TR	Peâtt lääula-i mooččâs laulli.	PN.SG.NOM sing-PST.3SG beautiful song.SG.ACC	‘P. sang a beautiful song.’			
 80	70	ǩeeʹrjt-i	NOM	ACC	TR	TR	Peâtt ǩeeʹrjt-i ǩeeʹrj.	PN.SG.NOM write-PST.3SG letter.SG.ACC	‘P. wrote a letter.’			
 80	71	juuǥǥ-i	NOM	ACC	TR	TR	Peâtt juuǥǥ-i mieʹlǩ.	PN.SG.NOM drink-PST.3SG milk.SG.ACC	‘P. drank the milk.’			
 80	72	suddi-i	NOM	ACC	TR	TR	Peâtt suddi-i lââʹjj-kuuʹsǩ.	PN.SG.NOM melt-PST.3SG lead-piece.SG.ACC	‘P. melted a piece of lead.’			
-80	73	suåpp	NOM	COM	Y	NOM_COM	Tät puäǥǥanj suåpp puârast muu kååut-in.	PROX.SG.NOM belt.SG.NOM match.PRS.3SG well 1SG.GEN skirt-SG.COM	‘This belt goes well with / matches my dress.’			
-80	74	vuõʹlj-i meädda	NOM	LOC	Y	NOM_LOC	Peâtt vuõʹlj-i meädda suu šõdd-âm-siid-âst.	PN.SG.NOM leave-PST.3SG away 3SG.GEN born-PST.PTCP-village-SG.LOC	‘P. left his native city.’			
+80	73	suåpp	NOM	COM	Y	NOM_COM	Tät puäǥǥanj suåpp puârast muu kååut-in.	PROX.SG.NOM belt.SG.NOM match.PRS.3SG well 1SG.GEN skirt-SG.COM	‘This belt matches my dress.’			
+80	74	vuõʹlj-i meädda	NOM	LOC	Y	NOM_LOC	Peâtt vuõʹlj-i meädda suu šõdd-âm-siid-âst.	PN.SG.NOM leave-PST.3SG away 3SG.GEN born-PST.PTCP-village-SG.LOC	‘P. left his native town.’			
 80	75	kätt	NOM	ACC	TR	TR	Šaʹlddräänn kätt obb šââʹld.	carpet.SG.NOM cover.PRS.3SG all floor.SG.ACC	‘The carpet covers the whole floor.’			
-80	76	moštt	NOM	ACC	TR	TR	Peâtt moštt tõn põõrt puârast.	PN.SG.NOM remember.PRS.3SG DIST.SG.ACC house.SG.ACC well	‘P. remembers the house (where he grew up) well.’			
+80	76	moštt	NOM	ACC	TR	TR	Peâtt moštt tõn põõrt puârast.	PN.SG.NOM remember.PRS.3SG DIST.SG.ACC house.SG.ACC well	‘P. remembers that house well.’			
 80	77	vieʹǩǩt-i	NOM	ACC	TR	TR	Peâtt vieʹǩǩt-i Määʹrj.	PN.SG.NOM help-PST.3SG PN.SG.ACC	‘P. helped M.’			
 80	78	fittai	NOM	ACC	TR	TR	Peâtt fittai franskk-ǩiõl.	PN.SG.NOM understand.PRS.3SG French-language.SG.ACC	‘P. understands French.’			
-80	79	kõõskt-i	NOM	ILL	Y	NOM_ILL	Teârmmaz-toll kõõskst-i põʹrtt-e.	thunder-fire.SG.NOM lighten-PST.3SG house-SG.ILL	‘Lightning hit / struck the house.’			
+80	79	kõõskt-i	NOM	ILL	Y	NOM_ILL	Teârmmaz-toll kõõskst-i põʹrtt-e.	thunder-fire.SG.NOM lighten-PST.3SG house-SG.ILL	‘Lightning hit the house.’			
 80	80	čuõpp-õõđ-i	NOM	COM	Y	NOM_COM	Peâtt čuõpp-õõđ-i neeiʹb-in.	PN.SG.NOM cut-REFL-PST.3SG knife-SG.COM	‘P. cut himself with a razor.’			
 80	81	pâššn-i	NOM	GENool	Y	NOM_GENool	Ståkkan pâššn-i pååʹrd ool.	glass.SG.NOM get.caught-PST.3SG table.SG.GEN onto	‘The glass got stuck to the table.’			
 80	82	taaʹppj-i	NOM	ILL	Y	NOM_ILL	Peâtt taaʹppj-i Märjj-a.	PN.SG.NOM be.beaten-PST.3SG PN-SG.ILL	‘P. lost to M.’			
@@ -488,7 +488,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	97	niõǥǥad	NOM	LOC	Y	NOM_LOC	Mäʹrjj niõǥǥad Peâtt-ast.	PN.SG.NOM dream.PRS.3SG PN-SG.LOC	‘M. dreams about P.’			
 80	98	õõutmiõllsaž	NOM	COM	Y	NOM_COM	Peâtt leäi Määʹrja-in õõutmiõllsaž.	PN.SG.NOM be.PST.3SG PN-SG.COM like_minded	‘P. agreed with M.’			
 80	99	reeidčõõđ-i	NOM	COM	Y	NOM_COM	Peâtt reeidčõõđ-i Määʹrja-in.	PN.SG.NOM have_a_quarrel-PST.3SG PN-COM	‘P. had a quarrel with M.’			
-80	100	mähss 	NOM	NOM	Y	NOM_NOM	Tät kopp mähss õhtt euʹrr.	PROX.SG.NOM cup.SG.NOM cost.PRS.3SG one.NOM Euro.NOM	‘This cup costs 1 euro.’			
+80	100	mähss 	NOM	NOM	Y	NOM_NOM	Tät kopp mähss õhtt euʹrr.	PROX.SG.NOM cup.SG.NOM cost.PRS.3SG one.NOM euro.NOM	‘This cup costs 1 euro.’			
 80	101	pääčča-i	NOM	GENvuastta	Y	NOM_GENvuastta	Peâtt pääčča-i lååʹdd vuâstta.	PN.SG.NOM shoot-PST.3SG bird.SG.GEN towards	‘P. shot at the bird.’			
 80	102	kõõʹlv-i	NOM	ACC	TR	TR	Peâtt kõõʹlv-i säähhar.	PN.SG.NOM pour-PST.3SG sugar.SG.ACC	‘P. poured the sugar (into the cup).’			
 80	103	laaʹpp-i	NOM	ACC	TR	TR	Peâtt laaʹpp-i suu lokkčouddi.	PN.SG.NOM lose-PST.3SG 3SG.GEN key.SG.ACC	‘P. lost his keys.’			
@@ -499,7 +499,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	108	looǥǥ-i	NOM	ACC	TR	TR	Peâtt looǥǥ-i miõllǩiõʹssi ǩeeʹrj.	PN.SG.NOM read-PST.3SG interesting book.SG.ACC	‘P. read an interesting book.’			
 80	109	likktõõl-i	NOM	ACC	TR	TR	Peâtt likktõõl-i suõrm-es.	PN.SG.NOM move-PST.3SG finger.SG.ACC-POSS.3SG	‘P. moved his finger.’			
 80	110	ciʹsttai 	NOM	ACC	TR	TR	Peâtt ciʹsttai Määʹrj.	PN.SG.NOM respect.PRS.3SG PN.SG.ACC	‘P. respects M.’			
-80	111	*	*	*	*		Peâtt ij tuʹǩǩed sähssas liiʹttin.	PN.SG.NOM NEG.3SG like.CNG dirty dish.PL.LOC	‘PN does not like dirty dishes.’	Not included in the database because this translation is semantically inaccurate.		
+80	111	*	*	*	*		Peâtt ij tuʹǩǩed sähssas liiʹttin.	PN.SG.NOM NEG.3SG like.CNG dirty dish.PL.LOC	‘P. does not like dirty dishes.’	Not included in the database because this translation is semantically inaccurate.		
 80	112	miõllstes	NOM	GENdiott	Y	NOM_GENdiott	Peâtt lij miõllstes pääʹrn-es diõtt.	PN.SG.NOM be.PRS.3SG content son.SG.GEN-POSS.3SG because.of	‘P. is content with his son.’			
 80	113	räʹǩstõõv-i	NOM	COM	Y	NOM_COM	Peâtt räʹǩstõõv-i Määʹrja-in.	PN.SG.NOM fall.in.love-PST.3SG PN-SG.COM	‘P. fell in love with M.’			
 80	114	naʹddjââtt	NOM	ACC	TR	TR	Peâtt naʹddjââtt Määʹrj.	PN.SG.NOM trust.PRS.3SG PN.SG.ACC	‘P. trusts M.’			
@@ -508,12 +508,12 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	117	suttâm	NOM	GENool	Y	NOM_GENool	Peâtt lij suttâm Määʹrj ool.	PN.SG.NOM be.PRS.3SG angry PN.SG.GEN onto	‘P. is angry with M.’			
 80	118	õõmtõõžž-i	NOM	GENdiott	Y	NOM_GENdiott	Peâtt õõmtõõžž-i sǩiâŋk diõtt.	PN.SG.NOM be.surprized-PST.3SG gift.SG.GEN because.of	‘P. was surprised at this gift.’			
 80	119	tuʹǩǩad	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad čee-st.	PN.SG.NOM like.PRS.3SG tea-SG.LOC	‘P. likes tea.’			
-80	120	*	*	*	*		Peâtt-ast lij hääʹsǩ juukkâd puõiʹlli čee.	PN-SG.LOC be.PRS.3SG fun drink.INF hot tea.SG.ACC	‘P. enjoys hot tea.’	Not included in the database because Y is expressed as an NP within a dependent clause.		
+80	120	*	*	*	*		Peâtt-ast lij hääʹsǩ juukkâd puõiʹlli čee.	PN-SG.LOC be.PRS.3SG fun drink.INF hot tea.SG.ACC	‘P. enjoys drinking hot tea.’	Not included in the database because Y is expressed as an NP within a dependent clause.		
 80	121	haaʹlad	NOM	ACC	TR	TR	Peâtt haaʹlad ođđ ǩiõtt-teeʹl.	PN.SG.NOM want.PRS.3SG new hand-phone.SG.ACC	‘P. wants a new mobile phone.’			
 80	122	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
 80	123	neuʹrrõõv-i	NOM	GENdiott	Y	NOM_GENdiott	Peâtt neuʹrrõõv-i Määʹrj diõtt.	PN.SG.NOM be.offended-PST.3SG PN.SG.GEN because.of	‘P. took offence at M.’			
 80	124	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
-80	125	õõmš-i	NOM	ACC	TR	TR	Peâtt čuuʹt õõmš-i siid.	PN.SG.NOM very marvel.at-PST.3SG village.SG.ACC	‘P. marvelled at / was struck by / was impressed by this town.’			
+80	125	õõmš-i	NOM	ACC	TR	TR	Peâtt čuuʹt õõmš-i siid.	PN.SG.NOM very marvel.at-PST.3SG village.SG.ACC	‘P. marvelled at this town.’			
 80	126	pâiʹlǩeäčč	NOM	ACC	TR	TR	Peâtt pâiʹlǩeäčč Määʹrj.	PN.SG.NOM despise.PRS.3SG PN.SG.ACC	‘P. despises M.’			
 80	127	suttõõđ-škuõʹđ-i	NOM	GENool	Y	NOM_GENool	Peâtt suttõõđ-škuõʹđ-i suu pääʹrn ool.	PN.SG.NOM get.upset-INCH-PST.3SG 3SG.GEN son.SG.GEN onto	‘P. got upset with his son.’			
 80	128	gåårõõđ-škuäʹtt	NOM	GENool	Y	NOM_GENool	Peâtt gåårõõđ-škuäʹtt suu niõđ ool.	PN.SG.NOM get.irritated-INCH.PRS.3SG 3SG.GEN daughter.SG.GEN onto	‘P. is getting irritated with his daughter.’			
