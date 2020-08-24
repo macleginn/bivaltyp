@@ -22,21 +22,27 @@
         let allLanguages = new Set(),
             external2internal = {},
             coords = {};
+
+        let nameIndexDict = {};
+        for (let i = 0; i < languageData[0].length; i++) {
+            nameIndexDict[languageData[i]] = i;
+        }
+
         for (const row of languageData.slice(1)) {
-            const externalName = row[11],
-                internalName = row[2];
+            const externalName = row[nameIndexDict['language_external']],
+                internalName = row[nameIndexDict['language']];
             allLanguages.add(externalName);
             external2internal[externalName] = internalName;
             coords[externalName] = {
-                lat: row[8],
-                lon: row[9]
+                lat: row[nameIndexDict['latitude']],
+                lon: row[nameIndexDict['longitude']]
             };
         }
 
         // Extract active languages.
         let activeLanguages = new Set();
         for (const row of fullData.slice(1)) {
-            activeLanguages.add(row[0]);
+            activeLanguages.add(row[nameIndexDict['language_external']]);
         }
 
         for (const lang in coords) {
