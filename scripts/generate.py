@@ -1,15 +1,11 @@
-import re
 import os
 import json
 import sys
 
-from subprocess import run
-from xml.etree import ElementTree as ET
-from xml.dom import minidom
-from string import ascii_uppercase
-
 import pandas as pd
 import markdown2
+
+from helpers import *
 
 with open('../templates/base/base.html', 'r', encoding='utf-8') as inp:
     BASE_TEMPLATE = inp.read()
@@ -111,21 +107,6 @@ PRED_W_HASH = {
 }
 
 
-def dom(element_name: str, text: str = None, classes: str = None) -> ET.Element:
-    if text is None and classes is None:
-        return ET.Element(element_name)
-    elif text is None:
-        return ET.Element(element_name, attrib={'class': classes})
-    elif classes is None:
-        result = ET.Element(element_name)
-        result.text = text
-        return result
-    else:
-        result = ET.Element(element_name, attrib={'class': classes})
-        result.text = text
-        return result
-
-
 def lang_link(lang_name):
     a = ET.Element('a', attrib={
         'class': 'data-link',
@@ -182,54 +163,6 @@ def render_template(txt, language):
                     key=lambda x: len(x[0]), reverse=True)
     for k, v in tuples:
         result = result.replace(k, v)
-    return result
-
-
-def cleanup_predicate(pred):
-    result = pred.replace('_', ' ')
-    m = re.search(r'#(.+)#', result)
-    if m:
-        return result.replace(
-            m.group(0),
-            f' ({m.group(1)}) '
-        ).strip()
-    else:
-        return result
-
-
-def cleanup_gloss(word):
-    names_pat = re.compile(r'Pinchas|Menachem|Miriam')
-    word = names_pat.sub('PN', word)
-    # Only glosses are supposed to be in the upper case at this stage.
-    result = []
-    tmp = []
-    in_gloss = False
-    for char in word:
-        if char in ascii_uppercase:
-            if not in_gloss:
-                in_gloss = True
-                if tmp:
-                    span = ET.Element('span')
-                    span.text = ''.join(tmp)
-                    result.append(span)
-                    tmp.clear()
-        else:
-            if in_gloss:
-                in_gloss = False
-                if tmp:
-                    span = ET.Element('span', attrib={'class': 'gloss'})
-                    span.text = ''.join(tmp).lower()
-                    result.append(span)
-                    tmp.clear()
-        tmp.append(char)
-    if tmp:
-        if in_gloss:
-            span = ET.Element('span', attrib={'class': 'gloss'})
-            span.text = ''.join(tmp).lower()
-        else:
-            span = ET.Element('span')
-            span.text = ''.join(tmp)
-        result.append(span)
     return result
 
 
@@ -314,14 +247,6 @@ def get_predicate_example_table(t):
     div_el.append(result)
     div_el.append(dom('p', classes='example-comment', text=t.comms))
     return div_el
-
-
-def xml2str(tree):
-    return minidom.parseString(
-        ET.tostring(tree, method='html', encoding='unicode')
-    ).toprettyxml(
-        indent='    '
-    ).replace('<?xml version="1.0" ?>', '')
 
 
 def render_example(t):
@@ -499,8 +424,7 @@ def render_stimulus_sentence(sent: str, ru: str = '') -> ET.Element:
         tr.append(dom('td', text='Stimulus sentence Ru: ', classes='sc predicate-prop'))
     else:
         tr.append(dom('td', text='Stimulus sentence: ', classes='sc predicate-prop'))
-    
-    
+
     # Split the sentence into the parts between and around X and Y and X and Y themselves.
     xy_pattern = re.compile(r'\[(.+?)\]_(x|y)')
     m_iter = xy_pattern.finditer(sent)
