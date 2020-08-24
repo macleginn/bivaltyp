@@ -12,4 +12,4 @@ In order to properly interpret the tags used in the database, go to {{ how to re
 
 > Say, Sergey (ed.). 2020. BivalTyp: Typological database of bivalent verbs and their encoding frames. St.&nbsp;Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }}.)
 
-
+<div id="landing-footer" style="position: fixed; right: 0; bottom: 0; padding-left: 25px; padding-right: 25px; background-color: cornsilk; opacity: 70%; border-radius: 1px;"><pre>The web-site built by <a href="https://dnikolaev.com">Dmitry Nikolaev</a>.</pre></div>
