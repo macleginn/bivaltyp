@@ -121,7 +121,7 @@
         // Extract active languages.
         let activeLanguages = new Set();
         for (const row of fullData.slice(1)) {
-            activeLanguages.add(row[row.length-1]);
+            activeLanguages.add(row[0]);
         }
 
         for (const lang in coords) {
