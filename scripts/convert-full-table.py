@@ -12,7 +12,7 @@ d.fillna('', inplace=True)
 
 # Replace numbers of languages and predicates with
 # their names.
-meta_langs = pd.read_csv(f'{DATA_DIR}/languages.csv', sep='\t')
+meta_langs = pd.read_csv(f'{DATA_DIR}/languages.csv', sep='\t', skiprows=[1])
 lang_name_dict = {
     tup.language_no: tup.language_external
     for tup in meta_langs.itertuples()
