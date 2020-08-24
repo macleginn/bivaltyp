@@ -44,6 +44,10 @@ td {
 
 /* Class styles */
 
+a.table-link, a.table-link:visited {
+    color: blue;
+}
+
 .txt {
     max-width: 800px;
 }

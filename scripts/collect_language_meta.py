@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-d = pd.read_csv('../data/languages.csv', sep='\t')
+d = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
 out_columns = [
     "language_no",
     "language_ru",
@@ -13,7 +13,13 @@ out_columns = [
     "genus_WALS",
     "latitude",
     "longitude",
-    "number_nominal_cases",
+    "number_of_classes",
+    "tr",
+    "X-locus",
+    "Y-locus",
+    "XY-locus",
+    "ratio_tr",
+    "entropy",
     "language_external"
   ]
 d_small = d[out_columns]

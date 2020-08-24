@@ -77,27 +77,80 @@
     </div>
 </div>
 
+<div id="main"><h2>List of languages</h2>
+<div id="table"></div>
+<script>
+    // dataframe-js singleton object.
+    let DataFrame = dfjs.DataFrame;
 
-<div id="main">
-    <h3>Published languages</h3>
-    <p>
-        <a href="https://eurphon.info/static/bivaltyp/languages/descriptions/Assyrian_Neo_Aramaic.html">Assyrian Neo-Aramaic</a>
-        <span>(Afro-Asiatic, Semitic)</span>
-    </p>
-    <p>
-        <a href="https://eurphon.info/static/bivaltyp/languages/descriptions/Hebrew_Modern.html">Modern Hebrew</a>
-        <span>(Afro-Asiatic, Semitic)</span>
-    </p>
-    <p>
-        <a href="https://eurphon.info/static/bivaltyp/languages/descriptions/Saami_Skolt.html">Skolt Saami</a>
-        <span>(Uralic, Saami)</span>
-    </p>
-    <p>
-        <a href="https://eurphon.info/static/bivaltyp/languages/descriptions/Andi_Zilo.html">Zilo Andi</a>
-        <span>(Nakh-Daghestanian, Avar-Andic-Tsezic)</span>
-    </p>
+    let columnNames = languageData[0],
+        languageDf = new DataFrame(
+            languageData.slice(1),
+            columnNames
+        );
+
+    const selectedColumns = [
+        'language_external',
+        'macroarea_WALS',
+        'family_WALS',
+        'genus_WALS',
+        'number_of_classes',
+        'tr',
+        'X-locus',
+        'Y-locus',
+        'XY-locus',
+        'ratio_tr',
+        'entropy'
+    ];
+
+    let activeLanguages = new Set();
+    for (const row of fullData.slice(1)) {
+        activeLanguages.add(row[0]);
+    }
+
+    function getLink(row) {
+        if (activeLanguages.has(row.get('language_external')))
+            return `<a class="table-link" href="../descriptions/${row.get('language')}.html">${row.get('language_external')}</a>`;
+        else
+            return row.get('language_external');
+    }
+
+    // Make names of active languages links
+    // and subset columns
+    let languageDfMin = languageDf
+        .sortBy('language_external')
+        .map(row => row.set('language_external', getLink(row)))
+        .select(...selectedColumns);
+
+
+
+    let columns = [],
+        columnNamesDisplay = [];
+    for (const colname of selectedColumns) {
+        if (colname === 'language_external') {
+            columnNamesDisplay.push('language');
+            columns.push({renderer: 'html'});
+        }
+        else {
+            columnNamesDisplay.push(colname);
+            columns.push({renderer: 'text'});
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        new Handsontable(byId('table'), {
+            licenseKey: 'non-commercial-and-evaluation',
+            data: languageDfMin.toArray(),
+            colHeaders: columnNamesDisplay,
+            editor: false,
+            rowHeaders: false,
+            filters: true,
+            dropdownMenu: ['filter_by_condition', 'filter_by_value', 'filter_action_bar'],
+            columns: columns
+        });
+    })
+</script>
 </div>
-
 
 
 </body>
