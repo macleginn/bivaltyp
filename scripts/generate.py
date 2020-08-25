@@ -243,9 +243,20 @@ def get_predicate_example_table(t):
     tran_tr.append(tran_td)
     result.append(tran_tr)
 
+    if t.comms:
+        comm_tr = ET.Element('tr')
+        comm_td = ET.Element('td', attrib={
+            'colspan': str(ncol),
+            'style': 'background-color: white; max-width: 300px; font-style: italic;'
+        })
+        comm_td.text = f'Note: {t.comms}'
+        comm_tr.append(comm_td)
+        result.append(comm_tr)
+
     div_el = ET.Element('div', attrib={'class': 'example-info-div'})
     div_el.append(result)
-    div_el.append(dom('p', classes='example-comment', text=t.comms))
+    # div_el.append(dom('p', classes='example-comment', text=t.comms))
+
     return div_el
 
 
