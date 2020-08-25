@@ -4,7 +4,7 @@ Contributed by [Neige Rochant](https://lacito.vjf.cnrs.fr/membres/rochant_en.htm
 
 ![N.R.'s photo]({{ site_url_j }}/images/rochant.jpeg "N.R.'s photo")
 
-The data were gathered in {{ data_collection_year }} in Zilo, Dagestan, Russia.
+The data were gathered in {{ data_collection_year }} in Zilo, Dagestan, Russia. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Rochant, Neige. Bivalent patterns in {{ language_external }}. 
@@ -17,7 +17,7 @@ The data were gathered in {{ data_collection_year }} in Zilo, Dagestan, Russia.
 ## Basic info
 - Coordinates. Latitude: {{ latitude }}; longitude: {{ longitude }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
-- Macro-area (as given in [WALS](https://wals.info/)): {{ macroarea_WALS }}
+- Macro-area (as given in [WALS](https://wals.info/)): {{ macroarea }} 
 
 ## Grammar notes
 ### Basic clause structure and the transitive construction
