@@ -3,7 +3,7 @@ Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru), [Academia.
 
 ![S.S.'s photo]({{ site_url_j }}/images/Say.jpg "S.S.'s photo")
 
-The data were gathered in {{ data_collection_year }} in Urmiya, Krasnodar Krai, Russia.
+The data were gathered in {{ data_collection_year }} in Urmiya, Krasnodar Krai, Russia. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Say, Sergey. Bivalent patterns in {{ language_external}}. 
