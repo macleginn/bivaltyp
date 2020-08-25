@@ -3,7 +3,7 @@ Contributed by [Dmitry Nikolaev](https://dnikolaev.com), [Academia.edu profile](
 
 ![D.N.'s photo]({{ site_url_j }}/images/mitya.jpg "D.N.'s photo")
 
-The data were gathered in {{ data_collection_year }} from {{ consultant }}.
+The data were gathered in {{ data_collection_year }} from {{ consultant }}. The English version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Nikolaev, Dmitry. Bivalent patterns in {{ language_external}}. 
