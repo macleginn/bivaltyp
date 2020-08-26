@@ -247,7 +247,7 @@ def get_predicate_example_table(t):
         comm_tr = ET.Element('tr')
         comm_td = ET.Element('td', attrib={
             'colspan': str(ncol),
-            'style': 'background-color: white; max-width: 300px; font-style: italic;'
+            'style': 'background-color: rgb(240,240,240); max-width: 300px;' # font-style: italic;'
         })
         comm_td.text = f'Note: {t.comms}'
         comm_tr.append(comm_td)
