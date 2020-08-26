@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://eurphon.info/static/bivaltyp/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://eurphon.info/static/bivaltyp/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://eurphon.info/static/bivaltyp/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://eurphon.info/static/bivaltyp/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://eurphon.info/static/bivaltyp/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://eurphon.info/static/bivaltyp/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://eurphon.info/static/bivaltyp/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://eurphon.info/static/bivaltyp/js/data/languages.js"></script>
+        <script src="https://eurphon.info/static/bivaltyp/js/data/predicates.js"></script>
+        <script src="https://eurphon.info/static/bivaltyp/js/data/patterns.js"></script>
+        <script src="https://eurphon.info/static/bivaltyp/js/data/full.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://eurphon.info/static/bivaltyp/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://eurphon.info/static/bivaltyp" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://eurphon.info/static/bivaltyp/images/ili.png" alt="Институт лингвистических исследований РАН"></a>
+    </div>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/instruction/"><div class="menu-button">Instructions for&nbsp;contributors</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/team/"><div class="menu-button">Team</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/languages/mapview/"><div class="menu-button">Map view</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/languages/listview/"><div class="menu-button">List view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://eurphon.info/static/bivaltyp/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="https://eurphon.info/static/bivaltyp/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://eurphon.info/static/bivaltyp/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>
+
+<div id="main"><h2>General design and goals</h2>
+
+<p>The BivalTyp project investigates encoding frames in constructions with two arguments in a typological perspective. From bivalent patterns, one that has received by far the most attention in the literature is the transitive construction. Even though morphosyntactic properties of transitive constructions vary across languages, transitivity has a cross-linguistically stable and well understood semantic basis: verbs that entail a volitional agent and a fully affected patient, such as ‘kill’ and ‘break’, typically belong to the transitive class (Hopper, Thompson 1980; Tsunoda 1985; Dowty 1991; Kittilä 2002; Malchukov 2005; Næss 2007; Malchukov &amp; Comrie 2015).</p>
+
+<p>However, the lexical range of the transitive class varies greatly across languages. Verbs with meanings such as ‘listen’, ‘touch’, ‘follow’, or ‘envy’ are transitive in some languages but intransitive in others.</p>
+
+<p>Bivalent intransitives usually fall into several minor classes. On a language-specific level, it is usually possible to uncover semantic motivation behind minor valency classes. For example, in English, the valency frame in <em>The old man looked at the clouds</em> is identical to the valency frame in <em>The old man shot at the bird</em>. This fact arguably reflects some similarity between these two situations. However, typological research on minor valency classes is rather scarce, and it is generally not known whether different languages are governed by similar principles of valency-class assignment. One of the biggest challenges in this domain is to find a <em>tertium comparationis</em>: encoding devices <em>per se</em>, such as, e.g., the English preposition <em>at</em>, are language specific and cannot be directly equated across languages.</p>
+
+<p>This project is based on a questionnaire containing 130 predicates given in context. The resulting database allows to identify the ways in which translation equivalents of these 130 predicates are grouped into valency classes in individual languages. Thus, the lexical extent of valency classes is used as a <em>tertium comparationis</em>. For example, the translation equivalent of <em>The old man looked at the clouds</em> belongs to a huge transitive class (which also encompasses the equivalents of <em>The boy broke a stick</em> and <em>Peter killed Michael</em>) in languages such as Albanian, Japanese, Chukchi and Kalmyk. In other languages, this translation equivalent belongs to a large intransitive class that also encompasses translation equivalents of <em>Peter entered the house</em>, <em>Peter touched the wall</em> and <em>A bear attacked a fisherman</em>; this is the case in Ossetic and many Turkic languages. In yet other languages, the translation equivalent of <em>The old man looked at the clouds</em> belongs to a very small class also including the translation equivalent of <em>Peter touched the wall (and got dirty)</em>; this is the case in English, German and Udmurt. Observations of this kind provide a method to systematically compare valency classes across languages on an empirical basis.</p>
+
+<p>Ultimately, this approach makes it possible to tackle a number of typological questions:</p>
+
+<ul>
+<li>Which specific meanings are more and less likely to be encoded by the transitive patterns, that is, by patterns typically employed for encoding such meaning as ‘kill’ and ‘break’?</li>
+<li>To what extent are minor valency classes stable cross-linguistically in terms of their lexical extent?</li>
+<li>Which semantic parameters are responsible for assigning verbs to specific valency classes? To what extent valency behaviour is (un)predictable?</li>
+<li>Are there genealogical and areal patterns in the organization of bivalent verbs into valency classes?</li>
+</ul>
+
+<h2>Why bivalent patterns?</h2>
+
+<p>This project covers only those predicates that are typologically expected to be bivalent. This restriction is largely motivated by practical reasons. The inclusion of predicates from other numerical valency types would have resulted in either too large a questionnaire with hundreds of entries or to an undesirable loss in lexical coverage. With 130 predicates, it is usually possible to get an idea of the lexical extent of all major types of bivalent structures that are present in individual languages.</p>
+
+<p>Bivalent constructions were preferred to monovalent constructions because in most languages monovalent constructions are not very variegated structurally. Usually, there is just a handful of monovalent constructions, and in some languages, all monovalent constructions belong to just one class (English is a case in point).
+Bivalent constructions were preferred to trivalent (and more complex) constructions because trivalent constructions are less frequent, not very variegated semantically and are sometimes split into numerous very small classes.</p>
+
+<h2>Why contexts, not verbs?</h2>
+
+<p>In most languages, frequent verbs are often polysemous and their different meanings can be associated with different valency patterns. As a consequence, isolated lemmas, such as, e.g., English <em>to hit</em>, can hardly be used as comparative concepts: the network of meanings of this verb is too large and its valency behaviour can be different in different contexts even in English, let alone in possible translations of <em>hit</em> in other languages. By contrast, a context such as ‘lightning hit the house’ is a better comparative concept because it is usually possible to identify one basic way to express this specific meaning in a given language. An obvious downside of this approach is that it is not suitable for the study of individual languages: the 130 contexts might look as a random choice among thousands of possible bivalent contexts. However, for typological purposes, a context-based approach is more reliable than a lemma-based approach.</p>
+
+<h2>Workflow</h2>
+
+<p>By default, the data for this project are obtained from native speakers who translated the 130 stimulus sentences into the target language. Russian, English and sometimes French were used as inter-languages (languages of the questionnaire and the elicitation procedure).</p>
+
+<p>A crucial role belongs to language experts, also referred to as contributors (in some cases, language experts are simultaneously native speakers). By default, language experts contacted one or several native speakers (typically during fieldwork), elicited translations, selected the translation to be included in the dataset if multiple translations were available, annotated and glossed translations, identified valency classes and provided additional information on the languages in question. All analytical decisions were made in collaboration with the project coordinator, Sergey Say. See also <a href="https://eurphon.info/static/bivaltyp/project/instructions/">instructions for contributors</a>.</p>
+
+<p>Full data on investigated varieties, including information on language experts and brief grammar notes, can be found on pages devoted to individual <a href="https://eurphon.info/static/bivaltyp/languages/listview/">languages</a>. Deviations from the standard procedure (e.g., if the data were gathered using dictionaries and/or corpora) are also described on these pages.</p>
+
+<h2>History of the project</h2>
+
+<p>This project was launched as early as in 2009 at the The Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences. In 2009–2013, it was supported by two consecutive grants from the Russian Foundation for Humanities.</p>
+
+<blockquote>
+  <p>2009-2010, “Non-canonical argument marking of two-place predicates”, grant #09-04-00366а.</p>
+  
+  <p>2011-2013, “Verb argument structure variation and verb classification in languages of various structural types”, grant #11-04-00179a.</p>
+</blockquote>
+
+<p>After 2013, the dataset continued to grow thanks to language experts who contributed data for new languages. The online version of the project was launched in 2020.</p>
+
+<h2>Similar projects</h2>
+
+<ul>
+<li><p>Bickel, Balthasar, Taras Zakharko, Lennart Bierkandt &amp; Alena Witzlack-Makarevich, 2014. <a href="https://benjamins.com/catalog/sl.38.3.03bic">An empirical assessment of semantic role types in non-default case assignment</a>. Studies in language, 38 (3). Advances in research in semantic roles, ed. by Seppo Kittilä &amp; Fernando Zúñiga. 485-511. See also authors’ <a href="https://benjamins.com/catalog/sl.38.3.03bic/additional">data and statistical analysis transcript</a>.</p></li>
+<li><p>Valency Patterns Leipzig Online Database, aka <a href="https://https://valpal.info/">ValPaL</a>.</p></li>
+<li><p>The World Atlas of Transitivity Pairs, aka <a href="https://watp.ninjal.ac.jp/en/">WATP</a>.</p></li>
+</ul>
+
+<h2>References</h2>
+
+<p>Dowty, David. 1991. Thematic proto-roles and argument selection. <em>Language</em>, 67, 547–619. <br />
+Hopper, Paul J. and Sandra A. Thompson. 1980. Transitivity in grammar and discourse. <em>Language</em>, 56, 251–299. <br />
+Kittilä, Seppo. 2002. <em>Transitivity: Towards a Comprehensive Typology</em>. Turku: Åbo Akademis Tryckeri. <br />
+Malchukov, Andrej &amp; Bernard Comrie (eds.). 2015. <em>Valency Classes in the World’s Languages</em>. Berlin: De Gruyter Mouton, 2015. <br />
+Malchukov, Andrej. 2005. Case pattern splits, verb types, and construction competition. M. Amberber, H. de Hoop (eds.). <em>Competition and Variation in Natural Languages</em>. London: Elsevier, 73–117. <br />
+Næss, Åshild. 2007. <em>Prototypical Transitivity</em>. Amsterdam, Philadelphia: John Benjamins. <br />
+Tsunoda, Tasaku. 1985. Remarks on transitivity. <em>Journal of Linguistics</em>, 21, 385–396.  </p>
+
+</div>
+
+
+</body>
+</html>
+

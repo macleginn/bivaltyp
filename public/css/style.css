@@ -22,7 +22,7 @@ h4 {
     margin-bottom: 7px;
 }
 
-p {
+p, li {
     max-width: 800px;
 }
 
