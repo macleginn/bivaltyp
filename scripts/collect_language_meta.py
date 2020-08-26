@@ -8,18 +8,18 @@ out_columns = [
     "language",
     "expert_ru",
     "expert",
-    "macroarea_WALS",
+    "macroarea",
     "family_WALS",
     "genus_WALS",
     "latitude",
     "longitude",
-    "number_of_classes",
-    "tr",
+    "number of classes",
+    "transitives",
     "X-locus",
     "Y-locus",
     "XY-locus",
-    "ratio_tr",
-    "entropy",
+    "transitivity ratio",
+    "entropy (nat)",
     "language_external"
   ]
 d_small = d[out_columns]

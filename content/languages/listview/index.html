@@ -13,16 +13,16 @@
 
     const selectedColumns = [
         'language_external',
-        'macroarea_WALS',
+        'macroarea',
         'family_WALS',
         'genus_WALS',
-        'number_of_classes',
-        'tr',
+        'number of classes',
+        'transitives',
         'X-locus',
         'Y-locus',
         'XY-locus',
-        'ratio_tr',
-        'entropy'
+        'transitivity ratio',
+        'entropy (nat)'
     ];
 
     let activeLanguages = new Set();
@@ -32,7 +32,7 @@
 
     function getLink(row) {
         if (activeLanguages.has(row.get('language_external')))
-            return `<a class="table-link" href="../descriptions/${row.get('language')}.html">${row.get('language_external')}</a>`;
+            return `${row.get('language_external')} (<a class="table-link" href="../descriptions/${row.get('language')}.html">⤤</a>)`;
         else
             return row.get('language_external');
     }

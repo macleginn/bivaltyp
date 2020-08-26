@@ -61,7 +61,7 @@ LANGUAGE_FIELDS = {
     'longitude',
     'family_WALS',
     'genus_WALS',
-    'macroarea_WALS'
+    'macroarea'
 }
 
 # Load language meta data.
