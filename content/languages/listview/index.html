@@ -42,7 +42,7 @@
     let languageDfMin = languageDf
         .sortBy('language_external')
         .map(row => row.set('language_external', getLink(row)))
-        .map(row => row.set('entropy', row.get('entropy').toFixed(3)))
+        .map(row => row.set('entropy (nat)', row.get('entropy (nat)').toFixed(3)))
         .select(...selectedColumns);
 
 
