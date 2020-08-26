@@ -47,7 +47,7 @@ After 2013, the dataset continued to grow thanks to language experts who contrib
 ## Similar projects
 
 - Bickel, Balthasar, Taras Zakharko, Lennart Bierkandt & Alena Witzlack-Makarevich, 2014. [An empirical assessment of semantic role types in non-default case assignment](https://benjamins.com/catalog/sl.38.3.03bic). Studies in language, 38 (3). Advances in research in semantic roles, ed. by Seppo Kittilä & Fernando Zúñiga. 485-511. See also authors’ [data and statistical analysis transcript](https://benjamins.com/catalog/sl.38.3.03bic/additional).
-- Valency Patterns Leipzig Online Database, aka [ValPaL](https://valpal.info/).
+- Valency Patterns Leipzig Online Database, aka [ValPaL](http://valpal.info/).
 - The World Atlas of Transitivity Pairs, aka [WATP](https://watp.ninjal.ac.jp/en/).
 
 ## References
