@@ -115,7 +115,7 @@
     );
     languageDfMin = languageDf.select(
         'language',
-        'macroarea_WALS',
+        'macroarea',
         'family_WALS'
     );
 
@@ -124,7 +124,7 @@
     languageDfMin.chain(
         row => { langDict[row.get('language')] = {
             phylum: row.get('family_WALS'),
-            marea: row.get('macroarea_WALS')
+            marea: row.get('macroarea')
         } }
     );
 
@@ -137,7 +137,7 @@
         .map(oneElArr => oneElArr[0]);
     phyla.sort();
     macroareas = languageDfMin
-        .distinct('macroarea_WALS')
+        .distinct('macroarea')
         .toArray()
         .map(oneElArr => oneElArr[0]);
     macroareas.sort();

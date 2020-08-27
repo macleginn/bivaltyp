@@ -47,6 +47,26 @@
         columnNames
     );
 
+    function getLanguageLink(lang_external) {
+        const iidx = languageData[0].indexOf('language'),
+            eidx = languageData[0].indexOf('language_external');
+        let language;
+        for (const row of languageData) {
+            if (row[eidx] === lang_external) {
+                language = row[iidx];
+                break;
+            }
+        }
+        if (language === undefined)
+            throw `Could not locate language ${lang_external} in the language table.`;
+        return `${lang_external} (<a class="table-link" href="../../languages/descriptions/${language}.html">⤤</a>)`
+    }
+
+    function getPredicateLink(predicate) {
+        let filename = predicate.replace(/[# ]/g, '') + '.html';
+        return `${predicate} (<a class="table-link" href="../../predicates/pred/${filename}">⤤</a>)`
+    }
+
     function redraw() {
         showRussianMeta = byId('russian_meta').checked;
 
@@ -64,14 +84,16 @@
 
         // Process glosses.
         let currentDf = fullDf.select(...cols);
-        currentDf = currentDf.map(row => row.set('glosses_en', addSmallCaps(row.get('glosses_en'))));
+        currentDf = currentDf
+            .map(row => row.set('glosses_en', addSmallCaps(row.get('glosses_en'))))
+            .map(row => row.set('language', getLanguageLink(row.get('language'))))
+            .map(row => row.set('predicate', getPredicateLink(row.get('predicate'))));
         if (byId('russian_meta').checked)
             currentDf = currentDf.map(row => row.set('glosses_ru', addSmallCaps(row.get('glosses_ru'))));
 
-        // Cells with glosses need the HTML renderer for small caps.
         let columns = [];
         for (const colname of cols) {
-            if (colname === 'glosses_en' || colname === 'glosses_ru')
+            if (colname === 'glosses_en' || colname === 'glosses_ru' || colname === 'language' || colname === 'predicate')
                 columns.push({renderer: 'html'});
             else
                 columns.push({renderer: 'text'});
@@ -92,7 +114,8 @@
                 'filter_by_value',
                 'filter_action_bar'
             ],
-            columns: columns
+            columns: columns,
+            columnSorting: true
         });
     }
     document.addEventListener('DOMContentLoaded', redraw);
