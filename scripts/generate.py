@@ -59,8 +59,8 @@ LANGUAGE_FIELDS = {
     'last_release_date',
     'latitude',
     'longitude',
-    'family_WALS',
-    'genus_WALS',
+    'family (WALS)',
+    'genus (WALS)',
     'macroarea'
 }
 
@@ -81,7 +81,7 @@ LANG_EXTERNAL = {
     tup.language: tup.language_external for tup in LANGUAGE_META.itertuples()
 }
 PHYLO_DICT = {
-    tup.language: (tup.family_WALS, tup.genus_WALS) for tup in LANGUAGE_META.itertuples()
+    tup.language: (tup[12], tup[13]) for tup in LANGUAGE_META.itertuples()
 }
 
 # Load the predicates. Some of the data is duplicated in patterns.csv.

@@ -116,14 +116,14 @@
     languageDfMin = languageDf.select(
         'language',
         'macroarea',
-        'family_WALS'
+        'family (WALS)'
     );
 
     // Populate filter dict from this df
     langDict = {};
     languageDfMin.chain(
         row => { langDict[row.get('language')] = {
-            phylum: row.get('family_WALS'),
+            phylum: row.get('family (WALS)'),
             marea: row.get('macroarea')
         } }
     );
@@ -132,7 +132,7 @@
     // TODO: add genera and langs.
     // TODO: Make hierarchical.
     phyla = languageDfMin
-        .distinct('family_WALS')
+        .distinct('family (WALS)')
         .toArray()
         .map(oneElArr => oneElArr[0]);
     phyla.sort();

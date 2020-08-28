@@ -16,7 +16,7 @@ The data were gathered in {{ data_collection_year }} in Urmiya, Krasnodar Krai, 
 
 ## Basic info
 - Coordinates. Latitude: {{ latitude }}; longitude: {{ longitude }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}
 
 "Assyrian Neo-Aramaic" is a conventional label for Northeastern Neo-Aramaic (NENA) varieties spoken by Christians who identify themselves as "Assyrians". Assyrians' homeland is a large area near the borders of modern (Northwestern) Iran, (Northern) Iraq, (Southeastern) Turkey and (Northeastern) Syria, as represented on the [map]{{ map_view }} . Presently, many Assyrians are dispersed around the world, including several communities in the South Caucasus and in the South of Russia.
