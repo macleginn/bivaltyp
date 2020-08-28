@@ -14,7 +14,7 @@ with open('../templates/partials/header.html', 'r', encoding='utf-8') as inp:
 with open('../templates/partials/includes.html', 'r', encoding='utf-8') as inp:
     INCLUDES_TEMPLATE = inp.read()
 
-SITE_URL = 'https://eurphon.info/static/bivaltyp'
+SITE_URL = 'https://www.bivaltyp.info'
 # SITE_URL = 'file:///Users/macbook/Documents/Yandex.Disk/WorkInProgress/BivalTyp/webapp/public'
 # SITE_URL = 'file:///C:/Users/dniko/PycharmProjects/bivaltyp/public'
 
