@@ -43,6 +43,11 @@
 
     let container = byId('table');
 
+    function getPredicateLink(predicate) {
+        let filename = predicate.replace(/[# ]/g, '') + '.html';
+        return `${predicate} (<a class="table-link" href="../../predicates/pred/${filename}">⤤</a>)`
+    }
+
     function populateSelectFromArray(select, arr) {
         for (const el of arr) {
             let option = document.createElement('option');
@@ -87,6 +92,19 @@
         let colsToSelect = colsPrefix.concat(colsSuffix),
             currentDf = patternsDf.select(...colsToSelect);
 
+        // Add links and html rendering for predicate labels
+        let columns = currentDf.listColumns()
+            .map(colname => {
+                if (colname === 'predicate_label_en')
+                    return {renderer: 'html'};
+                else
+                    return {renderer: 'text'}
+            });
+        currentDf = currentDf.map(row => row.set(
+            'predicate_label_en',
+            getPredicateLink(row.get('predicate_label_en'))
+        ));
+
         patternsTable.destroy();
         patternsTable = new Handsontable(container, {
             licenseKey: 'non-commercial-and-evaluation',
@@ -95,7 +113,9 @@
             editor: false,
             rowHeaders: false,
             filters: true,
-            dropdownMenu: ['filter_by_condition', 'filter_by_value', 'filter_action_bar']
+            dropdownMenu: ['filter_by_condition', 'filter_by_value', 'filter_action_bar'],
+            columns: columns,
+            columnSorting: true
         });
 
     }

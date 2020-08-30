@@ -628,8 +628,6 @@ for root, _, files in os.walk('../content'):
                                    predicate=prefix), file=out)
                 elif os.path.join('predicates', 'index.html') in path:
                     print(predicate_page(), file=out)
-                # elif os.path.join('listview', 'index.html') in path:
-                #     print(language_list_page(), file=out)
                 else:
                     print(pipeline(txt, parse_md), file=out)
     with open('last_modified.json', 'w') as out:
