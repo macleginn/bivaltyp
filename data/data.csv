@@ -1,4 +1,134 @@
 language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back_translation_en	comms	glosses_ru	back_translation_ru
+81	1	itːa-	GEN	ABS	X	GEN_ABS	aslan.a-n k’il itːa-a	PN-GEN голова болеть-PRS	‘У Аслана болит голова.’	NP in the genitive is arguably a clause-level dependent.		
+81	2	x.u-	DAT	ABS	X	DAT_ABS	aslan.a-s stalǯam x.u-naa	PN-DAT пневмония стать.PF-PRF	‘У А. пневмония (воспаление легких).’			
+81	3	guč’a-	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s χuj.i-k-as guč’a-a	PN-DAT собака-SUB/CONT-ELAT бояться-PRS	‘Аслан боится собаки.’			
+81	4	fatːix.i-	ERG	ABS	TR	TR	aslan.a fatːix.i-ne ʁʷan	PN(ERG) бросать.PF-AOR камень	‘Аслан бросил камень.’			
+81	5	hurk’.a-	DAT	ABS	X	DAT_ABS	aslan.a-s pul hurk’.a-a	PN-DAT деньги быть.достаточным.IPF-PRS	‘Аслану хватает денег.’			
+81	6	uχšar + COP	ABS	DAT	Y	ABS_DAT	aslan meʜemed.i-s uχšar a-a	PN PN-DAT похожий {IN}быть-PRS	‘Аслан похож на Магомеда.’	Non-verbal predicate.		
+81	7	quχ.u-	ABS	POST	Y	ABS_POST	aslan meʜemed.i-q quχ.u-naa	PN PN-POST верить.PF-PRF	‘Аслан верит Магомеду.’			
+81	8	ʁuš.u-	ERG	ABS	TR	TR	aslan.a kitab ʁuš.u-ne (aškːaf.i-as)	PN(ERG) книга брать.PF-AOR шкаф-(IN)ELAT	‘Аслан взял книгу (с полки).’			
+81	9	agʷ.a-	DAT	ABS	X	DAT_ABS	aslan.a-s χal agʷ.a-a	PN-DAT дом видеть.IPF-PRS	‘Аслан видит дом.’			
+81	10	*	*	*	*		me jaš.tːi-n kar e	DEMM возраст-GEN дело COP	‘Возраст влияет на память.’	No satisfactory translation has been obtained.		
+81	11	alčarx.u-	ABS	DAT	Y	ABS_DAT	aslan.a-s meʜemed alčarx.u-ne	PN-DAT PN встречаться.PF-AOR	‘Магомед встретился с Асланом.’			
+81	12	ačaj-	ABS	DAT	Y	ABS_DAT	aslan χul.a-s ačaj-ne	PN дом-DAT {IN.LAT}приходить:PF-AOR	‘Аслан вошел в дом.’			
+81	13	wartː ʁuš.u-	ERG	SUPER	Y	ERG_SUPER	aslan.a wartː ʁuš.u-ne meʜemed.i-l	PN(ERG) верх брать.PF-AOR PN-SUPER	‘Аслан выиграл у Магомеда.’			
+81	14	ajč’.u-	ABS	(IN)ELAT	Y	ABS_(IN)ELAT	aslan χul.a-as ajč’.u-ne	PN дом-(IN)ELAT {IN}вылезать.PF-AOR	‘Аслан вышел из дома.’			
+81	15	hik.a-	ERG	ABS	TR	TR	aslan.a mal-ar hik.a-a	PN(ERG) скот-PL гнать.IPF-PRS	‘Аслан гонит корову.’			
+81	16	č’ut’.u-	ERG	ABS	TR	TR	aslan.a t’ul č’ut’.u-ne	PN(ERG) палка сминать.PF-AOR	‘Аслан согнул ветку.’			
+81	17	p.u-	ERG	DAT	Y	ERG_DAT	aslan.a meʜemed.i-s p.u-ne…	PN(ERG) PN-DAT говорить.PF-AOR	"‘Аслан сказал Магомеду: ("".."").’"			
+81	18	χil.i-ʔ a-	GEN	ABS	X	GEN_ABS	aslan.a-n χil.i-ʔ kitab a-a 	PN-GEN рука-IN книга {IN}быть-PRS	‘Аслан держит книгу в руках.’	NP in the genitive is arguably a clause-level dependent.		
+81	19	qukː.u-na ruq’.u-	ABS	POST	Y	ABS_POST	aslan qukː.u-na meʜemed.i-q ruq’.u-ne ti-q-tːi	PN гнаться.PF-CONV PN-POST достигать.PF-AOR DEMT-POST-LAT	‘Аслан догнал М.’			
+81	20	uz.u-	ERG	ABS	TR	TR	aslan.a ʜüni uz.u-ne	PN(ERG) корова доить.PF-AOR	‘Аслан подоил корову.’			
+81	21	ruq’.u-	ABS	POST.LAT	Y	ABS_POST.LAT	aslan nac’.u-n saje qːireʁ.i-q-tːi ruq’.u-ne	PN река-GEN другой край-POST-LAT достигать.PF-AOR	‘Аслан достиг другого берега реки.’			
+81	22	kürq’.u-	GEN	SUBCONT	XY	GEN_SUBCONT	aslan.a-n χil kürq’.u-ne cil.i-k	PN-GEN рука {SUB/CONT}ударяться.PF-AOR стена-SUB/CONT	‘Аслан дотронулся до стены.’	NP in the genitive is arguably a clause-level dependent.		
+81	23	uqː.a-	ABS	COMIT	Y	ABS_COMIT	aslan meʜemed.i-qaj uqː.a-a	PN PN-COMIT драться.IPF-PRS	‘Аслан дерется с Магомедом.’			
+81	24	*	*	*	*		aslan=na meʜemed dustː-ar e	PN=и PN друг-PL COP 	‘Аслан дружит с Магомедом.’	Not included in the database because X and Y are expressed as a coordinate NP.		
+81	25	fikir q’.a-	ERG	SUBCONT.ELAT	Y	ERG_SUBCONT.ELAT	aslan.a meʜemed.i-k-as fikir q’.a-a	PN(ERG) PN-SUB/CONT-ELAT мысль делать.IPF-PRS	‘Аслан думает о Магомеде.’			
+81	26	ʡut’.u-	ERG	ABS	TR	TR	aslan.a ʜač ʡut’.u-ne	PN(ERG) яблоко есть.PF-AOR	‘Аслан съел яблоко.’			
+81	27	žarit’ q’.u-	ERG	ABS	TR	TR	aslan.a baluʁ žarit’ q’.u-ne	PN(ERG) рыба <жарить> делать.PF-AOR	‘Аслан пожарил рыбу.’			
+81	28	ʁuz.u-	ABS	POST.LAT	Y	ABS_POST.LAT	aslan meʜemed.i-q-tːi ʁuz.u-naa	PN PN-POST-LAT останавливаться.PF-PRF	‘Аслан ждет Магомеда.’			
+81	29	k’ʷal-as š.u-	DAT	ABS	X	DAT_ABS	aslan.a-s saje reqː k’ʷal-as š.u-ne	PN-DAT другой дорога в.памяти-ELAT уходить.PF-AOR	‘Аслан забыл о другой дороге.’			
+81	30	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
+81	31	un-aq’.u-	ERG	DAT	Y	ERG_DAT	aslan.a meʜemed.i-s un-aq’.u-ne	PN(ERG) PN-DAT звук-делать.PF-AOR	‘Аслан позвал Магомеда.’			
+81	32	taniš-x.u-	ABS	COMIT	Y	ABS_COMIT	aslan meʜemed.i-qaj taniš-x.u-ne sa is.a-n üdüh-tːi	PN PN-COMIT знакомиться-стать.PF-AOR один год-GEN впереди-LAT	‘Аслан познакомился с Магомедом год тому назад.’			
+81	33	ʜa-	DAT	ABS	X	DAT_ABS	aslan.a-s ʜa-a meʜemed	PN-DAT знать-PRS PN	‘Аслан знает Магомеда.’			
+81	34	jarʜ.a-	ERG	ABS	TR	TR	aslan.a č’iʁan jarʜ.a-a	PN(ERG) гармонь бить.IPF-PRS 	‘Аслан играет на гармони.’			
+81	35	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
+81	36	aq’.u-	ERG	ABS	TR	TR	aslan.a bomba aq’.u-ne	PN(ERG) бомба делать.PF-AOR	‘Аслан изготовил бомбу.’			
+81	37	ihanat-ar aq’.a-	ERG	SUBCONT.ELAT	Y	ERG_SUBCONT.ELAT	aslan.a meʜemed.i-k-as ihanat-ar aq’.a-a	PN(ERG) PN-SUB/CONT-ELAT насмешка-PL делать.IPF-PRS	‘Аслан издевается над Магомедом.’			
+81	38	qa-	POST	ABS	X	POST_ABS	aslan.a-q mašin qa-a	PN-POST машина {POST}быть-PRS	‘У Аслана есть машина.’			
+81	39	aruc.a-	ABS	POST.LAT	Y	ABS_POST.LAT	aslan güleg-ar.i-q-tːi aruc.a-a	PN ключ-PL-POST-LAT ходить.IPF-PRS	‘Аслан ищет ключи.’			
+81	40	šur jarʜ.u-	ERG	DAT	Y	ERG_DAT	aslan.a zabur.i-s šur jarʜ.u-ne	PN(ERG) забор-DAT краска бить.PF-AOR	‘Аслан покрасил забор.’			
+81	41	fac.u-	ERG	ABS	TR	TR	χuj.i fac.u-ne aslan	собака(ERG) хватать.PF-AOR PN	‘Собака укусила (букв. схватила) Аслана.’			
+81	42	x.u-	ABS	SUBCONT.ELAT	Y	ABS_SUBCONT.ELAT	aslan χul.a-k-as x.u-ne	PN дом-SUB/CONT-ELAT стать.PF-AOR	‘Аслан лишился дома.’			
+81	43	fac.a-	ERG	ABS	TR	TR	aslan.a kitan fac.a-a	PN(ERG) кошка хватать.IPF-PRS	‘Аслан ловит кошку.’			
+81	44	arʕ.u-	ERG	ABS	TR	TR	aslan.a t’ul arʕ.u-ne	PN(ERG) палка ломать.PF-AOR	‘Аслан сломал палку.’			
+81	45	qːele-jar jarʜ.a-	ERG	DAT	Y	ERG_DAT	aslan.a ruš.a-s qːele-jar jarʜ.a-a	PN(ERG) девушка-DAT лесть-PL бить.IPF-PRS	‘Аслан льстит Магомеду.’			
+81	46	kːande-	DAT	ABS	X	DAT_ABS	aslan.a-s fat’ima kːande-a	PN-DAT PN любить-PRS	‘Аслан любит Фатиму.’			
+81	47	tːutː.a-	ERG	ABS	TR	TR	aslan.a jaʁluqː tːutː.a-a	PN(ERG) платок трясти.IPF-PRS	‘Аслан машет платком.’			
+81	48	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
+81	49	ʡučː.u-	ERG	ABS	TR	TR	aslan.a qːab ʡučː.u-ne	PN(ERG) посуда мыть.PF-AOR	‘Аслан вымыл чашку.’			
+81	50	lik’.i-	ERG	ABS	TR	TR	aslan.a šawlar lik’.i-ne	PN(ERG) штаны надевать.PF-AOR	‘Аслан надел штаны.’			
+81	51	*	*	*	*		me šeʔ.ü-n tːur kːompːas e	DEMM вещь-GEN имя компас COP	‘Этот предмет называется компас.’	Not included in the database because Y is expressed as an NP-internal modifier.		
+81	52	nakːazat q’.u-	ERG	ABS	TR	TR	aslan.a uč.i-n gada nakːazat q’.u-ne	PN(ERG) сам-GEN сын <наказать> делать.PF-AOR	‘Аслан наказал своего сына.’			
+81	53	alčiš.i-	ABS	SUPER	Y	ABS_SUPER	ʕurčaqban.di-l bengiš alčiš.i-ne	охотник-SUPER медведь {SUPER.LAT}прыгать.PF-AOR	‘Медведь напал на рыбака.’			
+81	54	ac’.u-	ABS	ERG	Y	ABS_ERG	bedra xitː.a ac’.u-ne	ведро вода(ERG) наполняться.PF-AOR	‘Ведро наполнилось водой.’			
+81	55	(qa-)ǯik’.i-	DAT	ABS	X	DAT_ABS	aslan.a-s güleg-ar (qa-)ǯik’.i-ne	PN-DAT ключ-PL RE-находить.PF-AOR	‘Аслан нашел ключи.’			
+81	56	hurk’.u + NEG	DAT	ABS	X	DAT_ABS	aslan.a-s sa manat hurk’.u-ndawa	PN-DAT один рубль быть.достаточным.PF-AOR:neg	‘Аслану недостает одного рубля.’			
+81	57	dušman-di + COP	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed dušman-di a	PN-DAT PN враг-ADV {IN}быть:PRS	‘Аслан ненавидит Магомеда.’	Non-verbal predicate.		
+81	58	begemiš-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s me berʜem begemiš-tːi a	PN-DAT DEMM рубашка <нравиться>-ADV {IN}быть:PRS	‘Аслану нравится эта рубашка.’	Non-verbal predicate.		
+81	59	gerek-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s pul gerek-tːi a	PN-DAT деньги нужный-ADV {IN}быть:PRS	‘Аслану нужны деньги.’	Non-verbal predicate.		
+81	60	aldark.u-naa	ABS	SUPER	Y	ABS_SUPER	šahar (jaq’u pːatː.a-k-as) cil-ar.i-l-di aldark.u-naa	город четыре сторона-SUB/CONT-ELAT стена-PL-SUPER-LAT обходить.PF-PRF	‘Стены окружают город.’ (букв. ‘Город обведен стенами с четырех сторон’).			
+81	61	fame-	APUD	ABS	X	APUD_ABS	aslan.a-w ic’u manat fame-a	PN-APUD 10 рубль {APUD}оставаться-PRS	‘У Аслана осталось 10 рублей.’			
+81	62	ǯuwab i-	ERG	DAT	Y	ERG_DAT	aslan.a müʡelim.di-s ǯuwab i-ne	PN(ERG) учитель-DAT ответ давать:PF-AOR	‘Аслан ответил учителю.’			
+81	63	daq.u-	ERG	ABS	TR	TR	aslan.a bankːa daq.u-ne	PN(ERG) банка открывать.PF-AOR	‘Аслан открыл банку.’			
+81	64	ǯüre-f + COP	ABS	SUPER.ELAT	Y	ABS_SUPER.ELAT	ze berʜem ǯüre-f e we-tː.i-l-as	я:GEN рубашка отдельный-NMLZ COP ты-NMLZ-SUPER-ELAT	‘Моя рубашка отличается от твоей.’	Non-verbal predicate.		
+81	65	qatːarx.u-	ABS	POST.ELAT	Y	ABS_POST.ELAT	aslan qatːarx.u-ne meʜemed.i-q-as	PN {POST.ELAT}попадать.PF-AOR PN-POST-ELAT	‘Аслан отстал от Магомеда.’			
+81	66	izan aq’.a-	ERG	ABS	TR	TR	aslan.a χupː-ur izan aq’.a-a	PN(ERG) поле-PL <пахота> делать.IPF-PRS	‘Аслан пашет поле.’			
+81	67	niʔ qa-	POST	GEN	XY	POST_GEN	ze χil-ar.i-q binzin.i niʔ qa-a	я:GEN рука-PL-POST бензин(GEN) запах {POST}быть-PRS	‘Мои руки пахнут бензином.’	NP in the genitive is arguably a clause-level dependent.		
+81	68	te qːʷal.a-s ajč’.u-	*	*	*		aslan reqː.ü-n te qːʷal.a-s ajč’.u-ne	PN дорога-GEN DEMT сторона-DAT {IN}вылезать.PF-AOR	‘Аслан пересек дорогу.’ (букв. ‘Аслан оказался на другой стороне дороги).’	Not included in the database because Y is expressed as an NP-internal modifier.		
+81	69	q’.u-	ERG	ABS	TR	TR	aslan.a sa bat’ar meʕni q’.u-ne	PN(ERG) один красивый песня делать.PF-AOR	‘Аслан спел красивую песню.’			
+81	70	lik’.i-	ERG	ABS	TR	TR	aslan.a k’eǯ lik’.i-ne	PN(ERG) письмо писать.PF-AOR	‘Аслан написал письмо.’			
+81	71	uχ.u-	ERG	ABS	TR	TR	aslan.a nekː uχ.u-ne	PN(ERG) молоко пить.PF-AOR	‘Аслан выпил молоко.’			
+81	72	uc’.u-	ERG	ABS	TR	TR	aslan.a qːurqːušum uc’.u-ne	PN(ERG) свинец таять.PF-AOR	‘Аслан расплавил кусок свинца.’			
+81	73	düx.e-	ABS	DAT	Y	ABS_DAT	me č’il ze berʜem.i-s düx.e-a	DEMM пояс я:GEN рубашка-DAT соответствовать.IPF-PRS	‘Этот пояс подходит к моему платью.’			
+81	74	at.u-	ERG	ABS	TR	TR	aslan.a uč ruχ.u šahar at.u-ne	PN(ERG) сам родиться.PF город оставлять.PF-AOR 	‘Аслан покинул родной город.’			
+81	75	fac.a-	ERG	ABS	TR	TR	q’adilq’ʷan.di k’ildi ǯil fac.a-a 	ковер(ERG) целиком земля хватать.IPF-PRS	‘Ковер покрывает весь пол.’			
+81	76	jurk’.ura-l alme-	GEN	ABS	X	GEN_ABS	aslan.a-n jurk’.ura-l alme-a χal	PN-GEN сердце-SUPER {SUPER}оставаться-PRS дом	‘Аслан хорошо помнит дом.’	NP in the genitive is arguably a clause-level dependent.		
+81	77	kümek q’.u-	ERG	DAT	Y	ERG_DAT	aslan.a meʜemed.i-s kümek q’.u-ne	PN(ERG) PN-DAT помощь делать.PF-AOR	‘Аслан помог Магомеду.’			
+81	78	ʁawur.di arx.a-	DAT	GEN	XY	DAT_GEN	aslan.a-s ʡurus č’al.a-n ʁawur.di arx.a-a	PN-DAT русский речь-GEN понимание(IN) {IN}попадать.IPF-PRS	‘Аслан понимает русский язык.’	NP in the genitive is arguably a clause-level dependent.		
+81	79	jarʜ.u-	ERG	DAT	Y	ERG_DAT	c’ajlapan.di χul.a-s jarʜ.u-ne	молния(ERG) дом-DAT бить.PF-AOR	‘Молния попала в дом.’			
+81	80	at’.u-	ERG	SUPER.LAT	Y	ERG_SUPER.LAT	aslan.a uč.i-n muʔul at’.u-ne lezwi-l-di	PN(ERG) сам-GEN губа резать.PF-AOR лезвие-SUPER-LAT	‘Аслан порезал себе губу бритвой.’			
+81	81	küqː.u-	ABS	SUBCONT	Y	ABS_SUBCONT	istːikan ustːul.i-k küqː.u-ne	стакан стол-SUB/CONT {SUB/CONT}застревать.PF-AOR	‘Стакан прилип к столу.’			
+81	82	aq x.u-	ABS	SUPER.ELAT	Y	ABS_SUPER.ELAT	aslan meʜemed.i-l-as aq x.u-ne	PN PN-SUPER-ELAT вниз стать.PF-AOR	‘Аслан проиграл Магомеду.’			
+81	83	šad-x.u-	ABS	DAT	Y	ABS_DAT	aslan k’eǯ.ü-s šad-x.u-ne	PN письмо-DAT радостный-стать.PF-AOR	‘Аслан обрадовался письму.’			
+81	84	raχ.a-	ABS	COMIT	Y	ABS_COMIT	aslan meʜemed.i-qaj raχ.a-a	PN PN-COMIT разговаривать.IPF-PRS	‘Аслан разговаривает с Магомедом.’			
+81	85	ruχ.u-	DAT	ABS	X	DAT_ABS	fat’im.i-s gada ruχ.u-ne	PN-DAT сын родиться.PF-AOR	‘Фатима родила сына.’			
+81	86	adarx.u-	APUD.ELAT	ABS	X	APUD.ELAT_ABS	aslan.a-f-as istːik’an adarx.u-ne	PN-APUD-ELAT стакан падать.PF-AOR	‘Аслан уронил стакан.’			
+81	87	aʜa-f + COP	ABS	GEN	Y	ABS_GEN	aslan če ʜür.i-n aʜa-f e	PN мы:GEN село-GEN большой-NMLZ COP	‘Аслан руководит нашим поселком.’	NP in the genitive is arguably a clause-level dependent. Non-verbal predicate.		
+81	88	dariχ x.u-	ABS	POST.LAT	Y	ABS_POST.LAT	aslan dariχ x.u-naa baw.a-q-tːi	PN скучать стать.PF-PRF мать-POST-LAT	‘Аслан скучает по матери.’			
+81	89	ʕʷ.a-	ABS	GENxupaqas	Y	ABS_GENxupaqas	aslan meʜemed.i-n χupːaq-as ʕʷ.a-a	PN PN-GEN сзади-ELAT идти.IPF-PRS	‘Аслан следует за Магомедом.’			
+81	90	alajč’.u-	ABS	SUPER.ELAT	Y	ABS_SUPER.ELAT	aslan ʜajwan.di-l-as alajč’.u-ne	PN лошадь-SUPER-ELAT {SUPER}вылезать.PF-AOR	‘Аслан слез с лошади.’			
+81	91	ubur qix.i-	ERG	POST	Y	ERG_POST	aslan.a radi-q ubur qix.i-naa	PN(ERG) радио-POST ухо {POST}класть.PF-PRF	‘Аслан слушает радио.’			
+81	92	ubur lix.a-	ERG	SUPER	Y	ERG_SUPER	aslan.a baw.a-l ubur lix.a-a	PN(ERG) мать-SUPER ухо {SUPER}класть.IPF-PRS	‘Аслан слушается маму.’			
+81	93	un-x.a-	DAT	ABS	X	DAT_ABS	aslan.a-s muq’am-ar un-x.a-a	PN-DAT мелодия-PL звук-стать.IPF-PRS	‘Аслан слышит музыку.’			
+81	94	uc’.u-	ABS	INTER	Y	ABS_INTER	ütː uc’.u-ne nekː.di-ʕ	мед таять.PF-AOR молоко-INTER	‘Мед смешался с молоком’. (букв. ‘Мед растворился в молоке’).			
+81	95	χutːurf.a-	ABS	DAT	Y	ABS_DAT	aslan dif-ar.i-s χutːurf.a-a	PN туман-PL-DAT смотреть.IPF-PRS	‘Аслан смотрит на тучи.’			
+81	96	latːaq.u-	ERG	ABS	TR	TR	aslan.a berʜem latːaq.u-ne	PN(ERG) рубашка снимать.PF-AOR	‘Аслан снял рубашку.’			
+81	97	agʷ.a- ʡemk’.e-k-as	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed agʷ.a-a ʡemk’.e-k-as	PN-DAT PN видеть.IPF-PRS сон-SUB/CONT-ELAT	‘Аслану снится Магомед.’			
+81	98	rezi x.u-	ABS	COMIT	Y	ABS_COMIT	aslan rezi x.u-ne baw.a-qaj	PN довольный стать.PF-AOR мать-COMIT	‘Аслан согласился с матерью.’			
+81	99	qel aq’.u-	ERG	COMIT	Y	ERG_COMIT	aslan.a meʜemed.i-qaj qel aq’.u-ne	PN(ERG) PN-COMIT обида делать.PF-AOR	‘Аслан поссорился с Магомедом.’			
+81	100	q’imat + COP	GEN	ABS	X	GEN_ABS	me qːab.u-n q’imat ic’u manat e	DEMM посуда-GEN цена 10 рубль COP	‘Эта чашка стоит десять рублей.’	NP in the genitive is arguably a clause-level dependent. Non-verbal predicate.		
+81	101	tufang.i-as jarʜ.u-	ERG	DAT	Y	ERG_DAT	aslan.a tufang.i-as jarʜ.u-ne ǯaq’ʷ.ala-s	PN(ERG) ружье-(IN)ELAT бить.PF-AOR воробей-DAT	‘Аслан выстрелил в воробья.’			
+81	102	aq.u-	ERG	ABS	TR	TR	aslan.a pusuk’ aq.u-ne kuruškː.i-ʔ	PN(ERG) сахар.песок {IN}сыпать.PF-AOR кружка-IN	‘Аслан насыпал сахар в кружку.’			
+81	103	gul.u-	APUD.ELAT	ABS	X	APUD.ELAT_ABS	aslan.a-f-as güleg-ar gul.u-ne	PN-APUD-ELAT ключ-PL исчезать.PF-AOR	‘Аслан потерял ключи.’			
+81	104	ʕarx.u-na ahajš.u-	ABS	INTER	Y	ABS_INTER	c’aχun xitː.a-ʕ ʕarx.u-na ahajš.u-ne 	бревно вода-INTER {INTER}попадать.PF-CONV оседать.PF-AOR	‘Полено утонуло в воде.’			
+81	105	k’.i-	ERG	ABS	TR	TR	aslan.a meʜemed k’.i-ne	PN(ERG) PN убивать.PF-AOR	‘Аслан убил Магомеда.’			
+81	106	ačarx.u-	ERG	IN	Y	ERG_IN	aslan.a meʜemed.i-ʔ ačarx.u-ne	PN(ERG) PN-IN {IN.LAT}попадать.PF-AOR	‘Аслан ударил Магомеда.’			
+81	107	p’ac’ ik’.i-	ERG	DAT	Y	ERG_DAT	aslan.a šünükː.i-s p’ac’ ik’.i-ne	PN(ERG) ребенок-DAT поцелуй {IN}совать.PF-AOR	‘Аслан поцеловал ребенка.’			
+81	108	ruχ.u-	ERG	ABS	TR	TR	aslan.a sa iǯe kitab ruχ.u-ne	PN(ERG) один хороший книга читать.PF-AOR	‘Аслан прочитал хорошую книгу.’			
+81	109	t’ušar-q’.u-	ERG	ABS	TR	TR	aslan.a t’ub-ar t’ušar-q’.u-ne	PN(ERG) палец-PL шевелить-делать.PF-AOR	‘Аслан пошевелил пальцем.’			
+81	110	uwažat q’.a-	ERG	ABS	TR	TR	aslan.a meʜemed uwažat q’.a-a	PN(ERG) PN <уважать> делать.IPF-PRS	‘Аслан уважает Магомеда.’			
+81	111	karih-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s kur.u qːab-ar karih-tːi a	PN-DAT пачкаться.PF посуда-PL вызывающий.брезгливость-ADV {IN}быть:PRS	‘Аслан брезгует грязной посудой.’	Non-verbal predicate.		
+81	112	rezi-di + COP	ABS	SUPER	Y	ABS_SUPER	aslan uč.i-n gada.ji-l rezi-di a 	PN сам-GEN сын-SUPER довольный-ADV {IN}быть:PRS	‘Аслан доволен своим сыном.’	Non-verbal predicate.		
+81	113	kːan-x.u-	DAT	ABS	X	DAT_ABS	aslan.a-s fat’ima kːan-x.u-ne	PN-DAT PN любить-стать.PF-AOR	‘Аслан влюбился в Фатиму.’			
+81	114	quχ.a-	ABS	POST	Y	ABS_POST	aslan uč.i-n čːučːu-q quχ.a-a	PN сам-GEN брат-POST верить.IPF-PRS	‘Аслан доверяет своему брату.’			
+81	115	ʜajif-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s uč.i-n baw ʜajif-tːi a	PN-DAT сам-GEN мать жалкий-ADV {IN}быть:PRS	‘Аслан жалеет свою мать.’	Non-verbal predicate.		
+81	116	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
+81	117	qel ke-	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s meʜemed.i-k-as qel ke-a	PN-DAT PN-SUB/CONT-ELAT обида {SUB/CONT}быть-PRS	‘Аслан злится на Магомеда.’			
+81	118	ʡalamat  x.u-	ABS	SUPER	Y	ABS_SUPER	aslan ʡalamat x.u-ne [uč.i-s aq’.u peškeš.i-l]	PN удивительный стать.PF-AOR сам-DAT делать.PF(ptcp) подарок-SUPER	‘Аслан удивился подарку, который ему подарили.’			
+81	119	kːan-e-f- +COP	DAT	ABS	X	DAT_ABS	aslan.a-s čaj kːan-e-f-e	PN-DAT чай любить-ptcp-NMLZ-COP	‘Аслан любит чай.’	Non-verbal predicate.		
+81	120	*	*	*	*		aslan.a ʡašqː.una-l-di čaj uχ.a-a	PN(ERG) страсть-SUPER-LAT чай пить.IPF-PRS	‘Аслан пьет чай с наслаждением.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination 		
+81	121	kːande-	DAT	ABS	X	DAT_ABS	aslan.a-s c’aje tilifun kːande-a	PN-DAT новый телефон хотеть-PRS	‘Аслан хочет новый мобильник.’			
+81	122	qel ke-	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s meʜemed.i-k-as qel ke-a	PN-DAT PN-SUB/CONT-ELAT обида {SUB/CONT}быть-PRS	‘Аслан сердится на Магомеда.’			
+81	123	qel aq’.u-	ERG	COMIT	Y	ERG_COMIT	aslan.a meʜemed.i-qaj qel aq’.u-ne	PN(ERG) PN-COMIT обида делать.PF-AOR	‘Аслан обиделся на Магомеда.’			
+81	124	pašman q’.u-	ERG	ABS	TR	TR	aslan.a meʜemed pašman q’.u-ne	PN(ERG) PN печальный делать.PF-AOR	‘Аслан очень огорчил Магомеда.’			
+81	125	ʡalamat  x.u-	ABS	SUPER	Y	ABS_SUPER	aslan ʡalamat x.u-ne me šahar.di-l	PN удивительный стать.PF-AOR DEMM город-SUPER	‘Аслан поразился этому городу.’			
+81	126	alčaq-tːi fac.u-	ERG	ABS	TR	TR	aslan.a uč.i-n ču alčaq-tːi fac.u-naa	PN(ERG) сам-GEN брат презренный-ADV держать.PF-PRF	‘Аслан презирает своего брата.’			
+81	127	*	*	*	*		*	*	*	Not included in the database because Y can only be expressed as an NP within a dependent clause.		
+81	128	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
+81	129	begemiš-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed begemiš-tːi a	PN-DAT PN <нравиться>-ADV {IN}быть:PRS	‘Аслан симпатизирует Магомеду.’	Non-verbal predicate.		
+81	130	neč-tːi + COP	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s uč.i-n ǯiqːe-ʕʷel.i-k-as neč-tːi a	PN-DAT сам-GEN короткий-ABSTR-SUB/CONT-ELAT стыд-ADV {IN}быть:PRS	‘Аслан стесняется своего маленького роста.’	Non-verbal predicate.		
 85	1	ruqχ’.u	GEN	NOM	X	GEN_NOM	ali-r miar ruqχ’.u-r	PN.OBL-INAN2(GEN) head[INAN2][NOM] ache.PST-PROG	‘Ali has a headache.’			
 85	2	ruqχ’.udo	NOM	COM	Y	NOM_COM	ali ruqχ’.udo honqχ’isːol=loj	PN[M][NOM] ache.PST.PRS influenza=COM	‘Ali has the flu.’			
 85	3	sːir.i	NOM	CONT	Y	NOM_CONT	ali χʷe-tʃ’u sːir.i-r	PN[M][NOM] dog.OBL-CONT fear.PST-PROG	‘Ali fears the dog.’			
