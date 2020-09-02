@@ -45,7 +45,7 @@
 
     function getPredicateLink(predicate) {
         let filename = predicate.replace(/[# ]/g, '') + '.html';
-        return `${predicate} (<a class="table-link" href="../../predicates/pred/${filename}">⤤</a>)`
+        return `<a class="table-link" href="../../predicates/pred/${filename}">link</a>`
     }
 
     function populateSelectFromArray(select, arr) {
@@ -92,16 +92,37 @@
         let colsToSelect = colsPrefix.concat(colsSuffix),
             currentDf = patternsDf.select(...colsToSelect);
 
-        // Add links and html rendering for predicate labels
+        const predLabelIdx = colsToSelect.indexOf('predicate_label_en');
+        colsToSelect.splice(predLabelIdx+1, 0, 'predicate_link');
+        currentDf = currentDf.restructure(colsToSelect);
+
+        const colnames = colsToSelect.map(colname => {
+            switch (colname) {
+                case 'predicate_no':
+                    return 'predicate no';
+                case 'predicate_label_en':
+                    return 'predicate';
+                case 'predicate_label_en_link':
+                    return 'predicate link';
+                case 'argument_frame_en':
+                    return 'argument frame';
+                default:
+                    return colname;
+            }
+        })
+
+        // Add links and html rendering for predicate links
         let columns = currentDf.listColumns()
             .map(colname => {
-                if (colname === 'predicate_label_en')
+                if (colname === 'predicate_link')
                     return {renderer: 'html'};
                 else
                     return {renderer: 'text'}
             });
+
+
         currentDf = currentDf.map(row => row.set(
-            'predicate_label_en',
+            'predicate_link',
             getPredicateLink(row.get('predicate_label_en'))
         ));
 
@@ -109,7 +130,7 @@
         patternsTable = new Handsontable(container, {
             licenseKey: 'non-commercial-and-evaluation',
             data: currentDf.toArray(),
-            colHeaders: currentDf.listColumns(),
+            colHeaders: colnames,
             editor: false,
             rowHeaders: false,
             filters: true,
