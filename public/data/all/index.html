@@ -138,12 +138,12 @@
         }
         if (language === undefined)
             throw `Could not locate language ${lang_external} in the language table.`;
-        return `${lang_external} (<a class="table-link" href="../../languages/descriptions/${language}.html">⤤</a>)`
+        return `<a class="table-link" href="../../languages/descriptions/${language}.html">link</a>`
     }
 
     function getPredicateLink(predicate) {
         let filename = predicate.replace(/[# ]/g, '') + '.html';
-        return `${predicate} (<a class="table-link" href="../../predicates/pred/${filename}">⤤</a>)`
+        return `<a class="table-link" href="../../predicates/pred/${filename}">link</a>`
     }
 
     function redraw() {
@@ -161,18 +161,26 @@
             }
         }
 
-        // Process glosses.
+        // Add link columns
         let currentDf = fullDf.select(...cols);
-        currentDf = currentDf
-            .map(row => row.set('glosses_en', addSmallCaps(row.get('glosses_en'))))
-            .map(row => row.set('language', getLanguageLink(row.get('language'))))
-            .map(row => row.set('predicate', getPredicateLink(row.get('predicate'))));
+        const langIdx = cols.indexOf('language');
+        cols.splice(langIdx+1, 0, 'language_link');
+        const predicateIdx = cols.indexOf('predicate');
+        cols.splice(predicateIdx+1, 0, 'predicate_link');
+        currentDf = currentDf.restructure(cols);
+
+        // Process glosses and links
+        currentDf = currentDf.chain(
+            row => row.set('glosses_en', addSmallCaps(row.get('glosses_en'))),
+            row => row.set('language_link', getLanguageLink(row.get('language'))),
+            row => row.set('predicate_link', getPredicateLink(row.get('predicate')))
+        );
         if (byId('russian_meta').checked)
             currentDf = currentDf.map(row => row.set('glosses_ru', addSmallCaps(row.get('glosses_ru'))));
 
         let columns = [];
         for (const colname of cols) {
-            if (colname === 'glosses_en' || colname === 'glosses_ru' || colname === 'language' || colname === 'predicate')
+            if (colname === 'glosses_en' || colname === 'glosses_ru' || colname === 'language_link' || colname === 'predicate_link')
                 columns.push({renderer: 'html'});
             else
                 columns.push({renderer: 'text'});
