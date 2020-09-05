@@ -3,3 +3,4 @@ todo.md
 *.swp
 *#
 .idea/
+scripts/patterns_check.log
