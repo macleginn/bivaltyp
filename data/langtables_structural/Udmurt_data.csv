@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+72	Udmurt	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	висьыны 	GEN	NOM	X	GEN_NOM	"Тот же глагол, но другая рамка, чем в (2). Разрыв возможен. Света пишет, что это ""внешний посессор""."						
+72	Udmurt	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	висьыны 	NOM	INS	Y	NOM_INS	Тот же глагол, но другая рамка, чем в (1)						
+72	Udmurt	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	кышканы	NOM	ABL	Y	NOM_ABL							
+72	Udmurt	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	куштыны	TR			TR							
+72	Udmurt	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	тырмыны 	GEN	NOM	X	GEN_NOM	"Тот же глагол, что 54. GEN-NOM разывать можно, то есть это ""внешний посессор"" (Света). Есть вариант DAT-NOM у нескольких студентов"						
+72	Udmurt	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	тупаны	NOM	DAT	Y	NOM_DAT	"Тот же глагол, что 73. Есть еще варианты: 1) с той же моделью управления: глагол укшаны, 2) и с предикатом тус (""облик, вид"") с моделью NOM_NOM, точнее что-то вроде ""Петя [дедушка облик]"", где второе -- нормальное атрибутивное сочетание"						
+72	Udmurt	7	believe	X (believe) Y	верить	X (верить)Y-у	оскыны	NOM	DAT	Y	NOM_DAT	То же, что 114						
+72	Udmurt	8	take	X (take) Y	взять	X (брать) Y(-а)	басьтыны	TR			TR	Еще есть вариант кутыны, тоже TR						
+72	Udmurt	9	see	X (see) Y	видеть	X (видеть) Y(-а)	адӟыны 	TR			TR							
+72	Udmurt	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	влиять карыны	NOM	NOMvyle	Y	NOM_NOMvyle	CV. Заимствование из русского + легкий глагол. Такую модель выбрали два студента, еще один -- NOM_DAT.						
+72	Udmurt	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	пумиськыны	NOM	INS	Y	NOM_INS	REFL (от встречать)						
+72	Udmurt	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	пырыны	NOM	ILL	Y	NOM_ILL							
+72	Udmurt	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	вормыны	TR			TR							
+72	Udmurt	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	потыны	NOM	ELA	Y	NOM_ELA	Выглядит так же, как незасчитанный хотеть (121)						
+72	Udmurt	15	drive	X (drive) Y	гнать	X (гнать) Y-а	улляны	TR			TR							
+72	Udmurt	16	bend	X (bend) Y	гнуть	X (гнуть) Y	куасаны	TR			TR							
+72	Udmurt	17	tell	X (tell) Y	говорить	X (говорить) Y-у	вераны	NOM	DAT	Y	NOM_DAT							
+72	Udmurt	18	hold	X (hold)Y	держать	X (держать) Y(-а)	возьыны	TR			TR							
+72	Udmurt	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	сутыны	TR			TR							
+72	Udmurt	20	milk	X (milk) Y	доить	X (доить) Y-а	кыскыны	TR			TR							
+72	Udmurt	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	вуыны	NOM	TERM	Y	NOM_TERM	Есть еще вариант NOM_ILL с тем же глаголом						
+72	Udmurt	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	йöтскыны	NOM	NOMbordy	Y	NOM_NOMbordy	"REFL (от глагола ""потрогать"", который точно можно использовать в конструкции типа ""Х потрогал Z-ом (ACC) Y (ILL)). Есть еще глагол исаны, TR, он переведен как ""потрогал"""						
+72	Udmurt	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	жугиськыны	NOM	INS	Y	NOM_INS	REFL от бить						
+72	Udmurt	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	эшъяськыны	NOM	INS	Y	NOM_INS	"REFL от ""друг"""						
+72	Udmurt	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	малпаны	NOM	NOMsjarys	Y	NOM_NOMsjarys	"То же, что ""мечтать"" (48)"						
+72	Udmurt	26	eat	X (eat) Y	есть	X (есть) Y	сиыны	TR			TR							
+72	Udmurt	27	fry	X (fry) Y	жарить	X (жарить) Y	пыжыны	TR			TR							
+72	Udmurt	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	возьманы	TR			TR	Есть еще вариант витьыны, тоже TR						
+72	Udmurt	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	вунэтыны	NOM	NOMsjarys	Y	NOM_NOMsjarys	Есть еще вариант TR с тем же глаголом, выбирался реже; увы, это может быть простым копированием русской структуры, но варианта лучше все равно нет						
+72	Udmurt	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	зависеть карыны	NOM	ABL	Y	NOM_ABL	CV. Заимствование из русского + легкий глагол. 						
+72	Udmurt	31	call	X (call) Y	звать	X (звать) Y-а	ӧтьыны	TR			TR							
+72	Udmurt	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	тодматскыны	NOM	INS	Y	NOM_INS	"REFL от ""знакомить"""						
+72	Udmurt	33	know	X (know) Y	знать 	X (знать) Y-а	тодыны	TR			TR							
+72	Udmurt	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	шудыны	NOM	INS	Y	NOM_INS							
+72	Udmurt	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	пеганы	NOM	ABL	Y	NOM_ABL							
+72	Udmurt	36	make	X (make) Y	изготовить	X (изготовить) Y	лэсьтыны	TR			TR							
+72	Udmurt	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	*	*		*		"Нет адекватного перевода у Светы; у студенток в лучшем случае перевод слово за слово (""над"")"						
+72	Udmurt	38	have	X (have) Y	иметь	X (иметь) Y	вань	GEN	NOM	X	GEN_NOM	"Видимо, это тоже ""внешний посессор"" -- не компонент ИГ."						
+72	Udmurt	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	утчаны	TR			TR							
+72	Udmurt	40	paint	X (paint) Y	красить	X (красить) Y	буяны	TR			TR							
+72	Udmurt	41	bite	X (bite) Y	кусать	X (кусать) Y-а	куртчыны	TR			TR							
+72	Udmurt	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	кыльыны	NOM	ABE	Y	NOM_ABE	"Тот же глагол, что 61, 65 и 96. Букв. ""остался без"""						
+72	Udmurt	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	уйылыны	TR			TR							
+72	Udmurt	44	break	X (break) Y	ломать	X (ломать) Y	чигтыны	TR			TR	Есть еще вариант тӥяны, тоже TR						
+72	Udmurt	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*	*		*		Хорошего перевода у Светы нет, у студенток по-разному, два раза встретилось заимствование с легким глаголом (NOM_DAT), не засчитываю						
+72	Udmurt	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	яратыны	TR			TR	То же, что 119						
+72	Udmurt	47	wave	X (wave) Y	махать	X (махать) Y-ом	шонаны	NOM	INS	Y	NOM_INS	"Этот глагол подходит для ""махать рукой""; для махать, например, флагом есть еще сэзъяны, управление то же"						
+72	Udmurt	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	малпаны	NOM	NOMsjarys	Y	NOM_NOMsjarys	"То же, что ""думать"" (25)"						
+72	Udmurt	49	wash	X (wash) Y	мыть	X (мыть) Y	миськыны	TR			TR							
+72	Udmurt	50	put_on	X (put_on) Y	надевать	X (надевать) Y	дӥсяны	TR			TR							
+72	Udmurt	51	be_called	X (be_called) Y	называться	X (называться) Y	нимаськыны	NOM	NOM	Y	NOM_NOM	REFL						
+72	Udmurt	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	куаретыны	TR			TR	"КШ: ""Света ничего не придумала, студентки переводили разными способами, но везде аккузатив."""						
+72	Udmurt	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	урдӥськыны	NOM	NOMvyle	Y	NOM_NOMvyle	"REFL. КШ: ""Света ничего не придумала, студентки переводили разными глаголами, но все с вылэ."""						
+72	Udmurt	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	тырмыны	NOM	INS	Y	NOM_INS	Тот же глагол, что 5.						
+72	Udmurt	55	find	X (find) Y	находить	X (находить) Y(-а)	шедьтыны	TR			TR							
+72	Udmurt	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG + тырмыны	GEN	NOM	X	GEN_NOM	Это NEG + тот глагол, что в 5. Управление -- вариант Светы. У студенток DAT-NOM. Строго говоря, тут та же проблема с составляющими, что везде в таких случаях.						
+72	Udmurt	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	адӟем-POSS уг поты	GEN	ACC	XY	GEN_ACC	"CV, букв. ""у Х-а не хочется видеть Y-а"""						
+72	Udmurt	58	like	X (like) Y	нравиться	X-у (нравиться) Y	кельшыны	DAT	NOM	X	DAT_NOM	Есть еще вариант яраны, то же управление						
+72	Udmurt	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	кулэ	DAT	NOM	X	DAT_NOM	NV, при этом предикат выражен модальной частицей, которая в отличие от других неглагольных предикатов, используется безо всякой связки.						
+72	Udmurt	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	котыртыны 	TR			TR							
+72	Udmurt	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	кыльыны	GEN	NOM	X	GEN_NOM	Тот же глагол, что 65 (отставать), 42 и 96. По идее традиционный вопрос о составляющих						
+72	Udmurt	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	вазьыны	NOM	DAT	Y	NOM_DAT							
+72	Udmurt	63	open	X (open) Y	открывать	X (открывать) Y	усьтыны	TR			TR							
+72	Udmurt	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	пöртэм	NOM	ABL	Y	NOM_ABL	NV						
+72	Udmurt	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	кыльыны	NOM	ABL	Y	NOM_ABL	Тот же глагол, что 61 (оставаться), 42 и 96						
+72	Udmurt	66	plough	X (plough) Y	пахать	X (пахать) Y	гырыны 	TR			TR							
+72	Udmurt	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	зын	NOM	NOM	Y	NOM_NOM	"NV. Это что-то вроде ""мои руки бензин запах"", без маркеров вообще. При этом возможно на месте ""бензиа"" нормальная ИГ, например, ""твои духи"""						
+72	Udmurt	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	выжыны	NOM	NOMvamen	Y	NOM_NOMvamen	"КШ: ""Светин вариант, у студенток есть ACC."""						
+72	Udmurt	69	sing	X (sing) Y	петь	X (петь) Y	кырӟаны	TR			TR							
+72	Udmurt	70	write	X (write) Y	писать	X (писать) Y	гожъяны	TR			TR							
+72	Udmurt	71	drink	X (drink) Y	пить	X (пить) Y	юыны	TR			TR							
+72	Udmurt	72	melt	X (melt) Y	плавить	X (плавить) Y	шунтыны	TR			TR							
+72	Udmurt	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	тупаны	NOM	DAT	Y	NOM_DAT	Тот же глагол, что 6.						
+72	Udmurt	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	кошкыны	NOM	ELA	Y	NOM_ELA	Этот вариант выбрали 4 из 7. Остальные просто TR с тем же глаголом						
+72	Udmurt	75	cover	X (cover) Y	покрывать	X (покрывать) Y	шобыртыны	TR			TR	"КШ: ""Света ничего не придумала, вариант большинства студенток."""						
+72	Udmurt	76	remember	X (remember) Y	помнить	X (помнить) Y-а	тод-INE возьыны	TR			TR	"CV. ""держать в памяти"""						
+72	Udmurt	77	help	X (help) Y	помочь	X (помогать) Y-у	юрттыны	NOM	DAT	Y	NOM_DAT							
+72	Udmurt	78	understand	X (understand) Y	понимать	X (понимать) Y	валаны	NOM	NOMsjamen	Y	NOM_NOMsjamen	"Это что-то вроде ""понимает на французском""; то же слово используется в выражениях типа ""по-моему"", ""по-новому""; но его можно присоединить и к ""французский язык"". У студенток переходная конструкция, как в конструкциях типа ""понимать вопрос"""						
+72	Udmurt	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	шедьыны	NOM	ILL	Y	NOM_ILL							
+72	Udmurt	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	вандӥськыны	NOM	INS	Y	NOM_INS	REFL от резать						
+72	Udmurt	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	лякиськыны	NOM	NOMbordy	Y	NOM_NOMbordy	REFL от прилеплять						
+72	Udmurt	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	келяны	NOM	DAT	Y	NOM_DAT							
+72	Udmurt	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	шумпотыны	NOM	DAT	Y	NOM_DAT							
+72	Udmurt	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	вераськыны	NOM	INS	Y	NOM_INS	REFL от говорить						
+72	Udmurt	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	вайыны	TR			TR	"Этот глагол буквально означает ""принести"". Есть еще вариант ворд-, это специализированный глагол ""рожать"", он тоже TR"						
+72	Udmurt	86	drop	X (drop) Y	ронять	X (ронять) Y	уськытыны	TR			TR							
+72	Udmurt	87	govern	X (govern) Y	руководить	X (руководить) Y	кивалтыны	NOM	INS	Y	NOM_INS							
+72	Udmurt	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	мöзмыны	NOM	ABL	Y	NOM_ABL							
+72	Udmurt	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	мыныны	NOM	NOMsory	Y	NOM_NOMsory	"Букв. ""идти за Y-ом"""						
+72	Udmurt	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	васькыны	NOM	NOMvylys	Y	NOM_NOMvylys	REFL от спустить.						
+72	Udmurt	91	listen	X (listen) to Y	слушать	X (слушать) Y	кылзыны	TR			TR							
+72	Udmurt	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	кылзӥськыны	NOM	ABL	Y	NOM_ABL	"REFL от ""слушать"" (91)"						
+72	Udmurt	93	hear	X (hear) Y	слышать	X (слышать) Y	кылыны	TR			TR							
+72	Udmurt	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	сураськыны	NOM	INS	Y	NOM_INS	REFL						
+72	Udmurt	95	look	X (look) at Y	смотреть	X (смотреть) на Y	учкыны	NOM	NOMshory	Y	NOM_NOMshory							
+72	Udmurt	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	кыльыны	TR			TR	Тот же глагол, что 42, 61 и 65						
+72	Udmurt	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	вöтаны	TR			TR	"Есть еще вариант CV (""видеть во сне""), тоже TR"						
+72	Udmurt	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	соглаш	NOM	INS	Y	NOM_INS	"NV, заимствование (букв. ""соглаш быть"")"						
+72	Udmurt	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	керетыны	NOM	INS	Y	NOM_INS							
+72	Udmurt	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	сылыны	NOM	NOM	Y	NOM_NOM	Есть длинное обсуждение, но внятного результата нет. Второй актант, когда это цена, оформляется номинативом, но, например, местоимение здесь использовать, видимо, затруднительно. При этом Света пишет, что тут именно NOM и NOM.						
+72	Udmurt	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ыбыны	NOM	NOMshory	Y	NOM_NOMshory	Есть еще вариант TR, особенно у студенток, но Света (и словарь) говорят, что это если попал						
+72	Udmurt	102	pour	X (pour) Y	сыпать	X (сыпать) Y	пызьнаны	TR			TR							
+72	Udmurt	103	lose	X (lose) Y	терять	X (терять) Y	ыштыны	TR			TR							
+72	Udmurt	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	выйыны	NOM	ILL	Y	NOM_ILL							
+72	Udmurt	105	kill	X (kill) Y	убивать	X (убивать) Y-а	виыны 	TR			TR							
+72	Udmurt	106	hit	X (hit) Y	ударить	X (ударять) Y-а	шуккыны	TR			TR							
+72	Udmurt	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	чупаны	TR			TR							
+72	Udmurt	108	read	X (read) Y	читать	X (читать) Y-а	лыдӟыны	TR			TR							
+72	Udmurt	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	выр(е)тыны	TR			TR	Так у Светы и в словаре; у студенток NOM_INS						
+72	Udmurt	110	respect	X (respect) Y	уважать	X (уважать) Y-а	гажаны	TR			TR							
+72	Udmurt	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	юрдыны	NOM	ABL	Y	NOM_ABL							
+72	Udmurt	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	данъяськыны	NOM	INS	Y	NOM_INS	"REFL. КШ: ""Света ничего не придумала, у 3/5 студенток данъяськыны, словарь управление подтверждает"""						
+72	Udmurt	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	синмаськыны	NOM	DAT	Y	NOM_DAT	"REFL от какого-то редкого глагола типа ""приметить"", связанного со словом ""глаз"""						
+72	Udmurt	114	trust	X (trust) Y	доверять	X (доверять) Y-у	оскыны	NOM	DAT	Y	NOM_DAT	То же, что 7						
+72	Udmurt	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жаляны	TR			TR	Заимствование из русского, но глагол						
+72	Udmurt	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	вожъяськыны	NOM	DAT	Y	NOM_DAT	REFL от ревновать						
+72	Udmurt	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	йыр-POSS кур	GEN	DAT	XY	GEN_DAT	"(Только тот же перевод, что для 122). NV, сложный предикат, букв. ""Пети на Машу голова сердитая"", это вариант Светы; КШ: ""у студенток разные глаголы с вылэ, в том числе и тот, о котором Света пишет, что он только без зависимых, йыркуръяськыны"""						
+72	Udmurt	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	абдраны	NOM	DAT	Y	NOM_DAT	Есть еще вариант паймыны (он засчитывается для 125, поражаться), то же управление						
+72	Udmurt	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	яратыны	TR			TR	То же, что 46						
+72	Udmurt	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	куаныны	NOM	ABL	Y	NOM_ABL	"КШ: ""Светин вариант, у студенток разнообразие, но в том числе и такой перевод"""						
+72	Udmurt	121	want	X (want) Y	хотеть	X (хотеть) Y-а	потыны	*		*		"Глагол потыны выглядит так же, как выходить (14). Тут все непросто, обсуждается в файле с анкетой. КШ пишет: ""потыны ... почти всегда в значении ‘хотеть’ употребляется с номинализациями, вроде ‘хотеть есть’, ‘хотеть купить’ и т.п., поэтому такие употребления, как тут, толком не описаны. ... Подозреваю, что форма потэ там вообще всегда будет в таком виде."" (то есть ни с чем не согласовывается). Света эксплицитно отвергла безглагольное употребление (хотеть машину / мобильник и т.п.). Вместо этого предлагает ""нужно"", как в 59. Студентки массово использовали конструкцию с потэ и без посессивного показателя на ""мобильнике"", но мы им в данном случае не доверяем."						
+72	Udmurt	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	йыр-POSS кур	GEN	DAT	XY	GEN_DAT	"(Только тот же перевод, что для 117). NV, сложный предикат, букв. ""Пети на Машу голова сердитая"", это вариант Светы; КШ: ""у студенток разные глаголы с вылэ, в том числе и тот, о котором Света пишет, что он только без зависимых, йыркуръяськыны"". "						
+72	Udmurt	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	куатаськыны	NOM	NOMvyle	Y	NOM_NOMvyle	REFL (но в словаре соответствующего невозвратного нет)						
+72	Udmurt	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	ӝожомытыны	TR			TR	Есть еще вариант ӝoже уськытыны  (Огорчение упасть-CAUS), он тоже TR						
+72	Udmurt	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	паймыны	NOM	DAT	Y	NOM_DAT							
+72	Udmurt	126	despise	X (despise) Y	презирать	X (презирать) Y-а	кулэтэм карыны	TR			TR	"CV, букв. ""делать ненужным""; есть и другие варианты, но все с тем же управлением"						
+72	Udmurt	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	ӝоже усьыны 	NOM	INSseren	Y	NOM_INSseren	"CV, ""огорчение упасть"""						
+72	Udmurt	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	керӟегъяськыны	NOM	NOMvyle	Y	NOM_NOMvyle	"REFL (но в словаре соответствующего невозвратного нет). КШ: ""Варианты только от студенток, 4/5 дали ровно такой"""						
+72	Udmurt	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*		*		"Ничего интересного не предложено, только просто ""нравиться"""						
+72	Udmurt	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	возьдаськыны	NOM	ABL	Y	NOM_ABL	Уже не понять, есть тут REFL или нет -- ничего аналогичного без REFL не находится						

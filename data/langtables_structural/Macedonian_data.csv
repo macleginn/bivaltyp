@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+67	Macedonian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	боли	ACC	NP	X	ACC_NP							Здесь и далее отмечено, есть ли в примере аккузативная клитика. Тут: да, но относится к X
+67	Macedonian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	боледува	NP	od	Y	NP_od							
+67	Macedonian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	се плаши	NP	od	Y	NP_od	REFL						
+67	Macedonian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	фрли	TR		TR	TR							
+67	Macedonian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	има доволно	*		*		Не засчитываю, неправильная структура составляющих						
+67	Macedonian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	личи	NP	na	Y	NP_na	"Вариант со Маja, больше подходит для симметричной ситуации (они похожи друг на друга). В этом втором варианте перевода было ""си личи"", где си -- этический датив (себя-PRO.REFL.DAT). "						
+67	Macedonian	7	believe	X (believe) Y	верить	X (верить)Y-у	верува	NP	DAT(na)	Y	NP_DAT(na)	Тот же глагол и та же модель, что 114						
+67	Macedonian	8	take	X (take) Y	взять	X (брать) Y(-а)	зеде	TR		TR	TR							
+67	Macedonian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	гледа	TR		TR	TR	Тот же глагол, но другая конструкция, чем 95						да
+67	Macedonian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	влијае	NP	vrz	Y	NP_vrz							
+67	Macedonian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	се сретна	NP	so	Y	NP_so	REFL						
+67	Macedonian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	влезе	NP	vo	Y	NP_vo							
+67	Macedonian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	победи	TR		TR	TR							да
+67	Macedonian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	излезе	NP	od	Y	NP_od							
+67	Macedonian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	брка	TR		TR	TR	Тот же глагол и та же модель, что 43						да
+67	Macedonian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	наведна	TR		TR	TR							да
+67	Macedonian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	рече	NP	DAT(na)	Y	NP_DAT(na)							
+67	Macedonian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	држи	TR		TR	TR							да
+67	Macedonian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	стигна	TR		TR	TR	Тот же глагол, но другая конструкция, чем в 21						да
+67	Macedonian	20	milk	X (milk) Y	доить	X (доить) Y-а	измолзи	TR		TR	TR							да
+67	Macedonian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	стигна	NP	do	Y	NP_do	Тот же глагол, но другая конструкция, чем в 19						
+67	Macedonian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	се допре	NP	do	Y	NP_do	REFL						
+67	Macedonian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	се кара	NP	so	Y	NP_so	REFL						
+67	Macedonian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	се дружи	NP	so	Y	NP_so	REFL						
+67	Macedonian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	мисли	NP	na	Y	NP_na							
+67	Macedonian	26	eat	X (eat) Y	есть	X (есть) Y	изеде	TR		TR	TR							
+67	Macedonian	27	fry	X (fry) Y	жарить	X (жарить) Y	испржи	TR		TR	TR							
+67	Macedonian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	чека	TR		TR	TR							да
+67	Macedonian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	заборави	NP	za	Y	NP_za							
+67	Macedonian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	зависи	NP	od	Y	NP_od							
+67	Macedonian	31	call	X (call) Y	звать	X (звать) Y-а	викна	TR		TR	TR							да
+67	Macedonian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	се запозна	NP	so	Y	NP_so	REFL						
+67	Macedonian	33	know	X (know) Y	знать 	X (знать) Y-а	знае	TR		TR	TR							да
+67	Macedonian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	свири	NP	na	Y	NP_na							
+67	Macedonian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	одбегнува	TR		TR	TR							да
+67	Macedonian	36	make	X (make) Y	изготовить	X (изготовить) Y	направи	TR		TR	TR							
+67	Macedonian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	се потсмева	NP	nad	Y	NP_nad	REFL						
+67	Macedonian	38	have	X (have) Y	иметь	X (иметь) Y	има	TR		TR	TR							
+67	Macedonian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	бара	TR		TR	TR							да
+67	Macedonian	40	paint	X (paint) Y	красить	X (красить) Y	бојадиса	TR		TR	TR							да
+67	Macedonian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	касна	TR		TR	TR	Порядок слов OVS						да
+67	Macedonian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	остана	NP	bez	Y	NP_bez	Тот же глагол, но другая конструкция, чем в 61						
+67	Macedonian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	брка	TR		TR	TR	Тот же глагол и та же модель, что 15						да
+67	Macedonian	44	break	X (break) Y	ломать	X (ломать) Y	скрши	TR		TR	TR							да
+67	Macedonian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	ласка	NP	DAT(na)	Y	NP_DAT(na)							
+67	Macedonian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	сака	TR		TR	TR	Тот же глагол и та же модель, что 119, 121						да
+67	Macedonian	47	wave	X (wave) Y	махать	X (махать) Y-ом	мавта	NP	so	Y	NP_so							
+67	Macedonian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	мечтае	NP	za	Y	NP_za							
+67	Macedonian	49	wash	X (wash) Y	мыть	X (мыть) Y	изми	TR		TR	TR							да
+67	Macedonian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	облече	TR		TR	TR							
+67	Macedonian	51	be_called	X (be_called) Y	называться	X (называться) Y	се вика	NP	NP	Y	NP_NP	REFL. Вот тут и именно тут второй актант не может быть представлен как прямое дополнение (клитика), это две немаркированных ИГ						
+67	Macedonian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	казни	TR		TR	TR							да
+67	Macedonian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	нападна	TR		TR	TR							да
+67	Macedonian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	се наполни	NP	so	Y	NP_so	REFL						
+67	Macedonian	55	find	X (find) Y	находить	X (находить) Y(-а)	најде	TR		TR	TR							да
+67	Macedonian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	фали	DAT(na)	NP	X	DAT(na)_NP							
+67	Macedonian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	мрази	TR		TR	TR							да
+67	Macedonian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	се допаѓа	DAT(na)	NP	X	DAT(na)_NP	REFL						
+67	Macedonian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	требаат	DAT(na)	NP	X	DAT(na)_NP							
+67	Macedonian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	опкружуваат 	TR		TR	TR							да
+67	Macedonian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	останаа 	DAT(na)	NP	X	DAT(na)_NP	Тот же глагол, но другая конструкция, чем в 42						
+67	Macedonian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	одговори	NP	DAT(na)	Y	NP_DAT(na)							
+67	Macedonian	63	open	X (open) Y	открывать	X (открывать) Y	отвори	TR		TR	TR							да
+67	Macedonian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	се разликува	NP	od	Y	NP_od	REFL						
+67	Macedonian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	заостана	NP	od	Y	NP_od							
+67	Macedonian	66	plough	X (plough) Y	пахать	X (пахать) Y	ора	TR		TR	TR							да
+67	Macedonian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	мирисаат	NP	na	Y	NP_na							
+67	Macedonian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	премина	TR		TR	TR							да
+67	Macedonian	69	sing	X (sing) Y	петь	X (петь) Y	испеа	TR		TR	TR							
+67	Macedonian	70	write	X (write) Y	писать	X (писать) Y	напиша	TR		TR	TR							
+67	Macedonian	71	drink	X (drink) Y	пить	X (пить) Y	испи 	TR		TR	TR							да
+67	Macedonian	72	melt	X (melt) Y	плавить	X (плавить) Y	стопи	TR		TR	TR							да
+67	Macedonian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	одговара	NP	na	Y	NP_na							
+67	Macedonian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	напушти	TR		TR	TR							да
+67	Macedonian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	покрива	TR		TR	TR							да
+67	Macedonian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	се сеќава	NP	na	Y	NP_na	REFL						
+67	Macedonian	77	help	X (help) Y	помочь	X (помогать) Y-у	помогна	NP	DAT(na)	Y	NP_DAT(na)							
+67	Macedonian	78	understand	X (understand) Y	понимать	X (понимать) Y	разбира	TR		TR	TR							
+67	Macedonian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	удри	NP	vo	Y	NP_vo	Тот же глагол, но другая конструкция, чем в 106						
+67	Macedonian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	се пресече	NP	so	Y	NP_so	REFL						
+67	Macedonian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	се залепи	NP	na	Y	NP_na	REFL						
+67	Macedonian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	изгубил	NP	od	Y	NP_od							
+67	Macedonian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	се израдува	NP	za	Y	NP_za	REFL						
+67	Macedonian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	разговара	NP	so	Y	NP_so							
+67	Macedonian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	роди	TR		TR	TR							да
+67	Macedonian	86	drop	X (drop) Y	ронять	X (ронять) Y	падна	DAT(na)	NP	X	DAT(na)_NP							
+67	Macedonian	87	govern	X (govern) Y	руководить	X (руководить) Y	раководи	NP	so	Y	NP_so							
+67	Macedonian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	недостига	DAT(na)	NP	X	DAT(na)_NP							
+67	Macedonian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	следи	TR		TR	TR							да
+67	Macedonian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	слезе	NP	od	Y	NP_od							
+67	Macedonian	91	listen	X (listen) to Y	слушать	X (слушать) Y	слуша	TR		TR	TR	Тот же глагол и та же конструкция, что 92 и 93						
+67	Macedonian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	слуша	TR		TR	TR	Тот же глагол и та же конструкция, что 91 и 93						да
+67	Macedonian	93	hear	X (hear) Y	слышать	X (слышать) Y	слуша	TR		TR	TR	Тот же глагол и та же конструкция, что 91 и 92						
+67	Macedonian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	се измеша	NP	so	Y	NP_so	REFL						
+67	Macedonian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	гледа	NP	na	Y	NP_na	Тот же глагол, но другая конструкция, чем 9						
+67	Macedonian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	слече	TR		TR	TR							да
+67	Macedonian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	се сонува	NP	DAT(na)	Y	NP_DAT(na)	REFL. Есть вариант сонува (без се), там TR						
+67	Macedonian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	се согласи	NP	so	Y	NP_so	REFL						
+67	Macedonian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	се скара	NP	so	Y	NP_so	REFL						
+67	Macedonian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	чини	TR		TR	TR	Нормальная переходная конструкция						
+67	Macedonian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	пукна	NP	vo	Y	NP_vo							
+67	Macedonian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	тури	TR		TR	TR							
+67	Macedonian	103	lose	X (lose) Y	терять	X (терять) Y	загина	TR		TR	TR							да
+67	Macedonian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	потона	NP	vo	Y	NP_vo							
+67	Macedonian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	уби	TR		TR	TR							да
+67	Macedonian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	удри	TR		TR	TR	Тот же глагол, но другая конструкция, чем в 79						да
+67	Macedonian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	бакна	TR		TR	TR							да
+67	Macedonian	108	read	X (read) Y	читать	X (читать) Y-а	прочита	TR		TR	TR							
+67	Macedonian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	мрдна	NP	so	Y	NP_so							
+67	Macedonian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	почитува	TR		TR	TR							да
+67	Macedonian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	се гнаси	NP	od	Y	NP_od	REFL						
+67	Macedonian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	задоволен	NP	od	Y	NP_od	NV						
+67	Macedonian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	се вљуби	NP	vo	Y	NP_vo	REFL						
+67	Macedonian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	верува	NP	DAT(na)	Y	NP_DAT(na)	Тот же глагол и та же модель, что 7						
+67	Macedonian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жали	TR		TR	TR							да
+67	Macedonian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завидува	NP	DAT(na)	Y	NP_DAT(na)							
+67	Macedonian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	се лути	NP	na	Y	NP_na	REFL. То же, что 122 (и похоже на 123)						
+67	Macedonian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	се зачуди	NP	od	Y	NP_od	REFL						
+67	Macedonian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	сака	TR		TR	TR	Тот же глагол и та же модель, что 46, 121						
+67	Macedonian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	се насладува	NP	so	Y	NP_so	REFL						
+67	Macedonian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	сака	TR		TR	TR	Тот же глагол и та же модель, что 46, 119						
+67	Macedonian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	се лути	NP	na	Y	NP_na	REFL. То же, что 117 (и похоже на 123)						
+67	Macedonian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	се налути	NP	na	Y	NP_na	REFL. Похоже (отличается приставкой) на 117, 122						
+67	Macedonian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	огорчи	TR		TR	TR							да
+67	Macedonian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	поразен	NP	od	Y	NP_od	PASS						
+67	Macedonian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	презира	TR		TR	TR							да
+67	Macedonian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	се огорчи	NP	od	Y	NP_od	REFL						
+67	Macedonian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	се гневи	NP	na	Y	NP_na	REFL						
+67	Macedonian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	симпатизира	TR		TR	TR							да
+67	Macedonian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	се срами	NP	od	Y	NP_od	REFL						

@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+33	Italian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	dolere	a	NOM	X	a_NOM	то же fare male						
+33	Italian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	avere	*				TR, но это иметь (38)						
+33	Italian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	aver paura	NOM	di	Y	NOM_di	CV						
+33	Italian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	tirare 	TR		TR	TR							
+33	Italian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	bastare	a	NOM	X	a_NOM							
+33	Italian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	somigliare	NOM	a	Y	NOM_a							
+33	Italian	7	believe	X (believe) Y	верить	X (верить)Y-у	credere	NOM	a	Y	NOM_a							
+33	Italian	8	take	X (take) Y	взять	X (брать) Y(-а)	prendere	TR		TR	TR							
+33	Italian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vedere	TR		TR	TR							
+33	Italian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	influenzare	TR		TR	TR							
+33	Italian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	incontrare	TR		TR	TR							
+33	Italian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	entrare	NOM	in	Y	NOM_in							
+33	Italian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	vincere	NOM	CON	Y	NOM_con							
+33	Italian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	uscire	NOM	da	Y	NOM_da							
+33	Italian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	portare	TR		TR	TR							
+33	Italian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	piegare	TR		TR	TR							
+33	Italian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	dire	NOM	a	Y	NOM_a							
+33	Italian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	tenere	TR		TR	TR							
+33	Italian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	rincorrere	TR		TR	TR							
+33	Italian	20	milk	X (milk) Y	доить	X (доить) Y-а	mungere	TR		TR	TR							
+33	Italian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	arrivare	NOM	a	Y	NOM_a							
+33	Italian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	toccare	TR		TR	TR							
+33	Italian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	azzufarsi	NOM	CON	Y	NOM_con	REFL						
+33	Italian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	essere amico 	*				Именной ('быть другом') + di. Естественно сказать fare amicizia con ('подружиться'), но это аспектуально друггое значение						
+33	Italian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	pensare	NOM	a	Y	NOM_a							
+33	Italian	26	eat	X (eat) Y	есть	X (есть) Y	mangiare	TR		TR	TR							
+33	Italian	27	fry	X (fry) Y	жарить	X (жарить) Y	friggere	TR		TR	TR							
+33	Italian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	aspettare	TR		TR	TR							
+33	Italian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	dimenticarsi	NOM	di	Y	NOM_di	REFL						
+33	Italian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	dependere	NOM	da	Y	NOM_da							
+33	Italian	31	call	X (call) Y	звать	X (звать) Y-а	chiamare	TR		TR	TR							
+33	Italian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	conoscere	*				совпало с 33 (TR)						
+33	Italian	33	know	X (know) Y	знать 	X (знать) Y-а	conoscere	TR		TR	TR							
+33	Italian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	suonare	TR		TR	TR							
+33	Italian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	evitare	TR		TR	TR							
+33	Italian	36	make	X (make) Y	изготовить	X (изготовить) Y	fabbricare	TR		TR	TR							
+33	Italian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	schernire	TR		TR	TR							
+33	Italian	38	have	X (have) Y	иметь	X (иметь) Y	avere	TR		TR	TR							
+33	Italian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	cercare	TR		TR	TR							
+33	Italian	40	paint	X (paint) Y	красить	X (красить) Y	pitturare	TR		TR	TR							
+33	Italian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	mordere	TR		TR	TR							
+33	Italian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	perdere	*				совпало с 103						
+33	Italian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	cercare de catturare	*				Пытаться поймать						
+33	Italian	44	break	X (break) Y	ломать	X (ломать) Y	rompere	TR		TR	TR							
+33	Italian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	lusingare	TR		TR	TR							
+33	Italian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	amare	TR		TR	TR	REFL						
+33	Italian	47	wave	X (wave) Y	махать	X (махать) Y-ом	agitare	TR		TR	TR							
+33	Italian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	sognare	TR		TR	TR							
+33	Italian	49	wash	X (wash) Y	мыть	X (мыть) Y	lavare	TR		TR	TR							
+33	Italian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	mettersi	TR		TR	TR							
+33	Italian	51	be_called	X (be_called) Y	называться	X (называться) Y	chiamarsi	*				думать!						
+33	Italian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	punire	TR		TR	TR							
+33	Italian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	aggredire	TR		TR	TR							
+33	Italian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	riempirsi	NOM	di	Y	NOM_di	REFL						
+33	Italian	55	find	X (find) Y	находить	X (находить) Y(-а)	trovare	TR		TR	TR							
+33	Italian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	mancare	a	NOM	X	a_NOM							
+33	Italian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	odiare	TR		TR	TR							
+33	Italian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	piacere	a	NOM	X	a_NOM							
+33	Italian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	servire	a	NOM	X	a_NOM							
+33	Italian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	circonda	TR		TR	TR							
+33	Italian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	rimanere	a	NOM	X	a_NOM							
+33	Italian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	rispondere	NOM	a	Y	NOM_a							
+33	Italian	63	open	X (open) Y	открывать	X (открывать) Y	aprire	TR		TR	TR							
+33	Italian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	essere diverso	NOM	da	Y	NOM_da	NV						
+33	Italian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	rimanere indietro	*				одноместный						
+33	Italian	66	plough	X (plough) Y	пахать	X (пахать) Y	arare	TR		TR	TR							
+33	Italian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	sapere	NOM	di	Y	NOM_di							
+33	Italian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	attraversare	TR		TR	TR							
+33	Italian	69	sing	X (sing) Y	петь	X (петь) Y	cantare	TR		TR	TR							
+33	Italian	70	write	X (write) Y	писать	X (писать) Y	scrivere	TR		TR	TR							
+33	Italian	71	drink	X (drink) Y	пить	X (пить) Y	bere	TR		TR	TR							
+33	Italian	72	melt	X (melt) Y	плавить	X (плавить) Y	fondere	TR		TR	TR							
+33	Italian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	abbinarsi	NOM	a	Y	NOM_a	REFL						
+33	Italian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	lasciare	TR		TR	TR							
+33	Italian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	coprire	TR		TR	TR							
+33	Italian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	ricordare	TR		TR	TR	CAUS’						
+33	Italian	77	help	X (help) Y	помочь	X (помогать) Y-у	aiutare	TR		TR	TR							
+33	Italian	78	understand	X (understand) Y	понимать	X (понимать) Y	capire	TR		TR	TR							
+33	Italian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	finire	NOM	in	Y	NOM_in							
+33	Italian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	tagliarsi	NOM	CON	Y	NOM_con	REFL						
+33	Italian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	appiccicarsi	NOM	a	Y	NOM_a	REFL						
+33	Italian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	perdere	NOM	CON	Y	NOM_con	совпало с 103 (но там другая модель)						
+33	Italian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	rallegrarsi	NOM	per	Y	NOM_per							
+33	Italian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	parlare	NOM	CON	Y	NOM_con							
+33	Italian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	partorire	TR		TR	TR							
+33	Italian	86	drop	X (drop) Y	ронять	X (ронять) Y	far cadere	TR		TR	TR							
+33	Italian	87	govern	X (govern) Y	руководить	X (руководить) Y	dirigere	TR		TR	TR							
+33	Italian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	mancare	*				Решил не брать, совпадает с 56 (a NOM)						
+33	Italian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	seguire	TR		TR	TR	REFL						
+33	Italian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	smontare	NOM	da	Y	NOM_da							
+33	Italian	91	listen	X (listen) to Y	слушать	X (слушать) Y	ascoltare	TR		TR	TR	Совпал с 48						
+33	Italian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obbedire	NOM	a	Y	NOM_a							
+33	Italian	93	hear	X (hear) Y	слышать	X (слышать) Y	sentire	TR		TR	TR							
+33	Italian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	fondersi	NOM	CON	Y	NOM_con	REFL						
+33	Italian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	guardare	TR		TR	TR							
+33	Italian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	levarsi	TR		TR	TR							
+33	Italian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	sognare	*				совпадает с 48 (почему-то решил не брать)						
+33	Italian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	concordare	NOM	CON	Y	NOM_con							
+33	Italian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	littigare	NOM	CON	Y	NOM_con							
+33	Italian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	costare	*				думать!						
+33	Italian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	sparare	NOM	a	Y	NOM_a							
+33	Italian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	mettere	TR		TR	TR							
+33	Italian	103	lose	X (lose) Y	терять	X (терять) Y	perdere	TR		TR	TR	совпало с 42 (его мы не взяли, как периферийное значение) и 82 (там другая модель)						
+33	Italian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	affondare	NOM	in	Y	NOM_in							
+33	Italian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	uccidere	TR		TR	TR							
+33	Italian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	colpire	TR		TR	TR							
+33	Italian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	baciare	TR		TR	TR							
+33	Italian	108	read	X (read) Y	читать	X (читать) Y-а	leggere	TR		TR	TR	REFL						
+33	Italian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	muovere	TR		TR	TR							
+33	Italian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	rispettare	TR		TR	TR	CV						
+33	Italian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	schifarsi	NOM	di	Y	NOM_di	REFL						
+33	Italian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	essere contento	NOM	di	Y	NOM_di	NV						
+33	Italian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	innamorarsi	NOM	di	Y	NOM_di	REFL						
+33	Italian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	fidarsi	NOM	di	Y	NOM_di	REFL						
+33	Italian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	avere pieta	NOM	di	Y	NOM_di	CV						
+33	Italian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	invidiare	TR		TR	TR							
+33	Italian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	essere arrabbiato	NOM	CON	Y	NOM_con	NV						
+33	Italian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	rimanere sorpreso	NOM	da	Y	NOM_da	NV						
+33	Italian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	piacere	*				совпадает с 58 (a NOM)						
+33	Italian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	godersi	TR		TR	TR							
+33	Italian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	volere	TR		TR	TR							
+33	Italian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	essere arrabbiato	*				Совпало с 117						
+33	Italian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	rimanerci male	NOM	CON	Y	NOM_con	NV						
+33	Italian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	rendere triste	TR		TR	TR							
+33	Italian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	rimanere stupito	NOM	da	Y	NOM_da	NV						
+33	Italian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	disprezzare	TR		TR	TR							
+33	Italian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	rammaricarsi	NOM	per	Y	NOM_per							
+33	Italian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	adirarsi 	NOM	CON	Y	NOM_con	REFL						
+33	Italian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	stare simpatico	a	NOM	X	a_NOM	NV						
+33	Italian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	vergognarsi	NOM	di	Y	NOM_di	REFL						

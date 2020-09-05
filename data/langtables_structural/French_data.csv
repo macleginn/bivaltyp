@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+9	French	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	avoir mal	NOM	a	Y	NOM_a	CV						
+9	French	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	avoir	TR		TR	TR							
+9	French	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	avoir peur	NOM	de	Y	de	CV						
+9	French	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	jeter	TR		TR	TR							
+9	French	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	avoir assez					Приименная зависимость: avoir assez						
+9	French	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	ressembler	NOM	a	Y	NOM_a							
+9	French	7	believe	X (believe) Y	верить	X (верить)Y-у	croire	TR		TR	TR							
+9	French	8	take	X (take) Y	взять	X (брать) Y(-а)	prendre	TR		TR	TR							
+9	French	9	see	X (see) Y	видеть	X (видеть) Y(-а)	voir	TR		TR	TR							
+9	French	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	influer	NOM	sur	Y	sur							
+9	French	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	rencontrer	TR		TR	TR							
+9	French	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	entrer	NOM	dans	Y	dans							
+9	French	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а						Вообще-то gagner, но неестественная рамка						
+9	French	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	sortir	NOM	de	Y	de							
+9	French	15	drive	X (drive) Y	гнать	X (гнать) Y-а	mener	TR		TR	TR							
+9	French	16	bend	X (bend) Y	гнуть	X (гнуть) Y	courber	TR		TR	TR							
+9	French	17	tell	X (tell) Y	говорить	X (говорить) Y-у	dire	NOM	a	Y	NOM_a							
+9	French	18	hold	X (hold)Y	держать	X (держать) Y(-а)	tenir	TR		TR	TR							
+9	French	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	rattraper	TR		TR	TR							
+9	French	20	milk	X (milk) Y	доить	X (доить) Y-а	traire	TR		TR	TR							
+9	French	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	rejoindre	TR		TR	TR							
+9	French	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	toucher	TR		TR	TR							
+9	French	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	se bagarrer	NOM	contre	Y	contre	REFL						
+9	French	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	etre ami	NOM	avec	Y	avec	CV						
+9	French	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	penser	NOM	a	Y	NOM_a							
+9	French	26	eat	X (eat) Y	есть	X (есть) Y	manger	TR		TR	TR							
+9	French	27	fry	X (fry) Y	жарить	X (жарить) Y	rotir	TR		TR	TR							
+9	French	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	attendre	TR		TR	TR							
+9	French	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	oublier	TR		TR	TR							
+9	French	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	dependre	NOM	de	Y	de							
+9	French	31	call	X (call) Y	звать	X (звать) Y-а	appeler	TR		TR	TR							
+9	French	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом						Приименная зависимость: faire la connaissance						
+9	French	33	know	X (know) Y	знать 	X (знать) Y-а	connaitre	TR		TR	TR							
+9	French	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	jouer	NOM	de	Y	de							
+9	French	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	eviter	TR		TR	TR							
+9	French	36	make	X (make) Y	изготовить	X (изготовить) Y	fabriquer	TR		TR	TR							
+9	French	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	se moquer	NOM	de	Y	de	REFL						
+9	French	38	have	X (have) Y	иметь	X (иметь) Y	avoir	TR		TR	TR							
+9	French	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	chercher	TR		TR	TR							
+9	French	40	paint	X (paint) Y	красить	X (красить) Y	peindre	TR		TR	TR							
+9	French	41	bite	X (bite) Y	кусать	X (кусать) Y-а	mordre	TR		TR	TR							
+9	French	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	etre prive	NOM	de	Y	de							
+9	French	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	attraper	TR		TR	TR							
+9	French	44	break	X (break) Y	ломать	X (ломать) Y	casser	TR		TR	TR							
+9	French	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	flatter	TR		TR	TR							
+9	French	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	aimer	TR		TR	TR							
+9	French	47	wave	X (wave) Y	махать	X (махать) Y-ом	agiter	TR		TR	TR							
+9	French	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	rever	NOM	de	Y	de							
+9	French	49	wash	X (wash) Y	мыть	X (мыть) Y	laver	TR		TR	TR							
+9	French	50	put_on	X (put_on) Y	надевать	X (надевать) Y	mettre	TR		TR	TR							
+9	French	51	be_called	X (be_called) Y	называться	X (называться) Y	s'appeler	TR		TR	TR							
+9	French	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	punir	TR		TR	TR							
+9	French	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	se jeter	NOM	sur	Y	sur	REFL						
+9	French	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	se remplir	NOM	de	Y	de	REFL						
+9	French	55	find	X (find) Y	находить	X (находить) Y(-а)	trouver	TR		TR	TR							
+9	French	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	manquer	a	NOM	X	a_NOM							
+9	French	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	hair	TR		TR	TR							
+9	French	58	like	X (like) Y	нравиться	X-у (нравиться) Y	plaire	a	NOM	X	a_NOM							
+9	French	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	avoir besoin	NOM	de	Y	de	CV						
+9	French	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	entourer	TR		TR	TR							
+9	French	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	rester	a	NOM	X	a_NOM							
+9	French	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	repondre	NOM	a	Y	NOM_a							
+9	French	63	open	X (open) Y	открывать	X (открывать) Y	ouvrir	TR		TR	TR							
+9	French	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	se distinguer	NOM	de	Y	de	REFL						
+9	French	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	etre distance	NOM	par	Y	par	CV						
+9	French	66	plough	X (plough) Y	пахать	X (пахать) Y	labourer	TR		TR	TR							
+9	French	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	sentir	TR		TR	TR							
+9	French	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	traverser	TR		TR	TR							
+9	French	69	sing	X (sing) Y	петь	X (петь) Y	chanter	TR		TR	TR							
+9	French	70	write	X (write) Y	писать	X (писать) Y	ecrire	TR		TR	TR							
+9	French	71	drink	X (drink) Y	пить	X (пить) Y	boire	TR		TR	TR							
+9	French	72	melt	X (melt) Y	плавить	X (плавить) Y	fondre	TR		TR	TR							
+9	French	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	aller	NOM	avec	Y	avec							
+9	French	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	quitter	TR		TR	TR							
+9	French	75	cover	X (cover) Y	покрывать	X (покрывать) Y	couvrir	TR		TR	TR							
+9	French	76	remember	X (remember) Y	помнить	X (помнить) Y-а	se souvenir	NOM	de	Y	de	REFL						
+9	French	77	help	X (help) Y	помочь	X (помогать) Y-у	aider	TR		TR	TR							
+9	French	78	understand	X (understand) Y	понимать	X (понимать) Y	comprendre	TR		TR	TR							
+9	French	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	tomber	NOM	sur	Y	sur							
+9	French	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	se couper	NOM	avec	Y	avec	REFL						
+9	French	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	se coller	NOM	a	Y	NOM_a	REFL						
+9	French	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	perdre	NOM	contre	Y	contre							
+9	French	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	se rejouir	NOM	de	Y	de	REFL						
+9	French	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	parler	NOM	a	Y	NOM_a							
+9	French	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	mettre au monde	TR		TR	TR	CV						
+9	French	86	drop	X (drop) Y	ронять	X (ронять) Y	laisser tomber	TR		TR	TR	CV						
+9	French	87	govern	X (govern) Y	руководить	X (руководить) Y	diriger	TR		TR	TR							
+9	French	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	s'ennuyer	NOM	sans	Y	sans	CV						
+9	French	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	suivre	TR		TR	TR							
+9	French	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	descendre	NOM	de	Y	de							
+9	French	91	listen	X (listen) to Y	слушать	X (слушать) Y	ecouter	TR		TR	TR							
+9	French	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obeir	NOM	a	Y	NOM_a							
+9	French	93	hear	X (hear) Y	слышать	X (слышать) Y	entendre	TR		TR	TR							
+9	French	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	se melanger	NOM	avec	Y	avec	REFL						
+9	French	95	look	X (look) at Y	смотреть	X (смотреть) на Y	regarder	TR		TR	TR							
+9	French	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	oter	TR		TR	TR							
+9	French	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	rever	de		Y	de	совпадает с 48						
+9	French	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	etre d'accord	NOM	avec	Y	avec	CV						
+9	French	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	se facher	NOM	avec	Y	avec	REFL						
+9	French	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	couter	TR		TR	TR							
+9	French	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	tirer	NOM	sur	Y	sur							
+9	French	102	pour	X (pour) Y	сыпать	X (сыпать) Y	verser	TR		TR	TR							
+9	French	103	lose	X (lose) Y	терять	X (терять) Y	perdre	TR		TR	TR							
+9	French	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	s'enfoncer	NOM	dans	Y	dans	REFL						
+9	French	105	kill	X (kill) Y	убивать	X (убивать) Y-а	tuer	TR		TR	TR							
+9	French	106	hit	X (hit) Y	ударить	X (ударять) Y-а	frapper	TR		TR	TR							
+9	French	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	embracer	TR		TR	TR							
+9	French	108	read	X (read) Y	читать	X (читать) Y-а	lire	TR		TR	TR							
+9	French	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	bouger	TR		TR	TR							
+9	French	110	respect	X (respect) Y	уважать	X (уважать) Y-а	respecter	TR		TR	TR							
+9	French	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом						Нет эквивалента						
+9	French	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	etre content	NOM	de	Y	de	CV						
+9	French	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	tomber amoureux	NOM	de	Y	de	CV						
+9	French	114	trust	X (trust) Y	доверять	X (доверять) Y-у	faire confiance	NOM	a	Y	NOM_a	CV						
+9	French	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	avoir pitie	NOM	de	Y	de	CV						
+9	French	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	envier	TR		TR	TR							
+9	French	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	s'enerver	NOM	contre	Y	contre	REFL						
+9	French	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	etre etonne	NOM	par	Y	par	CV						
+9	French	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	aimer					совпадает с 46						
+9	French	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	jouir	NOM	de	Y	de							
+9	French	121	want	X (want) Y	хотеть	X (хотеть) Y-а	vouloir	TR		TR	TR							
+9	French	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	se facher	NOM	contre	Y	contre	REFL						
+9	French	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	s'offenser	NOM	de	Y	de	REFL						
+9	French	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	chagriner	TR		TR	TR							
+9	French	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	etre imprissionne	NOM	par	Y	par	CV						
+9	French	126	despise	X (despise) Y	презирать	X (презирать) Y-а	mepriser	TR		TR	TR							
+9	French	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	etre chagrine	NOM	par	Y	par	CV						
+9	French	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	etre agace	NOM	par	Y	par	CV						
+9	French	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	avoir de la synmpathie	NOM	pour	Y	pour	CV						
+9	French	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	etre gene	NOM	par	Y	par	CV						

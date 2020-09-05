@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+52	Buriat	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	үбдэ-	GEN	NOM	Х	GENNOM							
+52	Buriat	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	дара-гд-	NOM	DAT	Y	NOMDAT	Одолеть-PASS. Это не первая, а третья предложенная конструкция, но единственная, где есть название болезни как актант						
+52	Buriat	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	ай-	NOM	ABL	Y	NOMABL							
+52	Buriat	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	шүдэ-	TR		TR	TR							
+52	Buriat	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	хүртэ-	DAT	NOM	Х	DATNOM							
+52	Buriat	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	адли	NOM	DAT	Y	NOMDAT	NV. Вариант: NOM DAT						
+52	Buriat	7	believe	X (believe) Y	верить	X (верить)Y-у	этигэ-	NOM	DAT	Y	NOMDAT							
+52	Buriat	8	take	X (take) Y	взять	X (брать) Y(-а)	аба-	TR		TR	TR							
+52	Buriat	9	see	X (see) Y	видеть	X (видеть) Y(-а)	хара-	TR		TR	TR	То же, что 95 (смотреть)						
+52	Buriat	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	нүлөөл-	NOM	DAT	Y	NOMDAT	"Это не первый вариант перевода, но такой, в котором есть нужные актанты (первый -- ""с возрастом мышление человека портится"")"						
+52	Buriat	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	уулза-	NOM	COM	Y	NOMCOM							
+52	Buriat	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	оро-	NOM	DAT	Y	NOMDAT							
+52	Buriat	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	диилэ-	TR		TR	TR							
+52	Buriat	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	гара-	NOM	сооhоо	Y	NOMsoohoo	соо-hоо = в-ABL. Тот же глагол (но другая модель управления), что 68						
+52	Buriat	15	drive	X (drive) Y	гнать	X (гнать) Y-а	туу-	TR		TR	TR							
+52	Buriat	16	bend	X (bend) Y	гнуть	X (гнуть) Y	нугал-	TR		TR	TR							
+52	Buriat	17	tell	X (tell) Y	говорить	X (говорить) Y-у	хэлэ-	TR		TR	TR	NOM DAT тоже возможен						
+52	Buriat	18	hold	X (hold)Y	держать	X (держать) Y(-а)	бари-	TR		TR	TR	То же, что 22, 43						
+52	Buriat	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	хүсэ-	TR		TR	TR							
+52	Buriat	20	milk	X (milk) Y	доить	X (доить) Y-а	hаа-	TR		TR	TR							
+52	Buriat	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	хүрэ-	NOM	DAT	Y	NOMDAT	"У этого глагола есть и переходное употребление. Самый первый перевод вообще с глаголом гара- ""выйти"", там тоже модель управления NOM DAT"						
+52	Buriat	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	бари-	TR		TR	TR	То же, что 18, 43						
+52	Buriat	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	арсалда-	NOM	COM	Y	NOMCOM	RECP						
+52	Buriat	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	нүхэсэ-	NOM	COM	Y	NOMCOM							
+52	Buriat	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	hана-	TR		TR	TR	Тот же глагол, что 48, 76						
+52	Buriat	26	eat	X (eat) Y	есть	X (есть) Y	эди-	TR		TR	TR							
+52	Buriat	27	fry	X (fry) Y	жарить	X (жарить) Y	шара-	TR		TR	TR							
+52	Buriat	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	хүлеэ-	TR		TR	TR							
+52	Buriat	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	марта-	TR		TR	TR							
+52	Buriat	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	хамаатай	NOM	COM	Y	NOMCOM	"NV. (""связаны"", ""отношение-COM"")"						
+52	Buriat	31	call	X (call) Y	звать	X (звать) Y-а	дууда-	TR		TR	TR							
+52	Buriat	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	танилс-	NOM	COM	Y	NOMCOM							
+52	Buriat	33	know	X (know) Y	знать 	X (знать) Y-а	мэдэ-	TR		TR	TR	То же, что 78						
+52	Buriat	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	наада-	NOM	дээрэ	Y	NOMdeere							
+52	Buriat	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	холуур  яба-	NOM	COM	Y	NOMCOM	"CV. Буквально ""Далеко ходит"""						
+52	Buriat	36	make	X (make) Y	изготовить	X (изготовить) Y	хэ-	TR		TR	TR							
+52	Buriat	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	наадал-	TR		TR	TR							
+52	Buriat	38	have	X (have) Y	иметь	X (иметь) Y	бии	DAT	NOM	Х	DATNOM							
+52	Buriat	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	бэдэр-	TR		TR	TR							
+52	Buriat	40	paint	X (paint) Y	красить	X (красить) Y	шэрдэ-	TR		TR	TR							
+52	Buriat	41	bite	X (bite) Y	кусать	X (кусать) Y-а	хаза-	TR		TR	TR							
+52	Buriat	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*		*		"Только ""остался без дома"""						
+52	Buriat	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	бари-	TR		TR	TR	То же, что 18, 22						
+52	Buriat	44	break	X (break) Y	ломать	X (ломать) Y	хухал-	TR		TR	TR							
+52	Buriat	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	һаймһар-	NOM	DAT	Y	NOMDAT	Взято из словаря, потому что перевод из работы Саши Азарагаевой был раскритикован информантом на полях						
+52	Buriat	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	дура-тай	NOM	DAT	Y	NOMDAT	"NV (""любовь-COM""). То же, что 119"						
+52	Buriat	47	wave	X (wave) Y	махать	X (махать) Y-ом	далла-	NOM	INSTR	Y	NOMINSTR	Вариант глагола взят из комментария носителя на полях. Управление такое же						
+52	Buriat	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	hана-	NOM	тухай	Y	NOMtuxai	Тот же глагол, что 25, 76 (но другая модель управления)						
+52	Buriat	49	wash	X (wash) Y	мыть	X (мыть) Y	угаа-	TR		TR	TR							
+52	Buriat	50	put_on	X (put_on) Y	надевать	X (надевать) Y	үмдэ-	TR		TR	TR							
+52	Buriat	51	be_called	X (be_called) Y	называться	X (называться) Y	нэрэ-тэй	NOM	гэжэ	Y	NOMgezhe	"Букв.: ""Этот предмет  компас говорить-CONV   имя-COM """						
+52	Buriat	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	хараа-	TR		TR	TR							
+52	Buriat	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	аhа-	NOM	DAT	Y	NOMDAT							
+52	Buriat	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	дүүрэ-	NOM	INSTR	Y	NOMINSTR							
+52	Buriat	55	find	X (find) Y	находить	X (находить) Y(-а)	оло-	TR		TR	TR							
+52	Buriat	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	дута-	DAT	NOM	Х	DATNOM							
+52	Buriat	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	дура-гүй	NOM	DAT	Y	NOMDAT	"NV. ""любовь-CAR"""						
+52	Buriat	58	like	X (like) Y	нравиться	X-у (нравиться) Y	гоё	DAT	NOM	Х	DATNOM	"NV. ""Красивый"""						
+52	Buriat	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	хэрэг-тэй	DAT	NOM	Х	DATNOM	"NV. ""нужда-COM"""						
+52	Buriat	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	тойро	TR		TR	TR	"Вариант: ""город окружен (PASS) стенами"" (NOM INSTR)"						
+52	Buriat	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	үлэ-	DAT	NOM	Х	DATNOM							
+52	Buriat	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	харюуса-	NOM	DAT	Y	NOMDAT							
+52	Buriat	63	open	X (open) Y	открывать	X (открывать) Y	тайла-	TR		TR	TR	То же, что 96 (снимать (рубашку))						
+52	Buriat	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	ондоо	NOM	ABL	Y	NOMABL	"NV. ""Другой"""						
+52	Buriat	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	гээгдэ-	NOM	ABL	Y	NOMABL	"PASS (""был оставлен""). Этот вариант был предложен на полях. Не уверен в управлении."						
+52	Buriat	66	plough	X (plough) Y	пахать	X (пахать) Y	хүдэл-	NOM	дээрэ	Y	NOMdeere	Есть еще вариант хахал- (TR)						
+52	Buriat	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*		*		"Только ""Мой       рука-PL    бензин-GEN  запах.ACC     издать-PRS.3 """						
+52	Buriat	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	гара-	TR		TR	TR	Тот же глагол (но другая модель управления), что 14						
+52	Buriat	69	sing	X (sing) Y	петь	X (петь) Y	дуула-	TR		TR	TR							
+52	Buriat	70	write	X (write) Y	писать	X (писать) Y	бэшэ-	TR		TR	TR							
+52	Buriat	71	drink	X (drink) Y	пить	X (пить) Y	уу-	TR		TR	TR							
+52	Buriat	72	melt	X (melt) Y	плавить	X (плавить) Y	хайлуул-	TR		TR	TR							
+52	Buriat	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	туда-	NOM	DAT	Y	NOMDAT							
+52	Buriat	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	яба-	NOM	ABL	Y	NOMABL	То же, что 89 (следовать)						
+52	Buriat	75	cover	X (cover) Y	покрывать	X (покрывать) Y	*	*		*		"Получено только ""быть на полу"""						
+52	Buriat	76	remember	X (remember) Y	помнить	X (помнить) Y-а	hана-	TR		TR	TR	Тот же глагол, что 25, 48						
+52	Buriat	77	help	X (help) Y	помочь	X (помогать) Y-у	туhал-	NOM	DAT	Y	NOMDAT							
+52	Buriat	78	understand	X (understand) Y	понимать	X (понимать) Y	мэдэ-	TR		TR	TR	То же, что 33						
+52	Buriat	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	буу-	NOM	DAT	Y	NOMDAT	"Взято из комментария на полях. Букв. ""спустился"". Тот же глагол, что 90 (другое управление)"						
+52	Buriat	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	ада-	NOM	INSTR	Y	NOMINSTR	Вариант: NOM DAT						
+52	Buriat	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	няалда-	NOM	DAT	Y	NOMDAT							
+52	Buriat	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	диил-дэ-	NOM	DAT	Y	NOMDAT	PASS от выиграть (13)						
+52	Buriat	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	хүхи-	NOM	DAT	Y	NOMDAT							
+52	Buriat	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	зугаалда-	NOM	COM	Y	NOMCOM							
+52	Buriat	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	түрэ-	TR		TR	TR							
+52	Buriat	86	drop	X (drop) Y	ронять	X (ронять) Y	унагаа-	TR		TR	TR							
+52	Buriat	87	govern	X (govern) Y	руководить	X (руководить) Y	ударида-	TR		TR	TR	Взято на полях						
+52	Buriat	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	*	*		*		Получен только тот же перевод, что для 20, 48, 76 (думать и т.д.), не засчитываю						
+52	Buriat	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	яба-	NOM	хойноhоо	Y	NOMxojnohoo	"Букв. ""идти за кем-то"", то же, что 74 (покидать)"						
+52	Buriat	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	буу-	NOM	ABL	Y	NOMABL	Тот же глагол, что 79 (другое управление)						
+52	Buriat	91	listen	X (listen) to Y	слушать	X (слушать) Y	шагна-	TR		TR	TR	То же, что 92, 93						
+52	Buriat	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	шагна-	TR		TR	TR	То же, что 91, 93						
+52	Buriat	93	hear	X (hear) Y	слышать	X (слышать) Y	шагна-	TR		TR	TR	То же, что 91, 92						
+52	Buriat	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	худха-	NOM	COM	Y	NOMCOM							
+52	Buriat	95	look	X (look) at Y	смотреть	X (смотреть) на Y	хара-	TR		TR	TR	То же, что 9 (видеть)						
+52	Buriat	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	тайла-	TR		TR	TR	То же, что 63 (открывать)						
+52	Buriat	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	зүүдэн-дэ   хара-гда-	DAT	NOM	Х	DATNOM	"CV. ""во сне видится"""						
+52	Buriat	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	ойлголсо-	NOM	COM	Y	NOMCOM							
+52	Buriat	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	хэрэлдэ-	NOM	COM	Y	NOMCOM	RECP						
+52	Buriat	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	сэн-тэй	NOM	NOM	Y	NOMNOM	"NV. ""цена-COM"""						
+52	Buriat	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	бууда-	TR		TR	TR							
+52	Buriat	102	pour	X (pour) Y	сыпать	X (сыпать) Y	адха-	TR		TR	TR							
+52	Buriat	103	lose	X (lose) Y	терять	X (терять) Y	гээ-	TR		TR	TR							
+52	Buriat	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	шэнгэ-	NOM	соо	Y	NOMsoo							
+52	Buriat	105	kill	X (kill) Y	убивать	X (убивать) Y-а	ала-	TR		TR	TR							
+52	Buriat	106	hit	X (hit) Y	ударить	X (ударять) Y-а	сохи-	TR		TR	TR							
+52	Buriat	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	таала-	TR		TR	TR							
+52	Buriat	108	read	X (read) Y	читать	X (читать) Y-а	унша-	TR		TR	TR							
+52	Buriat	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	хүдэлгэ-	NOM	INSTR	Y	NOMINSTR							
+52	Buriat	110	respect	X (respect) Y	уважать	X (уважать) Y-а	хүндэл-	TR		TR	TR							
+52	Buriat	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*		*		"Получен только тот же перевод, что для ""ненавидеть"""						
+52	Buriat	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	*	*		*		"Получено только ""хвалить"""						
+52	Buriat	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	дурла-	NOM	DAT	Y	NOMDAT							
+52	Buriat	114	trust	X (trust) Y	доверять	X (доверять) Y-у	найда-	NOM	DAT	Y	NOMDAT							
+52	Buriat	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	хайрла-	TR		TR	TR							
+52	Buriat	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	атаарха-	NOM	DAT	Y	NOMDAT							
+52	Buriat	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	уурла-	NOM	DAT	Y	NOMDAT	То же, что 122, 128						
+52	Buriat	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	гайха-	NOM	DAT	Y	NOMDAT	С этим глаголом все ок, но см. проблему для 125						
+52	Buriat	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	дура-тай	NOM	DAT	Y	NOMDAT	"NV (""любовь-COM""). То же, что 46"						
+52	Buriat	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	һонирхо-	NOM	INSTR	Y	NOMINSTR							
+52	Buriat	121	want	X (want) Y	хотеть	X (хотеть) Y-а	*	*		*		"Только СА получен: ""говорит купить"" (= хочет купить)"						
+52	Buriat	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	уурла-	NOM	DAT	Y	NOMDAT	То же, что 117, 128						
+52	Buriat	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	янгал-	NOM	DAT	Y	NOMDAT							
+52	Buriat	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	мууд-уул-	TR		TR	TR	CAUS от 127						
+52	Buriat	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	гайха-	*		*		"Не понимаю. В материалах Саши сказано, что возможно ""DAT NOM"" (именно так, не NOM DAT). Это было бы зеркально 118 и без каузатива. Сомневаюсь"						
+52	Buriat	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*		*		"Получен только тот же перевод, что для ""ненавидеть"""						
+52	Buriat	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	мууда-	NOM	DAT	Y	NOMDAT							
+52	Buriat	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	уурла-	NOM	DAT	Y	NOMDAT	То же, что 117, 122						
+52	Buriat	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*		*		"Получен только такой же перевод, как для ""любить"" (46, 119)"						
+52	Buriat	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	эшэ-	NOM	ABL	Y	NOMABL							

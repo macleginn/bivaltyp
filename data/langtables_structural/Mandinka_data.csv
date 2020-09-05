@@ -1,0 +1,135 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+47	Mandinka	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	dímíŋ	POSS&OBJ	SUBJ	X	POSS&OBJ_SUBJ	Literally: ‘X’s Y hurts him/her						
+47	Mandinka	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	mùtá	OBJ	SUBJ	X	OBJ_SUBJ	Literally: '‘X (the illness) catches Y (the person)’						
+47	Mandinka	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	sílá	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	fáyí 	SUBJ	OBJ	TR	TR							
+47	Mandinka	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	káañáŋ	SUBJ	má	Y	SUBJ_ma	Postposition						
+47	Mandinka	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	múntà	SUBJ	kó	Y	SUBJ_ko	Preposition						
+47	Mandinka	7	believe	X (believe) Y	верить	X (верить)Y-у	láa	SUBJ	lá	Y	SUBJ_la	"Postposition. It is the same verb as in 69, 112 and 114. The basic meaning of this verb is ‘lie/lay down’, but it has many metaphorical uses
+"						
+47	Mandinka	8	take	X (take) Y	взять	X (брать) Y(-а)	tǎa	SUBJ	OBJ	TR	TR							
+47	Mandinka	9	see	X (see) Y	видеть	X (видеть) Y(-а)	jé	SUBJ	OBJ	TR	TR							
+47	Mandinka	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*					No equivalent						
+47	Mandinka	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	běŋ					X&Y (comitative preposition nîŋ) as SUBJ						
+47	Mandinka	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	dǔŋ	SUBJ	kónó	Y	SUBJ_kono	Postposition						
+47	Mandinka	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	dǎŋ	SUBJ	OBJ	TR	TR	Alternatives available						
+47	Mandinka	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	bó	SUBJ	kónó	Y	SUBJ_kono	Postposition						
+47	Mandinka	15	drive	X (drive) Y	гнать	X (гнать) Y-а	kèŋkéŋ	SUBJ	OBJ	TR	TR							
+47	Mandinka	16	bend	X (bend) Y	гнуть	X (гнуть) Y	ŋóojí 	SUBJ	OBJ	TR	TR							
+47	Mandinka	17	tell	X (tell) Y	говорить	X (говорить) Y-у	kó	SUBJ	yé	Y	SUBJ_ye	NV. Postposition						
+47	Mandinka	18	hold	X (hold)Y	держать	X (держать) Y(-а)	*					‘Y bé X búlòo tó’ lit. ‘Y is in X’s hand’ (bé is the locational copula, tó is a postposition)						
+47	Mandinka	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	sòtó	SUBJ	OBJ	TR	TR	"Same verb as 38 ('have'). DC: ""Etymologically, it is rather ‘X gets Y’, since the Mandinka verb ‘have’ historically derives from ‘get’. Synchronically, this verb has uses (in contexts such as ‘I have two brothers’) in which it can only be interpreted as denoted possession, but in other contexts it is still ambiguous between possession and acquisition, much in the same way as English get"""						
+47	Mandinka	20	milk	X (milk) Y	доить	X (доить) Y-а	bítí	SUBJ	OBJ	TR	TR							
+47	Mandinka	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	fùtá	SUBJ	tó	Y	SUBJ_to	Postposition						
+47	Mandinka	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	mǎa	SUBJ	OBJ	TR	TR	Same verb as in 47 and 109						
+47	Mandinka	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	kèlé					X&Y (comitative preposition nîŋ) as SUBJ						
+47	Mandinka	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	téeríyáa					X&Y (comitative preposition nîŋ) as SUBJ						
+47	Mandinka	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	*					‘X hákílòo bé Y káŋ’ lit. ‘X’s mind is on Y’ (bé is the locational copula, káŋ is a postposition)						
+47	Mandinka	26	eat	X (eat) Y	есть	X (есть) Y	dómó	SUBJ	OBJ	TR	TR							
+47	Mandinka	27	fry	X (fry) Y	жарить	X (жарить) Y	yílá	SUBJ	OBJ	TR	TR							
+47	Mandinka	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	bàtú	SUBJ	OBJ	TR	TR							
+47	Mandinka	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ñìná	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	déŋ	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	31	call	X (call) Y	звать	X (звать) Y-а	kílí	SUBJ	OBJ	TR	TR							
+47	Mandinka	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	lóŋ	SUBJ	OBJ	TR	TR	Same verb as in 33						
+47	Mandinka	33	know	X (know) Y	знать 	X (знать) Y-а	lóŋ	SUBJ	OBJ	TR	TR	Same verb as in 32						
+47	Mandinka	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	kòsí	SUBJ	OBJ	TR	TR							
+47	Mandinka	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	lámfée	SUBJ	OBJ	TR	TR							
+47	Mandinka	36	make	X (make) Y	изготовить	X (изготовить) Y	dádáa	SUBJ	OBJ	TR	TR							
+47	Mandinka	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	jélé	SUBJ	lá	Y	SUBJ_la	Возможно также TR с тем же глаголом. Записываю в итоге вариант с послелогом по правилу о предпочтении неканонического варианта при прочих равных.						
+47	Mandinka	38	have	X (have) Y	иметь	X (иметь) Y	sòtó 	SUBJ	OBJ	TR	TR							
+47	Mandinka	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	ñíní 	SUBJ	OBJ	TR	TR							
+47	Mandinka	40	paint	X (paint) Y	красить	X (красить) Y	péntúrí	SUBJ	OBJ	TR	TR							
+47	Mandinka	41	bite	X (bite) Y	кусать	X (кусать) Y-а	kíŋ	SUBJ	OBJ	TR	TR							
+47	Mandinka	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	bònó 	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	mùtá	SUBJ	OBJ	TR	TR							
+47	Mandinka	44	break	X (break) Y	ломать	X (ломать) Y	kátí	SUBJ	OBJ	TR	TR							
+47	Mandinka	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	nèenée	SUBJ	OBJ	TR	TR							
+47	Mandinka	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	kànú 	SUBJ	OBJ	TR	TR	Same as 113 and 129						
+47	Mandinka	47	wave	X (wave) Y	махать	X (махать) Y-ом	mǎa	SUBJ	OBJ	TR	TR	Same verb as in 22 and 109						
+47	Mandinka	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	hámé	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	49	wash	X (wash) Y	мыть	X (мыть) Y	kǔu	SUBJ	OBJ	TR	TR							
+47	Mandinka	50	put_on	X (put_on) Y	надевать	X (надевать) Y	dǔŋ	SUBJ	OBJ	TR	TR							
+47	Mandinka	51	be_called	X (be_called) Y	называться	X (называться) Y	kó					"Используется трансимперсональная конструкция, к тому же не с глаголом, а маркером квотатива. DC: ""‘I am called Denis’ would be Ì kó ŋ́ yé Denis, where ì is the 3PL pronoun, kó a quotative marker (not a verb), ŋ́ the 1SG pronoun, and yé a postposition whose uses include the marking of addressees"""						
+47	Mandinka	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*					Mandinka has no general equivalent of ‘punish’ ; the translation of English sentences including ‘punish’ implies specifying a particular type of punishment (‘They hit him’, They killed him’, ‘They put him in jail’, ‘They fined him’, etc.).						
+47	Mandinka	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	bòyìŋkáŋ 	SUBJ	OBJ	TR	TR							
+47	Mandinka	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	fáa	SUBJ	lá	Y	SUBJ_la	"Также возможна переходная конструкция, где в первой позиции вещество. Однако: ""The first one with the recipient in subject function is more frequent than the second one, probably because the inherent topicality of individualized entities is higher than that of subtances"""						
+47	Mandinka	55	find	X (find) Y	находить	X (находить) Y(-а)	tàrá 	SUBJ	OBJ	TR	TR							
+47	Mandinka	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	dásá	OBJ	SUBJ	X	OBJ_SUBJ	"""Перевернутая"" переходная конструкция. Есть еще конструкция, где обладатель в позиции подлежащего, а второй участник вводится послелогом lá. Выбрал эту просто потому что она была написана первой. DC: ""Both are quite usual"""						
+47	Mandinka	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	kóŋ 	SUBJ	OBJ	TR	TR							
+47	Mandinka	58	like	X (like) Y	нравиться	X-у (нравиться) Y	díyáa 	yé	SUBJ	X	ye_SUBJ	DC: A transitive construction X pm Y kànú is also possible, with the experiencer (X) encoded as the subject. Выбрал первый вариант потому, что он назван первым и является непереходным.						
+47	Mandinka	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	sùulá	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	múrú 	SUBJ	OBJ	TR	TR							
+47	Mandinka	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	tú	SUBJ	búlú	Y	SUBJ_bulu	Postposition. This verb is the only Mandinka verb that can be used in a presentational construction with an inverted subject and a non-referential (dummy) 3rd person singular pronoun filling the subject slot.						
+47	Mandinka	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	jàabí 	SUBJ	OBJ	TR	TR							
+47	Mandinka	63	open	X (open) Y	открывать	X (открывать) Y	yèlé 	SUBJ	OBJ	TR	TR							
+47	Mandinka	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	fátá					X&Y (comitative preposition nîŋ) as SUBJ						
+47	Mandinka	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	bé 	SUBJ	kóomá	Y	SUBJ_kooma	non-verbal predication with the locational copula bé ‘be’ and the postposition kóomá ‘behind’; the verb tú ‘remain’ can be used instead of the locational copula.						
+47	Mandinka	66	plough	X (plough) Y	пахать	X (пахать) Y	kùrùbá 	SUBJ	OBJ	TR	TR							
+47	Mandinka	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	sùŋkáŋ	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	tèyí	SUBJ	lá	Y	SUBJ_la	"С этим глаголом также возможна переходная модель. ""DC: The two options are equally usual.  I have texts with many occurrences of tèyí ‘cross’, and there is clearly no preference for one of its two possible constructions. An interesting detail: the same verb is used with the meaning ‘cut’, but then it can only be used in the transitive construction."" Выбрал этот вариант потому, что он непереходный"						
+47	Mandinka	69	sing	X (sing) Y	петь	X (петь) Y	láa	SUBJ	OBJ	TR	TR	"Postposition. It is the same verb as in 7, 112 and 114. The basic meaning of this verb is ‘lie/lay down’, but it has many metaphorical uses
+"						
+47	Mandinka	70	write	X (write) Y	писать	X (писать) Y	sáfé 	SUBJ	OBJ	TR	TR							
+47	Mandinka	71	drink	X (drink) Y	пить	X (пить) Y	mǐŋ	SUBJ	OBJ	TR	TR	"Помимо этого, может использоваться модель, при которой второй участник кодируется послелогом lá, но (DC): ""The first option is much more frequent"""						
+47	Mandinka	72	melt	X (melt) Y	плавить	X (плавить) Y	yèlùndí	SUBJ	OBJ	TR	TR							
+47	Mandinka	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	káañáŋ	SUBJ	lá	Y	SUBJ_la	Postposition. There is also an alternative verb kúŋ (same construction)						
+47	Mandinka	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	bùlá	SUBJ	OBJ	TR	TR							
+47	Mandinka	75	cover	X (cover) Y	покрывать	X (покрывать) Y	múurá	SUBJ	OBJ	TR	TR							
+47	Mandinka	76	remember	X (remember) Y	помнить	X (помнить) Y-а	*					Mandinka expresses ‘X remembers Y’ as ‘X hákílòo pm bùlá Y lá’ lit. ‘X’s mind is left at Y’						
+47	Mandinka	77	help	X (help) Y	помочь	X (помогать) Y-у	dèemá	SUBJ	OBJ	TR	TR	There is also an alternative verb máakóyí (same construction)						
+47	Mandinka	78	understand	X (understand) Y	понимать	X (понимать) Y	fàháamú	SUBJ	OBJ	TR	TR							
+47	Mandinka	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	bòyí	SUBJ	káŋ	Y	SUBJ_kang	Postposition.						
+47	Mandinka	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	Refl-nàmá	SUBJ	lá	Y	SUBJ_la	Postposition. The transitive verb nàmá ‘cut’ occurs here in a reflexive construction with the reflexive pronoun in the object slot.						
+47	Mandinka	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	nòtó	SUBJ	bálá 	Y	SUBJ_bala	Postposition.						
+47	Mandinka	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*					Эквивалента нет. Обычно говорят либо Y выиграл у X, либо X failed to win Y.						
+47	Mandinka	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	kontáaní	SUBJ	lá	Y	SUBJ_la							
+47	Mandinka	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	dìyàamú	SUBJ	yé	Y	SUBJ_ye	Postposition. This is construction 2, which is possible along with construction 1 and 3. The first two constructions are intransitive constructions, the first one with the complex NP ‘X nîŋ Y’ (X and Y) in the subject slot, the second one with one of the two participants encoded as the subject, and the second one as an oblique. The third construction (with the causative form of the verb dìyàamú) is a transitive construction ; it implies a more active participation for the participant encoded as the subject.						
+47	Mandinka	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	wúlúu	SUBJ	lá	Y	SUBJ_la	Также возможна переходная конструкция. Выбрал эту возможность, потому что во-первых, она непереходная, а во-вторых: The second option is probably more frequent, because the transitive construction implies specifying the second argument, whereas specifying the second argument is not obligatory in the extended intransitive construction. Consequently, if all you want to express is ‘She had a baby’, you must select the intransitive construction.						
+47	Mandinka	86	drop	X (drop) Y	ронять	X (ронять) Y	jòlóŋ	SUBJ	OBJ	TR	TR							
+47	Mandinka	87	govern	X (govern) Y	руководить	X (руководить) Y	màrá	SUBJ	OBJ	TR	TR							
+47	Mandinka	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	mèeyáa	OBJ	SUBJ	X	OBJ_SUBJ	transitive construction, but the experiencer is encoded as the object (Y), and the stimulus as the subject (X) (‘X makes Y nostalgic’)						
+47	Mandinka	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	báyíndí 	SUBJ	OBJ	TR	TR							
+47	Mandinka	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	jǐi	SUBJ	sántó	Y	SUBJ_santo							
+47	Mandinka	91	listen	X (listen) to Y	слушать	X (слушать) Y	lámóyí	SUBJ	OBJ	TR	TR	same as 92						
+47	Mandinka	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	lámóyí 	SUBJ	OBJ	TR	TR	same as 91						
+47	Mandinka	93	hear	X (hear) Y	слышать	X (слышать) Y	mòyí	SUBJ	OBJ	TR	TR							
+47	Mandinka	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	ñáamí					X&Y (comitative preposition nîŋ) as SUBJ						
+47	Mandinka	95	look	X (look) at Y	смотреть	X (смотреть) на Y	jùubée	SUBJ	OBJ	TR	TR							
+47	Mandinka	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	wúráŋ	SUBJ	OBJ	TR	TR							
+47	Mandinka	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	sìibóo	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	sǒŋ	SUBJ	má	Y	SUBJ_ma	Postposition						
+47	Mandinka	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	sóŋká					X&Y (comitative preposition nîŋ) as SUBJ						
+47	Mandinka	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	járí	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	búŋ	SUBJ	OBJ	TR	TR	transitive construction whose meaning is ‘X throws something on Y’; an oblique marked by the postposition lá is usually added (for example kídòo là ‘with a gun’)						
+47	Mandinka	102	pour	X (pour) Y	сыпать	X (сыпать) Y	sǒo	SUBJ	OBJ	TR	TR							
+47	Mandinka	103	lose	X (lose) Y	терять	X (терять) Y	fìlí 	POSS	SUBJ	X	POSS_SUBJ	"Буквально: ‘X’s Y gets lost’. В качестве маркера отчуждаемой принадлежности используется послелог lá (X lá Y). Еще возможна конструкция ‘Y got lost for X’, где теряющий -- X -- выражен послелогом máю DC пишет, что ""My impression is that both are equally usual"". Выбрал первую потому что она первой названа и потому что ее порядок слов больше напоминает стимул (возможно, это ничего не значит) "						
+47	Mandinka	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	túunéŋ	SUBJ	kónó	Y	SUBJ_kono	Postposition						
+47	Mandinka	105	kill	X (kill) Y	убивать	X (убивать) Y-а	fǎa	SUBJ	OBJ	TR	TR							
+47	Mandinka	106	hit	X (hit) Y	ударить	X (ударять) Y-а	búsá	SUBJ	OBJ	TR	TR	There are two more alternative verbs (same construction)						
+47	Mandinka	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	súmbú	SUBJ	OBJ	TR	TR	kissing with the mouth is not traditional in West African cultures, but in Mandinka, súmbú ‘sniff’ can be used with this meaning						
+47	Mandinka	108	read	X (read) Y	читать	X (читать) Y-а	kàráŋ	SUBJ	OBJ	TR	TR							
+47	Mandinka	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	mǎa	SUBJ	OBJ	TR	TR	Same verb as in 22 and 47						
+47	Mandinka	110	respect	X (respect) Y	уважать	X (уважать) Y-а	hórómá	SUBJ	OBJ	TR	TR							
+47	Mandinka	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	ñámbú	SUBJ	lá	Y	SUBJ_la	The verb ñámbú can be used in a transitive construction or in an extended intransitive construction, but with a different choice of the subject: in the transitive construction, the subject represents the stimulus (and the experiencer is encoded as the object), whereas in the extended intransitive construction, the subject represents the experiencer (and the stimulus is encoded as an oblique). Которая частотнее, DC не написал. Выбираю ту, которая непереходная, и которая больше похожа на стимул (скорее брезговать, чем вызывать брезгливость)						
+47	Mandinka	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	láa	SUBJ	lá	Y	SUBJ_la	"Postposition. It is the same verb as in 7, 69 and 114. The basic meaning of this verb is ‘lie/lay down’, but it has many metaphorical uses
+"						
+47	Mandinka	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	kànú	SUBJ	OBJ	TR	TR	Same as 46 and 129.						
+47	Mandinka	114	trust	X (trust) Y	доверять	X (доверять) Y-у	láa	SUBJ	lá	Y	SUBJ_la	"Postposition. It is the same verb as in 7, 69 and 112. The basic meaning of this verb is ‘lie/lay down’, but it has many metaphorical uses
+"						
+47	Mandinka	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	báláfáa	SUBJ	yé	Y	SUBJ_ye	"DC: ""The verb báláfáa can be used in a transitive construction or in an extended intransitive construction, but with a different choice of the subject: in the transitive construction, the subject represents the stimulus (and the experiencer is encoded as the object), whereas in the extended intransitive construction, the subject represents the experiencer (and the stimulus is encoded as an oblique)."" К тому же интуитивное ощущение DC в том, что эта вторая конструкция частотнее. Так что выбираю ее: 1) больше похожа на стимул, 2) частотнее, 3) непереходна"						
+47	Mandinka	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	háasídíyáa	SUBJ	OBJ	TR	TR							
+47	Mandinka	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	kámfáa	SUBJ	búlú	Y	SUBJ_bulu	Postposition. Same as 122 and 128.						
+47	Mandinka	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	jáakálí	SUBJ	lá	Y	SUBJ_la	"DC: ""The verb jáakálí can be used in a transitive construction or in an extended intransitive construction, but with a different choice of the subject: in the transitive construction, the subject represents the stimulus (and the experiencer is encoded as the object), whereas in the extended intransitive construction, the subject represents the experiencer (and the stimulus is encoded as an oblique)."" К тому же интуитивное ощущение DC в том, что эта вторая конструкция частотнее. Так что выбираю ее: 1) больше похожа на стимул, 2) частотнее, 3) непереходна"						
+47	Mandinka	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	díyáa 	yé	SUBJ	X	ye_SUBJ	"Есть еще переходная конструкция типа ""любить"". Информация о выборе содержится в анкете."						
+47	Mandinka	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*					Mandinka has no equivalent of this verb, and the notion it expresses can only be rendered periphrastically.						
+47	Mandinka	121	want	X (want) Y	хотеть	X (хотеть) Y-а	làfí	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	kámfáa	SUBJ	búlú	Y	SUBJ_bulu	Postposition. Same as 117 and 128. The causative form kámfándí occurs in a transitive construction in which the subject represents the stimulus						
+47	Mandinka	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*					"Есть только переходный глагол ""обижать"""						
+47	Mandinka	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	súnú	SUBJ	OBJ	TR	TR	cf. 127						
+47	Mandinka	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	káawá	SUBJ	má	Y	SUBJ_ma	Postposition						
+47	Mandinka	126	despise	X (despise) Y	презирать	X (презирать) Y-а	jùtú	SUBJ	lá	Y	SUBJ_la	Postposition						
+47	Mandinka	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	súnú	SUBJ	lá	Y	SUBJ_la	Postposition. Same verb, but different construction, as 124						
+47	Mandinka	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	kámfáa	SUBJ	búlú	Y	SUBJ_bulu	Postposition. Same as 117 and 122.						
+47	Mandinka	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	kànú 	SUBJ	OBJ	TR	TR	Same as 46 and 113.						
+47	Mandinka	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	màlú	SUBJ	lá	Y	SUBJ_la	Возможно также TR с тем же глаголом, но другим подлежащим. DC думает, что записанный мной непереходный вариант частотнее. Выбираю его (см. выше аналогичные ситуации) как 1) более точно соответствующий, 2) вероятно, более частотный, 3) непереходный						

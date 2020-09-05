@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+79	Dargwa_Icari	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ицц-а-ца=AGR	GEN	ABS	X	GEN_ABS	Цепочка из экспериенцера/посессора и части тела как минимум разрывается, засчитываю как две разных ИГ						agreement: yes
+79	Dargwa_Icari	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	AGR=игь-уб-ца=AGR	ABS	GEN	Y	ABS_GEN	"Букв. ""стать"""						yes
+79	Dargwa_Icari	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	урухх-ик1в-ил-ца=AGR	ABS	ANTE_ELAT	Y	ABS_ANTE_ELAT	Показатель sa-r						yes
+79	Dargwa_Icari	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	ихь-уб	TR		TR	TR							no
+79	Dargwa_Icari	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	чи-гьатт-ихъ-а-ца=AGR	SUPLAT	ABS	X	SUPLAT_ABS	"PREF (ON+UP). В файле с глоссами DAT и SUPER отглоссированы по-разному, но при этом это один и тот же показатель и, по словам РМ, ""некоторые их считают одним падежом, либо считают, что датив произошел от суперлатива"". Для меня это, очевидно, одно и то же"						yes
+79	Dargwa_Icari	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	меш-ци-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	NV						yes
+79	Dargwa_Icari	7	believe	X (believe) Y	верить	X (верить)Y-у	чи=AGR=ихх-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	"То же, что ""верить"" (114). PREF (ON)"						yes
+79	Dargwa_Icari	8	take	X (take) Y	взять	X (брать) Y(-а)	гьатт-асс-иб	TR		TR	TR	PREF (UP)						no
+79	Dargwa_Icari	9	see	X (see) Y	видеть	X (видеть) Y(-а)	чи=AGR=иг-а-ца=AGR	TR		TR	TR	PREF (ON)						yes
+79	Dargwa_Icari	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	асар б-иркь-у	ERG	SUPLAT	Y	ERG_SUPLAT	"CV (""делать влияние"")"						yes
+79	Dargwa_Icari	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	ссукк-са=AGR=ич-иб	SUPLAT	ABS	X	SUPLAT_ABS	LV						yes
+79	Dargwa_Icari	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ккви-гьа=AGR=хъ-ун	ABS	ILL	Y	ABS_ILL	PREF (ВНУТРЬ+UP)						yes
+79	Dargwa_Icari	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	чи=AGR=AGR=игь-уб	ABS	ELAT	Y	ABS_ELAT	PREF (ON), NV						yes
+79	Dargwa_Icari	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ттура=AGR=хъ-ун	ABS	ELAT	Y	ABS_ELAT	PREF (ВНЕ)						yes
+79	Dargwa_Icari	15	drive	X (drive) Y	гнать	X (гнать) Y-а	ттура-г1ягъ-иб	TR		TR	TR	PREF (ВНЕ)						no
+79	Dargwa_Icari	16	bend	X (bend) Y	гнуть	X (гнуть) Y	AGR=ялч1-ахъ-ун	TR		TR	TR	CAUS						yes
+79	Dargwa_Icari	17	tell	X (tell) Y	говорить	X (говорить) Y-у	AGR=урс-иб	ERG	ILL	Y	ERG_ILL							yes
+79	Dargwa_Icari	18	hold	X (hold)Y	держать	X (держать) Y(-а)	кви=AGR=уц-иб-ца=AGR	TR		TR	TR	PREF (В.РУКИ)						yes
+79	Dargwa_Icari	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	тти=AGR=Егъ-иб	ABS	POST	Y	ABS_POST	PREF (POST)						yes
+79	Dargwa_Icari	20	milk	X (milk) Y	доить	X (доить) Y-а	AGR=ирцц-иб	TR		TR	TR							yes
+79	Dargwa_Icari	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	AGR=Егъ-иб	ABS	POST	Y	ABS_POST							yes
+79	Dargwa_Icari	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	тти=AGR=AGR=яхъ-иб	ABS	POST	Y	ABS_POST							yes
+79	Dargwa_Icari	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	гье=AGR=ч-иб-ца=AGR	ABS	ILL_COMIT	Y	ABS_ILL_COMIT	PREF (UP). Тот же глагол, что 99, ссориться						yes
+79	Dargwa_Icari	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	юлдаш+COP	*		*		NV. Не засчитываю (X -- друг Y-а)						yes
+79	Dargwa_Icari	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	пикри-ик1в-ил-ца=AGR	ABS	SUPLAT_CONT	Y	ABS_SUPLAT_CONT	LV. То же, что 48, мечтать						yes
+79	Dargwa_Icari	26	eat	X (eat) Y	есть	X (есть) Y	AGR=ерк-ун	TR		TR	TR							yes
+79	Dargwa_Icari	27	fry	X (fry) Y	жарить	X (жарить) Y	AGR-ерц1-иб	TR		TR	TR							yes
+79	Dargwa_Icari	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	тти-ке=AGR=ж-иб-ца=AGR	ABS	POST	Y	ABS_POST	PREF (POST, DOWN)						yes
+79	Dargwa_Icari	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	хъум-Ерт-ур	SUPLAT	SUPLAT_CONT	XY	SUPLAT_SUPLAT_CONT	LV						no
+79	Dargwa_Icari	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	AGR=иккв-ил-ца=AGR	ABS	ILL_ELAT	Y	ABS_ILL_ELAT	"букв. ""хотеть"", то же, что 46 (хотеть) и 121 (любить)"						yes
+79	Dargwa_Icari	31	call	X (call) Y	звать	X (звать) Y-а	вях1=AGR=ерч1-иб	ERG	ILL	Y	ERG_ILL	LV						yes
+79	Dargwa_Icari	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	тяниш-игь-уб	ABS	ILL_COMIT	Y	ABS_ILL_COMIT	LV						no
+79	Dargwa_Icari	33	know	X (know) Y	знать 	X (знать) Y-а	ухх-у	SUPLAT	ABS	X	SUPLAT_ABS							yes
+79	Dargwa_Icari	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	AGR=урхъ-я-ца=AGR	TR		TR	TR							yes
+79	Dargwa_Icari	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	гу-р-ирхьхь-а-ца=AGR	ABS	ANTE_ELAT	Y	ABS_ANTE_ELAT	PREF (SUB, ELAT). Пока включил в модель управления именно ANTEELAT, хотя в этом случае Расул предлагал считать, что в модель входит только просто ELAT						yes
+79	Dargwa_Icari	36	make	X (make) Y	изготовить	X (изготовить) Y	AGR=яркь-иб	TR		TR	TR	Тот же глагол, что 85, рожать						yes
+79	Dargwa_Icari	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	дукалт1-н-а-лли AGR-иркь-а-ца-AGR	ABS	SUPLATchi	Y	ABS_SUPLATchi	CV (издевательство делать)						yes
+79	Dargwa_Icari	38	have	X (have) Y	иметь	X (иметь) Y	те=AGR	GEN	ABS	X	GEN_ABS	"Это просто ""быть""/""иметься"""						yes
+79	Dargwa_Icari	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	убц1-а-ца=AGR	ABS	POST_ELAT	Y	ABS_POST_ELAT							yes
+79	Dargwa_Icari	40	paint	X (paint) Y	красить	X (красить) Y	AGR=ерхьхь-ур	TR		TR	TR							yes
+79	Dargwa_Icari	41	bite	X (bite) Y	кусать	X (кусать) Y-а	кьац1-чи=AGR=ич-иб	ABS	SUPLAT	Y	ABS_SUPLAT	PREF (ON); LV						yes
+79	Dargwa_Icari	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	катт-елг-ун	ABS	akkwal	Y	ABS_akkwal	"PREF (DOWN); Букв. ""Х дом не.быть остался"""						no
+79	Dargwa_Icari	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	AGR=урц-а-ца=AGR	TR		TR	TR							yes
+79	Dargwa_Icari	44	break	X (break) Y	ломать	X (ломать) Y	AGR=елкь-ун	TR		TR	TR							yes
+79	Dargwa_Icari	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	гап=AGR=иркь-а-ца=AGR	TR		TR	TR	хвала-делать						yes
+79	Dargwa_Icari	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	AGR=иккв-ил-ца=AGR	SUPLAT	ABS	X	SUPLAT_ABS	"Тот же глагол, что ""хотеть"", 121 (и 30, зависеть)"						yes
+79	Dargwa_Icari	47	wave	X (wave) Y	махать	X (махать) Y-ом	гьак1-ик1в-ил-ца=AGR	ABS	ERG	Y	ABS_ERG	LV						yes
+79	Dargwa_Icari	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	пикри-ик1в-ил-ца=AGR	ABS	SUPLAT_CONT	Y	ABS_SUPLAT_CONT	LV. То же, что 25, думать						yes
+79	Dargwa_Icari	49	wash	X (wash) Y	мыть	X (мыть) Y	AGR=ирц-иб	TR		TR	TR							yes
+79	Dargwa_Icari	50	put_on	X (put_on) Y	надевать	X (надевать) Y	чи-агь-ур	TR		TR	TR	PREF (ON)						no
+79	Dargwa_Icari	51	be_called	X (be_called) Y	называться	X (называться) Y	AGR=ик1в-ар	SUPLAT	ABSnoagr	X	SUPLAT_ABSnoagr	"Это конструкция с неназванным агенсом (типа ""(люди) этой вещи говорят ""компас"""")"						no
+79	Dargwa_Icari	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	AGR=ит-иб	*		*		"получено только ""бить"". Не засчитываю."						*
+79	Dargwa_Icari	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	чи=AGR=Ухъ-ун	ABS	SUPLAT	Y	ABS_SUPLAT	PREF (ON)						yes
+79	Dargwa_Icari	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	AGR=иц1-иб	ABS	GEN	Y	ABS_GEN							yes
+79	Dargwa_Icari	55	find	X (find) Y	находить	X (находить) Y(-а)	AGR=арчч-иб	TR		TR	TR							yes
+79	Dargwa_Icari	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	чи-гьатт-ихъ-атти + NEG	GEN	ABS	X	GEN_ABS	NEG + хватать (5); PREF (ON; UP). На прямой вопрос о структуре составляющих Расул написал, что посессор не входит в группу абсолютива						yes
+79	Dargwa_Icari	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	чи=AGR=аг-уй э=AGR=чч-ахъ-у	SUPLAT	ABS	X	SUPLAT_ABS	"CV (букв. ""видеть не любит""), идиоматическое прочтение"						yes
+79	Dargwa_Icari	58	like	X (like) Y	нравиться	X-у (нравиться) Y	AGR=ичч-ахъ-у	SUPLAT	ABS	X	SUPLAT_ABS	CAUS, тот же глагол, что 119, любить-2						yes
+79	Dargwa_Icari	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	х1яжат=AGR=ич-иб-ца=AGR	SUPLAT	ABS	X	SUPLAT_ABS	LV						yes
+79	Dargwa_Icari	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	алавг=AGR=яркь-иб-ца=AGR	TR		TR	TR	"CV (""вокруг-делать"")"						yes
+79	Dargwa_Icari	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	AGR=иг-ал	GEN	ABS	X	GEN_ABS	Не спрашивал про конкретно эту конструкцию, но по аналогии с другими предполагаю, что тут генитив не входит внутрь абсолютивной ИГ						yes
+79	Dargwa_Icari	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	жаваб AGR=Ичч-иб	ERG	SUPLAT	Y	ERG_SUPLAT	"CV (""ответ давать"")"						yes
+79	Dargwa_Icari	63	open	X (open) Y	открывать	X (открывать) Y	ач=AGR=яркь-иб	TR		TR	TR	CV (открыть-делать)						yes
+79	Dargwa_Icari	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	дик1ар-ци + COP	ABS	ELAT	Y	ABS_ELAT	NV						yes
+79	Dargwa_Icari	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	гьелга-ич-иб	ABS	ELAT	Y	ABS_ELAT	LV						no
+79	Dargwa_Icari	66	plough	X (plough) Y	пахать	X (пахать) Y	AGR=алц-а-ца=AGR	TR		TR	TR							yes
+79	Dargwa_Icari	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	кквяг1 COP=AGR	POSTtti	GEN	XY	POSTtti_GEN	"NV (""от X-а запах Y-а имеется""), не факт, что надо засчитывать"						yes
+79	Dargwa_Icari	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	те-шшал Ухъ-ун	ABS	GEN	Y	ABS_GEN	"Что-то вроде ""перешел на другую сторону дороги"", где ""на другую сторону"" -- наречие, восходящее к ИГ"						no
+79	Dargwa_Icari	69	sing	X (sing) Y	петь	X (петь) Y	AGR=елч1-ун	TR		TR	TR	"Тот же глагол, что ""читать"", 108"						yes
+79	Dargwa_Icari	70	write	X (write) Y	писать	X (писать) Y	AGR=елк1-ун	TR		TR	TR							yes
+79	Dargwa_Icari	71	drink	X (drink) Y	пить	X (пить) Y	AGR=ерчч-иб	TR		TR	TR							yes
+79	Dargwa_Icari	72	melt	X (melt) Y	плавить	X (плавить) Y	AGR=ац1-ахъ-иб	TR		TR	TR	CAUS						yes
+79	Dargwa_Icari	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	ABS-ал-ABS-ирк-а-ца-AGR	ABS	SUPLAT	Y	ABS_SUPLAT							yes
+79	Dargwa_Icari	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	гу=б=AGR=ат-ур	TR		TR	TR	PREF (SUB; ESS)						yes
+79	Dargwa_Icari	75	cover	X (cover) Y	покрывать	X (покрывать) Y	AGR=уц-иб-ца=AGR	TR		TR	TR	"Букв. ""ловить"""						yes
+79	Dargwa_Icari	76	remember	X (remember) Y	помнить	X (помнить) Y-а	гьан=AGR=иг-ал	SUPLAT	ABS	X	SUPLAT_ABS	LV						yes
+79	Dargwa_Icari	77	help	X (help) Y	помочь	X (помогать) Y-у	кумек AGR=яркь-иб	ERG	SUPLAT	Y	ERG_SUPLAT	"CV (""помощь сделал"")"						yes
+79	Dargwa_Icari	78	understand	X (understand) Y	понимать	X (понимать) Y	иргъ-а-ца=AGR	TR		TR	TR							yes
+79	Dargwa_Icari	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	чи-ка=AGR=яхъ-иб	ABS	SUPLAT	Y	ABS_SUPLAT	"PREF (ON; DOWN); букв. ""ударить"""						yes
+79	Dargwa_Icari	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	ка-тт-ичч-иб	*		*		"Мне не засчитать (букв. ""лицо Х-а порезалось Y-ом"")"						yes
+79	Dargwa_Icari	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	чи-ка=AGR=асс-ун-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	PREF (ON; DOWN)						yes
+79	Dargwa_Icari	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	гу=в=AGR=игь-уб	ABS	ELAT	Y	ABS_ELAT	PREF (SUB; ESS)						yes
+79	Dargwa_Icari	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	рази=AGR=игь-уб	ABS	SUPLAT	Y	ABS_SUPLAT	LV						yes
+79	Dargwa_Icari	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	гъай-ик1в-ил-ца=AGR	ABS	ILL_COMIT	Y	ABS_ILL_COMIT	LV. Именно про этот предикат РМ написал, что глагол требует просто комитатива, а не сочетания IN и COMIT, но поскольку ситуация такая же, как в других глаголах, а COMIT без IN у меня не встречается, пишу INCOMIT						yes
+79	Dargwa_Icari	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	AGR=яркь-иб	TR		TR	TR	Тот же глагол, что 36, изготовлять						yes
+79	Dargwa_Icari	86	drop	X (drop) Y	ронять	X (ронять) Y	квир=AGR=ич-яхъ-иб	TR		TR	TR	"PREF (""из рук""); CAUS"						yes
+79	Dargwa_Icari	87	govern	X (govern) Y	руководить	X (руководить) Y	ххула-ци + COP	ABS	GEN	Y	ABS_GEN	"Букв. ""X -- начальник Y-а""; надо принять принципиальное решение по поводу таких случаев"						yes
+79	Dargwa_Icari	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	AGR=ет1-иб-ца=AGR	SUPLAT	POST_ELAT	XY	SUPLAT_POST_ELAT	Вообще-то РМ написал, что лучше считать частью модели управления ELAT, а не POSTELAT						yes
+79	Dargwa_Icari	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	тти=AGR=ахь-а-ца=AGR	ABS	POST	Y	ABS_POST	PREF (POST)						yes
+79	Dargwa_Icari	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	чи-р-ка=AGR=хъ-ун	ABS	ELAT	Y	ABS_ELAT	PREF (ON; ELAT; DOWN)						yes
+79	Dargwa_Icari	91	listen	X (listen) to Y	слушать	X (слушать) Y	гу-лик1-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	PREF (SUPER)						yes
+79	Dargwa_Icari	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	гу-лик1-ан	ABS	SUPLAT	Y	ABS_SUPLAT	"PREF (SUPER); другая форма того же глагола, что в 91 (слушать), там согласование есть из-за ""вшитой"" копулы"						no
+79	Dargwa_Icari	93	hear	X (hear) Y	слышать	X (слышать) Y	AGR=икь-а-ца=AGR	TR		TR	TR							yes
+79	Dargwa_Icari	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	гъудур-гьа=AGR=ич-иб	ABS	ILL_COMIT	Y	ABS_ILL_COMIT	LV; PREF (UP)						yes
+79	Dargwa_Icari	95	look	X (look) at Y	смотреть	X (смотреть) на Y	вар-игь-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	LV						yes
+79	Dargwa_Icari	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	чи-р-ихь-уб	TR		TR	TR	PREF (ON; ELAT)						no
+79	Dargwa_Icari	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	мижер-к-Ерцц-ар	SUPLAT	ABS	X	SUPLAT_ABS	CV (сон-DOWN-стать)						no
+79	Dargwa_Icari	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	разий=AGR=игь-уб	*		*		"Невозможно засчитать, так как можно сказать ""А согласился с тем, что сказал Б"", но не ""А согласился с Б"""						yes
+79	Dargwa_Icari	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	гье=AGR=ч-иб-ца=AGR	ABS	ILL_COMIT	Y	ABS_ILL_COMIT	PREF (UP). Тот же глагол, что 23, драться						yes
+79	Dargwa_Icari	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	ца-AGR	ABS	SUPLAT	Y	ABS_SUPLAT	"букв. ""быть"""						yes
+79	Dargwa_Icari	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	тупанг ихь-уб	ERG	SUPLAT	Y	ERG_SUPLAT	"CV (букв. ""ружье кинул"")"						no
+79	Dargwa_Icari	102	pour	X (pour) Y	сыпать	X (сыпать) Y	AGR=И-ка=AGR=ихь-уб	TR		TR	TR	PREF (вместе; ON)						yes
+79	Dargwa_Icari	103	lose	X (lose) Y	терять	X (терять) Y	AGR=ит-яхъ-яхъ-иб	TR		TR	TR	LV; CAUS						yes
+79	Dargwa_Icari	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	гу=AGR=еркъ-иб	ABS	SUB	Y	ABS_SUB	PREF (UNDER)						yes
+79	Dargwa_Icari	105	kill	X (kill) Y	убивать	X (убивать) Y-а	ке=AGR=хь-уб	TR		TR	TR	PREF (ON)						yes
+79	Dargwa_Icari	106	hit	X (hit) Y	ударить	X (ударять) Y-а	AGR=яхъ-иб	ERG	SUPLAT	Y	ERG_SUPLAT							yes
+79	Dargwa_Icari	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	меса AGR=Ичч-иб	ERG	SUPLAT	Y	ERG_SUPLAT	"CV (""поцелуй дать"")"						yes
+79	Dargwa_Icari	108	read	X (read) Y	читать	X (читать) Y-а	AGR=елч1-ун	TR		TR	TR	"Тот же глагол, что ""петь"", 69"						yes
+79	Dargwa_Icari	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	гьак1=AGR=яркь-иб	TR		TR	TR	LV						yes
+79	Dargwa_Icari	110	respect	X (respect) Y	уважать	X (уважать) Y-а	х1урмат AGR=иркь-у	ERG	GEN	Y	ERG_GEN	"CV (""уважение делать""). ИГ в генитиве отрывается от ""уважения"""						yes
+79	Dargwa_Icari	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	?	*		*		"Получено только ""не любит"", не засчитываю"						*
+79	Dargwa_Icari	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	рази-ли COP+AGR	ABS	SUPLAT	Y	ABS_SUPLAT	"NV (""быть радость-ADV"")"						yes
+79	Dargwa_Icari	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	дикка=AGR=ишш-иб-ца=AGR	ERG	SUPLAT	Y	ERG_SUPLAT	"LV (согласование с внутренним аргументом; ""любовь"")"						yes
+79	Dargwa_Icari	114	trust	X (trust) Y	доверять	X (доверять) Y-у	чи=AGR=ихх-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	"То же, что ""верить"" (7); PREF (ON)"						yes
+79	Dargwa_Icari	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	урк1ец1и-чи=AGR=улхъ-а-ца=AGR	GEN	SUPLAT	XY	GEN_SUPLAT	LV; PREF (ON). Согласование с внутренним аргументом						yes
+79	Dargwa_Icari	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	г1яси-ли COP+AGR	*		*		"NV (""злой-ADV есть""). Не засчитываю, так как это гораздо более широкое значение"						yes
+79	Dargwa_Icari	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	кьуц1-игь-уб-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	LV. То же, что 123						yes
+79	Dargwa_Icari	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	тамаша=AGR=игь-уб	ABS	SUPLAT	Y	ABS_SUPLAT	LV; Тот же глагол, что для поражаться (125)						yes
+79	Dargwa_Icari	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	AGR=ичч-ахъ-у	SUPLAT	ABS	X	SUPLAT_ABS	CAUS, тот же глагол, что 58, нравиться						yes
+79	Dargwa_Icari	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	х1яйран=AGR=иркь-ца=AGR	ABS	ERG	Y	ABS_ERG	LV						yes
+79	Dargwa_Icari	121	want	X (want) Y	хотеть	X (хотеть) Y-а	AGR=иккв-ил-ца=AGR	SUPLAT	ABS	X	SUPLAT_ABS	"Тот же глагол, что ""любить"", 46 (и 30, зависеть)"						yes
+79	Dargwa_Icari	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	г1яси-ли-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	NV						yes
+79	Dargwa_Icari	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	кьуц1-игь-уб	ABS	SUPLAT	Y	ABS_SUPLAT	LV. То же, что 117						no
+79	Dargwa_Icari	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	пашман=AGR=игь-ахъ-уб	TR		TR	TR	LV; CAUS (от 127, огорчаться)						yes
+79	Dargwa_Icari	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	тамаша=AGR=игь-уб	ABS	SUPLAT	Y	ABS_SUPLAT	LV; Тот же глагол, что для удивляться (118)						yes
+79	Dargwa_Icari	126	despise	X (despise) Y	презирать	X (презирать) Y-а	чи=AGR=аг-уй э=AGR=чч-ахъ-у	*		*		"Тот же перевод, что для ""ненавидеть"" (57), не засчитываю"						yes
+79	Dargwa_Icari	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	пашман-игь-уб	ABS	bagandan	Y	ABS_bagandan	LV						no
+79	Dargwa_Icari	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	кьуц1-чи=AGR=Ир-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT	PREF (ON); LV						yes
+79	Dargwa_Icari	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	г1ях1-к-Ерцц-ар	SUPLAT	ABS	X	SUPLAT_ABS	PREF (ON); LV						yes
+79	Dargwa_Icari	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	уруцц-ик1в-ил-ца=в	*		*		"Не выразить нужное значение, только ""стесняется того, что он маленький"""						yes

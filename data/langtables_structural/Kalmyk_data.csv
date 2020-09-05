@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+14	Kalmyk	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	övd	GEN	NOM	X	GENNOM	У Риммы первое: GEN NOM. У Е.М. тоже. Беру. DAT-NOM: Вариант Айсы, OK у Риммы. 						
+14	Kalmyk	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	šaltəlgəl, gemt	*		*		"šaltəlgəl -- вариант из материалов и словаря. gemt -- глагол, который часто используют информанты. Но при этом никак не получается выразить двух участников -- либо не говорят болезнь вообще, либо используются глагол, который значит что-то конкртное, типа ""просутудиться"", либо говорят ""стал с болезнью легких"""						
+14	Kalmyk	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	ää	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	xaj	TR		TR	TR	Материалы						
+14	Kalmyk	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	kür	DAT	NOM	X	DATNOM	Материалы. То же, что 21 (достичь)						
+14	Kalmyk	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	dura	TR		TR	TR	Материалы						
+14	Kalmyk	7	believe	X (believe) Y	верить	X (верить)Y-у	itkə	NOM	DAT	Y	NOMDAT	Материалы. Тот же глагол, что доверять, 114						
+14	Kalmyk	8	take	X (take) Y	взять	X (брать) Y(-а)	av	TR		TR	TR	Материалы						
+14	Kalmyk	9	see	X (see) Y	видеть	X (видеть) Y(-а)	üz	TR		TR	TR	Материалы						
+14	Kalmyk	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*		*		В словаре есть глагол ülmäl, но информанты его не использовали, Е.М. его даже не опознала. Другие информанты не смогли помочь, переводили перифрастически						
+14	Kalmyk	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	xarʁ	NOM	COM	Y	NOMCOM	Материалы						
+14	Kalmyk	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	or	NOM	DAT	Y	NOMDAT	Материалы. То же, что 79 (попасть)						
+14	Kalmyk	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	diil	TR		TR	TR	Материалы						
+14	Kalmyk	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ʁar	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	15	drive	X (drive) Y	гнать	X (гнать) Y-а	tuu	TR		TR	TR	Материалы						
+14	Kalmyk	16	bend	X (bend) Y	гнуть	X (гнуть) Y	matilʁ	TR		TR	TR	Материалы						
+14	Kalmyk	17	tell	X (tell) Y	говорить	X (говорить) Y-у	kel	NOM	DAT	Y	NOMDAT	Материалы						
+14	Kalmyk	18	hold	X (hold)Y	держать	X (держать) Y(-а)	bär	TR		TR	TR	Материалы						
+14	Kalmyk	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	küc	TR		TR	TR	Материалы						
+14	Kalmyk	20	milk	X (milk) Y	доить	X (доить) Y-а	saa	TR		TR	TR	Материалы						
+14	Kalmyk	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	kür	NOM	DAT	Y	NOMDAT	Материалы. То же, что 5 (быть достаточно)						
+14	Kalmyk	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	köndä	TR		TR	TR	Материалы						
+14	Kalmyk	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	noold	*		*		В материалах был ассоциатив, он же был подтвержден (ОК) Риммой. Но чем он лучше комитатива, непонятно. В сети нашел 1 пример, там COM. И самое главное: все информанты первым делом называют конструкцию типа A B xojr. При этом Е.М. эксплицитно отвергла и COM, и ASSOC. Не беру, короче говоря.						
+14	Kalmyk	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	üürl	NOM	COM	Y	NOMCOM	Вариант Е.М. Еще был вариант NV (иньг), для него в материалах был COM, но Римма подтверждает и COM и ASSOC						
+14	Kalmyk	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	uxal	NOM	GENtuskar	Y	NOMGENtuskar	Вариант Риммы						
+14	Kalmyk	26	eat	X (eat) Y	есть	X (есть) Y	id	TR		TR	TR	Материалы						
+14	Kalmyk	27	fry	X (fry) Y	жарить	X (жарить) Y	šar	TR		TR	TR	Материалы						
+14	Kalmyk	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	külä	TR		TR	TR	Материалы						
+14	Kalmyk	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	martə	NOM	GENtuskar	Y	NOMGENtuskar	Чередуется с TR						
+14	Kalmyk	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	medə-gdə	NOM	ABL	Y	NOMABL	"PASS. Вариант Айсы. Не совсем точный (""знается"", ""узнается""). Е.М. не помогла"						
+14	Kalmyk	31	call	X (call) Y	звать	X (звать) Y-а	duud	TR		TR	TR	Материалы						
+14	Kalmyk	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	tan'ld	NOM	COM	Y	NOMCOM	RECP. Материалы						
+14	Kalmyk	33	know	X (know) Y	знать 	X (знать) Y-а	med	TR		TR	TR	Материалы. То же, что 78 (понимать)						
+14	Kalmyk	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	naad	TR		TR	TR	Есть еще вариант cok (бить). Материалы						
+14	Kalmyk	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	zul	NOM	ABL	Y	NOMABL	Это вариант Риммы. В словаре тоже есть. Но в материалах был еще TR						
+14	Kalmyk	36	make	X (make) Y	изготовить	X (изготовить) Y	ke	TR		TR	TR	Материалы. Это то же,  что 102 (сыпать)						
+14	Kalmyk	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	döögl	TR		TR	TR	Переходность из материалов и словаря						
+14	Kalmyk	38	have	X (have) Y	иметь	X (иметь) Y	bää	NOM	ASSOC	Y	NOMASSOC	"Это на самом деле глагол ""быть"". Есть еще конструкция DAT NOM. Е.М. использовала ее, но признала, что и NOM-ASSOC возможна тоже. Тут не совсем все понятно -- нашел в интернете лингвистические работы (Stolz?), где эксплицитно говорится, что в калмыцком две основных конструкции. "						
+14	Kalmyk	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	xää	TR		TR	TR	Материалы						
+14	Kalmyk	40	paint	X (paint) Y	красить	X (красить) Y	šird	TR		TR	TR	Материалы						
+14	Kalmyk	41	bite	X (bite) Y	кусать	X (кусать) Y-а	zuu	TR		TR	TR	Материалы						
+14	Kalmyk	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	xaʁc	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	xavl	TR		TR	TR	Материалы						
+14	Kalmyk	44	break	X (break) Y	ломать	X (ломать) Y	xamxəl	TR		TR	TR	Материалы						
+14	Kalmyk	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	zuʁud	NOM	DAT	Y	NOMDAT	Вариант Айсы и Риммы						
+14	Kalmyk	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	durl	TR		TR	TR	Материалы						
+14	Kalmyk	47	wave	X (wave) Y	махать	X (махать) Y-ом	dajl	NOM	INSTR	Y	NOMINSTR	Вариант Е.М. В материалах был еще ǯivr, тоже NOM-INSTR						
+14	Kalmyk	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	san	*		*		"Не берем. Во-первых, нет специализированного глагола (это тот же глагол, что 88, скучать, и вообще-то на самом деле значит ""думать""). Во-вторых, с сентенциальным актантом явно лучше, чем с именным"						
+14	Kalmyk	49	wash	X (wash) Y	мыть	X (мыть) Y	uʁa	TR		TR	TR	Материалы						
+14	Kalmyk	50	put_on	X (put_on) Y	надевать	X (надевать) Y	öms	TR		TR	TR	Материалы						
+14	Kalmyk	51	be_called	X (be_called) Y	называться	X (называться) Y	nerädə-gdə	NOM	gidh	Y	NOMgidh	PASS. Айса. Это грамматикализовавшийся конверб глагола говорить. Не знаю, надо ли его засчитывать.						
+14	Kalmyk	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	zas	TR		TR	TR	Материалы						
+14	Kalmyk	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	dävr	NOM	DIR	Y	NOMDIR	Материалы						
+14	Kalmyk	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	düür	NOM	INSTR	Y	NOMINSTR	Материалы						
+14	Kalmyk	55	find	X (find) Y	находить	X (находить) Y(-а)	ol	TR		TR	TR	Материалы						
+14	Kalmyk	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	kür + NEG	DAT	NOM	X	DATNOM	"Айса. Это отрицание от ""хватать""."						
+14	Kalmyk	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	dur-go	NOM	DAT	Y	NOMDAT	NV. Сам предикат давали разные люди. Не было уверенности в том, кто кого ненавидит. Это вариант Е.М., в нем ясно, кто кого ненавидит. Айса использовала (любовь-NEG стать), DAT-NOM (букв. без.любви стать), но не была уверена, кто тут кого ненавилит.						
+14	Kalmyk	58	like	X (like) Y	нравиться	X-у (нравиться) Y	taasə-gdə	DAT	NOM	X	DATNOM	PASS. Материалы. Это тот же глагол, что 129 (симпатизировать), тот же перевод прямо.						
+14	Kalmyk	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	kerg-tä	DAT	NOM	X	DATNOM	NV. Материалы						
+14	Kalmyk	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	tögäl	TR		TR	TR	Материалы						
+14	Kalmyk	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	üld	DAT	NOM	Y	DATNOM	Материалы						
+14	Kalmyk	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	xärü ög	NOM	DAT	Y	NOMDAT	CV. Обратно дать						
+14	Kalmyk	63	open	X (open) Y	открывать	X (открывать) Y	sek	TR		TR	TR	Материалы						
+14	Kalmyk	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	jilʁər	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	xocr	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	66	plough	X (plough) Y	пахать	X (пахать) Y	xaʁl	TR		TR	TR	Материалы						
+14	Kalmyk	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	ünər-tä	NOM	GEN	Y	NOMGEN	"NV (с запахом). Вариант Риммы, Екатерины Михайловны. По сути это неглагольный актант, но падежная форма, имеющая значение ""с запахом"", - это предикативная вершина"						
+14	Kalmyk	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	ʁatl	TR		TR	TR	Материалы						
+14	Kalmyk	69	sing	X (sing) Y	петь	X (петь) Y	duul	TR		TR	TR	Материалы						
+14	Kalmyk	70	write	X (write) Y	писать	X (писать) Y	bič	TR		TR	TR	Материалы						
+14	Kalmyk	71	drink	X (drink) Y	пить	X (пить) Y	uu	TR		TR	TR	Материалы						
+14	Kalmyk	72	melt	X (melt) Y	плавить	X (плавить) Y	xäälül	TR		TR	TR	CAUS. Материалы						
+14	Kalmyk	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	zogs	NOM	DAT	Y	NOMDAT	"Римма. Буквально ""стоять"""						
+14	Kalmyk	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	orʁ	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	75	cover	X (cover) Y	покрывать	X (покрывать) Y	bürk	TR		TR	TR	Материалы						
+14	Kalmyk	76	remember	X (remember) Y	помнить	X (помнить) Y-а	martə + NEG	TR		TR	TR	Римма: не забывать. Айса: san, но это очень многозначный глагол (тоже переходный).						
+14	Kalmyk	77	help	X (help) Y	помочь	X (помогать) Y-у	nökd bol	NOM	DAT	Y	NOMDAT	CV (помощь стать)						
+14	Kalmyk	78	understand	X (understand) Y	понимать	X (понимать) Y	med	TR		TR	TR	Айса. То же, что 33 (знать)						
+14	Kalmyk	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	or	NOM	DAT	Y	NOMDAT	"Айса. Буквально ""вошла"" (то же, что 12)"						
+14	Kalmyk	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	kerč-gd	NOM	INSTR	Y	NOMINSTR	PASS. Материалы						
+14	Kalmyk	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	naald	NOM	DAT	Y	NOMDAT	Материалы. Там есть показатель RECP.						
+14	Kalmyk	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	diilə-gd	NOM	DAT	Y	NOMDAT	Айса, Римма. PASS (от победить)						
+14	Kalmyk	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	bajrl	NOM	DAT	Y	NOMDAT	Материалы						
+14	Kalmyk	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	küünd	NOM	ASSOC	Y	NOMASSOC	Материалы						
+14	Kalmyk	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	ʁarʁ	TR		TR	TR	CAUS						
+14	Kalmyk	86	drop	X (drop) Y	ронять	X (ронять) Y	unʁa	TR		TR	TR	Материалы						
+14	Kalmyk	87	govern	X (govern) Y	руководить	X (руководить) Y	ʁard	TR		TR	TR	Римма. В материалах еще был tolʁal, он тоже переходный						
+14	Kalmyk	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	san	TR		TR	TR	San -- вариант Е.М. и Риммы (по отдельности). Вообще-то это думать. есть еще у Айсы (и в словаре) uud'. Но он вроде тоже переходный.						
+14	Kalmyk	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	dax	TR		TR	TR	Материалы						
+14	Kalmyk	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	buu	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	91	listen	X (listen) to Y	слушать	X (слушать) Y	soŋs	TR		TR	TR	Айса. То же, что 92, 93						
+14	Kalmyk	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	soŋs	TR		TR	TR	Айса. То же, что 91, 93						
+14	Kalmyk	93	hear	X (hear) Y	слышать	X (слышать) Y	soŋs	TR		TR	TR	Айса. То же, что 91, 92						
+14	Kalmyk	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	negd	NOM	COM	Y	NOMCOM	Материалы						
+14	Kalmyk	95	look	X (look) at Y	смотреть	X (смотреть) на Y	xälä	TR		TR	TR	Материалы						
+14	Kalmyk	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	tääl	TR		TR	TR	Материалы						
+14	Kalmyk	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nöörtə üz	TR		TR	TR	"Айса. Буквально ""видеть во не"". У Риммы та же конструкция, но ""во сне"" выражено по-другому (züüdən-dän)"						
+14	Kalmyk	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	zövšär	NOM	ASSOC	Y	NOMASSOC	Не знаю, насколько можно верить тому, что именно здесь ASSOC, а не COM. Материалы. Е.М. использовала такую структуру, что актантом были СЛОВА (согласился со словами М.)						
+14	Kalmyk	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	cüüg	NOM	ASSOC	Y	NOMASSOC	Не знаю, насколько можно верить тому, что именно здесь ASSOC, а не COM. Материалы. Информанты, включая Е.М., не помогли						
+14	Kalmyk	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	bää	NOM	NOM	Y	NOMNOM	"Это на самом деле глагол ""быть"". Это вариант Риммы. У Айсы был kür- (достигать)"						
+14	Kalmyk	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	xa	TR		TR	TR	Это вариант из материалов; у Риммы была та же конструкция, но непонятный глагол xad-, который я не вижу в словаре						
+14	Kalmyk	102	pour	X (pour) Y	сыпать	X (сыпать) Y	ke	TR		TR	TR	"Это буквально ""делать"" (то же, что 36, изготовлять). Материалы"						
+14	Kalmyk	103	lose	X (lose) Y	терять	X (терять) Y	gee	TR		TR	TR	Материалы						
+14	Kalmyk	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	čiv	NOM	DAT	Y	NOMDAT	Материалы						
+14	Kalmyk	105	kill	X (kill) Y	убивать	X (убивать) Y-а	al	TR		TR	TR	Материалы						
+14	Kalmyk	106	hit	X (hit) Y	ударить	X (ударять) Y-а	cok	TR		TR	TR	Материалы						
+14	Kalmyk	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	ums	TR		TR	TR	Материалы						
+14	Kalmyk	108	read	X (read) Y	читать	X (читать) Y-а	umš	TR		TR	TR	Материалы						
+14	Kalmyk	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	ködəlg	TR		TR	TR	Материалы						
+14	Kalmyk	110	respect	X (respect) Y	уважать	X (уважать) Y-а	kündəl	TR		TR	TR	Материалы						
+14	Kalmyk	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	sagl	NOM	ABL	Y	NOMABL	Материалы						
+14	Kalmyk	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	xanəltta	NOM	DAT	Y	NOMDAT	Айса. NV.						
+14	Kalmyk	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	dur-an ög-	NOM	DAT	Y	NOMDAT	"Айса, Римма. CV. Букв. ""дал любовь"""						
+14	Kalmyk	114	trust	X (trust) Y	доверять	X (доверять) Y-у	itkə	NOM	DAT	Y	NOMDAT	Айса. Тот же глагол, что верить, 7						
+14	Kalmyk	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sanan zov-	NOM	DAT	Y	NOMDAT	"Вариант Риммы. CV (мысль страдать). У Айсы было gejür с той же моделью управления, но это вообще-то ""унывать"""						
+14	Kalmyk	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	atarx	NOM	DAT	Y	NOMDAT	Материалы. Римма не смогла перевести						
+14	Kalmyk	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	uurta 	NOM	DAT	Y	NOMDAT	NV. Беру вариант, предложенный Е.М. Еще есть несколько других вариантов, полученных для 117 и 122 (они мало различаются) от Риммы и Айсы. Есть еще CV (мой гнев достигает), но при нем хуже выражается второй актант и нарушается структура составляющих.						
+14	Kalmyk	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	aləŋ bol	NOM	DAT	Y	NOMDAT	"Айса. Букв. ""удивление стать"""						
+14	Kalmyk	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	durta	NOM	DAT	Y	NOMDAT	"Материалы, Айса подтвердила. NV (букв. ""с любовью быть"")"						
+14	Kalmyk	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*		*		Айса. Не получилось найти						
+14	Kalmyk	121	want	X (want) Y	хотеть	X (хотеть) Y-а	sed	*		*		Айса. Не подходит: обязатель должен быть СА						
+14	Kalmyk	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	uurl	NOM	DAT	Y	NOMDAT	Выбираю самый простой глагольный вариант из нескольких переводов, полученных для 128 и 122 (они мало различаются) от Риммы и Айсы. Есть еще CV (мой гнев достигает), но при нем хуже выражается второй актант и нарушается структура составляющих. Е.М. использовала неглагольный вариант -- то же, что пошел в 117						
+14	Kalmyk	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	ʁundəl-ta	NOM	DAT	Y	NOMDAT	Римма. NV (с обидой)						
+14	Kalmyk	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	ʁunda	TR		TR	TR	CAUS. Материалы						
+14	Kalmyk	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*		*		Айса использовала глагол (son'əmsə). Надо перепроверить. Этот глагол использован в полученном предложении зеркально по отношению к тому, что в словаре. Ничего не понимаю. По словарю глагол значит изумляться. А здесь вроде бы как переходный. Е.М. что-то странное предложила						
+14	Kalmyk	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*		*		Айса. Не находится глагола презирать, только не любить, ненавидеть.						
+14	Kalmyk	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*		*		Айса: ʁund- или ʁundəl- или ʁundul-. Возникли сложность с этим глаголом, надо переспросить. badma ko*vu*n-ann’ to*la* hundEl-vE. NB: в словаре есть hund- обижаться и каузатив от него hund-ul-. Первое совсем не похоже на то, что у меня, по форме. Второе – по смыслу вряд ли подходит. Е.М. не смогла перевести подходящим для меня образом.						
+14	Kalmyk	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	uurl	NOM	DAT	Y	NOMDAT	Айса, тот же глагол, что для 122						
+14	Kalmyk	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	taasə-gdə	DAT	NOM	X	DATNOM	Айса. PASS. Это просто то же, что нравиться (58), тот же перевод прямо.						
+14	Kalmyk	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	ič	NOM	ABL	Y	NOMABL	Это вараинт Риммы. Еще был перевод у Айсы, там был другой глагол (emä), но та же модель управления						

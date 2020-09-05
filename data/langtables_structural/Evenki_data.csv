@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+55	Evenki	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	энӯ-	POSS	NOM	X	POSSNOM	"Обычная посессивная конструкция. АМП считает, что разорвать ИГ (посессора и посессум) невозможно. Вообще-то в эвенкийском есть еще и ""третий изафет"", но условия его появления АМП точно очертить не может (с личными местоимениями?)"						
+55	Evenki	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	бумӯ-	NOM	INSTR	Y	NOMINSTR	Исторически мӯ- показатель желательности						
+55	Evenki	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	ӈэ̄лэ-	NOM	ABL	Y	NOMABL							
+55	Evenki	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	гарада̄-	TR		TR	TR							
+55	Evenki	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	элэкин	POSS	NOM	X	POSSNOM	NV. В других временах была бы связка. Обычная посессивная конструкция (см. 1)						
+55	Evenki	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	урэ-	TR		TR	TR							
+55	Evenki	7	believe	X (believe) Y	верить	X (верить)Y-у	тэде̄-	TR		TR	TR	В таблице вписан еще и NOM_DAT, но А.М.П. считает, что из двух вариантов аккузатив более естественный, и я выбираю его (к тому же не совпадает с русским). похоже на 114 (там IMP)						
+55	Evenki	8	take	X (take) Y	взять	X (брать) Y(-а)	гада-	TR		TR	TR							
+55	Evenki	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ичэ-	TR		TR	TR							
+55	Evenki	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*		*		Не удалось получить перевод (можно 'старея, становшься забывчивым')						
+55	Evenki	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	бака-лды-	NOM	COM	Y	NOMCOM	"RECP от ""находить"""						
+55	Evenki	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ӣ-	NOM	LOC	Y	NOMLOC							
+55	Evenki	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	давды̄-	TR		TR	TR							
+55	Evenki	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ю̄-	NOM	ABL	Y	NOMABL							
+55	Evenki	15	drive	X (drive) Y	гнать	X (гнать) Y-а	аха-	TR		TR	TR							
+55	Evenki	16	bend	X (bend) Y	гнуть	X (гнуть) Y	токчи-в-	TR		TR	TR	CAUS						
+55	Evenki	17	tell	X (tell) Y	говорить	X (говорить) Y-у	гун-	NOM	DAT	Y	NOMDAT	АМП считал, что с этим глаголом чаще используется ACC; но Н.Я. с этим категорически не согласна						
+55	Evenki	18	hold	X (hold)Y	держать	X (держать) Y(-а)	дявӯча-	TR		TR	TR							
+55	Evenki	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	бокон-	TR		TR	TR							
+55	Evenki	20	milk	X (milk) Y	доить	X (доить) Y-а	сир-	TR		TR	TR	Буквально 'давить'						
+55	Evenki	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	ис-	NOM	LOC	Y	NOMLOC	АМП считает, что тут был бы лучше аккузатив; Н.Я. считает, что возможен и ACC, и LOC, но что LOC лучше. Оставляю LOC.						
+55	Evenki	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	хэрку-	TR		TR	TR	"""Задеть"""						
+55	Evenki	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	кухӣ-	NOM	COM	Y	NOMCOM							
+55	Evenki	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	гирки-тэ-	TR		TR	TR	VRBLZ. Первым был записан вариант с -лды (реципрок), присоединенным прямо к имени. А.М.П. считал, что лучше бы не реципрок, а просто отыменный глагол (с л-). Н.Я. потом признала, что вариант с TR и гирки-тэ- лучше						
+55	Evenki	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	дялдя̄-	NOM	PROL	Y	NOMPROL	В качестве альтернативы предложен переходный глагол, букв. 'вспоминать'						
+55	Evenki	26	eat	X (eat) Y	есть	X (есть) Y	деп-	TR		TR	TR							
+55	Evenki	27	fry	X (fry) Y	жарить	X (жарить) Y	далга-	TR		TR	TR							
+55	Evenki	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	ала̄т-	TR		TR	TR							
+55	Evenki	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	омӈо-	*		*		Возможен только СА (забыл о том, что есть другая дорога). Скорее всего, именной актант тут затруднителен.						
+55	Evenki	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*		*		Не удалось найти перевод						
+55	Evenki	31	call	X (call) Y	звать	X (звать) Y-а	э̄рӣ-	TR		TR	TR							
+55	Evenki	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	са̄-лды-	TR		TR	TR	"RECP от ""знать"""						
+55	Evenki	33	know	X (know) Y	знать 	X (знать) Y-а	са̄-	TR		TR	TR							
+55	Evenki	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	эви-де-	NOM	INSTR	Y	NOMINSTR	Альтернативный вариант: гитара-дӯ (гитара-DAT) под влиянием русского языка. А.М.П. считает, что оба вариант искусственны, так как традиционно они вообще не играли ни каких инструментах (только на бубне)						
+55	Evenki	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	*	*		*		Не удалось перевести						
+55	Evenki	36	make	X (make) Y	изготовить	X (изготовить) Y	о̄-	TR		TR	TR							
+55	Evenki	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	муӈна̄-	TR		TR	TR	Вообще-то отглоссировано как torture						
+55	Evenki	38	have	X (have) Y	иметь	X (иметь) Y	(COP)	NOM	ORN	Y	NOMORN	Вообще-то деривационный аффикс -- Ornative (с машиной). У Булатовой и Гренобль описывается как POSS. А.М.П. считает, что основная конструкция DAT-NOM: Петя-дӯ машина би-хи-н [Петя-DAT машина быть-PRES-3SG]						
+55	Evenki	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	гэлэктэ-	TR		TR	TR							
+55	Evenki	40	paint	X (paint) Y	красить	X (красить) Y	караска-	TR		TR	TR	Очевидно, заимствование						
+55	Evenki	41	bite	X (bite) Y	кусать	X (кусать) Y-а	кики-	TR		TR	TR							
+55	Evenki	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*		*		"Только ""остаться без дома"""						
+55	Evenki	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	дява-кса-дя-	TR		TR	TR	take-PROSP- (и потом IMPF)						
+55	Evenki	44	break	X (break) Y	ломать	X (ломать) Y	хоко̄ли-	TR		TR	TR	В словаре хоко̄лӣ-						
+55	Evenki	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*	*		*		Нет эквивалента						
+55	Evenki	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	ая̄в-	TR		TR	TR	То же, что 58, 110, 119						
+55	Evenki	47	wave	X (wave) Y	махать	X (махать) Y-ом	а̄рпу-	NOM	INSTR	Y	NOMINSTR	А.М.П. считает, что правильно арпу-						
+55	Evenki	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	га-мӯ-	NOM	ACC.INDEF	Y	NOMACC.INDEF	взять-DESID						
+55	Evenki	49	wash	X (wash) Y	мыть	X (мыть) Y	силки-	TR		TR	TR							
+55	Evenki	50	put_on	X (put_on) Y	надевать	X (надевать) Y	тэт-	TR		TR	TR							
+55	Evenki	51	be_called	X (be_called) Y	называться	X (называться) Y	гэрби-	POSS	NOM	X	POSSNOM	"NV. Не уверен, что так правильно анализировать. Структура буквально: этот предмет ""компас"" имя-P.3SG"						
+55	Evenki	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*		*		"Было предложено два глагола (идака- и эниктэгӣ-), но я решил (вслед за Надеждй Яковлевной) их не засчитывать, так как они оба предполагают битье, хотя второй (эниктэгӣ-) и имеет в словаре перевод ""наказать"""						
+55	Evenki	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	упчу-	NOM	DIR	Y	NOMDIR							
+55	Evenki	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	дялурбу-	NOM	INSTR	Y	NOMINSTR							
+55	Evenki	55	find	X (find) Y	находить	X (находить) Y(-а)	бака-	TR		TR	TR							
+55	Evenki	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG ис-	DAT	NOM	X	DATNOM	Изменил здесь вариант по сравнению с тем, что было предложено А.М.П.						
+55	Evenki	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ичэмэ̄хи-	TR		TR	TR	"Почему-то отличается только на 1 звук от 126, ""презирать"". А.М.П. считает, что это плохой пример, как и все примеры на абстрактные чувства и отношения."						
+55	Evenki	58	like	X (like) Y	нравиться	X-у (нравиться) Y	ая̄в-	TR		TR	TR	То же, что 46, 110, 119. А.М.П. сомневается, что это можно использовать по отношению к стимулу -- не человеку.						
+55	Evenki	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	на̄да	DAT	NOM	X	DATNOM	NV. Заимствование из русского. 						
+55	Evenki	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	мӯрэлӣн 	*		*								
+55	Evenki	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	эмэп-	DAT	NOM	X	DATNOM	А.М.П. дал вариант hулап-, есть еще варианты глаголов (эмэ̄нму-), но структура та же						
+55	Evenki	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	гун-	NOM	DAT	Y	NOMDAT	"Получен только тот же глагол, что просто ""говорить"""						
+55	Evenki	63	open	X (open) Y	открывать	X (открывать) Y	нӣ-	TR		TR	TR	"А.М.П. считает, что этот ""открыть"" подойдет про дверь, но не про банку."						
+55	Evenki	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	хуӈту(-тмэр)	NOM	ABL	Y	NOMABL	"NV. ""Другой(-CMPR)"""						
+55	Evenki	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	супты-в-	NOM	ABL	Y	NOMABL	CAUS. А.М.П. считал, что это калька, но Н.Я. снова сама пордила точно такую же конструкцию						
+55	Evenki	66	plough	X (plough) Y	пахать	X (пахать) Y	улэ-	TR		TR	TR	Есть еще вариант нэктэ-						
+55	Evenki	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	ӈо̄-	NOM	ABL	Y	NOMABL	Первый вариант перевода был NOMINSTR, но А.М.П, указал, что это калька с русского и со второго раза Н.Я. породила структуру с NOMABL.						
+55	Evenki	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	хэдэ-	TR		TR	TR							
+55	Evenki	69	sing	X (sing) Y	петь	X (петь) Y	икэ-	TR		TR	TR							
+55	Evenki	70	write	X (write) Y	писать	X (писать) Y	дуку-	TR		TR	TR							
+55	Evenki	71	drink	X (drink) Y	пить	X (пить) Y	ум-	TR		TR	TR							
+55	Evenki	72	melt	X (melt) Y	плавить	X (плавить) Y	унӈӣ-	TR		TR	TR							
+55	Evenki	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	дёк-	NOM	DAT	Y	NOMDAT	Тот же глагол, что 98. Тут IMPF						
+55	Evenki	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	эмэ̄н-	TR		TR	TR							
+55	Evenki	75	cover	X (cover) Y	покрывать	X (покрывать) Y	дас-	TR		TR	TR	IMP (имперфект)						
+55	Evenki	76	remember	X (remember) Y	помнить	X (помнить) Y-а	дёнча-	TR		TR	TR	IMP (имперфект). Первый гласный долгий.						
+55	Evenki	77	help	X (help) Y	помочь	X (помогать) Y-у	бэлэ-	NOM	DAT	Y	NOMDAT	А.М.П. считает, что тут больше ожидается аккузатив, но Н.Я. настаивает, что возможен только датив						
+55	Evenki	78	understand	X (understand) Y	понимать	X (понимать) Y	тылде-	TR		TR	TR	IMP (имперфект)						
+55	Evenki	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	на̄-	NOM	LOC	Y	NOMLOC	А.М.П. (и словарь) считает, что тут больше ожидается датив. Н.Я. считает, что хорошо LOC, хуже ACC, еще значительно хуже -- DAT						
+55	Evenki	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	минэ-в-	NOM	INSTR	Y	NOMINSTR	CAUS						
+55	Evenki	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	нама-ра-	NOM	ALL	Y	NOMALL	А.М.П. считает, что тут должен быть датив (так и в словаре) или, несколько хуже, локатив. Н.Я. говорит, что нужен ALL, на втором месте LOC, DAT хуже всего						
+55	Evenki	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	давды̄-в-	NOM	DAT	Y	NOMDAT	"CAUS от ""выигрывать"""						
+55	Evenki	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	урун-	*		*		Н.Я.Б. дала вариант с дативом. Но А.М.П. утверждает, что это неестественно, что в эвенкийском это одноместный глагол						
+55	Evenki	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	улгучэмэ̄т-	NOM	COM	Y	NOMCOM							
+55	Evenki	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	балды̄-в-	TR		TR	TR	"CAUS. Н.Я. сначала использовала тот же глагол без каузатива. А.М.П. указал, что каузатив тоже хорошо, в итоге Н.Я. именно такой вариант предпочла. Еще можно ""М. сын-ORN(ADJ) стала"""						
+55	Evenki	86	drop	X (drop) Y	ронять	X (ронять) Y	тыки-в-	TR		TR	TR	CAUS						
+55	Evenki	87	govern	X (govern) Y	руководить	X (руководить) Y	нюӈнимнӣ	NOM	DAT	Y	NOMDAT	"NV. Букв. ""руководитель в нашем поселке"""						
+55	Evenki	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	булӣ-де-	NOM	PROL	Y	NOMPROL	IMP						
+55	Evenki	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	бодо-дё-	TR		TR	TR	"IMP от ""догонять"""						
+55	Evenki	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	эв-	NOM	ABL	Y	NOMABL	А.М.П. сомневается, что так говорят и о лошадях, а не только о склоне						
+55	Evenki	91	listen	X (listen) to Y	слушать	X (слушать) Y	до̄лчат-	TR		TR	TR	IMP, то же, что 92						
+55	Evenki	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	до̄лчат-	TR		TR	TR	IMP, то же, что 91						
+55	Evenki	93	hear	X (hear) Y	слышать	X (слышать) Y	до̄лды-	TR		TR	TR							
+55	Evenki	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	солип-	NOM	COM	Y	NOMCOM	"""-п"" это вообще-то DECAUS. А.М.П. сомневался, что комитатив возможен не с человеком. Думает, что тут более естественно ""мед-И молоко-И смешался"". Н.Я. такого не подтвердила, сказала, что есть вариант ""мед полоко-AND"", но что он хуже, чем первый вариант"						
+55	Evenki	95	look	X (look) at Y	смотреть	X (смотреть) на Y	ичэт-	TR		TR	TR	Н.Я. сначала предлагала вариант NOM_ALL, но потом передумала. АМП считал, что аккузатив лучше						
+55	Evenki	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	лук-	TR		TR	TR							
+55	Evenki	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	толкит-	TR		TR	TR							
+55	Evenki	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	дёк-	NOM	DAT	Y	NOMDAT							
+55	Evenki	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	тӯрэ̄-мэ̄т-	NOM	COM	Y	NOMCOM	RECP						
+55	Evenki	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	таман-	POSS	NOM	X	POSSNOM	NV						
+55	Evenki	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	гарпа-	TR		TR	TR							
+55	Evenki	102	pour	X (pour) Y	сыпать	X (сыпать) Y	нэ̄-	TR		TR	TR	Еще вариант -- уӈку- 						
+55	Evenki	103	lose	X (lose) Y	терять	X (терять) Y	сэ̄мми-	TR		TR	TR	А.М.П. считает, что это диалектный глагол и предлагает бури-рэ-н						
+55	Evenki	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	чэпэ-	NOM	DAT	Y	NOMDAT							
+55	Evenki	105	kill	X (kill) Y	убивать	X (убивать) Y-а	ва̄-	TR		TR	TR							
+55	Evenki	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ӣктэ-	TR		TR	TR							
+55	Evenki	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	нюкан-	TR		TR	TR							
+55	Evenki	108	read	X (read) Y	читать	X (читать) Y-а	таӈ-	TR		TR	TR							
+55	Evenki	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	хавата̄-	TR		TR	TR	"Этот вариант структуры был получен не сразу. Первый вариант был NOM INSTR. См. обсуждение в файле с примерами. А.М.П. считал, помимо прочего, что сомна-хин (SEMEL) значит ""шевелиться"", здесь не годится"						
+55	Evenki	110	respect	X (respect) Y	уважать	X (уважать) Y-а	ая̄в-	*		*		"То же, что 46, 58, 119. Не имеет специфического значения ""уважать"", не засчитываем."						
+55	Evenki	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	сӣргэн-	NOM	ABL	Y	NOMABL							
+55	Evenki	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	элэксин-	NOM	INSTR	Y	NOMINSTR	IMP						
+55	Evenki	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	ая̄в-у-	TR		TR	TR	INCH от любить						
+55	Evenki	114	trust	X (trust) Y	доверять	X (доверять) Y-у	тэде̄-	TR		TR	TR	IMPF, совпадает с 7. Записываю переходную модель, хотя Н.Я.Б. предложила для этого примера NOM_DAT, см. комментарий к 7						
+55	Evenki	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	мула̄н-	TR		TR	TR							
+55	Evenki	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	*	*		*		Единственный перевод, который получен, совсем не соответствует (возжелать)						
+55	Evenki	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	тыкӯн-ча-	NOM	ALL	Y	NOMALL	STAT-IMPF- То же или почти то же, что 122, 123, 128. АМП смневается, что от ментальных глаголов так легко образуется презенс						
+55	Evenki	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	со̄хи-	NOM	DAT	Y	NOMDAT	"Тот же глагол, что что 125 ""поражаться""/ Однако Н.Я. считает, что в таком контексте DAT > ABL"						
+55	Evenki	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	ая̄в-	TR		TR	TR	То же, что 46, 58, 110						
+55	Evenki	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	урун-	NOM	DAT	Y	NOMDAT	"IMP от того, что в 83 (""радоваться"")"						
+55	Evenki	121	want	X (want) Y	хотеть	X (хотеть) Y-а	эе̄т-	*		*		Только с СА (хочеть ВЗЯТЬ новый мобильник)						
+55	Evenki	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	тыкул-	NOM	ALL	Y	NOMALL	То же или почти то же, что 117, 123, 128						
+55	Evenki	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	тыкул-	NOM	ALL	Y	NOMALL	То же или почти то же, что 117, 122, 128						
+55	Evenki	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	тыкӯн-ивка̄н-	TR		TR	TR	CAUS						
+55	Evenki	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	со̄хи-	NOM	ABL	Y	NOMABL	"Тот же глагол, что 118 ""удивляться"". Однако Н.Я. считает, что здесь возможен только ABL, но не DAT."						
+55	Evenki	126	despise	X (despise) Y	презирать	X (презирать) Y-а	ичэмэ̄и-	TR		TR	TR	"Почему-то отличается только на 1 звук от 57, ""ненавидеть"". АМП допускает, что это искусственно."						
+55	Evenki	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	мэргэ-л-	NOM	ABL	Y	NOMABL	INCH						
+55	Evenki	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	тыкӯл-	NOM	ALL	Y	NOMALL	IMP, похоже на 122, 123, 117						
+55	Evenki	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	элэксий-	TR		TR	TR	"Еще вариант перевода -- просто ""любить"" (аяв-)"						
+55	Evenki	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	халдят-ча-	NOM	ABL	Y	NOMABL	IMP						

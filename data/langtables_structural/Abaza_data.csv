@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+60	Abaza	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	хьы	IO	ABS	X	IO_ABS							
+60	Abaza	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	*			*								
+60	Abaza	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	чв-шва	ABS	MAL	Y	ABS_MAL							
+60	Abaza	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	ау-щты	TR		TR	TR							
+60	Abaza	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	[з-]хъа	BEN	ABS	X	BEN_ABS							
+60	Abaza	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	апш	ABS	IO	Y	ABS_IO							
+60	Abaza	7	believe	X (believe) Y	верить	X (верить)Y-у	[з-]хъа-цIа	ERG	BEN	Y	ERG_BEN	Тот же глагол, что доверять (114)						
+60	Abaza	8	take	X (take) Y	взять	X (брать) Y(-а)	гIа-хв	TR		TR	TR							
+60	Abaza	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ба	TR		TR	TR							
+60	Abaza	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*			*								
+60	Abaza	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	шIа-швА	ABS	LOCp	Y	ABS_LOCp	В первом варианте, который я и засчитываю, второй актант вводится при помощи преверба p-. Есть еще вариант перевода, где второй актант вводится непосредственно превербом шIa, который и так есть в составе глагольной формы. Разница неясна.						
+60	Abaza	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	шыл	ABS	NONARG_0	Y	ABS_NONARG_0	Очень сложная и необычная ситуация. Актант (куда вошел) задается семантикой глагола и выражается обычным именем без показателей адвербиализации. При этом, судя по всему, он НЕ индексируется на глаголе.						
+60	Abaza	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ай.гIай	ABS	IO	Y	ABS_IO							
+60	Abaza	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	гIа-джвыл-цI	ABS	LOCzele	Y	ABS_LOCzele							
+60	Abaza	15	drive	X (drive) Y	гнать	X (гнать) Y-а	т-ца	TR		TR	TR							
+60	Abaza	16	bend	X (bend) Y	гнуть	X (гнуть) Y	ры.хъва	TR		TR	TR	CAUS						
+60	Abaza	17	tell	X (tell) Y	говорить	X (говорить) Y-у	хIва	ERG	IO	Y	ERG_IO	"Тот же глагол, что ""петь"" (69). Ситуация не совсем понятная, есть обсуждение в файле с анкетой. В принципе в самой глагольной форме есть показатель á-, который глоссирован как DAT. Но при этом неясно, есть ли какое-то распределение такого показателя и нулевого преверба, перед которым появаляется IO. Вроде бы они считают, что скорее такой разницы нет. "						
+60	Abaza	18	hold	X (hold)Y	держать	X (держать) Y(-а)	ма	IO	ABS	X	IO_ABS	Тот же глагол, что иметь (38)						
+60	Abaza	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	хьы-дза	ABS	LOCxe	Y	ABS_LOCxe							
+60	Abaza	20	milk	X (milk) Y	доить	X (доить) Y-а	хьа	TR		TR	TR							
+60	Abaza	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	(з-)на-дза	ABS	BEN	Y	ABS_BEN	Засчитываю только один вариантов перевода, второй -- со вторым участником как сирконстантом						
+60	Abaza	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	хьы-сы	ABS	LOCxe	Y	ABS_LOCxe							
+60	Abaza	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	аба-кIы	ABS	SOC	Y	ABS_SOC							
+60	Abaza	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	нбжьагIв	IO	ABS	X	IO_ABS	"NV. Это неглагольная конструкция; посессор выглядит так же, как IO, хотя у Пети и не было уверенности, что таких различий нет совсем. Буквально ""Расулу Мурад друг"" и т.п."						
+60	Abaza	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	з-хъвыц	ABS	BEN	Y	ABS_BEN							
+60	Abaza	26	eat	X (eat) Y	есть	X (есть) Y	фа	TR		TR	TR							
+60	Abaza	27	fry	X (fry) Y	жарить	X (жарить) Y	ры.дзы	TR		TR	TR	CAUS						
+60	Abaza	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	з-пшы	ABS	BEN	Y	ABS_BEN							
+60	Abaza	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	хъ-аштыл	LOCq	ABS	X	LOCq_ABS							
+60	Abaza	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*			*								
+60	Abaza	31	call	X (call) Y	звать	X (звать) Y-а	гIа-з-шIы-т	TR		TR	TR							
+60	Abaza	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	аба-дыр	ABS	SOC	Y	ABS_SOC							
+60	Abaza	33	know	X (know) Y	знать 	X (знать) Y-а	дыр	TR		TR	TR							
+60	Abaza	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	сы	ABS	IO	Y	ABS_IO	"То же, что ""бить"" (106)"						
+60	Abaza	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	*			*								
+60	Abaza	36	make	X (make) Y	изготовить	X (изготовить) Y	чпа	TR		TR	TR							
+60	Abaza	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	лакъырдЫ чпа	TR		TR	TR	"CV (""ирония делать""). ПА: ""Синтаксический статус именного компонента сложного глагола неясен. Зани-мать абсолютивную позицию он не может, т.к. она явно отведена одушевлённому объекту издевательств."""						
+60	Abaza	38	have	X (have) Y	иметь	X (иметь) Y	ма	IO	ABS	X	IO_ABS	Тот же глагол, что держать (18)						
+60	Abaza	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	зы-пшгIа	ABS	BEN	Y	ABS_BEN							
+60	Abaza	40	paint	X (paint) Y	красить	X (красить) Y	швы	TR		TR	TR							
+60	Abaza	41	bite	X (bite) Y	кусать	X (кусать) Y-а	цхIа	ABS	IO	Y	ABS_IO							
+60	Abaza	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	л-хъвдаха	ABS	LOCl	Y	ABS_LOCl							
+60	Abaza	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	гIа-кIы	TR		TR	TR							
+60	Abaza	44	break	X (break) Y	ломать	X (ломать) Y	хъы-чIва	TR		TR	TR							
+60	Abaza	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*			*								
+60	Abaza	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	бзи ба	TR		TR	TR	"CV (""хорошо видеть""). То же выражение, что Любить2 (119)"						
+60	Abaza	47	wave	X (wave) Y	махать	X (махать) Y-ом	къьа	TR		TR	TR							
+60	Abaza	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	з-хъвыц	ABS	BEN	Y	ABS_BEN	Тот же глагол, что думать (25). 						
+60	Abaza	49	wash	X (wash) Y	мыть	X (мыть) Y	джвджва	TR		TR	TR							
+60	Abaza	50	put_on	X (put_on) Y	надевать	X (надевать) Y	шв-цIа	TR		TR	TR	"Буквально это ""нести"" с локативным превербом ŝ-"						
+60	Abaza	51	be_called	X (be_called) Y	называться	X (называться) Y	хьыз			*		"""Название этого предмета компас"". Нет такого предиката, при котором предмет и компас были бы актантами."						
+60	Abaza	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*			*								
+60	Abaza	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	гвыкв-сы	ABS	LOCgwekwe	Y	ABS_LOCgwekwe							
+60	Abaza	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	знаха	IO	ABS	X	IO_ABS	NV+INCH						
+60	Abaza	55	find	X (find) Y	находить	X (находить) Y(-а)	гIа-ау	TR		TR	TR							
+60	Abaza	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	гха	IO	ABS	X	IO_ABS							
+60	Abaza	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	чвы-магъ	MAL	ABS	X	MAL_ABS							
+60	Abaza	58	like	X (like) Y	нравиться	X-у (нравиться) Y	гвапха	TR		TR	TR	"То же, что симпатизировать (129). ПА: ""В данном случае выяснить, является ли глагол переходным с рамкой <Erg, Abs>, или же инверсивным с рамкой <IO, Abs>, затруднительно, однако словарь [Тугов ред. 1967: 131] трактует его как переходный. """						
+60	Abaza	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	зы-бжа	ABS	BEN	Y	ABS_BEN							
+60	Abaza	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	гIа-къв-рша	TR		TR	TR	CAUS						
+60	Abaza	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	з-агIан-ха	BEN	ABS	X	BEN_ABS							
+60	Abaza	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	джауап ты	ERG	IO	Y	ERG_IO	"ПА: ""Трёхместный предикат «давать ответ», абсолютивную позицию занимает имен-ной компонент «ответ»."""						
+60	Abaza	63	open	X (open) Y	открывать	X (открывать) Y	хъы-тIы	TR		TR	TR							
+60	Abaza	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*			*		"Только ""не похож"""						
+60	Abaza	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	гIа-хьы-шва	ABS	LOCax	Y	ABS_LOCax	"Сам корень -- ""падать"""						
+60	Abaza	66	plough	X (plough) Y	пахать	X (пахать) Y	чвагъва	TR		TR	TR							
+60	Abaza	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	фгIвЫ хъы-хIа			*		"Не удастся засчитать, так как бензин не является актантом предиката, а вложен как именное зависимое при слове ""запах"""						
+60	Abaza	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	хъы-сы	ABS	LOCqe	Y	ABS_LOCqe	"Сам глагол значит ""бить"""						
+60	Abaza	69	sing	X (sing) Y	петь	X (петь) Y	хIва	TR		TR	TR	Тот же глагол, что говорить (17)						
+60	Abaza	70	write	X (write) Y	писать	X (писать) Y	гIвы	TR		TR	TR							
+60	Abaza	71	drink	X (drink) Y	пить	X (пить) Y	жвы	TR		TR	TR							
+60	Abaza	72	melt	X (melt) Y	плавить	X (плавить) Y	р.чва	TR		TR	TR	CAUS						
+60	Abaza	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	н-гIал	ABS	LOCne	Y	ABS_LOCne							
+60	Abaza	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	т-цIы	ABS	LOCte	Y	ABS_LOCte							
+60	Abaza	75	cover	X (cover) Y	покрывать	X (покрывать) Y	хъ-гIва	TR		TR	TR							
+60	Abaza	76	remember	X (remember) Y	помнить	X (помнить) Y-а	дыр.х	TR		TR	TR	В составе глагольной основы есть показатель рефактива (RE)						
+60	Abaza	77	help	X (help) Y	помочь	X (помогать) Y-у	ц-хърaгIа	ABS	COM	Y	ABS_COM							
+60	Abaza	78	understand	X (understand) Y	понимать	X (понимать) Y	гIа-гвын-гIвы	LOCgwene	ABS	X	LOCgwene_ABS	"Сам корень значит ""писать"""						
+60	Abaza	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	кв-шва	ABS	LOCkwe	Y	ABS_LOCkwe	"Сам корень значит ""падать"""						
+60	Abaza	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	п-къы			*		"В переводе не выражается идея о том, что Мурат брил себя сам (букв. ""бритва порезала Мурада""), так что не засчитываю."						
+60	Abaza	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	кIыд-хал	ABS	LOCkede	Y	ABS_LOCkede							
+60	Abaza	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*			*		"Только ""не выигрывать"""						
+60	Abaza	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ай.гвыргъьа	ABS	IO	Y	ABS_IO							
+60	Abaza	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	а(й).чважва	ABS	IO	Y	ABS_IO							
+60	Abaza	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	гIа-р.и	TR		TR	TR	"CAUS. Буквально "" какузировать прийти сюда"""						
+60	Abaza	86	drop	X (drop) Y	ронять	X (ронять) Y	кIа-ры.шв	TR		TR	TR	CAUS						
+60	Abaza	87	govern	X (govern) Y	руководить	X (руководить) Y	н(а)къвы-га	TR		TR	TR	Это глагол, в котором есть локативный преверб (n(a)q̇ʷə-) и корень 'нести'						
+60	Abaza	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	гIа-гвалашва	TR		TR	TR							
+60	Abaza	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	(цIыхъва) та-гыла	ABS	jceqwa	Y	ABS_jceqwa	Это редкий случай зависимостного маркирования, см. обсуждение в файле с анкетой.						
+60	Abaza	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	гIа-кIны-цIы	ABS	LOCkne	Y	ABS_LOCkne							
+60	Abaza	91	listen	X (listen) to Y	слушать	X (слушать) Y	з-дзыргIв	ABS	BEN	Y	ABS_BEN	"То же, что ""слушаться"" (92)"						
+60	Abaza	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	з-дзыргIв	ABS	BEN	Y	ABS_BEN	"То же, что ""слушать"" (91)"						
+60	Abaza	93	hear	X (hear) Y	слышать	X (слышать) Y	гIа	TR		TR	TR							
+60	Abaza	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	ла-л	ABS	LOCla	Y	ABS_LOCla							
+60	Abaza	95	look	X (look) at Y	смотреть	X (смотреть) на Y	пшы	ABS	IO	Y	ABS_IO							
+60	Abaza	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	швы-х	LOCs	ABS	X	LOCs_ABS	"Буквально: ""не снимай с себя"", поэтому первый актант представлен в структуре словоформы дважды: как эргативный участник и как объект, вводимый локативным превербом ŝ-"						
+60	Abaza	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	ай.пхыз	ABS	IO	Y	ABS_IO							
+60	Abaza	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	ай.гвынгIв	ABS	IO	Y	ABS_IO							
+60	Abaza	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	ай.с	ABS	IO	Y	ABS_IO							
+60	Abaza	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	хвы	IO	ABS	X	IO_ABS							
+60	Abaza	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ай.хс	ABS	IO	Y	ABS_IO							
+60	Abaza	102	pour	X (pour) Y	сыпать	X (сыпать) Y	та-пса	TR		TR	TR							
+60	Abaza	103	lose	X (lose) Y	терять	X (терять) Y	чв-дзы	MAL	ABS	X	MAL_ABS	Помимо этого, есть второй вариант (ры-дзы): переходный (с показателем CAUS)						
+60	Abaza	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	цIа-швкъвал	ABS	LOCca	Y	ABS_LOCca							
+60	Abaza	105	kill	X (kill) Y	убивать	X (убивать) Y-а	щы	TR		TR	TR							
+60	Abaza	106	hit	X (hit) Y	ударить	X (ударять) Y-а	сы	ABS	IO	Y	ABS_IO							
+60	Abaza	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	ба хIвы	ERG	IO	Y	ERG_IO	"CV (""дать поцелуй""). На самом деле материально присутствует преверб, который отглоссирован как DAT, см. обсуждение примера 17."						
+60	Abaza	108	read	X (read) Y	читать	X (читать) Y-а	пхьа	ABS	IO	Y	ABS_IO							
+60	Abaza	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	ры.цIЫс	TR		TR	TR	CAUS						
+60	Abaza	110	respect	X (respect) Y	уважать	X (уважать) Y-а	хвы кв-цIа	ERG	LOCkwe	Y	ERG_LOCkwe	"CV (""добавлять цену"")"						
+60	Abaza	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	чв-махатша	ABS	MAL	Y	ABS_MAL							
+60	Abaza	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	зы-раз	ABS	BEN	Y	ABS_BEN	"Есть еще вариант просто ""раз"", без показателя бенефактива. При нем модель управления ABS, INS, где INS -- специальная адвербиальная форма имени, не отражаемая в глагольной словоформе (сирконстант)"						
+60	Abaza	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	ай.хIвапса	ABS	IO	Y	ABS_IO							
+60	Abaza	114	trust	X (trust) Y	доверять	X (доверять) Y-у	[з-]хъа-цIа	ERG	BEN	Y	ERG_BEN	Тот же глагол, что верить (7)						
+60	Abaza	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	ма-рыцхIа	JUD	ABS	X	JUD_ABS	"JUD -- юдикатив. Букв. ""мать бедная по оценке Расула""; Петя пишет, что уверенности в выборе варианта не было, так как информанты предлагали и другие разнородные варианты"						
+60	Abaza	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	ц-н-хчалы	ABS	COM	Y	ABS_COM							
+60	Abaza	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	з-гвыжвкIы	ABS	BEN	Y	ABS_BEN	То же, что 122.						
+60	Abaza	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	джьа-ща	TR		TR	TR	То же, что 125						
+60	Abaza	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	бзи ба	TR		TR	TR	"CV (""хорошо видеть""). То же выражение, что Любить1 (46)"						
+60	Abaza	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	Х-гвы Х-р.чIвы	ERG	NONARG_INS	Y	ERG_NONARG_INS	"CV (""квасит сердце""). Второй актант -- то, чем наслаждаются, -- не отражается в глаголе, а занимает позицию сирконстанта, оформленного чем-то вроде адвербиализатора (показатель la, глоссируется как INS)"						
+60	Abaza	121	want	X (want) Y	хотеть	X (хотеть) Y-а	тахъы	IO	ABS	X	IO_ABS							
+60	Abaza	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	з-гвыжвкIы	ABS	BEN	Y	ABS_BEN	Отдельного перевода нет, засчитываю тот же перевод, что получен для 117.						
+60	Abaza	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*			*								
+60	Abaza	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	Y-гвы X-с			*		"Невозможно засчитать, так тот, кого огорчили, выражается в позиции посессора части тела, сердца (букв. ""бить по сердцу Y-а""), а само название части тела занимает позицию непрямого дополнения. Тот, кого огорчили, в глаголе уже не отражается."						
+60	Abaza	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	джьа-ща	TR		TR	TR	То же, что 118						
+60	Abaza	126	despise	X (despise) Y	презирать	X (презирать) Y-а	ба гьауам			*		"Значение полученного перевода (букв. ""видеть не может"") явно шире, чем в русском стимуле"						
+60	Abaza	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	X-гвы Y-с			*		Отдельного способа не получено; получено только Y огорчает X-а, но и тот не был засчитан, см. 124						
+60	Abaza	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	X-гвы кв-швах+Neg			*		Невозможно засчитать, так как экспериенцер кодируется не как актант предиката, а как посессор (Букв. «его дочь не умещается (?) в его сердце»)						
+60	Abaza	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	гвапха	TR		TR	TR	То же, что нравиться (58). Есть примеры с одушевленными участниками, можно засчитать и сюда, хотя перевода именно этого стимульного предложения нет.						
+60	Abaza	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	чв-пхаща	ABS	MAL	Y	ABS_MAL							

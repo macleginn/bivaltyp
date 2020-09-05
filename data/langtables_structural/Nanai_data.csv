@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+45	Nanai	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ənusi	POSS	NOM		POSS_NOM	Посессивная ИГ в позиции подлежащего						
+45	Nanai	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	ənusi	NOM	INS		NOM_INS							
+45	Nanai	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	ŋəələ(či)	NOM	INS		NOM_INS	Периферийная вариативность с TR						
+45	Nanai	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	naŋgala-	TR			TR							
+45	Nanai	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	ələ	DAT	NOM_noAGR		DAT_NOM_noAGR							
+45	Nanai	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	Y-mat bi-	NOM	mat		NOM_mat	NV. Здесь суффикс на Y, глагол -- быть						
+45	Nanai	7	believe	X (believe) Y	верить	X (верить)Y-у	agda(ča)	TR			TR							
+45	Nanai	8	take	X (take) Y	взять	X (брать) Y(-а)	ǯapa-	TR			TR							
+45	Nanai	9	see	X (see) Y	видеть	X (видеть) Y(-а)	icə-	TR			TR							
+45	Nanai	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*				Эквивалента найти не удалось						
+45	Nanai	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	baači-	NOM	INS		NOM_INS							
+45	Nanai	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ii(gu)-	NOM	DIR		NOM_DIR							
+45	Nanai	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	xətə-	TR			TR							
+45	Nanai	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	niə-	NOM	ABL		NOM_ABL							
+45	Nanai	15	drive	X (drive) Y	гнать	X (гнать) Y-а	puŋiə-	TR			TR							
+45	Nanai	16	bend	X (bend) Y	гнуть	X (гнуть) Y	uriəwən-	TR			TR	Каузативный глагол						
+45	Nanai	17	tell	X (tell) Y	говорить	X (говорить) Y-у	un-	NOM	DIR		NOM_DIR							
+45	Nanai	18	hold	X (hold)Y	держать	X (держать) Y(-а)	ǯapača-	TR			TR							
+45	Nanai	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	xaŋpan-	TR			TR							
+45	Nanai	20	milk	X (milk) Y	доить	X (доить) Y-а	siri-	TR			TR							
+45	Nanai	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	esi-	TR			TR							
+45	Nanai	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	toŋala-	TR			TR	Есть вариативность с NOM_LOC						
+45	Nanai	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	sori(mači)-	NOM	INS		NOM_INS							
+45	Nanai	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	andalača-	NOM	INS		NOM_INS							
+45	Nanai	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	murči-	TR			TR							
+45	Nanai	26	eat	X (eat) Y	есть	X (есть) Y	sea-	TR			TR							
+45	Nanai	27	fry	X (fry) Y	жарить	X (жарить) Y	čero-	TR			TR							
+45	Nanai	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	xalači-	TR			TR							
+45	Nanai	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	oŋbo-	TR			TR							
+45	Nanai	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	zavisela-	NOM	ABL		NOM_ABL	Видимо, не самая естественная конструкция, глагол заимствован						
+45	Nanai	31	call	X (call) Y	звать	X (звать) Y-а	xəə(r)si-	TR			TR							
+45	Nanai	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	takoali-	NOM	INS		NOM_INS							
+45	Nanai	33	know	X (know) Y	знать 	X (знать) Y-а	saa-	TR			TR							
+45	Nanai	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	kupi-	NOM	INS		NOM_INS							
+45	Nanai	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	xoliači-	TR			TR	"Вариативность TR/ABL, есть междиалектная вариативность. В выбранном глаголе актуализирована простраственная семантика (""обходит стороной"")"						
+45	Nanai	36	make	X (make) Y	изготовить	X (изготовить) Y	aŋgo-	TR			TR							
+45	Nanai	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	siŋgərə-	TR			TR							
+45	Nanai	38	have	X (have) Y	иметь	X (иметь) Y	bi-	DAT	NOM_AGR		DAT_NOM_AGR	Это глагол 'быть'						
+45	Nanai	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	gələgu-	TR			TR							
+45	Nanai	40	paint	X (paint) Y	красить	X (красить) Y	niulə-	TR			TR							
+45	Nanai	41	bite	X (bite) Y	кусать	X (кусать) Y-а	səkpən-	TR			TR							
+45	Nanai	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	xuədə-	TR			TR	Буквально: терять						
+45	Nanai	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	ǯapajča- 	TR			TR	Производный дезидеративный глагол						
+45	Nanai	44	break	X (break) Y	ломать	X (ломать) Y	bojali-	TR			TR							
+45	Nanai	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	ojban-	*				Есть только отдаленные аналоги (ластиться)						
+45	Nanai	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	uləsi-	TR			TR							
+45	Nanai	47	wave	X (wave) Y	махать	X (махать) Y-ом	xarxi-	NOM	INS		NOM_INS							
+45	Nanai	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	murči-	TR			TR	Тот же глагол, что думать (25)						
+45	Nanai	49	wash	X (wash) Y	мыть	X (мыть) Y	selko-	TR			TR							
+45	Nanai	50	put_on	X (put_on) Y	надевать	X (надевать) Y	tətu-	TR			TR							
+45	Nanai	51	be_called	X (be_called) Y	называться	X (называться) Y	gərbiəsiu-	NOM	INS		NOM_INS	"Конкурирует с более частотной конструкцией типа ""имя этого предмета -- компас"""						
+45	Nanai	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	kəsuli-	TR			TR							
+45	Nanai	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	xukču-	NOM	DIR		NOM_DIR							
+45	Nanai	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	teas o-	NOM	INS		NOM_INS	NV. Буквально: становиться полным						
+45	Nanai	55	find	X (find) Y	находить	X (находить) Y(-а)	baogo-	TR			TR	Здесь есть суффикс репетитива. Без него тоже можно, тогда не выражено значение, что в результате поисков.						
+45	Nanai	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	aoli-	DAT	NOM_noAGR		DAT_NOM_noAGR	Там есть еще синонимичные глаголы с той же моделью. При выбранном глаголе возможна периферийная модель DAT-DAT, не учитываю ее.						
+45	Nanai	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	čiurisi	NOM	INS		NOM_INS	Есть другой глагол, он TR						
+45	Nanai	58	like	X (like) Y	нравиться	X-у (нравиться) Y	ulə-	TR			TR							
+45	Nanai	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	gələ-	TR			TR	"Есть еще другие варианты перевода, модель NOM_INS, там значение скорее не ""нужно"", а ""испытывает трудности"""						
+45	Nanai	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	elisi-	NOM	kəndəli 		NOM_kendeli	"Это буквально ""стены стоят вокруг города"""						
+45	Nanai	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	osigo-	DAT	NOM_AGR		DAT_NOM_AGR							
+45	Nanai	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	taodago-	NOM	DIR		NOM_DIR	"Для части информантов этот глагол не подходит (значит только ""ответить на обиду""). Но у альтернативы та же модель управления"						
+45	Nanai	63	open	X (open) Y	открывать	X (открывать) Y	nixəli-	TR			TR							
+45	Nanai	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	xaŋisi(la) bi- 	NOM	ABL		NOM_ABL	NV. Буквально: быть иным						
+45	Nanai	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	xamila dərəǯi- 	NOM	ABL		NOM_ABL	NV. Букв. ‘позади оставаться’. Возможен также немаркированный падеж.						
+45	Nanai	66	plough	X (plough) Y	пахать	X (пахать) Y	anǯala-	TR			TR							
+45	Nanai	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*				Букв.: от рук [запах бензина] идет						
+45	Nanai	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	dao-	TR			TR							
+45	Nanai	69	sing	X (sing) Y	петь	X (петь) Y	ǯari-	TR			TR							
+45	Nanai	70	write	X (write) Y	писать	X (писать) Y	niru-	TR			TR							
+45	Nanai	71	drink	X (drink) Y	пить	X (пить) Y	omi-	TR			TR							
+45	Nanai	72	melt	X (melt) Y	плавить	X (плавить) Y	uumbuwən-	TR			TR							
+45	Nanai	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	ača-	NOM	DIR		NOM_DIR	Есть еще другой глагол, но модель та же						
+45	Nanai	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	ənu- 	NOM	ABL		NOM_ABL							
+45	Nanai	75	cover	X (cover) Y	покрывать	X (покрывать) Y	dasi-	TR			TR							
+45	Nanai	76	remember	X (remember) Y	помнить	X (помнить) Y-а	əǯəčə-	TR			TR							
+45	Nanai	77	help	X (help) Y	помочь	X (помогать) Y-у	bələči-	NOM	DAT		NOM_DAT	Есть вариативность с TR. 						
+45	Nanai	78	understand	X (understand) Y	понимать	X (понимать) Y	otoli-	TR			TR							
+45	Nanai	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	tojko-	TR			TR	Возможна еще модель NOM_DIR, NOM_DAT, NOM_LOC, но их все можно отклонить						
+45	Nanai	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	xaga-	NOM	INS		NOM_INS							
+45	Nanai	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	lakto-	NOM	DIR		NOM_DIR							
+45	Nanai	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	pərə-	NOM	DAT		NOM_DAT							
+45	Nanai	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	agda-	NOM	DIR		NOM_DIR	Судя по всему, наиболее естественно одноместное употребление этого глагола. Информант не уверен в модели управления						
+45	Nanai	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	gusərəndu-	NOM	INS		NOM_INS							
+45	Nanai	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	baa-	TR			TR	"Букв. ""находить""; собственно родить существует, но он одноместный"						
+45	Nanai	86	drop	X (drop) Y	ронять	X (ронять) Y	tugbu-	TR			TR							
+45	Nanai	87	govern	X (govern) Y	руководить	X (руководить) Y	dala-	TR			TR							
+45	Nanai	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	ǯoŋgo-	TR			TR							
+45	Nanai	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*				"Букв. ""идти в заде кого-то"""						
+45	Nanai	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	xulun-	NOM	ABL		NOM_ABL							
+45	Nanai	91	listen	X (listen) to Y	слушать	X (слушать) Y	dosiǯa-	TR			TR							
+45	Nanai	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	dosiǯa-	TR			TR	То же, что слушать						
+45	Nanai	93	hear	X (hear) Y	слышать	X (слышать) Y	dolǯ-	TR			TR							
+45	Nanai	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	kamorip-	NOM	INS		NOM_INS	Пассив от смешивать						
+45	Nanai	95	look	X (look) at Y	смотреть	X (смотреть) на Y	ičəǯə-	NOM	DIR		NOM_DIR							
+45	Nanai	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	ačo-	TR			TR							
+45	Nanai	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	tolkiči-	TR			TR							
+45	Nanai	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	čexala-	NOM	INS		NOM_INS							
+45	Nanai	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	sorimači-	NOM	INS		NOM_INS							
+45	Nanai	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	sali-	NOM	NOM		NOM_NOM	Особая конструкция, не совпадающая с переходной. Согласование тут есть. Конкурирует с неглагольной конструкцией (цена чашки сто долларов)						
+45	Nanai	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	meočala-	TR			TR							
+45	Nanai	102	pour	X (pour) Y	сыпать	X (сыпать) Y	nəə-	TR			TR							
+45	Nanai	103	lose	X (lose) Y	терять	X (терять) Y	xuədə-	TR			TR							
+45	Nanai	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	ii- 	NOM	DIR		NOM_DIR	В стимульном предложении используется только глагол ii- ‘входить’. По отношению к людям используется глагол, требующий датива.						
+45	Nanai	105	kill	X (kill) Y	убивать	X (убивать) Y-а	waa-	TR			TR							
+45	Nanai	106	hit	X (hit) Y	ударить	X (ударять) Y-а	pačila-	TR			TR							
+45	Nanai	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	oǯo-	TR			TR							
+45	Nanai	108	read	X (read) Y	читать	X (читать) Y-а	xola-	TR			TR							
+45	Nanai	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	tujŋku-	NOM	INS		NOM_INS	Если объект при глаголе не часть тела, то TR						
+45	Nanai	110	respect	X (respect) Y	уважать	X (уважать) Y-а	*	*				Нет точного эквивалента						
+45	Nanai	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	irbasi-	NOM	INS		NOM_INS	С этим же глаголом возможно также TR						
+45	Nanai	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	agdanasi-	NOM	ABL		NOM_ABL							
+45	Nanai	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	uləsilu-	TR			TR							
+45	Nanai	114	trust	X (trust) Y	доверять	X (доверять) Y-у	agdača-	TR			TR							
+45	Nanai	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	guǯiəsi-	TR			TR							
+45	Nanai	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	ananasi-	NOM	DIR		NOM_DIR	Также в этим глаголом возможен TR или еще INS						
+45	Nanai	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	ajaktači-	NOM	DIR		NOM_DIR	То же, что сердиться (122) и раздражаться (128)						
+45	Nanai	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	ərdəŋgə baa-	TR			TR	CV. Находить интересным. Помимо этого варианта в двух разных идиомах давали DIR (ДМ) или INS (СО)						
+45	Nanai	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	uləsi-	TR			TR							
+45	Nanai	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*				Хорошего эквивалента нет						
+45	Nanai	121	want	X (want) Y	хотеть	X (хотеть) Y-а	gələ-	TR			TR	Букв. Просить						
+45	Nanai	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	ajakta-	NOM	DIR		NOM_DIR	То же, что злиться (117) и раздражаться (128)						
+45	Nanai	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	aksa-	NOM	DIR		NOM_DIR							
+45	Nanai	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	orkila opowan-	*				CV. Букв. Сделать плохо душе Y						
+45	Nanai	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	xal-xal o-	NOM	INS		NOM_INS	"NV. Букв. ""растерянно становиться"". Еще давали в качестве перевода тот глагол, который записан под номером 118. "						
+45	Nanai	126	despise	X (despise) Y	презирать	X (презирать) Y-а	čukisi-	TR			TR	Есть еще другие глаголы, с NOMINS и NOMDIR соответственно						
+45	Nanai	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*				Букв. Душа стала плоха из-за кого-то						
+45	Nanai	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	ajaktači-	NOM	DIR		NOM_DIR	То же, что злиться (117) и сердиться (122)						
+45	Nanai	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*				Точного эквивалента нет						
+45	Nanai	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	elaǯi-	NOM	INS		NOM_INS	Еще иногда бывает TR, но он иногда под сомнением						

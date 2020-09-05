@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+51	Yakut	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ыалдь-	POSS	NOM	X	POSSNOM	Та же лексема, что 2						
+51	Yakut	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	ыалдь-	NOM	INSTR	Y	NOMINSTR	Та же лексема, что 1						
+51	Yakut	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	куттан-	NOM	ABL	Y	NOMABL							
+51	Yakut	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	бырах-	TR		TR	TR							
+51	Yakut	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	тиий-	DAT	NOM	X	DATNOM	Это тот же глагол, что в 21 (и в 56 он с отрицанием)						
+51	Yakut	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	майгынны-	NOM	DAT	Y	NOMDAT							
+51	Yakut	7	believe	X (believe) Y	верить	X (верить)Y-у	итэҕэй-	NOM	DAT	Y	NOMDAT	То же, что 114						
+51	Yakut	8	take	X (take) Y	взять	X (брать) Y(-а)	ыл-	TR		TR	TR							
+51	Yakut	9	see	X (see) Y	видеть	X (видеть) Y(-а)	көр-	TR		TR	TR							
+51	Yakut	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	дьай-	NOM	DAT	Y	NOMDAT							
+51	Yakut	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	көр-сү-	TR		TR	TR	RECP						
+51	Yakut	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	киир-	NOM	DAT	Y	NOMDAT							
+51	Yakut	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	кыай-	TR		TR	TR							
+51	Yakut	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	таҕыс	NOM	ABL	Y	NOMABL							
+51	Yakut	15	drive	X (drive) Y	гнать	X (гнать) Y-а	үүр-	TR		TR	TR							
+51	Yakut	16	bend	X (bend) Y	гнуть	X (гнуть) Y	токуру-	TR		TR	TR							
+51	Yakut	17	tell	X (tell) Y	говорить	X (говорить) Y-у	эп-	NOM	DAT	Y	NOMDAT							
+51	Yakut	18	hold	X (hold)Y	держать	X (держать) Y(-а)	тут-	TR		TR	TR	CV						
+51	Yakut	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	сит-	TR		TR	TR							
+51	Yakut	20	milk	X (milk) Y	доить	X (доить) Y-а	ыа-	TR		TR	TR							
+51	Yakut	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	тиий-	NOM	DAT	Y	NOMDAT	Это тот же глагол, что в 5 (и в 56 он с отрицанием)						
+51	Yakut	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	таарый-	TR		TR	TR							
+51	Yakut	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	охсу-	NOM	COM	Y	NOMCOM							
+51	Yakut	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	доҕордоһо-	NOM	COM	Y	NOMCOM							
+51	Yakut	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	толкуй-	NOM	туһунан 	Y	NOMtuhunan 							
+51	Yakut	26	eat	X (eat) Y	есть	X (есть) Y	сиэ-	TR		TR	TR	DOM (unmarked)						
+51	Yakut	27	fry	X (fry) Y	жарить	X (жарить) Y	ыһаары-лаа-	TR		TR	TR	VRBLZ						
+51	Yakut	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	кэтэһ-	TR		TR	TR							
+51	Yakut	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	умну-	NOM	туһунан 	Y	NOMtuhunan 							
+51	Yakut	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	тутулук-таах	NOM	ABL	Y	NOMABL	NV (зависимость-ADJ)						
+51	Yakut	31	call	X (call) Y	звать	X (звать) Y-а	ыҥыр-	TR		TR	TR							
+51	Yakut	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	билсис-	NOM	COM	Y	NOMCOM							
+51	Yakut	33	know	X (know) Y	знать 	X (знать) Y-а	бил-	TR		TR	TR							
+51	Yakut	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	ооньоо-	NOM	DAT	Y	NOMDAT	CV						
+51	Yakut	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	куотун-	TR		TR	TR							
+51	Yakut	36	make	X (make) Y	изготовить	X (изготовить) Y	оҥор	TR		TR	TR	DOM (unmarked)						
+51	Yakut	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	күлүү гын-	TR		TR	TR	CV (смех.CV делать)						
+51	Yakut	38	have	X (have) Y	иметь	X (иметь) Y	0	NOM	ADJ	Y	NOMADJ	В качестве альтернативы названа конструкция X-DAT Y.NOM баар						
+51	Yakut	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	көрд-	TR		TR	TR	DOM (unmarked)						
+51	Yakut	40	paint	X (paint) Y	красить	X (красить) Y	кырааскалаа-	TR		TR	TR							
+51	Yakut	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ытыр-	TR		TR	TR							
+51	Yakut	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*		*		"Только ""остался без дома"""						
+51	Yakut	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	тут-а сат-	*		*		Только держать-CV пытается						
+51	Yakut	44	break	X (break) Y	ломать	X (ломать) Y	алдьап-	TR		TR	TR							
+51	Yakut	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	албынна-	NOM	DAT	Y	NOMDAT							
+51	Yakut	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	тап-	TR		TR	TR							
+51	Yakut	47	wave	X (wave) Y	махать	X (махать) Y-ом	далбаа-	NOM	INSTR	Y	NOMINSTR							
+51	Yakut	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*		*		"Глагол не удалось перевести (только ""хотеть"" получилось), к тому же использован аконструкция с СА"						
+51	Yakut	49	wash	X (wash) Y	мыть	X (мыть) Y	сууй-	TR		TR	TR							
+51	Yakut	50	put_on	X (put_on) Y	надевать	X (надевать) Y	кэп-	TR		TR	TR							
+51	Yakut	51	be_called	X (be_called) Y	называться	X (называться) Y	дэн-	NOM	NOM	Y	NOMNOM							
+51	Yakut	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	кэһэт-	TR		TR	TR	CAUS						
+51	Yakut	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	саб-а түс-	NOM	DAT	Y	NOMDAT	CV						
+51	Yakut	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	туол-	NOM	INSTR	Y	NOMINSTR							
+51	Yakut	55	find	X (find) Y	находить	X (находить) Y(-а)	бул-	TR		TR	TR							
+51	Yakut	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	тиий-NEG	DAT	NOM	X	DATNOM	Это тот же глагол, что в 5, 21, но с отрицанием						
+51	Yakut	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	абааһы көр-	TR		TR	TR	"CV (""злой дух видеть""). То же, что 126"						
+51	Yakut	58	like	X (like) Y	нравиться	X-у (нравиться) Y	сөбүл-	TR		TR	TR	То же, что в 119, 129						
+51	Yakut	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	наадый-	NOM	DAT	Y	NOMDAT							
+51	Yakut	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	тулалыы-	TR		TR	TR							
+51	Yakut	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	хаал-	DAT	NOM	X	DATNOM	Та же лексема, что 65						
+51	Yakut	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	эппиэттээ-	NOM	DAT	Y	NOMDAT							
+51	Yakut	63	open	X (open) Y	открывать	X (открывать) Y	арый-	TR		TR	TR							
+51	Yakut	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	атын	NOM	ABL	Y	NOMABL	NV						
+51	Yakut	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	хаал-	NOM	ABL	Y	NOMABL	Та же лексема, что 61						
+51	Yakut	66	plough	X (plough) Y	пахать	X (пахать) Y	хорут-	TR		TR	TR							
+51	Yakut	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	сыт-таах	NOM	NOM	Y	NOMNOM							
+51	Yakut	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	туораа-	TR		TR	TR							
+51	Yakut	69	sing	X (sing) Y	петь	X (петь) Y	ыллаа-	TR		TR	TR							
+51	Yakut	70	write	X (write) Y	писать	X (писать) Y	суруй-	TR		TR	TR							
+51	Yakut	71	drink	X (drink) Y	пить	X (пить) Y	ис-	TR		TR	TR							
+51	Yakut	72	melt	X (melt) Y	плавить	X (плавить) Y	ууллар-	TR		TR	TR	CAUS						
+51	Yakut	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	барсар	NOM	DAT	Y	NOMDAT	"NV. Буквально ""годный оказывается"". Второй вариант (та же модель управления): “сөп түбэһэр”, что лучше передает смысл “подходит”. Айталина: ""Но меня смутило, что по большей части это “сидит ровно”, да и первый вариант ухо не режет"""						
+51	Yakut	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	бар	NOM	ABL	Y	NOMABL							
+51	Yakut	75	cover	X (cover) Y	покрывать	X (покрывать) Y	саб	TR		TR	TR							
+51	Yakut	76	remember	X (remember) Y	помнить	X (помнить) Y-а	өйд-	TR		TR	TR	То же, что 78, но это правда есть такое значение						
+51	Yakut	77	help	X (help) Y	помочь	X (помогать) Y-у	көмөлөс	NOM	DAT	Y	NOMDAT							
+51	Yakut	78	understand	X (understand) Y	понимать	X (понимать) Y	өйд-	TR		TR	TR	То же, что 76, но это правда есть такое значение						
+51	Yakut	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	оҕус-	NOM	DAT	Y	NOMDAT							
+51	Yakut	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	(быһ-а соп-пут)	NOM	INSTR	Y	NOMINSTR							
+51	Yakut	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	(сысты-быт)	NOM	DAT	Y	NOMDAT							
+51	Yakut	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	хоттор-	NOM	DAT	Y	NOMDAT	CAUS						
+51	Yakut	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	үөр-	NOM	DAT	Y	NOMDAT							
+51	Yakut	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	кэпсэт-э олор-	NOM	COM	Y	NOMCOM	CV (разговаривать-CV сидеть-)						
+51	Yakut	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	төрө-т-	TR		TR	TR	CAUS 						
+51	Yakut	86	drop	X (drop) Y	ронять	X (ронять) Y	түһэр	TR		TR	TR							
+51	Yakut	87	govern	X (govern) Y	руководить	X (руководить) Y	салай-	NOM	INSTR	Y	NOMINSTR							
+51	Yakut	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	аҕын-	TR		TR	TR							
+51	Yakut	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	батыс-	TR		TR	TR							
+51	Yakut	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	тус-	NOM	ABL	Y	NOMABL							
+51	Yakut	91	listen	X (listen) to Y	слушать	X (слушать) Y	иһит-	TR		TR	TR	То же, что 93 и не засчитываемый 92						
+51	Yakut	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	иһит-	*		*		"Получен только перевод ""Слушает ЯЗЫК мамы"" (тот же глагол, что 91 и 93)"						
+51	Yakut	93	hear	X (hear) Y	слышать	X (слышать) Y	иһит-	TR		TR	TR	То же, что 91 и не засчитываемый 92						
+51	Yakut	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	буккуллу-	NOM	кытта	Y	NOMkytta							
+51	Yakut	95	look	X (look) at Y	смотреть	X (смотреть) на Y	кэтээ-н көр-	TR		TR	TR	CV. ждать-CV видеть						
+51	Yakut	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	уһул-	TR		TR	TR	Форма в примере звучит усту-бут, но вроде бы это форма глагола уһул-						
+51	Yakut	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	түһээ-	TR		TR	TR							
+51	Yakut	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	сөбүлэ-с-	NOM	COM	Y	NOMCOM	RECP						
+51	Yakut	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	эт-ис	NOM	COM	Y	NOMCOM	RECP (от говорить)						
+51	Yakut	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*		*		"Получено только ""Этот чашка цена-P.3 один доллар"""						
+51	Yakut	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ыт-	TR		TR	TR							
+51	Yakut	102	pour	X (pour) Y	сыпать	X (сыпать) Y	кут-	TR		TR	TR	CAUS? Вообще-то в переводе используется форма кутту-бут, а не ожидаемая куп-пут. Айталина пишет, что это связано с тем, что он насыпал сахар СЕБЕ в чашку, рефлексивный глагол. Но все равно переходный.						
+51	Yakut	103	lose	X (lose) Y	терять	X (терять) Y	сүт-эр-	TR		TR	TR	CAUS (от теряться)						
+51	Yakut	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	тимир-	NOM	DAT	Y	NOMDAT							
+51	Yakut	105	kill	X (kill) Y	убивать	X (убивать) Y-а	өл-өр-	TR		TR	TR	CAUS (от умереть)						
+51	Yakut	106	hit	X (hit) Y	ударить	X (ударять) Y-а	саай-	TR		TR	TR							
+51	Yakut	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	сыллаа-	TR		TR	TR	"Букв. ""прикасаться носом, губами (в знак любви)"""						
+51	Yakut	108	read	X (read) Y	читать	X (читать) Y-а	аах-	TR		TR	TR							
+51	Yakut	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	хамса-т-	TR		TR	TR	CAUS (от шевелиться)						
+51	Yakut	110	respect	X (respect) Y	уважать	X (уважать) Y-а	убаастаа	TR		TR	TR							
+51	Yakut	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	сиргэн-	NOM	ABL	Y	NOMABL							
+51	Yakut	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	киэн тутт-	NOM	INSTR	Y	NOMINSTR	"CV. ""широко держит"" (букв.)"						
+51	Yakut	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	астын-а көр-	TR		TR	TR	CV (быть.довольным-CV видеть-)						
+51	Yakut	114	trust	X (trust) Y	доверять	X (доверять) Y-у	итэҕэй-	NOM	DAT	Y	NOMDAT	То же, что 7						
+51	Yakut	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	аһын-	TR		TR	TR							
+51	Yakut	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	ордугург-	NOM	DAT	Y	NOMDAT							
+51	Yakut	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	кыыһыр-	NOM	DAT	Y	NOMDAT	То же, что 122						
+51	Yakut	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	соһуй-	NOM	DAT	Y	NOMDAT							
+51	Yakut	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	сөбүл-	*		*		"Получен только перевод с СА (любит пить чай). Тот же глагол, что ""нравиться"", (58), 129"						
+51	Yakut	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	дуоһуй-	NOM	INSTR	Y	NOMINSTR							
+51	Yakut	121	want	X (want) Y	хотеть	X (хотеть) Y-а	баҕар-	TR		TR	TR							
+51	Yakut	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	кыыһыр-	NOM	DAT	Y	NOMDAT	То же, что 117						
+51	Yakut	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	хоргу-т-	NOM	ABL	Y	NOMABL	Как я понимаю, это каузатив в значении пассива						
+51	Yakut	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	хомот-	TR		TR	TR	CAUS от хомой- (127)						
+51	Yakut	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	сөх-	TR		TR	TR							
+51	Yakut	126	despise	X (despise) Y	презирать	X (презирать) Y-а	абааһы көр-	TR		TR	TR	"CV (""злой дух видеть""). То же, что 57"						
+51	Yakut	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	хомой-	NOM	сылтаан	Y	NOMsyltaan							
+51	Yakut	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	кыйахан-	NOM	DAT	Y	NOMDAT							
+51	Yakut	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	сөбүл-	TR		TR	TR	То же, что 58 и не засчитываемый 119						
+51	Yakut	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	кыбыhын-	NOM	ABL	Y	NOMABL	Не совсем ясно, как от глагола кыбыhын- может образовываться форма кыбыс-тар, но Айталина пишет именно так. Но управление правильное						

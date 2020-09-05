@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+68	Rutul	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	eda	ATR	NOM		ATR_NOM	Обычная посессивная конструкция, к тому же это даже более широкая вещь, чем генитив. Тем не менее записываю так, как если бы это были два актанта глагола по аналогии с языками, где это точно оправданно. Порядок слов доказывает разрываемость.						В этом столбце отражено, висят ли вопросы
+68	Rutul	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	jiˁχɨˁ	DAT	NOM		NOM_COM	"Это буквально ""ударить"". Что-то странное, несоответствие между patterns и столбцами (возможно, правильно в столбцах)"						
+68	Rutul	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	gič’i	DAT	EL		DAT_InEL							да
+68	Rutul	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	χač’ɨ<>χi	TR			TR							
+68	Rutul	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	re<>q’a	DAT	NOM		DAT_NOM							
+68	Rutul	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	k<>i<>ka	NOM	CONT		NOM_Cont(ESS)							
+68	Rutul	7	believe	X (believe) Y	верить	X (верить)Y-у	inamiš<>iši	NOM	OBL(SUP)		NOM_NOM	Что-то странное, несоответствие между patterns и отдельными столбцами. Возможно, правильно в столбцах.						да
+68	Rutul	8	take	X (take) Y	взять	X (брать) Y(-а)	le<>šu	TR			TR							
+68	Rutul	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ʁa<>gᵂa	DAT	NOM		DAT_NOM	Тот же глагол, что 11						
+68	Rutul	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*				Нет эквивалента						
+68	Rutul	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	giˁ-χɨˁ	DAT	NOM		NOM_DAT	Еще есть вариант (например, видеть). Что-то странное, несоответствие между patterns и отдельными столбцами (возможно, правильно в столбцах)						да
+68	Rutul	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	Ɂeču	NOM	IN		NOM_In(ESS)							
+68	Rutul	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	li<b>t’ɨ	ERG	OBL(SUP)		ERG_Super(ESS)							да
+68	Rutul	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ʁa haˁ<r>χɨˁ	NOM	INEL		NOM_EL	Очень условно записываю пока EL без всякой локализации						да
+68	Rutul	15	drive	X (drive) Y	гнать	X (гнать) Y-а	hi-w-irga	TR			TR							
+68	Rutul	16	bend	X (bend) Y	гнуть	X (гнуть) Y	q’-u<t’>k’-e hɨɁɨ	TR			TR	CAUS						
+68	Rutul	17	tell	X (tell) Y	говорить	X (говорить) Y-у	huxu	NOM	APUD		NOM_Apud(ESS)							
+68	Rutul	18	hold	X (hold)Y	держать	X (держать) Y(-а)	χa<>q’	TR			TR							
+68	Rutul	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	qe-q-<ø>iq’ɨ-	NOM	POST		NOM_Post(ESS)							да
+68	Rutul	20	milk	X (milk) Y	доить	X (доить) Y-а	ezɨ	TR			TR							
+68	Rutul	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	le-jq’ɨ-	NOM	OBL(SUP)			Что-то странное, несоответствие между patterns и отдельными столбцами. Возможно, правильно в столбцах.						да
+68	Rutul	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	ki<ø>q’ɨ	NOM	CONT		NOM_Cont(ESS)							
+68	Rutul	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	kiǯi<ø>lqa	NOM	COM		NOM_COM							
+68	Rutul	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	araχa	NOM	COM		NOM_COM							да
+68	Rutul	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	fikir <w>-aɁ-a-	ERG	CONTEL		ERG_ContEL	"CV: мысль делать. ""Здесь вспомогательный глагол согласуется с fikir, которое принадлежит третьему классу, но неизвестно что значит."""						
+68	Rutul	26	eat	X (eat) Y	есть	X (есть) Y	li<w>i-	TR			TR							
+68	Rutul	27	fry	X (fry) Y	жарить	X (жарить) Y	<w>-iǯi-	TR			TR							
+68	Rutul	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	güzet haɁa-	TR			TR	CV: ожидание делать						
+68	Rutul	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	jik’-ij u<p>χu-	DAT	NOM		DAT_NOM							
+68	Rutul	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	?	*				"Ничего толкового получить не удается, только ""зрение ухудшается с возврастом"""						
+68	Rutul	31	call	X (call) Y	звать	X (звать) Y-а	ses ha<w>ɨ-	ERG	POST		ERG_Post(ESS)	CV: звук делать						
+68	Rutul	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	tanɨš hiši-	NOM	COM		DAT_NOM	NV: знакомый стать						
+68	Rutul	33	know	X (know) Y	знать 	X (знать) Y-а	hac’-	DAT	NOM		DAT_NOM							
+68	Rutul	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	rɨˁχɨˁ-	TR			TR	Вероятно, это тот же глагол, что бить						
+68	Rutul	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	gʲa-ʁaˁbʁu-	NOM	EL		NOM_SuperEL							да
+68	Rutul	36	make	X (make) Y	изготовить	X (изготовить) Y	ha<w>ɨ-	TR			TR							
+68	Rutul	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	jiʁ laga-	ERG	OBL(SUP)		ERG_Super(ESS)	CV: издевательство делать						
+68	Rutul	38	have	X (have) Y	иметь	X (иметь) Y	a-ni w-iɁi	POST	NOM		Post(ESS)_NOM	"""имеется"""						
+68	Rutul	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	aramiš haɁa-	TR			TR	"CV: поиск делать. Есть еще вариант ʁurʁara (букв. ""бродить, крутиться""), у него модель NOM_POST"						
+68	Rutul	40	paint	X (paint) Y	красить	X (красить) Y	šir jiˀ<w>χaˀ-	ERG	DAT		ERG_DAT	CV: краску ударять						
+68	Rutul	41	bite	X (bite) Y	кусать	X (кусать) Y-а	sɨs k-iʔɨ-	ERG	CONT		TR	"CV: зуб + LV. Есть еще вариант χa-q’ɨ- (TR), это буквально ""поймать"". Что-то странное, несоответствие между тем, что в patterns, и отдельными стоолбцами, возможно правильно в столбцах"						да
+68	Rutul	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*			TR	"Получено только что-то вроде ""остался отсутствуя дом"" или ""дом Расула не остался"". Что-то странное, несоответствие между тем, что в patterns, и отдельными стоолбцами, возможно правильно в столбцах"						
+68	Rutul	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	χo-<w>-ɨrq’-	TR			TR							
+68	Rutul	44	break	X (break) Y	ломать	X (ломать) Y	q’at’ hɨɁɨ-	TR			TR	CV: ломать + LV						
+68	Rutul	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	irz	*			TR	"Собран только глагол irz-, но это скорее ""хвалить"". Что-то странное, несоответствие между тем, что в patterns, и отдельными стоолбцами, возможно правильно в столбцах"						
+68	Rutul	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	q-ɨg-	DAT	NOM		DAT_NOM							
+68	Rutul	47	wave	X (wave) Y	махать	X (махать) Y-ом	la-<wɨ>-χa-	TR			TR							
+68	Rutul	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	fikir <w>-aɁa-	ERG	ATR		TR	Что-то странное, несоответствие между тем, что в patterns, и отдельными стоолбцами, возможно правильно в столбцах						да
+68	Rutul	49	wash	X (wash) Y	мыть	X (мыть) Y	ji<d>ʁɨ-	TR			TR							
+68	Rutul	50	put_on	X (put_on) Y	надевать	X (надевать) Y	la-<w>-ɨ-	TR			TR							
+68	Rutul	51	be_called	X (be_called) Y	называться	X (называться) Y	dur jiɁi	ATR	NOM			NV (имя этого предмета -- компас). Что-то странное, несоответствие между patterns и отдельными столбцами. Возможно, правильно в столбцах.						
+68	Rutul	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*				Ничего не нашлось						
+68	Rutul	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	l-o<w>či-	ERG	OBL(SUP)		ERG_EL	Что-то странное. Из сводного patterns взято ERG_EL, но это не соответствует отдельным столбцам (возможно, правильно в столбцах)						да
+68	Rutul	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	a-c’i-	NOM	ERG			Что-то странное, несоответствие между patterns и отдельными столбцами. Возможно, правильно в столбцах.						
+68	Rutul	55	find	X (find) Y	находить	X (находить) Y(-а)	a-gɨ-	APUD	NOM		Apud(ESS)_NOM							
+68	Rutul	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	ʁe<w>irq’ + NEG	DAT	NOM		DAT_NOM	Хватает + NEG						да
+68	Rutul	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ul-i-s ʁagu-r hɨga- +NEG	DAT	NOM		DAT_NOM	"CV: глазам видеть не хочет. Еще есть вариант k’ʷoč’e, букв. ""некрасивый"""						да
+68	Rutul	58	like	X (like) Y	нравиться	X-у (нравиться) Y	ʁo-<w>-urga-	DAT	NOM		DAT_NOM	Еще есть вариант q’abɨl <wu>-ruɁu-, структура которого мне не вполне понятна -- какое-то like like						
+68	Rutul	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	*	*	*		DAT_NOM	"Информант забыл слово. Получено только hɨga- (DAT_NOM), но это буквально ""хотеть"". Несоответствие между patterns и отдельными столбцами, возможно, правильно в столбцах"						
+68	Rutul	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	ara e-<w>-i-	TR			TR	"Еще вариант ʁiʁ ha<w>i-, но это ""закрывают"""						да
+68	Rutul	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	χa-ma<b>a-	APUD	NOM		Apud(ESS)_NOM							
+68	Rutul	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	ǯiwab hɨ-	ERG	DAT		ERG_DAT	"CV (""ответ давать"")"						
+68	Rutul	63	open	X (open) Y	открывать	X (открывать) Y	ačiχ <w>ɨɁɨ	TR			TR	CV: открыть делать						
+68	Rutul	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	mad-dɨ	NOM	EL		NOM_SuperEL	NV (другой)						да
+68	Rutul	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	quɁ q-argɨ-	NOM	EL		NOM_SuperEL							да
+68	Rutul	66	plough	X (plough) Y	пахать	X (пахать) Y	lʲ-aˁjχaˁ	TR			TR							
+68	Rutul	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	il ruɁ-	CONTEL	ATR		ContEL_ATR	Не уверен, что стоит записывать. С одной стороны это CV (идет запах), и бензин вроде бы зависит от запаха. С другой стороны, по порядку слов получается, что запах и бензин не образуют составляющую (от рук запах идет бензина). Беру пока						да
+68	Rutul	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	eʁeč'	NOM	INEL		NOM_In(ESS)	Что-то странное, несоответствие между patterns и отдельными столбцами. Возможно, правильно в столбцах.						да
+68	Rutul	69	sing	X (sing) Y	петь	X (петь) Y	hɨʔɨ	TR			TR	Букв. сделать						да
+68	Rutul	70	write	X (write) Y	писать	X (писать) Y	ki<Ø>x	TR			TR							
+68	Rutul	71	drink	X (drink) Y	пить	X (пить) Y	raˁʁɨˁ-	TR			TR							
+68	Rutul	72	melt	X (melt) Y	плавить	X (плавить) Y	jic’-a hɨɁɨ-	TR			TR	CAUS						
+68	Rutul	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	ruʔu-	NOM	DAT		NOM_DAT	"Букв. ""идти"""						
+68	Rutul	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	q-aˁ<r>hɨˁ-	NOM	INEL		TR	Есть еще вариант χa-č’-i<p>χɨ- (TR = бросать). Что-то странное, несоответствие между тем, что в patterns, и отдельными стоолбцами, возможно правильно в столбцах						да
+68	Rutul	75	cover	X (cover) Y	покрывать	X (покрывать) Y	χ-o<w>q’u-	TR			TR							
+68	Rutul	76	remember	X (remember) Y	помнить	X (помнить) Y-а	jik’i ʁa-ma<d>a	DAT	NOM		DAT_NOM	"CV (""остается в сердце"")"						
+68	Rutul	77	help	X (help) Y	помочь	X (помогать) Y-у	kumag hɨɁɨ-	ERG	DAT		ERG_DAT	"CV (""помощь делать"")"						
+68	Rutul	78	understand	X (understand) Y	понимать	X (понимать) Y	gi-jirq’-	NOM	POST		NOM_Post(ESS)	"Есть еще вариант просто ""знать"" (TR)"						
+68	Rutul	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	ji<Ø>x	TR			TR	Есть варианты, спрашиваю						да
+68	Rutul	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	hart’u-	NOM	ERG		NOM_ERG							
+68	Rutul	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	ki-č-i<p>qɨ-	NOM	CONT		NOM_Cont(ESS)							
+68	Rutul	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	jawaɁiš	NOM	EL		NOM_SuperEL	Уточняю падеж, в материалах стоит SuperEss						да
+68	Rutul	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	šad j-ɨši-	NOM	DAT		NOM_DAT	"NV (""радостный стать"")"						
+68	Rutul	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	halga-	NOM	COM		NOM_COM							
+68	Rutul	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	jišɨ-	DAT	NOM		DAT_NOM	"Букв. ""стать"""						
+68	Rutul	86	drop	X (drop) Y	ронять	X (ронять) Y	s-i<p>xu-	APUD	NOM		Apud(ESS)_NOM	Это если случайно (если специально, то TR, похожий глагол, видимо, CAUS)						да
+68	Rutul	87	govern	X (govern) Y	руководить	X (руководить) Y	q’ɨxʲ-waldɨ + COP	ERG	DAT		ERG_NOM	"NV (""быть старшим""). Очень странная модель попала в patterns, не соответствует столбцам и вообще похожа на переходную"						
+68	Rutul	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	c’ihal jiši-	DAT	POST		DAT_Post(ESS)	"CV (""longing become"")"						
+68	Rutul	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*				"Не засчитывается, так как букв. ""Путь Х-а есть в хвосте Y-а"""						
+68	Rutul	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	s-e-č’u-	NOM	EL		NOM_SuperEL	уточняю падеж						да
+68	Rutul	91	listen	X (listen) to Y	слушать	X (слушать) Y	q-assa-	ERG	POST		NOM_Post(ESS)	То же, что 92. Что-то странное, несоответствие между patterns и отдельными столбцами, возможно, правильно в столбцах						да
+68	Rutul	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	q-as-	ERG	POST		NOM_Post(ESS)	То же, что 91. Что-то странное, несоответствие между patterns и отдельными столбцами, возможно, правильно в столбцах						да
+68	Rutul	93	hear	X (hear) Y	слышать	X (слышать) Y	ruɁu-	DAT	NOM		DAT_NOM	"Букв. ""приходит"""						да
+68	Rutul	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	Ɂara jiχ-	NOM	COM		NOM_COM	"CV (""inside move"")"						да
+68	Rutul	95	look	X (look) at Y	смотреть	X (смотреть) на Y	gʲ-aɢa-	NOM	POST		NOM_Post(ESS)							
+68	Rutul	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	saɁ qi-w-	TR			TR							
+68	Rutul	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	neq’ʲ-e ʁa-ru-	DAT	NOM		DAT_NOM	"CV (""dream.InESS see"")"						
+68	Rutul	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	raazi iš-	NOM	COM		NOM_COM	"CV (""согласен стать"")"						да
+68	Rutul	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	ʁe-ruku-	NOM	COM		NOM_COM							да
+68	Rutul	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	w-iɁi	NOM	DAT		NOM_DAT	"Букв. ""быть"""						да
+68	Rutul	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	tufang w-iji-	ERG	POST		TR	"CV (""gun shoot""). Что-то странное, несоответствие между тем, что в patterns, и отдельными стоолбцами, возможно правильно в столбцах"						
+68	Rutul	102	pour	X (pour) Y	сыпать	X (сыпать) Y	ki-Ɂɨ-	TR				"CV. Не совсем адекватный перевод (""добавить внутрь""). Что-то странное, несоответствие между patterns и отдельными столбцами. Возможно, правильно в столбцах."						
+68	Rutul	103	lose	X (lose) Y	терять	X (терять) Y	su-gu-	APUD	NOM		Apud(ESS)_NOM							да
+68	Rutul	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	ara: saɁ k-i<p>xu-r	NOM	IN		NOM_In(ESS)	"CV (""inside sink"")"						
+68	Rutul	105	kill	X (kill) Y	убивать	X (убивать) Y-а	<>-iq’-e r-ɨʔɨ-	TR			TR	CAUS						
+68	Rutul	106	hit	X (hit) Y	ударить	X (ударять) Y-а	liwx-	ERG	EL		ERG_SuperEL	уточняю падеж						да
+68	Rutul	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	k’uxʲ ki-w-ɨ-	ERG	DAT		ERG_DAT							
+68	Rutul	108	read	X (read) Y	читать	X (читать) Y-а	q’ɨle hɨɁɨ-r	TR			TR	CV (read + do)						
+68	Rutul	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	χ-i<b>g-a w-ɨɁɨ-r	TR			TR							
+68	Rutul	110	respect	X (respect) Y	уважать	X (уважать) Y-а	huˁrmaˁt w-aɁa-r-a	NOM	DAT		NOM_DAT	"CV (""make respect"")"						да
+68	Rutul	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*				"""не учитывается, т. к. Расул зависим на уровне ИГ"", видимо, «при ВИДЕ грязной посуды у Расула сердце стынет»"						да
+68	Rutul	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	raazi	NOM	OBL(SUP)		NOM_Super(ESS)	NV						да
+68	Rutul	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	jik’i-k’ kirx	DAT	NOM		DAT_NOM	"CV (""get heart Sub(ESS)"")"						да
+68	Rutul	114	trust	X (trust) Y	доверять	X (доверять) Y-у	*	*				"""не учитывается, т. к. Расул зависим на уровне ИГ"", не знаю, что там"						
+68	Rutul	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	haˀjiw raɁ-	TR			TR	"CV (""pity come"")"						да
+68	Rutul	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	paxil	NOM	OBL(SUP)		NOM_Super(ESS)	NV; почему-то стоял вопрос около примера						
+68	Rutul	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	bizar	NOM	SUPEL (EL на самом деле?)		NOM_SuperEL	NV; получен только один перевод на 117 и 122						да
+68	Rutul	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	šak-a iš	ERG	SUPEL (EL на самом деле?)		ERG_SuperEL	"CV (""become guess-In(ESS)"")"						да
+68	Rutul	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	qɨ<Ø>g	DAT	NOM		DAT_NOM							
+68	Rutul	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*				"""адекватного перевода нет"""						
+68	Rutul	121	want	X (want) Y	хотеть	X (хотеть) Y-а	ɨg	DAT	NOM		DAT_NOM							
+68	Rutul	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	bizar	NOM	SUPEL (EL на самом деле?)		NOM_SuperEL	NV; получен только один перевод на 117 и 122						
+68	Rutul	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	χatir Ɂadg-	DAT	SUPEL (EL на самом деле?)		DAT_SuperEL	"CV (""grudge be.stuck"")"						да
+68	Rutul	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	*	*				Пока ничего толкового не получено						да
+68	Rutul	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	pandɨ<j>iš	NOM	SUPEL (EL на самом деле?)		NOM_SuperEL							да
+68	Rutul	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*				"""адекватного перевода нет, такое значение предиката не выражается в рутульском"""						
+68	Rutul	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	pašʲmal iš-	NOM	SUPEL (EL на самом деле?)		NOM_SuperEL	"CV (""sadness become"")"						да
+68	Rutul	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	*	*				Как и в других случаях, получен один перевод на 117, 122 и вот это. Тут его не засчитывая, считая более экзотическим смыслом						
+68	Rutul	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*				"""эквивалент данного предикатного значения найти не удалось"""						
+68	Rutul	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	rɨq ruɁ-	NOM	SUPEL (EL на самом деле?)		NOM_SuperEL	"CV (""shame come"")"						

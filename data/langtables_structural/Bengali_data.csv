@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+57	Bengali	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	byāthā karā	GEN	NOM	X	GENNOM	"CV (боль делать). В принципе это стандартная посессивная конструкция. Структура составляющих не совсем понятна: с одной стороны, похоже не обычную посессивную ИГ; с другой, разрыв в данном случае не так естественен, как в некоторых других случаях; с третьей, ""что-то короткое"", по словам Майи, все же может оказаться между частью тела и посессором"						
+57	Bengali	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	haẏ-	GEN	NOM	X	GENNOM	"Букв.: 'быть', ср. ""у Х-а грипп"""						
+57	Bengali	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	bhaẙ   pāoẙā	TR		TR	TR	CV (страх получать).						
+57	Bengali	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	chū͂ṛā	TR		TR	TR							
+57	Bengali	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	yatheṣṭa āch-	GEN	NOM	X	GENNOM	"NV (быть достаточно). М.: наречие ""yatheṣṭa"" скорее относится к связке. Засчитываю."						
+57	Bengali	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	dekh-te mato	*		*		"dekh-te -- Это AP.IPFV (деепричастие НСВ). Букв.: ""На Сатьяджита глядя, похоже на Сушмиту"". Идея сходства заложена не в глаголе (глядя), а в чем-то вроде послелога или наречи -- mato, которое тоже было бы странно считать предикативной вершиной. Есть еще вариант с каузативным глаголом (""показаывать""), он тоже используется для выражения сходства и тоже не подходит."						
+57	Bengali	7	believe	X (believe) Y	верить	X (верить)Y-у	biśbās     karā	TR		TR	TR	NV (доверие делать). Это нормальный переходный глагол, см. следующий лист -- там комментарии						
+57	Bengali	8	take	X (take) Y	взять	X (брать) Y(-а)	neoẏā	TR		TR	TR							
+57	Bengali	9	see	X (see) Y	видеть	X (видеть) Y(-а)	dekhā	TR		TR	TR							
+57	Bengali	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	prabhāb   phelā 	NOM	GENopar	Y	NOMGENopar	CV (влияние бросать). Послелоги upar/opar абсолютно взаимозаменимы. Я их записываю все как opar, потому что это вараинт, который использует Шоджол, основной информант.						
+57	Bengali	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	dekhā haoẏā 	GEN	GENsange	XY	GENGENsange	"CV (букв.: ""у Х-а было видение с Y-ом"", это герундий и связка; выбираю как вариант, который выражает идею случайности встречи). saṅge и sathe абсолютно взаимозаменимы, я их все записываю как sange, потому что этот тот вариант, который обычно, хотя и не всегда, выбирает Шоджол."						
+57	Bengali	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ḍhukā 	NOM	LOC/INS	Y	NOMLOC/INS							
+57	Bengali	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	hāriẏe deoẏā	TR		TR	TR	CAUS, CV (дал каузировав проиграть). Есть еще вариант с управлением послелогом biruddhe (против)						
+57	Bengali	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ber/bār haoẏā	NOM	theke	Y	NOMtheke	"NV (снаружи быть). Тут есть динамическая семантика, потому что это такой ""быть"", который иногда значит ""стать"". О послелогах см. комментарий на вкладке Comms"						
+57	Bengali	15	drive	X (drive) Y	гнать	X (гнать) Y-а	tāṛāno 	TR		TR	TR	CAUS						
+57	Bengali	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bā͂kāno 	TR		TR	TR	CAUS						
+57	Bengali	17	tell	X (tell) Y	говорить	X (говорить) Y-у	balā	TR		TR	TR							
+57	Bengali	18	hold	X (hold)Y	держать	X (держать) Y(-а)	dhare rākhā 	TR		TR	TR	CV (схвативший есть)						
+57	Bengali	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	nāgāl dhare phelā 	*		*		"Букв. ""схватив близость Х-а бросил"", нарушена необходимая структура составляющих, второй участник -- приименной"						
+57	Bengali	20	milk	X (milk) Y	доить	X (доить) Y-а	doẙā	*		*		"Букв. ""подоил молоко коровы"" -- корова посессор, а не актант трехместного глагола"						
+57	Bengali	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	pau͂chā 	NOM	LOC/INS	Y	NOMLOC/INS							
+57	Bengali	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	chū͂ẏe phelā	TR		TR	TR	CV (тронув бросил)						
+57	Bengali	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	jhagrā karā	NOM	GENsange	Y	NOMGENsange	CV (драку делает). См. 11						
+57	Bengali	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	bandhutba karā	NOM	GENsange	Y	NOMGENsange	CV (дружбу делает). См. 11						
+57	Bengali	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	bhābā	NOM	niye	Y	NOMniye	У другого информанта используется послелог sambandhe  ('в связи с') Разница между послелогами стилистическаая: sambandhe более литературный. По гуглу левое, niẙe,  гораздо частотнее. О сложных отношениях между niye и diye см. Voprosy_Bengali_Mayya_2017_04_11_ответ						
+57	Bengali	26	eat	X (eat) Y	есть	X (есть) Y	khāoẙā	TR		TR	TR							
+57	Bengali	27	fry	X (fry) Y	жарить	X (жарить) Y	bhājā	TR		TR	TR							
+57	Bengali	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	apekṣā karā	NOM	GENjanya	Y	NOMGENjanya	CV (ожидание делает)						
+57	Bengali	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	bhule yāoẏā	NOM	GENkatha	Y	NOMGENkatha	CV (забыв идет). У Кишалоя другой послелог (prasaṅga, 'в связи с'). Беру kathā, он гораздо частотнее						
+57	Bengali	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	nirbhar karā	NOM	GENopar	Y	NOMGENopar	CV (зависимость делает). См. 10						
+57	Bengali	31	call	X (call) Y	звать	X (звать) Y-а	ḍākā	TR		TR	TR							
+57	Bengali	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	paricita haoẙā	NOM	GENsange	Y	NOMGENsange	NV (знакомый быть). См. 11						
+57	Bengali	33	know	X (know) Y	знать 	X (знать) Y-а	cenā	TR		TR	TR	Возможна еще комитативная конструкция ('у Х-а есть знакомство с Y-ом'), но она больше отсылает к социальному событию, беру более нейтральный вариант						
+57	Bengali	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	bājāno	TR		TR	TR	CAUS						
+57	Bengali	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	eṛiẏe yaoẏā	TR		TR	TR	CV (избегая ходит)						
+57	Bengali	36	make	X (make) Y	изготовить	X (изготовить) Y	bānāno 	TR		TR	TR	CAUS						
+57	Bengali	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	byaṅga karā	NOM	niye	Y	NOMniye	CV (издевательство делает). О сложных отношениях между niye и diye см. Voprosy_Bengali_Mayya_2017_04_11_ответ						
+57	Bengali	38	have	X (have) Y	иметь	X (иметь) Y	āch-	GEN	NOM	X	GENNOM	"Букв. ""быть"". Разрыв посессора и посессума возможен, т.е. не совсем монолитная составляющая. М.: есть еще вариант, когда посессор оформлен послелогом kache, букв. ""возле"" (""возле меня есть бойфренд"")."						
+57	Bengali	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	khu͂jā	TR		TR	TR							
+57	Bengali	40	paint	X (paint) Y	красить	X (красить) Y	raṅg karā	NOM	LOC/INS	Y	NOMLOC/INS	CV (цвет делать)						
+57	Bengali	41	bite	X (bite) Y	кусать	X (кусать) Y-а	kāmṛāno	TR		TR	TR	"Еще возможно что-то вроде эргативной конструкции, букв. ""Сатьяджита (OBJ) укусило собакой (LOC/INS)"". Эта вторая конструкция, ""почти эргативная"", верятна тогда, когда собака неизвестна или неважна, это не наш случай. Конструкция вполне частотна."						
+57	Bengali	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	hārāno	TR		TR	TR	"Букв. ""потерял""; еще можно сказать ""стал бездомным"" или ""его дом ушел"""						
+57	Bengali	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	dharā	TR		TR	TR							
+57	Bengali	44	break	X (break) Y	ломать	X (ломать) Y	bhāṅgā	TR		TR	TR							
+57	Bengali	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	toṣāmod karā	TR		TR	TR	CV (лесть делает)						
+57	Bengali	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	bhālobāsā	TR		TR	TR							
+57	Bengali	47	wave	X (wave) Y	махать	X (махать) Y-ом	nāṛā	TR		TR	TR	Этот вариант означает, что просто машет. Есть еще другая конструкция, инструментальная, там получается, что он передает информацию						
+57	Bengali	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*		*		Нет перевода. Только видит во сне.						
+57	Bengali	49	wash	X (wash) Y	мыть	X (мыть) Y	dhuẏe phelā	TR		TR	TR	CV (вымыв бросил)						
+57	Bengali	50	put_on	X (put_on) Y	надевать	X (надевать) Y	parā	TR		TR	TR							
+57	Bengali	51	be_called	X (be_called) Y	называться	X (называться) Y	nām	GEN	NOM	X	GENNOM	NV (имя этого предмета -- компас); Еще есть трансимперсонал (ACC-ACC зовут)						
+57	Bengali	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	sājā deoẙā 	TR		TR	TR	CV (наказание делать)						
+57	Bengali	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	ākraman  karā	TR		TR	TR	CV (атаку делать)						
+57	Bengali	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	bhare yāoẏā	NOM	LOC/INS	Y	NOMLOC/INS	CV (наполняясь идти)						
+57	Bengali	55	find	X (find) Y	находить	X (находить) Y(-а)	khu͂je pāoẏā	TR		TR	TR	CV (ища получил)						
+57	Bengali	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	kam  paṛā 	GEN	NOM	X	GENNOM	CV (мало падать)						
+57	Bengali	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ghr̥ṇā karā	TR		TR	TR	CV (ненависть делать)						
+57	Bengali	58	like	X (like) Y	нравиться	X-у (нравиться) Y	pachanda	GEN	NOM	X	GENNOM	NV (приятный)						
+57	Bengali	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	darkār 	GEN	NOM	X	GENNOM	"NV (нужда). В других временах принимает связку. Посесср и ""нужда"" скорее всего образуют составляющую. Скорее всего, подлежащее деньги, но это сложно проверить, т.к. нет согласования"						
+57	Bengali	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	ghire raoẏā	TR		TR	TR	"CV (окружая остаются); есть еще другие конструкции: ""вокруг города стена""; ""город окружен стеной"""						
+57	Bengali	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	raoẏā 	GENkache	NOM	X	GENkacheNOM	Есть еще вариант у другого информанта и с другим выражением -- GEN NOM оставшийся быть						
+57	Bengali	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	uttar deoẙā 	TR		TR	TR	CV (ответ давать)						
+57	Bengali	63	open	X (open) Y	открывать	X (открывать) Y	khulā 	TR		TR	TR							
+57	Bengali	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	ālādā 	NOM	theke	Y	NOMtheke	NV (другой)						
+57	Bengali	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	pichiẏe paṛā 	NOM	theke	Y	NOMtheke	CV (отстав упал)						
+57	Bengali	66	plough	X (plough) Y	пахать	X (пахать) Y	lāṅgal deoẏā	NOM	LOC/INS	Y	NOMLOC/INS	CV (плуг дает); другие варианты: плуг тянуть (NOM LOC/INS), земледелие делать (TR)						
+57	Bengali	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*		*		"Перевод содержит имя ""запах"" и Y реализуется как его приименной актант. Проверено: запах и бензин образуют составляющую, брать невозможно"						
+57	Bengali	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	pār haoẙā 	TR		TR	TR	CV (перехождение делать)						
+57	Bengali	69	sing	X (sing) Y	петь	X (петь) Y	gāoẙā	TR		TR	TR							
+57	Bengali	70	write	X (write) Y	писать	X (писать) Y	lekhā 	TR		TR	TR	Строго говоря, в переводе основного информанта используется CV, но кажется, это отражает аспектуальную характеристику конструкции						
+57	Bengali	71	drink	X (drink) Y	пить	X (пить) Y	kheẏe neoẙā	TR		TR	TR	"CV (съев сделал). Один и тот же глагол для ""пить"" и ""есть"" это нормально для бенгальского, хотя у второго информанта используется специализированное слово для питья"						
+57	Bengali	72	melt	X (melt) Y	плавить	X (плавить) Y	galāno 	TR		TR	TR	CAUS. Строго говоря, в переводе основного информанта используется CV с этим глаголом, но кажется, это отражает аспектуальную характеристику конструкции						
+57	Bengali	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	mānāno 	NOM	GENsange	Y	NOMGENsange	"См. 11. Майя: ""Формально у Шоджола каузативный глагол, однако его связь с декаузативом ('почитать') весьма туманна."""						
+57	Bengali	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	tyāg  karā 	TR		TR	TR	CV (оставление делать)						
+57	Bengali	75	cover	X (cover) Y	покрывать	X (покрывать) Y	juṛe raoẙā	TR		TR	TR	CV (соединившись остается); есть еще вариант перевода у другого информанта: ḍheke phelā, закрыв, бросает						
+57	Bengali	76	remember	X (remember) Y	помнить	X (помнить) Y-а	mane karte pārā	TR		TR	TR	"CV (может делать в уме); вариант второго информанта засчитать невозможно, так ""дом Пети"" запечататлелся в памяти"						
+57	Bengali	77	help	X (help) Y	помочь	X (помогать) Y-у	sāhāyya karā 	TR		TR	TR	CV (помощь делать)						
+57	Bengali	78	understand	X (understand) Y	понимать	X (понимать) Y	bujhā	TR		TR	TR	Есть еще вариант CV: может помочь						
+57	Bengali	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	paṛā	NOM	GENopar	Y	NOMGENopar	"Букв. ""падать"""						
+57	Bengali	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	keṭe phelā	NOM	diye	Y	NOMdiye	"У другого информанта был вариант ""щека Сатьяджита порезалась бритвой"", взять невозможно. Поскольку нож неодушевелнный, тут не используется объектный показатель, но выбор между основным падежм и объектом при послелоге diye зависит именно от одушевленности. О сложных отношениях между niye и diye см. Voprosy_Bengali_Mayya_2017_04_11_ответ"						
+57	Bengali	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	āṭke yāoẏā	NOM	LOC/INS	Y	NOMLOC/INS	"CV (прилипший идет); есть еще синоним для ""прилипший"" (cipke), но модель там та же"						
+57	Bengali	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	here yāoẏā	NOM	GENkache	Y	NOMGENkache	CV (проиграв идет); у другого информанта был вариант hārā  с моделью NOM + GEN sathe (sathe -- это его, второго информанта, вариант комитативного послелога)						
+57	Bengali	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	khuśi haoẙā	*		*		Не удается сделать так, чтобы стимул был выражен						
+57	Bengali	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	kathā balā	NOM	GENsange	Y	NOMGENsange	CV (слово говорит). См. 11. Хотя именно в ЭТОМ случае второй информант (Шоджол) использовал послелог sathe, который обычно он не использует, это ничего особенно не значит: в гугле сколько хочешь примеров на этот глагол и sange.						
+57	Bengali	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	janma deoẙā 	TR		TR	TR	CV (рождение давать). Второй вариант -- приименной (мальчик-GEN рождение делать)						
+57	Bengali	86	drop	X (drop) Y	ронять	X (ронять) Y	*	*		*		"Лучший способ, видимо, -- сказать ""из рук Х-а упала чашка"", не берем, потому что появляются непредусмотренные руки. Еще вариант просто ""бросить"", но без обстоятельства ""нечаянно"" не получается значения ""ронять""."						
+57	Bengali	87	govern	X (govern) Y	руководить	X (руководить) Y	paricālanā karā	TR		TR	TR	CV (управление делает)						
+57	Bengali	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	man keman karā  	GEN	GENjanya	XY	GENjanya	"CV (у Х-а ум непонятно что делает для Y-а); засчитываю пока, потому что Х и ""ум"" линейно не образуют последовательности, Х как топик, что ли. В принципе, конечно, Х это исконно приименной аргумент, но синхронно они даже не стоят рядом"						
+57	Bengali	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	anusaran karā	TR		TR	TR	"CV (следование делает). Еще есть вариант ""идет сзади от"""						
+57	Bengali	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	nāmā	NOM	theke	Y	NOMtheke	"В принципе оба информанта как первый называли вариант буквально ""слез со спины лошади""; но, во-первых, у него именно такое управление, а во-вторых, вариант без ""спины"" тоже назван одним из информантов (лучшим). Засчитываю."						
+57	Bengali	91	listen	X (listen) to Y	слушать	X (слушать) Y	śunā	TR		TR	TR							
+57	Bengali	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	*	*		*		"Только ""слушает слова матери"""						
+57	Bengali	93	hear	X (hear) Y	слышать	X (слышать) Y	śunte pāoẏā	TR		TR	TR	"Букв. ""может слушать"", но вроде бы это ""хороший"" информант"						
+57	Bengali	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	miśe yāoẏā	NOM	LOC/INS	Y	NOMLOC/INS	CV (смшиваясь идет). У второго информанта комитативная стратегия (NOM GENsathe)						
+57	Bengali	95	look	X (look) at Y	смотреть	X (смотреть) на Y	tākiẙe āch-	NOM	GENdike	Y	NOMGENdike	"CV (быть уставившись). dike -- это буквально форма LOC/INS слова ""сторона"""						
+57	Bengali	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	khule phelā	TR		TR	TR	"CV (букв. ""открыв бросать""), этот глагол вне контекста значит ""открыть"""						
+57	Bengali	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	sbapne dekhā	TR		TR	TR	"букв. ""видеть во сне"", видеть -- тот же глагол, что в 9"						
+57	Bengali	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	ekmat haoẙā 	NOM	GENsange	Y	NOMGENsange	NV (согласный быть). Есть еще вариант sahmat haoẙā  (то же). См. 11						
+57	Bengali	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	jhagṛā karā 	NOM	GENsange	Y	NOMGENsange	CV (ссору делать). См. 11						
+57	Bengali	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*		*		"Букв.: цена этой чашки -- один доллар. Не берем, видимо, потому что тут чашка это совсем очевидный посессор приименной. В другом времени связка была бы после ""цены"" или после ""доллара"""						
+57	Bengali	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	*	*		*		Только сложное выражение: прицелившись в сторону птицы, пулю выпустил						
+57	Bengali	102	pour	X (pour) Y	сыпать	X (сыпать) Y	ḍhālā	TR		TR	TR							
+57	Bengali	103	lose	X (lose) Y	терять	X (терять) Y	hāriẙe phelā	TR		TR	TR	CV (потеряв бросил)						
+57	Bengali	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	ḍube yāoẏā	NOM	LOC/INS	Y	NOMLOC/INS	CV (утонув ушел)						
+57	Bengali	105	kill	X (kill) Y	убивать	X (убивать) Y-а	khun karā	TR		TR	TR	CV (убйиство делать)						
+57	Bengali	106	hit	X (hit) Y	ударить	X (ударять) Y-а	mārā	TR		TR	TR	Есть еще более сложный вараинт, но тоже переходный						
+57	Bengali	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	cumban karā	TR		TR	TR	"CV (поцелуй сделать). Есть еще вариант ""поцелуй съел"" (та же модель управления), она отражает семантику ""получения"", т.е. буквально ""получил поцелуй"". Не совсем понятно, может ли такая конструкция использоваться, если Х целует первым."						
+57	Bengali	108	read	X (read) Y	читать	X (читать) Y-а	paṛā 	TR		TR	TR							
+57	Bengali	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	nāṛāno 	TR		TR	TR	CAUS						
+57	Bengali	110	respect	X (respect) Y	уважать	X (уважать) Y-а	śraddhā karā 	TR		TR	TR	CV (уважение делать)						
+57	Bengali	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*		*		Толком так и не получено адекватного перевода. В сумме предложено три варианта, но все не совсем то. См. анкету						
+57	Bengali	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	khuśi (haoẙā)	NOM	niye	Y	NOMniye	NV (доволен). О сложных отношениях между niye и diye см. Voprosy_Bengali_Mayya_2017_04_11_ответ						
+57	Bengali	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	prem-e paṛ-	*		*		Букв. Х упал в любовь Y-а						
+57	Bengali	114	trust	X (trust) Y	доверять	X (доверять) Y-у	biśbās karā	TR		TR	TR	NV (веру делает).						
+57	Bengali	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	anubhab karā	NOM	GENjanya	Y	NOMGENjanya	NV (сочувствие чувство делает)						
+57	Bengali	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	īrṣā karā 	TR		TR	TR	CV (зависть делать)						
+57	Bengali	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	rāg (prakāś) karā	NOM	GENopar	Y	NOMGENopar	См. 10						
+57	Bengali	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	āścarya (haoẙā) 	*		*		"Невозможно выразить второго участника (только ""получив подарок, удивился""). NV (быть удивленным)"						
+57	Bengali	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	pachanda karā	TR		TR	TR	"В принципе предпочитают добавлять ""пить"", но в сети Майя легко нашла необходимый примеры"						
+57	Bengali	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	upabhog karā	TR		TR	TR	У второго информанта есть еще вариант tr̥pti pāoẏā, он требует NOM_LOC/INS, но он хуже						
+57	Bengali	121	want	X (want) Y	хотеть	X (хотеть) Y-а	cāoẏā	TR		TR	TR							
+57	Bengali	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	rāg karā 	NOM	GENopar	Y	NOMGENopar	CV (гнев делает). Есть еще другие варианты перевода, но модель управления одна и та же. См. 10						
+57	Bengali	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	abhimān karā	NOM	GENopar	Y	NOMGENopar	CV (обиду делает). Есть еще другие варианты перевода (менее точные?), но модель управления одна и та же. См. 10						
+57	Bengali	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	duḥkha deoẙā 	TR		TR	TR	CV (горе дает)						
+57	Bengali	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	tāṛita haoẙā 	NOM	theke	Y	NOMtheke	"NV (удивленный был). Взят перевод ""худшего"" информанта, т.к. у лучшего нужный актант не выражается (только ""увидев город, удивился""); возможно, конечно, что лучший информант и прав как раз"						
+57	Bengali	126	despise	X (despise) Y	презирать	X (презирать) Y-а	abajñā karā 	TR		TR	TR	CV (презрение делает)						
+57	Bengali	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	duḥkha pāoẏā 	NOM	GENjanya	Y	NOMGENjanya	CV (горе получил). Возможны и другие варианты перевода, но одна и та же модель управления						
+57	Bengali	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	kṣepe uṭhā	NOM	GENopar	Y	NOMGENopar	CV (сердясь поднимается). Возможны и другие варианты перевода, но одна и та же модель управления. См. 10						
+57	Bengali	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	sambyāthī (haoẙā) 	*		*		Оба полученных перевода в данном случае неточные (информанты перепутали русский симпатизировать c sympathise)						
+57	Bengali	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	saṁkoc bodh karā	NOM	niye	Y	NOMniye	CV (стеснение мысль делать). У другого информанта есть еще вариант: lajjābodh karā (NOM LOC/INS), но Майя написала, что он менее точен (оттенок религиозного стыда)						

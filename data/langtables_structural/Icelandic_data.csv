@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+64	Icelandic	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	illt	DAT	iDAT	XY	DAT_iDAT	"NV (ADJ). Это второй вариант, который был предложен наряду с композитом (букв. ""быть с головоболью""), который я не могу засчитать."						íDAT
+64	Icelandic	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	er	NOM	medACC	Y	NOM_medACC	"Букв. ""быть"""						meðACC
+64	Icelandic	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	hræddur 	NOM	vidACC	Y	NOM_vidACC	NV (ADJ)						viðACC
+64	Icelandic	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	kastaði 	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	á nóg 	*		*		"Только ""имеет [достаточно денег]"", где деньги вложены в ИГ"						
+64	Icelandic	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	líkist	NOM	DAT	Y	NOM_DAT	Есть еще альтернатива (er líkur), это неглагольный предикат (тоже NOM_DAT)						DAT
+64	Icelandic	7	believe	X (believe) Y	верить	X (верить)Y-у	trúir 	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	8	take	X (take) Y	взять	X (брать) Y(-а)	tók 	TR		TR	TR							
+64	Icelandic	9	see	X (see) Y	видеть	X (видеть) Y(-а)	sér 	TR		TR	TR							
+64	Icelandic	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	hefur áhrif	NOM	aACC	Y	NOM_aACC	"CV. Это букв. ""иметь влияние на…""; не совсем понятно, как устроена структура составляющих"						áACC
+64	Icelandic	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	rakst 	NOM	aACC	Y	NOM_aACC	"Это буквально ""бежать"""						áACC
+64	Icelandic	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	kom inn	NOM	iACC	Y	NOM_iACC	Phrasal verb						íACC
+64	Icelandic	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	vann 	TR		TR	TR							
+64	Icelandic	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	fór út	NOM	urDAT	Y	NOM_urDAT	"Букв. ""went out"""						úrDAT
+64	Icelandic	15	drive	X (drive) Y	гнать	X (гнать) Y-а	reka	TR		TR	TR	Это инфинитив, т.к. тут аналитическая конструкция						
+64	Icelandic	16	bend	X (bend) Y	гнуть	X (гнуть) Y	beygði	TR		TR	TR							
+64	Icelandic	17	tell	X (tell) Y	говорить	X (говорить) Y-у	sagði	NOM	vidACC	Y	NOM_vidACC							viðACC
+64	Icelandic	18	hold	X (hold)Y	держать	X (держать) Y(-а)	heldur	NOM	aACC	Y	NOM_aACC							áACC
+64	Icelandic	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	náði	NOM	DAT	Y	NOM_DAT	То же, что 21						DAT
+64	Icelandic	20	milk	X (milk) Y	доить	X (доить) Y-а	mjólkaði	TR		TR	TR							
+64	Icelandic	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	náði	NOM	DAT	Y	NOM_DAT	То же, что 19						DAT
+64	Icelandic	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	kom	NOM	vidACC	Y	NOM_vidACC	Этот глагол буквально значит 'приходить'. Есть еще второй вариант перевода (snerti), там TR. Выбранный вариант гораздо частотнее.						viðACC
+64	Icelandic	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	slást	NOM	vidACC	Y	NOM_vidACC	Это инфинитив, т.к. тут аналитическая конструкция						viðACC
+64	Icelandic	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	vinur 	NOM	GEN	Y	NOM_GEN	NV (NP). Только приименное зависимое (друг Y-а)						GEN
+64	Icelandic	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	hugsa	NOM	umACC	Y	NOM_umACC	Это инфинитив, т.к. тут аналитическая конструкция						umACC
+64	Icelandic	26	eat	X (eat) Y	есть	X (есть) Y	borðaði	TR		TR	TR							
+64	Icelandic	27	fry	X (fry) Y	жарить	X (жарить) Y	steikti	TR		TR	TR							
+64	Icelandic	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	bíða	NOM	eftirDAT	Y	NOM_eftirDAT							eftirDAT
+64	Icelandic	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	gleymdi	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	háð	NOM	DAT	Y	NOM_DAT	NV (ADJ)						DAT
+64	Icelandic	31	call	X (call) Y	звать	X (звать) Y-а	kallaði	NOM	iACC	Y	NOM_iACC							íACC
+64	Icelandic	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	kynntist	NOM	DAT	Y	NOM_DAT	REFL						DAT
+64	Icelandic	33	know	X (know) Y	знать 	X (знать) Y-а	þekkir 	TR		TR	TR							
+64	Icelandic	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	spila	NOM	aACC	Y	NOM_aACC	Это инфинитив, т.к. тут аналитическая конструкция						áACC
+64	Icelandic	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	forðast 	TR		TR	TR							
+64	Icelandic	36	make	X (make) Y	изготовить	X (изготовить) Y	bjó til	*		*								
+64	Icelandic	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	gera grín	NOM	adDAT	Y	NOM_adDAT	CV (make fun). Это инфинитив, т.к. тут аналитическая конструкция						aðDAT
+64	Icelandic	38	have	X (have) Y	иметь	X (иметь) Y	á	TR		TR	TR							
+64	Icelandic	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	leita	NOM	adDAT	Y	NOM_adDAT	Это инфинитив, т.к. тут аналитическая конструкция						aðDAT
+64	Icelandic	40	paint	X (paint) Y	красить	X (красить) Y	málaði	TR		TR	TR							
+64	Icelandic	41	bite	X (bite) Y	кусать	X (кусать) Y-а	beit 	TR		TR	TR							
+64	Icelandic	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	missti	TR		TR	TR	То же, что 86						
+64	Icelandic	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	reyna að ná	*		*		"Нет предиката ""ловить"", только ""пытаться поймать"""						
+64	Icelandic	44	break	X (break) Y	ломать	X (ломать) Y	braut 	TR		TR	TR							
+64	Icelandic	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	skjalla	TR		TR	TR	Это инфинитив, т.к. тут аналитическая конструкция						
+64	Icelandic	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	elskar	TR		TR	TR	То же, что 119						
+64	Icelandic	47	wave	X (wave) Y	махать	X (махать) Y-ом	veifa	TR		TR	TR	Это инфинитив, т.к. тут аналитическая конструкция						
+64	Icelandic	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dreymir	ACC	umACC	XY	ACC_umACC	Quirky subject alternation: ACC vs. DAT. Первая опция частотнее. Тот же глагол, что 97						umACC
+64	Icelandic	49	wash	X (wash) Y	мыть	X (мыть) Y	þvoði	TR		TR	TR							
+64	Icelandic	50	put_on	X (put_on) Y	надевать	X (надевать) Y	fór	NOM	iACC	Y	NOM_iACC	"Букв. ""went into"""						íACC
+64	Icelandic	51	be_called	X (be_called) Y	называться	X (называться) Y	er  kallað	NOM	NOM	Y	NOM_NOM	Пассив. Есть еще вариант heitir, это актив, та же модель						NOM
+64	Icelandic	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	refsaði	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	réðst	NOM	aACC	Y	NOM_aACC							áACC
+64	Icelandic	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	fylltist	NOM	afDAT	Y	NOM_afDAT							afDAT
+64	Icelandic	55	find	X (find) Y	находить	X (находить) Y(-а)	fann 	TR		TR	TR							
+64	Icelandic	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	vantar	ACC	ACC	XY	ACC_ACC	То же, что в 59. Quirky subject alternation: ACC vs. DAT						ACC
+64	Icelandic	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	hatar	TR		TR	TR							
+64	Icelandic	58	like	X (like) Y	нравиться	X-у (нравиться) Y	líkar	DAT	NOM	X	DAT_NOM							NOM
+64	Icelandic	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	vantar	ACC	ACC	XY	ACC_ACC	То же, что в 56. Quirky subject alternation: ACC vs. DAT						ACC
+64	Icelandic	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	umlykja	TR		TR	TR							
+64	Icelandic	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	á eftir	TR		TR	TR	"букв. ""has … left"""						
+64	Icelandic	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	svaraði	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	63	open	X (open) Y	открывать	X (открывать) Y	opnaði	TR		TR	TR							
+64	Icelandic	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	ólík	NOM	DAT	Y	NOM_DAT	NV (ADJ)						DAT
+64	Icelandic	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	dróst aftur	NOM	urDAT	Y	NOM_urDAT	Phrasal verb						úrDAT
+64	Icelandic	66	plough	X (plough) Y	пахать	X (пахать) Y	plægja 	TR		TR	TR	Это инфинитив, т.к. тут аналитическая конструкция						
+64	Icelandic	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	lykta	NOM	afDAT	Y	NOM_afDAT							afDAT
+64	Icelandic	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	fór	NOM	yfirACC	Y	NOM_yfirACC	"Букв. ""went across"""						yfirACC
+64	Icelandic	69	sing	X (sing) Y	петь	X (петь) Y	söng 	TR		TR	TR							
+64	Icelandic	70	write	X (write) Y	писать	X (писать) Y	skrifaði	TR		TR	TR							
+64	Icelandic	71	drink	X (drink) Y	пить	X (пить) Y	drakk	TR		TR	TR							
+64	Icelandic	72	melt	X (melt) Y	плавить	X (плавить) Y	bræddi	TR		TR	TR							
+64	Icelandic	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	í stíl	NOM	vidACC	Y	NOM_vidACC	"NV (PP; букв. ""быть в стиле"")"						viðACC
+64	Icelandic	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	yfirgaf	TR		TR	TR							
+64	Icelandic	75	cover	X (cover) Y	покрывать	X (покрывать) Y	þekur 	TR		TR	TR							
+64	Icelandic	76	remember	X (remember) Y	помнить	X (помнить) Y-а	man	NOM	eftirDAT	Y	NOM_eftirDAT							eftirDAT
+64	Icelandic	77	help	X (help) Y	помочь	X (помогать) Y-у	hjálpaði	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	78	understand	X (understand) Y	понимать	X (понимать) Y	skilur	TR		TR	TR							
+64	Icelandic	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	laust niður	NOM	iACC	Y	NOM_iACC	"Phrasal verb (""struck down"")"						íACC
+64	Icelandic	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	skar sig	NOM	medDAT	Y	NOM_medDAT	Возвратное местоимение						meðDAT
+64	Icelandic	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	festist	NOM	vidACC	Y	NOM_vidACC	REFL						viðACC
+64	Icelandic	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	tapaði	NOM	fyrirDAT	Y	NOM_fyrirDAT							fyrirDAT
+64	Icelandic	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ánægður	NOM	medACC	Y	NOM_medACC	NV (ADJ) То же, что 112						meðACC
+64	Icelandic	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	tala	NOM	vidACC	Y	NOM_vidACC	Это инфинитив, т.к. тут аналитическая конструкция						viðACC
+64	Icelandic	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	fæddi	TR		TR	TR							
+64	Icelandic	86	drop	X (drop) Y	ронять	X (ронять) Y	missti	TR		TR	TR	То же, что 42						
+64	Icelandic	87	govern	X (govern) Y	руководить	X (руководить) Y	fer með völd	NOM	iDAT	Y	NOM_iDAT	CV ('goes with power')						íDAT
+64	Icelandic	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	saknar	NOM	GEN	Y	NOM_GEN							GEN
+64	Icelandic	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	eltir	TR		TR	TR							
+64	Icelandic	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	steig niður	NOM	afDAT	Y	NOM_afDAT	Phrasal verb (stepped down)						afDAT
+64	Icelandic	91	listen	X (listen) to Y	слушать	X (слушать) Y	hlusta	NOM	aACC	Y	NOM_aACC	Это инфинитив, т.к. тут аналитическая конструкция. То же, что 92.						áACC
+64	Icelandic	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	hlýðir	NOM	DAT	Y	NOM_DAT	"Это obey; еще есть вариант употребить глагол ""слушать"" (тот же, что в 91)"						DAT
+64	Icelandic	93	hear	X (hear) Y	слышать	X (слышать) Y	heyrir	TR		TR	TR							
+64	Icelandic	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	blandaðist	NOM	vidACC	Y	NOM_vidACC	"Еще в переводе употреблено слово saman, отглоссированное как ""together"", не знаю, каков точно его статус"						viðACC
+64	Icelandic	95	look	X (look) at Y	смотреть	X (смотреть) на Y	horfa	NOM	aACC	Y	NOM_aACC	Это инфинитив, т.к. тут аналитическая конструкция. То же, что 92.						áACC
+64	Icelandic	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	fór	NOM	urDAT	Y	NOM_urDAT	"Букв. ""went out of"""						úrDAT
+64	Icelandic	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	dreymir	ACC	ACC	XY	ACC_ACC	Тот же глагол, что 48						ACC
+64	Icelandic	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	sammála	NOM	DAT	Y	NOM_DAT	NV						DAT
+64	Icelandic	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	reifst	NOM	vidACC	Y	NOM_vidACC							viðACC
+64	Icelandic	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	kostar	TR		TR	TR							
+64	Icelandic	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	skaut	NOM	aACC	Y	NOM_aACC							áACC
+64	Icelandic	102	pour	X (pour) Y	сыпать	X (сыпать) Y	hellti	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	103	lose	X (lose) Y	терять	X (терять) Y	týndi	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sökk	NOM	iACC	Y	NOM_iACC							íACC
+64	Icelandic	105	kill	X (kill) Y	убивать	X (убивать) Y-а	drap	TR		TR	TR							
+64	Icelandic	106	hit	X (hit) Y	ударить	X (ударять) Y-а	lamdi	TR		TR	TR							
+64	Icelandic	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	kyssti	TR		TR	TR							
+64	Icelandic	108	read	X (read) Y	читать	X (читать) Y-а	las	TR		TR	TR							
+64	Icelandic	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	hreyfði	TR		TR	TR							
+64	Icelandic	110	respect	X (respect) Y	уважать	X (уважать) Y-а	ber virðingu	NOM	fyrirDAT	Y	NOM_fyrirDAT							fyrirDAT
+64	Icelandic	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	flökrar	NOM	vidDAT	Y	NOM_vidDAT							viðDAT
+64	Icelandic	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	ánægður	NOM	medACC	Y	NOM_medACC	NV (ADJ) То же, что 83						meðACC
+64	Icelandic	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	varð ástfanginn	NOM	afDAT	Y	NOM_afDAT	CV (decome enamoured)						afDAT
+64	Icelandic	114	trust	X (trust) Y	доверять	X (доверять) Y-у	treystir	NOM	DAT	Y	NOM_DAT							DAT
+64	Icelandic	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	finnur til	NOM	medDAT	Y	NOM_medDAT	Phrasal verb ('feels to')						meðDAT
+64	Icelandic	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	öfundar 	TR		TR	TR							
+64	Icelandic	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	reiður	NOM	vidACC	Y	NOM_vidACC	NV						viðACC
+64	Icelandic	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	hissa	NOM	yfirDAT	Y	NOM_yfirDAT	NV						yfirDAT
+64	Icelandic	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	elskar	TR		TR	TR	То же, что 46						
+64	Icelandic	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	finnst gott	DAT	NOM	X	DAT_NOM	CV ('considers good')						NOM
+64	Icelandic	121	want	X (want) Y	хотеть	X (хотеть) Y-а	langar	ACC	iACC	XY	ACC_iACC	Quirky subject alternation: ACC vs. DAT						íACC
+64	Icelandic	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	*	*		*		No adequate translation.						
+64	Icelandic	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	móðgaðist	NOM	vidACC	Y	NOM_vidACC	REFL						viðACC
+64	Icelandic	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	kom ... í mikið uppnám	NOM	DAT	Y	NOM_DAT	CV ('got Y in much agitation'). Почти то же, что 127 (но не REFL)						DAT
+64	Icelandic	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	dáðist	NOM	adDAT	Y	NOM_adDAT	Переводы marvel/admire						aðDAT
+64	Icelandic	126	despise	X (despise) Y	презирать	X (презирать) Y-а	fyrirlítur	TR		TR	TR							
+64	Icelandic	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	komst í uppnám	NOM	vegnaGEN	Y	NOM_vegnaGEN	REFL. CV ('got in agitation'). Почти то же, что 124 (но REFL)						vegnaGEN
+64	Icelandic	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	verða pirraður 	NOM	aDAT	Y	NOM_aDAT	CV ('become irritated'). Это инфинитив, т.к. тут аналитическая конструкция. То же, что 92.						áDAT
+64	Icelandic	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	annt	NOM	umACC	Y	NOM_umACC	NV						umACC
+64	Icelandic	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	fer hjá sér	NOM	vegnaGEN	Y	NOM_vegnaGEN	CV ('goes by himself')						vegnaGEN

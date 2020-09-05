@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+50	Turkish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ağrı-	GEN	NOM	X	GENNOM							
+50	Turkish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	var	GEN	NOM	X	GENNOM							
+50	Turkish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	kork-	NOM	ABL	Y	NOMABL							
+50	Turkish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	at-	TR		TR	TR							
+50	Turkish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	yet-	DAT	NOM	X	DATNOM							
+50	Turkish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	benze-	NOM	DAT	Y	NOMDAT							
+50	Turkish	7	believe	X (believe) Y	верить	X (верить)Y-у	inan-	NOM	DAT	Y	NOMDAT							
+50	Turkish	8	take	X (take) Y	взять	X (брать) Y(-а)	al-	TR		TR	TR							
+50	Turkish	9	see	X (see) Y	видеть	X (видеть) Y(-а)	gör-	TR		TR	TR							
+50	Turkish	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	etkile-	TR		TR	TR							
+50	Turkish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	rastla-	NOM	DAT	Y	NOMDAT							
+50	Turkish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	gir-	NOM	DAT	Y	NOMDAT							
+50	Turkish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	yen-	TR		TR	TR							
+50	Turkish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	çık-	NOM	ABL	Y	NOMABL							
+50	Turkish	15	drive	X (drive) Y	гнать	X (гнать) Y-а	kovala-	TR		TR	TR							
+50	Turkish	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bük-	TR		TR	TR							
+50	Turkish	17	tell	X (tell) Y	говорить	X (говорить) Y-у	de-	NOM	DAT	Y	NOMDAT	Еще есть вариант söyle-, та же рамка						
+50	Turkish	18	hold	X (hold)Y	держать	X (держать) Y(-а)	tut-	TR		TR	TR							
+50	Turkish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	yetiş-	NOM	DAT	Y	NOMDAT							
+50	Turkish	20	milk	X (milk) Y	доить	X (доить) Y-а	sağ-	TR		TR	TR							
+50	Turkish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	ulaş- 	NOM	DAT	Y	NOMDAT	"Этог глагол значит ""с трудом добрался""; еще можно var- -- просто ""пришел"""						
+50	Turkish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	dokun-	NOM	DAT	Y	NOMDAT							
+50	Turkish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	dövüş-	NOM	COM	Y	NOMCOM	RECP						
+50	Turkish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	arkadaşlık et-	NOM	COM	Y	NOMCOM	"CV. ""делать дружбу"""						
+50	Turkish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	düşün-	TR		TR	TR							
+50	Turkish	26	eat	X (eat) Y	есть	X (есть) Y	ye-	TR		TR	TR							
+50	Turkish	27	fry	X (fry) Y	жарить	X (жарить) Y	kızart-	TR		TR	TR	CAUS						
+50	Turkish	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	bekle-	TR		TR	TR							
+50	Turkish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	unut-	TR		TR	TR							
+50	Turkish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	bağlı	NOM	DAT	Y	NOMDAT	NV (прилагательное)						
+50	Turkish	31	call	X (call) Y	звать	X (звать) Y-а	çağır-	TR		TR	TR							
+50	Turkish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	tanış-	NOM	COM	Y	NOMCOM	RECP						
+50	Turkish	33	know	X (know) Y	знать 	X (знать) Y-а	tanı-	TR		TR	TR							
+50	Turkish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	çalı-	TR		TR	TR							
+50	Turkish	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	kaç-	NOM	ABL	Y	NOMABL							
+50	Turkish	36	make	X (make) Y	изготовить	X (изготовить) Y	yap-	TR		TR	TR							
+50	Turkish	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	alay et-	NOM	COM	Y	NOMCOM	"CV ""делать шутку"""						
+50	Turkish	38	have	X (have) Y	иметь	X (иметь) Y	var	GEN	NOM	X	GENNOM							
+50	Turkish	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	ara-	TR		TR	TR							
+50	Turkish	40	paint	X (paint) Y	красить	X (красить) Y	boya-	TR		TR	TR							
+50	Turkish	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ısır-	TR		TR	TR							
+50	Turkish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	kaybet-	TR		TR	TR	"То же, что 103. Еще варианты перевода: а) ""остаться дом-CAR"", б) ""дом-ABL быть-PST"""						
+50	Turkish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	yakala-	TR		TR	TR							
+50	Turkish	44	break	X (break) Y	ломать	X (ломать) Y	kır-	TR		TR	TR							
+50	Turkish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	pohpohla-	TR		TR	TR	"""народный"" глагол. Еще один вариант, тоже ""народный"" -- yağ çek- ""масло тянуть"" (NOM DAT)"						
+50	Turkish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	sev-	TR		TR	TR							
+50	Turkish	47	wave	X (wave) Y	махать	X (махать) Y-ом	salla-	TR		TR	TR							
+50	Turkish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*		*		только с номинализацией						
+50	Turkish	49	wash	X (wash) Y	мыть	X (мыть) Y	yıka-	TR		TR	TR							
+50	Turkish	50	put_on	X (put_on) Y	надевать	X (надевать) Y	giy-	TR		TR	TR							
+50	Turkish	51	be_called	X (be_called) Y	называться	X (называться) Y	*	*		*		"Ни одна структура не подходит: а) X-а имя-P.3 Y; 2) ""называют"", книжный , 3) ""называться"" -- но он используется только в особой коммуникативной ситуации (контраст?)"						
+50	Turkish	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	cezalandır-	TR		TR	TR							
+50	Turkish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	saldır-	NOM	DAT	Y	NOMDAT							
+50	Turkish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	dol-	NOM	COM	Y	NOMCOM							
+50	Turkish	55	find	X (find) Y	находить	X (находить) Y(-а)	bul-	TR		TR	TR							
+50	Turkish	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	eksik	GEN	NOM	X	GENNOM	NV. прилагательное. Еще вариант yet-me -- глагол (достигать, доставать, хватать) с отрицанием						
+50	Turkish	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	nefret et-	NOM	ABL	Y	NOMABL	"CV. ""Отвращение делать""."						
+50	Turkish	58	like	X (like) Y	нравиться	X-у (нравиться) Y	beğen-	TR		TR	TR	"Второй вариант ""Y [X-а душа-DAT] идет"" -- неправильная структура составляющих"						
+50	Turkish	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	ihtiyaci var	GEN	DAT	XY	GENDAT	"NV. Букв.: ""У Х-а деньги-DAT потребность-Pх есть"""						
+50	Turkish	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	çevrele-	TR		TR	TR							
+50	Turkish	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	kal-	GEN	NOM	X	GENNOM							
+50	Turkish	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	cevap ver-	NOM	DAT	Y	NOMDAT	"CV. ""Ответ давать"""						
+50	Turkish	63	open	X (open) Y	открывать	X (открывать) Y	aç-	TR		TR	TR							
+50	Turkish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	farklı	NOM	ABL	Y	NOMABL	NV. Прилагательное						
+50	Turkish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	geri kal-	NOM	ABL	Y	NOMABL	"CV. ""Сзади (наречие!) остаться"""						
+50	Turkish	66	plough	X (plough) Y	пахать	X (пахать) Y	sür-	TR		TR	TR							
+50	Turkish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	kok-	NOM	ABL	Y	NOMABL	"Если ""бензин"" неопределенный (без зависимых и т.д.), то второй участник в немаркированной форме"						
+50	Turkish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	karşıya geç-	*		*		"Не берем: ""перешел на [противоположную.сторону улицы]"""						
+50	Turkish	69	sing	X (sing) Y	петь	X (петь) Y	söyle-	TR		TR	TR							
+50	Turkish	70	write	X (write) Y	писать	X (писать) Y	yaz-	TR		TR	TR							
+50	Turkish	71	drink	X (drink) Y	пить	X (пить) Y	iç-	TR		TR	TR							
+50	Turkish	72	melt	X (melt) Y	плавить	X (плавить) Y	erit-	TR		TR	TR							
+50	Turkish	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	uy-	NOM	DAT	Y	NOMDAT							
+50	Turkish	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	ayrıl-	NOM	ABL	Y	NOMABL							
+50	Turkish	75	cover	X (cover) Y	покрывать	X (покрывать) Y	kapla-	TR		TR	TR							
+50	Turkish	76	remember	X (remember) Y	помнить	X (помнить) Y-а	hatırla-	TR		TR	TR							
+50	Turkish	77	help	X (help) Y	помочь	X (помогать) Y-у	yardım et-	NOM	DAT	Y	NOMDAT	CV. Помощь делать						
+50	Turkish	78	understand	X (understand) Y	понимать	X (понимать) Y	anla-	TR		TR	TR							
+50	Turkish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	düş-	NOM	DAT	Y	NOMDAT							
+50	Turkish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	*	*		*		только с тремя участниками						
+50	Turkish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	yapı-	NOM	DAT	Y	NOMDAT							
+50	Turkish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	kaybet-	NOM	DAT	Y	NOMDAT							
+50	Turkish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	sevin-	NOM	DAT	Y	NOMDAT	То же, что 118						
+50	Turkish	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	konuş-	NOM	COM	Y	NOMCOM	RECP						
+50	Turkish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	doğur-	TR		TR	TR							
+50	Turkish	86	drop	X (drop) Y	ронять	X (ронять) Y	düşür-	TR		TR	TR							
+50	Turkish	87	govern	X (govern) Y	руководить	X (руководить) Y	yönet-	TR		TR	TR							
+50	Turkish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	özle-	TR		TR	TR							
+50	Turkish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	git-	NOM	GEN+peşinden	Y	NOMGEN+peşinden							
+50	Turkish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	in-	NOM	ABL	Y	NOMABL							
+50	Turkish	91	listen	X (listen) to Y	слушать	X (слушать) Y	dinle-	TR		TR	TR							
+50	Turkish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	*	*		*		"Основной способ: ""слушает СЛОВА матери"", не берем"						
+50	Turkish	93	hear	X (hear) Y	слышать	X (слышать) Y	duy-	TR		TR	TR							
+50	Turkish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	karı-ş-tır-ıl-	NOM	COM	Y	NOMCOM	RECP-CAUS-PASS. Годится при наличии внешнего воздействия. Иначе есть еще karı-ş- (NOM DAT)						
+50	Turkish	95	look	X (look) at Y	смотреть	X (смотреть) на Y	bak-	NOM	DAT	Y	NOMDAT							
+50	Turkish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	çıkar-	TR		TR	TR							
+50	Turkish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	rüyasında gör-	TR		TR	TR	"CV. ""В своем сне видит"""						
+50	Turkish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	katıl-	NOM	DAT	Y	NOMDAT	"Еще вариант: anlaş- (""договориться, прийти к общему мнению""), NOM COM"						
+50	Turkish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	tartış- 	NOM	COM	Y	NOMCOM	"""Поспорили"". Есть еще вариант bozuş- (""переругались"")"						
+50	Turkish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	et-	TR		TR	TR	"Букв.: ""Стакан одну лиру делает""; цена всегда немаркированная, но глагол переходный. Еще вариант ""Х -- Y"", без всего"						
+50	Turkish	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ateş et-	NOM	DAT	Y	NOMDAT	"CV. ""Выстрел делать"""						
+50	Turkish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	dök-	TR		TR	TR							
+50	Turkish	103	lose	X (lose) Y	терять	X (терять) Y	kaybet-	TR		TR	TR							
+50	Turkish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	bat-	NOM	LOC	Y	NOMLOC							
+50	Turkish	105	kill	X (kill) Y	убивать	X (убивать) Y-а	öldür-	TR		TR	TR	CAUS						
+50	Turkish	106	hit	X (hit) Y	ударить	X (ударять) Y-а	vur-	NOM	DAT	Y	NOMDAT							
+50	Turkish	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	öp-	TR		TR	TR							
+50	Turkish	108	read	X (read) Y	читать	X (читать) Y-а	oku-	TR		TR	TR							
+50	Turkish	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	kıpırdat-	TR		TR	TR							
+50	Turkish	110	respect	X (respect) Y	уважать	X (уважать) Y-а	saygı göster-	NOM	DAT	Y	NOMDAT	"CV. ""показывать уважение"""						
+50	Turkish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	iğren-	NOM	ABL	Y	NOMABL							
+50	Turkish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	memnun	NOM	ABL	Y	NOMABL	NV (прилагательное)						
+50	Turkish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	a^şık ol-	NOM	DAT	Y	NOMDAT	"NV. ударение на первом слоге, ""влюбленным стал"""						
+50	Turkish	114	trust	X (trust) Y	доверять	X (доверять) Y-у	güven-	NOM	DAT	Y	NOMDAT							
+50	Turkish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	acı-	NOM	DAT	Y	NOMDAT							
+50	Turkish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	kıskan-	TR		TR	TR							
+50	Turkish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	öfkelen-	NOM	DAT	Y	NOMDAT	То же, что 122, довольно нейтральный глагол						
+50	Turkish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	sevin-	NOM	DAT	Y	NOMDAT	"Вообще-то это то же, что 83, букв. ""радоваться"", но в этом контексте как раз хорошо"						
+50	Turkish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	sev-	TR		TR	TR							
+50	Turkish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*		*								
+50	Turkish	121	want	X (want) Y	хотеть	X (хотеть) Y-а	iste-	TR		TR	TR							
+50	Turkish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	öfkelen-	NOM	DAT	Y	NOMDAT	То же, что 117, довольно нейтральный глагол						
+50	Turkish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	gücen-	NOM	DAT	Y	NOMDAT							
+50	Turkish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	üz-	TR		TR	TR							
+50	Turkish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	şaş-	NOM	DAT	Y	NOMDAT	Сильное удивление						
+50	Turkish	126	despise	X (despise) Y	презирать	X (презирать) Y-а	hor gör-	NOM	DAT	Y	NOMDAT	"CV. ""видит ничтожным"""						
+50	Turkish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	üzül-	NOM	GEN+üzünden	Y	NOMGEN+üzünden	послелог со значением из-за						
+50	Turkish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	sinirlen-	NOM	DAT	Y	NOMDAT							
+50	Turkish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	sempati duy-	NOM	DAT	Y	NOMDAT	CV. чувствовать симпатию						
+50	Turkish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	utan-	NOM	ABL	Y	NOMABL							
