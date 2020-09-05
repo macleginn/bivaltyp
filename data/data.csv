@@ -4,7 +4,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 81	3	guč’a-	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s χuj.i-k-as guč’a-a	PN-DAT собака-SUB/CONT-ELAT бояться-PRS	‘Аслан боится собаки.’			
 81	4	fatːix.i-	ERG	ABS	TR	TR	aslan.a fatːix.i-ne ʁʷan	PN(ERG) бросать.PF-AOR камень	‘Аслан бросил камень.’			
 81	5	hurk’.a-	DAT	ABS	X	DAT_ABS	aslan.a-s pul hurk’.a-a	PN-DAT деньги быть.достаточным.IPF-PRS	‘Аслану хватает денег.’			
-81	6	uχšar + COP	ABS	DAT	Y	ABS_DAT	aslan meʜemed.i-s uχšar a-a	PN PN-DAT похожий {IN}быть-PRS	‘Аслан похож на Магомеда.’	Non-verbal predicate.		
+81	6	uχšar + ‘be’	ABS	DAT	Y	ABS_DAT	aslan meʜemed.i-s uχšar a-a	PN PN-DAT похожий {IN}быть-PRS	‘Аслан похож на Магомеда.’	Non-verbal predicate.		
 81	7	quχ.u-	ABS	POST	Y	ABS_POST	aslan meʜemed.i-q quχ.u-naa	PN PN-POST верить.PF-PRF	‘Аслан верит Магомеду.’			
 81	8	ʁuš.u-	ERG	ABS	TR	TR	aslan.a kitab ʁuš.u-ne (aškːaf.i-as)	PN(ERG) книга брать.PF-AOR шкаф-(IN)ELAT	‘Аслан взял книгу (из шкафа).’			
 81	9	agʷ.a-	DAT	ABS	X	DAT_ABS	aslan.a-s χal agʷ.a-a	PN-DAT дом видеть.IPF-PRS	‘Аслан видит дом.’			
@@ -55,9 +55,9 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 81	54	ac’.u-	ABS	ERG	Y	ABS_ERG	bedra xitː.a ac’.u-ne	ведро вода(ERG) наполняться.PF-AOR	‘Ведро наполнилось водой.’			
 81	55	(qa-)ǯik’.i-	DAT	ABS	X	DAT_ABS	aslan.a-s güleg-ar (qa-)ǯik’.i-ne	PN-DAT ключ-PL RE-находить.PF-AOR	‘Аслан нашел ключи.’			
 81	56	hurk’.u + NEG	DAT	ABS	X	DAT_ABS	aslan.a-s sa manat hurk’.u-ndawa	PN-DAT один рубль быть.достаточным.PF-AOR:neg	‘Аслану недостает одного рубля.’			
-81	57	dušman-di + COP	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed dušman-di a	PN-DAT PN враг-ADV {IN}быть:PRS	‘Аслан ненавидит Магомеда.’	Non-verbal predicate.		
-81	58	begemiš-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s me berʜem begemiš-tːi a	PN-DAT DEMM рубашка <нравиться>-ADV {IN}быть:PRS	‘Аслану нравится эта рубашка.’	Non-verbal predicate.		
-81	59	gerek-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s pul gerek-tːi a	PN-DAT деньги нужный-ADV {IN}быть:PRS	‘Аслану нужны деньги.’	Non-verbal predicate.		
+81	57	dušman-di + ‘be’	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed dušman-di a	PN-DAT PN враг-ADV {IN}быть:PRS	‘Аслан ненавидит Магомеда.’	Non-verbal predicate.		
+81	58	begemiš-tːi + ‘be’	DAT	ABS	X	DAT_ABS	aslan.a-s me berʜem begemiš-tːi a	PN-DAT DEMM рубашка <нравиться>-ADV {IN}быть:PRS	‘Аслану нравится эта рубашка.’	Non-verbal predicate.		
+81	59	gerek-tːi + ‘be’	DAT	ABS	X	DAT_ABS	aslan.a-s pul gerek-tːi a	PN-DAT деньги нужный-ADV {IN}быть:PRS	‘Аслану нужны деньги.’	Non-verbal predicate.		
 81	60	aldark.u-naa	ABS	SUPER	Y	ABS_SUPER	šahar (jaq’u pːatː.a-k-as) cil-ar.i-l-di aldark.u-naa	город четыре сторона-SUB/CONT-ELAT стена-PL-SUPER-LAT обходить.PF-PRF	‘Стены окружают город.’ (букв. ‘Город обведен стенами с четырех сторон’).			
 81	61	fame-	APUD	ABS	X	APUD_ABS	aslan.a-w ic’u manat fame-a	PN-APUD 10 рубль {APUD}оставаться-PRS	‘У Аслана осталось 10 рублей.’			
 81	62	ǯuwab i-	ERG	DAT	Y	ERG_DAT	aslan.a müʡelim.di-s ǯuwab i-ne	PN(ERG) учитель-DAT ответ давать:PF-AOR	‘Аслан ответил учителю.’			
@@ -109,11 +109,11 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 81	108	ruχ.u-	ERG	ABS	TR	TR	aslan.a sa iǯe kitab ruχ.u-ne	PN(ERG) один хороший книга читать.PF-AOR	‘Аслан прочитал хорошую книгу.’			
 81	109	t’ušar-q’.u-	ERG	ABS	TR	TR	aslan.a t’ub-ar t’ušar-q’.u-ne	PN(ERG) палец-PL шевелить-делать.PF-AOR	‘Аслан пошевелил пальцами.’			
 81	110	uwažat q’.a-	ERG	ABS	TR	TR	aslan.a meʜemed uwažat q’.a-a	PN(ERG) PN <уважать> делать.IPF-PRS	‘Аслан уважает Магомеда.’			
-81	111	karih-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s kur.u qːab-ar karih-tːi a	PN-DAT пачкаться.PF посуда-PL вызывающий.брезгливость-ADV {IN}быть:PRS	‘Аслан брезгует грязной посудой.’	Non-verbal predicate.		
-81	112	rezi-di + COP	ABS	SUPER	Y	ABS_SUPER	aslan uč.i-n gada.ji-l rezi-di a 	PN сам-GEN сын-SUPER довольный-ADV {IN}быть:PRS	‘Аслан доволен своим сыном.’	Non-verbal predicate.		
+81	111	karih-tːi + ‘be’	DAT	ABS	X	DAT_ABS	aslan.a-s kur.u qːab-ar karih-tːi a	PN-DAT пачкаться.PF посуда-PL вызывающий.брезгливость-ADV {IN}быть:PRS	‘Аслан брезгует грязной посудой.’	Non-verbal predicate.		
+81	112	rezi-di + ‘be’	ABS	SUPER	Y	ABS_SUPER	aslan uč.i-n gada.ji-l rezi-di a 	PN сам-GEN сын-SUPER довольный-ADV {IN}быть:PRS	‘Аслан доволен своим сыном.’	Non-verbal predicate.		
 81	113	kːan-x.u-	DAT	ABS	X	DAT_ABS	aslan.a-s fat’ima kːan-x.u-ne	PN-DAT PN любить-стать.PF-AOR	‘Аслан влюбился в Фатиму.’			
 81	114	quχ.a-	ABS	POST	Y	ABS_POST	aslan uč.i-n čːučːu-q quχ.a-a	PN сам-GEN брат-POST верить.IPF-PRS	‘Аслан доверяет своему брату.’			
-81	115	ʜajif-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s uč.i-n baw ʜajif-tːi a	PN-DAT сам-GEN мать жалкий-ADV {IN}быть:PRS	‘Аслан жалеет свою мать.’	Non-verbal predicate.		
+81	115	ʜajif-tːi + ‘be’	DAT	ABS	X	DAT_ABS	aslan.a-s uč.i-n baw ʜajif-tːi a	PN-DAT сам-GEN мать жалкий-ADV {IN}быть:PRS	‘Аслан жалеет свою мать.’	Non-verbal predicate.		
 81	116	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
 81	117	qel ke-	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s meʜemed.i-k-as qel ke-a	PN-DAT PN-SUB/CONT-ELAT обида {SUB/CONT}быть-PRS	‘Аслан злится на Магомеда.’			
 81	118	ʡalamat  x.u-	ABS	SUPER	Y	ABS_SUPER	aslan ʡalamat x.u-ne [uč.i-s aq’.u peškeš.i-l]	PN удивительный стать.PF-AOR сам-DAT делать.PF(PTCP) подарок-SUPER	‘Аслан удивился подарку, который ему подарили.’			
@@ -127,8 +127,8 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 81	126	alčaq-tːi fac.u-	ERG	ABS	TR	TR	aslan.a uč.i-n ču alčaq-tːi fac.u-naa	PN(ERG) сам-GEN брат презренный-ADV держать.PF-PRF	‘Аслан презирает своего брата.’			
 81	127	*	*	*	*		*	*	*	Not included in the database because Y can only be expressed as an NP within a dependent clause.		
 81	128	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		
-81	129	begemiš-tːi + COP	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed begemiš-tːi a	PN-DAT PN <нравиться>-ADV {IN}быть:PRS	‘Аслан симпатизирует Магомеду.’	Non-verbal predicate.		
-81	130	neč-tːi + COP	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s uč.i-n ǯiqːe-ʕʷel.i-k-as neč-tːi a	PN-DAT сам-GEN короткий-ABSTR-SUB/CONT-ELAT стыд-ADV {IN}быть:PRS	‘Аслан стесняется своего маленького роста.’	Non-verbal predicate.		
+81	129	begemiš-tːi + ‘be’	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed begemiš-tːi a	PN-DAT PN <нравиться>-ADV {IN}быть:PRS	‘Аслан симпатизирует Магомеду.’	Non-verbal predicate.		
+81	130	neč-tːi + ‘be’	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s uč.i-n ǯiqːe-ʕʷel.i-k-as neč-tːi a	PN-DAT сам-GEN короткий-ABSTR-SUB/CONT-ELAT стыд-ADV {IN}быть:PRS	‘Аслан стесняется своего маленького роста.’	Non-verbal predicate.		
 85	1	ruqχ’.u	GEN	NOM	X	GEN_NOM	ali-r miar ruqχ’.u-r	PN.OBL-INAN2(GEN) head[INAN2][NOM] ache.PST-PROG	‘Ali has a headache.’			
 85	2	ruqχ’.udo	NOM	COM	Y	NOM_COM	ali ruqχ’.udo honqχ’isːol=loj	PN[M][NOM] ache.PST.PRS influenza=COM	‘Ali has the flu.’			
 85	3	sːir.i	NOM	CONT	Y	NOM_CONT	ali χʷe-tʃ’u sːir.i-r	PN[M][NOM] dog.OBL-CONT fear.PST-PROG	‘Ali fears the dog.’			
