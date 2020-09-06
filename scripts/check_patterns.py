@@ -1,6 +1,7 @@
 """Check hand-crafted patterns.csv against the data collected from individual-language tables."""
 
 import pandas as pd
+from collect_language_data import COLNAMES_OUT_STRUCTURAL
 
 language_meta = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
 lang_name2no = {
@@ -11,28 +12,35 @@ lang_no2name = {
 }
 
 patterns = pd.read_csv('../data/patterns.csv', sep='\t')
-# print(patterns.columns)
-# print(patterns.Andi_Zilo)
-# import sys; sys.exit(0)
 
 collected_data = pd.read_csv('../data/data.csv', sep='\t')
 published_languages = list(
     map(lambda lang_no: lang_no2name[lang_no],
         collected_data.language_no.unique()))
+collected_data = collected_data[COLNAMES_OUT_STRUCTURAL]
 
-for lang_name in published_languages:
-    print(lang_name)
+structural_data = pd.read_csv('../data/data_structural.csv', sep='\t')
+structural_languages = list(
+    map(lambda lang_no: lang_no2name[lang_no],
+        structural_data.language_no.unique()))
+
+all_data = pd.concat([collected_data, structural_data])
+
+out = open('patterns_check.log', 'w', encoding='utf-8')
+for lang_name in published_languages + structural_languages:
+    print(lang_name, file=out)
     clean = True
     for t in patterns[['predicate_no', 'predicate_label_en', lang_name]].itertuples():
         # print(t)
-        expected = str(collected_data.loc[
-            (collected_data.predicate_no == int(t.predicate_no)) &
-            (collected_data.language_no == int(lang_name2no[lang_name]))
+        expected = str(all_data.loc[
+            (all_data.predicate_no == int(t.predicate_no)) &
+            (all_data.language_no == int(lang_name2no[lang_name]))
         ].valency_pattern.values[0])
         found = str(t[3])
         if expected.strip() != found.strip():
-            print(f'{t.predicate_label_en:20}expected: {expected:15} found: {found}')
+            print(f'{t.predicate_label_en:20}langtables: {expected:15} patterns: {found}', file=out)
             clean = False
     if clean:
-        print('Passed')
-    print()
+        print('Passed', file=out)
+    print('', file=out)
+out.close()
