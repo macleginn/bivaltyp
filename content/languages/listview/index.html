@@ -25,14 +25,16 @@
         'entropy (nat)'
     ];
 
-    let activeLanguages = new Set();
+    let activeLanguages = new Set(),
+        external2internal = {};
     for (const row of fullData.slice(1)) {
         activeLanguages.add(row[0]);
+        external2internal[row[row.length-1]] = row[2];
     }
 
     function getLink(row) {
         if (activeLanguages.has(row.get('language_external')))
-            return `<a class="table-link" href="../descriptions/${row.get('language')}.html">link</a>`;
+            return `<a class="table-link" href="../descriptions/${external2internal[row.get('language_external')]}.html">link</a>`;
         else
             return '';
     }
