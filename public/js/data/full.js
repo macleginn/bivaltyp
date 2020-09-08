@@ -2,6 +2,7 @@ const fullData = [
   [
     "language",
     "predicate",
+    "predicate_label_ru",
     "verb",
     "X",
     "Y",
@@ -17,6 +18,7 @@ const fullData = [
   [
     "Aghul",
     "feel_pain",
+    "болеть-1",
     "itːa-",
     "GEN",
     "ABS",
@@ -32,6 +34,7 @@ const fullData = [
   [
     "Aghul",
     "have#illness#",
+    "болеть-2",
     "x.u-",
     "DAT",
     "ABS",
@@ -47,6 +50,7 @@ const fullData = [
   [
     "Aghul",
     "be_afraid",
+    "бояться",
     "guč’a-",
     "DAT",
     "SUBCONT.ELAT",
@@ -62,6 +66,7 @@ const fullData = [
   [
     "Aghul",
     "throw",
+    "бросить",
     "fatːix.i-",
     "ERG",
     "ABS",
@@ -77,6 +82,7 @@ const fullData = [
   [
     "Aghul",
     "have_enough",
+    "быть достаточно",
     "hurk’.a-",
     "DAT",
     "ABS",
@@ -92,6 +98,7 @@ const fullData = [
   [
     "Aghul",
     "resemble",
+    "быть похожим",
     "uχšar + ‘be’",
     "ABS",
     "DAT",
@@ -107,6 +114,7 @@ const fullData = [
   [
     "Aghul",
     "believe",
+    "верить",
     "quχ.u-",
     "ABS",
     "POST",
@@ -122,6 +130,7 @@ const fullData = [
   [
     "Aghul",
     "take",
+    "взять",
     "ʁuš.u-",
     "ERG",
     "ABS",
@@ -137,6 +146,7 @@ const fullData = [
   [
     "Aghul",
     "see",
+    "видеть",
     "agʷ.a-",
     "DAT",
     "ABS",
@@ -152,6 +162,7 @@ const fullData = [
   [
     "Aghul",
     "influence",
+    "влиять",
     "*",
     "*",
     "*",
@@ -167,6 +178,7 @@ const fullData = [
   [
     "Aghul",
     "encounter",
+    "встречаться",
     "alčarx.u-",
     "ABS",
     "DAT",
@@ -182,6 +194,7 @@ const fullData = [
   [
     "Aghul",
     "enter",
+    "входить ",
     "ačaj-",
     "ABS",
     "DAT",
@@ -197,6 +210,7 @@ const fullData = [
   [
     "Aghul",
     "win",
+    "выиграть",
     "wartː ʁuš.u-",
     "ERG",
     "SUPER",
@@ -212,6 +226,7 @@ const fullData = [
   [
     "Aghul",
     "go_out",
+    "выходить",
     "ajč’.u-",
     "ABS",
     "(IN)ELAT",
@@ -227,6 +242,7 @@ const fullData = [
   [
     "Aghul",
     "drive",
+    "гнать",
     "hik.a-",
     "ERG",
     "ABS",
@@ -242,6 +258,7 @@ const fullData = [
   [
     "Aghul",
     "bend",
+    "гнуть",
     "č’ut’.u-",
     "ERG",
     "ABS",
@@ -257,6 +274,7 @@ const fullData = [
   [
     "Aghul",
     "tell",
+    "говорить",
     "p.u-",
     "ERG",
     "DAT",
@@ -272,6 +290,7 @@ const fullData = [
   [
     "Aghul",
     "hold",
+    "держать",
     "χil.i-ʔ a-",
     "GEN",
     "ABS",
@@ -287,6 +306,7 @@ const fullData = [
   [
     "Aghul",
     "catch_up",
+    "догнать",
     "qukː.u-na ruq’.u-",
     "ABS",
     "POST",
@@ -302,6 +322,7 @@ const fullData = [
   [
     "Aghul",
     "milk",
+    "доить",
     "uz.u-",
     "ERG",
     "ABS",
@@ -317,6 +338,7 @@ const fullData = [
   [
     "Aghul",
     "reach",
+    "достичь",
     "ruq’.u-",
     "ABS",
     "POST.LAT",
@@ -332,6 +354,7 @@ const fullData = [
   [
     "Aghul",
     "touch",
+    "дотронуться",
     "kürq’.u-",
     "GEN",
     "SUBCONT",
@@ -347,6 +370,7 @@ const fullData = [
   [
     "Aghul",
     "fight",
+    "драться",
     "uqː.a-",
     "ABS",
     "COMIT",
@@ -362,6 +386,7 @@ const fullData = [
   [
     "Aghul",
     "be_friends",
+    "дружить",
     "*",
     "*",
     "*",
@@ -377,6 +402,7 @@ const fullData = [
   [
     "Aghul",
     "think",
+    "думать",
     "fikir q’.a-",
     "ERG",
     "SUBCONT.ELAT",
@@ -392,6 +418,7 @@ const fullData = [
   [
     "Aghul",
     "eat",
+    "есть",
     "ʡut’.u-",
     "ERG",
     "ABS",
@@ -407,6 +434,7 @@ const fullData = [
   [
     "Aghul",
     "fry",
+    "жарить",
     "žarit’ q’.u-",
     "ERG",
     "ABS",
@@ -422,6 +450,7 @@ const fullData = [
   [
     "Aghul",
     "wait",
+    "ждать",
     "ʁuz.u-",
     "ABS",
     "POST.LAT",
@@ -437,6 +466,7 @@ const fullData = [
   [
     "Aghul",
     "forget",
+    "забывать",
     "k’ʷal-as š.u-",
     "DAT",
     "ABS",
@@ -452,6 +482,7 @@ const fullData = [
   [
     "Aghul",
     "depend",
+    "зависеть",
     "*",
     "*",
     "*",
@@ -467,6 +498,7 @@ const fullData = [
   [
     "Aghul",
     "call",
+    "звать",
     "un-aq’.u-",
     "ERG",
     "DAT",
@@ -482,6 +514,7 @@ const fullData = [
   [
     "Aghul",
     "get_to_know",
+    "знакомиться",
     "taniš-x.u-",
     "ABS",
     "COMIT",
@@ -497,6 +530,7 @@ const fullData = [
   [
     "Aghul",
     "know",
+    "знать ",
     "ʜa-",
     "DAT",
     "ABS",
@@ -512,6 +546,7 @@ const fullData = [
   [
     "Aghul",
     "play#instrument#",
+    "играть",
     "jarʜ.a-",
     "ERG",
     "ABS",
@@ -527,6 +562,7 @@ const fullData = [
   [
     "Aghul",
     "avoid",
+    "избегать",
     "*",
     "*",
     "*",
@@ -542,6 +578,7 @@ const fullData = [
   [
     "Aghul",
     "make",
+    "изготовить",
     "aq’.u-",
     "ERG",
     "ABS",
@@ -557,6 +594,7 @@ const fullData = [
   [
     "Aghul",
     "make_fun",
+    "издеваться",
     "ihanat-ar aq’.a-",
     "ERG",
     "SUBCONT.ELAT",
@@ -572,6 +610,7 @@ const fullData = [
   [
     "Aghul",
     "have",
+    "иметь",
     "qa-",
     "POST",
     "ABS",
@@ -587,6 +626,7 @@ const fullData = [
   [
     "Aghul",
     "look_for",
+    "искать",
     "aruc.a-",
     "ABS",
     "POST.LAT",
@@ -602,6 +642,7 @@ const fullData = [
   [
     "Aghul",
     "paint",
+    "красить",
     "šur jarʜ.u-",
     "ERG",
     "DAT",
@@ -617,6 +658,7 @@ const fullData = [
   [
     "Aghul",
     "bite",
+    "кусать",
     "fac.u-",
     "ERG",
     "ABS",
@@ -632,6 +674,7 @@ const fullData = [
   [
     "Aghul",
     "forfeit",
+    "лишаться",
     "x.u-",
     "ABS",
     "SUBCONT.ELAT",
@@ -647,6 +690,7 @@ const fullData = [
   [
     "Aghul",
     "try_to_catch",
+    "ловить",
     "fac.a-",
     "ERG",
     "ABS",
@@ -662,6 +706,7 @@ const fullData = [
   [
     "Aghul",
     "break",
+    "ломать",
     "arʕ.u-",
     "ERG",
     "ABS",
@@ -677,6 +722,7 @@ const fullData = [
   [
     "Aghul",
     "flatter",
+    "льстить",
     "qːele-jar jarʜ.a-",
     "ERG",
     "DAT",
@@ -692,6 +738,7 @@ const fullData = [
   [
     "Aghul",
     "love1",
+    "любить-1",
     "kːande-",
     "DAT",
     "ABS",
@@ -707,6 +754,7 @@ const fullData = [
   [
     "Aghul",
     "wave",
+    "махать",
     "tːutː.a-",
     "ERG",
     "ABS",
@@ -722,6 +770,7 @@ const fullData = [
   [
     "Aghul",
     "dream",
+    "мечтать",
     "*",
     "*",
     "*",
@@ -737,6 +786,7 @@ const fullData = [
   [
     "Aghul",
     "wash",
+    "мыть",
     "ʡučː.u-",
     "ERG",
     "ABS",
@@ -752,6 +802,7 @@ const fullData = [
   [
     "Aghul",
     "put_on",
+    "надевать",
     "lik’.i-",
     "ERG",
     "ABS",
@@ -767,6 +818,7 @@ const fullData = [
   [
     "Aghul",
     "be_called",
+    "называться",
     "tːur + COP",
     "GEN",
     "PRED",
@@ -782,6 +834,7 @@ const fullData = [
   [
     "Aghul",
     "punish",
+    "наказывать",
     "nakːazat q’.u-",
     "ERG",
     "ABS",
@@ -797,6 +850,7 @@ const fullData = [
   [
     "Aghul",
     "attack",
+    "напасть",
     "alčiš.i-",
     "ABS",
     "SUPER",
@@ -812,6 +866,7 @@ const fullData = [
   [
     "Aghul",
     "fill#intr#",
+    "наполняться",
     "ac’.u-",
     "ABS",
     "ERG",
@@ -827,6 +882,7 @@ const fullData = [
   [
     "Aghul",
     "find",
+    "находить",
     "(qa-)ǯik’.i-",
     "DAT",
     "ABS",
@@ -842,6 +898,7 @@ const fullData = [
   [
     "Aghul",
     "be_short",
+    "недоставать",
     "hurk’.u + NEG",
     "DAT",
     "ABS",
@@ -857,6 +914,7 @@ const fullData = [
   [
     "Aghul",
     "hate",
+    "ненавидеть",
     "dušman-di + ‘be’",
     "DAT",
     "ABS",
@@ -872,6 +930,7 @@ const fullData = [
   [
     "Aghul",
     "like",
+    "нравиться",
     "begemiš-tːi + ‘be’",
     "DAT",
     "ABS",
@@ -887,6 +946,7 @@ const fullData = [
   [
     "Aghul",
     "need",
+    "нуждаться",
     "gerek-tːi + ‘be’",
     "DAT",
     "ABS",
@@ -902,6 +962,7 @@ const fullData = [
   [
     "Aghul",
     "surround",
+    "окружать",
     "aldark.u-naa",
     "ABS",
     "SUPER",
@@ -917,6 +978,7 @@ const fullData = [
   [
     "Aghul",
     "remain",
+    "оставаться",
     "fame-",
     "APUD",
     "ABS",
@@ -932,6 +994,7 @@ const fullData = [
   [
     "Aghul",
     "answer",
+    "отвечать",
     "ǯuwab i-",
     "ERG",
     "DAT",
@@ -947,6 +1010,7 @@ const fullData = [
   [
     "Aghul",
     "open",
+    "открывать",
     "daq.u-",
     "ERG",
     "ABS",
@@ -962,6 +1026,7 @@ const fullData = [
   [
     "Aghul",
     "be_different",
+    "отличаться",
     "ǯüre-f + COP",
     "ABS",
     "SUPER.ELAT",
@@ -977,6 +1042,7 @@ const fullData = [
   [
     "Aghul",
     "fall_behind",
+    "отстать",
     "qatːarx.u-",
     "ABS",
     "POST.ELAT",
@@ -992,6 +1058,7 @@ const fullData = [
   [
     "Aghul",
     "plough",
+    "пахать",
     "izan aq’.a-",
     "ERG",
     "ABS",
@@ -1007,6 +1074,7 @@ const fullData = [
   [
     "Aghul",
     "smell",
+    "пахнуть",
     "niʔ qa-",
     "POST",
     "GEN",
@@ -1022,6 +1090,7 @@ const fullData = [
   [
     "Aghul",
     "cross",
+    "пересечь",
     "te qːʷal.a-s ajč’.u-",
     "*",
     "*",
@@ -1037,6 +1106,7 @@ const fullData = [
   [
     "Aghul",
     "sing",
+    "петь",
     "q’.u-",
     "ERG",
     "ABS",
@@ -1052,6 +1122,7 @@ const fullData = [
   [
     "Aghul",
     "write",
+    "писать",
     "lik’.i-",
     "ERG",
     "ABS",
@@ -1067,6 +1138,7 @@ const fullData = [
   [
     "Aghul",
     "drink",
+    "пить",
     "uχ.u-",
     "ERG",
     "ABS",
@@ -1082,6 +1154,7 @@ const fullData = [
   [
     "Aghul",
     "melt",
+    "плавить",
     "uc’.u-",
     "ERG",
     "ABS",
@@ -1097,6 +1170,7 @@ const fullData = [
   [
     "Aghul",
     "match",
+    "подходить",
     "düx.e-",
     "ABS",
     "DAT",
@@ -1112,6 +1186,7 @@ const fullData = [
   [
     "Aghul",
     "leave",
+    "покидать",
     "at.u-",
     "ERG",
     "ABS",
@@ -1127,6 +1202,7 @@ const fullData = [
   [
     "Aghul",
     "cover",
+    "покрывать",
     "fac.a-",
     "ERG",
     "ABS",
@@ -1142,6 +1218,7 @@ const fullData = [
   [
     "Aghul",
     "remember",
+    "помнить",
     "jurk’.ura-l alme-",
     "GEN",
     "ABS",
@@ -1157,6 +1234,7 @@ const fullData = [
   [
     "Aghul",
     "help",
+    "помочь",
     "kümek q’.u-",
     "ERG",
     "DAT",
@@ -1172,6 +1250,7 @@ const fullData = [
   [
     "Aghul",
     "understand",
+    "понимать",
     "ʁawur.di arx.a-",
     "DAT",
     "GEN",
@@ -1187,6 +1266,7 @@ const fullData = [
   [
     "Aghul",
     "hit#target#",
+    "попасть",
     "jarʜ.u-",
     "ERG",
     "DAT",
@@ -1202,6 +1282,7 @@ const fullData = [
   [
     "Aghul",
     "cut_oneself",
+    "порезаться",
     "at’.u-",
     "ERG",
     "SUPER.LAT",
@@ -1217,6 +1298,7 @@ const fullData = [
   [
     "Aghul",
     "get_stuck",
+    "прилипать",
     "küqː.u-",
     "ABS",
     "SUBCONT",
@@ -1232,6 +1314,7 @@ const fullData = [
   [
     "Aghul",
     "lose#game#",
+    "проиграть",
     "aq x.u-",
     "ABS",
     "SUPER.ELAT",
@@ -1247,6 +1330,7 @@ const fullData = [
   [
     "Aghul",
     "be_glad",
+    "радоваться",
     "šad-x.u-",
     "ABS",
     "DAT",
@@ -1262,6 +1346,7 @@ const fullData = [
   [
     "Aghul",
     "speak",
+    "разговаривать",
     "raχ.a-",
     "ABS",
     "COMIT",
@@ -1277,6 +1362,7 @@ const fullData = [
   [
     "Aghul",
     "give_birth",
+    "рожать",
     "ruχ.u-",
     "DAT",
     "ABS",
@@ -1292,6 +1378,7 @@ const fullData = [
   [
     "Aghul",
     "drop",
+    "ронять",
     "adarx.u-",
     "APUD.ELAT",
     "ABS",
@@ -1307,6 +1394,7 @@ const fullData = [
   [
     "Aghul",
     "govern",
+    "руководить",
     "aʜa-f + COP",
     "ABS",
     "GEN",
@@ -1322,6 +1410,7 @@ const fullData = [
   [
     "Aghul",
     "miss",
+    "скучать",
     "dariχ x.u-",
     "ABS",
     "POST.LAT",
@@ -1337,6 +1426,7 @@ const fullData = [
   [
     "Aghul",
     "follow",
+    "следовать",
     "ʕʷ.a-",
     "ABS",
     "GENxupaqas",
@@ -1352,6 +1442,7 @@ const fullData = [
   [
     "Aghul",
     "dismount",
+    "слезать",
     "alajč’.u-",
     "ABS",
     "SUPER.ELAT",
@@ -1367,6 +1458,7 @@ const fullData = [
   [
     "Aghul",
     "listen",
+    "слушать",
     "ubur qix.i-",
     "ERG",
     "POST",
@@ -1382,6 +1474,7 @@ const fullData = [
   [
     "Aghul",
     "obey",
+    "слушаться",
     "ubur lix.a-",
     "ERG",
     "SUPER",
@@ -1397,6 +1490,7 @@ const fullData = [
   [
     "Aghul",
     "hear",
+    "слышать",
     "un-x.a-",
     "DAT",
     "ABS",
@@ -1412,6 +1506,7 @@ const fullData = [
   [
     "Aghul",
     "mix",
+    "смешаться",
     "uc’.u-",
     "ABS",
     "INTER",
@@ -1427,6 +1522,7 @@ const fullData = [
   [
     "Aghul",
     "look",
+    "смотреть",
     "χutːurf.a-",
     "ABS",
     "DAT",
@@ -1442,6 +1538,7 @@ const fullData = [
   [
     "Aghul",
     "take_off",
+    "снимать",
     "latːaq.u-",
     "ERG",
     "ABS",
@@ -1457,6 +1554,7 @@ const fullData = [
   [
     "Aghul",
     "dream#sleeping#",
+    "сниться",
     "agʷ.a- ʡemk’.e-k-as",
     "DAT",
     "ABS",
@@ -1472,6 +1570,7 @@ const fullData = [
   [
     "Aghul",
     "agree",
+    "соглашаться",
     "rezi x.u-",
     "ABS",
     "COMIT",
@@ -1487,6 +1586,7 @@ const fullData = [
   [
     "Aghul",
     "have_a_quarrel",
+    "ссориться",
     "qel aq’.u-",
     "ERG",
     "COMIT",
@@ -1502,6 +1602,7 @@ const fullData = [
   [
     "Aghul",
     "cost",
+    "стоить",
     "q’imat + COP",
     "GEN",
     "PRED",
@@ -1517,6 +1618,7 @@ const fullData = [
   [
     "Aghul",
     "shoot_at",
+    "стрелять",
     "tufang.i-as jarʜ.u-",
     "ERG",
     "DAT",
@@ -1532,6 +1634,7 @@ const fullData = [
   [
     "Aghul",
     "pour",
+    "сыпать",
     "aq.u-",
     "ERG",
     "ABS",
@@ -1547,6 +1650,7 @@ const fullData = [
   [
     "Aghul",
     "lose",
+    "терять",
     "gul.u-",
     "APUD.ELAT",
     "ABS",
@@ -1562,6 +1666,7 @@ const fullData = [
   [
     "Aghul",
     "sink",
+    "тонуть",
     "ʕarx.u-na ahajš.u-",
     "ABS",
     "INTER",
@@ -1577,6 +1682,7 @@ const fullData = [
   [
     "Aghul",
     "kill",
+    "убивать",
     "k’.i-",
     "ERG",
     "ABS",
@@ -1592,6 +1698,7 @@ const fullData = [
   [
     "Aghul",
     "hit",
+    "ударить",
     "ačarx.u-",
     "ERG",
     "IN",
@@ -1607,6 +1714,7 @@ const fullData = [
   [
     "Aghul",
     "kiss",
+    "целовать",
     "p’ac’ ik’.i-",
     "ERG",
     "DAT",
@@ -1622,6 +1730,7 @@ const fullData = [
   [
     "Aghul",
     "read",
+    "читать",
     "ruχ.u-",
     "ERG",
     "ABS",
@@ -1637,6 +1746,7 @@ const fullData = [
   [
     "Aghul",
     "move#bodypart#",
+    "шевелить",
     "t’ušar-q’.u-",
     "ERG",
     "ABS",
@@ -1652,6 +1762,7 @@ const fullData = [
   [
     "Aghul",
     "respect",
+    "уважать",
     "uwažat q’.a-",
     "ERG",
     "ABS",
@@ -1667,6 +1778,7 @@ const fullData = [
   [
     "Aghul",
     "be_squeamish",
+    "брезговать",
     "karih-tːi + ‘be’",
     "DAT",
     "ABS",
@@ -1682,6 +1794,7 @@ const fullData = [
   [
     "Aghul",
     "be_content",
+    "быть довольным",
     "rezi-di + ‘be’",
     "ABS",
     "SUPER",
@@ -1697,6 +1810,7 @@ const fullData = [
   [
     "Aghul",
     "fall_in_love",
+    "влюбляться",
     "kːan-x.u-",
     "DAT",
     "ABS",
@@ -1712,6 +1826,7 @@ const fullData = [
   [
     "Aghul",
     "trust",
+    "доверять",
     "quχ.a-",
     "ABS",
     "POST",
@@ -1727,6 +1842,7 @@ const fullData = [
   [
     "Aghul",
     "sympathise",
+    "жалеть",
     "ʜajif-tːi + ‘be’",
     "DAT",
     "ABS",
@@ -1742,6 +1858,7 @@ const fullData = [
   [
     "Aghul",
     "envy",
+    "завидовать",
     "*",
     "*",
     "*",
@@ -1757,6 +1874,7 @@ const fullData = [
   [
     "Aghul",
     "be_angry",
+    "злиться",
     "qel ke-",
     "DAT",
     "SUBCONT.ELAT",
@@ -1772,6 +1890,7 @@ const fullData = [
   [
     "Aghul",
     "be_surprised",
+    "удивляться",
     "ʡalamat  x.u-",
     "ABS",
     "SUPER",
@@ -1787,6 +1906,7 @@ const fullData = [
   [
     "Aghul",
     "love2",
+    "любить-2",
     "kːan-e-f- +COP",
     "DAT",
     "ABS",
@@ -1802,6 +1922,7 @@ const fullData = [
   [
     "Aghul",
     "enjoy",
+    "наслаждаться",
     "*",
     "*",
     "*",
@@ -1817,6 +1938,7 @@ const fullData = [
   [
     "Aghul",
     "want",
+    "хотеть",
     "kːande-",
     "DAT",
     "ABS",
@@ -1832,6 +1954,7 @@ const fullData = [
   [
     "Aghul",
     "have_a_grudge",
+    "сердиться",
     "qel ke-",
     "DAT",
     "SUBCONT.ELAT",
@@ -1847,6 +1970,7 @@ const fullData = [
   [
     "Aghul",
     "take_offence",
+    "обижаться",
     "qel aq’.u-",
     "ERG",
     "COMIT",
@@ -1862,6 +1986,7 @@ const fullData = [
   [
     "Aghul",
     "upset",
+    "огорчать",
     "pašman q’.u-",
     "ERG",
     "ABS",
@@ -1877,6 +2002,7 @@ const fullData = [
   [
     "Aghul",
     "marvel",
+    "поражаться",
     "ʡalamat  x.u-",
     "ABS",
     "SUPER",
@@ -1892,6 +2018,7 @@ const fullData = [
   [
     "Aghul",
     "despise",
+    "презирать",
     "alčaq-tːi fac.u-",
     "ERG",
     "ABS",
@@ -1907,6 +2034,7 @@ const fullData = [
   [
     "Aghul",
     "get_upset",
+    "огорчаться",
     "*",
     "*",
     "*",
@@ -1922,6 +2050,7 @@ const fullData = [
   [
     "Aghul",
     "get_irritated",
+    "раздражаться",
     "*",
     "*",
     "*",
@@ -1937,6 +2066,7 @@ const fullData = [
   [
     "Aghul",
     "be_fond",
+    "симпатизировать",
     "begemiš-tːi + ‘be’",
     "DAT",
     "ABS",
@@ -1952,6 +2082,7 @@ const fullData = [
   [
     "Aghul",
     "be_shy",
+    "стесняться",
     "neč-tːi + ‘be’",
     "DAT",
     "SUBCONT.ELAT",
@@ -1967,6 +2098,7 @@ const fullData = [
   [
     "Zilo Andi",
     "feel_pain",
+    "болеть-1",
     "ruqχ’.u",
     "GEN",
     "NOM",
@@ -1982,6 +2114,7 @@ const fullData = [
   [
     "Zilo Andi",
     "have#illness#",
+    "болеть-2",
     "ruqχ’.udo",
     "NOM",
     "COM",
@@ -1997,6 +2130,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_afraid",
+    "бояться",
     "sːir.i",
     "NOM",
     "CONT",
@@ -2012,6 +2146,7 @@ const fullData = [
   [
     "Zilo Andi",
     "throw",
+    "бросить",
     "ʃamm.i",
     "ERG",
     "NOM",
@@ -2027,6 +2162,7 @@ const fullData = [
   [
     "Zilo Andi",
     "have_enough",
+    "быть достаточно",
     "<b>-iʔ.u-mallo ",
     "DAT",
     "NOM",
@@ -2042,6 +2178,7 @@ const fullData = [
   [
     "Zilo Andi",
     "resemble",
+    "быть похожим",
     "a<w>ɬin",
     "NOM",
     "AFF",
@@ -2057,6 +2194,7 @@ const fullData = [
   [
     "Zilo Andi",
     "believe",
+    "верить",
     "buʒ.u",
     "NOM",
     "SUPER.LAT",
@@ -2072,6 +2210,7 @@ const fullData = [
   [
     "Zilo Andi",
     "take",
+    "взять",
     "<r>-iχ.i",
     "ERG",
     "NOM",
@@ -2087,6 +2226,7 @@ const fullData = [
   [
     "Zilo Andi",
     "see",
+    "видеть",
     "haʔ.o",
     "AFF",
     "NOM",
@@ -2102,6 +2242,7 @@ const fullData = [
   [
     "Zilo Andi",
     "influence",
+    "влиять",
     "*",
     "*",
     "*",
@@ -2117,6 +2258,7 @@ const fullData = [
   [
     "Zilo Andi",
     "encounter",
+    "встречаться",
     "badi <w>-ukː.u",
     "AFF",
     "NOM",
@@ -2132,6 +2274,7 @@ const fullData = [
   [
     "Zilo Andi",
     "enter",
+    "входить ",
     "kab.i",
     "NOM",
     "ILLAT",
@@ -2147,6 +2290,7 @@ const fullData = [
   [
     "Zilo Andi",
     "win",
+    "выиграть",
     "<w>-uʃ.a",
     "NOM",
     "SUPER.LAT",
@@ -2162,6 +2306,7 @@ const fullData = [
   [
     "Zilo Andi",
     "go_out",
+    "выходить",
     "<w>-uʔ.on",
     "NOM",
     "IN.EL",
@@ -2177,6 +2322,7 @@ const fullData = [
   [
     "Zilo Andi",
     "drive",
+    "гнать",
     "<b>-uqχ’.i-r",
     "ERG",
     "NOM",
@@ -2192,6 +2338,7 @@ const fullData = [
   [
     "Zilo Andi",
     "bend",
+    "гнуть",
     "tʃ’ab-oɬ.i",
     "ERG",
     "NOM",
@@ -2207,6 +2354,7 @@ const fullData = [
   [
     "Zilo Andi",
     "tell",
+    "говорить",
     "rutɬ.i:",
     "ERG",
     "INST",
@@ -2222,6 +2370,7 @@ const fullData = [
   [
     "Zilo Andi",
     "hold",
+    "держать",
     "0",
     "CONT",
     "NOM",
@@ -2237,6 +2386,7 @@ const fullData = [
   [
     "Zilo Andi",
     "catch_up",
+    "догнать",
     "<w>-eχːudu <w>-oqχ.o-j",
     "NOM",
     "CONT",
@@ -2252,6 +2402,7 @@ const fullData = [
   [
     "Zilo Andi",
     "milk",
+    "доить",
     "<b>-ertʃ’.u",
     "ERG",
     "NOM",
@@ -2267,6 +2418,7 @@ const fullData = [
   [
     "Zilo Andi",
     "reach",
+    "достичь",
     "<w>-oqχ.o",
     "NOM",
     "SUPER.LAT",
@@ -2282,6 +2434,7 @@ const fullData = [
   [
     "Zilo Andi",
     "touch",
+    "дотронуться",
     "reʔa ob.i",
     "ERG",
     "SUPER",
@@ -2297,6 +2450,7 @@ const fullData = [
   [
     "Zilo Andi",
     "fight",
+    "драться",
     "<w>-aχː.o-j",
     "NOM",
     "COM",
@@ -2312,6 +2466,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_friends",
+    "дружить",
     "homoloʁi-ɬir-ʔa",
     "NOM",
     "COM",
@@ -2327,6 +2482,7 @@ const fullData = [
   [
     "Zilo Andi",
     "think",
+    "думать",
     "urʁ.u-mallo",
     "NOM",
     "SUPER.LAT",
@@ -2342,6 +2498,7 @@ const fullData = [
   [
     "Zilo Andi",
     "eat",
+    "есть",
     "k’amm.i",
     "ERG",
     "NOM",
@@ -2357,6 +2514,7 @@ const fullData = [
   [
     "Zilo Andi",
     "fry",
+    "жарить",
     "<b>-eʒ.a",
     "ERG",
     "NOM",
@@ -2372,6 +2530,7 @@ const fullData = [
   [
     "Zilo Andi",
     "wait",
+    "ждать",
     "tʃ’on",
     "NOM",
     "SUPER.LAT",
@@ -2387,6 +2546,7 @@ const fullData = [
   [
     "Zilo Andi",
     "forget",
+    "забывать",
     "retʃː.o-j",
     "AFF",
     "NOM",
@@ -2402,6 +2562,7 @@ const fullData = [
   [
     "Zilo Andi",
     "depend",
+    "зависеть",
     "*",
     "*",
     "*",
@@ -2417,6 +2578,7 @@ const fullData = [
   [
     "Zilo Andi",
     "call",
+    "звать",
     "qχ’or.i",
     "ERG",
     "NOM",
@@ -2432,6 +2594,7 @@ const fullData = [
   [
     "Zilo Andi",
     "get_to_know",
+    "знакомиться",
     "ts’inn.i j-iʁ.i",
     "AFF",
     "NOM",
@@ -2447,6 +2610,7 @@ const fullData = [
   [
     "Zilo Andi",
     "know",
+    "знать ",
     "ts’inn-e",
     "AFF",
     "NOM",
@@ -2462,6 +2626,7 @@ const fullData = [
   [
     "Zilo Andi",
     "play#instrument#",
+    "играть",
     "qχʷar.i-r",
     "ERG",
     "NOM",
@@ -2477,6 +2642,7 @@ const fullData = [
   [
     "Zilo Andi",
     "avoid",
+    "избегать",
     "<w>-utʃ’.u-mado",
     "NOM",
     "CONT.EL",
@@ -2492,6 +2658,7 @@ const fullData = [
   [
     "Zilo Andi",
     "make",
+    "изготовить",
     "dʒid.i",
     "ERG",
     "NOM",
@@ -2507,6 +2674,7 @@ const fullData = [
   [
     "Zilo Andi",
     "make_fun",
+    "издеваться",
     "<j>-eɬː-o",
     "NOM",
     "SUPER",
@@ -2522,6 +2690,7 @@ const fullData = [
   [
     "Zilo Andi",
     "have",
+    "иметь",
     "dʒi",
     "GEN",
     "NOM",
@@ -2537,6 +2706,7 @@ const fullData = [
   [
     "Zilo Andi",
     "look_for",
+    "искать",
     "kusd.i-r",
     "ERG",
     "NOM",
@@ -2552,6 +2722,7 @@ const fullData = [
   [
     "Zilo Andi",
     "paint",
+    "красить",
     "buʃ.o",
     "ERG",
     "NOM",
@@ -2567,6 +2738,7 @@ const fullData = [
   [
     "Zilo Andi",
     "bite",
+    "кусать",
     "qχ’amm.i-j",
     "ERG",
     "SUPER",
@@ -2582,6 +2754,7 @@ const fullData = [
   [
     "Zilo Andi",
     "forfeit",
+    "лишаться",
     "<w>-at’a-ɬ.i-j",
     "NOM",
     "CONT.EL",
@@ -2597,6 +2770,7 @@ const fullData = [
   [
     "Zilo Andi",
     "try_to_catch",
+    "ловить",
     "<b>-itʃː.i-r",
     "ERG",
     "NOM",
@@ -2612,6 +2786,7 @@ const fullData = [
   [
     "Zilo Andi",
     "break",
+    "ломать",
     "<r>-iqχ-onɬ.i",
     "ERG",
     "NOM",
@@ -2627,6 +2802,7 @@ const fullData = [
   [
     "Zilo Andi",
     "flatter",
+    "льстить",
     "*",
     "*",
     "*",
@@ -2642,6 +2818,7 @@ const fullData = [
   [
     "Zilo Andi",
     "love1",
+    "любить-1",
     "dʒiʔ.i-r",
     "AFF",
     "NOM",
@@ -2657,6 +2834,7 @@ const fullData = [
   [
     "Zilo Andi",
     "wave",
+    "махать",
     "xʷaʔi-la",
     "NOM",
     "INST",
@@ -2672,6 +2850,7 @@ const fullData = [
   [
     "Zilo Andi",
     "dream",
+    "мечтать",
     "aniʃːi",
     "GEN",
     "NOM",
@@ -2687,6 +2866,7 @@ const fullData = [
   [
     "Zilo Andi",
     "wash",
+    "мыть",
     "a<r>tʃ.o-j",
     "ERG",
     "NOM",
@@ -2702,6 +2882,7 @@ const fullData = [
   [
     "Zilo Andi",
     "put_on",
+    "надевать",
     "ritɬ’.inn-ij",
     "ERG",
     "NOM",
@@ -2717,6 +2898,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_called",
+    "называться",
     "ts’er",
     "SUPER.LAT",
     "NOM",
@@ -2732,6 +2914,7 @@ const fullData = [
   [
     "Zilo Andi",
     "punish",
+    "наказывать",
     "*",
     "*",
     "*",
@@ -2747,6 +2930,7 @@ const fullData = [
   [
     "Zilo Andi",
     "attack",
+    "напасть",
     "ɬib.i-j  hiʔo ",
     "NOM",
     "SUPER.LAT",
@@ -2762,6 +2946,7 @@ const fullData = [
   [
     "Zilo Andi",
     "fill#intr#",
+    "наполняться",
     "<b>-its’.i-j",
     "NOM",
     "INST",
@@ -2777,6 +2962,7 @@ const fullData = [
   [
     "Zilo Andi",
     "find",
+    "находить",
     "r-osː.onn-ij",
     "AFF",
     "NOM",
@@ -2792,6 +2978,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_short",
+    "недоставать",
     "b-iʔ.u-mado-sːu",
     "DAT",
     "NOM",
@@ -2807,6 +2994,7 @@ const fullData = [
   [
     "Zilo Andi",
     "hate",
+    "ненавидеть",
     "*",
     "*",
     "*",
@@ -2822,6 +3010,7 @@ const fullData = [
   [
     "Zilo Andi",
     "like",
+    "нравиться",
     "dʒiʔ.i-j",
     "AFF",
     "NOM",
@@ -2837,6 +3026,7 @@ const fullData = [
   [
     "Zilo Andi",
     "need",
+    "нуждаться",
     "*",
     "*",
     "*",
@@ -2852,6 +3042,7 @@ const fullData = [
   [
     "Zilo Andi",
     "surround",
+    "окружать",
     "hinni <b>-iʃ-oɬ.i-j",
     "ERG",
     "NOM",
@@ -2867,6 +3058,7 @@ const fullData = [
   [
     "Zilo Andi",
     "remain",
+    "оставаться",
     "<b>-ekː.u-j",
     "CONT",
     "NOM",
@@ -2882,6 +3074,7 @@ const fullData = [
   [
     "Zilo Andi",
     "answer",
+    "отвечать",
     "dʒawab itʃː.i",
     "ERG",
     "DAT",
@@ -2897,6 +3090,7 @@ const fullData = [
   [
     "Zilo Andi",
     "open",
+    "открывать",
     "arχ.onn-ij",
     "ERG",
     "NOM",
@@ -2912,6 +3106,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_different",
+    "отличаться",
     "<b>-at’a",
     "NOM",
     "CONT",
@@ -2927,6 +3122,7 @@ const fullData = [
   [
     "Zilo Andi",
     "fall_behind",
+    "отстать",
     "<j>-eχːudu <j>-ekː.u-j",
     "NOM",
     "CONT",
@@ -2942,6 +3138,7 @@ const fullData = [
   [
     "Zilo Andi",
     "plough",
+    "пахать",
     "<b>-eqχ’.i-r",
     "ERG",
     "NOM",
@@ -2957,6 +3154,7 @@ const fullData = [
   [
     "Zilo Andi",
     "smell",
+    "пахнуть",
     "ʃan (<b>-aχ-o)",
     "CONT.EL",
     "GEN",
@@ -2972,6 +3170,7 @@ const fullData = [
   [
     "Zilo Andi",
     "cross",
+    "пересечь",
     "buqχ’-i",
     "ERG",
     "NOM",
@@ -2987,6 +3186,7 @@ const fullData = [
   [
     "Zilo Andi",
     "sing",
+    "петь",
     "qχ’or.i-j",
     "ERG",
     "NOM",
@@ -3002,6 +3202,7 @@ const fullData = [
   [
     "Zilo Andi",
     "write",
+    "писать",
     "qχʷar.i-j",
     "ERG",
     "NOM",
@@ -3017,6 +3218,7 @@ const fullData = [
   [
     "Zilo Andi",
     "drink",
+    "пить",
     "ts’ad.i",
     "ERG",
     "NOM",
@@ -3032,6 +3234,7 @@ const fullData = [
   [
     "Zilo Andi",
     "melt",
+    "плавить",
     "<b>-uts’-oɬ.i",
     "ERG",
     "NOM",
@@ -3047,6 +3250,7 @@ const fullData = [
   [
     "Zilo Andi",
     "match",
+    "подходить",
     "roqχ’.i-r",
     "NOM",
     "SUPER",
@@ -3062,6 +3266,7 @@ const fullData = [
   [
     "Zilo Andi",
     "leave",
+    "покидать",
     "<w>-uʔ.onn-ij",
     "NOM",
     "SUPER.EL",
@@ -3077,6 +3282,7 @@ const fullData = [
   [
     "Zilo Andi",
     "cover",
+    "покрывать",
     "riʃd.i-r",
     "ERG",
     "NOM",
@@ -3092,6 +3298,7 @@ const fullData = [
   [
     "Zilo Andi",
     "remember",
+    "помнить",
     "rok’or-ʔa <r>-iʁ.i",
     "AFF",
     "NOM",
@@ -3107,6 +3314,7 @@ const fullData = [
   [
     "Zilo Andi",
     "help",
+    "помочь",
     "kumeki dʒid.i",
     "ERG",
     "DAT",
@@ -3122,6 +3330,7 @@ const fullData = [
   [
     "Zilo Andi",
     "understand",
+    "понимать",
     "batʃ’ː.u-mado",
     "AFF",
     "NOM",
@@ -3137,6 +3346,7 @@ const fullData = [
   [
     "Zilo Andi",
     "hit#target#",
+    "попасть",
     "<b>-aχː.o-j",
     "NOM",
     "SUPER",
@@ -3152,6 +3362,7 @@ const fullData = [
   [
     "Zilo Andi",
     "cut_oneself",
+    "порезаться",
     "buqχ’.i-j",
     "ERG",
     "INST",
@@ -3167,6 +3378,7 @@ const fullData = [
   [
     "Zilo Andi",
     "get_stuck",
+    "прилипать",
     "<b>-ats’.i",
     "NOM",
     "SUPER",
@@ -3182,6 +3394,7 @@ const fullData = [
   [
     "Zilo Andi",
     "lose#game#",
+    "проиграть",
     "<w>-uʁ.an",
     "NOM",
     "SUPER.LAT",
@@ -3197,6 +3410,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_glad",
+    "радоваться",
     "<j>-erʁ.ann-ij",
     "NOM",
     "CONT.EL",
@@ -3212,6 +3426,7 @@ const fullData = [
   [
     "Zilo Andi",
     "speak",
+    "разговаривать",
     "j-edːo-mado",
     "NOM",
     "COM",
@@ -3227,6 +3442,7 @@ const fullData = [
   [
     "Zilo Andi",
     "give_birth",
+    "рожать",
     "dʒid.i",
     "ERG",
     "NOM",
@@ -3242,6 +3458,7 @@ const fullData = [
   [
     "Zilo Andi",
     "drop",
+    "ронять",
     "<r>-ukː-oɬ.i",
     "ERG",
     "NOM",
@@ -3257,6 +3474,7 @@ const fullData = [
   [
     "Zilo Andi",
     "govern",
+    "руководить",
     "<w>-etʃ’uχa",
     "NOM",
     "INTER",
@@ -3272,6 +3490,7 @@ const fullData = [
   [
     "Zilo Andi",
     "miss",
+    "скучать",
     "haluχ.onn-ij",
     "NOM",
     "INST",
@@ -3287,6 +3506,7 @@ const fullData = [
   [
     "Zilo Andi",
     "follow",
+    "следовать",
     "<w>-eχːudu <w>-uʔ.inn-e",
     "NOM",
     "CONT",
@@ -3302,6 +3522,7 @@ const fullData = [
   [
     "Zilo Andi",
     "dismount",
+    "слезать",
     "<w>-utɬ.i hitɬ’u",
     "NOM",
     "SUPER.EL",
@@ -3317,6 +3538,7 @@ const fullData = [
   [
     "Zilo Andi",
     "listen",
+    "слушать",
     "antʃː.i-r",
     "NOM",
     "SUPER.LAT",
@@ -3332,6 +3554,7 @@ const fullData = [
   [
     "Zilo Andi",
     "obey",
+    "слушаться",
     "antʃː.i",
     "NOM",
     "SUPER.LAT",
@@ -3347,6 +3570,7 @@ const fullData = [
   [
     "Zilo Andi",
     "hear",
+    "слышать",
     "anɬ.i-r",
     "AFF",
     "NOM",
@@ -3362,6 +3586,7 @@ const fullData = [
   [
     "Zilo Andi",
     "mix",
+    "смешаться",
     "a<r>ʒ.a-j",
     "NOM",
     "COM",
@@ -3377,6 +3602,7 @@ const fullData = [
   [
     "Zilo Andi",
     "look",
+    "смотреть",
     "haltʃ’.o-mado",
     "NOM",
     "SUPER.LAT",
@@ -3392,6 +3618,7 @@ const fullData = [
   [
     "Zilo Andi",
     "take_off",
+    "снимать",
     "<r>-uχ.i",
     "ERG",
     "NOM",
@@ -3407,6 +3634,7 @@ const fullData = [
   [
     "Zilo Andi",
     "dream#sleeping#",
+    "сниться",
     "motɬ’i-tɬi ha-ʔ.o-r",
     "AFF",
     "NOM",
@@ -3422,6 +3650,7 @@ const fullData = [
   [
     "Zilo Andi",
     "agree",
+    "соглашаться",
     "razi",
     "NOM",
     "SUPER",
@@ -3437,6 +3666,7 @@ const fullData = [
   [
     "Zilo Andi",
     "have_a_quarrel",
+    "ссориться",
     "<j>-iχ.on",
     "NOM",
     "COM",
@@ -3452,6 +3682,7 @@ const fullData = [
   [
     "Zilo Andi",
     "cost",
+    "стоить",
     "baha",
     "GEN",
     "NOM",
@@ -3467,6 +3698,7 @@ const fullData = [
   [
     "Zilo Andi",
     "shoot_at",
+    "стрелять",
     "qχ’ʷaʁ.unn",
     "ERG",
     "SUPER.LAT",
@@ -3482,6 +3714,7 @@ const fullData = [
   [
     "Zilo Andi",
     "pour",
+    "сыпать",
     "t’inn.i",
     "ERG",
     "NOM",
@@ -3497,6 +3730,7 @@ const fullData = [
   [
     "Zilo Andi",
     "lose",
+    "терять",
     "<r>-ot’-oɬ.i",
     "ERG",
     "NOM",
@@ -3512,6 +3746,7 @@ const fullData = [
   [
     "Zilo Andi",
     "sink",
+    "тонуть",
     "ʁʷanqχ’.unn-ij",
     "NOM",
     "INTER",
@@ -3527,6 +3762,7 @@ const fullData = [
   [
     "Zilo Andi",
     "kill",
+    "убивать",
     "dʒab.i",
     "ERG",
     "NOM",
@@ -3542,6 +3778,7 @@ const fullData = [
   [
     "Zilo Andi",
     "hit",
+    "ударить",
     "dʒab.i",
     "ERG",
     "SUPER",
@@ -3557,6 +3794,7 @@ const fullData = [
   [
     "Zilo Andi",
     "kiss",
+    "целовать",
     "ts’omm.i ",
     "ERG",
     "SUPER",
@@ -3572,6 +3810,7 @@ const fullData = [
   [
     "Zilo Andi",
     "read",
+    "читать",
     "baʔ.i ",
     "ERG",
     "NOM",
@@ -3587,6 +3826,7 @@ const fullData = [
   [
     "Zilo Andi",
     "move#bodypart#",
+    "шевелить",
     "<b>-erʁ-oɬ.i-j",
     "ERG",
     "NOM",
@@ -3602,6 +3842,7 @@ const fullData = [
   [
     "Zilo Andi",
     "respect",
+    "уважать",
     "<j>-etʃ’uχa-jd.i-r",
     "ERG",
     "NOM",
@@ -3617,6 +3858,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_squeamish",
+    "брезговать",
     "joʃ.u-mado-sːu",
     "ERG",
     "NOM",
@@ -3632,6 +3874,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_content",
+    "быть довольным",
     "razi",
     "NOM",
     "SUPER",
@@ -3647,6 +3890,7 @@ const fullData = [
   [
     "Zilo Andi",
     "fall_in_love",
+    "влюбляться",
     "ruqχ’i <b>-ukː.u-j",
     "NOM",
     "SUPER.LAT",
@@ -3662,6 +3906,7 @@ const fullData = [
   [
     "Zilo Andi",
     "trust",
+    "доверять",
     "buʒ.u-rado",
     "NOM",
     "SUPER.LAT",
@@ -3677,6 +3922,7 @@ const fullData = [
   [
     "Zilo Andi",
     "sympathise",
+    "жалеть",
     "rok’o uzad.i-r",
     "GEN",
     "SUPER.LAT",
@@ -3692,6 +3938,7 @@ const fullData = [
   [
     "Zilo Andi",
     "envy",
+    "завидовать",
     "rok’o qχubi-ɬ.i-j",
     "GEN",
     "SUPER.LAT",
@@ -3707,6 +3954,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_angry",
+    "злиться",
     "sːim <b>-iʔ.o-j",
     "GEN",
     "SUPER.LAT",
@@ -3722,6 +3970,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_surprised",
+    "удивляться",
     "tamaʃa-ɬ.i",
     "NOM",
     "SUPER",
@@ -3737,6 +3986,7 @@ const fullData = [
   [
     "Zilo Andi",
     "love2",
+    "любить-2",
     "dʒiʔ.i-r",
     "AFF",
     "NOM",
@@ -3752,6 +4002,7 @@ const fullData = [
   [
     "Zilo Andi",
     "enjoy",
+    "наслаждаться",
     "t’aʔam <b>-iχ.i-r",
     "ERG",
     "CONT.EL",
@@ -3767,6 +4018,7 @@ const fullData = [
   [
     "Zilo Andi",
     "want",
+    "хотеть",
     "qχ’oroqχ’.o-j",
     "DAT",
     "NOM",
@@ -3782,6 +4034,7 @@ const fullData = [
   [
     "Zilo Andi",
     "have_a_grudge",
+    "сердиться",
     "<j>-iχ.onn-ij",
     "NOM",
     "SUPER",
@@ -3797,6 +4050,7 @@ const fullData = [
   [
     "Zilo Andi",
     "take_offence",
+    "обижаться",
     "<w>-uχ.onn-ij",
     "NOM",
     "SUPER",
@@ -3812,6 +4066,7 @@ const fullData = [
   [
     "Zilo Andi",
     "upset",
+    "огорчать",
     "waswasil-ʔo <j>-ukː-oɬ.i",
     "ERG",
     "NOM",
@@ -3827,6 +4082,7 @@ const fullData = [
   [
     "Zilo Andi",
     "marvel",
+    "поражаться",
     "<w>-uχː.i-j",
     "NOM",
     "CONT.EL",
@@ -3842,6 +4098,7 @@ const fullData = [
   [
     "Zilo Andi",
     "despise",
+    "презирать",
     "ħaqχ’ir-ijd.i-r",
     "ERG",
     "NOM",
@@ -3857,6 +4114,7 @@ const fullData = [
   [
     "Zilo Andi",
     "get_upset",
+    "огорчаться",
     "sːim <b>-iʔ.o-j",
     "GEN",
     "SUPER.LAT",
@@ -3872,6 +4130,7 @@ const fullData = [
   [
     "Zilo Andi",
     "get_irritated",
+    "раздражаться",
     "*",
     "*",
     "*",
@@ -3887,6 +4146,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_fond",
+    "симпатизировать",
     "rok’or-di <j>-iχ.i-j",
     "AFF",
     "NOM",
@@ -3902,6 +4162,7 @@ const fullData = [
   [
     "Zilo Andi",
     "be_shy",
+    "стесняться",
     "sːuloʔ.o-rado",
     "NOM",
     "CONT.EL",
@@ -3917,6 +4178,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "feel_pain",
+    "болеть-1",
     "+marrə",
     "BARE",
     "SBJ",
@@ -3932,6 +4194,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "have#illness#",
+    "болеть-2",
     "+marrə",
     "SBJ",
     "bi",
@@ -3947,6 +4210,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_afraid",
+    "бояться",
     "+zadə",
     "SBJ",
     "men",
@@ -3962,6 +4226,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "throw",
+    "бросить",
     "+rappə ",
     "SBJ",
     "DO",
@@ -3977,6 +4242,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "have_enough",
+    "быть достаточно",
     "xazə",
     "ka",
     "SBJ",
@@ -3992,6 +4258,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "resemble",
+    "быть похожим",
     "damə ",
     "SBJ",
     "al",
@@ -4007,6 +4274,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "believe",
+    "верить",
     "hammən ",
     "SBJ",
     "al",
@@ -4022,6 +4290,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "take",
+    "взять",
     "šakəl",
     "SBJ",
     "DO",
@@ -4037,6 +4306,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "see",
+    "видеть",
     "xazə",
     "SBJ",
     "DO",
@@ -4052,6 +4322,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "influence",
+    "влиять",
     "*",
     "*",
     "*",
@@ -4067,6 +4338,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "encounter",
+    "встречаться",
     "tapək ",
     "SBJ",
     "men",
@@ -4082,6 +4354,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "enter",
+    "входить ",
     "+avər",
     "SBJ",
     "gu",
@@ -4097,6 +4370,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "win",
+    "выиграть",
     "+karəm",
     "SBJ",
     "ka",
@@ -4112,6 +4386,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "go_out",
+    "выходить",
     "+paləṭ ",
     "SBJ",
     "men",
@@ -4127,6 +4402,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "drive",
+    "гнать",
     "+ṭarə",
     "SBJ",
     "DO",
@@ -4142,6 +4418,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "bend",
+    "гнуть",
     "+ṭayəp",
     "SBJ",
     "DO",
@@ -4157,6 +4434,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "tell",
+    "говорить",
     "tanə",
     "SBJ",
     "ka",
@@ -4172,6 +4450,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "hold",
+    "держать",
     "davək",
     "SBJ",
     "DO",
@@ -4187,6 +4466,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "catch_up",
+    "догнать",
     "+maṭə",
     "SBJ",
     "ka",
@@ -4202,6 +4482,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "milk",
+    "доить",
     "+xaləv ",
     "SBJ",
     "DO",
@@ -4217,6 +4498,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "reach",
+    "достичь",
     "+maṭə",
     "SBJ",
     "al",
@@ -4232,6 +4514,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "touch",
+    "дотронуться",
     "kayət",
     "SBJ",
     "bi",
@@ -4247,6 +4530,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "fight",
+    "драться",
     "+ṗaləš",
     "SBJ",
     "men",
@@ -4262,6 +4546,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_friends",
+    "дружить",
     "avəd +xorvayta",
     "SBJ",
     "men",
@@ -4277,6 +4562,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "think",
+    "думать",
     "taxmən",
     "SBJ",
     "bar",
@@ -4292,6 +4578,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "eat",
+    "есть",
     "+axəl",
     "SBJ",
     "DO",
@@ -4307,6 +4594,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "fry",
+    "жарить",
     "kalə ",
     "SBJ",
     "DO",
@@ -4322,6 +4610,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "wait",
+    "ждать",
     "xaməl",
     "SBJ",
     "al",
@@ -4337,6 +4626,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "forget",
+    "забывать",
     "manšə",
     "SBJ",
     "DO",
@@ -4352,6 +4642,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "depend",
+    "зависеть",
     "*",
     "*",
     "*",
@@ -4367,6 +4658,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "call",
+    "звать",
     "+karə",
     "SBJ",
     "DO",
@@ -4382,6 +4674,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "get_to_know",
+    "знакомиться",
     "+yaṭṭə",
     "SBJ",
     "DO",
@@ -4397,6 +4690,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "know",
+    "знать ",
     "+yaṭṭə",
     "SBJ",
     "DO",
@@ -4412,6 +4706,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "play#instrument#",
+    "играть",
     "+ṭavəl",
     "SBJ",
     "al",
@@ -4427,6 +4722,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "avoid",
+    "избегать",
     "+ṭašə gana",
     "SBJ",
     "men",
@@ -4442,6 +4738,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "make",
+    "изготовить",
     "+tarəs",
     "SBJ",
     "DO",
@@ -4457,6 +4754,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "make_fun",
+    "издеваться",
     "gaxəc",
     "SBJ",
     "bi",
@@ -4472,6 +4770,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "have",
+    "иметь",
     "ət",
     "OBJAGR",
     "BARE",
@@ -4487,6 +4786,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "look_for",
+    "искать",
     "+ṭavvə",
     "SBJ",
     "bar",
@@ -4502,6 +4802,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "paint",
+    "красить",
     "maxə rang",
     "SBJ",
     "DO",
@@ -4517,6 +4818,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "bite",
+    "кусать",
     "+karəṭ ",
     "SBJ",
     "DO",
@@ -4532,6 +4834,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "forfeit",
+    "лишаться",
     "payəš",
     "SBJ",
     "la_b",
@@ -4547,6 +4850,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "try_to_catch",
+    "ловить",
     "davək",
     "SBJ",
     "DO",
@@ -4562,6 +4866,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "break",
+    "ломать",
     "+šaməṭ",
     "SBJ",
     "DO",
@@ -4577,6 +4882,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "flatter",
+    "льстить",
     "maxə məšxa",
     "SBJ",
     "ka",
@@ -4592,6 +4898,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "love1",
+    "любить-1",
     "+bayyə",
     "SBJ",
     "DO",
@@ -4607,6 +4914,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "wave",
+    "махать",
     "+šayəš",
     "SBJ",
     "DO",
@@ -4622,6 +4930,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "dream",
+    "мечтать",
     "*",
     "*",
     "*",
@@ -4637,6 +4946,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "wash",
+    "мыть",
     "+xalləl",
     "SBJ",
     "DO",
@@ -4652,6 +4962,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "put_on",
+    "надевать",
     "lavəš",
     "SBJ",
     "DO",
@@ -4667,6 +4978,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_called",
+    "называться",
     "avə šəmma",
     "BARE",
     "BARE",
@@ -4682,6 +4994,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "punish",
+    "наказывать",
     "+savər",
     "SBJ",
     "ka",
@@ -4697,6 +5010,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "attack",
+    "напасть",
     "napəl",
     "SBJ",
     "al",
@@ -4712,6 +5026,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "fill#intr#",
+    "наполняться",
     "malə",
     "SBJ",
     "DO",
@@ -4727,6 +5042,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "find",
+    "находить",
     "mačəx ",
     "SBJ",
     "DO",
@@ -4742,6 +5058,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_short",
+    "недоставать",
     "NEG + xazə",
     "ka",
     "SBJ",
@@ -4757,6 +5074,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "hate",
+    "ненавидеть",
     "ləbba ṗakkə",
     "BARE",
     "men",
@@ -4772,6 +5090,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "like",
+    "нравиться",
     "xoš atə",
     "BARE",
     "men",
@@ -4787,6 +5106,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "need",
+    "нуждаться",
     "+lazəm",
     "ka",
     "SBJ",
@@ -4802,6 +5122,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "surround",
+    "окружать",
     "*",
     "*",
     "*",
@@ -4817,6 +5138,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "remain",
+    "оставаться",
     "payəš",
     "ces",
     "SBJ",
@@ -4832,6 +5154,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "answer",
+    "отвечать",
     "yavvəl +ǧuvvab",
     "SBJ",
     "ka",
@@ -4847,6 +5170,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "open",
+    "открывать",
     "patəx",
     "SBJ",
     "DO",
@@ -4862,6 +5186,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_different",
+    "отличаться",
     "parəš",
     "SBJ",
     "men",
@@ -4877,6 +5202,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "fall_behind",
+    "отстать",
     "payəš +baray",
     "SBJ",
     "men",
@@ -4892,6 +5218,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "plough",
+    "пахать",
     "+ṭarə",
     "SBJ",
     "DO",
@@ -4907,6 +5234,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "smell",
+    "пахнуть",
     "rexa atə",
     "*",
     "*",
@@ -4922,6 +5250,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "cross",
+    "пересечь",
     "+avər",
     "SBJ",
     "DO",
@@ -4937,6 +5266,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "sing",
+    "петь",
     "zamər ",
     "SBJ",
     "DO",
@@ -4952,6 +5282,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "write",
+    "писать",
     "catəv",
     "SBJ",
     "DO",
@@ -4967,6 +5298,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "drink",
+    "пить",
     "šatə ",
     "SBJ",
     "DO",
@@ -4982,6 +5314,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "melt",
+    "плавить",
     "mapšər",
     "SBJ",
     "DO",
@@ -4997,6 +5330,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "match",
+    "подходить",
     "laxəm",
     "SBJ",
     "ka",
@@ -5012,6 +5346,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "leave",
+    "покидать",
     "azəl",
     "SBJ",
     "men",
@@ -5027,6 +5362,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "cover",
+    "покрывать",
     "maccəs",
     "SBJ",
     "ka",
@@ -5042,6 +5378,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "remember",
+    "помнить",
     "taxər",
     "SBJ",
     "DO",
@@ -5057,6 +5394,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "help",
+    "помочь",
     "avəd comac",
     "SBJ",
     "ka",
@@ -5072,6 +5410,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "understand",
+    "понимать",
     "+ṗarmə",
     "SBJ",
     "DO",
@@ -5087,6 +5426,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "hit#target#",
+    "попасть",
     "maxə ",
     "SBJ",
     "gu",
@@ -5102,6 +5442,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "cut_oneself",
+    "порезаться",
     "parəm gana",
     "SBJ",
     "bi",
@@ -5117,6 +5458,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "get_stuck",
+    "прилипать",
     "+šayyə ",
     "SBJ",
     "al",
@@ -5132,6 +5474,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "lose#game#",
+    "проиграть",
     "+makrəm ",
     "SBJ",
     "ka",
@@ -5147,6 +5490,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_glad",
+    "радоваться",
     "xadə ",
     "SBJ",
     "bi",
@@ -5162,6 +5506,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "speak",
+    "разговаривать",
     "hamzəm",
     "SBJ",
     "men",
@@ -5177,6 +5522,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "give_birth",
+    "рожать",
     "barə",
     "SBJ",
     "DO",
@@ -5192,6 +5538,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "drop",
+    "ронять",
     "manpəl ",
     "SBJ",
     "DO",
@@ -5207,6 +5554,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "govern",
+    "руководить",
     "avə +gura",
     "SBJ",
     "BARE",
@@ -5222,6 +5570,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "miss",
+    "скучать",
     "maxnə ",
     "SBJ",
     "bar",
@@ -5237,6 +5586,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "follow",
+    "следовать",
     "azəl",
     "SBJ",
     "bar",
@@ -5252,6 +5602,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "dismount",
+    "слезать",
     "+salə ",
     "SBJ",
     "men",
@@ -5267,6 +5618,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "listen",
+    "слушать",
     "+šammə",
     "SBJ",
     "DO",
@@ -5282,6 +5634,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "obey",
+    "слушаться",
     "+šammə ",
     "SBJ",
     "ka",
@@ -5297,6 +5650,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "hear",
+    "слышать",
     "+šammə ",
     "SBJ",
     "DO",
@@ -5312,6 +5666,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "mix",
+    "смешаться",
     "+xavəṭ",
     "SBJ",
     "bi",
@@ -5327,6 +5682,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "look",
+    "смотреть",
     "gašək",
     "SBJ",
     "al",
@@ -5342,6 +5698,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "take_off",
+    "снимать",
     "šaləx",
     "SBJ",
     "DO",
@@ -5357,6 +5714,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "dream#sleeping#",
+    "сниться",
     "xazə bi xulma",
     "SBJ",
     "DO",
@@ -5372,6 +5730,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "agree",
+    "соглашаться",
     "avə +razi",
     "SBJ",
     "men",
@@ -5387,6 +5746,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "have_a_quarrel",
+    "ссориться",
     "+makrəs",
     "SBJ",
     "men",
@@ -5402,6 +5762,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "cost",
+    "стоить",
     "+dakər",
     "SBJ",
     "DO",
@@ -5417,6 +5778,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "shoot_at",
+    "стрелять",
     "čarət ",
     "SBJ",
     "gu",
@@ -5432,6 +5794,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "pour",
+    "сыпать",
     "darə",
     "SBJ",
     "DO",
@@ -5447,6 +5810,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "lose",
+    "терять",
     "talək",
     "SBJ",
     "DO",
@@ -5462,6 +5826,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "sink",
+    "тонуть",
     "+ṭabbə ",
     "SBJ",
     "gu",
@@ -5477,6 +5842,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "kill",
+    "убивать",
     "+kaṭəl",
     "SBJ",
     "DO",
@@ -5492,6 +5858,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "hit",
+    "ударить",
     "maxə",
     "SBJ",
     "DO",
@@ -5507,6 +5874,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "kiss",
+    "целовать",
     "našək",
     "SBJ",
     "DO",
@@ -5522,6 +5890,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "read",
+    "читать",
     "+karə",
     "SBJ",
     "DO",
@@ -5537,6 +5906,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "move#bodypart#",
+    "шевелить",
     "maǧvəǧ",
     "SBJ",
     "DO",
@@ -5552,6 +5922,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "respect",
+    "уважать",
     "maɣɣəb ",
     "SBJ",
     "DO",
@@ -5567,6 +5938,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_squeamish",
+    "брезговать",
     "gangəz",
     "SBJ",
     "men",
@@ -5582,6 +5954,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_content",
+    "быть довольным",
     "avə +razi",
     "SBJ",
     "bi",
@@ -5597,6 +5970,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "fall_in_love",
+    "влюбляться",
     "xoš atə",
     "BARE",
     "men",
@@ -5612,6 +5986,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "trust",
+    "доверять",
     "avə +ərxay",
     "SBJ",
     "bi",
@@ -5627,6 +6002,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "sympathise",
+    "жалеть",
     "+xṭita atə",
     "BARE",
     "BARE",
@@ -5642,6 +6018,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "envy",
+    "завидовать",
     "baxxəl ",
     "SBJ",
     "bi",
@@ -5657,6 +6034,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_angry",
+    "злиться",
     "carəb ",
     "SBJ",
     "al",
@@ -5672,6 +6050,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_surprised",
+    "удивляться",
     "+aǧǧəb",
     "SBJ",
     "bi",
@@ -5687,6 +6066,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "love2",
+    "любить-2",
     "xoš atə",
     "BARE",
     "men",
@@ -5702,6 +6082,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "enjoy",
+    "наслаждаться",
     "avəd ceyp",
     "SBJ",
     "bi",
@@ -5717,6 +6098,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "want",
+    "хотеть",
     "+bayyə",
     "SBJ",
     "DO",
@@ -5732,6 +6114,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "have_a_grudge",
+    "сердиться",
     "carəb ",
     "SBJ",
     "al",
@@ -5747,6 +6130,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "take_offence",
+    "обижаться",
     "ceyp payəš",
     "BARE",
     "men",
@@ -5762,6 +6146,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "upset",
+    "огорчать",
     "mapyəš ləbba",
     "SBJ",
     "BARE",
@@ -5777,6 +6162,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "marvel",
+    "поражаться",
     "*",
     "*",
     "*",
@@ -5792,6 +6178,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "despise",
+    "презирать",
     "+aynə +paləṭ",
     "BARE",
     "men",
@@ -5807,6 +6194,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "get_upset",
+    "огорчаться",
     "ləbba mapyəš",
     "BARE",
     "men",
@@ -5822,6 +6210,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "get_irritated",
+    "раздражаться",
     "ləbba +sarəx",
     "BARE",
     "men",
@@ -5837,6 +6226,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_fond",
+    "симпатизировать",
     "+avər gu ləbba",
     "BARE",
     "SBJ",
@@ -5852,6 +6242,7 @@ const fullData = [
   [
     "Assyrian Neo-Aramaic",
     "be_shy",
+    "стесняться",
     "naxəp",
     "SBJ",
     "men",
@@ -5867,6 +6258,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "feel_pain",
+    "болеть-1",
     "jeʃ",
     "*",
     "*",
@@ -5882,6 +6274,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "have#illness#",
+    "болеть-2",
     "jeʃ",
     "le",
     "SBJ",
@@ -5897,6 +6290,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_afraid",
+    "бояться",
     "mefaχed",
     "SBJ",
     "mi",
@@ -5912,6 +6306,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "throw",
+    "бросить",
     "zarak",
     "SBJ",
     "DO",
@@ -5927,6 +6322,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "have_enough",
+    "быть достаточно",
     "*",
     "*",
     "*",
@@ -5942,6 +6338,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "resemble",
+    "быть похожим",
     "dome",
     "SBJ",
     "le",
@@ -5957,6 +6354,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "believe",
+    "верить",
     "maamin ",
     "SBJ",
     "le",
@@ -5972,6 +6370,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "take",
+    "взять",
     "lakaχ",
     "SBJ",
     "DO",
@@ -5987,6 +6386,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "see",
+    "видеть",
     "ro-e",
     "SBJ",
     "DO",
@@ -6002,6 +6402,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "influence",
+    "влиять",
     "maʃpia",
     "SBJ",
     "al",
@@ -6017,6 +6418,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "encounter",
+    "встречаться",
     "nitkal ",
     "SBJ",
     "be",
@@ -6032,6 +6434,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "enter",
+    "входить ",
     "niχnas",
     "SBJ",
     "el",
@@ -6047,6 +6450,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "win",
+    "выиграть",
     "nitsaχ",
     "SBJ",
     "DO",
@@ -6062,6 +6466,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "go_out",
+    "выходить",
     "jatsa",
     "SBJ",
     "mi",
@@ -6077,6 +6482,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "drive",
+    "гнать",
     "movil",
     "SBJ",
     "DO",
@@ -6092,6 +6498,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "bend",
+    "гнуть",
     "kofef",
     "SBJ",
     "DO",
@@ -6107,6 +6514,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "tell",
+    "говорить",
     "amar",
     "SBJ",
     "le",
@@ -6122,6 +6530,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "hold",
+    "держать",
     "maχzik",
     "SBJ",
     "DO",
@@ -6137,6 +6546,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "catch_up",
+    "догнать",
     "higia",
     "SBJ",
     "el",
@@ -6152,6 +6562,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "milk",
+    "доить",
     "χalav",
     "SBJ",
     "DO",
@@ -6167,6 +6578,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "reach",
+    "достичь",
     "higia ",
     "SBJ",
     "el",
@@ -6182,6 +6594,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "touch",
+    "дотронуться",
     "naga ",
     "SBJ",
     "be",
@@ -6197,6 +6610,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "fight",
+    "драться",
     "rav",
     "SBJ",
     "im",
@@ -6212,6 +6626,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_friends",
+    "дружить",
     "χaver",
     "*",
     "*",
@@ -6227,6 +6642,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "think",
+    "думать",
     "hoʃev",
     "SBJ",
     "al",
@@ -6242,6 +6658,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "eat",
+    "есть",
     "aχal",
     "SBJ",
     "DO",
@@ -6257,6 +6674,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "fry",
+    "жарить",
     "tigen",
     "SBJ",
     "DO",
@@ -6272,6 +6690,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "wait",
+    "ждать",
     "meχake",
     "SBJ",
     "le",
@@ -6287,6 +6706,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "forget",
+    "забывать",
     "ʃaχaχ",
     "SBJ",
     "DO",
@@ -6302,6 +6722,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "depend",
+    "зависеть",
     "taluj ",
     "SBJ",
     "be",
@@ -6317,6 +6738,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "call",
+    "звать",
     "hitkaʃer",
     "SBJ",
     "le",
@@ -6332,6 +6754,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "get_to_know",
+    "знакомиться",
     "hikir",
     "SBJ",
     "DO",
@@ -6347,6 +6770,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "know",
+    "знать ",
     "makir",
     "SBJ",
     "DO",
@@ -6362,6 +6786,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "play#instrument#",
+    "играть",
     "menagen",
     "SBJ",
     "be",
@@ -6377,6 +6802,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "avoid",
+    "избегать",
     "mitχamek",
     "SBJ",
     "mi",
@@ -6392,6 +6818,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "make",
+    "изготовить",
     "heχin",
     "SBJ",
     "DO",
@@ -6407,6 +6834,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "make_fun",
+    "издеваться",
     "maknit",
     "SBJ",
     "DO",
@@ -6422,6 +6850,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "have",
+    "иметь",
     "jeʃ ",
     "le",
     "SBJ",
@@ -6437,6 +6866,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "look_for",
+    "искать",
     "meχapes",
     "SBJ",
     "DO",
@@ -6452,6 +6882,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "paint",
+    "красить",
     "tsava",
     "SBJ",
     "DO",
@@ -6467,6 +6898,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "bite",
+    "кусать",
     "naʃaχ ",
     "SBJ",
     "DO",
@@ -6482,6 +6914,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "forfeit",
+    "лишаться",
     "ibed",
     "SBJ",
     "DO",
@@ -6497,6 +6930,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "try_to_catch",
+    "ловить",
     "menas-e litpos",
     "SBJ",
     "DO",
@@ -6512,6 +6946,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "break",
+    "ломать",
     "ʃavar",
     "SBJ",
     "DO",
@@ -6527,6 +6962,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "flatter",
+    "льстить",
     "maχmi",
     "SBJ",
     "le",
@@ -6542,6 +6978,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "love1",
+    "любить-1",
     "ohev",
     "SBJ",
     "DO",
@@ -6557,6 +6994,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "wave",
+    "махать",
     "menofef",
     "SBJ",
     "be",
@@ -6572,6 +7010,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "dream",
+    "мечтать",
     "χolem",
     "SBJ",
     "al",
@@ -6587,6 +7026,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "wash",
+    "мыть",
     "ʃataf",
     "SBJ",
     "DO",
@@ -6602,6 +7042,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "put_on",
+    "надевать",
     "lavaʃ",
     "SBJ",
     "DO",
@@ -6617,6 +7058,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_called",
+    "называться",
     "kor-im ",
     "le",
     "DO",
@@ -6632,6 +7074,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "punish",
+    "наказывать",
     "heenish",
     "SBJ",
     "DO",
@@ -6647,6 +7090,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "attack",
+    "напасть",
     "takaf",
     "SBJ",
     "DO",
@@ -6662,6 +7106,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "fill#intr#",
+    "наполняться",
     "hitmale",
     "SBJ",
     "be",
@@ -6677,6 +7122,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "find",
+    "находить",
     "matsa",
     "SBJ",
     "DO",
@@ -6692,6 +7138,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_short",
+    "недоставать",
     "χaser",
     "le",
     "SBJ",
@@ -6707,6 +7154,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "hate",
+    "ненавидеть",
     "sone",
     "SBJ",
     "DO",
@@ -6722,6 +7170,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "like",
+    "нравиться",
     "ohev",
     "SBJ",
     "DO",
@@ -6737,6 +7186,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "need",
+    "нуждаться",
     "tsariχ",
     "SBJ",
     "DO",
@@ -6752,6 +7202,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "surround",
+    "окружать",
     "makif-ot",
     "SBJ",
     "DO",
@@ -6767,6 +7218,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "remain",
+    "оставаться",
     "niʃar-u",
     "le",
     "SBJ",
@@ -6782,6 +7234,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "answer",
+    "отвечать",
     "ana",
     "SBJ",
     "le",
@@ -6797,6 +7250,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "open",
+    "открывать",
     "pataχ",
     "SBJ",
     "DO",
@@ -6812,6 +7266,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_different",
+    "отличаться",
     "ʃone",
     "SBJ",
     "mi",
@@ -6827,6 +7282,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "fall_behind",
+    "отстать",
     "piger",
     "SBJ",
     "axarej",
@@ -6842,6 +7298,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "plough",
+    "пахать",
     "χoreʃ",
     "SBJ",
     "DO",
@@ -6857,6 +7314,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "smell",
+    "пахнуть",
     "meriχ-ot",
     "SBJ",
     "mi",
@@ -6872,6 +7330,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "cross",
+    "пересечь",
     "χatsa",
     "SBJ",
     "DO",
@@ -6887,6 +7346,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "sing",
+    "петь",
     "ʃar",
     "SBJ",
     "DO",
@@ -6902,6 +7362,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "write",
+    "писать",
     "katav",
     "SBJ",
     "DO",
@@ -6917,6 +7378,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "drink",
+    "пить",
     "ʃata",
     "SBJ",
     "DO",
@@ -6932,6 +7394,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "melt",
+    "плавить",
     "hitiχ",
     "SBJ",
     "DO",
@@ -6947,6 +7410,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "match",
+    "подходить",
     "matim-a",
     "SBJ",
     "le",
@@ -6962,6 +7426,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "leave",
+    "покидать",
     "azav",
     "SBJ",
     "DO",
@@ -6977,6 +7442,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "cover",
+    "покрывать",
     "meχas-e",
     "SBJ",
     "DO",
@@ -6992,6 +7458,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "remember",
+    "помнить",
     "zoχer",
     "SBJ",
     "DO",
@@ -7007,6 +7474,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "help",
+    "помочь",
     "azar",
     "SBJ",
     "le",
@@ -7022,6 +7490,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "understand",
+    "понимать",
     "mevin",
     "SBJ",
     "DO",
@@ -7037,6 +7506,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "hit#target#",
+    "попасть",
     "paga",
     "SBJ",
     "be",
@@ -7052,6 +7522,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "cut_oneself",
+    "порезаться",
     "χataχ et atsm-o",
     "SBJ",
     "im",
@@ -7067,6 +7538,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "get_stuck",
+    "прилипать",
     "nidbak-a",
     "SBJ",
     "le",
@@ -7082,6 +7554,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "lose#game#",
+    "проиграть",
     "ifsid",
     "SBJ",
     "le",
@@ -7097,6 +7570,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_glad",
+    "радоваться",
     "samaχ",
     "SBJ",
     "legabej",
@@ -7112,6 +7586,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "speak",
+    "разговаривать",
     "medaber",
     "SBJ",
     "im",
@@ -7127,6 +7602,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "give_birth",
+    "рожать",
     "jald-a",
     "SBJ",
     "DO",
@@ -7142,6 +7618,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "drop",
+    "ронять",
     "hipil",
     "SBJ",
     "DO",
@@ -7157,6 +7634,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "govern",
+    "руководить",
     "menahel",
     "SBJ",
     "DO",
@@ -7172,6 +7650,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "miss",
+    "скучать",
     "mitgagea",
     "SBJ",
     "le",
@@ -7187,6 +7666,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "follow",
+    "следовать",
     "okev",
     "SBJ",
     "axarej",
@@ -7202,6 +7682,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "dismount",
+    "слезать",
     "jarad",
     "SBJ",
     "mi",
@@ -7217,6 +7698,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "listen",
+    "слушать",
     "makʃiv",
     "SBJ",
     "le",
@@ -7232,6 +7714,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "obey",
+    "слушаться",
     "makʃiv ",
     "SBJ",
     "le",
@@ -7247,6 +7730,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "hear",
+    "слышать",
     "shomea",
     "SBJ",
     "DO",
@@ -7262,6 +7746,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "mix",
+    "смешаться",
     "hitarbev",
     "SBJ",
     "im",
@@ -7277,6 +7762,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "look",
+    "смотреть",
     "mistakel",
     "SBJ",
     "al",
@@ -7292,6 +7778,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "take_off",
+    "снимать",
     "paʃat",
     "SBJ",
     "DO",
@@ -7307,6 +7794,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "dream#sleeping#",
+    "сниться",
     "χolem-et",
     "SBJ",
     "al",
@@ -7322,6 +7810,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "agree",
+    "соглашаться",
     "hiskim",
     "SBJ",
     "im",
@@ -7337,6 +7826,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "have_a_quarrel",
+    "ссориться",
     "rav",
     "SBJ",
     "im",
@@ -7352,6 +7842,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "cost",
+    "стоить",
     "ol-a",
     "SBJ",
     "DO",
@@ -7367,6 +7858,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "shoot_at",
+    "стрелять",
     "jara",
     "SBJ",
     "be",
@@ -7382,6 +7874,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "pour",
+    "сыпать",
     "ʃafaχ",
     "SBJ",
     "DO",
@@ -7397,6 +7890,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "lose",
+    "терять",
     "ibed",
     "SBJ",
     "DO",
@@ -7412,6 +7906,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "sink",
+    "тонуть",
     "ʃaka",
     "SBJ",
     "be",
@@ -7427,6 +7922,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "kill",
+    "убивать",
     "harag",
     "SBJ",
     "DO",
@@ -7442,6 +7938,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "hit",
+    "ударить",
     "hika",
     "SBJ",
     "DO",
@@ -7457,6 +7954,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "kiss",
+    "целовать",
     "niʃek",
     "SBJ",
     "DO",
@@ -7472,6 +7970,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "read",
+    "читать",
     "kara",
     "SBJ",
     "DO",
@@ -7487,6 +7986,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "move#bodypart#",
+    "шевелить",
     "heevir",
     "SBJ",
     "DO",
@@ -7502,6 +8002,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "respect",
+    "уважать",
     "meχabed",
     "SBJ",
     "DO",
@@ -7517,6 +8018,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_squeamish",
+    "брезговать",
     "nirta",
     "SBJ",
     "mi",
@@ -7532,6 +8034,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_content",
+    "быть довольным",
     "merutse",
     "SBJ",
     "mi",
@@ -7547,6 +8050,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "fall_in_love",
+    "влюбляться",
     "hitahev",
     "SBJ",
     "be",
@@ -7562,6 +8066,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "trust",
+    "доверять",
     "someχ",
     "SBJ",
     "al",
@@ -7577,6 +8082,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "sympathise",
+    "жалеть",
     "meraxem",
     "SBJ",
     "al",
@@ -7592,6 +8098,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "envy",
+    "завидовать",
     "mekan-e",
     "SBJ",
     "be",
@@ -7607,6 +8114,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_angry",
+    "злиться",
     "koes",
     "SBJ",
     "al",
@@ -7622,6 +8130,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_surprised",
+    "удивляться",
     "hufta",
     "SBJ",
     "mi",
@@ -7637,6 +8146,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "love2",
+    "любить-2",
     "ohev",
     "SBJ",
     "DO",
@@ -7652,6 +8162,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "enjoy",
+    "наслаждаться",
     "nehene",
     "SBJ",
     "mi",
@@ -7667,6 +8178,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "want",
+    "хотеть",
     "rots-e",
     "SBJ",
     "DO",
@@ -7682,6 +8194,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "have_a_grudge",
+    "сердиться",
     "noter tina",
     "SBJ",
     "le",
@@ -7697,6 +8210,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "take_offence",
+    "обижаться",
     "nifga",
     "SBJ",
     "mi",
@@ -7712,6 +8226,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "upset",
+    "огорчать",
     "hirgiz ",
     "SBJ",
     "DO",
@@ -7727,6 +8242,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "marvel",
+    "поражаться",
     "hitraʃem",
     "SBJ",
     "mi",
@@ -7742,6 +8258,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "despise",
+    "презирать",
     "metaev",
     "SBJ",
     "DO",
@@ -7757,6 +8274,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "get_upset",
+    "огорчаться",
     "hitatsben",
     "SBJ",
     "al",
@@ -7772,6 +8290,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "get_irritated",
+    "раздражаться",
     "mitatsben",
     "SBJ",
     "al",
@@ -7787,6 +8306,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_fond",
+    "симпатизировать",
     "meχabev",
     "SBJ",
     "DO",
@@ -7802,6 +8322,7 @@ const fullData = [
   [
     "Modern Hebrew",
     "be_shy",
+    "стесняться",
     "mitbajeʃ",
     "SBJ",
     "be",
@@ -7817,6 +8338,7 @@ const fullData = [
   [
     "Skolt Saami",
     "feel_pain",
+    "болеть-1",
     "lij -kõpp",
     "*",
     "*",
@@ -7832,6 +8354,7 @@ const fullData = [
   [
     "Skolt Saami",
     "have#illness#",
+    "болеть-2",
     "lij",
     "LOC",
     "NOM",
@@ -7847,6 +8370,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_afraid",
+    "бояться",
     "pââll",
     "NOM",
     "LOC",
@@ -7862,6 +8386,7 @@ const fullData = [
   [
     "Skolt Saami",
     "throw",
+    "бросить",
     "kõõšk-i",
     "NOM",
     "ACC",
@@ -7877,6 +8402,7 @@ const fullData = [
   [
     "Skolt Saami",
     "have_enough",
+    "быть достаточно",
     "lie nokk",
     "LOC",
     "NOM",
@@ -7892,6 +8418,7 @@ const fullData = [
   [
     "Skolt Saami",
     "resemble",
+    "быть похожим",
     "vuâkka",
     "*",
     "*",
@@ -7907,6 +8434,7 @@ const fullData = [
   [
     "Skolt Saami",
     "believe",
+    "верить",
     "åskk",
     "NOM",
     "ACC",
@@ -7922,6 +8450,7 @@ const fullData = [
   [
     "Skolt Saami",
     "take",
+    "взять",
     "vaaʹld-i",
     "NOM",
     "ACC",
@@ -7937,6 +8466,7 @@ const fullData = [
   [
     "Skolt Saami",
     "see",
+    "видеть",
     "vuäinn",
     "NOM",
     "ACC",
@@ -7952,6 +8482,7 @@ const fullData = [
   [
     "Skolt Saami",
     "influence",
+    "влиять",
     "vaaikat",
     "NOM",
     "ILL",
@@ -7967,6 +8498,7 @@ const fullData = [
   [
     "Skolt Saami",
     "encounter",
+    "встречаться",
     "teeivõõđ-i",
     "NOM",
     "COM",
@@ -7982,6 +8514,7 @@ const fullData = [
   [
     "Skolt Saami",
     "enter",
+    "входить ",
     "puõʹđ-i",
     "NOM",
     "ILL",
@@ -7997,6 +8530,7 @@ const fullData = [
   [
     "Skolt Saami",
     "win",
+    "выиграть",
     "vuõit-i",
     "NOM",
     "ACC",
@@ -8012,6 +8546,7 @@ const fullData = [
   [
     "Skolt Saami",
     "go_out",
+    "выходить",
     "mõõn-i",
     "NOM",
     "LOC",
@@ -8027,6 +8562,7 @@ const fullData = [
   [
     "Skolt Saami",
     "drive",
+    "гнать",
     "laiʹddai",
     "NOM",
     "ACC",
@@ -8042,6 +8578,7 @@ const fullData = [
   [
     "Skolt Saami",
     "bend",
+    "гнуть",
     "poonnj-i",
     "NOM",
     "ACC",
@@ -8057,6 +8594,7 @@ const fullData = [
   [
     "Skolt Saami",
     "tell",
+    "говорить",
     "cieʹlǩ-i",
     "NOM",
     "ILL",
@@ -8072,6 +8610,7 @@ const fullData = [
   [
     "Skolt Saami",
     "hold",
+    "держать",
     "tuõʹlla-i",
     "NOM",
     "ACC",
@@ -8087,6 +8626,7 @@ const fullData = [
   [
     "Skolt Saami",
     "catch_up",
+    "догнать",
     "tääʹvt-i ",
     "NOM",
     "ACC",
@@ -8102,6 +8642,7 @@ const fullData = [
   [
     "Skolt Saami",
     "milk",
+    "доить",
     "pââjja-i",
     "NOM",
     "ACC",
@@ -8117,6 +8658,7 @@ const fullData = [
   [
     "Skolt Saami",
     "reach",
+    "достичь",
     "laʹddj-i",
     "NOM",
     "ILL",
@@ -8132,6 +8674,7 @@ const fullData = [
   [
     "Skolt Saami",
     "touch",
+    "дотронуться",
     "kuõsk-i",
     "NOM",
     "ILL",
@@ -8147,6 +8690,7 @@ const fullData = [
   [
     "Skolt Saami",
     "fight",
+    "драться",
     "tuärr-men",
     "NOM",
     "COM",
@@ -8162,6 +8706,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_friends",
+    "дружить",
     "taaurõš",
     "*",
     "*",
@@ -8177,6 +8722,7 @@ const fullData = [
   [
     "Skolt Saami",
     "think",
+    "думать",
     "juurdač",
     "NOM",
     "ACC",
@@ -8192,6 +8738,7 @@ const fullData = [
   [
     "Skolt Saami",
     "eat",
+    "есть",
     "poor-i",
     "NOM",
     "ACC",
@@ -8207,6 +8754,7 @@ const fullData = [
   [
     "Skolt Saami",
     "fry",
+    "жарить",
     "paaʹšt-i",
     "NOM",
     "ACC",
@@ -8222,6 +8770,7 @@ const fullData = [
   [
     "Skolt Saami",
     "wait",
+    "ждать",
     "vuârdd",
     "NOM",
     "ACC",
@@ -8237,6 +8786,7 @@ const fullData = [
   [
     "Skolt Saami",
     "forget",
+    "забывать",
     "väjldõõʹv-i",
     "NOM",
     "ACC",
@@ -8252,6 +8802,7 @@ const fullData = [
   [
     "Skolt Saami",
     "depend",
+    "зависеть",
     "*",
     "*",
     "*",
@@ -8267,6 +8818,7 @@ const fullData = [
   [
     "Skolt Saami",
     "call",
+    "звать",
     "čuârva-i",
     "NOM",
     "ACC",
@@ -8282,6 +8834,7 @@ const fullData = [
   [
     "Skolt Saami",
     "get_to_know",
+    "знакомиться",
     "tobdst-õõđ-i",
     "NOM",
     "COM",
@@ -8297,6 +8850,7 @@ const fullData = [
   [
     "Skolt Saami",
     "know",
+    "знать ",
     "tåbdd",
     "NOM",
     "ACC",
@@ -8312,6 +8866,7 @@ const fullData = [
   [
     "Skolt Saami",
     "play#instrument#",
+    "играть",
     "seârr",
     "NOM",
     "COM",
@@ -8327,6 +8882,7 @@ const fullData = [
   [
     "Skolt Saami",
     "avoid",
+    "избегать",
     "veältt",
     "NOM",
     "ACC",
@@ -8342,6 +8898,7 @@ const fullData = [
   [
     "Skolt Saami",
     "make",
+    "изготовить",
     "raajj-i",
     "NOM",
     "ACC",
@@ -8357,6 +8914,7 @@ const fullData = [
   [
     "Skolt Saami",
     "make_fun",
+    "издеваться",
     "luânnj",
     "NOM",
     "ACC",
@@ -8372,6 +8930,7 @@ const fullData = [
   [
     "Skolt Saami",
     "have",
+    "иметь",
     "lij",
     "LOC",
     "NOM",
@@ -8387,6 +8946,7 @@ const fullData = [
   [
     "Skolt Saami",
     "look_for",
+    "искать",
     "oocc-men",
     "NOM",
     "ACC",
@@ -8402,6 +8962,7 @@ const fullData = [
   [
     "Skolt Saami",
     "paint",
+    "красить",
     "kälkki-i",
     "NOM",
     "ACC",
@@ -8417,6 +8978,7 @@ const fullData = [
   [
     "Skolt Saami",
     "bite",
+    "кусать",
     "snauʹǩ-i",
     "NOM",
     "ACC",
@@ -8432,6 +8994,7 @@ const fullData = [
   [
     "Skolt Saami",
     "forfeit",
+    "лишаться",
     "mõõnt-i",
     "NOM",
     "ACC",
@@ -8447,6 +9010,7 @@ const fullData = [
   [
     "Skolt Saami",
     "try_to_catch",
+    "ловить",
     "*",
     "*",
     "*",
@@ -8462,6 +9026,7 @@ const fullData = [
   [
     "Skolt Saami",
     "break",
+    "ломать",
     "tuäjja-i",
     "NOM",
     "ACC",
@@ -8477,6 +9042,7 @@ const fullData = [
   [
     "Skolt Saami",
     "flatter",
+    "льстить",
     "kuärggat",
     "NOM",
     "ACC",
@@ -8492,6 +9058,7 @@ const fullData = [
   [
     "Skolt Saami",
     "love1",
+    "любить-1",
     "rääʹǩǩast",
     "NOM",
     "ACC",
@@ -8507,6 +9074,7 @@ const fullData = [
   [
     "Skolt Saami",
     "wave",
+    "махать",
     "heeilte-men",
     "NOM",
     "ACC",
@@ -8522,6 +9090,7 @@ const fullData = [
   [
     "Skolt Saami",
     "dream",
+    "мечтать",
     "niõǥǥ-tõõll-men",
     "NOM",
     "GENdiott",
@@ -8537,6 +9106,7 @@ const fullData = [
   [
     "Skolt Saami",
     "wash",
+    "мыть",
     "põõzz-i",
     "NOM",
     "ACC",
@@ -8552,6 +9122,7 @@ const fullData = [
   [
     "Skolt Saami",
     "put_on",
+    "надевать",
     "cääʹǩǩ-i ool",
     "NOM",
     "ACC",
@@ -8567,6 +9138,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_called",
+    "называться",
     "kååččeet",
     "NOM",
     "ESS",
@@ -8582,6 +9154,7 @@ const fullData = [
   [
     "Skolt Saami",
     "punish",
+    "наказывать",
     "*",
     "*",
     "*",
@@ -8597,6 +9170,7 @@ const fullData = [
   [
     "Skolt Saami",
     "attack",
+    "напасть",
     "kõrmml-i",
     "NOM",
     "GENool",
@@ -8612,6 +9186,7 @@ const fullData = [
   [
     "Skolt Saami",
     "fill#intr#",
+    "наполняться",
     "teâuddj-i",
     "NOM",
     "LOC",
@@ -8627,6 +9202,7 @@ const fullData = [
   [
     "Skolt Saami",
     "find",
+    "находить",
     "kaaun-i",
     "NOM",
     "ACC",
@@ -8642,6 +9218,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_short",
+    "недоставать",
     "leäi väjja",
     "LOC",
     "GEN",
@@ -8657,6 +9234,7 @@ const fullData = [
   [
     "Skolt Saami",
     "hate",
+    "ненавидеть",
     "vââjaš",
     "NOM",
     "ACC",
@@ -8672,6 +9250,7 @@ const fullData = [
   [
     "Skolt Saami",
     "like",
+    "нравиться",
     "tuʹǩǩad",
     "NOM",
     "LOC",
@@ -8687,6 +9266,7 @@ const fullData = [
   [
     "Skolt Saami",
     "need",
+    "нуждаться",
     "taarbaš",
     "NOM",
     "ACC",
@@ -8702,6 +9282,7 @@ const fullData = [
   [
     "Skolt Saami",
     "surround",
+    "окружать",
     "pirrâʹtte",
     "NOM",
     "ACC",
@@ -8717,6 +9298,7 @@ const fullData = [
   [
     "Skolt Saami",
     "remain",
+    "оставаться",
     "lie (teänab pâi)",
     "LOC",
     "NOM",
@@ -8732,6 +9314,7 @@ const fullData = [
   [
     "Skolt Saami",
     "answer",
+    "отвечать",
     "vastti-i",
     "NOM",
     "ILL",
@@ -8747,6 +9330,7 @@ const fullData = [
   [
     "Skolt Saami",
     "open",
+    "открывать",
     "äävi-i",
     "NOM",
     "ACC",
@@ -8762,6 +9346,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_different",
+    "отличаться",
     "jeeʹresnallšem",
     "NOM",
     "ko",
@@ -8777,6 +9362,7 @@ const fullData = [
   [
     "Skolt Saami",
     "fall_behind",
+    "отстать",
     "kuâđđj-i",
     "NOM",
     "GENtuakka",
@@ -8792,6 +9378,7 @@ const fullData = [
   [
     "Skolt Saami",
     "plough",
+    "пахать",
     "auʹrrje-men",
     "NOM",
     "ACC",
@@ -8807,6 +9394,7 @@ const fullData = [
   [
     "Skolt Saami",
     "smell",
+    "пахнуть",
     "âʹpsse",
     "NOM",
     "mate",
@@ -8822,6 +9410,7 @@ const fullData = [
   [
     "Skolt Saami",
     "cross",
+    "пересечь",
     "mõõn-i",
     "NOM",
     "GENraast",
@@ -8837,6 +9426,7 @@ const fullData = [
   [
     "Skolt Saami",
     "sing",
+    "петь",
     "lääula-i",
     "NOM",
     "ACC",
@@ -8852,6 +9442,7 @@ const fullData = [
   [
     "Skolt Saami",
     "write",
+    "писать",
     "ǩeeʹrjt-i",
     "NOM",
     "ACC",
@@ -8867,6 +9458,7 @@ const fullData = [
   [
     "Skolt Saami",
     "drink",
+    "пить",
     "juuǥǥ-i",
     "NOM",
     "ACC",
@@ -8882,6 +9474,7 @@ const fullData = [
   [
     "Skolt Saami",
     "melt",
+    "плавить",
     "suddi-i",
     "NOM",
     "ACC",
@@ -8897,6 +9490,7 @@ const fullData = [
   [
     "Skolt Saami",
     "match",
+    "подходить",
     "suåpp",
     "NOM",
     "COM",
@@ -8912,6 +9506,7 @@ const fullData = [
   [
     "Skolt Saami",
     "leave",
+    "покидать",
     "vuõʹlj-i meädda",
     "NOM",
     "LOC",
@@ -8927,6 +9522,7 @@ const fullData = [
   [
     "Skolt Saami",
     "cover",
+    "покрывать",
     "kätt",
     "NOM",
     "ACC",
@@ -8942,6 +9538,7 @@ const fullData = [
   [
     "Skolt Saami",
     "remember",
+    "помнить",
     "moštt",
     "NOM",
     "ACC",
@@ -8957,6 +9554,7 @@ const fullData = [
   [
     "Skolt Saami",
     "help",
+    "помочь",
     "vieʹǩǩt-i",
     "NOM",
     "ACC",
@@ -8972,6 +9570,7 @@ const fullData = [
   [
     "Skolt Saami",
     "understand",
+    "понимать",
     "fittai",
     "NOM",
     "ACC",
@@ -8987,6 +9586,7 @@ const fullData = [
   [
     "Skolt Saami",
     "hit#target#",
+    "попасть",
     "kõõskt-i",
     "NOM",
     "ILL",
@@ -9002,6 +9602,7 @@ const fullData = [
   [
     "Skolt Saami",
     "cut_oneself",
+    "порезаться",
     "čuõpp-õõđ-i",
     "NOM",
     "COM",
@@ -9017,6 +9618,7 @@ const fullData = [
   [
     "Skolt Saami",
     "get_stuck",
+    "прилипать",
     "pâššn-i",
     "NOM",
     "GENool",
@@ -9032,6 +9634,7 @@ const fullData = [
   [
     "Skolt Saami",
     "lose#game#",
+    "проиграть",
     "taaʹppj-i",
     "NOM",
     "ILL",
@@ -9047,6 +9650,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_glad",
+    "радоваться",
     "kuärǥast",
     "NOM",
     "GENdiott",
@@ -9062,6 +9666,7 @@ const fullData = [
   [
     "Skolt Saami",
     "speak",
+    "разговаривать",
     "maainast",
     "NOM",
     "COM",
@@ -9077,6 +9682,7 @@ const fullData = [
   [
     "Skolt Saami",
     "give_birth",
+    "рожать",
     "šõddi-i",
     "NOM",
     "ACC",
@@ -9092,6 +9698,7 @@ const fullData = [
   [
     "Skolt Saami",
     "drop",
+    "ронять",
     "kõõččt-i",
     "NOM",
     "ACC",
@@ -9107,6 +9714,7 @@ const fullData = [
   [
     "Skolt Saami",
     "govern",
+    "руководить",
     "vaaldaš",
     "NOM",
     "ACC",
@@ -9122,6 +9730,7 @@ const fullData = [
   [
     "Skolt Saami",
     "miss",
+    "скучать",
     "âʹǩǩââžž",
     "NOM",
     "ACC",
@@ -9137,6 +9746,7 @@ const fullData = [
   [
     "Skolt Saami",
     "follow",
+    "следовать",
     "čuâvv",
     "NOM",
     "ACC",
@@ -9152,6 +9762,7 @@ const fullData = [
   [
     "Skolt Saami",
     "dismount",
+    "слезать",
     "luâšttõõđ-i",
     "NOM",
     "LOC",
@@ -9167,6 +9778,7 @@ const fullData = [
   [
     "Skolt Saami",
     "listen",
+    "слушать",
     "kuvddle-men",
     "NOM",
     "ACC",
@@ -9182,6 +9794,7 @@ const fullData = [
   [
     "Skolt Saami",
     "obey",
+    "слушаться",
     "jäkktââll ",
     "NOM",
     "ACC",
@@ -9197,6 +9810,7 @@ const fullData = [
   [
     "Skolt Saami",
     "hear",
+    "слышать",
     "kooll",
     "NOM",
     "ACC",
@@ -9212,6 +9826,7 @@ const fullData = [
   [
     "Skolt Saami",
     "mix",
+    "смешаться",
     "seäkkn-i",
     "NOM",
     "COM",
@@ -9227,6 +9842,7 @@ const fullData = [
   [
     "Skolt Saami",
     "look",
+    "смотреть",
     "ǩiičče-men",
     "NOM",
     "GENarra",
@@ -9242,6 +9858,7 @@ const fullData = [
   [
     "Skolt Saami",
     "take_off",
+    "снимать",
     "jäuʹs-i",
     "NOM",
     "ACC",
@@ -9257,6 +9874,7 @@ const fullData = [
   [
     "Skolt Saami",
     "dream#sleeping#",
+    "сниться",
     "niõǥǥad",
     "NOM",
     "LOC",
@@ -9272,6 +9890,7 @@ const fullData = [
   [
     "Skolt Saami",
     "agree",
+    "соглашаться",
     "õõutmiõllsaž",
     "NOM",
     "COM",
@@ -9287,6 +9906,7 @@ const fullData = [
   [
     "Skolt Saami",
     "have_a_quarrel",
+    "ссориться",
     "reeidčõõđ-i",
     "NOM",
     "COM",
@@ -9302,6 +9922,7 @@ const fullData = [
   [
     "Skolt Saami",
     "cost",
+    "стоить",
     "mähss ",
     "NOM",
     "NOM",
@@ -9317,6 +9938,7 @@ const fullData = [
   [
     "Skolt Saami",
     "shoot_at",
+    "стрелять",
     "pääčča-i",
     "NOM",
     "GENvuastta",
@@ -9332,6 +9954,7 @@ const fullData = [
   [
     "Skolt Saami",
     "pour",
+    "сыпать",
     "kõõʹlv-i",
     "NOM",
     "ACC",
@@ -9347,6 +9970,7 @@ const fullData = [
   [
     "Skolt Saami",
     "lose",
+    "терять",
     "laaʹpp-i",
     "NOM",
     "ACC",
@@ -9362,6 +9986,7 @@ const fullData = [
   [
     "Skolt Saami",
     "sink",
+    "тонуть",
     "vuäja-i",
     "NOM",
     "GENvualla",
@@ -9377,6 +10002,7 @@ const fullData = [
   [
     "Skolt Saami",
     "kill",
+    "убивать",
     "kooʹdd-i",
     "NOM",
     "ACC",
@@ -9392,6 +10018,7 @@ const fullData = [
   [
     "Skolt Saami",
     "hit",
+    "ударить",
     "čormmi-i",
     "NOM",
     "ACC",
@@ -9407,6 +10034,7 @@ const fullData = [
   [
     "Skolt Saami",
     "kiss",
+    "целовать",
     "cuʹmmst-i",
     "NOM",
     "ACC",
@@ -9422,6 +10050,7 @@ const fullData = [
   [
     "Skolt Saami",
     "read",
+    "читать",
     "looǥǥ-i",
     "NOM",
     "ACC",
@@ -9437,6 +10066,7 @@ const fullData = [
   [
     "Skolt Saami",
     "move#bodypart#",
+    "шевелить",
     "likktõõl-i",
     "NOM",
     "ACC",
@@ -9452,6 +10082,7 @@ const fullData = [
   [
     "Skolt Saami",
     "respect",
+    "уважать",
     "ciʹsttai ",
     "NOM",
     "ACC",
@@ -9467,6 +10098,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_squeamish",
+    "брезговать",
     "*",
     "*",
     "*",
@@ -9482,6 +10114,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_content",
+    "быть довольным",
     "miõllstes",
     "NOM",
     "GENdiott",
@@ -9497,6 +10130,7 @@ const fullData = [
   [
     "Skolt Saami",
     "fall_in_love",
+    "влюбляться",
     "räʹǩstõõv-i",
     "NOM",
     "COM",
@@ -9512,6 +10146,7 @@ const fullData = [
   [
     "Skolt Saami",
     "trust",
+    "доверять",
     "naʹddjââtt",
     "NOM",
     "ACC",
@@ -9527,6 +10162,7 @@ const fullData = [
   [
     "Skolt Saami",
     "sympathise",
+    "жалеть",
     "žaʹllʼj-i",
     "NOM",
     "ACC",
@@ -9542,6 +10178,7 @@ const fullData = [
   [
     "Skolt Saami",
     "envy",
+    "завидовать",
     "kaađašt",
     "NOM",
     "ACC",
@@ -9557,6 +10194,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_angry",
+    "злиться",
     "suttâm",
     "NOM",
     "GENool",
@@ -9572,6 +10210,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_surprised",
+    "удивляться",
     "õõmtõõžž-i",
     "NOM",
     "GENdiott",
@@ -9587,6 +10226,7 @@ const fullData = [
   [
     "Skolt Saami",
     "love2",
+    "любить-2",
     "tuʹǩǩad",
     "NOM",
     "LOC",
@@ -9602,6 +10242,7 @@ const fullData = [
   [
     "Skolt Saami",
     "enjoy",
+    "наслаждаться",
     "*",
     "*",
     "*",
@@ -9617,6 +10258,7 @@ const fullData = [
   [
     "Skolt Saami",
     "want",
+    "хотеть",
     "haaʹlad",
     "NOM",
     "ACC",
@@ -9632,6 +10274,7 @@ const fullData = [
   [
     "Skolt Saami",
     "have_a_grudge",
+    "сердиться",
     "*",
     "*",
     "*",
@@ -9647,6 +10290,7 @@ const fullData = [
   [
     "Skolt Saami",
     "take_offence",
+    "обижаться",
     "neuʹrrõõv-i",
     "NOM",
     "GENdiott",
@@ -9662,6 +10306,7 @@ const fullData = [
   [
     "Skolt Saami",
     "upset",
+    "огорчать",
     "*",
     "*",
     "*",
@@ -9677,6 +10322,7 @@ const fullData = [
   [
     "Skolt Saami",
     "marvel",
+    "поражаться",
     "õõmš-i",
     "NOM",
     "ACC",
@@ -9692,6 +10338,7 @@ const fullData = [
   [
     "Skolt Saami",
     "despise",
+    "презирать",
     "pâiʹlǩeäčč",
     "NOM",
     "ACC",
@@ -9707,6 +10354,7 @@ const fullData = [
   [
     "Skolt Saami",
     "get_upset",
+    "огорчаться",
     "suttõõđ-škuõʹđ-i",
     "NOM",
     "GENool",
@@ -9722,6 +10370,7 @@ const fullData = [
   [
     "Skolt Saami",
     "get_irritated",
+    "раздражаться",
     "gåårõõđ-škuäʹtt",
     "NOM",
     "GENool",
@@ -9737,6 +10386,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_fond",
+    "симпатизировать",
     "tuʹǩǩad",
     "NOM",
     "LOC",
@@ -9752,6 +10402,7 @@ const fullData = [
   [
     "Skolt Saami",
     "be_shy",
+    "стесняться",
     "käinn",
     "NOM",
     "GENdiott",

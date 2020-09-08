@@ -73,7 +73,8 @@
         // Show/hide Russian meta.
         let cols = [];
         for (const col of fullDf.listColumns()) {
-            if (col === 'glosses_ru' ||
+            if (col === 'predicate_label_ru' ||
+                col === 'glosses_ru' ||
                 col === 'back_translation_ru') {
                 if (byId('russian_meta').checked)
                     cols.push(col);
@@ -99,13 +100,13 @@
         if (byId('russian_meta').checked)
             currentDf = currentDf.map(row => row.set('glosses_ru', addSmallCaps(row.get('glosses_ru'))));
 
-        let columns = [];
-        for (const colname of cols) {
-            if (colname === 'glosses_en' || colname === 'glosses_ru' || colname === 'language_link' || colname === 'predicate_link')
-                columns.push({renderer: 'html'});
-            else
-                columns.push({renderer: 'text'});
-        }
+        let columns = cols.map(
+            colname => colname === 'glosses_en' || colname === 'glosses_ru' || colname === 'language_link' || colname === 'predicate_link' ?
+                {renderer: 'html'} :
+                {renderer: 'text'}
+            );
+
+        let colnames = cols.map(colname => colname === 'predicate_label_ru' ? 'predicate_ru' : colname)
 
         let container = byId('table');
 
@@ -113,7 +114,7 @@
         table = new Handsontable(container, {
             licenseKey: 'non-commercial-and-evaluation',
             data: currentDf.toArray(),
-            colHeaders: currentDf.listColumns(),
+            colHeaders: colnames,
             editor: false,
             rowHeaders: false,
             filters: true,

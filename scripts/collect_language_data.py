@@ -27,6 +27,7 @@ COLNAMES = [
 COLNAMES_OUT = [
     'language_no',
     'predicate_no',
+    'predicate_label_ru',
     'verb',
     'X',
     'Y',
@@ -72,6 +73,7 @@ if __name__ == '__main__':
             records.append((
                 verb_tuple.language_no,
                 verb_tuple.predicate_no,
+                verb_tuple.predicate_label_ru,
                 verb_tuple.verb,
                 verb_tuple.X,
                 verb_tuple.Y,
