@@ -77,7 +77,7 @@
     </div>
 </div>
 
-<div id="main">
+<div id="main"><div><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></div>
 <div>
     <h2>‘see’</h2>
     <div class="predicate-info-div">
@@ -425,7 +425,13 @@
 </div>
 
 </div>
-
+<script>
+function redraw() {
+    const showRussianMeta = document.getElementById('russian_meta').checked;
+    for (const el of document.querySelectorAll('.ru'))
+        el.style.display = showRussianMeta ? 'block' : 'none';
+}
+</script>
 
 </body>
 </html>

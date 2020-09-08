@@ -15,7 +15,6 @@ with open('../templates/partials/includes.html', 'r', encoding='utf-8') as inp:
     INCLUDES_TEMPLATE = inp.read()
 
 SITE_URL = 'https://www.bivaltyp.info'
-# SITE_URL = 'file:///Users/macbook/Documents/Yandex.Disk/WorkInProgress/BivalTyp/webapp/public'
 # SITE_URL = 'file:///C:/Users/dniko/PycharmProjects/bivaltyp/public'
 
 # For not re-rendering unchanged pages.
@@ -387,7 +386,7 @@ def render_examples_for_predicate(predicate_no_hash):
 def pipeline(template_text, parse_markdown, classes=None, language=None, predicate=None):
     """
     1. Render the project-specific template.
-    2. Supply the globals using Jinja.
+    2. Supply the globals.
     3. Convert Markdown to HTML if needed.
     """
     md = render_template(
@@ -404,6 +403,12 @@ def pipeline(template_text, parse_markdown, classes=None, language=None, predica
     else:
         div_prefix = f'''<div id="main" class="{' '.join(classes)}">'''
 
+    if predicate is not None:
+        div_prefix += '<div>'\
+                      '<span><label for="russian_meta">Show Russian meta: </label></span>'\
+                      '<input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();">'\
+                      '</div>'
+
     if language is not None:
         main = div_prefix + main + \
             ('\n' + '<h2>Data</h2>\n' +
@@ -417,6 +422,9 @@ def pipeline(template_text, parse_markdown, classes=None, language=None, predica
     js = ''
     if language is not None:
         with open('../templates/partials/predicate_select.js', 'r') as inp:
+            js = f'<script>\n{inp.read()}\n</script>'
+    elif predicate is not None:
+        with open('../templates/partials/predicates_helpers.js', 'r') as inp:
             js = f'<script>\n{inp.read()}\n</script>'
 
     return BASE_TEMPLATE.format(
