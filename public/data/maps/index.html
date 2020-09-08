@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://www.bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://www.bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://www.bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://www.bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/full.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://www.bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://www.bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://www.bivaltyp.info/images/ili.png" alt="Институт лингвистических исследований РАН"></a>
+    </div>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://www.bivaltyp.info/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="https://www.bivaltyp.info/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="https://www.bivaltyp.info/project/instruction/"><div class="menu-button">Instructions for&nbsp;contributors</div></a>
+            <a href="https://www.bivaltyp.info/project/team/"><div class="menu-button">Team</div></a>
+            <a href="https://www.bivaltyp.info/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://www.bivaltyp.info/languages/mapview/"><div class="menu-button">Map view</div></a>
+            <a href="https://www.bivaltyp.info/languages/listview/"><div class="menu-button">List view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://www.bivaltyp.info/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="https://www.bivaltyp.info/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+            <a href="https://www.bivaltyp.info/data/maps/"><div class="menu-button">Maps</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>
+
+<div id="main"><h3>Transitivity and locus map</h3>
+<p>Some annotation...</p>
+<p>Colour codes: transitive – red, X – blue, Y – yellow, XY – black, no data – grey.</p>
+<label for="tr-locus-select">Select a predicate:</label>
+<select name="tr-locus" id="tr-locus-select" onchange="redrawPredicateMap(this.value);">
+    <option value="---" disabled>---</option>
+</select>
+<div id="transitivity-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h3>Predicate-pair map</h3>
+<p>Select a pair of predicates to see if their coding frames differ across languages.</p>
+<p>Colour codes: same – red, different – blue, no data – grey.</p>
+<div style="display: grid; grid-template-columns: 200px 200px;">
+    <div style="grid-column: 1/2;">
+        <label for="predicate1-select">Select first predicate:</label>
+        <select name="predicate1" id="predicate1-select" onchange="redrawPredicatePairMap();">
+            <option value="---" disabled>---</option>
+        </select>
+    </div>
+    <div style="grid-column: 2/3;">
+        <label for="predicate2-select">Select second predicate:</label>
+        <select name="predicate1" id="predicate2-select" onchange="redrawPredicatePairMap();">
+            <option value="---" disabled>---</option>
+        </select>
+    </div>
+</div>
+<div id="predicate-pair-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-top: 15px;"></div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+<script>
+    // Data.
+    let external2internal = {},
+        coords = {},
+        nameIndexDict = {};
+    let map1markers = [], map2markers = [];  // For deleting them.
+    for (let i = 0; i < languageData[0].length; i++) {
+        nameIndexDict[languageData[0][i]] = i;
+    }
+    for (const row of languageData.slice(1)) {
+        const externalName = row[nameIndexDict['language_external']];
+        external2internal[externalName] = row[nameIndexDict['language']];
+        coords[externalName] = {
+            lat: row[nameIndexDict['latitude']],
+            lon: row[nameIndexDict['longitude']]
+        };
+    }
+    // Extract active languages for links
+    let activeLanguages = new Set();
+    for (const row of fullData.slice(1)) {
+        activeLanguages.add(row[0]);
+    }
+
+    // Collect loci from full table and structural table
+    let predicateLanguageLocusDict = {};
+    for (const row of fullData.slice(1)) {
+        const languageExternal = row[0],
+            predicate          = row[1],
+            locus              = row[6];
+        if (!predicateLanguageLocusDict.hasOwnProperty(predicate))
+            predicateLanguageLocusDict[predicate] = {};
+        predicateLanguageLocusDict[predicate][languageExternal] = locus;
+    }
+    for (const row of structuralData.slice(1)) {
+        const languageExternal = row[0],
+            predicate          = row[1],
+            locus              = row[5];
+        if (!predicateLanguageLocusDict.hasOwnProperty(predicate))
+            predicateLanguageLocusDict[predicate] = {};
+        predicateLanguageLocusDict[predicate][languageExternal] = locus;
+    }
+
+    // The workhorse functions
+    let map1, map2;
+    const colourMap = {
+        'TR': 'red',
+        'X': 'blue',
+        'Y': 'yellow',
+        'XY': 'black'
+    };
+    function get(dict, key, plug) {
+        if (dict.hasOwnProperty(key))
+            return dict[key];
+        else
+            return plug;
+    }
+    function redrawPredicateMap(predicate) {
+        for (const marker of map1markers)
+            map1.removeLayer(marker);
+        map1markers.length = 0;
+
+        for (const lang in coords) {
+            if (!coords.hasOwnProperty(lang))
+                continue;
+            const id = external2internal[lang],
+                lat = coords[lang].lat,
+                lon = coords[lang].lon;
+
+            let circle = L.divIcon({
+                className: `circle circle-${get(colourMap, predicateLanguageLocusDict[predicate][lang], 'grey')}`,
+                iconSize: [10, 10]
+            });
+            let marker = L.marker([lat, lon], {
+                icon: circle,
+                title: lang
+            });
+            if (activeLanguages.has(lang))
+                marker.on('click', () => {
+                    window.open(`${siteURL}/languages/descriptions/${id}.html`)
+                });
+            map1markers.push(marker);
+            marker.addTo(map1);
+        }
+    }
+
+    function redrawPredicatePairMap() {
+        const pred1 = document.getElementById('predicate1-select').value,
+            pred2 = document.getElementById('predicate2-select').value;
+        if (pred1 === '---' || pred2 === '---')
+            return;
+
+        for (const marker of map2markers)
+            map2.removeLayer(marker);
+        map2markers.length = 0;
+
+        // Select rows
+        let pred1row, pred2row;
+        for (const row of patternsData) {
+            if (row[1] === pred1) {
+                pred1row = row;
+            }
+            if (row[1] === pred2) {
+                pred2row = row;
+            }
+        }
+        console.assert(pred1row !== undefined && pred2row !== undefined);
+
+        for (const lang in coords) {
+            if (!coords.hasOwnProperty(lang))
+                continue;
+            const langIdx = patternsData[0].indexOf(external2internal[lang]),
+                pred1Pattern = pred1row[langIdx],
+                pred2Pattern = pred2row[langIdx];
+            let colour;
+            if (pred1Pattern === '' || pred2Pattern === '')
+                colour = 'grey';
+            else if (pred1Pattern === pred2Pattern)
+                colour = 'red';
+            else
+                colour = 'blue';
+            let circle = L.divIcon({
+                className: `circle circle-${colour}`,
+                iconSize: [10, 10]
+            });
+            let marker = L.marker([coords[lang].lat, coords[lang].lon], {
+                icon: circle,
+                title: lang
+            });
+            if (activeLanguages.has(lang))
+                marker.on('click', () => {
+                    window.open(`${siteURL}/languages/descriptions/${external2internal[lang]}.html`)
+                });
+            map2markers.push(marker);
+            marker.addTo(map2);
+        }
+    }
+
+    function getPredicateOption(predicate) {
+        let option = document.createElement('option');
+        option.value = predicate;
+        option.innerText = predicate
+            .replace(/_/g, ' ')
+            .replace(/#(.*)#/g, ' ($1)');
+        return option;
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        // Populate select menus
+        for (const key in predicateLanguageLocusDict)
+            if (predicateLanguageLocusDict.hasOwnProperty(key)) {
+                document.getElementById('tr-locus-select').appendChild(getPredicateOption(key));
+                document.getElementById('predicate1-select').appendChild(getPredicateOption(key));
+                document.getElementById('predicate2-select').appendChild(getPredicateOption(key));
+            }
+        document.getElementById('tr-locus-select').value   = '---';
+        document.getElementById('predicate1-select').value = '---';
+        document.getElementById('predicate2-select').value = '---';
+
+        map1 = L.map('transitivity-map', {zoomControl: false});
+        map1.setView([52.483333, 96.085833], 2);
+        L.control.zoom({position: 'bottomleft'}).addTo(map1);
+        L.tileLayer(
+            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            {
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+                maxZoom: 18,
+            })
+            .addTo(map1);
+
+        map2 = L.map('predicate-pair-map', {zoomControl: false});
+        map2.setView([52.483333, 96.085833], 2);
+        L.control.zoom({position: 'bottomleft'}).addTo(map2);
+        L.tileLayer(
+            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            {
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+                maxZoom: 18,
+            })
+            .addTo(map2);
+    });
+</script>
+</div>
+
+
+</body>
+</html>
+

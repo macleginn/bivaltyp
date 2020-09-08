@@ -191,6 +191,12 @@ div.circle-inactive {
     background-color: lightgrey;
 }
 
+div.circle-red { background-color: red; }
+div.circle-blue { background-color: blue; }
+div.circle-yellow { background-color: yellow; }
+div.circle-black { background-color: black; }
+div.circle-grey { background-color: lightgrey; }
+
 .red {
     color: red;
 }

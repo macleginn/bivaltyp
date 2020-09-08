@@ -27,6 +27,7 @@
         <script src="https://www.bivaltyp.info/js/data/predicates.js"></script>
         <script src="https://www.bivaltyp.info/js/data/patterns.js"></script>
         <script src="https://www.bivaltyp.info/js/data/full.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/structural.js"></script>
 
         <!-- Misc JavaScript -->
         <script src="https://www.bivaltyp.info/js/misc.js"></script>
@@ -70,6 +71,7 @@
         <div class="submenu" id="data-submenu">
             <a href="https://www.bivaltyp.info/data/patterns/"><div class="menu-button">Patterns overview</div></a>
             <a href="https://www.bivaltyp.info/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+            <a href="https://www.bivaltyp.info/data/maps/"><div class="menu-button">Maps</div></a>
         </div>
     </div>
     <div class="menu-element">
@@ -83,8 +85,7 @@
 <p>Click on a green circle to open the description in a new window. Summary data for grey circles can be found in the ‘<a href="../../data/patterns/">Patterns overview</a>’ section</p>
 <div id="map"></div>
 <script>
-    // const siteURL = 'file:///C:/Users/dniko/PycharmProjects/bivaltyp/public';
-    const siteURL = 'https://eurphon.info/static/bivaltyp';
+    const siteURL = 'https://bivaltyp.info';
     document.addEventListener('DOMContentLoaded', () => {
         let mymap = L.map('map', { zoomControl: false });
         mymap.setView([52.483333, 96.085833], 2);
