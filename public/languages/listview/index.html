@@ -111,29 +111,32 @@
 
     function getLink(row) {
         if (activeLanguages.has(row.get('language_external')))
-            return `${row.get('language_external')} (<a class="table-link" href="../descriptions/${row.get('language')}.html">⤤</a>)`;
+            return `<a class="table-link" href="../descriptions/${row.get('language')}.html">link</a>`;
         else
-            return row.get('language_external');
+            return '';
     }
 
-    // Make names of active languages links
-    // and subset columns
+    // Prettify the df and subset columns
     let languageDfMin = languageDf
         .sortBy('language_external')
-        .map(row => row.set('language_external', getLink(row)))
         .map(row => row.set('entropy (nat)', row.get('entropy (nat)').toFixed(3)))
         .select(...selectedColumns);
 
-
+    // Add a link column
+    selectedColumns.splice(1, 0, 'language_link')
+    languageDfMin = languageDfMin.restructure(selectedColumns);
+    languageDfMin = languageDfMin.map(row => row.set('language_link', getLink(row)))
 
     let columns = [],
         columnNamesDisplay = [];
     for (const colname of selectedColumns) {
         if (colname === 'language_external') {
             columnNamesDisplay.push('language');
+            columns.push({renderer: 'text'});
+        } else if (colname === 'language_link') {
+            columnNamesDisplay.push(colname);
             columns.push({renderer: 'html'});
-        }
-        else {
+        } else {
             columnNamesDisplay.push(colname);
             columns.push({renderer: 'text'});
         }
