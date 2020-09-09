@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Timur Maisak](https://iling-ran.ru/web/ru/scholars/maisak) ([Academia.edu profile](https://iling-ran.academia.edu/TimurMaisak)) and [Solmaz Merdanova](https://iling-ran.ru/web/ru/scholars/merdanova)
+Contributed by [Timur Maisak](https://iling-ran.ru/web/ru/scholars/maisak) ([academia.edu profile](https://iling-ran.academia.edu/TimurMaisak)) and [Solmaz Merdanova](https://iling-ran.ru/web/ru/scholars/merdanova)
 
 ![T.M.'s photo]({{ site_url_j }}/images/Maisak.jpg "T.M.'s photo")
 ![S.M.'s photo]({{ site_url_j }}/images/Merdanova.jpg "S.M.'s photo")
