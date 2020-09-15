@@ -19,6 +19,9 @@ predicate_dict = {
     for tup in meta_predicates.itertuples()
 }
 
+# from pprint import pprint
+# pprint(predicate_dict)
+
 d.language_no = d.language_no.map(lambda x: lang_name_dict[x])
 d.predicate_no = d.predicate_no.map(lambda x: predicate_dict[x])
 

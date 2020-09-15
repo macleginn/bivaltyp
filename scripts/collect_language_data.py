@@ -21,7 +21,9 @@ COLNAMES = [
     'back_translation_en',
     'glosses_ru',
     'back_translation_ru',
-    'comms_internal'
+    'comms_internal',
+    'verb_original_orthography',
+    'sentence_original_orthography'
 ]
 
 COLNAMES_OUT = [
@@ -38,7 +40,9 @@ COLNAMES_OUT = [
     'back_translation_en',
     'comms',
     'glosses_ru',
-    'back_translation_ru'
+    'back_translation_ru',
+    'verb_original_orthography',
+    'sentence_original_orthography'
 ]
 
 COLNAMES_OUT_STRUCTURAL = [
@@ -62,6 +66,10 @@ if __name__ == '__main__':
             continue
         print(fname)
         d = pd.read_csv(f'{DATA_DIR}/langtables/{fname}', sep='\t')
+        if 'verb_original_orthography' not in set(d.columns):
+            d['verb_original_orthography'] = ''
+        if 'sentence_original_orthography' not in set(d.columns):
+            d['sentence_original_orthography'] = ''
         if COLNAMES != list(d.columns):
             raise ValueError(f'''
     {fname} has column names incompatible with other files:
@@ -84,7 +92,9 @@ if __name__ == '__main__':
                 verb_tuple.back_translation_en,
                 verb_tuple.comms,
                 verb_tuple.glosses_ru,
-                verb_tuple.back_translation_ru
+                verb_tuple.back_translation_ru,
+                verb_tuple.verb_original_orthography,
+                verb_tuple.sentence_original_orthography
             ))
 
     result = pd.DataFrame.from_records(records, columns=COLNAMES_OUT)
@@ -99,6 +109,10 @@ if __name__ == '__main__':
             continue
         print(fname)
         d = pd.read_csv(f'{DATA_DIR}/langtables_structural/{fname}', sep='\t')
+        if 'verb_original_orthography' not in set(d.columns):
+            d['verb_original_orthography'] = ''
+        if 'sentence_original_orthography' not in set(d.columns):
+            d['sentence_original_orthography'] = ''
         if COLNAMES != list(d.columns):
             raise ValueError(f'''
     {fname} has column names incompatible with other files:
@@ -114,7 +128,7 @@ if __name__ == '__main__':
                 verb_tuple.X,
                 verb_tuple.Y,
                 verb_tuple.locus,
-                verb_tuple.valency_pattern,
+                verb_tuple.valency_pattern
             ))
 
     result = pd.DataFrame.from_records(records, columns=COLNAMES_OUT_STRUCTURAL)

@@ -13,7 +13,9 @@ const fullData = [
     "back_translation_en",
     "comments",
     "glosses_ru",
-    "back_translation_ru"
+    "back_translation_ru",
+    "verb_original_orthography",
+    "sentence_original_orthography"
   ],
   [
     "Aghul",
@@ -25,9 +27,11 @@ const fullData = [
     "X",
     "GEN_ABS",
     "aslan.a-n k’il itːa-a",
+    "PN-GEN head ache-PRS",
+    "‘Aslan has a headache.’",
+    "NP in the genitive is arguably a clause-level dependent.",
     "PN-GEN голова болеть-PRS",
     "‘У Аслана болит голова.’",
-    "NP in the genitive is arguably a clause-level dependent.",
     "",
     ""
   ],
@@ -41,9 +45,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s stalǯam x.u-naa",
+    "PN-DAT pneumonia become.PF-PRF",
+    "‘Aslan has pneumonia.’",
+    "",
     "PN-DAT пневмония стать.PF-PRF",
     "‘У Аслана пневмония.’",
-    "",
     "",
     ""
   ],
@@ -53,13 +59,15 @@ const fullData = [
     "бояться",
     "guč’a-",
     "DAT",
-    "SUBCONT.ELAT",
+    "POST.ELAT",
     "XY",
-    "DAT_SUBCONT.ELAT",
-    "aslan.a-s χuj.i-k-as guč’a-a",
-    "PN-DAT собака-SUB/CONT-ELAT бояться-PRS",
-    "‘Аслан боится собаки.’",
+    "DAT_POST.ELAT",
+    "aslan.a-s χuj.i-q-as guč’a-a",
+    "PN-DAT dog-POST-ELAT be.afraid-PRS",
+    "‘Aslan is afraid of the dog.’",
     "",
+    "PN-DAT собака-POST-ELAT бояться-PRS",
+    "‘Аслан боится собаки.’",
     "",
     ""
   ],
@@ -73,9 +81,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a fatːix.i-ne ʁʷan",
+    "PN(ERG) throw.PF-AOR stone",
+    "‘Aslan threw a stone.’",
+    "",
     "PN(ERG) бросать.PF-AOR камень",
     "‘Аслан бросил камень.’",
-    "",
     "",
     ""
   ],
@@ -89,9 +99,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s pul hurk’.a-a",
+    "PN-DAT money suffice.IPF-PRS",
+    "‘Aslan has enough money.’",
+    "",
     "PN-DAT деньги быть.достаточным.IPF-PRS",
     "‘Аслану хватает денег.’",
-    "",
     "",
     ""
   ],
@@ -105,9 +117,11 @@ const fullData = [
     "Y",
     "ABS_DAT",
     "aslan meʜemed.i-s uχšar a-a",
+    "PN PN-DAT similar {IN}be-PRS",
+    "‘Aslan resembles Muhammad.’",
+    "Non-verbal predicate.",
     "PN PN-DAT похожий {IN}быть-PRS",
     "‘Аслан похож на Магомеда.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -121,9 +135,11 @@ const fullData = [
     "Y",
     "ABS_POST",
     "aslan meʜemed.i-q quχ.u-naa",
+    "PN PN-POST believe.PF-PRF",
+    "‘Aslan believes Muhammad.’",
+    "",
     "PN PN-POST верить.PF-PRF",
     "‘Аслан верит Магомеду.’",
-    "",
     "",
     ""
   ],
@@ -137,9 +153,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a kitab ʁuš.u-ne (aškːaf.i-as)",
+    "PN(ERG) book take.PF-AOR bookshelf-(IN)ELAT",
+    "‘Aslan took a book (from the bookshelf).’",
+    "",
     "PN(ERG) книга брать.PF-AOR шкаф-(IN)ELAT",
     "‘Аслан взял книгу (из шкафа).’",
-    "",
     "",
     ""
   ],
@@ -153,9 +171,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s χal agʷ.a-a",
+    "PN-DAT house see.IPF-PRS",
+    "‘Aslan sees a house.’",
+    "",
     "PN-DAT дом видеть.IPF-PRS",
     "‘Аслан видит дом.’",
-    "",
     "",
     ""
   ],
@@ -169,9 +189,11 @@ const fullData = [
     "*",
     "",
     "me jaš.tːi-n kar e",
+    "DEMM age-GEN matter COP",
+    "Lit. ‘Memory is the matter of age.’",
+    "Not included in the dataset because the translation deviates too far from the stimulus sentence.",
     "DEMM возраст-GEN дело COP",
     "Букв. ‘Память — это возрастное.’",
-    "Not included in the dataset because the translation deviates too far from the stimulus sentence.",
     "",
     ""
   ],
@@ -180,14 +202,16 @@ const fullData = [
     "encounter",
     "встречаться",
     "alčarx.u-",
-    "ABS",
     "DAT",
-    "Y",
-    "ABS_DAT",
+    "ABS",
+    "X",
+    "DAT_ABS",
     "aslan.a-s meʜemed alčarx.u-ne",
-    "PN-DAT PN встречаться.PF-AOR",
-    "‘Магомед встретился с Асланом.’",
+    "PN-DAT PN meet.PF-AOR",
+    "‘Aslan ran into Muhammad.’",
     "",
+    "PN-DAT PN встречаться.PF-AOR",
+    "‘Аслан встретился с Магомедом’ (букв. ‘Аслану встретился Магомед’).",
     "",
     ""
   ],
@@ -201,9 +225,11 @@ const fullData = [
     "Y",
     "ABS_DAT",
     "aslan χul.a-s ačaj-ne",
+    "PN house-DAT {IN.LAT}come:PF-AOR",
+    "‘Aslan entered the house.’",
+    "",
     "PN дом-DAT {IN.LAT}приходить:PF-AOR",
     "‘Аслан вошел в дом.’",
-    "",
     "",
     ""
   ],
@@ -217,9 +243,11 @@ const fullData = [
     "Y",
     "ERG_SUPER",
     "aslan.a wartː ʁuš.u-ne meʜemed.i-l",
+    "PN(ERG) top take.PF-AOR PN-SUPER",
+    "‘Aslan beat Muhammad.’",
+    "",
     "PN(ERG) верх брать.PF-AOR PN-SUPER",
     "‘Аслан выиграл у Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -233,9 +261,11 @@ const fullData = [
     "Y",
     "ABS_(IN)ELAT",
     "aslan χul.a-as ajč’.u-ne",
+    "PN house-(IN)ELAT {IN}emerge.PF-AOR",
+    "‘Aslan went out of the house.’",
+    "",
     "PN дом-(IN)ELAT {IN}вылезать.PF-AOR",
     "‘Аслан вышел из дома.’",
-    "",
     "",
     ""
   ],
@@ -249,9 +279,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a mal-ar hik.a-a",
-    "PN(ERG) скот-PL гнать.IPF-PRS",
-    "‘Аслан гонит корову.’",
+    "PN(ERG) cattle-PL drive.IPF-PRS",
+    "‘Aslan is driving the cattle.’",
     "",
+    "PN(ERG) скот-PL гнать.IPF-PRS",
+    "‘Аслан гонит скотину.’",
     "",
     ""
   ],
@@ -265,9 +297,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a t’ul č’ut’.u-ne",
+    "PN(ERG) branch crush.PF-AOR",
+    "‘Aslan bent the branch.’",
+    "",
     "PN(ERG) палка сминать.PF-AOR",
     "‘Аслан согнул ветку.’",
-    "",
     "",
     ""
   ],
@@ -281,9 +315,11 @@ const fullData = [
     "Y",
     "ERG_DAT",
     "aslan.a meʜemed.i-s p.u-ne…",
+    "PN(ERG) PN-DAT tell.PF-AOR",
+    "‘Aslan told Muhammad: (‘...’)’",
+    "",
     "PN(ERG) PN-DAT говорить.PF-AOR",
     "‘Аслан сказал Магомеду: (\"..\").’",
-    "",
     "",
     ""
   ],
@@ -292,14 +328,16 @@ const fullData = [
     "hold",
     "держать",
     "χil.i-ʔ a-",
-    "GEN",
-    "ABS",
-    "X",
-    "GEN_ABS",
+    "*",
+    "*",
+    "*",
+    "",
     "aslan.a-n χil.i-ʔ kitab a-a ",
+    "PN-GEN hand-IN book {IN}be-PRS",
+    "‘Aslan is holding a book in his hands.’",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
     "PN-GEN рука-IN книга {IN}быть-PRS",
     "‘Аслан держит книгу в руках.’",
-    "NP in the genitive is arguably a clause-level dependent.",
     "",
     ""
   ],
@@ -312,10 +350,12 @@ const fullData = [
     "POST",
     "Y",
     "ABS_POST",
-    "aslan qukː.u-na meʜemed.i-q ruq’.u-ne ti-q-tːi",
-    "PN гнаться.PF-CONV PN-POST достигать.PF-AOR DEMT-POST-LAT",
-    "‘Аслан догнал М.’",
+    "aslan qukː.u-na meʜemed.i-q ruq’.u-ne",
+    "PN chase.PF-CONV PN-POST reach.PF-AOR",
+    "‘Aslan caught up with Muhammad’",
     "",
+    "PN гнаться.PF-CONV PN-POST достигать.PF-AOR",
+    "‘Аслан догнал М.’",
     "",
     ""
   ],
@@ -329,9 +369,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a ʜüni uz.u-ne",
+    "PN(ERG) cow milk.PF-AOR",
+    "‘Aslan milked the cow.’",
+    "",
     "PN(ERG) корова доить.PF-AOR",
     "‘Аслан подоил корову.’",
-    "",
     "",
     ""
   ],
@@ -345,9 +387,11 @@ const fullData = [
     "Y",
     "ABS_POST.LAT",
     "aslan nac’.u-n saje qːireʁ.i-q-tːi ruq’.u-ne",
+    "PN river-GEN other edge-POST-LAT reach.PF-AOR",
+    "‘Aslan reached the other bank of the river.’",
+    "",
     "PN река-GEN другой край-POST-LAT достигать.PF-AOR",
     "‘Аслан достиг другого берега реки.’",
-    "",
     "",
     ""
   ],
@@ -356,14 +400,16 @@ const fullData = [
     "touch",
     "дотронуться",
     "kürq’.u-",
-    "GEN",
-    "SUBCONT",
-    "XY",
-    "GEN_SUBCONT",
+    "*",
+    "*",
+    "*",
+    "",
     "aslan.a-n χil kürq’.u-ne cil.i-k",
+    "PN-GEN hand {SUB/CONT}strike.PF-AOR wall-SUB/CONT",
+    "‘Aslan touched the wall.’",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
     "PN-GEN рука {SUB/CONT}ударяться.PF-AOR стена-SUB/CONT",
     "‘Аслан дотронулся до стены.’",
-    "NP in the genitive is arguably a clause-level dependent.",
     "",
     ""
   ],
@@ -377,9 +423,11 @@ const fullData = [
     "Y",
     "ABS_COMIT",
     "aslan meʜemed.i-qaj uqː.a-a",
+    "PN PN-COMIT fight.IPF-PRS",
+    "‘Aslan is fighting with Muhammad.’",
+    "",
     "PN PN-COMIT драться.IPF-PRS",
     "‘Аслан дерется с Магомедом.’",
-    "",
     "",
     ""
   ],
@@ -393,9 +441,11 @@ const fullData = [
     "*",
     "",
     "aslan=na meʜemed dustː-ar e",
+    "PN=and PN friend-PL COP ",
+    "‘Aslan and Muhammad are friends.’",
+    "Not included in the database because X and Y are expressed as a coordinate NP.",
     "PN=и PN друг-PL COP ",
     "‘Аслан и Магомед — друзья.’",
-    "Not included in the database because X and Y are expressed as a coordinate NP.",
     "",
     ""
   ],
@@ -409,9 +459,11 @@ const fullData = [
     "Y",
     "ERG_SUBCONT.ELAT",
     "aslan.a meʜemed.i-k-as fikir q’.a-a",
+    "PN(ERG) PN-SUB/CONT-ELAT thought do.IPF-PRS",
+    "‘Aslan is thinking about Muhammad.’",
+    "",
     "PN(ERG) PN-SUB/CONT-ELAT мысль делать.IPF-PRS",
     "‘Аслан думает о Магомеде.’",
-    "",
     "",
     ""
   ],
@@ -425,9 +477,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a ʜač ʡut’.u-ne",
+    "PN(ERG) apple eat.PF-AOR",
+    "‘Aslan ate an apple.’",
+    "",
     "PN(ERG) яблоко есть.PF-AOR",
     "‘Аслан съел яблоко.’",
-    "",
     "",
     ""
   ],
@@ -441,9 +495,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a baluʁ žarit’ q’.u-ne",
+    "PN(ERG) fish <fry> do.PF-AOR",
+    "‘Aslan fried the fish.’",
+    "",
     "PN(ERG) рыба <жарить> делать.PF-AOR",
     "‘Аслан пожарил рыбу.’",
-    "",
     "",
     ""
   ],
@@ -457,9 +513,11 @@ const fullData = [
     "Y",
     "ABS_POST.LAT",
     "aslan meʜemed.i-q-tːi ʁuz.u-naa",
+    "PN PN-POST-LAT stop.PF-PRF",
+    "‘Aslan is waiting for Muhammad.’",
+    "",
     "PN PN-POST-LAT останавливаться.PF-PRF",
     "‘Аслан ждет Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -473,9 +531,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s saje reqː k’ʷal-as š.u-ne",
+    "PN-DAT other road in.memory-ELAT leave.PF-AOR",
+    "‘Aslan forgot about the other road.’",
+    "",
     "PN-DAT другой дорога в.памяти-ELAT уходить.PF-AOR",
     "‘Аслан забыл о другой дороге.’",
-    "",
     "",
     ""
   ],
@@ -492,6 +552,8 @@ const fullData = [
     "*",
     "*",
     "No satisfactory translation has been obtained.",
+    "*",
+    "*",
     "",
     ""
   ],
@@ -505,9 +567,11 @@ const fullData = [
     "Y",
     "ERG_DAT",
     "aslan.a meʜemed.i-s un-aq’.u-ne",
+    "PN(ERG) PN-DAT sound-do.PF-AOR",
+    "‘Aslan called Muhammad.’",
+    "",
     "PN(ERG) PN-DAT звук-делать.PF-AOR",
     "‘Аслан позвал Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -521,9 +585,11 @@ const fullData = [
     "Y",
     "ABS_COMIT",
     "aslan meʜemed.i-qaj taniš-x.u-ne sa is.a-n üdüh-tːi",
+    "PN PN-COMIT get.acquainted-become.PF-AOR one year-GEN ahead-LAT",
+    "‘Aslan got to know Muhammad a year ago.’",
+    "",
     "PN PN-COMIT знакомиться-стать.PF-AOR один год-GEN впереди-LAT",
     "‘Аслан познакомился с Магомедом год тому назад.’",
-    "",
     "",
     ""
   ],
@@ -537,9 +603,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s ʜa-a meʜemed",
+    "PN-DAT know-PRS PN",
+    "‘Aslan knows Muhammad.’",
+    "",
     "PN-DAT знать-PRS PN",
     "‘Аслан знает Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -553,9 +621,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a č’iʁan jarʜ.a-a",
+    "PN(ERG) squeezebox strike.IPF-PRS ",
+    "‘Aslan is playing the sqeezebox.’",
+    "",
     "PN(ERG) гармонь бить.IPF-PRS ",
     "‘Аслан играет на гармони.’",
-    "",
     "",
     ""
   ],
@@ -572,6 +642,8 @@ const fullData = [
     "*",
     "*",
     "No satisfactory translation has been obtained.",
+    "*",
+    "*",
     "",
     ""
   ],
@@ -585,9 +657,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a bomba aq’.u-ne",
+    "PN(ERG) bomb do.PF-AOR",
+    "‘Aslan made a bomb.’",
+    "",
     "PN(ERG) бомба делать.PF-AOR",
     "‘Аслан изготовил бомбу.’",
-    "",
     "",
     ""
   ],
@@ -601,9 +675,11 @@ const fullData = [
     "Y",
     "ERG_SUBCONT.ELAT",
     "aslan.a meʜemed.i-k-as ihanat-ar aq’.a-a",
-    "PN(ERG) PN-SUB/CONT-ELAT насмешка-PL делать.IPF-PRS",
-    "‘Аслан издевается над Магомедом.’",
+    "PN(ERG) PN-SUB/CONT-ELAT mocking-PL do.IPF-PRS",
+    "‘Aslan is making fun of Muhammad.’",
     "",
+    "PN(ERG) PN-SUB/CONT-ELAT насмешка-PL делать.IPF-PRS",
+    "‘Аслан насмехается над Магомедом.’",
     "",
     ""
   ],
@@ -617,9 +693,11 @@ const fullData = [
     "X",
     "POST_ABS",
     "aslan.a-q mašin qa-a",
+    "PN-POST car {POST}be-PRS",
+    "‘Aslan has a car.’",
+    "",
     "PN-POST машина {POST}быть-PRS",
     "‘У Аслана есть машина.’",
-    "",
     "",
     ""
   ],
@@ -633,9 +711,11 @@ const fullData = [
     "Y",
     "ABS_POST.LAT",
     "aslan güleg-ar.i-q-tːi aruc.a-a",
+    "PN key-PL-POST-LAT walk.IPF-PRS",
+    "‘Aslan is looking for his keys.’",
+    "",
     "PN ключ-PL-POST-LAT ходить.IPF-PRS",
     "‘Аслан ищет ключи.’",
-    "",
     "",
     ""
   ],
@@ -649,9 +729,11 @@ const fullData = [
     "Y",
     "ERG_DAT",
     "aslan.a zabur.i-s šur jarʜ.u-ne",
+    "PN(ERG) fence-DAT paint strike.PF-AOR",
+    "‘Aslan painted the fence.’",
+    "",
     "PN(ERG) забор-DAT краска бить.PF-AOR",
     "‘Аслан покрасил забор.’",
-    "",
     "",
     ""
   ],
@@ -665,9 +747,11 @@ const fullData = [
     "TR",
     "TR",
     "χuj.i fac.u-ne aslan",
-    "собака(ERG) хватать.PF-AOR PN",
-    "‘Собака укусила (букв. схватила) Аслана.’",
+    "dog(ERG) grasp.PF-AOR PN",
+    "‘A dog bit (lit. ‘grasped’) Aslan.’",
     "",
+    "собака(ERG) хватать.PF-AOR PN",
+    "‘Собака укусила (букв. ‘схватила’) Аслана.’",
     "",
     ""
   ],
@@ -681,9 +765,11 @@ const fullData = [
     "Y",
     "ABS_SUBCONT.ELAT",
     "aslan χul.a-k-as x.u-ne",
+    "PN house-SUB/CONT-ELAT become.PF-AOR",
+    "‘Aslan lost his house.’",
+    "",
     "PN дом-SUB/CONT-ELAT стать.PF-AOR",
     "‘Аслан лишился дома.’",
-    "",
     "",
     ""
   ],
@@ -697,9 +783,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a kitan fac.a-a",
+    "PN(ERG) cat catch.IPF-PRS",
+    "‘Aslan is trying to catch the cat.’",
+    "",
     "PN(ERG) кошка хватать.IPF-PRS",
     "‘Аслан ловит кошку.’",
-    "",
     "",
     ""
   ],
@@ -713,9 +801,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a t’ul arʕ.u-ne",
+    "PN(ERG) branch break.PF-AOR",
+    "‘Aslan broke a stick.’",
+    "",
     "PN(ERG) палка ломать.PF-AOR",
     "‘Аслан сломал палку.’",
-    "",
     "",
     ""
   ],
@@ -729,9 +819,11 @@ const fullData = [
     "Y",
     "ERG_DAT",
     "aslan.a ruš.a-s qːele-jar jarʜ.a-a",
+    "PN(ERG) girl-DAT flattery-PL srike.IPF-PRS",
+    "‘Aslan is flattering the girl.’",
+    "",
     "PN(ERG) девушка-DAT лесть-PL бить.IPF-PRS",
     "‘Аслан льстит девушке.’",
-    "",
     "",
     ""
   ],
@@ -745,9 +837,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s fat’ima kːande-a",
+    "PN-DAT PN love-PRS",
+    "‘Aslan loves Fatima.’",
+    "",
     "PN-DAT PN любить-PRS",
     "‘Аслан любит Фатиму.’",
-    "",
     "",
     ""
   ],
@@ -761,9 +855,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a jaʁluqː tːutː.a-a",
+    "PN(ERG) handkerchief shake.IPF-PRS",
+    "‘Aslan is waving a handkerchief.’",
+    "",
     "PN(ERG) платок трясти.IPF-PRS",
     "‘Аслан машет платком.’",
-    "",
     "",
     ""
   ],
@@ -771,15 +867,17 @@ const fullData = [
     "Aghul",
     "dream",
     "мечтать",
-    "*",
+    "jurk’.ura-n χijal + COP",
     "*",
     "*",
     "*",
     "",
-    "*",
-    "*",
-    "*",
-    "No satisfactory translation has been obtained.",
+    "c’aje mašin aslan.a-n jurk’.ura-n χijal e",
+    "new car PN-GEN heart-GEN thought COP",
+    "‘Aslan is dreaming of a new car.’",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
+    "новый машина PN-GEN сердце-GEN мысль COP",
+    "‘Аслан мечтает о новой машине.’",
     "",
     ""
   ],
@@ -793,9 +891,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a qːab ʡučː.u-ne",
+    "PN(ERG) tableware wash.PF-AOR",
+    "‘Aslan washed the dishes.’",
+    "",
     "PN(ERG) посуда мыть.PF-AOR",
     "‘Аслан вымыл чашку.’",
-    "",
     "",
     ""
   ],
@@ -809,9 +909,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a šawlar lik’.i-ne",
+    "PN(ERG) trousers put.on.PF-AOR",
+    "‘Aslan put on his trousers.’",
+    "",
     "PN(ERG) штаны надевать.PF-AOR",
     "‘Аслан надел штаны.’",
-    "",
     "",
     ""
   ],
@@ -820,14 +922,16 @@ const fullData = [
     "be_called",
     "называться",
     "tːur + COP",
-    "GEN",
-    "PRED",
-    "XY",
-    "GEN_PRED",
+    "*",
+    "*",
+    "*",
+    "",
     "me šeʔ.ü-n tːur kːompːas e",
+    "DEMM thing-GEN name compass COP",
+    "‘This thing is called a compass.’",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
     "DEMM вещь-GEN имя компас COP",
     "‘Этот предмет называется компас.’",
-    "NP in the genitive is arguably a clause-level dependent. Non-verbal predicate.",
     "",
     ""
   ],
@@ -841,9 +945,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a uč.i-n gada nakːazat q’.u-ne",
+    "PN(ERG) self-GEN son <punish> do.PF-AOR",
+    "‘Aslan punished his son.’",
+    "",
     "PN(ERG) сам-GEN сын <наказать> делать.PF-AOR",
     "‘Аслан наказал своего сына.’",
-    "",
     "",
     ""
   ],
@@ -857,9 +963,11 @@ const fullData = [
     "Y",
     "ABS_SUPER",
     "ʕurčaqban.di-l bengiš alčiš.i-ne",
+    "hunter-SUPER bear {SUPER.LAT}jump.PF-AOR",
+    "‘A bear attacked a hunter.’",
+    "",
     "охотник-SUPER медведь {SUPER.LAT}прыгать.PF-AOR",
     "‘Медведь напал на охотника.’",
-    "",
     "",
     ""
   ],
@@ -873,9 +981,11 @@ const fullData = [
     "Y",
     "ABS_ERG",
     "bedra xitː.a ac’.u-ne",
+    "bucket water(ERG) fill(intr.).PF-AOR",
+    "‘The bucket filled with water.’",
+    "",
     "ведро вода(ERG) наполняться.PF-AOR",
     "‘Ведро наполнилось водой.’",
-    "",
     "",
     ""
   ],
@@ -889,9 +999,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s güleg-ar (qa-)ǯik’.i-ne",
+    "PN-DAT key-PL RE-find.PF-AOR",
+    "‘Aslan found his keys.’",
+    "",
     "PN-DAT ключ-PL RE-находить.PF-AOR",
     "‘Аслан нашел ключи.’",
-    "",
     "",
     ""
   ],
@@ -905,9 +1017,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s sa manat hurk’.u-ndawa",
-    "PN-DAT один рубль быть.достаточным.PF-AOR:neg",
-    "‘Аслану недостает одного рубля.’",
+    "PN-DAT one ruble suffice.PF-AOR:NEG",
+    "‘Aslan is short one ruble.’",
     "",
+    "PN-DAT один рубль быть.достаточным.PF-AOR:NEG",
+    "‘Аслану недостает одного рубля.’",
     "",
     ""
   ],
@@ -921,9 +1035,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s meʜemed dušman-di a",
+    "PN-DAT PN enemy-ADV {IN}be:PRS",
+    "‘Aslan hates Muhammad.’",
+    "Non-verbal predicate.",
     "PN-DAT PN враг-ADV {IN}быть:PRS",
     "‘Аслан ненавидит Магомеда.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -937,9 +1053,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s me berʜem begemiš-tːi a",
+    "PN-DAT DEMM shirt <like>-ADV {IN}be:PRS",
+    "‘Aslan likes this shirt.’",
+    "Non-verbal predicate.",
     "PN-DAT DEMM рубашка <нравиться>-ADV {IN}быть:PRS",
     "‘Аслану нравится эта рубашка.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -953,9 +1071,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s pul gerek-tːi a",
+    "PN-DAT money necessary-ADV {IN}be:PRS",
+    "‘Aslan needs money.’",
+    "Non-verbal predicate.",
     "PN-DAT деньги нужный-ADV {IN}быть:PRS",
     "‘Аслану нужны деньги.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -969,9 +1089,11 @@ const fullData = [
     "Y",
     "ABS_SUPER",
     "šahar (jaq’u pːatː.a-k-as) cil-ar.i-l-di aldark.u-naa",
-    "город четыре сторона-SUB/CONT-ELAT стена-PL-SUPER-LAT обходить.PF-PRF",
-    "‘Стены окружают город.’ (букв. ‘Город обведен стенами с четырех сторон’).",
+    "town four side-SUB/CONT-ELAT wall-PL-SUPER-LAT encircle.PF-PRF",
+    "‘Walls surround the city.’ (lit. ‘The city is circled by the walls from four sides.’)",
     "",
+    "город четыре сторона-SUB/CONT-ELAT стена-PL-SUPER-LAT обходить.PF-PRF",
+    "‘Стены окружают город’ (букв. ‘Город обведен стенами с четырех сторон’).",
     "",
     ""
   ],
@@ -985,9 +1107,11 @@ const fullData = [
     "X",
     "APUD_ABS",
     "aslan.a-w ic’u manat fame-a",
+    "PN-APUD 10 ruble {APUD}remain-PRS",
+    "‘Aslan has 10 rubles left.’",
+    "",
     "PN-APUD 10 рубль {APUD}оставаться-PRS",
     "‘У Аслана осталось 10 рублей.’",
-    "",
     "",
     ""
   ],
@@ -1001,9 +1125,11 @@ const fullData = [
     "Y",
     "ERG_DAT",
     "aslan.a müʡelim.di-s ǯuwab i-ne",
+    "PN(ERG) teacher-DAT answer give:PF-AOR",
+    "‘Aslan answered the teacher.’",
+    "",
     "PN(ERG) учитель-DAT ответ давать:PF-AOR",
     "‘Аслан ответил учителю.’",
-    "",
     "",
     ""
   ],
@@ -1017,9 +1143,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a bankːa daq.u-ne",
+    "PN(ERG) can open.PF-AOR",
+    "‘Aslan opened a can.’",
+    "",
     "PN(ERG) банка открывать.PF-AOR",
     "‘Аслан открыл банку.’",
-    "",
     "",
     ""
   ],
@@ -1033,9 +1161,11 @@ const fullData = [
     "Y",
     "ABS_SUPER.ELAT",
     "ze berʜem ǯüre-f e we-tː.i-l-as",
+    "я:GEN shirt separate-NMLZ COP you-NMLZ-SUPER-ELAT",
+    "‘My shirt is different from yours.’",
+    "Non-verbal predicate.",
     "я:GEN рубашка отдельный-NMLZ COP ты-NMLZ-SUPER-ELAT",
     "‘Моя рубашка отличается от твоей.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -1049,9 +1179,11 @@ const fullData = [
     "Y",
     "ABS_POST.ELAT",
     "aslan qatːarx.u-ne meʜemed.i-q-as",
+    "PN {POST.ELAT}get.PF-AOR PN-POST-ELAT",
+    "‘Aslan fell behind Muhammad.’",
+    "",
     "PN {POST.ELAT}попадать.PF-AOR PN-POST-ELAT",
     "‘Аслан отстал от Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -1065,9 +1197,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a χupː-ur izan aq’.a-a",
+    "PN(ERG) field-PL <plowing> do.IPF-PRS",
+    "‘Aslan is ploughing the field.’",
+    "",
     "PN(ERG) поле-PL <пахота> делать.IPF-PRS",
     "‘Аслан пашет поле.’",
-    "",
     "",
     ""
   ],
@@ -1076,14 +1210,16 @@ const fullData = [
     "smell",
     "пахнуть",
     "niʔ qa-",
-    "POST",
-    "GEN",
-    "XY",
-    "POST_GEN",
+    "*",
+    "*",
+    "*",
+    "",
     "ze χil-ar.i-q binzin.i niʔ qa-a",
+    "I:GEN hand-PL-POST gasoline(GEN) smell {POST}be-PRS",
+    "‘My hands smell of gasoline.’",
+    "Not included in the database because Y is expressed as an NP-internal modifier.",
     "я:GEN рука-PL-POST бензин(GEN) запах {POST}быть-PRS",
     "‘Мои руки пахнут бензином.’",
-    "NP in the genitive is arguably a clause-level dependent.",
     "",
     ""
   ],
@@ -1097,9 +1233,11 @@ const fullData = [
     "*",
     "",
     "aslan reqː.ü-n te qːʷal.a-s ajč’.u-ne",
-    "PN дорога-GEN DEMT сторона-DAT {IN}вылезать.PF-AOR",
-    "‘Аслан пересек дорогу.’ (букв. ‘Аслан оказался на другой стороне дороги).’",
+    "PN road-GEN DEMT side-DAT {IN}emerge.PF-AOR",
+    "‘Aslan crossed the road.’ (lit. ‘Aslan emerged on the other side of the road.’)",
     "Not included in the database because Y is expressed as an NP-internal modifier.",
+    "PN дорога-GEN DEMT сторона-DAT {IN}вылезать.PF-AOR",
+    "‘Аслан пересек дорогу’ (букв. ‘Аслан оказался на другой стороне дороги)’.",
     "",
     ""
   ],
@@ -1113,9 +1251,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a sa bat’ar meʕni q’.u-ne",
+    "PN(ERG) one beautiful song do.PF-AOR",
+    "‘Aslan sang a beautiful song.’",
+    "",
     "PN(ERG) один красивый песня делать.PF-AOR",
     "‘Аслан спел красивую песню.’",
-    "",
     "",
     ""
   ],
@@ -1129,9 +1269,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a k’eǯ lik’.i-ne",
+    "PN(ERG) letter write.PF-AOR",
+    "‘Aslan wrote a letter.’",
+    "",
     "PN(ERG) письмо писать.PF-AOR",
     "‘Аслан написал письмо.’",
-    "",
     "",
     ""
   ],
@@ -1145,9 +1287,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a nekː uχ.u-ne",
+    "PN(ERG) milk drink.PF-AOR",
+    "‘Aslan drank the milk.’",
+    "",
     "PN(ERG) молоко пить.PF-AOR",
     "‘Аслан выпил молоко.’",
-    "",
     "",
     ""
   ],
@@ -1161,9 +1305,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a qːurqːušum uc’.u-ne",
+    "PN(ERG) lead melt.PF-AOR",
+    "‘Aslan melted a piece of lead.’",
+    "Labile verb.",
     "PN(ERG) свинец таять.PF-AOR",
     "‘Аслан расплавил кусок свинца.’",
-    "Labile verb.",
     "",
     ""
   ],
@@ -1177,9 +1323,11 @@ const fullData = [
     "Y",
     "ABS_DAT",
     "me č’il ze berʜem.i-s düx.e-a",
+    "DEMM belt I:GEN shirt-DAT match.IPF-PRS",
+    "‘This belt matches my dress.’",
+    "",
     "DEMM пояс я:GEN рубашка-DAT соответствовать.IPF-PRS",
     "‘Этот пояс подходит к моему платью.’",
-    "",
     "",
     ""
   ],
@@ -1192,10 +1340,12 @@ const fullData = [
     "ABS",
     "TR",
     "TR",
-    "aslan.a uč ruχ.u šahar at.u-ne",
-    "PN(ERG) сам родиться.PF город оставлять.PF-AOR ",
-    "‘Аслан покинул родной город.’",
+    "aslan.a uč.i-n ruχ.u šahar at.u-ne",
+    "PN(ERG) self-GEN be.born.PF town leave.PF-AOR ",
+    "‘Aslan left his native city.’",
     "",
+    "PN(ERG) сам-GEN родиться.PF город оставлять.PF-AOR ",
+    "‘Аслан покинул родной город.’",
     "",
     ""
   ],
@@ -1209,9 +1359,11 @@ const fullData = [
     "TR",
     "TR",
     "q’adilq’ʷan.di k’ildi ǯil fac.a-a ",
+    "carpet(ERG) fully graound grasp.IPF-PRS",
+    "‘The carpet covers the whole floor.’",
+    "",
     "ковер(ERG) целиком земля хватать.IPF-PRS",
     "‘Ковер покрывает весь пол.’",
-    "",
     "",
     ""
   ],
@@ -1220,14 +1372,16 @@ const fullData = [
     "remember",
     "помнить",
     "jurk’.ura-l alme-",
-    "GEN",
-    "ABS",
-    "X",
-    "GEN_ABS",
+    "*",
+    "*",
+    "*",
+    "",
     "aslan.a-n jurk’.ura-l alme-a χal",
+    "PN-GEN heart-SUPER {SUPER}remains-PRS house",
+    "‘Aslan remembers the house well.’",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
     "PN-GEN сердце-SUPER {SUPER}оставаться-PRS дом",
     "‘Аслан хорошо помнит дом.’",
-    "NP in the genitive is arguably a clause-level dependent.",
     "",
     ""
   ],
@@ -1241,9 +1395,11 @@ const fullData = [
     "Y",
     "ERG_DAT",
     "aslan.a meʜemed.i-s kümek q’.u-ne",
+    "PN(ERG) PN-DAT help do.PF-AOR",
+    "‘Aslan helped Muhammad’",
+    "",
     "PN(ERG) PN-DAT помощь делать.PF-AOR",
     "‘Аслан помог Магомеду.’",
-    "",
     "",
     ""
   ],
@@ -1252,14 +1408,16 @@ const fullData = [
     "understand",
     "понимать",
     "ʁawur.di arx.a-",
-    "DAT",
-    "GEN",
-    "XY",
-    "DAT_GEN",
-    "aslan.a-s ʡurus č’al.a-n ʁawur.di arx.a-a",
-    "PN-DAT русский речь-GEN понимание(IN) {IN}попадать.IPF-PRS",
+    "*",
+    "*",
+    "*",
+    "",
+    "aslan ʡurus č’al.a-n ʁawur.di arx.a-a",
+    "PN russian speech-GEN understanding(IN) {IN}get.IPF-PRS",
+    "‘Aslan understands Russian.’",
+    "Not included in the database because Y is expressed as an NP-internal modifier.",
+    "PN русский речь-GEN понимание(IN) {IN}попадать.IPF-PRS",
     "‘Аслан понимает русский язык.’",
-    "NP in the genitive is arguably a clause-level dependent.",
     "",
     ""
   ],
@@ -1268,14 +1426,16 @@ const fullData = [
     "hit#target#",
     "попасть",
     "jarʜ.u-",
-    "ERG",
+    "ABS",
     "DAT",
     "Y",
     "ERG_DAT",
-    "c’ajlapan.di χul.a-s jarʜ.u-ne",
-    "молния(ERG) дом-DAT бить.PF-AOR",
-    "‘Молния попала в дом.’",
+    "c’ajlapan χul.a-s jarʜ.u-ne",
+    "lightning house-DAT strike.PF-AOR",
+    "‘Lightning hit the house.’",
     "",
+    "молния дом-DAT бить.PF-AOR",
+    "‘Молния попала в дом.’",
     "",
     ""
   ],
@@ -1289,9 +1449,11 @@ const fullData = [
     "Y",
     "ERG_SUPER.LAT",
     "aslan.a uč.i-n muʔul at’.u-ne lezwi-l-di",
+    "PN(ERG) self-GEN lip cut.PF-AOR blade-SUPER-LAT",
+    "‘Aslan cut himself with the (razor’s) blade.’",
+    "",
     "PN(ERG) сам-GEN губа резать.PF-AOR лезвие-SUPER-LAT",
     "‘Аслан порезал себе губу лезвием.’",
-    "",
     "",
     ""
   ],
@@ -1305,9 +1467,11 @@ const fullData = [
     "Y",
     "ABS_SUBCONT",
     "istːikan ustːul.i-k küqː.u-ne",
+    "glass table-SUB/CONT {SUB/CONT}get.stuck.PF-AOR",
+    "‘The glass got stuck to the table.’",
+    "",
     "стакан стол-SUB/CONT {SUB/CONT}застревать.PF-AOR",
     "‘Стакан прилип к столу.’",
-    "",
     "",
     ""
   ],
@@ -1321,9 +1485,11 @@ const fullData = [
     "Y",
     "ABS_SUPER.ELAT",
     "aslan meʜemed.i-l-as aq x.u-ne",
+    "PN PN-SUPER-ELAT down become.PF-AOR",
+    "‘Aslan lost to Muhammad.’",
+    "",
     "PN PN-SUPER-ELAT вниз стать.PF-AOR",
     "‘Аслан проиграл Магомеду.’",
-    "",
     "",
     ""
   ],
@@ -1337,9 +1503,11 @@ const fullData = [
     "Y",
     "ABS_DAT",
     "aslan k’eǯ.ü-s šad-x.u-ne",
+    "PN letter-DAT glad-become.PF-AOR",
+    "‘Aslan was glad about the letter.’",
+    "",
     "PN письмо-DAT радостный-стать.PF-AOR",
     "‘Аслан обрадовался письму.’",
-    "",
     "",
     ""
   ],
@@ -1353,9 +1521,11 @@ const fullData = [
     "Y",
     "ABS_COMIT",
     "aslan meʜemed.i-qaj raχ.a-a",
+    "PN PN-COMIT speak.IPF-PRS",
+    "‘Aslan is speaking with Muhammad.’",
+    "",
     "PN PN-COMIT разговаривать.IPF-PRS",
     "‘Аслан разговаривает с Магомедом.’",
-    "",
     "",
     ""
   ],
@@ -1369,9 +1539,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "fat’im.i-s gada ruχ.u-ne",
+    "PN-DAT son be.born.PF-AOR",
+    "‘Fatima gave birth to a son.’",
+    "",
     "PN-DAT сын родиться.PF-AOR",
     "‘Фатима родила сына.’",
-    "",
     "",
     ""
   ],
@@ -1379,15 +1551,17 @@ const fullData = [
     "Aghul",
     "drop",
     "ронять",
-    "adarx.u-",
+    "fatːarx.u-",
     "APUD.ELAT",
     "ABS",
     "X",
     "APUD.ELAT_ABS",
-    "aslan.a-f-as istːik’an adarx.u-ne",
-    "PN-APUD-ELAT стакан падать.PF-AOR",
-    "‘Аслан уронил стакан.’",
+    "aslan.a-f-as istːik’an fatːarx.u-ne",
+    "PN-APUD-ELAT glass {APUD.ELAT}get.PF-AOR",
+    "‘Aslan dropped the glass.’",
     "",
+    "PN-APUD-ELAT стакан {APUD.ELAT}попадать.PF-AOR",
+    "‘Аслан уронил стакан.’",
     "",
     ""
   ],
@@ -1396,14 +1570,16 @@ const fullData = [
     "govern",
     "руководить",
     "aʜa-f + COP",
-    "ABS",
-    "GEN",
-    "Y",
-    "ABS_GEN",
+    "*",
+    "*",
+    "*",
+    "",
     "aslan če ʜür.i-n aʜa-f e",
+    "PN we:GEN village-GEN big-NMLZ COP",
+    "‘Aslan runs our town’ (lit. ‘Aslan is our town’s chief’).",
+    "Not included in the database because Y is expressed as an NP-internal modifier.",
     "PN мы:GEN село-GEN большой-NMLZ COP",
     "‘Аслан руководит нашим поселком.’",
-    "NP in the genitive is arguably a clause-level dependent. Non-verbal predicate.",
     "",
     ""
   ],
@@ -1417,9 +1593,11 @@ const fullData = [
     "Y",
     "ABS_POST.LAT",
     "aslan dariχ x.u-naa baw.a-q-tːi",
+    "PN miss become.PF-PRF mother-POST-LAT",
+    "‘Aslan misses his mother.’",
+    "",
     "PN скучать стать.PF-PRF мать-POST-LAT",
     "‘Аслан скучает по матери.’",
-    "",
     "",
     ""
   ],
@@ -1433,9 +1611,11 @@ const fullData = [
     "Y",
     "ABS_GENxupaqas",
     "aslan meʜemed.i-n χupːaq-as ʕʷ.a-a",
+    "PN PN-GEN behind-ELAT go.IPF-PRS",
+    "‘Aslan follows Muhammad.’",
+    "",
     "PN PN-GEN сзади-ELAT идти.IPF-PRS",
     "‘Аслан следует за Магомедом.’",
-    "",
     "",
     ""
   ],
@@ -1449,9 +1629,11 @@ const fullData = [
     "Y",
     "ABS_SUPER.ELAT",
     "aslan ʜajwan.di-l-as alajč’.u-ne",
+    "PN horse-SUPER-ELAT {SUPER}emerge.PF-AOR",
+    "‘Aslan got down from the horse.’",
+    "",
     "PN лошадь-SUPER-ELAT {SUPER}вылезать.PF-AOR",
     "‘Аслан слез с лошади.’",
-    "",
     "",
     ""
   ],
@@ -1465,9 +1647,11 @@ const fullData = [
     "Y",
     "ERG_POST",
     "aslan.a radi-q ubur qix.i-naa",
+    "PN(ERG) radi-POST ear {POST}put.PF-PRF",
+    "‘Aslan is listening to radio.’",
+    "",
     "PN(ERG) радио-POST ухо {POST}класть.PF-PRF",
     "‘Аслан слушает радио.’",
-    "",
     "",
     ""
   ],
@@ -1481,9 +1665,11 @@ const fullData = [
     "Y",
     "ERG_SUPER",
     "aslan.a baw.a-l ubur lix.a-a",
+    "PN(ERG) mother-SUPER ear {SUPER}put.IPF-PRS",
+    "‘Aslan listens to his mother.’",
+    "",
     "PN(ERG) мать-SUPER ухо {SUPER}класть.IPF-PRS",
     "‘Аслан слушается маму.’",
-    "",
     "",
     ""
   ],
@@ -1497,9 +1683,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s muq’am-ar un-x.a-a",
+    "PN-DAT tune-PL sound-become.IPF-PRS",
+    "‘Aslan hears the music.’",
+    "",
     "PN-DAT мелодия-PL звук-стать.IPF-PRS",
     "‘Аслан слышит музыку.’",
-    "",
     "",
     ""
   ],
@@ -1513,9 +1701,11 @@ const fullData = [
     "Y",
     "ABS_INTER",
     "ütː uc’.u-ne nekː.di-ʕ",
-    "мед таять.PF-AOR молоко-INTER",
-    "‘Мед смешался с молоком’. (букв. ‘Мед растворился в молоке’).",
+    "honey melt.PF-AOR milk-INTER",
+    "‘The honey got mixed with the milk.’ (lit. ‘The honey dissolved in the milk.’)",
     "",
+    "мед таять.PF-AOR молоко-INTER",
+    "‘Мед смешался с молоком’ (букв. ‘Мед растворился в молоке’).",
     "",
     ""
   ],
@@ -1529,9 +1719,11 @@ const fullData = [
     "Y",
     "ABS_DAT",
     "aslan dif-ar.i-s χutːurf.a-a",
+    "PN fog-PL-DAT look.IPF-PRS",
+    "‘Aslan is looking at the clouds.’",
+    "",
     "PN туман-PL-DAT смотреть.IPF-PRS",
     "‘Аслан смотрит на тучи.’",
-    "",
     "",
     ""
   ],
@@ -1545,9 +1737,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a berʜem latːaq.u-ne",
+    "PN(ERG) shirt take_off.PF-AOR",
+    "‘Aslan took off his shirt.’",
+    "",
     "PN(ERG) рубашка снимать.PF-AOR",
     "‘Аслан снял рубашку.’",
-    "",
     "",
     ""
   ],
@@ -1561,9 +1755,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s meʜemed agʷ.a-a ʡemk’.e-k-as",
+    "PN-DAT PN see.IPF-PRS dream-SUB/CONT-ELAT",
+    "‘Aslan dreams about Muhammad.’",
+    "",
     "PN-DAT PN видеть.IPF-PRS сон-SUB/CONT-ELAT",
     "‘Аслану снится Магомед.’",
-    "",
     "",
     ""
   ],
@@ -1577,9 +1773,11 @@ const fullData = [
     "Y",
     "ABS_COMIT",
     "aslan rezi x.u-ne baw.a-qaj",
+    "PN content become.PF-AOR mother-COMIT",
+    "‘Aslan agreed with his mother.’",
+    "",
     "PN довольный стать.PF-AOR мать-COMIT",
     "‘Аслан согласился с матерью.’",
-    "",
     "",
     ""
   ],
@@ -1593,9 +1791,11 @@ const fullData = [
     "Y",
     "ERG_COMIT",
     "aslan.a meʜemed.i-qaj qel aq’.u-ne",
+    "PN(ERG) PN-COMIT resentment do.PF-AOR",
+    "‘Aslan had a quarrel with Muhammad.’",
+    "",
     "PN(ERG) PN-COMIT обида делать.PF-AOR",
     "‘Аслан поссорился с Магомедом.’",
-    "",
     "",
     ""
   ],
@@ -1604,14 +1804,16 @@ const fullData = [
     "cost",
     "стоить",
     "q’imat + COP",
-    "GEN",
-    "PRED",
-    "XY",
-    "GEN_PRED",
+    "*",
+    "*",
+    "*",
+    "",
     "me qːab.u-n q’imat ic’u manat e",
+    "DEMM dishes-GEN price 10 ruble COP",
+    "‘This cup costs ten rubles.’",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
     "DEMM посуда-GEN цена 10 рубль COP",
     "‘Эта чашка стоит десять рублей.’",
-    "NP in the genitive is arguably a clause-level dependent. Non-verbal predicate.",
     "",
     ""
   ],
@@ -1625,9 +1827,11 @@ const fullData = [
     "Y",
     "ERG_DAT",
     "aslan.a tufang.i-as jarʜ.u-ne ǯaq’ʷ.ala-s",
+    "PN(ERG) gun-(IN)ELAT strike.PF-AOR sparrow-DAT",
+    "‘Aslan shot at the sparrow.’",
+    "",
     "PN(ERG) ружье-(IN)ELAT бить.PF-AOR воробей-DAT",
     "‘Аслан выстрелил в воробья.’",
-    "",
     "",
     ""
   ],
@@ -1641,9 +1845,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a pusuk’ aq.u-ne kuruškː.i-ʔ",
+    "PN(ERG) sugar {IN}pour.PF-AOR mug-IN",
+    "‘Aslan poured the sugar into the mug.’",
+    "",
     "PN(ERG) сахар.песок {IN}сыпать.PF-AOR кружка-IN",
     "‘Аслан насыпал сахар в кружку.’",
-    "",
     "",
     ""
   ],
@@ -1657,9 +1863,11 @@ const fullData = [
     "X",
     "APUD.ELAT_ABS",
     "aslan.a-f-as güleg-ar gul.u-ne",
+    "PN-APUD-ELAT key-PL disappear.PF-AOR",
+    "‘Aslan lost his keys.’",
+    "",
     "PN-APUD-ELAT ключ-PL исчезать.PF-AOR",
     "‘Аслан потерял ключи.’",
-    "",
     "",
     ""
   ],
@@ -1673,9 +1881,11 @@ const fullData = [
     "Y",
     "ABS_INTER",
     "c’aχun xitː.a-ʕ ʕarx.u-na ahajš.u-ne ",
+    "log water-INTER {INTER}get.PF-CONV sink.PF-AOR",
+    "‘The log sank in the water.’",
+    "",
     "бревно вода-INTER {INTER}попадать.PF-CONV оседать.PF-AOR",
     "‘Полено утонуло в воде.’",
-    "",
     "",
     ""
   ],
@@ -1689,9 +1899,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a meʜemed k’.i-ne",
+    "PN(ERG) PN kill.PF-AOR",
+    "‘Aslan killed Muhammad.’",
+    "",
     "PN(ERG) PN убивать.PF-AOR",
     "‘Аслан убил Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -1705,9 +1917,11 @@ const fullData = [
     "Y",
     "ERG_IN",
     "aslan.a meʜemed.i-ʔ ačarx.u-ne",
+    "PN(ERG) PN-IN {IN.LAT}get.PF-AOR",
+    "‘Aslan hit Muhammad.’",
+    "",
     "PN(ERG) PN-IN {IN.LAT}попадать.PF-AOR",
     "‘Аслан ударил Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -1715,15 +1929,17 @@ const fullData = [
     "Aghul",
     "kiss",
     "целовать",
-    "p’ac’ ik’.i-",
+    "p’ac ik’.i-",
     "ERG",
     "DAT",
     "Y",
     "ERG_DAT",
-    "aslan.a šünükː.i-s p’ac’ ik’.i-ne",
+    "aslan.a šünükː.i-s p’ac ik’.i-ne",
+    "PN(ERG) child-DAT kiss {IN}poke.PF-AOR",
+    "‘Aslan kissed the child.’",
+    "",
     "PN(ERG) ребенок-DAT поцелуй {IN}совать.PF-AOR",
     "‘Аслан поцеловал ребенка.’",
-    "",
     "",
     ""
   ],
@@ -1737,9 +1953,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a sa iǯe kitab ruχ.u-ne",
+    "PN(ERG) one good book read.PF-AOR",
+    "‘Aslan read a good book.’",
+    "",
     "PN(ERG) один хороший книга читать.PF-AOR",
     "‘Аслан прочитал хорошую книгу.’",
-    "",
     "",
     ""
   ],
@@ -1753,9 +1971,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a t’ub-ar t’ušar-q’.u-ne",
+    "PN(ERG) finger-PL move-do.PF-AOR",
+    "‘Aslan moved his finger.’",
+    "",
     "PN(ERG) палец-PL шевелить-делать.PF-AOR",
     "‘Аслан пошевелил пальцами.’",
-    "",
     "",
     ""
   ],
@@ -1769,9 +1989,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a meʜemed uwažat q’.a-a",
+    "PN(ERG) PN <respect> do.IPF-PRS",
+    "‘Aslan respects Muhammad.’",
+    "",
     "PN(ERG) PN <уважать> делать.IPF-PRS",
     "‘Аслан уважает Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -1785,9 +2007,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s kur.u qːab-ar karih-tːi a",
-    "PN-DAT пачкаться.PF посуда-PL вызывающий.брезгливость-ADV {IN}быть:PRS",
-    "‘Аслан брезгует грязной посудой.’",
+    "PN-DAT get_dirty.PF(PTCP) dishes-PL disgusting-ADV {IN}be:PRS",
+    "‘Aslan is squeamish about dirty dishes.’",
     "Non-verbal predicate.",
+    "PN-DAT пачкаться.PF(PTCP) посуда-PL вызывающий.брезгливость-ADV {IN}быть:PRS",
+    "‘Аслан брезгует грязной посудой.’",
     "",
     ""
   ],
@@ -1801,9 +2025,11 @@ const fullData = [
     "Y",
     "ABS_SUPER",
     "aslan uč.i-n gada.ji-l rezi-di a ",
+    "PN self-GEN son-SUPER content-ADV {IN}be:PRS",
+    "‘Aslan is content with his son.’",
+    "Non-verbal predicate.",
     "PN сам-GEN сын-SUPER довольный-ADV {IN}быть:PRS",
     "‘Аслан доволен своим сыном.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -1817,9 +2043,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s fat’ima kːan-x.u-ne",
+    "PN-DAT PN love-become.PF-AOR",
+    "‘Aslan fell in love with Fatima.’",
+    "",
     "PN-DAT PN любить-стать.PF-AOR",
     "‘Аслан влюбился в Фатиму.’",
-    "",
     "",
     ""
   ],
@@ -1833,9 +2061,11 @@ const fullData = [
     "Y",
     "ABS_POST",
     "aslan uč.i-n čːučːu-q quχ.a-a",
+    "PN self-GEN brother-POST believe.IPF-PRS",
+    "‘Aslan trusts his brother.’",
+    "",
     "PN сам-GEN брат-POST верить.IPF-PRS",
     "‘Аслан доверяет своему брату.’",
-    "",
     "",
     ""
   ],
@@ -1849,9 +2079,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s uč.i-n baw ʜajif-tːi a",
+    "PN-DAT self-GEN mother pitiful-ADV {IN}be:PRS",
+    "‘Aslan sympathises with his mother.’",
+    "Non-verbal predicate.",
     "PN-DAT сам-GEN мать жалкий-ADV {IN}быть:PRS",
     "‘Аслан жалеет свою мать.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -1868,6 +2100,8 @@ const fullData = [
     "*",
     "*",
     "No satisfactory translation has been obtained.",
+    "*",
+    "*",
     "",
     ""
   ],
@@ -1881,9 +2115,11 @@ const fullData = [
     "XY",
     "DAT_SUBCONT.ELAT",
     "aslan.a-s meʜemed.i-k-as qel ke-a",
+    "PN-DAT PN-SUB/CONT-ELAT resentment {SUB/CONT}be-PRS",
+    "‘Aslan is angry with Muhammad.’",
+    "",
     "PN-DAT PN-SUB/CONT-ELAT обида {SUB/CONT}быть-PRS",
     "‘Аслан злится на Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -1897,9 +2133,11 @@ const fullData = [
     "Y",
     "ABS_SUPER",
     "aslan ʡalamat x.u-ne [uč.i-s aq’.u peškeš.i-l]",
+    "PN amazing become.PF-AOR self-DAT do.PF(PTCP) gift-SUPER",
+    "‘Aslan was surprised at this gift that he received.’",
+    "",
     "PN удивительный стать.PF-AOR сам-DAT делать.PF(PTCP) подарок-SUPER",
     "‘Аслан удивился подарку, который ему подарили.’",
-    "",
     "",
     ""
   ],
@@ -1907,15 +2145,17 @@ const fullData = [
     "Aghul",
     "love2",
     "любить-2",
-    "kːan-e-f- +COP",
+    "kːan-",
     "DAT",
     "ABS",
     "X",
     "DAT_ABS",
     "aslan.a-s čaj kːan-e-f-e",
+    "PN-DAT tea love-PTCP-NMLZ-COP",
+    "‘Aslan loves tea.’",
+    "",
     "PN-DAT чай любить-PTCP-NMLZ-COP",
     "‘Аслан любит чай.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -1929,9 +2169,11 @@ const fullData = [
     "*",
     "",
     "aslan.a ʡašqː.una-l-di čaj uχ.a-a",
+    "PN(ERG) passion-SUPER-LAT tea drink.IPF-PRS",
+    "‘Aslan is drinking tea with pleasure.’",
+    "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination.",
     "PN(ERG) страсть-SUPER-LAT чай пить.IPF-PRS",
     "‘Аслан пьет чай с наслаждением.’",
-    "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination.",
     "",
     ""
   ],
@@ -1945,9 +2187,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s c’aje tilifun kːande-a",
+    "PN-DAT new phone want-PRS",
+    "‘Aslan wants a new phone.’",
+    "",
     "PN-DAT новый телефон хотеть-PRS",
     "‘Аслан хочет новый телефон.’",
-    "",
     "",
     ""
   ],
@@ -1961,9 +2205,11 @@ const fullData = [
     "XY",
     "DAT_SUBCONT.ELAT",
     "aslan.a-s meʜemed.i-k-as qel ke-a",
+    "PN-DAT PN-SUB/CONT-ELAT resentment {SUB/CONT}be-PRS",
+    "‘Aslan has a grudge against Muhammad.’",
+    "",
     "PN-DAT PN-SUB/CONT-ELAT обида {SUB/CONT}быть-PRS",
     "‘Аслан сердится на Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -1973,13 +2219,15 @@ const fullData = [
     "обижаться",
     "qel aq’.u-",
     "ERG",
-    "COMIT",
+    "SUBCONT.ELAT",
     "Y",
-    "ERG_COMIT",
-    "aslan.a meʜemed.i-qaj qel aq’.u-ne",
-    "PN(ERG) PN-COMIT обида делать.PF-AOR",
-    "‘Аслан обиделся на Магомеда.’",
+    "ERG_SUBCONT.ELAT",
+    "aslan.a meʜemed.i-k-as qel aq’.u-ne",
+    "PN(ERG) PN-SUB/CONT-ELAT resentment do.PF-AOR",
+    "‘Aslan took offence at Muhammad.’",
     "",
+    "PN(ERG) PN-SUB/CONT-ELAT обида делать.PF-AOR",
+    "‘Аслан обиделся на Магомеда.’",
     "",
     ""
   ],
@@ -1993,9 +2241,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a meʜemed pašman q’.u-ne",
+    "PN(ERG) PN sad do.PF-AOR",
+    "‘Aslan greatly upset Muhammad.’",
+    "",
     "PN(ERG) PN печальный делать.PF-AOR",
     "‘Аслан очень огорчил Магомеда.’",
-    "",
     "",
     ""
   ],
@@ -2009,9 +2259,11 @@ const fullData = [
     "Y",
     "ABS_SUPER",
     "aslan ʡalamat x.u-ne me šahar.di-l",
+    "PN amazing become.PF-AOR DEMM town-SUPER",
+    "‘Aslan was struck by this town.’",
+    "",
     "PN удивительный стать.PF-AOR DEMM город-SUPER",
     "‘Аслан поразился этому городу.’",
-    "",
     "",
     ""
   ],
@@ -2025,9 +2277,11 @@ const fullData = [
     "TR",
     "TR",
     "aslan.a uč.i-n ču alčaq-tːi fac.u-naa",
+    "PN(ERG) self-GEN brother despicable-ADV hold.PF-PRF",
+    "‘Aslan despises his brother.’",
+    "",
     "PN(ERG) сам-GEN брат презренный-ADV держать.PF-PRF",
     "‘Аслан презирает своего брата.’",
-    "",
     "",
     ""
   ],
@@ -2035,15 +2289,17 @@ const fullData = [
     "Aghul",
     "get_upset",
     "огорчаться",
-    "*",
-    "*",
-    "*",
-    "*",
+    "kːan- + NEG",
+    "DAT",
+    "SUBCONT",
+    "XY",
+    "DAT_SUBCONT",
+    "aslan.a-s uč.i-n gada.ji-k-as da-kːan-x.u-ne",
+    "PN-DAT self-GEN son-SUB/CONT-ELAT NEG-love-become.PF-AOR",
+    "‘Aslan got upset with his son.’",
     "",
-    "*",
-    "*",
-    "*",
-    "Not included in the database because Y can only be expressed as an NP within a dependent clause.",
+    "PN-DAT сам-GEN сын-SUB/CONT-ELAT NEG-любить-стать.PF-AOR",
+    "‘Аслан огорчился из-за своего сына.’",
     "",
     ""
   ],
@@ -2060,6 +2316,8 @@ const fullData = [
     "*",
     "*",
     "No satisfactory translation has been obtained.",
+    "*",
+    "*",
     "",
     ""
   ],
@@ -2073,9 +2331,11 @@ const fullData = [
     "X",
     "DAT_ABS",
     "aslan.a-s meʜemed begemiš-tːi a",
+    "PN-DAT PN <like>-ADV {IN}be:PRS",
+    "‘Aslan is fond of Muhammad.’",
+    "Non-verbal predicate.",
     "PN-DAT PN <нравиться>-ADV {IN}быть:PRS",
     "‘Аслан симпатизирует Магомеду.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -2089,9 +2349,11 @@ const fullData = [
     "XY",
     "DAT_SUBCONT.ELAT",
     "aslan.a-s uč.i-n ǯiqːe-ʕʷel.i-k-as neč-tːi a",
+    "PN-DAT self-GEN short-ABSTR-SUB/CONT-ELAT shame-ADV {IN}be:PRS",
+    "‘Aslan is shy about his height.’",
+    "Non-verbal predicate.",
     "PN-DAT сам-GEN короткий-ABSTR-SUB/CONT-ELAT стыд-ADV {IN}быть:PRS",
     "‘Аслан стесняется своего маленького роста.’",
-    "Non-verbal predicate.",
     "",
     ""
   ],
@@ -2107,6 +2369,8 @@ const fullData = [
     "ali-r miar ruqχ’.u-r",
     "PN.OBL-INAN2(GEN) head[INAN2][NOM] ache.PST-PROG",
     "‘Ali has a headache.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2125,6 +2389,8 @@ const fullData = [
     "‘Ali has the flu.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2139,6 +2405,8 @@ const fullData = [
     "ali χʷe-tʃ’u sːir.i-r",
     "PN[M][NOM] dog.OBL-CONT fear.PST-PROG",
     "‘Ali fears the dog.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2157,6 +2425,8 @@ const fullData = [
     "‘Ali threw a stone.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2171,6 +2441,8 @@ const fullData = [
     "ali-ɬu orsi b-iʔ.u-mallo",
     "PN-DAT money[INAN1][NOM] INAN1-be_enough.PST-PROG",
     "‘Ali has enough money.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2189,6 +2461,8 @@ const fullData = [
     "‘Ali resembles Muhammad.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2203,6 +2477,8 @@ const fullData = [
     "ali buʒ.u-r mariam-ʔo",
     "PN[M][NOM] believe.PST-PROG PN-SUPER.LAT",
     "‘Ali believes Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2221,6 +2497,8 @@ const fullData = [
     "‘Ali took a book.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2235,6 +2513,8 @@ const fullData = [
     "pat’imati-<b>o haʔ.o-r milki",
     "PN-AFF<INAN1> see.PST-PROG house[INAN1][NOM]",
     "‘Patimat sees a house.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2253,6 +2533,8 @@ const fullData = [
     "‘With time passing, memory dies.’",
     "Not included in the dataset because the translation deviates too far from the stimulus sentence. ",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2267,6 +2549,8 @@ const fullData = [
     "ali-<w>o badi aliħadʒi w-ukː.u",
     "PN-AFF<M> forth PN[M][NOM] M-fall.PST(AOR)",
     "‘Ali met Aligaji’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2285,6 +2569,8 @@ const fullData = [
     "‘Ali entered the room.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2299,6 +2585,8 @@ const fullData = [
     "ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo",
     "PN[M][NOM] M-win.PST(AOR) chess-? PN-SUPER.LAT",
     "‘Ali won over Umar at chess.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2317,6 +2605,8 @@ const fullData = [
     "‘Ali went out of the house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2331,6 +2621,8 @@ const fullData = [
     "ali-di ziw̃ b-uqχ’.i-r alaχil-ʔo",
     "PN-ERG cow[AN][NOM] AN-push.PST-PROG pasture-SUPER.LAT",
     "‘Ali pushes the cow to the pasture.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2349,6 +2641,8 @@ const fullData = [
     "‘Patimat bent the branch.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2363,6 +2657,8 @@ const fullData = [
     "ali-di umarħadʒi-qχi rutɬ.i: “…”",
     "PN-ERG PN-INST say.PST(AOR)",
     "‘Ali said to Umagaji: “…”’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2381,6 +2677,8 @@ const fullData = [
     "‘Ali is holding a book.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2395,6 +2693,8 @@ const fullData = [
     "ali muħammadi-tʃ’u w-eχːudu w-oqχ.o-j",
     "PN[M][NOM] PN-CONT M-after M-reach.PST-PF",
     "‘Ali reached Muhammad.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2413,6 +2713,8 @@ const fullData = [
     "‘Patimat milked the cow.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2427,6 +2729,8 @@ const fullData = [
     "ali rahal-ʔo w-oqχ.o",
     "PN[M][NOM] bank.OBL-SUPER.LAT M-reach.PST(AOR)",
     "‘Ali reached the river bank.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2445,6 +2749,8 @@ const fullData = [
     "‘Ali touched the wall.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2459,6 +2765,8 @@ const fullData = [
     "ali aħmadi=lojɡu w-aχː.o-j",
     "PN[M][NOM] PN.OBL=COM M-fight.PST-PF",
     "‘Ali and Ahmad are fighting.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2477,6 +2785,8 @@ const fullData = [
     "‘Ali is friends with Qurban.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2491,6 +2801,8 @@ const fullData = [
     "ali urʁ.u-mallo umarħadʒi-ʔo",
     "PN[M][NOM] think.PST-PROG PN-SUPER.LAT",
     "‘Ali is thinking about Umargaji.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2509,6 +2821,8 @@ const fullData = [
     "‘Ali ate an apple.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2523,6 +2837,8 @@ const fullData = [
     "pat’imati-di b-eʒ.a χʷammi",
     "PN-ERG INAN1-brown.PST(AOR) fish[INAN1][NOM]",
     "‘Patimat fried a fish.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2541,6 +2857,8 @@ const fullData = [
     "‘Patimat is waiting for Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2555,6 +2873,8 @@ const fullData = [
     "ali-<b>o se-b=lo miqχ’i retʃː.o-j",
     "PN-AFF<INAN1> one-INAN1=ADD road[INAN1][NOM] forget.PST-PF",
     "‘Ali forgot about the other road.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2573,6 +2893,8 @@ const fullData = [
     "‘Memory goes away with age.’",
     "Not included in the dataset because the translation deviates too far from the stimulus sentence. ",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2587,6 +2909,8 @@ const fullData = [
     "pat’imati-di muħammad qχ’or.i",
     "PN-ERG PN[M][NOM] call.PST(AOR)",
     "‘Patimat called Muhammad.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2605,6 +2929,8 @@ const fullData = [
     "‘Patimat met Mariam a year ago.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2619,6 +2945,8 @@ const fullData = [
     "ali-<j>o ts’inn-e mariam.",
     "PN-AFF<F> know-HAB PN[F][NOM]",
     "‘Ali knows Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2637,6 +2965,8 @@ const fullData = [
     "‘Patimat is playing the guitar.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2651,6 +2981,8 @@ const fullData = [
     "ali muħammadi-tʃ’u-kːu w-utʃ’.u-mado.",
     "PN[M][NOM] PN.OBL-CONT-EL M-?.PST-PROG",
     "‘Ali is avoiding Muhammad.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2669,6 +3001,8 @@ const fullData = [
     "‘Ali made a bomb.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2683,6 +3017,8 @@ const fullData = [
     "pat’imati muħammadi-ʔa j-eɬː-o",
     "PN[F][NOM] PN-SUPER F-laugh-HAB",
     "‘Patimat is laughing at Muhammad.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2701,6 +3037,8 @@ const fullData = [
     "‘Ali has a car.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2715,6 +3053,8 @@ const fullData = [
     "pat’imati-di kusd.i-r rek’ulol.",
     "PN-ERG search.PST-PROG key[INAN2].PL[NOM]",
     "‘Patimat is looking for the key.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2733,6 +3073,8 @@ const fullData = [
     "‘Ali painted the wall.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2747,6 +3089,8 @@ const fullData = [
     "χʷedo-di qχ’amm.i-j pat’imati-ʔa.",
     "dog.OBL-ERG bite.PST-PF PN-SUPER",
     "‘The dog bit Patimat.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2765,6 +3109,8 @@ const fullData = [
     "‘Ali lost his house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2779,6 +3125,8 @@ const fullData = [
     "ali-di ɡedu b-itʃː.i-r.",
     "PN-ERG cat[AN][NOM] AN-catch.PST-PROG",
     "‘Ali is catching the cat.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2797,6 +3145,8 @@ const fullData = [
     "‘Ali broke the stick.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2811,7 +3161,9 @@ const fullData = [
     "pat’imati-di mariam j-etsːiqχ-o.",
     "PN-ERG PN[F][NOM] F-praise-HAB",
     "‘Patimat is praising Mariam.’",
-    "Not included in the dataset because this translation is semantically inaccurate.",
+    "Not included in the database because this translation is semantically inaccurate.",
+    "",
+    "",
     "",
     ""
   ],
@@ -2827,6 +3179,8 @@ const fullData = [
     "pat’imati-<j>o dʒiʔ.i-r mariam.",
     "PN-AFF<F> like.PST-PROG PN[F][NOM]",
     "‘Patimat likes Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2845,6 +3199,8 @@ const fullData = [
     "‘Patimat is waving with her shawl.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2859,6 +3215,8 @@ const fullData = [
     "ali-b aniʃːi tsiw̃ maʃina",
     "PN-INAN1(GEN) dream[INAN1][NOM] new car[INAN1][NOM]",
     "‘Ali dreams of a new car.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2877,6 +3235,8 @@ const fullData = [
     "‘Patimat washed the cup.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2891,6 +3251,8 @@ const fullData = [
     "ali-di ritɬ’.inn-ij ortʃoɡi",
     "PN-ERG put_on.PST-PF trousers[INAN1][NOM]",
     "‘Ali put on trousers.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2909,6 +3271,8 @@ const fullData = [
     "‘This thing is called a compass.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2925,6 +3289,8 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2939,6 +3305,8 @@ const fullData = [
     "sej ɬib.i-j hiʔo χʷammi b-itʃː.i-r-sːi hek’ʷaʃ-ʔo",
     "bear[AN][NOM] jump.PST-PF up.LAT fish[AN][NOM] AN-catch.PST-PROG-ATR person.OBL-SUPER.LAT",
     "‘The bear attacked the fisherman.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2957,6 +3325,8 @@ const fullData = [
     "‘The bucket has filled up with water.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -2971,6 +3341,8 @@ const fullData = [
     "pat’imati-<r>o r-osː.onn-ij rek’ulol",
     "PN-AFF<INAN2> INAN2-PL\\find.PST-PF keys[INAN2].PL[NOM]",
     "‘Patimat has found the keys.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -2989,6 +3361,8 @@ const fullData = [
     "‘Ali is missing one rouble.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3003,7 +3377,9 @@ const fullData = [
     "pat’imati-<j>o dʒiʔ.i-r-sːu mariam",
     "PN-AFF<F> like.PST-PROG-NEG PN[F][NOM]",
     "‘Patimat doesn’t like Mariam.’",
-    "Not included in the dataset because this translation is semantically inaccurate.",
+    "Not included in the database because this translation is semantically inaccurate.",
+    "",
+    "",
     "",
     ""
   ],
@@ -3021,6 +3397,8 @@ const fullData = [
     "‘Patimat likes [this] shirt.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3035,7 +3413,9 @@ const fullData = [
     "ali-ɬu orsi qχ’oroqχ’.o-j",
     "PN-DAT money want.PST-PF",
     "‘Ali wants/needs money.’",
-    "Not included in the dataset because this translation is semantically inaccurate.",
+    "Not included in the database because this translation is semantically inaccurate.",
+    "",
+    "",
     "",
     ""
   ],
@@ -3051,6 +3431,8 @@ const fullData = [
     "qχ’enada-di hinni b-iʃ-oɬ.i-j ʃahar",
     "wall.PL.OBL-ERG inside.LAT INAN1-return-CAUS.PST-PF town[INAN1][NOM]",
     "‘The walls surround the town.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3069,6 +3451,8 @@ const fullData = [
     "‘Ali has ten roubles left.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3083,6 +3467,8 @@ const fullData = [
     "ali-di utʃitelʃːu-j dʒawab itʃː.i.",
     "PN-ERG teacher.OBL-DAT answer[INAN1][NOM] give.PST(AOR)",
     "‘Ali answered the teacher.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3101,6 +3487,8 @@ const fullData = [
     "‘Patimat opened the tin.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3115,6 +3503,8 @@ const fullData = [
     "di-r ɡurdo du-r-tʃ’u b-at’a.",
     "I.OBL-INAN2(GEN) shirt[INAN2][NOM] thou.OBL-INAN2(GEN)-CONT INAN1-separate",
     "‘My shirt is different from yours.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3133,6 +3523,8 @@ const fullData = [
     "‘Patimat fell behind Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3147,6 +3539,8 @@ const fullData = [
     "ali-di b-eqχ’.i-r χur.",
     "PN-ERG INAN1-plough.PST-PROG field[INAN1][NOM]",
     "‘Ali is ploughing the field.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3165,6 +3559,8 @@ const fullData = [
     "‘My hands smell of benzine very strongly.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3179,6 +3575,8 @@ const fullData = [
     "ali-di miqχ’i buqχ’-i.",
     "PN-ERG road[INAN1][NOM] cut.PST(AOR)",
     "‘Ali crossed the road.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3197,6 +3595,8 @@ const fullData = [
     "‘Patimat sang a beautifl song.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3211,6 +3611,8 @@ const fullData = [
     "pat’imati-di qχʷar.i-j kaʁar.",
     "PN-ERG write.PST-PF lettter[INAN1][NOM]",
     "‘Patimat has written a letter.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3229,6 +3631,8 @@ const fullData = [
     "‘Ali has drunk the milk.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3243,6 +3647,8 @@ const fullData = [
     "ali-di b-uts’-oɬ.i t’uʃi.",
     "PN-ERG INAN1-melt-CAUS.PST(AOR) lead",
     "‘Ali has melt lead.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3261,6 +3667,8 @@ const fullData = [
     "‘This belt fits my dress.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3275,6 +3683,8 @@ const fullData = [
     "ali w-uʔ.onn-ij hon-ʔa-kːu.",
     "PN[M][NOM] M-go.PST-PF village-SUPER-EL",
     "‘Ali left the village.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3293,6 +3703,8 @@ const fullData = [
     "‘The carpet covers the whole floor.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3307,6 +3719,8 @@ const fullData = [
     "pat’imati-<r>o haqχ’u ʃu-r rok’or-ʔa r-iʁ.i",
     "PN-AFF<INAN2> house[INAN2][NOM] good-INAN2 heart.OBL-SUPER INAN2-stop.PST(AOR)",
     "‘Patimat remembers the house well.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3325,6 +3739,8 @@ const fullData = [
     "‘Patimat helped Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3339,6 +3755,8 @@ const fullData = [
     "he-ge-ʃːu-<b>o b-atʃ’ː.u-mado hin-gi-b-ul roʃol.",
     "DEM-LL-OBL-AFF<INAN1> INAN1-PL\\understand.PST-PROG DEM-LL-INAN1-PL[NOM] word[INAN1].PL[NOM]",
     "‘He understands these words.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3357,6 +3775,8 @@ const fullData = [
     "‘The lightning fell on the tree.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3371,6 +3791,8 @@ const fullData = [
     "ali-di buqχ’.i-j besuno-qχi.",
     "PN-ERG cut.PST-PF knife.OBL-INST",
     "‘Ali cut himself with a knife.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3389,6 +3811,8 @@ const fullData = [
     "‘The glass got stuck to the table.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3403,6 +3827,8 @@ const fullData = [
     "ali muħammadi-ʔo w-uʁ.an.",
     "PN[M][NOM] PN-SUPER.LAT M-lose.PST(AOR)",
     "‘Ali lost to Muhammad.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3421,6 +3847,8 @@ const fullData = [
     "‘Patimat rejoiced over the letter.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3435,6 +3863,8 @@ const fullData = [
     "pat’imati mariam=lojɡu j-edːo-mado.",
     "PN[F][NOM] PN=COM F-talk.PST-PROG",
     "‘Patimat is talking with Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3453,6 +3883,8 @@ const fullData = [
     "‘Mariam gave birth to a boy.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3467,6 +3899,8 @@ const fullData = [
     "pat’imati-di r-ukː-oɬ.i istakan.",
     "PN.OBL-ERG INAN2-fall-CAUS.PST(AOR) glass[INAN2][NOM]",
     "‘Patimat dropped a glass.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3485,6 +3919,8 @@ const fullData = [
     "‘Ali leads our village.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3499,6 +3935,8 @@ const fullData = [
     "mariam haluχ.onn-ij pat’imati-qχi",
     "PN[F][NOM] miss.PST-PF PN-INST",
     "‘Mariam misses Patimat.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3517,6 +3955,8 @@ const fullData = [
     "‘Ali is going after/following Muhammad.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3531,6 +3971,8 @@ const fullData = [
     "ali w-utɬ.i k’otu-ʔa-kːu hitɬ’u.",
     "PN[M][NOM] M-become.PST(AOR) horse-SUPER-EL down",
     "‘Ali got off the horse.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3549,6 +3991,8 @@ const fullData = [
     "‘Patimat is listening to the radio.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3563,6 +4007,8 @@ const fullData = [
     "ali baba-ʔo antʃː.i.",
     "PN[M][NOM] Mum-SUPER.LAT listen.PST(AOR)",
     "‘Ali obeys Mum.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3581,6 +4027,8 @@ const fullData = [
     "‘Ali hears the music.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3595,6 +4043,8 @@ const fullData = [
     "hunts’ːi ʃiw̃=lojɡu itɬu a<r>ʒ.a-j.",
     "honey[INAN2][NOM] milk=COM all mix<INAN2>.PST-PF",
     "‘The honey has blended with the milk.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3613,6 +4063,8 @@ const fullData = [
     "‘Patimat is looking at the clouds.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3627,6 +4079,8 @@ const fullData = [
     "ali-di ɡurdo r-uχ.i.",
     "PN-ERG shirt[INAN2][NOM] INAN2-take_off.PST(AOR)",
     "‘Ali took off his shirt.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3645,6 +4099,8 @@ const fullData = [
     "‘Patimat dreams of Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3659,6 +4115,8 @@ const fullData = [
     "ali mariam-ʔa razi.",
     "PN[M][NOM] PN-SUPER contented",
     "‘Ali agreed with Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3677,6 +4135,8 @@ const fullData = [
     "‘Patimat quareled with Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3691,6 +4151,8 @@ const fullData = [
     "ho-no-b kuruʃku-tɬi baha oziru=ɡu som.",
     "DEM-EMPH-INAN1 cup.OBL-GEN price[INAN1][NOM] thousand=CARD rouble",
     "‘This cup costs a thousand roubles.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3709,6 +4171,8 @@ const fullData = [
     "‘Ali shot at the bird.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3723,6 +4187,8 @@ const fullData = [
     "ali-di pisoki t’inn.i.",
     "PN-ERG sugar[INAN1][NOM] pour.PST(AOR)",
     "‘Ali poured sugar.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3741,6 +4207,8 @@ const fullData = [
     "‘Ali lost the keys.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3755,6 +4223,8 @@ const fullData = [
     "reʃa ɬen-tɬi ʁʷanqχ’.unn-ij.",
     "wood[INAN1][NOM] water-INTER sink.PST-PF",
     "‘The log sank in the water.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3773,6 +4243,8 @@ const fullData = [
     "‘Ali killed Muhammad.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3787,6 +4259,8 @@ const fullData = [
     "ali-di dʒab.i muħammadi-ʔa.",
     "PN-ERG beat.PST(AOR) PN-SUPER",
     "‘Ali hit Muhammad.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3805,6 +4279,8 @@ const fullData = [
     "‘Khadizhat kissed Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3819,6 +4295,8 @@ const fullData = [
     "pat’imati-di baʔ.i interesni χutʃa.",
     "PN-ERG read.PST(AOR) interesting book[INAN2][NOM]",
     "‘Patimat has read an interesting book.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3837,6 +4315,8 @@ const fullData = [
     "‘Ali moved his finger’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3851,6 +4331,8 @@ const fullData = [
     "pat’imati-di j-etʃ’uχa-jd.i-r mariam.",
     "PN-ERG F-big-FCT.PST-PROG PN[F][NOM]",
     "‘Patimat respects Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3869,6 +4351,8 @@ const fullData = [
     "‘Patimat is disgusted by the dirty dishes.",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3883,6 +4367,8 @@ const fullData = [
     "ali razi enʃu-w=ɡu woʃu-ʔa.",
     "PN[M][NOM] contented RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER",
     "‘Ali is pleased with his son.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3901,6 +4387,8 @@ const fullData = [
     "‘Ali fell in love with Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3915,6 +4403,8 @@ const fullData = [
     "pat’imati buʒ.u-rado mariam-ʔo.",
     "PN[F][NOM] believe.PST-PROG PN-SUPER.LAT",
     "‘Patimat trusts Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3933,6 +4423,8 @@ const fullData = [
     "‘Patimat feels sorry for her Mum.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3947,6 +4439,8 @@ const fullData = [
     "muħammadi-r rok’o qχubi-ɬ.i-j ali-ʔa.",
     "PN-INAN2(GEN) heart[INAN2][NOM] untidy-INCH.PST-PF PN-SUPER",
     "‘Muhammad envies Ali.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3965,6 +4459,8 @@ const fullData = [
     "‘Patimat is angry at Mariam.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -3979,6 +4475,8 @@ const fullData = [
     "pat’imati tamaʃa-ɬ.i he-de-b padarkal-ʔa.",
     "PN[F][NOM] amazement-INCH.PST(AOR) DEM-SL-INAN1 gift.OBL-SUPER",
     "‘Patimat was surprised by this gift.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -3997,6 +4495,8 @@ const fullData = [
     "‘Patimat likes tea.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -4011,6 +4511,8 @@ const fullData = [
     "pat’imati-di tʃa-tʃ’u-kːu t’aʔam b-iχ.i-r.",
     "PN-ERG tea.OBL-CONT-EL taste[INAN1][NOM] INAN1-take.PST-PROG",
     "‘Patimat is enjoying hot tea.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -4029,6 +4531,8 @@ const fullData = [
     "‘Patimat wants a new cellphone.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -4043,6 +4547,8 @@ const fullData = [
     "pat’imati j-iχ.onn-ij mariam-ʔa",
     "PN[F][NOM] F-be_offended.PST-PF PN-SUPER",
     "‘Patimat is cross with Mariam",
+    "",
+    "",
     "",
     "",
     ""
@@ -4061,6 +4567,8 @@ const fullData = [
     "‘Muhammad was offended by Ali.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -4075,6 +4583,8 @@ const fullData = [
     "pat’imati-di waswasil-ʔo j-ukː-oɬ.i mariam.",
     "PN-ERG doubt.OBL-SUPER.LAT F-fall-CAUS.PST(AOR) PN[F][NOM]",
     "‘Patimat upset Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -4093,6 +4603,8 @@ const fullData = [
     "‘Ali was astounded by that city.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -4107,6 +4619,8 @@ const fullData = [
     "pat’imati-di ħaqχ’ir-ijd.i-r mariam.",
     "PN-ERG humiliated-FCT.PST-PROG PN[F][NOM]",
     "‘Patimat despises Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -4125,6 +4639,8 @@ const fullData = [
     "‘Ali was upset by his son.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -4141,6 +4657,8 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -4155,6 +4673,8 @@ const fullData = [
     "pat’imati-<j>o mariam rok’or-di j-iχ.i-j.",
     "PN-AFF<F> PN[F][NOM] heart.OBL-ERG F-take.PST-PF",
     "‘Patimat is fond of Mariam.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -4173,6 +4693,8 @@ const fullData = [
     "‘Ali is ashamed by his height (lit. ‘by his shortness’).’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -4189,7 +4711,9 @@ const fullData = [
     "‘The girl has a headache.’",
     "",
     "девочка(F) голова(M)-P.3F болеть.PROG=3M",
-    "У девочки болит голова."
+    "У девочки болит голова.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4205,7 +4729,9 @@ const fullData = [
     "‘The girl has the flu.’",
     "Non-Urmi speaker.",
     "девочка(F) болеть.RES.F=3F с грипп(M)",
-    "Девочка болеет гриппом."
+    "Девочка болеет гриппом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4221,7 +4747,9 @@ const fullData = [
     "‘The boy is afraid of the dog.’",
     "",
     "мальчик(M) от собака(M) бояться.PROG=3M",
-    "Мальчик боится собаки."
+    "Мальчик боится собаки.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4237,7 +4765,9 @@ const fullData = [
     "‘The girl threw the stone.’",
     "",
     "камень(M) бросить.PST-LS.3F девочка(F)",
-    "Девочка бросила камень."
+    "Девочка бросила камень.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4253,7 +4783,9 @@ const fullData = [
     "‘Now the girl has enough money.’",
     "",
     "сейчас деньги(PL) к девочка(F) видеть.PROG=3PL",
-    "Теперь девочке хватает денег."
+    "Теперь девочке хватает денег.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4269,7 +4801,9 @@ const fullData = [
     "‘This boy resembles his grandfather.’",
     "",
     "DEM3.M мальчик(M) быть_похожим.PROG=3M на дедушка(M)-P.3M",
-    "‎Этот мальчик похож на своего дедушку."
+    "‎Этот мальчик похож на своего дедушку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4285,7 +4819,9 @@ const fullData = [
     "‘This man believes his wife.’",
     "",
     "DEM3.M человек(M) верить.PROG=3M на женщина(F)-P.3M",
-    "‎Этот человек верит своей жене."
+    "‎Этот человек верит своей жене.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4301,7 +4837,9 @@ const fullData = [
     "‘The girl took the book from the table.’",
     "",
     "девочка(F) взять.PST-LS.3F книга(M) от стол(M)",
-    "‎Девочка взяла книгу со стола."
+    "‎Девочка взяла книгу со стола.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4317,7 +4855,9 @@ const fullData = [
     "‘The girl saw the house.’",
     "",
     "девочка(F) видеть.PST-LS.3F дом(M)",
-    "Девочка увидела дом."
+    "Девочка увидела дом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4333,7 +4873,9 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "*",
-    "*"
+    "*",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4349,7 +4891,9 @@ const fullData = [
     "‘The boy ran into his neughbor.’",
     "Some speakers use preposition am.",
     "мальчик(M) встретиться.PST-LS.3M от сосед(M)",
-    "Мальчик встретился с соседом."
+    "Мальчик встретился с соседом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4365,7 +4909,9 @@ const fullData = [
     "‘The girl entered the house.’",
     "Non-Urmi speaker.",
     "девочка(F) войти.PST-LS.3F в дом(M)",
-    "Девочка вошла в дом."
+    "Девочка вошла в дом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4381,7 +4927,9 @@ const fullData = [
     "‘The girl beat her brother.’",
     "",
     "девочка(F) победить.PST-LS.3F к брат(M)-P.3F",
-    "Девочка выиграла у брата."
+    "Девочка выиграла у брата.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4397,7 +4945,9 @@ const fullData = [
     "‘The girl went out of the house.’",
     "",
     "девочка(F) уйти.PST-LS.3F от дом(M)",
-    "Девочка вышла из дома."
+    "Девочка вышла из дома.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4413,7 +4963,9 @@ const fullData = [
     "‘The girl is driving the cow to the pasture’ (lit. ‘into the herd’).",
     "Non-Urmi speaker.",
     "девочка(F) гнать.PROG=3F корова(F)-P.3F в стадо(M)",
-    "Девочка гонит корову на пастбище (букв. ‘в стадо’)."
+    "Девочка гонит корову на пастбище (букв. ‘в стадо’).",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4429,7 +4981,9 @@ const fullData = [
     "‘Ashur bent the branch.’",
     "",
     "Ашур гнуть.PST-SS(O).3PL-LS.3M ветка(M).PL=REL дерево(M)",
-    "Ашур согнул ветки дерева."
+    "Ашур согнул ветки дерева.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4445,7 +4999,9 @@ const fullData = [
     "‘Ashur told his friend: “Call me this evening.”’",
     "",
     "Ашур сказать.PST-LS.3M к друг(M)-P.3M прийти.PRS дом(M)-P.3M гость(M)",
-    "Ашур сказал другу: (\"Приходи ко мне в гости\")."
+    "Ашур сказал другу: (\"Приходи ко мне в гости\").",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4461,7 +5017,9 @@ const fullData = [
     "‘The girl is holding a book in her hands.’",
     "",
     "девочка(F) книга(M) схватить.RES.F-P.3M=3F с рука(F)-P.3F",
-    "Девочка держит книгу в руках."
+    "Девочка держит книгу в руках.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4477,7 +5035,9 @@ const fullData = [
     "‘The man caught up with his wife.’",
     "",
     "человек(M) достичь.PST-LS.3M к женщина(F)-P.3M",
-    "Человек догнал свою жену."
+    "Человек догнал свою жену.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4493,7 +5053,9 @@ const fullData = [
     "‘The woman milked the cow.’",
     "",
     "женщина(F) доить.PST-SS(O).3PL-LS.3F корова(F).PL",
-    "Женщина подоила корову."
+    "Женщина подоила корову.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4509,7 +5071,9 @@ const fullData = [
     "‘The man reached the bank.’",
     "",
     "человек(M) достичь.RES.M=3M на суша(M)",
-    "Человек достиг берега."
+    "Человек достиг берега.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4525,7 +5089,9 @@ const fullData = [
     "‘The boy touched the wall.’",
     "",
     "мальчик(M) стучать.PST-LS.3M с стена(M)",
-    "Мальчик дотронулся до стены."
+    "Мальчик дотронулся до стены.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4541,7 +5107,9 @@ const fullData = [
     "‘Ashur is fighting wis his neighbor.’",
     "Some speakers use preposition am.",
     "Ашур драться.PROG=3M от сосед(M)-P.3M",
-    "Ашур дерется с соседом."
+    "Ашур дерется с соседом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4557,7 +5125,9 @@ const fullData = [
     "‘The boy is friends with his neighbor.’",
     "Some speakers use preposition am.",
     "мальчик(M) дружба(F) делать.PROG=3M от сосед(M)-P.3M",
-    "Мальчик дружит со своим соседом."
+    "Мальчик дружит со своим соседом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4573,7 +5143,9 @@ const fullData = [
     "‘The man is thinking about his wife.’",
     "",
     "человек(M) думать.PROG=3M за женщина(F)-P.3M",
-    "Человек думает о своей жене."
+    "Человек думает о своей жене.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4589,7 +5161,9 @@ const fullData = [
     "‘The boy ate an apple.’",
     "",
     "мальчик(M) есть.PST-LS.3M яблоко(M)",
-    "Мальчик съел яблоко."
+    "Мальчик съел яблоко.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4605,7 +5179,9 @@ const fullData = [
     "‘The oldman fried the fish.’",
     "",
     "старый.M жарить.PST-LS.3M рыба(F)",
-    "Старик пожарил рыбу."
+    "Старик пожарил рыбу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4621,7 +5197,9 @@ const fullData = [
     "‘The boy is waiting for his neighbor.’",
     "",
     "мальчик(M) ждать.PROG=3M на сосед(M)-P.3M",
-    "‎Мальчик ждет соседа."
+    "‎Мальчик ждет соседа.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4637,7 +5215,9 @@ const fullData = [
     "‘The boy forgot about the other road.’",
     "",
     "мальчик(M) забыть.RES.M-P.3F=3M короткий.F дорога(F)",
-    "‎Мальчик забыл о короткой дороге."
+    "‎Мальчик забыл о короткой дороге.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4653,7 +5233,9 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "‎*",
-    "*"
+    "*",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4669,7 +5251,9 @@ const fullData = [
     "‘The man called his wife.’",
     "",
     "человек(M) звать.PST-SS.3F-LS.3M женщина(F)-P.3M",
-    "‎Человек позвал жену."
+    "‎Человек позвал жену.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4685,7 +5269,9 @@ const fullData = [
     "‘Ashur got to know his wife two years ago.’",
     "Non-Urmi speaker. +yahə is a dialect variant of the verb stem +yaṭṭə.",
     "Ашур PRF-знать.PRS-LS.3F женщина(F)-P.3M два год(F).PL перед сейчас",
-    "Ашур познакомился со своей женой два года тому назад."
+    "Ашур познакомился со своей женой два года тому назад.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4701,7 +5287,9 @@ const fullData = [
     "‘Ashur knows his neighbor.’",
     "Non-Urmi speaker.",
     "Ашур знать.PROG=3M сосед(M)-P.3M",
-    "‎Ашур знает своего соседа."
+    "‎Ашур знает своего соседа.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4717,7 +5305,9 @@ const fullData = [
     "‘Ashur is playing the zurna.’",
     "Non-Urmi speaker.",
     "Ашур играть.PROG=3M на зурна(?)",
-    "‎Ашур играет на зурне."
+    "‎Ашур играет на зурне.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4733,7 +5323,9 @@ const fullData = [
     "‘Ashur avoids his neighbor’ (lit. ‘hides himself from his neighbor’).",
     "",
     "Ашур REFL(F)-P.3M прятать.PROG-P.3F=3M от сосед(M)-P.3M",
-    "Ашур избегает своего соседа (букв. ‘прячется от своего соседа’)."
+    "Ашур избегает своего соседа (букв. ‘прячется от своего соседа’).",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4749,7 +5341,9 @@ const fullData = [
     "‘Ashur made a chair.’",
     "Non-Urmi speaker.",
     "Ашур строить.PST-LS.3M стул(M)",
-    "‎Ашур сделал стул."
+    "‎Ашур сделал стул.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4765,7 +5359,9 @@ const fullData = [
     "‘Ashur will make fun of his neighbor.’",
     "Non-Urmi speaker. The actual form of the verb stem in the example is [ɟaxət], most likely a dialect realization of gaxəc.",
     "Ашур смеяться.PRS с сосед(M)-P.3M",
-    "‎Ашур будет издеваться над соседом."
+    "‎Ашур будет издеваться над соседом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4781,7 +5377,9 @@ const fullData = [
     "‘Ashur has a car.’",
     "",
     "Ашур EXI-LS.3M машина(F)",
-    "‎У Ашура есть машина."
+    "‎У Ашура есть машина.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4797,7 +5395,9 @@ const fullData = [
     "‘The woman is looking for her keys.’",
     "",
     "женщина(F) искать.PROG=3F за ключ(M).PL",
-    "Женщина ищет ключи."
+    "Женщина ищет ключи.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4813,7 +5413,9 @@ const fullData = [
     "‘The oldman painted the walls.’",
     "",
     "старый.M ударить.PST-SS(O).3PL-LS.3M цвет(M) стена(M).PL",
-    "‎Старик покрасил стены."
+    "‎Старик покрасил стены.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4829,7 +5431,9 @@ const fullData = [
     "‘A dog bit the girl.’",
     "",
     "девочка(F) собака(M) кусать.PST-P.3F=3M",
-    "‎Собака укусила девочку."
+    "‎Собака укусила девочку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4845,7 +5449,9 @@ const fullData = [
     "‘The oldman lost his house.’",
     "",
     "старый.M остаться.PST-LS.3M NEG с дом(M)-P.3M",
-    "‎Старик остался без дома."
+    "‎Старик остался без дома.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4861,7 +5467,9 @@ const fullData = [
     "‘The girl is trying to catch the cat.’",
     "",
     "девочка(F) схватить.PROG-P.3F=3F кот(F)",
-    "‎Девочка ловит кошку."
+    "‎Девочка ловит кошку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4877,7 +5485,9 @@ const fullData = [
     "‘The boy broke a stick.’",
     "",
     "мальчик(M) дерево(M) сломать(ся).PST-LS.3M",
-    "‎Мальчик сломал палку."
+    "‎Мальчик сломал палку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4893,7 +5503,9 @@ const fullData = [
     "‘The boy is flattering this girl.’",
     "Non-Urmi speaker.",
     "мальчик(M) ударить.PROG=3M масло(M) к OBL-DEM4.F девочка(F)",
-    "‎Парень льстит этой девочке."
+    "‎Парень льстит этой девочке.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4909,7 +5521,9 @@ const fullData = [
     "‘Husband loves his wife.’",
     "Non-Urmi speaker. +bəbah is a dialect variant of the progressive stem (+byay in the Urmi dialect).",
     "мужчина(M)-P.3F любить.PROG-P.3F=3M женщина(F)-P.3M",
-    "‎Муж любит свою жену."
+    "‎Муж любит свою жену.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4925,7 +5539,9 @@ const fullData = [
     "‘The girl is waving a handkerchief.’",
     "",
     "девочка(F) трясти.PROG-P.3F=3F платок(F) с рука(F)-P.3F",
-    "‎Девочка машет платком."
+    "‎Девочка машет платком.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4941,7 +5557,9 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "‎*",
-    "*"
+    "*",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4957,7 +5575,9 @@ const fullData = [
     "‘The woman washed the glass.’",
     "",
     "женщина(F) мыть.PST-LS.3F стакан(M)",
-    "‎Женщина вымыла стакан."
+    "‎Женщина вымыла стакан.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4973,7 +5593,9 @@ const fullData = [
     "‘The boy put on his trousers.’",
     "",
     "мальчик(M) надеть.PST-LS.3M штаны(M)",
-    "‎Мальчик надел штаны."
+    "‎Мальчик надел штаны.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -4989,7 +5611,9 @@ const fullData = [
     "‘This thing is called a compass.’",
     "Non-Urmi speaker. Non-verbal predicate, avə is 'to be'.",
     "DEM2.M вещь(M) имя(M)-P.3M компас(?)=3M",
-    "‎Этот предмет называется компас."
+    "‎Этот предмет называется компас.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5005,7 +5629,9 @@ const fullData = [
     "‘The woman punished her daughter.’",
     "Non-Urmi speaker.",
     "женщина(F) ругать.PST-LS.3F к девочка(F)-P.3F",
-    "‎Женщина наказала свою дочь."
+    "‎Женщина наказала свою дочь.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5021,7 +5647,9 @@ const fullData = [
     "‘A bear attacked a man.’",
     "Non-Urmi speaker.",
     "медведь(F) падать.PST-LS.3F на OBL-DEM4.M человек(M)",
-    "‎Медведь напал на человека."
+    "‎Медведь напал на человека.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5037,7 +5665,9 @@ const fullData = [
     "‘The bucket filled with water.’",
     "",
     "ведро(M) наполнить(ся).PST-LS.3M вода(PL)",
-    "‎Ведро наполнилось водой."
+    "‎Ведро наполнилось водой.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5053,7 +5683,9 @@ const fullData = [
     "‘The boy found the keys.’",
     "",
     "мальчик(M) найти.PST-SS(O).3PL-LS.3M ключ(M).PL",
-    "‎Мальчик нашел ключи."
+    "‎Мальчик нашел ключи.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5069,7 +5701,9 @@ const fullData = [
     "‘Ashur lacks the money to buy a ticket.’",
     "",
     "к Ашур NEG видеть.PST-LS.3PL деньги(PL) купить.PRS билет(?)",
-    "Ашуру не хватает денег, чтобы купить билет."
+    "Ашуру не хватает денег, чтобы купить билет.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5085,7 +5719,9 @@ const fullData = [
     "‘Ashur hates his neighbor.’",
     "",
     "REL Ашур сердце(M)-P.3M раскалываться.PROG=3M от сосед(M)-P.3M",
-    "Ашур ненавидит своего соседа."
+    "Ашур ненавидит своего соседа.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5101,7 +5737,9 @@ const fullData = [
     "‘Ashur likes this shirt.’",
     "",
     "Ашур счастье(F)-P.3M прийти.PROG=3F от OBL-DEM1.SG рубашка(F)",
-    "Ашуру нравится эта рубашка."
+    "Ашуру нравится эта рубашка.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5117,7 +5755,9 @@ const fullData = [
     "‘This woman needs money.’",
     "Non-Urmi speaker. Non-verbal predicate.",
     "к DEM2.F женщина(F) необходимый=3PL деньги(PL)",
-    "‎Этой женщине нужны деньги."
+    "‎Этой женщине нужны деньги.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5133,7 +5773,9 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "*",
-    "*"
+    "*",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5149,7 +5791,9 @@ const fullData = [
     "‘The boy has 100 hundred roubles left.’",
     "Non-Urmi speaker.",
     "у мальчик(M) маленький.M остаться.PST-LS.3M сто рубль(M) деньги(PL)",
-    "У мальчика осталось 100 рублей."
+    "У мальчика осталось 100 рублей.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5165,7 +5809,9 @@ const fullData = [
     "‘The boy answered the teacher.’",
     "",
     "мальчик(M) дать.PST-LS.3M ответ(M) к учитель(M)",
-    "Мальчик ответил учителю."
+    "Мальчик ответил учителю.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5181,7 +5827,9 @@ const fullData = [
     "‘The girl opened a can.’",
     "",
     "девочка(F) открыть.PST-LS.3F банка(?)",
-    "‎Девочка открыла банку."
+    "‎Девочка открыла банку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5197,7 +5845,9 @@ const fullData = [
     "‘My shirt is different from yours.’",
     "",
     "рубашка(F) OBL.PRON.1SG разделить(ся).PROG=3F от OBL-DEM4.F OBL.PRON-P.2M",
-    "Моя рубашка отличается от твоей."
+    "Моя рубашка отличается от твоей.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5213,7 +5863,9 @@ const fullData = [
     "‘The man fell behind the woman.’",
     "",
     "мужчина(M) остаться.PST-LS.3M сзади от женщина(F)",
-    "‎Мужчина отстал от женщины."
+    "‎Мужчина отстал от женщины.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5229,7 +5881,9 @@ const fullData = [
     "‘The oldman is ploughing the field.’",
     "",
     "старый.M пахать.PROG-P.3F=3M поле(F)",
-    "‎Старик пашет поле."
+    "‎Старик пашет поле.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5245,7 +5899,9 @@ const fullData = [
     "‘My hands smell of gasoline.’",
     "Not included in the database because Y is expressed as an NP-internal modifier.",
     "от рука(F)-P.1SG запах(M)=REL нефть(M) прийти.PROG=3M",
-    "‎Мои руки пахнут бензином."
+    "‎Мои руки пахнут бензином.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5261,7 +5917,9 @@ const fullData = [
     "‘The oldman crossed the road.’",
     "Non-Urmi speaker.",
     "старый.M дорога(F) войти.PST-SS.3F-LS.3M",
-    "‎Старик пересек дорогу."
+    "‎Старик пересек дорогу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5277,7 +5935,9 @@ const fullData = [
     "‘The boy sang this song.’",
     "Non-Urmi speaker.",
     "один мальчик(M) петь.PST-LS.3M OBL-DEM1.SG песня(F)",
-    "‎Мальчик спел эту песню."
+    "‎Мальчик спел эту песню.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5293,7 +5953,9 @@ const fullData = [
     "‘The boy wrote a letter.’",
     "Non-Urmi speaker.",
     "один мальчик(M) писать.PST-LS.3M один книга(M) к друг(M)-P.3M",
-    "Мальчик написал письмо."
+    "Мальчик написал письмо.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5309,7 +5971,9 @@ const fullData = [
     "‘The girl drank the milk.’",
     "",
     "девочка(F) пить.PST-LS.3F молоко(M)",
-    "‎Девочка выпила молоко."
+    "‎Девочка выпила молоко.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5325,7 +5989,9 @@ const fullData = [
     "‘The boy melted the iron.’",
     "",
     "мальчик(M) плавить.PST-LS.3M железо(M)",
-    "‎Мальчик расплавил железо."
+    "‎Мальчик расплавил железо.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5341,7 +6007,9 @@ const fullData = [
     "‘This belt matches my dress.’",
     "",
     "DEM1.SG пояс(M) подходить.PROG=3M к платье(F)-P.1SG",
-    "‎Этот пояс подходит к моему платью."
+    "‎Этот пояс подходит к моему платью.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5357,7 +6025,9 @@ const fullData = [
     "‘Ashur left his native village.’",
     "",
     "Ашур идти.PST-LS.3M от деревня(F)=REL REFL(F)-P.3M",
-    "‎Ашур покинул родную деревню."
+    "‎Ашур покинул родную деревню.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5373,7 +6043,9 @@ const fullData = [
     "‘The carpet covers the whole table.’",
     "Non-Urmi speaker.",
     "ковер(F) покрывать.PST-LS.3F к все стол(M)",
-    "‎Ковер покрывает весь стол."
+    "‎Ковер покрывает весь стол.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5389,7 +6061,9 @@ const fullData = [
     "‘The oldman remembers his house well.’",
     "Non-Urmi speaker.",
     "старый.M хороший помнить.PROG=3M дом(M)=REL REFL(F)-P.3M",
-    "Старик хорошо помнит свой дом."
+    "Старик хорошо помнит свой дом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5405,7 +6079,9 @@ const fullData = [
     "‘Ashur helped his friend.’",
     "",
     "Ашур помощь(F) делать.PST-LS.3M к друг(M)-P.3M",
-    "‎Ашур помог другу."
+    "‎Ашур помог другу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5421,7 +6097,9 @@ const fullData = [
     "‘My son understands the Assyrian language.’",
     "",
     "сын(M)-P.1SG понимать.PROG=3M язык(M)=REL ассириец.PL",
-    "‎Мой сын понимает ассирийский язык"
+    "‎Мой сын понимает ассирийский язык",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5437,7 +6115,9 @@ const fullData = [
     "‘Lightning hit the house.’",
     "Non-Urmi speaker.",
     "молния(M) ударить.PST-LS.3M в дом(M)",
-    "‎Молния попала в дом."
+    "‎Молния попала в дом.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5453,7 +6133,9 @@ const fullData = [
     "‘The boy cut himself with a razor.’",
     "",
     "мальчик(M) REFL(F)-P.3M резать.PST-SS.3F-LS.3M с бритва(F)",
-    "‎Мальчик порезался бритвой."
+    "‎Мальчик порезался бритвой.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5469,7 +6151,9 @@ const fullData = [
     "‘The glass got stuck to the table.’",
     "",
     "стакан(M) прилипнуть.RES.M=3M на стол(M)",
-    "‎Стакан прилип к столу."
+    "‎Стакан прилип к столу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5485,7 +6169,9 @@ const fullData = [
     "‘Ashur lost to his brother.’",
     "",
     "Ашур проиграть.PST-LS.3M к брат(M)-P.3M",
-    "‎Ашур проиграл брату."
+    "‎Ашур проиграл брату.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5501,7 +6187,9 @@ const fullData = [
     "‘The girl was glad about the letter.’",
     "",
     "девочка(F) радоваться.PST-LS.3F с письмо(M)",
-    "‎The girl was glad about the letter."
+    "‎The girl was glad about the letter.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5517,7 +6205,9 @@ const fullData = [
     "‘This oldman is speaking with a girl.’",
     "Some speakers use preposition am.",
     "DEM3.M старый.M говорить.PROG=3M от девочка(F)-P.3M",
-    "‎Этот старик разговаривает с девочкой."
+    "‎Этот старик разговаривает с девочкой.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5533,7 +6223,9 @@ const fullData = [
     "‘My sister gave birth to a son.’",
     "Non-Urmi speaker.",
     "сестра(F)-P.1SG создавать.PST-LS.3F сын(M)",
-    "‎Моя сестра родила сына."
+    "‎Моя сестра родила сына.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5549,7 +6241,9 @@ const fullData = [
     "‘The woman dropped the glass.’",
     "",
     "женщина(F)-P.3M ронять.PST-LS.3F стакан(M)",
-    "‎Женщина уронила стакан."
+    "‎Женщина уронила стакан.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5565,7 +6259,9 @@ const fullData = [
     "‘This man runs our village.’",
     "Non-verbal predicate, avə is 'to be'.",
     "DEM3.M человек(M) большой=REL деревня(F)=3M",
-    "‎Этот человек руководит деревней."
+    "‎Этот человек руководит деревней.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5581,7 +6277,9 @@ const fullData = [
     "‘This man misses his wife.’",
     "",
     "мужчина(M) скучать.PROG=3M за женщина(F)-P.3M",
-    "‎Мужчина скучает по своей жене."
+    "‎Мужчина скучает по своей жене.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5597,7 +6295,9 @@ const fullData = [
     "‘This woman follows her husband.’",
     "",
     "DEM2.F женщина(F) идти.PROG=3F за мужчина(M)-P.3F",
-    "‎Эта женщина идет за своим мужем."
+    "‎Эта женщина идет за своим мужем.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5613,7 +6313,9 @@ const fullData = [
     "‘This man got down from the horse.’",
     "",
     "DEM3.M человек(M) спускаться.PST-LS.3M от лошадь(M)",
-    "‎Этот человек слез с лошади."
+    "‎Этот человек слез с лошади.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5629,7 +6331,9 @@ const fullData = [
     "‘My daughter is listening to radio.’",
     "",
     "девочка(F)-P.1SG слышать.PROG=3F радио(?)",
-    "‎Моя дочка слушает радио."
+    "‎Моя дочка слушает радио.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5645,7 +6349,9 @@ const fullData = [
     "‘This boy obeys his mother.’",
     "",
     "мальчик(M) слышать.PROG=3M к учительница(F)-P.3M",
-    "‎Этот мальчик слушается учительницу."
+    "‎Этот мальчик слушается учительницу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5661,7 +6367,9 @@ const fullData = [
     "‘My friend hears the song.’",
     "",
     "друг(M)-P.1SG слышать.PROG=3M песня(F)",
-    "‎Мой друг слышит песню."
+    "‎Мой друг слышит песню.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5677,7 +6385,9 @@ const fullData = [
     "‘The honey got mixed with the milk.’",
     "Some speakers use preposition am.",
     "мед(M) смешивать(ся).PST-LS.3M с молоко(M)",
-    "‎Мед смешался с молоком."
+    "‎Мед смешался с молоком.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5693,7 +6403,9 @@ const fullData = [
     "‘The boy is looking at the clouds.’",
     "",
     "мальчик(M) наблюдать.PROG=3M на облако(F).PL черный.PL",
-    "‎Мальчик смотрит на черные тучи."
+    "‎Мальчик смотрит на черные тучи.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5709,7 +6421,9 @@ const fullData = [
     "‘The girl took off her dress.’",
     "Non-Urmi speaker.",
     "девочка(F) PRF-раздеться.PRS-SS.3F-LS.3F платье(F)-P.3F",
-    "‎Девочка сняла платье."
+    "‎Девочка сняла платье.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5725,7 +6439,9 @@ const fullData = [
     "‘This guy dreams about his wife.’",
     "",
     "DEM3.M мальчик(M) с сон(M)-P.3M видеть.PST-SS.3F-LS.3M женщина(F)-P.3M",
-    "Этому парню снится его жена."
+    "Этому парню снится его жена.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5741,7 +6457,9 @@ const fullData = [
     "‘Lit. ‘Her husband agreed with the woman.’’",
     "Non-verbal predicate, avə is 'to be'. Some speakers use preposition am.",
     "мужчина(M)-P.3F согласный быть.PST-LS.3M от женщина(F)",
-    "‎Муж согласился с женой."
+    "‎Муж согласился с женой.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5757,7 +6475,9 @@ const fullData = [
     "‘This man had a quarrel with his wife.’",
     "Some speakers use preposition am.",
     "человек(M) ссориться.RES.M=3M от женщина(F)-P.3M",
-    "‎Этот человек поссорился с женой."
+    "‎Этот человек поссорился с женой.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5773,7 +6493,9 @@ const fullData = [
     "‘This shirt costs one hundred roubles.’",
     "",
     "рубашка(F) стоить.PRS-SS.3F сто рубль(M)",
-    "‎Эта рубашка стоит сто рублей."
+    "‎Эта рубашка стоит сто рублей.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5789,7 +6511,9 @@ const fullData = [
     "‘The oldman shot at the bird.’",
     "",
     "старый.M стрелять.PST-LS.3M в птичка(F)",
-    "‎Старик выстрелил в птицу."
+    "‎Старик выстрелил в птицу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5805,7 +6529,9 @@ const fullData = [
     "‘The woman poured the sugar into the cup.’",
     "Non-Urmi speaker.",
     "женщина(F) лить.PST-LS.3F сахар(M) в миска(M)",
-    "‎Женщина насыпала сахар в чашку."
+    "‎Женщина насыпала сахар в чашку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5821,7 +6547,9 @@ const fullData = [
     "‘The girl lost her keys.’",
     "",
     "девочка(F) ключ(M).PL потерять.PST-SS(O).3PL-LS.3F",
-    "‎Девочка потеряла ключи."
+    "‎Девочка потеряла ключи.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5837,7 +6565,9 @@ const fullData = [
     "‘The log sank in water.’",
     "",
     "дерево(M) тонуть.PST-LS.3M в вода(PL)",
-    "Полено утонуло в воде."
+    "Полено утонуло в воде.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5853,7 +6583,9 @@ const fullData = [
     "‘The neighbor (he) killed his neighbor (her).’",
     "",
     "сосед(M) соседка(F)-P.3M убить.PST-SS.3F-LS.3M",
-    "Сосед убил соседку."
+    "Сосед убил соседку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5869,7 +6601,9 @@ const fullData = [
     "‘The woman hit her neighbor.’",
     "",
     "женщина(F) ударить.PST-SS.3F-LS.3F соседка(F)-P.3F",
-    "‎Женщина ударила соседку."
+    "‎Женщина ударила соседку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5885,7 +6619,9 @@ const fullData = [
     "‘The boy kissed the girl.’",
     "",
     "мальчик(M) целовать-SS.3F-LS.3M девочка(F)",
-    "‎Парень поцеловал девушку."
+    "‎Парень поцеловал девушку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5901,7 +6637,9 @@ const fullData = [
     "‘The girl read a good book.’",
     "",
     "девочка(F) читать.PST-LS.3F хороший книга(M)",
-    "‎Девочка прочитала хорошую книгу."
+    "‎Девочка прочитала хорошую книгу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5917,7 +6655,9 @@ const fullData = [
     "‘The girl moved her finger.’",
     "",
     "девочка(F) двигать.PST-SS(O).3PL-LS.3F палец(F).PL-P.3F",
-    "‎Девочка пошевелила пальцами."
+    "‎Девочка пошевелила пальцами.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5933,7 +6673,9 @@ const fullData = [
     "‘Ashur respects his neighbor.’",
     "",
     "Ашур любить.PROG-P.3M=3M сосед(M)-P.3M",
-    "‎Ашур уважает своего соседа."
+    "‎Ашур уважает своего соседа.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5949,7 +6691,9 @@ const fullData = [
     "‘My sister is squeamish about dirty dishes.’",
     "",
     "сестра(F)-P.1SG OBL.PRON.1SG брезговать.PROG=3F от грязный.PL миска(M).PL ложка(M).PL",
-    "Моя сестра брезгует грязной посудой."
+    "Моя сестра брезгует грязной посудой.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5965,7 +6709,9 @@ const fullData = [
     "‘Ashur is content with his son.’",
     "Non-verbal predicate, avə is 'to be'.",
     "Ашур согласный=3M с сын(M)-P.3M",
-    "‎Ашур доволен своим сыном."
+    "‎Ашур доволен своим сыном.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5981,7 +6727,9 @@ const fullData = [
     "‘Ashur fell in love with his neighbor.’",
     "",
     "Ашур счастье(F)-P.3M прийти.PROG=3F от соседка(F)-P.3M",
-    "‎Ашур влюбился в соседку."
+    "‎Ашур влюбился в соседку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -5997,7 +6745,9 @@ const fullData = [
     "‘This man trusts his wife.’",
     "Non-verbal predicate, avə is 'to be'. +ərxay is a dialect realization of +arxayən.",
     "DEM3.M человек(M) надежный=3M с женщина(F)-P.3M",
-    "‎Этот человек доверяет своей жене."
+    "‎Этот человек доверяет своей жене.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6013,7 +6763,9 @@ const fullData = [
     "‘This man sympathizes with his mother.’",
     "",
     "DEM1.SG человек(M) грех(F)=REL мать(F)-P.3M прийти.PROG=3F",
-    "‎Этот человек жалеет свою мать."
+    "‎Этот человек жалеет свою мать.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6029,7 +6781,9 @@ const fullData = [
     "‘Ashur envies his neighbor.’",
     "",
     "Ашур завидовать.PROG=3M с сосед(M)-P.3M",
-    "‎Ашур завидует своему соседу."
+    "‎Ашур завидует своему соседу.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6045,7 +6799,9 @@ const fullData = [
     "‘Ashur is angry with his wife.’",
     "",
     "Ашур сердиться.PROG=3M на женщина(F)-P.3M",
-    "‎Ашур злится на свою жену."
+    "‎Ашур злится на свою жену.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6061,7 +6817,9 @@ const fullData = [
     "‘I was surprised at this gift.’",
     "pəštaš is a dialect realization of pašcaš or pəšcaš.",
     "я удивляться.PST-LS.1SG с OBL-DEM1.SG подарок(F)",
-    "‎Я удивился этому подарку."
+    "‎Я удивился этому подарку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6077,7 +6835,9 @@ const fullData = [
     "‘This woman loves tea.’",
     "",
     "DEM3.F женщина(F) счастье(F)-P.3F прийти.PROG=3F от чай(M)",
-    "Эта женщина любит чай."
+    "Эта женщина любит чай.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6093,7 +6853,9 @@ const fullData = [
     "‘The boy enjoys tea.’",
     "Non-Urmi speaker. ceyp is a dialect realization of cep.",
     "мальчик(M) делать.PROG=3M удовольствие(F)-P.3M с чай(M)",
-    "‎Парень наслаждается чаем."
+    "‎Парень наслаждается чаем.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6109,7 +6871,9 @@ const fullData = [
     "‘The girl wants a new phone.’",
     "",
     "девочка(F) хотеть.PROG=3F новый телефон(?)",
-    "‎Девочка хочет новый телефон."
+    "‎Девочка хочет новый телефон.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6125,7 +6889,9 @@ const fullData = [
     "‘Ashur has a grudge against his wife.’",
     "",
     "Ашур сердиться.PROG=3M на женщина(F)-P.3M",
-    "‎Ашур сердится на свою жену."
+    "‎Ашур сердится на свою жену.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6141,7 +6907,9 @@ const fullData = [
     "‘My brother got cross with his wife.’",
     "ceyp is a dialect realization of cep.",
     "брат(M)-P.1SG удовольствие(F)-P.3M остаться.RES.F=3F от женщина(F)-P.3M",
-    "Мой брат обиделся на свою жену."
+    "Мой брат обиделся на свою жену.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6157,7 +6925,9 @@ const fullData = [
     "‘This man greatly upset his wife.’",
     "",
     "DEM1.SG человек(M) много сердце(M)=REL женщина(F)-P.3M оставлять.PST-LS.3M",
-    "Этот человек очень огорчил свою жену."
+    "Этот человек очень огорчил свою жену.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6173,7 +6943,9 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "*",
-    "*"
+    "*",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6189,7 +6961,9 @@ const fullData = [
     "‘Ashur despises his neighbor.’",
     "",
     "Ашур глаз(F).PL-P.3M уйти.PROG=3PL от сосед(M)-P.3M",
-    "‎Ашур презирает своего соседа."
+    "‎Ашур презирает своего соседа.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6205,7 +6979,9 @@ const fullData = [
     "‘Ashur got upset with his son.’",
     "",
     "сердце(M)=REL Ашур оставлять.PST-LS.3M от сын(M)-P.3M",
-    "‎Ашур огорчился из-за сына."
+    "‎Ашур огорчился из-за сына.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6221,7 +6997,9 @@ const fullData = [
     "‘The oldman is irritated with his daughter.’",
     "",
     "сердце(M)=REL старый.M быть_безумным.PST-LS.3M от внучка(F)",
-    "Старик огорчился из-за внучки."
+    "Старик огорчился из-за внучки.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6237,7 +7015,9 @@ const fullData = [
     "‘I am fond of this person.’",
     "",
     "DEM1.SG человек(M) очень в сердце(M)-P.1SG войти.RES.M=3M",
-    "‎Я очень симпатизирую этому человеку."
+    "‎Я очень симпатизирую этому человеку.",
+    "",
+    ""
   ],
   [
     "Assyrian Neo-Aramaic",
@@ -6253,7 +7033,9 @@ const fullData = [
     "‘This boy is shy about his height.’",
     "",
     "DEM3.M мальчик(M) стыдиться.PROG=3M от OBL-DEM1.SG размер(M)-P.3M",
-    "Этот парень стесняется своего роста."
+    "Этот парень стесняется своего роста.",
+    "",
+    ""
   ],
   [
     "Modern Hebrew",
@@ -6269,6 +7051,8 @@ const fullData = [
     "‘P. has a headache.’",
     "Not included in the dataset because Y is expressed as an NP-internal modifier.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6283,6 +7067,8 @@ const fullData = [
     "le Pinχas jeʃ ʃapaat",
     "to Pinchas there.is[PRS] flu",
     "‘P. has flu.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6301,6 +7087,8 @@ const fullData = [
     "‘P. is afraid of the dog.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6315,6 +7103,8 @@ const fullData = [
     "Pinχas zarak even",
     "Pinchas throw[PST.3SG.M] stone",
     "‘P. threw a stone.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6333,6 +7123,8 @@ const fullData = [
     "‘Now P. has enough money.’",
     "Not included in the dataset because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6347,6 +7139,8 @@ const fullData = [
     "Pinχas dome le Menaχem",
     "Pinchas similar to Menachem",
     "‘P. resembles M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6365,6 +7159,8 @@ const fullData = [
     "‘P. believes M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6379,6 +7175,8 @@ const fullData = [
     "Pinχas lakaχ sefer",
     "Pinchas take[PST.3SG.M] book",
     "‘P. took a book.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6397,6 +7195,8 @@ const fullData = [
     "‘P. sees a house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6411,6 +7211,8 @@ const fullData = [
     "gil maʃpia al ha zikaron",
     "age influence[PTCP.SG.M] on DEF memory",
     "‘Age influences memory.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6429,6 +7231,8 @@ const fullData = [
     "‘P. encountered M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6443,6 +7247,8 @@ const fullData = [
     "Pinχas niχnas el ha bajt",
     "Pinchas enter[PST.3SG.M] towards DEF house",
     "‘P. entered the house.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6461,6 +7267,8 @@ const fullData = [
     "‘P. beat M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6475,6 +7283,8 @@ const fullData = [
     "Pinχas jatsa me ha bajt",
     "Pinchas exit[PST.3SG.M] from DEF house",
     "‘P. went out of the house.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6493,6 +7303,8 @@ const fullData = [
     "‘P. is driving the cow.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6507,6 +7319,8 @@ const fullData = [
     "Pinχas kofef et ha anaf",
     "Pinchas bend[PST.3SG.M] DO DEF branch",
     "‘P. bent the branch.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6525,6 +7339,8 @@ const fullData = [
     "‘P. told Menachem.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6539,6 +7355,8 @@ const fullData = [
     "Pinχas maχzik sefer",
     "Pinchas hold[PTCP.SG.M] book",
     "‘P. is holding a book.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6557,6 +7375,8 @@ const fullData = [
     "‘P. caught up with M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6571,6 +7391,8 @@ const fullData = [
     "Pinχas χalav et ha para",
     "Pinchas milk[PST.3SG.M] DO DEF cow",
     "‘P. milked the cow.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6589,6 +7411,8 @@ const fullData = [
     "‘P. reached the bank.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6603,6 +7427,8 @@ const fullData = [
     "Pinχas naga ba kir",
     "Pinchas touch[PST.3SG.M] in+DEF wall",
     "‘P. touched the wall.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6621,6 +7447,8 @@ const fullData = [
     "‘P. is fighting with M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6637,6 +7465,8 @@ const fullData = [
     "‘P. is friends with M.’",
     "Not included in the dataset because Y is expressed as an NP-internal modifier.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6651,6 +7481,8 @@ const fullData = [
     "Pinχas hoʃev al Menaχem",
     "Pinchas think[PTCP.SG.M] on Menachem",
     "‘P. is thinking about M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6669,6 +7501,8 @@ const fullData = [
     "‘P. ate an apple.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6683,6 +7517,8 @@ const fullData = [
     "Pinχas tigen et ha dag",
     "Pinchas fry[PST.3SG.M] DO DEF fish",
     "‘P. fried the fish.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6701,6 +7537,8 @@ const fullData = [
     "‘P. is waiting for M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6715,6 +7553,8 @@ const fullData = [
     "Pinχas ʃaχaχ et ha dereχ ha aχeret",
     "Pinchas forget[PST.3SG.M] DO DEF road DEF other",
     "‘P. forgot (about) the other road.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6733,6 +7573,8 @@ const fullData = [
     "‘Memory depends on age.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6747,6 +7589,8 @@ const fullData = [
     "Pinχas hitkaʃer le Menaχem",
     "Pinchas call[PST.3SG.M] to Menachem",
     "‘P. called M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6765,6 +7609,8 @@ const fullData = [
     "‘P. got to know M. a year ago.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6779,6 +7625,8 @@ const fullData = [
     "Pinχas makir et Menaχem",
     "Pinchas know[PTCP.SG.M] DO Menachem",
     "‘P. knows M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6797,6 +7645,8 @@ const fullData = [
     "‘P. is playing the guitar.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6811,6 +7661,8 @@ const fullData = [
     "Pinχas mitχamek mi Menaχem",
     "Pinchas avoid[PTCP.SG.M] from Menachem",
     "‘P. avoids M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6829,6 +7681,8 @@ const fullData = [
     "‘P. made a mousetrap.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6843,6 +7697,8 @@ const fullData = [
     "Pinχas maknit et Menaχem",
     "Pinchas tease[PTCP.SG.M] DO Menachem",
     "‘P. is making fun of M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6861,6 +7717,8 @@ const fullData = [
     "‘P. has a car.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6875,6 +7733,8 @@ const fullData = [
     "Pinχas meχapes et ha maftex-ot ʃel-o",
     "Pinchas search[PTCP.SG.M] DO DEF key-PL POSS-3SG.M",
     "‘P. is looking for his keys.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6893,6 +7753,8 @@ const fullData = [
     "‘P. painted the fence.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6907,6 +7769,8 @@ const fullData = [
     "kelev naʃaχ et Pinχas",
     "dog bite[PST.3SG.M] DO Pinchas",
     "‘A dog bit P.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6925,6 +7789,8 @@ const fullData = [
     "‘P. lost hist house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6939,6 +7805,8 @@ const fullData = [
     "Pinχas menas-e litpos et ha χatul",
     "Pinchas try[PTCP]-SG.M catch[INF] DO DEF cat",
     "‘P. is trying to catch the cat.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6957,6 +7825,8 @@ const fullData = [
     "‘P. broke a stick.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -6971,6 +7841,8 @@ const fullData = [
     "Pinχas maχmi le Menaχem",
     "Pinchas flatter[PTCP.SG.M] to Menachem",
     "‘P. is flattering M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -6989,6 +7861,8 @@ const fullData = [
     "‘P. loves M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7003,6 +7877,8 @@ const fullData = [
     "Pinχas menofef be mitpaχat",
     "Pinchas wave[PTCP.SG.M] in handkerchief",
     "‘P. is waving a handkerchief.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7021,6 +7897,8 @@ const fullData = [
     "‘P. is dreaming of a new car.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7035,6 +7913,8 @@ const fullData = [
     "Pinχas ʃataf et ha kos",
     "Pinchas wash[PST.3SG.M] DO DEF cup",
     "‘P. washed the cup.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7053,6 +7933,8 @@ const fullData = [
     "‘P. put on his trousers.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7067,6 +7949,8 @@ const fullData = [
     "le kli ha z-e kor-im matspen",
     "to instrument DEF this[SG]-M call-PL compass",
     "‘This instrument is called a compass.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7085,6 +7969,8 @@ const fullData = [
     "‘P. punished his son.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7099,6 +7985,8 @@ const fullData = [
     "dav takaf dajag",
     "bear attack[PST.3SG.M] fisherman",
     "‘A bear attacked a fisherman.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7117,6 +8005,8 @@ const fullData = [
     "‘The bucket filled with water.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7131,6 +8021,8 @@ const fullData = [
     "Pinχas matsa et ha mafteχot ʃel-o",
     "Pinchas find[PST.3SG.M] DO DEF key-PL POSS-3SG.M",
     "‘P. found his keys.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7149,6 +8041,8 @@ const fullData = [
     "‘P. is one euro short.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7163,6 +8057,8 @@ const fullData = [
     "Pinχas sone et Menaχem",
     "Pinchas hate[PTCP.SG.M] DO Menachem",
     "‘P. hates M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7181,6 +8077,8 @@ const fullData = [
     "‘P. likes this shirt.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7195,6 +8093,8 @@ const fullData = [
     "Pinχas tsariχ kesef",
     "Pinchas need[PTCP.SG.M] money",
     "‘P. needs money.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7213,6 +8113,8 @@ const fullData = [
     "‘Walls surround the city.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7227,6 +8129,8 @@ const fullData = [
     "niʃar-u le Pinχas asara juro",
     "be.left-3PL to Pinchas ten[M] euro",
     "‘P. has ten euro left.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7245,6 +8149,8 @@ const fullData = [
     "‘P. answered the teacher.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7259,6 +8165,8 @@ const fullData = [
     "Pinχas pataχ paχit",
     "Pinχas open[PST.3SG.M] can",
     "‘P. opened a can.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7277,6 +8185,8 @@ const fullData = [
     "‘No, my shirt is different from yours.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7291,6 +8201,8 @@ const fullData = [
     "Pinχas piger aχarej Menaχem",
     "Pinchas lag[PST.3SG.M] after Menachem",
     "‘P. fell behind M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7309,6 +8221,8 @@ const fullData = [
     "‘P. is ploughing the field.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7323,6 +8237,8 @@ const fullData = [
     "ha jad-ajim ʃel-i meriχ-ot mi delek",
     "DEF hand-PL POSS-1SG smell[PTCP]-PL.F from gasoline",
     "‘My hands smell of gasoline.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7341,6 +8257,8 @@ const fullData = [
     "‘P. crossed the road.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7355,6 +8273,8 @@ const fullData = [
     "Pinχas ʃar ʃir jafe",
     "Pinchas sing[PST.3SG.M] song beautiful",
     "‘P. sang a beautiful song.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7373,6 +8293,8 @@ const fullData = [
     "‘P. wrote a letter.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7387,6 +8309,8 @@ const fullData = [
     "Pinχas ʃata et ha χalav",
     "Pinchas drink[PST.3SG.M] DO DEF milk",
     "‘P. drank the milk.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7405,6 +8329,8 @@ const fullData = [
     "‘P. melted a piece of lead.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7419,6 +8345,8 @@ const fullData = [
     "ha χagora ha z-o matim-a le simla ʃel-i",
     "DEF belt DEF this[SG]-F fit[PTCP.SG]-F to dress POSS-1SG",
     "‘This belt goes well with my dress.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7437,6 +8365,8 @@ const fullData = [
     "‘P. left his native city.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7451,6 +8381,8 @@ const fullData = [
     "ha ʃatiaχ meχas-e et kol ha ritspa",
     "DEF carptet cover[PTCP.SG]-M DO whole DEF floor",
     "‘The carpet covers the whole floor.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7469,6 +8401,8 @@ const fullData = [
     "‘P. remembers the house well.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7483,6 +8417,8 @@ const fullData = [
     "Pinχas azar le Menaχem",
     "Pinchas help[PST.3SG.M] to Menachem",
     "‘P. helped M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7501,6 +8437,8 @@ const fullData = [
     "‘P. understands French.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7515,6 +8453,8 @@ const fullData = [
     "barak paga ba bajt",
     "lightning hit[PST.3SG.M] in+DEF house",
     "‘Lightning struck the house.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7533,6 +8473,8 @@ const fullData = [
     "‘P. cut himself with a razor.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7547,6 +8489,8 @@ const fullData = [
     "ha kos nidbak-a le ʃulχan",
     "DEF glass get.stuck[PST]-3SG.F to table",
     "‘The glass got stuck to the table.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7565,6 +8509,8 @@ const fullData = [
     "‘P. lost to M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7579,6 +8525,8 @@ const fullData = [
     "Pinχas samaχ legabej ha miχtav",
     "Pinchas be.glad[PST.3SG.M] about DEF letter",
     "‘P. was glad about the letter.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7597,6 +8545,8 @@ const fullData = [
     "‘P. is speaking with M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7611,6 +8561,8 @@ const fullData = [
     "Mirjam jald-a ben",
     "Miriam give.birth[PST]-3SG.F son",
     "‘M. gave birth to a son.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7629,6 +8581,8 @@ const fullData = [
     "‘P. dropped the glass.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7643,6 +8597,8 @@ const fullData = [
     "Pinχas menahel et ha ir ʃel-anu",
     "Pinchas manage[PTCP.SG.M] DO DEF city POSS-1PL",
     "‘P. runs our town.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7661,6 +8617,8 @@ const fullData = [
     "‘P. misses M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7675,6 +8633,8 @@ const fullData = [
     "Pinχas okev aχarej Menaχem",
     "Pinchas follow[PTCP.SG.M] after Menachem",
     "‘P. follows M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7693,6 +8653,8 @@ const fullData = [
     "‘P. got down from the horse.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7707,6 +8669,8 @@ const fullData = [
     "Pinχas makʃiv le radio",
     "Pinchas listen[PTCP.SG.M] to radio",
     "‘P. is listening to radio.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7725,6 +8689,8 @@ const fullData = [
     "‘P. always listens to his mother.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7739,6 +8705,8 @@ const fullData = [
     "Pinχas shomea et ha muzika",
     "Pinchas hear[PTCP.SG.M] DO DEF music",
     "‘P. hears the music.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7757,6 +8725,8 @@ const fullData = [
     "‘The honey got mixed with milk.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7771,6 +8741,8 @@ const fullData = [
     "Pinχas mistakel al ha anan-im",
     "Pinchas look[PTCP.SG.M] on DEF cloud-PL",
     "‘P. is looking at the clouds.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7789,6 +8761,8 @@ const fullData = [
     "‘P. took off his shirt.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7803,6 +8777,8 @@ const fullData = [
     "Mirjam χolem-et al Pinχas",
     "Miriam dream[PTCP]-SG.F on Pinchas",
     "‘M. dreams about P.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7821,6 +8797,8 @@ const fullData = [
     "‘P. agreed with M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7835,6 +8813,8 @@ const fullData = [
     "Pinχas rav im Menaχem",
     "Pinchas quarrel[PST.3SG.M] with Menachem",
     "‘P. had a quarrel with M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7853,6 +8833,8 @@ const fullData = [
     "‘This cup costs 1 euro.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7867,6 +8849,8 @@ const fullData = [
     "Pinχas jara be tsipor",
     "Pinchas shoot[PST.3SG.M] in bird",
     "‘P. shot at the bird.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7885,6 +8869,8 @@ const fullData = [
     "‘P. poured the sugar.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7899,6 +8885,8 @@ const fullData = [
     "Pinχas ibed et ha mafteχ-ot ʃel-o",
     "Pinchas lose[PST.3SG.M] DO DEF key-PL POSS-3SG.M",
     "‘P. lost his keys.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7917,6 +8905,8 @@ const fullData = [
     "‘The log sank in the water.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7931,6 +8921,8 @@ const fullData = [
     "Pinχas harag et Menaχem",
     "Pinchas kill[PST.3SG.M] DO Menachem",
     "‘P. killed M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7949,6 +8941,8 @@ const fullData = [
     "‘P. hit M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7963,6 +8957,8 @@ const fullData = [
     "Pinχas niʃek et Menaχem",
     "Pinchas kiss[PST.3SG.M] DO Menachem",
     "‘P. kissed M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -7981,6 +8977,8 @@ const fullData = [
     "‘P. read an interesting book.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -7995,6 +8993,8 @@ const fullData = [
     "Pinχas heevir et etsba-o",
     "Pinchas move[PST.3SG.M] DO finger-POSS.3SG.M",
     "‘P. moved his finger.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8013,6 +9013,8 @@ const fullData = [
     "‘P. respects M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8027,6 +9029,8 @@ const fullData = [
     "Pinxas nirta mi kelim meluxlaxim",
     "Pinchas be.afraid[PTCP.SG.M] from dish-PL dirty-PL",
     "‘P. is squeamish about dirty dishes.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8045,6 +9049,8 @@ const fullData = [
     "‘P. is satisfied with his son.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8059,6 +9065,8 @@ const fullData = [
     "Pinχas hitahev be Menaχem",
     "Pinchas fall.in.love[PST.3SG.M] in Menachem",
     "‘P. fell in love with M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8077,6 +9085,8 @@ const fullData = [
     "‘P. trusts M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8091,6 +9101,8 @@ const fullData = [
     "Pinχas meraxem al im-o",
     "Pinchas sympathise[PTCP.SG.M] on mother-POSS.3SG.M",
     "‘P. sympathises with his mother.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8109,6 +9121,8 @@ const fullData = [
     "‘P. envies M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8123,6 +9137,8 @@ const fullData = [
     "Pinχas koes al Menaχem",
     "Pinchas be.angry[PTCP.SG.M] on Menachem",
     "‘P. is angry with M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8141,6 +9157,8 @@ const fullData = [
     "‘P. was surprised at this gift.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8155,6 +9173,8 @@ const fullData = [
     "Pinχas ohev te",
     "Pinchas love[PTCP.SG.M] tea",
     "‘P. loves tea.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8173,6 +9193,8 @@ const fullData = [
     "‘P. enjoys hot tea.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8187,6 +9209,8 @@ const fullData = [
     "Pinχas rots-e telefon najad χadaʃ",
     "Pinchas want[PTCP.SG]-M phone mobile new",
     "‘P. wants a new mobile phone.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8205,6 +9229,8 @@ const fullData = [
     "‘P. holds a grudge against M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8219,6 +9245,8 @@ const fullData = [
     "Pinχas nifga mi Menaχem",
     "Pinchas be.offended[PST.3SG.M] from Menachem",
     "‘P. took offence at M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8237,6 +9265,8 @@ const fullData = [
     "‘P. greatly upset M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8251,6 +9281,8 @@ const fullData = [
     "Pinχas hitraʃem me ha ir ha z-o",
     "Pinchas be.impressed[PST.3SG.M] from DEF town DEF this-SG.F",
     "‘P. was impressed by this town.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8269,6 +9301,8 @@ const fullData = [
     "‘P. despises M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8283,6 +9317,8 @@ const fullData = [
     "Pinχas hitatsben al ha ben ʃel-o",
     "Pinchas become.annoyed[PST.3SG.M] on DEF son POSS-3SG.M",
     "‘P. got upset with his son.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8301,6 +9337,8 @@ const fullData = [
     "‘P. is getting irritated with his daughter.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8315,6 +9353,8 @@ const fullData = [
     "Pinχas meχabev et Menaχem",
     "Pinchas like[PTCP.SG.M] DO Menachem",
     "‘P. is fond of M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8333,6 +9373,8 @@ const fullData = [
     "‘P. is embarrased about his height.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8349,6 +9391,8 @@ const fullData = [
     "‘P. has a headache.’",
     "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + root in a compound).",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8363,6 +9407,8 @@ const fullData = [
     "Peâtt-ast lij nuõpp-kõpp.",
     "PN-SG.LOC be.PRS.3SG cold(disease)-disease.SG.NOM",
     "‘P. has the flu.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8381,6 +9427,8 @@ const fullData = [
     "‘P. is afraid of the dog.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8395,6 +9443,8 @@ const fullData = [
     "Peâtt kõõšk-i ǩieʹđj.",
     "PN.SG.NOM throw-PST.3SG rock.SG.ACC",
     "‘P. threw a stone.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8413,6 +9463,8 @@ const fullData = [
     "‘Now P. has enough money.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8429,6 +9481,8 @@ const fullData = [
     "‘The boy resembles his grandfather.’",
     "Not included in the database because Y is expressed as an NP-internal modifier.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8443,6 +9497,8 @@ const fullData = [
     "Peâtt åskk suu.",
     "PN.SG.NOM believe.PRS.3SG 3SG.ACC",
     "‘P. believes her.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8461,6 +9517,8 @@ const fullData = [
     "‘P. took a book.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8475,6 +9533,8 @@ const fullData = [
     "Peâtt vuäinn põõrt.",
     "PN.SG.NOM see.PRS.3SG house.SG.ACC",
     "‘P. sees a house.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8493,6 +9553,8 @@ const fullData = [
     "‘Age influences memory.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8507,6 +9569,8 @@ const fullData = [
     "Peâtt teeivõõđ-i Määʹrja-in.",
     "PN.SG.NOM encounter-PST.3SG PN-SG.COM",
     "‘P. encountered M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8525,6 +9589,8 @@ const fullData = [
     "‘P. entered the house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8539,6 +9605,8 @@ const fullData = [
     "Peâtt vuõit-i Määʹrj.",
     "PN.SG.NOM win-PST.3SG PN.SG.ACC",
     "‘P. beat M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8557,6 +9625,8 @@ const fullData = [
     "‘P. went out of the house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8571,6 +9641,8 @@ const fullData = [
     "Peâtt laiʹddai kuuzz.",
     "PN.SG.NOM lead.PRS.3SG cow.SG.ACC",
     "‘P. is driving the cow (to the pasture).’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8589,6 +9661,8 @@ const fullData = [
     "‘P. bent the branch.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8603,6 +9677,8 @@ const fullData = [
     "Peâtt cieʹlǩ-i Märjj-a:",
     "PN.SG.NOM say-PST.3SG PN-SG.ILL",
     "‘P. told M.: “...”.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8621,6 +9697,8 @@ const fullData = [
     "‘P. is holding a book.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8635,6 +9713,8 @@ const fullData = [
     "Peâtt tääʹvt-i Määʹrj.",
     "PN.SG.NOM grab-PST.3SG PN.SG.ACC",
     "‘P. caught up with M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8653,6 +9733,8 @@ const fullData = [
     "‘P. milked the cow.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8667,6 +9749,8 @@ const fullData = [
     "Peâtt laʹddj-i ridd-u.",
     "PN.SG.NOM reach-PST.3SG bank.SG.ILL",
     "‘P. reached the bank.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8685,6 +9769,8 @@ const fullData = [
     "‘P. touched the wall.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8699,6 +9785,8 @@ const fullData = [
     "Peâtt lij tuärr-men Määʹrja-in.",
     "PN.SG.NOM be.PRS.3SG fight-PROG.PTCP PN-SG.COM",
     "‘P. is fighting with M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8717,6 +9805,8 @@ const fullData = [
     "‘P. is M.’s friend.’",
     "Not included in the database because Y is expressed as an NP-internal modifier.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8731,6 +9821,8 @@ const fullData = [
     "Peâtt juurdač Määʹrj",
     "PN.SG.NOM think.PRS.3SG PN.SG.ACC",
     "‘P. is thinking about M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8749,6 +9841,8 @@ const fullData = [
     "‘P. ate an apple.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8763,6 +9857,8 @@ const fullData = [
     "Peâtt paaʹšt-i kueʹl.",
     "PN.SG.NOM fry-PST.3SG fish.SG.ACC",
     "‘P. fried the fish.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8781,6 +9877,8 @@ const fullData = [
     "‘P. is waiting for M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8795,6 +9893,8 @@ const fullData = [
     "Peâtt väjldõõʹv-i tõn nuuʹbb čuõkku.",
     "PN.SG.NOM forget-PST.3SG DIST.SG.ACC other.SG.ACC road.SG.ACC",
     "‘P. forgot (about) the other road.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8813,6 +9913,8 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8827,6 +9929,8 @@ const fullData = [
     "Peâtt čuârva-i Määʹrj vieʹǩǩ-en.",
     "PN.SG.NOM shout-PST.3SG PN.SG.ACC help-ESS.",
     "‘P. shouted to M. for help.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8845,6 +9949,8 @@ const fullData = [
     "‘P. got to know M. a year ago.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8859,6 +9965,8 @@ const fullData = [
     "Peâtt tåbdd Määʹrj.",
     "PN.SG.NOM know.PRS.3SG PN.SG.ACC",
     "‘P. knows M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8877,6 +9985,8 @@ const fullData = [
     "‘PN is playing the guitar.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8891,6 +10001,8 @@ const fullData = [
     "Peâtt veältt Määʹrj.",
     "PN.SG.NOM avoid.PRS.3SG PN.SG.ACC",
     "‘P. avoids M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8909,6 +10021,8 @@ const fullData = [
     "‘P. made a mousetrap.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8923,6 +10037,8 @@ const fullData = [
     "Peâtt luânnj Määʹrj.",
     "PN.SG.NOM make.fun.of.PRS.3SG PN.SG.ACC",
     "‘P. is making fun of M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8941,6 +10057,8 @@ const fullData = [
     "‘P. has a car.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8955,6 +10073,8 @@ const fullData = [
     "Peâtt lij oocc-men suu lokkčouddj-id.",
     "PN.SG.NOM be.PRS.3SG seek-PROG.PTCP 3SG.GEN key-PL.ACC",
     "‘P. is looking for his keys.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -8973,6 +10093,8 @@ const fullData = [
     "‘P. painted the fence.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -8987,6 +10109,8 @@ const fullData = [
     "Piânnai snauʹǩ-i suu.",
     "dog.SG.NOM bite-PST.3SG 3SG.ACC",
     "‘A dog bit him.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9005,6 +10129,8 @@ const fullData = [
     "‘P. lost his house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9021,6 +10147,8 @@ const fullData = [
     "‘P. is trying to catch the cat.’",
     "Not included in the database because Y is expressed as an NP within a dependent clause.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9035,6 +10163,8 @@ const fullData = [
     "Peâtt tuäjja-i sueʹbb.",
     "PN.SG.NOM break-PST.3SG stick.SG.ACC",
     "‘P. broke a stick.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9053,6 +10183,8 @@ const fullData = [
     "‘P. is flattering M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9067,6 +10199,8 @@ const fullData = [
     "Peâtt rääʹǩǩast Määʹrj.",
     "PN.SG.NOM love.PRS.3SG PN.SG.ACC",
     "‘P. loves M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9085,6 +10219,8 @@ const fullData = [
     "‘P. is waving a handkerchief.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9099,6 +10235,8 @@ const fullData = [
     "Peâtt lij niõǥǥ-tõõll-men ođđ aaut diõtt.",
     "PN.SG.NOM be.PRS.3SG dream-CONT-PROG.PTCP new car.SG.GEN because.of",
     "‘P. is dreaming of a new car.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9117,6 +10255,8 @@ const fullData = [
     "‘P. washed the cup.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9133,6 +10273,8 @@ const fullData = [
     "‘P. put on his trousers.’",
     "Here, ool is part of the phrasal verb, not a postposition.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9147,6 +10289,8 @@ const fullData = [
     "Tät tiŋgg kååččeet kompass-ân.",
     "PROX.SG.NOM thing.SG.NOM be.called.PRS.3SG compass-ESS",
     "‘This tool is called a compass.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9165,6 +10309,8 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9179,6 +10325,8 @@ const fullData = [
     "Kueʹbǯǯ kõrmml-i kueʹllšiili ool.",
     "bear.SG.NOM attack-PST.3SG fisherman.SG.GEN onto",
     "‘A bear attacked a fisherman.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9197,6 +10345,8 @@ const fullData = [
     "‘The bucket filled with water.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9211,6 +10361,8 @@ const fullData = [
     "Peâtt kaaun-i lokkčouddj-es.",
     "PN.SG.NOM find-PST.3SG key.SG.ACC-POSS.3SG",
     "‘P. found his key.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9229,6 +10381,8 @@ const fullData = [
     "‘P. was short one euro.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9243,6 +10397,8 @@ const fullData = [
     "Peâtt vââjaš Määrʹj.",
     "PN.SG.NOM hate.PRS.3SG PN.SG.ACC",
     "‘P. hates M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9261,6 +10417,8 @@ const fullData = [
     "‘P. likes this shirt.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9275,6 +10433,8 @@ const fullData = [
     "Peâtt taarbaš tieʹǧǧ-id.",
     "PN.SG.NOM need.PRS.3SG money-PL.ACC",
     "‘P. needs money.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9293,6 +10453,8 @@ const fullData = [
     "‘Walls surround the city.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9309,6 +10471,8 @@ const fullData = [
     "‘P. has 10 euros left.’",
     "The Y argument (‘10 euros’) is in the nominative case, the use of the partitive case is determined by the numeral.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9323,6 +10487,8 @@ const fullData = [
     "Peâtt vastti-i uʹčteel-a.",
     "PN.SG.NOM answer-PST.3SG teacher-SG.ILL",
     "‘P. answered the teacher.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9341,6 +10507,8 @@ const fullData = [
     "‘P. opened a can.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9355,6 +10523,8 @@ const fullData = [
     "Ij muu päiʹdd lij jeeʹresnallšem ko tuu päiʹdd.",
     "NEG.3SG 1SG.GEN shirt.SG.NOM be.PRS.3SG different than 2SG.GEN shirt.SG.NOM",
     "‘No, my shirt is different from yours’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9373,6 +10543,8 @@ const fullData = [
     "‘P. fell behind M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9387,6 +10559,8 @@ const fullData = [
     "Peâtt lij auʹrrje-men peäld.",
     "PN.SG.NOM be.PRS.3SG plough-PROG.PTCP field.SG.ACC",
     "‘P. is ploughing the field.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9405,6 +10579,8 @@ const fullData = [
     "‘My hands smell of gasoline.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9419,6 +10595,8 @@ const fullData = [
     "Peâtt mõõn-i čuõkku rââst.",
     "PN.SG.NOM go.PST.3SG road.SG.GEN across",
     "‘P. crossed the road’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9437,6 +10615,8 @@ const fullData = [
     "‘P. sang a beautiful song.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9451,6 +10631,8 @@ const fullData = [
     "Peâtt ǩeeʹrjt-i ǩeeʹrj.",
     "PN.SG.NOM write-PST.3SG letter.SG.ACC",
     "‘P. wrote a letter.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9469,6 +10651,8 @@ const fullData = [
     "‘P. drank the milk.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9483,6 +10667,8 @@ const fullData = [
     "Peâtt suddi-i lââʹjj-kuuʹsǩ.",
     "PN.SG.NOM melt-PST.3SG lead-piece.SG.ACC",
     "‘P. melted a piece of lead.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9501,6 +10687,8 @@ const fullData = [
     "‘This belt matches my dress.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9515,6 +10703,8 @@ const fullData = [
     "Peâtt vuõʹlj-i meädda suu šõdd-âm-siid-âst.",
     "PN.SG.NOM leave-PST.3SG away 3SG.GEN born-PST.PTCP-village-SG.LOC",
     "‘P. left his native town.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9533,6 +10723,8 @@ const fullData = [
     "‘The carpet covers the whole floor.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9547,6 +10739,8 @@ const fullData = [
     "Peâtt moštt tõn põõrt puârast.",
     "PN.SG.NOM remember.PRS.3SG DIST.SG.ACC house.SG.ACC well",
     "‘P. remembers that house well.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9565,6 +10759,8 @@ const fullData = [
     "‘P. helped M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9579,6 +10775,8 @@ const fullData = [
     "Peâtt fittai franskk-ǩiõl.",
     "PN.SG.NOM understand.PRS.3SG French-language.SG.ACC",
     "‘P. understands French.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9597,6 +10795,8 @@ const fullData = [
     "‘Lightning hit the house.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9611,6 +10811,8 @@ const fullData = [
     "Peâtt čuõpp-õõđ-i neeiʹb-in.",
     "PN.SG.NOM cut-REFL-PST.3SG knife-SG.COM",
     "‘P. cut himself with a razor.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9629,6 +10831,8 @@ const fullData = [
     "‘The glass got stuck to the table.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9643,6 +10847,8 @@ const fullData = [
     "Peâtt taaʹppj-i Märjj-a.",
     "PN.SG.NOM be.beaten-PST.3SG PN-SG.ILL",
     "‘P. lost to M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9661,6 +10867,8 @@ const fullData = [
     "‘P. was glad about the letter.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9675,6 +10883,8 @@ const fullData = [
     "Peâtt maainast Määʹrja-in",
     "PN.SG.NOM speak.PRS.3SG PN-SG.COM",
     "‘P. is speaking with M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9693,6 +10903,8 @@ const fullData = [
     "‘M. gave birth to a son.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9707,6 +10919,8 @@ const fullData = [
     "Peâtt kõõččt-i ståkkan.",
     "PN.SG.NOM drop-PST.3SG glass.SG.ACC",
     "‘P. dropped the glass.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9725,6 +10939,8 @@ const fullData = [
     "‘P. runs our town.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9739,6 +10955,8 @@ const fullData = [
     "Peâtt âʹǩǩââžž Määʹrj.",
     "PN.SG.NOM miss.PRS.3SG PN.SG.ACC",
     "‘P. misses M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9757,6 +10975,8 @@ const fullData = [
     "‘P. follows M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9771,6 +10991,8 @@ const fullData = [
     "Peâtt luâšttõõđ-i (vuâlas) heäppaz sieʹlj-est.",
     "PN.SG.NOM descend-PST.3SG (downwards) horse.SG.GEN back-SG.LOC",
     "‘P. got down from the horse.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9789,6 +11011,8 @@ const fullData = [
     "‘P. is listening to radio.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9803,6 +11027,8 @@ const fullData = [
     "Peâtt pâi jäkktââll suu jieʹnn.",
     "PN.SG.NOM always obey.PRS.3SG 3SG.GEN mother.SG.ACC",
     "‘P. always obeys his mother.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9821,6 +11047,8 @@ const fullData = [
     "‘P. hears the music.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9835,6 +11063,8 @@ const fullData = [
     "Miõtt seäkkn-i mieʹlǩ-in.",
     "honey.SG.NOM get.mixed-PST.3SG milk-SG.COM",
     "‘The honey got mixed with the milk.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9853,6 +11083,8 @@ const fullData = [
     "‘P. is looking at the clouds.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9867,6 +11099,8 @@ const fullData = [
     "Peâtt jäuʹs-i pääiʹd-es.",
     "PN.SG.NOM take.off-PST.3SG shirt.SG.ACC-POSS.3SG",
     "‘P. took off his shirt.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9885,6 +11119,8 @@ const fullData = [
     "‘M. dreams about P.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9899,6 +11135,8 @@ const fullData = [
     "Peâtt leäi Määʹrja-in õõutmiõllsaž.",
     "PN.SG.NOM be.PST.3SG PN-SG.COM like_minded",
     "‘P. agreed with M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9917,6 +11155,8 @@ const fullData = [
     "‘P. had a quarrel with M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9931,6 +11171,8 @@ const fullData = [
     "Tät kopp mähss õhtt euʹrr.",
     "PROX.SG.NOM cup.SG.NOM cost.PRS.3SG one.NOM euro.NOM",
     "‘This cup costs 1 euro.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9949,6 +11191,8 @@ const fullData = [
     "‘P. shot at the bird.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9963,6 +11207,8 @@ const fullData = [
     "Peâtt kõõʹlv-i säähhar.",
     "PN.SG.NOM pour-PST.3SG sugar.SG.ACC",
     "‘P. poured the sugar (into the cup).’",
+    "",
+    "",
     "",
     "",
     ""
@@ -9981,6 +11227,8 @@ const fullData = [
     "‘P. lost his keys.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -9995,6 +11243,8 @@ const fullData = [
     "Stokk vuäja-i čääʹʒʒ vuâlla.",
     "log.SG.NOM sink-PST.3SG water.SG.GEN under.ILL",
     "‘The log sank in the water.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10013,6 +11263,8 @@ const fullData = [
     "‘P. killed M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10027,6 +11279,8 @@ const fullData = [
     "Peâtt čormmi-i Määʹrj.",
     "PN.SG.NOM hit-PST.3SG PN.SG.ACC",
     "‘P. hit M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10045,6 +11299,8 @@ const fullData = [
     "‘P. kissed M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10059,6 +11315,8 @@ const fullData = [
     "Peâtt looǥǥ-i miõllǩiõʹssi ǩeeʹrj.",
     "PN.SG.NOM read-PST.3SG interesting book.SG.ACC",
     "‘P. read an interesting book.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10077,6 +11335,8 @@ const fullData = [
     "‘P. moved his finger.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10091,6 +11351,8 @@ const fullData = [
     "Peâtt ciʹsttai Määʹrj.",
     "PN.SG.NOM respect.PRS.3SG PN.SG.ACC",
     "‘P. respects M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10109,6 +11371,8 @@ const fullData = [
     "‘P. does not like dirty dishes.’",
     "Not included in the database because this translation is semantically inaccurate.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10123,6 +11387,8 @@ const fullData = [
     "Peâtt lij miõllstes pääʹrn-es diõtt.",
     "PN.SG.NOM be.PRS.3SG content son.SG.GEN-POSS.3SG because.of",
     "‘P. is content with his son.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10141,6 +11407,8 @@ const fullData = [
     "‘P. fell in love with M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10155,6 +11423,8 @@ const fullData = [
     "Peâtt naʹddjââtt Määʹrj.",
     "PN.SG.NOM trust.PRS.3SG PN.SG.ACC",
     "‘P. trusts M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10173,6 +11443,8 @@ const fullData = [
     "‘P. sympathised with his mother.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10187,6 +11459,8 @@ const fullData = [
     "Peâtt kaađašt Määʹrj.",
     "PN.SG.NOM envy.PRS.3SG PN.SG.ACC",
     "‘P. envies M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10205,6 +11479,8 @@ const fullData = [
     "‘P. is angry with M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10219,6 +11495,8 @@ const fullData = [
     "Peâtt õõmtõõžž-i sǩiâŋk diõtt.",
     "PN.SG.NOM be.surprized-PST.3SG gift.SG.GEN because.of",
     "‘P. was surprised at this gift.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10237,6 +11515,8 @@ const fullData = [
     "‘P. likes tea.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10253,6 +11533,8 @@ const fullData = [
     "‘P. enjoys drinking hot tea.’",
     "Not included in the database because Y is expressed as an NP within a dependent clause.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10267,6 +11549,8 @@ const fullData = [
     "Peâtt haaʹlad ođđ ǩiõtt-teeʹl.",
     "PN.SG.NOM want.PRS.3SG new hand-phone.SG.ACC",
     "‘P. wants a new mobile phone.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10285,6 +11569,8 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10299,6 +11585,8 @@ const fullData = [
     "Peâtt neuʹrrõõv-i Määʹrj diõtt.",
     "PN.SG.NOM be.offended-PST.3SG PN.SG.GEN because.of",
     "‘P. took offence at M.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10317,6 +11605,8 @@ const fullData = [
     "*",
     "No satisfactory translation has been obtained.",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10331,6 +11621,8 @@ const fullData = [
     "Peâtt čuuʹt õõmš-i siid.",
     "PN.SG.NOM very marvel.at-PST.3SG village.SG.ACC",
     "‘P. marvelled at this town.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10349,6 +11641,8 @@ const fullData = [
     "‘P. despises M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10363,6 +11657,8 @@ const fullData = [
     "Peâtt suttõõđ-škuõʹđ-i suu pääʹrn ool.",
     "PN.SG.NOM get.upset-INCH-PST.3SG 3SG.GEN son.SG.GEN onto",
     "‘P. got upset with his son.’",
+    "",
+    "",
     "",
     "",
     ""
@@ -10381,6 +11677,8 @@ const fullData = [
     "‘P. is getting irritated with his daughter.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10397,6 +11695,8 @@ const fullData = [
     "‘P. is fond of M.’",
     "",
     "",
+    "",
+    "",
     ""
   ],
   [
@@ -10411,6 +11711,8 @@ const fullData = [
     "Peâtt käinn kookkadvuõđ-âs diõtt.",
     "PN.SG.NOM be.shy.PRS.3SG height.SG.GEN-POSS.3SG because.of",
     "‘P. is shy about his height.’",
+    "",
+    "",
     "",
     "",
     ""
