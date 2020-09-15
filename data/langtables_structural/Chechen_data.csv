@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-78	Chechen	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	lozu	GEN	ABS	X	GEN_ABS	Видимо, это разные составляющие						Agreement: no
-78	Chechen	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	AGR-u	GEN	ABS	X	GEN_ABS	"""быть"" (он же используется в 18 ""держать"" и 38 ""иметь""). Возможна рамка DAT-ABS (qietta, NO AGR) для ингрессивной конструкции (заразился)"						yes
-78	Chechen	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	qoeru	ABS	LAT	Y	ABS_LAT							no
-78	Chechen	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	hwa-qoessi-	TR		TR	TR	PREF (away)						no
-78	Chechen	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	toe’a	DAT	ABS	X	DAT_ABS							no
-78	Chechen	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	tera + AGR.'be'	ABS	LAT	Y	ABS_LAT	"NV. С отрицанием тот же глагол в 64 (""отличаться"")"						yes
-78	Chechen	7	believe	X (believe) Y	верить	X (верить)Y-у	tiesha	ABS	LAT	Y	ABS_LAT	То же, что 114 (доверять)						no
-78	Chechen	8	take	X (take) Y	взять	X (брать) Y(-а)	hwa-ec-	TR		TR	TR	PREF (here)						no
-78	Chechen	9	see	X (see) Y	видеть	X (видеть) Y(-а)	go	DAT	ABS	X	DAT_ABS							no
-78	Chechen	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*		*		Нет адекватного перевода						*
-78	Chechen	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	doehwal qietta	DAT	ABS	X	DAT_ABS	CV (against strike). Такая рамка именно при случайной встрече						no
-78	Chechen	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	AGR-axa	ABS	DATchu	Y	ABS_DATchu	"Именно в случае со словом ""дом"" показателя датива нет, с другим словами он был бы. Послелог chu глоссируется как inside. Кажется, этот же глагол используется в случае с ""тонуть"" (104)"						yes
-78	Chechen	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	eshii-	TR		TR	TR							no
-78	Chechen	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	aara-AGR-aella	ABS	chura	Y	ABS_chura	PREF (out)						yes
-78	Chechen	15	drive	X (drive) Y	гнать	X (гнать) Y-а	dwa-lollu	TR		TR	TR	PREF (away)						no
-78	Chechen	16	bend	X (bend) Y	гнуть	X (гнуть) Y	satta-AGR-i-	TR		TR	TR	CV(2-stem, bend-make)						yes
-78	Chechen	17	tell	X (tell) Y	говорить	X (говорить) Y-у	ael-	ERG	ALL	Y	ERG_ALL							no
-78	Chechen	18	hold	X (hold)Y	держать	X (держать) Y(-а)	AGR-u	ALL	ABS	X	ALL_ABS	"""быть"" (он же используется в 2 ""болеть-2"" и 38 ""иметь"")"						yes
-78	Chechen	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	t’aehwaqi’a	ABS	DAT	Y	ABS_DAT							no
-78	Chechen	20	milk	X (milk) Y	доить	X (доить) Y-а	ozna	TR		TR	TR	"букв. ""pull"""						no
-78	Chechen	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	dwa-qaech-	ABS	ALL	Y	ABS_ALL							no
-78	Chechen	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	woetti-	ERG	LAT	Y	ERG_LAT	Обязательно указывается то, чем коснулся (например, рука в абсолютиве)						no
-78	Chechen	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	liet-ash AGR-u	ABS	LAT	Y	ABS_LAT	CVB+be						yes
-78	Chechen	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	dottagh	*		*		Только именная конструкция (X -- друг Y-а), единая составляющая, не засчитываю						*
-78	Chechen	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	dagalaetta	DAT	ABS	X	DAT_ABS							no
-78	Chechen	26	eat	X (eat) Y	есть	X (есть) Y	AGR-e’a-	TR		TR	TR							yes
-78	Chechen	27	fry	X (fry) Y	жарить	X (жарить) Y	qaerzi-	TR		TR	TR							no
-78	Chechen	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	hwoezh-ush AGR-u	ABS	ALL	Y	ABS_ALL	"CVB+be, букв. ""видеть"""						yes
-78	Chechen	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	AGR-ic-AGR-ella	DAT	ABS	X	DAT_ABS							yes
-78	Chechen	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	hwaezh-na AGR-u	ABS	ALL	Y	ABS_ALL	"CVB+be, букв. ""видеть"""						yes
-78	Chechen	31	call	X (call) Y	звать	X (звать) Y-а	qaiqi-na	ABS	ALL	Y	ABS_ALL							no
-78	Chechen	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	AGR-ouzi-	DAT	ABS	X	DAT_ABS	Это, видимо, аспектуальная форма того же глагола, что в конструкции 33 (знать)						yes
-78	Chechen	33	know	X (know) Y	знать 	X (знать) Y-а	AGR-ouza	TR		TR	TR	Это, видимо, аспектуальная форма того же глагола, что в конструкции 32 (знакомиться)						yes
-78	Chechen	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	loqu	TR		TR	TR	Если прогрессив, то будет биабсолютивная конструкция						no
-78	Chechen	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	idu	ERG	LAT	Y	ERG_LAT	"Это итеративная форма глагола ""идти"""						no
-78	Chechen	36	make	X (make) Y	изготовить	X (изготовить) Y	AGR-i-	TR		TR	TR	"Этот же глагол используется в значении ""рожать"" (85)"						yes
-78	Chechen	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	hwiiza-AGR-o	TR		TR	TR	"CAUS (от ""вертеться"")"						yes
-78	Chechen	38	have	X (have) Y	иметь	X (иметь) Y	AGR-u	GEN	ABS	X	GEN_ABS	"""быть"" (он же используется в 2 ""болеть-2"" и 18 ""держать""). Посессор и обладаемое разрываются"						yes
-78	Chechen	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	loexu	TR		TR	TR	Есть биабсолютивная конструкция для прогрессива						no
-78	Chechen	40	paint	X (paint) Y	красить	X (красить) Y	basar hwaeq-	ERG	LAT	Y	ERG_LAT	"CV (""краску мажет"")"						no
-78	Chechen	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ka toex-	ERG	DAT	Y	ERG_DAT	CV (bite hit)						no
-78	Chechen	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*		*		"Только сложная конструкция ""Ислам остался дома-нет будучи"""						*
-78	Chechen	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	locu	TR		TR	TR	Есть биабсолютивная конструкция для прогрессива						no
-78	Chechen	44	break	X (break) Y	ломать	X (ломать) Y	kag-AGR-i-	TR		TR	TR	CV(2-stem, break-make)						yes
-78	Chechen	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	xesta-AGR-o	TR		TR	TR	Это каузатив (boast-CAUS)						no
-78	Chechen	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	AGR-ieza	DAT	ABS	X	DAT_ABS	То же, что любить-2 (119), хотеть (121) и (не включенный в базу) мечтать (48)						yes
-78	Chechen	47	wave	X (wave) Y	махать	X (махать) Y-ом	liesta-AGR-o	TR		TR	TR	CV(2-stem, shake-make)						no
-78	Chechen	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*		*		"Получен только перевод, который одновременно значит ""любить"" и ""хотеть"", то есть собственно ""мечтать"" тут не выразить"						*
-78	Chechen	49	wash	X (wash) Y	мыть	X (мыть) Y	bila-	TR		TR	TR							no
-78	Chechen	50	put_on	X (put_on) Y	надевать	X (надевать) Y	t’e-AGR-ox-	TR		TR	TR	PREF (on)						yes
-78	Chechen	51	be_called	X (be_called) Y	называться	X (называться) Y	c’e AGR-u	GEN	ABS	X	GEN_ABS	"NV (X-а имя есть Y). Я тут условно написал, что есть согласование. На самом деле согласование его вызывает само слово ""имя"", а не ""компас"", который в абсолютиве"						yes
-78	Chechen	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*		*		"Нет способа выразить общее значение, только ""отругал"" или ""побил"""						*
-78	Chechen	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	t’e-qietta	ABS	DAT	Y	ABS_DAT	PREF (on)						no
-78	Chechen	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	AGR-uz-	ABS	LAT	Y	ABS_LAT							yes
-78	Chechen	55	find	X (find) Y	находить	X (находить) Y(-а)	kari-	DAT	ABS	X	DAT_ABS							no
-78	Chechen	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	ca-toe’a	DAT	ABS	X	DAT_ABS	NEG+быть.достаточно (=5)						no
-78	Chechen	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ca-AGR-ieza	DAT	ABS	X	DAT_ABS	NEG+любить (=46)						yes
-78	Chechen	58	like	X (like) Y	нравиться	X-у (нравиться) Y	xazaxieta	DAT	ABS	X	DAT_ABS							no
-78	Chechen	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	oeshu	DAT	ABS	X	DAT_ABS							no
-78	Chechen	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	gonahw + AGR.'be'	DAT	ABS	X	DAT_ABS	NV (around + be)						yes
-78	Chechen	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	AGR-issi-	ALL	ABS	X	ALL_ABS							yes
-78	Chechen	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	zhop AGR-ella	ERG	DAT	Y	ERG_DAT	"CV (answer + give). Согласование вызывает внутренний аргумент, ""ответ"". Получен альетрантивный вариант (ERG-ALL)"						yes 
-78	Chechen	63	open	X (open) Y	открывать	X (открывать) Y	hwa-AGR-ili-	TR		TR	TR	PREF (here)						yes
-78	Chechen	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	tera + AGR-'be'.NEG	ABS	LAT	Y	ABS_LAT	"NV (similar + is.not). Без отрицания тот же глагол в 6 (""быть похожим"")"						yes
-78	Chechen	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	t’aehwa-AGR-issa-na	ABS	COMP	Y	ABS_COMP	PREF (behind)						yes
-78	Chechen	66	plough	X (plough) Y	пахать	X (пахать) Y	ooxu	TR		TR	TR							no
-78	Chechen	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	AGR-ooghu	*		*		"руки-LAT бензин-GEN запах идет (при этом ""бензин"" и ""запах"", похоже, образуют единую составляющую). Глагол ""идти"" есть в конструкции 73"						*
-78	Chechen	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	dehwa AGR-aella 	ABS	DAT	Y	ABS_DAT	CV (other.side get)						yes
-78	Chechen	69	sing	X (sing) Y	петь	X (петь) Y	liaq-	TR		TR	TR							no
-78	Chechen	70	write	X (write) Y	писать	X (писать) Y	jaz-AGR-i-	TR		TR	TR	CAUS						yes
-78	Chechen	71	drink	X (drink) Y	пить	X (пить) Y	dwa-mella	TR		TR	TR	PREF (away)						no
-78	Chechen	72	melt	X (melt) Y	плавить	X (плавить) Y	laala-AGR-i-	TR		TR	TR	CAUS						yes
-78	Chechen	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	AGR-oogha	ABS	INSTR	Y	ABS_INSTR	"Это буквально ""идти"" (этот же глагол используется в конструкции 67, пахнуть)"						yes
-78	Chechen	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	dwa-AGR-axa-	ABS	ABL	Y	ABS_ABL	PREF (away)						yes
-78	Chechen	75	cover	X (cover) Y	покрывать	X (покрывать) Y	dwa-loocu	TR		TR	TR	PREF (away)						no
-78	Chechen	76	remember	X (remember) Y	помнить	X (помнить) Y-а	daga-AGR-ooghu	DAT	ABS	X	DAT_ABS	heart-AGR-come						yes
-78	Chechen	77	help	X (help) Y	помочь	X (помогать) Y-у	gho AGR-i-	ERG	DAT	Y	ERG_DAT	CV (help make)						yes
-78	Chechen	78	understand	X (understand) Y	понимать	X (понимать) Y	qieta	DAT	ABS	X	DAT_ABS	"букв. ""ударить"". Тот же глагол, что в 79, но в другой форме"						no
-78	Chechen	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	qietta	ABS	LAT	Y	ABS_LAT	Тот же глагол, что в 78, но в другой форме.						no
-78	Chechen	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	*	*		*		Обычно так не говорят, не называют то, обо что порезался						*
-78	Chechen	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	t’e-letta	ABS	DAT	Y	ABS_DAT	PREF (on)						no
-78	Chechen	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	esh-na	*		*		"По сути перевод не получен. Можно либо использовать конверсив (выиграть); либо сказать просто ""проиграл"" без указания победителя. Зарина написала, что как будто бы победитель при глаголе ""проиграть"" должен быть выражен дативом, но сама же далее пишет ""мне не совсем нравится этот пример. Без ДАТ ок, а вот с ДАТ"". И это подтверждено кем-то еще, кого она опросила."						*
-78	Chechen	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	xazaxetta 	*		*		"Затруднительно выразить нужное значение. Второй актант -- ""тому, что пришло письмо"""						no
-78	Chechen	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	q’amial AGR-o	ERG	INSTR	Y	ERG_INSTR	CV (talk make); в случае прогрессива первый участник в абсолютиве						yes
-78	Chechen	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	AGR-i-	TR		TR	TR	"букв. ""делать"", то же, что 36"						yes
-78	Chechen	86	drop	X (drop) Y	ронять	X (ронять) Y	vohw-AGR-ozhi-	TR		TR	TR	PREF (down)						yes
-78	Chechen	87	govern	X (govern) Y	руководить	X (руководить) Y	kyjgalxo 	*		*		Это NV, где Y -- часть именного предиката (руководитель деревни)						*
-78	Chechen	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	sa gat-AGR-o	ERG	DAT	Y	ERG_DAT	CV (soul get.tight)						yes
-78	Chechen	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	t’aehwa-AGR-oedu	ABS	DAT	Y	ABS_DAT	behind-AGR-go. Не совсем ясно, что такое behind -- преверб, наречие или послелог						yes
-78	Chechen	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	vozh-AGR-oessa-	ABS	gour	Y	ABS_gour	PREF (down)						yes
-78	Chechen	91	listen	X (listen) to Y	слушать	X (слушать) Y	ladughu	ERG	ALL	Y	ERG_ALL	То же, что 92 и 93						no
-78	Chechen	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	ladughu	ERG	ALL	Y	ERG_ALL	То же, что 91 и 93						no
-78	Chechen	93	hear	X (hear) Y	слышать	X (слышать) Y	ladughu	ERG	ALL	Y	ERG_ALL	То же, что 91 и 92						no
-78	Chechen	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	dwa-’ii-	ABS	INSTR	Y	ABS_INSTR	PREF (away)						no
-78	Chechen	95	look	X (look) at Y	смотреть	X (смотреть) на Y	hwoezhu	ABS	ALL	Y	ABS_ALL							no
-78	Chechen	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	dwa-AGR-aeqqi-	TR		TR	TR	PREF (away)						yes
-78	Chechen	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	ghienahw go	DAT	ABS	X	DAT_ABS	CV (in.dream go)						no
-78	Chechen	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	t’e-tii-	ABS	DAT	Y	ABS_DAT	PREF (on)						no
-78	Chechen	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	dou AGR-aella	GEN	INSTR	XY	GEN_INSTR	CV (fight get)						yes
-78	Chechen	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	maax AGR-u	GEN	ABS	X	GEN_ABS	"NV (Х-а Y price is). Я тут условно написал, что есть согласование. На самом деле согласование его вызывает само слово ""цена"", а не ""столько-то рублей"", что закодировано в абсолютиве"						yes
-78	Chechen	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	top toex-	ERG	DAT	Y	ERG_DAT	CV (weapon hit)						no
-78	Chechen	102	pour	X (pour) Y	сыпать	X (сыпать) Y	AGR-oexki-	TR		TR	TR							yes
-78	Chechen	103	lose	X (lose) Y	терять	X (терять) Y	AGR-ai’i-	TR		TR	TR							yes
-78	Chechen	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	AGR-ax-	ABS	buxa	Y	ABS_buxa	"просто ""уйти"" (то же, что 12?)"						yes
-78	Chechen	105	kill	X (kill) Y	убивать	X (убивать) Y-а	AGR-ii-	TR		TR	TR							yes
-78	Chechen	106	hit	X (hit) Y	ударить	X (ударять) Y-а	toex-	ERG	DAT	Y	ERG_DAT							no
-78	Chechen	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	bart AGR-aeqqi-	ERG	DAT	Y	ERG_DAT	CV (mouth take)						yes
-78	Chechen	108	read	X (read) Y	читать	X (читать) Y-а	AGR-esh-	TR		TR	TR							yes
-78	Chechen	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	hwabi-	TR		TR	TR							no
-78	Chechen	110	respect	X (respect) Y	уважать	X (уважать) Y-а	looru	TR		TR	TR							no
-78	Chechen	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	degaz xieta	DAT	ABS	X	DAT_ABS	CV (disgusting seem)						no
-78	Chechen	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	reza AGR-u	ABS	DAT	Y	ABS_DAT	NV (satisfied be)						yes
-78	Chechen	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	AGR-iezajella	DAT	ABS	X	DAT_ABS							yes
-78	Chechen	114	trust	X (trust) Y	доверять	X (доверять) Y-у	tiesha	ABS	LAT	Y	ABS_LAT	То же, что 7 (верить)						no
-78	Chechen	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	q’axieta	DAT	LAT	XY	DAT_LAT							no
-78	Chechen	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	hwagh AGR-u	GEN	INSTR	XY	GEN_INSTR	"NV (jealousy be). Согласование вызывает слово ""зависть"""						yes
-78	Chechen	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	oeghaz-AGR-ax-	ABS	DAT	Y	ABS_DAT	То же, что 122 (сердиться) (засчитанный), а также 123 (обижаться) и 128 (раздражаться) (не засчитанный). angry-AGR-go (еще получен экзотический диалектный вариант с моделью, внимание, DAT-DAT)						yes
-78	Chechen	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	ciac-AGR-aella	ABS	LAT	Y	ABS_LAT							yes
-78	Chechen	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	AGR-ieza	DAT	ABS	X	DAT_ABS	То же, что любить-1 (46), хотеть (121) и (не включенный в базу) мечтать (48)						yes
-78	Chechen	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*		*		Перевод не получен (Зарина знает только в пожеланиях)						*
-78	Chechen	121	want	X (want) Y	хотеть	X (хотеть) Y-а	AGR-ieza	DAT	ABS	X	DAT_ABS	То же, что любить-1 (46), любить-2 (119) и (не включенный в базу) мечтать (48)						yes
-78	Chechen	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	oeghaz-AGR-ax-	ABS	DAT	Y	ABS_DAT	То же, что 117 (злиться) (засчитанный), а также 123 (обижаться) и 128 (раздражаться) (не засчитанные). angry-AGR-go (еще получен экзотический диалектный вариант с моделью, внимание, DAT-DAT)						yes
-78	Chechen	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	oeghaz-AGR-ax-	*		*		Не засчитываю, потому что эта же конструкция еще в трех случаях, и только двум из них (117 (злиться), и 122 (сердиться)) она соответствует хорошо, а вот этому и 128 (раздражаться) не так хорошо						*
-78	Chechen	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	xalaxiet-ijt-	TR		TR	TR	CAUS						no
-78	Chechen	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	ciacvaella	ABS	LAT	Y	ABS_LAT							no
-78	Chechen	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*		*		"Пока получается только что-то вроде ""не любить"""						*
-78	Chechen	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	xalaxetta	ABS	DATdoeha	Y	ABS_DATdoeha	Пока не получается выразить второго участника, потом получена странная диалектная конструкция с двумя дативами, которую я в других случаях не засчитываю. Возможно, еще будет какое-то уточнение, если нет, то ничего не засчитаю						no
-78	Chechen	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	oeghaz-AGR-ax-	*		*		Не засчитываю, потому что эта же конструкция еще в трех случаях, и только двум из них (117 (злиться), и 122 (сердиться)) она соответствует хорошо, а вот этому и 123 (обижаться) не так хорошо						*
-78	Chechen	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*		*		"Точного перевода не получено, только ""нравиться"" или что-то более развернутое"						*
-78	Chechen	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	iizalo	ABS	LAT	Y	ABS_LAT							no
+78	Chechen	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	lozu	GEN	ABS	X	GEN_ABS							Agreement: no. Видимо, это разные составляющие
+78	Chechen	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	AGR-u	GEN	ABS	X	GEN_ABS							"Agreement: yes. ""быть"" (он же используется в 18 ""держать"" и 38 ""иметь""). Возможна рамка DAT-ABS (qietta, NO AGR) для ингрессивной конструкции (заразился)"
+78	Chechen	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	qoeru	ABS	LAT	Y	ABS_LAT							Agreement: no. 
+78	Chechen	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	hwa-qoessi-	ERG	ABS	TR	TR							Agreement: no. PREF (away)
+78	Chechen	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	toe’a	DAT	ABS	X	DAT_ABS							Agreement: no. 
+78	Chechen	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	tera + AGR.'be'	ABS	LAT	Y	ABS_LAT							"Agreement: yes. NV. С отрицанием тот же глагол в 64 (""отличаться"")"
+78	Chechen	7	believe	X (believe) Y	верить	X (верить)Y-у	tiesha	ABS	LAT	Y	ABS_LAT							Agreement: no. То же, что 114 (доверять)
+78	Chechen	8	take	X (take) Y	взять	X (брать) Y(-а)	hwa-ec-	ERG	ABS	TR	TR							Agreement: no. PREF (here)
+78	Chechen	9	see	X (see) Y	видеть	X (видеть) Y(-а)	go	DAT	ABS	X	DAT_ABS							Agreement: no. 
+78	Chechen	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*	*	*								Agreement: *. Нет адекватного перевода
+78	Chechen	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	doehwal qietta	DAT	ABS	X	DAT_ABS							Agreement: no. CV (against strike). Такая рамка именно при случайной встрече
+78	Chechen	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	AGR-axa	ABS	DATchu	Y	ABS_DATchu							"Agreement: yes. Именно в случае со словом ""дом"" показателя датива нет, с другим словами он был бы. Послелог chu глоссируется как inside. Кажется, этот же глагол используется в случае с ""тонуть"" (104)"
+78	Chechen	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	eshii-	ERG	ABS	TR	TR							Agreement: no. 
+78	Chechen	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	aara-AGR-aella	ABS	chura	Y	ABS_chura							Agreement: yes. PREF (out)
+78	Chechen	15	drive	X (drive) Y	гнать	X (гнать) Y-а	dwa-lollu	ERG	ABS	TR	TR							Agreement: no. PREF (away)
+78	Chechen	16	bend	X (bend) Y	гнуть	X (гнуть) Y	satta-AGR-i-	ERG	ABS	TR	TR							Agreement: yes. CV(2-stem, bend-make)
+78	Chechen	17	tell	X (tell) Y	говорить	X (говорить) Y-у	ael-	ERG	ALL	Y	ERG_ALL							Agreement: no. 
+78	Chechen	18	hold	X (hold)Y	держать	X (держать) Y(-а)	AGR-u	ALL	ABS	X	ALL_ABS							"Agreement: yes. ""быть"" (он же используется в 2 ""болеть-2"" и 38 ""иметь"")"
+78	Chechen	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	t’aehwaqi’a	ABS	DAT	Y	ABS_DAT							Agreement: no. 
+78	Chechen	20	milk	X (milk) Y	доить	X (доить) Y-а	ozna	ERG	ABS	TR	TR							"Agreement: no. букв. ""pull"""
+78	Chechen	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	dwa-qaech-	ABS	ALL	Y	ABS_ALL							Agreement: no. 
+78	Chechen	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	woetti-	ERG	LAT	Y	ERG_LAT							Agreement: no. Обязательно указывается то, чем коснулся (например, рука в абсолютиве)
+78	Chechen	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	liet-ash AGR-u	ABS	LAT	Y	ABS_LAT							Agreement: yes. CVB+be
+78	Chechen	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	dottagh	*	*	*								Agreement: *. Только именная конструкция (X -- друг Y-а), единая составляющая, не засчитываю
+78	Chechen	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	dagalaetta	DAT	ABS	X	DAT_ABS							Agreement: no. 
+78	Chechen	26	eat	X (eat) Y	есть	X (есть) Y	AGR-e’a-	ERG	ABS	TR	TR							Agreement: yes. 
+78	Chechen	27	fry	X (fry) Y	жарить	X (жарить) Y	qaerzi-	ERG	ABS	TR	TR							Agreement: no. 
+78	Chechen	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	hwoezh-ush AGR-u	ABS	ALL	Y	ABS_ALL							"Agreement: yes. CVB+be, букв. ""видеть"""
+78	Chechen	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	AGR-ic-AGR-ella	DAT	ABS	X	DAT_ABS							Agreement: yes. 
+78	Chechen	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	hwaezh-na AGR-u	ABS	ALL	Y	ABS_ALL							"Agreement: yes. CVB+be, букв. ""видеть"""
+78	Chechen	31	call	X (call) Y	звать	X (звать) Y-а	qaiqi-na	ABS	ALL	Y	ABS_ALL							Agreement: no. 
+78	Chechen	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	AGR-ouzi-	DAT	ABS	X	DAT_ABS							Agreement: yes. Это, видимо, аспектуальная форма того же глагола, что в конструкции 33 (знать)
+78	Chechen	33	know	X (know) Y	знать 	X (знать) Y-а	AGR-ouza	ERG	ABS	TR	TR							Agreement: yes. Это, видимо, аспектуальная форма того же глагола, что в конструкции 32 (знакомиться)
+78	Chechen	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	loqu	ERG	ABS	TR	TR							Agreement: no. Если прогрессив, то будет биабсолютивная конструкция
+78	Chechen	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	idu	ERG	LAT	Y	ERG_LAT							"Agreement: no. Это итеративная форма глагола ""идти"""
+78	Chechen	36	make	X (make) Y	изготовить	X (изготовить) Y	AGR-i-	ERG	ABS	TR	TR							"Agreement: yes. Этот же глагол используется в значении ""рожать"" (85)"
+78	Chechen	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	hwiiza-AGR-o	ERG	ABS	TR	TR							"Agreement: yes. CAUS (от ""вертеться"")"
+78	Chechen	38	have	X (have) Y	иметь	X (иметь) Y	AGR-u	GEN	ABS	X	GEN_ABS							"Agreement: yes. ""быть"" (он же используется в 2 ""болеть-2"" и 18 ""держать""). Посессор и обладаемое разрываются"
+78	Chechen	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	loexu	ERG	ABS	TR	TR							Agreement: no. Есть биабсолютивная конструкция для прогрессива
+78	Chechen	40	paint	X (paint) Y	красить	X (красить) Y	basar hwaeq-	ERG	LAT	Y	ERG_LAT							"Agreement: no. CV (""краску мажет"")"
+78	Chechen	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ka toex-	ERG	DAT	Y	ERG_DAT							Agreement: no. CV (bite hit)
+78	Chechen	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*	*	*								"Agreement: *. Только сложная конструкция ""Ислам остался дома-нет будучи"""
+78	Chechen	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	locu	ERG	ABS	TR	TR							Agreement: no. Есть биабсолютивная конструкция для прогрессива
+78	Chechen	44	break	X (break) Y	ломать	X (ломать) Y	kag-AGR-i-	ERG	ABS	TR	TR							Agreement: yes. CV(2-stem, break-make)
+78	Chechen	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	xesta-AGR-o	ERG	ABS	TR	TR							Agreement: no. Это каузатив (boast-CAUS)
+78	Chechen	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	AGR-ieza	DAT	ABS	X	DAT_ABS							Agreement: yes. То же, что любить-2 (119), хотеть (121) и (не включенный в базу) мечтать (48)
+78	Chechen	47	wave	X (wave) Y	махать	X (махать) Y-ом	liesta-AGR-o	ERG	ABS	TR	TR							Agreement: no. CV(2-stem, shake-make)
+78	Chechen	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*	*	*								"Agreement: *. Получен только перевод, который одновременно значит ""любить"" и ""хотеть"", то есть собственно ""мечтать"" тут не выразить"
+78	Chechen	49	wash	X (wash) Y	мыть	X (мыть) Y	bila-	ERG	ABS	TR	TR							Agreement: no. 
+78	Chechen	50	put_on	X (put_on) Y	надевать	X (надевать) Y	t’e-AGR-ox-	ERG	ABS	TR	TR							Agreement: yes. PREF (on)
+78	Chechen	51	be_called	X (be_called) Y	называться	X (называться) Y	c’e AGR-u	GEN	ABS	X	GEN_ABS							"Agreement: yes. NV (X-а имя есть Y). Я тут условно написал, что есть согласование. На самом деле согласование его вызывает само слово ""имя"", а не ""компас"", который в абсолютиве"
+78	Chechen	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*	*	*								"Agreement: *. Нет способа выразить общее значение, только ""отругал"" или ""побил"""
+78	Chechen	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	t’e-qietta	ABS	DAT	Y	ABS_DAT							Agreement: no. PREF (on)
+78	Chechen	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	AGR-uz-	ABS	LAT	Y	ABS_LAT							Agreement: yes. 
+78	Chechen	55	find	X (find) Y	находить	X (находить) Y(-а)	kari-	DAT	ABS	X	DAT_ABS							Agreement: no. 
+78	Chechen	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	ca-toe’a	DAT	ABS	X	DAT_ABS							Agreement: no. NEG+быть.достаточно (=5)
+78	Chechen	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ca-AGR-ieza	DAT	ABS	X	DAT_ABS							Agreement: yes. NEG+любить (=46)
+78	Chechen	58	like	X (like) Y	нравиться	X-у (нравиться) Y	xazaxieta	DAT	ABS	X	DAT_ABS							Agreement: no. 
+78	Chechen	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	oeshu	DAT	ABS	X	DAT_ABS							Agreement: no. 
+78	Chechen	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	gonahw + AGR.'be'	DAT	ABS	X	DAT_ABS							Agreement: yes. NV (around + be)
+78	Chechen	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	AGR-issi-	ALL	ABS	X	ALL_ABS							Agreement: yes. 
+78	Chechen	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	zhop AGR-ella	ERG	DAT	Y	ERG_DAT							"Agreement: yes . CV (answer + give). Согласование вызывает внутренний аргумент, ""ответ"". Получен альетрантивный вариант (ERG-ALL)"
+78	Chechen	63	open	X (open) Y	открывать	X (открывать) Y	hwa-AGR-ili-	ERG	ABS	TR	TR							Agreement: yes. PREF (here)
+78	Chechen	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	tera + AGR-'be'.NEG	ABS	LAT	Y	ABS_LAT							"Agreement: yes. NV (similar + is.not). Без отрицания тот же глагол в 6 (""быть похожим"")"
+78	Chechen	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	t’aehwa-AGR-issa-na	ABS	COMP	Y	ABS_COMP							Agreement: yes. PREF (behind)
+78	Chechen	66	plough	X (plough) Y	пахать	X (пахать) Y	ooxu	ERG	ABS	TR	TR							Agreement: no. 
+78	Chechen	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	AGR-ooghu	*	*	*								"Agreement: *. руки-LAT бензин-GEN запах идет (при этом ""бензин"" и ""запах"", похоже, образуют единую составляющую). Глагол ""идти"" есть в конструкции 73"
+78	Chechen	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	dehwa AGR-aella 	ABS	DAT	Y	ABS_DAT							Agreement: yes. CV (other.side get)
+78	Chechen	69	sing	X (sing) Y	петь	X (петь) Y	liaq-	ERG	ABS	TR	TR							Agreement: no. 
+78	Chechen	70	write	X (write) Y	писать	X (писать) Y	jaz-AGR-i-	ERG	ABS	TR	TR							Agreement: yes. CAUS
+78	Chechen	71	drink	X (drink) Y	пить	X (пить) Y	dwa-mella	ERG	ABS	TR	TR							Agreement: no. PREF (away)
+78	Chechen	72	melt	X (melt) Y	плавить	X (плавить) Y	laala-AGR-i-	ERG	ABS	TR	TR							Agreement: yes. CAUS
+78	Chechen	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	AGR-oogha	ABS	INSTR	Y	ABS_INSTR							"Agreement: yes. Это буквально ""идти"" (этот же глагол используется в конструкции 67, пахнуть)"
+78	Chechen	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	dwa-AGR-axa-	ABS	ABL	Y	ABS_ABL							Agreement: yes. PREF (away)
+78	Chechen	75	cover	X (cover) Y	покрывать	X (покрывать) Y	dwa-loocu	ERG	ABS	TR	TR							Agreement: no. PREF (away)
+78	Chechen	76	remember	X (remember) Y	помнить	X (помнить) Y-а	daga-AGR-ooghu	DAT	ABS	X	DAT_ABS							Agreement: yes. heart-AGR-come
+78	Chechen	77	help	X (help) Y	помочь	X (помогать) Y-у	gho AGR-i-	ERG	DAT	Y	ERG_DAT							Agreement: yes. CV (help make)
+78	Chechen	78	understand	X (understand) Y	понимать	X (понимать) Y	qieta	DAT	ABS	X	DAT_ABS							"Agreement: no. букв. ""ударить"". Тот же глагол, что в 79, но в другой форме"
+78	Chechen	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	qietta	ABS	LAT	Y	ABS_LAT							Agreement: no. Тот же глагол, что в 78, но в другой форме.
+78	Chechen	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	*	*	*	*								Agreement: *. Обычно так не говорят, не называют то, обо что порезался
+78	Chechen	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	t’e-letta	ABS	DAT	Y	ABS_DAT							Agreement: no. PREF (on)
+78	Chechen	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	esh-na	*	*	*								"Agreement: *. По сути перевод не получен. Можно либо использовать конверсив (выиграть); либо сказать просто ""проиграл"" без указания победителя. Зарина написала, что как будто бы победитель при глаголе ""проиграть"" должен быть выражен дативом, но сама же далее пишет ""мне не совсем нравится этот пример. Без ДАТ ок, а вот с ДАТ"". И это подтверждено кем-то еще, кого она опросила."
+78	Chechen	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	xazaxetta 	*	*	*								"Agreement: no. Затруднительно выразить нужное значение. Второй актант -- ""тому, что пришло письмо"""
+78	Chechen	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	q’amial AGR-o	ERG	INSTR	Y	ERG_INSTR							Agreement: yes. CV (talk make); в случае прогрессива первый участник в абсолютиве
+78	Chechen	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	AGR-i-	ERG	ABS	TR	TR							"Agreement: yes. букв. ""делать"", то же, что 36"
+78	Chechen	86	drop	X (drop) Y	ронять	X (ронять) Y	vohw-AGR-ozhi-	ERG	ABS	TR	TR							Agreement: yes. PREF (down)
+78	Chechen	87	govern	X (govern) Y	руководить	X (руководить) Y	kyjgalxo 	*	*	*								Agreement: *. Это NV, где Y -- часть именного предиката (руководитель деревни)
+78	Chechen	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	sa gat-AGR-o	ERG	DAT	Y	ERG_DAT							Agreement: yes. CV (soul get.tight)
+78	Chechen	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	t’aehwa-AGR-oedu	ABS	DAT	Y	ABS_DAT							Agreement: yes. behind-AGR-go. Не совсем ясно, что такое behind -- преверб, наречие или послелог
+78	Chechen	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	vozh-AGR-oessa-	ABS	gour	Y	ABS_gour							Agreement: yes. PREF (down)
+78	Chechen	91	listen	X (listen) to Y	слушать	X (слушать) Y	ladughu	ERG	ALL	Y	ERG_ALL							Agreement: no. То же, что 92 и 93
+78	Chechen	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	ladughu	ERG	ALL	Y	ERG_ALL							Agreement: no. То же, что 91 и 93
+78	Chechen	93	hear	X (hear) Y	слышать	X (слышать) Y	ladughu	ERG	ALL	Y	ERG_ALL							Agreement: no. То же, что 91 и 92
+78	Chechen	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	dwa-’ii-	ABS	INSTR	Y	ABS_INSTR							Agreement: no. PREF (away)
+78	Chechen	95	look	X (look) at Y	смотреть	X (смотреть) на Y	hwoezhu	ABS	ALL	Y	ABS_ALL							Agreement: no. 
+78	Chechen	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	dwa-AGR-aeqqi-	ERG	ABS	TR	TR							Agreement: yes. PREF (away)
+78	Chechen	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	ghienahw go	DAT	ABS	X	DAT_ABS							Agreement: no. CV (in.dream go)
+78	Chechen	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	t’e-tii-	ABS	DAT	Y	ABS_DAT							Agreement: no. PREF (on)
+78	Chechen	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	dou AGR-aella	GEN	INSTR	XY	GEN_INSTR							Agreement: yes. CV (fight get)
+78	Chechen	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	maax AGR-u	GEN	ABS	X	GEN_ABS							"Agreement: yes. NV (Х-а Y price is). Я тут условно написал, что есть согласование. На самом деле согласование его вызывает само слово ""цена"", а не ""столько-то рублей"", что закодировано в абсолютиве"
+78	Chechen	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	top toex-	ERG	DAT	Y	ERG_DAT							Agreement: no. CV (weapon hit)
+78	Chechen	102	pour	X (pour) Y	сыпать	X (сыпать) Y	AGR-oexki-	ERG	ABS	TR	TR							Agreement: yes. 
+78	Chechen	103	lose	X (lose) Y	терять	X (терять) Y	AGR-ai’i-	ERG	ABS	TR	TR							Agreement: yes. 
+78	Chechen	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	AGR-ax-	ABS	buxa	Y	ABS_buxa							"Agreement: yes. просто ""уйти"" (то же, что 12?)"
+78	Chechen	105	kill	X (kill) Y	убивать	X (убивать) Y-а	AGR-ii-	ERG	ABS	TR	TR							Agreement: yes. 
+78	Chechen	106	hit	X (hit) Y	ударить	X (ударять) Y-а	toex-	ERG	DAT	Y	ERG_DAT							Agreement: no. 
+78	Chechen	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	bart AGR-aeqqi-	ERG	DAT	Y	ERG_DAT							Agreement: yes. CV (mouth take)
+78	Chechen	108	read	X (read) Y	читать	X (читать) Y-а	AGR-esh-	ERG	ABS	TR	TR							Agreement: yes. 
+78	Chechen	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	hwabi-	ERG	ABS	TR	TR							Agreement: no. 
+78	Chechen	110	respect	X (respect) Y	уважать	X (уважать) Y-а	looru	ERG	ABS	TR	TR							Agreement: no. 
+78	Chechen	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	degaz xieta	DAT	ABS	X	DAT_ABS							Agreement: no. CV (disgusting seem)
+78	Chechen	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	reza AGR-u	ABS	DAT	Y	ABS_DAT							Agreement: yes. NV (satisfied be)
+78	Chechen	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	AGR-iezajella	DAT	ABS	X	DAT_ABS							Agreement: yes. 
+78	Chechen	114	trust	X (trust) Y	доверять	X (доверять) Y-у	tiesha	ABS	LAT	Y	ABS_LAT							Agreement: no. То же, что 7 (верить)
+78	Chechen	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	q’axieta	DAT	LAT	XY	DAT_LAT							Agreement: no. 
+78	Chechen	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	hwagh AGR-u	GEN	INSTR	XY	GEN_INSTR							"Agreement: yes. NV (jealousy be). Согласование вызывает слово ""зависть"""
+78	Chechen	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	oeghaz-AGR-ax-	ABS	DAT	Y	ABS_DAT							Agreement: yes. То же, что 122 (сердиться) (засчитанный), а также 123 (обижаться) и 128 (раздражаться) (не засчитанный). angry-AGR-go (еще получен экзотический диалектный вариант с моделью, внимание, DAT-DAT)
+78	Chechen	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	ciac-AGR-aella	ABS	LAT	Y	ABS_LAT							Agreement: yes. 
+78	Chechen	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	AGR-ieza	DAT	ABS	X	DAT_ABS							Agreement: yes. То же, что любить-1 (46), хотеть (121) и (не включенный в базу) мечтать (48)
+78	Chechen	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*	*	*								Agreement: *. Перевод не получен (Зарина знает только в пожеланиях)
+78	Chechen	121	want	X (want) Y	хотеть	X (хотеть) Y-а	AGR-ieza	DAT	ABS	X	DAT_ABS							Agreement: yes. То же, что любить-1 (46), любить-2 (119) и (не включенный в базу) мечтать (48)
+78	Chechen	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	oeghaz-AGR-ax-	ABS	DAT	Y	ABS_DAT							Agreement: yes. То же, что 117 (злиться) (засчитанный), а также 123 (обижаться) и 128 (раздражаться) (не засчитанные). angry-AGR-go (еще получен экзотический диалектный вариант с моделью, внимание, DAT-DAT)
+78	Chechen	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	oeghaz-AGR-ax-	*	*	*								Agreement: *. Не засчитываю, потому что эта же конструкция еще в трех случаях, и только двум из них (117 (злиться), и 122 (сердиться)) она соответствует хорошо, а вот этому и 128 (раздражаться) не так хорошо
+78	Chechen	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	xalaxiet-ijt-	ERG	ABS	TR	TR							Agreement: no. CAUS
+78	Chechen	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	ciacvaella	ABS	LAT	Y	ABS_LAT							Agreement: no. 
+78	Chechen	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*	*	*								"Agreement: *. Пока получается только что-то вроде ""не любить"""
+78	Chechen	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	xalaxetta	ABS	DATdoeha	Y	ABS_DATdoeha							Agreement: no. Пока не получается выразить второго участника, потом получена странная диалектная конструкция с двумя дативами, которую я в других случаях не засчитываю. Возможно, еще будет какое-то уточнение, если нет, то ничего не засчитаю
+78	Chechen	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	oeghaz-AGR-ax-	*	*	*								Agreement: *. Не засчитываю, потому что эта же конструкция еще в трех случаях, и только двум из них (117 (злиться), и 122 (сердиться)) она соответствует хорошо, а вот этому и 123 (обижаться) не так хорошо
+78	Chechen	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*								"Agreement: *. Точного перевода не получено, только ""нравиться"" или что-то более развернутое"
+78	Chechen	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	iizalo	ABS	LAT	Y	ABS_LAT							Agreement: no. 

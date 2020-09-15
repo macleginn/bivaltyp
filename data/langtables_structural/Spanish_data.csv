@@ -1,9 +1,9 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 24	Spanish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		DAT	NOM	X	DATNOM							
-24	Spanish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		*				иметь						
+24	Spanish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		*										иметь
 24	Spanish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		TR		TR	TR							
 24	Spanish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		TR		TR	TR							
-24	Spanish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	NOM	X	DATNOM	"Еще есть ""имеет достаточно"", TR, не считаем"						
+24	Spanish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	NOM	X	DATNOM							"Еще есть ""имеет достаточно"", TR, не считаем"
 24	Spanish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	DAT	Y	NOMDAT							
 24	Spanish	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM	DAT	Y	NOMDAT							
 24	Spanish	8	take	X (take) Y	взять	X (брать) Y(-а)		TR		TR	TR							
@@ -21,8 +21,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 24	Spanish	20	milk	X (milk) Y	доить	X (доить) Y-а		TR		TR	TR							
 24	Spanish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		TR		TR	TR							
 24	Spanish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		TR		TR	TR							
-24	Spanish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		*				сочинение						
-24	Spanish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		*				ИГ						
+24	Spanish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		*										сочинение
+24	Spanish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		*										ИГ
 24	Spanish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	EN	Y	EN							
 24	Spanish	26	eat	X (eat) Y	есть	X (есть) Y		TR		TR	TR							
 24	Spanish	27	fry	X (fry) Y	жарить	X (жарить) Y		TR		TR	TR							
@@ -41,7 +41,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 24	Spanish	40	paint	X (paint) Y	красить	X (красить) Y		TR		TR	TR							
 24	Spanish	41	bite	X (bite) Y	кусать	X (кусать) Y-а		TR		TR	TR							
 24	Spanish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		TR		TR	TR							
-24	Spanish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		*				Пытаться поймать						
+24	Spanish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		*										Пытаться поймать
 24	Spanish	44	break	X (break) Y	ломать	X (ломать) Y		TR		TR	TR							
 24	Spanish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		TR		TR	TR							
 24	Spanish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		TR		TR	TR							
@@ -63,7 +63,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 24	Spanish	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		NOM	DAT	Y	NOMDAT							
 24	Spanish	63	open	X (open) Y	открывать	X (открывать) Y		TR		TR	TR							
 24	Spanish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		NOM	DE	Y	DE							
-24	Spanish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		*				наречие						
+24	Spanish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		*										наречие
 24	Spanish	66	plough	X (plough) Y	пахать	X (пахать) Y		TR		TR	TR							
 24	Spanish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		NOM	A	Y	A							
 24	Spanish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		TR		TR	TR							
@@ -71,22 +71,22 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 24	Spanish	70	write	X (write) Y	писать	X (писать) Y		TR		TR	TR							
 24	Spanish	71	drink	X (drink) Y	пить	X (пить) Y		TR		TR	TR							
 24	Spanish	72	melt	X (melt) Y	плавить	X (плавить) Y		TR		TR	TR							
-24	Spanish	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		*				ADV						
+24	Spanish	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		*										ADV
 24	Spanish	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		TR		TR	TR							
 24	Spanish	75	cover	X (cover) Y	покрывать	X (покрывать) Y		TR		TR	TR							
 24	Spanish	76	remember	X (remember) Y	помнить	X (помнить) Y-а		TR		TR	TR							
-24	Spanish	77	help	X (help) Y	помочь	X (помогать) Y-у		TR		TR	TR	Есть вариативность с DAT						
+24	Spanish	77	help	X (help) Y	помочь	X (помогать) Y-у		TR		TR	TR							Есть вариативность с DAT
 24	Spanish	78	understand	X (understand) Y	понимать	X (понимать) Y		TR		TR	TR							
 24	Spanish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		NOM	EN	Y	EN							
 24	Spanish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		NOM	CON	Y	CON							
 24	Spanish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM	A	Y	A							
-24	Spanish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		*				Не нашли такого глагола, чтобы был актантом тот, у кого выиграли						
+24	Spanish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		*										Не нашли такого глагола, чтобы был актантом тот, у кого выиграли
 24	Spanish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		NOM	DE	Y	DE							
 24	Spanish	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		NOM	CON	Y	CON							
 24	Spanish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		TR		TR	TR							
 24	Spanish	86	drop	X (drop) Y	ронять	X (ронять) Y		TR		TR	TR							
 24	Spanish	87	govern	X (govern) Y	руководить	X (руководить) Y		TR		TR	TR							
-24	Spanish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		TR		TR	TR	CV						
+24	Spanish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		TR		TR	TR							CV
 24	Spanish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		TR		TR	TR							
 24	Spanish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	DE	Y	DE							
 24	Spanish	91	listen	X (listen) to Y	слушать	X (слушать) Y		TR		TR	TR							
@@ -104,8 +104,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 24	Spanish	103	lose	X (lose) Y	терять	X (терять) Y		TR		TR	TR							
 24	Spanish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	EN	Y	EN							
 24	Spanish	105	kill	X (kill) Y	убивать	X (убивать) Y-а		TR		TR	TR							
-24	Spanish	106	hit	X (hit) Y	ударить	X (ударять) Y-а		NOM	DAT	Y	NOMDAT	CV						
-24	Spanish	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		NOM	DAT	Y	NOMDAT	CV						
+24	Spanish	106	hit	X (hit) Y	ударить	X (ударять) Y-а		NOM	DAT	Y	NOMDAT							CV
+24	Spanish	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		NOM	DAT	Y	NOMDAT							CV
 24	Spanish	108	read	X (read) Y	читать	X (читать) Y-а		TR		TR	TR							
 24	Spanish	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		TR		TR	TR							
 24	Spanish	110	respect	X (respect) Y	уважать	X (уважать) Y-а		TR		TR	TR							

@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-29	English	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*		*		Инкорпорация (have Yache)	P. has a headache.					
-29	English	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	have	TR		TR	TR	то же, что иметь	P. has the flu.					
-29	English	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	be_afraid	SUBJ	of	Y	SUBJof		(P. has to go out of the house, but there is a dog barking in the yard).  P. is afraid of the dog.					
-29	English	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	throw	TR		TR	TR		(Two boys are competing to see who can throw a stone the farthest.) P. threw a stone (first).					
-29	English	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*		*		наречие	(P. has found a new job.) Now P. has enough money.					
-29	English	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	resemble	TR		TR	TR		(M. is P.'s grandfather) P. resembles M.					
-29	English	7	believe	X (believe) Y	верить	X (верить)Y-у	believe	TR		TR	TR		P. believes M.					
-29	English	8	take	X (take) Y	взять	X (брать) Y(-а)	take	TR		TR	TR		P. took a book (from the shelf).					
-29	English	9	see	X (see) Y	видеть	X (видеть) Y(-а)	see	TR		TR	TR		P. sees a house.					
-29	English	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	influence	TR		TR	TR		Age influences memory.					
-29	English	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	encounter	TR		TR	TR		P. encountered M. (accidentally, on the street).					"or (more frequent, but more colloquial) ""run into""."
-29	English	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	enter	TR		TR	TR		P. entered the house.					
-29	English	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	beat	TR		TR	TR		(P. and M. played chess.) P. beat M.					
-29	English	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	go_out	SUBJ	of	Y	SUBJof	Не уверен, что это правильная трактовка	P. went out of the house.					
-29	English	15	drive	X (drive) Y	гнать	X (гнать) Y-а	drive	TR		TR	TR		P. is driving the cow (to the pasture).					
-29	English	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bend	TR		TR	TR		P. bent the branch.					
-29	English	17	tell	X (tell) Y	говорить	X (говорить) Y-у	tell	TR		TR	TR		P. told M.: (‘Call me this evening.’)					
-29	English	18	hold	X (hold)Y	держать	X (держать) Y(-а)	hold	TR		TR	TR		P. is holding a book (in his hands).					
-29	English	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	catch_up	SUBJ	with	Y	SUBJwith		(P. had an argument with M., M. went away, P. went after her.) P. caught up with M.					
-29	English	20	milk	X (milk) Y	доить	X (доить) Y-а	milk	TR		TR	TR		P. milked the cow.					
-29	English	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	reach	TR		TR	TR		(P. was crossing the river in a boat.) P. reached the bank.					
-29	English	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	touch	TR		TR	TR		(The wall was covered with fresh paint.) P. touched the wall (and got dirty).					
-29	English	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	fight	SUBJ	with	Y	SUBJwith		(‘Look out of the window!’ ‘What’s happening?’) ‘P. is fighting with M.’					
-29	English	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	be_friends	SUBJ	with	Y	SUBJwith	NV	P. is friends with M.					
-29	English	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	think	SUBJ	about	Y	SUBJabout		(P. has a thoughtful look.) P. is thinking about M.					
-29	English	26	eat	X (eat) Y	есть	X (есть) Y	eat	TR		TR	TR		P. ate an apple.					
-29	English	27	fry	X (fry) Y	жарить	X (жарить) Y	fry	TR		TR	TR		P. fried the fish.					
-29	English	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	wait	SUBJ	for	Y	SUBJfor		(P. and M. have arranged to meet at 2 p.m. at the post office.) P. is waiting for M.					
-29	English	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	forget	SUBJ	about	Y	SUBJabout	"Вообще-то JN поставила скобки вокруг ""about"", но в гугле это чаще и JN сама не написала, что about невозможно, оставляю"	(P. had already visited this town and knew that there is a shorter road. When he went there once again this time, however, he chose the longer road.) P. forgot (about) the other road.					спросить, JN поставила скобки вокруг about
-29	English	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	depend	SUBJ	on	Y	SUBJon		Memory depends on age.					
-29	English	31	call	X (call) Y	звать	X (звать) Y-а	call	TR		TR	TR		(P. tried to open the door himself, but he didn’t manage. Then) P. called M.					
-29	English	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		*		*		only get to	P. got to know M. a year ago.					
-29	English	33	know	X (know) Y	знать 	X (знать) Y-а	know	TR		TR	TR		P. knows M.					
-29	English	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	play	TR		TR	TR		(What is P. doing?) P. is playing the guitar.					
-29	English	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	avoid	TR		TR	TR		(P. owes M. a huge sum of money, which he cannot return. Instead of this) P. avoids M.					
-29	English	36	make	X (make) Y	изготовить	X (изготовить) Y	make	TR		TR	TR		P. made a mousetrap.					
-29	English	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	make_fun	SUBJ	of	Y	SUBJof		(M. did something very stupid. Now,) P. is making fun of M.					
-29	English	38	have	X (have) Y	иметь	X (иметь) Y	have	TR		TR	TR		P. has a car.					
-29	English	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	look	SUBJ	for	Y	SUBJfor		P. is looking for his keys.					
-29	English	40	paint	X (paint) Y	красить	X (красить) Y	paint	TR		TR	TR		P. painted the fence.					
-29	English	41	bite	X (bite) Y	кусать	X (кусать) Y-а	bite	TR		TR	TR		A dog bit P.					
-29	English	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	lose	TR		TR	TR		(There was a fire in the village. As a result) P. lost his house.					
-29	English	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		*		*		only try 	(The cat sprang out of the house.) P. is trying to catch the cat.					
-29	English	44	break	X (break) Y	ломать	X (ломать) Y	break	TR		TR	TR		P. broke a stick.					
-29	English	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	flatter	TR		TR	TR		(P. tells M. that she is very beautiful.) P. is flattering M.					
-29	English	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	love	TR		TR	TR		P. loves M.					
-29	English	47	wave	X (wave) Y	махать	X (махать) Y-ом	wave	TR		TR	TR		(Look, there’s P. on the other side of the river.) P. is waving a handkerchief.					
-29	English	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dream	SUBJ	of	Y	SUBJof	"Есть такое различие, что ""dream of"" это мечтать, а ""dream about"" -- видеть во сне"	P. is dreaming of a new car.					"Спросить, DREAM #sleeping#:    ""dream of"" has to do with мечта; ""dream about"" has to do with сон."
-29	English	49	wash	X (wash) Y	мыть	X (мыть) Y	wash	TR		TR	TR		P. washed the cup.					
-29	English	50	put_on	X (put_on) Y	надевать	X (надевать) Y	put on	TR		TR	TR		P. put on his trousers.					
-29	English	51	be_called	X (be_called) Y	называться	X (называться) Y	be_called	*		*		Не уверен, не знаю, как анализировать, оставляю пробел	(A boy saw his father’s compass and asked what this was. The father answered him:) ‘This tool is called a compass.’					
-29	English	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	punish	TR		TR	TR		(P.’s son was misbehaving.) P. punished his son.					
-29	English	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	bear	TR		TR	TR		A bear attacked a fisherman.					
-29	English	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	fill	SUBJ	with	Y	SUBJwith		(There was a bucket near the house during the rain.) The bucket filled with water.					
-29	English	55	find	X (find) Y	находить	X (находить) Y(-а)	find	TR		TR	TR		P. found his keys.					
-29	English	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	be_short	TR		TR	TR	Не уверен, что это можно считать переходной конструкцией, но выглядит именно так (He is short one euro)	(P. wants to buy a ticket. He counts his money and finds out that) P. is short / lacks one euro.					"JN: LACK:    ""is short"" is probably most neutral and frequent, but maybe colloquial (and maybe mostly American?)."
-29	English	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	hate	TR		TR	TR		P. hates M.					
-29	English	58	like	X (like) Y	нравиться	X-у (нравиться) Y	like	TR		TR	TR		P. likes this shirt.					
-29	English	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	need	TR		TR	TR		(P.’s house was burglarised with all the valuables taken. As a consequence,) P. needs money.					
-29	English	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	surround	TR		TR	TR		Walls surround the city.					
-29	English	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		*		*		have … left	(P. had 100 euro, but he bought a TV, so now) P. has 10 euros left.					
-29	English	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	answer	TR		TR	TR		(The teacher asked P. what his parents’ names are.) P. answered the teacher.					
-29	English	63	open	X (open) Y	открывать	X (открывать) Y	open	TR		TR	TR		P. opened a can.					
-29	English	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	be_different	SUBJ	from	Y	SUBJfrom	NV	(M. told P. that they have identical shirts. P. answered her,) ‘No, my shirt is different from yours (, it is darker).’					
-29	English	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	fall_behind	*		*		Не уверен	(P. and M. started out to school together, but) P. fell behind M.					
-29	English	66	plough	X (plough) Y	пахать	X (пахать) Y	plough	TR		TR	TR		P. is ploughing the field.					
-29	English	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smell	SUBJ	like	Y	SUBJlike	Вообще-то это Николс предложила в качестве первого варианта like. Вторая возможность -- of, которая была раньше у меня. В гугле like раза в 3 чаще	(I was mending my car.) My hands smell like / smell of gasoline.					"JN: Some people can also say ""smell of"".  Maybe include that as an alternative."
-29	English	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	cross	TR		TR	TR		(P. saw that the shop is on the other side of the road.) P. crossed the road (and entered the shop).					
-29	English	69	sing	X (sing) Y	петь	X (петь) Y	sing	TR		TR	TR		P. sang a beautiful song.					
-29	English	70	write	X (write) Y	писать	X (писать) Y	write	TR		TR	TR		P. wrote a letter.					
-29	English	71	drink	X (drink) Y	пить	X (пить) Y	drink	TR		TR	TR		(P. was given a glass of milk by his mother.) P. drank the milk.					
-29	English	72	melt	X (melt) Y	плавить	X (плавить) Y	melt	TR		TR	TR		P. melted a piece of lead.					
-29	English	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	go_well	SUBJ	with	Y	SUBJwith		(A girl tries a belt in the shop and says, ‘Great,) this belt goes well with / matches my dress.’					
-29	English	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	leave	TR		TR	TR		P. left his native city.					
-29	English	75	cover	X (cover) Y	покрывать	X (покрывать) Y	cover	TR		TR	TR		The carpet covers the whole floor.					
-29	English	76	remember	X (remember) Y	помнить	X (помнить) Y-а	remember	TR		TR	TR		P. remembers the house (where he grew up) well.					
-29	English	77	help	X (help) Y	помочь	X (помогать) Y-у	help	TR		TR	TR		(M. didn’t manage to do her homework by herself.) P. helped M.					
-29	English	78	understand	X (understand) Y	понимать	X (понимать) Y	understand	TR		TR	TR		P. understands French.					
-29	English	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	hit	TR		TR	TR		Lightning hit / struck the house.					JN: предложила struck как вариант (вроде в той же мере распространено)
-29	English	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	cut_oneself	SUBJ	with	Y	SUBJwith		P. cut himself with a razor.					
-29	English	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	get_stuck	SUBJ	to	Y	SUBJto		(The table was recently covered with paint. P. didn’t know this and placed his glass on it.) The glass got stuck to the table.					
-29	English	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	lose	SUBJ	to	Y	SUBJto		(P. played chess with M.) P. lost to M.					
-29	English	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	be_glad	SUBJ	about	Y	SUBJabout		(P. received a letter from M.) P. was glad about the letter.					"JN: Еще вариант (P. was glad to get the letter). REJOICE:    This is archaic (mostly Biblical).  Phrasal alternatives also include ""happy to see"", ""happy to get"""
-29	English	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	speak	SUBJ	with	Y	SUBJwith		(I am looking for P. When I enter the room I see that) P. is speaking with M.					
-29	English	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	give_birth	SUBJ	to	Y	SUBJto	CV	M. gave birth to a son.					
-29	English	86	drop	X (drop) Y	ронять	X (ронять) Y	drop	TR		TR	TR		P. dropped the glass.					
-29	English	87	govern	X (govern) Y	руководить	X (руководить) Y	run	TR		TR	TR		P. runs our town.					
-29	English	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	misgg	TR		TR	TR		P. misses M.					
-29	English	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	follow	TR		TR	TR		P. follows M.					
-29	English	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	get_down	SUBJ	from	Y	SUBJfrom		P. got down from the horse.					
-29	English	91	listen	X (listen) to Y	слушать	X (слушать) Y	listen	SUBJ	to	Y	SUBJto		(What is P. doing?) P. is listening to radio.					
-29	English	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obey	TR		TR	TR		(M. is a mischievous boy, but P. always listens to / obeys his mother.					
-29	English	93	hear	X (hear) Y	слышать	X (слышать) Y	hear	TR		TR	TR		P. hears the music.					
-29	English	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	get_mixed	SUBJ	with	Y	SUBJwith		(Some honey was put in a jar of milk and stirred.) The honey got mixed with the milk.					
-29	English	95	look	X (look) at Y	смотреть	X (смотреть) на Y	look	SUBJ	at	Y	SUBJat		P. is looking at the clouds (trying to determine if it will rain).					
-29	English	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	take_off	TR		TR	TR		P. took off his shirt.					
-29	English	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	dream	SUBJ	about	Y	SUBJabout		(P. sleeps) M. dreams about P.					
-29	English	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	agree	SUBJ	with	Y	SUBJwith		(M. told P. that their son should learn Irish.) P. agreed with M.					
-29	English	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	have_quarrel	SUBJ	with	Y	SUBJwith		P. had a quarrel with M.					
-29	English	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	cost	TR		TR	TR		This cup costs 1 euro.					
-29	English	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	shoot	SUBJ	at	Y	SUBJat		P. shot at the bird. (He missed.)					
-29	English	102	pour	X (pour) Y	сыпать	X (сыпать) Y	pour	TR		TR	TR		P. poured the sugar (into the cup).					
-29	English	103	lose	X (lose) Y	терять	X (терять) Y	lose	TR		TR	TR		P. lost his keys.					
-29	English	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sink	SUBJ	in	Y	SUBJin		(This tree has very heavy wood. I threw a log in the river.) The log sank in the water.					
-29	English	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kill	TR		TR	TR		P. killed M.					
-29	English	106	hit	X (hit) Y	ударить	X (ударять) Y-а	hit	TR		TR	TR		P. hit M.					
-29	English	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	kiss	TR		TR	TR		P. kissed M.					
-29	English	108	read	X (read) Y	читать	X (читать) Y-а	read	TR		TR	TR		P. read an interesting book.					
-29	English	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	move	TR		TR	TR		P. moved his finger.					
-29	English	110	respect	X (respect) Y	уважать	X (уважать) Y-а	respect	TR		TR	TR		P. respects M.					
-29	English	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	be_squeamish	SUBJ	about	Y	SUBJabout	NV	P. is squeamish about dirty dishes.					
-29	English	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	be_ok	SUBJ	with	Y	SUBJwith	NV	(P.’s son does well at school.) P. is content/satisfied with his son.					"JN. Спросить, получается, что нет способа спросить? Actually, I think ""content"" and ""satisfied"" are both better with inanimate and abstract objects:  content or satisfied with his son's performance.  Content or satisfied with an employee, maybe (but then it's really their work and not the person).   In quite colloquial English, but rapidly becoming neutral:  P is OK with his son.  (Probably not British, at least not yet.)"
-29	English	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	fall_in_love	SUBJ	with	Y	SUBJwith		P. fell in love with M.					
-29	English	114	trust	X (trust) Y	доверять	X (доверять) Y-у	trust	TR		TR	TR		(P. and M. have a happy family. M. never deceives P.) P. trusts M.					
-29	English	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sympathise	SUBJ	with	Y	SUBJwith		(P.’s mother is very ill.) P. sympathises with his mother.					
-29	English	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	envy	TR		TR	TR		(M. has a car, and P. doesn't). P. envies M.					
-29	English	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	be_angry	SUBJ	with	Y	SUBJwith		P. is angry with M.					
-29	English	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	be_surprised	SUBJ	with	Y	SUBJwith		(M. made P. an expensive gift.) P. was surprised at this gift.					JN. добавила at первым, после слэша осталось by, которое было у меня. Спросить.
-29	English	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	love	TR		TR	TR		P. loves tea.					
-29	English	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	enjoy	TR		TR	TR		(After being in cold water) P. enjoys hot tea.					
-29	English	121	want	X (want) Y	хотеть	X (хотеть) Y-а	want	TR		TR	TR		P. wants a new mobile phone.					
-29	English	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	have_a_grudge	SUBJ	against	Y	SUBJagainst	CV	(Why doesn’t P. speak with M.?) P. has a grudge against M.					
-29	English	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	take_offence	SUBJ	at	Y	SUBJat		(M. called P. an idiot.) P. took offence at M. 					JN добавила варианты (P got mad at / cross with M.)
-29	English	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	upset	TR		TR	TR		P. greatly upset M. (He told her that he had spent all the money.)					
-29	English	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	marvel	SUBJ	at	Y	SUBJat	"JN: ""marvel at"" exists but is a bit poetic.  There's really no close equivalent in English."	(P. arrived in the capital.) P. marvelled at / was struck by / was impressed by this town.					"JN: ""marvel at"" exists but is a bit poetic.  There's really no close equivalent in English."
-29	English	126	despise	X (despise) Y	презирать	X (презирать) Y-а	despise	TR		TR	TR		P. despises M.					
-29	English	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	get_upset	SUBJ	with	Y	SUBJwith		(P.’s son got bad marks in school once again.) P. got upset with his son.					Видимо, возможно и became upset because of his son (было у меня, JN заменила через слэш)
-29	English	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	get_irritated	SUBJ	with	Y	SUBJwith		(P. has a very bad disposition. Look, once again) P. is getting irritated with his daughter.					
-29	English	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	be_fond	SUBJ	of	Y	SUBJof	NV	P. is fond of M.					
-29	English	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	be_shy	SUBJ	about	Y	SUBJabout	NV	(P. is the smallest in his class.) P. is shy about his height.					
+29	English	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*	*	*			P. has a headache.					Инкорпорация (have Yache)
+29	English	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	have	SBJ	DO	TR	TR		P. has the flu.					то же, что иметь
+29	English	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	be afraid	SBJ	of	Y	SBJ_of		(P. has to go out of the house, but there is a dog barking in the yard).  P. is afraid of the dog.					
+29	English	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	throw	SBJ	DO	TR	TR		(Two boys are competing to see who can throw a stone the farthest.) P. threw a stone (first).					
+29	English	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*	*	*			(P. has found a new job.) Now P. has enough money.					наречие
+29	English	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	resemble	SBJ	DO	TR	TR		(M. is P.'s grandfather) P. resembles M.					
+29	English	7	believe	X (believe) Y	верить	X (верить)Y-у	believe	SBJ	DO	TR	TR		P. believes M.					
+29	English	8	take	X (take) Y	взять	X (брать) Y(-а)	take	SBJ	DO	TR	TR		P. took a book (from the shelf).					
+29	English	9	see	X (see) Y	видеть	X (видеть) Y(-а)	see	SBJ	DO	TR	TR		P. sees a house.					
+29	English	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	influence	SBJ	DO	TR	TR		Age influences memory.					
+29	English	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	encounter	SBJ	DO	TR	TR		P. encountered M. (accidentally, on the street).					"or (more frequent, but more colloquial) ""run into""."
+29	English	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	enter	SBJ	DO	TR	TR		P. entered the house.					
+29	English	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	beat	SBJ	DO	TR	TR		(P. and M. played chess.) P. beat M.					
+29	English	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	go out	SBJ	of	Y	SBJ_of		P. went out of the house.					Не уверен, что это правильная трактовка
+29	English	15	drive	X (drive) Y	гнать	X (гнать) Y-а	drive	SBJ	DO	TR	TR		P. is driving the cow (to the pasture).					
+29	English	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bend	SBJ	DO	TR	TR		P. bent the branch.					
+29	English	17	tell	X (tell) Y	говорить	X (говорить) Y-у	tell	SBJ	DO	TR	TR		P. told M.: (‘Call me this evening.’)					
+29	English	18	hold	X (hold)Y	держать	X (держать) Y(-а)	hold	SBJ	DO	TR	TR		P. is holding a book (in his hands).					
+29	English	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	catch up	SBJ	with	Y	SBJ_with		(P. had an argument with M., M. went away, P. went after her.) P. caught up with M.					
+29	English	20	milk	X (milk) Y	доить	X (доить) Y-а	milk	SBJ	DO	TR	TR		P. milked the cow.					
+29	English	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	reach	SBJ	DO	TR	TR		(P. was crossing the river in a boat.) P. reached the bank.					
+29	English	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	touch	SBJ	DO	TR	TR		(The wall was covered with fresh paint.) P. touched the wall (and got dirty).					
+29	English	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	fight	SBJ	with	Y	SBJ_with		(‘Look out of the window!’ ‘What’s happening?’) ‘P. is fighting with M.’					
+29	English	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	be friends	SBJ	with	Y	SBJ_with		P. is friends with M.					NV
+29	English	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	think	SBJ	about	Y	SBJ_about		(P. has a thoughtful look.) P. is thinking about M.					
+29	English	26	eat	X (eat) Y	есть	X (есть) Y	eat	SBJ	DO	TR	TR		P. ate an apple.					
+29	English	27	fry	X (fry) Y	жарить	X (жарить) Y	fry	SBJ	DO	TR	TR		P. fried the fish.					
+29	English	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	wait	SBJ	for	Y	SBJ_for		(P. and M. have arranged to meet at 2 p.m. at the post office.) P. is waiting for M.					
+29	English	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	forget	SBJ	about	Y	SBJ_about		(P. had already visited this town and knew that there is a shorter road. When he went there once again this time, however, he chose the longer road.) P. forgot (about) the other road.					"Вообще-то JN поставила скобки вокруг ""about"", но в гугле это чаще и JN сама не написала, что about невозможно, оставляю"
+29	English	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	depend	SBJ	on	Y	SBJ_on		Memory depends on age.					
+29	English	31	call	X (call) Y	звать	X (звать) Y-а	call	SBJ	DO	TR	TR		(P. tried to open the door himself, but he didn’t manage. Then) P. called M.					
+29	English	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		*	*	*			P. got to know M. a year ago.					only get to
+29	English	33	know	X (know) Y	знать 	X (знать) Y-а	know	SBJ	DO	TR	TR		P. knows M.					
+29	English	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	play	SBJ	DO	TR	TR		(What is P. doing?) P. is playing the guitar.					
+29	English	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	avoid	SBJ	DO	TR	TR		(P. owes M. a huge sum of money, which he cannot return. Instead of this) P. avoids M.					
+29	English	36	make	X (make) Y	изготовить	X (изготовить) Y	make	SBJ	DO	TR	TR		P. made a mousetrap.					
+29	English	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	make fun	SBJ	of	Y	SBJ_of		(M. did something very stupid. Now,) P. is making fun of M.					
+29	English	38	have	X (have) Y	иметь	X (иметь) Y	have	SBJ	DO	TR	TR		P. has a car.					
+29	English	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	look	SBJ	for	Y	SBJ_for		P. is looking for his keys.					
+29	English	40	paint	X (paint) Y	красить	X (красить) Y	paint	SBJ	DO	TR	TR		P. painted the fence.					
+29	English	41	bite	X (bite) Y	кусать	X (кусать) Y-а	bite	SBJ	DO	TR	TR		A dog bit P.					
+29	English	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	lose	SBJ	DO	TR	TR		(There was a fire in the village. As a result) P. lost his house.					
+29	English	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		*	*	*			(The cat sprang out of the house.) P. is trying to catch the cat.					only try 
+29	English	44	break	X (break) Y	ломать	X (ломать) Y	break	SBJ	DO	TR	TR		P. broke a stick.					
+29	English	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	flatter	SBJ	DO	TR	TR		(P. tells M. that she is very beautiful.) P. is flattering M.					
+29	English	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	love	SBJ	DO	TR	TR		P. loves M.					
+29	English	47	wave	X (wave) Y	махать	X (махать) Y-ом	wave	SBJ	DO	TR	TR		(Look, there’s P. on the other side of the river.) P. is waving a handkerchief.					
+29	English	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dream	SBJ	of	Y	SBJ_of		P. is dreaming of a new car.					"Есть такое различие, что ""dream of"" это мечтать, а ""dream about"" -- видеть во сне"
+29	English	49	wash	X (wash) Y	мыть	X (мыть) Y	wash	SBJ	DO	TR	TR		P. washed the cup.					
+29	English	50	put_on	X (put_on) Y	надевать	X (надевать) Y	put on	SBJ	DO	TR	TR		P. put on his trousers.					
+29	English	51	be_called	X (be_called) Y	называться	X (называться) Y	be called	*	*	*			(A boy saw his father’s compass and asked what this was. The father answered him:) ‘This tool is called a compass.’					Не уверен, не знаю, как анализировать, оставляю пробел
+29	English	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	punish	SBJ	DO	TR	TR		(P.’s son was misbehaving.) P. punished his son.					
+29	English	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	bear	SBJ	DO	TR	TR		A bear attacked a fisherman.					
+29	English	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	fill	SBJ	with	Y	SBJ_with		(There was a bucket near the house during the rain.) The bucket filled with water.					
+29	English	55	find	X (find) Y	находить	X (находить) Y(-а)	find	SBJ	DO	TR	TR		P. found his keys.					
+29	English	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	be short	SBJ	DO	TR	TR		(P. wants to buy a ticket. He counts his money and finds out that) P. is short / lacks one euro.					"Не уверен, что это можно считать переходной конструкцией, но выглядит именно так (He is short one euro). JN: LACK:    ""is short"" is probably most neutral and frequent, but maybe colloquial (and maybe mostly American?)."
+29	English	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	hate	SBJ	DO	TR	TR		P. hates M.					
+29	English	58	like	X (like) Y	нравиться	X-у (нравиться) Y	like	SBJ	DO	TR	TR		P. likes this shirt.					
+29	English	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	need	SBJ	DO	TR	TR		(P.’s house was burglarised with all the valuables taken. As a consequence,) P. needs money.					
+29	English	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	surround	SBJ	DO	TR	TR		Walls surround the city.					
+29	English	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		*	*	*			(P. had 100 euro, but he bought a TV, so now) P. has 10 euros left.					have … left
+29	English	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	answer	SBJ	DO	TR	TR		(The teacher asked P. what his parents’ names are.) P. answered the teacher.					
+29	English	63	open	X (open) Y	открывать	X (открывать) Y	open	SBJ	DO	TR	TR		P. opened a can.					
+29	English	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	be different	SBJ	from	Y	SBJ_from		(M. told P. that they have identical shirts. P. answered her,) ‘No, my shirt is different from yours (, it is darker).’					NV
+29	English	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	fall behind	*	*	*			(P. and M. started out to school together, but) P. fell behind M.					Не уверен
+29	English	66	plough	X (plough) Y	пахать	X (пахать) Y	plough	SBJ	DO	TR	TR		P. is ploughing the field.					
+29	English	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smell	SBJ	like	Y	SBJ_like		(I was mending my car.) My hands smell like / smell of gasoline.					"Вообще-то это Николс предложила в качестве первого варианта like. Вторая возможность -- of, которая была раньше у меня. В гугле like раза в 3 чаще. JN: Some people can also say ""smell of"".  Maybe include that as an alternative."
+29	English	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	cross	SBJ	DO	TR	TR		(P. saw that the shop is on the other side of the road.) P. crossed the road (and entered the shop).					
+29	English	69	sing	X (sing) Y	петь	X (петь) Y	sing	SBJ	DO	TR	TR		P. sang a beautiful song.					
+29	English	70	write	X (write) Y	писать	X (писать) Y	write	SBJ	DO	TR	TR		P. wrote a letter.					
+29	English	71	drink	X (drink) Y	пить	X (пить) Y	drink	SBJ	DO	TR	TR		(P. was given a glass of milk by his mother.) P. drank the milk.					
+29	English	72	melt	X (melt) Y	плавить	X (плавить) Y	melt	SBJ	DO	TR	TR		P. melted a piece of lead.					
+29	English	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	go well	SBJ	with	Y	SBJ_with		(A girl tries a belt in the shop and says, ‘Great,) this belt goes well with / matches my dress.’					
+29	English	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	leave	SBJ	DO	TR	TR		P. left his native city.					
+29	English	75	cover	X (cover) Y	покрывать	X (покрывать) Y	cover	SBJ	DO	TR	TR		The carpet covers the whole floor.					
+29	English	76	remember	X (remember) Y	помнить	X (помнить) Y-а	remember	SBJ	DO	TR	TR		P. remembers the house (where he grew up) well.					
+29	English	77	help	X (help) Y	помочь	X (помогать) Y-у	help	SBJ	DO	TR	TR		(M. didn’t manage to do her homework by herself.) P. helped M.					
+29	English	78	understand	X (understand) Y	понимать	X (понимать) Y	understand	SBJ	DO	TR	TR		P. understands French.					
+29	English	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	hit	SBJ	DO	TR	TR		Lightning hit / struck the house.					JN: предложила struck как вариант (вроде в той же мере распространено)
+29	English	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	cut oneself	SBJ	with	Y	SBJ_with		P. cut himself with a razor.					
+29	English	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	get stuck	SBJ	to	Y	SBJ_to		(The table was recently covered with paint. P. didn’t know this and placed his glass on it.) The glass got stuck to the table.					
+29	English	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	lose	SBJ	to	Y	SBJ_to		(P. played chess with M.) P. lost to M.					
+29	English	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	be glad	SBJ	about	Y	SBJ_about		(P. received a letter from M.) P. was glad about the letter.					"JN: Еще вариант (P. was glad to get the letter). REJOICE:    This is archaic (mostly Biblical).  Phrasal alternatives also include ""happy to see"", ""happy to get"""
+29	English	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	speak	SBJ	with	Y	SBJ_with		(I am looking for P. When I enter the room I see that) P. is speaking with M.					
+29	English	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	give birth	SBJ	to	Y	SBJ_to		M. gave birth to a son.					CV
+29	English	86	drop	X (drop) Y	ронять	X (ронять) Y	drop	SBJ	DO	TR	TR		P. dropped the glass.					
+29	English	87	govern	X (govern) Y	руководить	X (руководить) Y	run	SBJ	DO	TR	TR		P. runs our town.					
+29	English	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	misgg	SBJ	DO	TR	TR		P. misses M.					
+29	English	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	follow	SBJ	DO	TR	TR		P. follows M.					
+29	English	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	get down	SBJ	from	Y	SBJ_from		P. got down from the horse.					
+29	English	91	listen	X (listen) to Y	слушать	X (слушать) Y	listen	SBJ	to	Y	SBJ_to		(What is P. doing?) P. is listening to radio.					
+29	English	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obey	SBJ	DO	TR	TR		(M. is a mischievous boy, but P. always listens to / obeys his mother.					
+29	English	93	hear	X (hear) Y	слышать	X (слышать) Y	hear	SBJ	DO	TR	TR		P. hears the music.					
+29	English	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	get mixed	SBJ	with	Y	SBJ_with		(Some honey was put in a jar of milk and stirred.) The honey got mixed with the milk.					
+29	English	95	look	X (look) at Y	смотреть	X (смотреть) на Y	look	SBJ	at	Y	SBJ_at		P. is looking at the clouds (trying to determine if it will rain).					
+29	English	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	take off	SBJ	DO	TR	TR		P. took off his shirt.					
+29	English	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	dream	SBJ	about	Y	SBJ_about		(P. sleeps) M. dreams about P.					
+29	English	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	agree	SBJ	with	Y	SBJ_with		(M. told P. that their son should learn Irish.) P. agreed with M.					
+29	English	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	have quarrel	SBJ	with	Y	SBJ_with		P. had a quarrel with M.					
+29	English	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	cost	SBJ	DO	TR	TR		This cup costs 1 euro.					
+29	English	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	shoot	SBJ	at	Y	SBJ_at		P. shot at the bird. (He missed.)					
+29	English	102	pour	X (pour) Y	сыпать	X (сыпать) Y	pour	SBJ	DO	TR	TR		P. poured the sugar (into the cup).					
+29	English	103	lose	X (lose) Y	терять	X (терять) Y	lose	SBJ	DO	TR	TR		P. lost his keys.					
+29	English	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sink	SBJ	in	Y	SBJ_in		(This tree has very heavy wood. I threw a log in the river.) The log sank in the water.					
+29	English	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kill	SBJ	DO	TR	TR		P. killed M.					
+29	English	106	hit	X (hit) Y	ударить	X (ударять) Y-а	hit	SBJ	DO	TR	TR		P. hit M.					
+29	English	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	kiss	SBJ	DO	TR	TR		P. kissed M.					
+29	English	108	read	X (read) Y	читать	X (читать) Y-а	read	SBJ	DO	TR	TR		P. read an interesting book.					
+29	English	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	move	SBJ	DO	TR	TR		P. moved his finger.					
+29	English	110	respect	X (respect) Y	уважать	X (уважать) Y-а	respect	SBJ	DO	TR	TR		P. respects M.					
+29	English	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	be squeamish	SBJ	about	Y	SBJ_about		P. is squeamish about dirty dishes.					NV
+29	English	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	be ok	SBJ	with	Y	SBJ_with		(P.’s son does well at school.) P. is content/satisfied with his son.					"NV. JN. Спросить, получается, что нет способа спросить? Actually, I think ""content"" and ""satisfied"" are both better with inanimate and abstract objects:  content or satisfied with his son's performance.  Content or satisfied with an employee, maybe (but then it's really their work and not the person).   In quite colloquial English, but rapidly becoming neutral:  P is OK with his son.  (Probably not British, at least not yet.)"
+29	English	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	fall in love	SBJ	with	Y	SBJ_with		P. fell in love with M.					
+29	English	114	trust	X (trust) Y	доверять	X (доверять) Y-у	trust	SBJ	DO	TR	TR		(P. and M. have a happy family. M. never deceives P.) P. trusts M.					
+29	English	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sympathise	SBJ	with	Y	SBJ_with		(P.’s mother is very ill.) P. sympathises with his mother.					
+29	English	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	envy	SBJ	DO	TR	TR		(M. has a car, and P. doesn't). P. envies M.					
+29	English	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	be angry	SBJ	with	Y	SBJ_with		P. is angry with M.					
+29	English	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	be surprised	SBJ	with	Y	SBJ_with		(M. made P. an expensive gift.) P. was surprised at this gift.					JN. добавила at первым, после слэша осталось by, которое было у меня. Спросить.
+29	English	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	love	SBJ	DO	TR	TR		P. loves tea.					
+29	English	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	enjoy	SBJ	DO	TR	TR		(After being in cold water) P. enjoys hot tea.					
+29	English	121	want	X (want) Y	хотеть	X (хотеть) Y-а	want	SBJ	DO	TR	TR		P. wants a new mobile phone.					
+29	English	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	have a grudge	SBJ	against	Y	SBJ_against		(Why doesn’t P. speak with M.?) P. has a grudge against M.					CV
+29	English	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	take offence	SBJ	at	Y	SBJ_at		(M. called P. an idiot.) P. took offence at M. 					JN добавила варианты (P got mad at / cross with M.)
+29	English	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	upset	SBJ	DO	TR	TR		P. greatly upset M. (He told her that he had spent all the money.)					
+29	English	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	marvel	SBJ	at	Y	SBJ_at		(P. arrived in the capital.) P. marvelled at / was struck by / was impressed by this town.					"JN: ""marvel at"" exists but is a bit poetic.  There's really no close equivalent in English."
+29	English	126	despise	X (despise) Y	презирать	X (презирать) Y-а	despise	SBJ	DO	TR	TR		P. despises M.					
+29	English	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	get upset	SBJ	with	Y	SBJ_with		(P.’s son got bad marks in school once again.) P. got upset with his son.					Видимо, возможно и became upset because of his son (было у меня, JN заменила через слэш)
+29	English	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	get irritated	SBJ	with	Y	SBJ_with		(P. has a very bad disposition. Look, once again) P. is getting irritated with his daughter.					
+29	English	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	be fond	SBJ	of	Y	SBJ_of		P. is fond of M.					NV
+29	English	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	be shy	SBJ	about	Y	SBJ_about		(P. is the smallest in his class.) P. is shy about his height.					NV

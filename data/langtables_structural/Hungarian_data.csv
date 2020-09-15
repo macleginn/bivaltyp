@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-53	Hungarian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	fáj	DAT	NOM	X	DATNOM							
-53	Hungarian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	van	DAT	NOM	X	DATNOM	"Букв.: ""быть"", посессивная конструкция"						
-53	Hungarian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	fél	NOM	ABL	Y	NOMABL							
-53	Hungarian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	eldob	TR		TR	TR							
-53	Hungarian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	van elég	DAT	NOM	X	DATNOM	"NV. ""is enough"""						
-53	Hungarian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	hasonlít	NOM	SUB	Y	NOMSUB							
-53	Hungarian	7	believe	X (believe) Y	верить	X (верить)Y-у	hisz	NOM	DAT	Y	NOMDAT							
-53	Hungarian	8	take	X (take) Y	взять	X (брать) Y(-а)	levesz	TR		TR	TR	То же, что 96 						
-53	Hungarian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	lát	TR		TR	TR							
-53	Hungarian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	befolyásol	TR		TR	TR							
-53	Hungarian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	összefut	NOM	INS	Y	NOMINS							
-53	Hungarian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	be-lép-	NOM	ILL	Y	NOMILL	in-step. Есть несколько глаголов с одной и той же моделью управления в зависимости от точки зрения (come in, go in и вот этот -- нейтральный)						
-53	Hungarian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	legyőz	TR		TR	TR							
-53	Hungarian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	kimegy	NOM	ELA	Y	NOMELA							
-53	Hungarian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	vezet	TR		TR	TR							
-53	Hungarian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	meghajlít 	TR		TR	TR	PFX						
-53	Hungarian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	mond	NOM	DAT	Y	NOMDAT							
-53	Hungarian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	tart 	TR		TR	TR							
-53	Hungarian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	utolér	TR		TR	TR							
-53	Hungarian	20	milk	X (milk) Y	доить	X (доить) Y-а	megfej	TR		TR	TR	PFX						
-53	Hungarian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	elér	TR		TR	TR							
-53	Hungarian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	hozzáér	NOM	ALL	Y	NOMALL	"""graze"""						
-53	Hungarian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	verekszik 	NOM	INS	Y	NOMINS	"""scuffle"""						
-53	Hungarian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	barátkozik	NOM	INS	Y	NOMINS	"Не совсем точный аналог, информант перевел как be friendly with. Comm: ""who is probably not very popular"""						
-53	Hungarian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	gondol	NOM	SUB	Y	NOMSUB							
-53	Hungarian	26	eat	X (eat) Y	есть	X (есть) Y	eszik 	TR		TR	TR							
-53	Hungarian	27	fry	X (fry) Y	жарить	X (жарить) Y	megsüt 	TR		TR	TR	PFX						
-53	Hungarian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	vár	NOM	SUB	Y	NOMSUB	"Выбран вариант с непереходным маркированием. Тот же глагол может испльзоваться как TR, в этом случае ""процесс ожидания более активен и направлен конкретно на объект, опустить его нельзя"""						
-53	Hungarian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	megfeledkez	NOM	DEL	Y	NOMDEL	PFX. Есть еще TR elfelejt. Будет использован, если П. забыл точную дорогу. Выбран семантически более походящий вариант.						
-53	Hungarian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	függ	NOM	ABL	Y	NOMABL							
-53	Hungarian	31	call	X (call) Y	звать	X (звать) Y-а	hív 	TR		TR	TR							
-53	Hungarian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	megismer	TR		TR	TR	PFX+знать						
-53	Hungarian	33	know	X (know) Y	знать 	X (знать) Y-а	ismer 	TR		TR	TR							
-53	Hungarian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	*	*		*		Нет точного эквивалента, для каждого инструмента свой глагол, в основу которого входит название инструмента.						
-53	Hungarian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	elkerül	TR		TR	TR							
-53	Hungarian	36	make	X (make) Y	изготовить	X (изготовить) Y	készít	TR		TR	TR	Выбран глагол с более конкретным значением. Есть еще csinál 						
-53	Hungarian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	kicsúfol	TR		TR	TR	Выбран семантически более походящий вариант. Есть еще kinevet, тоже TR						
-53	Hungarian	38	have	X (have) Y	иметь	X (иметь) Y	van 	DAT	NOM	X	DATNOM	"Василиса написала так: ""Неточный эквивалент, владение передается засчет показателя POSS на Y"". Но я не вижу никакой неточности, в литературе пишут, что это и есть основная конструкция в венгерском"						
-53	Hungarian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	keres 	TR		TR	TR							
-53	Hungarian	40	paint	X (paint) Y	красить	X (красить) Y	lefest 	TR		TR	TR							
-53	Hungarian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	megharap 	TR		TR	TR	PFX						
-53	Hungarian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	elveszt	TR		TR	TR	Почему-то через слэш записан вариант elveszít, который совпадает с 103. Оба варианта в принципе находятся в гугле. Более того, в словарях это разные глаголы						
-53	Hungarian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	elkap	*		*		Это в общем-то поймать. То, что он _ловит_ выражается глаголом попытки						
-53	Hungarian	44	break	X (break) Y	ломать	X (ломать) Y	eltör	TR		TR	TR							
-53	Hungarian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	hízeleg	NOM	DAT	Y	NOMDAT							
-53	Hungarian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	szeret	TR		TR	TR	То же, что 129						
-53	Hungarian	47	wave	X (wave) Y	махать	X (махать) Y-ом	integet	NOM	INS	Y	NOMINS	"Выбран более естественный вариант, его же можно употребить со словом ""рука"". Еще есть lenget (TR), он ""Также используется для обозначения движения в воздухе, скорее чем-то длинным"""						
-53	Hungarian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	álmodik	NOM	DEL	Y	NOMDEL	То же, что 97						
-53	Hungarian	49	wash	X (wash) Y	мыть	X (мыть) Y	elmos	TR		TR	TR							
-53	Hungarian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	felvesz 	TR		TR	TR	PFX. Выбран более частотный вариант. Есть еще felhúz, он тоже TR						
-53	Hungarian	51	be_called	X (be_called) Y	называться	X (называться) Y	hívják	ACC	DAT	XY	ACCDAT	"Неточный эквивалент, глагол означает ""call"" и стоит в неопределенно-личной форме."						
-53	Hungarian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	megbüntet	TR		TR	TR	PFX						
-53	Hungarian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	megtámad	TR		TR	TR	PFX						
-53	Hungarian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	megtelik	NOM	INS	Y	NOMINS	PFX						
-53	Hungarian	55	find	X (find) Y	находить	X (находить) Y(-а)	megtalál	TR		TR	TR	PFX						
-53	Hungarian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	keves-ebb- + COP	DAT	INS	XY	DATINS	"NV. Неточный эквивалент: конструкция с прилагательным (букв. ""меньше есть"")."						
-53	Hungarian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	utál	TR		TR	TR							
-53	Hungarian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	tetszik	DAT	NOM	X	DATNOM							
-53	Hungarian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	van szüksége	DAT	SUB	XY	DATSUB	"NV. ""is нужда-GEN"""						
-53	Hungarian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	körbeveszik 	TR		TR	TR							
-53	Hungarian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	marad	DAT	NOM	X	DATNOM							
-53	Hungarian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	válaszol	NOM	DAT	Y	NOMDAT							
-53	Hungarian	63	open	X (open) Y	открывать	X (открывать) Y	kinyit	TR		TR	TR							
-53	Hungarian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	különbözik	NOM	ABL	Y	NOMABL							
-53	Hungarian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	lemarad	NOM	mögött	Y	NOMmogott							
-53	Hungarian	66	plough	X (plough) Y	пахать	X (пахать) Y	szánt	TR		TR	TR							
-53	Hungarian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*		*		"Бензин инкорпорируется в слово запах: ""the hand-POSS.1SG-DAT gasoline-smell-GEN is"""						
-53	Hungarian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	átmegy	NOM	SUP	Y	NOMSUP							
-53	Hungarian	69	sing	X (sing) Y	петь	X (петь) Y	énekel	TR		TR	TR							
-53	Hungarian	70	write	X (write) Y	писать	X (писать) Y	ír	TR		TR	TR							
-53	Hungarian	71	drink	X (drink) Y	пить	X (пить) Y	(meg)iszik	TR		TR	TR							
-53	Hungarian	72	melt	X (melt) Y	плавить	X (плавить) Y	(meg)ólom	TR		TR	TR							
-53	Hungarian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	megy	NOM	ALL	Y	NOMALL							
-53	Hungarian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	elhagy 	TR		TR	TR							
-53	Hungarian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	lefed	TR		TR	TR							
-53	Hungarian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	emlékszik	NOM	SUB	Y	NOMSUB							
-53	Hungarian	77	help	X (help) Y	помочь	X (помогать) Y-у	segít	NOM	DAT	Y	NOMDAT							
-53	Hungarian	78	understand	X (understand) Y	понимать	X (понимать) Y	ért	NOM	ESS	Y	NOMESS							
-53	Hungarian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	csap	NOM	ILL	Y	NOMILL							
-53	Hungarian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	megvág 	NOM	INS	Y	NOMINS	"PFX. Порезаться = ""порезать себя"""						
-53	Hungarian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	odaragad	NOM	ALL	Y	NOMALL							
-53	Hungarian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	veszít	NOM	szembenINS	Y	NOMszembenINS							
-53	Hungarian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	örül 	NOM	DAT	Y	NOMDAT							
-53	Hungarian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	beszélget	NOM	INS	Y	NOMINS							
-53	Hungarian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	szül	TR		TR	TR							
-53	Hungarian	86	drop	X (drop) Y	ронять	X (ронять) Y	elejt	TR		TR	TR							
-53	Hungarian	87	govern	X (govern) Y	руководить	X (руководить) Y	ural	TR		TR	TR							
-53	Hungarian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	hiányzik 	DAT	NOM	X	DATNOM							
-53	Hungarian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	követ	TR		TR	TR							
-53	Hungarian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	leszáll 	NOM	DEL	Y	NOMDEL							
-53	Hungarian	91	listen	X (listen) to Y	слушать	X (слушать) Y	hallgat	TR		TR	TR	Тот же глагол, что в 92, но другая модель управления						
-53	Hungarian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	hallgat 	NOM	SUB	Y	NOMSUB	Тот же глагол, что в 91, но другая модель управления						
-53	Hungarian	93	hear	X (hear) Y	слышать	X (слышать) Y	hall 	TR		TR	TR							
-53	Hungarian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	összekeveredik	NOM	INS	Y	NOMINS							
-53	Hungarian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	néz 	TR		TR	TR							
-53	Hungarian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	levesz	TR		TR	TR	То же, что 8						
-53	Hungarian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	álmodik 	NOM	DEL	Y	NOMDEL	То же, что 48						
-53	Hungarian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	egyetért	NOM	INS	Y	NOMINS							
-53	Hungarian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	összeveszik	NOM	INS	Y	NOMINS							
-53	Hungarian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	kerül	NOM	ILL	Y	NOMILL							
-53	Hungarian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	rálő 	NOM	SUB	Y	NOMSUB							
-53	Hungarian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	tesz	TR		TR	TR							
-53	Hungarian	103	lose	X (lose) Y	терять	X (терять) Y	elveszít	TR		TR	TR	То же, что (идин из вариантов) 42						
-53	Hungarian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	elsüllyed	NOM	alá	Y	NOMala							
-53	Hungarian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	megöl	TR		TR	TR	PFX						
-53	Hungarian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	megüt	TR		TR	TR	PFX						
-53	Hungarian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	megcsókol	TR		TR	TR	PFX						
-53	Hungarian	108	read	X (read) Y	читать	X (читать) Y-а	olvas	TR		TR	TR							
-53	Hungarian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	mozgat	TR		TR	TR							
-53	Hungarian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	tisztel	TR		TR	TR							
-53	Hungarian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	kényes	NOM	SUB	Y	NOMSUB	NV (ADJ?)						
-53	Hungarian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	elégedett	NOM	INS	Y	NOMINS							
-53	Hungarian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	beleszeret	NOM	ILL	Y	NOMILL							
-53	Hungarian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	bízik	NOM	INE	Y	NOMINE							
-53	Hungarian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	együttérez	NOM	INS	Y	NOMINS							
-53	Hungarian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	irigy	NOM	SUB	Y	NOMSUB	NV (ADJ?)						
-53	Hungarian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	mérges	NOM	SUB	Y	NOMSUB	NV (ADJ?)						
-53	Hungarian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	meglepődik	NOM	ABL	Y	NOMABL	PFX						
-53	Hungarian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	imád	TR		TR	TR	"""adore""; другой вариант -- просто ""очень любит"", то же, что в (46), TR"						
-53	Hungarian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	jól esik 	DAT	NOM	X	DATNOM	"CV. ""falls well"""						
-53	Hungarian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	akar	TR		TR	TR							
-53	Hungarian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	haragszik	NOM	SUB	Y	NOMSUB	То же, что 128						
-53	Hungarian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	megsértődik	NOM	SUB	Y	NOMSUB	PFX						
-53	Hungarian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	elszomorít	TR		TR	TR							
-53	Hungarian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*		*		"Не учитывается, потому что полученный перевод -- это переходный глагол ""поразить"", где подлежащее -- город"						
-53	Hungarian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	megvet 	TR		TR	TR							
-53	Hungarian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	csalódott	NOM	INE	Y	NOMINE	NV (ADJ?)						
-53	Hungarian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	haragszik 	NOM	SUB	Y	NOMSUB	То же, что 122						
-53	Hungarian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	szeret 	TR		TR	TR	То же, что 46						
-53	Hungarian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	szégyell	TR		TR	TR							
+53	Hungarian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	fáj	DAT	NOM	X	DAT_NOM							
+53	Hungarian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	van	DAT	NOM	X	DAT_NOM							"Букв.: ""быть"", посессивная конструкция"
+53	Hungarian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	fél	NOM	ABL	Y	NOM_ABL							
+53	Hungarian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	eldob	NOM	ACC	TR	TR							
+53	Hungarian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	van elég	DAT	NOM	X	DAT_NOM							"NV. ""is enough"""
+53	Hungarian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	hasonlít	NOM	SUB	Y	NOM_SUB							
+53	Hungarian	7	believe	X (believe) Y	верить	X (верить)Y-у	hisz	NOM	DAT	Y	NOM_DAT							
+53	Hungarian	8	take	X (take) Y	взять	X (брать) Y(-а)	levesz	NOM	ACC	TR	TR							То же, что 96 
+53	Hungarian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	lát	NOM	ACC	TR	TR							
+53	Hungarian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	befolyásol	NOM	ACC	TR	TR							
+53	Hungarian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	összefut	NOM	INS	Y	NOM_INS							
+53	Hungarian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	be-lép-	NOM	ILL	Y	NOM_ILL							in-step. Есть несколько глаголов с одной и той же моделью управления в зависимости от точки зрения (come in, go in и вот этот -- нейтральный)
+53	Hungarian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	legyőz	NOM	ACC	TR	TR							
+53	Hungarian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	kimegy	NOM	ELA	Y	NOM_ELA							
+53	Hungarian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	vezet	NOM	ACC	TR	TR							
+53	Hungarian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	meghajlít 	NOM	ACC	TR	TR							PFX
+53	Hungarian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	mond	NOM	DAT	Y	NOM_DAT							
+53	Hungarian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	tart 	NOM	ACC	TR	TR							
+53	Hungarian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	utolér	NOM	ACC	TR	TR							
+53	Hungarian	20	milk	X (milk) Y	доить	X (доить) Y-а	megfej	NOM	ACC	TR	TR							PFX
+53	Hungarian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	elér	NOM	ACC	TR	TR							
+53	Hungarian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	hozzáér	NOM	ALL	Y	NOM_ALL							"""graze"""
+53	Hungarian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	verekszik 	NOM	INS	Y	NOM_INS							"""scuffle"""
+53	Hungarian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	barátkozik	NOM	INS	Y	NOM_INS							"Не совсем точный аналог, информант перевел как be friendly with. Comm: ""who is probably not very popular"""
+53	Hungarian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	gondol	NOM	SUB	Y	NOM_SUB							
+53	Hungarian	26	eat	X (eat) Y	есть	X (есть) Y	eszik 	NOM	ACC	TR	TR							
+53	Hungarian	27	fry	X (fry) Y	жарить	X (жарить) Y	megsüt 	NOM	ACC	TR	TR							PFX
+53	Hungarian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	vár	NOM	SUB	Y	NOM_SUB							"Выбран вариант с непереходным маркированием. Тот же глагол может испльзоваться как TR, в этом случае ""процесс ожидания более активен и направлен конкретно на объект, опустить его нельзя"""
+53	Hungarian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	megfeledkez	NOM	DEL	Y	NOM_DEL							PFX. Есть еще TR elfelejt. Будет использован, если П. забыл точную дорогу. Выбран семантически более походящий вариант.
+53	Hungarian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	függ	NOM	ABL	Y	NOM_ABL							
+53	Hungarian	31	call	X (call) Y	звать	X (звать) Y-а	hív 	NOM	ACC	TR	TR							
+53	Hungarian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	megismer	NOM	ACC	TR	TR							PFX+знать
+53	Hungarian	33	know	X (know) Y	знать 	X (знать) Y-а	ismer 	NOM	ACC	TR	TR							
+53	Hungarian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	*	*	*	*								Нет точного эквивалента, для каждого инструмента свой глагол, в основу которого входит название инструмента.
+53	Hungarian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	elkerül	NOM	ACC	TR	TR							
+53	Hungarian	36	make	X (make) Y	изготовить	X (изготовить) Y	készít	NOM	ACC	TR	TR							Выбран глагол с более конкретным значением. Есть еще csinál 
+53	Hungarian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	kicsúfol	NOM	ACC	TR	TR							Выбран семантически более походящий вариант. Есть еще kinevet, тоже TR
+53	Hungarian	38	have	X (have) Y	иметь	X (иметь) Y	van 	DAT	NOM	X	DAT_NOM							"Василиса написала так: ""Неточный эквивалент, владение передается засчет показателя POSS на Y"". Но я не вижу никакой неточности, в литературе пишут, что это и есть основная конструкция в венгерском"
+53	Hungarian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	keres 	NOM	ACC	TR	TR							
+53	Hungarian	40	paint	X (paint) Y	красить	X (красить) Y	lefest 	NOM	ACC	TR	TR							
+53	Hungarian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	megharap 	NOM	ACC	TR	TR							PFX
+53	Hungarian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	elveszt	NOM	ACC	TR	TR							Почему-то через слэш записан вариант elveszít, который совпадает с 103. Оба варианта в принципе находятся в гугле. Более того, в словарях это разные глаголы
+53	Hungarian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	elkap	*	*	*								Это в общем-то поймать. То, что он _ловит_ выражается глаголом попытки
+53	Hungarian	44	break	X (break) Y	ломать	X (ломать) Y	eltör	NOM	ACC	TR	TR							
+53	Hungarian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	hízeleg	NOM	DAT	Y	NOM_DAT							
+53	Hungarian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	szeret	NOM	ACC	TR	TR							То же, что 129
+53	Hungarian	47	wave	X (wave) Y	махать	X (махать) Y-ом	integet	NOM	INS	Y	NOM_INS							"Выбран более естественный вариант, его же можно употребить со словом ""рука"". Еще есть lenget (TR), он ""Также используется для обозначения движения в воздухе, скорее чем-то длинным"""
+53	Hungarian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	álmodik	NOM	DEL	Y	NOM_DEL							То же, что 97
+53	Hungarian	49	wash	X (wash) Y	мыть	X (мыть) Y	elmos	NOM	ACC	TR	TR							
+53	Hungarian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	felvesz 	NOM	ACC	TR	TR							PFX. Выбран более частотный вариант. Есть еще felhúz, он тоже TR
+53	Hungarian	51	be_called	X (be_called) Y	называться	X (называться) Y	hívják	ACC	DAT	XY	ACC_DAT							"Неточный эквивалент, глагол означает ""call"" и стоит в неопределенно-личной форме."
+53	Hungarian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	megbüntet	NOM	ACC	TR	TR							PFX
+53	Hungarian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	megtámad	NOM	ACC	TR	TR							PFX
+53	Hungarian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	megtelik	NOM	INS	Y	NOM_INS							PFX
+53	Hungarian	55	find	X (find) Y	находить	X (находить) Y(-а)	megtalál	NOM	ACC	TR	TR							PFX
+53	Hungarian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	keves-ebb- + COP	DAT	INS	XY	DAT_INS							"NV. Неточный эквивалент: конструкция с прилагательным (букв. ""меньше есть"")."
+53	Hungarian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	utál	NOM	ACC	TR	TR							
+53	Hungarian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	tetszik	DAT	NOM	X	DAT_NOM							
+53	Hungarian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	van szüksége	DAT	SUB	XY	DAT_SUB							"NV. ""is нужда-GEN"""
+53	Hungarian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	körbeveszik 	NOM	ACC	TR	TR							
+53	Hungarian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	marad	DAT	NOM	X	DAT_NOM							
+53	Hungarian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	válaszol	NOM	DAT	Y	NOM_DAT							
+53	Hungarian	63	open	X (open) Y	открывать	X (открывать) Y	kinyit	NOM	ACC	TR	TR							
+53	Hungarian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	különbözik	NOM	ABL	Y	NOM_ABL							
+53	Hungarian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	lemarad	NOM	mogott	Y	NOM_mogott							
+53	Hungarian	66	plough	X (plough) Y	пахать	X (пахать) Y	szánt	NOM	ACC	TR	TR							
+53	Hungarian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	*	*								"Бензин инкорпорируется в слово запах: ""the hand-POSS.1SG-DAT gasoline-smell-GEN is"""
+53	Hungarian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	átmegy	NOM	SUP	Y	NOM_SUP							
+53	Hungarian	69	sing	X (sing) Y	петь	X (петь) Y	énekel	NOM	ACC	TR	TR							
+53	Hungarian	70	write	X (write) Y	писать	X (писать) Y	ír	NOM	ACC	TR	TR							
+53	Hungarian	71	drink	X (drink) Y	пить	X (пить) Y	(meg)iszik	NOM	ACC	TR	TR							
+53	Hungarian	72	melt	X (melt) Y	плавить	X (плавить) Y	(meg)ólom	NOM	ACC	TR	TR							
+53	Hungarian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	megy	NOM	ALL	Y	NOM_ALL							
+53	Hungarian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	elhagy 	NOM	ACC	TR	TR							
+53	Hungarian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	lefed	NOM	ACC	TR	TR							
+53	Hungarian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	emlékszik	NOM	SUB	Y	NOM_SUB							
+53	Hungarian	77	help	X (help) Y	помочь	X (помогать) Y-у	segít	NOM	DAT	Y	NOM_DAT							
+53	Hungarian	78	understand	X (understand) Y	понимать	X (понимать) Y	ért	NOM	ESS	Y	NOM_ESS							
+53	Hungarian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	csap	NOM	ILL	Y	NOM_ILL							
+53	Hungarian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	megvág 	NOM	INS	Y	NOM_INS							"PFX. Порезаться = ""порезать себя"""
+53	Hungarian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	odaragad	NOM	ALL	Y	NOM_ALL							
+53	Hungarian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	veszít	NOM	szembenINS	Y	NOM_szembenINS							
+53	Hungarian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	örül 	NOM	DAT	Y	NOM_DAT							
+53	Hungarian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	beszélget	NOM	INS	Y	NOM_INS							
+53	Hungarian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	szül	NOM	ACC	TR	TR							
+53	Hungarian	86	drop	X (drop) Y	ронять	X (ронять) Y	elejt	NOM	ACC	TR	TR							
+53	Hungarian	87	govern	X (govern) Y	руководить	X (руководить) Y	ural	NOM	ACC	TR	TR							
+53	Hungarian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	hiányzik 	DAT	NOM	X	DAT_NOM							
+53	Hungarian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	követ	NOM	ACC	TR	TR							
+53	Hungarian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	leszáll 	NOM	DEL	Y	NOM_DEL							
+53	Hungarian	91	listen	X (listen) to Y	слушать	X (слушать) Y	hallgat	NOM	ACC	TR	TR							Тот же глагол, что в 92, но другая модель управления
+53	Hungarian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	hallgat 	NOM	SUB	Y	NOM_SUB							Тот же глагол, что в 91, но другая модель управления
+53	Hungarian	93	hear	X (hear) Y	слышать	X (слышать) Y	hall 	NOM	ACC	TR	TR							
+53	Hungarian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	összekeveredik	NOM	INS	Y	NOM_INS							
+53	Hungarian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	néz 	NOM	ACC	TR	TR							
+53	Hungarian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	levesz	NOM	ACC	TR	TR							То же, что 8
+53	Hungarian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	álmodik 	NOM	DEL	Y	NOM_DEL							То же, что 48
+53	Hungarian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	egyetért	NOM	INS	Y	NOM_INS							
+53	Hungarian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	összeveszik	NOM	INS	Y	NOM_INS							
+53	Hungarian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	kerül	NOM	ILL	Y	NOM_ILL							
+53	Hungarian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	rálő 	NOM	SUB	Y	NOM_SUB							
+53	Hungarian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	tesz	NOM	ACC	TR	TR							
+53	Hungarian	103	lose	X (lose) Y	терять	X (терять) Y	elveszít	NOM	ACC	TR	TR							То же, что (идин из вариантов) 42
+53	Hungarian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	elsüllyed	NOM	ala	Y	NOM_ala							
+53	Hungarian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	megöl	NOM	ACC	TR	TR							PFX
+53	Hungarian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	megüt	NOM	ACC	TR	TR							PFX
+53	Hungarian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	megcsókol	NOM	ACC	TR	TR							PFX
+53	Hungarian	108	read	X (read) Y	читать	X (читать) Y-а	olvas	NOM	ACC	TR	TR							
+53	Hungarian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	mozgat	NOM	ACC	TR	TR							
+53	Hungarian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	tisztel	NOM	ACC	TR	TR							
+53	Hungarian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	kényes	NOM	SUB	Y	NOM_SUB							NV (ADJ?)
+53	Hungarian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	elégedett	NOM	INS	Y	NOM_INS							
+53	Hungarian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	beleszeret	NOM	ILL	Y	NOM_ILL							
+53	Hungarian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	bízik	NOM	INE	Y	NOM_INE							
+53	Hungarian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	együttérez	NOM	INS	Y	NOM_INS							
+53	Hungarian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	irigy	NOM	SUB	Y	NOM_SUB							NV (ADJ?)
+53	Hungarian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	mérges	NOM	SUB	Y	NOM_SUB							NV (ADJ?)
+53	Hungarian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	meglepődik	NOM	ABL	Y	NOM_ABL							PFX
+53	Hungarian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	imád	NOM	ACC	TR	TR							"""adore""; другой вариант -- просто ""очень любит"", то же, что в (46), TR"
+53	Hungarian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	jól esik 	DAT	NOM	X	DAT_NOM							"CV. ""falls well"""
+53	Hungarian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	akar	NOM	ACC	TR	TR							
+53	Hungarian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	haragszik	NOM	SUB	Y	NOM_SUB							То же, что 128
+53	Hungarian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	megsértődik	NOM	SUB	Y	NOM_SUB							PFX
+53	Hungarian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	elszomorít	NOM	ACC	TR	TR							
+53	Hungarian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*	*	*								"Не учитывается, потому что полученный перевод -- это переходный глагол ""поразить"", где подлежащее -- город"
+53	Hungarian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	megvet 	NOM	ACC	TR	TR							
+53	Hungarian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	csalódott	NOM	INE	Y	NOM_INE							NV (ADJ?)
+53	Hungarian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	haragszik 	NOM	SUB	Y	NOM_SUB							То же, что 122
+53	Hungarian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	szeret 	NOM	ACC	TR	TR							То же, что 46
+53	Hungarian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	szégyell	NOM	ACC	TR	TR							

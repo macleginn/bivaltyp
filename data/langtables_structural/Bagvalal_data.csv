@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-11	Bagvalal	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		GEN	NOM	X	GENNOM							
-11	Bagvalal	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM 	ERG	Y	NOMERG							
-11	Bagvalal	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		NOM 	CONTESS	Y	NOMCONTESS							
-11	Bagvalal	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		TR		TR	TR							
-11	Bagvalal	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*										
-11	Bagvalal	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM 	AFF	Y	NOMAFF							
-11	Bagvalal	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM 	SUPESS	Y	NOMSUPESS							
-11	Bagvalal	8	take	X (take) Y	взять	X (брать) Y(-а)		TR		TR	TR							
-11	Bagvalal	9	see	X (see) Y	видеть	X (видеть) Y(-а)		AFF	NOM	X	AFFNOM							
-11	Bagvalal	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		*										
-11	Bagvalal	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		AFF	NOM	X	AFFNOM	NV (навстречу оказываться)						
-11	Bagvalal	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		*										
-11	Bagvalal	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		NOM 	CONTESS	Y	NOMCONTESS							
-11	Bagvalal	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		*										
-11	Bagvalal	15	drive	X (drive) Y	гнать	X (гнать) Y-а		TR		TR	TR							
-11	Bagvalal	16	bend	X (bend) Y	гнуть	X (гнуть) Y		TR		TR	TR							
-11	Bagvalal	17	tell	X (tell) Y	говорить	X (говорить) Y-у		ERG	SUPLAT	Y	ERGSUPLAT							
-11	Bagvalal	18	hold	X (hold)Y	держать	X (держать) Y(-а)		TR		TR	TR							
-11	Bagvalal	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		TR		TR	TR							
-11	Bagvalal	20	milk	X (milk) Y	доить	X (доить) Y-а		TR		TR	TR							
-11	Bagvalal	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		NOM 	SUPLAT	Y	NOMSUPLAT							
-11	Bagvalal	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		NOM 	CONTESS	Y	NOMCONTESS							
-11	Bagvalal	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM 	INTERESS	Y	NOMINTERES							
-11	Bagvalal	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		*										
-11	Bagvalal	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM 	LOCLAT	Y	NOMLOCLAT							
-11	Bagvalal	26	eat	X (eat) Y	есть	X (есть) Y		*										
-11	Bagvalal	27	fry	X (fry) Y	жарить	X (жарить) Y		TR		TR	TR							
-11	Bagvalal	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		*										
-11	Bagvalal	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		AFF	NOM	X	AFFNOM							
-11	Bagvalal	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		*										
-11	Bagvalal	31	call	X (call) Y	звать	X (звать) Y-а		TR		TR	TR							
-11	Bagvalal	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		*										
-11	Bagvalal	33	know	X (know) Y	знать 	X (знать) Y-а		AFF	NOM	X	AFFNOM							
-11	Bagvalal	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		*										
-11	Bagvalal	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		*										
-11	Bagvalal	36	make	X (make) Y	изготовить	X (изготовить) Y		TR		TR	TR							
-11	Bagvalal	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		*										
-11	Bagvalal	38	have	X (have) Y	иметь	X (иметь) Y		*										
-11	Bagvalal	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		TR		TR	TR							
-11	Bagvalal	40	paint	X (paint) Y	красить	X (красить) Y		*										
-11	Bagvalal	41	bite	X (bite) Y	кусать	X (кусать) Y-а		TR		TR	TR							
-11	Bagvalal	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		*										
-11	Bagvalal	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		TR		TR	TR							
-11	Bagvalal	44	break	X (break) Y	ломать	X (ломать) Y		TR		TR	TR							
-11	Bagvalal	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*										
-11	Bagvalal	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		DAT	NOM	X	DATNOM							
-11	Bagvalal	47	wave	X (wave) Y	махать	X (махать) Y-ом		TR		TR	TR							
-11	Bagvalal	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		*										
-11	Bagvalal	49	wash	X (wash) Y	мыть	X (мыть) Y		*										
-11	Bagvalal	50	put_on	X (put_on) Y	надевать	X (надевать) Y		TR		TR	TR							
-11	Bagvalal	51	be_called	X (be_called) Y	называться	X (называться) Y		SUPLAT	NOM	X	SUPLATNOM							
-11	Bagvalal	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		*										
-11	Bagvalal	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		*										
-11	Bagvalal	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM 	GEN	Y	NOMGEN							
-11	Bagvalal	55	find	X (find) Y	находить	X (находить) Y(-а)		AFF	NOM	X	AFFNOM							
-11	Bagvalal	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	NOM	X	DATNOM							
-11	Bagvalal	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		DAT	NOM	X	DATNOM							
-11	Bagvalal	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DAT	NOM	X	DATNOM							
-11	Bagvalal	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		*										
-11	Bagvalal	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		*										
-11	Bagvalal	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		*										
-11	Bagvalal	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		ERG	SUPLAT	Y	ERGSUPLAT							
-11	Bagvalal	63	open	X (open) Y	открывать	X (открывать) Y		TR		TR	TR							
-11	Bagvalal	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		*										
-11	Bagvalal	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		*										
-11	Bagvalal	66	plough	X (plough) Y	пахать	X (пахать) Y		TR		TR	TR							
-11	Bagvalal	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*										
-11	Bagvalal	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		*										
-11	Bagvalal	69	sing	X (sing) Y	петь	X (петь) Y		*										
-11	Bagvalal	70	write	X (write) Y	писать	X (писать) Y		TR		TR	TR							
-11	Bagvalal	71	drink	X (drink) Y	пить	X (пить) Y		TR		TR	TR							
-11	Bagvalal	72	melt	X (melt) Y	плавить	X (плавить) Y		*										
-11	Bagvalal	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		NOM 	DAT	Y	NOMDAT							
-11	Bagvalal	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		*										
-11	Bagvalal	75	cover	X (cover) Y	покрывать	X (покрывать) Y		TR		TR	TR							
-11	Bagvalal	76	remember	X (remember) Y	помнить	X (помнить) Y-а		CONTESS	NOM	X	CONTESSNOM							
-11	Bagvalal	77	help	X (help) Y	помочь	X (помогать) Y-у		TR		TR	TR							
-11	Bagvalal	78	understand	X (understand) Y	понимать	X (понимать) Y		DAT	NOM	X	DATNOM							
-11	Bagvalal	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		*										
-11	Bagvalal	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		*										
-11	Bagvalal	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM 	COMIT	Y	NOMCOM							
-11	Bagvalal	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM 	CONTESS	Y	NOMCONTESS							
-11	Bagvalal	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		NOM 	SUPEL	Y	NOMSUPEL							
-11	Bagvalal	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		*										
-11	Bagvalal	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		TR		TR	TR							
-11	Bagvalal	86	drop	X (drop) Y	ронять	X (ронять) Y		*										
-11	Bagvalal	87	govern	X (govern) Y	руководить	X (руководить) Y		*										
-11	Bagvalal	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		*										
-11	Bagvalal	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		*										
-11	Bagvalal	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		*										
-11	Bagvalal	91	listen	X (listen) to Y	слушать	X (слушать) Y		TR		TR	TR							
-11	Bagvalal	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*										
-11	Bagvalal	93	hear	X (hear) Y	слышать	X (слышать) Y		AFF	NOM	X	AFFNOM							
-11	Bagvalal	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		*										
-11	Bagvalal	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM 	ADESS	Y	NOMADESS							
-11	Bagvalal	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		TR		TR	TR							
-11	Bagvalal	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		*										
-11	Bagvalal	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM 	COMIT	Y	NOMCOM							
-11	Bagvalal	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM 	COMIT	Y	NOMCOM							
-11	Bagvalal	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*										
-11	Bagvalal	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		ERG	ADESS	Y	ERGADESS	"Это каузатив от ""лопаться"", в позиции прямого дополнения оружие"						
-11	Bagvalal	102	pour	X (pour) Y	сыпать	X (сыпать) Y		TR		TR	TR							
-11	Bagvalal	103	lose	X (lose) Y	терять	X (терять) Y		TR		TR	TR							
-11	Bagvalal	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		*										
-11	Bagvalal	105	kill	X (kill) Y	убивать	X (убивать) Y-а		TR		TR	TR							
-11	Bagvalal	106	hit	X (hit) Y	ударить	X (ударять) Y-а		ERG	CONTESS	Y	ERGCONTESS	Переходный глагол, в позиции прямого дополнения то, чем ударяют						
-11	Bagvalal	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	CONTESS	Y	ERGCONTESS	"CV, букв. ""поцелуй делать"""						
-11	Bagvalal	108	read	X (read) Y	читать	X (читать) Y-а		TR		TR	TR							
-11	Bagvalal	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		*										
-11	Bagvalal	110	respect	X (respect) Y	уважать	X (уважать) Y-а		*										
-11	Bagvalal	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*										
-11	Bagvalal	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		*										
-11	Bagvalal	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		*										
-11	Bagvalal	114	trust	X (trust) Y	доверять	X (доверять) Y-у		*										
-11	Bagvalal	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		*										
-11	Bagvalal	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		*										
-11	Bagvalal	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		*										
-11	Bagvalal	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		*										
-11	Bagvalal	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		*										
-11	Bagvalal	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		*										
-11	Bagvalal	121	want	X (want) Y	хотеть	X (хотеть) Y-а		*										
-11	Bagvalal	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		*										
-11	Bagvalal	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		*										
-11	Bagvalal	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		*										
-11	Bagvalal	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		*										
-11	Bagvalal	126	despise	X (despise) Y	презирать	X (презирать) Y-а		*										
-11	Bagvalal	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		*										
-11	Bagvalal	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*										
-11	Bagvalal	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		*										
-11	Bagvalal	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		*										
+11	Bagvalal	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		GEN	NOM	X	GEN_NOM							
+11	Bagvalal	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM 	ERG	Y	NOM_ERG							
+11	Bagvalal	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		NOM 	CONTESS	Y	NOM_CONTESS							
+11	Bagvalal	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		ERG	NOM	TR	TR							
+11	Bagvalal	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*	*	*								
+11	Bagvalal	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM 	AFF	Y	NOM_AFF							
+11	Bagvalal	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM 	SUPESS	Y	NOM_SUPESS							
+11	Bagvalal	8	take	X (take) Y	взять	X (брать) Y(-а)		ERG	NOM	TR	TR							
+11	Bagvalal	9	see	X (see) Y	видеть	X (видеть) Y(-а)		AFF	NOM	X	AFF_NOM							
+11	Bagvalal	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		*	*	*								
+11	Bagvalal	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		AFF	NOM	X	AFF_NOM							NV (навстречу оказываться)
+11	Bagvalal	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		*	*	*								
+11	Bagvalal	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		NOM 	CONTESS	Y	NOM_CONTESS							
+11	Bagvalal	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		*	*	*								
+11	Bagvalal	15	drive	X (drive) Y	гнать	X (гнать) Y-а		ERG	NOM	TR	TR							
+11	Bagvalal	16	bend	X (bend) Y	гнуть	X (гнуть) Y		ERG	NOM	TR	TR							
+11	Bagvalal	17	tell	X (tell) Y	говорить	X (говорить) Y-у		ERG	SUPLAT	Y	ERG_SUPLAT							
+11	Bagvalal	18	hold	X (hold)Y	держать	X (держать) Y(-а)		ERG	NOM	TR	TR							
+11	Bagvalal	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		ERG	NOM	TR	TR							
+11	Bagvalal	20	milk	X (milk) Y	доить	X (доить) Y-а		ERG	NOM	TR	TR							
+11	Bagvalal	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		NOM 	SUPLAT	Y	NOM_SUPLAT							
+11	Bagvalal	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		NOM 	CONTESS	Y	NOM_CONTESS							
+11	Bagvalal	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM 	INTERESS	Y	NOM_INTERESS							
+11	Bagvalal	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		*	*	*								
+11	Bagvalal	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM 	LOCLAT	Y	NOM_LOCLAT							
+11	Bagvalal	26	eat	X (eat) Y	есть	X (есть) Y		*	*	*								
+11	Bagvalal	27	fry	X (fry) Y	жарить	X (жарить) Y		ERG	NOM	TR	TR							
+11	Bagvalal	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		*	*	*								
+11	Bagvalal	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		AFF	NOM	X	AFF_NOM							
+11	Bagvalal	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		*	*	*								
+11	Bagvalal	31	call	X (call) Y	звать	X (звать) Y-а		ERG	NOM	TR	TR							
+11	Bagvalal	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		*	*	*								
+11	Bagvalal	33	know	X (know) Y	знать 	X (знать) Y-а		AFF	NOM	X	AFF_NOM							
+11	Bagvalal	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		*	*	*								
+11	Bagvalal	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		*	*	*								
+11	Bagvalal	36	make	X (make) Y	изготовить	X (изготовить) Y		ERG	NOM	TR	TR							
+11	Bagvalal	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		*	*	*								
+11	Bagvalal	38	have	X (have) Y	иметь	X (иметь) Y		*	*	*								
+11	Bagvalal	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		ERG	NOM	TR	TR							
+11	Bagvalal	40	paint	X (paint) Y	красить	X (красить) Y		*	*	*								
+11	Bagvalal	41	bite	X (bite) Y	кусать	X (кусать) Y-а		ERG	NOM	TR	TR							
+11	Bagvalal	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		*	*	*								
+11	Bagvalal	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		ERG	NOM	TR	TR							
+11	Bagvalal	44	break	X (break) Y	ломать	X (ломать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*	*	*								
+11	Bagvalal	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		DAT	NOM	X	DAT_NOM							
+11	Bagvalal	47	wave	X (wave) Y	махать	X (махать) Y-ом		ERG	NOM	TR	TR							
+11	Bagvalal	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		*	*	*								
+11	Bagvalal	49	wash	X (wash) Y	мыть	X (мыть) Y		*	*	*								
+11	Bagvalal	50	put_on	X (put_on) Y	надевать	X (надевать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	51	be_called	X (be_called) Y	называться	X (называться) Y		SUPLAT	NOM	X	SUPLAT_NOM							
+11	Bagvalal	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		*	*	*								
+11	Bagvalal	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		*	*	*								
+11	Bagvalal	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM 	GEN	Y	NOM_GEN							
+11	Bagvalal	55	find	X (find) Y	находить	X (находить) Y(-а)		AFF	NOM	X	AFF_NOM							
+11	Bagvalal	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	NOM	X	DAT_NOM							
+11	Bagvalal	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		DAT	NOM	X	DAT_NOM							
+11	Bagvalal	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DAT	NOM	X	DAT_NOM							
+11	Bagvalal	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		*	*	*								
+11	Bagvalal	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		*	*	*								
+11	Bagvalal	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		*	*	*								
+11	Bagvalal	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		ERG	SUPLAT	Y	ERG_SUPLAT							
+11	Bagvalal	63	open	X (open) Y	открывать	X (открывать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		*	*	*								
+11	Bagvalal	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		*	*	*								
+11	Bagvalal	66	plough	X (plough) Y	пахать	X (пахать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*								
+11	Bagvalal	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		*	*	*								
+11	Bagvalal	69	sing	X (sing) Y	петь	X (петь) Y		*	*	*								
+11	Bagvalal	70	write	X (write) Y	писать	X (писать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	71	drink	X (drink) Y	пить	X (пить) Y		ERG	NOM	TR	TR							
+11	Bagvalal	72	melt	X (melt) Y	плавить	X (плавить) Y		*	*	*								
+11	Bagvalal	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		NOM 	DAT	Y	NOM_DAT							
+11	Bagvalal	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		*	*	*								
+11	Bagvalal	75	cover	X (cover) Y	покрывать	X (покрывать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	76	remember	X (remember) Y	помнить	X (помнить) Y-а		CONTESS	NOM	X	CONTESS_NOM							
+11	Bagvalal	77	help	X (help) Y	помочь	X (помогать) Y-у		ERG	NOM	TR	TR							
+11	Bagvalal	78	understand	X (understand) Y	понимать	X (понимать) Y		DAT	NOM	X	DAT_NOM							
+11	Bagvalal	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		*	*	*								
+11	Bagvalal	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		*	*	*								
+11	Bagvalal	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM 	COMIT	Y	NOM_COM							
+11	Bagvalal	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM 	CONTESS	Y	NOM_CONTESS							
+11	Bagvalal	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		NOM 	SUPEL	Y	NOM_SUPEL							
+11	Bagvalal	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		*	*	*								
+11	Bagvalal	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		ERG	NOM	TR	TR							
+11	Bagvalal	86	drop	X (drop) Y	ронять	X (ронять) Y		*	*	*								
+11	Bagvalal	87	govern	X (govern) Y	руководить	X (руководить) Y		*	*	*								
+11	Bagvalal	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		*	*	*								
+11	Bagvalal	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		*	*	*								
+11	Bagvalal	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		*	*	*								
+11	Bagvalal	91	listen	X (listen) to Y	слушать	X (слушать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*	*	*								
+11	Bagvalal	93	hear	X (hear) Y	слышать	X (слышать) Y		AFF	NOM	X	AFF_NOM							
+11	Bagvalal	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		*	*	*								
+11	Bagvalal	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM 	ADESS	Y	NOM_ADESS							
+11	Bagvalal	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		ERG	NOM	TR	TR							
+11	Bagvalal	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		*	*	*								
+11	Bagvalal	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM 	COMIT	Y	NOM_COM							
+11	Bagvalal	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM 	COMIT	Y	NOM_COM							
+11	Bagvalal	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*	*	*								
+11	Bagvalal	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		ERG	ADESS	Y	ERG_ADESS							"Это каузатив от ""лопаться"", в позиции прямого дополнения оружие"
+11	Bagvalal	102	pour	X (pour) Y	сыпать	X (сыпать) Y		ERG	NOM	TR	TR							
+11	Bagvalal	103	lose	X (lose) Y	терять	X (терять) Y		ERG	NOM	TR	TR							
+11	Bagvalal	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		*	*	*								
+11	Bagvalal	105	kill	X (kill) Y	убивать	X (убивать) Y-а		ERG	NOM	TR	TR							
+11	Bagvalal	106	hit	X (hit) Y	ударить	X (ударять) Y-а		ERG	CONTESS	Y	ERG_CONTESS							Переходный глагол, в позиции прямого дополнения то, чем ударяют
+11	Bagvalal	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	CONTESS	Y	ERG_CONTESS							"CV, букв. ""поцелуй делать"""
+11	Bagvalal	108	read	X (read) Y	читать	X (читать) Y-а		ERG	NOM	TR	TR							
+11	Bagvalal	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		*	*	*								
+11	Bagvalal	110	respect	X (respect) Y	уважать	X (уважать) Y-а		*	*	*								
+11	Bagvalal	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*	*	*								
+11	Bagvalal	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		*	*	*								
+11	Bagvalal	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		*	*	*								
+11	Bagvalal	114	trust	X (trust) Y	доверять	X (доверять) Y-у		*	*	*								
+11	Bagvalal	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		*	*	*								
+11	Bagvalal	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		*	*	*								
+11	Bagvalal	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		*	*	*								
+11	Bagvalal	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		*	*	*								
+11	Bagvalal	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		*	*	*								
+11	Bagvalal	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		*	*	*								
+11	Bagvalal	121	want	X (want) Y	хотеть	X (хотеть) Y-а		*	*	*								
+11	Bagvalal	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		*	*	*								
+11	Bagvalal	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		*	*	*								
+11	Bagvalal	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		*	*	*								
+11	Bagvalal	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		*	*	*								
+11	Bagvalal	126	despise	X (despise) Y	презирать	X (презирать) Y-а		*	*	*								
+11	Bagvalal	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		*	*	*								
+11	Bagvalal	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*	*	*								
+11	Bagvalal	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		*	*	*								
+11	Bagvalal	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		*	*	*								

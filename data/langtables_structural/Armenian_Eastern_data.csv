@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-26	Armenian_Eastern	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*				ИГ						
-26	Armenian_Eastern	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM	NOM	Y	NOMNOM							
-26	Armenian_Eastern	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	NOM	X	DATNOM	NV						
-26	Armenian_Eastern	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	8	take	X (take) Y	взять	X (брать) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	9	see	X (see) Y	видеть	X (видеть) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		NOM	VRA	Y	NOMVRA							
-26	Armenian_Eastern	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		TR		TR	TR							
-26	Armenian_Eastern	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		NOM	NOM	Y	NOMNOM							
-26	Armenian_Eastern	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		TR		TR	TR							
-26	Armenian_Eastern	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	15	drive	X (drive) Y	гнать	X (гнать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	16	bend	X (bend) Y	гнуть	X (гнуть) Y		TR		TR	TR							
-26	Armenian_Eastern	17	tell	X (tell) Y	говорить	X (говорить) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	18	hold	X (hold)Y	держать	X (держать) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		NOM	DAT	Y	NOMDAT	То же, что 21						
-26	Armenian_Eastern	20	milk	X (milk) Y	доить	X (доить) Y-а		TR		TR	TR							
-26	Armenian_Eastern	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	HET	Y	NOMHET							
-26	Armenian_Eastern	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		NOM	HET	Y	NOMHET	CV						
-26	Armenian_Eastern	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	MASIN	Y	MASIN							
-26	Armenian_Eastern	26	eat	X (eat) Y	есть	X (есть) Y		TR		TR	TR							
-26	Armenian_Eastern	27	fry	X (fry) Y	жарить	X (жарить) Y		TR		TR	TR							
-26	Armenian_Eastern	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		TR		TR	TR							
-26	Armenian_Eastern	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		NOM	MASIN	Y	MASIN							
-26	Armenian_Eastern	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	31	call	X (call) Y	звать	X (звать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	HET	Y	NOMHET							
-26	Armenian_Eastern	33	know	X (know) Y	знать 	X (знать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	NOM	Y	NOMNOM							
-26	Armenian_Eastern	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	36	make	X (make) Y	изготовить	X (изготовить) Y		TR		TR	TR							
-26	Armenian_Eastern	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		TR		TR	TR							
-26	Armenian_Eastern	38	have	X (have) Y	иметь	X (иметь) Y		TR		TR	TR							
-26	Armenian_Eastern	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	40	paint	X (paint) Y	красить	X (красить) Y		TR		TR	TR							
-26	Armenian_Eastern	41	bite	X (bite) Y	кусать	X (кусать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	44	break	X (break) Y	ломать	X (ломать) Y		TR		TR	TR							
-26	Armenian_Eastern	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		TR		TR	TR							
-26	Armenian_Eastern	47	wave	X (wave) Y	махать	X (махать) Y-ом		NOM	INS	Y	INS							
-26	Armenian_Eastern	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	MASIN	Y	MASIN							
-26	Armenian_Eastern	49	wash	X (wash) Y	мыть	X (мыть) Y		TR		TR	TR							
-26	Armenian_Eastern	50	put_on	X (put_on) Y	надевать	X (надевать) Y		TR		TR	TR							
-26	Armenian_Eastern	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM	Y	NOMNOM							
-26	Armenian_Eastern	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	VRA	Y	NOMVRA							
-26	Armenian_Eastern	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	INS	Y	INS							
-26	Armenian_Eastern	55	find	X (find) Y	находить	X (находить) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	NOM	X	DATNOM							
-26	Armenian_Eastern	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		TR		TR	TR							
-26	Armenian_Eastern	58	like	X (like) Y	нравиться	X-у (нравиться) Y		TR		TR	TR	Есть вариант DAT-NOM						
-26	Armenian_Eastern	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		DAT	NOM	X	DATNOM							
-26	Armenian_Eastern	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		TR		TR	TR							
-26	Armenian_Eastern	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		*				Нет отдельного предиката, просто иметь						
-26	Armenian_Eastern	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	63	open	X (open) Y	открывать	X (открывать) Y		TR		TR	TR							
-26	Armenian_Eastern	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	66	plough	X (plough) Y	пахать	X (пахать) Y		TR		TR	TR							
-26	Armenian_Eastern	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*				часть ИГ						
-26	Armenian_Eastern	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		TR		TR	TR							
-26	Armenian_Eastern	69	sing	X (sing) Y	петь	X (петь) Y		TR		TR	TR							
-26	Armenian_Eastern	70	write	X (write) Y	писать	X (писать) Y		TR		TR	TR							
-26	Armenian_Eastern	71	drink	X (drink) Y	пить	X (пить) Y		TR		TR	TR							
-26	Armenian_Eastern	72	melt	X (melt) Y	плавить	X (плавить) Y		TR		TR	TR							
-26	Armenian_Eastern	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		TR		TR	TR							
-26	Armenian_Eastern	75	cover	X (cover) Y	покрывать	X (покрывать) Y		TR		TR	TR							
-26	Armenian_Eastern	76	remember	X (remember) Y	помнить	X (помнить) Y-а		TR		TR	TR							
-26	Armenian_Eastern	77	help	X (help) Y	помочь	X (помогать) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	78	understand	X (understand) Y	понимать	X (понимать) Y		TR		TR	TR							
-26	Armenian_Eastern	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		NOM	INS	Y	INS							
-26	Armenian_Eastern	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		DAT	NOM	X	DATNOM	Наоборот сложно выразить причину						
-26	Armenian_Eastern	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		NOM	HET	Y	NOMHET							
-26	Armenian_Eastern	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	86	drop	X (drop) Y	ронять	X (ронять) Y		TR		TR	TR							
-26	Armenian_Eastern	87	govern	X (govern) Y	руководить	X (руководить) Y		TR		TR	TR							
-26	Armenian_Eastern	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		TR		TR	TR							
-26	Armenian_Eastern	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	91	listen	X (listen) to Y	слушать	X (слушать) Y		TR		TR	TR							
-26	Armenian_Eastern	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		TR		TR	TR							
-26	Armenian_Eastern	93	hear	X (hear) Y	слышать	X (слышать) Y		TR		TR	TR							
-26	Armenian_Eastern	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	HET	Y	NOMHET							
-26	Armenian_Eastern	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		TR		TR	TR							
-26	Armenian_Eastern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		DAT	NOM	X	DATNOM	NV, надо бы проверить						
-26	Armenian_Eastern	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	HET	Y	NOMHET							
-26	Armenian_Eastern	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	HET	Y	NOMHET							
-26	Armenian_Eastern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM	Y	NOMNOM							
-26	Armenian_Eastern	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	102	pour	X (pour) Y	сыпать	X (сыпать) Y		TR		TR	TR							
-26	Armenian_Eastern	103	lose	X (lose) Y	терять	X (терять) Y		TR		TR	TR							
-26	Armenian_Eastern	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	MEJ	Y	MEJ							
-26	Armenian_Eastern	105	kill	X (kill) Y	убивать	X (убивать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	106	hit	X (hit) Y	ударить	X (ударять) Y-а		TR		TR	TR							
-26	Armenian_Eastern	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	108	read	X (read) Y	читать	X (читать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		TR		TR	TR							
-26	Armenian_Eastern	110	respect	X (respect) Y	уважать	X (уважать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		NOM	VRA	Y	NOMVRA							
-26	Armenian_Eastern	114	trust	X (trust) Y	доверять	X (доверять) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		TR		TR	TR							
-26	Armenian_Eastern	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		NOM	VRA	Y	NOMVRA							
-26	Armenian_Eastern	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		DAT	NOM	X	DATNOM	Наоборот сложно выразить причину						
-26	Armenian_Eastern	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		TR		TR	TR							
-26	Armenian_Eastern	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		TR		TR	TR							
-26	Armenian_Eastern	121	want	X (want) Y	хотеть	X (хотеть) Y-а		TR		TR	TR							
-26	Armenian_Eastern	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		NOM	VRA	Y	NOMVRA							
-26	Armenian_Eastern	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	ABL	Y	ABL							
-26	Armenian_Eastern	126	despise	X (despise) Y	презирать	X (презирать) Y-а		TR		TR	TR							
-26	Armenian_Eastern	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	PATCAROV	Y	PATCAROV							
-26	Armenian_Eastern	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		NOM	VRA	Y	NOMVRA							
-26	Armenian_Eastern	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		NOM	DAT	Y	NOMDAT							
-26	Armenian_Eastern	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		NOM	ABL	Y	ABL	"Есть еще вариант ""по причине"""						
+26	Armenian_Eastern	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*	*	*								ИГ
+26	Armenian_Eastern	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	NOM	X	DAT_NOM							NV
+26	Armenian_Eastern	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	8	take	X (take) Y	взять	X (брать) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	9	see	X (see) Y	видеть	X (видеть) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		NOM	DATvra	Y	NOM_DATvra							
+26	Armenian_Eastern	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	15	drive	X (drive) Y	гнать	X (гнать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	16	bend	X (bend) Y	гнуть	X (гнуть) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	17	tell	X (tell) Y	говорить	X (говорить) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	18	hold	X (hold)Y	держать	X (держать) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		NOM	DAT	Y	NOM_DAT							То же, что 21
+26	Armenian_Eastern	20	milk	X (milk) Y	доить	X (доить) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	DAThet	Y	NOM_DAThet							
+26	Armenian_Eastern	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		NOM	DAThet	Y	NOM_DAThet							CV
+26	Armenian_Eastern	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	DATmasin	Y	NOM_DATmasin							
+26	Armenian_Eastern	26	eat	X (eat) Y	есть	X (есть) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	27	fry	X (fry) Y	жарить	X (жарить) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		NOM	DATmasin	Y	NOM_DATmasin							
+26	Armenian_Eastern	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	31	call	X (call) Y	звать	X (звать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	DAThet	Y	NOM_DAThet							
+26	Armenian_Eastern	33	know	X (know) Y	знать 	X (знать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	36	make	X (make) Y	изготовить	X (изготовить) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	38	have	X (have) Y	иметь	X (иметь) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	40	paint	X (paint) Y	красить	X (красить) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	41	bite	X (bite) Y	кусать	X (кусать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	44	break	X (break) Y	ломать	X (ломать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	47	wave	X (wave) Y	махать	X (махать) Y-ом		NOM	INS	Y	NOM_INS							
+26	Armenian_Eastern	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	DATmasin	Y	NOM_DATmasin							
+26	Armenian_Eastern	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	DATvra	Y	NOM_DATvra							
+26	Armenian_Eastern	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	INS	Y	NOM_INS							
+26	Armenian_Eastern	55	find	X (find) Y	находить	X (находить) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	NOM	X	DAT_NOM							
+26	Armenian_Eastern	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	58	like	X (like) Y	нравиться	X-у (нравиться) Y		NOM	DAT~NOM	TR	TR							Есть вариант DAT-NOM
+26	Armenian_Eastern	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		DAT	NOM	X	DAT_NOM							
+26	Armenian_Eastern	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		*	*	*								Нет отдельного предиката, просто иметь
+26	Armenian_Eastern	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	63	open	X (open) Y	открывать	X (открывать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	66	plough	X (plough) Y	пахать	X (пахать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*								часть ИГ
+26	Armenian_Eastern	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	69	sing	X (sing) Y	петь	X (петь) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	70	write	X (write) Y	писать	X (писать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	71	drink	X (drink) Y	пить	X (пить) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	72	melt	X (melt) Y	плавить	X (плавить) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	75	cover	X (cover) Y	покрывать	X (покрывать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	76	remember	X (remember) Y	помнить	X (помнить) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	77	help	X (help) Y	помочь	X (помогать) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	78	understand	X (understand) Y	понимать	X (понимать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		NOM	INS	Y	NOM_INS							
+26	Armenian_Eastern	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		DAT	NOM	X	DAT_NOM							Наоборот сложно выразить причину
+26	Armenian_Eastern	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		NOM	DAThet	Y	NOM_DAThet							
+26	Armenian_Eastern	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	86	drop	X (drop) Y	ронять	X (ронять) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	87	govern	X (govern) Y	руководить	X (руководить) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	91	listen	X (listen) to Y	слушать	X (слушать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	93	hear	X (hear) Y	слышать	X (слышать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	DAThet	Y	NOM_DAThet							
+26	Armenian_Eastern	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		DAT	NOM	X	DAT_NOM							NV, надо бы проверить
+26	Armenian_Eastern	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	DAThet	Y	NOM_DAThet							
+26	Armenian_Eastern	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	DAThet	Y	NOM_DAThet							
+26	Armenian_Eastern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	103	lose	X (lose) Y	терять	X (терять) Y		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	DATmej	Y	NOM_DATmej							
+26	Armenian_Eastern	105	kill	X (kill) Y	убивать	X (убивать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	106	hit	X (hit) Y	ударить	X (ударять) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	108	read	X (read) Y	читать	X (читать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	110	respect	X (respect) Y	уважать	X (уважать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		NOM	DATvra	Y	NOM_DATvra							
+26	Armenian_Eastern	114	trust	X (trust) Y	доверять	X (доверять) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		NOM	DATvra	Y	NOM_DATvra							
+26	Armenian_Eastern	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		DAT	NOM	X	DAT_NOM							Наоборот сложно выразить причину
+26	Armenian_Eastern	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	121	want	X (want) Y	хотеть	X (хотеть) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		NOM	DATvra	Y	NOM_DATvra							
+26	Armenian_Eastern	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	ABL	Y	NOM_ABL							
+26	Armenian_Eastern	126	despise	X (despise) Y	презирать	X (презирать) Y-а		NOM	DAT~NOM	TR	TR							
+26	Armenian_Eastern	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	DATpatcarov	Y	NOM_DATpatcarov							
+26	Armenian_Eastern	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		NOM	DATvra	Y	NOM_DATvra							
+26	Armenian_Eastern	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		NOM	DAT	Y	NOM_DAT							
+26	Armenian_Eastern	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		NOM	ABL	Y	NOM_ABL							"Есть еще вариант ""по причине"""

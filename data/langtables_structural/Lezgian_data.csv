@@ -1,17 +1,17 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-20	Lezgian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*				Буквально X выглядит как посессор Y при одноместном глаголе. По опыту других языков мы знаем, что здесь может быть не все так очевидно, но до выяснения обстоятельств не учитываем						
+20	Lezgian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*										Буквально X выглядит как посессор Y при одноместном глаголе. По опыту других языков мы знаем, что здесь может быть не все так очевидно, но до выяснения обстоятельств не учитываем
 20	Lezgian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		SBESS	ABS	X	SBESSABS							
 20	Lezgian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		DAT	POEL	XY	DATPOEL							
 20	Lezgian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		TR		TR	TR							
-20	Lezgian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	ABS	X	DATABS	NV						
-20	Lezgian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		ABS	DAT	Y	ABSDAT	NV						
-20	Lezgian	7	believe	X (believe) Y	верить	X (верить)Y-у		ABS	POESS	Y	ABSPOESS	NV						
+20	Lezgian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	ABS	X	DATABS							NV
+20	Lezgian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		ABS	DAT	Y	ABSDAT							NV
+20	Lezgian	7	believe	X (believe) Y	верить	X (верить)Y-у		ABS	POESS	Y	ABSPOESS							NV
 20	Lezgian	8	take	X (take) Y	взять	X (брать) Y(-а)		TR		TR	TR							
 20	Lezgian	9	see	X (see) Y	видеть	X (видеть) Y(-а)		DAT	ABS	X	DATABS							
 20	Lezgian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		ERG	DAT	Y	ERGDAT							
 20	Lezgian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		ABS	SRESS	Y	ABSSRES							
 20	Lezgian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		ABS	DAT	Y	ABSDAT							
-20	Lezgian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		ERG	ADEL	Y	ERGADEL	CV						
+20	Lezgian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		ERG	ADEL	Y	ERGADEL							CV
 20	Lezgian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		ABS	INEL	Y	ABSINEL							
 20	Lezgian	15	drive	X (drive) Y	гнать	X (гнать) Y-а		TR		TR	TR							
 20	Lezgian	16	bend	X (bend) Y	гнуть	X (гнуть) Y		TR		TR	TR							
@@ -20,27 +20,27 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		ERG	ADESS	Y	ERGADESS							
 20	Lezgian	20	milk	X (milk) Y	доить	X (доить) Y-а		TR		TR	TR							
 20	Lezgian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		ABS	ADESS	Y	ABSADESS							
-20	Lezgian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		ERG	SBESS	Y	ERGSBESS	Раньше у меня классифицировалось как TR, видимо, просто по ошибке						
+20	Lezgian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		ERG	SBESS	Y	ERGSBESS							Раньше у меня классифицировалось как TR, видимо, просто по ошибке
 20	Lezgian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		ABS	POESS_galaz	Y	ABSPOESSgalaz							
-20	Lezgian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		ERG	POESS_galaz	Y	ERGPOESSgalaz	CV						
+20	Lezgian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		ERG	POESS_galaz	Y	ERGPOESSgalaz							CV
 20	Lezgian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		ERG	SBEL	Y	ERGSBEL							
 20	Lezgian	26	eat	X (eat) Y	есть	X (есть) Y		TR		TR	TR							
 20	Lezgian	27	fry	X (fry) Y	жарить	X (жарить) Y		TR		TR	TR							
 20	Lezgian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		TR		TR	TR							
-20	Lezgian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		*				Не считаем, т.к. X посессор сердца, входящего в идиому						
-20	Lezgian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		ABS	SREL	Y	ABSSREL	NV						
+20	Lezgian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		*										Не считаем, т.к. X посессор сердца, входящего в идиому
+20	Lezgian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		ABS	SREL	Y	ABSSREL							NV
 20	Lezgian	31	call	X (call) Y	звать	X (звать) Y-а		ERG	DAT	Y	ERGDAT							
-20	Lezgian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		ABS	POESS_galaz	Y	ABSPOESSgalaz	NV						
+20	Lezgian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		ABS	POESS_galaz	Y	ABSPOESSgalaz							NV
 20	Lezgian	33	know	X (know) Y	знать 	X (знать) Y-а		DAT	ABS	X	DATABS							
 20	Lezgian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		TR		TR	TR							
-20	Lezgian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		ERG	SBEL	Y	ERGSBEL	CV						
+20	Lezgian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		ERG	SBEL	Y	ERGSBEL							CV
 20	Lezgian	36	make	X (make) Y	изготовить	X (изготовить) Y		TR		TR	TR							
 20	Lezgian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		ERG	SBEL	Y	ERGSBEL							
 20	Lezgian	38	have	X (have) Y	иметь	X (иметь) Y		POESS	ABS	X	POESSABS							
 20	Lezgian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		TR		TR	TR							
-20	Lezgian	40	paint	X (paint) Y	красить	X (красить) Y		ERG	DAT	Y	ERGDAT	CV						
+20	Lezgian	40	paint	X (paint) Y	красить	X (красить) Y		ERG	DAT	Y	ERGDAT							CV
 20	Lezgian	41	bite	X (bite) Y	кусать	X (кусать) Y-а		TR		TR	TR							
-20	Lezgian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		ABS	SBEL	Y	ABSSBEL	NV						
+20	Lezgian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		ABS	SBEL	Y	ABSSBEL							NV
 20	Lezgian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		TR		TR	TR							
 20	Lezgian	44	break	X (break) Y	ломать	X (ломать) Y		TR		TR	TR							
 20	Lezgian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		ERG	DAT	Y	ERGDAT							
@@ -50,22 +50,22 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	49	wash	X (wash) Y	мыть	X (мыть) Y		TR		TR	TR							
 20	Lezgian	50	put_on	X (put_on) Y	надевать	X (надевать) Y		TR		TR	TR							
 20	Lezgian	51	be_called	X (be_called) Y	называться	X (называться) Y		DAT	ABS	X	DATABS							
-20	Lezgian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		TR		TR	TR	Почему-то в первой версии у меня не было этого глагола. Вроде обычный переходный глагол						
+20	Lezgian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		TR		TR	TR							Почему-то в первой версии у меня не было этого глагола. Вроде обычный переходный глагол
 20	Lezgian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		ERG	SRESS	Y	ERGSRESS							
 20	Lezgian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		ABS	ADESS	Y	ABSADESS							
 20	Lezgian	55	find	X (find) Y	находить	X (находить) Y(-а)		DAT	ABS	X	DATABS							
-20	Lezgian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	ABS	X	DATABS	NV						
+20	Lezgian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	ABS	X	DATABS							NV
 20	Lezgian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		DAT	ABS	X	DATABS							
-20	Lezgian	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DAT	ABS	X	DATABS	NV						
+20	Lezgian	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DAT	ABS	X	DATABS							NV
 20	Lezgian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		DAT	ABS	X	DATABS							
-20	Lezgian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		TR		TR	TR	В первой (по крайней мере) вресии статьи Р.Г. не хотел учитывать этот предикат, т.к. он CV. Но я беру						
+20	Lezgian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		TR		TR	TR							В первой (по крайней мере) вресии статьи Р.Г. не хотел учитывать этот предикат, т.к. он CV. Но я беру
 20	Lezgian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		POESS	ABS	X	POESSABS							
-20	Lezgian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		ERG	DAT	Y	ERGDAT	CV						
+20	Lezgian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		ERG	DAT	Y	ERGDAT							CV
 20	Lezgian	63	open	X (open) Y	открывать	X (открывать) Y		TR		TR	TR							
-20	Lezgian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		ABS	SREL	Y	ABSSREL	NV						
-20	Lezgian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		ABS	SREL	Y	ABSSREL	"CV. Сначала я не считал, видимо, из-за того, что буквально это ""остаться позади"". Но X и Y вполне можно считать зависимыми уровня клаузы."						
+20	Lezgian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		ABS	SREL	Y	ABSSREL							NV
+20	Lezgian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		ABS	SREL	Y	ABSSREL							"CV. Сначала я не считал, видимо, из-за того, что буквально это ""остаться позади"". Но X и Y вполне можно считать зависимыми уровня клаузы."
 20	Lezgian	66	plough	X (plough) Y	пахать	X (пахать) Y		TR		TR	TR							
-20	Lezgian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*				У Р.Г. в статье классифицируется как POEL ABS, но ABS это на самом деле позиция существительного запах, а Y кодируется как посессор этого существительного						
+20	Lezgian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*										У Р.Г. в статье классифицируется как POEL ABS, но ABS это на самом деле позиция существительного запах, а Y кодируется как посессор этого существительного
 20	Lezgian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		ABS	SREL	Y	ABSSREL							
 20	Lezgian	69	sing	X (sing) Y	петь	X (петь) Y		TR		TR	TR							
 20	Lezgian	70	write	X (write) Y	писать	X (писать) Y		TR		TR	TR							
@@ -74,58 +74,58 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		ABS	POESS_galaz	Y	ABSPOESSgalaz							
 20	Lezgian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		TR		TR	TR							
 20	Lezgian	75	cover	X (cover) Y	покрывать	X (покрывать) Y		TR		TR	TR							
-20	Lezgian	76	remember	X (remember) Y	помнить	X (помнить) Y-а		*				Не считаем, т.к. X посессор сердца, входящего в идиому						
+20	Lezgian	76	remember	X (remember) Y	помнить	X (помнить) Y-а		*										Не считаем, т.к. X посессор сердца, входящего в идиому
 20	Lezgian	77	help	X (help) Y	помочь	X (помогать) Y-у		ERG	DAT	Y	ERGDAT							
-20	Lezgian	78	understand	X (understand) Y	понимать	X (понимать) Y		*				У Р.Г. в статье классифицируется как ABS GEN, но Y кодируется на самом деле как посессор имени в составе CV (попасть в понимание чего)						
+20	Lezgian	78	understand	X (understand) Y	понимать	X (понимать) Y		*										У Р.Г. в статье классифицируется как ABS GEN, но Y кодируется на самом деле как посессор имени в составе CV (попасть в понимание чего)
 20	Lezgian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		ABS	POESS	Y	ABSPOESS							
 20	Lezgian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		ABS	ERG	Y	ABSERG							
 20	Lezgian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		ABS	SRESS	Y	ABSSRES							
 20	Lezgian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		ABS	DAT	Y	ABSDAT							
-20	Lezgian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		ABS	DAT	Y	ABSDAT	NV						
+20	Lezgian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		ABS	DAT	Y	ABSDAT							NV
 20	Lezgian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		ABS	POESS_galaz	Y	ABSPOESSgalaz							
 20	Lezgian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		TR		TR	TR							
 20	Lezgian	86	drop	X (drop) Y	ронять	X (ронять) Y		TR		TR	TR							
 20	Lezgian	87	govern	X (govern) Y	руководить	X (руководить) Y		ERG	SRESS	Y	ERGSRESS							
-20	Lezgian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		ABS	POESS	Y	ABSPOESS	NV						
+20	Lezgian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		ABS	POESS	Y	ABSPOESS							NV
 20	Lezgian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		*										
 20	Lezgian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		ABS	SREL	Y	ABSSREL							
-20	Lezgian	91	listen	X (listen) to Y	слушать	X (слушать) Y		ERG	POESS	Y	ERGPOESS	CV						
-20	Lezgian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*				У Р.Г. в статье классифицируется как ABS GEN, но Y кодируется на самом деле как посессор имени в составе CV смотреть на слово кого)						
-20	Lezgian	93	hear	X (hear) Y	слышать	X (слышать) Y		*				"В первой (по крайней мере) версии статьи Р.Г. классифицирует этот предикат как DATABS, что плохо, т.к. в абсолютиве стоит слово ""звук"" (приходит), а звук чего кодируется как приименное зависимое"						
+20	Lezgian	91	listen	X (listen) to Y	слушать	X (слушать) Y		ERG	POESS	Y	ERGPOESS							CV
+20	Lezgian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*										У Р.Г. в статье классифицируется как ABS GEN, но Y кодируется на самом деле как посессор имени в составе CV смотреть на слово кого)
+20	Lezgian	93	hear	X (hear) Y	слышать	X (слышать) Y		*										"В первой (по крайней мере) версии статьи Р.Г. классифицирует этот предикат как DATABS, что плохо, т.к. в абсолютиве стоит слово ""звук"" (приходит), а звук чего кодируется как приименное зависимое"
 20	Lezgian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		ABS	POESS_galaz	Y	ABSPOESSgalaz							
 20	Lezgian	95	look	X (look) at Y	смотреть	X (смотреть) на Y		ABS	DAT	Y	ABSDAT							
 20	Lezgian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		TR		TR	TR							
-20	Lezgian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		DAT	ABS	X	DATABS	CV						
-20	Lezgian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		ABS	POESS_galaz	Y	ABSPOESSgalaz	NV						
-20	Lezgian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		ABS	POESS_galaz	Y	ABSPOESSgalaz	NV						
-20	Lezgian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*				Не считаем, т.к. буквально это цена X - Y						
+20	Lezgian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		DAT	ABS	X	DATABS							CV
+20	Lezgian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		ABS	POESS_galaz	Y	ABSPOESSgalaz							NV
+20	Lezgian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		ABS	POESS_galaz	Y	ABSPOESSgalaz							NV
+20	Lezgian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*										Не считаем, т.к. буквально это цена X - Y
 20	Lezgian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		TR		TR	TR							
 20	Lezgian	102	pour	X (pour) Y	сыпать	X (сыпать) Y		TR		TR	TR							
 20	Lezgian	103	lose	X (lose) Y	терять	X (терять) Y		TR		TR	TR							
-20	Lezgian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		ABS	INESS	Y	ABSINESS	NV						
+20	Lezgian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		ABS	INESS	Y	ABSINESS							NV
 20	Lezgian	105	kill	X (kill) Y	убивать	X (убивать) Y-а		TR		TR	TR							
 20	Lezgian	106	hit	X (hit) Y	ударить	X (ударять) Y-а		TR		TR	TR							
-20	Lezgian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	DAT	Y	ERGDAT	CV						
+20	Lezgian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	DAT	Y	ERGDAT							CV
 20	Lezgian	108	read	X (read) Y	читать	X (читать) Y-а		TR		TR	TR							
 20	Lezgian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		TR		TR	TR							
 20	Lezgian	110	respect	X (respect) Y	уважать	X (уважать) Y-а		ERG	DAT	Y	ERGDAT							
-20	Lezgian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*				В первой версии был DAT ABS (NV), но Р.Г. в статье предлагает не брать, так как это неточный перевод.						
-20	Lezgian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		ABS	SREL	Y	ABSSREL	NV						
-20	Lezgian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		ABS	SRESS	Y	ABSSRES	NV						
+20	Lezgian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*										В первой версии был DAT ABS (NV), но Р.Г. в статье предлагает не брать, так как это неточный перевод.
+20	Lezgian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		ABS	SREL	Y	ABSSREL							NV
+20	Lezgian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		ABS	SRESS	Y	ABSSRES							NV
 20	Lezgian	114	trust	X (trust) Y	доверять	X (доверять) Y-у		ERG	DAT	Y	ERGDAT							
-20	Lezgian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		ERG	DAT	Y	ERGDAT	CV. Сначала я не считал этот предикат, т.к. было приименное зависимое (иметь жалость кого), но теперь это просто что-то, что функционирует как единое целое.						
-20	Lezgian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		ABS	SRESS	Y	ABSSRES	NV						
-20	Lezgian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		*				Не считаем, т.к. тот же перевод, что для 122 и 128						
-20	Lezgian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		ABS	SRESS	Y	ABSSRES	NV						
+20	Lezgian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		ERG	DAT	Y	ERGDAT							CV. Сначала я не считал этот предикат, т.к. было приименное зависимое (иметь жалость кого), но теперь это просто что-то, что функционирует как единое целое.
+20	Lezgian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		ABS	SRESS	Y	ABSSRES							NV
+20	Lezgian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		*										Не считаем, т.к. тот же перевод, что для 122 и 128
+20	Lezgian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		ABS	SRESS	Y	ABSSRES							NV
 20	Lezgian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		DAT	ABS	X	DATABS							
-20	Lezgian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		ERG	SBEL	Y	ERGSBEL	CV						
+20	Lezgian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		ERG	SBEL	Y	ERGSBEL							CV
 20	Lezgian	121	want	X (want) Y	хотеть	X (хотеть) Y-а		DAT	ABS	X	DATABS							
-20	Lezgian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		DAT	SBEL	XY	DATSBEL	CV						
-20	Lezgian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		ABS	SREL	Y	ABSSREL	NV						
+20	Lezgian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		DAT	SBEL	XY	DATSBEL							CV
+20	Lezgian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		ABS	SREL	Y	ABSSREL							NV
 20	Lezgian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		TR		TR	TR							
-20	Lezgian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		*				Тот же перевод, что для 118, не считаем						
+20	Lezgian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		*										Тот же перевод, что для 118, не считаем
 20	Lezgian	126	despise	X (despise) Y	презирать	X (презирать) Y-а		TR		TR	TR							
 20	Lezgian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		*										
-20	Lezgian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*				Не считаем, т.к. тот же перевод, что для 117 и 122						
-20	Lezgian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		DAT	SBEL	XY	DATSBEL	CV						
+20	Lezgian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*										Не считаем, т.к. тот же перевод, что для 117 и 122
+20	Lezgian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		DAT	SBEL	XY	DATSBEL							CV
 20	Lezgian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		DAT	SBEL	XY	DATSBEL							

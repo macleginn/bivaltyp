@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-25	Irish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*				ИГ (боль головы)						
-25	Irish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		AR	NOM	X	AR_NOM	NV						
-25	Irish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		AR	ROIMH	XY	AR_ROIMH							
-25	Irish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		TR		TR	TR							
-25	Irish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*				ИГ (достаточное количество денег)						
-25	Irish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	LE	Y	NOM_LE	NV						
-25	Irish	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM	I	Y	NOM_I	Есть еще вариант TR (1 информант, словарь)						
-25	Irish	8	take	X (take) Y	взять	X (брать) Y(-а)		TR		TR	TR							
-25	Irish	9	see	X (see) Y	видеть	X (видеть) Y(-а)		TR		TR	TR							
-25	Irish	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		AIGE	AR	XY	AIGE_AR	"NV (я не был уверен, что надо считать: в принципе влияние aige X может быть ИГ). Митя отверг эту идею, считаем. (Аргумент: ""ИГ, ПО-МОЕМУ, ПЛОХО СОГЛАСУЕТСЯ С ХАБИТУАЛЬНЫМ АСПЕКТОМ, КОТОРЫЙ ПРЕДЛОЖИЛ ОДИН ИЗ ИНФОРМАНТОВ, Я БЫ ВСЕ ЖЕ СКАЗАЛ, ЧТО ЭТО NV-РАМКА"")."						
-25	Irish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		NOM	ISTEACH	Y	NOM_ISTEACH	CV						
-25	Irish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		NOM	AR	Y	NOM_AR							
-25	Irish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		NOM	AS	Y	NOM_AS	CV						
-25	Irish	15	drive	X (drive) Y	гнать	X (гнать) Y-а		TR		TR	TR							
-25	Irish	16	bend	X (bend) Y	гнуть	X (гнуть) Y		TR		TR	TR							
-25	Irish	17	tell	X (tell) Y	говорить	X (говорить) Y-у		NOM	LE	Y	NOM_LE							
-25	Irish	18	hold	X (hold)Y	держать	X (держать) Y(-а)		AIGE	NOM	X	AIGE_NOM							
-25	Irish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		NOM	LE	Y	NOM_LE	CV						
-25	Irish	20	milk	X (milk) Y	доить	X (доить) Y-а		TR		TR	TR							
-25	Irish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		TR		TR	TR	CV						
-25	Irish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		TR		TR	TR							
-25	Irish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		*				сочинение						
-25	Irish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	AR	Y	NOM_AR	Есть вариант и с mar gheall air, но он включает в себя ar/air, так что беру просто NOM + AR						
-25	Irish	26	eat	X (eat) Y	есть	X (есть) Y		TR		TR	TR							
-25	Irish	27	fry	X (fry) Y	жарить	X (жарить) Y		TR		TR	TR							
-25	Irish	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		NOM	LE	Y	NOM_LE							
-25	Irish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		NOM	AR 	Y	NOM_AR	CV						
-25	Irish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		NOM	AR	Y	NOM_AR							
-25	Irish	31	call	X (call) Y	звать	X (звать) Y-а		NOM	AR	Y	NOM_AR							
-25	Irish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	33	know	X (know) Y	знать 	X (знать) Y-а		AIGE	AR	XY	AIGE_AR	NV						
-25	Irish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		TR		TR	TR							
-25	Irish	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		TR		TR	TR							
-25	Irish	36	make	X (make) Y	изготовить	X (изготовить) Y		TR		TR	TR							
-25	Irish	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		TR		TR	TR							
-25	Irish	38	have	X (have) Y	иметь	X (иметь) Y		AIGE	NOM	X	AIGE_NOM	Бытийный глагол						
-25	Irish	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		TR		TR	TR							
-25	Irish	40	paint	X (paint) Y	красить	X (красить) Y		TR		TR	TR							
-25	Irish	41	bite	X (bite) Y	кусать	X (кусать) Y-а		NOM	AR	Y	NOM_AR	CV						
-25	Irish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		TR		TR	TR							
-25	Irish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		*				Видимо, нет отдельного глагола						
-25	Irish	44	break	X (break) Y	ломать	X (ломать) Y		TR		TR	TR							
-25	Irish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*				Не нашлось глагола						
-25	Irish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		AIGE	DO 	XY	AIGE_DO	NV						
-25	Irish	47	wave	X (wave) Y	махать	X (махать) Y-ом		TR		TR	TR							
-25	Irish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	AR	Y	NOM_AR	Есть вариант и с mar gheall air, но он включает в себя ar/air, так что беру просто NOM + AR						
-25	Irish	49	wash	X (wash) Y	мыть	X (мыть) Y		TR		TR	TR							
-25	Irish	50	put_on	X (put_on) Y	надевать	X (надевать) Y		TR		TR	TR	CV						
-25	Irish	51	be_called	X (be_called) Y	называться	X (называться) Y		AR	NOM	X	AR_NOM							
-25	Irish	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	AR	Y	NOM_AR	CV						
-25	Irish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		TR		TR	TR							
-25	Irish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	55	find	X (find) Y	находить	X (находить) Y(-а)		TR		TR	TR							
-25	Irish	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		*				"NV (не смог понять, какова аргументная структура, букв. ""есть Петя евро короткий"". Митя ""помог"", написав, что такая же, как в английском, но я даже не понял, что имеется в виду. В статье вообще другая структура (есть нехватка евро), ее тоже не берем"						
-25	Irish	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		AIGE	AR	XY	AIGE_AR	NV						
-25	Irish	58	like	X (like) Y	нравиться	X-у (нравиться) Y		LE	NOM	X	LE_NOM	NV (COP)						
-25	Irish	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		O	NOM	X	O_NOM	Нет отдельной лексемы, какой-то вариант посессивной конструкции						
-25	Irish	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		*				Долго разбирались, да так и не разобрались. Там что-то вроде стены есть вокруг на город, безопаснее никак не считать.						
-25	Irish	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		AR	NOM	X	AR_NOM	NV						
-25	Irish	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		TR		TR	TR							
-25	Irish	63	open	X (open) Y	открывать	X (открывать) Y		TR		TR	TR							
-25	Irish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		NOM	LE	Y	NOM_LE	NV						
-25	Irish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		NOM	O	Y	NOM_O	CV						
-25	Irish	66	plough	X (plough) Y	пахать	X (пахать) Y		TR		TR	TR							
-25	Irish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*				ИГ (запах бензина)						
-25	Irish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		TR		TR	TR							
-25	Irish	69	sing	X (sing) Y	петь	X (петь) Y		TR		TR	TR							
-25	Irish	70	write	X (write) Y	писать	X (писать) Y		TR		TR	TR							
-25	Irish	71	drink	X (drink) Y	пить	X (пить) Y		TR		TR	TR							
-25	Irish	72	melt	X (melt) Y	плавить	X (плавить) Y		TR		TR	TR							
-25	Irish	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		NOM	LE	Y	NOM_LE							
-25	Irish	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		TR		TR	TR							
-25	Irish	75	cover	X (cover) Y	покрывать	X (покрывать) Y		TR		TR	TR							
-25	Irish	76	remember	X (remember) Y	помнить	X (помнить) Y-а		TR		TR	TR							
-25	Irish	77	help	X (help) Y	помочь	X (помогать) Y-у		NOM	LE	Y	NOM_LE							
-25	Irish	78	understand	X (understand) Y	понимать	X (понимать) Y		TR		TR	TR							
-25	Irish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		TR		TR	TR							
-25	Irish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM	DO	Y	NOM_DO							
-25	Irish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM	LE	Y	NOM_LE							
-25	Irish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		NOM	LE	Y	NOM_LE	NV						
-25	Irish	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		DO	NOM	X	DO_NOM	??						
-25	Irish	86	drop	X (drop) Y	ронять	X (ронять) Y		TR		TR	TR							
-25	Irish	87	govern	X (govern) Y	руководить	X (руководить) Y		TR		TR	TR							
-25	Irish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		TR		TR	TR	CV						
-25	Irish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		TR		TR	TR							
-25	Irish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	DE	Y	NOM_DE	CV						
-25	Irish	91	listen	X (listen) to Y	слушать	X (слушать) Y		NOM	LE	Y	NOM_LE							
-25	Irish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		NOM	LE	Y	NOM_LE							
-25	Irish	93	hear	X (hear) Y	слышать	X (слышать) Y		TR		TR	TR							
-25	Irish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM	AR	Y	NOM_AR							
-25	Irish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		TR		TR	TR	CV						
-25	Irish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		NOM	AR	Y	NOM_AR	Есть вариант и с mar gheall air, но он включает в себя ar/air, так что беру просто NOM + AR						
-25	Irish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	LE	Y	NOM_LE							
-25	Irish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		AIGE	LE	XY	AIGE_LE	NV						
-25	Irish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		TR		TR	TR							
-25	Irish	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	FAOI	Y	NOM_FAOI							
-25	Irish	102	pour	X (pour) Y	сыпать	X (сыпать) Y		TR		TR	TR							
-25	Irish	103	lose	X (lose) Y	терять	X (терять) Y		TR		TR	TR							
-25	Irish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	I	Y	NOM_I							
-25	Irish	105	kill	X (kill) Y	убивать	X (убивать) Y-а		TR		TR	TR							
-25	Irish	106	hit	X (hit) Y	ударить	X (ударять) Y-а		TR		TR	TR							
-25	Irish	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		TR		TR	TR							
-25	Irish	108	read	X (read) Y	читать	X (читать) Y-а		TR		TR	TR							
-25	Irish	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		TR		TR	TR							
-25	Irish	110	respect	X (respect) Y	уважать	X (уважать) Y-а		AIGE	AR	XY	AIGE_AR	NV						
-25	Irish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*				Нет подходящего предиката						
-25	Irish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		NOM	LE	Y	NOM_LE	NV						
-25	Irish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		NOM	LE	Y	NOM_LE	CV						
-25	Irish	114	trust	X (trust) Y	доверять	X (доверять) Y-у		AIGE	AS	XY	AIGE_AS	NV						
-25	Irish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		AIGE	LE	XY	AIGE_LE	NV						
-25	Irish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		AIGE	LE	XY	AIGE_LE	NV						
-25	Irish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		NOM	LE	Y	NOM_LE	NV						
-25	Irish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		AIGE	MAR_GHEALL_AIR	XY	AIGE_MARetc	NV						
-25	Irish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		LE	NOM	X	LE_NOM	NV						
-25	Irish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		*				Нет отдельной лексемы						
-25	Irish	121	want	X (want) Y	хотеть	X (хотеть) Y-а		*				"Говорят ""нужен"""						
-25	Irish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		AIGE	DO	XY	AIGE_DO	NV						
-25	Irish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		AR	GO_DTI	XY	AR_GODTI	NV						
-25	Irish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		TR		TR	TR							
-25	Irish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		AR	LE	XY	AR_LE	NV						
-25	Irish	126	despise	X (despise) Y	презирать	X (презирать) Y-а		AIGE	AR	XY	AIGE_AR	NV						
-25	Irish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	DE_DHEASCAIBH	Y	NOM_DEDHEetc	NV						
-25	Irish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		NOM	FAOI	Y	NOM_FAOI	NV						
-25	Irish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		NOM	LE	Y	NOM_LE	NV						
-25	Irish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		AR	MAR_GHEALL_AIR	XY	AR_MARetc	NV						
+25	Irish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*	*	*								ИГ (боль головы)
+25	Irish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		ar	SBJ	X	ar_SBJ							NV
+25	Irish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		ar	roimh	XY	ar_roimh							
+25	Irish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		SBJ	DO	TR	TR							
+25	Irish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*	*	*								ИГ (достаточное количество денег)
+25	Irish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		SBJ	le	Y	SBJ_le							NV
+25	Irish	7	believe	X (believe) Y	верить	X (верить)Y-у		SBJ	i	Y	SBJ_i							Есть еще вариант TR (1 информант, словарь)
+25	Irish	8	take	X (take) Y	взять	X (брать) Y(-а)		SBJ	DO	TR	TR							
+25	Irish	9	see	X (see) Y	видеть	X (видеть) Y(-а)		SBJ	DO	TR	TR							
+25	Irish	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		aige	ar	XY	aige_ar							"NV (я не был уверен, что надо считать: в принципе влияние aige X может быть ИГ). Митя отверг эту идею, считаем. (Аргумент: ""ИГ, ПО-МОЕМУ, ПЛОХО СОГЛАСУЕТСЯ С ХАБИТУАЛЬНЫМ АСПЕКТОМ, КОТОРЫЙ ПРЕДЛОЖИЛ ОДИН ИЗ ИНФОРМАНТОВ, Я БЫ ВСЕ ЖЕ СКАЗАЛ, ЧТО ЭТО NV-РАМКА"")."
+25	Irish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		SBJ	isteach	Y	SBJ_isteach							CV
+25	Irish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		SBJ	ar	Y	SBJ_ar							
+25	Irish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		SBJ	as	Y	SBJ_as							CV
+25	Irish	15	drive	X (drive) Y	гнать	X (гнать) Y-а		SBJ	DO	TR	TR							
+25	Irish	16	bend	X (bend) Y	гнуть	X (гнуть) Y		SBJ	DO	TR	TR							
+25	Irish	17	tell	X (tell) Y	говорить	X (говорить) Y-у		SBJ	le	Y	SBJ_le							
+25	Irish	18	hold	X (hold)Y	держать	X (держать) Y(-а)		aige	SBJ	X	aige_SBJ							
+25	Irish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		SBJ	le	Y	SBJ_le							CV
+25	Irish	20	milk	X (milk) Y	доить	X (доить) Y-а		SBJ	DO	TR	TR							
+25	Irish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		SBJ	DO	TR	TR							CV
+25	Irish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		SBJ	DO	TR	TR							
+25	Irish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		*	*	*								сочинение
+25	Irish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		SBJ	ar	Y	SBJ_ar							Есть вариант и с mar gheall air, но он включает в себя ar/air, так что беру просто NOM + AR
+25	Irish	26	eat	X (eat) Y	есть	X (есть) Y		SBJ	DO	TR	TR							
+25	Irish	27	fry	X (fry) Y	жарить	X (жарить) Y		SBJ	DO	TR	TR							
+25	Irish	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		SBJ	le	Y	SBJ_le							
+25	Irish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		SBJ	ar	Y	SBJ_ar							CV
+25	Irish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		SBJ	ar	Y	SBJ_ar							
+25	Irish	31	call	X (call) Y	звать	X (звать) Y-а		SBJ	ar	Y	SBJ_ar							
+25	Irish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	33	know	X (know) Y	знать 	X (знать) Y-а		aige	ar	XY	aige_ar							NV
+25	Irish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		SBJ	DO	TR	TR							
+25	Irish	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		SBJ	DO	TR	TR							
+25	Irish	36	make	X (make) Y	изготовить	X (изготовить) Y		SBJ	DO	TR	TR							
+25	Irish	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		SBJ	DO	TR	TR							
+25	Irish	38	have	X (have) Y	иметь	X (иметь) Y		aige	SBJ	X	aige_SBJ							Бытийный глагол
+25	Irish	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		SBJ	DO	TR	TR							
+25	Irish	40	paint	X (paint) Y	красить	X (красить) Y		SBJ	DO	TR	TR							
+25	Irish	41	bite	X (bite) Y	кусать	X (кусать) Y-а		SBJ	ar	Y	SBJ_ar							CV
+25	Irish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		SBJ	DO	TR	TR							
+25	Irish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		*	*	*								Видимо, нет отдельного глагола
+25	Irish	44	break	X (break) Y	ломать	X (ломать) Y		SBJ	DO	TR	TR							
+25	Irish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*	*	*								Не нашлось глагола
+25	Irish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		aige	DO 	XY	aige_DO							NV
+25	Irish	47	wave	X (wave) Y	махать	X (махать) Y-ом		SBJ	DO	TR	TR							
+25	Irish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		SBJ	ar	Y	SBJ_ar							Есть вариант и с mar gheall air, но он включает в себя ar/air, так что беру просто NOM + AR
+25	Irish	49	wash	X (wash) Y	мыть	X (мыть) Y		SBJ	DO	TR	TR							
+25	Irish	50	put_on	X (put_on) Y	надевать	X (надевать) Y		SBJ	DO	TR	TR							CV
+25	Irish	51	be_called	X (be_called) Y	называться	X (называться) Y		ar	SBJ	X	ar_SBJ							
+25	Irish	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		SBJ	ar	Y	SBJ_ar							CV
+25	Irish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		SBJ	DO	TR	TR							
+25	Irish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	55	find	X (find) Y	находить	X (находить) Y(-а)		SBJ	DO	TR	TR							
+25	Irish	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		*	*	*								"NV (не смог понять, какова аргументная структура, букв. ""есть Петя евро короткий"". Митя ""помог"", написав, что такая же, как в английском, но я даже не понял, что имеется в виду. В статье вообще другая структура (есть нехватка евро), ее тоже не берем"
+25	Irish	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		aige	ar	XY	aige_ar							NV
+25	Irish	58	like	X (like) Y	нравиться	X-у (нравиться) Y		le	SBJ	X	le_SBJ							NV (COP)
+25	Irish	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		o	SBJ	X	o_SBJ							Нет отдельной лексемы, какой-то вариант посессивной конструкции
+25	Irish	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		*	*	*								Долго разбирались, да так и не разобрались. Там что-то вроде стены есть вокруг на город, безопаснее никак не считать.
+25	Irish	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		ar	SBJ	X	ar_SBJ							NV
+25	Irish	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		SBJ	DO	TR	TR							
+25	Irish	63	open	X (open) Y	открывать	X (открывать) Y		SBJ	DO	TR	TR							
+25	Irish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		SBJ	le	Y	SBJ_le							NV
+25	Irish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		SBJ	o	Y	SBJ_o							CV
+25	Irish	66	plough	X (plough) Y	пахать	X (пахать) Y		SBJ	DO	TR	TR							
+25	Irish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*								ИГ (запах бензина)
+25	Irish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		SBJ	DO	TR	TR							
+25	Irish	69	sing	X (sing) Y	петь	X (петь) Y		SBJ	DO	TR	TR							
+25	Irish	70	write	X (write) Y	писать	X (писать) Y		SBJ	DO	TR	TR							
+25	Irish	71	drink	X (drink) Y	пить	X (пить) Y		SBJ	DO	TR	TR							
+25	Irish	72	melt	X (melt) Y	плавить	X (плавить) Y		SBJ	DO	TR	TR							
+25	Irish	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		SBJ	le	Y	SBJ_le							
+25	Irish	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		SBJ	DO	TR	TR							
+25	Irish	75	cover	X (cover) Y	покрывать	X (покрывать) Y		SBJ	DO	TR	TR							
+25	Irish	76	remember	X (remember) Y	помнить	X (помнить) Y-а		SBJ	DO	TR	TR							
+25	Irish	77	help	X (help) Y	помочь	X (помогать) Y-у		SBJ	le	Y	SBJ_le							
+25	Irish	78	understand	X (understand) Y	понимать	X (понимать) Y		SBJ	DO	TR	TR							
+25	Irish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		SBJ	DO	TR	TR							
+25	Irish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		SBJ	do(PREP)	Y	SBJ_do(PREP)							
+25	Irish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		SBJ	le	Y	SBJ_le							
+25	Irish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		SBJ	le	Y	SBJ_le							NV
+25	Irish	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		DO	SBJ	X	DO_SBJ							??
+25	Irish	86	drop	X (drop) Y	ронять	X (ронять) Y		SBJ	DO	TR	TR							
+25	Irish	87	govern	X (govern) Y	руководить	X (руководить) Y		SBJ	DO	TR	TR							
+25	Irish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		SBJ	DO	TR	TR							CV
+25	Irish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		SBJ	DO	TR	TR							
+25	Irish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		SBJ	de	Y	SBJ_de							CV
+25	Irish	91	listen	X (listen) to Y	слушать	X (слушать) Y		SBJ	le	Y	SBJ_le							
+25	Irish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		SBJ	le	Y	SBJ_le							
+25	Irish	93	hear	X (hear) Y	слышать	X (слышать) Y		SBJ	DO	TR	TR							
+25	Irish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	95	look	X (look) at Y	смотреть	X (смотреть) на Y		SBJ	ar	Y	SBJ_ar							
+25	Irish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		SBJ	DO	TR	TR							CV
+25	Irish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		SBJ	ar	Y	SBJ_ar							Есть вариант и с mar gheall air, но он включает в себя ar/air, так что беру просто NOM + AR
+25	Irish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		SBJ	le	Y	SBJ_le							
+25	Irish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		aige	le	XY	aige_le							NV
+25	Irish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		SBJ	DO	TR	TR							
+25	Irish	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		SBJ	faoi	Y	SBJ_faoi							
+25	Irish	102	pour	X (pour) Y	сыпать	X (сыпать) Y		SBJ	DO	TR	TR							
+25	Irish	103	lose	X (lose) Y	терять	X (терять) Y		SBJ	DO	TR	TR							
+25	Irish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		SBJ	i	Y	SBJ_i							
+25	Irish	105	kill	X (kill) Y	убивать	X (убивать) Y-а		SBJ	DO	TR	TR							
+25	Irish	106	hit	X (hit) Y	ударить	X (ударять) Y-а		SBJ	DO	TR	TR							
+25	Irish	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		SBJ	DO	TR	TR							
+25	Irish	108	read	X (read) Y	читать	X (читать) Y-а		SBJ	DO	TR	TR							
+25	Irish	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		SBJ	DO	TR	TR							
+25	Irish	110	respect	X (respect) Y	уважать	X (уважать) Y-а		aige	ar	XY	aige_ar							NV
+25	Irish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*	*	*								Нет подходящего предиката
+25	Irish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		SBJ	le	Y	SBJ_le							NV
+25	Irish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		SBJ	le	Y	SBJ_le							CV
+25	Irish	114	trust	X (trust) Y	доверять	X (доверять) Y-у		aige	as	XY	aige_as							NV
+25	Irish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		aige	le	XY	aige_le							NV
+25	Irish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		aige	le	XY	aige_le							NV
+25	Irish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		SBJ	le	Y	SBJ_le							NV
+25	Irish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		aige	mar.gheall.air	XY	aige_mar.gheall.air							NV
+25	Irish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		le	SBJ	X	le_SBJ							NV
+25	Irish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		*	*	*								Нет отдельной лексемы
+25	Irish	121	want	X (want) Y	хотеть	X (хотеть) Y-а		*	*	*								"Говорят ""нужен"""
+25	Irish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		aige	DO 	XY	aige_DO							NV
+25	Irish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		ar	go.dti	XY	ar_go.dti							NV
+25	Irish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		SBJ	DO	TR	TR							
+25	Irish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		ar	le	XY	ar_le							NV
+25	Irish	126	despise	X (despise) Y	презирать	X (презирать) Y-а		aige	ar	XY	aige_ar							NV
+25	Irish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		SBJ	de.dheascaibh	Y	SBJ_de.dheascaibh							NV
+25	Irish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		SBJ	faoi	Y	SBJ_faoi							NV
+25	Irish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		SBJ	le	Y	SBJ_le							NV
+25	Irish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		ar	mar.gheall.air	XY	ar_mar.gheall.air							NV

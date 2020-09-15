@@ -1,72 +1,72 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-84	Swedish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	har ont	NOM	i	Y	NOM_i	CV ('have pain')	Björn har ont i huvudet.					
-84	Swedish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	har	TR		TR	TR	Literally, 'to have'	Björn har influensa.					
-84	Swedish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	är rädd	NOM	för	Y	NOM_för	NV ('be + afraid')	Björn är rädd för hunden.					
+84	Swedish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	har ont	NOM	i	Y	NOM_i		Björn har ont i huvudet.					CV ('have pain')
+84	Swedish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	har	TR		TR	TR		Björn har influensa.					Literally, 'to have'
+84	Swedish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	är rädd	NOM	för	Y	NOM_för		Björn är rädd för hunden.					NV ('be + afraid')
 84	Swedish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	kastade	TR		TR	TR		Björn kastade en sten (först).					
-84	Swedish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	har tillräckligt	*	*	*		"CV. Not included, because ""med pengar"" is NP-internal, with ""tillräckligt"" as the head (cf. Emil's comment: ""Upon some reflection, we've reached the conclusion that the answer is probably yes. Fronting “tillräckligt med pengar” yields grammatical results, while fronting only “med pengar” does not – for example, “*Med pengar har han ju tillräckligt” isn't grammatical, while “Tillräckligt med pengar har han ju” is."" –Emil)"	Nu har Björn tillräckligt med pengar.					
+84	Swedish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	har tillräckligt	*	*	*			Nu har Björn tillräckligt med pengar.					"CV. Not included, because ""med pengar"" is NP-internal, with ""tillräckligt"" as the head (cf. Emil's comment: ""Upon some reflection, we've reached the conclusion that the answer is probably yes. Fronting “tillräckligt med pengar” yields grammatical results, while fronting only “med pengar” does not – for example, “*Med pengar har han ju tillräckligt” isn't grammatical, while “Tillräckligt med pengar har han ju” is."" –Emil)"
 84	Swedish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	liknar	TR		TR	TR		Björn liknar Mikael.					
 84	Swedish	7	believe	X (believe) Y	верить	X (верить)Y-у	tror	TR		TR	TR		Björn tror Maja.					
 84	Swedish	8	take	X (take) Y	взять	X (брать) Y(-а)	tog	TR		TR	TR		Björn tog en bok (från hyllan).					
 84	Swedish	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ser	TR		TR	TR		Björn ser ett hus.					
 84	Swedish	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	påverkar	TR		TR	TR		Åldern påverkar minnet.					
-84	Swedish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	träffade på	TR		TR	TR	Phrasal verb	Björn träffade på Maja.					
-84	Swedish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	gick in	NOM	i	Y	NOM_i	phrasal verb ('go in')	Björn gick in i huset.					
-84	Swedish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	slog	TR		TR	TR	Same as #106. Alternative is vann, which takes över	Björn slog Maja.					
-84	Swedish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	gick ut	NOM	ur	Y	NOM_ur	phrasal verb ('go out')	Björn gick ut ur huset.					
+84	Swedish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	träffade på	TR		TR	TR		Björn träffade på Maja.					Phrasal verb
+84	Swedish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	gick in	NOM	i	Y	NOM_i		Björn gick in i huset.					phrasal verb ('go in')
+84	Swedish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	slog	TR		TR	TR		Björn slog Maja.					Same as #106. Alternative is vann, which takes över
+84	Swedish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	gick ut	NOM	ur	Y	NOM_ur		Björn gick ut ur huset.					phrasal verb ('go out')
 84	Swedish	15	drive	X (drive) Y	гнать	X (гнать) Y-а	driver	TR		TR	TR		Björn driver kon.					
 84	Swedish	16	bend	X (bend) Y	гнуть	X (гнуть) Y	böjde	TR		TR	TR		Björn böjde grenen.					
 84	Swedish	17	tell	X (tell) Y	говорить	X (говорить) Y-у	sade	NOM	till	Y	NOM_till		Sade Björn till Maja					
 84	Swedish	18	hold	X (hold)Y	держать	X (держать) Y(-а)	håller	TR		TR	TR		Björn håller en bok (i händerna).					
-84	Swedish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	hann i kapp	TR		TR	TR	CV	Björn hann i kapp Maja.					
+84	Swedish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	hann i kapp	TR		TR	TR		Björn hann i kapp Maja.					CV
 84	Swedish	20	milk	X (milk) Y	доить	X (доить) Y-а	mjölkade	TR		TR	TR		Björn mjölkade kon.					
-84	Swedish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	kom fram	NOM	till	Y	NOM_till	phrasal verb	Björn kom fram till stranden.					
-84	Swedish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	rörde vid	TR		TR	TR	phrasal verb	Björn rörde vid väggen (och blev kladdig)					
+84	Swedish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	kom fram	NOM	till	Y	NOM_till		Björn kom fram till stranden.					phrasal verb
+84	Swedish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	rörde vid	TR		TR	TR		Björn rörde vid väggen (och blev kladdig)					phrasal verb
 84	Swedish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	slåss 	NOM	med	Y	NOM_med		Björn slåss med Maja.					
-84	Swedish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	är vän	NOM	med	Y	NOM_med	NV ('be _ friend')	Björn är vän med Maja.					
+84	Swedish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	är vän	NOM	med	Y	NOM_med		Björn är vän med Maja.					NV ('be _ friend')
 84	Swedish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	tänker	NOM	på	Y	NOM_på		Björn tänker på Maja.					
 84	Swedish	26	eat	X (eat) Y	есть	X (есть) Y	åt	TR		TR	TR		Björn åt ett äpple.					
 84	Swedish	27	fry	X (fry) Y	жарить	X (жарить) Y	stekte	TR		TR	TR		Björn stekte fisken.					
 84	Swedish	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	väntar	NOM	på	Y	NOM_på		Björn väntar på Maja.					
-84	Swedish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	glömt bort	TR		TR	TR	phrasal verb	Björn hade glömt bort den andra vägen.					
+84	Swedish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	glömt bort	TR		TR	TR		Björn hade glömt bort den andra vägen.					phrasal verb
 84	Swedish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	beror	NOM	på	Y	NOM_på		Minnet beror på åldern.					
 84	Swedish	31	call	X (call) Y	звать	X (звать) Y-а	ringde	TR		TR	TR		Björn ringde Maja.					
-84	Swedish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	lärde känna	TR		TR	TR	CV ('learn to know')	Björn lärde känna Maja för ett år sedan.					
-84	Swedish	33	know	X (know) Y	знать 	X (знать) Y-а	känner	TR		TR	TR	Same as #115, different structure	Björn känner Maja.					
+84	Swedish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	lärde känna	TR		TR	TR		Björn lärde känna Maja för ett år sedan.					CV ('learn to know')
+84	Swedish	33	know	X (know) Y	знать 	X (знать) Y-а	känner	TR		TR	TR		Björn känner Maja.					Same as #115, different structure
 84	Swedish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	spelar	TR		TR	TR		Björn spelar gitarr.					
 84	Swedish	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	undviker	TR		TR	TR		Björn undviker Maja.					
 84	Swedish	36	make	X (make) Y	изготовить	X (изготовить) Y	gjorde	TR		TR	TR		Björn gjorde en musfälla.					
-84	Swedish	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	gör narr 	NOM	av	Y	NOM_av	CV (literally 'make fool'). Alternative is driver, which takes med.	Björn gör narr av Maja.					
+84	Swedish	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	gör narr 	NOM	av	Y	NOM_av		Björn gör narr av Maja.					CV (literally 'make fool'). Alternative is driver, which takes med.
 84	Swedish	38	have	X (have) Y	иметь	X (иметь) Y	har	TR		TR	TR		Björn har (en) bil.					
 84	Swedish	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	letar	NOM	efter	Y	NOM_efter		Björn letar efter sina nycklar.					
 84	Swedish	40	paint	X (paint) Y	красить	X (красить) Y	målade	TR		TR	TR		Björn målade staketet.					
 84	Swedish	41	bite	X (bite) Y	кусать	X (кусать) Y-а	bet	TR		TR	TR		En hund bet Björn.					
-84	Swedish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	förlorade	TR		TR	TR	Same as #82	Björn förlorade sitt hus.					
-84	Swedish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	försöker fånga	TR		TR	TR	CV ('try to catch')	Björn försöker fånga katten.					
+84	Swedish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	förlorade	TR		TR	TR		Björn förlorade sitt hus.					Same as #82
+84	Swedish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	försöker fånga	TR		TR	TR		Björn försöker fånga katten.					CV ('try to catch')
 84	Swedish	44	break	X (break) Y	ломать	X (ломать) Y	knäckte	TR		TR	TR		Björn knäckte en pinne.					
-84	Swedish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	smickrar	TR		TR	TR	Alternative is smörar, which takes för	Björn smickrar Maja.					
-84	Swedish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	älskar	TR		TR	TR	Same as #119	Björn älskar Maja.					
+84	Swedish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	smickrar	TR		TR	TR		Björn smickrar Maja.					Alternative is smörar, which takes för
+84	Swedish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	älskar	TR		TR	TR		Björn älskar Maja.					Same as #119
 84	Swedish	47	wave	X (wave) Y	махать	X (махать) Y-ом	vinkar	NOM	med	Y	NOM_med		Björn vinkar med en näsduk.					
-84	Swedish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	drömmer	NOM	om	Y	NOM_om	Same as #97	Björn drömmer om en ny bil.					
+84	Swedish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	drömmer	NOM	om	Y	NOM_om		Björn drömmer om en ny bil.					Same as #97
 84	Swedish	49	wash	X (wash) Y	мыть	X (мыть) Y	diskade	TR		TR	TR		Björn diskade koppen.					
-84	Swedish	50	put_on	X (put_on) Y	надевать	X (надевать) Y	tog på sig	TR		TR	TR	CV (lit. 'put on self')	Björn tog på sig sina byxor.					
-84	Swedish	51	be_called	X (be_called) Y	называться	X (называться) Y	kallas för	TR		TR	TR	Reflexive/middle verb. Phrasal verb. 	Ett sådant här verktyg kallas för en kompass					
+84	Swedish	50	put_on	X (put_on) Y	надевать	X (надевать) Y	tog på sig	TR		TR	TR		Björn tog på sig sina byxor.					CV (lit. 'put on self')
+84	Swedish	51	be_called	X (be_called) Y	называться	X (называться) Y	kallas för	TR		TR	TR		Ett sådant här verktyg kallas för en kompass					Reflexive/middle verb. Phrasal verb. 
 84	Swedish	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	straffade	TR		TR	TR		Björn (be)straffade sin son.					
 84	Swedish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	anföll	TR		TR	TR		En björn anföll en fiskare.					
 84	Swedish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	fylldes	NOM	med	Y	NOM_med		Hinken fylldes med vatten.					
 84	Swedish	55	find	X (find) Y	находить	X (находить) Y(-а)	hittade	TR		TR	TR		Björn hittade sina nycklar.					
-84	Swedish	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	har för lite	TR		TR	TR	CV ('have Y too little')	Björn har en euro för lite.					
+84	Swedish	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	har för lite	TR		TR	TR		Björn har en euro för lite.					CV ('have Y too little')
 84	Swedish	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	hatar	TR		TR	TR		Björn hatar Maja.					
-84	Swedish	58	like	X (like) Y	нравиться	X-у (нравиться) Y	gillar	TR		TR	TR	Same as #120	Björn gillar den här tröjan.					
+84	Swedish	58	like	X (like) Y	нравиться	X-у (нравиться) Y	gillar	TR		TR	TR		Björn gillar den här tröjan.					Same as #120
 84	Swedish	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	behöver	TR		TR	TR		Björn behöver pengar.					
 84	Swedish	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	omger	TR		TR	TR		Murarna omger staden.					
-84	Swedish	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	har kvar	TR		TR	TR	CV	Björn har 10 euro kvar.					
+84	Swedish	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	har kvar	TR		TR	TR		Björn har 10 euro kvar.					CV
 84	Swedish	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	svarade	TR		TR	TR		Björn svarade läraren.					
 84	Swedish	63	open	X (open) Y	открывать	X (открывать) Y	öppnade	TR		TR	TR		Björn öppnade en burk.					
-84	Swedish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	inte likadan	NOM	som	Y	NOM_som	"NEG + NV (""not same as"")"	Nej, min tröja är inte likadan som din (den är mörkare).					
-84	Swedish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	hamnade efter	TR		TR	TR	Phrasal verb. Alternatives are hängde efter and halkade efter, but they all have the same valency pattern (and efter is stressed).	Björn hamnade efter Maja.					
+84	Swedish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	inte likadan	NOM	som	Y	NOM_som		Nej, min tröja är inte likadan som din (den är mörkare).					"NEG + NV (""not same as"")"
+84	Swedish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	hamnade efter	TR		TR	TR		Björn hamnade efter Maja.					Phrasal verb. Alternatives are hängde efter and halkade efter, but they all have the same valency pattern (and efter is stressed).
 84	Swedish	66	plough	X (plough) Y	пахать	X (пахать) Y	plöjer	TR		TR	TR		Björn plöjer åkern.					
 84	Swedish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	luktar	TR		TR	TR		Mina händer luktar bensin.					
-84	Swedish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	gick över	TR		TR	TR	CV (go + over). ALternative is is korsade, simplex verb, also transitive.	Björn gick över gatan.					
+84	Swedish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	gick över	TR		TR	TR		Björn gick över gatan.					CV (go + over). ALternative is is korsade, simplex verb, also transitive.
 84	Swedish	69	sing	X (sing) Y	петь	X (петь) Y	sjöng	TR		TR	TR		Björn sjöng en vacker sång.					
 84	Swedish	70	write	X (write) Y	писать	X (писать) Y	skrev	TR		TR	TR		Björn skrev ett brev.					
 84	Swedish	71	drink	X (drink) Y	пить	X (пить) Y	drack	TR		TR	TR		Björn drack mjölken.					
@@ -74,58 +74,58 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	passar	NOM	till	Y	NOM_till		Det här skärpet passar till min klänning.					
 84	Swedish	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	lämnade	TR		TR	TR		Björn lämnade sin hemstad.					
 84	Swedish	75	cover	X (cover) Y	покрывать	X (покрывать) Y	täcker	TR		TR	TR		Mattan täcker hela golvet.					
-84	Swedish	76	remember	X (remember) Y	помнить	X (помнить) Y-а	kommer ihåg	TR		TR	TR	CV ('come in.mid', rememberer as subject (!)). Alternative is minns, also TR.	Björn kommer ihåg/minns sitt barndomshem väl					
+84	Swedish	76	remember	X (remember) Y	помнить	X (помнить) Y-а	kommer ihåg	TR		TR	TR		Björn kommer ihåg/minns sitt barndomshem väl					CV ('come in.mid', rememberer as subject (!)). Alternative is minns, also TR.
 84	Swedish	77	help	X (help) Y	помочь	X (помогать) Y-у	hjälpte	TR		TR	TR		Björn hjälpte Maja.					
 84	Swedish	78	understand	X (understand) Y	понимать	X (понимать) Y	förstår	TR		TR	TR		Björn förstår franska.					
-84	Swedish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	slog ner	NOM	i	Y	NOM_i	Phrasal verb. Alternative is träffade, which is transitive, but does not convey the meaning of accidentality	Blixten slog ner i huset					
-84	Swedish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	skar sig	NOM	med	Y	NOM_med	CV ('cut himself')	Björn skar sig med en rakkniv.					
+84	Swedish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	slog ner	NOM	i	Y	NOM_i		Blixten slog ner i huset					Phrasal verb. Alternative is träffade, which is transitive, but does not convey the meaning of accidentality
+84	Swedish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	skar sig	NOM	med	Y	NOM_med		Björn skar sig med en rakkniv.					CV ('cut himself')
 84	Swedish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	fastnade	NOM	i	Y	NOM_i		Glaset fastnade i bordet.					
-84	Swedish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	förlorade	NOM	mot	Y	NOM_mot	Same as #42	Björn förlorade mot Maja.					
-84	Swedish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	blev glad	NOM	över	Y	NOM_över	CV ('become + glad'). This predicate also takes för. The third option is verbal (gladdes), it takes åt	Björn blev glad över brevet.					
+84	Swedish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	förlorade	NOM	mot	Y	NOM_mot		Björn förlorade mot Maja.					Same as #42
+84	Swedish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	blev glad	NOM	över	Y	NOM_över		Björn blev glad över brevet.					CV ('become + glad'). This predicate also takes för. The third option is verbal (gladdes), it takes åt
 84	Swedish	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	pratar	NOM	med	Y	NOM_med		Björn pratar med Maja.					
 84	Swedish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	födde	TR		TR	TR		Maja födde en son. 					
 84	Swedish	86	drop	X (drop) Y	ронять	X (ронять) Y	tappade	TR		TR	TR		Björn tappade glaset.					
-84	Swedish	87	govern	X (govern) Y	руководить	X (руководить) Y	styr	TR		TR	TR	Alternative: preposition i for Y.	Björn styr vår stad.					
+84	Swedish	87	govern	X (govern) Y	руководить	X (руководить) Y	styr	TR		TR	TR		Björn styr vår stad.					Alternative: preposition i for Y.
 84	Swedish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	saknar	TR		TR	TR		Björn saknar Maja.					
-84	Swedish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	följer efter	TR		TR	TR	Phrasal verb	Björn följer efter Maja. 					
-84	Swedish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	klev av	TR		TR	TR	Phrasal verb	Björn klev av hästen.					
+84	Swedish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	följer efter	TR		TR	TR		Björn följer efter Maja. 					Phrasal verb
+84	Swedish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	klev av	TR		TR	TR		Björn klev av hästen.					Phrasal verb
 84	Swedish	91	listen	X (listen) to Y	слушать	X (слушать) Y	lyssnar	NOM	på	Y	NOM_på		Björn lyssnar på radio.					
-84	Swedish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	lyder	TR		TR	TR	Alternative: lyssnar (NOM_på), which means literally 'listens to' (= #91).	Björn lyder alltid sin mamma.					
+84	Swedish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	lyder	TR		TR	TR		Björn lyder alltid sin mamma.					Alternative: lyssnar (NOM_på), which means literally 'listens to' (= #91).
 84	Swedish	93	hear	X (hear) Y	слышать	X (слышать) Y	hör	TR		TR	TR		Björn hör musiken.					
-84	Swedish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	blandades	NOM	med	Y	NOM_med	Reflexive/middle verb	Honungen blandades med mjölken.					
+84	Swedish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	blandades	NOM	med	Y	NOM_med		Honungen blandades med mjölken.					Reflexive/middle verb
 84	Swedish	95	look	X (look) at Y	смотреть	X (смотреть) на Y	tittar	NOM	på	Y	NOM_på		Björn tittar på molnen.					
-84	Swedish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	tog av sig	TR		TR	TR	CV (lit. 'took of himself')	Björn tog av sig sin tröja.					
-84	Swedish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	drömmer	NOM	om	Y	NOM_om	Same as #48	Maja drömmer om Björn.					
-84	Swedish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	höll med	TR		TR	TR	phrasal verb	Björn höll med Maja.					
-84	Swedish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	bråkade	NOM	med	Y	NOM_med	Not entirely clear whether med is the preposition or part of a phrasal verb here. The most natural translation is literally 'X and Y quarrelled', which does not meet my criteria	Björn bråkade med Maja.					
+84	Swedish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	tog av sig	TR		TR	TR		Björn tog av sig sin tröja.					CV (lit. 'took of himself')
+84	Swedish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	drömmer	NOM	om	Y	NOM_om		Maja drömmer om Björn.					Same as #48
+84	Swedish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	höll med	TR		TR	TR		Björn höll med Maja.					phrasal verb
+84	Swedish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	bråkade	NOM	med	Y	NOM_med		Björn bråkade med Maja.					Not entirely clear whether med is the preposition or part of a phrasal verb here. The most natural translation is literally 'X and Y quarrelled', which does not meet my criteria
 84	Swedish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	kostar	TR		TR	TR		Den här koppen kostar 1 euro.					
 84	Swedish	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	sköt	NOM	mot	Y	NOM_mot		Björn sköt mot fågeln.					
-84	Swedish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	hällde i	TR		TR	TR	phrasal verb ('put in')	Björn hällde i socker i koppen.					
-84	Swedish	103	lose	X (lose) Y	терять	X (терять) Y	tappade bort	TR		TR	TR	Phrasal verb. Alternative is förlorade (also TR), which implies more serious/permanent loss.	Björn tappade bort sina nycklar.					
-84	Swedish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sjönk	NOM	i	Y	NOM_i	Alternative: sjönk ner (phrasal verb), same pattern	Stocken sjönk i vattnet.					
+84	Swedish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	hällde i	TR		TR	TR		Björn hällde i socker i koppen.					phrasal verb ('put in')
+84	Swedish	103	lose	X (lose) Y	терять	X (терять) Y	tappade bort	TR		TR	TR		Björn tappade bort sina nycklar.					Phrasal verb. Alternative is förlorade (also TR), which implies more serious/permanent loss.
+84	Swedish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sjönk	NOM	i	Y	NOM_i		Stocken sjönk i vattnet.					Alternative: sjönk ner (phrasal verb), same pattern
 84	Swedish	105	kill	X (kill) Y	убивать	X (убивать) Y-а	dödade	TR		TR	TR		Björn dödade Maja					
-84	Swedish	106	hit	X (hit) Y	ударить	X (ударять) Y-а	slog	TR		TR	TR	Same as #13	Björn slog Maja.					
+84	Swedish	106	hit	X (hit) Y	ударить	X (ударять) Y-а	slog	TR		TR	TR		Björn slog Maja.					Same as #13
 84	Swedish	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	kysste	TR		TR	TR		Björn kysste Maja.					
 84	Swedish	108	read	X (read) Y	читать	X (читать) Y-а	läste	TR		TR	TR		Björn läste en intressant bok.					
 84	Swedish	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	rörde	NOM	på	Y	NOM_på		Björn rörde på fingret.					
 84	Swedish	110	respect	X (respect) Y	уважать	X (уважать) Y-а	respekterar	TR		TR	TR		Björn respekterar Maja.					
-84	Swedish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	äcklas	NOM	av	Y	NOM_av	"Reflexive/middle verb. Alternative is sth. like ""B. is sqeamish when it comes to dirty plates"", I can't accept this."	Björn äcklas av smutsdisk.					
-84	Swedish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	är nöjd	NOM	med	Y	NOM_med	NV ('be + satisfied')	Björn är nöjd med sin son.					
-84	Swedish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	förälskade sig	NOM	i	Y	NOM_i	"CV (lit. 'enamoured himself'). Alternative is ""blev kar' ('became fond'), same structure."	Björn förälskade sig i Maja.					
-84	Swedish	114	trust	X (trust) Y	доверять	X (доверять) Y-у	litar på	TR		TR	TR	The på in litar på seems to be an unstressed verbal particle, which would make the sentence transitive. Fronting på Maja, especially in a more complex sentence like *På Maja har jag svårt att lita feels unnatural, or even ungrammatical (it sounds like the person finds it difficult to “lita” while on top of Maja, further complicated by the fact that lita does not exist as a standalone verb). –Emil	Björn litar på Maja.					
-84	Swedish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	känner	NOM	med	Y	NOM_med	Same as #33, different structure	Björn känner med sin mamma.					
-84	Swedish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	är avundsjuk	NOM	på	Y	NOM_på	NV ('is envious'). Alternative is avundas (simplex verb), transitive	Björn är avundsjuk på Maja.					
-84	Swedish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	är arg	NOM	på	Y	NOM_på	NV ('is angry')	Björn är arg på Maja.					
-84	Swedish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	blev överraskad	NOM	av	Y	NOM_av	CV ('become + surprised'), passive	Björn blev överraskad av presenten.					
-84	Swedish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	älskar	TR		TR	TR	Same as #46	Björn älskar te.					
-84	Swedish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	gillar	TR		TR	TR	Same as #58	Björn gillar varmt te.					
+84	Swedish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	äcklas	NOM	av	Y	NOM_av		Björn äcklas av smutsdisk.					"Reflexive/middle verb. Alternative is sth. like ""B. is sqeamish when it comes to dirty plates"", I can't accept this."
+84	Swedish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	är nöjd	NOM	med	Y	NOM_med		Björn är nöjd med sin son.					NV ('be + satisfied')
+84	Swedish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	förälskade sig	NOM	i	Y	NOM_i		Björn förälskade sig i Maja.					"CV (lit. 'enamoured himself'). Alternative is ""blev kar' ('became fond'), same structure."
+84	Swedish	114	trust	X (trust) Y	доверять	X (доверять) Y-у	litar på	TR		TR	TR		Björn litar på Maja.					The på in litar på seems to be an unstressed verbal particle, which would make the sentence transitive. Fronting på Maja, especially in a more complex sentence like *På Maja har jag svårt att lita feels unnatural, or even ungrammatical (it sounds like the person finds it difficult to “lita” while on top of Maja, further complicated by the fact that lita does not exist as a standalone verb). –Emil
+84	Swedish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	känner	NOM	med	Y	NOM_med		Björn känner med sin mamma.					Same as #33, different structure
+84	Swedish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	är avundsjuk	NOM	på	Y	NOM_på		Björn är avundsjuk på Maja.					NV ('is envious'). Alternative is avundas (simplex verb), transitive
+84	Swedish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	är arg	NOM	på	Y	NOM_på		Björn är arg på Maja.					NV ('is angry')
+84	Swedish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	blev överraskad	NOM	av	Y	NOM_av		Björn blev överraskad av presenten.					CV ('become + surprised'), passive
+84	Swedish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	älskar	TR		TR	TR		Björn älskar te.					Same as #46
+84	Swedish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	gillar	TR		TR	TR		Björn gillar varmt te.					Same as #58
 84	Swedish	121	want	X (want) Y	хотеть	X (хотеть) Y-а	*	*		*			Björn vill ha en ny mobil(telefon).					
-84	Swedish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	är sur	NOM	på	Y	NOM_på	NV ('is + adj')	Björn är sur på Maja.					
-84	Swedish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	blev sur	NOM	på	Y	NOM_på	CV ('become + adj'). Very similar to #122.	Björn blev sur på Maja.					
-84	Swedish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	gjorde upprörd	TR		TR	TR	CV ('made upset')	Björn gjorde Maja väldigt upprörd.					
-84	Swedish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	förundrades	NOM	över	Y	NOM_över	Reflexive/middle verb. Alternative is var imponerad (NOM_av), NV ('be + amazed')	Björn förundrades över staden.					
+84	Swedish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	är sur	NOM	på	Y	NOM_på		Björn är sur på Maja.					NV ('is + adj')
+84	Swedish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	blev sur	NOM	på	Y	NOM_på		Björn blev sur på Maja.					CV ('become + adj'). Very similar to #122.
+84	Swedish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	gjorde upprörd	TR		TR	TR		Björn gjorde Maja väldigt upprörd.					CV ('made upset')
+84	Swedish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	förundrades	NOM	över	Y	NOM_över		Björn förundrades över staden.					Reflexive/middle verb. Alternative is var imponerad (NOM_av), NV ('be + amazed')
 84	Swedish	126	despise	X (despise) Y	презирать	X (презирать) Y-а	avskyr	TR		TR	TR		Björn avskyr Maja. 					
-84	Swedish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	blev upprörd	NOM	på	Y	NOM_på	CV ('become + angry'). Similar meanings can expressed by other adjectives (ar, sur) with the same valency structure.	Björn blev upprörd på sin son.					
-84	Swedish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	blev irriterad	NOM	på	Y	NOM_på	CV ('become + irritated')	Björn håller på att bli irriterad på sin dotter.					
-84	Swedish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	tycker om	TR		TR	TR	Phrasal verb	Björn tycker om Maja.					
-84	Swedish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	är generad	NOM	över	Y	NOM_över	"NV ('be + shy'). Alternative is ""är har dålig självkänsla"", same valency pattern"	Björn är generad över sin längd.					
+84	Swedish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	blev upprörd	NOM	på	Y	NOM_på		Björn blev upprörd på sin son.					CV ('become + angry'). Similar meanings can expressed by other adjectives (ar, sur) with the same valency structure.
+84	Swedish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	blev irriterad	NOM	på	Y	NOM_på		Björn håller på att bli irriterad på sin dotter.					CV ('become + irritated')
+84	Swedish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	tycker om	TR		TR	TR		Björn tycker om Maja.					Phrasal verb
+84	Swedish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	är generad	NOM	över	Y	NOM_över		Björn är generad över sin längd.					"NV ('be + shy'). Alternative is ""är har dålig självkänsla"", same valency pattern"

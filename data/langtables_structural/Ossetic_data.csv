@@ -1,131 +1,131 @@
-language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-35	Ossetic	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	риссын 	DAT	NOM	X	DATNOM							
-35	Ossetic	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	рынчын уæвын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	тæрсын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	фехсын	TR		TR	TR							
-35	Ossetic	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	æххæст уæвын 	NOM	ABL	Y	NOMABL	Еще были приведены варианты с фаг кæнын и моделями (DAT_NOM и ALL_NOM), я их не стал брать условно, просто потому, что они были названы позже. Сеня сказал, что тоже не видит причин для выбора, взял первое поопавшееся.						
-35	Ossetic	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	хуызæн уæвын	*посессивная конструкция										
-35	Ossetic	7	believe	X (believe) Y	верить	X (верить)Y-у	æууæндын 	NOM	SUPER	Y	NOMSUPER	Совпадает с доверять (114), засчитывается здесь как базовое значение осетинского глагола (Сеня подтвердил)						
-35	Ossetic	8	take	X (take) Y	взять	X (брать) Y(-а)	райсын	TR		TR	TR							
-35	Ossetic	9	see	X (see) Y	видеть	X (видеть) Y(-а)	уынын	TR		TR	TR							
-35	Ossetic	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	фæзынын 	NOM	SUPER	Y	NOMSUPER	Букв. Появляться						
-35	Ossetic	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	фембæлын 	NOM	SUPER	Y	NOMSUPER	Он же имеет комитативную модель. Засчитывается эта как более частотная (Сеня сказал, что по корпусу 137 на 87)						
-35	Ossetic	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	æрбахизын 	NOM	ALL	Y	NOMALL	Есть еще другой глагол с такой же моделью						
-35	Ossetic	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	рамбулын	TR		TR	TR	Еще был суперэссивный фӕуæлахиз уӕвын, взял этот только потому, что он назван первым. Сеня не отреагировал на эту строчку.						
-35	Ossetic	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	рахизын 	NOM	ABL	Y	NOMABL	Есть еще другой глагол с такой же моделью						
-35	Ossetic	15	drive	X (drive) Y	гнать	X (гнать) Y-а	тæрын	TR		TR	TR							
-35	Ossetic	16	bend	X (bend) Y	гнуть	X (гнуть) Y	æркъæдз кæнын	TR		TR	TR							
-35	Ossetic	17	tell	X (tell) Y	говорить	X (говорить) Y-у	зæгъын 	NOM	DAT	Y	NOMDAT							
-35	Ossetic	18	hold	X (hold)Y	держать	X (держать) Y(-а)	хӕцын 	NOM	SUPER	Y	NOMSUPER	Было еще два варианта, мы и не можем брать, потому что в одном А - посессор рук, а в другом вообще нет глагола						
-35	Ossetic	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	баййафын	TR		TR	TR							
-35	Ossetic	20	milk	X (milk) Y	доить	X (доить) Y-а	æрдуцын	TR		TR	TR							
-35	Ossetic	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	бахæццæ уæвын 	NOM	ALL	Y	NOMALL							
-35	Ossetic	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	бандзæвын 	NOM	ALL	Y	NOMALL	Есть еще другой глагол с такой же моделью						
-35	Ossetic	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	хыл кæнын 	NOM	COM	Y	NOMCOM							
-35	Ossetic	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	хæларæй цæрын 	NOM	COM	Y	NOMCOM	букв. Жить другом						
-35	Ossetic	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	хъуыды кæнын 	NOM	SUPER	Y	NOMSUPER							
-35	Ossetic	26	eat	X (eat) Y	есть	X (есть) Y	бахæрын	TR		TR	TR							
-35	Ossetic	27	fry	X (fry) Y	жарить	X (жарить) Y	сфизонæг кæнын	TR		TR	TR							
-35	Ossetic	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	æнхъæлмæ кæсын 	NOM	ALL	Y	NOMALL							
-35	Ossetic	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ферох кæнын	TR		TR	TR	"Еще была конструкция с ""Ферох уæвын"" (уæвын - инфинитив от ис), она непереходная (А- ABL, O - NOM), что-то типа пассива (хотя не пассив) ""дорога забыта у Ислама"". Сеня сказал, что лучше взять перехходную конструкцию."						
-35	Ossetic	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	баст уӕвын 	NOM	COM	Y	NOMCOM	быть связанным						
-35	Ossetic	31	call	X (call) Y	звать	X (звать) Y-а	фæдзурын 	NOM	ALL	Y	NOMALL							
-35	Ossetic	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	базонгæ кæнын 	NOM	COM	Y	NOMCOM							
-35	Ossetic	33	know	X (know) Y	знать 	X (знать) Y-а	зонын	TR		TR	TR							
-35	Ossetic	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	цæгъдын 	NOM	SUPER	Y	NOMSUPER							
-35	Ossetic	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	æмбæхсын 	NOM	ABL	Y	NOMABL	Какие-то еще варианты						
-35	Ossetic	36	make	X (make) Y	изготовить	X (изготовить) Y	саразын	TR		TR	TR							
-35	Ossetic	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	хынджылæг кæнын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	38	have	X (have) Y	иметь	X (иметь) Y	уæвын 	ALL	NOM	X	ALLNOM	Тут довольно сложное взаимодействие с еще одной конструкцией, DAT - NOM. В целом эта другая конструкция используется для неотторжимой принадлежности, но кажется (Сеня) есть сложности. Берем в любом случае ALL-NOM						
-35	Ossetic	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	агурын	TR		TR	TR							
-35	Ossetic	40	paint	X (paint) Y	красить	X (красить) Y	сахорын	TR		TR	TR							
-35	Ossetic	41	bite	X (bite) Y	кусать	X (кусать) Y-а	фæхæцын 	NOM	SUPER	Y	NOMSUPER							
-35	Ossetic	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	фӕцух уӕвын 	NOM	ABL	Y	NOMABL	"Еще есть ""остаться без дома"""						
-35	Ossetic	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	ахсын	TR		TR	TR							
-35	Ossetic	44	break	X (break) Y	ломать	X (ломать) Y	асæттын	TR		TR	TR							
-35	Ossetic	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	зæрдæлхæнæн ныхæстæ кӕнын 	NOM	DAT	Y	NOMDAT							
-35	Ossetic	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	уарзын	TR		TR	TR							
-35	Ossetic	47	wave	X (wave) Y	махать	X (махать) Y-ом	тилын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	бæллын 	NOM	ALL	Y	NOMALL	Есть еще варианты перевода этого предложения, но вроде они хуже подходят. В частности, еще был хъуыды кæнын, суперэссивный, который засчитан за думать. Еще был вариант с  конструкцией DAT_ALL (сердце влечется к)						
-35	Ossetic	49	wash	X (wash) Y	мыть	X (мыть) Y	ныхсын	TR		TR	TR							
-35	Ossetic	50	put_on	X (put_on) Y	надевать	X (надевать) Y	скæнын	TR		TR	TR							
-35	Ossetic	51	be_called	X (be_called) Y	называться	X (называться) Y	хуыйнын	NOM	NOM	Y	NOMNOM							
-35	Ossetic	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	бафхæрын	TR		TR	TR							
-35	Ossetic	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	балæбурын 	NOM	ALL	Y	NOMALL	"Еще был суперэссивный йæхи фехсын ""броситься"" (релексивный), беру этот, что одобрено Сеней"						
-35	Ossetic	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	байдзаг уæвын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	55	find	X (find) Y	находить	X (находить) Y(-а)	ссарын	TR		TR	TR							
-35	Ossetic	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG_фаг кæнын 	DAT	NOM	X	DATNOM	"Собственно ""недоставать"" в осетинском нет (и в классификации Сени это значение не пооявлялось), но пример на этот глагол в анкете есть, берем, хотя это и просто ""отрицание + быть достаточно"""						
-35	Ossetic	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	йӕ сӕфт уынын 	NOM	ABL	Y	NOMABL	было еще фыдзӕрдӕ хӕссын ‘ненавидеть’ (NOM-ALL). Этот - это букв. «видеть его погибель», йӕ - poss.3sg согласуется с О. Подходят в принципе оба						
-35	Ossetic	58	like	X (like) Y	нравиться	X-у (нравиться) Y	йæ зæрдæмæ цæуын 	DAT	NOM	X	DATNOM	Совпадает с симпатизировать (129), засчитываю сюда, как более базовое значение. Еще здесь предлагались варианты, которые не устраивают						
-35	Ossetic	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	хъæуын*	*				"Это по-осетински тот же глагол и та же конструкция, что и для ""хотеть"" (о вещах, 121), засчитано там."						
-35	Ossetic	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	*	*				Нет варианта (только вокруг города стены)						
-35	Ossetic	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	баззайын 	ALL	NOM	X	ALLNOM							
-35	Ossetic	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	дзуапп раттын 	NOM	DAT	Y	NOMDAT							
-35	Ossetic	63	open	X (open) Y	открывать	X (открывать) Y	байгом кæнын	TR		TR	TR							
-35	Ossetic	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	хицæн кæнын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	фæсте аззайын	NOM	ABL	Y	NOMABL	У Сени было написано так: ‘оставаться позади (кого gen), отстать (от gen)’. Не совсем понятно, действительно ли это переходная конструкция или Мадина просто зависимое послелога? Сеня проверил. В том предложении, что в анкете действительно фаесте - скорее послелог. Однако, можно перевести стимул еще и так: Харум фæсте аззад йе 'мбæл-тт-æй (Харум позади остаться poss.3sg друг-pl-abl) 'Харум отстал от своих друзей', где модель Nom Abl. Так что вставляй этот предикат с моделью Nom Abl.						
-35	Ossetic	66	plough	X (plough) Y	пахать	X (пахать) Y	хуым кæнын	TR		TR	TR							
-35	Ossetic	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	тӕф кӕнын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	ахизын 	NOM	sarty	Y	NOMsarty							
-35	Ossetic	69	sing	X (sing) Y	петь	X (петь) Y	азарын	TR		TR	TR							
-35	Ossetic	70	write	X (write) Y	писать	X (писать) Y	ныффыссын	TR		TR	TR							
-35	Ossetic	71	drink	X (drink) Y	пить	X (пить) Y	бануазын	TR		TR	TR							
-35	Ossetic	72	melt	X (melt) Y	плавить	X (плавить) Y	стайын кæнын	TR		TR	TR	букв. Каузировтаь таять						
-35	Ossetic	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	сфидауын	NOM	SUPER	Y	NOMSUPER	Еще был аллативный вариант с просто глаголом идти, решил взять этот: он первым (из удовлетворяющих условиям вариантов) назван + более специализированное значение.						
-35	Ossetic	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	ныууадзын	TR		TR	TR	Еще есть идти из						
-35	Ossetic	75	cover	X (cover) Y	покрывать	X (покрывать) Y	æмбæрзын	TR		TR	TR							
-35	Ossetic	76	remember	X (remember) Y	помнить	X (помнить) Y-а	хъуыды кæнын	TR		TR	TR	Взял этот вариант как первый, но еще DAT_NOM йæ зæрдæйыл лæууын (кому на сердце стоит). Тот вариант, который мы берем - это нормальный сложный глагол, а не фразеология.						
-35	Ossetic	77	help	X (help) Y	помочь	X (помогать) Y-у	аххуыс кæнын 	NOM	DAT	Y	NOMDAT	Еще было фӕкӕсын (аллативный), но его основное значение - 'посмотреть'.						
-35	Ossetic	78	understand	X (understand) Y	понимать	X (понимать) Y	æмбарын	TR		TR	TR							
-35	Ossetic	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	суайын 	NOM	SUPER	Y	NOMSUPER							
-35	Ossetic	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	хи алыг кæнын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	баныхæсын 	NOM	SUPER	Y	NOMSUPER							
-35	Ossetic	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	фӕхӕрд уӕвын 	NOM	DAT	Y	NOMDAT							
-35	Ossetic	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	бацин кæнын 	NOM	SUPER	Y	NOMSUPER							
-35	Ossetic	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	ныхас кæнын 	NOM	COM	Y	NOMCOM							
-35	Ossetic	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	ныййарын	TR		TR	TR	Еще был варииант с другим глаголом и моделью DAT-NOM						
-35	Ossetic	86	drop	X (drop) Y	ронять	X (ронять) Y	ахауын	DAT	NOM	X	DATNOM	У Сени в классификации шел какой-то переходный вариант, но судя по анкете, наше значение лучше передается конструкцией с дативом, беру ее.						
-35	Ossetic	87	govern	X (govern) Y	руководить	X (руководить) Y	*	*				Нет варианта (только Ислам - руководитель)						
-35	Ossetic	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	мысын 	TR		TR	TR	У Сени еще было переходное æнкъард кæнын  (NOM-SUPER). мысын после долгих переговоров выбрано потому, что он более нейтральный + к тому же простой глагол. NB: в подсчетах, отраженных в докладе в Цюрихе (апрелб 2013), был другой глагол.						
-35	Ossetic	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	цæуын 	NOM	fasta	Y	NOMfasta	Y реализуется как объект послелога. Вместе с тем же послелогом как вариант был назван фæдыл.						
-35	Ossetic	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	æрхизын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	91	listen	X (listen) to Y	слушать	X (слушать) Y	хъусын* 	*				"Этот глагол засчитывается за ""слышать"" из общесемантических соображений. В осетинском слышать и слушать (а заодно и слушаться) не различаются."						
-35	Ossetic	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	хъусын*	*				Совпадает со слышать / слушать, не засчитывается.						
-35	Ossetic	93	hear	X (hear) Y	слышать	X (слышать) Y	хъусын 	NOM	ALL	Y	NOMALL	Совпадает со слушать и слушаться, засчитываю сюда из условно общесемантических соображений (значений слушать проще вывести из слышать, чем наоборот)						
-35	Ossetic	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	схӕццӕ уӕвын 	NOM	COM	Y	NOMCOM							
-35	Ossetic	95	look	X (look) at Y	смотреть	X (смотреть) на Y	кæсын 	NOM	ALL	Y	NOMALL							
-35	Ossetic	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	раласын	TR		TR	TR							
-35	Ossetic	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	йӕ фыны уынын	TR		TR	TR	‘видеть во сне’ (йӕ - посессивное местоимение, согласуется с А участником)						
-35	Ossetic	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	сразы уæвын 	NOM	COM	Y	NOMCOM							
-35	Ossetic	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	фæхыл уæвын 	NOM	COM	Y	NOMCOM	Еще был какой-то вариант перевода, но кажется, он тоже с комитативом.						
-35	Ossetic	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	кӕнын	TR		TR	TR	Это вообще-то просто делать. Еще был вариант примерно у этой чашки рублевая цена						
-35	Ossetic	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	фехсын*	*				Не считаем, так как, как я заметил, это тот же глагол и та же конструкция, что бросать. Вот что написал Сеня: тут я долго думал на самом деле. В словарях действтиельно 2 значений - стрелять и бросать. Мне почему-то показалось, что можно считать их 2мя омонимичными глаголами с одинаковой модельныю управления. Хотя, наверное, не стоит замарачиваться на эту тему и может быть разумней слепо преклониться пред убогими осетинско-русскими словарями.						
-35	Ossetic	102	pour	X (pour) Y	сыпать	X (сыпать) Y	æркæнын	TR		TR	TR	Еще вариант æркалдта, модель та же						
-35	Ossetic	103	lose	X (lose) Y	терять	X (терять) Y	фесафын	TR		TR	TR							
-35	Ossetic	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	аныгъуылын	NOM	INESS	Y	NOMINESS	"Это значение в классификации  в ""протостатье"" не упоминалось (без особенных причин). Получено также что-то вроде ""полено ушло на дно реки""."						
-35	Ossetic	105	kill	X (kill) Y	убивать	X (убивать) Y-а	амарын	TR		TR	TR							
-35	Ossetic	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ныццæвын	TR		TR	TR	Вариант ныдздзæхст кæнын 'хлестнул', с той же моделью управления.						
-35	Ossetic	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	апъа кæнын 	NOM	DAT	Y	NOMDAT							
-35	Ossetic	108	read	X (read) Y	читать	X (читать) Y-а	бакæсын	TR		TR	TR							
-35	Ossetic	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	базмæлын кӕнын	TR		TR	TR	Еще есть другой перевод, тоже переходный.						
-35	Ossetic	110	respect	X (respect) Y	уважать	X (уважать) Y-а	аргъ кæнын 	NOM	DAT	Y	NOMDAT							
-35	Ossetic	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	æлгъ кæнын 	NOM	ALL	Y	NOMALL							
-35	Ossetic	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	разы уæвын 	NOM	ABL	Y	NOMABL							
-35	Ossetic	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	бауарзын*	*				Сеня уговорил не брать этот глагол, поттому что это любить с превербом, а преверб обусловлен только видовыми вещами (каждую весну влюбляется будет без преверба, как любить).						
-35	Ossetic	114	trust	X (trust) Y	доверять	X (доверять) Y-у	æууæндын* 	*				Совпадает с верить (7) (TR), так что засчитываем этот глагол там						
-35	Ossetic	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	тæригъæд кæнын 	NOM	DAT	Y	NOMDAT							
-35	Ossetic	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	хæлæг кӕнын 	NOM	ALL	Y	NOMALL							
-35	Ossetic	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	мæсты кæнын 	*				"Совпадает для трех стимулов (сердиться, злиться, раздражаться), засчитываю как ""сердиться"" условно, как более простое и частотное, Сеня ничего кроме рулетки не советовал."						
-35	Ossetic	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	бадис кæнын 	NOM	SUPER	Y	NOMSUPER	Совпало с поразиться (125), выбираем более простой вариант (Сеня одобрил). Еще перевели это переходнной конструкцией: подарок удивил.						
-35	Ossetic	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	уарзын*	*				Совпало с любить-1, засчитываем там.						
-35	Ossetic	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	йӕ мондӕгтӕ исын 	NOM	ABL	Y	NOMABL	(йӕ - poss.3sg согласуется с экспериенцером)						
-35	Ossetic	121	want	X (want) Y	хотеть	X (хотеть) Y-а	хъæуын	GEN	NOM	X	GENNOM	"Это по-осетински тот же глагол и та же конструкция, что ""быть нужным"", ""нуждаться"", засчитываем здесь."						
-35	Ossetic	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	мæсты кæнын 	NOM	ALL	Y	NOMALL	"Совпадает для трех стимулов (сердиться, злиться, раздражаться), засчитываю как ""сердиться"" условно, как более простое и частотное, Сеня ничего кроме рулетки не советовал."						
-35	Ossetic	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	фæтæргай уæвын 	NOM	SUPER	Y	NOMSUPER							
-35	Ossetic	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	фенкъард кæнын	TR		TR	TR							
-35	Ossetic	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	бадис кæнын*	*				Совпало с удивиться (118), засчитываем там. Еще перевели это переходной конструкцией: город поразил.						
-35	Ossetic	126	despise	X (despise) Y	презирать	X (презирать) Y-а	йæ сæрмæ нæ хæссын	TR		TR	TR	"презирать', 'считать себя выше кого-н’ (букв. ‘к его голове не нести’); перевод ""презирать"" вообще-то появлялся как альтернативный и при глаголе, который я засчитал как ненавидеть (погибель видеть)"						
-35	Ossetic	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	рамæсты кæнын 	NOM	tyxxaj	Y	NOMtyxxaj	Сеня: этот просто послание тебе. Извини, это я куда-то не туда посмотрел, действительно огорчаться было в анкете, все правильно.						
-35	Ossetic	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	мæсты кæнын*	*				"Совпадает для трех стимулов (сердиться, злиться, раздражаться), засчитываю как ""сердиться"" условно, как более простое и частотное, Сеня ничего кроме рулетки не советовал."						
-35	Ossetic	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	йæ зæрдæмæ цæуын*	*				Не считаю, так как совпадает с более базовым нравиться, 58						
-35	Ossetic	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	ӕфсӕрмы кӕнын 	NOM	ABL	Y	NOMABL	У этого глагола есть еще употребления с тыххай, но их мало (в корпусе)						
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
+35	Ossetic	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	риссын 	DAT	NOM	X	DATNOM									
+35	Ossetic	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	рынчын уæвын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	тæрсын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	фехсын	TR		TR	TR									
+35	Ossetic	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	æххæст уæвын 	NOM	ABL	Y	NOMABL							Еще были приведены варианты с фаг кæнын и моделями (DAT_NOM и ALL_NOM), я их не стал брать условно, просто потому, что они были названы позже. Сеня сказал, что тоже не видит причин для выбора, взял первое поопавшееся.		
+35	Ossetic	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	хуызæн уæвын	*посессивная конструкция												
+35	Ossetic	7	believe	X (believe) Y	верить	X (верить)Y-у	æууæндын 	NOM	SUPER	Y	NOMSUPER							Совпадает с доверять (114), засчитывается здесь как базовое значение осетинского глагола (Сеня подтвердил)		
+35	Ossetic	8	take	X (take) Y	взять	X (брать) Y(-а)	райсын	TR		TR	TR									
+35	Ossetic	9	see	X (see) Y	видеть	X (видеть) Y(-а)	уынын	TR		TR	TR									
+35	Ossetic	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	фæзынын 	NOM	SUPER	Y	NOMSUPER							Букв. Появляться		
+35	Ossetic	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	фембæлын 	NOM	SUPER	Y	NOMSUPER							Он же имеет комитативную модель. Засчитывается эта как более частотная (Сеня сказал, что по корпусу 137 на 87)		
+35	Ossetic	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	æрбахизын 	NOM	ALL	Y	NOMALL							Есть еще другой глагол с такой же моделью		
+35	Ossetic	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	рамбулын	TR		TR	TR							Еще был суперэссивный фӕуæлахиз уӕвын, взял этот только потому, что он назван первым. Сеня не отреагировал на эту строчку.		
+35	Ossetic	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	рахизын 	NOM	ABL	Y	NOMABL							Есть еще другой глагол с такой же моделью		
+35	Ossetic	15	drive	X (drive) Y	гнать	X (гнать) Y-а	тæрын	TR		TR	TR									
+35	Ossetic	16	bend	X (bend) Y	гнуть	X (гнуть) Y	æркъæдз кæнын	TR		TR	TR									
+35	Ossetic	17	tell	X (tell) Y	говорить	X (говорить) Y-у	зæгъын 	NOM	DAT	Y	NOMDAT									
+35	Ossetic	18	hold	X (hold)Y	держать	X (держать) Y(-а)	хӕцын 	NOM	SUPER	Y	NOMSUPER							Было еще два варианта, мы и не можем брать, потому что в одном А - посессор рук, а в другом вообще нет глагола		
+35	Ossetic	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	баййафын	TR		TR	TR									
+35	Ossetic	20	milk	X (milk) Y	доить	X (доить) Y-а	æрдуцын	TR		TR	TR									
+35	Ossetic	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	бахæццæ уæвын 	NOM	ALL	Y	NOMALL									
+35	Ossetic	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	бандзæвын 	NOM	ALL	Y	NOMALL							Есть еще другой глагол с такой же моделью		
+35	Ossetic	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	хыл кæнын 	NOM	COM	Y	NOMCOM									
+35	Ossetic	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	хæларæй цæрын 	NOM	COM	Y	NOMCOM							букв. Жить другом		
+35	Ossetic	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	хъуыды кæнын 	NOM	SUPER	Y	NOMSUPER									
+35	Ossetic	26	eat	X (eat) Y	есть	X (есть) Y	бахæрын	TR		TR	TR									
+35	Ossetic	27	fry	X (fry) Y	жарить	X (жарить) Y	сфизонæг кæнын	TR		TR	TR									
+35	Ossetic	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	æнхъæлмæ кæсын 	NOM	ALL	Y	NOMALL									
+35	Ossetic	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ферох кæнын	TR		TR	TR							"Еще была конструкция с ""Ферох уæвын"" (уæвын - инфинитив от ис), она непереходная (А- ABL, O - NOM), что-то типа пассива (хотя не пассив) ""дорога забыта у Ислама"". Сеня сказал, что лучше взять перехходную конструкцию."		
+35	Ossetic	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	баст уӕвын 	NOM	COM	Y	NOMCOM							быть связанным		
+35	Ossetic	31	call	X (call) Y	звать	X (звать) Y-а	фæдзурын 	NOM	ALL	Y	NOMALL									
+35	Ossetic	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	базонгæ кæнын 	NOM	COM	Y	NOMCOM									
+35	Ossetic	33	know	X (know) Y	знать 	X (знать) Y-а	зонын	TR		TR	TR									
+35	Ossetic	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	цæгъдын 	NOM	SUPER	Y	NOMSUPER									
+35	Ossetic	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	æмбæхсын 	NOM	ABL	Y	NOMABL							Какие-то еще варианты		
+35	Ossetic	36	make	X (make) Y	изготовить	X (изготовить) Y	саразын	TR		TR	TR									
+35	Ossetic	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	хынджылæг кæнын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	38	have	X (have) Y	иметь	X (иметь) Y	уæвын 	ALL	NOM	X	ALLNOM							Тут довольно сложное взаимодействие с еще одной конструкцией, DAT - NOM. В целом эта другая конструкция используется для неотторжимой принадлежности, но кажется (Сеня) есть сложности. Берем в любом случае ALL-NOM		
+35	Ossetic	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	агурын	TR		TR	TR									
+35	Ossetic	40	paint	X (paint) Y	красить	X (красить) Y	сахорын	TR		TR	TR									
+35	Ossetic	41	bite	X (bite) Y	кусать	X (кусать) Y-а	фæхæцын 	NOM	SUPER	Y	NOMSUPER									
+35	Ossetic	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	фӕцух уӕвын 	NOM	ABL	Y	NOMABL							"Еще есть ""остаться без дома"""		
+35	Ossetic	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	ахсын	TR		TR	TR									
+35	Ossetic	44	break	X (break) Y	ломать	X (ломать) Y	асæттын	TR		TR	TR									
+35	Ossetic	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	зæрдæлхæнæн ныхæстæ кӕнын 	NOM	DAT	Y	NOMDAT									
+35	Ossetic	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	уарзын	TR		TR	TR									
+35	Ossetic	47	wave	X (wave) Y	махать	X (махать) Y-ом	тилын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	бæллын 	NOM	ALL	Y	NOMALL							Есть еще варианты перевода этого предложения, но вроде они хуже подходят. В частности, еще был хъуыды кæнын, суперэссивный, который засчитан за думать. Еще был вариант с  конструкцией DAT_ALL (сердце влечется к)		
+35	Ossetic	49	wash	X (wash) Y	мыть	X (мыть) Y	ныхсын	TR		TR	TR									
+35	Ossetic	50	put_on	X (put_on) Y	надевать	X (надевать) Y	скæнын	TR		TR	TR									
+35	Ossetic	51	be_called	X (be_called) Y	называться	X (называться) Y	хуыйнын	NOM	NOM	Y	NOMNOM									
+35	Ossetic	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	бафхæрын	TR		TR	TR									
+35	Ossetic	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	балæбурын 	NOM	ALL	Y	NOMALL							"Еще был суперэссивный йæхи фехсын ""броситься"" (релексивный), беру этот, что одобрено Сеней"		
+35	Ossetic	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	байдзаг уæвын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	55	find	X (find) Y	находить	X (находить) Y(-а)	ссарын	TR		TR	TR									
+35	Ossetic	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG_фаг кæнын 	DAT	NOM	X	DATNOM							"Собственно ""недоставать"" в осетинском нет (и в классификации Сени это значение не пооявлялось), но пример на этот глагол в анкете есть, берем, хотя это и просто ""отрицание + быть достаточно"""		
+35	Ossetic	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	йӕ сӕфт уынын 	NOM	ABL	Y	NOMABL							было еще фыдзӕрдӕ хӕссын ‘ненавидеть’ (NOM-ALL). Этот - это букв. «видеть его погибель», йӕ - poss.3sg согласуется с О. Подходят в принципе оба		
+35	Ossetic	58	like	X (like) Y	нравиться	X-у (нравиться) Y	йæ зæрдæмæ цæуын 	DAT	NOM	X	DATNOM							Совпадает с симпатизировать (129), засчитываю сюда, как более базовое значение. Еще здесь предлагались варианты, которые не устраивают		
+35	Ossetic	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	хъæуын*	*										"Это по-осетински тот же глагол и та же конструкция, что и для ""хотеть"" (о вещах, 121), засчитано там."		
+35	Ossetic	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	*	*										Нет варианта (только вокруг города стены)		
+35	Ossetic	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	баззайын 	ALL	NOM	X	ALLNOM									
+35	Ossetic	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	дзуапп раттын 	NOM	DAT	Y	NOMDAT									
+35	Ossetic	63	open	X (open) Y	открывать	X (открывать) Y	байгом кæнын	TR		TR	TR									
+35	Ossetic	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	хицæн кæнын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	фæсте аззайын	NOM	ABL	Y	NOMABL							У Сени было написано так: ‘оставаться позади (кого gen), отстать (от gen)’. Не совсем понятно, действительно ли это переходная конструкция или Мадина просто зависимое послелога? Сеня проверил. В том предложении, что в анкете действительно фаесте - скорее послелог. Однако, можно перевести стимул еще и так: Харум фæсте аззад йе 'мбæл-тт-æй (Харум позади остаться poss.3sg друг-pl-abl) 'Харум отстал от своих друзей', где модель Nom Abl. Так что вставляй этот предикат с моделью Nom Abl.		
+35	Ossetic	66	plough	X (plough) Y	пахать	X (пахать) Y	хуым кæнын	TR		TR	TR									
+35	Ossetic	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	тӕф кӕнын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	ахизын 	NOM	sarty	Y	NOMsarty									
+35	Ossetic	69	sing	X (sing) Y	петь	X (петь) Y	азарын	TR		TR	TR									
+35	Ossetic	70	write	X (write) Y	писать	X (писать) Y	ныффыссын	TR		TR	TR									
+35	Ossetic	71	drink	X (drink) Y	пить	X (пить) Y	бануазын	TR		TR	TR									
+35	Ossetic	72	melt	X (melt) Y	плавить	X (плавить) Y	стайын кæнын	TR		TR	TR							букв. Каузировтаь таять		
+35	Ossetic	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	сфидауын	NOM	SUPER	Y	NOMSUPER							Еще был аллативный вариант с просто глаголом идти, решил взять этот: он первым (из удовлетворяющих условиям вариантов) назван + более специализированное значение.		
+35	Ossetic	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	ныууадзын	TR		TR	TR							Еще есть идти из		
+35	Ossetic	75	cover	X (cover) Y	покрывать	X (покрывать) Y	æмбæрзын	TR		TR	TR									
+35	Ossetic	76	remember	X (remember) Y	помнить	X (помнить) Y-а	хъуыды кæнын	TR		TR	TR							Взял этот вариант как первый, но еще DAT_NOM йæ зæрдæйыл лæууын (кому на сердце стоит). Тот вариант, который мы берем - это нормальный сложный глагол, а не фразеология.		
+35	Ossetic	77	help	X (help) Y	помочь	X (помогать) Y-у	аххуыс кæнын 	NOM	DAT	Y	NOMDAT							Еще было фӕкӕсын (аллативный), но его основное значение - 'посмотреть'.		
+35	Ossetic	78	understand	X (understand) Y	понимать	X (понимать) Y	æмбарын	TR		TR	TR									
+35	Ossetic	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	суайын 	NOM	SUPER	Y	NOMSUPER									
+35	Ossetic	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	хи алыг кæнын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	баныхæсын 	NOM	SUPER	Y	NOMSUPER									
+35	Ossetic	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	фӕхӕрд уӕвын 	NOM	DAT	Y	NOMDAT									
+35	Ossetic	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	бацин кæнын 	NOM	SUPER	Y	NOMSUPER									
+35	Ossetic	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	ныхас кæнын 	NOM	COM	Y	NOMCOM									
+35	Ossetic	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	ныййарын	TR		TR	TR							Еще был варииант с другим глаголом и моделью DAT-NOM		
+35	Ossetic	86	drop	X (drop) Y	ронять	X (ронять) Y	ахауын	DAT	NOM	X	DATNOM							У Сени в классификации шел какой-то переходный вариант, но судя по анкете, наше значение лучше передается конструкцией с дативом, беру ее.		
+35	Ossetic	87	govern	X (govern) Y	руководить	X (руководить) Y	*	*										Нет варианта (только Ислам - руководитель)		
+35	Ossetic	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	мысын 	TR		TR	TR							У Сени еще было переходное æнкъард кæнын  (NOM-SUPER). мысын после долгих переговоров выбрано потому, что он более нейтральный + к тому же простой глагол. NB: в подсчетах, отраженных в докладе в Цюрихе (апрелб 2013), был другой глагол.		
+35	Ossetic	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	цæуын 	NOM	fasta	Y	NOMfasta							Y реализуется как объект послелога. Вместе с тем же послелогом как вариант был назван фæдыл.		
+35	Ossetic	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	æрхизын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	91	listen	X (listen) to Y	слушать	X (слушать) Y	хъусын* 	*										"Этот глагол засчитывается за ""слышать"" из общесемантических соображений. В осетинском слышать и слушать (а заодно и слушаться) не различаются."		
+35	Ossetic	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	хъусын*	*										Совпадает со слышать / слушать, не засчитывается.		
+35	Ossetic	93	hear	X (hear) Y	слышать	X (слышать) Y	хъусын 	NOM	ALL	Y	NOMALL							Совпадает со слушать и слушаться, засчитываю сюда из условно общесемантических соображений (значений слушать проще вывести из слышать, чем наоборот)		
+35	Ossetic	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	схӕццӕ уӕвын 	NOM	COM	Y	NOMCOM									
+35	Ossetic	95	look	X (look) at Y	смотреть	X (смотреть) на Y	кæсын 	NOM	ALL	Y	NOMALL									
+35	Ossetic	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	раласын	TR		TR	TR									
+35	Ossetic	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	йӕ фыны уынын	TR		TR	TR							‘видеть во сне’ (йӕ - посессивное местоимение, согласуется с А участником)		
+35	Ossetic	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	сразы уæвын 	NOM	COM	Y	NOMCOM									
+35	Ossetic	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	фæхыл уæвын 	NOM	COM	Y	NOMCOM							Еще был какой-то вариант перевода, но кажется, он тоже с комитативом.		
+35	Ossetic	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	кӕнын	TR		TR	TR							Это вообще-то просто делать. Еще был вариант примерно у этой чашки рублевая цена		
+35	Ossetic	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	фехсын*	*										Не считаем, так как, как я заметил, это тот же глагол и та же конструкция, что бросать. Вот что написал Сеня: тут я долго думал на самом деле. В словарях действтиельно 2 значений - стрелять и бросать. Мне почему-то показалось, что можно считать их 2мя омонимичными глаголами с одинаковой модельныю управления. Хотя, наверное, не стоит замарачиваться на эту тему и может быть разумней слепо преклониться пред убогими осетинско-русскими словарями.		
+35	Ossetic	102	pour	X (pour) Y	сыпать	X (сыпать) Y	æркæнын	TR		TR	TR							Еще вариант æркалдта, модель та же		
+35	Ossetic	103	lose	X (lose) Y	терять	X (терять) Y	фесафын	TR		TR	TR									
+35	Ossetic	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	аныгъуылын	NOM	INESS	Y	NOMINESS							"Это значение в классификации  в ""протостатье"" не упоминалось (без особенных причин). Получено также что-то вроде ""полено ушло на дно реки""."		
+35	Ossetic	105	kill	X (kill) Y	убивать	X (убивать) Y-а	амарын	TR		TR	TR									
+35	Ossetic	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ныццæвын	TR		TR	TR							Вариант ныдздзæхст кæнын 'хлестнул', с той же моделью управления.		
+35	Ossetic	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	апъа кæнын 	NOM	DAT	Y	NOMDAT									
+35	Ossetic	108	read	X (read) Y	читать	X (читать) Y-а	бакæсын	TR		TR	TR									
+35	Ossetic	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	базмæлын кӕнын	TR		TR	TR							Еще есть другой перевод, тоже переходный.		
+35	Ossetic	110	respect	X (respect) Y	уважать	X (уважать) Y-а	аргъ кæнын 	NOM	DAT	Y	NOMDAT									
+35	Ossetic	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	æлгъ кæнын 	NOM	ALL	Y	NOMALL									
+35	Ossetic	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	разы уæвын 	NOM	ABL	Y	NOMABL									
+35	Ossetic	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	бауарзын*	*										Сеня уговорил не брать этот глагол, поттому что это любить с превербом, а преверб обусловлен только видовыми вещами (каждую весну влюбляется будет без преверба, как любить).		
+35	Ossetic	114	trust	X (trust) Y	доверять	X (доверять) Y-у	æууæндын* 	*										Совпадает с верить (7) (TR), так что засчитываем этот глагол там		
+35	Ossetic	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	тæригъæд кæнын 	NOM	DAT	Y	NOMDAT									
+35	Ossetic	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	хæлæг кӕнын 	NOM	ALL	Y	NOMALL									
+35	Ossetic	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	мæсты кæнын 	*										"Совпадает для трех стимулов (сердиться, злиться, раздражаться), засчитываю как ""сердиться"" условно, как более простое и частотное, Сеня ничего кроме рулетки не советовал."		
+35	Ossetic	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	бадис кæнын 	NOM	SUPER	Y	NOMSUPER							Совпало с поразиться (125), выбираем более простой вариант (Сеня одобрил). Еще перевели это переходнной конструкцией: подарок удивил.		
+35	Ossetic	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	уарзын*	*										Совпало с любить-1, засчитываем там.		
+35	Ossetic	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	йӕ мондӕгтӕ исын 	NOM	ABL	Y	NOMABL							(йӕ - poss.3sg согласуется с экспериенцером)		
+35	Ossetic	121	want	X (want) Y	хотеть	X (хотеть) Y-а	хъæуын	GEN	NOM	X	GENNOM							"Это по-осетински тот же глагол и та же конструкция, что ""быть нужным"", ""нуждаться"", засчитываем здесь."		
+35	Ossetic	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	мæсты кæнын 	NOM	ALL	Y	NOMALL							"Совпадает для трех стимулов (сердиться, злиться, раздражаться), засчитываю как ""сердиться"" условно, как более простое и частотное, Сеня ничего кроме рулетки не советовал."		
+35	Ossetic	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	фæтæргай уæвын 	NOM	SUPER	Y	NOMSUPER									
+35	Ossetic	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	фенкъард кæнын	TR		TR	TR									
+35	Ossetic	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	бадис кæнын*	*										Совпало с удивиться (118), засчитываем там. Еще перевели это переходной конструкцией: город поразил.		
+35	Ossetic	126	despise	X (despise) Y	презирать	X (презирать) Y-а	йæ сæрмæ нæ хæссын	TR		TR	TR							"презирать', 'считать себя выше кого-н’ (букв. ‘к его голове не нести’); перевод ""презирать"" вообще-то появлялся как альтернативный и при глаголе, который я засчитал как ненавидеть (погибель видеть)"		
+35	Ossetic	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	рамæсты кæнын 	NOM	tyxxaj	Y	NOMtyxxaj							Сеня: этот просто послание тебе. Извини, это я куда-то не туда посмотрел, действительно огорчаться было в анкете, все правильно.		
+35	Ossetic	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	мæсты кæнын*	*										"Совпадает для трех стимулов (сердиться, злиться, раздражаться), засчитываю как ""сердиться"" условно, как более простое и частотное, Сеня ничего кроме рулетки не советовал."		
+35	Ossetic	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	йæ зæрдæмæ цæуын*	*										Не считаю, так как совпадает с более базовым нравиться, 58		
+35	Ossetic	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	ӕфсӕрмы кӕнын 	NOM	ABL	Y	NOMABL							У этого глагола есть еще употребления с тыххай, но их мало (в корпусе)		

@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-37	Chukchi	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y					POSS							
-37	Chukchi	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом												
-37	Chukchi	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а					ABSALL							
-37	Chukchi	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)					TR							
-37	Chukchi	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а					POSS							
-37	Chukchi	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)					ABSALL							
-37	Chukchi	7	believe	X (believe) Y	верить	X (верить)Y-у					ABSALL							
-37	Chukchi	8	take	X (take) Y	взять	X (брать) Y(-а)					TR							
-37	Chukchi	9	see	X (see) Y	видеть	X (видеть) Y(-а)					TR							
-37	Chukchi	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)					TR							
-37	Chukchi	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом					ABSCOM							
-37	Chukchi	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)					ABSALL							
-37	Chukchi	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а					ABSALL							
-37	Chukchi	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а					ABSABL							
-37	Chukchi	15	drive	X (drive) Y	гнать	X (гнать) Y-а					TR							
-37	Chukchi	16	bend	X (bend) Y	гнуть	X (гнуть) Y					TR							
-37	Chukchi	17	tell	X (tell) Y	говорить	X (говорить) Y-у					TR							
-37	Chukchi	18	hold	X (hold)Y	держать	X (держать) Y(-а)					TR							
-37	Chukchi	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)					TR							
-37	Chukchi	20	milk	X (milk) Y	доить	X (доить) Y-а					TR							
-37	Chukchi	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 					ABSALL							
-37	Chukchi	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а					TR							
-37	Chukchi	23	fight	X (fight) with Y	драться	X (драться) с Y-ом					ABSCOM							
-37	Chukchi	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом					ABSCOM							
-37	Chukchi	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)					ABSALL							
-37	Chukchi	26	eat	X (eat) Y	есть	X (есть) Y					TR							
-37	Chukchi	27	fry	X (fry) Y	жарить	X (жарить) Y					TR							
-37	Chukchi	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)					TR							
-37	Chukchi	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е					TR							
-37	Chukchi	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а												
-37	Chukchi	31	call	X (call) Y	звать	X (звать) Y-а					TR							
-37	Chukchi	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом					TR							
-37	Chukchi	33	know	X (know) Y	знать 	X (знать) Y-а					TR							
-37	Chukchi	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е												
-37	Chukchi	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а					TR							
-37	Chukchi	36	make	X (make) Y	изготовить	X (изготовить) Y					TR							
-37	Chukchi	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом					ABSALL							
-37	Chukchi	38	have	X (have) Y	иметь	X (иметь) Y					POSS							
-37	Chukchi	39	look_for	X (look for) Y	искать	X (искать) Y(-а)					TR							
-37	Chukchi	40	paint	X (paint) Y	красить	X (красить) Y					TR							
-37	Chukchi	41	bite	X (bite) Y	кусать	X (кусать) Y-а					TR							
-37	Chukchi	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а												
-37	Chukchi	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)					TR							
-37	Chukchi	44	break	X (break) Y	ломать	X (ломать) Y					TR							
-37	Chukchi	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у					ABSALL							
-37	Chukchi	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)					TR							
-37	Chukchi	47	wave	X (wave) Y	махать	X (махать) Y-ом					ABSINS							
-37	Chukchi	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е					TR							
-37	Chukchi	49	wash	X (wash) Y	мыть	X (мыть) Y					TR							
-37	Chukchi	50	put_on	X (put_on) Y	надевать	X (надевать) Y					TR							
-37	Chukchi	51	be_called	X (be_called) Y	называться	X (называться) Y					ABSEQU							
-37	Chukchi	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а					TR							
-37	Chukchi	53	attack	X (attack) Y	напасть	X (нападать) на Y-а					TR							
-37	Chukchi	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом					ABSINS							
-37	Chukchi	55	find	X (find) Y	находить	X (находить) Y(-а)					TR							
-37	Chukchi	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a					POSS							
-37	Chukchi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а					TR							
-37	Chukchi	58	like	X (like) Y	нравиться	X-у (нравиться) Y					TR							
-37	Chukchi	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е					TR							
-37	Chukchi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)					TR							
-37	Chukchi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y					POSS							
-37	Chukchi	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у					ABSALL							
-37	Chukchi	63	open	X (open) Y	открывать	X (открывать) Y					ABSALL							
-37	Chukchi	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а					ABSABL							
-37	Chukchi	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а					ABSABL							
-37	Chukchi	66	plough	X (plough) Y	пахать	X (пахать) Y					TR							
-37	Chukchi	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом					ABSINS							
-37	Chukchi	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 					TR							
-37	Chukchi	69	sing	X (sing) Y	петь	X (петь) Y					TR							
-37	Chukchi	70	write	X (write) Y	писать	X (писать) Y					TR							
-37	Chukchi	71	drink	X (drink) Y	пить	X (пить) Y					TR							
-37	Chukchi	72	melt	X (melt) Y	плавить	X (плавить) Y					TR							
-37	Chukchi	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)					ABSCOM							
-37	Chukchi	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)					TR							
-37	Chukchi	75	cover	X (cover) Y	покрывать	X (покрывать) Y					TR							
-37	Chukchi	76	remember	X (remember) Y	помнить	X (помнить) Y-а					TR							
-37	Chukchi	77	help	X (help) Y	помочь	X (помогать) Y-у					TR							
-37	Chukchi	78	understand	X (understand) Y	понимать	X (понимать) Y					TR							
-37	Chukchi	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)					TR							
-37	Chukchi	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом					ABSINS							
-37	Chukchi	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у					ABSLOC							
-37	Chukchi	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у					TR							
-37	Chukchi	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у					ABSALL							
-37	Chukchi	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом					ABSCOM							
-37	Chukchi	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а					TR							
-37	Chukchi	86	drop	X (drop) Y	ронять	X (ронять) Y					TR							
-37	Chukchi	87	govern	X (govern) Y	руководить	X (руководить) Y					ABSLOC							
-37	Chukchi	88	miss	X (miss) Y	скучать	X (скучать) по Y-у					TR							
-37	Chukchi	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом					ABSALL							
-37	Chukchi	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)					ABSABL							
-37	Chukchi	91	listen	X (listen) to Y	слушать	X (слушать) Y					TR							
-37	Chukchi	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a					ABSALL							
-37	Chukchi	93	hear	X (hear) Y	слышать	X (слышать) Y					TR							
-37	Chukchi	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом					ABSCOM							
-37	Chukchi	95	look	X (look) at Y	смотреть	X (смотреть) на Y					TR							
-37	Chukchi	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)												
-37	Chukchi	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y					TR							
-37	Chukchi	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом					ABSCOM							
-37	Chukchi	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y					ABSCOM							
-37	Chukchi	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)												
-37	Chukchi	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а					TR							
-37	Chukchi	102	pour	X (pour) Y	сыпать	X (сыпать) Y					TR							
-37	Chukchi	103	lose	X (lose) Y	терять	X (терять) Y					TR							
-37	Chukchi	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е					ABSINESS							
-37	Chukchi	105	kill	X (kill) Y	убивать	X (убивать) Y-а					TR							
-37	Chukchi	106	hit	X (hit) Y	ударить	X (ударять) Y-а					TR							
-37	Chukchi	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а					TR							
-37	Chukchi	108	read	X (read) Y	читать	X (читать) Y-а					TR							
-37	Chukchi	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом					TR							
-37	Chukchi	110	respect	X (respect) Y	уважать	X (уважать) Y-а					TR							
-37	Chukchi	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом					ABSALL							
-37	Chukchi	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом					TR							
-37	Chukchi	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a					TR							
-37	Chukchi	114	trust	X (trust) Y	доверять	X (доверять) Y-у					ABSALL							
-37	Chukchi	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а					TR							
-37	Chukchi	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у					ABSALL							
-37	Chukchi	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а					ABSALL							
-37	Chukchi	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у					ABSALL							
-37	Chukchi	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)												
-37	Chukchi	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом												
-37	Chukchi	121	want	X (want) Y	хотеть	X (хотеть) Y-а					TR							
-37	Chukchi	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а					ABSALL							
-37	Chukchi	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а					ABSALL							
-37	Chukchi	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а					TR							
-37	Chukchi	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у					ABSALL							
-37	Chukchi	126	despise	X (despise) Y	презирать	X (презирать) Y-а					ABSALL							
-37	Chukchi	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а					ABSALL							
-37	Chukchi	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а					ABSALL							
-37	Chukchi	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у					TR							
-37	Chukchi	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а												
+37	Chukchi	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		POSS	ABS	X	POSS_ABS							
+37	Chukchi	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		*	*	*								
+37	Chukchi	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		POSS	ABS	X	POSS_ABS							
+37	Chukchi	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	7	believe	X (believe) Y	верить	X (верить)Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	8	take	X (take) Y	взять	X (брать) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	9	see	X (see) Y	видеть	X (видеть) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		ABS	COM	Y	ABS_COM							
+37	Chukchi	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		ABS	ABL	Y	ABS_ABL							
+37	Chukchi	15	drive	X (drive) Y	гнать	X (гнать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	16	bend	X (bend) Y	гнуть	X (гнуть) Y		ERG	ABS	TR	TR							
+37	Chukchi	17	tell	X (tell) Y	говорить	X (говорить) Y-у		ERG	ABS	TR	TR							
+37	Chukchi	18	hold	X (hold)Y	держать	X (держать) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	20	milk	X (milk) Y	доить	X (доить) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		ERG	ABS	TR	TR							
+37	Chukchi	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		ABS	COM	Y	ABS_COM							
+37	Chukchi	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		ABS	COM	Y	ABS_COM							
+37	Chukchi	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	26	eat	X (eat) Y	есть	X (есть) Y		ERG	ABS	TR	TR							
+37	Chukchi	27	fry	X (fry) Y	жарить	X (жарить) Y		ERG	ABS	TR	TR							
+37	Chukchi	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		ERG	ABS	TR	TR							
+37	Chukchi	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		ERG	ABS	TR	TR							
+37	Chukchi	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		*	*	*								
+37	Chukchi	31	call	X (call) Y	звать	X (звать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		ERG	ABS	TR	TR							
+37	Chukchi	33	know	X (know) Y	знать 	X (знать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		*	*	*								
+37	Chukchi	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	36	make	X (make) Y	изготовить	X (изготовить) Y		ERG	ABS	TR	TR							
+37	Chukchi	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	38	have	X (have) Y	иметь	X (иметь) Y		POSS	ABS	X	POSS_ABS							
+37	Chukchi	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	40	paint	X (paint) Y	красить	X (красить) Y		ERG	ABS	TR	TR							
+37	Chukchi	41	bite	X (bite) Y	кусать	X (кусать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		*	*	*								
+37	Chukchi	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	44	break	X (break) Y	ломать	X (ломать) Y		ERG	ABS	TR	TR							
+37	Chukchi	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		ERG	ABS	TR	TR							
+37	Chukchi	47	wave	X (wave) Y	махать	X (махать) Y-ом		ABS	INS	Y	ABS_INS							
+37	Chukchi	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		ERG	ABS	TR	TR							
+37	Chukchi	49	wash	X (wash) Y	мыть	X (мыть) Y		ERG	ABS	TR	TR							
+37	Chukchi	50	put_on	X (put_on) Y	надевать	X (надевать) Y		ERG	ABS	TR	TR							
+37	Chukchi	51	be_called	X (be_called) Y	называться	X (называться) Y		ABS	EQU	Y	ABS_EQU							
+37	Chukchi	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		ERG	ABS	TR	TR							
+37	Chukchi	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		ABS	INS	Y	ABS_INS							
+37	Chukchi	55	find	X (find) Y	находить	X (находить) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		POSS	ABS	X	POSS_ABS							
+37	Chukchi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	58	like	X (like) Y	нравиться	X-у (нравиться) Y		ERG	ABS	TR	TR							
+37	Chukchi	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		ERG	ABS	TR	TR							
+37	Chukchi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		ERG	ABS	TR	TR							
+37	Chukchi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		POSS	ABS	X	POSS_ABS							
+37	Chukchi	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	63	open	X (open) Y	открывать	X (открывать) Y		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		ABS	ABL	Y	ABS_ABL							
+37	Chukchi	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		ABS	ABL	Y	ABS_ABL							
+37	Chukchi	66	plough	X (plough) Y	пахать	X (пахать) Y		ERG	ABS	TR	TR							
+37	Chukchi	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		ABS	INS	Y	ABS_INS							
+37	Chukchi	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		ERG	ABS	TR	TR							
+37	Chukchi	69	sing	X (sing) Y	петь	X (петь) Y		ERG	ABS	TR	TR							
+37	Chukchi	70	write	X (write) Y	писать	X (писать) Y		ERG	ABS	TR	TR							
+37	Chukchi	71	drink	X (drink) Y	пить	X (пить) Y		ERG	ABS	TR	TR							
+37	Chukchi	72	melt	X (melt) Y	плавить	X (плавить) Y		ERG	ABS	TR	TR							
+37	Chukchi	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		ABS	COM	Y	ABS_COM							
+37	Chukchi	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		ERG	ABS	TR	TR							
+37	Chukchi	75	cover	X (cover) Y	покрывать	X (покрывать) Y		ERG	ABS	TR	TR							
+37	Chukchi	76	remember	X (remember) Y	помнить	X (помнить) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	77	help	X (help) Y	помочь	X (помогать) Y-у		ERG	ABS	TR	TR							
+37	Chukchi	78	understand	X (understand) Y	понимать	X (понимать) Y		ERG	ABS	TR	TR							
+37	Chukchi	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		ERG	ABS	TR	TR							
+37	Chukchi	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		ABS	INS	Y	ABS_INS							
+37	Chukchi	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		ABS	LOC	Y	ABS_LOC							
+37	Chukchi	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		ERG	ABS	TR	TR							
+37	Chukchi	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		ABS	COM	Y	ABS_COM							
+37	Chukchi	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	86	drop	X (drop) Y	ронять	X (ронять) Y		ERG	ABS	TR	TR							
+37	Chukchi	87	govern	X (govern) Y	руководить	X (руководить) Y		ABS	LOC	Y	ABS_LOC							
+37	Chukchi	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		ERG	ABS	TR	TR							
+37	Chukchi	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		ABS	ABL	Y	ABS_ABL							
+37	Chukchi	91	listen	X (listen) to Y	слушать	X (слушать) Y		ERG	ABS	TR	TR							
+37	Chukchi	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	93	hear	X (hear) Y	слышать	X (слышать) Y		ERG	ABS	TR	TR							
+37	Chukchi	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		ABS	COM	Y	ABS_COM							
+37	Chukchi	95	look	X (look) at Y	смотреть	X (смотреть) на Y		ERG	ABS	TR	TR							
+37	Chukchi	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		*	*	*								
+37	Chukchi	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		ERG	ABS	TR	TR							
+37	Chukchi	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		ABS	COM	Y	ABS_COM							
+37	Chukchi	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		ABS	COM	Y	ABS_COM							
+37	Chukchi	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*	*	*								
+37	Chukchi	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		ERG	ABS	TR	TR							
+37	Chukchi	102	pour	X (pour) Y	сыпать	X (сыпать) Y		ERG	ABS	TR	TR							
+37	Chukchi	103	lose	X (lose) Y	терять	X (терять) Y		ERG	ABS	TR	TR							
+37	Chukchi	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		ABS	INESS	Y	ABS_INESS							
+37	Chukchi	105	kill	X (kill) Y	убивать	X (убивать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	106	hit	X (hit) Y	ударить	X (ударять) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	108	read	X (read) Y	читать	X (читать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		ERG	ABS	TR	TR							
+37	Chukchi	110	respect	X (respect) Y	уважать	X (уважать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		ERG	ABS	TR	TR							
+37	Chukchi	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		ERG	ABS	TR	TR							
+37	Chukchi	114	trust	X (trust) Y	доверять	X (доверять) Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		*	*	*								
+37	Chukchi	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		*	*	*								
+37	Chukchi	121	want	X (want) Y	хотеть	X (хотеть) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		ERG	ABS	TR	TR							
+37	Chukchi	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	126	despise	X (despise) Y	презирать	X (презирать) Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		ABS	ALL	Y	ABS_ALL							
+37	Chukchi	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		ERG	ABS	TR	TR							
+37	Chukchi	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		*	*	*								

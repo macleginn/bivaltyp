@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-8	Basque	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	mina izan	*				Н. предлагает не считать, видимо, голова - зависимое боли						
-8	Basque	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	izan	TR		TR	TR	то же, что иметь						
-8	Basque	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	beldur izan	ERG	DAT	Y	ERGDAT							
-8	Basque	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bota	TR		TR	TR							
-8	Basque	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*				достаточно - зависимое денег						
-8	Basque	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	antza izan	*				Иметь сходство кого-то, Y зависимое имени						
-8	Basque	7	believe	X (believe) Y	верить	X (верить)Y-у	sinetsi	ERG	DAT	Y	ERGDAT							
-8	Basque	8	take	X (take) Y	взять	X (брать) Y(-а)	hartu	TR		TR	TR							
-8	Basque	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ikusi	TR		TR	TR							
-8	Basque	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	eragin	ERG	DAT	Y	ERGDAT							
-8	Basque	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	topatu	TR		TR	TR							
-8	Basque	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	sartu	ABS	IN	Y	ABSIN							
-8	Basque	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	irabazi	ERG	DAT	Y	ERGDAT							
-8	Basque	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	atera	ABS	ABL	Y	ABSABL							
-8	Basque	15	drive	X (drive) Y	гнать	X (гнать) Y-а	eraman	TR		TR	TR							
-8	Basque	16	bend	X (bend) Y	гнуть	X (гнуть) Y	okertu	TR		TR	TR							
-8	Basque	17	tell	X (tell) Y	говорить	X (говорить) Y-у	esan	ERG	DAT	Y	ERGDAT							
-8	Basque	18	hold	X (hold)Y	держать	X (держать) Y(-а)	eduki	TR		TR	TR							
-8	Basque	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	atzeman	TR		TR	TR							
-8	Basque	20	milk	X (milk) Y	доить	X (доить) Y-а	jetzi	TR		TR	TR							
-8	Basque	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	iritsi	ABS	ALL	Y	ABSALL							
-8	Basque	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	ukitu	TR		TR	TR							
-8	Basque	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	borrokatu	ABS	kontra	Y	ABSkontra							
-8	Basque	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*	*				X - друг Y-а						
-8	Basque	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	pentsatu	ERG	INS	Y	ERGINS							
-8	Basque	26	eat	X (eat) Y	есть	X (есть) Y	jan	TR		TR	TR							
-8	Basque	27	fry	X (fry) Y	жарить	X (жарить) Y	erre	TR		TR	TR							
-8	Basque	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	itxaron	ERG	DAT	Y	ERGDAT							
-8	Basque	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ahaztu	DAT	ABS	X	DATABS							
-8	Basque	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	egon	ABS	baitan	Y	ABSbaitan							
-8	Basque	31	call	X (call) Y	звать	X (звать) Y-а	deitu	ERG	DAT	Y	ERGDAT							
-8	Basque	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	ezagutu	TR		TR	TR							
-8	Basque	33	know	X (know) Y	знать 	X (знать) Y-а	ezagutu	TR		TR	TR							
-8	Basque	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	jo	TR	бить	TR	TR							
-8	Basque	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	ihes egin	ERG	DAT	Y	ERGDAT							
-8	Basque	36	make	X (make) Y	изготовить	X (изготовить) Y	fabrikatu	TR		TR	TR							
-8	Basque	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	trufatu	ABS	INS	Y	ABSINS							
-8	Basque	38	have	X (have) Y	иметь	X (иметь) Y	izan	TR		TR	TR							
-8	Basque	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	bilatu	TR		TR	TR							
-8	Basque	40	paint	X (paint) Y	красить	X (красить) Y	pintatu	TR		TR	TR							
-8	Basque	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ausiki	TR		TR	TR							
-8	Basque	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	galdu	TR	то же, что 103 терять	TR	TR							
-8	Basque	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	harrapatu	TR		TR	TR							
-8	Basque	44	break	X (break) Y	ломать	X (ломать) Y	hautsi	TR		TR	TR							
-8	Basque	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	lausengatu	TR		TR	TR							
-8	Basque	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	maitatu 	TR	вариант maite izan	TR	TR							
-8	Basque	47	wave	X (wave) Y	махать	X (махать) Y-ом	astindu	TR		TR	TR							
-8	Basque	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	amestu	TR		TR	TR							
-8	Basque	49	wash	X (wash) Y	мыть	X (мыть) Y	garbitu	TR		TR	TR							
-8	Basque	50	put_on	X (put_on) Y	надевать	X (надевать) Y	jantzi	TR		TR	TR							
-8	Basque	51	be_called	X (be_called) Y	называться	X (называться) Y	deitu	ABS	ABS	Y	ABSABS							
-8	Basque	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	zigortu	TR		TR	TR							
-8	Basque	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	eraso	ERG	DAT	Y	ERGDAT							
-8	Basque	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	bete	ABS	INS	Y	ABSINS							
-8	Basque	55	find	X (find) Y	находить	X (находить) Y(-а)	aurkitu	TR		TR	TR							
-8	Basque	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	falta izan	DAT	ABS	X	DATABS							
-8	Basque	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	gorrotatu	TR		TR	TR							
-8	Basque	58	like	X (like) Y	нравиться	X-у (нравиться) Y	gustatu	DAT	ABS	X	DATABS	то же, что любить 119						
-8	Basque	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	behar izan	TR		TR	TR							
-8	Basque	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	inguratu	TR		TR	TR							
-8	Basque	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	gelditu	DAT	ABS	X	DATABS							
-8	Basque	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	erantzun	ERG	DAT	Y	ERGDAT							
-8	Basque	63	open	X (open) Y	открывать	X (открывать) Y	ireki	TR		TR	TR							
-8	Basque	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		*				X и Y разные						
-8	Basque	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		*				Х остался в задней части Y-а, Y - зависимое имени						
-8	Basque	66	plough	X (plough) Y	пахать	X (пахать) Y	goldatu	TR		TR	TR							
-8	Basque	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*				"Не совсем понятно, но видимо, не надо считать, так как бензин зависимое ""запаха"""						
-8	Basque	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	zeharkatu	TR		TR	TR							
-8	Basque	69	sing	X (sing) Y	петь	X (петь) Y	kantatu	TR		TR	TR							
-8	Basque	70	write	X (write) Y	писать	X (писать) Y	idatzi	TR		TR	TR							
-8	Basque	71	drink	X (drink) Y	пить	X (пить) Y	edan	TR		TR	TR							
-8	Basque	72	melt	X (melt) Y	плавить	X (плавить) Y	urtu	TR		TR	TR							
-8	Basque	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	(ongi) joan	ABS	DAT	Y	ABSDAT							
-8	Basque	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	utzi	TR		TR	TR							
-8	Basque	75	cover	X (cover) Y	покрывать	X (покрывать) Y	estali	TR		TR	TR							
-8	Basque	76	remember	X (remember) Y	помнить	X (помнить) Y-а	gogoratu	TR		TR	TR							
-8	Basque	77	help	X (help) Y	помочь	X (помогать) Y-у	lagundu	ERG	DAT	Y	ERGDAT							
-8	Basque	78	understand	X (understand) Y	понимать	X (понимать) Y	ulertu	TR		TR	TR							
-8	Basque	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	jo	ERG	IN	Y	ERGIN							
-8	Basque	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	ebaki	ABS	COM	Y	ABSCOM							
-8	Basque	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	itsatsi	ABS	DAT	Y	ABSDAT							
-8	Basque	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	galdu 	ERG	DAT	Y	ERGDAT	то же, что 103 терять и 42 лишиться						
-8	Basque	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		*				Нет естественного способа. При радоваться обычно не выражается второй актант, а радовать - это не то.						
-8	Basque	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	hitz egin	ERG	COM	Y	ERGCOM							
-8	Basque	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	erditu	ABS	INS	Y	ABSINS							
-8	Basque	86	drop	X (drop) Y	ронять	X (ронять) Y	erortzen utzi	TR		TR	TR	CV. Наташа в статье предлагает не считать, но я не вижу серьезных оснований: это пермиссивная конструкция, но вполне можно считать X и Y ее актантами						
-8	Basque	87	govern	X (govern) Y	руководить	X (руководить) Y	gobernatu	TR		TR	TR							
-8	Basque	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	eskas izan	TR		TR	TR							
-8	Basque	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	jarraitu	ERG	DAT	Y	ERGDAT							
-8	Basque	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	jaitsi	ABS	ABL	Y	ABSABL							
-8	Basque	91	listen	X (listen) to Y	слушать	X (слушать) Y	entzun	TR		TR	TR							
-8	Basque	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obeditu	ERG	DAT	Y	ERGDAT							
-8	Basque	93	hear	X (hear) Y	слышать	X (слышать) Y	aditu	TR		TR	TR							
-8	Basque	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	nahasi	ABS	COM	Y	ABSCOM							
-8	Basque	95	look	X (look) at Y	смотреть	X (смотреть) на Y	begiratu	ERG	DAT	Y	ERGDAT							
-8	Basque	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	kendu	TR		TR	TR							
-8	Basque	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	hitz egin	ERG	COM	Y	ERGCOM							
-8	Basque	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	ados jarri	ABS	COM	Y	ABSCOM							
-8	Basque	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	liskartu	ABS	COM	Y	ABSCOM							
-8	Basque	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	balio izan	TR		TR	TR							
-8	Basque	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	tiratu	ERG	DAT	Y	ERGDAT							
-8	Basque	102	pour	X (pour) Y	сыпать	X (сыпать) Y	bota	TR		TR	TR							
-8	Basque	103	lose	X (lose) Y	терять	X (терять) Y	galdu	TR		TR	TR	то же. что 42 лишаться и 82 проигрывать						
-8	Basque	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	murgildu	ABS	IN	Y	ABSIN							
-8	Basque	105	kill	X (kill) Y	убивать	X (убивать) Y-а	hil	TR		TR	TR							
-8	Basque	106	hit	X (hit) Y	ударить	X (ударять) Y-а	jo	TR		TR	TR							
-8	Basque	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	musu eman	ERG	DAT	Y	ERGDAT							
-8	Basque	108	read	X (read) Y	читать	X (читать) Y-а	irakurri	TR		TR	TR							
-8	Basque	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	mugitu	TR		TR	TR							
-8	Basque	110	respect	X (respect) Y	уважать	X (уважать) Y-а	errespetatu	TR		TR	TR							
-8	Basque	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*				Элементарно нет переводного эквивалента						
-8	Basque	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	pozik egon	ABS	COM	Y	ABSCOM							
-8	Basque	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	maitemindu	ABS	INS	Y	ABSINS							
-8	Basque	114	trust	X (trust) Y	доверять	X (доверять) Y-у	fidatu	ABS	COM	Y	ABSCOM							
-8	Basque	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	urrikaldu	ABS	INS	Y	ABSINS							
-8	Basque	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	bekaiztu	ABS	DAT	Y	ABSDAT							
-8	Basque	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	haserretu	ABS	COM	Y	ABSCOM							
-8	Basque	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	harritu	ABS	INS	Y	ABSINS							
-8	Basque	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	*	*				то же, что 58 нравиться						
-8	Basque	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	dastatu	TR		TR	TR							
-8	Basque	121	want	X (want) Y	хотеть	X (хотеть) Y-а	nahi izan	TR		TR	TR							
-8	Basque	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	*	*				То же, что 117 злиться						
-8	Basque	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	gaitzitu	*				У Наташи есть пример, но сама же Наташа предлагает не считать, т.к. это фактически придаточное предложение						
-8	Basque	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	nahigabetu	TR		TR	TR							
-8	Basque	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*				тот же, что 118 удивляться						
-8	Basque	126	despise	X (despise) Y	презирать	X (презирать) Y-а	gutxietsi	TR		TR	TR							
-8	Basque	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	penatu	ABS	MOT	Y	ABSMOT							
-8	Basque	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	*	*				То же, что 122 сердиться						
-8	Basque	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	gogoko izan	TR		TR	TR							
-8	Basque	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	lotsatu	ABS	INS	Y	ABSINS							
+8	Basque	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	mina izan	*	*	*								Н. предлагает не считать, видимо, голова - зависимое боли
+8	Basque	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	izan	ERG	ABS	TR	TR							то же, что иметь
+8	Basque	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	beldur izan	ERG	DAT	Y	ERG_DAT							
+8	Basque	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bota	ERG	ABS	TR	TR							
+8	Basque	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	*	*	*	*								достаточно - зависимое денег
+8	Basque	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	antza izan	*	*	*								Иметь сходство кого-то, Y зависимое имени
+8	Basque	7	believe	X (believe) Y	верить	X (верить)Y-у	sinetsi	ERG	DAT	Y	ERG_DAT							
+8	Basque	8	take	X (take) Y	взять	X (брать) Y(-а)	hartu	ERG	ABS	TR	TR							
+8	Basque	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ikusi	ERG	ABS	TR	TR							
+8	Basque	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	eragin	ERG	DAT	Y	ERG_DAT							
+8	Basque	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	topatu	ERG	ABS	TR	TR							
+8	Basque	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	sartu	ABS	IN	Y	ABS_IN							
+8	Basque	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	irabazi	ERG	DAT	Y	ERG_DAT							
+8	Basque	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	atera	ABS	ABL	Y	ABS_ABL							
+8	Basque	15	drive	X (drive) Y	гнать	X (гнать) Y-а	eraman	ERG	ABS	TR	TR							
+8	Basque	16	bend	X (bend) Y	гнуть	X (гнуть) Y	okertu	ERG	ABS	TR	TR							
+8	Basque	17	tell	X (tell) Y	говорить	X (говорить) Y-у	esan	ERG	DAT	Y	ERG_DAT							
+8	Basque	18	hold	X (hold)Y	держать	X (держать) Y(-а)	eduki	ERG	ABS	TR	TR							
+8	Basque	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	atzeman	ERG	ABS	TR	TR							
+8	Basque	20	milk	X (milk) Y	доить	X (доить) Y-а	jetzi	ERG	ABS	TR	TR							
+8	Basque	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	iritsi	ABS	ALL	Y	ABS_ALL							
+8	Basque	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	ukitu	ERG	ABS	TR	TR							
+8	Basque	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	borrokatu	ABS	kontra	Y	ABS_kontra							
+8	Basque	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*	*	*	*								X - друг Y-а
+8	Basque	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	pentsatu	ERG	INS	Y	ERG_INS							
+8	Basque	26	eat	X (eat) Y	есть	X (есть) Y	jan	ERG	ABS	TR	TR							
+8	Basque	27	fry	X (fry) Y	жарить	X (жарить) Y	erre	ERG	ABS	TR	TR							
+8	Basque	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	itxaron	ERG	DAT	Y	ERG_DAT							
+8	Basque	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ahaztu	DAT	ABS	X	DAT_ABS							
+8	Basque	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	egon	ABS	baitan	Y	ABS_baitan							
+8	Basque	31	call	X (call) Y	звать	X (звать) Y-а	deitu	ERG	DAT	Y	ERG_DAT							
+8	Basque	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	ezagutu	ERG	ABS	TR	TR							
+8	Basque	33	know	X (know) Y	знать 	X (знать) Y-а	ezagutu	ERG	ABS	TR	TR							
+8	Basque	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	jo	ERG	ABS	TR	TR							бить
+8	Basque	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	ihes egin	ERG	DAT	Y	ERG_DAT							
+8	Basque	36	make	X (make) Y	изготовить	X (изготовить) Y	fabrikatu	ERG	ABS	TR	TR							
+8	Basque	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	trufatu	ABS	INS	Y	ABS_INS							
+8	Basque	38	have	X (have) Y	иметь	X (иметь) Y	izan	ERG	ABS	TR	TR							
+8	Basque	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	bilatu	ERG	ABS	TR	TR							
+8	Basque	40	paint	X (paint) Y	красить	X (красить) Y	pintatu	ERG	ABS	TR	TR							
+8	Basque	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ausiki	ERG	ABS	TR	TR							
+8	Basque	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	galdu	ERG	ABS	TR	TR							то же, что 103 терять
+8	Basque	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	harrapatu	ERG	ABS	TR	TR							
+8	Basque	44	break	X (break) Y	ломать	X (ломать) Y	hautsi	ERG	ABS	TR	TR							
+8	Basque	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	lausengatu	ERG	ABS	TR	TR							
+8	Basque	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	maitatu 	ERG	ABS	TR	TR							вариант maite izan
+8	Basque	47	wave	X (wave) Y	махать	X (махать) Y-ом	astindu	ERG	ABS	TR	TR							
+8	Basque	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	amestu	ERG	ABS	TR	TR							
+8	Basque	49	wash	X (wash) Y	мыть	X (мыть) Y	garbitu	ERG	ABS	TR	TR							
+8	Basque	50	put_on	X (put_on) Y	надевать	X (надевать) Y	jantzi	ERG	ABS	TR	TR							
+8	Basque	51	be_called	X (be_called) Y	называться	X (называться) Y	deitu	ABS	ABS	Y	ABS_ABS							
+8	Basque	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	zigortu	ERG	ABS	TR	TR							
+8	Basque	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	eraso	ERG	DAT	Y	ERG_DAT							
+8	Basque	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	bete	ABS	INS	Y	ABS_INS							
+8	Basque	55	find	X (find) Y	находить	X (находить) Y(-а)	aurkitu	ERG	ABS	TR	TR							
+8	Basque	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	falta izan	DAT	ABS	X	DAT_ABS							
+8	Basque	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	gorrotatu	ERG	ABS	TR	TR							
+8	Basque	58	like	X (like) Y	нравиться	X-у (нравиться) Y	gustatu	DAT	ABS	X	DAT_ABS							то же, что любить 119
+8	Basque	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	behar izan	ERG	ABS	TR	TR							
+8	Basque	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	inguratu	ERG	ABS	TR	TR							
+8	Basque	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	gelditu	DAT	ABS	X	DAT_ABS							
+8	Basque	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	erantzun	ERG	DAT	Y	ERG_DAT							
+8	Basque	63	open	X (open) Y	открывать	X (открывать) Y	ireki	ERG	ABS	TR	TR							
+8	Basque	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*	*	*	*								X и Y разные
+8	Basque	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	*	*	*	*								Х остался в задней части Y-а, Y - зависимое имени
+8	Basque	66	plough	X (plough) Y	пахать	X (пахать) Y	goldatu	ERG	ABS	TR	TR							
+8	Basque	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	*	*								"Не совсем понятно, но видимо, не надо считать, так как бензин зависимое ""запаха"""
+8	Basque	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	zeharkatu	ERG	ABS	TR	TR							
+8	Basque	69	sing	X (sing) Y	петь	X (петь) Y	kantatu	ERG	ABS	TR	TR							
+8	Basque	70	write	X (write) Y	писать	X (писать) Y	idatzi	ERG	ABS	TR	TR							
+8	Basque	71	drink	X (drink) Y	пить	X (пить) Y	edan	ERG	ABS	TR	TR							
+8	Basque	72	melt	X (melt) Y	плавить	X (плавить) Y	urtu	ERG	ABS	TR	TR							
+8	Basque	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	(ongi) joan	ABS	DAT	Y	ABS_DAT							
+8	Basque	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	utzi	ERG	ABS	TR	TR							
+8	Basque	75	cover	X (cover) Y	покрывать	X (покрывать) Y	estali	ERG	ABS	TR	TR							
+8	Basque	76	remember	X (remember) Y	помнить	X (помнить) Y-а	gogoratu	ERG	ABS	TR	TR							
+8	Basque	77	help	X (help) Y	помочь	X (помогать) Y-у	lagundu	ERG	DAT	Y	ERG_DAT							
+8	Basque	78	understand	X (understand) Y	понимать	X (понимать) Y	ulertu	ERG	ABS	TR	TR							
+8	Basque	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	jo	ERG	IN	Y	ERG_IN							
+8	Basque	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	ebaki	ABS	COM	Y	ABS_COM							
+8	Basque	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	itsatsi	ABS	DAT	Y	ABS_DAT							
+8	Basque	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	galdu 	ERG	DAT	Y	ERG_DAT							то же, что 103 терять и 42 лишиться
+8	Basque	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	*	*	*	*								Нет естественного способа. При радоваться обычно не выражается второй актант, а радовать - это не то.
+8	Basque	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	hitz egin	ERG	COM	Y	ERG_COM							
+8	Basque	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	erditu	ABS	INS	Y	ABS_INS							
+8	Basque	86	drop	X (drop) Y	ронять	X (ронять) Y	erortzen utzi	ERG	ABS	TR	TR							CV. Наташа в статье предлагает не считать, но я не вижу серьезных оснований: это пермиссивная конструкция, но вполне можно считать X и Y ее актантами
+8	Basque	87	govern	X (govern) Y	руководить	X (руководить) Y	gobernatu	ERG	ABS	TR	TR							
+8	Basque	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	eskas izan	ERG	ABS	TR	TR							
+8	Basque	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	jarraitu	ERG	DAT	Y	ERG_DAT							
+8	Basque	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	jaitsi	ABS	ABL	Y	ABS_ABL							
+8	Basque	91	listen	X (listen) to Y	слушать	X (слушать) Y	entzun	ERG	ABS	TR	TR							
+8	Basque	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obeditu	ERG	DAT	Y	ERG_DAT							
+8	Basque	93	hear	X (hear) Y	слышать	X (слышать) Y	aditu	ERG	ABS	TR	TR							
+8	Basque	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	nahasi	ABS	COM	Y	ABS_COM							
+8	Basque	95	look	X (look) at Y	смотреть	X (смотреть) на Y	begiratu	ERG	DAT	Y	ERG_DAT							
+8	Basque	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	kendu	ERG	ABS	TR	TR							
+8	Basque	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	hitz egin	ERG	COM	Y	ERG_COM							
+8	Basque	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	ados jarri	ABS	COM	Y	ABS_COM							
+8	Basque	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	liskartu	ABS	COM	Y	ABS_COM							
+8	Basque	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	balio izan	ERG	ABS	TR	TR							
+8	Basque	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	tiratu	ERG	DAT	Y	ERG_DAT							
+8	Basque	102	pour	X (pour) Y	сыпать	X (сыпать) Y	bota	ERG	ABS	TR	TR							
+8	Basque	103	lose	X (lose) Y	терять	X (терять) Y	galdu	ERG	ABS	TR	TR							то же. что 42 лишаться и 82 проигрывать
+8	Basque	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	murgildu	ABS	IN	Y	ABS_IN							
+8	Basque	105	kill	X (kill) Y	убивать	X (убивать) Y-а	hil	ERG	ABS	TR	TR							
+8	Basque	106	hit	X (hit) Y	ударить	X (ударять) Y-а	jo	ERG	ABS	TR	TR							
+8	Basque	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	musu eman	ERG	DAT	Y	ERG_DAT							
+8	Basque	108	read	X (read) Y	читать	X (читать) Y-а	irakurri	ERG	ABS	TR	TR							
+8	Basque	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	mugitu	ERG	ABS	TR	TR							
+8	Basque	110	respect	X (respect) Y	уважать	X (уважать) Y-а	errespetatu	ERG	ABS	TR	TR							
+8	Basque	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*	*	*								Элементарно нет переводного эквивалента
+8	Basque	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	pozik egon	ABS	COM	Y	ABS_COM							
+8	Basque	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	maitemindu	ABS	INS	Y	ABS_INS							
+8	Basque	114	trust	X (trust) Y	доверять	X (доверять) Y-у	fidatu	ABS	COM	Y	ABS_COM							
+8	Basque	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	urrikaldu	ABS	INS	Y	ABS_INS							
+8	Basque	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	bekaiztu	ABS	DAT	Y	ABS_DAT							
+8	Basque	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	haserretu	ABS	COM	Y	ABS_COM							
+8	Basque	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	harritu	ABS	INS	Y	ABS_INS							
+8	Basque	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	*	*	*	*								то же, что 58 нравиться
+8	Basque	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	dastatu	ERG	ABS	TR	TR							
+8	Basque	121	want	X (want) Y	хотеть	X (хотеть) Y-а	nahi izan	ERG	ABS	TR	TR							
+8	Basque	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	*	*	*	*								То же, что 117 злиться
+8	Basque	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	gaitzitu	*	*	*								У Наташи есть пример, но сама же Наташа предлагает не считать, т.к. это фактически придаточное предложение
+8	Basque	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	nahigabetu	ERG	ABS	TR	TR							
+8	Basque	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*	*	*								тот же, что 118 удивляться
+8	Basque	126	despise	X (despise) Y	презирать	X (презирать) Y-а	gutxietsi	ERG	ABS	TR	TR							
+8	Basque	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	penatu	ABS	MOT	Y	ABS_MOT							
+8	Basque	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	*	*	*	*								То же, что 122 сердиться
+8	Basque	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	gogoko izan	ERG	ABS	TR	TR							
+8	Basque	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	lotsatu	ABS	INS	Y	ABS_INS							

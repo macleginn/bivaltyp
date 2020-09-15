@@ -4,7 +4,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		NOM 	GEN	Y	NOMGEN							
 13	Lithuanian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		TR		TR	TR							
 13	Lithuanian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	GEN	XY	DATGEN							
-13	Lithuanian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	i ACC	Y	NOMiACC	NV, в статье на этом основании в классификацию не включен						
+13	Lithuanian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	i ACC	Y	NOMiACC							NV, в статье на этом основании в классификацию не включен
 13	Lithuanian	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM 	INS	Y	NOMINS							
 13	Lithuanian	8	take	X (take) Y	взять	X (брать) Y(-а)		TR		TR	TR							
 13	Lithuanian	9	see	X (see) Y	видеть	X (видеть) Y(-а)		TR		TR	TR							
@@ -20,7 +20,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		TR		TR	TR							
 13	Lithuanian	20	milk	X (milk) Y	доить	X (доить) Y-а		TR		TR	TR							
 13	Lithuanian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		TR		TR	TR							
-13	Lithuanian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	paliesti	TR		TR	TR	Были долгие колебания между этим вариантом и другим глаголом (prisiliesti), который требует prie + GEN. Наташа убедила меня в том, что так частотнее (что принято и в статье)						
+13	Lithuanian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	paliesti	TR		TR	TR							Были долгие колебания между этим вариантом и другим глаголом (prisiliesti), который требует prie + GEN. Наташа убедила меня в том, что так частотнее (что принято и в статье)
 13	Lithuanian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	su INS	Y	NOMsuINS							
 13	Lithuanian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		NOM	su INS	Y	NOMsuINS							
 13	Lithuanian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	apie ACC	Y	NOMapieACC							
@@ -56,17 +56,17 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	55	find	X (find) Y	находить	X (находить) Y(-а)		TR		TR	TR							
 13	Lithuanian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	GEN	XY	DATGEN							
 13	Lithuanian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		NOM	GEN	Y	NOMGEN							
-13	Lithuanian	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DAT	NOM	X	DATNOM	В статье не различаются классы DAT-NOM и NOM-DAT (точнее сделано лишь примечание об этом различии), а для подсчетов это важно, помечаю отдельно						
+13	Lithuanian	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DAT	NOM	X	DATNOM							В статье не различаются классы DAT-NOM и NOM-DAT (точнее сделано лишь примечание об этом различии), а для подсчетов это важно, помечаю отдельно
 13	Lithuanian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		DAT	GEN	XY	DATGEN							
 13	Lithuanian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		TR		TR	TR							
-13	Lithuanian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		DAT	NOM	X	DATNOM	В статье не различаются классы DAT-NOM и NOM-DAT (точнее сделано лишь примечание об этом различии), а для подсчетов это важно, помечаю отдельно						
+13	Lithuanian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		DAT	NOM	X	DATNOM							В статье не различаются классы DAT-NOM и NOM-DAT (точнее сделано лишь примечание об этом различии), а для подсчетов это важно, помечаю отдельно
 13	Lithuanian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		NOM	DAT	Y	NOMDAT							
 13	Lithuanian	63	open	X (open) Y	открывать	X (открывать) Y		TR		TR	TR							
 13	Lithuanian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		NOM	nuo GEN	Y	NOMnuoGEN							
 13	Lithuanian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		NOM	nuo GEN	Y	NOMnuoGEN							
 13	Lithuanian	66	plough	X (plough) Y	пахать	X (пахать) Y		TR		TR	TR							
 13	Lithuanian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		NOM	INS	Y	NOMINS							
-13	Lithuanian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		TR		TR	TR	Еще есть вариант с тем же глаголом per ACC						
+13	Lithuanian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		TR		TR	TR							Еще есть вариант с тем же глаголом per ACC
 13	Lithuanian	69	sing	X (sing) Y	петь	X (петь) Y		TR		TR	TR							
 13	Lithuanian	70	write	X (write) Y	писать	X (писать) Y		TR		TR	TR							
 13	Lithuanian	71	drink	X (drink) Y	пить	X (пить) Y		TR		TR	TR							
@@ -87,10 +87,10 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	86	drop	X (drop) Y	ронять	X (ронять) Y		TR		TR	TR							
 13	Lithuanian	87	govern	X (govern) Y	руководить	X (руководить) Y		NOM	DAT	Y	NOMDAT							
 13	Lithuanian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		NOM	GEN	Y	NOMGEN							
-13	Lithuanian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		TR		TR	TR	Засчитываю именно как переходный, а не как paskui + ACC (как в статье), потому что так частотнее вроде бы + не совсем понятен статус paskui - можно ли это считать зависимостным маркированием?						
+13	Lithuanian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		TR		TR	TR							Засчитываю именно как переходный, а не как paskui + ACC (как в статье), потому что так частотнее вроде бы + не совсем понятен статус paskui - можно ли это считать зависимостным маркированием?
 13	Lithuanian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	nuo GEN	Y	NOMnuoGEN							
 13	Lithuanian	91	listen	X (listen) to Y	слушать	X (слушать) Y		NOM	GEN	Y	NOMGEN							
-13	Lithuanian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*				"Либо просто слушать (так стоит в статье, но я бы не хотел это дублировать), либо ""быть послушным"", указано в анкете, что это употребляется как НОМ + ДАТ, но, судя по интернету, не особенно употребительно"						
+13	Lithuanian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*										"Либо просто слушать (так стоит в статье, но я бы не хотел это дублировать), либо ""быть послушным"", указано в анкете, что это употребляется как НОМ + ДАТ, но, судя по интернету, не особенно употребительно"
 13	Lithuanian	93	hear	X (hear) Y	слышать	X (слышать) Y		TR		TR	TR							
 13	Lithuanian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	su INS	Y	NOMsuINS							
 13	Lithuanian	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM	i ACC	Y	NOMiACC							
@@ -102,7 +102,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	i ACC	Y	NOMiACC							
 13	Lithuanian	102	pour	X (pour) Y	сыпать	X (сыпать) Y		TR		TR	TR							
 13	Lithuanian	103	lose	X (lose) Y	терять	X (терять) Y		TR		TR	TR							
-13	Lithuanian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	i ACC	Y	NOMiACC	Оставил так (вопреки статье, где выбран второй вариант NOM-LOC), потому что в гугле оказалось чуть частотнее. Впрочем, Наташа считает, что частотность почти одинакова						
+13	Lithuanian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	i ACC	Y	NOMiACC							Оставил так (вопреки статье, где выбран второй вариант NOM-LOC), потому что в гугле оказалось чуть частотнее. Впрочем, Наташа считает, что частотность почти одинакова
 13	Lithuanian	105	kill	X (kill) Y	убивать	X (убивать) Y-а		TR		TR	TR							
 13	Lithuanian	106	hit	X (hit) Y	ударить	X (ударять) Y-а		NOM	DAT	Y	NOMDAT							
 13	Lithuanian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		TR		TR	TR							
@@ -110,10 +110,10 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		TR		TR	TR							
 13	Lithuanian	110	respect	X (respect) Y	уважать	X (уважать) Y-а		TR		TR	TR							
 13	Lithuanian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		NOM	INS	Y	NOMINS							
-13	Lithuanian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		NOM	INS	Y	NOMINS	NV, в статье на этом основании в классификацию не включен						
+13	Lithuanian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		NOM	INS	Y	NOMINS							NV, в статье на этом основании в классификацию не включен
 13	Lithuanian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		TR		TR	TR							
 13	Lithuanian	114	trust	X (trust) Y	доверять	X (доверять) Y-у		NOM	INS	Y	NOMINS							
-13	Lithuanian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	gaila	DAT	GEN	XY	DATGEN	NV, я сам выбрал этот вариант, а не собственно глагол жалеть (NOM-GEN), который упоминается в статье, потому что по гуглу мне показалось, что так гораздо частотнее. К тому же Бьорн называл еще возможные переводы, они с DAT - GEN (тоже есть в статье)						
+13	Lithuanian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	gaila	DAT	GEN	XY	DATGEN							NV, я сам выбрал этот вариант, а не собственно глагол жалеть (NOM-GEN), который упоминается в статье, потому что по гуглу мне показалось, что так гораздо частотнее. К тому же Бьорн называл еще возможные переводы, они с DAT - GEN (тоже есть в статье)
 13	Lithuanian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		NOM	DAT	Y	NOMDAT							
 13	Lithuanian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		NOM 	ant GEN	Y	NOMantGEN							
 13	Lithuanian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		NOM	INS	Y	NOMINS							
@@ -121,11 +121,11 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		NOM	INS	Y	NOMINS							
 13	Lithuanian	121	want	X (want) Y	хотеть	X (хотеть) Y-а		NOM	GEN	Y	NOMGEN							
 13	Lithuanian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		NOM	ant GEN	Y	NOMantGEN							
-13	Lithuanian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		*				Адекватного варианта найти не удалось. Из комментариев к анкете Наташи думал было взять вариант supyko, но это скорее сердиться. А значение обидеться скорее передается переходным вариантом (обидеть)						
+13	Lithuanian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		*										Адекватного варианта найти не удалось. Из комментариев к анкете Наташи думал было взять вариант supyko, но это скорее сердиться. А значение обидеться скорее передается переходным вариантом (обидеть)
 13	Lithuanian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		TR		TR	TR							
-13	Lithuanian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	INS	Y	NOMINS	"Взял вариант SUSIŽAVĖJO из предложений носителя в комментариях. Ориентировалс яна то, что это единственный вариант, где в качестве второго актанта использовался именно город, а не ""красота города"""						
+13	Lithuanian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	INS	Y	NOMINS							"Взял вариант SUSIŽAVĖJO из предложений носителя в комментариях. Ориентировалс яна то, что это единственный вариант, где в качестве второго актанта использовался именно город, а не ""красота города"""
 13	Lithuanian	126	despise	X (despise) Y	презирать	X (презирать) Y-а		TR		TR	TR							
 13	Lithuanian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	del GEN	Y	NOMdelGEN							
-13	Lithuanian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*				Носитель языка отметил, что по-литовски естественнее сказать, что его раздражает поведение дочери. Решил буквальный перевод в такой ситуации не брать.						
+13	Lithuanian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*										Носитель языка отметил, что по-литовски естественнее сказать, что его раздражает поведение дочери. Решил буквальный перевод в такой ситуации не брать.
 13	Lithuanian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		NOM	DAT	Y	NOMDAT							
 13	Lithuanian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		NOM	GEN	Y	NOMGEN							

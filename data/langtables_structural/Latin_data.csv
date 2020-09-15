@@ -1,10 +1,10 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 62	Latin	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	doleo	DAT	NOM	X	DAT_NOM							
-62	Latin	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	aegroto	NOM	ABL	Y	NOM_ABL	Есть еще вариант NOM_GEN; Инне кажется, что NOM_ABL частотнее						
-62	Latin	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	timeo	TR		TR	TR	Второй вариант перевода -- metuo, та же модель						
+62	Latin	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	aegroto	NOM	ABL	Y	NOM_ABL							Есть еще вариант NOM_GEN; Инне кажется, что NOM_ABL частотнее
+62	Latin	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	timeo	TR		TR	TR							Второй вариант перевода -- metuo, та же модель
 62	Latin	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	jaceo	TR		TR	TR							
-62	Latin	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	satis (essere)	DAT	NOM	X	DAT_NOM	NV; есть еще вариант NOM_GEN (habere + satis), но я не уверен в структуре составляющих						
-62	Latin	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	imitor	TR		TR	TR	DEP (Verbum deponens)						
+62	Latin	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	satis (essere)	DAT	NOM	X	DAT_NOM							NV; есть еще вариант NOM_GEN (habere + satis), но я не уверен в структуре составляющих
+62	Latin	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	imitor	TR		TR	TR							DEP (Verbum deponens)
 62	Latin	7	believe	X (believe) Y	верить	X (верить)Y-у	credo	NOM	DAT	Y	NOM_DAT							
 62	Latin	8	take	X (take) Y	взять	X (брать) Y(-а)	capio	TR		TR	TR							
 62	Latin	9	see	X (see) Y	видеть	X (видеть) Y(-а)	video	TR		TR	TR							
@@ -12,52 +12,52 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 62	Latin	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	incurro	NOM	inACC	Y	NOM_inACC							
 62	Latin	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	intro	TR		TR	TR							
 62	Latin	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	evinco	TR		TR	TR							
-62	Latin	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	exeo	NOM	exABL	Y	NOM_exABL	Есть еще вариант NOM_DAT, но эта конструкция встречается чаще						
+62	Latin	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	exeo	NOM	exABL	Y	NOM_exABL							Есть еще вариант NOM_DAT, но эта конструкция встречается чаще
 62	Latin	15	drive	X (drive) Y	гнать	X (гнать) Y-а	ago	TR		TR	TR							
 62	Latin	16	bend	X (bend) Y	гнуть	X (гнуть) Y	cornum	TR		TR	TR							
 62	Latin	17	tell	X (tell) Y	говорить	X (говорить) Y-у	dico	NOM	DAT	Y	NOM_DAT							
 62	Latin	18	hold	X (hold)Y	держать	X (держать) Y(-а)	teneo	TR		TR	TR							
-62	Latin	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	consequor	TR		TR	TR	DEP (Verbum deponens)						
+62	Latin	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	consequor	TR		TR	TR							DEP (Verbum deponens)
 62	Latin	20	milk	X (milk) Y	доить	X (доить) Y-а	mulgeo	TR		TR	TR							
-62	Latin	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	pervenio	NOM	adACC	Y	NOM_adACC	Тот же глагол может использоваться как TR. Берем 2 конструкцию с предлогом: она нейтральнее, характерна для целого семейства глаголов (а не только для конкретного приставочного глагола) и непереходная						
+62	Latin	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	pervenio	NOM	adACC	Y	NOM_adACC							Тот же глагол может использоваться как TR. Берем 2 конструкцию с предлогом: она нейтральнее, характерна для целого семейства глаголов (а не только для конкретного приставочного глагола) и непереходная
 62	Latin	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	tango	TR		TR	TR							
-62	Latin	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	luctor	NOM	cumABL	Y	NOM_cumABL	DEP (Verbum deponens)						
-62	Latin	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	amicus (essere)	NOM	DAT	Y	NOM_DAT	NV						
+62	Latin	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	luctor	NOM	cumABL	Y	NOM_cumABL							DEP (Verbum deponens)
+62	Latin	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	amicus (essere)	NOM	DAT	Y	NOM_DAT							NV
 62	Latin	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	meditor	TR		TR	TR							
 62	Latin	26	eat	X (eat) Y	есть	X (есть) Y	edo	TR		TR	TR							
 62	Latin	27	fry	X (fry) Y	жарить	X (жарить) Y	frigo	TR		TR	TR							
 62	Latin	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	maneo	TR		TR	TR							
-62	Latin	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	obliviscor	NOM	GEN	Y	NOM_GEN	Примерно одинаково по частотности, OLD дает обе модели как равноправные во всех значениях. СС берет NOM_GEN как непереходную						
+62	Latin	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	obliviscor	NOM	GEN	Y	NOM_GEN							Примерно одинаково по частотности, OLD дает обе модели как равноправные во всех значениях. СС берет NOM_GEN как непереходную
 62	Latin	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	dependeo	NOM	exABL	Y	NOM_exABL							
 62	Latin	31	call	X (call) Y	звать	X (звать) Y-а	voco	TR		TR	TR							
 62	Latin	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	cognosco	TR		TR	TR							
 62	Latin	33	know	X (know) Y	знать 	X (знать) Y-а	nosco	TR		TR	TR							
-62	Latin	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	modulor	NOM	ABL	Y	NOM_ABL	DEP (Verbum deponens)						
+62	Latin	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	modulor	NOM	ABL	Y	NOM_ABL							DEP (Verbum deponens)
 62	Latin	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	vito	TR		TR	TR							
 62	Latin	36	make	X (make) Y	изготовить	X (изготовить) Y	facio	TR		TR	TR							
 62	Latin	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	derideo	TR		TR	TR							
-62	Latin	38	have	X (have) Y	иметь	X (иметь) Y	habeo	TR		TR	TR	Есть еще более редкая конструкция mihi est (DAT_NOM), она свойственна разговорному стилю. берем habere						
+62	Latin	38	have	X (have) Y	иметь	X (иметь) Y	habeo	TR		TR	TR							Есть еще более редкая конструкция mihi est (DAT_NOM), она свойственна разговорному стилю. берем habere
 62	Latin	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	quaero	TR		TR	TR							
 62	Latin	40	paint	X (paint) Y	красить	X (красить) Y	pingo	TR		TR	TR							
 62	Latin	41	bite	X (bite) Y	кусать	X (кусать) Y-а	mordeo	TR		TR	TR							
 62	Latin	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	amitto	TR		TR	TR							
 62	Latin	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	capto	TR		TR	TR							
 62	Latin	44	break	X (break) Y	ломать	X (ломать) Y	frango	TR		TR	TR							
-62	Latin	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	blandior	NOM	DAT	Y	NOM_DAT	DEP (Verbum deponens)						
-62	Latin	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	amo	TR		TR	TR	То же, что 119						
+62	Latin	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	blandior	NOM	DAT	Y	NOM_DAT							DEP (Verbum deponens)
+62	Latin	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	amo	TR		TR	TR							То же, что 119
 62	Latin	47	wave	X (wave) Y	махать	X (махать) Y-ом	vibro	TR		TR	TR							
-62	Latin	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	somnio	TR		TR	TR	То же, что 97						
+62	Latin	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	somnio	TR		TR	TR							То же, что 97
 62	Latin	49	wash	X (wash) Y	мыть	X (мыть) Y	lavo	TR		TR	TR							
 62	Latin	50	put_on	X (put_on) Y	надевать	X (надевать) Y	sumo	TR		TR	TR							
-62	Latin	51	be_called	X (be_called) Y	называться	X (называться) Y	appello + PASS	NOM	NOM	Y	NOM_NOM	PASS						
+62	Latin	51	be_called	X (be_called) Y	называться	X (называться) Y	appello + PASS	NOM	NOM	Y	NOM_NOM							PASS
 62	Latin	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	punio	TR		TR	TR							
 62	Latin	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	invadeo	TR		TR	TR							
-62	Latin	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	impleo + PASS	NOM	ABL	Y	NOM_ABL	PASS						
+62	Latin	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	impleo + PASS	NOM	ABL	Y	NOM_ABL							PASS
 62	Latin	55	find	X (find) Y	находить	X (находить) Y(-а)	invenio	TR		TR	TR							
 62	Latin	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	desum	DAT	NOM	X	DAT_NOM							
 62	Latin	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	odi	TR		TR	TR							
 62	Latin	58	like	X (like) Y	нравиться	X-у (нравиться) Y	placeo	DAT	NOM	X	DAT_NOM							
-62	Latin	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	egeo	NOM	GEN	Y	NOM_GEN	Есть еще requiro с тем же значением и той же моделью						
+62	Latin	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	egeo	NOM	GEN	Y	NOM_GEN							Есть еще requiro с тем же значением и той же моделью
 62	Latin	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	cingo	TR		TR	TR							
 62	Latin	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	supersum	DAT	NOM	X	DAT_NOM							
 62	Latin	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	respondeo	NOM	DAT	Y	NOM_DAT							
@@ -71,61 +71,61 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 62	Latin	70	write	X (write) Y	писать	X (писать) Y	scribo	TR		TR	TR							
 62	Latin	71	drink	X (drink) Y	пить	X (пить) Y	bibo	TR		TR	TR							
 62	Latin	72	melt	X (melt) Y	плавить	X (плавить) Y	liquefacio	TR		TR	TR							
-62	Latin	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	apto + PASS	NOM	adACC	Y	NOM_adACC	PASS						
+62	Latin	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	apto + PASS	NOM	adACC	Y	NOM_adACC							PASS
 62	Latin	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	linquo	TR		TR	TR							
 62	Latin	75	cover	X (cover) Y	покрывать	X (покрывать) Y	tego	TR		TR	TR							
-62	Latin	76	remember	X (remember) Y	помнить	X (помнить) Y-а	memini	TR		TR	TR	"Помимо этого, с тем же глаголом бывает генитив, но он редок, со значением глагола ""учитывать, иметь в виду"""						
+62	Latin	76	remember	X (remember) Y	помнить	X (помнить) Y-а	memini	TR		TR	TR							"Помимо этого, с тем же глаголом бывает генитив, но он редок, со значением глагола ""учитывать, иметь в виду"""
 62	Latin	77	help	X (help) Y	помочь	X (помогать) Y-у	iuvo	TR		TR	TR							
 62	Latin	78	understand	X (understand) Y	понимать	X (понимать) Y	scio	TR		TR	TR							
 62	Latin	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	percello	TR		TR	TR							
-62	Latin	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	*	*		*		"Не найден пример с медиальным значением, только что-то вроде ""порезать плечо мечом"""						
+62	Latin	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	*	*		*								"Не найден пример с медиальным значением, только что-то вроде ""порезать плечо мечом"""
 62	Latin	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	adhaereo	NOM	DAT	Y	NOM_DAT							
-62	Latin	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	vinco + PASS	NOM	ABL	Y	NOM_ABL	Только простой пассив от vinco. Другие два варианта, которые обсуждались, cedo и perdo, не подходят. К сожалению, примера со вторым участником контрагентом Инна так и не смогла найти, но нет оснований считать, что он выглядел бы как-то иначе, так что засчитываем что есть.						
+62	Latin	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	vinco + PASS	NOM	ABL	Y	NOM_ABL							Только простой пассив от vinco. Другие два варианта, которые обсуждались, cedo и perdo, не подходят. К сожалению, примера со вторым участником контрагентом Инна так и не смогла найти, но нет оснований считать, что он выглядел бы как-то иначе, так что засчитываем что есть.
 62	Latin	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	gaudeo	TR		TR	TR							
-62	Latin	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	colloquor	NOM	cumABL	Y	NOM_cumABL	DEP (Verbum deponens)						
+62	Latin	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	colloquor	NOM	cumABL	Y	NOM_cumABL							DEP (Verbum deponens)
 62	Latin	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	pario	TR		TR	TR							
 62	Latin	86	drop	X (drop) Y	ронять	X (ронять) Y	demitto	TR		TR	TR							
 62	Latin	87	govern	X (govern) Y	руководить	X (руководить) Y	administro	TR		TR	TR							
 62	Latin	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	desidero	TR		TR	TR							
-62	Latin	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	sequor	TR		TR	TR	DEP (Verbum deponens)						
+62	Latin	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	sequor	TR		TR	TR							DEP (Verbum deponens)
 62	Latin	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	descendo	NOM	ABL	Y	NOM_ABL							
-62	Latin	91	listen	X (listen) to Y	слушать	X (слушать) Y	audio	TR		TR	TR	То же, что 93						
+62	Latin	91	listen	X (listen) to Y	слушать	X (слушать) Y	audio	TR		TR	TR							То же, что 93
 62	Latin	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	pareo	NOM	DAT	Y	NOM_DAT							
-62	Latin	93	hear	X (hear) Y	слышать	X (слышать) Y	audio	TR		TR	TR	То же, что 91						
-62	Latin	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	misceo + PASS	NOM	cumABL	Y	NOM_cumABL	Строго говоря, пример не найден, но он должен был бы выглядеть именно так						
+62	Latin	93	hear	X (hear) Y	слышать	X (слышать) Y	audio	TR		TR	TR							То же, что 91
+62	Latin	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	misceo + PASS	NOM	cumABL	Y	NOM_cumABL							Строго говоря, пример не найден, но он должен был бы выглядеть именно так
 62	Latin	95	look	X (look) at Y	смотреть	X (смотреть) на Y	aspecto	TR		TR	TR							
-62	Latin	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	se devestio	NOM	ABL	Y	NOM_ABL	REFL						
-62	Latin	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	somnio	TR		TR	TR	То же, что 48						
-62	Latin	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	assentior	NOM	DAT	Y	NOM_DAT	DEP (Verbum deponens)						
-62	Latin	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	discordo	NOM	cumABL	Y	NOM_cumABL	Пример не найден, но в Дворецком так						
+62	Latin	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	se devestio	NOM	ABL	Y	NOM_ABL							REFL
+62	Latin	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	somnio	TR		TR	TR							То же, что 48
+62	Latin	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	assentior	NOM	DAT	Y	NOM_DAT							DEP (Verbum deponens)
+62	Latin	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	discordo	NOM	cumABL	Y	NOM_cumABL							Пример не найден, но в Дворецком так
 62	Latin	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	consto	NOM	ABL	Y	NOM_ABL							
-62	Latin	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	iaculor	NOM	inACC	Y	NOM_inACC	DEP (Verbum deponens)						
-62	Latin	102	pour	X (pour) Y	сыпать	X (сыпать) Y	infundo	TR		TR	TR	Контекст с сыпучим телом не найден, но есть примеры с жидкостью (TR), а модель явно должна быть одной и той же						
+62	Latin	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	iaculor	NOM	inACC	Y	NOM_inACC							DEP (Verbum deponens)
+62	Latin	102	pour	X (pour) Y	сыпать	X (сыпать) Y	infundo	TR		TR	TR							Контекст с сыпучим телом не найден, но есть примеры с жидкостью (TR), а модель явно должна быть одной и той же
 62	Latin	103	lose	X (lose) Y	терять	X (терять) Y	perdo	TR		TR	TR							
 62	Latin	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sido	NOM	inABL	Y	NOM_inABL							
 62	Latin	105	kill	X (kill) Y	убивать	X (убивать) Y-а	neco	TR		TR	TR							
 62	Latin	106	hit	X (hit) Y	ударить	X (ударять) Y-а	percutio	TR		TR	TR							
-62	Latin	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	osculor	TR		TR	TR	DEP (Verbum deponens)						
+62	Latin	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	osculor	TR		TR	TR							DEP (Verbum deponens)
 62	Latin	108	read	X (read) Y	читать	X (читать) Y-а	lego	TR		TR	TR							
 62	Latin	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	moveo	TR		TR	TR							
-62	Latin	110	respect	X (respect) Y	уважать	X (уважать) Y-а	vereor	TR		TR	TR	DEP (Verbum deponens)						
+62	Latin	110	respect	X (respect) Y	уважать	X (уважать) Y-а	vereor	TR		TR	TR							DEP (Verbum deponens)
 62	Latin	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	fastidio	TR		TR	TR							
-62	Latin	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	contentus (sum)	NOM	ABL	Y	NOM_ABL	NV						
+62	Latin	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	contentus (sum)	NOM	ABL	Y	NOM_ABL							NV
 62	Latin	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	adamo	TR		TR	TR							
 62	Latin	114	trust	X (trust) Y	доверять	X (доверять) Y-у	fido	NOM	DAT	Y	NOM_DAT							
 62	Latin	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	miserescere	NOM	GEN	Y	NOM_GEN							
 62	Latin	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	invideo	NOM	DAT	Y	NOM_DAT							
-62	Latin	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	irascor	NOM	DAT	Y	NOM_DAT	DEP (Verbum deponens). То же, что 122						
-62	Latin	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	miror	TR		TR	TR	DEP (Verbum deponens). То же, что 125						
-62	Latin	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	amo	TR		TR	TR	То же, что 46						
-62	Latin	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	fruor	NOM	ABL	Y	NOM_ABL	DEP (Verbum deponens)						
+62	Latin	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	irascor	NOM	DAT	Y	NOM_DAT							DEP (Verbum deponens). То же, что 122
+62	Latin	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	miror	TR		TR	TR							DEP (Verbum deponens). То же, что 125
+62	Latin	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	amo	TR		TR	TR							То же, что 46
+62	Latin	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	fruor	NOM	ABL	Y	NOM_ABL							DEP (Verbum deponens)
 62	Latin	121	want	X (want) Y	хотеть	X (хотеть) Y-а	volo	TR		TR	TR							
-62	Latin	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	irascor	NOM	DAT	Y	NOM_DAT	DEP (Verbum deponens). То же, что 117						
-62	Latin	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	offensus (sum)	NOM	ABL	Y	NOM_ABL	NV						
+62	Latin	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	irascor	NOM	DAT	Y	NOM_DAT							DEP (Verbum deponens). То же, что 117
+62	Latin	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	offensus (sum)	NOM	ABL	Y	NOM_ABL							NV
 62	Latin	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	contristo	TR		TR	TR							
-62	Latin	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	miror	TR		TR	TR	DEP (Verbum deponens). То же, что 118						
+62	Latin	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	miror	TR		TR	TR							DEP (Verbum deponens). То же, что 118
 62	Latin	126	despise	X (despise) Y	презирать	X (презирать) Y-а	contemno	TR		TR	TR							
 62	Latin	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	maereo	NOM	ABL	Y	NOM_ABL							
 62	Latin	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	irrito + PASS	NOM	ABL	Y	NOM_ABL							
 62	Latin	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	consentio	NOM	DAT	Y	NOM_DAT							
-62	Latin	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	vercundor	*		*		DEP (Verbum deponens). Не найден пример со вторым участником. C pudet (ACC+GEN) сложно: он обозначает именно стыд, сожаление о собственном поступке. VERCUNDOR вроде бы бы ближе к стимулу. Инна ищет еще						
+62	Latin	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	vercundor	*		*								DEP (Verbum deponens). Не найден пример со вторым участником. C pudet (ACC+GEN) сложно: он обозначает именно стыд, сожаление о собственном поступке. VERCUNDOR вроде бы бы ближе к стимулу. Инна ищет еще

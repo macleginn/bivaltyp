@@ -1,18 +1,18 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-82	Saami_Southern	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	saejrede	*		*		"""Голова П. Болит"", не засчитываем; Рихард уверен, что другого способа выражения нет. Разрыв невозможен"						
-82	Saami_Southern	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	sovhten	*		*		"Глагол, означающий ""болеть гриппом/простудой"", другие болезни пока проверить не удалось; переспросим"						Pending question for Richard
+82	Saami_Southern	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	saejrede	*		*								"""Голова П. Болит"", не засчитываем; Рихард уверен, что другого способа выражения нет. Разрыв невозможен"
+82	Saami_Southern	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	sovhten	*		*								"Pending question for Richard. Глагол, означающий ""болеть гриппом/простудой"", другие болезни пока проверить не удалось; переспросим"
 82	Saami_Southern	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	aerkie	NOM	ELA	Y	NOM_ELA							
 82	Saami_Southern	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	seedtie	TR		TR	TR							
-82	Saami_Southern	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	jeenjh atna	TR		TR	TR	"В этом варианте ""быть много"", а не ""быть достаточно"", но Рихард всё же включил это в анкету; я добавила в анкету дополнительный вопрос, но весьма вероятно, что это ни к чему не приведёт"						Pending question for Richard
-82	Saami_Southern	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	pliere-sne	NOM	GEN	Y	NOM_GEN	"NV (non-verbal), the predicate is ""(to be) manner-LOC.SG"". "						
-82	Saami_Southern	7	believe	X (believe) Y	верить	X (верить)Y-у	jaahka	TR		TR	TR	"Тот же глагол, что в 114. Ксюша предполагала, что в варианте Рихарда оказалось ""верить в кого-то"", но Рихард ответил, что он уверен, что ""верить кому-то"" и ""в кого-то"" выражается одинаково."						
+82	Saami_Southern	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	jeenjh atna	TR		TR	TR							"Pending question for Richard. В этом варианте ""быть много"", а не ""быть достаточно"", но Рихард всё же включил это в анкету; я добавила в анкету дополнительный вопрос, но весьма вероятно, что это ни к чему не приведёт"
+82	Saami_Southern	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	pliere-sne	NOM	GEN	Y	NOM_GEN							"NV (non-verbal), the predicate is ""(to be) manner-LOC.SG"". "
+82	Saami_Southern	7	believe	X (believe) Y	верить	X (верить)Y-у	jaahka	TR		TR	TR							"Тот же глагол, что в 114. Ксюша предполагала, что в варианте Рихарда оказалось ""верить в кого-то"", но Рихард ответил, что он уверен, что ""верить кому-то"" и ""в кого-то"" выражается одинаково."
 82	Saami_Southern	8	take	X (take) Y	взять	X (брать) Y(-а)	veelt-i	TR		TR	TR							
 82	Saami_Southern	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vuajna	TR		TR	TR							
-82	Saami_Southern	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*		*		Носитель утверждает, что такого глагола в языке нет						
-82	Saami_Southern	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	gaavned-i	NOM	COM	Y	NOM_COM	"This verb is derived from gaavnedh 'to find', see 55 (suffix "" -didh is an (unproductive) derivational suffix which can have transitivizing or reflexive function, amongst others"" -- Richard)"						
-82	Saami_Southern	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	veedtj-i	NOM	GENsijse	Y	NOM_GENsijse	"The first translation provided by Richard was ""gaatan veedtj-i"", where ""gaatan"" is in the Illative. However, that would rather mean 'went to the house'"						
+82	Saami_Southern	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*		*								Носитель утверждает, что такого глагола в языке нет
+82	Saami_Southern	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	gaavned-i	NOM	COM	Y	NOM_COM							"This verb is derived from gaavnedh 'to find', see 55 (suffix "" -didh is an (unproductive) derivational suffix which can have transitivizing or reflexive function, amongst others"" -- Richard)"
+82	Saami_Southern	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	veedtj-i	NOM	GENsijse	Y	NOM_GENsijse							"The first translation provided by Richard was ""gaatan veedtj-i"", where ""gaatan"" is in the Illative. However, that would rather mean 'went to the house'"
 82	Saami_Southern	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	vitn-i	NOM	GENbijjelen	Y	NOM_GENbijjelen							
-82	Saami_Southern	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	veedtj-i	NOM	GENsistie	Y	NOM_GENsistie	The first tranlation had no overt landmark at all ('went outside')						
+82	Saami_Southern	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	veedtj-i	NOM	GENsistie	Y	NOM_GENsistie							The first tranlation had no overt landmark at all ('went outside')
 82	Saami_Southern	15	drive	X (drive) Y	гнать	X (гнать) Y-а	voejede	TR		TR	TR							
 82	Saami_Southern	16	bend	X (bend) Y	гнуть	X (гнуть) Y	vijdtj-i	TR		TR	TR							
 82	Saami_Southern	17	tell	X (tell) Y	говорить	X (говорить) Y-у	jeeht-i	NOM	ILL	Y	NOM_ILL							
@@ -20,53 +20,53 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 82	Saami_Southern	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	jaks-i	TR		TR	TR							
 82	Saami_Southern	20	milk	X (milk) Y	доить	X (доить) Y-а	buhtjie-ji	TR		TR	TR							
 82	Saami_Southern	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	jaksa	TR		TR	TR							
-82	Saami_Southern	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	båata	NOM	sontereGEN	Y	NOM_sontereGEN	The translation also contains 'with his hand', but this is in principle independent from the meaning 'to touch'						
+82	Saami_Southern	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	båata	NOM	sontereGEN	Y	NOM_sontereGEN							The translation also contains 'with his hand', but this is in principle independent from the meaning 'to touch'
 82	Saami_Southern	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	geampa-minie	NOM	COM	Y	NOM_COM							
-82	Saami_Southern	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	voelpe	*		*		Чисто приименная конструкция: X -- друг Y-а.						
+82	Saami_Southern	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	voelpe	*		*								Чисто приименная конструкция: X -- друг Y-а.
 82	Saami_Southern	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	ussjede	NOM	ILL	Y	NOM_ILL							
 82	Saami_Southern	26	eat	X (eat) Y	есть	X (есть) Y	barra-ji	TR		TR	TR							
 82	Saami_Southern	27	fry	X (fry) Y	жарить	X (жарить) Y	biss-i	TR		TR	TR							
 82	Saami_Southern	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	vuertie-minie	TR		TR	TR							
 82	Saami_Southern	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	våajaldahte-me	TR		TR	TR							
-82	Saami_Southern	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*		*		Нет эквивалента						
-82	Saami_Southern	31	call	X (call) Y	звать	X (звать) Y-а	tjåårve	TR		TR	TR	"Ксюша: ""предложение целиком Hilje Mikaele-m tjåårve. Eliah Michael-ACC.SG call.PRS.3SG `Eliah calls for Michael (to come/help...)'"""						
-82	Saami_Southern	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	lier-i damtedh	TR		TR	TR	"CV. ""learn to know"""						
+82	Saami_Southern	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*		*								Нет эквивалента
+82	Saami_Southern	31	call	X (call) Y	звать	X (звать) Y-а	tjåårve	TR		TR	TR							"Ксюша: ""предложение целиком Hilje Mikaele-m tjåårve. Eliah Michael-ACC.SG call.PRS.3SG `Eliah calls for Michael (to come/help...)'"""
+82	Saami_Southern	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	lier-i damtedh	TR		TR	TR							"CV. ""learn to know"""
 82	Saami_Southern	33	know	X (know) Y	знать 	X (знать) Y-а	damta	TR		TR	TR							
 82	Saami_Southern	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	spealede	TR		TR	TR							
 82	Saami_Southern	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	avta	TR		TR	TR							
-82	Saami_Southern	36	make	X (make) Y	изготовить	X (изготовить) Y	daajhta	TR		TR	TR	The actual case form used in this translation is homomnymous with the genitive form (-n), but Richard is confident this is the issue of the form, not any kind of substituing genitive for the accusative						
+82	Saami_Southern	36	make	X (make) Y	изготовить	X (изготовить) Y	daajhta	TR		TR	TR							The actual case form used in this translation is homomnymous with the genitive form (-n), but Richard is confident this is the issue of the form, not any kind of substituing genitive for the accusative
 82	Saami_Southern	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	nirrie	TR		TR	TR							
-82	Saami_Southern	38	have	X (have) Y	иметь	X (иметь) Y	atna	TR		TR	TR	"Alternative: X-GEN (is) Y-NOM. Richard on which is ""basic"": ""the GEN possessive is sometimes called ""more Saami"", the HAVE-possessive is sometimes said to be associated with ""use"", so H bijlem atna could be sth like ""H has a car (that he can use/he has it HERE"". But nothing of this is evident without lots of context. So I'd say HAVE and GEN poss are pretty equal."""						
+82	Saami_Southern	38	have	X (have) Y	иметь	X (иметь) Y	atna	TR		TR	TR							"Alternative: X-GEN (is) Y-NOM. Richard on which is ""basic"": ""the GEN possessive is sometimes called ""more Saami"", the HAVE-possessive is sometimes said to be associated with ""use"", so H bijlem atna could be sth like ""H has a car (that he can use/he has it HERE"". But nothing of this is evident without lots of context. So I'd say HAVE and GEN poss are pretty equal."""
 82	Saami_Southern	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	hohtje-minie	TR		TR	TR							
 82	Saami_Southern	40	paint	X (paint) Y	красить	X (красить) Y	mööl-i	TR		TR	TR							
 82	Saami_Southern	41	bite	X (bite) Y	кусать	X (кусать) Y-а	gaaktj-i	TR		TR	TR							
-82	Saami_Southern	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	dassi	TR		TR	TR	То же, что в 103 (и в 82 другое управление)						
+82	Saami_Southern	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	dassi	TR		TR	TR							То же, что в 103 (и в 82 другое управление)
 82	Saami_Southern	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	jååge-minie	TR		TR	TR							
 82	Saami_Southern	44	break	X (break) Y	ломать	X (ломать) Y	tjööpk-i	TR		TR	TR							
 82	Saami_Southern	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	garmede	TR		TR	TR							
 82	Saami_Southern	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	eatsa	TR		TR	TR							
 82	Saami_Southern	47	wave	X (wave) Y	махать	X (махать) Y-ом	saevehte	NOM	COM	Y	NOM_COM							
-82	Saami_Southern	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	niekede	NOM	GENbijre	Y	NOM_GENbijre	То же, что и 97						
+82	Saami_Southern	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	niekede	NOM	GENbijre	Y	NOM_GENbijre							То же, что и 97
 82	Saami_Southern	49	wash	X (wash) Y	мыть	X (мыть) Y	biess-i	TR		TR	TR							
 82	Saami_Southern	50	put_on	X (put_on) Y	надевать	X (надевать) Y	tjaaka	TR		TR	TR							
-82	Saami_Southern	51	be_called	X (be_called) Y	называться	X (называться) Y	gahtja	ACC	NOM	X	ACC_NOM	There is no sentential translation, but it follows from Richard's comments that the object is in the accusative, while its name, in the nominative						Is this right?
+82	Saami_Southern	51	be_called	X (be_called) Y	называться	X (называться) Y	gahtja	ACC	NOM	X	ACC_NOM							Is this right?. There is no sentential translation, but it follows from Richard's comments that the object is in the accusative, while its name, in the nominative
 82	Saami_Southern	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	päsjva	TR		TR	TR							
 82	Saami_Southern	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	låevtie-ji	TR		TR	TR							
 82	Saami_Southern	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	diev-i	NOM	ELA	Y	NOM_ELA							
-82	Saami_Southern	55	find	X (find) Y	находить	X (находить) Y(-а)	gaavn-i	TR		TR	TR	"Однокоренной глаголу ""встречать(ся)"""						
+82	Saami_Southern	55	find	X (find) Y	находить	X (находить) Y(-а)	gaavn-i	TR		TR	TR							"Однокоренной глаголу ""встречать(ся)"""
 82	Saami_Southern	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	fååtes-e	TR		TR	TR							
 82	Saami_Southern	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	asjvoste	TR		TR	TR							
-82	Saami_Southern	58	like	X (like) Y	нравиться	X-у (нравиться) Y	lyjhkie	TR		TR	TR	То же, что 119						
+82	Saami_Southern	58	like	X (like) Y	нравиться	X-у (нравиться) Y	lyjhkie	TR		TR	TR							То же, что 119
 82	Saami_Southern	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	daarpesje	TR		TR	TR							
-82	Saami_Southern	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	leah 	NOM	GENbijrejargan 	Y	NOM_GENbijrejargan	This is actually a locative construction with the fairly abstract verb 'to be' (X is around Y). Other predicates are also possible (e.g. 'grow' -- not in the case of 'walls', of course)						
-82	Saami_Southern	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	aajmene	*		*		X and Y form an NP (X's Y (is) left.remaining = aajmene = ADV)						
+82	Saami_Southern	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	leah 	NOM	GENbijrejargan 	Y	NOM_GENbijrejargan							This is actually a locative construction with the fairly abstract verb 'to be' (X is around Y). Other predicates are also possible (e.g. 'grow' -- not in the case of 'walls', of course)
+82	Saami_Southern	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	aajmene	*		*								X and Y form an NP (X's Y (is) left.remaining = aajmene = ADV)
 82	Saami_Southern	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	vaestied-i	TR		TR	TR							
 82	Saami_Southern	63	open	X (open) Y	открывать	X (открывать) Y	rihpest-i	TR		TR	TR							
-82	Saami_Southern	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*	*		*		"""Моя рубашка не как твоя"", пока не засчитываем"						Pending question for Richard
-82	Saami_Southern	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	sjidt-i	NOM	GENmänngan	Y	NOM_GENmanngan	"lit. 'become after'. Constituency is ""X [Y-GEN after] become"""						
-82	Saami_Southern	66	plough	X (plough) Y	пахать	X (пахать) Y	*	*		*		Нет эквивалента (и в словаре тоже нет)						
-82	Saami_Southern	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	hepsie-h	NOM	ELA	Y	NOM_ELA	"Есть еще вариант X-NOM smell Y-ELA, но носителю больше нравится представленный здесь вариант ""От моих рук пахнет бензин"". Неясно, почему ""бензин"" во множественном числе, но на глаголе согласование SG."						
-82	Saami_Southern	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	vaadtja	NOM	GENraaste	Y	NOM_GENraaste	" Сам глагол значит ""walk"". Lit. 'walk across the road'"						
+82	Saami_Southern	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*	*		*								"Pending question for Richard. ""Моя рубашка не как твоя"", пока не засчитываем"
+82	Saami_Southern	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	sjidt-i	NOM	GENmänngan	Y	NOM_GENmanngan							"lit. 'become after'. Constituency is ""X [Y-GEN after] become"""
+82	Saami_Southern	66	plough	X (plough) Y	пахать	X (пахать) Y	*	*		*								Нет эквивалента (и в словаре тоже нет)
+82	Saami_Southern	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	hepsie-h	NOM	ELA	Y	NOM_ELA							"Есть еще вариант X-NOM smell Y-ELA, но носителю больше нравится представленный здесь вариант ""От моих рук пахнет бензин"". Неясно, почему ""бензин"" во множественном числе, но на глаголе согласование SG."
+82	Saami_Southern	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	vaadtja	NOM	GENraaste	Y	NOM_GENraaste							" Сам глагол значит ""walk"". Lit. 'walk across the road'"
 82	Saami_Southern	69	sing	X (sing) Y	петь	X (петь) Y	laavla-ji	TR		TR	TR							
 82	Saami_Southern	70	write	X (write) Y	писать	X (писать) Y	tjaelie-ji	TR		TR	TR							
 82	Saami_Southern	71	drink	X (drink) Y	пить	X (пить) Y	jovk-i	TR		TR	TR							
@@ -78,54 +78,54 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 82	Saami_Southern	77	help	X (help) Y	помочь	X (помогать) Y-у	viehked-i	TR		TR	TR							
 82	Saami_Southern	78	understand	X (understand) Y	понимать	X (понимать) Y	gårkå	TR		TR	TR							
 82	Saami_Southern	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	leek-i	TR		TR	TR							
-82	Saami_Southern	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	tjoehpede	NOM	COM	Y	NOM_COM	REFL						
+82	Saami_Southern	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	tjoehpede	NOM	COM	Y	NOM_COM							REFL
 82	Saami_Southern	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	dabran-i	NOM	ILL	Y	NOM_ILL							
-82	Saami_Southern	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	dass-i	NOM	GENvuestie	Y	NOM_GENvuestie	"То же, что в 103 и 42 (""терять""), но другое управление"						
-82	Saami_Southern	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	feejjen sjidt-i	NOM	GENåvteste	Y	NOM_GENavteste	"NV ""became glad"". Richard: "" a(n awkward) literal translation"" is ""Hilje was glad for the letter"""						
+82	Saami_Southern	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	dass-i	NOM	GENvuestie	Y	NOM_GENvuestie							"То же, что в 103 и 42 (""терять""), но другое управление"
+82	Saami_Southern	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	feejjen sjidt-i	NOM	GENåvteste	Y	NOM_GENavteste							"NV ""became glad"". Richard: "" a(n awkward) literal translation"" is ""Hilje was glad for the letter"""
 82	Saami_Southern	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	soptseste	NOM	COM	Y	NOM_COM							
 82	Saami_Southern	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	baersield-i	TR		TR	TR							
 82	Saami_Southern	86	drop	X (drop) Y	ронять	X (ронять) Y	gahtjed-i	TR		TR	TR							
 82	Saami_Southern	87	govern	X (govern) Y	руководить	X (руководить) Y	reerie	TR		TR	TR							
 82	Saami_Southern	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	sorkese	TR		TR	TR							
 82	Saami_Southern	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	doerede	TR		TR	TR							
-82	Saami_Southern	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	tjöödtjest-i	NOM	ELA	Y	NOM_ELA	"""Со СПИНЫ лошади"" (элатив на ""спине""), это учитывается? Или переспросить?"						"Pending question for Richard. I (S.S.) had a typo in my original question: ""Yes, It'd be safer to find a noun which can be used in this construction withOUT any reference to its part (if 'horse' is not possible, you can try 'a ladder', or 'a table' for that matter; but 'horse' is the best)"""
-82	Saami_Southern	91	listen	X (listen) to Y	слушать	X (слушать) Y	goltele	TR		TR	TR	Абсолютно то же, что и 92						
-82	Saami_Southern	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	goltele	TR		TR	TR	Абсолютно то же, что и 91. Richard confirmed that the same sentence covers both 'listen to' and 'obey'						
+82	Saami_Southern	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	tjöödtjest-i	NOM	ELA	Y	NOM_ELA							"Pending question for Richard. I (S.S.) had a typo in my original question: ""Yes, It'd be safer to find a noun which can be used in this construction withOUT any reference to its part (if 'horse' is not possible, you can try 'a ladder', or 'a table' for that matter; but 'horse' is the best)"". ""Со СПИНЫ лошади"" (элатив на ""спине""), это учитывается? Или переспросить?"
+82	Saami_Southern	91	listen	X (listen) to Y	слушать	X (слушать) Y	goltele	TR		TR	TR							Абсолютно то же, что и 92
+82	Saami_Southern	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	goltele	TR		TR	TR							Абсолютно то же, что и 91. Richard confirmed that the same sentence covers both 'listen to' and 'obey'
 82	Saami_Southern	93	hear	X (hear) Y	слышать	X (слышать) Y	gåvla	TR		TR	TR							
-82	Saami_Southern	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	*	*		*		Нет эквивалента, переспросим						Pending question for Richard
+82	Saami_Southern	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	*	*		*								Pending question for Richard. Нет эквивалента, переспросим
 82	Saami_Southern	95	look	X (look) at Y	смотреть	X (смотреть) на Y	vuartesje	TR		TR	TR							
 82	Saami_Southern	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	sjigk-i	TR		TR	TR							
-82	Saami_Southern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	niekede	NOM	GENbijre	Y	NOM_GENbijre	То же, что и 48.						Pending question for Richard: Is sleeping implied in this example (as was initially planned)? No way to express a contrast like dream of / dream about?
-82	Saami_Southern	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	*	*		*		"The only translation obtained is ""X is with Y"" (NOM_COM). I cannot include it in the database"						
+82	Saami_Southern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	niekede	NOM	GENbijre	Y	NOM_GENbijre							Pending question for Richard: Is sleeping implied in this example (as was initially planned)? No way to express a contrast like dream of / dream about?. То же, что и 48.
+82	Saami_Southern	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	*	*		*								"The only translation obtained is ""X is with Y"" (NOM_COM). I cannot include it in the database"
 82	Saami_Southern	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	traakeste	NOM	COM	Y	NOM_COM							
-82	Saami_Southern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*		*		"Только ""They take 12 crowns for this cup""; переспросим"						Pending question for Richard
-82	Saami_Southern	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	skööht-i	TR		TR	TR	Even though this is a transitive construction, Richard (and his consultant) was sure that this sentence can be used even if X actually missed						
+82	Saami_Southern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*		*								"Pending question for Richard. Только ""They take 12 crowns for this cup""; переспросим"
+82	Saami_Southern	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	skööht-i	TR		TR	TR							Even though this is a transitive construction, Richard (and his consultant) was sure that this sentence can be used even if X actually missed
 82	Saami_Southern	102	pour	X (pour) Y	сыпать	X (сыпать) Y	gurkie	TR		TR	TR							
-82	Saami_Southern	103	lose	X (lose) Y	терять	X (терять) Y	dass-i	TR		TR	TR	То же, что в 42 (и в 82 другое управление)						
-82	Saami_Southern	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	*	*		*		Нет эквивалента пока, уточним						Pending question for Richard
+82	Saami_Southern	103	lose	X (lose) Y	терять	X (терять) Y	dass-i	TR		TR	TR							То же, что в 42 (и в 82 другое управление)
+82	Saami_Southern	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	*	*		*								Pending question for Richard. Нет эквивалента пока, уточним
 82	Saami_Southern	105	kill	X (kill) Y	убивать	X (убивать) Y-а	bovv-i	TR		TR	TR							
 82	Saami_Southern	106	hit	X (hit) Y	ударить	X (ударять) Y-а	tjååskel-i	TR		TR	TR							
 82	Saami_Southern	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	tjuvliest-i	TR		TR	TR							
 82	Saami_Southern	108	read	X (read) Y	читать	X (читать) Y-а	lohk-i	TR		TR	TR							
 82	Saami_Southern	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	svihtj-i	TR		TR	TR							
 82	Saami_Southern	110	respect	X (respect) Y	уважать	X (уважать) Y-а	heevehte	TR		TR	TR							
-82	Saami_Southern	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*		*		Нет эквивалента						
+82	Saami_Southern	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*		*								Нет эквивалента
 82	Saami_Southern	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	lea madtjeles	NOM	COM	Y	NOM_COM							
-82	Saami_Southern	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	iehtse-gååt-i	TR		TR	TR	Inchoative						
-82	Saami_Southern	114	trust	X (trust) Y	доверять	X (доверять) Y-у	jaahka	TR		TR	TR	Тот же глагол, что и в 7 (что заставляет думать, что и там он переходный)						
-82	Saami_Southern	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	*	*		*		Нет эквивалента						
+82	Saami_Southern	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	iehtse-gååt-i	TR		TR	TR							Inchoative
+82	Saami_Southern	114	trust	X (trust) Y	доверять	X (доверять) Y-у	jaahka	TR		TR	TR							Тот же глагол, что и в 7 (что заставляет думать, что и там он переходный)
+82	Saami_Southern	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	*	*		*								Нет эквивалента
 82	Saami_Southern	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	ååvete	TR		TR	TR							
-82	Saami_Southern	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	måarehke	NOM	ILL	Y	NOM_ILL	NV (Прилагательное)						
-82	Saami_Southern	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	*	*		*		Нет эквивалента, переспросим						Pending question for Richard
-82	Saami_Southern	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	lyjhkoe	TR		TR	TR	То же, что 58						
-82	Saami_Southern	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*		*		Нет эквивалента						
-82	Saami_Southern	121	want	X (want) Y	хотеть	X (хотеть) Y-а	*	*		*		Нет эквивалента, только want to have, переспросим						Pending question for Richard
-82	Saami_Southern	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	måaskan sjidteme	NOM	ILL	Y	NOM_ILL	CV (Become angry). Ровно то же, что 123, условно пока учитываю, не знаю, какому стимулу точнее соответствует саамское предложение						
-82	Saami_Southern	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	måaskan sjidteme	NOM	ILL	Y	NOM_ILL	CV (Become angry). Ровно то же, что 122, условно пока учитываю, не знаю, какому стимулу точнее соответствует саамское предложение						
+82	Saami_Southern	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	måarehke	NOM	ILL	Y	NOM_ILL							NV (Прилагательное)
+82	Saami_Southern	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	*	*		*								Pending question for Richard. Нет эквивалента, переспросим
+82	Saami_Southern	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	lyjhkoe	TR		TR	TR							То же, что 58
+82	Saami_Southern	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*		*								Нет эквивалента
+82	Saami_Southern	121	want	X (want) Y	хотеть	X (хотеть) Y-а	*	*		*								Pending question for Richard. Нет эквивалента, только want to have, переспросим
+82	Saami_Southern	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	måaskan sjidteme	NOM	ILL	Y	NOM_ILL							CV (Become angry). Ровно то же, что 123, условно пока учитываю, не знаю, какому стимулу точнее соответствует саамское предложение
+82	Saami_Southern	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	måaskan sjidteme	NOM	ILL	Y	NOM_ILL							CV (Become angry). Ровно то же, что 122, условно пока учитываю, не знаю, какому стимулу точнее соответствует саамское предложение
 82	Saami_Southern	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	aarkeda-mme	TR		TR	TR							
-82	Saami_Southern	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*		*		Нет эквивалента						
-82	Saami_Southern	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*		*		Нет эквивалента						
-82	Saami_Southern	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*		*		Нет эквивалента						
-82	Saami_Southern	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	naskas sjädta	TR		TR	TR	CV (Become + ADJ)						
-82	Saami_Southern	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*		*		Нет эквивалента						
-82	Saami_Southern	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	käinn	*		*		Пока что единственный полученный эквивалент включает подчиненную клаузу						Pending question for Richard
+82	Saami_Southern	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*		*								Нет эквивалента
+82	Saami_Southern	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*		*								Нет эквивалента
+82	Saami_Southern	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*		*								Нет эквивалента
+82	Saami_Southern	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	naskas sjädta	TR		TR	TR							CV (Become + ADJ)
+82	Saami_Southern	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*		*								Нет эквивалента
+82	Saami_Southern	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	käinn	*		*								Pending question for Richard. Пока что единственный полученный эквивалент включает подчиненную клаузу

@@ -1,131 +1,131 @@
-language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-30	Chinese_Mandarin	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*				ИГ						
-30	Chinese_Mandarin	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		TR			TR							
-30	Chinese_Mandarin	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		TR			TR							
-30	Chinese_Mandarin	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		TR			TR							
-30	Chinese_Mandarin	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*				ИГ (кажется, еще есть конструкция TR)						
-30	Chinese_Mandarin	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		TR			TR							
-30	Chinese_Mandarin	7	believe	X (believe) Y	верить	X (верить)Y-у		TR			TR							
-30	Chinese_Mandarin	8	take	X (take) Y	взять	X (брать) Y(-а)		TR			TR							
-30	Chinese_Mandarin	9	see	X (see) Y	видеть	X (видеть) Y(-а)		TR			TR							
-30	Chinese_Mandarin	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		TR			TR							
-30	Chinese_Mandarin	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		TR			TR							
-30	Chinese_Mandarin	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		TR			TR	Не совсем понимаю, какие-то модификаторы внутри глагола (DIR), хотя в целом похоже на переходную конструкцию						
-30	Chinese_Mandarin	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		TR			TR							
-30	Chinese_Mandarin	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		TR			TR	Не совсем понимаю, какие-то модификаторы внутри глагола (DIR), хотя в целом похоже на переходную конструкцию						
-30	Chinese_Mandarin	15	drive	X (drive) Y	гнать	X (гнать) Y-а		TR			TR							
-30	Chinese_Mandarin	16	bend	X (bend) Y	гнуть	X (гнуть) Y		TR			TR							
-30	Chinese_Mandarin	17	tell	X (tell) Y	говорить	X (говорить) Y-у		NOM	DUI		DUI							
-30	Chinese_Mandarin	18	hold	X (hold)Y	держать	X (держать) Y(-а)		TR			TR							
-30	Chinese_Mandarin	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		TR			TR							
-30	Chinese_Mandarin	20	milk	X (milk) Y	доить	X (доить) Y-а		NOM	GEI		GEI							
-30	Chinese_Mandarin	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		TR			TR							
-30	Chinese_Mandarin	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		TR			TR	Не совсем понимаю, какие-то модификаторы внутри глагола (DIR), хотя в целом похоже на переходную конструкцию						
-30	Chinese_Mandarin	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	HE		HE							
-30	Chinese_Mandarin	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		NOM	HE		HE							
-30	Chinese_Mandarin	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		TR			TR							
-30	Chinese_Mandarin	26	eat	X (eat) Y	есть	X (есть) Y		TR			TR							
-30	Chinese_Mandarin	27	fry	X (fry) Y	жарить	X (жарить) Y		TR			TR							
-30	Chinese_Mandarin	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		TR			TR							
-30	Chinese_Mandarin	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		TR			TR							
-30	Chinese_Mandarin	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		TR			TR							
-30	Chinese_Mandarin	31	call	X (call) Y	звать	X (звать) Y-а		TR			TR							
-30	Chinese_Mandarin	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	HE		HE							
-30	Chinese_Mandarin	33	know	X (know) Y	знать 	X (знать) Y-а		TR			TR							
-30	Chinese_Mandarin	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		TR			TR							
-30	Chinese_Mandarin	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		TR			TR							
-30	Chinese_Mandarin	36	make	X (make) Y	изготовить	X (изготовить) Y		TR			TR							
-30	Chinese_Mandarin	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		TR			TR							
-30	Chinese_Mandarin	38	have	X (have) Y	иметь	X (иметь) Y		TR			TR							
-30	Chinese_Mandarin	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		TR			TR							
-30	Chinese_Mandarin	40	paint	X (paint) Y	красить	X (красить) Y		TR			TR							
-30	Chinese_Mandarin	41	bite	X (bite) Y	кусать	X (кусать) Y-а		TR			TR							
-30	Chinese_Mandarin	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		TR			TR							
-30	Chinese_Mandarin	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		TR			TR							
-30	Chinese_Mandarin	44	break	X (break) Y	ломать	X (ломать) Y		TR			TR							
-30	Chinese_Mandarin	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		TR			TR							
-30	Chinese_Mandarin	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		TR			TR							
-30	Chinese_Mandarin	47	wave	X (wave) Y	махать	X (махать) Y-ом		TR			TR							
-30	Chinese_Mandarin	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		TR			TR							
-30	Chinese_Mandarin	49	wash	X (wash) Y	мыть	X (мыть) Y		TR			TR							
-30	Chinese_Mandarin	50	put_on	X (put_on) Y	надевать	X (надевать) Y		TR			TR							
-30	Chinese_Mandarin	51	be_called	X (be_called) Y	называться	X (называться) Y		TR			TR							
-30	Chinese_Mandarin	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		TR			TR							
-30	Chinese_Mandarin	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		TR			TR							
-30	Chinese_Mandarin	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		*				Сказано, что это какой-то особый экзистенциальный оброт с инверсией						
-30	Chinese_Mandarin	55	find	X (find) Y	находить	X (находить) Y(-а)		TR			TR							
-30	Chinese_Mandarin	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		TR			TR							
-30	Chinese_Mandarin	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		TR			TR							
-30	Chinese_Mandarin	58	like	X (like) Y	нравиться	X-у (нравиться) Y		TR			TR							
-30	Chinese_Mandarin	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		TR			TR							
-30	Chinese_Mandarin	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		TR			TR							
-30	Chinese_Mandarin	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		TR			TR							
-30	Chinese_Mandarin	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		TR			TR							
-30	Chinese_Mandarin	63	open	X (open) Y	открывать	X (открывать) Y		TR			TR							
-30	Chinese_Mandarin	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		NOM	YU		YU							
-30	Chinese_Mandarin	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		*				какой-то странный CV						
-30	Chinese_Mandarin	66	plough	X (plough) Y	пахать	X (пахать) Y		TR			TR							
-30	Chinese_Mandarin	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*				запах бензина						
-30	Chinese_Mandarin	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		TR			TR							
-30	Chinese_Mandarin	69	sing	X (sing) Y	петь	X (петь) Y		TR			TR							
-30	Chinese_Mandarin	70	write	X (write) Y	писать	X (писать) Y		TR			TR							
-30	Chinese_Mandarin	71	drink	X (drink) Y	пить	X (пить) Y		TR			TR							
-30	Chinese_Mandarin	72	melt	X (melt) Y	плавить	X (плавить) Y		TR			TR							
-30	Chinese_Mandarin	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		TR			TR							
-30	Chinese_Mandarin	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		TR			TR							
-30	Chinese_Mandarin	75	cover	X (cover) Y	покрывать	X (покрывать) Y		*				Сказано, что это какой-то особый экзистенциальный оброт с инверсией						
-30	Chinese_Mandarin	76	remember	X (remember) Y	помнить	X (помнить) Y-а		TR			TR							
-30	Chinese_Mandarin	77	help	X (help) Y	помочь	X (помогать) Y-у		TR			TR							
-30	Chinese_Mandarin	78	understand	X (understand) Y	понимать	X (понимать) Y		TR			TR							
-30	Chinese_Mandarin	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		TR			TR							
-30	Chinese_Mandarin	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		NOM	YONG		YONG							
-30	Chinese_Mandarin	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM	ZAI		ZAI							
-30	Chinese_Mandarin	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM	GEI		GEI							
-30	Chinese_Mandarin	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		TR			TR							
-30	Chinese_Mandarin	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		NOM	HE		HE							
-30	Chinese_Mandarin	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		TR			TR							
-30	Chinese_Mandarin	86	drop	X (drop) Y	ронять	X (ронять) Y		TR			TR							
-30	Chinese_Mandarin	87	govern	X (govern) Y	руководить	X (руководить) Y		TR			TR							
-30	Chinese_Mandarin	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		TR			TR							
-30	Chinese_Mandarin	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		TR			TR							
-30	Chinese_Mandarin	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		TR			TR							
-30	Chinese_Mandarin	91	listen	X (listen) to Y	слушать	X (слушать) Y		TR			TR							
-30	Chinese_Mandarin	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*				ИГ (слушает речь кого-то)						
-30	Chinese_Mandarin	93	hear	X (hear) Y	слышать	X (слышать) Y		TR			TR							
-30	Chinese_Mandarin	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	HE		HE	"Там еще вообще-то какой-то ""предлог"", но по-моему, он входитв предикат"						
-30	Chinese_Mandarin	95	look	X (look) at Y	смотреть	X (смотреть) на Y		TR			TR							
-30	Chinese_Mandarin	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		TR			TR							
-30	Chinese_Mandarin	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		TR			TR							
-30	Chinese_Mandarin	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		*				ИГ (Согласился с мнением кого-то)						
-30	Chinese_Mandarin	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	HE		HE							
-30	Chinese_Mandarin	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		TR			TR							
-30	Chinese_Mandarin	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	XIANG		XIANG							
-30	Chinese_Mandarin	102	pour	X (pour) Y	сыпать	X (сыпать) Y		TR			TR							
-30	Chinese_Mandarin	103	lose	X (lose) Y	терять	X (терять) Y		TR			TR							
-30	Chinese_Mandarin	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	ZAI		ZAI							
-30	Chinese_Mandarin	105	kill	X (kill) Y	убивать	X (убивать) Y-а		TR			TR							
-30	Chinese_Mandarin	106	hit	X (hit) Y	ударить	X (ударять) Y-а		TR			TR							
-30	Chinese_Mandarin	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		TR			TR							
-30	Chinese_Mandarin	108	read	X (read) Y	читать	X (читать) Y-а		TR			TR							
-30	Chinese_Mandarin	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		TR			TR							
-30	Chinese_Mandarin	110	respect	X (respect) Y	уважать	X (уважать) Y-а		TR			TR							
-30	Chinese_Mandarin	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*				Нет эквивалента						
-30	Chinese_Mandarin	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		NOM	DUI		DUI							
-30	Chinese_Mandarin	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		TR			TR							
-30	Chinese_Mandarin	114	trust	X (trust) Y	доверять	X (доверять) Y-у		TR			TR							
-30	Chinese_Mandarin	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		TR			TR							
-30	Chinese_Mandarin	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		TR			TR							
-30	Chinese_Mandarin	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		NOM	DUI		DUI							
-30	Chinese_Mandarin	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		NOM	DUI		DUI							
-30	Chinese_Mandarin	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		TR			TR							
-30	Chinese_Mandarin	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		TR			TR							
-30	Chinese_Mandarin	121	want	X (want) Y	хотеть	X (хотеть) Y-а		TR			TR							
-30	Chinese_Mandarin	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		NOM	DUI		DUI							
-30	Chinese_Mandarin	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		TR			TR	В таблице не было перечислено, но не вижу никаких препятствий по примеру считать переходным						
-30	Chinese_Mandarin	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		*				Не найдено эквивалента						
-30	Chinese_Mandarin	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	DUI		DUI							
-30	Chinese_Mandarin	126	despise	X (despise) Y	презирать	X (презирать) Y-а		TR			TR							
-30	Chinese_Mandarin	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	YIN		YIN							
-30	Chinese_Mandarin	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		NOM	DUI		DUI							
-30	Chinese_Mandarin	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		NOM	DUI		DUI	CV, но не вижу оснований не считать						
-30	Chinese_Mandarin	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		NOM	YIN		YIN							
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
+30	Chinese_Mandarin	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*	*	*								ИГ		
+30	Chinese_Mandarin	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*	*	*								ИГ (кажется, еще есть конструкция TR)		
+30	Chinese_Mandarin	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	7	believe	X (believe) Y	верить	X (верить)Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	8	take	X (take) Y	взять	X (брать) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	9	see	X (see) Y	видеть	X (видеть) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		SBJ	DO	TR	TR							Не совсем понимаю, какие-то модификаторы внутри глагола (DIR), хотя в целом похоже на переходную конструкцию		
+30	Chinese_Mandarin	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		SBJ	DO	TR	TR							Не совсем понимаю, какие-то модификаторы внутри глагола (DIR), хотя в целом похоже на переходную конструкцию		
+30	Chinese_Mandarin	15	drive	X (drive) Y	гнать	X (гнать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	16	bend	X (bend) Y	гнуть	X (гнуть) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	17	tell	X (tell) Y	говорить	X (говорить) Y-у		SBJ	dui	Y	SBJ_dui									
+30	Chinese_Mandarin	18	hold	X (hold)Y	держать	X (держать) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	20	milk	X (milk) Y	доить	X (доить) Y-а		SBJ	gei	Y	SBJ_gei									
+30	Chinese_Mandarin	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		SBJ	DO	TR	TR							Не совсем понимаю, какие-то модификаторы внутри глагола (DIR), хотя в целом похоже на переходную конструкцию		
+30	Chinese_Mandarin	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		SBJ	he	Y	SBJ_he									
+30	Chinese_Mandarin	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		SBJ	he	Y	SBJ_he									
+30	Chinese_Mandarin	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	26	eat	X (eat) Y	есть	X (есть) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	27	fry	X (fry) Y	жарить	X (жарить) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	31	call	X (call) Y	звать	X (звать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		SBJ	he	Y	SBJ_he									
+30	Chinese_Mandarin	33	know	X (know) Y	знать 	X (знать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	36	make	X (make) Y	изготовить	X (изготовить) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	38	have	X (have) Y	иметь	X (иметь) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	40	paint	X (paint) Y	красить	X (красить) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	41	bite	X (bite) Y	кусать	X (кусать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	44	break	X (break) Y	ломать	X (ломать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	47	wave	X (wave) Y	махать	X (махать) Y-ом		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	49	wash	X (wash) Y	мыть	X (мыть) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	50	put_on	X (put_on) Y	надевать	X (надевать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	51	be_called	X (be_called) Y	называться	X (называться) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		*	*	*								Сказано, что это какой-то особый экзистенциальный оброт с инверсией		
+30	Chinese_Mandarin	55	find	X (find) Y	находить	X (находить) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	58	like	X (like) Y	нравиться	X-у (нравиться) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	63	open	X (open) Y	открывать	X (открывать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		SBJ	yu	Y	SBJ_yu									
+30	Chinese_Mandarin	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		*	*	*								какой-то странный CV		
+30	Chinese_Mandarin	66	plough	X (plough) Y	пахать	X (пахать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*								запах бензина		
+30	Chinese_Mandarin	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	69	sing	X (sing) Y	петь	X (петь) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	70	write	X (write) Y	писать	X (писать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	71	drink	X (drink) Y	пить	X (пить) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	72	melt	X (melt) Y	плавить	X (плавить) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	75	cover	X (cover) Y	покрывать	X (покрывать) Y		*	*	*								Сказано, что это какой-то особый экзистенциальный оброт с инверсией		
+30	Chinese_Mandarin	76	remember	X (remember) Y	помнить	X (помнить) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	77	help	X (help) Y	помочь	X (помогать) Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	78	understand	X (understand) Y	понимать	X (понимать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		SBJ	yong	Y	SBJ_yong									
+30	Chinese_Mandarin	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		SBJ	zai	Y	SBJ_zai									
+30	Chinese_Mandarin	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		SBJ	gei	Y	SBJ_gei									
+30	Chinese_Mandarin	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		SBJ	he	Y	SBJ_he									
+30	Chinese_Mandarin	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	86	drop	X (drop) Y	ронять	X (ронять) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	87	govern	X (govern) Y	руководить	X (руководить) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	91	listen	X (listen) to Y	слушать	X (слушать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*	*	*								ИГ (слушает речь кого-то)		
+30	Chinese_Mandarin	93	hear	X (hear) Y	слышать	X (слышать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		SBJ	he	Y	SBJ_he							"Там еще вообще-то какой-то ""предлог"", но по-моему, он входитв предикат"		
+30	Chinese_Mandarin	95	look	X (look) at Y	смотреть	X (смотреть) на Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		*	*	*								ИГ (Согласился с мнением кого-то)		
+30	Chinese_Mandarin	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		SBJ	he	Y	SBJ_he									
+30	Chinese_Mandarin	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		SBJ	xiang	Y	SBJ_xiang									
+30	Chinese_Mandarin	102	pour	X (pour) Y	сыпать	X (сыпать) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	103	lose	X (lose) Y	терять	X (терять) Y		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		SBJ	zai	Y	SBJ_zai									
+30	Chinese_Mandarin	105	kill	X (kill) Y	убивать	X (убивать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	106	hit	X (hit) Y	ударить	X (ударять) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	108	read	X (read) Y	читать	X (читать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	110	respect	X (respect) Y	уважать	X (уважать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*	*	*								Нет эквивалента		
+30	Chinese_Mandarin	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		SBJ	dui	Y	SBJ_dui									
+30	Chinese_Mandarin	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	114	trust	X (trust) Y	доверять	X (доверять) Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		SBJ	dui	Y	SBJ_dui									
+30	Chinese_Mandarin	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		SBJ	dui	Y	SBJ_dui									
+30	Chinese_Mandarin	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	121	want	X (want) Y	хотеть	X (хотеть) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		SBJ	dui	Y	SBJ_dui									
+30	Chinese_Mandarin	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		SBJ	DO	TR	TR							В таблице не было перечислено, но не вижу никаких препятствий по примеру считать переходным		
+30	Chinese_Mandarin	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		*	*	*								Не найдено эквивалента		
+30	Chinese_Mandarin	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		SBJ	dui	Y	SBJ_dui									
+30	Chinese_Mandarin	126	despise	X (despise) Y	презирать	X (презирать) Y-а		SBJ	DO	TR	TR									
+30	Chinese_Mandarin	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		SBJ	yin	Y	SBJ_yin									
+30	Chinese_Mandarin	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		SBJ	dui	Y	SBJ_dui									
+30	Chinese_Mandarin	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		SBJ	dui	Y	SBJ_dui							CV, но не вижу оснований не считать		
+30	Chinese_Mandarin	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		SBJ	yin	Y	SBJ_yin									

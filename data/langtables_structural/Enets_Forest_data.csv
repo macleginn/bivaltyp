@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-46	Enets_Forest	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	dʲe	NOM	NOM		NOMNOM							
-46	Enets_Forest	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	kadi	NOM	LOC		NOMLOC							
-46	Enets_Forest	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	piis	TR			TR							
-46	Enets_Forest	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bɛɛ	TR			TR							
-46	Enets_Forest	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	tɔɔri	NOM	NOM		NOMNOM							
-46	Enets_Forest	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	puza	TR			TR							
-46	Enets_Forest	7	believe	X (believe) Y	верить	X (верить)Y-у	pudiri	NOM	DAT		NOMDAT							
-46	Enets_Forest	8	take	X (take) Y	взять	X (брать) Y(-а)	mu	TR			TR							
-46	Enets_Forest	9	see	X (see) Y	видеть	X (видеть) Y(-а)	mɔdee	TR			TR							
-46	Enets_Forest	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*	*									
-46	Enets_Forest	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	dʲɛzta	TR			TR							
-46	Enets_Forest	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	tʃu	NOM	DAT		NOMDAT							
-46	Enets_Forest	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	mɔtes	NOM	ABL		NOMABL							
-46	Enets_Forest	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ɔziu	NOM	ABL		NOMABL							
-46	Enets_Forest	15	drive	X (drive) Y	гнать	X (гнать) Y-а	tanir	TR			TR							
-46	Enets_Forest	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bujurta	TR			TR							
-46	Enets_Forest	17	tell	X (tell) Y	говорить	X (говорить) Y-у	man	NOM	DAT		NOMDAT							
-46	Enets_Forest	18	hold	X (hold)Y	держать	X (держать) Y(-а)	nɔɔbera	TR			TR							
-46	Enets_Forest	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	dʲɔbu	TR			TR							
-46	Enets_Forest	20	milk	X (milk) Y	доить	X (доить) Y-а	dɔir	TR			TR							
-46	Enets_Forest	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	tɔɔ	NOM	DAT		NOMDAT							
-46	Enets_Forest	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	tʃurxur	NOM	GEN + d'ez		NOMdez							
-46	Enets_Forest	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	tarur	NOM	LOC		NOMLOC							
-46	Enets_Forest	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*	*	*									
-46	Enets_Forest	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	biis	TR			TR							
-46	Enets_Forest	26	eat	X (eat) Y	есть	X (есть) Y	ɔ	TR			TR							
-46	Enets_Forest	27	fry	X (fry) Y	жарить	X (жарить) Y	dʲasu	TR			TR							
-46	Enets_Forest	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	ɔte	TR			TR							
-46	Enets_Forest	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	dʲurta	TR			TR							
-46	Enets_Forest	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	pɛri	NOM	ABL		NOMABL							
-46	Enets_Forest	31	call	X (call) Y	звать	X (звать) Y-а	kata	TR			TR							
-46	Enets_Forest	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	*	*	*									
-46	Enets_Forest	33	know	X (know) Y	знать 	X (знать) Y-а	tɛne	TR			TR							
-46	Enets_Forest	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	sɛnuko	NOM	LOC		NOMLOC							
-46	Enets_Forest	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	*	*	*									
-46	Enets_Forest	36	make	X (make) Y	изготовить	X (изготовить) Y	mɛ	TR			TR							
-46	Enets_Forest	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	piʃizi	TR			TR							
-46	Enets_Forest	38	have	X (have) Y	иметь	X (иметь) Y	tɔne	NOM	NOM		NOMNOM							
-46	Enets_Forest	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	per	TR			TR							
-46	Enets_Forest	40	paint	X (paint) Y	красить	X (красить) Y	*	*	*									
-46	Enets_Forest	41	bite	X (bite) Y	кусать	X (кусать) Y-а	sɛk(u)ru	TR			TR							
-46	Enets_Forest	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*	*									
-46	Enets_Forest	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	nɔɔjru	TR			TR							
-46	Enets_Forest	44	break	X (break) Y	ломать	X (ломать) Y	mɔree	TR			TR							
-46	Enets_Forest	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	naldur	NOM	DAT		NOMDAT							
-46	Enets_Forest	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	kɔmita	TR			TR							
-46	Enets_Forest	47	wave	X (wave) Y	махать	X (махать) Y-ом	lɛbitur	NOM	LOC		NOMLOC							
-46	Enets_Forest	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*	*									
-46	Enets_Forest	49	wash	X (wash) Y	мыть	X (мыть) Y	kɔlta	TR			TR							
-46	Enets_Forest	50	put_on	X (put_on) Y	надевать	X (надевать) Y	dʲebis	TR			TR							
-46	Enets_Forest	51	be_called	X (be_called) Y	называться	X (называться) Y	*	*	*									
-46	Enets_Forest	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*	*									
-46	Enets_Forest	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	*	*	*									
-46	Enets_Forest	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	padi	NOM	DAT		NOMDAT							
-46	Enets_Forest	55	find	X (find) Y	находить	X (находить) Y(-а)	ko	TR			TR							
-46	Enets_Forest	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	tɔɔri + NEG	NOM	NOM		NOMNOM							
-46	Enets_Forest	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	nɛseza	TR			TR							
-46	Enets_Forest	58	like	X (like) Y	нравиться	X-у (нравиться) Y	kɔmita	TR			TR							
-46	Enets_Forest	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	magu	TR			TR							
-46	Enets_Forest	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	*	*	*									
-46	Enets_Forest	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	kaji	NOM	NOM		NOMNOM							
-46	Enets_Forest	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	*	*	*									
-46	Enets_Forest	63	open	X (open) Y	открывать	X (открывать) Y	nɛte	TR			TR							
-46	Enets_Forest	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	d'ɔgod	NOM	ABL		NOMABL							
-46	Enets_Forest	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	kaji	NOM	ABL		NOMABL							
-46	Enets_Forest	66	plough	X (plough) Y	пахать	X (пахать) Y	kɔbudu	TR			TR							
-46	Enets_Forest	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	ɔtis	NOM	LOC		NOMLOC							
-46	Enets_Forest	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	kanʲi	NOM	GEN + nɔru		NOMnoro							
-46	Enets_Forest	69	sing	X (sing) Y	петь	X (петь) Y	kinus	TR			TR							
-46	Enets_Forest	70	write	X (write) Y	писать	X (писать) Y	pazu	TR			TR							
-46	Enets_Forest	71	drink	X (drink) Y	пить	X (пить) Y	ixuru	TR			TR							
-46	Enets_Forest	72	melt	X (melt) Y	плавить	X (плавить) Y	dʲuta	TR			TR							
-46	Enets_Forest	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	*	*	*									
-46	Enets_Forest	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	kajus	TR			TR							
-46	Enets_Forest	75	cover	X (cover) Y	покрывать	X (покрывать) Y	sɛja	TR			TR							
-46	Enets_Forest	76	remember	X (remember) Y	помнить	X (помнить) Y-а	biis	TR			TR							
-46	Enets_Forest	77	help	X (help) Y	помочь	X (помогать) Y-у	perzi	TR			TR							
-46	Enets_Forest	78	understand	X (understand) Y	понимать	X (понимать) Y	kamiku	TR			TR							
-46	Enets_Forest	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	tɛbu	NOM	DAT		NOMDAT							
-46	Enets_Forest	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	mɔta	NOM	LOC		NOMLOC							
-46	Enets_Forest	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	tɔzu	NOM	DAT		NOMDAT							
-46	Enets_Forest	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	mɔteltau (?)	NOM	DAT		NOMDAT							
-46	Enets_Forest	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ɛdiu	NOM	DAT		NOMDAT							
-46	Enets_Forest	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	dʲɔrir	NOM	LOC		NOMLOC							
-46	Enets_Forest	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	sɔjata	TR			TR							
-46	Enets_Forest	86	drop	X (drop) Y	ронять	X (ронять) Y	sumɔjta	TR			TR							
-46	Enets_Forest	87	govern	X (govern) Y	руководить	X (руководить) Y	*	*	*									
-46	Enets_Forest	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	tudilur	NOM	GEN + neon		NOMneon							
-46	Enets_Forest	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	d'az 	NOM	GEN + pɔɔn		NOMpoon							
-46	Enets_Forest	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	kaʔa	NOM	GEN + n'iz		NOMniz							
-46	Enets_Forest	91	listen	X (listen) to Y	слушать	X (слушать) Y	dʲuz(i)re	NOM	GEN + d'ez		NOMdez							
-46	Enets_Forest	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	dʲuz(i)re	NOM	DAT		NOMDAT							
-46	Enets_Forest	93	hear	X (hear) Y	слышать	X (слышать) Y	nɔda	TR			TR							
-46	Enets_Forest	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	taxari	NOM	LOC		NOMLOC							
-46	Enets_Forest	95	look	X (look) at Y	смотреть	X (смотреть) на Y	senir	NOM	GEN + d'ez		NOMdez							
-46	Enets_Forest	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	dʲika	TR			TR							
-46	Enets_Forest	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nɔmaxanda mɔdee	TR			TR							
-46	Enets_Forest	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	*	*	*									
-46	Enets_Forest	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	kauzur	NOM	LOC		NOMLOC							
-46	Enets_Forest	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*	*									
-46	Enets_Forest	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	dʲɔza	TR			TR							
-46	Enets_Forest	102	pour	X (pour) Y	сыпать	X (сыпать) Y	bata	TR			TR							
-46	Enets_Forest	103	lose	X (lose) Y	терять	X (терять) Y	dʲɔs	TR			TR							
-46	Enets_Forest	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sija	NOM	DAT		NOMDAT							
-46	Enets_Forest	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kaza	TR			TR							
-46	Enets_Forest	106	hit	X (hit) Y	ударить	X (ударять) Y-а	dʲɔzi	TR			TR							
-46	Enets_Forest	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	nʲujza	TR			TR							
-46	Enets_Forest	108	read	X (read) Y	читать	X (читать) Y-а	tota	TR			TR							
-46	Enets_Forest	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	buz(i)da	NOM	LOC		NOMLOC							
-46	Enets_Forest	110	respect	X (respect) Y	уважать	X (уважать) Y-а	*	*	*									
-46	Enets_Forest	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	nɔsza	TR			TR							
-46	Enets_Forest	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	*	*	*									
-46	Enets_Forest	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	*	*	*									
-46	Enets_Forest	114	trust	X (trust) Y	доверять	X (доверять) Y-у	dʲeɔdur	NOM	DAT		NOMDAT							
-46	Enets_Forest	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sɛr	TR			TR							
-46	Enets_Forest	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	*	*	*									
-46	Enets_Forest	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	barzir	NOM	GEN + d'ez		NOMdez							
-46	Enets_Forest	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	dʲɔki	NOM	ABL		NOMABL							
-46	Enets_Forest	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	kɔmita	TR			TR							
-46	Enets_Forest	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*	*									
-46	Enets_Forest	121	want	X (want) Y	хотеть	X (хотеть) Y-а	kɔma	NOM	DAT		NOMDAT							
-46	Enets_Forest	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	*	*	*									
-46	Enets_Forest	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*	*	*									
-46	Enets_Forest	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	*	*	*									
-46	Enets_Forest	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*	*									
-46	Enets_Forest	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*	*									
-46	Enets_Forest	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*	*									
-46	Enets_Forest	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	bɔbur	NOM	GEN + d'ez		NOMdez							
-46	Enets_Forest	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*									
-46	Enets_Forest	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	pajaru	NOM	ABL		NOMABL							
+46	Enets_Forest	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	dʲe	TOP	NOM	X	TOP_NOM							номинативный посессор, не совсем внутренний, засчитываю
+46	Enets_Forest	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	kadi	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	piis	NOM	OBL	TR	TR							
+46	Enets_Forest	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bɛɛ	NOM	OBL	TR	TR							
+46	Enets_Forest	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	tɔɔri	TOP	NOM	X	TOP_NOM							номинативный посессор, не совсем внутренний, засчитываю
+46	Enets_Forest	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	puza	NOM	OBL	TR	TR							Есть другой вариант: сочетание глагола 'быть' с послелогом d'ez
+46	Enets_Forest	7	believe	X (believe) Y	верить	X (верить)Y-у	pudiri	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	8	take	X (take) Y	взять	X (брать) Y(-а)	mu	NOM	OBL	TR	TR							
+46	Enets_Forest	9	see	X (see) Y	видеть	X (видеть) Y(-а)	mɔdee	NOM	OBL	TR	TR							
+46	Enets_Forest	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*	*	*								
+46	Enets_Forest	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	dʲɛzta	NOM	OBL	TR	TR							
+46	Enets_Forest	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	tʃu	NOM	DAT	Y	NOM_DAT							Другой вариант оформления Y -- послелог mi? 'в(DIR)', но датив более нейтральное
+46	Enets_Forest	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	mɔtes	NOM	ABL	Y	NOM_ABL							Трехместный: обязательно указание того, что выиграл, в ACC
+46	Enets_Forest	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ɔziu	NOM	ABL	Y	NOM_ABL							
+46	Enets_Forest	15	drive	X (drive) Y	гнать	X (гнать) Y-а	tanir	NOM	OBL	TR	TR							
+46	Enets_Forest	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bujurta	NOM	OBL	TR	TR							
+46	Enets_Forest	17	tell	X (tell) Y	говорить	X (говорить) Y-у	man	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	18	hold	X (hold)Y	держать	X (держать) Y(-а)	nɔɔbera	NOM	OBL	TR	TR							
+46	Enets_Forest	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	dʲɔbu	NOM	OBL	TR	TR							
+46	Enets_Forest	20	milk	X (milk) Y	доить	X (доить) Y-а	dɔir	NOM	OBL	TR	TR							глагол заимствован из русского
+46	Enets_Forest	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	tɔɔ	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	tʃurxur	NOM	GENdez	Y	NOM_GENdez							Скорее всего, трехместный, с тем, чем дотронулся, в ACC. Послелоги всегда с генитивом
+46	Enets_Forest	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	tarur	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*	*	*	*								
+46	Enets_Forest	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	biis	NOM	OBL	TR	TR							Тот же глагол, что 76 ПОМНИТЬ
+46	Enets_Forest	26	eat	X (eat) Y	есть	X (есть) Y	ɔ	NOM	OBL	TR	TR							
+46	Enets_Forest	27	fry	X (fry) Y	жарить	X (жарить) Y	dʲasu	NOM	OBL	TR	TR							Глагол значит 'жарить на палочке', просто 'жарить' нет
+46	Enets_Forest	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	ɔte	NOM	OBL	TR	TR							
+46	Enets_Forest	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	dʲurta	NOM	OBL	TR	TR							
+46	Enets_Forest	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	pɛri	NOM	ABL	Y	NOM_ABL							Глагол значит 'держаться', в данном случае в более абстрактном смысле; стимул был 'Ягоды зависят от погоды', 'Погода зависит от неба' и т.п.
+46	Enets_Forest	31	call	X (call) Y	звать	X (звать) Y-а	kata	NOM	OBL	TR	TR							
+46	Enets_Forest	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	*	*	*	*								
+46	Enets_Forest	33	know	X (know) Y	знать 	X (знать) Y-а	tɛne	NOM	OBL	TR	TR							
+46	Enets_Forest	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	sɛnuko	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	*	*	*	*								
+46	Enets_Forest	36	make	X (make) Y	изготовить	X (изготовить) Y	mɛ	NOM	OBL	TR	TR							
+46	Enets_Forest	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	piʃizi	NOM	OBL	TR	TR							Глагол обычно переводится 'высмеивать, насмехаться'
+46	Enets_Forest	38	have	X (have) Y	иметь	X (иметь) Y	tɔne	TOP	NOM	X	TOP_NOM							номинативный посессор, не совсем внутренний, засчитываю
+46	Enets_Forest	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	per	NOM	OBL	TR	TR							
+46	Enets_Forest	40	paint	X (paint) Y	красить	X (красить) Y	*	*	*	*								
+46	Enets_Forest	41	bite	X (bite) Y	кусать	X (кусать) Y-а	sɛk(u)ru	NOM	OBL	TR	TR							
+46	Enets_Forest	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*	*	*								Используется показатель каритива на Y и глагол 'остаться'
+46	Enets_Forest	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	nɔɔjru	NOM	OBL	TR	TR							
+46	Enets_Forest	44	break	X (break) Y	ломать	X (ломать) Y	mɔree	NOM	OBL	TR	TR							
+46	Enets_Forest	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	naldur	NOM	DAT	Y	NOM_DAT							Глагол обычно переводится 'подлизываться'
+46	Enets_Forest	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	kɔmita	NOM	OBL	TR	TR							тот же глагол, что 119 ЛЮБИТЬ2 и 58 НРАВИТЬСЯ
+46	Enets_Forest	47	wave	X (wave) Y	махать	X (махать) Y-ом	lɛbitur	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*	*	*								
+46	Enets_Forest	49	wash	X (wash) Y	мыть	X (мыть) Y	kɔlta	NOM	OBL	TR	TR							
+46	Enets_Forest	50	put_on	X (put_on) Y	надевать	X (надевать) Y	dʲebis	NOM	OBL	TR	TR							
+46	Enets_Forest	51	be_called	X (be_called) Y	называться	X (называться) Y	*	*	*	*								
+46	Enets_Forest	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*	*	*								
+46	Enets_Forest	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	*	*	*	*								
+46	Enets_Forest	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	padi	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	55	find	X (find) Y	находить	X (находить) Y(-а)	ko	NOM	OBL	TR	TR							
+46	Enets_Forest	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	tɔɔri + NEG	TOP	NOM	X	TOP_NOM							"используется отрицательная форма глагола 'быть достаточным' (5). Т.е. буквально ""Петин один долллар недостаточен"""
+46	Enets_Forest	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	nɛseza	NOM	OBL	TR	TR							
+46	Enets_Forest	58	like	X (like) Y	нравиться	X-у (нравиться) Y	kɔmita	NOM	OBL	TR	TR							тот же глагол, что 46 ЛЮБИТЬ1 и 119 ЛЮБИТЬ2 
+46	Enets_Forest	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	magu	NOM	OBL	TR	TR							
+46	Enets_Forest	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	*	*	*	*								
+46	Enets_Forest	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	kaji	TOP	NOM	X	TOP_NOM							номинативный посессор, не совсем внутренний, засчитываю. Тот же глагол, что 65 ОТСТАТЬ
+46	Enets_Forest	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	*	*	*	*								Нет эквивалента
+46	Enets_Forest	63	open	X (open) Y	открывать	X (открывать) Y	nɛte	NOM	OBL	TR	TR							
+46	Enets_Forest	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	d'ɔgod	NOM	ABL	Y	NOM_ABL							NV; Прилагательное
+46	Enets_Forest	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	kaji	NOM	ABL	Y	NOM_ABL							Тот же глагол, что 61 ОСТАТЬСЯ
+46	Enets_Forest	66	plough	X (plough) Y	пахать	X (пахать) Y	kɔbudu	NOM	OBL	TR	TR							Глагол значит 'обдирать'
+46	Enets_Forest	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	ɔtis	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	kanʲi	NOM	GENnoru	Y	NOM_GENnoru							"Сам глагол kanʲi значит ""уйти"", значение ""пересечь"" возникает из-за послелога nɔru 'через'"
+46	Enets_Forest	69	sing	X (sing) Y	петь	X (петь) Y	kinus	NOM	OBL	TR	TR							
+46	Enets_Forest	70	write	X (write) Y	писать	X (писать) Y	pazu	NOM	OBL	TR	TR							
+46	Enets_Forest	71	drink	X (drink) Y	пить	X (пить) Y	ixuru	NOM	OBL	TR	TR							
+46	Enets_Forest	72	melt	X (melt) Y	плавить	X (плавить) Y	dʲuta	NOM	OBL	TR	TR							
+46	Enets_Forest	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	*	*	*	*								
+46	Enets_Forest	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	kajus	NOM	OBL	TR	TR							Глагол значит 'оставить'
+46	Enets_Forest	75	cover	X (cover) Y	покрывать	X (покрывать) Y	sɛja	NOM	OBL	TR	TR							
+46	Enets_Forest	76	remember	X (remember) Y	помнить	X (помнить) Y-а	biis	NOM	OBL	TR	TR							Тот же глагол, что 25 ДУМАТЬ
+46	Enets_Forest	77	help	X (help) Y	помочь	X (помогать) Y-у	perzi	NOM	OBL	TR	TR							
+46	Enets_Forest	78	understand	X (understand) Y	понимать	X (понимать) Y	kamiku	NOM	OBL	TR	TR							
+46	Enets_Forest	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	tɛbu	NOM	DAT	Y	NOM_DAT							Глагол значит 'ударить'
+46	Enets_Forest	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	mɔta	NOM	LOC	Y	NOM_LOC							Обязательно указание части тела (в ACC)
+46	Enets_Forest	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	tɔzu	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	mɔteltau (?)	NOM	DAT	Y	NOM_DAT							Обязательно указание того, что проиграл (в ACC)
+46	Enets_Forest	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ɛdiu	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	dʲɔrir	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	sɔjata	NOM	OBL	TR	TR							
+46	Enets_Forest	86	drop	X (drop) Y	ронять	X (ронять) Y	sumɔjta	NOM	OBL	TR	TR							
+46	Enets_Forest	87	govern	X (govern) Y	руководить	X (руководить) Y	*	*	*	*								
+46	Enets_Forest	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	tudilur	NOM	GENneon	Y	NOM_GENneon							"Есть еще одноместный глагол 'скучать' (tudur), поэтому беру глагол, который буквально значить ""соскучиться"", он спрягается возвратно"
+46	Enets_Forest	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	d'az 	NOM	GENpon	Y	NOM_GENpoon							"Сам глагол d'az значит ""идти"" "
+46	Enets_Forest	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	kaʔa	NOM	GENniz	Y	NOM_GENniz							
+46	Enets_Forest	91	listen	X (listen) to Y	слушать	X (слушать) Y	dʲuz(i)re	NOM	GENdez	Y	NOM_GENdez							Можно еще Y ACC. Тот же глагол, что 92 СЛУШАТЬСЯ
+46	Enets_Forest	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	dʲuz(i)re	NOM	DAT	Y	NOM_DAT							Тот же глагол, что 91 СЛУШАТЬ
+46	Enets_Forest	93	hear	X (hear) Y	слышать	X (слышать) Y	nɔda	NOM	OBL	TR	TR							
+46	Enets_Forest	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	taxari	NOM	LOC	Y	NOM_LOC							Глагол обозначает результат действия, состояние, т.е. 'смешанная'
+46	Enets_Forest	95	look	X (look) at Y	смотреть	X (смотреть) на Y	senir	NOM	GENdez	Y	NOM_GENdez							
+46	Enets_Forest	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	dʲika	NOM	OBL	TR	TR							
+46	Enets_Forest	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nɔmaxanda mɔdee	NOM	OBL	TR	TR							Буквально это сочетание значит 'видеть в (своем) сне'
+46	Enets_Forest	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	*	*	*	*								
+46	Enets_Forest	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	kauzur	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*	*	*								Используется вершина 'цена' и стоимость в предикативной позиции.
+46	Enets_Forest	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	dʲɔza	NOM	OBL	TR	TR							Y ACC используется вне зависимости от того, попал или не попал.
+46	Enets_Forest	102	pour	X (pour) Y	сыпать	X (сыпать) Y	bata	NOM	OBL	TR	TR							Глагол значит 'лить, сыпать'
+46	Enets_Forest	103	lose	X (lose) Y	терять	X (терять) Y	dʲɔs	NOM	OBL	TR	TR							
+46	Enets_Forest	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sija	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kaza	NOM	OBL	TR	TR							
+46	Enets_Forest	106	hit	X (hit) Y	ударить	X (ударять) Y-а	dʲɔzi	NOM	OBL	TR	TR							
+46	Enets_Forest	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	nʲujza	NOM	OBL	TR	TR							
+46	Enets_Forest	108	read	X (read) Y	читать	X (читать) Y-а	tota	NOM	OBL	TR	TR							Глагол значит 'читать, считать'
+46	Enets_Forest	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	buz(i)da	NOM	LOC	Y	NOM_LOC							
+46	Enets_Forest	110	respect	X (respect) Y	уважать	X (уважать) Y-а	*	*	*	*								
+46	Enets_Forest	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	nɔsza	NOM	OBL	TR	TR							
+46	Enets_Forest	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	*	*	*	*								
+46	Enets_Forest	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	*	*	*	*								
+46	Enets_Forest	114	trust	X (trust) Y	доверять	X (доверять) Y-у	dʲeɔdur	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sɛr	NOM	OBL	TR	TR							
+46	Enets_Forest	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	*	*	*	*								
+46	Enets_Forest	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	barzir	NOM	GENdez	Y	NOM_GENdez							
+46	Enets_Forest	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	dʲɔki	NOM	ABL	Y	NOM_ABL							Y при этом глаголе также может оформляться DAT, разница непонятна
+46	Enets_Forest	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	kɔmita	NOM	OBL	TR	TR							тот же глагол, что 46 ЛЮБИТЬ1 и 58 НРАВИТЬСЯ. Для перевода именно данного стимула в позиции Y используется глагольная номинализация (любит чаевничать), но если заменить на другую еду, то она будет оформляться ACC. 
+46	Enets_Forest	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*	*	*								
+46	Enets_Forest	121	want	X (want) Y	хотеть	X (хотеть) Y-а	kɔma	NOM	DAT	Y	NOM_DAT							
+46	Enets_Forest	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	*	*	*	*								То же, что 117 ЗЛИТЬСЯ
+46	Enets_Forest	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*	*	*	*								
+46	Enets_Forest	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	*	*	*	*								
+46	Enets_Forest	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*	*	*								
+46	Enets_Forest	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*	*	*								
+46	Enets_Forest	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*	*	*								
+46	Enets_Forest	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	bɔbur	NOM	GENdez	Y	NOM_GENdez							
+46	Enets_Forest	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*								
+46	Enets_Forest	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	pajaru	NOM	ABL	Y	NOM_ABL							

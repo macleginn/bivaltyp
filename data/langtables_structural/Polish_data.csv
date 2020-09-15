@@ -1,10 +1,10 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 31	Polish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	bol-i	ACC	NOM	X	ACC_NOM							
 31	Polish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	choruj-e	NOM	na_ACC	Y	NOM_na_ACC							
-31	Polish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	bo-i się	NOM	GEN	Y	NOM_GEN	REFL						
+31	Polish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	bo-i się	NOM	GEN	Y	NOM_GEN							REFL
 31	Polish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	rzuci-ł	TR		TR	TR							
 31	Polish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	wystarcz-a	DAT	GEN	XY	DAT_GEN							
-31	Polish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	podobn-a jest	NOM	do_GEN	Y	NOM_do_GEN	NV						
+31	Polish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	podobn-a jest	NOM	do_GEN	Y	NOM_do_GEN							NV
 31	Polish	7	believe	X (believe) Y	верить	X (верить)Y-у	wierz-y	NOM	DAT	Y	NOM_DAT							
 31	Polish	8	take	X (take) Y	взять	X (брать) Y(-а)	wzią-ł	TR		TR	TR							
 31	Polish	9	see	X (see) Y	видеть	X (видеть) Y(-а)	widz-i	TR		TR	TR							
@@ -21,8 +21,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 31	Polish	20	milk	X (milk) Y	доить	X (доить) Y-а	wydoi-ł-a	TR		TR	TR							
 31	Polish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	dotar-ł	NOM	do_GEN	Y	NOM_do_GEN							
 31	Polish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	dotkną-ł	NOM	GEN	Y	NOM_GEN							
-31	Polish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	bij-e się	NOM	z_INS	Y	NOM_z_INS	REFL						
-31	Polish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	przyjaźn-i się	NOM	z_INS	Y	NOM_z_INS	REFL						
+31	Polish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	bij-e się	NOM	z_INS	Y	NOM_z_INS							REFL
+31	Polish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	przyjaźn-i się	NOM	z_INS	Y	NOM_z_INS							REFL
 31	Polish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	myśl-i	NOM	o_LOC	Y	NOM_o_LOC							
 31	Polish	26	eat	X (eat) Y	есть	X (есть) Y	zjad-ł	TR		TR	TR							
 31	Polish	27	fry	X (fry) Y	жарить	X (жарить) Y	usmaży-ł	TR		TR	TR							
@@ -30,7 +30,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 31	Polish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	zapomnia-ł-a	NOM	o_LOC	Y	NOM_o_LOC							
 31	Polish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	zależ-y	NOM	od_GEN	Y	NOM_od_GEN							
 31	Polish	31	call	X (call) Y	звать	X (звать) Y-а	zawoła-ł	TR		TR	TR							
-31	Polish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	(za)pozna-ł się	NOM	z_INS	Y	NOM_z_INS	REFL						
+31	Polish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	(za)pozna-ł się	NOM	z_INS	Y	NOM_z_INS							REFL
 31	Polish	33	know	X (know) Y	знать 	X (знать) Y-а	zna	TR		TR	TR							
 31	Polish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	gra	NOM	na_LOC	Y	NOM_na_LOC							
 31	Polish	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	unika	NOM	GEN	Y	NOM_GEN							
@@ -49,10 +49,10 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 31	Polish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	marz-y	NOM	o_LOC	Y	NOM_o_LOC							
 31	Polish	49	wash	X (wash) Y	мыть	X (мыть) Y	umy-ł	TR		TR	TR							
 31	Polish	50	put_on	X (put_on) Y	надевать	X (надевать) Y	włoży-ł	TR		TR	TR							
-31	Polish	51	be_called	X (be_called) Y	называться	X (называться) Y	nazywa się	NOM	NOM	Y	NOM_NOM	REFL						
+31	Polish	51	be_called	X (be_called) Y	называться	X (называться) Y	nazywa się	NOM	NOM	Y	NOM_NOM							REFL
 31	Polish	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	ukara-ł	TR		TR	TR							
 31	Polish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	napad-ł	NOM	na_ACC	Y	NOM_na_ACC							
-31	Polish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	napełni-ł-o się	NOM	INS	Y	NOM_INS	REFL						
+31	Polish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	napełni-ł-o się	NOM	INS	Y	NOM_INS							REFL
 31	Polish	55	find	X (find) Y	находить	X (находить) Y(-а)	znalaz-ł	TR		TR	TR							
 31	Polish	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	brakuj-e	DAT	GEN	XY	DAT_GEN							
 31	Polish	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	nienawidz-i	NOM	GEN	Y	NOM_GEN							
@@ -62,8 +62,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 31	Polish	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	Zosta-ł-o	DAT	NOM	X	DAT_NOM							
 31	Polish	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	odpowiedzia-ł	NOM	DAT	Y	NOM_DAT							
 31	Polish	63	open	X (open) Y	открывать	X (открывать) Y	otworzy-ł	TR		TR	TR							
-31	Polish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	odróżnia się	NOM	od_GEN	Y	NOM_od_GEN	REFL						
-31	Polish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	została	*				Y не выразить, глагол сложный						
+31	Polish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	odróżnia się	NOM	od_GEN	Y	NOM_od_GEN							REFL
+31	Polish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	została	*										Y не выразить, глагол сложный
 31	Polish	66	plough	X (plough) Y	пахать	X (пахать) Y	orz-e	TR		TR	TR							
 31	Polish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	pachn-ą	NOM	INS	Y	NOM_INS							
 31	Polish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	przeszed-ł	TR		TR	TR							
@@ -78,10 +78,10 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 31	Polish	77	help	X (help) Y	помочь	X (помогать) Y-у	pomóg-ł	NOM	DAT	Y	NOM_DAT							
 31	Polish	78	understand	X (understand) Y	понимать	X (понимать) Y	rozumi-e	TR		TR	TR							
 31	Polish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	trafi-ł	NOM	w_ACC	Y	NOM_w_ACC							
-31	Polish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	zacią-ł się	NOM	INS	Y	NOM_INS	REFL						
-31	Polish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	przylepi-ł-a się	NOM	do_GEN	Y	NOM_do_GEN	REFL						
+31	Polish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	zacią-ł się	NOM	INS	Y	NOM_INS							REFL
+31	Polish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	przylepi-ł-a się	NOM	do_GEN	Y	NOM_do_GEN							REFL
 31	Polish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	przegra-ł	NOM	z_INS	Y	NOM_z_INS							
-31	Polish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ucieszy-ł się	NOM	z_GEN	Y	NOM_z_GEN	REFL						
+31	Polish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ucieszy-ł się	NOM	z_GEN	Y	NOM_z_GEN							REFL
 31	Polish	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	rozmawia	NOM	z_INS	Y	NOM_z_INS							
 31	Polish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	urodzi-ł-a	TR		TR	TR							
 31	Polish	86	drop	X (drop) Y	ронять	X (ронять) Y	upuści-ł-a	TR		TR	TR							
@@ -90,15 +90,15 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 31	Polish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	idzi-e	NOM	za_INS	Y	NOM_za_INS							
 31	Polish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	zszed-ł	NOM	z_GEN	Y	NOM_z_GEN							
 31	Polish	91	listen	X (listen) to Y	слушать	X (слушать) Y	słucha	NOM	GEN	Y	NOM_GEN							
-31	Polish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	słucha się	NOM	GEN	Y	NOM_GEN	REFL						
+31	Polish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	słucha się	NOM	GEN	Y	NOM_GEN							REFL
 31	Polish	93	hear	X (hear) Y	слышать	X (слышать) Y	słysz-y	TR		TR	TR							
-31	Polish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	zmiesza-ł się	NOM	z_INS	Y	NOM_z_INS	REFL						
+31	Polish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	zmiesza-ł się	NOM	z_INS	Y	NOM_z_INS							REFL
 31	Polish	95	look	X (look) at Y	смотреть	X (смотреть) на Y	patrz-y	NOM	na_ACC	Y	NOM_na_ACC							
 31	Polish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	zdję-ł-a	TR		TR	TR							
-31	Polish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	śn-i się	DAT	NOM	X	DAT_NOM	REFL						
-31	Polish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	zgodzi-ł-a się	NOM	z_INS	Y	NOM_z_INS	REFL						
-31	Polish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	pokłóci-ł-a się	NOM	z_INS	Y	NOM_z_INS	REFL						
-31	Polish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	kosztuj-e	TR		TR	TR	Вроде бы это не прямое дополнение						
+31	Polish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	śn-i się	DAT	NOM	X	DAT_NOM							REFL
+31	Polish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	zgodzi-ł-a się	NOM	z_INS	Y	NOM_z_INS							REFL
+31	Polish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	pokłóci-ł-a się	NOM	z_INS	Y	NOM_z_INS							REFL
+31	Polish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	kosztuj-e	TR		TR	TR							Вроде бы это не прямое дополнение
 31	Polish	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	strzeli-ł	NOM	do_GEN	Y	NOM_do_GEN							
 31	Polish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	wsypa-ł	TR		TR	TR							
 31	Polish	103	lose	X (lose) Y	терять	X (терять) Y	zgubi-ł	TR		TR	TR							
@@ -109,23 +109,23 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 31	Polish	108	read	X (read) Y	читать	X (читать) Y-а	przeczyta-ł-a	TR		TR	TR							
 31	Polish	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	poruszy-ł	NOM	INS	Y	NOM_INS							
 31	Polish	110	respect	X (respect) Y	уважать	X (уважать) Y-а	szanuj-e	TR		TR	TR							
-31	Polish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	brzydz-i się	NOM	INS	Y	NOM_INS	REFL						
-31	Polish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	by-ł zadowolon-y	NOM	z_GEN	Y	NOM_z_GEN	NV						
-31	Polish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	zakocha-ł się	NOM	w_LOC	Y	NOM_w_LOC	REFL						
+31	Polish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	brzydz-i się	NOM	INS	Y	NOM_INS							REFL
+31	Polish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	by-ł zadowolon-y	NOM	z_GEN	Y	NOM_z_GEN							NV
+31	Polish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	zakocha-ł się	NOM	w_LOC	Y	NOM_w_LOC							REFL
 31	Polish	114	trust	X (trust) Y	доверять	X (доверять) Y-у	ufa	NOM	DAT	Y	NOM_DAT							
 31	Polish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	żałuj-e	NOM	GEN	Y	NOM_GEN							
 31	Polish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	zazdrośc-i	NOM	DAT	Y	NOM_DAT							
-31	Polish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	gniew-a się	NOM	na_ACC	Y	NOM_na_ACC	REFL						
-31	Polish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	zdziwi-ł się	NOM	INS	Y	NOM_INS	REFL						
+31	Polish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	gniew-a się	NOM	na_ACC	Y	NOM_na_ACC							REFL
+31	Polish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	zdziwi-ł się	NOM	INS	Y	NOM_INS							REFL
 31	Polish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	lub-i	TR		TR	TR							
-31	Polish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	delektuj-e się	NOM	INS	Y	NOM_INS	REFL						
+31	Polish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	delektuj-e się	NOM	INS	Y	NOM_INS							REFL
 31	Polish	121	want	X (want) Y	хотеть	X (хотеть) Y-а	chc-e	TR		TR	TR							
-31	Polish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	wścieka się	NOM	na_ACC	Y	NOM_na_ACC	REFL						
-31	Polish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	obrazi-ł się	NOM	na_ACC	Y	NOM_na_ACC	REFL						
+31	Polish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	wścieka się	NOM	na_ACC	Y	NOM_na_ACC							REFL
+31	Polish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	obrazi-ł się	NOM	na_ACC	Y	NOM_na_ACC							REFL
 31	Polish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	zasmuci-ł	TR		TR	TR							
 31	Polish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	porazi-ł-o	ACC	NOM	X	ACC_NOM							
 31	Polish	126	despise	X (despise) Y	презирать	X (презирать) Y-а	gardz-i	NOM	INS	Y	NOM_INS							
-31	Polish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	zasmuci-ł się	NOM	z_powodu_GEN	Y	NOM_z_powodu_GEN	REFL						
-31	Polish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	drażn-i	*				"Был дан перевод ""его раздражает его дочь"""						
+31	Polish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	zasmuci-ł się	NOM	z_powodu_GEN	Y	NOM_z_powodu_GEN							REFL
+31	Polish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	drażn-i	*										"Был дан перевод ""его раздражает его дочь"""
 31	Polish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	lub-i	TR		TR	TR							
-31	Polish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	wstydz-i się	NOM	GEN	Y	NOM_GEN	REFL						
+31	Polish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	wstydz-i się	NOM	GEN	Y	NOM_GEN							REFL

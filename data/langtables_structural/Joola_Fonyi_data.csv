@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-48	Joola_Fonyi	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ri	GEN(ati)	SUBJ	X	GEN_SUBJ	intransitive construction with the complex NP (DC: yes, it is a genuine NP) ‘X ati Y’ in subject function, lit. ‘Y’s X aches’ (ati is a genitival linker). The verb is the same as 26 'eat'						
-48	Joola_Fonyi	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	sof 	OBJ	SUBJ		OBJ_SUBJ	transitive construction, but the illness is encoded as the subject (lit. ‘illness catches person’), same verb as 43						
-48	Joola_Fonyi	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	kólí 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	leeb	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	yaj 	OBJ	SUBJ	X	OBJ_SUBJ							
-48	Joola_Fonyi	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	nokoor	SUBJ	di	Y	SUBJ_di	X nokoor di Y ~ X di Y nokoor. intransitive constructions (di is a locative/comitative preposition, also used for NP coordination)						
-48	Joola_Fonyi	7	believe	X (believe) Y	верить	X (верить)Y-у	yínén	SUBJ	OBJ	TR	TR	Also an alternative verb fium (same construction), which was dispreferred because it was used for another entry (112)						
-48	Joola_Fonyi	8	take	X (take) Y	взять	X (брать) Y(-а)	ŋar 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	9	see	X (see) Y	видеть	X (видеть) Y(-а)	juk	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*					Fooñi has no simple equivalent of ‘influence ; various periphrases can be used, depending on the precise meaning.						
-48	Joola_Fonyi	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	yaañoor	SUBJ	di	Y	SUBJ_di	X di Y yaañoor ~ X yaañoor di Y. См. обсуждение промежуточных свойств этой конструкции (комитатив / сочинение) в анкете. Интересно, что даже при дистантном положении сочинение все равно по плюралису						
-48	Joola_Fonyi	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	noken 	SUBJ	di	Y	SUBJ_di							
-48	Joola_Fonyi	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ŋoolen 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	púr 	SUBJ	di	Y	SUBJ_di							
-48	Joola_Fonyi	15	drive	X (drive) Y	гнать	X (гнать) Y-а	leek 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	16	bend	X (bend) Y	гнуть	X (гнуть) Y	róngén 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	17	tell	X (tell) Y	говорить	X (говорить) Y-у	oon 	SUBJ	OBJ	TR	TR	The quotative verb oon is used exclusively to introduce reported speech. The adressee (Y) is encoded like the patient in the basic transitive construction. Z represents the quotation. There is also a ditransitive verb reg used to express things like ‘He told me the truth’.						
-48	Joola_Fonyi	18	hold	X (hold)Y	держать	X (держать) Y(-а)	eeken 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	soomen 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	20	milk	X (milk) Y	доить	X (доить) Y-а	lunt 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	ríiŋ	SUBJ	di	Y	SUBJ_di							
-48	Joola_Fonyi	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	gor	SUBJ	OBJ	TR	TR	Same verb as 79						
-48	Joola_Fonyi	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	teekoor	SUBJ	di	Y	SUBJ_di	Та же ситуация, что с глаголом 11						
-48	Joola_Fonyi	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	paaloor 	SUBJ	di	Y	SUBJ_di	X di Y paaloor ~ X paaloor di Y. intransitive construction (di is a locative/comitative preposition, also used for NP coordination)						
-48	Joola_Fonyi	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	wonoor 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	26	eat	X (eat) Y	есть	X (есть) Y	ri 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	27	fry	X (fry) Y	жарить	X (жарить) Y	bol 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	kob	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	loŋ	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*					Fooñi has no obvious equivalent of ‘depend on’; various periphrases are available depending on the precise meaning, for example ‘The whole family depends on him’ can be expressed as ‘It’s him who bears the whole family.’						
-48	Joola_Fonyi	31	call	X (call) Y	звать	X (звать) Y-а	wonk 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	manj 	SUBJ	OBJ	TR	TR	Same as 33						
-48	Joola_Fonyi	33	know	X (know) Y	знать 	X (знать) Y-а	manj	SUBJ	OBJ	TR	TR	Same as 32						
-48	Joola_Fonyi	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	tek 	SUBJ	OBJ	TR	TR	Same verb as 106 ('hit')						
-48	Joola_Fonyi	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	ŋom 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	36	make	X (make) Y	изготовить	X (изготовить) Y	joonen	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	lúu 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	38	have	X (have) Y	иметь	X (иметь) Y	baj	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	ñes 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	40	paint	X (paint) Y	красить	X (красить) Y	pentiir	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	41	bite	X (bite) Y	кусать	X (кусать) Y-а	rum 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	bono	SUBJ	OBJ	TR	TR	Interestingly, this verb has been borrowed from Mandinka, but the construction is different (extended intransitive in Mandinka, transitive in Fooñi)						
-48	Joola_Fonyi	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	sof 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	44	break	X (break) Y	ломать	X (ломать) Y	tuj 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	buntoor 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	maŋ 	SUBJ	OBJ	TR	TR	Same verb as 113, 119, 121, 129						
-48	Joola_Fonyi	47	wave	X (wave) Y	махать	X (махать) Y-ом	líisé 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	raano 	SUBJ	OBJ	TR	TR	Same verb as 88						
-48	Joola_Fonyi	49	wash	X (wash) Y	мыть	X (мыть) Y	pos 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	50	put_on	X (put_on) Y	надевать	X (надевать) Y	kaano	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	51	be_called	X (be_called) Y	называться	X (называться) Y	*					Трансимперсональная конструкция. In Fooñi, ‘X is called Y’ can only be rendered, either as lit. ‘they say to X “Y”’ (with a 3rd person plural subject interpreted as non-specific), or as ‘X’s name is Y’. Есть пример.						
-48	Joola_Fonyi	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*					Fooñi has no general equivalent of ‘punish’ ; the translation of English sentences including ‘punish’ implies specifying a particular type of punishment (‘They hit him’, They killed him’, ‘They put him in jail’, ‘They fined him’, etc.).						
-48	Joola_Fonyi	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	lóúm	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	meeŋ	SUBJ	OBJ	TR	TR	С тем же самым глаголом возможная и зеркальная конструкция (Y meeŋ X). Какая частотнее, DC не знает. Выбрал эту как первую и внешне более похожую на стимул.						
-48	Joola_Fonyi	55	find	X (find) Y	находить	X (находить) Y(-а)	took 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	*					"Значение выражается при помощи отрицания yaj, но это значит ""have enough"", и ""be enough"". Какая там синтаксическая структура, я так и не видел, но решил не засчитывать, раз это все равно уже имеющийся глагол только с отрицанием, к тому же не все понятно"						
-48	Joola_Fonyi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	lat	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	58	like	X (like) Y	нравиться	X-у (нравиться) Y	súum	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	soola	SUBJ	OBJ	TR	TR	Interestingly, this verb (whose ultimate source is Arabic) has been borrowed from Mandinka, but the construction is different (extended intransitive in Mandinka, transitive in Fooñi)						
-48	Joola_Fonyi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	ŋomen 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	riino	OBJ	OBJ	X	2OBJ_IMPERS	Impersonal double object construction (sth. like 'il m'est reste de l'argent). Также возможна, но более редка, конструкция Y riino X (cf. l'argent m'est reste). 						
-48	Joola_Fonyi	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	púk 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	63	open	X (open) Y	открывать	X (открывать) Y	kámbúl 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	búutóor	SUBJ	di	Y	SUBJ_di	X di Y búutóor ~ X búutóor di Y. intransitive constructions (di is a locative/comitative preposition, also used for NP coordination)						
-48	Joola_Fonyi	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	*					Наверное, не засчитываем. Можно сказать только либо X is behind Y (связка, семантики движения нет, как я понимаю; примера нет), либо Y обогнал X.						
-48	Joola_Fonyi	66	plough	X (plough) Y	пахать	X (пахать) Y	wanjer 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	put 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	típ 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	69	sing	X (sing) Y	петь	X (петь) Y	kím	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	70	write	X (write) Y	писать	X (писать) Y	kiik	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	71	drink	X (drink) Y	пить	X (пить) Y	raan	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	72	melt	X (melt) Y	плавить	X (плавить) Y	*					Только перифрастическая каузативная конструкция, которая в этом языке биклаузальная						
-48	Joola_Fonyi	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	reoor 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	katen 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	75	cover	X (cover) Y	покрывать	X (покрывать) Y	fímén 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	76	remember	X (remember) Y	помнить	X (помнить) Y-а	woolo 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	77	help	X (help) Y	помочь	X (помогать) Y-у	ramben 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	78	understand	X (understand) Y	понимать	X (понимать) Y	jam 	SUBJ	OBJ	TR	TR	Same verb as 93						
-48	Joola_Fonyi	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	gor 	SUBJ	OBJ	TR	TR	Same verb as 22						
-48	Joola_Fonyi	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	libo 	SUBJ	di	Y	SUBJ_di	libo ‘cut oneself’ derives from the transitive verb lib ‘cut’						
-48	Joola_Fonyi	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	kot	SUBJ	di	Y	SUBJ_di							
-48	Joola_Fonyi	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*					This verb has no obvious equivalent in Fooñi, and the meaning it expresses is normally expressed as ‘Y wins X’ (see 13).						
-48	Joola_Fonyi	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	maayoor	SUBJ	mati	Y	SUBJ_mati	intransitive construction (mati can be analyzed as a preposition ‘because of’)						
-48	Joola_Fonyi	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	sanken	SUBJ	di	Y	SUBJ_di							
-48	Joola_Fonyi	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	roŋ 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	86	drop	X (drop) Y	ронять	X (ронять) Y	*					Только перифрастическая каузативная конструкция, которая в этом языке биклаузальная						
-48	Joola_Fonyi	87	govern	X (govern) Y	руководить	X (руководить) Y	rung 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	raano 	SUBJ	OBJ	TR	TR	Same verb as 48						
-48	Joola_Fonyi	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	riiben 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	walo	SUBJ	di	Y	SUBJ_di							
-48	Joola_Fonyi	91	listen	X (listen) to Y	слушать	X (слушать) Y	janten 	SUBJ	OBJ	TR	TR	Same as 92						
-48	Joola_Fonyi	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	janten	SUBJ	OBJ	TR	TR	Same as 91						
-48	Joola_Fonyi	93	hear	X (hear) Y	слышать	X (слышать) Y	jam 	SUBJ	OBJ	TR	TR	Same verb as 78						
-48	Joola_Fonyi	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	símpóor	SUBJ	di	Y	SUBJ_di	X di Y símpóor ~ X símpóor di Y. Intransitive construction (di is a locative/comitative preposition, also used for NP coordination)						
-48	Joola_Fonyi	95	look	X (look) at Y	смотреть	X (смотреть) на Y	jikeer 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	lóopúló 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	yéwút 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	jamoor	SUBJ	di	Y	SUBJ_di	X di Y jamoor ~ X jamoor di Y. Intransitive construction (di is a locative/comitative preposition)						
-48	Joola_Fonyi	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	lob 	SUBJ	di	Y	SUBJ_di	X di Y lob, X lob di Y. Intransitive construction (di is a locative/comitative preposition, also used for NP coordination)						
-48	Joola_Fonyi	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*					There is no verb with this meaning in Fooñi, and ‘cost’ is usually expressed by means of a verbless construction, for example ‘This car, one million’.						
-48	Joola_Fonyi	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ya 	SUBJ	OBJ	TR	TR	X ya Y épímbén. double-object construction (épímbén ‘gun’)						
-48	Joola_Fonyi	102	pour	X (pour) Y	сыпать	X (сыпать) Y	yú 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	103	lose	X (lose) Y	терять	X (терять) Y	gím	GEN(ati)	SUBJ	X	GEN_SUBJ	lit. ‘X’s Y gets lost’ (¬ati is a genitival linker)						
-48	Joola_Fonyi	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	yúó	SUBJ	di	Y	SUBJ_di	intransitive construction (di is a locative/comitative preposition). → yúó derives from yú (102)						
-48	Joola_Fonyi	105	kill	X (kill) Y	убивать	X (убивать) Y-а	buj 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	106	hit	X (hit) Y	ударить	X (ударять) Y-а	tek 	SUBJ	OBJ	TR	TR	Same verb as 34 (play percussions, strings)						
-48	Joola_Fonyi	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	*					Kissing with the mouth is not traditional in West African cultures, and my Fooñi consultants did not put forward any possible equivalent of this verb.						
-48	Joola_Fonyi	108	read	X (read) Y	читать	X (читать) Y-а	karaŋ 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	goren	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	110	respect	X (respect) Y	уважать	X (уважать) Y-а	bóolí	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	giip	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	fium 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	maŋ 	SUBJ	OBJ	TR	TR	Same verb as 46, 119, 121, 129						
-48	Joola_Fonyi	114	trust	X (trust) Y	доверять	X (доверять) Y-у	gólúm 	SUBJ	OBJ	TR	TR	Alternative verb fium (same construction), which was dispreferred because it was used for another entry (112)						
-48	Joola_Fonyi	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	bóténí 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	kiiliyaa 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	leet 	SUBJ	OBJ	TR	TR	Same verb as 122 and 128						
-48	Joola_Fonyi	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	jaahali 	OBJ	SUBJ	X	OBJ_SUBJ	transitive construction, but the experiencer is encoded as the object, and the stimulus as the subject. → borrowed from Mandinka						
-48	Joola_Fonyi	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	maŋ 	SUBJ	OBJ	TR	TR	Same verb as 46, 113, 121, 129						
-48	Joola_Fonyi	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*					Fooñi has no simple equivalent of this verb ; the notion it expresses can only be rendered periphrastically.						
-48	Joola_Fonyi	121	want	X (want) Y	хотеть	X (хотеть) Y-а	maŋ 	SUBJ	OBJ	TR	TR	Same verb as 46, 113, 119, 129						
-48	Joola_Fonyi	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	leet 	SUBJ	OBJ	TR	TR	Same verb as 117 and 128						
-48	Joola_Fonyi	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*					Fooñi has a transitive verb lús ‘offend, vex’, but ‘take offence’ at can only be expressed periphrastically. 						
-48	Joola_Fonyi	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	táañí 	SUBJ	OBJ	TR	TR							
-48	Joola_Fonyi	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*					Fooñi has no obvious equivalent of this verb ; the notion it expresses can only be rendered periphrastically.						
-48	Joola_Fonyi	126	despise	X (despise) Y	презирать	X (презирать) Y-а	jútú 	SUBJ	OBJ	TR	TR	Interestingly, this verb has been borrowed from Mandinka, but the construction is different (extended intransitive in Mandinka, transitive in Fooñi)						
-48	Joola_Fonyi	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*					Fooñi has no obvious equivalent of this verb ; the notion it expresses can only be rendered periphrastically						
-48	Joola_Fonyi	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	leet 	SUBJ	OBJ	TR	TR	Same verb as 117 and 122						
-48	Joola_Fonyi	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	maŋ	SUBJ	OBJ	TR	TR	Same verb as 46, 113, 119, 121						
-48	Joola_Fonyi	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	puño	SUBJ	di	Y	SUBJ_di	Возможна также переходная конструкция с глаголом puñ, в котооой стимул занимает позицию подлежащего. puño образован от него при помощи детранзитивирующего / медиального показателя. Выбрал эту конструкции как более точно соответствующую стимулу и непереходную						
+48	Joola_Fonyi	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ri	ati	SBJ	X	ati_SBJ							intransitive construction with the complex NP (DC: yes, it is a genuine NP) ‘X ati Y’ in subject function, lit. ‘Y’s X aches’ (ati is a genitival linker). The verb is the same as 26 'eat'
+48	Joola_Fonyi	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	sof 	OBJ	SBJ		OBJ_SBJ							transitive construction, but the illness is encoded as the subject (lit. ‘illness catches person’), same verb as 43
+48	Joola_Fonyi	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	kólí 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	leeb	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	yaj 	OBJ	SBJ	X	OBJ_SBJ							
+48	Joola_Fonyi	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	nokoor	SBJ	di	Y	SBJ_di							X nokoor di Y ~ X di Y nokoor. intransitive constructions (di is a locative/comitative preposition, also used for NP coordination)
+48	Joola_Fonyi	7	believe	X (believe) Y	верить	X (верить)Y-у	yínén	SBJ	OBJ	TR	TR							Also an alternative verb fium (same construction), which was dispreferred because it was used for another entry (112)
+48	Joola_Fonyi	8	take	X (take) Y	взять	X (брать) Y(-а)	ŋar 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	9	see	X (see) Y	видеть	X (видеть) Y(-а)	juk	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*	*	*								Fooñi has no simple equivalent of ‘influence ; various periphrases can be used, depending on the precise meaning.
+48	Joola_Fonyi	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	yaañoor	SBJ	di	Y	SBJ_di							X di Y yaañoor ~ X yaañoor di Y. См. обсуждение промежуточных свойств этой конструкции (комитатив / сочинение) в анкете. Интересно, что даже при дистантном положении сочинение все равно по плюралису
+48	Joola_Fonyi	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	noken 	SBJ	di	Y	SBJ_di							
+48	Joola_Fonyi	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ŋoolen 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	púr 	SBJ	di	Y	SBJ_di							
+48	Joola_Fonyi	15	drive	X (drive) Y	гнать	X (гнать) Y-а	leek 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	16	bend	X (bend) Y	гнуть	X (гнуть) Y	róngén 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	17	tell	X (tell) Y	говорить	X (говорить) Y-у	oon 	SBJ	OBJ	TR	TR							The quotative verb oon is used exclusively to introduce reported speech. The adressee (Y) is encoded like the patient in the basic transitive construction. Z represents the quotation. There is also a ditransitive verb reg used to express things like ‘He told me the truth’.
+48	Joola_Fonyi	18	hold	X (hold)Y	держать	X (держать) Y(-а)	eeken 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	soomen 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	20	milk	X (milk) Y	доить	X (доить) Y-а	lunt 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	ríiŋ	SBJ	di	Y	SBJ_di							
+48	Joola_Fonyi	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	gor	SBJ	OBJ	TR	TR							Same verb as 79
+48	Joola_Fonyi	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	teekoor	SBJ	di	Y	SBJ_di							Та же ситуация, что с глаголом 11
+48	Joola_Fonyi	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	paaloor 	SBJ	di	Y	SBJ_di							X di Y paaloor ~ X paaloor di Y. intransitive construction (di is a locative/comitative preposition, also used for NP coordination)
+48	Joola_Fonyi	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	wonoor 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	26	eat	X (eat) Y	есть	X (есть) Y	ri 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	27	fry	X (fry) Y	жарить	X (жарить) Y	bol 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	kob	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	loŋ	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	*	*								Fooñi has no obvious equivalent of ‘depend on’; various periphrases are available depending on the precise meaning, for example ‘The whole family depends on him’ can be expressed as ‘It’s him who bears the whole family.’
+48	Joola_Fonyi	31	call	X (call) Y	звать	X (звать) Y-а	wonk 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	manj 	SBJ	OBJ	TR	TR							Same as 33
+48	Joola_Fonyi	33	know	X (know) Y	знать 	X (знать) Y-а	manj	SBJ	OBJ	TR	TR							Same as 32
+48	Joola_Fonyi	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	tek 	SBJ	OBJ	TR	TR							Same verb as 106 ('hit')
+48	Joola_Fonyi	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	ŋom 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	36	make	X (make) Y	изготовить	X (изготовить) Y	joonen	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	lúu 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	38	have	X (have) Y	иметь	X (иметь) Y	baj	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	ñes 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	40	paint	X (paint) Y	красить	X (красить) Y	pentiir	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	41	bite	X (bite) Y	кусать	X (кусать) Y-а	rum 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	bono	SBJ	OBJ	TR	TR							Interestingly, this verb has been borrowed from Mandinka, but the construction is different (extended intransitive in Mandinka, transitive in Fooñi)
+48	Joola_Fonyi	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	sof 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	44	break	X (break) Y	ломать	X (ломать) Y	tuj 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	buntoor 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	maŋ 	SBJ	OBJ	TR	TR							Same verb as 113, 119, 121, 129
+48	Joola_Fonyi	47	wave	X (wave) Y	махать	X (махать) Y-ом	líisé 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	raano 	SBJ	OBJ	TR	TR							Same verb as 88
+48	Joola_Fonyi	49	wash	X (wash) Y	мыть	X (мыть) Y	pos 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	50	put_on	X (put_on) Y	надевать	X (надевать) Y	kaano	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	51	be_called	X (be_called) Y	называться	X (называться) Y	*	*	*	*								Трансимперсональная конструкция. In Fooñi, ‘X is called Y’ can only be rendered, either as lit. ‘they say to X “Y”’ (with a 3rd person plural subject interpreted as non-specific), or as ‘X’s name is Y’. Есть пример.
+48	Joola_Fonyi	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*	*	*								Fooñi has no general equivalent of ‘punish’ ; the translation of English sentences including ‘punish’ implies specifying a particular type of punishment (‘They hit him’, They killed him’, ‘They put him in jail’, ‘They fined him’, etc.).
+48	Joola_Fonyi	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	lóúm	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	meeŋ	SBJ	OBJ	TR	TR							С тем же самым глаголом возможная и зеркальная конструкция (Y meeŋ X). Какая частотнее, DC не знает. Выбрал эту как первую и внешне более похожую на стимул.
+48	Joola_Fonyi	55	find	X (find) Y	находить	X (находить) Y(-а)	took 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	*	*	*	*								"Значение выражается при помощи отрицания yaj, но это значит ""have enough"", и ""be enough"". Какая там синтаксическая структура, я так и не видел, но решил не засчитывать, раз это все равно уже имеющийся глагол только с отрицанием, к тому же не все понятно"
+48	Joola_Fonyi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	lat	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	58	like	X (like) Y	нравиться	X-у (нравиться) Y	súum	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	soola	SBJ	OBJ	TR	TR							Interestingly, this verb (whose ultimate source is Arabic) has been borrowed from Mandinka, but the construction is different (extended intransitive in Mandinka, transitive in Fooñi)
+48	Joola_Fonyi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	ŋomen 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	riino	OBJ	OBJ	X	OBJ_OBJ							Impersonal double object construction (sth. like 'il m'est reste de l'argent). Также возможна, но более редка, конструкция Y riino X (cf. l'argent m'est reste). 
+48	Joola_Fonyi	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	púk 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	63	open	X (open) Y	открывать	X (открывать) Y	kámbúl 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	búutóor	SBJ	di	Y	SBJ_di							X di Y búutóor ~ X búutóor di Y. intransitive constructions (di is a locative/comitative preposition, also used for NP coordination)
+48	Joola_Fonyi	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	*	*	*	*								Наверное, не засчитываем. Можно сказать только либо X is behind Y (связка, семантики движения нет, как я понимаю; примера нет), либо Y обогнал X.
+48	Joola_Fonyi	66	plough	X (plough) Y	пахать	X (пахать) Y	wanjer 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	put 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	típ 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	69	sing	X (sing) Y	петь	X (петь) Y	kím	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	70	write	X (write) Y	писать	X (писать) Y	kiik	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	71	drink	X (drink) Y	пить	X (пить) Y	raan	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	72	melt	X (melt) Y	плавить	X (плавить) Y	*	*	*	*								Только перифрастическая каузативная конструкция, которая в этом языке биклаузальная
+48	Joola_Fonyi	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	reoor 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	katen 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	75	cover	X (cover) Y	покрывать	X (покрывать) Y	fímén 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	76	remember	X (remember) Y	помнить	X (помнить) Y-а	woolo 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	77	help	X (help) Y	помочь	X (помогать) Y-у	ramben 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	78	understand	X (understand) Y	понимать	X (понимать) Y	jam 	SBJ	OBJ	TR	TR							Same verb as 93
+48	Joola_Fonyi	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	gor 	SBJ	OBJ	TR	TR							Same verb as 22
+48	Joola_Fonyi	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	libo 	SBJ	di	Y	SBJ_di							libo ‘cut oneself’ derives from the transitive verb lib ‘cut’
+48	Joola_Fonyi	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	kot	SBJ	di	Y	SBJ_di							
+48	Joola_Fonyi	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*	*	*	*								This verb has no obvious equivalent in Fooñi, and the meaning it expresses is normally expressed as ‘Y wins X’ (see 13).
+48	Joola_Fonyi	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	maayoor	SBJ	mati	Y	SBJ_mati							intransitive construction (mati can be analyzed as a preposition ‘because of’)
+48	Joola_Fonyi	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	sanken	SBJ	di	Y	SBJ_di							
+48	Joola_Fonyi	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	roŋ 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	86	drop	X (drop) Y	ронять	X (ронять) Y	*	*	*	*								Только перифрастическая каузативная конструкция, которая в этом языке биклаузальная
+48	Joola_Fonyi	87	govern	X (govern) Y	руководить	X (руководить) Y	rung 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	raano 	SBJ	OBJ	TR	TR							Same verb as 48
+48	Joola_Fonyi	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	riiben 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	walo	SBJ	di	Y	SBJ_di							
+48	Joola_Fonyi	91	listen	X (listen) to Y	слушать	X (слушать) Y	janten 	SBJ	OBJ	TR	TR							Same as 92
+48	Joola_Fonyi	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	janten	SBJ	OBJ	TR	TR							Same as 91
+48	Joola_Fonyi	93	hear	X (hear) Y	слышать	X (слышать) Y	jam 	SBJ	OBJ	TR	TR							Same verb as 78
+48	Joola_Fonyi	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	símpóor	SBJ	di	Y	SBJ_di							X di Y símpóor ~ X símpóor di Y. Intransitive construction (di is a locative/comitative preposition, also used for NP coordination)
+48	Joola_Fonyi	95	look	X (look) at Y	смотреть	X (смотреть) на Y	jikeer 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	lóopúló 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	yéwút 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	jamoor	SBJ	di	Y	SBJ_di							X di Y jamoor ~ X jamoor di Y. Intransitive construction (di is a locative/comitative preposition)
+48	Joola_Fonyi	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	lob 	SBJ	di	Y	SBJ_di							X di Y lob, X lob di Y. Intransitive construction (di is a locative/comitative preposition, also used for NP coordination)
+48	Joola_Fonyi	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*	*	*								There is no verb with this meaning in Fooñi, and ‘cost’ is usually expressed by means of a verbless construction, for example ‘This car, one million’.
+48	Joola_Fonyi	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ya 	SBJ	OBJ	TR	TR							X ya Y épímbén. double-object construction (épímbén ‘gun’)
+48	Joola_Fonyi	102	pour	X (pour) Y	сыпать	X (сыпать) Y	yú 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	103	lose	X (lose) Y	терять	X (терять) Y	gím	ati	SBJ	X	ati_SBJ							lit. ‘X’s Y gets lost’ (¬ati is a genitival linker)
+48	Joola_Fonyi	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	yúó	SBJ	di	Y	SBJ_di							intransitive construction (di is a locative/comitative preposition). → yúó derives from yú (102)
+48	Joola_Fonyi	105	kill	X (kill) Y	убивать	X (убивать) Y-а	buj 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	106	hit	X (hit) Y	ударить	X (ударять) Y-а	tek 	SBJ	OBJ	TR	TR							Same verb as 34 (play percussions, strings)
+48	Joola_Fonyi	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	*	*	*	*								Kissing with the mouth is not traditional in West African cultures, and my Fooñi consultants did not put forward any possible equivalent of this verb.
+48	Joola_Fonyi	108	read	X (read) Y	читать	X (читать) Y-а	karaŋ 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	goren	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	110	respect	X (respect) Y	уважать	X (уважать) Y-а	bóolí	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	giip	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	fium 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	maŋ 	SBJ	OBJ	TR	TR							Same verb as 46, 119, 121, 129
+48	Joola_Fonyi	114	trust	X (trust) Y	доверять	X (доверять) Y-у	gólúm 	SBJ	OBJ	TR	TR							Alternative verb fium (same construction), which was dispreferred because it was used for another entry (112)
+48	Joola_Fonyi	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	bóténí 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	kiiliyaa 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	leet 	SBJ	OBJ	TR	TR							Same verb as 122 and 128
+48	Joola_Fonyi	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	jaahali 	OBJ	SBJ	X	OBJ_SBJ							transitive construction, but the experiencer is encoded as the object, and the stimulus as the subject. → borrowed from Mandinka
+48	Joola_Fonyi	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	maŋ 	SBJ	OBJ	TR	TR							Same verb as 46, 113, 121, 129
+48	Joola_Fonyi	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*	*	*								Fooñi has no simple equivalent of this verb ; the notion it expresses can only be rendered periphrastically.
+48	Joola_Fonyi	121	want	X (want) Y	хотеть	X (хотеть) Y-а	maŋ 	SBJ	OBJ	TR	TR							Same verb as 46, 113, 119, 129
+48	Joola_Fonyi	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	leet 	SBJ	OBJ	TR	TR							Same verb as 117 and 128
+48	Joola_Fonyi	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*	*	*	*								Fooñi has a transitive verb lús ‘offend, vex’, but ‘take offence’ at can only be expressed periphrastically. 
+48	Joola_Fonyi	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	táañí 	SBJ	OBJ	TR	TR							
+48	Joola_Fonyi	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*	*	*								Fooñi has no obvious equivalent of this verb ; the notion it expresses can only be rendered periphrastically.
+48	Joola_Fonyi	126	despise	X (despise) Y	презирать	X (презирать) Y-а	jútú 	SBJ	OBJ	TR	TR							Interestingly, this verb has been borrowed from Mandinka, but the construction is different (extended intransitive in Mandinka, transitive in Fooñi)
+48	Joola_Fonyi	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*	*	*								Fooñi has no obvious equivalent of this verb ; the notion it expresses can only be rendered periphrastically
+48	Joola_Fonyi	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	leet 	SBJ	OBJ	TR	TR							Same verb as 117 and 122
+48	Joola_Fonyi	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	maŋ	SBJ	OBJ	TR	TR							Same verb as 46, 113, 119, 121
+48	Joola_Fonyi	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	puño	SBJ	di	Y	SBJ_di							Возможна также переходная конструкция с глаголом puñ, в котооой стимул занимает позицию подлежащего. puño образован от него при помощи детранзитивирующего / медиального показателя. Выбрал эту конструкции как более точно соответствующую стимулу и непереходную

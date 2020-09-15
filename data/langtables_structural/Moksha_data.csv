@@ -1,132 +1,132 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-54	Moksha	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	s'ɛr'ɛd'-	GEN	NOM	X	GEN_NOM	Порядок слов XVY, так что со структурой составляющих тут особенно хорошо понятно						
+54	Moksha	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	s'ɛr'ɛd'-	GEN	NOM	X	GEN_NOM							Порядок слов XVY, так что со структурой составляющих тут особенно хорошо понятно
 54	Moksha	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	s'ɛr'ɛd'-	NOM	IN/marxta	Y	NOM_IN_marxta							
 54	Moksha	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	pel'-	NOM	ABL/ezda	Y	NOM_ABL_ezda							
-54	Moksha	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	jorda-	TR		TR	TR	"МХ: ""Стандартные переходные ниже помечаю так. У нас DOM (неопределенные - в номинативе определенные - в генитиве или в некоторых условиях в послеложной группе с послелогом esə)."""						
-54	Moksha	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	sat-	GEN	NOM	X	GEN_NOM	XVY						
-54	Moksha	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	paxožaj	NOM	lanks	Y	NOM_lanks	"NV. МХ: ""Встречается ещё датив, но кажется, хуже."""						
-54	Moksha	7	believe	X (believe) Y	верить	X (верить)Y-у	ver'anda-	NOM	DAT	Y	NOM_DAT	Бывает еще TR, esa, но это периферийно						
+54	Moksha	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	jorda-	TR		TR	TR							"МХ: ""Стандартные переходные ниже помечаю так. У нас DOM (неопределенные - в номинативе определенные - в генитиве или в некоторых условиях в послеложной группе с послелогом esə)."""
+54	Moksha	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	sat-	GEN	NOM	X	GEN_NOM							XVY
+54	Moksha	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	paxožaj	NOM	lanks	Y	NOM_lanks							"NV. МХ: ""Встречается ещё датив, но кажется, хуже."""
+54	Moksha	7	believe	X (believe) Y	верить	X (верить)Y-у	ver'anda-	NOM	DAT	Y	NOM_DAT							Бывает еще TR, esa, но это периферийно
 54	Moksha	8	take	X (take) Y	взять	X (брать) Y(-а)	s'ɛv-	TR		TR	TR							
 54	Moksha	9	see	X (see) Y	видеть	X (видеть) Y(-а)	n'ɛj-	TR		TR	TR							
-54	Moksha	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*				"Отвергнутый глагол NOM_DAT. МХ: ""Есть перевод (с глаголом 'мешать'), но сомневаюсь в точности."""						
+54	Moksha	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*										"Отвергнутый глагол NOM_DAT. МХ: ""Есть перевод (с глаголом 'мешать'), но сомневаюсь в точности."""
 54	Moksha	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	karšə vast-	NOM	marxta	Y	NOM_marxta							
-54	Moksha	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	suva-	NOM	LAT/DAT	Y	NOM_LAT_DAT	"МХ: ""В неопределенном ещё возможен иллатив, но именно с 'домом' он не очень частотный."""						
+54	Moksha	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	suva-	NOM	LAT/DAT	Y	NOM_LAT_DAT							"МХ: ""В неопределенном ещё возможен иллатив, но именно с 'домом' он не очень частотный."""
 54	Moksha	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	nal̥kə-	TR		TR	TR							
 54	Moksha	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	l'is'-	NOM	EL/ezda	Y	NOM_EL_ezda							
 54	Moksha	15	drive	X (drive) Y	гнать	X (гнать) Y-а	pan'-	TR		TR	TR							
 54	Moksha	16	bend	X (bend) Y	гнуть	X (гнуть) Y	mɛnd'-	TR		TR	TR							
 54	Moksha	17	tell	X (tell) Y	говорить	X (говорить) Y-у	mɛr'g-	NOM	DAT	Y	NOM_DAT							
 54	Moksha	18	hold	X (hold)Y	держать	X (держать) Y(-а)	kird'-	TR		TR	TR							
-54	Moksha	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	sat-	TR		TR	TR	"Это букв. ""хватать"". Еще есть ""kunda"" - ловить"						
+54	Moksha	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	sat-	TR		TR	TR							"Это букв. ""хватать"". Еще есть ""kunda"" - ловить"
 54	Moksha	20	milk	X (milk) Y	доить	X (доить) Y-а	pot'a-	TR		TR	TR							
 54	Moksha	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	pačkəd'-	NOM	ILL/DAT	Y	NOM_ILL_DAT							
-54	Moksha	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	n'ežəčn'ə-	NOM	ILL/DAT	Y	NOM_ILL_DAT	"Лучше всего пример 83. МХ: ""У одушевленных в неопределенном тоже DAT."""						
+54	Moksha	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	n'ežəčn'ə-	NOM	ILL/DAT	Y	NOM_ILL_DAT							"Лучше всего пример 83. МХ: ""У одушевленных в неопределенном тоже DAT."""
 54	Moksha	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	t'ur'-	NOM	marxta	Y	NOM_marxta							
 54	Moksha	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	lad'a-	NOM	marxta	Y	NOM_marxta							
 54	Moksha	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	dumanda-	NOM	kolga	Y	NOM_kolga							
 54	Moksha	26	eat	X (eat) Y	есть	X (есть) Y	sev-	TR		TR	TR							
 54	Moksha	27	fry	X (fry) Y	жарить	X (жарить) Y	žar'ənda-	TR		TR	TR							
 54	Moksha	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	uč-	TR		TR	TR							
-54	Moksha	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	juksta-	TR		TR	TR	"МХ: ""Есть непереходный вариант (X - NOM, Y - KOLGA), но он, кажется, менее предпочтительный."""						
-54	Moksha	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	zavis'anda-	NOM	EL/ezda	Y	NOM_EL_ezda	Хорош пример 125						
+54	Moksha	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	juksta-	TR		TR	TR							"МХ: ""Есть непереходный вариант (X - NOM, Y - KOLGA), но он, кажется, менее предпочтительный."""
+54	Moksha	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	zavis'anda-	NOM	EL/ezda	Y	NOM_EL_ezda							Хорош пример 125
 54	Moksha	31	call	X (call) Y	звать	X (звать) Y-а	t'erd'-	TR		TR	TR							
 54	Moksha	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	znakomanda-	NOM	marxta	Y	NOM_marxta							
 54	Moksha	33	know	X (know) Y	знать 	X (знать) Y-а	soda-	TR		TR	TR							
-54	Moksha	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	mora-	NOM	IN/marxta	Y	NOM_IN_marxta	"См. 137. Букв. ""петь"""						
-54	Moksha	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	kɛš-	NOM	ABL/ezda	Y	NOM_ABL_ezda	"Букв. ""прятаться"""						
+54	Moksha	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	mora-	NOM	IN/marxta	Y	NOM_IN_marxta							"См. 137. Букв. ""петь"""
+54	Moksha	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	kɛš-	NOM	ABL/ezda	Y	NOM_ABL_ezda							"Букв. ""прятаться"""
 54	Moksha	36	make	X (make) Y	изготовить	X (изготовить) Y	t'i-	TR		TR	TR							
-54	Moksha	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	rax-	NOM	lanksa	Y	NOM_lanksa	"Букв. ""смеяться"". В итоге это единственный глагол с lanksa (на.IN). Это хорошо? Там вроде бы есть вариативность с lanks (на.ILL), а семантическое различие для меня не очевидно
-МХ: Глаголы дают разные, модель у них при этом у всех одинаковая (lanksa), lanks запрещают, при этом у других глаголов в таблице, кроме 'руководить', lanks, *lanksa."						
+54	Moksha	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	rax-	NOM	lanksa	Y	NOM_lanksa							"Букв. ""смеяться"". В итоге это единственный глагол с lanksa (на.IN). Это хорошо? Там вроде бы есть вариативность с lanks (на.ILL), а семантическое различие для меня не очевидно
+МХ: Глаголы дают разные, модель у них при этом у всех одинаковая (lanksa), lanks запрещают, при этом у других глаголов в таблице, кроме 'руководить', lanks, *lanksa."
 54	Moksha	38	have	X (have) Y	иметь	X (иметь) Y	ul'-	GEN	NOM	X	GEN_NOM							
 54	Moksha	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	viš-	TR		TR	TR							
 54	Moksha	40	paint	X (paint) Y	красить	X (красить) Y	ar̥t-	TR		TR	TR							
 54	Moksha	41	bite	X (bite) Y	кусать	X (кусать) Y-а	susk-	TR		TR	TR							
-54	Moksha	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*				"Не берем, т.к. это буквально ""остаться без дома"" (NOM CAR), неточность отмечала и МХ"						
+54	Moksha	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*										"Не берем, т.к. это буквально ""остаться без дома"" (NOM CAR), неточность отмечала и МХ"
 54	Moksha	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	kunda-	TR		TR	TR							
 54	Moksha	44	break	X (break) Y	ломать	X (ломать) Y	s'ind'ə-	TR		TR	TR							
-54	Moksha	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*	*				"Решили не брать переходный глагол, т.к. это заимствование из русского ""хвалить"".  Сама МХ ""не была уверена в точности перевода"""						
+54	Moksha	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*	*										"Решили не брать переходный глагол, т.к. это заимствование из русского ""хвалить"".  Сама МХ ""не была уверена в точности перевода"""
 54	Moksha	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	kel'g-	TR		TR	TR							
 54	Moksha	47	wave	X (wave) Y	махать	X (махать) Y-ом	jafijə-	NOM	IN/marxta	Y	NOM_IN_marxta							
-54	Moksha	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*				"Решил не брать, только глагол ""думать""."						
+54	Moksha	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*										"Решил не брать, только глагол ""думать""."
 54	Moksha	49	wash	X (wash) Y	мыть	X (мыть) Y	šta-	TR		TR	TR							
 54	Moksha	50	put_on	X (put_on) Y	надевать	X (надевать) Y	šča-	TR		TR	TR							
-54	Moksha	51	be_called	X (be_called) Y	называться	X (называться) Y	mɛr'g-	DAT	NOMnoagr	XY	DAT_NOMnoagr	"МХ: ""Букв.: 'Этим приборам говорят компас'. Номинативный участник не вызывает согласования (в отличие от 56 и 59). Буквально"". Не беру, т.к. это трехместный глагол с ""лишним"" участником"						
-54	Moksha	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*				Не беру, т.к. перевода со значением именно наказать нет, есть только ругать, греметь						
+54	Moksha	51	be_called	X (be_called) Y	называться	X (называться) Y	mɛr'g-	DAT	NOMnoagr	XY	DAT_NOMnoagr							"МХ: ""Букв.: 'Этим приборам говорят компас'. Номинативный участник не вызывает согласования (в отличие от 56 и 59). Буквально"". Не беру, т.к. это трехместный глагол с ""лишним"" участником"
+54	Moksha	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*										Не беру, т.к. перевода со значением именно наказать нет, есть только ругать, греметь
 54	Moksha	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	vər'gɛt'-	NOM	lanks	Y	NOM_lanks							
 54	Moksha	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	pɛškəd'-	NOM	ABL/ezda	Y	NOM_ABL_ezda							
 54	Moksha	55	find	X (find) Y	находить	X (находить) Y(-а)	mu-	TR		TR	TR							
-54	Moksha	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	af sat-	DAT	NOM	X	DAT_NOM	"NEG V. Букв.: ""не хватать"". МХ: ""Номинативный участник вызывает согласование (в отличие от 51)"""						
-54	Moksha	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	NEG + n'ɛj-	TR		TR	TR	NEG + видеть.CONNEG						
-54	Moksha	58	like	X (like) Y	нравиться	X-у (нравиться) Y	mɛl'-əzə-	*				"МХ: ""Нравится - букв. 'в желание' (желание-ILL), Петя выражается как посессор при этом желании."""						
-54	Moksha	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	er'av-	DAT	NOM	X	DAT_NOM	"МХ: ""Номинативный участник вызывает согласование (в отличие от 51)"""						
+54	Moksha	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	af sat-	DAT	NOM	X	DAT_NOM							"NEG V. Букв.: ""не хватать"". МХ: ""Номинативный участник вызывает согласование (в отличие от 51)"""
+54	Moksha	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	NEG + n'ɛj-	TR		TR	TR							NEG + видеть.CONNEG
+54	Moksha	58	like	X (like) Y	нравиться	X-у (нравиться) Y	mɛl'-əzə-	*										"МХ: ""Нравится - букв. 'в желание' (желание-ILL), Петя выражается как посессор при этом желании."""
+54	Moksha	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	er'av-	DAT	NOM	X	DAT_NOM							"МХ: ""Номинативный участник вызывает согласование (в отличие от 51)"""
 54	Moksha	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	kruža-	TR		TR	TR							
 54	Moksha	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	lad'-	GEN	NOM	X	GEN_NOM							
-54	Moksha	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	atveča-	NOM	DAT	Y	NOM_DAT	Не совсем понятно, как это даже писать (в материалах МХ есть разные вариант, это очевидное заимствование)						
+54	Moksha	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	atveča-	NOM	DAT	Y	NOM_DAT							Не совсем понятно, как это даже писать (в материалах МХ есть разные вариант, это очевидное заимствование)
 54	Moksha	63	open	X (open) Y	открывать	X (открывать) Y	pan'ž-	TR		TR	TR							
-54	Moksha	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	l'ijɛ	NOM	ABL/ezda	Y	NOM_ABL_ezda	"NV: ""другой"". Лучший пример 256. Вообще не совсем убедительные переводы."						
-54	Moksha	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	lad'-	NOM	ABL/ezda	Y	NOM_ABL_ezda	"Букв. ""остаться"""						
+54	Moksha	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	l'ijɛ	NOM	ABL/ezda	Y	NOM_ABL_ezda							"NV: ""другой"". Лучший пример 256. Вообще не совсем убедительные переводы."
+54	Moksha	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	lad'-	NOM	ABL/ezda	Y	NOM_ABL_ezda							"Букв. ""остаться"""
 54	Moksha	66	plough	X (plough) Y	пахать	X (пахать) Y	soka-	TR		TR	TR							
-54	Moksha	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*				МХ: Сильно предпочитают перевод вида 'У моих рук запах бензина'						
-54	Moksha	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	jota-	TR		TR	TR	"""Пройти"""						
+54	Moksha	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*										МХ: Сильно предпочитают перевод вида 'У моих рук запах бензина'
+54	Moksha	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	jota-	TR		TR	TR							"""Пройти"""
 54	Moksha	69	sing	X (sing) Y	петь	X (петь) Y	mora-	TR		TR	TR							
 54	Moksha	70	write	X (write) Y	писать	X (писать) Y	s'ormad'-	TR		TR	TR							
 54	Moksha	71	drink	X (drink) Y	пить	X (пить) Y	s'imə-	TR		TR	TR							
-54	Moksha	72	melt	X (melt) Y	плавить	X (плавить) Y	šɛn'a-ft-	TR		TR	TR	CAUS						
-54	Moksha	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	lad'a-	NOM	DAT	Y	NOM_DAT	"Букв. ""дружить"""						
+54	Moksha	72	melt	X (melt) Y	плавить	X (плавить) Y	šɛn'a-ft-	TR		TR	TR							CAUS
+54	Moksha	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	lad'a-	NOM	DAT	Y	NOM_DAT							"Букв. ""дружить"""
 54	Moksha	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	kad-	TR		TR	TR							
 54	Moksha	75	cover	X (cover) Y	покрывать	X (покрывать) Y	aca-	TR		TR	TR							
 54	Moksha	76	remember	X (remember) Y	помнить	X (помнить) Y-а	mɛl'aft-	TR		TR	TR							
-54	Moksha	77	help	X (help) Y	помочь	X (помогать) Y-у	l'ezd'-	NOM	DAT	Y	NOM_DAT	Есть еще какие-то периферийные варианты, например, martxa						
+54	Moksha	77	help	X (help) Y	помочь	X (помогать) Y-у	l'ezd'-	NOM	DAT	Y	NOM_DAT							Есть еще какие-то периферийные варианты, например, martxa
 54	Moksha	78	understand	X (understand) Y	понимать	X (понимать) Y	šar̥'kəd'-	TR		TR	TR							
-54	Moksha	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	pov-	NOM	ILL/DAT	Y	NOM_ILL_DAT	ILL варьирует с LAT						
-54	Moksha	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	kerə-v-	NOM	IN/marxta	Y	NOM_IN_marxta	IN не вызывает сомнений, примеров на marxta нет, но In всегда соответствует ему						
-54	Moksha	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	ped'-	NOM	ILL/DAT	Y	NOM_ILL_DAT	Записывается как ILL_DAT, несмотря на то что эти показатели вешаются в примерах на lang-. Важно, что в других примерах те же падежи появлялись бы на нормальных существительных.						
-54	Moksha	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*	*				"МХ: ""Склонны оставлять русский глагол и ту же падежную рамку"". Добавлю: говорят буквально ""проиграл"""						
-54	Moksha	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ken'ɛr'd'-	NOM	ILL/DAT	Y	NOM_ILL_DAT	Хороший пример 314						
-54	Moksha	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	kor̥-n'-	NOM	marxta	Y	NOM_marxta	IPFV						
+54	Moksha	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	pov-	NOM	ILL/DAT	Y	NOM_ILL_DAT							ILL варьирует с LAT
+54	Moksha	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	kerə-v-	NOM	IN/marxta	Y	NOM_IN_marxta							IN не вызывает сомнений, примеров на marxta нет, но In всегда соответствует ему
+54	Moksha	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	ped'-	NOM	ILL/DAT	Y	NOM_ILL_DAT							Записывается как ILL_DAT, несмотря на то что эти показатели вешаются в примерах на lang-. Важно, что в других примерах те же падежи появлялись бы на нормальных существительных.
+54	Moksha	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*	*										"МХ: ""Склонны оставлять русский глагол и ту же падежную рамку"". Добавлю: говорят буквально ""проиграл"""
+54	Moksha	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ken'ɛr'd'-	NOM	ILL/DAT	Y	NOM_ILL_DAT							Хороший пример 314
+54	Moksha	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	kor̥-n'-	NOM	marxta	Y	NOM_marxta							IPFV
 54	Moksha	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	šač-	TR		TR	TR							
-54	Moksha	86	drop	X (drop) Y	ронять	X (ронять) Y	pra-ft-	TR		TR	TR	CAUS						
-54	Moksha	87	govern	X (govern) Y	руководить	X (руководить) Y	azərənda-	NOM	lanksa	Y	NOM_lanksa	Пример, соответствующий тому классу, что у Маши, -- 327						
-54	Moksha	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	skučənda-	NOM	DAT	Y	NOM_DAT	См. 333						
-54	Moksha	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*				"Здесь был получен только глагол ""идти"" (при нем послелог ""после"" -- mel'gə)"						
+54	Moksha	86	drop	X (drop) Y	ронять	X (ронять) Y	pra-ft-	TR		TR	TR							CAUS
+54	Moksha	87	govern	X (govern) Y	руководить	X (руководить) Y	azərənda-	NOM	lanksa	Y	NOM_lanksa							Пример, соответствующий тому классу, что у Маши, -- 327
+54	Moksha	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	skučənda-	NOM	DAT	Y	NOM_DAT							См. 333
+54	Moksha	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*										"Здесь был получен только глагол ""идти"" (при нем послелог ""после"" -- mel'gə)"
 54	Moksha	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	valg-	NOM	lanksta	Y	NOM_lanksta							
 54	Moksha	91	listen	X (listen) to Y	слушать	X (слушать) Y	kul̥cənd-	TR		TR	TR							
 54	Moksha	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	kul̥cənd-	TR		TR	TR							
 54	Moksha	93	hear	X (hear) Y	слышать	X (слышать) Y	kul'-	TR		TR	TR							
-54	Moksha	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	šor'a-v-	NOM	marxta	Y	NOM_marxta	"Для неопределенного заполнил СС. На основании следующей реплики МХ: ""Не проверила неопределенное. Посмотрела литературную газету - там встречается в неорпделенном два раза mar̥tə и не встречается инессив, - наверное, у нас тоже скорее mar̥tə."" UPD: МХ проверила, разрешают marxta, независимо от неопределенности."						
+54	Moksha	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	šor'a-v-	NOM	marxta	Y	NOM_marxta							"Для неопределенного заполнил СС. На основании следующей реплики МХ: ""Не проверила неопределенное. Посмотрела литературную газету - там встречается в неорпделенном два раза mar̥tə и не встречается инессив, - наверное, у нас тоже скорее mar̥tə."" UPD: МХ проверила, разрешают marxta, независимо от неопределенности."
 54	Moksha	95	look	X (look) at Y	смотреть	X (смотреть) на Y	van-	NOM	lanks	Y	NOM_lanks							
 54	Moksha	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	kaja-	TR		TR	TR							
-54	Moksha	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	n'ɛj- onсtənzə	TR		TR	TR	Букв. 'видит во сне'						
+54	Moksha	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	n'ɛj- onсtənzə	TR		TR	TR							Букв. 'видит во сне'
 54	Moksha	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	soglas'ənda-	NOM	marxta	Y	NOM_marxta							
 54	Moksha	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	kɛžija-	NOM	marxta	Y	NOM_marxta							
-54	Moksha	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*				"Не засчитываю, т.к. это ""Букв. 'Цена этой чашки'"""						
+54	Moksha	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*										"Не засчитываю, т.к. это ""Букв. 'Цена этой чашки'"""
 54	Moksha	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	l'ɛc'-	NOM	lanks	Y	NOM_lanks							
 54	Moksha	102	pour	X (pour) Y	сыпать	X (сыпать) Y	kaja-	TR		TR	TR							
-54	Moksha	103	lose	X (lose) Y	терять	X (терять) Y	juma-ft-	TR		TR	TR	CAUS						
-54	Moksha	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	vaja-	NOM	ILL/DAT	Y	NOM_ILL_DAT	Хороший пример 368						
-54	Moksha	105	kill	X (kill) Y	убивать	X (убивать) Y-а	šav-	TR		TR	TR	"Букв. ""бить"""						
+54	Moksha	103	lose	X (lose) Y	терять	X (терять) Y	juma-ft-	TR		TR	TR							CAUS
+54	Moksha	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	vaja-	NOM	ILL/DAT	Y	NOM_ILL_DAT							Хороший пример 368
+54	Moksha	105	kill	X (kill) Y	убивать	X (убивать) Y-а	šav-	TR		TR	TR							"Букв. ""бить"""
 54	Moksha	106	hit	X (hit) Y	ударить	X (ударять) Y-а	kaja-	TR		TR	TR							
 54	Moksha	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	pala-	TR		TR	TR							
 54	Moksha	108	read	X (read) Y	читать	X (читать) Y-а	luv-	TR		TR	TR							
 54	Moksha	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	šer'ft'-	TR		TR	TR							
-54	Moksha	110	respect	X (respect) Y	уважать	X (уважать) Y-а	uvažanda-	TR		TR	TR	"Этот глагол появился в переводе один раз, но более часто использованный глагол -- это букв. ""любить"""						
+54	Moksha	110	respect	X (respect) Y	уважать	X (уважать) Y-а	uvažanda-	TR		TR	TR							"Этот глагол появился в переводе один раз, но более часто использованный глагол -- это букв. ""любить"""
 54	Moksha	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	n'il'gəd'-	NOM	ABL/ezda	Y	NOM_ABL_ezda							
 54	Moksha	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	davol'naj	NOM	ezda	Y	NOM_ezda							
-54	Moksha	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	*	*				У Маши был только определенный объект и там NOM DAT. Но это была русская _форма_ влюбился. Не беру.						
-54	Moksha	114	trust	X (trust) Y	доверять	X (доверять) Y-у	nad'ija-	NOM	lanks	Y	NOM_lanks	Это, несмотря на форму, видимо, вполне точный перевод						
+54	Moksha	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	*	*										У Маши был только определенный объект и там NOM DAT. Но это была русская _форма_ влюбился. Не беру.
+54	Moksha	114	trust	X (trust) Y	доверять	X (доверять) Y-у	nad'ija-	NOM	lanks	Y	NOM_lanks							Это, несмотря на форму, видимо, вполне точный перевод
 54	Moksha	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	užɛl'də-	TR		TR	TR							
 54	Moksha	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	s'elməd'-	NOM	lanks	Y	NOM_lanks							
-54	Moksha	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	kɛžija-	NOM	lanks	Y	NOM_lanks	Маша пометила модель в файле с примерами как такую, в которой она не уверена						
+54	Moksha	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	kɛžija-	NOM	lanks	Y	NOM_lanks							Маша пометила модель в файле с примерами как такую, в которой она не уверена
 54	Moksha	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	d'ivanda-	NOM	ILL/DAT	Y	NOM_ILL_DAT							
 54	Moksha	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	kel'g-	TR		TR	TR							
-54	Moksha	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*				"МХ: ""Что-то не очень убедительное в данных: очень плохо выбиваемый из информантов пример."""						
-54	Moksha	121	want	X (want) Y	хотеть	X (хотеть) Y-а	*	*				Нет мокшанского глагола для таких контекстах, используют формы русского глагола.						
-54	Moksha	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	kɛžija-fn' 	NOM	lanks	Y	NOM_lanks	CAUS.IPFV. Пример получен определенный, в неопределенном точно было бы то же самое.						
-54	Moksha	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	obža-v-	NOM	lanks	Y	NOM_lanks	PASS						
-54	Moksha	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	kɛžija-ftə-	TR		TR	TR	CAUS						
-54	Moksha	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	d'ivanda-f	NOM	IN/marxta	Y	NOM_IN_marxta	Пример получен только на определенное склонение, маркирование инессивом в определенном склонении - экстраполяция МХ.						
+54	Moksha	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*										"МХ: ""Что-то не очень убедительное в данных: очень плохо выбиваемый из информантов пример."""
+54	Moksha	121	want	X (want) Y	хотеть	X (хотеть) Y-а	*	*										Нет мокшанского глагола для таких контекстах, используют формы русского глагола.
+54	Moksha	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	kɛžija-fn' 	NOM	lanks	Y	NOM_lanks							CAUS.IPFV. Пример получен определенный, в неопределенном точно было бы то же самое.
+54	Moksha	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	obža-v-	NOM	lanks	Y	NOM_lanks							PASS
+54	Moksha	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	kɛžija-ftə-	TR		TR	TR							CAUS
+54	Moksha	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	d'ivanda-f	NOM	IN/marxta	Y	NOM_IN_marxta							Пример получен только на определенное склонение, маркирование инессивом в определенном склонении - экстраполяция МХ.
 54	Moksha	126	despise	X (despise) Y	презирать	X (презирать) Y-а	pr'ez'iranda-	TR		TR	TR							
-54	Moksha	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*				"Не засчитываю из-за структуры составляющих. ""Букв. 'У X испортилось настроение из-за Y'"""						
-54	Moksha	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	kɛžija-fn'-	NOM	lanks	Y	NOM_lanks	CAUS.IPFV						
-54	Moksha	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*				"""Кажется, нет ничего достаточно точного."""						
+54	Moksha	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*										"Не засчитываю из-за структуры составляющих. ""Букв. 'У X испортилось настроение из-за Y'"""
+54	Moksha	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	kɛžija-fn'-	NOM	lanks	Y	NOM_lanks							CAUS.IPFV
+54	Moksha	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*										"""Кажется, нет ничего достаточно точного."""
 54	Moksha	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	vizd'-	TR		TR	TR							

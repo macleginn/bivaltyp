@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-58	Gascon	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	a mau	NOM	de	Y	NOMde	"CV. букв. ""иметь боль + de"""	Pau (qu')a mau de cap					
-58	Gascon	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	a	TR		TR	TR	"букв. ""иметь"""	Pau (qu')a la raca (/gripa)					
-58	Gascon	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	a páur	NOM	a	Y	NOMa	"CV. Невозможна замена на дативную клитику. ""Иметь страх + a"". Кстати, управление отличается от французского"	Pau (qu')a páur au can					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	(a) gitat	TR		TR	TR		Pau (qu')a gitat ua pèira					
-58	Gascon	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	a pro	TR		TR	TR	"CV. букв. ""иметь достаточно"""	(Adara) Pau (qu')a pro sòs					
-58	Gascon	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	sembla	NOM	a	Y	NOMa	A чередуется с дативной клитикой	Pau (que) sembla a Maria					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	7	believe	X (believe) Y	верить	X (верить)Y-у	crei	TR		TR	TR	В переводе a, но это DOM	Pau (que) crei a Maria					
-58	Gascon	8	take	X (take) Y	взять	X (брать) Y(-а)	(a) pres	TR		TR	TR		Pau (qu')a pres lo libe sus la tauleta					
-58	Gascon	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vei	TR		TR	TR		Pau vei l'ostau (/la maison)					
-58	Gascon	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	influéncia	TR		TR	TR		L'atge (qu')influéncia la memòria					
-58	Gascon	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	rencontrè	TR		TR	TR	В переводе a, но это DOM	Pau (que) rencontrè a Maria					
-58	Gascon	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	entrè	NOM	dens	Y	NOMdens		Pau (qu')entrè dens l'ostau					
-58	Gascon	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	*	*		*		По-гасконски при данном глаголе невозможно выражение только двух актантов.	///					
-58	Gascon	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	(es) sortit	NOM	de	Y	NOMde		Pau (qu')es sortit de l'ostau					
-58	Gascon	15	drive	X (drive) Y	гнать	X (гнать) Y-а	mena	TR		TR	TR		Pau que mena (/mea) sa (la soa) vaca [au pastenc]					
-58	Gascon	16	bend	X (bend) Y	гнуть	X (гнуть) Y	pleguè 	TR		TR	TR		Pau (que) pleguè la branca					
-58	Gascon	17	tell	X (tell) Y	говорить	X (говорить) Y-у	dishó 	NOM	a	Y	NOMa	A чередуется с дативной клитикой	"Pau (que) dishó a (/au) Miquèu : [""Ven a véde'm]"					
-58	Gascon	18	hold	X (hold)Y	держать	X (держать) Y(-а)	ten	TR		TR	TR		Pau (que) ten lo libe [a la man]					
-58	Gascon	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	(a) (ar)regahat	TR		TR	TR	В переводе a, но это DOM	Pau (qu')a (ar)regahat a (la) Maria					
-58	Gascon	20	milk	X (milk) Y	доить	X (доить) Y-а	tirat la lèit	NOM	de	Y	NOMde	"CV. букв. ""тащить молоко + de"""	Pau qu'a tirat la lèit de la vaca					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	(a) atenhut	TR		TR	TR		Pau (qu')a atenhut la riba (/l'arriba)					
-58	Gascon	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	(a) tocat	TR		TR	TR		Pau (qu')a tocat lo mur (/la murralha)					
-58	Gascon	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	s('es) batut	NOM	contra	Y	NOMcontra	"REFL. Второй вариант предлога -- dab, ""Предлоги буквально переведены с французского, вероятно, такое же распределение."""	Pau (que) s'es batut dab Miquèu/contra Miquèu					
-58	Gascon	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	es un amic	*		*		"букв. ""быть другом + de"". Не беру,т.к. это чистое прииименное зависиме"	Pau (qu')es un amic de Miquèu					
-58	Gascon	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	pensa	NOM	a	Y	NOMa	Невозможна замена на дативную клитику. 	Pau (que) pensa a Maria					
-58	Gascon	26	eat	X (eat) Y	есть	X (есть) Y	mingè 	TR		TR	TR		Pau (que) mingè la poma					
-58	Gascon	27	fry	X (fry) Y	жарить	X (жарить) Y	(a) rostit	TR		TR	TR		Pau (qu')a rostit lo peish					
-58	Gascon	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	espèra	TR		TR	TR	В переводе a, но это DOM	Pau (qu')espèra a Maria					
-58	Gascon	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	oblidè	*		*		"Получен только перевод с французского, а там СА (""Сентенциальный актант, вероятно, калька с французского. Непонятно, что с этим делать, как исключить влияние французского."")"	Pau (qu')oblidè (/que's desbrombè) qu'existís (/existeish) un aute camin					
-58	Gascon	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	depend 	NOM	de	Y	NOMde		La memòria d'ua persona (/d'un gent) (que) depend de (/deu) son atge					
-58	Gascon	31	call	X (call) Y	звать	X (звать) Y-а	(a) sonat	TR		TR	TR	В переводе a, но это DOM	Pau (qu')a sonat a Maria					
-58	Gascon	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	a hèit conseishança	*		*		"Приименное зависимое, букв. ""делать знакомтсво + de"""	Hèi (/hè) un an, Pau (qu')a hèit conseishança de (la) Mari					
-58	Gascon	33	know	X (know) Y	знать 	X (знать) Y-а	coneish	TR		TR	TR	В переводе a, но это DOM	Pau (que) coneish a Miquèu					
-58	Gascon	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	tòca	NOM	de	Y	NOMde		Pau tòca de la guitara					
-58	Gascon	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	escantís 	TR		TR	TR	В переводе a, но это DOM	Pau escantís (/qu'evita) a Maria					
-58	Gascon	36	make	X (make) Y	изготовить	X (изготовить) Y	(a) fabricat	TR		TR	TR		Pau (qu')a fabricat la bomba					
-58	Gascon	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	se trufa	NOM	de	Y	NOMde	"REFL. Есть еще другой перевод (escarnís, TR, DOM), но он более сильный, мне не надо (“Les deux traductions sont naturelles mais ""escarnir"" est plus fort que ""trufar"" (voir dictionnaires).” )"	Pau se (/que's) trufa de Miquèu / Pau escarnís (/qu'escarneish) a Maria					
-58	Gascon	38	have	X (have) Y	иметь	X (иметь) Y	a	TR		TR	TR		Pau (qu')a ua veitura (/autò)					
-58	Gascon	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	cerca	TR		TR	TR		Pau (que) cerca las claus					
-58	Gascon	40	paint	X (paint) Y	красить	X (красить) Y	(a) pintrat	TR		TR	TR		Pau (qu')a pintrat la barralha (/barrèra)					
-58	Gascon	41	bite	X (bite) Y	кусать	X (кусать) Y-а	(a) nhacat	TR		TR	TR	В переводе a, но это DOM	Lo can (qu')a nhacat a Pau					
-58	Gascon	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	(a) perdut	TR		TR	TR		Pau (qu')a perdut son ostau (/la soa maison)					
-58	Gascon	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	gaha	TR		TR	TR		Pau (que) gaha son (/lo son) gat					
-58	Gascon	44	break	X (break) Y	ломать	X (ломать) Y	(a) rot	TR		TR	TR		Pau (qu')a rot lo (/lo son) pau					
-58	Gascon	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	flateja	TR		TR	TR	В переводе a, но это DOM	Pau (que) flateja a Maria					
-58	Gascon	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	aima	TR		TR	TR	В переводе a, но это DOM	Pau (qu')aima a Maria					
-58	Gascon	47	wave	X (wave) Y	махать	X (махать) Y-ом	agita	TR		TR	TR		Pau (qu')agita son (lo son) mocador					
-58	Gascon	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	sauneja	NOM	a	Y	NOMa	Невозможна замена на дативную клитику. . То же, что 97 -- сниться	Paula (que) sauneja ad ua navèra veitura					
-58	Gascon	49	wash	X (wash) Y	мыть	X (мыть) Y	(a) lavat	TR		TR	TR		Pau (qu')a lavat la tassa					
-58	Gascon	50	put_on	X (put_on) Y	надевать	X (надевать) Y	(a) mes	TR		TR	TR		Pau (qu')a mes son (/lo son) pantalon					
-58	Gascon	51	be_called	X (be_called) Y	называться	X (называться) Y	se ditz	TR		TR	TR	"НЗ: ""Мне кажется, синтаксические свойства тут явно будут другими, как во французском, но в этом предложении второй актант формально выражается так же, как и в канонической переходной конструкции."""	Aqueth instrument se (/que's) ditz ua bossòla					
-58	Gascon	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	castigat	TR		TR	TR	В переводе a, но это DOM	Pau (qu') castigat a son (/au son) hilh					
-58	Gascon	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	s'arroncè	NOM	sus	Y	NOMsus	"НЗ: ""Носитель не хочет выбирать""; Наташа сказала в связи с этим, что пусть будет первый вариант, но я в такой ситуации как раз беру второй по правилу о том, что ПРИ ПРОЧИХ РАВНЫХ УСЛОВИЯХ выбирается непеерходный. Первый вариант -- TR, DOM. Suu <= sus + lo"	L'ors (qu') ataquè au pescaire / L'ors (que) s'arroncè suu pescaire					
-58	Gascon	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	s ('es) plenhada	NOM	de	Y	NOMde		La selha (que) s'es plenhada d'aiga					
-58	Gascon	55	find	X (find) Y	находить	X (находить) Y(-а)	trobè	TR		TR	TR		Pau (que) trobè las claus					
-58	Gascon	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	manca	a	NOM	X	aNOM		(Que) manca un euro a Pau					
-58	Gascon	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	a en hasti	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pau a Maria (que) l'a en hasti					
-58	Gascon	58	like	X (like) Y	нравиться	X-у (нравиться) Y	agrada	a	NOM	X	aNOM	"Есть второй вариант, переходный, ""любить"" (aima). Вообще-то носитель его даже предпочел, но я беру этот, потому что aima используется при переводе других стимулов"	Aquera camisa agrada (hòrt/hèra) a Pau / Pau (qu')aima aquera camisa					
-58	Gascon	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	a besonh 	TR		TR	TR	"CV. ""букв ""иметь необходимость (без предлога)"""""	Pau (qu')a besonh sòs					
-58	Gascon	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	enròdan	TR		TR	TR		Las murralhas (qu')enròdan la vila					
-58	Gascon	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	demòran	a	NOM	X	aNOM		(Que) demòran dètz dòlars a Pau					
-58	Gascon	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	responut	NOM	a	Y	NOMa	A чередуется с дативной клитикой	Pau (qu')a responut au professor					
-58	Gascon	63	open	X (open) Y	открывать	X (открывать) Y	(a) obèrt	TR		TR	TR		Pau (qu')a obèrt lo bocau					
-58	Gascon	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	se distinguís	NOM	de	Y	NOMde		Ma (/la mia) camisa se distinguís (/que's distingueish) de la toa					
-58	Gascon	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	s ('a) hèit enlà	NOM	de	Y	NOMde	"CV. Букв. ""делается сзади от…"". Еще вариант (s ('a) hèit en arrèr (de)). В письме есть комментарий о распределении "	Pau (que) s'a hèit enlà (en arrèr) de Miren					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	66	plough	X (plough) Y	пахать	X (пахать) Y	boja	TR		TR	TR		Pau (que) boja (/laura) lo camp					
-58	Gascon	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	senten	NOM	a	Y	NOMa	Невозможна замена на дативную клитику. 	Mas (/las meas) mans (que) senten (/senteishen) a l'essença					
-58	Gascon	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	(a) traversat	TR		TR	TR		Pau (qu')a traversat la rota (/lo camin)					
-58	Gascon	69	sing	X (sing) Y	петь	X (петь) Y	(a) cantat	TR		TR	TR		Pau (qu')a cantat la beròia canta (/cançon)					
-58	Gascon	70	write	X (write) Y	писать	X (писать) Y	(a) escriut	TR		TR	TR		Pau (qu')a escriut (/escrivut) la letra					
-58	Gascon	71	drink	X (drink) Y	пить	X (пить) Y	(a) begut	TR		TR	TR		Pau (qu')a begut la lèit					
-58	Gascon	72	melt	X (melt) Y	плавить	X (плавить) Y	(a) hèit hóner	TR		TR	TR	"CAUS. Используется каузативный глагол со значением ""делать"" + плавить"	Pau (qu')a hèit hóner un tròç de plom					
-58	Gascon	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	va	NOM	a	Y	NOMa	"Букв. ""идти"". A чередуется с дативной клитикой"	Aquera cinta (que) va a ma (/a la mia) rauba					
-58	Gascon	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	(a) deishat	TR		TR	TR		Pau (qu')a deishat sa (/la soa) vila nadau					
-58	Gascon	75	cover	X (cover) Y	покрывать	X (покрывать) Y	còbre	TR		TR	TR		Lo tapís (que) còbre (/cobreish) tot lo taulat					
-58	Gascon	76	remember	X (remember) Y	помнить	X (помнить) Y-а	se soven 	NOM	de	Y	NOMde	REFL	Pau se soven hòrt ben/plan de l'ostau (/Pau que's bremba hèra plan de la maison)					
-58	Gascon	77	help	X (help) Y	помочь	X (помогать) Y-у	(a) ajudat	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pau (qu')a ajudat a Maria					
-58	Gascon	78	understand	X (understand) Y	понимать	X (понимать) Y	compren	TR		TR	TR		Pau (que) compren lo francés					
-58	Gascon	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		NOM	sus	Y	NOMsus	"букв. ""упасть на"""	Lo hrugle (/pericle) (qu')es tombat sus l'ostau (/la maison)					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	s ('es) picat	NOM	dab	Y	NOMdab	REFL	Pau (que) s'es picat dab un rasèr					
-58	Gascon	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	s ('es) gahat	NOM	a	Y	NOMa	REFL. Невозможна замена на дативную клитику. 	Lo veire (que) s'es gahat/pegat a la taula					
-58	Gascon	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	(a) perdut	*		*		"НЗ: ""По-гасконски при данном глаголе невозможно выражение только двух актантов."""	Pau (qu')a perdut a Miquèu					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	s ('a) regaudit	NOM	en_causa_de	Y	NOMen_causa_de		Pau (que) s'a regaudit en causa de la letra					
-58	Gascon	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	parla	NOM	a	Y	NOMa	A чередуется с дативной клитикой	Pau (que) parla a Maria					
-58	Gascon	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	s ('es) acochada 	NOM	de	Y	NOMde	REFL. Есть еще второй вариант, (a) mainadat, он TR	Maria (qu')a mainadat un còisho / Maria (que) s'es acochada d'un còisho					
-58	Gascon	86	drop	X (drop) Y	ронять	X (ронять) Y	(a) deishat càder	TR		TR	TR	"CAUS. ""глагол с пермиссивным значением +  ""падать"""""	Pau (qu')a deishat càder/tombar un veire					
-58	Gascon	87	govern	X (govern) Y	руководить	X (руководить) Y	govèrna 	TR		TR	TR		Pau (que) govèrna nòste (/lo nòste) borg					
-58	Gascon	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	s'anuja	NOM	shens	Y	NOMshens	REFL. Есть еще второй вариант, там предлог de	Pau (que) s'anuja de Maria / Pau (que) s'anuja shens Maria					
-58	Gascon	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	sec	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pau (que) sèc (/segueish) a Maria					
-58	Gascon	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	(a) devarat	NOM	de	Y	NOMde		Pau (qu')a devarat de chivau					
-58	Gascon	91	listen	X (listen) to Y	слушать	X (слушать) Y	escota	TR		TR	TR		Pau (qu')escota la radio					
-58	Gascon	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	aubedís	NOM	a	Y	NOMa	A чередуется с дативной клитикой	Pau (qu')aubedís (/aubedeish) a sa (/la soa) mair					
-58	Gascon	93	hear	X (hear) Y	слышать	X (слышать) Y	audís	TR		TR	TR		Pau (qu')audís (/audeish/enten) la musica					
-58	Gascon	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	s ('es) barrejada	NOM	dab	Y	NOMdab	REFL	Lo mèu (que) s'es barrejada (/la mèu que s'es barrejada) dab la lèit					
-58	Gascon	95	look	X (look) at Y	смотреть	X (смотреть) на Y	espia	TR		TR	TR		Pau (qu')espia las nuas (/los crums)					
-58	Gascon	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	s ('a) tirat	TR		TR	TR		Pau (que) s'a tirat la camisa					
-58	Gascon	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	sauneja	NOM	a	Y	NOMa	Невозможна замена на дативную клитику. То же, что 48 -- мечтать	Pau (que) sauneja a Maria					
-58	Gascon	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	estó d'acòrd	NOM	dab	Y	NOMdab	NV	Pau (qu')estó d'acòrd dab Maria					
-58	Gascon	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	s ('a) cascanhat	NOM	dab	Y	NOMdab		Pau (que) s'a cascanhat (/s'es pelejat) dab Maria					
-58	Gascon	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	còsta	TR		TR	TR	"НЗ: ""Та же самая история, что и везде. Если ты не используешь синтаксические тесты, то условно относи к пеереходным."""	Aquera tassa (que) còsta un dòlar					
-58	Gascon	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	tirat	NOM	sus	Y	NOMsus		Pau (qu')a tirat sus un ausèth					
-58	Gascon	102	pour	X (pour) Y	сыпать	X (сыпать) Y	metó 	TR		TR	TR		Pau (que) metó sucre / Pau (que) versè sucre					
-58	Gascon	103	lose	X (lose) Y	терять	X (терять) Y	perdó 	TR		TR	TR		Pau (que) perdó sas (/las soas) claus					
-58	Gascon	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	s' (en) honsè 	NOM	dens	Y	NOMdens		Lo trap (que) s'en honsè dens l'aiga					
-58	Gascon	105	kill	X (kill) Y	убивать	X (убивать) Y-а	(a) tuat	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pau (qu')a tuat a Maria					
-58	Gascon	106	hit	X (hit) Y	ударить	X (ударять) Y-а	(a) tustat	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pau (qu')a tustat a Maria					
-58	Gascon	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	(a) abraçat	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pau (qu')a abraçat a Maria					
-58	Gascon	108	read	X (read) Y	читать	X (читать) Y-а	(a) legit	TR		TR	TR		Pau (qu')a legit un libe interessant					
-58	Gascon	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	a (ar)remudat	TR		TR	TR		Pau (qu')a (ar)remudat lo dit					
-58	Gascon	110	respect	X (respect) Y	уважать	X (уважать) Y-а	respecta	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pèir (que) respecta a Maria					
-58	Gascon	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	hèn narri 	a	NOM	X	aNOM	CV. Букв. делать + отвращение (narri). X -- нормальный получатель, чередуется с дативной клитикой	Los plats sales (/cascants) hèn narri (/hasti) a Pèir					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	(es) content	NOM	de	Y	NOMde	NV (доволен)	Pèir (qu')es content de son (/deu son) hilh					
-58	Gascon	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	(es) tombat amorós	NOM	de	Y	NOMde	"CV (""упал влюбленный"")"	Pèir (qu')es tombat amorós de Maria					
-58	Gascon	114	trust	X (trust) Y	доверять	X (доверять) Y-у	hida	NOM	a	Y	NOMa	Невозможна замена на дативную клитику. 	Pèir se (/que's) hida a Maria					
-58	Gascon	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	planh	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pèir (que) planh a sa (/la soa) mair					
-58	Gascon	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	enveja	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pèir (qu')enveja a Maria					
-58	Gascon	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	s'enmalís	NOM	contra	Y	NOMcontra	REFL. Это то же самое, что 122, но это не совсем честно, т.к. уже в анкете (французской) не было отдельного предложения	Pèir (que) s'enmalís (/enmaleish) contra Maria					
-58	Gascon	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	s'estonè 	NOM	de	Y	NOMde	REFL	Pèir (que) s'estonè d'aqueth cadèu					
-58	Gascon	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	aima	TR		TR	TR		Pèir (qu')aima lo tè					
-58	Gascon	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	se regala	NOM	de	Y	NOMde	REFL	Pèir se (/que's) regala deu tè caud					
-58	Gascon	121	want	X (want) Y	хотеть	X (хотеть) Y-а	vòu	TR		TR	TR		Pèir (que) vòu un portable navèth					
-58	Gascon	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	s'enmalís	NOM	contra	Y	NOMcontra	REFL. Это то же самое, что 117, но это не совсем честно, т.к. уже в анкете (французской) не было отдельного предложения	///					
-58	Gascon	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	s'aufensè 	NOM	contra	Y	NOMcontra	REFL	Pau (que) s'aufensè contra Maria					
-58	Gascon	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	empenat 	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pèir (qu') hòrt (/hèra) empenat a Maria					
-58	Gascon	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	s'estonè	NOM	de	Y	NOMde	REFL	(Que) s'estonè hòrt (/hèra) d'aquera vila					
-58	Gascon	126	despise	X (despise) Y	презирать	X (презирать) Y-а	mespresa	TR		TR	TR	"В переводе a, но это DOM. CV (""иметь в ненависти"")"	Pèir (que) mespresa a Maria					
-58	Gascon	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	s ('a) tartucat 	NOM	per	Y	NOMper		Pèir (que) s'a tartucat (/tesicat) per son hilh (/entà lo son hilh)					
-58	Gascon	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	s'esmalís 	NOM	contra	Y	NOMcontra	REFL	Pèir (que) s'esmalís (/s'esmaleish) contra la soa hilha.					
-58	Gascon	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	se'n aven 	NOM	dab	Y	NOMdab	REFL	Pèir (que) se'n aven dab Maria					(вопрос 6 мая 2017 к Наташе)
-58	Gascon	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	a honta	NOM	en_causa_de	Y	NOMen_causa_de	"CV (""имеет стыд"")"	Pèir (qu')a honta (/vergonha) en causa de sa (/la soa) talha)					
+58	Gascon	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	a mau	SBJ	de	Y	SBJ_de		Pau (qu')a mau de cap					"CV. букв. ""иметь боль + de"""
+58	Gascon	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	a	SBJ	DO	TR	TR		Pau (qu')a la raca (/gripa)					"букв. ""иметь"""
+58	Gascon	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	a páur	SBJ	a	Y	SBJ_a		Pau (qu')a páur au can					"(вопрос 6 мая 2017 к Наташе) CV. Невозможна замена на дативную клитику. ""Иметь страх + a"". Кстати, управление отличается от французского"
+58	Gascon	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	(a) gitat	SBJ	DO	TR	TR		Pau (qu')a gitat ua pèira					0
+58	Gascon	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	a pro	SBJ	DO	TR	TR		(Adara) Pau (qu')a pro sòs					"CV. букв. ""иметь достаточно"""
+58	Gascon	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	sembla	SBJ	a	Y	SBJ_a		Pau (que) sembla a Maria					(вопрос 6 мая 2017 к Наташе) A чередуется с дативной клитикой
+58	Gascon	7	believe	X (believe) Y	верить	X (верить)Y-у	crei	SBJ	DO	TR	TR		Pau (que) crei a Maria					В переводе a, но это DOM
+58	Gascon	8	take	X (take) Y	взять	X (брать) Y(-а)	(a) pres	SBJ	DO	TR	TR		Pau (qu')a pres lo libe sus la tauleta					0
+58	Gascon	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vei	SBJ	DO	TR	TR		Pau vei l'ostau (/la maison)					0
+58	Gascon	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	influéncia	SBJ	DO	TR	TR		L'atge (qu')influéncia la memòria					0
+58	Gascon	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	rencontrè	SBJ	DO	TR	TR		Pau (que) rencontrè a Maria					В переводе a, но это DOM
+58	Gascon	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	entrè	SBJ	dens	Y	SBJ_dens		Pau (qu')entrè dens l'ostau					0
+58	Gascon	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	*	*	*	*			*					По-гасконски при данном глаголе невозможно выражение только двух актантов.
+58	Gascon	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	(es) sortit	SBJ	de	Y	SBJ_de		Pau (qu')es sortit de l'ostau					0
+58	Gascon	15	drive	X (drive) Y	гнать	X (гнать) Y-а	mena	SBJ	DO	TR	TR		Pau que mena (/mea) sa (la soa) vaca [au pastenc]					0
+58	Gascon	16	bend	X (bend) Y	гнуть	X (гнуть) Y	pleguè 	SBJ	DO	TR	TR		Pau (que) pleguè la branca					0
+58	Gascon	17	tell	X (tell) Y	говорить	X (говорить) Y-у	dishó 	SBJ	a	Y	SBJ_a		"Pau (que) dishó a (/au) Miquèu : [""Ven a véde'm]"					A чередуется с дативной клитикой
+58	Gascon	18	hold	X (hold)Y	держать	X (держать) Y(-а)	ten	SBJ	DO	TR	TR		Pau (que) ten lo libe [a la man]					0
+58	Gascon	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	(a) (ar)regahat	SBJ	DO	TR	TR		Pau (qu')a (ar)regahat a (la) Maria					В переводе a, но это DOM
+58	Gascon	20	milk	X (milk) Y	доить	X (доить) Y-а	tirat la lèit	SBJ	de	Y	SBJ_de		Pau qu'a tirat la lèit de la vaca					"(вопрос 6 мая 2017 к Наташе) CV. букв. ""тащить молоко + de"""
+58	Gascon	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	(a) atenhut	SBJ	DO	TR	TR		Pau (qu')a atenhut la riba (/l'arriba)					0
+58	Gascon	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	(a) tocat	SBJ	DO	TR	TR		Pau (qu')a tocat lo mur (/la murralha)					0
+58	Gascon	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	s('es) batut	SBJ	contra	Y	SBJ_contra		Pau (que) s'es batut dab Miquèu/contra Miquèu					"REFL. Второй вариант предлога -- dab, ""Предлоги буквально переведены с французского, вероятно, такое же распределение."""
+58	Gascon	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	es un amic	*	*	*			Pau (qu')es un amic de Miquèu					"букв. ""быть другом + de"". Не беру,т.к. это чистое прииименное зависиме"
+58	Gascon	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	pensa	SBJ	a	Y	SBJ_a		Pau (que) pensa a Maria					Невозможна замена на дативную клитику. 
+58	Gascon	26	eat	X (eat) Y	есть	X (есть) Y	mingè 	SBJ	DO	TR	TR		Pau (que) mingè la poma					0
+58	Gascon	27	fry	X (fry) Y	жарить	X (жарить) Y	(a) rostit	SBJ	DO	TR	TR		Pau (qu')a rostit lo peish					0
+58	Gascon	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	espèra	SBJ	DO	TR	TR		Pau (qu')espèra a Maria					В переводе a, но это DOM
+58	Gascon	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	oblidè	*	*	*			Pau (qu')oblidè (/que's desbrombè) qu'existís (/existeish) un aute camin					"Получен только перевод с французского, а там СА (""Сентенциальный актант, вероятно, калька с французского. Непонятно, что с этим делать, как исключить влияние французского."")"
+58	Gascon	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	depend 	SBJ	de	Y	SBJ_de		La memòria d'ua persona (/d'un gent) (que) depend de (/deu) son atge					0
+58	Gascon	31	call	X (call) Y	звать	X (звать) Y-а	(a) sonat	SBJ	DO	TR	TR		Pau (qu')a sonat a Maria					В переводе a, но это DOM
+58	Gascon	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	a hèit conseishança	*	*	*			Hèi (/hè) un an, Pau (qu')a hèit conseishança de (la) Mari					"Приименное зависимое, букв. ""делать знакомтсво + de"""
+58	Gascon	33	know	X (know) Y	знать 	X (знать) Y-а	coneish	SBJ	DO	TR	TR		Pau (que) coneish a Miquèu					В переводе a, но это DOM
+58	Gascon	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	tòca	SBJ	de	Y	SBJ_de		Pau tòca de la guitara					0
+58	Gascon	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	escantís 	SBJ	DO	TR	TR		Pau escantís (/qu'evita) a Maria					В переводе a, но это DOM
+58	Gascon	36	make	X (make) Y	изготовить	X (изготовить) Y	(a) fabricat	SBJ	DO	TR	TR		Pau (qu')a fabricat la bomba					0
+58	Gascon	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	se trufa	SBJ	de	Y	SBJ_de		Pau se (/que's) trufa de Miquèu / Pau escarnís (/qu'escarneish) a Maria					"REFL. Есть еще другой перевод (escarnís, TR, DOM), но он более сильный, мне не надо (“Les deux traductions sont naturelles mais ""escarnir"" est plus fort que ""trufar"" (voir dictionnaires).” )"
+58	Gascon	38	have	X (have) Y	иметь	X (иметь) Y	a	SBJ	DO	TR	TR		Pau (qu')a ua veitura (/autò)					0
+58	Gascon	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	cerca	SBJ	DO	TR	TR		Pau (que) cerca las claus					0
+58	Gascon	40	paint	X (paint) Y	красить	X (красить) Y	(a) pintrat	SBJ	DO	TR	TR		Pau (qu')a pintrat la barralha (/barrèra)					0
+58	Gascon	41	bite	X (bite) Y	кусать	X (кусать) Y-а	(a) nhacat	SBJ	DO	TR	TR		Lo can (qu')a nhacat a Pau					В переводе a, но это DOM
+58	Gascon	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	(a) perdut	SBJ	DO	TR	TR		Pau (qu')a perdut son ostau (/la soa maison)					0
+58	Gascon	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	gaha	SBJ	DO	TR	TR		Pau (que) gaha son (/lo son) gat					0
+58	Gascon	44	break	X (break) Y	ломать	X (ломать) Y	(a) rot	SBJ	DO	TR	TR		Pau (qu')a rot lo (/lo son) pau					0
+58	Gascon	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	flateja	SBJ	DO	TR	TR		Pau (que) flateja a Maria					В переводе a, но это DOM
+58	Gascon	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	aima	SBJ	DO	TR	TR		Pau (qu')aima a Maria					В переводе a, но это DOM
+58	Gascon	47	wave	X (wave) Y	махать	X (махать) Y-ом	agita	SBJ	DO	TR	TR		Pau (qu')agita son (lo son) mocador					0
+58	Gascon	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	sauneja	SBJ	a	Y	SBJ_a		Paula (que) sauneja ad ua navèra veitura					Невозможна замена на дативную клитику. . То же, что 97 -- сниться
+58	Gascon	49	wash	X (wash) Y	мыть	X (мыть) Y	(a) lavat	SBJ	DO	TR	TR		Pau (qu')a lavat la tassa					0
+58	Gascon	50	put_on	X (put_on) Y	надевать	X (надевать) Y	(a) mes	SBJ	DO	TR	TR		Pau (qu')a mes son (/lo son) pantalon					0
+58	Gascon	51	be_called	X (be_called) Y	называться	X (называться) Y	se ditz	SBJ	DO	TR	TR		Aqueth instrument se (/que's) ditz ua bossòla					"НЗ: ""Мне кажется, синтаксические свойства тут явно будут другими, как во французском, но в этом предложении второй актант формально выражается так же, как и в канонической переходной конструкции."""
+58	Gascon	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	castigat	SBJ	DO	TR	TR		Pau (qu') castigat a son (/au son) hilh					В переводе a, но это DOM
+58	Gascon	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	s'arroncè	SBJ	sus	Y	SBJ_sus		L'ors (qu') ataquè au pescaire / L'ors (que) s'arroncè suu pescaire					"НЗ: ""Носитель не хочет выбирать""; Наташа сказала в связи с этим, что пусть будет первый вариант, но я в такой ситуации как раз беру второй по правилу о том, что ПРИ ПРОЧИХ РАВНЫХ УСЛОВИЯХ выбирается непеерходный. Первый вариант -- TR, DOM. Suu <= sus + lo"
+58	Gascon	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	s ('es) plenhada	SBJ	de	Y	SBJ_de		La selha (que) s'es plenhada d'aiga					0
+58	Gascon	55	find	X (find) Y	находить	X (находить) Y(-а)	trobè	SBJ	DO	TR	TR		Pau (que) trobè las claus					0
+58	Gascon	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	manca	a	SBJ	X	a_SBJ		(Que) manca un euro a Pau					0
+58	Gascon	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	a en hasti	SBJ	DO	TR	TR		Pau a Maria (que) l'a en hasti					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	58	like	X (like) Y	нравиться	X-у (нравиться) Y	agrada	a	SBJ	X	a_SBJ		Aquera camisa agrada (hòrt/hèra) a Pau / Pau (qu')aima aquera camisa					"Есть второй вариант, переходный, ""любить"" (aima). Вообще-то носитель его даже предпочел, но я беру этот, потому что aima используется при переводе других стимулов"
+58	Gascon	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	a besonh 	SBJ	DO	TR	TR		Pau (qu')a besonh sòs					"CV. ""букв ""иметь необходимость (без предлога)"""""
+58	Gascon	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	enròdan	SBJ	DO	TR	TR		Las murralhas (qu')enròdan la vila					0
+58	Gascon	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	demòran	a	SBJ	X	a_SBJ		(Que) demòran dètz dòlars a Pau					0
+58	Gascon	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	responut	SBJ	a	Y	SBJ_a		Pau (qu')a responut au professor					A чередуется с дативной клитикой
+58	Gascon	63	open	X (open) Y	открывать	X (открывать) Y	(a) obèrt	SBJ	DO	TR	TR		Pau (qu')a obèrt lo bocau					0
+58	Gascon	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	se distinguís	SBJ	de	Y	SBJ_de		Ma (/la mia) camisa se distinguís (/que's distingueish) de la toa					0
+58	Gascon	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	s ('a) hèit enlà	SBJ	de	Y	SBJ_de		Pau (que) s'a hèit enlà (en arrèr) de Miren					"(вопрос 6 мая 2017 к Наташе) CV. Букв. ""делается сзади от…"". Еще вариант (s ('a) hèit en arrèr (de)). В письме есть комментарий о распределении "
+58	Gascon	66	plough	X (plough) Y	пахать	X (пахать) Y	boja	SBJ	DO	TR	TR		Pau (que) boja (/laura) lo camp					0
+58	Gascon	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	senten	SBJ	a	Y	SBJ_a		Mas (/las meas) mans (que) senten (/senteishen) a l'essença					Невозможна замена на дативную клитику. 
+58	Gascon	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	(a) traversat	SBJ	DO	TR	TR		Pau (qu')a traversat la rota (/lo camin)					0
+58	Gascon	69	sing	X (sing) Y	петь	X (петь) Y	(a) cantat	SBJ	DO	TR	TR		Pau (qu')a cantat la beròia canta (/cançon)					0
+58	Gascon	70	write	X (write) Y	писать	X (писать) Y	(a) escriut	SBJ	DO	TR	TR		Pau (qu')a escriut (/escrivut) la letra					0
+58	Gascon	71	drink	X (drink) Y	пить	X (пить) Y	(a) begut	SBJ	DO	TR	TR		Pau (qu')a begut la lèit					0
+58	Gascon	72	melt	X (melt) Y	плавить	X (плавить) Y	(a) hèit hóner	SBJ	DO	TR	TR		Pau (qu')a hèit hóner un tròç de plom					"CAUS. Используется каузативный глагол со значением ""делать"" + плавить"
+58	Gascon	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	va	SBJ	a	Y	SBJ_a		Aquera cinta (que) va a ma (/a la mia) rauba					"Букв. ""идти"". A чередуется с дативной клитикой"
+58	Gascon	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	(a) deishat	SBJ	DO	TR	TR		Pau (qu')a deishat sa (/la soa) vila nadau					0
+58	Gascon	75	cover	X (cover) Y	покрывать	X (покрывать) Y	còbre	SBJ	DO	TR	TR		Lo tapís (que) còbre (/cobreish) tot lo taulat					0
+58	Gascon	76	remember	X (remember) Y	помнить	X (помнить) Y-а	se soven 	SBJ	de	Y	SBJ_de		Pau se soven hòrt ben/plan de l'ostau (/Pau que's bremba hèra plan de la maison)					REFL
+58	Gascon	77	help	X (help) Y	помочь	X (помогать) Y-у	(a) ajudat	SBJ	DO	TR	TR		Pau (qu')a ajudat a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	78	understand	X (understand) Y	понимать	X (понимать) Y	compren	SBJ	DO	TR	TR		Pau (que) compren lo francés					0
+58	Gascon	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		SBJ	sus	Y	SBJ_sus		Lo hrugle (/pericle) (qu')es tombat sus l'ostau (/la maison)					"(вопрос 6 мая 2017 к Наташе) букв. ""упасть на"""
+58	Gascon	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	s ('es) picat	SBJ	dab	Y	SBJ_dab		Pau (que) s'es picat dab un rasèr					REFL
+58	Gascon	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	s ('es) gahat	SBJ	a	Y	SBJ_a		Lo veire (que) s'es gahat/pegat a la taula					REFL. Невозможна замена на дативную клитику. 
+58	Gascon	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	(a) perdut	*	*	*			Pau (qu')a perdut a Miquèu					"(вопрос 6 мая 2017 к Наташе) НЗ: ""По-гасконски при данном глаголе невозможно выражение только двух актантов."""
+58	Gascon	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	s ('a) regaudit	SBJ	en_causa_de	Y	SBJ_en.causa.de		Pau (que) s'a regaudit en causa de la letra					0
+58	Gascon	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	parla	SBJ	a	Y	SBJ_a		Pau (que) parla a Maria					A чередуется с дативной клитикой
+58	Gascon	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	s ('es) acochada 	SBJ	de	Y	SBJ_de		Maria (qu')a mainadat un còisho / Maria (que) s'es acochada d'un còisho					REFL. Есть еще второй вариант, (a) mainadat, он TR
+58	Gascon	86	drop	X (drop) Y	ронять	X (ронять) Y	(a) deishat càder	SBJ	DO	TR	TR		Pau (qu')a deishat càder/tombar un veire					"CAUS. ""глагол с пермиссивным значением +  ""падать"""""
+58	Gascon	87	govern	X (govern) Y	руководить	X (руководить) Y	govèrna 	SBJ	DO	TR	TR		Pau (que) govèrna nòste (/lo nòste) borg					0
+58	Gascon	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	s'anuja	SBJ	shens	Y	SBJ_shens		Pau (que) s'anuja de Maria / Pau (que) s'anuja shens Maria					REFL. Есть еще второй вариант, там предлог de
+58	Gascon	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	sec	SBJ	DO	TR	TR		Pau (que) sèc (/segueish) a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	(a) devarat	SBJ	de	Y	SBJ_de		Pau (qu')a devarat de chivau					0
+58	Gascon	91	listen	X (listen) to Y	слушать	X (слушать) Y	escota	SBJ	DO	TR	TR		Pau (qu')escota la radio					0
+58	Gascon	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	aubedís	SBJ	a	Y	SBJ_a		Pau (qu')aubedís (/aubedeish) a sa (/la soa) mair					A чередуется с дативной клитикой
+58	Gascon	93	hear	X (hear) Y	слышать	X (слышать) Y	audís	SBJ	DO	TR	TR		Pau (qu')audís (/audeish/enten) la musica					0
+58	Gascon	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	s ('es) barrejada	SBJ	dab	Y	SBJ_dab		Lo mèu (que) s'es barrejada (/la mèu que s'es barrejada) dab la lèit					REFL
+58	Gascon	95	look	X (look) at Y	смотреть	X (смотреть) на Y	espia	SBJ	DO	TR	TR		Pau (qu')espia las nuas (/los crums)					0
+58	Gascon	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	s ('a) tirat	SBJ	DO	TR	TR		Pau (que) s'a tirat la camisa					0
+58	Gascon	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	sauneja	SBJ	a	Y	SBJ_a		Pau (que) sauneja a Maria					Невозможна замена на дативную клитику. То же, что 48 -- мечтать
+58	Gascon	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	estó d'acòrd	SBJ	dab	Y	SBJ_dab		Pau (qu')estó d'acòrd dab Maria					NV
+58	Gascon	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	s ('a) cascanhat	SBJ	dab	Y	SBJ_dab		Pau (que) s'a cascanhat (/s'es pelejat) dab Maria					0
+58	Gascon	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	còsta	SBJ	DO	TR	TR		Aquera tassa (que) còsta un dòlar					"НЗ: ""Та же самая история, что и везде. Если ты не используешь синтаксические тесты, то условно относи к пеереходным."""
+58	Gascon	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	tirat	SBJ	sus	Y	SBJ_sus		Pau (qu')a tirat sus un ausèth					0
+58	Gascon	102	pour	X (pour) Y	сыпать	X (сыпать) Y	metó 	SBJ	DO	TR	TR		Pau (que) metó sucre / Pau (que) versè sucre					0
+58	Gascon	103	lose	X (lose) Y	терять	X (терять) Y	perdó 	SBJ	DO	TR	TR		Pau (que) perdó sas (/las soas) claus					0
+58	Gascon	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	s' (en) honsè 	SBJ	dens	Y	SBJ_dens		Lo trap (que) s'en honsè dens l'aiga					0
+58	Gascon	105	kill	X (kill) Y	убивать	X (убивать) Y-а	(a) tuat	SBJ	DO	TR	TR		Pau (qu')a tuat a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	106	hit	X (hit) Y	ударить	X (ударять) Y-а	(a) tustat	SBJ	DO	TR	TR		Pau (qu')a tustat a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	(a) abraçat	SBJ	DO	TR	TR		Pau (qu')a abraçat a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	108	read	X (read) Y	читать	X (читать) Y-а	(a) legit	SBJ	DO	TR	TR		Pau (qu')a legit un libe interessant					0
+58	Gascon	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	a (ar)remudat	SBJ	DO	TR	TR		Pau (qu')a (ar)remudat lo dit					0
+58	Gascon	110	respect	X (respect) Y	уважать	X (уважать) Y-а	respecta	SBJ	DO	TR	TR		Pèir (que) respecta a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	hèn narri 	a	SBJ	X	a_SBJ		Los plats sales (/cascants) hèn narri (/hasti) a Pèir					(вопрос 6 мая 2017 к Наташе) CV. Букв. делать + отвращение (narri). X -- нормальный получатель, чередуется с дативной клитикой
+58	Gascon	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	(es) content	SBJ	de	Y	SBJ_de		Pèir (qu')es content de son (/deu son) hilh					NV (доволен)
+58	Gascon	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	(es) tombat amorós	SBJ	de	Y	SBJ_de		Pèir (qu')es tombat amorós de Maria					"CV (""упал влюбленный"")"
+58	Gascon	114	trust	X (trust) Y	доверять	X (доверять) Y-у	hida	SBJ	a	Y	SBJ_a		Pèir se (/que's) hida a Maria					Невозможна замена на дативную клитику. 
+58	Gascon	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	planh	SBJ	DO	TR	TR		Pèir (que) planh a sa (/la soa) mair					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	enveja	SBJ	DO	TR	TR		Pèir (qu')enveja a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	s'enmalís	SBJ	contra	Y	SBJ_contra		Pèir (que) s'enmalís (/enmaleish) contra Maria					REFL. Это то же самое, что 122, но это не совсем честно, т.к. уже в анкете (французской) не было отдельного предложения
+58	Gascon	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	s'estonè 	SBJ	de	Y	SBJ_de		Pèir (que) s'estonè d'aqueth cadèu					REFL
+58	Gascon	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	aima	SBJ	DO	TR	TR		Pèir (qu')aima lo tè					0
+58	Gascon	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	se regala	SBJ	de	Y	SBJ_de		Pèir se (/que's) regala deu tè caud					REFL
+58	Gascon	121	want	X (want) Y	хотеть	X (хотеть) Y-а	vòu	SBJ	DO	TR	TR		Pèir (que) vòu un portable navèth					0
+58	Gascon	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	s'enmalís	SBJ	contra	Y	SBJ_contra		///					REFL. Это то же самое, что 117, но это не совсем честно, т.к. уже в анкете (французской) не было отдельного предложения
+58	Gascon	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	s'aufensè 	SBJ	contra	Y	SBJ_contra		Pau (que) s'aufensè contra Maria					REFL
+58	Gascon	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	empenat 	SBJ	DO	TR	TR		Pèir (qu') hòrt (/hèra) empenat a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	s'estonè	SBJ	de	Y	SBJ_de		(Que) s'estonè hòrt (/hèra) d'aquera vila					REFL
+58	Gascon	126	despise	X (despise) Y	презирать	X (презирать) Y-а	mespresa	SBJ	DO	TR	TR		Pèir (que) mespresa a Maria					"В переводе a, но это DOM. CV (""иметь в ненависти"")"
+58	Gascon	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	s ('a) tartucat 	SBJ	per	Y	SBJ_per		Pèir (que) s'a tartucat (/tesicat) per son hilh (/entà lo son hilh)					0
+58	Gascon	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	s'esmalís 	SBJ	contra	Y	SBJ_contra		Pèir (que) s'esmalís (/s'esmaleish) contra la soa hilha.					REFL
+58	Gascon	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	se'n aven 	SBJ	dab	Y	SBJ_dab		Pèir (que) se'n aven dab Maria					(вопрос 6 мая 2017 к Наташе) REFL
+58	Gascon	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	a honta	SBJ	en_causa_de	Y	SBJ_en.causa.de		Pèir (qu')a honta (/vergonha) en causa de sa (/la soa) talha)					"CV (""имеет стыд"")"

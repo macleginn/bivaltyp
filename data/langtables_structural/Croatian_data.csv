@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 73	Croatian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	boli	ACC	NOM	X	ACC_NOM							
-73	Croatian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	ima 	TR		TR	TR	"Букв. ""иметь"" (то же, что 38). Есть вариант Bolovati (у него модель NOM_odGEN)"						
-73	Croatian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	se boji	NOM	GEN	Y	NOM_GEN	REFL						
-73	Croatian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bacio	TR		TR	TR							
-73	Croatian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	ima dosta	*		*		"Не засчитываю: получена только структура типа ""имеет достаточно денег"", где ""денег"" (партитив) скорее всего зависит от ""достаточно"")"						
-73	Croatian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	sličan	NOM	DAT	Y	NOM_DAT	NV						
+73	Croatian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	ima 	NOM	ACC	TR	TR							"Букв. ""иметь"" (то же, что 38). Есть вариант Bolovati (у него модель NOM_odGEN)"
+73	Croatian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	se boji	NOM	GEN	Y	NOM_GEN							REFL
+73	Croatian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bacio	NOM	ACC	TR	TR							
+73	Croatian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	ima dosta	*	*	*								"Не засчитываю: получена только структура типа ""имеет достаточно денег"", где ""денег"" (партитив) скорее всего зависит от ""достаточно"")"
+73	Croatian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	sličan	NOM	DAT	Y	NOM_DAT							NV
 73	Croatian	7	believe	X (believe) Y	верить	X (верить)Y-у	vjeruje	NOM	DAT	Y	NOM_DAT							
-73	Croatian	8	take	X (take) Y	взять	X (брать) Y(-а)	uzeo	TR		TR	TR							
-73	Croatian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vidi 	TR		TR	TR							
+73	Croatian	8	take	X (take) Y	взять	X (брать) Y(-а)	uzeo	NOM	ACC	TR	TR							
+73	Croatian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vidi 	NOM	ACC	TR	TR							
 73	Croatian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	utječe	NOM	naACC	Y	NOM_naACC							
-73	Croatian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	sreo	TR		TR	TR	Еще есть вариант se sreo (NOM_sINS), но при случайной встрече естественнее переходный вариант						
+73	Croatian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	sreo	NOM	ACC	TR	TR							Еще есть вариант se sreo (NOM_sINS), но при случайной встрече естественнее переходный вариант
 73	Croatian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ušao	NOM	uACC	Y	NOM_uACC							
-73	Croatian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	pobijedio	TR		TR	TR							
+73	Croatian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	pobijedio	NOM	ACC	TR	TR							
 73	Croatian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	izašao	NOM	izGEN	Y	NOM_izGEN							
-73	Croatian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	tjera	TR		TR	TR							
-73	Croatian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	savio	TR		TR	TR							
+73	Croatian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	tjera	NOM	ACC	TR	TR							
+73	Croatian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	savio	NOM	ACC	TR	TR							
 73	Croatian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	rekao	NOM	DAT	Y	NOM_DAT							
-73	Croatian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	drži	TR		TR	TR							
-73	Croatian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	stigao	TR		TR	TR							
-73	Croatian	20	milk	X (milk) Y	доить	X (доить) Y-а	pomuzao	TR		TR	TR							
+73	Croatian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	drži	NOM	ACC	TR	TR							
+73	Croatian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	stigao	NOM	ACC	TR	TR							
+73	Croatian	20	milk	X (milk) Y	доить	X (доить) Y-а	pomuzao	NOM	ACC	TR	TR							
 73	Croatian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	došao	NOM	doGEN	Y	NOM_doGEN							
-73	Croatian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	dodirnuo	TR		TR	TR							
-73	Croatian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	se tuče	NOM	sINS	Y	NOM_sINS	REFL						
-73	Croatian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	se druži	NOM	sINS	Y	NOM_sINS	REFL						
-73	Croatian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	misli	NOM	naACC	Y	NOM_naACC	"Можно еще NOM_oLOC, но это скорее ""обдумывать"""						
-73	Croatian	26	eat	X (eat) Y	есть	X (есть) Y	pojeo	TR		TR	TR							
-73	Croatian	27	fry	X (fry) Y	жарить	X (жарить) Y	ispekao	TR		TR	TR							
-73	Croatian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	čeka	TR		TR	TR							
-73	Croatian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	NEG + se sjetio	NOM	GEN	Y	NOM_GEN	Этот генитив не связан с отрицанием. Есть еще вариант na+ACC, но он кажется Миславу менее естественным						
+73	Croatian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	dodirnuo	NOM	ACC	TR	TR							
+73	Croatian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	se tuče	NOM	sINS	Y	NOM_sINS							REFL
+73	Croatian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	se druži	NOM	sINS	Y	NOM_sINS							REFL
+73	Croatian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	misli	NOM	naACC	Y	NOM_naACC							"Можно еще NOM_oLOC, но это скорее ""обдумывать"""
+73	Croatian	26	eat	X (eat) Y	есть	X (есть) Y	pojeo	NOM	ACC	TR	TR							
+73	Croatian	27	fry	X (fry) Y	жарить	X (жарить) Y	ispekao	NOM	ACC	TR	TR							
+73	Croatian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	čeka	NOM	ACC	TR	TR							
+73	Croatian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	NEG + se sjetio	NOM	GEN	Y	NOM_GEN							Этот генитив не связан с отрицанием. Есть еще вариант na+ACC, но он кажется Миславу менее естественным
 73	Croatian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	ovisi	NOM	oLOC	Y	NOM_oLOC							
-73	Croatian	31	call	X (call) Y	звать	X (звать) Y-а	pozvao	TR		TR	TR							
-73	Croatian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	se upoznao	NOM	sINS	Y	NOM_sINS	REFL. Эта конструкция значит скорее само вступление в знакомство, а еще есть просто upoznao (TR), это скорее обозначает получение нового опыта (Мислав)						
-73	Croatian	33	know	X (know) Y	знать 	X (знать) Y-а	pozna	TR		TR	TR							
-73	Croatian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	svira	TR		TR	TR							
-73	Croatian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	izbjegava	TR		TR	TR							
-73	Croatian	36	make	X (make) Y	изготовить	X (изготовить) Y	napravio	TR		TR	TR							
-73	Croatian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	se ruga	NOM	DAT	Y	NOM_DAT	REFL.						
-73	Croatian	38	have	X (have) Y	иметь	X (иметь) Y	ima	TR		TR	TR	То же, что 2.						
-73	Croatian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	traži	TR		TR	TR							
-73	Croatian	40	paint	X (paint) Y	красить	X (красить) Y	farba	TR		TR	TR	"Мислав: ""литературный язык: Pero boja ogradu"""						
-73	Croatian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ugrizao	TR		TR	TR							
-73	Croatian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	ostao	NOM	bezGEN	Y	NOM_bezGEN	"Тот же глагол, но другая конструкция, что 61 (оставаться). Есть еще вариант izgubio (TR). Мислав: ""Эквивалента русскому глаголу лишиться в хорватском, пожалуй, нет, а два варианта, которые я предложил, по-моему довольно точно соответствуют русским примерам он остался без дома и он потерял дом. Иными словами, в этих конкретных примерах разница только стилистическая: первый вариант более естествен, а второй вследствие метафоры звучит чуть-чуть пафосно."""						
-73	Croatian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	hvata	TR		TR	TR							
-73	Croatian	44	break	X (break) Y	ломать	X (ломать) Y	slomio	TR		TR	TR							
+73	Croatian	31	call	X (call) Y	звать	X (звать) Y-а	pozvao	NOM	ACC	TR	TR							
+73	Croatian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	se upoznao	NOM	sINS	Y	NOM_sINS							REFL. Эта конструкция значит скорее само вступление в знакомство, а еще есть просто upoznao (TR), это скорее обозначает получение нового опыта (Мислав)
+73	Croatian	33	know	X (know) Y	знать 	X (знать) Y-а	pozna	NOM	ACC	TR	TR							
+73	Croatian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	svira	NOM	ACC	TR	TR							
+73	Croatian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	izbjegava	NOM	ACC	TR	TR							
+73	Croatian	36	make	X (make) Y	изготовить	X (изготовить) Y	napravio	NOM	ACC	TR	TR							
+73	Croatian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	se ruga	NOM	DAT	Y	NOM_DAT							REFL.
+73	Croatian	38	have	X (have) Y	иметь	X (иметь) Y	ima	NOM	ACC	TR	TR							То же, что 2.
+73	Croatian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	traži	NOM	ACC	TR	TR							
+73	Croatian	40	paint	X (paint) Y	красить	X (красить) Y	farba	NOM	ACC	TR	TR							"Мислав: ""литературный язык: Pero boja ogradu"""
+73	Croatian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	ugrizao	NOM	ACC	TR	TR							
+73	Croatian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	ostao	NOM	bezGEN	Y	NOM_bezGEN							"Тот же глагол, но другая конструкция, что 61 (оставаться). Есть еще вариант izgubio (TR). Мислав: ""Эквивалента русскому глаголу лишиться в хорватском, пожалуй, нет, а два варианта, которые я предложил, по-моему довольно точно соответствуют русским примерам он остался без дома и он потерял дом. Иными словами, в этих конкретных примерах разница только стилистическая: первый вариант более естествен, а второй вследствие метафоры звучит чуть-чуть пафосно."""
+73	Croatian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	hvata	NOM	ACC	TR	TR							
+73	Croatian	44	break	X (break) Y	ломать	X (ломать) Y	slomio	NOM	ACC	TR	TR							
 73	Croatian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	laska	NOM	DAT	Y	NOM_DAT							
-73	Croatian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	voli	TR		TR	TR	То же, что 119 (любить-2)						
+73	Croatian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	voli	NOM	ACC	TR	TR							То же, что 119 (любить-2)
 73	Croatian	47	wave	X (wave) Y	махать	X (махать) Y-ом	maše	NOM	INS	Y	NOM_INS							
 73	Croatian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	mašta	NOM	oLOC	Y	NOM_oLOC							
-73	Croatian	49	wash	X (wash) Y	мыть	X (мыть) Y	oprao	TR		TR	TR							
-73	Croatian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	obukao	TR		TR	TR							
-73	Croatian	51	be_called	X (be_called) Y	называться	X (называться) Y	se zove	NOM	NOM	Y	NOM_NOM	REFL						
-73	Croatian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	kaznio	TR		TR	TR							
-73	Croatian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	napao	TR		TR	TR							
-73	Croatian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	se napunila	NOM	INS	Y	NOM_INS	REFL						
-73	Croatian	55	find	X (find) Y	находить	X (находить) Y(-а)	našao	TR		TR	TR							
-73	Croatian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	fali	DAT	NOM	X	DAT_NOM	"Мислав: ""литературный язык: Peri nedostaje jedan dolar"". То же, что 88"						
-73	Croatian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	mrzi	TR		TR	TR							
+73	Croatian	49	wash	X (wash) Y	мыть	X (мыть) Y	oprao	NOM	ACC	TR	TR							
+73	Croatian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	obukao	NOM	ACC	TR	TR							
+73	Croatian	51	be_called	X (be_called) Y	называться	X (называться) Y	se zove	NOM	NOM	Y	NOM_NOM							REFL
+73	Croatian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	kaznio	NOM	ACC	TR	TR							
+73	Croatian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	napao	NOM	ACC	TR	TR							
+73	Croatian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	se napunila	NOM	INS	Y	NOM_INS							REFL
+73	Croatian	55	find	X (find) Y	находить	X (находить) Y(-а)	našao	NOM	ACC	TR	TR							
+73	Croatian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	fali	DAT	NOM	X	DAT_NOM							"Мислав: ""литературный язык: Peri nedostaje jedan dolar"". То же, что 88"
+73	Croatian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	mrzi	NOM	ACC	TR	TR							
 73	Croatian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	sviđa	DAT	NOM	X	DAT_NOM							
 73	Croatian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	treba 	DAT	NOM	X	DAT_NOM							
-73	Croatian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	okružuju	TR		TR	TR	"Есть еще вариант ""Grad je okružen zidovima"", INS_NOM (CV)"						
-73	Croatian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	ostalo	DAT	NOM	X	DAT_NOM	Тот же глагол, но другая конструкция, что 42 (лишаться). 						
+73	Croatian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	okružuju	NOM	ACC	TR	TR							"Есть еще вариант ""Grad je okružen zidovima"", INS_NOM (CV)"
+73	Croatian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	ostalo	DAT	NOM	X	DAT_NOM							Тот же глагол, но другая конструкция, что 42 (лишаться). 
 73	Croatian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	odgovorio	NOM	DAT	Y	NOM_DAT							
-73	Croatian	63	open	X (open) Y	открывать	X (открывать) Y	otvorio	TR		TR	TR							
-73	Croatian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	drukčija	NOM	odGEN	Y	NOM_odGEN	"NV. Есть еще вариант ""se razlikuje"", та же модель управления"						
+73	Croatian	63	open	X (open) Y	открывать	X (открывать) Y	otvorio	NOM	ACC	TR	TR							
+73	Croatian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	drukčija	NOM	odGEN	Y	NOM_odGEN							"NV. Есть еще вариант ""se razlikuje"", та же модель управления"
 73	Croatian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	zaostao	NOM	zaINS	Y	NOM_zaINS							
-73	Croatian	66	plough	X (plough) Y	пахать	X (пахать) Y	ore	TR		TR	TR							
-73	Croatian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smrde	NOM	poDAT	Y	NOM_poDAT	"Есть целая россыпь вариантов: ""Ruke mi smrde po benzinu/na benzin. Возможен также каузатор: Ruke mi smrde od benzina. (na benzin = тип запаха (стимул?) po benzinu (стимул?(/каузатор)), od benzina (каузатор); в некоторых говорах тип запаха выражается также творительным падежом (некоторые чакавские говоры - остров Углян...), no v большинстве говоров творительный в настоящее время невозможен)"""						
-73	Croatian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	prešao	TR		TR	TR							
-73	Croatian	69	sing	X (sing) Y	петь	X (петь) Y	otpjevao	TR		TR	TR							
-73	Croatian	70	write	X (write) Y	писать	X (писать) Y	napisao	TR		TR	TR							
-73	Croatian	71	drink	X (drink) Y	пить	X (пить) Y	popio	TR		TR	TR							
-73	Croatian	72	melt	X (melt) Y	плавить	X (плавить) Y	otopio	TR		TR	TR	В других вариантах языка есть еще вариант taliti, тоже TR						
-73	Croatian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	ide	NOM	uzACC	Y	NOM_uzACC	"Букв. ""идет"" (то же, что 89)"						
-73	Croatian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	napustio	TR		TR	TR							
-73	Croatian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	pokriva	TR		TR	TR							
-73	Croatian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	se sjeća	NOM	GEN	Y	NOM_GEN	REFL (еще возможно, особенно в письменном языке, pamti, TR)						
+73	Croatian	66	plough	X (plough) Y	пахать	X (пахать) Y	ore	NOM	ACC	TR	TR							
+73	Croatian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smrde	NOM	poDAT	Y	NOM_poDAT							"Есть целая россыпь вариантов: ""Ruke mi smrde po benzinu/na benzin. Возможен также каузатор: Ruke mi smrde od benzina. (na benzin = тип запаха (стимул?) po benzinu (стимул?(/каузатор)), od benzina (каузатор); в некоторых говорах тип запаха выражается также творительным падежом (некоторые чакавские говоры - остров Углян...), no v большинстве говоров творительный в настоящее время невозможен)"""
+73	Croatian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	prešao	NOM	ACC	TR	TR							
+73	Croatian	69	sing	X (sing) Y	петь	X (петь) Y	otpjevao	NOM	ACC	TR	TR							
+73	Croatian	70	write	X (write) Y	писать	X (писать) Y	napisao	NOM	ACC	TR	TR							
+73	Croatian	71	drink	X (drink) Y	пить	X (пить) Y	popio	NOM	ACC	TR	TR							
+73	Croatian	72	melt	X (melt) Y	плавить	X (плавить) Y	otopio	NOM	ACC	TR	TR							В других вариантах языка есть еще вариант taliti, тоже TR
+73	Croatian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	ide	NOM	uzACC	Y	NOM_uzACC							"Букв. ""идет"" (то же, что 89)"
+73	Croatian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	napustio	NOM	ACC	TR	TR							
+73	Croatian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	pokriva	NOM	ACC	TR	TR							
+73	Croatian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	se sjeća	NOM	GEN	Y	NOM_GEN							REFL (еще возможно, особенно в письменном языке, pamti, TR)
 73	Croatian	77	help	X (help) Y	помочь	X (помогать) Y-у	pomogao	NOM	DAT	Y	NOM_DAT							
-73	Croatian	78	understand	X (understand) Y	понимать	X (понимать) Y	razumije	TR		TR	TR							
-73	Croatian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	pogodila	TR		TR	TR							
-73	Croatian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	se porezao	NOM	INS	Y	NOM_INS	"REFL. Еще есть вариант: ""na britvu: только случайно и, как правило, если петя притом бритвой не пользовался как инструментом (не брился, а, к примеру, разглядывал бритву и порезал палец); britvom: если он бритвой ползовался как инструментом (если он, к примеру, порезался при бритье)"""						
-73	Croatian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	se zalijepila	NOM	zaACC	Y	NOM_zaACC	REFL.						
-73	Croatian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	izgubio	NOM	odGEN	Y	NOM_odGEN	Тот же глагол, но другая конструкция, что терять (103)						
-73	Croatian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	se obradovao	NOM	DAT	Y	NOM_DAT	"REFL. Еще есть вариант ""pismo je obradovalo Peru"" (ACC_NOM)"						
-73	Croatian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	priča	NOM	sINS	Y	NOM_sINS	Еще есть симметричный вариант (X и Y разговаривают)						
-73	Croatian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	rodila	TR		TR	TR							
-73	Croatian	86	drop	X (drop) Y	ронять	X (ронять) Y	ispala	DAT	NOM	X	DAT_NOM	"Еще есть вариант ""Pero je ispustio čašu"", TR, но ""первый вариант более естествен и лучше соответствует русскому предложению"""						
-73	Croatian	87	govern	X (govern) Y	руководить	X (руководить) Y	načelnik	NOM	GEN	Y	NOM_GEN	NV. Надо подумать, тут только приименное зависимое (П. -- начальник села)						
-73	Croatian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	fali	DAT	NOM	X	DAT_NOM	"""нет эквивалента; можно сказать Pero tuguje za Marijom., но это как бы перегиб в другую сторону"". То же, что 56"						
-73	Croatian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	ide	NOM	zaINS	Y	NOM_zaINS	"Букв. ""идет"" (то же, что 73). ""Pero dolazi poslije Miše./Pero slijedi za Mišom. (есть глагол slijediti, но он в разговорном языке в контекстах типичных за разговорный язык не употребляется...)"""						
+73	Croatian	78	understand	X (understand) Y	понимать	X (понимать) Y	razumije	NOM	ACC	TR	TR							
+73	Croatian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	pogodila	NOM	ACC	TR	TR							
+73	Croatian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	se porezao	NOM	INS	Y	NOM_INS							"REFL. Еще есть вариант: ""na britvu: только случайно и, как правило, если петя притом бритвой не пользовался как инструментом (не брился, а, к примеру, разглядывал бритву и порезал палец); britvom: если он бритвой ползовался как инструментом (если он, к примеру, порезался при бритье)"""
+73	Croatian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	se zalijepila	NOM	zaACC	Y	NOM_zaACC							REFL.
+73	Croatian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	izgubio	NOM	odGEN	Y	NOM_odGEN							Тот же глагол, но другая конструкция, что терять (103)
+73	Croatian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	se obradovao	NOM	DAT	Y	NOM_DAT							"REFL. Еще есть вариант ""pismo je obradovalo Peru"" (ACC_NOM)"
+73	Croatian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	priča	NOM	sINS	Y	NOM_sINS							Еще есть симметричный вариант (X и Y разговаривают)
+73	Croatian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	rodila	NOM	ACC	TR	TR							
+73	Croatian	86	drop	X (drop) Y	ронять	X (ронять) Y	ispala	DAT	NOM	X	DAT_NOM							"Еще есть вариант ""Pero je ispustio čašu"", TR, но ""первый вариант более естествен и лучше соответствует русскому предложению"""
+73	Croatian	87	govern	X (govern) Y	руководить	X (руководить) Y	načelnik	NOM	GEN	Y	NOM_GEN							NV. Надо подумать, тут только приименное зависимое (П. -- начальник села)
+73	Croatian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	fali	DAT	NOM	X	DAT_NOM							"""нет эквивалента; можно сказать Pero tuguje za Marijom., но это как бы перегиб в другую сторону"". То же, что 56"
+73	Croatian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	ide	NOM	zaINS	Y	NOM_zaINS							"Букв. ""идет"" (то же, что 73). ""Pero dolazi poslije Miše./Pero slijedi za Mišom. (есть глагол slijediti, но он в разговорном языке в контекстах типичных за разговорный язык не употребляется...)"""
 73	Croatian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	sišao	NOM	sGEN	Y	NOM_sGEN							
-73	Croatian	91	listen	X (listen) to Y	слушать	X (слушать) Y	sluša	TR		TR	TR	То же, что 92						
-73	Croatian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	sluša	TR		TR	TR	То же, что 91						
-73	Croatian	93	hear	X (hear) Y	слышать	X (слышать) Y	čuje	TR		TR	TR							
-73	Croatian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	se pomiješao	NOM	sINS	Y	NOM_sINS	REFL.						
-73	Croatian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	gleda	TR		TR	TR	"""можно также Pero gleda u oblake., но это обозначает направление его взгляда; есть также конструкция типа gledati na в значении обращать внимание на"""						
-73	Croatian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	skinuo	TR		TR	TR							
-73	Croatian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	sanja	TR		TR	TR							
-73	Croatian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	se složio	NOM	sINS	Y	NOM_sINS	REFL.						
-73	Croatian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	se posvađao	NOM	sINS	Y	NOM_sINS	REFL.						
-73	Croatian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	košta	TR		TR	TR	"Несмотря на рамку NOM_ACC, тут есть целая россыпь признаков, говорящих против переходности (см. анкеут), записываю в класс TR очень условно. В литературном языке: ""Ta šalica stoji jedan dolar""."						
-73	Croatian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	*	*		*		Как ни странно, адекватного эквивалента нет. Подробное объяснение в файле. Вкратце проблема в том, что либо НСВ, либо будет следовать, что подстрелил						
-73	Croatian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	nasipao	TR		TR	TR							
-73	Croatian	103	lose	X (lose) Y	терять	X (терять) Y	izgubio	TR		TR	TR	Тот же глагол, но другая конструкция, что проиграть (82)						
+73	Croatian	91	listen	X (listen) to Y	слушать	X (слушать) Y	sluša	NOM	ACC	TR	TR							То же, что 92
+73	Croatian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	sluša	NOM	ACC	TR	TR							То же, что 91
+73	Croatian	93	hear	X (hear) Y	слышать	X (слышать) Y	čuje	NOM	ACC	TR	TR							
+73	Croatian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	se pomiješao	NOM	sINS	Y	NOM_sINS							REFL.
+73	Croatian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	gleda	NOM	ACC	TR	TR							"""можно также Pero gleda u oblake., но это обозначает направление его взгляда; есть также конструкция типа gledati na в значении обращать внимание на"""
+73	Croatian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	skinuo	NOM	ACC	TR	TR							
+73	Croatian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	sanja	NOM	ACC	TR	TR							
+73	Croatian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	se složio	NOM	sINS	Y	NOM_sINS							REFL.
+73	Croatian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	se posvađao	NOM	sINS	Y	NOM_sINS							REFL.
+73	Croatian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	košta	NOM	ACC	TR	TR							"Несмотря на рамку NOM_ACC, тут есть целая россыпь признаков, говорящих против переходности (см. анкеут), записываю в класс TR очень условно. В литературном языке: ""Ta šalica stoji jedan dolar""."
+73	Croatian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	*	*	*	*								Как ни странно, адекватного эквивалента нет. Подробное объяснение в файле. Вкратце проблема в том, что либо НСВ, либо будет следовать, что подстрелил
+73	Croatian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	nasipao	NOM	ACC	TR	TR							
+73	Croatian	103	lose	X (lose) Y	терять	X (терять) Y	izgubio	NOM	ACC	TR	TR							Тот же глагол, но другая конструкция, что проиграть (82)
 73	Croatian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	potonula	NOM	uACC	Y	NOM_uACC							
-73	Croatian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	ubio	TR		TR	TR							
-73	Croatian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	udario	TR		TR	TR							
-73	Croatian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	poljubio	TR		TR	TR							
-73	Croatian	108	read	X (read) Y	читать	X (читать) Y-а	pročitao	TR		TR	TR							
-73	Croatian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	pomaknuo	TR		TR	TR	"""Трудно перевести. Пожалуй: ?Pero je pomaknuo prst. (есть выражение nije ni prstom mrdnuo da = он и пальцем не пошевелил, чтобы; в несовершенном виде можно сказать Pero je micao prstom/prstima.)"" Потом еще было объяснение Мислава о том, что pomaknuo скорее значит ""подвинул"". Но можно вроде бы понять и так, и так, засчитываю."						
-73	Croatian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	cijeni	TR		TR	TR							
-73	Croatian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	se gadi	DAT	NOM	X	DAT_NOM	REFL						
-73	Croatian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	zadovoljan	NOM	INS	Y	NOM_INS	NV						
-73	Croatian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	se zaljubio	NOM	uACC	Y	NOM_uACC	REFL						
-73	Croatian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	ima povjerenja	NOM	uACC	Y	NOM_uACC	"CV. ""можно также Pero vjeruje Mariji., но у этого предложения, если нет контекста, есть и другие значения"""						
-73	Croatian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	žao	DAT	GEN	XY	DAT_GEN	NV						
-73	Croatian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	zavidi	NOM	DAT	Y	NOM_DAT	Есть вариант je zavidan (NV), та же модель управления						
-73	Croatian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	se ljuti	NOM	naACC	Y	NOM_naACC	REFL. То же, что 122, 128						
-73	Croatian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	iznenadio	ACC	NOM	X	ACC_NOM	То же, что 125 (поражаться)						
-73	Croatian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	voli	TR		TR	TR	То же, что 119 (любить-1)						
+73	Croatian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	ubio	NOM	ACC	TR	TR							
+73	Croatian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	udario	NOM	ACC	TR	TR							
+73	Croatian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	poljubio	NOM	ACC	TR	TR							
+73	Croatian	108	read	X (read) Y	читать	X (читать) Y-а	pročitao	NOM	ACC	TR	TR							
+73	Croatian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	pomaknuo	NOM	ACC	TR	TR							"""Трудно перевести. Пожалуй: ?Pero je pomaknuo prst. (есть выражение nije ni prstom mrdnuo da = он и пальцем не пошевелил, чтобы; в несовершенном виде можно сказать Pero je micao prstom/prstima.)"" Потом еще было объяснение Мислава о том, что pomaknuo скорее значит ""подвинул"". Но можно вроде бы понять и так, и так, засчитываю."
+73	Croatian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	cijeni	NOM	ACC	TR	TR							
+73	Croatian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	se gadi	DAT	NOM	X	DAT_NOM							REFL
+73	Croatian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	zadovoljan	NOM	INS	Y	NOM_INS							NV
+73	Croatian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	se zaljubio	NOM	uACC	Y	NOM_uACC							REFL
+73	Croatian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	ima povjerenja	NOM	uACC	Y	NOM_uACC							"CV. ""можно также Pero vjeruje Mariji., но у этого предложения, если нет контекста, есть и другие значения"""
+73	Croatian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	žao	DAT	GEN	XY	DAT_GEN							NV
+73	Croatian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	zavidi	NOM	DAT	Y	NOM_DAT							Есть вариант je zavidan (NV), та же модель управления
+73	Croatian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	se ljuti	NOM	naACC	Y	NOM_naACC							REFL. То же, что 122, 128
+73	Croatian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	iznenadio	ACC	NOM	X	ACC_NOM							То же, что 125 (поражаться)
+73	Croatian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	voli	NOM	ACC	TR	TR							То же, что 119 (любить-1)
 73	Croatian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	uživa	NOM	uLOC	Y	NOM_uLOC							
-73	Croatian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	hoće	TR		TR	TR	Вариант želi, та же модель управления						
-73	Croatian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	se ljuti	NOM	naACC	Y	NOM_naACC	REFL. То же, что 117, 128						
-73	Croatian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	se naljutio	NOM	naACC	Y	NOM_naACC	"REFL. Еще предложен вариант se uvrijedio (одноместное употребление, ""обиделся"") и Mišo je uvrijedio Peru (Миша обидел Петю)"						
-73	Croatian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	razočarao	TR		TR	TR	"Не совсем точный перевод, вот комментарий Мислава: ""Это, конечно, не совсем то, но в разговорном языке нет соответствующей конструкции; можно сказать также Pero je naljutio Mišu., но это также не соответствует оригиналу; в письменном языке возможен глагол ogorčiti, но в том случае более естественным стимулом является поступок"""						
-73	Croatian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	iznenadio	ACC	NOM	X	ACC_NOM	"То же, что 118 (удивляться). Возможен еще вариант ""Pero je ostao iznenađen tim gradom"" (NOM_INS). Комментарий Мислава: ""Они оба одинаково естественны, но второй всегда понимается результативно, а первый имеет более событийное значение."". Беру первый вариант"						
-73	Croatian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	prezire	TR		TR	TR							
-73	Croatian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	ostao razočaran	NOM	INS	Y	NOM_INS	"CV (первый компонент ""оставаться"", как в 61 и 42). Есть еще вариант перевода, при котором второй актант не сын, а оценки сына"						
-73	Croatian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	se ljuti 	NOM	naACC	Y	NOM_naACC	REFL. То же, что 122, 128						
-73	Croatian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	sklon	NOM	DAT	Y	NOM_DAT	"NV. Мислав: ""есть глагол simpatizirati с вин., но он употребляется в других контекстах, т.е. преимущественно тогда, когда симпатизируемыми являются разные организации (партии и т. п.) и широко известные лица"""						
-73	Croatian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	se stidi	NOM	zbogGEN	Y	NOM_zbogGEN	REFL						
+73	Croatian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	hoće	NOM	ACC	TR	TR							Вариант želi, та же модель управления
+73	Croatian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	se ljuti	NOM	naACC	Y	NOM_naACC							REFL. То же, что 117, 128
+73	Croatian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	se naljutio	NOM	naACC	Y	NOM_naACC							"REFL. Еще предложен вариант se uvrijedio (одноместное употребление, ""обиделся"") и Mišo je uvrijedio Peru (Миша обидел Петю)"
+73	Croatian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	razočarao	NOM	ACC	TR	TR							"Не совсем точный перевод, вот комментарий Мислава: ""Это, конечно, не совсем то, но в разговорном языке нет соответствующей конструкции; можно сказать также Pero je naljutio Mišu., но это также не соответствует оригиналу; в письменном языке возможен глагол ogorčiti, но в том случае более естественным стимулом является поступок"""
+73	Croatian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	iznenadio	ACC	NOM	X	ACC_NOM							"То же, что 118 (удивляться). Возможен еще вариант ""Pero je ostao iznenađen tim gradom"" (NOM_INS). Комментарий Мислава: ""Они оба одинаково естественны, но второй всегда понимается результативно, а первый имеет более событийное значение."". Беру первый вариант"
+73	Croatian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	prezire	NOM	ACC	TR	TR							
+73	Croatian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	ostao razočaran	NOM	INS	Y	NOM_INS							"CV (первый компонент ""оставаться"", как в 61 и 42). Есть еще вариант перевода, при котором второй актант не сын, а оценки сына"
+73	Croatian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	se ljuti 	NOM	naACC	Y	NOM_naACC							REFL. То же, что 122, 128
+73	Croatian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	sklon	NOM	DAT	Y	NOM_DAT							"NV. Мислав: ""есть глагол simpatizirati с вин., но он употребляется в других контекстах, т.е. преимущественно тогда, когда симпатизируемыми являются разные организации (партии и т. п.) и широко известные лица"""
+73	Croatian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	se stidi	NOM	zbogGEN	Y	NOM_zbogGEN							REFL

@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 63	Czech	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	bolí	ACC	NOM	X	ACC_NOM		Petra-ACC bolí hlava-NOM					
-63	Czech	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	má	TR		TR	TR	"Глагол значит ""иметь"", тот же, что в 38."	Petr-NOM má chřipku-ACC					
-63	Czech	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	se bojí 	NOM	GEN	Y	NOM_GEN	REFL(ACC)	Petr-NOM se bojí psa-GEN					
-63	Czech	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	hodil 	NOM	INSTR	Y	NOM_INSTR	"Также возможен TR (Petr-NOM hodil kamen-ACC), при этом ""ACC may be more natural with a direction"""	Petr-ACC hodil kamenem-INSTR					
-63	Czech	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	má dost	*		*		"Не засчитываю, так как ""деньги"" зависят от квантора dost"	(Konečně) má Petr-NOM dost peněz-GEN-PL					
-63	Czech	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	se podobá	NOM	DAT	Y	NOM_DAT	REFL(ACC)	Petr-NOM se podobá dědečkovi-DAT					
-63	Czech	7	believe	X (believe) Y	верить	X (верить)Y-у	veří	NOM	DAT	Y	NOM_DAT	То же, что 114	Petr-NOM veří Michalovi-DAT					
-63	Czech	8	take	X (take) Y	взять	X (брать) Y(-а)	vzal	TR		TR	TR		Petr-NOM vzal knihu-ACC					
-63	Czech	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vidí	TR		TR	TR		Petr-NOM vidí dům-ACC					
-63	Czech	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	ovlivňuje	TR		TR	TR		Věk-NOM ovlivňuje paměť-ACC					
-63	Czech	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	se potkal	NOM	sINSTR	Y	NOM_sINSTR	REFL(ACC)	Petr-NOM se potkal s Michalem-INSTR					
+63	Czech	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	má	NOM	ACC	TR	TR		Petr-NOM má chřipku-ACC					"Глагол значит ""иметь"", тот же, что в 38."
+63	Czech	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	se bojí 	NOM	GEN	Y	NOM_GEN		Petr-NOM se bojí psa-GEN					REFL(ACC)
+63	Czech	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	hodil 	NOM	INSTR	Y	NOM_INSTR		Petr-ACC hodil kamenem-INSTR					"Также возможен TR (Petr-NOM hodil kamen-ACC), при этом ""ACC may be more natural with a direction"""
+63	Czech	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	má dost	*	*	*			(Konečně) má Petr-NOM dost peněz-GEN-PL					"Не засчитываю, так как ""деньги"" зависят от квантора dost"
+63	Czech	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	se podobá	NOM	DAT	Y	NOM_DAT		Petr-NOM se podobá dědečkovi-DAT					REFL(ACC)
+63	Czech	7	believe	X (believe) Y	верить	X (верить)Y-у	veří	NOM	DAT	Y	NOM_DAT		Petr-NOM veří Michalovi-DAT					То же, что 114
+63	Czech	8	take	X (take) Y	взять	X (брать) Y(-а)	vzal	NOM	ACC	TR	TR		Petr-NOM vzal knihu-ACC					
+63	Czech	9	see	X (see) Y	видеть	X (видеть) Y(-а)	vidí	NOM	ACC	TR	TR		Petr-NOM vidí dům-ACC					
+63	Czech	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	ovlivňuje	NOM	ACC	TR	TR		Věk-NOM ovlivňuje paměť-ACC					
+63	Czech	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	se potkal	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM se potkal s Michalem-INSTR					REFL(ACC)
 63	Czech	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	vešel	NOM	doGEN	Y	NOM_doGEN		Petr-NOM vešel do domu-GEN					
 63	Czech	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	vyhrál	NOM	nadINSTR	Y	NOM_nadINSTR		Petr-NOM vyhrál nad Michalem-INSTR					
 63	Czech	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	vyšel	NOM	zGEN	Y	NOM_zGEN		Petr-NOM vyšel z domu-GEN					
-63	Czech	15	drive	X (drive) Y	гнать	X (гнать) Y-а	žene	TR		TR	TR	"""There has to be a direction (na pastvu)"""	Petr-NOM žene krávu-ACC na pastvu					
-63	Czech	16	bend	X (bend) Y	гнуть	X (гнуть) Y	ohnul	TR		TR	TR		Petr-NOM ohnul větev-ACC					
-63	Czech	17	tell	X (tell) Y	говорить	X (говорить) Y-у	řekl	NOM	DAT	Y	NOM_DAT	"""Weird without a direct object"""	Petr-NOM řekl Michalovi-DAT					
-63	Czech	18	hold	X (hold)Y	держать	X (держать) Y(-а)	drží	TR		TR	TR		Petr-NOM drží knihu-ACC					
-63	Czech	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	dohnal	TR		TR	TR		Petr-NOM dohnal Michala-ACC					
-63	Czech	20	milk	X (milk) Y	доить	X (доить) Y-а	podojil	TR		TR	TR		Petr-NOM podojil krávu-ACC					
-63	Czech	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	se dostal 	NOM	naACC	Y	NOM_naACC	REFL(ACC). Второй вариант: Petr-NOM dosáhl břehu-GEN	Petr-NOM se dostal na břeh-ACC					
-63	Czech	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	se dotkl 	NOM	GEN	Y	NOM_GEN	REFL(ACC)	Petr-NOM se dotkl stěny-GEN					
-63	Czech	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	se pere	NOM	sINSTR	Y	NOM_sINSTR	REFL(ACC)	Petr-NOM se pere s Michalem-INSTR					
-63	Czech	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	se kamaradí	NOM	sINSTR	Y	NOM_sINSTR	"REFL(ACC). Альтернатива -- использовать конструкцию с сочиненными ИГ в позиции подлежащего (Petr-NOM a Michal-NOM jsou přatele-NOM-PL/ kamuše-NOM-PL). ""se kamaradit is used mostly about children"". "	Petr-NOM se kamaradí s Michalem-INSTR					
+63	Czech	15	drive	X (drive) Y	гнать	X (гнать) Y-а	žene	NOM	ACC	TR	TR		Petr-NOM žene krávu-ACC na pastvu					"""There has to be a direction (na pastvu)"""
+63	Czech	16	bend	X (bend) Y	гнуть	X (гнуть) Y	ohnul	NOM	ACC	TR	TR		Petr-NOM ohnul větev-ACC					
+63	Czech	17	tell	X (tell) Y	говорить	X (говорить) Y-у	řekl	NOM	DAT	Y	NOM_DAT		Petr-NOM řekl Michalovi-DAT					"""Weird without a direct object"""
+63	Czech	18	hold	X (hold)Y	держать	X (держать) Y(-а)	drží	NOM	ACC	TR	TR		Petr-NOM drží knihu-ACC					
+63	Czech	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	dohnal	NOM	ACC	TR	TR		Petr-NOM dohnal Michala-ACC					
+63	Czech	20	milk	X (milk) Y	доить	X (доить) Y-а	podojil	NOM	ACC	TR	TR		Petr-NOM podojil krávu-ACC					
+63	Czech	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	se dostal 	NOM	naACC	Y	NOM_naACC		Petr-NOM se dostal na břeh-ACC					REFL(ACC). Второй вариант: Petr-NOM dosáhl břehu-GEN
+63	Czech	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	se dotkl 	NOM	GEN	Y	NOM_GEN		Petr-NOM se dotkl stěny-GEN					REFL(ACC)
+63	Czech	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	se pere	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM se pere s Michalem-INSTR					REFL(ACC)
+63	Czech	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	se kamaradí	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM se kamaradí s Michalem-INSTR					"REFL(ACC). Альтернатива -- использовать конструкцию с сочиненными ИГ в позиции подлежащего (Petr-NOM a Michal-NOM jsou přatele-NOM-PL/ kamuše-NOM-PL). ""se kamaradit is used mostly about children"". "
 63	Czech	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	přemýšlí	NOM	oLOC	Y	NOM_oLOC		Petr-NOM přemýšlí o Michalovi-LOC					
-63	Czech	26	eat	X (eat) Y	есть	X (есть) Y	snědl	TR		TR	TR		Petr-NOM snědl jablko-ACC					
-63	Czech	27	fry	X (fry) Y	жарить	X (жарить) Y	osmažil	TR		TR	TR		Petr-NOM osmažil rybu-ACC					
+63	Czech	26	eat	X (eat) Y	есть	X (есть) Y	snědl	NOM	ACC	TR	TR		Petr-NOM snědl jablko-ACC					
+63	Czech	27	fry	X (fry) Y	жарить	X (жарить) Y	osmažil	NOM	ACC	TR	TR		Petr-NOM osmažil rybu-ACC					
 63	Czech	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	čeká	NOM	naACC	Y	NOM_naACC		Petr-NOM čeká na Michala-ACC					
 63	Czech	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	zapomněl	NOM	naACC	Y	NOM_naACC		Petr-NOM zapomněl na tu druhou cestu-ACC					
-63	Czech	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	závislá	NOM	naLOC	Y	NOM_naLOC	NV. Но есть и глагольный вариант с тем же управлением: Pamět'-NOM závisí na věku-LOC	Pamět'-NOM je závislá na věku-LOC					
+63	Czech	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	závislá	NOM	naLOC	Y	NOM_naLOC		Pamět'-NOM je závislá na věku-LOC					NV. Но есть и глагольный вариант с тем же управлением: Pamět'-NOM závisí na věku-LOC
 63	Czech	31	call	X (call) Y	звать	X (звать) Y-а	zavolal 	NOM	naACC	Y	NOM_naACC		Petr-NOM zavolal na Michala-ACC					
-63	Czech	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	se seznámil 	NOM	sINSTR	Y	NOM_sINSTR	REFL(ACC)	Petr-NOM se seznámil s Michalem-INSTR před rokem					
-63	Czech	33	know	X (know) Y	знать 	X (знать) Y-а	zná	TR		TR	TR		Petr-NOM zná Michala-ACC					
+63	Czech	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	se seznámil 	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM se seznámil s Michalem-INSTR před rokem					REFL(ACC)
+63	Czech	33	know	X (know) Y	знать 	X (знать) Y-а	zná	NOM	ACC	TR	TR		Petr-NOM zná Michala-ACC					
 63	Czech	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	hraje 	NOM	naACC	Y	NOM_naACC		Petr-NOM hraje na kytaru-ACC					
-63	Czech	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	se vyhýbá	NOM	DAT	Y	NOM_DAT	REFL(ACC)	Petr-NOM se vyhýbá Michalovi-DAT					
-63	Czech	36	make	X (make) Y	изготовить	X (изготовить) Y	vyrobil	TR		TR	TR		Petr-NOM vyrobil bombu-ACC					
-63	Czech	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	se vysmívá	NOM	DAT	Y	NOM_DAT	REFL(ACC)	Petr-NOM se vysmívá Michalovi-DAT					
-63	Czech	38	have	X (have) Y	иметь	X (иметь) Y	má	TR		TR	TR	Тот же глагол, что в 2.	Petr-NOM má auto-ACC					
-63	Czech	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	hledá 	TR		TR	TR	То же, что 43	Petr-NOM hledá klíče-ACC-PL					
-63	Czech	40	paint	X (paint) Y	красить	X (красить) Y	natřel 	TR		TR	TR		Petr-NOM natřel plot-ACC					
-63	Czech	41	bite	X (bite) Y	кусать	X (кусать) Y-а	kousl	TR		TR	TR	OVS word order is more natural. Альтернатива: Petra-ACC pokousal pes-NOM	Petra-ACC kousl pes-NOM					
+63	Czech	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	se vyhýbá	NOM	DAT	Y	NOM_DAT		Petr-NOM se vyhýbá Michalovi-DAT					REFL(ACC)
+63	Czech	36	make	X (make) Y	изготовить	X (изготовить) Y	vyrobil	NOM	ACC	TR	TR		Petr-NOM vyrobil bombu-ACC					
+63	Czech	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	se vysmívá	NOM	DAT	Y	NOM_DAT		Petr-NOM se vysmívá Michalovi-DAT					REFL(ACC)
+63	Czech	38	have	X (have) Y	иметь	X (иметь) Y	má	NOM	ACC	TR	TR		Petr-NOM má auto-ACC					Тот же глагол, что в 2.
+63	Czech	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	hledá 	NOM	ACC	TR	TR		Petr-NOM hledá klíče-ACC-PL					То же, что 43
+63	Czech	40	paint	X (paint) Y	красить	X (красить) Y	natřel 	NOM	ACC	TR	TR		Petr-NOM natřel plot-ACC					
+63	Czech	41	bite	X (bite) Y	кусать	X (кусать) Y-а	kousl	NOM	ACC	TR	TR		Petra-ACC kousl pes-NOM					OVS word order is more natural. Альтернатива: Petra-ACC pokousal pes-NOM
 63	Czech	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	přišel	NOM	oACC	Y	NOM_oACC		Petr-NOM přišel o dům-ACC					
-63	Czech	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	hledá	TR		TR	TR	То же, что 39	Petr-NOM hledá kočku-ACC					
-63	Czech	44	break	X (break) Y	ломать	X (ломать) Y	zlomil	TR		TR	TR		Petr-NOM zlomil tyč-ACC					
+63	Czech	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	hledá	NOM	ACC	TR	TR		Petr-NOM hledá kočku-ACC					То же, что 39
+63	Czech	44	break	X (break) Y	ломать	X (ломать) Y	zlomil	NOM	ACC	TR	TR		Petr-NOM zlomil tyč-ACC					
 63	Czech	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	lichotí	NOM	DAT	Y	NOM_DAT		Petr-NOM Michalovi-DAT lichotí					
-63	Czech	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	miluje	TR		TR	TR	Вариант Petr-NOM má rád Michala-ACC, то же управление	Petr-NOM miluje Michala-ACC					
+63	Czech	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	miluje	NOM	ACC	TR	TR		Petr-NOM miluje Michala-ACC					Вариант Petr-NOM má rád Michala-ACC, то же управление
 63	Czech	47	wave	X (wave) Y	махать	X (махать) Y-ом	mavá	NOM	INSTR	Y	NOM_INSTR		Petr-NOM mavá šátkem-INSTR					
 63	Czech	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	sní	NOM	oLOC	Y	NOM_oLOC		Petr-NOM sní o novém autě-LOC					
-63	Czech	49	wash	X (wash) Y	мыть	X (мыть) Y	umyl 	TR		TR	TR		Petr-NOM umyl hrnek-ACC					
-63	Czech	50	put_on	X (put_on) Y	надевать	X (надевать) Y	si oblékl	TR		TR	TR	REFL(DAT). kalhoty-pl tantum	Petr-NOM si oblékl kalhoty-ACC-PL					
-63	Czech	51	be_called	X (be_called) Y	называться	X (называться) Y	se jmenuje	NOM	NOM	Y	NOM_NOM	"REFL(ACC). Альтернатива: Téhle věci-DAT se říká kompas-nom (букв. ""той вещи говорится компас"")"	Tahle věc-nom se jmenuje kompas-nom					
-63	Czech	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	potrestal	TR		TR	TR		Petr-NOM potrestal syna-ACC  					
-63	Czech	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	napadl 	TR		TR	TR	Вариант: то же, но SOV	Medvěd-NOM napadl rybáře-ACC					
-63	Czech	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	se naplnil 	NOM	INSTR	Y	NOM_INSTR	REFL(ACC)	Kbelík-NOM se naplnil vodou-INSTR					
-63	Czech	55	find	X (find) Y	находить	X (находить) Y(-а)	našel 	TR		TR	TR		Petr-NOM našel klíče-ACC-PL					
+63	Czech	49	wash	X (wash) Y	мыть	X (мыть) Y	umyl 	NOM	ACC	TR	TR		Petr-NOM umyl hrnek-ACC					
+63	Czech	50	put_on	X (put_on) Y	надевать	X (надевать) Y	si oblékl	NOM	ACC	TR	TR		Petr-NOM si oblékl kalhoty-ACC-PL					REFL(DAT). kalhoty-pl tantum
+63	Czech	51	be_called	X (be_called) Y	называться	X (называться) Y	se jmenuje	NOM	NOM	Y	NOM_NOM		Tahle věc-nom se jmenuje kompas-nom					"REFL(ACC). Альтернатива: Téhle věci-DAT se říká kompas-nom (букв. ""той вещи говорится компас"")"
+63	Czech	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	potrestal	NOM	ACC	TR	TR		Petr-NOM potrestal syna-ACC  					
+63	Czech	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	napadl 	NOM	ACC	TR	TR		Medvěd-NOM napadl rybáře-ACC					Вариант: то же, но SOV
+63	Czech	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	se naplnil 	NOM	INSTR	Y	NOM_INSTR		Kbelík-NOM se naplnil vodou-INSTR					REFL(ACC)
+63	Czech	55	find	X (find) Y	находить	X (находить) Y(-а)	našel 	NOM	ACC	TR	TR		Petr-NOM našel klíče-ACC-PL					
 63	Czech	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	chybí	DAT	NOM	X	DAT_NOM		Petrovi-DAT chybí dolar-NOM 					
-63	Czech	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	nenávidí	TR		TR	TR		Petr-NOM nenávidí Michala-ACC					
-63	Czech	58	like	X (like) Y	нравиться	X-у (нравиться) Y	se líbí	DAT	NOM	X	DAT_NOM	REFL(ACC)	Petrovi-DAT se líbí ta košile-NOM					
-63	Czech	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	potřebuje	TR		TR	TR	peníze is pl tantum	Petr-NOM potřebuje peníze-ACC-PL					
-63	Czech	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	obklopují	TR		TR	TR	"OVS. Вариант Město-NOM je opevněno hradbami-INSTR-PL (""город укреплен стенами"")"	Město-ACC obklopují hradby-NOM					
-63	Czech	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	zůstalo	DAT	NOM	X	DAT_NOM	Есть вариант с другим глаголом, но той же структурой: Petrovi-DAT zbívá-PRES deset-NOM dolarů-GEN-PL	Petrovi-DAT zůstalo-PAST-NEUTR deset-NOM dolarů-GEN-PL					
+63	Czech	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	nenávidí	NOM	ACC	TR	TR		Petr-NOM nenávidí Michala-ACC					
+63	Czech	58	like	X (like) Y	нравиться	X-у (нравиться) Y	se líbí	DAT	NOM	X	DAT_NOM		Petrovi-DAT se líbí ta košile-NOM					REFL(ACC)
+63	Czech	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	potřebuje	NOM	ACC	TR	TR		Petr-NOM potřebuje peníze-ACC-PL					peníze is pl tantum
+63	Czech	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	obklopují	NOM	ACC	TR	TR		Město-ACC obklopují hradby-NOM					"OVS. Вариант Město-NOM je opevněno hradbami-INSTR-PL (""город укреплен стенами"")"
+63	Czech	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	zůstalo	DAT	NOM	X	DAT_NOM		Petrovi-DAT zůstalo-PAST-NEUTR deset-NOM dolarů-GEN-PL					Есть вариант с другим глаголом, но той же структурой: Petrovi-DAT zbívá-PRES deset-NOM dolarů-GEN-PL
 63	Czech	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	odpověděl	NOM	DAT	Y	NOM_DAT		Petr-NOM učiteli-DAT odpověděl					
-63	Czech	63	open	X (open) Y	открывать	X (открывать) Y	otevřel	TR		TR	TR		Petr-NOM otevřel lahvičku-ACC					
-63	Czech	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	jiná	NOM	nezNOM	Y	NOM_nezNOM	NV. Есть еще вариант с ИГ-PL в позиции подлежащего: Naše košile-NOM-PL se liší	Moje košile-NOM-SG je jiná než tvoje-NOM-SG					
-63	Czech	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	se zpozdíl	NOM	zaINSTR	Y	NOM_zaINSTR	REFL(ACC)	Petr-NOM se zpozdíl za Michalem-INSTR					
-63	Czech	66	plough	X (plough) Y	пахать	X (пахать) Y	oře	TR		TR	TR	Есть еще вариант с другим глаголом, но той же моделью управления (Petr-NOM orá pole-ACC). Не понял, в чем разница	Petr-NOM oře pole-ACC					
-63	Czech	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smrdí	NOM	INSTR	Y	NOM_INSTR	Есть еще вариант с другим глаголом, но той же моделью управления: RuceNOM mi-DAT páchnou benzínem-INSTR. Посессор в дативе	RuceNOM mi-DAT smrdí benzínem-INSTR 					
-63	Czech	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	přešel	NOM	presACC	Y	NOM_presACC	Вариант с тем же глаголом, но TR: Petr-NOM přešel ulici-ACC	Petr-NOM přešel přes ulici-ACC					
-63	Czech	69	sing	X (sing) Y	петь	X (петь) Y	zazpíval	TR		TR	TR		Petr-NOM zazpíval krásnou písničku-ACC					
-63	Czech	70	write	X (write) Y	писать	X (писать) Y	napsal	TR		TR	TR		Petr-NOM napsal dopis-ACC					
-63	Czech	71	drink	X (drink) Y	пить	X (пить) Y	vypil	TR		TR	TR		Petr-NOM vypil mlíko-ACC					
-63	Czech	72	melt	X (melt) Y	плавить	X (плавить) Y	roztavil	TR		TR	TR		Petr-NOM roztavil kousek-ACC olova-GEN					
-63	Czech	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	se hodí 	NOM	kDAT	Y	NOM_kDAT	REFL(ACC). šaty-pl tantum)	Tenhle pásek-NOM se hodí k mým šatům-DAT-PL 					
-63	Czech	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	opustil 	TR		TR	TR		Petr-NOM opustil rodné město-ACC					
-63	Czech	75	cover	X (cover) Y	покрывать	X (покрывать) Y	pokrývá	TR		TR	TR		Koberec-NOM pokrývá celou podlahu-ACC					
-63	Czech	76	remember	X (remember) Y	помнить	X (помнить) Y-а	si pamatuje	TR		TR	TR	REFL(DAT). NB: word order	Petr-NOM si dobře ten dům-ACC pamatuje					
-63	Czech	77	help	X (help) Y	помочь	X (помогать) Y-у	pomohl	NOM	DAT	Y	NOM_DAT	Both SOV and SVO (Petr-NOM pomohl Michalovi-DAT) are ok	Petr-NOM Michalovi-DAT pomohl					
-63	Czech	78	understand	X (understand) Y	понимать	X (понимать) Y	rozumí	TR		TR	TR		Petr-NOM rozumí francouzsky-ACC					
-63	Czech	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	uhodil	NOM	doGEN	Y	NOM_doGEN	То же, что 106	Do domu-GEN uhodil blesk-NOM					
-63	Czech	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	se pořezal 	NOM	INSTR	Y	NOM_INSTR	REFL(ACC)	Petr-NOM se pořezal břitvou-INSTR					
-63	Czech	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	se přilepila	NOM	kDAT	Y	NOM_kDAT	REFL(ACC)	Sklenice-NOM se přilepila ke stolu-DAT					
+63	Czech	63	open	X (open) Y	открывать	X (открывать) Y	otevřel	NOM	ACC	TR	TR		Petr-NOM otevřel lahvičku-ACC					
+63	Czech	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	jiná	NOM	nezNOM	Y	NOM_nezNOM		Moje košile-NOM-SG je jiná než tvoje-NOM-SG					NV. Есть еще вариант с ИГ-PL в позиции подлежащего: Naše košile-NOM-PL se liší
+63	Czech	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	se zpozdíl	NOM	zaINSTR	Y	NOM_zaINSTR		Petr-NOM se zpozdíl za Michalem-INSTR					REFL(ACC)
+63	Czech	66	plough	X (plough) Y	пахать	X (пахать) Y	oře	NOM	ACC	TR	TR		Petr-NOM oře pole-ACC					Есть еще вариант с другим глаголом, но той же моделью управления (Petr-NOM orá pole-ACC). Не понял, в чем разница
+63	Czech	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smrdí	NOM	INSTR	Y	NOM_INSTR		RuceNOM mi-DAT smrdí benzínem-INSTR 					Есть еще вариант с другим глаголом, но той же моделью управления: RuceNOM mi-DAT páchnou benzínem-INSTR. Посессор в дативе
+63	Czech	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	přešel	NOM	presACC	Y	NOM_presACC		Petr-NOM přešel přes ulici-ACC					Вариант с тем же глаголом, но TR: Petr-NOM přešel ulici-ACC
+63	Czech	69	sing	X (sing) Y	петь	X (петь) Y	zazpíval	NOM	ACC	TR	TR		Petr-NOM zazpíval krásnou písničku-ACC					
+63	Czech	70	write	X (write) Y	писать	X (писать) Y	napsal	NOM	ACC	TR	TR		Petr-NOM napsal dopis-ACC					
+63	Czech	71	drink	X (drink) Y	пить	X (пить) Y	vypil	NOM	ACC	TR	TR		Petr-NOM vypil mlíko-ACC					
+63	Czech	72	melt	X (melt) Y	плавить	X (плавить) Y	roztavil	NOM	ACC	TR	TR		Petr-NOM roztavil kousek-ACC olova-GEN					
+63	Czech	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	se hodí 	NOM	kDAT	Y	NOM_kDAT		Tenhle pásek-NOM se hodí k mým šatům-DAT-PL 					REFL(ACC). šaty-pl tantum)
+63	Czech	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	opustil 	NOM	ACC	TR	TR		Petr-NOM opustil rodné město-ACC					
+63	Czech	75	cover	X (cover) Y	покрывать	X (покрывать) Y	pokrývá	NOM	ACC	TR	TR		Koberec-NOM pokrývá celou podlahu-ACC					
+63	Czech	76	remember	X (remember) Y	помнить	X (помнить) Y-а	si pamatuje	NOM	ACC	TR	TR		Petr-NOM si dobře ten dům-ACC pamatuje					REFL(DAT). NB: word order
+63	Czech	77	help	X (help) Y	помочь	X (помогать) Y-у	pomohl	NOM	DAT	Y	NOM_DAT		Petr-NOM Michalovi-DAT pomohl					Both SOV and SVO (Petr-NOM pomohl Michalovi-DAT) are ok
+63	Czech	78	understand	X (understand) Y	понимать	X (понимать) Y	rozumí	NOM	ACC	TR	TR		Petr-NOM rozumí francouzsky-ACC					
+63	Czech	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	uhodil	NOM	doGEN	Y	NOM_doGEN		Do domu-GEN uhodil blesk-NOM					То же, что 106
+63	Czech	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	se pořezal 	NOM	INSTR	Y	NOM_INSTR		Petr-NOM se pořezal břitvou-INSTR					REFL(ACC)
+63	Czech	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	se přilepila	NOM	kDAT	Y	NOM_kDAT		Sklenice-NOM se přilepila ke stolu-DAT					REFL(ACC)
 63	Czech	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	prohrál	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM prohrál s Michalem-INSTR					
-63	Czech	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	se zaradoval	NOM	nadINSTR	Y	NOM_nadINSTR	REFL(ACC)	Petr-NOM se nad dopisem-INSTR zaradoval					
+63	Czech	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	se zaradoval	NOM	nadINSTR	Y	NOM_nadINSTR		Petr-NOM se nad dopisem-INSTR zaradoval					REFL(ACC)
 63	Czech	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	mluví 	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM mluví s Michalem-INSTR					
-63	Czech	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	porodila 	TR		TR	TR		Michaela-NOM porodila syna-ACC					
-63	Czech	86	drop	X (drop) Y	ронять	X (ронять) Y	upustil 	TR		TR	TR		Petr-NOM upustil sklenici-ACC					
-63	Czech	87	govern	X (govern) Y	руководить	X (руководить) Y	řidí 	TR		TR	TR		Petr-NOM řidí naši vesnici-ACC					
-63	Czech	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	se stýská	NOM	poLOC	Y	NOM_poLOC	REFL(ACC)	Petr-NOM se stýská po Michalovi-LOC					
-63	Czech	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	jde	NOM	zaINSTR	Y	NOM_zaINSTR	"Это просто глагол ""идти"""	Petr-NOM jde za Michalem-INSTR					
-63	Czech	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	seskočil	NOM	zGEN	Y	NOM_zGEN	"Вариант ""slezl"", управление то же"	Petr-NOM seskočil z koně-GEN					
-63	Czech	91	listen	X (listen) to Y	слушать	X (слушать) Y	poslouchá	TR		TR	TR	Тот же глагол, что в 92	Petr-NOM poslouchá rádio-ACC					
-63	Czech	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	poslouchá 	TR		TR	TR	Тот же глагол, что в 91	Petr-NOM poslouchá maminku-ACC					
-63	Czech	93	hear	X (hear) Y	слышать	X (слышать) Y	slyší	TR		TR	TR		Petr-NOM slyší hudbu-ACC					
-63	Czech	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	se rozpustil	NOM	vLOC	Y	NOM_vLOC	REFL(ACC). Вариант Med-NOM se rozmichal v mlíku-LOC: другой глагол, та же модель управления	Med-NOM se rozpustil v mlíku-LOC					
-63	Czech	95	look	X (look) at Y	смотреть	X (смотреть) на Y	pozoruje	TR		TR	TR	Вариант Petr-NOM pozoruje/sleduje mraky-ACC-PL (та же модель, другой глагол)	Petr-NOM pozoruje mraky-ACC-PL					
-63	Czech	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	si sundal	TR		TR	TR	REFL(DAT)	Petr-NOM si sundal košili-ACC					
-63	Czech	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	se zdá	NOM	oLOC	Y	NOM_oLOC	REFL(ACC)	Petrovi-DAT se zdá o Michalovi-LOC					
+63	Czech	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	porodila 	NOM	ACC	TR	TR		Michaela-NOM porodila syna-ACC					
+63	Czech	86	drop	X (drop) Y	ронять	X (ронять) Y	upustil 	NOM	ACC	TR	TR		Petr-NOM upustil sklenici-ACC					
+63	Czech	87	govern	X (govern) Y	руководить	X (руководить) Y	řidí 	NOM	ACC	TR	TR		Petr-NOM řidí naši vesnici-ACC					
+63	Czech	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	se stýská	NOM	poLOC	Y	NOM_poLOC		Petr-NOM se stýská po Michalovi-LOC					REFL(ACC)
+63	Czech	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	jde	NOM	zaINSTR	Y	NOM_zaINSTR		Petr-NOM jde za Michalem-INSTR					"Это просто глагол ""идти"""
+63	Czech	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	seskočil	NOM	zGEN	Y	NOM_zGEN		Petr-NOM seskočil z koně-GEN					"Вариант ""slezl"", управление то же"
+63	Czech	91	listen	X (listen) to Y	слушать	X (слушать) Y	poslouchá	NOM	ACC	TR	TR		Petr-NOM poslouchá rádio-ACC					Тот же глагол, что в 92
+63	Czech	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	poslouchá 	NOM	ACC	TR	TR		Petr-NOM poslouchá maminku-ACC					Тот же глагол, что в 91
+63	Czech	93	hear	X (hear) Y	слышать	X (слышать) Y	slyší	NOM	ACC	TR	TR		Petr-NOM slyší hudbu-ACC					
+63	Czech	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	se rozpustil	NOM	vLOC	Y	NOM_vLOC		Med-NOM se rozpustil v mlíku-LOC					REFL(ACC). Вариант Med-NOM se rozmichal v mlíku-LOC: другой глагол, та же модель управления
+63	Czech	95	look	X (look) at Y	смотреть	X (смотреть) на Y	pozoruje	NOM	ACC	TR	TR		Petr-NOM pozoruje mraky-ACC-PL					Вариант Petr-NOM pozoruje/sleduje mraky-ACC-PL (та же модель, другой глагол)
+63	Czech	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	si sundal	NOM	ACC	TR	TR		Petr-NOM si sundal košili-ACC					REFL(DAT)
+63	Czech	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	se zdá	NOM	oLOC	Y	NOM_oLOC		Petrovi-DAT se zdá o Michalovi-LOC					REFL(ACC)
 63	Czech	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	souhlasí	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM s ní-INSTR souhlasí					
-63	Czech	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	se pohádal	NOM	sINSTR	Y	NOM_sINSTR	REFL(ACC)	Petr-NOM se pohádal s Michalem-INSTR					
-63	Czech	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	stojí	TR		TR	TR		Ta sklenice-NOM stojí jeden-ACC dolar					
+63	Czech	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	se pohádal	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM se pohádal s Michalem-INSTR					REFL(ACC)
+63	Czech	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	stojí	NOM	ACC	TR	TR		Ta sklenice-NOM stojí jeden-ACC dolar					
 63	Czech	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	vystřelil	NOM	naACC	Y	NOM_naACC		Petr-NOM vystřelil na ptáka-ACC					
-63	Czech	102	pour	X (pour) Y	сыпать	X (сыпать) Y	dal	TR		TR	TR	"Есть еще вариант ""Petr-NOM nasypal cukr-ACC do sklenice"", используется если ""big amount"""	Petr-NOM dal cukr-ACC do sklenice  					
-63	Czech	103	lose	X (lose) Y	терять	X (терять) Y	ztratil	TR		TR	TR		Petr-NOM ztratil klíče-ACC-PL					
+63	Czech	102	pour	X (pour) Y	сыпать	X (сыпать) Y	dal	NOM	ACC	TR	TR		Petr-NOM dal cukr-ACC do sklenice  					"Есть еще вариант ""Petr-NOM nasypal cukr-ACC do sklenice"", используется если ""big amount"""
+63	Czech	103	lose	X (lose) Y	терять	X (терять) Y	ztratil	NOM	ACC	TR	TR		Petr-NOM ztratil klíče-ACC-PL					
 63	Czech	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	se potopilo	NOM	doGEN	Y	NOM_doGEN		Poleno-NOM se potopilo do vody-GEN					
-63	Czech	105	kill	X (kill) Y	убивать	X (убивать) Y-а	zabil	TR		TR	TR		Petr-NOM zabil Michala-ACC					
-63	Czech	106	hit	X (hit) Y	ударить	X (ударять) Y-а	uhodil	TR		TR	TR	То же, что 79	Petr-NOM uhodil Michala-ACC					
-63	Czech	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	políbil	TR		TR	TR		Petr-NOM políbil Michala-ACC					
-63	Czech	108	read	X (read) Y	читать	X (читать) Y-а	přečetl	TR		TR	TR		Petr-NOM přečetl zajímavou knihu-ACC					
+63	Czech	105	kill	X (kill) Y	убивать	X (убивать) Y-а	zabil	NOM	ACC	TR	TR		Petr-NOM zabil Michala-ACC					
+63	Czech	106	hit	X (hit) Y	ударить	X (ударять) Y-а	uhodil	NOM	ACC	TR	TR		Petr-NOM uhodil Michala-ACC					То же, что 79
+63	Czech	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	políbil	NOM	ACC	TR	TR		Petr-NOM políbil Michala-ACC					
+63	Czech	108	read	X (read) Y	читать	X (читать) Y-а	přečetl	NOM	ACC	TR	TR		Petr-NOM přečetl zajímavou knihu-ACC					
 63	Czech	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	pohnul	NOM	INSTR	Y	NOM_INSTR		Petr-NOM pohnul prstem-INSTR					
-63	Czech	110	respect	X (respect) Y	уважать	X (уважать) Y-а	si váží	NOM	GEN	Y	NOM_GEN	REFL(DAT)	Petr-NOM si váží Michala-GEN					
-63	Czech	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	se štítí	NOM	GEN	Y	NOM_GEN	REFL(ACC)	Petr-NOM se štítí špinavého nádobí-GEN 					
-63	Czech	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	spokojený	NOM	sINSTR	Y	NOM_sINSTR	NV (ADJ)	Petr-NOM je spokojený se svým synem-INSTR					
-63	Czech	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	se zamiloval 	NOM	doGEN	Y	NOM_doGEN	REFL(ACC)	Petr-NOM se zamiloval do GEN					
-63	Czech	114	trust	X (trust) Y	доверять	X (доверять) Y-у	věří 	NOM	DAT	Y	NOM_DAT	То же, что 7	Petr-NOM věří Michalovi-DAT					
-63	Czech	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	líto	DAT	GEN	XY	DAT_GEN	NV	Petrovi-DAT je líto matky-GEN					
+63	Czech	110	respect	X (respect) Y	уважать	X (уважать) Y-а	si váží	NOM	GEN	Y	NOM_GEN		Petr-NOM si váží Michala-GEN					REFL(DAT)
+63	Czech	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	se štítí	NOM	GEN	Y	NOM_GEN		Petr-NOM se štítí špinavého nádobí-GEN 					REFL(ACC)
+63	Czech	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	spokojený	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM je spokojený se svým synem-INSTR					NV (ADJ)
+63	Czech	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	se zamiloval 	NOM	doGEN	Y	NOM_doGEN		Petr-NOM se zamiloval do GEN					REFL(ACC)
+63	Czech	114	trust	X (trust) Y	доверять	X (доверять) Y-у	věří 	NOM	DAT	Y	NOM_DAT		Petr-NOM věří Michalovi-DAT					То же, что 7
+63	Czech	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	líto	DAT	GEN	XY	DAT_GEN		Petrovi-DAT je líto matky-GEN					NV
 63	Czech	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	závidí	NOM	DAT	Y	NOM_DAT		Petr-NOM závidí Michalovi-DAT					
-63	Czech	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	se zlobí 	NOM	naACC	Y	NOM_naACC	REFL(ACC)	Petr-NOM se zlobí na Michala-ACC					
-63	Czech	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	překvapil	ACC	NOM	X	ACC_NOM	OVS	Petra-ACC ten dárek-NOM překvapil					
-63	Czech	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	má rád 	TR		TR	TR	CV	Petr-NOM má rád čaj-ACC					
-63	Czech	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	si užívá 	TR		TR	TR	REFL(DAT)	Petr-NOM si užívá horký čaj-ACC					
-63	Czech	121	want	X (want) Y	хотеть	X (хотеть) Y-а	chce 	TR		TR	TR		Petr-NOM chce novej mobil-ACC					
-63	Czech	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	naštvanej	NOM	naACC	Y	NOM_naACC	NV	Petr-NOM je naštvanej na Michala-ACC					
-63	Czech	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	se urazil	*		*		"REFL(ACC). Используется либо без второго участника вообще (Petr-NOM se urazil), либо со вторым участником-""поводом"" (на то, что сказал М.: Petr-NOM se urazil kvůli tomu-DAT, co Michal řekl), но не со вторым участником-контрагентом (ответственным лицом). Так что нужный мне смысл толком не выразить. (""В принципе, есть глаголы rozzlobit se  na koho и rozhněvat se na koho, но они не совсем про обиду, как видишь"")"						
-63	Czech	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	rozesmutnil	TR		TR	TR	Вариант zarmoutil, та же модель управления						
-63	Czech	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	se obdivoval	NOM	DAT	Y	NOM_DAT	Беру вариант, который Настя предложила вторым, потому что первый это переходная конструкция с обратным порядком актантов (To město-NOM Petra-ACC uchvátilo) по сравнению со стимульным предложением	Petr-NOM se tomu městu-DAT obdivoval-IMPF					
-63	Czech	126	despise	X (despise) Y	презирать	X (презирать) Y-а	opovrhuje	NOM	INSTR	Y	NOM_INSTR	Второй вариант с другим глаголом, TR: Petr-NOM Michala-ACC přehlíží	Petr-NOM Michalem-INSTR opovrhuje					
-63	Czech	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	se zarmoutil	NOM	DAT	Y	NOM_DAT	REFL(ACC)	Petr-NOM se kvůli synovi-DAT zarmoutil					
+63	Czech	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	se zlobí 	NOM	naACC	Y	NOM_naACC		Petr-NOM se zlobí na Michala-ACC					REFL(ACC)
+63	Czech	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	překvapil	ACC	NOM	X	ACC_NOM		Petra-ACC ten dárek-NOM překvapil					OVS
+63	Czech	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	má rád 	NOM	ACC	TR	TR		Petr-NOM má rád čaj-ACC					CV
+63	Czech	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	si užívá 	NOM	ACC	TR	TR		Petr-NOM si užívá horký čaj-ACC					REFL(DAT)
+63	Czech	121	want	X (want) Y	хотеть	X (хотеть) Y-а	chce 	NOM	ACC	TR	TR		Petr-NOM chce novej mobil-ACC					
+63	Czech	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	naštvanej	NOM	naACC	Y	NOM_naACC		Petr-NOM je naštvanej na Michala-ACC					NV
+63	Czech	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	se urazil	*	*	*								"REFL(ACC). Используется либо без второго участника вообще (Petr-NOM se urazil), либо со вторым участником-""поводом"" (на то, что сказал М.: Petr-NOM se urazil kvůli tomu-DAT, co Michal řekl), но не со вторым участником-контрагентом (ответственным лицом). Так что нужный мне смысл толком не выразить. (""В принципе, есть глаголы rozzlobit se  na koho и rozhněvat se na koho, но они не совсем про обиду, как видишь"")"
+63	Czech	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	rozesmutnil	NOM	ACC	TR	TR							Вариант zarmoutil, та же модель управления
+63	Czech	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	se obdivoval	NOM	DAT	Y	NOM_DAT		Petr-NOM se tomu městu-DAT obdivoval-IMPF					Беру вариант, который Настя предложила вторым, потому что первый это переходная конструкция с обратным порядком актантов (To město-NOM Petra-ACC uchvátilo) по сравнению со стимульным предложением
+63	Czech	126	despise	X (despise) Y	презирать	X (презирать) Y-а	opovrhuje	NOM	INSTR	Y	NOM_INSTR		Petr-NOM Michalem-INSTR opovrhuje					Второй вариант с другим глаголом, TR: Petr-NOM Michala-ACC přehlíží
+63	Czech	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	se zarmoutil	NOM	DAT	Y	NOM_DAT		Petr-NOM se kvůli synovi-DAT zarmoutil					REFL(ACC)
 63	Czech	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	naštvala	ACC	NOM	X	ACC_NOM		Petra-ACC dcera-NOM naštvala					
 63	Czech	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	sympatizuje	NOM	sINSTR	Y	NOM_sINSTR		Petr-NOM s Michalem-INSTR sympatizuje					
-63	Czech	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	se stydí 	NOM	zaACC	Y	NOM_zaACC	REFL(ACC). Беру второй вариант, предложенный Настей, так как в первом варианте (Petr-NOM se stydí, že je tak malý) второй актант выражен как придаточное предложение	Petr-NOM se stydí za svoji malou postavu-ACC					
+63	Czech	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	se stydí 	NOM	zaACC	Y	NOM_zaACC		Petr-NOM se stydí za svoji malou postavu-ACC					REFL(ACC). Беру второй вариант, предложенный Настей, так как в первом варианте (Petr-NOM se stydí, že je tak malý) второй актант выражен как придаточное предложение

@@ -1,131 +1,131 @@
-language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-77	Kazakh	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ауыр	GEN	NOM	X	GEN_NOM	"Тот же глагол, что 2. Засчитываю конструкцию как двухместную по аналогии с башкирским и ВОПРЕКИ указанию Насти Жук о том, что тут невозможен разрыв. Она же при этом пишет, что возможна прономинализация ""головы"""						
-77	Kazakh	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	ауыр	NOM	INS	Y	NOM_INS	Тот же глагол, что 1.						
-77	Kazakh	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	қорқ	NOM	ABL	Y	NOM_ABL							
-77	Kazakh	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	лақтыр	TR		TR	TR							
-77	Kazakh	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	жет	DAT	NOM	X	DAT_NOM	"Тот же глагол, что 21 (достичь). С отрицанием тот же глагол в 56. Есть еще вариант жеткілікті (""наречие"", NV), та же модель управления"						
-77	Kazakh	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	ұқса	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	7	believe	X (believe) Y	верить	X (верить)Y-у	сен	NOM	DAT	Y	NOM_DAT	Тот же глагол, что 114 (доверять)						
-77	Kazakh	8	take	X (take) Y	взять	X (брать) Y(-а)	ал	TR		TR	TR							
-77	Kazakh	9	see	X (see) Y	видеть	X (видеть) Y(-а)	көр	TR		TR	TR							
-77	Kazakh	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	әсер ет	NOM	DAT	Y	NOM_DAT	"NV (""влияние делает"")"						
-77	Kazakh	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	кездес	NOM	INS	Y	NOM_INS							
-77	Kazakh	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	кір	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ұт-ып ал	NOM	ABL	Y	NOM_ABL	CV						
-77	Kazakh	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	шық	NOM	ABL	Y	NOM_ABL							
-77	Kazakh	15	drive	X (drive) Y	гнать	X (гнать) Y-а	айда	TR		TR	TR							
-77	Kazakh	16	bend	X (bend) Y	гнуть	X (гнуть) Y	майыстыр	TR		TR	TR							
-77	Kazakh	17	tell	X (tell) Y	говорить	X (говорить) Y-у	айт	NOM	DAT	Y	NOM_DAT	То же, что 69 (петь), но другой актант учитывается						
-77	Kazakh	18	hold	X (hold)Y	держать	X (держать) Y(-а)	ұста	TR		TR	TR							
-77	Kazakh	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	қу-ып жет	TR		TR	TR	CV						
-77	Kazakh	20	milk	X (milk) Y	доить	X (доить) Y-а	сау	TR		TR	TR							
-77	Kazakh	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	жет	NOM	DAT	Y	NOM_DAT	Тот же глагол, что 5 (быть достаточно). С отрицанием тот же глагол в 56.						
-77	Kazakh	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	тигіз	NOM	DAT	Y	NOM_DAT	"У глагола есть прямое дополнение (""рука"")"						
-77	Kazakh	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	төбелес	NOM	INS	Y	NOM_INS							
-77	Kazakh	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	достас	NOM	INS	Y	NOM_INS	"Есть еще неглагольный предикат (""друг""), та же модель"						
-77	Kazakh	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	ойла	NOM	turaly	Y	NOM_turaly	туралы						
-77	Kazakh	26	eat	X (eat) Y	есть	X (есть) Y	же	TR		TR	TR							
-77	Kazakh	27	fry	X (fry) Y	жарить	X (жарить) Y	қуыр	TR		TR	TR							
-77	Kazakh	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	тос	TR		TR	TR							
-77	Kazakh	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ұмыт	TR		TR	TR							
-77	Kazakh	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	байланыс	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	31	call	X (call) Y	звать	X (звать) Y-а	шақыр	TR		TR	TR							
-77	Kazakh	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	таныс	NOM	INS	Y	NOM_INS							
-77	Kazakh	33	know	X (know) Y	знать 	X (знать) Y-а	біл	TR		TR	TR							
-77	Kazakh	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	ойна	NOM	LOC	Y	NOM_LOC							
-77	Kazakh	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	қаш	NOM	ABL	Y	NOM_ABL							
-77	Kazakh	36	make	X (make) Y	изготовить	X (изготовить) Y	жаса	TR		TR	TR	Есть еще вариант дайында, та же модель управления.						
-77	Kazakh	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	кемсіт	TR		TR	TR							
-77	Kazakh	38	have	X (have) Y	иметь	X (иметь) Y	бар	LOC	NOM	X	LOC_NOM	NV						
-77	Kazakh	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	ізде	TR		TR	TR							
-77	Kazakh	40	paint	X (paint) Y	красить	X (красить) Y	боя	TR		TR	TR							
-77	Kazakh	41	bite	X (bite) Y	кусать	X (кусать) Y-а	қап	TR		TR	TR							
-77	Kazakh	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	айырыл-ып қал-	NOM	ABL	Y	NOM_ABL	CV						
-77	Kazakh	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	аула	TR		TR	TR							
-77	Kazakh	44	break	X (break) Y	ломать	X (ломать) Y	сындыр	TR		TR	TR							
-77	Kazakh	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	жағымпаздан	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	сүй	TR		TR	TR	Тот же глагол, что 107 (целовать)						
-77	Kazakh	47	wave	X (wave) Y	махать	X (махать) Y-ом	бұлға	NOM	INS	Y	NOM_INS							
-77	Kazakh	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	арманда	NOM	turaly	Y	NOM_turaly	туралы						
-77	Kazakh	49	wash	X (wash) Y	мыть	X (мыть) Y	жу	TR		TR	TR							
-77	Kazakh	50	put_on	X (put_on) Y	надевать	X (надевать) Y	ки	TR		TR	TR							
-77	Kazakh	51	be_called	X (be_called) Y	называться	X (называться) Y	атал	NOM	dep	Y	NOM_dep	PASS						
-77	Kazakh	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	жаза- бер	NOM	DAT	Y	NOM_DAT	"CV. Букв. ""наказание давать"""						
-77	Kazakh	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	шабуыл жаса	NOM	DAT	Y	NOM_DAT	"CV. ""нападение делать"""						
-77	Kazakh	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	тол	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	55	find	X (find) Y	находить	X (находить) Y(-а)	тап	TR		TR	TR	Тот же глагол, что 85 (рожать)						
-77	Kazakh	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	жетпе	DAT	NOM	X	DAT_NOM	"Букв. NEG-""быть достаточно"" (тот же глагол, что в 5 и 21)"						
-77	Kazakh	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	жек көр	TR		TR	TR	"CV. ""особо смотреть"""						
-77	Kazakh	58	like	X (like) Y	нравиться	X-у (нравиться) Y	ұна	DAT	NOM	X	DAT_NOM							
-77	Kazakh	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	керек	DAT	NOM	X	DAT_NOM	NV						
-77	Kazakh	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	қорша	TR		TR	TR							
-77	Kazakh	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	қал	LOC	NOM	X	LOC_NOM							
-77	Kazakh	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	жауап бер	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	63	open	X (open) Y	открывать	X (открывать) Y	аш	TR		TR	TR							
-77	Kazakh	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	басқа	NOM	ABL	Y	NOM_ABL	"NV (""другой"")"						
-77	Kazakh	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	қал-ып қой-	NOM	ABL	Y	NOM_ABL	CV (оставшись поставил)						
-77	Kazakh	66	plough	X (plough) Y	пахать	X (пахать) Y	жырт	TR		TR	TR							
-77	Kazakh	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	сас	TR		TR	TR							
-77	Kazakh	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	кес-іп өт	TR		TR	TR	CV						
-77	Kazakh	69	sing	X (sing) Y	петь	X (петь) Y	айт	TR		TR	TR	То же, что 17 (говорить), но другой актант учитывается						
-77	Kazakh	70	write	X (write) Y	писать	X (писать) Y	жаз	TR		TR	TR							
-77	Kazakh	71	drink	X (drink) Y	пить	X (пить) Y	іш	TR		TR	TR							
-77	Kazakh	72	melt	X (melt) Y	плавить	X (плавить) Y	балқыт	TR		TR	TR							
-77	Kazakh	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	жарас	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	кет	NOM	ABL	Y	NOM_ABL							
-77	Kazakh	75	cover	X (cover) Y	покрывать	X (покрывать) Y	жау	TR		TR	TR							
-77	Kazakh	76	remember	X (remember) Y	помнить	X (помнить) Y-а	ес-і-нде сақта	TR		TR	TR	"CV (""в памяти хранит"")"						
-77	Kazakh	77	help	X (help) Y	помочь	X (помогать) Y-у	көмектес	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	78	understand	X (understand) Y	понимать	X (понимать) Y	түсін	TR		TR	TR							
-77	Kazakh	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	түс	NOM	DAT	Y	NOM_DAT	Тот же глагол, что в 90 (слезать)						
-77	Kazakh	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	кесін-іп ал	NOM	INS	Y	NOM_INS	"CV. ""порезав взял"""						
-77	Kazakh	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	жабыс-ып қал	NOM	DAT	Y	NOM_DAT	"CV. ""липнув остался"""						
-77	Kazakh	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	ұтыл-ып қал	NOM	DAT	Y	NOM_DAT	"CV. ""проиграв остался"""						
-77	Kazakh	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	қуан	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	сөйлес	NOM	INS	Y	NOM_INS							
-77	Kazakh	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	тап	TR		TR	TR	Тот же глагол, что 55 (находить)						
-77	Kazakh	86	drop	X (drop) Y	ронять	X (ронять) Y	түсір	TR		TR	TR	"Возможно, следует считать CV: ""Уронив дал""."						
-77	Kazakh	87	govern	X (govern) Y	руководить	X (руководить) Y	басқар	NOM	INS	Y	NOM_INS							
-77	Kazakh	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	сағын	TR		TR	TR							
-77	Kazakh	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	жүр	NOM	GENartynan	Y	NOM_GENartynan	Идти вслед. GENартынан						
-77	Kazakh	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	түс	NOM	ABL	Y	NOM_ABL	Тот же глагол, что в 79 (попасть)						
-77	Kazakh	91	listen	X (listen) to Y	слушать	X (слушать) Y	тында	TR		TR	TR	То же, что 92						
-77	Kazakh	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	тында	TR		TR	TR	То же, что 91						
-77	Kazakh	93	hear	X (hear) Y	слышать	X (слышать) Y	ест	TR		TR	TR							
-77	Kazakh	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	аралас	NOM	INS	Y	NOM_INS							
-77	Kazakh	95	look	X (look) at Y	смотреть	X (смотреть) на Y	қара	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	шеш	TR		TR	TR							
-77	Kazakh	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	түс-і-не кір	DAT	NOM	X	DAT_NOM	"""X-у во сне приходит Y"" (есть еще вариант ""Петя видит Машу во сне"", TR)"						
-77	Kazakh	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	келіс	NOM	INS	Y	NOM_INS							
-77	Kazakh	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	ұрс-ып қал	NOM	INS	Y	NOM_INS	"CV. ""Поругавшись остался"""						
-77	Kazakh	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	тұр	TR		TR	TR	"Аргументов за ""TR"" по сути дела нет, но оформлено двумя именами без маркеров падежей, так что пишу так"						
-77	Kazakh	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ат	TR		TR	TR							
-77	Kazakh	102	pour	X (pour) Y	сыпать	X (сыпать) Y	сал	TR		TR	TR							
-77	Kazakh	103	lose	X (lose) Y	терять	X (терять) Y	жоғал	TR		TR	TR							
-77	Kazakh	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	бат	NOM	DAT	Y	NOM_DAT	"В конкретном примере сказано ""бат-ып кет"" (утонув, ушло), но думаю, что для моих целей это неважно"						
-77	Kazakh	105	kill	X (kill) Y	убивать	X (убивать) Y-а	өлтір	TR		TR	TR							
-77	Kazakh	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ұр	TR		TR	TR							
-77	Kazakh	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	сүй	TR		TR	TR	Тот же глагол, что 46 (любить)						
-77	Kazakh	108	read	X (read) Y	читать	X (читать) Y-а	оқ	TR		TR	TR							
-77	Kazakh	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	қозғалт	TR		TR	TR							
-77	Kazakh	110	respect	X (respect) Y	уважать	X (уважать) Y-а	сыйла	TR		TR	TR							
-77	Kazakh	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	жеркен	NOM	ABL	Y	NOM_ABL							
-77	Kazakh	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	риза	NOM	INS	Y	NOM_INS	NV						
-77	Kazakh	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	ғашық бол-	NOM	DAT	Y	NOM_DAT	"NV (""влюбленный быть"")"						
-77	Kazakh	114	trust	X (trust) Y	доверять	X (доверять) Y-у	сен	NOM	DAT	Y	NOM_DAT	Тот же глагол, что 7 (верить)						
-77	Kazakh	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	ая	TR		TR	TR							
-77	Kazakh	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	қызған	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	ашулы	NOM	DAT	Y	NOM_DAT	NV. То же, что 122 (сердиться)						
-77	Kazakh	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	танғал	NOM	DAT	Y	NOM_DAT	Тот же глагол, что 125 (поражаться)						
-77	Kazakh	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	жақсы көр	TR		TR	TR	"CV (хорошо видеть). Вариант ""ұнат"" (то же, что 129, симпатизировать)"						
-77	Kazakh	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	рахаттан	NOM	INS	Y	NOM_INS	"В конкретном примере ""рахаттан-ып отыр"""						
-77	Kazakh	121	want	X (want) Y	хотеть	X (хотеть) Y-а	қала	TR		TR	TR							
-77	Kazakh	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	ашулы	NOM	DAT	Y	NOM_DAT	NV. То же, что 117 (злиться)						
-77	Kazakh	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	өкпеле	NOM	DAT	Y	NOM_DAT							
-77	Kazakh	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	ренжіт	TR		TR	TR	CAUS						
-77	Kazakh	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	танғал	NOM	DAT	Y	NOM_DAT	Тот же глагол, что 118 (удивляться)						
-77	Kazakh	126	despise	X (despise) Y	презирать	X (презирать) Y-а	жаратпа	TR		TR	TR	"Букв. ""не одобрять"""						
-77	Kazakh	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	ренж-іп қал	NOM	ushin	Y	NOM_ushin	"CV (""огорчившись остался""). үшін"						
-77	Kazakh	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	кей	TR		TR	TR							
-77	Kazakh	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	ұнат	TR		TR	TR							
-77	Kazakh	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	ұял	NOM	ushin	Y	NOM_ushin	Изредка возможен аккузатив. үшін						
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
+77	Kazakh	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	ауыр	GEN	NOM	X	GEN_NOM							"Тот же глагол, что 2. Засчитываю конструкцию как двухместную по аналогии с башкирским и ВОПРЕКИ указанию Насти Жук о том, что тут невозможен разрыв. Она же при этом пишет, что возможна прономинализация ""головы"""		
+77	Kazakh	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	ауыр	NOM	INS	Y	NOM_INS							Тот же глагол, что 1.		
+77	Kazakh	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	қорқ	NOM	ABL	Y	NOM_ABL									
+77	Kazakh	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	лақтыр	TR		TR	TR									
+77	Kazakh	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	жет	DAT	NOM	X	DAT_NOM							"Тот же глагол, что 21 (достичь). С отрицанием тот же глагол в 56. Есть еще вариант жеткілікті (""наречие"", NV), та же модель управления"		
+77	Kazakh	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	ұқса	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	7	believe	X (believe) Y	верить	X (верить)Y-у	сен	NOM	DAT	Y	NOM_DAT							Тот же глагол, что 114 (доверять)		
+77	Kazakh	8	take	X (take) Y	взять	X (брать) Y(-а)	ал	TR		TR	TR									
+77	Kazakh	9	see	X (see) Y	видеть	X (видеть) Y(-а)	көр	TR		TR	TR									
+77	Kazakh	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	әсер ет	NOM	DAT	Y	NOM_DAT							"NV (""влияние делает"")"		
+77	Kazakh	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	кездес	NOM	INS	Y	NOM_INS									
+77	Kazakh	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	кір	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ұт-ып ал	NOM	ABL	Y	NOM_ABL							CV		
+77	Kazakh	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	шық	NOM	ABL	Y	NOM_ABL									
+77	Kazakh	15	drive	X (drive) Y	гнать	X (гнать) Y-а	айда	TR		TR	TR									
+77	Kazakh	16	bend	X (bend) Y	гнуть	X (гнуть) Y	майыстыр	TR		TR	TR									
+77	Kazakh	17	tell	X (tell) Y	говорить	X (говорить) Y-у	айт	NOM	DAT	Y	NOM_DAT							То же, что 69 (петь), но другой актант учитывается		
+77	Kazakh	18	hold	X (hold)Y	держать	X (держать) Y(-а)	ұста	TR		TR	TR									
+77	Kazakh	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	қу-ып жет	TR		TR	TR							CV		
+77	Kazakh	20	milk	X (milk) Y	доить	X (доить) Y-а	сау	TR		TR	TR									
+77	Kazakh	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	жет	NOM	DAT	Y	NOM_DAT							Тот же глагол, что 5 (быть достаточно). С отрицанием тот же глагол в 56.		
+77	Kazakh	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	тигіз	NOM	DAT	Y	NOM_DAT							"У глагола есть прямое дополнение (""рука"")"		
+77	Kazakh	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	төбелес	NOM	INS	Y	NOM_INS									
+77	Kazakh	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	достас	NOM	INS	Y	NOM_INS							"Есть еще неглагольный предикат (""друг""), та же модель"		
+77	Kazakh	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	ойла	NOM	turaly	Y	NOM_turaly							туралы		
+77	Kazakh	26	eat	X (eat) Y	есть	X (есть) Y	же	TR		TR	TR									
+77	Kazakh	27	fry	X (fry) Y	жарить	X (жарить) Y	қуыр	TR		TR	TR									
+77	Kazakh	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	тос	TR		TR	TR									
+77	Kazakh	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ұмыт	TR		TR	TR									
+77	Kazakh	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	байланыс	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	31	call	X (call) Y	звать	X (звать) Y-а	шақыр	TR		TR	TR									
+77	Kazakh	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	таныс	NOM	INS	Y	NOM_INS									
+77	Kazakh	33	know	X (know) Y	знать 	X (знать) Y-а	біл	TR		TR	TR									
+77	Kazakh	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	ойна	NOM	LOC	Y	NOM_LOC									
+77	Kazakh	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	қаш	NOM	ABL	Y	NOM_ABL									
+77	Kazakh	36	make	X (make) Y	изготовить	X (изготовить) Y	жаса	TR		TR	TR							Есть еще вариант дайында, та же модель управления.		
+77	Kazakh	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	кемсіт	TR		TR	TR									
+77	Kazakh	38	have	X (have) Y	иметь	X (иметь) Y	бар	LOC	NOM	X	LOC_NOM							NV		
+77	Kazakh	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	ізде	TR		TR	TR									
+77	Kazakh	40	paint	X (paint) Y	красить	X (красить) Y	боя	TR		TR	TR									
+77	Kazakh	41	bite	X (bite) Y	кусать	X (кусать) Y-а	қап	TR		TR	TR									
+77	Kazakh	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	айырыл-ып қал-	NOM	ABL	Y	NOM_ABL							CV		
+77	Kazakh	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	аула	TR		TR	TR									
+77	Kazakh	44	break	X (break) Y	ломать	X (ломать) Y	сындыр	TR		TR	TR									
+77	Kazakh	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	жағымпаздан	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	сүй	TR		TR	TR							Тот же глагол, что 107 (целовать)		
+77	Kazakh	47	wave	X (wave) Y	махать	X (махать) Y-ом	бұлға	NOM	INS	Y	NOM_INS									
+77	Kazakh	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	арманда	NOM	turaly	Y	NOM_turaly							туралы		
+77	Kazakh	49	wash	X (wash) Y	мыть	X (мыть) Y	жу	TR		TR	TR									
+77	Kazakh	50	put_on	X (put_on) Y	надевать	X (надевать) Y	ки	TR		TR	TR									
+77	Kazakh	51	be_called	X (be_called) Y	называться	X (называться) Y	атал	NOM	dep	Y	NOM_dep							PASS		
+77	Kazakh	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	жаза- бер	NOM	DAT	Y	NOM_DAT							"CV. Букв. ""наказание давать"""		
+77	Kazakh	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	шабуыл жаса	NOM	DAT	Y	NOM_DAT							"CV. ""нападение делать"""		
+77	Kazakh	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	тол	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	55	find	X (find) Y	находить	X (находить) Y(-а)	тап	TR		TR	TR							Тот же глагол, что 85 (рожать)		
+77	Kazakh	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	жетпе	DAT	NOM	X	DAT_NOM							"Букв. NEG-""быть достаточно"" (тот же глагол, что в 5 и 21)"		
+77	Kazakh	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	жек көр	TR		TR	TR							"CV. ""особо смотреть"""		
+77	Kazakh	58	like	X (like) Y	нравиться	X-у (нравиться) Y	ұна	DAT	NOM	X	DAT_NOM									
+77	Kazakh	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	керек	DAT	NOM	X	DAT_NOM							NV		
+77	Kazakh	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	қорша	TR		TR	TR									
+77	Kazakh	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	қал	LOC	NOM	X	LOC_NOM									
+77	Kazakh	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	жауап бер	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	63	open	X (open) Y	открывать	X (открывать) Y	аш	TR		TR	TR									
+77	Kazakh	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	басқа	NOM	ABL	Y	NOM_ABL							"NV (""другой"")"		
+77	Kazakh	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	қал-ып қой-	NOM	ABL	Y	NOM_ABL							CV (оставшись поставил)		
+77	Kazakh	66	plough	X (plough) Y	пахать	X (пахать) Y	жырт	TR		TR	TR									
+77	Kazakh	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	сас	TR		TR	TR									
+77	Kazakh	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	кес-іп өт	TR		TR	TR							CV		
+77	Kazakh	69	sing	X (sing) Y	петь	X (петь) Y	айт	TR		TR	TR							То же, что 17 (говорить), но другой актант учитывается		
+77	Kazakh	70	write	X (write) Y	писать	X (писать) Y	жаз	TR		TR	TR									
+77	Kazakh	71	drink	X (drink) Y	пить	X (пить) Y	іш	TR		TR	TR									
+77	Kazakh	72	melt	X (melt) Y	плавить	X (плавить) Y	балқыт	TR		TR	TR									
+77	Kazakh	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	жарас	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	кет	NOM	ABL	Y	NOM_ABL									
+77	Kazakh	75	cover	X (cover) Y	покрывать	X (покрывать) Y	жау	TR		TR	TR									
+77	Kazakh	76	remember	X (remember) Y	помнить	X (помнить) Y-а	ес-і-нде сақта	TR		TR	TR							"CV (""в памяти хранит"")"		
+77	Kazakh	77	help	X (help) Y	помочь	X (помогать) Y-у	көмектес	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	78	understand	X (understand) Y	понимать	X (понимать) Y	түсін	TR		TR	TR									
+77	Kazakh	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	түс	NOM	DAT	Y	NOM_DAT							Тот же глагол, что в 90 (слезать)		
+77	Kazakh	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	кесін-іп ал	NOM	INS	Y	NOM_INS							"CV. ""порезав взял"""		
+77	Kazakh	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	жабыс-ып қал	NOM	DAT	Y	NOM_DAT							"CV. ""липнув остался"""		
+77	Kazakh	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	ұтыл-ып қал	NOM	DAT	Y	NOM_DAT							"CV. ""проиграв остался"""		
+77	Kazakh	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	қуан	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	сөйлес	NOM	INS	Y	NOM_INS									
+77	Kazakh	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	тап	TR		TR	TR							Тот же глагол, что 55 (находить)		
+77	Kazakh	86	drop	X (drop) Y	ронять	X (ронять) Y	түсір	TR		TR	TR							"Возможно, следует считать CV: ""Уронив дал""."		
+77	Kazakh	87	govern	X (govern) Y	руководить	X (руководить) Y	басқар	NOM	INS	Y	NOM_INS									
+77	Kazakh	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	сағын	TR		TR	TR									
+77	Kazakh	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	жүр	NOM	GENartynan	Y	NOM_GENartynan							Идти вслед. GENартынан		
+77	Kazakh	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	түс	NOM	ABL	Y	NOM_ABL							Тот же глагол, что в 79 (попасть)		
+77	Kazakh	91	listen	X (listen) to Y	слушать	X (слушать) Y	тында	TR		TR	TR							То же, что 92		
+77	Kazakh	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	тында	TR		TR	TR							То же, что 91		
+77	Kazakh	93	hear	X (hear) Y	слышать	X (слышать) Y	ест	TR		TR	TR									
+77	Kazakh	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	аралас	NOM	INS	Y	NOM_INS									
+77	Kazakh	95	look	X (look) at Y	смотреть	X (смотреть) на Y	қара	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	шеш	TR		TR	TR									
+77	Kazakh	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	түс-і-не кір	DAT	NOM	X	DAT_NOM							"""X-у во сне приходит Y"" (есть еще вариант ""Петя видит Машу во сне"", TR)"		
+77	Kazakh	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	келіс	NOM	INS	Y	NOM_INS									
+77	Kazakh	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	ұрс-ып қал	NOM	INS	Y	NOM_INS							"CV. ""Поругавшись остался"""		
+77	Kazakh	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	тұр	TR		TR	TR							"Аргументов за ""TR"" по сути дела нет, но оформлено двумя именами без маркеров падежей, так что пишу так"		
+77	Kazakh	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ат	TR		TR	TR									
+77	Kazakh	102	pour	X (pour) Y	сыпать	X (сыпать) Y	сал	TR		TR	TR									
+77	Kazakh	103	lose	X (lose) Y	терять	X (терять) Y	жоғал	TR		TR	TR									
+77	Kazakh	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	бат	NOM	DAT	Y	NOM_DAT							"В конкретном примере сказано ""бат-ып кет"" (утонув, ушло), но думаю, что для моих целей это неважно"		
+77	Kazakh	105	kill	X (kill) Y	убивать	X (убивать) Y-а	өлтір	TR		TR	TR									
+77	Kazakh	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ұр	TR		TR	TR									
+77	Kazakh	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	сүй	TR		TR	TR							Тот же глагол, что 46 (любить)		
+77	Kazakh	108	read	X (read) Y	читать	X (читать) Y-а	оқ	TR		TR	TR									
+77	Kazakh	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	қозғалт	TR		TR	TR									
+77	Kazakh	110	respect	X (respect) Y	уважать	X (уважать) Y-а	сыйла	TR		TR	TR									
+77	Kazakh	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	жеркен	NOM	ABL	Y	NOM_ABL									
+77	Kazakh	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	риза	NOM	INS	Y	NOM_INS							NV		
+77	Kazakh	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	ғашық бол-	NOM	DAT	Y	NOM_DAT							"NV (""влюбленный быть"")"		
+77	Kazakh	114	trust	X (trust) Y	доверять	X (доверять) Y-у	сен	NOM	DAT	Y	NOM_DAT							Тот же глагол, что 7 (верить)		
+77	Kazakh	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	ая	TR		TR	TR									
+77	Kazakh	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	қызған	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	ашулы	NOM	DAT	Y	NOM_DAT							NV. То же, что 122 (сердиться)		
+77	Kazakh	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	танғал	NOM	DAT	Y	NOM_DAT							Тот же глагол, что 125 (поражаться)		
+77	Kazakh	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	жақсы көр	TR		TR	TR							"CV (хорошо видеть). Вариант ""ұнат"" (то же, что 129, симпатизировать)"		
+77	Kazakh	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	рахаттан	NOM	INS	Y	NOM_INS							"В конкретном примере ""рахаттан-ып отыр"""		
+77	Kazakh	121	want	X (want) Y	хотеть	X (хотеть) Y-а	қала	TR		TR	TR									
+77	Kazakh	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	ашулы	NOM	DAT	Y	NOM_DAT							NV. То же, что 117 (злиться)		
+77	Kazakh	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	өкпеле	NOM	DAT	Y	NOM_DAT									
+77	Kazakh	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	ренжіт	TR		TR	TR							CAUS		
+77	Kazakh	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	танғал	NOM	DAT	Y	NOM_DAT							Тот же глагол, что 118 (удивляться)		
+77	Kazakh	126	despise	X (despise) Y	презирать	X (презирать) Y-а	жаратпа	TR		TR	TR							"Букв. ""не одобрять"""		
+77	Kazakh	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	ренж-іп қал	NOM	ushin	Y	NOM_ushin							"CV (""огорчившись остался""). үшін"		
+77	Kazakh	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	кей	TR		TR	TR									
+77	Kazakh	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	ұнат	TR		TR	TR									
+77	Kazakh	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	ұял	NOM	ushin	Y	NOM_ushin							Изредка возможен аккузатив. үшін		
