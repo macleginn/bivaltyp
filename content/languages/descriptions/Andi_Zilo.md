@@ -49,7 +49,7 @@ sentence, with morpheme boundaries shown. Gender indexes, if present, are shown 
 brackets, e.g. ‘to take off’ is shown as *&lt;r&gt;-uχ.i* = [INAN2-take_off.PST(AOR)].
 
 ## Glossing abbreviations
-ABST — abstract; ADD — additive; AFF — affective; AN — animate; AOR — aorist; ATR — attributive; 
+ABST — abstract noun; ADD — additive; AFF — affective; AN — animate; AOR — aorist; ATTR — attributive; 
 CARD — cardinal; CAUS — causative; COM — comitative; CONT — contessive; COP — copula; 
 DAT — dative; DEM — demonstrative; EL — elative; EMPH — emphatic; ERG — ergative; F — feminine; 
 FCT — factive; GEN — genitive; HAB — habitual; ILLAT — illative; IN — inessive; 
