@@ -54,7 +54,7 @@ CARD — cardinal; CAUS — causative; COM — comitative; CONT — contessive; 
 DAT — dative; DEM — demonstrative; EL — elative; EMPH — emphatic; ERG — ergative; F — feminine; 
 FCT — factive; GEN — genitive; HAB — habitual; ILLAT — illative; IN — inessive; 
 INAN1, INAN2 — 1st, 2nd inanimate; INCH — inchoative; INST — instrumental; INTER — interessive; 
-LAT — lative; LL — lower level (for demonstratives); M — masculine; NOM — nominative; 
+LAT — lative; LL — lower level (for demonstratives); M — masculine; MSD — masdar; NOM — nominative; 
 NPST — non-past; OBL — oblique; PF — perfective; PL — plural; PN — person name; 
 PROG — progressive; PRS — present; PST — past; PTCP — participle; RFL — reflexive; 
 SL — lower level (for demonstratives); SUPER — superessive.
