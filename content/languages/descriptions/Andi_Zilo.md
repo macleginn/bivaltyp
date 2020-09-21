@@ -1,6 +1,6 @@
 # {{ language_external }}
 Contributed by [Neige Rochant](https://lacito.vjf.cnrs.fr/membres/rochant_en.htm) 
-([academia.edu profile](https://paris3.academia.edu/NeigeRochant)).
+([Academia.edu profile](https://paris3.academia.edu/NeigeRochant)).
 
 ![N.R.'s photo]({{ site_url_j }}/images/rochant.jpeg "N.R.'s photo")
 
