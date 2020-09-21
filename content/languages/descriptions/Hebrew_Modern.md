@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Dmitry Nikolaev](https://dnikolaev.com), [Academia.edu profile](https://su-se.academia.edu/DmitryNikolaev)
+Contributed by [Dmitry Nikolaev](https://dnikolaev.com) ([Academia.edu profile](https://su-se.academia.edu/DmitryNikolaev))
 
 ![D.N.'s photo]({{ site_url_j }}/images/mitya.jpg "D.N.'s photo")
 
