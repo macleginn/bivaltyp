@@ -6,9 +6,8 @@ Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.
 The data were gathered in {{ data_collection_year }} in Urmiya, Krasnodar Krai, Russia. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
-> Say, Sergey. Bivalent patterns in {{ language_external}}. 
-> In: Say, Sergey (ed.). {{ last_database_release_year }}. BivalTyp: 
-> Typological database of bivalent verbs and their encoding frames. 
+> Say, Sergey. {{ last_database_release_year }}. Bivalent patterns in {{ language_external}}. 
+> In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St.Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
 > last revised in version {{ version }}.) (Available online at {{ site_url }}, 
