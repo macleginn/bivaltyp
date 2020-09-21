@@ -85,7 +85,7 @@
 <p>Some annotation...</p>
 <p>Colour codes: transitive – red, X – blue, Y – yellow, XY – black, no data – grey.</p>
 <label for="tr-locus-select">Select a predicate:</label>
-<select name="tr-locus" id="tr-locus-select" onchange="redrawPredicateMap(this.value);">
+<select name="tr-locus" id="tr-locus-select" onchange="redrawPredicateMap(this.value);" style="width: 300px;">
     <option value="---" disabled>---</option>
 </select>
 <div id="transitivity-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
@@ -96,13 +96,13 @@
 <div style="display: grid; grid-template-columns: 200px 200px;">
     <div style="grid-column: 1/2;">
         <label for="predicate1-select">Select first predicate:</label>
-        <select name="predicate1" id="predicate1-select" onchange="redrawPredicatePairMap();">
+        <select name="predicate1" id="predicate1-select" onchange="redrawPredicatePairMap();" style="width: 300px;">
             <option value="---" disabled>---</option>
         </select>
     </div>
     <div style="grid-column: 2/3;">
         <label for="predicate2-select">Select second predicate:</label>
-        <select name="predicate1" id="predicate2-select" onchange="redrawPredicatePairMap();">
+        <select name="predicate1" id="predicate2-select" onchange="redrawPredicatePairMap();" style="width: 300px;">
             <option value="---" disabled>---</option>
         </select>
     </div>
@@ -256,9 +256,9 @@
     function getPredicateOption(predicate) {
         let option = document.createElement('option');
         option.value = predicate;
-        option.innerText = predicate
+        option.innerHTML = predicate
             .replace(/_/g, ' ')
-            .replace(/#(.*)#/g, ' ($1)') + ` (${predicate2schema[predicate]})`;
+            .replace(/#(.*)#/g, ' ($1)') + ` [<em>${predicate2schema[predicate]}</em>]`;
         return option;
     }
 
