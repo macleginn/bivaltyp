@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru), [Academia.edu profile](https://iling-spb.academia.edu/SergeySay)
+Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/SergeySay)).
 
 ![S.S.'s photo]({{ site_url_j }}/images/Say.jpg "S.S.'s photo")
 
