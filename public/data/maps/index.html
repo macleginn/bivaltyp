@@ -260,8 +260,12 @@
 
     document.addEventListener('DOMContentLoaded', () => {
         // Populate select menus
+        let sortedPredicates = [];
         for (const key in predicateLanguageLocusDict)
-            if (predicateLanguageLocusDict.hasOwnProperty(key)) {
+            if (predicateLanguageLocusDict.hasOwnProperty(key))
+                sortedPredicates.push(key);
+        sortedPredicates.sort();
+        for (const key of sortedPredicates) {
                 document.getElementById('tr-locus-select').appendChild(getPredicateOption(key));
                 document.getElementById('predicate1-select').appendChild(getPredicateOption(key));
                 document.getElementById('predicate2-select').appendChild(getPredicateOption(key));
