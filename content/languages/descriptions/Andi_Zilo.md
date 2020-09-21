@@ -7,9 +7,8 @@ Contributed by [Neige Rochant](https://lacito.vjf.cnrs.fr/membres/rochant_en.htm
 The data were gathered in {{ data_collection_year }} in Zilo, Dagestan, Russia. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
-> Rochant, Neige. Bivalent patterns in {{ language_external }}. 
-> In: Say, Sergey (ed.). {{ last_database_release_year }}. BivalTyp: 
-> Typological database of bivalent verbs and their encoding frames. 
+> Rochant, Neige. {{ last_database_release_year }}. Bivalent patterns in {{ language_external }}. 
+> In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St.Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
 > (Available online at {{ site_url }}, Accessed on {{ today }})
