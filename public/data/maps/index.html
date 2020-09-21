@@ -115,6 +115,7 @@
 <script>
     // Data.
     let external2internal = {},
+        predicate2schema = {},
         coords = {},
         nameIndexDict = {};
     let map1markers = [], map2markers = [];  // For deleting them.
@@ -128,6 +129,9 @@
             lat: row[nameIndexDict['latitude']],
             lon: row[nameIndexDict['longitude']]
         };
+    }
+    for (const row of predicateData.slice(1)) {
+        predicate2schema[row[1]] = row[2];
     }
     // Extract active languages for links
     let activeLanguages = new Set();
@@ -254,7 +258,7 @@
         option.value = predicate;
         option.innerText = predicate
             .replace(/_/g, ' ')
-            .replace(/#(.*)#/g, ' ($1)');
+            .replace(/#(.*)#/g, ' ($1)') + ` (${predicate2schema[predicate]})`;
         return option;
     }
 
