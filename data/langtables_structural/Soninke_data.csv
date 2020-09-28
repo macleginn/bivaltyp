@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-49	Soninke	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	wàtú	POSS&OBJ	SUBJ	X	POSS&OBJ_SUBJ							Literally: ‘X’s Y hurts him/her
-49	Soninke	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	rágà	OBJ	SUBJ	X	OBJ_SUBJ							transitive construction, but the subject (X) represents the illness, and the object (Y) represents the person; the literal meaning is ‘X (the illness) catches Y (the person)’. Same verb as in 43. Alternatively, a non-verbal construction with the locational copula (lit. ‘illness is to person’) can be used.
-49	Soninke	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	kànú	SUBJ	yì/yí	Y	SUBJ_yi							the causative form kànùndí ‘frighten’ occurs in a transitive construction in which the subject represents the stimulus
-49	Soninke	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	sédì 	SUBJ	OBJ	TR	TR							
-49	Soninke	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	bágá	OBJ	SUBJ	X	OBJ_SUBJ							
-49	Soninke	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	qáwà			*								Intransitive construction with a complex NP in subject function. at first sight, [X dò/dó Y] phrases look like coordination constructions, but the semantic relationship between X and Y is not limited to semantic role sharing, and the restrictions on syntactic operations typical for coordination constructions do not apply to them.
-49	Soninke	7	believe	X (believe) Y	верить	X (верить)Y-у	sáxú	SUBJ	yì/yí	Y	SUBJ_yi							The basic meaning of sáxú is ‘lie down’, same verb and construction as in 112, 114
-49	Soninke	8	take	X (take) Y	взять	X (брать) Y(-а)	wùtú 	SUBJ	OBJ	TR	TR							
-49	Soninke	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ŋàrí	SUBJ	OBJ	TR	TR							
-49	Soninke	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*			*								Soninke has no simple equivalent of ‘influence’ ; various periphrases can be used to express this meaning, depending on the precise meaning.
-49	Soninke	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	gèmú 			*								Same complications as in 6 (complex NP subject)
-49	Soninke	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ró 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	qósó	SUBJ	OBJ	TR	TR							Same verb and construction as in 44
-49	Soninke	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	búgú	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	15	drive	X (drive) Y	гнать	X (гнать) Y-а	gèngé	SUBJ	OBJ	TR	TR							
-49	Soninke	16	bend	X (bend) Y	гнуть	X (гнуть) Y	gòròbìndí	SUBJ	OBJ	TR	TR							
-49	Soninke	17	tell	X (tell) Y	говорить	X (говорить) Y-у	kò/kó	SUBJ	dà/dá	Y	SUBJ_da							Kò/kó is a regular transitive verb, but the object slot is occupied by the 3rd person pronoun à representing the quotation (Z), and the addressee is encoded as an oblique (dà/dá is a postposition)
-49	Soninke	18	hold	X (hold)Y	держать	X (держать) Y(-а)	*			*								‘X holds Y’ is usually expressed in Soninke as ‘Y wá X kìttén ŋà’ lit. ‘Y is in X’s hand’ (wá is the locational copula, ŋà/ŋá is an allomorph of the postposition yì/yí conditioned by the final nasal of the preceding word) 
-49	Soninke	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	légè 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	20	milk	X (milk) Y	доить	X (доить) Y-а	qámú	SUBJ	OBJ	TR	TR							
-49	Soninke	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	kìñé 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	kátì	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	gàjá			*								Same complications as in 6 (complex NP subject)
-49	Soninke	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*			*								DC: The only equivalents I have been able to find are periphrastic (‘become friends’ or ‘enter friendship with’)
-49	Soninke	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	sínmè 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	26	eat	X (eat) Y	есть	X (есть) Y	yígá	SUBJ	OBJ	TR	TR							
-49	Soninke	27	fry	X (fry) Y	жарить	X (жарить) Y	bíyí	SUBJ	OBJ	TR	TR							
-49	Soninke	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	dùgú 	SUBJ	OBJ	TR	TR							
-49	Soninke	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	mùngú	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*			*								The only (quasi-)equivalent of ‘X depends on Y’ I have been able to find is lit. ‘Y stands with Y’ (but more detailed descriptions of the situations referred to tend to be preferred)
-49	Soninke	31	call	X (call) Y	звать	X (звать) Y-а	qírí 	SUBJ	OBJ	TR	TR							
-49	Soninke	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	tù/tú	SUBJ	OBJ	TR	TR							Same verb and construction as in 33
-49	Soninke	33	know	X (know) Y	знать 	X (знать) Y-а	tù/tú	SUBJ	OBJ	TR	TR							Same verb and construction as in 32
-49	Soninke	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	tímí	SUBJ	OBJ	TR	TR							
-49	Soninke	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	gòorí	SUBJ	OBJ	TR	TR							
-49	Soninke	36	make	X (make) Y	изготовить	X (изготовить) Y	dàbárì	SUBJ	OBJ	TR	TR							
-49	Soninke	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	sòyí	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	38	have	X (have) Y	иметь	X (иметь) Y	wá	màxá	SUBJ	X	maxa_SUBJ							Soninke expresses predicative possession as literally ‘Possessee is at possessor’ (with the possessee encoded as the subject of the locational copula wá, and the possessor encoded as an oblique marked by the postposition màxá)
-49	Soninke	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	mùndú	SUBJ	OBJ	TR	TR							
-49	Soninke	40	paint	X (paint) Y	красить	X (красить) Y	péntírí 	SUBJ	OBJ	TR	TR							
-49	Soninke	41	bite	X (bite) Y	кусать	X (кусать) Y-а	qíñí 	SUBJ	OBJ	TR	TR							
-49	Soninke	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	bònó			*								intransitive construction with the complex NP ‘X Y’ (the Y of X) in subject function; the primary meaning of bònó is ‘get spoilt’
-49	Soninke	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	rágà 	SUBJ	OBJ	TR	TR							Same verb as in 2.
-49	Soninke	44	break	X (break) Y	ломать	X (ломать) Y	qósó	SUBJ	OBJ	TR	TR							Same verb and construction as in 13
-49	Soninke	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	jàkkí	SUBJ	OBJ	TR	TR							
-49	Soninke	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	qànú 	SUBJ	OBJ	TR	TR							Same verb and construction as in 113, 129
-49	Soninke	47	wave	X (wave) Y	махать	X (махать) Y-ом	yònkó 	SUBJ	OBJ	TR	TR							Same verb and construction as in 109
-49	Soninke	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*			*								DC: The only equivalents I have been able to find are constructions such as lit. ‘car’s  desire is at me’ for ‘I dream of a car’
-49	Soninke	49	wash	X (wash) Y	мыть	X (мыть) Y	yánqí 	SUBJ	OBJ	TR	TR							
-49	Soninke	50	put_on	X (put_on) Y	надевать	X (надевать) Y	róndí 	SUBJ	OBJ	TR	TR							
-49	Soninke	51	be_called	X (be_called) Y	называться	X (называться) Y	*			*								In Soninke, ‘X is called Y’ can be rendered, either as lit. ‘they say to X “Y”’ (with a 3rd person plural subject interpreted as non-specific), or as ‘X’s name is Y’. 
-49	Soninke	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*			*								Soninke has no general equivalent of ‘punish’ ; the translation of English sentences including ‘punish’ implies specifying a particular type of punishment (‘They hit him’, They killed him’, ‘They put him in jail’, ‘They fined him’, etc.).
-49	Soninke	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	qénú 	SUBJ	yì/yí	Y	SUBJ_yi							Same verb and construction as in 79. The basic meaning of qénú is ‘fall’; alternatively, there is a transitive construction with gàjá. Both are quite usual
-49	Soninke	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	hógú	SUBJ	yì/yí	Y	SUBJ_yi							Alternatively, there is a less frequent transitive construction with the substance (Y) as subject
-49	Soninke	55	find	X (find) Y	находить	X (находить) Y(-а)	ñì/ñí	SUBJ	OBJ	TR	TR							
-49	Soninke	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	kòntó 	yì/yí	SUBJ	X	yi_SUBJ							
-49	Soninke	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	qóní 	SUBJ	OBJ	TR	TR							
-49	Soninke	58	like	X (like) Y	нравиться	X-у (нравиться) Y	línŋí 	dà/dá 	SUBJ	X	da_SUBJ							
-49	Soninke	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	*			*								Can only be expressed periphrastically as lit. ‘X’s need is in Y’
-49	Soninke	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	kòorí	SUBJ	OBJ	TR	TR							
-49	Soninke	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	tóxó	màxá	SUBJ	X	maxa_SUBJ							
-49	Soninke	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	jáabì	SUBJ	OBJ	TR	TR							
-49	Soninke	63	open	X (open) Y	открывать	X (открывать) Y	ŋùñí 	SUBJ	OBJ	TR	TR							
-49	Soninke	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*			*								‘X is different from Y’ is usually expressed in Soninke as ‘X and Y are not identical’
-49	Soninke	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	léelàntá 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	66	plough	X (plough) Y	пахать	X (пахать) Y	kòbí	SUBJ	OBJ	TR	TR							
-49	Soninke	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*			*								the Soninke equivalent of ‘X emits an odor of Y’ is lit. ‘an odor of Y is behind X’, with a noun ‘odor’ as the subject of the locational copula
-49	Soninke	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	kárá	SUBJ	OBJ	TR	TR							
-49	Soninke	69	sing	X (sing) Y	петь	X (петь) Y	sùugú 	SUBJ	OBJ	TR	TR							
-49	Soninke	70	write	X (write) Y	писать	X (писать) Y	sáhà 	SUBJ	OBJ	TR	TR							
-49	Soninke	71	drink	X (drink) Y	пить	X (пить) Y	mìní	SUBJ	OBJ	TR	TR							
-49	Soninke	72	melt	X (melt) Y	плавить	X (плавить) Y	qàjá 	SUBJ	OBJ	TR	TR							
-49	Soninke	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	gèmú			*								The verb is identical to 'meet'. Same complications as in 6 (complex NP subject)
-49	Soninke	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	wàrá 	SUBJ	OBJ	TR	TR							
-49	Soninke	75	cover	X (cover) Y	покрывать	X (покрывать) Y	qúhú 	SUBJ	OBJ	TR	TR							
-49	Soninke	76	remember	X (remember) Y	помнить	X (помнить) Y-а	*			*								Soninke expresses ‘X remembers Y’ as ‘X hàqqìlên ŋá Y kànmá’ lit. ‘X’s mind is on Y’
-49	Soninke	77	help	X (help) Y	помочь	X (помогать) Y-у	dèemá 	SUBJ	OBJ	TR	TR							
-49	Soninke	78	understand	X (understand) Y	понимать	X (понимать) Y	hàámù 	SUBJ	OBJ	TR	TR							
-49	Soninke	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	qénú 	SUBJ	yì/yí	Y	SUBJ_yi							Same verb and construction as in 53
-49	Soninke	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	kútú	SUBJ	tì/tí_yì/yí 	Y	SUBJ_ti_yi							In this case, both ti (prep.) & yi (post.) attach to Y in the sense that [tì/tí Y yì/yí] is a constituent (adpositional phrase), but they are not affixes. Arguably, the internal structure of this constituent is [tì/tí [Y yì/yí]]
-49	Soninke	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	màlí 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*			*								A periphrasis including the intransitive verb kòrí ‘fail’ is possible, but in Soninke, ‘X loses to Y’ is normally expressed as ‘Y wins X’ (see 13).
-49	Soninke	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ñáxálí 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	sèhé 	SUBJ	dà/dá 	Y	SUBJ_da							"SS chose the ""second construction"". Cf. DC on these constrcutions: ""The first two constructions are intransitive constructions, the first one with the complex NP ‘X dò/dó Y’ (X and Y) in the subject slot, the second one with one of the two participants encoded as the subject, and the second one as an oblique. The third construction is a transitive construction ; it implies a more active participation for the participant encoded as the subject."""
-49	Soninke	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	sàará 	SUBJ	OBJ	TR	TR							sàará ‘give birth’ occurs in a transitive construction, but its detransitivized form sàaré can be found in a synonymous extended intransitive construction.
-49	Soninke	86	drop	X (drop) Y	ронять	X (ронять) Y	yèrèndí 	SUBJ	OBJ	TR	TR							
-49	Soninke	87	govern	X (govern) Y	руководить	X (руководить) Y	màrá 	SUBJ	OBJ	TR	TR							
-49	Soninke	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	*			*								non-verbal construction : X qìidên ŋá Y yì/yí lit. ‘X’s nostalgia is at Y’
-49	Soninke	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	bàtú 	SUBJ	OBJ	TR	TR							
-49	Soninke	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	yànqá 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	91	listen	X (listen) to Y	слушать	X (слушать) Y	térínká 	SUBJ	OBJ	TR	TR							Same verb and construction as in 92
-49	Soninke	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	térínká	SUBJ	OBJ	TR	TR							Same verb and construction as in 91
-49	Soninke	93	hear	X (hear) Y	слышать	X (слышать) Y	mùgú 	SUBJ	OBJ	TR	TR							
-49	Soninke	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	kólóncé 			*								Same complications as in 6 (complex NP subject)
-49	Soninke	95	look	X (look) at Y	смотреть	X (смотреть) на Y	háyí 	SUBJ	OBJ	TR	TR							
-49	Soninke	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	wùtú kànmún ŋà	SUBJ	OBJ	TR	TR							wùtú is the verb ‘take’; kànmún ŋà can be glossed as ‘from the upper part’
-49	Soninke	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	kùyí 	SUBJ	OBJ	TR	TR							
-49	Soninke	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	dùnŋé 	SUBJ	dà/dá	Y	SUBJ_da							
-49	Soninke	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	sónqò			*								Same complications as in 6
-49	Soninke	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*			*								There is no equivalent of ‘cost’ in Soninke; price can be predicated by means of an equative predication (‘the car is 5 million francs’) or with the help of the verbs ‘buy’ or ‘sell’ (‘the car is sold 5 million francs’); there is also a noun jònkô ‘price’, so that an alternative formulation is ‘the price of this car is 5 million francs’)
-49	Soninke	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	máráhàn kátú 	SUBJ	yì/yí	Y	SUBJ_yi							light verb construction, in which the verb is kátú ‘hit’, and the object slot is occupied by máráhà ‘gun’ (lit. ‘X hit the gun at Y’), whereas the second argument is encoded as an oblique
-49	Soninke	102	pour	X (pour) Y	сыпать	X (сыпать) Y	jòxú 	SUBJ	OBJ	TR	TR							
-49	Soninke	103	lose	X (lose) Y	терять	X (терять) Y	sánkú			*								См. лишаться. intransitive construction, lit. ‘X’s Y gets lost’ (X is the genitival modifier of Y; in Soninke, the genitival construction is marked as such by a tonal modification of the head – here, Y)
-49	Soninke	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	yóolè 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kàrí	SUBJ	OBJ	TR	TR							
-49	Soninke	106	hit	X (hit) Y	ударить	X (ударять) Y-а	kátú	SUBJ	OBJ	TR	TR							
-49	Soninke	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	sùgú	SUBJ	OBJ	TR	TR							
-49	Soninke	108	read	X (read) Y	читать	X (читать) Y-а	qàrá 	SUBJ	OBJ	TR	TR							
-49	Soninke	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	yònkó	SUBJ	OBJ	TR	TR							Same verb and construction as in 47
-49	Soninke	110	respect	X (respect) Y	уважать	X (уважать) Y-а	dàró 	SUBJ	OBJ	TR	TR							
-49	Soninke	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	ñéxú 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	sáxú 	SUBJ	yì/yí	Y	SUBJ_yi							The basic meaning of sáxú is ‘lie down’, same verb and construction as in 7, 114
-49	Soninke	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	qànú 	SUBJ	OBJ	TR	TR							Same verb and construction as in 46, 129
-49	Soninke	114	trust	X (trust) Y	доверять	X (доверять) Y-у	sáxú 	SUBJ	yì/yí	Y	SUBJ_yi							The basic meaning of sáxú is ‘lie down’, same verb and construction as in 112, 7
-49	Soninke	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	hínnè 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	súuxè 	SUBJ	yì/yí	Y	SUBJ_yi							Alternatively, there is a transitive construction (háasìdàaxú ); I (SS) chose this one because it is intransitive
-49	Soninke	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	bútú 	SUBJ	wùré	Y	SUBJ_wure							Same verb and construction as in 122, 128
-49	Soninke	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	làsámè 	SUBJ	yì/yí	Y	SUBJ_yi							Same verb and construction as in 125. làsámè is the detransitivized form of làsámà ‘bother, surprise’. There is also a transitive verb jú ‘bother, surprise’ (with the same construction as làsámà: stimulus in subject fonction, experiencer in object function); its detransitivized form is júyí ‘be surprised’
-49	Soninke	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	línŋí	dà/dá	SUBJ	X	da_SUBJ							
-49	Soninke	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	dàxámù	SUBJ	OBJ	TR	TR							NB. I found this verb (borrowed from Arabic) in a Soninke dictionary, but my consultant does not use it, and the other available dictionaries do not give it
-49	Soninke	121	want	X (want) Y	хотеть	X (хотеть) Y-а	mùllá	SUBJ	OBJ	TR	TR							
-49	Soninke	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	bútú 	SUBJ	wùré	Y	SUBJ_wure							Same verb and construction as in 117, 128
-49	Soninke	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*			*								Soninke has a transitive verb lòxó ‘humiliate, offend, vex’, but ‘take offence at’ can only be expressed periphrastically. 
-49	Soninke	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	sùnòndí 	SUBJ	OBJ	TR	TR							‑ndí is the causative suffix (cf. 127)
-49	Soninke	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	làsámè 	SUBJ	yì/yí	Y	SUBJ_yi							Same verb and construction as in 118
-49	Soninke	126	despise	X (despise) Y	презирать	X (презирать) Y-а	nèxú 	SUBJ	yì/yí	Y	SUBJ_yi							
-49	Soninke	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	sùnó	SUBJ	yì/yí	Y	SUBJ_yi							Каузатив в (124) производный от этого глагола
-49	Soninke	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	bútú 	SUBJ	wùré	Y	SUBJ_wure							Same verb and construction as in 122, 117
-49	Soninke	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	qànú 	SUBJ	OBJ	TR	TR							Same verb and construction as in 113, 46
-49	Soninke	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	yàagú 	SUBJ	yì/yí	Y	SUBJ_yi							
+49	Soninke	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	wàtú	POSS.OBJ	SBJ	X	POSS.OBJ_SBJ							Literally: ‘X’s Y hurts him/her
+49	Soninke	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	rágà	OBJ	SBJ	X	OBJ_SBJ							transitive construction, but the subject (X) represents the illness, and the object (Y) represents the person; the literal meaning is ‘X (the illness) catches Y (the person)’. Same verb as in 43. Alternatively, a non-verbal construction with the locational copula (lit. ‘illness is to person’) can be used.
+49	Soninke	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	kànú	SBJ	yi	Y	SBJ_yi							the causative form kànùndí ‘frighten’ occurs in a transitive construction in which the subject represents the stimulus
+49	Soninke	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	sédì 	SBJ	OBJ	TR	TR							
+49	Soninke	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	bágá	OBJ	SBJ	X	OBJ_SBJ							
+49	Soninke	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	qáwà	*	*	*								Intransitive construction with a complex NP in subject function. at first sight, [X dò/dó Y] phrases look like coordination constructions, but the semantic relationship between X and Y is not limited to semantic role sharing, and the restrictions on syntactic operations typical for coordination constructions do not apply to them.
+49	Soninke	7	believe	X (believe) Y	верить	X (верить)Y-у	sáxú	SBJ	yi	Y	SBJ_yi							The basic meaning of sáxú is ‘lie down’, same verb and construction as in 112, 114
+49	Soninke	8	take	X (take) Y	взять	X (брать) Y(-а)	wùtú 	SBJ	OBJ	TR	TR							
+49	Soninke	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ŋàrí	SBJ	OBJ	TR	TR							
+49	Soninke	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*	*	*								Soninke has no simple equivalent of ‘influence’ ; various periphrases can be used to express this meaning, depending on the precise meaning.
+49	Soninke	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	gèmú 	*	*	*								Same complications as in 6 (complex NP subject)
+49	Soninke	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ró 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	qósó	SBJ	OBJ	TR	TR							Same verb and construction as in 44
+49	Soninke	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	búgú	SBJ	yi	Y	SBJ_yi							
+49	Soninke	15	drive	X (drive) Y	гнать	X (гнать) Y-а	gèngé	SBJ	OBJ	TR	TR							
+49	Soninke	16	bend	X (bend) Y	гнуть	X (гнуть) Y	gòròbìndí	SBJ	OBJ	TR	TR							
+49	Soninke	17	tell	X (tell) Y	говорить	X (говорить) Y-у	kò/kó	SBJ	da	Y	SBJ_da							Kò/kó is a regular transitive verb, but the object slot is occupied by the 3rd person pronoun à representing the quotation (Z), and the addressee is encoded as an oblique (dà/dá is a postposition)
+49	Soninke	18	hold	X (hold)Y	держать	X (держать) Y(-а)	*	*	*	*								‘X holds Y’ is usually expressed in Soninke as ‘Y wá X kìttén ŋà’ lit. ‘Y is in X’s hand’ (wá is the locational copula, ŋà/ŋá is an allomorph of the postposition yì/yí conditioned by the final nasal of the preceding word) 
+49	Soninke	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	légè 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	20	milk	X (milk) Y	доить	X (доить) Y-а	qámú	SBJ	OBJ	TR	TR							
+49	Soninke	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	kìñé 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	kátì	SBJ	yi	Y	SBJ_yi							
+49	Soninke	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	gàjá	*	*	*								Same complications as in 6 (complex NP subject)
+49	Soninke	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*	*	*	*								DC: The only equivalents I have been able to find are periphrastic (‘become friends’ or ‘enter friendship with’)
+49	Soninke	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	sínmè 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	26	eat	X (eat) Y	есть	X (есть) Y	yígá	SBJ	OBJ	TR	TR							
+49	Soninke	27	fry	X (fry) Y	жарить	X (жарить) Y	bíyí	SBJ	OBJ	TR	TR							
+49	Soninke	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	dùgú 	SBJ	OBJ	TR	TR							
+49	Soninke	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	mùngú	SBJ	yi	Y	SBJ_yi							
+49	Soninke	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	*	*								The only (quasi-)equivalent of ‘X depends on Y’ I have been able to find is lit. ‘Y stands with Y’ (but more detailed descriptions of the situations referred to tend to be preferred)
+49	Soninke	31	call	X (call) Y	звать	X (звать) Y-а	qírí 	SBJ	OBJ	TR	TR							
+49	Soninke	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	tù/tú	SBJ	OBJ	TR	TR							Same verb and construction as in 33
+49	Soninke	33	know	X (know) Y	знать 	X (знать) Y-а	tù/tú	SBJ	OBJ	TR	TR							Same verb and construction as in 32
+49	Soninke	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	tímí	SBJ	OBJ	TR	TR							
+49	Soninke	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	gòorí	SBJ	OBJ	TR	TR							
+49	Soninke	36	make	X (make) Y	изготовить	X (изготовить) Y	dàbárì	SBJ	OBJ	TR	TR							
+49	Soninke	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	sòyí	SBJ	yi	Y	SBJ_yi							
+49	Soninke	38	have	X (have) Y	иметь	X (иметь) Y	wá	maxa	SBJ	X	maxa_SBJ							Soninke expresses predicative possession as literally ‘Possessee is at possessor’ (with the possessee encoded as the subject of the locational copula wá, and the possessor encoded as an oblique marked by the postposition màxá)
+49	Soninke	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	mùndú	SBJ	OBJ	TR	TR							
+49	Soninke	40	paint	X (paint) Y	красить	X (красить) Y	péntírí 	SBJ	OBJ	TR	TR							
+49	Soninke	41	bite	X (bite) Y	кусать	X (кусать) Y-а	qíñí 	SBJ	OBJ	TR	TR							
+49	Soninke	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	bònó	*	*	*								intransitive construction with the complex NP ‘X Y’ (the Y of X) in subject function; the primary meaning of bònó is ‘get spoilt’
+49	Soninke	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	rágà 	SBJ	OBJ	TR	TR							Same verb as in 2.
+49	Soninke	44	break	X (break) Y	ломать	X (ломать) Y	qósó	SBJ	OBJ	TR	TR							Same verb and construction as in 13
+49	Soninke	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	jàkkí	SBJ	OBJ	TR	TR							
+49	Soninke	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	qànú 	SBJ	OBJ	TR	TR							Same verb and construction as in 113, 129
+49	Soninke	47	wave	X (wave) Y	махать	X (махать) Y-ом	yònkó 	SBJ	OBJ	TR	TR							Same verb and construction as in 109
+49	Soninke	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*	*	*								DC: The only equivalents I have been able to find are constructions such as lit. ‘car’s  desire is at me’ for ‘I dream of a car’
+49	Soninke	49	wash	X (wash) Y	мыть	X (мыть) Y	yánqí 	SBJ	OBJ	TR	TR							
+49	Soninke	50	put_on	X (put_on) Y	надевать	X (надевать) Y	róndí 	SBJ	OBJ	TR	TR							
+49	Soninke	51	be_called	X (be_called) Y	называться	X (называться) Y	*	*	*	*								In Soninke, ‘X is called Y’ can be rendered, either as lit. ‘they say to X “Y”’ (with a 3rd person plural subject interpreted as non-specific), or as ‘X’s name is Y’. 
+49	Soninke	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*	*	*								Soninke has no general equivalent of ‘punish’ ; the translation of English sentences including ‘punish’ implies specifying a particular type of punishment (‘They hit him’, They killed him’, ‘They put him in jail’, ‘They fined him’, etc.).
+49	Soninke	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	qénú 	SBJ	yi	Y	SBJ_yi							Same verb and construction as in 79. The basic meaning of qénú is ‘fall’; alternatively, there is a transitive construction with gàjá. Both are quite usual
+49	Soninke	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	hógú	SBJ	yi	Y	SBJ_yi							Alternatively, there is a less frequent transitive construction with the substance (Y) as subject
+49	Soninke	55	find	X (find) Y	находить	X (находить) Y(-а)	ñì/ñí	SBJ	OBJ	TR	TR							
+49	Soninke	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	kòntó 	yi	SBJ	X	yi_SBJ							
+49	Soninke	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	qóní 	SBJ	OBJ	TR	TR							
+49	Soninke	58	like	X (like) Y	нравиться	X-у (нравиться) Y	línŋí 	da	SBJ	X	da_SBJ							
+49	Soninke	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	*	*	*	*								Can only be expressed periphrastically as lit. ‘X’s need is in Y’
+49	Soninke	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	kòorí	SBJ	OBJ	TR	TR							
+49	Soninke	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	tóxó	maxa	SBJ	X	maxa_SBJ							
+49	Soninke	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	jáabì	SBJ	OBJ	TR	TR							
+49	Soninke	63	open	X (open) Y	открывать	X (открывать) Y	ŋùñí 	SBJ	OBJ	TR	TR							
+49	Soninke	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*	*	*	*								‘X is different from Y’ is usually expressed in Soninke as ‘X and Y are not identical’
+49	Soninke	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	léelàntá 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	66	plough	X (plough) Y	пахать	X (пахать) Y	kòbí	SBJ	OBJ	TR	TR							
+49	Soninke	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	*	*								the Soninke equivalent of ‘X emits an odor of Y’ is lit. ‘an odor of Y is behind X’, with a noun ‘odor’ as the subject of the locational copula
+49	Soninke	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	kárá	SBJ	OBJ	TR	TR							
+49	Soninke	69	sing	X (sing) Y	петь	X (петь) Y	sùugú 	SBJ	OBJ	TR	TR							
+49	Soninke	70	write	X (write) Y	писать	X (писать) Y	sáhà 	SBJ	OBJ	TR	TR							
+49	Soninke	71	drink	X (drink) Y	пить	X (пить) Y	mìní	SBJ	OBJ	TR	TR							
+49	Soninke	72	melt	X (melt) Y	плавить	X (плавить) Y	qàjá 	SBJ	OBJ	TR	TR							
+49	Soninke	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	gèmú	*	*	*								The verb is identical to 'meet'. Same complications as in 6 (complex NP subject)
+49	Soninke	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	wàrá 	SBJ	OBJ	TR	TR							
+49	Soninke	75	cover	X (cover) Y	покрывать	X (покрывать) Y	qúhú 	SBJ	OBJ	TR	TR							
+49	Soninke	76	remember	X (remember) Y	помнить	X (помнить) Y-а	*	*	*	*								Soninke expresses ‘X remembers Y’ as ‘X hàqqìlên ŋá Y kànmá’ lit. ‘X’s mind is on Y’
+49	Soninke	77	help	X (help) Y	помочь	X (помогать) Y-у	dèemá 	SBJ	OBJ	TR	TR							
+49	Soninke	78	understand	X (understand) Y	понимать	X (понимать) Y	hàámù 	SBJ	OBJ	TR	TR							
+49	Soninke	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	qénú 	SBJ	yi	Y	SBJ_yi							Same verb and construction as in 53
+49	Soninke	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	kútú	SBJ	ti.yi	Y	SBJ_ti.yi							In this case, both ti (prep.) & yi (post.) attach to Y in the sense that [tì/tí Y yì/yí] is a constituent (adpositional phrase), but they are not affixes. Arguably, the internal structure of this constituent is [tì/tí [Y yì/yí]]
+49	Soninke	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	màlí 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*	*	*	*								A periphrasis including the intransitive verb kòrí ‘fail’ is possible, but in Soninke, ‘X loses to Y’ is normally expressed as ‘Y wins X’ (see 13).
+49	Soninke	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ñáxálí 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	sèhé 	SBJ	da	Y	SBJ_da							"SS chose the ""second construction"". Cf. DC on these constrcutions: ""The first two constructions are intransitive constructions, the first one with the complex NP ‘X dò/dó Y’ (X and Y) in the subject slot, the second one with one of the two participants encoded as the subject, and the second one as an oblique. The third construction is a transitive construction ; it implies a more active participation for the participant encoded as the subject."""
+49	Soninke	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	sàará 	SBJ	OBJ	TR	TR							sàará ‘give birth’ occurs in a transitive construction, but its detransitivized form sàaré can be found in a synonymous extended intransitive construction.
+49	Soninke	86	drop	X (drop) Y	ронять	X (ронять) Y	yèrèndí 	SBJ	OBJ	TR	TR							
+49	Soninke	87	govern	X (govern) Y	руководить	X (руководить) Y	màrá 	SBJ	OBJ	TR	TR							
+49	Soninke	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	*	*	*	*								non-verbal construction : X qìidên ŋá Y yì/yí lit. ‘X’s nostalgia is at Y’
+49	Soninke	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	bàtú 	SBJ	OBJ	TR	TR							
+49	Soninke	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	yànqá 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	91	listen	X (listen) to Y	слушать	X (слушать) Y	térínká 	SBJ	OBJ	TR	TR							Same verb and construction as in 92
+49	Soninke	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	térínká	SBJ	OBJ	TR	TR							Same verb and construction as in 91
+49	Soninke	93	hear	X (hear) Y	слышать	X (слышать) Y	mùgú 	SBJ	OBJ	TR	TR							
+49	Soninke	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	kólóncé 	*	*	*								Same complications as in 6 (complex NP subject)
+49	Soninke	95	look	X (look) at Y	смотреть	X (смотреть) на Y	háyí 	SBJ	OBJ	TR	TR							
+49	Soninke	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	wùtú kànmún ŋà	SBJ	OBJ	TR	TR							wùtú is the verb ‘take’; kànmún ŋà can be glossed as ‘from the upper part’
+49	Soninke	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	kùyí 	SBJ	OBJ	TR	TR							
+49	Soninke	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	dùnŋé 	SBJ	da	Y	SBJ_da							
+49	Soninke	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	sónqò	*	*	*								Same complications as in 6
+49	Soninke	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	*	*	*	*								There is no equivalent of ‘cost’ in Soninke; price can be predicated by means of an equative predication (‘the car is 5 million francs’) or with the help of the verbs ‘buy’ or ‘sell’ (‘the car is sold 5 million francs’); there is also a noun jònkô ‘price’, so that an alternative formulation is ‘the price of this car is 5 million francs’)
+49	Soninke	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	máráhàn kátú 	SBJ	yi	Y	SBJ_yi							light verb construction, in which the verb is kátú ‘hit’, and the object slot is occupied by máráhà ‘gun’ (lit. ‘X hit the gun at Y’), whereas the second argument is encoded as an oblique
+49	Soninke	102	pour	X (pour) Y	сыпать	X (сыпать) Y	jòxú 	SBJ	OBJ	TR	TR							
+49	Soninke	103	lose	X (lose) Y	терять	X (терять) Y	sánkú	*	*	*								См. лишаться. intransitive construction, lit. ‘X’s Y gets lost’ (X is the genitival modifier of Y; in Soninke, the genitival construction is marked as such by a tonal modification of the head – here, Y)
+49	Soninke	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	yóolè 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kàrí	SBJ	OBJ	TR	TR							
+49	Soninke	106	hit	X (hit) Y	ударить	X (ударять) Y-а	kátú	SBJ	OBJ	TR	TR							
+49	Soninke	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	sùgú	SBJ	OBJ	TR	TR							
+49	Soninke	108	read	X (read) Y	читать	X (читать) Y-а	qàrá 	SBJ	OBJ	TR	TR							
+49	Soninke	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	yònkó	SBJ	OBJ	TR	TR							Same verb and construction as in 47
+49	Soninke	110	respect	X (respect) Y	уважать	X (уважать) Y-а	dàró 	SBJ	OBJ	TR	TR							
+49	Soninke	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	ñéxú 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	sáxú 	SBJ	yi	Y	SBJ_yi							The basic meaning of sáxú is ‘lie down’, same verb and construction as in 7, 114
+49	Soninke	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	qànú 	SBJ	OBJ	TR	TR							Same verb and construction as in 46, 129
+49	Soninke	114	trust	X (trust) Y	доверять	X (доверять) Y-у	sáxú 	SBJ	yi	Y	SBJ_yi							The basic meaning of sáxú is ‘lie down’, same verb and construction as in 112, 7
+49	Soninke	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	hínnè 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	súuxè 	SBJ	yi	Y	SBJ_yi							Alternatively, there is a transitive construction (háasìdàaxú ); I (SS) chose this one because it is intransitive
+49	Soninke	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	bútú 	SBJ	wure	Y	SBJ_wure							Same verb and construction as in 122, 128
+49	Soninke	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	làsámè 	SBJ	yi	Y	SBJ_yi							Same verb and construction as in 125. làsámè is the detransitivized form of làsámà ‘bother, surprise’. There is also a transitive verb jú ‘bother, surprise’ (with the same construction as làsámà: stimulus in subject fonction, experiencer in object function); its detransitivized form is júyí ‘be surprised’
+49	Soninke	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	línŋí	da	SBJ	X	da_SBJ							
+49	Soninke	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	dàxámù	SBJ	OBJ	TR	TR							NB. I found this verb (borrowed from Arabic) in a Soninke dictionary, but my consultant does not use it, and the other available dictionaries do not give it
+49	Soninke	121	want	X (want) Y	хотеть	X (хотеть) Y-а	mùllá	SBJ	OBJ	TR	TR							
+49	Soninke	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	bútú 	SBJ	wure	Y	SBJ_wure							Same verb and construction as in 117, 128
+49	Soninke	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*	*	*	*								Soninke has a transitive verb lòxó ‘humiliate, offend, vex’, but ‘take offence at’ can only be expressed periphrastically. 
+49	Soninke	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	sùnòndí 	SBJ	OBJ	TR	TR							‑ndí is the causative suffix (cf. 127)
+49	Soninke	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	làsámè 	SBJ	yi	Y	SBJ_yi							Same verb and construction as in 118
+49	Soninke	126	despise	X (despise) Y	презирать	X (презирать) Y-а	nèxú 	SBJ	yi	Y	SBJ_yi							
+49	Soninke	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	sùnó	SBJ	yi	Y	SBJ_yi							Каузатив в (124) производный от этого глагола
+49	Soninke	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	bútú 	SBJ	wure	Y	SBJ_wure							Same verb and construction as in 122, 117
+49	Soninke	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	qànú 	SBJ	OBJ	TR	TR							Same verb and construction as in 113, 46
+49	Soninke	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	yàagú 	SBJ	yi	Y	SBJ_yi							

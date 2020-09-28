@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-19	Loma	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y					POSS_HEAD							
-19	Loma	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом					ma_S							
-19	Loma	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а					S_ba							
-19	Loma	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)					TR							
-19	Loma	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а												
-19	Loma	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)					S_ga							
-19	Loma	7	believe	X (believe) Y	верить	X (верить)Y-у					S_ya							
-19	Loma	8	take	X (take) Y	взять	X (брать) Y(-а)					TR							
-19	Loma	9	see	X (see) Y	видеть	X (видеть) Y(-а)					TR							
-19	Loma	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)												
-19	Loma	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом					TR							
-19	Loma	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)												
-19	Loma	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а												
-19	Loma	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а												
-19	Loma	15	drive	X (drive) Y	гнать	X (гнать) Y-а					TR							
-19	Loma	16	bend	X (bend) Y	гнуть	X (гнуть) Y					TR							
-19	Loma	17	tell	X (tell) Y	говорить	X (говорить) Y-у					S_ma							
-19	Loma	18	hold	X (hold)Y	держать	X (держать) Y(-а)					TR							
-19	Loma	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)					TR							
-19	Loma	20	milk	X (milk) Y	доить	X (доить) Y-а					TR							
-19	Loma	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 												
-19	Loma	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а					S_ba							
-19	Loma	23	fight	X (fight) with Y	драться	X (драться) с Y-ом					S_ga							
-19	Loma	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом												
-19	Loma	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)					S_su							
-19	Loma	26	eat	X (eat) Y	есть	X (есть) Y					TR							
-19	Loma	27	fry	X (fry) Y	жарить	X (жарить) Y					TR							
-19	Loma	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)					TR							
-19	Loma	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е					S_ma							
-19	Loma	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а												
-19	Loma	31	call	X (call) Y	звать	X (звать) Y-а					TR							
-19	Loma	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом					TR							
-19	Loma	33	know	X (know) Y	знать 	X (знать) Y-а					TR							
-19	Loma	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е					TR							
-19	Loma	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а					TR							
-19	Loma	36	make	X (make) Y	изготовить	X (изготовить) Y					TR							
-19	Loma	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом					S_zu							
-19	Loma	38	have	X (have) Y	иметь	X (иметь) Y					ya_S							
-19	Loma	39	look_for	X (look for) Y	искать	X (искать) Y(-а)					TR							
-19	Loma	40	paint	X (paint) Y	красить	X (красить) Y					TR							
-19	Loma	41	bite	X (bite) Y	кусать	X (кусать) Y-а					TR							
-19	Loma	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а					S_ma							
-19	Loma	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)					TR							
-19	Loma	44	break	X (break) Y	ломать	X (ломать) Y					TR							
-19	Loma	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у												
-19	Loma	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)					be_S							
-19	Loma	47	wave	X (wave) Y	махать	X (махать) Y-ом					TR							
-19	Loma	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е												
-19	Loma	49	wash	X (wash) Y	мыть	X (мыть) Y					TR							
-19	Loma	50	put_on	X (put_on) Y	надевать	X (надевать) Y					TR							
-19	Loma	51	be_called	X (be_called) Y	называться	X (называться) Y												
-19	Loma	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а					S_ma							
-19	Loma	53	attack	X (attack) Y	напасть	X (нападать) на Y-а					TR							
-19	Loma	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом					S_ga							
-19	Loma	55	find	X (find) Y	находить	X (находить) Y(-а)					TR							
-19	Loma	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a												
-19	Loma	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а					TR							
-19	Loma	58	like	X (like) Y	нравиться	X-у (нравиться) Y					S_be							
-19	Loma	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е					S_ba							
-19	Loma	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)												
-19	Loma	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y					ya_S							
-19	Loma	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у					TR							
-19	Loma	63	open	X (open) Y	открывать	X (открывать) Y					TR							
-19	Loma	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а												
-19	Loma	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а					S_polu							
-19	Loma	66	plough	X (plough) Y	пахать	X (пахать) Y					TR							
-19	Loma	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом												
-19	Loma	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 					TR							
-19	Loma	69	sing	X (sing) Y	петь	X (петь) Y					TR							
-19	Loma	70	write	X (write) Y	писать	X (писать) Y					TR							
-19	Loma	71	drink	X (drink) Y	пить	X (пить) Y					TR							
-19	Loma	72	melt	X (melt) Y	плавить	X (плавить) Y					TR							
-19	Loma	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)												
-19	Loma	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)												
-19	Loma	75	cover	X (cover) Y	покрывать	X (покрывать) Y												
-19	Loma	76	remember	X (remember) Y	помнить	X (помнить) Y-а					S_su							
-19	Loma	77	help	X (help) Y	помочь	X (помогать) Y-у					S_ba							
-19	Loma	78	understand	X (understand) Y	понимать	X (понимать) Y					TR							
-19	Loma	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)					S_su							
-19	Loma	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом					S_ga							
-19	Loma	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у					S_ba							
-19	Loma	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у												
-19	Loma	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у												
-19	Loma	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом					S_ta							
-19	Loma	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а					TR							
-19	Loma	86	drop	X (drop) Y	ронять	X (ронять) Y					TR							
-19	Loma	87	govern	X (govern) Y	руководить	X (руководить) Y												
-19	Loma	88	miss	X (miss) Y	скучать	X (скучать) по Y-у												
-19	Loma	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом												
-19	Loma	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)												
-19	Loma	91	listen	X (listen) to Y	слушать	X (слушать) Y					S_ma							
-19	Loma	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a					S_be							
-19	Loma	93	hear	X (hear) Y	слышать	X (слышать) Y					TR							
-19	Loma	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом					S_ta							
-19	Loma	95	look	X (look) at Y	смотреть	X (смотреть) на Y					S_ba							
-19	Loma	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)					TR							
-19	Loma	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y												
-19	Loma	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом												
-19	Loma	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y												
-19	Loma	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)												
-19	Loma	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а					S_ma							
-19	Loma	102	pour	X (pour) Y	сыпать	X (сыпать) Y					TR							
-19	Loma	103	lose	X (lose) Y	терять	X (терять) Y					TR							
-19	Loma	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е												
-19	Loma	105	kill	X (kill) Y	убивать	X (убивать) Y-а					TR							
-19	Loma	106	hit	X (hit) Y	ударить	X (ударять) Y-а					TR							
-19	Loma	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а												
-19	Loma	108	read	X (read) Y	читать	X (читать) Y-а					TR							
-19	Loma	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом					TR							
-19	Loma	110	respect	X (respect) Y	уважать	X (уважать) Y-а					S_ma							
-19	Loma	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом												
-19	Loma	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом												
-19	Loma	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a					S_ga							
-19	Loma	114	trust	X (trust) Y	доверять	X (доверять) Y-у					S_ya							
-19	Loma	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а												
-19	Loma	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у												
-19	Loma	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а												
-19	Loma	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у					S_ga							
-19	Loma	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)					be_S							
-19	Loma	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом												
-19	Loma	121	want	X (want) Y	хотеть	X (хотеть) Y-а												
-19	Loma	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а												
-19	Loma	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а												
-19	Loma	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а					TR							
-19	Loma	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у					S_ga							
-19	Loma	126	despise	X (despise) Y	презирать	X (презирать) Y-а												
-19	Loma	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а					S_ba							
-19	Loma	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а												
-19	Loma	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у												
-19	Loma	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а												
+19	Loma	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		POSS	HEAD	X	POSS_HEAD							
+19	Loma	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		ma	SBJ	X	ma_SBJ							
+19	Loma	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		SBJ	ba	Y	SBJ_ba							
+19	Loma	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*	*	*								
+19	Loma	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		SBJ	ga	Y	SBJ_ga							
+19	Loma	7	believe	X (believe) Y	верить	X (верить)Y-у		SBJ	ya	Y	SBJ_ya							
+19	Loma	8	take	X (take) Y	взять	X (брать) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	9	see	X (see) Y	видеть	X (видеть) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		*	*	*								
+19	Loma	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		SBJ	DO	TR	TR							
+19	Loma	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		*	*	*								
+19	Loma	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		*	*	*								
+19	Loma	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		*	*	*								
+19	Loma	15	drive	X (drive) Y	гнать	X (гнать) Y-а		SBJ	DO	TR	TR							
+19	Loma	16	bend	X (bend) Y	гнуть	X (гнуть) Y		SBJ	DO	TR	TR							
+19	Loma	17	tell	X (tell) Y	говорить	X (говорить) Y-у		SBJ	ma	Y	SBJ_ma							
+19	Loma	18	hold	X (hold)Y	держать	X (держать) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	20	milk	X (milk) Y	доить	X (доить) Y-а		SBJ	DO	TR	TR							
+19	Loma	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		*	*	*								
+19	Loma	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		SBJ	ba	Y	SBJ_ba							
+19	Loma	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		SBJ	ga	Y	SBJ_ga							
+19	Loma	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		*	*	*								
+19	Loma	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		SBJ	su	Y	SBJ_su							
+19	Loma	26	eat	X (eat) Y	есть	X (есть) Y		SBJ	DO	TR	TR							
+19	Loma	27	fry	X (fry) Y	жарить	X (жарить) Y		SBJ	DO	TR	TR							
+19	Loma	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		SBJ	DO	TR	TR							
+19	Loma	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		SBJ	ma	Y	SBJ_ma							
+19	Loma	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		*	*	*								
+19	Loma	31	call	X (call) Y	звать	X (звать) Y-а		SBJ	DO	TR	TR							
+19	Loma	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		SBJ	DO	TR	TR							
+19	Loma	33	know	X (know) Y	знать 	X (знать) Y-а		SBJ	DO	TR	TR							
+19	Loma	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		SBJ	DO	TR	TR							
+19	Loma	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		SBJ	DO	TR	TR							
+19	Loma	36	make	X (make) Y	изготовить	X (изготовить) Y		SBJ	DO	TR	TR							
+19	Loma	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		SBJ	zu	Y	SBJ_zu							
+19	Loma	38	have	X (have) Y	иметь	X (иметь) Y		ya	SBJ	X	ya_SBJ							
+19	Loma	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	40	paint	X (paint) Y	красить	X (красить) Y		SBJ	DO	TR	TR							
+19	Loma	41	bite	X (bite) Y	кусать	X (кусать) Y-а		SBJ	DO	TR	TR							
+19	Loma	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		SBJ	ma	Y	SBJ_ma							
+19	Loma	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	44	break	X (break) Y	ломать	X (ломать) Y		SBJ	DO	TR	TR							
+19	Loma	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*	*	*								
+19	Loma	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		be	SBJ	X	be_SBJ							
+19	Loma	47	wave	X (wave) Y	махать	X (махать) Y-ом		SBJ	DO	TR	TR							
+19	Loma	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		*	*	*								
+19	Loma	49	wash	X (wash) Y	мыть	X (мыть) Y		SBJ	DO	TR	TR							
+19	Loma	50	put_on	X (put_on) Y	надевать	X (надевать) Y		SBJ	DO	TR	TR							
+19	Loma	51	be_called	X (be_called) Y	называться	X (называться) Y		*	*	*								
+19	Loma	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		SBJ	ma	Y	SBJ_ma							
+19	Loma	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		SBJ	DO	TR	TR							
+19	Loma	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		SBJ	ga	Y	SBJ_ga							
+19	Loma	55	find	X (find) Y	находить	X (находить) Y(-а)		SBJ	DO	TR	TR							
+19	Loma	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		*	*	*								
+19	Loma	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		SBJ	DO	TR	TR							
+19	Loma	58	like	X (like) Y	нравиться	X-у (нравиться) Y		SBJ	be	Y	SBJ_be							
+19	Loma	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		SBJ	ba	Y	SBJ_ba							
+19	Loma	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		*	*	*								
+19	Loma	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		ya	SBJ	X	ya_SBJ							
+19	Loma	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		SBJ	DO	TR	TR							
+19	Loma	63	open	X (open) Y	открывать	X (открывать) Y		SBJ	DO	TR	TR							
+19	Loma	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		*	*	*								
+19	Loma	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		SBJ	polu	Y	SBJ_polu							
+19	Loma	66	plough	X (plough) Y	пахать	X (пахать) Y		SBJ	DO	TR	TR							
+19	Loma	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*								
+19	Loma	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		SBJ	DO	TR	TR							
+19	Loma	69	sing	X (sing) Y	петь	X (петь) Y		SBJ	DO	TR	TR							
+19	Loma	70	write	X (write) Y	писать	X (писать) Y		SBJ	DO	TR	TR							
+19	Loma	71	drink	X (drink) Y	пить	X (пить) Y		SBJ	DO	TR	TR							
+19	Loma	72	melt	X (melt) Y	плавить	X (плавить) Y		SBJ	DO	TR	TR							
+19	Loma	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		*	*	*								
+19	Loma	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		*	*	*								
+19	Loma	75	cover	X (cover) Y	покрывать	X (покрывать) Y		*	*	*								
+19	Loma	76	remember	X (remember) Y	помнить	X (помнить) Y-а		SBJ	su	Y	SBJ_su							
+19	Loma	77	help	X (help) Y	помочь	X (помогать) Y-у		SBJ	ba	Y	SBJ_ba							
+19	Loma	78	understand	X (understand) Y	понимать	X (понимать) Y		SBJ	DO	TR	TR							
+19	Loma	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		SBJ	su	Y	SBJ_su							
+19	Loma	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		SBJ	ga	Y	SBJ_ga							
+19	Loma	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		SBJ	ba	Y	SBJ_ba							
+19	Loma	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		*	*	*								
+19	Loma	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		*	*	*								
+19	Loma	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		SBJ	ta	Y	SBJ_ta							
+19	Loma	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а		SBJ	DO	TR	TR							
+19	Loma	86	drop	X (drop) Y	ронять	X (ронять) Y		SBJ	DO	TR	TR							
+19	Loma	87	govern	X (govern) Y	руководить	X (руководить) Y		*	*	*								
+19	Loma	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		*	*	*								
+19	Loma	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		*	*	*								
+19	Loma	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		*	*	*								
+19	Loma	91	listen	X (listen) to Y	слушать	X (слушать) Y		SBJ	ma	Y	SBJ_ma							
+19	Loma	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		SBJ	be	Y	SBJ_be							
+19	Loma	93	hear	X (hear) Y	слышать	X (слышать) Y		SBJ	DO	TR	TR							
+19	Loma	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		SBJ	ta	Y	SBJ_ta							
+19	Loma	95	look	X (look) at Y	смотреть	X (смотреть) на Y		SBJ	ba	Y	SBJ_ba							
+19	Loma	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		SBJ	DO	TR	TR							
+19	Loma	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		*	*	*								
+19	Loma	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		*	*	*								
+19	Loma	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		*	*	*								
+19	Loma	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*	*	*								
+19	Loma	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		SBJ	ma	Y	SBJ_ma							
+19	Loma	102	pour	X (pour) Y	сыпать	X (сыпать) Y		SBJ	DO	TR	TR							
+19	Loma	103	lose	X (lose) Y	терять	X (терять) Y		SBJ	DO	TR	TR							
+19	Loma	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		*	*	*								
+19	Loma	105	kill	X (kill) Y	убивать	X (убивать) Y-а		SBJ	DO	TR	TR							
+19	Loma	106	hit	X (hit) Y	ударить	X (ударять) Y-а		SBJ	DO	TR	TR							
+19	Loma	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		*	*	*								
+19	Loma	108	read	X (read) Y	читать	X (читать) Y-а		SBJ	DO	TR	TR							
+19	Loma	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		SBJ	DO	TR	TR							
+19	Loma	110	respect	X (respect) Y	уважать	X (уважать) Y-а		SBJ	ma	Y	SBJ_ma							
+19	Loma	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*	*	*								
+19	Loma	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		*	*	*								
+19	Loma	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		SBJ	ga	Y	SBJ_ga							
+19	Loma	114	trust	X (trust) Y	доверять	X (доверять) Y-у		SBJ	ya	Y	SBJ_ya							
+19	Loma	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		*	*	*								
+19	Loma	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		*	*	*								
+19	Loma	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		*	*	*								
+19	Loma	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		SBJ	ga	Y	SBJ_ga							
+19	Loma	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		be	SBJ	X	be_SBJ							
+19	Loma	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		*	*	*								
+19	Loma	121	want	X (want) Y	хотеть	X (хотеть) Y-а		*	*	*								
+19	Loma	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		*	*	*								
+19	Loma	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		*	*	*								
+19	Loma	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		SBJ	DO	TR	TR							
+19	Loma	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		SBJ	ga	Y	SBJ_ga							
+19	Loma	126	despise	X (despise) Y	презирать	X (презирать) Y-а		*	*	*								
+19	Loma	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		SBJ	ba	Y	SBJ_ba							
+19	Loma	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*	*	*								
+19	Loma	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		*	*	*								
+19	Loma	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		*	*	*								

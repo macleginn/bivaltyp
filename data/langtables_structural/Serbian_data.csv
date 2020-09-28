@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
-36	Serbian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	боли	ACC	NOM	X	ACCNOM									
-36	Serbian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	има	*										ТР, но это иметь, не берем		
-36	Serbian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	плаше си	NOM	GEN	Y	NOMGEN							РЕФЛ		
-36	Serbian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	баци	TR		TR	TR									
-36	Serbian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	има доволно	*										Зависит не от того (доволно денег)		
-36	Serbian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	личи	NOM	naACC	Y	NOMnaACC									
-36	Serbian	7	believe	X (believe) Y	верить	X (верить)Y-у	веруйе	NOM	DAT	Y	NOMDAT									
-36	Serbian	8	take	X (take) Y	взять	X (брать) Y(-а)	узео	TR		TR	TR									
-36	Serbian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	види	TR		TR	TR									
-36	Serbian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	утичи	NOM	naACC	Y	NOMnaACC									
-36	Serbian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	срео	TR		TR	TR									
-36	Serbian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ушао	NOM	uACC	Y	NOMuACC									
-36	Serbian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	победио	TR		TR	TR									
-36	Serbian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	изашао	NOM	izGEN	Y	NOMizGEN									
-36	Serbian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	тера	TR		TR	TR									
-36	Serbian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	савио	TR		TR	TR									
-36	Serbian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	рекао	NOM	DAT	Y	NOMDAT									
-36	Serbian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	држи	TR		TR	TR									
-36	Serbian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	стигао	TR		TR	TR							Как 21, но другая модель		
-36	Serbian	20	milk	X (milk) Y	доить	X (доить) Y-а	помузао	TR		TR	TR									
-36	Serbian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	стигао	NOM	doGEN	Y	NOMdoGEN							Как 19, но другая модель		
-36	Serbian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	додирнуо	TR		TR	TR									
-36	Serbian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	се тучи	NOM	sINS	Y	NOMsINS							РЕФЛ, Вообще-то этот предлог то с, то са. Здесь в примере был са		
-36	Serbian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	се дружи	NOM	sINS	Y	NOMsINS							РЕФЛ, Вообще-то этот предлог то с, то са. Здесь в примере был са		
-36	Serbian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	мисли	NOM	naACC	Y	NOMnaACC							есть вариант оЛОК		
-36	Serbian	26	eat	X (eat) Y	есть	X (есть) Y	пойео	TR		TR	TR									
-36	Serbian	27	fry	X (fry) Y	жарить	X (жарить) Y	испржио	TR		TR	TR									
-36	Serbian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	чека	TR		TR	TR									
-36	Serbian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	заборавио	NOM	naACC	Y	NOMnaACC									
-36	Serbian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	зависи	NOM	odGEN	Y	NOModGEN									
-36	Serbian	31	call	X (call) Y	звать	X (звать) Y-а	позвао	TR		TR	TR									
-36	Serbian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	упознао	TR		TR	TR									
-36	Serbian	33	know	X (know) Y	знать 	X (знать) Y-а	познайе	TR		TR	TR									
-36	Serbian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	свира	TR		TR	TR									
-36	Serbian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	избегава	TR		TR	TR									
-36	Serbian	36	make	X (make) Y	изготовить	X (изготовить) Y	направио	TR		TR	TR									
-36	Serbian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	малтретира	TR		TR	TR									
-36	Serbian	38	have	X (have) Y	иметь	X (иметь) Y	има	TR		TR	TR									
-36	Serbian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	тражи	TR		TR	TR									
-36	Serbian	40	paint	X (paint) Y	красить	X (красить) Y	офарбао	TR		TR	TR									
-36	Serbian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	уйе	TR		TR	TR									
-36	Serbian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*										Только остаться без		
-36	Serbian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	йури	TR		TR	TR									
-36	Serbian	44	break	X (break) Y	ломать	X (ломать) Y	поломио	TR		TR	TR									
-36	Serbian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	ласка	NOM	DAT	Y	NOMDAT									
-36	Serbian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	воли	TR		TR	TR									
-36	Serbian	47	wave	X (wave) Y	махать	X (махать) Y-ом	маше	NOM	INS	Y	NOMINS									
-36	Serbian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	машта	NOM	oLOC	Y	NOMoLOC									
-36	Serbian	49	wash	X (wash) Y	мыть	X (мыть) Y	опрао	TR		TR	TR									
-36	Serbian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	обукао	TR		TR	TR									
-36	Serbian	51	be_called	X (be_called) Y	называться	X (называться) Y	се зове	NOM	NOM	Y	NOMNOM							РЕФЛ		
-36	Serbian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	казнио	TR		TR	TR									
-36	Serbian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	напао	TR		TR	TR									
-36	Serbian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	се напулнила	NOM	INS	Y	NOMINS									
-36	Serbian	55	find	X (find) Y	находить	X (находить) Y(-а)	нашао	TR		TR	TR									
-36	Serbian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	фали	DAT	NOM	X	DATNOM									
-36	Serbian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	мрзи	TR		TR	TR									
-36	Serbian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	свича се	DAT	NOM	X	DATNOM									
-36	Serbian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	потребан	DAT	NOM	X	DATNOM							NV		
-36	Serbian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	опасан	INS	NOM	X	INSNOM							PASS		
-36	Serbian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	остало	DAT	NOM	X	DATNOM									
-36	Serbian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	одговорио	NOM	DAT	Y	NOMDAT									
-36	Serbian	63	open	X (open) Y	открывать	X (открывать) Y	отворио	TR		TR	TR									
-36	Serbian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	се разликуйе	NOM	odGEN	Y	NOModGEN							РЕФЛ		
-36	Serbian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	заостао	NOM	zaINS	Y	NOMzaINS									
-36	Serbian	66	plough	X (plough) Y	пахать	X (пахать) Y	оре	TR		TR	TR									
-36	Serbian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	миришу	NOM	naACC	Y	NOMnaACC									
-36	Serbian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	прешао	TR		TR	TR									
-36	Serbian	69	sing	X (sing) Y	петь	X (петь) Y	отпевао	TR		TR	TR									
-36	Serbian	70	write	X (write) Y	писать	X (писать) Y	написао	TR		TR	TR									
-36	Serbian	71	drink	X (drink) Y	пить	X (пить) Y	попио	TR		TR	TR									
-36	Serbian	72	melt	X (melt) Y	плавить	X (плавить) Y	растопио	TR		TR	TR									
-36	Serbian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	одговара	NOM	DAT	Y	NOMDAT									
-36	Serbian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	напустио	TR		TR	TR									
-36	Serbian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	покрива	TR		TR	TR									
-36	Serbian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	сеча	NOM	GEN	Y	NOMGEN							Варианты: с тем же глаголом наАКК или с другим ТР		
-36	Serbian	77	help	X (help) Y	помочь	X (помогать) Y-у	помагао	NOM	DAT	Y	NOMDAT									
-36	Serbian	78	understand	X (understand) Y	понимать	X (понимать) Y	разуми	TR		TR	TR									
-36	Serbian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	погодила	NOM	uACC	Y	NOMuACC									
-36	Serbian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	се посекао	NOM	INS	Y	NOMINS							РЕФЛ		
-36	Serbian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	се залепила	NOM	zaACC	Y	NOMzaACC							РЕФЛ		
-36	Serbian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	изгубио	NOM	odGEN	Y	NOModGEN							Тот же глагол, что 103 (терять), но другая модель		
-36	Serbian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	се обрадовао	NOM	DAT	Y	NOMDAT							РЕФЛ		
-36	Serbian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	прича	NOM	sINS	Y	NOMsINS							Вообще-то этот предлог то с, то са. Здесь в примере был са		
-36	Serbian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	родила	TR		TR	TR									
-36	Serbian	86	drop	X (drop) Y	ронять	X (ронять) Y	испала	DAT	NOM	X	DATNOM									
-36	Serbian	87	govern	X (govern) Y	руководить	X (руководить) Y	управл'а	NOM	INS	Y	NOMINS									
-36	Serbian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	недостайе	DAT	NOM	X	DATNOM									
-36	Serbian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	следи	TR		TR	TR									
-36	Serbian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	сишао	NOM	sGEN	Y	NOMsGEN									
-36	Serbian	91	listen	X (listen) to Y	слушать	X (слушать) Y	слуша	TR		TR	TR									
-36	Serbian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	*	*										То же, что слушать (91)		
-36	Serbian	93	hear	X (hear) Y	слышать	X (слышать) Y	чуйе	TR		TR	TR									
-36	Serbian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	се сйединио	NOM	sINS	Y	NOMsINS							Вообще-то этот предлог то с, то са. Здесь в примере был са		
-36	Serbian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	гледа	NOM	uACC	Y	NOMuACC									
-36	Serbian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	скинуо	TR		TR	TR									
-36	Serbian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	сан'а	TR		TR	TR									
-36	Serbian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	се сложио	NOM	sINS	Y	NOMsINS							Вообще-то этот предлог то с, то са. Здесь в примере был с		
-36	Serbian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	се посвачао	NOM	sINS	Y	NOMsINS							Вообще-то этот предлог то с, то са. Здесь в примере был с		
-36	Serbian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	кошта	TR		TR	TR									
-36	Serbian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	пукао	NOM	uACC	Y	NOMuACC									
-36	Serbian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	ставио	TR		TR	TR									
-36	Serbian	103	lose	X (lose) Y	терять	X (терять) Y	изгубио	TR		TR	TR							Тот же глагол, что 82 (проиграть), но другая модель		
-36	Serbian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	потонула	NOM	uACC	Y	NOMuACC									
-36	Serbian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	убио	TR		TR	TR									
-36	Serbian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ударио	TR		TR	TR									
-36	Serbian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	пол'убио	TR		TR	TR									
-36	Serbian	108	read	X (read) Y	читать	X (читать) Y-а	прочитао	TR		TR	TR									
-36	Serbian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	мрднуо	NOM	INS	Y	NOMINS									
-36	Serbian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	поштуйе	TR		TR	TR									
-36	Serbian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	се гади	*										Не очень точный перевод, видимо. Решил не брать. В принципе модель NOMnaACC		
-36	Serbian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	задовол'ан	NOM	INS	Y	NOMINS							NV		
-36	Serbian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	зал'убио	NOM	uACC	Y	NOMuACC									
-36	Serbian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	има поверен'е	NOM	uACC	Y	NOMuACC									
-36	Serbian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жао	DAT	GEN	XY	DATGEN							NV		
-36	Serbian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завиди	NOM	DAT	Y	NOMDAT									
-36	Serbian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	л'ути	NOM	naACC	Y	NOMnaACC									
-36	Serbian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	се изненадио	NOM	DAT	Y	NOMDAT							РЕФЛ		
-36	Serbian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	воли	*										совпадает с любить-1 (46)		
-36	Serbian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	ужива	NOM	uLOC	Y	NOMuLOC									
-36	Serbian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	жели	TR		TR	TR									
-36	Serbian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	се л'ути	NOM	naACC	Y	NOMnaACC									
-36	Serbian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*	*										"При глаголе со значением ""обидеться"" выразить на кого невозможно"		
-36	Serbian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	растужио	TR		TR	TR									
-36	Serbian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	одушевл'ен	NOM	INS	Y	NOMINS									
-36	Serbian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	презира	TR		TR	TR									
-36	Serbian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	се растужио	NOM	zbogGEN	Y	NOMzbogGEN									
-36	Serbian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	бесан	NOM	naACC	Y	NOMnaACC									
-36	Serbian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	симпатише	NOM	DAT	Y	NOMDAT									
-36	Serbian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	се стиди	NOM	GEN	Y	NOMGEN							РЕФЛ		
+36	Serbian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	боли	ACC	NOM	X	ACC_NOM									
+36	Serbian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	има	*	*	*								ТР, но это иметь, не берем		
+36	Serbian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	плаше си	NOM	GEN	Y	NOM_GEN							РЕФЛ		
+36	Serbian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	баци	NOM	ACC	TR	TR									
+36	Serbian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	има доволно	*	*	*								Зависит не от того (доволно денег)		
+36	Serbian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	личи	NOM	naACC	Y	NOM_naACC									
+36	Serbian	7	believe	X (believe) Y	верить	X (верить)Y-у	веруйе	NOM	DAT	Y	NOM_DAT									
+36	Serbian	8	take	X (take) Y	взять	X (брать) Y(-а)	узео	NOM	ACC	TR	TR									
+36	Serbian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	види	NOM	ACC	TR	TR									
+36	Serbian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	утичи	NOM	naACC	Y	NOM_naACC									
+36	Serbian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	срео	NOM	ACC	TR	TR									
+36	Serbian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ушао	NOM	uACC	Y	NOM_uACC									
+36	Serbian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	победио	NOM	ACC	TR	TR									
+36	Serbian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	изашао	NOM	izGEN	Y	NOM_izGEN									
+36	Serbian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	тера	NOM	ACC	TR	TR									
+36	Serbian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	савио	NOM	ACC	TR	TR									
+36	Serbian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	рекао	NOM	DAT	Y	NOM_DAT									
+36	Serbian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	држи	NOM	ACC	TR	TR									
+36	Serbian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	стигао	NOM	ACC	TR	TR							Как 21, но другая модель		
+36	Serbian	20	milk	X (milk) Y	доить	X (доить) Y-а	помузао	NOM	ACC	TR	TR									
+36	Serbian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	стигао	NOM	doGEN	Y	NOM_doGEN							Как 19, но другая модель		
+36	Serbian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	додирнуо	NOM	ACC	TR	TR									
+36	Serbian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	се тучи	NOM	sINS	Y	NOM_sINS							РЕФЛ, Вообще-то этот предлог то с, то са. Здесь в примере был са		
+36	Serbian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	се дружи	NOM	sINS	Y	NOM_sINS							РЕФЛ, Вообще-то этот предлог то с, то са. Здесь в примере был са		
+36	Serbian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	мисли	NOM	naACC	Y	NOM_naACC							есть вариант оЛОК		
+36	Serbian	26	eat	X (eat) Y	есть	X (есть) Y	пойео	NOM	ACC	TR	TR									
+36	Serbian	27	fry	X (fry) Y	жарить	X (жарить) Y	испржио	NOM	ACC	TR	TR									
+36	Serbian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	чека	NOM	ACC	TR	TR									
+36	Serbian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	заборавио	NOM	naACC	Y	NOM_naACC									
+36	Serbian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	зависи	NOM	odGEN	Y	NOM_odGEN									
+36	Serbian	31	call	X (call) Y	звать	X (звать) Y-а	позвао	NOM	ACC	TR	TR									
+36	Serbian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	упознао	NOM	ACC	TR	TR									
+36	Serbian	33	know	X (know) Y	знать 	X (знать) Y-а	познайе	NOM	ACC	TR	TR									
+36	Serbian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	свира	NOM	ACC	TR	TR									
+36	Serbian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	избегава	NOM	ACC	TR	TR									
+36	Serbian	36	make	X (make) Y	изготовить	X (изготовить) Y	направио	NOM	ACC	TR	TR									
+36	Serbian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	малтретира	NOM	ACC	TR	TR									
+36	Serbian	38	have	X (have) Y	иметь	X (иметь) Y	има	NOM	ACC	TR	TR									
+36	Serbian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	тражи	NOM	ACC	TR	TR									
+36	Serbian	40	paint	X (paint) Y	красить	X (красить) Y	офарбао	NOM	ACC	TR	TR									
+36	Serbian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	уйе	NOM	ACC	TR	TR									
+36	Serbian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*	*	*								Только остаться без		
+36	Serbian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	йури	NOM	ACC	TR	TR									
+36	Serbian	44	break	X (break) Y	ломать	X (ломать) Y	поломио	NOM	ACC	TR	TR									
+36	Serbian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	ласка	NOM	DAT	Y	NOM_DAT									
+36	Serbian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	воли	NOM	ACC	TR	TR									
+36	Serbian	47	wave	X (wave) Y	махать	X (махать) Y-ом	маше	NOM	INS	Y	NOM_INS									
+36	Serbian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	машта	NOM	oLOC	Y	NOM_oLOC									
+36	Serbian	49	wash	X (wash) Y	мыть	X (мыть) Y	опрао	NOM	ACC	TR	TR									
+36	Serbian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	обукао	NOM	ACC	TR	TR									
+36	Serbian	51	be_called	X (be_called) Y	называться	X (называться) Y	се зове	NOM	NOM	Y	NOM_NOM							РЕФЛ		
+36	Serbian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	казнио	NOM	ACC	TR	TR									
+36	Serbian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	напао	NOM	ACC	TR	TR									
+36	Serbian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	се напулнила	NOM	INS	Y	NOM_INS									
+36	Serbian	55	find	X (find) Y	находить	X (находить) Y(-а)	нашао	NOM	ACC	TR	TR									
+36	Serbian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	фали	DAT	NOM	X	DAT_NOM									
+36	Serbian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	мрзи	NOM	ACC	TR	TR									
+36	Serbian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	свича се	DAT	NOM	X	DAT_NOM									
+36	Serbian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	потребан	DAT	NOM	X	DAT_NOM							NV		
+36	Serbian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	опасан	INS	NOM	X	INS_NOM							PASS		
+36	Serbian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	остало	DAT	NOM	X	DAT_NOM									
+36	Serbian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	одговорио	NOM	DAT	Y	NOM_DAT									
+36	Serbian	63	open	X (open) Y	открывать	X (открывать) Y	отворио	NOM	ACC	TR	TR									
+36	Serbian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	се разликуйе	NOM	odGEN	Y	NOM_odGEN							РЕФЛ		
+36	Serbian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	заостао	NOM	zaINS	Y	NOM_zaINS									
+36	Serbian	66	plough	X (plough) Y	пахать	X (пахать) Y	оре	NOM	ACC	TR	TR									
+36	Serbian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	миришу	NOM	naACC	Y	NOM_naACC									
+36	Serbian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	прешао	NOM	ACC	TR	TR									
+36	Serbian	69	sing	X (sing) Y	петь	X (петь) Y	отпевао	NOM	ACC	TR	TR									
+36	Serbian	70	write	X (write) Y	писать	X (писать) Y	написао	NOM	ACC	TR	TR									
+36	Serbian	71	drink	X (drink) Y	пить	X (пить) Y	попио	NOM	ACC	TR	TR									
+36	Serbian	72	melt	X (melt) Y	плавить	X (плавить) Y	растопио	NOM	ACC	TR	TR									
+36	Serbian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	одговара	NOM	DAT	Y	NOM_DAT									
+36	Serbian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	напустио	NOM	ACC	TR	TR									
+36	Serbian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	покрива	NOM	ACC	TR	TR									
+36	Serbian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	сеча	NOM	GEN	Y	NOM_GEN							Варианты: с тем же глаголом наАКК или с другим ТР		
+36	Serbian	77	help	X (help) Y	помочь	X (помогать) Y-у	помагао	NOM	DAT	Y	NOM_DAT									
+36	Serbian	78	understand	X (understand) Y	понимать	X (понимать) Y	разуми	NOM	ACC	TR	TR									
+36	Serbian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	погодила	NOM	uACC	Y	NOM_uACC									
+36	Serbian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	се посекао	NOM	INS	Y	NOM_INS							РЕФЛ		
+36	Serbian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	се залепила	NOM	zaACC	Y	NOM_zaACC							РЕФЛ		
+36	Serbian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	изгубио	NOM	odGEN	Y	NOM_odGEN							Тот же глагол, что 103 (терять), но другая модель		
+36	Serbian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	се обрадовао	NOM	DAT	Y	NOM_DAT							РЕФЛ		
+36	Serbian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	прича	NOM	sINS	Y	NOM_sINS							Вообще-то этот предлог то с, то са. Здесь в примере был са		
+36	Serbian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	родила	NOM	ACC	TR	TR									
+36	Serbian	86	drop	X (drop) Y	ронять	X (ронять) Y	испала	DAT	NOM	X	DAT_NOM									
+36	Serbian	87	govern	X (govern) Y	руководить	X (руководить) Y	управл'а	NOM	INS	Y	NOM_INS									
+36	Serbian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	недостайе	DAT	NOM	X	DAT_NOM									
+36	Serbian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	следи	NOM	ACC	TR	TR									
+36	Serbian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	сишао	NOM	sGEN	Y	NOM_sGEN									
+36	Serbian	91	listen	X (listen) to Y	слушать	X (слушать) Y	слуша	NOM	ACC	TR	TR									
+36	Serbian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	*	*	*	*								То же, что слушать (91)		
+36	Serbian	93	hear	X (hear) Y	слышать	X (слышать) Y	чуйе	NOM	ACC	TR	TR									
+36	Serbian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	се сйединио	NOM	sINS	Y	NOM_sINS							Вообще-то этот предлог то с, то са. Здесь в примере был са		
+36	Serbian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	гледа	NOM	uACC	Y	NOM_uACC									
+36	Serbian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	скинуо	NOM	ACC	TR	TR									
+36	Serbian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	сан'а	NOM	ACC	TR	TR									
+36	Serbian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	се сложио	NOM	sINS	Y	NOM_sINS							Вообще-то этот предлог то с, то са. Здесь в примере был с		
+36	Serbian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	се посвачао	NOM	sINS	Y	NOM_sINS							Вообще-то этот предлог то с, то са. Здесь в примере был с		
+36	Serbian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	кошта	NOM	ACC	TR	TR									
+36	Serbian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	пукао	NOM	uACC	Y	NOM_uACC									
+36	Serbian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	ставио	NOM	ACC	TR	TR									
+36	Serbian	103	lose	X (lose) Y	терять	X (терять) Y	изгубио	NOM	ACC	TR	TR							Тот же глагол, что 82 (проиграть), но другая модель		
+36	Serbian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	потонула	NOM	uACC	Y	NOM_uACC									
+36	Serbian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	убио	NOM	ACC	TR	TR									
+36	Serbian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ударио	NOM	ACC	TR	TR									
+36	Serbian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	пол'убио	NOM	ACC	TR	TR									
+36	Serbian	108	read	X (read) Y	читать	X (читать) Y-а	прочитао	NOM	ACC	TR	TR									
+36	Serbian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	мрднуо	NOM	INS	Y	NOM_INS									
+36	Serbian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	поштуйе	NOM	ACC	TR	TR									
+36	Serbian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	се гади	*	*	*								Не очень точный перевод, видимо. Решил не брать. В принципе модель NOMnaACC		
+36	Serbian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	задовол'ан	NOM	INS	Y	NOM_INS							NV		
+36	Serbian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	зал'убио	NOM	uACC	Y	NOM_uACC									
+36	Serbian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	има поверен'е	NOM	uACC	Y	NOM_uACC									
+36	Serbian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жао	DAT	GEN	XY	DAT_GEN							NV		
+36	Serbian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завиди	NOM	DAT	Y	NOM_DAT									
+36	Serbian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	л'ути	NOM	naACC	Y	NOM_naACC									
+36	Serbian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	се изненадио	NOM	DAT	Y	NOM_DAT							РЕФЛ		
+36	Serbian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	воли	*	*	*								совпадает с любить-1 (46)		
+36	Serbian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	ужива	NOM	uLOC	Y	NOM_uLOC									
+36	Serbian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	жели	NOM	ACC	TR	TR									
+36	Serbian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	се л'ути	NOM	naACC	Y	NOM_naACC									
+36	Serbian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	*	*	*	*								"При глаголе со значением ""обидеться"" выразить на кого невозможно"		
+36	Serbian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	растужио	NOM	ACC	TR	TR									
+36	Serbian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	одушевл'ен	NOM	INS	Y	NOM_INS									
+36	Serbian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	презира	NOM	ACC	TR	TR									
+36	Serbian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	се растужио	NOM	zbogGEN	Y	NOM_zbogGEN									
+36	Serbian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	бесан	NOM	naACC	Y	NOM_naACC									
+36	Serbian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	симпатише	NOM	DAT	Y	NOM_DAT									
+36	Serbian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	се стиди	NOM	GEN	Y	NOM_GEN							РЕФЛ		

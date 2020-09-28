@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
-41	Ukrainian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	болить	uGEN	NOM	X	uGENNOM		У Петра болить голова							
-41	Ukrainian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	хворіє	NOM	naACC	Y	NOMnaACC		Петро хворіє на грип							
-41	Ukrainian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	боїться	NOM	GEN	Y	NOMGEN		Петро боїться собаки							
+41	Ukrainian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	болить	uGEN	NOM	X	uGEN_NOM		У Петра болить голова							
+41	Ukrainian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	хворіє	NOM	naACC	Y	NOM_naACC		Петро хворіє на грип							
+41	Ukrainian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	боїться	NOM	GEN	Y	NOM_GEN		Петро боїться собаки							
 41	Ukrainian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	кинув	NOM	ACC	TR	TR		Петро кинув камінь							
-41	Ukrainian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	вистачає	DAT	GEN	XY	DATGEN		Петру вистачає грошей							
-41	Ukrainian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	схожий	NOM	naACC	Y	NOMnaACC		Петро схожий на Марію					NV		
-41	Ukrainian	7	believe	X (believe) Y	верить	X (верить)Y-у	довіряє	NOM	DAT	Y	NOMDAT		Петро довіряє Марії							
+41	Ukrainian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	вистачає	DAT	GEN	XY	DAT_GEN		Петру вистачає грошей							
+41	Ukrainian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	схожий	NOM	naACC	Y	NOM_naACC		Петро схожий на Марію					NV		
+41	Ukrainian	7	believe	X (believe) Y	верить	X (верить)Y-у	довіряє	NOM	DAT	Y	NOM_DAT		Петро довіряє Марії							
 41	Ukrainian	8	take	X (take) Y	взять	X (брать) Y(-а)	взяв	NOM	ACC	TR	TR		Петро взяв книгу							
 41	Ukrainian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	бачить	NOM	ACC	TR	TR		Петро бачить будинок							
-41	Ukrainian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	впливає	NOM	naACC	Y	NOMnaACC		Вік впливає на пам’ять							
-41	Ukrainian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	зустрівся	NOM	zINS	Y	NOMzINS		Петро зустрівся з Марією							
-41	Ukrainian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	зайшов	NOM	doGEN	Y	NOMdoGEN		Петро зайшов до хати							
-41	Ukrainian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	виграв	NOM	uGEN	Y	NOMuGEN		Петро виграв у Марії							
-41	Ukrainian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	вийшов	NOM	zGEN	Y	NOMzGEN		Петро вийшов з дому							
+41	Ukrainian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	впливає	NOM	naACC	Y	NOM_naACC		Вік впливає на пам’ять							
+41	Ukrainian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	зустрівся	NOM	zINS	Y	NOM_zINS		Петро зустрівся з Марією							
+41	Ukrainian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	зайшов	NOM	doGEN	Y	NOM_doGEN		Петро зайшов до хати							
+41	Ukrainian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	виграв	NOM	uGEN	Y	NOM_uGEN		Петро виграв у Марії							
+41	Ukrainian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	вийшов	NOM	zGEN	Y	NOM_zGEN		Петро вийшов з дому							
 41	Ukrainian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	жене	NOM	ACC	TR	TR		Петро жене корову							
 41	Ukrainian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	зігнув	NOM	ACC	TR	TR		Петро зігнув гілку							
-41	Ukrainian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	сказав	NOM	DAT	Y	NOMDAT		Петро сказав Марії							
+41	Ukrainian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	сказав	NOM	DAT	Y	NOM_DAT		Петро сказав Марії							
 41	Ukrainian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	тримає	NOM	ACC	TR	TR		Петро тримає книгу							
 41	Ukrainian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	наздогнав	NOM	ACC	TR	TR		Петро наздогнав Марію							
 41	Ukrainian	20	milk	X (milk) Y	доить	X (доить) Y-а	подоїв	NOM	ACC	TR	TR		Петро подоїв корову							
-41	Ukrainian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	дістався	NOM	GEN	Y	NOMGEN		Петро дістався берега							
-41	Ukrainian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	доторкнувся	NOM	doGEN	Y	NOMdoGEN		Петро доторкнувся до стіни							
-41	Ukrainian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	б’ється	NOM	zINS	Y	NOMzINS		Петро б’ється з Марією							
-41	Ukrainian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	товаришує	NOM	zINS	Y	NOMzINS		Петро товаришує з Марією							
-41	Ukrainian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	думає	NOM	proACC	Y	NOMproACC		Петро думає про Марію							
+41	Ukrainian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	дістався	NOM	GEN	Y	NOM_GEN		Петро дістався берега							
+41	Ukrainian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	доторкнувся	NOM	doGEN	Y	NOM_doGEN		Петро доторкнувся до стіни							
+41	Ukrainian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	б’ється	NOM	zINS	Y	NOM_zINS		Петро б’ється з Марією							
+41	Ukrainian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	товаришує	NOM	zINS	Y	NOM_zINS		Петро товаришує з Марією							
+41	Ukrainian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	думає	NOM	proACC	Y	NOM_proACC		Петро думає про Марію							
 41	Ukrainian	26	eat	X (eat) Y	есть	X (есть) Y	з’їв	NOM	ACC	TR	TR		Петро з’їв яблуко							
 41	Ukrainian	27	fry	X (fry) Y	жарить	X (жарить) Y	засмажив	NOM	ACC	TR	TR		Петро засмажив цього карася							
 41	Ukrainian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	чекає	NOM	ACC	TR	TR		Петро чекає Марію					НЗ: бывает еще NOMnaACC, но это чаще		
-41	Ukrainian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	забувся	NOM	proACC	Y	NOMproACC		Петро забувся про іншу дорогу							
-41	Ukrainian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	залежить	NOM	vidGEN	Y	NOMvidGEN		Пам'ять залежить від віку							
+41	Ukrainian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	забувся	NOM	proACC	Y	NOM_proACC		Петро забувся про іншу дорогу							
+41	Ukrainian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	залежить	NOM	vidGEN	Y	NOM_vidGEN		Пам'ять залежить від віку							
 41	Ukrainian	31	call	X (call) Y	звать	X (звать) Y-а	покликав	NOM	ACC	TR	TR		Петро покликав Марію							
-41	Ukrainian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	познайомився	NOM	zINS	Y	NOMzINS		Петро познайомився з Марією рік тому							
+41	Ukrainian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	познайомився	NOM	zINS	Y	NOM_zINS		Петро познайомився з Марією рік тому							
 41	Ukrainian	33	know	X (know) Y	знать 	X (знать) Y-а	знає	NOM	ACC	TR	TR		Петро знає Марію							
-41	Ukrainian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	грає	NOM	naLOC	Y	NOMnaLOC		Петро грає на гітарі							
-41	Ukrainian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	уникає	NOM	GEN	Y	NOMGEN		Петро уникає Марії					"НЗ: ""Некоторые признают вариативность, но большинство за  генитив"""		
+41	Ukrainian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	грає	NOM	naLOC	Y	NOM_naLOC		Петро грає на гітарі							
+41	Ukrainian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	уникає	NOM	GEN	Y	NOM_GEN		Петро уникає Марії					"НЗ: ""Некоторые признают вариативность, но большинство за  генитив"""		
 41	Ukrainian	36	make	X (make) Y	изготовить	X (изготовить) Y	виготовив	NOM	ACC	TR	TR		Петро виготовив вибухівку							
-41	Ukrainian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	знущається	NOM	zGEN	Y	NOMzGEN		Петро знущається з Марії					Реже NOMnadINS		
-41	Ukrainian	38	have	X (have) Y	иметь	X (иметь) Y	є	uGEN	NOM	X	uGENNOM		У Петра є машина					Есть еще переходный вариант (Петро має машину).		
+41	Ukrainian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	знущається	NOM	zGEN	Y	NOM_zGEN		Петро знущається з Марії					Реже NOMnadINS		
+41	Ukrainian	38	have	X (have) Y	иметь	X (иметь) Y	є	uGEN	NOM	X	uGEN_NOM		У Петра є машина					Есть еще переходный вариант (Петро має машину).		
 41	Ukrainian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	шукає	NOM	ACC	TR	TR		Петро шукає ключі							
 41	Ukrainian	40	paint	X (paint) Y	красить	X (красить) Y	зафарбував	NOM	ACC	TR	TR		Петро зафарбував загорожу							
 41	Ukrainian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	вкусила	NOM	ACC	TR	TR		Собака вкусила Петра							
 41	Ukrainian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	втратив	NOM	ACC	TR	TR		Петро втратив дім					"НЗ: ""Там ещё и другие рамки управления по словарю, но это то, что дает информант."""		
 41	Ukrainian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	ловить	NOM	ACC	TR	TR		Петро ловить кицьку							
 41	Ukrainian	44	break	X (break) Y	ломать	X (ломать) Y	зламав	NOM	ACC	TR	TR		Петро зламав палицю							
-41	Ukrainian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	лестить	NOM	DAT	Y	NOMDAT		Петро лестить Марії							
+41	Ukrainian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	лестить	NOM	DAT	Y	NOM_DAT		Петро лестить Марії							
 41	Ukrainian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	кохає	NOM	ACC	TR	TR		Петро кохає Марію							
-41	Ukrainian	47	wave	X (wave) Y	махать	X (махать) Y-ом	махає	NOM	INS	Y	NOMINS		Петро махає хусткою							
-41	Ukrainian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	мріє	NOM	proACC	Y	NOMproACC		Петро мріє про машину							
+41	Ukrainian	47	wave	X (wave) Y	махать	X (махать) Y-ом	махає	NOM	INS	Y	NOM_INS		Петро махає хусткою							
+41	Ukrainian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	мріє	NOM	proACC	Y	NOM_proACC		Петро мріє про машину							
 41	Ukrainian	49	wash	X (wash) Y	мыть	X (мыть) Y	вимив	NOM	ACC	TR	TR		Петро вимив чашку							
 41	Ukrainian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	одягнув	NOM	ACC	TR	TR		Петро одягнув штани							
-41	Ukrainian	51	be_called	X (be_called) Y	называться	X (называться) Y	називається	NOM	NOM	Y	NOMNOM		Цей предмет інструмент називається компас							
+41	Ukrainian	51	be_called	X (be_called) Y	называться	X (называться) Y	називається	NOM	NOM	Y	NOM_NOM		Цей предмет інструмент називається компас							
 41	Ukrainian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	покарав	NOM	ACC	TR	TR		Петро покарав свого сина							
-41	Ukrainian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	накинувся	NOM	naACC	Y	NOMnaACC		Ведмідь накинувся на рибака							
-41	Ukrainian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	наповнилося	NOM	INS	Y	NOMINS		Відро наповнилося водою							
+41	Ukrainian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	накинувся	NOM	naACC	Y	NOM_naACC		Ведмідь накинувся на рибака							
+41	Ukrainian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	наповнилося	NOM	INS	Y	NOM_INS		Відро наповнилося водою							
 41	Ukrainian	55	find	X (find) Y	находить	X (находить) Y(-а)	знайшов	NOM	ACC	TR	TR		Петро знайшов ключі							
-41	Ukrainian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	не вистачає	NOM	GEN	XY	NOMGEN		Петру не вистачає одного долара					"НЗ: ""глагол ""хватать"" (5) с отрицанием"""		
+41	Ukrainian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	не вистачає	DAT	GEN	XY	DAT_GEN		Петру не вистачає одного долара					"НЗ: ""глагол ""хватать"" (5) с отрицанием"""		
 41	Ukrainian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ненавидить	NOM	ACC	TR	TR		Петро ненавидить Марію							
-41	Ukrainian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	подобається	DAT	NOM	X	DATNOM		Петру подобається ця сорочка							
-41	Ukrainian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	необхідні	DAT	NOM	X	DATNOM		Петру необхідні гроші							
+41	Ukrainian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	подобається	DAT	NOM	X	DAT_NOM		Петру подобається ця сорочка							
+41	Ukrainian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	необхідні	DAT	NOM	X	DAT_NOM		Петру необхідні гроші							
 41	Ukrainian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	оточують	NOM	ACC	TR	TR		Місто оточують стіни							
-41	Ukrainian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	залишилося	uGEN	NOM	X	uGENNOM		У Петра залишилося десять доларів							
-41	Ukrainian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	відповів	NOM	DAT	Y	NOMDAT		Петро відповів учителю							
+41	Ukrainian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	залишилося	uGEN	NOM	X	uGEN_NOM		У Петра залишилося десять доларів							
+41	Ukrainian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	відповів	NOM	DAT	Y	NOM_DAT		Петро відповів учителю							
 41	Ukrainian	63	open	X (open) Y	открывать	X (открывать) Y	відкрив	NOM	ACC	TR	TR		Петро відкрив банку							
-41	Ukrainian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	відрізняється	NOM	vidGEN	Y	NOMvidGEN		Моя сорочка відрізняється від твоєї. 							
-41	Ukrainian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	відстав	NOM	vidGEN	Y	NOMvidGEN		Петро відстав від Марії							
+41	Ukrainian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	відрізняється	NOM	vidGEN	Y	NOM_vidGEN		Моя сорочка відрізняється від твоєї. 							
+41	Ukrainian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	відстав	NOM	vidGEN	Y	NOM_vidGEN		Петро відстав від Марії							
 41	Ukrainian	66	plough	X (plough) Y	пахать	X (пахать) Y	оре	NOM	ACC	TR	TR		Петро оре поле							
-41	Ukrainian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	пахнуть	NOM	INS	Y	NOMINS		Мої руки пахнуть бензином							
+41	Ukrainian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	пахнуть	NOM	INS	Y	NOM_INS		Мої руки пахнуть бензином							
 41	Ukrainian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	пересік	NOM	ACC	TR	TR		Петро пересік дорогу							
 41	Ukrainian	69	sing	X (sing) Y	петь	X (петь) Y	заспівав	NOM	ACC	TR	TR		Петро заспівав гарну пісню							
 41	Ukrainian	70	write	X (write) Y	писать	X (писать) Y	написав	NOM	ACC	TR	TR		Петро написав книгу.					"НЗ: ""Пришлось взять ""книгу"" вместо ""письма"", из-за некоторых грамматических особеннойстей этого существительного в украинском."""		
 41	Ukrainian	71	drink	X (drink) Y	пить	X (пить) Y	випив	NOM	ACC	TR	TR		Петро випив цей стакан молока					"НЗ: ""Не совсем ""молоко"", но глагол несомненно переходный."""		
 41	Ukrainian	72	melt	X (melt) Y	плавить	X (плавить) Y	розплавив	NOM	ACC	TR	TR		Петро розплавив шматок свинцю							
-41	Ukrainian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	підходить	NOM	doGEN	Y	NOMdoGEN		Цей пояс підходить до мого плаття. 							
-41	Ukrainian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	покинув	NOM	ACC	Y	TR		Петро покинув рідне місто							
+41	Ukrainian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	підходить	NOM	doGEN	Y	NOM_doGEN		Цей пояс підходить до мого плаття. 							
+41	Ukrainian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	покинув	NOM	ACC	TR	TR		Петро покинув рідне місто							
 41	Ukrainian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	покриває	NOM	ACC	TR	TR		Килим покриває всю підлогу							
-41	Ukrainian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	пам’ятає	NOM	ACC	Y	TR		Петро гарно пам’ятає дім							
-41	Ukrainian	77	help	X (help) Y	помочь	X (помогать) Y-у	допоміг	NOM	DAT	Y	NOMDAT		Петро допоміг Марії							
+41	Ukrainian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	пам’ятає	NOM	ACC	TR	TR		Петро гарно пам’ятає дім							
+41	Ukrainian	77	help	X (help) Y	помочь	X (помогать) Y-у	допоміг	NOM	DAT	Y	NOM_DAT		Петро допоміг Марії							
 41	Ukrainian	78	understand	X (understand) Y	понимать	X (понимать) Y	розуміє	NOM	ACC	TR	TR		Петро розуміє французьку мову							
-41	Ukrainian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	потрапила	NOM	vACC	Y	NOMvACC		Блискавка потрапила у дім. 					"НЗ: ""Вариативность предлогов у/в."""		
-41	Ukrainian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	порізався	NOM	INS	Y	NOMINS		Петро порізався бритвою							
-41	Ukrainian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	прилип	NOM	doGEN	Y	NOMdoGEN		Стакан прилип до столу							
-41	Ukrainian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	програв	NOM	DAT	Y	NOMDAT		Петро програв Марії							
-41	Ukrainian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	зрадів	NOM	DAT	Y	NOMDAT		Петро зрадів листу							
-41	Ukrainian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	розмовляє	NOM	zINS	Y	NOMzINS		Петро розмовляє з Марією							
+41	Ukrainian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	потрапила	NOM	vACC	Y	NOM_vACC		Блискавка потрапила у дім. 					"НЗ: ""Вариативность предлогов у/в."""		
+41	Ukrainian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	порізався	NOM	INS	Y	NOM_INS		Петро порізався бритвою							
+41	Ukrainian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	прилип	NOM	doGEN	Y	NOM_doGEN		Стакан прилип до столу							
+41	Ukrainian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	програв	NOM	DAT	Y	NOM_DAT		Петро програв Марії							
+41	Ukrainian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	зрадів	NOM	DAT	Y	NOM_DAT		Петро зрадів листу							
+41	Ukrainian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	розмовляє	NOM	zINS	Y	NOM_zINS		Петро розмовляє з Марією							
 41	Ukrainian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	народила	NOM	ACC	TR	TR		Марія народила сина							
 41	Ukrainian	86	drop	X (drop) Y	ронять	X (ронять) Y	впустив	NOM	ACC	TR	TR		Петро впустив склянку							
-41	Ukrainian	87	govern	X (govern) Y	руководить	X (руководить) Y	керує	NOM	INS	Y	NOMINS		Петро керує нашим селищем							
-41	Ukrainian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	сумує	NOM	zaINS	Y	NOMzaINS		Петро сумує за Марією					"НЗ: ""Словарь дает другие переводы, но информант настаивает на этом."""		
-41	Ukrainian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	йде	NOM	zaINS	Y	NOMzaINS		Петро йде за Марією					"НЗ: ""Глагол с более общим значением ""идти"", но информант отказвается дать более конкретный вариант перевода. Тот же перевод глагола дает словарь ABBYY Lingvo"""		
-41	Ukrainian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	зліз	NOM	zGEN	Y	NOMzGEN		Петро зліз із коня					"нЗ: ""із / з - варианты"""		
+41	Ukrainian	87	govern	X (govern) Y	руководить	X (руководить) Y	керує	NOM	INS	Y	NOM_INS		Петро керує нашим селищем							
+41	Ukrainian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	сумує	NOM	zaINS	Y	NOM_zaINS		Петро сумує за Марією					"НЗ: ""Словарь дает другие переводы, но информант настаивает на этом."""		
+41	Ukrainian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	йде	NOM	zaINS	Y	NOM_zaINS		Петро йде за Марією					"НЗ: ""Глагол с более общим значением ""идти"", но информант отказвается дать более конкретный вариант перевода. Тот же перевод глагола дает словарь ABBYY Lingvo"""		
+41	Ukrainian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	зліз	NOM	zGEN	Y	NOM_zGEN		Петро зліз із коня					"нЗ: ""із / з - варианты"""		
 41	Ukrainian	91	listen	X (listen) to Y	слушать	X (слушать) Y	слухає	NOM	ACC	TR	TR		Петро слухає радіо					91=92		
 41	Ukrainian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	слухає	NOM	ACC	TR	TR		Петро слухає маму					92=91		
 41	Ukrainian	93	hear	X (hear) Y	слышать	X (слышать) Y	чує	NOM	ACC	TR	TR		Петро чує музику							
-41	Ukrainian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	змішався	NOM	zINS	Y	NOMzINS		Мед змішався з молоком							
-41	Ukrainian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	дивиться	NOM	naACC	Y	NOMnaACC		Петро дивиться на хмари							
+41	Ukrainian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	змішався	NOM	zINS	Y	NOM_zINS		Мед змішався з молоком							
+41	Ukrainian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	дивиться	NOM	naACC	Y	NOM_naACC		Петро дивиться на хмари							
 41	Ukrainian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	зняв	NOM	ACC	TR	TR		Петро зняв сорочку							
-41	Ukrainian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	сниться	DAT	NOM	X	DATNOM		Марії сниться Петро							
-41	Ukrainian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	згодився	NOM	zINS	Y	NOMzINS		Петро згодився з Марією							
-41	Ukrainian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	посварився	NOM	zINS	Y	NOMzINS		Петро посварився з Марією							
+41	Ukrainian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	сниться	DAT	NOM	X	DAT_NOM		Марії сниться Петро							
+41	Ukrainian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	згодився	NOM	zINS	Y	NOM_zINS		Петро згодився з Марією							
+41	Ukrainian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	посварився	NOM	zINS	Y	NOM_zINS		Петро посварився з Марією							
 41	Ukrainian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	коштує	NOM	ACC	TR	TR		Ця чашка коштує один долар					"НЗ: ""Не пассивизируетсся, естественно, но это и так понятно с такими глаголами."""		
-41	Ukrainian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	вистрілив	NOM	vACC	Y	NOMvACC		Петро вистрілив у птаха							
+41	Ukrainian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	вистрілив	NOM	vACC	Y	NOM_vACC		Петро вистрілив у птаха							
 41	Ukrainian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	насипав	NOM	ACC	TR	TR		Петро насипав цукор у чашку 							
 41	Ukrainian	103	lose	X (lose) Y	терять	X (терять) Y	загубив	NOM	ACC	TR	TR		Петро загубив ключі							
-41	Ukrainian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	потонуло	NOM	vLOC	Y	NOMvLOC		Поліно потонуло у воді					"НЗ: """"у"" - вариант предлога ""в"" перед в-"""		
+41	Ukrainian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	потонуло	NOM	vLOC	Y	NOM_vLOC		Поліно потонуло у воді					"НЗ: """"у"" - вариант предлога ""в"" перед в-"""		
 41	Ukrainian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	вбив	NOM	ACC	TR	TR		Петро вбив Марію							
 41	Ukrainian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	вдарив	NOM	ACC	TR	TR		Петро вдарив Марію							
 41	Ukrainian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	поцілував	NOM	ACC	TR	TR		Петро поцілував Марію							
 41	Ukrainian	108	read	X (read) Y	читать	X (читать) Y-а	прочитав	NOM	ACC	TR	TR		Петро прочитав цікаву книгу							
-41	Ukrainian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	поворушив	NOM	INS	Y	NOMINS		Петро поворушив пальцем							
+41	Ukrainian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	поворушив	NOM	INS	Y	NOM_INS		Петро поворушив пальцем							
 41	Ukrainian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	поважає	NOM	ACC	TR	TR		Петро поважає Марію							
-41	Ukrainian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	гидує	NOM	INS	Y	NOMINS		Петро гидує брудним посудом							
-41	Ukrainian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	задоволений	NOM	INS	Y	NOMINS		Петро задоволений сином					NV		
-41	Ukrainian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	закохався	NOM	vACC	Y	NOMvACC		Петро закохався в Марію							
-41	Ukrainian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	довіряє	NOM	DAT	Y	NOMDAT		Петро довіряє Марії							
+41	Ukrainian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	гидує	NOM	INS	Y	NOM_INS		Петро гидує брудним посудом							
+41	Ukrainian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	задоволений	NOM	INS	Y	NOM_INS		Петро задоволений сином					NV		
+41	Ukrainian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	закохався	NOM	vACC	Y	NOM_vACC		Петро закохався в Марію							
+41	Ukrainian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	довіряє	NOM	DAT	Y	NOM_DAT		Петро довіряє Марії							
 41	Ukrainian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жаліє	NOM	ACC	TR	TR		Петро жаліє свою матір							
-41	Ukrainian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	заздрить	NOM	DAT	Y	NOMDAT		Петро заздрить Марії							
-41	Ukrainian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	злиться	NOM	naACC	Y	NOMnaACC		Петро злиться на Марію							
-41	Ukrainian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	здивувався	NOM	zGEN	Y	NOMINS		Петро здивований цим подарунком					"Пассив. Изначально здесь был засчитан вариант ""Петро здивувався із цього подарунка"", по поводу которого, впрочем, Наташа написала так: ""С трудом добилась. Носители постоянно пытались породить предложения типа ""Петра здивував цей подарунок"" или ""Петро здивований цим подарунком""."" В результате я засчитываю этот более естественный вариант, несмотря на то, что, возможно, он как-то и отличается акционально от стимула."		
+41	Ukrainian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	заздрить	NOM	DAT	Y	NOM_DAT		Петро заздрить Марії							
+41	Ukrainian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	злиться	NOM	naACC	Y	NOM_naACC		Петро злиться на Марію							
+41	Ukrainian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	здивувався	NOM	zGEN	Y	NOM_INS		Петро здивований цим подарунком					"Пассив. Изначально здесь был засчитан вариант ""Петро здивувався із цього подарунка"", по поводу которого, впрочем, Наташа написала так: ""С трудом добилась. Носители постоянно пытались породить предложения типа ""Петра здивував цей подарунок"" или ""Петро здивований цим подарунком""."" В результате я засчитываю этот более естественный вариант, несмотря на то, что, возможно, он как-то и отличается акционально от стимула."		
 41	Ukrainian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	любить	NOM	ACC	TR	TR		Петро любить чай							
-41	Ukrainian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	насолоджується	NOM	INS	Y	NOMINS		Петро насолоджується гарячим чаєм							
+41	Ukrainian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	насолоджується	NOM	INS	Y	NOM_INS		Петро насолоджується гарячим чаєм							
 41	Ukrainian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	хоче	NOM	ACC	TR	TR		Петро хоче новий мобільний							
-41	Ukrainian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	сердиться	NOM	naACC	Y	NOMnaACC		Петро сердиться на Марію							
-41	Ukrainian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	образився	NOM	naACC	Y	NOMnaACC		Петро образився на Марію							
+41	Ukrainian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	сердиться	NOM	naACC	Y	NOM_naACC		Петро сердиться на Марію							
+41	Ukrainian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	образився	NOM	naACC	Y	NOM_naACC		Петро образився на Марію							
 41	Ukrainian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	засмутив	NOM	ACC	TR	TR		Петро дуже засмутив Марію							
-41	Ukrainian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	вразило	*		Y			Петра вразило це місто					"Не засчитываю. НЗ: ""Конверсив. Словарь дает соотвествующий возвратный глагол, но информанты отказываются порождать высказывание с ним."""		
+41	Ukrainian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	вразило	*	*	*			Петра вразило це місто					"Не засчитываю. НЗ: ""Конверсив. Словарь дает соотвествующий возвратный глагол, но информанты отказываются порождать высказывание с ним."""		
 41	Ukrainian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	зневажає	NOM	ACC	TR	TR		Петро зневажає Марію							
-41	Ukrainian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	засмутився	NOM	cerezACC	Y	NOMcerezACC		Петро засмутився через сина							
-41	Ukrainian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	дратується	NOM	cerezACC	Y	NOMnaACC		Петро роздратований на свою доньку					"Пассив. Изначально здесь был засчитан вариант ""Петро дратується через свою дочку"", по поводу которого, впрочем, Наташа написала так: ""Опять же, с трудом получила. Пытались переводить ""Петра дратує його дочка"" и ""Петро роздратований на свою доньку"""". В результате я засчитываю этот более естественный вариант, несмотря на то, что, возможно, он как-то и отличается акционально от стимула."		
-41	Ukrainian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	симпатизує	NOM	DAT	Y	NOMDAT		Петро симпатизує Марії							
-41	Ukrainian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	соромиться	NOM	GEN	Y	NOMGEN		Петро соромиться свого росту							
+41	Ukrainian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	засмутився	NOM	cerezACC	Y	NOM_cerezACC		Петро засмутився через сина							
+41	Ukrainian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	дратується	NOM	cerezACC	Y	NOM_naACC		Петро роздратований на свою доньку					"Пассив. Изначально здесь был засчитан вариант ""Петро дратується через свою дочку"", по поводу которого, впрочем, Наташа написала так: ""Опять же, с трудом получила. Пытались переводить ""Петра дратує його дочка"" и ""Петро роздратований на свою доньку"""". В результате я засчитываю этот более естественный вариант, несмотря на то, что, возможно, он как-то и отличается акционально от стимула."		
+41	Ukrainian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	симпатизує	NOM	DAT	Y	NOM_DAT		Петро симпатизує Марії							
+41	Ukrainian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	соромиться	NOM	GEN	Y	NOM_GEN		Петро соромиться свого росту							

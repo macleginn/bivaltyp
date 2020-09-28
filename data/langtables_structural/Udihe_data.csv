@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-56	Udihe	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	uni-	POSS	NOM	Х	POSSNOM							Обычная посессивная конструкция с обычными проблемами структуры составляющих
-56	Udihe	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	sulə-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	ŋələ-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	wəndə-	TR		TR	TR							
-56	Udihe	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	NEG + zokčo	NOM	INSTR	Y	NOMINSTR							NEG V. Букв. 'деньгами не бедствует'. Так сказал информант, в принципе с примером все ОК.
-56	Udihe	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	d'oxo  bi-	NOM	DIR	Y	NOMDIR							NV. 'быть похож'; конкурирует с симметричной конструкцией
-56	Udihe	7	believe	X (believe) Y	верить	X (верить)Y-у	čəzə-	TR		TR	TR							В принципе был получен перевод с NOMDIR для этого стимула, но это звучит не очень естественно; более естественно с сентенциальным актантом: не верит словам Маши, слова -- ACC. Соня считает, что TR для удэгейского должно быть более естественно. После переписки с ЕВП принял решение засчитать сюда все-таки TR, потому что два другие варианта совсем не нравились: NOMDIR явная калька с русского (СО, ЕВП), а не засчитыватьничего жалко, потому что глагол существует, хотя и нечасто используется с именными актантами.
-56	Udihe	8	take	X (take) Y	взять	X (брать) Y(-а)	asta-	TR		TR	TR							ЕВП предположила, что использование глагола (обычно об одежде; 'снять') может объясняться влиянием русского
-56	Udihe	9	see	X (see) Y	видеть	X (видеть) Y(-а)	isə-	TR		TR	TR							
-56	Udihe	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*		*								Не удалось получить перевод (можно 'от старости голова дурнеет')
-56	Udihe	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	b'a-	NOM	INSTR	Y	NOMINSTR							Букв.: 'найти'
-56	Udihe	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ii-	NOM	DIR	Y	NOMDIR							
-56	Udihe	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ətə-	TR		TR	TR							Обычно о поединке, борьбе, букв. ‘одолеть’
-56	Udihe	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ñuo-gi-	NOM	ABL	Y	NOMABL							
-56	Udihe	15	drive	X (drive) Y	гнать	X (гнать) Y-а	igbə-	TR		TR	TR							обычно выгонять из дома и т.п.
-56	Udihe	16	bend	X (bend) Y	гнуть	X (гнуть) Y	uu-woŋ-	TR		TR	TR							CAUS
-56	Udihe	17	tell	X (tell) Y	говорить	X (говорить) Y-у	diɣanə-	NOM	DIR	Y	NOMDIR							См. комментарий к 26. Вот здесь представлена более полная фрма глагола, а там нечто редуцированное, стяженное.
-56	Udihe	18	hold	X (hold)Y	держать	X (держать) Y(-а)	zawa-	TR		TR	TR							Глагол значит 'брать', здесь должен использоваться имперфектив (-si-)
-56	Udihe	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	b'oŋ-	TR		TR	TR							
-56	Udihe	20	milk	X (milk) Y	доить	X (доить) Y-а	daila-	TR		TR	TR							Заимствование из русского
-56	Udihe	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	iiŋ-	NOM	LOC	Y	NOMLOC							
-56	Udihe	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	tuŋga-la-	NOM	LOC	Y	NOMLOC							Не рукой! -la: SING (видимо, сингулятив).C23
-56	Udihe	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	w'ali-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	andasi-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	məisi-	TR		TR	TR							Более естествен контекст с СА
-56	Udihe	26	eat	X (eat) Y	есть	X (есть) Y	diga-	TR		TR	TR							
-56	Udihe	27	fry	X (fry) Y	жарить	X (жарить) Y	kakčisi-	TR		TR	TR							
-56	Udihe	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	alasi-	TR		TR	TR							
-56	Udihe	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	oŋmo-	TR		TR	TR							"Хороший перевод именно для ""забыть о дороге"" найти не удалось. После повторного вопроса ЕВП написала, что глагол oŋmo- существует и требует винительного падежа, как в таком примере: ""Вот пример из сказки, записанной Шнейдером (Tiŋməlehənʒī) oŋmo-h-oni            ami-ni        gəgbi-wə-ni. (как упал, так и) забыл имя отца. забыть-PST-3Sg   отец-3Sg   имя-ACC-3Sg (Обратите внимание на порядок слов: информационная структура такая)"" Условно фиксирую вот эту переходную конструкцию, хотя это и не совсем то, что нужно."
-56	Udihe	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*		*								Не удалось найти перевод
-56	Udihe	31	call	X (call) Y	звать	X (звать) Y-а	gələ-	TR		TR	TR							"Это многозначный глагол: еще значит 'хотеть' и 'просить'. Но основной способ выражения желания -- суффикс. Наверное, можно засчитать. ЕВП написала так: ""Значения gele- по Николаевой: wish, ask, need, invite, call. Такое модальное значение “желание, чтобы кто-то или что-то было у меня или рядом со мной»"""
-56	Udihe	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	*	*		*								"Получено такое: Х Y-INSTR RECP (местоимение) узнали (т.е. [Петя с Машей]  узнали друг друга). Строго говоря, пример, который мне дали, как следует из ответа ЕВП, это конструкция с сочиненной (по комитативному типу) ИГ в позиции подлежащего и местоимением ""друг друга"". Т.е. не та структура, которую я хотел бы получить. Не засчитываю."
-56	Udihe	33	know	X (know) Y	знать 	X (знать) Y-а	sə-	TR		TR	TR							"Это то же, что ""понимать"" (78)"
-56	Udihe	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	gusi-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	susa-wasi-	NOM	ABL	Y	NOMABL							"run.away-Div- DIV -- это ""диверсатив"", ЕВП: ""делать что-то (часто с глаголами движения, но не обязательно)  в разных направлениях или в разных местах или без определенной цели. Например, «геологи ищут золото»"""
-56	Udihe	36	make	X (make) Y	изготовить	X (изготовить) Y	o-	TR		TR	TR							
-56	Udihe	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	kəsə-we-li-	TR		TR	TR							CAUS, INCH
-56	Udihe	38	have	X (have) Y	иметь	X (иметь) Y	(COP)	NOM	ORN	Y	NOMORN							Вообще-то деривационный аффикс -- Ornative (с машиной). У Булатовой и Гренобль описывается как POSS.
-56	Udihe	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	galaktə-	TR		TR	TR							
-56	Udihe	40	paint	X (paint) Y	красить	X (красить) Y	kraskala-	TR		TR	TR							
-56	Udihe	41	bite	X (bite) Y	кусать	X (кусать) Y-а	iktəmə-lə-	TR		TR	TR							bite-SING
-56	Udihe	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*		*								"Только ""остаться без дома"""
-56	Udihe	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	zawa-kcə-	TR		TR	TR							«ловит, убить хочет». Суффикс PROSP (проспектив, дезидератив == собирается что-то сделать)
-56	Udihe	44	break	X (break) Y	ломать	X (ломать) Y	buktali-	TR		TR	TR							
-56	Udihe	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*	*		*								Нет эквивалент
-56	Udihe	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	aju-	TR		TR	TR							То же, что любить-2
-56	Udihe	47	wave	X (wave) Y	махать	X (махать) Y-ом	akpi-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*		*								"Удалось получить только перевод в значении ""думать о чем-то"", да и то лучше СА (думает купить новую машину)"
-56	Udihe	49	wash	X (wash) Y	мыть	X (мыть) Y	siki-	TR		TR	TR							
-56	Udihe	50	put_on	X (put_on) Y	надевать	X (надевать) Y	təti-gi-	TR		TR	TR							REFL
-56	Udihe	51	be_called	X (be_called) Y	называться	X (называться) Y	*	*		*								Трансимперсонал
-56	Udihe	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*		*								Нет перевода
-56	Udihe	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	xokco-	NOM	DIR	Y	NOMDIR							
-56	Udihe	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	sabda- (tääsi )	ACC	NOM	Х	ACCNOM							Там буквально пример такой: ведро(ACC) полный вода(NOM) накапала
-56	Udihe	55	find	X (find) Y	находить	X (находить) Y(-а)	b'a-gi-	TR		TR	TR							REFL
-56	Udihe	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	ə-i-ni iinə	DAT	NOM	Х	DATNOM							NEG + 'come'
-56	Udihe	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	galu-	TR		TR	TR							
-56	Udihe	58	like	X (like) Y	нравиться	X-у (нравиться) Y	čaalə-	TR		TR	TR							‘желает, выбирает’
-56	Udihe	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	zokco-	NOM	INSTR	Y	NOMINSTR							Букв.: «бедствует с деньгами»
-56	Udihe	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	?	*		*								Получен какой-то ошметок предложения
-56	Udihe	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	osi-gi-	DAT	NOM	Х	DATNOM							REFL
-56	Udihe	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	diaŋ-	NOM	DIR	Y	NOMDIR							Вообще-то этот тот же глагол, что в (17), но там произошли какие-то изменения в облике глагола (аллегровая речь и т.д.). Условно записываю снову так, как она была в конкретном переводе.
-56	Udihe	63	open	X (open) Y	открывать	X (открывать) Y	nienti-lə-	TR		TR	TR							SING
-56	Udihe	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	xonto	NOM	ABL	Y	NOMABL							NV. 'другой'
-56	Udihe	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	amääsa-	NOM	ABL	Y	NOMABL							букв.: 'stay behind'
-56	Udihe	66	plough	X (plough) Y	пахать	X (пахать) Y	gəŋculə-	TR		TR	TR							Это отыменной предикат, образован от слова 'лопата', которое может быть выражено в инструментальной позиции
-56	Udihe	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*		*								Есть специальный суффикс, который образует непереходный глагол со следующей структурой: petrol-smell.with-3Sg
-56	Udihe	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	dau-	TR		TR	TR							
-56	Udihe	69	sing	X (sing) Y	петь	X (петь) Y	jəxə-	TR		TR	TR							
-56	Udihe	70	write	X (write) Y	писать	X (писать) Y	oño-	TR		TR	TR							Букв.: make.pattern
-56	Udihe	71	drink	X (drink) Y	пить	X (пить) Y	umnasi-	TR		TR	TR							
-56	Udihe	72	melt	X (melt) Y	плавить	X (плавить) Y	unə-wə-	TR		TR	TR							CAUS
-56	Udihe	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	asə-	NOM	DIR	Y	NOMDIR							
-56	Udihe	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	nodo-	TR		TR	TR							Это то же, что терять (103)
-56	Udihe	75	cover	X (cover) Y	покрывать	X (покрывать) Y	likpi-	TR		TR	TR							Возможен немаркированный (DOM)
-56	Udihe	76	remember	X (remember) Y	помнить	X (помнить) Y-а	zoŋi-	TR		TR	TR							Время от времени вспоминает. Используется IPFV
-56	Udihe	77	help	X (help) Y	помочь	X (помогать) Y-у	bələsi-	TR		TR	TR							
-56	Udihe	78	understand	X (understand) Y	понимать	X (понимать) Y	sə-	TR		TR	TR							"Это то же, что ""знать"" (33)"
-56	Udihe	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	agdinda-	NOM	DAT	Y	NOMDAT							
-56	Udihe	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	əndə-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	lagbaŋ-	NOM	LOC	Y	NOMLOC							Вообще-то в переводе появляется послелог, но он не имеет прямого отношения к глаголу и появляется из-за конкретной пространственной кофигурации
-56	Udihe	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*	*		*								Нет перевода
-56	Udihe	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	agda-	*		*								То же, что 112. В переводе используется сентенциальный актант. В форме презенса есть чередование
-56	Udihe	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	diɣa-	NOM	DIR	Y	NOMDIR							Альтернатива -- INSTR
-56	Udihe	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	b'a-	TR		TR	TR							"Буквально: ""найти"""
-56	Udihe	86	drop	X (drop) Y	ронять	X (ронять) Y	tugbu-	TR		TR	TR							Возможен немаркированный (DOM)
-56	Udihe	87	govern	X (govern) Y	руководить	X (руководить) Y	*	*		*								"Перевод не получен (только ""стал начальником в L"")"
-56	Udihe	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	*	*		*								"Получен только перевод с глаголом ""думать"" (ср. 25)"
-56	Udihe	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*		*								"Получен только перевод, который буквально значит ""идти сзади кого-то"" (послелог)"
-56	Udihe	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	əugi-	NOM	ABL	Y	NOMABL							
-56	Udihe	91	listen	X (listen) to Y	слушать	X (слушать) Y	düi-si-	TR		TR	TR							IMPFV, то же, что 93
-56	Udihe	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	*	*		*								"Либо ""слышит мать"", либо ""слышит то, что говорит мать"""
-56	Udihe	93	hear	X (hear) Y	слышать	X (слышать) Y	düi-si-	TR		TR	TR							IMPFV, то же, что 91
-56	Udihe	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	solü-	NOM	INSTR	Y	NOMINSTR							
-56	Udihe	95	look	X (look) at Y	смотреть	X (смотреть) на Y	isə-si-	NOM	DIR	Y	NOMDIR							"IMPFV. В принципе это некий аспектуальный дериват от isə-, ""видеть"""
-56	Udihe	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	asta-	TR		TR	TR							
-56	Udihe	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	t'osi-	TR		TR	TR							
-56	Udihe	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	*	*		*								Только СА и к тому же это не специализированный глагол: Петя услышал то, что сказала М.
-56	Udihe	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	*	*		*								Нет перевода
-56	Udihe	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	bi-	NOM	NOM	Y	NOMNOM							"Букв. ""быть"""
-56	Udihe	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	gakpa-	TR		TR	TR							
-56	Udihe	102	pour	X (pour) Y	сыпать	X (сыпать) Y	kuŋgədə-	TR		TR	TR							
-56	Udihe	103	lose	X (lose) Y	терять	X (терять) Y	nodo-	TR		TR	TR							Это то же, что покидать (74)
-56	Udihe	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	juu-	NOM	LOC	Y	NOMLOC							
-56	Udihe	105	kill	X (kill) Y	убивать	X (убивать) Y-а	wa-	TR		TR	TR							
-56	Udihe	106	hit	X (hit) Y	ударить	X (ударять) Y-а	duktə-	TR		TR	TR							
-56	Udihe	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	ñuɣasi-	TR		TR	TR							
-56	Udihe	108	read	X (read) Y	читать	X (читать) Y-а	taŋi-	TR		TR	TR							
-56	Udihe	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	ugi-wəŋ-	TR		TR	TR							CAUS
-56	Udihe	110	respect	X (respect) Y	уважать	X (уважать) Y-а	čəzə-	TR		TR	TR							Изначально было получено TR для этого примера, см. обсуждение в 7. Вообще странно, что перевод для уважать такой же, как для верить, но из комментария ЕВП следует, что это в принципе более или менее адекватно.
-56	Udihe	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*		*								"""Сомнительный пример"". Видимо, ""информанта долго мучали"" (СО). См. реакцию ЕВП в файле -- тот перевод, который был получен имеет ужасно нечеткую структуру."
-56	Udihe	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	agdа-	NOM	INSTR	Y	NOMINSTR							То же, что в 83. Что-то вроде чередования (возможно, на уровне аллофонов): agda > agdə
-56	Udihe	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	aju-li-	TR		TR	TR							INCH
-56	Udihe	114	trust	X (trust) Y	доверять	X (доверять) Y-у	čəzə-	*		*								"То же, что ""верить"" (7) и даже ""уважать"" (110), см. обсуждение там. Решил отдельно не засчитывать, потому что и с (7) были проблемы, а это еще и периферийное значение"
-56	Udihe	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	nantə-	TR		TR	TR							
-56	Udihe	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	*	*		*								Не удалось получить перевод
-56	Udihe	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	tagdа-	NOM	DIR	Y	NOMDIR							То же, что 122 и 123, правда происходит что-то вроде чередования в корне в форме презенса
-56	Udihe	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	xuenə-	TR		TR	TR							"СО: В других языках родственное слово обозначает также ""замечать; обнаружить; подозревать""."
-56	Udihe	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	aju-	TR		TR	TR							То же, что любить (+ INCH = влюбляться)
-56	Udihe	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*		*								Не удалось получить перевод
-56	Udihe	121	want	X (want) Y	хотеть	X (хотеть) Y-а	gələ-	TR		TR	TR							
-56	Udihe	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	tagda-	NOM	DIR	Y	NOMDIR							То же, что (123) и 117
-56	Udihe	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	tagda-	NOM	DIR	Y	NOMDIR							То же, что (122) и 117
-56	Udihe	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	tagda-waŋ-	TR		TR	TR							CAUS
-56	Udihe	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*		*								"Получен только перевод ""полюбил"""
-56	Udihe	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*		*								Нет перевода
-56	Udihe	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*		*								Нет перевода
-56	Udihe	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	*	*		*								Нет адекватного перевода
-56	Udihe	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*		*								Нет адекватного перевода (только любить)
-56	Udihe	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	xagzə-	*		*								"К сожалению, получен только перевод с СА (""стесняется того, что вырос маленьким"")"
+56	Udihe	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	uni-	POSS	NOM	Х	POSS_NOM							Обычная посессивная конструкция с обычными проблемами структуры составляющих
+56	Udihe	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	sulə-	NOM	INS	Y	NOM_INS							
+56	Udihe	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	ŋələ-	NOM	INS	Y	NOM_INS							
+56	Udihe	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	wəndə-	NOM	ACC	TR	TR							
+56	Udihe	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	NEG + zokčo	NOM	INS	Y	NOM_INS							NEG V. Букв. 'деньгами не бедствует'. Так сказал информант, в принципе с примером все ОК.
+56	Udihe	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	d'oxo  bi-	NOM	DIR	Y	NOM_DIR							NV. 'быть похож'; конкурирует с симметричной конструкцией
+56	Udihe	7	believe	X (believe) Y	верить	X (верить)Y-у	čəzə-	NOM	ACC	TR	TR							В принципе был получен перевод с NOMDIR для этого стимула, но это звучит не очень естественно; более естественно с сентенциальным актантом: не верит словам Маши, слова -- ACC. Соня считает, что TR для удэгейского должно быть более естественно. После переписки с ЕВП принял решение засчитать сюда все-таки TR, потому что два другие варианта совсем не нравились: NOMDIR явная калька с русского (СО, ЕВП), а не засчитыватьничего жалко, потому что глагол существует, хотя и нечасто используется с именными актантами.
+56	Udihe	8	take	X (take) Y	взять	X (брать) Y(-а)	asta-	NOM	ACC	TR	TR							ЕВП предположила, что использование глагола (обычно об одежде; 'снять') может объясняться влиянием русского
+56	Udihe	9	see	X (see) Y	видеть	X (видеть) Y(-а)	isə-	NOM	ACC	TR	TR							
+56	Udihe	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	*	*	*	*								Не удалось получить перевод (можно 'от старости голова дурнеет')
+56	Udihe	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	b'a-	NOM	INS	Y	NOM_INS							Букв.: 'найти'
+56	Udihe	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ii-	NOM	DIR	Y	NOM_DIR							
+56	Udihe	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ətə-	NOM	ACC	TR	TR							Обычно о поединке, борьбе, букв. ‘одолеть’
+56	Udihe	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ñuo-gi-	NOM	ABL	Y	NOM_ABL							
+56	Udihe	15	drive	X (drive) Y	гнать	X (гнать) Y-а	igbə-	NOM	ACC	TR	TR							обычно выгонять из дома и т.п.
+56	Udihe	16	bend	X (bend) Y	гнуть	X (гнуть) Y	uu-woŋ-	NOM	ACC	TR	TR							CAUS
+56	Udihe	17	tell	X (tell) Y	говорить	X (говорить) Y-у	diɣanə-	NOM	DIR	Y	NOM_DIR							См. комментарий к 26. Вот здесь представлена более полная фрма глагола, а там нечто редуцированное, стяженное.
+56	Udihe	18	hold	X (hold)Y	держать	X (держать) Y(-а)	zawa-	NOM	ACC	TR	TR							Глагол значит 'брать', здесь должен использоваться имперфектив (-si-)
+56	Udihe	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	b'oŋ-	NOM	ACC	TR	TR							
+56	Udihe	20	milk	X (milk) Y	доить	X (доить) Y-а	daila-	NOM	ACC	TR	TR							Заимствование из русского
+56	Udihe	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	iiŋ-	NOM	LOC	Y	NOM_LOC							
+56	Udihe	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	tuŋga-la-	NOM	LOC	Y	NOM_LOC							Не рукой! -la: SING (видимо, сингулятив).C23
+56	Udihe	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	w'ali-	NOM	INS	Y	NOM_INS							
+56	Udihe	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	andasi-	NOM	INS	Y	NOM_INS							
+56	Udihe	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	məisi-	NOM	ACC	TR	TR							Более естествен контекст с СА
+56	Udihe	26	eat	X (eat) Y	есть	X (есть) Y	diga-	NOM	ACC	TR	TR							
+56	Udihe	27	fry	X (fry) Y	жарить	X (жарить) Y	kakčisi-	NOM	ACC	TR	TR							
+56	Udihe	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	alasi-	NOM	ACC	TR	TR							
+56	Udihe	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	oŋmo-	NOM	ACC	TR	TR							"Хороший перевод именно для ""забыть о дороге"" найти не удалось. После повторного вопроса ЕВП написала, что глагол oŋmo- существует и требует винительного падежа, как в таком примере: ""Вот пример из сказки, записанной Шнейдером (Tiŋməlehənʒī) oŋmo-h-oni            ami-ni        gəgbi-wə-ni. (как упал, так и) забыл имя отца. забыть-PST-3Sg   отец-3Sg   имя-ACC-3Sg (Обратите внимание на порядок слов: информационная структура такая)"" Условно фиксирую вот эту переходную конструкцию, хотя это и не совсем то, что нужно."
+56	Udihe	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	*	*								Не удалось найти перевод
+56	Udihe	31	call	X (call) Y	звать	X (звать) Y-а	gələ-	NOM	ACC	TR	TR							"Это многозначный глагол: еще значит 'хотеть' и 'просить'. Но основной способ выражения желания -- суффикс. Наверное, можно засчитать. ЕВП написала так: ""Значения gele- по Николаевой: wish, ask, need, invite, call. Такое модальное значение “желание, чтобы кто-то или что-то было у меня или рядом со мной»"""
+56	Udihe	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	*	*	*	*								"Получено такое: Х Y-INSTR RECP (местоимение) узнали (т.е. [Петя с Машей]  узнали друг друга). Строго говоря, пример, который мне дали, как следует из ответа ЕВП, это конструкция с сочиненной (по комитативному типу) ИГ в позиции подлежащего и местоимением ""друг друга"". Т.е. не та структура, которую я хотел бы получить. Не засчитываю."
+56	Udihe	33	know	X (know) Y	знать 	X (знать) Y-а	sə-	NOM	ACC	TR	TR							"Это то же, что ""понимать"" (78)"
+56	Udihe	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	gusi-	NOM	INS	Y	NOM_INS							
+56	Udihe	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	susa-wasi-	NOM	ABL	Y	NOM_ABL							"run.away-Div- DIV -- это ""диверсатив"", ЕВП: ""делать что-то (часто с глаголами движения, но не обязательно)  в разных направлениях или в разных местах или без определенной цели. Например, «геологи ищут золото»"""
+56	Udihe	36	make	X (make) Y	изготовить	X (изготовить) Y	o-	NOM	ACC	TR	TR							
+56	Udihe	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	kəsə-we-li-	NOM	ACC	TR	TR							CAUS, INCH
+56	Udihe	38	have	X (have) Y	иметь	X (иметь) Y	(COP)	NOM	ORN	Y	NOM_ORN							Вообще-то деривационный аффикс -- Ornative (с машиной). У Булатовой и Гренобль описывается как POSS.
+56	Udihe	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	galaktə-	NOM	ACC	TR	TR							
+56	Udihe	40	paint	X (paint) Y	красить	X (красить) Y	kraskala-	NOM	ACC	TR	TR							
+56	Udihe	41	bite	X (bite) Y	кусать	X (кусать) Y-а	iktəmə-lə-	NOM	ACC	TR	TR							bite-SING
+56	Udihe	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	*	*	*	*								"Только ""остаться без дома"""
+56	Udihe	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	zawa-kcə-	NOM	ACC	TR	TR							«ловит, убить хочет». Суффикс PROSP (проспектив, дезидератив == собирается что-то сделать)
+56	Udihe	44	break	X (break) Y	ломать	X (ломать) Y	buktali-	NOM	ACC	TR	TR							
+56	Udihe	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*	*	*	*								Нет эквивалент
+56	Udihe	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	aju-	NOM	ACC	TR	TR							То же, что любить-2
+56	Udihe	47	wave	X (wave) Y	махать	X (махать) Y-ом	akpi-	NOM	INS	Y	NOM_INS							
+56	Udihe	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*	*	*								"Удалось получить только перевод в значении ""думать о чем-то"", да и то лучше СА (думает купить новую машину)"
+56	Udihe	49	wash	X (wash) Y	мыть	X (мыть) Y	siki-	NOM	ACC	TR	TR							
+56	Udihe	50	put_on	X (put_on) Y	надевать	X (надевать) Y	təti-gi-	NOM	ACC	TR	TR							REFL
+56	Udihe	51	be_called	X (be_called) Y	называться	X (называться) Y	*	*	*	*								Трансимперсонал
+56	Udihe	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*	*	*								Нет перевода
+56	Udihe	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	xokco-	NOM	DIR	Y	NOM_DIR							
+56	Udihe	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	sabda- (tääsi )	ACC	NOM	Х	ACC_NOM							Там буквально пример такой: ведро(ACC) полный вода(NOM) накапала
+56	Udihe	55	find	X (find) Y	находить	X (находить) Y(-а)	b'a-gi-	NOM	ACC	TR	TR							REFL
+56	Udihe	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	ə-i-ni iinə	DAT	NOM	Х	DAT_NOM							NEG + 'come'
+56	Udihe	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	galu-	NOM	ACC	TR	TR							
+56	Udihe	58	like	X (like) Y	нравиться	X-у (нравиться) Y	čaalə-	NOM	ACC	TR	TR							‘желает, выбирает’
+56	Udihe	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	zokco-	NOM	INS	Y	NOM_INS							Букв.: «бедствует с деньгами»
+56	Udihe	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	?	*	*	*								Получен какой-то ошметок предложения
+56	Udihe	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	osi-gi-	DAT	NOM	Х	DAT_NOM							REFL
+56	Udihe	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	diaŋ-	NOM	DIR	Y	NOM_DIR							Вообще-то этот тот же глагол, что в (17), но там произошли какие-то изменения в облике глагола (аллегровая речь и т.д.). Условно записываю снову так, как она была в конкретном переводе.
+56	Udihe	63	open	X (open) Y	открывать	X (открывать) Y	nienti-lə-	NOM	ACC	TR	TR							SING
+56	Udihe	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	xonto	NOM	ABL	Y	NOM_ABL							NV. 'другой'
+56	Udihe	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	amääsa-	NOM	ABL	Y	NOM_ABL							букв.: 'stay behind'
+56	Udihe	66	plough	X (plough) Y	пахать	X (пахать) Y	gəŋculə-	NOM	ACC	TR	TR							Это отыменной предикат, образован от слова 'лопата', которое может быть выражено в инструментальной позиции
+56	Udihe	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	*	*								Есть специальный суффикс, который образует непереходный глагол со следующей структурой: petrol-smell.with-3Sg
+56	Udihe	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	dau-	NOM	ACC	TR	TR							
+56	Udihe	69	sing	X (sing) Y	петь	X (петь) Y	jəxə-	NOM	ACC	TR	TR							
+56	Udihe	70	write	X (write) Y	писать	X (писать) Y	oño-	NOM	ACC	TR	TR							Букв.: make.pattern
+56	Udihe	71	drink	X (drink) Y	пить	X (пить) Y	umnasi-	NOM	ACC	TR	TR							
+56	Udihe	72	melt	X (melt) Y	плавить	X (плавить) Y	unə-wə-	NOM	ACC	TR	TR							CAUS
+56	Udihe	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	asə-	NOM	DIR	Y	NOM_DIR							
+56	Udihe	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	nodo-	NOM	ACC	TR	TR							Это то же, что терять (103)
+56	Udihe	75	cover	X (cover) Y	покрывать	X (покрывать) Y	likpi-	NOM	ACC	TR	TR							Возможен немаркированный (DOM)
+56	Udihe	76	remember	X (remember) Y	помнить	X (помнить) Y-а	zoŋi-	NOM	ACC	TR	TR							Время от времени вспоминает. Используется IPFV
+56	Udihe	77	help	X (help) Y	помочь	X (помогать) Y-у	bələsi-	NOM	ACC	TR	TR							
+56	Udihe	78	understand	X (understand) Y	понимать	X (понимать) Y	sə-	NOM	ACC	TR	TR							"Это то же, что ""знать"" (33)"
+56	Udihe	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	agdinda-	NOM	DAT	Y	NOM_DAT							
+56	Udihe	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	əndə-	NOM	INS	Y	NOM_INS							
+56	Udihe	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	lagbaŋ-	NOM	LOC	Y	NOM_LOC							Вообще-то в переводе появляется послелог, но он не имеет прямого отношения к глаголу и появляется из-за конкретной пространственной кофигурации
+56	Udihe	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	*	*	*	*								Нет перевода
+56	Udihe	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	agda-	*	*	*								То же, что 112. В переводе используется сентенциальный актант. В форме презенса есть чередование
+56	Udihe	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	diɣa-	NOM	DIR	Y	NOM_DIR							Альтернатива -- INSTR
+56	Udihe	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	b'a-	NOM	ACC	TR	TR							"Буквально: ""найти"""
+56	Udihe	86	drop	X (drop) Y	ронять	X (ронять) Y	tugbu-	NOM	ACC	TR	TR							Возможен немаркированный (DOM)
+56	Udihe	87	govern	X (govern) Y	руководить	X (руководить) Y	*	*	*	*								"Перевод не получен (только ""стал начальником в L"")"
+56	Udihe	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	*	*	*	*								"Получен только перевод с глаголом ""думать"" (ср. 25)"
+56	Udihe	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*	*	*								"Получен только перевод, который буквально значит ""идти сзади кого-то"" (послелог)"
+56	Udihe	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	əugi-	NOM	ABL	Y	NOM_ABL							
+56	Udihe	91	listen	X (listen) to Y	слушать	X (слушать) Y	düi-si-	NOM	ACC	TR	TR							IMPFV, то же, что 93
+56	Udihe	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	*	*	*	*								"Либо ""слышит мать"", либо ""слышит то, что говорит мать"""
+56	Udihe	93	hear	X (hear) Y	слышать	X (слышать) Y	düi-si-	NOM	ACC	TR	TR							IMPFV, то же, что 91
+56	Udihe	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	solü-	NOM	INS	Y	NOM_INS							
+56	Udihe	95	look	X (look) at Y	смотреть	X (смотреть) на Y	isə-si-	NOM	DIR	Y	NOM_DIR							"IMPFV. В принципе это некий аспектуальный дериват от isə-, ""видеть"""
+56	Udihe	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	asta-	NOM	ACC	TR	TR							
+56	Udihe	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	t'osi-	NOM	ACC	TR	TR							
+56	Udihe	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	*	*	*	*								Только СА и к тому же это не специализированный глагол: Петя услышал то, что сказала М.
+56	Udihe	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	*	*	*	*								Нет перевода
+56	Udihe	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	bi-	NOM	NOM	Y	NOM_NOM							"Букв. ""быть"""
+56	Udihe	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	gakpa-	NOM	ACC	TR	TR							
+56	Udihe	102	pour	X (pour) Y	сыпать	X (сыпать) Y	kuŋgədə-	NOM	ACC	TR	TR							
+56	Udihe	103	lose	X (lose) Y	терять	X (терять) Y	nodo-	NOM	ACC	TR	TR							Это то же, что покидать (74)
+56	Udihe	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	juu-	NOM	LOC	Y	NOM_LOC							
+56	Udihe	105	kill	X (kill) Y	убивать	X (убивать) Y-а	wa-	NOM	ACC	TR	TR							
+56	Udihe	106	hit	X (hit) Y	ударить	X (ударять) Y-а	duktə-	NOM	ACC	TR	TR							
+56	Udihe	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	ñuɣasi-	NOM	ACC	TR	TR							
+56	Udihe	108	read	X (read) Y	читать	X (читать) Y-а	taŋi-	NOM	ACC	TR	TR							
+56	Udihe	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	ugi-wəŋ-	NOM	ACC	TR	TR							CAUS
+56	Udihe	110	respect	X (respect) Y	уважать	X (уважать) Y-а	čəzə-	NOM	ACC	TR	TR							Изначально было получено TR для этого примера, см. обсуждение в 7. Вообще странно, что перевод для уважать такой же, как для верить, но из комментария ЕВП следует, что это в принципе более или менее адекватно.
+56	Udihe	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*	*	*								"""Сомнительный пример"". Видимо, ""информанта долго мучали"" (СО). См. реакцию ЕВП в файле -- тот перевод, который был получен имеет ужасно нечеткую структуру."
+56	Udihe	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	agdа-	NOM	INS	Y	NOM_INS							То же, что в 83. Что-то вроде чередования (возможно, на уровне аллофонов): agda > agdə
+56	Udihe	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	aju-li-	NOM	ACC	TR	TR							INCH
+56	Udihe	114	trust	X (trust) Y	доверять	X (доверять) Y-у	čəzə-	*	*	*								"То же, что ""верить"" (7) и даже ""уважать"" (110), см. обсуждение там. Решил отдельно не засчитывать, потому что и с (7) были проблемы, а это еще и периферийное значение"
+56	Udihe	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	nantə-	NOM	ACC	TR	TR							
+56	Udihe	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	*	*	*	*								Не удалось получить перевод
+56	Udihe	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	tagdа-	NOM	DIR	Y	NOM_DIR							То же, что 122 и 123, правда происходит что-то вроде чередования в корне в форме презенса
+56	Udihe	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	xuenə-	NOM	ACC	TR	TR							"СО: В других языках родственное слово обозначает также ""замечать; обнаружить; подозревать""."
+56	Udihe	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	aju-	NOM	ACC	TR	TR							То же, что любить (+ INCH = влюбляться)
+56	Udihe	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	*	*	*	*								Не удалось получить перевод
+56	Udihe	121	want	X (want) Y	хотеть	X (хотеть) Y-а	gələ-	NOM	ACC	TR	TR							
+56	Udihe	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	tagda-	NOM	DIR	Y	NOM_DIR							То же, что (123) и 117
+56	Udihe	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	tagda-	NOM	DIR	Y	NOM_DIR							То же, что (122) и 117
+56	Udihe	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	tagda-waŋ-	NOM	ACC	TR	TR							CAUS
+56	Udihe	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*	*	*								"Получен только перевод ""полюбил"""
+56	Udihe	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*	*	*								Нет перевода
+56	Udihe	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	*	*	*	*								Нет перевода
+56	Udihe	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	*	*	*	*								Нет адекватного перевода
+56	Udihe	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*								Нет адекватного перевода (только любить)
+56	Udihe	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	xagzə-	*	*	*								"К сожалению, получен только перевод с СА (""стесняется того, что вырос маленьким"")"

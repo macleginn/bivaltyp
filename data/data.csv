@@ -129,136 +129,136 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 81	128	раздражаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 81	129	симпатизировать	begemiš-tːi + ‘be’	DAT	ABS	X	DAT_ABS	aslan.a-s meʜemed begemiš-tːi a	PN-DAT PN <like>-ADV {IN}be:PRS	‘Aslan is fond of Muhammad.’	Non-verbal predicate.	PN-DAT PN <нравиться>-ADV {IN}быть:PRS	‘Аслан симпатизирует Магомеду.’		
 81	130	стесняться	neč-tːi + ‘be’	DAT	SUBCONT.ELAT	XY	DAT_SUBCONT.ELAT	aslan.a-s uč.i-n ǯiqːe-ʕʷel.i-k-as neč-tːi a	PN-DAT self-GEN short-ABSTR-SUB/CONT-ELAT shame-ADV {IN}be:PRS	‘Aslan is shy about his height.’	Non-verbal predicate.	PN-DAT сам-GEN короткий-ABSTR-SUB/CONT-ELAT стыд-ADV {IN}быть:PRS	‘Аслан стесняется своего маленького роста.’		
-85	1	болеть-1	ruqχ’.u	GEN	NOM	X	GEN_NOM	ali-r miar ruqχ’.u-r	PN.OBL-INAN2(GEN) head[INAN2][NOM] ache.PST-PROG	‘Ali has a headache.’					
-85	2	болеть-2	ruqχ’.udo	NOM	COM	Y	NOM_COM	ali ruqχ’.udo honqχ’isːol=loj	PN[M][NOM] ache.PST.PRS influenza=COM	‘Ali has the flu.’					
+85	1	болеть-1	ruqχ’.u	GEN	NOM	X	GEN_NOM	ali-r mijar ruqχ’.u-r	PN.OBL-INAN2(GEN) head[INAN2][NOM] ache.PST-PROG	‘Ali has a headache.’					
+85	2	болеть-2	ruqχ’udo	NOM	COM	Y	NOM_COM	ali ruqχ’udo honqχisːol=loj	PN[M][NOM] being_ill influenza=COM	‘Ali has the flu.’	Non-verbal predicate.				
 85	3	бояться	sːir.i	NOM	CONT	Y	NOM_CONT	ali χʷe-tʃ’u sːir.i-r	PN[M][NOM] dog.OBL-CONT fear.PST-PROG	‘Ali fears the dog.’					
 85	4	бросить	ʃamm.i	ERG	NOM	TR	TR	ali-di hints’o ʃamm.i	PN-ERG stone[INAN1][NOM] throw.PST(AOR)	‘Ali threw a stone.’					
 85	5	быть достаточно	<b>-iʔ.u-mallo 	DAT	NOM	X	DAT_NOM	ali-ɬu orsi b-iʔ.u-mallo	PN-DAT money[INAN1][NOM] INAN1-be_enough.PST-PROG	‘Ali has enough money.’					
-85	6	быть похожим	a<w>ɬin	NOM	AFF	Y	NOM_AFF	ali a<w>ɬin muħammadi-<w>o	PN[M][NOM] resemblant<M> PN-AFF<M>	‘Ali resembles Muhammad.’					
-85	7	верить	buʒ.u	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali buʒ.u-r mariam-ʔo	PN[M][NOM] believe.PST-PROG PN-SUPER.LAT	‘Ali believes Mariam.’					
+85	6	быть похожим	a<w>ɬin	NOM	AFF	Y	NOM_AFF	ali a<w>ɬin muħammadi-<w>o	PN[M][NOM] resemblant<M> PN-AFF<M>	‘Ali resembles Muhammad.’	Non-verbal predicate.				
+85	7	верить	buʒ.u	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali buʒ.u-r marjam-ʔo	PN[M][NOM] believe.PST-PROG PN-SUPER.LAT	‘Ali believes Mariam.’					
 85	8	взять	<r>-iχ.i	ERG	NOM	TR	TR	ali-di χutʃa r-iχ.i	PN-ERG book[INAN2][NOM] INAN2-take.PST(AOR)	‘Ali took a book.’					
 85	9	видеть	haʔ.o	AFF	NOM	X	AFF_NOM	pat’imati-<b>o haʔ.o-r milki	PN-AFF<INAN1> see.PST-PROG house[INAN1][NOM]	‘Patimat sees a house.’					
-85	10	влиять	*	*	*	*		zaman b-uʔonn.i-r-qχi pamjat b-itʃ’.o-r	time INAN1-go.PST-PROG-INST memory INAN1-die.PST-PROG	‘With time passing, memory dies.’	Not included in the dataset because the translation deviates too far from the stimulus sentence. 				
+85	10	влиять	*	*	*	*		zaman b-uʔonn.i-r-qχi pamjat b-itʃ’.o-r	time INAN1-go.PST-MSD-INST memory INAN1-die.PST-PROG	‘With time passing, memory dies.’	Not included in the dataset because the translation deviates too far from the stimulus sentence. 				
 85	11	встречаться	badi <w>-ukː.u	AFF	NOM	X	AFF_NOM	ali-<w>o badi aliħadʒi w-ukː.u	PN-AFF<M> forth PN[M][NOM] M-fall.PST(AOR)	‘Ali met Aligaji’					
-85	12	входить 	kab.i	NOM	ILLAT	Y	NOM_ILLAT	ali harqχ’u-di kab.i	PN[M][NOM] room.OBL-ILLAT enter.PST(AOR)	‘Ali entered the room.’					
-85	13	выиграть	<w>-uʃ.a	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo	PN[M][NOM] M-win.PST(AOR) chess-? PN-SUPER.LAT	‘Ali won over Umar at chess.’					
+85	12	входить 	kab.i	NOM	ILLAT	Y	NOM_ILLAT	ali haqχ’u-di kab.i	PN[M][NOM] room-ILLAT enter.PST(AOR)	‘Ali entered the room.’					
+85	13	выиграть	<w>-uʃ.a	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali w-uʃ.a ʃaχmata-tɬo umarħadʒi-ʔo	PN[M][NOM] M-win.PST(AOR) chess-? PN-SUPER.LAT	‘Ali won over Umargaji at chess.’					
 85	14	выходить	<w>-uʔ.on	NOM	IN.EL	Y	NOM_IN.EL	ali w-uʔ.on iʃu-kːu	PN[M][NOM] M-go.PST(AOR) home.IN-EL	‘Ali went out of the house.’					
-85	15	гнать	<b>-uqχ’.i-r	ERG	NOM	TR	TR	ali-di ziw̃ b-uqχ’.i-r alaχil-ʔo	PN-ERG cow[AN][NOM] AN-push.PST-PROG pasture-SUPER.LAT	‘Ali pushes the cow to the pasture.’					
-85	16	гнуть	tʃ’ab-oɬ.i	ERG	NOM	TR	TR	pat’imati-di anɡa tʃ’ab-oɬ.i	PN-ERG branch[INAN1][NOM] bend_oneself-CAUS.PST(AOR)	‘Patimat bent the branch.’					
-85	17	говорить	rutɬ.i:	ERG	INST	Y	ERG_INST	ali-di umarħadʒi-qχi rutɬ.i: “…”	PN-ERG PN-INST say.PST(AOR)	‘Ali said to Umagaji: “…”’					
-85	18	держать	0	CONT	NOM	X	CONT_NOM	ali-tʃ’u kodu χutʃa	PN-CONT hands.IN book[INAN2][NOM]	‘Ali is holding a book.’					
-85	19	догнать	<w>-eχːudu <w>-oqχ.o-j	NOM	CONT	Y	NOM_CONT	ali muħammadi-tʃ’u w-eχːudu w-oqχ.o-j	PN[M][NOM] PN-CONT M-after M-reach.PST-PF	‘Ali reached Muhammad.’					
+85	15	гнать	<b>-uqχ’.i-r	ERG	NOM	TR	TR	ali-di ziw̃ b-uqχ’.i-r alaχil-ʔo	PN-ERG cow[AN][NOM] AN-displace.PST-PROG pasture-SUPER.LAT	‘Ali drives the cow to the pasture.’					
+85	16	гнуть	tʃ’ab-oɬ.i	ERG	NOM	TR	TR	pat’imati-di anɡa tʃ’ab-oɬ.i	PN-ERG branch[INAN1][NOM] bend-CAUS.PST(AOR)	‘Patimat bent the branch.’					
+85	17	говорить	rutɬ.i:	ERG	INST	Y	ERG_INST	ali-di umarħadʒi-qχi rutɬ.i: “…”	PN-ERG PN-INST say.PST(AOR)	‘Ali said to Umargaji: “…”’					
+85	18	держать	0	CONT	NOM	X	CONT_NOM	ali-tʃ’u kodu χutʃa	PN-CONT hands.IN book[INAN2][NOM]	‘Ali is holding a book.’	Non-verbal predicate.				
+85	19	догнать	<w>-eχudu <w>-oqχ.o-j	NOM	CONT	Y	NOM_CONT	ali muħammadi-tʃ’u w-eχudu w-oqχ.o-j	PN[M][NOM] PN-CONT M-after M-reach.PST-PF	‘Ali caught up with Muhammad.’					
 85	20	доить	<b>-ertʃ’.u	ERG	NOM	TR	TR	pat’imati-di b-ertʃ’.u ziw̃	PN-ERG AN-milk.PST(AOR) cow[AN][NOM]	‘Patimat milked the cow.’					
 85	21	достичь	<w>-oqχ.o	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali rahal-ʔo w-oqχ.o	PN[M][NOM] bank.OBL-SUPER.LAT M-reach.PST(AOR)	‘Ali reached the river bank.’					
 85	22	дотронуться	reʔa ob.i	ERG	SUPER	Y	ERG_SUPER	ali-di reʔa ob.i qχ’enno-ʔa	PN-ERG hand[INAN2][NOM] touch.PST(AOR) wall.OBL-SUPER	‘Ali touched the wall.’					
-85	23	драться	<w>-aχː.o-j	NOM	COM	Y	NOM_COM	ali aħmadi=lojɡu w-aχː.o-j	PN[M][NOM] PN.OBL=COM M-fight.PST-PF	‘Ali and Ahmad are fighting.’					
-85	24	дружить	homoloʁi-ɬir-ʔa	NOM	COM	Y	NOM_COM	ali homoloʁi-ɬir-ʔa qχ’urban=noj	PN[M][NOM] friend-ABST-SUPER PN=COM	‘Ali is friends with Qurban.’					
+85	23	драться	<w>-aχː.o-j	NOM	COM	Y	NOM_COM	ali aħmadi=lojɡu w-aχː.o-j	PN[M][NOM] PN=COM M-fight.PST-PF	‘Ali and Ahmad are fighting.’					
+85	24	дружить	homoloʁi-ɬir-ʔa	NOM	COM	Y	NOM_COM	ali homoloʁi-ɬir-ʔa qχ’urban=noj	PN[M][NOM] friend-ABST-SUPER PN=COM	‘Ali is friends with Qurban.’	Non-verbal predicate.				
 85	25	думать	urʁ.u-mallo	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali urʁ.u-mallo umarħadʒi-ʔo	PN[M][NOM] think.PST-PROG PN-SUPER.LAT	‘Ali is thinking about Umargaji.’					
 85	26	есть	k’amm.i	ERG	NOM	TR	TR	ali-di intʃi k’amm.i	PN-ERG apple[INAN1][NOM] eat.PST(AOR)	‘Ali ate an apple.’					
 85	27	жарить	<b>-eʒ.a	ERG	NOM	TR	TR	pat’imati-di b-eʒ.a χʷammi	PN-ERG INAN1-brown.PST(AOR) fish[INAN1][NOM]	‘Patimat fried a fish.’					
-85	28	ждать	tʃ’on	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imati mariam-ʔo tʃ’on	PN[F][NOM] PN[F]-SUPER.LAT stand_waiting.PST(AOR)	‘Patimat is waiting for Mariam.’					
+85	28	ждать	tʃ’on	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imati marjam-ʔo tʃ’on	PN[F][NOM] PN[F]-SUPER.LAT stand_waiting.PST(AOR)	‘Patimat is waiting for Mariam.’					
 85	29	забывать	retʃː.o-j	AFF	NOM	X	AFF_NOM	ali-<b>o se-b=lo miqχ’i retʃː.o-j	PN-AFF<INAN1> one-INAN1=ADD road[INAN1][NOM] forget.PST-PF	‘Ali forgot about the other road.’					
-85	30	зависеть	*	*	*	*		aqχ’ulo r-uʔ.inn-ija w-oχːor-l’ir-qχi	knowledge INAN2-go.NPST-PTCP.NPST M-old-ABST-INST	‘Memory goes away with age.’	Not included in the dataset because the translation deviates too far from the stimulus sentence. 				
+85	30	зависеть	*	*	*	*		aqχ’ulo r-uʔ.inn-ija w-oχːor-ɬir-qχi	knowledge INAN2-go.NPST-FUT M-old-ABST-INST	‘Memory goes away with age.’	Not included in the dataset because the translation deviates too far from the stimulus sentence. 				
 85	31	звать	qχ’or.i	ERG	NOM	TR	TR	pat’imati-di muħammad qχ’or.i	PN-ERG PN[M][NOM] call.PST(AOR)	‘Patimat called Muhammad.’					
-85	32	знакомиться	ts’inn.i j-iʁ.i	AFF	NOM	X	AFF_NOM	pat’imati-<j>o sːobɡu ts’inn.i j-iʁ.i mariam.	PN-AFF<F> a_year_ago know.PST(AOR) F-stop.PST(AOR) PN[F][NOM]	‘Patimat met Mariam a year ago.’					
-85	33	знать 	ts’inn-e	AFF	NOM	X	AFF_NOM	ali-<j>o ts’inn-e mariam.	PN-AFF<F> know-HAB PN[F][NOM]	‘Ali knows Mariam.’					
-85	34	играть	qχʷar.i-r	ERG	NOM	TR	TR	pat’imati-di pandur qχʷar.i-r.	PN-ERG guitar[INAN1][NOM] write.PST-PROG	‘Patimat is playing the guitar.’					
-85	35	избегать	<w>-utʃ’.u-mado	NOM	CONT.EL	Y	NOM_CONT.EL	ali muħammadi-tʃ’u-kːu w-utʃ’.u-mado.	PN[M][NOM] PN.OBL-CONT-EL M-?.PST-PROG	‘Ali is avoiding Muhammad.’					
+85	32	знакомиться	ts’inn.i j-iʁ.i	AFF	NOM	X	AFF_NOM	pat’imati-<j>o sːobɡu ts’inn.i j-iʁ.i marjam.	PN-AFF<F> a_year_ago know.PST(AOR) F-stop.PST(AOR) PN[F][NOM]	‘Patimat met Mariam a year ago.’					
+85	33	знать 	ts’inn-e	AFF	NOM	X	AFF_NOM	ali-<j>o ts’inn-e marjam.	PN-AFF<F> know-HAB PN[F][NOM]	‘Ali knows Mariam.’					
+85	34	играть	qχʷar.i-r	ERG	NOM	TR	TR	pat’imati-di pandur qχʷar.i-r.	PN-ERG guitar[INAN1][NOM] play.PST-PROG	‘Patimat is playing the guitar.’					
+85	35	избегать	<w>-utʃ’.u-mado	NOM	CONT.EL	Y	NOM_CONT.EL	ali muħammadi-tʃ’u-kːu w-utʃ’.u-mado.	PN[M][NOM] PN-CONT-EL M-avoid.PST-PROG	‘Ali is avoiding Muhammad.’					
 85	36	изготовить	dʒid.i	ERG	NOM	TR	TR	ali-di bomba dʒid.i.	PN-ERG bomb[INAN1][NOM] make.PST(AOR)	‘Ali made a bomb.’					
 85	37	издеваться	<j>-eɬː-o	NOM	SUPER	Y	NOM_SUPER	pat’imati muħammadi-ʔa j-eɬː-o	PN[F][NOM] PN-SUPER F-laugh-HAB	‘Patimat is laughing at Muhammad.’					
-85	38	иметь	dʒi	GEN	NOM	X	GEN_NOM	ali-b dʒi maʃina.	PN-INAN1(GEN) COP car[INAN1][NOM]	‘Ali has a car.’					
-85	39	искать	kusd.i-r	ERG	NOM	TR	TR	pat’imati-di kusd.i-r rek’ulol.	PN-ERG search.PST-PROG key[INAN2].PL[NOM]	‘Patimat is looking for the key.’					
+85	38	иметь	dʒi	GEN	NOM	X	GEN_NOM	ali-b dʒi maʃina.	PN-INAN1(GEN) COP car[INAN1][NOM]	‘Ali has a car.’	Non-verbal predicate.				
+85	39	искать	kusd.i-r	ERG	NOM	TR	TR	pat’imati-di kusd.i-r rek’ulol.	PN-ERG search.PST-PROG key[INAN2].PL[NOM]	‘Patimat is looking for the keys.’					
 85	40	красить	buʃ.o	ERG	NOM	TR	TR	ali-di qχen buʃ.o.	PN-ERG wall[INAN1][NOM] smear.PST(AOR)	‘Ali painted the wall.’					
 85	41	кусать	qχ’amm.i-j	ERG	SUPER	Y	ERG_SUPER	χʷedo-di qχ’amm.i-j pat’imati-ʔa.	dog.OBL-ERG bite.PST-PF PN-SUPER	‘The dog bit Patimat.’					
 85	42	лишаться	<w>-at’a-ɬ.i-j	NOM	CONT.EL	Y	NOM_CONT.EL	ali milki-tʃ’u-kːu w-at’a-ɬ.i-j	PN[M][NOM] house-CONT-EL M-separate-INCH.PST-PF	‘Ali lost his house.’					
 85	43	ловить	<b>-itʃː.i-r	ERG	NOM	TR	TR	ali-di ɡedu b-itʃː.i-r.	PN-ERG cat[AN][NOM] AN-catch.PST-PROG	‘Ali is catching the cat.’					
-85	44	ломать	<r>-iqχ-onɬ.i	ERG	NOM	TR	TR	ali-di ts’ur r-iqχ-onɬ.i.	PN-ERG stick[INAN2][NOM] INAN2-break_oneself-CAUS.PST(AOR)	‘Ali broke the stick.’					
-85	45	льстить	*	*	*	*		pat’imati-di mariam j-etsːiqχ-o.	PN-ERG PN[F][NOM] F-praise-HAB	‘Patimat is praising Mariam.’	Not included in the database because this translation is semantically inaccurate.				
-85	46	любить-1	dʒiʔ.i-r	AFF	NOM	X	AFF_NOM	pat’imati-<j>o dʒiʔ.i-r mariam.	PN-AFF<F> like.PST-PROG PN[F][NOM]	‘Patimat likes Mariam.’					
-85	47	махать	xʷaʔi-la	NOM	INST	Y	NOM_INST	pat’imati k’azil-qχi xʷaʔi-la	PN[F][NOM] shawl.OBL-INST waving-IN	‘Patimat is waving with her shawl.’					
-85	48	мечтать	aniʃːi	GEN	NOM	X	GEN_NOM	ali-b aniʃːi tsiw̃ maʃina	PN-INAN1(GEN) dream[INAN1][NOM] new car[INAN1][NOM]	‘Ali dreams of a new car.’					
+85	44	ломать	<r>-iqχ-onɬ.i	ERG	NOM	TR	TR	ali-di ts’ur r-iqχ-onɬ.i.	PN-ERG stick[INAN2][NOM] INAN2-break-CAUS.PST(AOR)	‘Ali broke the stick.’					
+85	45	льстить	*	*	*	*		pat’imati-di marjam j-etsːiqχ-o.	PN-ERG PN[F][NOM] F-praise-HAB	‘Patimat praises Mariam.’	Not included in the database because this translation is semantically inaccurate.				
+85	46	любить-1	dʒiʔ.i-r	AFF	NOM	X	AFF_NOM	pat’imati-<j>o dʒiʔ.i-r marjam.	PN-AFF<F> like.PST-PROG PN[F][NOM]	‘Patimat likes Mariam.’					
+85	47	махать	xʷaʔi-la	NOM	INST	Y	NOM_INST	pat’imati k’azil-qχi xʷaʔi-la	PN[F][NOM] shawl.OBL-INST wave-PRS	‘Patimat is waving her shawl.’					
+85	48	мечтать	aniʃːi	GEN	NOM	X	GEN_NOM	ali-b aniʃːi ts’ːiw maʃina	PN-INAN1(GEN) dream[INAN1][NOM] new car[INAN1][NOM]	‘Ali dreams of a new car.’	Non-verbal predicate.				
 85	49	мыть	a<r>tʃ.o-j	ERG	NOM	TR	TR	pat’imati-di a<r>tʃ.o-j tʃinɡil	PN-ERG wash<INAN2>.PST-PF cup[INAN2][NOM]	‘Patimat washed the cup.’					
 85	50	надевать	ritɬ’.inn-ij	ERG	NOM	TR	TR	ali-di ritɬ’.inn-ij ortʃoɡi	PN-ERG put_on.PST-PF trousers[INAN1][NOM]	‘Ali put on trousers.’					
-85	51	называться	ts’er	SUPER.LAT	NOM	X	SUPER.LAT_NOM	he-b dan-ʔo ts’er qχ’ilba	DEM-INAN1 thing[INAN1]-SUPER.LAT name[INAN2][NOM] compass	‘This thing is called a compass.’					
+85	51	называться	ts’er	SUPER.LAT	NOM	X	SUPER.LAT_NOM	he-b dan-ʔo ts’er qχ’ilba	DEM-INAN1 thing[INAN1]-SUPER.LAT name[INAN2][NOM] compass	‘This thing is called a compass.’	Non-verbal predicate.				
 85	52	наказывать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
 85	53	напасть	ɬib.i-j  hiʔo 	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	sej ɬib.i-j hiʔo χʷammi b-itʃː.i-r-sːi hek’ʷaʃ-ʔo	bear[AN][NOM] jump.PST-PF up.LAT fish[AN][NOM] AN-catch.PST-PROG-ATR person.OBL-SUPER.LAT	‘The bear attacked the fisherman.’					
-85	54	наполняться	<b>-its’.i-j	NOM	INST	Y	NOM_INST	vedra ɬen-di b-its’.i-j	bucket[INAN1][NOM] water-INST INAN1-fill.PST-PF	‘The bucket has filled up with water.’					
+85	54	наполняться	<b>-its’.i-j	NOM	ERG	Y	NOM_ERG	vedra ɬen-di b-its’.i-j	bucket[INAN1][NOM] water-ERG INAN1-fill.PST-PF	‘The bucket has filled up with water.’					
 85	55	находить	r-osː.onn-ij	AFF	NOM	X	AFF_NOM	pat’imati-<r>o r-osː.onn-ij rek’ulol	PN-AFF<INAN2> INAN2-PL\find.PST-PF keys[INAN2].PL[NOM]	‘Patimat has found the keys.’					
-85	56	недоставать	b-iʔ.u-mado-sːu	DAT	NOM	X	DAT_NOM	ali-ɬu sːe-b som b-iʔ.u-mado-sːu	PN-DAT one-INAN1 rouble INAN1-be_enough.PST-PROG-NEG	‘Ali is missing one rouble.’					
-85	57	ненавидеть	*	*	*	*		pat’imati-<j>o dʒiʔ.i-r-sːu mariam	PN-AFF<F> like.PST-PROG-NEG PN[F][NOM]	‘Patimat doesn’t like Mariam.’	Not included in the database because this translation is semantically inaccurate.				
+85	56	недоставать	b-iʔ.u-mado- + NEG	DAT	NOM	X	DAT_NOM	ali-ɬu sːe-b som b-iʔ.u-mado-sːu	PN-DAT one-INAN1 rouble INAN1-be_enough.PST-PROG-NEG	‘Ali is missing one rouble.’					
+85	57	ненавидеть	*	*	*	*		pat’imati-<j>o dʒiʔ.i-r-sːu marjam	PN-AFF<F> like.PST-PROG-NEG PN[F][NOM]	‘Patimat doesn’t like Mariam.’	Not included in the database because this translation is semantically inaccurate.				
 85	58	нравиться	dʒiʔ.i-j	AFF	NOM	X	AFF_NOM	pat’imati-<r>o dʒiʔ.i-j ɡurdo	PN-AFF<INAN2> like.PST-PF shirt[INAN2][NOM]	‘Patimat likes [this] shirt.’					
 85	59	нуждаться	*	*	*	*		ali-ɬu orsi qχ’oroqχ’.o-j	PN-DAT money want.PST-PF	‘Ali wants/needs money.’	Not included in the database because this translation is semantically inaccurate.				
 85	60	окружать	hinni <b>-iʃ-oɬ.i-j	ERG	NOM	TR	TR	qχ’enada-di hinni b-iʃ-oɬ.i-j ʃahar	wall.PL.OBL-ERG inside.LAT INAN1-return-CAUS.PST-PF town[INAN1][NOM]	‘The walls surround the town.’					
-85	61	оставаться	<b>-ekː.u-j	CONT	NOM	X	CONT_NOM	ali-tʃ’u hots’o=ɡu som b-ekː.u-j	PN-CONT ten=CARD rouble[INAN1][NOM] INAN1-stay.PST-PF	‘Ali has ten roubles left.’					
+85	61	оставаться	<b>-ekː.u-j	CONT	NOM	X	CONT_NOM	ali-tʃ’u hots’o-ɡu som b-ekː.u-j	PN-CONT ten-CARD rouble[INAN1][NOM] INAN1-stay.PST-PF	‘Ali has ten roubles left.’					
 85	62	отвечать	dʒawab itʃː.i	ERG	DAT	Y	ERG_DAT	ali-di utʃitelʃːu-j dʒawab itʃː.i.	PN-ERG teacher.OBL-DAT answer[INAN1][NOM] give.PST(AOR)	‘Ali answered the teacher.’					
 85	63	открывать	arχ.onn-ij	ERG	NOM	TR	TR	pat’imati-di arχ.onn-ij banka.	PN-ERG open.PST-PF tin[INAN1][NOM]	‘Patimat opened the tin.’					
-85	64	отличаться	<b>-at’a	NOM	CONT	Y	NOM_CONT	di-r ɡurdo du-r-tʃ’u b-at’a.	I.OBL-INAN2(GEN) shirt[INAN2][NOM] thou.OBL-INAN2(GEN)-CONT INAN1-separate	‘My shirt is different from yours.’					
-85	65	отстать	<j>-eχːudu <j>-ekː.u-j	NOM	CONT	Y	NOM_CONT	pat’imati mariam-tʃ’u j-eχːudu j-ekː.u-j.	PN[F][NOM] PN-CONT F-after F-stay.PST-PF	‘Patimat fell behind Mariam.’					
+85	64	отличаться	bat’a	NOM	CONT	Y	NOM_CONT	di-r ɡurdo du-r-tʃ’u bat’a.	I.OBL-INAN2(GEN) shirt[INAN2][NOM] thou.OBL-INAN2(GEN)-CONT separate	‘My shirt is different from yours.’	Non-verbal predicate.				
+85	65	отстать	<j>-eχːudu <j>-ekː.u-j	NOM	CONT	Y	NOM_CONT	pat’imati marjam-tʃ’u j-eχːudu j-ekː.u-j.	PN[F][NOM] PN-CONT F-after F-stay.PST-PF	‘Patimat fell behind Mariam.’					
 85	66	пахать	<b>-eqχ’.i-r	ERG	NOM	TR	TR	ali-di b-eqχ’.i-r χur.	PN-ERG INAN1-plough.PST-PROG field[INAN1][NOM]	‘Ali is ploughing the field.’					
 85	67	пахнуть	ʃan (<b>-aχ-o)	CONT.EL	GEN	XY	CONT.EL_GEN	di-r-ul reʔoba-tʃ’u-kːu benzinu-tɬi zolo ʃan (b-aχ.o).	I.OBL-INAN2(GEN)-PL hand.PL.OBL-CONT-EL benzine.OBL-GEN very odour[INAN1][NOM] INAN1-end_up.PST(AOR)	‘My hands smell of benzine very strongly.’					
-85	68	пересечь	buqχ’-i	ERG	NOM	TR	TR	ali-di miqχ’i buqχ’-i.	PN-ERG road[INAN1][NOM] cut.PST(AOR)	‘Ali crossed the road.’					
+85	68	пересечь	<b>-uqχ’-i	ERG	NOM	TR	TR	ali-di miqχ’i b-uqχ’-i.	PN-ERG road[INAN1][NOM] INAN1-displace.PST(AOR)	‘Ali crossed the road.’					
 85	69	петь	qχ’or.i-j	ERG	NOM	TR	TR	pat’imati-di qχ’or.i-j baʁu ketʃ’i.	PN-ERG call.PST-PF beautiful song[INAN1][NOM]	‘Patimat sang a beautifl song.’					
-85	70	писать	qχʷar.i-j	ERG	NOM	TR	TR	pat’imati-di qχʷar.i-j kaʁar.	PN-ERG write.PST-PF lettter[INAN1][NOM]	‘Patimat has written a letter.’					
+85	70	писать	qχʷar.i-j	ERG	NOM	TR	TR	pat’imati-di qχʷar.i-j kaʁar.	PN-ERG write.PST-PF letter[INAN1][NOM]	‘Patimat has written a letter.’					
 85	71	пить	ts’ad.i	ERG	NOM	TR	TR	ali-di ʃiw̃ ts’ad.i.	PN-ERG milk[INAN2][NOM] drink.PST(AOR)	‘Ali has drunk the milk.’					
-85	72	плавить	<b>-uts’-oɬ.i	ERG	NOM	TR	TR	ali-di b-uts’-oɬ.i t’uʃi.	PN-ERG INAN1-melt-CAUS.PST(AOR) lead	‘Ali has melt lead.’					
-85	73	подходить	roqχ’.i-r	NOM	SUPER	Y	NOM_SUPER	hene-r rotɬ’utʃ’ur di-r gurdo-ʔa roqχ’.i-r.	DEM-INAN2 belt[INAN2][NOM] I.OBL-INAN2(GEN) shirt-SUPER convene.PST-PROG	‘This belt fits my dress.’					
+85	72	плавить	<b>-uts’-oɬ.i	ERG	NOM	TR	TR	ali-di b-uts’-oɬ.i t’uʃi.	PN-ERG INAN1-melt-CAUS.PST(AOR) lead	‘Ali has melted some lead.’					
+85	73	подходить	roqχ’.i-r	NOM	SUPER	Y	NOM_SUPER	hene-r rotɬ’utʃ’ur di-r gurdo-ʔa roqχ’.i-r.	DEM-INAN2 belt[INAN2][NOM] I.OBL-INAN2(GEN) shirt-SUPER match.PST-PROG	‘This belt fits my dress.’					
 85	74	покидать	<w>-uʔ.onn-ij	NOM	SUPER.EL	Y	NOM_SUPER.EL	ali w-uʔ.onn-ij hon-ʔa-kːu.	PN[M][NOM] M-go.PST-PF village-SUPER-EL	‘Ali left the village.’					
-85	75	покрывать	riʃd.i-r	ERG	NOM	TR	TR	t’amsu-di riʃd.i-r itɬ’uɡu hoʔor.	carpet.OBL-ERG lock.PST-PROG all floor[INAN1][NOM]	‘The carpet covers the whole floor.’					
-85	76	помнить	rok’or-ʔa <r>-iʁ.i	AFF	NOM	X	AFF_NOM	pat’imati-<r>o haqχ’u ʃu-r rok’or-ʔa r-iʁ.i	PN-AFF<INAN2> house[INAN2][NOM] good-INAN2 heart.OBL-SUPER INAN2-stop.PST(AOR)	‘Patimat remembers the house well.’					
-85	77	помочь	kumeki dʒid.i	ERG	DAT	Y	ERG_DAT	pat’imati-di mariamu-ɬu kumeki dʒid.i.	PN-ERG PN.OBL-DAT help[INAN1][NOM] make.PST(AOR)	‘Patimat helped Mariam.’					
+85	75	покрывать	riʃd.i-r	ERG	NOM	TR	TR	t’amsu-di riʃd.i-r itɬuɡu hoʔor.	carpet.OBL-ERG lock.PST-PROG all floor[INAN1][NOM]	‘The carpet covers the whole floor.’					
+85	76	помнить	rok’or-ʔa <r>-iʁ.i	AFF	NOM	X	AFF_NOM	pat’imati-<r>o haqχ’u ʃu-r rok’or-ʔa r-iʁ.i	PN-AFF<INAN2> house[INAN2][NOM] good-INAN2 heart-SUPER INAN2-stop.PST(AOR)	‘Patimat remembers the house well.’					
+85	77	помочь	kumeki dʒid.i	ERG	DAT	Y	ERG_DAT	pat’imati-di marjamu-ɬu kumeki dʒid.i.	PN-ERG PN.OBL-DAT help[INAN1][NOM] make.PST(AOR)	‘Patimat helped Mariam.’					
 85	78	понимать	batʃ’ː.u-mado	AFF	NOM	X	AFF_NOM	he-ge-ʃːu-<b>o b-atʃ’ː.u-mado hin-gi-b-ul roʃol.	DEM-LL-OBL-AFF<INAN1> INAN1-PL\understand.PST-PROG DEM-LL-INAN1-PL[NOM] word[INAN1].PL[NOM]	‘He understands these words.’					
-85	79	попасть	<b>-aχː.o-j	NOM	SUPER	Y	NOM_SUPER	piri b-aχː.o-j reʃu-ʔa.	lightning[INAN1][NOM] INAN1-end_up.PST-PF wood-SUPER	‘The lightning fell on the tree.’					
-85	80	порезаться	buqχ’.i-j	ERG	INST	Y	ERG_INST	ali-di buqχ’.i-j besuno-qχi.	PN-ERG cut.PST-PF knife.OBL-INST	‘Ali cut himself with a knife.’					
+85	79	попасть	<b>-aχ.o-j	NOM	SUPER	Y	NOM_SUPER	piri b-aχ.o-j reʃu-ʔa.	lightning[INAN1][NOM] INAN1-end_up.PST-PF wood-SUPER	‘The lightning fell on the tree.’					
+85	80	порезаться	<b>-uqχ’.i-j	ERG	INST	Y	ERG_INST	ali-di b-uqχ’.i-j besuno-qχi.	PN-ERG INAN1-displace.PST-PF knife.OBL-INST	‘Ali cut himself with a knife.’					
 85	81	прилипать	<b>-ats’.i	NOM	SUPER	Y	NOM_SUPER	stakan ustulu-ʔa b-ats’.i.	glass[INAN1][NOM] table.OBL-SUPER INAN1-stick.PST(AOR)	‘The glass got stuck to the table.’					
 85	82	проиграть	<w>-uʁ.an	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali muħammadi-ʔo w-uʁ.an.	PN[M][NOM] PN-SUPER.LAT M-lose.PST(AOR)	‘Ali lost to Muhammad.’					
-85	83	радоваться	<j>-erʁ.ann-ij	NOM	CONT.EL	Y	NOM_CONT.EL	pat’imati pismo-tʃ’u-kːu j-erʁ.ann-ij.	PN[F][NOM] letter-CONT-EL F-rejoice.PST-PF	‘Patimat rejoiced over the letter.’					
-85	84	разговаривать	j-edːo-mado	NOM	COM	Y	NOM_COM	pat’imati mariam=lojɡu j-edːo-mado.	PN[F][NOM] PN=COM F-talk.PST-PROG	‘Patimat is talking with Mariam.’					
-85	85	рожать	dʒid.i	ERG	NOM	TR	TR	mariam-di woʃo dʒid.i.	PN-ERG boy[M][NOM] make.PST(AOR)	‘Mariam gave birth to a boy.’					
-85	86	ронять	<r>-ukː-oɬ.i	ERG	NOM	TR	TR	pat’imati-di r-ukː-oɬ.i istakan.	PN.OBL-ERG INAN2-fall-CAUS.PST(AOR) glass[INAN2][NOM]	‘Patimat dropped a glass.’					
-85	87	руководить	<w>-etʃ’uχa	NOM	INTER	Y	NOM_INTER	ali hon-tɬi w-etʃ’uχa.	PN[M][NOM] village-INTER M-big	‘Ali leads our village.’					
-85	88	скучать	haluχ.onn-ij	NOM	INST	Y	NOM_INST	mariam haluχ.onn-ij pat’imati-qχi	PN[F][NOM] miss.PST-PF PN-INST	‘Mariam misses Patimat.’					
+85	83	радоваться	<j>-erh.ann-ij	NOM	CONT.EL	Y	NOM_CONT.EL	pat’imati pismo-tʃ’u-kːu j-erh.ann-ij.	PN[F][NOM] letter-CONT-EL F-rejoice.PST-PF	‘Patimat rejoiced over the letter.’					
+85	84	разговаривать	j-edːo-mado	NOM	COM	Y	NOM_COM	pat’imati marjam=lojɡu j-edːo-mado.	PN[F][NOM] PN=COM F-talk.PST-PROG	‘Patimat is talking with Mariam.’					
+85	85	рожать	dʒid.i	ERG	NOM	TR	TR	marjam-di woʃo dʒid.i.	PN-ERG boy[M][NOM] make.PST(AOR)	‘Mariam gave birth to a boy.’					
+85	86	ронять	<r>-ukː-oɬ.i	ERG	NOM	TR	TR	pat’imati-di r-ukː-oɬ.i istakan.	PN-ERG INAN2-fall-CAUS.PST(AOR) glass[INAN2][NOM]	‘Patimat dropped a glass.’					
+85	87	руководить	<w>-etʃ’uχa	NOM	INTER	Y	NOM_INTER	ali hon-tɬi w-etʃ’uχa.	PN[M][NOM] village-INTER M-big	‘Ali leads our village.’	Non-verbal predicate.				
+85	88	скучать	haluχ.onn-ij	NOM	INST	Y	NOM_INST	marjam haluχ.onn-ij pat’imati-qχi	PN[F][NOM] miss.PST-PF PN-INST	‘Mariam misses Patimat.’					
 85	89	следовать	<w>-eχːudu <w>-uʔ.inn-e	NOM	CONT	Y	NOM_CONT	ali muħammadi-tʃ’u w-eχːudu w-uʔ.inn-e	PN[M][NOM] PN-CONT M-after M-go.NPST-HAB	‘Ali is going after/following Muhammad.’					
-85	90	слезать	<w>-utɬ.i hitɬ’u	NOM	SUPER.EL	Y	NOM_SUPER.EL	ali w-utɬ.i k’otu-ʔa-kːu hitɬ’u.	PN[M][NOM] M-become.PST(AOR) horse-SUPER-EL down	‘Ali got off the horse.’					
-85	91	слушать	antʃː.i-r	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imat radiol-ʔo antʃː.i-r.	PN[F][NOM] radio-SUPER.LAT listen.PST-PROG	‘Patimat is listening to the radio.’					
-85	92	слушаться	antʃː.i	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali baba-ʔo antʃː.i.	PN[M][NOM] Mum-SUPER.LAT listen.PST(AOR)	‘Ali obeys Mum.’					
+85	90	слезать	<w>-utɬ.i hitɬ’u	NOM	SUPER.EL	Y	NOM_SUPER.EL	ali w-utɬ.i k’otu-ʔa-kːu hitɬ’u.	PN[M][NOM] M-come_down.PST(AOR) horse-SUPER-EL down	‘Ali got off the horse.’					
+85	91	слушать	antʃː.i-r	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imat radiul-ʔo antʃː.i-r.	PN[F][NOM] radio-SUPER.LAT listen.PST-PROG	‘Patimat is listening to the radio.’					
+85	92	слушаться	antʃː.i	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali baba-ʔo antʃː.i.	PN[M][NOM] mother-SUPER.LAT listen.PST(AOR)	‘Ali obeys his mother.’					
 85	93	слышать	anɬ.i-r	AFF	NOM	X	AFF_NOM	ali-<b>o anɬ.i-r ketʃ’ibaqχ’an.	PN-AFF<INAN1> hear.PST-PROG song+melody[INAN1][NOM]	‘Ali hears the music.’					
 85	94	смешаться	a<r>ʒ.a-j	NOM	COM	Y	NOM_COM	hunts’ːi ʃiw̃=lojɡu itɬu a<r>ʒ.a-j.	honey[INAN2][NOM] milk=COM all mix<INAN2>.PST-PF	‘The honey has blended with the milk.’					
-85	95	смотреть	haltʃ’.o-mado	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imat hiroda-ʔo tʃ’.on / haltʃ’.o-mado.	PN[F][NOM] cloud.PL.OBL-SUPER.LAT stand_waiting.PST(AOR) look.PST-PROG	‘Patimat is looking at the clouds.’					
+85	95	смотреть	haltʃ’.o-mado	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imat hiroda-ʔo haltʃ’.o-mado.	PN[F][NOM] cloud.PL.OBL-SUPER.LAT look.PST-PROG	‘Patimat is looking at the clouds.’					
 85	96	снимать	<r>-uχ.i	ERG	NOM	TR	TR	ali-di ɡurdo r-uχ.i.	PN-ERG shirt[INAN2][NOM] INAN2-take_off.PST(AOR)	‘Ali took off his shirt.’					
-85	97	сниться	motɬ’i-tɬi ha-ʔ.o-r	AFF	NOM	X	AFF_NOM	pat’imati-<j>o motɬ’i-tɬi haʔ.o-r mariam .	PN-AFF<F> dream-INTER see.PST-PROG PN[F][NOM]	‘Patimat dreams of Mariam.’					
-85	98	соглашаться	razi	NOM	SUPER	Y	NOM_SUPER	ali mariam-ʔa razi.	PN[M][NOM] PN-SUPER contented	‘Ali agreed with Mariam.’					
-85	99	ссориться	<j>-iχ.on	NOM	COM	Y	NOM_COM	pat’imati j-iχ.on mariam=lojɡu.	PN[F][NOM] F-be_offended.PST(AOR) Mariam=COM	‘Patimat quareled with Mariam.’					
-85	100	стоить	baha	GEN	NOM	X	GEN_NOM	ho-no-b kuruʃku-tɬi baha oziru=ɡu som.	DEM-EMPH-INAN1 cup.OBL-GEN price[INAN1][NOM] thousand=CARD rouble	‘This cup costs a thousand roubles.’					
+85	97	сниться	motɬ’i-tɬi ha-ʔ.o-r	AFF	NOM	X	AFF_NOM	pat’imati-<j>o motɬ’i-tɬi haʔ.o-r marjam.	PN-AFF<F> dream-INTER see.PST-PROG PN[F][NOM]	‘Patimat dreams of Mariam.’					
+85	98	соглашаться	razi	NOM	SUPER	Y	NOM_SUPER	ali marjam-ʔa razi.	PN[M][NOM] PN-SUPER contented	‘Ali agrees with Mariam.’	Non-verbal predicate.				
+85	99	ссориться	<j>-iχ.on	NOM	COM	Y	NOM_COM	pat’imati j-iχ.on marjam=lojɡu.	PN[F][NOM] F-be_offended.PST(AOR) Mariam=COM	‘Patimat quareled with Mariam.’					
+85	100	стоить	baha	GEN	NOM	X	GEN_NOM	ho-no-b kuruʃku-tɬi baha oziru-ɡu som.	DEM-EMPH-INAN1 cup.OBL-GEN price[INAN1][NOM] thousand-CARD rouble	‘This cup costs a thousand roubles.’	Non-verbal predicate.				
 85	101	стрелять	qχ’ʷaʁ.unn	ERG	SUPER.LAT	Y	ERG_SUPER.LAT	ali-di ʃːekibo-ʔo qχ’ʷaʁ.unn-ij.	PN-ERG bird.OBL-SUPER.LAT shoot.PST-PF	‘Ali shot at the bird.’					
-85	102	сыпать	t’inn.i	ERG	NOM	TR	TR	ali-di pisoki t’inn.i.	PN-ERG sugar[INAN1][NOM] pour.PST(AOR)	‘Ali poured sugar.’					
-85	103	терять	<r>-ot’-oɬ.i	ERG	NOM	TR	TR	ali-di r-ot’-oɬ.i rek’ulol.	PN-ERG INAN2-PL\come_lost-CAUS.PST(AOR) key[INAN2].PL[NOM]	‘Ali lost the keys.’					
+85	102	сыпать	t’inn.i	ERG	NOM	TR	TR	ali-di pisoki t’inn.i.	PN-ERG sugar[INAN1][NOM] pour.PST(AOR)	‘Ali poured the sugar.’					
+85	103	терять	<r>-ot’-oɬ.i	ERG	NOM	TR	TR	ali-di r-ot’-oɬ.i rek’ulol.	PN-ERG INAN2-PL\get_lost-CAUS.PST(AOR) key[INAN2].PL[NOM]	‘Ali lost the keys.’					
 85	104	тонуть	ʁʷanqχ’.unn-ij	NOM	INTER	Y	NOM_INTER	reʃa ɬen-tɬi ʁʷanqχ’.unn-ij.	wood[INAN1][NOM] water-INTER sink.PST-PF	‘The log sank in the water.’					
 85	105	убивать	dʒab.i	ERG	NOM	TR	TR	ali-di muħammadi dʒab.i.	PN-ERG PN[M][NOM] beat.PST(AOR)	‘Ali killed Muhammad.’					
 85	106	ударить	dʒab.i	ERG	SUPER	Y	ERG_SUPER	ali-di dʒab.i muħammadi-ʔa.	PN-ERG beat.PST(AOR) PN-SUPER	‘Ali hit Muhammad.’					
-85	107	целовать	ts’omm.i 	ERG	SUPER	Y	ERG_SUPER	χadiʒati-di ts’omm.i mariam-ʔa.	PN-ERG kiss.PST(AOR) PN-SUPER	‘Khadizhat kissed Mariam.’					
+85	107	целовать	ts’omm.i 	ERG	SUPER	Y	ERG_SUPER	χadiʒati-di ts’omm.i marjam-ʔa.	PN-ERG kiss.PST(AOR) PN-SUPER	‘Khadizhat kissed Mariam.’					
 85	108	читать	baʔ.i 	ERG	NOM	TR	TR	pat’imati-di baʔ.i interesni χutʃa.	PN-ERG read.PST(AOR) interesting book[INAN2][NOM]	‘Patimat has read an interesting book.’					
 85	109	шевелить	<b>-erʁ-oɬ.i-j	ERG	NOM	TR	TR	ali-di ts’ek’a b-erʁ-oɬ.i-j.	PN-ERG finger[INAN1][NOM] INAN1-move-CAUS.PST-PF	‘Ali moved his finger’					
-85	110	уважать	<j>-etʃ’uχa-jd.i-r	ERG	NOM	TR	TR	pat’imati-di j-etʃ’uχa-jd.i-r mariam.	PN-ERG F-big-FCT.PST-PROG PN[F][NOM]	‘Patimat respects Mariam.’					
-85	111	брезговать	joʃ.u-mado-sːu	ERG	NOM	TR	TR	pat’imati hek’u qχ’ajʔa joʃ.u-mado-sːu.	PN[F][NOM] dirty dishes enjoy.PST-PROG-NEG	‘Patimat is disgusted by the dirty dishes.					
-85	112	быть довольным	razi	NOM	SUPER	Y	NOM_SUPER	ali razi enʃu-w=ɡu woʃu-ʔa.	PN[M][NOM] contented RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER	‘Ali is pleased with his son.’					
-85	113	влюбляться	ruqχ’i <b>-ukː.u-j	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali ruqχ’i b-ukː.u-j mariam-ʔo.	PN[M][NOM] love[INAN1][NOM] INAN1-fall.PST-PF PN-SUPER.LAT	‘Ali fell in love with Mariam.’					
-85	114	доверять	buʒ.u-rado	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imati buʒ.u-rado mariam-ʔo.	PN[F][NOM] believe.PST-PROG PN-SUPER.LAT	‘Patimat trusts Mariam.’					
-85	115	жалеть	rok’o uzad.i-r	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	pat’imati-tɬi rok’o uzad.i-r en-tɬi=ɡu baba-ʔo.	PN-GEN heart[INAN2][NOM] pity.PST-PROG RFL-GEN=EMPH mum-SUPER.LAT	‘Patimat feels sorry for her Mum.’					
+85	110	уважать	<j>-etʃ’uχa-jd.i-r	ERG	NOM	TR	TR	pat’imati-di j-etʃ’uχa-jd.i-r marjam.	PN-ERG F-big-FCT.PST-PROG PN[F][NOM]	‘Patimat respects Mariam.’					
+85	111	брезговать	joʃ.u-mado- + NEG	NOM	SUPER	Y	NOM_SUPER	pat’imati hek’u qχ’aj-ʔa joʃ.u-mado-sːu.	PN[F][NOM] dirty possessions-SUPER enjoy.PST-PROG-NEG	‘Patimat is disgusted by the dirty dishes.					
+85	112	быть довольным	razi	NOM	SUPER	Y	NOM_SUPER	ali razi enʃːu-w=ɡu woʃu-ʔa.	PN[M][NOM] contented RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER	‘Ali is pleased with his son.’	Non-verbal predicate.				
+85	113	влюбляться	ruqχ’i <b>-ukː.u-j	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	ali rutɬ’i b-ukː.u-j marjam-ʔo.	PN[M][NOM] love[INAN1][NOM] INAN1-fall.PST-PF PN-SUPER.LAT	‘Ali fell in love with Mariam.’					
+85	114	доверять	buʒ.u-rado	NOM	SUPER.LAT	Y	NOM_SUPER.LAT	pat’imati buʒ.u-rado marjam-ʔo.	PN[F][NOM] believe.PST-PROG PN-SUPER.LAT	‘Patimat trusts Mariam.’					
+85	115	жалеть	rok’o uzad.i-r	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	pat’imati-tɬi rok’o uzad.i-r en-tɬi=ɡu baba-ʔo.	PN-GEN heart[INAN2][NOM] pity.PST-PROG RFL-GEN=EMPH mother-SUPER.LAT	‘Patimat feels sorry for her mother.’					
 85	116	завидовать	rok’o qχubi-ɬ.i-j	GEN	SUPER.LAT	XY	GEN_SUPER	muħammadi-r rok’o qχubi-ɬ.i-j ali-ʔa.	PN-INAN2(GEN) heart[INAN2][NOM] untidy-INCH.PST-PF PN-SUPER	‘Muhammad envies Ali.’					
-85	117	злиться	sːim <b>-iʔ.o-j	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	pat’imati-tɬi sːim b-iʔ.o-j mariam-ʔo.	PN-GEN anger[INAN1][NOM] INAN1-come.PST-PF PN-SUPER.LAT	‘Patimat is angry at Mariam.’					
+85	117	злиться	sːim <b>-iʔ.o-j	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	pat’imati-tɬi sːim b-iʔ.o-j marjam-ʔo.	PN-GEN anger[INAN1][NOM] INAN1-come.PST-PF PN-SUPER.LAT	‘Patimat is angry at Mariam.’					
 85	118	удивляться	tamaʃa-ɬ.i	NOM	SUPER	Y	NOM_SUPER	pat’imati tamaʃa-ɬ.i he-de-b padarkal-ʔa.	PN[F][NOM] amazement-INCH.PST(AOR) DEM-SL-INAN1 gift.OBL-SUPER	‘Patimat was surprised by this gift.’					
 85	119	любить-2	dʒiʔ.i-r	AFF	NOM	X	AFF_NOM	pat’imati-<b>o dʒiʔ.i-r tʃaj.	PN-AFF<INAN1> like.PST-PROG tea[INAN1][NOM]	‘Patimat likes tea.’					
 85	120	наслаждаться	t’aʔam <b>-iχ.i-r	ERG	CONT.EL	Y	ERG_CONT.EL	pat’imati-di tʃa-tʃ’u-kːu t’aʔam b-iχ.i-r.	PN-ERG tea.OBL-CONT-EL taste[INAN1][NOM] INAN1-take.PST-PROG	‘Patimat is enjoying hot tea.’					
-85	121	хотеть	qχ’oroqχ’.o-j	DAT	NOM	X	DAT_NOM	pat’imati-j qχ’oroqχ’.o-j ts’iw telefon.	PN-DAT want.PST-PF new telephone[INAN1][NOM]	‘Patimat wants a new cellphone.’					
-85	122	сердиться	<j>-iχ.onn-ij	NOM	SUPER	Y	NOM_SUPER	pat’imati j-iχ.onn-ij mariam-ʔa	PN[F][NOM] F-be_offended.PST-PF PN-SUPER	‘Patimat is cross with Mariam					
+85	121	хотеть	qχ’oroqχ’.o-j	DAT	NOM	X	DAT_NOM	pat’imati-j qχ’oroqχ’.o-j ts’ːiw telefon.	PN-DAT want.PST-PF new telephone[INAN1][NOM]	‘Patimat wants a new cellphone.’					
+85	122	сердиться	<j>-iχ.onn-ij	NOM	SUPER	Y	NOM_SUPER	pat’imati j-iχ.onn-ij marjam-ʔa	PN[F][NOM] F-be_offended.PST-PF PN-SUPER	‘Patimat is cross with Mariam.’					
 85	123	обижаться	<w>-uχ.onn-ij	NOM	SUPER	Y	NOM_SUPER	muħammad w-uχ.onn-ij ali-ʔa.	PN[M][NOM] M-be_offended.PST-PF PN-SUPER	‘Muhammad was offended by Ali.’					
-85	124	огорчать	waswasil-ʔo <j>-ukː-oɬ.i	ERG	NOM	TR	TR	pat’imati-di waswasil-ʔo j-ukː-oɬ.i mariam.	PN-ERG doubt.OBL-SUPER.LAT F-fall-CAUS.PST(AOR) PN[F][NOM]	‘Patimat upset Mariam.’					
-85	125	поражаться	<w>-uχː.i-j	NOM	CONT.EL	Y	NOM_CONT.EL	ali w-uχ.i-j ho-no-b gorodil-tʃ’u-kːu.	PN[M][NOM] M-take_off.PST-PF DEM-EMPH-INAN1 city-CONT-EL	‘Ali was astounded by that city.’					
-85	126	презирать	ħaqχ’ir-ijd.i-r	ERG	NOM	TR	TR	pat’imati-di ħaqχ’ir-ijd.i-r mariam.	PN-ERG humiliated-FCT.PST-PROG PN[F][NOM]	‘Patimat despises Mariam.’					
-85	127	огорчаться	sːim <b>-iʔ.o-j	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	ali-b sːim b-iʔ.o-j enʃu-w=ɡu woʃu-ʔo.	PN-INAN1(GEN) anger[INAN1][NOM] INAN1-come.PST-PF RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER.LAT	‘Ali was upset by his son.’					
+85	124	огорчать	waswasil-ʔo <j>-ukː-oɬ.i	ERG	NOM	TR	TR	pat’imati-di waswasil-ʔo j-ukː-oɬ.i marjam.	PN-ERG doubt.OBL-SUPER.LAT F-fall-CAUS.PST(AOR) PN[F][NOM]	‘Patimat upset Mariam.’					
+85	125	поражаться	<w>-uχ.i-j	NOM	CONT.EL	Y	NOM_CONT.EL	ali w-uχ.i-j ho-no-b gorodil-tʃ’u-kːu.	PN[M][NOM] M-take_off.PST-PF DEM-EMPH-INAN1 city-CONT-EL	‘Ali was astounded by that city.’					
+85	126	презирать	ħaqχ’ir-ijd.i-r	ERG	NOM	TR	TR	pat’imati-di ħaqχ’ir-ijd.i-r marjam.	PN-ERG humiliated-FCT.PST-PROG PN[F][NOM]	‘Patimat despises Mariam.’					
+85	127	огорчаться	sːim <b>-iʔ.o-j	GEN	SUPER.LAT	XY	GEN_SUPER.LAT	ali-b sːim b-iʔ.o-j enʃːu-w=ɡu woʃu-ʔo.	PN-INAN1(GEN) anger[INAN1][NOM] INAN1-come.PST-PF RFL.OBL.M-M(GEN)=EMPH boy.OBL-SUPER.LAT	‘Ali was upset by his son.’					
 85	128	раздражаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-85	129	симпатизировать	rok’or-di <j>-iχ.i-j	AFF	NOM	X	AFF_NOM	pat’imati-<j>o mariam rok’or-di j-iχ.i-j.	PN-AFF<F> PN[F][NOM] heart.OBL-ERG F-take.PST-PF	‘Patimat is fond of Mariam.’					
-85	130	стесняться	sːuloʔ.o-rado	NOM	CONT.EL	Y	NOM_CONT.EL	ali sːuloʔ.o-rado enʃu-b=ɡu wotʃo-ɬir-tʃ’u-kːu.	PN[M][NOM] be_embarrassed.PST-PROG RFL.OBL.M-INAN1(GEN)=EMPH short-ABST-CONT-EL	‘Ali is ashamed by his height (lit. ‘by his shortness’).’					
+85	129	симпатизировать	rok’or-di <j>-iχ.i-j	AFF	NOM	X	AFF_NOM	pat’imati-<j>o marjam rok’or-di j-iχ.i-j.	PN-AFF<F> PN[F][NOM] heart-ILLAT F-take.PST-PF	‘Patimat is fond of Mariam.’					
+85	130	стесняться	sːuloʔ.o-rado	NOM	CONT.EL	Y	NOM_CONT.EL	ali sːuloʔ.o-rado enʃːu-b=ɡu wotʃo-ɬir-tʃ’u-kːu.	PN[M][NOM] be_embarrassed.PST-PROG RFL.OBL.M-INAN1(GEN)=EMPH short-ABST-CONT-EL	‘Ali is embarrassed about his height (lit. ‘by his shortness’).’					
 76	1	болеть-1	+marrə	BARE	SBJ	X	BARE_SBJ	brata riš-o +mray=əl	girl(F) head(M)-P.3F ache.PROG=3M	‘The girl has a headache.’		девочка(F) голова(M)-P.3F болеть.PROG=3M	У девочки болит голова.		
 76	2	болеть-2	+marrə	SBJ	bi	Y	SBJ_bi	brata +mrit=əla bi gripp	girl(F) ache.RES.F=3F with flu(M)	‘The girl has the flu.’	Non-Urmi speaker.	девочка(F) болеть.RES.F=3F с грипп(M)	Девочка болеет гриппом.		
 76	3	бояться	+zadə	SBJ	men	Y	SBJ_men	yala mən calba +bəzday=əl	boy(M) from dog(M) be_afraid.PROG=3M	‘The boy is afraid of the dog.’		мальчик(M) от собака(M) бояться.PROG=3M	Мальчик боится собаки.		
@@ -525,7 +525,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	4	бросить	χač’ɨ<>χi	ERG	NOM	TR	TR	rasul-a dahar χa-č’-i<b>χɨ-r	PN-ERG rock(NOM) PV-PV-<3>throw.PFV-CVB	‘Расул бросил камень.’					
 68	5	быть достаточно	re<>q’a	DAT	NOM	X	DAT_NOM	rasul-u-s šiɁi-bɨr ʁe-jq’a-r-a	PN-OBL-DAT money-PL(NOM) PV-NPL.be.enough.IPFV-CVB-be	‘Расулу хватает денег.’					
 68	6	быть похожим	k<>i<>ka	NOM	CONT	Y	NOM_CONT	rasul k-ika-r-a ramazan-ɨ-k	PN(NOM) PV-1.be.similar.IPFV-CVB-be PN-OBL-CONT	‘Расул похож на Рамазана.’					
-68	7	верить	inamiš + COP	NOM	SUP	Y	NOM_SUP	rasul inamiš jiʔi ramazan-ɨ	PN(NOM) believe 1.COP1 PN-OBL(SUP)	‘Расул верит Рамазану.’					
+68	7	верить	inamiš + COP	NOM	SUP	Y	NOM_SUP	rasul inamiš jiʔi ramazan-ɨ	PN(NOM) believe 1.COP1 PN-OBL(SUP)	‘Расул верит Рамазану.’	Non-verbal predicate.				
 68	8	взять	le<>šu	ERG	NOM	TR	TR	rasul-a l-ešu-r kitab	PN-ERG PV-1.take.PFV-CVB book(NOM)	‘Расул взял книгу.’					
 68	9	видеть	ʁa<>gᵂa	DAT	NOM	X	DAT_NOM	rasul-u-s ʁ-argᵂa-r-a χal	PN-OBL-DAT PV-4.see.IPFV-CVB-be house(NOM)	‘Расул видит дом.’					
 68	10	влиять	*	*	*	*		q’aˁs-wol-i-kan išɨʁ ʁa-qʷ-argʷa-r-diš	old-ABSTR-OBL-COM light PV-RE-4.see.IPFV-CVB-NEG	‘Со старостью свет не вижу.’	Not included in the dataset because the translation deviates too far from the stimulus sentence.				
@@ -542,7 +542,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	21	достичь	le-jq’ɨ-	NOM	SUP	Y	NOM_SUP	rasul čejlaʁ-a le-jq’ɨ-r-a	PN(NOM) riverside-OBL(SUP) PV-1.reach.PFV-CVB	‘Расул достиг берега.’					
 68	22	дотронуться	ki<ø>q’ɨ	NOM	CONT	Y	NOM_CONT	rasul masal-ɨ-k ki-q’ɨ-r	PN(NOM) wall-OBL-CONT PV-1.touch.PFV-CVB	‘Расул дотронулся до стены.’					
 68	23	драться	kiči<ø>lqa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan kičilqa-r-a	PN(NOM) PN-OBL-COM <1>fight.IPFV-CVB-be	‘Расул дерётся с Рамазаном.’					
-68	24	дружить	ara χa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan ara χ-a	PN(NOM) PN-OBL-COM inside PV-be	‘Расул дружит с Рамазаном’ (букв. ‘Расул вместе с Рамазаном’).					
+68	24	дружить	ara χa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan ara χ-a	PN(NOM) PN-OBL-COM inside PV-be	‘Расул дружит с Рамазаном’ (букв. ‘Расул вместе с Рамазаном’).	Non-verbal predicate.				
 68	25	думать	fikir <w>-aɁ-a-	ERG	CONT.EL	Y	ERG_CONT.EL	rasul-a samira-k-la fikir w-aɁ-a-r-a	PN-ERG PN-CONT-EL thought 3-do.IPFV-CVB-be	‘Расул думает о Самире.’					
 68	26	есть	li<w>i-	ERG	NOM	TR	TR	rasul-a Ɂeč li<w>i-r	PN-ERG apple(NOM) <3>eat.PFV-CVB	‘Расул съел яблоко.’					
 68	27	жарить	<w>-iǯi-	ERG	NOM	TR	TR	rasul-a baluʁ w-iǯi-r-a	PN-ERG fish(NOM) 3-fry.PFV-CVB-be	‘Расул пожарил рыбу.’					
@@ -569,7 +569,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	48	мечтать	fikir <w>-aɁa-	*	*	*		rasul-a fikir w-aɁa-r-a c’in-dɨ mašina-d	PN-ERG thought 3-do.IPFv-CVB-be new-ATR car-ATR	‘Расул думает о новой машине.’	Not included in the database because this translation is semantically inaccurate.				
 68	49	мыть	ji<d>ʁɨ-	ERG	NOM	TR	TR	samira-ra ist’ek’an ji<d>ʁɨ-r	PN-ERG glass(NOM) <4>wash.PFV-CVB	‘Самира вымыла чашку.’					
 68	50	надевать	la-<w>-ɨ-	ERG	NOM	TR	TR	rasul-a badu la-w-ɨ-r	PN-ERG trousers(NOM) PV-3-put.on.PFV-CVB	‘Расул надел штаны.’					
-68	51	называться	dur jiɁi	ATR	PRED	XY	ATR_PRED	mi kar-di-d dur jiɁi kompas	this thing-OBL-ATR name(NOM) 4.be compass(NOM)	‘Этот предмет называется компас.’					
+68	51	называться	dur jiɁi	ATR	PRED	XY	ATR_PRED	mi kar-di-d dur jiɁi kompas	this thing-OBL-ATR name(NOM) 4.be compass(NOM)	‘Этот предмет называется компас.’	Non-verbal predicate.				
 68	52	наказывать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
 68	53	напасть	l-o<w>či-	NOM	SUP	Y	NOM_SUP	si edemij-a l-o<w>či-r	bear(NOM) man-OBL(SUP) PV-<3>attack.PFV-CVB	‘Медведь напал на человека.’					
 68	54	наполняться	a-c’i-	NOM	ERG	Y	NOM_ERG	widra χiji-ra a-c’i-r-a	bucket water.OBL-ERG PV-4.fill.PFV-CVB-be	‘Ведро наполнилось водой.’					
@@ -582,7 +582,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	61	оставаться	χa-ma<b>a-	APUD	NOM	X	APUD_NOM	rasul-da χa-ma<b>a-ni w-iɁi jic’ɨ-d manud	PN-APUD PV-<3>remain-CVB 3-COP ten-3 rouble(NOM)	‘У Расула осталось 10 рублей.’					
 68	62	отвечать	ǯiwab hɨ-	ERG	DAT	Y	ERG_DAT	rasul-a ǯiwab hɨ<w>ɨ-r maʔalim-a-s	PN-ERG answer(NOM) <3>give.PFV-CVB teacher-OBL-DAT	‘Расул ответил учителю.’					
 68	63	открывать	ačiχ <w>ɨɁɨ	ERG	NOM	TR	TR	rasul-a bank’a ačɨχ w-ɨɁɨ-r	PN-ERG pot(NOM) open 3-do.PFV-CVB	‘Расул открыл банку.’					
-68	64	отличаться	mad-dɨ	NOM	SUP.EL	Y	NOM_SUP.EL	iz-dɨ uχun mad-dɨ w-iɁi wɨ-dɨ-ji-la	I-ATR shirt(NOM) other-ATR 3-COP you.SG-ATR-OBL(SUP)-EL	‘Моя рубашка отличается от твоей.’					
+68	64	отличаться	mad-dɨ	NOM	SUP.EL	Y	NOM_SUP.EL	iz-dɨ uχun mad-dɨ w-iɁi wɨ-dɨ-ji-la	I-ATR shirt(NOM) other-ATR 3-COP you.SG-ATR-OBL(SUP)-EL	‘Моя рубашка отличается от твоей.’	Non-verbal predicate.				
 68	65	отстать	quɁ q-argɨ-	NOM	SUP.EL	Y	NOM_SUP.EL	ramazan quɁ q-argɨ-r rasul-u-la	PN(NOM) back.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Рамазан отстал от Расула.’					
 68	66	пахать	lʲ-aˁjχaˁ	ERG	NOM	TR	TR	rasul-a χuj lʲ-aˁjχaˁ-r-a	PN-ERG field(NOM) PV-4.plough.IPFV-CVB-be	‘Расул пашет поле.’					
 68	67	пахнуть	il rɨˁχaˁ-r-a	CONT.EL	ATR	XY	CONT.EL_ATR	ɨz-dɨ χɨla-bɨr-mɨ-k-la benzin-ad il rɨˁχaˁ-r-a	I-ATR hand-PL-OBL.Pl-CONT-EL petrol-ATR smell(NOM) 4.go-IPFV-CVB-be	‘Мои руки пахнут бензином.’					
@@ -618,7 +618,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	97	сниться	neq’ʲ-e ʁa-ru-	DAT	NOM	X	DAT_NOM	rasul-u-s neq’ʲ-e ʁa-ru-rga-r-a asijet	PN-OBL-DAT dream.OBL-IN PV-2-see.IPFV-CVB-be PN(NOM)	‘Расулу снится Асияд.’					
 68	98	соглашаться	raazi iš-	NOM	COM	Y	NOM_COM	vɨɣɨl raazi jiši-r ɢarija-kan	man(NOM) agreed 1.become.PFV-CVB wife.OBL-COM	‘Расул согласился с Асияд.’					
 68	99	ссориться	ʁe-ruku-	NOM	COM	Y	NOM_COM	islam ʁe-ruku-r nadir-ɨ-kʷan	Islam(NOM) PV-1.quarrel.PFV-CVB PN-OBL-COM	‘Расул поссорился с Асияд.’					
-68	100	стоить	w-iɁi	NOM	DAT	Y	NOM_DAT	mi istek’an sa manut-a-s w-iɁi	this cup(NOM) one ruble-OBL-DAT 3-COP	‘Эта чашка стоит один рубль.’					
+68	100	стоить	w-iɁi	NOM	DAT	Y	NOM_DAT	mi istek’an sa manut-a-s w-iɁi	this cup(NOM) one ruble-OBL-DAT 3-COP	‘Эта чашка стоит один рубль.’	Non-verbal predicate.				
 68	101	стрелять	tufang w-iji-	ERG	POST	Y	ERG_POST	rasul-a tufang w-iji-r-a-j šurk-u-χda	PN-ERG gun(NOM) 3-shoot.PFV-CVB-be-PST bird-OBL-POST	‘Расул выстрелил в птицу.’					
 68	102	сыпать	ki-Ɂɨ-	ERG	NOM	TR	TR	rasul-a pisuk’ ki-Ɂɨ-r-a-j istek’an-e	PN-ERG sugar(NOM) PV-4.add.PFV-CVB-be-ST glass-IN	‘Расул насыпал сахар в стакан.’					
 68	103	терять	su-gu-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: güleg-mar su-gu-r-a	PN-APUD.EL key-PL(NOM) PV-NPL.lose.PFV-CVB-be	‘Расул потерял ключи.’					
@@ -630,12 +630,12 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	109	шевелить	χ-i<b>g-a w-ɨɁɨ-r	ERG	NOM	TR	TR	rasul-a t’ili χ-i<b>g-a w-ɨɁɨ-r	PN-ERG finger(NOM) PV-<3>move-Imp 3-do.PFV-CVB	‘Расул пошевелил пальцем.’					
 68	110	уважать	huˁrmaˁt w-aɁa-r-a	NOM	DAT	Y	NOM_DAT	rasul huˁrmaˁt w-aɁa-r-a asijet-ɨ-s	PN(NOM) respect 3-do.IPFV-CVB-be PN-OBL-DAT	‘Расул уважает Асияд.’					
 68	111	брезговать	*	*	*	*		rasul-u-s čapaˁl-dɨ ɢab-ɨr ʁagu-jne jik’ mɨq’a jiši-r	PN-OBL-DAT dirty-ATR dish-PL PV-NPL.see.PFV-CVB heart cold 4.become.PFV-CVB	‘При виде грязной посуды у Расула сердце стынет.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-68	112	быть довольным	raazi	NOM	SUP	Y	NOM_SUP	rasul raazi jiɁi ǯu-du duxar-ɨ	PN(NOM) delighted 1.СOP self.M.OBL-ATR son-OBL(SUP)	‘Расул доволен своим сыном.’					
+68	112	быть довольным	raazi	NOM	SUP	Y	NOM_SUP	rasul raazi jiɁi ǯu-du duxar-ɨ	PN(NOM) delighted 1.СOP self.M.OBL-ATR son-OBL(SUP)	‘Расул доволен своим сыном.’	Non-verbal predicate.				
 68	113	влюбляться	jik’i-k’ kirx	DAT	NOM	X	DAT_NOM	rasul-u-s jik’i-k k-irx-u-r-a asijed	PN-OBL-DAT heart.OBL-CONT get.in-PFV-CVB-be PN(NOM)	‘Расул влюбился в Асияд.’					
-68	114	доверять	ilamiš + COP	NOM	SUP	Y	NOM_SUP	madina ilamiš r-iɁi ǯi-dɨ χɨnχ-ɨ	PN(NOM) trust 2-COP self-ATR child-OBL(SUP)	‘Мадина доверяет своему ребенку.’					
+68	114	доверять	ilamiš + COP	NOM	SUP	Y	NOM_SUP	madina ilamiš r-iɁi ǯi-dɨ χɨnχ-ɨ	PN(NOM) trust 2-COP self-ATR child-OBL(SUP)	‘Мадина доверяет своему ребенку.’	Non-verbal predicate.				
 68	115	жалеть	haˀjiw raɁ-	ERG	NOM	TR	TR	rasul-a haˀjiw r-aɁ-a-r-a ǯʲu-du nin	PN-ERG pity 2-do-IPFV-CVB-be self.M.OBL-ATR mother(NOM)	‘Расул жалеет свою мать.’					
-68	116	завидовать	paxil	NOM	SUP	Y	NOM_SUP	rasul paxil j-iɁi asijed-ɨ	PN(NOM) envy 1-be(PRS) PN-OBL(SUP)	‘Расул завидует Асияд.’					
-68	117	злиться	bizar	NOM	SUP.EL	Y	NOM_SUP.EL	rasul bizar j-iɁi asijed-ɨ-la	PN(NOM) irritation 1-be(PRS) PN-OBL(SUP)-EL	‘Расул злится на Асияд.’					
+68	116	завидовать	paxil	NOM	SUP	Y	NOM_SUP	rasul paxil j-iɁi asijed-ɨ	PN(NOM) envy 1-be(PRS) PN-OBL(SUP)	‘Расул завидует Асияд.’	Non-verbal predicate.				
+68	117	злиться	bizar	NOM	SUP.EL	Y	NOM_SUP.EL	rasul bizar j-iɁi asijed-ɨ-la	PN(NOM) irritation 1-be(PRS) PN-OBL(SUP)-EL	‘Расул злится на Асияд.’	Non-verbal predicate.				
 68	118	удивляться	šak-a iš	NOM	SUP.EL	Y	NOM_SUP.EL	rasul šak-a j-iš-i-r-a ha kar-di-la	PN(NOM) guess-IN 1-become-PFV-CVB-be this thing-OBL(SUP)-EL	‘Расул удивился этому подарку.’					
 68	119	любить-2	qɨ<Ø>g	DAT	NOM	X	DAT_NOM	rasul-u-s qɨ<Ø>g-a-r-a čej	PN-OBL-DAT <4>love-IPFV-CVB-be tea(NOM)	‘Расул любит чай.’					
 68	120	наслаждаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				

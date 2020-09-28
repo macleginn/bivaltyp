@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
-34	Komi_Zyrian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	висьны	GEN	NOM	X	GENNOM									
-34	Komi_Zyrian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	висьны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	повны	NOM	ELA	Y	NOMELA									
-34	Komi_Zyrian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	шибитны	TR		TR	TR									
-34	Komi_Zyrian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	тырмыны	DAT	NOM	X	DATNOM									
-34	Komi_Zyrian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	ветлыны	NOM	вылоILL	Y	NOMvyloILL									
-34	Komi_Zyrian	7	believe	X (believe) Y	верить	X (верить)Y-у	эскыны	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	8	take	X (take) Y	взять	X (брать) Y(-а)	босьтны	TR		TR	TR									
-34	Komi_Zyrian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	аддзыны	TR		TR	TR									
-34	Komi_Zyrian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	тöдчыны	NOM	вылоILL	Y	NOMvyloILL									
-34	Komi_Zyrian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	паныдасьны	NOM	COM	Y	NOMCOM									
-34	Komi_Zyrian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	пырны	NOM	ILL	Y	NOMILL									
-34	Komi_Zyrian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	вермыны	TR		TR	TR									
-34	Komi_Zyrian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	петны	NOM	ELA	Y	NOMELA									
-34	Komi_Zyrian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	вöтлыны	TR		TR	TR									
-34	Komi_Zyrian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	кусыньтны	TR		TR	TR									
-34	Komi_Zyrian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	шуны	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	кутны 	TR		TR	TR							Совпало с 43		
-34	Komi_Zyrian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	суöдны	TR		TR	TR									
-34	Komi_Zyrian	20	milk	X (milk) Y	доить	X (доить) Y-а	лысьтыны	TR		TR	TR									
-34	Komi_Zyrian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	воöдчыны	NOM	TERM	Y	NOMTERM									
-34	Komi_Zyrian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	инмöдчыны	NOM	ILL	Y	NOMILL									
-34	Komi_Zyrian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	тышкасьны	NOM	COM	Y	NOMCOM									
-34	Komi_Zyrian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	ёртасьны	NOM	COM	Y	NOMCOM									
-34	Komi_Zyrian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	мöвпавны 	NOM	йылысьELA	Y	NOMjylysELA									
-34	Komi_Zyrian	26	eat	X (eat) Y	есть	X (есть) Y	сёйны	TR		TR	TR									
-34	Komi_Zyrian	27	fry	X (fry) Y	жарить	X (жарить) Y	жаритны	TR		TR	TR									
-34	Komi_Zyrian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	виччысьны	TR		TR	TR									
-34	Komi_Zyrian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	вынöдны	NOM	йылысьELA	Y	NOMjylysELA									
-34	Komi_Zyrian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	 									"Фактически есть только ""на памяти отражается возраст"""		
-34	Komi_Zyrian	31	call	X (call) Y	звать	X (звать) Y-а	корны 	TR		TR	TR									
-34	Komi_Zyrian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	тöдмасьны	NOM	COM	Y	NOMCOM									
-34	Komi_Zyrian	33	know	X (know) Y	знать 	X (знать) Y-а	тöдны 	TR		TR	TR									
-34	Komi_Zyrian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	ворсны 	NOM	вылынINE	Y	NOMvylynINE									
-34	Komi_Zyrian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	пышйыны	NOM	ELA	Y	NOMELA									
-34	Komi_Zyrian	36	make	X (make) Y	изготовить	X (изготовить) Y	вöчны	TR		TR	TR									
-34	Komi_Zyrian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	тешитчыны	NOM	вылынINE	Y	NOMvylynINE									
-34	Komi_Zyrian	38	have	X (have) Y	иметь	X (иметь) Y	вöвны	GEN	NOM	X	GENNOM							"Буквально ""быть"", порядок слов ""кого-то что-то есть"""		
-34	Komi_Zyrian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	корсьны	TR		TR	TR									
-34	Komi_Zyrian	40	paint	X (paint) Y	красить	X (красить) Y	краситны	TR		TR	TR									
-34	Komi_Zyrian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	курччыны	TR		TR	TR									
-34	Komi_Zyrian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	кольны	NOM	ABE	Y	NOMABE							"Буквально ""остаться"""		
-34	Komi_Zyrian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	кутны	*										"Совпало с держать ""18"", не беру"		
-34	Komi_Zyrian	44	break	X (break) Y	ломать	X (ломать) Y	чегны 	TR		TR	TR									
-34	Komi_Zyrian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	сöрны	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	радейтны	TR		TR	TR									
-34	Komi_Zyrian	47	wave	X (wave) Y	махать	X (махать) Y-ом	шенасьны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	мöвпавны	*										Совпало с 25, не беру		
-34	Komi_Zyrian	49	wash	X (wash) Y	мыть	X (мыть) Y	мыськыны	TR		TR	TR									
-34	Komi_Zyrian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	пасьтавны 	TR		TR	TR									
-34	Komi_Zyrian	51	be_called	X (be_called) Y	называться	X (называться) Y	шусьыны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	накажитны	TR		TR	TR									
-34	Komi_Zyrian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	уськöдчыны	NOM	вылоILL	Y	NOMvyloILL									
-34	Komi_Zyrian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	тырны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	55	find	X (find) Y	находить	X (находить) Y(-а)	аддзыны	*										"Совпадало с ""видеть"", 9, видимо, там это основное значение, не беру"		
-34	Komi_Zyrian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG_тырмыны	DAT	NOM	X	DATNOM									
-34	Komi_Zyrian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	мустöмтны	TR		TR	TR							Совпадает с 126		
-34	Komi_Zyrian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	кажитчыны	DAT	NOM	X	DATNOM							Проверить, было NOM DAT		
-34	Komi_Zyrian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	ковны	DAT	NOM	X	DATNOM									
-34	Komi_Zyrian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	кытшовтыны 	TR		TR	TR									
-34	Komi_Zyrian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	кольны	GEN	NOM	X	GENNOM									
-34	Komi_Zyrian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	вочавидзны	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	63	open	X (open) Y	открывать	X (открывать) Y	восьтыны 	TR		TR	TR									
-34	Komi_Zyrian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	торъявны	NOM	ELA	Y	NOMELA									
-34	Komi_Zyrian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	кольччыны	NOM	ELA	Y	NOMELA									
-34	Komi_Zyrian	66	plough	X (plough) Y	пахать	X (пахать) Y	гöрны	TR		TR	TR									
-34	Komi_Zyrian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	 									Либо руки пахнущие бензином, либо от рук запах бензина		
-34	Komi_Zyrian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	вуджны	TR		TR	TR									
-34	Komi_Zyrian	69	sing	X (sing) Y	петь	X (петь) Y	сьывны	TR		TR	TR									
-34	Komi_Zyrian	70	write	X (write) Y	писать	X (писать) Y	гижны 	TR		TR	TR									
-34	Komi_Zyrian	71	drink	X (drink) Y	пить	X (пить) Y	юны 	TR		TR	TR									
-34	Komi_Zyrian	72	melt	X (melt) Y	плавить	X (плавить) Y	сывдыны 	TR		TR	TR									
-34	Komi_Zyrian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	лöсявны	NOM	дороILL	Y	NOMdoroILL									
-34	Komi_Zyrian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	кольны	TR		TR	TR									
-34	Komi_Zyrian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	вевттыны	TR		TR	TR									
-34	Komi_Zyrian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	помнитны	TR		TR	TR									
-34	Komi_Zyrian	77	help	X (help) Y	помочь	X (помогать) Y-у	отсавны 	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	78	understand	X (understand) Y	понимать	X (понимать) Y	гöгöрвоны	TR		TR	TR									
-34	Komi_Zyrian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	веськавны	NOM	ILL	Y	NOMILL									
-34	Komi_Zyrian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	вундысьны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	лепитчыны	NOM	ILL	Y	NOMILL									
-34	Komi_Zyrian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	ворссьыны	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	радлыны	NOM	DAT	Y	NOMDAT							Был еще отброшенный вариат с другой конструкцией и необычной схемой DAT_ELA		
-34	Komi_Zyrian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	сёрнитны 	NOM	COM	Y	NOMCOM									
-34	Komi_Zyrian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	чужтны 	TR		TR	TR									
-34	Komi_Zyrian	86	drop	X (drop) Y	ронять	X (ронять) Y	уськöдны	TR		TR	TR									
-34	Komi_Zyrian	87	govern	X (govern) Y	руководить	X (руководить) Y	веськöдлыны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	гажтöмтчыны	NOM	ELA	Y	NOMELA									
-34	Komi_Zyrian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*										Только идти сзади от кого-то		
-34	Komi_Zyrian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	лэччыны	NOM	вылысьELA	Y	NOMvylysELA									
-34	Komi_Zyrian	91	listen	X (listen) to Y	слушать	X (слушать) Y	кывзыны 	TR		TR	TR									
-34	Komi_Zyrian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	кывзысьны	NOM	ABL	Y	NOMABL									
-34	Komi_Zyrian	93	hear	X (hear) Y	слышать	X (слышать) Y	кывны	TR		TR	TR									
-34	Komi_Zyrian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	öтлаасьны	NOM	COM	Y	NOMCOM									
-34	Komi_Zyrian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	видзöдны 	NOM	вылоILL	Y	NOMvyloILL									
-34	Komi_Zyrian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	пöрччыны	TR		TR	TR									
-34	Komi_Zyrian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	вöтавны	TR		TR	TR									
-34	Komi_Zyrian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	воны öти кывйö	NOM	COM	Y	NOMCOM							"Букв. ""Придтти к одному слову"""		
-34	Komi_Zyrian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	пинясьны 	NOM	COM	Y	NOMCOM									
-34	Komi_Zyrian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	сулавны 	NOM	NOM	Y	NOMNOM									
-34	Komi_Zyrian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	лыйны 	NOM	ILL	Y	NOMILL									
-34	Komi_Zyrian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	пуктыны 	TR		TR	TR									
-34	Komi_Zyrian	103	lose	X (lose) Y	терять	X (терять) Y	воштыны	TR		TR	TR									
-34	Komi_Zyrian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	вöйны 	NOM	INE	Y	NOMINE									
-34	Komi_Zyrian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	вийны 	TR		TR	TR									
-34	Komi_Zyrian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	кучкыны	TR		TR	TR									
-34	Komi_Zyrian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	окыштны 	TR		TR	TR									
-34	Komi_Zyrian	108	read	X (read) Y	читать	X (читать) Y-а	лыддьыны	TR		TR	TR									
-34	Komi_Zyrian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	вöрöдыштны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	пыдди пуктыны	TR		TR	TR							"Букв. ""ставить за"""		
-34	Komi_Zyrian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	зывöктны 	TR		TR	TR									
-34	Komi_Zyrian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	дöвöлен	NOM	INS	Y	NOMINS							Видимо, NV		
-34	Komi_Zyrian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	мусмыны	DAT	NOM	X	DATNOM									
-34	Komi_Zyrian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	эскыны	*										Тот же глагол, что верить (NOM_DAT), не берем		
-34	Komi_Zyrian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жалитны	TR		TR	TR									
-34	Komi_Zyrian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завидьтыны	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	скöравны 	*										Совпало с 122		
-34	Komi_Zyrian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	чуймыны	NOM	DAT	Y	NOMDAT									
-34	Komi_Zyrian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	радейтны 	*										Тот же глагол, что любить-1, решил не брать		
-34	Komi_Zyrian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	чöсмасьны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	кöсйыны	TR		TR	TR									
-34	Komi_Zyrian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	скöравны 	NOM	вылоILL	Y	NOMvyloILL							Совпало с 117 (который я не беру)		
-34	Komi_Zyrian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	лёкавны 	NOM	вылоILL	Y	NOMvyloILL									
-34	Komi_Zyrian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	майшöдлыны	TR		TR	TR									
-34	Komi_Zyrian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	шензьыны	NOM	INS	Y	NOMINS									
-34	Komi_Zyrian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	мустöмтны 	*										"Решил не брать, совпадает 57 ""ненавидеть"", но то значение более точно"		
-34	Komi_Zyrian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	шогö усьны	NOM	пындаNOM	Y	NOMpyndaNOM							"Букв. ""упасть в горе"""		
-34	Komi_Zyrian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	дöзмыны	NOM	вылоILL	Y	NOMvyloILL							Там послелог в какой-то особой форме		
-34	Komi_Zyrian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*										"По сути там есть только вариант, похожий на нравиться, ""приходить кому-то на сердце"" и т.п."		
-34	Komi_Zyrian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	яндысьны	NOM	ELA	Y	NOMELA									
+34	Komi_Zyrian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	висьны	GEN	NOM	X	GEN_NOM									
+34	Komi_Zyrian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	висьны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	повны	NOM	ELA	Y	NOM_ELA									
+34	Komi_Zyrian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	шибитны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	тырмыны	DAT	NOM	X	DAT_NOM									
+34	Komi_Zyrian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	ветлыны	NOM	vylo	Y	NOM_vylo									
+34	Komi_Zyrian	7	believe	X (believe) Y	верить	X (верить)Y-у	эскыны	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	8	take	X (take) Y	взять	X (брать) Y(-а)	босьтны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	аддзыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	тöдчыны	NOM	vylo	Y	NOM_vylo									
+34	Komi_Zyrian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	паныдасьны	NOM	COM	Y	NOM_COM									
+34	Komi_Zyrian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	пырны	NOM	ILL	Y	NOM_ILL									
+34	Komi_Zyrian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	вермыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	петны	NOM	ELA	Y	NOM_ELA									
+34	Komi_Zyrian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	вöтлыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	кусыньтны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	шуны	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	кутны 	NOM	ACC	TR	TR							Совпало с 43		
+34	Komi_Zyrian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	суöдны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	20	milk	X (milk) Y	доить	X (доить) Y-а	лысьтыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	воöдчыны	NOM	TERM	Y	NOM_TERM									
+34	Komi_Zyrian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	инмöдчыны	NOM	ILL	Y	NOM_ILL									
+34	Komi_Zyrian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	тышкасьны	NOM	COM	Y	NOM_COM									
+34	Komi_Zyrian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	ёртасьны	NOM	COM	Y	NOM_COM									
+34	Komi_Zyrian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	мöвпавны 	NOM	jylys	Y	NOM_jylys									
+34	Komi_Zyrian	26	eat	X (eat) Y	есть	X (есть) Y	сёйны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	27	fry	X (fry) Y	жарить	X (жарить) Y	жаритны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	виччысьны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	вынöдны	NOM	jylys	Y	NOM_jylys									
+34	Komi_Zyrian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	*	*								"Фактически есть только ""на памяти отражается возраст"""		
+34	Komi_Zyrian	31	call	X (call) Y	звать	X (звать) Y-а	корны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	тöдмасьны	NOM	COM	Y	NOM_COM									
+34	Komi_Zyrian	33	know	X (know) Y	знать 	X (знать) Y-а	тöдны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	ворсны 	NOM	vylyn	Y	NOM_vylyn									
+34	Komi_Zyrian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	пышйыны	NOM	ELA	Y	NOM_ELA									
+34	Komi_Zyrian	36	make	X (make) Y	изготовить	X (изготовить) Y	вöчны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	тешитчыны	NOM	vylyn	Y	NOM_vylyn									
+34	Komi_Zyrian	38	have	X (have) Y	иметь	X (иметь) Y	вöвны	GEN	NOM	X	GEN_NOM							"Буквально ""быть"", порядок слов ""кого-то что-то есть"""		
+34	Komi_Zyrian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	корсьны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	40	paint	X (paint) Y	красить	X (красить) Y	краситны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	курччыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	кольны	NOM	ABE	Y	NOM_ABE							"Буквально ""остаться"""		
+34	Komi_Zyrian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	кутны	*	*	*								"Совпало с держать ""18"", не беру"		
+34	Komi_Zyrian	44	break	X (break) Y	ломать	X (ломать) Y	чегны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	сöрны	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	радейтны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	47	wave	X (wave) Y	махать	X (махать) Y-ом	шенасьны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	мöвпавны	*	*	*								Совпало с 25, не беру		
+34	Komi_Zyrian	49	wash	X (wash) Y	мыть	X (мыть) Y	мыськыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	пасьтавны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	51	be_called	X (be_called) Y	называться	X (называться) Y	шусьыны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	накажитны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	уськöдчыны	NOM	vylo	Y	NOM_vylo									
+34	Komi_Zyrian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	тырны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	55	find	X (find) Y	находить	X (находить) Y(-а)	аддзыны	*	*	*								"Совпадало с ""видеть"", 9, видимо, там это основное значение, не беру"		
+34	Komi_Zyrian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG_тырмыны	DAT	NOM	X	DAT_NOM									
+34	Komi_Zyrian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	мустöмтны	NOM	ACC	TR	TR							Совпадает с 126		
+34	Komi_Zyrian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	кажитчыны	DAT	NOM	X	DAT_NOM							Проверить, было NOM DAT		
+34	Komi_Zyrian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	ковны	DAT	NOM	X	DAT_NOM									
+34	Komi_Zyrian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	кытшовтыны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	кольны	GEN	NOM	X	GEN_NOM									
+34	Komi_Zyrian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	вочавидзны	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	63	open	X (open) Y	открывать	X (открывать) Y	восьтыны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	торъявны	NOM	ELA	Y	NOM_ELA									
+34	Komi_Zyrian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	кольччыны	NOM	ELA	Y	NOM_ELA									
+34	Komi_Zyrian	66	plough	X (plough) Y	пахать	X (пахать) Y	гöрны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	*	*								Либо руки пахнущие бензином, либо от рук запах бензина		
+34	Komi_Zyrian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	вуджны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	69	sing	X (sing) Y	петь	X (петь) Y	сьывны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	70	write	X (write) Y	писать	X (писать) Y	гижны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	71	drink	X (drink) Y	пить	X (пить) Y	юны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	72	melt	X (melt) Y	плавить	X (плавить) Y	сывдыны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	лöсявны	NOM	doro	Y	NOM_doro									
+34	Komi_Zyrian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	кольны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	вевттыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	помнитны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	77	help	X (help) Y	помочь	X (помогать) Y-у	отсавны 	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	78	understand	X (understand) Y	понимать	X (понимать) Y	гöгöрвоны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	веськавны	NOM	ILL	Y	NOM_ILL									
+34	Komi_Zyrian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	вундысьны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	лепитчыны	NOM	ILL	Y	NOM_ILL									
+34	Komi_Zyrian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	ворссьыны	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	радлыны	NOM	DAT	Y	NOM_DAT							Был еще отброшенный вариат с другой конструкцией и необычной схемой DAT_ELA		
+34	Komi_Zyrian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	сёрнитны 	NOM	COM	Y	NOM_COM									
+34	Komi_Zyrian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	чужтны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	86	drop	X (drop) Y	ронять	X (ронять) Y	уськöдны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	87	govern	X (govern) Y	руководить	X (руководить) Y	веськöдлыны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	гажтöмтчыны	NOM	ELA	Y	NOM_ELA									
+34	Komi_Zyrian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	*	*	*	*								Только идти сзади от кого-то		
+34	Komi_Zyrian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	лэччыны	NOM	vylys	Y	NOM_vylys									
+34	Komi_Zyrian	91	listen	X (listen) to Y	слушать	X (слушать) Y	кывзыны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	кывзысьны	NOM	ABL	Y	NOM_ABL									
+34	Komi_Zyrian	93	hear	X (hear) Y	слышать	X (слышать) Y	кывны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	öтлаасьны	NOM	COM	Y	NOM_COM									
+34	Komi_Zyrian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	видзöдны 	NOM	vylo	Y	NOM_vylo									
+34	Komi_Zyrian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	пöрччыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	вöтавны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	воны öти кывйö	NOM	COM	Y	NOM_COM							"Букв. ""Придтти к одному слову"""		
+34	Komi_Zyrian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	пинясьны 	NOM	COM	Y	NOM_COM									
+34	Komi_Zyrian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	сулавны 	NOM	NOM	Y	NOM_NOM									
+34	Komi_Zyrian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	лыйны 	NOM	ILL	Y	NOM_ILL									
+34	Komi_Zyrian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	пуктыны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	103	lose	X (lose) Y	терять	X (терять) Y	воштыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	вöйны 	NOM	INE	Y	NOM_INE									
+34	Komi_Zyrian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	вийны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	кучкыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	окыштны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	108	read	X (read) Y	читать	X (читать) Y-а	лыддьыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	вöрöдыштны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	пыдди пуктыны	NOM	ACC	TR	TR							"Букв. ""ставить за"""		
+34	Komi_Zyrian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	зывöктны 	NOM	ACC	TR	TR									
+34	Komi_Zyrian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	дöвöлен	NOM	INS	Y	NOM_INS							Видимо, NV		
+34	Komi_Zyrian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	мусмыны	DAT	NOM	X	DAT_NOM									
+34	Komi_Zyrian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	эскыны	*	*	*								Тот же глагол, что верить (NOM_DAT), не берем		
+34	Komi_Zyrian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жалитны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завидьтыны	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	скöравны 	*	*	*								Совпало с 122		
+34	Komi_Zyrian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	чуймыны	NOM	DAT	Y	NOM_DAT									
+34	Komi_Zyrian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	радейтны 	*	*	*								Тот же глагол, что любить-1, решил не брать		
+34	Komi_Zyrian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	чöсмасьны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	кöсйыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	скöравны 	NOM	vylo	Y	NOM_vylo							Совпало с 117 (который я не беру)		
+34	Komi_Zyrian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	лёкавны 	NOM	vylo	Y	NOM_vylo									
+34	Komi_Zyrian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	майшöдлыны	NOM	ACC	TR	TR									
+34	Komi_Zyrian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	шензьыны	NOM	INS	Y	NOM_INS									
+34	Komi_Zyrian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	мустöмтны 	*	*	*								"Решил не брать, совпадает 57 ""ненавидеть"", но то значение более точно"		
+34	Komi_Zyrian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	шогö усьны	NOM	ponda	Y	NOM_pynda							"Букв. ""упасть в горе"""		
+34	Komi_Zyrian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	дöзмыны	NOM	vylo	Y	NOM_vylo							Там послелог в какой-то особой форме		
+34	Komi_Zyrian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*								"По сути там есть только вариант, похожий на нравиться, ""приходить кому-то на сердце"" и т.п."		
+34	Komi_Zyrian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	яндысьны	NOM	ELA	Y	NOM_ELA									

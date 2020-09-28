@@ -2,129 +2,129 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 75	Udi	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	q'ač'+LV	GEN	ABS	X	GEN_ABS							Судя по порядку слов, GEN скорее клаузального уровня
 75	Udi	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	baft'	ABS	ABS	X	ABS_ABS							"Это очень необычная модель. Глагол букв. ""падать"", не связочный, но при этом болезнь в локативе."
 75	Udi	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	q'ı̌+LV	ERG	ABL	Y	ERG_ABL							
-75	Udi	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bos	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	bos	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
 75	Udi	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	xeylək+BE	GEN	ABS	X	GEN_ABS							"NV. Букв. ""у Давида теперь немало деньги-есть"". Давид составляющая уровня клаузы, судя по всему."
 75	Udi	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	oşq'ar	ABS	DAT	Y	ABS_DAT							NV
 75	Udi	7	believe	X (believe) Y	верить	X (верить)Y-у	vě	ABS	DAT	Y	ABS_DAT							"Тимур: ""это кажется странным, но в данном случае это действительно неоформленный предикат, совпадающий с существительным «вера»"""
-75	Udi	8	take	X (take) Y	взять	X (брать) Y(-а)	ex+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ak'	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
-75	Udi	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	təsir+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	8	take	X (take) Y	взять	X (брать) Y(-а)	ex+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ak'	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	təsir+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	irəst'=e har-	ABS	ABL	Y	ABS_ABL							"CV (""навстречу приходить"")"
 75	Udi	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	baś	ABS	DAT	Y	ABS_DAT							
-75	Udi	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ta==şer	TR		TR	TR							"Букв. ""уносить"". В конкретном примере ERG-DAT (это DOM)"
+75	Udi	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	ta==şer	ERG	ABS	TR	TR							"Букв. ""уносить"". В конкретном примере ERG-DAT (это DOM)"
 75	Udi	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	c'er	ABS	ABL	Y	ABS_ABL							
-75	Udi	15	drive	X (drive) Y	гнать	X (гнать) Y-а	c'ev	TR		TR	TR							"Букв. ""вынимать"". В конкретном примере ERG-DAT (это DOM)"
-75	Udi	16	bend	X (bend) Y	гнуть	X (гнуть) Y	k'os'+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	15	drive	X (drive) Y	гнать	X (гнать) Y-а	c'ev	ERG	ABS	TR	TR							"Букв. ""вынимать"". В конкретном примере ERG-DAT (это DOM)"
+75	Udi	16	bend	X (bend) Y	гнуть	X (гнуть) Y	k'os'+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	17	tell	X (tell) Y	говорить	X (говорить) Y-у	p	ERG	DAT	Y	ERG_DAT							Это именно что ERG-DAT: в отличие от DOM, тут даже теоретически не может быть ничего, кроме DAT
 75	Udi	18	hold	X (hold)Y	держать	X (держать) Y(-а)	COP	GEN	ABS	X	GEN_ABS							"В файле длинное обсуждение; в частности там часто добавляется ""в руках""; в еще есть вариант -- переходная конструкция с глаголом ""брать"""
 75	Udi	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	pːa	ABL	DAT	XY	ABL_DAT							"Буквально ""достичь"""
-75	Udi	20	milk	X (milk) Y	доить	X (доить) Y-а	çax+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	20	milk	X (milk) Y	доить	X (доить) Y-а	çax+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	pːa	ABL	DAT	XY	ABL_DAT							
-75	Udi	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	kul+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	kul+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	dava+LV	ERG	ABL	Y	ERG_ABL							
 75	Udi	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	dost'luğ+LV	ERG	ABL	Y	ERG_ABL							
 75	Udi	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	fikir+LV	ERG	ABL	Y	ERG_ABL							
-75	Udi	26	eat	X (eat) Y	есть	X (есть) Y	kəy	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	27	fry	X (fry) Y	жарить	X (жарить) Y	č'oč'a	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	26	eat	X (eat) Y	есть	X (есть) Y	kəy	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	27	fry	X (fry) Y	жарить	X (жарить) Y	č'oč'a	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	yaq'-a=ne běğ	ERG	GEN	Y	ERG_GEN							"Не уверен, что это стоит засчитывать: буквально это ""смотрит (переходно) дорогу Y-а"", т.е. второй актант кодируется как компонент ИГ"
-75	Udi	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	eyexun=e c'evk'-	TR		TR	TR							"CV. Букв. ""из памяти вынимать"". В конкретном примере ERG-DAT (это DOM)"
+75	Udi	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	eyexun=e c'evk'-	ERG	ABS	TR	TR							"CV. Букв. ""из памяти вынимать"". В конкретном примере ERG-DAT (это DOM)"
 75	Udi	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	asılı	ABS	ABL	Y	ABS_ABL							NV
-75	Udi	31	call	X (call) Y	звать	X (звать) Y-а	k'al+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	31	call	X (call) Y	звать	X (звать) Y-а	k'al+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	tanış bak-	ABS	ABL	Y	ABS_ABL							CV (знакомый стать)
-75	Udi	33	know	X (know) Y	знать 	X (знать) Y-а	çal+ST	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	far+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	33	know	X (know) Y	знать 	X (знать) Y-а	çal+ST	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	far+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
 75	Udi	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	t'i+ST	ABS	ABL	Y	ABS_ABL							"Комм.: ""буквально это значит «убегает от», но используется и в нужном смысле"""
-75	Udi	36	make	X (make) Y	изготовить	X (изготовить) Y	düz+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	36	make	X (make) Y	изготовить	X (изготовить) Y	düz+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
 75	Udi	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	lağ-a=ne haq'	ERG	DAT	Y	ERG_DAT							"CV (""насмешку брать""). Есть длинное обсуждение в файле, показывающее, почему это надо считать именно ERG-DAT, а не переходной конструкцией и DOM"
 75	Udi	38	have	X (have) Y	иметь	X (иметь) Y	COP	GEN	ABS	X	GEN_ABS							"""Машина Х-а есть"", где ""есть"" это к тому же копула-суффикс"
-75	Udi	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	qə̌v	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	40	paint	X (paint) Y	красить	X (красить) Y	mas'i+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	41	bite	X (bite) Y	кусать	X (кусать) Y-а	biq'	TR		TR	TR							"Букв. ""хватать"", то же, что 43. В конкретном примере ERG-DAT (это DOM)"
+75	Udi	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	qə̌v	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	40	paint	X (paint) Y	красить	X (красить) Y	mas'i+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	41	bite	X (bite) Y	кусать	X (кусать) Y-а	biq'	ERG	ABS	TR	TR							"Букв. ""хватать"", то же, что 43. В конкретном примере ERG-DAT (это DOM)"
 75	Udi	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	mand-	ABS	CAR	Y	ABS_CAR							"Букв. ""остаться"""
-75	Udi	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	biq'	TR		TR	TR							"Букв. ""хватать"", то же, что 41. В конкретном примере ERG-DAT (это DOM)"
-75	Udi	44	break	X (break) Y	ломать	X (ломать) Y	xox+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	tərif+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	çur+DAT	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	biq'	ERG	ABS	TR	TR							"Букв. ""хватать"", то же, что 41. В конкретном примере ERG-DAT (это DOM)"
+75	Udi	44	break	X (break) Y	ломать	X (ломать) Y	xox+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	tərif+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	çur+DAT	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	47	wave	X (wave) Y	махать	X (махать) Y-ом	fə̌l+LV	ERG	ERG	Y	ERG_ERG							
-75	Udi	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*		*								"Я не хочу засчитывать, два варианта, оба мне не очень нравятся: 1) просто ""хотеть"", 2) конструкция, которая буквально значит ""желание Х-а -- Y""; она сомнительная и синтаксически, и в смысле семантики "
-75	Udi	49	wash	X (wash) Y	мыть	X (мыть) Y	os'+ST	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	50	put_on	X (put_on) Y	надевать	X (надевать) Y	lap	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*	*	*								"Я не хочу засчитывать, два варианта, оба мне не очень нравятся: 1) просто ""хотеть"", 2) конструкция, которая буквально значит ""желание Х-а -- Y""; она сомнительная и синтаксически, и в смысле семантики "
+75	Udi	49	wash	X (wash) Y	мыть	X (мыть) Y	os'+ST	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	50	put_on	X (put_on) Y	надевать	X (надевать) Y	lap	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	51	be_called	X (be_called) Y	называться	X (называться) Y	s'i	GEN	ABS	X	GEN_ABS							"NV (Букв. ""имя этого -- компас""), 3SG в сокращении означает, что этот абсолютив имеет маркер 3-го лица"
-75	Udi	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	caza+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	caza+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	hücüm+LV	ERG	GENloxol	Y	ERG_GENloxol							
 75	Udi	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	buy=e bak	ABS	ERG	Y	ABS_ERG							"CV (""полный стать"")"
-75	Udi	55	find	X (find) Y	находить	X (находить) Y(-а)	bə̌ğə̌+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	55	find	X (find) Y	находить	X (находить) Y(-а)	bə̌ğə̌+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
 75	Udi	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	kam	GEN	ABS	X	GEN_ABS							"NV (букв. ""недостаточный"")"
-75	Udi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ak'-sun te=ne çur+LV	TR		TR	TR							"CV. Букв. ""видеть не хочет"". В конкретном примере ERG-DAT (это DOM)"
+75	Udi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ak'-sun te=ne çur+LV	ERG	ABS	TR	TR							"CV. Букв. ""видеть не хочет"". В конкретном примере ERG-DAT (это DOM)"
 75	Udi	58	like	X (like) Y	нравиться	X-у (нравиться) Y	xoşel ey-	GEN	ABS	X	GEN_ABS							"CV. Букв. ""приходит по нраву"". То же, что 129"
 75	Udi	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	lazım	DAT	ABS	X	DAT_ABS							NV (Х-у деньги нужно)
-75	Udi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	but'	TR		TR	TR							"Букв. ""закрывают"". В конкретном примере ERG-DAT (это DOM)"
+75	Udi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	but'	ERG	ABS	TR	TR							"Букв. ""закрывают"". В конкретном примере ERG-DAT (это DOM)"
 75	Udi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	mand	AD	ABS	X	AD_ABS							"Букв. ""оставаться"""
 75	Udi	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	coğab-a=ne tad-	ERG	GEN	Y	ERG_GEN							"CV, ""Учитель дал ответ Y-а"". Комм.: Интересно, что например в переводе Ев. от Луки в значении адресата (кому дал ответ) используется все-таки датив."""
-75	Udi	63	open	X (open) Y	открывать	X (открывать) Y	qay+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	63	open	X (open) Y	открывать	X (открывать) Y	qay+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	lari+NEG	ABS	SUPERlari	Y	ABS_SUPERlari							"""Х не есть как Y"", NV (букв. ""Х не есть как Y-abl"")"
 75	Udi	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	qoş=e mand-	ABS	ABL	Y	ABS_ABL							"CV (букв. ""сзади остался"")"
-75	Udi	66	plough	X (plough) Y	пахать	X (пахать) Y	ez+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	66	plough	X (plough) Y	пахать	X (пахать) Y	ez+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	ad+LV	ABL	ERG	XY	ABL_ERG							Выбор локуса неочевиден
 75	Udi	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	c'ova+ST	ABS	ABL	Y	ABS_ABL							
-75	Udi	69	sing	X (sing) Y	петь	X (петь) Y	mə̌ğ+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
-75	Udi	70	write	X (write) Y	писать	X (писать) Y	śam+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
-75	Udi	71	drink	X (drink) Y	пить	X (пить) Y	ǔğ	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
-75	Udi	72	melt	X (melt) Y	плавить	X (плавить) Y	xe+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	69	sing	X (sing) Y	петь	X (петь) Y	mə̌ğ+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	70	write	X (write) Y	писать	X (писать) Y	śam+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	71	drink	X (drink) Y	пить	X (пить) Y	ǔğ	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	72	melt	X (melt) Y	плавить	X (плавить) Y	xe+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
 75	Udi	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	yarayinş+LV	ABS	DAT	Y	ABS_DAT							
 75	Udi	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	c'er	ABS	ABL	Y	ABS_ABL							"Букв. ""выходить"""
-75	Udi	75	cover	X (cover) Y	покрывать	X (покрывать) Y	but'+ST	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	75	cover	X (cover) Y	покрывать	X (покрывать) Y	but'+ST	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	76	remember	X (remember) Y	помнить	X (помнить) Y-а	eyex=e	GEN	ABS	X	GEN_ABS							"NV. Букв. ""Y у X-а хорошо в памяти"""
 75	Udi	77	help	X (help) Y	помочь	X (помогать) Y-у	köməy+LV	ERG	DAT	Y	ERG_DAT							Это именно что ERG-DAT, а не переходная конструкция (ABS невозможен в принципе). Есть обсуждение в файле
-75	Udi	78	understand	X (understand) Y	понимать	X (понимать) Y	q'amiş	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	du+ST	TR		TR	TR							"Букв. ""бить"". В конкретном примере ERG-DAT (это DOM)"
-75	Udi	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	bo	*		*								"Пока получена только конструкция типа ""порезал бритвой руку"", это просто глаголо ""резать""; без ""руки"" никак, не засчитываю"
+75	Udi	78	understand	X (understand) Y	понимать	X (понимать) Y	q'amiş	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	du+ST	ERG	ABS	TR	TR							"Букв. ""бить"". В конкретном примере ERG-DAT (это DOM)"
+75	Udi	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	bo	*	*	*								"Пока получена только конструкция типа ""порезал бритвой руку"", это просто глаголо ""резать""; без ""руки"" никак, не засчитываю"
 75	Udi	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	ləçəq'+LV	ABS	DAT	Y	ABS_DAT							
 75	Udi	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	taşev+ST	ERG	DAT	Y	ERG_DAT							"Каузатив от ""уносить""=""выиграть"", т.е. букв. ""Х дал Y-у выиграть"". Это именно что датив, а не переходная конструкция"
-75	Udi	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	mǔq'+LV	*		*								"Пока что получен только пример с сентенциальным актантом; можно обрадоваться, что получил письмо, но не просто ""обрадоваться письму""."
+75	Udi	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	mǔq'+LV	*	*	*								"Пока что получен только пример с сентенциальным актантом; можно обрадоваться, что получил письмо, но не просто ""обрадоваться письму""."
 75	Udi	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	exlət'+LV	ERG	ABL	Y	ERG_ABL							
-75	Udi	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	eçer	TR		TR	TR							"Букв. ""приносить"". В конкретном примере ERG-ABS (это DOM)"
-75	Udi	86	drop	X (drop) Y	ронять	X (ронять) Y	sa+ST	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	eçer	ERG	ABS	TR	TR							"Букв. ""приносить"". В конкретном примере ERG-ABS (это DOM)"
+75	Udi	86	drop	X (drop) Y	ронять	X (ронять) Y	sa+ST	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	87	govern	X (govern) Y	руководить	X (руководить) Y	kal	ABS	GEN	Y	ABS_GEN							"NV. Букв. ""большой"" (букв. ""Х -- большой Y-а"")"
 75	Udi	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	t'arıxmiş+LV	ERG	BEN	Y	ERG_BEN							
 75	Udi	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	ta+ST	ABS	GENbacanexun	Y	ABS_GENbacanexun							"Букв. ""уходить спина-ABL Y-а"""
 75	Udi	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	śir	ABS	ABL	Y	ABS_ABL							"Букв. ""Спускаться"""
-75	Udi	91	listen	X (listen) to Y	слушать	X (слушать) Y	ǔmǔx+LV	TR		TR	TR							"Исходно это сочетание ""уход класть"". В конкретном примере ERG-ABS (это DOM)"
-75	Udi	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	əyit-ə ǔmǔx+LV	*		*								"Не засчитываю, это букв. ""X слушает [слово Y-а]"""
-75	Udi	93	hear	X (hear) Y	слышать	X (слышать) Y	i+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	91	listen	X (listen) to Y	слушать	X (слушать) Y	ǔmǔx+LV	ERG	ABS	TR	TR							"Исходно это сочетание ""уход класть"". В конкретном примере ERG-ABS (это DOM)"
+75	Udi	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	əyit-ə ǔmǔx+LV	*	*	*								"Не засчитываю, это букв. ""X слушает [слово Y-а]"""
+75	Udi	93	hear	X (hear) Y	слышать	X (слышать) Y	i+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
 75	Udi	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	gər+LV	ABS	DAT	Y	ABS_DAT							
 75	Udi	95	look	X (look) at Y	смотреть	X (смотреть) на Y	běğ	ERG	GENloxol	Y	ERG_GENloxol							
-75	Udi	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	c'e+ST	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nep'-en a-ST	TR		TR	TR							"NV (""видит во сне""). В конкретном примере ERG-DAT (это DOM)"
+75	Udi	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	c'e+ST	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nep'-en a-ST	ERG	ABS	TR	TR							"NV (""видит во сне""). В конкретном примере ERG-DAT (это DOM)"
 75	Udi	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	irəzi=ne bak-	ABS	ABL	Y	ABS_ABL							"NV. Букв. ""согласный стать"""
 75	Udi	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	dava+LV	ERG	ABL	Y	ERG_ABL							"Глагол восходит к сочетанию ""война делать"", поэтому эргатив"
 75	Udi	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	toy	GEN	ABS	X	GEN_ABS							"NV. Букв. ""цена X-а -- Y"""
-75	Udi	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	dǒp+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	102	pour	X (pour) Y	сыпать	X (сыпать) Y	bap	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
-75	Udi	103	lose	X (lose) Y	терять	X (терять) Y	ač'+INF_LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	dǒp+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	102	pour	X (pour) Y	сыпать	X (сыпать) Y	bap	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	103	lose	X (lose) Y	терять	X (терять) Y	ač'+INF_LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	baft'	ABS	DAT	Y	ABS_DAT							"Букв. ""попадать"""
-75	Udi	105	kill	X (kill) Y	убивать	X (убивать) Y-а	bes	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	106	hit	X (hit) Y	ударить	X (ударять) Y-а	du+ST	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	muç+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	108	read	X (read) Y	читать	X (читать) Y-а	k'al+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	gal+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	110	respect	X (respect) Y	уважать	X (уважать) Y-а	hörmət+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	105	kill	X (kill) Y	убивать	X (убивать) Y-а	bes	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	106	hit	X (hit) Y	ударить	X (ударять) Y-а	du+ST	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	muç+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	108	read	X (read) Y	читать	X (читать) Y-а	k'al+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	gal+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	110	respect	X (respect) Y	уважать	X (уважать) Y-а	hörmət+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
 75	Udi	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	irit'+LV	ERG	ABL	Y	ERG_ABL							
 75	Udi	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	irəzi	ABS	ABL	Y	ABS_ABL							NV
-75	Udi	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	çur+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	114	trust	X (trust) Y	доверять	X (доверять) Y-у	ext'ibər+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	gorox ey	TR		TR	TR							"CV ""жалко приходить"". В конкретном примере ERG-DAT (это DOM)"
+75	Udi	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	çur+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	114	trust	X (trust) Y	доверять	X (доверять) Y-у	ext'ibər+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	gorox ey	ERG	ABS	TR	TR							"CV ""жалко приходить"". В конкретном примере ERG-DAT (это DOM)"
 75	Udi	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	paxılluğ+LV	ERG	BEN	Y	ERG_BEN							
 75	Udi	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	əcuğləyinş+LV	ABS	GENloxol	Y	ABS_GENloxol							
 75	Udi	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	məət't'əl mand-	ABS	ABL	Y	ABS_ABL							"CV ""удивленный оставаться"". Еще возможно ERG-DAT и, возможно, ABS_DAT, см. обсуждение в файле на ""поражаться"""
-75	Udi	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	çur+LV	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
-75	Udi	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	läzät haqː-	*		*								"Это буквально ""вкус / наслаждение брать"", при нем только сентенциальный актант; еще получен вариант, идентичный ""нравиться"", тоже не засчитываю. "
-75	Udi	121	want	X (want) Y	хотеть	X (хотеть) Y-а	çur	TR		TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	çur+LV	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
+75	Udi	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	läzät haqː-	*	*	*								"Это буквально ""вкус / наслаждение брать"", при нем только сентенциальный актант; еще получен вариант, идентичный ""нравиться"", тоже не засчитываю. "
+75	Udi	121	want	X (want) Y	хотеть	X (хотеть) Y-а	çur	ERG	ABS	TR	TR							В конкретном примере ERG-ABS (это DOM)
 75	Udi	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	əcuğ-on biq'	GEN	GENloxol	XY	GEN_GENloxol							"Это буквально ""гнев Х-а хватает на Y-а"", уточняю"
 75	Udi	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	oro+LV	ABS	ABL	Y	ABS_ABL							"Есть в файле обсуждение почти синонимии. Сама слово оро- значит ""ссора"""
-75	Udi	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	dirxor+LV	TR		TR	TR							В конкретном примере ERG-DAT (это DOM)
-75	Udi	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	məət't'əl mand-	*		*								"Получен только тот же перевод, что для 118, удивляться. Учитывая сложную историю этого примера, тут в итоге не записываю ничего: ничего специально похожего именно на ""поражаться"", вероятно, и нет"
-75	Udi	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*		*								"Пока что получен только перевод, совпадающий с ""ненавидеть"". Не засчитываю"
+75	Udi	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	dirxor+LV	ERG	ABS	TR	TR							В конкретном примере ERG-DAT (это DOM)
+75	Udi	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	məət't'əl mand-	*	*	*								"Получен только тот же перевод, что для 118, удивляться. Учитывая сложную историю этого примера, тут в итоге не записываю ничего: ничего специально похожего именно на ""поражаться"", вероятно, и нет"
+75	Udi	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*	*	*								"Пока что получен только перевод, совпадающий с ""ненавидеть"". Не засчитываю"
 75	Udi	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	dirxor bak	ABS	GENderden	Y	ABS_GENderden							"CV. ""Расстроенный стал"""
 75	Udi	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	əcuğləyinş+LV	ABS	GENloxol	Y	ABS_GENloxol							
 75	Udi	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	xoşel ey-	GEN	ABS	X	GEN_ABS							"CV. Букв. ""приходит по нраву"". То же, что 58"

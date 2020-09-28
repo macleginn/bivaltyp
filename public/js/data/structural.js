@@ -53859,8 +53859,8 @@ const structuralData = [
     "Kazakh",
     "throw",
     "лақтыр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -53895,8 +53895,8 @@ const structuralData = [
     "Kazakh",
     "take",
     "ал",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -53904,8 +53904,8 @@ const structuralData = [
     "Kazakh",
     "see",
     "көр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -53958,8 +53958,8 @@ const structuralData = [
     "Kazakh",
     "drive",
     "айда",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -53967,8 +53967,8 @@ const structuralData = [
     "Kazakh",
     "bend",
     "майыстыр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -53985,8 +53985,8 @@ const structuralData = [
     "Kazakh",
     "hold",
     "ұста",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -53994,8 +53994,8 @@ const structuralData = [
     "Kazakh",
     "catch_up",
     "қу-ып жет",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54003,8 +54003,8 @@ const structuralData = [
     "Kazakh",
     "milk",
     "сау",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54057,8 +54057,8 @@ const structuralData = [
     "Kazakh",
     "eat",
     "же",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54066,8 +54066,8 @@ const structuralData = [
     "Kazakh",
     "fry",
     "қуыр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54075,8 +54075,8 @@ const structuralData = [
     "Kazakh",
     "wait",
     "тос",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54084,8 +54084,8 @@ const structuralData = [
     "Kazakh",
     "forget",
     "ұмыт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54102,8 +54102,8 @@ const structuralData = [
     "Kazakh",
     "call",
     "шақыр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54120,8 +54120,8 @@ const structuralData = [
     "Kazakh",
     "know",
     "біл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54147,8 +54147,8 @@ const structuralData = [
     "Kazakh",
     "make",
     "жаса",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54156,8 +54156,8 @@ const structuralData = [
     "Kazakh",
     "make_fun",
     "кемсіт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54174,8 +54174,8 @@ const structuralData = [
     "Kazakh",
     "look_for",
     "ізде",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54183,8 +54183,8 @@ const structuralData = [
     "Kazakh",
     "paint",
     "боя",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54192,8 +54192,8 @@ const structuralData = [
     "Kazakh",
     "bite",
     "қап",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54210,8 +54210,8 @@ const structuralData = [
     "Kazakh",
     "try_to_catch",
     "аула",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54219,8 +54219,8 @@ const structuralData = [
     "Kazakh",
     "break",
     "сындыр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54237,8 +54237,8 @@ const structuralData = [
     "Kazakh",
     "love1",
     "сүй",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54264,8 +54264,8 @@ const structuralData = [
     "Kazakh",
     "wash",
     "жу",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54273,8 +54273,8 @@ const structuralData = [
     "Kazakh",
     "put_on",
     "ки",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54318,8 +54318,8 @@ const structuralData = [
     "Kazakh",
     "find",
     "тап",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54336,8 +54336,8 @@ const structuralData = [
     "Kazakh",
     "hate",
     "жек көр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54363,8 +54363,8 @@ const structuralData = [
     "Kazakh",
     "surround",
     "қорша",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54390,8 +54390,8 @@ const structuralData = [
     "Kazakh",
     "open",
     "аш",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54417,8 +54417,8 @@ const structuralData = [
     "Kazakh",
     "plough",
     "жырт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54426,8 +54426,8 @@ const structuralData = [
     "Kazakh",
     "smell",
     "сас",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54435,8 +54435,8 @@ const structuralData = [
     "Kazakh",
     "cross",
     "кес-іп өт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54444,8 +54444,8 @@ const structuralData = [
     "Kazakh",
     "sing",
     "айт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54453,8 +54453,8 @@ const structuralData = [
     "Kazakh",
     "write",
     "жаз",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54462,8 +54462,8 @@ const structuralData = [
     "Kazakh",
     "drink",
     "іш",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54471,8 +54471,8 @@ const structuralData = [
     "Kazakh",
     "melt",
     "балқыт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54498,8 +54498,8 @@ const structuralData = [
     "Kazakh",
     "cover",
     "жау",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54507,8 +54507,8 @@ const structuralData = [
     "Kazakh",
     "remember",
     "ес-і-нде сақта",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54525,8 +54525,8 @@ const structuralData = [
     "Kazakh",
     "understand",
     "түсін",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54588,8 +54588,8 @@ const structuralData = [
     "Kazakh",
     "give_birth",
     "тап",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54597,8 +54597,8 @@ const structuralData = [
     "Kazakh",
     "drop",
     "түсір",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54615,8 +54615,8 @@ const structuralData = [
     "Kazakh",
     "miss",
     "сағын",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54642,8 +54642,8 @@ const structuralData = [
     "Kazakh",
     "listen",
     "тында",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54651,8 +54651,8 @@ const structuralData = [
     "Kazakh",
     "obey",
     "тында",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54660,8 +54660,8 @@ const structuralData = [
     "Kazakh",
     "hear",
     "ест",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54687,8 +54687,8 @@ const structuralData = [
     "Kazakh",
     "take_off",
     "шеш",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54723,8 +54723,8 @@ const structuralData = [
     "Kazakh",
     "cost",
     "тұр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54732,8 +54732,8 @@ const structuralData = [
     "Kazakh",
     "shoot_at",
     "ат",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54741,8 +54741,8 @@ const structuralData = [
     "Kazakh",
     "pour",
     "сал",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54750,8 +54750,8 @@ const structuralData = [
     "Kazakh",
     "lose",
     "жоғал",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54768,8 +54768,8 @@ const structuralData = [
     "Kazakh",
     "kill",
     "өлтір",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54777,8 +54777,8 @@ const structuralData = [
     "Kazakh",
     "hit",
     "ұр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54786,8 +54786,8 @@ const structuralData = [
     "Kazakh",
     "kiss",
     "сүй",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54795,8 +54795,8 @@ const structuralData = [
     "Kazakh",
     "read",
     "оқ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54804,8 +54804,8 @@ const structuralData = [
     "Kazakh",
     "move#bodypart#",
     "қозғалт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54813,8 +54813,8 @@ const structuralData = [
     "Kazakh",
     "respect",
     "сыйла",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54858,8 +54858,8 @@ const structuralData = [
     "Kazakh",
     "sympathise",
     "ая",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54894,8 +54894,8 @@ const structuralData = [
     "Kazakh",
     "love2",
     "жақсы көр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54912,8 +54912,8 @@ const structuralData = [
     "Kazakh",
     "want",
     "қала",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54939,8 +54939,8 @@ const structuralData = [
     "Kazakh",
     "upset",
     "ренжіт",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54957,8 +54957,8 @@ const structuralData = [
     "Kazakh",
     "despise",
     "жаратпа",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54975,8 +54975,8 @@ const structuralData = [
     "Kazakh",
     "get_irritated",
     "кей",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -54984,8 +54984,8 @@ const structuralData = [
     "Kazakh",
     "be_fond",
     "ұнат",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -55002,2341 +55002,2341 @@ const structuralData = [
     "Khmer",
     "feel_pain",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "have#illness#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "be_afraid",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "throw",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "have_enough",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "resemble",
     "",
-    "",
-    "",
-    "",
-    "NMN"
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
     "Khmer",
     "believe",
     "",
-    "",
-    "",
-    "",
-    "LG"
+    "SBJ",
+    "lo",
+    "Y",
+    "SBJ_lo"
   ],
   [
     "Khmer",
     "take",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "see",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "influence",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "encounter",
     "",
-    "",
-    "",
-    "",
-    "NMN"
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
     "Khmer",
     "enter",
     "",
-    "",
-    "",
-    "",
-    "KNON"
+    "SBJ",
+    "knong",
+    "Y",
+    "SBJ_knong"
   ],
   [
     "Khmer",
     "win",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "go_out",
     "",
-    "",
-    "",
-    "",
-    "PI"
+    "SBJ",
+    "pi",
+    "Y",
+    "SBJ_pi"
   ],
   [
     "Khmer",
     "drive",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "bend",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "tell",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "hold",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "catch_up",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "milk",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "reach",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "touch",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "fight",
     "",
-    "",
-    "",
-    "",
-    "CIAMUAY"
+    "SBJ",
+    "ciemuey",
+    "Y",
+    "SBJ_ciemuey"
   ],
   [
     "Khmer",
     "be_friends",
     "",
-    "",
-    "",
-    "",
-    "NMN"
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
     "Khmer",
     "think",
     "",
-    "",
-    "",
-    "",
-    "DQL"
+    "SBJ",
+    "dal",
+    "Y",
+    "SBJ_dal"
   ],
   [
     "Khmer",
     "eat",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "fry",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "wait",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "forget",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "depend",
     "",
-    "",
-    "",
-    "",
-    "LG"
+    "SBJ",
+    "lo",
+    "Y",
+    "SBJ_lo"
   ],
   [
     "Khmer",
     "call",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "get_to_know",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "know",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "play#instrument#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "avoid",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "make",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "make_fun",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "have",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "look_for",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "paint",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "bite",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "forfeit",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "try_to_catch",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "break",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "flatter",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "love1",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "wave",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "dream",
     "",
-    "",
-    "",
-    "",
-    "DQL"
+    "SBJ",
+    "dal",
+    "Y",
+    "SBJ_dal"
   ],
   [
     "Khmer",
     "wash",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "put_on",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "be_called",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "punish",
     "",
-    "",
-    "",
-    "",
-    "DQL"
+    "SBJ",
+    "dal",
+    "Y",
+    "SBJ_dal"
   ],
   [
     "Khmer",
     "attack",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "fill#intr#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "find",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "be_short",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "hate",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "like",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "need",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "surround",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "remain",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "answer",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "open",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "be_different",
     "",
-    "",
-    "",
-    "",
-    "PI"
+    "SBJ",
+    "pi",
+    "Y",
+    "SBJ_pi"
   ],
   [
     "Khmer",
     "fall_behind",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "plough",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "smell",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "cross",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "sing",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "write",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "drink",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "melt",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "match",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "leave",
     "",
-    "",
-    "",
-    "",
-    "PI"
+    "SBJ",
+    "pi",
+    "Y",
+    "SBJ_pi"
   ],
   [
     "Khmer",
     "cover",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "remember",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "help",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "understand",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "hit#target#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "cut_oneself",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "get_stuck",
     "",
-    "",
-    "",
-    "",
-    "NMN"
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
     "Khmer",
     "lose#game#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "be_glad",
     "",
-    "",
-    "",
-    "",
-    "NMN"
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
     "Khmer",
     "speak",
     "",
-    "",
-    "",
-    "",
-    "CIAMUAY"
+    "SBJ",
+    "ciemuey",
+    "Y",
+    "SBJ_ciemuey"
   ],
   [
     "Khmer",
     "give_birth",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "drop",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "govern",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "miss",
     "",
-    "",
-    "",
-    "",
-    "DQL"
+    "SBJ",
+    "dal",
+    "Y",
+    "SBJ_dal"
   ],
   [
     "Khmer",
     "follow",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "dismount",
     "",
-    "",
-    "",
-    "",
-    "PI"
+    "SBJ",
+    "pi",
+    "Y",
+    "SBJ_pi"
   ],
   [
     "Khmer",
     "listen",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "obey",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "hear",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "mix",
     "",
-    "",
-    "",
-    "",
-    "NMN"
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
     "Khmer",
     "look",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "take_off",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "dream#sleeping#",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "agree",
     "",
-    "",
-    "",
-    "",
-    "CIAMUAY"
+    "SBJ",
+    "ciemuey",
+    "Y",
+    "SBJ_ciemuey"
   ],
   [
     "Khmer",
     "have_a_quarrel",
     "",
-    "",
-    "",
-    "",
-    "CIAMUAY"
+    "SBJ",
+    "ciemuey",
+    "Y",
+    "SBJ_ciemuey"
   ],
   [
     "Khmer",
     "cost",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "shoot_at",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "pour",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "lose",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "sink",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "kill",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "hit",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "kiss",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "read",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "move#bodypart#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Khmer",
     "respect",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "be_squeamish",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "be_content",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "fall_in_love",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "trust",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "sympathise",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "envy",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "be_angry",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "be_surprised",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "love2",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "enjoy",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "want",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "have_a_grudge",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "take_offence",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "upset",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "marvel",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "despise",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "get_upset",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "get_irritated",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "be_fond",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Khmer",
     "be_shy",
-    "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "feel_pain",
     "",
-    "",
-    "",
-    "",
-    "GENNOM"
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
   ],
   [
     "Komi-Permyak",
     "have#illness#",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "be_afraid",
     "",
-    "",
-    "",
-    "",
-    "NOMABL"
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Komi-Permyak",
     "throw",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "have_enough",
     "",
-    "",
-    "",
-    "",
-    "DATNOM"
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
     "Komi-Permyak",
     "resemble",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "believe",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "take",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "see",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "influence",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "encounter",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "enter",
     "",
-    "",
-    "",
-    "",
-    "NOMILL"
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
   ],
   [
     "Komi-Permyak",
     "win",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "go_out",
     "",
-    "",
-    "",
-    "",
-    "NOMELA"
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA"
   ],
   [
     "Komi-Permyak",
     "drive",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "bend",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "tell",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "hold",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "catch_up",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "milk",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "reach",
     "",
-    "",
-    "",
-    "",
-    "NOMdonodz"
+    "NOM",
+    "donodz",
+    "Y",
+    "NOM_donodz"
   ],
   [
     "Komi-Permyak",
     "touch",
     "",
-    "",
-    "",
-    "",
-    "NOMberdo"
+    "NOM",
+    "berdo",
+    "Y",
+    "NOM_berdo"
   ],
   [
     "Komi-Permyak",
     "fight",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "be_friends",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "think",
     "",
-    "",
-    "",
-    "",
-    "NOMponda"
+    "NOM",
+    "ponda",
+    "Y",
+    "NOM_ponda"
   ],
   [
     "Komi-Permyak",
     "eat",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "fry",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "wait",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "forget",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "depend",
     "",
-    "",
-    "",
-    "",
-    "NOMEGR"
+    "NOM",
+    "EGR",
+    "Y",
+    "NOM_EGR"
   ],
   [
     "Komi-Permyak",
     "call",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "get_to_know",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "know",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "play#instrument#",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "avoid",
     "",
-    "",
-    "",
-    "",
-    "NOMshogja"
+    "NOM",
+    "shogja",
+    "Y",
+    "NOM_shogja"
   ],
   [
     "Komi-Permyak",
     "make",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "make_fun",
     "",
-    "",
-    "",
-    "",
-    "NOMvylyn"
+    "NOM",
+    "vylyn",
+    "Y",
+    "NOM_vylyn"
   ],
   [
     "Komi-Permyak",
     "have",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "look_for",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "paint",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "bite",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "forfeit",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "try_to_catch",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "break",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "flatter",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "love1",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "wave",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "dream",
     "",
-    "",
-    "",
-    "",
-    "NOMjylys"
+    "NOM",
+    "jylys",
+    "Y",
+    "NOM_jylys"
   ],
   [
     "Komi-Permyak",
     "wash",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "put_on",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "be_called",
     "",
-    "",
-    "",
-    "",
-    "NOMNOM"
+    "NOM",
+    "NOM",
+    "Y",
+    "NOM_NOM"
   ],
   [
     "Komi-Permyak",
     "punish",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "attack",
     "",
-    "",
-    "",
-    "",
-    "NOMvylo"
+    "NOM",
+    "vylo",
+    "Y",
+    "NOM_vylo"
   ],
   [
     "Komi-Permyak",
     "fill#intr#",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "find",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "be_short",
     "",
-    "",
-    "",
-    "",
-    "DATNOM"
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
     "Komi-Permyak",
     "hate",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "like",
     "",
-    "",
-    "",
-    "",
-    "DATNOM"
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
     "Komi-Permyak",
     "need",
     "",
-    "",
-    "",
-    "",
-    "DATNOM"
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
     "Komi-Permyak",
     "surround",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "remain",
     "",
-    "",
-    "",
-    "",
-    "GENNOM"
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
   ],
   [
     "Komi-Permyak",
     "answer",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "open",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "be_different",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "fall_behind",
     "",
-    "",
-    "",
-    "",
-    "NOMborsjan"
+    "NOM",
+    "borsjan",
+    "Y",
+    "NOM_borsjan"
   ],
   [
     "Komi-Permyak",
     "plough",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "smell",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "cross",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "sing",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "write",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "drink",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "melt",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "match",
     "",
-    "",
-    "",
-    "",
-    "NOMdyno"
+    "NOM",
+    "dyno",
+    "Y",
+    "NOM_dyno"
   ],
   [
     "Komi-Permyak",
     "leave",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "cover",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "remember",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "help",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "understand",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "hit#target#",
     "",
-    "",
-    "",
-    "",
-    "NOMILL"
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
   ],
   [
     "Komi-Permyak",
     "cut_oneself",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "get_stuck",
     "",
-    "",
-    "",
-    "",
-    "NOMberdo"
+    "NOM",
+    "berdo",
+    "Y",
+    "NOM_berdo"
   ],
   [
     "Komi-Permyak",
     "lose#game#",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "be_glad",
     "",
-    "",
-    "",
-    "",
-    "NOMponda"
+    "NOM",
+    "ponda",
+    "Y",
+    "NOM_ponda"
   ],
   [
     "Komi-Permyak",
     "speak",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "give_birth",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "drop",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "govern",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "miss",
     "",
-    "",
-    "",
-    "",
-    "NOMponda"
+    "NOM",
+    "ponda",
+    "Y",
+    "NOM_ponda"
   ],
   [
     "Komi-Permyak",
     "follow",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "dismount",
     "",
-    "",
-    "",
-    "",
-    "NOMvylis"
+    "NOM",
+    "vylis",
+    "Y",
+    "NOM_vylis"
   ],
   [
     "Komi-Permyak",
     "listen",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "obey",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "hear",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "mix",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "look",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "take_off",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "dream#sleeping#",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "agree",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "have_a_quarrel",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "cost",
     "",
-    "",
-    "",
-    "",
-    "NOMNOM"
+    "NOM",
+    "NOM",
+    "Y",
+    "NOM_NOM"
   ],
   [
     "Komi-Permyak",
     "shoot_at",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "pour",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "lose",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "sink",
     "",
-    "",
-    "",
-    "",
-    "NOMILL"
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
   ],
   [
     "Komi-Permyak",
     "kill",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "hit",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "kiss",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "read",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "move#bodypart#",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "respect",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "be_squeamish",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "be_content",
     "",
-    "",
-    "",
-    "",
-    "NOMponda"
+    "NOM",
+    "ponda",
+    "Y",
+    "NOM_ponda"
   ],
   [
     "Komi-Permyak",
     "fall_in_love",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "trust",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "sympathise",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "envy",
     "",
-    "",
-    "",
-    "",
-    "NOMDAT"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Komi-Permyak",
     "be_angry",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "be_surprised",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "love2",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "enjoy",
     "",
-    "",
-    "",
-    "",
-    "NOMINS"
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
     "Komi-Permyak",
     "want",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "have_a_grudge",
     "",
-    "",
-    "",
-    "",
-    "NOMCOM"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Komi-Permyak",
     "take_offence",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "upset",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "marvel",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "despise",
     "",
-    "",
-    "",
-    "",
+    "NOM",
+    "ACC",
+    "TR",
     "TR"
   ],
   [
     "Komi-Permyak",
     "get_upset",
     "",
-    "",
-    "",
-    "",
-    "NOMponda"
+    "NOM",
+    "ponda",
+    "Y",
+    "NOM_ponda"
   ],
   [
     "Komi-Permyak",
     "get_irritated",
     "",
-    "",
-    "",
-    "",
-    "NOMSUPLAT"
+    "NOM",
+    "SUPLAT",
+    "Y",
+    "NOM_SUPLAT"
   ],
   [
     "Komi-Permyak",
     "be_fond",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Permyak",
     "be_shy",
     "",
-    "",
-    "",
-    "",
-    "NOMELA"
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA"
   ],
   [
     "Komi-Zyrian",
@@ -57345,7 +57345,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Komi-Zyrian",
@@ -57354,7 +57354,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
@@ -57363,14 +57363,14 @@ const structuralData = [
     "NOM",
     "ELA",
     "Y",
-    "NOMELA"
+    "NOM_ELA"
   ],
   [
     "Komi-Zyrian",
     "throw",
     "шибитны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57381,16 +57381,16 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Komi-Zyrian",
     "resemble",
     "ветлыны",
     "NOM",
-    "вылоILL",
+    "vylo",
     "Y",
-    "NOMvyloILL"
+    "NOM_vylo"
   ],
   [
     "Komi-Zyrian",
@@ -57399,14 +57399,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
     "take",
     "босьтны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57414,8 +57414,8 @@ const structuralData = [
     "Komi-Zyrian",
     "see",
     "аддзыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57424,9 +57424,9 @@ const structuralData = [
     "influence",
     "тöдчыны",
     "NOM",
-    "вылоILL",
+    "vylo",
     "Y",
-    "NOMvyloILL"
+    "NOM_vylo"
   ],
   [
     "Komi-Zyrian",
@@ -57435,7 +57435,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
@@ -57444,14 +57444,14 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Komi-Zyrian",
     "win",
     "вермыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57462,14 +57462,14 @@ const structuralData = [
     "NOM",
     "ELA",
     "Y",
-    "NOMELA"
+    "NOM_ELA"
   ],
   [
     "Komi-Zyrian",
     "drive",
     "вöтлыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57477,8 +57477,8 @@ const structuralData = [
     "Komi-Zyrian",
     "bend",
     "кусыньтны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57489,14 +57489,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
     "hold",
     "кутны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57504,8 +57504,8 @@ const structuralData = [
     "Komi-Zyrian",
     "catch_up",
     "суöдны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57513,8 +57513,8 @@ const structuralData = [
     "Komi-Zyrian",
     "milk",
     "лысьтыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57525,7 +57525,7 @@ const structuralData = [
     "NOM",
     "TERM",
     "Y",
-    "NOMTERM"
+    "NOM_TERM"
   ],
   [
     "Komi-Zyrian",
@@ -57534,7 +57534,7 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Komi-Zyrian",
@@ -57543,7 +57543,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
@@ -57552,23 +57552,23 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
     "think",
     "мöвпавны ",
     "NOM",
-    "йылысьELA",
+    "jylys",
     "Y",
-    "NOMjylysELA"
+    "NOM_jylys"
   ],
   [
     "Komi-Zyrian",
     "eat",
     "сёйны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57576,8 +57576,8 @@ const structuralData = [
     "Komi-Zyrian",
     "fry",
     "жаритны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57585,8 +57585,8 @@ const structuralData = [
     "Komi-Zyrian",
     "wait",
     "виччысьны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57595,25 +57595,25 @@ const structuralData = [
     "forget",
     "вынöдны",
     "NOM",
-    "йылысьELA",
+    "jylys",
     "Y",
-    "NOMjylysELA"
+    "NOM_jylys"
   ],
   [
     "Komi-Zyrian",
     "depend",
     "*",
     "*",
-    " ",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Zyrian",
     "call",
     "корны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57624,14 +57624,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
     "know",
     "тöдны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57640,9 +57640,9 @@ const structuralData = [
     "play#instrument#",
     "ворсны ",
     "NOM",
-    "вылынINE",
+    "vylyn",
     "Y",
-    "NOMvylynINE"
+    "NOM_vylyn"
   ],
   [
     "Komi-Zyrian",
@@ -57651,14 +57651,14 @@ const structuralData = [
     "NOM",
     "ELA",
     "Y",
-    "NOMELA"
+    "NOM_ELA"
   ],
   [
     "Komi-Zyrian",
     "make",
     "вöчны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57667,9 +57667,9 @@ const structuralData = [
     "make_fun",
     "тешитчыны",
     "NOM",
-    "вылынINE",
+    "vylyn",
     "Y",
-    "NOMvylynINE"
+    "NOM_vylyn"
   ],
   [
     "Komi-Zyrian",
@@ -57678,14 +57678,14 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Komi-Zyrian",
     "look_for",
     "корсьны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57693,8 +57693,8 @@ const structuralData = [
     "Komi-Zyrian",
     "paint",
     "краситны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57702,8 +57702,8 @@ const structuralData = [
     "Komi-Zyrian",
     "bite",
     "курччыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57714,23 +57714,23 @@ const structuralData = [
     "NOM",
     "ABE",
     "Y",
-    "NOMABE"
+    "NOM_ABE"
   ],
   [
     "Komi-Zyrian",
     "try_to_catch",
     "кутны",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Zyrian",
     "break",
     "чегны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57741,14 +57741,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
     "love1",
     "радейтны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57759,23 +57759,23 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
     "dream",
     "мöвпавны",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Zyrian",
     "wash",
     "мыськыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57783,8 +57783,8 @@ const structuralData = [
     "Komi-Zyrian",
     "put_on",
     "пасьтавны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57795,14 +57795,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
     "punish",
     "накажитны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57811,9 +57811,9 @@ const structuralData = [
     "attack",
     "уськöдчыны",
     "NOM",
-    "вылоILL",
+    "vylo",
     "Y",
-    "NOMvyloILL"
+    "NOM_vylo"
   ],
   [
     "Komi-Zyrian",
@@ -57822,15 +57822,15 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
     "find",
     "аддзыны",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -57840,14 +57840,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Komi-Zyrian",
     "hate",
     "мустöмтны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57858,7 +57858,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Komi-Zyrian",
@@ -57867,14 +57867,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Komi-Zyrian",
     "surround",
     "кытшовтыны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57885,7 +57885,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Komi-Zyrian",
@@ -57894,14 +57894,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
     "open",
     "восьтыны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57912,7 +57912,7 @@ const structuralData = [
     "NOM",
     "ELA",
     "Y",
-    "NOMELA"
+    "NOM_ELA"
   ],
   [
     "Komi-Zyrian",
@@ -57921,14 +57921,14 @@ const structuralData = [
     "NOM",
     "ELA",
     "Y",
-    "NOMELA"
+    "NOM_ELA"
   ],
   [
     "Komi-Zyrian",
     "plough",
     "гöрны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57937,16 +57937,16 @@ const structuralData = [
     "smell",
     "*",
     "*",
-    " ",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Zyrian",
     "cross",
     "вуджны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57954,8 +57954,8 @@ const structuralData = [
     "Komi-Zyrian",
     "sing",
     "сьывны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57963,8 +57963,8 @@ const structuralData = [
     "Komi-Zyrian",
     "write",
     "гижны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57972,8 +57972,8 @@ const structuralData = [
     "Komi-Zyrian",
     "drink",
     "юны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57981,8 +57981,8 @@ const structuralData = [
     "Komi-Zyrian",
     "melt",
     "сывдыны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -57991,16 +57991,16 @@ const structuralData = [
     "match",
     "лöсявны",
     "NOM",
-    "дороILL",
+    "doro",
     "Y",
-    "NOMdoroILL"
+    "NOM_doro"
   ],
   [
     "Komi-Zyrian",
     "leave",
     "кольны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58008,8 +58008,8 @@ const structuralData = [
     "Komi-Zyrian",
     "cover",
     "вевттыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58017,8 +58017,8 @@ const structuralData = [
     "Komi-Zyrian",
     "remember",
     "помнитны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58029,14 +58029,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
     "understand",
     "гöгöрвоны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58047,7 +58047,7 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Komi-Zyrian",
@@ -58056,7 +58056,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
@@ -58065,7 +58065,7 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Komi-Zyrian",
@@ -58074,7 +58074,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
@@ -58083,7 +58083,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
@@ -58092,14 +58092,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
     "give_birth",
     "чужтны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58107,8 +58107,8 @@ const structuralData = [
     "Komi-Zyrian",
     "drop",
     "уськöдны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58119,7 +58119,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
@@ -58128,15 +58128,15 @@ const structuralData = [
     "NOM",
     "ELA",
     "Y",
-    "NOMELA"
+    "NOM_ELA"
   ],
   [
     "Komi-Zyrian",
     "follow",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -58144,16 +58144,16 @@ const structuralData = [
     "dismount",
     "лэччыны",
     "NOM",
-    "вылысьELA",
+    "vylys",
     "Y",
-    "NOMvylysELA"
+    "NOM_vylys"
   ],
   [
     "Komi-Zyrian",
     "listen",
     "кывзыны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58164,14 +58164,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Komi-Zyrian",
     "hear",
     "кывны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58182,23 +58182,23 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
     "look",
     "видзöдны ",
     "NOM",
-    "вылоILL",
+    "vylo",
     "Y",
-    "NOMvyloILL"
+    "NOM_vylo"
   ],
   [
     "Komi-Zyrian",
     "take_off",
     "пöрччыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58206,8 +58206,8 @@ const structuralData = [
     "Komi-Zyrian",
     "dream#sleeping#",
     "вöтавны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58218,7 +58218,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
@@ -58227,7 +58227,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Komi-Zyrian",
@@ -58236,7 +58236,7 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Komi-Zyrian",
@@ -58245,14 +58245,14 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Komi-Zyrian",
     "pour",
     "пуктыны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58260,8 +58260,8 @@ const structuralData = [
     "Komi-Zyrian",
     "lose",
     "воштыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58272,14 +58272,14 @@ const structuralData = [
     "NOM",
     "INE",
     "Y",
-    "NOMINE"
+    "NOM_INE"
   ],
   [
     "Komi-Zyrian",
     "kill",
     "вийны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58287,8 +58287,8 @@ const structuralData = [
     "Komi-Zyrian",
     "hit",
     "кучкыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58296,8 +58296,8 @@ const structuralData = [
     "Komi-Zyrian",
     "kiss",
     "окыштны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58305,8 +58305,8 @@ const structuralData = [
     "Komi-Zyrian",
     "read",
     "лыддьыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58317,14 +58317,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
     "respect",
     "пыдди пуктыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58332,8 +58332,8 @@ const structuralData = [
     "Komi-Zyrian",
     "be_squeamish",
     "зывöктны ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58344,7 +58344,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
@@ -58353,23 +58353,23 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Komi-Zyrian",
     "trust",
     "эскыны",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Komi-Zyrian",
     "sympathise",
     "жалитны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58380,15 +58380,15 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
     "be_angry",
     "скöравны ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -58398,15 +58398,15 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Komi-Zyrian",
     "love2",
     "радейтны ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -58416,14 +58416,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
     "want",
     "кöсйыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58432,25 +58432,25 @@ const structuralData = [
     "have_a_grudge",
     "скöравны ",
     "NOM",
-    "вылоILL",
+    "vylo",
     "Y",
-    "NOMvyloILL"
+    "NOM_vylo"
   ],
   [
     "Komi-Zyrian",
     "take_offence",
     "лёкавны ",
     "NOM",
-    "вылоILL",
+    "vylo",
     "Y",
-    "NOMvyloILL"
+    "NOM_vylo"
   ],
   [
     "Komi-Zyrian",
     "upset",
     "майшöдлыны",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58461,15 +58461,15 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Komi-Zyrian",
     "despise",
     "мустöмтны ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -58477,26 +58477,26 @@ const structuralData = [
     "get_upset",
     "шогö усьны",
     "NOM",
-    "пындаNOM",
+    "ponda",
     "Y",
-    "NOMpyndaNOM"
+    "NOM_pynda"
   ],
   [
     "Komi-Zyrian",
     "get_irritated",
     "дöзмыны",
     "NOM",
-    "вылоILL",
+    "vylo",
     "Y",
-    "NOMvyloILL"
+    "NOM_vylo"
   ],
   [
     "Komi-Zyrian",
     "be_fond",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -58506,7 +58506,7 @@ const structuralData = [
     "NOM",
     "ELA",
     "Y",
-    "NOMELA"
+    "NOM_ELA"
   ],
   [
     "Latin",
@@ -58530,8 +58530,8 @@ const structuralData = [
     "Latin",
     "be_afraid",
     "timeo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58539,8 +58539,8 @@ const structuralData = [
     "Latin",
     "throw",
     "jaceo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58557,8 +58557,8 @@ const structuralData = [
     "Latin",
     "resemble",
     "imitor",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58575,8 +58575,8 @@ const structuralData = [
     "Latin",
     "take",
     "capio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58584,8 +58584,8 @@ const structuralData = [
     "Latin",
     "see",
     "video",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58593,8 +58593,8 @@ const structuralData = [
     "Latin",
     "influence",
     "afficio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58611,8 +58611,8 @@ const structuralData = [
     "Latin",
     "enter",
     "intro",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58620,8 +58620,8 @@ const structuralData = [
     "Latin",
     "win",
     "evinco",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58638,8 +58638,8 @@ const structuralData = [
     "Latin",
     "drive",
     "ago",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58647,8 +58647,8 @@ const structuralData = [
     "Latin",
     "bend",
     "cornum",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58665,8 +58665,8 @@ const structuralData = [
     "Latin",
     "hold",
     "teneo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58674,8 +58674,8 @@ const structuralData = [
     "Latin",
     "catch_up",
     "consequor",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58683,8 +58683,8 @@ const structuralData = [
     "Latin",
     "milk",
     "mulgeo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58701,8 +58701,8 @@ const structuralData = [
     "Latin",
     "touch",
     "tango",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58728,8 +58728,8 @@ const structuralData = [
     "Latin",
     "think",
     "meditor",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58737,8 +58737,8 @@ const structuralData = [
     "Latin",
     "eat",
     "edo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58746,8 +58746,8 @@ const structuralData = [
     "Latin",
     "fry",
     "frigo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58755,8 +58755,8 @@ const structuralData = [
     "Latin",
     "wait",
     "maneo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58782,8 +58782,8 @@ const structuralData = [
     "Latin",
     "call",
     "voco",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58791,8 +58791,8 @@ const structuralData = [
     "Latin",
     "get_to_know",
     "cognosco",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58800,8 +58800,8 @@ const structuralData = [
     "Latin",
     "know",
     "nosco",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58818,8 +58818,8 @@ const structuralData = [
     "Latin",
     "avoid",
     "vito",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58827,8 +58827,8 @@ const structuralData = [
     "Latin",
     "make",
     "facio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58836,8 +58836,8 @@ const structuralData = [
     "Latin",
     "make_fun",
     "derideo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58845,8 +58845,8 @@ const structuralData = [
     "Latin",
     "have",
     "habeo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58854,8 +58854,8 @@ const structuralData = [
     "Latin",
     "look_for",
     "quaero",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58863,8 +58863,8 @@ const structuralData = [
     "Latin",
     "paint",
     "pingo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58872,8 +58872,8 @@ const structuralData = [
     "Latin",
     "bite",
     "mordeo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58881,8 +58881,8 @@ const structuralData = [
     "Latin",
     "forfeit",
     "amitto",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58890,8 +58890,8 @@ const structuralData = [
     "Latin",
     "try_to_catch",
     "capto",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58899,8 +58899,8 @@ const structuralData = [
     "Latin",
     "break",
     "frango",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58917,8 +58917,8 @@ const structuralData = [
     "Latin",
     "love1",
     "amo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58926,8 +58926,8 @@ const structuralData = [
     "Latin",
     "wave",
     "vibro",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58935,8 +58935,8 @@ const structuralData = [
     "Latin",
     "dream",
     "somnio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58944,8 +58944,8 @@ const structuralData = [
     "Latin",
     "wash",
     "lavo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58953,8 +58953,8 @@ const structuralData = [
     "Latin",
     "put_on",
     "sumo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58971,8 +58971,8 @@ const structuralData = [
     "Latin",
     "punish",
     "punio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58980,8 +58980,8 @@ const structuralData = [
     "Latin",
     "attack",
     "invadeo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -58998,8 +58998,8 @@ const structuralData = [
     "Latin",
     "find",
     "invenio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59016,8 +59016,8 @@ const structuralData = [
     "Latin",
     "hate",
     "odi",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59043,8 +59043,8 @@ const structuralData = [
     "Latin",
     "surround",
     "cingo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59070,8 +59070,8 @@ const structuralData = [
     "Latin",
     "open",
     "retego",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59097,8 +59097,8 @@ const structuralData = [
     "Latin",
     "plough",
     "aro",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59115,8 +59115,8 @@ const structuralData = [
     "Latin",
     "cross",
     "transeo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59124,8 +59124,8 @@ const structuralData = [
     "Latin",
     "sing",
     "cano",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59133,8 +59133,8 @@ const structuralData = [
     "Latin",
     "write",
     "scribo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59142,8 +59142,8 @@ const structuralData = [
     "Latin",
     "drink",
     "bibo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59151,8 +59151,8 @@ const structuralData = [
     "Latin",
     "melt",
     "liquefacio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59169,8 +59169,8 @@ const structuralData = [
     "Latin",
     "leave",
     "linquo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59178,8 +59178,8 @@ const structuralData = [
     "Latin",
     "cover",
     "tego",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59187,8 +59187,8 @@ const structuralData = [
     "Latin",
     "remember",
     "memini",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59196,8 +59196,8 @@ const structuralData = [
     "Latin",
     "help",
     "iuvo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59205,8 +59205,8 @@ const structuralData = [
     "Latin",
     "understand",
     "scio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59214,8 +59214,8 @@ const structuralData = [
     "Latin",
     "hit#target#",
     "percello",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59224,7 +59224,7 @@ const structuralData = [
     "cut_oneself",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -59250,8 +59250,8 @@ const structuralData = [
     "Latin",
     "be_glad",
     "gaudeo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59268,8 +59268,8 @@ const structuralData = [
     "Latin",
     "give_birth",
     "pario",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59277,8 +59277,8 @@ const structuralData = [
     "Latin",
     "drop",
     "demitto",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59286,8 +59286,8 @@ const structuralData = [
     "Latin",
     "govern",
     "administro",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59295,8 +59295,8 @@ const structuralData = [
     "Latin",
     "miss",
     "desidero",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59304,8 +59304,8 @@ const structuralData = [
     "Latin",
     "follow",
     "sequor",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59322,8 +59322,8 @@ const structuralData = [
     "Latin",
     "listen",
     "audio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59340,8 +59340,8 @@ const structuralData = [
     "Latin",
     "hear",
     "audio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59358,8 +59358,8 @@ const structuralData = [
     "Latin",
     "look",
     "aspecto",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59376,8 +59376,8 @@ const structuralData = [
     "Latin",
     "dream#sleeping#",
     "somnio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59421,8 +59421,8 @@ const structuralData = [
     "Latin",
     "pour",
     "infundo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59430,8 +59430,8 @@ const structuralData = [
     "Latin",
     "lose",
     "perdo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59448,8 +59448,8 @@ const structuralData = [
     "Latin",
     "kill",
     "neco",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59457,8 +59457,8 @@ const structuralData = [
     "Latin",
     "hit",
     "percutio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59466,8 +59466,8 @@ const structuralData = [
     "Latin",
     "kiss",
     "osculor",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59475,8 +59475,8 @@ const structuralData = [
     "Latin",
     "read",
     "lego",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59484,8 +59484,8 @@ const structuralData = [
     "Latin",
     "move#bodypart#",
     "moveo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59493,8 +59493,8 @@ const structuralData = [
     "Latin",
     "respect",
     "vereor",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59502,8 +59502,8 @@ const structuralData = [
     "Latin",
     "be_squeamish",
     "fastidio",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59520,8 +59520,8 @@ const structuralData = [
     "Latin",
     "fall_in_love",
     "adamo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59565,8 +59565,8 @@ const structuralData = [
     "Latin",
     "be_surprised",
     "miror",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59574,8 +59574,8 @@ const structuralData = [
     "Latin",
     "love2",
     "amo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59592,8 +59592,8 @@ const structuralData = [
     "Latin",
     "want",
     "volo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59619,8 +59619,8 @@ const structuralData = [
     "Latin",
     "upset",
     "contristo",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59628,8 +59628,8 @@ const structuralData = [
     "Latin",
     "marvel",
     "miror",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59637,8 +59637,8 @@ const structuralData = [
     "Latin",
     "despise",
     "contemno",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59674,7 +59674,7 @@ const structuralData = [
     "be_shy",
     "vercundor",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -59685,32 +59685,32 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Latvian",
     "have#illness#",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "be_afraid",
     "",
     "NOM",
-    "no",
+    "noGEN",
     "Y",
-    "NOMno"
+    "NOM_noGEN"
   ],
   [
     "Latvian",
     "throw",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59721,14 +59721,14 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Latvian",
     "resemble",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59739,14 +59739,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "take",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59754,8 +59754,8 @@ const structuralData = [
     "Latvian",
     "see",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59763,8 +59763,8 @@ const structuralData = [
     "Latvian",
     "influence",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59773,9 +59773,9 @@ const structuralData = [
     "encounter",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
@@ -59784,14 +59784,14 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Latvian",
     "win",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59800,16 +59800,16 @@ const structuralData = [
     "go_out",
     "",
     "NOM",
-    "no",
+    "noGEN",
     "Y",
-    "NOMno"
+    "NOM_noGEN"
   ],
   [
     "Latvian",
     "drive",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59817,8 +59817,8 @@ const structuralData = [
     "Latvian",
     "bend",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59826,8 +59826,8 @@ const structuralData = [
     "Latvian",
     "tell",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59835,8 +59835,8 @@ const structuralData = [
     "Latvian",
     "hold",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59844,8 +59844,8 @@ const structuralData = [
     "Latvian",
     "catch_up",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59853,8 +59853,8 @@ const structuralData = [
     "Latvian",
     "milk",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59862,8 +59862,8 @@ const structuralData = [
     "Latvian",
     "reach",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59874,41 +59874,41 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "fight",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "be_friends",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "think",
     "",
     "NOM",
-    "par ACC",
+    "parACC",
     "Y",
-    "NOMparACC"
+    "NOM_parACC"
   ],
   [
     "Latvian",
     "eat",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59916,8 +59916,8 @@ const structuralData = [
     "Latvian",
     "fry",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59925,8 +59925,8 @@ const structuralData = [
     "Latvian",
     "wait",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59935,25 +59935,25 @@ const structuralData = [
     "forget",
     "",
     "NOM",
-    "par ACC",
+    "parACC",
     "Y",
-    "NOMparACC"
+    "NOM_parACC"
   ],
   [
     "Latvian",
     "depend",
     "",
     "NOM",
-    "no",
+    "noGEN",
     "Y",
-    "NOMno"
+    "NOM_noGEN"
   ],
   [
     "Latvian",
     "call",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59962,16 +59962,16 @@ const structuralData = [
     "get_to_know",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "know",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59979,8 +59979,8 @@ const structuralData = [
     "Latvian",
     "play#instrument#",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -59989,16 +59989,16 @@ const structuralData = [
     "avoid",
     "",
     "NOM",
-    "no",
+    "noGEN",
     "Y",
-    "NOMno"
+    "NOM_noGEN"
   ],
   [
     "Latvian",
     "make",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60007,9 +60007,9 @@ const structuralData = [
     "make_fun",
     "",
     "NOM",
-    "par ACC",
+    "parACC",
     "Y",
-    "NOMparACC"
+    "NOM_parACC"
   ],
   [
     "Latvian",
@@ -60018,14 +60018,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Latvian",
     "look_for",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60033,8 +60033,8 @@ const structuralData = [
     "Latvian",
     "paint",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60045,14 +60045,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "forfeit",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60060,8 +60060,8 @@ const structuralData = [
     "Latvian",
     "try_to_catch",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60069,8 +60069,8 @@ const structuralData = [
     "Latvian",
     "break",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60081,14 +60081,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "love1",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60097,25 +60097,25 @@ const structuralData = [
     "wave",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "dream",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Latvian",
     "wash",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60123,8 +60123,8 @@ const structuralData = [
     "Latvian",
     "put_on",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60133,16 +60133,16 @@ const structuralData = [
     "be_called",
     "",
     "ACC",
-    "par ACC",
+    "parACC",
     "XY",
-    "ACCparACC"
+    "ACC_parACC"
   ],
   [
     "Latvian",
     "punish",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60153,23 +60153,23 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "fill#intr#",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "find",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60180,14 +60180,14 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Latvian",
     "hate",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60198,7 +60198,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Latvian",
@@ -60207,14 +60207,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Latvian",
     "surround",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60225,7 +60225,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Latvian",
@@ -60234,14 +60234,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "open",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60250,26 +60250,26 @@ const structuralData = [
     "be_different",
     "",
     "NOM",
-    "no",
+    "noGEN",
     "Y",
-    "NOMno"
+    "NOM_noGEN"
   ],
   [
     "Latvian",
     "fall_behind",
     "",
     "NOM",
-    "no",
+    "noGEN",
     "Y",
-    "NOMno"
+    "NOM_noGEN"
   ],
   [
     "Latvian",
     "plough",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60277,25 +60277,25 @@ const structuralData = [
     "smell",
     "",
     "NOM",
-    "pec",
+    "pecGEN",
     "Y",
-    "NOMPEC"
+    "NOM_pecGEN"
   ],
   [
     "Latvian",
     "cross",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Latvian",
     "sing",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60303,8 +60303,8 @@ const structuralData = [
     "Latvian",
     "write",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60313,8 +60313,8 @@ const structuralData = [
     "drink",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60322,8 +60322,8 @@ const structuralData = [
     "melt",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60331,16 +60331,16 @@ const structuralData = [
     "match",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Latvian",
     "leave",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60348,8 +60348,8 @@ const structuralData = [
     "Latvian",
     "cover",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60357,8 +60357,8 @@ const structuralData = [
     "Latvian",
     "remember",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60369,14 +60369,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "understand",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60387,25 +60387,25 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Latvian",
     "cut_oneself",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "get_stuck",
     "",
     "NOM",
-    "pie",
+    "pieGEN",
     "Y",
-    "NOMPIE"
+    "NOM_pieGEN"
   ],
   [
     "Latvian",
@@ -60414,32 +60414,32 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "be_glad",
     "",
     "NOM",
-    "par ACC",
+    "parACC",
     "Y",
-    "NOMparACC"
+    "NOM_parACC"
   ],
   [
     "Latvian",
     "speak",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "give_birth",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60447,8 +60447,8 @@ const structuralData = [
     "Latvian",
     "drop",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60457,8 +60457,8 @@ const structuralData = [
     "govern",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60466,17 +60466,17 @@ const structuralData = [
     "miss",
     "",
     "NOM",
-    "pec",
+    "pecGEN",
     "Y",
-    "NOMPEC"
+    "NOM_pecGEN"
   ],
   [
     "Latvian",
     "follow",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60484,9 +60484,9 @@ const structuralData = [
     "dismount",
     "",
     "NOM",
-    "no",
+    "noGEN",
     "Y",
-    "NOMno"
+    "NOM_noGEN"
   ],
   [
     "Latvian",
@@ -60495,7 +60495,7 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Latvian",
@@ -60504,15 +60504,15 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "hear",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60520,8 +60520,8 @@ const structuralData = [
     "mix",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60529,16 +60529,16 @@ const structuralData = [
     "look",
     "",
     "NOM",
-    "uz",
+    "uzACC",
     "Y",
-    "NOMUZ"
+    "NOM_uzACC"
   ],
   [
     "Latvian",
     "take_off",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60547,17 +60547,17 @@ const structuralData = [
     "dream#sleeping#",
     "",
     "NOM",
-    "par ACC",
+    "parACC",
     "Y",
-    "NOMparACC"
+    "NOM_parACC"
   ],
   [
     "Latvian",
     "agree",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60565,16 +60565,16 @@ const structuralData = [
     "have_a_quarrel",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Latvian",
     "cost",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60583,8 +60583,8 @@ const structuralData = [
     "shoot_at",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60592,16 +60592,16 @@ const structuralData = [
     "pour",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Latvian",
     "lose",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60612,14 +60612,14 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Latvian",
     "kill",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60630,14 +60630,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "kiss",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60645,8 +60645,8 @@ const structuralData = [
     "Latvian",
     "read",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60654,8 +60654,8 @@ const structuralData = [
     "Latvian",
     "move#bodypart#",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60663,8 +60663,8 @@ const structuralData = [
     "Latvian",
     "respect",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60672,8 +60672,8 @@ const structuralData = [
     "Latvian",
     "be_squeamish",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60682,8 +60682,8 @@ const structuralData = [
     "be_content",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60693,7 +60693,7 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Latvian",
@@ -60702,23 +60702,23 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "sympathise",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Latvian",
     "envy",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60727,8 +60727,8 @@ const structuralData = [
     "be_angry",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60736,16 +60736,16 @@ const structuralData = [
     "be_surprised",
     "",
     "NOM",
-    "ar",
+    "arACC",
     "Y",
-    "NOMar"
+    "NOM_arACC"
   ],
   [
     "Latvian",
     "love2",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -60754,8 +60754,8 @@ const structuralData = [
     "enjoy",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60763,8 +60763,8 @@ const structuralData = [
     "want",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60772,17 +60772,17 @@ const structuralData = [
     "have_a_grudge",
     "",
     "NOM",
-    "uz",
+    "uzACC",
     "Y",
-    "NOMUZ"
+    "NOM_uzACC"
   ],
   [
     "Latvian",
     "take_offence",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60790,8 +60790,8 @@ const structuralData = [
     "upset",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60799,8 +60799,8 @@ const structuralData = [
     "marvel",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60808,8 +60808,8 @@ const structuralData = [
     "despise",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60817,8 +60817,8 @@ const structuralData = [
     "get_upset",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60826,8 +60826,8 @@ const structuralData = [
     "get_irritated",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60837,24 +60837,24 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Latvian",
     "be_shy",
     "",
     "NOM",
-    "par ACC",
+    "parACC",
     "Y",
-    "NOMparACC"
+    "NOM_parACC"
   ],
   [
     "Lezgian",
     "feel_pain",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -60864,7 +60864,7 @@ const structuralData = [
     "SBESS",
     "ABS",
     "X",
-    "SBESSABS"
+    "SBESS_ABS"
   ],
   [
     "Lezgian",
@@ -60873,14 +60873,14 @@ const structuralData = [
     "DAT",
     "POEL",
     "XY",
-    "DATPOEL"
+    "DAT_POEL"
   ],
   [
     "Lezgian",
     "throw",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -60891,7 +60891,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -60900,7 +60900,7 @@ const structuralData = [
     "ABS",
     "DAT",
     "Y",
-    "ABSDAT"
+    "ABS_DAT"
   ],
   [
     "Lezgian",
@@ -60909,14 +60909,14 @@ const structuralData = [
     "ABS",
     "POESS",
     "Y",
-    "ABSPOESS"
+    "ABS_POESS"
   ],
   [
     "Lezgian",
     "take",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -60927,7 +60927,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -60936,7 +60936,7 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
@@ -60945,7 +60945,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABSSRES"
+    "ABS_SRES"
   ],
   [
     "Lezgian",
@@ -60954,7 +60954,7 @@ const structuralData = [
     "ABS",
     "DAT",
     "Y",
-    "ABSDAT"
+    "ABS_DAT"
   ],
   [
     "Lezgian",
@@ -60963,7 +60963,7 @@ const structuralData = [
     "ERG",
     "ADEL",
     "Y",
-    "ERGADEL"
+    "ERG_ADEL"
   ],
   [
     "Lezgian",
@@ -60972,14 +60972,14 @@ const structuralData = [
     "ABS",
     "INEL",
     "Y",
-    "ABSINEL"
+    "ABS_INEL"
   ],
   [
     "Lezgian",
     "drive",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -60987,8 +60987,8 @@ const structuralData = [
     "Lezgian",
     "bend",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -60999,14 +60999,14 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
     "hold",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61017,14 +61017,14 @@ const structuralData = [
     "ERG",
     "ADESS",
     "Y",
-    "ERGADESS"
+    "ERG_ADESS"
   ],
   [
     "Lezgian",
     "milk",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61035,7 +61035,7 @@ const structuralData = [
     "ABS",
     "ADESS",
     "Y",
-    "ABSADESS"
+    "ABS_ADESS"
   ],
   [
     "Lezgian",
@@ -61044,25 +61044,25 @@ const structuralData = [
     "ERG",
     "SBESS",
     "Y",
-    "ERGSBESS"
+    "ERG_SBESS"
   ],
   [
     "Lezgian",
     "fight",
     "",
     "ABS",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ABSPOESSgalaz"
+    "ABS_POESSgalaz"
   ],
   [
     "Lezgian",
     "be_friends",
     "",
     "ERG",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ERGPOESSgalaz"
+    "ERG_POESSgalaz"
   ],
   [
     "Lezgian",
@@ -61071,14 +61071,14 @@ const structuralData = [
     "ERG",
     "SBEL",
     "Y",
-    "ERGSBEL"
+    "ERG_SBEL"
   ],
   [
     "Lezgian",
     "eat",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61086,8 +61086,8 @@ const structuralData = [
     "Lezgian",
     "fry",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61095,8 +61095,8 @@ const structuralData = [
     "Lezgian",
     "wait",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61105,8 +61105,8 @@ const structuralData = [
     "forget",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61116,7 +61116,7 @@ const structuralData = [
     "ABS",
     "SREL",
     "Y",
-    "ABSSREL"
+    "ABS_SREL"
   ],
   [
     "Lezgian",
@@ -61125,16 +61125,16 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
     "get_to_know",
     "",
     "ABS",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ABSPOESSgalaz"
+    "ABS_POESSgalaz"
   ],
   [
     "Lezgian",
@@ -61143,14 +61143,14 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
     "play#instrument#",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61161,14 +61161,14 @@ const structuralData = [
     "ERG",
     "SBEL",
     "Y",
-    "ERGSBEL"
+    "ERG_SBEL"
   ],
   [
     "Lezgian",
     "make",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61179,7 +61179,7 @@ const structuralData = [
     "ERG",
     "SBEL",
     "Y",
-    "ERGSBEL"
+    "ERG_SBEL"
   ],
   [
     "Lezgian",
@@ -61188,14 +61188,14 @@ const structuralData = [
     "POESS",
     "ABS",
     "X",
-    "POESSABS"
+    "POESS_ABS"
   ],
   [
     "Lezgian",
     "look_for",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61206,14 +61206,14 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
     "bite",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61224,14 +61224,14 @@ const structuralData = [
     "ABS",
     "SBEL",
     "Y",
-    "ABSSBEL"
+    "ABS_SBEL"
   ],
   [
     "Lezgian",
     "try_to_catch",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61239,8 +61239,8 @@ const structuralData = [
     "Lezgian",
     "break",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61251,7 +61251,7 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
@@ -61260,14 +61260,14 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
     "wave",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61278,14 +61278,14 @@ const structuralData = [
     "ERG",
     "SBEL",
     "Y",
-    "ERGSBEL"
+    "ERG_SBEL"
   ],
   [
     "Lezgian",
     "wash",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61293,8 +61293,8 @@ const structuralData = [
     "Lezgian",
     "put_on",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61305,14 +61305,14 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
     "punish",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61323,7 +61323,7 @@ const structuralData = [
     "ERG",
     "SRESS",
     "Y",
-    "ERGSRESS"
+    "ERG_SRESS"
   ],
   [
     "Lezgian",
@@ -61332,7 +61332,7 @@ const structuralData = [
     "ABS",
     "ADESS",
     "Y",
-    "ABSADESS"
+    "ABS_ADESS"
   ],
   [
     "Lezgian",
@@ -61341,7 +61341,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -61350,7 +61350,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -61359,7 +61359,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -61368,7 +61368,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -61377,14 +61377,14 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
     "surround",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61395,7 +61395,7 @@ const structuralData = [
     "POESS",
     "ABS",
     "X",
-    "POESSABS"
+    "POESS_ABS"
   ],
   [
     "Lezgian",
@@ -61404,14 +61404,14 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
     "open",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61422,7 +61422,7 @@ const structuralData = [
     "ABS",
     "SREL",
     "Y",
-    "ABSSREL"
+    "ABS_SREL"
   ],
   [
     "Lezgian",
@@ -61431,14 +61431,14 @@ const structuralData = [
     "ABS",
     "SREL",
     "Y",
-    "ABSSREL"
+    "ABS_SREL"
   ],
   [
     "Lezgian",
     "plough",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61447,8 +61447,8 @@ const structuralData = [
     "smell",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61458,14 +61458,14 @@ const structuralData = [
     "ABS",
     "SREL",
     "Y",
-    "ABSSREL"
+    "ABS_SREL"
   ],
   [
     "Lezgian",
     "sing",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61473,8 +61473,8 @@ const structuralData = [
     "Lezgian",
     "write",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61482,8 +61482,8 @@ const structuralData = [
     "Lezgian",
     "drink",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61491,8 +61491,8 @@ const structuralData = [
     "Lezgian",
     "melt",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61501,16 +61501,16 @@ const structuralData = [
     "match",
     "",
     "ABS",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ABSPOESSgalaz"
+    "ABS_POESSgalaz"
   ],
   [
     "Lezgian",
     "leave",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61518,8 +61518,8 @@ const structuralData = [
     "Lezgian",
     "cover",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61528,8 +61528,8 @@ const structuralData = [
     "remember",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61539,15 +61539,15 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
     "understand",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61557,7 +61557,7 @@ const structuralData = [
     "ABS",
     "POESS",
     "Y",
-    "ABSPOESS"
+    "ABS_POESS"
   ],
   [
     "Lezgian",
@@ -61566,7 +61566,7 @@ const structuralData = [
     "ABS",
     "ERG",
     "Y",
-    "ABSERG"
+    "ABS_ERG"
   ],
   [
     "Lezgian",
@@ -61575,7 +61575,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABSSRES"
+    "ABS_SRES"
   ],
   [
     "Lezgian",
@@ -61584,7 +61584,7 @@ const structuralData = [
     "ABS",
     "DAT",
     "Y",
-    "ABSDAT"
+    "ABS_DAT"
   ],
   [
     "Lezgian",
@@ -61593,23 +61593,23 @@ const structuralData = [
     "ABS",
     "DAT",
     "Y",
-    "ABSDAT"
+    "ABS_DAT"
   ],
   [
     "Lezgian",
     "speak",
     "",
     "ABS",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ABSPOESSgalaz"
+    "ABS_POESSgalaz"
   ],
   [
     "Lezgian",
     "give_birth",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61617,8 +61617,8 @@ const structuralData = [
     "Lezgian",
     "drop",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61629,7 +61629,7 @@ const structuralData = [
     "ERG",
     "SRESS",
     "Y",
-    "ERGSRESS"
+    "ERG_SRESS"
   ],
   [
     "Lezgian",
@@ -61638,15 +61638,15 @@ const structuralData = [
     "ABS",
     "POESS",
     "Y",
-    "ABSPOESS"
+    "ABS_POESS"
   ],
   [
     "Lezgian",
     "follow",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61656,7 +61656,7 @@ const structuralData = [
     "ABS",
     "SREL",
     "Y",
-    "ABSSREL"
+    "ABS_SREL"
   ],
   [
     "Lezgian",
@@ -61665,15 +61665,15 @@ const structuralData = [
     "ERG",
     "POESS",
     "Y",
-    "ERGPOESS"
+    "ERG_POESS"
   ],
   [
     "Lezgian",
     "obey",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61681,8 +61681,8 @@ const structuralData = [
     "hear",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61690,9 +61690,9 @@ const structuralData = [
     "mix",
     "",
     "ABS",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ABSPOESSgalaz"
+    "ABS_POESSgalaz"
   ],
   [
     "Lezgian",
@@ -61701,14 +61701,14 @@ const structuralData = [
     "ABS",
     "DAT",
     "Y",
-    "ABSDAT"
+    "ABS_DAT"
   ],
   [
     "Lezgian",
     "take_off",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61719,41 +61719,41 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
     "agree",
     "",
     "ABS",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ABSPOESSgalaz"
+    "ABS_POESSgalaz"
   ],
   [
     "Lezgian",
     "have_a_quarrel",
     "",
     "ABS",
-    "POESS_galaz",
+    "POESSgalaz",
     "Y",
-    "ABSPOESSgalaz"
+    "ABS_POESSgalaz"
   ],
   [
     "Lezgian",
     "cost",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Lezgian",
     "shoot_at",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61761,8 +61761,8 @@ const structuralData = [
     "Lezgian",
     "pour",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61770,8 +61770,8 @@ const structuralData = [
     "Lezgian",
     "lose",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61782,14 +61782,14 @@ const structuralData = [
     "ABS",
     "INESS",
     "Y",
-    "ABSINESS"
+    "ABS_INESS"
   ],
   [
     "Lezgian",
     "kill",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61797,8 +61797,8 @@ const structuralData = [
     "Lezgian",
     "hit",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61809,14 +61809,14 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
     "read",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61824,8 +61824,8 @@ const structuralData = [
     "Lezgian",
     "move#bodypart#",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61836,15 +61836,15 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
     "be_squeamish",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61854,7 +61854,7 @@ const structuralData = [
     "ABS",
     "SREL",
     "Y",
-    "ABSSREL"
+    "ABS_SREL"
   ],
   [
     "Lezgian",
@@ -61863,7 +61863,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABSSRES"
+    "ABS_SRES"
   ],
   [
     "Lezgian",
@@ -61872,7 +61872,7 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
@@ -61881,7 +61881,7 @@ const structuralData = [
     "ERG",
     "DAT",
     "Y",
-    "ERGDAT"
+    "ERG_DAT"
   ],
   [
     "Lezgian",
@@ -61890,15 +61890,15 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABSSRES"
+    "ABS_SRES"
   ],
   [
     "Lezgian",
     "be_angry",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61908,7 +61908,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABSSRES"
+    "ABS_SRES"
   ],
   [
     "Lezgian",
@@ -61917,7 +61917,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -61926,7 +61926,7 @@ const structuralData = [
     "ERG",
     "SBEL",
     "Y",
-    "ERGSBEL"
+    "ERG_SBEL"
   ],
   [
     "Lezgian",
@@ -61935,7 +61935,7 @@ const structuralData = [
     "DAT",
     "ABS",
     "X",
-    "DATABS"
+    "DAT_ABS"
   ],
   [
     "Lezgian",
@@ -61944,7 +61944,7 @@ const structuralData = [
     "DAT",
     "SBEL",
     "XY",
-    "DATSBEL"
+    "DAT_SBEL"
   ],
   [
     "Lezgian",
@@ -61953,14 +61953,14 @@ const structuralData = [
     "ABS",
     "SREL",
     "Y",
-    "ABSSREL"
+    "ABS_SREL"
   ],
   [
     "Lezgian",
     "upset",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61969,16 +61969,16 @@ const structuralData = [
     "marvel",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Lezgian",
     "despise",
     "",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -61987,8 +61987,8 @@ const structuralData = [
     "get_upset",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -61996,8 +61996,8 @@ const structuralData = [
     "get_irritated",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -62007,7 +62007,7 @@ const structuralData = [
     "DAT",
     "SBEL",
     "XY",
-    "DATSBEL"
+    "DAT_SBEL"
   ],
   [
     "Lezgian",
@@ -62016,7 +62016,7 @@ const structuralData = [
     "DAT",
     "SBEL",
     "XY",
-    "DATSBEL"
+    "DAT_SBEL"
   ],
   [
     "Lithuanian",
@@ -62025,7 +62025,7 @@ const structuralData = [
     "DAT",
     "ACC",
     "X",
-    "DATACC"
+    "DAT_ACC"
   ],
   [
     "Lithuanian",
@@ -62034,7 +62034,7 @@ const structuralData = [
     "NOM ",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
@@ -62043,14 +62043,14 @@ const structuralData = [
     "NOM ",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "throw",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62061,16 +62061,16 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Lithuanian",
     "resemble",
     "",
     "NOM",
-    "i ACC",
+    "iACC",
     "Y",
-    "NOMiACC"
+    "NOM_iACC"
   ],
   [
     "Lithuanian",
@@ -62079,14 +62079,14 @@ const structuralData = [
     "NOM ",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "take",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62094,8 +62094,8 @@ const structuralData = [
     "Lithuanian",
     "see",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62103,8 +62103,8 @@ const structuralData = [
     "Lithuanian",
     "influence",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62113,43 +62113,43 @@ const structuralData = [
     "encounter",
     "",
     "NOM ",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "enter",
     "",
     "NOM ",
-    "i ACC",
+    "iACC",
     "Y",
-    "NOMiACC"
+    "NOM_iACC"
   ],
   [
     "Lithuanian",
     "win",
     "",
     "NOM ",
-    "pries ACC",
+    "priesACC",
     "Y",
-    "NOMpriesACC"
+    "NOM_priesACC"
   ],
   [
     "Lithuanian",
     "go_out",
     "",
     "NOM ",
-    "is GEN",
+    "isGEN",
     "Y",
-    "NOMisGEN"
+    "NOM_isGEN"
   ],
   [
     "Lithuanian",
     "drive",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62157,8 +62157,8 @@ const structuralData = [
     "Lithuanian",
     "bend",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62169,14 +62169,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
     "hold",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62184,8 +62184,8 @@ const structuralData = [
     "Lithuanian",
     "catch_up",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62193,8 +62193,8 @@ const structuralData = [
     "Lithuanian",
     "milk",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62202,8 +62202,8 @@ const structuralData = [
     "Lithuanian",
     "reach",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62211,8 +62211,8 @@ const structuralData = [
     "Lithuanian",
     "touch",
     "paliesti",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62221,34 +62221,34 @@ const structuralData = [
     "fight",
     "",
     "NOM",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "be_friends",
     "",
     "NOM",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "think",
     "",
     "NOM",
-    "apie ACC",
+    "apieACC",
     "Y",
-    "NOMapieACC"
+    "NOM_apieACC"
   ],
   [
     "Lithuanian",
     "eat",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62256,8 +62256,8 @@ const structuralData = [
     "Lithuanian",
     "fry",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62268,32 +62268,32 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "forget",
     "",
     "NOM",
-    "apie ACC",
+    "apieACC",
     "Y",
-    "NOMapieACC"
+    "NOM_apieACC"
   ],
   [
     "Lithuanian",
     "depend",
     "",
     "NOM",
-    "nuo GEN",
+    "nuoGEN",
     "Y",
-    "NOMnuoGEN"
+    "NOM_nuoGEN"
   ],
   [
     "Lithuanian",
     "call",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62302,16 +62302,16 @@ const structuralData = [
     "get_to_know",
     "",
     "NOM",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "know",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62322,7 +62322,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
@@ -62331,14 +62331,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "make",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62347,16 +62347,16 @@ const structuralData = [
     "make_fun",
     "",
     "NOM",
-    "is GEN",
+    "isGEN",
     "Y",
-    "NOMisGEN"
+    "NOM_isGEN"
   ],
   [
     "Lithuanian",
     "have",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62367,14 +62367,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "paint",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62385,7 +62385,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
@@ -62394,14 +62394,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "try_to_catch",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62409,8 +62409,8 @@ const structuralData = [
     "Lithuanian",
     "break",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62421,14 +62421,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
     "love1",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62439,23 +62439,23 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "dream",
     "",
     "NOM",
-    "apie ACC",
+    "apieACC",
     "Y",
-    "NOMapieACC"
+    "NOM_apieACC"
   ],
   [
     "Lithuanian",
     "wash",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62463,8 +62463,8 @@ const structuralData = [
     "Lithuanian",
     "put_on",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62475,14 +62475,14 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Lithuanian",
     "punish",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62490,8 +62490,8 @@ const structuralData = [
     "Lithuanian",
     "attack",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62502,14 +62502,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "find",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62520,7 +62520,7 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Lithuanian",
@@ -62529,7 +62529,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
@@ -62538,7 +62538,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Lithuanian",
@@ -62547,14 +62547,14 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Lithuanian",
     "surround",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62565,7 +62565,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Lithuanian",
@@ -62574,14 +62574,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
     "open",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62590,25 +62590,25 @@ const structuralData = [
     "be_different",
     "",
     "NOM",
-    "nuo GEN",
+    "nuoGEN",
     "Y",
-    "NOMnuoGEN"
+    "NOM_nuoGEN"
   ],
   [
     "Lithuanian",
     "fall_behind",
     "",
     "NOM",
-    "nuo GEN",
+    "nuoGEN",
     "Y",
-    "NOMnuoGEN"
+    "NOM_nuoGEN"
   ],
   [
     "Lithuanian",
     "plough",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62619,14 +62619,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "cross",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62634,8 +62634,8 @@ const structuralData = [
     "Lithuanian",
     "sing",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62643,8 +62643,8 @@ const structuralData = [
     "Lithuanian",
     "write",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62652,8 +62652,8 @@ const structuralData = [
     "Lithuanian",
     "drink",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62661,8 +62661,8 @@ const structuralData = [
     "Lithuanian",
     "melt",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62671,16 +62671,16 @@ const structuralData = [
     "match",
     "",
     "NOM",
-    "prie GEN",
+    "prieGEN",
     "Y",
-    "NOMprieGEN"
+    "NOM_prieGEN"
   ],
   [
     "Lithuanian",
     "leave",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62688,8 +62688,8 @@ const structuralData = [
     "Lithuanian",
     "cover",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62697,8 +62697,8 @@ const structuralData = [
     "Lithuanian",
     "remember",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62709,14 +62709,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
     "understand",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62725,9 +62725,9 @@ const structuralData = [
     "hit#target#",
     "",
     "NOM",
-    "i ACC",
+    "iACC",
     "Y",
-    "NOMiACC"
+    "NOM_iACC"
   ],
   [
     "Lithuanian",
@@ -62736,16 +62736,16 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "get_stuck",
     "",
     "NOM",
-    "prie GEN",
+    "prieGEN",
     "Y",
-    "NOMprieGEN"
+    "NOM_prieGEN"
   ],
   [
     "Lithuanian",
@@ -62754,7 +62754,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
@@ -62763,23 +62763,23 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "speak",
     "",
     "NOM",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "give_birth",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62787,8 +62787,8 @@ const structuralData = [
     "Lithuanian",
     "drop",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62799,7 +62799,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
@@ -62808,14 +62808,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "follow",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62824,9 +62824,9 @@ const structuralData = [
     "dismount",
     "",
     "NOM",
-    "nuo GEN",
+    "nuoGEN",
     "Y",
-    "NOMnuoGEN"
+    "NOM_nuoGEN"
   ],
   [
     "Lithuanian",
@@ -62835,23 +62835,23 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "obey",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Lithuanian",
     "hear",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62860,25 +62860,25 @@ const structuralData = [
     "mix",
     "",
     "NOM",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "look",
     "",
     "NOM",
-    "i ACC",
+    "iACC",
     "Y",
-    "NOMiACC"
+    "NOM_iACC"
   ],
   [
     "Lithuanian",
     "take_off",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62886,8 +62886,8 @@ const structuralData = [
     "Lithuanian",
     "dream#sleeping#",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62896,25 +62896,25 @@ const structuralData = [
     "agree",
     "",
     "NOM",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "have_a_quarrel",
     "",
     "NOM",
-    "su INS",
+    "suINS",
     "Y",
-    "NOMsuINS"
+    "NOM_suINS"
   ],
   [
     "Lithuanian",
     "cost",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62923,16 +62923,16 @@ const structuralData = [
     "shoot_at",
     "",
     "NOM",
-    "i ACC",
+    "iACC",
     "Y",
-    "NOMiACC"
+    "NOM_iACC"
   ],
   [
     "Lithuanian",
     "pour",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62940,8 +62940,8 @@ const structuralData = [
     "Lithuanian",
     "lose",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62950,16 +62950,16 @@ const structuralData = [
     "sink",
     "",
     "NOM",
-    "i ACC",
+    "iACC",
     "Y",
-    "NOMiACC"
+    "NOM_iACC"
   ],
   [
     "Lithuanian",
     "kill",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62970,14 +62970,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
     "kiss",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62985,8 +62985,8 @@ const structuralData = [
     "Lithuanian",
     "read",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -62994,8 +62994,8 @@ const structuralData = [
     "Lithuanian",
     "move#bodypart#",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -63003,8 +63003,8 @@ const structuralData = [
     "Lithuanian",
     "respect",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -63015,7 +63015,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
@@ -63024,14 +63024,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "fall_in_love",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -63042,7 +63042,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
@@ -63051,7 +63051,7 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Lithuanian",
@@ -63060,16 +63060,16 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
     "be_angry",
     "",
     "NOM ",
-    "ant GEN",
+    "antGEN",
     "Y",
-    "NOMantGEN"
+    "NOM_antGEN"
   ],
   [
     "Lithuanian",
@@ -63078,14 +63078,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "love2",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -63096,7 +63096,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
@@ -63105,32 +63105,32 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Lithuanian",
     "have_a_grudge",
     "",
     "NOM",
-    "ant GEN",
+    "antGEN",
     "Y",
-    "NOMantGEN"
+    "NOM_antGEN"
   ],
   [
     "Lithuanian",
     "take_offence",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Lithuanian",
     "upset",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -63141,14 +63141,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Lithuanian",
     "despise",
     "",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -63157,17 +63157,17 @@ const structuralData = [
     "get_upset",
     "",
     "NOM",
-    "del GEN",
+    "delGEN",
     "Y",
-    "NOMdelGEN"
+    "NOM_delGEN"
   ],
   [
     "Lithuanian",
     "get_irritated",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -63177,7 +63177,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Lithuanian",
@@ -63186,1176 +63186,1176 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Loma",
     "feel_pain",
     "",
-    "",
-    "",
-    "",
+    "POSS",
+    "HEAD",
+    "X",
     "POSS_HEAD"
   ],
   [
     "Loma",
     "have#illness#",
     "",
-    "",
-    "",
-    "",
-    "ma_S"
+    "ma",
+    "SBJ",
+    "X",
+    "ma_SBJ"
   ],
   [
     "Loma",
     "be_afraid",
     "",
-    "",
-    "",
-    "",
-    "S_ba"
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
   ],
   [
     "Loma",
     "throw",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "have_enough",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "resemble",
     "",
-    "",
-    "",
-    "",
-    "S_ga"
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
   ],
   [
     "Loma",
     "believe",
     "",
-    "",
-    "",
-    "",
-    "S_ya"
+    "SBJ",
+    "ya",
+    "Y",
+    "SBJ_ya"
   ],
   [
     "Loma",
     "take",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "see",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "influence",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "encounter",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "enter",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "win",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "go_out",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "drive",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "bend",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "tell",
     "",
-    "",
-    "",
-    "",
-    "S_ma"
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
   ],
   [
     "Loma",
     "hold",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "catch_up",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "milk",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "reach",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "touch",
     "",
-    "",
-    "",
-    "",
-    "S_ba"
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
   ],
   [
     "Loma",
     "fight",
     "",
-    "",
-    "",
-    "",
-    "S_ga"
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
   ],
   [
     "Loma",
     "be_friends",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "think",
     "",
-    "",
-    "",
-    "",
-    "S_su"
+    "SBJ",
+    "su",
+    "Y",
+    "SBJ_su"
   ],
   [
     "Loma",
     "eat",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "fry",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "wait",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "forget",
     "",
-    "",
-    "",
-    "",
-    "S_ma"
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
   ],
   [
     "Loma",
     "depend",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "call",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "get_to_know",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "know",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "play#instrument#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "avoid",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "make",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "make_fun",
     "",
-    "",
-    "",
-    "",
-    "S_zu"
+    "SBJ",
+    "zu",
+    "Y",
+    "SBJ_zu"
   ],
   [
     "Loma",
     "have",
     "",
-    "",
-    "",
-    "",
-    "ya_S"
+    "ya",
+    "SBJ",
+    "X",
+    "ya_SBJ"
   ],
   [
     "Loma",
     "look_for",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "paint",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "bite",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "forfeit",
     "",
-    "",
-    "",
-    "",
-    "S_ma"
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
   ],
   [
     "Loma",
     "try_to_catch",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "break",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "flatter",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "love1",
     "",
-    "",
-    "",
-    "",
-    "be_S"
+    "be",
+    "SBJ",
+    "X",
+    "be_SBJ"
   ],
   [
     "Loma",
     "wave",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "dream",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "wash",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "put_on",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "be_called",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "punish",
     "",
-    "",
-    "",
-    "",
-    "S_ma"
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
   ],
   [
     "Loma",
     "attack",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "fill#intr#",
     "",
-    "",
-    "",
-    "",
-    "S_ga"
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
   ],
   [
     "Loma",
     "find",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "be_short",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "hate",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "like",
     "",
-    "",
-    "",
-    "",
-    "S_be"
+    "SBJ",
+    "be",
+    "Y",
+    "SBJ_be"
   ],
   [
     "Loma",
     "need",
     "",
-    "",
-    "",
-    "",
-    "S_ba"
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
   ],
   [
     "Loma",
     "surround",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "remain",
     "",
-    "",
-    "",
-    "",
-    "ya_S"
+    "ya",
+    "SBJ",
+    "X",
+    "ya_SBJ"
   ],
   [
     "Loma",
     "answer",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "open",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "be_different",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "fall_behind",
     "",
-    "",
-    "",
-    "",
-    "S_polu"
+    "SBJ",
+    "polu",
+    "Y",
+    "SBJ_polu"
   ],
   [
     "Loma",
     "plough",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "smell",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "cross",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "sing",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "write",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "drink",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "melt",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "match",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "leave",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "cover",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "remember",
     "",
-    "",
-    "",
-    "",
-    "S_su"
+    "SBJ",
+    "su",
+    "Y",
+    "SBJ_su"
   ],
   [
     "Loma",
     "help",
     "",
-    "",
-    "",
-    "",
-    "S_ba"
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
   ],
   [
     "Loma",
     "understand",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "hit#target#",
     "",
-    "",
-    "",
-    "",
-    "S_su"
+    "SBJ",
+    "su",
+    "Y",
+    "SBJ_su"
   ],
   [
     "Loma",
     "cut_oneself",
     "",
-    "",
-    "",
-    "",
-    "S_ga"
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
   ],
   [
     "Loma",
     "get_stuck",
     "",
-    "",
-    "",
-    "",
-    "S_ba"
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
   ],
   [
     "Loma",
     "lose#game#",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "be_glad",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "speak",
     "",
-    "",
-    "",
-    "",
-    "S_ta"
+    "SBJ",
+    "ta",
+    "Y",
+    "SBJ_ta"
   ],
   [
     "Loma",
     "give_birth",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "drop",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "govern",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "miss",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "follow",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "dismount",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "listen",
     "",
-    "",
-    "",
-    "",
-    "S_ma"
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
   ],
   [
     "Loma",
     "obey",
     "",
-    "",
-    "",
-    "",
-    "S_be"
+    "SBJ",
+    "be",
+    "Y",
+    "SBJ_be"
   ],
   [
     "Loma",
     "hear",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "mix",
     "",
-    "",
-    "",
-    "",
-    "S_ta"
+    "SBJ",
+    "ta",
+    "Y",
+    "SBJ_ta"
   ],
   [
     "Loma",
     "look",
     "",
-    "",
-    "",
-    "",
-    "S_ba"
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
   ],
   [
     "Loma",
     "take_off",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "dream#sleeping#",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "agree",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "have_a_quarrel",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "cost",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "shoot_at",
     "",
-    "",
-    "",
-    "",
-    "S_ma"
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
   ],
   [
     "Loma",
     "pour",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "lose",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "sink",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "kill",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "hit",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "kiss",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "read",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "move#bodypart#",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "respect",
     "",
-    "",
-    "",
-    "",
-    "S_ma"
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
   ],
   [
     "Loma",
     "be_squeamish",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "be_content",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "fall_in_love",
     "",
-    "",
-    "",
-    "",
-    "S_ga"
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
   ],
   [
     "Loma",
     "trust",
     "",
-    "",
-    "",
-    "",
-    "S_ya"
+    "SBJ",
+    "ya",
+    "Y",
+    "SBJ_ya"
   ],
   [
     "Loma",
     "sympathise",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "envy",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "be_angry",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "be_surprised",
     "",
-    "",
-    "",
-    "",
-    "S_ga"
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
   ],
   [
     "Loma",
     "love2",
     "",
-    "",
-    "",
-    "",
-    "be_S"
+    "be",
+    "SBJ",
+    "X",
+    "be_SBJ"
   ],
   [
     "Loma",
     "enjoy",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "want",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "have_a_grudge",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "take_offence",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "upset",
     "",
-    "",
-    "",
-    "",
+    "SBJ",
+    "DO",
+    "TR",
     "TR"
   ],
   [
     "Loma",
     "marvel",
     "",
-    "",
-    "",
-    "",
-    "S_ga"
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
   ],
   [
     "Loma",
     "despise",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "get_upset",
     "",
-    "",
-    "",
-    "",
-    "S_ba"
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
   ],
   [
     "Loma",
     "get_irritated",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "be_fond",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Loma",
     "be_shy",
     "",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
@@ -64363,34 +64363,34 @@ const structuralData = [
     "feel_pain",
     "боли",
     "ACC",
-    "NP",
+    "SBJ",
     "X",
-    "ACC_NP"
+    "ACC_SBJ"
   ],
   [
     "Macedonian",
     "have#illness#",
     "боледува",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "be_afraid",
     "се плаши",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "throw",
     "фрли",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64399,7 +64399,7 @@ const structuralData = [
     "have_enough",
     "има доволно",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -64407,26 +64407,26 @@ const structuralData = [
     "Macedonian",
     "resemble",
     "личи",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "believe",
     "верува",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "take",
     "зеде",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64434,8 +64434,8 @@ const structuralData = [
     "Macedonian",
     "see",
     "гледа",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64443,35 +64443,35 @@ const structuralData = [
     "Macedonian",
     "influence",
     "влијае",
-    "NP",
+    "SBJ",
     "vrz",
     "Y",
-    "NP_vrz"
+    "SBJ_vrz"
   ],
   [
     "Macedonian",
     "encounter",
     "се сретна",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "enter",
     "влезе",
-    "NP",
+    "SBJ",
     "vo",
     "Y",
-    "NP_vo"
+    "SBJ_vo"
   ],
   [
     "Macedonian",
     "win",
     "победи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64479,17 +64479,17 @@ const structuralData = [
     "Macedonian",
     "go_out",
     "излезе",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "drive",
     "брка",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64497,8 +64497,8 @@ const structuralData = [
     "Macedonian",
     "bend",
     "наведна",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64506,17 +64506,17 @@ const structuralData = [
     "Macedonian",
     "tell",
     "рече",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "hold",
     "држи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64524,8 +64524,8 @@ const structuralData = [
     "Macedonian",
     "catch_up",
     "стигна",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64533,8 +64533,8 @@ const structuralData = [
     "Macedonian",
     "milk",
     "измолзи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64542,53 +64542,53 @@ const structuralData = [
     "Macedonian",
     "reach",
     "стигна",
-    "NP",
+    "SBJ",
     "do",
     "Y",
-    "NP_do"
+    "SBJ_do"
   ],
   [
     "Macedonian",
     "touch",
     "се допре",
-    "NP",
+    "SBJ",
     "do",
     "Y",
-    "NP_do"
+    "SBJ_do"
   ],
   [
     "Macedonian",
     "fight",
     "се кара",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "be_friends",
     "се дружи",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "think",
     "мисли",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "eat",
     "изеде",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64596,8 +64596,8 @@ const structuralData = [
     "Macedonian",
     "fry",
     "испржи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64605,8 +64605,8 @@ const structuralData = [
     "Macedonian",
     "wait",
     "чека",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64614,26 +64614,26 @@ const structuralData = [
     "Macedonian",
     "forget",
     "заборави",
-    "NP",
+    "SBJ",
     "za",
     "Y",
-    "NP_za"
+    "SBJ_za"
   ],
   [
     "Macedonian",
     "depend",
     "зависи",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "call",
     "викна",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64641,17 +64641,17 @@ const structuralData = [
     "Macedonian",
     "get_to_know",
     "се запозна",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "know",
     "знае",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64659,17 +64659,17 @@ const structuralData = [
     "Macedonian",
     "play#instrument#",
     "свири",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "avoid",
     "одбегнува",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64677,8 +64677,8 @@ const structuralData = [
     "Macedonian",
     "make",
     "направи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64686,17 +64686,17 @@ const structuralData = [
     "Macedonian",
     "make_fun",
     "се потсмева",
-    "NP",
+    "SBJ",
     "nad",
     "Y",
-    "NP_nad"
+    "SBJ_nad"
   ],
   [
     "Macedonian",
     "have",
     "има",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64704,8 +64704,8 @@ const structuralData = [
     "Macedonian",
     "look_for",
     "бара",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64713,8 +64713,8 @@ const structuralData = [
     "Macedonian",
     "paint",
     "бојадиса",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64722,8 +64722,8 @@ const structuralData = [
     "Macedonian",
     "bite",
     "касна",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64731,17 +64731,17 @@ const structuralData = [
     "Macedonian",
     "forfeit",
     "остана",
-    "NP",
+    "SBJ",
     "bez",
     "Y",
-    "NP_bez"
+    "SBJ_bez"
   ],
   [
     "Macedonian",
     "try_to_catch",
     "брка",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64749,8 +64749,8 @@ const structuralData = [
     "Macedonian",
     "break",
     "скрши",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64758,17 +64758,17 @@ const structuralData = [
     "Macedonian",
     "flatter",
     "ласка",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "love1",
     "сака",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64776,26 +64776,26 @@ const structuralData = [
     "Macedonian",
     "wave",
     "мавта",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "dream",
     "мечтае",
-    "NP",
+    "SBJ",
     "za",
     "Y",
-    "NP_za"
+    "SBJ_za"
   ],
   [
     "Macedonian",
     "wash",
     "изми",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64803,8 +64803,8 @@ const structuralData = [
     "Macedonian",
     "put_on",
     "облече",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64812,17 +64812,17 @@ const structuralData = [
     "Macedonian",
     "be_called",
     "се вика",
-    "NP",
+    "SBJ",
     "NP",
     "Y",
-    "NP_NP"
+    "SBJ_NP"
   ],
   [
     "Macedonian",
     "punish",
     "казни",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64830,8 +64830,8 @@ const structuralData = [
     "Macedonian",
     "attack",
     "нападна",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64839,17 +64839,17 @@ const structuralData = [
     "Macedonian",
     "fill#intr#",
     "се наполни",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "find",
     "најде",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64858,16 +64858,16 @@ const structuralData = [
     "be_short",
     "фали",
     "DAT(na)",
-    "NP",
+    "SBJ",
     "X",
-    "DAT(na)_NP"
+    "DAT(na)_SBJ"
   ],
   [
     "Macedonian",
     "hate",
     "мрази",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64876,25 +64876,25 @@ const structuralData = [
     "like",
     "се допаѓа",
     "DAT(na)",
-    "NP",
+    "SBJ",
     "X",
-    "DAT(na)_NP"
+    "DAT(na)_SBJ"
   ],
   [
     "Macedonian",
     "need",
     "требаат",
     "DAT(na)",
-    "NP",
+    "SBJ",
     "X",
-    "DAT(na)_NP"
+    "DAT(na)_SBJ"
   ],
   [
     "Macedonian",
     "surround",
     "опкружуваат ",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64903,25 +64903,25 @@ const structuralData = [
     "remain",
     "останаа ",
     "DAT(na)",
-    "NP",
+    "SBJ",
     "X",
-    "DAT(na)_NP"
+    "DAT(na)_SBJ"
   ],
   [
     "Macedonian",
     "answer",
     "одговори",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "open",
     "отвори",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64929,26 +64929,26 @@ const structuralData = [
     "Macedonian",
     "be_different",
     "се разликува",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "fall_behind",
     "заостана",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "plough",
     "ора",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64956,17 +64956,17 @@ const structuralData = [
     "Macedonian",
     "smell",
     "мирисаат",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "cross",
     "премина",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64974,8 +64974,8 @@ const structuralData = [
     "Macedonian",
     "sing",
     "испеа",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64983,8 +64983,8 @@ const structuralData = [
     "Macedonian",
     "write",
     "напиша",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -64992,8 +64992,8 @@ const structuralData = [
     "Macedonian",
     "drink",
     "испи ",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65001,8 +65001,8 @@ const structuralData = [
     "Macedonian",
     "melt",
     "стопи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65010,17 +65010,17 @@ const structuralData = [
     "Macedonian",
     "match",
     "одговара",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "leave",
     "напушти",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65028,8 +65028,8 @@ const structuralData = [
     "Macedonian",
     "cover",
     "покрива",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65037,26 +65037,26 @@ const structuralData = [
     "Macedonian",
     "remember",
     "се сеќава",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "help",
     "помогна",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "understand",
     "разбира",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65064,62 +65064,62 @@ const structuralData = [
     "Macedonian",
     "hit#target#",
     "удри",
-    "NP",
+    "SBJ",
     "vo",
     "Y",
-    "NP_vo"
+    "SBJ_vo"
   ],
   [
     "Macedonian",
     "cut_oneself",
     "се пресече",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "get_stuck",
     "се залепи",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "lose#game#",
     "изгубил",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "be_glad",
     "се израдува",
-    "NP",
+    "SBJ",
     "za",
     "Y",
-    "NP_za"
+    "SBJ_za"
   ],
   [
     "Macedonian",
     "speak",
     "разговара",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "give_birth",
     "роди",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65128,34 +65128,34 @@ const structuralData = [
     "drop",
     "падна",
     "DAT(na)",
-    "NP",
+    "SBJ",
     "X",
-    "DAT(na)_NP"
+    "DAT(na)_SBJ"
   ],
   [
     "Macedonian",
     "govern",
     "раководи",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "miss",
     "недостига",
     "DAT(na)",
-    "NP",
+    "SBJ",
     "X",
-    "DAT(na)_NP"
+    "DAT(na)_SBJ"
   ],
   [
     "Macedonian",
     "follow",
     "следи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65163,17 +65163,17 @@ const structuralData = [
     "Macedonian",
     "dismount",
     "слезе",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "listen",
     "слуша",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65181,8 +65181,8 @@ const structuralData = [
     "Macedonian",
     "obey",
     "слуша",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65190,8 +65190,8 @@ const structuralData = [
     "Macedonian",
     "hear",
     "слуша",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65199,26 +65199,26 @@ const structuralData = [
     "Macedonian",
     "mix",
     "се измеша",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "look",
     "гледа",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "take_off",
     "слече",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65226,35 +65226,35 @@ const structuralData = [
     "Macedonian",
     "dream#sleeping#",
     "се сонува",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "agree",
     "се согласи",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "have_a_quarrel",
     "се скара",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "cost",
     "чини",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65262,17 +65262,17 @@ const structuralData = [
     "Macedonian",
     "shoot_at",
     "пукна",
-    "NP",
+    "SBJ",
     "vo",
     "Y",
-    "NP_vo"
+    "SBJ_vo"
   ],
   [
     "Macedonian",
     "pour",
     "тури",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65280,8 +65280,8 @@ const structuralData = [
     "Macedonian",
     "lose",
     "загина",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65289,17 +65289,17 @@ const structuralData = [
     "Macedonian",
     "sink",
     "потона",
-    "NP",
+    "SBJ",
     "vo",
     "Y",
-    "NP_vo"
+    "SBJ_vo"
   ],
   [
     "Macedonian",
     "kill",
     "уби",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65307,8 +65307,8 @@ const structuralData = [
     "Macedonian",
     "hit",
     "удри",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65316,8 +65316,8 @@ const structuralData = [
     "Macedonian",
     "kiss",
     "бакна",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65325,8 +65325,8 @@ const structuralData = [
     "Macedonian",
     "read",
     "прочита",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65334,17 +65334,17 @@ const structuralData = [
     "Macedonian",
     "move#bodypart#",
     "мрдна",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "respect",
     "почитува",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65352,44 +65352,44 @@ const structuralData = [
     "Macedonian",
     "be_squeamish",
     "се гнаси",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "be_content",
     "задоволен",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "fall_in_love",
     "се вљуби",
-    "NP",
+    "SBJ",
     "vo",
     "Y",
-    "NP_vo"
+    "SBJ_vo"
   ],
   [
     "Macedonian",
     "trust",
     "верува",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "sympathise",
     "жали",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65397,35 +65397,35 @@ const structuralData = [
     "Macedonian",
     "envy",
     "завидува",
-    "NP",
+    "SBJ",
     "DAT(na)",
     "Y",
-    "NP_DAT(na)"
+    "SBJ_DAT(na)"
   ],
   [
     "Macedonian",
     "be_angry",
     "се лути",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "be_surprised",
     "се зачуди",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "love2",
     "сака",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65433,17 +65433,17 @@ const structuralData = [
     "Macedonian",
     "enjoy",
     "се насладува",
-    "NP",
+    "SBJ",
     "so",
     "Y",
-    "NP_so"
+    "SBJ_so"
   ],
   [
     "Macedonian",
     "want",
     "сака",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65451,26 +65451,26 @@ const structuralData = [
     "Macedonian",
     "have_a_grudge",
     "се лути",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "take_offence",
     "се налути",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "upset",
     "огорчи",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65478,17 +65478,17 @@ const structuralData = [
     "Macedonian",
     "marvel",
     "поразен",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "despise",
     "презира",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65496,26 +65496,26 @@ const structuralData = [
     "Macedonian",
     "get_upset",
     "се огорчи",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Macedonian",
     "get_irritated",
     "се гневи",
-    "NP",
+    "SBJ",
     "na",
     "Y",
-    "NP_na"
+    "SBJ_na"
   ],
   [
     "Macedonian",
     "be_fond",
     "симпатизира",
-    "TR",
-    "",
+    "SBJ",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -65523,43 +65523,43 @@ const structuralData = [
     "Macedonian",
     "be_shy",
     "се срами",
-    "NP",
+    "SBJ",
     "od",
     "Y",
-    "NP_od"
+    "SBJ_od"
   ],
   [
     "Mandinka",
     "feel_pain",
     "dímíŋ",
-    "POSS&OBJ",
-    "SUBJ",
+    "POSS.OBJ",
+    "SBJ",
     "X",
-    "POSS&OBJ_SUBJ"
+    "POSS.OBJ_SBJ"
   ],
   [
     "Mandinka",
     "have#illness#",
     "mùtá",
     "OBJ",
-    "SUBJ",
+    "SBJ",
     "X",
-    "OBJ_SUBJ"
+    "OBJ_SBJ"
   ],
   [
     "Mandinka",
     "be_afraid",
     "sílá",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "throw",
     "fáyí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65568,34 +65568,34 @@ const structuralData = [
     "Mandinka",
     "have_enough",
     "káañáŋ",
-    "SUBJ",
-    "má",
+    "SBJ",
+    "ma",
     "Y",
-    "SUBJ_ma"
+    "SBJ_ma"
   ],
   [
     "Mandinka",
     "resemble",
     "múntà",
-    "SUBJ",
-    "kó",
+    "SBJ",
+    "ko",
     "Y",
-    "SUBJ_ko"
+    "SBJ_ko"
   ],
   [
     "Mandinka",
     "believe",
     "láa",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "take",
     "tǎa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65604,7 +65604,7 @@ const structuralData = [
     "Mandinka",
     "see",
     "jé",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65613,34 +65613,34 @@ const structuralData = [
     "Mandinka",
     "influence",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "encounter",
     "běŋ",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "enter",
     "dǔŋ",
-    "SUBJ",
-    "kónó",
+    "SBJ",
+    "kono",
     "Y",
-    "SUBJ_kono"
+    "SBJ_kono"
   ],
   [
     "Mandinka",
     "win",
     "dǎŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65649,16 +65649,16 @@ const structuralData = [
     "Mandinka",
     "go_out",
     "bó",
-    "SUBJ",
-    "kónó",
+    "SBJ",
+    "kono",
     "Y",
-    "SUBJ_kono"
+    "SBJ_kono"
   ],
   [
     "Mandinka",
     "drive",
     "kèŋkéŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65667,7 +65667,7 @@ const structuralData = [
     "Mandinka",
     "bend",
     "ŋóojí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65676,25 +65676,25 @@ const structuralData = [
     "Mandinka",
     "tell",
     "kó",
-    "SUBJ",
-    "yé",
+    "SBJ",
+    "ye",
     "Y",
-    "SUBJ_ye"
+    "SBJ_ye"
   ],
   [
     "Mandinka",
     "hold",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "catch_up",
     "sòtó",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65703,7 +65703,7 @@ const structuralData = [
     "Mandinka",
     "milk",
     "bítí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65712,16 +65712,16 @@ const structuralData = [
     "Mandinka",
     "reach",
     "fùtá",
-    "SUBJ",
-    "tó",
+    "SBJ",
+    "to",
     "Y",
-    "SUBJ_to"
+    "SBJ_to"
   ],
   [
     "Mandinka",
     "touch",
     "mǎa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65730,34 +65730,34 @@ const structuralData = [
     "Mandinka",
     "fight",
     "kèlé",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "be_friends",
     "téeríyáa",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "think",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "eat",
     "dómó",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65766,7 +65766,7 @@ const structuralData = [
     "Mandinka",
     "fry",
     "yílá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65775,7 +65775,7 @@ const structuralData = [
     "Mandinka",
     "wait",
     "bàtú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65784,25 +65784,25 @@ const structuralData = [
     "Mandinka",
     "forget",
     "ñìná",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "depend",
     "déŋ",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "call",
     "kílí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65811,7 +65811,7 @@ const structuralData = [
     "Mandinka",
     "get_to_know",
     "lóŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65820,7 +65820,7 @@ const structuralData = [
     "Mandinka",
     "know",
     "lóŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65829,7 +65829,7 @@ const structuralData = [
     "Mandinka",
     "play#instrument#",
     "kòsí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65838,7 +65838,7 @@ const structuralData = [
     "Mandinka",
     "avoid",
     "lámfée",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65847,7 +65847,7 @@ const structuralData = [
     "Mandinka",
     "make",
     "dádáa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65856,16 +65856,16 @@ const structuralData = [
     "Mandinka",
     "make_fun",
     "jélé",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "have",
     "sòtó ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65874,7 +65874,7 @@ const structuralData = [
     "Mandinka",
     "look_for",
     "ñíní ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65883,7 +65883,7 @@ const structuralData = [
     "Mandinka",
     "paint",
     "péntúrí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65892,7 +65892,7 @@ const structuralData = [
     "Mandinka",
     "bite",
     "kíŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65901,16 +65901,16 @@ const structuralData = [
     "Mandinka",
     "forfeit",
     "bònó ",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "try_to_catch",
     "mùtá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65919,7 +65919,7 @@ const structuralData = [
     "Mandinka",
     "break",
     "kátí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65928,7 +65928,7 @@ const structuralData = [
     "Mandinka",
     "flatter",
     "nèenée",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65937,7 +65937,7 @@ const structuralData = [
     "Mandinka",
     "love1",
     "kànú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65946,7 +65946,7 @@ const structuralData = [
     "Mandinka",
     "wave",
     "mǎa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65955,16 +65955,16 @@ const structuralData = [
     "Mandinka",
     "dream",
     "hámé",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "wash",
     "kǔu",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65973,7 +65973,7 @@ const structuralData = [
     "Mandinka",
     "put_on",
     "dǔŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -65982,25 +65982,25 @@ const structuralData = [
     "Mandinka",
     "be_called",
     "kó",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "punish",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "attack",
     "bòyìŋkáŋ ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66009,16 +66009,16 @@ const structuralData = [
     "Mandinka",
     "fill#intr#",
     "fáa",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "find",
     "tàrá ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66028,15 +66028,15 @@ const structuralData = [
     "be_short",
     "dásá",
     "OBJ",
-    "SUBJ",
+    "SBJ",
     "X",
-    "OBJ_SUBJ"
+    "OBJ_SBJ"
   ],
   [
     "Mandinka",
     "hate",
     "kóŋ ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66045,25 +66045,25 @@ const structuralData = [
     "Mandinka",
     "like",
     "díyáa ",
-    "yé",
-    "SUBJ",
+    "ye",
+    "SBJ",
     "X",
-    "ye_SUBJ"
+    "ye_SBJ"
   ],
   [
     "Mandinka",
     "need",
     "sùulá",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "surround",
     "múrú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66072,16 +66072,16 @@ const structuralData = [
     "Mandinka",
     "remain",
     "tú",
-    "SUBJ",
-    "búlú",
+    "SBJ",
+    "bulu",
     "Y",
-    "SUBJ_bulu"
+    "SBJ_bulu"
   ],
   [
     "Mandinka",
     "answer",
     "jàabí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66090,7 +66090,7 @@ const structuralData = [
     "Mandinka",
     "open",
     "yèlé ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66099,25 +66099,25 @@ const structuralData = [
     "Mandinka",
     "be_different",
     "fátá",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "fall_behind",
     "bé ",
-    "SUBJ",
-    "kóomá",
+    "SBJ",
+    "kooma",
     "Y",
-    "SUBJ_kooma"
+    "SBJ_kooma"
   ],
   [
     "Mandinka",
     "plough",
     "kùrùbá ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66126,25 +66126,25 @@ const structuralData = [
     "Mandinka",
     "smell",
     "sùŋkáŋ",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "cross",
     "tèyí",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "sing",
     "láa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66153,7 +66153,7 @@ const structuralData = [
     "Mandinka",
     "write",
     "sáfé ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66162,7 +66162,7 @@ const structuralData = [
     "Mandinka",
     "drink",
     "mǐŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66171,7 +66171,7 @@ const structuralData = [
     "Mandinka",
     "melt",
     "yèlùndí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66180,16 +66180,16 @@ const structuralData = [
     "Mandinka",
     "match",
     "káañáŋ",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "leave",
     "bùlá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66198,7 +66198,7 @@ const structuralData = [
     "Mandinka",
     "cover",
     "múurá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66207,16 +66207,16 @@ const structuralData = [
     "Mandinka",
     "remember",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "help",
     "dèemá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66225,7 +66225,7 @@ const structuralData = [
     "Mandinka",
     "understand",
     "fàháamú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66234,70 +66234,70 @@ const structuralData = [
     "Mandinka",
     "hit#target#",
     "bòyí",
-    "SUBJ",
-    "káŋ",
+    "SBJ",
+    "kang",
     "Y",
-    "SUBJ_kang"
+    "SBJ_kang"
   ],
   [
     "Mandinka",
     "cut_oneself",
     "Refl-nàmá",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "get_stuck",
     "nòtó",
-    "SUBJ",
-    "bálá ",
+    "SBJ",
+    "bala",
     "Y",
-    "SUBJ_bala"
+    "SBJ_bala"
   ],
   [
     "Mandinka",
     "lose#game#",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "be_glad",
     "kontáaní",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "speak",
     "dìyàamú",
-    "SUBJ",
-    "yé",
+    "SBJ",
+    "ye",
     "Y",
-    "SUBJ_ye"
+    "SBJ_ye"
   ],
   [
     "Mandinka",
     "give_birth",
     "wúlúu",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "drop",
     "jòlóŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66306,7 +66306,7 @@ const structuralData = [
     "Mandinka",
     "govern",
     "màrá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66316,15 +66316,15 @@ const structuralData = [
     "miss",
     "mèeyáa",
     "OBJ",
-    "SUBJ",
+    "SBJ",
     "X",
-    "OBJ_SUBJ"
+    "OBJ_SBJ"
   ],
   [
     "Mandinka",
     "follow",
     "báyíndí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66333,16 +66333,16 @@ const structuralData = [
     "Mandinka",
     "dismount",
     "jǐi",
-    "SUBJ",
-    "sántó",
+    "SBJ",
+    "santo",
     "Y",
-    "SUBJ_santo"
+    "SBJ_santo"
   ],
   [
     "Mandinka",
     "listen",
     "lámóyí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66351,7 +66351,7 @@ const structuralData = [
     "Mandinka",
     "obey",
     "lámóyí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66360,7 +66360,7 @@ const structuralData = [
     "Mandinka",
     "hear",
     "mòyí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66369,16 +66369,16 @@ const structuralData = [
     "Mandinka",
     "mix",
     "ñáamí",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "look",
     "jùubée",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66387,7 +66387,7 @@ const structuralData = [
     "Mandinka",
     "take_off",
     "wúráŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66396,43 +66396,43 @@ const structuralData = [
     "Mandinka",
     "dream#sleeping#",
     "sìibóo",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "agree",
     "sǒŋ",
-    "SUBJ",
-    "má",
+    "SBJ",
+    "ma",
     "Y",
-    "SUBJ_ma"
+    "SBJ_ma"
   ],
   [
     "Mandinka",
     "have_a_quarrel",
     "sóŋká",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "cost",
     "járí",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "shoot_at",
     "búŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66441,7 +66441,7 @@ const structuralData = [
     "Mandinka",
     "pour",
     "sǒo",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66451,24 +66451,24 @@ const structuralData = [
     "lose",
     "fìlí ",
     "POSS",
-    "SUBJ",
+    "SBJ",
     "X",
-    "POSS_SUBJ"
+    "POSS_SBJ"
   ],
   [
     "Mandinka",
     "sink",
     "túunéŋ",
-    "SUBJ",
-    "kónó",
+    "SBJ",
+    "kono",
     "Y",
-    "SUBJ_kono"
+    "SBJ_kono"
   ],
   [
     "Mandinka",
     "kill",
     "fǎa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66477,7 +66477,7 @@ const structuralData = [
     "Mandinka",
     "hit",
     "búsá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66486,7 +66486,7 @@ const structuralData = [
     "Mandinka",
     "kiss",
     "súmbú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66495,7 +66495,7 @@ const structuralData = [
     "Mandinka",
     "read",
     "kàráŋ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66504,7 +66504,7 @@ const structuralData = [
     "Mandinka",
     "move#bodypart#",
     "mǎa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66513,7 +66513,7 @@ const structuralData = [
     "Mandinka",
     "respect",
     "hórómá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66522,25 +66522,25 @@ const structuralData = [
     "Mandinka",
     "be_squeamish",
     "ñámbú",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "be_content",
     "láa",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "fall_in_love",
     "kànú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66549,25 +66549,25 @@ const structuralData = [
     "Mandinka",
     "trust",
     "láa",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "sympathise",
     "báláfáa",
-    "SUBJ",
-    "yé",
+    "SBJ",
+    "ye",
     "Y",
-    "SUBJ_ye"
+    "SBJ_ye"
   ],
   [
     "Mandinka",
     "envy",
     "háasídíyáa",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66576,70 +66576,70 @@ const structuralData = [
     "Mandinka",
     "be_angry",
     "kámfáa",
-    "SUBJ",
-    "búlú",
+    "SBJ",
+    "bulu",
     "Y",
-    "SUBJ_bulu"
+    "SBJ_bulu"
   ],
   [
     "Mandinka",
     "be_surprised",
     "jáakálí",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "love2",
     "díyáa ",
-    "yé",
-    "SUBJ",
+    "ye",
+    "SBJ",
     "X",
-    "ye_SUBJ"
+    "ye_SBJ"
   ],
   [
     "Mandinka",
     "enjoy",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "want",
     "làfí",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "have_a_grudge",
     "kámfáa",
-    "SUBJ",
-    "búlú",
+    "SBJ",
+    "bulu",
     "Y",
-    "SUBJ_bulu"
+    "SBJ_bulu"
   ],
   [
     "Mandinka",
     "take_offence",
     "*",
-    "",
-    "",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
     "Mandinka",
     "upset",
     "súnú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66648,43 +66648,43 @@ const structuralData = [
     "Mandinka",
     "marvel",
     "káawá",
-    "SUBJ",
-    "má",
+    "SBJ",
+    "ma",
     "Y",
-    "SUBJ_ma"
+    "SBJ_ma"
   ],
   [
     "Mandinka",
     "despise",
     "jùtú",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "get_upset",
     "súnú",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Mandinka",
     "get_irritated",
     "kámfáa",
-    "SUBJ",
-    "búlú",
+    "SBJ",
+    "bulu",
     "Y",
-    "SUBJ_bulu"
+    "SBJ_bulu"
   ],
   [
     "Mandinka",
     "be_fond",
     "kànú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -66693,10 +66693,10 @@ const structuralData = [
     "Mandinka",
     "be_shy",
     "màlú",
-    "SUBJ",
-    "lá",
+    "SBJ",
+    "la",
     "Y",
-    "SUBJ_la"
+    "SBJ_la"
   ],
   [
     "Western Mari",
@@ -66705,7 +66705,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Western Mari",
@@ -66714,7 +66714,7 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
@@ -66723,14 +66723,14 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
     "throw",
     "šu-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66741,7 +66741,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Western Mari",
@@ -66750,7 +66750,7 @@ const structuralData = [
     "NOM",
     "gan",
     "Y",
-    "NOMgan"
+    "NOM_gan"
   ],
   [
     "Western Mari",
@@ -66759,14 +66759,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
     "take",
     "näl-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66774,8 +66774,8 @@ const structuralData = [
     "Western Mari",
     "see",
     "už-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66783,8 +66783,8 @@ const structuralData = [
     "Western Mari",
     "influence",
     "vaštalt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66792,8 +66792,8 @@ const structuralData = [
     "Western Mari",
     "encounter",
     "väšli-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66804,7 +66804,7 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Western Mari",
@@ -66813,7 +66813,7 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
@@ -66822,14 +66822,14 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
     "drive",
     "pokt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66837,8 +66837,8 @@ const structuralData = [
     "Western Mari",
     "bend",
     "äj-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66849,14 +66849,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
     "hold",
     "kə̑č-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66864,8 +66864,8 @@ const structuralData = [
     "Western Mari",
     "catch_up",
     "pokt-en šo-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66873,8 +66873,8 @@ const structuralData = [
     "Western Mari",
     "milk",
     "šə̑pšə̑l-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66885,14 +66885,14 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Western Mari",
     "touch",
     "tə̈käl-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66903,7 +66903,7 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
@@ -66912,7 +66912,7 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
@@ -66921,14 +66921,14 @@ const structuralData = [
     "NOM",
     "gisan",
     "Y",
-    "NOMgisan"
+    "NOM_gisan"
   ],
   [
     "Western Mari",
     "eat",
     "kačk-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66936,8 +66936,8 @@ const structuralData = [
     "Western Mari",
     "fry",
     "žär-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66945,8 +66945,8 @@ const structuralData = [
     "Western Mari",
     "wait",
     "və̑č-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66957,7 +66957,7 @@ const structuralData = [
     "NOM",
     "gisan",
     "Y",
-    "NOMgisan"
+    "NOM_gisan"
   ],
   [
     "Western Mari",
@@ -66966,14 +66966,14 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "call",
     "sə̈gə̈räl-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66984,14 +66984,14 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "know",
     "päl-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -66999,8 +66999,8 @@ const structuralData = [
     "Western Mari",
     "play#instrument#",
     "šakt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67011,14 +67011,14 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
     "make",
     "jämdə̈l-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67026,8 +67026,8 @@ const structuralData = [
     "Western Mari",
     "make_fun",
     "jə̑latar-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67038,14 +67038,14 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Western Mari",
     "look_for",
     "kə̈čäl-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67053,8 +67053,8 @@ const structuralData = [
     "Western Mari",
     "paint",
     "čiält-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67062,8 +67062,8 @@ const structuralData = [
     "Western Mari",
     "bite",
     "pə̑rə̑l-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67072,16 +67072,16 @@ const structuralData = [
     "forfeit",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Western Mari",
     "try_to_catch",
     "lo-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67089,8 +67089,8 @@ const structuralData = [
     "Western Mari",
     "break",
     "tod-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67101,14 +67101,14 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "love1",
     "jarat-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67119,7 +67119,7 @@ const structuralData = [
     "NOM",
     "gisan",
     "Y",
-    "NOMgisan"
+    "NOM_gisan"
   ],
   [
     "Western Mari",
@@ -67128,14 +67128,14 @@ const structuralData = [
     "NOM",
     "gisan",
     "Y",
-    "NOMgisan"
+    "NOM_gisan"
   ],
   [
     "Western Mari",
     "wash",
     "mə̑šk-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67143,8 +67143,8 @@ const structuralData = [
     "Western Mari",
     "put_on",
     "či-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67155,14 +67155,14 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Western Mari",
     "punish",
     "nakaz-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67173,7 +67173,7 @@ const structuralData = [
     "NOM",
     "veke",
     "Y",
-    "NOMveke"
+    "NOM_veke"
   ],
   [
     "Western Mari",
@@ -67182,14 +67182,14 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "find",
     "mo-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67200,14 +67200,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Western Mari",
     "hate",
     "užə̑n ak kerd",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67218,7 +67218,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Western Mari",
@@ -67227,14 +67227,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Western Mari",
     "surround",
     "är-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67245,23 +67245,23 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Western Mari",
     "answer",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Western Mari",
     "open",
     "pač-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67272,7 +67272,7 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
@@ -67281,14 +67281,14 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
     "plough",
     "kə̑ral-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67299,14 +67299,14 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "cross",
     "vanž-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67314,8 +67314,8 @@ const structuralData = [
     "Western Mari",
     "sing",
     "mə̑r-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67323,8 +67323,8 @@ const structuralData = [
     "Western Mari",
     "write",
     "sir-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67332,8 +67332,8 @@ const structuralData = [
     "Western Mari",
     "drink",
     "jü-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67341,8 +67341,8 @@ const structuralData = [
     "Western Mari",
     "melt",
     "šə̈rät-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67353,14 +67353,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
     "leave",
     "kod-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67368,8 +67368,8 @@ const structuralData = [
     "Western Mari",
     "cover",
     "leved-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67377,8 +67377,8 @@ const structuralData = [
     "Western Mari",
     "remember",
     "äšt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67389,14 +67389,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
     "understand",
     "ə̑ngə̑l-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67407,7 +67407,7 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Western Mari",
@@ -67416,7 +67416,7 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
@@ -67425,7 +67425,7 @@ const structuralData = [
     "NOM",
     "LAT",
     "Y",
-    "NOMLAT"
+    "NOM_LAT"
   ],
   [
     "Western Mari",
@@ -67434,7 +67434,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
@@ -67443,7 +67443,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
@@ -67452,14 +67452,14 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "give_birth",
     "ə̈št-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67467,8 +67467,8 @@ const structuralData = [
     "Western Mari",
     "drop",
     "kenvact-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67479,7 +67479,7 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
@@ -67488,7 +67488,7 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
@@ -67497,7 +67497,7 @@ const structuralData = [
     "NOM",
     "pastek",
     "Y",
-    "NOMpastek"
+    "NOM_pastek"
   ],
   [
     "Western Mari",
@@ -67506,14 +67506,14 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
     "listen",
     "kolə̑tšt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67521,8 +67521,8 @@ const structuralData = [
     "Western Mari",
     "obey",
     "kolə̑št-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67530,8 +67530,8 @@ const structuralData = [
     "Western Mari",
     "hear",
     "kol-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67542,7 +67542,7 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
@@ -67551,14 +67551,14 @@ const structuralData = [
     "NOM",
     "veke",
     "Y",
-    "NOMveke"
+    "NOM_veke"
   ],
   [
     "Western Mari",
     "take_off",
     "kə̑daš-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67569,7 +67569,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Western Mari",
@@ -67578,23 +67578,23 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "have_a_quarrel",
     "soredäl-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Western Mari",
     "cost",
     "stoj-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67605,14 +67605,14 @@ const structuralData = [
     "NOM",
     "veke",
     "Y",
-    "NOMveke"
+    "NOM_veke"
   ],
   [
     "Western Mari",
     "pour",
     "opt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67620,8 +67620,8 @@ const structuralData = [
     "Western Mari",
     "lose",
     "jamd-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67632,14 +67632,14 @@ const structuralData = [
     "NOM",
     "ILL",
     "Y",
-    "NOMILL"
+    "NOM_ILL"
   ],
   [
     "Western Mari",
     "kill",
     "pušt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67647,8 +67647,8 @@ const structuralData = [
     "Western Mari",
     "hit",
     "seväl-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67656,8 +67656,8 @@ const structuralData = [
     "Western Mari",
     "kiss",
     "šə̑pšal-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67665,8 +67665,8 @@ const structuralData = [
     "Western Mari",
     "read",
     "lə̑d-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67674,8 +67674,8 @@ const structuralData = [
     "Western Mari",
     "move#bodypart#",
     "tärvätə̈l-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67683,8 +67683,8 @@ const structuralData = [
     "Western Mari",
     "respect",
     "šoteš pišt-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67695,7 +67695,7 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Western Mari",
@@ -67704,14 +67704,14 @@ const structuralData = [
     "NOM",
     "dono",
     "Y",
-    "NOMdono"
+    "NOM_dono"
   ],
   [
     "Western Mari",
     "fall_in_love",
     "jarat-en šə̈nd-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67722,14 +67722,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
     "sympathise",
     "žäläj-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67740,7 +67740,7 @@ const structuralData = [
     "NOM",
     "veke",
     "Y",
-    "NOMveke"
+    "NOM_veke"
   ],
   [
     "Western Mari",
@@ -67749,7 +67749,7 @@ const structuralData = [
     "NOM",
     "veke",
     "Y",
-    "NOMveke"
+    "NOM_veke"
   ],
   [
     "Western Mari",
@@ -67758,14 +67758,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
     "love2",
     "jarat-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67774,8 +67774,8 @@ const structuralData = [
     "enjoy",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -67783,8 +67783,8 @@ const structuralData = [
     "want",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -67794,7 +67794,7 @@ const structuralData = [
     "NOM",
     "veke",
     "Y",
-    "NOMveke"
+    "NOM_veke"
   ],
   [
     "Western Mari",
@@ -67803,14 +67803,14 @@ const structuralData = [
     "NOM",
     "veke",
     "Y",
-    "NOMveke"
+    "NOM_veke"
   ],
   [
     "Western Mari",
     "upset",
     "orlan-dar-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -67821,15 +67821,15 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Western Mari",
     "despise",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -67839,15 +67839,15 @@ const structuralData = [
     "NOM",
     "gisan",
     "Y",
-    "NOMgisan"
+    "NOM_gisan"
   ],
   [
     "Western Mari",
     "get_irritated",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -67855,8 +67855,8 @@ const structuralData = [
     "be_fond",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -67866,7 +67866,7 @@ const structuralData = [
     "NOM",
     "gec",
     "Y",
-    "NOMgec"
+    "NOM_gec"
   ],
   [
     "Moksha",
@@ -67884,7 +67884,7 @@ const structuralData = [
     "NOM",
     "IN/marxta",
     "Y",
-    "NOM_IN_marxta"
+    "NOM_IN/marxta"
   ],
   [
     "Moksha",
@@ -67893,14 +67893,14 @@ const structuralData = [
     "NOM",
     "ABL/ezda",
     "Y",
-    "NOM_ABL_ezda"
+    "NOM_ABL/ezda"
   ],
   [
     "Moksha",
     "throw",
     "jorda-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -67935,8 +67935,8 @@ const structuralData = [
     "Moksha",
     "take",
     "s'ɛv-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -67944,8 +67944,8 @@ const structuralData = [
     "Moksha",
     "see",
     "n'ɛj-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -67954,8 +67954,8 @@ const structuralData = [
     "influence",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -67974,14 +67974,14 @@ const structuralData = [
     "NOM",
     "LAT/DAT",
     "Y",
-    "NOM_LAT_DAT"
+    "NOM_LAT/DAT"
   ],
   [
     "Moksha",
     "win",
     "nal̥kə-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -67992,14 +67992,14 @@ const structuralData = [
     "NOM",
     "EL/ezda",
     "Y",
-    "NOM_EL_ezda"
+    "NOM_EL/ezda"
   ],
   [
     "Moksha",
     "drive",
     "pan'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68007,8 +68007,8 @@ const structuralData = [
     "Moksha",
     "bend",
     "mɛnd'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68025,8 +68025,8 @@ const structuralData = [
     "Moksha",
     "hold",
     "kird'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68034,8 +68034,8 @@ const structuralData = [
     "Moksha",
     "catch_up",
     "sat-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68043,8 +68043,8 @@ const structuralData = [
     "Moksha",
     "milk",
     "pot'a-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68055,7 +68055,7 @@ const structuralData = [
     "NOM",
     "ILL/DAT",
     "Y",
-    "NOM_ILL_DAT"
+    "NOM_ILL/DAT"
   ],
   [
     "Moksha",
@@ -68064,7 +68064,7 @@ const structuralData = [
     "NOM",
     "ILL/DAT",
     "Y",
-    "NOM_ILL_DAT"
+    "NOM_ILL/DAT"
   ],
   [
     "Moksha",
@@ -68097,8 +68097,8 @@ const structuralData = [
     "Moksha",
     "eat",
     "sev-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68106,8 +68106,8 @@ const structuralData = [
     "Moksha",
     "fry",
     "žar'ənda-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68115,8 +68115,8 @@ const structuralData = [
     "Moksha",
     "wait",
     "uč-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68124,8 +68124,8 @@ const structuralData = [
     "Moksha",
     "forget",
     "juksta-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68136,14 +68136,14 @@ const structuralData = [
     "NOM",
     "EL/ezda",
     "Y",
-    "NOM_EL_ezda"
+    "NOM_EL/ezda"
   ],
   [
     "Moksha",
     "call",
     "t'erd'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68160,8 +68160,8 @@ const structuralData = [
     "Moksha",
     "know",
     "soda-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68172,7 +68172,7 @@ const structuralData = [
     "NOM",
     "IN/marxta",
     "Y",
-    "NOM_IN_marxta"
+    "NOM_IN/marxta"
   ],
   [
     "Moksha",
@@ -68181,14 +68181,14 @@ const structuralData = [
     "NOM",
     "ABL/ezda",
     "Y",
-    "NOM_ABL_ezda"
+    "NOM_ABL/ezda"
   ],
   [
     "Moksha",
     "make",
     "t'i-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68214,8 +68214,8 @@ const structuralData = [
     "Moksha",
     "look_for",
     "viš-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68223,8 +68223,8 @@ const structuralData = [
     "Moksha",
     "paint",
     "ar̥t-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68232,8 +68232,8 @@ const structuralData = [
     "Moksha",
     "bite",
     "susk-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68242,16 +68242,16 @@ const structuralData = [
     "forfeit",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Moksha",
     "try_to_catch",
     "kunda-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68259,8 +68259,8 @@ const structuralData = [
     "Moksha",
     "break",
     "s'ind'ə-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68269,16 +68269,16 @@ const structuralData = [
     "flatter",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Moksha",
     "love1",
     "kel'g-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68289,23 +68289,23 @@ const structuralData = [
     "NOM",
     "IN/marxta",
     "Y",
-    "NOM_IN_marxta"
+    "NOM_IN/marxta"
   ],
   [
     "Moksha",
     "dream",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Moksha",
     "wash",
     "šta-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68313,8 +68313,8 @@ const structuralData = [
     "Moksha",
     "put_on",
     "šča-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68323,17 +68323,17 @@ const structuralData = [
     "be_called",
     "mɛr'g-",
     "DAT",
-    "NOMnoagr",
+    "NOM(NO.AGR)",
     "XY",
-    "DAT_NOMnoagr"
+    "DAT_NOM(NO.AGR)"
   ],
   [
     "Moksha",
     "punish",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68352,14 +68352,14 @@ const structuralData = [
     "NOM",
     "ABL/ezda",
     "Y",
-    "NOM_ABL_ezda"
+    "NOM_ABL/ezda"
   ],
   [
     "Moksha",
     "find",
     "mu-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68376,8 +68376,8 @@ const structuralData = [
     "Moksha",
     "hate",
     "NEG + n'ɛj-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68386,8 +68386,8 @@ const structuralData = [
     "like",
     "mɛl'-əzə-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68403,8 +68403,8 @@ const structuralData = [
     "Moksha",
     "surround",
     "kruža-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68430,8 +68430,8 @@ const structuralData = [
     "Moksha",
     "open",
     "pan'ž-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68442,7 +68442,7 @@ const structuralData = [
     "NOM",
     "ABL/ezda",
     "Y",
-    "NOM_ABL_ezda"
+    "NOM_ABL/ezda"
   ],
   [
     "Moksha",
@@ -68451,14 +68451,14 @@ const structuralData = [
     "NOM",
     "ABL/ezda",
     "Y",
-    "NOM_ABL_ezda"
+    "NOM_ABL/ezda"
   ],
   [
     "Moksha",
     "plough",
     "soka-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68467,16 +68467,16 @@ const structuralData = [
     "smell",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Moksha",
     "cross",
     "jota-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68484,8 +68484,8 @@ const structuralData = [
     "Moksha",
     "sing",
     "mora-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68493,8 +68493,8 @@ const structuralData = [
     "Moksha",
     "write",
     "s'ormad'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68502,8 +68502,8 @@ const structuralData = [
     "Moksha",
     "drink",
     "s'imə-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68511,8 +68511,8 @@ const structuralData = [
     "Moksha",
     "melt",
     "šɛn'a-ft-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68529,8 +68529,8 @@ const structuralData = [
     "Moksha",
     "leave",
     "kad-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68538,8 +68538,8 @@ const structuralData = [
     "Moksha",
     "cover",
     "aca-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68547,8 +68547,8 @@ const structuralData = [
     "Moksha",
     "remember",
     "mɛl'aft-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68565,8 +68565,8 @@ const structuralData = [
     "Moksha",
     "understand",
     "šar̥'kəd'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68577,7 +68577,7 @@ const structuralData = [
     "NOM",
     "ILL/DAT",
     "Y",
-    "NOM_ILL_DAT"
+    "NOM_ILL/DAT"
   ],
   [
     "Moksha",
@@ -68586,7 +68586,7 @@ const structuralData = [
     "NOM",
     "IN/marxta",
     "Y",
-    "NOM_IN_marxta"
+    "NOM_IN/marxta"
   ],
   [
     "Moksha",
@@ -68595,15 +68595,15 @@ const structuralData = [
     "NOM",
     "ILL/DAT",
     "Y",
-    "NOM_ILL_DAT"
+    "NOM_ILL/DAT"
   ],
   [
     "Moksha",
     "lose#game#",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68613,7 +68613,7 @@ const structuralData = [
     "NOM",
     "ILL/DAT",
     "Y",
-    "NOM_ILL_DAT"
+    "NOM_ILL/DAT"
   ],
   [
     "Moksha",
@@ -68628,8 +68628,8 @@ const structuralData = [
     "Moksha",
     "give_birth",
     "šač-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68637,8 +68637,8 @@ const structuralData = [
     "Moksha",
     "drop",
     "pra-ft-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68665,8 +68665,8 @@ const structuralData = [
     "follow",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68682,8 +68682,8 @@ const structuralData = [
     "Moksha",
     "listen",
     "kul̥cənd-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68691,8 +68691,8 @@ const structuralData = [
     "Moksha",
     "obey",
     "kul̥cənd-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68700,8 +68700,8 @@ const structuralData = [
     "Moksha",
     "hear",
     "kul'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68727,8 +68727,8 @@ const structuralData = [
     "Moksha",
     "take_off",
     "kaja-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68736,8 +68736,8 @@ const structuralData = [
     "Moksha",
     "dream#sleeping#",
     "n'ɛj- onсtənzə",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68764,8 +68764,8 @@ const structuralData = [
     "cost",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68781,8 +68781,8 @@ const structuralData = [
     "Moksha",
     "pour",
     "kaja-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68790,8 +68790,8 @@ const structuralData = [
     "Moksha",
     "lose",
     "juma-ft-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68802,14 +68802,14 @@ const structuralData = [
     "NOM",
     "ILL/DAT",
     "Y",
-    "NOM_ILL_DAT"
+    "NOM_ILL/DAT"
   ],
   [
     "Moksha",
     "kill",
     "šav-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68817,8 +68817,8 @@ const structuralData = [
     "Moksha",
     "hit",
     "kaja-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68826,8 +68826,8 @@ const structuralData = [
     "Moksha",
     "kiss",
     "pala-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68835,8 +68835,8 @@ const structuralData = [
     "Moksha",
     "read",
     "luv-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68844,8 +68844,8 @@ const structuralData = [
     "Moksha",
     "move#bodypart#",
     "šer'ft'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68853,8 +68853,8 @@ const structuralData = [
     "Moksha",
     "respect",
     "uvažanda-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68865,7 +68865,7 @@ const structuralData = [
     "NOM",
     "ABL/ezda",
     "Y",
-    "NOM_ABL_ezda"
+    "NOM_ABL/ezda"
   ],
   [
     "Moksha",
@@ -68881,8 +68881,8 @@ const structuralData = [
     "fall_in_love",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68898,8 +68898,8 @@ const structuralData = [
     "Moksha",
     "sympathise",
     "užɛl'də-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68928,14 +68928,14 @@ const structuralData = [
     "NOM",
     "ILL/DAT",
     "Y",
-    "NOM_ILL_DAT"
+    "NOM_ILL/DAT"
   ],
   [
     "Moksha",
     "love2",
     "kel'g-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68944,8 +68944,8 @@ const structuralData = [
     "enjoy",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68953,8 +68953,8 @@ const structuralData = [
     "want",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -68979,8 +68979,8 @@ const structuralData = [
     "Moksha",
     "upset",
     "kɛžija-ftə-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -68991,14 +68991,14 @@ const structuralData = [
     "NOM",
     "IN/marxta",
     "Y",
-    "NOM_IN_marxta"
+    "NOM_IN/marxta"
   ],
   [
     "Moksha",
     "despise",
     "pr'ez'iranda-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -69007,8 +69007,8 @@ const structuralData = [
     "get_upset",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -69025,16 +69025,16 @@ const structuralData = [
     "be_fond",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Moksha",
     "be_shy",
     "vizd'-",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -69044,7 +69044,7 @@ const structuralData = [
     "ənusi",
     "POSS",
     "NOM",
-    "",
+    "X",
     "POSS_NOM"
   ],
   [
@@ -69053,7 +69053,7 @@ const structuralData = [
     "ənusi",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -69062,16 +69062,16 @@ const structuralData = [
     "ŋəələ(či)",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "throw",
     "naŋgala-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69079,9 +69079,9 @@ const structuralData = [
     "have_enough",
     "ələ",
     "DAT",
-    "NOM_noAGR",
-    "",
-    "DAT_NOM_noAGR"
+    "NOM(NO.AGR)",
+    "XY",
+    "DAT_NOM(NO.AGR)"
   ],
   [
     "Nanai",
@@ -69089,34 +69089,34 @@ const structuralData = [
     "Y-mat bi-",
     "NOM",
     "mat",
-    "",
+    "Y",
     "NOM_mat"
   ],
   [
     "Nanai",
     "believe",
     "agda(ča)",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "take",
     "ǯapa-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "see",
     "icə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69124,8 +69124,8 @@ const structuralData = [
     "influence",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -69134,7 +69134,7 @@ const structuralData = [
     "baači-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -69143,16 +69143,16 @@ const structuralData = [
     "ii(gu)-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
     "Nanai",
     "win",
     "xətə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69161,25 +69161,25 @@ const structuralData = [
     "niə-",
     "NOM",
     "ABL",
-    "",
+    "Y",
     "NOM_ABL"
   ],
   [
     "Nanai",
     "drive",
     "puŋiə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "bend",
     "uriəwən-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69188,52 +69188,52 @@ const structuralData = [
     "un-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
     "Nanai",
     "hold",
     "ǯapača-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "catch_up",
     "xaŋpan-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "milk",
     "siri-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "reach",
     "esi-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "touch",
     "toŋala-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69242,7 +69242,7 @@ const structuralData = [
     "sori(mači)-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -69251,52 +69251,52 @@ const structuralData = [
     "andalača-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "think",
     "murči-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "eat",
     "sea-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "fry",
     "čero-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "wait",
     "xalači-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "forget",
     "oŋbo-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69305,16 +69305,16 @@ const structuralData = [
     "zavisela-",
     "NOM",
     "ABL",
-    "",
+    "Y",
     "NOM_ABL"
   ],
   [
     "Nanai",
     "call",
     "xəə(r)si-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69323,16 +69323,16 @@ const structuralData = [
     "takoali-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "know",
     "saa-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69341,34 +69341,34 @@ const structuralData = [
     "kupi-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "avoid",
     "xoliači-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "make",
     "aŋgo-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "make_fun",
     "siŋgərə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69376,62 +69376,62 @@ const structuralData = [
     "have",
     "bi-",
     "DAT",
-    "NOM_AGR",
-    "",
-    "DAT_NOM_AGR"
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
     "Nanai",
     "look_for",
     "gələgu-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "paint",
     "niulə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "bite",
     "səkpən-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "forfeit",
     "xuədə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "try_to_catch",
     "ǯapajča- ",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "break",
     "bojali-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69439,17 +69439,17 @@ const structuralData = [
     "flatter",
     "ojban-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Nanai",
     "love1",
     "uləsi-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69458,34 +69458,34 @@ const structuralData = [
     "xarxi-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "dream",
     "murči-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "wash",
     "selko-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "put_on",
     "tətu-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69494,16 +69494,16 @@ const structuralData = [
     "gərbiəsiu-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "punish",
     "kəsuli-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69512,7 +69512,7 @@ const structuralData = [
     "xukču-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -69521,16 +69521,16 @@ const structuralData = [
     "teas o-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "find",
     "baogo-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69538,9 +69538,9 @@ const structuralData = [
     "be_short",
     "aoli-",
     "DAT",
-    "NOM_noAGR",
-    "",
-    "DAT_NOM_noAGR"
+    "NOM(NO.AGR)",
+    "XY",
+    "DAT_NOM(NO.AGR)"
   ],
   [
     "Nanai",
@@ -69548,25 +69548,25 @@ const structuralData = [
     "čiurisi",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "like",
     "ulə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "need",
     "gələ-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69574,8 +69574,8 @@ const structuralData = [
     "surround",
     "elisi-",
     "NOM",
-    "kəndəli ",
-    "",
+    "kendeli ",
+    "Y",
     "NOM_kendeli"
   ],
   [
@@ -69583,9 +69583,9 @@ const structuralData = [
     "remain",
     "osigo-",
     "DAT",
-    "NOM_AGR",
-    "",
-    "DAT_NOM_AGR"
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
     "Nanai",
@@ -69593,16 +69593,16 @@ const structuralData = [
     "taodago-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
     "Nanai",
     "open",
     "nixəli-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69611,7 +69611,7 @@ const structuralData = [
     "xaŋisi(la) bi- ",
     "NOM",
     "ABL",
-    "",
+    "Y",
     "NOM_ABL"
   ],
   [
@@ -69620,16 +69620,16 @@ const structuralData = [
     "xamila dərəǯi- ",
     "NOM",
     "ABL",
-    "",
+    "Y",
     "NOM_ABL"
   ],
   [
     "Nanai",
     "plough",
     "anǯala-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69637,53 +69637,53 @@ const structuralData = [
     "smell",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Nanai",
     "cross",
     "dao-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "sing",
     "ǯari-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "write",
     "niru-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "drink",
     "omi-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "melt",
     "uumbuwən-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69692,7 +69692,7 @@ const structuralData = [
     "ača-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -69701,25 +69701,25 @@ const structuralData = [
     "ənu- ",
     "NOM",
     "ABL",
-    "",
+    "Y",
     "NOM_ABL"
   ],
   [
     "Nanai",
     "cover",
     "dasi-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "remember",
     "əǯəčə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69728,25 +69728,25 @@ const structuralData = [
     "bələči-",
     "NOM",
     "DAT",
-    "",
+    "Y",
     "NOM_DAT"
   ],
   [
     "Nanai",
     "understand",
     "otoli-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "hit#target#",
     "tojko-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69755,7 +69755,7 @@ const structuralData = [
     "xaga-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -69764,7 +69764,7 @@ const structuralData = [
     "lakto-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -69773,7 +69773,7 @@ const structuralData = [
     "pərə-",
     "NOM",
     "DAT",
-    "",
+    "Y",
     "NOM_DAT"
   ],
   [
@@ -69782,7 +69782,7 @@ const structuralData = [
     "agda-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -69791,43 +69791,43 @@ const structuralData = [
     "gusərəndu-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "give_birth",
     "baa-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "drop",
     "tugbu-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "govern",
     "dala-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "miss",
     "ǯoŋgo-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69835,8 +69835,8 @@ const structuralData = [
     "follow",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -69845,34 +69845,34 @@ const structuralData = [
     "xulun-",
     "NOM",
     "ABL",
-    "",
+    "Y",
     "NOM_ABL"
   ],
   [
     "Nanai",
     "listen",
     "dosiǯa-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "obey",
     "dosiǯa-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "hear",
     "dolǯ-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69881,7 +69881,7 @@ const structuralData = [
     "kamorip-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -69890,25 +69890,25 @@ const structuralData = [
     "ičəǯə-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
     "Nanai",
     "take_off",
     "ačo-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "dream#sleeping#",
     "tolkiči-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69917,7 +69917,7 @@ const structuralData = [
     "čexala-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -69926,7 +69926,7 @@ const structuralData = [
     "sorimači-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -69934,35 +69934,35 @@ const structuralData = [
     "cost",
     "sali-",
     "NOM",
-    "NOM",
-    "",
-    "NOM_NOM"
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Nanai",
     "shoot_at",
     "meočala-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "pour",
     "nəə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "lose",
     "xuədə-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -69971,43 +69971,43 @@ const structuralData = [
     "ii- ",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
     "Nanai",
     "kill",
     "waa-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "hit",
     "pačila-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "kiss",
     "oǯo-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "read",
     "xola-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -70016,7 +70016,7 @@ const structuralData = [
     "tujŋku-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -70024,8 +70024,8 @@ const structuralData = [
     "respect",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -70034,7 +70034,7 @@ const structuralData = [
     "irbasi-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -70043,34 +70043,34 @@ const structuralData = [
     "agdanasi-",
     "NOM",
     "ABL",
-    "",
+    "Y",
     "NOM_ABL"
   ],
   [
     "Nanai",
     "fall_in_love",
     "uləsilu-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "trust",
     "agdača-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "sympathise",
     "guǯiəsi-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -70079,7 +70079,7 @@ const structuralData = [
     "ananasi-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -70088,25 +70088,25 @@ const structuralData = [
     "ajaktači-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
     "Nanai",
     "be_surprised",
     "ərdəŋgə baa-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Nanai",
     "love2",
     "uləsi-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -70114,17 +70114,17 @@ const structuralData = [
     "enjoy",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Nanai",
     "want",
     "gələ-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -70133,7 +70133,7 @@ const structuralData = [
     "ajakta-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -70142,7 +70142,7 @@ const structuralData = [
     "aksa-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -70150,8 +70150,8 @@ const structuralData = [
     "upset",
     "orkila opowan-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -70160,16 +70160,16 @@ const structuralData = [
     "xal-xal o-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
     "Nanai",
     "despise",
     "čukisi-",
+    "NOM",
+    "OBL",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -70177,8 +70177,8 @@ const structuralData = [
     "get_upset",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -70187,7 +70187,7 @@ const structuralData = [
     "ajaktači-",
     "NOM",
     "DIR",
-    "",
+    "Y",
     "NOM_DIR"
   ],
   [
@@ -70195,8 +70195,8 @@ const structuralData = [
     "be_fond",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -70205,7 +70205,7 @@ const structuralData = [
     "elaǯi-",
     "NOM",
     "INS",
-    "",
+    "Y",
     "NOM_INS"
   ],
   [
@@ -70213,16 +70213,16 @@ const structuralData = [
     "feel_pain",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Norwegian Bokmål",
     "have#illness#",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70230,17 +70230,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "be_afraid",
     "",
-    "NOM",
+    "SBJ",
     "for",
     "Y",
-    "NOM_for"
+    "SBJ_for"
   ],
   [
     "Norwegian Bokmål",
     "throw",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70249,34 +70249,34 @@ const structuralData = [
     "have_enough",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Norwegian Bokmål",
     "resemble",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "believe",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "take",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70284,8 +70284,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "see",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70293,53 +70293,53 @@ const structuralData = [
     "Norwegian Bokmål",
     "influence",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "encounter",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "enter",
     "",
-    "NOM",
-    "inn i",
+    "SBJ",
+    "inn.i",
     "Y",
-    "NOM_inn_i"
+    "SBJ_inn.i"
   ],
   [
     "Norwegian Bokmål",
     "win",
     "",
-    "NOM",
+    "SBJ",
     "over",
     "Y",
-    "NOM_over"
+    "SBJ_over"
   ],
   [
     "Norwegian Bokmål",
     "go_out",
     "",
-    "NOM",
-    "ut av",
+    "SBJ",
+    "ut.av",
     "Y",
-    "NOM_ut_av"
+    "SBJ_ut.av"
   ],
   [
     "Norwegian Bokmål",
     "drive",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70347,8 +70347,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "bend",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70356,17 +70356,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "tell",
     "",
-    "NOM",
+    "SBJ",
     "til",
     "Y",
-    "NOM_til"
+    "SBJ_til"
   ],
   [
     "Norwegian Bokmål",
     "hold",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70374,8 +70374,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "catch_up",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70383,8 +70383,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "milk",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70392,53 +70392,53 @@ const structuralData = [
     "Norwegian Bokmål",
     "reach",
     "",
-    "NOM",
+    "SBJ",
     "til",
     "Y",
-    "NOM_til"
+    "SBJ_til"
   ],
   [
     "Norwegian Bokmål",
     "touch",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "fight",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "be_friends",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "think",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "eat",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70446,8 +70446,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "fry",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70455,17 +70455,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "wait",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "forget",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70473,35 +70473,35 @@ const structuralData = [
     "Norwegian Bokmål",
     "depend",
     "",
-    "NOM",
+    "SBJ",
     "av",
     "Y",
-    "NOM_av"
+    "SBJ_av"
   ],
   [
     "Norwegian Bokmål",
     "call",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "get_to_know",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "know",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70509,17 +70509,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "play#instrument#",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "avoid",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70527,8 +70527,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "make",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70536,8 +70536,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "make_fun",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70545,8 +70545,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "have",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70554,17 +70554,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "look_for",
     "",
-    "NOM",
+    "SBJ",
     "etter",
     "Y",
-    "NOM_etter"
+    "SBJ_etter"
   ],
   [
     "Norwegian Bokmål",
     "paint",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70572,8 +70572,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "bite",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70581,8 +70581,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "forfeit",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70590,8 +70590,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "try_to_catch",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70599,8 +70599,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "break",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70608,8 +70608,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "flatter",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70617,8 +70617,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "love1",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70626,26 +70626,26 @@ const structuralData = [
     "Norwegian Bokmål",
     "wave",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "dream",
     "",
-    "NOM",
+    "SBJ",
     "om",
     "Y",
-    "NOM_om"
+    "SBJ_om"
   ],
   [
     "Norwegian Bokmål",
     "wash",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70653,8 +70653,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "put_on",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70662,8 +70662,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "be_called",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70671,8 +70671,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "punish",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70680,8 +70680,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "attack",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70689,17 +70689,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "fill#intr#",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "find",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70707,8 +70707,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "be_short",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70716,8 +70716,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "hate",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70725,8 +70725,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "like",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70734,8 +70734,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "need",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70743,8 +70743,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "surround",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70753,16 +70753,16 @@ const structuralData = [
     "remain",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Norwegian Bokmål",
     "answer",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70770,8 +70770,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "open",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70779,26 +70779,26 @@ const structuralData = [
     "Norwegian Bokmål",
     "be_different",
     "",
-    "NOM",
+    "SBJ",
     "enn",
     "Y",
-    "NOM_enn"
+    "SBJ_enn"
   ],
   [
     "Norwegian Bokmål",
     "fall_behind",
     "",
-    "NOM",
+    "SBJ",
     "etter",
     "Y",
-    "NOM_etter"
+    "SBJ_etter"
   ],
   [
     "Norwegian Bokmål",
     "plough",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70807,16 +70807,16 @@ const structuralData = [
     "smell",
     "",
     "av",
-    "O",
+    "DO",
     "X",
-    "AV_OBJ"
+    "av_DO"
   ],
   [
     "Norwegian Bokmål",
     "cross",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70824,8 +70824,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "sing",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70833,8 +70833,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "write",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70842,8 +70842,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "drink",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70851,8 +70851,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "melt",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70860,17 +70860,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "match",
     "",
-    "NOM",
+    "SBJ",
     "til",
     "Y",
-    "NOM_til"
+    "SBJ_til"
   ],
   [
     "Norwegian Bokmål",
     "leave",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70878,8 +70878,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "cover",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70887,8 +70887,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "remember",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70896,8 +70896,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "help",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70905,8 +70905,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "understand",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70914,8 +70914,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "hit#target#",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70923,53 +70923,53 @@ const structuralData = [
     "Norwegian Bokmål",
     "cut_oneself",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "get_stuck",
     "",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Norwegian Bokmål",
     "lose#game#",
     "",
-    "NOM",
+    "SBJ",
     "mot",
     "Y",
-    "NOM_mot"
+    "SBJ_mot"
   ],
   [
     "Norwegian Bokmål",
     "be_glad",
     "",
-    "NOM",
+    "SBJ",
     "for",
     "Y",
-    "NOM_for"
+    "SBJ_for"
   ],
   [
     "Norwegian Bokmål",
     "speak",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "give_birth",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70977,8 +70977,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "drop",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -70987,61 +70987,61 @@ const structuralData = [
     "govern",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Norwegian Bokmål",
     "miss",
     "",
-    "NOM",
+    "SBJ",
     "etter",
     "Y",
-    "NOM_etter"
+    "SBJ_etter"
   ],
   [
     "Norwegian Bokmål",
     "follow",
     "",
-    "NOM",
+    "SBJ",
     "etter",
     "Y",
-    "NOM_etter"
+    "SBJ_etter"
   ],
   [
     "Norwegian Bokmål",
     "dismount",
     "",
-    "NOM",
-    "ned av",
+    "SBJ",
+    "ned.av",
     "Y",
-    "NOM_ned_av"
+    "SBJ_ned.av"
   ],
   [
     "Norwegian Bokmål",
     "listen",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "obey",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "hear",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71049,26 +71049,26 @@ const structuralData = [
     "Norwegian Bokmål",
     "mix",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "look",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "take_off",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71076,35 +71076,35 @@ const structuralData = [
     "Norwegian Bokmål",
     "dream#sleeping#",
     "",
-    "NOM",
+    "SBJ",
     "om",
     "Y",
-    "NOM_om"
+    "SBJ_om"
   ],
   [
     "Norwegian Bokmål",
     "agree",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "have_a_quarrel",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "cost",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71112,26 +71112,26 @@ const structuralData = [
     "Norwegian Bokmål",
     "shoot_at",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "pour",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Norwegian Bokmål",
     "lose",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71139,17 +71139,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "sink",
     "",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Norwegian Bokmål",
     "kill",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71157,8 +71157,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "hit",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71166,8 +71166,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "kiss",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71175,8 +71175,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "read",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71184,17 +71184,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "move#bodypart#",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "respect",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71203,52 +71203,52 @@ const structuralData = [
     "be_squeamish",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Norwegian Bokmål",
     "be_content",
     "",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Norwegian Bokmål",
     "fall_in_love",
     "",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Norwegian Bokmål",
     "trust",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "sympathise",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "envy",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71256,26 +71256,26 @@ const structuralData = [
     "Norwegian Bokmål",
     "be_angry",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "be_surprised",
     "",
-    "NOM",
+    "SBJ",
     "over",
     "Y",
-    "NOM_over"
+    "SBJ_over"
   ],
   [
     "Norwegian Bokmål",
     "love2",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71283,8 +71283,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "enjoy",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71292,8 +71292,8 @@ const structuralData = [
     "Norwegian Bokmål",
     "want",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71301,26 +71301,26 @@ const structuralData = [
     "Norwegian Bokmål",
     "have_a_grudge",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "take_offence",
     "",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_po"
+    "SBJ_pa"
   ],
   [
     "Norwegian Bokmål",
     "upset",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71328,17 +71328,17 @@ const structuralData = [
     "Norwegian Bokmål",
     "marvel",
     "",
-    "NOM",
+    "SBJ",
     "over",
     "Y",
-    "NOM_over"
+    "SBJ_over"
   ],
   [
     "Norwegian Bokmål",
     "despise",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -71346,37 +71346,37 @@ const structuralData = [
     "Norwegian Bokmål",
     "get_upset",
     "",
-    "NOM",
+    "SBJ",
     "over",
     "Y",
-    "NOM_over"
+    "SBJ_over"
   ],
   [
     "Norwegian Bokmål",
     "get_irritated",
     "",
-    "NOM",
+    "SBJ",
     "over",
     "Y",
-    "NOM_over"
+    "SBJ_over"
   ],
   [
     "Norwegian Bokmål",
     "be_fond",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Norwegian Bokmål",
     "be_shy",
     "",
-    "NOM",
+    "SBJ",
     "for",
     "Y",
-    "NOM_for"
+    "SBJ_for"
   ],
   [
     "Ossetic",
@@ -71385,7 +71385,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Ossetic",
@@ -71394,7 +71394,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -71403,14 +71403,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "throw",
     "фехсын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71421,15 +71421,15 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "resemble",
-    "хуызæн уæвын",
-    "*посессивная конструкция",
-    "",
-    "",
+    "хуызæн уæвын*",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
@@ -71439,14 +71439,14 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
     "take",
     "райсын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71454,8 +71454,8 @@ const structuralData = [
     "Ossetic",
     "see",
     "уынын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71466,7 +71466,7 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
@@ -71475,7 +71475,7 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
@@ -71484,14 +71484,14 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
     "win",
     "рамбулын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71502,14 +71502,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "drive",
     "тæрын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71517,8 +71517,8 @@ const structuralData = [
     "Ossetic",
     "bend",
     "æркъæдз кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71529,7 +71529,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
@@ -71538,14 +71538,14 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
     "catch_up",
     "баййафын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71553,8 +71553,8 @@ const structuralData = [
     "Ossetic",
     "milk",
     "æрдуцын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71565,7 +71565,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
@@ -71574,7 +71574,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
@@ -71583,7 +71583,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
@@ -71592,7 +71592,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
@@ -71601,14 +71601,14 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
     "eat",
     "бахæрын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71616,8 +71616,8 @@ const structuralData = [
     "Ossetic",
     "fry",
     "сфизонæг кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71628,14 +71628,14 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
     "forget",
     "ферох кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71646,7 +71646,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
@@ -71655,7 +71655,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
@@ -71664,14 +71664,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
     "know",
     "зонын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71682,7 +71682,7 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
@@ -71691,14 +71691,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "make",
     "саразын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71709,7 +71709,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -71718,14 +71718,14 @@ const structuralData = [
     "ALL",
     "NOM",
     "X",
-    "ALLNOM"
+    "ALL_NOM"
   ],
   [
     "Ossetic",
     "look_for",
     "агурын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71733,8 +71733,8 @@ const structuralData = [
     "Ossetic",
     "paint",
     "сахорын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71745,7 +71745,7 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
@@ -71754,14 +71754,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "try_to_catch",
     "ахсын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71769,8 +71769,8 @@ const structuralData = [
     "Ossetic",
     "break",
     "асæттын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71781,14 +71781,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
     "love1",
     "уарзын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71799,7 +71799,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -71808,14 +71808,14 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
     "wash",
     "ныхсын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71823,8 +71823,8 @@ const structuralData = [
     "Ossetic",
     "put_on",
     "скæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71835,14 +71835,14 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Ossetic",
     "punish",
     "бафхæрын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71853,7 +71853,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
@@ -71862,14 +71862,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "find",
     "ссарын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71880,7 +71880,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Ossetic",
@@ -71889,7 +71889,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -71898,15 +71898,15 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Ossetic",
     "need",
     "хъæуын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -71914,8 +71914,8 @@ const structuralData = [
     "surround",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -71925,7 +71925,7 @@ const structuralData = [
     "ALL",
     "NOM",
     "X",
-    "ALLNOM"
+    "ALL_NOM"
   ],
   [
     "Ossetic",
@@ -71934,14 +71934,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
     "open",
     "байгом кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71952,7 +71952,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -71961,14 +71961,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "plough",
     "хуым кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -71979,7 +71979,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -71988,14 +71988,14 @@ const structuralData = [
     "NOM",
     "sarty",
     "Y",
-    "NOMsarty"
+    "NOM_sarty"
   ],
   [
     "Ossetic",
     "sing",
     "азарын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72003,8 +72003,8 @@ const structuralData = [
     "Ossetic",
     "write",
     "ныффыссын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72012,8 +72012,8 @@ const structuralData = [
     "Ossetic",
     "drink",
     "бануазын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72021,8 +72021,8 @@ const structuralData = [
     "Ossetic",
     "melt",
     "стайын кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72033,14 +72033,14 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
     "leave",
     "ныууадзын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72048,8 +72048,8 @@ const structuralData = [
     "Ossetic",
     "cover",
     "æмбæрзын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72057,8 +72057,8 @@ const structuralData = [
     "Ossetic",
     "remember",
     "хъуыды кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72069,14 +72069,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
     "understand",
     "æмбарын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72087,7 +72087,7 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
@@ -72096,7 +72096,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -72105,7 +72105,7 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
@@ -72114,7 +72114,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
@@ -72123,7 +72123,7 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
@@ -72132,14 +72132,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
     "give_birth",
     "ныййарын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72150,23 +72150,23 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Ossetic",
     "govern",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Ossetic",
     "miss",
     "мысын ",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72177,7 +72177,7 @@ const structuralData = [
     "NOM",
     "fasta",
     "Y",
-    "NOMfasta"
+    "NOM_fasta"
   ],
   [
     "Ossetic",
@@ -72186,15 +72186,15 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "listen",
     "хъусын* ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72202,8 +72202,8 @@ const structuralData = [
     "obey",
     "хъусын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72213,7 +72213,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
@@ -72222,7 +72222,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
@@ -72231,14 +72231,14 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
     "take_off",
     "раласын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72246,8 +72246,8 @@ const structuralData = [
     "Ossetic",
     "dream#sleeping#",
     "йӕ фыны уынын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72258,7 +72258,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
@@ -72267,14 +72267,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Ossetic",
     "cost",
     "кӕнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72283,16 +72283,16 @@ const structuralData = [
     "shoot_at",
     "фехсын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Ossetic",
     "pour",
     "æркæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72300,8 +72300,8 @@ const structuralData = [
     "Ossetic",
     "lose",
     "фесафын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72312,14 +72312,14 @@ const structuralData = [
     "NOM",
     "INESS",
     "Y",
-    "NOMINESS"
+    "NOM_INESS"
   ],
   [
     "Ossetic",
     "kill",
     "амарын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72327,8 +72327,8 @@ const structuralData = [
     "Ossetic",
     "hit",
     "ныццæвын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72339,14 +72339,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
     "read",
     "бакæсын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72354,8 +72354,8 @@ const structuralData = [
     "Ossetic",
     "move#bodypart#",
     "базмæлын кӕнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72366,7 +72366,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
@@ -72375,7 +72375,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
@@ -72384,15 +72384,15 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
     "fall_in_love",
     "бауарзын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72400,8 +72400,8 @@ const structuralData = [
     "trust",
     "æууæндын* ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72411,7 +72411,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ossetic",
@@ -72420,15 +72420,15 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
     "be_angry",
     "мæсты кæнын ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72438,15 +72438,15 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
     "love2",
     "уарзын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72456,7 +72456,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Ossetic",
@@ -72465,7 +72465,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Ossetic",
@@ -72474,7 +72474,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "NOMALL"
+    "NOM_ALL"
   ],
   [
     "Ossetic",
@@ -72483,14 +72483,14 @@ const structuralData = [
     "NOM",
     "SUPER",
     "Y",
-    "NOMSUPER"
+    "NOM_SUPER"
   ],
   [
     "Ossetic",
     "upset",
     "фенкъард кæнын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72499,16 +72499,16 @@ const structuralData = [
     "marvel",
     "бадис кæнын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Ossetic",
     "despise",
     "йæ сæрмæ нæ хæссын",
-    "TR",
-    "",
+    "NOM",
+    "GEN~NOM",
     "TR",
     "TR"
   ],
@@ -72519,15 +72519,15 @@ const structuralData = [
     "NOM",
     "tyxxaj",
     "Y",
-    "NOMtyxxaj"
+    "NOM_tyxxaj"
   ],
   [
     "Ossetic",
     "get_irritated",
     "мæсты кæнын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72535,8 +72535,8 @@ const structuralData = [
     "be_fond",
     "йæ зæрдæмæ цæуын*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -72546,7 +72546,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Polish",
@@ -72562,9 +72562,9 @@ const structuralData = [
     "have#illness#",
     "choruj-e",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
@@ -72579,8 +72579,8 @@ const structuralData = [
     "Polish",
     "throw",
     "rzuci-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72598,9 +72598,9 @@ const structuralData = [
     "resemble",
     "podobn-a jest",
     "NOM",
-    "do_GEN",
+    "doGEN",
     "Y",
-    "NOM_do_GEN"
+    "NOM_doGEN"
   ],
   [
     "Polish",
@@ -72615,8 +72615,8 @@ const structuralData = [
     "Polish",
     "take",
     "wzią-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72624,8 +72624,8 @@ const structuralData = [
     "Polish",
     "see",
     "widz-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72634,16 +72634,16 @@ const structuralData = [
     "influence",
     "wpływ-a",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
     "encounter",
     "spotka-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72652,34 +72652,34 @@ const structuralData = [
     "enter",
     "wszed-ł",
     "NOM",
-    "do_GEN",
+    "doGEN",
     "Y",
-    "NOM_do_GEN"
+    "NOM_doGEN"
   ],
   [
     "Polish",
     "win",
     "wygra-ł",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "go_out",
     "wyszed-ł",
     "NOM",
-    "z_GEN",
+    "zGEN",
     "Y",
-    "NOM_z_GEN"
+    "NOM_zGEN"
   ],
   [
     "Polish",
     "drive",
     "gon-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72687,8 +72687,8 @@ const structuralData = [
     "Polish",
     "bend",
     "zgią-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72705,8 +72705,8 @@ const structuralData = [
     "Polish",
     "hold",
     "trzyma",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72714,8 +72714,8 @@ const structuralData = [
     "Polish",
     "catch_up",
     "dogoni-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72723,8 +72723,8 @@ const structuralData = [
     "Polish",
     "milk",
     "wydoi-ł-a",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72733,9 +72733,9 @@ const structuralData = [
     "reach",
     "dotar-ł",
     "NOM",
-    "do_GEN",
+    "doGEN",
     "Y",
-    "NOM_do_GEN"
+    "NOM_doGEN"
   ],
   [
     "Polish",
@@ -72751,34 +72751,34 @@ const structuralData = [
     "fight",
     "bij-e się",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "be_friends",
     "przyjaźn-i się",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "think",
     "myśl-i",
     "NOM",
-    "o_LOC",
+    "oLOC",
     "Y",
-    "NOM_o_LOC"
+    "NOM_oLOC"
   ],
   [
     "Polish",
     "eat",
     "zjad-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72786,8 +72786,8 @@ const structuralData = [
     "Polish",
     "fry",
     "usmaży-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72796,34 +72796,34 @@ const structuralData = [
     "wait",
     "czeka",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
     "forget",
     "zapomnia-ł-a",
     "NOM",
-    "o_LOC",
+    "oLOC",
     "Y",
-    "NOM_o_LOC"
+    "NOM_oLOC"
   ],
   [
     "Polish",
     "depend",
     "zależ-y",
     "NOM",
-    "od_GEN",
+    "odGEN",
     "Y",
-    "NOM_od_GEN"
+    "NOM_odGEN"
   ],
   [
     "Polish",
     "call",
     "zawoła-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72832,16 +72832,16 @@ const structuralData = [
     "get_to_know",
     "(za)pozna-ł się",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "know",
     "zna",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72850,9 +72850,9 @@ const structuralData = [
     "play#instrument#",
     "gra",
     "NOM",
-    "na_LOC",
+    "naLOC",
     "Y",
-    "NOM_na_LOC"
+    "NOM_naLOC"
   ],
   [
     "Polish",
@@ -72867,8 +72867,8 @@ const structuralData = [
     "Polish",
     "make",
     "skonstruowa-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72877,16 +72877,16 @@ const structuralData = [
     "make_fun",
     "drw-i",
     "NOM",
-    "z_GEN",
+    "zGEN",
     "Y",
-    "NOM_z_GEN"
+    "NOM_zGEN"
   ],
   [
     "Polish",
     "have",
     "ma",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72903,8 +72903,8 @@ const structuralData = [
     "Polish",
     "paint",
     "pomalowa-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72912,8 +72912,8 @@ const structuralData = [
     "Polish",
     "bite",
     "ugryz-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72921,8 +72921,8 @@ const structuralData = [
     "Polish",
     "forfeit",
     "straci-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72930,8 +72930,8 @@ const structuralData = [
     "Polish",
     "try_to_catch",
     "łapi-e",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72939,8 +72939,8 @@ const structuralData = [
     "Polish",
     "break",
     "złama-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72957,8 +72957,8 @@ const structuralData = [
     "Polish",
     "love1",
     "kocha",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72976,16 +72976,16 @@ const structuralData = [
     "dream",
     "marz-y",
     "NOM",
-    "o_LOC",
+    "oLOC",
     "Y",
-    "NOM_o_LOC"
+    "NOM_oLOC"
   ],
   [
     "Polish",
     "wash",
     "umy-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -72993,8 +72993,8 @@ const structuralData = [
     "Polish",
     "put_on",
     "włoży-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73011,8 +73011,8 @@ const structuralData = [
     "Polish",
     "punish",
     "ukara-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73021,9 +73021,9 @@ const structuralData = [
     "attack",
     "napad-ł",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
@@ -73038,8 +73038,8 @@ const structuralData = [
     "Polish",
     "find",
     "znalaz-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73083,8 +73083,8 @@ const structuralData = [
     "Polish",
     "surround",
     "otacza",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73110,8 +73110,8 @@ const structuralData = [
     "Polish",
     "open",
     "otworzy-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73120,25 +73120,25 @@ const structuralData = [
     "be_different",
     "odróżnia się",
     "NOM",
-    "od_GEN",
+    "odGEN",
     "Y",
-    "NOM_od_GEN"
+    "NOM_odGEN"
   ],
   [
     "Polish",
     "fall_behind",
     "została",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Polish",
     "plough",
     "orz-e",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73155,8 +73155,8 @@ const structuralData = [
     "Polish",
     "cross",
     "przeszed-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73164,8 +73164,8 @@ const structuralData = [
     "Polish",
     "sing",
     "zaśpiewa-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73173,8 +73173,8 @@ const structuralData = [
     "Polish",
     "write",
     "napisa-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73182,8 +73182,8 @@ const structuralData = [
     "Polish",
     "drink",
     "wypi-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73191,8 +73191,8 @@ const structuralData = [
     "Polish",
     "melt",
     "roztopi-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73201,16 +73201,16 @@ const structuralData = [
     "match",
     "pasuj-e",
     "NOM",
-    "do_GEN",
+    "doGEN",
     "Y",
-    "NOM_do_GEN"
+    "NOM_doGEN"
   ],
   [
     "Polish",
     "leave",
     "opuści-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73218,8 +73218,8 @@ const structuralData = [
     "Polish",
     "cover",
     "pokrywa",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73227,8 +73227,8 @@ const structuralData = [
     "Polish",
     "remember",
     "pamięta",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73245,8 +73245,8 @@ const structuralData = [
     "Polish",
     "understand",
     "rozumi-e",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73255,9 +73255,9 @@ const structuralData = [
     "hit#target#",
     "trafi-ł",
     "NOM",
-    "w_ACC",
+    "wACC",
     "Y",
-    "NOM_w_ACC"
+    "NOM_wACC"
   ],
   [
     "Polish",
@@ -73273,43 +73273,43 @@ const structuralData = [
     "get_stuck",
     "przylepi-ł-a się",
     "NOM",
-    "do_GEN",
+    "doGEN",
     "Y",
-    "NOM_do_GEN"
+    "NOM_doGEN"
   ],
   [
     "Polish",
     "lose#game#",
     "przegra-ł",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "be_glad",
     "ucieszy-ł się",
     "NOM",
-    "z_GEN",
+    "zGEN",
     "Y",
-    "NOM_z_GEN"
+    "NOM_zGEN"
   ],
   [
     "Polish",
     "speak",
     "rozmawia",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "give_birth",
     "urodzi-ł-a",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73317,8 +73317,8 @@ const structuralData = [
     "Polish",
     "drop",
     "upuści-ł-a",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73336,27 +73336,27 @@ const structuralData = [
     "miss",
     "tęskn-i",
     "NOM",
-    "za_INS",
+    "zaINS",
     "Y",
-    "NOM_za_INS"
+    "NOM_zaINS"
   ],
   [
     "Polish",
     "follow",
     "idzi-e",
     "NOM",
-    "za_INS",
+    "zaINS",
     "Y",
-    "NOM_za_INS"
+    "NOM_zaINS"
   ],
   [
     "Polish",
     "dismount",
     "zszed-ł",
     "NOM",
-    "z_GEN",
+    "zGEN",
     "Y",
-    "NOM_z_GEN"
+    "NOM_zGEN"
   ],
   [
     "Polish",
@@ -73380,8 +73380,8 @@ const structuralData = [
     "Polish",
     "hear",
     "słysz-y",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73390,25 +73390,25 @@ const structuralData = [
     "mix",
     "zmiesza-ł się",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "look",
     "patrz-y",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
     "take_off",
     "zdję-ł-a",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73426,25 +73426,25 @@ const structuralData = [
     "agree",
     "zgodzi-ł-a się",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "have_a_quarrel",
     "pokłóci-ł-a się",
     "NOM",
-    "z_INS",
+    "zINS",
     "Y",
-    "NOM_z_INS"
+    "NOM_zINS"
   ],
   [
     "Polish",
     "cost",
     "kosztuj-e",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73453,16 +73453,16 @@ const structuralData = [
     "shoot_at",
     "strzeli-ł",
     "NOM",
-    "do_GEN",
+    "doGEN",
     "Y",
-    "NOM_do_GEN"
+    "NOM_doGEN"
   ],
   [
     "Polish",
     "pour",
     "wsypa-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73470,8 +73470,8 @@ const structuralData = [
     "Polish",
     "lose",
     "zgubi-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73480,16 +73480,16 @@ const structuralData = [
     "sink",
     "utonę-ł-o",
     "NOM",
-    "w_LOC",
+    "wLOC",
     "Y",
-    "NOM_w_LOC"
+    "NOM_wLOC"
   ],
   [
     "Polish",
     "kill",
     "zabi-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73497,8 +73497,8 @@ const structuralData = [
     "Polish",
     "hit",
     "uderzy-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73506,8 +73506,8 @@ const structuralData = [
     "Polish",
     "kiss",
     "pocałowa-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73515,8 +73515,8 @@ const structuralData = [
     "Polish",
     "read",
     "przeczyta-ł-a",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73533,8 +73533,8 @@ const structuralData = [
     "Polish",
     "respect",
     "szanuj-e",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73552,18 +73552,18 @@ const structuralData = [
     "be_content",
     "by-ł zadowolon-y",
     "NOM",
-    "z_GEN",
+    "zGEN",
     "Y",
-    "NOM_z_GEN"
+    "NOM_zGEN"
   ],
   [
     "Polish",
     "fall_in_love",
     "zakocha-ł się",
     "NOM",
-    "w_LOC",
+    "wLOC",
     "Y",
-    "NOM_w_LOC"
+    "NOM_wLOC"
   ],
   [
     "Polish",
@@ -73597,9 +73597,9 @@ const structuralData = [
     "be_angry",
     "gniew-a się",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
@@ -73614,8 +73614,8 @@ const structuralData = [
     "Polish",
     "love2",
     "lub-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73632,8 +73632,8 @@ const structuralData = [
     "Polish",
     "want",
     "chc-e",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73642,25 +73642,25 @@ const structuralData = [
     "have_a_grudge",
     "wścieka się",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
     "take_offence",
     "obrazi-ł się",
     "NOM",
-    "na_ACC",
+    "naACC",
     "Y",
-    "NOM_na_ACC"
+    "NOM_naACC"
   ],
   [
     "Polish",
     "upset",
     "zasmuci-ł",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73687,25 +73687,25 @@ const structuralData = [
     "get_upset",
     "zasmuci-ł się",
     "NOM",
-    "z_powodu_GEN",
+    "z.powoduGEN",
     "Y",
-    "NOM_z_powodu_GEN"
+    "NOM_z.powoduGEN"
   ],
   [
     "Polish",
     "get_irritated",
     "drażn-i",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Polish",
     "be_fond",
     "lub-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -73724,16 +73724,16 @@ const structuralData = [
     "a durea",
     "ACC",
     "NOM",
-    "",
-    "ACCNOM"
+    "X",
+    "ACC_NOM"
   ],
   [
     "Romanian",
     "have#illness#",
     "a avea",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73742,16 +73742,16 @@ const structuralData = [
     "a fi frică",
     "DAT",
     "de",
-    "",
-    "DATde"
+    "XY",
+    "DAT_de"
   ],
   [
     "Romanian",
     "throw",
     "a arunca",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73759,8 +73759,8 @@ const structuralData = [
     "have_enough",
     "a fi destul",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -73769,43 +73769,43 @@ const structuralData = [
     "a semănă",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
     "believe",
     "a avea încredere",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Romanian",
     "take",
     "a lua",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "see",
     "a vedea",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "influence",
     "a influența",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73814,8 +73814,8 @@ const structuralData = [
     "a se întâlni",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
@@ -73823,16 +73823,16 @@ const structuralData = [
     "a intra",
     "NOM",
     "in",
-    "",
-    "NOMin"
+    "Y",
+    "NOM_in"
   ],
   [
     "Romanian",
     "win",
     "a învinge",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73841,25 +73841,25 @@ const structuralData = [
     "a ieși",
     "NOM",
     "din",
-    "",
-    "NOMdin"
+    "Y",
+    "NOM_din"
   ],
   [
     "Romanian",
     "drive",
     "a paște",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "bend",
     "a îndoi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73868,34 +73868,34 @@ const structuralData = [
     "a spune",
     "NOM",
     "DAT",
-    "",
-    "NOMDAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Romanian",
     "hold",
     "a ține",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "catch_up",
     "a prinde … din urmă",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "milk",
     "a mulge",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73904,16 +73904,16 @@ const structuralData = [
     "a ajunge",
     "NOM",
     "la",
-    "",
-    "NOMla"
+    "Y",
+    "NOM_la"
   ],
   [
     "Romanian",
     "touch",
     "a atinge",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73922,8 +73922,8 @@ const structuralData = [
     "a se bate",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
@@ -73931,8 +73931,8 @@ const structuralData = [
     "a fi prieten",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
@@ -73940,43 +73940,43 @@ const structuralData = [
     "a se gândi",
     "NOM",
     "la",
-    "",
-    "NOMla"
+    "Y",
+    "NOM_la"
   ],
   [
     "Romanian",
     "eat",
     "a mânca",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "fry",
     "a prăji",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "wait",
     "a aștepta ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "forget",
     "a uita",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -73985,16 +73985,16 @@ const structuralData = [
     "a fi înfluențat",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
     "call",
     "a chema",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74003,16 +74003,16 @@ const structuralData = [
     "a se întâlni",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
     "know",
     "a știe",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74021,25 +74021,25 @@ const structuralData = [
     "a cânta",
     "NOM",
     "la",
-    "",
-    "NOMla"
+    "Y",
+    "NOM_la"
   ],
   [
     "Romanian",
     "avoid",
     "a evita",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "make",
     "a fabrica",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74048,52 +74048,52 @@ const structuralData = [
     "a-și bate joc",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
     "have",
     "a avea",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "look_for",
     "a căuta",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "paint",
     "a vopsi ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "bite",
     "a mușca ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "forfeit",
     "a pierde",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74101,35 +74101,35 @@ const structuralData = [
     "try_to_catch",
     "a încerca să prindă ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Romanian",
     "break",
     "a rupe",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "flatter",
     "a linguși",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "love1",
     "a iubi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74138,8 +74138,8 @@ const structuralData = [
     "a flutura",
     "NOM",
     "din",
-    "",
-    "NOMdin"
+    "Y",
+    "NOM_din"
   ],
   [
     "Romanian",
@@ -74147,25 +74147,25 @@ const structuralData = [
     "a visa",
     "NOM",
     "la",
-    "",
-    "NOMla"
+    "Y",
+    "NOM_la"
   ],
   [
     "Romanian",
     "wash",
     "a spăla",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "put_on",
     "a lua … pe sine",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74174,25 +74174,25 @@ const structuralData = [
     "a se numi",
     "NOM",
     "NOM",
-    "",
-    "NOMNOM"
+    "Y",
+    "NOM_NOM"
   ],
   [
     "Romanian",
     "punish",
     "a pedepsi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "attack",
     "a ataca",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74201,16 +74201,16 @@ const structuralData = [
     "a fi umplut",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
     "find",
     "a găsi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74219,16 +74219,16 @@ const structuralData = [
     "a lipsi",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Romanian",
     "hate",
     "a urî",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74237,25 +74237,25 @@ const structuralData = [
     "a plăcea",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Romanian",
     "need",
     "a avea nevoie",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Romanian",
     "surround",
     "a înconjura",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74264,8 +74264,8 @@ const structuralData = [
     "a rămâne",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Romanian",
@@ -74273,16 +74273,16 @@ const structuralData = [
     "a răspunde",
     "NOM",
     "DAT",
-    "",
-    "NOMDAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Romanian",
     "open",
     "a deschide",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74291,25 +74291,25 @@ const structuralData = [
     "a fi diferit",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
     "fall_behind",
     "a rămâne ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Romanian",
     "plough",
     "a ara",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74318,52 +74318,52 @@ const structuralData = [
     "a mirosi",
     "NOM",
     "a",
-    "",
-    "NOMa"
+    "Y",
+    "NOM_a"
   ],
   [
     "Romanian",
     "cross",
     "a traversa",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "sing",
     "a cânta",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "write",
     "a scrie",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "drink",
     "a bea",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "melt",
     "a topi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74372,61 +74372,61 @@ const structuralData = [
     "a se potrivi",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
     "leave",
     "a părăsi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "cover",
     "a acoperi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "remember",
     "a aminti",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "help",
     "a ajuta",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "understand",
     "a înțelege",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "hit#target#",
     "a lovi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74435,8 +74435,8 @@ const structuralData = [
     "a se taie",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
@@ -74444,17 +74444,17 @@ const structuralData = [
     "a se lipi",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
     "lose#game#",
     "a pierde",
     "NOM",
-    "in_fata",
-    "",
-    "NOMin_fata"
+    "in.fata",
+    "Y",
+    "NOM_in.fata"
   ],
   [
     "Romanian",
@@ -74462,8 +74462,8 @@ const structuralData = [
     "a fi fericit",
     "NOM",
     "gratie",
-    "",
-    "NOMgratie"
+    "Y",
+    "NOM_gratie"
   ],
   [
     "Romanian",
@@ -74471,34 +74471,34 @@ const structuralData = [
     "a vorbi",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
     "give_birth",
     "a năște",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "drop",
     "a scăpa ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "govern",
     "a conduce",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74507,16 +74507,16 @@ const structuralData = [
     "a fi dor",
     "DAT",
     "de",
-    "",
-    "DATde"
+    "XY",
+    "DAT_de"
   ],
   [
     "Romanian",
     "follow",
     "a urma",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74524,8 +74524,8 @@ const structuralData = [
     "dismount",
     "a descăleca",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -74534,25 +74534,25 @@ const structuralData = [
     "a asculta",
     "NOM",
     "la",
-    "",
-    "NOMla"
+    "Y",
+    "NOM_la"
   ],
   [
     "Romanian",
     "obey",
     "a asculta",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "hear",
     "a auzi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74561,8 +74561,8 @@ const structuralData = [
     "a fi amestecat",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
@@ -74570,25 +74570,25 @@ const structuralData = [
     "a se uita",
     "NOM",
     "la",
-    "",
-    "NOMla"
+    "Y",
+    "NOM_la"
   ],
   [
     "Romanian",
     "take_off",
     "a scoate",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "dream#sleeping#",
     "a visa",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74597,8 +74597,8 @@ const structuralData = [
     "a fi de acord",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
@@ -74606,43 +74606,43 @@ const structuralData = [
     "a se certa",
     "NOM",
     "cu",
-    "",
-    "NOMcu"
+    "Y",
+    "NOM_cu"
   ],
   [
     "Romanian",
     "cost",
     "a costa",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "shoot_at",
     "a pușca",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "pour",
     "a pune",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "lose",
     "a pierde",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74651,61 +74651,61 @@ const structuralData = [
     "a se scufunda",
     "NOM",
     "in",
-    "",
-    "NOMin"
+    "Y",
+    "NOM_in"
   ],
   [
     "Romanian",
     "kill",
     "a omorî",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "hit",
     "a lovi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "kiss",
     "a săruta",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "read",
     "a citi",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "move#bodypart#",
     "a mișca",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Romanian",
     "respect",
     "a respecta",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74713,8 +74713,8 @@ const structuralData = [
     "be_squeamish",
     "a fi scârbă",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -74723,8 +74723,8 @@ const structuralData = [
     "a fi mulțumit",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
@@ -74732,8 +74732,8 @@ const structuralData = [
     "a se îndrăgosti",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
@@ -74741,8 +74741,8 @@ const structuralData = [
     "a avea încredere",
     "NOM",
     "in",
-    "",
-    "NOMin"
+    "Y",
+    "NOM_in"
   ],
   [
     "Romanian",
@@ -74750,16 +74750,16 @@ const structuralData = [
     "a fi milă",
     "DAT",
     "de",
-    "",
-    "DATde"
+    "XY",
+    "DAT_de"
   ],
   [
     "Romanian",
     "envy",
     "a invidia",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74768,8 +74768,8 @@ const structuralData = [
     "a fi furios",
     "NOM",
     "pe",
-    "",
-    "NOMpe"
+    "Y",
+    "NOM_pe"
   ],
   [
     "Romanian",
@@ -74777,8 +74777,8 @@ const structuralData = [
     "a fi surprins",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
@@ -74786,8 +74786,8 @@ const structuralData = [
     "a plăcea",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Romanian",
@@ -74795,16 +74795,16 @@ const structuralData = [
     "a face bine",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Romanian",
     "want",
     "a vrea",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74813,25 +74813,25 @@ const structuralData = [
     "a fi supărat",
     "NOM",
     "pe",
-    "",
-    "NOMpe"
+    "Y",
+    "NOM_pe"
   ],
   [
     "Romanian",
     "take_offence",
     "a simți jignit",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Romanian",
     "upset",
     "a întrista",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74840,16 +74840,16 @@ const structuralData = [
     "a mira",
     "NOM",
     "de",
-    "",
-    "NOMde"
+    "Y",
+    "NOM_de"
   ],
   [
     "Romanian",
     "despise",
     "a desprețui",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74857,26 +74857,26 @@ const structuralData = [
     "get_upset",
     "a fi trist",
     "NOM",
-    "din_cauza",
-    "",
-    "NOMdin_cauza"
+    "din.cauza",
+    "Y",
+    "NOM_din.cauza"
   ],
   [
     "Romanian",
     "get_irritated",
     "a supără ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Romanian",
     "be_fond",
     "a simpatiza",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -74885,8 +74885,8 @@ const structuralData = [
     "a fi rușine",
     "DAT",
     "de",
-    "",
-    "DATde"
+    "XY",
+    "DAT_de"
   ],
   [
     "Kalderash Romani",
@@ -74895,7 +74895,7 @@ const structuralData = [
     "ACC",
     "NOM",
     "X",
-    "ACCNOM"
+    "ACC_NOM"
   ],
   [
     "Kalderash Romani",
@@ -74904,7 +74904,7 @@ const structuralData = [
     "LOC",
     "NOM",
     "X",
-    "LOCNOM"
+    "LOC_NOM"
   ],
   [
     "Kalderash Romani",
@@ -74913,14 +74913,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "throw",
     "шюдел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -74931,16 +74931,16 @@ const structuralData = [
     "LOC",
     "NOM",
     "X",
-    "LOCNOM"
+    "LOC_NOM"
   ],
   [
     "Kalderash Romani",
     "resemble",
     "мя(зо)л  ",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
@@ -74949,14 +74949,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Kalderash Romani",
     "take",
     "лел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -74964,8 +74964,8 @@ const structuralData = [
     "Kalderash Romani",
     "see",
     "дикхэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -74974,27 +74974,27 @@ const structuralData = [
     "influence",
     "влиил",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
     "encounter",
     "дикхэлпе",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "enter",
     "шёлпе",
     "NOM",
-    "андо",
+    "ando",
     "Y",
-    "NOM_ANDO"
+    "NOM_ando"
   ],
   [
     "Kalderash Romani",
@@ -75003,23 +75003,23 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "go_out",
     "анклел",
     "NOM",
-    "анда",
+    "anda",
     "Y",
-    "NOM_ANDA"
+    "NOM_anda"
   ],
   [
     "Kalderash Romani",
     "drive",
     "нашавел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75027,8 +75027,8 @@ const structuralData = [
     "Kalderash Romani",
     "bend",
     "бандярэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75039,14 +75039,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Kalderash Romani",
     "hold",
     "никэрэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75054,8 +75054,8 @@ const structuralData = [
     "Kalderash Romani",
     "catch_up",
     "дугунил",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75063,8 +75063,8 @@ const structuralData = [
     "Kalderash Romani",
     "milk",
     "странгол",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75075,14 +75075,14 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Kalderash Romani",
     "touch",
     "азбал",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75091,34 +75091,34 @@ const structuralData = [
     "fight",
     "марэлпе",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "be_friends",
     "дружыл",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "think",
     "гындилпе",
     "NOM",
-    "па",
+    "pa",
     "Y",
-    "NOM_PA"
+    "NOM_pa"
   ],
   [
     "Kalderash Romani",
     "eat",
     "хал",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75126,8 +75126,8 @@ const structuralData = [
     "Kalderash Romani",
     "fry",
     "пекэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75135,8 +75135,8 @@ const structuralData = [
     "Kalderash Romani",
     "wait",
     "ажюкэрэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75145,9 +75145,9 @@ const structuralData = [
     "forget",
     "быстрэл",
     "NOM",
-    "па",
+    "pa",
     "Y",
-    "NOM_PA"
+    "NOM_pa"
   ],
   [
     "Kalderash Romani",
@@ -75156,14 +75156,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "call",
     "акхарэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75172,16 +75172,16 @@ const structuralData = [
     "get_to_know",
     "знакомилпе",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "know",
     "жянел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75190,9 +75190,9 @@ const structuralData = [
     "play#instrument#",
     "дилабал",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
@@ -75201,14 +75201,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "make",
     "лашярэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75217,8 +75217,8 @@ const structuralData = [
     "make_fun",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -75228,14 +75228,14 @@ const structuralData = [
     "LOC",
     "NOM",
     "X",
-    "LOCNOM"
+    "LOC_NOM"
   ],
   [
     "Kalderash Romani",
     "look_for",
     "родел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75243,8 +75243,8 @@ const structuralData = [
     "Kalderash Romani",
     "paint",
     "макхэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75252,8 +75252,8 @@ const structuralData = [
     "Kalderash Romani",
     "bite",
     "дандярэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75261,8 +75261,8 @@ const structuralData = [
     "Kalderash Romani",
     "forfeit",
     "хасарэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75270,8 +75270,8 @@ const structuralData = [
     "Kalderash Romani",
     "try_to_catch",
     "астарэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75279,8 +75279,8 @@ const structuralData = [
     "Kalderash Romani",
     "break",
     "пхагэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75289,8 +75289,8 @@ const structuralData = [
     "flatter",
     "НЕТ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -75298,34 +75298,34 @@ const structuralData = [
     "love1",
     "пхаррол",
     "NOM",
-    "пала",
+    "pala",
     "Y",
-    "NOM_PALA"
+    "NOM_pala"
   ],
   [
     "Kalderash Romani",
     "wave",
     "тринтил",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "dream",
     "НЕТ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Kalderash Romani",
     "wash",
     "халавел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75333,8 +75333,8 @@ const structuralData = [
     "Kalderash Romani",
     "put_on",
     "лел пе песте",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75345,15 +75345,15 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Kalderash Romani",
     "punish",
     "НЕТ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -75361,25 +75361,25 @@ const structuralData = [
     "attack",
     "хутёл",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
     "fill#intr#",
     "пхердёл",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "find",
     "аракхэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75390,14 +75390,14 @@ const structuralData = [
     "LOC",
     "NOM",
     "X",
-    "LOCNOM"
+    "LOC_NOM"
   ],
   [
     "Kalderash Romani",
     "hate",
     "чи навидил",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75408,7 +75408,7 @@ const structuralData = [
     "ACC",
     "NOM",
     "X",
-    "ACCNOM"
+    "ACC_NOM"
   ],
   [
     "Kalderash Romani",
@@ -75417,14 +75417,14 @@ const structuralData = [
     "ACC",
     "NOM",
     "X",
-    "ACCNOM"
+    "ACC_NOM"
   ],
   [
     "Kalderash Romani",
     "surround",
     "анколил",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75435,23 +75435,23 @@ const structuralData = [
     "LOC",
     "NOM",
     "X",
-    "LOCNOM"
+    "LOC_NOM"
   ],
   [
     "Kalderash Romani",
     "answer",
     "НЕТ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Kalderash Romani",
     "open",
     "пытрэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75460,9 +75460,9 @@ const structuralData = [
     "be_different",
     "чи мя(зо)л",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
@@ -75471,14 +75471,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "plough",
     "вынавел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75487,16 +75487,16 @@ const structuralData = [
     "smell",
     "кхандёл",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "cross",
     "накхэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75504,8 +75504,8 @@ const structuralData = [
     "Kalderash Romani",
     "sing",
     "дилабал",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75513,8 +75513,8 @@ const structuralData = [
     "Kalderash Romani",
     "write",
     "рамол",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75522,8 +75522,8 @@ const structuralData = [
     "Kalderash Romani",
     "drink",
     "пел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75531,8 +75531,8 @@ const structuralData = [
     "Kalderash Romani",
     "melt",
     "билавел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75543,14 +75543,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Kalderash Romani",
     "leave",
     "мекэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75558,8 +75558,8 @@ const structuralData = [
     "Kalderash Romani",
     "cover",
     "вушяравел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75567,8 +75567,8 @@ const structuralData = [
     "Kalderash Romani",
     "remember",
     "сэрэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75579,14 +75579,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Kalderash Romani",
     "understand",
     "атярэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75595,9 +75595,9 @@ const structuralData = [
     "hit#target#",
     "дел",
     "NOM",
-    "андо",
+    "ando",
     "Y",
-    "NOM_ANDO"
+    "NOM_ando"
   ],
   [
     "Kalderash Romani",
@@ -75606,16 +75606,16 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "get_stuck",
     "астардёл",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
@@ -75624,7 +75624,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Kalderash Romani",
@@ -75633,23 +75633,23 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "speak",
     "дивинил",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "give_birth",
     "аракхавел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75657,8 +75657,8 @@ const structuralData = [
     "Kalderash Romani",
     "drop",
     "перавел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75667,43 +75667,43 @@ const structuralData = [
     "govern",
     "рукавадил",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
     "miss",
     "скучаил",
     "NOM",
-    "па",
+    "pa",
     "Y",
-    "NOM_PA"
+    "NOM_pa"
   ],
   [
     "Kalderash Romani",
     "follow",
     "жял",
     "NOM",
-    "пала",
+    "pala",
     "Y",
-    "NOM_PALA"
+    "NOM_pala"
   ],
   [
     "Kalderash Romani",
     "dismount",
     "улел",
     "NOM",
-    "па",
+    "pa",
     "Y",
-    "NOM_PA"
+    "NOM_pa"
   ],
   [
     "Kalderash Romani",
     "listen",
     "ашунел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75712,16 +75712,16 @@ const structuralData = [
     "obey",
     "кандел о муй",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Kalderash Romani",
     "hear",
     "ашунел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75730,25 +75730,25 @@ const structuralData = [
     "mix",
     "амисавел",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "look",
     "дикхэл",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
     "take_off",
     "шюдел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75759,25 +75759,25 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Kalderash Romani",
     "agree",
     "сагласилпе",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "have_a_quarrel",
     "халпе",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
@@ -75786,23 +75786,23 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Kalderash Romani",
     "shoot_at",
     "дел яг",
     "NOM",
-    "андо",
+    "ando",
     "Y",
-    "NOM_ANDO"
+    "NOM_ando"
   ],
   [
     "Kalderash Romani",
     "pour",
     "шёрэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75810,8 +75810,8 @@ const structuralData = [
     "Kalderash Romani",
     "lose",
     "хасарэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75820,16 +75820,16 @@ const structuralData = [
     "sink",
     "тасол",
     "NOM",
-    "андо",
+    "ando",
     "Y",
-    "NOM_ANDO"
+    "NOM_ando"
   ],
   [
     "Kalderash Romani",
     "kill",
     "му(н)дарэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75838,16 +75838,16 @@ const structuralData = [
     "hit",
     "дел",
     "NOM",
-    "андо",
+    "ando",
     "Y",
-    "NOM_ANDO"
+    "NOM_ando"
   ],
   [
     "Kalderash Romani",
     "kiss",
     "чюми(н)дел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75855,8 +75855,8 @@ const structuralData = [
     "Kalderash Romani",
     "read",
     "динел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75865,18 +75865,18 @@ const structuralData = [
     "move#bodypart#",
     "миштил",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Kalderash Romani",
     "respect",
     "тхол лажяв",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
@@ -75885,25 +75885,25 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "be_content",
     "мишто",
     "DAT",
-    "пала",
+    "pala",
     "XY",
-    "DAT_PALA"
+    "DAT_pala"
   ],
   [
     "Kalderash Romani",
     "fall_in_love",
     "влюбилпе",
     "NOM",
-    "андо",
+    "ando",
     "Y",
-    "NOM_ANDO"
+    "NOM_ando"
   ],
   [
     "Kalderash Romani",
@@ -75912,7 +75912,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Kalderash Romani",
@@ -75921,7 +75921,7 @@ const structuralData = [
     "DAT",
     "ABL",
     "XY",
-    "DATABL"
+    "DAT_ABL"
   ],
   [
     "Kalderash Romani",
@@ -75930,16 +75930,16 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Kalderash Romani",
     "be_angry",
     "холявел",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
@@ -75948,15 +75948,15 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "love2",
     "НЕТ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -75966,14 +75966,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "want",
     "камел",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -75982,25 +75982,25 @@ const structuralData = [
     "have_a_grudge",
     "хал холи",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
     "take_offence",
     "НЕТ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Kalderash Romani",
     "upset",
     "холярэл",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76011,7 +76011,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
@@ -76020,15 +76020,15 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Kalderash Romani",
     "get_upset",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -76036,17 +76036,17 @@ const structuralData = [
     "get_irritated",
     "нервичилпе",
     "NOM",
-    "пе",
+    "pe",
     "Y",
-    "NOM_PE"
+    "NOM_pe"
   ],
   [
     "Kalderash Romani",
     "be_fond",
     "НЕТ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -76056,7 +76056,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Russian",
@@ -76065,7 +76065,7 @@ const structuralData = [
     "uGEN",
     "NOM",
     "X",
-    "uGENNOM"
+    "uGEN_NOM"
   ],
   [
     "Russian",
@@ -76074,7 +76074,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
@@ -76083,14 +76083,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Russian",
     "throw",
     "бросить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76101,7 +76101,7 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Russian",
@@ -76110,7 +76110,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
@@ -76119,14 +76119,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "take",
     "взять",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76134,8 +76134,8 @@ const structuralData = [
     "Russian",
     "see",
     "видеть",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76146,7 +76146,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
@@ -76155,7 +76155,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
@@ -76164,7 +76164,7 @@ const structuralData = [
     "NOM",
     "vACC",
     "Y",
-    "NOMvACC"
+    "NOM_vACC"
   ],
   [
     "Russian",
@@ -76173,7 +76173,7 @@ const structuralData = [
     "NOM",
     "uGEN",
     "Y",
-    "NOMuGEN"
+    "NOM_uGEN"
   ],
   [
     "Russian",
@@ -76182,14 +76182,14 @@ const structuralData = [
     "NOM",
     "izGEN",
     "Y",
-    "NOMizGEN"
+    "NOM_izGEN"
   ],
   [
     "Russian",
     "drive",
     "гнать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76197,8 +76197,8 @@ const structuralData = [
     "Russian",
     "bend",
     "гнуть",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76209,14 +76209,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "hold",
     "держать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76224,8 +76224,8 @@ const structuralData = [
     "Russian",
     "catch_up",
     "догнать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76233,8 +76233,8 @@ const structuralData = [
     "Russian",
     "milk",
     "доить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76245,7 +76245,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Russian",
@@ -76254,7 +76254,7 @@ const structuralData = [
     "NOM",
     "doGEN",
     "Y",
-    "NOMdoGEN"
+    "NOM_doGEN"
   ],
   [
     "Russian",
@@ -76263,7 +76263,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
@@ -76272,7 +76272,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
@@ -76281,14 +76281,14 @@ const structuralData = [
     "NOM",
     "oLOC",
     "Y",
-    "NOMoLOC"
+    "NOM_oLOC"
   ],
   [
     "Russian",
     "eat",
     "есть",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76296,8 +76296,8 @@ const structuralData = [
     "Russian",
     "fry",
     "жарить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76305,8 +76305,8 @@ const structuralData = [
     "Russian",
     "wait",
     "ждать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76317,7 +76317,7 @@ const structuralData = [
     "NOM",
     "oLOC",
     "Y",
-    "NOMoLOC"
+    "NOM_oLOC"
   ],
   [
     "Russian",
@@ -76326,14 +76326,14 @@ const structuralData = [
     "NOM",
     "otGEN",
     "Y",
-    "NOMotGEN"
+    "NOM_otGEN"
   ],
   [
     "Russian",
     "call",
     "звать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76344,14 +76344,14 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
     "know",
     "знать ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76362,7 +76362,7 @@ const structuralData = [
     "NOM",
     "naINS",
     "Y",
-    "NOMnaINS"
+    "NOM_naINS"
   ],
   [
     "Russian",
@@ -76371,14 +76371,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Russian",
     "make",
     "изготовлять",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76389,7 +76389,7 @@ const structuralData = [
     "NOM",
     "nadINS",
     "Y",
-    "NOMnadINS"
+    "NOM_nadINS"
   ],
   [
     "Russian",
@@ -76398,14 +76398,14 @@ const structuralData = [
     "uGEN",
     "NOM",
     "X",
-    "uGENNOM"
+    "uGEN_NOM"
   ],
   [
     "Russian",
     "look_for",
     "искать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76413,8 +76413,8 @@ const structuralData = [
     "Russian",
     "paint",
     "красить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76422,8 +76422,8 @@ const structuralData = [
     "Russian",
     "bite",
     "кусать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76434,14 +76434,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Russian",
     "try_to_catch",
     "ловить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76449,8 +76449,8 @@ const structuralData = [
     "Russian",
     "break",
     "ломать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76461,14 +76461,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "love1",
     "любить-1",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76479,7 +76479,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
@@ -76488,14 +76488,14 @@ const structuralData = [
     "NOM",
     "oLOC",
     "Y",
-    "NOMoLOC"
+    "NOM_oLOC"
   ],
   [
     "Russian",
     "wash",
     "мыть",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76503,8 +76503,8 @@ const structuralData = [
     "Russian",
     "put_on",
     "надевать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76515,14 +76515,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
     "punish",
     "наказывать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76533,7 +76533,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
@@ -76542,14 +76542,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
     "find",
     "находить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76560,14 +76560,14 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Russian",
     "hate",
     "ненавидеть",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76578,7 +76578,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Russian",
@@ -76587,14 +76587,14 @@ const structuralData = [
     "NOM",
     "vLOC",
     "Y",
-    "NOMvLOC"
+    "NOM_vLOC"
   ],
   [
     "Russian",
     "surround",
     "окружать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76605,7 +76605,7 @@ const structuralData = [
     "uGEN",
     "NOM",
     "X",
-    "uGENNOM"
+    "uGEN_NOM"
   ],
   [
     "Russian",
@@ -76614,14 +76614,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "open",
     "открывать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76632,7 +76632,7 @@ const structuralData = [
     "NOM",
     "otGEN",
     "Y",
-    "NOMotGEN"
+    "NOM_otGEN"
   ],
   [
     "Russian",
@@ -76641,14 +76641,14 @@ const structuralData = [
     "NOM",
     "otGEN",
     "Y",
-    "NOMotGEN"
+    "NOM_otGEN"
   ],
   [
     "Russian",
     "plough",
     "пахать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76659,14 +76659,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
     "cross",
     "пересечь",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76674,8 +76674,8 @@ const structuralData = [
     "Russian",
     "sing",
     "петь",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76683,8 +76683,8 @@ const structuralData = [
     "Russian",
     "write",
     "писать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76692,8 +76692,8 @@ const structuralData = [
     "Russian",
     "drink",
     "пить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76701,8 +76701,8 @@ const structuralData = [
     "Russian",
     "melt",
     "плавить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76713,7 +76713,7 @@ const structuralData = [
     "NOM",
     "kDAT",
     "Y",
-    "NOMkDAT"
+    "NOM_kDAT"
   ],
   [
     "Russian",
@@ -76722,14 +76722,14 @@ const structuralData = [
     "NOM",
     "izGEN",
     "Y",
-    "NOMizGEN"
+    "NOM_izGEN"
   ],
   [
     "Russian",
     "cover",
     "покрывать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76740,7 +76740,7 @@ const structuralData = [
     "NOM",
     "oLOC",
     "Y",
-    "NOMoLOC"
+    "NOM_oLOC"
   ],
   [
     "Russian",
@@ -76749,14 +76749,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "understand",
     "понимать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76767,7 +76767,7 @@ const structuralData = [
     "NOM",
     "vACC",
     "Y",
-    "NOMvACC"
+    "NOM_vACC"
   ],
   [
     "Russian",
@@ -76776,7 +76776,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
@@ -76785,7 +76785,7 @@ const structuralData = [
     "NOM",
     "kDAT",
     "Y",
-    "NOMkDAT"
+    "NOM_kDAT"
   ],
   [
     "Russian",
@@ -76794,7 +76794,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
@@ -76803,7 +76803,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
@@ -76812,14 +76812,14 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
     "give_birth",
     "рожать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76827,8 +76827,8 @@ const structuralData = [
     "Russian",
     "drop",
     "ронять",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76839,7 +76839,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
@@ -76848,7 +76848,7 @@ const structuralData = [
     "NOM",
     "poDAT",
     "Y",
-    "NOMpoDAT"
+    "NOM_poDAT"
   ],
   [
     "Russian",
@@ -76857,7 +76857,7 @@ const structuralData = [
     "NOM",
     "zaINS",
     "Y",
-    "NOMzaINS"
+    "NOM_zaINS"
   ],
   [
     "Russian",
@@ -76866,14 +76866,14 @@ const structuralData = [
     "NOM",
     "sGEN",
     "Y",
-    "NOMsGEN"
+    "NOM_sGEN"
   ],
   [
     "Russian",
     "listen",
     "слушать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76881,8 +76881,8 @@ const structuralData = [
     "Russian",
     "obey",
     "слушаться",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76890,8 +76890,8 @@ const structuralData = [
     "Russian",
     "hear",
     "слышать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76902,7 +76902,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
@@ -76911,14 +76911,14 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
     "take_off",
     "снимать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76929,7 +76929,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Russian",
@@ -76938,7 +76938,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
@@ -76947,14 +76947,14 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Russian",
     "cost",
     "стоить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76965,14 +76965,14 @@ const structuralData = [
     "NOM",
     "vACC",
     "Y",
-    "NOMvACC"
+    "NOM_vACC"
   ],
   [
     "Russian",
     "pour",
     "сыпать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76980,8 +76980,8 @@ const structuralData = [
     "Russian",
     "lose",
     "терять",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -76992,14 +76992,14 @@ const structuralData = [
     "NOM",
     "vLOC",
     "Y",
-    "NOMvLOC"
+    "NOM_vLOC"
   ],
   [
     "Russian",
     "kill",
     "убивать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77007,8 +77007,8 @@ const structuralData = [
     "Russian",
     "hit",
     "ударить",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77016,8 +77016,8 @@ const structuralData = [
     "Russian",
     "kiss",
     "целовать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77025,8 +77025,8 @@ const structuralData = [
     "Russian",
     "read",
     "читать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77037,14 +77037,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
     "respect",
     "уважать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77055,7 +77055,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
@@ -77064,7 +77064,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
@@ -77073,7 +77073,7 @@ const structuralData = [
     "NOM",
     "vACC",
     "Y",
-    "NOMvACC"
+    "NOM_vACC"
   ],
   [
     "Russian",
@@ -77082,14 +77082,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "sympathise",
     "жалеть",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77100,7 +77100,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
@@ -77109,7 +77109,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
@@ -77118,14 +77118,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "love2",
     "любить-2",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77136,14 +77136,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Russian",
     "want",
     "хотеть",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77154,7 +77154,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
@@ -77163,14 +77163,14 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
     "upset",
     "огорчать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77181,14 +77181,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
     "despise",
     "презирать",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77199,7 +77199,7 @@ const structuralData = [
     "NOM",
     "izzaGEN",
     "Y",
-    "NOMizzaGEN"
+    "NOM_izzaGEN"
   ],
   [
     "Russian",
@@ -77208,7 +77208,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Russian",
@@ -77217,7 +77217,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Russian",
@@ -77226,14 +77226,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Southern Saami",
     "feel_pain",
     "saejrede",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77242,7 +77242,7 @@ const structuralData = [
     "have#illness#",
     "sovhten",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77259,8 +77259,8 @@ const structuralData = [
     "Southern Saami",
     "throw",
     "seedtie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77268,8 +77268,8 @@ const structuralData = [
     "Southern Saami",
     "have_enough",
     "jeenjh atna",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77286,8 +77286,8 @@ const structuralData = [
     "Southern Saami",
     "believe",
     "jaahka",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77295,8 +77295,8 @@ const structuralData = [
     "Southern Saami",
     "take",
     "veelt-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77304,8 +77304,8 @@ const structuralData = [
     "Southern Saami",
     "see",
     "vuajna",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77314,7 +77314,7 @@ const structuralData = [
     "influence",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77358,8 +77358,8 @@ const structuralData = [
     "Southern Saami",
     "drive",
     "voejede",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77367,8 +77367,8 @@ const structuralData = [
     "Southern Saami",
     "bend",
     "vijdtj-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77385,8 +77385,8 @@ const structuralData = [
     "Southern Saami",
     "hold",
     "steerie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77394,8 +77394,8 @@ const structuralData = [
     "Southern Saami",
     "catch_up",
     "jaks-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77403,8 +77403,8 @@ const structuralData = [
     "Southern Saami",
     "milk",
     "buhtjie-ji",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77412,8 +77412,8 @@ const structuralData = [
     "Southern Saami",
     "reach",
     "jaksa",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77440,7 +77440,7 @@ const structuralData = [
     "be_friends",
     "voelpe",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77457,8 +77457,8 @@ const structuralData = [
     "Southern Saami",
     "eat",
     "barra-ji",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77466,8 +77466,8 @@ const structuralData = [
     "Southern Saami",
     "fry",
     "biss-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77475,8 +77475,8 @@ const structuralData = [
     "Southern Saami",
     "wait",
     "vuertie-minie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77484,8 +77484,8 @@ const structuralData = [
     "Southern Saami",
     "forget",
     "våajaldahte-me",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77494,7 +77494,7 @@ const structuralData = [
     "depend",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77502,8 +77502,8 @@ const structuralData = [
     "Southern Saami",
     "call",
     "tjåårve",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77511,8 +77511,8 @@ const structuralData = [
     "Southern Saami",
     "get_to_know",
     "lier-i damtedh",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77520,8 +77520,8 @@ const structuralData = [
     "Southern Saami",
     "know",
     "damta",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77529,8 +77529,8 @@ const structuralData = [
     "Southern Saami",
     "play#instrument#",
     "spealede",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77538,8 +77538,8 @@ const structuralData = [
     "Southern Saami",
     "avoid",
     "avta",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77547,8 +77547,8 @@ const structuralData = [
     "Southern Saami",
     "make",
     "daajhta",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77556,8 +77556,8 @@ const structuralData = [
     "Southern Saami",
     "make_fun",
     "nirrie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77565,8 +77565,8 @@ const structuralData = [
     "Southern Saami",
     "have",
     "atna",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77574,8 +77574,8 @@ const structuralData = [
     "Southern Saami",
     "look_for",
     "hohtje-minie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77583,8 +77583,8 @@ const structuralData = [
     "Southern Saami",
     "paint",
     "mööl-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77592,8 +77592,8 @@ const structuralData = [
     "Southern Saami",
     "bite",
     "gaaktj-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77601,8 +77601,8 @@ const structuralData = [
     "Southern Saami",
     "forfeit",
     "dassi",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77610,8 +77610,8 @@ const structuralData = [
     "Southern Saami",
     "try_to_catch",
     "jååge-minie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77619,8 +77619,8 @@ const structuralData = [
     "Southern Saami",
     "break",
     "tjööpk-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77628,8 +77628,8 @@ const structuralData = [
     "Southern Saami",
     "flatter",
     "garmede",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77637,8 +77637,8 @@ const structuralData = [
     "Southern Saami",
     "love1",
     "eatsa",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77664,8 +77664,8 @@ const structuralData = [
     "Southern Saami",
     "wash",
     "biess-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77673,8 +77673,8 @@ const structuralData = [
     "Southern Saami",
     "put_on",
     "tjaaka",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77691,8 +77691,8 @@ const structuralData = [
     "Southern Saami",
     "punish",
     "päsjva",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77700,8 +77700,8 @@ const structuralData = [
     "Southern Saami",
     "attack",
     "låevtie-ji",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77718,8 +77718,8 @@ const structuralData = [
     "Southern Saami",
     "find",
     "gaavn-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77727,8 +77727,8 @@ const structuralData = [
     "Southern Saami",
     "be_short",
     "fååtes-e",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77736,8 +77736,8 @@ const structuralData = [
     "Southern Saami",
     "hate",
     "asjvoste",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77745,8 +77745,8 @@ const structuralData = [
     "Southern Saami",
     "like",
     "lyjhkie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77754,8 +77754,8 @@ const structuralData = [
     "Southern Saami",
     "need",
     "daarpesje",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77773,7 +77773,7 @@ const structuralData = [
     "remain",
     "aajmene",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77781,8 +77781,8 @@ const structuralData = [
     "Southern Saami",
     "answer",
     "vaestied-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77790,8 +77790,8 @@ const structuralData = [
     "Southern Saami",
     "open",
     "rihpest-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77800,7 +77800,7 @@ const structuralData = [
     "be_different",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77818,7 +77818,7 @@ const structuralData = [
     "plough",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -77844,8 +77844,8 @@ const structuralData = [
     "Southern Saami",
     "sing",
     "laavla-ji",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77853,8 +77853,8 @@ const structuralData = [
     "Southern Saami",
     "write",
     "tjaelie-ji",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77862,8 +77862,8 @@ const structuralData = [
     "Southern Saami",
     "drink",
     "jovk-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77871,8 +77871,8 @@ const structuralData = [
     "Southern Saami",
     "melt",
     "sjalkede",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77889,8 +77889,8 @@ const structuralData = [
     "Southern Saami",
     "leave",
     "leehp-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77898,8 +77898,8 @@ const structuralData = [
     "Southern Saami",
     "cover",
     "gaptja",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77907,8 +77907,8 @@ const structuralData = [
     "Southern Saami",
     "remember",
     "majhta",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77916,8 +77916,8 @@ const structuralData = [
     "Southern Saami",
     "help",
     "viehked-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77925,8 +77925,8 @@ const structuralData = [
     "Southern Saami",
     "understand",
     "gårkå",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77934,8 +77934,8 @@ const structuralData = [
     "Southern Saami",
     "hit#target#",
     "leek-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77988,8 +77988,8 @@ const structuralData = [
     "Southern Saami",
     "give_birth",
     "baersield-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -77997,8 +77997,8 @@ const structuralData = [
     "Southern Saami",
     "drop",
     "gahtjed-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78006,8 +78006,8 @@ const structuralData = [
     "Southern Saami",
     "govern",
     "reerie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78015,8 +78015,8 @@ const structuralData = [
     "Southern Saami",
     "miss",
     "sorkese",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78024,8 +78024,8 @@ const structuralData = [
     "Southern Saami",
     "follow",
     "doerede",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78042,8 +78042,8 @@ const structuralData = [
     "Southern Saami",
     "listen",
     "goltele",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78051,8 +78051,8 @@ const structuralData = [
     "Southern Saami",
     "obey",
     "goltele",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78060,8 +78060,8 @@ const structuralData = [
     "Southern Saami",
     "hear",
     "gåvla",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78070,7 +78070,7 @@ const structuralData = [
     "mix",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78078,8 +78078,8 @@ const structuralData = [
     "Southern Saami",
     "look",
     "vuartesje",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78087,8 +78087,8 @@ const structuralData = [
     "Southern Saami",
     "take_off",
     "sjigk-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78106,7 +78106,7 @@ const structuralData = [
     "agree",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78124,7 +78124,7 @@ const structuralData = [
     "cost",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78132,8 +78132,8 @@ const structuralData = [
     "Southern Saami",
     "shoot_at",
     "skööht-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78141,8 +78141,8 @@ const structuralData = [
     "Southern Saami",
     "pour",
     "gurkie",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78150,8 +78150,8 @@ const structuralData = [
     "Southern Saami",
     "lose",
     "dass-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78160,7 +78160,7 @@ const structuralData = [
     "sink",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78168,8 +78168,8 @@ const structuralData = [
     "Southern Saami",
     "kill",
     "bovv-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78177,8 +78177,8 @@ const structuralData = [
     "Southern Saami",
     "hit",
     "tjååskel-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78186,8 +78186,8 @@ const structuralData = [
     "Southern Saami",
     "kiss",
     "tjuvliest-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78195,8 +78195,8 @@ const structuralData = [
     "Southern Saami",
     "read",
     "lohk-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78204,8 +78204,8 @@ const structuralData = [
     "Southern Saami",
     "move#bodypart#",
     "svihtj-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78213,8 +78213,8 @@ const structuralData = [
     "Southern Saami",
     "respect",
     "heevehte",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78223,7 +78223,7 @@ const structuralData = [
     "be_squeamish",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78240,8 +78240,8 @@ const structuralData = [
     "Southern Saami",
     "fall_in_love",
     "iehtse-gååt-i",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78249,8 +78249,8 @@ const structuralData = [
     "Southern Saami",
     "trust",
     "jaahka",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78259,7 +78259,7 @@ const structuralData = [
     "sympathise",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78267,8 +78267,8 @@ const structuralData = [
     "Southern Saami",
     "envy",
     "ååvete",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78286,7 +78286,7 @@ const structuralData = [
     "be_surprised",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78294,8 +78294,8 @@ const structuralData = [
     "Southern Saami",
     "love2",
     "lyjhkoe",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78304,7 +78304,7 @@ const structuralData = [
     "enjoy",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78313,7 +78313,7 @@ const structuralData = [
     "want",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78339,8 +78339,8 @@ const structuralData = [
     "Southern Saami",
     "upset",
     "aarkeda-mme",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78349,7 +78349,7 @@ const structuralData = [
     "marvel",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78358,7 +78358,7 @@ const structuralData = [
     "despise",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78367,7 +78367,7 @@ const structuralData = [
     "get_upset",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78375,8 +78375,8 @@ const structuralData = [
     "Southern Saami",
     "get_irritated",
     "naskas sjädta",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78385,7 +78385,7 @@ const structuralData = [
     "be_fond",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78394,7 +78394,7 @@ const structuralData = [
     "be_shy",
     "käinn",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -78405,15 +78405,15 @@ const structuralData = [
     "ACC",
     "NOM",
     "X",
-    "ACCNOM"
+    "ACC_NOM"
   ],
   [
     "Serbian",
     "have#illness#",
     "има",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -78423,14 +78423,14 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Serbian",
     "throw",
     "баци",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78439,8 +78439,8 @@ const structuralData = [
     "have_enough",
     "има доволно",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -78450,7 +78450,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
@@ -78459,14 +78459,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
     "take",
     "узео",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78474,8 +78474,8 @@ const structuralData = [
     "Serbian",
     "see",
     "види",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78486,14 +78486,14 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
     "encounter",
     "срео",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78504,14 +78504,14 @@ const structuralData = [
     "NOM",
     "uACC",
     "Y",
-    "NOMuACC"
+    "NOM_uACC"
   ],
   [
     "Serbian",
     "win",
     "победио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78522,14 +78522,14 @@ const structuralData = [
     "NOM",
     "izGEN",
     "Y",
-    "NOMizGEN"
+    "NOM_izGEN"
   ],
   [
     "Serbian",
     "drive",
     "тера",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78537,8 +78537,8 @@ const structuralData = [
     "Serbian",
     "bend",
     "савио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78549,14 +78549,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
     "hold",
     "држи",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78564,8 +78564,8 @@ const structuralData = [
     "Serbian",
     "catch_up",
     "стигао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78573,8 +78573,8 @@ const structuralData = [
     "Serbian",
     "milk",
     "помузао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78585,14 +78585,14 @@ const structuralData = [
     "NOM",
     "doGEN",
     "Y",
-    "NOMdoGEN"
+    "NOM_doGEN"
   ],
   [
     "Serbian",
     "touch",
     "додирнуо",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78603,7 +78603,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Serbian",
@@ -78612,7 +78612,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Serbian",
@@ -78621,14 +78621,14 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
     "eat",
     "пойео",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78636,8 +78636,8 @@ const structuralData = [
     "Serbian",
     "fry",
     "испржио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78645,8 +78645,8 @@ const structuralData = [
     "Serbian",
     "wait",
     "чека",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78657,7 +78657,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
@@ -78666,14 +78666,14 @@ const structuralData = [
     "NOM",
     "odGEN",
     "Y",
-    "NOModGEN"
+    "NOM_odGEN"
   ],
   [
     "Serbian",
     "call",
     "позвао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78681,8 +78681,8 @@ const structuralData = [
     "Serbian",
     "get_to_know",
     "упознао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78690,8 +78690,8 @@ const structuralData = [
     "Serbian",
     "know",
     "познайе",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78699,8 +78699,8 @@ const structuralData = [
     "Serbian",
     "play#instrument#",
     "свира",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78708,8 +78708,8 @@ const structuralData = [
     "Serbian",
     "avoid",
     "избегава",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78717,8 +78717,8 @@ const structuralData = [
     "Serbian",
     "make",
     "направио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78726,8 +78726,8 @@ const structuralData = [
     "Serbian",
     "make_fun",
     "малтретира",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78735,8 +78735,8 @@ const structuralData = [
     "Serbian",
     "have",
     "има",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78744,8 +78744,8 @@ const structuralData = [
     "Serbian",
     "look_for",
     "тражи",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78753,8 +78753,8 @@ const structuralData = [
     "Serbian",
     "paint",
     "офарбао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78762,8 +78762,8 @@ const structuralData = [
     "Serbian",
     "bite",
     "уйе",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78772,16 +78772,16 @@ const structuralData = [
     "forfeit",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Serbian",
     "try_to_catch",
     "йури",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78789,8 +78789,8 @@ const structuralData = [
     "Serbian",
     "break",
     "поломио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78801,14 +78801,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
     "love1",
     "воли",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78819,7 +78819,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Serbian",
@@ -78828,14 +78828,14 @@ const structuralData = [
     "NOM",
     "oLOC",
     "Y",
-    "NOMoLOC"
+    "NOM_oLOC"
   ],
   [
     "Serbian",
     "wash",
     "опрао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78843,8 +78843,8 @@ const structuralData = [
     "Serbian",
     "put_on",
     "обукао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78855,14 +78855,14 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Serbian",
     "punish",
     "казнио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78870,8 +78870,8 @@ const structuralData = [
     "Serbian",
     "attack",
     "напао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78882,14 +78882,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Serbian",
     "find",
     "нашао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78900,14 +78900,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Serbian",
     "hate",
     "мрзи",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78918,7 +78918,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Serbian",
@@ -78927,7 +78927,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Serbian",
@@ -78936,7 +78936,7 @@ const structuralData = [
     "INS",
     "NOM",
     "X",
-    "INSNOM"
+    "INS_NOM"
   ],
   [
     "Serbian",
@@ -78945,7 +78945,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Serbian",
@@ -78954,14 +78954,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
     "open",
     "отворио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78972,7 +78972,7 @@ const structuralData = [
     "NOM",
     "odGEN",
     "Y",
-    "NOModGEN"
+    "NOM_odGEN"
   ],
   [
     "Serbian",
@@ -78981,14 +78981,14 @@ const structuralData = [
     "NOM",
     "zaINS",
     "Y",
-    "NOMzaINS"
+    "NOM_zaINS"
   ],
   [
     "Serbian",
     "plough",
     "оре",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -78999,14 +78999,14 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
     "cross",
     "прешао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79014,8 +79014,8 @@ const structuralData = [
     "Serbian",
     "sing",
     "отпевао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79023,8 +79023,8 @@ const structuralData = [
     "Serbian",
     "write",
     "написао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79032,8 +79032,8 @@ const structuralData = [
     "Serbian",
     "drink",
     "попио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79041,8 +79041,8 @@ const structuralData = [
     "Serbian",
     "melt",
     "растопио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79053,14 +79053,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
     "leave",
     "напустио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79068,8 +79068,8 @@ const structuralData = [
     "Serbian",
     "cover",
     "покрива",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79080,7 +79080,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Serbian",
@@ -79089,14 +79089,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
     "understand",
     "разуми",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79107,7 +79107,7 @@ const structuralData = [
     "NOM",
     "uACC",
     "Y",
-    "NOMuACC"
+    "NOM_uACC"
   ],
   [
     "Serbian",
@@ -79116,7 +79116,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Serbian",
@@ -79125,7 +79125,7 @@ const structuralData = [
     "NOM",
     "zaACC",
     "Y",
-    "NOMzaACC"
+    "NOM_zaACC"
   ],
   [
     "Serbian",
@@ -79134,7 +79134,7 @@ const structuralData = [
     "NOM",
     "odGEN",
     "Y",
-    "NOModGEN"
+    "NOM_odGEN"
   ],
   [
     "Serbian",
@@ -79143,7 +79143,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
@@ -79152,14 +79152,14 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Serbian",
     "give_birth",
     "родила",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79170,7 +79170,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Serbian",
@@ -79179,7 +79179,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Serbian",
@@ -79188,14 +79188,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Serbian",
     "follow",
     "следи",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79206,14 +79206,14 @@ const structuralData = [
     "NOM",
     "sGEN",
     "Y",
-    "NOMsGEN"
+    "NOM_sGEN"
   ],
   [
     "Serbian",
     "listen",
     "слуша",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79222,16 +79222,16 @@ const structuralData = [
     "obey",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Serbian",
     "hear",
     "чуйе",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79242,7 +79242,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Serbian",
@@ -79251,14 +79251,14 @@ const structuralData = [
     "NOM",
     "uACC",
     "Y",
-    "NOMuACC"
+    "NOM_uACC"
   ],
   [
     "Serbian",
     "take_off",
     "скинуо",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79266,8 +79266,8 @@ const structuralData = [
     "Serbian",
     "dream#sleeping#",
     "сан'а",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79278,7 +79278,7 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Serbian",
@@ -79287,14 +79287,14 @@ const structuralData = [
     "NOM",
     "sINS",
     "Y",
-    "NOMsINS"
+    "NOM_sINS"
   ],
   [
     "Serbian",
     "cost",
     "кошта",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79305,14 +79305,14 @@ const structuralData = [
     "NOM",
     "uACC",
     "Y",
-    "NOMuACC"
+    "NOM_uACC"
   ],
   [
     "Serbian",
     "pour",
     "ставио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79320,8 +79320,8 @@ const structuralData = [
     "Serbian",
     "lose",
     "изгубио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79332,14 +79332,14 @@ const structuralData = [
     "NOM",
     "uACC",
     "Y",
-    "NOMuACC"
+    "NOM_uACC"
   ],
   [
     "Serbian",
     "kill",
     "убио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79347,8 +79347,8 @@ const structuralData = [
     "Serbian",
     "hit",
     "ударио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79356,8 +79356,8 @@ const structuralData = [
     "Serbian",
     "kiss",
     "пол'убио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79365,8 +79365,8 @@ const structuralData = [
     "Serbian",
     "read",
     "прочитао",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79377,14 +79377,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Serbian",
     "respect",
     "поштуйе",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79393,8 +79393,8 @@ const structuralData = [
     "be_squeamish",
     "се гади",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -79404,7 +79404,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Serbian",
@@ -79413,7 +79413,7 @@ const structuralData = [
     "NOM",
     "uACC",
     "Y",
-    "NOMuACC"
+    "NOM_uACC"
   ],
   [
     "Serbian",
@@ -79422,7 +79422,7 @@ const structuralData = [
     "NOM",
     "uACC",
     "Y",
-    "NOMuACC"
+    "NOM_uACC"
   ],
   [
     "Serbian",
@@ -79431,7 +79431,7 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Serbian",
@@ -79440,7 +79440,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
@@ -79449,7 +79449,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
@@ -79458,15 +79458,15 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
     "love2",
     "воли",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -79476,14 +79476,14 @@ const structuralData = [
     "NOM",
     "uLOC",
     "Y",
-    "NOMuLOC"
+    "NOM_uLOC"
   ],
   [
     "Serbian",
     "want",
     "жели",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79494,23 +79494,23 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
     "take_offence",
     "*",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Serbian",
     "upset",
     "растужио",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79521,14 +79521,14 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Serbian",
     "despise",
     "презира",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79539,7 +79539,7 @@ const structuralData = [
     "NOM",
     "zbogGEN",
     "Y",
-    "NOMzbogGEN"
+    "NOM_zbogGEN"
   ],
   [
     "Serbian",
@@ -79548,7 +79548,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Serbian",
@@ -79557,7 +79557,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Serbian",
@@ -79566,7 +79566,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Slovenian",
@@ -79581,8 +79581,8 @@ const structuralData = [
     "Slovenian",
     "have#illness#",
     "ima",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79599,8 +79599,8 @@ const structuralData = [
     "Slovenian",
     "throw",
     "vrgel",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79609,7 +79609,7 @@ const structuralData = [
     "have_enough",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -79635,8 +79635,8 @@ const structuralData = [
     "Slovenian",
     "take",
     "vzel",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79644,8 +79644,8 @@ const structuralData = [
     "Slovenian",
     "see",
     "vidi ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79662,8 +79662,8 @@ const structuralData = [
     "Slovenian",
     "encounter",
     "srečal",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79680,8 +79680,8 @@ const structuralData = [
     "Slovenian",
     "win",
     "premagal ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79698,8 +79698,8 @@ const structuralData = [
     "Slovenian",
     "drive",
     "žene ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79707,8 +79707,8 @@ const structuralData = [
     "Slovenian",
     "bend",
     "upognil",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79725,8 +79725,8 @@ const structuralData = [
     "Slovenian",
     "hold",
     "drži ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79734,8 +79734,8 @@ const structuralData = [
     "Slovenian",
     "catch_up",
     "dohitel",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79743,8 +79743,8 @@ const structuralData = [
     "Slovenian",
     "milk",
     "pomolzla",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79752,8 +79752,8 @@ const structuralData = [
     "Slovenian",
     "reach",
     "desegel",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79797,8 +79797,8 @@ const structuralData = [
     "Slovenian",
     "eat",
     "pojedel ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79806,8 +79806,8 @@ const structuralData = [
     "Slovenian",
     "fry",
     "spekel ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79815,8 +79815,8 @@ const structuralData = [
     "Slovenian",
     "wait",
     "čaka",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79842,8 +79842,8 @@ const structuralData = [
     "Slovenian",
     "call",
     "poklical",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79860,8 +79860,8 @@ const structuralData = [
     "Slovenian",
     "know",
     "pozna ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79869,8 +79869,8 @@ const structuralData = [
     "Slovenian",
     "play#instrument#",
     "igra ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79887,8 +79887,8 @@ const structuralData = [
     "Slovenian",
     "make",
     "skonstruiral ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79905,8 +79905,8 @@ const structuralData = [
     "Slovenian",
     "have",
     "ima ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79914,8 +79914,8 @@ const structuralData = [
     "Slovenian",
     "look_for",
     "išče",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79923,8 +79923,8 @@ const structuralData = [
     "Slovenian",
     "paint",
     "pobarval ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79932,8 +79932,8 @@ const structuralData = [
     "Slovenian",
     "bite",
     "ugriznil",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79941,8 +79941,8 @@ const structuralData = [
     "Slovenian",
     "forfeit",
     "izgubil",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79950,8 +79950,8 @@ const structuralData = [
     "Slovenian",
     "try_to_catch",
     "lovi",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79959,8 +79959,8 @@ const structuralData = [
     "Slovenian",
     "break",
     "zlomil ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -79977,8 +79977,8 @@ const structuralData = [
     "Slovenian",
     "love1",
     "ljubi",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80004,8 +80004,8 @@ const structuralData = [
     "Slovenian",
     "wash",
     "umil ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80013,8 +80013,8 @@ const structuralData = [
     "Slovenian",
     "put_on",
     "oblekel ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80031,8 +80031,8 @@ const structuralData = [
     "Slovenian",
     "punish",
     "kaznoval ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80040,8 +80040,8 @@ const structuralData = [
     "Slovenian",
     "attack",
     "napadel ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80058,8 +80058,8 @@ const structuralData = [
     "Slovenian",
     "find",
     "našel",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80076,8 +80076,8 @@ const structuralData = [
     "Slovenian",
     "hate",
     "sovraži ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80094,8 +80094,8 @@ const structuralData = [
     "Slovenian",
     "need",
     "potrebuje",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80103,8 +80103,8 @@ const structuralData = [
     "Slovenian",
     "surround",
     "obdaja",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80130,8 +80130,8 @@ const structuralData = [
     "Slovenian",
     "open",
     "odprl",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80149,7 +80149,7 @@ const structuralData = [
     "fall_behind",
     "izostala od pouka",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -80157,8 +80157,8 @@ const structuralData = [
     "Slovenian",
     "plough",
     "orje ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80175,8 +80175,8 @@ const structuralData = [
     "Slovenian",
     "cross",
     "prečkal ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80184,8 +80184,8 @@ const structuralData = [
     "Slovenian",
     "sing",
     "zapel ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80193,8 +80193,8 @@ const structuralData = [
     "Slovenian",
     "write",
     "napisal ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80202,8 +80202,8 @@ const structuralData = [
     "Slovenian",
     "drink",
     "spil",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80211,8 +80211,8 @@ const structuralData = [
     "Slovenian",
     "melt",
     "razstopil",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80229,8 +80229,8 @@ const structuralData = [
     "Slovenian",
     "leave",
     "zapustil ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80238,8 +80238,8 @@ const structuralData = [
     "Slovenian",
     "cover",
     "pokriva ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80265,8 +80265,8 @@ const structuralData = [
     "Slovenian",
     "understand",
     "razume ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80328,8 +80328,8 @@ const structuralData = [
     "Slovenian",
     "give_birth",
     "rodila ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80337,8 +80337,8 @@ const structuralData = [
     "Slovenian",
     "drop",
     "spustila ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80346,8 +80346,8 @@ const structuralData = [
     "Slovenian",
     "govern",
     "upravlja ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80382,8 +80382,8 @@ const structuralData = [
     "Slovenian",
     "listen",
     "posluša ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80391,8 +80391,8 @@ const structuralData = [
     "Slovenian",
     "obey",
     "uboga ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80400,8 +80400,8 @@ const structuralData = [
     "Slovenian",
     "hear",
     "sliši ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80418,8 +80418,8 @@ const structuralData = [
     "Slovenian",
     "look",
     "opazuje",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80427,8 +80427,8 @@ const structuralData = [
     "Slovenian",
     "take_off",
     "slekla ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80436,8 +80436,8 @@ const structuralData = [
     "Slovenian",
     "dream#sleeping#",
     "sanja",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80463,8 +80463,8 @@ const structuralData = [
     "Slovenian",
     "cost",
     "stane",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80481,8 +80481,8 @@ const structuralData = [
     "Slovenian",
     "pour",
     "nasul ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80490,8 +80490,8 @@ const structuralData = [
     "Slovenian",
     "lose",
     "izgubil ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80508,8 +80508,8 @@ const structuralData = [
     "Slovenian",
     "kill",
     "ubil ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80517,8 +80517,8 @@ const structuralData = [
     "Slovenian",
     "hit",
     "udaril ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80526,8 +80526,8 @@ const structuralData = [
     "Slovenian",
     "kiss",
     "poljubil ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80535,8 +80535,8 @@ const structuralData = [
     "Slovenian",
     "read",
     "prebrala ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80553,8 +80553,8 @@ const structuralData = [
     "Slovenian",
     "respect",
     "spoštuje ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80634,8 +80634,8 @@ const structuralData = [
     "Slovenian",
     "love2",
     "ima rad ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80652,8 +80652,8 @@ const structuralData = [
     "Slovenian",
     "want",
     "želi ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80679,8 +80679,8 @@ const structuralData = [
     "Slovenian",
     "upset",
     "razžalostil ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80697,8 +80697,8 @@ const structuralData = [
     "Slovenian",
     "despise",
     "prezira ",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -80716,7 +80716,7 @@ const structuralData = [
     "get_irritated",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -80742,34 +80742,34 @@ const structuralData = [
     "Soninke",
     "feel_pain",
     "wàtú",
-    "POSS&OBJ",
-    "SUBJ",
+    "POSS.OBJ",
+    "SBJ",
     "X",
-    "POSS&OBJ_SUBJ"
+    "POSS.OBJ_SBJ"
   ],
   [
     "Soninke",
     "have#illness#",
     "rágà",
     "OBJ",
-    "SUBJ",
+    "SBJ",
     "X",
-    "OBJ_SUBJ"
+    "OBJ_SBJ"
   ],
   [
     "Soninke",
     "be_afraid",
     "kànú",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "throw",
     "sédì ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80779,16 +80779,16 @@ const structuralData = [
     "have_enough",
     "bágá",
     "OBJ",
-    "SUBJ",
+    "SBJ",
     "X",
-    "OBJ_SUBJ"
+    "OBJ_SBJ"
   ],
   [
     "Soninke",
     "resemble",
     "qáwà",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -80796,16 +80796,16 @@ const structuralData = [
     "Soninke",
     "believe",
     "sáxú",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "take",
     "wùtú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80814,7 +80814,7 @@ const structuralData = [
     "Soninke",
     "see",
     "ŋàrí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80823,8 +80823,8 @@ const structuralData = [
     "Soninke",
     "influence",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -80832,8 +80832,8 @@ const structuralData = [
     "Soninke",
     "encounter",
     "gèmú ",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -80841,16 +80841,16 @@ const structuralData = [
     "Soninke",
     "enter",
     "ró ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "win",
     "qósó",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80859,16 +80859,16 @@ const structuralData = [
     "Soninke",
     "go_out",
     "búgú",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "drive",
     "gèngé",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80877,7 +80877,7 @@ const structuralData = [
     "Soninke",
     "bend",
     "gòròbìndí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80886,17 +80886,17 @@ const structuralData = [
     "Soninke",
     "tell",
     "kò/kó",
-    "SUBJ",
-    "dà/dá",
+    "SBJ",
+    "da",
     "Y",
-    "SUBJ_da"
+    "SBJ_da"
   ],
   [
     "Soninke",
     "hold",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -80904,16 +80904,16 @@ const structuralData = [
     "Soninke",
     "catch_up",
     "légè ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "milk",
     "qámú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80922,26 +80922,26 @@ const structuralData = [
     "Soninke",
     "reach",
     "kìñé ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "touch",
     "kátì",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "fight",
     "gàjá",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -80949,8 +80949,8 @@ const structuralData = [
     "Soninke",
     "be_friends",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -80958,16 +80958,16 @@ const structuralData = [
     "Soninke",
     "think",
     "sínmè ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "eat",
     "yígá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80976,7 +80976,7 @@ const structuralData = [
     "Soninke",
     "fry",
     "bíyí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80985,7 +80985,7 @@ const structuralData = [
     "Soninke",
     "wait",
     "dùgú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -80994,17 +80994,17 @@ const structuralData = [
     "Soninke",
     "forget",
     "mùngú",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "depend",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81012,7 +81012,7 @@ const structuralData = [
     "Soninke",
     "call",
     "qírí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81021,7 +81021,7 @@ const structuralData = [
     "Soninke",
     "get_to_know",
     "tù/tú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81030,7 +81030,7 @@ const structuralData = [
     "Soninke",
     "know",
     "tù/tú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81039,7 +81039,7 @@ const structuralData = [
     "Soninke",
     "play#instrument#",
     "tímí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81048,7 +81048,7 @@ const structuralData = [
     "Soninke",
     "avoid",
     "gòorí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81057,7 +81057,7 @@ const structuralData = [
     "Soninke",
     "make",
     "dàbárì",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81066,25 +81066,25 @@ const structuralData = [
     "Soninke",
     "make_fun",
     "sòyí",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "have",
     "wá",
-    "màxá",
-    "SUBJ",
+    "maxa",
+    "SBJ",
     "X",
-    "maxa_SUBJ"
+    "maxa_SBJ"
   ],
   [
     "Soninke",
     "look_for",
     "mùndú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81093,7 +81093,7 @@ const structuralData = [
     "Soninke",
     "paint",
     "péntírí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81102,7 +81102,7 @@ const structuralData = [
     "Soninke",
     "bite",
     "qíñí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81111,8 +81111,8 @@ const structuralData = [
     "Soninke",
     "forfeit",
     "bònó",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81120,7 +81120,7 @@ const structuralData = [
     "Soninke",
     "try_to_catch",
     "rágà ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81129,7 +81129,7 @@ const structuralData = [
     "Soninke",
     "break",
     "qósó",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81138,7 +81138,7 @@ const structuralData = [
     "Soninke",
     "flatter",
     "jàkkí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81147,7 +81147,7 @@ const structuralData = [
     "Soninke",
     "love1",
     "qànú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81156,7 +81156,7 @@ const structuralData = [
     "Soninke",
     "wave",
     "yònkó ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81165,8 +81165,8 @@ const structuralData = [
     "Soninke",
     "dream",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81174,7 +81174,7 @@ const structuralData = [
     "Soninke",
     "wash",
     "yánqí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81183,7 +81183,7 @@ const structuralData = [
     "Soninke",
     "put_on",
     "róndí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81192,8 +81192,8 @@ const structuralData = [
     "Soninke",
     "be_called",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81201,8 +81201,8 @@ const structuralData = [
     "Soninke",
     "punish",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81210,25 +81210,25 @@ const structuralData = [
     "Soninke",
     "attack",
     "qénú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "fill#intr#",
     "hógú",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "find",
     "ñì/ñí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81237,16 +81237,16 @@ const structuralData = [
     "Soninke",
     "be_short",
     "kòntó ",
-    "yì/yí",
-    "SUBJ",
+    "yi",
+    "SBJ",
     "X",
-    "yi_SUBJ"
+    "yi_SBJ"
   ],
   [
     "Soninke",
     "hate",
     "qóní ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81255,17 +81255,17 @@ const structuralData = [
     "Soninke",
     "like",
     "línŋí ",
-    "dà/dá ",
-    "SUBJ",
+    "da",
+    "SBJ",
     "X",
-    "da_SUBJ"
+    "da_SBJ"
   ],
   [
     "Soninke",
     "need",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81273,7 +81273,7 @@ const structuralData = [
     "Soninke",
     "surround",
     "kòorí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81282,16 +81282,16 @@ const structuralData = [
     "Soninke",
     "remain",
     "tóxó",
-    "màxá",
-    "SUBJ",
+    "maxa",
+    "SBJ",
     "X",
-    "maxa_SUBJ"
+    "maxa_SBJ"
   ],
   [
     "Soninke",
     "answer",
     "jáabì",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81300,7 +81300,7 @@ const structuralData = [
     "Soninke",
     "open",
     "ŋùñí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81309,8 +81309,8 @@ const structuralData = [
     "Soninke",
     "be_different",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81318,16 +81318,16 @@ const structuralData = [
     "Soninke",
     "fall_behind",
     "léelàntá ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "plough",
     "kòbí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81336,8 +81336,8 @@ const structuralData = [
     "Soninke",
     "smell",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81345,7 +81345,7 @@ const structuralData = [
     "Soninke",
     "cross",
     "kárá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81354,7 +81354,7 @@ const structuralData = [
     "Soninke",
     "sing",
     "sùugú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81363,7 +81363,7 @@ const structuralData = [
     "Soninke",
     "write",
     "sáhà ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81372,7 +81372,7 @@ const structuralData = [
     "Soninke",
     "drink",
     "mìní",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81381,7 +81381,7 @@ const structuralData = [
     "Soninke",
     "melt",
     "qàjá ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81390,8 +81390,8 @@ const structuralData = [
     "Soninke",
     "match",
     "gèmú",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81399,7 +81399,7 @@ const structuralData = [
     "Soninke",
     "leave",
     "wàrá ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81408,7 +81408,7 @@ const structuralData = [
     "Soninke",
     "cover",
     "qúhú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81417,8 +81417,8 @@ const structuralData = [
     "Soninke",
     "remember",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81426,7 +81426,7 @@ const structuralData = [
     "Soninke",
     "help",
     "dèemá ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81435,7 +81435,7 @@ const structuralData = [
     "Soninke",
     "understand",
     "hàámù ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81444,35 +81444,35 @@ const structuralData = [
     "Soninke",
     "hit#target#",
     "qénú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "cut_oneself",
     "kútú",
-    "SUBJ",
-    "tì/tí_yì/yí ",
+    "SBJ",
+    "ti.yi",
     "Y",
-    "SUBJ_ti_yi"
+    "SBJ_ti.yi"
   ],
   [
     "Soninke",
     "get_stuck",
     "màlí ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "lose#game#",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81480,25 +81480,25 @@ const structuralData = [
     "Soninke",
     "be_glad",
     "ñáxálí ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "speak",
     "sèhé ",
-    "SUBJ",
-    "dà/dá ",
+    "SBJ",
+    "da",
     "Y",
-    "SUBJ_da"
+    "SBJ_da"
   ],
   [
     "Soninke",
     "give_birth",
     "sàará ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81507,7 +81507,7 @@ const structuralData = [
     "Soninke",
     "drop",
     "yèrèndí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81516,7 +81516,7 @@ const structuralData = [
     "Soninke",
     "govern",
     "màrá ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81525,8 +81525,8 @@ const structuralData = [
     "Soninke",
     "miss",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81534,7 +81534,7 @@ const structuralData = [
     "Soninke",
     "follow",
     "bàtú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81543,16 +81543,16 @@ const structuralData = [
     "Soninke",
     "dismount",
     "yànqá ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "listen",
     "térínká ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81561,7 +81561,7 @@ const structuralData = [
     "Soninke",
     "obey",
     "térínká",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81570,7 +81570,7 @@ const structuralData = [
     "Soninke",
     "hear",
     "mùgú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81579,8 +81579,8 @@ const structuralData = [
     "Soninke",
     "mix",
     "kólóncé ",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81588,7 +81588,7 @@ const structuralData = [
     "Soninke",
     "look",
     "háyí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81597,7 +81597,7 @@ const structuralData = [
     "Soninke",
     "take_off",
     "wùtú kànmún ŋà",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81606,7 +81606,7 @@ const structuralData = [
     "Soninke",
     "dream#sleeping#",
     "kùyí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81615,17 +81615,17 @@ const structuralData = [
     "Soninke",
     "agree",
     "dùnŋé ",
-    "SUBJ",
-    "dà/dá",
+    "SBJ",
+    "da",
     "Y",
-    "SUBJ_da"
+    "SBJ_da"
   ],
   [
     "Soninke",
     "have_a_quarrel",
     "sónqò",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81633,8 +81633,8 @@ const structuralData = [
     "Soninke",
     "cost",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81642,16 +81642,16 @@ const structuralData = [
     "Soninke",
     "shoot_at",
     "máráhàn kátú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "pour",
     "jòxú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81660,8 +81660,8 @@ const structuralData = [
     "Soninke",
     "lose",
     "sánkú",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81669,16 +81669,16 @@ const structuralData = [
     "Soninke",
     "sink",
     "yóolè ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "kill",
     "kàrí",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81687,7 +81687,7 @@ const structuralData = [
     "Soninke",
     "hit",
     "kátú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81696,7 +81696,7 @@ const structuralData = [
     "Soninke",
     "kiss",
     "sùgú",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81705,7 +81705,7 @@ const structuralData = [
     "Soninke",
     "read",
     "qàrá ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81714,7 +81714,7 @@ const structuralData = [
     "Soninke",
     "move#bodypart#",
     "yònkó",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81723,7 +81723,7 @@ const structuralData = [
     "Soninke",
     "respect",
     "dàró ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81732,25 +81732,25 @@ const structuralData = [
     "Soninke",
     "be_squeamish",
     "ñéxú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "be_content",
     "sáxú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "fall_in_love",
     "qànú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81759,61 +81759,61 @@ const structuralData = [
     "Soninke",
     "trust",
     "sáxú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "sympathise",
     "hínnè ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "envy",
     "súuxè ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "be_angry",
     "bútú ",
-    "SUBJ",
-    "wùré",
+    "SBJ",
+    "wure",
     "Y",
-    "SUBJ_wure"
+    "SBJ_wure"
   ],
   [
     "Soninke",
     "be_surprised",
     "làsámè ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "love2",
     "línŋí",
-    "dà/dá",
-    "SUBJ",
+    "da",
+    "SBJ",
     "X",
-    "da_SUBJ"
+    "da_SBJ"
   ],
   [
     "Soninke",
     "enjoy",
     "dàxámù",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81822,7 +81822,7 @@ const structuralData = [
     "Soninke",
     "want",
     "mùllá",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81831,17 +81831,17 @@ const structuralData = [
     "Soninke",
     "have_a_grudge",
     "bútú ",
-    "SUBJ",
-    "wùré",
+    "SBJ",
+    "wure",
     "Y",
-    "SUBJ_wure"
+    "SBJ_wure"
   ],
   [
     "Soninke",
     "take_offence",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     "*",
     ""
   ],
@@ -81849,7 +81849,7 @@ const structuralData = [
     "Soninke",
     "upset",
     "sùnòndí ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81858,43 +81858,43 @@ const structuralData = [
     "Soninke",
     "marvel",
     "làsámè ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "despise",
     "nèxú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "get_upset",
     "sùnó",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Soninke",
     "get_irritated",
     "bútú ",
-    "SUBJ",
-    "wùré",
+    "SBJ",
+    "wure",
     "Y",
-    "SUBJ_wure"
+    "SBJ_wure"
   ],
   [
     "Soninke",
     "be_fond",
     "qànú ",
-    "SUBJ",
+    "SBJ",
     "OBJ",
     "TR",
     "TR"
@@ -81903,35 +81903,35 @@ const structuralData = [
     "Soninke",
     "be_shy",
     "yàagú ",
-    "SUBJ",
-    "yì/yí",
+    "SBJ",
+    "yi",
     "Y",
-    "SUBJ_yi"
+    "SBJ_yi"
   ],
   [
     "Spanish",
     "feel_pain",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "have#illness#",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Spanish",
     "be_afraid",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -81939,8 +81939,8 @@ const structuralData = [
     "Spanish",
     "throw",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -81949,34 +81949,34 @@ const structuralData = [
     "have_enough",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "resemble",
     "",
-    "NOM",
+    "SBJ",
     "DAT",
     "Y",
-    "NOMDAT"
+    "SBJ_DAT"
   ],
   [
     "Spanish",
     "believe",
     "",
-    "NOM",
+    "SBJ",
     "DAT",
     "Y",
-    "NOMDAT"
+    "SBJ_DAT"
   ],
   [
     "Spanish",
     "take",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -81984,8 +81984,8 @@ const structuralData = [
     "Spanish",
     "see",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -81993,35 +81993,35 @@ const structuralData = [
     "Spanish",
     "influence",
     "",
-    "NOM",
-    "EN",
+    "SBJ",
+    "en",
     "Y",
-    "EN"
+    "SBJ_en"
   ],
   [
     "Spanish",
     "encounter",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "enter",
     "",
-    "NOM",
-    "EN",
+    "SBJ",
+    "en",
     "Y",
-    "EN"
+    "SBJ_en"
   ],
   [
     "Spanish",
     "win",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82029,17 +82029,17 @@ const structuralData = [
     "Spanish",
     "go_out",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "drive",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82047,8 +82047,8 @@ const structuralData = [
     "Spanish",
     "bend",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82056,17 +82056,17 @@ const structuralData = [
     "Spanish",
     "tell",
     "",
-    "NOM",
+    "SBJ",
     "DAT",
     "Y",
-    "NOMDAT"
+    "SBJ_DAT"
   ],
   [
     "Spanish",
     "hold",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82074,8 +82074,8 @@ const structuralData = [
     "Spanish",
     "catch_up",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82083,8 +82083,8 @@ const structuralData = [
     "Spanish",
     "milk",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82092,8 +82092,8 @@ const structuralData = [
     "Spanish",
     "reach",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82101,8 +82101,8 @@ const structuralData = [
     "Spanish",
     "touch",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82111,8 +82111,8 @@ const structuralData = [
     "fight",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -82120,25 +82120,25 @@ const structuralData = [
     "be_friends",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Spanish",
     "think",
     "",
-    "NOM",
-    "EN",
+    "SBJ",
+    "en",
     "Y",
-    "EN"
+    "SBJ_en"
   ],
   [
     "Spanish",
     "eat",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82146,8 +82146,8 @@ const structuralData = [
     "Spanish",
     "fry",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82155,8 +82155,8 @@ const structuralData = [
     "Spanish",
     "wait",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82165,25 +82165,25 @@ const structuralData = [
     "forget",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "depend",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "call",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82191,8 +82191,8 @@ const structuralData = [
     "Spanish",
     "get_to_know",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82200,8 +82200,8 @@ const structuralData = [
     "Spanish",
     "know",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82209,8 +82209,8 @@ const structuralData = [
     "Spanish",
     "play#instrument#",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82218,8 +82218,8 @@ const structuralData = [
     "Spanish",
     "avoid",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82227,8 +82227,8 @@ const structuralData = [
     "Spanish",
     "make",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82236,17 +82236,17 @@ const structuralData = [
     "Spanish",
     "make_fun",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "have",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82254,8 +82254,8 @@ const structuralData = [
     "Spanish",
     "look_for",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82263,8 +82263,8 @@ const structuralData = [
     "Spanish",
     "paint",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82272,8 +82272,8 @@ const structuralData = [
     "Spanish",
     "bite",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82281,8 +82281,8 @@ const structuralData = [
     "Spanish",
     "forfeit",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82291,16 +82291,16 @@ const structuralData = [
     "try_to_catch",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Spanish",
     "break",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82308,8 +82308,8 @@ const structuralData = [
     "Spanish",
     "flatter",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82317,8 +82317,8 @@ const structuralData = [
     "Spanish",
     "love1",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82326,8 +82326,8 @@ const structuralData = [
     "Spanish",
     "wave",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82335,17 +82335,17 @@ const structuralData = [
     "Spanish",
     "dream",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "wash",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82353,8 +82353,8 @@ const structuralData = [
     "Spanish",
     "put_on",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82362,17 +82362,17 @@ const structuralData = [
     "Spanish",
     "be_called",
     "",
-    "NOM",
-    "NOM",
+    "SBJ",
+    "PRED",
     "Y",
-    "NOMNOM"
+    "SBJ_PRED"
   ],
   [
     "Spanish",
     "punish",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82380,8 +82380,8 @@ const structuralData = [
     "Spanish",
     "attack",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82389,17 +82389,17 @@ const structuralData = [
     "Spanish",
     "fill#intr#",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "find",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82408,16 +82408,16 @@ const structuralData = [
     "be_short",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "hate",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82426,16 +82426,16 @@ const structuralData = [
     "like",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "need",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82443,8 +82443,8 @@ const structuralData = [
     "Spanish",
     "surround",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82453,25 +82453,25 @@ const structuralData = [
     "remain",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "answer",
     "",
-    "NOM",
+    "SBJ",
     "DAT",
     "Y",
-    "NOMDAT"
+    "SBJ_DAT"
   ],
   [
     "Spanish",
     "open",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82479,26 +82479,26 @@ const structuralData = [
     "Spanish",
     "be_different",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "fall_behind",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Spanish",
     "plough",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82506,17 +82506,17 @@ const structuralData = [
     "Spanish",
     "smell",
     "",
-    "NOM",
-    "A",
+    "SBJ",
+    "a",
     "Y",
-    "A"
+    "SBJ_a"
   ],
   [
     "Spanish",
     "cross",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82524,8 +82524,8 @@ const structuralData = [
     "Spanish",
     "sing",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82533,8 +82533,8 @@ const structuralData = [
     "Spanish",
     "write",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82542,8 +82542,8 @@ const structuralData = [
     "Spanish",
     "drink",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82551,8 +82551,8 @@ const structuralData = [
     "Spanish",
     "melt",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82561,16 +82561,16 @@ const structuralData = [
     "match",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Spanish",
     "leave",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82578,8 +82578,8 @@ const structuralData = [
     "Spanish",
     "cover",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82587,8 +82587,8 @@ const structuralData = [
     "Spanish",
     "remember",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82596,8 +82596,8 @@ const structuralData = [
     "Spanish",
     "help",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82605,8 +82605,8 @@ const structuralData = [
     "Spanish",
     "understand",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82614,62 +82614,62 @@ const structuralData = [
     "Spanish",
     "hit#target#",
     "",
-    "NOM",
-    "EN",
+    "SBJ",
+    "en",
     "Y",
-    "EN"
+    "SBJ_en"
   ],
   [
     "Spanish",
     "cut_oneself",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "get_stuck",
     "",
-    "NOM",
-    "A",
+    "SBJ",
+    "a",
     "Y",
-    "A"
+    "SBJ_a"
   ],
   [
     "Spanish",
     "lose#game#",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Spanish",
     "be_glad",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "speak",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "give_birth",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82677,8 +82677,8 @@ const structuralData = [
     "Spanish",
     "drop",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82686,8 +82686,8 @@ const structuralData = [
     "Spanish",
     "govern",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82695,8 +82695,8 @@ const structuralData = [
     "Spanish",
     "miss",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82704,8 +82704,8 @@ const structuralData = [
     "Spanish",
     "follow",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82713,17 +82713,17 @@ const structuralData = [
     "Spanish",
     "dismount",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "listen",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82731,8 +82731,8 @@ const structuralData = [
     "Spanish",
     "obey",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82740,8 +82740,8 @@ const structuralData = [
     "Spanish",
     "hear",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82749,17 +82749,17 @@ const structuralData = [
     "Spanish",
     "mix",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "look",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82767,8 +82767,8 @@ const structuralData = [
     "Spanish",
     "take_off",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82776,35 +82776,35 @@ const structuralData = [
     "Spanish",
     "dream#sleeping#",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "agree",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "have_a_quarrel",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "cost",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82812,17 +82812,17 @@ const structuralData = [
     "Spanish",
     "shoot_at",
     "",
-    "NOM",
-    "CONTRA",
+    "SBJ",
+    "contra",
     "Y",
-    "CONTRA"
+    "SBJ_contra"
   ],
   [
     "Spanish",
     "pour",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82830,8 +82830,8 @@ const structuralData = [
     "Spanish",
     "lose",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82839,17 +82839,17 @@ const structuralData = [
     "Spanish",
     "sink",
     "",
-    "NOM",
-    "EN",
+    "SBJ",
+    "en",
     "Y",
-    "EN"
+    "SBJ_en"
   ],
   [
     "Spanish",
     "kill",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82857,26 +82857,26 @@ const structuralData = [
     "Spanish",
     "hit",
     "",
-    "NOM",
+    "SBJ",
     "DAT",
     "Y",
-    "NOMDAT"
+    "SBJ_DAT"
   ],
   [
     "Spanish",
     "kiss",
     "",
-    "NOM",
+    "SBJ",
     "DAT",
     "Y",
-    "NOMDAT"
+    "SBJ_DAT"
   ],
   [
     "Spanish",
     "read",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82884,8 +82884,8 @@ const structuralData = [
     "Spanish",
     "move#bodypart#",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82893,8 +82893,8 @@ const structuralData = [
     "Spanish",
     "respect",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82903,43 +82903,43 @@ const structuralData = [
     "be_squeamish",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "be_content",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "fall_in_love",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "trust",
     "",
-    "NOM",
-    "EN",
+    "SBJ",
+    "en",
     "Y",
-    "EN"
+    "SBJ_en"
   ],
   [
     "Spanish",
     "sympathise",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82947,8 +82947,8 @@ const structuralData = [
     "Spanish",
     "envy",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -82956,44 +82956,44 @@ const structuralData = [
     "Spanish",
     "be_angry",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "be_surprised",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "love2",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "enjoy",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Spanish",
     "want",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83001,26 +83001,26 @@ const structuralData = [
     "Spanish",
     "have_a_grudge",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "take_offence",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "upset",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83029,16 +83029,16 @@ const structuralData = [
     "marvel",
     "",
     "DAT",
-    "NOM",
+    "SBJ",
     "X",
-    "DATNOM"
+    "DAT_SBJ"
   ],
   [
     "Spanish",
     "despise",
     "",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83046,53 +83046,53 @@ const structuralData = [
     "Spanish",
     "get_upset",
     "",
-    "NOM",
-    "PORCULPADE",
+    "SBJ",
+    "por.culpa.de",
     "Y",
-    "PORCULPADE"
+    "SBJ_por.culpa.de"
   ],
   [
     "Spanish",
     "get_irritated",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "be_fond",
     "",
-    "NOM",
-    "CON",
+    "SBJ",
+    "con",
     "Y",
-    "CON"
+    "SBJ_con"
   ],
   [
     "Spanish",
     "be_shy",
     "",
-    "NOM",
-    "DE",
+    "SBJ",
+    "de",
     "Y",
-    "DE"
+    "SBJ_de"
   ],
   [
     "Swedish",
     "feel_pain",
     "har ont",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Swedish",
     "have#illness#",
     "har",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83100,17 +83100,17 @@ const structuralData = [
     "Swedish",
     "be_afraid",
     "är rädd",
-    "NOM",
-    "för",
+    "SBJ",
+    "for",
     "Y",
-    "NOM_för"
+    "SBJ_for"
   ],
   [
     "Swedish",
     "throw",
     "kastade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83127,8 +83127,8 @@ const structuralData = [
     "Swedish",
     "resemble",
     "liknar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83136,8 +83136,8 @@ const structuralData = [
     "Swedish",
     "believe",
     "tror",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83145,8 +83145,8 @@ const structuralData = [
     "Swedish",
     "take",
     "tog",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83154,8 +83154,8 @@ const structuralData = [
     "Swedish",
     "see",
     "ser",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83163,8 +83163,8 @@ const structuralData = [
     "Swedish",
     "influence",
     "påverkar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83172,8 +83172,8 @@ const structuralData = [
     "Swedish",
     "encounter",
     "träffade på",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83181,17 +83181,17 @@ const structuralData = [
     "Swedish",
     "enter",
     "gick in",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Swedish",
     "win",
     "slog",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83199,17 +83199,17 @@ const structuralData = [
     "Swedish",
     "go_out",
     "gick ut",
-    "NOM",
+    "SBJ",
     "ur",
     "Y",
-    "NOM_ur"
+    "SBJ_ur"
   ],
   [
     "Swedish",
     "drive",
     "driver",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83217,8 +83217,8 @@ const structuralData = [
     "Swedish",
     "bend",
     "böjde",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83226,17 +83226,17 @@ const structuralData = [
     "Swedish",
     "tell",
     "sade",
-    "NOM",
+    "SBJ",
     "till",
     "Y",
-    "NOM_till"
+    "SBJ_till"
   ],
   [
     "Swedish",
     "hold",
     "håller",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83244,8 +83244,8 @@ const structuralData = [
     "Swedish",
     "catch_up",
     "hann i kapp",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83253,8 +83253,8 @@ const structuralData = [
     "Swedish",
     "milk",
     "mjölkade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83262,17 +83262,17 @@ const structuralData = [
     "Swedish",
     "reach",
     "kom fram",
-    "NOM",
+    "SBJ",
     "till",
     "Y",
-    "NOM_till"
+    "SBJ_till"
   ],
   [
     "Swedish",
     "touch",
     "rörde vid",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83280,35 +83280,35 @@ const structuralData = [
     "Swedish",
     "fight",
     "slåss ",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "be_friends",
     "är vän",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "think",
     "tänker",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "eat",
     "åt",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83316,8 +83316,8 @@ const structuralData = [
     "Swedish",
     "fry",
     "stekte",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83325,17 +83325,17 @@ const structuralData = [
     "Swedish",
     "wait",
     "väntar",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "forget",
     "glömt bort",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83343,17 +83343,17 @@ const structuralData = [
     "Swedish",
     "depend",
     "beror",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "call",
     "ringde",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83361,8 +83361,8 @@ const structuralData = [
     "Swedish",
     "get_to_know",
     "lärde känna",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83370,8 +83370,8 @@ const structuralData = [
     "Swedish",
     "know",
     "känner",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83379,8 +83379,8 @@ const structuralData = [
     "Swedish",
     "play#instrument#",
     "spelar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83388,8 +83388,8 @@ const structuralData = [
     "Swedish",
     "avoid",
     "undviker",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83397,8 +83397,8 @@ const structuralData = [
     "Swedish",
     "make",
     "gjorde",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83406,17 +83406,17 @@ const structuralData = [
     "Swedish",
     "make_fun",
     "gör narr ",
-    "NOM",
+    "SBJ",
     "av",
     "Y",
-    "NOM_av"
+    "SBJ_av"
   ],
   [
     "Swedish",
     "have",
     "har",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83424,17 +83424,17 @@ const structuralData = [
     "Swedish",
     "look_for",
     "letar",
-    "NOM",
+    "SBJ",
     "efter",
     "Y",
-    "NOM_efter"
+    "SBJ_efter"
   ],
   [
     "Swedish",
     "paint",
     "målade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83442,8 +83442,8 @@ const structuralData = [
     "Swedish",
     "bite",
     "bet",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83451,8 +83451,8 @@ const structuralData = [
     "Swedish",
     "forfeit",
     "förlorade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83460,8 +83460,8 @@ const structuralData = [
     "Swedish",
     "try_to_catch",
     "försöker fånga",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83469,8 +83469,8 @@ const structuralData = [
     "Swedish",
     "break",
     "knäckte",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83478,8 +83478,8 @@ const structuralData = [
     "Swedish",
     "flatter",
     "smickrar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83487,8 +83487,8 @@ const structuralData = [
     "Swedish",
     "love1",
     "älskar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83496,26 +83496,26 @@ const structuralData = [
     "Swedish",
     "wave",
     "vinkar",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "dream",
     "drömmer",
-    "NOM",
+    "SBJ",
     "om",
     "Y",
-    "NOM_om"
+    "SBJ_om"
   ],
   [
     "Swedish",
     "wash",
     "diskade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83523,8 +83523,8 @@ const structuralData = [
     "Swedish",
     "put_on",
     "tog på sig",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83532,8 +83532,8 @@ const structuralData = [
     "Swedish",
     "be_called",
     "kallas för",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83541,8 +83541,8 @@ const structuralData = [
     "Swedish",
     "punish",
     "straffade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83550,8 +83550,8 @@ const structuralData = [
     "Swedish",
     "attack",
     "anföll",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83559,17 +83559,17 @@ const structuralData = [
     "Swedish",
     "fill#intr#",
     "fylldes",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "find",
     "hittade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83577,8 +83577,8 @@ const structuralData = [
     "Swedish",
     "be_short",
     "har för lite",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83586,8 +83586,8 @@ const structuralData = [
     "Swedish",
     "hate",
     "hatar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83595,8 +83595,8 @@ const structuralData = [
     "Swedish",
     "like",
     "gillar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83604,8 +83604,8 @@ const structuralData = [
     "Swedish",
     "need",
     "behöver",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83613,8 +83613,8 @@ const structuralData = [
     "Swedish",
     "surround",
     "omger",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83622,8 +83622,8 @@ const structuralData = [
     "Swedish",
     "remain",
     "har kvar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83631,8 +83631,8 @@ const structuralData = [
     "Swedish",
     "answer",
     "svarade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83640,8 +83640,8 @@ const structuralData = [
     "Swedish",
     "open",
     "öppnade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83649,17 +83649,17 @@ const structuralData = [
     "Swedish",
     "be_different",
     "inte likadan",
-    "NOM",
+    "SBJ",
     "som",
     "Y",
-    "NOM_som"
+    "SBJ_som"
   ],
   [
     "Swedish",
     "fall_behind",
     "hamnade efter",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83667,8 +83667,8 @@ const structuralData = [
     "Swedish",
     "plough",
     "plöjer",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83676,8 +83676,8 @@ const structuralData = [
     "Swedish",
     "smell",
     "luktar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83685,8 +83685,8 @@ const structuralData = [
     "Swedish",
     "cross",
     "gick över",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83694,8 +83694,8 @@ const structuralData = [
     "Swedish",
     "sing",
     "sjöng",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83703,8 +83703,8 @@ const structuralData = [
     "Swedish",
     "write",
     "skrev",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83712,8 +83712,8 @@ const structuralData = [
     "Swedish",
     "drink",
     "drack",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83721,8 +83721,8 @@ const structuralData = [
     "Swedish",
     "melt",
     "smälte",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83730,17 +83730,17 @@ const structuralData = [
     "Swedish",
     "match",
     "passar",
-    "NOM",
+    "SBJ",
     "till",
     "Y",
-    "NOM_till"
+    "SBJ_till"
   ],
   [
     "Swedish",
     "leave",
     "lämnade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83748,8 +83748,8 @@ const structuralData = [
     "Swedish",
     "cover",
     "täcker",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83757,8 +83757,8 @@ const structuralData = [
     "Swedish",
     "remember",
     "kommer ihåg",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83766,8 +83766,8 @@ const structuralData = [
     "Swedish",
     "help",
     "hjälpte",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83775,8 +83775,8 @@ const structuralData = [
     "Swedish",
     "understand",
     "förstår",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83784,62 +83784,62 @@ const structuralData = [
     "Swedish",
     "hit#target#",
     "slog ner",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Swedish",
     "cut_oneself",
     "skar sig",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "get_stuck",
     "fastnade",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Swedish",
     "lose#game#",
     "förlorade",
-    "NOM",
+    "SBJ",
     "mot",
     "Y",
-    "NOM_mot"
+    "SBJ_mot"
   ],
   [
     "Swedish",
     "be_glad",
     "blev glad",
-    "NOM",
-    "över",
+    "SBJ",
+    "over",
     "Y",
-    "NOM_över"
+    "SBJ_over"
   ],
   [
     "Swedish",
     "speak",
     "pratar",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "give_birth",
     "födde",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83847,8 +83847,8 @@ const structuralData = [
     "Swedish",
     "drop",
     "tappade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83856,8 +83856,8 @@ const structuralData = [
     "Swedish",
     "govern",
     "styr",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83865,8 +83865,8 @@ const structuralData = [
     "Swedish",
     "miss",
     "saknar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83874,8 +83874,8 @@ const structuralData = [
     "Swedish",
     "follow",
     "följer efter",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83883,8 +83883,8 @@ const structuralData = [
     "Swedish",
     "dismount",
     "klev av",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83892,17 +83892,17 @@ const structuralData = [
     "Swedish",
     "listen",
     "lyssnar",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "obey",
     "lyder",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83910,8 +83910,8 @@ const structuralData = [
     "Swedish",
     "hear",
     "hör",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83919,26 +83919,26 @@ const structuralData = [
     "Swedish",
     "mix",
     "blandades",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "look",
     "tittar",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "take_off",
     "tog av sig",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83946,17 +83946,17 @@ const structuralData = [
     "Swedish",
     "dream#sleeping#",
     "drömmer",
-    "NOM",
+    "SBJ",
     "om",
     "Y",
-    "NOM_om"
+    "SBJ_om"
   ],
   [
     "Swedish",
     "agree",
     "höll med",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83964,17 +83964,17 @@ const structuralData = [
     "Swedish",
     "have_a_quarrel",
     "bråkade",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "cost",
     "kostar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -83982,17 +83982,17 @@ const structuralData = [
     "Swedish",
     "shoot_at",
     "sköt",
-    "NOM",
+    "SBJ",
     "mot",
     "Y",
-    "NOM_mot"
+    "SBJ_mot"
   ],
   [
     "Swedish",
     "pour",
     "hällde i",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84000,8 +84000,8 @@ const structuralData = [
     "Swedish",
     "lose",
     "tappade bort",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84009,17 +84009,17 @@ const structuralData = [
     "Swedish",
     "sink",
     "sjönk",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Swedish",
     "kill",
     "dödade",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84027,8 +84027,8 @@ const structuralData = [
     "Swedish",
     "hit",
     "slog",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84036,8 +84036,8 @@ const structuralData = [
     "Swedish",
     "kiss",
     "kysste",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84045,8 +84045,8 @@ const structuralData = [
     "Swedish",
     "read",
     "läste",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84054,17 +84054,17 @@ const structuralData = [
     "Swedish",
     "move#bodypart#",
     "rörde",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "respect",
     "respekterar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84072,35 +84072,35 @@ const structuralData = [
     "Swedish",
     "be_squeamish",
     "äcklas",
-    "NOM",
+    "SBJ",
     "av",
     "Y",
-    "NOM_av"
+    "SBJ_av"
   ],
   [
     "Swedish",
     "be_content",
     "är nöjd",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "fall_in_love",
     "förälskade sig",
-    "NOM",
+    "SBJ",
     "i",
     "Y",
-    "NOM_i"
+    "SBJ_i"
   ],
   [
     "Swedish",
     "trust",
     "litar på",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84108,44 +84108,44 @@ const structuralData = [
     "Swedish",
     "sympathise",
     "känner",
-    "NOM",
+    "SBJ",
     "med",
     "Y",
-    "NOM_med"
+    "SBJ_med"
   ],
   [
     "Swedish",
     "envy",
     "är avundsjuk",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "be_angry",
     "är arg",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "be_surprised",
     "blev överraskad",
-    "NOM",
+    "SBJ",
     "av",
     "Y",
-    "NOM_av"
+    "SBJ_av"
   ],
   [
     "Swedish",
     "love2",
     "älskar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84153,8 +84153,8 @@ const structuralData = [
     "Swedish",
     "enjoy",
     "gillar",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84163,7 +84163,7 @@ const structuralData = [
     "want",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -84171,26 +84171,26 @@ const structuralData = [
     "Swedish",
     "have_a_grudge",
     "är sur",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "take_offence",
     "blev sur",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "upset",
     "gjorde upprörd",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84198,17 +84198,17 @@ const structuralData = [
     "Swedish",
     "marvel",
     "förundrades",
-    "NOM",
-    "över",
+    "SBJ",
+    "over",
     "Y",
-    "NOM_över"
+    "SBJ_over"
   ],
   [
     "Swedish",
     "despise",
     "avskyr",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84216,26 +84216,26 @@ const structuralData = [
     "Swedish",
     "get_upset",
     "blev upprörd",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "get_irritated",
     "blev irriterad",
-    "NOM",
-    "på",
+    "SBJ",
+    "pa",
     "Y",
-    "NOM_på"
+    "SBJ_pa"
   ],
   [
     "Swedish",
     "be_fond",
     "tycker om",
-    "TR",
-    "",
+    "SBJ",
+    "DO",
     "TR",
     "TR"
   ],
@@ -84243,18 +84243,18 @@ const structuralData = [
     "Swedish",
     "be_shy",
     "är generad",
-    "NOM",
-    "över",
+    "SBJ",
+    "over",
     "Y",
-    "NOM_över"
+    "SBJ_over"
   ],
   [
     "Tsakhur",
     "feel_pain",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84262,8 +84262,8 @@ const structuralData = [
     "have#illness#",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84273,14 +84273,14 @@ const structuralData = [
     "NOM",
     "SUPEL",
     "Y",
-    "SUPEL"
+    "NOM_SUPEL"
   ],
   [
     "Tsakhur",
     "throw",
     "ahas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84291,15 +84291,15 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Tsakhur",
     "resemble",
     "akar ixes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84307,16 +84307,16 @@ const structuralData = [
     "believe",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "take",
     "aljāt’as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84327,15 +84327,15 @@ const structuralData = [
     "AFF",
     "NOM",
     "X",
-    "AFFNOM"
+    "AFF_NOM"
   ],
   [
     "Tsakhur",
     "influence",
     "taIhsir ha?as",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84345,7 +84345,7 @@ const structuralData = [
     "ADALL",
     "NOM",
     "X",
-    "ADALNOM"
+    "ADALL_NOM"
   ],
   [
     "Tsakhur",
@@ -84354,7 +84354,7 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "ALL"
+    "NOM_ALL"
   ],
   [
     "Tsakhur",
@@ -84363,7 +84363,7 @@ const structuralData = [
     "NOM",
     "SUPALL",
     "Y",
-    "SUPALL"
+    "NOM_SUPALL"
   ],
   [
     "Tsakhur",
@@ -84372,14 +84372,14 @@ const structuralData = [
     "NOM",
     "INEL",
     "Y",
-    "INEL"
+    "NOM_INEL"
   ],
   [
     "Tsakhur",
     "drive",
     "ha?ik̅as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84387,8 +84387,8 @@ const structuralData = [
     "Tsakhur",
     "bend",
     "egmiš-(h)a?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84397,16 +84397,16 @@ const structuralData = [
     "tell",
     "ehes || iwhes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "hold",
     "hiwāǯes",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84415,16 +84415,16 @@ const structuralData = [
     "catch_up",
     "hiqa qixes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "milk",
     "gjāzas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84433,8 +84433,8 @@ const structuralData = [
     "reach",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84444,7 +84444,7 @@ const structuralData = [
     "NOM",
     "CONTESS",
     "Y",
-    "CONTESS"
+    "NOM_CONTESS"
   ],
   [
     "Tsakhur",
@@ -84453,15 +84453,15 @@ const structuralData = [
     "NOM",
     "COMIT",
     "Y",
-    "COM"
+    "NOM_COM"
   ],
   [
     "Tsakhur",
     "be_friends",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84471,14 +84471,14 @@ const structuralData = [
     "NOM",
     "SUPEL",
     "Y",
-    "SUPEL"
+    "NOM_SUPEL"
   ],
   [
     "Tsakhur",
     "eat",
     "oxanas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84487,16 +84487,16 @@ const structuralData = [
     "fry",
     "Gawurmiš ha?as",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "wait",
     "gozjet-(h)a?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84507,23 +84507,23 @@ const structuralData = [
     "ADEL",
     "NOM",
     "X",
-    "ADELNOM"
+    "ADEL_NOM"
   ],
   [
     "Tsakhur",
     "depend",
     "aslira ixes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "call",
     "qot’alas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84534,14 +84534,14 @@ const structuralData = [
     "NOM",
     "COMIT",
     "Y",
-    "COM"
+    "NOM_COM"
   ],
   [
     "Tsakhur",
     "know",
     "ac’a",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84549,8 +84549,8 @@ const structuralData = [
     "Tsakhur",
     "play#instrument#",
     "hek’◦as ",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84559,16 +84559,16 @@ const structuralData = [
     "avoid",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "make",
     "ha?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84577,8 +84577,8 @@ const structuralData = [
     "make_fun",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84586,16 +84586,16 @@ const structuralData = [
     "have",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "look_for",
     "t’abalj-(h)a?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84603,8 +84603,8 @@ const structuralData = [
     "Tsakhur",
     "paint",
     "qadR◦as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84612,8 +84612,8 @@ const structuralData = [
     "Tsakhur",
     "bite",
     "ac’ak’◦anas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84622,16 +84622,16 @@ const structuralData = [
     "forfeit",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "try_to_catch",
     "aq̅as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84639,8 +84639,8 @@ const structuralData = [
     "Tsakhur",
     "break",
     "haq’◦ar-(h)a?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84649,8 +84649,8 @@ const structuralData = [
     "flatter",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84660,15 +84660,15 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Tsakhur",
     "wave",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84676,16 +84676,16 @@ const structuralData = [
     "dream",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "wash",
     "hoRalas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84693,8 +84693,8 @@ const structuralData = [
     "Tsakhur",
     "put_on",
     "alja?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84703,8 +84703,8 @@ const structuralData = [
     "be_called",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84712,8 +84712,8 @@ const structuralData = [
     "punish",
     "oIlči aljat’as",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84721,8 +84721,8 @@ const structuralData = [
     "attack",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84730,8 +84730,8 @@ const structuralData = [
     "fill#intr#",
     "gjac’es",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84741,15 +84741,15 @@ const structuralData = [
     "ADALL",
     "NOM",
     "X",
-    "ADALNOM"
+    "ADALL_NOM"
   ],
   [
     "Tsakhur",
     "be_short",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84757,8 +84757,8 @@ const structuralData = [
     "hate",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84768,15 +84768,15 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Tsakhur",
     "need",
     "ljazim=da ixes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84784,8 +84784,8 @@ const structuralData = [
     "surround",
     "jiIq’nēqa aljat’as",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84795,23 +84795,23 @@ const structuralData = [
     "NOM",
     "INESS",
     "Y",
-    "INESS"
+    "NOM_INESS"
   ],
   [
     "Tsakhur",
     "answer",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "open",
     "āqas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84820,8 +84820,8 @@ const structuralData = [
     "be_different",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84829,16 +84829,16 @@ const structuralData = [
     "fall_behind",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "plough",
     "ezas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84847,8 +84847,8 @@ const structuralData = [
     "smell",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84858,23 +84858,23 @@ const structuralData = [
     "NOM",
     "EL",
     "Y",
-    "EL"
+    "NOM_EL"
   ],
   [
     "Tsakhur",
     "sing",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "write",
     "ok’anas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84882,8 +84882,8 @@ const structuralData = [
     "Tsakhur",
     "drink",
     "iljoR◦as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84892,8 +84892,8 @@ const structuralData = [
     "melt",
     "ermiš ha?as",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84901,16 +84901,16 @@ const structuralData = [
     "match",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "leave",
     "Galeč̄es",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -84919,8 +84919,8 @@ const structuralData = [
     "cover",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84928,8 +84928,8 @@ const structuralData = [
     "remember",
     "k’elj ixes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84937,8 +84937,8 @@ const structuralData = [
     "help",
     "kumag ha?as ",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84948,7 +84948,7 @@ const structuralData = [
     "NOM",
     "SUPALL",
     "Y",
-    "SUPALL"
+    "NOM_SUPALL"
   ],
   [
     "Tsakhur",
@@ -84957,15 +84957,15 @@ const structuralData = [
     "NOM",
     "INESS",
     "Y",
-    "INESS"
+    "NOM_INESS"
   ],
   [
     "Tsakhur",
     "cut_oneself",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84975,15 +84975,15 @@ const structuralData = [
     "NOM",
     "CONTALL",
     "Y",
-    "CONTAL"
+    "NOM_CONTAL"
   ],
   [
     "Tsakhur",
     "lose#game#",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -84993,23 +84993,23 @@ const structuralData = [
     "NOM",
     "SUPEL",
     "Y",
-    "SUPEL"
+    "NOM_SUPEL"
   ],
   [
     "Tsakhur",
     "speak",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "give_birth",
     "itxes",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -85018,8 +85018,8 @@ const structuralData = [
     "drop",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85027,8 +85027,8 @@ const structuralData = [
     "govern",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85036,8 +85036,8 @@ const structuralData = [
     "miss",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85045,8 +85045,8 @@ const structuralData = [
     "follow",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85054,8 +85054,8 @@ const structuralData = [
     "dismount",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85063,8 +85063,8 @@ const structuralData = [
     "listen",
     "k’ir gjaq̅as",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85072,8 +85072,8 @@ const structuralData = [
     "obey",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85083,15 +85083,15 @@ const structuralData = [
     "AFF",
     "NOM",
     "X",
-    "AFFNOM"
+    "AFF_NOM"
   ],
   [
     "Tsakhur",
     "mix",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85101,14 +85101,14 @@ const structuralData = [
     "NOM",
     "ALL",
     "Y",
-    "ALL"
+    "NOM_ALL"
   ],
   [
     "Tsakhur",
     "take_off",
     "qak̅jahas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -85117,8 +85117,8 @@ const structuralData = [
     "dream#sleeping#",
     "nik’ē Gaǯes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85128,7 +85128,7 @@ const structuralData = [
     "NOM",
     "COMIT",
     "Y",
-    "COM"
+    "NOM_COM"
   ],
   [
     "Tsakhur",
@@ -85137,15 +85137,15 @@ const structuralData = [
     "NOM",
     "COMIT",
     "Y",
-    "COM"
+    "NOM_COM"
   ],
   [
     "Tsakhur",
     "cost",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85153,8 +85153,8 @@ const structuralData = [
     "shoot_at",
     "iIXas",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85162,16 +85162,16 @@ const structuralData = [
     "pour",
     "-",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "lose",
     "ak’an-(h)a?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -85180,16 +85180,16 @@ const structuralData = [
     "sink",
     "batmiš-xes",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "kill",
     "gik’as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -85198,8 +85198,8 @@ const structuralData = [
     "hit",
     "iIXas",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85207,16 +85207,16 @@ const structuralData = [
     "kiss",
     "uba ha?as",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
     "Tsakhur",
     "read",
     "qaItqas",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -85224,8 +85224,8 @@ const structuralData = [
     "Tsakhur",
     "move#bodypart#",
     "iRikar-(h)a?as",
-    "TR",
-    "",
+    "ERG",
+    "NOM",
     "TR",
     "TR"
   ],
@@ -85234,8 +85234,8 @@ const structuralData = [
     "respect",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85243,8 +85243,8 @@ const structuralData = [
     "be_squeamish",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85252,8 +85252,8 @@ const structuralData = [
     "be_content",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85261,8 +85261,8 @@ const structuralData = [
     "fall_in_love",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85270,8 +85270,8 @@ const structuralData = [
     "trust",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85279,8 +85279,8 @@ const structuralData = [
     "sympathise",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85288,8 +85288,8 @@ const structuralData = [
     "envy",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85297,8 +85297,8 @@ const structuralData = [
     "be_angry",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85306,8 +85306,8 @@ const structuralData = [
     "be_surprised",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85315,8 +85315,8 @@ const structuralData = [
     "love2",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85324,8 +85324,8 @@ const structuralData = [
     "enjoy",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85333,8 +85333,8 @@ const structuralData = [
     "want",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85342,8 +85342,8 @@ const structuralData = [
     "have_a_grudge",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85351,8 +85351,8 @@ const structuralData = [
     "take_offence",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85360,8 +85360,8 @@ const structuralData = [
     "upset",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85369,8 +85369,8 @@ const structuralData = [
     "marvel",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85378,8 +85378,8 @@ const structuralData = [
     "despise",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85387,8 +85387,8 @@ const structuralData = [
     "get_upset",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85396,8 +85396,8 @@ const structuralData = [
     "get_irritated",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85405,8 +85405,8 @@ const structuralData = [
     "be_fond",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85414,8 +85414,8 @@ const structuralData = [
     "be_shy",
     "",
     "*",
-    "",
-    "",
+    "*",
+    "*",
     ""
   ],
   [
@@ -85425,7 +85425,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Turkish",
@@ -85434,7 +85434,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Turkish",
@@ -85443,14 +85443,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "throw",
     "at-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85461,7 +85461,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Turkish",
@@ -85470,7 +85470,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -85479,14 +85479,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "take",
     "al-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85494,8 +85494,8 @@ const structuralData = [
     "Turkish",
     "see",
     "gör-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85503,8 +85503,8 @@ const structuralData = [
     "Turkish",
     "influence",
     "etkile-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85515,7 +85515,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -85524,14 +85524,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "win",
     "yen-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85542,14 +85542,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "drive",
     "kovala-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85557,8 +85557,8 @@ const structuralData = [
     "Turkish",
     "bend",
     "bük-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85569,14 +85569,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "hold",
     "tut-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85587,14 +85587,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "milk",
     "sağ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85605,7 +85605,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -85614,7 +85614,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -85623,7 +85623,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
@@ -85632,14 +85632,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
     "think",
     "düşün-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85647,8 +85647,8 @@ const structuralData = [
     "Turkish",
     "eat",
     "ye-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85656,8 +85656,8 @@ const structuralData = [
     "Turkish",
     "fry",
     "kızart-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85665,8 +85665,8 @@ const structuralData = [
     "Turkish",
     "wait",
     "bekle-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85674,8 +85674,8 @@ const structuralData = [
     "Turkish",
     "forget",
     "unut-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85686,14 +85686,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "call",
     "çağır-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85704,14 +85704,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
     "know",
     "tanı-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85719,8 +85719,8 @@ const structuralData = [
     "Turkish",
     "play#instrument#",
     "çalı-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85731,14 +85731,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "make",
     "yap-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85749,7 +85749,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
@@ -85758,14 +85758,14 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Turkish",
     "look_for",
     "ara-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85773,8 +85773,8 @@ const structuralData = [
     "Turkish",
     "paint",
     "boya-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85782,8 +85782,8 @@ const structuralData = [
     "Turkish",
     "bite",
     "ısır-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85791,8 +85791,8 @@ const structuralData = [
     "Turkish",
     "forfeit",
     "kaybet-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85800,8 +85800,8 @@ const structuralData = [
     "Turkish",
     "try_to_catch",
     "yakala-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85809,8 +85809,8 @@ const structuralData = [
     "Turkish",
     "break",
     "kır-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85818,8 +85818,8 @@ const structuralData = [
     "Turkish",
     "flatter",
     "pohpohla-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85827,8 +85827,8 @@ const structuralData = [
     "Turkish",
     "love1",
     "sev-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85836,8 +85836,8 @@ const structuralData = [
     "Turkish",
     "wave",
     "salla-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85846,7 +85846,7 @@ const structuralData = [
     "dream",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -85854,8 +85854,8 @@ const structuralData = [
     "Turkish",
     "wash",
     "yıka-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85863,8 +85863,8 @@ const structuralData = [
     "Turkish",
     "put_on",
     "giy-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85873,7 +85873,7 @@ const structuralData = [
     "be_called",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -85881,8 +85881,8 @@ const structuralData = [
     "Turkish",
     "punish",
     "cezalandır-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85893,7 +85893,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -85902,14 +85902,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
     "find",
     "bul-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85920,7 +85920,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Turkish",
@@ -85929,14 +85929,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "like",
     "beğen-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85947,14 +85947,14 @@ const structuralData = [
     "GEN",
     "DAT",
     "XY",
-    "GENDAT"
+    "GEN_DAT"
   ],
   [
     "Turkish",
     "surround",
     "çevrele-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85965,7 +85965,7 @@ const structuralData = [
     "GEN",
     "NOM",
     "X",
-    "GENNOM"
+    "GEN_NOM"
   ],
   [
     "Turkish",
@@ -85974,14 +85974,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "open",
     "aç-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -85992,7 +85992,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
@@ -86001,14 +86001,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "plough",
     "sür-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86019,14 +86019,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "cross",
     "karşıya geç-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -86034,8 +86034,8 @@ const structuralData = [
     "Turkish",
     "sing",
     "söyle-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86043,8 +86043,8 @@ const structuralData = [
     "Turkish",
     "write",
     "yaz-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86052,8 +86052,8 @@ const structuralData = [
     "Turkish",
     "drink",
     "iç-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86061,8 +86061,8 @@ const structuralData = [
     "Turkish",
     "melt",
     "erit-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86073,7 +86073,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86082,14 +86082,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "cover",
     "kapla-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86097,8 +86097,8 @@ const structuralData = [
     "Turkish",
     "remember",
     "hatırla-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86109,14 +86109,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "understand",
     "anla-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86127,14 +86127,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "cut_oneself",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -86145,7 +86145,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86154,7 +86154,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86163,7 +86163,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86172,14 +86172,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
     "give_birth",
     "doğur-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86187,8 +86187,8 @@ const structuralData = [
     "Turkish",
     "drop",
     "düşür-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86196,8 +86196,8 @@ const structuralData = [
     "Turkish",
     "govern",
     "yönet-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86205,8 +86205,8 @@ const structuralData = [
     "Turkish",
     "miss",
     "özle-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86217,7 +86217,7 @@ const structuralData = [
     "NOM",
     "GENpesinden",
     "Y",
-    "NOMGENpesinden"
+    "NOM_GENpesinden"
   ],
   [
     "Turkish",
@@ -86226,14 +86226,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
     "listen",
     "dinle-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86242,7 +86242,7 @@ const structuralData = [
     "obey",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -86250,8 +86250,8 @@ const structuralData = [
     "Turkish",
     "hear",
     "duy-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86262,7 +86262,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
@@ -86271,14 +86271,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "take_off",
     "çıkar-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86286,8 +86286,8 @@ const structuralData = [
     "Turkish",
     "dream#sleeping#",
     "rüyasında gör-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86298,7 +86298,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86307,14 +86307,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Turkish",
     "cost",
     "et-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86325,14 +86325,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "pour",
     "dök-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86340,8 +86340,8 @@ const structuralData = [
     "Turkish",
     "lose",
     "kaybet-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86352,14 +86352,14 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Turkish",
     "kill",
     "öldür-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86370,14 +86370,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "kiss",
     "öp-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86385,8 +86385,8 @@ const structuralData = [
     "Turkish",
     "read",
     "oku-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86394,8 +86394,8 @@ const structuralData = [
     "Turkish",
     "move#bodypart#",
     "kıpırdat-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86406,7 +86406,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86415,7 +86415,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
@@ -86424,7 +86424,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Turkish",
@@ -86433,7 +86433,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86442,7 +86442,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86451,14 +86451,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "envy",
     "kıskan-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86469,7 +86469,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86478,14 +86478,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "love2",
     "sev-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86494,7 +86494,7 @@ const structuralData = [
     "enjoy",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -86502,8 +86502,8 @@ const structuralData = [
     "Turkish",
     "want",
     "iste-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86514,7 +86514,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86523,14 +86523,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
     "upset",
     "üz-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -86541,7 +86541,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86550,7 +86550,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86559,7 +86559,7 @@ const structuralData = [
     "NOM",
     "GENuzunden",
     "Y",
-    "NOMGENuzunden"
+    "NOM_GENuzunden"
   ],
   [
     "Turkish",
@@ -86568,7 +86568,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86577,7 +86577,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Turkish",
@@ -86586,7 +86586,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
@@ -86594,16 +86594,16 @@ const structuralData = [
     "",
     "GEN",
     "NOM",
-    "",
-    "GENNOM"
+    "X",
+    "GEN_NOM"
   ],
   [
     "Tuvinian",
     "have#illness#",
     "",
-    "NOM",
-    "-",
-    "",
+    "*",
+    "*",
+    "*",
     ""
   ],
   [
@@ -86612,16 +86612,16 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
     "throw",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86630,17 +86630,17 @@ const structuralData = [
     "",
     "GEN",
     "NOM",
-    "",
-    "GENNOM"
+    "X",
+    "GEN_NOM"
   ],
   [
     "Tuvinian",
     "resemble",
     "",
     "NOM",
-    "DAT / COM",
-    "",
-    "COM"
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
@@ -86648,25 +86648,25 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "take",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "see",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86675,17 +86675,17 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "encounter",
     "",
     "NOM",
-    "DAT / COM",
-    "",
-    "COM"
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
@@ -86693,16 +86693,16 @@ const structuralData = [
     "",
     "NOM",
     "ALL1",
-    "",
-    "ALL1"
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
     "win",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86711,25 +86711,25 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
     "drive",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "bend",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86738,16 +86738,16 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "hold",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86756,16 +86756,16 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "milk",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86773,18 +86773,18 @@ const structuralData = [
     "reach",
     "",
     "NOM",
-    "DAT / ALL1",
-    "",
-    "ALL1"
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
     "touch",
     "",
     "NOM",
-    "DAT / LOC / ACC",
-    "",
-    "LOC"
+    "LOC",
+    "Y",
+    "NOM_LOC"
   ],
   [
     "Tuvinian",
@@ -86792,8 +86792,8 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
@@ -86801,43 +86801,43 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "think",
     "",
     "NOM",
-    "ACC / post",
-    "",
-    "POST"
+    "GENdugajynda",
+    "Y",
+    "NOM_GENdugajynda"
   ],
   [
     "Tuvinian",
     "eat",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "fry",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "wait",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86845,9 +86845,9 @@ const structuralData = [
     "forget",
     "",
     "NOM",
-    "ACC / post",
-    "",
-    "POST"
+    "GENdugajynda",
+    "Y",
+    "NOM_GENdugajynda"
   ],
   [
     "Tuvinian",
@@ -86855,16 +86855,16 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
     "call",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86873,16 +86873,16 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "know",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86890,9 +86890,9 @@ const structuralData = [
     "play#instrument#",
     "",
     "NOM",
-    "DAT / LOC",
-    "",
-    "LOC"
+    "LOC",
+    "Y",
+    "NOM_LOC"
   ],
   [
     "Tuvinian",
@@ -86900,25 +86900,25 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
     "make",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "make_fun",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86927,34 +86927,34 @@ const structuralData = [
     "",
     "LOC",
     "NOM",
-    "",
-    "LOCNOM"
+    "X",
+    "LOC_NOM"
   ],
   [
     "Tuvinian",
     "look_for",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "paint",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "bite",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86962,26 +86962,26 @@ const structuralData = [
     "forfeit",
     "",
     "NOM",
-    "основа (NOM)",
-    "",
-    "osnova"
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Tuvinian",
     "try_to_catch",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "break",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -86990,8 +86990,8 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
@@ -86999,43 +86999,43 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "wave",
     "",
     "NOM",
-    "ACC / COM",
-    "",
-    "COM"
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "dream",
     "",
     "NOM",
-    "ACC / post",
-    "",
-    "POST"
+    "GENdugajynda",
+    "Y",
+    "NOM_GENdugajynda"
   ],
   [
     "Tuvinian",
     "wash",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "put_on",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87043,9 +87043,9 @@ const structuralData = [
     "be_called",
     "",
     "ACC",
-    "основа (NOM)",
-    "",
-    "ACCosnova"
+    "NOM(NO.AGR)",
+    "XY",
+    "ACC_NOM(NO.AGR)"
   ],
   [
     "Tuvinian",
@@ -87053,8 +87053,8 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
@@ -87062,8 +87062,8 @@ const structuralData = [
     "",
     "NOM",
     "ALL1",
-    "",
-    "ALL1"
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
@@ -87071,16 +87071,16 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "find",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87088,17 +87088,17 @@ const structuralData = [
     "be_short",
     "",
     "DAT",
-    "основа (NOM)",
-    "",
-    "DATosnova"
+    "NOM(NO.AGR)",
+    "XY",
+    "DAT_NOM(NO.AGR)"
   ],
   [
     "Tuvinian",
     "hate",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87107,8 +87107,8 @@ const structuralData = [
     "",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Tuvinian",
@@ -87116,16 +87116,16 @@ const structuralData = [
     "",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Tuvinian",
     "surround",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87134,25 +87134,25 @@ const structuralData = [
     "",
     "LOC",
     "NOM",
-    "",
-    "LOCNOM"
+    "X",
+    "LOC_NOM"
   ],
   [
     "Tuvinian",
     "answer",
     "",
     "NOM",
-    "DAT / ALL1",
-    "",
-    "ALL1"
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
     "open",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87161,8 +87161,8 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
@@ -87170,16 +87170,16 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
     "plough",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87188,52 +87188,52 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "cross",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "sing",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "write",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "drink",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "melt",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87242,34 +87242,34 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "leave",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "cover",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "remember",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87278,16 +87278,16 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "understand",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87296,8 +87296,8 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
@@ -87305,17 +87305,17 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "get_stuck",
     "",
     "NOM",
-    "DAT / LOC / ALL1",
-    "",
-    "ALL1"
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
@@ -87323,8 +87323,8 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
@@ -87332,8 +87332,8 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
@@ -87341,43 +87341,43 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "give_birth",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "drop",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "govern",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "miss",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87385,9 +87385,9 @@ const structuralData = [
     "follow",
     "",
     "NOM",
-    "post",
-    "",
-    "POST"
+    "GENsoonda",
+    "Y",
+    "NOM_GENsoonda"
   ],
   [
     "Tuvinian",
@@ -87395,34 +87395,34 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
     "listen",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "obey",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "hear",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87431,25 +87431,25 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "look",
     "",
     "NOM",
-    "ACC / ALL1",
-    "",
-    "ALL1"
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
     "take_off",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87458,8 +87458,8 @@ const structuralData = [
     "",
     "DAT",
     "NOM",
-    "",
-    "DATNOM"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Tuvinian",
@@ -87467,8 +87467,8 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
@@ -87476,43 +87476,43 @@ const structuralData = [
     "",
     "NOM",
     "COM",
-    "",
-    "COM"
+    "Y",
+    "NOM_COM"
   ],
   [
     "Tuvinian",
     "cost",
     "",
     "NOM",
-    "основа (NOM)",
-    "",
-    "osnova"
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Tuvinian",
     "shoot_at",
     "",
     "NOM",
-    "ACC / ALL1",
-    "",
-    "ALL1"
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
     "pour",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "lose",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87521,61 +87521,61 @@ const structuralData = [
     "",
     "NOM",
     "ALL1",
-    "",
-    "ALL1"
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
     "kill",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "hit",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "kiss",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "read",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "move#bodypart#",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "respect",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87584,8 +87584,8 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
@@ -87593,8 +87593,8 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
@@ -87602,8 +87602,8 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
@@ -87611,16 +87611,16 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "sympathise",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87628,26 +87628,26 @@ const structuralData = [
     "envy",
     "",
     "NOM",
-    "ACC / DAT",
-    "",
-    "DAT"
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "be_angry",
     "",
     "NOM",
-    "DAT / ALL1",
-    "",
-    "ALL1"
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
     "be_surprised",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87656,25 +87656,25 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "enjoy",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "want",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87682,9 +87682,9 @@ const structuralData = [
     "have_a_grudge",
     "",
     "NOM",
-    "DAT / ALL1",
-    "",
-    "ALL1"
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
     "Tuvinian",
@@ -87692,34 +87692,34 @@ const structuralData = [
     "",
     "NOM",
     "DAT",
-    "",
-    "DAT"
+    "Y",
+    "NOM_DAT"
   ],
   [
     "Tuvinian",
     "upset",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "marvel",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Tuvinian",
     "despise",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87727,9 +87727,9 @@ const structuralData = [
     "get_upset",
     "",
     "NOM",
-    "DAT / post",
-    "",
-    "POST"
+    "GENdeesh",
+    "Y",
+    "NOM_GENdeesh"
   ],
   [
     "Tuvinian",
@@ -87737,16 +87737,16 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Tuvinian",
     "be_fond",
     "",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -87755,8 +87755,8 @@ const structuralData = [
     "",
     "NOM",
     "ABL",
-    "",
-    "ABL"
+    "Y",
+    "NOM_ABL"
   ],
   [
     "Udihe",
@@ -87765,32 +87765,32 @@ const structuralData = [
     "POSS",
     "NOM",
     "Х",
-    "POSSNOM"
+    "POSS_NOM"
   ],
   [
     "Udihe",
     "have#illness#",
     "sulə-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
     "be_afraid",
     "ŋələ-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
     "throw",
     "wəndə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87799,9 +87799,9 @@ const structuralData = [
     "have_enough",
     "NEG + zokčo",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
@@ -87810,14 +87810,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "believe",
     "čəzə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87825,8 +87825,8 @@ const structuralData = [
     "Udihe",
     "take",
     "asta-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87834,8 +87834,8 @@ const structuralData = [
     "Udihe",
     "see",
     "isə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87844,7 +87844,7 @@ const structuralData = [
     "influence",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -87853,9 +87853,9 @@ const structuralData = [
     "encounter",
     "b'a-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
@@ -87864,14 +87864,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "win",
     "ətə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87882,14 +87882,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Udihe",
     "drive",
     "igbə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87897,8 +87897,8 @@ const structuralData = [
     "Udihe",
     "bend",
     "uu-woŋ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87909,14 +87909,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "hold",
     "zawa-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87924,8 +87924,8 @@ const structuralData = [
     "Udihe",
     "catch_up",
     "b'oŋ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87933,8 +87933,8 @@ const structuralData = [
     "Udihe",
     "milk",
     "daila-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87945,7 +87945,7 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Udihe",
@@ -87954,32 +87954,32 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Udihe",
     "fight",
     "w'ali-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
     "be_friends",
     "andasi-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
     "think",
     "məisi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87987,8 +87987,8 @@ const structuralData = [
     "Udihe",
     "eat",
     "diga-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -87996,8 +87996,8 @@ const structuralData = [
     "Udihe",
     "fry",
     "kakčisi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88005,8 +88005,8 @@ const structuralData = [
     "Udihe",
     "wait",
     "alasi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88014,8 +88014,8 @@ const structuralData = [
     "Udihe",
     "forget",
     "oŋmo-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88024,7 +88024,7 @@ const structuralData = [
     "depend",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88032,8 +88032,8 @@ const structuralData = [
     "Udihe",
     "call",
     "gələ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88042,7 +88042,7 @@ const structuralData = [
     "get_to_know",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88050,8 +88050,8 @@ const structuralData = [
     "Udihe",
     "know",
     "sə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88060,9 +88060,9 @@ const structuralData = [
     "play#instrument#",
     "gusi-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
@@ -88071,14 +88071,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Udihe",
     "make",
     "o-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88086,8 +88086,8 @@ const structuralData = [
     "Udihe",
     "make_fun",
     "kəsə-we-li-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88098,14 +88098,14 @@ const structuralData = [
     "NOM",
     "ORN",
     "Y",
-    "NOMORN"
+    "NOM_ORN"
   ],
   [
     "Udihe",
     "look_for",
     "galaktə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88113,8 +88113,8 @@ const structuralData = [
     "Udihe",
     "paint",
     "kraskala-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88122,8 +88122,8 @@ const structuralData = [
     "Udihe",
     "bite",
     "iktəmə-lə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88132,7 +88132,7 @@ const structuralData = [
     "forfeit",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88140,8 +88140,8 @@ const structuralData = [
     "Udihe",
     "try_to_catch",
     "zawa-kcə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88149,8 +88149,8 @@ const structuralData = [
     "Udihe",
     "break",
     "buktali-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88159,7 +88159,7 @@ const structuralData = [
     "flatter",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88167,8 +88167,8 @@ const structuralData = [
     "Udihe",
     "love1",
     "aju-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88177,16 +88177,16 @@ const structuralData = [
     "wave",
     "akpi-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
     "dream",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88194,8 +88194,8 @@ const structuralData = [
     "Udihe",
     "wash",
     "siki-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88203,8 +88203,8 @@ const structuralData = [
     "Udihe",
     "put_on",
     "təti-gi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88213,7 +88213,7 @@ const structuralData = [
     "be_called",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88222,7 +88222,7 @@ const structuralData = [
     "punish",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88233,7 +88233,7 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
@@ -88242,14 +88242,14 @@ const structuralData = [
     "ACC",
     "NOM",
     "Х",
-    "ACCNOM"
+    "ACC_NOM"
   ],
   [
     "Udihe",
     "find",
     "b'a-gi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88260,14 +88260,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "Х",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Udihe",
     "hate",
     "galu-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88275,8 +88275,8 @@ const structuralData = [
     "Udihe",
     "like",
     "čaalə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88285,16 +88285,16 @@ const structuralData = [
     "need",
     "zokco-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
     "surround",
     "?",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88305,7 +88305,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "Х",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Udihe",
@@ -88314,14 +88314,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "open",
     "nienti-lə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88332,7 +88332,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Udihe",
@@ -88341,14 +88341,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Udihe",
     "plough",
     "gəŋculə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88357,7 +88357,7 @@ const structuralData = [
     "smell",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88365,8 +88365,8 @@ const structuralData = [
     "Udihe",
     "cross",
     "dau-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88374,8 +88374,8 @@ const structuralData = [
     "Udihe",
     "sing",
     "jəxə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88383,8 +88383,8 @@ const structuralData = [
     "Udihe",
     "write",
     "oño-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88392,8 +88392,8 @@ const structuralData = [
     "Udihe",
     "drink",
     "umnasi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88401,8 +88401,8 @@ const structuralData = [
     "Udihe",
     "melt",
     "unə-wə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88413,14 +88413,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "leave",
     "nodo-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88428,8 +88428,8 @@ const structuralData = [
     "Udihe",
     "cover",
     "likpi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88437,8 +88437,8 @@ const structuralData = [
     "Udihe",
     "remember",
     "zoŋi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88446,8 +88446,8 @@ const structuralData = [
     "Udihe",
     "help",
     "bələsi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88455,8 +88455,8 @@ const structuralData = [
     "Udihe",
     "understand",
     "sə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88467,16 +88467,16 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Udihe",
     "cut_oneself",
     "əndə-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
@@ -88485,14 +88485,14 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Udihe",
     "lose#game#",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88501,7 +88501,7 @@ const structuralData = [
     "be_glad",
     "agda-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88512,14 +88512,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "give_birth",
     "b'a-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88527,8 +88527,8 @@ const structuralData = [
     "Udihe",
     "drop",
     "tugbu-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88537,7 +88537,7 @@ const structuralData = [
     "govern",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88546,7 +88546,7 @@ const structuralData = [
     "miss",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88555,7 +88555,7 @@ const structuralData = [
     "follow",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88566,14 +88566,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Udihe",
     "listen",
     "düi-si-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88582,7 +88582,7 @@ const structuralData = [
     "obey",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88590,8 +88590,8 @@ const structuralData = [
     "Udihe",
     "hear",
     "düi-si-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88600,9 +88600,9 @@ const structuralData = [
     "mix",
     "solü-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
@@ -88611,14 +88611,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "take_off",
     "asta-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88626,8 +88626,8 @@ const structuralData = [
     "Udihe",
     "dream#sleeping#",
     "t'osi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88636,7 +88636,7 @@ const structuralData = [
     "agree",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88645,7 +88645,7 @@ const structuralData = [
     "have_a_quarrel",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88656,14 +88656,14 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Udihe",
     "shoot_at",
     "gakpa-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88671,8 +88671,8 @@ const structuralData = [
     "Udihe",
     "pour",
     "kuŋgədə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88680,8 +88680,8 @@ const structuralData = [
     "Udihe",
     "lose",
     "nodo-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88692,14 +88692,14 @@ const structuralData = [
     "NOM",
     "LOC",
     "Y",
-    "NOMLOC"
+    "NOM_LOC"
   ],
   [
     "Udihe",
     "kill",
     "wa-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88707,8 +88707,8 @@ const structuralData = [
     "Udihe",
     "hit",
     "duktə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88716,8 +88716,8 @@ const structuralData = [
     "Udihe",
     "kiss",
     "ñuɣasi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88725,8 +88725,8 @@ const structuralData = [
     "Udihe",
     "read",
     "taŋi-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88734,8 +88734,8 @@ const structuralData = [
     "Udihe",
     "move#bodypart#",
     "ugi-wəŋ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88743,8 +88743,8 @@ const structuralData = [
     "Udihe",
     "respect",
     "čəzə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88753,7 +88753,7 @@ const structuralData = [
     "be_squeamish",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88762,16 +88762,16 @@ const structuralData = [
     "be_content",
     "agdа-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Udihe",
     "fall_in_love",
     "aju-li-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88780,7 +88780,7 @@ const structuralData = [
     "trust",
     "čəzə-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88788,8 +88788,8 @@ const structuralData = [
     "Udihe",
     "sympathise",
     "nantə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88798,7 +88798,7 @@ const structuralData = [
     "envy",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88809,14 +88809,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "be_surprised",
     "xuenə-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88824,8 +88824,8 @@ const structuralData = [
     "Udihe",
     "love2",
     "aju-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88834,7 +88834,7 @@ const structuralData = [
     "enjoy",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88842,8 +88842,8 @@ const structuralData = [
     "Udihe",
     "want",
     "gələ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88854,7 +88854,7 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
@@ -88863,14 +88863,14 @@ const structuralData = [
     "NOM",
     "DIR",
     "Y",
-    "NOMDIR"
+    "NOM_DIR"
   ],
   [
     "Udihe",
     "upset",
     "tagda-waŋ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -88879,7 +88879,7 @@ const structuralData = [
     "marvel",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88888,7 +88888,7 @@ const structuralData = [
     "despise",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88897,7 +88897,7 @@ const structuralData = [
     "get_upset",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88906,7 +88906,7 @@ const structuralData = [
     "get_irritated",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88915,7 +88915,7 @@ const structuralData = [
     "be_fond",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88924,7 +88924,7 @@ const structuralData = [
     "be_shy",
     "xagzə-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -88959,8 +88959,8 @@ const structuralData = [
     "Udi",
     "throw",
     "bos",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -88995,8 +88995,8 @@ const structuralData = [
     "Udi",
     "take",
     "ex+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89004,8 +89004,8 @@ const structuralData = [
     "Udi",
     "see",
     "ak'",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89013,8 +89013,8 @@ const structuralData = [
     "Udi",
     "influence",
     "təsir+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89040,8 +89040,8 @@ const structuralData = [
     "Udi",
     "win",
     "ta==şer",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89058,8 +89058,8 @@ const structuralData = [
     "Udi",
     "drive",
     "c'ev",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89067,8 +89067,8 @@ const structuralData = [
     "Udi",
     "bend",
     "k'os'+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89103,8 +89103,8 @@ const structuralData = [
     "Udi",
     "milk",
     "çax+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89121,8 +89121,8 @@ const structuralData = [
     "Udi",
     "touch",
     "kul+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89157,8 +89157,8 @@ const structuralData = [
     "Udi",
     "eat",
     "kəy",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89166,8 +89166,8 @@ const structuralData = [
     "Udi",
     "fry",
     "č'oč'a",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89184,8 +89184,8 @@ const structuralData = [
     "Udi",
     "forget",
     "eyexun=e c'evk'-",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89202,8 +89202,8 @@ const structuralData = [
     "Udi",
     "call",
     "k'al+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89220,8 +89220,8 @@ const structuralData = [
     "Udi",
     "know",
     "çal+ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89229,8 +89229,8 @@ const structuralData = [
     "Udi",
     "play#instrument#",
     "far+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89247,8 +89247,8 @@ const structuralData = [
     "Udi",
     "make",
     "düz+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89274,8 +89274,8 @@ const structuralData = [
     "Udi",
     "look_for",
     "qə̌v",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89283,8 +89283,8 @@ const structuralData = [
     "Udi",
     "paint",
     "mas'i+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89292,8 +89292,8 @@ const structuralData = [
     "Udi",
     "bite",
     "biq'",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89310,8 +89310,8 @@ const structuralData = [
     "Udi",
     "try_to_catch",
     "biq'",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89319,8 +89319,8 @@ const structuralData = [
     "Udi",
     "break",
     "xox+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89328,8 +89328,8 @@ const structuralData = [
     "Udi",
     "flatter",
     "tərif+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89337,8 +89337,8 @@ const structuralData = [
     "Udi",
     "love1",
     "çur+DAT",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89356,7 +89356,7 @@ const structuralData = [
     "dream",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -89364,8 +89364,8 @@ const structuralData = [
     "Udi",
     "wash",
     "os'+ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89373,8 +89373,8 @@ const structuralData = [
     "Udi",
     "put_on",
     "lap",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89391,8 +89391,8 @@ const structuralData = [
     "Udi",
     "punish",
     "caza+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89418,8 +89418,8 @@ const structuralData = [
     "Udi",
     "find",
     "bə̌ğə̌+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89436,8 +89436,8 @@ const structuralData = [
     "Udi",
     "hate",
     "ak'-sun te=ne çur+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89463,8 +89463,8 @@ const structuralData = [
     "Udi",
     "surround",
     "but'",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89490,8 +89490,8 @@ const structuralData = [
     "Udi",
     "open",
     "qay+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89517,8 +89517,8 @@ const structuralData = [
     "Udi",
     "plough",
     "ez+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89544,8 +89544,8 @@ const structuralData = [
     "Udi",
     "sing",
     "mə̌ğ+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89553,8 +89553,8 @@ const structuralData = [
     "Udi",
     "write",
     "śam+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89562,8 +89562,8 @@ const structuralData = [
     "Udi",
     "drink",
     "ǔğ",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89571,8 +89571,8 @@ const structuralData = [
     "Udi",
     "melt",
     "xe+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89598,8 +89598,8 @@ const structuralData = [
     "Udi",
     "cover",
     "but'+ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89625,8 +89625,8 @@ const structuralData = [
     "Udi",
     "understand",
     "q'amiş",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89634,8 +89634,8 @@ const structuralData = [
     "Udi",
     "hit#target#",
     "du+ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89644,7 +89644,7 @@ const structuralData = [
     "cut_oneself",
     "bo",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -89671,7 +89671,7 @@ const structuralData = [
     "be_glad",
     "mǔq'+LV",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -89688,8 +89688,8 @@ const structuralData = [
     "Udi",
     "give_birth",
     "eçer",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89697,8 +89697,8 @@ const structuralData = [
     "Udi",
     "drop",
     "sa+ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89742,8 +89742,8 @@ const structuralData = [
     "Udi",
     "listen",
     "ǔmǔx+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89752,7 +89752,7 @@ const structuralData = [
     "obey",
     "əyit-ə ǔmǔx+LV",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -89760,8 +89760,8 @@ const structuralData = [
     "Udi",
     "hear",
     "i+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89787,8 +89787,8 @@ const structuralData = [
     "Udi",
     "take_off",
     "c'e+ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89796,8 +89796,8 @@ const structuralData = [
     "Udi",
     "dream#sleeping#",
     "nep'-en a-ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89832,8 +89832,8 @@ const structuralData = [
     "Udi",
     "shoot_at",
     "dǒp+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89841,8 +89841,8 @@ const structuralData = [
     "Udi",
     "pour",
     "bap",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89850,8 +89850,8 @@ const structuralData = [
     "Udi",
     "lose",
     "ač'+INF_LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89868,8 +89868,8 @@ const structuralData = [
     "Udi",
     "kill",
     "bes",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89877,8 +89877,8 @@ const structuralData = [
     "Udi",
     "hit",
     "du+ST",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89886,8 +89886,8 @@ const structuralData = [
     "Udi",
     "kiss",
     "muç+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89895,8 +89895,8 @@ const structuralData = [
     "Udi",
     "read",
     "k'al+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89904,8 +89904,8 @@ const structuralData = [
     "Udi",
     "move#bodypart#",
     "gal+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89913,8 +89913,8 @@ const structuralData = [
     "Udi",
     "respect",
     "hörmət+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89940,8 +89940,8 @@ const structuralData = [
     "Udi",
     "fall_in_love",
     "çur+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89949,8 +89949,8 @@ const structuralData = [
     "Udi",
     "trust",
     "ext'ibər+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89958,8 +89958,8 @@ const structuralData = [
     "Udi",
     "sympathise",
     "gorox ey",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -89994,8 +89994,8 @@ const structuralData = [
     "Udi",
     "love2",
     "çur+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -90004,7 +90004,7 @@ const structuralData = [
     "enjoy",
     "läzät haqː-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -90012,8 +90012,8 @@ const structuralData = [
     "Udi",
     "want",
     "çur",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -90039,8 +90039,8 @@ const structuralData = [
     "Udi",
     "upset",
     "dirxor+LV",
-    "TR",
-    "",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
@@ -90049,7 +90049,7 @@ const structuralData = [
     "marvel",
     "məət't'əl mand-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -90058,7 +90058,7 @@ const structuralData = [
     "despise",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -90129,9 +90129,9 @@ const structuralData = [
     "Udmurt",
     "throw",
     "куштыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90165,18 +90165,18 @@ const structuralData = [
     "Udmurt",
     "take",
     "басьтыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "see",
     "адӟыны ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90210,9 +90210,9 @@ const structuralData = [
     "Udmurt",
     "win",
     "вормыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90228,18 +90228,18 @@ const structuralData = [
     "Udmurt",
     "drive",
     "улляны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "bend",
     "куасаны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90255,27 +90255,27 @@ const structuralData = [
     "Udmurt",
     "hold",
     "возьыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "catch_up",
     "сутыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "milk",
     "кыскыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90327,27 +90327,27 @@ const structuralData = [
     "Udmurt",
     "eat",
     "сиыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "fry",
     "пыжыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "wait",
     "возьманы",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90372,9 +90372,9 @@ const structuralData = [
     "Udmurt",
     "call",
     "ӧтьыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90390,9 +90390,9 @@ const structuralData = [
     "Udmurt",
     "know",
     "тодыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90417,9 +90417,9 @@ const structuralData = [
     "Udmurt",
     "make",
     "лэсьтыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90427,7 +90427,7 @@ const structuralData = [
     "make_fun",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -90444,27 +90444,27 @@ const structuralData = [
     "Udmurt",
     "look_for",
     "утчаны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "paint",
     "буяны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "bite",
     "куртчыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90480,18 +90480,18 @@ const structuralData = [
     "Udmurt",
     "try_to_catch",
     "уйылыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "break",
     "чигтыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90499,7 +90499,7 @@ const structuralData = [
     "flatter",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -90507,9 +90507,9 @@ const structuralData = [
     "Udmurt",
     "love1",
     "яратыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90534,18 +90534,18 @@ const structuralData = [
     "Udmurt",
     "wash",
     "миськыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "put_on",
     "дӥсяны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90561,9 +90561,9 @@ const structuralData = [
     "Udmurt",
     "punish",
     "куаретыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90588,9 +90588,9 @@ const structuralData = [
     "Udmurt",
     "find",
     "шедьтыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90633,9 +90633,9 @@ const structuralData = [
     "Udmurt",
     "surround",
     "котыртыны ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90660,9 +90660,9 @@ const structuralData = [
     "Udmurt",
     "open",
     "усьтыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90687,9 +90687,9 @@ const structuralData = [
     "Udmurt",
     "plough",
     "гырыны ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90714,36 +90714,36 @@ const structuralData = [
     "Udmurt",
     "sing",
     "кырӟаны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "write",
     "гожъяны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "drink",
     "юыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "melt",
     "шунтыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90768,18 +90768,18 @@ const structuralData = [
     "Udmurt",
     "cover",
     "шобыртыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "remember",
     "тод-INE возьыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90858,18 +90858,18 @@ const structuralData = [
     "Udmurt",
     "give_birth",
     "вайыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "drop",
     "уськытыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90912,9 +90912,9 @@ const structuralData = [
     "Udmurt",
     "listen",
     "кылзыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90930,9 +90930,9 @@ const structuralData = [
     "Udmurt",
     "hear",
     "кылыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -90957,18 +90957,18 @@ const structuralData = [
     "Udmurt",
     "take_off",
     "кыльыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "dream#sleeping#",
     "вöтаны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -91011,18 +91011,18 @@ const structuralData = [
     "Udmurt",
     "pour",
     "пызьнаны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "lose",
     "ыштыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -91038,54 +91038,54 @@ const structuralData = [
     "Udmurt",
     "kill",
     "виыны ",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "hit",
     "шуккыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "kiss",
     "чупаны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "read",
     "лыдӟыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "move#bodypart#",
     "выр(е)тыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
     "Udmurt",
     "respect",
     "гажаны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -91128,9 +91128,9 @@ const structuralData = [
     "Udmurt",
     "sympathise",
     "жаляны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -91164,9 +91164,9 @@ const structuralData = [
     "Udmurt",
     "love2",
     "яратыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -91183,7 +91183,7 @@ const structuralData = [
     "want",
     "потыны",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -91209,9 +91209,9 @@ const structuralData = [
     "Udmurt",
     "upset",
     "ӝожомытыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -91227,9 +91227,9 @@ const structuralData = [
     "Udmurt",
     "despise",
     "кулэтэм карыны",
+    "NOM",
+    "ACC",
     "TR",
-    "",
-    "",
     "TR"
   ],
   [
@@ -91255,7 +91255,7 @@ const structuralData = [
     "be_fond",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -91275,7 +91275,7 @@ const structuralData = [
     "uGEN",
     "NOM",
     "X",
-    "uGENNOM"
+    "uGEN_NOM"
   ],
   [
     "Ukrainian",
@@ -91284,7 +91284,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -91293,7 +91293,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Ukrainian",
@@ -91311,7 +91311,7 @@ const structuralData = [
     "DAT",
     "GEN",
     "XY",
-    "DATGEN"
+    "DAT_GEN"
   ],
   [
     "Ukrainian",
@@ -91320,7 +91320,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -91329,7 +91329,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -91356,7 +91356,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -91365,7 +91365,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -91374,7 +91374,7 @@ const structuralData = [
     "NOM",
     "doGEN",
     "Y",
-    "NOMdoGEN"
+    "NOM_doGEN"
   ],
   [
     "Ukrainian",
@@ -91383,7 +91383,7 @@ const structuralData = [
     "NOM",
     "uGEN",
     "Y",
-    "NOMuGEN"
+    "NOM_uGEN"
   ],
   [
     "Ukrainian",
@@ -91392,7 +91392,7 @@ const structuralData = [
     "NOM",
     "zGEN",
     "Y",
-    "NOMzGEN"
+    "NOM_zGEN"
   ],
   [
     "Ukrainian",
@@ -91419,7 +91419,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -91455,7 +91455,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Ukrainian",
@@ -91464,7 +91464,7 @@ const structuralData = [
     "NOM",
     "doGEN",
     "Y",
-    "NOMdoGEN"
+    "NOM_doGEN"
   ],
   [
     "Ukrainian",
@@ -91473,7 +91473,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -91482,7 +91482,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -91491,7 +91491,7 @@ const structuralData = [
     "NOM",
     "proACC",
     "Y",
-    "NOMproACC"
+    "NOM_proACC"
   ],
   [
     "Ukrainian",
@@ -91527,7 +91527,7 @@ const structuralData = [
     "NOM",
     "proACC",
     "Y",
-    "NOMproACC"
+    "NOM_proACC"
   ],
   [
     "Ukrainian",
@@ -91536,7 +91536,7 @@ const structuralData = [
     "NOM",
     "vidGEN",
     "Y",
-    "NOMvidGEN"
+    "NOM_vidGEN"
   ],
   [
     "Ukrainian",
@@ -91554,7 +91554,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -91572,7 +91572,7 @@ const structuralData = [
     "NOM",
     "naLOC",
     "Y",
-    "NOMnaLOC"
+    "NOM_naLOC"
   ],
   [
     "Ukrainian",
@@ -91581,7 +91581,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Ukrainian",
@@ -91599,7 +91599,7 @@ const structuralData = [
     "NOM",
     "zGEN",
     "Y",
-    "NOMzGEN"
+    "NOM_zGEN"
   ],
   [
     "Ukrainian",
@@ -91608,7 +91608,7 @@ const structuralData = [
     "uGEN",
     "NOM",
     "X",
-    "uGENNOM"
+    "uGEN_NOM"
   ],
   [
     "Ukrainian",
@@ -91671,7 +91671,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -91689,7 +91689,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -91698,7 +91698,7 @@ const structuralData = [
     "NOM",
     "proACC",
     "Y",
-    "NOMproACC"
+    "NOM_proACC"
   ],
   [
     "Ukrainian",
@@ -91725,7 +91725,7 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Ukrainian",
@@ -91743,7 +91743,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -91752,7 +91752,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -91767,10 +91767,10 @@ const structuralData = [
     "Ukrainian",
     "be_short",
     "не вистачає",
-    "NOM",
+    "DAT",
     "GEN",
     "XY",
-    "NOMGEN"
+    "DAT_GEN"
   ],
   [
     "Ukrainian",
@@ -91788,7 +91788,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Ukrainian",
@@ -91797,7 +91797,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Ukrainian",
@@ -91815,7 +91815,7 @@ const structuralData = [
     "uGEN",
     "NOM",
     "X",
-    "uGENNOM"
+    "uGEN_NOM"
   ],
   [
     "Ukrainian",
@@ -91824,7 +91824,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -91842,7 +91842,7 @@ const structuralData = [
     "NOM",
     "vidGEN",
     "Y",
-    "NOMvidGEN"
+    "NOM_vidGEN"
   ],
   [
     "Ukrainian",
@@ -91851,7 +91851,7 @@ const structuralData = [
     "NOM",
     "vidGEN",
     "Y",
-    "NOMvidGEN"
+    "NOM_vidGEN"
   ],
   [
     "Ukrainian",
@@ -91869,7 +91869,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -91923,7 +91923,7 @@ const structuralData = [
     "NOM",
     "doGEN",
     "Y",
-    "NOMdoGEN"
+    "NOM_doGEN"
   ],
   [
     "Ukrainian",
@@ -91931,7 +91931,7 @@ const structuralData = [
     "покинув",
     "NOM",
     "ACC",
-    "Y",
+    "TR",
     "TR"
   ],
   [
@@ -91949,7 +91949,7 @@ const structuralData = [
     "пам’ятає",
     "NOM",
     "ACC",
-    "Y",
+    "TR",
     "TR"
   ],
   [
@@ -91959,7 +91959,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -91977,7 +91977,7 @@ const structuralData = [
     "NOM",
     "vACC",
     "Y",
-    "NOMvACC"
+    "NOM_vACC"
   ],
   [
     "Ukrainian",
@@ -91986,7 +91986,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -91995,7 +91995,7 @@ const structuralData = [
     "NOM",
     "doGEN",
     "Y",
-    "NOMdoGEN"
+    "NOM_doGEN"
   ],
   [
     "Ukrainian",
@@ -92004,7 +92004,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -92013,7 +92013,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -92022,7 +92022,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -92049,7 +92049,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -92058,7 +92058,7 @@ const structuralData = [
     "NOM",
     "zaINS",
     "Y",
-    "NOMzaINS"
+    "NOM_zaINS"
   ],
   [
     "Ukrainian",
@@ -92067,7 +92067,7 @@ const structuralData = [
     "NOM",
     "zaINS",
     "Y",
-    "NOMzaINS"
+    "NOM_zaINS"
   ],
   [
     "Ukrainian",
@@ -92076,7 +92076,7 @@ const structuralData = [
     "NOM",
     "zGEN",
     "Y",
-    "NOMzGEN"
+    "NOM_zGEN"
   ],
   [
     "Ukrainian",
@@ -92112,7 +92112,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -92121,7 +92121,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -92139,7 +92139,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Ukrainian",
@@ -92148,7 +92148,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -92157,7 +92157,7 @@ const structuralData = [
     "NOM",
     "zINS",
     "Y",
-    "NOMzINS"
+    "NOM_zINS"
   ],
   [
     "Ukrainian",
@@ -92175,7 +92175,7 @@ const structuralData = [
     "NOM",
     "vACC",
     "Y",
-    "NOMvACC"
+    "NOM_vACC"
   ],
   [
     "Ukrainian",
@@ -92202,7 +92202,7 @@ const structuralData = [
     "NOM",
     "vLOC",
     "Y",
-    "NOMvLOC"
+    "NOM_vLOC"
   ],
   [
     "Ukrainian",
@@ -92247,7 +92247,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -92265,7 +92265,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -92274,7 +92274,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -92283,7 +92283,7 @@ const structuralData = [
     "NOM",
     "vACC",
     "Y",
-    "NOMvACC"
+    "NOM_vACC"
   ],
   [
     "Ukrainian",
@@ -92292,7 +92292,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -92310,7 +92310,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -92319,7 +92319,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -92328,7 +92328,7 @@ const structuralData = [
     "NOM",
     "zGEN",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -92346,7 +92346,7 @@ const structuralData = [
     "NOM",
     "INS",
     "Y",
-    "NOMINS"
+    "NOM_INS"
   ],
   [
     "Ukrainian",
@@ -92364,7 +92364,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -92373,7 +92373,7 @@ const structuralData = [
     "NOM",
     "naACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -92389,8 +92389,8 @@ const structuralData = [
     "marvel",
     "вразило",
     "*",
-    "",
-    "Y",
+    "*",
+    "*",
     ""
   ],
   [
@@ -92409,7 +92409,7 @@ const structuralData = [
     "NOM",
     "cerezACC",
     "Y",
-    "NOMcerezACC"
+    "NOM_cerezACC"
   ],
   [
     "Ukrainian",
@@ -92418,7 +92418,7 @@ const structuralData = [
     "NOM",
     "cerezACC",
     "Y",
-    "NOMnaACC"
+    "NOM_naACC"
   ],
   [
     "Ukrainian",
@@ -92427,7 +92427,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Ukrainian",
@@ -92436,7 +92436,7 @@ const structuralData = [
     "NOM",
     "GEN",
     "Y",
-    "NOMGEN"
+    "NOM_GEN"
   ],
   [
     "Yakut",
@@ -92445,16 +92445,16 @@ const structuralData = [
     "POSS",
     "NOM",
     "X",
-    "POSSNOM"
+    "POSS_NOM"
   ],
   [
     "Yakut",
     "have#illness#",
     "ыалдь-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Yakut",
@@ -92463,14 +92463,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "throw",
     "бырах-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92481,7 +92481,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Yakut",
@@ -92490,7 +92490,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -92499,14 +92499,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "take",
     "ыл-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92514,8 +92514,8 @@ const structuralData = [
     "Yakut",
     "see",
     "көр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92526,14 +92526,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "encounter",
     "көр-сү-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92544,14 +92544,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "win",
     "кыай-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92562,14 +92562,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "drive",
     "үүр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92577,8 +92577,8 @@ const structuralData = [
     "Yakut",
     "bend",
     "токуру-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92589,14 +92589,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "hold",
     "тут-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92604,8 +92604,8 @@ const structuralData = [
     "Yakut",
     "catch_up",
     "сит-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92613,8 +92613,8 @@ const structuralData = [
     "Yakut",
     "milk",
     "ыа-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92625,14 +92625,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "touch",
     "таарый-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92643,7 +92643,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Yakut",
@@ -92652,23 +92652,23 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Yakut",
     "think",
     "толкуй-",
     "NOM",
-    "туһунан ",
+    "tuhunan",
     "Y",
-    "NOMtuhunan "
+    "NOM_tuhunan "
   ],
   [
     "Yakut",
     "eat",
     "сиэ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92676,8 +92676,8 @@ const structuralData = [
     "Yakut",
     "fry",
     "ыһаары-лаа-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92685,8 +92685,8 @@ const structuralData = [
     "Yakut",
     "wait",
     "кэтэһ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92695,9 +92695,9 @@ const structuralData = [
     "forget",
     "умну-",
     "NOM",
-    "туһунан ",
+    "tuhunan",
     "Y",
-    "NOMtuhunan "
+    "NOM_tuhunan "
   ],
   [
     "Yakut",
@@ -92706,14 +92706,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "call",
     "ыҥыр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92724,14 +92724,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Yakut",
     "know",
     "бил-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92742,14 +92742,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "avoid",
     "куотун-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92757,8 +92757,8 @@ const structuralData = [
     "Yakut",
     "make",
     "оҥор",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92766,8 +92766,8 @@ const structuralData = [
     "Yakut",
     "make_fun",
     "күлүү гын-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92778,14 +92778,14 @@ const structuralData = [
     "NOM",
     "ADJ",
     "Y",
-    "NOMADJ"
+    "NOM_ADJ"
   ],
   [
     "Yakut",
     "look_for",
     "көрд-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92793,8 +92793,8 @@ const structuralData = [
     "Yakut",
     "paint",
     "кырааскалаа-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92802,8 +92802,8 @@ const structuralData = [
     "Yakut",
     "bite",
     "ытыр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92812,7 +92812,7 @@ const structuralData = [
     "forfeit",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -92821,7 +92821,7 @@ const structuralData = [
     "try_to_catch",
     "тут-а сат-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -92829,8 +92829,8 @@ const structuralData = [
     "Yakut",
     "break",
     "алдьап-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92841,14 +92841,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "love1",
     "тап-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92857,16 +92857,16 @@ const structuralData = [
     "wave",
     "далбаа-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Yakut",
     "dream",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -92874,8 +92874,8 @@ const structuralData = [
     "Yakut",
     "wash",
     "сууй-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92883,8 +92883,8 @@ const structuralData = [
     "Yakut",
     "put_on",
     "кэп-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92895,14 +92895,14 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Yakut",
     "punish",
     "кэһэт-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92913,23 +92913,23 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "fill#intr#",
     "туол-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Yakut",
     "find",
     "бул-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92940,14 +92940,14 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Yakut",
     "hate",
     "абааһы көр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92955,8 +92955,8 @@ const structuralData = [
     "Yakut",
     "like",
     "сөбүл-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92967,14 +92967,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "surround",
     "тулалыы-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -92985,7 +92985,7 @@ const structuralData = [
     "DAT",
     "NOM",
     "X",
-    "DATNOM"
+    "DAT_NOM"
   ],
   [
     "Yakut",
@@ -92994,14 +92994,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "open",
     "арый-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93012,7 +93012,7 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
@@ -93021,14 +93021,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "plough",
     "хорут-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93039,14 +93039,14 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOMNOM"
+    "NOM_NOM"
   ],
   [
     "Yakut",
     "cross",
     "туораа-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93054,8 +93054,8 @@ const structuralData = [
     "Yakut",
     "sing",
     "ыллаа-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93063,8 +93063,8 @@ const structuralData = [
     "Yakut",
     "write",
     "суруй-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93072,8 +93072,8 @@ const structuralData = [
     "Yakut",
     "drink",
     "ис-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93081,8 +93081,8 @@ const structuralData = [
     "Yakut",
     "melt",
     "ууллар-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93093,7 +93093,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -93102,14 +93102,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "cover",
     "саб",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93117,8 +93117,8 @@ const structuralData = [
     "Yakut",
     "remember",
     "өйд-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93129,14 +93129,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "understand",
     "өйд-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93147,16 +93147,16 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "cut_oneself",
     "(быһ-а соп-пут)",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Yakut",
@@ -93165,7 +93165,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -93174,7 +93174,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -93183,7 +93183,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -93192,14 +93192,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Yakut",
     "give_birth",
     "төрө-т-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93207,8 +93207,8 @@ const structuralData = [
     "Yakut",
     "drop",
     "түһэр",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93217,16 +93217,16 @@ const structuralData = [
     "govern",
     "салай-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Yakut",
     "miss",
     "аҕын-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93234,8 +93234,8 @@ const structuralData = [
     "Yakut",
     "follow",
     "батыс-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93246,14 +93246,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "listen",
     "иһит-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93262,7 +93262,7 @@ const structuralData = [
     "obey",
     "иһит-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -93270,8 +93270,8 @@ const structuralData = [
     "Yakut",
     "hear",
     "иһит-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93280,16 +93280,16 @@ const structuralData = [
     "mix",
     "буккуллу-",
     "NOM",
-    "кытта",
+    "kytta",
     "Y",
-    "NOMkytta"
+    "NOM_kytta"
   ],
   [
     "Yakut",
     "look",
     "кэтээ-н көр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93297,8 +93297,8 @@ const structuralData = [
     "Yakut",
     "take_off",
     "уһул-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93306,8 +93306,8 @@ const structuralData = [
     "Yakut",
     "dream#sleeping#",
     "түһээ-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93318,7 +93318,7 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Yakut",
@@ -93327,14 +93327,14 @@ const structuralData = [
     "NOM",
     "COM",
     "Y",
-    "NOMCOM"
+    "NOM_COM"
   ],
   [
     "Yakut",
     "cost",
     "*",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -93342,8 +93342,8 @@ const structuralData = [
     "Yakut",
     "shoot_at",
     "ыт-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93351,8 +93351,8 @@ const structuralData = [
     "Yakut",
     "pour",
     "кут-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93360,8 +93360,8 @@ const structuralData = [
     "Yakut",
     "lose",
     "сүт-эр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93372,14 +93372,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "kill",
     "өл-өр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93387,8 +93387,8 @@ const structuralData = [
     "Yakut",
     "hit",
     "саай-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93396,8 +93396,8 @@ const structuralData = [
     "Yakut",
     "kiss",
     "сыллаа-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93405,8 +93405,8 @@ const structuralData = [
     "Yakut",
     "read",
     "аах-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93414,8 +93414,8 @@ const structuralData = [
     "Yakut",
     "move#bodypart#",
     "хамса-т-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93423,8 +93423,8 @@ const structuralData = [
     "Yakut",
     "respect",
     "убаастаа",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93435,23 +93435,23 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "be_content",
     "киэн тутт-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Yakut",
     "fall_in_love",
     "астын-а көр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93462,14 +93462,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "sympathise",
     "аһын-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93480,7 +93480,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -93489,7 +93489,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -93498,14 +93498,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "love2",
     "сөбүл-",
     "*",
-    "",
+    "*",
     "*",
     ""
   ],
@@ -93514,16 +93514,16 @@ const structuralData = [
     "enjoy",
     "дуоһуй-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOMINSTR"
+    "NOM_INS"
   ],
   [
     "Yakut",
     "want",
     "баҕар-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93534,7 +93534,7 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
@@ -93543,14 +93543,14 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ],
   [
     "Yakut",
     "upset",
     "хомот-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93558,8 +93558,8 @@ const structuralData = [
     "Yakut",
     "marvel",
     "сөх-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93567,8 +93567,8 @@ const structuralData = [
     "Yakut",
     "despise",
     "абааһы көр-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93577,9 +93577,9 @@ const structuralData = [
     "get_upset",
     "хомой-",
     "NOM",
-    "сылтаан",
+    "syltaan",
     "Y",
-    "NOMsyltaan"
+    "NOM_syltaan"
   ],
   [
     "Yakut",
@@ -93588,14 +93588,14 @@ const structuralData = [
     "NOM",
     "DAT",
     "Y",
-    "NOMDAT"
+    "NOM_DAT"
   ],
   [
     "Yakut",
     "be_fond",
     "сөбүл-",
-    "TR",
-    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
@@ -93606,6 +93606,6 @@ const structuralData = [
     "NOM",
     "ABL",
     "Y",
-    "NOMABL"
+    "NOM_ABL"
   ]
 ];

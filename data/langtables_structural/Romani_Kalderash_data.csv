@@ -1,131 +1,131 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
-28	Romani_Kalderash	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	дукхал	ACC	NOM	X	ACCNOM							!смена ролей		
-28	Romani_Kalderash	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	сы	LOC	NOM	X	LOCNOM							посессивная конструкция		
-28	Romani_Kalderash	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	дарал	NOM	ABL	Y	NOMABL									
-28	Romani_Kalderash	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	шюдел	TR		TR	TR									
-28	Romani_Kalderash	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	арэсэл	LOC	NOM	X	LOCNOM							совпадает с достичь, но в любом случае, похоже, другая модель		
-28	Romani_Kalderash	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	мя(зо)л  	NOM	пе	Y	NOM_PE							Был еще вариант с биноминативной конструкцией		
-28	Romani_Kalderash	7	believe	X (believe) Y	верить	X (верить)Y-у	патял	NOM	DAT	Y	NOMDAT							То же, что доверять		
-28	Romani_Kalderash	8	take	X (take) Y	взять	X (брать) Y(-а)	лел	TR		TR	TR									
-28	Romani_Kalderash	9	see	X (see) Y	видеть	X (видеть) Y(-а)	дикхэл	TR		TR	TR									
-28	Romani_Kalderash	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	влиил	NOM	пе	Y	NOM_PE							заимствование из русского		
-28	Romani_Kalderash	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	дикхэлпе	NOM	INSTR	Y	NOMINS									
-28	Romani_Kalderash	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	шёлпе	NOM	андо	Y	NOM_ANDO									
-28	Romani_Kalderash	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	лел	NOM	ABL	Y	NOMABL							Глагол значит брать, но другая модель. Было еще заимствование из русского		
-28	Romani_Kalderash	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	анклел	NOM	анда	Y	NOM_ANDA									
-28	Romani_Kalderash	15	drive	X (drive) Y	гнать	X (гнать) Y-а	нашавел	TR		TR	TR							CAUS		
-28	Romani_Kalderash	16	bend	X (bend) Y	гнуть	X (гнуть) Y	бандярэл	TR		TR	TR							CAUS		
-28	Romani_Kalderash	17	tell	X (tell) Y	говорить	X (говорить) Y-у	пхенел	NOM	DAT	Y	NOMDAT							невозможна нейтрализация падежей		
-28	Romani_Kalderash	18	hold	X (hold)Y	держать	X (держать) Y(-а)	никэрэл	TR		TR	TR									
-28	Romani_Kalderash	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	дугунил	TR		TR	TR							заимствование из русского		
-28	Romani_Kalderash	20	milk	X (milk) Y	доить	X (доить) Y-а	странгол	TR		TR	TR							Есть еще страндил		
-28	Romani_Kalderash	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	арэсэл	NOM	LOC	Y	NOMLOC									
-28	Romani_Kalderash	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	азбал	TR		TR	TR							Бал еще вариант NOM_LOC (другой глагол, амисавел)		
-28	Romani_Kalderash	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	марэлпе	NOM	INSTR	Y	NOMINS									
-28	Romani_Kalderash	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	дружыл	NOM	INSTR	Y	NOMINS							заимствование из русского		
-28	Romani_Kalderash	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	гындилпе	NOM	па	Y	NOM_PA									
-28	Romani_Kalderash	26	eat	X (eat) Y	есть	X (есть) Y	хал	TR		TR	TR									
-28	Romani_Kalderash	27	fry	X (fry) Y	жарить	X (жарить) Y	пекэл	TR		TR	TR									
-28	Romani_Kalderash	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	ажюкэрэл	TR		TR	TR									
-28	Romani_Kalderash	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	быстрэл	NOM	па	Y	NOM_PA									
-28	Romani_Kalderash	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	зависил	NOM	ABL	Y	NOMABL							заимствование из русского		
-28	Romani_Kalderash	31	call	X (call) Y	звать	X (звать) Y-а	акхарэл	TR		TR	TR									
-28	Romani_Kalderash	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	знакомилпе	NOM	INSTR	Y	NOMINS							заимствование из русского		
-28	Romani_Kalderash	33	know	X (know) Y	знать 	X (знать) Y-а	жянел	TR		TR	TR									
-28	Romani_Kalderash	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	дилабал	NOM	пе	Y	NOM_PE							то же, что петь, но другая модель		
-28	Romani_Kalderash	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	нашэл	NOM	ABL	Y	NOMABL									
-28	Romani_Kalderash	36	make	X (make) Y	изготовить	X (изготовить) Y	лашярэл	TR		TR	TR									
-28	Romani_Kalderash	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		*										Были два варианта, ожин скорее дразнить (прасал, переходный), другой скорее смеяться над (асал, НОМ-АБЛ), решил оба не брать		
-28	Romani_Kalderash	38	have	X (have) Y	иметь	X (иметь) Y	сы	LOC	NOM	X	LOCNOM							‘быть’		
-28	Romani_Kalderash	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	родел	TR		TR	TR									
-28	Romani_Kalderash	40	paint	X (paint) Y	красить	X (красить) Y	макхэл	TR		TR	TR									
-28	Romani_Kalderash	41	bite	X (bite) Y	кусать	X (кусать) Y-а	дандярэл	TR		TR	TR							CAUS		
-28	Romani_Kalderash	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	хасарэл	TR		TR	TR							букв. терять, был еще вариант остаться без (ашел би, NOM GEN)		
-28	Romani_Kalderash	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	астарэл	TR		TR	TR									
-28	Romani_Kalderash	44	break	X (break) Y	ломать	X (ломать) Y	пхагэл	TR		TR	TR									
-28	Romani_Kalderash	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	НЕТ	*												
-28	Romani_Kalderash	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	пхаррол	NOM	пала	Y	NOM_PALA							сильно желать (был еще другой вариант, с TR, камел). К нашему стимулу - любить сына - это не подходит, скорее о женщине. Но другие варианты Кирилл тоже не приводил		
-28	Romani_Kalderash	47	wave	X (wave) Y	махать	X (махать) Y-ом	тринтил	NOM	INSTR	Y	NOMINS							Был еще странный вариант с косвенной основой существительного, что неождиданно учитывая то, что объект неодушевленный		
-28	Romani_Kalderash	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	НЕТ	*												
-28	Romani_Kalderash	49	wash	X (wash) Y	мыть	X (мыть) Y	халавел	TR		TR	TR									
-28	Romani_Kalderash	50	put_on	X (put_on) Y	надевать	X (надевать) Y	лел пе песте	TR		TR	TR							буквально значит брать на себя, см. такой брать (лел), был еще другой вариант		
-28	Romani_Kalderash	51	be_called	X (be_called) Y	называться	X (называться) Y	бушёл	NOM	NOM	Y	NOMNOM									
-28	Romani_Kalderash	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	НЕТ	*												
-28	Romani_Kalderash	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	хутёл	NOM	пе	Y	NOM_PE							прыгать на		
-28	Romani_Kalderash	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	пхердёл	NOM	INSTR	Y	NOMINS							был еще вариант с DIR		
-28	Romani_Kalderash	55	find	X (find) Y	находить	X (находить) Y(-а)	аракхэл	TR		TR	TR									
-28	Romani_Kalderash	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	чи арэсэл	LOC	NOM	X	LOCNOM							не хватает (управление такое же)		
-28	Romani_Kalderash	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	чи навидил	TR		TR	TR							калька с рус. ненавидеть		
-28	Romani_Kalderash	58	like	X (like) Y	нравиться	X-у (нравиться) Y	плачял	ACC	NOM	X	ACCNOM							!смена ролей		
-28	Romani_Kalderash	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	трубул	ACC	NOM	X	ACCNOM							!смена ролей		
-28	Romani_Kalderash	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	анколил	TR		TR	TR									
-28	Romani_Kalderash	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	ашел	LOC	NOM	X	LOCNOM							То же, что отстать, но другое управление		
-28	Romani_Kalderash	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	НЕТ	*										Только просто говорить (пхенел)		
-28	Romani_Kalderash	63	open	X (open) Y	открывать	X (открывать) Y	пытрэл	TR		TR	TR									
-28	Romani_Kalderash	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	чи мя(зо)л	NOM	пе	Y	NOM_PE							просто не + похож (см. соответествующи предикат)		
-28	Romani_Kalderash	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	ашел	NOM	ABL	Y	NOMABL							То же, что оставаться, но другое управление		
-28	Romani_Kalderash	66	plough	X (plough) Y	пахать	X (пахать) Y	вынавел	TR		TR	TR									
-28	Romani_Kalderash	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	кхандёл	NOM	INSTR	Y	NOMINS							Были еще варианты DIR и ABL		
-28	Romani_Kalderash	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	накхэл	TR		TR	TR									
-28	Romani_Kalderash	69	sing	X (sing) Y	петь	X (петь) Y	дилабал	TR		TR	TR									
-28	Romani_Kalderash	70	write	X (write) Y	писать	X (писать) Y	рамол	TR		TR	TR									
-28	Romani_Kalderash	71	drink	X (drink) Y	пить	X (пить) Y	пел	TR		TR	TR									
-28	Romani_Kalderash	72	melt	X (melt) Y	плавить	X (плавить) Y	билавел	TR		TR	TR							CAUS		
-28	Romani_Kalderash	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	маладёл	NOM	DAT	Y	NOMDAT									
-28	Romani_Kalderash	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	мекэл	TR		TR	TR							Был еще вариант ашявел, управление то же		
-28	Romani_Kalderash	75	cover	X (cover) Y	покрывать	X (покрывать) Y	вушяравел	TR		TR	TR									
-28	Romani_Kalderash	76	remember	X (remember) Y	помнить	X (помнить) Y-а	сэрэл	TR		TR	TR									
-28	Romani_Kalderash	77	help	X (help) Y	помочь	X (помогать) Y-у	ажютил	NOM	DAT	Y	NOMDAT							объект может быть в аккузативе		
-28	Romani_Kalderash	78	understand	X (understand) Y	понимать	X (понимать) Y	атярэл	TR		TR	TR							Был еще вариант алярэл, управление то же		
-28	Romani_Kalderash	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	дел	NOM	андо	Y	NOM_ANDO							Тот же глагол, то же управление, что ударять. В таблице Кирилла стояло анде, но, видимо, это то же, что андо		
-28	Romani_Kalderash	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	шинелпе	NOM	INS	Y	NOMINS							был еще вариант с ando		
-28	Romani_Kalderash	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	астардёл	NOM	пе	Y	NOM_PE									
-28	Romani_Kalderash	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	хасарэл	NOM	DAT	Y	NOMDAT							Терять, но другая модель		
-28	Romani_Kalderash	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	радуилпе	NOM	ABL	Y	NOMABL							заимствование из русского		
-28	Romani_Kalderash	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	дивинил	NOM	INSTR	Y	NOMINS							Бул еще вариант дел дума, то же управление		
-28	Romani_Kalderash	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	аракхавел	TR		TR	TR									
-28	Romani_Kalderash	86	drop	X (drop) Y	ронять	X (ронять) Y	перавел	TR		TR	TR							CAUS		
-28	Romani_Kalderash	87	govern	X (govern) Y	руководить	X (руководить) Y	рукавадил	NOM	пе	Y	NOM_PE							заимствование из русского		
-28	Romani_Kalderash	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	скучаил	NOM	па	Y	NOM_PA							Совершенно произвольный выбор, был еще вариант с тем же глаголом и предлогом пала, а также со сложным глаголом лел доро, при котором те же два варианта оформления второго участника, но первый участник кодируется как OBL		
-28	Romani_Kalderash	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	жял	NOM	пала	Y	NOM_PALA							"""идет за"""		
-28	Romani_Kalderash	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	улел	NOM	па	Y	NOM_PA									
-28	Romani_Kalderash	91	listen	X (listen) to Y	слушать	X (слушать) Y	ашунел	TR		TR	TR							Нет разницы с слышать		
-28	Romani_Kalderash	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	кандел о муй	*										"досл. ""слушать рот кого-то"", не береим, т.к. второ участник не является зависимым уровня клаузы"		
-28	Romani_Kalderash	93	hear	X (hear) Y	слышать	X (слышать) Y	ашунел	TR		TR	TR							Нет разницы с слушать		
-28	Romani_Kalderash	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	амисавел	NOM	INSTR	Y	NOMINS							То же, что дотронуться, но другое управление		
-28	Romani_Kalderash	95	look	X (look) at Y	смотреть	X (смотреть) на Y	дикхэл	NOM	пе	Y	NOM_PE							то же, что видеть, но другая модель		
-28	Romani_Kalderash	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	шюдел	TR		TR	TR									
-28	Romani_Kalderash	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	дичёл андо суно	DAT	NOM	X	DATNOM							"""видится во сне"". Есть еще TR для видеть во сне (дикхэл андо суно)"		
-28	Romani_Kalderash	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	сагласилпе	NOM	INSTR	Y	NOMINS							заимствование из русского		
-28	Romani_Kalderash	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	халпе	NOM	INSTR	Y	NOMINS									
-28	Romani_Kalderash	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	кэрэл	NOM	NOM	Y	NOMNOM									
-28	Romani_Kalderash	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	дел яг	NOM	андо	Y	NOM_ANDO							Был еще TR, но это означало бы, что я попал		
-28	Romani_Kalderash	102	pour	X (pour) Y	сыпать	X (сыпать) Y	шёрэл	TR		TR	TR									
-28	Romani_Kalderash	103	lose	X (lose) Y	терять	X (терять) Y	хасарэл	TR		TR	TR									
-28	Romani_Kalderash	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	тасол	NOM	андо	Y	NOM_ANDO							У Кирилла в таблице стояло анде, видимо, это то же, что андо		
-28	Romani_Kalderash	105	kill	X (kill) Y	убивать	X (убивать) Y-а	му(н)дарэл	TR		TR	TR							CAUS		
-28	Romani_Kalderash	106	hit	X (hit) Y	ударить	X (ударять) Y-а	дел	NOM	андо	Y	NOM_ANDO							"""давать в"" (У Кирилла в таблице стояло анде, это то же, что андо, но  сартиклем). Есть еще TR, но пример был с собакой, не беру. НЕсмотря даже на то, что сам Кирилл ""голосовал"" бы за тот другой глагол (марэл), потому что этот, который я беру, всегда выражает однокртаное действие. а тот переводит более точно. Но для меня однократность не страшна тут"		
-28	Romani_Kalderash	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	чюми(н)дел	TR		TR	TR							Есть еще НОМ-ДАТ, давать щеку (дел э бука)		
-28	Romani_Kalderash	108	read	X (read) Y	читать	X (читать) Y-а	динел	TR		TR	TR									
-28	Romani_Kalderash	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	миштил	NOM	INSTR	Y	NOMINS							Был еще вариант с TR		
-28	Romani_Kalderash	110	respect	X (respect) Y	уважать	X (уважать) Y-а	тхол лажяв	NOM	пе	Y	NOM_PE							"CV,""ставить стыд на кого-то""; взял его как первый, еще был просто глагол (однокоренной, лажял, букв. стыдиться) с АБЛ, а также переходное русское заимствование (уважуил)"		
-28	Romani_Kalderash	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	грецолпе	NOM	ABL	Y	NOMABL							Совпало с презирать, но пример на посуду, решил взять		
-28	Romani_Kalderash	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	мишто	DAT	пала	XY	DAT_PALA							"""хорошо"", еще был вариант с АБЛ, но там не было примера"		
-28	Romani_Kalderash	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	влюбилпе	NOM	андо	Y	NOM_ANDO							"заимствование из русского, взял его, т.к. единственный другой вариант - просто глагол любить (сильно желать, пхаролл). Кирил пишет, что это заимствование ""часто используется"""		
-28	Romani_Kalderash	114	trust	X (trust) Y	доверять	X (доверять) Y-у	патял	NOM	DAT	Y	NOMDAT							То же, что верить		
-28	Romani_Kalderash	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	мила	DAT	ABL	XY	DATABL							NV (жаль); еще есть вариант с пала		
-28	Romani_Kalderash	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завидуил	NOM	DAT	Y	NOMDAT							"заимствование из русского, взял его, хотя еще есть сложный глагол  (хол холи, досл. ""ест злость на кого-то"", NOM пе). По той причине, что CV совпадает с сердиться"		
-28	Romani_Kalderash	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	холявел	NOM	пе	Y	NOM_PE									
-28	Romani_Kalderash	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	удивилпе	NOM	ABL	Y	NOMABL							заимствование из русского		
-28	Romani_Kalderash	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	НЕТ	*												
-28	Romani_Kalderash	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	мишто	NOM	ABL	Y	NOMABL							NV (хорошо), есть еще вариант с пала		
-28	Romani_Kalderash	121	want	X (want) Y	хотеть	X (хотеть) Y-а	камел	TR		TR	TR									
-28	Romani_Kalderash	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	хал холи	NOM	пе	Y	NOM_PE							"досл. ""ест злость на кого-то"""		
-28	Romani_Kalderash	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	НЕТ	*										"Получен тот же глагол, что и для злиться, Похоже, что это все-таки скорее что-то деятельное, типа злиться, как ""обижаться"" не считаю"		
-28	Romani_Kalderash	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	холярэл	TR		TR	TR							CAUS		
-28	Romani_Kalderash	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	дилявел	NOM	ABL	Y	NOMABL							сходить с ума		
-28	Romani_Kalderash	126	despise	X (despise) Y	презирать	X (презирать) Y-а	чи навидил	NOM	ABL	Y	NOMABL							Совпало с брезговать, пример на людей, взял		
-28	Romani_Kalderash	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		*										Получен тот же перевод, что и для раздражаться (нервичилпе), засчитваю его там, здесь считаю, что перевода нет		
-28	Romani_Kalderash	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	нервичилпе	NOM	пе	Y	NOM_PE									
-28	Romani_Kalderash	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	НЕТ	*												
-28	Romani_Kalderash	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	лажял	NOM	ABL	Y	NOMABL							Совпадало с одним из переводов уважать, поэтому там взял другой вариант		
+28	Romani_Kalderash	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	дукхал	ACC	NOM	X	ACC_NOM							!смена ролей		
+28	Romani_Kalderash	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	сы	LOC	NOM	X	LOC_NOM							посессивная конструкция		
+28	Romani_Kalderash	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	дарал	NOM	ABL	Y	NOM_ABL									
+28	Romani_Kalderash	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	шюдел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	арэсэл	LOC	NOM	X	LOC_NOM							совпадает с достичь, но в любом случае, похоже, другая модель		
+28	Romani_Kalderash	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	мя(зо)л  	NOM	pe	Y	NOM_pe							Был еще вариант с биноминативной конструкцией		
+28	Romani_Kalderash	7	believe	X (believe) Y	верить	X (верить)Y-у	патял	NOM	DAT	Y	NOM_DAT							То же, что доверять		
+28	Romani_Kalderash	8	take	X (take) Y	взять	X (брать) Y(-а)	лел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	9	see	X (see) Y	видеть	X (видеть) Y(-а)	дикхэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	влиил	NOM	pe	Y	NOM_pe							заимствование из русского		
+28	Romani_Kalderash	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	дикхэлпе	NOM	INS	Y	NOM_INS									
+28	Romani_Kalderash	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	шёлпе	NOM	ando	Y	NOM_ando									
+28	Romani_Kalderash	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	лел	NOM	ABL	Y	NOM_ABL							Глагол значит брать, но другая модель. Было еще заимствование из русского		
+28	Romani_Kalderash	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	анклел	NOM	anda	Y	NOM_anda									
+28	Romani_Kalderash	15	drive	X (drive) Y	гнать	X (гнать) Y-а	нашавел	NOM	ACC	TR	TR							CAUS		
+28	Romani_Kalderash	16	bend	X (bend) Y	гнуть	X (гнуть) Y	бандярэл	NOM	ACC	TR	TR							CAUS		
+28	Romani_Kalderash	17	tell	X (tell) Y	говорить	X (говорить) Y-у	пхенел	NOM	DAT	Y	NOM_DAT							невозможна нейтрализация падежей		
+28	Romani_Kalderash	18	hold	X (hold)Y	держать	X (держать) Y(-а)	никэрэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	дугунил	NOM	ACC	TR	TR							заимствование из русского		
+28	Romani_Kalderash	20	milk	X (milk) Y	доить	X (доить) Y-а	странгол	NOM	ACC	TR	TR							Есть еще страндил		
+28	Romani_Kalderash	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	арэсэл	NOM	LOC	Y	NOM_LOC									
+28	Romani_Kalderash	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	азбал	NOM	ACC	TR	TR							Бал еще вариант NOM_LOC (другой глагол, амисавел)		
+28	Romani_Kalderash	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	марэлпе	NOM	INS	Y	NOM_INS									
+28	Romani_Kalderash	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	дружыл	NOM	INS	Y	NOM_INS							заимствование из русского		
+28	Romani_Kalderash	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	гындилпе	NOM	pa	Y	NOM_pa									
+28	Romani_Kalderash	26	eat	X (eat) Y	есть	X (есть) Y	хал	NOM	ACC	TR	TR									
+28	Romani_Kalderash	27	fry	X (fry) Y	жарить	X (жарить) Y	пекэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	ажюкэрэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	быстрэл	NOM	pa	Y	NOM_pa									
+28	Romani_Kalderash	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	зависил	NOM	ABL	Y	NOM_ABL							заимствование из русского		
+28	Romani_Kalderash	31	call	X (call) Y	звать	X (звать) Y-а	акхарэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	знакомилпе	NOM	INS	Y	NOM_INS							заимствование из русского		
+28	Romani_Kalderash	33	know	X (know) Y	знать 	X (знать) Y-а	жянел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	дилабал	NOM	pe	Y	NOM_pe							то же, что петь, но другая модель		
+28	Romani_Kalderash	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	нашэл	NOM	ABL	Y	NOM_ABL									
+28	Romani_Kalderash	36	make	X (make) Y	изготовить	X (изготовить) Y	лашярэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		*	*	*								Были два варианта, ожин скорее дразнить (прасал, переходный), другой скорее смеяться над (асал, НОМ-АБЛ), решил оба не брать		
+28	Romani_Kalderash	38	have	X (have) Y	иметь	X (иметь) Y	сы	LOC	NOM	X	LOC_NOM							‘быть’		
+28	Romani_Kalderash	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	родел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	40	paint	X (paint) Y	красить	X (красить) Y	макхэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	41	bite	X (bite) Y	кусать	X (кусать) Y-а	дандярэл	NOM	ACC	TR	TR							CAUS		
+28	Romani_Kalderash	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	хасарэл	NOM	ACC	TR	TR							букв. терять, был еще вариант остаться без (ашел би, NOM GEN)		
+28	Romani_Kalderash	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	астарэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	44	break	X (break) Y	ломать	X (ломать) Y	пхагэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	НЕТ	*	*	*										
+28	Romani_Kalderash	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	пхаррол	NOM	pala	Y	NOM_pala							сильно желать (был еще другой вариант, с TR, камел). К нашему стимулу - любить сына - это не подходит, скорее о женщине. Но другие варианты Кирилл тоже не приводил		
+28	Romani_Kalderash	47	wave	X (wave) Y	махать	X (махать) Y-ом	тринтил	NOM	INS	Y	NOM_INS							Был еще странный вариант с косвенной основой существительного, что неождиданно учитывая то, что объект неодушевленный		
+28	Romani_Kalderash	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	НЕТ	*	*	*										
+28	Romani_Kalderash	49	wash	X (wash) Y	мыть	X (мыть) Y	халавел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	50	put_on	X (put_on) Y	надевать	X (надевать) Y	лел пе песте	NOM	ACC	TR	TR							буквально значит брать на себя, см. такой брать (лел), был еще другой вариант		
+28	Romani_Kalderash	51	be_called	X (be_called) Y	называться	X (называться) Y	бушёл	NOM	NOM	Y	NOM_NOM									
+28	Romani_Kalderash	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	НЕТ	*	*	*										
+28	Romani_Kalderash	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	хутёл	NOM	pe	Y	NOM_pe							прыгать на		
+28	Romani_Kalderash	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	пхердёл	NOM	INS	Y	NOM_INS							был еще вариант с DIR		
+28	Romani_Kalderash	55	find	X (find) Y	находить	X (находить) Y(-а)	аракхэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	чи арэсэл	LOC	NOM	X	LOC_NOM							не хватает (управление такое же)		
+28	Romani_Kalderash	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	чи навидил	NOM	ACC	TR	TR							калька с рус. ненавидеть		
+28	Romani_Kalderash	58	like	X (like) Y	нравиться	X-у (нравиться) Y	плачял	ACC	NOM	X	ACC_NOM							!смена ролей		
+28	Romani_Kalderash	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	трубул	ACC	NOM	X	ACC_NOM							!смена ролей		
+28	Romani_Kalderash	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	анколил	NOM	ACC	TR	TR									
+28	Romani_Kalderash	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	ашел	LOC	NOM	X	LOC_NOM							То же, что отстать, но другое управление		
+28	Romani_Kalderash	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	НЕТ	*	*	*								Только просто говорить (пхенел)		
+28	Romani_Kalderash	63	open	X (open) Y	открывать	X (открывать) Y	пытрэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	чи мя(зо)л	NOM	pe	Y	NOM_pe							просто не + похож (см. соответествующи предикат)		
+28	Romani_Kalderash	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	ашел	NOM	ABL	Y	NOM_ABL							То же, что оставаться, но другое управление		
+28	Romani_Kalderash	66	plough	X (plough) Y	пахать	X (пахать) Y	вынавел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	кхандёл	NOM	INS	Y	NOM_INS							Были еще варианты DIR и ABL		
+28	Romani_Kalderash	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	накхэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	69	sing	X (sing) Y	петь	X (петь) Y	дилабал	NOM	ACC	TR	TR									
+28	Romani_Kalderash	70	write	X (write) Y	писать	X (писать) Y	рамол	NOM	ACC	TR	TR									
+28	Romani_Kalderash	71	drink	X (drink) Y	пить	X (пить) Y	пел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	72	melt	X (melt) Y	плавить	X (плавить) Y	билавел	NOM	ACC	TR	TR							CAUS		
+28	Romani_Kalderash	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	маладёл	NOM	DAT	Y	NOM_DAT									
+28	Romani_Kalderash	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	мекэл	NOM	ACC	TR	TR							Был еще вариант ашявел, управление то же		
+28	Romani_Kalderash	75	cover	X (cover) Y	покрывать	X (покрывать) Y	вушяравел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	76	remember	X (remember) Y	помнить	X (помнить) Y-а	сэрэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	77	help	X (help) Y	помочь	X (помогать) Y-у	ажютил	NOM	DAT	Y	NOM_DAT							объект может быть в аккузативе		
+28	Romani_Kalderash	78	understand	X (understand) Y	понимать	X (понимать) Y	атярэл	NOM	ACC	TR	TR							Был еще вариант алярэл, управление то же		
+28	Romani_Kalderash	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	дел	NOM	ando	Y	NOM_ando							Тот же глагол, то же управление, что ударять. В таблице Кирилла стояло анде, но, видимо, это то же, что андо		
+28	Romani_Kalderash	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	шинелпе	NOM	INS	Y	NOM_INS							был еще вариант с ando		
+28	Romani_Kalderash	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	астардёл	NOM	pe	Y	NOM_pe									
+28	Romani_Kalderash	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	хасарэл	NOM	DAT	Y	NOM_DAT							Терять, но другая модель		
+28	Romani_Kalderash	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	радуилпе	NOM	ABL	Y	NOM_ABL							заимствование из русского		
+28	Romani_Kalderash	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	дивинил	NOM	INS	Y	NOM_INS							Бул еще вариант дел дума, то же управление		
+28	Romani_Kalderash	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	аракхавел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	86	drop	X (drop) Y	ронять	X (ронять) Y	перавел	NOM	ACC	TR	TR							CAUS		
+28	Romani_Kalderash	87	govern	X (govern) Y	руководить	X (руководить) Y	рукавадил	NOM	pe	Y	NOM_pe							заимствование из русского		
+28	Romani_Kalderash	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	скучаил	NOM	pa	Y	NOM_pa							Совершенно произвольный выбор, был еще вариант с тем же глаголом и предлогом пала, а также со сложным глаголом лел доро, при котором те же два варианта оформления второго участника, но первый участник кодируется как OBL		
+28	Romani_Kalderash	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	жял	NOM	pala	Y	NOM_pala							"""идет за"""		
+28	Romani_Kalderash	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	улел	NOM	pa	Y	NOM_pa									
+28	Romani_Kalderash	91	listen	X (listen) to Y	слушать	X (слушать) Y	ашунел	NOM	ACC	TR	TR							Нет разницы с слышать		
+28	Romani_Kalderash	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	кандел о муй	*	*	*								"досл. ""слушать рот кого-то"", не береим, т.к. второ участник не является зависимым уровня клаузы"		
+28	Romani_Kalderash	93	hear	X (hear) Y	слышать	X (слышать) Y	ашунел	NOM	ACC	TR	TR							Нет разницы с слушать		
+28	Romani_Kalderash	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	амисавел	NOM	INS	Y	NOM_INS							То же, что дотронуться, но другое управление		
+28	Romani_Kalderash	95	look	X (look) at Y	смотреть	X (смотреть) на Y	дикхэл	NOM	pe	Y	NOM_pe							то же, что видеть, но другая модель		
+28	Romani_Kalderash	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	шюдел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	дичёл андо суно	DAT	NOM	X	DAT_NOM							"""видится во сне"". Есть еще TR для видеть во сне (дикхэл андо суно)"		
+28	Romani_Kalderash	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	сагласилпе	NOM	INS	Y	NOM_INS							заимствование из русского		
+28	Romani_Kalderash	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	халпе	NOM	INS	Y	NOM_INS									
+28	Romani_Kalderash	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	кэрэл	NOM	NOM	Y	NOM_NOM									
+28	Romani_Kalderash	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	дел яг	NOM	ando	Y	NOM_ando							Был еще TR, но это означало бы, что я попал		
+28	Romani_Kalderash	102	pour	X (pour) Y	сыпать	X (сыпать) Y	шёрэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	103	lose	X (lose) Y	терять	X (терять) Y	хасарэл	NOM	ACC	TR	TR									
+28	Romani_Kalderash	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	тасол	NOM	ando	Y	NOM_ando							У Кирилла в таблице стояло анде, видимо, это то же, что андо		
+28	Romani_Kalderash	105	kill	X (kill) Y	убивать	X (убивать) Y-а	му(н)дарэл	NOM	ACC	TR	TR							CAUS		
+28	Romani_Kalderash	106	hit	X (hit) Y	ударить	X (ударять) Y-а	дел	NOM	ando	Y	NOM_ando							"""давать в"" (У Кирилла в таблице стояло анде, это то же, что андо, но  сартиклем). Есть еще TR, но пример был с собакой, не беру. НЕсмотря даже на то, что сам Кирилл ""голосовал"" бы за тот другой глагол (марэл), потому что этот, который я беру, всегда выражает однокртаное действие. а тот переводит более точно. Но для меня однократность не страшна тут"		
+28	Romani_Kalderash	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	чюми(н)дел	NOM	ACC	TR	TR							Есть еще НОМ-ДАТ, давать щеку (дел э бука)		
+28	Romani_Kalderash	108	read	X (read) Y	читать	X (читать) Y-а	динел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	миштил	NOM	INS	Y	NOM_INS							Был еще вариант с TR		
+28	Romani_Kalderash	110	respect	X (respect) Y	уважать	X (уважать) Y-а	тхол лажяв	NOM	pe	Y	NOM_pe							"CV,""ставить стыд на кого-то""; взял его как первый, еще был просто глагол (однокоренной, лажял, букв. стыдиться) с АБЛ, а также переходное русское заимствование (уважуил)"		
+28	Romani_Kalderash	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	грецолпе	NOM	ABL	Y	NOM_ABL							Совпало с презирать, но пример на посуду, решил взять		
+28	Romani_Kalderash	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	мишто	DAT	pala	XY	DAT_pala							"""хорошо"", еще был вариант с АБЛ, но там не было примера"		
+28	Romani_Kalderash	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	влюбилпе	NOM	ando	Y	NOM_ando							"заимствование из русского, взял его, т.к. единственный другой вариант - просто глагол любить (сильно желать, пхаролл). Кирил пишет, что это заимствование ""часто используется"""		
+28	Romani_Kalderash	114	trust	X (trust) Y	доверять	X (доверять) Y-у	патял	NOM	DAT	Y	NOM_DAT							То же, что верить		
+28	Romani_Kalderash	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	мила	DAT	ABL	XY	DAT_ABL							NV (жаль); еще есть вариант с пала		
+28	Romani_Kalderash	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завидуил	NOM	DAT	Y	NOM_DAT							"заимствование из русского, взял его, хотя еще есть сложный глагол  (хол холи, досл. ""ест злость на кого-то"", NOM пе). По той причине, что CV совпадает с сердиться"		
+28	Romani_Kalderash	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	холявел	NOM	pe	Y	NOM_pe									
+28	Romani_Kalderash	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	удивилпе	NOM	ABL	Y	NOM_ABL							заимствование из русского		
+28	Romani_Kalderash	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	НЕТ	*	*	*										
+28	Romani_Kalderash	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	мишто	NOM	ABL	Y	NOM_ABL							NV (хорошо), есть еще вариант с пала		
+28	Romani_Kalderash	121	want	X (want) Y	хотеть	X (хотеть) Y-а	камел	NOM	ACC	TR	TR									
+28	Romani_Kalderash	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	хал холи	NOM	pe	Y	NOM_pe							"досл. ""ест злость на кого-то"""		
+28	Romani_Kalderash	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	НЕТ	*	*	*								"Получен тот же глагол, что и для злиться, Похоже, что это все-таки скорее что-то деятельное, типа злиться, как ""обижаться"" не считаю"		
+28	Romani_Kalderash	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	холярэл	NOM	ACC	TR	TR							CAUS		
+28	Romani_Kalderash	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	дилявел	NOM	ABL	Y	NOM_ABL							сходить с ума		
+28	Romani_Kalderash	126	despise	X (despise) Y	презирать	X (презирать) Y-а	чи навидил	NOM	ABL	Y	NOM_ABL							Совпало с брезговать, пример на людей, взял		
+28	Romani_Kalderash	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		*	*	*								Получен тот же перевод, что и для раздражаться (нервичилпе), засчитваю его там, здесь считаю, что перевода нет		
+28	Romani_Kalderash	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	нервичилпе	NOM	pe	Y	NOM_pe									
+28	Romani_Kalderash	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	НЕТ	*	*	*										
+28	Romani_Kalderash	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	лажял	NOM	ABL	Y	NOM_ABL							Совпадало с одним из переводов уважать, поэтому там взял другой вариант		
