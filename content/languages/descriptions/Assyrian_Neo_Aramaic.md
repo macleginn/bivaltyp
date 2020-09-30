@@ -53,7 +53,7 @@ The two variants of the transitive construction — with and without object inde
 
 Non-core arguments are typically flagged by prepositions. Some non-core arguments have the status represented as "BARE", see (Say, in prep.) for details.
 
-## Case system
+### Case system
 There is no morphological case on nouns.
 
 ## Verb lemmas
