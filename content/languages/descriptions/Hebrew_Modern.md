@@ -39,7 +39,7 @@ are in (1) and (2).
 
 Non-core arguments are typically flagged by prepositions.
 
-## Case system
+### Case system
 There is no morphological case on nouns.
 
 ## Verb lemmas
