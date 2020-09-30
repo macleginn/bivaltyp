@@ -39,7 +39,7 @@ clauses with and without gender indexing can be found in (1) and (2).
 
 Non-core arguments are flagged by oblique case markers.
 
-## Case system
+### Case system
 There are 21 cases (including locative cases that express both localization and direction).
 
 ## Verb lemmas
