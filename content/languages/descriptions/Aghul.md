@@ -33,7 +33,7 @@ Case marking displays the ergative-absolutive alignment. In the basic transitive
 
 Non-core arguments are flagged by oblique case markers or, rarely, by postpositions (in combination with the genitive case).
 
-## Case system
+### Case system
 There are 5 non-locative cases: absolutive, ergative, dative, genitive and comitative. The system of locative cases consists of two layers: 7 localizations (IN 'inside (a container)', INTER 'between, in a substance', ANTE 'in front', APUD 'at, near', POST 'behind', SUPER 'on', SUB/CONT 'under, in contact with') and 3 directionals (the unmarked essive, lative and elative), which yields 21 combinations. Locative cases have extended non-locative functions. 
 
 ## Verb lemmas
