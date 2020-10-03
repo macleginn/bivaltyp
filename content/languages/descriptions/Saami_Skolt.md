@@ -10,7 +10,7 @@ The data were obtained in {{ data_collection_year }} from a 80-year-old speaker 
 > Shagal, Ksenia & Alena Blinova. {{ last_database_release_year }}. Bivalent patterns in {{ language_external}}. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Data first published on {{ initial_release_date }}; last revised in version {{ version }}.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
 
 ## Basic info
-- Coordinates. Latitude: {{ latitude }}; longitude: {{ longitude }}.
+- Coordinates. {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}
 
