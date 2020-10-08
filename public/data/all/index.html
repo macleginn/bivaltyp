@@ -184,7 +184,11 @@
             currentDf = currentDf.map(row => row.set('glosses_ru', addSmallCaps(row.get('glosses_ru'))));
 
         let columns = cols.map(
-            colname => colname === 'glosses_en' || colname === 'glosses_ru' || colname === 'language_link' || colname === 'predicate_link' ?
+            colname => colname === 'glosses_en' ||
+                       colname === 'glosses_ru' ||
+                       colname === 'language_link' ||
+                       colname === 'predicate_link' ||
+                       colname === 'comments' ?
                 {renderer: 'html'} :
                 {renderer: 'text'}
             );
