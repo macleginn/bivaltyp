@@ -77,7 +77,7 @@ const languageData = [
     0,
     "65%",
     1.452694137,
-    "Paraguayan Guarani"
+    "Paraguayan Guaraní"
   ],
   [
     4,
@@ -1608,8 +1608,8 @@ const languageData = [
     "Europe",
     "Uralic",
     "Saami",
-    68.83,
-    29.72,
+    69.52,
+    28.63,
     17,
     67,
     4,
