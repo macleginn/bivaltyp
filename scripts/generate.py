@@ -128,6 +128,12 @@ def pred_link(tup):
     return a
 
 
+def generate_map_link(language):
+    lat = LANGUAGE_META.loc[language]['latitude']
+    lon = LANGUAGE_META.loc[language]['longitude']
+    return f'<a href="{{{{ site_url_j }}}}/languages/mapview/">{lat}, {lon}</a>'
+
+
 def render_template(txt, language):
     """
     This function processes the project-specific
@@ -156,7 +162,13 @@ def render_template(txt, language):
             replacement_dict[
                 hl.group(0)
             ] = str(LANGUAGE_META.loc[language][key])
+        elif key == 'coord_map_link':
+            # Generate a link to the maps page with coordinates as text.
+            replacement_dict[hl.group(0)] = generate_map_link(language)
     result = txt
+
+
+
     # Replace keys from longest to shortest
     # to obviate substring problems.
     tuples = sorted(replacement_dict.items(),
