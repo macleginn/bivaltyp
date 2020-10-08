@@ -73,4 +73,4 @@ def xml2str(tree):
         ET.tostring(tree, method='html', encoding='unicode')
     ).toprettyxml(
         indent='    '
-    ).replace('<?xml version="1.0" ?>', '')
+    ).replace('<?xml version="1.0" ?>', '').replace('&lt;i&gt;', '<i>').replace('&lt;/i&gt;', '</i>')
