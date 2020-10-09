@@ -10,7 +10,9 @@ The original Russian version of the questionnaire can be accessed [here](https:/
 {{ russian_citation_button }}
 ## Questionnaire
 1. [‘feel pain’]{{ predicate:feel_pain }}
+
 P. has a headache.
+
 2. [‘have (illness)’]{{ predicate:have#illness# }}
 P. has the flu.
 3. [‘be afraid’]{{ predicate:be_afraid }}
