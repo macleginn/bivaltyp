@@ -118,7 +118,7 @@ def lang_link(lang_name, get_text=False):
         'href': '{{ site_url_j }}/languages/descriptions/' + lang_name + '.html'
     })
     a.text = LANG_EXTERNAL[lang_name]
-    return xml2str(a) if get_text else a
+    return xml2str(a).strip() if get_text else a
 
 
 def pred_link(tup, get_text=False):

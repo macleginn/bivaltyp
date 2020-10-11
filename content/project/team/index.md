@@ -52,7 +52,7 @@ E-mail: (serjozhka /at/ yahoo /dot/ com)
 
 Anna Alexandrova: {{ language:Italian }}  
 Ekaterina Aplonova: {{ language:Goo }}  
-Peter Arkadiev:  {{ language:Abaza }}, {{ language:Adyghe }}  
+Peter Arkadiev: {{ language:Abaza }}, {{ language:Adyghe }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
