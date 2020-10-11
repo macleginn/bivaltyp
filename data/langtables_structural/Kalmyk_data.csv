@@ -59,7 +59,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 14	Kalmyk	58	like	X (like) Y	нравиться	X-у (нравиться) Y	taasə-gdə	DAT	NOM	X	DAT_NOM							PASS. Материалы. Это тот же глагол, что 129 (симпатизировать), тот же перевод прямо.
 14	Kalmyk	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	kerg-tä	DAT	NOM	X	DAT_NOM							NV. Материалы
 14	Kalmyk	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	tögäl	NOM	ACC	TR	TR							Материалы
-14	Kalmyk	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	üld	DAT	NOM	Y	DATNOM_							Материалы
+14	Kalmyk	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	üld	DAT	NOM	X	DAT_NOM							Материалы
 14	Kalmyk	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	xärü ög	NOM	DAT	Y	NOM_DAT							CV. Обратно дать
 14	Kalmyk	63	open	X (open) Y	открывать	X (открывать) Y	sek	NOM	ACC	TR	TR							Материалы
 14	Kalmyk	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	jilʁər	NOM	ABL	Y	NOM_ABL							Материалы

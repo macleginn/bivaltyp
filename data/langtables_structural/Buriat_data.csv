@@ -1,9 +1,9 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
-52	Buriat	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	үбдэ-	GEN	NOM	Х	GEN_NOM									
+52	Buriat	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	үбдэ-	GEN	NOM	X	GEN_NOM									
 52	Buriat	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	дара-гд-	NOM	DAT	Y	NOM_DAT							Одолеть-PASS. Это не первая, а третья предложенная конструкция, но единственная, где есть название болезни как актант		
 52	Buriat	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	ай-	NOM	ABL	Y	NOM_ABL									
 52	Buriat	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	шүдэ-	NOM	ACC	TR	TR									
-52	Buriat	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	хүртэ-	DAT	NOM	Х	DAT_NOM									
+52	Buriat	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	хүртэ-	DAT	NOM	X	DAT_NOM									
 52	Buriat	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	адли	NOM	DAT	Y	NOM_DAT							NV. Вариант: NOM DAT		
 52	Buriat	7	believe	X (believe) Y	верить	X (верить)Y-у	этигэ-	NOM	DAT	Y	NOM_DAT									
 52	Buriat	8	take	X (take) Y	взять	X (брать) Y(-а)	аба-	NOM	ACC	TR	TR									
@@ -36,7 +36,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 52	Buriat	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	холуур  яба-	NOM	COM	Y	NOM_COM							"CV. Буквально ""Далеко ходит"""		
 52	Buriat	36	make	X (make) Y	изготовить	X (изготовить) Y	хэ-	NOM	ACC	TR	TR									
 52	Buriat	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	наадал-	NOM	ACC	TR	TR									
-52	Buriat	38	have	X (have) Y	иметь	X (иметь) Y	бии	DAT	NOM	Х	DAT_NOM									
+52	Buriat	38	have	X (have) Y	иметь	X (иметь) Y	бии	DAT	NOM	X	DAT_NOM									
 52	Buriat	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	бэдэр-	NOM	ACC	TR	TR									
 52	Buriat	40	paint	X (paint) Y	красить	X (красить) Y	шэрдэ-	NOM	ACC	TR	TR									
 52	Buriat	41	bite	X (bite) Y	кусать	X (кусать) Y-а	хаза-	NOM	ACC	TR	TR									
@@ -54,12 +54,12 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 52	Buriat	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	аhа-	NOM	DAT	Y	NOM_DAT									
 52	Buriat	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	дүүрэ-	NOM	INSTR	Y	NOM_INSTR									
 52	Buriat	55	find	X (find) Y	находить	X (находить) Y(-а)	оло-	NOM	ACC	TR	TR									
-52	Buriat	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	дута-	DAT	NOM	Х	DAT_NOM									
+52	Buriat	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	дута-	DAT	NOM	X	DAT_NOM									
 52	Buriat	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	дура-гүй	NOM	DAT	Y	NOM_DAT							"NV. ""любовь-CAR"""		
-52	Buriat	58	like	X (like) Y	нравиться	X-у (нравиться) Y	гоё	DAT	NOM	Х	DAT_NOM							"NV. ""Красивый"""		
-52	Buriat	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	хэрэг-тэй	DAT	NOM	Х	DAT_NOM							"NV. ""нужда-COM"""		
+52	Buriat	58	like	X (like) Y	нравиться	X-у (нравиться) Y	гоё	DAT	NOM	X	DAT_NOM							"NV. ""Красивый"""		
+52	Buriat	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	хэрэг-тэй	DAT	NOM	X	DAT_NOM							"NV. ""нужда-COM"""		
 52	Buriat	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	тойро	NOM	ACC	TR	TR							"Вариант: ""город окружен (PASS) стенами"" (NOM INSTR)"		
-52	Buriat	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	үлэ-	DAT	NOM	Х	DAT_NOM									
+52	Buriat	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	үлэ-	DAT	NOM	X	DAT_NOM									
 52	Buriat	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	харюуса-	NOM	DAT	Y	NOM_DAT									
 52	Buriat	63	open	X (open) Y	открывать	X (открывать) Y	тайла-	NOM	ACC	TR	TR							То же, что 96 (снимать (рубашку))		
 52	Buriat	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	ондоо	NOM	ABL	Y	NOM_ABL							"NV. ""Другой"""		
@@ -95,7 +95,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 52	Buriat	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	худха-	NOM	COM	Y	NOM_COM									
 52	Buriat	95	look	X (look) at Y	смотреть	X (смотреть) на Y	хара-	NOM	ACC	TR	TR							То же, что 9 (видеть)		
 52	Buriat	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	тайла-	NOM	ACC	TR	TR							То же, что 63 (открывать)		
-52	Buriat	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	зүүдэн-дэ   хара-гда-	DAT	NOM	Х	DAT_NOM							"CV. ""во сне видится"""		
+52	Buriat	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	зүүдэн-дэ   хара-гда-	DAT	NOM	X	DAT_NOM							"CV. ""во сне видится"""		
 52	Buriat	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	ойлголсо-	NOM	COM	Y	NOM_COM									
 52	Buriat	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	хэрэлдэ-	NOM	COM	Y	NOM_COM							RECP		
 52	Buriat	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	сэн-тэй	NOM	NOM	Y	NOM_NOM							"NV. ""цена-COM"""		

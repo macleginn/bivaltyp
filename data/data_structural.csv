@@ -1559,11 +1559,11 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 74	128	се ядосва	SBJ	DAT(na)	Y	SBJ_DAT(na)
 74	129	симпатизира	SBJ	DAT(na)	Y	SBJ_DAT(na)
 74	130	се притеснява	SBJ	ot	Y	SBJ_ot
-52	1	үбдэ-	GEN	NOM	Х	GEN_NOM
+52	1	үбдэ-	GEN	NOM	X	GEN_NOM
 52	2	дара-гд-	NOM	DAT	Y	NOM_DAT
 52	3	ай-	NOM	ABL	Y	NOM_ABL
 52	4	шүдэ-	NOM	ACC	TR	TR
-52	5	хүртэ-	DAT	NOM	Х	DAT_NOM
+52	5	хүртэ-	DAT	NOM	X	DAT_NOM
 52	6	адли	NOM	DAT	Y	NOM_DAT
 52	7	этигэ-	NOM	DAT	Y	NOM_DAT
 52	8	аба-	NOM	ACC	TR	TR
@@ -1596,7 +1596,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	35	холуур  яба-	NOM	COM	Y	NOM_COM
 52	36	хэ-	NOM	ACC	TR	TR
 52	37	наадал-	NOM	ACC	TR	TR
-52	38	бии	DAT	NOM	Х	DAT_NOM
+52	38	бии	DAT	NOM	X	DAT_NOM
 52	39	бэдэр-	NOM	ACC	TR	TR
 52	40	шэрдэ-	NOM	ACC	TR	TR
 52	41	хаза-	NOM	ACC	TR	TR
@@ -1614,12 +1614,12 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	53	аhа-	NOM	DAT	Y	NOM_DAT
 52	54	дүүрэ-	NOM	INSTR	Y	NOM_INSTR
 52	55	оло-	NOM	ACC	TR	TR
-52	56	дута-	DAT	NOM	Х	DAT_NOM
+52	56	дута-	DAT	NOM	X	DAT_NOM
 52	57	дура-гүй	NOM	DAT	Y	NOM_DAT
-52	58	гоё	DAT	NOM	Х	DAT_NOM
-52	59	хэрэг-тэй	DAT	NOM	Х	DAT_NOM
+52	58	гоё	DAT	NOM	X	DAT_NOM
+52	59	хэрэг-тэй	DAT	NOM	X	DAT_NOM
 52	60	тойро	NOM	ACC	TR	TR
-52	61	үлэ-	DAT	NOM	Х	DAT_NOM
+52	61	үлэ-	DAT	NOM	X	DAT_NOM
 52	62	харюуса-	NOM	DAT	Y	NOM_DAT
 52	63	тайла-	NOM	ACC	TR	TR
 52	64	ондоо	NOM	ABL	Y	NOM_ABL
@@ -1655,7 +1655,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	94	худха-	NOM	COM	Y	NOM_COM
 52	95	хара-	NOM	ACC	TR	TR
 52	96	тайла-	NOM	ACC	TR	TR
-52	97	зүүдэн-дэ   хара-гда-	DAT	NOM	Х	DAT_NOM
+52	97	зүүдэн-дэ   хара-гда-	DAT	NOM	X	DAT_NOM
 52	98	ойлголсо-	NOM	COM	Y	NOM_COM
 52	99	хэрэлдэ-	NOM	COM	Y	NOM_COM
 52	100	сэн-тэй	NOM	NOM	Y	NOM_NOM
@@ -2519,7 +2519,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 79	48	пикри-ик1в-ил-ца=AGR	ABS	SUPLAT.CONT	Y	ABS_SUPLAT.CONT
 79	49	AGR=ирц-иб	ERG	ABS	TR	TR
 79	50	чи-агь-ур	ERG	ABS	TR	TR
-79	51	AGR=ик1в-ар	SUPLAT	ABS(NO.AGR)	X	SUPLAT_ABS(NO.AGR)
+79	51	AGR=ик1в-ар	SUPLAT	ABS(NO.AGR)	XY	SUPLAT_ABS(NO.AGR)
 79	52	AGR=ит-иб	*	*	*	
 79	53	чи=AGR=Ухъ-ун	ABS	SUPLAT	Y	ABS_SUPLAT
 79	54	AGR=иц1-иб	ABS	GEN	Y	ABS_GEN
@@ -3379,11 +3379,11 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 55	128	тыкӯл-	NOM	ALL	Y	NOM_ALL
 55	129	элэксий-	NOM	ACC	TR	TR
 55	130	халдят-ча-	NOM	ABL	Y	NOM_ABL
-66	1	särkeä	ADE	PART	X	ADE_PART
+66	1	särkeä	ADE	PART	XY	ADE_PART
 66	2	olla 	ADE	NOM	X	ADE_NOM
 66	3	pelätä	NOM	PART	Y	NOM_PART
 66	4	heittää	NOM	GEN~NOM	TR	TR
-66	5	tarpeeksi	ADE	PART	X	ADE_PART
+66	5	tarpeeksi	ADE	PART	XY	ADE_PART
 66	6	näköinen	NOM	GEN	Y	NOM_GEN
 66	7	uskoa 	NOM	PART	Y	NOM_PART
 66	8	ottaa 	NOM	GEN~NOM	TR	TR
@@ -4551,112 +4551,112 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 21	130		NOM	giaACC	Y	NOM_giaACC
 3	1		*	*	*	
 3	2		*	*	*	
-3	3		ACT	gui		ACT_gui
-3	4		ACT	INACT		TR
-3	5		INACT	pe		INACT_pe
+3	3		ACT	gui	Y	ACT_gui
+3	4		ACT	INACT	TR	TR
+3	5		INACT	pe	X	INACT_pe
 3	6		*	*	*	
-3	7		ACT	rehe		ACT_rehe
-3	8		ACT	INACT		TR
-3	9		ACT	INACT		TR
+3	7		ACT	rehe	Y	ACT_rehe
+3	8		ACT	INACT	TR	TR
+3	9		ACT	INACT	TR	TR
 3	10		*	*	*	
-3	11		ACT	INACT		TR
-3	12		ACT	pe(loc)		ACT_pe(loc)
+3	11		ACT	INACT	TR	TR
+3	12		ACT	pe(loc)	Y	ACT_pe(loc)
 3	13		*	*	*	
-3	14		ACT	gui		ACT_gui
-3	15		ACT	INACT		TR
+3	14		ACT	gui	Y	ACT_gui
+3	15		ACT	INACT	TR	TR
 3	16		*	*	*	
 3	17		*	*	*	
-3	18		ACT	INACT		TR
-3	19		ACT	INACT		TR
-3	20		ACT	INACT		TR
-3	21		ACT	INACT		TR
-3	22		ACT	INACT		TR
-3	23		ACT	ndive		ACT_ndive
+3	18		ACT	INACT	TR	TR
+3	19		ACT	INACT	TR	TR
+3	20		ACT	INACT	TR	TR
+3	21		ACT	INACT	TR	TR
+3	22		ACT	INACT	TR	TR
+3	23		ACT	ndive	Y	ACT_ndive
 3	24		*	*	*	
 3	25		*	*	*	
-3	26		ACT	INACT		TR
+3	26		ACT	INACT	TR	TR
 3	27		*	*	*	
-3	28		ACT	INACT		TR
-3	29		INACT	gui		INACT_gui
-3	30		ACT	rehe		ACT_rehe
-3	31		ACT	INACT		TR
+3	28		ACT	INACT	TR	TR
+3	29		INACT	gui	X	INACT_gui
+3	30		ACT	rehe	Y	ACT_rehe
+3	31		ACT	INACT	TR	TR
 3	32		*	*	*	
-3	33		ACT	INACT		TR
+3	33		ACT	INACT	TR	TR
 3	34		*	*	*	
 3	35		*	*	*	
-3	36		ACT	INACT		TR
+3	36		ACT	INACT	TR	TR
 3	37		*	*	*	
-3	38		ACT	INACT		TR
-3	39		ACT	INACT		TR
+3	38		ACT	INACT	TR	TR
+3	39		ACT	INACT	TR	TR
 3	40		*	*	*	
-3	41		ACT	INACT		TR
+3	41		ACT	INACT	TR	TR
 3	42		*	*	*	
 3	43		*	*	*	
-3	44		ACT	INACT		TR
-3	45		ACT	INACT		TR
-3	46		ACT	INACT		TR
+3	44		ACT	INACT	TR	TR
+3	45		ACT	INACT	TR	TR
+3	46		ACT	INACT	TR	TR
 3	47		*	*	*	
 3	48		*	*	*	
 3	49		*	*	*	
-3	50		ACT	INACT		TR
-3	51		ACT	rupi		ACT_rupi
-3	52		ACT	INACT		TR
-3	53		ACT	INACT		TR
+3	50		ACT	INACT	TR	TR
+3	51		ACT	rupi	Y	ACT_rupi
+3	52		ACT	INACT	TR	TR
+3	53		ACT	INACT	TR	TR
 3	54		*	*	*	
-3	55		ACT	INACT		TR
-3	56		INACT	ZERO		INACT_ZERO
+3	55		ACT	INACT	TR	TR
+3	56		INACT	ZERO	X	INACT_ZERO
 3	57		*	*	*	
 3	58		*	*	*	
-3	59		ACT	re		ACT_re
+3	59		ACT	re	Y	ACT_re
 3	60		*	*	*	
-3	61		ACT	pe		ACT_pe
-3	62		ACT	INACT		TR
+3	61		ACT	pe	Y	ACT_pe
+3	62		ACT	INACT	TR	TR
 3	63		*	*	*	
 3	64		*	*	*	
 3	65		*	*	*	
 3	66		*	*	*	
 3	67		*	*	*	
 3	68		*	*	*	
-3	69		ACT	INACT		TR
-3	70		ACT	INACT		TR
-3	71		ACT	INACT		TR
+3	69		ACT	INACT	TR	TR
+3	70		ACT	INACT	TR	TR
+3	71		ACT	INACT	TR	TR
 3	72		*	*	*	
 3	73		*	*	*	
 3	74		*	*	*	
 3	75		*	*	*	
-3	76		INACT	rehe		INACT_rehe
-3	77		ACT	pe		ACT_pe
-3	78		ACT	INACT		TR
-3	79		ACT	pe(loc)		ACT_pe(loc)
+3	76		INACT	rehe	X	INACT_rehe
+3	77		ACT	pe	Y	ACT_pe
+3	78		ACT	INACT	TR	TR
+3	79		ACT	pe(loc)	Y	ACT_pe(loc)
 3	80		*	*	*	
 3	81		*	*	*	
 3	82		*	*	*	
 3	83		*	*	*	
-3	84		ACT	ndive		ACT_ndive
+3	84		ACT	ndive	Y	ACT_ndive
 3	85		*	*	*	
 3	86		*	*	*	
-3	87		ACT	INACT		TR
-3	88		ACT	INACT		TR
+3	87		ACT	INACT	TR	TR
+3	88		ACT	INACT	TR	TR
 3	89		*	*	*	
 3	90		*	*	*	
-3	91		ACT	INACT		TR
+3	91		ACT	INACT	TR	TR
 3	92		*	*	*	
-3	93		ACT	INACT		TR
+3	93		ACT	INACT	TR	TR
 3	94		*	*	*	
-3	95		ACT	re		ACT_re
-3	96		ACT	INACT		TR
+3	95		ACT	re	Y	ACT_re
+3	96		ACT	INACT	TR	TR
 3	97		*	*	*	
-3	98		ACT	pe		ACT_pe
-3	99		ACT	ndive		ACT_ndive
+3	98		ACT	pe	Y	ACT_pe
+3	99		ACT	ndive	Y	ACT_ndive
 3	100		*	*	*	
-3	101		ACT	re		ACT_re
+3	101		ACT	re	Y	ACT_re
 3	102		*	*	*	
 3	103		*	*	*	
 3	104		*	*	*	
 3	105		*	*	*	
 3	106		*	*	*	
-3	107		ACT	INACT		TR
-3	108		ACT	INACT		TR
+3	107		ACT	INACT	TR	TR
+3	108		ACT	INACT	TR	TR
 3	109		*	*	*	
 3	110		*	*	*	
 3	111		*	*	*	
@@ -4679,136 +4679,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 3	128		*	*	*	
 3	129		*	*	*	
 3	130		*	*	*	
-3	1					
-3	2					
-3	3		act	gui		actgui
-3	4		TR			TR
-3	5		inact	pe		inactpe
-3	6					
-3	7		act	rehe		actrehe
-3	8		TR			TR
-3	9		TR			TR
-3	10					
-3	11		TR			TR
-3	12		act	pe (loc)		actpe(loc)
-3	13					
-3	14		act	gui		actgui
-3	15		TR			TR
-3	16					
-3	17					
-3	18		TR			TR
-3	19		TR			TR
-3	20		TR			TR
-3	21		TR			TR
-3	22		TR			TR
-3	23		act	ndive		actndive
-3	24					
-3	25					
-3	26		TR			TR
-3	27					
-3	28		TR			TR
-3	29		inact	gui		inactgui
-3	30		act	rehe		actrehe
-3	31		TR			TR
-3	32					
-3	33		TR			TR
-3	34					
-3	35					
-3	36		TR			TR
-3	37					
-3	38		TR			TR
-3	39		TR			TR
-3	40					
-3	41		TR			TR
-3	42					
-3	43					
-3	44		TR			TR
-3	45		TR			TR
-3	46		TR			TR
-3	47					
-3	48					
-3	49					
-3	50		TR			TR
-3	51		act	rupi		actrupi
-3	52		TR			TR
-3	53		TR			TR
-3	54					
-3	55		TR			TR
-3	56		inact	0		inact0
-3	57					
-3	58					
-3	59		act	re		actre
-3	60					
-3	61		act	pe		actpe
-3	62		TR			TR
-3	63					
-3	64					
-3	65					
-3	66					
-3	67					
-3	68					
-3	69		TR			TR
-3	70		TR			TR
-3	71		TR			TR
-3	72					
-3	73					
-3	74					
-3	75					
-3	76		inact	rehe		inactrehe
-3	77		act	pe		actpe
-3	78		TR			TR
-3	79		act	pe (loc)		actpe(loc)
-3	80					
-3	81					
-3	82					
-3	83					
-3	84		act	ndive		actndive
-3	85					
-3	86					
-3	87		TR			TR
-3	88		TR			TR
-3	89					
-3	90					
-3	91		TR			TR
-3	92					
-3	93		TR			TR
-3	94					
-3	95		act	re		actre
-3	96		TR			TR
-3	97					
-3	98		act	pe		actpe
-3	99		act	ndive		actndive
-3	100					
-3	101		act	re		actre
-3	102					
-3	103					
-3	104					
-3	105					
-3	106					
-3	107		TR			TR
-3	108		TR			TR
-3	109					
-3	110					
-3	111					
-3	112					
-3	113					
-3	114					
-3	115					
-3	116					
-3	117					
-3	118					
-3	119					
-3	120					
-3	121					
-3	122					
-3	123					
-3	124					
-3	125					
-3	126					
-3	127					
-3	128					
-3	129					
-3	130					
 18	1		POSS	HEAD	X	POSS_HEAD
 18	2		ba	SBJ	X	ba_SBJ
 18	3		SBJ	lee	Y	SBJ_lee
@@ -5124,10 +4994,10 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 64	53	réðst	NOM	aACC	Y	NOM_aACC
 64	54	fylltist	NOM	afDAT	Y	NOM_afDAT
 64	55	fann 	NOM	ACC	TR	TR
-64	56	vantar	ACC	ACC	XY	ACC_ACC
+64	56	vantar	ACC	ACC	X	ACC_ACC
 64	57	hatar	NOM	ACC	TR	TR
 64	58	líkar	DAT	NOM	X	DAT_NOM
-64	59	vantar	ACC	ACC	XY	ACC_ACC
+64	59	vantar	ACC	ACC	X	ACC_ACC
 64	60	umlykja	NOM	ACC	TR	TR
 64	61	á eftir	NOM	ACC	TR	TR
 64	62	svaraði	NOM	DAT	Y	NOM_DAT
@@ -5165,7 +5035,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 64	94	blandaðist	NOM	vidACC	Y	NOM_vidACC
 64	95	horfa	NOM	aACC	Y	NOM_aACC
 64	96	fór	NOM	urDAT	Y	NOM_urDAT
-64	97	dreymir	ACC	ACC	XY	ACC_ACC
+64	97	dreymir	ACC	ACC	X	ACC_ACC
 64	98	sammála	NOM	DAT	Y	NOM_DAT
 64	99	reifst	NOM	vidACC	Y	NOM_vidACC
 64	100	kostar	NOM	ACC	TR	TR
@@ -5374,7 +5244,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 25	43		*	*	*	
 25	44		SBJ	DO	TR	TR
 25	45		*	*	*	
-25	46		aige	DO 	XY	aige_DO
+25	46		aige	DO 	X	aige_DO
 25	47		SBJ	DO	TR	TR
 25	48		SBJ	ar	Y	SBJ_ar
 25	49		SBJ	DO	TR	TR
@@ -5450,7 +5320,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 25	119		le	SBJ	X	le_SBJ
 25	120		*	*	*	
 25	121		*	*	*	
-25	122		aige	DO 	XY	aige_DO
+25	122		aige	DO 	X	aige_DO
 25	123		ar	go.dti	XY	ar_go.dti
 25	124		SBJ	DO	TR	TR
 25	125		ar	le	XY	ar_le
@@ -5590,14 +5460,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 33	129	stare simpatico	a	SBJ	X	a_SBJ
 33	130	vergognarsi	SBJ	di	Y	SBJ_di
 12	1		TOP	NOM	X	TOP_NOM
-12	2		TOP	ZERO	X	TOP_ZERO
+12	2		TOP	ZERO	XY	TOP_ZERO
 12	3		*	*	*	
 12	4		NOM	ACC	TR	TR
 12	5		TOP	NOM	X	TOP_NOM
 12	6		NOM	DAT	Y	NOM_DAT
 12	7		NOM	ACC	TR	TR
 12	8		NOM	ACC	TR	TR
-12	9		DAT	NON	X	DAT_NOM
+12	9		DAT	NOM	X	DAT_NOM
 12	10		NOM	DAT	Y	NOM_DAT
 12	11		NOM	DAT	Y	NOM_DAT
 12	12		NOM	ALL	Y	NOM_ALL
@@ -5681,14 +5551,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 12	90		NOM	ABL	Y	NOM_ABL
 12	91		NOM	ACC	TR	TR
 12	92		*	*	*	
-12	93		DAT	NON	X	DAT_NOM
+12	93		DAT	NOM	X	DAT_NOM
 12	94		NOM	CONTR	Y	NOM_CONTR
 12	95		NOM	ACC	TR	TR
 12	96		NOM	ACC	TR	TR
 12	97		*	*	*	
 12	98		NOM	DAT	Y	NOM_DAT
 12	99		NOM	CONTR	Y	NOM_CONTR
-12	100		TOP	ZERO	X	TOP_ZERO
+12	100		TOP	ZERO	XY	TOP_ZERO
 12	101		NOM	ACC	TR	TR
 12	102		NOM	ACC	TR	TR
 12	103		NOM	ACC	TR	TR
@@ -5720,7 +5590,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 12	129		NOM	DAT	Y	NOM_DAT
 12	130		NOM	ACC	TR	TR
 48	1	ri	ati	SBJ	X	ati_SBJ
-48	2	sof 	OBJ	SBJ		OBJ_SBJ
+48	2	sof 	OBJ	SBJ	X	OBJ_SBJ
 48	3	kólí 	SBJ	OBJ	TR	TR
 48	4	leeb	SBJ	OBJ	TR	TR
 48	5	yaj 	OBJ	SBJ	X	OBJ_SBJ
@@ -5909,7 +5779,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 14	58	taasə-gdə	DAT	NOM	X	DAT_NOM
 14	59	kerg-tä	DAT	NOM	X	DAT_NOM
 14	60	tögäl	NOM	ACC	TR	TR
-14	61	üld	DAT	NOM	Y	DATNOM_
+14	61	üld	DAT	NOM	X	DAT_NOM
 14	62	xärü ög	NOM	DAT	Y	NOM_DAT
 14	63	sek	NOM	ACC	TR	TR
 14	64	jilʁər	NOM	ABL	Y	NOM_ABL
@@ -9749,7 +9619,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 6	128		NOM	ABL	Y	NOM_ABL
 6	129		NOM	ACC	TR	TR
 6	130		NOM	ABL	Y	NOM_ABL
-56	1	uni-	POSS	NOM	Х	POSS_NOM
+56	1	uni-	POSS	NOM	X	POSS_NOM
 56	2	sulə-	NOM	INS	Y	NOM_INS
 56	3	ŋələ-	NOM	INS	Y	NOM_INS
 56	4	wəndə-	NOM	ACC	TR	TR
@@ -9802,14 +9672,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 56	51	*	*	*	*	
 56	52	*	*	*	*	
 56	53	xokco-	NOM	DIR	Y	NOM_DIR
-56	54	sabda- (tääsi )	ACC	NOM	Х	ACC_NOM
+56	54	sabda- (tääsi )	ACC	NOM	X	ACC_NOM
 56	55	b'a-gi-	NOM	ACC	TR	TR
-56	56	ə-i-ni iinə	DAT	NOM	Х	DAT_NOM
+56	56	ə-i-ni iinə	DAT	NOM	X	DAT_NOM
 56	57	galu-	NOM	ACC	TR	TR
 56	58	čaalə-	NOM	ACC	TR	TR
 56	59	zokco-	NOM	INS	Y	NOM_INS
 56	60	?	*	*	*	
-56	61	osi-gi-	DAT	NOM	Х	DAT_NOM
+56	61	osi-gi-	DAT	NOM	X	DAT_NOM
 56	62	diaŋ-	NOM	DIR	Y	NOM_DIR
 56	63	nienti-lə-	NOM	ACC	TR	TR
 56	64	xonto	NOM	ABL	Y	NOM_ABL
@@ -10065,7 +9935,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 72	54	тырмыны	NOM	INS	Y	NOM_INS
 72	55	шедьтыны	NOM	ACC	TR	TR
 72	56	NEG + тырмыны	GEN	NOM	X	GEN_NOM
-72	57	адӟем-POSS уг поты	GEN	ACC	XY	GEN_ACC
+72	57	адӟем-POSS уг поты	GEN	ACC	X	GEN_ACC
 72	58	кельшыны	DAT	NOM	X	DAT_NOM
 72	59	кулэ	DAT	NOM	X	DAT_NOM
 72	60	котыртыны 	NOM	ACC	TR	TR

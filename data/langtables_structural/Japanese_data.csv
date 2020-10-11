@@ -1,13 +1,13 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 12	Japanese	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		TOP	NOM	X	TOP_NOM							vi
-12	Japanese	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		TOP	ZERO	X	TOP_ZERO							COP
+12	Japanese	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		TOP	ZERO	XY	TOP_ZERO							COP
 12	Japanese	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		*	*	*								ADJ
 12	Japanese	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		NOM	ACC	TR	TR							vt
 12	Japanese	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		TOP	NOM	X	TOP_NOM							vi
 12	Japanese	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	DAT	Y	NOM_DAT							vi
 12	Japanese	7	believe	X (believe) Y	верить	X (верить)Y-у		NOM	ACC	TR	TR							vt
 12	Japanese	8	take	X (take) Y	взять	X (брать) Y(-а)		NOM	ACC	TR	TR							vt
-12	Japanese	9	see	X (see) Y	видеть	X (видеть) Y(-а)		DAT	NON	X	DAT_NOM							vt/i
+12	Japanese	9	see	X (see) Y	видеть	X (видеть) Y(-а)		DAT	NOM	X	DAT_NOM							vt/i
 12	Japanese	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		NOM	DAT	Y	NOM_DAT							vi
 12	Japanese	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		NOM	DAT	Y	NOM_DAT							vi
 12	Japanese	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		NOM	ALL	Y	NOM_ALL							vi
@@ -91,14 +91,14 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 12	Japanese	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	ABL	Y	NOM_ABL							vt/i
 12	Japanese	91	listen	X (listen) to Y	слушать	X (слушать) Y		NOM	ACC	TR	TR							vt
 12	Japanese	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*	*	*								0
-12	Japanese	93	hear	X (hear) Y	слышать	X (слышать) Y		DAT	NON	X	DAT_NOM							vt/i
+12	Japanese	93	hear	X (hear) Y	слышать	X (слышать) Y		DAT	NOM	X	DAT_NOM							vt/i
 12	Japanese	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	CONTR	Y	NOM_CONTR							vi
 12	Japanese	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM	ACC	TR	TR							vt
 12	Japanese	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		NOM	ACC	TR	TR							vt
 12	Japanese	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		*	*	*								0
 12	Japanese	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	DAT	Y	NOM_DAT							vi
 12	Japanese	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	CONTR	Y	NOM_CONTR							vi
-12	Japanese	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		TOP	ZERO	X	TOP_ZERO							COP
+12	Japanese	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		TOP	ZERO	XY	TOP_ZERO							COP
 12	Japanese	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	ACC	TR	TR							vt
 12	Japanese	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	ACC	TR	TR							vt
 12	Japanese	103	lose	X (lose) Y	терять	X (терять) Y		NOM	ACC	TR	TR							vt

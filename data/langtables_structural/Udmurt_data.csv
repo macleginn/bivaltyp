@@ -55,7 +55,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 72	Udmurt	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	тырмыны	NOM	INS	Y	NOM_INS							Тот же глагол, что 5.		
 72	Udmurt	55	find	X (find) Y	находить	X (находить) Y(-а)	шедьтыны	NOM	ACC	TR	TR									
 72	Udmurt	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG + тырмыны	GEN	NOM	X	GEN_NOM							Это NEG + тот глагол, что в 5. Управление -- вариант Светы. У студенток DAT-NOM. Строго говоря, тут та же проблема с составляющими, что везде в таких случаях.		
-72	Udmurt	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	адӟем-POSS уг поты	GEN	ACC	XY	GEN_ACC							"CV, букв. ""у Х-а не хочется видеть Y-а"""		
+72	Udmurt	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	адӟем-POSS уг поты	GEN	ACC	X	GEN_ACC							"CV, букв. ""у Х-а не хочется видеть Y-а"""		
 72	Udmurt	58	like	X (like) Y	нравиться	X-у (нравиться) Y	кельшыны	DAT	NOM	X	DAT_NOM							Есть еще вариант яраны, то же управление		
 72	Udmurt	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	кулэ	DAT	NOM	X	DAT_NOM							NV, при этом предикат выражен модальной частицей, которая в отличие от других неглагольных предикатов, используется безо всякой связки.		
 72	Udmurt	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	котыртыны 	NOM	ACC	TR	TR									

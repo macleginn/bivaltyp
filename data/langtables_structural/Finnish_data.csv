@@ -1,9 +1,9 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-66	Finnish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	särkeä	ADE	PART	X	ADE_PART							Есть еще вариант букв. X-ADE есть головоболь
+66	Finnish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	särkeä	ADE	PART	XY	ADE_PART							Есть еще вариант букв. X-ADE есть головоболь
 66	Finnish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	olla 	ADE	NOM	X	ADE_NOM							"Букв. ""быть"", то же, что 38. Есть еще вариант с тем же глаголом, но ADE + INE."
 66	Finnish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	pelätä	NOM	PART	Y	NOM_PART							
 66	Finnish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	heittää	NOM	GEN~NOM	TR	TR							
-66	Finnish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	tarpeeksi	ADE	PART	X	ADE_PART							NV. Не совсем понятна структура составляющих (у Х-а есть [достаточно Y-PART]), засчитано во многом условно.
+66	Finnish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	tarpeeksi	ADE	PART	XY	ADE_PART							NV. Не совсем понятна структура составляющих (у Х-а есть [достаточно Y-PART]), засчитано во многом условно.
 66	Finnish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	näköinen	NOM	GEN	Y	NOM_GEN							"NV. Несмотря на то, что в обычном случае при переходных глаголах имена тоже кодируются как NOM + GEN, здесь я все-таки пишу именно это, т.к. это видно по именам во множественном числе и местоимениям: тут нужен именно генитив везде, а не ""падеж тотального объекта"" (NOM в PL)"
 66	Finnish	7	believe	X (believe) Y	верить	X (верить)Y-у	uskoa 	NOM	PART	Y	NOM_PART							
 66	Finnish	8	take	X (take) Y	взять	X (брать) Y(-а)	ottaa 	NOM	GEN~NOM	TR	TR							

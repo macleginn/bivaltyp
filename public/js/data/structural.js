@@ -14054,7 +14054,7 @@ const structuralData = [
     "үбдэ-",
     "GEN",
     "NOM",
-    "Х",
+    "X",
     "GEN_NOM"
   ],
   [
@@ -14090,7 +14090,7 @@ const structuralData = [
     "хүртэ-",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -14387,7 +14387,7 @@ const structuralData = [
     "бии",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -14549,7 +14549,7 @@ const structuralData = [
     "дута-",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -14567,7 +14567,7 @@ const structuralData = [
     "гоё",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -14576,7 +14576,7 @@ const structuralData = [
     "хэрэг-тэй",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -14594,7 +14594,7 @@ const structuralData = [
     "үлэ-",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -14918,7 +14918,7 @@ const structuralData = [
     "зүүдэн-дэ   хара-гда-",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -22694,7 +22694,7 @@ const structuralData = [
     "AGR=ик1в-ар",
     "SUPLAT",
     "ABS(NO.AGR)",
-    "X",
+    "XY",
     "SUPLAT_ABS(NO.AGR)"
   ],
   [
@@ -30434,7 +30434,7 @@ const structuralData = [
     "särkeä",
     "ADE",
     "PART",
-    "X",
+    "XY",
     "ADE_PART"
   ],
   [
@@ -30470,7 +30470,7 @@ const structuralData = [
     "tarpeeksi",
     "ADE",
     "PART",
-    "X",
+    "XY",
     "ADE_PART"
   ],
   [
@@ -40959,7 +40959,7 @@ const structuralData = [
     "NOM_giaACC"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "feel_pain",
     "",
     "*",
@@ -40968,7 +40968,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "have#illness#",
     "",
     "*",
@@ -40977,34 +40977,34 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_afraid",
     "",
     "ACT",
     "gui",
-    "",
+    "Y",
     "ACT_gui"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "throw",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "have_enough",
     "",
     "INACT",
     "pe",
-    "",
+    "X",
     "INACT_pe"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "resemble",
     "",
     "*",
@@ -41013,34 +41013,34 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "believe",
     "",
     "ACT",
     "rehe",
-    "",
+    "Y",
     "ACT_rehe"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "take",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "see",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "influence",
     "",
     "*",
@@ -41049,25 +41049,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "encounter",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "enter",
     "",
     "ACT",
     "pe(loc)",
-    "",
+    "Y",
     "ACT_pe(loc)"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "win",
     "",
     "*",
@@ -41076,25 +41076,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "go_out",
     "",
     "ACT",
     "gui",
-    "",
+    "Y",
     "ACT_gui"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "drive",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "bend",
     "",
     "*",
@@ -41103,7 +41103,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "tell",
     "",
     "*",
@@ -41112,61 +41112,61 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "hold",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "catch_up",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "milk",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "reach",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "touch",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "fight",
     "",
     "ACT",
     "ndive",
-    "",
+    "Y",
     "ACT_ndive"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_friends",
     "",
     "*",
@@ -41175,7 +41175,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "think",
     "",
     "*",
@@ -41184,16 +41184,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "eat",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "fry",
     "",
     "*",
@@ -41202,43 +41202,43 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "wait",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "forget",
     "",
     "INACT",
     "gui",
-    "",
+    "X",
     "INACT_gui"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "depend",
     "",
     "ACT",
     "rehe",
-    "",
+    "Y",
     "ACT_rehe"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "call",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "get_to_know",
     "",
     "*",
@@ -41247,16 +41247,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "know",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "play#instrument#",
     "",
     "*",
@@ -41265,7 +41265,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "avoid",
     "",
     "*",
@@ -41274,16 +41274,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "make",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "make_fun",
     "",
     "*",
@@ -41292,25 +41292,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "have",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "look_for",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "paint",
     "",
     "*",
@@ -41319,16 +41319,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "bite",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "forfeit",
     "",
     "*",
@@ -41337,7 +41337,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "try_to_catch",
     "",
     "*",
@@ -41346,34 +41346,34 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "break",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "flatter",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "love1",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "wave",
     "",
     "*",
@@ -41382,7 +41382,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "dream",
     "",
     "*",
@@ -41391,7 +41391,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "wash",
     "",
     "*",
@@ -41400,43 +41400,43 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "put_on",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_called",
     "",
     "ACT",
     "rupi",
-    "",
+    "Y",
     "ACT_rupi"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "punish",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "attack",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "fill#intr#",
     "",
     "*",
@@ -41445,25 +41445,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "find",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_short",
     "",
     "INACT",
     "ZERO",
-    "",
+    "X",
     "INACT_ZERO"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "hate",
     "",
     "*",
@@ -41472,7 +41472,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "like",
     "",
     "*",
@@ -41481,16 +41481,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "need",
     "",
     "ACT",
     "re",
-    "",
+    "Y",
     "ACT_re"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "surround",
     "",
     "*",
@@ -41499,25 +41499,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "remain",
     "",
     "ACT",
     "pe",
-    "",
+    "Y",
     "ACT_pe"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "answer",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "open",
     "",
     "*",
@@ -41526,7 +41526,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_different",
     "",
     "*",
@@ -41535,7 +41535,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "fall_behind",
     "",
     "*",
@@ -41544,7 +41544,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "plough",
     "",
     "*",
@@ -41553,7 +41553,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "smell",
     "",
     "*",
@@ -41562,7 +41562,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "cross",
     "",
     "*",
@@ -41571,34 +41571,34 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "sing",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "write",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "drink",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "melt",
     "",
     "*",
@@ -41607,7 +41607,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "match",
     "",
     "*",
@@ -41616,7 +41616,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "leave",
     "",
     "*",
@@ -41625,7 +41625,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "cover",
     "",
     "*",
@@ -41634,43 +41634,43 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "remember",
     "",
     "INACT",
     "rehe",
-    "",
+    "X",
     "INACT_rehe"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "help",
     "",
     "ACT",
     "pe",
-    "",
+    "Y",
     "ACT_pe"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "understand",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "hit#target#",
     "",
     "ACT",
     "pe(loc)",
-    "",
+    "Y",
     "ACT_pe(loc)"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "cut_oneself",
     "",
     "*",
@@ -41679,7 +41679,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "get_stuck",
     "",
     "*",
@@ -41688,7 +41688,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "lose#game#",
     "",
     "*",
@@ -41697,7 +41697,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_glad",
     "",
     "*",
@@ -41706,16 +41706,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "speak",
     "",
     "ACT",
     "ndive",
-    "",
+    "Y",
     "ACT_ndive"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "give_birth",
     "",
     "*",
@@ -41724,7 +41724,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "drop",
     "",
     "*",
@@ -41733,25 +41733,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "govern",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "miss",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "follow",
     "",
     "*",
@@ -41760,7 +41760,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "dismount",
     "",
     "*",
@@ -41769,16 +41769,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "listen",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "obey",
     "",
     "*",
@@ -41787,16 +41787,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "hear",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "mix",
     "",
     "*",
@@ -41805,25 +41805,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "look",
     "",
     "ACT",
     "re",
-    "",
+    "Y",
     "ACT_re"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "take_off",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "dream#sleeping#",
     "",
     "*",
@@ -41832,25 +41832,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "agree",
     "",
     "ACT",
     "pe",
-    "",
+    "Y",
     "ACT_pe"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "have_a_quarrel",
     "",
     "ACT",
     "ndive",
-    "",
+    "Y",
     "ACT_ndive"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "cost",
     "",
     "*",
@@ -41859,16 +41859,16 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "shoot_at",
     "",
     "ACT",
     "re",
-    "",
+    "Y",
     "ACT_re"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "pour",
     "",
     "*",
@@ -41877,7 +41877,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "lose",
     "",
     "*",
@@ -41886,7 +41886,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "sink",
     "",
     "*",
@@ -41895,7 +41895,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "kill",
     "",
     "*",
@@ -41904,7 +41904,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "hit",
     "",
     "*",
@@ -41913,25 +41913,25 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "kiss",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "read",
     "",
     "ACT",
     "INACT",
-    "",
+    "TR",
     "TR"
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "move#bodypart#",
     "",
     "*",
@@ -41940,7 +41940,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "respect",
     "",
     "*",
@@ -41949,7 +41949,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_squeamish",
     "",
     "*",
@@ -41958,7 +41958,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_content",
     "",
     "*",
@@ -41967,7 +41967,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "fall_in_love",
     "",
     "*",
@@ -41976,7 +41976,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "trust",
     "",
     "*",
@@ -41985,7 +41985,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "sympathise",
     "",
     "*",
@@ -41994,7 +41994,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "envy",
     "",
     "*",
@@ -42003,7 +42003,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_angry",
     "",
     "*",
@@ -42012,7 +42012,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_surprised",
     "",
     "*",
@@ -42021,7 +42021,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "love2",
     "",
     "*",
@@ -42030,7 +42030,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "enjoy",
     "",
     "*",
@@ -42039,7 +42039,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "want",
     "",
     "*",
@@ -42048,7 +42048,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "have_a_grudge",
     "",
     "*",
@@ -42057,7 +42057,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "take_offence",
     "",
     "*",
@@ -42066,7 +42066,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "upset",
     "",
     "*",
@@ -42075,7 +42075,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "marvel",
     "",
     "*",
@@ -42084,7 +42084,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "despise",
     "",
     "*",
@@ -42093,7 +42093,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "get_upset",
     "",
     "*",
@@ -42102,7 +42102,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "get_irritated",
     "",
     "*",
@@ -42111,7 +42111,7 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_fond",
     "",
     "*",
@@ -42120,1182 +42120,12 @@ const structuralData = [
     ""
   ],
   [
-    "Paraguayan Guarani",
+    "Paraguayan Guaraní",
     "be_shy",
     "",
     "*",
     "*",
     "*",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "feel_pain",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "have#illness#",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_afraid",
-    "",
-    "act",
-    "gui",
-    "",
-    "actgui"
-  ],
-  [
-    "Paraguayan Guarani",
-    "throw",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "have_enough",
-    "",
-    "inact",
-    "pe",
-    "",
-    "inactpe"
-  ],
-  [
-    "Paraguayan Guarani",
-    "resemble",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "believe",
-    "",
-    "act",
-    "rehe",
-    "",
-    "actrehe"
-  ],
-  [
-    "Paraguayan Guarani",
-    "take",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "see",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "influence",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "encounter",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "enter",
-    "",
-    "act",
-    "pe (loc)",
-    "",
-    "actpe(loc)"
-  ],
-  [
-    "Paraguayan Guarani",
-    "win",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "go_out",
-    "",
-    "act",
-    "gui",
-    "",
-    "actgui"
-  ],
-  [
-    "Paraguayan Guarani",
-    "drive",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "bend",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "tell",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "hold",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "catch_up",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "milk",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "reach",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "touch",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "fight",
-    "",
-    "act",
-    "ndive",
-    "",
-    "actndive"
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_friends",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "think",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "eat",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "fry",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "wait",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "forget",
-    "",
-    "inact",
-    "gui",
-    "",
-    "inactgui"
-  ],
-  [
-    "Paraguayan Guarani",
-    "depend",
-    "",
-    "act",
-    "rehe",
-    "",
-    "actrehe"
-  ],
-  [
-    "Paraguayan Guarani",
-    "call",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "get_to_know",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "know",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "play#instrument#",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "avoid",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "make",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "make_fun",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "have",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "look_for",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "paint",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "bite",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "forfeit",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "try_to_catch",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "break",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "flatter",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "love1",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "wave",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "dream",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "wash",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "put_on",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_called",
-    "",
-    "act",
-    "rupi",
-    "",
-    "actrupi"
-  ],
-  [
-    "Paraguayan Guarani",
-    "punish",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "attack",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "fill#intr#",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "find",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_short",
-    "",
-    "inact",
-    "0",
-    "",
-    "inact0"
-  ],
-  [
-    "Paraguayan Guarani",
-    "hate",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "like",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "need",
-    "",
-    "act",
-    "re",
-    "",
-    "actre"
-  ],
-  [
-    "Paraguayan Guarani",
-    "surround",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "remain",
-    "",
-    "act",
-    "pe",
-    "",
-    "actpe"
-  ],
-  [
-    "Paraguayan Guarani",
-    "answer",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "open",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_different",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "fall_behind",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "plough",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "smell",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "cross",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "sing",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "write",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "drink",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "melt",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "match",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "leave",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "cover",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "remember",
-    "",
-    "inact",
-    "rehe",
-    "",
-    "inactrehe"
-  ],
-  [
-    "Paraguayan Guarani",
-    "help",
-    "",
-    "act",
-    "pe",
-    "",
-    "actpe"
-  ],
-  [
-    "Paraguayan Guarani",
-    "understand",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "hit#target#",
-    "",
-    "act",
-    "pe (loc)",
-    "",
-    "actpe(loc)"
-  ],
-  [
-    "Paraguayan Guarani",
-    "cut_oneself",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "get_stuck",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "lose#game#",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_glad",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "speak",
-    "",
-    "act",
-    "ndive",
-    "",
-    "actndive"
-  ],
-  [
-    "Paraguayan Guarani",
-    "give_birth",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "drop",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "govern",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "miss",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "follow",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "dismount",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "listen",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "obey",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "hear",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "mix",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "look",
-    "",
-    "act",
-    "re",
-    "",
-    "actre"
-  ],
-  [
-    "Paraguayan Guarani",
-    "take_off",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "dream#sleeping#",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "agree",
-    "",
-    "act",
-    "pe",
-    "",
-    "actpe"
-  ],
-  [
-    "Paraguayan Guarani",
-    "have_a_quarrel",
-    "",
-    "act",
-    "ndive",
-    "",
-    "actndive"
-  ],
-  [
-    "Paraguayan Guarani",
-    "cost",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "shoot_at",
-    "",
-    "act",
-    "re",
-    "",
-    "actre"
-  ],
-  [
-    "Paraguayan Guarani",
-    "pour",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "lose",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "sink",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "kill",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "hit",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "kiss",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "read",
-    "",
-    "TR",
-    "",
-    "",
-    "TR"
-  ],
-  [
-    "Paraguayan Guarani",
-    "move#bodypart#",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "respect",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_squeamish",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_content",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "fall_in_love",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "trust",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "sympathise",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "envy",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_angry",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_surprised",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "love2",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "enjoy",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "want",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "have_a_grudge",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "take_offence",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "upset",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "marvel",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "despise",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "get_upset",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "get_irritated",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_fond",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Paraguayan Guarani",
-    "be_shy",
-    "",
-    "",
-    "",
-    "",
     ""
   ],
   [
@@ -46139,7 +44969,7 @@ const structuralData = [
     "vantar",
     "ACC",
     "ACC",
-    "XY",
+    "X",
     "ACC_ACC"
   ],
   [
@@ -46166,7 +44996,7 @@ const structuralData = [
     "vantar",
     "ACC",
     "ACC",
-    "XY",
+    "X",
     "ACC_ACC"
   ],
   [
@@ -46508,7 +45338,7 @@ const structuralData = [
     "dreymir",
     "ACC",
     "ACC",
-    "XY",
+    "X",
     "ACC_ACC"
   ],
   [
@@ -48389,7 +47219,7 @@ const structuralData = [
     "",
     "aige",
     "DO ",
-    "XY",
+    "X",
     "aige_DO"
   ],
   [
@@ -49073,7 +47903,7 @@ const structuralData = [
     "",
     "aige",
     "DO ",
-    "XY",
+    "X",
     "aige_DO"
   ],
   [
@@ -50333,7 +49163,7 @@ const structuralData = [
     "",
     "TOP",
     "ZERO",
-    "X",
+    "XY",
     "TOP_ZERO"
   ],
   [
@@ -50395,7 +49225,7 @@ const structuralData = [
     "see",
     "",
     "DAT",
-    "NON",
+    "NOM",
     "X",
     "DAT_NOM"
   ],
@@ -51151,7 +49981,7 @@ const structuralData = [
     "hear",
     "",
     "DAT",
-    "NON",
+    "NOM",
     "X",
     "DAT_NOM"
   ],
@@ -51215,7 +50045,7 @@ const structuralData = [
     "",
     "TOP",
     "ZERO",
-    "X",
+    "XY",
     "TOP_ZERO"
   ],
   [
@@ -51503,7 +50333,7 @@ const structuralData = [
     "sof ",
     "OBJ",
     "SBJ",
-    "",
+    "X",
     "OBJ_SBJ"
   ],
   [
@@ -53204,8 +52034,8 @@ const structuralData = [
     "üld",
     "DAT",
     "NOM",
-    "Y",
-    "DATNOM_"
+    "X",
+    "DAT_NOM"
   ],
   [
     "Kalmyk",
@@ -87764,7 +86594,7 @@ const structuralData = [
     "uni-",
     "POSS",
     "NOM",
-    "Х",
+    "X",
     "POSS_NOM"
   ],
   [
@@ -88241,7 +87071,7 @@ const structuralData = [
     "sabda- (tääsi )",
     "ACC",
     "NOM",
-    "Х",
+    "X",
     "ACC_NOM"
   ],
   [
@@ -88259,7 +87089,7 @@ const structuralData = [
     "ə-i-ni iinə",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -88304,7 +87134,7 @@ const structuralData = [
     "osi-gi-",
     "DAT",
     "NOM",
-    "Х",
+    "X",
     "DAT_NOM"
   ],
   [
@@ -90608,7 +89438,7 @@ const structuralData = [
     "адӟем-POSS уг поты",
     "GEN",
     "ACC",
-    "XY",
+    "X",
     "GEN_ACC"
   ],
   [

@@ -5370,7 +5370,7 @@ const fullData = [
     "ət",
     "OBJAGR",
     "BARE",
-    "X",
+    "XY",
     "OBJAGR_BARE",
     "+Ašur ət-lə mašina",
     "PN EXI-LS.3M car(F)",

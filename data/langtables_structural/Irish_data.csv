@@ -44,7 +44,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 25	Irish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		*	*	*								Видимо, нет отдельного глагола
 25	Irish	44	break	X (break) Y	ломать	X (ломать) Y		SBJ	DO	TR	TR							
 25	Irish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*	*	*								Не нашлось глагола
-25	Irish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		aige	DO 	XY	aige_DO							NV
+25	Irish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		aige	DO 	X	aige_DO							NV
 25	Irish	47	wave	X (wave) Y	махать	X (махать) Y-ом		SBJ	DO	TR	TR							
 25	Irish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		SBJ	ar	Y	SBJ_ar							Есть вариант и с mar gheall air, но он включает в себя ar/air, так что беру просто NOM + AR
 25	Irish	49	wash	X (wash) Y	мыть	X (мыть) Y		SBJ	DO	TR	TR							
@@ -120,7 +120,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 25	Irish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		le	SBJ	X	le_SBJ							NV
 25	Irish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		*	*	*								Нет отдельной лексемы
 25	Irish	121	want	X (want) Y	хотеть	X (хотеть) Y-а		*	*	*								"Говорят ""нужен"""
-25	Irish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		aige	DO 	XY	aige_DO							NV
+25	Irish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		aige	DO 	X	aige_DO							NV
 25	Irish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		ar	go.dti	XY	ar_go.dti							NV
 25	Irish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		SBJ	DO	TR	TR							
 25	Irish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		ar	le	XY	ar_le							NV

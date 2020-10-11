@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 79	Dargwa_Icari	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	пикри-ик1в-ил-ца=AGR	ABS	SUPLAT.CONT	Y	ABS_SUPLAT.CONT							Agreement: yes. LV. То же, что 25, думать		
 79	Dargwa_Icari	49	wash	X (wash) Y	мыть	X (мыть) Y	AGR=ирц-иб	ERG	ABS	TR	TR							Agreement: yes. 		
 79	Dargwa_Icari	50	put_on	X (put_on) Y	надевать	X (надевать) Y	чи-агь-ур	ERG	ABS	TR	TR							Agreement: no. PREF (ON)		
-79	Dargwa_Icari	51	be_called	X (be_called) Y	называться	X (называться) Y	AGR=ик1в-ар	SUPLAT	ABS(NO.AGR)	X	SUPLAT_ABS(NO.AGR)							"Agreement: no. Это конструкция с неназванным агенсом (типа ""(люди) этой вещи говорят ""компас"""")"		
+79	Dargwa_Icari	51	be_called	X (be_called) Y	называться	X (называться) Y	AGR=ик1в-ар	SUPLAT	ABS(NO.AGR)	XY	SUPLAT_ABS(NO.AGR)							"Agreement: no. Это конструкция с неназванным агенсом (типа ""(люди) этой вещи говорят ""компас"""")"		
 79	Dargwa_Icari	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	AGR=ит-иб	*	*	*								"Agreement: *. получено только ""бить"". Не засчитываю."		
 79	Dargwa_Icari	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	чи=AGR=Ухъ-ун	ABS	SUPLAT	Y	ABS_SUPLAT							Agreement: yes. PREF (ON)		
 79	Dargwa_Icari	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	AGR=иц1-иб	ABS	GEN	Y	ABS_GEN							Agreement: yes. 		
