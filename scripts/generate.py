@@ -412,7 +412,7 @@ def render_examples_for_predicate(predicate_no_hash):
     tuple_dicts = []
     for t in data_points.itertuples():
         tuple_dicts.append({
-            'language': LANG_DICT[t.language_no],
+            'language': LANG_EXTERNAL[LANG_DICT[t.language_no]],
             't': t
         })
     tuple_dicts.sort(key=lambda x: x['language'])
