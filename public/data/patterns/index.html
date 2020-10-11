@@ -182,15 +182,15 @@
         const colnames = colsToSelect.map(colname => {
             switch (colname) {
                 case 'predicate_no':
-                    return 'predicate no.';
+                    return 'No.';
                 case 'predicate_label_en':
-                    return 'predicate';
+                    return 'Predicate';
                 case 'predicate_link':
-                    return 'predicate link';
+                    return 'Link';
                 case 'argument_frame_en':
-                    return 'argument frame';
+                    return 'Argument frame';
                 default:
-                    return colname;
+                    return colname.charAt(0).toUpperCase() + colname.slice(1);
             }
         })
 

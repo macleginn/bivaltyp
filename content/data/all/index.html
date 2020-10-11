@@ -110,7 +110,36 @@
                 {renderer: 'text'}
             );
 
-        let colnames = cols.map(colname => colname === 'predicate_label_ru' ? 'predicate_ru' : colname)
+        let colnames = cols.map(colname => {
+            switch (colname) {
+                case 'language':
+                case 'predicate':
+                case 'verb':
+                case 'locus':
+                case 'sentence':
+                case 'comments':
+                    return colname.charAt(0).toUpperCase() + colname.slice(1);
+                case 'language_link':
+                case 'predicate_link':
+                    return 'Link';
+                case 'valency_pattern':
+                    return 'Valency pattern';
+                case 'glosses_en':
+                    return 'Glosses';
+                case 'back_translation_en':
+                    return 'Back translation';
+                case 'glosses_ru':
+                    return 'Russian glosses';
+                case 'back_translation_ru':
+                    return 'Back translation to Russian';
+                case 'verb_original_orthography':
+                    return 'Verb in original orthography';
+                case 'sentence_original_orthography':
+                    return 'Sentence in original orthography';
+                default:
+                    return colname
+            }   
+        })
 
         let container = byId('table');
 
