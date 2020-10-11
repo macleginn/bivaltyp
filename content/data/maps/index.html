@@ -1,4 +1,4 @@
-<h2>Customisable maps</h2>
+<h2>Customizable maps</h2>
 <ul>
     <li><a href="#transitivity">Transitivity and locus map</a></li>
     <li><a href="#predicatepairs">Predicate-pair map</a></li>
@@ -51,15 +51,15 @@
 <script>
     // Data.
     let external2internal = {},
-        predicate2schema = {},
-        predicateEn2Ru = {},
+        predicate2schemaEn = {},
         predicate2schemaRu = {},
+        predicateName2No = {},
+        predicatesRu = {},
+        predicatesEn = {},
         coords = {},
         nameIndexDict = {};
     let map1markers = [], map2markers = [];  // For deleting them.
-
-    // For toggling
-    let nextSelectLang = 'en';
+    let nextSelectLang = 'en';  // For toggling.
 
     for (let i = 0; i < languageData[0].length; i++) {
         nameIndexDict[languageData[0][i]] = i;
@@ -73,9 +73,11 @@
         };
     }
     for (const row of predicateData.slice(1)) {
-        predicate2schema[row[1]] = row[2];
-        predicateEn2Ru[row[1]] = row[4];
-        predicate2schemaRu[row[4]] = row[5];
+        predicatesEn      [row[0]] = row[1];
+        predicatesRu      [row[0]] = row[4];
+        predicate2schemaEn[row[0]] = row[2];
+        predicate2schemaRu[row[0]] = row[5];
+        predicateName2No  [row[1]] = row[0];
     }
     // Extract active languages for links
     let activeLanguages = new Set();
@@ -88,18 +90,20 @@
     for (const row of fullData.slice(1)) {
         const languageExternal = row[0],
             predicate          = row[1],
+            predicateNo        = predicateName2No[predicate],
             locus              = row[6];
-        if (!predicateLanguageLocusDict.hasOwnProperty(predicate))
-            predicateLanguageLocusDict[predicate] = {};
-        predicateLanguageLocusDict[predicate][languageExternal] = locus;
+        if (!predicateLanguageLocusDict.hasOwnProperty(predicateNo))
+            predicateLanguageLocusDict[predicateNo] = {};
+        predicateLanguageLocusDict[predicateNo][languageExternal] = locus;
     }
     for (const row of structuralData.slice(1)) {
         const languageExternal = row[0],
             predicate          = row[1],
+            predicateNo        = predicateName2No[predicate],
             locus              = row[5];
-        if (!predicateLanguageLocusDict.hasOwnProperty(predicate))
-            predicateLanguageLocusDict[predicate] = {};
-        predicateLanguageLocusDict[predicate][languageExternal] = locus;
+        if (!predicateLanguageLocusDict.hasOwnProperty(predicateNo))
+            predicateLanguageLocusDict[predicateNo] = {};
+        predicateLanguageLocusDict[predicateNo][languageExternal] = locus;
     }
 
     // The workhorse functions
@@ -116,7 +120,7 @@
         else
             return plug;
     }
-    function redrawPredicateMap(predicate) {
+    function redrawPredicateMap(predicateNo) {
         for (const marker of map1markers)
             map1.removeLayer(marker);
         map1markers.length = 0;
@@ -129,7 +133,7 @@
                 lon = coords[lang].lon;
 
             let circle = L.divIcon({
-                className: `circle circle-${get(colourMap, predicateLanguageLocusDict[predicate][lang], 'grey')}`,
+                className: `circle circle-${get(colourMap, predicateLanguageLocusDict[predicateNo][lang], 'grey')}`,
                 iconSize: [10, 10]
             });
             let marker = L.marker([lat, lon], {
@@ -146,10 +150,13 @@
     }
 
     function redrawPredicatePairMap() {
-        const pred1 = document.getElementById('predicate1-select').value,
+        let pred1 = document.getElementById('predicate1-select').value,
             pred2 = document.getElementById('predicate2-select').value;
         if (pred1 === '---' || pred2 === '---')
             return;
+
+        pred1 = parseInt(pred1);
+        pred2 = parseInt(pred2);
 
         for (const marker of map2markers)
             map2.removeLayer(marker);
@@ -158,10 +165,10 @@
         // Select rows
         let pred1row, pred2row;
         for (const row of patternsData) {
-            if (row[1] === pred1) {
+            if (row[0] === pred1) {
                 pred1row = row;
             }
-            if (row[1] === pred2) {
+            if (row[0] === pred2) {
                 pred2row = row;
             }
         }
@@ -197,18 +204,17 @@
         }
     }
 
-    function getPredicateOption(predicate, language) {
+    function getPredicateOption(predicateNo, language) {
         let option = document.createElement('option');
-        option.value = predicate;
+        option.value = predicateNo;
         if (language === 'ru') {
-            const predicateRu = predicateEn2Ru[predicate];
-            option.innerHTML = predicateRu
+            option.innerHTML = predicatesRu[predicateNo]
                 .replace(/_/g, ' ')
-                .replace(/#(.*)#/g, ' ($1)') + ` [<em>${predicate2schemaRu[predicateRu]}</em>]`;
+                .replace(/#(.*)#/g, ' ($1)') + ` [<em>${predicate2schemaRu[predicateNo]}</em>]`;
         } else {
-            option.innerHTML = predicate
+            option.innerHTML = predicatesEn[predicateNo]
                 .replace(/_/g, ' ')
-                .replace(/#(.*)#/g, ' ($1)') + ` [<em>${predicate2schema[predicate]}</em>]`;
+                .replace(/#(.*)#/g, ' ($1)') + ` [<em>${predicate2schemaEn[predicateNo]}</em>]`;
         }
         return option;
     }
@@ -219,38 +225,54 @@
             element.removeChild(children[i]);
     }
 
-    function populateSelectMenus() {
+    function populateSelectMenus(resetMenus=false) {
         const language = nextSelectLang;
         nextSelectLang = nextSelectLang === 'en' ? 'ru' : 'en';
+        // Retrieve current values
+        let curval1, curval2, curval3;
+        if (!resetMenus) {
+            curval1 = document.getElementById('tr-locus-select').value;
+            curval2 = document.getElementById('predicate1-select').value;
+            curval3 = document.getElementById('predicate2-select').value;
+        }
         // Populate select menus
         let sortedPredicates = [];
         for (const key in predicateLanguageLocusDict)
             if (predicateLanguageLocusDict.hasOwnProperty(key))
                 sortedPredicates.push(key);
-        if (language === 'ru')
-            sortedPredicates.sort((pred1, pred2) => {
-                const pred1Ru = predicateEn2Ru[pred1],
-                    pred2Ru = predicateEn2Ru[pred2];
-                if (pred1Ru < pred2Ru)
-                    return -1;
-                else if (pred1Ru > pred2Ru)
-                    return 1;
-                else
-                    return 0;
-            });
-        else
-            sortedPredicates.sort();
+        sortedPredicates.sort((pred1, pred2) => {
+            let key1, key2;
+            if (language === 'ru') {
+                key1 = predicatesRu[pred1];
+                key2 = predicatesRu[pred2];
+            } else {
+                key1 = predicatesEn[pred1];
+                key2 = predicatesEn[pred2];
+            }
+            if (key1 < key2)
+                return -1;
+            else if (key1 > key2)
+                return 1;
+            else
+                return 0;
+        });
         removeNonFirstChildren(document.getElementById('tr-locus-select'));
         removeNonFirstChildren(document.getElementById('predicate1-select'));
         removeNonFirstChildren(document.getElementById('predicate2-select'));
         for (const key of sortedPredicates) {
-                document.getElementById('tr-locus-select').appendChild(getPredicateOption(key, language));
-                document.getElementById('predicate1-select').appendChild(getPredicateOption(key, language));
-                document.getElementById('predicate2-select').appendChild(getPredicateOption(key, language));
-            }
-        document.getElementById('tr-locus-select').value   = '---';
-        document.getElementById('predicate1-select').value = '---';
-        document.getElementById('predicate2-select').value = '---';
+            document.getElementById('tr-locus-select').appendChild(getPredicateOption(key, language));
+            document.getElementById('predicate1-select').appendChild(getPredicateOption(key, language));
+            document.getElementById('predicate2-select').appendChild(getPredicateOption(key, language));
+        }
+        if (resetMenus) {
+            document.getElementById('tr-locus-select').value   = '---';
+            document.getElementById('predicate1-select').value = '---';
+            document.getElementById('predicate2-select').value = '---';
+        } else {
+            document.getElementById('tr-locus-select').value   = curval1;
+            document.getElementById('predicate1-select').value = curval2;
+            document.getElementById('predicate2-select').value = curval3;
+        }
 
         // Rename the button
         let buttons = document.getElementsByClassName('language-switch-button');
@@ -263,7 +285,7 @@
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-        populateSelectMenus('en');
+        populateSelectMenus(true);
 
         map1 = L.map('transitivity-map', {zoomControl: false});
         map1.setView([52.483333, 96.085833], 2);

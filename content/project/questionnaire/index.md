@@ -2,21 +2,25 @@
 Each entry in the questionnaire consists of a number (1–130), an English name of the predicate (referred to as “Predicate”, e.g., ‘be afraid’, ‘throw’, etc.), and a stimulus sentence used in elicitation.
 Some stimulus sentences are accompanied by context information provided in parentheses. These pieces of information are intended as semantic cues that make the described situations more specific. For example, in 101, the sentence “P. shot at the bird” is accompanied by the comment “(He missed.)”. This means that the translation equivalent of ‘shoot’ should be compatible with the idea that the shot went wide, but ‘he missed’ should not necessarily be translated into the target language.
 “P.” and “M.” stand for person names (or else other human noun phrases) that the contributor might choose in accordance with the cultural context of the investigated language.
+
 ## How to cite
 If you use this questionnaire, please cite as follows.
 > Say, Sergey, Dmitry Gerasimov, Sergey Dmitrenko, Natalia Zaika, & Viktor Khrakovsky. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
+
 ## Russian version
-The original Russian version of the questionnaire can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). 
-{{ russian_citation_button }}
+The original Russian version of the questionnaire can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
+
 ## Questionnaire
-1. [‘feel pain’]{{ predicate:feel_pain }}
 
-P. has a headache.
+1. {{ predicate:feel_pain }}  
+    P. has a headache.
 
-2. [‘have (illness)’]{{ predicate:have#illness# }}
-P. has the flu.
-3. [‘be afraid’]{{ predicate:be_afraid }}
-(P. has to go out of the house, but there is a dog barking in the yard.). P. is afraid of the dog.
+2. {{ predicate:have#illness# }}  
+    P. has the flu.
+
+3. {{ predicate:be_afraid }}    
+    (P. has to go out of the house, but there is a dog barking in the yard.). P. is afraid of the dog.
+
 4. [‘throw’]{{ predicate:throw }}
 (Two boys are competing to see who can throw a stone the farthest.) P. threw a stone (first).
 5. [‘have enough’]{{ predicate:have_enough }}
@@ -271,3 +275,14 @@ P. despises M.
 P. is fond of M.
 130. [‘be shy’]{{ predicate:be_shy }}
 (P. is the smallest in his class.) P. is shy / embarassed about his height.
+<script>
+function toggleRussianCitation(element) {
+    if (element.value === 'Show Russian citation') {
+        element.value = 'Hide Russian citation';
+        document.getElementById('russian-citation').style.display = 'inline-block';
+    } else {
+        element.value = 'Show Russian citation';
+        document.getElementById('russian-citation').style.display = 'none';
+    }
+}
+</script>

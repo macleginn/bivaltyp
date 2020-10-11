@@ -6,6 +6,7 @@ import pandas as pd
 import markdown2
 
 from helpers import *
+from patterns import *
 
 with open('../templates/base/base.html', 'r', encoding='utf-8') as inp:
     BASE_TEMPLATE = inp.read()
@@ -46,7 +47,14 @@ DATA_DICT = {
     'site_url': '<a href="{{ site_url_j }}/">{{ site_url_j }}</a>',
     'today': '<span id="today"></span>',
     'version': '<span id="version"></span>',
-    'last_database_release_year': '<span id="last-release-year"></span>'
+    'last_database_release_year': '<span id="last-release-year"></span>',
+    'russian_citation_button': '<div id="russian-citation" style="display: none; max-width: 800px; padding: 3px;">'
+                               ' Сай, С. С., Д. В. Герасимов, С. Ю. Дмитренко, Н. М. Заика, В. С. Храковский. '
+                               '2018. Валентностные классы двухместных предикатов: типологическая анкета и '
+                               'инструкция исследователю // С. С. Сай (отв. ред.). Валентностные классы '
+                               'двухместных предикатов в разноструктурных языках. СПб.: ИЛИ РАН. С. 25–46.' 
+                               '</div><input type="button" value="Show Russian citation"'
+                               ' onclick="toggleRussianCitation(this);" style="display: block;">'
 }
 
 # These fields must be looked up in the languages table
@@ -68,9 +76,6 @@ LANGUAGE_FIELDS = {
 LANGUAGE_META = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
 LANGUAGE_META.fillna('', inplace=True)
 LANGUAGE_META.index = LANGUAGE_META.language
-# LANGUAGE_META.data_collection_year = LANGUAGE_META.data_collection_year.map(lambda x: x if x == '' else int(x))
-# print(LANGUAGE_META.index)
-# print(LANGUAGE_META.columns)
 
 LANG_DICT = {}
 for tup in LANGUAGE_META.itertuples():
@@ -107,17 +112,21 @@ PRED_W_HASH = {
 }
 
 
-def lang_link(lang_name):
+def lang_link(lang_name, get_text=False):
     a = ET.Element('a', attrib={
         'class': 'data-link',
         'href': '{{ site_url_j }}/languages/descriptions/' + lang_name + '.html'
     })
     a.text = LANG_EXTERNAL[lang_name]
-    return a
+    return xml2str(a) if get_text else a
 
 
-def pred_link(tup):
+def pred_link(tup, get_text=False):
     predicate_name = PATTERNS.loc[tup.predicate_no].predicate_label_en
+    return pred_link_from_name(predicate_name, get_text)
+
+
+def pred_link_from_name(predicate_name, get_text=False):
     a = ET.Element('a', attrib={
         'class': 'data-link',
         'href': '{{ site_url_j }}/predicates/pred/' +
@@ -125,7 +134,7 @@ def pred_link(tup):
                 '.html'
     })
     a.text = cleanup_predicate(predicate_name).strip()
-    return a
+    return xml2str(a) if get_text else a
 
 
 def generate_map_link(language):
@@ -134,15 +143,26 @@ def generate_map_link(language):
     return f'<a href="{{{{ site_url_j }}}}/languages/mapview/">{lat}, {lon}</a>'
 
 
-def render_template(txt, language):
-    """
-    This function processes the project-specific
-    template elements replacing them with hyperlinks
-    and appropriate values.
-    """
-    hyperlink_pattern = re.compile(r'(\[(.+?)\])?\{\{(.+?)\}\}')
+def process_language_and_predicate_links(text):
     replacement_dict = {}
-    for hl in hyperlink_pattern.finditer(txt):
+    for match in language_link_pattern.finditer(text):
+        language = match.group('language')
+        replacement_dict[match.group(0)] = lang_link(language, True)
+    for match in predicate_link_pattern.finditer(text):
+        predicate = match.group('predicate')
+        replacement_dict[match.group(0)] = pred_link_from_name(predicate, True)
+    # Replace keys from longest to shortest
+    # to obviate substring problems.
+    tuples = sorted(replacement_dict.items(),
+                    key=lambda x: len(x[0]), reverse=True)
+    for k, v in tuples:
+        text = text.replace(k, v)
+    return text
+
+
+def process_regular_links(text, language):
+    replacement_dict = {}
+    for hl in hyperlink_pattern.finditer(text):
         key = hl.group(3).strip()
         # If group(2) is not None, this is a hyperlink with custom text.
         if hl.group(2) is not None:
@@ -165,17 +185,23 @@ def render_template(txt, language):
         elif key == 'coord_map_link':
             # Generate a link to the maps page with coordinates as text.
             replacement_dict[hl.group(0)] = generate_map_link(language)
-    result = txt
-
-
-
     # Replace keys from longest to shortest
     # to obviate substring problems.
     tuples = sorted(replacement_dict.items(),
                     key=lambda x: len(x[0]), reverse=True)
     for k, v in tuples:
-        result = result.replace(k, v)
-    return result
+        text = text.replace(k, v)
+    return text
+
+
+def render_template(text, language):
+    """
+    This function processes project-specific
+    template elements replacing them with hyperlinks
+    and appropriate values.
+    """
+    text = process_language_and_predicate_links(text)
+    return process_regular_links(text, language)
 
 
 def get_predicate_meta_table(tup):
@@ -382,8 +408,18 @@ def render_examples_for_predicate(predicate_no_hash):
     # Add predicate meta
     result.append(render_predicate_info(PREDICATES.loc[predicate_no], add_header=False))
 
-    # Add examples
+    # Sort languages by the external name
+    tuple_dicts = []
     for t in data_points.itertuples():
+        tuple_dicts.append({
+            'language': LANG_DICT[t.language_no],
+            't': t
+        })
+    tuple_dicts.sort(key=lambda x: x['language'])
+
+    # Add examples
+    for t_dict in tuple_dicts:
+        t = t_dict['t']
         block = ET.Element('div', attrib={
             'data-valpal': t.valency_pattern
         })
