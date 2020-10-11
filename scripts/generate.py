@@ -642,7 +642,8 @@ def predicate_page():
             .replace('{{ site_url_j }}', SITE_URL)
             .replace('<div id="main">', '''<div id="main">
     <div>
-        <span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();">
+        <p>Click on the name of a predicate if you want to see all patterns and glossed examples associated with the predicate.</p>       
+        <p><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></p>
     </div>''')
             .replace('<span class="blue bg">Y</span>\n            <span class="bg">ache</span>',
                      '<span class="blue bg">Y</span><span class="bg">ache</span>')
