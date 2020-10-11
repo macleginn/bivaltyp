@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://www.bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://www.bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://www.bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://www.bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/full.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://www.bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://www.bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://www.bivaltyp.info/images/ili.png" alt="Институт лингвистических исследований РАН"></a>
+    </div>
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://www.bivaltyp.info/project/description/"><div class="menu-button">Project description</div></a>
+            <a href="https://www.bivaltyp.info/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
+            <a href="https://www.bivaltyp.info/project/instruction/"><div class="menu-button">Instructions for&nbsp;contributors</div></a>
+            <a href="https://www.bivaltyp.info/project/team/"><div class="menu-button">Team</div></a>
+            <a href="https://www.bivaltyp.info/project/publications/"><div class="menu-button">Publications</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://www.bivaltyp.info/languages/mapview/"><div class="menu-button">Map view</div></a>
+            <a href="https://www.bivaltyp.info/languages/listview/"><div class="menu-button">List view</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/predicates/"><div class="menu-button">Predicates</div></a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://www.bivaltyp.info/data/patterns/"><div class="menu-button">Patterns overview</div></a>
+            <a href="https://www.bivaltyp.info/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/data/maps/"><div class="menu-button">Maps</div></a>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
+    </div>
+</div>
+
+<div id="main"><h3>Project coordinator</h3>
+
+<p><img src="https://www.bivaltyp.info/images/Say.jpg" alt="S.S.'s photo" title="S.S.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/say.html.ru">Sergey Say</a> (<a href="https://iling-spb.academia.edu/SergeySay">Academia.edu profile</a>): PhD, Head of the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
+E-mail: (serjozhka /at/ yahoo /dot/ com)</p>
+
+<h3>Technical team</h3>
+
+<p><img src="https://www.bivaltyp.info/images/mitya.jpg" alt="D.N.'s photo" title="D.N.'s photo" /></p>
+
+<p><a href="https://dnikolaev.com">Dmitry Nikolaev</a> (<a href="https://su-se.academia.edu/DmitryNikolaev">Academia.edu profile</a>): PhD, visiting researcher at the Department of Linguistics, Stockholm University</p>
+
+<h3>Team members</h3>
+
+<p><img src="https://www.bivaltyp.info/images/Dmitrenko.jpg" alt="S.D.'s photo" title="S.D.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/dmitrenko.html.ru">Sergey Dmitrenko</a> (<a href="https://iling-spb.academia.edu/SergeyDmitrenko">Academia.edu profile</a>): Scientific Deputy Director of the Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Gerasimov.jpg" alt="D.G.'s photo" title="D.G.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/gerasimov.html.ru">Dmitry Gerasimov</a> (<a href="https://iling-spb.academia.edu/DmitryGerasimov">Academia.edu profile</a>): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Kholodilova.jpg" alt="M.X.'s photo" title="M.X.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/kholodilova.html.ru">Maria Kholodilova</a> (<a href="https://iling-spb.academia.edu/MariaKholodilova">Academia.edu profile</a>): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Khrakovsky.jpg" alt="V.X.'s photo" title="V.X.'s photo" /></p>
+
+<p><a href="[Academia.edu profile](https://independent.academia.edu/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%A5%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)">Viktor Khrakovsky</a>: Principle research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Kordi.jpg" alt="E.K.'s photo" title="E.K.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/kordi.html.ru">Elena Kordi</a>: Leading research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Kuznecova.jpg" alt="O.K.'s photo" title="O.K.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/kuznetsova_o.html.ru">Olga Kuznecova</a> (<a href="https://iling-spb.academia.edu/OlgaKouznetsova">Academia.edu profile</a>): Research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Mischenko.jpg" alt="D.M.'s photo" title="D.M.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/mishchenko.html.ru">Daria Mischenko</a> (<a href="https://iling-spb.academia.edu/DariaMishchenko">Academia.edu profile</a>): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Vydrin.jpg" alt="A.V.'s photo" title="A.V.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/vydrin.html.ru">Arseniy Vydrin</a> (<a href="https://iling-spb.academia.edu/ArseniyVydrin">Academia.edu profile</a>): Senior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<p><img src="https://www.bivaltyp.info/images/Zaika.jpg" alt="N.Z.'s photo" title="N.Z.'s photo" /></p>
+
+<p><a href="https://iling.spb.ru/people/zaika.html.ru">Natalia Zaika</a> (<a href="https://iling-spb.academia.edu/%D0%97%D0%B0%D0%B8%D0%BA%D0%B0%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F">Academia.edu profile</a>): Senior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+
+<h3>Language contributors</h3>
+
+<p>Anna Alexandrova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Italian.html">Italian</a></p>
+
+<p>Ekaterina Aplonova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Goo.html">Goo</a></p>
+
+<p>Peter Arkadiev: <br />
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Abaza.html">Abaza</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Adyghe.html">Adyghe</a></p>
+
+<p>Aleksandra Azargaeva: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Buriat.html">Buriat</a></p>
+
+<p>Mislav Benić: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Croatian.html">Croatian</a></p>
+
+<p>Sandra Birzer: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/German.html">German</a></p>
+
+<p>Alena Blinova, Ksenia Shagal, Timothy Feist: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Saami_Skolt.html">Skolt Saami</a></p>
+
+<p>Nadezhda Bulatova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Evenki.html">Evenki</a></p>
+
+<p>Denis Creissels: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Joola_Fonyi.html">Joola-Fonyi</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Mandinka.html">Mandinka</a>
+, Soninke]
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Soninke.html">Soninke</a></p>
+
+<p>Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Rutul.html">Rutul</a></p>
+
+<p>Varvara Diveeva: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Albanian.html">Albanian</a></p>
+
+<p>Sergey Dmitrenko: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Khmer.html">Khmer</a></p>
+
+<p>Vladimir Fedorov, Maria Khazhomia: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Macedonian.html">Macedonian</a></p>
+
+<p>Dmitry Gerasimov: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Bagvalal.html">Bagvalal</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Guarani_Paraguayan.html">Paraguayan Guaraní</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Tsakhur.html">Tsakhur</a></p>
+
+<p>Elena Gorbova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Spanish.html">Spanish</a></p>
+
+<p>Olga Gorickaja: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Belarusian.html">Belarusian</a></p>
+
+<p>Ingunn Hreinberg Indriðadóttir: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Icelandic.html">Icelandic</a></p>
+
+<p>Ildar Ibragimov: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Greek_Ancient.html">Ancient Greek</a></p>
+
+<p>Vasilisa Kagirova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Armenian_Eastern.html">Eastern Armenian</a></p>
+
+<p>Maria Kholodilova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Moksha.html">Moksha</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Chuvash.html">Chuvash</a></p>
+
+<p>Mikhail Knyazev: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Dutch.html">Dutch</a></p>
+
+<p>Elena Kolpachkova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Chinese_Mandarin.html">Mandarin Chinese</a></p>
+
+<p>Yukari Konuma: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Japanese.html">Japanese</a></p>
+
+<p>Elena Kordi: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/French.html">French</a></p>
+
+<p>Richard Kowalik, Ksenia Shagal: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Saami_Southern.html">Southern Saami</a></p>
+
+<p>Kirill Kozhanov: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Romani_Kalderash.html">Kalderash Romani</a></p>
+
+<p>Irina Külmoja: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Estonian.html">Estonian</a></p>
+
+<p>Olga Kuznecova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Guro.html">Guro</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Norwegian_Bokmal.html">Norwegian Bokmål</a></p>
+
+<p>Timur Maisak: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Udi.html">Udi</a></p>
+
+<p>Timur Maisak, Solmaz Merdanova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Aghul.html">Aghul</a></p>
+
+<p>Anastasia (Leonidovna) Makarova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Serbian.html">Serbian</a></p>
+
+<p>Anastasia (Borisovna) Makarova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Czech.html">Czech</a></p>
+
+<p>Ramazan Mamedshaxov: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Arabic_Standard.html">Standard Arabic</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Lezgian.html">Lezgian</a></p>
+
+<p>Daria Mischenko: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Finnish_Ingrian.html">Ingrian Finnish</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Loma.html">Loma</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Nanai.html">Nanai</a></p>
+
+<p>Zarina Molochieva: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Chechen.html">Chechen</a></p>
+
+<p>George Moroz: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Polish.html">Polish</a></p>
+
+<p>Rasul Mutalov: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Dargwa_Icari.html">Icari Dargwa</a></p>
+
+<p>Johanna Nichols: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Ingush.html">Ingush</a></p>
+
+<p>Dmitry Nikolaev: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Irish.html">Irish</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Hebrew_Modern.html">Modern Hebrew</a></p>
+
+<p>Dmitry Nikolaev, Johanna Nichols: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/English.html">English</a></p>
+
+<p>Ajtalina Nogovitsyna: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Yakut.html">Yakut</a></p>
+
+<p>Sofia Oskolskaya: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Tuvinian.html">Tuvinian</a></p>
+
+<p>Maria Ovsjannikova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Enets_Forest.html">Forest Enets</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Turkish.html">Turkish</a></p>
+
+<p>Elena Perekhvalskaja: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Udihe.html">Udihe</a></p>
+
+<p>Natalia Perkova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Latvian.html">Latvian</a></p>
+
+<p>Krasimira Petrova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Bulgarian.html">Bulgarian</a></p>
+
+<p>Inna Popova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Latin.html">Latin</a></p>
+
+<p>Maria Pupynina: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Chukchi.html">Chukchi</a></p>
+
+<p>Neige Rochant: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Andi_Zilo.html">Zilo Andi</a></p>
+
+<p>Alexander Rostovtsev-Popiel: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Georgian.html">Georgian</a></p>
+
+<p>Sergey Say: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Russian.html">Russian</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Kalmyk.html">Kalmyk</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Bashkir.html">Bashkir</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Assyrian_Neo_Aramaic.html">Assyrian Neo-Aramaic</a></p>
+
+<p>Ekaterina Sergeeva: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Komi_Zyrian.html">Komi-Zyrian</a></p>
+
+<p>Ekaterina Sergeeva, Galina Nekrasova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Komi_Permyak.html">Komi-Permyak</a></p>
+
+<p>Ksenia Shagal: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Erzya.html">Erzya</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Finnish.html">Finnish</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Udmurt.html">Udmurt</a></p>
+
+<p>Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Swedish.html">Swedish</a></p>
+
+<p>Mayya Shlyakhter: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Bengali.html">Bengali</a></p>
+
+<p>Ksenia Studenikina: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Mari_Western.html">Western Mari</a></p>
+
+<p>Daria Suetina (Konior): 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Romanian.html">Romanian</a></p>
+
+<p>Evgenija Teplukhina: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Azerbaijani.html">Azerbaijani</a></p>
+
+<p>Arseniy Vydrin: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Ossetic.html">Ossetic</a></p>
+
+<p>Natalia Zaika: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Basque.html">Basque</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Lithuanian.html">Lithuanian</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Ukrainian.html">Ukrainian</a>
+, 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Gascon.html">Gascon</a></p>
+
+<p>Andreja Žele, Mladen Uhlik: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Slovenian.html">Slovenian</a></p>
+
+<p>Ekaterina Zheltova: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Greek_Modern.html">Modern Greek</a></p>
+
+<p>Vasilisa Zhigulskaja: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Hungarian.html">Hungarian</a></p>
+
+<p>Anastasia Zhuk: 
+<a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Kazakh.html">Kazakh</a></p>
+
+</div>
+
+
+</body>
+</html>
+
