@@ -13,9 +13,7 @@ To cite BivalTyp as a whole
 
 > Say, Sergey (ed.). 2020. BivalTyp: Typological database of bivalent verbs and their encoding frames. St.&nbsp;Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }}.)
 
-To cite the data from an individual language take the citation form from the [language]{{ languages }} page or build the citation according to the following template.
-
-> [Name of contributor]. 2020. Bivalent patterns in [language name]. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.&nbsp;Petersburg: Institute for Linguistic Studies, RAS. (Data first published on <date>; last revised on <date>.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
+To cite the data from an individual language take the citation form from the specific [language]{{ languages }} page.
 
 ## Contact details
 
