@@ -147,7 +147,12 @@ def process_language_and_predicate_links(text):
     replacement_dict = {}
     for match in language_link_pattern.finditer(text):
         language = match.group('language')
-        replacement_dict[match.group(0)] = lang_link(language, True)
+        # Inactive languages are rendered as text.
+        language_no = LANG_DICT[language]
+        if GOLDEN_DATA.loc[GOLDEN_DATA.language_no == language_no].shape[0] == 0:
+            replacement_dict[match.group(0)] = LANG_EXTERNAL[language]
+        else:
+            replacement_dict[match.group(0)] = lang_link(language, True)
     for match in predicate_link_pattern.finditer(text):
         predicate = match.group('predicate')
         replacement_dict[match.group(0)] = pred_link_from_name(predicate, True)
