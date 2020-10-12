@@ -24,9 +24,9 @@ E-mail: (serjozhka /at/ yahoo /dot/ com)
 
 [Maria Kholodilova](https://iling.spb.ru/people/kholodilova.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/MariaKholodilova)): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
 
-![V.X.'s photo]({{ site_url_j }}/images/Khrakovsky.jpg "V.X.'s photo")
+![V.X.'s photo]({{ site_url_j }}/images/Khrakovskij.jpg "V.X.'s photo")
 
-[Viktor Khrakovsky]([Academia.edu profile](https://independent.academia.edu/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%A5%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)): Principle research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
+Viktor Khrakovskij([Academia.edu profile](https://independent.academia.edu/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%A5%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)): Principle research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
 
 ![E.K.'s photo]({{ site_url_j }}/images/Kordi.jpg "E.K.'s photo")
 
