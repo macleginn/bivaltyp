@@ -2,7 +2,7 @@
 
 ![S.S.'s photo]({{ site_url_j }}/images/Say.jpg "S.S.'s photo")
 
-[Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/SergeySay)): PhD, Head of the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
+[Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/SergeySay)): PhD, Head of the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences.
 E-mail: (serjozhka /at/ yahoo /dot/ com)
 
 ### Technical team
