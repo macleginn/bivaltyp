@@ -229,7 +229,7 @@ The original Russian version of the questionnaire can be accessed [here](https:/
     P. melted a piece of lead.
 
 73. {{ predicate:match }}  
-    (A girl tries a belt in the shop and says, ‘Great,) this belt goes well with / matches my dress.’]{{ predicate:
+    (A girl tries a belt in the shop and says, ‘Great,) this belt goes well with / matches my dress.’
 
 74. {{ predicate:leave }}  
     P. left his native city.
