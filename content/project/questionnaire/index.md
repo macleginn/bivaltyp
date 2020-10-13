@@ -5,7 +5,7 @@ Some stimulus sentences are accompanied by context information provided in paren
 
 ## How to cite
 If you use this questionnaire, please cite as follows.
-> Say, Sergey, Dmitry Gerasimov, Sergey Dmitrenko, Natalia Zaika, & Viktor Khrakovsky. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
+> Say, Sergey, Dmitry Gerasimov, Sergey Dmitrenko, Natalia Zaika, & Viktor Khrakovskij. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
 
 ## Russian version
 The original Russian version of the questionnaire can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
