@@ -95,29 +95,54 @@
         languageDf = new DataFrame(
             languageData.slice(1),
             columnNames
-        );
+        ),
+        idxDict = {};
+    columnNames.forEach((colname, idx) => { idxDict[colname] = idx; });
 
     let external2internal = {};
     for (const row of languageData.slice(1))
-        external2internal[row[row.length-1]] = row[2];
+        external2internal[idxDict['language_external']] = row[idxDict['language']];
+
+    // const selectedColumns = [
+    //     'language_external',
+    //     'macroarea',
+    //     'family (WALS)',
+    //     'genus (WALS)',
+    //     'number of classes',
+    //     'transitives',
+    //     'X-locus',
+    //     'Y-locus',
+    //     'XY-locus',
+    //     'transitivity ratio',
+    //     'entropy (nat)'
+    // ];
 
     const selectedColumns = [
-        'language_external',
-        'macroarea',
-        'family (WALS)',
-        'genus (WALS)',
-        'number of classes',
-        'transitives',
-        'X-locus',
-        'Y-locus',
-        'XY-locus',
-        'transitivity ratio',
-        'entropy (nat)'
+        "language_external",
+        "macroarea",
+        "family (WALS)",
+        "genus (WALS)",
+        "latitude",
+        "longitude",
+        "overallN",
+        "transitives",
+        "intransitives",
+        "transitivity ratio",
+        "intransitivity ratio",
+        "X",
+        "Y",
+        "XY",
+        "number of classes",
+        "entropy (nat)",
+        "normalised entropy",
+        "entropy of intransitives (nat)",
+        "maximum entropy for intransitives",
+        "entropy ratio"
     ];
 
     let activeLanguages = new Set();
     for (const row of fullData.slice(1)) {
-        activeLanguages.add(row[0]);
+        activeLanguages.add(idxDict['language_no']);
     }
 
     function getLink(row) {
@@ -130,7 +155,15 @@
     // Prettify the df and subset columns
     let languageDfMin = languageDf
         .sortBy('language_external')
-        .map(row => row.set('entropy (nat)', row.get('entropy (nat)').toFixed(3)))
+        .chain(
+            row => row.set('transitivity ratio', row.get('transitivity ratio').toFixed(2)),
+            row => row.set('intransitivity ratio', row.get('intransitivity ratio').toFixed(2)),
+            row => row.set('entropy (nat)', row.get('entropy (nat)').toFixed(2)),
+            row => row.set('normalised entropy', row.get('normalised entropy').toFixed(2)),
+            row => row.set('entropy of intransitives (nat)', row.get('entropy of intransitives (nat)').toFixed(2)),
+            row => row.set('maximum entropy for intransitives', row.get('maximum entropy for intransitives').toFixed(2)),
+            row => row.set('entropy ratio', row.get('entropy ratio').toFixed(2)),
+        )
         .select(...selectedColumns);
 
     // Add a link column

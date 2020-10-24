@@ -42,7 +42,7 @@ for language_no in data.language_no.unique():
               f'X = {X_locus}, Y = {Y_locus}, XY = {XY_locus}')
 
     records.append({
-        'language': lang_dict[language_no],
+        'language_no': language_no,
         'overallN': overall_N,
         'transitives': transitives,
         'intransitives': intransitives,
@@ -59,4 +59,4 @@ for language_no in data.language_no.unique():
         'XY': XY_locus
     })
 stats_df = pd.DataFrame.from_records(records)
-stats_df.to_excel('../data/language_stats.xlsx', index=False)
+stats_df.to_csv('../data/language_stats.csv', index=False, sep='\t')

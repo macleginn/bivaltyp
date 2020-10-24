@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-d = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
+d = pd.read_csv('../data/languages.csv', sep='\t')
 out_columns = [
     "language_no",
     "language_ru",
@@ -13,18 +13,43 @@ out_columns = [
     "genus (WALS)",
     "latitude",
     "longitude",
-    "number of classes",
-    "transitives",
-    "X-locus",
-    "Y-locus",
-    "XY-locus",
-    "transitivity ratio",
-    "entropy (nat)",
     "language_external"
   ]
 d_small = d[out_columns]
-result = [list(d_small.columns)]
-for t in d_small.itertuples():
+
+stats_df = pd.read_csv('../data/language_stats.csv', sep='\t')
+d_final = pd.merge(left=d_small, right=stats_df, on='language_no')
+# Reorder columns
+d_final = d_final[[
+    "language_no",
+    "language",
+    "language_ru",
+    "language_external",
+    "expert",
+    "expert_ru",
+    "macroarea",
+    "family (WALS)",
+    "genus (WALS)",
+    "latitude",
+    "longitude",
+    "overallN",
+    "transitives",
+    "intransitives",
+    "transitivity ratio",
+    "intransitivity ratio",
+    "X",
+    "Y",
+    "XY",
+    "number of classes",
+    "entropy (nat)",
+    "normalised entropy",
+    "entropy of intransitives (nat)",
+    "maximum entropy for intransitives",
+    "entropy ratio"
+]]
+
+result = [list(d_final.columns)]
+for t in d_final.itertuples():
     result.append(list(t)[1:])
 result_string = json.dumps(result, indent=2, ensure_ascii=False)
 with open('../public/js/data/languages.js', 'w', encoding='utf-8') as out:
