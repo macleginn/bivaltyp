@@ -73,7 +73,7 @@ LANGUAGE_FIELDS = {
 }
 
 # Load language meta data.
-LANGUAGE_META = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
+LANGUAGE_META = pd.read_csv('../data/languages.csv', sep='\t')
 LANGUAGE_META.fillna('', inplace=True)
 LANGUAGE_META.index = LANGUAGE_META.language
 
