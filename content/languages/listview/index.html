@@ -17,20 +17,6 @@
     for (const row of languageData.slice(1))
         external2internal[idxDict['language_external']] = row[idxDict['language']];
 
-    // const selectedColumns = [
-    //     'language_external',
-    //     'macroarea',
-    //     'family (WALS)',
-    //     'genus (WALS)',
-    //     'number of classes',
-    //     'transitives',
-    //     'X-locus',
-    //     'Y-locus',
-    //     'XY-locus',
-    //     'transitivity ratio',
-    //     'entropy (nat)'
-    // ];
-
     const selectedColumns = [
         "language_external",
         "macroarea",
@@ -54,7 +40,7 @@
 
     let activeLanguages = new Set();
     for (const row of fullData.slice(1)) {
-        activeLanguages.add(row[idxDict['language_external']]);
+        activeLanguages.add(row[0]);
     }
 
     function getLink(row) {
