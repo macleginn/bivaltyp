@@ -101,7 +101,7 @@
 
     let external2internal = {};
     for (const row of languageData.slice(1))
-        external2internal[idxDict['language_external']] = row[idxDict['language']];
+        external2internal[row[idxDict['language_external']]] = row[idxDict['language']];
 
     const selectedColumns = [
         "language_external",
