@@ -152,7 +152,7 @@
         .select(...selectedColumns);
 
     // Add a link column
-    selectedColumns.splice(1, 0, 'language_link')
+    selectedColumns.splice(2, 0, 'language_link')
     languageDfMin = languageDfMin.restructure(selectedColumns);
     languageDfMin = languageDfMin.map(row => row.set('language_link', getLink(row)))
 
