@@ -1,7 +1,7 @@
 ## How to read the data
 
 ### General
-The dataset is based on a {{ questionnaire }} containing 130 {{ predicates }} given in context. In the questionnaire, two arguments are labelled as the first argument (X) and the second argument (Y), e.g., in ‘Peter is afraid of the dog’, ‘Peter’ is X, and ‘the dog’ is Y. Language-specific valency patterns are identified for individual predicates based on the ways in which X and Y are encoded in translations of stimulus sentences. The gaps in the data appear if no translation of the stimulus sentence has been obtained or if the translation does not meet the acceptance criteria (see below). Also see [instructions for contributors]{{ instructions_for_contributors }} for criteria for choosing the equivalent to be included in the datasetin case several translations are available.
+The dataset is based on a {{ questionnaire }} containing 130 {{ predicates }} given in context. In the questionnaire, two arguments are labelled as the first argument (X) and the second argument (Y), e.g., in ‘Peter is afraid of the dog’, ‘Peter’ is X, and ‘the dog’ is Y. Language-specific valency patterns are identified for individual predicates based on the ways in which X and Y are encoded in translations of stimulus sentences. The gaps in the data appear if no translation of the stimulus sentence has been obtained or if the translation does not meet the acceptance criteria (see below). Also see [instructions for contributors]{{ instructions_for_contributors }} for criteria for choosing the equivalent to be included in the dataset in case several translations are available.
 
 ### Acceptance criteria
 
