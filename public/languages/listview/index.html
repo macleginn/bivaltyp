@@ -121,8 +121,6 @@
         "entropy (nat)",
         "normalised entropy",
         "entropy of intransitives (nat)",
-        "maximum entropy for intransitives",
-        "entropy ratio"
     ];
 
     let activeLanguages = new Set();
@@ -165,6 +163,9 @@
         } else if (colname === 'language_link') {
             columnNamesDisplay.push(colname);
             columns.push({renderer: 'html'});
+        } else if (colname === 'overallN') {
+            columnNamesDisplay.push('overall N');
+            columns.push({renderer: 'text'});
         } else {
             columnNamesDisplay.push(colname);
             columns.push({renderer: 'text'});
