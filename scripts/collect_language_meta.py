@@ -4,6 +4,7 @@ import pandas as pd
 d = pd.read_csv('../data/languages.csv', sep='\t')
 out_columns = [
     "language_no",
+    "glottocode",
     "language_ru",
     "language",
     "expert_ru",
@@ -22,6 +23,7 @@ d_final = pd.merge(left=d_small, right=stats_df, on='language_no')
 # Reorder columns
 d_final = d_final[[
     "language_no",
+    "glottocode",
     "language",
     "language_ru",
     "language_external",

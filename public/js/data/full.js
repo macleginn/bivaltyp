@@ -5627,7 +5627,7 @@ const fullData = [
     "baxta +suvər-ra ka brat-o",
     "woman(F) swear.PST-LS.3F to girl(F)-P.3F",
     "‘The woman punished her daughter.’",
-    "Non-Urmi speaker.",
+    "Non-Urmi speaker. Arguably, the translation is not very accurate. <i>+taləm</i> 'to punish' seems to belong to the same class.",
     "женщина(F) ругать.PST-LS.3F к девочка(F)-P.3F",
     "‎Женщина наказала свою дочь.",
     "",
