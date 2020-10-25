@@ -466,10 +466,12 @@ def pipeline(template_text, parse_markdown, classes=None, language=None, predica
     if language is not None:
         main = div_prefix + main + \
             ('\n' + '<h2>Data</h2>\n' +
-                render_examples_for_language(language)) + '\n</div>'
+                render_examples_for_language(language)) + '\n</div>' + \
+                '\n<div>Please report any errors in the data <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYU88YCezA3zgDpkR_8XmEJdmodMSRNWmsZRmwNtXskujbrA/viewform">here</a>.'
     elif predicate is not None:
         main = div_prefix + main + \
-            render_examples_for_predicate(predicate) + '\n</div>'
+            render_examples_for_predicate(predicate) + '\n</div>' + \
+            '\n<div>Please report any errors in the data <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYU88YCezA3zgDpkR_8XmEJdmodMSRNWmsZRmwNtXskujbrA/viewform">here</a>.'
     else:
         main = div_prefix + main + '\n</div>'
 
