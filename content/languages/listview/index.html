@@ -80,6 +80,15 @@
         } else if (colname === 'overallN') {
             columnNamesDisplay.push('overall N');
             columns.push({renderer: 'text'});
+        } else if (colname === 'X') {
+            columnNamesDisplay.push('X-locis');
+            columns.push({renderer: 'text'});
+        } else if (colname === 'Y') {
+            columnNamesDisplay.push('Y-locus');
+            columns.push({renderer: 'text'});
+        } else if (colname === 'XY') {
+            columnNamesDisplay.push('XY-locus');
+            columns.push({renderer: 'text'});
         } else {
             columnNamesDisplay.push(colname);
             columns.push({renderer: 'text'});
