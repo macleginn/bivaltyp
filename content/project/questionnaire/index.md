@@ -8,7 +8,7 @@ If you use this questionnaire, please cite as follows.
 > Say, Sergey, Dmitry Gerasimov, Sergey Dmitrenko, Natalia Zaika, & Viktor Khrakovskij. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
 
 ## Russian version
-The original Russian version of the questionnaire can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
+See the original Russian version of the questionnaire [below](#russian-version). The original published version can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
 
 ## Questionnaire
 
@@ -401,6 +401,400 @@ The original Russian version of the questionnaire can be accessed [here](https:/
 
 130. {{ predicate:be_shy }}  
     (P. is the smallest in his class.) P. is shy / embarassed about his height.
+    
+<h2 id="russian-questionnaire">Russian questionnaire</h2>
+
+1. {{ predicate_rus:feel_pain }} 
+    У П. болит голова.
+ 
+2. {{ predicate_rus:have#illness# }} 
+    П. болеет гриппом.
+ 
+3. {{ predicate_rus:be_afraid }} 
+    (П. нужно выйти из дома, но во дворе лает собака). П. боится собаки
+ 
+4. {{ predicate_rus:throw }} 
+    (Мальчики соревнуются, кто дальше кинет камень. Сначала) П. бросил камень
+ 
+5. {{ predicate_rus:have_enough }} 
+    (П. нашел новую работу. Теперь) П. хватает денег
+ 
+6. {{ predicate_rus:resemble }} 
+    (М. - дедушка П.) П. похож на М.
+ 
+7. {{ predicate_rus:believe }} 
+    П. верит М.
+ 
+8. {{ predicate_rus:take }} 
+    П. взял книгу (с полки)
+ 
+9. {{ predicate_rus:see }} 
+    П. видит дом.
+ 
+10. {{ predicate_rus:influence }} 
+    Возраст влияет на память.
+ 
+11. {{ predicate_rus:encounter }} 
+    П. встретился с М. (случайно, на улице)
+ 
+12. {{ predicate_rus:enter }} 
+    П. вошел в дом.
+ 
+13. {{ predicate_rus:win }} 
+    (П. играл с М. в шахматы). П. выиграл у М.
+ 
+14. {{ predicate_rus:go_out }} 
+    П. вышел из дома.
+ 
+15. {{ predicate_rus:drive }} 
+    П. гонит корову (на пастбище)
+ 
+16. {{ predicate_rus:bend }} 
+    П. согнул ветку.
+ 
+17. {{ predicate_rus:tell }} 
+    П. сказал М.: ("Приходи ко мне в гости").
+ 
+18. {{ predicate_rus:hold }} 
+    П. держит книгу (в руках)
+ 
+19. {{ predicate_rus:catch_up }} 
+    (П. поссорился с М., и М. ушла. П. пошел за ней). П. догнал М.
+ 
+20. {{ predicate_rus:milk }} 
+    П. подоил корову
+ 
+21. {{ predicate_rus:reach }} 
+    (П. плыл на лодке через речку). П. достиг берега.
+ 
+22. {{ predicate_rus:touch }} 
+    (Стена недавно была покрашена). П. дотронулся до стены (и испачкался).
+ 
+23. {{ predicate_rus:fight }} 
+    (- Посмотри во двор. - А что там?). П. дерется с М.
+ 
+24. {{ predicate_rus:be_friends }} 
+    П. дружит с М.
+ 
+25. {{ predicate_rus:think }} 
+    (У П. задумчивый вид). П. думает о М.
+ 
+26. {{ predicate_rus:eat }} 
+    П. съел яблоко
+ 
+27. {{ predicate_rus:fry }} 
+    П. пожарил рыбу
+ 
+28. {{ predicate_rus:wait }} 
+    (П. и М. договорились встретиться в два часа на почте). П. ждет М.
+ 
+29. {{ predicate_rus:forget }} 
+    (П. однажды уже ездил в этот город и знал, что туда есть более короткая дорога. Но сейчас он поехал туда снова и выбрал более длинную). П. забыл о другой дороге.
+ 
+30. {{ predicate_rus:depend }} 
+    Память зависит от возраста.
+ 
+31. {{ predicate_rus:call }} 
+    (П. пытался сам открыть дверь, но не смог. Тогда) П. позвал М.
+ 
+32. {{ predicate_rus:get_to_know }} 
+    П. познакомился с М. год тому назад.
+ 
+33. {{ predicate_rus:know }} 
+    П. знает М.
+ 
+34. {{ predicate_rus:play#instrument# }} 
+    (Что сейчас делает П.?) П. играет на гитаре.
+ 
+35. {{ predicate_rus:avoid }} 
+    (П. должен М. крупную сумму денег, которую не может вернуть. Поэтому) П. избегает М.
+ 
+36. {{ predicate_rus:make }} 
+    П. изготовил мышеловку.
+ 
+37. {{ predicate_rus:make_fun }} 
+    (М. сделал(а) что-то очень глупое. Теперь) П. издевается над М.
+ 
+38. {{ predicate_rus:have }} 
+    У П. есть машина
+ 
+39. {{ predicate_rus:look_for }} 
+    П. ищет ключи.
+ 
+40. {{ predicate_rus:paint }} 
+    П. покрасил забор.
+ 
+41. {{ predicate_rus:bite }} 
+    Собака укусила П.
+ 
+42. {{ predicate_rus:forfeit }} 
+    (В деревне был пожар. В результате) П. лишился дома.
+ 
+43. {{ predicate_rus:try_to_catch }} 
+    (Кошка выскочила из дома). П. ловит кошку.
+ 
+44. {{ predicate_rus:break }} 
+    П. сломал палку.
+ 
+45. {{ predicate_rus:flatter }} 
+    (П. говорит М., что она очень красивая). П. льстит М.
+ 
+46. {{ predicate_rus:love1 }} 
+    П. любит М.
+ 
+47. {{ predicate_rus:wave }} 
+    (Смотрите, на другом берегу реки стоит П.). П. машет платком.
+ 
+48. {{ predicate_rus:dream }} 
+    П. мечтает о (новой) машине.
+ 
+49. {{ predicate_rus:wash }}  
+    П. вымыл чашку.
+ 
+50. {{ predicate_rus:put_on }} 
+    П. надел штаны.
+ 
+51. {{ predicate_rus:be_called }} 
+    (Мальчик увидел у отца компас и спросил, что это такое. Отец отвечает ему:) Этот предмет / инструмент называется компас / компасом."
+ 
+52. {{ predicate_rus:punish }} 
+    (Сын П. плохо себя вел) П. наказал своего сына.
+ 
+53. {{ predicate_rus:attack }} 
+    Медведь напал на рыбака.
+ 
+54. {{ predicate_rus:fill#intr# }} 
+    (Во время дождя ведро стояло на улице) Ведро наполнилось водой.
+ 
+55. {{ predicate_rus:find }} 
+    П. нашел ключи.
+ 
+56. {{ predicate_rus:be_short }} 
+    (П. хочет купить билет. Он посчитал деньги и выяснилось, что) П. недостает одного доллара.
+ 
+57. {{ predicate_rus:hate }} 
+    П. ненавидит М.
+ 
+58. {{ predicate_rus:like }} 
+    П. нравится эта рубашка
+ 
+59. {{ predicate_rus:need }} 
+    (Дом П. ограбили и унесли все, что там было. Теперь) П. нуждается в деньгах / П. нужны деньги.
+ 
+60. {{ predicate_rus:surround }} 
+    Стены окружают город.
+ 
+61. {{ predicate_rus:remain }} 
+    (У П. было 100 долларов, но он купил телевизор и теперь) у П. осталось 10 долларов.
+ 
+62. {{ predicate_rus:answer }} 
+    (Учитель спросил у П., как зовут его родителей). П. ответил учителю.
+ 
+63. {{ predicate_rus:open }} 
+    П. открыл банку.
+ 
+64. {{ predicate_rus:be_different }} 
+    (М. сказал П., что у них одинаковые рубашки. П. отвечает ему: «Нет,) моя рубашка отличается от твоей (она более темная").
+ 
+65. {{ predicate_rus:fall_behind }} 
+    (П. и М. вместе пошли в школу, но) П. отстал от М.
+ 
+66. {{ predicate_rus:plough }} 
+    П. пашет поле.
+ 
+67. {{ predicate_rus:smell }} 
+    (Я чинил машину). Мои руки пахнут бензином.
+ 
+68. {{ predicate_rus:cross }} 
+    (П. увидел, что магазин на другой стороне дороги. Тогда). П. пересек дорогу (и вошел в магазин).
+ 
+69. {{ predicate_rus:sing }} 
+    П. спел красивую песню.
+ 
+70. {{ predicate_rus:write }} 
+    П. написал письмо.
+ 
+71. {{ predicate_rus:drink }} 
+    (Мама налила П. стакан молока) П. выпил молоко.
+ 
+72. {{ predicate_rus:melt }} 
+    П. расплавил кусок свинца.
+ 
+73. {{ predicate_rus:match }} 
+    (Девушка меряет в магазине пояс и говорит: «Отлично,) этот пояс подходит к моему платью».
+ 
+74. {{ predicate_rus:leave }} 
+    П. покинул родной город.
+ 
+75. {{ predicate_rus:cover }} 
+    Ковер покрывает весь пол.
+ 
+76. {{ predicate_rus:remember }} 
+    П. хорошо помнит дом (в котором вырос).
+ 
+77. {{ predicate_rus:help }} 
+    (М. не могла сама сделать домашнее задание). П. помог М.
+ 
+78. {{ predicate_rus:understand }} 
+    П. понимает французский язык.
+ 
+79. {{ predicate_rus:hit#target# }} 
+    Молния попала в дом.
+ 
+80. {{ predicate_rus:cut_oneself }} 
+    П. порезался бритвой.
+ 
+81. {{ predicate_rus:get_stuck }} 
+    (Стол недавно покрасили, а П. не знал этого и поставил на него стакан). Стакан прилип к столу.
+ 
+82. {{ predicate_rus:lose#game# }} 
+    (П. играл с М. в шахматы). П. проиграл М.
+ 
+83. {{ predicate_rus:be_glad }} 
+    (П. получил письмо от М.). П. обрадовался письму.
+ 
+84. {{ predicate_rus:speak }} 
+    (Я искал П. Когда я вошел в комнату, я увидел, что) П. разговаривает с М.
+ 
+85. {{ predicate_rus:give_birth }} 
+    М. родила сына.
+ 
+86. {{ predicate_rus:drop }} 
+    П. уронил стакан.
+ 
+87. {{ predicate_rus:govern }} 
+    П. руководит нашим поселком.
+ 
+88. {{ predicate_rus:miss }} 
+    П. скучает по М.
+ 
+89. {{ predicate_rus:follow }} 
+    П. следует за М.
+ 
+90. {{ predicate_rus:dismount }} 
+    П. слез с лошади.
+ 
+91. {{ predicate_rus:listen }} 
+    (Что делает П.?) П. слушает радио.
+ 
+92. {{ predicate_rus:obey }} 
+    (М. хулиган, плохо себя ведет, а) П. слушается маму.
+ 
+93. {{ predicate_rus:hear }} 
+    П. слышит музыку.
+ 
+94. {{ predicate_rus:mix }} 
+    (В сосуд с молоком положили мед и размешали). Мед смешался с молоком.
+ 
+95. {{ predicate_rus:look }} 
+    П. смотрит на тучи (он хочет понять, будет ли дождь).
+ 
+96. {{ predicate_rus:take_off }} 
+    П. снял рубашку.
+ 
+97. {{ predicate_rus:dream#sleeping# }} 
+    (П. спит). П. снится М.
+ 
+98. {{ predicate_rus:agree }} 
+    (М. сказала П., что их сыну надо выучить английский язык). П. согласился с М.
+ 
+99. {{ predicate_rus:have_a_quarrel }} 
+    П. поссорился с М.
+ 
+100. {{ predicate_rus:cost }} 
+    Эта чашка стоит один доллар.
+ 
+101. {{ predicate_rus:shoot_at }} 
+    П. выстрелил в птицу (Он не попал).
+ 
+102. {{ predicate_rus:pour }} 
+    П. насыпал сахар (в чашку).
+ 
+103. {{ predicate_rus:lose }} 
+    П. потерял ключи.
+ 
+104. {{ predicate_rus:sink }} 
+    (У этого дерева очень тяжелая древесина. Однажды я кинул полено в речку). Полено утонуло в воде.
+ 
+105. {{ predicate_rus:kill }} 
+    П. убил М.
+ 
+106. {{ predicate_rus:hit }} 
+    П. ударил М.
+ 
+107. {{ predicate_rus:kiss }} 
+    П. поцеловал М.
+ 
+108. {{ predicate_rus:read }} 
+    П. прочитал интересную книгу.
+ 
+109. {{ predicate_rus:move#bodypart# }} 
+    П. пошевелил пальцем.
+ 
+110. {{ predicate_rus:respect }} 
+    П. уважает М.
+ 
+111. {{ predicate_rus:be_squeamish }} 
+    П. брезгует грязной посудой
+ 
+112. {{ predicate_rus:be_content }} 
+    (Сын П. хорошо учится в школе). П. доволен своим сыном.
+ 
+113. {{ predicate_rus:fall_in_love }} 
+    П. влюбился в М.
+ 
+114. {{ predicate_rus:trust }} 
+    (У П. и М. дружная семья, М. никогда не обманывает П.) П. доверяет М.
+ 
+115. {{ predicate_rus:sympathise }} 
+    (Мать П. очень больна). П. жалеет свою мать.
+ 
+116. {{ predicate_rus:envy }} 
+    (У М. есть машина, а у П. — нет) П. завидует М.
+ 
+117. {{ predicate_rus:be_angry }} 
+    П. злится на М.
+ 
+118. {{ predicate_rus:be_surprised }} 
+    (М. сделала П. дорогой подарок). П. удивился этому подарку.
+ 
+119. {{ predicate_rus:love2 }} 
+    П. любит чай.
+ 
+120. {{ predicate_rus:enjoy }} 
+    (После холодной воды) П. наслаждается горячим чаем.
+ 
+121. {{ predicate_rus:want }} 
+    П. хочет новый мобильник.
+ 
+122. {{ predicate_rus:have_a_grudge }} 
+    (Почему П. не разговаривает с М.?) П. сердится на М.
+ 
+123. {{ predicate_rus:take_offence }} 
+    (М. назвала П. дураком). П. обиделся на М.
+ 
+124. {{ predicate_rus:upset }} 
+    П. очень огорчил М. (Он сказал, что потратил все деньги).
+ 
+125. {{ predicate_rus:marvel }} 
+    (П. приехал в столицу). П. поразился этому городу.
+ 
+126. {{ predicate_rus:despise }} 
+    П. презирает М.
+ 
+127. {{ predicate_rus:get_upset }} 
+    (Сын П. опять получил плохие оценки в школе). П. огорчился из-за своего сына.
+ 
+128. {{ predicate_rus:get_irritated }} 
+    (- У П. очень скверный характер. Смотрите, снова) – П. раздражается на свою дочь.
+ 
+129. {{ predicate_rus:be_fond }} 
+    П. симпатизирует М.
+ 
+130. {{ predicate_rus:be_shy }} 
+    (П. самый маленький по росту в своем классе). П. стесняется своего роста.
+
+
 <script>
 function toggleRussianCitation(element) {
     if (element.value === 'Show Russian citation') {

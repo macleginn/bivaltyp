@@ -93,6 +93,9 @@ PHYLO_DICT = {
 # This should not be a problem.
 PREDICATES = pd.read_csv('../data/predicates.csv', sep='\t')
 PREDICATES.index = PREDICATES.predicate_no
+PREDICATE_EN2RU_DICT = {
+    tup.predicate_label_en: tup.predicate_label_ru for tup in PREDICATES.itertuples()
+}
 
 # Load the golden-data.
 GOLDEN_DATA = pd.read_csv('../data/data.csv', sep='\t')
@@ -121,19 +124,29 @@ def lang_link(lang_name, get_text=False):
     return xml2str(a).strip() if get_text else a
 
 
-def pred_link(tup, get_text=False):
-    predicate_name = PATTERNS.loc[tup.predicate_no].predicate_label_en
-    return pred_link_from_name(predicate_name, get_text)
+def pred_link(tup, get_text=False, lang='en'):
+    if lang == 'en':
+        predicate_name = PATTERNS.loc[tup.predicate_no].predicate_label_en
+    elif lang == 'ru':
+        predicate_name = PATTERNS.loc[tup.predicate_no].predicate_label_ru
+    else:
+        raise ValueError(f'Wrong language: {lang}')
+    return pred_link_from_name(predicate_name, get_text, lang)
 
 
-def pred_link_from_name(predicate_name, get_text=False):
+def pred_link_from_name(predicate_name, get_text=False, lang='en'):
     a = ET.Element('a', attrib={
         'class': 'data-link',
         'href': '{{ site_url_j }}/predicates/pred/' +
                 predicate_name.replace('#', '') +
                 '.html'
     })
-    a.text = cleanup_predicate(predicate_name).strip()
+    if lang == 'en':
+        a.text = cleanup_predicate(predicate_name).strip()
+    elif lang == 'ru':
+        a.text = PREDICATE_EN2RU_DICT[predicate_name]
+    else:
+        raise ValueError(f'Wrong language: {lang}')
     return xml2str(a) if get_text else a
 
 
@@ -156,6 +169,9 @@ def process_language_and_predicate_links(text):
     for match in predicate_link_pattern.finditer(text):
         predicate = match.group('predicate')
         replacement_dict[match.group(0)] = pred_link_from_name(predicate, True)
+    for match in predicate_link_pattern_ru.finditer(text):
+        predicate = match.group('predicate')
+        replacement_dict[match.group(0)] = pred_link_from_name(predicate, True, 'ru')
     # Replace keys from longest to shortest
     # to obviate substring problems.
     tuples = sorted(replacement_dict.items(),

@@ -8,6 +8,13 @@ predicate_link_pattern = re.compile(r'''
                                     \s*
                                     \}\}''',
                                     re.X)
+predicate_link_pattern_ru = re.compile(r'''
+                                       \{\{
+                                       \s*
+                                       predicate_rus:(?P<predicate>\S+)
+                                       \s*
+                                       \}\}''',
+                                       re.X)
 language_link_pattern = re.compile(r'''
                                    \{\{
                                    \s*
