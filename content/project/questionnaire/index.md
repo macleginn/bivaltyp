@@ -1,14 +1,14 @@
 ## General
 Each entry in the questionnaire consists of a number (1–130), an English name of the predicate (referred to as “Predicate”, e.g., ‘be afraid’, ‘throw’, etc.), and a stimulus sentence used in elicitation.
 Some stimulus sentences are accompanied by context information provided in parentheses. These pieces of information are intended as semantic cues that make the described situations more specific. For example, in 101, the sentence “P. shot at the bird” is accompanied by the comment “(He missed.)”. This means that the translation equivalent of ‘shoot’ should be compatible with the idea that the shot went wide, but ‘he missed’ should not necessarily be translated into the target language.
-“P.” and “M.” stand for person names (or else other human noun phrases) that the contributor might choose in accordance with the cultural context of the investigated language. Each stimulus sentence contains two nominal arguments, labeled X and Y (see {{ Predicates }} for details).
+“P.” and “M.” stand for person names (or else other human noun phrases) that the contributor might choose in accordance with the cultural context of the investigated language. Each stimulus sentence contains two nominal arguments, labeled X and Y (see {{ predicates }} for details).
 
 ## How to cite
 If you use this questionnaire, please cite as follows.
 > Say, Sergey, Dmitry Gerasimov, Sergey Dmitrenko, Natalia Zaika, & Viktor Khrakovskij. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
 
 ## Russian version
-See the original Russian version of the questionnaire [below](#russian-version). The original published version can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
+See the original Russian version of the questionnaire [below](#russian-questionnaire). The original published version can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
 
 ## Questionnaire
 
