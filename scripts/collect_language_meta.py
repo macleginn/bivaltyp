@@ -46,8 +46,8 @@ d_final = d_final[[
     "entropy (nat)",
     "normalised entropy",
     "entropy of intransitives (nat)",
-    "maximum entropy for intransitives",
-    "entropy ratio"
+    # "maximum entropy for intransitives",
+    # "entropy ratio"
 ]]
 
 result = [list(d_final.columns)]

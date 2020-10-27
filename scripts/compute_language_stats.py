@@ -52,8 +52,8 @@ for language_no in data.language_no.unique():
         'entropy (nat)': entropy_nat,
         'normalised entropy': entropy_over_logN,
         'entropy of intransitives (nat)': entropy_intr_nat,
-        'maximum entropy for intransitives': entropy_max_intr,
-        'entropy ratio': entropy_intr_over_max_intr,
+        # 'maximum entropy for intransitives': entropy_max_intr,
+        # 'entropy ratio': entropy_intr_over_max_intr,
         'X': X_locus,
         'Y': Y_locus,
         'XY': XY_locus
