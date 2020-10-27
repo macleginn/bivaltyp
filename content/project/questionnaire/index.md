@@ -5,7 +5,7 @@ Some stimulus sentences are accompanied by context information provided in paren
 
 ## How to cite
 If you use this questionnaire, please cite as follows.
-> Say, Sergey, Dmitry Gerasimov, Sergey Dmitrenko, Natalia Zaika, & Viktor Khrakovskij. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
+> Say, Sergey, Sergey Dmitrenko, Dmitry Gerasimov, Viktor Khrakovskij, & Natalia Zaika. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St.Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
 
 ## Russian version
 See the original Russian version of the questionnaire [below](#russian-questionnaire). The original published version can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
@@ -411,22 +411,22 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. болеет гриппом.
  
 3. {{ predicate_rus:be_afraid }} 
-    (П. нужно выйти из дома, но во дворе лает собака). П. боится собаки
+    (П. нужно выйти из дома, но во дворе лает собака). П. боится собаки.
  
 4. {{ predicate_rus:throw }} 
-    (Мальчики соревнуются, кто дальше кинет камень. Сначала) П. бросил камень
+    (Мальчики соревнуются, кто дальше кинет камень. Сначала) П. бросил камень.
  
 5. {{ predicate_rus:have_enough }} 
-    (П. нашел новую работу. Теперь) П. хватает денег
+    (П. нашел новую работу. Теперь) П. хватает денег.
  
 6. {{ predicate_rus:resemble }} 
-    (М. - дедушка П.) П. похож на М.
+    (М. - дедушка П.). П. похож на М.
  
 7. {{ predicate_rus:believe }} 
     П. верит М.
  
 8. {{ predicate_rus:take }} 
-    П. взял книгу (с полки)
+    П. взял книгу (с полки).
  
 9. {{ predicate_rus:see }} 
     П. видит дом.
@@ -447,22 +447,22 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. вышел из дома.
  
 15. {{ predicate_rus:drive }} 
-    П. гонит корову (на пастбище)
+    П. гонит корову (на пастбище).
  
 16. {{ predicate_rus:bend }} 
     П. согнул ветку.
  
 17. {{ predicate_rus:tell }} 
-    П. сказал М.: ("Приходи ко мне в гости").
+    П. сказал М.: («Приходи ко мне в гости»).
  
 18. {{ predicate_rus:hold }} 
-    П. держит книгу (в руках)
+    П. держит книгу (в руках).
  
 19. {{ predicate_rus:catch_up }} 
     (П. поссорился с М., и М. ушла. П. пошел за ней). П. догнал М.
  
 20. {{ predicate_rus:milk }} 
-    П. подоил корову
+    П. подоил корову.
  
 21. {{ predicate_rus:reach }} 
     (П. плыл на лодке через речку). П. достиг берега.
@@ -471,7 +471,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     (Стена недавно была покрашена). П. дотронулся до стены (и испачкался).
  
 23. {{ predicate_rus:fight }} 
-    (- Посмотри во двор. - А что там?). П. дерется с М.
+    (- Посмотри во двор. - А что там?). - П. дерется с М.
  
 24. {{ predicate_rus:be_friends }} 
     П. дружит с М.
@@ -480,10 +480,10 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     (У П. задумчивый вид). П. думает о М.
  
 26. {{ predicate_rus:eat }} 
-    П. съел яблоко
+    П. съел яблоко.
  
 27. {{ predicate_rus:fry }} 
-    П. пожарил рыбу
+    П. пожарил рыбу.
  
 28. {{ predicate_rus:wait }} 
     (П. и М. договорились встретиться в два часа на почте). П. ждет М.
@@ -516,7 +516,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     (М. сделал(а) что-то очень глупое. Теперь) П. издевается над М.
  
 38. {{ predicate_rus:have }} 
-    У П. есть машина
+    У П. есть машина.
  
 39. {{ predicate_rus:look_for }} 
     П. ищет ключи.
@@ -555,16 +555,16 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. надел штаны.
  
 51. {{ predicate_rus:be_called }} 
-    (Мальчик увидел у отца компас и спросил, что это такое. Отец отвечает ему:) Этот предмет / инструмент называется компас / компасом."
+    (Мальчик увидел у отца компас и спросил, что это такое. Отец отвечает ему:) «Этот предмет / инструмент называется компас / компасом».
  
 52. {{ predicate_rus:punish }} 
-    (Сын П. плохо себя вел) П. наказал своего сына.
+    (Сын П. плохо себя вел). П. наказал своего сына.
  
 53. {{ predicate_rus:attack }} 
     Медведь напал на рыбака.
  
 54. {{ predicate_rus:fill#intr# }} 
-    (Во время дождя ведро стояло на улице) Ведро наполнилось водой.
+    (Во время дождя ведро стояло на улице). Ведро наполнилось водой.
  
 55. {{ predicate_rus:find }} 
     П. нашел ключи.
@@ -576,7 +576,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. ненавидит М.
  
 58. {{ predicate_rus:like }} 
-    П. нравится эта рубашка
+    П. нравится эта рубашка.
  
 59. {{ predicate_rus:need }} 
     (Дом П. ограбили и унесли все, что там было. Теперь) П. нуждается в деньгах / П. нужны деньги.
@@ -594,7 +594,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. открыл банку.
  
 64. {{ predicate_rus:be_different }} 
-    (М. сказал П., что у них одинаковые рубашки. П. отвечает ему: «Нет,) моя рубашка отличается от твоей (она более темная").
+    (М. сказал П., что у них одинаковые рубашки. П. отвечает ему: «Нет,) моя рубашка отличается от твоей (она более темная)».
  
 65. {{ predicate_rus:fall_behind }} 
     (П. и М. вместе пошли в школу, но) П. отстал от М.
@@ -615,7 +615,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. написал письмо.
  
 71. {{ predicate_rus:drink }} 
-    (Мама налила П. стакан молока) П. выпил молоко.
+    (Мама налила П. стакан молока). П. выпил молоко.
  
 72. {{ predicate_rus:melt }} 
     П. расплавил кусок свинца.
@@ -675,7 +675,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. слез с лошади.
  
 91. {{ predicate_rus:listen }} 
-    (Что делает П.?) П. слушает радио.
+    (- Что делает П.?) - П. слушает радио.
  
 92. {{ predicate_rus:obey }} 
     (М. хулиган, плохо себя ведет, а) П. слушается маму.
@@ -705,7 +705,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     Эта чашка стоит один доллар.
  
 101. {{ predicate_rus:shoot_at }} 
-    П. выстрелил в птицу (Он не попал).
+    П. выстрелил в птицу. (Он не попал).
  
 102. {{ predicate_rus:pour }} 
     П. насыпал сахар (в чашку).
@@ -735,7 +735,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. уважает М.
  
 111. {{ predicate_rus:be_squeamish }} 
-    П. брезгует грязной посудой
+    П. брезгует грязной посудой.
  
 112. {{ predicate_rus:be_content }} 
     (Сын П. хорошо учится в школе). П. доволен своим сыном.
@@ -750,7 +750,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     (Мать П. очень больна). П. жалеет свою мать.
  
 116. {{ predicate_rus:envy }} 
-    (У М. есть машина, а у П. — нет) П. завидует М.
+    (У М. есть машина, а у П. — нет). П. завидует М.
  
 117. {{ predicate_rus:be_angry }} 
     П. злится на М.
@@ -768,7 +768,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     П. хочет новый мобильник.
  
 122. {{ predicate_rus:have_a_grudge }} 
-    (Почему П. не разговаривает с М.?) П. сердится на М.
+    (- Почему П. не разговаривает с М.?) - П. сердится на М.
  
 123. {{ predicate_rus:take_offence }} 
     (М. назвала П. дураком). П. обиделся на М.
@@ -786,7 +786,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
     (Сын П. опять получил плохие оценки в школе). П. огорчился из-за своего сына.
  
 128. {{ predicate_rus:get_irritated }} 
-    (- У П. очень скверный характер. Смотрите, снова) – П. раздражается на свою дочь.
+    (У П. очень скверный характер. Смотрите, снова) П. раздражается на свою дочь.
  
 129. {{ predicate_rus:be_fond }} 
     П. симпатизирует М.
