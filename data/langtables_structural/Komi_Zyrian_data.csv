@@ -125,7 +125,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 34	Komi_Zyrian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	майшöдлыны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	шензьыны	NOM	INS	Y	NOM_INS									
 34	Komi_Zyrian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	мустöмтны 	*	*	*								"Решил не брать, совпадает 57 ""ненавидеть"", но то значение более точно"		
-34	Komi_Zyrian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	шогö усьны	NOM	ponda	Y	NOM_pynda							"Букв. ""упасть в горе"""		
+34	Komi_Zyrian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	шогö усьны	NOM	ponda	Y	NOM_ponda							"Букв. ""упасть в горе"""		
 34	Komi_Zyrian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	дöзмыны	NOM	vylo	Y	NOM_vylo							Там послелог в какой-то особой форме		
 34	Komi_Zyrian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*								"По сути там есть только вариант, похожий на нравиться, ""приходить кому-то на сердце"" и т.п."		
 34	Komi_Zyrian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	яндысьны	NOM	ELA	Y	NOM_ELA									

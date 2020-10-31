@@ -63,7 +63,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 82	Saami_Southern	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	vaestied-i	NOM	ACC	TR	TR							
 82	Saami_Southern	63	open	X (open) Y	открывать	X (открывать) Y	rihpest-i	NOM	ACC	TR	TR							
 82	Saami_Southern	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*	*	*	*								"Pending question for Richard. ""Моя рубашка не как твоя"", пока не засчитываем"
-82	Saami_Southern	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	sjidt-i	NOM	GENmänngan	Y	NOM_GENmanngan							"lit. 'become after'. Constituency is ""X [Y-GEN after] become"""
+82	Saami_Southern	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	sjidt-i	NOM	GENmanngan	Y	NOM_GENmanngan							"lit. 'become after'. Constituency is ""X [Y-GEN after] become"""
 82	Saami_Southern	66	plough	X (plough) Y	пахать	X (пахать) Y	*	*	*	*								Нет эквивалента (и в словаре тоже нет)
 82	Saami_Southern	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	hepsie-h	NOM	ELA	Y	NOM_ELA							"Есть еще вариант X-NOM smell Y-ELA, но носителю больше нравится представленный здесь вариант ""От моих рук пахнет бензин"". Неясно, почему ""бензин"" во множественном числе, но на глаголе согласование SG."
 82	Saami_Southern	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	vaadtja	NOM	GENraaste	Y	NOM_GENraaste							" Сам глагол значит ""walk"". Lit. 'walk across the road'"
@@ -81,7 +81,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 82	Saami_Southern	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	tjoehpede	NOM	COM	Y	NOM_COM							REFL
 82	Saami_Southern	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	dabran-i	NOM	ILL	Y	NOM_ILL							
 82	Saami_Southern	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	dass-i	NOM	GENvuestie	Y	NOM_GENvuestie							"То же, что в 103 и 42 (""терять""), но другое управление"
-82	Saami_Southern	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	feejjen sjidt-i	NOM	GENåvteste	Y	NOM_GENavteste							"NV ""became glad"". Richard: "" a(n awkward) literal translation"" is ""Hilje was glad for the letter"""
+82	Saami_Southern	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	feejjen sjidt-i	NOM	GENavteste	Y	NOM_GENavteste							"NV ""became glad"". Richard: "" a(n awkward) literal translation"" is ""Hilje was glad for the letter"""
 82	Saami_Southern	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	soptseste	NOM	COM	Y	NOM_COM							
 82	Saami_Southern	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	baersield-i	NOM	ACC	TR	TR							
 82	Saami_Southern	86	drop	X (drop) Y	ронять	X (ронять) Y	gahtjed-i	NOM	ACC	TR	TR							

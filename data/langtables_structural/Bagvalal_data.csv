@@ -79,7 +79,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 11	Bagvalal	78	understand	X (understand) Y	понимать	X (понимать) Y		DAT	NOM	X	DAT_NOM							
 11	Bagvalal	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		*	*	*								
 11	Bagvalal	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		*	*	*								
-11	Bagvalal	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM 	COMIT	Y	NOM_COM							
+11	Bagvalal	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM 	COM	Y	NOM_COM							
 11	Bagvalal	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM 	CONTESS	Y	NOM_CONTESS							
 11	Bagvalal	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		NOM 	SUPEL	Y	NOM_SUPEL							
 11	Bagvalal	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		*	*	*								
@@ -96,8 +96,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 11	Bagvalal	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM 	ADESS	Y	NOM_ADESS							
 11	Bagvalal	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		ERG	NOM	TR	TR							
 11	Bagvalal	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		*	*	*								
-11	Bagvalal	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM 	COMIT	Y	NOM_COM							
-11	Bagvalal	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM 	COMIT	Y	NOM_COM							
+11	Bagvalal	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM 	COM	Y	NOM_COM							
+11	Bagvalal	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM 	COM	Y	NOM_COM							
 11	Bagvalal	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*	*	*								
 11	Bagvalal	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		ERG	ADESS	Y	ERG_ADESS							"Это каузатив от ""лопаться"", в позиции прямого дополнения оружие"
 11	Bagvalal	102	pour	X (pour) Y	сыпать	X (сыпать) Y		ERG	NOM	TR	TR							

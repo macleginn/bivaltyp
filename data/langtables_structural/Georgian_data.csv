@@ -98,7 +98,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 44	Georgian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	Ø-e-sizmr-eb-a	DAT	NOM	X	DAT_NOM							
 44	Georgian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	da-Ø-e-tanxm-a	NOM	DAT	Y	NOM_DAT							
 44	Georgian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	*	*	*	*								"По сути это сразу значит ""драться"""
-44	Georgian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	Ø-γir-s	NOM	NOM	Y	NOM_NOM_							
+44	Georgian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	Ø-γir-s	NOM	NOM	Y	NOM_NOM							
 44	Georgian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	Ø-e-sr-ol-a	ERG	DAT	Y	ERG_DAT							
 44	Georgian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	ča-Ø-i-q'ar-a	ERG	NOM	TR	TR							Здесь обязательно должно быть выражено (себе, этот пример, который я беру) или кому-то еще. На маркировании П. и сахара не влияет
 44	Georgian	103	lose	X (lose) Y	терять	X (терять) Y	da-Ø-k'arg-a	ERG	NOM	TR	TR							Есть еще конструкция с тем же корнем, но в другой версии, там DAT-NOM. Но я ее не беру, т.к. она сравнительно редкая. Она эксплицитно маркирует, что действие было неконтролируемым (здесь возможны обе интерпретации)

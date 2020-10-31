@@ -107,7 +107,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 7	Finnish_Ingrian	106	hit	X (hit) Y	ударить	X (ударять) Y-а		NOM	GEN~PART~NOM	TR	TR							
 7	Finnish_Ingrian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		NOM	PART	Y	NOM_PART							
 7	Finnish_Ingrian	108	read	X (read) Y	читать	X (читать) Y-а		NOM	GEN~PART~NOM	TR	TR							
-7	Finnish_Ingrian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		NOM	AD+	Y	NOM_AD							а также партитив
+7	Finnish_Ingrian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		NOM	AD	Y	NOM_AD							а также партитив
 7	Finnish_Ingrian	110	respect	X (respect) Y	уважать	X (уважать) Y-а		NOM	EL	Y	NOM_EL							вариативности нет
 7	Finnish_Ingrian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		NOM	EL	Y	NOM_EL							а также партитив
 7	Finnish_Ingrian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		NOM	EL	Y	NOM_EL							

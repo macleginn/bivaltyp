@@ -21,7 +21,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 5	Tsakhur	20	milk	X (milk) Y	доить	X (доить) Y-а	gjāzas	ERG	NOM	TR	TR							Argument frame in Kibrik =<кто: erg; что: nom>. 
 5	Tsakhur	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	-	*	*	*								0
 5	Tsakhur	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	set’as	NOM	CONTESS	Y	NOM_CONTESS							Argument frame in Kibrik =<кто: nom; до кого || до чего: contess || comit>. также ‘задевать’; также ‘сталкиваться’ <кто: nom; с кем || с чем: contess>. iRikar-(h)a?as <кто: erg; кого: nom> также ‘шевелить’, ‘задевать’
-5	Tsakhur	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	saIjXas	NOM	COMIT	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit>. скорее ‘ругаться’, ‘ссориться'. sačaxaras <кто: nom; с кем: comit> также ‘цепляться’
+5	Tsakhur	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	saIjXas	NOM	COM	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit>. скорее ‘ругаться’, ‘ссориться'. sačaxaras <кто: nom; с кем: comit> также ‘цепляться’
 5	Tsakhur	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	-	*	*	*								0
 5	Tsakhur	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	fikirramiš-xes	NOM	SUPEL	Y	NOM_SUPEL							Argument frame in Kibrik =<кто: nom; о ком || о чём: supel> . || <кто: nom; что: s> fikir hā?as <кто: erg; что: atr> = ‘мысль делать’
 5	Tsakhur	26	eat	X (eat) Y	есть	X (есть) Y	oxanas	ERG	NOM	TR	TR							Argument frame in Kibrik =<кто: erg; что: nom>. 
@@ -30,7 +30,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 5	Tsakhur	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	k’eliXanas	ADEL	NOM	X	ADEL_NOM							Argument frame in Kibrik =<кто: adel; что: nom || s>. 
 5	Tsakhur	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	aslira ixes	*	*	*								Argument frame in Kibrik =<кто || что: nom; от кого || от чего: contel>. CV
 5	Tsakhur	31	call	X (call) Y	звать	X (звать) Y-а	qot’alas	ERG	NOM	TR	TR							Argument frame in Kibrik =<кто: erg; кого: nom>. 
-5	Tsakhur	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	taniš-xes	NOM	COMIT	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit>. 
+5	Tsakhur	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	taniš-xes	NOM	COM	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit>. 
 5	Tsakhur	33	know	X (know) Y	знать 	X (знать) Y-а	ac’a	ERG	NOM	TR	TR							Argument frame in Kibrik =<кто: erg; кого || что: nom >. 
 5	Tsakhur	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	hek’◦as 	ERG	NOM	TR	TR							Argument frame in Kibrik =<кто: erg; на чём: nom>. только о духовых инструментах; также ‘петь’ (<кто: nom>); кроме этого даётся только hiwag◦as ‘играть, гулять с кем’ <кто: nom; с кем: comit>
 5	Tsakhur	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	-	*	*	*								0
@@ -96,8 +96,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 5	Tsakhur	95	look	X (look) at Y	смотреть	X (смотреть) на Y	iljak̅as || ulak̅as	NOM	ALL	Y	NOM_ALL							Argument frame in Kibrik =<кто: nom; на кого: all>. 
 5	Tsakhur	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	qak̅jahas	ERG	NOM	TR	TR							Argument frame in Kibrik =<кто: erg; что: nom>. 
 5	Tsakhur	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nik’ē Gaǯes	*	*	*								Argument frame in Kibrik =<кому: aff; что: nom || S>. CV,= ‘во сне видеть’
-5	Tsakhur	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	razj-xes	NOM	COMIT	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit; в чём: supel || s>. 
-5	Tsakhur	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	saIjXas	NOM	COMIT	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit>. также, возможно, ‘драться’ (23). hiIǯat ha?as <кто: erg; о чём: aobl + haIq’ē> = ‘спор, ссору делать’; «комитативный участник» в рамке не указан
+5	Tsakhur	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	razj-xes	NOM	COM	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit; в чём: supel || s>. 
+5	Tsakhur	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	saIjXas	NOM	COM	Y	NOM_COM							Argument frame in Kibrik =<кто: nom; с кем: comit>. также, возможно, ‘драться’ (23). hiIǯat ha?as <кто: erg; о чём: aobl + haIq’ē> = ‘спор, ссору делать’; «комитативный участник» в рамке не указан
 5	Tsakhur	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	-	*	*	*								0
 5	Tsakhur	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	iIXas	*	*	*								? см. также (4); также ‘ударить’ (107)
 5	Tsakhur	102	pour	X (pour) Y	сыпать	X (сыпать) Y	-	*	*	*								есть ‘сыпаться’, по идее, должен быть каузатив

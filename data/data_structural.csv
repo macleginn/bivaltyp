@@ -859,7 +859,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 11	78		DAT	NOM	X	DAT_NOM
 11	79		*	*	*	
 11	80		*	*	*	
-11	81		NOM 	COMIT	Y	NOM_COM
+11	81		NOM 	COM	Y	NOM_COM
 11	82		NOM 	CONTESS	Y	NOM_CONTESS
 11	83		NOM 	SUPEL	Y	NOM_SUPEL
 11	84		*	*	*	
@@ -876,8 +876,8 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 11	95		NOM 	ADESS	Y	NOM_ADESS
 11	96		ERG	NOM	TR	TR
 11	97		*	*	*	
-11	98		NOM 	COMIT	Y	NOM_COM
-11	99		NOM 	COMIT	Y	NOM_COM
+11	98		NOM 	COM	Y	NOM_COM
+11	99		NOM 	COM	Y	NOM_COM
 11	100		*	*	*	
 11	101		ERG	ADESS	Y	ERG_ADESS
 11	102		ERG	NOM	TR	TR
@@ -3617,7 +3617,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 7	106		NOM	GEN~PART~NOM	TR	TR
 7	107		NOM	PART	Y	NOM_PART
 7	108		NOM	GEN~PART~NOM	TR	TR
-7	109		NOM	AD+	Y	NOM_AD
+7	109		NOM	AD	Y	NOM_AD
 7	110		NOM	EL	Y	NOM_EL
 7	111		NOM	EL	Y	NOM_EL
 7	112		NOM	EL	Y	NOM_EL
@@ -3998,7 +3998,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 44	97	Ø-e-sizmr-eb-a	DAT	NOM	X	DAT_NOM
 44	98	da-Ø-e-tanxm-a	NOM	DAT	Y	NOM_DAT
 44	99	*	*	*	*	
-44	100	Ø-γir-s	NOM	NOM	Y	NOM_NOM_
+44	100	Ø-γir-s	NOM	NOM	Y	NOM_NOM
 44	101	Ø-e-sr-ol-a	ERG	DAT	Y	ERG_DAT
 44	102	ča-Ø-i-q'ar-a	ERG	NOM	TR	TR
 44	103	da-Ø-k'arg-a	ERG	NOM	TR	TR
@@ -4079,7 +4079,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 10	48		NOM	vonDAT	Y	NOM_vonDAT
 10	49		NOM	ACC	TR	TR
 10	50		NOM	ACC	TR	TR
-10	51	genannt werden	NOM	NOM	Y	NOM_NOM_
+10	51	genannt werden	NOM	NOM	Y	NOM_NOM
 10	52		NOM	ACC	TR	TR
 10	53		NOM	ACC	TR	TR
 10	54		NOM	mitDAT	Y	NOM_mitDAT
@@ -5818,7 +5818,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 14	97	nöörtə üz	NOM	ACC	TR	TR
 14	98	zövšär	NOM	ASSOC	Y	NOM_ASSOC
 14	99	cüüg	NOM	ASSOC	Y	NOM_ASSOC
-14	100	bää	NOM	NOM	Y	NOM_NOM_
+14	100	bää	NOM	NOM	Y	NOM_NOM
 14	101	xa	NOM	ACC	TR	TR
 14	102	ke	NOM	ACC	TR	TR
 14	103	gee	NOM	ACC	TR	TR
@@ -6365,7 +6365,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 34	124	майшöдлыны	NOM	ACC	TR	TR
 34	125	шензьыны	NOM	INS	Y	NOM_INS
 34	126	мустöмтны 	*	*	*	
-34	127	шогö усьны	NOM	ponda	Y	NOM_pynda
+34	127	шогö усьны	NOM	ponda	Y	NOM_ponda
 34	128	дöзмыны	NOM	vylo	Y	NOM_vylo
 34	129	*	*	*	*	
 34	130	яндысьны	NOM	ELA	Y	NOM_ELA
@@ -6639,7 +6639,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 20	8		ERG	ABS	TR	TR
 20	9		DAT	ABS	X	DAT_ABS
 20	10		ERG	DAT	Y	ERG_DAT
-20	11		ABS	SRESS	Y	ABS_SRES
+20	11		ABS	SRESS	Y	ABS_SRESS
 20	12		ABS	DAT	Y	ABS_DAT
 20	13		ERG	ADEL	Y	ERG_ADEL
 20	14		ABS	INEL	Y	ABS_INEL
@@ -6709,7 +6709,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 20	78		*	*	*	
 20	79		ABS	POESS	Y	ABS_POESS
 20	80		ABS	ERG	Y	ABS_ERG
-20	81		ABS	SRESS	Y	ABS_SRES
+20	81		ABS	SRESS	Y	ABS_SRESS
 20	82		ABS	DAT	Y	ABS_DAT
 20	83		ABS	DAT	Y	ABS_DAT
 20	84		ABS	POESSgalaz	Y	ABS_POESSgalaz
@@ -6741,12 +6741,12 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 20	110		ERG	DAT	Y	ERG_DAT
 20	111		*	*	*	
 20	112		ABS	SREL	Y	ABS_SREL
-20	113		ABS	SRESS	Y	ABS_SRES
+20	113		ABS	SRESS	Y	ABS_SRESS
 20	114		ERG	DAT	Y	ERG_DAT
 20	115		ERG	DAT	Y	ERG_DAT
-20	116		ABS	SRESS	Y	ABS_SRES
+20	116		ABS	SRESS	Y	ABS_SRESS
 20	117		*	*	*	
-20	118		ABS	SRESS	Y	ABS_SRES
+20	118		ABS	SRESS	Y	ABS_SRESS
 20	119		DAT	ABS	X	DAT_ABS
 20	120		ERG	SBEL	Y	ERG_SBEL
 20	121		DAT	ABS	X	DAT_ABS
@@ -8513,7 +8513,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 82	62	vaestied-i	NOM	ACC	TR	TR
 82	63	rihpest-i	NOM	ACC	TR	TR
 82	64	*	*	*	*	
-82	65	sjidt-i	NOM	GENmänngan	Y	NOM_GENmanngan
+82	65	sjidt-i	NOM	GENmanngan	Y	NOM_GENmanngan
 82	66	*	*	*	*	
 82	67	hepsie-h	NOM	ELA	Y	NOM_ELA
 82	68	vaadtja	NOM	GENraaste	Y	NOM_GENraaste
@@ -8531,7 +8531,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 82	80	tjoehpede	NOM	COM	Y	NOM_COM
 82	81	dabran-i	NOM	ILL	Y	NOM_ILL
 82	82	dass-i	NOM	GENvuestie	Y	NOM_GENvuestie
-82	83	feejjen sjidt-i	NOM	GENåvteste	Y	NOM_GENavteste
+82	83	feejjen sjidt-i	NOM	GENavteste	Y	NOM_GENavteste
 82	84	soptseste	NOM	COM	Y	NOM_COM
 82	85	baersield-i	NOM	ACC	TR	TR
 82	86	gahtjed-i	NOM	ACC	TR	TR
@@ -9251,7 +9251,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 5	20	gjāzas	ERG	NOM	TR	TR
 5	21	-	*	*	*	
 5	22	set’as	NOM	CONTESS	Y	NOM_CONTESS
-5	23	saIjXas	NOM	COMIT	Y	NOM_COM
+5	23	saIjXas	NOM	COM	Y	NOM_COM
 5	24	-	*	*	*	
 5	25	fikirramiš-xes	NOM	SUPEL	Y	NOM_SUPEL
 5	26	oxanas	ERG	NOM	TR	TR
@@ -9260,7 +9260,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 5	29	k’eliXanas	ADEL	NOM	X	ADEL_NOM
 5	30	aslira ixes	*	*	*	
 5	31	qot’alas	ERG	NOM	TR	TR
-5	32	taniš-xes	NOM	COMIT	Y	NOM_COM
+5	32	taniš-xes	NOM	COM	Y	NOM_COM
 5	33	ac’a	ERG	NOM	TR	TR
 5	34	hek’◦as 	ERG	NOM	TR	TR
 5	35	-	*	*	*	
@@ -9326,8 +9326,8 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 5	95	iljak̅as || ulak̅as	NOM	ALL	Y	NOM_ALL
 5	96	qak̅jahas	ERG	NOM	TR	TR
 5	97	nik’ē Gaǯes	*	*	*	
-5	98	razj-xes	NOM	COMIT	Y	NOM_COM
-5	99	saIjXas	NOM	COMIT	Y	NOM_COM
+5	98	razj-xes	NOM	COM	Y	NOM_COM
+5	99	saIjXas	NOM	COM	Y	NOM_COM
 5	100	-	*	*	*	
 5	101	iIXas	*	*	*	
 5	102	-	*	*	*	
@@ -10126,7 +10126,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 41	115	жаліє	NOM	ACC	TR	TR
 41	116	заздрить	NOM	DAT	Y	NOM_DAT
 41	117	злиться	NOM	naACC	Y	NOM_naACC
-41	118	здивувався	NOM	zGEN	Y	NOM_INS
+41	118	здивувався	NOM	INS	Y	NOM_INS
 41	119	любить	NOM	ACC	TR	TR
 41	120	насолоджується	NOM	INS	Y	NOM_INS
 41	121	хоче	NOM	ACC	TR	TR
@@ -10136,7 +10136,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 41	125	вразило	*	*	*	
 41	126	зневажає	NOM	ACC	TR	TR
 41	127	засмутився	NOM	cerezACC	Y	NOM_cerezACC
-41	128	дратується	NOM	cerezACC	Y	NOM_naACC
+41	128	дратується	NOM	naACC	Y	NOM_naACC
 41	129	симпатизує	NOM	DAT	Y	NOM_DAT
 41	130	соромиться	NOM	GEN	Y	NOM_GEN
 51	1	ыалдь-	POSS	NOM	X	POSS_NOM

@@ -7753,7 +7753,7 @@ const structuralData = [
     "get_stuck",
     "",
     "NOM ",
-    "COMIT",
+    "COM",
     "Y",
     "NOM_COM"
   ],
@@ -7906,7 +7906,7 @@ const structuralData = [
     "agree",
     "",
     "NOM ",
-    "COMIT",
+    "COM",
     "Y",
     "NOM_COM"
   ],
@@ -7915,7 +7915,7 @@ const structuralData = [
     "have_a_quarrel",
     "",
     "NOM ",
-    "COMIT",
+    "COM",
     "Y",
     "NOM_COM"
   ],
@@ -32575,7 +32575,7 @@ const structuralData = [
     "move#bodypart#",
     "",
     "NOM",
-    "AD+",
+    "AD",
     "Y",
     "NOM_AD"
   ],
@@ -36006,7 +36006,7 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOM_NOM_"
+    "NOM_NOM"
   ],
   [
     "Georgian",
@@ -36735,7 +36735,7 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOM_NOM_"
+    "NOM_NOM"
   ],
   [
     "German",
@@ -52386,7 +52386,7 @@ const structuralData = [
     "NOM",
     "NOM",
     "Y",
-    "NOM_NOM_"
+    "NOM_NOM"
   ],
   [
     "Kalmyk",
@@ -57309,7 +57309,7 @@ const structuralData = [
     "NOM",
     "ponda",
     "Y",
-    "NOM_pynda"
+    "NOM_ponda"
   ],
   [
     "Komi-Zyrian",
@@ -59775,7 +59775,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABS_SRES"
+    "ABS_SRESS"
   ],
   [
     "Lezgian",
@@ -60405,7 +60405,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABS_SRES"
+    "ABS_SRESS"
   ],
   [
     "Lezgian",
@@ -60693,7 +60693,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABS_SRES"
+    "ABS_SRESS"
   ],
   [
     "Lezgian",
@@ -60720,7 +60720,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABS_SRES"
+    "ABS_SRESS"
   ],
   [
     "Lezgian",
@@ -60738,7 +60738,7 @@ const structuralData = [
     "ABS",
     "SRESS",
     "Y",
-    "ABS_SRES"
+    "ABS_SRESS"
   ],
   [
     "Lezgian",
@@ -76639,7 +76639,7 @@ const structuralData = [
     "fall_behind",
     "sjidt-i",
     "NOM",
-    "GENmänngan",
+    "GENmanngan",
     "Y",
     "NOM_GENmanngan"
   ],
@@ -76801,7 +76801,7 @@ const structuralData = [
     "be_glad",
     "feejjen sjidt-i",
     "NOM",
-    "GENåvteste",
+    "GENavteste",
     "Y",
     "NOM_GENavteste"
   ],
@@ -83281,7 +83281,7 @@ const structuralData = [
     "fight",
     "saIjXas",
     "NOM",
-    "COMIT",
+    "COM",
     "Y",
     "NOM_COM"
   ],
@@ -83362,7 +83362,7 @@ const structuralData = [
     "get_to_know",
     "taniš-xes",
     "NOM",
-    "COMIT",
+    "COM",
     "Y",
     "NOM_COM"
   ],
@@ -83956,7 +83956,7 @@ const structuralData = [
     "agree",
     "razj-xes",
     "NOM",
-    "COMIT",
+    "COM",
     "Y",
     "NOM_COM"
   ],
@@ -83965,7 +83965,7 @@ const structuralData = [
     "have_a_quarrel",
     "saIjXas",
     "NOM",
-    "COMIT",
+    "COM",
     "Y",
     "NOM_COM"
   ],
@@ -91156,7 +91156,7 @@ const structuralData = [
     "be_surprised",
     "здивувався",
     "NOM",
-    "zGEN",
+    "INS",
     "Y",
     "NOM_INS"
   ],
@@ -91246,7 +91246,7 @@ const structuralData = [
     "get_irritated",
     "дратується",
     "NOM",
-    "cerezACC",
+    "naACC",
     "Y",
     "NOM_naACC"
   ],

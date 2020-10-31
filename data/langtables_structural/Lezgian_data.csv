@@ -9,7 +9,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	8	take	X (take) Y	взять	X (брать) Y(-а)		ERG	ABS	TR	TR							
 20	Lezgian	9	see	X (see) Y	видеть	X (видеть) Y(-а)		DAT	ABS	X	DAT_ABS							
 20	Lezgian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		ERG	DAT	Y	ERG_DAT							
-20	Lezgian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		ABS	SRESS	Y	ABS_SRES							
+20	Lezgian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		ABS	SRESS	Y	ABS_SRESS							
 20	Lezgian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		ABS	DAT	Y	ABS_DAT							
 20	Lezgian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		ERG	ADEL	Y	ERG_ADEL							CV
 20	Lezgian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		ABS	INEL	Y	ABS_INEL							
@@ -79,7 +79,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	78	understand	X (understand) Y	понимать	X (понимать) Y		*	*	*								У Р.Г. в статье классифицируется как ABS GEN, но Y кодируется на самом деле как посессор имени в составе CV (попасть в понимание чего)
 20	Lezgian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		ABS	POESS	Y	ABS_POESS							
 20	Lezgian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		ABS	ERG	Y	ABS_ERG							
-20	Lezgian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		ABS	SRESS	Y	ABS_SRES							
+20	Lezgian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		ABS	SRESS	Y	ABS_SRESS							
 20	Lezgian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		ABS	DAT	Y	ABS_DAT							
 20	Lezgian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		ABS	DAT	Y	ABS_DAT							NV
 20	Lezgian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом		ABS	POESSgalaz	Y	ABS_POESSgalaz							
@@ -111,12 +111,12 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	110	respect	X (respect) Y	уважать	X (уважать) Y-а		ERG	DAT	Y	ERG_DAT							
 20	Lezgian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*	*	*								В первой версии был DAT ABS (NV), но Р.Г. в статье предлагает не брать, так как это неточный перевод.
 20	Lezgian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом		ABS	SREL	Y	ABS_SREL							NV
-20	Lezgian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		ABS	SRESS	Y	ABS_SRES							NV
+20	Lezgian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a		ABS	SRESS	Y	ABS_SRESS							NV
 20	Lezgian	114	trust	X (trust) Y	доверять	X (доверять) Y-у		ERG	DAT	Y	ERG_DAT							
 20	Lezgian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а		ERG	DAT	Y	ERG_DAT							CV. Сначала я не считал этот предикат, т.к. было приименное зависимое (иметь жалость кого), но теперь это просто что-то, что функционирует как единое целое.
-20	Lezgian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		ABS	SRESS	Y	ABS_SRES							NV
+20	Lezgian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у		ABS	SRESS	Y	ABS_SRESS							NV
 20	Lezgian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а		*	*	*								Не считаем, т.к. тот же перевод, что для 122 и 128
-20	Lezgian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		ABS	SRESS	Y	ABS_SRES							NV
+20	Lezgian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у		ABS	SRESS	Y	ABS_SRESS							NV
 20	Lezgian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)		DAT	ABS	X	DAT_ABS							
 20	Lezgian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом		ERG	SBEL	Y	ERG_SBEL							CV
 20	Lezgian	121	want	X (want) Y	хотеть	X (хотеть) Y-а		DAT	ABS	X	DAT_ABS							
