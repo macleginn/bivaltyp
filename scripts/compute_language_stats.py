@@ -3,6 +3,35 @@ import numpy as np
 from scipy.stats import entropy
 
 
+def get_normalisation_coefficient(sample_size):
+    """
+    Returns a multiplicator for normalising entropy
+    estimated on the sample based on the size of the sample.
+    The coefficients were estimated empirically based
+    on bootstrap resampling.
+    """
+    if sample_size < 55:
+        raise ValueError('No coefficients were estimated for sample sizes < 55')
+    elif sample_size >= 55 and sample_size < 60:
+        # 55-59        1.04    (2 langs)
+        return 1.04
+    elif sample_size >= 60 and sample_size < 70:
+        # 60-69        1.03    (1 lang)
+        return 1.03
+    elif sample_size >= 70 and sample_size < 79:
+        # 70-78        1.02    (0 langs)
+        return 1.02
+    elif sample_size >= 79 and sample_size < 93:
+        # 79-92        1.01    (5 langs)
+        return 1.01
+    elif sample_size >= 110:
+        # 110-130    0.99
+        return 0.99
+    else:
+        # 93-109      1.00
+        return 1
+
+
 data = pd.read_csv('../data/data_for_download.csv', sep='\t')
 language_data = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
 lang_dict = {}
@@ -27,7 +56,7 @@ for language_no in data.language_no.unique():
     number_of_classes = len(counts_of_valpat_classes)
 
     entropy_nat = entropy(counts_of_valpat_classes / sum(counts_of_valpat_classes))
-    entropy_over_logN = entropy_nat / np.log(overall_N)
+    projected_entropy_100 = entropy_nat * get_normalisation_coefficient(overall_N)
     intr_classes = list(filter(lambda x: x != 'TR', counts_of_valpat_classes.index))
     counts_of_intr_classes = counts_of_valpat_classes[intr_classes]
     entropy_intr_nat = entropy(counts_of_intr_classes / sum(counts_of_intr_classes))
@@ -50,7 +79,7 @@ for language_no in data.language_no.unique():
         'intransitivity ratio': intransitivity_ratio,
         'number of classes': number_of_classes,
         'entropy (nat)': entropy_nat,
-        'normalised entropy': entropy_over_logN,
+        'normalised entropy': projected_entropy_100,
         'entropy of intransitives (nat)': entropy_intr_nat,
         # 'maximum entropy for intransitives': entropy_max_intr,
         # 'entropy ratio': entropy_intr_over_max_intr,
