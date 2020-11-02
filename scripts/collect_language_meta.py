@@ -34,6 +34,7 @@ d_final = d_final[[
     "genus (WALS)",
     "latitude",
     "longitude",
+    "number of nominal cases",
     "overallN",
     "transitives",
     "intransitives",
