@@ -44,7 +44,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 43	эрзянский	Erzya	Erzya	Ксения Андреевна Шагал		Ksenia Shagal					Europe	Uralic	Mordvin	54.26	46.18				erzy1239	
 44	грузинский	Georgian	Georgian	Александр Александрович Ростовцев-Попель		Alexander Rostovtsev-Popiel					West Asia and the Caucasus	Kartvelian	Kartvelian	41.85	43.79				nucl1302	
 45	нанайский	Nanai	Nanai	Дарья Федоровна Мищенко		Daria Mischenko					North and Central Asia	Altaic	Tungusic	48.43	134.8				nana1257	
-46	лесной энецкий	Enets_Forest	Forest Enets	Мария Александровна Овсянникова		Maria Ovsjannikova					North and Central Asia	Uralic	Samoyedic	68.7	86.3				fore1265	
+46	лесной энецкий	Enets_Forest	Forest Enets	Мария Александровна Овсянникова		Maria Ovsjannikova		2015-2016	November 3, 2020	November 3, 2020	North and Central Asia	Uralic	Samoyedic	68.7	86.3	6	Maria Ovsjannikova, p.c.	Russian	fore1265	
 47	мандинка	Mandinka	Mandinka	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Mande	Western Mande	12.82	-15.65				mand1436	
 48	диола-фоньи	Joola_Fonyi	Joola-Fonyi	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Bak	Northen Atlantic	12.76	-15.74				jola1263	In Glottolog, this language is referred to as Jola-Fonyi
 49	сонинке	Soninke	Soninke	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Mande	Western Mande	13.13	-11.72				soni1259	
@@ -66,7 +66,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 65	белорусский	Belarusian	Belarusian	Ольга Сергеевна Горицкая		Olga Gorickaja					Europe	Indo-European	Slavic	54	28	6	Интернет		bela1254	
 66	финский	Finnish	Finnish	Ксения Андреевна Шагал		Ksenia Shagal					Europe	Uralic	Finnic	62	25	15	википедия, Ксюша, грамматика (http://scripta.kotus.fi/visk/sisallys.php?p=81)		finn1318	Glottolog's Finnish is represented by two varieties in Bivaltyp: Finnish proper (here) and Ingrian Finnish
 67	македонский	Macedonian	Macedonian	Владимир Сергеевич Федоров, Мария Ивановна Хажомия		Vladimir Fedorov, Maria Khazhomia					Europe	Indo-European	Slavic	41.6	21.79	0	википедия, общие сведения		mace1250	
-68	рутульский	Rutul	Rutul	Михаил Александрович Даниэль, Анастасия Алексеевна Василисина, Степан Кириллович Михайлов		Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov		2017	September 17, 2020	September 17, 2020	West Asia and the Caucasus	Nakh-Daghestanian	Lezgic	41.62	47.32	18	НЕ ЗНАЮ, ОТКУДА В ТАБЛИЦЕ ВЗЯЛАСЬ ЭТА ЦИФРА	Russian	rutu1240	
+68	рутульский	Rutul	Rutul	Михаил Александрович Даниэль, Анастасия Алексеевна Василисина, Степан Кириллович Михайлов		Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov		2017	September 17, 2020	November 3, 2020	West Asia and the Caucasus	Nakh-Daghestanian	Lezgic	41.62	47.32	18	НЕ ЗНАЮ, ОТКУДА В ТАБЛИЦЕ ВЗЯЛАСЬ ЭТА ЦИФРА	Russian	rutu1240	
 69	адыгейский	Adyghe	Adyghe	Петр Михайлович Аркадьев		Peter Arkadiev					West Asia and the Caucasus	Northwest Caucasian	Northwest Caucasian	45.1	40	4	Личное знание		adyg1241	
 70	гоо	Goo	Goo	Екатерина Сергеевна Аплонова		Ekaterina Aplonova					Sub-Saharan Africa	Mande	Eastern Mande	7.58	-7.56	0	Общее знание		gooa1234	
 71	чувашский	Chuvash	Chuvash	Мария Александровна Холодилова		Maria Kholodilova		2017			Europe	Altaic	Turkic	55.49	47.16	8	МХ сказала, что так в грамматике. В их собственной системе скорее 10		chuv1255	
