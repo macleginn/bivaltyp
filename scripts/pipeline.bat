@@ -5,4 +5,4 @@ python convert-structural-table.py
 python compute_language_stats.py
 :: Combines the meta provided by Say with computed stats.
 python collect_language_meta.py
-python generate.py
+python generate.py -r

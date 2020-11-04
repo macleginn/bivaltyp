@@ -36,6 +36,7 @@ For the singular nouns of non-default inflectional classes without possessive ma
 For the nouns marked with the possessive markers, the formal distinguishability of subject and direct object depends on the person and number of the possessor and the number of the possessee. Table 1 gives the Forest Enets possessive markers for the singular possessor used for the nouns in the positions of subject, adnominal/postpositional dependent and direct object. 
 
 Table 1. Case and possessive marking of nouns (singular possessors)
+
 |          |     Singular possessee    |                                           |                      | Non-singular possessee  |                                           |                      |
 |----------|---------------------------|-------------------------------------------|----------------------|-------------------------|-------------------------------------------|----------------------|
 |          |     Subject               |     Adnominal/postpositional dependent    |     Direct object    |     Subject             |     Adnominal/postpositional dependent    |     Direct object    |
