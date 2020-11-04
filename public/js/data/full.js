@@ -4711,7 +4711,7 @@ const fullData = [
     "‘The girl has a headache.’",
     "",
     "девочка(F) голова(M)-P.3F болеть.PROG=3M",
-    "У девочки болит голова.",
+    "‘У девочки болит голова.’",
     "",
     ""
   ],
@@ -4729,7 +4729,7 @@ const fullData = [
     "‘The girl has the flu.’",
     "Non-Urmi speaker.",
     "девочка(F) болеть.RES.F=3F с грипп(M)",
-    "Девочка болеет гриппом.",
+    "‘Девочка болеет гриппом.’",
     "",
     ""
   ],
@@ -4747,7 +4747,7 @@ const fullData = [
     "‘The boy is afraid of the dog.’",
     "",
     "мальчик(M) от собака(M) бояться.PROG=3M",
-    "Мальчик боится собаки.",
+    "‘Мальчик боится собаки.’",
     "",
     ""
   ],
@@ -4765,7 +4765,7 @@ const fullData = [
     "‘The girl threw the stone.’",
     "",
     "камень(M) бросить.PST-LS.3F девочка(F)",
-    "Девочка бросила камень.",
+    "‘Девочка бросила камень.’",
     "",
     ""
   ],
@@ -4783,7 +4783,7 @@ const fullData = [
     "‘Now the girl has enough money.’",
     "",
     "сейчас деньги(PL) к девочка(F) видеть.PROG=3PL",
-    "Теперь девочке хватает денег.",
+    "‘Теперь девочке хватает денег.’",
     "",
     ""
   ],
@@ -4801,7 +4801,7 @@ const fullData = [
     "‘This boy resembles his grandfather.’",
     "",
     "DEM3.M мальчик(M) быть_похожим.PROG=3M на дедушка(M)-P.3M",
-    "‎Этот мальчик похож на своего дедушку.",
+    "‘‎Этот мальчик похож на своего дедушку.’",
     "",
     ""
   ],
@@ -4819,7 +4819,7 @@ const fullData = [
     "‘This man believes his wife.’",
     "",
     "DEM3.M человек(M) верить.PROG=3M на женщина(F)-P.3M",
-    "‎Этот человек верит своей жене.",
+    "‘‎Этот человек верит своей жене.’",
     "",
     ""
   ],
@@ -4837,7 +4837,7 @@ const fullData = [
     "‘The girl took the book from the table.’",
     "",
     "девочка(F) взять.PST-LS.3F книга(M) от стол(M)",
-    "‎Девочка взяла книгу со стола.",
+    "‘‎Девочка взяла книгу со стола.’",
     "",
     ""
   ],
@@ -4855,7 +4855,7 @@ const fullData = [
     "‘The girl saw the house.’",
     "",
     "девочка(F) видеть.PST-LS.3F дом(M)",
-    "Девочка увидела дом.",
+    "‘Девочка увидела дом.’",
     "",
     ""
   ],
@@ -4891,7 +4891,7 @@ const fullData = [
     "‘The boy ran into his neughbor.’",
     "Some speakers use preposition <i>am</i>.",
     "мальчик(M) встретиться.PST-LS.3M от сосед(M)",
-    "Мальчик встретился с соседом.",
+    "‘Мальчик встретился с соседом.’",
     "",
     ""
   ],
@@ -4909,7 +4909,7 @@ const fullData = [
     "‘The girl entered the house.’",
     "Non-Urmi speaker.",
     "девочка(F) войти.PST-LS.3F в дом(M)",
-    "Девочка вошла в дом.",
+    "‘Девочка вошла в дом.’",
     "",
     ""
   ],
@@ -4927,7 +4927,7 @@ const fullData = [
     "‘The girl beat her brother.’",
     "",
     "девочка(F) победить.PST-LS.3F к брат(M)-P.3F",
-    "Девочка выиграла у брата.",
+    "‘Девочка выиграла у брата.’",
     "",
     ""
   ],
@@ -4945,7 +4945,7 @@ const fullData = [
     "‘The girl went out of the house.’",
     "",
     "девочка(F) уйти.PST-LS.3F от дом(M)",
-    "Девочка вышла из дома.",
+    "‘Девочка вышла из дома.’",
     "",
     ""
   ],
@@ -4963,7 +4963,7 @@ const fullData = [
     "‘The girl is driving the cow to the pasture’ (lit. ‘into the herd’).",
     "Non-Urmi speaker.",
     "девочка(F) гнать.PROG=3F корова(F)-P.3F в стадо(M)",
-    "Девочка гонит корову на пастбище (букв. ‘в стадо’).",
+    "‘Девочка гонит корову на пастбище’ (букв. ‘в стадо’).",
     "",
     ""
   ],
@@ -4981,7 +4981,7 @@ const fullData = [
     "‘Ashur bent the branch.’",
     "",
     "Ашур гнуть.PST-SS(O).3PL-LS.3M ветка(M).PL=REL дерево(M)",
-    "Ашур согнул ветки дерева.",
+    "‘Ашур согнул ветки дерева.’",
     "",
     ""
   ],
@@ -4999,7 +4999,7 @@ const fullData = [
     "‘Ashur told his friend: “Call me this evening.”’",
     "",
     "Ашур сказать.PST-LS.3M к друг(M)-P.3M прийти.PRS дом(M)-P.3M гость(M)",
-    "Ашур сказал другу: (\"Приходи ко мне в гости\").",
+    "‘Ашур сказал другу: (\"Приходи ко мне в гости\").’",
     "",
     ""
   ],
@@ -5017,7 +5017,7 @@ const fullData = [
     "‘The girl is holding a book in her hands.’",
     "",
     "девочка(F) книга(M) схватить.RES.F-P.3M=3F с рука(F)-P.3F",
-    "Девочка держит книгу в руках.",
+    "‘Девочка держит книгу в руках.’",
     "",
     ""
   ],
@@ -5035,7 +5035,7 @@ const fullData = [
     "‘The man caught up with his wife.’",
     "",
     "человек(M) достичь.PST-LS.3M к женщина(F)-P.3M",
-    "Человек догнал свою жену.",
+    "‘Человек догнал свою жену.’",
     "",
     ""
   ],
@@ -5053,7 +5053,7 @@ const fullData = [
     "‘The woman milked the cows.’",
     "",
     "женщина(F) доить.PST-SS(O).3PL-LS.3F корова(F).PL",
-    "Женщина подоила корову.",
+    "‘Женщина подоила корову.’",
     "",
     ""
   ],
@@ -5071,7 +5071,7 @@ const fullData = [
     "‘The man reached the bank.’",
     "",
     "человек(M) достичь.RES.M=3M на суша(M)",
-    "Человек достиг берега.",
+    "‘Человек достиг берега.’",
     "",
     ""
   ],
@@ -5089,7 +5089,7 @@ const fullData = [
     "‘The boy touched the wall.’",
     "",
     "мальчик(M) стучать.PST-LS.3M с стена(M)",
-    "Мальчик дотронулся до стены.",
+    "‘Мальчик дотронулся до стены.’",
     "",
     ""
   ],
@@ -5107,7 +5107,7 @@ const fullData = [
     "‘Ashur is fighting with his neighbor.’",
     "Some speakers use preposition <i>am</i>.",
     "Ашур драться.PROG=3M от сосед(M)-P.3M",
-    "Ашур дерется с соседом.",
+    "‘Ашур дерется с соседом.’",
     "",
     ""
   ],
@@ -5125,7 +5125,7 @@ const fullData = [
     "‘The boy is friends with his neighbor.’",
     "Some speakers use preposition <i>am</i>.",
     "мальчик(M) дружба(F) делать.PROG=3M от сосед(M)-P.3M",
-    "Мальчик дружит со своим соседом.",
+    "‘Мальчик дружит со своим соседом.’",
     "",
     ""
   ],
@@ -5143,7 +5143,7 @@ const fullData = [
     "‘The man is thinking about his wife.’",
     "",
     "человек(M) думать.PROG=3M за женщина(F)-P.3M",
-    "Человек думает о своей жене.",
+    "‘Человек думает о своей жене.’",
     "",
     ""
   ],
@@ -5161,7 +5161,7 @@ const fullData = [
     "‘The boy ate an apple.’",
     "",
     "мальчик(M) есть.PST-LS.3M яблоко(M)",
-    "Мальчик съел яблоко.",
+    "‘Мальчик съел яблоко.’",
     "",
     ""
   ],
@@ -5179,7 +5179,7 @@ const fullData = [
     "‘The oldman fried the fish.’",
     "",
     "старый.M жарить.PST-LS.3M рыба(F)",
-    "Старик пожарил рыбу.",
+    "‘Старик пожарил рыбу.’",
     "",
     ""
   ],
@@ -5197,7 +5197,7 @@ const fullData = [
     "‘The boy is waiting for his neighbor.’",
     "",
     "мальчик(M) ждать.PROG=3M на сосед(M)-P.3M",
-    "‎Мальчик ждет соседа.",
+    "‘‎Мальчик ждет соседа.’",
     "",
     ""
   ],
@@ -5215,7 +5215,7 @@ const fullData = [
     "‘The boy forgot about the other road.’",
     "",
     "мальчик(M) забыть.RES.M-P.3F=3M короткий.F дорога(F)",
-    "‎Мальчик забыл о короткой дороге.",
+    "‘‎Мальчик забыл о короткой дороге.’",
     "",
     ""
   ],
@@ -5251,7 +5251,7 @@ const fullData = [
     "‘The man called his wife.’",
     "",
     "человек(M) звать.PST-SS.3F-LS.3M женщина(F)-P.3M",
-    "‎Человек позвал жену.",
+    "‘‎Человек позвал жену.’",
     "",
     ""
   ],
@@ -5269,7 +5269,7 @@ const fullData = [
     "‘Ashur got to know his wife two years ago.’",
     "Non-Urmi speaker. <i>+yahə</i> is a dialect variant of the verb stem <i>+yaṭṭə</i>.",
     "Ашур PRF-знать.PRS-LS.3F женщина(F)-P.3M два год(F).PL перед сейчас",
-    "Ашур познакомился со своей женой два года тому назад.",
+    "‘Ашур познакомился со своей женой два года тому назад.’",
     "",
     ""
   ],
@@ -5287,7 +5287,7 @@ const fullData = [
     "‘Ashur knows his neighbor.’",
     "Non-Urmi speaker.",
     "Ашур знать.PROG=3M сосед(M)-P.3M",
-    "‎Ашур знает своего соседа.",
+    "‘‎Ашур знает своего соседа.’",
     "",
     ""
   ],
@@ -5305,7 +5305,7 @@ const fullData = [
     "‘Ashur is playing the zurna.’",
     "Non-Urmi speaker.",
     "Ашур играть.PROG=3M на зурна(?)",
-    "‎Ашур играет на зурне.",
+    "‘‎Ашур играет на зурне.’",
     "",
     ""
   ],
@@ -5323,7 +5323,7 @@ const fullData = [
     "‘Ashur avoids his neighbor’ (lit. ‘hides himself from his neighbor’).",
     "",
     "Ашур REFL(F)-P.3M прятать.PROG-P.3F=3M от сосед(M)-P.3M",
-    "Ашур избегает своего соседа (букв. ‘прячется от своего соседа’).",
+    "‘Ашур избегает своего соседа’ (букв. ‘прячется от своего соседа’).",
     "",
     ""
   ],
@@ -5341,7 +5341,7 @@ const fullData = [
     "‘Ashur made a chair.’",
     "Non-Urmi speaker.",
     "Ашур строить.PST-LS.3M стул(M)",
-    "‎Ашур сделал стул.",
+    "‘‎Ашур сделал стул.’",
     "",
     ""
   ],
@@ -5359,7 +5359,7 @@ const fullData = [
     "‘Ashur will make fun of his neighbor.’",
     "Non-Urmi speaker. The actual form of the verb stem in the example is [ɟaxət], most likely a dialect realization of <i>gaxəc</i>.",
     "Ашур смеяться.PRS с сосед(M)-P.3M",
-    "‎Ашур будет издеваться над соседом.",
+    "‘‎Ашур будет издеваться над соседом.’",
     "",
     ""
   ],
@@ -5377,7 +5377,7 @@ const fullData = [
     "‘Ashur has a car.’",
     "",
     "Ашур EXI-LS.3M машина(F)",
-    "‎У Ашура есть машина.",
+    "‘‎У Ашура есть машина.’",
     "",
     ""
   ],
@@ -5395,7 +5395,7 @@ const fullData = [
     "‘The woman is looking for her keys.’",
     "",
     "женщина(F) искать.PROG=3F за ключ(M).PL",
-    "Женщина ищет ключи.",
+    "‘Женщина ищет ключи.’",
     "",
     ""
   ],
@@ -5413,7 +5413,7 @@ const fullData = [
     "‘The oldman painted the walls.’",
     "",
     "старый.M ударить.PST-SS(O).3PL-LS.3M цвет(M) стена(M).PL",
-    "‎Старик покрасил стены.",
+    "‘‎Старик покрасил стены.’",
     "",
     ""
   ],
@@ -5431,7 +5431,7 @@ const fullData = [
     "‘A dog bit the girl.’",
     "",
     "девочка(F) собака(M) кусать.PST-P.3F=3M",
-    "‎Собака укусила девочку.",
+    "‘‎Собака укусила девочку.’",
     "",
     ""
   ],
@@ -5449,7 +5449,7 @@ const fullData = [
     "‘The oldman lost his house.’",
     "",
     "старый.M остаться.PST-LS.3M NEG с дом(M)-P.3M",
-    "‎Старик остался без дома.",
+    "‘‎Старик остался без дома.’",
     "",
     ""
   ],
@@ -5467,7 +5467,7 @@ const fullData = [
     "‘The girl is trying to catch the cat.’",
     "",
     "девочка(F) схватить.PROG-P.3F=3F кот(F)",
-    "‎Девочка ловит кошку.",
+    "‘‎Девочка ловит кошку.’",
     "",
     ""
   ],
@@ -5485,7 +5485,7 @@ const fullData = [
     "‘The boy broke a stick.’",
     "",
     "мальчик(M) дерево(M) сломать(ся).PST-LS.3M",
-    "‎Мальчик сломал палку.",
+    "‘‎Мальчик сломал палку.’",
     "",
     ""
   ],
@@ -5503,7 +5503,7 @@ const fullData = [
     "‘The boy is flattering this girl.’",
     "Non-Urmi speaker.",
     "мальчик(M) ударить.PROG=3M масло(M) к OBL-DEM4.F девочка(F)",
-    "‎Парень льстит этой девочке.",
+    "‘‎Парень льстит этой девочке.’",
     "",
     ""
   ],
@@ -5521,7 +5521,7 @@ const fullData = [
     "‘Husband loves his wife.’",
     "Non-Urmi speaker. <i>+bəbah</i> is a dialect variant of the progressive stem (<i>+byay</i> in the Urmi dialect).",
     "мужчина(M)-P.3F любить.PROG-P.3F=3M женщина(F)-P.3M",
-    "‎Муж любит свою жену.",
+    "‘‎Муж любит свою жену.’",
     "",
     ""
   ],
@@ -5539,7 +5539,7 @@ const fullData = [
     "‘The girl is waving a handkerchief.’",
     "",
     "девочка(F) трясти.PROG-P.3F=3F платок(F) с рука(F)-P.3F",
-    "‎Девочка машет платком.",
+    "‘‎Девочка машет платком.’",
     "",
     ""
   ],
@@ -5575,7 +5575,7 @@ const fullData = [
     "‘The woman washed the glass.’",
     "",
     "женщина(F) мыть.PST-LS.3F стакан(M)",
-    "‎Женщина вымыла стакан.",
+    "‘‎Женщина вымыла стакан.’",
     "",
     ""
   ],
@@ -5593,7 +5593,7 @@ const fullData = [
     "‘The boy put on his trousers.’",
     "",
     "мальчик(M) надеть.PST-LS.3M штаны(M)",
-    "‎Мальчик надел штаны.",
+    "‘‎Мальчик надел штаны.’",
     "",
     ""
   ],
@@ -5611,7 +5611,7 @@ const fullData = [
     "‘This thing is called a compass.’",
     "Non-Urmi speaker. Non-verbal predicate, <i>avə</i> is 'to be'.",
     "DEM2.M вещь(M) имя(M)-P.3M компас(?)=3M",
-    "‎Этот предмет называется компас.",
+    "‘‎Этот предмет называется компас.’",
     "",
     ""
   ],
@@ -5629,7 +5629,7 @@ const fullData = [
     "‘The woman punished her daughter.’",
     "Non-Urmi speaker. Arguably, the translation is not very accurate. <i>+taləm</i> 'to punish' seems to belong to the same class.",
     "женщина(F) ругать.PST-LS.3F к девочка(F)-P.3F",
-    "‎Женщина наказала свою дочь.",
+    "‘‎Женщина наказала свою дочь.’",
     "",
     ""
   ],
@@ -5647,7 +5647,7 @@ const fullData = [
     "‘A bear attacked a man.’",
     "Non-Urmi speaker.",
     "медведь(F) падать.PST-LS.3F на OBL-DEM4.M человек(M)",
-    "‎Медведь напал на человека.",
+    "‘‎Медведь напал на человека.’",
     "",
     ""
   ],
@@ -5665,7 +5665,7 @@ const fullData = [
     "‘The bucket filled with water.’",
     "",
     "ведро(M) наполнить(ся).PST-LS.3M вода(PL)",
-    "‎Ведро наполнилось водой.",
+    "‘‎Ведро наполнилось водой.’",
     "",
     ""
   ],
@@ -5683,7 +5683,7 @@ const fullData = [
     "‘The boy found the keys.’",
     "",
     "мальчик(M) найти.PST-SS(O).3PL-LS.3M ключ(M).PL",
-    "‎Мальчик нашел ключи.",
+    "‘‎Мальчик нашел ключи.’",
     "",
     ""
   ],
@@ -5701,7 +5701,7 @@ const fullData = [
     "‘Ashur lacks the money to buy a ticket.’",
     "",
     "к Ашур NEG видеть.PST-LS.3PL деньги(PL) купить.PRS билет(?)",
-    "Ашуру не хватает денег, чтобы купить билет.",
+    "‘Ашуру не хватает денег, чтобы купить билет.’",
     "",
     ""
   ],
@@ -5719,7 +5719,7 @@ const fullData = [
     "‘Ashur hates his neighbor.’",
     "",
     "REL Ашур сердце(M)-P.3M раскалываться.PROG=3M от сосед(M)-P.3M",
-    "Ашур ненавидит своего соседа.",
+    "‘Ашур ненавидит своего соседа.’",
     "",
     ""
   ],
@@ -5737,7 +5737,7 @@ const fullData = [
     "‘Ashur likes this shirt.’",
     "",
     "Ашур счастье(F)-P.3M прийти.PROG=3F от OBL-DEM1.SG рубашка(F)",
-    "Ашуру нравится эта рубашка.",
+    "‘Ашуру нравится эта рубашка.’",
     "",
     ""
   ],
@@ -5755,7 +5755,7 @@ const fullData = [
     "‘This woman needs money.’",
     "Non-Urmi speaker. Non-verbal predicate.",
     "к DEM2.F женщина(F) необходимый=3PL деньги(PL)",
-    "‎Этой женщине нужны деньги.",
+    "‘‎Этой женщине нужны деньги.’",
     "",
     ""
   ],
@@ -5791,7 +5791,7 @@ const fullData = [
     "‘The boy has one hundred roubles left.’",
     "Non-Urmi speaker.",
     "у мальчик(M) маленький.M остаться.PST-LS.3M сто рубль(M) деньги(PL)",
-    "У мальчика осталось 100 рублей.",
+    "‘У мальчика осталось 100 рублей.’",
     "",
     ""
   ],
@@ -5809,7 +5809,7 @@ const fullData = [
     "‘The boy answered the teacher.’",
     "",
     "мальчик(M) дать.PST-LS.3M ответ(M) к учитель(M)",
-    "Мальчик ответил учителю.",
+    "‘Мальчик ответил учителю.’",
     "",
     ""
   ],
@@ -5827,7 +5827,7 @@ const fullData = [
     "‘The girl opened a can.’",
     "",
     "девочка(F) открыть.PST-LS.3F банка(?)",
-    "‎Девочка открыла банку.",
+    "‘‎Девочка открыла банку.’",
     "",
     ""
   ],
@@ -5845,7 +5845,7 @@ const fullData = [
     "‘My shirt is different from yours.’",
     "",
     "рубашка(F) OBL.PRON.1SG разделить(ся).PROG=3F от OBL-DEM4.F OBL.PRON-P.2M",
-    "Моя рубашка отличается от твоей.",
+    "‘Моя рубашка отличается от твоей.’",
     "",
     ""
   ],
@@ -5863,7 +5863,7 @@ const fullData = [
     "‘The man fell behind the woman.’",
     "",
     "мужчина(M) остаться.PST-LS.3M сзади от женщина(F)",
-    "‎Мужчина отстал от женщины.",
+    "‘‎Мужчина отстал от женщины.’",
     "",
     ""
   ],
@@ -5881,7 +5881,7 @@ const fullData = [
     "‘The oldman is ploughing the field.’",
     "",
     "старый.M пахать.PROG-P.3F=3M поле(F)",
-    "‎Старик пашет поле.",
+    "‘‎Старик пашет поле.’",
     "",
     ""
   ],
@@ -5899,7 +5899,7 @@ const fullData = [
     "‘My hands smell of gasoline.’",
     "Not included in the database because Y is expressed as an NP-internal modifier.",
     "от рука(F)-P.1SG запах(M)=REL нефть(M) прийти.PROG=3M",
-    "‎Мои руки пахнут бензином.",
+    "‘‎Мои руки пахнут бензином.’",
     "",
     ""
   ],
@@ -5917,7 +5917,7 @@ const fullData = [
     "‘The oldman crossed the road.’",
     "Non-Urmi speaker.",
     "старый.M дорога(F) войти.PST-SS.3F-LS.3M",
-    "‎Старик пересек дорогу.",
+    "‘‎Старик пересек дорогу.’",
     "",
     ""
   ],
@@ -5935,7 +5935,7 @@ const fullData = [
     "‘The boy sang this song.’",
     "Non-Urmi speaker.",
     "один мальчик(M) петь.PST-LS.3M OBL-DEM1.SG песня(F)",
-    "‎Мальчик спел эту песню.",
+    "‘‎Мальчик спел эту песню.’",
     "",
     ""
   ],
@@ -5953,7 +5953,7 @@ const fullData = [
     "‘The boy wrote a letter.’",
     "Non-Urmi speaker.",
     "один мальчик(M) писать.PST-LS.3M один книга(M) к друг(M)-P.3M",
-    "Мальчик написал письмо.",
+    "‘Мальчик написал письмо.’",
     "",
     ""
   ],
@@ -5971,7 +5971,7 @@ const fullData = [
     "‘The girl drank the milk.’",
     "",
     "девочка(F) пить.PST-LS.3F молоко(M)",
-    "‎Девочка выпила молоко.",
+    "‘‎Девочка выпила молоко.’",
     "",
     ""
   ],
@@ -5989,7 +5989,7 @@ const fullData = [
     "‘The boy melted the iron.’",
     "",
     "мальчик(M) плавить.PST-LS.3M железо(M)",
-    "‎Мальчик расплавил железо.",
+    "‘‎Мальчик расплавил железо.’",
     "",
     ""
   ],
@@ -6007,7 +6007,7 @@ const fullData = [
     "‘This belt matches my dress.’",
     "",
     "DEM1.SG пояс(M) подходить.PROG=3M к платье(F)-P.1SG",
-    "‎Этот пояс подходит к моему платью.",
+    "‘‎Этот пояс подходит к моему платью.’",
     "",
     ""
   ],
@@ -6025,7 +6025,7 @@ const fullData = [
     "‘Ashur left his native village.’",
     "",
     "Ашур идти.PST-LS.3M от деревня(F)=REL REFL(F)-P.3M",
-    "‎Ашур покинул родную деревню.",
+    "‘‎Ашур покинул родную деревню.’",
     "",
     ""
   ],
@@ -6043,7 +6043,7 @@ const fullData = [
     "‘The carpet covers the whole table.’",
     "Non-Urmi speaker.",
     "ковер(F) покрывать.PST-LS.3F к все стол(M)",
-    "‎Ковер покрывает весь стол.",
+    "‘‎Ковер покрывает весь стол.’",
     "",
     ""
   ],
@@ -6061,7 +6061,7 @@ const fullData = [
     "‘The oldman remembers his house well.’",
     "Non-Urmi speaker.",
     "старый.M хороший помнить.PROG=3M дом(M)=REL REFL(F)-P.3M",
-    "Старик хорошо помнит свой дом.",
+    "‘Старик хорошо помнит свой дом.’",
     "",
     ""
   ],
@@ -6079,7 +6079,7 @@ const fullData = [
     "‘Ashur helped his friend.’",
     "",
     "Ашур помощь(F) делать.PST-LS.3M к друг(M)-P.3M",
-    "‎Ашур помог другу.",
+    "‘‎Ашур помог другу.’",
     "",
     ""
   ],
@@ -6097,7 +6097,7 @@ const fullData = [
     "‘My son understands the Assyrian language.’",
     "",
     "сын(M)-P.1SG понимать.PROG=3M язык(M)=REL ассириец.PL",
-    "‎Мой сын понимает ассирийский язык",
+    "‘‎Мой сын понимает ассирийский язык’",
     "",
     ""
   ],
@@ -6115,7 +6115,7 @@ const fullData = [
     "‘Lightning hit the house.’",
     "Non-Urmi speaker.",
     "молния(M) ударить.PST-LS.3M в дом(M)",
-    "‎Молния попала в дом.",
+    "‘‎Молния попала в дом.’",
     "",
     ""
   ],
@@ -6133,7 +6133,7 @@ const fullData = [
     "‘The boy cut himself with a razor.’",
     "",
     "мальчик(M) REFL(F)-P.3M резать.PST-SS.3F-LS.3M с бритва(F)",
-    "‎Мальчик порезался бритвой.",
+    "‘‎Мальчик порезался бритвой.’",
     "",
     ""
   ],
@@ -6151,7 +6151,7 @@ const fullData = [
     "‘The glass got stuck to the table.’",
     "",
     "стакан(M) прилипнуть.RES.M=3M на стол(M)",
-    "‎Стакан прилип к столу.",
+    "‘‎Стакан прилип к столу.’",
     "",
     ""
   ],
@@ -6169,7 +6169,7 @@ const fullData = [
     "‘Ashur lost to his brother.’",
     "",
     "Ашур проиграть.PST-LS.3M к брат(M)-P.3M",
-    "‎Ашур проиграл брату.",
+    "‘‎Ашур проиграл брату.’",
     "",
     ""
   ],
@@ -6187,7 +6187,7 @@ const fullData = [
     "‘The girl was glad about the letter.’",
     "",
     "девочка(F) радоваться.PST-LS.3F с письмо(M)",
-    "‎The girl was glad about the letter.",
+    "‘Девочка обрадовалась письму’",
     "",
     ""
   ],
@@ -6205,7 +6205,7 @@ const fullData = [
     "‘This oldman is speaking with a girl.’",
     "Some speakers use preposition <i>am</i>.",
     "DEM3.M старый.M говорить.PROG=3M от девочка(F)-P.3M",
-    "‎Этот старик разговаривает с девочкой.",
+    "‘‎Этот старик разговаривает с девочкой.’",
     "",
     ""
   ],
@@ -6223,7 +6223,7 @@ const fullData = [
     "‘My sister gave birth to a son.’",
     "Non-Urmi speaker.",
     "сестра(F)-P.1SG создавать.PST-LS.3F сын(M)",
-    "‎Моя сестра родила сына.",
+    "‘‎Моя сестра родила сына.’",
     "",
     ""
   ],
@@ -6241,7 +6241,7 @@ const fullData = [
     "‘The woman dropped the glass.’",
     "",
     "женщина(F)-P.3M ронять.PST-LS.3F стакан(M)",
-    "‎Женщина уронила стакан.",
+    "‘‎Женщина уронила стакан.’",
     "",
     ""
   ],
@@ -6259,7 +6259,7 @@ const fullData = [
     "‘This man runs our village.’",
     "Non-Urmi speaker. Non-verbal predicate, <i>avə</i> is 'to be'.",
     "DEM3.M человек(M) большой=REL деревня(F)=3M",
-    "‎Этот человек руководит деревней.",
+    "‘‎Этот человек руководит деревней.’",
     "",
     ""
   ],
@@ -6277,7 +6277,7 @@ const fullData = [
     "‘This man misses his wife.’",
     "",
     "мужчина(M) скучать.PROG=3M за женщина(F)-P.3M",
-    "‎Мужчина скучает по своей жене.",
+    "‘‎Мужчина скучает по своей жене.’",
     "",
     ""
   ],
@@ -6295,7 +6295,7 @@ const fullData = [
     "‘This woman follows her husband.’",
     "",
     "DEM2.F женщина(F) идти.PROG=3F за мужчина(M)-P.3F",
-    "‎Эта женщина идет за своим мужем.",
+    "‘‎Эта женщина идет за своим мужем.’",
     "",
     ""
   ],
@@ -6313,7 +6313,7 @@ const fullData = [
     "‘This man got down from the horse.’",
     "",
     "DEM3.M человек(M) спускаться.PST-LS.3M от лошадь(M)",
-    "‎Этот человек слез с лошади.",
+    "‘‎Этот человек слез с лошади.’",
     "",
     ""
   ],
@@ -6331,7 +6331,7 @@ const fullData = [
     "‘My daughter is listening to radio.’",
     "",
     "девочка(F)-P.1SG слышать.PROG=3F радио(?)",
-    "‎Моя дочка слушает радио.",
+    "‘‎Моя дочка слушает радио.’",
     "",
     ""
   ],
@@ -6349,7 +6349,7 @@ const fullData = [
     "‘This boy obeys his mother.’",
     "",
     "мальчик(M) слышать.PROG=3M к учительница(F)-P.3M",
-    "‎Этот мальчик слушается учительницу.",
+    "‘‎Этот мальчик слушается учительницу.’",
     "",
     ""
   ],
@@ -6367,7 +6367,7 @@ const fullData = [
     "‘My friend hears the song.’",
     "",
     "друг(M)-P.1SG слышать.PROG=3M песня(F)",
-    "‎Мой друг слышит песню.",
+    "‘‎Мой друг слышит песню.’",
     "",
     ""
   ],
@@ -6385,7 +6385,7 @@ const fullData = [
     "‘The honey got mixed with the milk.’",
     "Some speakers use preposition <i>am</i>.",
     "мед(M) смешивать(ся).PST-LS.3M с молоко(M)",
-    "‎Мед смешался с молоком.",
+    "‘‎Мед смешался с молоком.’",
     "",
     ""
   ],
@@ -6403,7 +6403,7 @@ const fullData = [
     "‘The boy is looking at the clouds.’",
     "",
     "мальчик(M) наблюдать.PROG=3M на облако(F).PL черный.PL",
-    "‎Мальчик смотрит на черные тучи.",
+    "‘‎Мальчик смотрит на черные тучи.’",
     "",
     ""
   ],
@@ -6421,7 +6421,7 @@ const fullData = [
     "‘The girl took off her dress.’",
     "Non-Urmi speaker.",
     "девочка(F) PRF-раздеться.PRS-SS.3F-LS.3F платье(F)-P.3F",
-    "‎Девочка сняла платье.",
+    "‘‎Девочка сняла платье.’",
     "",
     ""
   ],
@@ -6439,7 +6439,7 @@ const fullData = [
     "‘This guy dreams about his wife.’",
     "",
     "DEM3.M мальчик(M) с сон(M)-P.3M видеть.PST-SS.3F-LS.3M женщина(F)-P.3M",
-    "Этому парню снится его жена.",
+    "‘Этому парню снится его жена.’",
     "",
     ""
   ],
@@ -6457,7 +6457,7 @@ const fullData = [
     "‘Lit. ‘Her husband agreed with the woman.’’",
     "Non-verbal predicate, <i>avə</i> is 'to be'. Some speakers use preposition <i>am</i>.",
     "мужчина(M)-P.3F согласный быть.PST-LS.3M от женщина(F)",
-    "‎Муж согласился с женой.",
+    "‘‎Муж согласился с женой.’",
     "",
     ""
   ],
@@ -6475,7 +6475,7 @@ const fullData = [
     "‘This man had a quarrel with his wife.’",
     "Some speakers use preposition <i>am</i>.",
     "человек(M) ссориться.RES.M=3M от женщина(F)-P.3M",
-    "‎Этот человек поссорился с женой.",
+    "‘‎Этот человек поссорился с женой.’",
     "",
     ""
   ],
@@ -6493,7 +6493,7 @@ const fullData = [
     "‘This shirt costs one hundred roubles.’",
     "",
     "рубашка(F) стоить.PRS-SS.3F сто рубль(M)",
-    "‎Эта рубашка стоит сто рублей.",
+    "‘‎Эта рубашка стоит сто рублей.’",
     "",
     ""
   ],
@@ -6511,7 +6511,7 @@ const fullData = [
     "‘The oldman shot at the bird.’",
     "",
     "старый.M стрелять.PST-LS.3M в птичка(F)",
-    "‎Старик выстрелил в птицу.",
+    "‘‎Старик выстрелил в птицу.’",
     "",
     ""
   ],
@@ -6529,7 +6529,7 @@ const fullData = [
     "‘The woman poured the sugar into the cup.’",
     "Non-Urmi speaker.",
     "женщина(F) лить.PST-LS.3F сахар(M) в миска(M)",
-    "‎Женщина насыпала сахар в чашку.",
+    "‘‎Женщина насыпала сахар в чашку.’",
     "",
     ""
   ],
@@ -6547,7 +6547,7 @@ const fullData = [
     "‘The girl lost her keys.’",
     "",
     "девочка(F) ключ(M).PL потерять.PST-SS(O).3PL-LS.3F",
-    "‎Девочка потеряла ключи.",
+    "‘‎Девочка потеряла ключи.’",
     "",
     ""
   ],
@@ -6565,7 +6565,7 @@ const fullData = [
     "‘The log sank in water.’",
     "",
     "дерево(M) тонуть.PST-LS.3M в вода(PL)",
-    "Полено утонуло в воде.",
+    "‘Полено утонуло в воде.’",
     "",
     ""
   ],
@@ -6583,7 +6583,7 @@ const fullData = [
     "‘The neighbor (he) killed his neighbor (her).’",
     "",
     "сосед(M) соседка(F)-P.3M убить.PST-SS.3F-LS.3M",
-    "Сосед убил соседку.",
+    "‘Сосед убил соседку.’",
     "",
     ""
   ],
@@ -6601,7 +6601,7 @@ const fullData = [
     "‘The woman hit her neighbor.’",
     "",
     "женщина(F) ударить.PST-SS.3F-LS.3F соседка(F)-P.3F",
-    "‎Женщина ударила соседку.",
+    "‘‎Женщина ударила соседку.’",
     "",
     ""
   ],
@@ -6619,7 +6619,7 @@ const fullData = [
     "‘The boy kissed the girl.’",
     "",
     "мальчик(M) целовать-SS.3F-LS.3M девочка(F)",
-    "‎Парень поцеловал девушку.",
+    "‘‎Парень поцеловал девушку.’",
     "",
     ""
   ],
@@ -6637,7 +6637,7 @@ const fullData = [
     "‘The girl read a good book.’",
     "",
     "девочка(F) читать.PST-LS.3F хороший книга(M)",
-    "‎Девочка прочитала хорошую книгу.",
+    "‘‎Девочка прочитала хорошую книгу.’",
     "",
     ""
   ],
@@ -6655,7 +6655,7 @@ const fullData = [
     "‘The girl moved her finger.’",
     "",
     "девочка(F) двигать.PST-SS(O).3PL-LS.3F палец(F).PL-P.3F",
-    "‎Девочка пошевелила пальцами.",
+    "‘‎Девочка пошевелила пальцами.’",
     "",
     ""
   ],
@@ -6673,7 +6673,7 @@ const fullData = [
     "‘Ashur respects his neighbor.’",
     "",
     "Ашур любить.PROG-P.3M=3M сосед(M)-P.3M",
-    "‎Ашур уважает своего соседа.",
+    "‘‎Ашур уважает своего соседа.’",
     "",
     ""
   ],
@@ -6691,7 +6691,7 @@ const fullData = [
     "‘My sister is squeamish about dirty dishes.’",
     "",
     "сестра(F)-P.1SG OBL.PRON.1SG брезговать.PROG=3F от грязный.PL миска(M).PL ложка(M).PL",
-    "Моя сестра брезгует грязной посудой.",
+    "‘Моя сестра брезгует грязной посудой.’",
     "",
     ""
   ],
@@ -6709,7 +6709,7 @@ const fullData = [
     "‘Ashur is content with his son.’",
     "Non-verbal predicate, <i>avə</i> is 'to be'.",
     "Ашур согласный=3M с сын(M)-P.3M",
-    "‎Ашур доволен своим сыном.",
+    "‘‎Ашур доволен своим сыном.’",
     "",
     ""
   ],
@@ -6727,7 +6727,7 @@ const fullData = [
     "‘Ashur fell in love with his neighbor.’",
     "",
     "Ашур счастье(F)-P.3M прийти.PROG=3F от соседка(F)-P.3M",
-    "‎Ашур влюбился в соседку.",
+    "‘‎Ашур влюбился в соседку.’",
     "",
     ""
   ],
@@ -6745,7 +6745,7 @@ const fullData = [
     "‘This man trusts his wife.’",
     "Non-verbal predicate, <i>avə</i> is 'to be'. <i>+ərxay</i> is a dialect realization of <i>+arxayən</i>.",
     "DEM3.M человек(M) надежный=3M с женщина(F)-P.3M",
-    "‎Этот человек доверяет своей жене.",
+    "‘‎Этот человек доверяет своей жене.’",
     "",
     ""
   ],
@@ -6763,7 +6763,7 @@ const fullData = [
     "‘This man sympathizes with his mother.’",
     "",
     "DEM1.SG человек(M) грех(F)=REL мать(F)-P.3M прийти.PROG=3F",
-    "‎Этот человек жалеет свою мать.",
+    "‘‎Этот человек жалеет свою мать.’",
     "",
     ""
   ],
@@ -6781,7 +6781,7 @@ const fullData = [
     "‘Ashur envies his neighbor.’",
     "",
     "Ашур завидовать.PROG=3M с сосед(M)-P.3M",
-    "‎Ашур завидует своему соседу.",
+    "‘‎Ашур завидует своему соседу.’",
     "",
     ""
   ],
@@ -6799,7 +6799,7 @@ const fullData = [
     "‘Ashur is angry with his wife.’",
     "",
     "Ашур сердиться.PROG=3M на женщина(F)-P.3M",
-    "‎Ашур злится на свою жену.",
+    "‘‎Ашур злится на свою жену.’",
     "",
     ""
   ],
@@ -6817,7 +6817,7 @@ const fullData = [
     "‘I was surprised at this gift.’",
     "<i>pəštaš</i> is a dialect realization of <i>pašcaš</i> or <i>pəšcaš</i>.",
     "я удивляться.PST-LS.1SG с OBL-DEM1.SG подарок(F)",
-    "‎Я удивился этому подарку.",
+    "‘‎Я удивился этому подарку.’",
     "",
     ""
   ],
@@ -6835,7 +6835,7 @@ const fullData = [
     "‘This woman loves tea.’",
     "",
     "DEM3.F женщина(F) счастье(F)-P.3F прийти.PROG=3F от чай(M)",
-    "Эта женщина любит чай.",
+    "‘Эта женщина любит чай.’",
     "",
     ""
   ],
@@ -6853,7 +6853,7 @@ const fullData = [
     "‘The boy enjoys tea.’",
     "Non-Urmi speaker. <i>ceyp</i> is a dialect realization of <i>cep</i>.",
     "мальчик(M) делать.PROG=3M удовольствие(F)-P.3M с чай(M)",
-    "‎Парень наслаждается чаем.",
+    "‘‎Парень наслаждается чаем.’",
     "",
     ""
   ],
@@ -6871,7 +6871,7 @@ const fullData = [
     "‘The girl wants a new phone.’",
     "",
     "девочка(F) хотеть.PROG=3F новый телефон(?)",
-    "‎Девочка хочет новый телефон.",
+    "‘‎Девочка хочет новый телефон.’",
     "",
     ""
   ],
@@ -6889,7 +6889,7 @@ const fullData = [
     "‘Ashur has a grudge against his wife.’",
     "",
     "Ашур сердиться.PROG=3M на женщина(F)-P.3M",
-    "‎Ашур сердится на свою жену.",
+    "‘‎Ашур сердится на свою жену.’",
     "",
     ""
   ],
@@ -6907,7 +6907,7 @@ const fullData = [
     "‘My brother got cross with his wife.’",
     "<i>ceyp</i> is a dialect realization of <i>cep</i>.",
     "брат(M)-P.1SG удовольствие(F)-P.3M остаться.RES.F=3F от женщина(F)-P.3M",
-    "Мой брат обиделся на свою жену.",
+    "‘Мой брат обиделся на свою жену.’",
     "",
     ""
   ],
@@ -6925,7 +6925,7 @@ const fullData = [
     "‘This man greatly upset his wife.’",
     "",
     "DEM1.SG человек(M) много сердце(M)=REL женщина(F)-P.3M оставлять.PST-LS.3M",
-    "Этот человек очень огорчил свою жену.",
+    "‘Этот человек очень огорчил свою жену.’",
     "",
     ""
   ],
@@ -6961,7 +6961,7 @@ const fullData = [
     "‘Ashur despises his neighbor.’",
     "",
     "Ашур глаз(F).PL-P.3M уйти.PROG=3PL от сосед(M)-P.3M",
-    "‎Ашур презирает своего соседа.",
+    "‘‎Ашур презирает своего соседа.’",
     "",
     ""
   ],
@@ -6979,7 +6979,7 @@ const fullData = [
     "‘Ashur got upset with his son.’",
     "",
     "сердце(M)=REL Ашур оставлять.PST-LS.3M от сын(M)-P.3M",
-    "‎Ашур огорчился из-за сына.",
+    "‘‎Ашур огорчился из-за сына.’",
     "",
     ""
   ],
@@ -6997,7 +6997,7 @@ const fullData = [
     "‘The oldman is irritated with his daughter.’",
     "",
     "сердце(M)=REL старый.M быть_безумным.PST-LS.3M от внучка(F)",
-    "Старик огорчился из-за внучки.",
+    "‘Старик огорчился из-за внучки.’",
     "",
     ""
   ],
@@ -7015,7 +7015,7 @@ const fullData = [
     "‘I am fond of this person.’",
     "",
     "DEM1.SG человек(M) очень в сердце(M)-P.1SG войти.RES.M=3M",
-    "‎Я очень симпатизирую этому человеку.",
+    "‘‎Я очень симпатизирую этому человеку.’",
     "",
     ""
   ],
@@ -7033,7 +7033,7 @@ const fullData = [
     "‘This boy is shy about his height.’",
     "",
     "DEM3.M мальчик(M) стыдиться.PROG=3M от OBL-DEM1.SG размер(M)-P.3M",
-    "Этот парень стесняется своего роста.",
+    "‘Этот парень стесняется своего роста.’",
     "",
     ""
   ],
@@ -9100,10 +9100,10 @@ const fullData = [
     "TR",
     "kasa-jʔ ɛɛ-da aga-an sɛŋa-za",
     "man-NOM.SG.1SG mother-OBL.SG.3SG big-PROL.SG feel_sorry_for(IPFV)-3SG.SOsg",
-    "‘My friend sympathizes with his mother’.",
+    "‘My friend sympathizes with his mother a lot’.",
     "",
     "мужчина-NOM.SG.1SG мать-OBL.SG.3SG большой-PROL.SG жалеть-3SG.SOsg",
-    "‘Мой товарищ жалеет свою мать’.",
+    "‘Мой товарищ очень жалеет свою мать’.",
     "",
     ""
   ],
@@ -12086,11 +12086,11 @@ const fullData = [
     "SUP",
     "Y",
     "NOM_SUP",
-    "rasul čejlaʁ-a le-jq’ɨ-r-a",
-    "PN(NOM) riverside-OBL(SUP) PV-1.reach.PFV-CVB",
+    "rasul čejlaʁ-a le-jq’ɨ-r=a",
+    "PN(NOM) riverside-OBL(SUP) PV-1.reach.PFV-CVB=be",
     "‘Rasul reached the bank.’",
     "",
-    "PN(NOM) берег.реки-OBL(SUP) PV-1.достичь.PFV-CVB",
+    "PN(NOM) берег.реки-OBL(SUP) PV-1.достичь.PFV-CVB=быть",
     "‘Расул достиг берега.’",
     "",
     ""
@@ -12142,7 +12142,7 @@ const fullData = [
     "NOM_COM",
     "rasul ramazan-ɨ-kan ara χ-a",
     "PN(NOM) PN-OBL-COM inside PV-be",
-    "‘Rasul is friends with Ramazan.’ (lit. ‘Rasul is together with Ramazan.’).",
+    "‘Rasul is friends with Ramazan’ (lit. ‘Rasul is together with Ramazan’).",
     "Non-verbal predicate.",
     "PN(NOM) PN-OBL-COM внутри PV-быть",
     "‘Расул дружит с Рамазаном’ (букв. ‘Расул вместе с Рамазаном’).",
@@ -12460,10 +12460,10 @@ const fullData = [
     "forfeit",
     "лишаться",
     "madiš",
-    "ATR",
+    "ATTR",
     "NOM",
     "X",
-    "ATR_NOM",
+    "ATTR_NOM",
     "rasul-dɨ χal madiš",
     "PN-ATTR house(NOM) remain.4.NEG",
     "‘Rasul lost his house.’",
@@ -12807,10 +12807,10 @@ const fullData = [
     "X",
     "APUD_NOM",
     "rasul-da χa-ma<b>a-ni w-iɁi jic’ɨ-d manud",
-    "PN-APUD PV-<3>remain-CVB 3-COP ten-3 rouble(NOM)",
+    "PN-APUD PV-<3>remain-CVB 3-COP ten-4 rouble(NOM)",
     "‘Rasul has 10 roubles left.’",
     "",
-    "PN-APUD PV-<3>оставаться-CVB 3-COP десять-3 рубль(NOM)",
+    "PN-APUD PV-<3>оставаться-CVB 3-COP десять-4 рубль(NOM)",
     "‘У Расула осталось 10 рублей.’",
     "",
     ""
@@ -12911,9 +12911,9 @@ const fullData = [
     "пахнуть",
     "il rɨˁχaˁ-r-a",
     "CONT.EL",
-    "ATR",
+    "ATTR",
     "XY",
-    "CONT.EL_ATR",
+    "CONT.EL_ATTR",
     "ɨz-dɨ χɨla-bɨr-mɨ-k-la benzin-ad il rɨˁχaˁ-r=a",
     "I-ATTR hand-PL-OBL.Pl-CONT-EL petrol-ATTR smell(NOM) 4.go.IPFV-CVB=be",
     "‘My hands smell of gasoline.’",
@@ -12951,10 +12951,10 @@ const fullData = [
     "TR",
     "TR",
     "rasul-a bat’r-ad maˁɁni hɨʔɨ-r=a",
-    "PN-ERG beautiful song(NOM) 4.do.PFV-CVB=be",
+    "PN-ERG beautiful-ATTR song(NOM) 4.do.PFV-CVB=be",
     "‘Rasul sang a beautiful song.’",
     "",
-    "PN-ERG красивый песня(NOM) 4.делать.PFV-CVB=быть",
+    "PN-ERG красивый-ATTR песня(NOM) 4.делать.PFV-CVB=быть",
     "‘Расул спел красивую песню.’",
     "",
     ""
@@ -13222,10 +13222,10 @@ const fullData = [
     "NOM_COM",
     "rasul nadir-ɨ-kan halga-r=a",
     "PN(NOM) PN-OBL-COM 1.talk.IPFV-CVB=be",
-    "‘Rasul is speaking with Asijat.’",
+    "‘Rasul is speaking with Nadir.’",
     "",
     "PN(NOM) PN-OBL-COM 1.разговаривать.IPFV-CVB=быть",
-    "‘Расул разговаривает с Асият.’",
+    "‘Расул разговаривает с Надиром.’",
     "",
     ""
   ],
@@ -13474,10 +13474,10 @@ const fullData = [
     "NOM_COM",
     "vɨɣɨl raazi jiši-r ɢarija-kan",
     "man(NOM) agreed 1.become.PFV-CVB wife.OBL-COM",
-    "‘Rasul agreed with Asijat.’",
+    "‘Rasul agreed with his wife.’",
     "",
     "человек(NOM) согласен 1.стать.PFV-CVB жена.OBL-COM",
-    "‘Расул согласился с Асият.’",
+    "‘Расул согласился с женой.’",
     "",
     ""
   ],
@@ -13706,7 +13706,7 @@ const fullData = [
     "*",
     "*",
     "",
-    "rasul-u-s čapaˁl-dɨ ɢab-ɨr ʁagu-jne jik’ mɨq’a jiši-r",
+    "rasul-u-s čapaˁl-dɨ ɢab-ɨr ʁa-gu-jne jik’ mɨq’a jiši-r",
     "PN-OBL-DAT dirty-ATTR dish-PL PV-NPL.see.PFV-CVB heart cold 4.become.PFV-CVB",
     "‘Rasul is squeamish about dirty dishes’ (lit. ‘Rasul’s heart gets cold when he sees dirty dishes’).",
     "Not included in the database because Y is expressed as an NP-internal modifier.",
@@ -13742,7 +13742,7 @@ const fullData = [
     "NOM",
     "X",
     "DAT_NOM",
-    "rasul-u-s jik’i-k k-irxu-r=a asijed",
+    "rasul-u-s jik’i-k k-irxu-r=a asijet",
     "PN-OBL-DAT heart.OBL-CONT PV-get.in.PFV-CVB=be PN(NOM)",
     "‘Rasul fell in love with Asijat.’",
     "",
