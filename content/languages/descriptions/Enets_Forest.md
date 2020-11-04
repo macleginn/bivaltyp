@@ -57,10 +57,12 @@ Where there is a distinction between the markers used for the subject and for th
 ```
 
 Personal pronouns have distinct forms of the nominative, the genitive and the accusative cases. The nominative and the accusative forms are used, respectively, in the positions of the subject and the direct object. The genitive form is used with some postpositions.
+
 The subject (always) and the 3rd person direct object (under certain conditions) are indexed on the verb. There are three series of agreement markers, the subject, the subject-object and the middle series. The middle agreement markers are used for subject indexing with some intransitive verbs. The subject agreement markers can be used for subject indexing in both intransitive and transitive clauses (3). The subject-object agreement markers are cumulative suffixes used for indexing the subject and the direct object (2). The choice between the subject and subject-object agreement markers in transitive clauses is primarily determined by the topicality of the direct object (Differential Object Indexing).
 Non-core arguments are marked either by locative cases or by postpositions and are never indexed on the verb. Some non-core arguments have the status represented as “TOP”: they are clause-initial (clause-internal) nominative noun phrases that are not indexed on the verb, see (Ovsjannikova 2018; in press).
 
 > Ovsjannikova, Maria. 2018. Kodirovanie učastnikov pri dvuxmestnyx predikatax v lesnom eneckom jazyke. Uralo-altayskie issledovanija, 1 (28). P. 50–69.
+
 > Ovsjannikova, Maria. In press. Encoding of nominal possessors in Forest Enets. Eesti ja soome-ugri keeleteaduse ajakiri. Journal of Estonian and Finno-Ugric Linguistics.
 
 
