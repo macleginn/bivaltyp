@@ -54,10 +54,10 @@ Table 1. Case and possessive marking of nouns (singular possessors)
   </tr>
   <tr>
     <td class="tg-0lax">Subject</td>
-    <td class="tg-0lax">Adnominal/postpositional&nbsp;&nbsp;&nbsp;dependent</td>
+    <td class="tg-0lax">Adnominal/postpositional dependent</td>
     <td class="tg-0lax">Direct object</td>
     <td class="tg-0lax">Subject</td>
-    <td class="tg-0lax">Adnominal/postpositional&nbsp;&nbsp;&nbsp;dependent</td>
+    <td class="tg-0lax">Adnominal/postpositional dependent</td>
     <td class="tg-0lax">Direct object</td>
   </tr>
 </thead>
@@ -97,11 +97,11 @@ Where there is a distinction between the markers used for the subject and for th
 ```
 (2) modʲi  kasa-jʔ         nɛ-jʔ             tɛnee-za
     I      man-NOM.SG.1SG  woman-NOM.SG.1SG  know(IPFV)-3SG.SOsg
-    ‘My friend knows my wife’. 
+    ‘My friend knows my wife.’ 
 
 (3) modʲi  kasa-jʔ         nɛ-da             ɔtee
     I      man-NOM.SG.1SG  woman-OBL.SG.3SG  wait(IPFV).3SG.S
-    ‘My friend is waiting for his wife’.
+    ‘My friend is waiting for his wife.’
 ```
 
 Personal pronouns have distinct forms of the nominative, the genitive and the accusative cases. The nominative and the accusative forms are used, respectively, in the positions of the subject and the direct object. The genitive form is used with some postpositions.
