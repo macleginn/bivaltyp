@@ -37,12 +37,60 @@ For the nouns marked with the possessive markers, the formal distinguishability 
 
 Table 1. Case and possessive marking of nouns (singular possessors)
 
-|          |     Singular possessee    |                                           |                      | Non-singular possessee  |                                           |                      |
-|----------|---------------------------|-------------------------------------------|----------------------|-------------------------|-------------------------------------------|----------------------|
-|          |     Subject               |     Adnominal/postpositional dependent    |     Direct object    |     Subject             |     Adnominal/postpositional dependent    |     Direct object    |
-|     1    |     -jʔ, -b               |     -nʲiʔ                                 |     -jʔ, -b          |     -nʲiʔ               |     -nʲiʔ                                 |     -nʲiʔ            |
-|     2    |     -r                    |     -d                                    |     -d               |     -z                  |     -t                                    |     -z               |
-|     3    |     -za                   |     -da                                   |     -da              |     -za                 |     -ta                                   |     -za              |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" rowspan="2">Person</th>
+    <th class="tg-0lax" colspan="3">Singular possessee</th>
+    <th class="tg-0lax" colspan="3">Plural possessee</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Subject</td>
+    <td class="tg-0lax">Adnominal/postpositional&nbsp;&nbsp;&nbsp;dependent</td>
+    <td class="tg-0lax">Direct object</td>
+    <td class="tg-0lax">Subject</td>
+    <td class="tg-0lax">Adnominal/postpositional&nbsp;&nbsp;&nbsp;dependent</td>
+    <td class="tg-0lax">Direct object</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">-jʔ, -b</td>
+    <td class="tg-0lax">-nʲʔ</td>
+    <td class="tg-0lax">-jʔ, -b</td>
+    <td class="tg-0lax">-nʲʔ</td>
+    <td class="tg-0lax">-nʲʔ</td>
+    <td class="tg-0lax">-nʲʔ</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">-r</td>
+    <td class="tg-0lax">-d</td>
+    <td class="tg-0lax">-d</td>
+    <td class="tg-0lax">-z</td>
+    <td class="tg-0lax">-t</td>
+    <td class="tg-0lax">-z</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">-za</td>
+    <td class="tg-0lax">-da</td>
+    <td class="tg-0lax">-da</td>
+    <td class="tg-0lax">-za</td>
+    <td class="tg-0lax">-ta</td>
+    <td class="tg-0lax">-za</td>
+  </tr>
+</tbody>
+</table>
 
 Where there is a distinction between the markers used for the subject and for the adnominal/postpositional dependent, the former is glossed as nominative and the latter, as oblique. The direct object is thus marked either with the nominative (2) or with the oblique marker (3). Where the oblique marker is used, as in (3), the subject and the direct object are formally distinct.
 
