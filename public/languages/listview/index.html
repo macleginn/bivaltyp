@@ -88,8 +88,8 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <h2>List of languages</h2>
 <p>Click on the ‘link’ near the name of a language to open the description. Summary data for languages being prepared for publication can be found in the ‘<a href="../../data/patterns/">Patterns overview</a>’ section</p>
-<input type="button" value="Show the description" onclick="toggleDescription();">
-<div id="description">
+<input type="button" value="Show the description" onclick="toggleDescription(this);">
+<div id="description" style="display: none;">
     <ul>
     <li>
         <p><strong>glottocode</strong> is the language’s code provided by <a href="https://glottolog.org/">Glottolog</a>.</p>
@@ -181,9 +181,17 @@
 </div>
 <div id="table"></div>
 <script>
-    function toggleDescription() {
-
+    function toggleDescription(button) {
+        let description = document.getElementById('description');
+        if (button.value === 'Show the description') {
+            description.style.display = 'block';
+            button.value = 'Hide the description';
+        } else {
+            description.style.display = 'none';
+            button.value = 'Show the description';
+        }
     }
+
     // dataframe-js singleton object.
     let DataFrame = dfjs.DataFrame;
 
