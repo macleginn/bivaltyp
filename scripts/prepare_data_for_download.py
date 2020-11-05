@@ -4,9 +4,14 @@ d_full = pd.read_csv('../data/data.csv', sep='\t')
 d_struct = pd.read_csv('../data/data_structural.csv', sep='\t')
 
 records = []
+full_langs = set()
 for _, row in d_full.iterrows():
+    full_langs.add(row.language_no)
     records.append(dict(row))
 for _, row in d_struct.iterrows():
+    # Skip fully described languages
+    if row.language_no in full_langs:
+        continue
     records.append(dict(row))
 d_down = pd.DataFrame.from_records(records, columns=d_full.columns)
 del d_down['predicate_label_ru']

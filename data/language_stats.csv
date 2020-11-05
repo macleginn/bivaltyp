@@ -35,6 +35,18 @@ Name: number_nominal_cases, Length: 84, dtype: float64"	123	36	87	0.29	0.71	26	2
 82     0.0
 83    21.0
 Name: number_nominal_cases, Length: 84, dtype: float64"	124	49	75	0.4	0.6	15	2.0599581645790668	2.039358582933276	2.2964093519389825	6	58	11
+46	"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+79    26.0
+80     8.0
+81     0.0
+82     0.0
+83    21.0
+Name: number_nominal_cases, Length: 84, dtype: float64"	104	57	47	0.55	0.44999999999999996	11	1.5311124080604588	1.5311124080604588	1.8644658824367455	6	41	0
 83	"0      NaN
 1      NaN
 2      NaN
@@ -58,7 +70,7 @@ Name: number_nominal_cases, Length: 84, dtype: float64"	127	61	66	0.48	0.52	11	1
 81     0.0
 82     0.0
 83    21.0
-Name: number_nominal_cases, Length: 84, dtype: float64"	117	31	86	0.26	0.74	28	2.7139225681955796	2.686783342513624	2.9056053595858886	24	56	6
+Name: number_nominal_cases, Length: 84, dtype: float64"	117	31	86	0.26	0.74	28	2.712338362724177	2.685214979096935	2.9034501033050266	24	56	6
 80	"0      NaN
 1      NaN
 2      NaN
@@ -323,18 +335,6 @@ Name: number_nominal_cases, Length: 84, dtype: float64"	122	38	84	0.31	0.69	26	2
 82     0.0
 83    21.0
 Name: number_nominal_cases, Length: 84, dtype: float64"	116	71	45	0.61	0.39	11	1.4129169082011277	1.3987877391191164	1.9207107220575605	0	45	0
-46	"0      NaN
-1      NaN
-2      NaN
-3      NaN
-4      NaN
-      ... 
-79    26.0
-80     8.0
-81     0.0
-82     0.0
-83    21.0
-Name: number_nominal_cases, Length: 84, dtype: float64"	102	57	45	0.56	0.43999999999999995	10	1.4863225585896471	1.4863225585896471	1.8135868517196025	5	40	0
 29	"0      NaN
 1      NaN
 2      NaN
