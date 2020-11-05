@@ -49,8 +49,8 @@ Table 1. Case and possessive marking of nouns (singular possessors)
 <thead>
   <tr>
     <th class="tg-0lax" rowspan="2">Person</th>
-    <th class="tg-0lax" colspan="3">Singular possessee</th>
-    <th class="tg-0lax" colspan="3">Plural possessee</th>
+    <th class="tg-0lax" colspan="3" style="text-align: center;">Singular possessee</th>
+    <th class="tg-0lax" colspan="3" style="text-align: center;">Plural possessee</th>
   </tr>
   <tr>
     <td class="tg-0lax">Subject</td>
