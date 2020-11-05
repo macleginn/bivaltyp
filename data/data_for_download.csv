@@ -259,136 +259,266 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 85	128	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
 85	129	rok’or-di <j>-iχ.i-j	AFF	NOM	X	AFF_NOM	pat’imati-<j>o marjam rok’or-di j-iχ.i-j.	PN-AFF<F> PN[F][NOM] heart-ILLAT F-take.PST-PF	‘Patimat is fond of Mariam.’					
 85	130	sːuloʔ.o-rado	NOM	CONT.EL	Y	NOM_CONT.EL	ali sːuloʔ.o-rado enʃːu-b=ɡu wotʃo-ɬir-tʃ’u-kːu.	PN[M][NOM] be_embarrassed.PST-PROG RFL.OBL.M-INAN1(GEN)=EMPH short-ABST-CONT-EL	‘Ali is embarrassed about his height (lit. ‘by his shortness’).’					
-76	1	+marrə	BARE	SBJ	X	BARE_SBJ	brata riš-o +mray=əl	girl(F) head(M)-P.3F ache.PROG=3M	‘The girl has a headache.’		девочка(F) голова(M)-P.3F болеть.PROG=3M	У девочки болит голова.		
-76	2	+marrə	SBJ	bi	Y	SBJ_bi	brata +mrit=əla bi gripp	girl(F) ache.RES.F=3F with flu(M)	‘The girl has the flu.’	Non-Urmi speaker.	девочка(F) болеть.RES.F=3F с грипп(M)	Девочка болеет гриппом.		
-76	3	+zadə	SBJ	men	Y	SBJ_men	yala mən calba +bəzday=əl	boy(M) from dog(M) be_afraid.PROG=3M	‘The boy is afraid of the dog.’		мальчик(M) от собака(M) бояться.PROG=3M	Мальчик боится собаки.		
-76	4	+rappə 	SBJ	DO	TR	TR	cipa +ruppi-la brata	stone(M) throw.PST-LS.3F girl(F)	‘The girl threw the stone.’		камень(M) бросить.PST-LS.3F девочка(F)	Девочка бросила камень.		
-76	5	xazə	ka	SBJ	X	ka_SBJ	adi zuyzə ka brata bəxzay=əna	now money(PL) to girl(F) see.PROG=3PL	‘Now the girl has enough money.’		сейчас деньги(PL) к девочка(F) видеть.PROG=3PL	Теперь девочке хватает денег.		
-76	6	damə 	SBJ	al	Y	SBJ_al	+avvo yala bədmay=əl +al savun-u	DEM3.M boy(M) resemble.PROG=3M on grandfather(M)-P.3M	‘This boy resembles his grandfather.’		DEM3.M мальчик(M) быть_похожим.PROG=3M на дедушка(M)-P.3M	‎Этот мальчик похож на своего дедушку.		
-76	7	hammən 	SBJ	al	Y	SBJ_al	+avvo naša hammun=əl +al baxt-u	DEM3.M person(M) believe.PROG=3M on woman(F)-P.3M	‘This man believes his wife.’		DEM3.M человек(M) верить.PROG=3M на женщина(F)-P.3M	‎Этот человек верит своей жене.		
-76	8	šakəl	SBJ	DO	TR	TR	brata škəl-la ctava mən +ustol	girl(F) take.PST-LS.3F book(M) from table(M)	‘The girl took the book from the table.’		девочка(F) взять.PST-LS.3F книга(M) от стол(M)	‎Девочка взяла книгу со стола.		
-76	9	xazə	SBJ	DO	TR	TR	brata xzi-la beta	girl(F) see.PST-LS.3F house(M)	‘The girl saw the house.’		девочка(F) видеть.PST-LS.3F дом(M)	Девочка увидела дом.		
+76	1	+marrə	BARE	SBJ	X	BARE_SBJ	brata riš-o +mray=əl	girl(F) head(M)-P.3F ache.PROG=3M	‘The girl has a headache.’		девочка(F) голова(M)-P.3F болеть.PROG=3M	‘У девочки болит голова.’		
+76	2	+marrə	SBJ	bi	Y	SBJ_bi	brata +mrit=əla bi gripp	girl(F) ache.RES.F=3F with flu(M)	‘The girl has the flu.’	Non-Urmi speaker.	девочка(F) болеть.RES.F=3F с грипп(M)	‘Девочка болеет гриппом.’		
+76	3	+zadə	SBJ	men	Y	SBJ_men	yala mən calba +bəzday=əl	boy(M) from dog(M) be_afraid.PROG=3M	‘The boy is afraid of the dog.’		мальчик(M) от собака(M) бояться.PROG=3M	‘Мальчик боится собаки.’		
+76	4	+rappə 	SBJ	DO	TR	TR	cipa +ruppi-la brata	stone(M) throw.PST-LS.3F girl(F)	‘The girl threw the stone.’		камень(M) бросить.PST-LS.3F девочка(F)	‘Девочка бросила камень.’		
+76	5	xazə	ka	SBJ	X	ka_SBJ	adi zuyzə ka brata bəxzay=əna	now money(PL) to girl(F) see.PROG=3PL	‘Now the girl has enough money.’		сейчас деньги(PL) к девочка(F) видеть.PROG=3PL	‘Теперь девочке хватает денег.’		
+76	6	damə 	SBJ	al	Y	SBJ_al	+avvo yala bədmay=əl +al savun-u	DEM3.M boy(M) resemble.PROG=3M on grandfather(M)-P.3M	‘This boy resembles his grandfather.’		DEM3.M мальчик(M) быть_похожим.PROG=3M на дедушка(M)-P.3M	‘‎Этот мальчик похож на своего дедушку.’		
+76	7	hammən 	SBJ	al	Y	SBJ_al	+avvo naša hammun=əl +al baxt-u	DEM3.M person(M) believe.PROG=3M on woman(F)-P.3M	‘This man believes his wife.’		DEM3.M человек(M) верить.PROG=3M на женщина(F)-P.3M	‘‎Этот человек верит своей жене.’		
+76	8	šakəl	SBJ	DO	TR	TR	brata škəl-la ctava mən +ustol	girl(F) take.PST-LS.3F book(M) from table(M)	‘The girl took the book from the table.’		девочка(F) взять.PST-LS.3F книга(M) от стол(M)	‘‎Девочка взяла книгу со стола.’		
+76	9	xazə	SBJ	DO	TR	TR	brata xzi-la beta	girl(F) see.PST-LS.3F house(M)	‘The girl saw the house.’		девочка(F) видеть.PST-LS.3F дом(M)	‘Девочка увидела дом.’		
 76	10	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
-76	11	tapək 	SBJ	men	Y	SBJ_men	yala tpək-lə mən švava	boy(M) meet.PST-LS.3M from neighbour(M)	‘The boy ran into his neughbor.’	Some speakers use preposition <i>am</i>.	мальчик(M) встретиться.PST-LS.3M от сосед(M)	Мальчик встретился с соседом.		
-76	12	+avər	SBJ	gu	Y	SBJ_gu	brata +vər-ra gu beta	girl(F) enter.PST-LS.3F in house(M)	‘The girl entered the house.’	Non-Urmi speaker.	девочка(F) войти.PST-LS.3F в дом(M)	Девочка вошла в дом.		
-76	13	+karəm	SBJ	ka	Y	SBJ_ka	brata +krəm-la ka axun-o	girl(F) win.PST-LS.3F to brother(M)-P.3F	‘The girl beat her brother.’		девочка(F) победить.PST-LS.3F к брат(M)-P.3F	Девочка выиграла у брата.		
-76	14	+paləṭ 	SBJ	men	Y	SBJ_men	brata +pləṭ-la mən beta	girl(F) leave.PST-LS.3F from house(M)	‘The girl went out of the house.’		девочка(F) уйти.PST-LS.3F от дом(M)	Девочка вышла из дома.		
-76	15	+ṭarə	SBJ	DO	TR	TR	brata +bəṭray=əla tavərt-o gu +bukra	girl(F) drive.PROG=3F cow(F)-P.3F in herd(M)	‘The girl is driving the cow to the pasture’ (lit. ‘into the herd’).	Non-Urmi speaker.	девочка(F) гнать.PROG=3F корова(F)-P.3F в стадо(M)	Девочка гонит корову на пастбище (букв. ‘в стадо’).		
-76	16	+ṭayəp	SBJ	DO	TR	TR	+Ašur +ṭip-e-lə +pavan=ət ilana	PN bend.PST-SS(O).3PL-LS.3M branch(M).PL=REL tree(M)	‘Ashur bent the branch.’		Ашур гнуть.PST-SS(O).3PL-LS.3M ветка(M).PL=REL дерево(M)	Ашур согнул ветки дерева.		
-76	17	tanə	SBJ	ka	Y	SBJ_ka	+Ašur tuni-l ka +xor-u atə bet-u arxa	PN say.PST-LS.3M to friend(M)-P.3M come.PRS house(M)-P.3M guest(M)	‘Ashur told his friend: “Call me this evening.”’		Ашур сказать.PST-LS.3M к друг(M)-P.3M прийти.PRS дом(M)-P.3M гость(M)	"Ашур сказал другу: (""Приходи ко мне в гости"")."		
-76	18	davək	SBJ	DO	TR	TR	brata ctava dvəkt-u=la ṗ id-o	girl(F) book(M) seize.RES.F-P.3M=3F with hand(F)-P.3F	‘The girl is holding a book in her hands.’		девочка(F) книга(M) схватить.RES.F-P.3M=3F с рука(F)-P.3F	Девочка держит книгу в руках.		
-76	19	+maṭə	SBJ	ka	Y	SBJ_ka	naša +mṭi-l ka baxt-u	person(M) arrive.PST-LS.3M to woman(F)-P.3M	‘The man caught up with his wife.’		человек(M) достичь.PST-LS.3M к женщина(F)-P.3M	Человек догнал свою жену.		
-76	20	+xaləv 	SBJ	DO	TR	TR	baxta +xliv-e-la tavəryay	woman(F) milk.PST-SS(O).3PL-LS.3F cow(F).PL	‘The woman milked the cows.’		женщина(F) доить.PST-SS(O).3PL-LS.3F корова(F).PL	Женщина подоила корову.		
-76	21	+maṭə	SBJ	al	Y	SBJ_al	naša +məṭy=əl +al bərza	person(M) arrive.RES.M=3M on dry_land(M)	‘The man reached the bank.’		человек(M) достичь.RES.M=3M на суша(M)	Человек достиг берега.		
-76	22	kayət	SBJ	bi	Y	SBJ_bi	yala kət-lə bi guyda	boy(M) knock.PST-LS.3M with wall(M)	‘The boy touched the wall.’		мальчик(M) стучать.PST-LS.3M с стена(M)	Мальчик дотронулся до стены.		
-76	23	+ṗaləš	SBJ	men	Y	SBJ_men	+Ašur +ṗlaš=əl mən švav-u	PN fight.PROG=3M from neighbour(M)-P.3M	‘Ashur is fighting with his neighbor.’	Some speakers use preposition <i>am</i>.	Ашур драться.PROG=3M от сосед(M)-P.3M	Ашур дерется с соседом.		
-76	24	avəd +xorvayta	SBJ	men	Y	SBJ_men	yala +xorvayta vad=əl mən švav-u	boy(M) friendship(F) do.PROG=3M from neighbour(M)-P.3M	‘The boy is friends with his neighbor.’	Some speakers use preposition <i>am</i>.	мальчик(M) дружба(F) делать.PROG=3M от сосед(M)-P.3M	Мальчик дружит со своим соседом.		
-76	25	taxmən	SBJ	bar	Y	SBJ_bar	naša taxmun=əl +bar baxt-u	person(M) think.PROG=3M after woman(F)-P.3M	‘The man is thinking about his wife.’		человек(M) думать.PROG=3M за женщина(F)-P.3M	Человек думает о своей жене.		
-76	26	+axəl	SBJ	DO	TR	TR	yala +xəl-lə xabuyša	boy(M) eat.PST-LS.3M apple(M)	‘The boy ate an apple.’		мальчик(M) есть.PST-LS.3M яблоко(M)	Мальчик съел яблоко.		
-76	27	kalə 	SBJ	DO	TR	TR	sava kuli-lə nuyna	old.M fry(tr).PST-LS.3M fish(F)	‘The oldman fried the fish.’		старый.M жарить.PST-LS.3M рыба(F)	Старик пожарил рыбу.		
-76	28	xaməl	SBJ	al	Y	SBJ_al	yala bəxmal=əl +al švav-u	boy(M) wait.PROG=3M on neighbour(M)-P.3M	‘The boy is waiting for his neighbor.’		мальчик(M) ждать.PROG=3M на сосед(M)-P.3M	‎Мальчик ждет соседа.		
-76	29	manšə	SBJ	DO	TR	TR	yala munšiyy-o=l crita urxa	boy(M) forget.RES.M-P.3F=3M short.F way(F)	‘The boy forgot about the other road.’		мальчик(M) забыть.RES.M-P.3F=3M короткий.F дорога(F)	‎Мальчик забыл о короткой дороге.		
+76	11	tapək 	SBJ	men	Y	SBJ_men	yala tpək-lə mən švava	boy(M) meet.PST-LS.3M from neighbour(M)	‘The boy ran into his neughbor.’	Some speakers use preposition <i>am</i>.	мальчик(M) встретиться.PST-LS.3M от сосед(M)	‘Мальчик встретился с соседом.’		
+76	12	+avər	SBJ	gu	Y	SBJ_gu	brata +vər-ra gu beta	girl(F) enter.PST-LS.3F in house(M)	‘The girl entered the house.’	Non-Urmi speaker.	девочка(F) войти.PST-LS.3F в дом(M)	‘Девочка вошла в дом.’		
+76	13	+karəm	SBJ	ka	Y	SBJ_ka	brata +krəm-la ka axun-o	girl(F) win.PST-LS.3F to brother(M)-P.3F	‘The girl beat her brother.’		девочка(F) победить.PST-LS.3F к брат(M)-P.3F	‘Девочка выиграла у брата.’		
+76	14	+paləṭ 	SBJ	men	Y	SBJ_men	brata +pləṭ-la mən beta	girl(F) leave.PST-LS.3F from house(M)	‘The girl went out of the house.’		девочка(F) уйти.PST-LS.3F от дом(M)	‘Девочка вышла из дома.’		
+76	15	+ṭarə	SBJ	DO	TR	TR	brata +bəṭray=əla tavərt-o gu +bukra	girl(F) drive.PROG=3F cow(F)-P.3F in herd(M)	‘The girl is driving the cow to the pasture’ (lit. ‘into the herd’).	Non-Urmi speaker.	девочка(F) гнать.PROG=3F корова(F)-P.3F в стадо(M)	‘Девочка гонит корову на пастбище’ (букв. ‘в стадо’).		
+76	16	+ṭayəp	SBJ	DO	TR	TR	+Ašur +ṭip-e-lə +pavan=ət ilana	PN bend.PST-SS(O).3PL-LS.3M branch(M).PL=REL tree(M)	‘Ashur bent the branch.’		Ашур гнуть.PST-SS(O).3PL-LS.3M ветка(M).PL=REL дерево(M)	‘Ашур согнул ветки дерева.’		
+76	17	tanə	SBJ	ka	Y	SBJ_ka	+Ašur tuni-l ka +xor-u atə bet-u arxa	PN say.PST-LS.3M to friend(M)-P.3M come.PRS house(M)-P.3M guest(M)	‘Ashur told his friend: “Call me this evening.”’		Ашур сказать.PST-LS.3M к друг(M)-P.3M прийти.PRS дом(M)-P.3M гость(M)	"‘Ашур сказал другу: (""Приходи ко мне в гости"").’"		
+76	18	davək	SBJ	DO	TR	TR	brata ctava dvəkt-u=la ṗ id-o	girl(F) book(M) seize.RES.F-P.3M=3F with hand(F)-P.3F	‘The girl is holding a book in her hands.’		девочка(F) книга(M) схватить.RES.F-P.3M=3F с рука(F)-P.3F	‘Девочка держит книгу в руках.’		
+76	19	+maṭə	SBJ	ka	Y	SBJ_ka	naša +mṭi-l ka baxt-u	person(M) arrive.PST-LS.3M to woman(F)-P.3M	‘The man caught up with his wife.’		человек(M) достичь.PST-LS.3M к женщина(F)-P.3M	‘Человек догнал свою жену.’		
+76	20	+xaləv 	SBJ	DO	TR	TR	baxta +xliv-e-la tavəryay	woman(F) milk.PST-SS(O).3PL-LS.3F cow(F).PL	‘The woman milked the cows.’		женщина(F) доить.PST-SS(O).3PL-LS.3F корова(F).PL	‘Женщина подоила корову.’		
+76	21	+maṭə	SBJ	al	Y	SBJ_al	naša +məṭy=əl +al bərza	person(M) arrive.RES.M=3M on dry_land(M)	‘The man reached the bank.’		человек(M) достичь.RES.M=3M на суша(M)	‘Человек достиг берега.’		
+76	22	kayət	SBJ	bi	Y	SBJ_bi	yala kət-lə bi guyda	boy(M) knock.PST-LS.3M with wall(M)	‘The boy touched the wall.’		мальчик(M) стучать.PST-LS.3M с стена(M)	‘Мальчик дотронулся до стены.’		
+76	23	+ṗaləš	SBJ	men	Y	SBJ_men	+Ašur +ṗlaš=əl mən švav-u	PN fight.PROG=3M from neighbour(M)-P.3M	‘Ashur is fighting with his neighbor.’	Some speakers use preposition <i>am</i>.	Ашур драться.PROG=3M от сосед(M)-P.3M	‘Ашур дерется с соседом.’		
+76	24	avəd +xorvayta	SBJ	men	Y	SBJ_men	yala +xorvayta vad=əl mən švav-u	boy(M) friendship(F) do.PROG=3M from neighbour(M)-P.3M	‘The boy is friends with his neighbor.’	Some speakers use preposition <i>am</i>.	мальчик(M) дружба(F) делать.PROG=3M от сосед(M)-P.3M	‘Мальчик дружит со своим соседом.’		
+76	25	taxmən	SBJ	bar	Y	SBJ_bar	naša taxmun=əl +bar baxt-u	person(M) think.PROG=3M after woman(F)-P.3M	‘The man is thinking about his wife.’		человек(M) думать.PROG=3M за женщина(F)-P.3M	‘Человек думает о своей жене.’		
+76	26	+axəl	SBJ	DO	TR	TR	yala +xəl-lə xabuyša	boy(M) eat.PST-LS.3M apple(M)	‘The boy ate an apple.’		мальчик(M) есть.PST-LS.3M яблоко(M)	‘Мальчик съел яблоко.’		
+76	27	kalə 	SBJ	DO	TR	TR	sava kuli-lə nuyna	old.M fry(tr).PST-LS.3M fish(F)	‘The oldman fried the fish.’		старый.M жарить.PST-LS.3M рыба(F)	‘Старик пожарил рыбу.’		
+76	28	xaməl	SBJ	al	Y	SBJ_al	yala bəxmal=əl +al švav-u	boy(M) wait.PROG=3M on neighbour(M)-P.3M	‘The boy is waiting for his neighbor.’		мальчик(M) ждать.PROG=3M на сосед(M)-P.3M	‘‎Мальчик ждет соседа.’		
+76	29	manšə	SBJ	DO	TR	TR	yala munšiyy-o=l crita urxa	boy(M) forget.RES.M-P.3F=3M short.F way(F)	‘The boy forgot about the other road.’		мальчик(M) забыть.RES.M-P.3F=3M короткий.F дорога(F)	‘‎Мальчик забыл о короткой дороге.’		
 76	30	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	‎*	*		
-76	31	+karə	SBJ	DO	TR	TR	naša +kəry-a-l baxt-u	person(M) call.PST-SS.3F-LS.3M woman(F)-P.3M	‘The man called his wife.’		человек(M) звать.PST-SS.3F-LS.3M женщина(F)-P.3M	‎Человек позвал жену.		
-76	32	+yaṭṭə	SBJ	DO	TR	TR	+Ašur kam-+yahə-la baxt-u tre šənnə kam hadiyya	PN PRF-know.PRS-LS.3F woman(F)-P.3M two year(F).PL before now	‘Ashur got to know his wife two years ago.’	Non-Urmi speaker. <i>+yahə</i> is a dialect variant of the verb stem <i>+yaṭṭə</i>.	Ашур PRF-знать.PRS-LS.3F женщина(F)-P.3M два год(F).PL перед сейчас	Ашур познакомился со своей женой два года тому назад.		
-76	33	+yaṭṭə	SBJ	DO	TR	TR	+Ašur +bədday=əl švav-u	PN know.PROG=3M neighbour(M)-P.3M	‘Ashur knows his neighbor.’	Non-Urmi speaker.	Ашур знать.PROG=3M сосед(M)-P.3M	‎Ашур знает своего соседа.		
-76	34	+ṭavəl	SBJ	al	Y	SBJ_al	+Ašur ṭavul=ələ +al zurna	PN play.PROG=3M on zurna(?)	‘Ashur is playing the zurna.’	Non-Urmi speaker.	Ашур играть.PROG=3M на зурна(?)	‎Ашур играет на зурне.		
-76	35	+ṭašə gana	SBJ	men	Y	SBJ_men	+Ašur gan-u +ṭašuy-o=l mən švav-u	PN REFL(F)-P.3M hide(tr).PROG-P.3F=3M from neighbour(M)-P.3M	‘Ashur avoids his neighbor’ (lit. ‘hides himself from his neighbor’).		Ашур REFL(F)-P.3M прятать.PROG-P.3F=3M от сосед(M)-P.3M	Ашур избегает своего соседа (букв. ‘прячется от своего соседа’).		
-76	36	+tarəs	SBJ	DO	TR	TR	+Ašur +turəs-lə cursa	PN build.PST-LS.3M chair(M)	‘Ashur made a chair.’	Non-Urmi speaker.	Ашур строить.PST-LS.3M стул(M)	‎Ашур сделал стул.		
-76	37	gaxəc	SBJ	bi	Y	SBJ_bi	+Ašur gaxəc bi švav-u	PN laugh.PRS with neighbour(M)-P.3M	‘Ashur will make fun of his neighbor.’	Non-Urmi speaker. The actual form of the verb stem in the example is [ɟaxət], most likely a dialect realization of <i>gaxəc</i>.	Ашур смеяться.PRS с сосед(M)-P.3M	‎Ашур будет издеваться над соседом.		
-76	38	ət	OBJAGR	BARE	XY	OBJAGR_BARE	+Ašur ət-lə mašina	PN EXI-LS.3M car(F)	‘Ashur has a car.’		Ашур EXI-LS.3M машина(F)	‎У Ашура есть машина.		
-76	39	+ṭavvə	SBJ	bar	Y	SBJ_bar	baxta +ṭavvuy=la +bar kdilə	woman(F) seek.PROG=3F after key(M).PL	‘The woman is looking for her keys.’		женщина(F) искать.PROG=3F за ключ(M).PL	Женщина ищет ключи.		
-76	40	maxə rang	SBJ	DO	TR	TR	sava məxy-e-l rang guydanə	old.M beat.PST-SS(O).3PL-LS.3M color(M) wall(M).PL	‘The oldman painted the walls.’		старый.M ударить.PST-SS(O).3PL-LS.3M цвет(M) стена(M).PL	‎Старик покрасил стены.		
-76	41	+karəṭ 	SBJ	DO	TR	TR	brata calba +krəṭ-o=l	girl(F) dog(M) bite.PST-P.3F=3M	‘A dog bit the girl.’		девочка(F) собака(M) кусать.PST-P.3F=3M	‎Собака укусила девочку.		
-76	42	payəš	SBJ	la_b	Y	SBJ_lab	sava pəš-lə la b bet-u	old.M remain.PST-LS.3M NEG with house(M)-P.3M	‘The oldman lost his house.’		старый.M остаться.PST-LS.3M NEG с дом(M)-P.3M	‎Старик остался без дома.		
-76	43	davək	SBJ	DO	TR	TR	brata bədvak-o=la +kaṭu	girl(F) seize.PROG-P.3F=3F cat(F)	‘The girl is trying to catch the cat.’		девочка(F) схватить.PROG-P.3F=3F кот(F)	‎Девочка ловит кошку.		
-76	44	+šaməṭ	SBJ	DO	TR	TR	yala kesa +šməṭ-lə	boy(M) wood(M) break.PST-LS.3M	‘The boy broke a stick.’		мальчик(M) дерево(M) сломать(ся).PST-LS.3M	‎Мальчик сломал палку.		
-76	45	maxə məšxa	SBJ	ka	Y	SBJ_ka	yala mxay=ələ məšxa ka d-e brata	boy(M) beat.PROG=3M fat(M) to OBL-DEM4.F girl(F)	‘The boy is flattering this girl.’	Non-Urmi speaker.	мальчик(M) ударить.PROG=3M масло(M) к OBL-DEM4.F девочка(F)	‎Парень льстит этой девочке.		
-76	46	+bayyə	SBJ	DO	TR	TR	gavr-o +bəbah-o=lə baxt-u	man(M)-P.3F love.PROG-P.3F=3M woman(F)-P.3M	‘Husband loves his wife.’	Non-Urmi speaker. <i>+bəbah</i> is a dialect variant of the progressive stem (<i>+byay</i> in the Urmi dialect).	мужчина(M)-P.3F любить.PROG-P.3F=3M женщина(F)-P.3M	‎Муж любит свою жену.		
-76	47	+šayəš	SBJ	DO	TR	TR	brata +bəššaš-o=la +yaləxta ṗ id-o	girl(F) shake.PROG-P.3F=3F handkerchief(F) with hand(F)-P.3F	‘The girl is waving a handkerchief.’		девочка(F) трясти.PROG-P.3F=3F платок(F) с рука(F)-P.3F	‎Девочка машет платком.		
+76	31	+karə	SBJ	DO	TR	TR	naša +kəry-a-l baxt-u	person(M) call.PST-SS.3F-LS.3M woman(F)-P.3M	‘The man called his wife.’		человек(M) звать.PST-SS.3F-LS.3M женщина(F)-P.3M	‘‎Человек позвал жену.’		
+76	32	+yaṭṭə	SBJ	DO	TR	TR	+Ašur kam-+yahə-la baxt-u tre šənnə kam hadiyya	PN PRF-know.PRS-LS.3F woman(F)-P.3M two year(F).PL before now	‘Ashur got to know his wife two years ago.’	Non-Urmi speaker. <i>+yahə</i> is a dialect variant of the verb stem <i>+yaṭṭə</i>.	Ашур PRF-знать.PRS-LS.3F женщина(F)-P.3M два год(F).PL перед сейчас	‘Ашур познакомился со своей женой два года тому назад.’		
+76	33	+yaṭṭə	SBJ	DO	TR	TR	+Ašur +bədday=əl švav-u	PN know.PROG=3M neighbour(M)-P.3M	‘Ashur knows his neighbor.’	Non-Urmi speaker.	Ашур знать.PROG=3M сосед(M)-P.3M	‘‎Ашур знает своего соседа.’		
+76	34	+ṭavəl	SBJ	al	Y	SBJ_al	+Ašur ṭavul=ələ +al zurna	PN play.PROG=3M on zurna(?)	‘Ashur is playing the zurna.’	Non-Urmi speaker.	Ашур играть.PROG=3M на зурна(?)	‘‎Ашур играет на зурне.’		
+76	35	+ṭašə gana	SBJ	men	Y	SBJ_men	+Ašur gan-u +ṭašuy-o=l mən švav-u	PN REFL(F)-P.3M hide(tr).PROG-P.3F=3M from neighbour(M)-P.3M	‘Ashur avoids his neighbor’ (lit. ‘hides himself from his neighbor’).		Ашур REFL(F)-P.3M прятать.PROG-P.3F=3M от сосед(M)-P.3M	‘Ашур избегает своего соседа’ (букв. ‘прячется от своего соседа’).		
+76	36	+tarəs	SBJ	DO	TR	TR	+Ašur +turəs-lə cursa	PN build.PST-LS.3M chair(M)	‘Ashur made a chair.’	Non-Urmi speaker.	Ашур строить.PST-LS.3M стул(M)	‘‎Ашур сделал стул.’		
+76	37	gaxəc	SBJ	bi	Y	SBJ_bi	+Ašur gaxəc bi švav-u	PN laugh.PRS with neighbour(M)-P.3M	‘Ashur will make fun of his neighbor.’	Non-Urmi speaker. The actual form of the verb stem in the example is [ɟaxət], most likely a dialect realization of <i>gaxəc</i>.	Ашур смеяться.PRS с сосед(M)-P.3M	‘‎Ашур будет издеваться над соседом.’		
+76	38	ət	OBJAGR	BARE	XY	OBJAGR_BARE	+Ašur ət-lə mašina	PN EXI-LS.3M car(F)	‘Ashur has a car.’		Ашур EXI-LS.3M машина(F)	‘‎У Ашура есть машина.’		
+76	39	+ṭavvə	SBJ	bar	Y	SBJ_bar	baxta +ṭavvuy=la +bar kdilə	woman(F) seek.PROG=3F after key(M).PL	‘The woman is looking for her keys.’		женщина(F) искать.PROG=3F за ключ(M).PL	‘Женщина ищет ключи.’		
+76	40	maxə rang	SBJ	DO	TR	TR	sava məxy-e-l rang guydanə	old.M beat.PST-SS(O).3PL-LS.3M color(M) wall(M).PL	‘The oldman painted the walls.’		старый.M ударить.PST-SS(O).3PL-LS.3M цвет(M) стена(M).PL	‘‎Старик покрасил стены.’		
+76	41	+karəṭ 	SBJ	DO	TR	TR	brata calba +krəṭ-o=l	girl(F) dog(M) bite.PST-P.3F=3M	‘A dog bit the girl.’		девочка(F) собака(M) кусать.PST-P.3F=3M	‘‎Собака укусила девочку.’		
+76	42	payəš	SBJ	la_b	Y	SBJ_lab	sava pəš-lə la b bet-u	old.M remain.PST-LS.3M NEG with house(M)-P.3M	‘The oldman lost his house.’		старый.M остаться.PST-LS.3M NEG с дом(M)-P.3M	‘‎Старик остался без дома.’		
+76	43	davək	SBJ	DO	TR	TR	brata bədvak-o=la +kaṭu	girl(F) seize.PROG-P.3F=3F cat(F)	‘The girl is trying to catch the cat.’		девочка(F) схватить.PROG-P.3F=3F кот(F)	‘‎Девочка ловит кошку.’		
+76	44	+šaməṭ	SBJ	DO	TR	TR	yala kesa +šməṭ-lə	boy(M) wood(M) break.PST-LS.3M	‘The boy broke a stick.’		мальчик(M) дерево(M) сломать(ся).PST-LS.3M	‘‎Мальчик сломал палку.’		
+76	45	maxə məšxa	SBJ	ka	Y	SBJ_ka	yala mxay=ələ məšxa ka d-e brata	boy(M) beat.PROG=3M fat(M) to OBL-DEM4.F girl(F)	‘The boy is flattering this girl.’	Non-Urmi speaker.	мальчик(M) ударить.PROG=3M масло(M) к OBL-DEM4.F девочка(F)	‘‎Парень льстит этой девочке.’		
+76	46	+bayyə	SBJ	DO	TR	TR	gavr-o +bəbah-o=lə baxt-u	man(M)-P.3F love.PROG-P.3F=3M woman(F)-P.3M	‘Husband loves his wife.’	Non-Urmi speaker. <i>+bəbah</i> is a dialect variant of the progressive stem (<i>+byay</i> in the Urmi dialect).	мужчина(M)-P.3F любить.PROG-P.3F=3M женщина(F)-P.3M	‘‎Муж любит свою жену.’		
+76	47	+šayəš	SBJ	DO	TR	TR	brata +bəššaš-o=la +yaləxta ṗ id-o	girl(F) shake.PROG-P.3F=3F handkerchief(F) with hand(F)-P.3F	‘The girl is waving a handkerchief.’		девочка(F) трясти.PROG-P.3F=3F платок(F) с рука(F)-P.3F	‘‎Девочка машет платком.’		
 76	48	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	‎*	*		
-76	49	+xalləl	SBJ	DO	TR	TR	baxta +xulləl-la +stican	woman(F) wash.PST-LS.3F glass(M)	‘The woman washed the glass.’		женщина(F) мыть.PST-LS.3F стакан(M)	‎Женщина вымыла стакан.		
-76	50	lavəš	SBJ	DO	TR	TR	yala lvəš-lə +šalvar	boy(M) put_on.PST-LS.3M trousers(M)	‘The boy put on his trousers.’		мальчик(M) надеть.PST-LS.3M штаны(M)	‎Мальчик надел штаны.		
-76	51	avə šəmma	BARE	BARE	XY	BARE_BARE	+avva məndi šəmm-u kompas=əl	DEM2.M thing(M) name(M)-P.3M compass(?)=3M	‘This thing is called a compass.’	Non-Urmi speaker. Non-verbal predicate, <i>avə</i> is 'to be'.	DEM2.M вещь(M) имя(M)-P.3M компас(?)=3M	‎Этот предмет называется компас.		
-76	52	+savər	SBJ	ka	Y	SBJ_ka	baxta +suvər-ra ka brat-o	woman(F) swear.PST-LS.3F to girl(F)-P.3F	‘The woman punished her daughter.’	Non-Urmi speaker.	женщина(F) ругать.PST-LS.3F к девочка(F)-P.3F	‎Женщина наказала свою дочь.		
-76	53	napəl	SBJ	al	Y	SBJ_al	dəbba pəl-la +al d-o naša	bear(F) fall.PST-LS.3F on OBL-DEM4.M person(M)	‘A bear attacked a man.’	Non-Urmi speaker.	медведь(F) падать.PST-LS.3F на OBL-DEM4.M человек(M)	‎Медведь напал на человека.		
-76	54	malə	SBJ	DO	TR	TR	vadra mli-lə miyya	bucket(M) fill.PST-LS.3M water(PL)	‘The bucket filled with water.’		ведро(M) наполнить(ся).PST-LS.3M вода(PL)	‎Ведро наполнилось водой.		
-76	55	mačəx 	SBJ	DO	TR	TR	yala mučx-e-lə kdilə	boy(M) find.PST-SS(O).3PL-LS.3M key(M).PL	‘The boy found the keys.’		мальчик(M) найти.PST-SS(O).3PL-LS.3M ключ(M).PL	‎Мальчик нашел ключи.		
-76	56	NEG + xazə	ka	SBJ	X	ka_SBJ	ka +Ašur la xzi-lun zuyzə (zavən bilet)	to PN NEG see.PST-LS.3PL money(PL) buy.PRS ticket(?)	‘Ashur lacks the money to buy a ticket.’		к Ашур NEG видеть.PST-LS.3PL деньги(PL) купить.PRS билет(?)	Ашуру не хватает денег, чтобы купить билет.		
-76	57	ləbba ṗakkə	BARE	men	XY	BARE_men	ət +Ašur ləbb-u ṗkay=əl mən švav-u	REL PN heart(M)-P.3M split(intr).PROG=3M from neighbour(M)-P.3M	‘Ashur hates his neighbor.’		REL Ашур сердце(M)-P.3M раскалываться.PROG=3M от сосед(M)-P.3M	Ашур ненавидит своего соседа.		
-76	58	xoš atə	BARE	men	XY	BARE_men	+Ašur xoš-u bitay=əla mən d-a +sudra	PN happiness(F)-P.3M come.PROG=3F from OBL-DEM1.SG shirt(F)	‘Ashur likes this shirt.’		Ашур счастье(F)-P.3M прийти.PROG=3F от OBL-DEM1.SG рубашка(F)	Ашуру нравится эта рубашка.		
-76	59	+lazəm	ka	SBJ	X	ka_SBJ	ka ayya baxta +lazəm=ən zuzə	to DEM2.F woman(F) necessary=3PL money(PL)	‘This woman needs money.’	Non-Urmi speaker. Non-verbal predicate.	к DEM2.F женщина(F) необходимый=3PL деньги(PL)	‎Этой женщине нужны деньги.		
+76	49	+xalləl	SBJ	DO	TR	TR	baxta +xulləl-la +stican	woman(F) wash.PST-LS.3F glass(M)	‘The woman washed the glass.’		женщина(F) мыть.PST-LS.3F стакан(M)	‘‎Женщина вымыла стакан.’		
+76	50	lavəš	SBJ	DO	TR	TR	yala lvəš-lə +šalvar	boy(M) put_on.PST-LS.3M trousers(M)	‘The boy put on his trousers.’		мальчик(M) надеть.PST-LS.3M штаны(M)	‘‎Мальчик надел штаны.’		
+76	51	avə šəmma	BARE	BARE	XY	BARE_BARE	+avva məndi šəmm-u kompas=əl	DEM2.M thing(M) name(M)-P.3M compass(?)=3M	‘This thing is called a compass.’	Non-Urmi speaker. Non-verbal predicate, <i>avə</i> is 'to be'.	DEM2.M вещь(M) имя(M)-P.3M компас(?)=3M	‘‎Этот предмет называется компас.’		
+76	52	+savər	SBJ	ka	Y	SBJ_ka	baxta +suvər-ra ka brat-o	woman(F) swear.PST-LS.3F to girl(F)-P.3F	‘The woman punished her daughter.’	Non-Urmi speaker. Arguably, the translation is not very accurate. <i>+taləm</i> 'to punish' seems to belong to the same class.	женщина(F) ругать.PST-LS.3F к девочка(F)-P.3F	‘‎Женщина наказала свою дочь.’		
+76	53	napəl	SBJ	al	Y	SBJ_al	dəbba pəl-la +al d-o naša	bear(F) fall.PST-LS.3F on OBL-DEM4.M person(M)	‘A bear attacked a man.’	Non-Urmi speaker.	медведь(F) падать.PST-LS.3F на OBL-DEM4.M человек(M)	‘‎Медведь напал на человека.’		
+76	54	malə	SBJ	DO	TR	TR	vadra mli-lə miyya	bucket(M) fill.PST-LS.3M water(PL)	‘The bucket filled with water.’		ведро(M) наполнить(ся).PST-LS.3M вода(PL)	‘‎Ведро наполнилось водой.’		
+76	55	mačəx 	SBJ	DO	TR	TR	yala mučx-e-lə kdilə	boy(M) find.PST-SS(O).3PL-LS.3M key(M).PL	‘The boy found the keys.’		мальчик(M) найти.PST-SS(O).3PL-LS.3M ключ(M).PL	‘‎Мальчик нашел ключи.’		
+76	56	NEG + xazə	ka	SBJ	X	ka_SBJ	ka +Ašur la xzi-lun zuyzə (zavən bilet)	to PN NEG see.PST-LS.3PL money(PL) buy.PRS ticket(?)	‘Ashur lacks the money to buy a ticket.’		к Ашур NEG видеть.PST-LS.3PL деньги(PL) купить.PRS билет(?)	‘Ашуру не хватает денег, чтобы купить билет.’		
+76	57	ləbba ṗakkə	BARE	men	XY	BARE_men	ət +Ašur ləbb-u ṗkay=əl mən švav-u	REL PN heart(M)-P.3M split(intr).PROG=3M from neighbour(M)-P.3M	‘Ashur hates his neighbor.’		REL Ашур сердце(M)-P.3M раскалываться.PROG=3M от сосед(M)-P.3M	‘Ашур ненавидит своего соседа.’		
+76	58	xoš atə	BARE	men	XY	BARE_men	+Ašur xoš-u bitay=əla mən d-a +sudra	PN happiness(F)-P.3M come.PROG=3F from OBL-DEM1.SG shirt(F)	‘Ashur likes this shirt.’		Ашур счастье(F)-P.3M прийти.PROG=3F от OBL-DEM1.SG рубашка(F)	‘Ашуру нравится эта рубашка.’		
+76	59	+lazəm	ka	SBJ	X	ka_SBJ	ka ayya baxta +lazəm=ən zuzə	to DEM2.F woman(F) necessary=3PL money(PL)	‘This woman needs money.’	Non-Urmi speaker. Non-verbal predicate.	к DEM2.F женщина(F) необходимый=3PL деньги(PL)	‘‎Этой женщине нужны деньги.’		
 76	60	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
-76	61	payəš	ces	SBJ	X	ces_SBJ	cəs yala sura pəš-lə əmma +manət zuzə	near boy(M) small.M remain.PST-LS.3M hundred rouble(M) money(PL)	‘The boy has one hundred roubles left.’	Non-Urmi speaker.	у мальчик(M) маленький.M остаться.PST-LS.3M сто рубль(M) деньги(PL)	У мальчика осталось 100 рублей.		
-76	62	yavvəl +ǧuvvab	SBJ	ka	Y	SBJ_ka	yala yuvvəl-lə +ǧuvvab ka +rabi	boy(M) give.PST-LS.3M answer(M) to teacher(M)	‘The boy answered the teacher.’		мальчик(M) дать.PST-LS.3M ответ(M) к учитель(M)	Мальчик ответил учителю.		
-76	63	patəx	SBJ	DO	TR	TR	brata ptəx-la banka	girl(F) open.PST-LS.3F can(?)	‘The girl opened a can.’		девочка(F) открыть.PST-LS.3F банка(?)	‎Девочка открыла банку.		
-76	64	parəš	SBJ	men	Y	SBJ_men	+sudra di praš=əla mən d-e diyy-ux	shirt(F) OBL.PRON.1SG separate.PROG=3F from OBL-DEM4.F OBL.PRON-P.2M	‘My shirt is different from yours.’		рубашка(F) OBL.PRON.1SG разделить(ся).PROG=3F от OBL-DEM4.F OBL.PRON-P.2M	Моя рубашка отличается от твоей.		
-76	65	payəš +baray	SBJ	men	Y	SBJ_men	urza pəš-lə +baray mən baxta	man(M) remain.PST-LS.3M behind from woman(F)	‘The man fell behind the woman.’		мужчина(M) остаться.PST-LS.3M сзади от женщина(F)	‎Мужчина отстал от женщины.		
-76	66	+ṭarə	SBJ	DO	TR	TR	sava +bəṭray-o=l +mazra	old.M plough.PROG-P.3F=3M field(F)	‘The oldman is ploughing the field.’		старый.M пахать.PROG-P.3F=3M поле(F)	‎Старик пашет поле.		
-76	67	rexa atə	*	*	*		mən id-i rex=ət +nuyṭa bitay=əl	from hand(F)-P.1SG smell(M)=REL oil(M) come.PROG=3M	‘My hands smell of gasoline.’	Not included in the database because Y is expressed as an NP-internal modifier.	от рука(F)-P.1SG запах(M)=REL нефть(M) прийти.PROG=3M	‎Мои руки пахнут бензином.		
-76	68	+avər	SBJ	DO	TR	TR	sava urxa +vər-a-l	old.M way(F) enter.PST-SS.3F-LS.3M	‘The oldman crossed the road.’	Non-Urmi speaker.	старый.M дорога(F) войти.PST-SS.3F-LS.3M	‎Старик пересек дорогу.		
-76	69	zamər 	SBJ	DO	TR	TR	xa yala zmər-rə d-a zmarta	one boy(M) sing.PST-LS.3M OBL-DEM1.SG song(F)	‘The boy sang this song.’	Non-Urmi speaker.	один мальчик(M) петь.PST-LS.3M OBL-DEM1.SG песня(F)	‎Мальчик спел эту песню.		
-76	70	catəv	SBJ	DO	TR	TR	xa yala ctəv-lə xa ctava ka +xavr-u	one boy(M) write.PST-LS.3M one book(M) to friend(M)-P.3M	‘The boy wrote a letter.’	Non-Urmi speaker.	один мальчик(M) писать.PST-LS.3M один книга(M) к друг(M)-P.3M	Мальчик написал письмо.		
-76	71	šatə 	SBJ	DO	TR	TR	brata šti-la +xalva	girl(F) drink.PST-LS.3F milk(M)	‘The girl drank the milk.’		девочка(F) пить.PST-LS.3F молоко(M)	‎Девочка выпила молоко.		
-76	72	mapšər	SBJ	DO	TR	TR	yala mupšər-rə prəzla	boy(M) melt(tr).PST-LS.3M iron(M)	‘The boy melted the iron.’		мальчик(M) плавить.PST-LS.3M железо(M)	‎Мальчик расплавил железо.		
-76	73	laxəm	SBJ	ka	Y	SBJ_ka	a camar bəlxam=əl ka +oym-i	DEM1.SG waist(M) suit.PROG=3M to dress(F)-P.1SG	‘This belt matches my dress.’		DEM1.SG пояс(M) подходить.PROG=3M к платье(F)-P.1SG	‎Этот пояс подходит к моему платью.		
-76	74	azəl	SBJ	men	Y	SBJ_men	+Ašur xəš-lə mən mat=ət gan-u	PN go.PST-LS.3M from village(F)=REL REFL(F)-P.3M	‘Ashur left his native village.’		Ашур идти.PST-LS.3M от деревня(F)=REL REFL(F)-P.3M	‎Ашур покинул родную деревню.		
-76	75	maccəs	SBJ	ka	Y	SBJ_ka	+xali muccəs-la ka cullə +ustol	carpet(F) cover.PST-LS.3F to all table(M)	‘The carpet covers the whole table.’	Non-Urmi speaker.	ковер(F) покрывать.PST-LS.3F к все стол(M)	‎Ковер покрывает весь стол.		
-76	76	taxər	SBJ	DO	TR	TR	sava +spay bətxar=ələ bet=ət gan-u	old.M good remember.PROG=3M house(M)=REL REFL(F)-P.3M	‘The oldman remembers his house well.’	Non-Urmi speaker.	старый.M хороший помнить.PROG=3M дом(M)=REL REFL(F)-P.3M	Старик хорошо помнит свой дом.		
-76	77	avəd comac	SBJ	ka	Y	SBJ_ka	+Ašur comac vəd-lə ka +xor-u	PN help(F) do.PST-LS.3M to friend(M)-P.3M	‘Ashur helped his friend.’		Ашур помощь(F) делать.PST-LS.3M к друг(M)-P.3M	‎Ашур помог другу.		
-76	78	+ṗarmə	SBJ	DO	TR	TR	brun-i +ṗarmuy=əl lišana=ət suray	son(M)-P.1SG understand.PROG=3M language(M)=REL Assyrian.PL	‘My son understands the Assyrian language.’		сын(M)-P.1SG понимать.PROG=3M язык(M)=REL ассириец.PL	‎Мой сын понимает ассирийский язык		
-76	79	maxə 	SBJ	gu	Y	SBJ_gu	bərka mxi-l gu beta	lightning(M) beat.PST-LS.3M in house(M)	‘Lightning hit the house.’	Non-Urmi speaker.	молния(M) ударить.PST-LS.3M в дом(M)	‎Молния попала в дом.		
-76	80	parəm gana	SBJ	bi	Y	SBJ_bi	yala gan-u prim-a-l bi +magreta	boy(M) REFL(F)-P.3M cut.PST-SS.3F-LS.3M with razor(F)	‘The boy cut himself with a razor.’		мальчик(M) REFL(F)-P.3M резать.PST-SS.3F-LS.3M с бритва(F)	‎Мальчик порезался бритвой.		
-76	81	+šayyə 	SBJ	al	Y	SBJ_al	stacan +šiyy=əl +al +ustol	glass(M) stick.RES.M=3M on table(M)	‘The glass got stuck to the table.’		стакан(M) прилипнуть.RES.M=3M на стол(M)	‎Стакан прилип к столу.		
-76	82	+makrəm 	SBJ	ka	Y	SBJ_ka	+Ašur +mukrəm-lə ka axun-u	PN lose.PST-LS.3M to brother(M)-P.3M	‘Ashur lost to his brother.’		Ашур проиграть.PST-LS.3M к брат(M)-P.3M	‎Ашур проиграл брату.		
-76	83	xadə 	SBJ	bi	Y	SBJ_bi	brata xdi-la bi ctava	girl(F) rejoice.PST-LS.3F with letter(M)	‘The girl was glad about the letter.’		девочка(F) радоваться.PST-LS.3F с письмо(M)	‎The girl was glad about the letter.		
-76	84	hamzəm	SBJ	men	Y	SBJ_men	+avvo sava hamzum=əl mən brat-u	DEM3.M old.M speak.PROG=3M from girl(F)-P.3M	‘This oldman is speaking with a girl.’	Some speakers use preposition <i>am</i>.	DEM3.M старый.M говорить.PROG=3M от девочка(F)-P.3M	‎Этот старик разговаривает с девочкой.		
-76	85	barə	SBJ	DO	TR	TR	xat-i bri-la bruna	sister(F)-P.1SG create.PST-LS.3F son(M)	‘My sister gave birth to a son.’	Non-Urmi speaker.	сестра(F)-P.1SG создавать.PST-LS.3F сын(M)	‎Моя сестра родила сына.		
-76	86	manpəl 	SBJ	DO	TR	TR	baxt-u munpəl-la stacan	woman(F)-P.3M drop.PST-LS.3F glass(M)	‘The woman dropped the glass.’		женщина(F)-P.3M ронять.PST-LS.3F стакан(M)	‎Женщина уронила стакан.		
-76	87	avə +gura	SBJ	BARE	Y	SBJ_BARE	+avvo naša +gur=ət mat=əl	DEM3.M person(M) big=REL village(F)=3M	‘This man runs our village.’	Non-Urmi speaker. Non-verbal predicate, <i>avə</i> is 'to be'.	DEM3.M человек(M) большой=REL деревня(F)=3M	‎Этот человек руководит деревней.		
-76	88	maxnə 	SBJ	bar	Y	SBJ_bar	urza maxnuy=əl +bar baxt-u	man(M) miss.PROG=3M after woman(F)-P.3M	‘This man misses his wife.’		мужчина(M) скучать.PROG=3M за женщина(F)-P.3M	‎Мужчина скучает по своей жене.		
-76	89	azəl	SBJ	bar	Y	SBJ_bar	ayya baxta bəšš=əla +bar +gor-o	DEM2.F woman(F) go.PROG=3F after man(M)-P.3F	‘This woman follows her husband.’		DEM2.F женщина(F) идти.PROG=3F за мужчина(M)-P.3F	‎Эта женщина идет за своим мужем.		
-76	90	+salə 	SBJ	men	Y	SBJ_men	+avvo naša +sli-lə mən suysa	DEM3.M person(M) descend.PST-LS.3M from horse(M)	‘This man got down from the horse.’		DEM3.M человек(M) спускаться.PST-LS.3M от лошадь(M)	‎Этот человек слез с лошади.		
-76	91	+šammə	SBJ	DO	TR	TR	brat-i +bəšmay=əla praskala	girl(F)-P.1SG hear.PROG=3F radio(?)	‘My daughter is listening to radio.’		девочка(F)-P.1SG слышать.PROG=3F радио(?)	‎Моя дочка слушает радио.		
-76	92	+šammə 	SBJ	ka	Y	SBJ_ka	yala +bəšmay=əl ka +rabit-u	boy(M) hear.PROG=3M to teacher(F)-P.3M	‘This boy obeys his mother.’		мальчик(M) слышать.PROG=3M к учительница(F)-P.3M	‎Этот мальчик слушается учительницу.		
-76	93	+šammə 	SBJ	DO	TR	TR	+xor-i +bəšmay=əl zmarta	friend(M)-P.1SG hear.PROG=3M song(F)	‘My friend hears the song.’		друг(M)-P.1SG слышать.PROG=3M песня(F)	‎Мой друг слышит песню.		
-76	94	+xavəṭ	SBJ	bi	Y	SBJ_bi	duyša +xvəṭ-lə bi +xalva	honey(M) mix.PST-LS.3M with milk(M)	‘The honey got mixed with the milk.’	Some speakers use preposition <i>am</i>.	мед(M) смешивать(ся).PST-LS.3M с молоко(M)	‎Мед смешался с молоком.		
-76	95	gašək	SBJ	al	Y	SBJ_al	yala gašuk=əl +al +ayvə cumə	boy(M) observe.PROG=3M on cloud(F).PL black.PL	‘The boy is looking at the clouds.’		мальчик(M) наблюдать.PROG=3M на облако(F).PL черный.PL	‎Мальчик смотрит на черные тучи.		
-76	96	šaləx	SBJ	DO	TR	TR	brata kam-šalx-a-la +oym-o	girl(F) PRF-undress.PRS-SS.3F-LS.3F dress(F)-P.3F	‘The girl took off her dress.’	Non-Urmi speaker.	девочка(F) PRF-раздеться.PRS-SS.3F-LS.3F платье(F)-P.3F	‎Девочка сняла платье.		
-76	97	xazə bi xulma	SBJ	DO	TR	TR	+avvo yala bi xulm-u xəzy-a-l baxt-u	DEM3.M boy(M) with dream(M)-P.3M see.PST-SS.3F-LS.3M woman(F)-P.3M	‘This guy dreams about his wife.’		DEM3.M мальчик(M) с сон(M)-P.3M видеть.PST-SS.3F-LS.3M женщина(F)-P.3M	Этому парню снится его жена.		
-76	98	avə +razi	SBJ	men	Y	SBJ_men	+gor-o +razi vi-lə mən baxta	man(M)-P.3F willing be.PST-LS.3M from woman(F)	‘Lit. ‘Her husband agreed with the woman.’’	Non-verbal predicate, <i>avə</i> is 'to be'. Some speakers use preposition <i>am</i>.	мужчина(M)-P.3F согласный быть.PST-LS.3M от женщина(F)	‎Муж согласился с женой.		
-76	99	+makrəs	SBJ	men	Y	SBJ_men	naša +mukrəss=əl mən baxt-u	person(M) quarrel.RES.M=3M from woman(F)-P.3M	‘This man had a quarrel with his wife.’	Some speakers use preposition <i>am</i>.	человек(M) ссориться.RES.M=3M от женщина(F)-P.3M	‎Этот человек поссорился с женой.		
-76	100	+dakər	SBJ	DO	TR	TR	+sudra +dakr-a əmma +manət	shirt(F) cost.PRS-SS.3F hundred rouble(M)	‘This shirt costs one hundred roubles.’		рубашка(F) стоить.PRS-SS.3F сто рубль(M)	‎Эта рубашка стоит сто рублей.		
-76	101	čarət 	SBJ	gu	Y	SBJ_gu	sava črət-lə gu səprita	old.M fire.PST-LS.3M in birdie(F)	‘The oldman shot at the bird.’		старый.M стрелять.PST-LS.3M в птичка(F)	‎Старик выстрелил в птицу.		
-76	102	darə	SBJ	DO	TR	TR	baxta dri-la šacar gu mana	woman(F) pour.PST-LS.3F sugar(M) in vessel(M)	‘The woman poured the sugar into the cup.’	Non-Urmi speaker.	женщина(F) лить.PST-LS.3F сахар(M) в миска(M)	‎Женщина насыпала сахар в чашку.		
-76	103	talək	SBJ	DO	TR	TR	brata kdilə tulk-e-la	girl(F) key(M).PL lose.PST-SS(O).3PL-LS.3F	‘The girl lost her keys.’		девочка(F) ключ(M).PL потерять.PST-SS(O).3PL-LS.3F	‎Девочка потеряла ключи.		
-76	104	+ṭabbə 	SBJ	gu	Y	SBJ_gu	kesa +ṭbi-l gu miyya	wood(M) sink.PST-LS.3M in water(PL)	‘The log sank in water.’		дерево(M) тонуть.PST-LS.3M в вода(PL)	Полено утонуло в воде.		
-76	105	+kaṭəl	SBJ	DO	TR	TR	švava švot-u +kṭil-a-l	neighbour(M) neighbour(F)-P.3M kill.PST-SS.3F-LS.3M	‘The neighbor (he) killed his neighbor (her).’		сосед(M) соседка(F)-P.3M убить.PST-SS.3F-LS.3M	Сосед убил соседку.		
-76	106	maxə	SBJ	DO	TR	TR	baxta məxy-a-la švot-o	woman(F) beat.PST-SS.3F-LS.3F neighbour(F)-P.3F	‘The woman hit her neighbor.’		женщина(F) ударить.PST-SS.3F-LS.3F соседка(F)-P.3F	‎Женщина ударила соседку.		
-76	107	našək	SBJ	DO	TR	TR	yala nšik-a-l brata	boy(M) kiss-SS.3F-LS.3M girl(F)	‘The boy kissed the girl.’		мальчик(M) целовать-SS.3F-LS.3M девочка(F)	‎Парень поцеловал девушку.		
-76	108	+karə	SBJ	DO	TR	TR	brata +kri-la +spay ctava	girl(F) read.PST-LS.3F good book(M)	‘The girl read a good book.’		девочка(F) читать.PST-LS.3F хороший книга(M)	‎Девочка прочитала хорошую книгу.		
-76	109	maǧvəǧ	SBJ	DO	TR	TR	brata muǧviǧ-é-la +suṗṗat-o	girl(F) move(tr).PST-SS(O).3PL-LS.3F finger(F).PL-P.3F	‘The girl moved her finger.’		девочка(F) двигать.PST-SS(O).3PL-LS.3F палец(F).PL-P.3F	‎Девочка пошевелила пальцами.		
-76	110	maɣɣəb 	SBJ	DO	TR	TR	+Ašur maɣɣub-u=l švav-u	PN like.PROG-P.3M=3M neighbour(M)-P.3M	‘Ashur respects his neighbor.’		Ашур любить.PROG-P.3M=3M сосед(M)-P.3M	‎Ашур уважает своего соседа.		
-76	111	gangəz	SBJ	men	Y	SBJ_men	xat-i di ganguz=əla mən šəxtanə manə čamčə	sister(F)-P.1SG OBL.PRON.1SG loathe.PROG=3F from dirty.PL vessel(M).PL spoon(M).PL	‘My sister is squeamish about dirty dishes.’		сестра(F)-P.1SG OBL.PRON.1SG брезговать.PROG=3F от грязный.PL миска(M).PL ложка(M).PL	Моя сестра брезгует грязной посудой.		
-76	112	avə +razi	SBJ	bi	Y	SBJ_bi	+Ašur +razi=lə bi brun-u	PN willing=3M with son(M)-P.3M	‘Ashur is content with his son.’	Non-verbal predicate, <i>avə</i> is 'to be'.	Ашур согласный=3M с сын(M)-P.3M	‎Ашур доволен своим сыном.		
-76	113	xoš atə	BARE	men	XY	BARE_men	+Ašur xoš-u bitay=əla mən švot-u	PN happiness(F)-P.3M come.PROG=3F from neighbour(F)-P.3M	‘Ashur fell in love with his neighbor.’		Ашур счастье(F)-P.3M прийти.PROG=3F от соседка(F)-P.3M	‎Ашур влюбился в соседку.		
-76	114	avə +ərxay	SBJ	bi	Y	SBJ_bi	+avvo naša +ərxay=ələ bi baxt-u	DEM3.M person(M) secure=3M with woman(F)-P.3M	‘This man trusts his wife.’	Non-verbal predicate, <i>avə</i> is 'to be'. <i>+ərxay</i> is a dialect realization of <i>+arxayən</i>.	DEM3.M человек(M) надежный=3M с женщина(F)-P.3M	‎Этот человек доверяет своей жене.		
-76	115	+xṭita atə	BARE	BARE	XY	BARE_BARE	aha naša +xṭit=ət yəmm-u bitay=əla	DEM1.SG person(M) sin(F)=REL mother(F)-P.3M come.PROG=3F	‘This man sympathizes with his mother.’		DEM1.SG человек(M) грех(F)=REL мать(F)-P.3M прийти.PROG=3F	‎Этот человек жалеет свою мать.		
-76	116	baxxəl 	SBJ	bi	Y	SBJ_bi	+Ašur baxxul=əl bi švav-u	PN envy.PROG=3M with neighbour(M)-P.3M	‘Ashur envies his neighbor.’		Ашур завидовать.PROG=3M с сосед(M)-P.3M	‎Ашур завидует своему соседу.		
-76	117	carəb 	SBJ	al	Y	SBJ_al	+Ašur bəcrab=əl +al baxt-u	PN be_angry.PROG=3M on woman(F)-P.3M	‘Ashur is angry with his wife.’		Ашур сердиться.PROG=3M на женщина(F)-P.3M	‎Ашур злится на свою жену.		
-76	118	+aǧǧəb	SBJ	bi	Y	SBJ_bi	ana +uǧǧəb-li b d-a pəštəš	I be_surprised.PST-LS.1SG with OBL-DEM1.SG gift(F)	‘I was surprised at this gift.’	<i>pəštaš</i> is a dialect realization of <i>pašcaš</i> or <i>pəšcaš</i>.	я удивляться.PST-LS.1SG с OBL-DEM1.SG подарок(F)	‎Я удивился этому подарку.		
-76	119	xoš atə	BARE	men	XY	BARE_men	ayyé baxta xoš-o bitay=əla mən +čay	DEM3.F woman(F) happiness(F)-P.3F come.PROG=3F from tea(M)	‘This woman loves tea.’		DEM3.F женщина(F) счастье(F)-P.3F прийти.PROG=3F от чай(M)	Эта женщина любит чай.		
-76	120	avəd ceyp	SBJ	bi	Y	SBJ_bi	yala vad=ələ ceyp-u bi +čay	boy(M) do.PROG=3M pleasure(F)-P.3M with tea(M)	‘The boy enjoys tea.’	Non-Urmi speaker. <i>ceyp</i> is a dialect realization of <i>cep</i>.	мальчик(M) делать.PROG=3M удовольствие(F)-P.3M с чай(M)	‎Парень наслаждается чаем.		
-76	121	+bayyə	SBJ	DO	TR	TR	brata +byay=əla taza telefon	girl(F) want.PROG=3F new phone(?)	‘The girl wants a new phone.’		девочка(F) хотеть.PROG=3F новый телефон(?)	‎Девочка хочет новый телефон.		
-76	122	carəb 	SBJ	al	Y	SBJ_al	+Ašur bəcrab=əl +al baxt-u	PN be_angry.PROG=3M on woman(F)-P.3M	‘Ashur has a grudge against his wife.’		Ашур сердиться.PROG=3M на женщина(F)-P.3M	‎Ашур сердится на свою жену.		
-76	123	ceyp payəš	BARE	men	XY	BARE_men	axun-i ceyp-u pəšta=əla mən baxt-u	brother(M)-P.1SG pleasure(F)-P.3M remain.RES.F=3F from woman(F)-P.3M	‘My brother got cross with his wife.’	<i>ceyp</i> is a dialect realization of <i>cep</i>.	брат(M)-P.1SG удовольствие(F)-P.3M остаться.RES.F=3F от женщина(F)-P.3M	Мой брат обиделся на свою жену.		
-76	124	mapyəš ləbba	SBJ	BARE	Y	SBJ_BARE	a naša +raba ləbb=ət baxt-u muppəš-lə	DEM1.SG person(M) many heart(M)=REL woman(F)-P.3M leave.PST-LS.3M	‘This man greatly upset his wife.’		DEM1.SG человек(M) много сердце(M)=REL женщина(F)-P.3M оставлять.PST-LS.3M	Этот человек очень огорчил свою жену.		
+76	61	payəš	ces	SBJ	X	ces_SBJ	cəs yala sura pəš-lə əmma +manət zuzə	near boy(M) small.M remain.PST-LS.3M hundred rouble(M) money(PL)	‘The boy has one hundred roubles left.’	Non-Urmi speaker.	у мальчик(M) маленький.M остаться.PST-LS.3M сто рубль(M) деньги(PL)	‘У мальчика осталось 100 рублей.’		
+76	62	yavvəl +ǧuvvab	SBJ	ka	Y	SBJ_ka	yala yuvvəl-lə +ǧuvvab ka +rabi	boy(M) give.PST-LS.3M answer(M) to teacher(M)	‘The boy answered the teacher.’		мальчик(M) дать.PST-LS.3M ответ(M) к учитель(M)	‘Мальчик ответил учителю.’		
+76	63	patəx	SBJ	DO	TR	TR	brata ptəx-la banka	girl(F) open.PST-LS.3F can(?)	‘The girl opened a can.’		девочка(F) открыть.PST-LS.3F банка(?)	‘‎Девочка открыла банку.’		
+76	64	parəš	SBJ	men	Y	SBJ_men	+sudra di praš=əla mən d-e diyy-ux	shirt(F) OBL.PRON.1SG separate.PROG=3F from OBL-DEM4.F OBL.PRON-P.2M	‘My shirt is different from yours.’		рубашка(F) OBL.PRON.1SG разделить(ся).PROG=3F от OBL-DEM4.F OBL.PRON-P.2M	‘Моя рубашка отличается от твоей.’		
+76	65	payəš +baray	SBJ	men	Y	SBJ_men	urza pəš-lə +baray mən baxta	man(M) remain.PST-LS.3M behind from woman(F)	‘The man fell behind the woman.’		мужчина(M) остаться.PST-LS.3M сзади от женщина(F)	‘‎Мужчина отстал от женщины.’		
+76	66	+ṭarə	SBJ	DO	TR	TR	sava +bəṭray-o=l +mazra	old.M plough.PROG-P.3F=3M field(F)	‘The oldman is ploughing the field.’		старый.M пахать.PROG-P.3F=3M поле(F)	‘‎Старик пашет поле.’		
+76	67	rexa atə	*	*	*		mən id-i rex=ət +nuyṭa bitay=əl	from hand(F)-P.1SG smell(M)=REL oil(M) come.PROG=3M	‘My hands smell of gasoline.’	Not included in the database because Y is expressed as an NP-internal modifier.	от рука(F)-P.1SG запах(M)=REL нефть(M) прийти.PROG=3M	‘‎Мои руки пахнут бензином.’		
+76	68	+avər	SBJ	DO	TR	TR	sava urxa +vər-a-l	old.M way(F) enter.PST-SS.3F-LS.3M	‘The oldman crossed the road.’	Non-Urmi speaker.	старый.M дорога(F) войти.PST-SS.3F-LS.3M	‘‎Старик пересек дорогу.’		
+76	69	zamər 	SBJ	DO	TR	TR	xa yala zmər-rə d-a zmarta	one boy(M) sing.PST-LS.3M OBL-DEM1.SG song(F)	‘The boy sang this song.’	Non-Urmi speaker.	один мальчик(M) петь.PST-LS.3M OBL-DEM1.SG песня(F)	‘‎Мальчик спел эту песню.’		
+76	70	catəv	SBJ	DO	TR	TR	xa yala ctəv-lə xa ctava ka +xavr-u	one boy(M) write.PST-LS.3M one book(M) to friend(M)-P.3M	‘The boy wrote a letter.’	Non-Urmi speaker.	один мальчик(M) писать.PST-LS.3M один книга(M) к друг(M)-P.3M	‘Мальчик написал письмо.’		
+76	71	šatə 	SBJ	DO	TR	TR	brata šti-la +xalva	girl(F) drink.PST-LS.3F milk(M)	‘The girl drank the milk.’		девочка(F) пить.PST-LS.3F молоко(M)	‘‎Девочка выпила молоко.’		
+76	72	mapšər	SBJ	DO	TR	TR	yala mupšər-rə prəzla	boy(M) melt(tr).PST-LS.3M iron(M)	‘The boy melted the iron.’		мальчик(M) плавить.PST-LS.3M железо(M)	‘‎Мальчик расплавил железо.’		
+76	73	laxəm	SBJ	ka	Y	SBJ_ka	a camar bəlxam=əl ka +oym-i	DEM1.SG waist(M) suit.PROG=3M to dress(F)-P.1SG	‘This belt matches my dress.’		DEM1.SG пояс(M) подходить.PROG=3M к платье(F)-P.1SG	‘‎Этот пояс подходит к моему платью.’		
+76	74	azəl	SBJ	men	Y	SBJ_men	+Ašur xəš-lə mən mat=ət gan-u	PN go.PST-LS.3M from village(F)=REL REFL(F)-P.3M	‘Ashur left his native village.’		Ашур идти.PST-LS.3M от деревня(F)=REL REFL(F)-P.3M	‘‎Ашур покинул родную деревню.’		
+76	75	maccəs	SBJ	ka	Y	SBJ_ka	+xali muccəs-la ka cullə +ustol	carpet(F) cover.PST-LS.3F to all table(M)	‘The carpet covers the whole table.’	Non-Urmi speaker.	ковер(F) покрывать.PST-LS.3F к все стол(M)	‘‎Ковер покрывает весь стол.’		
+76	76	taxər	SBJ	DO	TR	TR	sava +spay bətxar=ələ bet=ət gan-u	old.M good remember.PROG=3M house(M)=REL REFL(F)-P.3M	‘The oldman remembers his house well.’	Non-Urmi speaker.	старый.M хороший помнить.PROG=3M дом(M)=REL REFL(F)-P.3M	‘Старик хорошо помнит свой дом.’		
+76	77	avəd comac	SBJ	ka	Y	SBJ_ka	+Ašur comac vəd-lə ka +xor-u	PN help(F) do.PST-LS.3M to friend(M)-P.3M	‘Ashur helped his friend.’		Ашур помощь(F) делать.PST-LS.3M к друг(M)-P.3M	‘‎Ашур помог другу.’		
+76	78	+ṗarmə	SBJ	DO	TR	TR	brun-i +ṗarmuy=əl lišana=ət suray	son(M)-P.1SG understand.PROG=3M language(M)=REL Assyrian.PL	‘My son understands the Assyrian language.’		сын(M)-P.1SG понимать.PROG=3M язык(M)=REL ассириец.PL	‘‎Мой сын понимает ассирийский язык’		
+76	79	maxə 	SBJ	gu	Y	SBJ_gu	bərka mxi-l gu beta	lightning(M) beat.PST-LS.3M in house(M)	‘Lightning hit the house.’	Non-Urmi speaker.	молния(M) ударить.PST-LS.3M в дом(M)	‘‎Молния попала в дом.’		
+76	80	parəm gana	SBJ	bi	Y	SBJ_bi	yala gan-u prim-a-l bi +magreta	boy(M) REFL(F)-P.3M cut.PST-SS.3F-LS.3M with razor(F)	‘The boy cut himself with a razor.’		мальчик(M) REFL(F)-P.3M резать.PST-SS.3F-LS.3M с бритва(F)	‘‎Мальчик порезался бритвой.’		
+76	81	+šayyə 	SBJ	al	Y	SBJ_al	stacan +šiyy=əl +al +ustol	glass(M) stick.RES.M=3M on table(M)	‘The glass got stuck to the table.’		стакан(M) прилипнуть.RES.M=3M на стол(M)	‘‎Стакан прилип к столу.’		
+76	82	+makrəm 	SBJ	ka	Y	SBJ_ka	+Ašur +mukrəm-lə ka axun-u	PN lose.PST-LS.3M to brother(M)-P.3M	‘Ashur lost to his brother.’		Ашур проиграть.PST-LS.3M к брат(M)-P.3M	‘‎Ашур проиграл брату.’		
+76	83	xadə 	SBJ	bi	Y	SBJ_bi	brata xdi-la bi ctava	girl(F) rejoice.PST-LS.3F with letter(M)	‘The girl was glad about the letter.’		девочка(F) радоваться.PST-LS.3F с письмо(M)	‘Девочка обрадовалась письму’		
+76	84	hamzəm	SBJ	men	Y	SBJ_men	+avvo sava hamzum=əl mən brat-u	DEM3.M old.M speak.PROG=3M from girl(F)-P.3M	‘This oldman is speaking with a girl.’	Some speakers use preposition <i>am</i>.	DEM3.M старый.M говорить.PROG=3M от девочка(F)-P.3M	‘‎Этот старик разговаривает с девочкой.’		
+76	85	barə	SBJ	DO	TR	TR	xat-i bri-la bruna	sister(F)-P.1SG create.PST-LS.3F son(M)	‘My sister gave birth to a son.’	Non-Urmi speaker.	сестра(F)-P.1SG создавать.PST-LS.3F сын(M)	‘‎Моя сестра родила сына.’		
+76	86	manpəl 	SBJ	DO	TR	TR	baxt-u munpəl-la stacan	woman(F)-P.3M drop.PST-LS.3F glass(M)	‘The woman dropped the glass.’		женщина(F)-P.3M ронять.PST-LS.3F стакан(M)	‘‎Женщина уронила стакан.’		
+76	87	avə +gura	SBJ	BARE	Y	SBJ_BARE	+avvo naša +gur=ət mat=əl	DEM3.M person(M) big=REL village(F)=3M	‘This man runs our village.’	Non-Urmi speaker. Non-verbal predicate, <i>avə</i> is 'to be'.	DEM3.M человек(M) большой=REL деревня(F)=3M	‘‎Этот человек руководит деревней.’		
+76	88	maxnə 	SBJ	bar	Y	SBJ_bar	urza maxnuy=əl +bar baxt-u	man(M) miss.PROG=3M after woman(F)-P.3M	‘This man misses his wife.’		мужчина(M) скучать.PROG=3M за женщина(F)-P.3M	‘‎Мужчина скучает по своей жене.’		
+76	89	azəl	SBJ	bar	Y	SBJ_bar	ayya baxta bəšš=əla +bar +gor-o	DEM2.F woman(F) go.PROG=3F after man(M)-P.3F	‘This woman follows her husband.’		DEM2.F женщина(F) идти.PROG=3F за мужчина(M)-P.3F	‘‎Эта женщина идет за своим мужем.’		
+76	90	+salə 	SBJ	men	Y	SBJ_men	+avvo naša +sli-lə mən suysa	DEM3.M person(M) descend.PST-LS.3M from horse(M)	‘This man got down from the horse.’		DEM3.M человек(M) спускаться.PST-LS.3M от лошадь(M)	‘‎Этот человек слез с лошади.’		
+76	91	+šammə	SBJ	DO	TR	TR	brat-i +bəšmay=əla praskala	girl(F)-P.1SG hear.PROG=3F radio(?)	‘My daughter is listening to radio.’		девочка(F)-P.1SG слышать.PROG=3F радио(?)	‘‎Моя дочка слушает радио.’		
+76	92	+šammə 	SBJ	ka	Y	SBJ_ka	yala +bəšmay=əl ka +rabit-u	boy(M) hear.PROG=3M to teacher(F)-P.3M	‘This boy obeys his mother.’		мальчик(M) слышать.PROG=3M к учительница(F)-P.3M	‘‎Этот мальчик слушается учительницу.’		
+76	93	+šammə 	SBJ	DO	TR	TR	+xor-i +bəšmay=əl zmarta	friend(M)-P.1SG hear.PROG=3M song(F)	‘My friend hears the song.’		друг(M)-P.1SG слышать.PROG=3M песня(F)	‘‎Мой друг слышит песню.’		
+76	94	+xavəṭ	SBJ	bi	Y	SBJ_bi	duyša +xvəṭ-lə bi +xalva	honey(M) mix.PST-LS.3M with milk(M)	‘The honey got mixed with the milk.’	Some speakers use preposition <i>am</i>.	мед(M) смешивать(ся).PST-LS.3M с молоко(M)	‘‎Мед смешался с молоком.’		
+76	95	gašək	SBJ	al	Y	SBJ_al	yala gašuk=əl +al +ayvə cumə	boy(M) observe.PROG=3M on cloud(F).PL black.PL	‘The boy is looking at the clouds.’		мальчик(M) наблюдать.PROG=3M на облако(F).PL черный.PL	‘‎Мальчик смотрит на черные тучи.’		
+76	96	šaləx	SBJ	DO	TR	TR	brata kam-šalx-a-la +oym-o	girl(F) PRF-undress.PRS-SS.3F-LS.3F dress(F)-P.3F	‘The girl took off her dress.’	Non-Urmi speaker.	девочка(F) PRF-раздеться.PRS-SS.3F-LS.3F платье(F)-P.3F	‘‎Девочка сняла платье.’		
+76	97	xazə bi xulma	SBJ	DO	TR	TR	+avvo yala bi xulm-u xəzy-a-l baxt-u	DEM3.M boy(M) with dream(M)-P.3M see.PST-SS.3F-LS.3M woman(F)-P.3M	‘This guy dreams about his wife.’		DEM3.M мальчик(M) с сон(M)-P.3M видеть.PST-SS.3F-LS.3M женщина(F)-P.3M	‘Этому парню снится его жена.’		
+76	98	avə +razi	SBJ	men	Y	SBJ_men	+gor-o +razi vi-lə mən baxta	man(M)-P.3F willing be.PST-LS.3M from woman(F)	‘Lit. ‘Her husband agreed with the woman.’’	Non-verbal predicate, <i>avə</i> is 'to be'. Some speakers use preposition <i>am</i>.	мужчина(M)-P.3F согласный быть.PST-LS.3M от женщина(F)	‘‎Муж согласился с женой.’		
+76	99	+makrəs	SBJ	men	Y	SBJ_men	naša +mukrəss=əl mən baxt-u	person(M) quarrel.RES.M=3M from woman(F)-P.3M	‘This man had a quarrel with his wife.’	Some speakers use preposition <i>am</i>.	человек(M) ссориться.RES.M=3M от женщина(F)-P.3M	‘‎Этот человек поссорился с женой.’		
+76	100	+dakər	SBJ	DO	TR	TR	+sudra +dakr-a əmma +manət	shirt(F) cost.PRS-SS.3F hundred rouble(M)	‘This shirt costs one hundred roubles.’		рубашка(F) стоить.PRS-SS.3F сто рубль(M)	‘‎Эта рубашка стоит сто рублей.’		
+76	101	čarət 	SBJ	gu	Y	SBJ_gu	sava črət-lə gu səprita	old.M fire.PST-LS.3M in birdie(F)	‘The oldman shot at the bird.’		старый.M стрелять.PST-LS.3M в птичка(F)	‘‎Старик выстрелил в птицу.’		
+76	102	darə	SBJ	DO	TR	TR	baxta dri-la šacar gu mana	woman(F) pour.PST-LS.3F sugar(M) in vessel(M)	‘The woman poured the sugar into the cup.’	Non-Urmi speaker.	женщина(F) лить.PST-LS.3F сахар(M) в миска(M)	‘‎Женщина насыпала сахар в чашку.’		
+76	103	talək	SBJ	DO	TR	TR	brata kdilə tulk-e-la	girl(F) key(M).PL lose.PST-SS(O).3PL-LS.3F	‘The girl lost her keys.’		девочка(F) ключ(M).PL потерять.PST-SS(O).3PL-LS.3F	‘‎Девочка потеряла ключи.’		
+76	104	+ṭabbə 	SBJ	gu	Y	SBJ_gu	kesa +ṭbi-l gu miyya	wood(M) sink.PST-LS.3M in water(PL)	‘The log sank in water.’		дерево(M) тонуть.PST-LS.3M в вода(PL)	‘Полено утонуло в воде.’		
+76	105	+kaṭəl	SBJ	DO	TR	TR	švava švot-u +kṭil-a-l	neighbour(M) neighbour(F)-P.3M kill.PST-SS.3F-LS.3M	‘The neighbor (he) killed his neighbor (her).’		сосед(M) соседка(F)-P.3M убить.PST-SS.3F-LS.3M	‘Сосед убил соседку.’		
+76	106	maxə	SBJ	DO	TR	TR	baxta məxy-a-la švot-o	woman(F) beat.PST-SS.3F-LS.3F neighbour(F)-P.3F	‘The woman hit her neighbor.’		женщина(F) ударить.PST-SS.3F-LS.3F соседка(F)-P.3F	‘‎Женщина ударила соседку.’		
+76	107	našək	SBJ	DO	TR	TR	yala nšik-a-l brata	boy(M) kiss-SS.3F-LS.3M girl(F)	‘The boy kissed the girl.’		мальчик(M) целовать-SS.3F-LS.3M девочка(F)	‘‎Парень поцеловал девушку.’		
+76	108	+karə	SBJ	DO	TR	TR	brata +kri-la +spay ctava	girl(F) read.PST-LS.3F good book(M)	‘The girl read a good book.’		девочка(F) читать.PST-LS.3F хороший книга(M)	‘‎Девочка прочитала хорошую книгу.’		
+76	109	maǧvəǧ	SBJ	DO	TR	TR	brata muǧviǧ-é-la +suṗṗat-o	girl(F) move(tr).PST-SS(O).3PL-LS.3F finger(F).PL-P.3F	‘The girl moved her finger.’		девочка(F) двигать.PST-SS(O).3PL-LS.3F палец(F).PL-P.3F	‘‎Девочка пошевелила пальцами.’		
+76	110	maɣɣəb 	SBJ	DO	TR	TR	+Ašur maɣɣub-u=l švav-u	PN like.PROG-P.3M=3M neighbour(M)-P.3M	‘Ashur respects his neighbor.’		Ашур любить.PROG-P.3M=3M сосед(M)-P.3M	‘‎Ашур уважает своего соседа.’		
+76	111	gangəz	SBJ	men	Y	SBJ_men	xat-i di ganguz=əla mən šəxtanə manə čamčə	sister(F)-P.1SG OBL.PRON.1SG loathe.PROG=3F from dirty.PL vessel(M).PL spoon(M).PL	‘My sister is squeamish about dirty dishes.’		сестра(F)-P.1SG OBL.PRON.1SG брезговать.PROG=3F от грязный.PL миска(M).PL ложка(M).PL	‘Моя сестра брезгует грязной посудой.’		
+76	112	avə +razi	SBJ	bi	Y	SBJ_bi	+Ašur +razi=lə bi brun-u	PN willing=3M with son(M)-P.3M	‘Ashur is content with his son.’	Non-verbal predicate, <i>avə</i> is 'to be'.	Ашур согласный=3M с сын(M)-P.3M	‘‎Ашур доволен своим сыном.’		
+76	113	xoš atə	BARE	men	XY	BARE_men	+Ašur xoš-u bitay=əla mən švot-u	PN happiness(F)-P.3M come.PROG=3F from neighbour(F)-P.3M	‘Ashur fell in love with his neighbor.’		Ашур счастье(F)-P.3M прийти.PROG=3F от соседка(F)-P.3M	‘‎Ашур влюбился в соседку.’		
+76	114	avə +ərxay	SBJ	bi	Y	SBJ_bi	+avvo naša +ərxay=ələ bi baxt-u	DEM3.M person(M) secure=3M with woman(F)-P.3M	‘This man trusts his wife.’	Non-verbal predicate, <i>avə</i> is 'to be'. <i>+ərxay</i> is a dialect realization of <i>+arxayən</i>.	DEM3.M человек(M) надежный=3M с женщина(F)-P.3M	‘‎Этот человек доверяет своей жене.’		
+76	115	+xṭita atə	BARE	BARE	XY	BARE_BARE	aha naša +xṭit=ət yəmm-u bitay=əla	DEM1.SG person(M) sin(F)=REL mother(F)-P.3M come.PROG=3F	‘This man sympathizes with his mother.’		DEM1.SG человек(M) грех(F)=REL мать(F)-P.3M прийти.PROG=3F	‘‎Этот человек жалеет свою мать.’		
+76	116	baxxəl 	SBJ	bi	Y	SBJ_bi	+Ašur baxxul=əl bi švav-u	PN envy.PROG=3M with neighbour(M)-P.3M	‘Ashur envies his neighbor.’		Ашур завидовать.PROG=3M с сосед(M)-P.3M	‘‎Ашур завидует своему соседу.’		
+76	117	carəb 	SBJ	al	Y	SBJ_al	+Ašur bəcrab=əl +al baxt-u	PN be_angry.PROG=3M on woman(F)-P.3M	‘Ashur is angry with his wife.’		Ашур сердиться.PROG=3M на женщина(F)-P.3M	‘‎Ашур злится на свою жену.’		
+76	118	+aǧǧəb	SBJ	bi	Y	SBJ_bi	ana +uǧǧəb-li b d-a pəštəš	I be_surprised.PST-LS.1SG with OBL-DEM1.SG gift(F)	‘I was surprised at this gift.’	<i>pəštaš</i> is a dialect realization of <i>pašcaš</i> or <i>pəšcaš</i>.	я удивляться.PST-LS.1SG с OBL-DEM1.SG подарок(F)	‘‎Я удивился этому подарку.’		
+76	119	xoš atə	BARE	men	XY	BARE_men	ayyé baxta xoš-o bitay=əla mən +čay	DEM3.F woman(F) happiness(F)-P.3F come.PROG=3F from tea(M)	‘This woman loves tea.’		DEM3.F женщина(F) счастье(F)-P.3F прийти.PROG=3F от чай(M)	‘Эта женщина любит чай.’		
+76	120	avəd ceyp	SBJ	bi	Y	SBJ_bi	yala vad=ələ ceyp-u bi +čay	boy(M) do.PROG=3M pleasure(F)-P.3M with tea(M)	‘The boy enjoys tea.’	Non-Urmi speaker. <i>ceyp</i> is a dialect realization of <i>cep</i>.	мальчик(M) делать.PROG=3M удовольствие(F)-P.3M с чай(M)	‘‎Парень наслаждается чаем.’		
+76	121	+bayyə	SBJ	DO	TR	TR	brata +byay=əla taza telefon	girl(F) want.PROG=3F new phone(?)	‘The girl wants a new phone.’		девочка(F) хотеть.PROG=3F новый телефон(?)	‘‎Девочка хочет новый телефон.’		
+76	122	carəb 	SBJ	al	Y	SBJ_al	+Ašur bəcrab=əl +al baxt-u	PN be_angry.PROG=3M on woman(F)-P.3M	‘Ashur has a grudge against his wife.’		Ашур сердиться.PROG=3M на женщина(F)-P.3M	‘‎Ашур сердится на свою жену.’		
+76	123	ceyp payəš	BARE	men	XY	BARE_men	axun-i ceyp-u pəšta=əla mən baxt-u	brother(M)-P.1SG pleasure(F)-P.3M remain.RES.F=3F from woman(F)-P.3M	‘My brother got cross with his wife.’	<i>ceyp</i> is a dialect realization of <i>cep</i>.	брат(M)-P.1SG удовольствие(F)-P.3M остаться.RES.F=3F от женщина(F)-P.3M	‘Мой брат обиделся на свою жену.’		
+76	124	mapyəš ləbba	SBJ	BARE	Y	SBJ_BARE	a naša +raba ləbb=ət baxt-u muppəš-lə	DEM1.SG person(M) many heart(M)=REL woman(F)-P.3M leave.PST-LS.3M	‘This man greatly upset his wife.’		DEM1.SG человек(M) много сердце(M)=REL женщина(F)-P.3M оставлять.PST-LS.3M	‘Этот человек очень огорчил свою жену.’		
 76	125	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
-76	126	+aynə +paləṭ	BARE	men	XY	BARE_men	+Ašur +ayn-u +plaṭ=əna mən švav-u	PN eye(F).PL-P.3M leave.PROG=3PL from neighbour(M)-P.3M	‘Ashur despises his neighbor.’		Ашур глаз(F).PL-P.3M уйти.PROG=3PL от сосед(M)-P.3M	‎Ашур презирает своего соседа.		
-76	127	ləbba mapyəš	BARE	men	XY	BARE_men	ləbb=ət +Ašur muppəš-lə mən brun-u	heart(M)=REL PN leave.PST-LS.3M from son(M)-P.3M	‘Ashur got upset with his son.’		сердце(M)=REL Ашур оставлять.PST-LS.3M от сын(M)-P.3M	‎Ашур огорчился из-за сына.		
-76	128	ləbba +sarəx	BARE	men	XY	BARE_men	ləbb=ət sava +srəx-lə mən navəgta	heart(M)=REL old.M be_mad.PST-LS.3M from granddaughter(F)	‘The oldman is irritated with his daughter.’		сердце(M)=REL старый.M быть_безумным.PST-LS.3M от внучка(F)	Старик огорчился из-за внучки.		
-76	129	+avər gu ləbba	BARE	SBJ	X	BARE_SBJ	a naša +raba gu ləbb-i +vir=əl	DEM1.SG person(M) very in heart(M)-P.1SG enter.RES.M=3M	‘I am fond of this person.’		DEM1.SG человек(M) очень в сердце(M)-P.1SG войти.RES.M=3M	‎Я очень симпатизирую этому человеку.		
-76	130	naxəp	SBJ	men	Y	SBJ_men	+avvo yala bənxap=əl mən d-a kom-u	DEM3.M boy(M) be_ashamed.PROG=3M from OBL-DEM1.SG size(M)-P.3M	‘This boy is shy about his height.’		DEM3.M мальчик(M) стыдиться.PROG=3M от OBL-DEM1.SG размер(M)-P.3M	Этот парень стесняется своего роста.		
+76	126	+aynə +paləṭ	BARE	men	XY	BARE_men	+Ašur +ayn-u +plaṭ=əna mən švav-u	PN eye(F).PL-P.3M leave.PROG=3PL from neighbour(M)-P.3M	‘Ashur despises his neighbor.’		Ашур глаз(F).PL-P.3M уйти.PROG=3PL от сосед(M)-P.3M	‘‎Ашур презирает своего соседа.’		
+76	127	ləbba mapyəš	BARE	men	XY	BARE_men	ləbb=ət +Ašur muppəš-lə mən brun-u	heart(M)=REL PN leave.PST-LS.3M from son(M)-P.3M	‘Ashur got upset with his son.’		сердце(M)=REL Ашур оставлять.PST-LS.3M от сын(M)-P.3M	‘‎Ашур огорчился из-за сына.’		
+76	128	ləbba +sarəx	BARE	men	XY	BARE_men	ləbb=ət sava +srəx-lə mən navəgta	heart(M)=REL old.M be_mad.PST-LS.3M from granddaughter(F)	‘The oldman is irritated with his daughter.’		сердце(M)=REL старый.M быть_безумным.PST-LS.3M от внучка(F)	‘Старик огорчился из-за внучки.’		
+76	129	+avər gu ləbba	BARE	SBJ	X	BARE_SBJ	a naša +raba gu ləbb-i +vir=əl	DEM1.SG person(M) very in heart(M)-P.1SG enter.RES.M=3M	‘I am fond of this person.’		DEM1.SG человек(M) очень в сердце(M)-P.1SG войти.RES.M=3M	‘‎Я очень симпатизирую этому человеку.’		
+76	130	naxəp	SBJ	men	Y	SBJ_men	+avvo yala bənxap=əl mən d-a kom-u	DEM3.M boy(M) be_ashamed.PROG=3M from OBL-DEM1.SG size(M)-P.3M	‘This boy is shy about his height.’		DEM3.M мальчик(M) стыдиться.PROG=3M от OBL-DEM1.SG размер(M)-P.3M	‘Этот парень стесняется своего роста.’		
+46	1	dʲe	TOP	NOM	X	TOP_NOM	modʲi kasa-jʔ ɛba-za dʲee	I man-NOM.SG.1SG head-NOM.SG.3SG ache(IPFV).3SG.S	‘My friend has a headache’.		я мужчина-NOM.SG.1SG голова-NOM.SG.3SG болеть.3SG.S	‘У моего товарища болит голова’.		
+46	2	kader	NOM	LOC	Y	NOM_LOC	kasa-jʔ gripo-xon kadeŋa	man-NOM.SG.1SG flu-LOC.SG be_ill(IPFV).3SG.S	‘My friend has the flu’.		мужчина-NOM.SG.1SG грипп-LOC.SG болеть.3SG.S	‘Мой товарищ болеет гриппом’.		
+46	3	piis	NOM	OBL	TR	TR	modʲi kasa-jʔ buniki-jʔ piiʔɛ	I man-NOM.SG.1SG dog-NOM.SG.1SG be_afraid(IPFV).3SG.S	‘My friend is afraid of my dog’.		я мужчина-NOM.SG.1SG собака-NOM.SG.1SG бояться.3SG.S	‘Мой товарищ боится моей собаки’.		
+46	4	bɛɛ	NOM	OBL	TR	TR	modʲi kasa-jʔ pu-da bɛɛ-za	I man-NOM.SG.1SG stone-OBL.SG.3SG throw(PFV)-3SG.SOsg	‘My friend threw his stone’.		я мужчина-NOM.SG.1SG камень-OBL.SG.3SG бросить-3SG.SOsg	‘Мой товарищ бросил камень’.		
+46	5	tɔɔri	TOP	NOM	X	TOP_NOM	modʲi kasa-jʔ bɛʃi-za tɔɔri-ʔ	I man-NOM.SG.1SG iron-NOM.PL.3SG be_enough(IPFV)-3PL.S	‘My friend has enough money’.		я мужчина-NOM.SG.1SG железо-NOM.PL.3SG хватать-3PL.S	‘Моему товарищу хватает денег’.		
+46	6	ŋa	NOM	OBLdez	Y	NOM_OBLdez	modʲi kasa-jʔ ɛse-da dʲez ŋa	I man-NOM.SG.1SG father-OBL.SG.3SG in_the_direction be(IPFV).3SG.S	‘My friend resembles his father’.		я мужчина-NOM.SG.1SG отец-OBL.SG.3SG в_сторону быть.3SG.S	‘Мой товарищ похож на своего отца’.		
+46	7	pudiri	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ nɛ-xo-da pudiri	I man-NOM.SG.1SG woman-DAT.SG-OBL.SG.3SG trust(IPFV).3SG.S	‘My friend believes his wife’.		я мужчина-NOM.SG.1SG женщина-DAT.SG-OBL.SG.3SG верить.3SG.S	‘Мой товарищ верит своей жене’.		
+46	8	mu	NOM	OBL	TR	TR	modʲi kasa-jʔ kirba mu ɔ stɔl nʲi-z	I man-NOM.SG.1SG bread take(PFV).3SG.S table surface-ABL	‘My friend took bread from the table’.		я мужчина-NOM.SG.1SG хлеб взять.3SG.S стол поверхность-ABL	‘Мой товарищ взял хлеб со стола’.		
+46	9	mɔdee	NOM	OBL	TR	TR	kasa-jʔ kamozo-da mɔdee-za	man-NOM.SG.1SG house-OBL.SG.3SG see(IPFV)-3SG.SOsg	‘My friend sees his house’.		мужчина-NOM.SG.1SG дом-OBL.SG.3SG видеть-3SG.SOsg	‘Мой товарищ видит свой дом’.		
+46	10	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	11	dʲazuta	NOM	OBL	TR	TR	modʲi kasa-jʔ vasʲa-da dʲazuta	I man-NOM.SG.1SG PN-OBL.SG.3SG come_across(PFV).3SG.S	‘My friend met Vasja’.		я мужчина-NOM.SG.1SG PN-OBL.SG.3SG встретить.3SG.S	‘Мой товарищ встретил Васю’.		
+46	12	tʃu	NOM	OBLmi	Y	NOM_OBLmi	kasa-jʔ mɛ-ta mi-ʔ tʃuɔ	man-NOM.SG.1SG chum-OBL.SG.3SG inside-DAT enter(PFV).3SG.S	‘My friend entered his house’.		мужчина-NOM.SG.1SG чум-OBL.SG.3SG внутреннее_пространство-DAT войти.3SG.S	‘Мой товарищ вошел в дом’.		
+46	13	mɔtes	NOM	ABL	Y	NOM_ABL	modʲi kasa-jʔ karti-xin sanku-ʃ genka-xaz kɔrtuz mɔteʔɛ	I man-NOM.SG.1SG cards-LOC.PL play(IPFV)-CVB PN-ABL harness.OBL win(PFV).3SG.S	‘Playing cards my friend won harness from Genka’.		я мужчина-NOM.SG.1SG карты-LOC.PL играть-CVB PN-ABL сбруя.OBL выиграть.3SG.S	‘Мой товарищ выиграл у Генки в карты упряжную сбрую’.		
+46	14	ɔziu	NOM	ABL	Y	NOM_ABL	modʲi kasa-jʔ mɛ-kozo-da ɔzima	I man-NOM.SG.1SG chum-ABL.SG-OBL.SG.3SG be_visible(IPFV).INC.3SG.S	‘My friend went out of his house’.		я мужчина-NOM.SG.1SG чум-ABL.SG-OBL.SG.3SG быть_видимым.INC.3SG.S	‘Мой товарищ вышел из дома’.		
+46	15	tanir	NOM	OBL	TR	TR	modʲi kasa-jʔ ti-za taniŋa nɛbe kɔzuj-d	I man-NOM.SG.1SG reindeer-NOM.PL.3SG drive(IPFV).3SG.S new pasture-DAT	‘My friend is driving his reindeer to the new pasture’.		я мужчина-NOM.SG.1SG олень-NOM.PL.3SG гонять.3SG.S новый пастбище-DAT	‘Мой товарищ гонит оленей на новое пастбище’.		
+46	16	bujurta	NOM	OBL	TR	TR	modʲi kasa-jʔ niga bujurta	I man-NOM.SG.1SG bushes bend(PFV).3SG.S	‘My friend bent the branch’.		я мужчина-NOM.SG.1SG кустарник согнуть.3SG.S	‘Мой товарищ согнул ветку’.		
+46	17	man	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ mana-ʃ genka-xo-da: mɛ-ko-nʲiʔ to-nʲi-d mɛziza-ʃ	I man-NOM.SG.1SG say(PFV)-3SG.S.PST PN-DAT.SG-OBL.SG.3SG chum-DAT-OBL.SG.1SG come(PFV)-SBJV-2SG.S be_on_visit(IPFV)-CVB	‘My friend told to Genka: “Come to my place to stay as a guest”’.		я мужчина-NOM.SG.1SG сказать-3SG.S.PST PN-DAT.SG-OBL.SG.3SG чум-DAT-OBL.SG.1SG прийти-SBJV-2SG.S гостить-CVB	Мой товарищ сказал Генке: «Приходи ко мне в гости».		
+46	18	nɔɔbera	NOM	OBL	TR	TR	modʲi kasa-jʔ tʃezi-da nɔɔbera	I man-NOM.SG.1SG lasso-OBL.SG.3SG hold(IPFV).3SG.S	‘My friend is holding his lasso’.		я мужчина-NOM.SG.1SG маут-OBL.SG.3SG держать.3SG.S	‘Мой товарищ держит маут’.		
+46	19	dʲɔbu	NOM	OBL	TR	TR	modʲi kasa-jʔ nɛ-da dʲɔbuɔ-za	I man-NOM.SG.1SG woman-OBL.SG.3SG catch_up(PFV)-3SG.SOsg	‘My friend caught up with his wife’.		я мужчина-NOM.SG.1SG женщина-OBL.SG.3SG догнать-3SG.SOsg	‘Мой товарищ догнал свою жену’.		
+46	20	dɔir	NOM	OBL	TR	TR	modʲi nɛ-jʔ dʲɔxazi-da dɔi-bi	I woman-NOM.SG.1SG female_reindeer-OBL.SG.3SG milk(PFV)-PRF.3SG.S	‘My wife has milked the female reindeer’.		I woman-NOM.SG.1SG female_reindeer-OBL.SG.3SG milk(pfv)-PRF.3SG.S	‘Моя жена подоила важенку’.		
+46	21	tɔɔ	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ teni biz baru-d tɔɔ-j-zʔ	I man-NOM.SG.1SG to_opposite_bank water.OBL border-DAT.SG reach(PFV)-M-3SG.M	‘My friend reached the bank at the opposite side’.		я мужчина-NOM.SG.1SG на_другой_берег вода.OBL край-DAT.SG достичь-M-3SG.M	‘Мой товарищ достиг берега противоположной стороне’.		
+46	22	tʃurxur	NOM	OBLdez	Y	NOM_OBLdez	modʲi kasa-jʔ uza-da pɛtʃeu dʲez tʃurxuŋa	I man-NOM.SG.1SG hand-OBL.SG.3SG stove.OBL in_the_direction touch(PFV).3SG.S	‘My friend touched the stove with his hand’.		I мужчина-NOM.SG.1SG рука-OBL.SG.3SG печь.OBL в_сторону коснуться.3SG.S	‘Мой товарищ дотронулся до печки рукой’.		
+46	23	tarur	NOM	LOC	Y	NOM_LOC	kasa-jʔ vasʲa-xane-da taruŋa	man-NOM.SG.1SG PN-LOC.SG-OBL.SG.3SG fight(PFV).3SG.S	‘My friend is fighting with Vasja’.		мужчина-NOM.SG.1SG PN-LOC.SG-OBL.SG.3SG бороться.3SG.S	‘Мой товарищ дерется со Васей’.		
+46	24	*	*	*	*		modʲi kasa-jʔ vasʲa-da nɔʔ pɔj-ziʔ sɔjza ɛ-ubi-ʔ	I man-NOM.SG.1SG PN-OBL.SG.3SG with relationship-NOM.PL.3DU good be(IPFV)-HAB-3PL.S	‘My friend usually has good relations with Vasja’.	Not included in the database because X and Y are expressed as a coordinate NP.	я мужчина-NOM.SG.1SG PN-OBL.SG.3SG с отношения-NOM.PL.3DU хороший быть-HAB-3PL.S	‘У моего товарища обычно хорошие отношения с Васей’.		
+46	25	biis	NOM	OBL	TR	TR	modʲi kasa-jʔ kasa nʲe-da biiʔɛ	I man-NOM.SG.1SG man child-OBL.SG.3SG remember(IPFV).3SG.S	‘My friend is thinking about his son’.		я мужчина-NOM.SG.1SG мужчина ребенок-OBL.SG.3SG помнить.3SG.S	‘Мой товарищ думает о своем сыне’.		
+46	26	ɔ	NOM	OBL	TR	TR	modʲi kasa-jʔ ŋaʔu ɔma	I man-NOM.SG.1SG duck eat(PFV).3SG.S	‘My friend ate a duck’.		я мужчина-NOM.SG.1SG утка съесть.3SG.S	‘Мой товарищ съел утку’.		
+46	27	dʲasi	NOM	OBL	TR	TR	modʲi kasa-jʔ kare dʲasie	I man-NOM.SG.1SG fish fry_on_stick(PFV).3SG.S	‘My friend fried fish’.		я мужчина-NOM.SG.1SG рыба жарить_на_палке.3SG.S	‘Мой товарищ пожарил рыбу’.		
+46	28	ɔte	NOM	OBL	TR	TR	modʲi kasa-jʔ nɛ-da ɔtee	I man-NOM.SG.1SG woman-OBL.SG.3SG wait(IPFV).3SG.S	‘My friend is waiting for his wife’.		я мужчина-NOM.SG.1SG женщина-OBL.SG.3SG ждать.3SG.S	‘Мой товарищ ждет свою жену’.		
+46	29	dʲurota	NOM	OBL	TR	TR	modʲi kasa-jʔ nɛko nɔi-ta sɛxɛri-da dʲurota-bi-za	I man-NOM.SG.1SG other be_straight(IPFV)-PTCP.SIM road-OBL.SG.3SG forget(PFV)-PRF-3SG.SOsg	‘My friend forgot about another, straight road’.		я мужчина-NOM.SG.1SG другой быть_прямым-PTCP.SIM дорога-OBL.SG.3SG забыть-PRF-3SG.SOsg	‘Мой товарищ забыл о другой, прямой дороге’.		
+46	30	pɛri	NOM	ABL	Y	NOM_ABL	mɛsi-za ŋa-xaz pɛri	wind-NOM.SG.3SG sky-ABL hold(IPFV).3SG.S	‘The wind depends on the sky’.		ветер-NOM.SG.3SG небо-ABL держаться.3SG.S	‘Ветер зависит от неба’.		
+46	31	kaata	NOM	OBL	TR	TR	modʲi kasa-jʔ kasa nʲe-da kaata	I man-NOM.SG.1SG man child-OBL.SG.3SG call(PFV).3SG.S	‘My friend called his son’.		я мужчина-NOM.SG.1SG мужчина ребенок-OBL.SG.3SG позвать.3SG.S	‘Мой товарищ позвал своего сына’.		
+46	32	*	*	*	*		modʲi kasa-jʔ nɛ-da ejbuj pɔ-xan dʲazee-zaʃ	I man-NOM.SG.1SG woman-OBL.SG.3SG last_year year-LOC.SG встретить-3SG.SOsg.PST	‘My friend met his wife last year’.	Not included in the database because this translation is semantically inaccurate.	я мужчина-NOM.SG.1SG женщина-OBL.SG.3SG прошлый_год год-LOC.SG meet(pfv)-3SG.SOsg.PST	‘Мой товарищ встретил свою жену в прошлом году’.		
+46	33	tɛne	NOM	OBL	TR	TR	modʲi kasa-jʔ nɛ-jʔ tɛnee-za	I man-NOM.SG.1SG woman-NOM.SG.1SG know(IPFV)-3SG.SOsg	‘My friend knows my wife’.		я мужчина-NOM.SG.1SG женщина-NOM.SG.1SG знать-3SG.SOsg	‘Мой товарищ знает мою жену’.		
+46	34	sɛnoko	NOM	LOC	Y	NOM_LOC	modʲi kasa-jʔ garmoʃka-xan sɛnokoɔ	I man-NOM.SG.1SG squeezebox-LOC.SG play(IPFV).3SG.S	‘My friend is playing the squeezebox’.		я мужчина-NOM.SG.1SG гармошка-LOC.SG играть.3SG.S	‘Мой товарищ играет на гармошке’.		
+46	35	*	*	*	*		vasʲa tɔju entʃe-goz kudʲiku-on kanʲe-ga	PN that person.OBL-ABL.SG far-PROL.SG leave(PFV)-DISC.3SG.S	‘Vasja keeps leaving farther from that person’.	Not included in the dataset because the translation deviates too far from the stimulus sentence.	PN тот человек.OBL-ABL.SG далеко-PROL.SG уйти-DISC.3SG.S	‘Вася отходит подальше от этого человека’.		
+46	36	mɛ	NOM	OBL	TR	TR	modʲi kasa-jʔ tʃeziu mɛ-bi	I man-NOM.SG.1SG lasso.OBL make(PFV)-PRF.3SG.S	‘My friend made a lasso’.		я мужчина-NOM.SG.1SG маут.OBL сделать-PRF.3SG.S	‘Мой товарищ изготовил маут’.		
+46	37	piʃizi	NOM	OBL	TR	TR	modʲi kasa-jʔ vasʲa-da piʃiza	I man-NOM.SG.1SG PN-OBL.SG.3SG ridicule(IPFV).3SG.S	‘My friend is making fun of Vasja’.		я мужчина-NOM.SG.1SG PN-OBL.SG.3SG высмеивать.3SG.S	‘Мой товарищ высмеивает Васю’.		
+46	38	tɔne	TOP	NOM	X	TOP_NOM	modʲi kasa-jʔ ɔdu-za tɔnee	I man-NOM.SG.1SG boat-NOM.SG.3SG there_is(IPFV).3SG.S	‘My friend has a boat’.		я мужчина-NOM.SG.1SG лодка-NOM.SG.3SG иметься.3SG.S	‘У моего товарища есть лодка’.		
+46	39	per	NOM	OBL	TR	TR	modʲi kasa-jʔ poga-da peŋa	I man-NOM.SG.1SG fishing_net-OBL.SG.3SG look_for(IPFV).3SG.S	‘My friend is looking for his fishing net’.		я мужчина-NOM.SG.1SG сеть-OBL.SG.3SG искать.3SG.S	‘Мой товарищ ищет свою сеть’.		
+46	40	krasijr	NOM	OBL	TR	TR	kasa-jʔ pe ne kexon kamozo-da krasij-bi-za	man-NOM.SG.1SG outdoors side side-LOC.SG house-OBL.SG.3SG paint(IPFV)-PRF-3SG.SOsg	‘My friend painted his house on the side of the street’.	This is probably a spontaneous borrowing from Russian.	мужчина-NOM.SG.1SG улица сторона бок-LOC.SG дом-OBL.SG.3SG красить-PRF-3SG.SOsg	‘Мой товарищ покрасил свой дом со стороны улицы’.		
+46	41	sɛkuru	NOM	OBL	TR	TR	buniki kasa-jʔ sɛkura	dog man-NOM.SG.1SG bite(PFV).3SG.S	‘A dog bit my friend’.		собака мужчина-NOM.SG.1SG укусить.3SG.S	‘Собака укусила моего товарища’.		
+46	42	kaja	NOM	CAR	Y	NOM_CAR	kasa-jʔ mɛ-tʃuz kaja	man-NOM.SG.1SG chum-CAR stay_behind(PFV).3SG.S	‘My friend remained homeless’.		мужчина-NOM.SG.1SG чум-CAR остаться.3SG.S	‘Мой товарищ остался без дома’.		
+46	43	nɔɔjru	NOM	OBL	TR	TR	kasa-jʔ buzuj te-da nɔɔjra	man-NOM.SG.1SG agile reindeer-OBL.SG.3SG catch(IPFV).3SG.S	‘My friend is trying to catch an agile reindeer’.		мужчина-NOM.SG.1SG подвижный олень-OBL.SG.3SG ловить.3SG.S	‘Мой товарищ ловит верткого оленя’.		
+46	44	mɔree	NOM	OBL	TR	TR	modʲi kasa-jʔ pɛ mɔj mɔree	I man-NOM.SG.1SG wood branch break(PFV).3SG.S	‘My friend broke a wooden stick’.		я мужчина-NOM.SG.1SG дерево ветка сломать.3SG.S	‘Мой товарищ сломал деревянную палку’.		
+46	45	naldur	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ nɛ-xo-da nalduŋa	I man-NOM.SG.1SG woman-DAT.SG-OBL.SG.3SG fawn(IPFV).3SG.S	‘My friend is fawning to his wife’.		я мужчина-NOM.SG.1SG женщина-DAT.SG-OBL.SG.3SG подлизываться.3SG.S	‘Мой товарищ подлизывается к своей жене’.		
+46	46	kɔmita	NOM	OBL	TR	TR	modʲi kasa-jʔ nɛ-da kɔmita-za	I man-NOM.SG.1SG woman-OBL.SG.3SG like(IPFV)-3SG.SOsg	‘My friend loves his wife’.		я мужчина-NOM.SG.1SG женщина-OBL.SG.3SG любить-3SG.SOsg	‘Мой товарищ любит свою жену’.		
+46	47	lɛbitur	NOM	LOC	Y	NOM_LOC	modʲi kasa-jʔ ɔbi-xone-da lɛbituŋa	I man-NOM.SG.1SG mitten-LOC.SG-OBL.SG.3SG wave(IPFV).3SG.S	‘My friend is waving his mitten’.		я мужчина-NOM.SG.1SG варежка-LOC.SG-OBL.SG.3SG махать.3SG.S	‘Мой товарищ машет варежкой’.		
+46	48	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	49	kɔlta	NOM	OBL	TR	TR	modʲi nɛ-jʔ dʲizi-da kɔlta-bi-za	I woman-NOM.SG.1SG cauldron-OBL.SG.3SG wash(PFV)-PRF-3SG.SOsg	‘My wife washed the bucket’.		я женщина-NOM.SG.1SG котел-OBL.SG.3SG вымыть-3SG.SOsg	‘Моя жена вымыла ведро’.		
+46	50	sɛru	NOM	OBL	TR	TR	modʲi kasa-jʔ piʔi-za sɛra	I man-NOM.SG.1SG trousers-NOM.PL.3SG put_on(PFV).3SG.S	‘My friend put on his trousers’.		я мужчина-NOM.SG.1SG штаны-NOM.PL.3SG надеть.3SG.S	‘Мой товарищ надел штаны’.		
+46	51	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	52	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	53	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	54	padi	NOM	DAT	Y	NOM_DAT	pexee dʲizi sare bi-t padi-e-zʔ	outdoors.ADJ cauldron rain water-DAT.SG fill(PFV)-M-3SG.M	‘The outdoor bucket filled with rain water’.		улица котел дождь вода-DAT.SG наполниться-M-3SG.M	‘Уличное ведро наполнилось дождевой водой’.		
+46	55	ko	NOM	OBL	TR	TR	modʲi kasa-jʔ nɛɛ-da sɔjeeʔ koɔ-za	I man-NOM.SG.1SG needle-OBL.SG.3SG just_now find(PFV)-3SG.SOsg	‘My friend has just found his needle’.		я мужчина-NOM.SG.1SG игла-OBL.SG.3SG только_что найти-3SG.SOsg	‘Мой товарищ только что нашел иголку’.		
+46	56	tɔɔri + NEG	TOP	NOM	X	TOP_NOM	modʲi kasa-jʔ ŋo-lʲu bɛse-za nʲi tɔɔri-ʔ	I man-NOM.SG.1SG one-RESTR iron-NOM.SG.3SG NEG.3SG.S be_enough(IPFV)-CONN	‘My friend lacks one rouble’.		я мужчина-NOM.SG.1SG один-RESTR железо-NOM.SG.3SG NEG.3SG.S хватать-CONN	‘Моему товарищу недостает одного рубля’.		
+46	57	nɛseza	NOM	OBL	TR	TR	vasʲa kasa-jʔ nɛseza	PN man-NOM.SG.1SG hate(IPFV).3SG.S	‘Vasja hates my friend’.		PN мужчина-NOM.SG.1SG ненавидеть.3SG.S	‘Вася ненавидит моего товарища’.		
+46	58	kɔmita	NOM	OBL	TR	TR	modʲi kasa-jʔ tʃike lubaxa kɔmita-za 	I man-NOM.SG.1SG this cloth like(IPFV)-3SG.SOsg 	‘My friend likes this shirt’.		я мужчина-NOM.SG.1SG этот ткань нравиться-3SG.SOsg	‘Моему товарищу нравится эта рубашка’.		
+46	59	magu	NOM	OBL	TR	TR	modʲi kasa-jʔ bɛse maguɔ	I man-NOM.SG.1SG iron be_in_need(IPFV).3SG.S	‘My friend needs money’.		я мужчина-NOM.SG.1SG железо нуждаться.3SG.S	‘Мой товарищ нуждается в деньгах’.		
+46	60	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	61	kaji	TOP	NOM	X	TOP_NOM	modʲi kasa-jʔ dʲuʔ bɛse-za kaja	I man-NOM.SG.1SG hundred iron-NOM.SG.3SG stay_behind(PFV).3SG.S	‘My friend has one hundred roubles left’.		я мужчина-NOM.SG.1SG сто железо-NOM.SG.3SG остаться.3SG.S	‘У моего товарища осталось сто рублей’.		
+46	62	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	63	nɛte	NOM	OBL	TR	TR	modʲi kasa-jʔ banka nɛti-za	I man-NOM.SG.1SG jar open(PFV)-3SG.SOsg	‘My friend opened the jar’.		я мужчина-NOM.SG.1SG банка открыть-3SG.SOsg	‘Мой товарищ открыл банку’.		
+46	64	dʲɔgode	NOM	ABL	Y	NOM_ABL	modʲi lubaxa-jʔ uuʔ lubaxa-xazo-d dʲɔgode	I cloth-NOM.SG.1SG you cloth-ABL.SG-OBL.SG.2SG another	‘My shirt is different from your shirt’.	Non-verbal predicate.	я ткань-NOM.SG.1SG ты ткань-ABL.SG-OBL.SG.2SG другой	‘Моя рубашка отличается от твоей’.		
+46	65	kaji	NOM	ABL	Y	NOM_ABL	vasʲa kasa-xazo-da kaji-bi	PN man-ABL.SG-OBL.SG.3SG stay_behind(PFV)-PRF.3SG.S	‘Vasja fell behind his friend’.		PN мужчина-ABL.SG-OBL.SG.3SG остаться-PRF.3SG.S	‘Вася отстал от своего товарища’.		
+46	66	kɔbuda	NOM	OBL	TR	TR	rosa-ʔ dʲa kɔbuda-ʔ	Russian-PL place skin(IPFV)-3PL.S	‘The Russians scrape the ground’.		русский-PL земля обдирать-3PL.S	‘Русские обдирают землю’.		
+46	67	ɔtis	NOM	LOC	Y	NOM_LOC	modʲi uzi-nʲiʔ kare-xon ɔtiʔɛ-ʔ	I hand-PL.1SG fish-LOC.SG smell(IPFV)-3PL.S	‘My hands smell of fish’.		я рука-PL.1SG рыба-LOC.SG пахнуть-3PL.S	‘Мои руки пахнут рыбой’.		
+46	68	kanʲe	NOM	OBLnoru	Y	NOM_OBLnoru	modʲi kasa-jʔ sɛxɛri nɔruʔ kanʲi	I man-NOM.SG.1SG road across leave(PFV).3SG.S	‘My friend crossed the road’.		я мужчина-NOM.SG.1SG дорога поперек уйти.3SG.S	‘Мой товарищ перешел через дорогу’.		
+46	69	kinus	NOM	OBL	TR	TR	modʲi kasa-jʔ sɔjza bare kinuʔɔ	I man-NOM.SG.1SG good song sing(PFV).3SG.S	‘My friend sang a beautiful song’.		я мужчина-NOM.SG.1SG хороший песня спеть.3SG.S	‘Мой товарищ спел красивую песню’.		
+46	70	pazu	NOM	OBL	TR	TR	modʲi kasa-jʔ pazur paza	I man-NOM.SG.1SG paper write(PFV).3SG.S	‘My friend wrote a letter’.		я мужчина-NOM.SG.1SG бумага написать.3SG.S	‘Мой товарищ написал письмо’.		
+46	71	ixuru	NOM	OBL	TR	TR	kasa-jʔ tetʃi-za biz ixura	man-NOM.SG.1SG be_cold(IPFV)-PTCP.SIM water.OBL drink(PFV).3SG.S	‘My friend drank cold water’.		мужчина-NOM.SG.1SG быть_холодным-PTCP.SIM вода.OBL выпить.3SG.S	‘Мой товарищ выпил холодной воды’.		
+46	72	dʲuta	NOM	OBL	TR	TR	modʲi kasa-jʔ salba-da dʲuta	I man-NOM.SG.1SG ice-OBL.SG.3SG heat(PFV).3SG.S	‘My friend melted the ice’.		я мужчина-NOM.SG.1SG лед-OBL.SG.3SG согреть.3SG.S	‘Мой товарищ расплавил лед’.		
+46	73	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	74	kaji	NOM	OBL	TR	TR	modʲi kasa-jʔ sɔja-j-da dʲa-da kaji-za	I man-NOM.SG.1SG be_born(PFV)-PTCP.ANT-OBL.SG.3SG place-OBL.SG.3SG leave_behind(PFV)-3SG.SOsg	‘My friend left his native land’.		я мужчина-NOM.SG.1SG родиться-PTCP.ANT-OBL.SG.3SG место-OBL.SG.3SG оставить-3SG.SOsg	‘Мой товарищ оставил родную землю’.		
+46	75	sɛja	NOM	OBL	TR	TR	koba lata tʃuktʃi sɛja-za	skin board all close(PFV)-3SG.SOsg	‘The skin covers the whole floor’.		шкура доска весь закрыть-3SG.SOsg	‘Шкура покрыла весь пол’.		
+46	76	biis	NOM	OBL	TR	TR	modʲi kasa-jʔ sɔja-j-da kamozo-da sɔjza-an biiʔɛ-za	I man-NOM.SG.1SG be_born(PFV)-PTCP.ANT-OBL.SG.3SG house-OBL.SG.3SG good-PROL.SG remember(IPFV)-3SG.SOsg	‘My friend remembers well the house where he was born’.		я мужчина-NOM.SG.1SG родиться-PTCP.ANT-OBL.SG.3SG дом-OBL.SG.3SG хороший-PROL.SG помнить-3SG.SOsg	‘Мой товарищ хорошо помнит дом, в котором родился’.		
+46	77	pɛrezi	NOM	OBL	TR	TR	modʲi kasa-jʔ vasʲa-da pɛrezie-za	I man-NOM.SG.1SG PN-OBL.SG.3SG help(PFV)-3SG.SOsg	‘My friend helped Vasja’.		я мужчина-NOM.SG.1SG PN-OBL.SG.3SG помочь-3SG.SOsg	‘Мой товарищ помог Васе’.		
+46	78	kameku	NOM	OBL	TR	TR	modʲi kasa-jʔ dʲurak baza kamekuɔ-za	I man-NOM.SG.1SG Nenets language understand(IPFV)-3SG.SOsg	‘My friend understands the Nenets language’.		я мужчина-NOM.SG.1SG ненец язык понимать-3SG.SOsg	‘Мой товарищ понимает ненецкий язык’.		
+46	79	tɛbu	NOM	DAT	Y	NOM_DAT	kiu tu tɛxɛ pɛ-d tɛba	thunder fire there(loc) wood-DAT.SG hit(PFV).3SG.S	‘Lightning hit that tree’.		гром огонь там(loc) дерево-DAT.SG попасть.3SG.S	‘Молния попала в то дерево’.		
+46	80	mɔta	NOM	LOC	Y	NOM_LOC	modʲi kasa-jʔ uzi-da mɔta kɔru-d	I man-NOM.SG.1SG hand-OBL.PL.3SG cut(PFV).3SG.S knife-DAT.SG	‘My friend cut his hand with the knife’.		я мужчина-NOM.SG.1SG рука-OBL.SG.3SG отрезать.3SG.S нож-DAT.SG	‘Мой товарищ порезал руку ножом’.		
+46	81	tɔzu	NOM	DAT	Y	NOM_DAT	kizi stɔlu-d tɔzu-bi	vessel table-DAT.SG stick(PFV)-PRF.3SG.S	‘The cup got stuck to the table’.		посуда стол-DAT.SG прилипнуть-PRF.3SG.S	‘Чашка прилипла к столу’.		
+46	82	mɔtelta	NOM	DAT	Y	NOM_DAT	modʲi genka-xa-nʲiʔ tʃasi-jʔ mɔtelta-u	I PN-DAT.SG-OBL.SG.1SG watch-NOM.SG.1SG lose(PFV)-1SG.SOsg	‘I lost my watch to Genka’.		я PN-DAT.SG-OBL.SG.1SG часы-NOM.SG.1SG проиграть-1SG.SOsg	‘Я проиграл Генке часы’.		
+46	83	ɛdiu	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ pazu-go-da ɛdema	I man-NOM.SG.1SG paper-DAT.SG-OBL.SG.3SG become_glad(PFV).3SG.S	‘My friend was glad about the letter’.		я мужчина-NOM.SG.1SG бумага-DAT.SG-OBL.SG.3SG обрадоваться.3SG.S	‘Мой товарищ обрадовался письму’.		
+46	84	dʲɔrir	NOM	LOC	Y	NOM_LOC	kasa-jʔ vasʲa-xane-da dʲɔriŋa	man-NOM.SG.1SG PN-LOC.SG-OBL.SG.3SG talk(IPFV).3SG.S	‘My friend is speaking with Vasja’.		мужчина-NOM.SG.1SG PN-LOC.SG-OBL.SG.3SG разговаривать.3SG.S	‘Мой товарищ разговаривает с Васей’.		
+46	85	sɔja	TOP	NOM	X	TOP_NOM	modʲi nɛ nʲe-jʔ kasa nʲe-za sɔja-ʃ	I woman child-NOM.SG.1SG man child-NOM.SG.3SG be_born(PFV)-3SG.S.PST	‘My daughter gave birth to a son’.		я женщина ребенок-NOM.SG.1SG мужчина ребенок-NOM.SG.3SG родиться-3SG.S.PST	‘Моя дочь родила сына’.		
+46	86	sumuɔjta	NOM	OBL	TR	TR	modʲi kasa-jʔ tʃaʃka-da sumuɔjta-za	I man-NOM.SG.1SG cup-OBL.SG.3SG drop(PFV)-3SG.SOsg	‘My friend dropped his cup’.		я мужчина-NOM.SG.1SG чашка-OBL.SG.3SG уронить-3SG.SOsg	‘Мой товарищ уронил чашку’.		
+46	87	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	88	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	89	dʲazu	NOM	OBLpon	Y	NOM_OBLpoon	vasʲa kasa-da pɔɔn dʲaza	PN man-OBL.SG.3SG behind go(IPFV).3SG.S	‘Vasja is following his friend’.		PN мужчина-OBL.SG.3SG за идти.3SG.S	‘Вася идет за своим товарищем’.		
+46	90	kaʔa	NOM	OBLniz	Y	NOM_OBLniz	modʲi kasa-jʔ buranu-da nʲi-z dʲa nʲi-ʔ kaʔ-e-zʔ	I man-NOM.SG.1SG snowmobile-OBL.SG.3SG surface-ABL place surface-DAT come_down(PFV)-M-3SG.M	‘My friend got down from the snowmobile to the ground’.		я мужчина-NOM.SG.1SG снегоход-OBL.SG.3SG поверхность-ABL место поверхность-DAT спуститься-M-3SG.M	‘Мой товарищ слез со снегохода на землю’.		
+46	91	dʲuzire	NOM	OBL	TR	TR	modʲi kasa-jʔ spidola-da dʲuzire	I man-NOM.SG.1SG portable_radioset-OBL.SG.3SG listen(IPFV).3SG.S	‘My friend is listening to radio’.		я мужчина-NOM.SG.1SG портативный_радиоприемник-OBL.SG.3SG слушать.3SG.S	‘Мой товарищ слушает радио’.		
+46	92	dʲuzire	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ ɛɛ-xo-da dʲuzire-ubi	I man-NOM.SG.1SG mother-DAT.SG-OBL.SG.3SG listen(IPFV)-HAB.3SG.S	‘My friend obeys his mother’.		я мужчина-NOM.SG.1SG мать-DAT.SG-OBL.SG.3SG слушать-HAB.3SG.S	‘Мой товарищ слушается свою маму’.		
+46	93	nɔdos	NOM	OBL	TR	TR	modʲi kasa-jʔ entʃeu soo-ʔ nɔdoʔɔ	I man-NOM.SG.1SG person.OBL throat-PL hear(IPFV).3SG.S	‘My friend hears human voices’.		я мужчина-NOM.SG.1SG человек.OBL горло-PL слушать.3SG.S	‘Мой товарищ слышит человеческие голоса’.		
+46	94	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	95	seŋir	NOM	OBLdez	Y	NOM_OBLdez	kasa-jʔ ŋa dʲez seŋiŋa	man-NOM.SG.1SG sky in_the_direction look(IPFV).3SG.S	‘My friend is looking at the sky’.		мужчина-NOM.SG.1SG небо в_сторону смотреть.3SG.S	‘Мой товарищ смотрит на небо’.		
+46	96	dʲika	NOM	OBL	TR	TR	modʲi kasa-jʔ lubaxa-da dʲika	I man-NOM.SG.1SG cloth-OBL.SG.3SG take_off(PFV).3SG.S	‘My friend took off his shirt’.		я мужчина-NOM.SG.1SG ткань-OBL.SG.3SG снять.3SG.S	‘Мой товарищ снял рубашку’.		
+46	97	dʲukoneda mɔdee	NOM	OBL	TR	TR	modʲi kasa-jʔ dʲu-kone-da ese-da mɔdee-ubi	I man-NOM.SG.1SG dream-LOC.SG-OBL.SG.3SG father-OBL.SG.3SG see(IPFV)-HAB.3SG.S	‘My friend dreams about his father’.		я мужчина-NOM.SG.1SG сон-LOC.SG-OBL.SG.3SG отец-OBL.SG.3SG видеть-HAB.3SG.S	‘Мой товарищ видит во сне отца’.		
+46	98	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	99	kauzur	NOM	LOC	Y	NOM_LOC	modʲi kasa-jʔ nɛ-xone-da kauzu-bi	I man-NOM.SG.1SG woman-LOC.SG-OBL.SG.3SG abuse(IPFV)-PRF.3SG.S	‘My friend had a quarrel with his wife’.		я мужчина-NOM.SG.1SG женщина-LOC.SG-OBL.SG.3SG ругаться-PRF.3SG.S	‘Мой товарищ поссорился с женой’.		
+46	100	*	*	*	*		ɛke tʃaʃka mirzo-za dʲuʔ bɛse	this cup price-NOM.SG.3SG hundred iron	‘The price of this cup is one hundred roubles’.	Not included in the database because Y is expressed as a non-verbal predicate.	этот чашка цена-NOM.SG.3SG сто железо	‘Цена этой чашки — сто рублей’.		
+46	101	dʲɔza	NOM	OBL	TR	TR	modʲi kasa-jʔ ŋaʔu dʲɔza-za	I man-NOM.SG.1SG duck shoot(PFV)-3SG.SOsg	‘My friend shot at the duck’.		я мужчина-NOM.SG.1SG утка выстрелить-3SG.SOsg	‘Мой товарищ выстрелил в утку’.		
+46	102	bata	NOM	OBL	TR	TR	modʲi kasa-jʔ dʲaasa-da dʲizi mi-ʔ bata-bi-za	I man-NOM.SG.1SG flour-OBL.SG.3SG cauldron inside-DAT pour_out(PFV)-PRF-3SG.SOsg	‘My friend poured the flour into the bucket’.		я мужчина-NOM.SG.1SG мука-OBL.SG.3SG котел внутренняя_часть-DAT вылить-PRF-3SG.SOsg	‘Мой товарищ насыпал муку в ведро’.		
+46	103	dʲɔs	NOM	OBL	TR	TR	modʲi kasa-jʔ bɛʃi-za dʲɔʔɔ	I man-NOM.SG.1SG iron-NOM.PL.3SG loose(PFV).3SG.S	‘My friend lost his money’.		я мужчина-NOM.SG.1SG железо-NOM.PL.3SG потерять.3SG.S	‘Мой товарищ потерял деньги’.		
+46	104	sija	NOM	DAT	Y	NOM_DAT	ɔdu dʲɔxa bi-t sija	boat river water-DAT.SG sink(PFV).3SG.S	‘The boat sank in the river’.		лодка река вода-DAT.SG утонуть.3SG.S	‘Лодка утонула в реке’.		
+46	105	kaza	NOM	OBL	TR	TR	modʲi kasa-jʔ saame kaza	I man-NOM.SG.1SG wolf obtain(PFV).3SG.S	‘My friend killed a wolf’.		я мужчина-NOM.SG.1SG волк добыть.3SG.S	‘Мой товарищ убил волка’.		
+46	106	dʲɔzi	NOM	OBL	TR	TR	vasʲa modʲi kasa-jʔ dʲɔzie	PN I man-NOM.SG.1SG hit(PFV).3SG.S	‘Vasja hit my friend’.		PN я мужчина-NOM.SG.1SG ударить.3SG.S	‘Вася ударил моего товарища’.		
+46	107	nʲujza	NOM	OBL	TR	TR	modʲi kasa-jʔ nɛ-da nʲujza	I man-NOM.SG.1SG woman-OBL.SG.3SG kiss(PFV).3SG.S	‘My friend kissed his wife’.		я мужчина-NOM.SG.1SG женщина-OBL.SG.3SG поцеловать.3SG.S	‘Мой товарищ поцеловал свою жену’.		
+46	108	tota	NOM	OBL	TR	TR	modʲi kasa-jʔ pazu-da tota-za	I man-NOM.SG.1SG paper-OBL.SG.3SG count(PFV)-3SG.SOsg	‘My friend read the letter’.		я мужчина-NOM.SG.1SG бумага-OBL.SG.3SG сосчитать-3SG.SOsg	‘Мой товарищ прочитал письмо’.		
+46	109	buzida	NOM	LOC	Y	NOM_LOC	modʲi kasa-jʔ ŋo-lʲu tʃubaj-xone-da buzida-da	I man-NOM.SG.1SG one-RESTR finger-LOC.SG-OBL.SG.3SG move(PFV)-FUT.3SG.S	‘My friend will move one finger’.		я мужчина-NOM.SG.1SG один-RESTR палец-LOC.SG-OBL.SG.3SG пошевелить-FUT.3SG.S	‘Мой товарищ одним пальцем пошевелит’.		
+46	110	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	111	nɔsoza	NOM	OBL	TR	TR	ɛke nɛ modʲinaʔ kizi-naʔ nɔsoza	this woman we vessel-PL.1PL be_squeamish(IPFV).3SG.S	‘This woman is squeamish about our dishes’.		этот женщина мы посуда-PL.1PL брезговать.3SG.S	‘Эта женщина брезгует нашей посудой’.		
+46	112	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	113	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	114	dʲeɔdur	NOM	DAT	Y	NOM_DAT	kasa-jʔ nɛ-xo-da dʲeɔduŋa	man-NOM.SG.1SG woman-DAT.SG-OBL.SG.3SG trust(IPFV).3SG.S	‘My friend trusts his wife’.		мужчина-NOM.SG.1SG женщина-DAT.SG-OBL.SG.3SG доверять.3SG.S	‘Мой товарищ доверяет своей жене’.		
+46	115	sɛr	NOM	OBL	TR	TR	kasa-jʔ ɛɛ-da aga-an sɛŋa-za	man-NOM.SG.1SG mother-OBL.SG.3SG big-PROL.SG feel_sorry_for(IPFV)-3SG.SOsg	‘My friend sympathizes with his mother a lot’.		мужчина-NOM.SG.1SG мать-OBL.SG.3SG большой-PROL.SG жалеть-3SG.SOsg	‘Мой товарищ очень жалеет свою мать’.		
+46	116	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	117	barzir	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ vasʲa-xa-da barziŋa	I man-NOM.SG.1SG PN-DAT.SG-OBL.SG.3SG be_angry(IPFV).3SG.S	‘My friend is angry with Vasja’.		я мужчина-NOM.SG.1SG PN-DAT.SG-OBL.SG.3SG сердиться.3SG.S	‘Мой товарищ сердится на Васю’.		
+46	118	dʲɔke	NOM	ABL	Y	NOM_ABL	modʲi kasa-jʔ mɛzesi-xozo-da dʲɔkee	I man-NOM.SG.1SG gift-ABL.SG-OBL.SG.3SG be_surprised(PFV).3SG.S	‘My friend was surprised at the gift’.		я мужчина-NOM.SG.1SG подарок-ABL.SG-OBL.SG.3SG удивиться.3SG.S	‘Мой товарищ удивился подарку’.		
+46	119	kɔmita	NOM	OBL	TR	TR	modʲi kasa-jʔ kare kɔmita	I man-NOM.SG.1SG fish like(IPFV).3SG.S	‘My friend likes fish’.		я мужчина-NOM.SG.1SG рыба любить.3SG.S	‘Мой товарищ любит рыбу’.		
+46	120	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	121	kɔma	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ meju ɔdu-d kɔma	I man-NOM.SG.1SG new boat-DAT.SG want(IPFV).3SG.S	‘My friend wants a new boat’.		я мужчина-NOM.SG.1SG новый лодка-DAT.SG хотеть.3SG.S	‘Мой товарищ хочет новую лодку’.		
+46	122	barzir	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ vasʲa-xa-da barziŋa	I man-NOM.SG.1SG PN-DAT.SG-OBL.SG.3SG be_angry(IPFV).3SG.S	‘My friend is angry with Vasja’.		я мужчина-NOM.SG.1SG PN-DAT.SG-OBL.SG.3SG сердиться.3SG.S	‘Мой товарищ сердится на Васю’.		
+46	123	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	124	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	125	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	126	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	127	baruu	NOM	ABL	Y	NOM_ABL	modʲi kasa-jʔ kasa nʲe-xozo-da baruma	I man-NOM.SG.1SG man child-ABL.SG-OBL.SG.3SG get_angry(PFV).3SG.S	‘My friend got upset with his son’.		я мужчина-NOM.SG.1SG мужчина ребенок-ABL.SG-OBL.SG.3SG рассердиться.3SG.S	‘Мой товарищ огорчился из-за своего сына’.		
+46	128	bɔbur	NOM	OBLdez	Y	NOM_OBLdez	modʲi kasa-jʔ nɛ nʲe-da dʲez bɔbuŋa	I man-NOM.SG.1SG woman child-OBL.SG.3SG in_the_direction grumble(IPFV).3SG.S	‘My friend grumbles at his daughter’.		я мужчина-NOM.SG.1SG женщина ребенок-OBL.SG.3SG в_сторону ворчать.3SG.S	‘Мой товарищ ворчит на свою дочь’.		
+46	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+46	130	pajartur	NOM	ABL	Y	NOM_ABL	modʲi kasa-jʔ page-xito-ta pajartuŋa	I man-NOM.SG.1SG outerwear-ABL.PL-OBL.SG.3SG be_shy(IPFV).3SG.S	‘My friend is shy about his clothes’.		я мужчина-NOM.SG.1SG верхняя_одежда-ABL.PL-OBL.SG.3SG стесняться.3SG.S	‘Мой товарищ стесняется своей одежды’.		
 83	1	jeʃ	*	*	*		le Pinχas jeʃ koev roʃ	to Pinchas there.is[PRS] pain head	‘P. has a headache.’	Not included in the dataset because Y is expressed as an NP-internal modifier.				
 83	2	jeʃ	le	SBJ	X	le_SBJ	le Pinχas jeʃ ʃapaat	to Pinchas there.is[PRS] flu	‘P. has flu.’					
 83	3	mefaχed	SBJ	mi	Y	SBJ_mi	Pinχas mefaχed me ha kelev	Pinchas be.afraid[SG.M] from DEF dog	‘P. is afraid of the dog.’					
@@ -519,136 +649,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 83	128	mitatsben	SBJ	al	Y	SBJ_al	Pinχas mitatsben al ha bat ʃel-o	Pinχas become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M	‘P. is getting irritated with his daughter.’					
 83	129	meχabev	SBJ	DO	TR	TR	Pinχas meχabev et Menaχem	Pinchas like[PTCP.SG.M] DO Menachem	‘P. is fond of M.’					
 83	130	mitbajeʃ	SBJ	be	Y	SBJ_be	Pinχas mitbajeʃ ba gova ʃel-o	Pinchas be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M	‘P. is embarrased about his height.’					
-68	1	<>edda-	ATR	NOM	X	ATR_NOM	rasul-dɨ huq’ul w-edda-r-a	PN-ATR head(NOM) 3-hurt.IPFV-CVB-be	‘У Расула болит голова.’					
-68	2	jiˁχɨˁ-	DAT	NOM	X	DAT_NOM	rasul-ɨ-s grip jiˁχɨˁ-r-a	PN-OBL-DAT influenza(NOM) 4.hit.PFV-CVB-AUX	‘Расул болеет гриппом.’					
-68	3	gič’e-	DAT	SUP.EL	XY	DAT_SUP.EL	rasul-u-s gič’e-r-a tɨlɨja-la	PN-OBL-DAT fear.IPFV-CVB-be dog.OBL(SUP)-EL	‘Расул боится собаки.’					
-68	4	χač’ɨ<>χi	ERG	NOM	TR	TR	rasul-a dahar χa-č’-i<b>χɨ-r	PN-ERG rock(NOM) PV-PV-<3>throw.PFV-CVB	‘Расул бросил камень.’					
-68	5	re<>q’a	DAT	NOM	X	DAT_NOM	rasul-u-s šiɁi-bɨr ʁe-jq’a-r-a	PN-OBL-DAT money-PL(NOM) PV-NPL.be.enough.IPFV-CVB-be	‘Расулу хватает денег.’					
-68	6	k<>i<>ka	NOM	CONT	Y	NOM_CONT	rasul k-ika-r-a ramazan-ɨ-k	PN(NOM) PV-1.be.similar.IPFV-CVB-be PN-OBL-CONT	‘Расул похож на Рамазана.’					
-68	7	inamiš + COP	NOM	SUP	Y	NOM_SUP	rasul inamiš jiʔi ramazan-ɨ	PN(NOM) believe 1.COP1 PN-OBL(SUP)	‘Расул верит Рамазану.’	Non-verbal predicate.				
-68	8	le<>šu	ERG	NOM	TR	TR	rasul-a l-ešu-r kitab	PN-ERG PV-1.take.PFV-CVB book(NOM)	‘Расул взял книгу.’					
-68	9	ʁa<>gᵂa	DAT	NOM	X	DAT_NOM	rasul-u-s ʁ-argᵂa-r-a χal	PN-OBL-DAT PV-4.see.IPFV-CVB-be house(NOM)	‘Расул видит дом.’					
-68	10	*	*	*	*		q’aˁs-wol-i-kan išɨʁ ʁa-qʷ-argʷa-r-diš	old-ABSTR-OBL-COM light PV-RE-4.see.IPFV-CVB-NEG	‘Со старостью свет не вижу.’	Not included in the dataset because the translation deviates too far from the stimulus sentence.				
-68	11	giˁ-χɨˁ	DAT	NOM	X	DAT_NOM	rasul-u-s ramazan giˁ-χɨˁ-r	PN-OBL-DAT PN(NOM) PV-1.meet.PFV-CVB	‘Расул встретился с Рамазаном.’					
-68	12	Ɂeču	NOM	IN	Y	NOM_IN	rasul χal-a eč’u-r-a	PN(NOM) house-IN PV.1.enter.PFV-AUX	‘Расул вошёл в дом.’					
-68	13	li<b>t’ɨ	ERG	SUP	Y	ERG_SUP	rasul-a l-i<b>t’ɨ-r-a ramazan-ɨ	PN-ERG PV-<3>win.PFV-CVB-be PN-OBL(SUP)	‘Расул выиграл у Рамазана.’					
-68	14	ʁa haˁ<r>χɨˁ	NOM	IN.EL	Y	NOM_IN.EL	rasul χal-a: ʁaɁ haˁ<r>χɨˁ-r	PN(NOM) house-IN.EL outside.LAT <H>leave.PFV-CVB	‘Расул вышел из дома.’					
-68	15	hi-w-irga	ERG	NOM	TR	TR	rasul-a zer hi-w-irga-r-a	PN-ERG cow(NOM) PV-3-drive.IPFV-CVB-be	‘Расул гонит корову.’					
-68	16	q’-u<t’>k’-e hɨɁɨ	ERG	NOM	TR	TR	rasul-a dal q’-u<t’>k’-e hɨɁɨ-r	PN-ERG branch(NOM) PV-<4>bend(INTR)-IMP 4.do.PFV-CVB	‘Расул согнул ветку.’					
-68	17	huxu	ERG	APUD	Y	ERG_APUD	rasul-a huxu-r ramazan-da	PN-ERG 4.tell.PFV-CVB PN-APUD	‘Расул сказал Рамазану.’					
-68	18	χa<>q’	ERG	NOM	TR	TR	rasul-a kitab (χɨl-e) χ-aq’ɨ-r-a	PN-ERG book(NOM) (hand.OBL-IN) PV-4.catch.PFV-CVB-be	‘Расул держит книгу (в руках).’					
-68	19	qe-q-<ø>iq’ɨ-	NOM	POST	Y	NOM_POST	rasul qe-q-iq’ɨ-r-a samira-χda	PN(NOM) PFV-RE-1.catch.up.PFV-CVB-be PN-POST	‘Расул догнал Самиру.’					
-68	20	ezɨ	ERG	NOM	TR	TR	rasul-a zer w-ezɨ-r-a	PN-ERG cow(NOM) 3-milk.PFV-CVB-be	‘Расул подоил корову.’					
-68	21	le-jq’ɨ-	NOM	SUP	Y	NOM_SUP	rasul čejlaʁ-a le-jq’ɨ-r-a	PN(NOM) riverside-OBL(SUP) PV-1.reach.PFV-CVB	‘Расул достиг берега.’					
-68	22	ki<ø>q’ɨ	NOM	CONT	Y	NOM_CONT	rasul masal-ɨ-k ki-q’ɨ-r	PN(NOM) wall-OBL-CONT PV-1.touch.PFV-CVB	‘Расул дотронулся до стены.’					
-68	23	kiči<ø>lqa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan kičilqa-r-a	PN(NOM) PN-OBL-COM <1>fight.IPFV-CVB-be	‘Расул дерётся с Рамазаном.’					
-68	24	ara χa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan ara χ-a	PN(NOM) PN-OBL-COM inside PV-be	‘Расул дружит с Рамазаном’ (букв. ‘Расул вместе с Рамазаном’).	Non-verbal predicate.				
-68	25	fikir <w>-aɁ-a-	ERG	CONT.EL	Y	ERG_CONT.EL	rasul-a samira-k-la fikir w-aɁ-a-r-a	PN-ERG PN-CONT-EL thought 3-do.IPFV-CVB-be	‘Расул думает о Самире.’					
-68	26	li<w>i-	ERG	NOM	TR	TR	rasul-a Ɂeč li<w>i-r	PN-ERG apple(NOM) <3>eat.PFV-CVB	‘Расул съел яблоко.’					
-68	27	<w>-iǯi-	ERG	NOM	TR	TR	rasul-a baluʁ w-iǯi-r-a	PN-ERG fish(NOM) 3-fry.PFV-CVB-be	‘Расул пожарил рыбу.’					
-68	28	güzet haɁa-	ERG	NOM	TR	TR	rasul-a ramazan güzet haɁa-r-a	PN-ERG PN(NOM) wait 1.do.IPFV-CVB-be	‘Расул ждёт Рамазана.’					
-68	29	jik’-ij u<p>χu-	DAT	NOM	X	DAT_NOM	rasulɨ-s tin-baj-dɨ raˀq jik’ij-la u<p>χu-r	PN.OBL-DAT that-CONTR-ATR road(NOM) heart.OBL(SUP)-EL <3>LV.PFV-CVB	‘Расул забыл о другой дороге.’					
-68	30	*	*	*	*		ul-id išɨG pet’ ruʔu-r-a q’aˁs-wol-i-kan	eye-ATR light little 4.become-PFV-be old-ABSTR-OBL-COM	‘Зрение ухудшается с возрастом.’	Not included in the dataset because the translation deviates too far from the stimulus sentence.				
-68	31	ses ha<w>ɨ-	ERG	POST	Y	ERG_POST	rasul-a ramazan-ɨ-χda ses ha<w>ɨ-r	PN-ERG PN-OBL-POST sound <3>do.PFV-CVB	‘Расул позвал Рамазана.’					
-68	32	tanɨš hiši-	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan sa sen xura g-i-na tanɨš hiši-d	PN(NOM) PN-OBL-COM one year in.front PV-be-CVB acquainted 1.become.PFV-ATR	‘Расул познакомился с Рамазаном год тому назад.’					
-68	33	hac’-	DAT	NOM	X	DAT_NOM	rasul-u-s hac’-a-r-a ramazan	PN-OBL-DAT 1.know-IPFV-CVB-be PN(NOM)	‘Расул знает Рамазана.’					
-68	34	rɨˁχɨˁ-	ERG	NOM	TR	TR	rasul-a saz wɨ-rɨˁχɨˁ-r-a	PN-ERG saz(NOM) 3-hit.IPFV-CVB-be	‘Расул играет на сазе.’					
-68	35	gʲa-ʁaˁbʁu-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul ramazan-ɨ-la: gʲa-ʁaˁbʁu-r-a	PN(NOM) PN-OBL(SUP)-EL PV-1.avoid.PFV-CVB-be	‘Расул избегает Рамазана.’					
-68	36	ha<w>ɨ-	ERG	NOM	TR	TR	rasul-a bomba ha<w>ɨ-r	PN-ERG bomb(NOM) <3>do.PFV-CVB	‘Расул изготовил бомбу.’					
-68	37	jiʁ laɢa-	ERG	SUP	Y	ERG_SUP	rasul-a ramazan-ɨ jiʁ laɢa-r-a	PN-ERG PN-OBL(SUP) mock LV-IPFV-CVB-be	‘Расул издевается над Рамазаном.’					
-68	38	a-ni w-iɁi	POST	NOM	X	POST_NOM	rasul-ɨ-χda mašin a-ni w-iɁi	PN-OBL-POST car(NOM) be-CVB 3-COP	‘У Расула есть машина.’					
-68	39	aramiš haɁa-	ERG	NOM	TR	TR	rasul-a güleg-mar aramiš haɁa-r-a	PN-ERG key-PL(NOM) seek NPL.do.PFV-CVB-be	‘Расул ищет ключи.’					
-68	40	šir jiˀ<w>χaˀ-	ERG	DAT	Y	ERG_DAT	rasul-a čapra-s šir jiˀ<w>χaˀ-r-a	PN-ERG fence.OBL-DAT paint <3>hit.IPFV.IPFV-CVB-be	‘Расул покрасил забор.’					
-68	41	sɨs k-iʔɨ-	ERG	CONT	Y	ERG_CONT	rasul-u-k tɨlɨj-ra sɨs k-iʔɨ-r	PN-OBL-CONT dog.OBL-ERG tooth(NOM) PV-4.LV.PFV-CVB	‘Расула укусила собака.’					
-68	42	ma-diš	ATR	NOM	X	ATR_NOM	rasul-dɨ χal ma-diš	PN-ATR house(NOM) remain-4-NEG	‘Расул лишился дома.’					
-68	43	χo-<w>-ɨrq’-	ERG	NOM	TR	TR	rasul-a get χo-w-ɨrq’-a-r-a	PN-ERG cat(NOM) PV-3-catch.IPFV-CVB-be	‘Расул ловит кошку.’					
-68	44	q’at’ hɨɁɨ-	ERG	NOM	TR	TR	rasul-a t’at’al q’at’ hɨɁɨ-r	PN-ERG stick(NOM) half 4.LV.PFV-CVB	‘Расул сломал палку.’					
-68	45	irz	*	*	*		rasul-a samira r-irz-a-r-a	PN-ERG PN(NOM) 2-praise.IPFV-CVB-be	‘Расул льстит Самире.’	Not included in the database because this translation is semantically inaccurate.				
-68	46	q-ɨg-	DAT	NOM	X	DAT_NOM	rasul-u-s ǯu-du duχ q-ɨg-a-r-a	PN-OBL-DAT self.M.OBL-ATR son(NOM) RE-1.love-IPFV-CVB-be	‘Расул любит сына.’					
-68	47	la-<wɨ>-χa-	ERG	NOM	TR	TR	samira-ra jalɨʁ la-wɨ-χa-r-a	PN-ERG kerchief(NOM) PV-3-wave.IPFV-CVB-be	‘Самира машет платком.’					
-68	48	fikir <w>-aɁa-	*	*	*		rasul-a fikir w-aɁa-r-a c’in-dɨ mašina-d	PN-ERG thought 3-do.IPFv-CVB-be new-ATR car-ATR	‘Расул думает о новой машине.’	Not included in the database because this translation is semantically inaccurate.				
-68	49	ji<d>ʁɨ-	ERG	NOM	TR	TR	samira-ra ist’ek’an ji<d>ʁɨ-r	PN-ERG glass(NOM) <4>wash.PFV-CVB	‘Самира вымыла чашку.’					
-68	50	la-<w>-ɨ-	ERG	NOM	TR	TR	rasul-a badu la-w-ɨ-r	PN-ERG trousers(NOM) PV-3-put.on.PFV-CVB	‘Расул надел штаны.’					
-68	51	dur jiɁi	ATR	PRED	XY	ATR_PRED	mi kar-di-d dur jiɁi kompas	this thing-OBL-ATR name(NOM) 4.be compass(NOM)	‘Этот предмет называется компас.’	Non-verbal predicate.				
-68	52	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-68	53	l-o<w>či-	NOM	SUP	Y	NOM_SUP	si edemij-a l-o<w>či-r	bear(NOM) man-OBL(SUP) PV-<3>attack.PFV-CVB	‘Медведь напал на человека.’					
-68	54	a-c’i-	NOM	ERG	Y	NOM_ERG	widra χiji-ra a-c’i-r-a	bucket water.OBL-ERG PV-4.fill.PFV-CVB-be	‘Ведро наполнилось водой.’					
-68	55	a-gɨ-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: a-gɨ-r-a güleg-mar	PN-APUD.EL PV-NPL.find-PFV-CVB-be key-PL(NOM)	‘Расул нашел ключи.’					
-68	56	ʁe<w>irq’ + NEG	DAT	NOM	X	DAT_NOM	rasul-u-s ʁe-w-irq’-a-r=diš sa manut	PN-OBL-DAT PV-3-be.enough-IPFV-CVB=NEG one rouble(NOM)	‘Расулу недостает одного рубля.’					
-68	57	ul-i-s ʁagu-r hɨga- +NEG	DAT	NOM	X	DAT_NOM	rasul-u-s ramazan ul-i-s ʁagu-r hɨga-r=diš	PN-OBL-DAT PN(NOM) eye-OBL-DAT 1.see.PFV-CVB 4.want.IPFV-CVB=NEG	‘Расул ненавидит Рамазана.’					
-68	58	q’abɨl <wu>-ruɁu-r-a	DAT	NOM	X	DAT_NOM	rasul-u-s q’abɨl wu-ruɁu-r-a mi uχun	PN-OBL-DAT like 3-become.IPFV-CVB-be this shirt(NOM)	‘Расулу нравится эта рубашка.’					
-68	59	hɨga- 	DAT	NOM	X	DAT_NOM	rasul-u-s zar hɨga-r-a	PN-OBL-DAT money 4.want.IPFV-CVB-be	‘Расул нуждается в деньгах.’					
-68	60	ara e-<w>-i-	ERG	NOM	TR	TR	masal-mɨ-ra ara e-w-i-r-a šeher	wall-OBL.PL-ERG around PV-1-close.PFV-CVB-AUX town(NOM)	‘Стены окружают город.’					
-68	61	χa-ma<b>a-	APUD	NOM	X	APUD_NOM	rasul-da χa-ma<b>a-ni w-iɁi jic’ɨ-d manud	PN-APUD PV-<3>remain-CVB 3-COP ten-3 rouble(NOM)	‘У Расула осталось 10 рублей.’					
-68	62	ǯiwab hɨ-	ERG	DAT	Y	ERG_DAT	rasul-a ǯiwab hɨ<w>ɨ-r maʔalim-a-s	PN-ERG answer(NOM) <3>give.PFV-CVB teacher-OBL-DAT	‘Расул ответил учителю.’					
-68	63	ačiχ <w>ɨɁɨ	ERG	NOM	TR	TR	rasul-a bank’a ačɨχ w-ɨɁɨ-r	PN-ERG pot(NOM) open 3-do.PFV-CVB	‘Расул открыл банку.’					
-68	64	mad-dɨ	NOM	SUP.EL	Y	NOM_SUP.EL	iz-dɨ uχun mad-dɨ w-iɁi wɨ-dɨ-ji-la	I-ATR shirt(NOM) other-ATR 3-COP you.SG-ATR-OBL(SUP)-EL	‘Моя рубашка отличается от твоей.’	Non-verbal predicate.				
-68	65	quɁ q-argɨ-	NOM	SUP.EL	Y	NOM_SUP.EL	ramazan quɁ q-argɨ-r rasul-u-la	PN(NOM) back.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Рамазан отстал от Расула.’					
-68	66	lʲ-aˁjχaˁ	ERG	NOM	TR	TR	rasul-a χuj lʲ-aˁjχaˁ-r-a	PN-ERG field(NOM) PV-4.plough.IPFV-CVB-be	‘Расул пашет поле.’					
-68	67	il rɨˁχaˁ-r-a	CONT.EL	ATR	XY	CONT.EL_ATR	ɨz-dɨ χɨla-bɨr-mɨ-k-la benzin-ad il rɨˁχaˁ-r-a	I-ATR hand-PL-OBL.Pl-CONT-EL petrol-ATR smell(NOM) 4.go-IPFV-CVB-be	‘Мои руки пахнут бензином.’					
-68	68	eʁeč'	NOM	IN.EL	Y	NOM_IN.EL	rasul rɨˀɢ-a: tiʔ e-ʁ-eč’u-r	PN(NOM) road.OBL-IN.EL there PV-PV-1.cross.PFV-CVB	‘Ислам пересек дорогу.’					
-68	69	hɨʔɨ	ERG	NOM	TR	TR	rasul-a bat’r-ad maˁɁni hɨʔɨ-r-a	PN-ERG beautiful song(NOM) 4.do.PFV-CVB-be	‘Расул спел красивую песню.’					
-68	70	ki<Ø>x	ERG	NOM	TR	TR	rasul-a pisʲmo k-ixi-r-a	PN-ERG letter(NOM) PV-4.write.PFV-CVB-be	‘Расул написал письмо.’					
-68	71	raˁʁɨˁ-	ERG	NOM	TR	TR	rasul-a nek wa-raˁʁɨˁ-r-a	PN-ERG milk(NOM) 3-drink.PFV-CVB-be	‘Расул выпил молоко.’					
-68	72	jic’-a hɨɁɨ-	ERG	NOM	TR	TR	rasul-a jic’-a hɨɁɨ-r-a-j tike ɢurʁušin-ad	PN-ERG 4.melt-IMP 4.do.PFV-CVB-be-PST piece(NOM) lead-ATR	‘Расул расплавил кусок свинца.’					
-68	73	ruʔu-	NOM	DAT	Y	NOM_DAT	hemi č’il iz-dɨ uχna-s wu-ruʔu-r-a	this belt(NOM) I-ATR dress.OBL-DAT 3-go.IPFV-CVB-be	‘Этот пояс подходит к моему платью.’					
-68	74	q-aˁ<r>hɨˁ-	NOM	IN.EL	Y	NOM_IN.EL	rasul ǯu-dɨ šeher-dʲ-a: q-aˁ<r>hɨˁ-r	PN(NOM) self.OBL-ATR city-OBL-IN.EL RE-<H>leave.PFV-CVB	‘Расул покинул свой город.’					
-68	75	χ-o<w>q’u-	ERG	NOM	TR	TR	χajma-ra χ-o<w>q’u-r-a sin ǯil	carpet-ERG PV-<3>catch.PFV-CVB-be whole floor(NOM)	‘Ковёр покрывает весь пол.’					
-68	76	jik’i ʁa-ma<d>a	DAT	NOM	X	DAT_NOM	rasul-u-s hɨχa-na jik’-i ʁa-ma<d>a juǯ q’ɨxe hiši-d χal	PN-OBL-DAT well heart-OBL(SUP) PV-<3>remain self big 1.become-ATR home(NOM)	‘Расул хорошо помнит дом, где он вырос.’					
-68	77	kumag hɨɁɨ-	ERG	DAT	Y	ERG_DAT	rasul-a nadir-ɨ-s kumag hɨɁɨ-r-a	PN-ERG PN-OBL-DAT help(NOM) 4.do.PFV-CVB-be	‘Расул помог Надиру.’					
-68	78	gi-jirq’-	NOM	POST	Y	NOM_POST	rasul francuskij č’ilɨ-χda gi-jirq’-a-r-a	PN(NOM) french language.OBL-POST PV-1.understand-IPFV-CVB-be	‘Расул понимает французский язык.’					
-68	79	k-iq'ɨr-	NOM	CONT	Y	NOM_CONT	c’aj χal-ɨ-k k-iq’ɨ-r-a	fire(NOM) house-OBL-CONT PV-4.hit.PFV-CVB	‘Молния попала в дом.’					
-68	80	hart’u-	NOM	ERG	Y	NOM_ERG	rɨš kant’-i-ra hart’u-r-a	girl(NOM) knife-OBL-ERG <2>cut.PFV-CVB-be	‘Девочка порезалась бритвой.’					
-68	81	ki-č-i<p>qɨ-	NOM	CONT	Y	NOM_CONT	istek’an isk’am-a-k ki-č-i<p>qɨ-r-a	glass(NOM) table-OBL-CONT PV-PV-<3>stick.PFV-CVB-be	‘Стакан прилип к столу.’					
-68	82	jawa jiši-r-a	NOM	SUP.EL	Y	NOM_SUP.EL	rasul jawa jiši-r-a asijet-ɨ-la	PN(NOM) weak 1.become.PFV-CVB-be PN-OBL(SUP)-EL	‘Расул проиграл Асияд.’					
-68	83	šad j-ɨši-	NOM	DAT	Y	NOM_DAT	rasul kaʁad-a-s šad j-ɨši-r-a	PN(NOM) letter-OBL-DAT joyful 1-become.PFV-CVB-be	‘Расул обрадовался письму.’					
-68	84	halga-	NOM	COM	Y	NOM_COM	rasul nadir-ɨ-kan halga-r-a	PN(NOM) PN-OBL-COM 1.talk.IPFV-CVB-be	‘Расул разговаривает с Асияд.’					
-68	85	jišɨ-	DAT	NOM	X	DAT_NOM	madina-s duχ jišɨ-r-a	PN-DAT son(NOM) 1.become.PFV-CBV-be	‘Мадина родила сына.’					
-68	86	s-i<p>xu-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: saɁ s-i<p>xu-r istek’an	PN-APUD.EL down.LAT PV-<3>fall.PFV-CVB glass(NOM)	‘Расул уронил стакан.’					
-68	87	q’ɨxʲ-waldɨ + w-aɁa-r-a	ERG	DAT	Y	ERG_DAT	rasul-a q’ɨxʲ-waldɨ w-aɁa-r-a ix-dɨ muˀɢ-uˀ-s	PN-ERG elder-ABSTR 3-do.IPFV-CVB-be we.OBL-ATR village-OBL-DAT	‘Расул руководит нашим селом.’					
-68	88	c’ihal jiši-	DAT	POST	XY	DAT_POST	rasul-ɨ-s madinat-ɨ-χda c’ihal jiši-r-a	PN-OBL-DAT PN-OBL-POST longing(NOM) 4.become.PFV-CVB-be	‘Расул скучает по Мадинат.’					
-68	89	xal-e a-na j-iɁi	NOM	ATRzibra	Y	NOM_ATRzibra	rasul xal-e a-na j-iɁi asijet-dɨ ǯibra	PN(NOM) trail-IN be-CVB 1.COP PN-ATR behind	‘Расул следует за Асияд.’					
-68	90	s-e-č’u-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul hejwan-a-la saɁ s-e-č’u-r-a	PN(NOM) horse-OBL(SUP)-EL down.LAT PV-PV-1.get.down.PFV-CVB-be	‘Расул слез с лошади.’					
-68	91	q-assa-	ERG	POST	Y	ERG_POST	islam-a ubɨr q-assa-r-a radio-je-χda	PN-ERG ear PV-4.listen.IPFV-CVB-be radio-OBL-POST	‘Расул слушает радио.’					
-68	92	q-assa-	ERG	POST	Y	ERG_POST	islam-a nin-ɨ-χda ubɨr q-ass-a-r-a	PN-ERG mother-OBL-POST ear PV-1.listen.IPFV-CVB-be-PST	‘Расул слушается маму.’					
-68	93	ses ruɁu-	DAT	ATR	XY	DAT_ATR	rasul-ɨ-s maˁʔnij-mɨ-d ses ruɁu-r	PN-OBL-DAT song-PL.OBL-ATR sound(NOM) 4.come.IPFV-CVB	‘Расул слышит музыку.’					
-68	94	k-i<t>χɨ-r	*	*	*		it=na nek k-i<t>χɨ-r	honey=ADD milk PV-<3>mix.PFV-CVB	‘Мёд смешался с молоком.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-68	95	gʲ-aɢa-	NOM	POST	Y	NOM_POST	rasul gʲ-aɢa-r-a gɨbli-mɨ-χda	PN(NOM) PV-1.look.IPFV-CVB-be cloud-PL.OBL-POST	‘Расул смотрит на тучи.’					
-68	96	saɁ qi-w-	ERG	NOM	TR	TR	rasul-a saɁ qi-w-i-r rubaška	PN-ERG down.LAT RE-take.off-PFV-CVB shirt(NOM)	‘Расул снял рубашку.’					
-68	97	neq’ʲ-e ʁa-ru-	DAT	NOM	X	DAT_NOM	rasul-u-s neq’ʲ-e ʁa-ru-rga-r-a asijet	PN-OBL-DAT dream.OBL-IN PV-2-see.IPFV-CVB-be PN(NOM)	‘Расулу снится Асияд.’					
-68	98	raazi iš-	NOM	COM	Y	NOM_COM	vɨɣɨl raazi jiši-r ɢarija-kan	man(NOM) agreed 1.become.PFV-CVB wife.OBL-COM	‘Расул согласился с Асияд.’					
-68	99	ʁe-ruku-	NOM	COM	Y	NOM_COM	islam ʁe-ruku-r nadir-ɨ-kʷan	Islam(NOM) PV-1.quarrel.PFV-CVB PN-OBL-COM	‘Расул поссорился с Асияд.’					
-68	100	w-iɁi	NOM	DAT	Y	NOM_DAT	mi istek’an sa manut-a-s w-iɁi	this cup(NOM) one ruble-OBL-DAT 3-COP	‘Эта чашка стоит один рубль.’	Non-verbal predicate.				
-68	101	tufang w-iji-	ERG	POST	Y	ERG_POST	rasul-a tufang w-iji-r-a-j šurk-u-χda	PN-ERG gun(NOM) 3-shoot.PFV-CVB-be-PST bird-OBL-POST	‘Расул выстрелил в птицу.’					
-68	102	ki-Ɂɨ-	ERG	NOM	TR	TR	rasul-a pisuk’ ki-Ɂɨ-r-a-j istek’an-e	PN-ERG sugar(NOM) PV-4.add.PFV-CVB-be-ST glass-IN	‘Расул насыпал сахар в стакан.’					
-68	103	su-gu-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: güleg-mar su-gu-r-a	PN-APUD.EL key-PL(NOM) PV-NPL.lose.PFV-CVB-be	‘Расул потерял ключи.’					
-68	104	ara: saɁ k-i<p>xu-r	NOM	IN	Y	NOM_IN	girdɨm xij-e ara: saɁ k-i<p>xu-r	log(NOM) water.OBL-IN inside.EL down.LAT PV-<3>get.to.PFV-CVB-be	‘Полено утонуло в воде.’					
-68	105	<>-iq’-e r-ɨʔɨ-	ERG	NOM	TR	TR	rasul-a r-iq’-e r-ɨʔɨ-r-a asijet	PN-ERG 2-die-IMP 2-do.PFV-CVB-be PN(NOM)	‘Расул убил Асияд.’					
-68	106	liwx-	ERG	SUP.EL	Y	ERG_SUP.EL	rasul-a asijet-ɨ-la ʁaʔ li-w-x-i-r	PN-ERG PN-OBL(SUP)-EL on PV-4.hit-PFV-CVB	‘Расул ударил Асияд.’					
-68	107	k’uxʲ ki-w-ɨ-	ERG	DAT	Y	ERG_DAT	rasul-a k’uxʲ ki-w-ɨ-r madina-s	PN-ERG beak(NOM) PV-3-LV.PFV-CVB PN-DAT	‘Расул поцеловал Мадину.’					
-68	108	q’ɨle hɨɁɨ-r	ERG	NOM	TR	TR	rasul-a q’ɨle hɨɁɨ-r ɢalin-dɨ kitab	PN-ERG read 4.do.PFV-CVB thick-ATR book(NOM)	‘Расул прочитал толстую книгу.’					
-68	109	χ-i<b>g-a w-ɨɁɨ-r	ERG	NOM	TR	TR	rasul-a t’ili χ-i<b>g-a w-ɨɁɨ-r	PN-ERG finger(NOM) PV-<3>move-Imp 3-do.PFV-CVB	‘Расул пошевелил пальцем.’					
-68	110	huˁrmaˁt w-aɁa-r-a	NOM	DAT	Y	NOM_DAT	rasul huˁrmaˁt w-aɁa-r-a asijet-ɨ-s	PN(NOM) respect 3-do.IPFV-CVB-be PN-OBL-DAT	‘Расул уважает Асияд.’					
-68	111	*	*	*	*		rasul-u-s čapaˁl-dɨ ɢab-ɨr ʁagu-jne jik’ mɨq’a jiši-r	PN-OBL-DAT dirty-ATR dish-PL PV-NPL.see.PFV-CVB heart cold 4.become.PFV-CVB	‘При виде грязной посуды у Расула сердце стынет.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-68	112	raazi	NOM	SUP	Y	NOM_SUP	rasul raazi jiɁi ǯu-du duxar-ɨ	PN(NOM) delighted 1.СOP self.M.OBL-ATR son-OBL(SUP)	‘Расул доволен своим сыном.’	Non-verbal predicate.				
-68	113	jik’i-k’ kirx	DAT	NOM	X	DAT_NOM	rasul-u-s jik’i-k k-irx-u-r-a asijed	PN-OBL-DAT heart.OBL-CONT get.in-PFV-CVB-be PN(NOM)	‘Расул влюбился в Асияд.’					
-68	114	ilamiš + COP	NOM	SUP	Y	NOM_SUP	madina ilamiš r-iɁi ǯi-dɨ χɨnχ-ɨ	PN(NOM) trust 2-COP self-ATR child-OBL(SUP)	‘Мадина доверяет своему ребенку.’	Non-verbal predicate.				
-68	115	haˀjiw raɁ-	ERG	NOM	TR	TR	rasul-a haˀjiw r-aɁ-a-r-a ǯʲu-du nin	PN-ERG pity 2-do-IPFV-CVB-be self.M.OBL-ATR mother(NOM)	‘Расул жалеет свою мать.’					
-68	116	paxil	NOM	SUP	Y	NOM_SUP	rasul paxil j-iɁi asijed-ɨ	PN(NOM) envy 1-be(PRS) PN-OBL(SUP)	‘Расул завидует Асияд.’	Non-verbal predicate.				
-68	117	bizar	NOM	SUP.EL	Y	NOM_SUP.EL	rasul bizar j-iɁi asijed-ɨ-la	PN(NOM) irritation 1-be(PRS) PN-OBL(SUP)-EL	‘Расул злится на Асияд.’	Non-verbal predicate.				
-68	118	šak-a iš	NOM	SUP.EL	Y	NOM_SUP.EL	rasul šak-a j-iš-i-r-a ha kar-di-la	PN(NOM) guess-IN 1-become-PFV-CVB-be this thing-OBL(SUP)-EL	‘Расул удивился этому подарку.’					
-68	119	qɨ<Ø>g	DAT	NOM	X	DAT_NOM	rasul-u-s qɨ<Ø>g-a-r-a čej	PN-OBL-DAT <4>love-IPFV-CVB-be tea(NOM)	‘Расул любит чай.’					
-68	120	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-68	121	ɨg	DAT	NOM	X	DAT_NOM	rasul-u-s w-ɨg-a-r-a c’ɨn-dɨ telefon	PN-OBL-DAT 3-want-IPFV-CVB-be new-ATR phone(NOM)	‘Расул хочет новый мобильник.’					
-68	122	sɨrχɨ-r-a	NOM	POST	Y	NOM_POST	islam sɨrχɨ-r-a nadir-ɨ-χda	Islam(NOM) be.mad-?-CVB-be PN-OBL-POST	‘Ислам сердится на Надира.’					
-68	123	χatir Ɂadg-	DAT	SUP.EL	XY	DAT_SUP.EL	rasul-ɨ-s χatir adg-ɨ-r-a asijet-ɨ-la	PN-DAT grudge be.stuck-PFV-CVB-be PN-OBL(SUP)-EL	‘Расул обиделся на Асияд.’					
-68	124	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-68	125	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-68	126	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-68	127	pašʲmal iš-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul pašʲmal j-iš-i-r ǯʲu-du duxarɨ-la	PN(NOM) sadness 1-become-PFV-CVB self.M.OBL-ATR son.OBL(SUP)-EL	‘Расул огорчился из-за своего сына.’					
-68	128	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-68	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-68	130	rɨq ruɁ-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul rɨq ruɁ-u-r-a ǯʲu-du bɨj-a-la	PN(NOM) shame come-IPFV-CVB-be self.M.OBL-ATR stature-OBL(SUP)-EL	‘Расул стесняется своего роста.’					
+68	1	<w>edda-	ATTR	NOM	X	ATTR_NOM	rasul-dɨ huq’ul w-edda-r=a	PN-ATTR head(NOM) 3-hurt.IPFV-CVB=be	‘Rasul has a headache.’		PN-ATTR голова(NOM) 3-болеть.IPFV-CVB=быть	‘У Расула болит голова.’		
+68	2	jiˁχɨˁ-	DAT	NOM	X	DAT_NOM	rasul-u-s grip jiˁχɨˁ-r=a	PN-OBL-DAT influenza(NOM) 4.hit.PFV-CVB=be	‘Rasul has the flu.’		PN-OBL-DAT грипп(NOM) 4.ударить.PFV-CVB=быть	‘Расул болеет гриппом.’		
+68	3	gič’e-	DAT	SUP.EL	XY	DAT_SUP.EL	rasul-u-s gič’e-r=a tɨlɨja-la	PN-OBL-DAT fear.IPFV-CVB=be dog.OBL(SUP)-EL	‘Rasul is afraid of the dog.’		PN-OBL-DAT бояться.IPFV-CVB=быть собака.OBL(SUP)-EL	‘Расул боится собаки.’		
+68	4	χač’ɨ<>χi	ERG	NOM	TR	TR	rasul-a dahar χa-č’-i<b>χɨ-r	PN-ERG rock(NOM) PV-PV-<3>throw.PFV-CVB	‘Rasul threw a stone.’		PN-ERG камень(NOM) PV-PV-<3>бросить.PFV-CVB	‘Расул бросил камень.’		
+68	5	re<>q’a	DAT	NOM	X	DAT_NOM	rasul-u-s šiɁi-bɨr ʁe-jq’a-r=a	PN-OBL-DAT money-PL(NOM) PV-NPL.be.enough.IPFV-CVB=be	‘Rasul has enough money.’		PN-OBL-DAT деньги-PL(NOM) PV-NPL.быть.достаточно.IPFV-CVB=быть	‘Расулу хватает денег.’		
+68	6	k<>i<>ka	NOM	CONT	Y	NOM_CONT	rasul k-ika-r=a ramazan-ɨ-k	PN(NOM) PV-1.be.similar.IPFV-CVB=be PN-OBL-CONT	‘Rasul resembles Ramazan.’		PN(NOM) PV-1.быть.похожим.IPFV-CVB=быть PN-OBL-CONT	‘Расул похож на Рамазана.’		
+68	7	inamiš + COP	NOM	SUP	Y	NOM_SUP	rasul inamiš jiʔi ramazan-ɨ	PN(NOM) believe 1.COP PN-OBL(SUP)	‘Rasul believes Ramazan.’	Non-verbal predicate.	PN(NOM) верить 1.COP PN-OBL(SUP)	‘Расул верит Рамазану.’		
+68	8	le<>šu	ERG	NOM	TR	TR	rasul-a l-ešu-r kitab	PN-ERG PV-1.take.PFV-CVB book(NOM)	‘Rasul took a book.’		PN-ERG PV-1.взять.PFV-CVB книга(NOM)	‘Расул взял книгу.’		
+68	9	ʁa<>gᵂa	DAT	NOM	X	DAT_NOM	rasul-u-s ʁ-argᵂa-r=a χal	PN-OBL-DAT PV-4.see.IPFV-CVB=be house(NOM)	‘Rasul sees a house.’		PN-OBL-DAT PV-4.видеть.IPFV-CVB=быть дом(NOM)	‘Расул видит дом.’		
+68	10	*	*	*	*		q’aˁs-wol-i-kan išɨʁ ʁa-qʷ-argʷa-r-diš	old-ABSTR-OBL-COM light PV-RE-4.see.IPFV-CVB-NEG	‘With age, one becomes unable to see the light.’	Not included in the dataset because the translation deviates too far from the stimulus sentence.	старый-ABSTR-OBL-COM свет PV-RE-4.видеть.IPFV-CVB-NEG	‘Со старостью свет не вижу.’		
+68	11	giˁ-χɨˁ	DAT	NOM	X	DAT_NOM	rasul-u-s ramazan giˁ-χɨˁ-r	PN-OBL-DAT PN(NOM) PV-1.meet.PFV-CVB	‘Rasul ran into Ramazan.’		PN-OBL-DAT PN(NOM) PV-1.встретить.PFV-CVB	‘Расул встретился с Рамазаном.’		
+68	12	Ɂeču-	NOM	IN	Y	NOM_IN	rasul χal-a eč’u-r=a	PN(NOM) house-IN PV.1.enter.PFV-CVB=be	‘Rasul entered the house.’		PN(NOM) дом-IN PV.1.войти.PFV-CVB=быть	‘Расул вошёл в дом.’		
+68	13	li<b>t’ɨ	ERG	SUP	Y	ERG_SUP	rasul-a l-i<b>t’ɨ-r=a ramazan-ɨ	PN-ERG PV-<3>win.PFV-CVB=be PN-OBL(SUP)	‘Rasul beat Ramazan.’		PN-ERG PV-<3>выиграть.PFV-CVB=быть PN-OBL(SUP)	‘Расул выиграл у Рамазана.’		
+68	14	ʁa haˁ<r>χɨˁ	NOM	IN.EL	Y	NOM_IN.EL	rasul χal-a: ʁaɁ haˁ<r>χɨˁ-r	PN(NOM) house-IN.EL outside.LAT <1>leave.PFV-CVB	‘Rasul went out of the house.’		PN(NOM) дом-IN.EL наружа.LAT <1>выйти.PFV-CVB	‘Расул вышел из дома.’		
+68	15	hi-w-irga	ERG	NOM	TR	TR	rasul-a zer hi-w-irga-r=a	PN-ERG cow(NOM) PV-3-drive.IPFV-CVB=be	‘Rasul is driving the cow.’		PN-ERG корова(NOM) PV-3-гнать.IPFV-CVB=быть	‘Расул гонит корову.’		
+68	16	q’-u<t’>k’-e hɨɁɨ	ERG	NOM	TR	TR	rasul-a dal q’-u<t’>k’-e hɨɁɨ-r	PN-ERG branch(NOM) PV-<4>bend(INTR)-IMP 4.do.PFV-CVB	‘Rasul bent the branch.’		PN-ERG ветка(NOM) PV-<4>гнуть(INTR)-IMP 4.делать.PFV-CVB	‘Расул согнул ветку.’		
+68	17	huxu	ERG	APUD	Y	ERG_APUD	rasul-a huxu-r ramazan-da	PN-ERG 4.tell.PFV-CVB PN-APUD	‘Rasul told Ramazan.’		PN-ERG 4.сказать.PFV-CVB PN-APUD	‘Расул сказал Рамазану.’		
+68	18	χa<>q’	ERG	NOM	TR	TR	rasul-a kitab (χɨl-e) χ-aq’ɨ-r=a	PN-ERG book(NOM) (hand.OBL-IN) PV-4.catch.PFV-CVB=be	‘Rasul is holding a book (in his hands).’		PN-ERG книга(NOM) (рука.OBL-IN) PV-4.хватать.PFV-CVB=быть	‘Расул держит книгу (в руках).’		
+68	19	qe-q-<ø>iq’ɨ-	NOM	POST	Y	NOM_POST	rasul qe-q-iq’ɨ-r=a samira-χda	PN(NOM) PV-RE-1.catch.up.PFV-CVB=be PN-POST	‘Rasul caught up with Samira.’		PN(NOM) PV-RE-1.догнать.PFV-CVB=быть PN-POST	‘Расул догнал Самиру.’		
+68	20	ezɨ	ERG	NOM	TR	TR	rasul-a zer w-ezɨ-r=a	PN-ERG cow(NOM) 3-milk.PFV-CVB=be	‘Rasul milked the cow.’		PN-ERG корова(NOM) 3-доить.PFV-CVB=быть	‘Расул подоил корову.’		
+68	21	le-jq’ɨ-	NOM	SUP	Y	NOM_SUP	rasul čejlaʁ-a le-jq’ɨ-r=a	PN(NOM) riverside-OBL(SUP) PV-1.reach.PFV-CVB=be	‘Rasul reached the bank.’		PN(NOM) берег.реки-OBL(SUP) PV-1.достичь.PFV-CVB=быть	‘Расул достиг берега.’		
+68	22	ki<ø>q’ɨ	NOM	CONT	Y	NOM_CONT	rasul masal-ɨ-k ki-q’ɨ-r	PN(NOM) wall-OBL-CONT PV-1.touch.PFV-CVB	‘Rasul touched the wall.’		PN(NOM) стена-OBL-CONT PV-1.касаться.PFV-CVB	‘Расул дотронулся до стены.’		
+68	23	kiči<ø>lqa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan kičilqa-r=a	PN(NOM) PN-OBL-COM <1>fight.IPFV-CVB=be	‘Rasul is fighting with Ramazan.’		PN(NOM) PN-OBL-COM <1>драться.IPFV-CVB=быть	‘Расул дерётся с Рамазаном.’		
+68	24	ara χa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan ara χ-a	PN(NOM) PN-OBL-COM inside PV-be	‘Rasul is friends with Ramazan’ (lit. ‘Rasul is together with Ramazan’).	Non-verbal predicate.	PN(NOM) PN-OBL-COM внутри PV-быть	‘Расул дружит с Рамазаном’ (букв. ‘Расул вместе с Рамазаном’).		
+68	25	fikir <w>-aɁ-a-	ERG	CONT.EL	Y	ERG_CONT.EL	rasul-a samira-k-la fikir w-aɁa-r=a	PN-ERG PN-CONT-EL thought 3-do.IPFV-CVB=be	‘Rasul is thinking about Samira.’		PN-ERG PN-CONT-EL мысль 3-делать.IPFV-CVB=быть	‘Расул думает о Самире.’		
+68	26	li<w>i-	ERG	NOM	TR	TR	rasul-a Ɂeč li<w>i-r	PN-ERG apple(NOM) <3>eat.PFV-CVB	‘Rasul ate an apple.’		PN-ERG яблоко(NOM) <3>есть.PFV-CVB	‘Расул съел яблоко.’		
+68	27	<w>-iǯi-	ERG	NOM	TR	TR	rasul-a baluʁ w-iǯi-r=a	PN-ERG fish(NOM) 3-fry.PFV-CVB=be	‘Rasul fried the fish.’		PN-ERG рыба(NOM) 3-жарить.PFV-CVB=быть	‘Расул пожарил рыбу.’		
+68	28	güzet haɁa-	ERG	NOM	TR	TR	rasul-a ramazan güzet haɁa-r=a	PN-ERG PN(NOM) wait 1.do.IPFV-CVB=be	‘Rasul is waiting for Ramazan.’		PN-ERG PN(NOM) ждать 1.делать.IPFV-CVB=быть	‘Расул ждёт Рамазана.’		
+68	29	jik’-ij u<p>χu-	DAT	NOM	X	DAT_NOM	rasulɨ-s tin-baj-dɨ raˀq jik’ij-la u<p>χu-r	PN.OBL-DAT that-CONTR-ATTR road(NOM) heart.OBL(SUP)-EL <3>LV.PFV-CVB	‘Rasul forgot about the other road.’		PN.OBL-DAT тот-CONTR-ATTR дорога(NOM) сердце.OBL(SUP)-EL <3>LV.PFV-CVB	‘Расул забыл о другой дороге.’		
+68	30	*	*	*	*		ul-id išɨɢ pet’ ruʔu-r=a q’aˁs-wol-i-kan	eye-ATTR light little 4.become.IPFV-CVB=be old-ABSTR-OBL-COM	‘Sight deteriorates with age.’	Not included in the dataset because the translation deviates too far from the stimulus sentence.	глаз-ATTR свет маленький 4.стать.IPFV-CVB=быть старый-ABSTR-OBL-COM	‘Зрение ухудшается с возрастом.’		
+68	31	ses ha<w>ɨ-	ERG	POST	Y	ERG_POST	rasul-a ramazan-ɨ-χda ses ha<w>ɨ-r	PN-ERG PN-OBL-POST sound <3>do.PFV-CVB	‘Rasul called Ramazan.’		PN-ERG PN-OBL-POST звук <3>делать.PFV-CVB	‘Расул позвал Рамазана.’		
+68	32	tanɨš hiši-	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan sa sen xura gi-na tanɨš jiši-d	PN(NOM) PN-OBL-COM one year in.front SUB.be-CVB acquainted 1.become.PFV-ATTR	‘Rasul got to know Ramazan a year ago.’		PN(NOM) PN-OBL-COM один год перед SUB.быть-CVB знакомый 1.стать.PFV-ATTR	‘Расул познакомился с Рамазаном год тому назад.’		
+68	33	hac’-	DAT	NOM	X	DAT_NOM	rasul-u-s hac’a-r=a ramazan	PN-OBL-DAT 1.know.IPFV-CVB=be PN(NOM)	‘Rasul knows Ramazan.’		PN-OBL-DAT 1.знать.IPFV-CVB=быть PN(NOM)	‘Расул знает Рамазана.’		
+68	34	rɨˁχɨˁ-	ERG	NOM	TR	TR	rasul-a saz wɨ-rɨˁχɨˁ-r=a	PN-ERG saz(NOM) 3-hit.IPFV-CVB=be	‘Rasul is playing the saz.’		PN-ERG саз(NOM) 3-бить.IPFV-CVB=быть	‘Расул играет на сазе.’		
+68	35	gʲa-ʁaˁbʁu-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul ramazan-ɨ-la: gʲa-ʁaˁbʁu-r=a	PN(NOM) PN-OBL(SUP)-EL PV-1.avoid.PFV-CVB=be	‘Rasul avoids Ramazan.’		PN(NOM) PN-OBL(SUP)-EL PV-1.избегать.PFV-CVB=быть	‘Расул избегает Рамазана.’		
+68	36	ha<w>ɨ-	ERG	NOM	TR	TR	rasul-a bomba ha<w>ɨ-r	PN-ERG bomb(NOM) <3>do.PFV-CVB	‘Rasul made a bomb.’		PN-ERG бомба(NOM) <3>делать.PFV-CVB	‘Расул изготовил бомбу.’		
+68	37	jiʁ laɢa-	ERG	SUP	Y	ERG_SUP	rasul-a ramazan-ɨ jiʁ laɢa-r=a	PN-ERG PN-OBL(SUP) mock LV.IPFV-CVB=be	‘Rasul is making fun of Ramazan.’		PN-ERG PN-OBL(SUP) издвеваться LV.IPFV-CVB=быть	‘Расул издевается над Рамазаном.’		
+68	38	a-	POST	NOM	X	POST_NOM	rasul-ɨ-χda mašin a-ni w-iɁi	PN-OBL-POST car(NOM) be-CVB 3-COP	‘Rasul has a car.’		PN-OBL-POST машина(NOM) быть-CVB 3-COP	‘У Расула есть машина.’		
+68	39	aramiš haɁa-	ERG	NOM	TR	TR	rasul-a güleg-mar aramiš haɁa-r=a	PN-ERG key-PL(NOM) seek NPL.do.PFV-CVB=be	‘Rasul is looking for his keys.’		PN-ERG ключ-PL(NOM) искать NPL.делать.PFV-CVB=быть	‘Расул ищет ключи.’		
+68	40	šir jiˀ<w>χaˀ-	ERG	DAT	Y	ERG_DAT	rasul-a čapra-s šir jiˀ<w>χaˀ-r=a	PN-ERG fence.OBL-DAT paint <3>hit.IPFV.IPFV-CVB=be	‘Rasul painted the fence.’		PN-ERG забор.OBL-DAT краска <3>бить.IPFV.IPFV-CVB=быть	‘Расул покрасил забор.’		
+68	41	sɨs k-iʔɨ-	ERG	CONT	Y	ERG_CONT	rasul-u-k tɨlɨj-ra sɨs k-iʔɨ-r	PN-OBL-CONT dog.OBL-ERG tooth(NOM) PV-4.LV.PFV-CVB	‘A dog bit Rasul.’		PN-OBL-CONT собака.OBL-ERG зуб(NOM) PV-4.LV.PFV-CVB	‘Расула укусила собака.’		
+68	42	madiš	ATTR	NOM	X	ATTR_NOM	rasul-dɨ χal madiš	PN-ATTR house(NOM) remain.4.NEG	‘Rasul lost his house.’		PN-ATTR дом(NOM) оставаться.4.NEG	‘Расул лишился дома.’		
+68	43	χo-<w>-ɨrq’-	ERG	NOM	TR	TR	rasul-a get χo-w-ɨrq’-a-r=a	PN-ERG cat(NOM) PV-3-catch.IPFV-CVB=be	‘Rasul is trying to catch the cat.’		PN-ERG кошка(NOM) PV-3-хватать.IPFV-CVB=быть	‘Расул ловит кошку.’		
+68	44	q’at’ hɨɁɨ-	ERG	NOM	TR	TR	rasul-a t’at’al q’at’ hɨɁɨ-r	PN-ERG stick(NOM) half 4.LV.PFV-CVB	‘Rasul broke a stick.’		PN-ERG палка(NOM) половина 4.LV.PFV-CVB	‘Расул сломал палку.’		
+68	45	irz	*	*	*		rasul-a samira r-irz-a-r=a	PN-ERG PN(NOM) 2-praise.IPFV-CVB=be	‘Rasul is flattering Samira.’	Not included in the database because this translation is semantically inaccurate.	PN-ERG PN(NOM) 2-хвалить.IPFV-CVB=быть	‘Расул льстит Самире.’		
+68	46	q-ɨg-	DAT	NOM	X	DAT_NOM	rasul-u-s ǯu-du duχ q-ɨga-r=a	PN-OBL-DAT self.1.OBL-ATTR son(NOM) RE-1.love.IPFV-CVB=be	‘Rasul loves his son.’		PN-OBL-DAT сам.1.OBL-ATTR сын(NOM) RE-1.любить.IPFV-CVB=быть	‘Расул любит сына.’		
+68	47	la-<wɨ>-χa-	ERG	NOM	TR	TR	samira-ra jalɨʁ la-wɨ-χa-r=a	PN-ERG kerchief(NOM) PV-3-wave.IPFV-CVB=be	‘Samira is waving a handkerchief.’		PN-ERG платок(NOM) PV-3-махать.IPFV-CVB=быть	‘Самира машет платком.’		
+68	48	fikir <w>-aɁa-	*	*	*		rasul-a fikir w-aɁa-r=a c’in-dɨ mašina-d	PN-ERG thought 3-do.IPFV-CVB=be new-ATTR car-ATTR	‘Rasul is dreaming of a new car.’	Not included in the database because this translation is semantically inaccurate.	PN-ERG мысль 3-делать.IPFV-CVB=быть новый-ATTR машина-ATTR	‘Расул думает о новой машине.’		
+68	49	ji<d>ʁɨ-	ERG	NOM	TR	TR	samira-ra ist’ek’an ji<d>ʁɨ-r	PN-ERG glass(NOM) <4>wash.PFV-CVB	‘Samira washed the cup.’		PN-ERG стакан(NOM) <4>мыть.PFV-CVB	‘Самира вымыла стакан.’		
+68	50	la-<w>-ɨ-	ERG	NOM	TR	TR	rasul-a badu la-w-ɨ-r	PN-ERG trousers(NOM) PV-3-put.on.PFV-CVB	‘Rasul put on his trousers.’		PN-ERG штаны(NOM) PV-3-надеть.PFV-CVB	‘Расул надел штаны.’		
+68	51	dur jiɁi	ATTR	PRED	XY	ATTR_PRED	mi kar-di-d dur jiɁi kompas	this thing-OBL-ATTR name(NOM) 4.COP compass(NOM)	‘This thing is called a compass.’	Non-verbal predicate.	этот вещь-OBL-ATTR имя(NOM) 4.COP компас(NOM)	‘Этот предмет называется компас.’		
+68	52	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+68	53	l-o<w>či-	NOM	SUP	Y	NOM_SUP	si edemij-a l-o<w>či-r	bear(NOM) man-OBL(SUP) PV-<3>attack.PFV-CVB	‘A bear attacked a man.’		медведь(NOM) человек-OBL(SUP) PV-<3>напасть.PFV-CVB	‘Медведь напал на человека.’		
+68	54	a-c’i-	NOM	ERG	Y	NOM_ERG	widra χiji-ra a-c’i-r=a	bucket water.OBL-ERG PV-4.fill.PFV-CVB=be	‘The bucket filled with water.’		ведро вода.OBL-ERG PV-4.наполняться.PFV-CVB=быть	‘Ведро наполнилось водой.’		
+68	55	a-gɨ-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: a-gɨ-r=a güleg-mar	PN-APUD.EL PV-NPL.find.PFV-CVB=be key-PL(NOM)	‘Rasul found his keys.’		PN-APUD.EL PV-NPL.найти.PFV-CVB=быть ключ-PL(NOM)	‘Расул нашел ключи.’		
+68	56	ʁe<w>irq’ + NEG	DAT	NOM	X	DAT_NOM	rasul-u-s ʁe-w-irq’a-r-diš sa manut	PN-OBL-DAT PV-3-be.enough.IPFV-CVB-NEG one rouble(NOM)	‘Rasul is short one rouble.’		PN-OBL-DAT PV-3-быть.достаточно.IPFV-CVB-NEG один рубль(NOM)	‘Расулу недостает одного рубля.’		
+68	57	ul-i-s ʁagu-r hɨga- +NEG	DAT	NOM	X	DAT_NOM	rasul-u-s ramazan ul-i-s ʁagu-r hɨga-r-diš	PN-OBL-DAT PN(NOM) eye-OBL-DAT 1.see.PFV-CVB 4.want.IPFV-CVB-NEG	‘Rasul hates Ramazan.’		PN-OBL-DAT PN(NOM) глаз-OBL-DAT 1.видеть.PFV-CVB 4.хотеть.IPFV-CVB-NEG	‘Расул ненавидит Рамазана.’		
+68	58	q’abɨl <wu>-ruɁu-r-a	DAT	NOM	X	DAT_NOM	rasul-u-s q’abɨl wu-ruɁu-r=a mi uχun	PN-OBL-DAT like 3-become.IPFV-CVB=be this shirt(NOM)	‘Rasul likes this shirt.’		PN-OBL-DAT нравиться 3-стать.IPFV-CVB=быть этот рубашка(NOM)	‘Расулу нравится эта рубашка.’		
+68	59	hɨga- 	DAT	NOM	X	DAT_NOM	rasul-u-s zar hɨga-r=a	PN-OBL-DAT money(NOM) 4.want.IPFV-CVB=be	‘Rasul needs money.’		PN-OBL-DAT деньги(NOM) 4.хотеть.IPFV-CVB=быть	‘Расул нуждается в деньгах.’		
+68	60	ara e-<w>-i-	ERG	NOM	TR	TR	masal-mɨ-ra ara e-w-i-r=a šeher	wall-OBL.PL-ERG around PV-1-close.PFV-CVB=be town(NOM)	‘Walls surround the city.’		стена-OBL.PL-ERG вокруг PV-1-закрыть.PFV-CVB=быть город(NOM)	‘Стены окружают город.’		
+68	61	χa-ma<b>a-	APUD	NOM	X	APUD_NOM	rasul-da χa-ma<b>a-ni w-iɁi jic’ɨ-d manud	PN-APUD PV-<3>remain-CVB 3-COP ten-4 rouble(NOM)	‘Rasul has 10 roubles left.’		PN-APUD PV-<3>оставаться-CVB 3-COP десять-4 рубль(NOM)	‘У Расула осталось 10 рублей.’		
+68	62	ǯiwab hɨ-	ERG	DAT	Y	ERG_DAT	rasul-a ǯiwab hɨ<w>ɨ-r maʔalim-a-s	PN-ERG answer(NOM) <3>give.PFV-CVB teacher-OBL-DAT	‘Rasul answered the teacher.’		PN-ERG ответ(NOM) <3>дать.PFV-CVB учитель-OBL-DAT	‘Расул ответил учителю.’		
+68	63	ačiχ <w>ɨɁɨ	ERG	NOM	TR	TR	rasul-a bank’a ačɨχ w-ɨɁɨ-r	PN-ERG pot(NOM) open 3-do.PFV-CVB	‘Rasul opened a can.’		PN-ERG банка(NOM) открыть 3-делать.PFV-CVB	‘Расул открыл банку.’		
+68	64	mad-dɨ + COP	NOM	SUP.EL	Y	NOM_SUP.EL	iz-dɨ uχun mad-dɨ w-iɁi wɨ-dɨ-ji-la	I-ATTR shirt(NOM) other-ATTR 3-COP you.SG-ATTR-OBL(SUP)-EL	‘My shirt is different from yours.’	Non-verbal predicate.	I-ATTR рубашка(NOM) другой-ATTR 3-COP ты.SG-ATTR-OBL(SUP)-EL	‘Моя рубашка отличается от твоей.’		
+68	65	quɁ q-argɨ-	NOM	SUP.EL	Y	NOM_SUP.EL	ramazan quɁ q-argɨ-r rasul-u-la	PN(NOM) back.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Rasul fell behind Ramazan.’		PN(NOM) зад.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Рамазан отстал от Расула.’		
+68	66	lʲ-aˁjχaˁ	ERG	NOM	TR	TR	rasul-a χuj lʲ-aˁjχaˁ-r=a	PN-ERG field(NOM) PV-4.plough.IPFV-CVB=be	‘Rasul is ploughing the field.’		PN-ERG поле(NOM) PV-4.пахать.IPFV-CVB=быть	‘Расул пашет поле.’		
+68	67	il rɨˁχaˁ-r-a	CONT.EL	ATTR	XY	CONT.EL_ATTR	ɨz-dɨ χɨla-bɨr-mɨ-k-la benzin-ad il rɨˁχaˁ-r=a	I-ATTR hand-PL-OBL.Pl-CONT-EL petrol-ATTR smell(NOM) 4.go.IPFV-CVB=be	‘My hands smell of gasoline.’		I-ATTR рука-PL-OBL.Pl-CONT-EL бензин-ATTR запах(NOM) 4.идти.IPFV-CVB=быть	‘Мои руки пахнут бензином.’		
+68	68	eʁeč'	NOM	IN.EL	Y	NOM_IN.EL	rasul rɨˀɢ-a: tiʔ e-ʁ-eč’u-r	PN(NOM) road.OBL-IN.EL there PV-PV-1.cross.PFV-CVB	‘Rasul crossed the road.’		PN(NOM) дорога.OBL-IN.EL там PV-PV-1.пересечь.PFV-CVB	‘Ислам пересек дорогу.’		
+68	69	hɨʔɨ	ERG	NOM	TR	TR	rasul-a bat’r-ad maˁɁni hɨʔɨ-r=a	PN-ERG beautiful-ATTR song(NOM) 4.do.PFV-CVB=be	‘Rasul sang a beautiful song.’		PN-ERG красивый-ATTR песня(NOM) 4.делать.PFV-CVB=быть	‘Расул спел красивую песню.’		
+68	70	ki<Ø>x	ERG	NOM	TR	TR	rasul-a pisʲmo k-ixi-r=a	PN-ERG letter(NOM) PV-4.write.PFV-CVB=be	‘Rasul wrote a letter.’		PN-ERG письмо(NOM) PV-4.писать.PFV-CVB=быть	‘Расул написал письмо.’		
+68	71	raˁʁɨˁ-	ERG	NOM	TR	TR	rasul-a nek wa-raˁʁɨˁ-r=a	PN-ERG milk(NOM) 3-drink.PFV-CVB=be	‘Rasul drank the milk.’		PN-ERG молоко(NOM) 3-пить.PFV-CVB=быть	‘Расул выпил молоко.’		
+68	72	jic’-a hɨɁɨ-	ERG	NOM	TR	TR	rasul-a jic’-a hɨɁɨ-r=a-j tike ɢurʁušin-ad	PN-ERG 4.melt-IMP 4.do.PFV-CVB=be-PST piece(NOM) lead-ATTR	‘Rasul melted a piece of lead.’		PN-ERG 4.таять-IMP 4.делать.PFV-CVB=быть-PST кусок(NOM) свинец-ATTR	‘Расул расплавил кусок свинца.’		
+68	73	ruʔu-	NOM	DAT	Y	NOM_DAT	hemi č’il iz-dɨ uχna-s wu-ruʔu-r=a	this belt(NOM) I-ATTR dress.OBL-DAT 3-go.IPFV-CVB=be	‘This belt goes well with my dress.’		этот пояс(NOM) я-ATTR платье.OBL-DAT 3-идти.IPFV-CVB=быть	‘Этот пояс подходит к моему платью.’		
+68	74	q-aˁ<r>hɨˁ-	NOM	IN.EL	Y	NOM_IN.EL	rasul ǯu-dɨ šeher-dʲ-a: q-aˁ<r>hɨˁ-r	PN(NOM) self.OBL-ATTR city-OBL-IN.EL RE-<1>leave.PFV-CVB	‘Rasul left his native city.’		PN(NOM) сам.OBL-ATTR город-OBL-IN.EL RE-<1>уходить.PFV-CVB	‘Расул покинул свой город.’		
+68	75	χ-o<w>q’u-	ERG	NOM	TR	TR	χajma-ra χ-o<w>q’u-r=a sin ǯil	carpet-ERG PV-<3>catch.PFV-CVB=be whole floor(NOM)	‘The carpet covers the whole floor.’		ковер-ERG PV-<3>хватать.PFV-CVB=быть целый пол(NOM)	‘Ковёр покрывает весь пол.’		
+68	76	jik’i ʁa-ma<d>a	DAT	NOM	X	DAT_NOM	rasul-u-s hɨχa-na jik’-i ʁa-ma<d>a juǯ q’ɨxe jiši-d χal	PN-OBL-DAT well heart-OBL(SUP) PV-<4>remain self big 1.become-ATTR home(NOM)	‘Rasul remembers the house where he grew up well.’		PN-OBL-DAT хорошо сердце-OBL(SUP) PV-<3>оставаться сам большой 1.стать-ATTR дом(NOM)	‘Расул хорошо помнит дом, где он вырос.’		
+68	77	kumag hɨɁɨ-	ERG	DAT	Y	ERG_DAT	rasul-a nadir-ɨ-s kumag hɨɁɨ-r=a	PN-ERG PN-OBL-DAT help(NOM) 4.do.PFV-CVB=be	‘Rasul helped Nadir.’		PN-ERG PN-OBL-DAT помощь(NOM) 4.делать.PFV-CVB=быть	‘Расул помог Надиру.’		
+68	78	gi-jirq’-	NOM	POST	Y	NOM_POST	rasul francuskij č’ilɨ-χda gi-jirq’a-r=a	PN(NOM) french language.OBL-POST PV-1.understand.IPFV-CVB=be	‘Rasul understands French.’		PN(NOM) французский язык.OBL-POST PV-1.понимать.IPFV-CVB=быть	‘Расул понимает французский язык.’		
+68	79	k-iq'ɨr-	NOM	CONT	Y	NOM_CONT	c’aj χal-ɨ-k k-iq’ɨ-r-a	fire(NOM) house-OBL-CONT PV-4.hit.PFV-CVB	‘Lightning hit the house.’		огонь(NOM) дом-OBL-CONT PV-4.ударить.PFV-CVB	‘Молния попала в дом.’		
+68	80	hart’u-	NOM	ERG	Y	NOM_ERG	rɨš kant’-i-ra hart’u-r=a	girl(NOM) knife-OBL-ERG <2>cut.PFV-CVB=be	‘The girl cut herself with a knife.’		девочка(NOM) нож-OBL-ERG <2>резать.PFV-CVB=быть	‘Девочка порезалась ножом.’		
+68	81	ki-č-i<p>qɨ-	NOM	CONT	Y	NOM_CONT	istek’an isk’am-a-k ki-č-i<p>qɨ-r=a	glass(NOM) table-OBL-CONT PV-PV-<3>stick.PFV-CVB=be	‘The glass got stuck to the table.’		стакан(NOM) стол-OBL-CONT PV-PV-<3>прилипать.PFV-CVB=быть	‘Стакан прилип к столу.’		
+68	82	jawa jiši-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul jawa jiši-r=a asijet-ɨ-la	PN(NOM) weak 1.become.PFV-CVB=be PN-OBL(SUP)-EL	‘Rasul lost to Asijat.’		PN(NOM) слабый 1.стать.PFV-CVB=быть PN-OBL(SUP)-EL	‘Расул проиграл Асият.’		
+68	83	šad jɨši-	NOM	DAT	Y	NOM_DAT	rasul kaʁad-a-s šad jiši-r=a	PN(NOM) letter-OBL-DAT joyful 1.become.PFV-CVB=be	‘Rasul was glad about the letter.’		PN(NOM) письмо-OBL-DAT радостный 1.стать.PFV-CVB=быть	‘Расул обрадовался письму.’		
+68	84	halga-	NOM	COM	Y	NOM_COM	rasul nadir-ɨ-kan halga-r=a	PN(NOM) PN-OBL-COM 1.talk.IPFV-CVB=be	‘Rasul is speaking with Nadir.’		PN(NOM) PN-OBL-COM 1.разговаривать.IPFV-CVB=быть	‘Расул разговаривает с Надиром.’		
+68	85	jišɨ-	DAT	NOM	X	DAT_NOM	madina-s duχ jišɨ-r=a	PN-DAT son(NOM) 1.become.PFV-CBV=be	‘Madina gave birth to a son.’		PN-DAT сын(NOM) 1.стать.PFV-CBV=быть	‘Мадина родила сына.’		
+68	86	s-i<p>xu-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: saɁ s-i<p>xu-r istek’an	PN-APUD.EL down.LAT PV-<3>fall.PFV-CVB glass(NOM)	‘Rasul dropped the glass.’		PN-APUD.EL низ.LAT PV-<3>падать.PFV-CVB стакан(NOM)	‘Расул уронил стакан.’		
+68	87	q’ɨxʲ-waldɨ + w-aɁa-r-a	ERG	DAT	Y	ERG_DAT	rasul-a q’ɨxʲ-waldɨ w-aɁa-r=a ix-dɨ muˀɢ-uˀ-s	PN-ERG elder-ABSTR 3-do.IPFV-CVB-be we.OBL-ATTR village-OBL-DAT	‘Rasul runs our village.’		PN-ERG старший-ABSTR 3-делать.IPFV-CVB-быть мы.OBL-ATTR село-OBL-DAT	‘Расул руководит нашим селом.’		
+68	88	c’ihal jiši-	DAT	POST	XY	DAT_POST	rasul-u-s madinat-ɨ-χda c’ihal jiši-r=a	PN-OBL-DAT PN-OBL-POST longing(NOM) 4.become.PFV-CVB=be	‘Rasul misses Madinat.’		PN-OBL-DAT PN-OBL-POST тоска(NOM) 4.стать.PFV-CVB=быть	‘Расул скучает по Мадинат.’		
+68	89	xal-e a-	NOM	ATTRzibra	Y	NOM_ATTRzibra	rasul xal-e a-na jiɁi asijet-dɨ ǯibra	PN(NOM) trail-IN be-CVB 1.COP PN-ATTR behind	‘Rasul follows Asijat.’		PN(NOM) след-IN быть-CVB 1.COP PN-ATTR сзади	‘Расул следует за Асият.’		
+68	90	s-e-č’u-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul hejwan-a-la saɁ s-e-č’u-r=a	PN(NOM) horse-OBL(SUP)-EL down.LAT PV-PV-1.get.down.PFV-CVB=be	‘Rasul got down from the horse.’		PN(NOM) лошадь-OBL(SUP)-EL низ.LAT PV-PV-1.спускаться.PFV-CVB=быть	‘Расул слез с лошади.’		
+68	91	q-assa-	ERG	POST	Y	ERG_POST	islam-a ubɨr q-assa-r=a radio-je-χda	PN-ERG ear PV-4.listen.IPFV-CVB=be radio-OBL-POST	‘Rasul is listening to radio.’		PN-ERG ухо PV-4.слушать.IPFV-CVB=быть радио-OBL-POST	‘Расул слушает радио.’		
+68	92	q-assa-	ERG	POST	Y	ERG_POST	islam-a nin-ɨ-χda ubɨr q-ass-a=r-a	PN-ERG mother-OBL-POST ear PV-1.listen.IPFV-CVB=be-PST	‘Rasul always obeys his mother.’		PN-ERG мать-OBL-POST ухо PV-1.слушать.IPFV-CVB=быть-PST	‘Расул слушается маму.’		
+68	93	ses ruɁu-	DAT	ATTR	XY	DAT_ATTR	rasul-u-s maˁʔnij-mɨ-d ses ruɁu-r	PN-OBL-DAT song-PL.OBL-ATTR sound(NOM) 4.go.IPFV-CVB	‘Rasul hears the music.’		PN-OBL-DAT песня-PL.OBL-ATTR звук(NOM) 4.идти.IPFV-CVB	‘Расул слышит музыку.’		
+68	94	k-i<t>χɨ-r	*	*	*		it=na nek k-i<t>χɨ-r	honey=ADD milk PV-<3>mix.PFV-CVB	‘The honey got mixed with the milk.’	Not included in the database because X and Y are expressed as a coordinate NP.	мед=ADD молоко PV-<3>смешаться.PFV-CVB	‘Мёд смешался с молоком.’		
+68	95	gʲ-aɢa-	NOM	POST	Y	NOM_POST	rasul gʲ-aɢa-r=a gɨbli-mɨ-χda	PN(NOM) PV-1.look.IPFV-CVB=be cloud-PL.OBL-POST	‘Rasul is looking at the clouds.’		PN(NOM) PV-1.смотреть.IPFV-CVB=быть облако-PL.OBL-POST	‘Расул смотрит на тучи.’		
+68	96	saɁ qi-w-	ERG	NOM	TR	TR	rasul-a saɁ qi-wi-r rubaška	PN-ERG down.LAT RE-take.off.PFV-CVB shirt(NOM)	‘Rasul took off his shirt.’		PN-ERG низ.LAT RE-снять.PFV-CVB рубашка(NOM)	‘Расул снял рубашку.’		
+68	97	neq’ʲ-e ʁa-ru-	DAT	NOM	X	DAT_NOM	rasul-u-s neq’ʲ-e ʁa-ru-rga-r=a asijet	PN-OBL-DAT dream.OBL-IN PV-2-see.IPFV-CVB=be PN(NOM)	‘Rasul dreams about Asijat.’		PN-OBL-DAT сон.OBL-IN PV-2-видеть.IPFV-CVB=быть PN(NOM)	‘Расулу снится Асият.’		
+68	98	raazi jiši-	NOM	COM	Y	NOM_COM	vɨɣɨl raazi jiši-r ɢarija-kan	man(NOM) agreed 1.become.PFV-CVB wife.OBL-COM	‘Rasul agreed with his wife.’		человек(NOM) согласен 1.стать.PFV-CVB жена.OBL-COM	‘Расул согласился с женой.’		
+68	99	ʁe-ruku-	NOM	COM	Y	NOM_COM	islam ʁe-ruku-r nadir-ɨ-kʷan	PN(NOM) PV-1.quarrel.PFV-CVB PN-OBL-COM	‘Islam had a quarrel with Nadir.’		PN(NOM) PV-1.ссориться.PFV-CVB PN-OBL-COM	‘Расул поссорился с Асият.’		
+68	100	COP	NOM	DAT	Y	NOM_DAT	mi istek’an sa manut-a-s w-iɁi	this cup(NOM) one rouble-OBL-DAT 3-COP	‘This cup costs 1 rouble.’	Non-verbal predicate.	этот стакан(NOM) один рубль-OBL-DAT 3-COP	‘Эта чашка стоит один рубль.’		
+68	101	tufang w-iji-	ERG	POST	Y	ERG_POST	rasul-a tufang w-iji-r=a-j šurk-u-χda	PN-ERG gun(NOM) 3-shoot.PFV-CVB=be-PST bird-OBL-POST	‘Rasul shot at the bird.’		PN-ERG ружье(NOM) 3-стрелять.PFV-CVB=быть-PST птица-OBL-POST	‘Расул выстрелил в птицу.’		
+68	102	ki-Ɂɨ-	ERG	NOM	TR	TR	rasul-a pisuk’ ki-Ɂɨ-r=a-j istek’an-e	PN-ERG sugar(NOM) PV-4.add.PFV-CVB=be-PST glass-IN	‘Rasul poured the sugar.’		PN-ERG сахар(NOM) PV-4.добавить.PFV-CVB=быть-PST стакан-IN	‘Расул насыпал сахар в стакан.’		
+68	103	su-gu-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: güleg-mar su-gu-r=a	PN-APUD.EL key-PL(NOM) PV-NPL.lose.PFV-CVB=be	‘Rasul lost his keys.’		PN-APUD.EL ключ-PL(NOM) PV-NPL.терять.PFV-CVB=быть	‘Расул потерял ключи.’		
+68	104	ara: saɁ k-i<p>xu-r	NOM	IN	Y	NOM_IN	girdɨm xij-e ara: saɁ k-i<p>xu-r	log(NOM) water.OBL-IN inside.EL down.LAT PV-<3>get.to.PFV-CVB=be	‘The log sank in the water.’		полено(NOM) вода.OBL-IN внутренность.EL низ.LAT PV-<3>попасть.PFV-CVB=быть	‘Полено утонуло в воде.’		
+68	105	<>-iq’-e r-ɨʔɨ-	ERG	NOM	TR	TR	rasul-a r-iq’-e r-ɨʔɨ-r=a asijet	PN-ERG 2-die-IMP 2-do.PFV-CVB=be PN(NOM)	‘Rasul killed Asijat.’		PN-ERG 2-умереть-IMP 2-делать.PFV-CVB=быть PN(NOM)	‘Расул убил Асият.’		
+68	106	liwx-	ERG	SUP.ELga	Y	ERG_SUP.ELga	rasul-a asijet-ɨ-la ʁaʔ li-w-xi-r	PN-ERG PN-OBL(SUP)-EL on PV-3-hit.PFV-CVB	‘Rasul hit Asijat.’	Agreement marker on the verb cross-references the understood argument ‘hand’ (3rd class).	PN-ERG PN-OBL(SUP)-EL на PV-3-ударить.PFV-CVB	‘Расул ударил Асият.’		
+68	107	k’uxʲ ki-w-ɨ-	ERG	DAT	Y	ERG_DAT	rasul-a k’uxʲ ki-w-ɨ-r madina-s	PN-ERG beak(NOM) PV-3-LV.PFV-CVB PN-DAT	‘Rasul kissed Madina.’		PN-ERG клюв(NOM) PV-3-LV.PFV-CVB PN-DAT	‘Расул поцеловал Мадину.’		
+68	108	q’ɨle hɨɁɨ-r	ERG	NOM	TR	TR	rasul-a q’ɨle hɨɁɨ-r ɢalin-dɨ kitab	PN-ERG read 4.do.PFV-CVB thick-ATTR book(NOM)	‘Rasul read a thick book.’		PN-ERG читать 4.делать.PFV-CVB толстый-ATTR книга(NOM)	‘Расул прочитал толстую книгу.’		
+68	109	χ-i<b>g-a w-ɨɁɨ-r	ERG	NOM	TR	TR	rasul-a t’ili χ-i<b>g-a w-ɨɁɨ-r	PN-ERG finger(NOM) PV-<3>move-IMP 3-do.PFV-CVB	‘Rasul moved his finger.’		PN-ERG палец(NOM) PV-<3>двигать-IMP 3-делать.PFV-CVB	‘Расул пошевелил пальцем.’		
+68	110	huˁrmaˁt w-aɁa-r-a	ERG	DAT	Y	ERG_DAT	rasul-a huˁrmaˁt w-aɁa-r=a asijet-ɨ-s	PN-ERG respect 3-do.IPFV-CVB=be PN-OBL-DAT	‘Rasul respects Asijat.’		PN-ERG уважение 3-делать.IPFV-CVB=быть PN-OBL-DAT	‘Расул уважает Асият.’		
+68	111	*	*	*	*		rasul-u-s čapaˁl-dɨ ɢab-ɨr ʁa-gu-jne jik’ mɨq’a jiši-r	PN-OBL-DAT dirty-ATTR dish-PL PV-NPL.see.PFV-CVB heart cold 4.become.PFV-CVB	‘Rasul is squeamish about dirty dishes’ (lit. ‘Rasul’s heart gets cold when he sees dirty dishes’).	Not included in the database because Y is expressed as an NP-internal modifier.	PN-OBL-DAT грязный-ATTR посуда-PL PV-NPL.видеть.PFV-CVB сердце холодный 4.стать.PFV-CVB	‘При виде грязной посуды у Расула сердце стынет.’		
+68	112	raazi + COP	NOM	SUP	Y	NOM_SUP	rasul raazi jiɁi ǯu-du duxar-ɨ	PN(NOM) delighted 1.СOP self.M.OBL-ATTR son-OBL(SUP)	‘Rasul is satisfied with his son.’	Non-verbal predicate.	PN(NOM) довольный 1.СOP сам.M.OBL-ATTR сын-OBL(SUP)	‘Расул доволен своим сыном.’		
+68	113	jik’i-k’ kirx	DAT	NOM	X	DAT_NOM	rasul-u-s jik’i-k k-irxu-r=a asijet	PN-OBL-DAT heart.OBL-CONT PV-get.in.PFV-CVB=be PN(NOM)	‘Rasul fell in love with Asijat.’		PN-OBL-DAT сердце.OBL-CONT PV-попасть.PFV-CVB=быть PN(NOM)	‘Расул влюбился в Асият.’		
+68	114	ilamiš + COP	NOM	SUP	Y	NOM_SUP	madina ilamiš r-iɁi ǯi-dɨ χɨnχ-ɨ	PN(NOM) trust 2-COP self-ATTR child-OBL(SUP)	‘Madina trusts her child.’	Non-verbal predicate.	PN(NOM) доверие 2-COP сам-ATTR ребенок-OBL(SUP)	‘Мадина доверяет своему ребенку.’		
+68	115	haˀjiw raɁ-	ERG	NOM	TR	TR	rasul-a haˀjiw r-aɁa-r=a ǯʲu-du nin	PN-ERG pity 2-do.IPFV-CVB=be self.M.OBL-ATTR mother(NOM)	‘Rasul sympathises with his mother.’		PN-ERG жалость 2-делать.IPFV-CVB=быть сам.M.OBL-ATTR мать(NOM)	‘Расул жалеет свою мать.’		
+68	116	paxil	NOM	SUP	Y	NOM_SUP	rasul paxil jiɁi asijed-ɨ	PN(NOM) envy 1.COP PN-OBL(SUP)	‘Rasul envies Asijat.’	Non-verbal predicate.	PN(NOM) зависть 1.COP PN-OBL(SUP)	‘Расул завидует Асият.’		
+68	117	bizar	NOM	SUP.EL	Y	NOM_SUP.EL	rasul bizar jiɁi asijed-ɨ-la	PN(NOM) irritation 1.COP PN-OBL(SUP)-EL	‘Rasul is angry with Asijat.’	Non-verbal predicate.	PN(NOM) раздражение 1.COP PN-OBL(SUP)-EL	‘Расул злится на Асият.’		
+68	118	taˤʔǯib jiši-	NOM	SUP	Y	NOM_SUP	rasul taˤʔǯib jiši-r=a ha-d amanat-a-s hɨwɨ-d saʔat-a	PN(NOM) amazed 1.become.PFV-CVB=be this-ATTR gift-OBL-DAT 4.give.PFV-ATTR watch-OBL(SUP)	‘Rasul was surprised at the watch that was given to him as a present.’		PN(NOM) удивлен 1.стать.PFV-CVB=быть этот-ATTR подарок-OBL-DAT 4.дать.PFV-ATTR часы-OBL(SUP)	‘Расул удивился часам, данным ему в подарок.’		
+68	119	qɨ<Ø>g	DAT	NOM	X	DAT_NOM	rasul-u-s qɨ<Ø>ga-r=a čej	PN-OBL-DAT <4>love.IPFV-CVB=be tea(NOM)	‘Rasul loves tea.’		PN-OBL-DAT <4>любить.IPFV-CVB=быть чай(NOM)	‘Расул любит чай.’		
+68	120	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+68	121	ɨg	DAT	NOM	X	DAT_NOM	rasul-u-s w-ɨga-r=a c’ɨn-dɨ telefon	PN-OBL-DAT 3-want.IPFV-CVB=be new-ATTR phone(NOM)	‘Rasul wants a new phone.’		PN-OBL-DAT 3-хотеть.IPFV-CVB=быть новый-ATTR телефон(NOM)	‘Расул хочет новый телефон.’		
+68	122	sɨrχɨ-r-a	NOM	POST	Y	NOM_POST	islam sɨrχɨ-r=a nadir-ɨ-χda	PN(NOM) 1.become.mad.PFV-CVB=be PN-OBL-POST	‘Rasul has a grudge against Nadir.’		PN(NOM) 1.обезуметь.PFV-CVB=быть PN-OBL-POST	‘Ислам сердится на Надира.’		
+68	123	χatir Ɂa<d>g-	DAT	SUP.EL	XY	DAT_SUP.EL	rasul-u-s χatir a<d>gɨ-r=a asijet-ɨ-la	PN-OBL-DAT grudge <4>be.stuck.PFV-CVB=be PN-OBL(SUP)-EL	‘Rasul took offence at Asijat.’		PN-OBL-DAT раздражение <4>застрять.PFV-CVB=быть PN-OBL(SUP)-EL	‘Расул обиделся на Асият.’		
+68	124	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+68	125	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+68	126	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+68	127	pašmal jiši-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul pašmal jiši-r ǯʲu-du duxar-ɨ-la	PN(NOM) sad 1.become.PFV-CVB self.M.OBL-ATTR son-OBL(SUP)-EL	‘Rasul got upset because of his son.’		PN(NOM) грустный 1.стать.PFV-CVB сам.M.OBL-ATTR сын-OBL(SUP)-EL	‘Расул огорчился из-за своего сына.’		
+68	128	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+68	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+68	130	rɨq ruɁ-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul rɨq ruɁu-r=a ǯʲu-du bɨj-a-la	PN(NOM) shame come.IPFV-CVB=be self.M.OBL-ATTR stature-OBL(SUP)-EL	‘Rasul is shy about his height.’		PN(NOM) стыд приходить.IPFV-CVB=быть сам.M.OBL-ATTR рост-OBL(SUP)-EL	‘Расул стесняется своего роста.’		
 80	1	leeʹd -kõpp	*	*	*		Peâtt-ast lij vueiʹvv-kõpp.	PN-SG.LOC be.PRS.3SG head-disease.SG.NOM	‘P. has a headache.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + root in a compound).				
 80	2	leeʹd	LOC	NOM	X	LOC_NOM	Peâtt-ast lij nuõpp-kõpp.	PN-SG.LOC be.PRS.3SG cold(disease)-disease.SG.NOM	‘P. has the flu.’	Non-verbal predicate.				
 80	3	põõllâd	NOM	LOC	Y	NOM_LOC	Peâtt pââll piânnj-est.	PN.SG.NOM fear.PRS.3SG dog-SG.LOC	‘P. is afraid of the dog.’					
@@ -1639,7 +1769,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 11	78		DAT	NOM	X	DAT_NOM								
 11	79		*	*	*									
 11	80		*	*	*									
-11	81		NOM 	COMIT	Y	NOM_COM								
+11	81		NOM 	COM	Y	NOM_COM								
 11	82		NOM 	CONTESS	Y	NOM_CONTESS								
 11	83		NOM 	SUPEL	Y	NOM_SUPEL								
 11	84		*	*	*									
@@ -1656,8 +1786,8 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 11	95		NOM 	ADESS	Y	NOM_ADESS								
 11	96		ERG	NOM	TR	TR								
 11	97		*	*	*									
-11	98		NOM 	COMIT	Y	NOM_COM								
-11	99		NOM 	COMIT	Y	NOM_COM								
+11	98		NOM 	COM	Y	NOM_COM								
+11	99		NOM 	COM	Y	NOM_COM								
 11	100		*	*	*									
 11	101		ERG	ADESS	Y	ERG_ADESS								
 11	102		ERG	NOM	TR	TR								
@@ -4397,7 +4527,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 7	106		NOM	GEN~PART~NOM	TR	TR								
 7	107		NOM	PART	Y	NOM_PART								
 7	108		NOM	GEN~PART~NOM	TR	TR								
-7	109		NOM	AD+	Y	NOM_AD								
+7	109		NOM	AD	Y	NOM_AD								
 7	110		NOM	EL	Y	NOM_EL								
 7	111		NOM	EL	Y	NOM_EL								
 7	112		NOM	EL	Y	NOM_EL								
@@ -4778,7 +4908,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 44	97	Ø-e-sizmr-eb-a	DAT	NOM	X	DAT_NOM								
 44	98	da-Ø-e-tanxm-a	NOM	DAT	Y	NOM_DAT								
 44	99	*	*	*	*									
-44	100	Ø-γir-s	NOM	NOM	Y	NOM_NOM_								
+44	100	Ø-γir-s	NOM	NOM	Y	NOM_NOM								
 44	101	Ø-e-sr-ol-a	ERG	DAT	Y	ERG_DAT								
 44	102	ča-Ø-i-q'ar-a	ERG	NOM	TR	TR								
 44	103	da-Ø-k'arg-a	ERG	NOM	TR	TR								
@@ -4859,7 +4989,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 10	48		NOM	vonDAT	Y	NOM_vonDAT								
 10	49		NOM	ACC	TR	TR								
 10	50		NOM	ACC	TR	TR								
-10	51	genannt werden	NOM	NOM	Y	NOM_NOM_								
+10	51	genannt werden	NOM	NOM	Y	NOM_NOM								
 10	52		NOM	ACC	TR	TR								
 10	53		NOM	ACC	TR	TR								
 10	54		NOM	mitDAT	Y	NOM_mitDAT								
@@ -6598,7 +6728,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 14	97	nöörtə üz	NOM	ACC	TR	TR								
 14	98	zövšär	NOM	ASSOC	Y	NOM_ASSOC								
 14	99	cüüg	NOM	ASSOC	Y	NOM_ASSOC								
-14	100	bää	NOM	NOM	Y	NOM_NOM_								
+14	100	bää	NOM	NOM	Y	NOM_NOM								
 14	101	xa	NOM	ACC	TR	TR								
 14	102	ke	NOM	ACC	TR	TR								
 14	103	gee	NOM	ACC	TR	TR								
@@ -7145,7 +7275,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 34	124	майшöдлыны	NOM	ACC	TR	TR								
 34	125	шензьыны	NOM	INS	Y	NOM_INS								
 34	126	мустöмтны 	*	*	*									
-34	127	шогö усьны	NOM	ponda	Y	NOM_pynda								
+34	127	шогö усьны	NOM	ponda	Y	NOM_ponda								
 34	128	дöзмыны	NOM	vylo	Y	NOM_vylo								
 34	129	*	*	*	*									
 34	130	яндысьны	NOM	ELA	Y	NOM_ELA								
@@ -7419,7 +7549,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 20	8		ERG	ABS	TR	TR								
 20	9		DAT	ABS	X	DAT_ABS								
 20	10		ERG	DAT	Y	ERG_DAT								
-20	11		ABS	SRESS	Y	ABS_SRES								
+20	11		ABS	SRESS	Y	ABS_SRESS								
 20	12		ABS	DAT	Y	ABS_DAT								
 20	13		ERG	ADEL	Y	ERG_ADEL								
 20	14		ABS	INEL	Y	ABS_INEL								
@@ -7489,7 +7619,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 20	78		*	*	*									
 20	79		ABS	POESS	Y	ABS_POESS								
 20	80		ABS	ERG	Y	ABS_ERG								
-20	81		ABS	SRESS	Y	ABS_SRES								
+20	81		ABS	SRESS	Y	ABS_SRESS								
 20	82		ABS	DAT	Y	ABS_DAT								
 20	83		ABS	DAT	Y	ABS_DAT								
 20	84		ABS	POESSgalaz	Y	ABS_POESSgalaz								
@@ -7521,12 +7651,12 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 20	110		ERG	DAT	Y	ERG_DAT								
 20	111		*	*	*									
 20	112		ABS	SREL	Y	ABS_SREL								
-20	113		ABS	SRESS	Y	ABS_SRES								
+20	113		ABS	SRESS	Y	ABS_SRESS								
 20	114		ERG	DAT	Y	ERG_DAT								
 20	115		ERG	DAT	Y	ERG_DAT								
-20	116		ABS	SRESS	Y	ABS_SRES								
+20	116		ABS	SRESS	Y	ABS_SRESS								
 20	117		*	*	*									
-20	118		ABS	SRESS	Y	ABS_SRES								
+20	118		ABS	SRESS	Y	ABS_SRESS								
 20	119		DAT	ABS	X	DAT_ABS								
 20	120		ERG	SBEL	Y	ERG_SBEL								
 20	121		DAT	ABS	X	DAT_ABS								
@@ -9293,7 +9423,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 82	62	vaestied-i	NOM	ACC	TR	TR								
 82	63	rihpest-i	NOM	ACC	TR	TR								
 82	64	*	*	*	*									
-82	65	sjidt-i	NOM	GENmänngan	Y	NOM_GENmanngan								
+82	65	sjidt-i	NOM	GENmanngan	Y	NOM_GENmanngan								
 82	66	*	*	*	*									
 82	67	hepsie-h	NOM	ELA	Y	NOM_ELA								
 82	68	vaadtja	NOM	GENraaste	Y	NOM_GENraaste								
@@ -9311,7 +9441,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 82	80	tjoehpede	NOM	COM	Y	NOM_COM								
 82	81	dabran-i	NOM	ILL	Y	NOM_ILL								
 82	82	dass-i	NOM	GENvuestie	Y	NOM_GENvuestie								
-82	83	feejjen sjidt-i	NOM	GENåvteste	Y	NOM_GENavteste								
+82	83	feejjen sjidt-i	NOM	GENavteste	Y	NOM_GENavteste								
 82	84	soptseste	NOM	COM	Y	NOM_COM								
 82	85	baersield-i	NOM	ACC	TR	TR								
 82	86	gahtjed-i	NOM	ACC	TR	TR								
@@ -10031,7 +10161,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 5	20	gjāzas	ERG	NOM	TR	TR								
 5	21	-	*	*	*									
 5	22	set’as	NOM	CONTESS	Y	NOM_CONTESS								
-5	23	saIjXas	NOM	COMIT	Y	NOM_COM								
+5	23	saIjXas	NOM	COM	Y	NOM_COM								
 5	24	-	*	*	*									
 5	25	fikirramiš-xes	NOM	SUPEL	Y	NOM_SUPEL								
 5	26	oxanas	ERG	NOM	TR	TR								
@@ -10040,7 +10170,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 5	29	k’eliXanas	ADEL	NOM	X	ADEL_NOM								
 5	30	aslira ixes	*	*	*									
 5	31	qot’alas	ERG	NOM	TR	TR								
-5	32	taniš-xes	NOM	COMIT	Y	NOM_COM								
+5	32	taniš-xes	NOM	COM	Y	NOM_COM								
 5	33	ac’a	ERG	NOM	TR	TR								
 5	34	hek’◦as 	ERG	NOM	TR	TR								
 5	35	-	*	*	*									
@@ -10106,8 +10236,8 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 5	95	iljak̅as || ulak̅as	NOM	ALL	Y	NOM_ALL								
 5	96	qak̅jahas	ERG	NOM	TR	TR								
 5	97	nik’ē Gaǯes	*	*	*									
-5	98	razj-xes	NOM	COMIT	Y	NOM_COM								
-5	99	saIjXas	NOM	COMIT	Y	NOM_COM								
+5	98	razj-xes	NOM	COM	Y	NOM_COM								
+5	99	saIjXas	NOM	COM	Y	NOM_COM								
 5	100	-	*	*	*									
 5	101	iIXas	*	*	*									
 5	102	-	*	*	*									
@@ -10906,7 +11036,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 41	115	жаліє	NOM	ACC	TR	TR								
 41	116	заздрить	NOM	DAT	Y	NOM_DAT								
 41	117	злиться	NOM	naACC	Y	NOM_naACC								
-41	118	здивувався	NOM	zGEN	Y	NOM_INS								
+41	118	здивувався	NOM	INS	Y	NOM_INS								
 41	119	любить	NOM	ACC	TR	TR								
 41	120	насолоджується	NOM	INS	Y	NOM_INS								
 41	121	хоче	NOM	ACC	TR	TR								
@@ -10916,7 +11046,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 41	125	вразило	*	*	*									
 41	126	зневажає	NOM	ACC	TR	TR								
 41	127	засмутився	NOM	cerezACC	Y	NOM_cerezACC								
-41	128	дратується	NOM	cerezACC	Y	NOM_naACC								
+41	128	дратується	NOM	naACC	Y	NOM_naACC								
 41	129	симпатизує	NOM	DAT	Y	NOM_DAT								
 41	130	соромиться	NOM	GEN	Y	NOM_GEN								
 51	1	ыалдь-	POSS	NOM	X	POSS_NOM								
