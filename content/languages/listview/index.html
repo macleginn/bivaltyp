@@ -1,7 +1,103 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <h2>List of languages</h2>
 <p>Click on the ‘link’ near the name of a language to open the description. Summary data for languages being prepared for publication can be found in the ‘<a href="../../data/patterns/">Patterns overview</a>’ section</p>
+<input type="button" value="Show the description" onclick="toggleDescription();">
+<div id="description">
+    <ul>
+    <li>
+        <p><strong>glottocode</strong> is the language’s code provided by <a href="https://glottolog.org/">Glottolog</a>.</p>
+    </li>
+    <li>
+        <p><strong>language</strong> is the name of the language. Note that in some cases there is no one-to-one correspondence between language names used in this project and their glottocodes. For example, Finnish and Ingrian Finnish are two different languages for the purposes of this project, but they share the same glottocode ‘finn1318’.</p>
+    </li>
+    <li>
+        <p><strong>macroarea</strong> identifies the macro-area (typically subcontinent size) where the language is spoken. The following partition of the world is used in this project: Australia; East and Southeast Asia; Europe; Mesoamerica; North Africa; North America; North and Central Asia; Papunesia; South America; South Asia; Sub-Saharan Africa; West Asia and the Caucasus.</p>
+    </li>
+    <li>
+        <p><strong>family (WALS)</strong> and <strong>genus (WALS)</strong> contain information on the genealogical affiliation of the language as provided in the <a href="https://wals.info/">World Atlas of Language Structures Online</a>. Although imperfect in many respects, the system employed by WALS is convenient in that it provides a uniform two-level affiliation for each language, where “family” corresponds to a taxon with a time-depth comparable to that of the Indo-European languages, and “genus” to a taxon with a time-depth comparable to that of the major branches of the Indo-European family, such as Germanic or Celtic. </p>
+    </li>
+    <li>
+        <p><strong>overall N</strong> is the total number of patterns that meet the acceptance criteria, see [How to read the data]{{ how to read the data }} for more detail. </p>
+    </li>
+    <li>
+        <p><strong>transitives</strong> and <strong>intransitives</strong> are the total number of transitive and intransitive patterns respectively. Their sum always equals ‘overall N’.</p>
+    </li>
+    <li>
+        <p><strong>transitivity ratio</strong> and <strong>intransitivity ratio</strong> are coefficients calculated by dividing the number of transitive and intransitive patterns, respectively, by the ‘overall N’. The sum of these two ratios always equals 1.</p>
+    </li>
+    <li>
+        <p><strong>X-locus</strong>, <strong>Y-locus</strong>, and <strong>XY-locus</strong> are the number of patterns that display oblique encoding of the first argument (X), the second argument (Y), or both predefined arguments of the verb (X and Y) respectively. The sum of these three numbers always equals the total number of intransitives. See [How to read the data]{{ how to read the data }} for more detail on X-, Y- and XY-locus.</p>
+    </li>
+    <li>
+        <p><strong>number of classes</strong> is the total number of different valency patterns observed in the data.</p>
+    </li>
+    <li>
+        <p><strong>entropy (nat)</strong> measures the degree of diversity observed in the language’s valency class system. Shannon’s entropy (measured in nats) is calculated as follows:
+
+        \[ \displaystyle H = - \sum^{n}_{i=1} \left( \dfrac{|C_i|}{|P|} \right) \log \left( \dfrac{|C_i|}{|P|} \right) \]
+        where \(n\) is the number of different valency patterns observed in the data (‘number of classes’), \(C_i\) is the \(i\)-th valency class, \(P\) is the total number of patterns that meet the acceptance criteria (‘overall N’), and <i>log</i> corresponds to the natural logarithm. The theoretical minimum for \(H\) is 0 (it would be observed in a hypothetical language where all bivalent verbs belong to the same valency class). Higher entropy values correspond to greater levels of diversity.
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>normalised entropy</strong> is entropy corrected for the size of the collected sample of verbs. Entropy is positively correlated with the size of the support of the distribution, for which it is calculated. The number of data points obtained for different languages varies between 55 and 130, and we may assume that the entropy estimates for languages with a small <em>overall N</em> are skewed downwards because smaller samples underrepresent the range of variation found in them. To correct for this, we fix a sample size of 100 and for each language compute the expected value of its entropy for this sample size. The expected entropy is computed according to the formula \( H k_n \), where \(H\) is the actual entropy value for the language and \(k_n\) is the correction coefficient dependent on the sample size \(n\).
+        </p>
+        <p>
+            The values for the coefficient were computed using a variant of bootstrap resampling: for each sample of verbs \(k\) of size \(s \ge 100 \), we first sampled 100 subsamples of size 100 without replacement and computed their average entropy \(e_{k,100}\). We then took 100 subsamples \(a_{k,i,j}, i \in \{1, \dots, 100\}\) of sizes \(j \in \{55, 56, \dots , s\}\) and computed the average of \( \dfrac{e_{k,100}}{e_{k,i,j}} \) over them. These bootrstrapped per-language and per-sample-size coefficients were then averaged over languages to derive \(k_n\). In order to make them more robust, we divided sample sizes into several bins and associated a pooled correction coefficient with each bin.
+        </p>
+        <table>
+        <thead>
+        <tr>
+        <th>from</th>
+        <th>to</th>
+        <th>Correction</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td>55</td>
+        <td>59</td>
+        <td>1.04</td>
+        </tr>
+        <tr>
+        <td>60</td>
+        <td>69</td>
+        <td>1.03</td>
+        </tr>
+        <tr>
+        <td>70</td>
+        <td>78</td>
+        <td>1.02</td>
+        </tr>
+        <tr>
+        <td>79</td>
+        <td>92</td>
+        <td>1.01</td>
+        </tr>
+        <tr>
+        <td>93</td>
+        <td>109</td>
+        <td>1</td>
+        </tr>
+        <tr>
+        <td>110</td>
+        <td>130</td>
+        <td>0.99</td>
+        </tr>
+        </tbody>
+        </table>
+    </li>
+    <li>
+        <strong>entopy of intransitives</strong> is the observed Shannon’s entropy calculated for intransitive patterns only. This measure estimates the degree of diversity in bivalent intransitive classes.
+    </li>
+    </ul>
+</div>
 <div id="table"></div>
 <script>
+    function toggleDescription() {
+
+    }
     // dataframe-js singleton object.
     let DataFrame = dfjs.DataFrame;
 
