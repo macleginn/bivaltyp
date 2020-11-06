@@ -29,12 +29,12 @@ are in (1) and (2).
 
 ```
 (1) Pinχas  aχal           tapuaχ  
-    Pinchas eat[PST.3SG.M] apple  
-    “P. ate an apple.”
+    PN      eat[PST.3SG.M] apple  
+    “Pinchas ate an apple.”
 
 (2) Pinχas  kofef           et ha  anaf  
-    Pinchas bend[PST.3SG.M] DO DEF branch  
-    “P. bent the branch.”
+    PN      bend[PST.3SG.M] DO DEF branch  
+    “Pinchas bent the branch.”
 ```
 
 Non-core arguments are typically flagged by prepositions.
