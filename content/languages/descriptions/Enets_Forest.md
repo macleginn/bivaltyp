@@ -30,7 +30,7 @@ For the singular nouns of non-default inflectional classes without possessive ma
 ```
 (1) kasa-jʔ         tetʃi-za                biz        ixura
     man-NOM.SG.1SG  be_cold(IPFV)-PTCP.SIM  water.OBL  drink(PFV).3SG.S
-    ‘My friend drank cold water’.
+    ‘My friend drank cold water.’
 ```
 
 For the nouns marked with the possessive markers, the formal distinguishability of subject and direct object depends on the person and number of the possessor and the number of the possessee. Table 1 gives the Forest Enets possessive markers for the singular possessor used for the nouns in the positions of subject, adnominal/postpositional dependent and direct object. 
