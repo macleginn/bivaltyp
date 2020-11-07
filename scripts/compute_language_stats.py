@@ -73,7 +73,7 @@ for language_no in data.language_no.unique():
 
     records.append({
         'language_no': language_no,
-        'number of nominal cases': language_data.loc[language_no].number_nominal_cases,
+        'number of nominal cases': int(language_data.loc[language_no].number_nominal_cases),
         'overallN': overall_N,
         'transitives': transitives,
         'intransitives': intransitives,
