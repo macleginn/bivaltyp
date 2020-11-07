@@ -33,7 +33,8 @@ def get_normalisation_coefficient(sample_size):
 
 
 data = pd.read_csv('../data/data_for_download.csv', sep='\t')
-language_data = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
+language_data = pd.read_csv('../data/languages.csv', sep='\t')
+language_data.index = language_data.language_no
 lang_dict = {}
 for t in language_data.itertuples():
     lang_dict[t.language_no] = t.language
@@ -72,7 +73,7 @@ for language_no in data.language_no.unique():
 
     records.append({
         'language_no': language_no,
-        'number of nominal cases': language_data.number_nominal_cases,
+        'number of nominal cases': language_data.loc[language_no].number_nominal_cases,
         'overallN': overall_N,
         'transitives': transitives,
         'intransitives': intransitives,

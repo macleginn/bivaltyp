@@ -3,7 +3,7 @@
 import pandas as pd
 from collect_language_data import COLNAMES_OUT_STRUCTURAL
 
-language_meta = pd.read_csv('../data/languages.csv', sep='\t', skiprows=[1])
+language_meta = pd.read_csv('../data/languages.csv', sep='\t')
 lang_name2no = {
     t.language: t.language_no for t in language_meta.itertuples()
 }
