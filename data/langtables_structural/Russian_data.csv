@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal	verb_original_orthography	sentence_original_orthography
+1	Russian	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	болеть	uGEN	NOM	X	uGEN_NOM									
+1	Russian	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	болеть	NOM	INS	Y	NOM_INS									
+1	Russian	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	бояться	NOM	GEN	Y	NOM_GEN									
+1	Russian	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	бросить	NOM	ACC	TR	TR									
+1	Russian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	хватать	DAT	GEN	XY	DAT_GEN									
+1	Russian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	быть похожим	NOM	naACC	Y	NOM_naACC							NV		
+1	Russian	7	believe	X (believe) Y	верить	X (верить)Y-у	верить	NOM	DAT	Y	NOM_DAT									
+1	Russian	8	take	X (take) Y	взять	X (брать) Y(-а)	взять	NOM	ACC	TR	TR									
+1	Russian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	видеть	NOM	ACC	TR	TR									
+1	Russian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	влиять	NOM	naACC	Y	NOM_naACC									
+1	Russian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	встречаться	NOM	sINS	Y	NOM_sINS									
+1	Russian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	входить 	NOM	vACC	Y	NOM_vACC									
+1	Russian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	выиграть	NOM	uGEN	Y	NOM_uGEN									
+1	Russian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	выходить	NOM	izGEN	Y	NOM_izGEN									
+1	Russian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	гнать	NOM	ACC	TR	TR									
+1	Russian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	гнуть	NOM	ACC	TR	TR									
+1	Russian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	говорить	NOM	DAT	Y	NOM_DAT									
+1	Russian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	держать	NOM	ACC	TR	TR									
+1	Russian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	догнать	NOM	ACC	TR	TR									
+1	Russian	20	milk	X (milk) Y	доить	X (доить) Y-а	доить	NOM	ACC	TR	TR									
+1	Russian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	достичь	NOM	GEN	Y	NOM_GEN									
+1	Russian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	дотронуться	NOM	doGEN	Y	NOM_doGEN									
+1	Russian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	драться	NOM	sINS	Y	NOM_sINS									
+1	Russian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	дружить	NOM	sINS	Y	NOM_sINS									
+1	Russian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	думать	NOM	oLOC	Y	NOM_oLOC									
+1	Russian	26	eat	X (eat) Y	есть	X (есть) Y	есть	NOM	ACC	TR	TR									
+1	Russian	27	fry	X (fry) Y	жарить	X (жарить) Y	жарить	NOM	ACC	TR	TR									
+1	Russian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	ждать	NOM	ACC	TR	TR							Раньше я думал, что это GEN		
+1	Russian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	забывать	NOM	oLOC	Y	NOM_oLOC									
+1	Russian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	зависеть	NOM	otGEN	Y	NOM_otGEN									
+1	Russian	31	call	X (call) Y	звать	X (звать) Y-а	звать	NOM	ACC	TR	TR									
+1	Russian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	знакомиться	NOM	sINS	Y	NOM_sINS									
+1	Russian	33	know	X (know) Y	знать 	X (знать) Y-а	знать 	NOM	ACC	TR	TR									
+1	Russian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	играть	NOM	naINS	Y	NOM_naINS									
+1	Russian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	избегать	NOM	GEN	Y	NOM_GEN							или TR		
+1	Russian	36	make	X (make) Y	изготовить	X (изготовить) Y	изготовлять	NOM	ACC	TR	TR									
+1	Russian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	издеваться	NOM	nadINS	Y	NOM_nadINS									
+1	Russian	38	have	X (have) Y	иметь	X (иметь) Y	быть	uGEN	NOM	X	uGEN_NOM							чаще у X-а (быть) Y		
+1	Russian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	искать	NOM	ACC	TR	TR							с неод. возможен РОД		
+1	Russian	40	paint	X (paint) Y	красить	X (красить) Y	красить	NOM	ACC	TR	TR									
+1	Russian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	кусать	NOM	ACC	TR	TR									
+1	Russian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	лишаться	NOM	GEN	Y	NOM_GEN									
+1	Russian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	ловить	NOM	ACC	TR	TR									
+1	Russian	44	break	X (break) Y	ломать	X (ломать) Y	ломать	NOM	ACC	TR	TR									
+1	Russian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	льстить	NOM	DAT	Y	NOM_DAT									
+1	Russian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	любить-1	NOM	ACC	TR	TR									
+1	Russian	47	wave	X (wave) Y	махать	X (махать) Y-ом	махать	NOM	INS	Y	NOM_INS									
+1	Russian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	мечтать	NOM	oLOC	Y	NOM_oLOC									
+1	Russian	49	wash	X (wash) Y	мыть	X (мыть) Y	мыть	NOM	ACC	TR	TR									
+1	Russian	50	put_on	X (put_on) Y	надевать	X (надевать) Y	надевать	NOM	ACC	TR	TR									
+1	Russian	51	be_called	X (be_called) Y	называться	X (называться) Y	называться	NOM	INS	Y	NOM_INS							или НОМ		
+1	Russian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	наказывать	NOM	ACC	TR	TR									
+1	Russian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	напасть	NOM	naACC	Y	NOM_naACC									
+1	Russian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	наполняться	NOM	INS	Y	NOM_INS									
+1	Russian	55	find	X (find) Y	находить	X (находить) Y(-а)	находить	NOM	ACC	TR	TR									
+1	Russian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	недоставать	DAT	GEN	XY	DAT_GEN									
+1	Russian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	ненавидеть	NOM	ACC	TR	TR									
+1	Russian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	нравиться	DAT	NOM	X	DAT_NOM									
+1	Russian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	нуждаться	NOM	vLOC	Y	NOM_vLOC									
+1	Russian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	окружать	NOM	ACC	TR	TR									
+1	Russian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	оставаться	uGEN	NOM	X	uGEN_NOM									
+1	Russian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	отвечать	NOM	DAT	Y	NOM_DAT									
+1	Russian	63	open	X (open) Y	открывать	X (открывать) Y	открывать	NOM	ACC	TR	TR									
+1	Russian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	отличаться	NOM	otGEN	Y	NOM_otGEN									
+1	Russian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	отстать	NOM	otGEN	Y	NOM_otGEN									
+1	Russian	66	plough	X (plough) Y	пахать	X (пахать) Y	пахать	NOM	ACC	TR	TR									
+1	Russian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	пахнуть	NOM	INS	Y	NOM_INS									
+1	Russian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	пересечь	NOM	ACC	TR	TR									
+1	Russian	69	sing	X (sing) Y	петь	X (петь) Y	петь	NOM	ACC	TR	TR									
+1	Russian	70	write	X (write) Y	писать	X (писать) Y	писать	NOM	ACC	TR	TR									
+1	Russian	71	drink	X (drink) Y	пить	X (пить) Y	пить	NOM	ACC	TR	TR									
+1	Russian	72	melt	X (melt) Y	плавить	X (плавить) Y	плавить	NOM	ACC	TR	TR									
+1	Russian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	подходить	NOM	kDAT	Y	NOM_kDAT									
+1	Russian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	покидать	NOM	izGEN	Y	NOM_izGEN									
+1	Russian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	покрывать	NOM	ACC	TR	TR									
+1	Russian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	помнить	NOM	oLOC	Y	NOM_oLOC									
+1	Russian	77	help	X (help) Y	помочь	X (помогать) Y-у	помочь	NOM	DAT	Y	NOM_DAT							3?		
+1	Russian	78	understand	X (understand) Y	понимать	X (понимать) Y	понимать	NOM	ACC	TR	TR									
+1	Russian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	попасть	NOM	vACC	Y	NOM_vACC									
+1	Russian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	порезаться	NOM	INS	Y	NOM_INS									
+1	Russian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	прилипать	NOM	kDAT	Y	NOM_kDAT									
+1	Russian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	проиграть	NOM	DAT	Y	NOM_DAT									
+1	Russian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	радоваться	NOM	DAT	Y	NOM_DAT									
+1	Russian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	разговаривать	NOM	sINS	Y	NOM_sINS									
+1	Russian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	рожать	NOM	ACC	TR	TR									
+1	Russian	86	drop	X (drop) Y	ронять	X (ронять) Y	ронять	NOM	ACC	TR	TR									
+1	Russian	87	govern	X (govern) Y	руководить	X (руководить) Y	руководить	NOM	INS	Y	NOM_INS									
+1	Russian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	скучать	NOM	poDAT	Y	NOM_poDAT							было по ПРЕД		
+1	Russian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	следовать	NOM	zaINS	Y	NOM_zaINS									
+1	Russian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	слезать	NOM	sGEN	Y	NOM_sGEN									
+1	Russian	91	listen	X (listen) to Y	слушать	X (слушать) Y	слушать	NOM	ACC	TR	TR									
+1	Russian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	слушаться	NOM	ACC	TR	TR									
+1	Russian	93	hear	X (hear) Y	слышать	X (слышать) Y	слышать	NOM	ACC	TR	TR									
+1	Russian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	смешаться	NOM	sINS	Y	NOM_sINS									
+1	Russian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	смотреть	NOM	naACC	Y	NOM_naACC									
+1	Russian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	снимать	NOM	ACC	TR	TR									
+1	Russian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	сниться	DAT	NOM	X	DAT_NOM									
+1	Russian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	соглашаться	NOM	sINS	Y	NOM_sINS									
+1	Russian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	ссориться	NOM	sINS	Y	NOM_sINS									
+1	Russian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	стоить	NOM	ACC	TR	TR									
+1	Russian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	стрелять	NOM	vACC	Y	NOM_vACC									
+1	Russian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	сыпать	NOM	ACC	TR	TR									
+1	Russian	103	lose	X (lose) Y	терять	X (терять) Y	терять	NOM	ACC	TR	TR									
+1	Russian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	тонуть	NOM	vLOC	Y	NOM_vLOC									
+1	Russian	105	kill	X (kill) Y	убивать	X (убивать) Y-а	убивать	NOM	ACC	TR	TR									
+1	Russian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	ударить	NOM	ACC	TR	TR									
+1	Russian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	целовать	NOM	ACC	TR	TR									
+1	Russian	108	read	X (read) Y	читать	X (читать) Y-а	читать	NOM	ACC	TR	TR									
+1	Russian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	шевелить	NOM	INS	Y	NOM_INS									
+1	Russian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	уважать	NOM	ACC	TR	TR									
+1	Russian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	брезговать	NOM	INS	Y	NOM_INS									
+1	Russian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	быть довольным	NOM	INS	Y	NOM_INS							NV		
+1	Russian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	влюбляться	NOM	vACC	Y	NOM_vACC									
+1	Russian	114	trust	X (trust) Y	доверять	X (доверять) Y-у	доверять	NOM	DAT	Y	NOM_DAT									
+1	Russian	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	жалеть	NOM	ACC	TR	TR									
+1	Russian	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	завидовать	NOM	DAT	Y	NOM_DAT									
+1	Russian	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	злиться	NOM	naACC	Y	NOM_naACC									
+1	Russian	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	удивляться	NOM	DAT	Y	NOM_DAT									
+1	Russian	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	любить-2	NOM	ACC	TR	TR									
+1	Russian	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	наслаждаться	NOM	INS	Y	NOM_INS									
+1	Russian	121	want	X (want) Y	хотеть	X (хотеть) Y-а	хотеть	NOM	ACC	TR	TR									
+1	Russian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	сердиться	NOM	naACC	Y	NOM_naACC									
+1	Russian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	обижаться	NOM	naACC	Y	NOM_naACC									
+1	Russian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	огорчать	NOM	ACC	TR	TR									
+1	Russian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	поражаться	NOM	DAT	Y	NOM_DAT									
+1	Russian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	презирать	NOM	ACC	TR	TR									
+1	Russian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	огорчаться	NOM	izzaGEN	Y	NOM_izzaGEN									
+1	Russian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	раздражаться	NOM	naACC	Y	NOM_naACC									
+1	Russian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	симпатизировать	NOM	DAT	Y	NOM_DAT									
+1	Russian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	стесняться	NOM	GEN	Y	NOM_GEN									

@@ -122,7 +122,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 83	Hebrew_Modern	121	want	X (want) Y	хотеть	X (хотеть) Y-а	rots-e	SBJ	DO	TR	TR		Pinχas rots-e telefon najad χadaʃ	PN want[PTCP.SG]-M phone mobile new	‘Pinchas wants a new mobile phone.’					
 83	Hebrew_Modern	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	noter tina	SBJ	le	Y	SBJ_le		Pinχas noter tina le Menaχem	PN guard[PTCP.SG.M] malice to PN	‘Pinchas holds a grudge against Menachem’			CV ('guard malice')		
 83	Hebrew_Modern	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	nifga	SBJ	mi	Y	SBJ_mi		Pinχas nifga mi Menaχem	PN be.offended[PST.3SG.M] from PN	‘Pinchas took offence at Menachem’					
-83	Hebrew_Modern	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	hirgiz 	SBJ	DO	TR	TR		Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much PN	‘Pinchas greatly upset Miriam’					
+83	Hebrew_Modern	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	hirgiz 	SBJ	DO	TR	TR		Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much DO PN	‘Pinchas greatly upset Miriam’
 83	Hebrew_Modern	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	hitraʃem	SBJ	mi	Y	SBJ_mi		Pinχas hitraʃem me ha ir ha z-o	PN be.impressed[PST.3SG.M] from DEF town DEF this-SG.F	‘Pinchas was impressed by this town.’					
 83	Hebrew_Modern	126	despise	X (despise) Y	презирать	X (презирать) Y-а	metaev	SBJ	DO	TR	TR		Pinχas metaev et Menaχem	PN despise[PTCP.SG.M] DO PN	‘Pinchas despises Menachem’					
 83	Hebrew_Modern	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	hitatsben	SBJ	al	Y	SBJ_al		Pinχas hitatsben al ha ben ʃel-o	PN become.annoyed[PST.3SG.M] on DEF son POSS-3SG.M	‘Pinchas got upset with his son.’					
