@@ -17,7 +17,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 83	Hebrew_Modern	16	bend	X (bend) Y	гнуть	X (гнуть) Y	kofef	SBJ	DO	TR	TR		Pinχas kofef et ha anaf	PN bend[PST.3SG.M] DO DEF branch	‘Pinchas bent the branch.’					
 83	Hebrew_Modern	17	tell	X (tell) Y	говорить	X (говорить) Y-у	amar	SBJ	le	Y	SBJ_le		Pinχas amar le Menaχem	PN say[PST.3SG.M] to PN	‘Pinchas told Menachem.’					
 83	Hebrew_Modern	18	hold	X (hold)Y	держать	X (держать) Y(-а)	maχzik	SBJ	DO	TR	TR		Pinχas maχzik sefer	PN hold[PTCP.SG.M] book	‘Pinchas is holding a book.’					
-83	Hebrew_Modern	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	higia	SBJ	el	Y	SBJ_el		Pinχas higia el Mirjam	PN reach[PST.3SG.M] towards Miriam	‘Pinchas caught up with Menachem’			Same as #21. Alternative translation is Pinχas hidbik et tsadiy-a ʃel Mirjam, "Pinchas catch.up[PST.3SG.M] DO side-POSS.3SG.F POSS Miriam", not suitable for my purposes, because Mirjam is the adnominal dependent of "side"		
+83	Hebrew_Modern	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	higia	SBJ	el	Y	SBJ_el		Pinχas higia el Mirjam	PN reach[PST.3SG.M] towards PN	‘Pinchas caught up with Miriam’			Same as #21. Alternative translation is Pinχas hidbik et tsadiy-a ʃel Mirjam, "Pinchas catch.up[PST.3SG.M] DO side-POSS.3SG.F POSS Miriam", not suitable for my purposes, because Mirjam is the adnominal dependent of "side"		
 83	Hebrew_Modern	20	milk	X (milk) Y	доить	X (доить) Y-а	χalav	SBJ	DO	TR	TR		Pinχas χalav et ha para	PN milk[PST.3SG.M] DO DEF cow	‘Pinchas milked the cow.’					
 83	Hebrew_Modern	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	higia 	SBJ	el	Y	SBJ_el		Pinχas higia el ha gada	PN reach[PST.3SG.M] towards DEF bank	‘Pinchas reached the bank.’			Same as #19		
 83	Hebrew_Modern	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	naga 	SBJ	be	Y	SBJ_be		Pinχas naga ba kir	PN touch[PST.3SG.M] in+DEF wall	‘Pinchas touched the wall.’					
@@ -83,7 +83,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 83	Hebrew_Modern	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	ifsid	SBJ	le	Y	SBJ_le		Pinχas ifsid le Menaχem	PN lose[PST.3SG.M] to PN	‘Pinchas lost to Menachem’					
 83	Hebrew_Modern	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	samaχ	SBJ	legabej	Y	SBJ_legabej		Pinχas samaχ legabej ha miχtav	PN be.glad[PST.3SG.M] about DEF letter	‘Pinchas was glad about the letter.’					
 83	Hebrew_Modern	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	medaber	SBJ	im	Y	SBJ_im		Pinχas medaber im Menaχem	PN speak[PTCP.SG.M] with PN	‘Pinchas is speaking with Menachem’					
-83	Hebrew_Modern	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	jald-a	SBJ	DO	TR	TR		Mirjam jald-a ben	Miriam give.birth[PST]-3SG.F son	‘Menachem gave birth to a son.’					
+83	Hebrew_Modern	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	jald-a	SBJ	DO	TR	TR		Mirjam jald-a ben	PN give.birth[PST]-3SG.F son	‘Miriam gave birth to a son.’					
 83	Hebrew_Modern	86	drop	X (drop) Y	ронять	X (ронять) Y	hipil	SBJ	DO	TR	TR		Pinχas hipil et ha kos	PN drop[PST.3SG.M] DO DEF glass	‘Pinchas dropped the glass.’					
 83	Hebrew_Modern	87	govern	X (govern) Y	руководить	X (руководить) Y	menahel	SBJ	DO	TR	TR		Pinχas menahel et ha ir ʃel-anu	PN manage[PTCP.SG.M] DO DEF city POSS-1PL	‘Pinchas runs our town.’					
 83	Hebrew_Modern	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	mitgagea	SBJ	le	Y	SBJ_le		Pinχas mitgagea le Menaχem	PN miss[PTCP.SG.M] to PN	‘Pinchas misses Menachem’					
@@ -95,7 +95,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 83	Hebrew_Modern	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	hitarbev	SBJ	im	Y	SBJ_im		ha dvaʃ hitarbev im ha χalav	DEF honey get.mixed[PST.3SG.M] with DEF milk	‘The honey got mixed with milk.’					
 83	Hebrew_Modern	95	look	X (look) at Y	смотреть	X (смотреть) на Y	mistakel	SBJ	al	Y	SBJ_al		Pinχas mistakel al ha anan-im	PN look[PTCP.SG.M] on DEF cloud-PL	‘Pinchas is looking at the clouds.’					
 83	Hebrew_Modern	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	paʃat	SBJ	DO	TR	TR		Pinχas paʃat et ha χultsa ʃel-o	PN take.off[PST.3SG.M] DO DEF shirt POSS-3SG.M	‘Pinchas took off his shirt.’			Alternative: horid, same structure		
-83	Hebrew_Modern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	χolem-et	SBJ	al	Y	SBJ_al		Mirjam χolem-et al Pinχas	Miriam dream[PTCP]-SG.F on PN	‘Menachem dreams about Pinchas’			Same as #48		
+83	Hebrew_Modern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	χolem-et	SBJ	al	Y	SBJ_al		Mirjam χolem-et al Pinχas	PN dream[PTCP]-SG.F on PN	‘Miriam dreams about Pinchas’			Same as #48		
 83	Hebrew_Modern	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	hiskim	SBJ	im	Y	SBJ_im		Pinχas hiskim im Menaχem	PN agree[PST.3SG.M] with PN	‘Pinchas agreed with Menachem’					
 83	Hebrew_Modern	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	rav	SBJ	im	Y	SBJ_im		Pinχas rav im Menaχem	PN quarrel[PST.3SG.M] with PN	‘Pinchas had a quarrel with Menachem’			Same as #23		
 83	Hebrew_Modern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	ol-a	SBJ	DO	TR	TR		ha kos ha z-ot ol-a juro	DEF cup DEF this[SG]-F cost[PTCP]-SG.F euro	‘This cup costs 1 euro.’					
@@ -122,7 +122,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 83	Hebrew_Modern	121	want	X (want) Y	хотеть	X (хотеть) Y-а	rots-e	SBJ	DO	TR	TR		Pinχas rots-e telefon najad χadaʃ	PN want[PTCP.SG]-M phone mobile new	‘Pinchas wants a new mobile phone.’					
 83	Hebrew_Modern	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	noter tina	SBJ	le	Y	SBJ_le		Pinχas noter tina le Menaχem	PN guard[PTCP.SG.M] malice to PN	‘Pinchas holds a grudge against Menachem’			CV ('guard malice')		
 83	Hebrew_Modern	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	nifga	SBJ	mi	Y	SBJ_mi		Pinχas nifga mi Menaχem	PN be.offended[PST.3SG.M] from PN	‘Pinchas took offence at Menachem’					
-83	Hebrew_Modern	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	hirgiz 	SBJ	DO	TR	TR		Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much Miriam	‘Pinchas greatly upset Menachem’					
+83	Hebrew_Modern	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	hirgiz 	SBJ	DO	TR	TR		Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much PN	‘Pinchas greatly upset Miriam’					
 83	Hebrew_Modern	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	hitraʃem	SBJ	mi	Y	SBJ_mi		Pinχas hitraʃem me ha ir ha z-o	PN be.impressed[PST.3SG.M] from DEF town DEF this-SG.F	‘Pinchas was impressed by this town.’					
 83	Hebrew_Modern	126	despise	X (despise) Y	презирать	X (презирать) Y-а	metaev	SBJ	DO	TR	TR		Pinχas metaev et Menaχem	PN despise[PTCP.SG.M] DO PN	‘Pinchas despises Menachem’					
 83	Hebrew_Modern	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	hitatsben	SBJ	al	Y	SBJ_al		Pinχas hitatsben al ha ben ʃel-o	PN become.annoyed[PST.3SG.M] on DEF son POSS-3SG.M	‘Pinchas got upset with his son.’					
