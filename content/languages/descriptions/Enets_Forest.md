@@ -65,11 +65,11 @@ Table 1. Case and possessive marking of nouns (singular possessors)
   <tr>
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">-jʔ, -b</td>
-    <td class="tg-0lax">-nʲʔ</td>
+    <td class="tg-0lax">-nʲiʔ</td>
     <td class="tg-0lax">-jʔ, -b</td>
-    <td class="tg-0lax">-nʲʔ</td>
-    <td class="tg-0lax">-nʲʔ</td>
-    <td class="tg-0lax">-nʲʔ</td>
+    <td class="tg-0lax">-nʲiʔ</td>
+    <td class="tg-0lax">-nʲiʔ</td>
+    <td class="tg-0lax">-nʲiʔ</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
