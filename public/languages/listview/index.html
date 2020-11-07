@@ -248,6 +248,7 @@
             row => row.set('entropy (nat)', row.get('entropy (nat)').toFixed(2)),
             row => row.set('normalised entropy', row.get('normalised entropy').toFixed(2)),
             row => row.set('entropy of intransitives (nat)', row.get('entropy of intransitives (nat)').toFixed(2)),
+            row => row.set('number of nominal cases', Math.round(row.get('number of nominal cases')))
             // row => row.set('maximum entropy for intransitives', row.get('maximum entropy for intransitives').toFixed(2)),
             // row => row.set('entropy ratio', row.get('entropy ratio').toFixed(2))
         )
