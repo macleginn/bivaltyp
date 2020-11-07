@@ -17,7 +17,7 @@ Sergey Say provided the data in {{ data_collection_year }} in the capacity of a 
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }} 
 
-The data are presented using [scientific translitteration](https://en.wikipedia.org/wiki/Scientific_transliteration_of_Cyrillic). As a result, morphemic boundaries follow some idiosyncrasies of the Russian orthography, cf. *plat'-ju* (rather than morphologically more accurate *plat'j-u*) [dress(N)-DAT.SG], which corresponds to the orthographic плать-ю.
+The data are presented using [scientific transliteration](https://en.wikipedia.org/wiki/Scientific_transliteration_of_Cyrillic). As a result, morphemic boundaries follow some idiosyncrasies of the Russian orthography, cf. *plat'-ju* (rather than morphologically more accurate *plat'j-u*) [dress(N)-DAT.SG], which corresponds to the orthographic *плать-ю*.
 
 ## Grammar notes
 ### Basic clause structure and the transitive construction
@@ -37,8 +37,10 @@ Case marking displays the nominative-accusative alignment. In the basic transiti
 ```
 
 Declension class assignment is largely conditioned by gender and animacy, but partially is lexically idiosyncratic. The nominative-accusative syncretism is more typical of inanimate nouns (and never observed in personal pronouns).
+
 The verb always agrees with the nominative subject in number and person/gender (the choice of agreement features is conditioned by tense). Non-subjects are never indexed on the verb.
-Non-core arguments are flagged by oblique case markers and prepositions. Many prepositions can combine with several different cases; valency class labels represent prepositions in combination with the specific case, e.g., NOM_naACC is considered a different pattern from NOM_naLOC, etc.
+
+Non-core arguments are flagged by oblique case markers and prepositions. Many prepositions can combine with several different cases; valency class labels represent prepositions in combination with the specific case, e.g., NOM_naACC (where the preposition *na* combines with a noun phrase in the accusative case) and NOM_naLOC (where the same preposition combines with a noun phrase in the locative case) are considered two different valency patterns, etc.
 
 ### Case system
 There are 6 full-fledged cases: nominative, accusative, genitive, dative, instrumental and locative. 
