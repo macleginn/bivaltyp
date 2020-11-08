@@ -95,7 +95,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 83	Hebrew_Modern	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	hitarbev	SBJ	im	Y	SBJ_im		ha dvaʃ hitarbev im ha χalav	DEF honey get.mixed[PST.3SG.M] with DEF milk	‘The honey got mixed with milk.’					
 83	Hebrew_Modern	95	look	X (look) at Y	смотреть	X (смотреть) на Y	mistakel	SBJ	al	Y	SBJ_al		Pinχas mistakel al ha anan-im	PN look[PTCP.SG.M] on DEF cloud-PL	‘Pinchas is looking at the clouds.’					
 83	Hebrew_Modern	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	paʃat	SBJ	DO	TR	TR		Pinχas paʃat et ha χultsa ʃel-o	PN take.off[PST.3SG.M] DO DEF shirt POSS-3SG.M	‘Pinchas took off his shirt.’			Alternative: horid, same structure		
-83	Hebrew_Modern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	χolem-et	SBJ	al	Y	SBJ_al		Mirjam χolem-et al Pinχas	PN dream[PTCP]-SG.F on PN	‘Miriam dreams about Pinchas’			Same as #48		
+83	Hebrew_Modern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	χolem-et	SBJ	al	Y	SBJ_al		Pinχas χolem al Mirjam	PN dream[PTCP.SG.M] on PN	‘Pinchas dreams about Miriam’			Same as #48
 83	Hebrew_Modern	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	hiskim	SBJ	im	Y	SBJ_im		Pinχas hiskim im Menaχem	PN agree[PST.3SG.M] with PN	‘Pinchas agreed with Menachem’					
 83	Hebrew_Modern	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	rav	SBJ	im	Y	SBJ_im		Pinχas rav im Menaχem	PN quarrel[PST.3SG.M] with PN	‘Pinchas had a quarrel with Menachem’			Same as #23		
 83	Hebrew_Modern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	ol-a	SBJ	DO	TR	TR		ha kos ha z-ot ol-a juro	DEF cup DEF this[SG]-F cost[PTCP]-SG.F euro	‘This cup costs 1 euro.’					

@@ -73,7 +73,7 @@ for language_no in data.language_no.unique():
 
     records.append({
         'language_no': language_no,
-        'number of nominal cases': int(language_data.loc[language_no].number_nominal_cases),
+        'number of nominal cases': str(int(language_data.loc[language_no].number_nominal_cases)) if not pd.isna(language_data.loc[language_no].number_nominal_cases) else '',
         'overallN': overall_N,
         'transitives': transitives,
         'intransitives': intransitives,

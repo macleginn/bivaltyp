@@ -615,7 +615,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 83	94	hitarbev	SBJ	im	Y	SBJ_im	ha dvaʃ hitarbev im ha χalav	DEF honey get.mixed[PST.3SG.M] with DEF milk	‘The honey got mixed with milk.’					
 83	95	mistakel	SBJ	al	Y	SBJ_al	Pinχas mistakel al ha anan-im	PN look[PTCP.SG.M] on DEF cloud-PL	‘Pinchas is looking at the clouds.’					
 83	96	paʃat	SBJ	DO	TR	TR	Pinχas paʃat et ha χultsa ʃel-o	PN take.off[PST.3SG.M] DO DEF shirt POSS-3SG.M	‘Pinchas took off his shirt.’					
-83	97	χolem-et	SBJ	al	Y	SBJ_al	Mirjam χolem-et al Pinχas	PN dream[PTCP]-SG.F on PN	‘Miriam dreams about Pinchas’					
+83	97	χolem-et	SBJ	al	Y	SBJ_al	Pinχas χolem al Mirjam	PN dream[PTCP.SG.M] on PN	‘Pinchas dreams about Miriam’					
 83	98	hiskim	SBJ	im	Y	SBJ_im	Pinχas hiskim im Menaχem	PN agree[PST.3SG.M] with PN	‘Pinchas agreed with Menachem’					
 83	99	rav	SBJ	im	Y	SBJ_im	Pinχas rav im Menaχem	PN quarrel[PST.3SG.M] with PN	‘Pinchas had a quarrel with Menachem’					
 83	100	ol-a	SBJ	DO	TR	TR	ha kos ha z-ot ol-a juro	DEF cup DEF this[SG]-F cost[PTCP]-SG.F euro	‘This cup costs 1 euro.’					

@@ -615,7 +615,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	94	смешаться	hitarbev	SBJ	im	Y	SBJ_im	ha dvaʃ hitarbev im ha χalav	DEF honey get.mixed[PST.3SG.M] with DEF milk	‘The honey got mixed with milk.’					
 83	95	смотреть	mistakel	SBJ	al	Y	SBJ_al	Pinχas mistakel al ha anan-im	PN look[PTCP.SG.M] on DEF cloud-PL	‘Pinchas is looking at the clouds.’					
 83	96	снимать	paʃat	SBJ	DO	TR	TR	Pinχas paʃat et ha χultsa ʃel-o	PN take.off[PST.3SG.M] DO DEF shirt POSS-3SG.M	‘Pinchas took off his shirt.’					
-83	97	сниться	χolem-et	SBJ	al	Y	SBJ_al	Mirjam χolem-et al Pinχas	PN dream[PTCP]-SG.F on PN	‘Miriam dreams about Pinchas’					
+83	97	сниться	χolem-et	SBJ	al	Y	SBJ_al	Pinχas χolem al Mirjam	PN dream[PTCP.SG.M] on PN	‘Pinchas dreams about Miriam’					
 83	98	соглашаться	hiskim	SBJ	im	Y	SBJ_im	Pinχas hiskim im Menaχem	PN agree[PST.3SG.M] with PN	‘Pinchas agreed with Menachem’					
 83	99	ссориться	rav	SBJ	im	Y	SBJ_im	Pinχas rav im Menaχem	PN quarrel[PST.3SG.M] with PN	‘Pinchas had a quarrel with Menachem’					
 83	100	стоить	ol-a	SBJ	DO	TR	TR	ha kos ha z-ot ol-a juro	DEF cup DEF this[SG]-F cost[PTCP]-SG.F euro	‘This cup costs 1 euro.’					
