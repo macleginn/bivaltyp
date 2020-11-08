@@ -52,7 +52,7 @@ d_final = d_final[[
 ]]
 
 d_final['number of nominal cases'] = [
-    str(int(el)) if not pd.isna(el) else 'NA'
+    str(int(el)) if not pd.isna(el) else 'No data'
     for el in d_final['number of nominal cases']
 ]
 
