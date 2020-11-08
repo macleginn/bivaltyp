@@ -51,6 +51,11 @@ d_final = d_final[[
     # "entropy ratio"
 ]]
 
+d_final['number of nominal cases'] = [
+    str(int(el)) if not pd.isna(el) else ''
+    for el in d_final['number of nominal cases']
+]
+
 result = [list(d_final.columns)]
 for t in d_final.itertuples():
     result.append(list(t)[1:])
