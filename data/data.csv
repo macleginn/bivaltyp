@@ -524,47 +524,47 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	3	бояться	mefaχed	SBJ	mi	Y	SBJ_mi	Pinχas mefaχed me ha kelev	PN be.afraid[SG.M] from DEF dog	‘Pinchas is afraid of the dog.’					
 83	4	бросить	zarak	SBJ	DO	TR	TR	Pinχas zarak even	PN throw[PST.3SG.M] stone	‘Pinchas threw a stone.’					
 83	5	быть достаточно	*	*	*	*		aχʃav jeʃ le Pinχas maspik kesef	now there.is[PRS] to PN enough money	‘Now Pinchas has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
-83	6	быть похожим	dome	SBJ	le	Y	SBJ_le	Pinχas dome le Menaχem	PN similar to PN	‘Pinchas resembles Menachem’					
-83	7	верить	maamin 	SBJ	le	Y	SBJ_le	Pinχas maamin le Menaχem	PN believe[PTCP.SG.M] to PN	‘Pinchas believes Menachem’					
+83	6	быть похожим	dome	SBJ	le	Y	SBJ_le	Pinχas dome le Menaχem	PN similar to PN	‘Pinchas resembles Menachem.’					
+83	7	верить	maamin 	SBJ	le	Y	SBJ_le	Pinχas maamin le Menaχem	PN believe[PTCP.SG.M] to PN	‘Pinchas believes Menachem.’					
 83	8	взять	lakaχ	SBJ	DO	TR	TR	Pinχas lakaχ sefer	PN take[PST.3SG.M] book	‘Pinchas took a book.’					
 83	9	видеть	ro-e	SBJ	DO	TR	TR	Pinχas ro-e bajt	PN see[PTCP]-SG.M house	‘Pinchas sees a house.’					
 83	10	влиять	maʃpia	SBJ	al	Y	SBJ_al	gil maʃpia al ha zikaron	age influence[PTCP.SG.M] on DEF memory	‘Age influences memory.’					
-83	11	встречаться	nitkal 	SBJ	be	Y	SBJ_be	Pinχas nitkal be Menaχem	PN bump.into[PST.3SG.M] in PN	‘Pinchas encountered Menachem’					
+83	11	встречаться	nitkal 	SBJ	be	Y	SBJ_be	Pinχas nitkal be Menaχem	PN bump.into[PST.3SG.M] in PN	‘Pinchas encountered Menachem.’					
 83	12	входить 	niχnas	SBJ	el	Y	SBJ_el	Pinχas niχnas el ha bajt	PN enter[PST.3SG.M] towards DEF house	‘Pinchas entered the house.’					
-83	13	выиграть	nitsaχ	SBJ	DO	TR	TR	Pinχas nitsaχ et Menaχem	PN beat[PST.3SG.M] DO PN	‘Pinchas beat Menachem’					
+83	13	выиграть	nitsaχ	SBJ	DO	TR	TR	Pinχas nitsaχ et Menaχem	PN beat[PST.3SG.M] DO PN	‘Pinchas beat Menachem.’					
 83	14	выходить	jatsa	SBJ	mi	Y	SBJ_mi	Pinχas jatsa me ha bajt	PN exit[PST.3SG.M] from DEF house	‘Pinchas went out of the house.’					
 83	15	гнать	movil	SBJ	DO	TR	TR	Pinχas movil et ha para	PN drive[PTCP.SG.M] DO DEF cow	‘Pinchas is driving the cow.’					
 83	16	гнуть	kofef	SBJ	DO	TR	TR	Pinχas kofef et ha anaf	PN bend[PST.3SG.M] DO DEF branch	‘Pinchas bent the branch.’					
 83	17	говорить	amar	SBJ	le	Y	SBJ_le	Pinχas amar le Menaχem	PN say[PST.3SG.M] to PN	‘Pinchas told Menachem.’					
 83	18	держать	maχzik	SBJ	DO	TR	TR	Pinχas maχzik sefer	PN hold[PTCP.SG.M] book	‘Pinchas is holding a book.’					
-83	19	догнать	higia	SBJ	el	Y	SBJ_el	Pinχas higia el Mirjam	PN reach[PST.3SG.M] towards PN	‘Pinchas caught up with Miriam’					
+83	19	догнать	higia	SBJ	el	Y	SBJ_el	Pinχas higia el Mirjam	PN reach[PST.3SG.M] towards PN	‘Pinchas caught up with Miriam.’					
 83	20	доить	χalav	SBJ	DO	TR	TR	Pinχas χalav et ha para	PN milk[PST.3SG.M] DO DEF cow	‘Pinchas milked the cow.’					
 83	21	достичь	higia 	SBJ	el	Y	SBJ_el	Pinχas higia el ha gada	PN reach[PST.3SG.M] towards DEF bank	‘Pinchas reached the bank.’					
 83	22	дотронуться	naga 	SBJ	be	Y	SBJ_be	Pinχas naga ba kir	PN touch[PST.3SG.M] in+DEF wall	‘Pinchas touched the wall.’					
-83	23	драться	rav	SBJ	im	Y	SBJ_im	Pinχas rav im Menaχem	PN fight[PTCP.SG.M] with PN	‘Pinchas is fighting with Menachem’					
-83	24	дружить	χaver	*	*	*		Pinχas χaver ʃel Menaχem	PN friend POSS PN	‘Pinchas is friends with Menachem’	Not included in the database because Y is expressed as an NP-internal modifier.				
-83	25	думать	hoʃev	SBJ	al	Y	SBJ_al	Pinχas hoʃev al Menaχem	PN think[PTCP.SG.M] on PN	‘Pinchas is thinking about Menachem’					
+83	23	драться	rav	SBJ	im	Y	SBJ_im	Pinχas rav im Menaχem	PN fight[PTCP.SG.M] with PN	‘Pinchas is fighting with Menachem.’					
+83	24	дружить	χaver	*	*	*		Pinχas χaver ʃel Menaχem	PN friend POSS PN	‘Pinchas is friends with Menachem.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+83	25	думать	hoʃev	SBJ	al	Y	SBJ_al	Pinχas hoʃev al Menaχem	PN think[PTCP.SG.M] on PN	‘Pinchas is thinking about Menachem.’					
 83	26	есть	aχal	SBJ	DO	TR	TR	Pinχas aχal tapuaχ	PN eat[PST.3SG.M] apple	‘Pinchas ate an apple.’					
 83	27	жарить	tigen	SBJ	DO	TR	TR	Pinχas tigen et ha dag	PN fry[PST.3SG.M] DO DEF fish	‘Pinchas fried the fish.’					
-83	28	ждать	meχake	SBJ	le	Y	SBJ_le	Pinχas meχake le Menaχem	PN wait[PTCP.SG.M] to PN	‘Pinchas is waiting for Menachem’					
+83	28	ждать	meχake	SBJ	le	Y	SBJ_le	Pinχas meχake le Menaχem	PN wait[PTCP.SG.M] to PN	‘Pinchas is waiting for Menachem.’					
 83	29	забывать	ʃaχaχ	SBJ	DO	TR	TR	Pinχas ʃaχaχ et ha dereχ ha aχeret	PN forget[PST.3SG.M] DO DEF road DEF other	‘Pinchas forgot (about) the other road.’					
 83	30	зависеть	taluj 	SBJ	be	Y	SBJ_be	zikaron taluj be gil	memory dependent in age	‘Memory depends on age.’					
-83	31	звать	hitkaʃer	SBJ	le	Y	SBJ_le	Pinχas hitkaʃer le Menaχem	PN call[PST.3SG.M] to PN	‘Pinchas called Menachem’					
+83	31	звать	hitkaʃer	SBJ	le	Y	SBJ_le	Pinχas hitkaʃer le Menaχem	PN call[PST.3SG.M] to PN	‘Pinchas called Menachem.’					
 83	32	знакомиться	hikir	SBJ	DO	TR	TR	Pinχas hikir et Menaχem lifnej ʃaa	PN know[PST.3SG.M] DO PN ago year	‘Pinchas got to know Menachem a year ago.’					
-83	33	знать 	makir	SBJ	DO	TR	TR	Pinχas makir et Menaχem	PN know[PTCP.SG.M] DO PN	‘Pinchas knows Menachem’					
+83	33	знать 	makir	SBJ	DO	TR	TR	Pinχas makir et Menaχem	PN know[PTCP.SG.M] DO PN	‘Pinchas knows Menachem.’					
 83	34	играть	menagen	SBJ	be	Y	SBJ_be	Pinχas menagen ba gitara	PN play[PTCP.SG.M] in+DEF guitar	‘Pinchas is playing the guitar.’					
-83	35	избегать	mitχamek	SBJ	mi	Y	SBJ_mi	Pinχas mitχamek mi Menaχem	PN avoid[PTCP.SG.M] from PN	‘Pinchas avoids Menachem’					
+83	35	избегать	mitχamek	SBJ	mi	Y	SBJ_mi	Pinχas mitχamek mi Menaχem	PN avoid[PTCP.SG.M] from PN	‘Pinchas avoids Menachem.’					
 83	36	изготовить	heχin	SBJ	DO	TR	TR	Pinχas heχin malkodet aχbar-im	PN prepare[PST.3SG.M] trap mouse-PL	‘Pinchas made a mousetrap.’					
-83	37	издеваться	maknit	SBJ	DO	TR	TR	Pinχas maknit et Menaχem	PN tease[PTCP.SG.M] DO PN	‘Pinchas is making fun of Menachem’					
+83	37	издеваться	maknit	SBJ	DO	TR	TR	Pinχas maknit et Menaχem	PN tease[PTCP.SG.M] DO PN	‘Pinchas is making fun of Menachem.’					
 83	38	иметь	jeʃ 	le	SBJ	X	le_SBJ	jeʃ le Pinχas meχona	there.is[PRS] to PN car	‘Pinchas has a car.’					
 83	39	искать	meχapes	SBJ	DO	TR	TR	Pinχas meχapes et ha maftex-ot ʃel-o	PN search[PTCP.SG.M] DO DEF key-PL POSS-3SG.M	‘Pinchas is looking for his keys.’					
 83	40	красить	tsava	SBJ	DO	TR	TR	Pinχas tsava et ha gader	PN paint[PST.3SG.M] DO DEF fence	‘Pinchas painted the fence.’					
-83	41	кусать	naʃaχ 	SBJ	DO	TR	TR	kelev naʃaχ et Pinχas	dog bite[PST.3SG.M] DO PN	‘A dog bit Pinchas’					
+83	41	кусать	naʃaχ 	SBJ	DO	TR	TR	kelev naʃaχ et Pinχas	dog bite[PST.3SG.M] DO PN	‘A dog bit Pinchas.’					
 83	42	лишаться	ibed	SBJ	DO	TR	TR	Pinχas ibed et ha bajt ʃel-o	PN lose[PST.3SG.M] DO DEF house POSS-3SG.M	‘Pinchas lost hist house.’					
 83	43	ловить	menas-e litpos	SBJ	DO	TR	TR	Pinχas menas-e litpos et ha χatul	PN try[PTCP]-SG.M catch[INF] DO DEF cat	‘Pinchas is trying to catch the cat.’					
 83	44	ломать	ʃavar	SBJ	DO	TR	TR	Pinχas ʃavar makel	PN break[PST.3SG.M] stick	‘Pinchas broke a stick.’					
-83	45	льстить	maχmi	SBJ	le	Y	SBJ_le	Pinχas maχmi le Menaχem	PN flatter[PTCP.SG.M] to PN	‘Pinchas is flattering Menachem’					
-83	46	любить-1	ohev	SBJ	DO	TR	TR	Pinχas ohev et Menaχem	PN love[PTCP.SG.M] DO PN	‘Pinchas loves Menachem’					
+83	45	льстить	maχmi	SBJ	le	Y	SBJ_le	Pinχas maχmi le Menaχem	PN flatter[PTCP.SG.M] to PN	‘Pinchas is flattering Menachem.’					
+83	46	любить-1	ohev	SBJ	DO	TR	TR	Pinχas ohev et Menaχem	PN love[PTCP.SG.M] DO PN	‘Pinchas loves Menachem.’					
 83	47	махать	menofef	SBJ	be	Y	SBJ_be	Pinχas menofef be mitpaχat	PN wave[PTCP.SG.M] in handkerchief	‘Pinchas is waving a handkerchief.’					
 83	48	мечтать	χolem	SBJ	al	Y	SBJ_al	Pinχas χolem al meχonit χadaʃa	PN dream[PTCP.SG.M] on car new	‘Pinchas is dreaming of a new car.’					
 83	49	мыть	ʃataf	SBJ	DO	TR	TR	Pinχas ʃataf et ha kos	PN wash[PST.3SG.M] DO DEF cup	‘Pinchas washed the cup.’					
@@ -575,7 +575,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	54	наполняться	hitmale	SBJ	be	Y	SBJ_be	ha dli hitmale be maim	DEF bucket fill[PST.3SG.M] in water	‘The bucket filled with water.’					
 83	55	находить	matsa	SBJ	DO	TR	TR	Pinχas matsa et ha mafteχot ʃel-o	PN find[PST.3SG.M] DO DEF key-PL POSS-3SG.M	‘Pinchas found his keys.’					
 83	56	недоставать	χaser	le	SBJ	X	le_SBJ	χaser le Pinχas juro eχad	is.lacking to PN euro one	‘Pinchas is one euro short.’					
-83	57	ненавидеть	sone	SBJ	DO	TR	TR	Pinχas sone et Menaχem	PN hate[PTCP.SG.M] DO PN	‘Pinchas hates Menachem’					
+83	57	ненавидеть	sone	SBJ	DO	TR	TR	Pinχas sone et Menaχem	PN hate[PTCP.SG.M] DO PN	‘Pinchas hates Menachem.’					
 83	58	нравиться	ohev	SBJ	DO	TR	TR	Pinχas ohev et ha χultsa ha z-o	PN love[PTCP.SG.M] DO DEF shirt DEF this[SG]-F	‘Pinchas likes this shirt.’					
 83	59	нуждаться	tsariχ	SBJ	DO	TR	TR	Pinχas tsariχ kesef	PN need[PTCP.SG.M] money	‘Pinchas needs money.’					
 83	60	окружать	makif-ot	SBJ	DO	TR	TR	χom-ot makif-ot et ha ir	wall-PL surround[PTCP]-PL.F DO DEF city	‘Walls surround the city.’					
@@ -583,7 +583,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	62	отвечать	ana	SBJ	le	Y	SBJ_le	Pinχas ana le more	PN respond[PST.3SG.M] to teacher	‘Pinchas answered the teacher.’					
 83	63	открывать	pataχ	SBJ	DO	TR	TR	Pinχas pataχ paχit	Pinχas open[PST.3SG.M] can	‘Pinchas opened a can.’					
 83	64	отличаться	ʃone	SBJ	mi	Y	SBJ_mi	lo ha χultsa ʃel-i ʃone mi ʃel-χa	no DEF shirt POSS-1SG different from POSS-2SG.M	‘No, my shirt is different from yours.’					
-83	65	отстать	piger	SBJ	axarej	Y	SBJ_axarej	Pinχas piger aχarej Menaχem	PN lag[PST.3SG.M] after PN	‘Pinchas fell behind Menachem’					
+83	65	отстать	piger	SBJ	axarej	Y	SBJ_axarej	Pinχas piger aχarej Menaχem	PN lag[PST.3SG.M] after PN	‘Pinchas fell behind Menachem.’					
 83	66	пахать	χoreʃ	SBJ	DO	TR	TR	Pinχas χoreʃ et ha sade	PN plow[PTCP.SG.M] DO DEF field	‘Pinchas is ploughing the field.’					
 83	67	пахнуть	meriχ-ot	SBJ	mi	Y	SBJ_mi	ha jad-ajim ʃel-i meriχ-ot mi delek	DEF hand-PL POSS-1SG smell[PTCP]-PL.F from gasoline	‘My hands smell of gasoline.’					
 83	68	пересечь	χatsa	SBJ	DO	TR	TR	Pinχas χatsa et ha reχov	PN cross[PST.3SG.M] DO DEF street	‘Pinchas crossed the road.’					
@@ -595,19 +595,19 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	74	покидать	azav	SBJ	DO	TR	TR	Pinχas azav et ir uledat-o	PN leave[PST.3SG.M] DO city birth-POSS.3SG.M	‘Pinchas left his native city.’					
 83	75	покрывать	meχas-e	SBJ	DO	TR	TR	ha ʃatiaχ meχas-e et kol ha ritspa	DEF carptet cover[PTCP.SG]-M DO whole DEF floor	‘The carpet covers the whole floor.’					
 83	76	помнить	zoχer	SBJ	DO	TR	TR	Pinχas zoχer tov et ha bajt	PN remember[PTCP.SG.M] good DO DEF house	‘Pinchas remembers the house well.’					
-83	77	помочь	azar	SBJ	le	Y	SBJ_le	Pinχas azar le Menaχem	PN help[PST.3SG.M] to PN	‘Pinchas helped Menachem’					
+83	77	помочь	azar	SBJ	le	Y	SBJ_le	Pinχas azar le Menaχem	PN help[PST.3SG.M] to PN	‘Pinchas helped Menachem.’					
 83	78	понимать	mevin	SBJ	DO	TR	TR	Pinχas mevin tsarfatit	PN understand[PTCP.SG.M] French	‘Pinchas understands French.’					
 83	79	попасть	paga	SBJ	be	Y	SBJ_be	barak paga ba bajt	lightning hit[PST.3SG.M] in+DEF house	‘Lightning struck the house.’					
 83	80	порезаться	χataχ et atsm-o	SBJ	im	Y	SBJ_im	Pinχas χataχ et atsm-o im taar	PN cut[PST.3SG.M] DO self-3SG.M with razor	‘Pinchas cut himself with a razor.’					
 83	81	прилипать	nidbak-a	SBJ	le	Y	SBJ_le	ha kos nidbak-a le ʃulχan	DEF glass get.stuck[PST]-3SG.F to table	‘The glass got stuck to the table.’					
-83	82	проиграть	ifsid	SBJ	le	Y	SBJ_le	Pinχas ifsid le Menaχem	PN lose[PST.3SG.M] to PN	‘Pinchas lost to Menachem’					
+83	82	проиграть	ifsid	SBJ	le	Y	SBJ_le	Pinχas ifsid le Menaχem	PN lose[PST.3SG.M] to PN	‘Pinchas lost to Menachem.’					
 83	83	радоваться	samaχ	SBJ	legabej	Y	SBJ_legabej	Pinχas samaχ legabej ha miχtav	PN be.glad[PST.3SG.M] about DEF letter	‘Pinchas was glad about the letter.’					
-83	84	разговаривать	medaber	SBJ	im	Y	SBJ_im	Pinχas medaber im Menaχem	PN speak[PTCP.SG.M] with PN	‘Pinchas is speaking with Menachem’					
+83	84	разговаривать	medaber	SBJ	im	Y	SBJ_im	Pinχas medaber im Menaχem	PN speak[PTCP.SG.M] with PN	‘Pinchas is speaking with Menachem.’					
 83	85	рожать	jald-a	SBJ	DO	TR	TR	Mirjam jald-a ben	PN give.birth[PST]-3SG.F son	‘Miriam gave birth to a son.’					
 83	86	ронять	hipil	SBJ	DO	TR	TR	Pinχas hipil et ha kos	PN drop[PST.3SG.M] DO DEF glass	‘Pinchas dropped the glass.’					
 83	87	руководить	menahel	SBJ	DO	TR	TR	Pinχas menahel et ha ir ʃel-anu	PN manage[PTCP.SG.M] DO DEF city POSS-1PL	‘Pinchas runs our town.’					
-83	88	скучать	mitgagea	SBJ	le	Y	SBJ_le	Pinχas mitgagea le Menaχem	PN miss[PTCP.SG.M] to PN	‘Pinchas misses Menachem’					
-83	89	следовать	okev	SBJ	axarej	Y	SBJ_axarej	Pinχas okev aχarej Menaχem	PN follow[PTCP.SG.M] after PN	‘Pinchas follows Menachem’					
+83	88	скучать	mitgagea	SBJ	le	Y	SBJ_le	Pinχas mitgagea le Menaχem	PN miss[PTCP.SG.M] to PN	‘Pinchas misses Menachem.’					
+83	89	следовать	okev	SBJ	axarej	Y	SBJ_axarej	Pinχas okev aχarej Menaχem	PN follow[PTCP.SG.M] after PN	‘Pinchas follows Menachem.’					
 83	90	слезать	jarad	SBJ	mi	Y	SBJ_mi	Pinχas jarad me ha sus	PN descend[PST.3SG.M] from DEF horse	‘Pinchas got down from the horse.’					
 83	91	слушать	makʃiv	SBJ	le	Y	SBJ_le	Pinχas makʃiv le radio	PN listen[PTCP.SG.M] to radio	‘Pinchas is listening to radio.’					
 83	92	слушаться	makʃiv 	SBJ	le	Y	SBJ_le	Pinχas tamid makʃiv le ima ʃel-o	PN always listen[PTCP.SG.M] to mother POSS-3SG.M	‘Pinchas always listens to his mother.’					
@@ -615,39 +615,39 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	94	смешаться	hitarbev	SBJ	im	Y	SBJ_im	ha dvaʃ hitarbev im ha χalav	DEF honey get.mixed[PST.3SG.M] with DEF milk	‘The honey got mixed with milk.’					
 83	95	смотреть	mistakel	SBJ	al	Y	SBJ_al	Pinχas mistakel al ha anan-im	PN look[PTCP.SG.M] on DEF cloud-PL	‘Pinchas is looking at the clouds.’					
 83	96	снимать	paʃat	SBJ	DO	TR	TR	Pinχas paʃat et ha χultsa ʃel-o	PN take.off[PST.3SG.M] DO DEF shirt POSS-3SG.M	‘Pinchas took off his shirt.’					
-83	97	сниться	χolem-et	SBJ	al	Y	SBJ_al	Pinχas χolem al Mirjam	PN dream[PTCP.SG.M] on PN	‘Pinchas dreams about Miriam’					
-83	98	соглашаться	hiskim	SBJ	im	Y	SBJ_im	Pinχas hiskim im Menaχem	PN agree[PST.3SG.M] with PN	‘Pinchas agreed with Menachem’					
-83	99	ссориться	rav	SBJ	im	Y	SBJ_im	Pinχas rav im Menaχem	PN quarrel[PST.3SG.M] with PN	‘Pinchas had a quarrel with Menachem’					
+83	97	сниться	χolem-et	SBJ	al	Y	SBJ_al	Pinχas χolem al Mirjam	PN dream[PTCP.SG.M] on PN	‘Pinchas dreams about Miriam.’					
+83	98	соглашаться	hiskim	SBJ	im	Y	SBJ_im	Pinχas hiskim im Menaχem	PN agree[PST.3SG.M] with PN	‘Pinchas agreed with Menachem.’					
+83	99	ссориться	rav	SBJ	im	Y	SBJ_im	Pinχas rav im Menaχem	PN quarrel[PST.3SG.M] with PN	‘Pinchas had a quarrel with Menachem.’					
 83	100	стоить	ol-a	SBJ	DO	TR	TR	ha kos ha z-ot ol-a juro	DEF cup DEF this[SG]-F cost[PTCP]-SG.F euro	‘This cup costs 1 euro.’					
 83	101	стрелять	jara	SBJ	be	Y	SBJ_be	Pinχas jara be tsipor	PN shoot[PST.3SG.M] in bird	‘Pinchas shot at the bird.’					
 83	102	сыпать	ʃafaχ	SBJ	DO	TR	TR	Pinχas ʃafaχ et ha sukar	PN pour[PST.3SG.M] DO DEF sugar	‘Pinchas poured the sugar.’					
 83	103	терять	ibed	SBJ	DO	TR	TR	Pinχas ibed et ha mafteχ-ot ʃel-o	PN lose[PST.3SG.M] DO DEF key-PL POSS-3SG.M	‘Pinchas lost his keys.’					
 83	104	тонуть	ʃaka	SBJ	be	Y	SBJ_be	bul ha ets ʃaka ba maim	log1 DEF log2 sink[PST.3SG.M] in+DEF water	‘The log sank in the water.’					
-83	105	убивать	harag	SBJ	DO	TR	TR	Pinχas harag et Menaχem	PN kill[PST.3SG.M] DO PN	‘Pinchas killed Menachem’					
-83	106	ударить	hika	SBJ	DO	TR	TR	Pinχas hika et Menaχem	PN hit[PST.3SG.M] DO PN	‘Pinchas hit Menachem’					
-83	107	целовать	niʃek	SBJ	DO	TR	TR	Pinχas niʃek et Menaχem	PN kiss[PST.3SG.M] DO PN	‘Pinchas kissed Menachem’					
+83	105	убивать	harag	SBJ	DO	TR	TR	Pinχas harag et Menaχem	PN kill[PST.3SG.M] DO PN	‘Pinchas killed Menachem.’					
+83	106	ударить	hika	SBJ	DO	TR	TR	Pinχas hika et Menaχem	PN hit[PST.3SG.M] DO PN	‘Pinchas hit Menachem.’					
+83	107	целовать	niʃek	SBJ	DO	TR	TR	Pinχas niʃek et Menaχem	PN kiss[PST.3SG.M] DO PN	‘Pinchas kissed Menachem.’					
 83	108	читать	kara	SBJ	DO	TR	TR	Pinχas kara sefer meanjen	PN read[PST.3SG.M] book interesting	‘Pinchas read an interesting book.’					
 83	109	шевелить	heevir	SBJ	DO	TR	TR	Pinχas heevir et etsba-o	PN move[PST.3SG.M] DO finger-POSS.3SG.M	‘Pinchas moved his finger.’					
-83	110	уважать	meχabed	SBJ	DO	TR	TR	Pinχas meχabed et Menaχem	PN respect[PTCP.SG.M] DO PN	‘Pinchas respects Menachem’					
+83	110	уважать	meχabed	SBJ	DO	TR	TR	Pinχas meχabed et Menaχem	PN respect[PTCP.SG.M] DO PN	‘Pinchas respects Menachem.’					
 83	111	брезговать	nirta	SBJ	mi	Y	SBJ_mi	Pinxas nirta mi kelim meluxlaxim	PN be.afraid[PTCP.SG.M] from dish-PL dirty-PL	‘Pinchas is squeamish about dirty dishes.’					
 83	112	быть довольным	merutse	SBJ	mi	Y	SBJ_mi	Pinχas merutse me ha ben ʃel-o	PN satisfied from DEF son POSS-3SG.M	‘Pinchas is satisfied with his son.’					
-83	113	влюбляться	hitahev	SBJ	be	Y	SBJ_be	Pinχas hitahev be Menaχem	PN fall.in.love[PST.3SG.M] in PN	‘Pinchas fell in love with Menachem’					
-83	114	доверять	someχ	SBJ	al	Y	SBJ_al	Pinχas someχ al Menaχem	PN trust[PTCP.SG.M] on PN	‘Pinchas trusts Menachem’					
+83	113	влюбляться	hitahev	SBJ	be	Y	SBJ_be	Pinχas hitahev be Menaχem	PN fall.in.love[PST.3SG.M] in PN	‘Pinchas fell in love with Menachem.’					
+83	114	доверять	someχ	SBJ	al	Y	SBJ_al	Pinχas someχ al Menaχem	PN trust[PTCP.SG.M] on PN	‘Pinchas trusts Menachem.’					
 83	115	жалеть	meraxem	SBJ	al	Y	SBJ_al	Pinχas meraxem al im-o	PN sympathise[PTCP.SG.M] on mother-POSS.3SG.M	‘Pinchas sympathises with his mother.’					
-83	116	завидовать	mekan-e	SBJ	be	Y	SBJ_be	Pinχas mekan-e be Menaχem	PN envy[PTCP]-SG.M im PN	‘Pinchas envies Menachem’					
-83	117	злиться	koes	SBJ	al	Y	SBJ_al	Pinχas koes al Menaχem	PN be.angry[PTCP.SG.M] on PN	‘Pinchas is angry with Menachem’					
+83	116	завидовать	mekan-e	SBJ	be	Y	SBJ_be	Pinχas mekan-e be Menaχem	PN envy[PTCP]-SG.M im PN	‘Pinchas envies Menachem.’					
+83	117	злиться	koes	SBJ	al	Y	SBJ_al	Pinχas koes al Menaχem	PN be.angry[PTCP.SG.M] on PN	‘Pinchas is angry with Menachem.’					
 83	118	удивляться	hufta	SBJ	mi	Y	SBJ_mi	Pinχas hufta me ha matana ha z-o	PN be.surprised[PST.3SG.M] from DEF gift DEF this-SG.F	‘Pinchas was surprised at this gift.’					
 83	119	любить-2	ohev	SBJ	DO	TR	TR	Pinχas ohev te	PN love[PTCP.SG.M] tea	‘Pinchas loves tea.’					
 83	120	наслаждаться	nehene	SBJ	mi	Y	SBJ_mi	Pinχas nehene me ha te ha χam	PN enjoy[PTCP.SG.M] from DEF tea DEF hot	‘Pinchas enjoys hot tea.’					
 83	121	хотеть	rots-e	SBJ	DO	TR	TR	Pinχas rots-e telefon najad χadaʃ	PN want[PTCP.SG]-M phone mobile new	‘Pinchas wants a new mobile phone.’					
-83	122	сердиться	noter tina	SBJ	le	Y	SBJ_le	Pinχas noter tina le Menaχem	PN guard[PTCP.SG.M] malice to PN	‘Pinchas holds a grudge against Menachem’					
-83	123	обижаться	nifga	SBJ	mi	Y	SBJ_mi	Pinχas nifga mi Menaχem	PN be.offended[PST.3SG.M] from PN	‘Pinchas took offence at Menachem’					
-83	124	огорчать	hirgiz 	SBJ	DO	TR	TR	Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much DO PN	‘Pinchas greatly upset Miriam’					
+83	122	сердиться	noter tina	SBJ	le	Y	SBJ_le	Pinχas noter tina le Menaχem	PN guard[PTCP.SG.M] malice to PN	‘Pinchas holds a grudge against Menachem.’					
+83	123	обижаться	nifga	SBJ	mi	Y	SBJ_mi	Pinχas nifga mi Menaχem	PN be.offended[PST.3SG.M] from PN	‘Pinchas took offence at Menachem.’					
+83	124	огорчать	hirgiz 	SBJ	DO	TR	TR	Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much DO PN	‘Pinchas greatly upset Miriam.’					
 83	125	поражаться	hitraʃem	SBJ	mi	Y	SBJ_mi	Pinχas hitraʃem me ha ir ha z-o	PN be.impressed[PST.3SG.M] from DEF town DEF this-SG.F	‘Pinchas was impressed by this town.’					
-83	126	презирать	metaev	SBJ	DO	TR	TR	Pinχas metaev et Menaχem	PN despise[PTCP.SG.M] DO PN	‘Pinchas despises Menachem’					
+83	126	презирать	metaev	SBJ	DO	TR	TR	Pinχas metaev et Menaχem	PN despise[PTCP.SG.M] DO PN	‘Pinchas despises Menachem.’					
 83	127	огорчаться	hitatsben	SBJ	al	Y	SBJ_al	Pinχas hitatsben al ha ben ʃel-o	PN become.annoyed[PST.3SG.M] on DEF son POSS-3SG.M	‘Pinchas got upset with his son.’					
 83	128	раздражаться	mitatsben	SBJ	al	Y	SBJ_al	Pinχas mitatsben al ha bat ʃel-o	Pinχas become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M	‘Pinchas is getting irritated with his daughter.’					
-83	129	симпатизировать	meχabev	SBJ	DO	TR	TR	Pinχas meχabev et Menaχem	PN like[PTCP.SG.M] DO PN	‘Pinchas is fond of Menachem’					
+83	129	симпатизировать	meχabev	SBJ	DO	TR	TR	Pinχas meχabev et Menaχem	PN like[PTCP.SG.M] DO PN	‘Pinchas is fond of Menachem.’					
 83	130	стесняться	mitbajeʃ	SBJ	be	Y	SBJ_be	Pinχas mitbajeʃ ba gova ʃel-o	PN be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M	‘Pinchas is embarrased about his height.’					
 1	1	болеть-1	boletʹ	uGEN	NOM	X	uGEN_NOM	u Pet-i bol-it golov-a	at PN(M)-GEN.SG ache(IPFV)-PRS.3SG head(F)-NOM.SG	‘Petja has a headache.’		у PN(M)-GEN.SG болеть(IPFV)-PRS.3SG голова(F)-NOM.SG	‘У Пети болит голова.’	болеть	у Пет-и бол-ит голов-а
 1	2	болеть-2	boletʹ	NOM	INS	Y	NOM_INS	Pet-ja bole-et gripp-om	PN(M)-NOM.SG be_ill(IPFV)-PRS.3SG flu(M)-INS.SG	‘Petja has the flu.’		PN(M)-NOM.SG болеть(IPFV)-PRS.3SG грипп(M)-INS.SG	‘Петя болеет гриппом.’	болеть	Пет-я боле-ет грипп-ом
@@ -784,7 +784,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	3	бояться	gič’e-	DAT	SUP.EL	XY	DAT_SUP.EL	rasul-u-s gič’e-r=a tɨlɨja-la	PN-OBL-DAT fear.IPFV-CVB=be dog.OBL(SUP)-EL	‘Rasul is afraid of the dog.’		PN-OBL-DAT бояться.IPFV-CVB=быть собака.OBL(SUP)-EL	‘Расул боится собаки.’		
 68	4	бросить	χač’ɨ<>χi	ERG	NOM	TR	TR	rasul-a dahar χa-č’-i<b>χɨ-r	PN-ERG rock(NOM) PV-PV-<3>throw.PFV-CVB	‘Rasul threw a stone.’		PN-ERG камень(NOM) PV-PV-<3>бросить.PFV-CVB	‘Расул бросил камень.’		
 68	5	быть достаточно	re<>q’a	DAT	NOM	X	DAT_NOM	rasul-u-s šiɁi-bɨr ʁe-jq’a-r=a	PN-OBL-DAT money-PL(NOM) PV-NPL.be.enough.IPFV-CVB=be	‘Rasul has enough money.’		PN-OBL-DAT деньги-PL(NOM) PV-NPL.быть.достаточно.IPFV-CVB=быть	‘Расулу хватает денег.’		
-68	6	быть похожим	k<>i<>ka	NOM	CONT	Y	NOM_CONT	rasul k-ika-r=a ramazan-ɨ-k	PN(NOM) PV-1.be.similar.IPFV-CVB=be PN-OBL-CONT	‘Rasul resembles Ramazan.’		PN(NOM) PV-1.быть.похожим.IPFV-CVB=быть PN-OBL-CONT	‘Расул похож на Рамазана.’		
+68	6	быть похожим	k<>i<>ka	NOM	INTER	Y	NOM_INTER	rasul k-ika-r=a ramazan-ɨ-k	PN(NOM) PV-1.be.similar.IPFV-CVB=be PN-OBL-INTER	‘Rasul resembles Ramazan.’		PN(NOM) PV-1.быть.похожим.IPFV-CVB=быть PN-OBL-INTER	‘Расул похож на Рамазана.’		
 68	7	верить	inamiš + COP	NOM	SUP	Y	NOM_SUP	rasul inamiš jiʔi ramazan-ɨ	PN(NOM) believe 1.COP PN-OBL(SUP)	‘Rasul believes Ramazan.’	Non-verbal predicate.	PN(NOM) верить 1.COP PN-OBL(SUP)	‘Расул верит Рамазану.’		
 68	8	взять	le<>šu	ERG	NOM	TR	TR	rasul-a l-ešu-r kitab	PN-ERG PV-1.take.PFV-CVB book(NOM)	‘Rasul took a book.’		PN-ERG PV-1.взять.PFV-CVB книга(NOM)	‘Расул взял книгу.’		
 68	9	видеть	ʁa<>gᵂa	DAT	NOM	X	DAT_NOM	rasul-u-s ʁ-argᵂa-r=a χal	PN-OBL-DAT PV-4.see.IPFV-CVB=be house(NOM)	‘Rasul sees a house.’		PN-OBL-DAT PV-4.видеть.IPFV-CVB=быть дом(NOM)	‘Расул видит дом.’		
@@ -797,29 +797,29 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	16	гнуть	q’-u<t’>k’-e hɨɁɨ	ERG	NOM	TR	TR	rasul-a dal q’-u<t’>k’-e hɨɁɨ-r	PN-ERG branch(NOM) PV-<4>bend(INTR)-IMP 4.do.PFV-CVB	‘Rasul bent the branch.’		PN-ERG ветка(NOM) PV-<4>гнуть(INTR)-IMP 4.делать.PFV-CVB	‘Расул согнул ветку.’		
 68	17	говорить	huxu	ERG	APUD	Y	ERG_APUD	rasul-a huxu-r ramazan-da	PN-ERG 4.tell.PFV-CVB PN-APUD	‘Rasul told Ramazan.’		PN-ERG 4.сказать.PFV-CVB PN-APUD	‘Расул сказал Рамазану.’		
 68	18	держать	χa<>q’	ERG	NOM	TR	TR	rasul-a kitab (χɨl-e) χ-aq’ɨ-r=a	PN-ERG book(NOM) (hand.OBL-IN) PV-4.catch.PFV-CVB=be	‘Rasul is holding a book (in his hands).’		PN-ERG книга(NOM) (рука.OBL-IN) PV-4.хватать.PFV-CVB=быть	‘Расул держит книгу (в руках).’		
-68	19	догнать	qe-q-<ø>iq’ɨ-	NOM	POST	Y	NOM_POST	rasul qe-q-iq’ɨ-r=a samira-χda	PN(NOM) PV-RE-1.catch.up.PFV-CVB=be PN-POST	‘Rasul caught up with Samira.’		PN(NOM) PV-RE-1.догнать.PFV-CVB=быть PN-POST	‘Расул догнал Самиру.’		
+68	19	догнать	qe-q-<ø>iq’ɨ-	NOM	SUB	Y	NOM_SUB	rasul qe-q-iq’ɨ-r=a samira-χda	PN(NOM) PV-RE-1.catch.up.PFV-CVB=be PN-SUB	‘Rasul caught up with Samira.’		PN(NOM) PV-RE-1.догнать.PFV-CVB=быть PN-SUB	‘Расул догнал Самиру.’		
 68	20	доить	ezɨ	ERG	NOM	TR	TR	rasul-a zer w-ezɨ-r=a	PN-ERG cow(NOM) 3-milk.PFV-CVB=be	‘Rasul milked the cow.’		PN-ERG корова(NOM) 3-доить.PFV-CVB=быть	‘Расул подоил корову.’		
 68	21	достичь	le-jq’ɨ-	NOM	SUP	Y	NOM_SUP	rasul čejlaʁ-a le-jq’ɨ-r=a	PN(NOM) riverside-OBL(SUP) PV-1.reach.PFV-CVB=be	‘Rasul reached the bank.’		PN(NOM) берег.реки-OBL(SUP) PV-1.достичь.PFV-CVB=быть	‘Расул достиг берега.’		
-68	22	дотронуться	ki<ø>q’ɨ	NOM	CONT	Y	NOM_CONT	rasul masal-ɨ-k ki-q’ɨ-r	PN(NOM) wall-OBL-CONT PV-1.touch.PFV-CVB	‘Rasul touched the wall.’		PN(NOM) стена-OBL-CONT PV-1.касаться.PFV-CVB	‘Расул дотронулся до стены.’		
+68	22	дотронуться	ki<ø>q’ɨ	NOM	INTER	Y	NOM_INTER	rasul masal-ɨ-k ki-q’ɨ-r	PN(NOM) wall-OBL-INTER PV-1.touch.PFV-CVB	‘Rasul touched the wall.’		PN(NOM) стена-OBL-INTER PV-1.касаться.PFV-CVB	‘Расул дотронулся до стены.’		
 68	23	драться	kiči<ø>lqa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan kičilqa-r=a	PN(NOM) PN-OBL-COM <1>fight.IPFV-CVB=be	‘Rasul is fighting with Ramazan.’		PN(NOM) PN-OBL-COM <1>драться.IPFV-CVB=быть	‘Расул дерётся с Рамазаном.’		
 68	24	дружить	ara χa	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan ara χ-a	PN(NOM) PN-OBL-COM inside PV-be	‘Rasul is friends with Ramazan’ (lit. ‘Rasul is together with Ramazan’).	Non-verbal predicate.	PN(NOM) PN-OBL-COM внутри PV-быть	‘Расул дружит с Рамазаном’ (букв. ‘Расул вместе с Рамазаном’).		
-68	25	думать	fikir <w>-aɁ-a-	ERG	CONT.EL	Y	ERG_CONT.EL	rasul-a samira-k-la fikir w-aɁa-r=a	PN-ERG PN-CONT-EL thought 3-do.IPFV-CVB=be	‘Rasul is thinking about Samira.’		PN-ERG PN-CONT-EL мысль 3-делать.IPFV-CVB=быть	‘Расул думает о Самире.’		
+68	25	думать	fikir <w>-aɁ-a-	ERG	INTER.EL	Y	ERG_INTER.EL	rasul-a samira-k-la fikir w-aɁa-r=a	PN-ERG PN-INTER-EL thought 3-do.IPFV-CVB=be	‘Rasul is thinking about Samira.’		PN-ERG PN-INTER-EL мысль 3-делать.IPFV-CVB=быть	‘Расул думает о Самире.’		
 68	26	есть	li<w>i-	ERG	NOM	TR	TR	rasul-a Ɂeč li<w>i-r	PN-ERG apple(NOM) <3>eat.PFV-CVB	‘Rasul ate an apple.’		PN-ERG яблоко(NOM) <3>есть.PFV-CVB	‘Расул съел яблоко.’		
 68	27	жарить	<w>-iǯi-	ERG	NOM	TR	TR	rasul-a baluʁ w-iǯi-r=a	PN-ERG fish(NOM) 3-fry.PFV-CVB=be	‘Rasul fried the fish.’		PN-ERG рыба(NOM) 3-жарить.PFV-CVB=быть	‘Расул пожарил рыбу.’		
 68	28	ждать	güzet haɁa-	ERG	NOM	TR	TR	rasul-a ramazan güzet haɁa-r=a	PN-ERG PN(NOM) wait 1.do.IPFV-CVB=be	‘Rasul is waiting for Ramazan.’		PN-ERG PN(NOM) ждать 1.делать.IPFV-CVB=быть	‘Расул ждёт Рамазана.’		
 68	29	забывать	jik’-ij u<p>χu-	DAT	NOM	X	DAT_NOM	rasulɨ-s tin-baj-dɨ raˀq jik’ij-la u<p>χu-r	PN.OBL-DAT that-CONTR-ATTR road(NOM) heart.OBL(SUP)-EL <3>LV.PFV-CVB	‘Rasul forgot about the other road.’		PN.OBL-DAT тот-CONTR-ATTR дорога(NOM) сердце.OBL(SUP)-EL <3>LV.PFV-CVB	‘Расул забыл о другой дороге.’		
 68	30	зависеть	*	*	*	*		ul-id išɨɢ pet’ ruʔu-r=a q’aˁs-wol-i-kan	eye-ATTR light little 4.become.IPFV-CVB=be old-ABSTR-OBL-COM	‘Sight deteriorates with age.’	Not included in the dataset because the translation deviates too far from the stimulus sentence.	глаз-ATTR свет маленький 4.стать.IPFV-CVB=быть старый-ABSTR-OBL-COM	‘Зрение ухудшается с возрастом.’		
-68	31	звать	ses ha<w>ɨ-	ERG	POST	Y	ERG_POST	rasul-a ramazan-ɨ-χda ses ha<w>ɨ-r	PN-ERG PN-OBL-POST sound <3>do.PFV-CVB	‘Rasul called Ramazan.’		PN-ERG PN-OBL-POST звук <3>делать.PFV-CVB	‘Расул позвал Рамазана.’		
+68	31	звать	ses ha<w>ɨ-	ERG	SUB	Y	ERG_SUB	rasul-a ramazan-ɨ-χda ses ha<w>ɨ-r	PN-ERG PN-OBL-SUB sound <3>do.PFV-CVB	‘Rasul called Ramazan.’		PN-ERG PN-OBL-SUB звук <3>делать.PFV-CVB	‘Расул позвал Рамазана.’		
 68	32	знакомиться	tanɨš hiši-	NOM	COM	Y	NOM_COM	rasul ramazan-ɨ-kan sa sen xura gi-na tanɨš jiši-d	PN(NOM) PN-OBL-COM one year in.front SUB.be-CVB acquainted 1.become.PFV-ATTR	‘Rasul got to know Ramazan a year ago.’		PN(NOM) PN-OBL-COM один год перед SUB.быть-CVB знакомый 1.стать.PFV-ATTR	‘Расул познакомился с Рамазаном год тому назад.’		
 68	33	знать 	hac’-	DAT	NOM	X	DAT_NOM	rasul-u-s hac’a-r=a ramazan	PN-OBL-DAT 1.know.IPFV-CVB=be PN(NOM)	‘Rasul knows Ramazan.’		PN-OBL-DAT 1.знать.IPFV-CVB=быть PN(NOM)	‘Расул знает Рамазана.’		
 68	34	играть	rɨˁχɨˁ-	ERG	NOM	TR	TR	rasul-a saz wɨ-rɨˁχɨˁ-r=a	PN-ERG saz(NOM) 3-hit.IPFV-CVB=be	‘Rasul is playing the saz.’		PN-ERG саз(NOM) 3-бить.IPFV-CVB=быть	‘Расул играет на сазе.’		
 68	35	избегать	gʲa-ʁaˁbʁu-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul ramazan-ɨ-la: gʲa-ʁaˁbʁu-r=a	PN(NOM) PN-OBL(SUP)-EL PV-1.avoid.PFV-CVB=be	‘Rasul avoids Ramazan.’		PN(NOM) PN-OBL(SUP)-EL PV-1.избегать.PFV-CVB=быть	‘Расул избегает Рамазана.’		
 68	36	изготовить	ha<w>ɨ-	ERG	NOM	TR	TR	rasul-a bomba ha<w>ɨ-r	PN-ERG bomb(NOM) <3>do.PFV-CVB	‘Rasul made a bomb.’		PN-ERG бомба(NOM) <3>делать.PFV-CVB	‘Расул изготовил бомбу.’		
 68	37	издеваться	jiʁ laɢa-	ERG	SUP	Y	ERG_SUP	rasul-a ramazan-ɨ jiʁ laɢa-r=a	PN-ERG PN-OBL(SUP) mock LV.IPFV-CVB=be	‘Rasul is making fun of Ramazan.’		PN-ERG PN-OBL(SUP) издвеваться LV.IPFV-CVB=быть	‘Расул издевается над Рамазаном.’		
-68	38	иметь	a-	POST	NOM	X	POST_NOM	rasul-ɨ-χda mašin a-ni w-iɁi	PN-OBL-POST car(NOM) be-CVB 3-COP	‘Rasul has a car.’		PN-OBL-POST машина(NOM) быть-CVB 3-COP	‘У Расула есть машина.’		
+68	38	иметь	a-	SUB	NOM	X	SUB_NOM	rasul-ɨ-χda mašin a-ni w-iɁi	PN-OBL-SUB car(NOM) be-CVB 3-COP	‘Rasul has a car.’		PN-OBL-SUB машина(NOM) быть-CVB 3-COP	‘У Расула есть машина.’		
 68	39	искать	aramiš haɁa-	ERG	NOM	TR	TR	rasul-a güleg-mar aramiš haɁa-r=a	PN-ERG key-PL(NOM) seek NPL.do.PFV-CVB=be	‘Rasul is looking for his keys.’		PN-ERG ключ-PL(NOM) искать NPL.делать.PFV-CVB=быть	‘Расул ищет ключи.’		
 68	40	красить	šir jiˀ<w>χaˀ-	ERG	DAT	Y	ERG_DAT	rasul-a čapra-s šir jiˀ<w>χaˀ-r=a	PN-ERG fence.OBL-DAT paint <3>hit.IPFV.IPFV-CVB=be	‘Rasul painted the fence.’		PN-ERG забор.OBL-DAT краска <3>бить.IPFV.IPFV-CVB=быть	‘Расул покрасил забор.’		
-68	41	кусать	sɨs k-iʔɨ-	ERG	CONT	Y	ERG_CONT	rasul-u-k tɨlɨj-ra sɨs k-iʔɨ-r	PN-OBL-CONT dog.OBL-ERG tooth(NOM) PV-4.LV.PFV-CVB	‘A dog bit Rasul.’		PN-OBL-CONT собака.OBL-ERG зуб(NOM) PV-4.LV.PFV-CVB	‘Расула укусила собака.’		
+68	41	кусать	sɨs k-iʔɨ-	ERG	INTER	Y	ERG_INTER	rasul-u-k tɨlɨj-ra sɨs k-iʔɨ-r	PN-OBL-INTER dog.OBL-ERG tooth(NOM) PV-4.LV.PFV-CVB	‘A dog bit Rasul.’		PN-OBL-INTER собака.OBL-ERG зуб(NOM) PV-4.LV.PFV-CVB	‘Расула укусила собака.’		
 68	42	лишаться	madiš	ATTR	NOM	X	ATTR_NOM	rasul-dɨ χal madiš	PN-ATTR house(NOM) remain.4.NEG	‘Rasul lost his house.’		PN-ATTR дом(NOM) оставаться.4.NEG	‘Расул лишился дома.’		
 68	43	ловить	χo-<w>-ɨrq’-	ERG	NOM	TR	TR	rasul-a get χo-w-ɨrq’-a-r=a	PN-ERG cat(NOM) PV-3-catch.IPFV-CVB=be	‘Rasul is trying to catch the cat.’		PN-ERG кошка(NOM) PV-3-хватать.IPFV-CVB=быть	‘Расул ловит кошку.’		
 68	44	ломать	q’at’ hɨɁɨ-	ERG	NOM	TR	TR	rasul-a t’at’al q’at’ hɨɁɨ-r	PN-ERG stick(NOM) half 4.LV.PFV-CVB	‘Rasul broke a stick.’		PN-ERG палка(NOM) половина 4.LV.PFV-CVB	‘Расул сломал палку.’		
@@ -845,7 +845,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	64	отличаться	mad-dɨ + COP	NOM	SUP.EL	Y	NOM_SUP.EL	iz-dɨ uχun mad-dɨ w-iɁi wɨ-dɨ-ji-la	I-ATTR shirt(NOM) other-ATTR 3-COP you.SG-ATTR-OBL(SUP)-EL	‘My shirt is different from yours.’	Non-verbal predicate.	I-ATTR рубашка(NOM) другой-ATTR 3-COP ты.SG-ATTR-OBL(SUP)-EL	‘Моя рубашка отличается от твоей.’		
 68	65	отстать	quɁ q-argɨ-	NOM	SUP.EL	Y	NOM_SUP.EL	ramazan quɁ q-argɨ-r rasul-u-la	PN(NOM) back.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Rasul fell behind Ramazan.’		PN(NOM) зад.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Рамазан отстал от Расула.’		
 68	66	пахать	lʲ-aˁjχaˁ	ERG	NOM	TR	TR	rasul-a χuj lʲ-aˁjχaˁ-r=a	PN-ERG field(NOM) PV-4.plough.IPFV-CVB=be	‘Rasul is ploughing the field.’		PN-ERG поле(NOM) PV-4.пахать.IPFV-CVB=быть	‘Расул пашет поле.’		
-68	67	пахнуть	il rɨˁχaˁ-r-a	CONT.EL	ATTR	XY	CONT.EL_ATTR	ɨz-dɨ χɨla-bɨr-mɨ-k-la benzin-ad il rɨˁχaˁ-r=a	I-ATTR hand-PL-OBL.Pl-CONT-EL petrol-ATTR smell(NOM) 4.go.IPFV-CVB=be	‘My hands smell of gasoline.’		I-ATTR рука-PL-OBL.Pl-CONT-EL бензин-ATTR запах(NOM) 4.идти.IPFV-CVB=быть	‘Мои руки пахнут бензином.’		
+68	67	пахнуть	il rɨˁχaˁ-r-a	INTER.EL	ATTR	XY	INTER.EL_ATTR	ɨz-dɨ χɨla-bɨr-mɨ-k-la benzin-ad il rɨˁχaˁ-r=a	I-ATTR hand-PL-OBL.PL-INTER-EL petrol-ATTR smell(NOM) 4.go.IPFV-CVB=be	‘My hands smell of gasoline.’		I-ATTR рука-PL-OBL.PL-INTER-EL бензин-ATTR запах(NOM) 4.идти.IPFV-CVB=быть	‘Мои руки пахнут бензином.’		
 68	68	пересечь	eʁeč'	NOM	IN.EL	Y	NOM_IN.EL	rasul rɨˀɢ-a: tiʔ e-ʁ-eč’u-r	PN(NOM) road.OBL-IN.EL there PV-PV-1.cross.PFV-CVB	‘Rasul crossed the road.’		PN(NOM) дорога.OBL-IN.EL там PV-PV-1.пересечь.PFV-CVB	‘Ислам пересек дорогу.’		
 68	69	петь	hɨʔɨ	ERG	NOM	TR	TR	rasul-a bat’r-ad maˁɁni hɨʔɨ-r=a	PN-ERG beautiful-ATTR song(NOM) 4.do.PFV-CVB=be	‘Rasul sang a beautiful song.’		PN-ERG красивый-ATTR песня(NOM) 4.делать.PFV-CVB=быть	‘Расул спел красивую песню.’		
 68	70	писать	ki<Ø>x	ERG	NOM	TR	TR	rasul-a pisʲmo k-ixi-r=a	PN-ERG letter(NOM) PV-4.write.PFV-CVB=be	‘Rasul wrote a letter.’		PN-ERG письмо(NOM) PV-4.писать.PFV-CVB=быть	‘Расул написал письмо.’		
@@ -856,30 +856,30 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	75	покрывать	χ-o<w>q’u-	ERG	NOM	TR	TR	χajma-ra χ-o<w>q’u-r=a sin ǯil	carpet-ERG PV-<3>catch.PFV-CVB=be whole floor(NOM)	‘The carpet covers the whole floor.’		ковер-ERG PV-<3>хватать.PFV-CVB=быть целый пол(NOM)	‘Ковёр покрывает весь пол.’		
 68	76	помнить	jik’i ʁa-ma<d>a	DAT	NOM	X	DAT_NOM	rasul-u-s hɨχa-na jik’-i ʁa-ma<d>a juǯ q’ɨxe jiši-d χal	PN-OBL-DAT well heart-OBL(SUP) PV-<4>remain self big 1.become-ATTR home(NOM)	‘Rasul remembers the house where he grew up well.’		PN-OBL-DAT хорошо сердце-OBL(SUP) PV-<3>оставаться сам большой 1.стать-ATTR дом(NOM)	‘Расул хорошо помнит дом, где он вырос.’		
 68	77	помочь	kumag hɨɁɨ-	ERG	DAT	Y	ERG_DAT	rasul-a nadir-ɨ-s kumag hɨɁɨ-r=a	PN-ERG PN-OBL-DAT help(NOM) 4.do.PFV-CVB=be	‘Rasul helped Nadir.’		PN-ERG PN-OBL-DAT помощь(NOM) 4.делать.PFV-CVB=быть	‘Расул помог Надиру.’		
-68	78	понимать	gi-jirq’-	NOM	POST	Y	NOM_POST	rasul francuskij č’ilɨ-χda gi-jirq’a-r=a	PN(NOM) french language.OBL-POST PV-1.understand.IPFV-CVB=be	‘Rasul understands French.’		PN(NOM) французский язык.OBL-POST PV-1.понимать.IPFV-CVB=быть	‘Расул понимает французский язык.’		
-68	79	попасть	k-iq'ɨr-	NOM	CONT	Y	NOM_CONT	c’aj χal-ɨ-k k-iq’ɨ-r-a	fire(NOM) house-OBL-CONT PV-4.hit.PFV-CVB	‘Lightning hit the house.’		огонь(NOM) дом-OBL-CONT PV-4.ударить.PFV-CVB	‘Молния попала в дом.’		
+68	78	понимать	gi-jirq’-	NOM	SUB	Y	NOM_SUB	rasul francuskij č’ilɨ-χda gi-jirq’a-r=a	PN(NOM) french language.OBL-SUB PV-1.understand.IPFV-CVB=be	‘Rasul understands French.’		PN(NOM) французский язык.OBL-SUB PV-1.понимать.IPFV-CVB=быть	‘Расул понимает французский язык.’		
+68	79	попасть	k-iq'ɨr-	NOM	INTER	Y	NOM_INTER	c’aj χal-ɨ-k k-iq’ɨ-r-a	fire(NOM) house-OBL-INTER PV-4.hit.PFV-CVB	‘Lightning hit the house.’		огонь(NOM) дом-OBL-INTER PV-4.ударить.PFV-CVB	‘Молния попала в дом.’		
 68	80	порезаться	hart’u-	NOM	ERG	Y	NOM_ERG	rɨš kant’-i-ra hart’u-r=a	girl(NOM) knife-OBL-ERG <2>cut.PFV-CVB=be	‘The girl cut herself with a knife.’		девочка(NOM) нож-OBL-ERG <2>резать.PFV-CVB=быть	‘Девочка порезалась ножом.’		
-68	81	прилипать	ki-č-i<p>qɨ-	NOM	CONT	Y	NOM_CONT	istek’an isk’am-a-k ki-č-i<p>qɨ-r=a	glass(NOM) table-OBL-CONT PV-PV-<3>stick.PFV-CVB=be	‘The glass got stuck to the table.’		стакан(NOM) стол-OBL-CONT PV-PV-<3>прилипать.PFV-CVB=быть	‘Стакан прилип к столу.’		
+68	81	прилипать	ki-č-i<p>qɨ-	NOM	INTER	Y	NOM_INTER	istek’an isk’am-a-k ki-č-i<p>qɨ-r=a	glass(NOM) table-OBL-INTER PV-PV-<3>stick.PFV-CVB=be	‘The glass got stuck to the table.’		стакан(NOM) стол-OBL-INTER PV-PV-<3>прилипать.PFV-CVB=быть	‘Стакан прилип к столу.’		
 68	82	проиграть	jawa jiši-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul jawa jiši-r=a asijet-ɨ-la	PN(NOM) weak 1.become.PFV-CVB=be PN-OBL(SUP)-EL	‘Rasul lost to Asijat.’		PN(NOM) слабый 1.стать.PFV-CVB=быть PN-OBL(SUP)-EL	‘Расул проиграл Асият.’		
 68	83	радоваться	šad jɨši-	NOM	DAT	Y	NOM_DAT	rasul kaʁad-a-s šad jiši-r=a	PN(NOM) letter-OBL-DAT joyful 1.become.PFV-CVB=be	‘Rasul was glad about the letter.’		PN(NOM) письмо-OBL-DAT радостный 1.стать.PFV-CVB=быть	‘Расул обрадовался письму.’		
 68	84	разговаривать	halga-	NOM	COM	Y	NOM_COM	rasul nadir-ɨ-kan halga-r=a	PN(NOM) PN-OBL-COM 1.talk.IPFV-CVB=be	‘Rasul is speaking with Nadir.’		PN(NOM) PN-OBL-COM 1.разговаривать.IPFV-CVB=быть	‘Расул разговаривает с Надиром.’		
 68	85	рожать	jišɨ-	DAT	NOM	X	DAT_NOM	madina-s duχ jišɨ-r=a	PN-DAT son(NOM) 1.become.PFV-CBV=be	‘Madina gave birth to a son.’		PN-DAT сын(NOM) 1.стать.PFV-CBV=быть	‘Мадина родила сына.’		
 68	86	ронять	s-i<p>xu-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: saɁ s-i<p>xu-r istek’an	PN-APUD.EL down.LAT PV-<3>fall.PFV-CVB glass(NOM)	‘Rasul dropped the glass.’		PN-APUD.EL низ.LAT PV-<3>падать.PFV-CVB стакан(NOM)	‘Расул уронил стакан.’		
 68	87	руководить	q’ɨxʲ-waldɨ + w-aɁa-r-a	ERG	DAT	Y	ERG_DAT	rasul-a q’ɨxʲ-waldɨ w-aɁa-r=a ix-dɨ muˀɢ-uˀ-s	PN-ERG elder-ABSTR 3-do.IPFV-CVB-be we.OBL-ATTR village-OBL-DAT	‘Rasul runs our village.’		PN-ERG старший-ABSTR 3-делать.IPFV-CVB-быть мы.OBL-ATTR село-OBL-DAT	‘Расул руководит нашим селом.’		
-68	88	скучать	c’ihal jiši-	DAT	POST	XY	DAT_POST	rasul-u-s madinat-ɨ-χda c’ihal jiši-r=a	PN-OBL-DAT PN-OBL-POST longing(NOM) 4.become.PFV-CVB=be	‘Rasul misses Madinat.’		PN-OBL-DAT PN-OBL-POST тоска(NOM) 4.стать.PFV-CVB=быть	‘Расул скучает по Мадинат.’		
+68	88	скучать	c’ihal jiši-	DAT	SUB	XY	DAT_SUB	rasul-u-s madinat-ɨ-χda c’ihal jiši-r=a	PN-OBL-DAT PN-OBL-SUB longing(NOM) 4.become.PFV-CVB=be	‘Rasul misses Madinat.’		PN-OBL-DAT PN-OBL-SUB тоска(NOM) 4.стать.PFV-CVB=быть	‘Расул скучает по Мадинат.’		
 68	89	следовать	xal-e a-	NOM	ATTRzibra	Y	NOM_ATTRzibra	rasul xal-e a-na jiɁi asijet-dɨ ǯibra	PN(NOM) trail-IN be-CVB 1.COP PN-ATTR behind	‘Rasul follows Asijat.’		PN(NOM) след-IN быть-CVB 1.COP PN-ATTR сзади	‘Расул следует за Асият.’		
 68	90	слезать	s-e-č’u-	NOM	SUP.EL	Y	NOM_SUP.EL	rasul hejwan-a-la saɁ s-e-č’u-r=a	PN(NOM) horse-OBL(SUP)-EL down.LAT PV-PV-1.get.down.PFV-CVB=be	‘Rasul got down from the horse.’		PN(NOM) лошадь-OBL(SUP)-EL низ.LAT PV-PV-1.спускаться.PFV-CVB=быть	‘Расул слез с лошади.’		
-68	91	слушать	q-assa-	ERG	POST	Y	ERG_POST	islam-a ubɨr q-assa-r=a radio-je-χda	PN-ERG ear PV-4.listen.IPFV-CVB=be radio-OBL-POST	‘Rasul is listening to radio.’		PN-ERG ухо PV-4.слушать.IPFV-CVB=быть радио-OBL-POST	‘Расул слушает радио.’		
-68	92	слушаться	q-assa-	ERG	POST	Y	ERG_POST	islam-a nin-ɨ-χda ubɨr q-ass-a=r-a	PN-ERG mother-OBL-POST ear PV-1.listen.IPFV-CVB=be-PST	‘Rasul always obeys his mother.’		PN-ERG мать-OBL-POST ухо PV-1.слушать.IPFV-CVB=быть-PST	‘Расул слушается маму.’		
+68	91	слушать	q-assa-	ERG	SUB	Y	ERG_SUB	islam-a ubɨr q-assa-r=a radio-je-χda	PN-ERG ear PV-4.listen.IPFV-CVB=be radio-OBL-SUB	‘Rasul is listening to radio.’		PN-ERG ухо PV-4.слушать.IPFV-CVB=быть радио-OBL-SUB	‘Расул слушает радио.’		
+68	92	слушаться	q-assa-	ERG	SUB	Y	ERG_SUB	islam-a nin-ɨ-χda ubɨr q-ass-a=r-a	PN-ERG mother-OBL-SUB ear PV-1.listen.IPFV-CVB=be-PST	‘Rasul always obeys his mother.’		PN-ERG мать-OBL-SUB ухо PV-1.слушать.IPFV-CVB=быть-PST	‘Расул слушается маму.’		
 68	93	слышать	ses ruɁu-	DAT	ATTR	XY	DAT_ATTR	rasul-u-s maˁʔnij-mɨ-d ses ruɁu-r	PN-OBL-DAT song-PL.OBL-ATTR sound(NOM) 4.go.IPFV-CVB	‘Rasul hears the music.’		PN-OBL-DAT песня-PL.OBL-ATTR звук(NOM) 4.идти.IPFV-CVB	‘Расул слышит музыку.’		
 68	94	смешаться	k-i<t>χɨ-r	*	*	*		it=na nek k-i<t>χɨ-r	honey=ADD milk PV-<3>mix.PFV-CVB	‘The honey got mixed with the milk.’	Not included in the database because X and Y are expressed as a coordinate NP.	мед=ADD молоко PV-<3>смешаться.PFV-CVB	‘Мёд смешался с молоком.’		
-68	95	смотреть	gʲ-aɢa-	NOM	POST	Y	NOM_POST	rasul gʲ-aɢa-r=a gɨbli-mɨ-χda	PN(NOM) PV-1.look.IPFV-CVB=be cloud-PL.OBL-POST	‘Rasul is looking at the clouds.’		PN(NOM) PV-1.смотреть.IPFV-CVB=быть облако-PL.OBL-POST	‘Расул смотрит на тучи.’		
+68	95	смотреть	gʲ-aɢa-	NOM	SUB	Y	NOM_SUB	rasul gʲ-aɢa-r=a gɨbli-mɨ-χda	PN(NOM) PV-1.look.IPFV-CVB=be cloud-PL.OBL-SUB	‘Rasul is looking at the clouds.’		PN(NOM) PV-1.смотреть.IPFV-CVB=быть облако-PL.OBL-SUB	‘Расул смотрит на тучи.’		
 68	96	снимать	saɁ qi-w-	ERG	NOM	TR	TR	rasul-a saɁ qi-wi-r rubaška	PN-ERG down.LAT RE-take.off.PFV-CVB shirt(NOM)	‘Rasul took off his shirt.’		PN-ERG низ.LAT RE-снять.PFV-CVB рубашка(NOM)	‘Расул снял рубашку.’		
 68	97	сниться	neq’ʲ-e ʁa-ru-	DAT	NOM	X	DAT_NOM	rasul-u-s neq’ʲ-e ʁa-ru-rga-r=a asijet	PN-OBL-DAT dream.OBL-IN PV-2-see.IPFV-CVB=be PN(NOM)	‘Rasul dreams about Asijat.’		PN-OBL-DAT сон.OBL-IN PV-2-видеть.IPFV-CVB=быть PN(NOM)	‘Расулу снится Асият.’		
 68	98	соглашаться	raazi jiši-	NOM	COM	Y	NOM_COM	vɨɣɨl raazi jiši-r ɢarija-kan	man(NOM) agreed 1.become.PFV-CVB wife.OBL-COM	‘Rasul agreed with his wife.’		человек(NOM) согласен 1.стать.PFV-CVB жена.OBL-COM	‘Расул согласился с женой.’		
 68	99	ссориться	ʁe-ruku-	NOM	COM	Y	NOM_COM	islam ʁe-ruku-r nadir-ɨ-kʷan	PN(NOM) PV-1.quarrel.PFV-CVB PN-OBL-COM	‘Islam had a quarrel with Nadir.’		PN(NOM) PV-1.ссориться.PFV-CVB PN-OBL-COM	‘Расул поссорился с Асият.’		
 68	100	стоить	COP	NOM	DAT	Y	NOM_DAT	mi istek’an sa manut-a-s w-iɁi	this cup(NOM) one rouble-OBL-DAT 3-COP	‘This cup costs 1 rouble.’	Non-verbal predicate.	этот стакан(NOM) один рубль-OBL-DAT 3-COP	‘Эта чашка стоит один рубль.’		
-68	101	стрелять	tufang w-iji-	ERG	POST	Y	ERG_POST	rasul-a tufang w-iji-r=a-j šurk-u-χda	PN-ERG gun(NOM) 3-shoot.PFV-CVB=be-PST bird-OBL-POST	‘Rasul shot at the bird.’		PN-ERG ружье(NOM) 3-стрелять.PFV-CVB=быть-PST птица-OBL-POST	‘Расул выстрелил в птицу.’		
+68	101	стрелять	tufang w-iji-	ERG	SUB	Y	ERG_SUB	rasul-a tufang w-iji-r=a-j šurk-u-χda	PN-ERG gun(NOM) 3-shoot.PFV-CVB=be-PST bird-OBL-SUB	‘Rasul shot at the bird.’		PN-ERG ружье(NOM) 3-стрелять.PFV-CVB=быть-PST птица-OBL-SUB	‘Расул выстрелил в птицу.’		
 68	102	сыпать	ki-Ɂɨ-	ERG	NOM	TR	TR	rasul-a pisuk’ ki-Ɂɨ-r=a-j istek’an-e	PN-ERG sugar(NOM) PV-4.add.PFV-CVB=be-PST glass-IN	‘Rasul poured the sugar.’		PN-ERG сахар(NOM) PV-4.добавить.PFV-CVB=быть-PST стакан-IN	‘Расул насыпал сахар в стакан.’		
 68	103	терять	su-gu-	APUD.EL	NOM	X	APUD.EL_NOM	rasul-da: güleg-mar su-gu-r=a	PN-APUD.EL key-PL(NOM) PV-NPL.lose.PFV-CVB=be	‘Rasul lost his keys.’		PN-APUD.EL ключ-PL(NOM) PV-NPL.терять.PFV-CVB=быть	‘Расул потерял ключи.’		
 68	104	тонуть	ara: saɁ k-i<p>xu-r	NOM	IN	Y	NOM_IN	girdɨm xij-e ara: saɁ k-i<p>xu-r	log(NOM) water.OBL-IN inside.EL down.LAT PV-<3>get.to.PFV-CVB=be	‘The log sank in the water.’		полено(NOM) вода.OBL-IN внутренность.EL низ.LAT PV-<3>попасть.PFV-CVB=быть	‘Полено утонуло в воде.’		
@@ -889,9 +889,9 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	108	читать	q’ɨle hɨɁɨ-r	ERG	NOM	TR	TR	rasul-a q’ɨle hɨɁɨ-r ɢalin-dɨ kitab	PN-ERG read 4.do.PFV-CVB thick-ATTR book(NOM)	‘Rasul read a thick book.’		PN-ERG читать 4.делать.PFV-CVB толстый-ATTR книга(NOM)	‘Расул прочитал толстую книгу.’		
 68	109	шевелить	χ-i<b>g-a w-ɨɁɨ-r	ERG	NOM	TR	TR	rasul-a t’ili χ-i<b>g-a w-ɨɁɨ-r	PN-ERG finger(NOM) PV-<3>move-IMP 3-do.PFV-CVB	‘Rasul moved his finger.’		PN-ERG палец(NOM) PV-<3>двигать-IMP 3-делать.PFV-CVB	‘Расул пошевелил пальцем.’		
 68	110	уважать	huˁrmaˁt w-aɁa-r-a	ERG	DAT	Y	ERG_DAT	rasul-a huˁrmaˁt w-aɁa-r=a asijet-ɨ-s	PN-ERG respect 3-do.IPFV-CVB=be PN-OBL-DAT	‘Rasul respects Asijat.’		PN-ERG уважение 3-делать.IPFV-CVB=быть PN-OBL-DAT	‘Расул уважает Асият.’		
-68	111	брезговать	*	*	*	*		rasul-u-s čapaˁl-dɨ ɢab-ɨr ʁa-gu-jne jik’ mɨq’a jiši-r	PN-OBL-DAT dirty-ATTR dish-PL PV-NPL.see.PFV-CVB heart cold 4.become.PFV-CVB	‘Rasul is squeamish about dirty dishes’ (lit. ‘Rasul’s heart gets cold when he sees dirty dishes’).	Not included in the database because Y is expressed as an NP-internal modifier.	PN-OBL-DAT грязный-ATTR посуда-PL PV-NPL.видеть.PFV-CVB сердце холодный 4.стать.PFV-CVB	‘При виде грязной посуды у Расула сердце стынет.’		
+68	111	брезговать	*	*	*	*		rasul-u-s čapaˁl-dɨ ɢab-ɨr ʁa-gu-jne jik’ mɨq’a jiši-r	PN-OBL-DAT dirty-ATTR dish-PL PV-NPL.see.PFV-CVB heart cold 4.become.PFV-CVB	‘Rasul is squeamish about dirty dishes’ (lit. ‘Rasul’s heart gets cold when he sees dirty dishes’).	Not included in the database because Y is expressed as an NP within a dependent clause.	PN-OBL-DAT грязный-ATTR посуда-PL PV-NPL.видеть.PFV-CVB сердце холодный 4.стать.PFV-CVB	‘При виде грязной посуды у Расула сердце стынет.’		
 68	112	быть довольным	raazi + COP	NOM	SUP	Y	NOM_SUP	rasul raazi jiɁi ǯu-du duxar-ɨ	PN(NOM) delighted 1.СOP self.M.OBL-ATTR son-OBL(SUP)	‘Rasul is satisfied with his son.’	Non-verbal predicate.	PN(NOM) довольный 1.СOP сам.M.OBL-ATTR сын-OBL(SUP)	‘Расул доволен своим сыном.’		
-68	113	влюбляться	jik’i-k’ kirx	DAT	NOM	X	DAT_NOM	rasul-u-s jik’i-k k-irxu-r=a asijet	PN-OBL-DAT heart.OBL-CONT PV-get.in.PFV-CVB=be PN(NOM)	‘Rasul fell in love with Asijat.’		PN-OBL-DAT сердце.OBL-CONT PV-попасть.PFV-CVB=быть PN(NOM)	‘Расул влюбился в Асият.’		
+68	113	влюбляться	jik’i-k’ kirx	DAT	NOM	X	DAT_NOM	rasul-u-s jik’i-k k-irxu-r=a asijet	PN-OBL-DAT heart.OBL-INTER PV-get.in.PFV-CVB=be PN(NOM)	‘Rasul fell in love with Asijat.’		PN-OBL-DAT сердце.OBL-INTER PV-попасть.PFV-CVB=быть PN(NOM)	‘Расул влюбился в Асият.’		
 68	114	доверять	ilamiš + COP	NOM	SUP	Y	NOM_SUP	madina ilamiš r-iɁi ǯi-dɨ χɨnχ-ɨ	PN(NOM) trust 2-COP self-ATTR child-OBL(SUP)	‘Madina trusts her child.’	Non-verbal predicate.	PN(NOM) доверие 2-COP сам-ATTR ребенок-OBL(SUP)	‘Мадина доверяет своему ребенку.’		
 68	115	жалеть	haˀjiw raɁ-	ERG	NOM	TR	TR	rasul-a haˀjiw r-aɁa-r=a ǯʲu-du nin	PN-ERG pity 2-do.IPFV-CVB=be self.M.OBL-ATTR mother(NOM)	‘Rasul sympathises with his mother.’		PN-ERG жалость 2-делать.IPFV-CVB=быть сам.M.OBL-ATTR мать(NOM)	‘Расул жалеет свою мать.’		
 68	116	завидовать	paxil	NOM	SUP	Y	NOM_SUP	rasul paxil jiɁi asijed-ɨ	PN(NOM) envy 1.COP PN-OBL(SUP)	‘Rasul envies Asijat.’	Non-verbal predicate.	PN(NOM) зависть 1.COP PN-OBL(SUP)	‘Расул завидует Асият.’		
@@ -900,7 +900,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	119	любить-2	qɨ<Ø>g	DAT	NOM	X	DAT_NOM	rasul-u-s qɨ<Ø>ga-r=a čej	PN-OBL-DAT <4>love.IPFV-CVB=be tea(NOM)	‘Rasul loves tea.’		PN-OBL-DAT <4>любить.IPFV-CVB=быть чай(NOM)	‘Расул любит чай.’		
 68	120	наслаждаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 68	121	хотеть	ɨg	DAT	NOM	X	DAT_NOM	rasul-u-s w-ɨga-r=a c’ɨn-dɨ telefon	PN-OBL-DAT 3-want.IPFV-CVB=be new-ATTR phone(NOM)	‘Rasul wants a new phone.’		PN-OBL-DAT 3-хотеть.IPFV-CVB=быть новый-ATTR телефон(NOM)	‘Расул хочет новый телефон.’		
-68	122	сердиться	sɨrχɨ-r-a	NOM	POST	Y	NOM_POST	islam sɨrχɨ-r=a nadir-ɨ-χda	PN(NOM) 1.become.mad.PFV-CVB=be PN-OBL-POST	‘Rasul has a grudge against Nadir.’		PN(NOM) 1.обезуметь.PFV-CVB=быть PN-OBL-POST	‘Ислам сердится на Надира.’		
+68	122	сердиться	sɨrχɨ-r-a	NOM	SUB	Y	NOM_SUB	islam sɨrχɨ-r=a nadir-ɨ-χda	PN(NOM) 1.become.mad.PFV-CVB=be PN-OBL-SUB	‘Rasul has a grudge against Nadir.’		PN(NOM) 1.обезуметь.PFV-CVB=быть PN-OBL-SUB	‘Ислам сердится на Надира.’		
 68	123	обижаться	χatir Ɂa<d>g-	DAT	SUP.EL	XY	DAT_SUP.EL	rasul-u-s χatir a<d>gɨ-r=a asijet-ɨ-la	PN-OBL-DAT grudge <4>be.stuck.PFV-CVB=be PN-OBL(SUP)-EL	‘Rasul took offence at Asijat.’		PN-OBL-DAT раздражение <4>застрять.PFV-CVB=быть PN-OBL(SUP)-EL	‘Расул обиделся на Асият.’		
 68	124	огорчать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 68	125	поражаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
