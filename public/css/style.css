@@ -282,3 +282,12 @@ div#error-link-div {
     border: 1px dotted black;
     height: 0;
 }
+
+div.lang-button {
+    display: inline-block;
+    padding: 2px;
+    border-radius: 3px;
+    background-color: palegoldenrod;
+    margin: 3px;
+    cursor: pointer;
+}

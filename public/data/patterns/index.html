@@ -95,7 +95,7 @@
     <div class="options-row">
         <span>Only show languages from the following phylum (WALS):</span>
         <br/>
-        <select name="phylum" id="phylum" style="width: 150px;" onchange="redraw();">
+        <select name="phylum" id="phylum" style="width: 150px;" onchange="byId('marea').value = 'any'; currentGenus = 'any'; redraw();">
             <option value="any">Any</option>
         </select>
     </div>
@@ -109,9 +109,15 @@
     <div class="options-row">
         <span>Only show languages from the following macro-area (WALS):</span>
         <br/>
-        <select name="marea" id="marea" style="width: 150px;" onchange="redraw();">
+        <select name="marea" id="marea" style="width: 150px;" onchange="byId('phylum').value = 'any'; currentGenus = 'any'; redraw();">
             <option value="any">Any</option>
         </select>
+    </div>
+    <div class="options-row">
+        <span>Select one or more individual languages:</span>
+        <br/>
+        <div id="language-select-div" style="width: 99%; margin: auto; height: 150px; background-color: white; overflow: auto; border: 1px solid black; border-radius: 2px;"></div>
+        <input type="button" value="Submit" onclick="redraw(true);"/>
     </div>
     <div class="options-row">
         <span><span style="color: red;">NB:</span> Applying these filters will reset the table. Use them before using filters in individual columns.</span>
@@ -139,6 +145,8 @@
 
     let currentGenus = 'any';
 
+    let selectedLanguages = new Set();
+
     function getPredicateLink(predicate) {
         let filename = predicate.replace(/[# ]/g, '') + '.html';
         return `<a class="table-link" href="../../predicates/pred/${filename}">link</a>`
@@ -155,25 +163,12 @@
         for (const el of arr) {
             let option = document.createElement('option');
             option.value = el;
-            option.innerText = el;
+            option.innerText = el.replace('_', ' ');
             select.appendChild(option);
         }
     }
 
-    function redraw() {
-        phylumFilter = byId('phylum').value;
-        mareaFilter  = byId('marea').value;
-
-        byId('genus').disabled = phylumFilter === 'any';
-        // Populate the genus menu based on the value of the phylum menu
-        if (byId('phylum').value !== 'any') {
-            let genera = Array.from(phyla2Genera[byId('phylum').value]);
-            genera.sort();
-            populateSelectFromArray(generaSelect, genera, true);
-        }
-        byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
-        genusFilter  = byId('genus').value;
-
+    function redraw(listProvided) {
         const alwaysSelect = [
             'predicate_no',
             'predicate_label_en',
@@ -182,6 +177,20 @@
 
         let colsPrefix = [],
             colsSuffix = [];
+
+        phylumFilter = byId('phylum').value;
+        mareaFilter  = byId('marea').value;
+
+        byId('genus').disabled = phylumFilter === 'any';
+        // Populate the genus menu based on the value of the phylum menu
+        if (byId('phylum').value !== 'any') {
+            genera = Array.from(phyla2Genera[byId('phylum').value]);
+            genera.sort();
+            populateSelectFromArray(generaSelect, genera, true);
+        }
+        byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
+        genusFilter  = byId('genus').value;
+
         for (const col of patternsDf.listColumns()) {
             if (col === 'predicate_label_ru' ||
                 col === 'argument_frame_ru') {
@@ -190,15 +199,19 @@
             } else if (alwaysSelect.indexOf(col) >= 0) {
                 colsPrefix.push(col);
             } else {
-                if (phylumFilter !== 'any' &&
-                    langDict[col].phylum !== phylumFilter)
+                if (listProvided !== undefined && !selectedLanguages.has(col))
                     continue;
-                if (genusFilter !== 'any' &&
-                    langDict[col].genus !== genusFilter)
-                    continue;
-                if (mareaFilter !== 'any' &&
-                    langDict[col].marea !== mareaFilter)
-                    continue;
+                if (listProvided === undefined) {
+                    if (phylumFilter !== 'any' &&
+                        langDict[col].phylum !== phylumFilter)
+                        continue;
+                    if (genusFilter !== 'any' &&
+                        langDict[col].genus !== genusFilter)
+                        continue;
+                    if (mareaFilter !== 'any' &&
+                        langDict[col].marea !== mareaFilter)
+                        continue;
+                }
                 colsSuffix.push(col);
             }
         }
@@ -295,8 +308,6 @@
     );
 
     // Populate menus
-    // TODO: add genera and langs.
-    // TODO: Make hierarchical.
     phyla = languageDfMin
         .distinct('family (WALS)')
         .toArray()
@@ -307,13 +318,35 @@
         .toArray()
         .map(oneElArr => oneElArr[0]);
     macroareas.sort();
-    let phylaSelect = byId('phylum'),
-        generaSelect = byId('genus'),
-        mareaSelect = byId('marea');
+    let phylaSelect    = byId('phylum'),
+        generaSelect   = byId('genus'),
+        mareaSelect    = byId('marea'),
+        languageSelect = byId('language');
     populateSelectFromArray(phylaSelect, phyla);
     populateSelectFromArray(mareaSelect, macroareas);
 
-
+    let languages = languageDfMin
+        .distinct('language')
+        .toArray()
+        .map(oneElArr => oneElArr[0]);
+    languages.sort();
+    for (const lang of languages) {
+        let langButton = document.createElement('div');
+        langButton.classList.add('lang-button');
+        langButton.innerText = lang.replace('_', ' ');
+        langButton.onclick = () => {
+            if (selectedLanguages.has(lang)) {
+                selectedLanguages.delete(lang);
+                langButton.style.backgroundColor = 'palegoldenrod';
+                langButton.style.color = 'black';
+            } else {
+                selectedLanguages.add(lang);
+                langButton.style.backgroundColor = 'black';
+                langButton.style.color = 'white';
+            }
+        }
+        byId('language-select-div').appendChild(langButton);
+    }
     redraw();
 </script>
 
