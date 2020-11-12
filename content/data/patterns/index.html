@@ -16,7 +16,7 @@
     <div class="options-row">
         <span>Only show languages from the following genus (WALS; select a phylum first):</span>
         <br/>
-        <select name="phylum" id="genus" style="width: 150px;" onchange="redraw();" disabled="document.getElementById('phylum').value === 'any'">
+        <select name="phylum" id="genus" style="width: 150px;" onchange="currentGenus = this.value; redraw();" disabled="document.getElementById('phylum').value === 'any'">
             <option value="any">Any</option>
         </select>
     </div>
@@ -50,12 +50,21 @@
 
     let container = byId('table');
 
+    let currentGenus = 'any';
+
     function getPredicateLink(predicate) {
         let filename = predicate.replace(/[# ]/g, '') + '.html';
         return `<a class="table-link" href="../../predicates/pred/${filename}">link</a>`
     }
 
-    function populateSelectFromArray(select, arr) {
+    function populateSelectFromArray(select, arr, addAny=false) {
+        if (addAny) {
+            select.innerHTML = '';
+            let option = document.createElement('option');
+            option.value = 'any';
+            option.innerText = 'Any';
+            select.appendChild(option);
+        }
         for (const el of arr) {
             let option = document.createElement('option');
             option.value = el;
@@ -65,10 +74,19 @@
     }
 
     function redraw() {
+        byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
+
         phylumFilter = byId('phylum').value;
         genusFilter  = byId('genus').value;
-        byId('genus').disabled = phylumFilter === 'any';
         mareaFilter  = byId('marea').value;
+
+        byId('genus').disabled = phylumFilter === 'any';
+        // Populate the genus menu based on the value of the phylum menu
+        if (byId('phylum').value !== 'any') {
+            genera = Array.from(phyla2Genera[byId('phylum').value]);
+            genera.sort();
+            populateSelectFromArray(generaSelect, genera, true);
+        }
 
         const alwaysSelect = [
             'predicate_no',
@@ -208,12 +226,7 @@
         mareaSelect = byId('marea');
     populateSelectFromArray(phylaSelect, phyla);
     populateSelectFromArray(mareaSelect, macroareas);
-    // Populate the genus menu based on the value of the phylum menu
-    if (byId('phylum').value !== 'any') {
-        genera = Array.from(phyla2Genera[byId('phylum').value]);
-        genera.sort();
-        populateSelectFromArray(generaSelect, genera);
-    }
+
 
     redraw();
 </script>
