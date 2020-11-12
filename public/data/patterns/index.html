@@ -100,6 +100,13 @@
         </select>
     </div>
     <div class="options-row">
+        <span>Only show languages from the following genus (WALS; select a phylum first):</span>
+        <br/>
+        <select name="phylum" id="genus" style="width: 150px;" onchange="redraw();" disabled="document.getElementById('phylum').value === 'any'">
+            <option value="any">Any</option>
+        </select>
+    </div>
+    <div class="options-row">
         <span>Only show languages from the following macro-area (WALS):</span>
         <br/>
         <select name="marea" id="marea" style="width: 150px;" onchange="redraw();">
@@ -145,7 +152,8 @@
 
     function redraw() {
         phylumFilter = byId('phylum').value;
-        mareaFilter = byId('marea').value;
+        genusFilter  = byId('genus').value;
+        mareaFilter  = byId('marea').value;
 
         const alwaysSelect = [
             'predicate_no',
@@ -165,6 +173,9 @@
             } else {
                 if (phylumFilter !== 'any' &&
                     langDict[col].phylum !== phylumFilter)
+                    continue;
+                if (genusFilter !== 'any' &&
+                    langDict[col].genus !== genusFilter)
                     continue;
                 if (mareaFilter !== 'any' &&
                     langDict[col].marea !== mareaFilter)
@@ -243,16 +254,25 @@
     languageDfMin = languageDf.select(
         'language',
         'macroarea',
+        'genus (WALS)',
         'family (WALS)'
     );
 
     // Populate filter dict from this df
     langDict = {};
+    let phyla2Genera = {};
     languageDfMin.chain(
-        row => { langDict[row.get('language')] = {
-            phylum: row.get('family (WALS)'),
-            marea: row.get('macroarea')
-        } }
+        row => {
+            langDict[row.get('language')] = {
+                phylum: row.get('family (WALS)'),
+                genus: row.get('genus (WALS'),
+                marea: row.get('macroarea')
+            }
+            if (!phyla2Genera.hasOwnProperty(row.get('family (WALS)'))) {
+                phyla2Genera[row.get('family (WALS)')] = new Set();
+            }
+            phyla2Genera[row.get('family (WALS)')].add(row.get('genus (WALS'));
+        }
     );
 
     // Populate menus
@@ -269,9 +289,16 @@
         .map(oneElArr => oneElArr[0]);
     macroareas.sort();
     let phylaSelect = byId('phylum'),
+        generaSelect = byId('genus'),
         mareaSelect = byId('marea');
     populateSelectFromArray(phylaSelect, phyla);
     populateSelectFromArray(mareaSelect, macroareas);
+    // Populate the genus menu based on the value of the phylum menu
+    if (byId('phylum').value !== 'any') {
+        genera = Array.from(phyla2Genera[byId('phylum').value]);
+        genera.sort();
+        populateSelectFromArray(generaSelect, genera);
+    }
 
     redraw();
 </script>

@@ -9406,7 +9406,7 @@ const fullData = [
     "le_SBJ",
     "le Pinχas jeʃ ʃapaat",
     "to PN there.is[PRS] flu",
-    "‘Pinchas has flu.’",
+    "‘Pinchas has the flu.’",
     "",
     "",
     "",

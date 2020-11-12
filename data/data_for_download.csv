@@ -520,7 +520,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 46	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 46	130	pajartur	NOM	ABL	Y	NOM_ABL	modʲi kasa-jʔ page-xito-ta pajartuŋa	I man-NOM.SG.1SG outerwear-ABL.PL-OBL.SG.3SG be_shy(IPFV).3SG.S	‘My friend is shy about his clothes’.		я мужчина-NOM.SG.1SG верхняя_одежда-ABL.PL-OBL.SG.3SG стесняться.3SG.S	‘Мой товарищ стесняется своей одежды’.		
 83	1	jeʃ	*	*	*		le Pinχas jeʃ koev roʃ	to PN there.is[PRS] pain head	‘Pinchas has a headache.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-83	2	jeʃ	le	SBJ	X	le_SBJ	le Pinχas jeʃ ʃapaat	to PN there.is[PRS] flu	‘Pinchas has flu.’					
+83	2	jeʃ	le	SBJ	X	le_SBJ	le Pinχas jeʃ ʃapaat	to PN there.is[PRS] flu	‘Pinchas has the flu.’					
 83	3	mefaχed	SBJ	mi	Y	SBJ_mi	Pinχas mefaχed me ha kelev	PN be.afraid[SG.M] from DEF dog	‘Pinchas is afraid of the dog.’					
 83	4	zarak	SBJ	DO	TR	TR	Pinχas zarak even	PN throw[PST.3SG.M] stone	‘Pinchas threw a stone.’					
 83	5	*	*	*	*		aχʃav jeʃ le Pinχas maspik kesef	now there.is[PRS] to PN enough money	‘Now Pinchas has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
