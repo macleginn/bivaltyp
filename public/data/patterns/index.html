@@ -132,6 +132,7 @@
         phyla, macroareas, langDict;
 
     let phylumFilter = 'any',
+        genusFilter = 'any',
         mareaFilter = 'any';
 
     let container = byId('table');
@@ -160,19 +161,18 @@
     }
 
     function redraw() {
-        byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
-
         phylumFilter = byId('phylum').value;
-        genusFilter  = byId('genus').value;
         mareaFilter  = byId('marea').value;
 
         byId('genus').disabled = phylumFilter === 'any';
         // Populate the genus menu based on the value of the phylum menu
         if (byId('phylum').value !== 'any') {
-            genera = Array.from(phyla2Genera[byId('phylum').value]);
+            let genera = Array.from(phyla2Genera[byId('phylum').value]);
             genera.sort();
             populateSelectFromArray(generaSelect, genera, true);
         }
+        byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
+        genusFilter  = byId('genus').value;
 
         const alwaysSelect = [
             'predicate_no',

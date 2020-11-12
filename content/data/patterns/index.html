@@ -46,6 +46,7 @@
         phyla, macroareas, langDict;
 
     let phylumFilter = 'any',
+        genusFilter = 'any',
         mareaFilter = 'any';
 
     let container = byId('table');
@@ -74,10 +75,7 @@
     }
 
     function redraw() {
-        byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
-
         phylumFilter = byId('phylum').value;
-        genusFilter  = byId('genus').value;
         mareaFilter  = byId('marea').value;
 
         byId('genus').disabled = phylumFilter === 'any';
@@ -87,6 +85,9 @@
             genera.sort();
             populateSelectFromArray(generaSelect, genera, true);
         }
+        byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
+        genusFilter  = byId('genus').value;
+
 
         const alwaysSelect = [
             'predicate_no',
