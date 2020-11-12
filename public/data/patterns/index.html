@@ -153,6 +153,7 @@
     function redraw() {
         phylumFilter = byId('phylum').value;
         genusFilter  = byId('genus').value;
+        byId('genus').disabled = phylumFilter === 'any';
         mareaFilter  = byId('marea').value;
 
         const alwaysSelect = [
