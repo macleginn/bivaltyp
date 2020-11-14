@@ -50,7 +50,7 @@ The nominal inflection includes two subparadigms, abstract (syntactic, non-locat
 
 ## Verb lemmas
 
-Verbs are cited by the stem which is used in the specific sentence. For example ‘to take’ is cited as *lešu*-, the perfective stem used in (1), together with the preverb *l*- and in the form of Gender 1.
+Verbs are cited by the form which is used in the specific sentence. For example ‘to take’ is cited as *lešur*, the specific perfective form used in (1), which contains the preverb *l*- and the converb marker -*r* and signals that the P-argument is from Gender 1.
 
 ## Glossing abbreviations
 
