@@ -22441,9 +22441,9 @@ const structuralData = [
     "fight",
     "гье=AGR=ч-иб-ца=AGR",
     "ABS",
-    "ILL.COMIT",
+    "ILL.COM",
     "Y",
-    "ABS_ILL.COMIT"
+    "ABS_ILL.COM"
   ],
   [
     "Icari Dargwa",
@@ -22522,9 +22522,9 @@ const structuralData = [
     "get_to_know",
     "тяниш-игь-уб",
     "ABS",
-    "ILL.COMIT",
+    "ILL.COM",
     "Y",
-    "ABS_ILL.COMIT"
+    "ABS_ILL.COM"
   ],
   [
     "Icari Dargwa",
@@ -22990,9 +22990,9 @@ const structuralData = [
     "speak",
     "гъай-ик1в-ил-ца=AGR",
     "ABS",
-    "ILL.COMIT",
+    "ILL.COM",
     "Y",
-    "ABS_ILL.COMIT"
+    "ABS_ILL.COM"
   ],
   [
     "Icari Dargwa",
@@ -23080,9 +23080,9 @@ const structuralData = [
     "mix",
     "гъудур-гьа=AGR=ич-иб",
     "ABS",
-    "ILL.COMIT",
+    "ILL.COM",
     "Y",
-    "ABS_ILL.COMIT"
+    "ABS_ILL.COM"
   ],
   [
     "Icari Dargwa",
@@ -23125,9 +23125,9 @@ const structuralData = [
     "have_a_quarrel",
     "гье=AGR=ч-иб-ца=AGR",
     "ABS",
-    "ILL.COMIT",
+    "ILL.COM",
     "Y",
-    "ABS_ILL.COMIT"
+    "ABS_ILL.COM"
   ],
   [
     "Icari Dargwa",

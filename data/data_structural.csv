@@ -2491,7 +2491,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 79	20	AGR=ирцц-иб	ERG	ABS	TR	TR
 79	21	AGR=Егъ-иб	ABS	POST	Y	ABS_POST
 79	22	тти=AGR=AGR=яхъ-иб	ABS	POST	Y	ABS_POST
-79	23	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COMIT	Y	ABS_ILL.COMIT
+79	23	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COM	Y	ABS_ILL.COM
 79	24	юлдаш+COP	*	*	*	
 79	25	пикри-ик1в-ил-ца=AGR	ABS	SUPLAT.CONT	Y	ABS_SUPLAT.CONT
 79	26	AGR=ерк-ун	ERG	ABS	TR	TR
@@ -2500,7 +2500,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 79	29	хъум-Ерт-ур	SUPLAT	SUPLAT.CONT	XY	SUPLAT_SUPLAT.CONT
 79	30	AGR=иккв-ил-ца=AGR	ABS	ILL.ELAT	Y	ABS_ILL.ELAT
 79	31	вях1=AGR=ерч1-иб	ERG	ILL	Y	ERG_ILL
-79	32	тяниш-игь-уб	ABS	ILL.COMIT	Y	ABS_ILL.COMIT
+79	32	тяниш-игь-уб	ABS	ILL.COM	Y	ABS_ILL.COM
 79	33	ухх-у	SUPLAT	ABS	X	SUPLAT_ABS
 79	34	AGR=урхъ-я-ца=AGR	ERG	ABS	TR	TR
 79	35	гу-р-ирхьхь-а-ца=AGR	ABS	ANTE.ELAT	Y	ABS_ANTE.ELAT
@@ -2552,7 +2552,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 79	81	чи-ка=AGR=асс-ун-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT
 79	82	гу=в=AGR=игь-уб	ABS	ELAT	Y	ABS_ELAT
 79	83	рази=AGR=игь-уб	ABS	SUPLAT	Y	ABS_SUPLAT
-79	84	гъай-ик1в-ил-ца=AGR	ABS	ILL.COMIT	Y	ABS_ILL.COMIT
+79	84	гъай-ик1в-ил-ца=AGR	ABS	ILL.COM	Y	ABS_ILL.COM
 79	85	AGR=яркь-иб	ERG	ABS	TR	TR
 79	86	квир=AGR=ич-яхъ-иб	ERG	ABS	TR	TR
 79	87	ххула-ци + COP	ABS	GEN	Y	ABS_GEN
@@ -2562,12 +2562,12 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 79	91	гу-лик1-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT
 79	92	гу-лик1-ан	ABS	SUPLAT	Y	ABS_SUPLAT
 79	93	AGR=икь-а-ца=AGR	ERG	ABS	TR	TR
-79	94	гъудур-гьа=AGR=ич-иб	ABS	ILL.COMIT	Y	ABS_ILL.COMIT
+79	94	гъудур-гьа=AGR=ич-иб	ABS	ILL.COM	Y	ABS_ILL.COM
 79	95	вар-игь-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT
 79	96	чи-р-ихь-уб	ERG	ABS	TR	TR
 79	97	мижер-к-Ерцц-ар	SUPLAT	ABS	X	SUPLAT_ABS
 79	98	разий=AGR=игь-уб	*	*	*	
-79	99	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COMIT	Y	ABS_ILL.COMIT
+79	99	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COM	Y	ABS_ILL.COM
 79	100	ца-AGR	ABS	SUPLAT	Y	ABS_SUPLAT
 79	101	тупанг ихь-уб	ERG	SUPLAT	Y	ERG_SUPLAT
 79	102	AGR=И-ка=AGR=ихь-уб	ERG	ABS	TR	TR

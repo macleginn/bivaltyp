@@ -21,7 +21,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 79	Dargwa_Icari	20	milk	X (milk) Y	доить	X (доить) Y-а	AGR=ирцц-иб	ERG	ABS	TR	TR							Agreement: yes. 		
 79	Dargwa_Icari	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	AGR=Егъ-иб	ABS	POST	Y	ABS_POST							Agreement: yes. 		
 79	Dargwa_Icari	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	тти=AGR=AGR=яхъ-иб	ABS	POST	Y	ABS_POST							Agreement: yes. 		
-79	Dargwa_Icari	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COMIT	Y	ABS_ILL.COMIT							Agreement: yes. PREF (UP). Тот же глагол, что 99, ссориться		
+79	Dargwa_Icari	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COM	Y	ABS_ILL.COM							Agreement: yes. PREF (UP). Тот же глагол, что 99, ссориться		
 79	Dargwa_Icari	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	юлдаш+COP	*	*	*								Agreement: yes. NV. Не засчитываю (X -- друг Y-а)		
 79	Dargwa_Icari	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	пикри-ик1в-ил-ца=AGR	ABS	SUPLAT.CONT	Y	ABS_SUPLAT.CONT							Agreement: yes. LV. То же, что 48, мечтать		
 79	Dargwa_Icari	26	eat	X (eat) Y	есть	X (есть) Y	AGR=ерк-ун	ERG	ABS	TR	TR							Agreement: yes. 		
@@ -30,7 +30,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 79	Dargwa_Icari	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	хъум-Ерт-ур	SUPLAT	SUPLAT.CONT	XY	SUPLAT_SUPLAT.CONT							Agreement: no. LV		
 79	Dargwa_Icari	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	AGR=иккв-ил-ца=AGR	ABS	ILL.ELAT	Y	ABS_ILL.ELAT							"Agreement: yes. букв. ""хотеть"", то же, что 46 (хотеть) и 121 (любить)"		
 79	Dargwa_Icari	31	call	X (call) Y	звать	X (звать) Y-а	вях1=AGR=ерч1-иб	ERG	ILL	Y	ERG_ILL							Agreement: yes. LV		
-79	Dargwa_Icari	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	тяниш-игь-уб	ABS	ILL.COMIT	Y	ABS_ILL.COMIT							Agreement: no. LV		
+79	Dargwa_Icari	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	тяниш-игь-уб	ABS	ILL.COM	Y	ABS_ILL.COM							Agreement: no. LV		
 79	Dargwa_Icari	33	know	X (know) Y	знать 	X (знать) Y-а	ухх-у	SUPLAT	ABS	X	SUPLAT_ABS							Agreement: yes. 		
 79	Dargwa_Icari	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	AGR=урхъ-я-ца=AGR	ERG	ABS	TR	TR							Agreement: yes. 		
 79	Dargwa_Icari	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	гу-р-ирхьхь-а-ца=AGR	ABS	ANTE.ELAT	Y	ABS_ANTE.ELAT							Agreement: yes. PREF (SUB, ELAT). Пока включил в модель управления именно ANTEELAT, хотя в этом случае Расул предлагал считать, что в модель входит только просто ELAT		
@@ -82,7 +82,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 79	Dargwa_Icari	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	чи-ка=AGR=асс-ун-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT							Agreement: yes. PREF (ON; DOWN)		
 79	Dargwa_Icari	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	гу=в=AGR=игь-уб	ABS	ELAT	Y	ABS_ELAT							Agreement: yes. PREF (SUB; ESS)		
 79	Dargwa_Icari	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	рази=AGR=игь-уб	ABS	SUPLAT	Y	ABS_SUPLAT							Agreement: yes. LV		
-79	Dargwa_Icari	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	гъай-ик1в-ил-ца=AGR	ABS	ILL.COMIT	Y	ABS_ILL.COMIT							Agreement: yes. LV. Именно про этот предикат РМ написал, что глагол требует просто комитатива, а не сочетания IN и COMIT, но поскольку ситуация такая же, как в других глаголах, а COMIT без IN у меня не встречается, пишу INCOMIT		
+79	Dargwa_Icari	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	гъай-ик1в-ил-ца=AGR	ABS	ILL.COM	Y	ABS_ILL.COM							Agreement: yes. LV. Именно про этот предикат РМ написал, что глагол требует просто комитатива, а не сочетания IN и COM, но поскольку ситуация такая же, как в других глаголах, а COM без IN у меня не встречается, пишу INCOM		
 79	Dargwa_Icari	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	AGR=яркь-иб	ERG	ABS	TR	TR							Agreement: yes. Тот же глагол, что 36, изготовлять		
 79	Dargwa_Icari	86	drop	X (drop) Y	ронять	X (ронять) Y	квир=AGR=ич-яхъ-иб	ERG	ABS	TR	TR							"Agreement: yes. PREF (""из рук""); CAUS"		
 79	Dargwa_Icari	87	govern	X (govern) Y	руководить	X (руководить) Y	ххула-ци + COP	ABS	GEN	Y	ABS_GEN							"Agreement: yes. Букв. ""X -- начальник Y-а""; надо принять принципиальное решение по поводу таких случаев"		
@@ -92,12 +92,12 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 79	Dargwa_Icari	91	listen	X (listen) to Y	слушать	X (слушать) Y	гу-лик1-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT							Agreement: yes. PREF (SUPER)		
 79	Dargwa_Icari	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	гу-лик1-ан	ABS	SUPLAT	Y	ABS_SUPLAT							"Agreement: no. PREF (SUPER); другая форма того же глагола, что в 91 (слушать), там согласование есть из-за ""вшитой"" копулы"		
 79	Dargwa_Icari	93	hear	X (hear) Y	слышать	X (слышать) Y	AGR=икь-а-ца=AGR	ERG	ABS	TR	TR							Agreement: yes. 		
-79	Dargwa_Icari	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	гъудур-гьа=AGR=ич-иб	ABS	ILL.COMIT	Y	ABS_ILL.COMIT							Agreement: yes. LV; PREF (UP)		
+79	Dargwa_Icari	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	гъудур-гьа=AGR=ич-иб	ABS	ILL.COM	Y	ABS_ILL.COM							Agreement: yes. LV; PREF (UP)		
 79	Dargwa_Icari	95	look	X (look) at Y	смотреть	X (смотреть) на Y	вар-игь-а-ца=AGR	ABS	SUPLAT	Y	ABS_SUPLAT							Agreement: yes. LV		
 79	Dargwa_Icari	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	чи-р-ихь-уб	ERG	ABS	TR	TR							Agreement: no. PREF (ON; ELAT)		
 79	Dargwa_Icari	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	мижер-к-Ерцц-ар	SUPLAT	ABS	X	SUPLAT_ABS							Agreement: no. CV (сон-DOWN-стать)		
 79	Dargwa_Icari	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	разий=AGR=игь-уб	*	*	*								"Agreement: yes. Невозможно засчитать, так как можно сказать ""А согласился с тем, что сказал Б"", но не ""А согласился с Б"""		
-79	Dargwa_Icari	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COMIT	Y	ABS_ILL.COMIT							Agreement: yes. PREF (UP). Тот же глагол, что 23, драться		
+79	Dargwa_Icari	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	гье=AGR=ч-иб-ца=AGR	ABS	ILL.COM	Y	ABS_ILL.COM							Agreement: yes. PREF (UP). Тот же глагол, что 23, драться		
 79	Dargwa_Icari	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	ца-AGR	ABS	SUPLAT	Y	ABS_SUPLAT							"Agreement: yes. букв. ""быть"""		
 79	Dargwa_Icari	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	тупанг ихь-уб	ERG	SUPLAT	Y	ERG_SUPLAT							"Agreement: no. CV (букв. ""ружье кинул"")"		
 79	Dargwa_Icari	102	pour	X (pour) Y	сыпать	X (сыпать) Y	AGR=И-ка=AGR=ихь-уб	ERG	ABS	TR	TR							Agreement: yes. PREF (вместе; ON)		
