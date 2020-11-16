@@ -1,7 +1,7 @@
 # Publications
 
 ## Books
-Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
+Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
 
 ## Articles
 Say, S. S. 2020. Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 1. (in Russian)  
