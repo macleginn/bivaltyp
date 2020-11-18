@@ -1,9 +1,9 @@
-# Publications
+## Publications
 
-## Books
+### Books
 Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
 
-## Articles
+### Articles
 Say, S. S. 2020. Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 1. (in Russian)
 
 Ovsjannikova, M. A. 2018. Kodirovanie učastnikov pri dvuxmestnyx predikatax v lesnom dialekte èneckogo jazyka [Bivalent predicates’ argument encoding in the Forest dialect of Enets]. *Uralo-altajskie issledovanija*, № 1 (28). 50–69. (in Russian)
@@ -40,7 +40,7 @@ Azargaeva, A. V. 2016. Valentnostnye klassy dvuxmestnyx glagolov v burjatskom ja
 
 Perkova, Natalia. 2013. Non-canonical argument marking in two-place predication: the case of the Baltic languages. Unpublished paper, Stockholm.
 
-## Selected conference talks
+### Selected conference talks
 
 Say, Sergey. 2018. Valency classes in an areal typological perspective. Invited talk at the International Summer School «Areal linguistics & languages of Russia». NRU Higher School of Economics, Voronovo campus, Moscow. September 10–13, 2018.
 
