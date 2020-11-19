@@ -291,3 +291,8 @@ div.lang-button {
     margin: 3px;
     cursor: pointer;
 }
+
+img.doi {
+    width: 186px;
+    height: 20px;
+}
