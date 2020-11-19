@@ -16,25 +16,19 @@ Say, S. S. 2017. [Leksičeskoe raspredelenie perexodnyx i neperexodnyx dvuxmestn
 
 Nekrasova, G. A., E. N. Sergeeva. 2014. Variativnostʹ argumentnoj struktury dvuxmestnyx predikatov v komi-permjackom jazyke [Bivalent predicates’ argument structure variability in Komi-Permyak]. *Acta Linguistica Petropolitana*, V. 10, Part 1. 810–820. (in Russian)
 
-Say, Sergey. 2014. Bivalent Verb Classes in the Languages of Europe: A Quantitative Typological Study. *Language dynamics and change*, 4 (1). 116–166.
+Say, Sergey. 2014. [Bivalent Verb Classes in the Languages of Europe: A Quantitative Typological Study](https://brill.com/view/journals/ldc/4/1/article-p116_4.xml). *Language dynamics and change*, 4 (1). 116–166. ([Prefinal proof as of 26.05.2014](https://bivaltyp.info/docs/Say_2014_Bivalent_Prefinal_proof.pdf))
 
-Mischenko, D. F. 2013a. Markirovanie argumentov mnogomestnyx predikatov v jazykax mande: k izučeniju estestvennyx klassov predikatnyx leksem [Polyvalent predicates’ argument marking in the Mande languages: a study on natural classes of predicate lexemes]. A. Ju. Želtov (ed.). *Afrikanskij sbornik – 2013*. Saint Petersburg: MAÈ RAN. 396–410. (in Russian)
-
-Mischenko, D. F. 2013b. Markirovanie argumentov mnogomestnyx predikatov v jazykax mande: k estestvennoj klassifikacii predikatnyx leksem [Polyvalent predicates’ argument marking in the Mande languages: towards a natural classification of predicate lexemes]. N. N. Dʹjakov, A. S. Matveev (eds.). *Lokalʹnoe nasledie i globalʹnaja perspektiva. «Tradicionalizm» i «revoljucionizm» na Vostoke. XXVII meždunarodnaja konferencija po istočnikovedeniju i istoriografii stran Azii i Afriki, 24–26 aprelja 2013 g.: Tezisy dokladov*. Saint Petersburg: VF Saint PetersburgGU, 2013. 235–236. (in Russian)
+Mischenko, D. F. 2013a. [Markirovanie argumentov mnogomestnyx predikatov v jazykax mande: k izučeniju estestvennyx klassov predikatnyx leksem](https://bivaltyp.info/docs/Mishchenko_2013a_Markirovanie.pdf) [Polyvalent predicates’ argument marking in the Mande languages: a study on natural classes of predicate lexemes]. A. Ju. Želtov (ed.). *Afrikanskij sbornik – 2013*. Saint Petersburg: MAÈ RAN. 396–410. (in Russian)
 
 Nekrasova, G. A., E. N. Sergeeva. 2013. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v komi-permjackom jazyke [Non-canonical marking of bivalent predicates’ arguments in Komi-Permyak]. *Voprosy permskoj dialektologii: tradicii i perspektivy. Sbornik statej*. Syktyvkar. 109–116. (in Russian)
 
-Mischenko, D. F. 2012. Sravnitelʹnyj analiz nekanoničeskix dvuxmestnyx predikatov v russkom jazyke i v ingermanlandskom dialekte finskogo jazyka [A comparative study of non-canonical bivalent predicates in Russian and in the Ingrian dialect of Finnish]. *Vestnik Tomskogo gosudarstvennogo pedagogičeskogo universiteta*, 1 (116). 70–74. (in Russian)
+Mischenko, D. F. 2012. [Sravnitelʹnyj analiz nekanoničeskix dvuxmestnyx predikatov v russkom jazyke i v ingermanlandskom dialekte finskogo jazyka](https://bivaltyp.info/docs/Mishchenko_2012_Sravnitelnyj.pdf) [A comparative study of non-canonical bivalent predicates in Russian and in the Ingrian dialect of Finnish]. *Vestnik Tomskogo gosudarstvennogo pedagogičeskogo universiteta*, 1 (116). 70–74. (in Russian)
 
-Mischenko, D. F. 2011. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v russkom jazyke i v ingermanlandskom dialekte finskogo jazyka: kontrastivnoe issledovanie [Non-canonical marking of bivalent predicates’ arguments in Russian and in the Ingrian dialect of Finnish: a contrastive study]. *Tezisy dokladov 26-oj Meždunarodnoj konferencii «Dulʹzonovskie Čtenija», posvjaščënnoj 110-letiju so dnja roždenija Andreja Petroviča Dulʹzona i 80-letnemu jubileju fakulʹteta inostrannyx jazykov TGPU. 24–28 ijunja 2011*. Tomsk: TGPU. 57–59. (in Russian)
+Say, S. S. 2011a. [Nekanoničeskoe markirovanie aktantov mnogomestnyx predikatov: opyt kvantitativno-tipologičeskogo issledovanija](https://bivaltyp.info/docs/Say_2011a_Nekanonicheskoe.pdf) [Non-canonical marking of polyvalent predicates’ arguments: an essay of a quantitative-typological study]. *Acta Linguistica Petropolitana*. V. 7, Part 3. Saint Petersburg: Nauka. 424–430. (in Russian)
 
-Say, S. S. 2011a. Nekanoničeskoe markirovanie aktantov mnogomestnyx predikatov: opyt kvantitativno-tipologičeskogo issledovanija [Non-canonical marking of polyvalent predicates’ arguments: an essay of a quantitative-typological study]. *Acta Linguistica Petropolitana*. V. 7, Part 3. Saint Petersburg: Nauka. 424–430. (in Russian)
+Mischenko, D. F. 2010. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v ingermanlandskom dialekte finskogo jazyka: k voprosu o estestvennyx klassax predikatov](https://bivaltyp.info/docs/Mishchenko_2010_Nekanonicheskoe.pdf) [Non-canonical marking of bivalent predicates’ arguments in the Ingrian dialect of Finnish: towards natural classes of predicates]. *Acta Linguistica Petropolitana*. V. 6, Part 3. Saint Petersburg: Nauka. 127–132. (in Russian)
 
-Say, S. S. 2011b. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v jazykax Rossii [Non-canonical marking of bivalent predicates’ arguments in the languages of Russia]. *Sbornik tezisov dokladov 26-oj Meždunarodnoj konferencii «Dulʹzonovskie čtenija», posvjaščennoj 110-letiju so dnja roždenija A. P. Dulʹzona i 80-letnemu jubileju fakulʹteta inostrannyx jazykov TGPU. 24–28 ijunja 2011*. Tomsk: TGPU. 77–80. (in Russian)
-
-Mischenko, D. F. 2010. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v ingermanlandskom dialekte finskogo jazyka: k voprosu o estestvennyx klassax predikatov [Non-canonical marking of bivalent predicates’ arguments in the Ingrian dialect of Finnish: towards natural classes of predicates]. *Acta Linguistica Petropolitana*. V. 6, Part 3. Saint Petersburg: Nauka. 127–132. (in Russian)
-
-## Qualification papers and unpublished manuscripts
+### Qualification papers and unpublished manuscripts
 
 Aplonova, Katya. 2018. Typological survey of transitivity. Final project for the course “Linguistic data: quantitative analysis and visualization”. Moscow: NRU Higher School of Economics. 20.06.2018.
 
@@ -67,3 +61,11 @@ Say, Sergey. 2012. Two-place verb classes: towards measuring (dis)similarity bet
 Say, Sergey. 2012. Two-place (in)transitives in European languages: A quantitative typological study of verb classes. Paper presented at the “Patterns of Diversification and Contact” conference. Amsterdam, Koninklijke Nederlandse Akademie van Wettenschappen. December 11–14, 2012.
 
 Say, S. S. 2011. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v jazykax Evropy i Severnoj i Centralʹnoj Azii [Non-canonical marking of bivalent predicates’ arguments in the languages of Europe and North and Central Asia]. Paper presented at the “XXVI Dulʹzonovskie čtenija” conference. Tomsk State Pedagogical University. June 24–28, 2011.
+
+### Selected conference abstracts
+
+Mischenko, D. F. 2013b. [Markirovanie argumentov mnogomestnyx predikatov v jazykax mande: k estestvennoj klassifikacii predikatnyx leksem](https://bivaltyp.info/docs/Mishchenko_2013b_Markirovanie.pdf) [Polyvalent predicates’ argument marking in the Mande languages: towards a natural classification of predicate lexemes]. N. N. Dʹjakov, A. S. Matveev (eds.). *Lokalʹnoe nasledie i globalʹnaja perspektiva. «Tradicionalizm» i «revoljucionizm» na Vostoke. XXVII meždunarodnaja konferencija po istočnikovedeniju i istoriografii stran Azii i Afriki, 24–26 aprelja 2013 g.: Tezisy dokladov*. Saint Petersburg: VF Saint PetersburgGU, 2013. 235–236. (in Russian)
+
+Mischenko, D. F. 2011. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v russkom jazyke i v ingermanlandskom dialekte finskogo jazyka: kontrastivnoe issledovanie](https://bivaltyp.info/docs/Mishchenko_2011_Nekanonicheskoe.pdf) [Non-canonical marking of bivalent predicates’ arguments in Russian and in the Ingrian dialect of Finnish: a contrastive study]. *Tezisy dokladov 26-oj Meždunarodnoj konferencii «Dulʹzonovskie Čtenija», posvjaščënnoj 110-letiju so dnja roždenija Andreja Petroviča Dulʹzona i 80-letnemu jubileju fakulʹteta inostrannyx jazykov TGPU. 24–28 ijunja 2011*. Tomsk: TGPU. 57–59. (in Russian)
+
+Say, S. S. 2011b. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v jazykax Rossii](https://bivaltyp.info/docs/Say_2011b_Nekanonicheskoe.pdf) [Non-canonical marking of bivalent predicates’ arguments in the languages of Russia]. *Sbornik tezisov dokladov 26-oj Meždunarodnoj konferencii «Dulʹzonovskie čtenija», posvjaščennoj 110-letiju so dnja roždenija A. P. Dulʹzona i 80-letnemu jubileju fakulʹteta inostrannyx jazykov TGPU. 24–28 ijunja 2011*. Tomsk: TGPU. 77–80. (in Russian)
