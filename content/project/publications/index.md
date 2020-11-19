@@ -6,9 +6,13 @@ Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostru
 ### Articles
 Say, S. S. 2020. Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 1. (in Russian)
 
+Kholodilova, M. A. 2018. Morfologija imeni [(Moksha Mordvin) nominal morphology]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 63–121. (in Russian) see especially section 5.2.5.2)
+
+Muravʹëva A. M., M. A. Kholodilova. Poslelogi i reljacionnye imena [(Moksha Mordvin) postpositions and relational nouns]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 212–271. (in Russian) (see especially section 10.5.4.1).
+
 Ovsjannikova, M. A. 2018. Kodirovanie učastnikov pri dvuxmestnyx predikatax v lesnom dialekte èneckogo jazyka [Bivalent predicates’ argument encoding in the Forest dialect of Enets]. *Uralo-altajskie issledovanija*, № 1 (28). 50–69. (in Russian)
 
-Say, S. S. 2017. Leksičeskoe raspredelenie perexodnyx i neperexodnyx dvuxmestnyx glagolov v indoevropejskix jazykax: kvantitativno-tipologičeskoe issledovanie [Lexical distribution of transitive and intransitive bivalent verbs in the Indo-European languages: a quantitative-typological study]. Kazanskij, N. N. (ed.). *Indoevropejskoe jazykoznanie i klassičeskaja filologija-XXI. Materialy čtenij, posvjaščennyx pamjati professora Iosifa Moiseeviča Tronskogo. 26–28 ijunja, 2017*. Saint Petersburg: Nauka. S. 714–747. (in Russian)
+Say, S. S. 2017. Leksičeskoe raspredelenie perexodnyx i neperexodnyx dvuxmestnyx glagolov v indoevropejskix jazykax: kvantitativno-tipologičeskoe issledovanie [Lexical distribution of transitive and intransitive bivalent verbs in the Indo-European languages: a quantitative-typological study]. N. N. Kazanskij (ed.). *Indoevropejskoe jazykoznanie i klassičeskaja filologija-XXI. Materialy čtenij, posvjaščennyx pamjati professora Iosifa Moiseeviča Tronskogo. 26–28 ijunja, 2017*. Saint Petersburg: Nauka. S. 714–747. (in Russian)
 
 Nekrasova, G. A., E. N. Sergeeva. 2014. Variativnostʹ argumentnoj struktury dvuxmestnyx predikatov v komi-permjackom jazyke [Bivalent predicates’ argument structure variability in Komi-Permyak]. *Acta Linguistica Petropolitana*, V. 10, Part 1. 810–820. (in Russian)
 
@@ -24,7 +28,7 @@ Mischenko, D. F. 2012. Sravnitelʹnyj analiz nekanoničeskix dvuxmestnyx predika
 
 Mischenko, D. F. 2011. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v russkom jazyke i v ingermanlandskom dialekte finskogo jazyka: kontrastivnoe issledovanie [Non-canonical marking of bivalent predicates’ arguments in Russian and in the Ingrian dialect of Finnish: a contrastive study]. *Tezisy dokladov 26-oj Meždunarodnoj konferencii «Dulʹzonovskie Čtenija», posvjaščënnoj 110-letiju so dnja roždenija Andreja Petroviča Dulʹzona i 80-letnemu jubileju fakulʹteta inostrannyx jazykov TGPU. 24–28 ijunja 2011*. Tomsk: TGPU. 57–59. (in Russian)
 
-Say, S. S. 2011a. Nekanoničeskoe markirovanie aktantov mnogomestnyx predikatov: opyt kvantitativno-tipologičeskogo issledovanija [Non-canonical marking of polyvalent predicates’ arguments: an essay of a quantitative-typological study] // *Acta Linguistica Petropolitana*. V. 7, Part 3. Saint Petersburg: Nauka. 424–430. (in Russian)
+Say, S. S. 2011a. Nekanoničeskoe markirovanie aktantov mnogomestnyx predikatov: opyt kvantitativno-tipologičeskogo issledovanija [Non-canonical marking of polyvalent predicates’ arguments: an essay of a quantitative-typological study]. *Acta Linguistica Petropolitana*. V. 7, Part 3. Saint Petersburg: Nauka. 424–430. (in Russian)
 
 Say, S. S. 2011b. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v jazykax Rossii [Non-canonical marking of bivalent predicates’ arguments in the languages of Russia]. *Sbornik tezisov dokladov 26-oj Meždunarodnoj konferencii «Dulʹzonovskie čtenija», posvjaščennoj 110-letiju so dnja roždenija A. P. Dulʹzona i 80-letnemu jubileju fakulʹteta inostrannyx jazykov TGPU. 24–28 ijunja 2011*. Tomsk: TGPU. 77–80. (in Russian)
 
@@ -35,6 +39,8 @@ Mischenko, D. F. 2010. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predika
 Aplonova, Katya. 2018. Typological survey of transitivity. Final project for the course “Linguistic data: quantitative analysis and visualization”. Moscow: NRU Higher School of Economics. 20.06.2018.
 
 Orestova, M. P. 2018. Sootvetstvija leksičeskix i grammatičeskix sredstv kodirovanija dvuxmestnyx situacij vnutri slavjanskoj gruppy jazykov [Correspondences between lexical and grammatical encoding devices of bivalent situations in the Slavic languages]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
+
+Tepluxina, E. V. 2018. Markirovanie aktantov dvuxmestnyx predikatov v azerbajdžanskom jazyke [Bivalent verb classes in Azebaijani]. First year term paper. Saint Petersburg: NRU Higher School of Economics. (in Russian)
 
 Azargaeva, A. V. 2016. Valentnostnye klassy dvuxmestnyx glagolov v burjatskom jazyke [Valency classes of bivalent verbs in the Buriat language]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
 
