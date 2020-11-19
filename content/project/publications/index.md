@@ -8,7 +8,7 @@ Say, S. S. 2020. Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix i
 
 Kholodilova, M. A. 2018. Morfologija imeni [(Moksha Mordvin) nominal morphology]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 63–121. (in Russian) see especially section 5.2.5.2)
 
-Muravʹëva A. M., M. A. Kholodilova. Poslelogi i reljacionnye imena [(Moksha Mordvin) postpositions and relational nouns]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 212–271. (in Russian) (see especially section 10.5.4.1).
+Muravʹëva A. M., M. A. Kholodilova. 2018. Poslelogi i reljacionnye imena [(Moksha Mordvin) postpositions and relational nouns]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 212–271. (in Russian) (see especially section 10.5.4.1).
 
 Ovsjannikova, M. A. 2018. Kodirovanie učastnikov pri dvuxmestnyx predikatax v lesnom dialekte èneckogo jazyka [Bivalent predicates’ argument encoding in the Forest dialect of Enets]. *Uralo-altajskie issledovanija*, № 1 (28). 50–69. (in Russian)
 
