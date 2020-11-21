@@ -4,6 +4,10 @@
 Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
 
 ### Articles
+Shagal, Ksenia & Alena Blinova (under review). Bivalent verb classes in Skolt Saami: A pilot study.
+
+Blinova, Alena & Ksenia Shagal (under review). Dvuxmestnye predikaty v saamskix jazykax v areal'noj perspektive [Bivalent verb classes in Saami languages from an areal perspective]. (in Russian)
+
 Say, S. S. 2020. Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 1. (in Russian)
 
 Kholodilova, M. A. 2018. Morfologija imeni [(Moksha Mordvin) nominal morphology]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 63–121. (in Russian) see especially section 5.2.5.2)
@@ -42,9 +46,13 @@ Perkova, Natalia. 2013. Non-canonical argument marking in two-place predication:
 
 ### Selected conference talks
 
+Blinova, Alena, Sophya Rachinskaya & Ksenia Shagal. 2020. Dvuxmestnye predikaty v saamskix jazykax [Bivalent verb classes in Saami languages]. Paper presented at the conference Minority Languages in Big Linguistics. Moscow State University. April 17–18, 2020. (in Russian)
+
+Blinova, Alena & Ksenia Shagal. 2019. Bivalent verb classes in Skolt Saami: A pilot study. Paper presented at the 4th Saami Linguistics Symposium (SAALS 4). Uppsala University, November 14–15, 2019. 
+
 Say, Sergey. 2018. Valency classes in an areal typological perspective. Invited talk at the International Summer School «Areal linguistics & languages of Russia». NRU Higher School of Economics, Voronovo campus, Moscow. September 10–13, 2018.
 
-Shagal, Ksenia & Sergey Say. 2018. Bivalent verb classes in Uralic languages. Paper presented at the XLV Annual Conference of Linguistics in Helsinki. University of Helsinki. May 7-9, 2018.
+Shagal, Ksenia & Sergey Say. 2018. Bivalent verb classes in Uralic languages. Paper presented at the XLV Annual Conference of Linguistics (Kielitieteen päivät). University of Helsinki. May 7–9, 2018.
 
 Say, Sergey. 2017a. Bivalent verb classes in the languages of Northern Eurasia: genetic and areal factors. Paper presented at the 12th Conference of the Association for Linguistic Typology (ALT). Australian National University, Canberra. December 12–14, 2017.
 
