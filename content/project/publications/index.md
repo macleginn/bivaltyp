@@ -20,7 +20,7 @@ Say, Sergey. 2014. [Bivalent Verb Classes in the Languages of Europe: A Quantita
 
 Mischenko, D. F. 2013a. [Markirovanie argumentov mnogomestnyx predikatov v jazykax mande: k izučeniju estestvennyx klassov predikatnyx leksem](https://bivaltyp.info/docs/Mishchenko_2013a_Markirovanie.pdf) [Polyvalent predicates’ argument marking in the Mande languages: a study on natural classes of predicate lexemes]. A. Ju. Želtov (ed.). *Afrikanskij sbornik – 2013*. Saint Petersburg: MAÈ RAN. 396–410. (in Russian)
 
-Nekrasova, G. A., E. N. Sergeeva. 2013. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v komi-permjackom jazyke [Non-canonical marking of bivalent predicates’ arguments in Komi-Permyak]. *Voprosy permskoj dialektologii: tradicii i perspektivy. Sbornik statej*. Syktyvkar. 109–116. (in Russian)
+Nekrasova, G. A., E. N. Sergeeva. 2013. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v komi-permjackom jazyke [Non-canonical marking of bivalent predicates’ arguments in Komi-Permyak]. A. G. Musanov (ed.). *Voprosy permskoj dialektologii i polevye issledovanija: tradicii i perspektivy. Sbornik statej*. Syktyvkar. 109–116. (in Russian)
 
 Mischenko, D. F. 2012. [Sravnitelʹnyj analiz nekanoničeskix dvuxmestnyx predikatov v russkom jazyke i v ingermanlandskom dialekte finskogo jazyka](https://bivaltyp.info/docs/Mishchenko_2012_Sravnitelnyj.pdf) [A comparative study of non-canonical bivalent predicates in Russian and in the Ingrian dialect of Finnish]. *Vestnik Tomskogo gosudarstvennogo pedagogičeskogo universiteta*, 1 (116). 70–74. (in Russian)
 
