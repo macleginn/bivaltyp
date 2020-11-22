@@ -18,13 +18,13 @@ Ovsjannikova, M. A. 2018. [Kodirovanie učastnikov pri dvuxmestnyx predikatax v 
 
 Say, S. S. 2017. [Leksičeskoe raspredelenie perexodnyx i neperexodnyx dvuxmestnyx glagolov v indoevropejskix jazykax: kvantitativno-tipologičeskoe issledovanie](https://bivaltyp.info/docs/Say_2017_Leksicheskoe.pdf) [Lexical distribution of transitive and intransitive bivalent verbs in the Indo-European languages: a quantitative-typological study]. N. N. Kazanskij (ed.). *Indoevropejskoe jazykoznanie i klassičeskaja filologija-XXI. Materialy čtenij, posvjaščennyx pamjati professora Iosifa Moiseeviča Tronskogo. 26–28 ijunja, 2017*. Saint Petersburg: Nauka. S. 714–747. (in Russian)
 
-Nekrasova, G. A., E. N. Sergeeva. 2014. Variativnostʹ argumentnoj struktury dvuxmestnyx predikatov v komi-permjackom jazyke [Bivalent predicates’ argument structure variability in Komi-Permyak]. *Acta Linguistica Petropolitana*, V. 10, Part 1. 810–820. (in Russian)
+Nekrasova, G. A., E. N. Sergeeva. 2014. [Variativnostʹ argumentnoj struktury dvuxmestnyx predikatov v komi-permjackom jazyke](https://bivaltyp.info/docs/Nekrasova_Sergeeva_2014_Variativnost.pdf) [Bivalent predicates’ argument structure variability in Komi-Permyak]. *Acta Linguistica Petropolitana*, V. 10, Part 1. 810–820. (in Russian)
 
 Say, Sergey. 2014. [Bivalent Verb Classes in the Languages of Europe: A Quantitative Typological Study](https://brill.com/view/journals/ldc/4/1/article-p116_4.xml). *Language dynamics and change*, 4 (1). 116–166. ([Prefinal proof as of 26.05.2014](https://bivaltyp.info/docs/Say_2014_Bivalent_Prefinal_proof.pdf))
 
 Mischenko, D. F. 2013a. [Markirovanie argumentov mnogomestnyx predikatov v jazykax mande: k izučeniju estestvennyx klassov predikatnyx leksem](https://bivaltyp.info/docs/Mishchenko_2013a_Markirovanie.pdf) [Polyvalent predicates’ argument marking in the Mande languages: a study on natural classes of predicate lexemes]. A. Ju. Želtov (ed.). *Afrikanskij sbornik – 2013*. Saint Petersburg: MAÈ RAN. 396–410. (in Russian)
 
-Nekrasova, G. A., E. N. Sergeeva. 2013. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v komi-permjackom jazyke [Non-canonical marking of bivalent predicates’ arguments in Komi-Permyak]. A. G. Musanov (ed.). *Voprosy permskoj dialektologii i polevye issledovanija: tradicii i perspektivy. Sbornik statej*. Syktyvkar. 109–116. (in Russian)
+Nekrasova, G. A., E. N. Sergeeva. 2013. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v komi-permjackom jazyke](https://bivaltyp.info/docs/Nekrasova_Sergeeva_2013_Nekanonicheskoe.pdf) [Non-canonical marking of bivalent predicates’ arguments in Komi-Permyak]. A. G. Musanov (ed.). *Voprosy permskoj dialektologii i polevye issledovanija: tradicii i perspektivy. Sbornik statej*. Syktyvkar. 109–116. (in Russian)
 
 Mischenko, D. F. 2012. [Sravnitelʹnyj analiz nekanoničeskix dvuxmestnyx predikatov v russkom jazyke i v ingermanlandskom dialekte finskogo jazyka](https://bivaltyp.info/docs/Mishchenko_2012_Sravnitelnyj.pdf) [A comparative study of non-canonical bivalent predicates in Russian and in the Ingrian dialect of Finnish]. *Vestnik Tomskogo gosudarstvennogo pedagogičeskogo universiteta*, 1 (116). 70–74. (in Russian)
 
@@ -34,31 +34,31 @@ Mischenko, D. F. 2010. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predik
 
 ### Qualification papers and unpublished manuscripts
 
-Aplonova, Katya. 2018. Typological survey of transitivity. Final project for the course “Linguistic data: quantitative analysis and visualization”. Moscow: NRU Higher School of Economics. 20.06.2018.
+Aplonova, Katya. 2018. [Typological survey of transitivity](https://bivaltyp.info/docs/Aplonova_2018_Typological.pdf). Final project for the course “Linguistic data: quantitative analysis and visualization”. Moscow: NRU Higher School of Economics. 20.06.2018.
 
-Orestova, M. P. 2018. Sootvetstvija leksičeskix i grammatičeskix sredstv kodirovanija dvuxmestnyx situacij vnutri slavjanskoj gruppy jazykov [Correspondences between lexical and grammatical encoding devices of bivalent situations in the Slavic languages]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
+Orestova, M. P. 2018. [Sootvetstvija leksičeskix i grammatičeskix sredstv kodirovanija dvuxmestnyx situacij vnutri slavjanskoj gruppy jazykov](https://bivaltyp.info/docs/Orestova_2018_Sootvetstvija.pdf) [Correspondences between lexical and grammatical encoding devices of bivalent situations in the Slavic languages]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
 
-Tepluxina, E. V. 2018. Markirovanie aktantov dvuxmestnyx predikatov v azerbajdžanskom jazyke [Bivalent verb classes in Azebaijani]. First year term paper. Saint Petersburg: NRU Higher School of Economics. (in Russian)
+Tepluxina, E. V. 2018. [Markirovanie aktantov dvuxmestnyx predikatov v azerbajdžanskom jazyke](https://bivaltyp.info/docs/Tepluxina_2018_Markirovanie.pdf) [Bivalent verb classes in Azebaijani]. First year term paper. Saint Petersburg: NRU Higher School of Economics. (in Russian)
 
-Azargaeva, A. V. 2016. Valentnostnye klassy dvuxmestnyx glagolov v burjatskom jazyke [Valency classes of bivalent verbs in the Buriat language]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
+Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom jazyke](https://bivaltyp.info/docs/Azargaeva_2016_Valentnostnye.pdf) [Valency classes of bivalent verbs in the Buriat language]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
 
-Perkova, Natalia. 2013. Non-canonical argument marking in two-place predication: the case of the Baltic languages. Unpublished paper, Stockholm.
+Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
 
-Blinova, Alena, Sophya Rachinskaya & Ksenia Shagal. 2020. Dvuxmestnye predikaty v saamskix jazykax [Bivalent verb classes in Saami languages]. Paper presented at the conference Minority Languages in Big Linguistics. Moscow State University. April 17–18, 2020. (in Russian)
+Blinova, Alena, Sophya Rachinskaya & Ksenia Shagal. 2020. [Dvuxmestnye predikaty v saamskix jazykax](https://bivaltyp.info/docs/Blinova_Rachinskaya_Shagal_2020_Dvuxmestnye.pdf) [Bivalent verb classes in Saami languages]. Paper presented at the conference Minority Languages in Big Linguistics. Moscow State University. April 17–18, 2020. (in Russian)
 
-Blinova, Alena & Ksenia Shagal. 2019. Bivalent verb classes in Skolt Saami: A pilot study. Paper presented at the 4th Saami Linguistics Symposium (SAALS 4). Uppsala University, November 14–15, 2019. 
+Blinova, Alena & Ksenia Shagal. 2019. [Bivalent verb classes in Skolt Saami: A pilot study](https://bivaltyp.info/docs/Blinova_Shagal_2019_Bivalent.pdf). Paper presented at the 4th Saami Linguistics Symposium (SAALS 4). Uppsala University, November 14–15, 2019. 
 
 Say, Sergey. 2018. Valency classes in an areal typological perspective. Invited talk at the International Summer School «Areal linguistics & languages of Russia». NRU Higher School of Economics, Voronovo campus, Moscow. September 10–13, 2018.
 
-Shagal, Ksenia & Sergey Say. 2018. Bivalent verb classes in Uralic languages. Paper presented at the XLV Annual Conference of Linguistics (Kielitieteen päivät). University of Helsinki. May 7–9, 2018.
+Shagal, Ksenia & Sergey Say. 2018. [Bivalent verb classes in Uralic languages](https://bivaltyp.info/docs/Shagal_Say_2018_Bivalent_Uralic.pdf). Paper presented at the XLV Annual Conference of Linguistics (Kielitieteen päivät). University of Helsinki. May 7–9, 2018.
 
 Say, Sergey. 2017a. Bivalent verb classes in the languages of Northern Eurasia: genetic and areal factors. Paper presented at the 12th Conference of the Association for Linguistic Typology (ALT). Australian National University, Canberra. December 12–14, 2017.
 
 Say, S. S. 2017b. Leksičeskoe raspredelenie perexodnyx i neperexodnyx dvuxmestnyx glagolov v indoevropejskix jazykax: kvantitativno-tipologičeskoe issledovanie [Lexical distribution of transitive and intransitive bivalent verbs in the Indo-European languages: a quantitative-typological study]. Paper presented at the «Indoevropejskoe jazykoznanie i klassičeskaja filologija-XXI» conference. St. Petersburg, ILS RAN. June 26–28, 2017. (in Russian)
 
-Ovsjannikova, M. A. 2016. Valency classes of two-place predicates in Forest Enets. Paper presented at the 6th International conference on Samoyedic studies. Moscow, Institue of Linguistics. September 8–10, 2016.
+Ovsjannikova, M. A. 2016. [Valency classes of two-place predicates in Forest Enets](https://bivaltyp.info/docs/Ovsjannikova_2016_Valency_Class.pdf). Paper presented at the 6th International conference on Samoyedic studies. Moscow, Institue of Linguistics. September 8–10, 2016.
 
 Say, S. S. 2014. Valentnostnye klassy dvuxmestnyx glagolov v jazykax Evropy (i ne tolʹko) [Bivalent verbs’ valency classes in the languages of Europe (and beyond)]. Paper presented at the seminar on "Some applications of mathematical methods in linguistics, co-ordinated by M. R. Pentus, P. M. Arkadiev, A. Č. Piperski & V. A. Uspenskij. Moscow State University. October 18, 2014. (in Russian)
 
