@@ -10,7 +10,7 @@ Blinova, Alena & Ksenia Shagal (under review). Dvuxmestnye predikaty v saamskix 
 
 Say, S. S. 2020. Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 1. (in Russian)
 
-Kholodilova, M. A. 2018. Morfologija imeni [(Moksha Mordvin) nominal morphology]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 63–121. (in Russian) see especially section 5.2.5.2)
+Kholodilova, M. A. 2018. Morfologija imeni [(Moksha Mordvin) nominal morphology]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 63–121. (in Russian) (see especially section 5.2.5.2)
 
 Muravʹëva A. M., M. A. Kholodilova. 2018. Poslelogi i reljacionnye imena [(Moksha Mordvin) postpositions and relational nouns]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 212–271. (in Russian) (see especially section 10.5.4.1).
 
