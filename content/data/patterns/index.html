@@ -255,7 +255,7 @@
     for (const lang of languages) {
         let langButton = document.createElement('div');
         langButton.classList.add('lang-button');
-        langButton.innerText = lang.replace(/_/g, ' ');
+        langButton.innerText = langDict[lang];
         langButton.onclick = () => {
             if (selectedLanguages.has(lang)) {
                 selectedLanguages.delete(lang);
