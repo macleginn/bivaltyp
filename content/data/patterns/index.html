@@ -61,6 +61,16 @@
 
     let selectedLanguages = new Set();
 
+    let langNameCmp = (a, b) => {
+        if (langDict[a].name < langDict[b].name) {
+            return -1;
+        } else if (langDict[a].name > langDict[b].name) {
+            return 1 ;
+        } else {
+            return 0;
+        }
+    };
+
     function getPredicateLink(predicate) {
         let filename = predicate.replace(/[# ]/g, '') + '.html';
         return `<a class="table-link" href="../../predicates/pred/${filename}">link</a>`
@@ -131,7 +141,7 @@
         }
 
         // Show langs in the alphabetical order.
-        colsSuffix.sort();
+        colsSuffix.sort(langNameCmp);
         let colsToSelect = colsPrefix.concat(colsSuffix),
             currentDf = patternsDf.select(...colsToSelect);
 
@@ -251,11 +261,11 @@
         .distinct('language')
         .toArray()
         .map(oneElArr => oneElArr[0]);
-    languages.sort();
+    languages.sort(langNameCmp);
     for (const lang of languages) {
         let langButton = document.createElement('div');
         langButton.classList.add('lang-button');
-        langButton.innerText = langDict[lang];
+        langButton.innerText = langDict[lang].name;
         langButton.onclick = () => {
             if (selectedLanguages.has(lang)) {
                 selectedLanguages.delete(lang);
