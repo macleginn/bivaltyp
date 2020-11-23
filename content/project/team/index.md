@@ -76,7 +76,7 @@ Mikhail Knyazev: {{ language:Dutch }}
 Elena Kolpachkova: {{ language:Chinese_Mandarin }}
 Yukari Konuma: {{ language:Japanese }}
 Elena Kordi: {{ language:French }}
-Richard Kowalik, Ksenia Shagal: {{ language:Saami_Southern }}
+Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}
 Kirill Kozhanov: {{ language:Romani_Kalderash }}
 Irina Külmoja: {{ language:Estonian }}
 Olga Kuznecova: {{ language:Guro }}, {{ language:Norwegian_Bokmal}}

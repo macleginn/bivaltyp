@@ -2216,9 +2216,9 @@ const languageData = [
   [
     82,
     "sout2674",
-    "Saami_Southern",
+    "Saami_South",
     "южносаамский",
-    "Southern Saami",
+    "South Saami",
     "Richard Kowalik, Ksenia Shagal",
     "Рикард Ковалик, Ксения Андреевна Шагал",
     "Europe",

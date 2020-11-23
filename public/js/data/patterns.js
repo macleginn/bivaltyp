@@ -76,7 +76,7 @@ const patternsData = [
     "Russian",
     "Rutul",
     "Saami_Skolt",
-    "Saami_Southern",
+    "Saami_South",
     "Serbian",
     "Slovenian",
     "Soninke",
