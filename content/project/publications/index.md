@@ -36,7 +36,7 @@ Mischenko, D. F. 2010. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predik
 
 Aplonova, Katya. 2018. [Typological survey of transitivity](https://bivaltyp.info/docs/Aplonova_2018_Typological.pdf). Final project for the course “Linguistic data: quantitative analysis and visualization”. Moscow: NRU Higher School of Economics. 20.06.2018.
 
-Orestova, M. P. 2018. [Sootvetstvija leksičeskix i grammatičeskix sredstv kodirovanija dvuxmestnyx situacij vnutri slavjanskoj gruppy jazykov](https://bivaltyp.info/docs/Orestova_2018_Sootvetstvija.pdf) [Correspondences between lexical and grammatical encoding devices of bivalent situations in the Slavic languages]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
+Orestova, M. P. 2018. [Sootvetstvija leksičeskix i grammatičeskix sredstv kodirovanija dvuxmestnyx situacij vnutri slavjanskoj gruppy jazykov](https://bivaltyp.info/docs/Orestova_2018_Sootvetstvija_final_s_prilozheniem.pdf) [Correspondences between lexical and grammatical encoding devices of bivalent situations in the Slavic languages]. Second year term paper. Saint Petersburg: Saint Petersburg State University. (in Russian)
 
 Tepluxina, E. V. 2018. [Markirovanie aktantov dvuxmestnyx predikatov v azerbajdžanskom jazyke](https://bivaltyp.info/docs/Tepluxina_2018_Markirovanie.pdf) [Bivalent verb classes in Azebaijani]. First year term paper. Saint Petersburg: NRU Higher School of Economics. (in Russian)
 
