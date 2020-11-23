@@ -236,7 +236,13 @@
                 case 'argument_frame_en':
                     return 'Argument frame';
                 default:
-                    return colname.charAt(0).toUpperCase() + colname.slice(1);
+                    if (langDict.hasOwnProperty(colname)) {
+                        return langDict[colname].name
+                    } else {
+                        return colname
+                            .charAt(0)
+                            .toUpperCase() + colname.slice(1);
+                    }
             }
         })
 
@@ -285,6 +291,7 @@
     );
     languageDfMin = languageDf.select(
         'language',
+        'language_external',
         'macroarea',
         'genus (WALS)',
         'family (WALS)'
@@ -296,6 +303,7 @@
     languageDfMin.chain(
         row => {
             langDict[row.get('language')] = {
+                name: row.get('language_external'),
                 phylum: row.get('family (WALS)'),
                 genus: row.get('genus (WALS)'),
                 marea: row.get('macroarea')
