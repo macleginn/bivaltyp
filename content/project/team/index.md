@@ -1,3 +1,5 @@
+## The team
+
 ### Project coordinator
 
 ![S.S.'s photo]({{ site_url_j }}/images/Say.jpg "S.S.'s photo")
@@ -50,68 +52,68 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 
 ### Language contributors
 
-Anna Alexandrova: {{ language:Italian }}  
-Ekaterina Aplonova: {{ language:Goo }}  
-Peter Arkadiev: {{ language:Abaza }}, {{ language:Adyghe }}  
-Aleksandra Azargaeva: {{ language:Buriat }}  
-Mislav Benić: {{ language:Croatian }}  
-Sandra Birzer: {{ language:German }}  
-Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}  
-Nadezhda Bulatova: {{ language:Evenki }}  
-Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, Soninke]{{ language:Soninke }}  
-Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul }}  
-Varvara Diveeva: {{ language:Albanian }}  
-Sergey Dmitrenko: {{ language:Khmer }}  
-Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
-Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}, {{ language:Tsakhur }}  
-Elena Gorbova: {{ language:Spanish }}  
-Olga Gorickaja: {{ language:Belarusian }}  
-Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}  
-Ildar Ibragimov: {{ language:Greek_Ancient }}  
-Vasilisa Kagirova: {{ language:Armenian_Eastern }}  
-Maria Kholodilova: {{ language:Moksha }}, {{ language:Chuvash }}  
-Mikhail Knyazev: {{ language:Dutch }}  
-Elena Kolpachkova: {{ language:Chinese_Mandarin }}  
-Yukari Konuma: {{ language:Japanese }}  
-Elena Kordi: {{ language:French }}  
-Richard Kowalik, Ksenia Shagal: {{ language:Saami_Southern }}  
-Kirill Kozhanov: {{ language:Romani_Kalderash }}  
-Irina Külmoja: {{ language:Estonian }}  
-Olga Kuznecova: {{ language:Guro }}, {{ language:Norwegian_Bokmal}}  
-Timur Maisak: {{ language:Udi }}  
-Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
-Anastasia (Leonidovna) Makarova: {{ language:Serbian }}  
-Anastasia (Borisovna) Makarova: {{ language:Czech }}  
-Ramazan Mamedshaxov: {{ language:Arabic_Standard }}, {{ language:Lezgian }}  
-Daria Mischenko: {{ language:Finnish_Ingrian }}, {{ language:Loma }}, {{ language:Nanai }}  
-Zarina Molochieva: {{ language:Chechen }}  
-George Moroz: {{ language:Polish }}  
-Rasul Mutalov: {{ language:Dargwa_Icari }}  
-Johanna Nichols: {{ language:Ingush }}  
-Dmitry Nikolaev: {{ language:Irish }}, {{ language:Hebrew_Modern }}  
-Dmitry Nikolaev, Johanna Nichols: {{ language:English }}  
-Ajtalina Nogovitsyna: {{ language:Yakut }}  
-Sofia Oskolskaya: {{ language:Tuvinian }}  
-Maria Ovsjannikova: {{ language:Enets_Forest }}, {{ language:Turkish }}  
-Elena Perekhvalskaja: {{ language:Udihe }}  
-Natalia Perkova: {{ language:Latvian }}  
-Krasimira Petrova: {{ language:Bulgarian }}  
-Inna Popova: {{ language:Latin }}  
-Maria Pupynina: {{ language:Chukchi }}  
-Neige Rochant: {{ language:Andi_Zilo }}  
-Alexander Rostovtsev-Popiel: {{ language:Georgian }}  
-Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}  
-Ekaterina Sergeeva: {{ language:Komi_Zyrian }}  
-Ekaterina Sergeeva, Galina Nekrasova: {{ language:Komi_Permyak }}  
-Ksenia Shagal: {{ language:Erzya }}, {{ language:Finnish }}, {{ language:Udmurt }}  
-Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman: {{ language:Swedish }}  
-Mayya Shlyakhter: {{ language:Bengali }}  
-Ksenia Studenikina: {{ language:Mari_Western }}  
-Daria Suetina (Konior): {{ language:Romanian }}  
-Evgenija Teplukhina: {{ language:Azerbaijani }}  
-Arseniy Vydrin: {{ language:Ossetic }}  
-Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}  
-Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}  
-Ekaterina Zheltova: {{ language:Greek_Modern }}  
-Vasilisa Zhigulskaja: {{ language:Hungarian }}  
-Anastasia Zhuk: {{ language:Kazakh }}  
+Anna Alexandrova: {{ language:Italian }}
+Ekaterina Aplonova: {{ language:Goo }}
+Peter Arkadiev: {{ language:Abaza }}, {{ language:Adyghe }}
+Aleksandra Azargaeva: {{ language:Buriat }}
+Mislav Benić: {{ language:Croatian }}
+Sandra Birzer: {{ language:German }}
+Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}
+Nadezhda Bulatova: {{ language:Evenki }}
+Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, Soninke]{{ language:Soninke }}
+Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul }}
+Varvara Diveeva: {{ language:Albanian }}
+Sergey Dmitrenko: {{ language:Khmer }}
+Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}
+Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}, {{ language:Tsakhur }}
+Elena Gorbova: {{ language:Spanish }}
+Olga Gorickaja: {{ language:Belarusian }}
+Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}
+Ildar Ibragimov: {{ language:Greek_Ancient }}
+Vasilisa Kagirova: {{ language:Armenian_Eastern }}
+Maria Kholodilova: {{ language:Moksha }}, {{ language:Chuvash }}
+Mikhail Knyazev: {{ language:Dutch }}
+Elena Kolpachkova: {{ language:Chinese_Mandarin }}
+Yukari Konuma: {{ language:Japanese }}
+Elena Kordi: {{ language:French }}
+Richard Kowalik, Ksenia Shagal: {{ language:Saami_Southern }}
+Kirill Kozhanov: {{ language:Romani_Kalderash }}
+Irina Külmoja: {{ language:Estonian }}
+Olga Kuznecova: {{ language:Guro }}, {{ language:Norwegian_Bokmal}}
+Timur Maisak: {{ language:Udi }}
+Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}
+Anastasia (Leonidovna) Makarova: {{ language:Serbian }}
+Anastasia (Borisovna) Makarova: {{ language:Czech }}
+Ramazan Mamedshaxov: {{ language:Arabic_Standard }}, {{ language:Lezgian }}
+Daria Mischenko: {{ language:Finnish_Ingrian }}, {{ language:Loma }}, {{ language:Nanai }}
+Zarina Molochieva: {{ language:Chechen }}
+George Moroz: {{ language:Polish }}
+Rasul Mutalov: {{ language:Dargwa_Icari }}
+Johanna Nichols: {{ language:Ingush }}
+Dmitry Nikolaev: {{ language:Irish }}, {{ language:Hebrew_Modern }}
+Dmitry Nikolaev, Johanna Nichols: {{ language:English }}
+Ajtalina Nogovitsyna: {{ language:Yakut }}
+Sofia Oskolskaya: {{ language:Tuvinian }}
+Maria Ovsjannikova: {{ language:Enets_Forest }}, {{ language:Turkish }}
+Elena Perekhvalskaja: {{ language:Udihe }}
+Natalia Perkova: {{ language:Latvian }}
+Krasimira Petrova: {{ language:Bulgarian }}
+Inna Popova: {{ language:Latin }}
+Maria Pupynina: {{ language:Chukchi }}
+Neige Rochant: {{ language:Andi_Zilo }}
+Alexander Rostovtsev-Popiel: {{ language:Georgian }}
+Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}
+Ekaterina Sergeeva: {{ language:Komi_Zyrian }}
+Ekaterina Sergeeva, Galina Nekrasova: {{ language:Komi_Permyak }}
+Ksenia Shagal: {{ language:Erzya }}, {{ language:Finnish }}, {{ language:Udmurt }}
+Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman: {{ language:Swedish }}
+Mayya Shlyakhter: {{ language:Bengali }}
+Ksenia Studenikina: {{ language:Mari_Western }}
+Daria Suetina (Konior): {{ language:Romanian }}
+Evgenija Teplukhina: {{ language:Azerbaijani }}
+Arseniy Vydrin: {{ language:Ossetic }}
+Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}
+Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}
+Ekaterina Zheltova: {{ language:Greek_Modern }}
+Vasilisa Zhigulskaja: {{ language:Hungarian }}
+Anastasia Zhuk: {{ language:Kazakh }}

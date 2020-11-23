@@ -52,7 +52,7 @@ DATA_DICT = {
                                ' Сай, С. С., Д. В. Герасимов, С. Ю. Дмитренко, Н. М. Заика, В. С. Храковский. '
                                '2018. Валентностные классы двухместных предикатов: типологическая анкета и '
                                'инструкция исследователю // С. С. Сай (отв. ред.). Валентностные классы '
-                               'двухместных предикатов в разноструктурных языках. СПб.: ИЛИ РАН. С. 25–46.' 
+                               'двухместных предикатов в разноструктурных языках. СПб.: ИЛИ РАН. С. 25–46.'
                                '</div><input type="button" value="Show Russian citation"'
                                ' onclick="toggleRussianCitation(this);" style="display: block;">'
 }
@@ -665,7 +665,8 @@ def predicate_page():
             .replace('{{ site_url_j }}', SITE_URL)
             .replace('<div id="main">', '''<div id="main">
     <div>
-        <p>Click on the name of a predicate if you want to see all patterns and glossed examples associated with the predicate.</p>       
+        <h2>Predicates</h2>
+        <p>Click on the name of a predicate if you want to see all patterns and glossed examples associated with the predicate.</p>
         <p><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></p>
     </div>''')
             .replace('<span class="blue bg">Y</span>\n            <span class="bg">ache</span>',
