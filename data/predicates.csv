@@ -52,7 +52,7 @@ predicate_no	predicate_label_en	argument_frame_en	stimulus_sentence_en	predicate
 51	be_called	X (be_called) Y	(A boy saw his father’s compass and asked what this was. The father answered him:) ‘[This tool]_x is called [a compass]_y.’	называться	X (называться) Y	(Мальчик увидел у отца компас и спросил, что это такое. Отец отвечает ему:) «[Этот предмет / инструмент]_x называется [компас / компасом]_y».	yes
 52	punish	X (punish) Y	(P.’s son was misbehaving.) [P.]_x punished [his son]_y.	наказывать	X (наказывать) Y-а	(Сын П. плохо себя вел) [П.]_x наказал [своего сына]_y.	
 53	attack	X (attack) Y	[A bear]_x attacked [a fisherman]_y.	напасть	X (нападать) на Y-а	[Медведь]_x напал на [рыбака]_y.	
-54	fill#intr#	X (fill) with Y	(There was a bucket near the house during the rain.) [The bucket] filled with [water]_y.	наполняться	X (наполняться) Y-ом	(Во время дождя ведро стояло на улице) [Ведро]_x наполнилось [водой]_y.	
+54	fill#intr#	X (fill) with Y	(There was a bucket near the house during the rain.) [The bucket]_x filled with [water]_y.	наполняться	X (наполняться) Y-ом	(Во время дождя ведро стояло на улице) [Ведро]_x наполнилось [водой]_y.	
 55	find	X (find) Y	[P.]_x found [his keys]_y.	находить	X (находить) Y(-а)	[П.]_x нашел [ключи]_y.	
 56	be_short	X (be short) Y	(P. wants to buy a ticket. He counts his money and finds out that) [P.]_x is short / lacks [one euro]_y.	недоставать	X-у (недоставать) Y-a	(П. хочет купить билет. Он посчитал деньги и выяснилось, что) [П.]_x недостает [одного доллара]_y.	yes
 57	hate	X (hate) Y	[P.]_x hates [M]_y.	ненавидеть	X (ненавидеть) Y-а	[П.]_x ненавидит [М.]_y	yes
