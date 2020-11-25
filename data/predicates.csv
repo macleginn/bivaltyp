@@ -39,7 +39,7 @@ predicate_no	predicate_label_en	argument_frame_en	stimulus_sentence_en	predicate
 38	have	X (have) Y	[P.]_x has [a car]_y.	иметь	X (иметь) Y	У [П.]_x есть [машина]_y.	yes
 39	look_for	X (look for) Y	[P.]_x is looking for [his keys]_y.	искать	X (искать) Y(-а)	[П.]_x ищет [ключи]_y.	yes
 40	paint	X (paint) Y	[P.]_x painted [the fence]_y.	красить	X (красить) Y	[П.]_x покрасил [забор]_y.	
-41	bite	X (bite) Y	[A dog]_x bit [P.]_y.	кусать	X (кусать) Y-а	[Собака]_x укусила [П.]_y	
+41	bite	X (bite) Y	[A dog]_x bit [P.]_y	кусать	X (кусать) Y-а	[Собака]_x укусила [П.]_y	
 42	forfeit	X (lose) Y	(There was a fire in the village. As a result) [P.]_x lost [his house]_y.	лишаться	X (лишаться) Y-а	(В деревне был пожар. В результате) [П.]_x лишился [дома]_y.	
 43	try_to_catch	X (try to catch) Y	(The cat sprang out of the house.) [P.]_x is trying to catch [the cat]_y.	ловить	X (ловить) Y(-а)	(Кошка выскочила из дома). [П.]_x ловит [кошку]_y.	yes
 44	break	X (break) Y	[P.]_x broke [a stick]_y.	ломать	X (ломать) Y	[П.]_x сломал [палку]_y.	
