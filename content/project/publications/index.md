@@ -45,6 +45,7 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
+Say, Sergey & Dmitry Nikolaev. 17th Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies. St. Petersburg, November 19–21, 2020. Launch of BivalTyp: Typological database of bivalent verbs and their encoding frames (www.bivaltyp.info).
 
 Blinova, Alena, Sophya Rachinskaya & Ksenia Shagal. 2020. [Dvuxmestnye predikaty v saamskix jazykax](https://bivaltyp.info/docs/Blinova_Rachinskaya_Shagal_2020_Dvuxmestnye.pdf) [Bivalent verb classes in Saami languages]. Paper presented at the conference Minority Languages in Big Linguistics. Moscow State University. April 17–18, 2020. (in Russian)
 
