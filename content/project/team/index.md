@@ -54,7 +54,8 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 
 Anna Alexandrova: {{ language:Italian }}  
 Ekaterina Aplonova: {{ language:Goo }}  
-Peter Arkadiev: {{ language:Abaza }}, {{ language:Adyghe }}  
+Peter Arkadiev: {{ language:Abaza }}  
+Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
