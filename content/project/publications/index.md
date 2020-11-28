@@ -45,23 +45,23 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
-Say, Sergey & Dmitry Nikolaev. 17th Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies. St. Petersburg, November 19–21, 2020. Launch of BivalTyp: Typological database of bivalent verbs and their encoding frames (www.bivaltyp.info).
+Say, Sergey & Dmitry Nikolaev. 17th Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies. St. Petersburg, November 19–21, 2020. Launch of BivalTyp: Typological database of bivalent verbs and their encoding frames (www.bivaltyp.info). [Slides](https://bivaltyp.info/docs/Say_Nikolaev_2020_BivalTyp_Launch.pdf), [video](https://www.youtube.com/watch?v=SFNUytf7LrE).
 
 Blinova, Alena, Sophya Rachinskaya & Ksenia Shagal. 2020. [Dvuxmestnye predikaty v saamskix jazykax](https://bivaltyp.info/docs/Blinova_Rachinskaya_Shagal_2020_Dvuxmestnye.pdf) [Bivalent verb classes in Saami languages]. Paper presented at the conference Minority Languages in Big Linguistics. Moscow State University. April 17–18, 2020. (in Russian)
 
 Blinova, Alena & Ksenia Shagal. 2019. [Bivalent verb classes in Skolt Saami: A pilot study](https://bivaltyp.info/docs/Blinova_Shagal_2019_Bivalent.pdf). Paper presented at the 4th Saami Linguistics Symposium (SAALS 4). Uppsala University, November 14–15, 2019. 
 
-Say, Sergey. 2018. Valency classes in an areal typological perspective. Invited talk at the International Summer School «Areal linguistics & languages of Russia». NRU Higher School of Economics, Voronovo campus, Moscow. September 10–13, 2018.
+Say, Sergey. 2018. [Valency classes in an areal typological perspective](https://bivaltyp.info/docs/Say_HSE_Voronovo_2018_final.pdf). Invited talk at the International Summer School «Areal linguistics & languages of Russia». NRU Higher School of Economics, Voronovo campus, Moscow. September 10–13, 2018.
 
 Shagal, Ksenia & Sergey Say. 2018. [Bivalent verb classes in Uralic languages](https://bivaltyp.info/docs/Shagal_Say_2018_Bivalent_Uralic.pdf). Paper presented at the XLV Annual Conference of Linguistics (Kielitieteen päivät). University of Helsinki. May 7–9, 2018.
 
-Say, Sergey. 2017a. Bivalent verb classes in the languages of Northern Eurasia: genetic and areal factors. Paper presented at the 12th Conference of the Association for Linguistic Typology (ALT). Australian National University, Canberra. December 12–14, 2017.
+Say, Sergey. 2017a. [Bivalent verb classes in the languages of Northern Eurasia: genetic and areal factors](https://bivaltyp.info/docs/Say_ALT2017_Bivalent.pdf). Paper presented at the 12th Conference of the Association for Linguistic Typology (ALT). Australian National University, Canberra. December 12–14, 2017.
 
 Say, S. S. 2017b. Leksičeskoe raspredelenie perexodnyx i neperexodnyx dvuxmestnyx glagolov v indoevropejskix jazykax: kvantitativno-tipologičeskoe issledovanie [Lexical distribution of transitive and intransitive bivalent verbs in the Indo-European languages: a quantitative-typological study]. Paper presented at the «Indoevropejskoe jazykoznanie i klassičeskaja filologija-XXI» conference. St. Petersburg, ILS RAN. June 26–28, 2017. (in Russian)
 
 Ovsjannikova, M. A. 2016. [Valency classes of two-place predicates in Forest Enets](https://bivaltyp.info/docs/Ovsjannikova_2016_Valency_Class.pdf). Paper presented at the 6th International conference on Samoyedic studies. Moscow, Institue of Linguistics. September 8–10, 2016.
 
-Say, S. S. 2014. Valentnostnye klassy dvuxmestnyx glagolov v jazykax Evropy (i ne tolʹko) [Bivalent verbs’ valency classes in the languages of Europe (and beyond)]. Paper presented at the seminar on "Some applications of mathematical methods in linguistics, co-ordinated by M. R. Pentus, P. M. Arkadiev, A. Č. Piperski & V. A. Uspenskij. Moscow State University. October 18, 2014. (in Russian)
+Say, S. S. 2014. [Valentnostnye klassy dvuxmestnyx glagolov v jazykax Evropy (i ne tolʹko)](https://bivaltyp.info/docs/MGU_Say_2014_10_18.pdf) [Bivalent verbs’ valency classes in the languages of Europe (and beyond)]. Paper presented at the seminar on "Some applications of mathematical methods in linguistics, co-ordinated by M. R. Pentus, P. M. Arkadiev, A. Č. Piperski & V. A. Uspenskij. Moscow State University. October 18, 2014. (in Russian)
 
 Say, Sergey. 2013. Bivalent verb classes: a quantitative-typological assessment. Paper presented at the 10th Biennial Conference of the Association for Linguistic Typology (ALT 10). University of Leipzig. August 15–18, 2013.
 
