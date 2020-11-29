@@ -40,7 +40,7 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 
 ![D.M.'s photo]({{ site_url_j }}/images/Mischenko.jpg "D.M.'s photo")
 
-[Daria Mischenko](https://iling.spb.ru/people/mishchenko.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/DariaMishchenko)): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
+[Daria Mishchenko](https://iling.spb.ru/people/mishchenko.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/DariaMishchenko)): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
 
 ![A.V.'s photo]({{ site_url_j }}/images/Vydrin.jpg "A.V.'s photo")
 
@@ -86,7 +86,7 @@ Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}
 Anastasia (Leonidovna) Makarova: {{ language:Serbian }}  
 Anastasia (Borisovna) Makarova: {{ language:Czech }}  
 Ramazan Mamedshaxov: {{ language:Arabic_Standard }}, {{ language:Lezgian }}  
-Daria Mischenko: {{ language:Finnish_Ingrian }}, {{ language:Loma }}, {{ language:Nanai }}  
+Daria Mishchenko: {{ language:Finnish_Ingrian }}, {{ language:Loma }}, {{ language:Nanai }}  
 Zarina Molochieva: {{ language:Chechen }}  
 George Moroz: {{ language:Polish }}  
 Rasul Mutalov: {{ language:Dargwa_Icari }}  
