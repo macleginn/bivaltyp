@@ -55,9 +55,15 @@ After 2013, the dataset continued to grow thanks to language experts who contrib
 ### References
 
 Dowty, David. 1991. Thematic proto-roles and argument selection. *Language*, 67, 547–619.
+
 Hopper, Paul J. and Sandra A. Thompson. 1980. Transitivity in grammar and discourse. *Language*, 56, 251–299.
+
 Kittilä, Seppo. 2002. *Transitivity: Towards a Comprehensive Typology*. Turku: Åbo Akademis Tryckeri.
+
 Malchukov, Andrej & Bernard Comrie (eds.). 2015. *Valency Classes in the World’s Languages*. Berlin: De Gruyter Mouton, 2015.
+
 Malchukov, Andrej. 2005. Case pattern splits, verb types, and construction competition. M. Amberber, H. de Hoop (eds.). *Competition and Variation in Natural Languages*. London: Elsevier, 73–117.
+
 Næss, Åshild. 2007. *Prototypical Transitivity*. Amsterdam, Philadelphia: John Benjamins.
+
 Tsunoda, Tasaku. 1985. Remarks on transitivity. *Journal of Linguistics*, 21, 385–396.
