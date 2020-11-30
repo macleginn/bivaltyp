@@ -5,11 +5,16 @@ function byId(id) {
     return document.getElementById(id);
 }
 
+function hide(id) {
+    let el = byId(id);
+    el.style.display = 'none';
+}
+
 function toggle(id) {
     let el = byId(id);
-    if (el.style.display === 'none' || el.style.display === '')
+    if (el.style.display === 'none' || el.style.display === '') {
         el.style.display = 'block';
-    else
+    } else
         el.style.display = 'none';
 }
 
@@ -33,4 +38,29 @@ document.addEventListener('DOMContentLoaded', () => {
     try {
         byId('version').innerText = version;
     } catch {}
+
+    byId('project-submenu-button').addEventListener('click', event => { 
+        flipMenus(event, 'project-submenu'); 
+    });
+    byId('languages-submenu-button').addEventListener('click', event => { 
+        flipMenus(event, 'languages-submenu'); 
+    });
+    byId('data-submenu-button').addEventListener('click', event => { 
+        flipMenus(event, 'data-submenu'); 
+    });
 });
+
+function flipMenus(event, id) {
+    // Toggle the target menu; close all other menus.
+    for (const menuId of [
+        'project-submenu',
+        'languages-submenu',
+        'data-submenu'
+    ]) {
+        if (menuId !== id) {
+            hide(menuId);
+        }
+    }
+    toggle(id);
+    event.stopPropagation();
+}

@@ -47,7 +47,7 @@
         <a href="https://www.bivaltyp.info"><div class="menu-button">Home</div></a>
     </div>
     <div class="menu-element">
-        <div class="menu-button" onclick="toggle('project-submenu');">Project ↓</div>
+        <div class="menu-button" id="project-submenu-button">Project ↓</div>
         <div class="submenu" id="project-submenu">
             <a href="https://www.bivaltyp.info/project/description/"><div class="menu-button">Project description</div></a>
             <a href="https://www.bivaltyp.info/project/questionnaire/"><div class="menu-button">Questionnaire</div></a>
@@ -60,7 +60,7 @@
         <a href="https://www.bivaltyp.info/howtoreadthedata/"><div class="menu-button">How to read the data</div></a>
     </div>
     <div class="menu-element">
-        <div class="menu-button" onclick="toggle('languages-submenu');">Languages ↓</div>
+        <div class="menu-button" id="languages-submenu-button">Languages ↓</div>
         <div class="submenu" id="languages-submenu">
             <a href="https://www.bivaltyp.info/languages/listview/"><div class="menu-button">List view</div></a>
             <a href="https://www.bivaltyp.info/languages/mapview/"><div class="menu-button">Map view</div></a>
@@ -70,7 +70,7 @@
         <a href="https://www.bivaltyp.info/predicates/"><div class="menu-button">Predicates</div></a>
     </div>
     <div class="menu-element">
-        <div class="menu-button" onclick="toggle('data-submenu');">Data overview ↓</div>
+        <div class="menu-button" id="data-submenu-button">Data overview ↓</div>
         <div class="submenu" id="data-submenu">
             <a href="https://www.bivaltyp.info/data/patterns/"><div class="menu-button">Patterns overview</div></a>
             <a href="https://www.bivaltyp.info/data/all/"><div class="menu-button">Data in one spreadsheet</div></a>
@@ -85,12 +85,12 @@
 </div>
 <script>
     // Hide any submenu when the user clicks outside of it.
-    // window.onclick = () => {
-    //     let submenus = document.querySelectorAll('.submenu');
-    //     for (let submenu of submenus) {
-    //         submenu.style.display = 'none';
-    //     }
-    // }
+    window.onclick = (e) => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = 'none';
+        }
+    }
 </script>
 <div id="main"><h2>Customizable maps</h2>
 <ul>
