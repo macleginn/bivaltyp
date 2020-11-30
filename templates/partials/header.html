@@ -47,3 +47,12 @@
         <a href="{{ site_url_j }}/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>

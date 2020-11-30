@@ -83,7 +83,15 @@
         <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
-
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>
 <div id="main"><div><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></div>
 <div>
     <h2>‘match’</h2>
@@ -627,6 +635,65 @@
                     </tr>
                     <tr>
                         <td class="example-translation" colspan="6">‘This belt matches my dress.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="NOM_DAT">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Turkish.html">Turkish</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>NOM_DAT</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: DAT</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: Y</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Bu</td>
+                        <td class="example-word">kemer</td>
+                        <td class="example-word">elbise-m-e</td>
+                        <td class="example-word">uy-uyor.</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span>this</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>belt</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>dress-</span>
+                            <span class="gloss">p</span>
+                            <span>.1</span>
+                            <span class="gloss">sg</span>
+                            <span>-</span>
+                            <span class="gloss">dat</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>fit-</span>
+                            <span class="gloss">prs</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘This belt matches my dress.’</td>
                     </tr>
                 </table>
             </div>

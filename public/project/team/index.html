@@ -83,7 +83,15 @@
         <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
-
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>
 <div id="main"><h2>The team</h2>
 
 <h3>Project coordinator</h3>
@@ -127,7 +135,7 @@ E-mail: (serjozhka /at/ yahoo /dot/ com)</p>
 
 <p><img src="https://www.bivaltyp.info/images/Mischenko.jpg" alt="D.M.'s photo" title="D.M.'s photo" /></p>
 
-<p><a href="https://iling.spb.ru/people/mishchenko.html.ru">Daria Mischenko</a> (<a href="https://iling-spb.academia.edu/DariaMishchenko">Academia.edu profile</a>): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
+<p><a href="https://iling.spb.ru/people/mishchenko.html.ru">Daria Mishchenko</a> (<a href="https://iling-spb.academia.edu/DariaMishchenko">Academia.edu profile</a>): Junior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences</p>
 
 <p><img src="https://www.bivaltyp.info/images/Vydrin.jpg" alt="A.V.'s photo" title="A.V.'s photo" /></p>
 
@@ -141,7 +149,8 @@ E-mail: (serjozhka /at/ yahoo /dot/ com)</p>
 
 <p>Anna Alexandrova: Italian <br />
 Ekaterina Aplonova: Goo <br />
-Peter Arkadiev: Abaza, Adyghe <br />
+Peter Arkadiev: Abaza <br />
+Peter Arkadiev, Irina Bagirokova: Adyghe <br />
 Aleksandra Azargaeva: Buriat <br />
 Mislav Benić: Croatian <br />
 Sandra Birzer: German <br />
@@ -172,7 +181,7 @@ Timur Maisak, Solmaz Merdanova: <a class="data-link" href="https://www.bivaltyp.
 Anastasia (Leonidovna) Makarova: Serbian <br />
 Anastasia (Borisovna) Makarova: Czech <br />
 Ramazan Mamedshaxov: Standard Arabic, Lezgian <br />
-Daria Mischenko: Ingrian Finnish, Loma, Nanai <br />
+Daria Mishchenko: Ingrian Finnish, Loma, Nanai <br />
 Zarina Molochieva: Chechen <br />
 George Moroz: Polish <br />
 Rasul Mutalov: Icari Dargwa <br />
@@ -181,7 +190,7 @@ Dmitry Nikolaev: Irish, <a class="data-link" href="https://www.bivaltyp.info/lan
 Dmitry Nikolaev, Johanna Nichols: English <br />
 Ajtalina Nogovitsyna: Yakut <br />
 Sofia Oskolskaya: Tuvinian <br />
-Maria Ovsjannikova: <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Enets_Forest.html">Forest Enets</a>, Turkish <br />
+Maria Ovsjannikova: <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Enets_Forest.html">Forest Enets</a>, <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Turkish.html">Turkish</a> <br />
 Elena Perekhvalskaja: Udihe <br />
 Natalia Perkova: Latvian <br />
 Krasimira Petrova: Bulgarian <br />

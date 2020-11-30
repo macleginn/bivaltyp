@@ -83,7 +83,15 @@
         <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
-
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>
 <div id="main"><h2>Questionnaire</h2>
 
 <h3>General</h3>

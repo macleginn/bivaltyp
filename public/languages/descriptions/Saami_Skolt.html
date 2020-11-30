@@ -83,7 +83,15 @@
         <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
-
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>
 <div id="main"><h1>Skolt Saami</h1>
 
 <p>Contributed by <a href="https://www.linkedin.com/in/alena-blinova-08aa8b26/">Alena Blinova</a> and <a href="https://researchportal.helsinki.fi/en/persons/ksenia-shagal">Ksenia Shagal</a> (<a href="https://helsinki.academia.edu/KseniaShagal">Academia.edu profile</a>)</p>

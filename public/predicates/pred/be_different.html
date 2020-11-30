@@ -83,7 +83,15 @@
         <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
-
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>
 <div id="main"><div><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></div>
 <div>
     <h2>‘be different’</h2>
@@ -675,6 +683,72 @@
                     </tr>
                     <tr>
                         <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="NOM_ABL">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Turkish.html">Turkish</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>NOM_ABL</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: ABL</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: Y</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Benim</td>
+                        <td class="example-word">gömleğ-im</td>
+                        <td class="example-word">senin-ki-nden</td>
+                        <td class="example-word"> farklı.</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">i</span>
+                            <span>.</span>
+                            <span class="gloss">gen</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>shirt-</span>
+                            <span class="gloss">p</span>
+                            <span>.1</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>thou.</span>
+                            <span class="gloss">gen</span>
+                            <span>-</span>
+                            <span class="gloss">adj</span>
+                            <span>-</span>
+                            <span class="gloss">abl</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>different</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘My shirt is different from yours.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
                     </tr>
                 </table>
             </div>

@@ -83,7 +83,15 @@
         <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
-
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>
 <div id="main"><div><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></div>
 <div>
     <h2>‘make fun’</h2>
@@ -593,6 +601,62 @@
                     </tr>
                     <tr>
                         <td class="example-translation" colspan="3">‘P. is making fun of M.’</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="NOM_COM">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Turkish.html">Turkish</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>NOM_COM</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: NOM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: COM</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: Y</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Mehmet</td>
+                        <td class="example-word">Filiz-le</td>
+                        <td class="example-word">alay</td>
+                        <td class="example-word">ed-ıyor.</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                            <span>-</span>
+                            <span class="gloss">com</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>mockery</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>make-</span>
+                            <span class="gloss">prs</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘Mehmet is making fun of Filiz.’</td>
                     </tr>
                 </table>
             </div>

@@ -83,7 +83,15 @@
         <a href="https://www.bivaltyp.info/download/"><div class="menu-button">Download</div></a>
     </div>
 </div>
-
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = () => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = none;
+        }
+    }
+</script>
 <div id="main"><div><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></div>
 <div>
     <h2>‘enjoy’</h2>
@@ -587,6 +595,67 @@
                     </tr>
                     <tr>
                         <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP within a dependent clause.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div data-valpal="">
+        <p>
+            <a class="data-link" href="https://www.bivaltyp.info/languages/descriptions/Turkish.html">Turkish</a>
+        </p>
+        <div class="predicate-info">
+            <div class="example-info-div">
+                <table>
+                    <tr>
+                        <td class="predicate-info-table">
+                            <span class="b">Valency pattern:</span>
+                            <span>NA</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">X: *</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Y: *</td>
+                    </tr>
+                    <tr>
+                        <td class="predicate-info-table">Locus: *</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="example-info-div">
+                <table cellspacing="0" class="example">
+                    <tr>
+                        <td class="example-word">Mehmet</td>
+                        <td class="example-word">çay-ın</td>
+                        <td class="example-word">tad-ı-nı</td>
+                        <td class="example-word"> çıkar-ıyor.</td>
+                    </tr>
+                    <tr>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>tea-</span>
+                            <span class="gloss">gen</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>taste-</span>
+                            <span class="gloss">p</span>
+                            <span>.3-</span>
+                            <span class="gloss">acc</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>extract-</span>
+                            <span class="gloss">prs</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="example-translation" colspan="4">‘Mehmet is enjoying the tea.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
