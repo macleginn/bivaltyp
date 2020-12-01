@@ -5,7 +5,7 @@ function byId(id) {
     return document.getElementById(id);
 }
 
-function hide(id) {
+function hideMenu(id) {
     let el = byId(id);
     el.style.display = 'none';
 }
@@ -58,7 +58,7 @@ function flipMenus(event, id) {
         'data-submenu'
     ]) {
         if (menuId !== id) {
-            hide(menuId);
+            hideMenu(menuId);
         }
     }
     toggle(id);
