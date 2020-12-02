@@ -19,7 +19,7 @@ To cite the data from an individual language take the citation form from the spe
 
 Please address inquiries about the data or the project at large to Sergey Say (<span style="font-family: monospace;">serjozhka /at/ yahoo /dot/ com</span>). If there is a technical issue on the website, please report it [here](https://github.com/macleginn/bivaltyp/issues).
 
-### Compatibility
+## Compatibility
 
 Some sections of the web-site rely on modern JavaScript capabilities and will not work correctly in older browsers.
 
