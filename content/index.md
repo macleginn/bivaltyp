@@ -19,4 +19,8 @@ To cite the data from an individual language take the citation form from the spe
 
 Please address inquiries about the data or the project at large to Sergey Say (<span style="font-family: monospace;">serjozhka /at/ yahoo /dot/ com</span>). If there is a technical issue on the website, please report it [here](https://github.com/macleginn/bivaltyp/issues).
 
+### Compatibility
+
+Some sections of the web-site rely on modern JavaScript capabilities and will not work correctly in older browsers.
+
 <div id="landing-footer" style="position: fixed; right: 0; bottom: 0; padding-left: 25px; padding-right: 25px; background-color: cornsilk; opacity: 70%; border-radius: 1px;"><pre>The web-site built by <a href="https://dnikolaev.com">Dmitry Nikolaev</a>.</pre></div>
