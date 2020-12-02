@@ -296,3 +296,33 @@ img.doi {
     width: 186px;
     height: 20px;
 }
+
+div.circle {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid gray;
+}
+
+.very-high-ratio {
+    background-color: red;
+}
+
+.high-ratio {
+    background-color: #ff8000;
+}
+
+.moderate-ratio {
+    background-color: #ffbf00;
+}
+
+.low-ratio {
+    background-color: #ffff00;
+}
+
+.very-low-ratio {
+    background-color: white;
+}

@@ -1,8 +1,22 @@
 <h2>Maps</h2>
 <ul>
+    <li><a href="#transitivity-ratio">Transitivity-proportion map</a></li>
     <li><a href="#transitivity">Customizeable transitivity and locus map</a></li>
     <li><a href="#predicatepairs">Customizeable predicate-pair map</a></li>
 </ul>
+<h3 id="transitivity-ratio">Transitivity-proportion map</h3>
+<p>This map shows the proportion of transitive predicates in the languages of the sample.</p>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;"><div class="circle very-high-ratio"></div> – 60–81 per cent.</li>
+    <li style="list-style-type: none;"><div class="circle high-ratio"></div> – 53–59 per cent.</li>
+    <li style="list-style-type: none;"><div class="circle moderate-ratio"></div> – 47–52 per cent.</li>
+    <li style="list-style-type: none;"><div class="circle low-ratio"></div> – 40–46 per cent.</li>
+    <li style="list-style-type: none;"><div class="circle very-low-ratio"></div> – 27–39 per cent.</li>
+</ul>
+<p>Values above 81 per cent and below 27 per cent have not been observed.</p>
+<div id="transitivity-ratio-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
 <h3 id="transitivity">Customizeable transitivity and locus map</h3>
 <p>This map shows whether translation equivalents of a given predicate (‘attack’, ‘be afraid’, etc.) belong to the transitive class in the languages of the sample. Non-transitive equivalents are further divided into three types based on their locus of intransitivity, i.e., whether the first argument (X), the second argument (Y), or both arguments are encoded by oblique devices. See [How to read the data]{{ how to read the data }} for more detail on Locus.</p>
 <p>Colour codes:</p>
@@ -107,7 +121,7 @@
     }
 
     // The workhorse functions
-    let map1, map2;
+    let map1, map2, map3;
     const colourMap = {
         'TR': 'red',
         'X': 'blue',
@@ -284,29 +298,94 @@
         }
     }
 
+
+    function drawMap(canvasId) {
+        let map = L.map(canvasId, {zoomControl: false});
+        map.setView([52.483333, 96.085833], 2);
+        L.control.zoom({position: 'bottomleft'}).addTo(map);
+        L.tileLayer(
+            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            {
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+                maxZoom: 18,
+            })
+            .addTo(map);
+        return map;
+    }
+
+    function getTRRatioColour(ratio) {
+        if (ratio < 0.4) {
+            return 'very-low-ratio';
+        } else if (ratio < 0.47) {
+            return 'low-ratio';
+        } else if (ratio < 0.53) {
+            return 'moderate-ratio';
+        } else if (ratio < 0.6) {
+            return 'high-ratio';
+        } else {
+            return 'very-high-ratio';
+        }
+    }
+
+    /** 
+     * Adds colour-coded transitivity ratio markers to the map
+     * passed as argument. Uses the data from the Patterns table.
+     * @function drawTransitivityRatioMap
+     * @param {DIV} map the DOM div node with a Leaflet map.
+    */
+    function drawTransitivityRatioMap(map) {
+        const lo = patternsData[0].indexOf('Abaza'),
+              hi = patternsData[0].length,
+              langIdx    = languageData[0].indexOf('language'),
+              langExtIdx = languageData[0].indexOf('language_external'),
+              latIdx     = languageData[0].indexOf('latitude'),
+              lonIdx     = languageData[0].indexOf('longitude');
+
+        for (let i = lo; i < hi; i++) {
+            const lang = patternsData[0][i],
+                patterns = patternsData.slice(1)
+                    .map(row => row[i]);
+
+            // Compute the ratio
+            let TR       = 0, 
+                total    = 0, 
+                TR_ratio = 0;
+            for (const pattern of patterns) {
+                if (pattern === "")
+                    continue;
+                total++;
+                if (pattern == "TR")
+                    TR++;
+            }
+            TR_ratio = TR / total;
+            
+            // Add a marker
+            for (const row of languageData.slice(0)) {
+                if (row[langIdx] == lang) {
+                    const lat          = row[latIdx],
+                          lon          = row[lonIdx],
+                          langExternal = row[langExtIdx];
+                    let circle = L.divIcon({
+                        className: `circle ${getTRRatioColour(TR_ratio)}`,
+                        iconSize: [10, 10]
+                    });
+                    let marker = L.marker([lat, lon], {
+                        icon: circle,
+                        title: langExternal
+                    });
+                    marker.addTo(map);
+                    break;
+                }
+            }
+        }
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
         populateSelectMenus(true);
 
-        map1 = L.map('transitivity-map', {zoomControl: false});
-        map1.setView([52.483333, 96.085833], 2);
-        L.control.zoom({position: 'bottomleft'}).addTo(map1);
-        L.tileLayer(
-            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
-            {
-                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
-                maxZoom: 18,
-            })
-            .addTo(map1);
-
-        map2 = L.map('predicate-pair-map', {zoomControl: false});
-        map2.setView([52.483333, 96.085833], 2);
-        L.control.zoom({position: 'bottomleft'}).addTo(map2);
-        L.tileLayer(
-            'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
-            {
-                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
-                maxZoom: 18,
-            })
-            .addTo(map2);
+        map1 = drawMap('transitivity-map');
+        map2 = drawMap('predicate-pair-map');
+        map3 = drawMap('transitivity-ratio-map');
+        drawTransitivityRatioMap(map3);
     });
 </script>
