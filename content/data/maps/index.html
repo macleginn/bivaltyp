@@ -1,11 +1,19 @@
 <h2>Maps</h2>
 <ul>
-    <li><a href="#transitivity-ratio">Transitivity-ratio map</a></li>
+    <li><a href="#transitivity-ratio">Transitivity-ratio maps</a>
+        <ul>
+            <li><a href="#tr-ratios">Ratios of transitive predicates</a></li>
+            <li><a href="#x-ratios">Ratios of predicates with the first argument (X) encoded by oblique devices</a></li>
+            <li><a href="#y-ratios">Ratios of predicates with the second argument (Y) encoded by oblique devices</a></li>
+            <li><a href="#xy-ratios">Ratios of predicates with both arguments (XY) encoded by oblique devices</a></li>
+        </ul>
+    </li>
     <li><a href="#transitivity">Customizable transitivity and locus map</a></li>
     <li><a href="#predicatepairs">Customizable predicate-pair map</a></li>
 </ul>
-<h3 id="transitivity-ratio">Transitivity-ratio map</h3>
-<p>This map shows the ratio of transitive predicates in the languages of the sample.</p>
+<h3 id="transitivity-ratio">Transitivity and locus ratio maps</h3>
+
+<h4 id="tr-ratios">Ratios of transitive predicates</h4>
 <p>Colour codes:</p>
 <ul>
     <li style="list-style-type: none;"><div class="circle very-high-ratio"></div> – 60–81%.</li>
@@ -17,16 +25,58 @@
 <p>Values above 81% and below 27% have not been observed.</p>
 <div id="transitivity-ratio-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
 
+<h4 id="x-ratios">Ratios of predicates with the first argument (X) encoded by oblique devices</h4>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;"><div class="circle very-high-ratio"></div> – 13–23%.</li>
+    <li style="list-style-type: none;"><div class="circle high-ratio"></div> – 7–12%.</li>
+    <li style="list-style-type: none;"><div class="circle moderate-ratio"></div> – 5–6%.</li>
+    <li style="list-style-type: none;"><div class="circle low-ratio"></div> – 3–4%.</li>
+    <li style="list-style-type: none;"><div class="circle very-low-ratio"></div> – below 3%.</li>
+</ul>
+<p>Values above 23% have not been observed.</p>
+<div id="X-ratio-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h4 id="y-ratios">Ratios of predicates with the second argument (Y) encoded by oblique devices</h4>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;"><div class="circle very-high-ratio"></div> – 50–65%.</li>
+    <li style="list-style-type: none;"><div class="circle high-ratio"></div> – 45–49%.</li>
+    <li style="list-style-type: none;"><div class="circle moderate-ratio"></div> – 38–44%.</li>
+    <li style="list-style-type: none;"><div class="circle low-ratio"></div> – 30–37%.</li>
+    <li style="list-style-type: none;"><div class="circle very-low-ratio"></div> – 16–29%.</li>
+</ul>
+<p>Values above 65% and below 16% have not been observed.</p>
+<div id="Y-ratio-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
+<h4 id="xy-ratios">Ratios of predicates with both arguments (XY) encoded by oblique devices</h4>
+<p>Colour codes:</p>
+<ul>
+    <li style="list-style-type: none;"><div class="circle very-high-ratio"></div> – 8–12%.</li>
+    <li style="list-style-type: none;"><div class="circle high-ratio"></div> – 5–7%.</li>
+    <li style="list-style-type: none;"><div class="circle moderate-ratio"></div> – 3–4%.</li>
+    <li style="list-style-type: none;"><div class="circle low-ratio"></div> – 1–2%.</li>
+    <li style="list-style-type: none;"><div class="circle very-low-ratio"></div> – 0 occurrences.</li>
+</ul>
+<div id="XY-ratio-map" style="width: 960px; height: 600px; border: 1px dotted darkgray; margin-bottom: 30px; margin-top: 15px;"></div>
+
 <h3 id="transitivity">Customizable transitivity and locus map</h3>
 <p>This map shows whether translation equivalents of a given predicate (‘attack’, ‘be afraid’, etc.) belong to the transitive class in the languages of the sample. Non-transitive equivalents are further divided into three types based on their locus of intransitivity, i.e., whether the first argument (X), the second argument (Y), or both arguments are encoded by oblique devices. See [How to read the data]{{ how to read the data }} for more detail on Locus.</p>
 <p>Colour codes:</p>
 <ul>
+    <li style="list-style-type: none;"><div class="circle circle-red"></div> – transitive.</li>
+    <li style="list-style-type: none;"><div class="circle circle-blue"></div> – X-locus (the first argument is encoded by an oblique device).</li>
+    <li style="list-style-type: none;"><div class="circle circle-yellow"></div> – Y-locus (the second argument is encoded by an oblique device).</li>
+    <li style="list-style-type: none;"><div class="circle circle-black"></div> – XY-locus (both arguments are encoded by oblique devices).</li>
+    <li style="list-style-type: none;"><div class="circle circle-grey"></div> – no data.</li>
+</ul>
+<!-- <ul>
     <li>Red: transitive</li>
     <li>Blue: X-locus (the first argument is encoded by an oblique device)</li>
     <li>Yellow: Y-locus (the second argument is encoded by an oblique device)</li>
     <li>Black: XY-locus (both arguments are encoded by oblique devices)</li>
     <li>Grey: no data</li>
-</ul>
+</ul> -->
 <label for="tr-locus-select">Select a predicate:</label>
 <select name="tr-locus" id="tr-locus-select" onchange="redrawPredicateMap(this.value);" style="width: 300px;">
     <option value="---" disabled>---</option>
@@ -38,10 +88,15 @@
 <p>This map shows whether translation equivalents of two selected predicates (e.g., ‘be afraid’ and ‘avoid’) pattern together in terms of their valency class in individual languages. Note that the equivalents are considered belonging to the same valency class if and only if their first and second arguments are aligned (e.g., the classes tagged “DAT_NOM” and “NOM_DAT” in Russian are considered two different classes for the purposes of the project). See [How to read the data]{{ how to read the data }} for more detail on how language-specific valency patterns are identified.</p>
 <p>Colour codes:</p>
 <ul>
+    <li style="list-style-type: none;"><div class="circle circle-red"></div> – the two equivalents belong to the same valency class.</li>
+    <li style="list-style-type: none;"><div class="circle circle-blue"></div> – the two equivalents belong to different valency classes.</li>
+    <li style="list-style-type: none;"><div class="circle circle-grey"></div> – no data (for at least one of the predicates).</li>
+</ul>
+<!-- <ul>
     <li>Red: the two equivalents belong to the same valency class</li>
     <li>Blue: the two equivalents belong to different valency classes</li>
     <li>Grey: no data (for at least one of the predicates)</li>
-</ul>
+</ul> -->
 <div style="display: grid; grid-template-columns: 310px 310px;">
     <div style="grid-column: 1/2;">
         <label for="predicate1-select">Select first predicate:</label>
@@ -313,33 +368,48 @@
         return map;
     }
 
-    function getTRRatioColour(ratio) {
-        if (ratio < 0.4) {
-            return 'very-low-ratio';
-        } else if (ratio < 0.47) {
-            return 'low-ratio';
-        } else if (ratio < 0.53) {
-            return 'moderate-ratio';
-        } else if (ratio < 0.6) {
-            return 'high-ratio';
-        } else {
-            return 'very-high-ratio';
+    /**
+     * Returns a colour-encoding class name for a given ratio
+     * based on a series of cut-off points.
+     */
+     function getRatioColour(ratio, ratios) {
+        if (ratios.length !== 4) {
+            alert('Wrong number of cut-off points passed to getRatioColours: ' + ratios.length);
+            return;
         }
+        ratios.sort();
+        const classNames = ['very-low-ratio', 'low-ratio', 'moderate-ratio', 'high-ratio', 'very-high-ratio'];
+        for (let i = 0; i < ratios.length; i++)
+            if (ratio < ratios[i])
+                return classNames[i];
+        return classNames[classNames.length-1];
     }
 
+    let getTRRatioColour = ratio => getRatioColour(ratio, [0.4, 0.47, 0.53, 0.6]);
+    let getXRatioColour  = ratio => getRatioColour(ratio, [0.03, 0.05, 0.07, 0.13]);
+    let getYRatioColour  = ratio => getRatioColour(ratio, [0.3, 0.38, 0.45, 0.5]);
+    let getXYRatioColour = ratio => getRatioColour(ratio, [0.01, 0.03, 0.05, 0.08]);
+
     /** 
-     * Adds colour-coded transitivity ratio markers to the map
-     * passed as argument. Uses the data from the Patterns table.
+     * Adds colour-coded ratio markers to the map.
+     * Uses the data from the Patterns table.
      * @function drawTransitivityRatioMap
      * @param {DIV} map the DOM div node with a Leaflet map.
+     * @param {string} the pattern to draw the map for.
+     * @param {float -> string} the function to select class names for
+     *                          markers based on the ratio.
     */
-    function drawTransitivityRatioMap(map) {
+    function drawRatioMap(map, inputPattern, colouringFunction) {
         const lo = patternsData[0].indexOf('Abaza'),
               hi = patternsData[0].length,
-              langIdx    = languageData[0].indexOf('language'),
-              langExtIdx = languageData[0].indexOf('language_external'),
-              latIdx     = languageData[0].indexOf('latitude'),
-              lonIdx     = languageData[0].indexOf('longitude');
+              langIdx     = languageData[0].indexOf('language'),
+              langExtIdx  = languageData[0].indexOf('language_external'),
+              latIdx      = languageData[0].indexOf('latitude'),
+              lonIdx      = languageData[0].indexOf('longitude'),
+              XLocusIdx   = languageData[0].indexOf('X'),
+              YLocusIdx   = languageData[0].indexOf('Y'),
+              XYLocusIdx  = languageData[0].indexOf('XY'),
+              overallNIdx = languageData[0].indexOf('overallN');
 
         for (let i = lo; i < hi; i++) {
             const lang = patternsData[0][i],
@@ -347,26 +417,55 @@
                     .map(row => row[i]);
 
             // Compute the ratio
-            let TR       = 0, 
-                total    = 0, 
-                TR_ratio = 0;
-            for (const pattern of patterns) {
-                if (pattern === "")
-                    continue;
-                total++;
-                if (pattern == "TR")
-                    TR++;
+            // Use different datasets depending on the pattern.
+            let TR_ratio;
+            if (inputPattern === 'TR') {
+                let TR       = 0, 
+                    total    = 0;
+                for (const pattern of patterns) {
+                    if (pattern === "")
+                        continue;
+                    total++;
+                    if (pattern === inputPattern)
+                        TR++;
+                }
+                TR_ratio = TR / total;
+            } else {
+                // Use the data from Languages
+                for (const row of languageData.slice(0)) {
+                    if (row[langIdx] === lang) {
+                        overallN = row[overallNIdx];
+                        let otherValue;
+                        switch (inputPattern) {
+                            case 'X':
+                                otherValue = row[XLocusIdx];
+                                break;
+                            case 'Y':
+                                otherValue = row[YLocusIdx];
+                                break;
+                            case 'XY':
+                                otherValue = row[XYLocusIdx];
+                                break;
+                            default:
+                                alert('Wrong encoding locus passed to drawRatioMap: ' + inputPattern);
+                                otherValue = 0;
+                                break;
+                        }
+                        TR_ratio = otherValue / overallN;
+                        // console.log(inputPattern, TR_ratio)
+                        break;
+                    }
+                }
             }
-            TR_ratio = TR / total;
             
             // Add a marker
             for (const row of languageData.slice(0)) {
-                if (row[langIdx] == lang) {
+                if (row[langIdx] === lang) {
                     const lat          = row[latIdx],
                           lon          = row[lonIdx],
                           langExternal = row[langExtIdx];
                     let circle = L.divIcon({
-                        className: `circle ${getTRRatioColour(TR_ratio)}`,
+                        className: `circle ${colouringFunction(TR_ratio)}`,
                         iconSize: [10, 10]
                     });
                     let marker = L.marker([lat, lon], {
@@ -386,6 +485,12 @@
         map1 = drawMap('transitivity-map');
         map2 = drawMap('predicate-pair-map');
         map3 = drawMap('transitivity-ratio-map');
-        drawTransitivityRatioMap(map3);
+        drawRatioMap(map3, 'TR', getTRRatioColour);
+        map4 = drawMap('X-ratio-map');
+        drawRatioMap(map4, 'X', getXRatioColour);
+        map5 = drawMap('Y-ratio-map');
+        drawRatioMap(map5, 'Y', getYRatioColour);
+        map6 = drawMap('XY-ratio-map');
+        drawRatioMap(map6, 'XY', getXYRatioColour);
     });
 </script>
