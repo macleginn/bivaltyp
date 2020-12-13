@@ -387,7 +387,7 @@
         ratios.sort();
         const classNames = ['very-low-ratio', 'low-ratio', 'moderate-ratio', 'high-ratio', 'very-high-ratio'];
         for (let i = 0; i < ratios.length; i++)
-            if (ratio < ratios[i])
+            if (Math.round(ratio*100) < Math.round(ratios[i]*100))  // Convert to integer per cents.
                 return classNames[i];
         return classNames[classNames.length-1];
     }
