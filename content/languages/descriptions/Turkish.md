@@ -39,7 +39,7 @@ In the transitive construction, nominal subjects are used in the unmarked form a
 
 The predicate agrees with the subject in person and number. 3rd person singular agreement markers have zero exponents and are not reflected in the glosses.
 Non-core arguments are flagged by oblique cases or by postpositions. The comitative marker can be realized either as a suffix or as a postposition. All the postpositions attested in the questionnaire take the unmarked or the genitive form of the noun.
-The genitive case can mark clause-level constituents standing in a possessive relationship with the subject (3). These constituents can be freely separated from their (semantic) possessees, pronominalized, etc.
+The genitive case can mark clause-level constituents standing in a possessive relationship with the subject (3). These constituents can be freely separated from their (semantic) possessees, the possessees can be pronominalized, etc.
 
 ```
 (3) Mehmed-in	şimdi	on	lira-sı		kal-dı.
@@ -47,13 +47,13 @@ The genitive case can mark clause-level constituents standing in a possessive re
     ‘Now Mehmet has 10 liras left.’ 
 ```
 
-The verbal tense forms in the examples are glossed as present (marked with -yor), past (-dı) or aorist (-r). The tense form traditionally called aorist is used to describe habitual events, permanent states and (some) future events.
+The verbal tense forms in the examples are glossed as present (marked with *-yor*), past (*-dı*) or aorist (*-r*). The tense form traditionally called aorist is used to describe habitual events, permanent states and (some) future events.
 
 ## Case system
 The case system includes five cases for nouns, viz. the unmarked nominative, genitive, accusative, dative, locative and ablative.
 
 ## Verb lemmas
-The verbs are shown in the form of the infinitive in -mak.
+The verbs are shown in the form of the infinitive in *-mak*.
 
 ## Glossing abbreviations
-1, 3 – 1st, 3rd person; ABL – ablative case; ACC - accusative case; ADJ – adjectivizer; AOR – aorist; COM – comitative; COP - copula; DAT – dative case; GEN - genitive case; IMP - imperative; INF – infinitive; LOC – locative case; NEG - negative marker; NMLZ - nominalization; P - possessive marker; PL – plural; PN – proper name; PRS – present tense; PST – past; PTCP – participle; SG – singular.
+1, 3 — 1st, 3rd person; ABL — ablative case; ACC — accusative case; ADJ — adjectivizer; AOR — aorist; COM — comitative; COP — copula; DAT — dative case; GEN — genitive case; IMP — imperative; INF — infinitive; LOC — locative case; NEG — negative marker; NMLZ — nominalization; P — possessive marker; PL — plural; PN — proper name; PRS — present tense; PST — past; PTCP — participle; SG — singular.
