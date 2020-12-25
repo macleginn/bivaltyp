@@ -15,7 +15,7 @@ Sergey Say provided the data in {{ data_collection_year }} in the capacity of a 
 ## Basic info
 - Coordinates. {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
-- Macro-area: {{ macroarea }} 
+- Macro-area: {{ macroarea }}. 
 
 The data are presented using [scientific transliteration](https://en.wikipedia.org/wiki/Scientific_transliteration_of_Cyrillic). As a result, morphemic boundaries follow some idiosyncrasies of the Russian orthography, cf. *plat'-ju* (rather than morphologically more accurate *plat'j-u*) [dress(N)-DAT.SG], which corresponds to the orthographic *плать-ю*.
 
