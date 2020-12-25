@@ -9,13 +9,13 @@ The data were gathered in {{ data_collection_year }} in St. Petersburg, Russia, 
 ## How to cite
 > Ovsjannikova, Maria. {{ last_database_release_year }}. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
-> St.Petersburg: Institute for Linguistic Studies, RAS. 
+> St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
 > last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, 
-> Accessed on {{ today }}.)
+> accessed on {{ today }}.)
 
 ## Basic info
-- Coordinates. {{ coord_map_link }}.
+- Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
