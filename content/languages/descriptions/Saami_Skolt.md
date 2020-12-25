@@ -12,7 +12,7 @@ The data were obtained in {{ data_collection_year }} from a 80-year-old speaker 
 ## Basic info
 - Coordinates. {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
-- Macro-area: {{ macroarea }}
+- Macro-area: {{ macroarea }}.
 
 Skolt Saami is an endangered Finno-Ugric language spoken primarily in the Municipality of Inari, in the northeast of Finland, by less than 300 people. The data presented here were collected from a speaker living in the village of Sevettijärvi, the main cultural hub of Skolt Saami life. In addition, around 20 Skolt Saami speakers live in Russia, on the Kola Peninsula.
 
