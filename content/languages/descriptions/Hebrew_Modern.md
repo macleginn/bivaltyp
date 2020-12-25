@@ -14,7 +14,7 @@ The data were gathered in {{ data_collection_year }} from {{ consultant }}. The 
 > Accessed on {{ today }}.)
 
 ## Basic info
-- Coordinates. {{ coord_map_link }}.
+- Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
