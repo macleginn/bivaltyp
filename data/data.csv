@@ -468,7 +468,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 46	77	помочь	pɛrezi	NOM	OBL	TR	TR	modʲi kasa-jʔ vasʲa-da pɛrezie-za	I man-NOM.SG.1SG PN-OBL.SG.3SG help(PFV)-3SG.SOsg	‘My friend helped Vasja’.		я мужчина-NOM.SG.1SG PN-OBL.SG.3SG помочь-3SG.SOsg	‘Мой товарищ помог Васе’.		
 46	78	понимать	kameku	NOM	OBL	TR	TR	modʲi kasa-jʔ dʲurak baza kamekuɔ-za	I man-NOM.SG.1SG Nenets language understand(IPFV)-3SG.SOsg	‘My friend understands the Nenets language’.		я мужчина-NOM.SG.1SG ненец язык понимать-3SG.SOsg	‘Мой товарищ понимает ненецкий язык’.		
 46	79	попасть	tɛbu	NOM	DAT	Y	NOM_DAT	kiu tu tɛxɛ pɛ-d tɛba	thunder fire there(loc) wood-DAT.SG hit(PFV).3SG.S	‘Lightning hit that tree’.		гром огонь там(loc) дерево-DAT.SG попасть.3SG.S	‘Молния попала в то дерево’.		
-46	80	порезаться	mɔta	NOM	LOC	Y	NOM_LOC	modʲi kasa-jʔ uzi-da mɔta kɔru-d	I man-NOM.SG.1SG hand-OBL.PL.3SG cut(PFV).3SG.S knife-DAT.SG	‘My friend cut his hand with the knife’.		я мужчина-NOM.SG.1SG рука-OBL.SG.3SG отрезать.3SG.S нож-DAT.SG	‘Мой товарищ порезал руку ножом’.		
+46	80	порезаться	mɔta	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ uzi-da mɔta kɔru-d	I man-NOM.SG.1SG hand-OBL.PL.3SG cut(PFV).3SG.S knife-DAT.SG	‘My friend cut his hand with the knife’.		я мужчина-NOM.SG.1SG рука-OBL.SG.3SG отрезать.3SG.S нож-DAT.SG	‘Мой товарищ порезал руку ножом’.		
 46	81	прилипать	tɔzu	NOM	DAT	Y	NOM_DAT	kizi stɔlu-d tɔzu-bi	vessel table-DAT.SG stick(PFV)-PRF.3SG.S	‘The cup got stuck to the table’.		посуда стол-DAT.SG прилипнуть-PRF.3SG.S	‘Чашка прилипла к столу’.		
 46	82	проиграть	mɔtelta	NOM	DAT	Y	NOM_DAT	modʲi genka-xa-nʲiʔ tʃasi-jʔ mɔtelta-u	I PN-DAT.SG-OBL.SG.1SG watch-NOM.SG.1SG lose(PFV)-1SG.SOsg	‘I lost my watch to Genka’.		я PN-DAT.SG-OBL.SG.1SG часы-NOM.SG.1SG проиграть-1SG.SOsg	‘Я проиграл Генке часы’.		
 46	83	радоваться	ɛdiu	NOM	DAT	Y	NOM_DAT	modʲi kasa-jʔ pazu-go-da ɛdema	I man-NOM.SG.1SG paper-DAT.SG-OBL.SG.3SG become_glad(PFV).3SG.S	‘My friend was glad about the letter’.		я мужчина-NOM.SG.1SG бумага-DAT.SG-OBL.SG.3SG обрадоваться.3SG.S	‘Мой товарищ обрадовался письму’.		
@@ -1039,19 +1039,19 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 80	128	раздражаться	gåårõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt gåårõõđ-škuäʹtt suu niõđ ool.	PN.SG.NOM get.irritated-INCH.PRS.3SG 3SG.GEN daughter.SG.GEN onto	‘P. is getting irritated with his daughter.’					
 80	129	симпатизировать	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad Määʹrja-st.	PN.SG.NOM like.PRS.3SG PN.SG.LOC	‘P. is fond of M.’					
 80	130	стесняться	käinnad	NOM	GENdiott	Y	NOM_GENdiott	Peâtt käinn kookkadvuõđ-âs diõtt.	PN.SG.NOM be.shy.PRS.3SG height.SG.GEN-POSS.3SG because.of	‘P. is shy about his height.’					
-50	1	болеть-1	ağrımak	GEN	NOM	X	GEN_NOM	Mehmed-in baş-ı ağrı-yor.	PN-GEN head-P.3 ache-PRS	‘Mehmet’s has a headache.’		PN-GEN голова-P.3 болеть-PRS	‘У Мехмета болит голова’.		
+50	1	болеть-1	ağrımak	GEN	NOM	X	GEN_NOM	Mehmed-in baş-ı ağrı-yor.	PN-GEN head-P.3 ache-PRS	‘Mehmet has a headache.’		PN-GEN голова-P.3 болеть-PRS	‘У Мехмета болит голова’.		
 50	2	болеть-2	grip olmak	GEN	NOM	X	GEN_NOM	Mehmed-ın grib-i var.	PN-GEN flu-P.3 there_is	‘Mehmet has the flu.’		PN-GEN грипп-P.3 иметься	‘П. болеет гриппом’.		
 50	3	бояться	korkmak	NOM	ABL	Y	NOM_ABL	Mehmet köpek-ten kork-uyor.	PN dog-ABL be_afraid-PRS	‘Mehmet is afraid of the dog.’		PN собака-ABL бояться-PRS	‘Мехмет боится собаки’.		
-50	4	бросить	atmak	NOM	ACC	TR	TR	Mehmet taş-ı at-tı.	PN stone-ACC throw-PST	‘Mehmet threw his stone’		PN камень-ACC бросить-PST	‘Мехмет бросил камень’.		
+50	4	бросить	atmak	NOM	ACC	TR	TR	Mehmet taş-ı at-tı.	PN stone-ACC throw-PST	‘Mehmet threw his stone.’		PN камень-ACC бросить-PST	‘Мехмет бросил камень’.		
 50	5	быть достаточно	yetmek	DAT	NOM	X	DAT_NOM	Mehmed-e para şimdi yet-iyor.	PN-DAT money now be_enough-PRS	‘Now Mehmet has enough money.’		PN-DAT деньги сейчас хватать-PRS	‘Мехмету хватает денег’.		
-50	6	быть похожим	benzemek	NOM	DAT	Y	NOM_DAT	Mehmet dede-si  Kemal-e benzi-yor.	PN grandfather-P.3 PN-DAT be_similar-PRS	‘Mehmet resembles his grandfather Kemal.’		PN дедушка-P.3 PN-DAT быть_похожим-PRS	‘Мехмет похож на своего дедушку Кемаля’.		
+50	6	быть похожим	benzemek	NOM	DAT	Y	NOM_DAT	Mehmet dede-si Kemal-e benzi-yor.	PN grandfather-P.3 PN-DAT be_similar-PRS	‘Mehmet resembles his grandfather Kemal.’		PN дедушка-P.3 PN-DAT быть_похожим-PRS	‘Мехмет похож на своего дедушку Кемаля’.		
 50	7	верить	inanmak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e inan-iyor.	PN PN-DAT believe-PRS	‘Mehmet believes Filiz.’		PN PN-DAT верить-PRS	‘Мехмет верит Филиз’.		
 50	8	взять	almak	NOM	ACC	TR	TR	Mehmet kitab-ı raf-tan al-dı.	PN book-ACC shelf-ABL take-PST	‘Mehmet took the book from the shelf.’		PN книга-ACC полка-ABL взять-PST	‘Мехмет взял книгу с полки’.		
 50	9	видеть	görmek	NOM	ACC	TR	TR	Mehmet ev-i gör-üyor.	PN house-ACC see-PRS	‘Mehmet sees the house.’		PN дом-ACC видеть-PRS	‘Мехмет видит дом’.		
 50	10	влиять	etkilemek	NOM	ACC	TR	TR	Yaş akl-ı etkile-r.	age mind-ACC affect-AOR	‘Age influences memory.’		возраст разум-ACC влиять-AOR	‘Возраст влияет на память’.		
 50	11	встречаться	rastlamak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e rastla-dı.	PN PN-DAT come_across-PST	‘Mehmet encountered Filiz’.		PN PN-DAT встретить-PST	‘Мехмет встретил Филиз’.		
 50	12	входить 	girmek	NOM	DAT	Y	NOM_DAT	Mehmet ev-e gir-di.	PN house-DAT enter-PST	‘Mehmet entered the house.’		PN дом-DAT войти-PST	‘Мехмет вошел в дом’.		
-50	13	выиграть	galip gelmek	NOM	ACC	TR	TR	Mehmet Kemal-e galip gel-di.	PN PN-DAT winner come-PST	‘Mehmet beat Kemal.’		PN PN-DAT победитель прийти-PST	‘Мехмет выиграл у Кемаля’.		
+50	13	выиграть	galip gelmek	NOM	DAT	Y	NOM_DAT	Mehmet Kemal-e galip gel-di.	PN PN-DAT winner come-PST	‘Mehmet beat Kemal.’		PN PN-DAT победитель прийти-PST	‘Мехмет выиграл у Кемаля’.		
 50	14	выходить	çıkmak	NOM	ABL	Y	NOM_ABL	Mehmet ev-den çık-tı.	PN house-ABL exit-PST	‘Mehmet went out of the house.’		PN дом-ABL выйти-PST	‘Мехмет вышел из дома’.		
 50	15	гнать	sürmek	NOM	ACC	TR	TR	Mehmet ineğ-i sür-üyor.	PN cow-ACC drive-PRS	‘Mehmet is driving the cow.’		PN корова-ACC вести-PRS	‘Мехмет гонит корову’.		
 50	16	гнуть	bükmek	NOM	ACC	TR	TR	Mehmet dal-ı bük-tü.	PN branch-ACC bend-PST	‘Mehmet bent the branch.’		PN ветвь-ACC гнуть-PST	‘Мехмет согнул ветку’.		
@@ -1089,7 +1089,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 50	48	мечтать	*	*	*	*		Mehmet yeni araba al-ma-yı hayal ed-ıyor.	PN new car take-NMLZ-ACC dream make-PRS	‘Mehmet is dreaming to buy a new car.’	Not included in the database because Y is expressed as an NP within a dependent clause.	PN новый машина взять-NMLZ-ACC мечта делать-PRS	‘Мехмет мечтает купить новую машину’.		
 50	49	мыть	yıkamak	NOM	ACC	TR	TR	Mehmet çay bardağ-ı-nı yıka-dı.	PN tea glass-P.3-ACC wash-PST	‘Mehmet washed his cup.’		PN чай стакан-P.3-ACC мыть-PST	‘Мехмет вымыл свою чашку’.		
 50	50	надевать	giymek	NOM	ACC	TR	TR	Mehmet pantolon-u-nu giy-di.	PN trousers-P.3-ACC put_on-PST	‘Mehmet put on his trousers.’		PN штаны-P.3-ACC надеть-PST	‘Мехмет надел свои штаны’.		
-50	51	называться	*	*	*	*		Bu-nun ad-ı pusula-dır.	this-GEN name-P.3 compass-COP.3	‘This is called a compass.’	Not included in the database because X is expressed as an NP-internal modifier.	этот-GEN имя-P.3 компас-COP.3	‘Это называется компас’.		
+50	51	называться	*	*	*	*		Bu-nun ad-ı pusula-dır.	this-GEN name-P.3 compass-COP.3	‘This is called a compass.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	этот-GEN имя-P.3 компас-COP.3	‘Это называется компас’.		
 50	52	наказывать	cezalandırmak	NOM	ACC	TR	TR	Mehmet oğl-u-nu cezalandır-dı.	PN son-P.3-ACC punish-PST	‘Mehmet punished his son.’		PN сын-P.3-ACC наказать-PST	‘Мехмет наказал своего сына’.		
 50	53	напасть	saldırmak	NOM	DAT	Y	NOM_DAT	Ayı balıkçı-ya saldır-dı.	bear fisherman-DAT attack-PST	‘A bear attacked a fisherman.’		медведь рыбак-DAT нападать-PST	‘Медведь напал на рыбака’.		
 50	54	наполняться	dolmak	NOM	COM	Y	NOM_COM	Kova suy-la dol-du.	bucket water-COM fill-PST	‘The bucket filled with water.’		ведро вода-COM наполняться-PST	‘Ведро наполнилось водой’.		
@@ -1118,11 +1118,11 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 50	77	помочь	yardım etmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e yardım et-ti.	PN PN-DAT help make-PST	‘Mehmet helped Filiz.’		PN PN-DAT помощь делать-PST	‘Мехмет помог Филиз’.		
 50	78	понимать	anlamak	NOM	ACC	TR	TR	Mehmet Fransız dil-i-ni  anlı-yor.	PN French language-P.3-ACC understand-PRS	‘Mehmet understands the French language.’		PN француз язык-P.3-ACC понимать-PRS	‘Мехмет понимает французский язык’.		
 50	79	попасть	düşmek	NOM	DAT	Y	NOM_DAT	Yıldırım ev-e düş-tü.	lightning house-DAT fall-PST	‘Lightning hit the house.’		молния дом-DAT падать-PST	‘Молния попала в дом’.		
-50	80	порезаться	*	*	*	*		Mehmet traş bıçağ-ı-yla yüz-ü-nü kes-ti.	PN shaving knife-P.3-COM face-P.3-ACC cut-PST	‘Mehmet cut his face with a razor.’	?	PN бритье нож-P.3-COM лицо-P.3-ACC резать-PST	‘Мехмет порезал лицо бритвой’.		
+50	80	порезаться	yüzünü kesmek	NOM	COM	Y	NOM_COM	Mehmet traş bıçağ-ı-yla yüz-ü-nü kes-ti.	PN shaving knife-P.3-COM face-P.3-ACC cut-PST	‘Mehmet cut his face with a razor.’		PN бритье нож-P.3-COM лицо-P.3-ACC резать-PST	‘Мехмет порезал лицо бритвой’.		
 50	81	прилипать	yapışmak	NOM	DAT	Y	NOM_DAT	Bardak masa-ya yapış-tı.	glass table-DAT stick-PST	‘The glass got stuck to the table.’		стакан стол-DAT прилипать-PST	‘Стакан прилип к столу’.		
 50	82	проиграть	kaybetmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a kaybet-ti.	PN PN-DAT lose-PST	‘Mehmet lost to Orhan.’		PN PN-DAT терять-PST	‘Мехмет проиграл Орхану’.		
 50	83	радоваться	sevinmek	NOM	DAT	Y	NOM_DAT	Mehmet mektub-a sevin-di.	PN letter-DAT rejoice-PST	‘Mehmet was glad about the letter.’		PN письмо-DAT радоваться-PST	‘Мехмет обрадовался письму’.		
-50	84	разговаривать	konuşmak	NOM	COM	Y	NOM_COM	Mehmet Orhan-la konuş-uyor.	PN PN-COM talk-PRS	‘.’		PN PN-COM говорить-PRS	‘Мехмет разговаривает с Орханом’.		
+50	84	разговаривать	konuşmak	NOM	COM	Y	NOM_COM	Mehmet Orhan-la konuş-uyor.	PN PN-COM talk-PRS	‘Mehmet is speaking with Orhan.’		PN PN-COM говорить-PRS	‘Мехмет разговаривает с Орханом’.		
 50	85	рожать	doğurmak	NOM	ACC	TR	TR	Filiz erkek çocuğ-u doğur-du.	PN male child-P.3 give_birth-PST	‘Filiz gave birth to a baby boy.’		PN самец ребенок-P.3 родить-PST	‘Филиз родила мальчика’.		
 50	86	ронять	düşürmek	NOM	ACC	TR	TR	Mehmet bardağ-ı düşür-dü.	PN glass-ACC drop-PST	‘Mehmet dropped the glass.’		PN стакан-ACC ронять-PST	‘Мехмет уронил стакан’.		
 50	87	руководить	yönetmek	NOM	ACC	TR	TR	Mehmet fabrıka-yı yönet-iyor.	PN factory-ACC manage-PRS	‘Mehmet runs the factory.’		PN фабрика-ACC управлять-PRS	‘Мехмет руководит фабрикой’.		
