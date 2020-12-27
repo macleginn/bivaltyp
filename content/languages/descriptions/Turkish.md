@@ -33,7 +33,7 @@ In the transitive construction, nominal subjects are used in the unmarked form a
     ‘Mehmet read an interesting book.’
 
 (2) Mehmet	kitab-ı		raf-tan		al-dı.
-    PN      	book-ACC  	shelf-ABL	take-PST
+    PN      book-ACC  	shelf-ABL	take-PST
     ‘Mehmet took the book from the shelf.’ 
 ```
 
