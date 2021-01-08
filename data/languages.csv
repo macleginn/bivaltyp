@@ -36,7 +36,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 35	осетинский	Ossetic	Ossetic	Арсений Павлович Выдрин		Arseniy Vydrin					West Asia and the Caucasus	Indo-European	Iranian	42.98	44.61	9	рабочие материалы		osse1243	
 36	сербский	Serbian	Serbian	Анастасия Леонидовна Макарова		Anastasia Makarova					Europe	Indo-European	Slavic	44.32	21.92	6	WALS (в раб. материалах и в википедии различают датив и местный, но они всегда совпадают)		serb1264	In Glottolog, this is Serbian Standard
 37	чукотский	Chukchi	Chukchi	Мария Юрьевна Пупынина		Maria Pupynina					North and Central Asia	Chukotko-Kamchatkan	Northern Chukotko-Kamchatkan	68.64	170.04	13	Dunn 1999: 99 via Pupynina 2018		chuk1273	
-38	норвежский (букмол)	Norwegian_Bokmal	Norwegian Bokmål	Ольга Васильевна Кузнецова		Olga Kuznecova					Europe	Indo-European	Germanic	61.11	8.89	0	wikipedia		norw1259	
+38	норвежский (букмол)	Norwegian_Bokmal	Norwegian Bokmål	Ольга Васильевна Кузнецова, Мария Нордрум		Olga Kuznecova, Maria Nordrum	Maria Nordrum	2013, 2020			Europe	Indo-European	Germanic	61.11	8.89	0	wikipedia	Russian	norw1259	
 39	румынский	Romanian	Romanian	Дарья Владимировна Суетина (Конёр)		Daria Suetina (Konior)					Europe	Indo-European	Romance	46.39	24.23	2	рабочие материалы (в моей реинтерпретации)		roma1327	
 40	ингушский	Ingush	Ingush	Джоханна Николс		Johanna Nichols					West Asia and the Caucasus	Nakh-Daghestanian	Nakh	43.11	45.03	8	Nichols 2011: 127		ingu1240	
 41	украинский	Ukrainian	Ukrainian	Наталья Михайловна Заика		Natalia Zaika					Europe	Indo-European	Slavic	49.8	29.95	7	википедия		ukra1253	
@@ -58,8 +58,8 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 57	бенгальский	Bengali	Bengali	Майя Евгеньевна Шляхтер		Mayya Shlyakhter					South Asia	Indo-European	Indic	24	90	4	рабочие материалы		beng1280	
 58	гасконский	Gascon	Gascon	Наталья Михайловна Заика		Natalia Zaika					Europe	Indo-European	Romance	44	2	0	сам (на основе рабочих материалов)		occi1239	In Glottolog, Gascon is treated as a variety of Occitan (occi1239)
 59	горномарийский	Mari_Western	Western Mari	Ксения Андреевна Студеникина		Ksenia Studenikina					Europe	Uralic	Mari	56.32	46.57	10	Егор Кашкин		west2392	
-60	абазинский	Abaza	Abaza	Петр Михайлович Аркадьев		Peter Arkadiev					West Asia and the Caucasus	Northwest Caucasian	Northwest Caucasian	44.25	42	0	Общие знания, анкета		abaz1241	
-61	словенский	Slovenian	Slovenian	Андрея Желе, Младен Ухлик		Andreja Žele, Mladen Uhlik					Europe	Indo-European	Slavic	46.25	14.78	6			slov1268	
+60	абазинский	Abaza	Abaza	Петр Михайлович Аркадьев		Peter Arkadiev		2017	January 08, 2021	January 08, 2021	West Asia and the Caucasus	Northwest Caucasian	Northwest Caucasian	44.25	42	0	Общие знания, анкета	Russian	abaz1241	
+61	словенский	Slovenian	Slovenian	Андрея Желе, Младен Ухлик		Andreja Žele, Mladen Uhlik		2017	January 10, 2021	January 10, 2021	Europe	Indo-European	Slavic	46.25	14.78	6		Russian	slov1268	
 62	латынь	Latin	Latin	Инна Дмитриевна Попова		Inna Popova					Europe	Indo-European	Romance*	41.9	12.45	6	Географическое положение: поставил я, чтобы не совпадало с итальянским; примерно центр весов современных романских языков. О падежах: общие сведения, википедия		lati1261	
 63	чешский	Czech	Czech	Анастасия Борисовна Макарова		Anastasia Makarova					Europe	Indo-European	Slavic	49.87	15.1	7	Общие сведения, википедия		czec1258	
 64	исландский	Icelandic	Icelandic	Ингунн Хрейнберг		Ingunn Hreinberg Indriðadóttir		2017			Europe	Indo-European	Germanic	63.48	-19.02	4	Анкета		icel1247	
