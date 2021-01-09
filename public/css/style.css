@@ -1,5 +1,30 @@
 /* Tag styles */
 
+/* use Charis SIL - Regular in .woff format */
+@font-face {
+    font-family: 'CharisSILW';
+    src: url(CharisSIL-R.woff);
+  }
+  /* use Charis SIL - Italic in .woff format */
+  @font-face {
+    font-family: 'CharisSILW';
+    font-style: italic;
+    src: url(CharisSIL-I.woff);
+  }
+  
+  @font-face {
+      font-family: 'CharisSILW';
+      font-weight: bold;
+      src: url(CharisSIL-B.woff);
+  }
+  
+  @font-face {
+      font-family: 'CharisSILW';
+      font-weight: bold;
+      font-style: italic;
+      src: url(CharisSIL-BI.woff);
+  }
+
 body {
     font-family: 'Noto Serif', serif;
     font-size: 12pt;
@@ -115,6 +140,10 @@ a.table-link, a.table-link:visited {
 
 .predicate-translation, .example-word {
     font-style: italic;
+}
+
+.example-word {
+    font-family: 'CharisSILW';
 }
 
 .example-word, .example-translation {
