@@ -142,7 +142,7 @@ a.table-link, a.table-link:visited {
     font-style: italic;
 }
 
-.example-word {
+.example-word, .predicate-translation {
     font-family: 'CharisSILW';
 }
 
