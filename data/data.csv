@@ -1,4 +1,134 @@
 language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back_translation_en	comms	glosses_ru	back_translation_ru	verb_original_orthography	sentence_original_orthography
+60	1	болеть-1	χ’ə	IO	ABS	X	IO_ABS	á-č̣’ḳʷən j-qá jə́-χ’-əj-ṭ	DEF-парень 3SG.M.IO-голова 3SG.M.IO-болеть-PRS-DCL	‘У парня болит голова.’				хьы	А-чIкIвын й-хъА йЫ-хь-и-тI
+60	2	болеть-2	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			*	*
+60	3	бояться	[ĉ-]ŝa	ABS	MAL	Y	ABS_MAL	á-č̣’ḳʷən a-lá d-a-ĉ-ŝ-ə́j-ṭ	DEF-парень DEF-собака 3SG.H.ABS-3SG.N.IO-MAL-бояться-PRS-DCL	‘Парень боится собаки.’				[чв-]шва	А-чIкIвын а-лА д-а-чв-шв-И-тI
+60	4	бросить	aw-š’tə	ERG	ABS	TR	TR	á-č̣’ḳʷən-ĉa-kʷa a-háqʷ-kʷa j-á-wə-r-š’t-əj-ṭ	DEF-парень-PL.H-PL DEF-камень-PL 3PL.ABS-3N.IO-LOC-3PL.ERG-бросить-PRS-DCL	‘Мальчики бросают камни.’				ау-щты	А-чIкIвын-чва-ква а-хIАхъв-ква й-А-уы-р-щт-и-тI
+60	5	быть достаточно	[z-]qa	BEN	ABS	X	BEN_ABS	wəẑə́ zaréma l-áχč’a lə-z-q-ə́j-ṭ	теперь PN 3SG.F.IO-деньги 3SG.F.IO-BEN-быть.достаточным-PRS-DCL	‘Теперь Зареме хватает денег.’				[з-]хъа	ужвЫ ЗарЕма л-Ахча лы-з-хъ-И-тI
+60	6	быть похожим	apš	ABS	IO	Y	ABS_IO	wará s-aχš’á w-l-apš-ṗ	ты.m 1SG.IO-сестра 2SG.M.ABS-3SG.F.IO-похожий-NPST.DCL	‘Ты похож на мою сестру.’				апш	уарА с-ахщА у-л-апш-пI
+60	7	верить	[z-]qa-c̣a	ERG	BEN	Y	ERG_BEN	rasúl zaréma j-lə-z-qá-j-c̣-əj-ṭ	PN PN 3SG.N.ABS-3SG.F.IO-BEN-LOC-3SG.M.ERG-верить-PRS-DCL	‘Расул верит Зареме.’				[з-]хъа-цIа	РасУл ЗарЕма й-лы-з-хъА-й-цI-и-тI
+60	8	взять	ʕa-χʷ	ERG	ABS	TR	TR	a-phʷə́spa a-pχ’ága ʕa-l-áχʷ-ṭ	DEF-девушка DEF-книга CISL-3SG.F.ERG-взять(AOR)-DCL	‘Девушка взяла книгу.’				гIа-хв	а-пхIвЫспа а-пхьАга гIа-л-Ахв-тI
+60	9	видеть	ba	ERG	ABS	TR	TR	a-phʷə́spa a-tʒə́ l-b-ə́j-ṭ	DEF-девушка DEF-дом 3SG.F.ERG-видеть-PRS-DCL	‘Девушка видит дом.’				ба	а-пхIвЫспа а-тдзЫ л-б-И-тI
+60	10	влиять	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			*	*
+60	11	встречаться	[p-]č̣a-ŝá	ABS	LOCp	Y	ABS_LOCp	rasúl murád d-ʕa-j-p-č̣a-ŝá-ṭ	PN PN 3SG.H.ABS-CISL-3SG.M.IO-LOC-LOC-падать(AOR)-DCL	‘Расул встретился с Мурадом.’				[п-]шIа-швА	РасУл МурАд д-гIа-й-п-шIа-швА-тI
+60	12	входить 	šəl	ABS	NONARG	Y	ABS_NONARG	a-phʷə́spa a-tʒə́ d-na-šə́l-ṭ	DEF-девушка DEF-дом 3SG.H.ABS-TRAL-входить(AOR)-DCL	‘Девушка вошла в дом.’				шыл	а-пхIвЫспа а-тдзЫ д-на-шЫл-тI
+60	13	выиграть	ajʕaj	ABS	IO	Y	ABS_IO	bará sará b-s-ajʕáj-ṭ	ты.F я 2SG.F.ABS-1SG.IO-выиграть(AOR)-DCL	‘Ты выиграла у меня.’				ай.гIай	барА сарА б-с-айгIАй-тI
+60	14	выходить	ʕa-[ʒ̂əl-]c̣	ABS	LOCzele	Y	ABS_LOCzele	a-phʷə́spa a-tʒə́ d-ʕa-ʒ̂əl-c̣-ṭ	DEF-девушка DEF-дом 3SG.H.ABS-CISL-LOC-пройти-DCL	‘Девушка вышла из дома.’				гIа-[джвыл-]цI	а-пхIвЫспа а-тдзЫ д-гIа-джвыл-цI-тI
+60	15	гнать	t-ca	ERG	ABS	TR	TR	á-raχʷχč’a a-ẑ t-jə-c-ə́j-ṭ	DEF-пастух DEF-корова LOC-3SG.M.ERG-гнать-PRS-DCL	‘Пастух гонит корову.’				т-ца	А-рахвхча а-жв т-и-ц-И-тI
+60	16	гнуть	rə.qʷa	ERG	ABS	TR	TR	á-č̣’ḳʷən a-q̇ʷadáma j-rə-qʷá-ṭ	DEF-парень DEF-палка 3SG.M.ERG-CAUS-гнуться(AOR)-DCL	‘Парень согнул ветку.’				ры.хъва	А-чIкIвын а-къвадАма й-ры-хъвА-тI
+60	17	говорить	hʷa	ERG	IO	Y	ERG_IO	fatíma zaréma j-l-á-l-hʷa-ṭ: sas-rá s-pnə b-ʕa-j	PN PN 3SG.N.ABS-3SG.F.IO-DAT-3SG.F.ERG-сказать(AOR)-DCL гость-MSD 1SG.IO-К 2SG.F.ABS-CISL-придти(IMP)	‘Фатима сказала Зареме: «Приходи ко мне в гости».’	The absolutive slot corresponds to the content of speech.			хIва	ФатИма ЗарЕма й-л-А-л-хIва-тI: сас-рА с-пны б-гIа-й
+60	18	держать	ma	IO	ABS	X	IO_ABS	a-phʷə́spa á-pχ’aga lə-má-ṗ	DEF-девушка DEF-книга 3SG.F.IO-иметься-NPST.DCL	‘Девушка держит книгу.’				ма	а-пхIвЫспа А-пхьага лы-мА-пI
+60	19	догнать	[χ’ə-]ʒa	ABS	LOCxe	Y	ABS_LOCxe	murád fatíma də-l-χ’ə-ʒá-ṭ	PN PN 3SG.H.ABS-3SG.F.IO-LOC-достичь(AOR)-DCL	‘Мурад догнал Фатиму.’				[хьы-]дза	МурАд ФатИма ды-л-хьы-дзА-тI
+60	20	доить	χ’a	ERG	ABS	TR	TR	s-aχš’á a-ẑ l-χ’a-ṭ	1SG.IO-сестра DEF-корова 3SG.F.ERG-доить(AOR)-DCL	‘Моя сестра подоила корову.’				хьа	с-ахщА а-жв л-хьа-тI
+60	21	достичь	[z-]na-ʒa	ABS	BEN	Y	ABS_BEN	murád a-nə́rĉ d-a-zə-na-ʒá-d	PN DEF-берег 3SG.H.ABS-3SG.N.IO-BEN-TRAL-достичь(AOR)-DCL	‘Мурад достиг берега.’				[з-]на-дза	МурАд а-нЫрчв д-а-зы-на-дзА-д
+60	22	дотронуться	[χ’ə-]sə	ABS	LOCxe	Y	ABS_LOCxe	rasúl a-bɮən d-a-χ’ə́-s-ṭ	PN DEF-стена 3SG.H.ABS-3SG.N.IO-LOC-трогать(AOR)-DCL	‘Расул дотронулся до стены.’				[хьы-]сы	РасУл а-бльын д-а-хьЫ-с-тI
+60	23	драться	[aba-]ḳə	ABS	SOC	Y	ABS_SOC	rasúl murád d-j-ába-ḳ-əj-ṭ	PN PN 3SG.H.ABS-3SG.M.IO-SOC-драться-PRS-DCL	‘Расул дерется с Мурадом.’				[аба-]кIы	РасУл МурАд д-й-Аба-кI-и-тI
+60	24	дружить	nbž’aʕʷ	IO	ABS	X	IO_ABS	rasúl murád d-jə-nbž’áʕʷ-ṗ	PN PN 3SG.H.ABS-3SG.M.IO-друг-NPST.DCL	‘Расул дружит с Мурадом.’				нбжьагIв	РасУл МурАд д-йы-нбжьАгIв-пI
+60	25	думать	[z-]qʷəc	ABS	BEN	Y	ABS_BEN	murad fatima d-lə-z-qʷəc-əj-ṭ	PN PN 3SG.H.ABS-3SG.F.IO-BEN-думать-PRS-DCL	‘Мурад думает о Фатиме.’				[з-]хъвыц	Мурад Фатима д-лы-з-хъвыц-и-тI
+60	26	есть	fa	ERG	ABS	TR	TR	a-phʷə́spa a-ĉ̣ʷá jə-l-fa-ṭ	DEF-девушка DEF-яблоко 3SG.N.ABS-3SG.F.ERG-есть(AOR)-DCL	‘Девушка съела яблоко.’				фа	а-пхIвЫспа а-чIвА йы-л-фа-тI
+60	27	жарить	rə.ʒə	ERG	ABS	TR	TR	a-qác̣a a-pslaĉá j-rə́-ʒ-ṭ	DEF-мужчина DEF-рыба 3SG.M.ERG-CAUS-жариться-DCL	‘Мужчина пожарил рыбу.’				ры.дзы	а-хъАцIа а-пслачвА й-рЫ-дз-тI
+60	28	ждать	[z-]pšə	ABS	BEN	Y	ABS_BEN	p-s-zə-m-pšə-n	2SG.F.ABS-1SG.IO-BEN-NEG-ждать-NEG.IMP	‘Не жди меня!’				[з-]пшы	п-с-зы-м-пшы-н
+60	29	забывать	[q-]aštəl	LOCq	ABS	X	LOCq_ABS	murád jəʕʷbaχwəz a-mʕʷa j-q-áštəl-(χ-)ṭ	PN второй DEF-дорога 3SG.M.IO-LOC-забыть(AOR)-(RE)-DCL	‘Мурад забыл о другой дороге.’				[хъ-]аштыл	МурАд йыгIвбахуз а-мгIва й-хъ-Аштыл-(х-)тI
+60	30	зависеть	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			*	*
+60	31	звать	ʕa-z-č̣ə-t	ERG	ABS	TR	TR	murád rasúl d-ʕa-z-č̣ə́-j-t-d	PN PN 3SG.H.ABS-CISL-BEN-LOC-3SG.M.ERG-звать(AOR)-DCL	‘Мурад позвал Расула.’				гIа-з-шIы-т	МурАд РасУл д-гIа-з-шIИ-т-д
+60	32	знакомиться	[aba-]dər	ABS	SOC	Y	ABS_SOC	fatíma murád c̣əpχ d-j-aba-də́r-d	PN PN в.прошлом.году 3SG.H.ABS-3SG.M.IO-SOC-знать(AOR)-DCL	‘Фатима познакомилась с Мурадом год тому назад.’				[аба-]дыр	ФатИма МурАд цIыпх д-й-аба-дЫр-д
+60	33	знать 	dər	ERG	ABS	TR	TR	fatíma murád də-l-də́r-əj-d	PN PN 3SG.H.ABS-3SG.F.ERG-знать-PRS-DCL	‘Фатима знает Мурада.’				дыр	ФатИма МурАд ды-л-дЫр-и-д
+60	34	играть	sə	ABS	IO	Y	ABS_IO	fatíma gitára d-á-s-əj-d	PN гитара 3SG.H.ABS-3N.IO-бить-PRS-DCL	‘Фатима играет на гитаре.’				сы	ФатИма гитАра д-А-с-и-д
+60	35	избегать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			*	*
+60	36	изготовить	č’pa	ERG	ABS	TR	TR	rasúl bómba j-č’pa-d	PN бомба 3SG.M.ERG-делать(AOR)-DCL	‘Расул изготовил бомбу.’				чпа	РасУл бОмба й-чпа-д
+60	37	издеваться	laq̇ərdə́ č’pa	ERG	ABS	TR	TR	zaréma rasúl laq̇ərdə́ də-l-č’p-ə́j-d	PN PN ирония 3SG.H.ABS-3SG.F.ERG-делать-PRS-DCL	‘Зарема издевается над Расулом.’				лакъырдЫ чпа	ЗарЕма РасУл лакъырдЫ ды-л-чп-И-д
+60	38	иметь	ma	IO	ABS	X	IO_ABS	zaréma mašína lə-má-b	PN машина 3SG.F.IO-иметься-NPST.DCL	‘У Заремы есть машина.’				ма	ЗарЕма машИна лы-мА-б
+60	39	искать	[zə-]pšʕa	ABS	BEN	Y	ABS_BEN	á-č’ḳʷən a-c̣apχaṭə́ga d-a-zə́-pšʕ-əj-d	DEF-парень DEF-ключ 3SG.H.ABS-3SG.N.IO-BEN-искать-PRS-DCL	‘Парень ищет ключи.’				[зы-]пшгIа	А-чкIвын а-цIапхатIЫга д-а-зЫ-пшгI-и-д
+60	40	красить	ŝə	ERG	ABS	TR	TR	á-č’ḳʷən a-gʷára j-ŝə́-d	DEF-парень DEF-забор 3SG.M.ERG-красить(AOR)-DCL	‘Парень покрасил забор.’				швы	А-чкIвын а-гвАра й-швЫ-д
+60	41	кусать	cha	ABS	IO	Y	ABS_IO	a-lá  sará  j-ʕa-sə-cha-d	DEF-собака я 3SG.N.ABS-CISL-1SG.IO-кусать-DCL	‘собака укусила меня.’				цхIа	а-лА сарА й-гIа-сы-цхIа-д
+60	42	лишаться	[l-]qʷdaχa	ABS	LOCl	Y	ABS_LOCl	murád j-tʒə́ d-á-l-qʷdaχa-d	PN 3SG.M.IO-дом 3SG.H.ABS-3SG.N.IO-LOC-лишиться(AOR)-DCL	‘Мурад лишился дома.’				[л-]хъвдаха	МурАд й-тдзЫ д-А-л-хъвдаха-д
+60	43	ловить	ʕa-ḳə	ERG	ABS	TR	TR	a-phʷə́spa a-cgʷə́ ʕá-l-ḳ-əj-d	DEF-девушка DEF-кошка CISL-3SG.F.ERG-ловить-PRS-DCL	‘Девушка ловит кошку.’				гIа-кIы	а-пхIвЫспа а-цгвЫ гIА-л-к-Iи-д
+60	44	ломать	qə-ĉ̣ʷa	ERG	ABS	TR	TR	á-č’ḳʷən a-labá qə-j-ĉ̣ʷá-d	DEF-парень DEF-палка LOC-3SG.M.ERG-ломать(AOR)-DCL	‘Парень сломал палку.’				хъы-чIва	А-чкIвын а-лабА хъ-и-чIвА-д
+60	45	льстить	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			*	*
+60	46	любить-1	bzəj ba	ERG	ABS	TR	TR	murád fatíma bzə́j də-j-b-ə́j-d	PN PN хорошо 3SG.H.ABS-3SG.M.ERG-видеть-PRS-DCL	‘Мурад любит Фатиму.’				бзи ба	МурАд ФатИма бзИ д-и-б-И-д
+60	47	махать	q̇’a	ERG	ABS	TR	TR	a-phʷə́spa á-ḳas l-q̇’-əj-d	DEF-девушка DEF-платок 3SG.F.ERG-махать-PRS-DCL	‘Девушка машет платком.’				къьа	а-пхIвЫспа А-кIас л-къь-и-д
+60	48	мечтать	[z-]qʷəc	ABS	BEN	Y	ABS_BEN	rasúl mašína–č̣əc d-a-z-qʷəc-ə́j-d	PN машина­–новый 3SG.H.ABS-3SG.N.IO-BEN-думать-PRS-DCL	‘Расул мечтает о новой машине.’				[з-]хъвыц	РасУл машИна–шIыц д-а-з-хъвыц-И-д
+60	49	мыть	ʒ̂ʒ̂a	ERG	ABS	TR	TR	a-č’ḳʷən a-č̣’at j-ʒ̂ʒ̂a-d	DEF-парень DEF-чашка 3SG.M.ERG-мыть(AOR)-DCL	‘Парень вымыл чашку.’				джвджва	а-чкIвын а-чIат й-джвджва-д
+60	50	надевать	ŝ-c̣a	ERG	ABS	TR	TR	a-qác̣a ajkʷá j-ŝ-jə́-c̣a-d	DEF-мужчина штаны 3SG.N.ABS-LOC-3SG.M.ERG-нести(AOR)-DCL 	‘Мужчина надел штаны.’				шв-цIа	а-хъАцIа айквА й-шв-И-цIа-д
+60	51	называться	χ’əz	*	*	*		arə́j a-pq̇ə́ʕʷa á-χ’əz kompas-b	PROX DEF-предмет 3SG.N.IO-имя компас-NPST.DCL	‘Этот предмет называется компас.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).			хьыз	арИ а-пкъЫгIва А-хьыз компас-б
+60	52	наказывать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			*	*
+60	53	напасть	[gʷəkʷ-]sə	ABS	LOCgwekwe	Y	ABS_LOCgwekwe	á-mŝ a-pslaĉáḳʕʷə j-gʷə́kʷ-s-d	DEF-медведь DEF-рыбак 3SG.N.ABS+3SG.M.IO-LOC-бить-DCL	‘Медведь напал на рыбака.’				[гвыкв-]сы	А-мшв а-пслачвАкIгIвы й-гвЫкв-с-д
+60	54	наполняться	znaχa	IO	ABS	X	IO_ABS	a-pš’ərhá-kʷa ʒə́ rə́-zna-χa-d	DEF-ведро-PL вода 3PL.IO-полный-INC(AOR)-DCL 	‘Вёдра наполнились водой.’				знаха	а-пщырхIА-ква дзЫ рЫ-зна-ха-д
+60	55	находить	ʕa-aw	ERG	ABS	TR	TR	a-phʷə́spa a-c̣apχá  ʕa-l-áwə-d	DEF-девушка DEF-ключ DIR-3SG.F.ERG-найти(AOR)-DCL	‘Девушка нашла ключи.’				гIа-ау	а-пхIвЫспа а-цIапхА гIа-л-Ау-д
+60	56	недоставать	gχa	IO	ABS	X	IO_ABS	murád ẑa–som-ḳ jə-gχ-ə́j-d	PN десять–рубль-UNIT 3SG.M.IO-недоставать-PRS-DCL	‘Мураду недостает десяти рублей.’				гха	МурАд жва–сомкI йы-гх-И-д
+60	57	ненавидеть	[ĉə-]maʁ	MAL	ABS	X	MAL_ABS	fatíma murád də-l-ĉə-máʁ-b	PN PN 3SG.H.ABS-3SG.F.IO-MAL-ненавидеть-NPST.DCL	‘Фатима ненавидит Мурада.’				[чвы-]магъ	ФатИма МурАд ды-л-чвы-мАгъ-б
+60	58	нравиться	gʷapχa	ERG	ABS	TR	TR	murád árəj as j-gʷapχ-ə́j-d	PN PROX DEF+рубашка 3SG.M.ERG-нравиться-PRS-DCL	‘Мураду нравится эта рубашка.’				гвапха	МурАд Ари ас й-гвапх-И-д
+60	59	нуждаться	[zə-]bža	ABS	BEN	Y	ABS_BEN	rasúl aχč’á d-a-zə́-bža-b	PN деньги 3SG.H.ABS-3SG.N.IO-BEN-нужда-NPST.DCL	‘Расулу нужны деньги.’				[зы-]бжа	РасУл ахчА д-а-зЫ-бжа-б
+60	60	окружать	ʕa-q̇ʷ-r.ša	ERG	ABS	TR	TR	a-bɮə́n-kʷa a-gorad ʕá-ḳʷ-də-r-š-əj-d	DEF-стена-PL DEF-город CISL-LOC-3PL.ERG-CAUS-делить-PRS-DCL	‘Стены окружают город.’				гIа-къв-рша	а-бльЫн-ква а-город гIА-кIв-ды-р-ш-и-д
+60	61	оставаться	[z-]aʕan-χa	BEN	ABS	X	BEN_ABS	rasúl ẑa–dollar-ḳ j-z-áʕan-χa-d	PN десять–доллар-UNIT 3PL.ABS+3SG.M.IO-BEN-LOC-остаться(AOR)-DCL	‘У Расула осталось 10 долларов.’				[з-]агIан-ха	РасУл жва–доллар-кI й-з-АгIан-ха-д
+60	62	отвечать	ǯawap tə	ERG	IO	Y	ERG_IO	murád arə́pχ’aʕʷ ǯawap lə-j-t-ṭ	М DEF+учитель ответ 3SG.F.IO-3SG.M.ERG-дать(AOR)-DCL	‘Мурад ответил учительнице.’				джауап ты	МурАд арЫпхьагIв джауап л-и-т-тI
+60	63	открывать	qə-ṭə	ERG	ABS	TR	TR	á-č’ḳʷən a-bánka ʕa-q-jə-ṭə́-d	DEF-парень DEF-банка CISL-LOC-3SG.M.ERG-открыть-DCL 	‘Парень открыл банку.’				хъы-тIы	А-чкIвын а-бАнка гIа-хъ-и-тIЫ-д
+60	64	отличаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			*	*
+60	65	отстать	ʕa-[χ’ə-]ŝa	ABS	LOCax	Y	ABS_LOCax	rasúl zaréma d-ʕa-l-aχ’-ŝa-d	PN PN 3SG.H.ABS-CISL-3SG.F.IO-LOC-падать(AOR)-DCL	‘Расул отстал от Заремы.’				гIа-[хьы-]шва	РасУл ЗарЕма д-гIа-л-ахь-шва-д
+60	66	пахать	ĉaʁʷa	ERG	ABS	TR	TR	a-qác̣a j-ádg’əl j-ĉaʁʷ-ə́j-d	DEF-мужчина 3SG.M.IO-земля 3SG.M.ERG-пахать-PRS-DCL	‘Мужчина пашет поле.’				чвагъва	а-хъАцIа й-Адгьыл й-чвагъв-И-д
+60	67	пахнуть	fʕʷə́ qə-ha	*	*	*		s-náṗ-kʷa benzín–fʕʷə r-qə́-h-əj-d	1SG.IO-рука-PL бензин–запах 3PL.IO-LOC-пахнуть-PRS-DCL	‘Мои руки пахнут бензином.’	Not included in the database because Y is expressed as part of a nominal compound.			фгIвЫ хъы-хIа	с-нАпI-ква бензин–фгIвы р-хъЫ-хI-и-д
+60	68	пересечь	[qə-]sə	ABS	LOCqe	Y	ABS_LOCqe	a-phʷə́s á-mʕʷa d-a-qə́-s-d	DEF-женщина DEF-дорога 3SG.H.ABS-3SG.N.IO-LOC-бить(AOR)-DCL	‘Женщина пересекла дорогу.’				[хъы-]сы	а-пх1вЫс А-мг1ва д-а-хъЫ-с-д
+60	69	петь	hʷa	ERG	ABS	TR	TR	fatíma warad–pšʒa l-hʷa-d	PN песня–красивый 3SG.F.ERG-говорить(AOR)-DCL	‘Фатима спела красивую песню.’				хIва	ФатИма уарад–пшдза л-хIва-д
+60	70	писать	ʕʷə	ERG	ABS	TR	TR	zarema pismo l-ʕʷə-d	PN письмо 3SG.F.ERG-писать(AOR)-DCL	‘Зарема написала письмо.’				гIвы	Зарема письмо л-гIвы-д
+60	71	пить	ẑə	ERG	ABS	TR	TR	murád a-χš jə-ẑ-d	PN DEF-молоко 3SG.M.ERG-пить(AOR)-DCL	‘Мурад выпил молоко.’				жвы	МурАд а-хш йы-жв-д
+60	72	плавить	r.ĉa	ERG	ABS	TR	TR	a-nχaʕʷə́ ájχa–čət-ḳ jə́-r-ĉa-d	DEF-рабочий металл–кусок-INDF 3SG.M.ERG-CAUS-таять(AOR)-DCL	‘Рабочий расплавил кусок металла.’				р.чва	а-нхагIвЫ Айха–тшыт-кI йЫ-р-чва-д
+60	73	подходить	[n-]ʕal	ABS	LOCne	Y	ABS_LOCne	arə́j a-mʔá s-ʔaχʷtán j-á-n-ʕal-əj-d	PROX DEF-пояс 1SG.IO-платье 3SG.N.ABS-3SG.N.IO-LOC-подходить-PRS-DCL	‘Этот пояс подходит к моему платью.’				[н-]гIал	арИ а-мъА с-ъахвтАн й-А-н-гIал-и-д
+60	74	покидать	[t-]c̣ə	ABS	LOCte	Y	ABS_LOCte	rasúl á-q̇ala d-ʕa-ta-d-r-jə́-z d-tə-c̣-d	PN DEF-город 3SG.H.ABS-CISL-LOC-3PL.ERG-CAUS-придти-PST 3SG.H.ABS-LOC-пройти(AOR)-DCL	‘Расул покинул родной город.’				[т-]цIы	РасУл А-къала д-гIа-та-д-р-И-з д-ты-цI-д
+60	75	покрывать	q-ʕʷa	ERG	ABS	TR	TR	a-pól šabgwə́ a-q̇adába j-q-na-ʕʷ-ə́j-d	DEF-пол целиком DEF-ковёр 3SG.N.ABS-LOC-3SG.N.ERG-закрыть-PRS-DCL	‘Ковер покрывает весь пол.’				хъ-гIва	а-пОл шабгУ а-къадАба й-хъ-на-гIв-И-д
+60	76	помнить	dər.χ	ERG	ABS	TR	TR	murád bzə́j-ta j-də́r-χ-əj-d a-tʒə́ d-ʕa-ʒəngə́lə-z	PN хороший-ADV 3SG.N.ABS+3SG.M.ERG-знать-RE-PRS-DCL DEF-дом 3SG.H.ABS-CISL-расти-PST	‘Мурад хорошо помнит дом, в котором вырос.’				дыр.х	МурАд бзИ-та й-дЫр-х-и-д а-тдзЫ д-гIа-дзынгЫлы-з
+60	77	помочь	[c-]qraʕa	ABS	COM	Y	ABS_COM	l-an zaréma də-l-c-qráʕa-d	3SG.F.IO-мать PN 3SG.H.ABS-3SG.F.IO-COM-помочь(AOR)-DCL	‘Мать помогла Зареме.’				[ц-]хърaгIа	л-ан ЗарЕма ды-л-ц-хърАгIа-д
+60	78	понимать	ʕa-[gʷən-]ʕʷə	LOCgwene	ABS	X	LOCgwene_ABS	fatíma francúz–bəzŝá ʕá-l-gʷən-ʕʷ-əj-d	PN француз–язык CISL-3SG.F.IO-LOC-пиcать-PRS-DCL	‘Фатима понимает французский язык.’				гIа-[гвын-]гIвы	ФатИма францУз–бызшвА гIА-л-гвын-гIв-и-д
+60	79	попасть	[kʷ-]ŝa	ABS	LOCkwe	Y	ABS_LOCkwe	a-c a-tʒə́ j-á-kʷ-ŝa-d	DEF-молния DEF-дом 3SG.N.ABS-3SG.N.IO-LOC-падать(AOR)-DCL	‘Молния попала в дом.’				[кв-]шва	а-ц а-тдзЫ й-А-кв-шва-д
+60	80	порезаться	p-q̇ə	*	*	*		murád a-brítva d-p-na-q̇ə́-d	PN DEF-бритва 3SG.H.ABS-LOC-3SG.N.ERG-резать(AOR)-DCL	‘Бритва порезала Мурада.’	Not included in the database because the translation deviates too far from the stimulus sentence.			п-къы	МурАд а-брИтва д-пна-къЫ-д
+60	81	прилипать	[ḳəd-]χal	ABS	LOCkede	Y	ABS_LOCkede	a-stakán a-stól j-ḳə́d-χal-d	DEF-стакан DEF-стол 3SG.N.ABS-LOC-липнуть(AOR)-DCL	‘Стакан прилип к столу.’				[кIыд-]хал	а-стакАн а-стОл й-кIЫд-хал-д
+60	82	проиграть	*	*	*	*		*	*	*	No satisfactory translation has been obtained. 			*	*
+60	83	радоваться	aj.gʷərʁ’a	ABS	IO	Y	ABS_IO	murád a-saɮámŝʔa d-áj.gʷərʁ’a-d	PN DEF-письмо 3SG.H.ABS-3SG.N.IO+радоваться(AOR)-DCL	‘Мурад обрадовался письму.’				ай.гвыргъьа	МурАд а-сальАмшвъа д-Айг.выргъьа-д
+60	84	разговаривать	a(j).ĉaẑa	ABS	IO	Y	ABS_IO	murád sará s-aχš’á d-l-á.ĉaẑ-əj-d	PN я 1SG.IO-сестра 3SG.H.ABS-3SG.F.IO-разговаривать-PRS-DCL	‘Мурад разговаривает с моей сестрой.’				а(й).чважва	МурАд сарА с-aхщА д-л-Ачважв-и-д
+60	85	рожать	ʕa-rə-j	ERG	ABS	TR	TR	fatíma č’ḳʷən–χʷə́c d-ʕa-l-rə́-j-d	PN парень-маленький 3SG.H.ABS-CISL-3SG.F.ERG-CAUS-придти(AOR)-DCL	‘Фатима родила сына.’				гIа-р.и	ФатИма чкIвын-хвЫц д-гIа-л-р-И-д
+60	86	ронять	ḳa-rə.ŝ	ERG	ABS	TR	TR	á-č’ḳʷən a-stakán ḳa-j-rə́-ŝ-d	DEF-парень DEF-стакан LOC-3SG.M.ERG-CAUS-падать(AOR)-DCL	‘Парень уронил стакан.’				кIа-ры.шв	А-чкIвын а-стакАн кIа-й-рЫ-шв-д
+60	87	руководить	n(a)q̇ʷə-ga	ERG	ABS	TR	TR	arəj a-qáca h-kə́t j-nq̇ʷə-j-g-əj-d	PROX DEF-мужчина 1PL.IO-аул 3SG.N.ABS-LOC-3SG.M.ERG-нести-PRS-DCL	‘Этот человек руководит нашим аулом.’				н(а)къвы-га	ари а-хъАца хI-кЫт й-нкъв-и-г-и-д
+60	88	скучать	ʕa-gʷalaŝa	ERG	ABS	TR	TR	murád j-aχš’á d-ʕá-j-gʷalaŝ-əj-d	PN 3SG.M.IO-сестра 3SG.H.ABS-CISL-3SG.M.ERG-скучать-PRS-DCL	‘Мурад скучает по сестре.’				гIа-гвалашва	МурАд й-ахщА д-гIА-й-гвалашв-и-д
+60	89	следовать	[c̣əqʷa] ta-gəla	ABS	jceqwa	Y	ABS_jceqwa	rasúl j-aš’á j-c̣ə́qʷa d-ta-gəla-b	PN 3SG.M.IO-брат 3SG.M.IO-хвост 3SG.H.ABS-LOC-стоять-NPST.DCL	‘Расул следует за братом.’				[цIыхъва] та-гыла	РасУл й-ащА й-цIЫхъва д-та-гыла-б
+60	90	слезать	ʕa-[ḳnə-]c̣ə	ABS	LOCkne	Y	ABS_LOCkne	a-č-kʷá ŝ-ʕa-r-ḳnə́-m-c̣ə-n	DEF-лошадь-PL 2PL.ABS-CISL-3PL.IO-LOC-NEG-пройти-NEG.IMP	‘Не слезайте с лошадей!.’				гIа-[кIны-]цIы	а-тш-квА шв-гIа-р-к-IнЫ-м-цIы-н
+60	91	слушать	[z-]ʒərʕʷ	ABS	BEN	Y	ABS_BEN	zaréma rádia d-á-z-ʒərʕʷ-əj-d	PN радио 3SG.H.ABS-3SG.N.IO-BEN-слушать-PRS-DCL	‘Зарема слушает радио.’				[з-]дзыргIв	ЗарЕма рАдио д-А-з-дзыргIв-и-д
+60	92	слушаться	[z-]ʒərʕʷ	ABS	BEN	Y	ABS_BEN	rasúl j-an d-lə-z-ʒərʕʷ-ə́j-d	PN 3SG.M.IO-мать 3SG.H.ABS-3SG.F.IO-BEN-слушать-PRS-DCL	‘Расул слушается маму.’				[з-]дзыргIв	РасУл й-ан д-лы-з-дзыргIв-И-д
+60	93	слышать	ʕa	ERG	ABS	TR	TR	fatíjma múzəka l-ʕ-əj-d	PN музыка 3SG.F.ERG-слышать-PRS-DCL	‘Фатима слышит музыку.’				гIа	ФатИма мУзыка л-гI-и-д
+60	94	смешаться	[la-]l	ABS	LOCla	Y	ABS_LOCla	á-cχa á-χš j-a-lá-l-d	DEF-мёд DEF-молоко 3SG.N.ABS-3SG.N.IO-LOC-войти(AOR)-DCL	‘Мед смешался с молоком.’				[ла-]л	А-цха А-хш й-а-лА-л-д
+60	95	смотреть	pšə	ABS	IO	Y	ABS_IO	fatíma á-psthʷa-kʷa də-r-pš-ə́j-ṭ	PN DEF-туча-PL 3SG.H.ABS-3PL.IO-смотреть-PRS-DCL	‘Фатима смотрит на тучи.’				пшы	ФатИма А-пстхIва-ква ды-р-пш-И-тI
+60	96	снимать	[ŝə-]χ	LOCsERG	ABS	X	LOCsERG_ABS	rasúl j-ás jə-ŝ-jə-χ-ṭ	PN 3SG.M.IO-рубашка 3SG.M.IO-LOC-3SG.M.ERG-снять(AOR)-DCL	‘Расул снял рубашку.’	The X argument is indexed on the verb twice (in the ergative slot and in the slot associated with the locative preverb ŝ-).			[швы-]х	РасУл й-Ас йы-шв-и-х-тI
+60	97	сниться	aj.pχəz	ABS	IO	Y	ABS_IO	murád zaréma d-l-áj.pχəz-əj-ṭ	PN PN 3SG.H.ABS-3SG.F.IO-сниться-PRS-DCL	‘Зарема снится Мураду.’				ай.пхыз	МурАд ЗарЕма д-л-Ай.пхыз-и-тI
+60	98	соглашаться	aj.gʷənʕʷ	ABS	IO	Y	ABS_IO	rasúl fatíma d-l-áj.gʷənʕʷ-ṭ	PN PN 3SG.H.ABS-3SG.F.IO-согласиться(AOR)-DCL	‘Расул согласился с Фатимой.’				ай.гвынгIв	РасУл ФатИма д-л-Ай.гвынгIв-тI
+60	99	ссориться	aj.s	ABS	IO	Y	ABS_IO	w-ʕa-s-m-áj.sə-n	2SG.M.ABS-CISL-1SG.IO-NEG-ругаться-NEG.IMP	‘Не ссорься со мной!.’				ай.с	у-гIа-с-м-Ай.сы-н
+60	100	стоить	χʷə	IO	ABS	X	IO_ABS	arjə́ ápχ’aga som-ŝ-ḳ j-a-χʷ-ṗ	PROX DEF+книга рубль-сто-UNIT 3SG.N.ABS-3SG.N.IO-цена-NPST.DCL	‘Эта книга стоит сто рублей.’				хвы	Ари Апхьага сом-шв-кI й-а-хв-пI
+60	101	стрелять	aj.χs	ABS	IO	Y	ABS_IO	w-ʕa-s-m-aj.χsə-n	2SG.M.ABS-CISL-1SG.IO-NEG-стрелять-NEG.IMP	‘Не стреляй в меня!.’				ай.хс	у-гIа-с-м-ай.хсы-н
+60	102	сыпать	ta-psa	ERG	ABS	TR	TR	á-č’ḳʷən fač’ə́ʕʷ ʕa-ta-j-psá-ṭ	DEF-парень сахар CISL-LOC-3SG.M.ERG-сыпать(AOR)-DCL	‘Парень насыпал сахар.’				та-пса	А-чкIвын фачЫгIв гIа-та-й-псА-тI
+60	103	терять	[ĉ-]ʒə	MAL	ABS	X	MAL_ABS	á-č’ḳʷən a-c̣apχa-kʷá j-ĉə́-ʒ-ṭ	DEF-парень DEF-ключ-PL 3SG.M.IO-MAL-пропасть(AOR)-DCL	‘Парень потерял ключи.’				[чв-]дзы	А-чкIвын а-цIапха-квА й-чвЫ-дз-тI
+60	104	тонуть	[c̣a-]ŝq̇ʷal	ABS	LOCca	Y	ABS_LOCca	a-mč̣χə́ a-ʒə́ j-c̣a-ŝḳʷál-ṭ	DEF-полено DEF-вода 3SG.N.ABS-LOC-тонуть(AOR)-DCL	‘Полено утонуло в воде.’				[цIа-]швкъвал	а-мшIхЫ а-дзЫ й-цIа-швкIвАл-тI
+60	105	убивать	š’ə	ERG	ABS	TR	TR	murád a-ʁá də-j-š’ə-d	PN DEF-враг 3SG.H.ABS-3SG.M.ERG-убить(AOR)-DCL	‘Мурад убил врага.’				щы	МурАд а-гъА д-и-щы-д
+60	106	ударить	sə	ABS	IO	Y	ABS_IO	a-ʁa a-phʷə́s d-lə-s-ṭ	DEF-враг DEF-женщина 3SG.H.ABS-3SG.F.IO-ударить(AOR)-DCL	‘Враг ударил женщину.’				сы	а-гъа а-пхIвЫс д-лы-с-тI
+60	107	целовать	ba hʷə	ERG	IO	Y	ERG_IO	fatíma l-aš’á ba j-a-l-hʷ-ṭ	PN 3SG.F.IO-брат поцелуй 3SG.M.IO-DAT-3SG.F.ERG-сказать(AOR)-DCL	‘Фатима поцеловала брата.’				ба хIвы	ФатИма л-ащА ба й-а-л-хIв-тI
+60	108	читать	pχ’a	ABS	IO	Y	ABS_IO	a-phʷə́spa k’tap–ǯ’aš’áqʷa-ḳ d-á-pχ’a-ṭ	DEF-девушка книга–интересный-INDF 3SG.H.ABS-3SG.N.IO-читать(AOR)-DCL	‘Девушка прочитала интересную книгу.’				пхьа	а-пхIвЫспа кьтап–джьащАхъва-кI д-А-пхьа-тI
+60	109	шевелить	rə.c̣ə́s	ERG	ABS	TR	TR	á-č’ḳʷən jə́-maĉ j-rə-c̣ə́s-ṭ	DEF-парень 3SG.M.IO-палец 3SG.M.ERG-CAUS-шевелиться(AOR)-DCL	‘Парень пошевелил пальцем.’				ры.цIЫс	А-чкIвын йЫ-мачв й-ры-цIЫс-тI
+60	110	уважать	χʷə [kʷ-]c̣a	ERG	LOCkwe	Y	ERG_LOCkwe	rasúl fatíma χʷə lə́-kʷə-j-c̣-əj-ṭ	PN PN цена 3SG.F.IO-LOC-3SG.M.ERG-добавлять-PRS-DCL	‘Расул уважает Фатиму.’				хвы [кв-]цIа	РасУл ФатИма хвы лЫ-кв-и-цI-и-тI
+60	111	брезговать	[ĉ-]maχača	ABS	MAL	Y	ABS_MAL	zaréma á-maĉa–ḟej d-a-ĉə́-maχač-əj-ṭ	PN DEF-посуда–грязный 3SG.H.ABS-3SG.N.IO-MAL-брезговать-PRS-DCL	‘Зарема брезгует грязной посудой.’				[чв-]махатша	ЗарЕма А-мачва–фIей д-а-чвЫ-махатш-и-тI
+60	112	быть довольным	[zə-]raz	ABS	BEN	Y	ABS_BEN	sara awəj sə-l-zə-raz-ṗ	я DIST 1SG.ABS-3SG.F.IO-BEN-довольный-NPST.DCL	‘Я доволен ей.’				[зы-]раз	сара ауи сы-л-зы-раз-пI
+60	113	влюбляться	aj.hʷapsa	ABS	IO	Y	ABS_IO	rasúl fatíma d-l-áj.hʷapsa-ṭ	PN PN 3SG.H.ABS-3SG.F.IO-влюбляться(AOR)-DCL	‘Расул влюбился в Фатиму.’				ай.хIвапса	РасУл ФатИма д-л-Ай.хIвапса-тI
+60	114	доверять	[z-]qa-c̣a	ERG	BEN	Y	ERG_BEN	rasúl j-an d-jə́-ma-rəcha-ṗ	PN PN 3SG.N.ABS-3SG.F.IO-BEN-LOC-3SG.M.ERG-верить-PRS-DCL	‘Расул верит Зареме.’				[з-]хъа-цIа	РасУл ЗарЕма й-лы-з-хъА-й-цI-и-тI
+60	115	жалеть	[ma-]rəcha	JUD	ABS	X	JUD_ABS	rasúl j-an d-jə́-ma-rəcha-ṗ	PN 3SG.M.IO-МАТЬ 3SG.H.ABS-3SG.M.IO-JUD-бедный-NPST.DCL	‘Расул жалеет свою мать.’				[ма-]рыцхIа	РасУл й-ан д-йЫ-ма-рыцхIа-пI
+60	116	завидовать	[c-]n-χč’alə	ABS	COM	Y	ABS_COM	wə-s-c-nə́-m-χč’alə-n	2SG.M.ABS-1SG.IO-COM-LOC-NEG-завидовать-NEG.IMP	‘Не завидуй мне!’				[ц-]н-хчалы	у-с-ц-нЫ-м-хчалы-н
+60	117	злиться	[z-]gʷəẑḳə	ABS	BEN	Y	ABS_BEN	á-č’ḳʷən j-aš’á d-jə-z-gʷə́ẑḳ-əj-ṭ	DEF-парень DEF-брат 3SG.H.ABS-3SG.M.IO-BEN-злиться-PRS-DCL	‘Парень злится на своего брата.’				[з-]гвыжвкIы	А-чкIвын й-ащА д-йы-з-гвЫжвкI-и-тI
+60	118	удивляться	ǯ’a-š’a	ERG	ABS	TR	TR	murád awə́j a-sawʕá ǯ’a-j-š’á-ṭ	PN DIST DEF-подарок LOC-3SG.ERG-удивиться(AOR)-DCL	‘Мурад удивился этому подарку.’				джьа-ща	МурАд ауИ а-согIА джьа-й-щА-тI
+60	119	любить-2	bzəj ba	ERG	ABS	TR	TR	zaréjma č’aj bzəj jə-l-b-ə́j-d	PN чай добро 3SG.N.ABS-3SG.F.ERG-видеть-PRS-DCL	‘Зарема любит чай.’				бзи ба	ЗарЕма чай бзи йы-л-б-И-д
+60	120	наслаждаться	Х-gʷə Х-r.ĉ̣ʷə	ERG	NONARG_INS	Y	ERG_NONARG.INS	zaréma č’aj–blə-la l-gʷə lə-r-ĉ̣ʷ-əj-d	PN чай–горячий-INS 3SG.F.IO-сердце 3SG.F.ERG-CAUS-киснуть-PRS-DCL	‘Зарема наслаждается горячим чаем.’	Y is expressed as a dependent-marked adjunct, unindexed on the verb.			Х-гвы Х-р.чIвы	ЗарЕма чай–блы-ла л-гвы лы-р-чIв-и-д
+60	121	хотеть	taqə	IO	ABS	X	IO_ABS	rasúl χabar.rgága–čəc̣ j-taq̇ə́-b	PN объявление–новый 3SG.M.IO-хотеть-NPST.DCL	‘Расул хочет новый мобильник.’				тахъы	РасУл хабаргАга–тшыцI й-такъЫ-б
+60	122	сердиться	[z-]gʷəẑḳə	ABS	BEN	Y	ABS_BEN	á-č’ḳʷən j-aš’á d-jə-z-gʷə́ẑḳ-əj-ṭ	DEF-парень DEF-брат 3SG.H.ABS-3SG.M.IO-BEN-злиться-PRS-DCL	‘Парень злится на своего брата.’				[з-]гвыжвкIы	А-чкIвын й-ащА д-йы-з-гвЫжвкI-и-тI
+60	123	обижаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained. 			*	*
+60	124	огорчать	Y-gʷə X-s	*	*	*		murád zaréma l-gʷə d-a-s-t	PN PN 3SG.F.IO-сердце 3SG.H.ABS-3SG.N.IO-бить(AOR)-DCL	‘Мурад огорчил Зарему.’	Not included in the database because Y is expressed as an NP-internal modifier.			Y-гвы X-с	МурАд ЗарЕма л-гвы д-а-с-т
+60	125	поражаться	ǯ’a-š’a	ERG	ABS	TR	TR	rasul á-q̇ala χʷábəž-ta j-ǯ’a-j-š’a-d	PN DEF-город очень-ADV 3SG.N.ABS-LOC-3SG.M.ERG-удивиться(AOR)-DCL	‘Расул поразился этому городу.’				джьа-ща	РасУл А-къала хвАбыж-та й-джьа-й-ща-д
+60	126	презирать	ba g’awam	*	*	*		fatíma murád də-l-bá g’-awá-m	PN PN 3SG.H.ABS-3SG.F.ERG-видеть NEG-мочь-NEG	‘Фатима не может видеть Мурада.’	Not included in the database because this translation is semantically inaccurate.			ба гьауам	ФатИма МурАд ды-л-бА гь-ауА-м
+60	127	огорчаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.			X-гвы Y-с	*
+60	128	раздражаться	X-gʷə Y-kʷ-ŝaχ + NEG	*	*	*		rasúl j-pha j-gʷə d-g’ə́-kʷ-ŝaχ-wa-m	PN 3SG.M.IO-дочь 3SG.M.IO-сердце 3SG.H.ABS-NEG-LOC-возмещать-IPF-NEG	‘‘Расул раздражается на свою дочь’ (букв. ‘Дочь Расула не умещается в его сердце’).	Not included in the database because X is expressed as an NP-internal modifier.			X-гвы кв-швах+NEG	РасУл й-пхIа й-гвы д-гьЫ-кв-швах-уа-м
+60	129	симпатизировать	gʷapχa	ERG	ABS	TR	TR	b-sə-m-gʷapχá-za-rkʷənə-z b-g’-ʕá-zə-m-g-wa-šə-z-d	2SG.F.ABS-1SG.ERG-NEG-нравиться-PST-COND-PST 2SG.ABS-NEG-CISL-BEN-NEG-нести-IPF-FUT-PST-DCL	‘Если бы ты мне не нравилась, я бы на тебе не женился.’				гвапха	б-сы-м-гвапхА-за-рквыны-з б-гь-гIА-зы-м-г-уа-шы-з-д
+60	130	стесняться	[ĉ-]pχaš’a	ABS	MAL	Y	ABS_MAL	rasúl j-hára d-a-ĉ-pχaš’-ə́j-d	PN 3SG.M.IO-рост 3SG.H.ABS-3SG.N.IO-MAL-стесняться-PRS-DCL	‘Расул стесняется своего роста.’				[чв-]пхаща	РасУл й-хIАра д-а-чв-пхащ-И-д
 81	1	болеть-1	itːa-	GEN	ABS	X	GEN_ABS	aslan.a-n k’il itːa-a	PN-GEN head ache-PRS	‘Aslan has a headache.’	NP in the genitive is arguably a clause-level dependent.	PN-GEN голова болеть-PRS	‘У Аслана болит голова.’		
 81	2	болеть-2	x.u-	DAT	ABS	X	DAT_ABS	aslan.a-s stalǯam x.u-naa	PN-DAT pneumonia become.PF-PRF	‘Aslan has pneumonia.’		PN-DAT пневмония стать.PF-PRF	‘У Аслана пневмония.’		
 81	3	бояться	guč’a-	DAT	POST.ELAT	XY	DAT_POST.ELAT	aslan.a-s χuj.i-q-as guč’a-a	PN-DAT dog-POST-ELAT be.afraid-PRS	‘Aslan is afraid of the dog.’		PN-DAT собака-POST-ELAT бояться-PRS	‘Аслан боится собаки.’		

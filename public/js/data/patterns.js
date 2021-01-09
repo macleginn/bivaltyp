@@ -8837,7 +8837,7 @@ const patternsData = [
     "X (take off) Y",
     "снимать",
     "X (снимать) Y (рубашку)",
-    "LOCs_ABS",
+    "LOCsERG_ABS",
     "TR",
     "TR",
     "TR",
