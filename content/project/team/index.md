@@ -80,7 +80,7 @@ Elena Kordi: {{ language:French }}
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
 Irina Külmoja: {{ language:Estonian }}  
-Olga Kuznecova: {{ language:Guro }}
+Olga Kuznecova: {{ language:Guro }}  
 Olga Kuznecova, Maria Nordrum: {{ language:Norwegian_Bokmal}}  
 Timur Maisak: {{ language:Udi }}  
 Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
