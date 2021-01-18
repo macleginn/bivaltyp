@@ -34,8 +34,8 @@ Table 1. The choice of subject and object person indices in tense and aspect sub
 |--------------------|---------------------------------|-----------------------------------------|
 |     Present        |     S-suffixes (SS.1F etc.)     |     L-suffixes (LS.1SG etc.)            |
 |     Past           |     L-suffixes (LS.1SG etc.)    |     S-suffixes (SS.1F etc.)             |
-|     Progressive    |     copulas (1M etc.)           |     Possessive suffixes (P.1SG etc.)    |
-|     Resultative    |     copulas (1M etc.)           |     Possessive suffixes (P.1SG etc.)    |
+|     Progressive    |     Copulas (1M etc.)           |     Possessive suffixes (P.1SG etc.)    |
+|     Resultative    |     Copulas (1M etc.)           |     Possessive suffixes (P.1SG etc.)    |
 
 The two variants of the transitive construction — with and without object indexing — are in (1) and (2).
 
