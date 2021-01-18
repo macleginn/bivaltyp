@@ -19,10 +19,9 @@ The data were gathered in {{ data_collection_year }} in Urmiya, Krasnodar Krai, 
 - Macro-area: {{ macroarea }}.
 
 "Assyrian Neo-Aramaic" is a conventional label for Northeastern Neo-Aramaic (NENA) varieties spoken by Christians who identify themselves as "Assyrians". Assyrians' homeland is a large area near the borders of modern (Northwestern) Iran, (Northern) Iraq, (Southeastern) Turkey and (Northeastern) Syria, as represented on the [map]{{ map_view }} . Presently, many Assyrians are dispersed around the world, including several communities in the South Caucasus and in the South of Russia.
-The data for this project were gathered from Assyrians living in Urmiya, Krasnodar Krai, Russia. A majority of Assyrians in Urmiya speak the Urmi dialect of NENA, originating from the area near Urmia in modern Iran. Other consultants are descendants of settlers originating from the highlands in the Southeast of modern Turkey. Sentences elicited from the latter group of speakers are marked "Non-Urmi speaker" below. Valency patterns in the Urmi and non-Urmi varieties attested in the village of Urmiya do not exhibit significant differences, but see (Say, in prep.) for details.
+The data for this project were gathered from Assyrians living in Urmiya, Krasnodar Krai, Russia. A majority of Assyrians in Urmiya speak the Urmi dialect of NENA, originating from the area near Urmia in modern Iran. Other consultants are descendants of settlers originating from the highlands in the Southeast of modern Turkey. Sentences elicited from the latter group of speakers are marked "Non-Urmi speaker" below. Valency patterns in the Urmi and non-Urmi varieties attested in the village of Urmiya do not exhibit significant differences, but see (Say, 2020) for details.
 
-> Say, Sergey. In prep. Markirovanie aktantov dvuxmestnyx predikatov
-> v novoaramejskix idiomax sela Urmiya. Acta Linguistica Petropolitana.
+> Say, Sergey. 2020. [Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya](https://alp.iling.spb.ru/static/alp_XVI_2.pdf) [= Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. Acta Linguistica Petropolitana 16(2), 654-689. (in Russian)
 
 ## Grammar notes
 
