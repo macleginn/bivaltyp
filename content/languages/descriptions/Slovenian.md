@@ -54,7 +54,7 @@ Some bivalent predicates expressing physical or emotional states display the Exp
 
 ```
 
-Non-core arguments are flagged by oblique case markers and prepositions. The same preposition can be used with different cases. For instance, for prepositional phrases with pred  ‘in front of’  the choice of the case expresses the distinction between direction (5) and location (6).
+Non-core arguments are flagged by oblique case markers and prepositions. The same preposition can be used with different cases. For instance, for prepositional phrases with *pred*  ‘in front of’  the choice of the case expresses the distinction between direction (5) and location (6).
 
 ```
 
@@ -69,7 +69,7 @@ Non-core arguments are flagged by oblique case markers and prepositions. The sam
 ```
 
 ### Case system
-There are 6 full-fledged cases: nominative, accusative, genitive, dative, locative and instrumental. Instrumental and locative are always used with a preposition.
+There are 6 full-fledged cases: nominative, accusative, genitive, dative, locative, and instrumental. Instrumental and locative are always used with a preposition.
 
 ## Verb lemmas
 Verbs are cited in their infinitive form specified for aspect (perfective or imperfective).
