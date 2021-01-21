@@ -54,7 +54,7 @@ Linear position of indexes is even more important for distinguishing between the
 
 ```
 
-Indexing of non-core arguments is normally associated with applicative preverbs, including benefactive (*z-*), comitative (*c-*), malefactive (*ĉ-*) and a large number of locative preverbs. These indexes always immediately precede their respective preverbs. In (3), the second argument (‘Fatima’) is associated with the benefactive preverb and is indexed in the slot immediately preceding the benefactive preverb (the valency pattern of this verb can be represented as ABS_BEN).
+Indexing of non-core arguments is normally associated with applicative preverbs, including benefactive (<span class="predicate-translation">z-</span>), comitative (<span class="predicate-translation">c-</span>), malefactive (<span class="predicate-translation">ĉ-</span>) and a large number of locative preverbs. These indexes always immediately precede their respective preverbs. In (3), the second argument (‘Fatima’) is associated with the benefactive preverb and is indexed in the slot immediately preceding the benefactive preverb (the valency pattern of this verb can be represented as ABS_BEN).
 
 ```
 
@@ -74,7 +74,7 @@ In some cases, indirect objects are not associated with an overt preverb and can
 
 ```
 
-All locative preverbs are invariably glossed “LOC”, but the actual shape of the specific applicative preverb is indicated (in a simplified form) in the valency pattern label, e.g., the valency pattern of the verb in (5) is represented as “ABS_LOCpca”, because the second argument is associated with the locative preverb *p.č̣a*.
+All locative preverbs are invariably glossed “LOC”, but the actual shape of the specific applicative preverb is indicated (in a simplified form) in the valency pattern label, e.g., the valency pattern of the verb in (5) is represented as “ABS_LOCpca”, because the second argument is associated with the locative preverb <span class="predicate-translation">p.č̣a</span>.
 
 ```
 
