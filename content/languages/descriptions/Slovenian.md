@@ -1,8 +1,8 @@
 # {{ language_external }}
 Contributed by [Mladen Uhlik](https://www.ff.uni-lj.si/en/employees/mladen-uhlik) ([Academia.edu profile](https://uni-lj.academia.edu/MladenUhlik)) and [Andreja Žele](https://isjfr.zrc-sazu.si/sl/sodelavci/andreja-%C5%BEele-sl#v)
 
-![M.U.'s photo]({{ site_url_j }}/images/uhlik.jpg "M.U.'s photo")
-![A.Z.'s photo]({{ site_url_j }}/images/zele.jpg "A.Z.'s photo")
+![M.U.'s photo]({{ site_url_j }}/images/Uhlik.jpg "M.U.'s photo")
+![A.Z.'s photo]({{ site_url_j }}/images/Zele.jpg "A.Z.'s photo")
 
 Mladen Uhlik and Andreja Žele provided the data in 2017 and 2021 in the capacity of native speakers of Slovenian. The Russian version of the questionnaire was used for elicitation.
 
