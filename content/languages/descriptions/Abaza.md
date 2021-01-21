@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by [Peter Arkadiev](https://inslav.ru/people/arkadev-petr-mihaylovich-peter-arkadiev) ([Academia.edu profile](https://https://inslav.academia.edu/PeterArkadiev))
 
-![P.A.'s photo]({{ site_url_j }}/images/arkadiev.jpg "P.A.'s photo")
+![P.A.'s photo]({{ site_url_j }}/images/Arkadiev.jpg "P.A.'s photo")
 
 The data were gathered in {{ data_collection_year }} in the village Inzhich-Chukun of the Abazinsky district of the Karachay-Cherkess Republic. They represent the Tapanta dialect. The Russian version of the questionnaire was used for elicitation.
 
