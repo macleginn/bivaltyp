@@ -144,7 +144,7 @@ a.table-link, a.table-link:visited {
 
 .example-word, .predicate-translation {
     font-family: 'CharisSILW';
-    font-size: 13pt;
+    font-size: 14pt !important;
 }
 
 .example-word, .example-translation {
