@@ -45,7 +45,7 @@ Some bivalent predicates expressing physical or emotional states display the Exp
 ```
 
 (3) Petr-u     se    toži               po  An-i.
-    PN-DAT.SG  RFL   miss:IPFV.PRS.3SG  by  PN-DAT
+    PN-DAT.SG  RFL   miss:IPFV.PRS.3SG  by  PN-LOC
     ‘Peter misses Ana.’
 
 (4) An-o       boli               glav-a.
