@@ -75,4 +75,4 @@ There are 6 full-fledged cases: nominative, accusative, genitive, dative, locati
 Verbs are cited in their infinitive form specified for aspect (perfective or imperfective).
 
 ## Glossing abbreviations
-3 — 3rd person; ACC — accusative; AUX — auxiliary; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; IPFV — imperfective; LOC — locative; LPT — l-participle; M — masculine; N — neutral; NOM — nominative; PFV — pefective; PL — plural; PN — person name; PRS — present; RFL — reflexive; SG — singular.
+3 — 3rd person; ACC — accusative; AUX — auxiliary; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; IPFV — imperfective; LOC — locative; LPT — l-participle; M — masculine; N — neuter; NOM — nominative; PFV — pefective; PL — plural; PN — person name; PRS — present; RFL — reflexive; SG — singular.
