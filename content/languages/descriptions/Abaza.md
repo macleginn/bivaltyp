@@ -54,7 +54,7 @@ Linear position of indexes is even more important for distinguishing between the
 
 ```
 
-Indexing of non-core arguments is normally associated with applicative preverbs, including benefactive (<span class="predicate-translation">z-</span>), comitative (<span class="predicate-translation">c-</span>), malefactive (<span class="predicate-translation">ĉ-</span>) and a large number of locative preverbs. These indexes always immediately precede their respective preverbs. In (3), the second argument (‘Fatima’) is associated with the benefactive preverb and is indexed in the slot immediately preceding the benefactive preverb (the valency pattern of this verb can be represented as ABS_BEN).
+Indexing of non-core arguments is normally associated with applicative preverbs, including benefactive (<span class="predicate-translation">*z-*</span>), comitative (<span class="predicate-translation">*c-*</span>), malefactive (<span class="predicate-translation">*ĉ-*</span>) and a large number of locative preverbs. These indexes always immediately precede their respective preverbs. In (3), the second argument (‘Fatima’) is associated with the benefactive preverb and is indexed in the slot immediately preceding the benefactive preverb (the valency pattern of this verb can be represented as ABS_BEN).
 
 ```
 
