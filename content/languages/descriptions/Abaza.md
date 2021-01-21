@@ -26,6 +26,8 @@ Argument indexing displays the ergative alignment. There are two types of indexe
 
 Table 1. Person/number and gender indexes
 
+<div class="before-table"></div>
+
 |              |     ABS        |     ERG/IO          |
 |--------------|----------------|---------------------|
 |     1SG      |     s(ə)-      |     s(ə)-/z-        |

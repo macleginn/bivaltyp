@@ -356,3 +356,30 @@ div.circle {
 .very-low-ratio {
     background-color: white;
 }
+
+.before-table + table {    
+    border-collapse: collapse;
+    border: 0 !important;;
+}
+
+.before-table + table >* td, th  {
+    border: 0;
+    margin: 0;
+    padding: 5px;
+}
+
+.before-table + table >* th {
+    background-color: white;
+}
+
+.before-table + table >* tr:nth-child(even) {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.before-table + table >* tr:nth-child(odd) {
+    background-color: #ededed;
+    padding: 0;
+    margin: 0;
+}
