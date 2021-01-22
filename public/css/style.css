@@ -5,25 +5,31 @@
     font-family: 'CharisSILW';
     src: url(CharisSIL-R.woff);
   }
-  /* use Charis SIL - Italic in .woff format */
-  @font-face {
+  
+/* use Charis SIL - Italic in .woff format */
+@font-face {
     font-family: 'CharisSILW';
     font-style: italic;
     src: url(CharisSIL-I.woff);
-  }
-  
-  @font-face {
-      font-family: 'CharisSILW';
-      font-weight: bold;
-      src: url(CharisSIL-B.woff);
-  }
-  
-  @font-face {
-      font-family: 'CharisSILW';
-      font-weight: bold;
-      font-style: italic;
-      src: url(CharisSIL-BI.woff);
-  }
+}
+
+@font-face {
+    font-family: 'CharisSILW';
+    font-weight: bold;
+    src: url(CharisSIL-B.woff);
+}
+
+@font-face {
+    font-family: 'CharisSILW';
+    font-weight: bold;
+    font-style: italic;
+    src: url(CharisSIL-BI.woff);
+}
+
+@font-face {
+    font-family: 'SF Mono',
+    src: url(SFMono-Regular.otf);
+}
 
 body {
     font-family: 'Noto Serif', serif;
@@ -31,6 +37,10 @@ body {
     padding: 15px 30px 50px 0;
     background-color: beige;
     margin: 0;
+}
+
+pre, code {
+    font-family: 'SF Mono', monospace;
 }
 
 h1, h2, h3, h4 {
