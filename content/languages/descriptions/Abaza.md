@@ -30,15 +30,15 @@ Table 1. Person/number and gender indexes
 
 |              |     ABS        |     ERG/IO          |
 |--------------|----------------|---------------------|
-|     1SG      |     s(ə)-      |     s(ə)-/z-        |
-|     2SG.M    |     w(ə)-      |     w(ə)-           |
-|     2SG.F    |     b(ə)-      |     b(ə)-/p-        |
-|     3SG.M    |     d(ə)-      |     j(ə)-           |
-|     3SG.F    |     d(ə)-      |     l(ə)-           |
-|     3SG.N    |     j(ə)-/Ø    |     na-/a-          |
-|     1PL      |     h(ə)-      |     h(ə)-/ʕ-        |
-|     2PL      |     ŝ(ə)-      |     ŝ(ə)-/ẑ-        |
-|     3PL      |     j(ə)-/Ø    |     r(ə)-/d(ə)-     |
+|     1SG      |     *s(ə)-*    |     *s(ə)-/z-*      |
+|     2SG.M    |     *w(ə)-*    |     *w(ə)-*         |
+|     2SG.F    |     *b(ə)-*    |     *b(ə)-/p-*      |
+|     3SG.M    |     *d(ə)-*    |     *j(ə)-*         |
+|     3SG.F    |     *d(ə)-*    |     *l(ə)-*         |
+|     3SG.N    |     *j(ə)-/Ø*  |     *na-/a-*        |
+|     1PL      |     *h(ə)-*    |     *h(ə)-/ʕ-*      |
+|     2PL      |     *ŝ(ə)-*    |     *ŝ(ə)-/ẑ-*      |
+|     3PL      |     *j(ə)-/Ø*  |     *r(ə)-/d(ə)-*   |
 
 Linear position of indexes is even more important for distinguishing between the verb’s arguments than the shape of indexes. Absolutive indexes always occupy the leftmost slot in the verb. Ergative indexes, if present, are always the rightmost indexes in the verb. 3PL and non-human 3SG absolutive indexes can be zero-realized (see Table 1) if the relevant argument is expressed as a full noun phrase in the immediately pre-verbal position (the neutral word order is S(O)V). Both (1) and (2) are examples of the basic transitive construction.
 
