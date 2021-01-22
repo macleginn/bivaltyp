@@ -8174,7 +8174,7 @@ const patternsData = [
     "TR",
     "TR",
     "DAT_NOM",
-    "DAT_poDAT",
+    "DAT_poLOC",
     "",
     "TR",
     "TR",
