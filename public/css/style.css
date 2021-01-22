@@ -36,6 +36,21 @@
     src: url(Consolas.woff);
 }
 
+@font-face {
+    font-family: 'Liberation Mono'; 
+    src: url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.eot"); 
+    src: url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.eot?#iefix") 
+         format("embedded-opentype"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.woff2") 
+         format("woff2"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.woff") 
+         format("woff"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.ttf") 
+         format("truetype"), 
+         url("//db.onlinewebfonts.com/t/51b7a96dcc46285ab098bcf7f1038a07.svg#Liberation Mono") 
+         format("svg"); 
+} 
+
 body {
     font-family: 'Noto Serif', serif;
     font-size: 12pt;
@@ -45,7 +60,7 @@ body {
 }
 
 pre, code {
-    font-family: 'SF Mono', 'Consolas', monospace;
+    font-family: 'SF Mono', 'Consolas', 'Liberation Mono', monospace;
 }
 
 h1, h2, h3, h4 {
