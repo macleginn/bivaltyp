@@ -396,6 +396,7 @@ div.circle {
     border: 0;
     margin: 0;
     padding: 5px;
+    font-family: 'CharisSILW';
 }
 
 .before-table + table >* th {
