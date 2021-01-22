@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Peter Arkadiev](https://inslav.ru/people/arkadev-petr-mihaylovich-peter-arkadiev) ([Academia.edu profile](https://https://inslav.academia.edu/PeterArkadiev))
+Contributed by [Peter Arkadiev](https://inslav.ru/people/arkadev-petr-mihaylovich-peter-arkadiev) ([Academia.edu profile](https://inslav.academia.edu/PeterArkadiev))
 
 ![P.A.'s photo]({{ site_url_j }}/images/Arkadiev.jpg "P.A.'s photo")
 
@@ -54,7 +54,7 @@ Linear position of indexes is even more important for distinguishing between the
 
 ```
 
-Indexing of non-core arguments is normally associated with applicative preverbs, including benefactive (*z-*), comitative (*c-*), malefactive (*ĉ-*) and a large number of locative preverbs. These indexes always immediately precede their respective preverbs. In (3), the second argument (‘Fatima’) is associated with the benefactive preverb and is indexed in the slot immediately preceding the benefactive preverb (the valency pattern of this verb can be represented as ABS_BEN).
+Indexing of non-core arguments is normally associated with applicative preverbs, including benefactive (<span class="predicate-translation">*z-*</span>), comitative (<span class="predicate-translation">*c-*</span>), malefactive (<span class="predicate-translation">*ĉ-*</span>) and a large number of locative preverbs. These indexes always immediately precede their respective preverbs. In (3), the second argument (‘Fatima’) is associated with the benefactive preverb and is indexed in the slot immediately preceding the benefactive preverb (the valency pattern of this verb can be represented as ABS_BEN).
 
 ```
 
@@ -74,7 +74,7 @@ In some cases, indirect objects are not associated with an overt preverb and can
 
 ```
 
-All locative preverbs are invariably glossed “LOC”, but the actual shape of the specific applicative preverb is indicated (in a simplified form) in the valency pattern label, e.g., the valency pattern of the verb in (5) is represented as “ABS_LOCpca”, because the second argument is associated with the locative preverb *p.č̣a*.
+All locative preverbs are invariably glossed “LOC”, but the actual shape of the specific applicative preverb is indicated (in a simplified form) in the valency pattern label, e.g., the valency pattern of the verb in (5) is represented as “ABS_LOCpca”, because the second argument is associated with the locative preverb <span class="predicate-translation">*p.č̣a*</span>.
 
 ```
 
@@ -87,10 +87,10 @@ All locative preverbs are invariably glossed “LOC”, but the actual shape of 
 The linear order of verb prefixes, including applicative preverbs and their respective indexes, is fixed.
 
 ### Case system
-There is no grammatical case on nouns. The only nominal dependent marker found in the data is the instrumental *-la*.
+There is no grammatical case on nouns. The only nominal dependent marker found in the data is the instrumental <span class="predicate-translation">*-la*</span>.
 
 ## Verb lemmas
-Verbs are quoted in the form of roots in combination with all preverbs that are relevant for the expression of the relevant lexical meaning. Thus, ‘to know’ from (1) is quoted as *dər*, and ‘to open’ from (2), as *qə-ṭə*. If a certain preverb is used as an applicative marker associated with a slot for indexing one of the two pre-defined arguments (X or Y), this preverb is shown in square brackets, e.g. ‘to think’ from (3) is quoted as *[z-]qʷəc*.
+Verbs are quoted in the form of roots in combination with all preverbs that are relevant for the expression of the relevant lexical meaning. Thus, ‘to know’ from (1) is quoted as <span class="predicate-translation">*dər*</span>, and ‘to open’ from (2), as <span class="predicate-translation">*qə-ṭə*</span>. If a certain preverb is used as an applicative marker associated with a slot for indexing one of the two pre-defined arguments (X or Y), this preverb is shown in square brackets, e.g., ‘to think’ from (3) is quoted as <span class="predicate-translation">*[z-]qʷəc*</span>.
 
 ## Glossing abbreviations
 1, 2, 3 — 1st, 2nd, 3rd person;

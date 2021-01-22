@@ -1,8 +1,8 @@
 # {{ language_external }}
 Contributed by [Mladen Uhlik](https://www.ff.uni-lj.si/en/employees/mladen-uhlik) ([Academia.edu profile](https://uni-lj.academia.edu/MladenUhlik)) and [Andreja Žele](https://isjfr.zrc-sazu.si/sl/sodelavci/andreja-%C5%BEele-sl#v)
 
-![M.U.'s photo]({{ site_url_j }}/images/uhlik.jpg "M.U.'s photo")
-![A.Z.'s photo]({{ site_url_j }}/images/zele.jpg "A.Z.'s photo")
+![M.U.'s photo]({{ site_url_j }}/images/Uhlik.jpg "M.U.'s photo")
+![A.Z.'s photo]({{ site_url_j }}/images/Zele.jpg "A.Z.'s photo")
 
 Mladen Uhlik and Andreja Žele provided the data in 2017 and 2021 in the capacity of native speakers of Slovenian. The Russian version of the questionnaire was used for elicitation.
 
@@ -44,17 +44,17 @@ Some bivalent predicates expressing physical or emotional states display the Exp
 
 ```
 
-(3) Petr-u  se    toži               po     An-i.
-    PN-DAT  REFL  miss:IPFV.PRS.3SG  after  PN-DAT
+(3) Petr-u     se    toži               po  An-i.
+    PN-DAT.SG  RFL   miss:IPFV.PRS.3SG  by  PN-LOC
     ‘Peter misses Ana.’
 
-(4) An-o    boli               glav-a.
-    PN-ACC  ache:IPFV.PRS.3SG  head-NOM.SG
+(4) An-o       boli               glav-a.
+    PN-ACC.SG  ache:IPFV.PRS.3SG  head-NOM.SG
     ‘Ana has a headache.’
 
 ```
 
-Non-core arguments are flagged by oblique case markers and prepositions. The same preposition can be used with different cases. For instance, for prepositional phrases with pred  ‘in front of’  the choice of the case expresses the distinction between direction (5) and location (6).
+Non-core arguments are flagged by oblique case markers and prepositions. The same preposition can be used with different cases. For instance, for prepositional phrases with *pred*  ‘in front of’  the choice of the case expresses the distinction between direction (5) and location (6).
 
 ```
 
@@ -69,10 +69,10 @@ Non-core arguments are flagged by oblique case markers and prepositions. The sam
 ```
 
 ### Case system
-There are 6 full-fledged cases: nominative, accusative, genitive, dative, locative and instrumental. Instrumental and locative are always used with a preposition.
+There are 6 full-fledged cases: nominative, accusative, genitive, dative, locative, and instrumental. Instrumental and locative are always used with a preposition.
 
 ## Verb lemmas
 Verbs are cited in their infinitive form specified for aspect (perfective or imperfective).
 
 ## Glossing abbreviations
-3 — 3rd person; ACC — accusative; AUX — auxiliary; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; IPFV — imperfective; LOC — locative; LPT — L-participle; M — masculine; N — neutral; NOM — nominative; PFV — pefective; PL — plural; PN — person name; PRS — present; RFL — reflexive; SG — singular.
+3 — 3rd person; ACC — accusative; AUX — auxiliary; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; IPFV — imperfective; LOC — locative; LPT — l-participle; M — masculine; N — neuter; NOM — nominative; PFV — pefective; PL — plural; PN — person name; PRS — present; RFL — reflexive; SG — singular.
