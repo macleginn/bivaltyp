@@ -4,7 +4,7 @@
 @font-face {
     font-family: 'CharisSILW';
     src: url(CharisSIL-R.woff);
-  }
+}
   
 /* use Charis SIL - Italic in .woff format */
 @font-face {
@@ -31,6 +31,11 @@
     src: url(SFMono-Regular.otf);
 }
 
+@font-face {
+    font-family: 'Consolas';
+    src: url(Consolas.woff);
+}
+
 body {
     font-family: 'Noto Serif', serif;
     font-size: 12pt;
@@ -40,7 +45,7 @@ body {
 }
 
 pre, code {
-    font-family: 'SF Mono', monospace;
+    font-family: 'SF Mono', 'Consolas', monospace;
 }
 
 h1, h2, h3, h4 {
