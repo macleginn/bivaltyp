@@ -3,7 +3,7 @@ Contributed by [Peter Arkadiev](https://inslav.ru/people/arkadev-petr-mihaylovic
 
 ![P.A.'s photo]({{ site_url_j }}/images/Arkadiev.jpg "P.A.'s photo")
 
-The data were gathered in {{ data_collection_year }} in the village Inzhich-Chukun of the Abazinsky district of the Karachay-Cherkess Republic. They represent the Tapanta dialect. The Russian version of the questionnaire was used for elicitation.
+The data were gathered in {{ data_collection_year }} in the village Inzhich-Chukun of the Abazinsky district of the Karachay-Cherkess Republic. They represent the Tapanta dialect. Different examples come from different native speakers, hence the variation in the shape of some morphemes, in particular, the declarative suffixes <span class="predicate-translation">*-ṭ/-d*</span> and <span class="predicate-translation">*-ṗ/-b*</span>. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Arkadiev, Peter. 2021. Bivalent patterns in {{ language_external}}. 
