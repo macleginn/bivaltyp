@@ -81,7 +81,6 @@ Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
 Irina Külmoja: {{ language:Estonian }}  
 Olga Kuznecova: {{ language:Guro }}  
-Olga Kuznecova, Maria Nordrum: {{ language:Norwegian_Bokmal}}  
 Timur Maisak: {{ language:Udi }}  
 Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
 Anastasia (Leonidovna) Makarova: {{ language:Serbian }}  
@@ -95,6 +94,7 @@ Johanna Nichols: {{ language:Ingush }}
 Dmitry Nikolaev: {{ language:Irish }}, {{ language:Hebrew_Modern }}  
 Dmitry Nikolaev, Johanna Nichols: {{ language:English }}  
 Ajtalina Nogovitsyna: {{ language:Yakut }}  
+Maria Nordrum, Olga Kuznecova: {{ language:Norwegian_Bokmal}}  
 Sofia Oskolskaya: {{ language:Tuvinian }}  
 Maria Ovsjannikova: {{ language:Enets_Forest }}, {{ language:Turkish }}  
 Elena Perekhvalskaja: {{ language:Udihe }}  
