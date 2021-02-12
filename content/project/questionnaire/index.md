@@ -149,7 +149,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
 45. {{ predicate:flatter }}
     (P. tells M. that she is very beautiful.) P. is flattering M.
 
-46. {{ predicate:love1 }}
+46. {{ predicate:love#person# }}
     P. loves M.
 
 47. {{ predicate:wave }}
@@ -245,7 +245,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
 77. {{ predicate:help }}
     (M. didn’t manage to do her homework by herself.) P. helped M.
 
-78. {{ predicate:understand }}
+78. {{ predicate:understand#language# }}
     P. understands French.
 
 79. {{ predicate:hit#target# }}
@@ -368,7 +368,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
 118. {{ predicate:be_surprised }}
     (M. made P. an expensive gift.) P. was surprised at this gift.
 
-119. {{ predicate:love2 }}
+119. {{ predicate:love#tea# }}
     P. loves tea.
 
 120. {{ predicate:enjoy }}
@@ -541,7 +541,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
 45. {{ predicate_rus:flatter }}
     (П. говорит М., что она очень красивая). П. льстит М.
 
-46. {{ predicate_rus:love1 }}
+46. {{ predicate_rus:love#person# }}
     П. любит М.
 
 47. {{ predicate_rus:wave }}
@@ -637,7 +637,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
 77. {{ predicate_rus:help }}
     (М. не могла сама сделать домашнее задание). П. помог М.
 
-78. {{ predicate_rus:understand }}
+78. {{ predicate_rus:understand#language# }}
     П. понимает французский язык.
 
 79. {{ predicate_rus:hit#target# }}
@@ -760,7 +760,7 @@ See the original Russian version of the questionnaire [below](#russian-questionn
 118. {{ predicate_rus:be_surprised }}
     (М. сделала П. дорогой подарок). П. удивился этому подарку.
 
-119. {{ predicate_rus:love2 }}
+119. {{ predicate_rus:love#tea# }}
     П. любит чай.
 
 120. {{ predicate_rus:enjoy }}
