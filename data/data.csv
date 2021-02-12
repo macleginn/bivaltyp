@@ -122,7 +122,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 60	121	хотеть	taqə	IO	ABS	X	IO_ABS	rasúl χabar.rgága–čəc̣ j-taqə́-b	PN announcement–new 3SG.M.IO-want-NPST.DCL	‘Rasul wants a new mobile phone.’		PN объявление–новый 3SG.M.IO-хотеть-NPST.DCL	‘Расул хочет новый мобильник.’	тахъы	РасУл хабаргАга–тшыцI й-такъЫ-б
 60	122	сердиться	[z-]gʷəẑḳə	ABS	BEN	Y	ABS_BEN	á-č’ḳʷən j-aš’á d-jə-z-gʷə́ẑḳ-əj-ṭ	DEF-boy DEF-brother 3SG.H.ABS-3SG.M.IO-BEN-be_angry-PRS-DCL	‘The boy is angry with his brother.’		DEF-парень DEF-брат 3SG.H.ABS-3SG.M.IO-BEN-злиться-PRS-DCL	‘Парень злится на своего брата.’	[з-]гвыжвкIы	А-чкIвын й-ащА д-йы-з-гвЫжвкI-и-тI
 60	123	обижаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained. 	*	*	*	*
-60	124	огорчать	Y-gʷə X-s	*	*	*		murád zaréma l-gʷə d-a-s-t	PN PN 3SG.F.IO-heart 3SG.H.ABS-3SG.N.IO-beat(AOR)-DCL	‘Murad upset Zarema.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN PN 3SG.F.IO-сердце 3SG.H.ABS-3SG.N.IO-бить(AOR)-DCL	‘Мурад огорчил Зарему.’	Y-гвы X-с	МурАд ЗарЕма л-гвы д-а-с-т
+60	124	огорчать	Y-gʷə X-s	*	*	*		murád zaréma l-gʷə d-a-s-ṭ	PN PN 3SG.F.IO-heart 3SG.H.ABS-3SG.N.IO-beat(AOR)-DCL	‘Murad upset Zarema.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN PN 3SG.F.IO-сердце 3SG.H.ABS-3SG.N.IO-бить(AOR)-DCL	‘Мурад огорчил Зарему.’	Y-гвы X-с	МурАд ЗарЕма л-гвы д-а-с-т
 60	125	поражаться	ǯ’a-š’a	ERG	ABS	TR	TR	rasul á-q̇ala χʷábəž-ta j-ǯ’a-j-š’a-d	PN DEF-city strong-ADV 3SG.N.ABS-LOC-3SG.M.ERG-wonder(AOR)-DCL	‘Rasul marvelled at this city.’		PN DEF-город очень-ADV 3SG.N.ABS-LOC-3SG.M.ERG-удивиться(AOR)-DCL	‘Расул поразился этому городу.’	джьа-ща	РасУл А-къала хвАбыж-та й-джьа-й-ща-д
 60	126	презирать	ba g’awam	*	*	*		fatíma murád də-l-bá g’-awá-m	PN PN 3SG.H.ABS-3SG.F.ERG-see NEG-can-NEG	‘Fatima can’t see Murad.’	Not included in the database because this translation is semantically inaccurate.	PN PN 3SG.H.ABS-3SG.F.ERG-видеть NEG-мочь-NEG	‘Фатима не может видеть Мурада.’	ба гьауам	ФатИма МурАд ды-л-бА гь-ауА-м
 60	127	огорчаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	X-гвы Y-с	*
@@ -655,12 +655,12 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	4	бросить	zarak	SBJ	DO	TR	TR	Pinχas zarak even	PN throw[PST.3SG.M] stone	‘Pinchas threw a stone.’					
 83	5	быть достаточно	*	*	*	*		aχʃav jeʃ le Pinχas maspik kesef	now there.is[PRS] to PN enough money	‘Now Pinchas has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
 83	6	быть похожим	dome	SBJ	le	Y	SBJ_le	Pinχas dome le Menaχem	PN similar to PN	‘Pinchas resembles Menachem.’					
-83	7	верить	maamin 	SBJ	le	Y	SBJ_le	Pinχas maamin le Menaχem	PN believe[PTCP.SG.M] to PN	‘Pinchas believes Menachem.’					
+83	7	верить	maamin	SBJ	le	Y	SBJ_le	Pinχas maamin le Menaχem	PN believe[PTCP.SG.M] to PN	‘Pinchas believes Menachem.’					
 83	8	взять	lakaχ	SBJ	DO	TR	TR	Pinχas lakaχ sefer	PN take[PST.3SG.M] book	‘Pinchas took a book.’					
 83	9	видеть	ro-e	SBJ	DO	TR	TR	Pinχas ro-e bajt	PN see[PTCP]-SG.M house	‘Pinchas sees a house.’					
 83	10	влиять	maʃpia	SBJ	al	Y	SBJ_al	gil maʃpia al ha zikaron	age influence[PTCP.SG.M] on DEF memory	‘Age influences memory.’					
-83	11	встречаться	nitkal 	SBJ	be	Y	SBJ_be	Pinχas nitkal be Menaχem	PN bump.into[PST.3SG.M] in PN	‘Pinchas encountered Menachem.’					
-83	12	входить 	niχnas	SBJ	el	Y	SBJ_el	Pinχas niχnas el ha bajt	PN enter[PST.3SG.M] towards DEF house	‘Pinchas entered the house.’					
+83	11	встречаться	nitkal	SBJ	be	Y	SBJ_be	Pinχas nitkal be Menaχem	PN bump.into[PST.3SG.M] in PN	‘Pinchas encountered Menachem.’					
+83	12	входить	niχnas	SBJ	el	Y	SBJ_el	Pinχas niχnas el ha bajt	PN enter[PST.3SG.M] towards DEF house	‘Pinchas entered the house.’					
 83	13	выиграть	nitsaχ	SBJ	DO	TR	TR	Pinχas nitsaχ et Menaχem	PN beat[PST.3SG.M] DO PN	‘Pinchas beat Menachem.’					
 83	14	выходить	jatsa	SBJ	mi	Y	SBJ_mi	Pinχas jatsa me ha bajt	PN exit[PST.3SG.M] from DEF house	‘Pinchas went out of the house.’					
 83	15	гнать	movil	SBJ	DO	TR	TR	Pinχas movil et ha para	PN drive[PTCP.SG.M] DO DEF cow	‘Pinchas is driving the cow.’					
@@ -669,8 +669,8 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	18	держать	maχzik	SBJ	DO	TR	TR	Pinχas maχzik sefer	PN hold[PTCP.SG.M] book	‘Pinchas is holding a book.’					
 83	19	догнать	higia	SBJ	el	Y	SBJ_el	Pinχas higia el Mirjam	PN reach[PST.3SG.M] towards PN	‘Pinchas caught up with Miriam.’					
 83	20	доить	χalav	SBJ	DO	TR	TR	Pinχas χalav et ha para	PN milk[PST.3SG.M] DO DEF cow	‘Pinchas milked the cow.’					
-83	21	достичь	higia 	SBJ	el	Y	SBJ_el	Pinχas higia el ha gada	PN reach[PST.3SG.M] towards DEF bank	‘Pinchas reached the bank.’					
-83	22	дотронуться	naga 	SBJ	be	Y	SBJ_be	Pinχas naga ba kir	PN touch[PST.3SG.M] in+DEF wall	‘Pinchas touched the wall.’					
+83	21	достичь	higia	SBJ	el	Y	SBJ_el	Pinχas higia el ha gada	PN reach[PST.3SG.M] towards DEF bank	‘Pinchas reached the bank.’					
+83	22	дотронуться	naga	SBJ	be	Y	SBJ_be	Pinχas naga ba kir	PN touch[PST.3SG.M] in+DEF wall	‘Pinchas touched the wall.’					
 83	23	драться	rav	SBJ	im	Y	SBJ_im	Pinχas rav im Menaχem	PN fight[PTCP.SG.M] with PN	‘Pinchas is fighting with Menachem.’					
 83	24	дружить	χaver	*	*	*		Pinχas χaver ʃel Menaχem	PN friend POSS PN	‘Pinchas is friends with Menachem.’	Not included in the database because Y is expressed as an NP-internal modifier.				
 83	25	думать	hoʃev	SBJ	al	Y	SBJ_al	Pinχas hoʃev al Menaχem	PN think[PTCP.SG.M] on PN	‘Pinchas is thinking about Menachem.’					
@@ -678,19 +678,19 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	27	жарить	tigen	SBJ	DO	TR	TR	Pinχas tigen et ha dag	PN fry[PST.3SG.M] DO DEF fish	‘Pinchas fried the fish.’					
 83	28	ждать	meχake	SBJ	le	Y	SBJ_le	Pinχas meχake le Menaχem	PN wait[PTCP.SG.M] to PN	‘Pinchas is waiting for Menachem.’					
 83	29	забывать	ʃaχaχ	SBJ	DO	TR	TR	Pinχas ʃaχaχ et ha dereχ ha aχeret	PN forget[PST.3SG.M] DO DEF road DEF other	‘Pinchas forgot (about) the other road.’					
-83	30	зависеть	taluj 	SBJ	be	Y	SBJ_be	zikaron taluj be gil	memory dependent in age	‘Memory depends on age.’					
+83	30	зависеть	taluj	SBJ	be	Y	SBJ_be	zikaron taluj be gil	memory dependent in age	‘Memory depends on age.’					
 83	31	звать	hitkaʃer	SBJ	le	Y	SBJ_le	Pinχas hitkaʃer le Menaχem	PN call[PST.3SG.M] to PN	‘Pinchas called Menachem.’					
 83	32	знакомиться	hikir	SBJ	DO	TR	TR	Pinχas hikir et Menaχem lifnej ʃaa	PN know[PST.3SG.M] DO PN ago year	‘Pinchas got to know Menachem a year ago.’					
-83	33	знать 	makir	SBJ	DO	TR	TR	Pinχas makir et Menaχem	PN know[PTCP.SG.M] DO PN	‘Pinchas knows Menachem.’					
+83	33	знать	makir	SBJ	DO	TR	TR	Pinχas makir et Menaχem	PN know[PTCP.SG.M] DO PN	‘Pinchas knows Menachem.’					
 83	34	играть	menagen	SBJ	be	Y	SBJ_be	Pinχas menagen ba gitara	PN play[PTCP.SG.M] in+DEF guitar	‘Pinchas is playing the guitar.’					
 83	35	избегать	mitχamek	SBJ	mi	Y	SBJ_mi	Pinχas mitχamek mi Menaχem	PN avoid[PTCP.SG.M] from PN	‘Pinchas avoids Menachem.’					
 83	36	изготовить	heχin	SBJ	DO	TR	TR	Pinχas heχin malkodet aχbar-im	PN prepare[PST.3SG.M] trap mouse-PL	‘Pinchas made a mousetrap.’					
 83	37	издеваться	maknit	SBJ	DO	TR	TR	Pinχas maknit et Menaχem	PN tease[PTCP.SG.M] DO PN	‘Pinchas is making fun of Menachem.’					
-83	38	иметь	jeʃ 	le	SBJ	X	le_SBJ	jeʃ le Pinχas meχona	there.is[PRS] to PN car	‘Pinchas has a car.’					
+83	38	иметь	jeʃ	le	SBJ	X	le_SBJ	jeʃ le Pinχas meχona	there.is[PRS] to PN car	‘Pinchas has a car.’					
 83	39	искать	meχapes	SBJ	DO	TR	TR	Pinχas meχapes et ha maftex-ot ʃel-o	PN search[PTCP.SG.M] DO DEF key-PL POSS-3SG.M	‘Pinchas is looking for his keys.’					
 83	40	красить	tsava	SBJ	DO	TR	TR	Pinχas tsava et ha gader	PN paint[PST.3SG.M] DO DEF fence	‘Pinchas painted the fence.’					
-83	41	кусать	naʃaχ 	SBJ	DO	TR	TR	kelev naʃaχ et Pinχas	dog bite[PST.3SG.M] DO PN	‘A dog bit Pinchas.’					
-83	42	лишаться	ibed	SBJ	DO	TR	TR	Pinχas ibed et ha bajt ʃel-o	PN lose[PST.3SG.M] DO DEF house POSS-3SG.M	‘Pinchas lost hist house.’					
+83	41	кусать	naʃaχ	SBJ	DO	TR	TR	kelev naʃaχ et Pinχas	dog bite[PST.3SG.M] DO PN	‘A dog bit Pinchas.’					
+83	42	лишаться	ibed	SBJ	DO	TR	TR	Pinχas ibed et ha bajt ʃel-o	PN lose[PST.3SG.M] DO DEF house POSS-3SG.M	‘Pinchas lost his house.’					
 83	43	ловить	menas-e litpos	SBJ	DO	TR	TR	Pinχas menas-e litpos et ha χatul	PN try[PTCP]-SG.M catch[INF] DO DEF cat	‘Pinchas is trying to catch the cat.’					
 83	44	ломать	ʃavar	SBJ	DO	TR	TR	Pinχas ʃavar makel	PN break[PST.3SG.M] stick	‘Pinchas broke a stick.’					
 83	45	льстить	maχmi	SBJ	le	Y	SBJ_le	Pinχas maχmi le Menaχem	PN flatter[PTCP.SG.M] to PN	‘Pinchas is flattering Menachem.’					
@@ -699,7 +699,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	48	мечтать	χolem	SBJ	al	Y	SBJ_al	Pinχas χolem al meχonit χadaʃa	PN dream[PTCP.SG.M] on car new	‘Pinchas is dreaming of a new car.’					
 83	49	мыть	ʃataf	SBJ	DO	TR	TR	Pinχas ʃataf et ha kos	PN wash[PST.3SG.M] DO DEF cup	‘Pinchas washed the cup.’					
 83	50	надевать	lavaʃ	SBJ	DO	TR	TR	Pinχas lavaʃ et miχnasa-v	PN put.on[PST.3SG.M] DO trousers-POSS.3SG.M.PL	‘Pinchas put on his trousers.’					
-83	51	называться	kor-im 	le	DO	X	le_DO	le kli ha z-e kor-im matspen	to instrument DEF this[SG]-M call-PL compass	‘This instrument is called a compass.’					
+83	51	называться	kor-im	le	DO	X	le_DO	le kli ha z-e kor-im matspen	to instrument DEF this[SG]-M call-PL compass	‘This instrument is called a compass.’					
 83	52	наказывать	heenish	SBJ	DO	TR	TR	Pinχas heenish et ha ben ʃel-o	PN punish[PST.3SG.M] DO DEF son POSS-3SG.M	‘Pinchas punished his son.’					
 83	53	напасть	takaf	SBJ	DO	TR	TR	dav takaf dajag	bear attack[PST.3SG.M] fisherman	‘A bear attacked a fisherman.’					
 83	54	наполняться	hitmale	SBJ	be	Y	SBJ_be	ha dli hitmale be maim	DEF bucket fill[PST.3SG.M] in water	‘The bucket filled with water.’					
@@ -740,7 +740,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	89	следовать	okev	SBJ	axarej	Y	SBJ_axarej	Pinχas okev aχarej Menaχem	PN follow[PTCP.SG.M] after PN	‘Pinchas follows Menachem.’					
 83	90	слезать	jarad	SBJ	mi	Y	SBJ_mi	Pinχas jarad me ha sus	PN descend[PST.3SG.M] from DEF horse	‘Pinchas got down from the horse.’					
 83	91	слушать	makʃiv	SBJ	le	Y	SBJ_le	Pinχas makʃiv le radio	PN listen[PTCP.SG.M] to radio	‘Pinchas is listening to radio.’					
-83	92	слушаться	makʃiv 	SBJ	le	Y	SBJ_le	Pinχas tamid makʃiv le ima ʃel-o	PN always listen[PTCP.SG.M] to mother POSS-3SG.M	‘Pinchas always listens to his mother.’					
+83	92	слушаться	makʃiv	SBJ	le	Y	SBJ_le	Pinχas tamid makʃiv le ima ʃel-o	PN always listen[PTCP.SG.M] to mother POSS-3SG.M	‘Pinchas always listens to his mother.’					
 83	93	слышать	shomea	SBJ	DO	TR	TR	Pinχas shomea et ha muzika	PN hear[PTCP.SG.M] DO DEF music	‘Pinchas hears the music.’					
 83	94	смешаться	hitarbev	SBJ	im	Y	SBJ_im	ha dvaʃ hitarbev im ha χalav	DEF honey get.mixed[PST.3SG.M] with DEF milk	‘The honey got mixed with milk.’					
 83	95	смотреть	mistakel	SBJ	al	Y	SBJ_al	Pinχas mistakel al ha anan-im	PN look[PTCP.SG.M] on DEF cloud-PL	‘Pinchas is looking at the clouds.’					
@@ -772,13 +772,143 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	121	хотеть	rots-e	SBJ	DO	TR	TR	Pinχas rots-e telefon najad χadaʃ	PN want[PTCP.SG]-M phone mobile new	‘Pinchas wants a new mobile phone.’					
 83	122	сердиться	noter tina	SBJ	le	Y	SBJ_le	Pinχas noter tina le Menaχem	PN guard[PTCP.SG.M] malice to PN	‘Pinchas holds a grudge against Menachem.’					
 83	123	обижаться	nifga	SBJ	mi	Y	SBJ_mi	Pinχas nifga mi Menaχem	PN be.offended[PST.3SG.M] from PN	‘Pinchas took offence at Menachem.’					
-83	124	огорчать	hirgiz 	SBJ	DO	TR	TR	Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much DO PN	‘Pinchas greatly upset Miriam.’					
+83	124	огорчать	hirgiz	SBJ	DO	TR	TR	Pinχas hirgiz meod et Mirjam	PN upset[PST.3SG.M] much DO PN	‘Pinchas greatly upset Miriam.’					
 83	125	поражаться	hitraʃem	SBJ	mi	Y	SBJ_mi	Pinχas hitraʃem me ha ir ha z-o	PN be.impressed[PST.3SG.M] from DEF town DEF this-SG.F	‘Pinchas was impressed by this town.’					
 83	126	презирать	metaev	SBJ	DO	TR	TR	Pinχas metaev et Menaχem	PN despise[PTCP.SG.M] DO PN	‘Pinchas despises Menachem.’					
 83	127	огорчаться	hitatsben	SBJ	al	Y	SBJ_al	Pinχas hitatsben al ha ben ʃel-o	PN become.annoyed[PST.3SG.M] on DEF son POSS-3SG.M	‘Pinchas got upset with his son.’					
 83	128	раздражаться	mitatsben	SBJ	al	Y	SBJ_al	Pinχas mitatsben al ha bat ʃel-o	Pinχas become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M	‘Pinchas is getting irritated with his daughter.’					
 83	129	симпатизировать	meχabev	SBJ	DO	TR	TR	Pinχas meχabev et Menaχem	PN like[PTCP.SG.M] DO PN	‘Pinchas is fond of Menachem.’					
 83	130	стесняться	mitbajeʃ	SBJ	be	Y	SBJ_be	Pinχas mitbajeʃ ba gova ʃel-o	PN be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M	‘Pinchas is embarrased about his height.’					
+38	1	болеть-1	å ha vondt	SBJ	i	Y	SBJ_i	Per ha-r vond-t i hod-et	PN have-PRS bad-N.SG in head-DEF.N.SG	‘Per has a headache.’			‘У Пера болит голова.’		
+38	2	болеть-2	å ha	SBJ	DO	TR	TR	Per ha-r influensa	PN have-PRS flu	‘Per has the flu.’			‘Пер болеет гриппом.’		
+38	3	бояться	å være redd	SBJ	for	Y	SBJ_for	Per er redd for hund-en	PN be.PRS afraid for dog-DEF.M.SG	‘Per is afraid of the dog.’	Non-verbal predicate.		‘Пер боится собаки.’		
+38	4	бросить	å kaste	SBJ	DO	TR	TR	Per kaste-t stein-en først	PN throw-PST stone-DEF.M.SG first	‘Per threw the stone first.’			‘Пер бросил камень первым.’		
+38	5	быть достаточно	å ha nok	*	*	*		nå ha-r Per nok peng-er	now have-PRS PN enough money-PL	‘Now Per has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).		‘Теперь Перу хватает денег.’		
+38	6	быть похожим	å ligne	SBJ	pa	Y	SBJ_pa	Per ligne-r på Ola	PN resemble-PRS on PN	‘Per resembles Ola.’			‘Пер похож на Улу.’		
+38	7	верить	å tro	SBJ	DO	TR	TR	Per tro-r Ola	PN believe-PRS PN	‘Per believes Ola.’			‘Пер верит Уле.’		
+38	8	взять	å ta	SBJ	DO	TR	TR	Per tok ei bok fra hyll-a	PN take.PST INDF.F.SG book from shelf-DEF.F.SG	‘Per took a book from the shelf.’			‘Пер взял книгу с полки.’		
+38	9	видеть	å se	SBJ	DO	TR	TR	Per se-r et hus	PN see-PRS INDF.N.SH house	‘Per sees a house.’			‘Пер видит дом.’		
+38	10	влиять	å påvirke	SBJ	DO	TR	TR	alder-en påvirke-r hukommels-en	age-DEF.M.SG influence-PRS memory-DEF.M.SG	‘Age influences memory.’			‘Возраст влияет на память.’		
+38	11	встречаться	å møte	SBJ	DO	TR	TR	Per møt-te Ola	PN meet-PST PN	‘Per encountered Ola.’			‘Пер встретился с Улой.’		
+38	12	входить 	å gå inn	SBJ	i	Y	SBJ_i	Per gikk inn i hus-et	PN go.PST inside in house-DEF.N.SG	‘Per entered the house.’			‘Пер вошел в дом.’		
+38	13	выиграть	å vinne	SBJ	over	Y	SBJ_over	Per vant over Ola	PN win.PST over PN	‘Per beat Ola.’			‘Пер выиграл у Улы.’		
+38	14	выходить	å gå ut	SBJ	av	Y	SBJ_av	Per gikk ut av hus-et	PN go.PST out of house-DEF.N.SG	‘Per went out of the house.’			‘Пер вышел из дома.’		
+38	15	гнать	å jage	SBJ	DO	TR	TR	Per jage-r ku-a på beite	PN drive-PRS cow-DEF.F.SG on pasture	‘Per is driving the cow to the pasture.’			‘Пер гонит корову на пастбище.’		
+38	16	гнуть	å bøye	SBJ	DO	TR	TR	Per bøy-de gren-en	PN bend-PST branch-DEF.M.SG	‘Per bent the branch.’			‘Пер согнул ветку.’		
+38	17	говорить	å si	SBJ	til	Y	SBJ_til	«kom på besøk» sa Per til Ola	«come.IMP on visit» say.PST PN to PN	"‘Per told Ola: ""come and visit"".’"			"‘Пер сказал Уле: ""Приходи ко мне в гости"".’"		
+38	18	держать	å holde	SBJ	DO	TR	TR	Per holde-r ei bok i hend-ene	PN hold-PRS INDF.F.SG book in hand-DEF.PL	‘Per is holding a book in his hands.’			‘Пер держит книгу в руках.’		
+38	19	догнать	å ta igjen	SBJ	DO	TR	TR	Per tok Kari igjen	PN take.PST PN again	‘Per caught up with Kari.’			‘Пер догнал Кари.’		
+38	20	доить	å melke	SBJ	DO	TR	TR	Per melke-t ku-a	PN milk.PST cow-DEF.F.SG	‘Per milked the cow.’			‘Пер подоил корову.’		
+38	21	достичь	å nå	SBJ	DO	TR	TR	Per nådde bredd-en	PN reach.PST bank-DEF.M.SG	‘Per reached the bank.’			‘Пер достиг берега.’		
+38	22	дотронуться	å ta	SBJ	pa	Y	SBJ_pa	Per tok på vegg-en og ble flekkete	PN take.PST on wall-DEF.M.SG and become.PST dirty	‘Per touched the wall and got dirty.’			‘Пер дотронулся до стены и испачкался.’		
+38	23	драться	å slåss	SBJ	med	Y	SBJ_med	Per slåss med Ola	PN fight.PRS with PN	‘Per is fighting with Ola.’			‘Пер дерется с Улой.’		
+38	24	дружить	å være venn	SBJ	med	Y	SBJ_med	Per er venn med Ola	PN be.PRS friend with PN	‘Per is friends with Ola.’	Non-verbal predicate.		‘Пер дружит с Улой.’		
+38	25	думать	å tenke	SBJ	pa	Y	SBJ_pa	Per tenke-r på Kari	PN think-PRS on PN	‘Per is thinking about Kari.’			‘Петя думает о Кари.’		
+38	26	есть	å spise	SBJ	DO	TR	TR	Per spis-te et eple	PN eat-PST INDF.N.SG apple	‘Per ate an apple.’			‘Пер съел яблоко.’		
+38	27	жарить	å steke	SBJ	DO	TR	TR	Per stek-te fisk-en	PN fry-PST fish-DEF.M.SG	‘Per fried the fish.’			‘Пер пожарил рыбу.’		
+38	28	ждать	å vente	SBJ	pa	Y	SBJ_pa	Per vente-r på Ola	PN wait-PRS on PN	‘Per is waiting for Ola.’			‘Пер ждет Улу.’		
+38	29	забывать	å glemme	SBJ	DO	TR	TR	Per hadde glem-te snarvei-en	PN have.PST forget-PTCP shortcut-DEF.M.SG	‘Per forgot about the shortcut.’			‘Пер забыл о короткой дороге.’		
+38	30	зависеть	å avhenge	SBJ	av	Y	SBJ_av	hukommels-en avhenge-r av alder-en	memory-DEF.M.SG depend-PRS of age-DEF.M.SG	‘Memory depends on age.’			‘Память зависит от возраста.’		
+38	31	звать	å rope	SBJ	pa	Y	SBJ_pa	Per rop-te på Ola	PN call-PST on PN	‘Per called Ola.’			‘Пер позвал Улу.’		
+38	32	знакомиться	å bli kjent	SBJ	med	Y	SBJ_med	Per ble kjent med Ola for et år siden	PN become.PST acquainted with PN for INDF.N.SG year since	‘Per got to know Ola a year ago.’	Non-verbal predicate.		‘Пер познакомился с Улой год тому назад.’		
+38	33	знать 	å kjenne	SBJ	DO	TR	TR	Per kjenne-r Ola	PN know-PRS PN	‘Per knows Ola.’			‘Пер знает Улу.’		
+38	34	играть	å spille	SBJ	DO	TR	TR	Per spille-r gitar	PN play-PRS guitar	‘Per is playing the guitar.’			‘Пер играет на гитаре.’		
+38	35	избегать	å unngå	SBJ	DO	TR	TR	Per unngå-r Ola	PN avoid-PRS PN	‘Per avoids Ola.’			‘Пер избегает Улу.’		
+38	36	изготовить	å lage	SBJ	DO	TR	TR	Per lage-t en musefelle	PN make-PST INDF.M.SG mousetrap	‘Per made a mousetrap.’			‘Пер изготовил мышеловку.’		
+38	37	издеваться	å gjøre narr	SBJ	av	Y	SBJ_av	nå gjø-r Per narr av Ola	now make-PRS PN fool of PN	‘Now Per is making fun of Ola.’			‘Теперь Пер издевается над Улой.’		
+38	38	иметь	å ha	SBJ	DO	TR	TR	Per ha-r bil	PN have-PRS car	‘Per has a car.’			‘У Пети есть машина.’		
+38	39	искать	å lete	SBJ	etter	Y	SBJ_etter	Per lete-r etter nøkl-ene	PN seek-PRS behind key-DEF.PL	‘Per is looking for his keys.’			‘Пер ищет ключи.’		
+38	40	красить	å male	SBJ	DO	TR	TR	Per mal-te gjerd-et	PN paint-PST fence-DEF.N.SG	‘Per painted the fence.’			‘Пер покрасил забор.’		
+38	41	кусать	å bite	SBJ	DO	TR	TR	hund-en bet Per	dog-DEF.M.SG bite.PST PN	‘The dog bit Per.’			‘Собака укусила Пера.’		
+38	42	лишаться	å miste	SBJ	DO	TR	TR	Per miste-t hus-et sitt	PN lose-PST house-DEF.N.SG POSS.REFL.N.SG	‘Per lost his house.’			‘Пер лишился дома.’		
+38	43	ловить	å prøve å fange	SBJ	DO	TR	TR	Per prøve-r å fange katt-en	PN try-PRS INF catch cat-DEF.M.SG	‘Per is trying to catch the cat.’			‘Пер ловит кошку.’		
+38	44	ломать	å ødelegge	SBJ	DO	TR	TR	Per ødela stokk-en	PN break.PST stick-DEF.M.SG	‘Per broke a stick.’			‘Пер сломал палку.’		
+38	45	льстить	å smigre	SBJ	DO	TR	TR	Per smigre-r Kari	PN flatter-PRS PN	‘Per is flattering Kari.’			‘Пер льстит Кари.’		
+38	46	любить-1	å elske	SBJ	DO	TR	TR	Per elske-r Kari	PN love-PRS PN	‘Per loves Kari.’			‘Пер любит Машу.’		
+38	47	махать	å vifte	SBJ	med	Y	SBJ_med	Per vifte-r med tørkle	PN wave-PRS with handkerchief	‘Per is waving a handkerchief.’			‘Пер машет платком.’		
+38	48	мечтать	å drømme	SBJ	om	Y	SBJ_om	Per drømme-r om en ny bil	PN dream-PRS about INDF.M.SG new car	‘Per is dreaming of a new car.’			‘Пер мечтает о новой машине.’		
+38	49	мыть	å vaske	SBJ	DO	TR	TR	Per vaske-t kopp-en	PN wash-PST cup-DEF.M.SG	‘Per washed the cup.’			‘Пер вымыл чашку.’		
+38	50	надевать	å ta på seg	SBJ	DO	TR	TR	Per tok på seg buks-ene	PN take.PST on REFL trousers-DEF.PL	‘Per put on his trousers.’			‘Пер надел штаны.’		
+38	51	называться	å kalles	SBJ	DO	TR	TR	denne gjenstand-en kalle-s et kompas	this.M.SG object-DEF.M.SG call-PASS.PRS INDF.N.SG compass	‘This object is called a compass.’			‘Этот предмет называется компас.’		
+38	52	наказывать	å straffe	SBJ	DO	TR	TR	Per straffe-t sønn-en sin	PN punish-PST son-DEF.M.SG POSS.REFL.M.SG	‘Per punished his son.’			‘Пер наказал своего сына.’		
+38	53	напасть	å angripe	SBJ	DO	TR	TR	bjørn-en angrep fisker-en	bear-DEF.M.SG attack.PST fisherman-DEF.M.SG	‘The bear attacked the fisherman.’			‘Медведь напал на рыбака.’		
+38	54	наполняться	å bli full	SBJ	av	Y	SBJ_av	bøtt-en var blitt full av vann	bucket-DEF.M.SG be.PST become.PTCP full of water	‘The bucket filled with water.’	Non-verbal predicate.		‘Ведро наполнилось водой.’		
+38	55	находить	å finne	SBJ	DO	TR	TR	Per fant nøkl-ene	PN find.PST key-DEF.PL	‘Per found his keys.’			‘Пер нашел ключи.’		
+38	56	недоставать	å mangle	SBJ	DO	TR	TR	Per mangle-r en dollar	PN lack-PRS one.M dollar	‘Per is one dollar short.’			‘Пете недостает одного доллара.’		
+38	57	ненавидеть	å hate	SBJ	DO	TR	TR	Per hate-r Ola	PN hate-PRS PN	‘Per hates Ola.’			‘Пер ненавидит Улу.’		
+38	58	нравиться	å like	SBJ	DO	TR	TR	Per like-r den skjort-a	PN like-PRS DET.F.SG shirt-DEF.F.SG	‘Per likes this shirt.’			‘Перу нравится эта рубашка.’		
+38	59	нуждаться	å trenge	SBJ	DO	TR	TR	nå trenge-r Per peng-er	now need-PRS PN money-PL	‘Now Per needs money.’			‘Теперь Перу нужны деньги.’		
+38	60	окружать	å være omgitt	av	SBJ	X	av_SBJ	by-en er omgitt av mur-er	town-DEF.M.SG be.PRS surround.PTCP of wall-PL	‘Walls surround the city.’	Non-verbal predicate (passive).		‘Стены окружают город.’		
+38	61	оставаться	å ha igjen	SBJ	DO	TR	TR	nå ha-r Per 10 dollar igjen	now have-PRS PN 10 dollar again	‘Per has ten dollars left.’			‘Теперь у Пера осталось 10 долларов.’		
+38	62	отвечать	å svare	SBJ	DO	TR	TR	Per svar-te lærer-en	PN answer-PST lærer-DEF.M.SG	‘Per answered the teacher.’			‘Пер ответил учителю.’		
+38	63	открывать	å åpne	SBJ	DO	TR	TR	Per åpne-t boks-en	PN open-PST can-DEF.M.SG	‘Per opened a can.’			‘Пер открыл банку.’		
+38	64	отличаться	å være annerledes	SBJ	enn	Y	SBJ_enn	min skjorte er annerledes enn din	my.F.SG shirt be.PRS different than your.F.SG	‘My shirt is different from yours.’	Non-verbal predicate.		‘Моя рубашка отличается от твоей.’		
+38	65	отстать	å ligge etter	SBJ	DO	TR	TR	Per lå etter Ola	PN lie.PST behind PN	‘Per fell behind Ola.’			‘Пер отстал от Улы.’		
+38	66	пахать	å pløye	SBJ	DO	TR	TR	Per pløye-r jord-et	PN plough-PRS earth-DEF.N.SG	‘Per is ploughing the field.’			‘Пер пашет поле.’		
+38	67	пахнуть	å lukte	SBJ	DO	TR	TR	hend-ene mine lukte-r bensin	nand-DEF.PL my.PL smell-PRS gasoline	‘My hands smell of gasoline.’			‘Мои руки пахнут бензином.’		
+38	68	пересечь	å krysse	SBJ	DO	TR	TR	Per krysse-t vei-en	PN cross-PST way-DEF.M.SG	‘Per crossed the road.’			‘Пер пересек дорогу.’		
+38	69	петь	å synge	SBJ	DO	TR	TR	Per sang en vakker sang	PN sing.PST INDF.M.SG beautiful song	‘Per sang a beautiful song.’			‘Пер спел красивую песню.’		
+38	70	писать	å skrive	SBJ	DO	TR	TR	Per skrev et brev	PN write.PST INDF.N.SG letter	‘Per wrote a letter.’			‘Пер написал письмо.’		
+38	71	пить	å drikke opp	SBJ	DO	TR	TR	Per drakk melk-en opp	PN drink.PST milk-DEF.M.SG up	‘Per drank the milk.’			‘Пер выпил молоко.’		
+38	72	плавить	å smelte	SBJ	DO	TR	TR	Per smelte-t en bit bly	PN melt-PST INDF.M.SG piece lead	‘Per melted a piece of lead.’			‘Пер расплавил кусок свинца.’		
+38	73	подходить	å passe	SBJ	til	Y	SBJ_til	dette belt-et passe-r til kjol-en min	this.N.SG belt-DEF.N.SG pass-PRS to dress-DEF.M.SG my.M.SG	‘This belt goes well with my dress.’			‘Этот пояс подходит к моему платью.’		
+38	74	покидать	å forlate	SBJ	DO	TR	TR	Per forlot hjemby-en	PN leave.PST home_town-DEF.M.SG	‘Per left his native city.’			‘Пер покинул родной город.’		
+38	75	покрывать	å dekke	SBJ	DO	TR	TR	tepp-et dekke-r hele gulv-et	carpet-DEF.N.SG cover-PRS whole floor-DEF.N.SG	‘The carpet covers the whole floor.’			‘Ковер покрывает весь пол.’		
+38	76	помнить	å huske	SBJ	DO	TR	TR	Per huske-r godt hus-et hvor han voks-te opp	PN remember-PRS well house-DEF.N.SG where he grow-PST up	‘Per remembers the house where he grew up well.’			‘Пер хорошо помнит дом, в котором вырос.’		
+38	77	помочь	å hjelpe	SBJ	DO	TR	TR	Per hjalp Ola	PN help.PST PN	‘Per helped Ola.’			‘Пер помог Мише.’		
+38	78	понимать	å forstå	SBJ	DO	TR	TR	Per forstå-r fransk	PN understand-PRS French	‘Per understands French.’			‘Пер понимает французский язык.’		
+38	79	попасть	å treffe	SBJ	DO	TR	TR	lyn-et traff hus-et	lightning-DEF.N.SG hit.PST house-DEF.N.SG	‘Lightning struck the house.’			‘Молния попала в дом.’		
+38	80	порезаться	å skjære seg	SBJ	med	Y	SBJ_med	Per skjær-te seg med barberkniv-en	PN cut-PST REFL with razor-DEF.M.SG	‘Per cut himself with a razor.’			‘Пер порезался бритвой.’		
+38	81	прилипать	å klistre seg fast	SBJ	til	Y	SBJ_til	glass-et klistre-t seg fast til bord-et	glass-DEF.N.SG glue-PST REFL fixed to table-DEF.N.SG	‘The glass got stuck to the table.’			‘Стакан прилип к столу.’		
+38	82	проиграть	å tape	SBJ	mot	Y	SBJ_mot	Per tap-te mot Ola	PN lose-PST towards PN	‘Per lost to Ola.’			‘Пер проиграл Уле.’		
+38	83	радоваться	å bli glad	SBJ	for	Y	SBJ_for	Per ble glad for brev-et	PN become.PST glad for letter-DEF.N.SG	‘Per was glad about the letter.’	Non-verbal predicate.		‘Пер обрадовался письму.’		
+38	84	разговаривать	å snakke	SBJ	med	Y	SBJ_med	Per snakke-t med Ola	PN speak-PST with PN	‘Per is speaking with Ola.’			‘Пер разговаривает с Ула.’		
+38	85	рожать	å føde	SBJ	DO	TR	TR	Kari fød-te en sønn	PN give_birth-PST INDF.M.SG son	‘Kari gave birth to a son.’			‘Кари родила сына.’		
+38	86	ронять	å miste	SBJ	DO	TR	TR	Per miste-t glass-et i gulv-et	PN lose-PST glass-DEF.N.SG in floor-DEF.N.SG	‘Per dropped the glass.’			‘Пер уронил стакан.’		
+38	87	руководить	å lede	SBJ	DO	TR	TR	Per lede-r bygd-a vår	PN lead-PRS village-DEF.F.SG our	‘Per runs our town.’			‘Пер руководит нашим поселком.’		
+38	88	скучать	å savne	SBJ	DO	TR	TR	Per savne-r Kari	PN miss-PRS PN	‘Per misses Kari.’			‘Пер скучает по Кари.’		
+38	89	следовать	å følge etter	SBJ	DO	TR	TR	Per følge-r etter Ola	PN follow-PRS behind PN	‘Per follows Kari.’			‘Пер следует за Улой.’		
+38	90	слезать	å stige av	SBJ	DO	TR	TR	Per steg av hest-en	PN rise of horse-DEF.M.SG	‘Per got down from the horse.’			‘Пер слез с лошади.’		
+38	91	слушать	å lytte	SBJ	til	Y	SBJ_til	Per lytte-r til radio-en	PN listen-PRS to radio-DEF.M.SG	‘Per is listening to radio.’			‘Пер слушает радио.’		
+38	92	слушаться	å adlyde	SBJ	DO	TR	TR	Per adlyde-r mamma-en sin	PN obey-PRS DEF.F.SG POSS.REFL.F.SG	‘Per always listens to his mother.’			‘Пер слушается маму.’		
+38	93	слышать	å høre	SBJ	DO	TR	TR	Per høre-r musikk	PN hear-PRS music	‘Per hears the music.’			‘Пер слышит музыку.’		
+38	94	смешаться	å blande seg	SBJ	med	Y	SBJ_med	honning-en blande-t seg med melk-en	honey-DEF.M.SG mix-PST REFL with milk-DEF.M.SG	‘The honey got mixed with milk.’			‘Мед смешался с молоком.’		
+38	95	смотреть	å se	SBJ	pa	Y	SBJ_pa	Per se-r på de mørke sky-ene	PN see-PST on DET.PL dark.PL cloud-DEF.PL	‘Per is looking at the clouds.’			‘Пер смотрит на тучи.’		
+38	96	снимать	å ta av seg	SBJ	DO	TR	TR	Per tok av seg skjort-a	PN take.PST of REFL shirt-DEF.F.SG	‘Per took off his shirt.’			‘Пер снял рубашку.’		
+38	97	сниться	å drømme	SBJ	om	Y	SBJ_om	Per drømme-r om Kari	PN dream about PN	‘Per dreams about Kari.’			‘Пете снится Кари.’		
+38	98	соглашаться	å være enig	SBJ	med	Y	SBJ_med	Per var enig med Kari	PN be.PST unanimous with PN	‘Per agreed with Kari.’	Non-verbal predicate.		‘Пер согласился с Кари.’		
+38	99	ссориться	å krangle	SBJ	med	Y	SBJ_med	Per krangle-t med Kari	PN quarrel-PST with PN	‘Per had a quarrel with Kari.’			‘Пер поссорился с Кари.’		
+38	100	стоить	å koste	SBJ	DO	TR	TR	denne kopp-en koste-r en dollar	this.M.SG cup-DEF.M.SG cost-PRS one.M dollar	‘This cup costs one dollar.’			‘Эта чашка стоит один доллар.’		
+38	101	стрелять	å skyte	SBJ	mot	Y	SBJ_mot	Per skjøt mot en fugl	PN shoot.PST towards INDF.M.SG bird	‘Per shot at the bird.’			‘Пер выстрелил в птицу.’		
+38	102	сыпать	å strø	SBJ	DO	TR	TR	Per strød-de sukker i kopp-en	PN pour-PST sugar in cup-DEF.M.SG	‘Per poured the sugar into the cup.’			‘Пер насыпал сахар в чашку.’		
+38	103	терять	å miste	SBJ	DO	TR	TR	Per miste-t nøkl-ene	PN lose-PST key-DEF.PL	‘Per lost his keys.’			‘Пер потерял ключи.’		
+38	104	тонуть	å synke	SBJ	i	Y	SBJ_i	tømmer-et sank i vann-et	log-DEF.N.SG sink.PST in water-DEF.N.SG	‘The log sank in the water.’			‘Полено утонуло в воде.’		
+38	105	убивать	å drepe	SBJ	DO	TR	TR	Per drep-te Ola	PN kill-PST PN	‘Per killed Ola.’			‘Пер убил Улу.’		
+38	106	ударить	å slå	SBJ	DO	TR	TR	Per slo Ola	PN hit.PST PN	‘Per hit Ola.’			‘Пер ударил Улу.’		
+38	107	целовать	å kysse	SBJ	DO	TR	TR	Per kysse-t Kari	PN kiss-PST PN	‘Per kissed Kari.’			‘Пер поцеловал Кари.’		
+38	108	читать	å lese	SBJ	DO	TR	TR	Per les-te en interessant bok	PN read-PST INDF.M.SG interesting book	‘Per read an interesting book.’			‘Пер прочитал интересную книгу.’		
+38	109	шевелить	å bevege	SBJ	DO	TR	TR	Per beveg-de finger-en	PN move-PST finger-DEF.M.SG	‘Per moved his finger.’			‘Пер пошевелил пальцем.’		
+38	110	уважать	å respektere	SBJ	DO	TR	TR	Per respektere-r Ola	PN respect-PRS PN	‘Per respects Ola.’			‘Пер уважает Улу.’		
+38	111	брезговать	å avsky	SBJ	DO	TR	TR	Per avsky-r oppvask	PN be_squeamish-PRS dirty_dishes	‘Per is squeamish about dirty dishes.’			‘Пер брезгует грязной посудой.’		
+38	112	быть довольным	å være fornøyd	SBJ	med	Y	SBJ_med	Per er fornøyd med sønn-en sin	PN be.PRS satisfied with son-DEF.M.SG POSS.REFL.M.SG	‘Per is satisfied with his son.’	Non-verbal predicate.		‘Пер доволен своим сыном.’		
+38	113	влюбляться	å bli forelsket	SBJ	i	Y	SBJ_i	Per ble forelsket i Kari	PN become.PST enamoured in PN	‘Per fell in love with Kari.’	Non-verbal predicate (passive).		‘Пер влюбился в Кари.’		
+38	114	доверять	å stole på	SBJ	DO	TR	TR	Per stole-r på Kari	PN trust-PRS on PN	‘Per trusts Kari.’			‘Пер доверяет Кари.’		
+38	115	жалеть	å synes synd på	SBJ	DO	TR	TR	Per syne-s synd på mor-en	PN show-PASS.PRS sin on mother-DEF.F.SG	‘Per sympathises with his mother.’			‘Пер жалеет свою мать.’		
+38	116	завидовать	å være misunnelig	SBJ	pa	Y	SBJ_pa	Per er misunnelig på Ola	PN be.PRS envious on PN	‘Per envies Ola.’	Non-verbal predicate.		‘Пер завидует Уле.’		
+38	117	злиться	å være sint	SBJ	pa	Y	SBJ_pa	Per er sint på Ola	PN be.PRS angry on PN	‘Per is angry with Ola.’	Non-verbal predicate.		‘Пер злится на Улу.’		
+38	118	удивляться	å bli overrasket	SBJ	over	Y	SBJ_over	Per ble overraske-t over gav-en	PN become.PST surprise-PTCP over gift-DEF.M.SG	‘Per was surprised at this gift.’	Non-verbal predicate (passive).		‘Пер удивился этому подарку.’		
+38	119	любить-2	å elske	SBJ	DO	TR	TR	Per elske-r te	PN love-PRS tea	‘Per loves tea.’			‘Пер любит чай.’		
+38	120	наслаждаться	å nyte	SBJ	DO	TR	TR	Per nyte-r den varm-e te-en	PN enjoy-PRS DET.M.SG warm-DEF tea-DEF.M.SG	‘Per enjoys hot tea.’			‘Пер наслаждается горячим чаем.’		
+38	121	хотеть	å ønske seg	SBJ	DO	TR	TR	Per ønske-r seg ny mobil	PN wish-PRS REFL new mobile_phone	‘Per wants a new mobile phone.’			‘Пер хочет новый мобильник.’		
+38	122	сердиться	å være sint	SBJ	pa	Y	SBJ_pa	Per er sint på Ola	PN be.PRS angry on PN	‘Per is angry with Ola.’	Non-verbal predicate.		‘Пер сердится на Улу.’		
+38	123	обижаться	å bli fornærmet	SBJ	pa	Y	SBJ_pa	Per ble fornærme-t på Ola	PN become.PST offended-PTCP on PN	‘Per took offence at Ola.’	Non-verbal predicate (passive).		‘Пер обиделся на Улу.’		
+38	124	огорчать	å gjøre trist	SBJ	DO	TR	TR	Per gjor-de Ola svært trist	PN make-PST PN very sad	‘Per greatly upset Ola.’			‘Пер очень огорчил Улу.’		
+38	125	поражаться	å bli imponert	SBJ	over	Y	SBJ_over	Per ble imponer-t over by-en	PN become.PST impress-PTCP over town-DEF.M.SG	‘Per was impressed by the town.’	Non-verbal predicate (passive).		‘Пер поразился городу.’		
+38	126	презирать	å forakte	SBJ	DO	TR	TR	Per forakte-r Ola	PN despise-PRS PN	‘Per despises Ola.’			‘Пер презирает Улу.’		
+38	127	огорчаться	å gjøre bedrøvet	DO	SBJ	X	DO_SBJ	sønn-en gjor-de Per bedrøve-t	son-DEF.M.SG make-PST PN upset-PTCP	‘Per got upset with his son.’			‘Пер огорчился из-за своего сына.’		
+38	128	раздражаться	å irritere seg	SBJ	over	Y	SBJ_over	Per irritere-r seg over datter-en	PN irritate-PRS REFL over daughter-DEF.M.SG	‘Per is getting irritated with his daughter.’			‘Пер раздражается на свою дочь.’		
+38	129	симпатизировать	å like	SBJ	DO	TR	TR	Per like-r Ola	PN like-PRS PN	‘Per is fond of Ola.’			‘Пер симпатизирует Уле.’		
+38	130	стесняться	å være flau	SBJ	over	Y	SBJ_over	Per er flau over høyd-en sin	PN be.PRS embarrassed over height-DEF.M.SG POSS.REFL.M.SG	‘Per is embarrased about his height.’	Non-verbal predicate.		‘Пер стесняется своего роста.’		
 1	1	болеть-1	boletʹ	uGEN	NOM	X	uGEN_NOM	u Pet-i bol-it golov-a	at PN(M)-GEN.SG ache(IPFV)-PRS.3SG head(F)-NOM.SG	‘Petja has a headache.’		у PN(M)-GEN.SG болеть(IPFV)-PRS.3SG голова(F)-NOM.SG	‘У Пети болит голова.’	болеть	у Пет-и бол-ит голов-а
 1	2	болеть-2	boletʹ	NOM	INS	Y	NOM_INS	Pet-ja bole-et gripp-om	PN(M)-NOM.SG be_ill(IPFV)-PRS.3SG flu(M)-INS.SG	‘Petja has the flu.’		PN(M)-NOM.SG болеть(IPFV)-PRS.3SG грипп(M)-INS.SG	‘Петя болеет гриппом.’	болеть	Пет-я боле-ет грипп-ом
 1	3	бояться	bojatʹsja	NOM	GEN	Y	NOM_GEN	Pet-ja bo-it-sja sobak-i	PN(M)-NOM.SG be_afraid(IPFV)-PRS.3SG-REFL dog(F)-GEN.SG	‘Petja is afraid of the dog.’		PN(M)-NOM.SG бояться(IPFV)-PRS.3SG-REFL собака(F)-GEN.SG	‘Петя боится собаки.’	бояться	Пет-я бо-ит-ся собак-и
@@ -1169,263 +1299,263 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 80	128	раздражаться	gåårõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt gåårõõđ-škuäʹtt suu niõđ ool.	PN.SG.NOM get.irritated-INCH.PRS.3SG 3SG.GEN daughter.SG.GEN onto	‘P. is getting irritated with his daughter.’					
 80	129	симпатизировать	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad Määʹrja-st.	PN.SG.NOM like.PRS.3SG PN.SG.LOC	‘P. is fond of M.’					
 80	130	стесняться	käinnad	NOM	GENdiott	Y	NOM_GENdiott	Peâtt käinn kookkadvuõđ-âs diõtt.	PN.SG.NOM be.shy.PRS.3SG height.SG.GEN-POSS.3SG because.of	‘P. is shy about his height.’					
-61	1	болеть-1	boleti	ACC	NOM	X	ACC_NOM	An-o boli glav-a.	PN-ACC.SG ache:IPFV.PRS.3SG head-NOM.SG	‘Ana has a headache.’		PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG	‘У Аны болит голова.’		
-61	2	болеть-2	imeti	NOM	ACC	TR	TR	An-a ima grip-o.	PN-NOM.SG have:IPFV.PRS.3SG flu-ACC.SG	‘Ana has the flu.’		PN-NOM.SG иметь:IPFV.PRS.3SG грипп-ACC.SG	‘Ана болеет гриппом.’		
-61	3	бояться	bati se	NOM	GEN	Y	NOM_GEN	Peter se malo boji ps-a.	PN[NOM.SG] RFL a_little be_afraid:IPFV.PRS.3SG dog-GEN.SG	‘Peter is a little afraid of the dog.’		PN[NOM.SG] RFL немного бояться:IPFV.PRS.3SG собака-GEN.SG	‘Петер немного боится собаки.’		
-61	4	бросить	vreči	NOM	ACC	TR	TR	Peter je vrge-l kamen.	PN[NOM.SG] AUX.3SG throw:PFV-LPT[M.SG] stone[ACC.SG]	‘Peter threw a stone.’		PN[NOM.SG] AUX.3SG бросить:PFV-LPT[M.SG] камень[ACC.SG]	‘Петер бросил камень.’		
-61	5	быть достаточно	imeti dovolj	*	*	*		An-a ima dovolj denarj-a.	PN-NOM.SG have:IPFV.PRS.3SG enough money-GEN.SG	‘Ana has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).	PN-NOM.SG иметь:IPFV.PRS.3SG достаточно деньги-GEN.SG	‘Ане хватает денег.’		
-61	6	быть похожим	biti podoben	NOM	DAT	Y	NOM_DAT	An-a je podobn-a Katarin-i.	PN-NOM.SG be.PRS.3SG similar-NOM.SG.F PN-DAT.SG	‘Ana resembles Katarina.’	Non-verbal predicate.	PN-NOM.SG быть.PRS.3SG похожий-NOM.SG.F PN-DAT.SG	‘Ана похожа на Катарину.’		
-61	7	верить	verjeti	NOM	DAT	Y	NOM_DAT	An-a verjame očet-u.	PN-NOM.SG believe:IPFV.PRS.3SG father-DAT.SG	‘Ana believes her father.’		PN-NOM.SG верить:IPFV.PRS.3SG отец-DAT.SG	‘Ана верит отцу.’		
-61	8	взять	vzeti	NOM	ACC	TR	TR	Peter je vze-l knjig-o.	PN[NOM.SG] AUX.3SG take:PFV-LPT[M.SG] book-ACC.SG	‘Peter took a book.’		PN[NOM.SG] AUX.3SG взять:PFV-LPT[M.SG] книга-ACC.SG	‘Петер взял книгу.’		
-61	9	видеть	videti	NOM	ACC	TR	TR	Pavel vidi hiš-o.	PN[NOM.SG] see:IPFV.PRS.3SG house-ACC.SG	‘Pavel sees a house.’		PN[NOM.SG] видеть:IPFV.PRS.3SG дом-ACC.SG	‘Павел видит дом.’		
-61	10	влиять	vplivati	NOM	naACC	Y	NOM_naACC	Starost vpliva na spomin.	age[NOM.SG] influence:IPFV.PRS.3SG on memory[ACC.SG]	‘Age influences memory.’		возраст[NOM.SG] влиять:IPFV.PRS.3SG на память[ACC.SG]	‘Возраст влияет на память.’		
-61	11	встречаться	srečati	NOM	ACC	TR	TR	Pavel je sreča-l An-o.	PN[NOM.SG] AUX.3SG meet:PFV-LPT[M.SG] PN-ACC.SG	‘Pavel ran into Ana.’		PN[NOM.SG] AUX.3SG встретить:PFV-LPT[M.SG] PN-ACC.SG	‘Павел встретил Ану.’		
-61	12	входить 	vstopiti	NOM	vACC	Y	NOM_vACC	Pavel je vstopi-l v hiš-o.	PN[NOM.SG] AUX.3SG enter:PFV-LPT[M.SG] in house-ACC.SG	‘Pavel entered the house.’		PN[NOM.SG] AUX.3SG входить:PFV-LPT[M.SG] в дом-ACC.SG	‘Павел вошел в дом.’		
-61	13	выиграть	premagati	NOM	ACC	TR	TR	Pavel je premaga-l Petr-a.	PN[NOM.SG] AUX.3SG win:PFV-LPT[M.SG] PN-ACC.SG	‘Pavel beat Peter.’		PN[NOM.SG] AUX.3SG выиграть:PFV-LPT[M.SG] PN-ACC.SG	‘Павел выиграл у Петера.’		
-61	14	выходить	izstopiti	NOM	izGEN	Y	NOM_izGEN	Peter je izstopi-l iz hiš-e.	PN[NOM.SG] AUX.3SG go_out:PFV-LPT[M.SG] from house-GEN.SG	‘Peter went out of the house.’		PN[NOM.SG] AUX.3SG выходить:PFV-LPT[M.SG] из дом-GEN.SG	‘Петер вышел из дома.’		
-61	15	гнать	gnati	NOM	ACC	TR	TR	Peter žene krav-o.	PN[NOM.SG] drive:IPFV.PRS.3SG cow-ACC.SG	‘Peter is driving the cow.’		PN[NOM.SG] гнать:IPFV.PRS.3SG корова-ACC.SG	‘Петер гонит корову.’		
-61	16	гнуть	upogniti 	NOM	ACC	TR	TR	Pavel je upogni-l vej-o.	PN[NOM.SG] AUX.3SG bend:PFV-LPT[M.SG] branch-ACC.SG	‘Pavel bent the branch.’		PN[NOM.SG] AUX.3SG согнуть:PFV-LPT[M.SG] ветка-ACC.SG	‘Павел согнул ветку.’		
-61	17	говорить	povedati 	NOM	DAT	Y	NOM_DAT	Peter je poveda-l An-i.	PN[NOM.SG] AUX.3SG tell:PFV-LPT[M.SG] PN-DAT.SG	‘Peter told Ana.’		PN[NOM.SG] AUX.3SG сказать:PFV-LPT[M.SG] PN-DAT.SG	‘Петер сказал Ане.’		
-61	18	держать	držati	NOM	ACC	TR	TR	Peter drži knjig-o.	PN[NOM.SG] hold:IPFV.PRS.3SG book-ACC.SG	‘Peter is holding a book.’		PN[NOM.SG] держать:IPFV.PRS.3SG книга-ACC.SG	‘Петер держит книгу.’		
-61	19	догнать	dohiteti	NOM	ACC	TR	TR	Patrulj-a je dohite-l-a Petr-a.	patrol-NOM.SG AUX.3SG catch_up:PFV-LPT-F.SG PN-ACC.SG	‘The patrol caught up with Peter.’		патруль-NOM.SG AUX.3SG догнать:PFV-LPT-F.SG PN-ACC.SG	‘Патруль догнал Петера.’		
-61	20	доить	pomolzti	NOM	ACC	TR	TR	An-a je pomolz-l-a krav-o.	PN-NOM.SG AUX.3SG milk:PFV-LPT-F.SG cow-ACC.SG	‘Ana milked the cow.’		PN-NOM.SG AUX.3SG подоить:PFV-LPT-F.SG корова-ACC.SG	‘Ана подоила корову.’		
-61	21	достичь	doseči	NOM	ACC	TR	TR	Nemc-i so doseg-l-i obal-o.	German-NOM.PL AUX.3PL reach:PFV-LPT-M.PL bank-ACC.SG	‘The Germans reached the bank.’		немец-NOM.PL AUX.3PL достигнуть:PFV-LPT-M.PL берег-ACC.SG	‘Немцы достигли берега.’		
-61	22	дотронуться	dotakniti se	NOM	GEN	Y	NOM_GEN	Peter se je dotakni-l sten-e.	PN[NOM.SG] RFL AUX.3SG touch:PFV-LPT[M.SG] wall-GEN.SG	‘Peter touched the wall.’	Involuntary action is implied.	PN[NOM.SG] RFL AUX.3SG дотронуться:PFV-LPT[M.SG] стена-GEN.SG	‘Петер дотронулся до стены.’		
-61	23	драться	tepsti se	NOM	zINS	Y	NOM_zINS	Peter se tepe s Pavl-om.	PN[NOM.SG] RFL beat:IPFV.PRS.3SG with PN-INS.SG	‘Peter is fighting with Pavel.’		PN[NOM.SG] RFL бить:IPFV.PRS.3SG с PN-INS.SG	‘Петер дерется с Павлом.’		
-61	24	дружить	prijateljevati 	NOM	zINS	Y	NOM_zINS	Peter prijateljuje s Pavl-om.	PN[NOM.SG] be_friends:IPFV.PRS.3SG with PN-INS.SG	‘Peter is friends with Pavel.’		PN[NOM.SG] дружить:IPFV.PRS.3SG с PN-INS.SG	‘Петер дружит с Павлом.’		
-61	25	думать	razmišljati 	NOM	oLOC	Y	NOM_oLOC	Peter razmišlja o An-i.	PN[NOM.SG] think:IPFV.PRS.3SG about PN-LOC.SG	‘Peter is thinking about Ana.’		PN[NOM.SG] думать:IPFV.PRS.3SG о PN-LOC.SG	‘Петер думает об Ане.’		
-61	26	есть	pojesti	NOM	ACC	TR	TR	Peter je pojede-l jabolk-o.	PN[NOM.SG] AUX.3SG eat:PFV-LPT[M.SG] apple-ACC.SG	‘Peter ate an apple.’		PN[NOM.SG] AUX.3SG съесть:PFV-LPT[M.SG] яблоко-ACC.SG	‘Петер съел яблоко.’		
-61	27	жарить	speči	NOM	ACC	TR	TR	Peter je speke-l rib-o.	PN[NOM.SG] AUX.3SG fry:PFV-LPT[M.SG] fish-ACC.SG	‘Peter fried the fish.’		PN[NOM.SG] AUX.3SG поджарить:PFV-LPT[M.SG] рыба-ACC.SG	‘Петер поджарил рыбу.’		
-61	28	ждать	čakati	NOM	ACC	TR	TR	Аn-a čaka sestričn-o.	PN-NOM.SG wait:IPFV.PRS.3SG female_cousin-ACC.SG	‘Ana is waiting for her cousin.’		PN-NOM.SG ждать:IPFV.PRS.3SG двоюродная_сестра-ACC.SG	‘Ана ждет двоюродную сестру.’		
-61	29	забывать	pozabiti	NOM	naACC	Y	NOM_naACC	Peter je pozabi-l na pot.	PN[NOM.SG] AUX.3SG forget:PFV-LPT[M.SG] on road[ACC.SG]	‘Peter forgot about the road.’		PN[NOM.SG] AUX.3SG забыть:PFV-LPT[M.SG] на дорога[ACC.SG]	‘Петер забыл о дороге.’		
-61	30	зависеть	biti odvisen	NOM	odGEN	Y	NOM_odGEN	Spomin je odvisen od starost-i.	memory[NOM.SG] be.PRS.3SG dependent[NOM.SG.M] from age-GEN.SG	‘Memory depends on age.’	Non-verbal predicate.	память[NOM.SG] быть.PRS.3SG завиcимый[NOM.SG.M] от возраст-GEN.SG	‘Память зависит от возраста.’		
-61	31	звать	poklicati	NOM	ACC	TR	TR	Peter je poklica-l zet-a.	PN[NOM.SG] AUX.3SG call:PFV-LPT[M.SG] son_in_law-ACC.SG	‘Peter called his son-in-law.’		PN[NOM.SG] AUX.3SG позвать:PFV-LPT[M.SG] зять-ACC.SG	‘Петер позвал своего зятя.’		
-61	32	знакомиться	spoznati se	NOM	zINS	Y	NOM_zINS	Peter se je lani spozna-l s Pavl-om.	PN[NOM.SG] RFL AUX.3SG year_ago learn:PFV-LPT[M.SG] with PN-INS.SG	‘Peter got to know Pavel a year ago.’		PN[NOM.SG] RFL AUX.3SG год.назад узнать:PFV-LPT[M.SG] с PN-INS.SG	‘Петер познакомился с Павлом год назад.’		
-61	33	знать 	poznati	NOM	ACC	TR	TR	Peter pozna Pavl-a.	PN[NOM.SG] know:IPFV.PRS.3SG PN-ACC.SG	‘Peter knows Pavel.’		PN[NOM.SG] знать:IPFV.PRS.3SG PN-ACC.SG	‘Петер знает Павла.’		
-61	34	играть	igrati	NOM	ACC	TR	TR	Peter igra kitar-o.	PN[NOM.SG] play:IPFV.PRS.3SG guitar-ACC.SG	‘Peter is playing the guitar.’		PN[NOM.SG] играть:IPFV.PRS.3SG гитара-ACC.SG	‘Петер играет на гитаре.’		
-61	35	избегать	izogibati se	NOM	DAT	Y	NOM_DAT	Peter se izogiba Pavl-u.	PN[NOM.SG] RFL avoid:IPFV.PRS.3SG PN-DAT.SG	‘Peter avoids Pavel.’		PN[NOM.SG] RFL избегать:IPFV.PRS.3SG PN-DAT.SG	‘Петер избегает Павла.’		
-61	36	изготовить	narediti	NOM	ACC	TR	TR	Peter je naredi-l bomb-o.	PN[NOM.SG] AUX.3SG make:PFV-LPT[M.SG] bomb-ACC.SG	‘Peter made a bomb.’		PN[NOM.SG] AUX.3SG сделать:PFV-LPT[M.SG] бомба-ACC.SG	‘Петер сконструировал бомбу.’		
+61	1	болеть-1	boleti	ACC	NOM	X	ACC_NOM	An-o boli glav-a	PN-ACC.SG ache:IPFV.PRS.3SG head-NOM.SG	‘Ana has a headache.’		PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG	‘У Аны болит голова.’		
+61	2	болеть-2	imeti	NOM	ACC	TR	TR	An-a ima grip-o	PN-NOM.SG have:IPFV.PRS.3SG flu-ACC.SG	‘Ana has the flu.’		PN-NOM.SG иметь:IPFV.PRS.3SG грипп-ACC.SG	‘Ана болеет гриппом.’		
+61	3	бояться	bati se	NOM	GEN	Y	NOM_GEN	Peter se malo boji ps-a	PN[NOM.SG] RFL a_little be_afraid:IPFV.PRS.3SG dog-GEN.SG	‘Peter is a little afraid of the dog.’		PN[NOM.SG] RFL немного бояться:IPFV.PRS.3SG собака-GEN.SG	‘Петер немного боится собаки.’		
+61	4	бросить	vreči	NOM	ACC	TR	TR	Peter je vrge-l kamen	PN[NOM.SG] AUX.3SG throw:PFV-LPT[M.SG] stone[ACC.SG]	‘Peter threw a stone.’		PN[NOM.SG] AUX.3SG бросить:PFV-LPT[M.SG] камень[ACC.SG]	‘Петер бросил камень.’		
+61	5	быть достаточно	imeti dovolj	*	*	*		An-a ima dovolj denarj-a	PN-NOM.SG have:IPFV.PRS.3SG enough money-GEN.SG	‘Ana has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).	PN-NOM.SG иметь:IPFV.PRS.3SG достаточно деньги-GEN.SG	‘Ане хватает денег.’		
+61	6	быть похожим	biti podoben	NOM	DAT	Y	NOM_DAT	An-a je podobn-a Katarin-i	PN-NOM.SG be.PRS.3SG similar-NOM.SG.F PN-DAT.SG	‘Ana resembles Katarina.’	Non-verbal predicate.	PN-NOM.SG быть.PRS.3SG похожий-NOM.SG.F PN-DAT.SG	‘Ана похожа на Катарину.’		
+61	7	верить	verjeti	NOM	DAT	Y	NOM_DAT	An-a verjame očet-u	PN-NOM.SG believe:IPFV.PRS.3SG father-DAT.SG	‘Ana believes her father.’		PN-NOM.SG верить:IPFV.PRS.3SG отец-DAT.SG	‘Ана верит отцу.’		
+61	8	взять	vzeti	NOM	ACC	TR	TR	Peter je vze-l knjig-o	PN[NOM.SG] AUX.3SG take:PFV-LPT[M.SG] book-ACC.SG	‘Peter took a book.’		PN[NOM.SG] AUX.3SG взять:PFV-LPT[M.SG] книга-ACC.SG	‘Петер взял книгу.’		
+61	9	видеть	videti	NOM	ACC	TR	TR	Pavel vidi hiš-o	PN[NOM.SG] see:IPFV.PRS.3SG house-ACC.SG	‘Pavel sees a house.’		PN[NOM.SG] видеть:IPFV.PRS.3SG дом-ACC.SG	‘Павел видит дом.’		
+61	10	влиять	vplivati	NOM	naACC	Y	NOM_naACC	starost vpliva na spomin	age[NOM.SG] influence:IPFV.PRS.3SG on memory[ACC.SG]	‘Age influences memory.’		возраст[NOM.SG] влиять:IPFV.PRS.3SG на память[ACC.SG]	‘Возраст влияет на память.’		
+61	11	встречаться	srečati	NOM	ACC	TR	TR	Pavel je sreča-l An-o	PN[NOM.SG] AUX.3SG meet:PFV-LPT[M.SG] PN-ACC.SG	‘Pavel ran into Ana.’		PN[NOM.SG] AUX.3SG встретить:PFV-LPT[M.SG] PN-ACC.SG	‘Павел встретил Ану.’		
+61	12	входить 	vstopiti	NOM	vACC	Y	NOM_vACC	Pavel je vstopi-l v hiš-o	PN[NOM.SG] AUX.3SG enter:PFV-LPT[M.SG] in house-ACC.SG	‘Pavel entered the house.’		PN[NOM.SG] AUX.3SG входить:PFV-LPT[M.SG] в дом-ACC.SG	‘Павел вошел в дом.’		
+61	13	выиграть	premagati	NOM	ACC	TR	TR	Pavel je premaga-l Petr-a	PN[NOM.SG] AUX.3SG win:PFV-LPT[M.SG] PN-ACC.SG	‘Pavel beat Peter.’		PN[NOM.SG] AUX.3SG выиграть:PFV-LPT[M.SG] PN-ACC.SG	‘Павел выиграл у Петера.’		
+61	14	выходить	izstopiti	NOM	izGEN	Y	NOM_izGEN	Peter je izstopi-l iz hiš-e	PN[NOM.SG] AUX.3SG go_out:PFV-LPT[M.SG] from house-GEN.SG	‘Peter went out of the house.’		PN[NOM.SG] AUX.3SG выходить:PFV-LPT[M.SG] из дом-GEN.SG	‘Петер вышел из дома.’		
+61	15	гнать	gnati	NOM	ACC	TR	TR	Peter žene krav-o	PN[NOM.SG] drive:IPFV.PRS.3SG cow-ACC.SG	‘Peter is driving the cow.’		PN[NOM.SG] гнать:IPFV.PRS.3SG корова-ACC.SG	‘Петер гонит корову.’		
+61	16	гнуть	upogniti 	NOM	ACC	TR	TR	Pavel je upogni-l vej-o	PN[NOM.SG] AUX.3SG bend:PFV-LPT[M.SG] branch-ACC.SG	‘Pavel bent the branch.’		PN[NOM.SG] AUX.3SG согнуть:PFV-LPT[M.SG] ветка-ACC.SG	‘Павел согнул ветку.’		
+61	17	говорить	povedati 	NOM	DAT	Y	NOM_DAT	Peter je poveda-l An-i	PN[NOM.SG] AUX.3SG tell:PFV-LPT[M.SG] PN-DAT.SG	‘Peter told Ana.’		PN[NOM.SG] AUX.3SG сказать:PFV-LPT[M.SG] PN-DAT.SG	‘Петер сказал Ане.’		
+61	18	держать	držati	NOM	ACC	TR	TR	Peter drži knjig-o	PN[NOM.SG] hold:IPFV.PRS.3SG book-ACC.SG	‘Peter is holding a book.’		PN[NOM.SG] держать:IPFV.PRS.3SG книга-ACC.SG	‘Петер держит книгу.’		
+61	19	догнать	dohiteti	NOM	ACC	TR	TR	patrulj-a je dohite-l-a Petr-a	patrol-NOM.SG AUX.3SG catch_up:PFV-LPT-F.SG PN-ACC.SG	‘The patrol caught up with Peter.’		патруль-NOM.SG AUX.3SG догнать:PFV-LPT-F.SG PN-ACC.SG	‘Патруль догнал Петера.’		
+61	20	доить	pomolzti	NOM	ACC	TR	TR	An-a je pomolz-l-a krav-o	PN-NOM.SG AUX.3SG milk:PFV-LPT-F.SG cow-ACC.SG	‘Ana milked the cow.’		PN-NOM.SG AUX.3SG подоить:PFV-LPT-F.SG корова-ACC.SG	‘Ана подоила корову.’		
+61	21	достичь	doseči	NOM	ACC	TR	TR	nemc-i so doseg-l-i obal-o	German-NOM.PL AUX.3PL reach:PFV-LPT-M.PL bank-ACC.SG	‘The Germans reached the bank.’		немец-NOM.PL AUX.3PL достигнуть:PFV-LPT-M.PL берег-ACC.SG	‘Немцы достигли берега.’		
+61	22	дотронуться	dotakniti se	NOM	GEN	Y	NOM_GEN	Peter se je dotakni-l sten-e	PN[NOM.SG] RFL AUX.3SG touch:PFV-LPT[M.SG] wall-GEN.SG	‘Peter touched the wall.’	Involuntary action is implied.	PN[NOM.SG] RFL AUX.3SG дотронуться:PFV-LPT[M.SG] стена-GEN.SG	‘Петер дотронулся до стены.’		
+61	23	драться	tepsti se	NOM	zINS	Y	NOM_zINS	Peter se tepe s Pavl-om	PN[NOM.SG] RFL beat:IPFV.PRS.3SG with PN-INS.SG	‘Peter is fighting with Pavel.’		PN[NOM.SG] RFL бить:IPFV.PRS.3SG с PN-INS.SG	‘Петер дерется с Павлом.’		
+61	24	дружить	prijateljevati 	NOM	zINS	Y	NOM_zINS	Peter prijateljuje s Pavl-om	PN[NOM.SG] be_friends:IPFV.PRS.3SG with PN-INS.SG	‘Peter is friends with Pavel.’		PN[NOM.SG] дружить:IPFV.PRS.3SG с PN-INS.SG	‘Петер дружит с Павлом.’		
+61	25	думать	razmišljati 	NOM	oLOC	Y	NOM_oLOC	Peter razmišlja o An-i	PN[NOM.SG] think:IPFV.PRS.3SG about PN-LOC.SG	‘Peter is thinking about Ana.’		PN[NOM.SG] думать:IPFV.PRS.3SG о PN-LOC.SG	‘Петер думает об Ане.’		
+61	26	есть	pojesti	NOM	ACC	TR	TR	Peter je pojede-l jabolk-o	PN[NOM.SG] AUX.3SG eat:PFV-LPT[M.SG] apple-ACC.SG	‘Peter ate an apple.’		PN[NOM.SG] AUX.3SG съесть:PFV-LPT[M.SG] яблоко-ACC.SG	‘Петер съел яблоко.’		
+61	27	жарить	speči	NOM	ACC	TR	TR	Peter je speke-l rib-o	PN[NOM.SG] AUX.3SG fry:PFV-LPT[M.SG] fish-ACC.SG	‘Peter fried the fish.’		PN[NOM.SG] AUX.3SG поджарить:PFV-LPT[M.SG] рыба-ACC.SG	‘Петер поджарил рыбу.’		
+61	28	ждать	čakati	NOM	ACC	TR	TR	Аn-a čaka sestričn-o	PN-NOM.SG wait:IPFV.PRS.3SG female_cousin-ACC.SG	‘Ana is waiting for her cousin.’		PN-NOM.SG ждать:IPFV.PRS.3SG двоюродная_сестра-ACC.SG	‘Ана ждет двоюродную сестру.’		
+61	29	забывать	pozabiti	NOM	naACC	Y	NOM_naACC	Peter je pozabi-l na pot	PN[NOM.SG] AUX.3SG forget:PFV-LPT[M.SG] on road[ACC.SG]	‘Peter forgot about the road.’		PN[NOM.SG] AUX.3SG забыть:PFV-LPT[M.SG] на дорога[ACC.SG]	‘Петер забыл о дороге.’		
+61	30	зависеть	biti odvisen	NOM	odGEN	Y	NOM_odGEN	spomin je odvisen od starost-i	memory[NOM.SG] be.PRS.3SG dependent[NOM.SG.M] from age-GEN.SG	‘Memory depends on age.’	Non-verbal predicate.	память[NOM.SG] быть.PRS.3SG завиcимый[NOM.SG.M] от возраст-GEN.SG	‘Память зависит от возраста.’		
+61	31	звать	poklicati	NOM	ACC	TR	TR	Peter je poklica-l zet-a	PN[NOM.SG] AUX.3SG call:PFV-LPT[M.SG] son_in_law-ACC.SG	‘Peter called his son-in-law.’		PN[NOM.SG] AUX.3SG позвать:PFV-LPT[M.SG] зять-ACC.SG	‘Петер позвал своего зятя.’		
+61	32	знакомиться	spoznati se	NOM	zINS	Y	NOM_zINS	Peter se je lani spozna-l s Pavl-om	PN[NOM.SG] RFL AUX.3SG year_ago learn:PFV-LPT[M.SG] with PN-INS.SG	‘Peter got to know Pavel a year ago.’		PN[NOM.SG] RFL AUX.3SG год.назад узнать:PFV-LPT[M.SG] с PN-INS.SG	‘Петер познакомился с Павлом год назад.’		
+61	33	знать 	poznati	NOM	ACC	TR	TR	Peter pozna Pavl-a	PN[NOM.SG] know:IPFV.PRS.3SG PN-ACC.SG	‘Peter knows Pavel.’		PN[NOM.SG] знать:IPFV.PRS.3SG PN-ACC.SG	‘Петер знает Павла.’		
+61	34	играть	igrati	NOM	ACC	TR	TR	Peter igra kitar-o	PN[NOM.SG] play:IPFV.PRS.3SG guitar-ACC.SG	‘Peter is playing the guitar.’		PN[NOM.SG] играть:IPFV.PRS.3SG гитара-ACC.SG	‘Петер играет на гитаре.’		
+61	35	избегать	izogibati se	NOM	DAT	Y	NOM_DAT	Peter se izogiba Pavl-u	PN[NOM.SG] RFL avoid:IPFV.PRS.3SG PN-DAT.SG	‘Peter avoids Pavel.’		PN[NOM.SG] RFL избегать:IPFV.PRS.3SG PN-DAT.SG	‘Петер избегает Павла.’		
+61	36	изготовить	narediti	NOM	ACC	TR	TR	Peter je naredi-l bomb-o	PN[NOM.SG] AUX.3SG make:PFV-LPT[M.SG] bomb-ACC.SG	‘Peter made a bomb.’		PN[NOM.SG] AUX.3SG сделать:PFV-LPT[M.SG] бомба-ACC.SG	‘Петер сконструировал бомбу.’		
 61	37	издеваться	norčevati se	NOM	izGEN	Y	NOM_izGEN	Peter se norčuje iz Pavl-a	PN[NOM.SG] RFL make_fun:IPFV.PRS.3SG from PN-GEN.SG	‘Peter is making fun of Pavel.’		PN[NOM.SG] RFL издеваться:IPFV.PRS.3SG из PN-GEN.SG	‘Петер издевается над Павлом.’		
-61	38	иметь	imeti	NOM	ACC	TR	TR	Mož ima avt-o.	husband[NOM.SG] have:IPFV.PRS.3SG car-ACC.SG	‘Husband has a car.’		муж[NOM.SG] иметь:IPFV.PRS.3SG машина-ACC.SG	‘У мужа есть машина.’		
-61	39	искать	iskati	NOM	ACC	TR	TR	An-a išče ključ-e.	PN-NOM.SG look_for:IPFV.PRS.3SG key-ACC.PL	‘Ana is looking for her keys.’		PN-NOM.SG искать:IPFV.PRS.3SG ключ-ACC.PL	‘Ана ищет ключи.’		
-61	40	красить	pobarvati	NOM	ACC	TR	TR	Tomaž je pobarva-l ograj-o.	PN[NOM.SG] AUX.3SG paint:PFV-LPT[M.SG] fence-ACC.SG	‘Peter painted the fence.’		PN[NOM.SG] AUX.3SG красить:PFV-LPT[M.SG] забор-ACC.SG	‘Петер покрасил забор.’		
-61	41	кусать	ugrizniti	NOM	ACC	TR	TR	Pes je ugrizni-l mam-o.	dog[NOM.SG] AUX.3SG bite:PFV-LPT[M.SG] mother-ACC.SG	‘A dog bit the mother.’		собака[NOM.SG] AUX.3SG кусать:PFV-LPT[M.SG] мама-ACC.SG	‘Собака укусила маму.’		
-61	42	лишаться	ostati	NOM	brezGEN	TR	NOM_brezGEN	Pavel je osta-l brez dom-a.	PN[NOM.SG] AUX.3SG remain:PFV-LPT[M.SG] without house-GEN.SG	‘Pavel lost his house.’		PN[NOM.SG] AUX.3SG остаться:PFV-LPT[M.SG] без дом-GEN.SG	‘Павел потерял дом.’		
-61	43	ловить	loviti	NOM	ACC	TR	TR	Deklic-a lovi mačk-o.	girl-NOM.SG try_to_catch:IPFV.PRS.3SG cat-ACC.SG	‘The girl is trying to catch the cat.’		девочка-NOM.SG ловить:IPFV.PRS.3SG кот-ACC.SG	‘Девочка ловит кошку.’		
-61	44	ломать	zlomiti	NOM	ACC	TR	TR	Peter je zlomi-l palčk-o.	PN[NOM.SG] AUX.3SG break:PFV-LPT[M.SG] stick-ACC.SG	‘Peter broke a stick.’		PN[NOM.SG] AUX.3SG сломать:PFV-LPT[M.SG] палка-ACC.SG	‘Петер сломал палку.’		
-61	45	льстить	se dobrika	NOM	DAT	Y	NOM_DAT	Katarin-a se dobrika An-i.	PN-NOM.SG RFL flatter:IPFV.PRS.3SG PN-DAT.SG	‘Katarina is flattering Ana.’		PN-NOM.SG RFL льстить:IPFV.PRS.3SG PN-DAT.SG	‘Катарина льстит Ане.’		
-61	46	любить-1	ljubiti	NOM	ACC	TR	TR	An-a ljubi Petr-a.	PN-NOM.SG love:IPFV.PRS.3SG PN-ACC.SG	‘Ana loves Peter.’		PN-NOM.SG любить:IPFV.PRS.3SG PN-ACC.SG	‘Ана любит Петра.’		
-61	47	махать	mahati	NOM	zINS	Y	NOM_zINS	Pavel maha z robčk-om.	PN[NOM.SG] wave:IPFV.PRS.3SG with handkerchief-INS.SG	‘Pavel is waving a handkerchief.’		PN[NOM.SG] махать:IPFV.PRS.3SG с платок-INS.SG	‘Павел машет платком.’		
-61	48	мечтать	sanjati	NOM	oLOC	Y	NOM_oLOC	Peter sanja o avt-u.	PN[NOM.SG] dream:IPFV.PRS.3SG about car-LOC.SG	‘Peter is dreaming of a new car.’		PN[NOM.SG] мечтать:IPFV.PRS.3SG о машина-LOC.SG	‘Петер мечтает о машине.’		
-61	49	мыть	umiti	NOM	ACC	TR	TR	Peter je umi-l skodelic-o.	PN[NOM.SG] AUX.3SG wash:PFV-LPT[M.SG] cup-ACC.SG	‘Peter washed the cup.’		PN[NOM.SG] AUX.3SG вымыть:PFV-LPT[M.SG] чашка-ACC.SG	‘Петер вымыл чашку.’		
-61	50	надевать	obleči	NOM	ACC	TR	TR	Pavel je obleke-l hlač-e.	PN[NOM.SG] AUX.3SG put_on:PFV-LPT[M.SG] trousers-ACC.SG	‘Pavel put on his trousers.’		PN[NOM.SG] AUX.3SG надеть:PFV-LPT[M.SG] штаны-ACC.SG	‘Павел надел штаны.’		
-61	51	называться	imenovati se	NOM	NOM	Y	NOM_NOM	Ta predmet se imenuje kompas.	this.NOM.SG.M thing[NOM.SG] RFL call:IPFV.PRS.3SG compass[NOM.SG]	‘This tool is called a compas.’		этот.NOM.SG.M предмет[NOM.SG] RFL называть:IPFV.PRS.3SG компас[NOM.SG]	‘Этот предмет называется компас.’		
-61	52	наказывать	kaznovati	NOM	ACC	TR	TR	Peter je kaznova-l sin-a.	PN[NOM.SG] AUX.3SG punish:PFV-LPT[M.SG] son-ACC.SG	‘Peter punished his.’		PN[NOM.SG] AUX.3SG наказать:PFV-LPT[M.SG] сын-ACC.SG	‘Петер наказал своего сына.’		
-61	53	напасть	napasti	NOM	ACC	TR	TR	Medved je napade-l ribič-a.	bear[NOM.SG] AUX.3SG attack:PFV-LPT[M.SG] fisherman-ACC.SG	‘A bear attacked a fisherman.’		медведь[NOM.SG] AUX.3SG напасть:PFV-LPT[M.SG] рыбак-ACC.SG	‘Медведь напал на рыбака.’		
-61	54	наполняться	napolniti se	NOM	zINS	Y	NOM_zINS	Vedr-o se je napolni-l-o z vod-o.	bucket-NOM.SG RFL AUX.3SG fill:PFV-LPT-N.SG with water-INS.SG	‘The bucket filled with water.’		ведро-NOM.SG RFL AUX.3SG наполнить:PFV-LPT-N.SG с вода-INS.SG	‘Ведро наполнилось водой.’		
-61	55	находить	najti	NOM	ACC	TR	TR	Peter je naše-l ključ-e.	PN[NOM.SG] AUX.3SG find:PFV-LPT[M.SG] key-ACC.PL	‘Peter found his keys.’		PN[NOM.SG] AUX.3SG найти:PFV-LPT[M.SG] ключ-ACC.PL	‘Петер нашел ключи.’		
-61	56	недоставать	manjkati	DAT	NOM	X	DAT_NOM	An-i manjka en dolar.	PN-DAT.SG lack:IPFV.PRS.3SG one.NOM.SG.M dollar[NOM.SG]	‘Ana is short one dollar.’		PN-DAT.SG не.хватать:IPFV.PRS.3SG один.NOM.SG.M доллар[NOM.SG]	‘Ане не хватает одного доллара.’		
-61	57	ненавидеть	sovražiti	NOM	ACC	TR	TR	Peter sovraži An-o.	PN[NOM.SG] hate:IPFV.PRS.3SG PN-ACC.SG	‘Peter hates Ana.’		PN[NOM.SG] ненавидеть:IPFV.PRS.3SG PN-ACC.SG	‘Петер ненавидит Ану.’		
-61	58	нравиться	biti všeč	DAT	NOM	X	DAT_NOM	Petr-u je všeč ta srajc-a.	PN-DAT.SG be.PRS.3SG pleasant this.NOM.SG.F shirt-NOM.SG	‘Peter likes this shirt.’	Non-verbal predicate.	PN-DAT.SG быть.PRS.3SG приятно этот.NOM.SG.F рубашка-NOM.SG	‘Петру нравится эта рубашка.’		
-61	59	нуждаться	potrebovati	NOM	ACC	TR	TR	An-a potrebuje denar.	PN-NOM.SG need:IPFV.PRS.3SG money[ACC.SG]	‘Ana needs money.’		PN-NOM.SG нуждаться:IPFV.PRS.3SG деньги[ACC.SG]	‘Ана нуждается в деньгах.’		
-61	60	окружать	obdajati	NOM	ACC	TR	TR	Mest-o obdaja obzidj-e.	city-ACC.SG surround:IPFV.PRS.3SG wall-NOM.SG	‘Walls surround the city.’		город-ACC.SG окружать:IPFV.PRS.3SG стена-NOM.SG	‘Стены окружают город.’		
-61	61	оставаться	ostati	DAT	NOM	X	DAT_NOM	An-i je osta-l-o deset dolarj-ev.	PN-DAT.SG AUX.3SG remain:PFV-LPT-N.SG 10[NOM] dollar-GEN.PL	‘Ana has 10 dollars left.’		PN-DAT.SG AUX.3SG остаться:PFV-LPT-N.SG 10[NOM] доллар-GEN.PL	‘У Аны осталось 10 долларов.’		
-61	62	отвечать	odgovoriti	NOM	DAT	Y	NOM_DAT	Peter je odgovori-l učitelj-u.	PN[NOM.SG] AUX.3SG answer:PFV-LPT[M.SG] teacher-DAT.SG	‘Peter answered the teacher.’		PN[NOM.SG] AUX.3SG ответить:PFV-LPT[M.SG] учитель-DAT.SG	‘Петер ответил учителю.’		
-61	63	открывать	odpreti	NOM	ACC	TR	TR	Peter je odpr-l bank-o.	PN[NOM.SG] AUX.3SG open:PFV-LPT[M.SG] can-ACC.SG	‘Peter opened a can.’		PN[NOM.SG] AUX.3SG открыть:PFV-LPT[M.SG] банка-ACC.SG	‘Петер открыл банку.’		
-61	64	отличаться	razlikovati se	NOM	odGEN	Y	NOM_odGEN	Moj-a srajc-a se razlikuje od tvoj-e.	my-NOM.SG.F shirt-NOM.SG RFL be_different:IPFV.PRS.3SG from your-GEN.SG.F	‘My shirt is different from yours.’		мой-NOM.SG.F рубашка-NOM.SG RFL отличаться:IPFV.PRS.3SG от твой-GEN.SG.F	‘Моя рубашка отличается от твоей.’		
-61	65	отстать	zaostati	NOM	zaINS	Y	NOM_zaINS	An-a je zaosta-l-a za Pavl-om.	PN-NOM.SG AUX.3SG remain:PFV-LPT-F.SG behind PN-INS.SG	‘Ana fell behind Pavel.’		PN-NOM.SG AUX.3SG остаться:PFV-LPT-F.SG за PN-INS.SG	‘Ана остала от Павла.’		
-61	66	пахать	orati	NOM	ACC	TR	TR	An-a orje polj-e.	PN-NOM.SG plough:IPFV.PRS.3SG field-ACC.SG	‘Ana is ploughing the field.’		PN-NOM.SG пахать:IPFV.PRS.3SG поле-ACC.SG	‘Ана пашет поле.’		
-61	67	пахнуть	dišati	NOM	poLOC	Y	NOM_poLOC	Moj-e rok-e dišijo po bencin-u.	my-NOM.PL.F hand-NOM.PL smell:IPFV.PRS.3PL by gasoline-LOC.SG	‘My hands smell of gasoline.’		мой-NOM.PL.F рука-NOM.PL пахнуть:IPFV.PRS.3PL по бензин-LOC.SG	‘Мои руки пахнут бензином.’		
-61	68	пересечь	prečkati	NOM	ACC	TR	TR	Peter je prečka-l cest-o.	PN[NOM.SG] AUX.3SG cross:PFV-LPT[M.SG] road-ACC.SG	‘Peter crossed the road.’		PN[NOM.SG] AUX.3SG перейти:PFV-LPT[M.SG] дорога-ACC.SG	‘Петер перешел дорогу.’		
-61	69	петь	zapeti	NOM	ACC	TR	TR	Peter je zape-l lep-o pesem.	PN[NOM.SG] AUX.3SG sing:PFV-LPT[M.SG] beautiful-ACC.SG.F song[ACC.SG]	‘Peter sang a beautiful song.’		PN[NOM.SG] AUX.3SG спеть:PFV-LPT[M.SG] красивый-ACC.SG.F песня[ACC.SG]	‘Петер спел красивую песню.’		
-61	70	писать	napisati	NOM	ACC	TR	TR	An-a je napisa-l-a pism-o.	PN-NOM.SG AUX.3SG write:PFV-LPT-F.SG letter-ACC.SG	‘Ana wrote a letter.’		PN-NOM.SG AUX.3SG написать:PFV-LPT-F.SG письмо-ACC.SG	‘Ана написала письмо.’		
-61	71	пить	spiti	NOM	ACC	TR	TR	Peter je spi-l mlek-o.	PN[NOM.SG] AUX.3SG drink:PFV-LPT[M.SG] milk-ACC.SG	‘Peter drank the milk.’		PN[NOM.SG] AUX.3SG выпить:PFV-LPT[M.SG] молоко-ACC.SG	‘Петер выпил молоко.’		
-61	72	плавить	razstopiti	NOM	ACC	TR	TR	Peter je razstopi-l kos svinc-a.	PN[NOM.SG] AUX.3SG melt:PFV-LPT[M.SG] piece[ACC.SG] lead-GEN.SG	‘Peter melted a piece of lead.’		PN[NOM.SG] AUX.3SG расплавить:PFV-LPT[M.SG] кусок[ACC.SG] свинец-GEN.SG	‘Петер расплавил кусок свинца.’		
-61	73	подходить	iti	NOM	kDAT	Y	NOM_kDAT	Ta pas gre k moj-emu plašč-u.	this.NOM.SG.M belt[NOM.SG] go:IPFV.PRS.3SG to my-DAT.SG.M dress-DAT.SG	‘This belt goes well with my dress.’		этот.NOM.SG.M пояс[NOM.SG] идти:IPFV.PRS.3SG к мой-DAT.SG.M платье-DAT.SG	‘Этот пояс подходит к моему платью.’		
-61	74	покидать	zapustiti	NOM	ACC	TR	TR	Peter je zapusti-l rojstn-o mest-o.	PN[NOM.SG] AUX.3SG leave:PFV-LPT[M.SG] native-ACC.SG.N city-ACC.SG	‘Peter left his native city.’		PN[NOM.SG] AUX.3SG покинуть:PFV-LPT[M.SG] родной-ACC.SG.N город-ACC.SG	‘Петер покинул родной город.’		
-61	75	покрывать	pokrivati	NOM	ACC	TR	TR	Preprog-a pokriva cel-a tl-a.	carpet-NOM.SG cover:IPFV.PRS.3SG whole-ACC.PL.N floor-ACC.PL	‘The carpet covers the whole floor.’		ковер-NOM.SG покрывать:IPFV.PRS.3SG весь-ACC.PL.N пол-ACC.PL	‘Ковер покрывает весь пол.’		
-61	76	помнить	spominjati se	NOM	GEN	Y	NOM_GEN	Peter se dobro spominja dom-a.	PN[NOM.SG] RFL well remember:IPFV.PRS.3SG house-GEN.SG	‘Peter remembers the house well.’		PN[NOM.SG] RFL хорошо помнить:IPFV.PRS.3SG дом-GEN.SG	‘Петер хорошо помнит дом.’		
-61	77	помочь	pomagati	NOM	DAT	Y	NOM_DAT	Peter je pomaga-l An-i.	PN[NOM.SG] AUX.3SG help:PFV/IPFV-LPT[M.SG] PN-DAT.SG	‘Peter helped Ana.’		PN[NOM.SG] AUX.3SG помочь:PFV/IPFV-LPT[M.SG] PN-DAT.SG	‘Петер помог Ане.’		
-61	78	понимать	razumeti	NOM	ACC	TR	TR	Peter razume francosk-i jezik.	PN[NOM.SG] understand:IPFV.PRS.3SG French-ACC.SG.M language[ACC.SG]	‘Peter understands French.’		PN[NOM.SG] понимать:IPFV.PRS.3SG французский-ACC.SG.M язык[ACC.SG]	‘Петер понимает французский язык.’		
-61	79	попасть	udariti	NOM	vACC	Y	NOM_vACC	V hiš-o je udari-l-a strel-a.	in house-ACC.SG AUX.3SG hit:PFV-LPT-F.SG lightning-NOM.SG	‘Lightning hit the house.’		в дом-ACC.SG AUX.3SG ударить:PFV-LPT-F.SG молния-NOM.SG	‘Молния попала в дом.’		
-61	80	порезаться	urezati se	NOM	zINS	Y	NOM_zINS	Peter se je ureza-l z britvij-o.	PN[NOM.SG] RFL AUX.3SG cut:PFV-LPT[M.SG] with razor-INS.SG	‘Peter cut himself with a razor.’		PN[NOM.SG] RFL AUX.3SG порезать:PFV-LPT[M.SG] с бритва-INS.SG	‘Петер порезался бритвой.’		
-61	81	прилипать	prilepiti se	NOM	naACC	Y	NOM_naACC	Kozarec se je prilepi-l na miz-o.	glass[NOM.SG] RFL AUX.3SG stick:PFV-LPT[M.SG] on table-ACC.SG	‘The glass got stuck to the table.’		стакан[NOM.SG] RFL AUX.3SG прилипнуть:PFV-LPT[M.SG] на стол-ACC.SG	‘Стакан прилип к столу.’		
-61	82	проиграть	izgubiti	NOM	zINS	Y	NOM_zINS	Peter je izgubi-l s Pavl-om.	PN[NOM.SG] AUX.3SG lose:PFV-LPT[M.SG] with PN-INS.SG	‘Peter lost to Pavel.’		PN[NOM.SG] AUX.3SG проиграть:PFV-LPT[M.SG] с PN-INS.SG	‘Петер проиграл Павлу.’		
-61	83	радоваться	razveseliti se	NOM	GEN	Y	NOM_GEN	General se je razveseli-l pism-a.	general[NOM.SG] RFL AUX.3SG rejoice:PFV-LPT[M.SG] letter-GEN.SG	‘The general was glad about the letter.’		генерал[NOM.SG] RFL AUX.3SG обрадоваться:PFV-LPT[M.SG] письмо-GEN.SG	‘Генерал обрадовался письму.’		
-61	84	разговаривать	pogovarjati se	NOM	zINS	Y	NOM_zINS	Peter se pogovarja s Pavl-om.	PN[NOM.SG] RFL speak:IPFV.PRS.3SG with PN-INS.SG	‘Peter is speaking with Pavel.’		PN[NOM.SG] RFL разговаривать:IPFV.PRS.3SG с PN-INS.SG	‘Петер разговаривает с Павлом.’		
-61	85	рожать	roditi	NOM	ACC	TR	TR	An-a je rodi-l-a sin-a.	PN-NOM.SG AUX.3SG give_birth-LPT-F.SG son-ACC.SG	‘Ana gave birth to a son.’		PN-NOM.SG AUX.3SG родить-LPT-F.SG сын-ACC.SG	‘Ана родила сына.’		
-61	86	ронять	spustiti	NOM	ACC	TR	TR	An-a je spusti-l-a kozarec.	PN-NOM.SG AUX.3SG drop:PFV-LPT-F.SG glass[ACC.SG]	‘Ana dropped the glass.’		PN-NOM.SG AUX.3SG уронить:PFV-LPT-F.SG стакан[ACC.SG]	‘Ана уронила стакан.’		
-61	87	руководить	upravljati	NOM	ACC	TR	TR	An-a upravlja naš-o vas.	PN-NOM.SG govern.PRS.3SG our-ACC.SG.F village[ACC.SG]	‘Ana runs our town.’		PN-NOM.SG управлять.PRS.3SG наш-ACC.SG.F деревня[ACC.SG]	‘Ана управляет нашей деревней.’		
-61	88	скучать	tožiti se 	DAT	poLOC	XY	DAT_poLOC	Petr-u se toži po An-i.	PN-DAT.SG RFL miss:IPFV.PRS.3SG by PN-LOC.SG	‘Peter misses Ana.’		PN-DAT.SG RFL скучать:IPFV.PRS.3SG по PN-LOC.SG	‘Петер скучает по Ане.’		
-61	89	следовать	slediti	NOM	DAT	Y	NOM_DAT	Peter sledi Pavl-u.	PN[NOM.SG] follow:IPFV.PRS.3SG PN-DAT.SG	‘Peter follows Pavel.’		PN[NOM.SG] следовать:IPFV.PRS.3SG PN-DAT.SG	‘Петер идет за Павлом.’		
-61	90	слезать	zlesti	NOM	zGEN	Y	NOM_zGEN	Peter je zleze-l s konj-a.	PN[NOM.SG] AUX.3SG dismount:PFV-LPT[M.SG] from horse-GEN.SG	‘Peter got down from the horse.’		PN[NOM.SG] AUX.3SG сойти:PFV-LPT[M.SG] с лошадь-GEN.SG	‘Петер слез с коня.’		
-61	91	слушать	poslušati	NOM	ACC	TR	TR	An-a posluša radi-o.	PN-NOM.SG listen:IPFV.PRS.3SG radio-ACC.SG	‘Ana is listening to radio.’		PN-NOM.SG слушать:IPFV.PRS.3SG радио-ACC.SG	‘Ана слушает радио.’		
-61	92	слушаться	ubogati	NOM	ACC	TR	TR	An-a uboga mam-o.	PN-NOM.SG obey:IPFV.PRS.3SG mother-ACC.SG	‘Ana obeys her mother.’		PN-NOM.SG слушаться:IPFV.PRS.3SG мама-ACC.SG	‘Ана слушается маму.’		
-61	93	слышать	slišati	NOM	ACC	TR	TR	An-a sliši glasb-o.	PN-NOM.SG hear:IPFV.PRS.3SG music-ACC.SG	‘Ana hears the music.’		PN-NOM.SG слышать:IPFV.PRS.3SG музыка-ACC.SG	‘Ана слышит музыку.’		
-61	94	смешаться	zmešati se	NOM	zINS	Y	NOM_zINS	Med se je zmeša-l z mlek-om.	honey[NOM.SG] RFL AUX.3SG mix:PFV-LPT[M.SG] with milk-INS.SG	‘The honey got mixed with the milk.’		мёд[NOM.SG] RFL AUX.3SG смешать:PFV-LPT[M.SG] с молоко-INS.SG	‘Мёд смешался с молоком.’		
-61	95	смотреть	gledati	NOM	ACC	TR	TR	An-a gleda oblak-e.	PN-NOM.SG look:IPFV.PRS.3SG cloud-ACC.PL	‘Ana is looking at the clouds.’		PN-NOM.SG смотреть:IPFV.PRS.3SG туча-ACC.PL	‘Ана смотрит на тучи.’		
-61	96	снимать	sleči	NOM	ACC	TR	TR	An-a je slek-l-a bluz-o.	PN-NOM.SG AUX.3SG take_off:PFV-LPT-F.SG shirt-ACC.SG	‘Ana took off her shirt.’		PN-NOM.SG AUX.3SG снимать:PFV-LPT-F.SG рубашка-ACC.SG	‘Ана сняла рубашку.’		
-61	97	сниться	sanjati	NOM	ACC	TR	TR	Peter je sanja-l Devic-o Marij-o.	PN[NOM.SG] AUX.3SG dream:IPFV-LPT[M.SG] virgin-ACC.SG PN-ACC.SG	‘Peter dreams about Virgin Mary.’		PN[NOM.SG] AUX.3SG сниться:IPFV-LPT[M.SG] дева-ACC.SG PN-ACC.SG	‘Петеру снилась Дева Мария.’		
-61	98	соглашаться	strinjati se	NOM	zINS	Y	NOM_zINS	An-a se je strinja-l-a s Pavl-om.	PN-NOM.SG RFL AUX.3SG agree:PFV-LPT-F.SG с PN-INS.SG	‘Ana agreed with Pavel.’		PN-NOM.SG RFL AUX.3SG согласиться:PFV-LPT-F.SG с PN-INS.SG	‘Ана согласилась с Павлом.’		
-61	99	ссориться	spreti se	NOM	zINS	Y	NOM_zINS	Katarin-a se je spr-l-a z An-o.	PN-NOM.SG RFL AUX.3SG quarrel:PFV-LPT-F.SG with PN-INS.SG	‘Katarina had a quarrel with Ana.’		PN-NOM.SG RFL AUX.3SG поссориться:PFV-LPT-F.SG с PN-INS.SG	‘Катарина поссорилась с Аной.’		
-61	100	стоить	stati	NOM	ACC	TR	TR	Ta skodelic-a stane en-o kron-o.	this.NOM.SG.F cup-NOM.SG cost:IPFV.PRS.3SG one-ACC.SG.F crown-ACC.SG	‘This cup costs one crown.’		этот.NOM.SG.F чашка-NOM.SG стоить:IPFV.PRS.3SG один-ACC.SG.F крона-ACC.SG	‘Эта чашка стоит одну крону.’		
-61	101	стрелять	ustreliti	NOM	vACC	Y	NOM_vACC	Pavel je ustreli-l v ptic-o.	PN[NOM.SG] AUX.3SG shoot:PFV-LPT[M.SG] in bird-ACC.SG	‘Pavel shot at the bird.’		PN[NOM.SG] AUX.3SG выстрелить:PFV-LPT[M.SG] в птица-ACC.SG	‘Павел выстрелил в птицу.’		
-61	102	сыпать	nasuti	NOM	ACC	TR	TR	Peter je nasu-l sladkor v skodelic-o.	PN[NOM.SG] AUX.3SG pour:PFV-LPT[M.SG] sugar[ACC.SG] in cup-ACC.SG	‘Peter poured the sugar into the cup.’		PN[NOM.SG] AUX.3SG насыпать:PFV-LPT[M.SG] сахар[ACC.SG] в чашка-ACC.SG	‘Петер насыпал сахар в чашку.’		
-61	103	терять	izgubiti	NOM	ACC	TR	TR	Peter je izgubi-l ključ-e.	PN[NOM.SG] AUX.3SG lose:PFV-LPT[M.SG] key-ACC.PL	‘Peter lost his keys.’		PN[NOM.SG] AUX.3SG потерять:PFV-LPT[M.SG] ключ-ACC.PL	‘Петер потерял ключи.’		
-61	104	тонуть	potoniti	NOM	vLOC	Y	NOM_vLOC	Polen-o je potoni-l-o v vod-i.	log-NOM.SG AUX.3SG sink:PFV-LPT-N.SG in water-LOC.SG	‘The log sank in the water.’		полено-NOM.SG AUX.3SG утонуть:PFV-LPT-N.SG в вода-LOC.SG	‘Полено утонуло в воде.’		
-61	105	убивать	ubiti	NOM	ACC	TR	TR	Peter je ubi-l An-o.	PN[NOM.SG] AUX.3SG kill:PFV-LPT[M.SG] PN-ACC.SG	‘Peter killed Ana.’		PN[NOM.SG] AUX.3SG убить:PFV-LPT[M.SG] PN-ACC.SG	‘Петер убил Ану.’		
-61	106	ударить	udariti	NOM	ACC	TR	TR	Peter je udari-l Pavl-a.	PN[NOM.SG] AUX.3SG hit:PFV-LPT[M.SG] PN-ACC.SG	‘Peter hit Pavel.’		PN[NOM.SG] AUX.3SG ударить:PFV-LPT[M.SG] PN-ACC.SG	‘Петер ударил Павла.’		
-61	107	целовать	poljubiti	NOM	ACC	TR	TR	Peter je poljubi-l An-o.	PN[NOM.SG] AUX.3SG kiss:PFV-LPT[M.SG] PN-ACC.SG	‘Peter kissed Ana.’		PN[NOM.SG] AUX.3SG поцеловать:PFV-LPT[M.SG] PN-ACC.SG	‘Петер поцеловал Ану.’		
-61	108	читать	prebrati	NOM	ACC	TR	TR	An-a je prebra-l-a zanimiv-o knjig-o.	PN-NOM.SG AUX.3SG read:PFV-LPT-F.SG interesting-ACC.SG.F book-ACC.SG	‘Ana read an interesting book.’		PN-NOM.SG AUX.3SG прочитать:PFV-LPT-F.SG интересный-ACC.SG.F книга-ACC.SG	‘Ана прочитала интересную книгу.’		
-61	109	шевелить	migniti	NOM	zINS	Y	NOM_zINS	Peter je migni-l s palc-em.	PN[NOM.SG] AUX.3SG move:PFV-LPT[M.SG] with finger-INS.SG	‘Peter moved his finger.’		PN[NOM.SG] AUX.3SG пошевелить:PFV-LPT[M.SG] с палец-INS.SG	‘Петер пошевелил пальцем.’		
-61	110	уважать	spoštovati	NOM	ACC	TR	TR	Katarin-a spoštuje An-o.	PN-NOM.SG respect:IPFV.PRS.3SG PN-ACC.SG	‘Katarina respects Ana.’		PN-NOM.SG уважать:IPFV.PRS.3SG PN-ACC.SG	‘Катарина уважает Ану.’		
-61	111	брезговать	gnusiti se	DAT	NOM	X	DAT_NOM	Petr-u se gnusi umazan-a posod-a.	PN-DAT.SG RFL be_squeamish:IPFV.PRS.3SG dirty-NOM.SG.F dishes-NOM.SG	‘Peter is squeamish about dirty dishes.’		PN-DAT.SG RFL брезговать:IPFV.PRS.3SG грязный-NOM.SG.F посуда-NOM.SG	‘Петер брезгует грязной посудой.’		
-61	112	быть довольным	biti zadovoljen	NOM	zINS	Y	NOM_zINS	Peter je zadovoljen s sin-om.	PN[NOM.SG] be.PRS.3SG content[NOM.SG.M] with son-INS.SG	‘Peter is content with his son.’	Non-verbal predicate.	PN[NOM.SG] быть.PRS.3SG довольный[NOM.SG.M] с сын-INS.SG	‘Петер доволен сыном.’		
-61	113	влюбляться	zaljubiti se	NOM	vACC	Y	NOM_vACC	Peter se je zaljubi-l v An-o.	PN[NOM.SG] RFL AUX.3SG fall_in_love:PFV-LPT[M.SG] in PN-ACC.SG	‘Peter fell in love with Ana.’		PN[NOM.SG] RFL AUX.3SG влюбить:PFV-LPT[M.SG] в PN-ACC.SG	‘Петер влюбился в Ану.’		
-61	114	доверять	zaupati	NOM	DAT	Y	NOM_DAT	Peter zaupa An-i.	PN[NOM.SG] trust:IPFV.PRS.3SG PN-DAT.SG.F	‘Peter trusts Ana.’		PN[NOM.SG] доверять:IPFV.PRS.3SG PN-DAT.SG.F	‘Петер доверяет Ане.’		
-61	115	жалеть	smiliti se	DAT	NOM	X	DAT_NOM	Petr-u se mat-i smili.	PN-DAT.SG RFL mother-NOM.SG pity:PFV.PRS.3SG	‘Peter sympathises with his mother.’		PN-DAT.SG RFL мать-NOM.SG жалеть:PFV.PRS.3SG 	‘Петер жалеет свою мать.’		
-61	116	завидовать	zavidati	NOM	DAT	Y	NOM_DAT	An-a zavida Petr-u.	PN-NOM.SG envy:IPFV.PRS.3SG PN-DAT.SG	‘Ana envies Peter.’		PN-NOM.SG завидовать:IPFV.PRS.3SG PN-DAT.SG	‘Ана завидует Петеру.’		
-61	117	злиться	jeziti se	NOM	naACC	Y	NOM_naACC	An-a se jezi na Petr-a.	PN-NOM.SG RFL anger:IPFV.PRS.3SG on PN-ACC.SG	‘Ana is angry with Peter.’		PN-NOM.SG RFL злить:IPFV.PRS.3SG на PN-ACC.SG	‘Ана злится на Петера.’		
-61	118	удивляться	začuditi	ACC	NOM	X	ACC_NOM	Petr-a je začudi-l-o daril-o.	PN-ACC.SG AUX.3SG surprise:PFV-LPT-N.SG gift-NOM.SG	‘Peter was surprised at this gift.’		PN-ACC.SG AUX.3SG удивлять:PFV-LPT-N.SG подарок-NOM.SG	‘Петера удивил этот подарок.’		
-61	119	любить-2	imeti rad	NOM	ACC	TR	TR	An-a ima rad-a čaj.	PN-NOM.SG have:IPFV.PRS.3SG happy-F.SG tea[ACC.SG]	‘Ana loves tea.’		PN-NOM.SG иметь:IPFV.PRS.3SG рад-F.SG чай[ACC.SG]	‘Ана любит чай.’		
-61	120	наслаждаться	uživati	NOM	vLOC	Y	NOM_vLOC	An-a uživa v čaj-u.	PN-NOM.SG enjoy:IPFV.PRS.3SG in tea-LOC.SG	‘Ana enjoys hot tea.’		PN-NOM.SG наслаждаться:IPFV.PRS.3SG в чай-LOC.SG	‘Ана наслаждается чаем.’		
-61	121	хотеть	želeti	NOM	ACC	TR	TR	An-a želi nov-i mobilnik.	PN-NOM.SG want:IPFV.PRS.3SG new-ACC.SG.M mobile_phone[ACC.SG]	‘Ana wants a new mobile phone.’		PN-NOM.SG хотеть:IPFV.PRS.3SG новый-ACC.SG.M мобильник[ACC.SG]	‘Ана хочет новый мобильник.’		
-61	122	сердиться	jeziti se	NOM	naACC	Y	NOM_naACC	Pavel se jezi na Petr-a.	PN[NOM.SG] RFL anger:IPFV.PRS.3SG on PN-ACC.SG	‘Pavel is angry with Peter.’		PN[NOM.SG] RFL злить:IPFV.PRS.3SG на PN-ACC.SG	‘Павел злится на Петра.’		
-61	123	обижаться	zameriti	NOM	DAT	Y	NOM_DAT	Peter je zameri-l An-i.	PN[NOM.SG] AUX.3SG resent:PFV-LPT[M.SG] PN-DAT.SG	‘Peter took offence at Ana.’		PN[NOM.SG] AUX.3SG обидеться:PFV-LPT[M.SG] PN-DAT.SG	‘Петер обиделся на Ану.’		
-61	124	огорчать	razžalostiti	NOM	ACC	TR	TR	Pavel je zelo razžalosti-l An-o.	PN[NOM.SG] AUX.3SG very upset:PFV-LPT[M.SG] PN-ACC.SG	‘Pavel greatly upset Ana.’		PN[NOM.SG] AUX.3SG очень огорчить:PFV-LPT[M.SG] PN-ACC.SG	‘Павел очень огорчил Ану.’		
-61	125	поражаться	biti navdušen	NOM	nadINS	Y	NOM_nadINS	Pavel je bi-l navdušen nad tem mest-om.	PN[NOM.SG] AUX.3SG be-LPT[M.SG] thrilled[NOM.M.SG] above this.INS.SG.N city-INS.SG	‘Pavel was marvelled at this town.’	Non-verbal predicate (passive participle).	PN[NOM.SG] AUX.3SG быть-LPT[M.SG] пораженный[NOM.M.SG] над этот.INS.SG.N город-INS.SG	‘Павел был поражен этим городом.’		
-61	126	презирать	prezirati	NOM	ACC	TR	TR	Pavel prezira Petr-a.	PN[NOM.SG] despise:IPFV.PRS.3SG PN-ACC.SG	‘Pavel despises Peter.’		PN[NOM.SG] презирать:IPFV.PRS.3SG PN-ACC.SG	‘Павел презирает Петера.’		
-61	127	огорчаться	biti potrt	NOM	zaradiGEN	Y	NOM_zaradiGEN	An-a je bi-l-a potrt-a zaradi sin-a.	PN-NOM.SG AUX.3SG be-LPT-F.SG depressed-NOM.F.SG because_of son-GEN.SG	‘Ana got upset because of ther son.’	Non-verbal predicate (passive participle).	PN-NOM.SG AUX.3SG быть-LPT-F.SG подавленный-NOM.F.SG из.за сын-GEN.SG	‘Ана огорчилась из-за сына.’		
-61	128	раздражаться	razburjati se	NOM	zaradiGEN	Y	NOM_zaradiGEN	Pavel se razburja zaradi Аn-e.	PN[NOM.SG] RFL upset:IPFV.PRS.3SG because_of PN-GEN.SG	‘Pavel is getting irritated with Ana.’		PN[NOM.SG] RFL раздражать:IPFV.PRS.3SG из.за PN-GEN.SG	‘Павел раздражается на Ану.’		
-61	129	симпатизировать	biti všeč	DAT	NOM	X	DAT_NOM	Petr-u je všeč An-a.	PN-DAT.SG be.PRS.3SG pleasant PN-NOM.SG	‘Peter is fond of Ana.’		PN-DAT.SG быть.PRS.3SG приятно PN-NOM.SG	‘Петер симпатизирует Ане.’		
-61	130	стесняться	sramovati se	NOM	GEN	Y	NOM_GEN	Peter se sramuje svoj-e višin-e.	PN[NOM.SG] RFL ashame:IPFV.PRS.3SG one’s-GEN.SG.F height-GEN.SG	‘Peter is shy about his height.’		PN[NOM.SG] RFL стесняться:IPFV.PRS.3SG свой-GEN.SG.F рост-GEN.SG	‘Петер стесняется своего роста.’		
-50	1	болеть-1	ağrımak	GEN	NOM	X	GEN_NOM	Mehmed-in baş-ı ağrı-yor.	PN-GEN head-P.3 ache-PRS	‘Mehmet has a headache.’		PN-GEN голова-P.3 болеть-PRS	‘У Мехмета болит голова’.		
-50	2	болеть-2	grip olmak	GEN	NOM	X	GEN_NOM	Mehmed-ın grib-i var.	PN-GEN flu-P.3 there_is	‘Mehmet has the flu.’		PN-GEN грипп-P.3 иметься	‘П. болеет гриппом’.		
-50	3	бояться	korkmak	NOM	ABL	Y	NOM_ABL	Mehmet köpek-ten kork-uyor.	PN dog-ABL be_afraid-PRS	‘Mehmet is afraid of the dog.’		PN собака-ABL бояться-PRS	‘Мехмет боится собаки’.		
-50	4	бросить	atmak	NOM	ACC	TR	TR	Mehmet taş-ı at-tı.	PN stone-ACC throw-PST	‘Mehmet threw his stone.’		PN камень-ACC бросить-PST	‘Мехмет бросил камень’.		
-50	5	быть достаточно	yetmek	DAT	NOM	X	DAT_NOM	Mehmed-e para şimdi yet-iyor.	PN-DAT money now be_enough-PRS	‘Now Mehmet has enough money.’		PN-DAT деньги сейчас хватать-PRS	‘Мехмету хватает денег’.		
-50	6	быть похожим	benzemek	NOM	DAT	Y	NOM_DAT	Mehmet dede-si Kemal-e benzi-yor.	PN grandfather-P.3 PN-DAT be_similar-PRS	‘Mehmet resembles his grandfather Kemal.’		PN дедушка-P.3 PN-DAT быть_похожим-PRS	‘Мехмет похож на своего дедушку Кемаля’.		
-50	7	верить	inanmak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e inan-iyor.	PN PN-DAT believe-PRS	‘Mehmet believes Filiz.’		PN PN-DAT верить-PRS	‘Мехмет верит Филиз’.		
-50	8	взять	almak	NOM	ACC	TR	TR	Mehmet kitab-ı raf-tan al-dı.	PN book-ACC shelf-ABL take-PST	‘Mehmet took the book from the shelf.’		PN книга-ACC полка-ABL взять-PST	‘Мехмет взял книгу с полки’.		
-50	9	видеть	görmek	NOM	ACC	TR	TR	Mehmet ev-i gör-üyor.	PN house-ACC see-PRS	‘Mehmet sees the house.’		PN дом-ACC видеть-PRS	‘Мехмет видит дом’.		
-50	10	влиять	etkilemek	NOM	ACC	TR	TR	Yaş akl-ı etkile-r.	age mind-ACC affect-AOR	‘Age influences memory.’		возраст разум-ACC влиять-AOR	‘Возраст влияет на память’.		
-50	11	встречаться	rastlamak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e rastla-dı.	PN PN-DAT come_across-PST	‘Mehmet encountered Filiz’.		PN PN-DAT встретить-PST	‘Мехмет встретил Филиз’.		
-50	12	входить 	girmek	NOM	DAT	Y	NOM_DAT	Mehmet ev-e gir-di.	PN house-DAT enter-PST	‘Mehmet entered the house.’		PN дом-DAT войти-PST	‘Мехмет вошел в дом’.		
-50	13	выиграть	galip gelmek	NOM	DAT	Y	NOM_DAT	Mehmet Kemal-e galip gel-di.	PN PN-DAT winner come-PST	‘Mehmet beat Kemal.’		PN PN-DAT победитель прийти-PST	‘Мехмет выиграл у Кемаля’.		
-50	14	выходить	çıkmak	NOM	ABL	Y	NOM_ABL	Mehmet ev-den çık-tı.	PN house-ABL exit-PST	‘Mehmet went out of the house.’		PN дом-ABL выйти-PST	‘Мехмет вышел из дома’.		
-50	15	гнать	sürmek	NOM	ACC	TR	TR	Mehmet ineğ-i sür-üyor.	PN cow-ACC drive-PRS	‘Mehmet is driving the cow.’		PN корова-ACC вести-PRS	‘Мехмет гонит корову’.		
-50	16	гнуть	bükmek	NOM	ACC	TR	TR	Mehmet dal-ı bük-tü.	PN branch-ACC bend-PST	‘Mehmet bent the branch.’		PN ветвь-ACC гнуть-PST	‘Мехмет согнул ветку’.		
+61	38	иметь	imeti	NOM	ACC	TR	TR	mož ima avt-o	husband[NOM.SG] have:IPFV.PRS.3SG car-ACC.SG	‘Husband has a car.’		муж[NOM.SG] иметь:IPFV.PRS.3SG машина-ACC.SG	‘У мужа есть машина.’		
+61	39	искать	iskati	NOM	ACC	TR	TR	An-a išče ključ-e	PN-NOM.SG look_for:IPFV.PRS.3SG key-ACC.PL	‘Ana is looking for her keys.’		PN-NOM.SG искать:IPFV.PRS.3SG ключ-ACC.PL	‘Ана ищет ключи.’		
+61	40	красить	pobarvati	NOM	ACC	TR	TR	Peter je pobarva-l ograj-o	PN[NOM.SG] AUX.3SG paint:PFV-LPT[M.SG] fence-ACC.SG	‘Peter painted the fence.’		PN[NOM.SG] AUX.3SG красить:PFV-LPT[M.SG] забор-ACC.SG	‘Петер покрасил забор.’		
+61	41	кусать	ugrizniti	NOM	ACC	TR	TR	pes je ugrizni-l mam-o	dog[NOM.SG] AUX.3SG bite:PFV-LPT[M.SG] mother-ACC.SG	‘A dog bit the mother.’		собака[NOM.SG] AUX.3SG кусать:PFV-LPT[M.SG] мама-ACC.SG	‘Собака укусила маму.’		
+61	42	лишаться	ostati	NOM	brezGEN	TR	NOM_brezGEN	Pavel je osta-l brez dom-a	PN[NOM.SG] AUX.3SG remain:PFV-LPT[M.SG] without house-GEN.SG	‘Pavel lost his house.’		PN[NOM.SG] AUX.3SG остаться:PFV-LPT[M.SG] без дом-GEN.SG	‘Павел потерял дом.’		
+61	43	ловить	loviti	NOM	ACC	TR	TR	deklic-a lovi mačk-o	girl-NOM.SG try_to_catch:IPFV.PRS.3SG cat-ACC.SG	‘The girl is trying to catch the cat.’		девочка-NOM.SG ловить:IPFV.PRS.3SG кот-ACC.SG	‘Девочка ловит кошку.’		
+61	44	ломать	zlomiti	NOM	ACC	TR	TR	Peter je zlomi-l palčk-o	PN[NOM.SG] AUX.3SG break:PFV-LPT[M.SG] stick-ACC.SG	‘Peter broke a stick.’		PN[NOM.SG] AUX.3SG сломать:PFV-LPT[M.SG] палка-ACC.SG	‘Петер сломал палку.’		
+61	45	льстить	se dobrika	NOM	DAT	Y	NOM_DAT	Katarin-a se dobrika An-i	PN-NOM.SG RFL flatter:IPFV.PRS.3SG PN-DAT.SG	‘Katarina is flattering Ana.’		PN-NOM.SG RFL льстить:IPFV.PRS.3SG PN-DAT.SG	‘Катарина льстит Ане.’		
+61	46	любить-1	ljubiti	NOM	ACC	TR	TR	An-a ljubi Petr-a	PN-NOM.SG love:IPFV.PRS.3SG PN-ACC.SG	‘Ana loves Peter.’		PN-NOM.SG любить:IPFV.PRS.3SG PN-ACC.SG	‘Ана любит Петра.’		
+61	47	махать	mahati	NOM	zINS	Y	NOM_zINS	Pavel maha z robčk-om	PN[NOM.SG] wave:IPFV.PRS.3SG with handkerchief-INS.SG	‘Pavel is waving a handkerchief.’		PN[NOM.SG] махать:IPFV.PRS.3SG с платок-INS.SG	‘Павел машет платком.’		
+61	48	мечтать	sanjati	NOM	oLOC	Y	NOM_oLOC	Peter sanja o avt-u	PN[NOM.SG] dream:IPFV.PRS.3SG about car-LOC.SG	‘Peter is dreaming of a new car.’		PN[NOM.SG] мечтать:IPFV.PRS.3SG о машина-LOC.SG	‘Петер мечтает о машине.’		
+61	49	мыть	umiti	NOM	ACC	TR	TR	Peter je umi-l skodelic-o	PN[NOM.SG] AUX.3SG wash:PFV-LPT[M.SG] cup-ACC.SG	‘Peter washed the cup.’		PN[NOM.SG] AUX.3SG вымыть:PFV-LPT[M.SG] чашка-ACC.SG	‘Петер вымыл чашку.’		
+61	50	надевать	obleči	NOM	ACC	TR	TR	Pavel je obleke-l hlač-e	PN[NOM.SG] AUX.3SG put_on:PFV-LPT[M.SG] trousers-ACC.PL	‘Pavel put on his trousers.’		PN[NOM.SG] AUX.3SG надеть:PFV-LPT[M.SG] штаны-ACC.PL	‘Павел надел штаны.’		
+61	51	называться	imenovati se	NOM	NOM	Y	NOM_NOM	ta predmet se imenuje kompas	this.NOM.SG.M thing[NOM.SG] RFL call:IPFV.PRS.3SG compass[NOM.SG]	‘This tool is called a compas.’		этот.NOM.SG.M предмет[NOM.SG] RFL называть:IPFV.PRS.3SG компас[NOM.SG]	‘Этот предмет называется компас.’		
+61	52	наказывать	kaznovati	NOM	ACC	TR	TR	Peter je kaznova-l sin-a	PN[NOM.SG] AUX.3SG punish:PFV-LPT[M.SG] son-ACC.SG	‘Peter punished his.’		PN[NOM.SG] AUX.3SG наказать:PFV-LPT[M.SG] сын-ACC.SG	‘Петер наказал своего сына.’		
+61	53	напасть	napasti	NOM	ACC	TR	TR	medved je napade-l ribič-a	bear[NOM.SG] AUX.3SG attack:PFV-LPT[M.SG] fisherman-ACC.SG	‘A bear attacked a fisherman.’		медведь[NOM.SG] AUX.3SG напасть:PFV-LPT[M.SG] рыбак-ACC.SG	‘Медведь напал на рыбака.’		
+61	54	наполняться	napolniti se	NOM	zINS	Y	NOM_zINS	vedr-o se je napolni-l-o z vod-o	bucket-NOM.SG RFL AUX.3SG fill:PFV-LPT-N.SG with water-INS.SG	‘The bucket filled with water.’		ведро-NOM.SG RFL AUX.3SG наполнить:PFV-LPT-N.SG с вода-INS.SG	‘Ведро наполнилось водой.’		
+61	55	находить	najti	NOM	ACC	TR	TR	Peter je naše-l ključ-e	PN[NOM.SG] AUX.3SG find:PFV-LPT[M.SG] key-ACC.PL	‘Peter found his keys.’		PN[NOM.SG] AUX.3SG найти:PFV-LPT[M.SG] ключ-ACC.PL	‘Петер нашел ключи.’		
+61	56	недоставать	manjkati	DAT	NOM	X	DAT_NOM	An-i manjka en dolar	PN-DAT.SG lack:IPFV.PRS.3SG one.NOM.SG.M dollar[NOM.SG]	‘Ana is short one dollar.’		PN-DAT.SG не.хватать:IPFV.PRS.3SG один.NOM.SG.M доллар[NOM.SG]	‘Ане не хватает одного доллара.’		
+61	57	ненавидеть	sovražiti	NOM	ACC	TR	TR	Peter sovraži An-o	PN[NOM.SG] hate:IPFV.PRS.3SG PN-ACC.SG	‘Peter hates Ana.’		PN[NOM.SG] ненавидеть:IPFV.PRS.3SG PN-ACC.SG	‘Петер ненавидит Ану.’		
+61	58	нравиться	biti všeč	DAT	NOM	X	DAT_NOM	Petr-u je všeč ta srajc-a	PN-DAT.SG be.PRS.3SG pleasant this.NOM.SG.F shirt-NOM.SG	‘Peter likes this shirt.’	Non-verbal predicate.	PN-DAT.SG быть.PRS.3SG приятно этот.NOM.SG.F рубашка-NOM.SG	‘Петру нравится эта рубашка.’		
+61	59	нуждаться	potrebovati	NOM	ACC	TR	TR	An-a potrebuje denar	PN-NOM.SG need:IPFV.PRS.3SG money[ACC.SG]	‘Ana needs money.’		PN-NOM.SG нуждаться:IPFV.PRS.3SG деньги[ACC.SG]	‘Ана нуждается в деньгах.’		
+61	60	окружать	obdajati	NOM	ACC	TR	TR	mest-o obdaja obzidj-e	city-ACC.SG surround:IPFV.PRS.3SG wall-NOM.SG	‘Walls surround the city.’		город-ACC.SG окружать:IPFV.PRS.3SG стена-NOM.SG	‘Стены окружают город.’		
+61	61	оставаться	ostati	DAT	NOM	X	DAT_NOM	An-i je osta-l-o deset dolarj-ev	PN-DAT.SG AUX.3SG remain:PFV-LPT-N.SG 10[NOM] dollar-GEN.PL	‘Ana has 10 dollars left.’		PN-DAT.SG AUX.3SG остаться:PFV-LPT-N.SG 10[NOM] доллар-GEN.PL	‘У Аны осталось 10 долларов.’		
+61	62	отвечать	odgovoriti	NOM	DAT	Y	NOM_DAT	Peter je odgovori-l učitelj-u	PN[NOM.SG] AUX.3SG answer:PFV-LPT[M.SG] teacher-DAT.SG	‘Peter answered the teacher.’		PN[NOM.SG] AUX.3SG ответить:PFV-LPT[M.SG] учитель-DAT.SG	‘Петер ответил учителю.’		
+61	63	открывать	odpreti	NOM	ACC	TR	TR	Peter je odpr-l bank-o	PN[NOM.SG] AUX.3SG open:PFV-LPT[M.SG] can-ACC.SG	‘Peter opened a can.’		PN[NOM.SG] AUX.3SG открыть:PFV-LPT[M.SG] банка-ACC.SG	‘Петер открыл банку.’		
+61	64	отличаться	razlikovati se	NOM	odGEN	Y	NOM_odGEN	moj-a srajc-a se razlikuje od tvoj-e	my-NOM.SG.F shirt-NOM.SG RFL be_different:IPFV.PRS.3SG from your-GEN.SG.F	‘My shirt is different from yours.’		мой-NOM.SG.F рубашка-NOM.SG RFL отличаться:IPFV.PRS.3SG от твой-GEN.SG.F	‘Моя рубашка отличается от твоей.’		
+61	65	отстать	zaostati	NOM	zaINS	Y	NOM_zaINS	An-a je zaosta-l-a za Pavl-om	PN-NOM.SG AUX.3SG remain:PFV-LPT-F.SG behind PN-INS.SG	‘Ana fell behind Pavel.’		PN-NOM.SG AUX.3SG остаться:PFV-LPT-F.SG за PN-INS.SG	‘Ана остала от Павла.’		
+61	66	пахать	orati	NOM	ACC	TR	TR	An-a orje polj-e	PN-NOM.SG plough:IPFV.PRS.3SG field-ACC.SG	‘Ana is ploughing the field.’		PN-NOM.SG пахать:IPFV.PRS.3SG поле-ACC.SG	‘Ана пашет поле.’		
+61	67	пахнуть	dišati	NOM	poLOC	Y	NOM_poLOC	moj-e rok-e dišijo po bencin-u	my-NOM.PL.F hand-NOM.PL smell:IPFV.PRS.3PL by gasoline-LOC.SG	‘My hands smell of gasoline.’		мой-NOM.PL.F рука-NOM.PL пахнуть:IPFV.PRS.3PL по бензин-LOC.SG	‘Мои руки пахнут бензином.’		
+61	68	пересечь	prečkati	NOM	ACC	TR	TR	Peter je prečka-l cest-o	PN[NOM.SG] AUX.3SG cross:PFV-LPT[M.SG] road-ACC.SG	‘Peter crossed the road.’		PN[NOM.SG] AUX.3SG перейти:PFV-LPT[M.SG] дорога-ACC.SG	‘Петер перешел дорогу.’		
+61	69	петь	zapeti	NOM	ACC	TR	TR	Peter je zape-l lep-o pesem	PN[NOM.SG] AUX.3SG sing:PFV-LPT[M.SG] beautiful-ACC.SG.F song[ACC.SG]	‘Peter sang a beautiful song.’		PN[NOM.SG] AUX.3SG спеть:PFV-LPT[M.SG] красивый-ACC.SG.F песня[ACC.SG]	‘Петер спел красивую песню.’		
+61	70	писать	napisati	NOM	ACC	TR	TR	An-a je napisa-l-a pism-o	PN-NOM.SG AUX.3SG write:PFV-LPT-F.SG letter-ACC.SG	‘Ana wrote a letter.’		PN-NOM.SG AUX.3SG написать:PFV-LPT-F.SG письмо-ACC.SG	‘Ана написала письмо.’		
+61	71	пить	spiti	NOM	ACC	TR	TR	Peter je spi-l mlek-o	PN[NOM.SG] AUX.3SG drink:PFV-LPT[M.SG] milk-ACC.SG	‘Peter drank the milk.’		PN[NOM.SG] AUX.3SG выпить:PFV-LPT[M.SG] молоко-ACC.SG	‘Петер выпил молоко.’		
+61	72	плавить	razstopiti	NOM	ACC	TR	TR	Peter je razstopi-l kos svinc-a	PN[NOM.SG] AUX.3SG melt:PFV-LPT[M.SG] piece[ACC.SG] lead-GEN.SG	‘Peter melted a piece of lead.’		PN[NOM.SG] AUX.3SG расплавить:PFV-LPT[M.SG] кусок[ACC.SG] свинец-GEN.SG	‘Петер расплавил кусок свинца.’		
+61	73	подходить	iti	NOM	kDAT	Y	NOM_kDAT	ta pas gre k moj-emu plašč-u	this.NOM.SG.M belt[NOM.SG] go:IPFV.PRS.3SG to my-DAT.SG.M dress-DAT.SG	‘This belt goes well with my dress.’		этот.NOM.SG.M пояс[NOM.SG] идти:IPFV.PRS.3SG к мой-DAT.SG.M платье-DAT.SG	‘Этот пояс подходит к моему платью.’		
+61	74	покидать	zapustiti	NOM	ACC	TR	TR	Peter je zapusti-l rojstn-o mest-o	PN[NOM.SG] AUX.3SG leave:PFV-LPT[M.SG] native-ACC.SG.N city-ACC.SG	‘Peter left his native city.’		PN[NOM.SG] AUX.3SG покинуть:PFV-LPT[M.SG] родной-ACC.SG.N город-ACC.SG	‘Петер покинул родной город.’		
+61	75	покрывать	pokrivati	NOM	ACC	TR	TR	preprog-a pokriva cel-a tl-a	carpet-NOM.SG cover:IPFV.PRS.3SG whole-ACC.PL.N floor-ACC.PL	‘The carpet covers the whole floor.’		ковер-NOM.SG покрывать:IPFV.PRS.3SG весь-ACC.PL.N пол-ACC.PL	‘Ковер покрывает весь пол.’		
+61	76	помнить	spominjati se	NOM	GEN	Y	NOM_GEN	Peter se dobro spominja dom-a	PN[NOM.SG] RFL well remember:IPFV.PRS.3SG house-GEN.SG	‘Peter remembers the house well.’		PN[NOM.SG] RFL хорошо помнить:IPFV.PRS.3SG дом-GEN.SG	‘Петер хорошо помнит дом.’		
+61	77	помочь	pomagati	NOM	DAT	Y	NOM_DAT	Peter je pomaga-l An-i	PN[NOM.SG] AUX.3SG help:PFV/IPFV-LPT[M.SG] PN-DAT.SG	‘Peter helped Ana.’		PN[NOM.SG] AUX.3SG помочь:PFV/IPFV-LPT[M.SG] PN-DAT.SG	‘Петер помог Ане.’		
+61	78	понимать	razumeti	NOM	ACC	TR	TR	Peter razume francosk-i jezik	PN[NOM.SG] understand:IPFV.PRS.3SG French-ACC.SG.M language[ACC.SG]	‘Peter understands French.’		PN[NOM.SG] понимать:IPFV.PRS.3SG французский-ACC.SG.M язык[ACC.SG]	‘Петер понимает французский язык.’		
+61	79	попасть	udariti	NOM	vACC	Y	NOM_vACC	v hiš-o je udari-l-a strel-a	in house-ACC.SG AUX.3SG hit:PFV-LPT-F.SG lightning-NOM.SG	‘Lightning hit the house.’		в дом-ACC.SG AUX.3SG ударить:PFV-LPT-F.SG молния-NOM.SG	‘Молния попала в дом.’		
+61	80	порезаться	urezati se	NOM	zINS	Y	NOM_zINS	Peter se je ureza-l z britvij-o	PN[NOM.SG] RFL AUX.3SG cut:PFV-LPT[M.SG] with razor-INS.SG	‘Peter cut himself with a razor.’		PN[NOM.SG] RFL AUX.3SG порезать:PFV-LPT[M.SG] с бритва-INS.SG	‘Петер порезался бритвой.’		
+61	81	прилипать	prilepiti se	NOM	naACC	Y	NOM_naACC	kozarec se je prilepi-l na miz-o	glass[NOM.SG] RFL AUX.3SG stick:PFV-LPT[M.SG] on table-ACC.SG	‘The glass got stuck to the table.’		стакан[NOM.SG] RFL AUX.3SG прилипнуть:PFV-LPT[M.SG] на стол-ACC.SG	‘Стакан прилип к столу.’		
+61	82	проиграть	izgubiti	NOM	zINS	Y	NOM_zINS	Peter je izgubi-l s Pavl-om	PN[NOM.SG] AUX.3SG lose:PFV-LPT[M.SG] with PN-INS.SG	‘Peter lost to Pavel.’		PN[NOM.SG] AUX.3SG проиграть:PFV-LPT[M.SG] с PN-INS.SG	‘Петер проиграл Павлу.’		
+61	83	радоваться	razveseliti se	NOM	GEN	Y	NOM_GEN	general se je razveseli-l pism-a	general[NOM.SG] RFL AUX.3SG rejoice:PFV-LPT[M.SG] letter-GEN.SG	‘The general was glad about the letter.’		генерал[NOM.SG] RFL AUX.3SG обрадоваться:PFV-LPT[M.SG] письмо-GEN.SG	‘Генерал обрадовался письму.’		
+61	84	разговаривать	pogovarjati se	NOM	zINS	Y	NOM_zINS	Peter se pogovarja s Pavl-om	PN[NOM.SG] RFL speak:IPFV.PRS.3SG with PN-INS.SG	‘Peter is speaking with Pavel.’		PN[NOM.SG] RFL разговаривать:IPFV.PRS.3SG с PN-INS.SG	‘Петер разговаривает с Павлом.’		
+61	85	рожать	roditi	NOM	ACC	TR	TR	An-a je rodi-l-a sin-a	PN-NOM.SG AUX.3SG give_birth-LPT-F.SG son-ACC.SG	‘Ana gave birth to a son.’		PN-NOM.SG AUX.3SG родить-LPT-F.SG сын-ACC.SG	‘Ана родила сына.’		
+61	86	ронять	spustiti	NOM	ACC	TR	TR	An-a je spusti-l-a kozarec	PN-NOM.SG AUX.3SG drop:PFV-LPT-F.SG glass[ACC.SG]	‘Ana dropped the glass.’		PN-NOM.SG AUX.3SG уронить:PFV-LPT-F.SG стакан[ACC.SG]	‘Ана уронила стакан.’		
+61	87	руководить	upravljati	NOM	ACC	TR	TR	An-a upravlja naš-o vas	PN-NOM.SG govern.PRS.3SG our-ACC.SG.F village[ACC.SG]	‘Ana runs our village.’		PN-NOM.SG управлять.PRS.3SG наш-ACC.SG.F деревня[ACC.SG]	‘Ана управляет нашей деревней.’		
+61	88	скучать	tožiti se 	DAT	poLOC	XY	DAT_poLOC	Petr-u se toži po An-i	PN-DAT.SG RFL miss:IPFV.PRS.3SG by PN-LOC.SG	‘Peter misses Ana.’		PN-DAT.SG RFL скучать:IPFV.PRS.3SG по PN-LOC.SG	‘Петер скучает по Ане.’		
+61	89	следовать	slediti	NOM	DAT	Y	NOM_DAT	Peter sledi Pavl-u	PN[NOM.SG] follow:IPFV.PRS.3SG PN-DAT.SG	‘Peter follows Pavel.’		PN[NOM.SG] следовать:IPFV.PRS.3SG PN-DAT.SG	‘Петер идет за Павлом.’		
+61	90	слезать	zlesti	NOM	zGEN	Y	NOM_zGEN	Peter je zleze-l s konj-a	PN[NOM.SG] AUX.3SG dismount:PFV-LPT[M.SG] from horse-GEN.SG	‘Peter got down from the horse.’		PN[NOM.SG] AUX.3SG сойти:PFV-LPT[M.SG] с лошадь-GEN.SG	‘Петер слез с коня.’		
+61	91	слушать	poslušati	NOM	ACC	TR	TR	An-a posluša radi-o	PN-NOM.SG listen:IPFV.PRS.3SG radio-ACC.SG	‘Ana is listening to radio.’		PN-NOM.SG слушать:IPFV.PRS.3SG радио-ACC.SG	‘Ана слушает радио.’		
+61	92	слушаться	ubogati	NOM	ACC	TR	TR	An-a uboga mam-o	PN-NOM.SG obey:IPFV.PRS.3SG mother-ACC.SG	‘Ana obeys her mother.’		PN-NOM.SG слушаться:IPFV.PRS.3SG мама-ACC.SG	‘Ана слушается маму.’		
+61	93	слышать	slišati	NOM	ACC	TR	TR	An-a sliši glasb-o	PN-NOM.SG hear:IPFV.PRS.3SG music-ACC.SG	‘Ana hears the music.’		PN-NOM.SG слышать:IPFV.PRS.3SG музыка-ACC.SG	‘Ана слышит музыку.’		
+61	94	смешаться	zmešati se	NOM	zINS	Y	NOM_zINS	med se je zmeša-l z mlek-om	honey[NOM.SG] RFL AUX.3SG mix:PFV-LPT[M.SG] with milk-INS.SG	‘The honey got mixed with the milk.’		мёд[NOM.SG] RFL AUX.3SG смешать:PFV-LPT[M.SG] с молоко-INS.SG	‘Мёд смешался с молоком.’		
+61	95	смотреть	gledati	NOM	ACC	TR	TR	An-a gleda oblak-e	PN-NOM.SG look:IPFV.PRS.3SG cloud-ACC.PL	‘Ana is looking at the clouds.’		PN-NOM.SG смотреть:IPFV.PRS.3SG туча-ACC.PL	‘Ана смотрит на тучи.’		
+61	96	снимать	sleči	NOM	ACC	TR	TR	An-a je slek-l-a bluz-o	PN-NOM.SG AUX.3SG take_off:PFV-LPT-F.SG shirt-ACC.SG	‘Ana took off her shirt.’		PN-NOM.SG AUX.3SG снимать:PFV-LPT-F.SG рубашка-ACC.SG	‘Ана сняла рубашку.’		
+61	97	сниться	sanjati	NOM	ACC	TR	TR	Peter je sanja-l Devic-o Marij-o	PN[NOM.SG] AUX.3SG dream:IPFV-LPT[M.SG] virgin-ACC.SG PN-ACC.SG	‘Peter dreams about Virgin Mary.’		PN[NOM.SG] AUX.3SG сниться:IPFV-LPT[M.SG] дева-ACC.SG PN-ACC.SG	‘Петеру снилась Дева Мария.’		
+61	98	соглашаться	strinjati se	NOM	zINS	Y	NOM_zINS	An-a se je strinja-l-a s Pavl-om	PN-NOM.SG RFL AUX.3SG agree:PFV-LPT-F.SG с PN-INS.SG	‘Ana agreed with Pavel.’		PN-NOM.SG RFL AUX.3SG согласиться:PFV-LPT-F.SG с PN-INS.SG	‘Ана согласилась с Павлом.’		
+61	99	ссориться	spreti se	NOM	zINS	Y	NOM_zINS	Katarin-a se je spr-l-a z An-o	PN-NOM.SG RFL AUX.3SG quarrel:PFV-LPT-F.SG with PN-INS.SG	‘Katarina had a quarrel with Ana.’		PN-NOM.SG RFL AUX.3SG поссориться:PFV-LPT-F.SG с PN-INS.SG	‘Катарина поссорилась с Аной.’		
+61	100	стоить	stati	NOM	ACC	TR	TR	ta skodelic-a stane en-o kron-o	this.NOM.SG.F cup-NOM.SG cost:IPFV.PRS.3SG one-ACC.SG.F crown-ACC.SG	‘This cup costs one crown.’		этот.NOM.SG.F чашка-NOM.SG стоить:IPFV.PRS.3SG один-ACC.SG.F крона-ACC.SG	‘Эта чашка стоит одну крону.’		
+61	101	стрелять	ustreliti	NOM	vACC	Y	NOM_vACC	Pavel je ustreli-l v ptic-o	PN[NOM.SG] AUX.3SG shoot:PFV-LPT[M.SG] in bird-ACC.SG	‘Pavel shot at the bird.’		PN[NOM.SG] AUX.3SG выстрелить:PFV-LPT[M.SG] в птица-ACC.SG	‘Павел выстрелил в птицу.’		
+61	102	сыпать	nasuti	NOM	ACC	TR	TR	Peter je nasu-l sladkor v skodelic-o	PN[NOM.SG] AUX.3SG pour:PFV-LPT[M.SG] sugar[ACC.SG] in cup-ACC.SG	‘Peter poured the sugar into the cup.’		PN[NOM.SG] AUX.3SG насыпать:PFV-LPT[M.SG] сахар[ACC.SG] в чашка-ACC.SG	‘Петер насыпал сахар в чашку.’		
+61	103	терять	izgubiti	NOM	ACC	TR	TR	Peter je izgubi-l ključ-e	PN[NOM.SG] AUX.3SG lose:PFV-LPT[M.SG] key-ACC.PL	‘Peter lost his keys.’		PN[NOM.SG] AUX.3SG потерять:PFV-LPT[M.SG] ключ-ACC.PL	‘Петер потерял ключи.’		
+61	104	тонуть	potoniti	NOM	vLOC	Y	NOM_vLOC	Polen-o je potoni-l-o v vod-i	log-NOM.SG AUX.3SG sink:PFV-LPT-N.SG in water-LOC.SG	‘The log sank in the water.’		полено-NOM.SG AUX.3SG утонуть:PFV-LPT-N.SG в вода-LOC.SG	‘Полено утонуло в воде.’		
+61	105	убивать	ubiti	NOM	ACC	TR	TR	Peter je ubi-l An-o	PN[NOM.SG] AUX.3SG kill:PFV-LPT[M.SG] PN-ACC.SG	‘Peter killed Ana.’		PN[NOM.SG] AUX.3SG убить:PFV-LPT[M.SG] PN-ACC.SG	‘Петер убил Ану.’		
+61	106	ударить	udariti	NOM	ACC	TR	TR	Peter je udari-l Pavl-a	PN[NOM.SG] AUX.3SG hit:PFV-LPT[M.SG] PN-ACC.SG	‘Peter hit Pavel.’		PN[NOM.SG] AUX.3SG ударить:PFV-LPT[M.SG] PN-ACC.SG	‘Петер ударил Павла.’		
+61	107	целовать	poljubiti	NOM	ACC	TR	TR	Peter je poljubi-l An-o	PN[NOM.SG] AUX.3SG kiss:PFV-LPT[M.SG] PN-ACC.SG	‘Peter kissed Ana.’		PN[NOM.SG] AUX.3SG поцеловать:PFV-LPT[M.SG] PN-ACC.SG	‘Петер поцеловал Ану.’		
+61	108	читать	prebrati	NOM	ACC	TR	TR	An-a je prebra-l-a zanimiv-o knjig-o	PN-NOM.SG AUX.3SG read:PFV-LPT-F.SG interesting-ACC.SG.F book-ACC.SG	‘Ana read an interesting book.’		PN-NOM.SG AUX.3SG прочитать:PFV-LPT-F.SG интересный-ACC.SG.F книга-ACC.SG	‘Ана прочитала интересную книгу.’		
+61	109	шевелить	migniti	NOM	zINS	Y	NOM_zINS	Peter je migni-l s palc-em	PN[NOM.SG] AUX.3SG move:PFV-LPT[M.SG] with finger-INS.SG	‘Peter moved his finger.’		PN[NOM.SG] AUX.3SG пошевелить:PFV-LPT[M.SG] с палец-INS.SG	‘Петер пошевелил пальцем.’		
+61	110	уважать	spoštovati	NOM	ACC	TR	TR	Katarin-a spoštuje An-o	PN-NOM.SG respect:IPFV.PRS.3SG PN-ACC.SG	‘Katarina respects Ana.’		PN-NOM.SG уважать:IPFV.PRS.3SG PN-ACC.SG	‘Катарина уважает Ану.’		
+61	111	брезговать	gnusiti se	DAT	NOM	X	DAT_NOM	Petr-u se gnusi umazan-a posod-a	PN-DAT.SG RFL be_squeamish:IPFV.PRS.3SG dirty-NOM.SG.F dishes-NOM.SG	‘Peter is squeamish about dirty dishes.’		PN-DAT.SG RFL брезговать:IPFV.PRS.3SG грязный-NOM.SG.F посуда-NOM.SG	‘Петер брезгует грязной посудой.’		
+61	112	быть довольным	biti zadovoljen	NOM	zINS	Y	NOM_zINS	Peter je zadovoljen s sin-om	PN[NOM.SG] be.PRS.3SG content[NOM.SG.M] with son-INS.SG	‘Peter is content with his son.’	Non-verbal predicate.	PN[NOM.SG] быть.PRS.3SG довольный[NOM.SG.M] с сын-INS.SG	‘Петер доволен сыном.’		
+61	113	влюбляться	zaljubiti se	NOM	vACC	Y	NOM_vACC	Peter se je zaljubi-l v An-o	PN[NOM.SG] RFL AUX.3SG fall_in_love:PFV-LPT[M.SG] in PN-ACC.SG	‘Peter fell in love with Ana.’		PN[NOM.SG] RFL AUX.3SG влюбить:PFV-LPT[M.SG] в PN-ACC.SG	‘Петер влюбился в Ану.’		
+61	114	доверять	zaupati	NOM	DAT	Y	NOM_DAT	Peter zaupa An-i	PN[NOM.SG] trust:IPFV.PRS.3SG PN-DAT.SG.F	‘Peter trusts Ana.’		PN[NOM.SG] доверять:IPFV.PRS.3SG PN-DAT.SG.F	‘Петер доверяет Ане.’		
+61	115	жалеть	smiliti se	DAT	NOM	X	DAT_NOM	Petr-u se mat-i smili	PN-DAT.SG RFL mother-NOM.SG pity:PFV.PRS.3SG	‘Peter sympathises with his mother.’		PN-DAT.SG RFL мать-NOM.SG жалеть:PFV.PRS.3SG 	‘Петер жалеет свою мать.’		
+61	116	завидовать	zavidati	NOM	DAT	Y	NOM_DAT	An-a zavida Petr-u	PN-NOM.SG envy:IPFV.PRS.3SG PN-DAT.SG	‘Ana envies Peter.’		PN-NOM.SG завидовать:IPFV.PRS.3SG PN-DAT.SG	‘Ана завидует Петеру.’		
+61	117	злиться	jeziti se	NOM	naACC	Y	NOM_naACC	An-a se jezi na Petr-a	PN-NOM.SG RFL anger:IPFV.PRS.3SG on PN-ACC.SG	‘Ana is angry with Peter.’		PN-NOM.SG RFL злить:IPFV.PRS.3SG на PN-ACC.SG	‘Ана злится на Петера.’		
+61	118	удивляться	začuditi	ACC	NOM	X	ACC_NOM	Petr-a je začudi-l-o daril-o	PN-ACC.SG AUX.3SG surprise:PFV-LPT-N.SG gift-NOM.SG	‘Peter was surprised at this gift.’		PN-ACC.SG AUX.3SG удивлять:PFV-LPT-N.SG подарок-NOM.SG	‘Петера удивил этот подарок.’		
+61	119	любить-2	imeti rad	NOM	ACC	TR	TR	An-a ima rad-a čaj	PN-NOM.SG have:IPFV.PRS.3SG happy-F.SG tea[ACC.SG]	‘Ana loves tea.’		PN-NOM.SG иметь:IPFV.PRS.3SG рад-F.SG чай[ACC.SG]	‘Ана любит чай.’		
+61	120	наслаждаться	uživati	NOM	vLOC	Y	NOM_vLOC	An-a uživa v čaj-u	PN-NOM.SG enjoy:IPFV.PRS.3SG in tea-LOC.SG	‘Ana enjoys hot tea.’		PN-NOM.SG наслаждаться:IPFV.PRS.3SG в чай-LOC.SG	‘Ана наслаждается чаем.’		
+61	121	хотеть	želeti	NOM	ACC	TR	TR	An-a želi nov-i mobilnik	PN-NOM.SG want:IPFV.PRS.3SG new-ACC.SG.M mobile_phone[ACC.SG]	‘Ana wants a new mobile phone.’		PN-NOM.SG хотеть:IPFV.PRS.3SG новый-ACC.SG.M мобильник[ACC.SG]	‘Ана хочет новый мобильник.’		
+61	122	сердиться	jeziti se	NOM	naACC	Y	NOM_naACC	Pavel se jezi na Petr-a	PN[NOM.SG] RFL anger:IPFV.PRS.3SG on PN-ACC.SG	‘Pavel is angry with Peter.’		PN[NOM.SG] RFL злить:IPFV.PRS.3SG на PN-ACC.SG	‘Павел злится на Петра.’		
+61	123	обижаться	zameriti	NOM	DAT	Y	NOM_DAT	Peter je zameri-l An-i	PN[NOM.SG] AUX.3SG resent:PFV-LPT[M.SG] PN-DAT.SG	‘Peter took offence at Ana.’		PN[NOM.SG] AUX.3SG обидеться:PFV-LPT[M.SG] PN-DAT.SG	‘Петер обиделся на Ану.’		
+61	124	огорчать	razžalostiti	NOM	ACC	TR	TR	Pavel je zelo razžalosti-l An-o	PN[NOM.SG] AUX.3SG very upset:PFV-LPT[M.SG] PN-ACC.SG	‘Pavel greatly upset Ana.’		PN[NOM.SG] AUX.3SG очень огорчить:PFV-LPT[M.SG] PN-ACC.SG	‘Павел очень огорчил Ану.’		
+61	125	поражаться	biti navdušen	NOM	nadINS	Y	NOM_nadINS	Pavel je bi-l navdušen nad tem mest-om	PN[NOM.SG] AUX.3SG be-LPT[M.SG] thrilled[NOM.M.SG] above this.INS.SG.N city-INS.SG	‘Pavel was marvelled at this town.’	Non-verbal predicate (passive participle).	PN[NOM.SG] AUX.3SG быть-LPT[M.SG] пораженный[NOM.M.SG] над этот.INS.SG.N город-INS.SG	‘Павел был поражен этим городом.’		
+61	126	презирать	prezirati	NOM	ACC	TR	TR	Pavel prezira Petr-a	PN[NOM.SG] despise:IPFV.PRS.3SG PN-ACC.SG	‘Pavel despises Peter.’		PN[NOM.SG] презирать:IPFV.PRS.3SG PN-ACC.SG	‘Павел презирает Петера.’		
+61	127	огорчаться	biti potrt	NOM	zaradiGEN	Y	NOM_zaradiGEN	An-a je bi-l-a potrt-a zaradi sin-a	PN-NOM.SG AUX.3SG be-LPT-F.SG depressed-NOM.F.SG because_of son-GEN.SG	‘Ana got upset because of ther son.’	Non-verbal predicate (passive participle).	PN-NOM.SG AUX.3SG быть-LPT-F.SG подавленный-NOM.F.SG из.за сын-GEN.SG	‘Ана огорчилась из-за сына.’		
+61	128	раздражаться	razburjati se	NOM	zaradiGEN	Y	NOM_zaradiGEN	Pavel se razburja zaradi Аn-e	PN[NOM.SG] RFL upset:IPFV.PRS.3SG because_of PN-GEN.SG	‘Pavel is getting irritated with Ana.’		PN[NOM.SG] RFL раздражать:IPFV.PRS.3SG из.за PN-GEN.SG	‘Павел раздражается на Ану.’		
+61	129	симпатизировать	biti všeč	DAT	NOM	X	DAT_NOM	Petr-u je všeč An-a	PN-DAT.SG be.PRS.3SG pleasant PN-NOM.SG	‘Peter is fond of Ana.’		PN-DAT.SG быть.PRS.3SG приятно PN-NOM.SG	‘Петер симпатизирует Ане.’		
+61	130	стесняться	sramovati se	NOM	GEN	Y	NOM_GEN	Peter se sramuje svoj-e višin-e	PN[NOM.SG] RFL be_ashamed:IPFV.PRS.3SG one’s-GEN.SG.F height-GEN.SG	‘Peter is shy about his height.’		PN[NOM.SG] RFL стесняться:IPFV.PRS.3SG свой-GEN.SG.F рост-GEN.SG	‘Петер стесняется своего роста.’		
+50	1	болеть-1	ağrımak	GEN	NOM	X	GEN_NOM	Mehmed-in baş-ı ağrı-yor	PN-GEN head-P.3 ache-PRS	‘Mehmet has a headache.’		PN-GEN голова-P.3 болеть-PRS	‘У Мехмета болит голова’.		
+50	2	болеть-2	grip olmak	GEN	NOM	X	GEN_NOM	Mehmed-ın grib-i var	PN-GEN flu-P.3 there_is	‘Mehmet has the flu.’		PN-GEN грипп-P.3 иметься	‘П. болеет гриппом’.		
+50	3	бояться	korkmak	NOM	ABL	Y	NOM_ABL	Mehmet köpek-ten kork-uyor	PN dog-ABL be_afraid-PRS	‘Mehmet is afraid of the dog.’		PN собака-ABL бояться-PRS	‘Мехмет боится собаки’.		
+50	4	бросить	atmak	NOM	ACC	TR	TR	Mehmet taş-ı at-tı	PN stone-ACC throw-PST	‘Mehmet threw his stone.’		PN камень-ACC бросить-PST	‘Мехмет бросил камень’.		
+50	5	быть достаточно	yetmek	DAT	NOM	X	DAT_NOM	Mehmed-e para şimdi yet-iyor	PN-DAT money now be_enough-PRS	‘Now Mehmet has enough money.’		PN-DAT деньги сейчас хватать-PRS	‘Мехмету хватает денег’.		
+50	6	быть похожим	benzemek	NOM	DAT	Y	NOM_DAT	Mehmet dede-si Kemal-e benzi-yor	PN grandfather-P.3 PN-DAT be_similar-PRS	‘Mehmet resembles his grandfather Kemal.’		PN дедушка-P.3 PN-DAT быть_похожим-PRS	‘Мехмет похож на своего дедушку Кемаля’.		
+50	7	верить	inanmak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e inan-iyor	PN PN-DAT believe-PRS	‘Mehmet believes Filiz.’		PN PN-DAT верить-PRS	‘Мехмет верит Филиз’.		
+50	8	взять	almak	NOM	ACC	TR	TR	Mehmet kitab-ı raf-tan al-dı	PN book-ACC shelf-ABL take-PST	‘Mehmet took the book from the shelf.’		PN книга-ACC полка-ABL взять-PST	‘Мехмет взял книгу с полки’.		
+50	9	видеть	görmek	NOM	ACC	TR	TR	Mehmet ev-i gör-üyor	PN house-ACC see-PRS	‘Mehmet sees the house.’		PN дом-ACC видеть-PRS	‘Мехмет видит дом’.		
+50	10	влиять	etkilemek	NOM	ACC	TR	TR	yaş akl-ı etkile-r	age mind-ACC affect-AOR	‘Age influences memory.’		возраст разум-ACC влиять-AOR	‘Возраст влияет на память’.		
+50	11	встречаться	rastlamak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e rastla-dı	PN PN-DAT come_across-PST	‘Mehmet encountered Filiz’.		PN PN-DAT встретить-PST	‘Мехмет встретил Филиз’.		
+50	12	входить 	girmek	NOM	DAT	Y	NOM_DAT	Mehmet ev-e gir-di	PN house-DAT enter-PST	‘Mehmet entered the house.’		PN дом-DAT войти-PST	‘Мехмет вошел в дом’.		
+50	13	выиграть	galip gelmek	NOM	DAT	Y	NOM_DAT	Mehmet Kemal-e galip gel-di	PN PN-DAT winner come-PST	‘Mehmet beat Kemal.’		PN PN-DAT победитель прийти-PST	‘Мехмет выиграл у Кемаля’.		
+50	14	выходить	çıkmak	NOM	ABL	Y	NOM_ABL	Mehmet ev-den çık-tı	PN house-ABL exit-PST	‘Mehmet went out of the house.’		PN дом-ABL выйти-PST	‘Мехмет вышел из дома’.		
+50	15	гнать	sürmek	NOM	ACC	TR	TR	Mehmet ineğ-i sür-üyor	PN cow-ACC drive-PRS	‘Mehmet is driving the cow.’		PN корова-ACC вести-PRS	‘Мехмет гонит корову’.		
+50	16	гнуть	bükmek	NOM	ACC	TR	TR	Mehmet dal-ı bük-tü	PN branch-ACC bend-PST	‘Mehmet bent the branch.’		PN ветвь-ACC гнуть-PST	‘Мехмет согнул ветку’.		
 50	17	говорить	demek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e de-di ki, “Misafirliğ-e gel-Ø!”	PN PN-DAT say-PST that visit-DAT come-IMP	‘Mehmet told Filiz: “Come to visit me”’.		PN PN-DAT сказать-PST что визит-DAT прийти-IMP	‘Мехмет сказал Филиз: «Приходи в гости»’.		
-50	18	держать	tutmak	NOM	ACC	TR	TR	Mehmet kitap tut-uyor.	PN book hold-PRS	‘Mehmet is holding a book.’		PN книга держать-PRS	‘Мехмет держит книгу’.		
-50	19	догнать	yetişmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e yetiş-ti.	PN PN-DAT catch_up-PST	‘Mehmet caught up with Filiz.’		PN PN-DAT догнать-PST	‘Мехмет догнал Филиз’.		
-50	20	доить	sağmak	NOM	ACC	TR	TR	Filiz ineğ-i sağ-dı.	PN cow-ACC milk-PST	‘Filiz milked the cow.’		PN корова-ACC доить-PST	‘Филиз подоила корову’.		
-50	21	достичь	varmak	NOM	DAT	Y	NOM_DAT	Mehmet kıyı-ya var-dı.	PN coast-DAT reach-PST	‘Mehmet reached the bank’.		PN берег-DAT reach-PST	‘Мехмет достиг берега’.		
-50	22	дотронуться	dokunmak	NOM	DAT	Y	NOM_DAT	Mehmet duvar-a dokun-du.	PN wall-DAT touch-PST	‘Mehmet touched the wall.’		PN стена-DAT коснуться-PST	‘Мехмет дотронулся до стены’.		
-50	23	драться	dövüşmek	NOM	COM	Y	NOM_COM	Mehmet çocuk-la dövüş-üyor.	PN boy-COM fight-PRS	‘Mehmet is fighting with a boy.’		PN мальчик-COM драться-PRS	‘Мехмет дерется с мальчиком’.		
-50	24	дружить	arkadaşlık etmek	NOM	COM	Y	NOM_COM	Mehmet Orhan-la arkadaşlık ed-ıyor.	PN PN-COM friendship make-PRS	‘Mehmet is friends with Orhan’.		PN PN-COM дружба делать-PRS	‘Мехмет дружит с Орханом’.		
-50	25	думать	düşünmek	NOM	ACC	TR	TR	Mehmet Filiz-i düşün-üyor.	PN PN-ACC think-PRS	‘Mehmet is thinking about Filiz.’		PN PN-ACC думать-PRS	‘Мехмет думает о Филиз’.		
-50	26	есть	yemek	NOM	ACC	TR	TR	Mehmet elma ye-di.	PN apple eat-PST	‘Mehmet ate an apple.’		PN яблоко есть-PST	‘Мехмет съел яблоко’.		
-50	27	жарить	kızartmak	NOM	ACC	TR	TR	Mehmet balığ-ı kızart-tı.	PN fish-ACC fry-PST	‘Mehmet fried the fish.’		PN рыба-ACC жарить-PST	‘Мехмет пожарил рыбу’.		
-50	28	ждать	beklemek	NOM	ACC	TR	TR	Mehmet Filiz-i bekli-yor.	PN PN-ACC wait-PRS	‘Mehmet is waiting for Filiz.’		PN PN-ACC ждать-PRS	‘Мехмет ждет Филиз’.		
-50	29	забывать	unutmak	NOM	ACC	TR	TR	Mehmet diğer yol-u unut-tu.	PN other way-ACC forget-PST	‘Mehmet forgot about the other road’.		PN другой дорога-ACC забыть-PST	‘Мехмет забыл о другой дороге’.		
-50	30	зависеть	bağlı olmak	NOM	DAT	Y	NOM_DAT	Akıl yaş-a bağlı-dır.	mind age-DAT dependent-COP.3	‘Memory depends on age.’	Non-verbal predicate.	разум возраст-DAT связанный-COP.3	‘Память зависит от возраста’.		
-50	31	звать	çağırmak	NOM	ACC	TR	TR	Filiz Mehmed-i çağır-dı.	PN PN-ACC call-PST	‘Filiz called Mehmet.’		PN PN-ACC звать-PST	‘Филиз позвала Мехмета’.		
-50	32	знакомиться	tanışmak	NOM	COM	Y	NOM_COM	Mehmet Filiz-le bir yıl önce tanış-tı.	PN PN-COM one year before get_acquainted-PST	‘Mehmet got to know Filiz a year ago.’		PN PN-COM один год прежде знакомиться-PST	‘Мехмет познакомился с Филиз год тому назад’.		
-50	33	знать 	tanımak	NOM	ACC	TR	TR	Mehmet Filiz-i tanı-yor.	PN PN-ACC know-PRS	‘Mehmet knows Filiz.’		PN PN-ACC знать-PRS	‘Мехмет знает Филиз’.		
-50	34	играть	çalmak	NOM	ACC	TR	TR	Mehmet gitar çal-ıyor.	PN guitar strike-PRS	‘Mehmet is playing the guitar.’		PN guitar стучать-PRS	‘Мехмет играет на гитаре’.		
-50	35	избегать	kaçmak	NOM	ABL	Y	NOM_ABL	Mehmet Orhan-dan kaç-ıyor.	PN PN-ABL escape-PRS	‘Mehmet avoids Orhan’.		PN PN-ABL убегать-PRS	‘Мехмет избегает Орхана’.		
-50	36	изготовить	yapmak	NOM	ACC	TR	TR	Mehmet bomba yap-tı.	PN bomb make-PST	‘Mehmet made a bomb.’		PN бомба делать-PST	‘Мехмет изготовил бомбу’.		
-50	37	издеваться	alay etmek	NOM	COM	Y	NOM_COM	Mehmet Filiz-le alay ed-ıyor.	PN PN-COM mockery make-PRS	‘Mehmet is making fun of Filiz.’		PN PN-COM насмешка делать-PRS	‘Мехмет издевается над Филиз’.		
-50	38	иметь	var	GEN	NOM	X	GEN_NOM	Mehmed-in araba-sı var.	PN-GEN car-P.3 there_is	‘Mehmet has a car.’		PN-GEN машина-P.3 иметься	‘У Мехмета есть машина’.		
-50	39	искать	aramak	NOM	ACC	TR	TR	Mehmet anahtar-lar-ı arı-yor.	PN key-PL-ACC search-PRS	‘Mehmet is looking for his keys’.		PN ключ-PL-ACC искать-PRS	‘Мехмет ищет ключи’.		
-50	40	красить	boyamak	NOM	ACC	TR	TR	Mehmet çit-ler-i boya-dı.	PN fence-PL-ACC paint-PST	‘Mehmet painted the fence.’		PN забор-PL-ACC красить-PST	‘Мехмет покрасил забор’.		
-50	41	кусать	ısırmak	NOM	ACC	TR	TR	Köpek Mehmed-i ısır-dı.	dog PN-ACC bite-PST	‘A dog bit Mehmet.’		собака PN-ACC кусать-PST	‘Собака укусила Мехмета’.		
-50	42	лишаться	kaybetmek	NOM	ACC	TR	TR	Mehmet ev-i-ni  kaybet-ti.	PN house-P.3-ACC lose-PST	‘Mehmet lost his house.’		PN дом-P.3-ACC терять-PST	‘Мехмет лишился дома’.		
-50	43	ловить	yakalamak	NOM	ACC	TR	TR	Mehmet kedi-yi yakalı-yor.	PN cat-ACC catch-PRS	‘Mehmet is trying to catch the cat.’		PN кошка-ACC ловить-PRS	‘Мехмет ловит кошку’.		
-50	44	ломать	kırmak	NOM	ACC	TR	TR	Mehmet dal-ı kır-dı.	PN branch-ACC break-PST	‘Mehmet broke a stick.’		PN ветвь-ACC сломать-PST	‘Мехмет сломал палку’.		
-50	45	льстить	pohpohlamak	NOM	ACC	TR	TR	Mehmet Filiz-i pohpohlu-yor.	PN PN-ACC flatter-PRS	Mehmet is flattering Filiz.		PN PN-ACC льстить-PRS	‘Мехмет льстит Филиз’.		
-50	46	любить-1	sevmek	NOM	ACC	TR	TR	Mehmet Filiz-i sev-iyor.	PN PN-ACC love-PRS	‘Mehmet loves Filiz.’		PN PN-ACC любить-PRS	‘Мехмет любит Филиз’.		
-50	47	махать	sallamak	NOM	ACC	TR	TR	Mehmet mendil-i-ni  sallı-yor.	PN handkerchief-P.3-ACC shake-PRS	‘Mehmet is waving his handkerchief.’		PN носовой_платок-P.3-ACC трясти-PRS	‘Мехмет машет платком’.		
-50	48	мечтать	*	*	*	*		Mehmet yeni araba al-ma-yı hayal ed-ıyor.	PN new car take-NMLZ-ACC dream make-PRS	‘Mehmet is dreaming to buy a new car.’	Not included in the database because Y is expressed as an NP within a dependent clause.	PN новый машина взять-NMLZ-ACC мечта делать-PRS	‘Мехмет мечтает купить новую машину’.		
-50	49	мыть	yıkamak	NOM	ACC	TR	TR	Mehmet çay bardağ-ı-nı yıka-dı.	PN tea glass-P.3-ACC wash-PST	‘Mehmet washed his cup.’		PN чай стакан-P.3-ACC мыть-PST	‘Мехмет вымыл свою чашку’.		
-50	50	надевать	giymek	NOM	ACC	TR	TR	Mehmet pantolon-u-nu giy-di.	PN trousers-P.3-ACC put_on-PST	‘Mehmet put on his trousers.’		PN штаны-P.3-ACC надеть-PST	‘Мехмет надел свои штаны’.		
-50	51	называться	*	*	*	*		Bu-nun ad-ı pusula-dır.	this-GEN name-P.3 compass-COP.3	‘This is called a compass.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	этот-GEN имя-P.3 компас-COP.3	‘Это называется компас’.		
-50	52	наказывать	cezalandırmak	NOM	ACC	TR	TR	Mehmet oğl-u-nu cezalandır-dı.	PN son-P.3-ACC punish-PST	‘Mehmet punished his son.’		PN сын-P.3-ACC наказать-PST	‘Мехмет наказал своего сына’.		
-50	53	напасть	saldırmak	NOM	DAT	Y	NOM_DAT	Ayı balıkçı-ya saldır-dı.	bear fisherman-DAT attack-PST	‘A bear attacked a fisherman.’		медведь рыбак-DAT нападать-PST	‘Медведь напал на рыбака’.		
-50	54	наполняться	dolmak	NOM	COM	Y	NOM_COM	Kova suy-la dol-du.	bucket water-COM fill-PST	‘The bucket filled with water.’		ведро вода-COM наполняться-PST	‘Ведро наполнилось водой’.		
-50	55	находить	bulmak	NOM	ACC	TR	TR	Mehmet anahtar-lar-ı bul-du.	PN key-PL-P.3 find-PST	‘Mehmet found his keys.’		PN ключ-PL-P.3 найти-PST	‘Мехмет нашел ключи’.		
-50	56	недоставать	yetmemek	GEN	NOM	X	GEN_NOM	Mehmed-in bilet al-mak için bir lira-sı yet-mi-yor.	PN-GEN ticket take-INF for one lira-P.3 be_enough-NEG-PRS	‘Mehmet is short of one lira to buy a ticket.’		PN-GEN ticket take-INF for one lira-P.3 be_enough-NEG-PRS	‘Мехмету недостает одной лиры, чтобы купить билет’.		
-50	57	ненавидеть	nefret etmek	NOM	ABL	Y	NOM_ABL	Mehmet Orhan-dan nefret ed-ıyor.	PN PN-ABL hatred make-PRS	‘Mehmet hates Orhan.’		PN PN-ABL ненависть делать-PRS	‘Мехмет ненавидит Орхана’.		
-50	58	нравиться	beğenmek	NOM	ACC	TR	TR	Mehmet bu gömleğ-i beğen-iyor.	PN this shirt-ACC like-PRS	‘Mehmet likes this shirt.’		PN этот рубашка-ACC нравиться-PRS	‘Мехмету нравится эта рубашка’.		
-50	59	нуждаться	ihtiyaç olmak	GEN	DAT	XY	GEN_DAT	Mehmed-in para-ya ihtiyac-ı var.	PN-GEN money-DAT need-P.3 there_is	‘Mehmet needs money.’	Non-verbal predicate.	PN-GEN деньги-DAT необходимость-P.3 иметься	‘Мехмет нуждается в деньгах’.		
-50	60	окружать	çevrelemek	NOM	ACC	TR	TR	Duvar şehr-i çevreli-yor.	wall city-ACC encircle-PRS	‘Walls surround the city.’		стена город-ACC окружать-PRS	‘Стены окружают город’.		
-50	61	оставаться	kalmak	GEN	NOM	X	GEN_NOM	Mehmed-in şimdi on lira-sı kal-dı.	PN-GEN now ten lira-P.3 remain-PST	‘Now Mehmet has 10 liras left.’		PN-GEN сейчас десять лира-P.3 оставаться-PST	‘У Мехмета теперь осталось 10 долларов’.		
-50	62	отвечать	cevap vermek	NOM	DAT	Y	NOM_DAT	Mehmet öğretmen-e cevap ver-di.	PN teacher-DAT answer give-PST	‘Mehmet answered the teacher.’		PN учитель-DAT ответ дать-PST	‘Мехмет ответил учителю’.		
-50	63	открывать	açmak	NOM	ACC	TR	TR	Mehmet şişe-yi aç-tı.	PN bottle-ACC open-PST	‘Mehmet opened the bottle.’		PN бутылка-ACC открыть-PST	‘Мехмет открыл бутылку’.		
-50	64	отличаться	farklı olmak	NOM	ABL	Y	NOM_ABL	Benim gömleğ-im senin-ki-nden  farklı.	I.GEN shirt-P.1SG thou.GEN-ADJ-ABL different	‘My shirt is different from yours.’	Non-verbal predicate.	I.GEN рубашка-P.1SG ты.GEN-ADJ-ABL отличный	‘Моя рубашка отличается от твоей’.		
-50	65	отстать	geri kalmak	NOM	ABL	Y	NOM_ABL	Mehmet Orhan-dan geri kal-dı.	PN PN-ABL behind remain-PST	‘Mehmet fell behind Orhan.’		PN PN-ABL позади оставаться-PST	‘Мехмет отстал от Орхана’.		
-50	66	пахать	sürmek	NOM	ACC	TR	TR	Mehmet tarla-yı sür-üyor.	PN field-ACC plough-PRS	‘Mehmet is ploughing the field.’		PN поле-ACC пахать-PRS	‘Мехмет пашет поле’.		
-50	67	пахнуть	kokmak	NOM	ABL	Y	NOM_ABL	El-ler-im bu benzin-den kok-uyor.	hand-PL-P.1SG this gasoline-ABL smell-PRS	‘My hands smell of this gasoline.’		рука-PL-P.1SG этот бензин-ABL пахнуть-PRS	‘Мои руки пахнут этим бензином’.		
-50	68	пересечь	*	*	*	*		Mehmet yol-dan karşı-ya geç-ti.	PN way-ABL opposite-DAT pass-PST	‘Mehmet crossed to the other side of the street.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN дорога-ABL напротив-DAT проходить-PST	‘Мехмет перешел на другую сторону дороги’.		
-50	69	петь	söylemek	NOM	ACC	TR	TR	Mehmet güzel şarkı-yı söyle-di.	PN beautiful song-ACC sing-PST	‘Mehmet sang a beautiful song.’		PN красивый песня-ACC петь-PST	‘Мехмет спел красивую песню’.		
-50	70	писать	yazmak	NOM	ACC	TR	TR	Mehmet mektup yaz-dı.	PN letter write-PST	‘Mehmet wrote a letter.’		PN письмо писать-PST	‘Мехмет написал письмо’.		
-50	71	пить	içmek	NOM	ACC	TR	TR	Mehmet suy-u iç-ti.	PN water-ACC drink-PST	‘Mehmet drank the water’.		PN вода-ACC пить-PST	‘Мехмет выпил воду’.		
-50	72	плавить	eritmek	NOM	ACC	TR	TR	Mehmet buz-u erit-ti.	PN ice-ACC melt-PST	‘Mehmet melted the ice.’		PN лед-ACC плавить-PST	‘Мехмет расплавил лед’.		
-50	73	подходить	uymak	NOM	DAT	Y	NOM_DAT	Bu kemer elbise-m-e uy-uyor.	this belt dress-P.1SG-DAT fit-PRS	‘This belt matches my dress.’		этот пояс платье-P.1SG-DAT подходить-PRS	‘Этот пояс подходит к моему платью’.		
-50	74	покидать	ayrılmak	NOM	ABL	Y	NOM_ABL	Mehmet memleket-i-nden ayrıl-dı.	PN hometown-P.3-ABL leave-PST	‘Mehmet left his hometown.’		PN родной_край-P.3-ABL удаляться-PST	‘Мехмет покинул родной город’.		
-50	75	покрывать	kaplamak	NOM	ACC	TR	TR	Halı bütün yer-i kaplı-yor.	carpet whole place-ACC cover-PRS	‘The carpet covers the whole floor.’		ковер весь место-ACC покрывать-PRS	‘Ковер покрывает весь пол’.		
-50	76	помнить	hatırlamak	NOM	ACC	TR	TR	Mehmet büyü-düğ-ü ev-i iyi hatırlı-yor.	PN grow-PTCP.PST-P.3 house-P.3 good remember-PRS	‘Mehmet remembers the house where he grew up well.’		PN расти-PTCP.PST-P.3 дом-P.3 хороший помнить-PRS	‘Мехмет хорошо помнит дом, в котором вырос’.		
-50	77	помочь	yardım etmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e yardım et-ti.	PN PN-DAT help make-PST	‘Mehmet helped Filiz.’		PN PN-DAT помощь делать-PST	‘Мехмет помог Филиз’.		
-50	78	понимать	anlamak	NOM	ACC	TR	TR	Mehmet Fransız dil-i-ni  anlı-yor.	PN French language-P.3-ACC understand-PRS	‘Mehmet understands the French language.’		PN француз язык-P.3-ACC понимать-PRS	‘Мехмет понимает французский язык’.		
-50	79	попасть	düşmek	NOM	DAT	Y	NOM_DAT	Yıldırım ev-e düş-tü.	lightning house-DAT fall-PST	‘Lightning hit the house.’		молния дом-DAT падать-PST	‘Молния попала в дом’.		
-50	80	порезаться	yüzünü kesmek	NOM	COM	Y	NOM_COM	Mehmet traş bıçağ-ı-yla yüz-ü-nü kes-ti.	PN shaving knife-P.3-COM face-P.3-ACC cut-PST	‘Mehmet cut his face with a razor.’		PN бритье нож-P.3-COM лицо-P.3-ACC резать-PST	‘Мехмет порезал лицо бритвой’.		
-50	81	прилипать	yapışmak	NOM	DAT	Y	NOM_DAT	Bardak masa-ya yapış-tı.	glass table-DAT stick-PST	‘The glass got stuck to the table.’		стакан стол-DAT прилипать-PST	‘Стакан прилип к столу’.		
-50	82	проиграть	kaybetmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a kaybet-ti.	PN PN-DAT lose-PST	‘Mehmet lost to Orhan.’		PN PN-DAT терять-PST	‘Мехмет проиграл Орхану’.		
-50	83	радоваться	sevinmek	NOM	DAT	Y	NOM_DAT	Mehmet mektub-a sevin-di.	PN letter-DAT rejoice-PST	‘Mehmet was glad about the letter.’		PN письмо-DAT радоваться-PST	‘Мехмет обрадовался письму’.		
-50	84	разговаривать	konuşmak	NOM	COM	Y	NOM_COM	Mehmet Orhan-la konuş-uyor.	PN PN-COM talk-PRS	‘Mehmet is speaking with Orhan.’		PN PN-COM говорить-PRS	‘Мехмет разговаривает с Орханом’.		
-50	85	рожать	doğurmak	NOM	ACC	TR	TR	Filiz erkek çocuğ-u doğur-du.	PN male child-P.3 give_birth-PST	‘Filiz gave birth to a baby boy.’		PN самец ребенок-P.3 родить-PST	‘Филиз родила мальчика’.		
-50	86	ронять	düşürmek	NOM	ACC	TR	TR	Mehmet bardağ-ı düşür-dü.	PN glass-ACC drop-PST	‘Mehmet dropped the glass.’		PN стакан-ACC ронять-PST	‘Мехмет уронил стакан’.		
-50	87	руководить	yönetmek	NOM	ACC	TR	TR	Mehmet fabrıka-yı yönet-iyor.	PN factory-ACC manage-PRS	‘Mehmet runs the factory.’		PN фабрика-ACC управлять-PRS	‘Мехмет руководит фабрикой’.		
-50	88	скучать	özlemek	NOM	ACC	TR	TR	Mehmet Filiz-i özlö-yor.	PN PN-ACC miss-PRS	‘Mehmet misses Filiz.’		PN PN-ACC скучать-PRS	‘Мехмет скучает по Филиз’.		
-50	89	следовать	gitmek	NOM	GENpesinden	Y	NOM_GENpesinden	Mehmet Orhan-ın peşinden gid-iyor.	PN PN-GEN after go-PRS	‘Mehmet is following Orhan.’		PN PN-GEN сзади идти-PRS	‘Мехмет идет вслед за Орханом’.		
-50	90	слезать	inmek	NOM	ABL	Y	NOM_ABL	Mehmet at-tan in-di.	PN horse-ABL descend-PST	‘Mehmet got down from the horse.’		PN лошадь-ABL спускаться-PST	‘Мехмет слез с лошади’.		
-50	91	слушать	dinlemek	NOM	ACC	TR	TR	Mehmet radyo-yı dinli-yor.	PN radio-ACC listen-PRS	‘Mehmet is listening to the radio.’		PN радио-ACC слушать-PRS	‘Мехмет слушает радио’.		
-50	92	слушаться	*	*	*	*		Mehmet anne-si-nin söz-ü-nü dinli-yor.	PN mother-P.3-GEN word-P.3-ACC listen-PRS	‘Mehmet obeys his mother.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN мать-P.3-GEN слово-P.3-ACC слушать-PRS	‘Мехмет слушается маму’.		
-50	93	слышать	duymak	NOM	ACC	TR	TR	Mehmet müziğ-i duy-uyor.	PN music-ACC hear-PRS	‘Mehmet hears the music.’		PN музыка-ACC слышать-PRS	‘Мехмет слышит музыку’.		
-50	94	смешаться	karışmak	NOM	COM	Y	NOM_COM	Süt bal-la karış-tı.	milk honey-COM mix-PST	‘The milk got mixed with the honey.’		молоко мед-COM смешиваться-PST	‘Мед смешался с молоком’.		
-50	95	смотреть	bakmak	NOM	DAT	Y	NOM_DAT	Mehmet yağmur bulut-lar-ı-na bak-ıyor.	PN rain cloud-PL-P.3-DAT look-PRS	‘Mehmet is looking at the rainclouds.’		PN дождь облако-PL-P.3-DAT смотреть-PRS	‘Мехмет смотрит на тучи’.		
-50	96	снимать	çıkarmak	NOM	ACC	TR	TR	Mehmet gömleğ-i-ni çıkar-dı.	PN shirt-P.3-ACC extract-PST	‘Mehmet took off his shirt.’		PN рубашка-P.3-ACC вынимать-PST	‘Мехмет снял рубашку’.		
-50	97	сниться	rüyasında görmek	NOM	ACC	TR	TR	Mehmet rüya-sı-nda Filiz-i gör-üyor.	PN dream-P.3-LOC PN-ACC see-PRS	‘Mehmet dreams about Filiz.’		PN сон-P.3-LOC PN-ACC видеть-PRS	‘Мехмету снится Филиз’.		
-50	98	соглашаться	katılmak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e katıl-dı.	PN PN-DAT join-PST	‘Mehmet agreed with Filiz.’		PN PN-DAT присоединиться-PST	‘Мехмет согласился с Филиз’.		
-50	99	ссориться	bozuşmak	NOM	COM	Y	NOM_COM	Mehmet Orhan-la bozuş-tu.	PN PN-COM quarrel-PST	‘Mehmet quarreled with Orhan.’		PN PN-COM рассориться-PST	‘Мехмет поссорился с Орханом’.		
-50	100	стоить	etmek	NOM	ACC	TR	TR	Bu bardak bir lira ed-iyor.	this glass one lira make-PRS	‘This glass costs one lira.’		этот стакан один лира делать-PRS	‘Этот стакан стоит одну лиру’.		
-50	101	стрелять	ateş etmek	NOM	DAT	Y	NOM_DAT	Mehmet kuş-a ateş et-ti.	PN bird-DAT fire make-PST	‘Mehmet shot at the bird.’		PN птица-DAT огонь делать-PST	‘Мехмет выстрелил в птицу’.		
-50	102	сыпать	dökmek	NOM	ACC	TR	TR	Mehmet bardağ-a şeker dök-tü.	PN glass-DAT sugar pour-PST	‘Mehmet poured sugar into the glass.’		PN стакан-DAT сахар лить-PST	‘Мехмет насыпал сахар в стакан’.		
-50	103	терять	kaybetmek	NOM	ACC	TR	TR	Mehmet anahtar-lar-ı kaybet-ti.	PN key-PL-P.3 lose-PST	‘Mehmet lost his keys.’		PN ключ-PL-P.3 терять-PST	‘Мехмет потерял ключи’.		
-50	104	тонуть	batmak	NOM	LOC	Y	NOM_LOC	Odun parça-sı su-da bat-tı.	wood piece-P.3 water-LOC sink-PST	‘The piece sank in the water.’		древесина кусок-P.3 вода-LOC тонуть-PST	‘Кусок древесины утонул в воде’.		
-50	105	убивать	öldürmek	NOM	ACC	TR	TR	Mehmet Orhan-ı öldür-dü.	PN PN-ACC kill-PST	‘Mehmet killed Orhan.’		PN PN-ACC убить-PST	‘Мехмет убил Орхана’.		
-50	106	ударить	vurmak	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a vur-du.	PN PN-DAT strike-PST	‘Mehmet hit Orhan.’		PN PN-DAT strike-PST	‘Мехмет ударил Орхана’.		
-50	107	целовать	öpmek	NOM	ACC	TR	TR	Mehmet Filiz-i öp-tü.	PN PN-ACC kiss-PST	‘Mehmet kissed Filiz.’		PN PN-ACC целовать-PST	‘Мехмет поцеловал Филиз’.		
-50	108	читать	okumak	NOM	ACC	TR	TR	Mehmet ilginç bir kitap oku-du.	PN interesting one book read-PST	‘Mehmet read an interesting book.’		PN интересный один книга читать-PST	‘Мехмет прочитал интересную книгу’.		
-50	109	шевелить	kıpırdatmak	NOM	ACC	TR	TR	Mehmet parmağ-ı-nı kıpırdat-tı.	PN finger-P.3-ACC wiggle-PST	‘Mehmet moved his finger.’		PN палец-P.3-ACC шевелить-PST	‘Мехмет пошевелил пальцем’.		
-50	110	уважать	saygı göstermek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a saygı göster-ir.	PN PN-DAT respect show-AOR	‘Mehmet respects Orhan.’		PN PN-DAT уважение показывать-AOR	‘Мехмет уважает Орхана’.		
-50	111	брезговать	iğrenmek	NOM	ABL	Y	NOM_ABL	Mehmet bulaşık-lar-dan iğren-iyor.	PN dirty_dishes-PL-ABL be_disgusted-PRS	‘Mehmet is sqeamish about the dirty dishes.’		PN грязная_посуда-PL-ABL гнушаться-PRS	‘Мехмет брезгует грязной посудой’.		
-50	112	быть довольным	memnun olmak	NOM	ABL	Y	NOM_ABL	Mehmet oğl-u-ndan memnun.	PN son-P.3-ABL pleased	‘Mehmet is content with his son.’	Non-verbal predicate.	PN сын-P.3-ABL довольный	‘Мехмет доволен своим сыном’.		
-50	113	влюбляться	âşık olmak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e âşık ol-du.	PN PN-DAT enamoured be-PST	‘Mehmet fell in love with Filiz.’	Non-verbal predicate.	PN PN-DAT влюбленный быть-PST	‘Мехмет влюбился в Филиз’.		
-50	114	доверять	güvenmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e güven-iyor.	PN PN-DAT trust-PRS	‘Mehmet trusts Filiz.’		PN PN-DAT доверять-PRS	‘Мехмет доверяет Филиз’.		
-50	115	жалеть	acımak	NOM	DAT	Y	NOM_DAT	Mehmet anne-si-ne acı-yor.	PN mother-P.3-DAT feel_pity-PRS	‘Mehmet feels sorry for his mother.’		PN мать-P.3-DAT жалеть-PRS	‘Мехмет жалеет свою мать’.		
-50	116	завидовать	kıskanmak	NOM	ACC	TR	TR	Mehmet Orhan-ı kıskan-ıyor.	PN PN-ACC envy-PRS	‘Mehmet envies Orhan.’		PN PN-ACC завидовать-PRS	‘Мехмет завидует Орхану’.		
-50	117	злиться	öfkelenmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a öfkelen-iyor.	PN PN-DAT be_angry-PRS	‘Mehmet is angry with Orhan.’		PN PN-DAT сердиться-PRS	‘Мехмет злится на Орхана’.		
-50	118	удивляться	şaşmak	NOM	DAT	Y	NOM_DAT	Mehmet bu hediye-ye şaş-tı.	PN this gift-DAT be_surprised-PST	‘Mehmet was surprised at this gift.’		PN этот подарок-DAT удивиться-PST	‘Мехмет удивился этому подарку’.		
-50	119	любить-2	sevmek	NOM	ACC	TR	TR	Mehmet çay sev-er.	PN tea love-AOR	‘Mehmet loves tea.’		PN чай любить-AOR	‘Мехмет любит чай’.		
-50	120	наслаждаться	*	*	*	*		Mehmet çay-ın tad-ı-nı  çıkar-ıyor.	PN tea-GEN taste-P.3-ACC extract-PRS	‘Mehmet is enjoying the tea.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN чай-GEN вкус-P.3-ACC вынимать-PRS	‘Мехмет наслаждается чаем’.		
-50	121	хотеть	istemek	NOM	ACC	TR	TR	Mehmet yeni telefon isti-yor.	PN new phone want-PRS	‘Mehmet wants a new phone.’		PN новый телефон хотеть-PRS	‘Мехмет хочет новый телефон’.		
-50	122	сердиться	öfkelenmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a öfkelen-iyor.	PN PN-DAT be_angry-PRS	‘Mehmet is angry with Orhan.’		PN PN-DAT сердиться-PRS	‘Мехмет сердится на Орхана’.		
-50	123	обижаться	gücenmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e gücen-di.	PN PN-DAT take_offence-PST	‘Mehmet took offence at Filiz.’		PN PN-DAT обижаться-PST	‘Мехмет обиделся на Филиз’.		
-50	124	огорчать	üzmek	NOM	ACC	TR	TR	Orhan Mehmed-i üz-dü.	PN PN-ACC upset-PST	‘Orhan upset Mehmet.’		PN PN-ACC огорчать-PST	‘Орхан огорчил Мехмета’.		
-50	125	поражаться	şaşmak	NOM	DAT	Y	NOM_DAT	Mehmet bu şehir-e şaş-tı.	PN this city-DAT be_surprised-PST	‘Mehmet marvelled at this city.’		PN этот город-DAT удивиться-PST	‘Мехмет поразился этому городу’.		
-50	126	презирать	hor görmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a hor gör-üyor.	PN PN-DAT contemptible see-PRS	‘Mehmet despises Orhan.’		PN PN-DAT презренный видеть-PRS	‘Мехмет презирает Орхана’.		
-50	127	огорчаться	üzülmek	NOM	GENuzunden	Y	NOM_GENuzunden	Mehmet oğl-u yüzünden üzül-dü.	PN son-P.3 because_of be_upset-PST	‘Mehmet got upset because of his son.’		PN сын-P.3 из-за огорчаться-PST	‘Мехмет огорчился из-за своего сына’.		
-50	128	раздражаться	sinirlenmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a sinirlen-iyor.	PN PN-DAT get_irritated-PRS	‘Mehmet is getting irritated with Orhan.’		PN PN-DAT раздражаться-PRS	‘Мехмет раздражается на Орхана’.		
-50	129	симпатизировать	sempati duymak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e sempati duy-or.	PN PN-DAT liking feel-AOR	‘Mehmet is fond of Filiz.’		PN PN-DAT симпатия чувствовать-AOR	‘Мехмет симпатизирует Филиз’.		
-50	130	стесняться	utanmak	NOM	ABL	Y	NOM_ABL	Mehmet boy-u-ndan utan-uyor.	PN height-P.3-ABL be_shy-PRS	‘Mehmet is shy about his height.’		PN рост-P.3-ABL смущаться-PRS	‘Мехмет стесняется своего роста’.		
+50	18	держать	tutmak	NOM	ACC	TR	TR	Mehmet kitap tut-uyor	PN book hold-PRS	‘Mehmet is holding a book.’		PN книга держать-PRS	‘Мехмет держит книгу’.		
+50	19	догнать	yetişmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e yetiş-ti	PN PN-DAT catch_up-PST	‘Mehmet caught up with Filiz.’		PN PN-DAT догнать-PST	‘Мехмет догнал Филиз’.		
+50	20	доить	sağmak	NOM	ACC	TR	TR	Filiz ineğ-i sağ-dı	PN cow-ACC milk-PST	‘Filiz milked the cow.’		PN корова-ACC доить-PST	‘Филиз подоила корову’.		
+50	21	достичь	varmak	NOM	DAT	Y	NOM_DAT	Mehmet kıyı-ya var-dı	PN coast-DAT reach-PST	‘Mehmet reached the bank’.		PN берег-DAT reach-PST	‘Мехмет достиг берега’.		
+50	22	дотронуться	dokunmak	NOM	DAT	Y	NOM_DAT	Mehmet duvar-a dokun-du	PN wall-DAT touch-PST	‘Mehmet touched the wall.’		PN стена-DAT коснуться-PST	‘Мехмет дотронулся до стены’.		
+50	23	драться	dövüşmek	NOM	COM	Y	NOM_COM	Mehmet çocuk-la dövüş-üyor	PN boy-COM fight-PRS	‘Mehmet is fighting with a boy.’		PN мальчик-COM драться-PRS	‘Мехмет дерется с мальчиком’.		
+50	24	дружить	arkadaşlık etmek	NOM	COM	Y	NOM_COM	Mehmet Orhan-la arkadaşlık ed-ıyor	PN PN-COM friendship make-PRS	‘Mehmet is friends with Orhan’.		PN PN-COM дружба делать-PRS	‘Мехмет дружит с Орханом’.		
+50	25	думать	düşünmek	NOM	ACC	TR	TR	Mehmet Filiz-i düşün-üyor	PN PN-ACC think-PRS	‘Mehmet is thinking about Filiz.’		PN PN-ACC думать-PRS	‘Мехмет думает о Филиз’.		
+50	26	есть	yemek	NOM	ACC	TR	TR	Mehmet elma ye-di	PN apple eat-PST	‘Mehmet ate an apple.’		PN яблоко есть-PST	‘Мехмет съел яблоко’.		
+50	27	жарить	kızartmak	NOM	ACC	TR	TR	Mehmet balığ-ı kızart-tı	PN fish-ACC fry-PST	‘Mehmet fried the fish.’		PN рыба-ACC жарить-PST	‘Мехмет пожарил рыбу’.		
+50	28	ждать	beklemek	NOM	ACC	TR	TR	Mehmet Filiz-i bekli-yor	PN PN-ACC wait-PRS	‘Mehmet is waiting for Filiz.’		PN PN-ACC ждать-PRS	‘Мехмет ждет Филиз’.		
+50	29	забывать	unutmak	NOM	ACC	TR	TR	Mehmet diğer yol-u unut-tu	PN other way-ACC forget-PST	‘Mehmet forgot about the other road’.		PN другой дорога-ACC забыть-PST	‘Мехмет забыл о другой дороге’.		
+50	30	зависеть	bağlı olmak	NOM	DAT	Y	NOM_DAT	akıl yaş-a bağlı-dır	mind age-DAT dependent-COP.3	‘Memory depends on age.’	Non-verbal predicate.	разум возраст-DAT связанный-COP.3	‘Память зависит от возраста’.		
+50	31	звать	çağırmak	NOM	ACC	TR	TR	Filiz Mehmed-i çağır-dı	PN PN-ACC call-PST	‘Filiz called Mehmet.’		PN PN-ACC звать-PST	‘Филиз позвала Мехмета’.		
+50	32	знакомиться	tanışmak	NOM	COM	Y	NOM_COM	Mehmet Filiz-le bir yıl önce tanış-tı	PN PN-COM one year before get_acquainted-PST	‘Mehmet got to know Filiz a year ago.’		PN PN-COM один год прежде знакомиться-PST	‘Мехмет познакомился с Филиз год тому назад’.		
+50	33	знать 	tanımak	NOM	ACC	TR	TR	Mehmet Filiz-i tanı-yor	PN PN-ACC know-PRS	‘Mehmet knows Filiz.’		PN PN-ACC знать-PRS	‘Мехмет знает Филиз’.		
+50	34	играть	çalmak	NOM	ACC	TR	TR	Mehmet gitar çal-ıyor	PN guitar strike-PRS	‘Mehmet is playing the guitar.’		PN guitar стучать-PRS	‘Мехмет играет на гитаре’.		
+50	35	избегать	kaçmak	NOM	ABL	Y	NOM_ABL	Mehmet Orhan-dan kaç-ıyor	PN PN-ABL escape-PRS	‘Mehmet avoids Orhan’.		PN PN-ABL убегать-PRS	‘Мехмет избегает Орхана’.		
+50	36	изготовить	yapmak	NOM	ACC	TR	TR	Mehmet bomba yap-tı	PN bomb make-PST	‘Mehmet made a bomb.’		PN бомба делать-PST	‘Мехмет изготовил бомбу’.		
+50	37	издеваться	alay etmek	NOM	COM	Y	NOM_COM	Mehmet Filiz-le alay ed-ıyor	PN PN-COM mockery make-PRS	‘Mehmet is making fun of Filiz.’		PN PN-COM насмешка делать-PRS	‘Мехмет издевается над Филиз’.		
+50	38	иметь	var	GEN	NOM	X	GEN_NOM	Mehmed-in araba-sı var	PN-GEN car-P.3 there_is	‘Mehmet has a car.’		PN-GEN машина-P.3 иметься	‘У Мехмета есть машина’.		
+50	39	искать	aramak	NOM	ACC	TR	TR	Mehmet anahtar-lar-ı arı-yor	PN key-PL-ACC search-PRS	‘Mehmet is looking for his keys’.		PN ключ-PL-ACC искать-PRS	‘Мехмет ищет ключи’.		
+50	40	красить	boyamak	NOM	ACC	TR	TR	Mehmet çit-ler-i boya-dı	PN fence-PL-ACC paint-PST	‘Mehmet painted the fence.’		PN забор-PL-ACC красить-PST	‘Мехмет покрасил забор’.		
+50	41	кусать	ısırmak	NOM	ACC	TR	TR	köpek Mehmed-i ısır-dı	dog PN-ACC bite-PST	‘A dog bit Mehmet.’		собака PN-ACC кусать-PST	‘Собака укусила Мехмета’.		
+50	42	лишаться	kaybetmek	NOM	ACC	TR	TR	Mehmet ev-i-ni  kaybet-ti	PN house-P.3-ACC lose-PST	‘Mehmet lost his house.’		PN дом-P.3-ACC терять-PST	‘Мехмет лишился дома’.		
+50	43	ловить	yakalamak	NOM	ACC	TR	TR	Mehmet kedi-yi yakalı-yor	PN cat-ACC catch-PRS	‘Mehmet is trying to catch the cat.’		PN кошка-ACC ловить-PRS	‘Мехмет ловит кошку’.		
+50	44	ломать	kırmak	NOM	ACC	TR	TR	Mehmet dal-ı kır-dı	PN branch-ACC break-PST	‘Mehmet broke a stick.’		PN ветвь-ACC сломать-PST	‘Мехмет сломал палку’.		
+50	45	льстить	pohpohlamak	NOM	ACC	TR	TR	Mehmet Filiz-i pohpohlu-yor	PN PN-ACC flatter-PRS	Mehmet is flattering Filiz.		PN PN-ACC льстить-PRS	‘Мехмет льстит Филиз’.		
+50	46	любить-1	sevmek	NOM	ACC	TR	TR	Mehmet Filiz-i sev-iyor	PN PN-ACC love-PRS	‘Mehmet loves Filiz.’		PN PN-ACC любить-PRS	‘Мехмет любит Филиз’.		
+50	47	махать	sallamak	NOM	ACC	TR	TR	Mehmet mendil-i-ni  sallı-yor	PN handkerchief-P.3-ACC shake-PRS	‘Mehmet is waving his handkerchief.’		PN носовой_платок-P.3-ACC трясти-PRS	‘Мехмет машет платком’.		
+50	48	мечтать	*	*	*	*		Mehmet yeni araba al-ma-yı hayal ed-ıyor	PN new car take-NMLZ-ACC dream make-PRS	‘Mehmet is dreaming to buy a new car.’	Not included in the database because Y is expressed as an NP within a dependent clause.	PN новый машина взять-NMLZ-ACC мечта делать-PRS	‘Мехмет мечтает купить новую машину’.		
+50	49	мыть	yıkamak	NOM	ACC	TR	TR	Mehmet çay bardağ-ı-nı yıka-dı	PN tea glass-P.3-ACC wash-PST	‘Mehmet washed his cup.’		PN чай стакан-P.3-ACC мыть-PST	‘Мехмет вымыл свою чашку’.		
+50	50	надевать	giymek	NOM	ACC	TR	TR	Mehmet pantolon-u-nu giy-di	PN trousers-P.3-ACC put_on-PST	‘Mehmet put on his trousers.’		PN штаны-P.3-ACC надеть-PST	‘Мехмет надел свои штаны’.		
+50	51	называться	*	*	*	*		bu-nun ad-ı pusula-dır	this-GEN name-P.3 compass-COP.3	‘This is called a compass.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	этот-GEN имя-P.3 компас-COP.3	‘Это называется компас’.		
+50	52	наказывать	cezalandırmak	NOM	ACC	TR	TR	Mehmet oğl-u-nu cezalandır-dı	PN son-P.3-ACC punish-PST	‘Mehmet punished his son.’		PN сын-P.3-ACC наказать-PST	‘Мехмет наказал своего сына’.		
+50	53	напасть	saldırmak	NOM	DAT	Y	NOM_DAT	ayı balıkçı-ya saldır-dı	bear fisherman-DAT attack-PST	‘A bear attacked a fisherman.’		медведь рыбак-DAT нападать-PST	‘Медведь напал на рыбака’.		
+50	54	наполняться	dolmak	NOM	COM	Y	NOM_COM	kova suy-la dol-du	bucket water-COM fill-PST	‘The bucket filled with water.’		ведро вода-COM наполняться-PST	‘Ведро наполнилось водой’.		
+50	55	находить	bulmak	NOM	ACC	TR	TR	Mehmet anahtar-lar-ı bul-du	PN key-PL-P.3 find-PST	‘Mehmet found his keys.’		PN ключ-PL-P.3 найти-PST	‘Мехмет нашел ключи’.		
+50	56	недоставать	yetmemek	GEN	NOM	X	GEN_NOM	Mehmed-in bilet al-mak için bir lira-sı yet-mi-yor	PN-GEN ticket take-INF for one lira-P.3 be_enough-NEG-PRS	‘Mehmet is short of one lira to buy a ticket.’		PN-GEN ticket take-INF for one lira-P.3 be_enough-NEG-PRS	‘Мехмету недостает одной лиры, чтобы купить билет’.		
+50	57	ненавидеть	nefret etmek	NOM	ABL	Y	NOM_ABL	Mehmet Orhan-dan nefret ed-ıyor	PN PN-ABL hatred make-PRS	‘Mehmet hates Orhan.’		PN PN-ABL ненависть делать-PRS	‘Мехмет ненавидит Орхана’.		
+50	58	нравиться	beğenmek	NOM	ACC	TR	TR	Mehmet bu gömleğ-i beğen-iyor	PN this shirt-ACC like-PRS	‘Mehmet likes this shirt.’		PN этот рубашка-ACC нравиться-PRS	‘Мехмету нравится эта рубашка’.		
+50	59	нуждаться	ihtiyaç olmak	GEN	DAT	XY	GEN_DAT	Mehmed-in para-ya ihtiyac-ı var	PN-GEN money-DAT need-P.3 there_is	‘Mehmet needs money.’	Non-verbal predicate.	PN-GEN деньги-DAT необходимость-P.3 иметься	‘Мехмет нуждается в деньгах’.		
+50	60	окружать	çevrelemek	NOM	ACC	TR	TR	duvar şehr-i çevreli-yor	wall city-ACC encircle-PRS	‘Walls surround the city.’		стена город-ACC окружать-PRS	‘Стены окружают город’.		
+50	61	оставаться	kalmak	GEN	NOM	X	GEN_NOM	Mehmed-in şimdi on lira-sı kal-dı	PN-GEN now ten lira-P.3 remain-PST	‘Now Mehmet has 10 liras left.’		PN-GEN сейчас десять лира-P.3 оставаться-PST	‘У Мехмета теперь осталось 10 долларов’.		
+50	62	отвечать	cevap vermek	NOM	DAT	Y	NOM_DAT	Mehmet öğretmen-e cevap ver-di	PN teacher-DAT answer give-PST	‘Mehmet answered the teacher.’		PN учитель-DAT ответ дать-PST	‘Мехмет ответил учителю’.		
+50	63	открывать	açmak	NOM	ACC	TR	TR	Mehmet şişe-yi aç-tı	PN bottle-ACC open-PST	‘Mehmet opened the bottle.’		PN бутылка-ACC открыть-PST	‘Мехмет открыл бутылку’.		
+50	64	отличаться	farklı olmak	NOM	ABL	Y	NOM_ABL	benim gömleğ-im senin-ki-nden  farklı	I.GEN shirt-P.1SG thou.GEN-ADJ-ABL different	‘My shirt is different from yours.’	Non-verbal predicate.	I.GEN рубашка-P.1SG ты.GEN-ADJ-ABL отличный	‘Моя рубашка отличается от твоей’.		
+50	65	отстать	geri kalmak	NOM	ABL	Y	NOM_ABL	Mehmet Orhan-dan geri kal-dı	PN PN-ABL behind remain-PST	‘Mehmet fell behind Orhan.’		PN PN-ABL позади оставаться-PST	‘Мехмет отстал от Орхана’.		
+50	66	пахать	sürmek	NOM	ACC	TR	TR	Mehmet tarla-yı sür-üyor	PN field-ACC plough-PRS	‘Mehmet is ploughing the field.’		PN поле-ACC пахать-PRS	‘Мехмет пашет поле’.		
+50	67	пахнуть	kokmak	NOM	ABL	Y	NOM_ABL	el-ler-im bu benzin-den kok-uyor	hand-PL-P.1SG this gasoline-ABL smell-PRS	‘My hands smell of this gasoline.’		рука-PL-P.1SG этот бензин-ABL пахнуть-PRS	‘Мои руки пахнут этим бензином’.		
+50	68	пересечь	*	*	*	*		Mehmet yol-dan karşı-ya geç-ti	PN way-ABL opposite-DAT pass-PST	‘Mehmet crossed to the other side of the street.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN дорога-ABL напротив-DAT проходить-PST	‘Мехмет перешел на другую сторону дороги’.		
+50	69	петь	söylemek	NOM	ACC	TR	TR	Mehmet güzel şarkı-yı söyle-di	PN beautiful song-ACC sing-PST	‘Mehmet sang a beautiful song.’		PN красивый песня-ACC петь-PST	‘Мехмет спел красивую песню’.		
+50	70	писать	yazmak	NOM	ACC	TR	TR	Mehmet mektup yaz-dı	PN letter write-PST	‘Mehmet wrote a letter.’		PN письмо писать-PST	‘Мехмет написал письмо’.		
+50	71	пить	içmek	NOM	ACC	TR	TR	Mehmet suy-u iç-ti	PN water-ACC drink-PST	‘Mehmet drank the water’.		PN вода-ACC пить-PST	‘Мехмет выпил воду’.		
+50	72	плавить	eritmek	NOM	ACC	TR	TR	Mehmet buz-u erit-ti	PN ice-ACC melt-PST	‘Mehmet melted the ice.’		PN лед-ACC плавить-PST	‘Мехмет расплавил лед’.		
+50	73	подходить	uymak	NOM	DAT	Y	NOM_DAT	bu kemer elbise-m-e uy-uyor	this belt dress-P.1SG-DAT fit-PRS	‘This belt matches my dress.’		этот пояс платье-P.1SG-DAT подходить-PRS	‘Этот пояс подходит к моему платью’.		
+50	74	покидать	ayrılmak	NOM	ABL	Y	NOM_ABL	Mehmet memleket-i-nden ayrıl-dı	PN hometown-P.3-ABL leave-PST	‘Mehmet left his hometown.’		PN родной_край-P.3-ABL удаляться-PST	‘Мехмет покинул родной город’.		
+50	75	покрывать	kaplamak	NOM	ACC	TR	TR	halı bütün yer-i kaplı-yor	carpet whole place-ACC cover-PRS	‘The carpet covers the whole floor.’		ковер весь место-ACC покрывать-PRS	‘Ковер покрывает весь пол’.		
+50	76	помнить	hatırlamak	NOM	ACC	TR	TR	Mehmet büyü-düğ-ü ev-i iyi hatırlı-yor	PN grow-PTCP.PST-P.3 house-P.3 good remember-PRS	‘Mehmet remembers the house where he grew up well.’		PN расти-PTCP.PST-P.3 дом-P.3 хороший помнить-PRS	‘Мехмет хорошо помнит дом, в котором вырос’.		
+50	77	помочь	yardım etmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e yardım et-ti	PN PN-DAT help make-PST	‘Mehmet helped Filiz.’		PN PN-DAT помощь делать-PST	‘Мехмет помог Филиз’.		
+50	78	понимать	anlamak	NOM	ACC	TR	TR	Mehmet Fransız dil-i-ni  anlı-yor	PN French language-P.3-ACC understand-PRS	‘Mehmet understands the French language.’		PN француз язык-P.3-ACC понимать-PRS	‘Мехмет понимает французский язык’.		
+50	79	попасть	düşmek	NOM	DAT	Y	NOM_DAT	yıldırım ev-e düş-tü	lightning house-DAT fall-PST	‘Lightning hit the house.’		молния дом-DAT падать-PST	‘Молния попала в дом’.		
+50	80	порезаться	yüzünü kesmek	NOM	COM	Y	NOM_COM	Mehmet traş bıçağ-ı-yla yüz-ü-nü kes-ti	PN shaving knife-P.3-COM face-P.3-ACC cut-PST	‘Mehmet cut his face with a razor.’		PN бритье нож-P.3-COM лицо-P.3-ACC резать-PST	‘Мехмет порезал лицо бритвой’.		
+50	81	прилипать	yapışmak	NOM	DAT	Y	NOM_DAT	bardak masa-ya yapış-tı	glass table-DAT stick-PST	‘The glass got stuck to the table.’		стакан стол-DAT прилипать-PST	‘Стакан прилип к столу’.		
+50	82	проиграть	kaybetmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a kaybet-ti	PN PN-DAT lose-PST	‘Mehmet lost to Orhan.’		PN PN-DAT терять-PST	‘Мехмет проиграл Орхану’.		
+50	83	радоваться	sevinmek	NOM	DAT	Y	NOM_DAT	Mehmet mektub-a sevin-di	PN letter-DAT rejoice-PST	‘Mehmet was glad about the letter.’		PN письмо-DAT радоваться-PST	‘Мехмет обрадовался письму’.		
+50	84	разговаривать	konuşmak	NOM	COM	Y	NOM_COM	Mehmet Orhan-la konuş-uyor	PN PN-COM talk-PRS	‘Mehmet is speaking with Orhan.’		PN PN-COM говорить-PRS	‘Мехмет разговаривает с Орханом’.		
+50	85	рожать	doğurmak	NOM	ACC	TR	TR	Filiz erkek çocuğ-u doğur-du	PN male child-P.3 give_birth-PST	‘Filiz gave birth to a baby boy.’		PN самец ребенок-P.3 родить-PST	‘Филиз родила мальчика’.		
+50	86	ронять	düşürmek	NOM	ACC	TR	TR	Mehmet bardağ-ı düşür-dü	PN glass-ACC drop-PST	‘Mehmet dropped the glass.’		PN стакан-ACC ронять-PST	‘Мехмет уронил стакан’.		
+50	87	руководить	yönetmek	NOM	ACC	TR	TR	Mehmet fabrıka-yı yönet-iyor	PN factory-ACC manage-PRS	‘Mehmet runs the factory.’		PN фабрика-ACC управлять-PRS	‘Мехмет руководит фабрикой’.		
+50	88	скучать	özlemek	NOM	ACC	TR	TR	Mehmet Filiz-i özlö-yor	PN PN-ACC miss-PRS	‘Mehmet misses Filiz.’		PN PN-ACC скучать-PRS	‘Мехмет скучает по Филиз’.		
+50	89	следовать	gitmek	NOM	GENpesinden	Y	NOM_GENpesinden	Mehmet Orhan-ın peşinden gid-iyor	PN PN-GEN after go-PRS	‘Mehmet is following Orhan.’		PN PN-GEN сзади идти-PRS	‘Мехмет идет вслед за Орханом’.		
+50	90	слезать	inmek	NOM	ABL	Y	NOM_ABL	Mehmet at-tan in-di	PN horse-ABL descend-PST	‘Mehmet got down from the horse.’		PN лошадь-ABL спускаться-PST	‘Мехмет слез с лошади’.		
+50	91	слушать	dinlemek	NOM	ACC	TR	TR	Mehmet radyo-yı dinli-yor	PN radio-ACC listen-PRS	‘Mehmet is listening to the radio.’		PN радио-ACC слушать-PRS	‘Мехмет слушает радио’.		
+50	92	слушаться	*	*	*	*		Mehmet anne-si-nin söz-ü-nü dinli-yor	PN mother-P.3-GEN word-P.3-ACC listen-PRS	‘Mehmet obeys his mother.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN мать-P.3-GEN слово-P.3-ACC слушать-PRS	‘Мехмет слушается маму’.		
+50	93	слышать	duymak	NOM	ACC	TR	TR	Mehmet müziğ-i duy-uyor	PN music-ACC hear-PRS	‘Mehmet hears the music.’		PN музыка-ACC слышать-PRS	‘Мехмет слышит музыку’.		
+50	94	смешаться	karışmak	NOM	COM	Y	NOM_COM	süt bal-la karış-tı	milk honey-COM mix-PST	‘The milk got mixed with the honey.’		молоко мед-COM смешиваться-PST	‘Мед смешался с молоком’.		
+50	95	смотреть	bakmak	NOM	DAT	Y	NOM_DAT	Mehmet yağmur bulut-lar-ı-na bak-ıyor	PN rain cloud-PL-P.3-DAT look-PRS	‘Mehmet is looking at the rainclouds.’		PN дождь облако-PL-P.3-DAT смотреть-PRS	‘Мехмет смотрит на тучи’.		
+50	96	снимать	çıkarmak	NOM	ACC	TR	TR	Mehmet gömleğ-i-ni çıkar-dı	PN shirt-P.3-ACC extract-PST	‘Mehmet took off his shirt.’		PN рубашка-P.3-ACC вынимать-PST	‘Мехмет снял рубашку’.		
+50	97	сниться	rüyasında görmek	NOM	ACC	TR	TR	Mehmet rüya-sı-nda Filiz-i gör-üyor	PN dream-P.3-LOC PN-ACC see-PRS	‘Mehmet dreams about Filiz.’		PN сон-P.3-LOC PN-ACC видеть-PRS	‘Мехмету снится Филиз’.		
+50	98	соглашаться	katılmak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e katıl-dı	PN PN-DAT join-PST	‘Mehmet agreed with Filiz.’		PN PN-DAT присоединиться-PST	‘Мехмет согласился с Филиз’.		
+50	99	ссориться	bozuşmak	NOM	COM	Y	NOM_COM	Mehmet Orhan-la bozuş-tu	PN PN-COM quarrel-PST	‘Mehmet quarreled with Orhan.’		PN PN-COM рассориться-PST	‘Мехмет поссорился с Орханом’.		
+50	100	стоить	etmek	NOM	ACC	TR	TR	bu bardak bir lira ed-iyor	this glass one lira make-PRS	‘This glass costs one lira.’		этот стакан один лира делать-PRS	‘Этот стакан стоит одну лиру’.		
+50	101	стрелять	ateş etmek	NOM	DAT	Y	NOM_DAT	Mehmet kuş-a ateş et-ti	PN bird-DAT fire make-PST	‘Mehmet shot at the bird.’		PN птица-DAT огонь делать-PST	‘Мехмет выстрелил в птицу’.		
+50	102	сыпать	dökmek	NOM	ACC	TR	TR	Mehmet bardağ-a şeker dök-tü	PN glass-DAT sugar pour-PST	‘Mehmet poured sugar into the glass.’		PN стакан-DAT сахар лить-PST	‘Мехмет насыпал сахар в стакан’.		
+50	103	терять	kaybetmek	NOM	ACC	TR	TR	Mehmet anahtar-lar-ı kaybet-ti	PN key-PL-P.3 lose-PST	‘Mehmet lost his keys.’		PN ключ-PL-P.3 терять-PST	‘Мехмет потерял ключи’.		
+50	104	тонуть	batmak	NOM	LOC	Y	NOM_LOC	odun parça-sı su-da bat-tı	wood piece-P.3 water-LOC sink-PST	‘The piece sank in the water.’		древесина кусок-P.3 вода-LOC тонуть-PST	‘Кусок древесины утонул в воде’.		
+50	105	убивать	öldürmek	NOM	ACC	TR	TR	Mehmet Orhan-ı öldür-dü	PN PN-ACC kill-PST	‘Mehmet killed Orhan.’		PN PN-ACC убить-PST	‘Мехмет убил Орхана’.		
+50	106	ударить	vurmak	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a vur-du	PN PN-DAT strike-PST	‘Mehmet hit Orhan.’		PN PN-DAT strike-PST	‘Мехмет ударил Орхана’.		
+50	107	целовать	öpmek	NOM	ACC	TR	TR	Mehmet Filiz-i öp-tü	PN PN-ACC kiss-PST	‘Mehmet kissed Filiz.’		PN PN-ACC целовать-PST	‘Мехмет поцеловал Филиз’.		
+50	108	читать	okumak	NOM	ACC	TR	TR	Mehmet ilginç bir kitap oku-du	PN interesting one book read-PST	‘Mehmet read an interesting book.’		PN интересный один книга читать-PST	‘Мехмет прочитал интересную книгу’.		
+50	109	шевелить	kıpırdatmak	NOM	ACC	TR	TR	Mehmet parmağ-ı-nı kıpırdat-tı	PN finger-P.3-ACC wiggle-PST	‘Mehmet moved his finger.’		PN палец-P.3-ACC шевелить-PST	‘Мехмет пошевелил пальцем’.		
+50	110	уважать	saygı göstermek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a saygı göster-ir	PN PN-DAT respect show-AOR	‘Mehmet respects Orhan.’		PN PN-DAT уважение показывать-AOR	‘Мехмет уважает Орхана’.		
+50	111	брезговать	iğrenmek	NOM	ABL	Y	NOM_ABL	Mehmet bulaşık-lar-dan iğren-iyor	PN dirty_dishes-PL-ABL be_disgusted-PRS	‘Mehmet is sqeamish about the dirty dishes.’		PN грязная_посуда-PL-ABL гнушаться-PRS	‘Мехмет брезгует грязной посудой’.		
+50	112	быть довольным	memnun olmak	NOM	ABL	Y	NOM_ABL	Mehmet oğl-u-ndan memnun	PN son-P.3-ABL pleased	‘Mehmet is content with his son.’	Non-verbal predicate.	PN сын-P.3-ABL довольный	‘Мехмет доволен своим сыном’.		
+50	113	влюбляться	âşık olmak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e âşık ol-du	PN PN-DAT enamoured be-PST	‘Mehmet fell in love with Filiz.’	Non-verbal predicate.	PN PN-DAT влюбленный быть-PST	‘Мехмет влюбился в Филиз’.		
+50	114	доверять	güvenmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e güven-iyor	PN PN-DAT trust-PRS	‘Mehmet trusts Filiz.’		PN PN-DAT доверять-PRS	‘Мехмет доверяет Филиз’.		
+50	115	жалеть	acımak	NOM	DAT	Y	NOM_DAT	Mehmet anne-si-ne acı-yor	PN mother-P.3-DAT feel_pity-PRS	‘Mehmet feels sorry for his mother.’		PN мать-P.3-DAT жалеть-PRS	‘Мехмет жалеет свою мать’.		
+50	116	завидовать	kıskanmak	NOM	ACC	TR	TR	Mehmet Orhan-ı kıskan-ıyor	PN PN-ACC envy-PRS	‘Mehmet envies Orhan.’		PN PN-ACC завидовать-PRS	‘Мехмет завидует Орхану’.		
+50	117	злиться	öfkelenmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a öfkelen-iyor	PN PN-DAT be_angry-PRS	‘Mehmet is angry with Orhan.’		PN PN-DAT сердиться-PRS	‘Мехмет злится на Орхана’.		
+50	118	удивляться	şaşmak	NOM	DAT	Y	NOM_DAT	Mehmet bu hediye-ye şaş-tı	PN this gift-DAT be_surprised-PST	‘Mehmet was surprised at this gift.’		PN этот подарок-DAT удивиться-PST	‘Мехмет удивился этому подарку’.		
+50	119	любить-2	sevmek	NOM	ACC	TR	TR	Mehmet çay sev-er	PN tea love-AOR	‘Mehmet loves tea.’		PN чай любить-AOR	‘Мехмет любит чай’.		
+50	120	наслаждаться	*	*	*	*		Mehmet çay-ın tad-ı-nı  çıkar-ıyor	PN tea-GEN taste-P.3-ACC extract-PRS	‘Mehmet is enjoying the tea.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN чай-GEN вкус-P.3-ACC вынимать-PRS	‘Мехмет наслаждается чаем’.		
+50	121	хотеть	istemek	NOM	ACC	TR	TR	Mehmet yeni telefon isti-yor	PN new phone want-PRS	‘Mehmet wants a new phone.’		PN новый телефон хотеть-PRS	‘Мехмет хочет новый телефон’.		
+50	122	сердиться	öfkelenmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a öfkelen-iyor	PN PN-DAT be_angry-PRS	‘Mehmet is angry with Orhan.’		PN PN-DAT сердиться-PRS	‘Мехмет сердится на Орхана’.		
+50	123	обижаться	gücenmek	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e gücen-di	PN PN-DAT take_offence-PST	‘Mehmet took offence at Filiz.’		PN PN-DAT обижаться-PST	‘Мехмет обиделся на Филиз’.		
+50	124	огорчать	üzmek	NOM	ACC	TR	TR	Orhan Mehmed-i üz-dü	PN PN-ACC upset-PST	‘Orhan upset Mehmet.’		PN PN-ACC огорчать-PST	‘Орхан огорчил Мехмета’.		
+50	125	поражаться	şaşmak	NOM	DAT	Y	NOM_DAT	Mehmet bu şehir-e şaş-tı	PN this city-DAT be_surprised-PST	‘Mehmet marvelled at this city.’		PN этот город-DAT удивиться-PST	‘Мехмет поразился этому городу’.		
+50	126	презирать	hor görmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a hor gör-üyor	PN PN-DAT contemptible see-PRS	‘Mehmet despises Orhan.’		PN PN-DAT презренный видеть-PRS	‘Мехмет презирает Орхана’.		
+50	127	огорчаться	üzülmek	NOM	GENuzunden	Y	NOM_GENuzunden	Mehmet oğl-u yüzünden üzül-dü	PN son-P.3 because_of be_upset-PST	‘Mehmet got upset because of his son.’		PN сын-P.3 из-за огорчаться-PST	‘Мехмет огорчился из-за своего сына’.		
+50	128	раздражаться	sinirlenmek	NOM	DAT	Y	NOM_DAT	Mehmet Orhan-a sinirlen-iyor	PN PN-DAT get_irritated-PRS	‘Mehmet is getting irritated with Orhan.’		PN PN-DAT раздражаться-PRS	‘Мехмет раздражается на Орхана’.		
+50	129	симпатизировать	sempati duymak	NOM	DAT	Y	NOM_DAT	Mehmet Filiz-e sempati duy-or	PN PN-DAT liking feel-AOR	‘Mehmet is fond of Filiz.’		PN PN-DAT симпатия чувствовать-AOR	‘Мехмет симпатизирует Филиз’.		
+50	130	стесняться	utanmak	NOM	ABL	Y	NOM_ABL	Mehmet boy-u-ndan utan-uyor	PN height-P.3-ABL be_shy-PRS	‘Mehmet is shy about his height.’		PN рост-P.3-ABL смущаться-PRS	‘Мехмет стесняется своего роста’.		
