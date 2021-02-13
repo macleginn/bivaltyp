@@ -33,7 +33,7 @@ else:
 URL_DICT = {
     'predicates': '{{ site_url_j }}/predicates/',
     'languages': '{{ site_url_j }}/languages/listview/',
-    'questionnaire': '{{ site_url_j }}/questionnaire/',
+    'questionnaire': '{{ site_url_j }}/project/questionnaire/',
     'patterns': '{{ site_url_j }}/data/patterns/',
     'all_data': '{{ site_url_j }}/data/all/',
     'download': '{{ site_url_j }}/download/',
@@ -171,7 +171,8 @@ def process_language_and_predicate_links(text):
         replacement_dict[match.group(0)] = pred_link_from_name(predicate, True)
     for match in predicate_link_pattern_ru.finditer(text):
         predicate = match.group('predicate')
-        replacement_dict[match.group(0)] = pred_link_from_name(predicate, True, 'ru')
+        replacement_dict[match.group(0)] = pred_link_from_name(
+            predicate, True, 'ru')
     # Replace keys from longest to shortest
     # to obviate substring problems.
     tuples = sorted(replacement_dict.items(),
@@ -306,7 +307,8 @@ def get_predicate_example_table(t):
         comm_tr = ET.Element('tr')
         comm_td = ET.Element('td', attrib={
             'colspan': str(ncol),
-            'style': 'background-color: rgb(240,240,240); max-width: 300px;' # font-style: italic;'
+            # font-style: italic;'
+            'style': 'background-color: rgb(240,240,240); max-width: 300px;'
         })
         comm_td.text = f'Note: {t.comms}'
         comm_tr.append(comm_td)
@@ -427,7 +429,8 @@ def render_examples_for_predicate(predicate_no_hash):
     result.append(h2)
 
     # Add predicate meta
-    result.append(render_predicate_info(PREDICATES.loc[predicate_no], add_header=False))
+    result.append(render_predicate_info(
+        PREDICATES.loc[predicate_no], add_header=False))
 
     # Sort languages by the external name
     tuple_dicts = []
@@ -483,7 +486,7 @@ def pipeline(template_text, parse_markdown, classes=None, language=None, predica
         main = div_prefix + main + \
             ('\n' + '<h2>Data</h2>\n' +
                 render_examples_for_language(language)) + '\n</div>' + \
-                '\n<div id="error-link-div">Please report any errors in the data <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYU88YCezA3zgDpkR_8XmEJdmodMSRNWmsZRmwNtXskujbrA/viewform" target="_blank">here</a>.'
+            '\n<div id="error-link-div">Please report any errors in the data <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYU88YCezA3zgDpkR_8XmEJdmodMSRNWmsZRmwNtXskujbrA/viewform" target="_blank">here</a>.'
     elif predicate is not None:
         main = div_prefix + main + \
             render_examples_for_predicate(predicate) + '\n</div>' + \
@@ -512,9 +515,11 @@ def render_stimulus_sentence(sent: str, ru: str = '') -> ET.Element:
     d = dom('table', classes='' + ru)
     tr = dom('tr')
     if ru:
-        tr.append(dom('td', text='Stimulus sentence Ru: ', classes='sc predicate-prop'))
+        tr.append(dom('td', text='Stimulus sentence Ru: ',
+                      classes='sc predicate-prop'))
     else:
-        tr.append(dom('td', text='Stimulus sentence: ', classes='sc predicate-prop'))
+        tr.append(dom('td', text='Stimulus sentence: ',
+                      classes='sc predicate-prop'))
 
     # Split the sentence into the parts between and around X and Y and X and Y themselves.
     xy_pattern = re.compile(r'\[(.+?)\]_(x|y)')
@@ -565,9 +570,11 @@ def render_argument_frame(text: str, ru: str = '') -> ET.Element:
     d = dom('table', classes='' + ru)
     tr = dom('tr')
     if ru:
-        tr.append(dom('td', text='Argument frame Ru: ', classes='sc predicate-prop'))
+        tr.append(dom('td', text='Argument frame Ru: ',
+                      classes='sc predicate-prop'))
     else:
-        tr.append(dom('td', text='Argument frame: ', classes='sc predicate-prop'))
+        tr.append(dom('td', text='Argument frame: ',
+                      classes='sc predicate-prop'))
 
     td = dom('td', classes='stimulus-sentence')
     X_idx = text.find('X')
@@ -586,9 +593,11 @@ def render_predicate_label(text: str, ru: str = '') -> ET.Element:
     d = dom('table', classes='' + ru)
     tr = dom('tr')
     if ru:
-        tr.append(dom('td', text='Predicate label Ru: ', classes='sc predicate-prop'))
+        tr.append(dom('td', text='Predicate label Ru: ',
+                      classes='sc predicate-prop'))
     else:
-        tr.append(dom('td', text='Predicate label: ', classes='sc predicate-prop'))
+        tr.append(dom('td', text='Predicate label: ',
+                      classes='sc predicate-prop'))
     td = dom('td', classes='stimulus-sentence')
     td.append(dom('span', text=text, classes='bg'))
     tr.append(td)
@@ -617,7 +626,8 @@ def render_predicate_info(t, add_header=True):
     predicate_div.append(render_stimulus_sentence(t.stimulus_sentence_en))
     predicate_div.append(render_predicate_label(t.predicate_label_ru, ' ru'))
     predicate_div.append(render_argument_frame(t.argument_frame_ru, ' ru'))
-    predicate_div.append(render_stimulus_sentence(t.stimulus_sentence_ru, ' ru'))
+    predicate_div.append(render_stimulus_sentence(
+        t.stimulus_sentence_ru, ' ru'))
     return predicate_div
 
 
@@ -636,7 +646,8 @@ def language_list_page():
         })
         a.text = lang_external
         p.append(a)
-        p.append(dom( 'span', text='(' + PHYLO_DICT[lang_internal][0] + ', ' + PHYLO_DICT[lang_internal][1] + ')'))
+        p.append(dom('span', text='(' +
+                     PHYLO_DICT[lang_internal][0] + ', ' + PHYLO_DICT[lang_internal][1] + ')'))
         result.append(p)
     template = xml2str(result)
     return BASE_TEMPLATE.format(
@@ -662,21 +673,21 @@ def predicate_page():
         includes=INCLUDES_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
         header=HEADER_TEMPLATE.replace('{{ site_url_j }}', SITE_URL),
         main=template
-            .replace('{{ site_url_j }}', SITE_URL)
-            .replace('<div id="main">', '''<div id="main">
+        .replace('{{ site_url_j }}', SITE_URL)
+        .replace('<div id="main">', '''<div id="main">
     <div>
         <h2>Predicates</h2>
         <p>Click on the name of a predicate if you want to see all patterns and glossed examples associated with the predicate.</p>
         <p><span><label for="russian_meta">Show Russian meta: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();"></p>
     </div>''')
-            .replace('<span class="blue bg">Y</span>\n            <span class="bg">ache</span>',
-                     '<span class="blue bg">Y</span><span class="bg">ache</span>')
-            .replace('<span class="blue bg">head </span>\n            <span class="bg">ache.</span>',
-                     '<span class="blue bg">head</span><span class="bg">ache.</span>')
-            .replace('<span class="red bg">X</span>\n            <span class="bg">-',
-                     '<span class="red bg">X</span><span class="bg">-')
-            .replace('<span class="blue bg">Y</span>\n            <span class="bg">-',
-                     '<span class="blue bg">Y</span><span class="bg">-'),
+        .replace('<span class="blue bg">Y</span>\n            <span class="bg">ache</span>',
+                 '<span class="blue bg">Y</span><span class="bg">ache</span>')
+        .replace('<span class="blue bg">head </span>\n            <span class="bg">ache.</span>',
+                 '<span class="blue bg">head</span><span class="bg">ache.</span>')
+        .replace('<span class="red bg">X</span>\n            <span class="bg">-',
+                 '<span class="red bg">X</span><span class="bg">-')
+        .replace('<span class="blue bg">Y</span>\n            <span class="bg">-',
+                 '<span class="blue bg">Y</span><span class="bg">-'),
         script=js,
         footer=''
     )

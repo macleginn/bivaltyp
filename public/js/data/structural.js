@@ -415,7 +415,7 @@ const structuralData = [
   ],
   [
     "Abaza",
-    "love1",
+    "love#person#",
     "бзи ба",
     "ERG",
     "ABS",
@@ -703,7 +703,7 @@ const structuralData = [
   ],
   [
     "Abaza",
-    "understand",
+    "understand#language#",
     "гIа-гвын-гIвы",
     "LOCgwene",
     "ABS",
@@ -1072,7 +1072,7 @@ const structuralData = [
   ],
   [
     "Abaza",
-    "love2",
+    "love#tea#",
     "бзи ба",
     "ERG",
     "ABS",
@@ -1585,7 +1585,7 @@ const structuralData = [
   ],
   [
     "Adyghe",
-    "love1",
+    "love#person#",
     "шIу лъэгъу",
     "ERG",
     "ABS",
@@ -1873,7 +1873,7 @@ const structuralData = [
   ],
   [
     "Adyghe",
-    "understand",
+    "understand#language#",
     "къы-гу-ры-Iо",
     "LOC.HEART.PRV.INSTR",
     "ABS",
@@ -2242,7 +2242,7 @@ const structuralData = [
   ],
   [
     "Adyghe",
-    "love2",
+    "love#tea#",
     "и-кIэсэ",
     "POSS",
     "ABS",
@@ -2755,7 +2755,7 @@ const structuralData = [
   ],
   [
     "Albanian",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -3043,7 +3043,7 @@ const structuralData = [
   ],
   [
     "Albanian",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -3412,7 +3412,7 @@ const structuralData = [
   ],
   [
     "Albanian",
-    "love2",
+    "love#tea#",
     "",
     "DAT",
     "NOM",
@@ -3925,7 +3925,7 @@ const structuralData = [
   ],
   [
     "Standard Arabic",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -4213,7 +4213,7 @@ const structuralData = [
   ],
   [
     "Standard Arabic",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -4582,7 +4582,7 @@ const structuralData = [
   ],
   [
     "Standard Arabic",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "ACC",
@@ -5095,7 +5095,7 @@ const structuralData = [
   ],
   [
     "Eastern Armenian",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "DAT~NOM",
@@ -5383,7 +5383,7 @@ const structuralData = [
   ],
   [
     "Eastern Armenian",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "DAT~NOM",
@@ -5752,7 +5752,7 @@ const structuralData = [
   ],
   [
     "Eastern Armenian",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "DAT~NOM",
@@ -6265,7 +6265,7 @@ const structuralData = [
   ],
   [
     "Azerbaijani",
-    "love1",
+    "love#person#",
     "sev-",
     "NOM",
     "ACC",
@@ -6553,7 +6553,7 @@ const structuralData = [
   ],
   [
     "Azerbaijani",
-    "understand",
+    "understand#language#",
     "anlay-",
     "NOM",
     "ACC",
@@ -6922,7 +6922,7 @@ const structuralData = [
   ],
   [
     "Azerbaijani",
-    "love2",
+    "love#tea#",
     "sev-",
     "NOM",
     "ACC",
@@ -7435,7 +7435,7 @@ const structuralData = [
   ],
   [
     "Bagvalal",
-    "love1",
+    "love#person#",
     "",
     "DAT",
     "NOM",
@@ -7723,7 +7723,7 @@ const structuralData = [
   ],
   [
     "Bagvalal",
-    "understand",
+    "understand#language#",
     "",
     "DAT",
     "NOM",
@@ -8092,7 +8092,7 @@ const structuralData = [
   ],
   [
     "Bagvalal",
-    "love2",
+    "love#tea#",
     "",
     "*",
     "*",
@@ -8605,7 +8605,7 @@ const structuralData = [
   ],
   [
     "Bashkir",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -8893,7 +8893,7 @@ const structuralData = [
   ],
   [
     "Bashkir",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -9262,7 +9262,7 @@ const structuralData = [
   ],
   [
     "Bashkir",
-    "love2",
+    "love#tea#",
     "",
     "*",
     "*",
@@ -9775,7 +9775,7 @@ const structuralData = [
   ],
   [
     "Basque",
-    "love1",
+    "love#person#",
     "maitatu ",
     "ERG",
     "ABS",
@@ -10063,7 +10063,7 @@ const structuralData = [
   ],
   [
     "Basque",
-    "understand",
+    "understand#language#",
     "ulertu",
     "ERG",
     "ABS",
@@ -10432,7 +10432,7 @@ const structuralData = [
   ],
   [
     "Basque",
-    "love2",
+    "love#tea#",
     "*",
     "*",
     "*",
@@ -10945,7 +10945,7 @@ const structuralData = [
   ],
   [
     "Belarusian",
-    "love1",
+    "love#person#",
     "любіць ",
     "NOM",
     "ACC",
@@ -11233,7 +11233,7 @@ const structuralData = [
   ],
   [
     "Belarusian",
-    "understand",
+    "understand#language#",
     "разумее ",
     "NOM",
     "ACC",
@@ -11602,7 +11602,7 @@ const structuralData = [
   ],
   [
     "Belarusian",
-    "love2",
+    "love#tea#",
     "любіць",
     "NOM",
     "ACC",
@@ -12115,7 +12115,7 @@ const structuralData = [
   ],
   [
     "Bengali",
-    "love1",
+    "love#person#",
     "bhālobāsā",
     "NOM",
     "OBJ~NOM",
@@ -12403,7 +12403,7 @@ const structuralData = [
   ],
   [
     "Bengali",
-    "understand",
+    "understand#language#",
     "bujhā",
     "NOM",
     "OBJ~NOM",
@@ -12772,7 +12772,7 @@ const structuralData = [
   ],
   [
     "Bengali",
-    "love2",
+    "love#tea#",
     "pachanda karā",
     "NOM",
     "OBJ~NOM",
@@ -13285,7 +13285,7 @@ const structuralData = [
   ],
   [
     "Bulgarian",
-    "love1",
+    "love#person#",
     "обича",
     "SBJ",
     "DO",
@@ -13573,7 +13573,7 @@ const structuralData = [
   ],
   [
     "Bulgarian",
-    "understand",
+    "understand#language#",
     "разбира",
     "SBJ",
     "DO",
@@ -13942,7 +13942,7 @@ const structuralData = [
   ],
   [
     "Bulgarian",
-    "love2",
+    "love#tea#",
     "обича",
     "SBJ",
     "DO",
@@ -14455,7 +14455,7 @@ const structuralData = [
   ],
   [
     "Buriat",
-    "love1",
+    "love#person#",
     "дура-тай",
     "NOM",
     "DAT",
@@ -14743,7 +14743,7 @@ const structuralData = [
   ],
   [
     "Buriat",
-    "understand",
+    "understand#language#",
     "мэдэ-",
     "NOM",
     "ACC",
@@ -15112,7 +15112,7 @@ const structuralData = [
   ],
   [
     "Buriat",
-    "love2",
+    "love#tea#",
     "дура-тай",
     "NOM",
     "DAT",
@@ -15625,7 +15625,7 @@ const structuralData = [
   ],
   [
     "Chechen",
-    "love1",
+    "love#person#",
     "AGR-ieza",
     "DAT",
     "ABS",
@@ -15913,7 +15913,7 @@ const structuralData = [
   ],
   [
     "Chechen",
-    "understand",
+    "understand#language#",
     "qieta",
     "DAT",
     "ABS",
@@ -16282,7 +16282,7 @@ const structuralData = [
   ],
   [
     "Chechen",
-    "love2",
+    "love#tea#",
     "AGR-ieza",
     "DAT",
     "ABS",
@@ -16795,7 +16795,7 @@ const structuralData = [
   ],
   [
     "Mandarin Chinese",
-    "love1",
+    "love#person#",
     "",
     "SBJ",
     "DO",
@@ -17083,7 +17083,7 @@ const structuralData = [
   ],
   [
     "Mandarin Chinese",
-    "understand",
+    "understand#language#",
     "",
     "SBJ",
     "DO",
@@ -17452,7 +17452,7 @@ const structuralData = [
   ],
   [
     "Mandarin Chinese",
-    "love2",
+    "love#tea#",
     "",
     "SBJ",
     "DO",
@@ -17965,7 +17965,7 @@ const structuralData = [
   ],
   [
     "Chukchi",
-    "love1",
+    "love#person#",
     "",
     "ERG",
     "ABS",
@@ -18253,7 +18253,7 @@ const structuralData = [
   ],
   [
     "Chukchi",
-    "understand",
+    "understand#language#",
     "",
     "ERG",
     "ABS",
@@ -18622,7 +18622,7 @@ const structuralData = [
   ],
   [
     "Chukchi",
-    "love2",
+    "love#tea#",
     "",
     "*",
     "*",
@@ -19135,7 +19135,7 @@ const structuralData = [
   ],
   [
     "Chuvash",
-    "love1",
+    "love#person#",
     "jorad‑",
     "NOM",
     "OBJ",
@@ -19423,7 +19423,7 @@ const structuralData = [
   ],
   [
     "Chuvash",
-    "understand",
+    "understand#language#",
     "ən-la-n-",
     "NOM",
     "OBJ",
@@ -19792,7 +19792,7 @@ const structuralData = [
   ],
   [
     "Chuvash",
-    "love2",
+    "love#tea#",
     "jorad-",
     "NOM",
     "OBJ",
@@ -20305,7 +20305,7 @@ const structuralData = [
   ],
   [
     "Croatian",
-    "love1",
+    "love#person#",
     "voli",
     "NOM",
     "ACC",
@@ -20593,7 +20593,7 @@ const structuralData = [
   ],
   [
     "Croatian",
-    "understand",
+    "understand#language#",
     "razumije",
     "NOM",
     "ACC",
@@ -20962,7 +20962,7 @@ const structuralData = [
   ],
   [
     "Croatian",
-    "love2",
+    "love#tea#",
     "voli",
     "NOM",
     "ACC",
@@ -21475,7 +21475,7 @@ const structuralData = [
   ],
   [
     "Czech",
-    "love1",
+    "love#person#",
     "miluje",
     "NOM",
     "ACC",
@@ -21763,7 +21763,7 @@ const structuralData = [
   ],
   [
     "Czech",
-    "understand",
+    "understand#language#",
     "rozumí",
     "NOM",
     "ACC",
@@ -22132,7 +22132,7 @@ const structuralData = [
   ],
   [
     "Czech",
-    "love2",
+    "love#tea#",
     "má rád ",
     "NOM",
     "ACC",
@@ -22645,7 +22645,7 @@ const structuralData = [
   ],
   [
     "Icari Dargwa",
-    "love1",
+    "love#person#",
     "AGR=иккв-ил-ца=AGR",
     "SUPLAT",
     "ABS",
@@ -22933,7 +22933,7 @@ const structuralData = [
   ],
   [
     "Icari Dargwa",
-    "understand",
+    "understand#language#",
     "иргъ-а-ца=AGR",
     "ERG",
     "ABS",
@@ -23302,7 +23302,7 @@ const structuralData = [
   ],
   [
     "Icari Dargwa",
-    "love2",
+    "love#tea#",
     "AGR=ичч-ахъ-у",
     "SUPLAT",
     "ABS",
@@ -23815,7 +23815,7 @@ const structuralData = [
   ],
   [
     "Dutch",
-    "love1",
+    "love#person#",
     "houden",
     "SBJ",
     "van",
@@ -24103,7 +24103,7 @@ const structuralData = [
   ],
   [
     "Dutch",
-    "understand",
+    "understand#language#",
     "verstaan",
     "SBJ",
     "DO",
@@ -24472,7 +24472,7 @@ const structuralData = [
   ],
   [
     "Dutch",
-    "love2",
+    "love#tea#",
     "houden",
     "*",
     "*",
@@ -24985,7 +24985,7 @@ const structuralData = [
   ],
   [
     "Forest Enets",
-    "love1",
+    "love#person#",
     "kɔmita",
     "NOM",
     "OBL",
@@ -25273,7 +25273,7 @@ const structuralData = [
   ],
   [
     "Forest Enets",
-    "understand",
+    "understand#language#",
     "kamiku",
     "NOM",
     "OBL",
@@ -25642,7 +25642,7 @@ const structuralData = [
   ],
   [
     "Forest Enets",
-    "love2",
+    "love#tea#",
     "kɔmita",
     "NOM",
     "OBL",
@@ -26155,7 +26155,7 @@ const structuralData = [
   ],
   [
     "English",
-    "love1",
+    "love#person#",
     "love",
     "SBJ",
     "DO",
@@ -26443,7 +26443,7 @@ const structuralData = [
   ],
   [
     "English",
-    "understand",
+    "understand#language#",
     "understand",
     "SBJ",
     "DO",
@@ -26812,7 +26812,7 @@ const structuralData = [
   ],
   [
     "English",
-    "love2",
+    "love#tea#",
     "love",
     "SBJ",
     "DO",
@@ -27325,7 +27325,7 @@ const structuralData = [
   ],
   [
     "Erzya",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "GEN~NOM",
@@ -27613,7 +27613,7 @@ const structuralData = [
   ],
   [
     "Erzya",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "GEN~NOM",
@@ -27982,7 +27982,7 @@ const structuralData = [
   ],
   [
     "Erzya",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "GEN~NOM",
@@ -28495,7 +28495,7 @@ const structuralData = [
   ],
   [
     "Estonian",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "PART",
@@ -28783,7 +28783,7 @@ const structuralData = [
   ],
   [
     "Estonian",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "EL",
@@ -29152,7 +29152,7 @@ const structuralData = [
   ],
   [
     "Estonian",
-    "love2",
+    "love#tea#",
     "",
     "*",
     "*",
@@ -29665,7 +29665,7 @@ const structuralData = [
   ],
   [
     "Evenki",
-    "love1",
+    "love#person#",
     "ая̄в-",
     "NOM",
     "ACC",
@@ -29953,7 +29953,7 @@ const structuralData = [
   ],
   [
     "Evenki",
-    "understand",
+    "understand#language#",
     "тылде-",
     "NOM",
     "ACC",
@@ -30322,7 +30322,7 @@ const structuralData = [
   ],
   [
     "Evenki",
-    "love2",
+    "love#tea#",
     "ая̄в-",
     "NOM",
     "ACC",
@@ -30835,7 +30835,7 @@ const structuralData = [
   ],
   [
     "Finnish",
-    "love1",
+    "love#person#",
     "rakastaa",
     "NOM",
     "PART",
@@ -31123,7 +31123,7 @@ const structuralData = [
   ],
   [
     "Finnish",
-    "understand",
+    "understand#language#",
     "ymmärtää ",
     "NOM",
     "PART",
@@ -31492,7 +31492,7 @@ const structuralData = [
   ],
   [
     "Finnish",
-    "love2",
+    "love#tea#",
     "pitää ",
     "NOM",
     "ELA",
@@ -32005,7 +32005,7 @@ const structuralData = [
   ],
   [
     "Ingrian Finnish",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "PART",
@@ -32293,7 +32293,7 @@ const structuralData = [
   ],
   [
     "Ingrian Finnish",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "GEN~PART~NOM",
@@ -32662,7 +32662,7 @@ const structuralData = [
   ],
   [
     "Ingrian Finnish",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "PART",
@@ -33175,7 +33175,7 @@ const structuralData = [
   ],
   [
     "French",
-    "love1",
+    "love#person#",
     "aimer",
     "SBJ",
     "DO",
@@ -33463,7 +33463,7 @@ const structuralData = [
   ],
   [
     "French",
-    "understand",
+    "understand#language#",
     "comprendre",
     "SBJ",
     "DO",
@@ -33832,7 +33832,7 @@ const structuralData = [
   ],
   [
     "French",
-    "love2",
+    "love#tea#",
     "aimer",
     "*",
     "*",
@@ -34345,7 +34345,7 @@ const structuralData = [
   ],
   [
     "Gascon",
-    "love1",
+    "love#person#",
     "aima",
     "SBJ",
     "DO",
@@ -34633,7 +34633,7 @@ const structuralData = [
   ],
   [
     "Gascon",
-    "understand",
+    "understand#language#",
     "compren",
     "SBJ",
     "DO",
@@ -35002,7 +35002,7 @@ const structuralData = [
   ],
   [
     "Gascon",
-    "love2",
+    "love#tea#",
     "aima",
     "SBJ",
     "DO",
@@ -35515,7 +35515,7 @@ const structuralData = [
   ],
   [
     "Georgian",
-    "love1",
+    "love#person#",
     "Ø-u-q'var-s",
     "DAT",
     "NOM",
@@ -35803,7 +35803,7 @@ const structuralData = [
   ],
   [
     "Georgian",
-    "understand",
+    "understand#language#",
     "Ø-e-sm-i-s",
     "DAT",
     "NOM",
@@ -36172,7 +36172,7 @@ const structuralData = [
   ],
   [
     "Georgian",
-    "love2",
+    "love#tea#",
     "Ø-u-q'var-s",
     "DAT",
     "NOM",
@@ -36685,7 +36685,7 @@ const structuralData = [
   ],
   [
     "German",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -36973,7 +36973,7 @@ const structuralData = [
   ],
   [
     "German",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -37342,7 +37342,7 @@ const structuralData = [
   ],
   [
     "German",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "ACC",
@@ -37855,7 +37855,7 @@ const structuralData = [
   ],
   [
     "Goo",
-    "love1",
+    "love#person#",
     "li̋a̋",
     "gi",
     "POSS.SBJ",
@@ -38143,7 +38143,7 @@ const structuralData = [
   ],
   [
     "Goo",
-    "understand",
+    "understand#language#",
     "bhán",
     "SBJ",
     "DO",
@@ -38512,7 +38512,7 @@ const structuralData = [
   ],
   [
     "Goo",
-    "love2",
+    "love#tea#",
     "lɔ̏ɔ̏",
     "kee",
     "POSS.SBJ",
@@ -39025,7 +39025,7 @@ const structuralData = [
   ],
   [
     "Ancient Greek",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -39313,7 +39313,7 @@ const structuralData = [
   ],
   [
     "Ancient Greek",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -39682,7 +39682,7 @@ const structuralData = [
   ],
   [
     "Ancient Greek",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "ACC",
@@ -40195,7 +40195,7 @@ const structuralData = [
   ],
   [
     "Modern Greek",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -40483,7 +40483,7 @@ const structuralData = [
   ],
   [
     "Modern Greek",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -40852,7 +40852,7 @@ const structuralData = [
   ],
   [
     "Modern Greek",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "ACC",
@@ -41365,7 +41365,7 @@ const structuralData = [
   ],
   [
     "Paraguayan Guaraní",
-    "love1",
+    "love#person#",
     "",
     "ACT",
     "INACT",
@@ -41653,7 +41653,7 @@ const structuralData = [
   ],
   [
     "Paraguayan Guaraní",
-    "understand",
+    "understand#language#",
     "",
     "ACT",
     "INACT",
@@ -42022,7 +42022,7 @@ const structuralData = [
   ],
   [
     "Paraguayan Guaraní",
-    "love2",
+    "love#tea#",
     "",
     "*",
     "*",
@@ -42535,7 +42535,7 @@ const structuralData = [
   ],
   [
     "Guro",
-    "love1",
+    "love#person#",
     "",
     "*",
     "*",
@@ -42823,7 +42823,7 @@ const structuralData = [
   ],
   [
     "Guro",
-    "understand",
+    "understand#language#",
     "",
     "SBJ",
     "DO",
@@ -43192,7 +43192,7 @@ const structuralData = [
   ],
   [
     "Guro",
-    "love2",
+    "love#tea#",
     "",
     "*",
     "*",
@@ -43705,7 +43705,7 @@ const structuralData = [
   ],
   [
     "Hungarian",
-    "love1",
+    "love#person#",
     "szeret",
     "NOM",
     "ACC",
@@ -43993,7 +43993,7 @@ const structuralData = [
   ],
   [
     "Hungarian",
-    "understand",
+    "understand#language#",
     "ért",
     "NOM",
     "ESS",
@@ -44362,7 +44362,7 @@ const structuralData = [
   ],
   [
     "Hungarian",
-    "love2",
+    "love#tea#",
     "imád",
     "NOM",
     "ACC",
@@ -44875,7 +44875,7 @@ const structuralData = [
   ],
   [
     "Icelandic",
-    "love1",
+    "love#person#",
     "elskar",
     "NOM",
     "ACC",
@@ -45163,7 +45163,7 @@ const structuralData = [
   ],
   [
     "Icelandic",
-    "understand",
+    "understand#language#",
     "skilur",
     "NOM",
     "ACC",
@@ -45532,7 +45532,7 @@ const structuralData = [
   ],
   [
     "Icelandic",
-    "love2",
+    "love#tea#",
     "elskar",
     "NOM",
     "ACC",
@@ -46045,7 +46045,7 @@ const structuralData = [
   ],
   [
     "Ingush",
-    "love1",
+    "love#person#",
     "",
     "DAT",
     "NOM",
@@ -46333,7 +46333,7 @@ const structuralData = [
   ],
   [
     "Ingush",
-    "understand",
+    "understand#language#",
     "",
     "ERG",
     "NOM",
@@ -46702,7 +46702,7 @@ const structuralData = [
   ],
   [
     "Ingush",
-    "love2",
+    "love#tea#",
     "",
     "DAT",
     "NOM",
@@ -47215,7 +47215,7 @@ const structuralData = [
   ],
   [
     "Irish",
-    "love1",
+    "love#person#",
     "",
     "aige",
     "DO ",
@@ -47503,7 +47503,7 @@ const structuralData = [
   ],
   [
     "Irish",
-    "understand",
+    "understand#language#",
     "",
     "SBJ",
     "DO",
@@ -47872,7 +47872,7 @@ const structuralData = [
   ],
   [
     "Irish",
-    "love2",
+    "love#tea#",
     "",
     "le",
     "SBJ",
@@ -48385,7 +48385,7 @@ const structuralData = [
   ],
   [
     "Italian",
-    "love1",
+    "love#person#",
     "amare",
     "SBJ",
     "DO",
@@ -48673,7 +48673,7 @@ const structuralData = [
   ],
   [
     "Italian",
-    "understand",
+    "understand#language#",
     "capire",
     "SBJ",
     "DO",
@@ -49042,7 +49042,7 @@ const structuralData = [
   ],
   [
     "Italian",
-    "love2",
+    "love#tea#",
     "piacere",
     "*",
     "*",
@@ -49555,7 +49555,7 @@ const structuralData = [
   ],
   [
     "Japanese",
-    "love1",
+    "love#person#",
     "",
     "*",
     "*",
@@ -49843,7 +49843,7 @@ const structuralData = [
   ],
   [
     "Japanese",
-    "understand",
+    "understand#language#",
     "",
     "TOP",
     "NOM",
@@ -50212,7 +50212,7 @@ const structuralData = [
   ],
   [
     "Japanese",
-    "love2",
+    "love#tea#",
     "",
     "TOP",
     "NOM",
@@ -50725,7 +50725,7 @@ const structuralData = [
   ],
   [
     "Joola-Fonyi",
-    "love1",
+    "love#person#",
     "maŋ ",
     "SBJ",
     "OBJ",
@@ -51013,7 +51013,7 @@ const structuralData = [
   ],
   [
     "Joola-Fonyi",
-    "understand",
+    "understand#language#",
     "jam ",
     "SBJ",
     "OBJ",
@@ -51382,7 +51382,7 @@ const structuralData = [
   ],
   [
     "Joola-Fonyi",
-    "love2",
+    "love#tea#",
     "maŋ ",
     "SBJ",
     "OBJ",
@@ -51895,7 +51895,7 @@ const structuralData = [
   ],
   [
     "Kalmyk",
-    "love1",
+    "love#person#",
     "durl",
     "NOM",
     "ACC",
@@ -52183,7 +52183,7 @@ const structuralData = [
   ],
   [
     "Kalmyk",
-    "understand",
+    "understand#language#",
     "med",
     "NOM",
     "ACC",
@@ -52552,7 +52552,7 @@ const structuralData = [
   ],
   [
     "Kalmyk",
-    "love2",
+    "love#tea#",
     "durta",
     "NOM",
     "DAT",
@@ -53065,7 +53065,7 @@ const structuralData = [
   ],
   [
     "Kazakh",
-    "love1",
+    "love#person#",
     "сүй",
     "NOM",
     "ACC",
@@ -53353,7 +53353,7 @@ const structuralData = [
   ],
   [
     "Kazakh",
-    "understand",
+    "understand#language#",
     "түсін",
     "NOM",
     "ACC",
@@ -53722,7 +53722,7 @@ const structuralData = [
   ],
   [
     "Kazakh",
-    "love2",
+    "love#tea#",
     "жақсы көр",
     "NOM",
     "ACC",
@@ -54235,7 +54235,7 @@ const structuralData = [
   ],
   [
     "Khmer",
-    "love1",
+    "love#person#",
     "",
     "SBJ",
     "DO",
@@ -54523,7 +54523,7 @@ const structuralData = [
   ],
   [
     "Khmer",
-    "understand",
+    "understand#language#",
     "*",
     "*",
     "*",
@@ -54892,7 +54892,7 @@ const structuralData = [
   ],
   [
     "Khmer",
-    "love2",
+    "love#tea#",
     "*",
     "*",
     "*",
@@ -55405,7 +55405,7 @@ const structuralData = [
   ],
   [
     "Komi-Permyak",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -55693,7 +55693,7 @@ const structuralData = [
   ],
   [
     "Komi-Permyak",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -56062,7 +56062,7 @@ const structuralData = [
   ],
   [
     "Komi-Permyak",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "ACC",
@@ -56575,7 +56575,7 @@ const structuralData = [
   ],
   [
     "Komi-Zyrian",
-    "love1",
+    "love#person#",
     "радейтны",
     "NOM",
     "ACC",
@@ -56863,7 +56863,7 @@ const structuralData = [
   ],
   [
     "Komi-Zyrian",
-    "understand",
+    "understand#language#",
     "гöгöрвоны",
     "NOM",
     "ACC",
@@ -57232,7 +57232,7 @@ const structuralData = [
   ],
   [
     "Komi-Zyrian",
-    "love2",
+    "love#tea#",
     "радейтны ",
     "*",
     "*",
@@ -57745,7 +57745,7 @@ const structuralData = [
   ],
   [
     "Latin",
-    "love1",
+    "love#person#",
     "amo",
     "NOM",
     "ACC",
@@ -58033,7 +58033,7 @@ const structuralData = [
   ],
   [
     "Latin",
-    "understand",
+    "understand#language#",
     "scio",
     "NOM",
     "ACC",
@@ -58402,7 +58402,7 @@ const structuralData = [
   ],
   [
     "Latin",
-    "love2",
+    "love#tea#",
     "amo",
     "NOM",
     "ACC",
@@ -58915,7 +58915,7 @@ const structuralData = [
   ],
   [
     "Latvian",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -59203,7 +59203,7 @@ const structuralData = [
   ],
   [
     "Latvian",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -59572,7 +59572,7 @@ const structuralData = [
   ],
   [
     "Latvian",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "ACC",
@@ -60085,7 +60085,7 @@ const structuralData = [
   ],
   [
     "Lezgian",
-    "love1",
+    "love#person#",
     "",
     "DAT",
     "ABS",
@@ -60373,7 +60373,7 @@ const structuralData = [
   ],
   [
     "Lezgian",
-    "understand",
+    "understand#language#",
     "",
     "*",
     "*",
@@ -60742,7 +60742,7 @@ const structuralData = [
   ],
   [
     "Lezgian",
-    "love2",
+    "love#tea#",
     "",
     "DAT",
     "ABS",
@@ -61255,7 +61255,7 @@ const structuralData = [
   ],
   [
     "Lithuanian",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "ACC",
@@ -61543,7 +61543,7 @@ const structuralData = [
   ],
   [
     "Lithuanian",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -61912,7 +61912,7 @@ const structuralData = [
   ],
   [
     "Lithuanian",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "ACC",
@@ -62425,7 +62425,7 @@ const structuralData = [
   ],
   [
     "Loma",
-    "love1",
+    "love#person#",
     "",
     "be",
     "SBJ",
@@ -62713,7 +62713,7 @@ const structuralData = [
   ],
   [
     "Loma",
-    "understand",
+    "understand#language#",
     "",
     "SBJ",
     "DO",
@@ -63082,7 +63082,7 @@ const structuralData = [
   ],
   [
     "Loma",
-    "love2",
+    "love#tea#",
     "",
     "be",
     "SBJ",
@@ -63595,7 +63595,7 @@ const structuralData = [
   ],
   [
     "Macedonian",
-    "love1",
+    "love#person#",
     "сака",
     "SBJ",
     "ACC",
@@ -63883,7 +63883,7 @@ const structuralData = [
   ],
   [
     "Macedonian",
-    "understand",
+    "understand#language#",
     "разбира",
     "SBJ",
     "ACC",
@@ -64252,7 +64252,7 @@ const structuralData = [
   ],
   [
     "Macedonian",
-    "love2",
+    "love#tea#",
     "сака",
     "SBJ",
     "ACC",
@@ -64765,7 +64765,7 @@ const structuralData = [
   ],
   [
     "Mandinka",
-    "love1",
+    "love#person#",
     "kànú ",
     "SBJ",
     "OBJ",
@@ -65053,7 +65053,7 @@ const structuralData = [
   ],
   [
     "Mandinka",
-    "understand",
+    "understand#language#",
     "fàháamú",
     "SBJ",
     "OBJ",
@@ -65422,7 +65422,7 @@ const structuralData = [
   ],
   [
     "Mandinka",
-    "love2",
+    "love#tea#",
     "díyáa ",
     "ye",
     "SBJ",
@@ -65935,7 +65935,7 @@ const structuralData = [
   ],
   [
     "Western Mari",
-    "love1",
+    "love#person#",
     "jarat-",
     "NOM",
     "ACC",
@@ -66223,7 +66223,7 @@ const structuralData = [
   ],
   [
     "Western Mari",
-    "understand",
+    "understand#language#",
     "ə̑ngə̑l-",
     "NOM",
     "ACC",
@@ -66592,7 +66592,7 @@ const structuralData = [
   ],
   [
     "Western Mari",
-    "love2",
+    "love#tea#",
     "jarat-",
     "NOM",
     "ACC",
@@ -67105,7 +67105,7 @@ const structuralData = [
   ],
   [
     "Moksha",
-    "love1",
+    "love#person#",
     "kel'g-",
     "NOM",
     "GEN~NOM",
@@ -67393,7 +67393,7 @@ const structuralData = [
   ],
   [
     "Moksha",
-    "understand",
+    "understand#language#",
     "šar̥'kəd'-",
     "NOM",
     "GEN~NOM",
@@ -67762,7 +67762,7 @@ const structuralData = [
   ],
   [
     "Moksha",
-    "love2",
+    "love#tea#",
     "kel'g-",
     "NOM",
     "GEN~NOM",
@@ -68275,7 +68275,7 @@ const structuralData = [
   ],
   [
     "Nanai",
-    "love1",
+    "love#person#",
     "uləsi-",
     "NOM",
     "OBL",
@@ -68563,7 +68563,7 @@ const structuralData = [
   ],
   [
     "Nanai",
-    "understand",
+    "understand#language#",
     "otoli-",
     "NOM",
     "OBL",
@@ -68932,7 +68932,7 @@ const structuralData = [
   ],
   [
     "Nanai",
-    "love2",
+    "love#tea#",
     "uləsi-",
     "NOM",
     "OBL",
@@ -69445,7 +69445,7 @@ const structuralData = [
   ],
   [
     "Norwegian Bokmål",
-    "love1",
+    "love#person#",
     "",
     "SBJ",
     "DO",
@@ -69733,7 +69733,7 @@ const structuralData = [
   ],
   [
     "Norwegian Bokmål",
-    "understand",
+    "understand#language#",
     "",
     "SBJ",
     "DO",
@@ -70102,7 +70102,7 @@ const structuralData = [
   ],
   [
     "Norwegian Bokmål",
-    "love2",
+    "love#tea#",
     "",
     "SBJ",
     "DO",
@@ -70615,7 +70615,7 @@ const structuralData = [
   ],
   [
     "Ossetic",
-    "love1",
+    "love#person#",
     "уарзын",
     "NOM",
     "GEN~NOM",
@@ -70903,7 +70903,7 @@ const structuralData = [
   ],
   [
     "Ossetic",
-    "understand",
+    "understand#language#",
     "æмбарын",
     "NOM",
     "GEN~NOM",
@@ -71272,7 +71272,7 @@ const structuralData = [
   ],
   [
     "Ossetic",
-    "love2",
+    "love#tea#",
     "уарзын*",
     "*",
     "*",
@@ -71785,7 +71785,7 @@ const structuralData = [
   ],
   [
     "Polish",
-    "love1",
+    "love#person#",
     "kocha",
     "NOM",
     "ACC",
@@ -72073,7 +72073,7 @@ const structuralData = [
   ],
   [
     "Polish",
-    "understand",
+    "understand#language#",
     "rozumi-e",
     "NOM",
     "ACC",
@@ -72442,7 +72442,7 @@ const structuralData = [
   ],
   [
     "Polish",
-    "love2",
+    "love#tea#",
     "lub-i",
     "NOM",
     "ACC",
@@ -72955,7 +72955,7 @@ const structuralData = [
   ],
   [
     "Romanian",
-    "love1",
+    "love#person#",
     "a iubi",
     "NOM",
     "ACC",
@@ -73243,7 +73243,7 @@ const structuralData = [
   ],
   [
     "Romanian",
-    "understand",
+    "understand#language#",
     "a înțelege",
     "NOM",
     "ACC",
@@ -73612,7 +73612,7 @@ const structuralData = [
   ],
   [
     "Romanian",
-    "love2",
+    "love#tea#",
     "a plăcea",
     "DAT",
     "NOM",
@@ -74125,7 +74125,7 @@ const structuralData = [
   ],
   [
     "Kalderash Romani",
-    "love1",
+    "love#person#",
     "пхаррол",
     "NOM",
     "pala",
@@ -74413,7 +74413,7 @@ const structuralData = [
   ],
   [
     "Kalderash Romani",
-    "understand",
+    "understand#language#",
     "атярэл",
     "NOM",
     "ACC",
@@ -74782,7 +74782,7 @@ const structuralData = [
   ],
   [
     "Kalderash Romani",
-    "love2",
+    "love#tea#",
     "НЕТ",
     "*",
     "*",
@@ -75295,7 +75295,7 @@ const structuralData = [
   ],
   [
     "Russian",
-    "love1",
+    "love#person#",
     "любить-1",
     "NOM",
     "ACC",
@@ -75583,7 +75583,7 @@ const structuralData = [
   ],
   [
     "Russian",
-    "understand",
+    "understand#language#",
     "понимать",
     "NOM",
     "ACC",
@@ -75952,7 +75952,7 @@ const structuralData = [
   ],
   [
     "Russian",
-    "love2",
+    "love#tea#",
     "любить-2",
     "NOM",
     "ACC",
@@ -76465,7 +76465,7 @@ const structuralData = [
   ],
   [
     "South Saami",
-    "love1",
+    "love#person#",
     "eatsa",
     "NOM",
     "ACC",
@@ -76753,7 +76753,7 @@ const structuralData = [
   ],
   [
     "South Saami",
-    "understand",
+    "understand#language#",
     "gårkå",
     "NOM",
     "ACC",
@@ -77122,7 +77122,7 @@ const structuralData = [
   ],
   [
     "South Saami",
-    "love2",
+    "love#tea#",
     "lyjhkoe",
     "NOM",
     "ACC",
@@ -77635,7 +77635,7 @@ const structuralData = [
   ],
   [
     "Serbian",
-    "love1",
+    "love#person#",
     "воли",
     "NOM",
     "ACC",
@@ -77923,7 +77923,7 @@ const structuralData = [
   ],
   [
     "Serbian",
-    "understand",
+    "understand#language#",
     "разуми",
     "NOM",
     "ACC",
@@ -78292,7 +78292,7 @@ const structuralData = [
   ],
   [
     "Serbian",
-    "love2",
+    "love#tea#",
     "воли",
     "*",
     "*",
@@ -78805,7 +78805,7 @@ const structuralData = [
   ],
   [
     "Slovenian",
-    "love1",
+    "love#person#",
     "ljubi",
     "NOM",
     "ACC",
@@ -79093,7 +79093,7 @@ const structuralData = [
   ],
   [
     "Slovenian",
-    "understand",
+    "understand#language#",
     "razume ",
     "NOM",
     "ACC",
@@ -79462,7 +79462,7 @@ const structuralData = [
   ],
   [
     "Slovenian",
-    "love2",
+    "love#tea#",
     "ima rad ",
     "NOM",
     "ACC",
@@ -79975,7 +79975,7 @@ const structuralData = [
   ],
   [
     "Soninke",
-    "love1",
+    "love#person#",
     "qànú ",
     "SBJ",
     "OBJ",
@@ -80263,7 +80263,7 @@ const structuralData = [
   ],
   [
     "Soninke",
-    "understand",
+    "understand#language#",
     "hàámù ",
     "SBJ",
     "OBJ",
@@ -80632,7 +80632,7 @@ const structuralData = [
   ],
   [
     "Soninke",
-    "love2",
+    "love#tea#",
     "línŋí",
     "da",
     "SBJ",
@@ -81145,7 +81145,7 @@ const structuralData = [
   ],
   [
     "Spanish",
-    "love1",
+    "love#person#",
     "",
     "SBJ",
     "DO",
@@ -81433,7 +81433,7 @@ const structuralData = [
   ],
   [
     "Spanish",
-    "understand",
+    "understand#language#",
     "",
     "SBJ",
     "DO",
@@ -81802,7 +81802,7 @@ const structuralData = [
   ],
   [
     "Spanish",
-    "love2",
+    "love#tea#",
     "",
     "DAT",
     "SBJ",
@@ -82315,7 +82315,7 @@ const structuralData = [
   ],
   [
     "Swedish",
-    "love1",
+    "love#person#",
     "älskar",
     "SBJ",
     "DO",
@@ -82603,7 +82603,7 @@ const structuralData = [
   ],
   [
     "Swedish",
-    "understand",
+    "understand#language#",
     "förstår",
     "SBJ",
     "DO",
@@ -82972,7 +82972,7 @@ const structuralData = [
   ],
   [
     "Swedish",
-    "love2",
+    "love#tea#",
     "älskar",
     "SBJ",
     "DO",
@@ -83485,7 +83485,7 @@ const structuralData = [
   ],
   [
     "Tsakhur",
-    "love1",
+    "love#person#",
     "ik̅īkanas",
     "DAT",
     "NOM",
@@ -83773,7 +83773,7 @@ const structuralData = [
   ],
   [
     "Tsakhur",
-    "understand",
+    "understand#language#",
     "bašda-xes",
     "NOM",
     "SUPALL",
@@ -84142,7 +84142,7 @@ const structuralData = [
   ],
   [
     "Tsakhur",
-    "love2",
+    "love#tea#",
     "",
     "*",
     "*",
@@ -84655,7 +84655,7 @@ const structuralData = [
   ],
   [
     "Turkish",
-    "love1",
+    "love#person#",
     "sev-",
     "NOM",
     "ACC",
@@ -84943,7 +84943,7 @@ const structuralData = [
   ],
   [
     "Turkish",
-    "understand",
+    "understand#language#",
     "anla-",
     "NOM",
     "ACC",
@@ -85312,7 +85312,7 @@ const structuralData = [
   ],
   [
     "Turkish",
-    "love2",
+    "love#tea#",
     "sev-",
     "NOM",
     "ACC",
@@ -85825,7 +85825,7 @@ const structuralData = [
   ],
   [
     "Tuvinian",
-    "love1",
+    "love#person#",
     "",
     "NOM",
     "DAT",
@@ -86113,7 +86113,7 @@ const structuralData = [
   ],
   [
     "Tuvinian",
-    "understand",
+    "understand#language#",
     "",
     "NOM",
     "ACC",
@@ -86482,7 +86482,7 @@ const structuralData = [
   ],
   [
     "Tuvinian",
-    "love2",
+    "love#tea#",
     "",
     "NOM",
     "DAT",
@@ -86995,7 +86995,7 @@ const structuralData = [
   ],
   [
     "Udihe",
-    "love1",
+    "love#person#",
     "aju-",
     "NOM",
     "ACC",
@@ -87283,7 +87283,7 @@ const structuralData = [
   ],
   [
     "Udihe",
-    "understand",
+    "understand#language#",
     "sə-",
     "NOM",
     "ACC",
@@ -87652,7 +87652,7 @@ const structuralData = [
   ],
   [
     "Udihe",
-    "love2",
+    "love#tea#",
     "aju-",
     "NOM",
     "ACC",
@@ -88165,7 +88165,7 @@ const structuralData = [
   ],
   [
     "Udi",
-    "love1",
+    "love#person#",
     "çur+DAT",
     "ERG",
     "ABS",
@@ -88453,7 +88453,7 @@ const structuralData = [
   ],
   [
     "Udi",
-    "understand",
+    "understand#language#",
     "q'amiş",
     "ERG",
     "ABS",
@@ -88822,7 +88822,7 @@ const structuralData = [
   ],
   [
     "Udi",
-    "love2",
+    "love#tea#",
     "çur+LV",
     "ERG",
     "ABS",
@@ -89335,7 +89335,7 @@ const structuralData = [
   ],
   [
     "Udmurt",
-    "love1",
+    "love#person#",
     "яратыны",
     "NOM",
     "ACC",
@@ -89623,7 +89623,7 @@ const structuralData = [
   ],
   [
     "Udmurt",
-    "understand",
+    "understand#language#",
     "валаны",
     "NOM",
     "NOMsjamen",
@@ -89992,7 +89992,7 @@ const structuralData = [
   ],
   [
     "Udmurt",
-    "love2",
+    "love#tea#",
     "яратыны",
     "NOM",
     "ACC",
@@ -90505,7 +90505,7 @@ const structuralData = [
   ],
   [
     "Ukrainian",
-    "love1",
+    "love#person#",
     "кохає",
     "NOM",
     "ACC",
@@ -90793,7 +90793,7 @@ const structuralData = [
   ],
   [
     "Ukrainian",
-    "understand",
+    "understand#language#",
     "розуміє",
     "NOM",
     "ACC",
@@ -91162,7 +91162,7 @@ const structuralData = [
   ],
   [
     "Ukrainian",
-    "love2",
+    "love#tea#",
     "любить",
     "NOM",
     "ACC",
@@ -91675,7 +91675,7 @@ const structuralData = [
   ],
   [
     "Yakut",
-    "love1",
+    "love#person#",
     "тап-",
     "NOM",
     "ACC",
@@ -91963,7 +91963,7 @@ const structuralData = [
   ],
   [
     "Yakut",
-    "understand",
+    "understand#language#",
     "өйд-",
     "NOM",
     "ACC",
@@ -92332,7 +92332,7 @@ const structuralData = [
   ],
   [
     "Yakut",
-    "love2",
+    "love#tea#",
     "сөбүл-",
     "*",
     "*",

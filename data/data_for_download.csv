@@ -787,7 +787,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	6	å ligne	SBJ	pa	Y	SBJ_pa	Per ligne-r på Ola	PN resemble-PRS on PN	‘Per resembles Ola.’			‘Пер похож на Улу.’		
 38	7	å tro	SBJ	DO	TR	TR	Per tro-r Ola	PN believe-PRS PN	‘Per believes Ola.’			‘Пер верит Уле.’		
 38	8	å ta	SBJ	DO	TR	TR	Per tok ei bok fra hyll-a	PN take.PST INDF.F.SG book from shelf-DEF.F.SG	‘Per took a book from the shelf.’			‘Пер взял книгу с полки.’		
-38	9	å se	SBJ	DO	TR	TR	Per se-r et hus	PN see-PRS INDF.N.SH house	‘Per sees a house.’			‘Пер видит дом.’		
+38	9	å se	SBJ	DO	TR	TR	Per se-r et hus	PN see-PRS INDF.N.SG house	‘Per sees a house.’			‘Пер видит дом.’		
 38	10	å påvirke	SBJ	DO	TR	TR	alder-en påvirke-r hukommels-en	age-DEF.M.SG influence-PRS memory-DEF.M.SG	‘Age influences memory.’			‘Возраст влияет на память.’		
 38	11	å møte	SBJ	DO	TR	TR	Per møt-te Ola	PN meet-PST PN	‘Per encountered Ola.’			‘Пер встретился с Улой.’		
 38	12	å gå inn	SBJ	i	Y	SBJ_i	Per gikk inn i hus-et	PN go.PST inside in house-DEF.N.SG	‘Per entered the house.’			‘Пер вошел в дом.’		
@@ -795,7 +795,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	14	å gå ut	SBJ	av	Y	SBJ_av	Per gikk ut av hus-et	PN go.PST out of house-DEF.N.SG	‘Per went out of the house.’			‘Пер вышел из дома.’		
 38	15	å jage	SBJ	DO	TR	TR	Per jage-r ku-a på beite	PN drive-PRS cow-DEF.F.SG on pasture	‘Per is driving the cow to the pasture.’			‘Пер гонит корову на пастбище.’		
 38	16	å bøye	SBJ	DO	TR	TR	Per bøy-de gren-en	PN bend-PST branch-DEF.M.SG	‘Per bent the branch.’			‘Пер согнул ветку.’		
-38	17	å si	SBJ	til	Y	SBJ_til	«kom på besøk» sa Per til Ola	«come.IMP on visit» say.PST PN to PN	"‘Per told Ola: ""come and visit"".’"			"‘Пер сказал Уле: ""Приходи ко мне в гости"".’"		
+38	17	å si	SBJ	til	Y	SBJ_til	«kom på besøk» sa Per til Ola	«come.IMP on visit» say.PST PN to PN	"‘Per told Ola: ""Come and visit"".’"			"‘Пер сказал Уле: ""Приходи ко мне в гости"".’"		
 38	18	å holde	SBJ	DO	TR	TR	Per holde-r ei bok i hend-ene	PN hold-PRS INDF.F.SG book in hand-DEF.PL	‘Per is holding a book in his hands.’			‘Пер держит книгу в руках.’		
 38	19	å ta igjen	SBJ	DO	TR	TR	Per tok Kari igjen	PN take.PST PN again	‘Per caught up with Kari.’			‘Пер догнал Кари.’		
 38	20	å melke	SBJ	DO	TR	TR	Per melke-t ku-a	PN milk.PST cow-DEF.F.SG	‘Per milked the cow.’			‘Пер подоил корову.’		
@@ -852,7 +852,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	71	å drikke opp	SBJ	DO	TR	TR	Per drakk melk-en opp	PN drink.PST milk-DEF.M.SG up	‘Per drank the milk.’			‘Пер выпил молоко.’		
 38	72	å smelte	SBJ	DO	TR	TR	Per smelte-t en bit bly	PN melt-PST INDF.M.SG piece lead	‘Per melted a piece of lead.’			‘Пер расплавил кусок свинца.’		
 38	73	å passe	SBJ	til	Y	SBJ_til	dette belt-et passe-r til kjol-en min	this.N.SG belt-DEF.N.SG pass-PRS to dress-DEF.M.SG my.M.SG	‘This belt goes well with my dress.’			‘Этот пояс подходит к моему платью.’		
-38	74	å forlate	SBJ	DO	TR	TR	Per forlot hjemby-en	PN leave.PST home_town-DEF.M.SG	‘Per left his native city.’			‘Пер покинул родной город.’		
+38	74	å forlate	SBJ	DO	TR	TR	Per forlot hjemby-en	PN leave.PST home_town-DEF.M.SG	‘Per left his hometown.’			‘Пер покинул родной город.’		
 38	75	å dekke	SBJ	DO	TR	TR	tepp-et dekke-r hele gulv-et	carpet-DEF.N.SG cover-PRS whole floor-DEF.N.SG	‘The carpet covers the whole floor.’			‘Ковер покрывает весь пол.’		
 38	76	å huske	SBJ	DO	TR	TR	Per huske-r godt hus-et hvor han voks-te opp	PN remember-PRS well house-DEF.N.SG where he grow-PST up	‘Per remembers the house where he grew up well.’			‘Пер хорошо помнит дом, в котором вырос.’		
 38	77	å hjelpe	SBJ	DO	TR	TR	Per hjalp Ola	PN help.PST PN	‘Per helped Ola.’			‘Пер помог Мише.’		
@@ -870,7 +870,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	89	å følge etter	SBJ	DO	TR	TR	Per følge-r etter Ola	PN follow-PRS behind PN	‘Per follows Kari.’			‘Пер следует за Улой.’		
 38	90	å stige av	SBJ	DO	TR	TR	Per steg av hest-en	PN rise of horse-DEF.M.SG	‘Per got down from the horse.’			‘Пер слез с лошади.’		
 38	91	å lytte	SBJ	til	Y	SBJ_til	Per lytte-r til radio-en	PN listen-PRS to radio-DEF.M.SG	‘Per is listening to radio.’			‘Пер слушает радио.’		
-38	92	å adlyde	SBJ	DO	TR	TR	Per adlyde-r mamma-en sin	PN obey-PRS DEF.F.SG POSS.REFL.F.SG	‘Per always listens to his mother.’			‘Пер слушается маму.’		
+38	92	å adlyde	SBJ	DO	TR	TR	Per adlyde-r mamma-en sin	PN obey-PRS mother-DEF.F.SG POSS.REFL.F.SG	‘Per obeys his mother.’			‘Пер слушается маму.’		
 38	93	å høre	SBJ	DO	TR	TR	Per høre-r musikk	PN hear-PRS music	‘Per hears the music.’			‘Пер слышит музыку.’		
 38	94	å blande seg	SBJ	med	Y	SBJ_med	honning-en blande-t seg med melk-en	honey-DEF.M.SG mix-PST REFL with milk-DEF.M.SG	‘The honey got mixed with milk.’			‘Мед смешался с молоком.’		
 38	95	å se	SBJ	pa	Y	SBJ_pa	Per se-r på de mørke sky-ene	PN see-PST on DET.PL dark.PL cloud-DEF.PL	‘Per is looking at the clouds.’			‘Пер смотрит на тучи.’		
@@ -891,7 +891,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	110	å respektere	SBJ	DO	TR	TR	Per respektere-r Ola	PN respect-PRS PN	‘Per respects Ola.’			‘Пер уважает Улу.’		
 38	111	å avsky	SBJ	DO	TR	TR	Per avsky-r oppvask	PN be_squeamish-PRS dirty_dishes	‘Per is squeamish about dirty dishes.’			‘Пер брезгует грязной посудой.’		
 38	112	å være fornøyd	SBJ	med	Y	SBJ_med	Per er fornøyd med sønn-en sin	PN be.PRS satisfied with son-DEF.M.SG POSS.REFL.M.SG	‘Per is satisfied with his son.’	Non-verbal predicate.		‘Пер доволен своим сыном.’		
-38	113	å bli forelsket	SBJ	i	Y	SBJ_i	Per ble forelsket i Kari	PN become.PST enamoured in PN	‘Per fell in love with Kari.’	Non-verbal predicate (passive).		‘Пер влюбился в Кари.’		
+38	113	å bli forelsket	SBJ	i	Y	SBJ_i	Per ble forelsket i Kari	PN become.PST enamoured in PN	‘Per fell in love with Kari.’	Non-verbal predicate.		‘Пер влюбился в Кари.’		
 38	114	å stole på	SBJ	DO	TR	TR	Per stole-r på Kari	PN trust-PRS on PN	‘Per trusts Kari.’			‘Пер доверяет Кари.’		
 38	115	å synes synd på	SBJ	DO	TR	TR	Per syne-s synd på mor-en	PN show-PASS.PRS sin on mother-DEF.F.SG	‘Per sympathises with his mother.’			‘Пер жалеет свою мать.’		
 38	116	å være misunnelig	SBJ	pa	Y	SBJ_pa	Per er misunnelig på Ola	PN be.PRS envious on PN	‘Per envies Ola.’	Non-verbal predicate.		‘Пер завидует Уле.’		

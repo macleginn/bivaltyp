@@ -829,7 +829,7 @@ const fullData = [
   ],
   [
     "Abaza",
-    "love1",
+    "love#person#",
     "любить-1",
     "bzəj ba",
     "ERG",
@@ -1405,7 +1405,7 @@ const fullData = [
   ],
   [
     "Abaza",
-    "understand",
+    "understand#language#",
     "понимать",
     "ʕa-[gʷə.n-]ʕʷə",
     "LOCgwene",
@@ -2143,7 +2143,7 @@ const fullData = [
   ],
   [
     "Abaza",
-    "love2",
+    "love#tea#",
     "любить-2",
     "bzəj ba",
     "ERG",
@@ -3169,7 +3169,7 @@ const fullData = [
   ],
   [
     "Aghul",
-    "love1",
+    "love#person#",
     "любить-1",
     "kːande-",
     "DAT",
@@ -3745,7 +3745,7 @@ const fullData = [
   ],
   [
     "Aghul",
-    "understand",
+    "understand#language#",
     "понимать",
     "ʁawur.di arx.a-",
     "*",
@@ -4483,7 +4483,7 @@ const fullData = [
   ],
   [
     "Aghul",
-    "love2",
+    "love#tea#",
     "любить-2",
     "kːan-",
     "DAT",
@@ -5509,7 +5509,7 @@ const fullData = [
   ],
   [
     "Zilo Andi",
-    "love1",
+    "love#person#",
     "любить-1",
     "dʒiʔ.i-r",
     "AFF",
@@ -6085,7 +6085,7 @@ const fullData = [
   ],
   [
     "Zilo Andi",
-    "understand",
+    "understand#language#",
     "понимать",
     "batʃ’ː.u-mado",
     "AFF",
@@ -6823,7 +6823,7 @@ const fullData = [
   ],
   [
     "Zilo Andi",
-    "love2",
+    "love#tea#",
     "любить-2",
     "dʒiʔ.i-r",
     "AFF",
@@ -7849,7 +7849,7 @@ const fullData = [
   ],
   [
     "Assyrian Neo-Aramaic",
-    "love1",
+    "love#person#",
     "любить-1",
     "+bayyə",
     "SBJ",
@@ -8425,7 +8425,7 @@ const fullData = [
   ],
   [
     "Assyrian Neo-Aramaic",
-    "understand",
+    "understand#language#",
     "понимать",
     "+ṗarmə",
     "SBJ",
@@ -9163,7 +9163,7 @@ const fullData = [
   ],
   [
     "Assyrian Neo-Aramaic",
-    "love2",
+    "love#tea#",
     "любить-2",
     "xoš atə",
     "BARE",
@@ -10189,7 +10189,7 @@ const fullData = [
   ],
   [
     "Forest Enets",
-    "love1",
+    "love#person#",
     "любить-1",
     "kɔmita",
     "NOM",
@@ -10765,7 +10765,7 @@ const fullData = [
   ],
   [
     "Forest Enets",
-    "understand",
+    "understand#language#",
     "понимать",
     "kameku",
     "NOM",
@@ -11503,7 +11503,7 @@ const fullData = [
   ],
   [
     "Forest Enets",
-    "love2",
+    "love#tea#",
     "любить-2",
     "kɔmita",
     "NOM",
@@ -12529,7 +12529,7 @@ const fullData = [
   ],
   [
     "Modern Hebrew",
-    "love1",
+    "love#person#",
     "любить-1",
     "ohev",
     "SBJ",
@@ -13105,7 +13105,7 @@ const fullData = [
   ],
   [
     "Modern Hebrew",
-    "understand",
+    "understand#language#",
     "понимать",
     "mevin",
     "SBJ",
@@ -13843,7 +13843,7 @@ const fullData = [
   ],
   [
     "Modern Hebrew",
-    "love2",
+    "love#tea#",
     "любить-2",
     "ohev",
     "SBJ",
@@ -14211,7 +14211,7 @@ const fullData = [
     "TR",
     "TR",
     "Per se-r et hus",
-    "PN see-PRS INDF.N.SH house",
+    "PN see-PRS INDF.N.SG house",
     "‘Per sees a house.’",
     "",
     "",
@@ -14356,7 +14356,7 @@ const fullData = [
     "SBJ_til",
     "«kom på besøk» sa Per til Ola",
     "«come.IMP on visit» say.PST PN to PN",
-    "‘Per told Ola: \"come and visit\".’",
+    "‘Per told Ola: \"Come and visit\".’",
     "",
     "",
     "‘Пер сказал Уле: \"Приходи ко мне в гости\".’",
@@ -14869,7 +14869,7 @@ const fullData = [
   ],
   [
     "Norwegian Bokmål",
-    "love1",
+    "love#person#",
     "любить-1",
     "å elske",
     "SBJ",
@@ -15382,7 +15382,7 @@ const fullData = [
     "TR",
     "Per forlot hjemby-en",
     "PN leave.PST home_town-DEF.M.SG",
-    "‘Per left his native city.’",
+    "‘Per left his hometown.’",
     "",
     "",
     "‘Пер покинул родной город.’",
@@ -15445,7 +15445,7 @@ const fullData = [
   ],
   [
     "Norwegian Bokmål",
-    "understand",
+    "understand#language#",
     "понимать",
     "å forstå",
     "SBJ",
@@ -15705,8 +15705,8 @@ const fullData = [
     "TR",
     "TR",
     "Per adlyde-r mamma-en sin",
-    "PN obey-PRS DEF.F.SG POSS.REFL.F.SG",
-    "‘Per always listens to his mother.’",
+    "PN obey-PRS mother-DEF.F.SG POSS.REFL.F.SG",
+    "‘Per obeys his mother.’",
     "",
     "",
     "‘Пер слушается маму.’",
@@ -16085,7 +16085,7 @@ const fullData = [
     "Per ble forelsket i Kari",
     "PN become.PST enamoured in PN",
     "‘Per fell in love with Kari.’",
-    "Non-verbal predicate (passive).",
+    "Non-verbal predicate.",
     "",
     "‘Пер влюбился в Кари.’",
     "",
@@ -16183,7 +16183,7 @@ const fullData = [
   ],
   [
     "Norwegian Bokmål",
-    "love2",
+    "love#tea#",
     "любить-2",
     "å elske",
     "SBJ",
@@ -17209,7 +17209,7 @@ const fullData = [
   ],
   [
     "Russian",
-    "love1",
+    "love#person#",
     "любить-1",
     "ljubitʹ",
     "NOM",
@@ -17785,7 +17785,7 @@ const fullData = [
   ],
   [
     "Russian",
-    "understand",
+    "understand#language#",
     "понимать",
     "ponimatʹ",
     "NOM",
@@ -18523,7 +18523,7 @@ const fullData = [
   ],
   [
     "Russian",
-    "love2",
+    "love#tea#",
     "любить-2",
     "ljubitʹ",
     "NOM",
@@ -19549,7 +19549,7 @@ const fullData = [
   ],
   [
     "Rutul",
-    "love1",
+    "love#person#",
     "любить-1",
     "qɨgara",
     "DAT",
@@ -20125,7 +20125,7 @@ const fullData = [
   ],
   [
     "Rutul",
-    "understand",
+    "understand#language#",
     "понимать",
     "gijirq’ara",
     "NOM",
@@ -20863,7 +20863,7 @@ const fullData = [
   ],
   [
     "Rutul",
-    "love2",
+    "love#tea#",
     "любить-2",
     "qɨgara",
     "DAT",
@@ -21889,7 +21889,7 @@ const fullData = [
   ],
   [
     "Skolt Saami",
-    "love1",
+    "love#person#",
     "любить-1",
     "räʹǩsted",
     "NOM",
@@ -22465,7 +22465,7 @@ const fullData = [
   ],
   [
     "Skolt Saami",
-    "understand",
+    "understand#language#",
     "понимать",
     "fiʹttjed",
     "NOM",
@@ -23203,7 +23203,7 @@ const fullData = [
   ],
   [
     "Skolt Saami",
-    "love2",
+    "love#tea#",
     "любить-2",
     "tuʹǩǩeed",
     "NOM",
@@ -24229,7 +24229,7 @@ const fullData = [
   ],
   [
     "Slovenian",
-    "love1",
+    "love#person#",
     "любить-1",
     "ljubiti",
     "NOM",
@@ -24805,7 +24805,7 @@ const fullData = [
   ],
   [
     "Slovenian",
-    "understand",
+    "understand#language#",
     "понимать",
     "razumeti",
     "NOM",
@@ -25543,7 +25543,7 @@ const fullData = [
   ],
   [
     "Slovenian",
-    "love2",
+    "love#tea#",
     "любить-2",
     "imeti rad",
     "NOM",
@@ -26569,7 +26569,7 @@ const fullData = [
   ],
   [
     "Turkish",
-    "love1",
+    "love#person#",
     "любить-1",
     "sevmek",
     "NOM",
@@ -27145,7 +27145,7 @@ const fullData = [
   ],
   [
     "Turkish",
-    "understand",
+    "understand#language#",
     "понимать",
     "anlamak",
     "NOM",
@@ -27883,7 +27883,7 @@ const fullData = [
   ],
   [
     "Turkish",
-    "love2",
+    "love#tea#",
     "любить-2",
     "sevmek",
     "NOM",
