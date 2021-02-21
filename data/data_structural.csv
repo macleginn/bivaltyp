@@ -1,134 +1,4 @@
 language_no	predicate_no	verb	X	Y	locus	valency_pattern
-60	1	хьы	IO	ABS	X	IO_ABS
-60	2	*	*	*	*	
-60	3	чв-шва	ABS	MAL	Y	ABS_MAL
-60	4	ау-щты	ERG	ABS	TR	TR
-60	5	[з-]хъа	BEN	ABS	X	BEN_ABS
-60	6	апш	ABS	IO	Y	ABS_IO
-60	7	[з-]хъа-цIа	ERG	BEN	Y	ERG_BEN
-60	8	гIа-хв	ERG	ABS	TR	TR
-60	9	ба	ERG	ABS	TR	TR
-60	10	*	*	*	*	
-60	11	шIа-швА	ABS	LOCp	Y	ABS_LOCp
-60	12	шыл	ABS	NONARG	Y	ABS_NONARG
-60	13	ай.гIай	ABS	IO	Y	ABS_IO
-60	14	гIа-джвыл-цI	ABS	LOCzele	Y	ABS_LOCzele
-60	15	т-ца	ERG	ABS	TR	TR
-60	16	ры.хъва	ERG	ABS	TR	TR
-60	17	хIва	ERG	IO	Y	ERG_IO
-60	18	ма	IO	ABS	X	IO_ABS
-60	19	хьы-дза	ABS	LOCxe	Y	ABS_LOCxe
-60	20	хьа	ERG	ABS	TR	TR
-60	21	(з-)на-дза	ABS	BEN	Y	ABS_BEN
-60	22	хьы-сы	ABS	LOCxe	Y	ABS_LOCxe
-60	23	аба-кIы	ABS	SOC	Y	ABS_SOC
-60	24	нбжьагIв	IO	ABS	X	IO_ABS
-60	25	з-хъвыц	ABS	BEN	Y	ABS_BEN
-60	26	фа	ERG	ABS	TR	TR
-60	27	ры.дзы	ERG	ABS	TR	TR
-60	28	з-пшы	ABS	BEN	Y	ABS_BEN
-60	29	хъ-аштыл	LOCq	ABS	X	LOCq_ABS
-60	30	*	*	*	*	
-60	31	гIа-з-шIы-т	ERG	ABS	TR	TR
-60	32	аба-дыр	ABS	SOC	Y	ABS_SOC
-60	33	дыр	ERG	ABS	TR	TR
-60	34	сы	ABS	IO	Y	ABS_IO
-60	35	*	*	*	*	
-60	36	чпа	ERG	ABS	TR	TR
-60	37	лакъырдЫ чпа	ERG	ABS	TR	TR
-60	38	ма	IO	ABS	X	IO_ABS
-60	39	зы-пшгIа	ABS	BEN	Y	ABS_BEN
-60	40	швы	ERG	ABS	TR	TR
-60	41	цхIа	ABS	IO	Y	ABS_IO
-60	42	л-хъвдаха	ABS	LOCl	Y	ABS_LOCl
-60	43	гIа-кIы	ERG	ABS	TR	TR
-60	44	хъы-чIва	ERG	ABS	TR	TR
-60	45	*	*	*	*	
-60	46	бзи ба	ERG	ABS	TR	TR
-60	47	къьа	ERG	ABS	TR	TR
-60	48	з-хъвыц	ABS	BEN	Y	ABS_BEN
-60	49	джвджва	ERG	ABS	TR	TR
-60	50	шв-цIа	ERG	ABS	TR	TR
-60	51	хьыз	*	*	*	
-60	52	*	*	*	*	
-60	53	гвыкв-сы	ABS	LOCgwekwe	Y	ABS_LOCgwekwe
-60	54	знаха	IO	ABS	X	IO_ABS
-60	55	гIа-ау	ERG	ABS	TR	TR
-60	56	гха	IO	ABS	X	IO_ABS
-60	57	чвы-магъ	MAL	ABS	X	MAL_ABS
-60	58	гвапха	ERG	ABS	TR	TR
-60	59	зы-бжа	ABS	BEN	Y	ABS_BEN
-60	60	гIа-къв-рша	ERG	ABS	TR	TR
-60	61	з-агIан-ха	BEN	ABS	X	BEN_ABS
-60	62	джауап ты	ERG	IO	Y	ERG_IO
-60	63	хъы-тIы	ERG	ABS	TR	TR
-60	64	*	*	*	*	
-60	65	гIа-хьы-шва	ABS	LOCax	Y	ABS_LOCax
-60	66	чвагъва	ERG	ABS	TR	TR
-60	67	фгIвЫ хъы-хIа	*	*	*	
-60	68	хъы-сы	ABS	LOCqe	Y	ABS_LOCqe
-60	69	хIва	ERG	ABS	TR	TR
-60	70	гIвы	ERG	ABS	TR	TR
-60	71	жвы	ERG	ABS	TR	TR
-60	72	р.чва	ERG	ABS	TR	TR
-60	73	н-гIал	ABS	LOCne	Y	ABS_LOCne
-60	74	т-цIы	ABS	LOCte	Y	ABS_LOCte
-60	75	хъ-гIва	ERG	ABS	TR	TR
-60	76	дыр.х	ERG	ABS	TR	TR
-60	77	ц-хърaгIа	ABS	COM	Y	ABS_COM
-60	78	гIа-гвын-гIвы	LOCgwene	ABS	X	LOCgwene_ABS
-60	79	кв-шва	ABS	LOCkwe	Y	ABS_LOCkwe
-60	80	п-къы	*	*	*	
-60	81	кIыд-хал	ABS	LOCkede	Y	ABS_LOCkede
-60	82	*	*	*	*	
-60	83	ай.гвыргъьа	ABS	IO	Y	ABS_IO
-60	84	а(й).чважва	ABS	IO	Y	ABS_IO
-60	85	гIа-р.и	ERG	ABS	TR	TR
-60	86	кIа-ры.шв	ERG	ABS	TR	TR
-60	87	н(а)къвы-га	ERG	ABS	TR	TR
-60	88	гIа-гвалашва	ERG	ABS	TR	TR
-60	89	(цIыхъва) та-гыла	ABS	jceqwa	Y	ABS_jceqwa
-60	90	гIа-кIны-цIы	ABS	LOCkne	Y	ABS_LOCkne
-60	91	з-дзыргIв	ABS	BEN	Y	ABS_BEN
-60	92	з-дзыргIв	ABS	BEN	Y	ABS_BEN
-60	93	гIа	ERG	ABS	TR	TR
-60	94	ла-л	ABS	LOCla	Y	ABS_LOCla
-60	95	пшы	ABS	IO	Y	ABS_IO
-60	96	швы-х	LOCs	ABS	X	LOCs_ABS
-60	97	ай.пхыз	ABS	IO	Y	ABS_IO
-60	98	ай.гвынгIв	ABS	IO	Y	ABS_IO
-60	99	ай.с	ABS	IO	Y	ABS_IO
-60	100	хвы	IO	ABS	X	IO_ABS
-60	101	ай.хс	ABS	IO	Y	ABS_IO
-60	102	та-пса	ERG	ABS	TR	TR
-60	103	чв-дзы	MAL	ABS	X	MAL_ABS
-60	104	цIа-швкъвал	ABS	LOCca	Y	ABS_LOCca
-60	105	щы	ERG	ABS	TR	TR
-60	106	сы	ABS	IO	Y	ABS_IO
-60	107	ба хIвы	ERG	IO	Y	ERG_IO
-60	108	пхьа	ABS	IO	Y	ABS_IO
-60	109	ры.цIЫс	ERG	ABS	TR	TR
-60	110	хвы кв-цIа	ERG	LOCkwe	Y	ERG_LOCkwe
-60	111	чв-махатша	ABS	MAL	Y	ABS_MAL
-60	112	зы-раз	ABS	BEN	Y	ABS_BEN
-60	113	ай.хIвапса	ABS	IO	Y	ABS_IO
-60	114	[з-]хъа-цIа	ERG	BEN	Y	ERG_BEN
-60	115	ма-рыцхIа	JUD	ABS	X	JUD_ABS
-60	116	ц-н-хчалы	ABS	COM	Y	ABS_COM
-60	117	з-гвыжвкIы	ABS	BEN	Y	ABS_BEN
-60	118	джьа-ща	ERG	ABS	TR	TR
-60	119	бзи ба	ERG	ABS	TR	TR
-60	120	Х-гвы Х-р.чIвы	ERG	NONARG_INS	Y	ERG_NONARG.INS
-60	121	тахъы	IO	ABS	X	IO_ABS
-60	122	з-гвыжвкIы	ABS	BEN	Y	ABS_BEN
-60	123	*	*	*	*	
-60	124	Y-гвы X-с	*	*	*	
-60	125	джьа-ща	ERG	ABS	TR	TR
-60	126	ба гьауам	*	*	*	
-60	127	X-гвы Y-с	*	*	*	
-60	128	X-гвы кв-швах+NEG	*	*	*	
-60	129	гвапха	ERG	ABS	TR	TR
-60	130	чв-пхаща	ABS	MAL	Y	ABS_MAL
 69	1	узы	AdnominalPossessor	ABS	X	AdnominalPossessor_ABS
 69	2	и-Iэ	POSS	ABS	X	POSS_ABS
 69	3	щы-щынэ	ABS	LOC	Y	ABS_LOC
@@ -2729,136 +2599,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 32	128	zich ergeren	SBJ	aan	Y	SBJ_aan
 32	129	aardig vinden	*	*	*	
 32	130	zich schamen	SBJ	voor	Y	SBJ_voor
-46	1	dʲe	TOP	NOM	X	TOP_NOM
-46	2	kadi	NOM	LOC	Y	NOM_LOC
-46	3	piis	NOM	OBL	TR	TR
-46	4	bɛɛ	NOM	OBL	TR	TR
-46	5	tɔɔri	TOP	NOM	X	TOP_NOM
-46	6	puza	NOM	OBL	TR	TR
-46	7	pudiri	NOM	DAT	Y	NOM_DAT
-46	8	mu	NOM	OBL	TR	TR
-46	9	mɔdee	NOM	OBL	TR	TR
-46	10	*	*	*	*	
-46	11	dʲɛzta	NOM	OBL	TR	TR
-46	12	tʃu	NOM	DAT	Y	NOM_DAT
-46	13	mɔtes	NOM	ABL	Y	NOM_ABL
-46	14	ɔziu	NOM	ABL	Y	NOM_ABL
-46	15	tanir	NOM	OBL	TR	TR
-46	16	bujurta	NOM	OBL	TR	TR
-46	17	man	NOM	DAT	Y	NOM_DAT
-46	18	nɔɔbera	NOM	OBL	TR	TR
-46	19	dʲɔbu	NOM	OBL	TR	TR
-46	20	dɔir	NOM	OBL	TR	TR
-46	21	tɔɔ	NOM	DAT	Y	NOM_DAT
-46	22	tʃurxur	NOM	GENdez	Y	NOM_GENdez
-46	23	tarur	NOM	LOC	Y	NOM_LOC
-46	24	*	*	*	*	
-46	25	biis	NOM	OBL	TR	TR
-46	26	ɔ	NOM	OBL	TR	TR
-46	27	dʲasu	NOM	OBL	TR	TR
-46	28	ɔte	NOM	OBL	TR	TR
-46	29	dʲurta	NOM	OBL	TR	TR
-46	30	pɛri	NOM	ABL	Y	NOM_ABL
-46	31	kata	NOM	OBL	TR	TR
-46	32	*	*	*	*	
-46	33	tɛne	NOM	OBL	TR	TR
-46	34	sɛnuko	NOM	LOC	Y	NOM_LOC
-46	35	*	*	*	*	
-46	36	mɛ	NOM	OBL	TR	TR
-46	37	piʃizi	NOM	OBL	TR	TR
-46	38	tɔne	TOP	NOM	X	TOP_NOM
-46	39	per	NOM	OBL	TR	TR
-46	40	*	*	*	*	
-46	41	sɛk(u)ru	NOM	OBL	TR	TR
-46	42	*	*	*	*	
-46	43	nɔɔjru	NOM	OBL	TR	TR
-46	44	mɔree	NOM	OBL	TR	TR
-46	45	naldur	NOM	DAT	Y	NOM_DAT
-46	46	kɔmita	NOM	OBL	TR	TR
-46	47	lɛbitur	NOM	LOC	Y	NOM_LOC
-46	48	*	*	*	*	
-46	49	kɔlta	NOM	OBL	TR	TR
-46	50	dʲebis	NOM	OBL	TR	TR
-46	51	*	*	*	*	
-46	52	*	*	*	*	
-46	53	*	*	*	*	
-46	54	padi	NOM	DAT	Y	NOM_DAT
-46	55	ko	NOM	OBL	TR	TR
-46	56	tɔɔri + NEG	TOP	NOM	X	TOP_NOM
-46	57	nɛseza	NOM	OBL	TR	TR
-46	58	kɔmita	NOM	OBL	TR	TR
-46	59	magu	NOM	OBL	TR	TR
-46	60	*	*	*	*	
-46	61	kaji	TOP	NOM	X	TOP_NOM
-46	62	*	*	*	*	
-46	63	nɛte	NOM	OBL	TR	TR
-46	64	d'ɔgod	NOM	ABL	Y	NOM_ABL
-46	65	kaji	NOM	ABL	Y	NOM_ABL
-46	66	kɔbudu	NOM	OBL	TR	TR
-46	67	ɔtis	NOM	LOC	Y	NOM_LOC
-46	68	kanʲi	NOM	GENnoru	Y	NOM_GENnoru
-46	69	kinus	NOM	OBL	TR	TR
-46	70	pazu	NOM	OBL	TR	TR
-46	71	ixuru	NOM	OBL	TR	TR
-46	72	dʲuta	NOM	OBL	TR	TR
-46	73	*	*	*	*	
-46	74	kajus	NOM	OBL	TR	TR
-46	75	sɛja	NOM	OBL	TR	TR
-46	76	biis	NOM	OBL	TR	TR
-46	77	perzi	NOM	OBL	TR	TR
-46	78	kamiku	NOM	OBL	TR	TR
-46	79	tɛbu	NOM	DAT	Y	NOM_DAT
-46	80	mɔta	NOM	LOC	Y	NOM_LOC
-46	81	tɔzu	NOM	DAT	Y	NOM_DAT
-46	82	mɔteltau (?)	NOM	DAT	Y	NOM_DAT
-46	83	ɛdiu	NOM	DAT	Y	NOM_DAT
-46	84	dʲɔrir	NOM	LOC	Y	NOM_LOC
-46	85	sɔjata	NOM	OBL	TR	TR
-46	86	sumɔjta	NOM	OBL	TR	TR
-46	87	*	*	*	*	
-46	88	tudilur	NOM	GENneon	Y	NOM_GENneon
-46	89	d'az 	NOM	GENpon	Y	NOM_GENpoon
-46	90	kaʔa	NOM	GENniz	Y	NOM_GENniz
-46	91	dʲuz(i)re	NOM	GENdez	Y	NOM_GENdez
-46	92	dʲuz(i)re	NOM	DAT	Y	NOM_DAT
-46	93	nɔda	NOM	OBL	TR	TR
-46	94	taxari	NOM	LOC	Y	NOM_LOC
-46	95	senir	NOM	GENdez	Y	NOM_GENdez
-46	96	dʲika	NOM	OBL	TR	TR
-46	97	nɔmaxanda mɔdee	NOM	OBL	TR	TR
-46	98	*	*	*	*	
-46	99	kauzur	NOM	LOC	Y	NOM_LOC
-46	100	*	*	*	*	
-46	101	dʲɔza	NOM	OBL	TR	TR
-46	102	bata	NOM	OBL	TR	TR
-46	103	dʲɔs	NOM	OBL	TR	TR
-46	104	sija	NOM	DAT	Y	NOM_DAT
-46	105	kaza	NOM	OBL	TR	TR
-46	106	dʲɔzi	NOM	OBL	TR	TR
-46	107	nʲujza	NOM	OBL	TR	TR
-46	108	tota	NOM	OBL	TR	TR
-46	109	buz(i)da	NOM	LOC	Y	NOM_LOC
-46	110	*	*	*	*	
-46	111	nɔsza	NOM	OBL	TR	TR
-46	112	*	*	*	*	
-46	113	*	*	*	*	
-46	114	dʲeɔdur	NOM	DAT	Y	NOM_DAT
-46	115	sɛr	NOM	OBL	TR	TR
-46	116	*	*	*	*	
-46	117	barzir	NOM	GENdez	Y	NOM_GENdez
-46	118	dʲɔki	NOM	ABL	Y	NOM_ABL
-46	119	kɔmita	NOM	OBL	TR	TR
-46	120	*	*	*	*	
-46	121	kɔma	NOM	DAT	Y	NOM_DAT
-46	122	*	*	*	*	
-46	123	*	*	*	*	
-46	124	*	*	*	*	
-46	125	*	*	*	*	
-46	126	*	*	*	*	
-46	127	*	*	*	*	
-46	128	bɔbur	NOM	GENdez	Y	NOM_GENdez
-46	129	*	*	*	*	
-46	130	pajaru	NOM	ABL	Y	NOM_ABL
 29	1		*	*	*	
 29	2	have	SBJ	DO	TR	TR
 29	3	be afraid	SBJ	of	Y	SBJ_of
@@ -3126,15 +2866,15 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 4	5		ALL	NOM	X	ALL_NOM
 4	6		NOM	COM	Y	NOM_COM
 4	7		*	*	*	
-4	8		NOM	GEN~PART	TR	TR
+4	8		NOM	GEN~PART~NOM	TR	TR
 4	9		NOM	PART	Y	NOM_PART
 4	10		NOM	PART	Y	NOM_PART
 4	11		NOM	COM	Y	NOM_COM
 4	12		NOM	ILL	Y	NOM_IL
-4	13		NOM	GEN~PART	TR	TR
+4	13		NOM	GEN~PART~NOM	TR	TR
 4	14		NOM	EL	Y	NOM_EL
-4	15		NOM	GEN~PART	TR	TR
-4	16		NOM	GEN~PART	TR	TR
+4	15		NOM	GEN~PART~NOM	TR	TR
+4	16		NOM	GEN~PART~NOM	TR	TR
 4	17		NOM	ALL	Y	NOM_ALL
 4	18		NOM	PART	Y	NOM_PART
 4	19		NOM	ALL	Y	NOM_ALL
@@ -3144,36 +2884,36 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 4	23		NOM	COM	Y	NOM_COM
 4	24		NOM	COM	Y	NOM_COM
 4	25		NOM	EL	Y	NOM_EL
-4	26		NOM	GEN~PART	TR	TR
-4	27		NOM	GEN~PART	TR	TR
+4	26		NOM	GEN~PART~NOM	TR	TR
+4	27		NOM	GEN~PART~NOM	TR	TR
 4	28		NOM	PART	Y	NOM_PART
-4	29		NOM	GEN~PART	TR	TR
+4	29		NOM	GEN~PART~NOM	TR	TR
 4	30		NOM	EL	Y	NOM_EL
-4	31		NOM	GEN~PART	TR	TR
+4	31		NOM	GEN~PART~NOM	TR	TR
 4	32		NOM	COM	Y	NOM_COM
 4	33		NOM	PART	Y	NOM_PART
 4	34		NOM	PART	Y	NOM_PART
 4	35		NOM	PART	Y	NOM_PART
-4	36		NOM	GEN~PART	TR	TR
+4	36		NOM	GEN~PART~NOM	TR	TR
 4	37		NOM	PART	Y	NOM_PART
 4	38		*	*	*	
 4	39		NOM	PART	Y	NOM_PART
-4	40		NOM	GEN~PART	TR	TR
-4	41		NOM	GEN~PART	TR	TR
+4	40		NOM	GEN~PART~NOM	TR	TR
+4	41		NOM	GEN~PART~NOM	TR	TR
 4	42		NOM	EL	Y	NOM_EL
-4	43		NOM	GEN~PART	TR	TR
-4	44		NOM	GEN~PART	TR	TR
+4	43		NOM	GEN~PART~NOM	TR	TR
+4	44		NOM	GEN~PART~NOM	TR	TR
 4	45		*	*	*	
 4	46		NOM	PART	Y	NOM_PART
 4	47		NOM	COM	Y	NOM_COM
 4	48		NOM	EL	Y	NOM_EL
-4	49		NOM	GEN~PART	TR	TR
-4	50		NOM	GEN~PART	TR	TR
+4	49		NOM	GEN~PART~NOM	TR	TR
+4	50		NOM	GEN~PART~NOM	TR	TR
 4	51		NOM	TRANSL	Y	TRANSL
 4	52		NOM	PART	Y	NOM_PART
 4	53		NOM	PART	Y	NOM_PART
 4	54		NOM	COM	Y	NOM_COM
-4	55		NOM	GEN~PART	TR	TR
+4	55		NOM	GEN~PART~NOM	TR	TR
 4	56		*	*	*	
 4	57		*	*	*	
 4	58		*	*	*	
@@ -3181,19 +2921,19 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 4	60		NOM	PART	Y	NOM_PART
 4	61		*	*	*	
 4	62		NOM	ALL	Y	NOM_ALL
-4	63		NOM	GEN~PART	TR	TR
+4	63		NOM	GEN~PART~NOM	TR	TR
 4	64		NOM	EL	Y	NOM_EL
 4	65		NOM	EL	Y	NOM_EL
-4	66		NOM	GEN~PART	TR	TR
+4	66		NOM	GEN~PART~NOM	TR	TR
 4	67		*	*	*	
-4	68		NOM	GEN~PART	TR	TR
-4	69		NOM	GEN~PART	TR	TR
-4	70		NOM	GEN~PART	TR	TR
-4	71		NOM	GEN~PART	TR	TR
-4	72		NOM	GEN~PART	TR	TR
+4	68		NOM	GEN~PART~NOM	TR	TR
+4	69		NOM	GEN~PART~NOM	TR	TR
+4	70		NOM	GEN~PART~NOM	TR	TR
+4	71		NOM	GEN~PART~NOM	TR	TR
+4	72		NOM	GEN~PART~NOM	TR	TR
 4	73		*	*	*	
-4	74		NOM	GEN~PART	TR	TR
-4	75		NOM	GEN~PART	TR	TR
+4	74		NOM	GEN~PART~NOM	TR	TR
+4	75		NOM	GEN~PART~NOM	TR	TR
 4	76		NOM	PART	Y	NOM_PART
 4	77		*	*	*	
 4	78		NOM	EL	Y	NOM_EL
@@ -3209,7 +2949,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 4	88		NOM	PART	Y	NOM_PART
 4	89		NOM	ALL	Y	NOM_ALL
 4	90		NOM	EL	Y	NOM_EL
-4	91		NOM	GEN~PART	TR	TR
+4	91		NOM	GEN~PART~NOM	TR	TR
 4	92		*	*	*	
 4	93		NOM	PART	Y	NOM_PART
 4	94		NOM	COM	Y	NOM_COM
@@ -3220,13 +2960,13 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 4	99		NOM	COM	Y	NOM_COM
 4	100		*	*	*	
 4	101		*	*	*	
-4	102		NOM	GEN~PART	TR	TR
-4	103		NOM	GEN~PART	TR	TR
+4	102		NOM	GEN~PART~NOM	TR	TR
+4	103		NOM	GEN~PART~NOM	TR	TR
 4	104		NOM	ILL	Y	NOM_IL
-4	105		NOM	GEN~PART	TR	TR
+4	105		NOM	GEN~PART~NOM	TR	TR
 4	106		NOM	PART	Y	NOM_PART
 4	107		NOM	PART	Y	NOM_PART
-4	108		NOM	GEN~PART	TR	TR
+4	108		NOM	GEN~PART~NOM	TR	TR
 4	109		NOM	PART	Y	NOM_PART
 4	110		*	*	*	
 4	111		*	*	*	
@@ -3382,58 +3122,58 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 66	1	särkeä	ADE	PART	XY	ADE_PART
 66	2	olla 	ADE	NOM	X	ADE_NOM
 66	3	pelätä	NOM	PART	Y	NOM_PART
-66	4	heittää	NOM	GEN~NOM	TR	TR
+66	4	heittää	NOM	GEN~PART~NOM	TR	TR
 66	5	tarpeeksi	ADE	PART	XY	ADE_PART
 66	6	näköinen	NOM	GEN	Y	NOM_GEN
 66	7	uskoa 	NOM	PART	Y	NOM_PART
-66	8	ottaa 	NOM	GEN~NOM	TR	TR
-66	9	nähdä 	NOM	GEN~NOM	TR	TR
+66	8	ottaa 	NOM	GEN~PART~NOM	TR	TR
+66	9	nähdä 	NOM	GEN~PART~NOM	TR	TR
 66	10	vaikuttaa	NOM	ILL	Y	NOM_ILL
-66	11	tavata 	NOM	GEN~NOM	TR	TR
+66	11	tavata 	NOM	GEN~PART~NOM	TR	TR
 66	12	astua 	NOM	ILL	Y	NOM_ILL
-66	13	voittaa	NOM	GEN~NOM	TR	TR
+66	13	voittaa	NOM	GEN~PART~NOM	TR	TR
 66	14	poistua	NOM	ELA	Y	NOM_ELA
 66	15	ajaa 	NOM	PART	Y	NOM_PART
-66	16	taivuttaa 	NOM	GEN~NOM	TR	TR
+66	16	taivuttaa 	NOM	GEN~PART~NOM	TR	TR
 66	17	sanoa 	NOM	ALL	Y	NOM_ALL
 66	18	pitää 	NOM	PART	Y	NOM_PART
-66	19	ottaa kiinni	NOM	GEN~NOM	TR	TR
-66	20	lypsää 	NOM	GEN~NOM	TR	TR
-66	21	saavuttaa 	NOM	GEN~NOM	TR	TR
+66	19	ottaa kiinni	NOM	GEN~PART~NOM	TR	TR
+66	20	lypsää 	NOM	GEN~PART~NOM	TR	TR
+66	21	saavuttaa 	NOM	GEN~PART~NOM	TR	TR
 66	22	koskea 	NOM	ILL	Y	NOM_ILL
 66	23	tapella	NOM	GENkanssa	Y	NOM_GENkanssa
 66	24	*	*	*	*	
 66	25	ajatella 	NOM	PART	Y	NOM_PART
-66	26	syödä	NOM	GEN~NOM	TR	TR
-66	27	paistaa	NOM	GEN~NOM	TR	TR
+66	26	syödä	NOM	GEN~PART~NOM	TR	TR
+66	27	paistaa	NOM	GEN~PART~NOM	TR	TR
 66	28	odottaa	NOM	PART	Y	NOM_PART
-66	29	unohtaa	NOM	GEN~NOM	TR	TR
+66	29	unohtaa	NOM	GEN~PART~NOM	TR	TR
 66	30	riippua	NOM	ELA	Y	NOM_ELA
 66	31	kutsua	NOM	PART	Y	NOM_PART
 66	32	tutustua	NOM	ILL	Y	NOM_ILL
-66	33	tuntea 	NOM	GEN~NOM	TR	TR
+66	33	tuntea 	NOM	GEN~PART~NOM	TR	TR
 66	34	soittaa 	NOM	PART	Y	NOM_PART
 66	35	vältellä	NOM	PART	Y	NOM_PART
-66	36	tehdä	NOM	GEN~NOM	TR	TR
+66	36	tehdä	NOM	GEN~PART~NOM	TR	TR
 66	37	pilkata	NOM	PART	Y	NOM_PART
 66	38	olla	ADE	NOM	X	ADE_NOM
 66	39	etsiä	NOM	PART	Y	NOM_PART
-66	40	maalata	NOM	GEN~NOM	TR	TR
+66	40	maalata	NOM	GEN~PART~NOM	TR	TR
 66	41	purra	NOM	PART	Y	NOM_PART
-66	42	menettää	NOM	GEN~NOM	TR	TR
+66	42	menettää	NOM	GEN~PART~NOM	TR	TR
 66	43	yrittää saada … kiinni	*	*	*	
-66	44	katkoa	NOM	GEN~NOM	TR	TR
+66	44	katkoa	NOM	GEN~PART~NOM	TR	TR
 66	45	imarella	NOM	PART	Y	NOM_PART
 66	46	rakastaa	NOM	PART	Y	NOM_PART
 66	47	huiskuttaa	NOM	PART	Y	NOM_PART
 66	48	haaveilla	NOM	ELA	Y	NOM_ELA
-66	49	pestä	NOM	GEN~NOM	TR	TR
-66	50	pukea ylleen	NOM	GEN~NOM	TR	TR
+66	49	pestä	NOM	GEN~PART~NOM	TR	TR
+66	50	pukea ylleen	NOM	GEN~PART~NOM	TR	TR
 66	51	kutsua (PASS.IMPERS)	PART	TRANS	XY	PART_TRANS
 66	52	rangaista 	NOM	PART	Y	NOM_PART
 66	53	hyökätä 	NOM	GENkimppuun	Y	NOM_GENkimppuun
 66	54	täyttyä 	NOM	ADE	Y	NOM_ADE
-66	55	löytää	NOM	GEN~NOM	TR	TR
+66	55	löytää	NOM	GEN~PART~NOM	TR	TR
 66	56	puuttua	ABL	NOM	X	ABL_NOM
 66	57	vihata 	NOM	PART	Y	NOM_PART
 66	58	pitää 	NOM	ELA	Y	NOM_ELA
@@ -3441,20 +3181,20 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 66	60	ympäröidä 	NOM	PART	Y	NOM_PART
 66	61	jäädä 	ALL	NOM	X	ALL_NOM
 66	62	vastata	NOM	ALL	Y	NOM_ALL
-66	63	avata	NOM	GEN~NOM	TR	TR
+66	63	avata	NOM	GEN~PART~NOM	TR	TR
 66	64	erilainen	NOM	kuinNOM	Y	NOM_kuinNOM
 66	65	jäädä jälkeen	NOM	ELA	Y	NOM_ELA
 66	66	kyntää 	NOM	PART	Y	NOM_PART
 66	67	haista 	NOM	ABL	Y	NOM_ABL
-66	68	ylittää 	NOM	GEN~NOM	TR	TR
-66	69	laulaa 	NOM	GEN~NOM	TR	TR
-66	70	kirjoittaa 	NOM	GEN~NOM	TR	TR
-66	71	juoda 	NOM	GEN~NOM	TR	TR
-66	72	sulattaa 	NOM	GEN~NOM	TR	TR
+66	68	ylittää 	NOM	GEN~PART~NOM	TR	TR
+66	69	laulaa 	NOM	GEN~PART~NOM	TR	TR
+66	70	kirjoittaa 	NOM	GEN~PART~NOM	TR	TR
+66	71	juoda 	NOM	GEN~PART~NOM	TR	TR
+66	72	sulattaa 	NOM	GEN~PART~NOM	TR	TR
 66	73	sopia 	NOM	ILL	Y	NOM_ILL
 66	74	lähteä 	NOM	ELA	Y	NOM_ELA
-66	75	peittää 	NOM	GEN~NOM	TR	TR
-66	76	muistaa 	NOM	GEN~NOM	TR	TR
+66	75	peittää 	NOM	GEN~PART~NOM	TR	TR
+66	76	muistaa 	NOM	GEN~PART~NOM	TR	TR
 66	77	auttaa 	NOM	PART	Y	NOM_PART
 66	78	ymmärtää 	NOM	PART	Y	NOM_PART
 66	79	osua 	NOM	ILL	Y	NOM_ILL
@@ -3463,8 +3203,8 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 66	82	hävitä	NOM	ALL	Y	NOM_ALL
 66	83	iloinen	NOM	ELA	Y	NOM_ELA
 66	84	puhua	NOM	GENkanssa	Y	NOM_GENkanssa
-66	85	synnyttää	NOM	GEN~NOM	TR	TR
-66	86	pudottaa	NOM	GEN~NOM	TR	TR
+66	85	synnyttää	NOM	GEN~PART~NOM	TR	TR
+66	86	pudottaa	NOM	GEN~PART~NOM	TR	TR
 66	87	johtaa	NOM	PART	Y	NOM_PART
 66	88	ikävä	NOM	PART	Y	NOM_PART
 66	89	seurata	NOM	PART	Y	NOM_PART
@@ -3474,19 +3214,19 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 66	93	kuulla 	NOM	PART	Y	NOM_PART
 66	94	sekoittua 	NOM	ILL	Y	NOM_ILL
 66	95	katsoa 	NOM	PART	Y	NOM_PART
-66	96	riisua 	NOM	GEN~NOM	TR	TR
+66	96	riisua 	NOM	GEN~PART~NOM	TR	TR
 66	97	nähdä unta 	NOM	ELA	Y	NOM_ELA
 66	98	samaa mieltä 	NOM	GENkanssa	Y	NOM_GENkanssa
 66	99	riidellä	NOM	GENkanssa	Y	NOM_GENkanssa
-66	100	maksaa	NOM	GEN~NOM	TR	TR
+66	100	maksaa	NOM	GEN~PART~NOM	TR	TR
 66	101	ampua	NOM	PART	Y	NOM_PART
-66	102	kaataa	NOM	GEN~NOM	TR	TR
-66	103	hukata	NOM	GEN~NOM	TR	TR
+66	102	kaataa	NOM	GEN~PART~NOM	TR	TR
+66	103	hukata	NOM	GEN~PART~NOM	TR	TR
 66	104	upota 	NOM	ILL	Y	NOM_ILL
-66	105	tappaa	NOM	GEN~NOM	TR	TR
+66	105	tappaa	NOM	GEN~PART~NOM	TR	TR
 66	106	lyödä	NOM	PART	Y	NOM_PART
 66	107	suudella	NOM	PART	Y	NOM_PART
-66	108	lukea	NOM	GEN~NOM	TR	TR
+66	108	lukea	NOM	GEN~PART~NOM	TR	TR
 66	109	liikuttaa 	NOM	PART	Y	NOM_PART
 66	110	kunnioittaa 	NOM	PART	Y	NOM_PART
 66	111	karsastaa 	NOM	PART	Y	NOM_PART
@@ -3499,10 +3239,10 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 66	118	yllättyä	NOM	ELA	Y	NOM_ELA
 66	119	pitää 	NOM	ELA	Y	NOM_ELA
 66	120	nauttia 	NOM	PART	Y	NOM_PART
-66	121	haluta 	NOM	GEN~NOM	TR	TR
+66	121	haluta 	NOM	GEN~PART~NOM	TR	TR
 66	122	kantaa kaulaa 	NOM	ALL	Y	NOM_ALL
 66	123	loukkaantua 	NOM	ALL	Y	NOM_ALL
-66	124	suututtaa 	NOM	GEN~NOM	TR	TR
+66	124	suututtaa 	NOM	GEN~PART~NOM	TR	TR
 66	125	hämmästyä 	NOM	ELA	Y	NOM_ELA
 66	126	halveksia	NOM	PART	Y	NOM_PART
 66	127	suuttua 	NOM	ALL	Y	NOM_ALL
@@ -7669,136 +7409,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 45	128	ajaktači-	NOM	DIR	Y	NOM_DIR
 45	129	*	*	*	*	
 45	130	elaǯi-	NOM	INS	Y	NOM_INS
-38	1		*	*	*	
-38	2		SBJ	DO	TR	TR
-38	3		SBJ	for	Y	SBJ_for
-38	4		SBJ	DO	TR	TR
-38	5		*	*	*	
-38	6		SBJ	pa	Y	SBJ_pa
-38	7		SBJ	pa	Y	SBJ_pa
-38	8		SBJ	DO	TR	TR
-38	9		SBJ	DO	TR	TR
-38	10		SBJ	pa	Y	SBJ_pa
-38	11		SBJ	pa	Y	SBJ_pa
-38	12		SBJ	inn.i	Y	SBJ_inn.i
-38	13		SBJ	over	Y	SBJ_over
-38	14		SBJ	ut.av	Y	SBJ_ut.av
-38	15		SBJ	DO	TR	TR
-38	16		SBJ	DO	TR	TR
-38	17		SBJ	til	Y	SBJ_til
-38	18		SBJ	DO	TR	TR
-38	19		SBJ	DO	TR	TR
-38	20		SBJ	DO	TR	TR
-38	21		SBJ	til	Y	SBJ_til
-38	22		SBJ	pa	Y	SBJ_pa
-38	23		SBJ	med	Y	SBJ_med
-38	24		SBJ	med	Y	SBJ_med
-38	25		SBJ	pa	Y	SBJ_pa
-38	26		SBJ	DO	TR	TR
-38	27		SBJ	DO	TR	TR
-38	28		SBJ	pa	Y	SBJ_pa
-38	29		SBJ	DO	TR	TR
-38	30		SBJ	av	Y	SBJ_av
-38	31		SBJ	pa	Y	SBJ_pa
-38	32		SBJ	med	Y	SBJ_med
-38	33		SBJ	DO	TR	TR
-38	34		SBJ	pa	Y	SBJ_pa
-38	35		SBJ	DO	TR	TR
-38	36		SBJ	DO	TR	TR
-38	37		SBJ	DO	TR	TR
-38	38		SBJ	DO	TR	TR
-38	39		SBJ	etter	Y	SBJ_etter
-38	40		SBJ	DO	TR	TR
-38	41		SBJ	DO	TR	TR
-38	42		SBJ	DO	TR	TR
-38	43		SBJ	DO	TR	TR
-38	44		SBJ	DO	TR	TR
-38	45		SBJ	DO	TR	TR
-38	46		SBJ	DO	TR	TR
-38	47		SBJ	med	Y	SBJ_med
-38	48		SBJ	om	Y	SBJ_om
-38	49		SBJ	DO	TR	TR
-38	50		SBJ	DO	TR	TR
-38	51		SBJ	DO	TR	TR
-38	52		SBJ	DO	TR	TR
-38	53		SBJ	DO	TR	TR
-38	54		SBJ	med	Y	SBJ_med
-38	55		SBJ	DO	TR	TR
-38	56		SBJ	DO	TR	TR
-38	57		SBJ	DO	TR	TR
-38	58		SBJ	DO	TR	TR
-38	59		SBJ	DO	TR	TR
-38	60		SBJ	DO	TR	TR
-38	61		*	*	*	
-38	62		SBJ	DO	TR	TR
-38	63		SBJ	DO	TR	TR
-38	64		SBJ	enn	Y	SBJ_enn
-38	65		SBJ	etter	Y	SBJ_etter
-38	66		SBJ	DO	TR	TR
-38	67		av	DO	X	av_DO
-38	68		SBJ	DO	TR	TR
-38	69		SBJ	DO	TR	TR
-38	70		SBJ	DO	TR	TR
-38	71		SBJ	DO	TR	TR
-38	72		SBJ	DO	TR	TR
-38	73		SBJ	til	Y	SBJ_til
-38	74		SBJ	DO	TR	TR
-38	75		SBJ	DO	TR	TR
-38	76		SBJ	DO	TR	TR
-38	77		SBJ	DO	TR	TR
-38	78		SBJ	DO	TR	TR
-38	79		SBJ	DO	TR	TR
-38	80		SBJ	pa	Y	SBJ_pa
-38	81		SBJ	i	Y	SBJ_i
-38	82		SBJ	mot	Y	SBJ_mot
-38	83		SBJ	for	Y	SBJ_for
-38	84		SBJ	med	Y	SBJ_med
-38	85		SBJ	DO	TR	TR
-38	86		SBJ	DO	TR	TR
-38	87		*	*	*	
-38	88		SBJ	etter	Y	SBJ_etter
-38	89		SBJ	etter	Y	SBJ_etter
-38	90		SBJ	ned.av	Y	SBJ_ned.av
-38	91		SBJ	pa	Y	SBJ_pa
-38	92		SBJ	pa	Y	SBJ_pa
-38	93		SBJ	DO	TR	TR
-38	94		SBJ	med	Y	SBJ_med
-38	95		SBJ	pa	Y	SBJ_pa
-38	96		SBJ	DO	TR	TR
-38	97		SBJ	om	Y	SBJ_om
-38	98		SBJ	med	Y	SBJ_med
-38	99		SBJ	med	Y	SBJ_med
-38	100		SBJ	DO	TR	TR
-38	101		SBJ	pa	Y	SBJ_pa
-38	102		*	*	*	
-38	103		SBJ	DO	TR	TR
-38	104		SBJ	i	Y	SBJ_i
-38	105		SBJ	DO	TR	TR
-38	106		SBJ	DO	TR	TR
-38	107		SBJ	DO	TR	TR
-38	108		SBJ	DO	TR	TR
-38	109		SBJ	pa	Y	SBJ_pa
-38	110		SBJ	DO	TR	TR
-38	111		*	*	*	
-38	112		SBJ	med	Y	SBJ_med
-38	113		SBJ	i	Y	SBJ_i
-38	114		SBJ	pa	Y	SBJ_pa
-38	115		SBJ	pa	Y	SBJ_pa
-38	116		SBJ	DO	TR	TR
-38	117		SBJ	pa	Y	SBJ_pa
-38	118		SBJ	over	Y	SBJ_over
-38	119		SBJ	DO	TR	TR
-38	120		SBJ	DO	TR	TR
-38	121		SBJ	DO	TR	TR
-38	122		SBJ	pa	Y	SBJ_pa
-38	123		SBJ	pa	Y	SBJ_pa
-38	124		SBJ	DO	TR	TR
-38	125		SBJ	over	Y	SBJ_over
-38	126		SBJ	DO	TR	TR
-38	127		SBJ	over	Y	SBJ_over
-38	128		SBJ	over	Y	SBJ_over
-38	129		*	*	*	
-38	130		SBJ	for	Y	SBJ_for
 35	1	риссын 	DAT	NOM	X	DAT_NOM
 35	2	рынчын уæвын 	NOM	ABL	Y	NOM_ABL
 35	3	тæрсын 	NOM	ABL	Y	NOM_ABL
@@ -8319,136 +7929,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 28	128	нервичилпе	NOM	pe	Y	NOM_pe
 28	129	НЕТ	*	*	*	
 28	130	лажял	NOM	ABL	Y	NOM_ABL
-1	1	болеть	uGEN	NOM	X	uGEN_NOM
-1	2	болеть	NOM	INS	Y	NOM_INS
-1	3	бояться	NOM	GEN	Y	NOM_GEN
-1	4	бросить	NOM	ACC	TR	TR
-1	5	хватать	DAT	GEN	XY	DAT_GEN
-1	6	быть похожим	NOM	naACC	Y	NOM_naACC
-1	7	верить	NOM	DAT	Y	NOM_DAT
-1	8	взять	NOM	ACC	TR	TR
-1	9	видеть	NOM	ACC	TR	TR
-1	10	влиять	NOM	naACC	Y	NOM_naACC
-1	11	встречаться	NOM	sINS	Y	NOM_sINS
-1	12	входить 	NOM	vACC	Y	NOM_vACC
-1	13	выиграть	NOM	uGEN	Y	NOM_uGEN
-1	14	выходить	NOM	izGEN	Y	NOM_izGEN
-1	15	гнать	NOM	ACC	TR	TR
-1	16	гнуть	NOM	ACC	TR	TR
-1	17	говорить	NOM	DAT	Y	NOM_DAT
-1	18	держать	NOM	ACC	TR	TR
-1	19	догнать	NOM	ACC	TR	TR
-1	20	доить	NOM	ACC	TR	TR
-1	21	достичь	NOM	GEN	Y	NOM_GEN
-1	22	дотронуться	NOM	doGEN	Y	NOM_doGEN
-1	23	драться	NOM	sINS	Y	NOM_sINS
-1	24	дружить	NOM	sINS	Y	NOM_sINS
-1	25	думать	NOM	oLOC	Y	NOM_oLOC
-1	26	есть	NOM	ACC	TR	TR
-1	27	жарить	NOM	ACC	TR	TR
-1	28	ждать	NOM	ACC	TR	TR
-1	29	забывать	NOM	oLOC	Y	NOM_oLOC
-1	30	зависеть	NOM	otGEN	Y	NOM_otGEN
-1	31	звать	NOM	ACC	TR	TR
-1	32	знакомиться	NOM	sINS	Y	NOM_sINS
-1	33	знать 	NOM	ACC	TR	TR
-1	34	играть	NOM	naINS	Y	NOM_naINS
-1	35	избегать	NOM	GEN	Y	NOM_GEN
-1	36	изготовлять	NOM	ACC	TR	TR
-1	37	издеваться	NOM	nadINS	Y	NOM_nadINS
-1	38	быть	uGEN	NOM	X	uGEN_NOM
-1	39	искать	NOM	ACC	TR	TR
-1	40	красить	NOM	ACC	TR	TR
-1	41	кусать	NOM	ACC	TR	TR
-1	42	лишаться	NOM	GEN	Y	NOM_GEN
-1	43	ловить	NOM	ACC	TR	TR
-1	44	ломать	NOM	ACC	TR	TR
-1	45	льстить	NOM	DAT	Y	NOM_DAT
-1	46	любить-1	NOM	ACC	TR	TR
-1	47	махать	NOM	INS	Y	NOM_INS
-1	48	мечтать	NOM	oLOC	Y	NOM_oLOC
-1	49	мыть	NOM	ACC	TR	TR
-1	50	надевать	NOM	ACC	TR	TR
-1	51	называться	NOM	INS	Y	NOM_INS
-1	52	наказывать	NOM	ACC	TR	TR
-1	53	напасть	NOM	naACC	Y	NOM_naACC
-1	54	наполняться	NOM	INS	Y	NOM_INS
-1	55	находить	NOM	ACC	TR	TR
-1	56	недоставать	DAT	GEN	XY	DAT_GEN
-1	57	ненавидеть	NOM	ACC	TR	TR
-1	58	нравиться	DAT	NOM	X	DAT_NOM
-1	59	нуждаться	NOM	vLOC	Y	NOM_vLOC
-1	60	окружать	NOM	ACC	TR	TR
-1	61	оставаться	uGEN	NOM	X	uGEN_NOM
-1	62	отвечать	NOM	DAT	Y	NOM_DAT
-1	63	открывать	NOM	ACC	TR	TR
-1	64	отличаться	NOM	otGEN	Y	NOM_otGEN
-1	65	отстать	NOM	otGEN	Y	NOM_otGEN
-1	66	пахать	NOM	ACC	TR	TR
-1	67	пахнуть	NOM	INS	Y	NOM_INS
-1	68	пересечь	NOM	ACC	TR	TR
-1	69	петь	NOM	ACC	TR	TR
-1	70	писать	NOM	ACC	TR	TR
-1	71	пить	NOM	ACC	TR	TR
-1	72	плавить	NOM	ACC	TR	TR
-1	73	подходить	NOM	kDAT	Y	NOM_kDAT
-1	74	покидать	NOM	izGEN	Y	NOM_izGEN
-1	75	покрывать	NOM	ACC	TR	TR
-1	76	помнить	NOM	oLOC	Y	NOM_oLOC
-1	77	помочь	NOM	DAT	Y	NOM_DAT
-1	78	понимать	NOM	ACC	TR	TR
-1	79	попасть	NOM	vACC	Y	NOM_vACC
-1	80	порезаться	NOM	INS	Y	NOM_INS
-1	81	прилипать	NOM	kDAT	Y	NOM_kDAT
-1	82	проиграть	NOM	DAT	Y	NOM_DAT
-1	83	радоваться	NOM	DAT	Y	NOM_DAT
-1	84	разговаривать	NOM	sINS	Y	NOM_sINS
-1	85	рожать	NOM	ACC	TR	TR
-1	86	ронять	NOM	ACC	TR	TR
-1	87	руководить	NOM	INS	Y	NOM_INS
-1	88	скучать	NOM	poDAT	Y	NOM_poDAT
-1	89	следовать	NOM	zaINS	Y	NOM_zaINS
-1	90	слезать	NOM	sGEN	Y	NOM_sGEN
-1	91	слушать	NOM	ACC	TR	TR
-1	92	слушаться	NOM	ACC	TR	TR
-1	93	слышать	NOM	ACC	TR	TR
-1	94	смешаться	NOM	sINS	Y	NOM_sINS
-1	95	смотреть	NOM	naACC	Y	NOM_naACC
-1	96	снимать	NOM	ACC	TR	TR
-1	97	сниться	DAT	NOM	X	DAT_NOM
-1	98	соглашаться	NOM	sINS	Y	NOM_sINS
-1	99	ссориться	NOM	sINS	Y	NOM_sINS
-1	100	стоить	NOM	ACC	TR	TR
-1	101	стрелять	NOM	vACC	Y	NOM_vACC
-1	102	сыпать	NOM	ACC	TR	TR
-1	103	терять	NOM	ACC	TR	TR
-1	104	тонуть	NOM	vLOC	Y	NOM_vLOC
-1	105	убивать	NOM	ACC	TR	TR
-1	106	ударить	NOM	ACC	TR	TR
-1	107	целовать	NOM	ACC	TR	TR
-1	108	читать	NOM	ACC	TR	TR
-1	109	шевелить	NOM	INS	Y	NOM_INS
-1	110	уважать	NOM	ACC	TR	TR
-1	111	брезговать	NOM	INS	Y	NOM_INS
-1	112	быть довольным	NOM	INS	Y	NOM_INS
-1	113	влюбляться	NOM	vACC	Y	NOM_vACC
-1	114	доверять	NOM	DAT	Y	NOM_DAT
-1	115	жалеть	NOM	ACC	TR	TR
-1	116	завидовать	NOM	DAT	Y	NOM_DAT
-1	117	злиться	NOM	naACC	Y	NOM_naACC
-1	118	удивляться	NOM	DAT	Y	NOM_DAT
-1	119	любить-2	NOM	ACC	TR	TR
-1	120	наслаждаться	NOM	INS	Y	NOM_INS
-1	121	хотеть	NOM	ACC	TR	TR
-1	122	сердиться	NOM	naACC	Y	NOM_naACC
-1	123	обижаться	NOM	naACC	Y	NOM_naACC
-1	124	огорчать	NOM	ACC	TR	TR
-1	125	поражаться	NOM	DAT	Y	NOM_DAT
-1	126	презирать	NOM	ACC	TR	TR
-1	127	огорчаться	NOM	izzaGEN	Y	NOM_izzaGEN
-1	128	раздражаться	NOM	naACC	Y	NOM_naACC
-1	129	симпатизировать	NOM	DAT	Y	NOM_DAT
-1	130	стесняться	NOM	GEN	Y	NOM_GEN
 82	1	saejrede	*	*	*	
 82	2	sovhten	*	*	*	
 82	3	aerkie	NOM	ELA	Y	NOM_ELA
@@ -8709,136 +8189,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 36	128	бесан	NOM	naACC	Y	NOM_naACC
 36	129	симпатише	NOM	DAT	Y	NOM_DAT
 36	130	се стиди	NOM	GEN	Y	NOM_GEN
-61	1	boli	ACC	NOM	X	ACC_NOM
-61	2	ima	NOM	ACC	TR	TR
-61	3	se boji	NOM	GEN	Y	NOM_GEN
-61	4	vrgel	NOM	ACC	TR	TR
-61	5	*	*	*	*	
-61	6	podobna 	NOM	DAT	Y	NOM_DAT
-61	7	verjame	NOM	DAT	Y	NOM_DAT
-61	8	vzel	NOM	ACC	TR	TR
-61	9	vidi 	NOM	ACC	TR	TR
-61	10	vpliva	NOM	naACC	Y	NOM_naACC
-61	11	srečal	NOM	ACC	TR	TR
-61	12	stopil 	NOM	vACC	Y	NOM_vACC
-61	13	premagal 	NOM	ACC	TR	TR
-61	14	stopil 	NOM	izGEN	Y	NOM_izGEN
-61	15	žene 	NOM	ACC	TR	TR
-61	16	upognil	NOM	ACC	TR	TR
-61	17	povedal	NOM	DAT	Y	NOM_DAT
-61	18	drži 	NOM	ACC	TR	TR
-61	19	dohitel	NOM	ACC	TR	TR
-61	20	pomolzla	NOM	ACC	TR	TR
-61	21	desegel	NOM	ACC	TR	TR
-61	22	se dotaknil	NOM	GEN	Y	NOM_GEN
-61	23	se tepe 	NOM	zINS	Y	NOM_zINS
-61	24	prijatelj	NOM	zINS	Y	NOM_zINS
-61	25	misli	NOM	naACC	Y	NOM_naACC
-61	26	pojedel 	NOM	ACC	TR	TR
-61	27	spekel 	NOM	ACC	TR	TR
-61	28	čaka	NOM	ACC	TR	TR
-61	29	pozabil 	NOM	naACC	Y	NOM_naACC
-61	30	odvisen	NOM	odGEN	Y	NOM_odGEN
-61	31	poklical	NOM	ACC	TR	TR
-61	32	se spoznal 	NOM	zINS	Y	NOM_zINS
-61	33	pozna 	NOM	ACC	TR	TR
-61	34	igra 	NOM	ACC	TR	TR
-61	35	se izogiba 	NOM	DAT	Y	NOM_DAT
-61	36	skonstruiral 	NOM	ACC	TR	TR
-61	37	se norčuje 	NOM	izGEN	Y	NOM_izGEN
-61	38	ima 	NOM	ACC	TR	TR
-61	39	išče	NOM	ACC	TR	TR
-61	40	pobarval 	NOM	ACC	TR	TR
-61	41	ugriznil	NOM	ACC	TR	TR
-61	42	izgubil	NOM	ACC	TR	TR
-61	43	lovi	NOM	ACC	TR	TR
-61	44	zlomil 	NOM	ACC	TR	TR
-61	45	se dobrika	NOM	DAT	Y	NOM_DAT
-61	46	ljubi	NOM	ACC	TR	TR
-61	47	maha 	NOM	zINS	Y	NOM_zINS
-61	48	sanja	NOM	oLOC	Y	NOM_oLOC
-61	49	umil 	NOM	ACC	TR	TR
-61	50	oblekel 	NOM	ACC	TR	TR
-61	51	se imenuje 	NOM	NOM	Y	NOM_NOM
-61	52	kaznoval 	NOM	ACC	TR	TR
-61	53	napadel 	NOM	ACC	TR	TR
-61	54	se napolnilo 	NOM	zINS	Y	NOM_zINS
-61	55	našel	NOM	ACC	TR	TR
-61	56	manjka 	DAT	NOM	X	DAT_NOM
-61	57	sovraži 	NOM	ACC	TR	TR
-61	58	všeč 	DAT	NOM	X	DAT_NOM
-61	59	potrebuje	NOM	ACC	TR	TR
-61	60	obdaja	NOM	ACC	TR	TR
-61	61	ostalo	DAT	NOM	X	DAT_NOM
-61	62	odgovoril	NOM	DAT	Y	NOM_DAT
-61	63	odprl	NOM	ACC	TR	TR
-61	64	drugačna 	NOM	odGEN	Y	NOM_odGEN
-61	65	izostala od pouka	*	*	*	
-61	66	orje 	NOM	ACC	TR	TR
-61	67	dišijo	NOM	poDAT	Y	NOM_poDAT
-61	68	prečkal 	NOM	ACC	TR	TR
-61	69	zapel 	NOM	ACC	TR	TR
-61	70	napisal 	NOM	ACC	TR	TR
-61	71	spil	NOM	ACC	TR	TR
-61	72	razstopil	NOM	ACC	TR	TR
-61	73	gre 	NOM	kDAT	Y	NOM_kDAT
-61	74	zapustil 	NOM	ACC	TR	TR
-61	75	pokriva 	NOM	ACC	TR	TR
-61	76	se spominja	NOM	GEN	Y	NOM_GEN
-61	77	pomagal 	NOM	DAT	Y	NOM_DAT
-61	78	razume 	NOM	ACC	TR	TR
-61	79	udarila 	NOM	vACC	Y	NOM_vACC
-61	80	se porezal 	NOM	zINS	Y	NOM_zINS
-61	81	se prilepil 	NOM	naACC	Y	NOM_naACC
-61	82	se izgubil	NOM	zINS	Y	NOM_zINS
-61	83	se razveselil	NOM	GEN	Y	NOM_GEN
-61	84	se pogovarja 	NOM	zINS	Y	NOM_zINS
-61	85	rodila 	NOM	ACC	TR	TR
-61	86	spustila 	NOM	ACC	TR	TR
-61	87	upravlja 	NOM	ACC	TR	TR
-61	88	se toži 	DAT	poDAT	XY	DAT_poDAT
-61	89	sledi 	NOM	DAT	Y	NOM_DAT
-61	90	zlezel 	NOM	zGEN	Y	NOM_zGEN
-61	91	posluša 	NOM	ACC	TR	TR
-61	92	uboga 	NOM	ACC	TR	TR
-61	93	sliši 	NOM	ACC	TR	TR
-61	94	se zmešal 	NOM	zINS	Y	NOM_zINS
-61	95	opazuje	NOM	ACC	TR	TR
-61	96	slekla 	NOM	ACC	TR	TR
-61	97	sanja	NOM	ACC	TR	TR
-61	98	se strinjala 	NOM	zINS	Y	NOM_zINS
-61	99	se sprla 	NOM	zINS	Y	NOM_zINS
-61	100	stane	NOM	ACC	TR	TR
-61	101	ustrelil 	NOM	vACC	Y	NOM_vACC
-61	102	nasul 	NOM	ACC	TR	TR
-61	103	izgubil 	NOM	ACC	TR	TR
-61	104	potonilo 	NOM	vLOC	Y	NOM_vLOC
-61	105	ubil 	NOM	ACC	TR	TR
-61	106	udaril 	NOM	ACC	TR	TR
-61	107	poljubil 	NOM	ACC	TR	TR
-61	108	prebrala 	NOM	ACC	TR	TR
-61	109	mignil 	NOM	zINS	Y	NOM_zINS
-61	110	spoštuje 	NOM	ACC	TR	TR
-61	111	se gnusi	DAT	NOM	X	DAT_NOM
-61	112	zadovoljen 	NOM	zINS	Y	NOM_zINS
-61	113	se zaljubil 	NOM	vACC	Y	NOM_vACC
-61	114	zaupa 	NOM	DAT	Y	NOM_DAT
-61	115	se smili 	DAT	NOM	X	DAT_NOM
-61	116	zavida 	NOM	DAT	Y	NOM_DAT
-61	117	se jezi 	NOM	naACC	Y	NOM_naACC
-61	118	začudilo 	ACC	NOM	X	ACC_NOM
-61	119	ima rad 	NOM	ACC	TR	TR
-61	120	uživa 	NOM	vLOC	Y	NOM_vLOC
-61	121	želi 	NOM	ACC	TR	TR
-61	122	se jezi	NOM	naACC	Y	NOM_naACC
-61	123	zameril 	NOM	DAT	Y	NOM_DAT
-61	124	razžalostil 	NOM	ACC	TR	TR
-61	125	presenečen 	NOM	nadINS	Y	NOM_nadINS
-61	126	prezira 	NOM	ACC	TR	TR
-61	127	se užalostil 	NOM	zaradiGEN	Y	NOM_zaradiGEN
-61	128	*	*	*	*	
-61	129	všeč 	DAT	NOM	X	DAT_NOM
-61	130	se sramuje 	NOM	GEN	Y	NOM_GEN
 49	1	wàtú	POSS.OBJ	SBJ	X	POSS.OBJ_SBJ
 49	2	rágà	OBJ	SBJ	X	OBJ_SBJ
 49	3	kànú	SBJ	yi	Y	SBJ_yi
@@ -9359,136 +8709,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 5	128		*	*	*	
 5	129		*	*	*	
 5	130		*	*	*	
-50	1	ağrı-	GEN	NOM	X	GEN_NOM
-50	2	var	GEN	NOM	X	GEN_NOM
-50	3	kork-	NOM	ABL	Y	NOM_ABL
-50	4	at-	NOM	ACC	TR	TR
-50	5	yet-	DAT	NOM	X	DAT_NOM
-50	6	benze-	NOM	DAT	Y	NOM_DAT
-50	7	inan-	NOM	DAT	Y	NOM_DAT
-50	8	al-	NOM	ACC	TR	TR
-50	9	gör-	NOM	ACC	TR	TR
-50	10	etkile-	NOM	ACC	TR	TR
-50	11	rastla-	NOM	DAT	Y	NOM_DAT
-50	12	gir-	NOM	DAT	Y	NOM_DAT
-50	13	yen-	NOM	ACC	TR	TR
-50	14	çık-	NOM	ABL	Y	NOM_ABL
-50	15	kovala-	NOM	ACC	TR	TR
-50	16	bük-	NOM	ACC	TR	TR
-50	17	de-	NOM	DAT	Y	NOM_DAT
-50	18	tut-	NOM	ACC	TR	TR
-50	19	yetiş-	NOM	DAT	Y	NOM_DAT
-50	20	sağ-	NOM	ACC	TR	TR
-50	21	ulaş- 	NOM	DAT	Y	NOM_DAT
-50	22	dokun-	NOM	DAT	Y	NOM_DAT
-50	23	dövüş-	NOM	COM	Y	NOM_COM
-50	24	arkadaşlık et-	NOM	COM	Y	NOM_COM
-50	25	düşün-	NOM	ACC	TR	TR
-50	26	ye-	NOM	ACC	TR	TR
-50	27	kızart-	NOM	ACC	TR	TR
-50	28	bekle-	NOM	ACC	TR	TR
-50	29	unut-	NOM	ACC	TR	TR
-50	30	bağlı	NOM	DAT	Y	NOM_DAT
-50	31	çağır-	NOM	ACC	TR	TR
-50	32	tanış-	NOM	COM	Y	NOM_COM
-50	33	tanı-	NOM	ACC	TR	TR
-50	34	çalı-	NOM	ACC	TR	TR
-50	35	kaç-	NOM	ABL	Y	NOM_ABL
-50	36	yap-	NOM	ACC	TR	TR
-50	37	alay et-	NOM	COM	Y	NOM_COM
-50	38	var	GEN	NOM	X	GEN_NOM
-50	39	ara-	NOM	ACC	TR	TR
-50	40	boya-	NOM	ACC	TR	TR
-50	41	ısır-	NOM	ACC	TR	TR
-50	42	kaybet-	NOM	ACC	TR	TR
-50	43	yakala-	NOM	ACC	TR	TR
-50	44	kır-	NOM	ACC	TR	TR
-50	45	pohpohla-	NOM	ACC	TR	TR
-50	46	sev-	NOM	ACC	TR	TR
-50	47	salla-	NOM	ACC	TR	TR
-50	48	*	*	*	*	
-50	49	yıka-	NOM	ACC	TR	TR
-50	50	giy-	NOM	ACC	TR	TR
-50	51	*	*	*	*	
-50	52	cezalandır-	NOM	ACC	TR	TR
-50	53	saldır-	NOM	DAT	Y	NOM_DAT
-50	54	dol-	NOM	COM	Y	NOM_COM
-50	55	bul-	NOM	ACC	TR	TR
-50	56	eksik	GEN	NOM	X	GEN_NOM
-50	57	nefret et-	NOM	ABL	Y	NOM_ABL
-50	58	beğen-	NOM	ACC	TR	TR
-50	59	ihtiyaci var	GEN	DAT	XY	GEN_DAT
-50	60	çevrele-	NOM	ACC	TR	TR
-50	61	kal-	GEN	NOM	X	GEN_NOM
-50	62	cevap ver-	NOM	DAT	Y	NOM_DAT
-50	63	aç-	NOM	ACC	TR	TR
-50	64	farklı	NOM	ABL	Y	NOM_ABL
-50	65	geri kal-	NOM	ABL	Y	NOM_ABL
-50	66	sür-	NOM	ACC	TR	TR
-50	67	kok-	NOM	ABL	Y	NOM_ABL
-50	68	karşıya geç-	*	*	*	
-50	69	söyle-	NOM	ACC	TR	TR
-50	70	yaz-	NOM	ACC	TR	TR
-50	71	iç-	NOM	ACC	TR	TR
-50	72	erit-	NOM	ACC	TR	TR
-50	73	uy-	NOM	DAT	Y	NOM_DAT
-50	74	ayrıl-	NOM	ABL	Y	NOM_ABL
-50	75	kapla-	NOM	ACC	TR	TR
-50	76	hatırla-	NOM	ACC	TR	TR
-50	77	yardım et-	NOM	DAT	Y	NOM_DAT
-50	78	anla-	NOM	ACC	TR	TR
-50	79	düş-	NOM	DAT	Y	NOM_DAT
-50	80	*	*	*	*	
-50	81	yapı-	NOM	DAT	Y	NOM_DAT
-50	82	kaybet-	NOM	DAT	Y	NOM_DAT
-50	83	sevin-	NOM	DAT	Y	NOM_DAT
-50	84	konuş-	NOM	COM	Y	NOM_COM
-50	85	doğur-	NOM	ACC	TR	TR
-50	86	düşür-	NOM	ACC	TR	TR
-50	87	yönet-	NOM	ACC	TR	TR
-50	88	özle-	NOM	ACC	TR	TR
-50	89	git-	NOM	GENpesinden	Y	NOM_GENpesinden
-50	90	in-	NOM	ABL	Y	NOM_ABL
-50	91	dinle-	NOM	ACC	TR	TR
-50	92	*	*	*	*	
-50	93	duy-	NOM	ACC	TR	TR
-50	94	karı-ş-tır-ıl-	NOM	COM	Y	NOM_COM
-50	95	bak-	NOM	DAT	Y	NOM_DAT
-50	96	çıkar-	NOM	ACC	TR	TR
-50	97	rüyasında gör-	NOM	ACC	TR	TR
-50	98	katıl-	NOM	DAT	Y	NOM_DAT
-50	99	tartış- 	NOM	COM	Y	NOM_COM
-50	100	et-	NOM	ACC	TR	TR
-50	101	ateş et-	NOM	DAT	Y	NOM_DAT
-50	102	dök-	NOM	ACC	TR	TR
-50	103	kaybet-	NOM	ACC	TR	TR
-50	104	bat-	NOM	LOC	Y	NOM_LOC
-50	105	öldür-	NOM	ACC	TR	TR
-50	106	vur-	NOM	DAT	Y	NOM_DAT
-50	107	öp-	NOM	ACC	TR	TR
-50	108	oku-	NOM	ACC	TR	TR
-50	109	kıpırdat-	NOM	ACC	TR	TR
-50	110	saygı göster-	NOM	DAT	Y	NOM_DAT
-50	111	iğren-	NOM	ABL	Y	NOM_ABL
-50	112	memnun	NOM	ABL	Y	NOM_ABL
-50	113	a^şık ol-	NOM	DAT	Y	NOM_DAT
-50	114	güven-	NOM	DAT	Y	NOM_DAT
-50	115	acı-	NOM	DAT	Y	NOM_DAT
-50	116	kıskan-	NOM	ACC	TR	TR
-50	117	öfkelen-	NOM	DAT	Y	NOM_DAT
-50	118	sevin-	NOM	DAT	Y	NOM_DAT
-50	119	sev-	NOM	ACC	TR	TR
-50	120	*	*	*	*	
-50	121	iste-	NOM	ACC	TR	TR
-50	122	öfkelen-	NOM	DAT	Y	NOM_DAT
-50	123	gücen-	NOM	DAT	Y	NOM_DAT
-50	124	üz-	NOM	ACC	TR	TR
-50	125	şaş-	NOM	DAT	Y	NOM_DAT
-50	126	hor gör-	NOM	DAT	Y	NOM_DAT
-50	127	üzül-	NOM	GENuzunden	Y	NOM_GENuzunden
-50	128	sinirlen-	NOM	DAT	Y	NOM_DAT
-50	129	sempati duy-	NOM	DAT	Y	NOM_DAT
-50	130	utan-	NOM	ABL	Y	NOM_ABL
 6	1		GEN	NOM	X	GEN_NOM
 6	2		*	*	*	
 6	3		NOM	ABL	Y	NOM_ABL

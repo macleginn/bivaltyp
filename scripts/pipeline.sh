@@ -5,7 +5,7 @@ set -e
 # Show all commands.
 set -x
 
-python3 convert-xlsx.py
+# python3 convert-xlsx.py
 python3 collect_language_data.py
 python3 convert-full-table.py
 python3 convert-structural-table.py

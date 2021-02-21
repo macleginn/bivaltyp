@@ -779,7 +779,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 83	128	раздражаться	mitatsben	SBJ	al	Y	SBJ_al	Pinχas mitatsben al ha bat ʃel-o	Pinχas become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M	‘Pinchas is getting irritated with his daughter.’					
 83	129	симпатизировать	meχabev	SBJ	DO	TR	TR	Pinχas meχabev et Menaχem	PN like[PTCP.SG.M] DO PN	‘Pinchas is fond of Menachem.’					
 83	130	стесняться	mitbajeʃ	SBJ	be	Y	SBJ_be	Pinχas mitbajeʃ ba gova ʃel-o	PN be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M	‘Pinchas is embarrased about his height.’					
-38	1	болеть-1	å ha vondt	SBJ	i	Y	SBJ_i	Per ha-r vond-t i hod-et	PN have-PRS bad-N.SG in head-DEF.N.SG	‘Per has a headache.’			‘У Пера болит голова.’		
+38	1	болеть-1	å ha vondt	SBJ	i	Y	SBJ_i	Per ha-r vond-t i hod-et	PN have-PRS painful in head-DEF.N.SG	‘Per has a headache.’			‘У Пера болит голова.’		
 38	2	болеть-2	å ha	SBJ	DO	TR	TR	Per ha-r influensa	PN have-PRS flu	‘Per has the flu.’			‘Пер болеет гриппом.’		
 38	3	бояться	å være redd	SBJ	for	Y	SBJ_for	Per er redd for hund-en	PN be.PRS afraid for dog-DEF.M.SG	‘Per is afraid of the dog.’	Non-verbal predicate.		‘Пер боится собаки.’		
 38	4	бросить	å kaste	SBJ	DO	TR	TR	Per kaste-t stein-en først	PN throw-PST stone-DEF.M.SG first	‘Per threw the stone first.’			‘Пер бросил камень первым.’		
@@ -800,17 +800,17 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 38	19	догнать	å ta igjen	SBJ	DO	TR	TR	Per tok Kari igjen	PN take.PST PN again	‘Per caught up with Kari.’			‘Пер догнал Кари.’		
 38	20	доить	å melke	SBJ	DO	TR	TR	Per melke-t ku-a	PN milk.PST cow-DEF.F.SG	‘Per milked the cow.’			‘Пер подоил корову.’		
 38	21	достичь	å nå	SBJ	DO	TR	TR	Per nådde bredd-en	PN reach.PST bank-DEF.M.SG	‘Per reached the bank.’			‘Пер достиг берега.’		
-38	22	дотронуться	å ta	SBJ	pa	Y	SBJ_pa	Per tok på vegg-en og ble flekkete	PN take.PST on wall-DEF.M.SG and become.PST dirty	‘Per touched the wall and got dirty.’			‘Пер дотронулся до стены и испачкался.’		
+38	22	дотронуться	å ta	SBJ	pa	Y	SBJ_pa	Per tok på vegg-en og ble flekkete	PN take.PST on wall-DEF.M.SG and become.PST spotted	‘Per touched the wall and got dirty.’			‘Пер дотронулся до стены и испачкался.’		
 38	23	драться	å slåss	SBJ	med	Y	SBJ_med	Per slåss med Ola	PN fight.PRS with PN	‘Per is fighting with Ola.’			‘Пер дерется с Улой.’		
 38	24	дружить	å være venn	SBJ	med	Y	SBJ_med	Per er venn med Ola	PN be.PRS friend with PN	‘Per is friends with Ola.’	Non-verbal predicate.		‘Пер дружит с Улой.’		
 38	25	думать	å tenke	SBJ	pa	Y	SBJ_pa	Per tenke-r på Kari	PN think-PRS on PN	‘Per is thinking about Kari.’			‘Петя думает о Кари.’		
 38	26	есть	å spise	SBJ	DO	TR	TR	Per spis-te et eple	PN eat-PST INDF.N.SG apple	‘Per ate an apple.’			‘Пер съел яблоко.’		
 38	27	жарить	å steke	SBJ	DO	TR	TR	Per stek-te fisk-en	PN fry-PST fish-DEF.M.SG	‘Per fried the fish.’			‘Пер пожарил рыбу.’		
 38	28	ждать	å vente	SBJ	pa	Y	SBJ_pa	Per vente-r på Ola	PN wait-PRS on PN	‘Per is waiting for Ola.’			‘Пер ждет Улу.’		
-38	29	забывать	å glemme	SBJ	DO	TR	TR	Per hadde glem-te snarvei-en	PN have.PST forget-PTCP shortcut-DEF.M.SG	‘Per forgot about the shortcut.’			‘Пер забыл о короткой дороге.’		
+38	29	забывать	å glemme	SBJ	DO	TR	TR	Per hadde glem-t snarvei-en	PN have.PST forget-PTCP shortcut-DEF.M.SG	‘Per forgot about the shortcut.’			‘Пер забыл о короткой дороге.’		
 38	30	зависеть	å avhenge	SBJ	av	Y	SBJ_av	hukommels-en avhenge-r av alder-en	memory-DEF.M.SG depend-PRS of age-DEF.M.SG	‘Memory depends on age.’			‘Память зависит от возраста.’		
 38	31	звать	å rope	SBJ	pa	Y	SBJ_pa	Per rop-te på Ola	PN call-PST on PN	‘Per called Ola.’			‘Пер позвал Улу.’		
-38	32	знакомиться	å bli kjent	SBJ	med	Y	SBJ_med	Per ble kjent med Ola for et år siden	PN become.PST acquainted with PN for INDF.N.SG year since	‘Per got to know Ola a year ago.’	Non-verbal predicate.		‘Пер познакомился с Улой год тому назад.’		
+38	32	знакомиться	å bli kjent	SBJ	med	Y	SBJ_med	Per ble kjent med Ola for et år siden	PN become.PST acquainted with PN for one.N year since	‘Per got to know Ola a year ago.’	Non-verbal predicate.		‘Пер познакомился с Улой год тому назад.’		
 38	33	знать 	å kjenne	SBJ	DO	TR	TR	Per kjenne-r Ola	PN know-PRS PN	‘Per knows Ola.’			‘Пер знает Улу.’		
 38	34	играть	å spille	SBJ	DO	TR	TR	Per spille-r gitar	PN play-PRS guitar	‘Per is playing the guitar.’			‘Пер играет на гитаре.’		
 38	35	избегать	å unngå	SBJ	DO	TR	TR	Per unngå-r Ola	PN avoid-PRS PN	‘Per avoids Ola.’			‘Пер избегает Улу.’		
@@ -842,16 +842,16 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 38	61	оставаться	å ha igjen	SBJ	DO	TR	TR	nå ha-r Per 10 dollar igjen	now have-PRS PN 10 dollar again	‘Per has ten dollars left.’			‘Теперь у Пера осталось 10 долларов.’		
 38	62	отвечать	å svare	SBJ	DO	TR	TR	Per svar-te lærer-en	PN answer-PST lærer-DEF.M.SG	‘Per answered the teacher.’			‘Пер ответил учителю.’		
 38	63	открывать	å åpne	SBJ	DO	TR	TR	Per åpne-t boks-en	PN open-PST can-DEF.M.SG	‘Per opened a can.’			‘Пер открыл банку.’		
-38	64	отличаться	å være annerledes	SBJ	enn	Y	SBJ_enn	min skjorte er annerledes enn din	my.F.SG shirt be.PRS different than your.F.SG	‘My shirt is different from yours.’	Non-verbal predicate.		‘Моя рубашка отличается от твоей.’		
+38	64	отличаться	å være annerledes	SBJ	enn	Y	SBJ_enn	min skjorte er annerledes enn din	my.SG shirt be.PRS different than your.SG	‘My shirt is different from yours.’	Non-verbal predicate.		‘Моя рубашка отличается от твоей.’		
 38	65	отстать	å ligge etter	SBJ	DO	TR	TR	Per lå etter Ola	PN lie.PST behind PN	‘Per fell behind Ola.’			‘Пер отстал от Улы.’		
-38	66	пахать	å pløye	SBJ	DO	TR	TR	Per pløye-r jord-et	PN plough-PRS earth-DEF.N.SG	‘Per is ploughing the field.’			‘Пер пашет поле.’		
-38	67	пахнуть	å lukte	SBJ	DO	TR	TR	hend-ene mine lukte-r bensin	nand-DEF.PL my.PL smell-PRS gasoline	‘My hands smell of gasoline.’			‘Мои руки пахнут бензином.’		
+38	66	пахать	å pløye	SBJ	DO	TR	TR	Per pløye-r jord-et	PN plough-PRS field-DEF.N.SG	‘Per is ploughing the field.’			‘Пер пашет поле.’		
+38	67	пахнуть	å lukte	SBJ	DO	TR	TR	hend-ene mine lukte-r bensin	hand-DEF.PL my.PL smell-PRS gasoline	‘My hands smell of gasoline.’			‘Мои руки пахнут бензином.’		
 38	68	пересечь	å krysse	SBJ	DO	TR	TR	Per krysse-t vei-en	PN cross-PST way-DEF.M.SG	‘Per crossed the road.’			‘Пер пересек дорогу.’		
 38	69	петь	å synge	SBJ	DO	TR	TR	Per sang en vakker sang	PN sing.PST INDF.M.SG beautiful song	‘Per sang a beautiful song.’			‘Пер спел красивую песню.’		
 38	70	писать	å skrive	SBJ	DO	TR	TR	Per skrev et brev	PN write.PST INDF.N.SG letter	‘Per wrote a letter.’			‘Пер написал письмо.’		
 38	71	пить	å drikke opp	SBJ	DO	TR	TR	Per drakk melk-en opp	PN drink.PST milk-DEF.M.SG up	‘Per drank the milk.’			‘Пер выпил молоко.’		
 38	72	плавить	å smelte	SBJ	DO	TR	TR	Per smelte-t en bit bly	PN melt-PST INDF.M.SG piece lead	‘Per melted a piece of lead.’			‘Пер расплавил кусок свинца.’		
-38	73	подходить	å passe	SBJ	til	Y	SBJ_til	dette belt-et passe-r til kjol-en min	this.N.SG belt-DEF.N.SG pass-PRS to dress-DEF.M.SG my.M.SG	‘This belt goes well with my dress.’			‘Этот пояс подходит к моему платью.’		
+38	73	подходить	å passe	SBJ	til	Y	SBJ_til	dette belt-et passe-r til kjol-en min	this.N.SG belt-DEF.N.SG fit-PRS to dress-DEF.M.SG my.SG	‘This belt goes well with my dress.’			‘Этот пояс подходит к моему платью.’		
 38	74	покидать	å forlate	SBJ	DO	TR	TR	Per forlot hjemby-en	PN leave.PST home_town-DEF.M.SG	‘Per left his hometown.’			‘Пер покинул родной город.’		
 38	75	покрывать	å dekke	SBJ	DO	TR	TR	tepp-et dekke-r hele gulv-et	carpet-DEF.N.SG cover-PRS whole floor-DEF.N.SG	‘The carpet covers the whole floor.’			‘Ковер покрывает весь пол.’		
 38	76	помнить	å huske	SBJ	DO	TR	TR	Per huske-r godt hus-et hvor han voks-te opp	PN remember-PRS well house-DEF.N.SG where he grow-PST up	‘Per remembers the house where he grew up well.’			‘Пер хорошо помнит дом, в котором вырос.’		
@@ -868,15 +868,15 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 38	87	руководить	å lede	SBJ	DO	TR	TR	Per lede-r bygd-a vår	PN lead-PRS village-DEF.F.SG our	‘Per runs our town.’			‘Пер руководит нашим поселком.’		
 38	88	скучать	å savne	SBJ	DO	TR	TR	Per savne-r Kari	PN miss-PRS PN	‘Per misses Kari.’			‘Пер скучает по Кари.’		
 38	89	следовать	å følge etter	SBJ	DO	TR	TR	Per følge-r etter Ola	PN follow-PRS behind PN	‘Per follows Kari.’			‘Пер следует за Улой.’		
-38	90	слезать	å stige av	SBJ	DO	TR	TR	Per steg av hest-en	PN rise of horse-DEF.M.SG	‘Per got down from the horse.’			‘Пер слез с лошади.’		
+38	90	слезать	å stige av	SBJ	DO	TR	TR	Per steg av hest-en	PN climb.PST of horse-DEF.M.SG	‘Per got down from the horse.’			‘Пер слез с лошади.’		
 38	91	слушать	å lytte	SBJ	til	Y	SBJ_til	Per lytte-r til radio-en	PN listen-PRS to radio-DEF.M.SG	‘Per is listening to radio.’			‘Пер слушает радио.’		
 38	92	слушаться	å adlyde	SBJ	DO	TR	TR	Per adlyde-r mamma-en sin	PN obey-PRS mother-DEF.F.SG POSS.REFL.F.SG	‘Per obeys his mother.’			‘Пер слушается маму.’		
 38	93	слышать	å høre	SBJ	DO	TR	TR	Per høre-r musikk	PN hear-PRS music	‘Per hears the music.’			‘Пер слышит музыку.’		
 38	94	смешаться	å blande seg	SBJ	med	Y	SBJ_med	honning-en blande-t seg med melk-en	honey-DEF.M.SG mix-PST REFL with milk-DEF.M.SG	‘The honey got mixed with milk.’			‘Мед смешался с молоком.’		
-38	95	смотреть	å se	SBJ	pa	Y	SBJ_pa	Per se-r på de mørke sky-ene	PN see-PST on DET.PL dark.PL cloud-DEF.PL	‘Per is looking at the clouds.’			‘Пер смотрит на тучи.’		
+38	95	смотреть	å se	SBJ	pa	Y	SBJ_pa	Per se-r på de mørke sky-ene	PN see-PRS on DET.PL dark.PL cloud-DEF.PL	‘Per is looking at the clouds.’			‘Пер смотрит на тучи.’		
 38	96	снимать	å ta av seg	SBJ	DO	TR	TR	Per tok av seg skjort-a	PN take.PST of REFL shirt-DEF.F.SG	‘Per took off his shirt.’			‘Пер снял рубашку.’		
-38	97	сниться	å drømme	SBJ	om	Y	SBJ_om	Per drømme-r om Kari	PN dream about PN	‘Per dreams about Kari.’			‘Пете снится Кари.’		
-38	98	соглашаться	å være enig	SBJ	med	Y	SBJ_med	Per var enig med Kari	PN be.PST unanimous with PN	‘Per agreed with Kari.’	Non-verbal predicate.		‘Пер согласился с Кари.’		
+38	97	сниться	å drømme	SBJ	om	Y	SBJ_om	Per drømme-r om Kari	PN dream-PRS about PN	‘Per dreams about Kari.’			‘Пете снится Кари.’		
+38	98	соглашаться	å være enig	SBJ	med	Y	SBJ_med	Per var enig med Kari	PN be.PST agreeing with PN	‘Per agreed with Kari.’	Non-verbal predicate.		‘Пер согласился с Кари.’		
 38	99	ссориться	å krangle	SBJ	med	Y	SBJ_med	Per krangle-t med Kari	PN quarrel-PST with PN	‘Per had a quarrel with Kari.’			‘Пер поссорился с Кари.’		
 38	100	стоить	å koste	SBJ	DO	TR	TR	denne kopp-en koste-r en dollar	this.M.SG cup-DEF.M.SG cost-PRS one.M dollar	‘This cup costs one dollar.’			‘Эта чашка стоит один доллар.’		
 38	101	стрелять	å skyte	SBJ	mot	Y	SBJ_mot	Per skjøt mot en fugl	PN shoot.PST towards INDF.M.SG bird	‘Per shot at the bird.’			‘Пер выстрелил в птицу.’		
@@ -889,11 +889,11 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 38	108	читать	å lese	SBJ	DO	TR	TR	Per les-te en interessant bok	PN read-PST INDF.M.SG interesting book	‘Per read an interesting book.’			‘Пер прочитал интересную книгу.’		
 38	109	шевелить	å bevege	SBJ	DO	TR	TR	Per beveg-de finger-en	PN move-PST finger-DEF.M.SG	‘Per moved his finger.’			‘Пер пошевелил пальцем.’		
 38	110	уважать	å respektere	SBJ	DO	TR	TR	Per respektere-r Ola	PN respect-PRS PN	‘Per respects Ola.’			‘Пер уважает Улу.’		
-38	111	брезговать	å avsky	SBJ	DO	TR	TR	Per avsky-r oppvask	PN be_squeamish-PRS dirty_dishes	‘Per is squeamish about dirty dishes.’			‘Пер брезгует грязной посудой.’		
+38	111	брезговать	å avsky	SBJ	DO	TR	TR	Per avsky-r oppvask	PN abhor-PRS dirty_dishes	‘Per is squeamish about dirty dishes.’			‘Пер брезгует грязной посудой.’		
 38	112	быть довольным	å være fornøyd	SBJ	med	Y	SBJ_med	Per er fornøyd med sønn-en sin	PN be.PRS satisfied with son-DEF.M.SG POSS.REFL.M.SG	‘Per is satisfied with his son.’	Non-verbal predicate.		‘Пер доволен своим сыном.’		
 38	113	влюбляться	å bli forelsket	SBJ	i	Y	SBJ_i	Per ble forelsket i Kari	PN become.PST enamoured in PN	‘Per fell in love with Kari.’	Non-verbal predicate.		‘Пер влюбился в Кари.’		
 38	114	доверять	å stole på	SBJ	DO	TR	TR	Per stole-r på Kari	PN trust-PRS on PN	‘Per trusts Kari.’			‘Пер доверяет Кари.’		
-38	115	жалеть	å synes synd på	SBJ	DO	TR	TR	Per syne-s synd på mor-en	PN show-PASS.PRS sin on mother-DEF.F.SG	‘Per sympathises with his mother.’			‘Пер жалеет свою мать.’		
+38	115	жалеть	å synes synd på	SBJ	DO	TR	TR	Per syne-s synd på mor-en	PN show-PASS.PRS unfortunate on mother-DEF.F.SG	‘Per sympathises with his mother.’			‘Пер жалеет свою мать.’		
 38	116	завидовать	å være misunnelig	SBJ	pa	Y	SBJ_pa	Per er misunnelig på Ola	PN be.PRS envious on PN	‘Per envies Ola.’	Non-verbal predicate.		‘Пер завидует Уле.’		
 38	117	злиться	å være sint	SBJ	pa	Y	SBJ_pa	Per er sint på Ola	PN be.PRS angry on PN	‘Per is angry with Ola.’	Non-verbal predicate.		‘Пер злится на Улу.’		
 38	118	удивляться	å bli overrasket	SBJ	over	Y	SBJ_over	Per ble overraske-t over gav-en	PN become.PST surprise-PTCP over gift-DEF.M.SG	‘Per was surprised at this gift.’	Non-verbal predicate (passive).		‘Пер удивился этому подарку.’		
@@ -1169,136 +1169,136 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 68	128	раздражаться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 68	129	симпатизировать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 68	130	стесняться	rɨq ruɁura	NOM	SUP.EL	Y	NOM_SUP.EL	rasul rɨq ruɁu-r=a ǯʲu-du bɨj-a-la	PN(NOM) shame come.IPFV-CVB=be self.M.OBL-ATTR stature-OBL(SUP)-EL	‘Rasul is shy about his height.’		PN(NOM) стыд приходить.IPFV-CVB=быть сам.M.OBL-ATTR рост-OBL(SUP)-EL	‘Расул стесняется своего роста.’		
-80	1	болеть-1	leeʹd -kõpp	*	*	*		Peâtt-ast lij vueiʹvv-kõpp.	PN-SG.LOC be.PRS.3SG head-disease.SG.NOM	‘P. has a headache.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + root in a compound).				
-80	2	болеть-2	leeʹd	LOC	NOM	X	LOC_NOM	Peâtt-ast lij nuõpp-kõpp.	PN-SG.LOC be.PRS.3SG cold(disease)-disease.SG.NOM	‘P. has the flu.’	Non-verbal predicate.				
-80	3	бояться	põõllâd	NOM	LOC	Y	NOM_LOC	Peâtt pââll piânnj-est.	PN.SG.NOM fear.PRS.3SG dog-SG.LOC	‘P. is afraid of the dog.’					
-80	4	бросить	kõõškeed	NOM	ACC	TR	TR	Peâtt kõõšk-i ǩieʹđj.	PN.SG.NOM throw-PST.3SG rock.SG.ACC	‘P. threw a stone.’					
-80	5	быть достаточно	leeʹd nokk	LOC	NOM	X	LOC_NOM	Ååʹn Peâtt-ast lie nokk tieʹǧǧ.	now PN-SG.LOC be.PRS.3PL enough money.PL.NOM	‘Now P. has enough money.’	Non-verbal predicate.				
-80	6	быть похожим	leeʹd vuâkka	*	*	*		Päʹrnn lij ääʹjj-es vuâkka.	boy.SG.NOM be.PRS.3SG grandfather.SG.GEN-POSS.3SG type.SG.ILL	‘The boy resembles his grandfather.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-80	7	верить	åskkad	NOM	ACC	TR	TR	Peâtt åskk suu.	PN.SG.NOM believe.PRS.3SG 3SG.ACC	‘P. believes her.’					
-80	8	взять	väʹldded	NOM	ACC	TR	TR	Peâtt vaaʹld-i ǩeeʹrj.	PN.SG.NOM take-PST.3SG book.SG.ACC	‘P. took a book.’					
-80	9	видеть	vueiʹnned	NOM	ACC	TR	TR	Peâtt vuäinn põõrt.	PN.SG.NOM see.PRS.3SG house.SG.ACC	‘P. sees a house.’					
-80	10	влиять	vaikkted	NOM	ILL	Y	NOM_ILL	Ââʹǩǩ vaaikat muštt-u.	age.SG.NOM influence.PRS.3SG memory-SG.ILL	‘Age influences memory.’					
-80	11	встречаться	teeivõõttâd	NOM	COM	Y	NOM_COM	Peâtt teeivõõđ-i Määʹrja-in.	PN.SG.NOM encounter-PST.3SG PN-SG.COM	‘P. encountered M.’					
-80	12	входить 	pueʹtted	NOM	ILL	Y	NOM_ILL	Peâtt puõʹđ-i põʹrtt-e.	PN.SG.NOM come-PST.3SG house-SG.ILL	‘P. entered the house.’					
-80	13	выиграть	vueiʹtted	NOM	ACC	TR	TR	Peâtt vuõit-i Määʹrj.	PN.SG.NOM win-PST.3SG PN.SG.ACC	‘P. beat M.’					
-80	14	выходить	mõõnnâd	NOM	LOC	Y	NOM_LOC	Peâtt mõõn-i põõrt-âst meädda.	PN.SG.NOM go-PST.3SG house-SG.LOC away	‘P. went out of the house.’					
-80	15	гнать	laiʹddjed	NOM	ACC	TR	TR	Peâtt laiʹddai kuuzz.	PN.SG.NOM lead.PRS.3SG cow.SG.ACC	‘P. is driving the cow (to the pasture).’					
-80	16	гнуть	poonnjâd	NOM	ACC	TR	TR	Peâtt poonnj-i ååuʹs.	PN.SG.NOM bend-PST.3SG branch.SG.ACC	‘P. bent the branch.’					
-80	17	говорить	ceäʹlǩǩed	NOM	ILL	Y	NOM_ILL	Peâtt cieʹlǩ-i Märjj-a:	PN.SG.NOM say-PST.3SG PN-SG.ILL	‘P. told M.: “...”.’					
-80	18	держать	tuõʹllʼjed	NOM	ACC	TR	TR	Peâtt tuõʹlla-i ǩeeʹrj.	PN.SG.NOM hold.PRS.3SG book.SG.ACC	‘P. is holding a book.’					
-80	19	догнать	tääʹvted 	NOM	ACC	TR	TR	Peâtt tääʹvt-i Määʹrj.	PN.SG.NOM grab-PST.3SG PN.SG.ACC	‘P. caught up with M.’					
-80	20	доить	pââččad	NOM	ACC	TR	TR	Peâtt pââjja-i kuuzz.	PN.SG.NOM milk-PST.3SG cow.SG.ACC	‘P. milked the cow.’					
-80	21	достичь	laʹddjed	NOM	ILL	Y	NOM_ILL	Peâtt laʹddj-i ridd-u.	PN.SG.NOM reach-PST.3SG bank.SG.ILL	‘P. reached the bank.’					
-80	22	дотронуться	kuõskkâd	NOM	ILL	Y	NOM_ILL	Peâtt kuõsk-i seinn-a.	PN.SG.NOM touch.PST.3SG wall-SG.ILL	‘P. touched the wall.’					
-80	23	драться	tuärrad	NOM	COM	Y	NOM_COM	Peâtt lij tuärr-men Määʹrja-in.	PN.SG.NOM be.PRS.3SG fight-PROG.PTCP PN-SG.COM	‘P. is fighting with M.’					
-80	24	дружить	leeʹd taaurõš	*	*	*		Peâtt lij Määrʹj taaurõš.	PN.SG.NOM be.PRS.3SG PN.SG.GEN friend.SG.NOM	‘P. is M.’s friend.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-80	25	думать	juurdčed	NOM	ACC	TR	TR	Peâtt juurdač Määʹrj.	PN.SG.NOM think.PRS.3SG PN.SG.ACC	‘P. is thinking about M.’					
-80	26	есть	poorrâd	NOM	ACC	TR	TR	Peâtt poor-i jaabl.	PN.SG.NOM eat-PST.3SG apple.SG.ACC	‘P. ate an apple.’					
-80	27	жарить	päʹštted	NOM	ACC	TR	TR	Peâtt paaʹšt-i kueʹl.	PN.SG.NOM fry-PST.3SG fish.SG.ACC	‘P. fried the fish.’					
-80	28	ждать	vueʹrdded	NOM	ACC	TR	TR	Peâtt vuârdd Määʹrj.	PN.SG.NOM wait.PRS.3SG PN.SG.ACC	‘P. is waiting for M.’					
-80	29	забывать	väjldõõvvâd	NOM	ACC	TR	TR	Peâtt väjldõõʹv-i tõn nuuʹbb čuõkku.	PN.SG.NOM forget-PST.3SG DIST.SG.ACC other.SG.ACC road.SG.ACC	‘P. forgot (about) the other road.’					
+80	1	болеть-1	leeʹd -kõpp	*	*	*		Peâtt-ast lij vueiʹvv-kõpp	PN-SG.LOC be.PRS.3SG head-disease.SG.NOM	‘Pete has a headache.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + root in a compound).				
+80	2	болеть-2	leeʹd	LOC	NOM	X	LOC_NOM	Peâtt-ast lij nuõpp-kõpp	PN-SG.LOC be.PRS.3SG cold(disease)-disease.SG.NOM	‘Pete has the flu.’	Non-verbal predicate.				
+80	3	бояться	põõllâd	NOM	LOC	Y	NOM_LOC	Peâtt pââll piânnj-est	PN.SG.NOM fear.PRS.3SG dog-SG.LOC	‘Pete is afraid of the dog.’					
+80	4	бросить	kõõškeed	NOM	ACC	TR	TR	Peâtt kõõšk-i ǩieʹđj	PN.SG.NOM throw-PST.3SG rock.SG.ACC	‘Pete threw a stone.’					
+80	5	быть достаточно	leeʹd nokk	LOC	NOM	X	LOC_NOM	ååʹn Peâtt-ast lie nokk tieʹǧǧ	now PN-SG.LOC be.PRS.3PL enough money.PL.NOM	‘Now Pete has enough money.’	Non-verbal predicate.				
+80	6	быть похожим	leeʹd vuâkka	*	*	*		päʹrnn lij ääʹjj-es vuâkka	boy.SG.NOM be.PRS.3SG grandfather.SG.GEN-POSS.3SG type.SG.ILL	‘The boy resembles his grandfather.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+80	7	верить	åskkad	NOM	ACC	TR	TR	Peâtt åskk suu	PN.SG.NOM believe.PRS.3SG 3SG.ACC	‘Pete believes her.’					
+80	8	взять	väʹldded	NOM	ACC	TR	TR	Peâtt vaaʹld-i ǩeeʹrj	PN.SG.NOM take-PST.3SG book.SG.ACC	‘Pete took a book.’					
+80	9	видеть	vueiʹnned	NOM	ACC	TR	TR	Peâtt vuäinn põõrt	PN.SG.NOM see.PRS.3SG house.SG.ACC	‘Pete sees a house.’					
+80	10	влиять	vaikkted	NOM	ILL	Y	NOM_ILL	ââʹǩǩ vaaikat muštt-u	age.SG.NOM influence.PRS.3SG memory-SG.ILL	‘Age influences memory.’					
+80	11	встречаться	teeivõõttâd	NOM	COM	Y	NOM_COM	Peâtt teeivõõđ-i Määʹrja-in	PN.SG.NOM encounter-PST.3SG PN-SG.COM	‘Pete encountered Maria’					
+80	12	входить 	pueʹtted	NOM	ILL	Y	NOM_ILL	Peâtt puõʹđ-i põʹrtt-e	PN.SG.NOM come-PST.3SG house-SG.ILL	‘Pete entered the house.’					
+80	13	выиграть	vueiʹtted	NOM	ACC	TR	TR	Peâtt vuõit-i Määʹrj	PN.SG.NOM win-PST.3SG PN.SG.ACC	‘Pete beat Maria’					
+80	14	выходить	mõõnnâd	NOM	LOC	Y	NOM_LOC	Peâtt mõõn-i põõrt-âst meädda	PN.SG.NOM go-PST.3SG house-SG.LOC away	‘Pete went out of the house.’					
+80	15	гнать	laiʹddjed	NOM	ACC	TR	TR	Peâtt laiʹddai kuuzz	PN.SG.NOM lead.PRS.3SG cow.SG.ACC	‘Pete is driving the cow (to the pasture).’					
+80	16	гнуть	poonnjâd	NOM	ACC	TR	TR	Peâtt poonnj-i ååuʹs	PN.SG.NOM bend-PST.3SG branch.SG.ACC	‘Pete bent the branch.’					
+80	17	говорить	ceäʹlǩǩed	NOM	ILL	Y	NOM_ILL	Peâtt cieʹlǩ-i Märjj-a:	PN.SG.NOM say-PST.3SG PN-SG.ILL	‘Pete told Maria: “...”.’					
+80	18	держать	tuõʹllʼjed	NOM	ACC	TR	TR	Peâtt tuõʹlla-i ǩeeʹrj	PN.SG.NOM hold.PRS.3SG book.SG.ACC	‘Pete is holding a book.’					
+80	19	догнать	tääʹvted 	NOM	ACC	TR	TR	Peâtt tääʹvt-i Määʹrj	PN.SG.NOM grab-PST.3SG PN.SG.ACC	‘Pete caught up with Maria’					
+80	20	доить	pââččad	NOM	ACC	TR	TR	Peâtt pââjja-i kuuzz	PN.SG.NOM milk-PST.3SG cow.SG.ACC	‘Pete milked the cow.’					
+80	21	достичь	laʹddjed	NOM	ILL	Y	NOM_ILL	Peâtt laʹddj-i ridd-u	PN.SG.NOM reach-PST.3SG bank.SG.ILL	‘Pete reached the bank.’					
+80	22	дотронуться	kuõskkâd	NOM	ILL	Y	NOM_ILL	Peâtt kuõsk-i seinn-a	PN.SG.NOM touch.PST.3SG wall-SG.ILL	‘Pete touched the wall.’					
+80	23	драться	tuärrad	NOM	COM	Y	NOM_COM	Peâtt lij tuärr-men Määʹrja-in	PN.SG.NOM be.PRS.3SG fight-PROG.PTCP PN-SG.COM	‘Pete is fighting with Maria’					
+80	24	дружить	leeʹd taaurõš	*	*	*		Peâtt lij Määrʹj taaurõš	PN.SG.NOM be.PRS.3SG PN.SG.GEN friend.SG.NOM	‘Pete is Maria’s friend.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+80	25	думать	juurdčed	NOM	ACC	TR	TR	Peâtt juurdač Määʹrj	PN.SG.NOM think.PRS.3SG PN.SG.ACC	‘Pete is thinking about Maria’					
+80	26	есть	poorrâd	NOM	ACC	TR	TR	Peâtt poor-i jaabl	PN.SG.NOM eat-PST.3SG apple.SG.ACC	‘Pete ate an apple.’					
+80	27	жарить	päʹštted	NOM	ACC	TR	TR	Peâtt paaʹšt-i kueʹl	PN.SG.NOM fry-PST.3SG fish.SG.ACC	‘Pete fried the fish.’					
+80	28	ждать	vueʹrdded	NOM	ACC	TR	TR	Peâtt vuârdd Määʹrj	PN.SG.NOM wait.PRS.3SG PN.SG.ACC	‘Pete is waiting for Maria’					
+80	29	забывать	väjldõõvvâd	NOM	ACC	TR	TR	Peâtt väjldõõʹv-i tõn nuuʹbb čuõkku	PN.SG.NOM forget-PST.3SG DIST.SG.ACC other.SG.ACC road.SG.ACC	‘Pete forgot (about) the other road.’					
 80	30	зависеть	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-80	31	звать	čuârvvad	NOM	ACC	TR	TR	Peâtt čuârva-i Määʹrj vieʹǩǩ-en.	PN.SG.NOM shout-PST.3SG PN.SG.ACC help-ESS.	‘P. shouted to M. for help.’					
-80	32	знакомиться	tobdstõõttâd	NOM	COM	Y	NOM_COM	Peâtt tobdst-õõđ-i Määʹrja-in õhtt eeʹǩǩ mââiårra.	PN.SG.NOM get.to.know-REFL-PST.3SG PN-SG.COM one year.SG.NOM ago	‘P. got to know M. a year ago.’					
-80	33	знать 	tobddâd	NOM	ACC	TR	TR	Peâtt tåbdd Määʹrj.	PN.SG.NOM know.PRS.3SG PN.SG.ACC	‘P. knows M.’					
-80	34	играть	siõrrâd	NOM	COM	Y	NOM_COM	Peâtt seârr kitara-in.	PN.SG.NOM play.PRS.3SG guitar-SG.COM	‘PN is playing the guitar.’					
-80	35	избегать	veäʹltted	NOM	ACC	TR	TR	Peâtt veältt Määʹrj.	PN.SG.NOM avoid.PRS.3SG PN.SG.ACC	‘P. avoids M.’					
-80	36	изготовить	raajjâd	NOM	ACC	TR	TR	Peâtt raaj-i säʹpplee-äggaz.	PN.SG.NOM make-PST.3SG mouse.SG.GEN-trap.SG.ACC	‘P. made a mousetrap.’					
-80	37	издеваться	luânnjad	NOM	ACC	TR	TR	Peâtt luânnj Määʹrj.	PN.SG.NOM make.fun.of.PRS.3SG PN.SG.ACC	‘P. is making fun of M.’					
-80	38	иметь	leeʹd	LOC	NOM	X	LOC_NOM	Peâtt-ast lij autt.	PN-SG.LOC be.PRS.3SG car.SG.NOM	‘P. has a car.’	Non-verbal predicate.				
-80	39	искать	ooccâd	NOM	ACC	TR	TR	Peâtt lij oocc-men suu lokkčouddj-id.	PN.SG.NOM be.PRS.3SG seek-PROG.PTCP 3SG.GEN key-PL.ACC	‘P. is looking for his keys.’					
-80	40	красить	kälkkeed	NOM	ACC	TR	TR	Peâtt kälkki-i ääiʹd.	PN.SG.NOM paint-PST.3SG fence.SG.ACC	‘P. painted the fence.’					
-80	41	кусать	snäuʹǩǩed	NOM	ACC	TR	TR	Piânnai snauʹǩ-i suu.	dog.SG.NOM bite-PST.3SG 3SG.ACC	‘A dog bit him.’					
-80	42	лишаться	mõõnted	NOM	ACC	TR	TR	Peâtt mõõnt-i põõrt-âs.	PN.SG.NOM make.go-PST.3SG house.SG.ACC-POSS.3SG	‘P. lost his house.’					
-80	43	ловить	*	*	*	*		Peâtt strääžž, što tääʹvteʹ-čč-i kaazz.	PN.SG.NOM try.PRS.3SG COMP grab-COND-3SG cat.SG.ACC	‘P. is trying to catch the cat.’	Not included in the database because Y is expressed as an NP within a dependent clause.				
-80	44	ломать	tuäjjad	NOM	ACC	TR	TR	Peâtt tuäja-i sueʹbb.	PN.SG.NOM break-PST.3SG stick.SG.ACC	‘P. broke a stick.’					
-80	45	льстить	kuärggted	NOM	ACC	TR	TR	Peâtt kuärggat Määʹrj.	PN.SG.NOM flatter.PRS.3SG PN.SG.ACC	‘P. is flattering M.’					
-80	46	любить-1	räʹǩsted	NOM	ACC	TR	TR	Peâtt rääʹǩǩast Määʹrj.	PN.SG.NOM love.PRS.3SG PN.SG.ACC	‘P. loves M.’					
-80	47	махать	heeilted	NOM	ACC	TR	TR	Peâtt lij heeilte-men nozvaireeʹppǩ-es.	PN.SG.NOM be.PRS.3SG wave-PROG.PTCP handkerchief.SG.ACC-POSS.3SG	‘P. is waving his handkerchief.’					
-80	48	мечтать	niõǥǥtõõllâd	NOM	GENdiott	Y	NOM_GENdiott	Peâtt lij niõǥǥ-tõõll-men ođđ aaut diõtt.	PN.SG.NOM be.PRS.3SG dream-CONT-PROG.PTCP new car.SG.GEN because.of	‘P. is dreaming of a new car.’					
-80	49	мыть	põõssâd	NOM	ACC	TR	TR	Peâtt põõzz-i koopp.	PN.SG.NOM wash-PST.3SG cup.SG.ACC	‘P. washed the cup.’					
-80	50	надевать	cääʹǩǩed ool	NOM	ACC	TR	TR	Peâtt caaʹjj-i puusees ool.	PN.SG.NOM put.on-PST.3SG trousers[PL.ACC].POSS.3SG onto	‘P. put on his trousers.’	Here, <i>ool</i> is part of the phrasal verb, not a postposition.				
-80	51	называться	kååččeed	NOM	ESS	Y	NOM_ESS	Tät tiŋgg kååččeet kompass-ân.	PROX.SG.NOM thing.SG.NOM be.called.PRS.3SG compass-ESS	‘This tool is called a compass.’					
+80	31	звать	čuârvvad	NOM	ACC	TR	TR	Peâtt čuârva-i Määʹrj vieʹǩǩ-en	PN.SG.NOM shout-PST.3SG PN.SG.ACC help-ESS.	‘Pete shouted to Maria for help.’					
+80	32	знакомиться	tobdstõõttâd	NOM	COM	Y	NOM_COM	Peâtt tobdst-õõđ-i Määʹrja-in õhtt eeʹǩǩ mââiårra	PN.SG.NOM get.to.know-REFL-PST.3SG PN-SG.COM one year.SG.NOM ago	‘Pete got to know Maria a year ago.’					
+80	33	знать 	tobddâd	NOM	ACC	TR	TR	Peâtt tåbdd Määʹrj	PN.SG.NOM know.PRS.3SG PN.SG.ACC	‘Pete knows Maria’					
+80	34	играть	siõrrâd	NOM	COM	Y	NOM_COM	Peâtt seârr kitara-in	PN.SG.NOM play.PRS.3SG guitar-SG.COM	‘PN is playing the guitar.’					
+80	35	избегать	veäʹltted	NOM	ACC	TR	TR	Peâtt veältt Määʹrj	PN.SG.NOM avoid.PRS.3SG PN.SG.ACC	‘Pete avoids Maria’					
+80	36	изготовить	raajjâd	NOM	ACC	TR	TR	Peâtt raaj-i säʹpplee-äggaz	PN.SG.NOM make-PST.3SG mouse.SG.GEN-trap.SG.ACC	‘Pete made a mousetrap.’					
+80	37	издеваться	luânnjad	NOM	ACC	TR	TR	Peâtt luânnj Määʹrj	PN.SG.NOM make.fun.of.PRS.3SG PN.SG.ACC	‘Pete is making fun of Maria’					
+80	38	иметь	leeʹd	LOC	NOM	X	LOC_NOM	Peâtt-ast lij autt	PN-SG.LOC be.PRS.3SG car.SG.NOM	‘Pete has a car.’	Non-verbal predicate.				
+80	39	искать	ooccâd	NOM	ACC	TR	TR	Peâtt lij oocc-men suu lokkčouddj-id	PN.SG.NOM be.PRS.3SG seek-PROG.PTCP 3SG.GEN key-PL.ACC	‘Pete is looking for his keys.’					
+80	40	красить	kälkkeed	NOM	ACC	TR	TR	Peâtt kälkki-i ääiʹd	PN.SG.NOM paint-PST.3SG fence.SG.ACC	‘Pete painted the fence.’					
+80	41	кусать	snäuʹǩǩed	NOM	ACC	TR	TR	piânnai snauʹǩ-i suu	dog.SG.NOM bite-PST.3SG 3SG.ACC	‘A dog bit him.’					
+80	42	лишаться	mõõnted	NOM	ACC	TR	TR	Peâtt mõõnt-i põõrt-âs	PN.SG.NOM make.go-PST.3SG house.SG.ACC-POSS.3SG	‘Pete lost his house.’					
+80	43	ловить	*	*	*	*		Peâtt strääžž, što tääʹvteʹ-čč-i kaazz	PN.SG.NOM try.PRS.3SG COMP grab-COND-3SG cat.SG.ACC	‘Pete is trying to catch the cat.’	Not included in the database because Y is expressed as an NP within a dependent clause.				
+80	44	ломать	tuäjjad	NOM	ACC	TR	TR	Peâtt tuäja-i sueʹbb	PN.SG.NOM break-PST.3SG stick.SG.ACC	‘Pete broke a stick.’					
+80	45	льстить	kuärggted	NOM	ACC	TR	TR	Peâtt kuärggat Määʹrj	PN.SG.NOM flatter.PRS.3SG PN.SG.ACC	‘Pete is flattering Maria’					
+80	46	любить-1	räʹǩsted	NOM	ACC	TR	TR	Peâtt rääʹǩǩast Määʹrj	PN.SG.NOM love.PRS.3SG PN.SG.ACC	‘Pete loves Maria’					
+80	47	махать	heeilted	NOM	ACC	TR	TR	Peâtt lij heeilte-men nozvaireeʹppǩ-es	PN.SG.NOM be.PRS.3SG wave-PROG.PTCP handkerchief.SG.ACC-POSS.3SG	‘Pete is waving his handkerchief.’					
+80	48	мечтать	niõǥǥtõõllâd	NOM	GENdiott	Y	NOM_GENdiott	Peâtt lij niõǥǥ-tõõll-men ođđ aaut diõtt	PN.SG.NOM be.PRS.3SG dream-CONT-PROG.PTCP new car.SG.GEN because.of	‘Pete is dreaming of a new car.’					
+80	49	мыть	põõssâd	NOM	ACC	TR	TR	Peâtt põõzz-i koopp	PN.SG.NOM wash-PST.3SG cup.SG.ACC	‘Pete washed the cup.’					
+80	50	надевать	cääʹǩǩed ool	NOM	ACC	TR	TR	Peâtt caaʹjj-i puusees ool	PN.SG.NOM put.on-PST.3SG trousers[PL.ACC].POSS.3SG onto	‘Pete put on his trousers.’	Here, <i>ool</i> is part of the phrasal verb, not a postposition.				
+80	51	называться	kååččeed	NOM	ESS	Y	NOM_ESS	tät tiŋgg kååččeet kompass-ân	PROX.SG.NOM thing.SG.NOM be.called.PRS.3SG compass-ESS	‘This tool is called a compass.’					
 80	52	наказывать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-80	53	напасть	kõrmmled	NOM	GENool	Y	NOM_GENool	Kueʹbǯǯ kõrmml-i kueʹllšiili ool.	bear.SG.NOM attack-PST.3SG fisherman.SG.GEN onto	‘A bear attacked a fisherman.’					
-80	54	наполняться	teâuddjed	NOM	LOC	Y	NOM_LOC	Skääll teâuddj-i čääʹʒʒ-est.	bucket.SG.NOM become.filled-PST.3SG water-SG.LOC	‘The bucket filled with water.’					
-80	55	находить	kaunnâd	NOM	ACC	TR	TR	Peâtt kaaun-i lokkčouddj-es.	PN.SG.NOM find-PST.3SG key.SG.ACC-POSS.3SG	‘P. found his key.’					
-80	56	недоставать	leeʹd väjja	LOC	GEN	XY	LOC_GEN	Peâtt-ast leäi õõut eeuʹr väjja.	PN-SG.LOC be.PST.3SG one.SG.GEN euro.SG.GEN short	‘P. was short one euro.’	Non-verbal predicate.				
-80	57	ненавидеть	vââjšed	NOM	ACC	TR	TR	Peâtt vââjaš Määrʹj.	PN.SG.NOM hate.PRS.3SG PN.SG.ACC	‘P. hates M.’					
-80	58	нравиться	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad tän pääiʹdest.	PN.SG.NOM like.PRS.3SG PROX.SG.GEN shirt.SG.LOC	‘P. likes this shirt.’					
-80	59	нуждаться	taarbšed	NOM	ACC	TR	TR	Peâtt taarbaš tieʹǧǧ-id.	PN.SG.NOM need.PRS.3SG money-PL.ACC	‘P. needs money.’					
-80	60	окружать	pirrõõttâd	NOM	ACC	TR	TR	Uur pirrâʹtte gåårad.	wall.PL.NOM surround.PRS.3PL city.SG.ACC	‘Walls surround the city.’					
-80	61	оставаться	leeʹd teänab	LOC	NOM	X	LOC_NOM	Peâtt-ast lie teänab pâi 10 eurr-âd.	PN-SG.LOC be.PRS.3PL (any)more only 10 euro-PART	‘P. has only 10 euros left.’	Non-verbal predicate. The Y argument (‘10 euros’) is in the nominative case, the use of the partitive case is determined by the numeral.				
-80	62	отвечать	vaʹstteed	NOM	ILL	Y	NOM_ILL	Peâtt vaʹstti-i uʹčteel-a.	PN.SG.NOM answer-PST.3SG teacher-SG.ILL	‘P. answered the teacher.’					
-80	63	открывать	ääʹveed	NOM	ACC	TR	TR	Peâtt äävi-i puurk.	PN.SG.NOM open-PST.3SG can.SG.ACC	‘P. opened a can.’					
-80	64	отличаться	leeʹd jeeʹresnallšem 	NOM	ko	Y	NOM_ko	Ij muu päiʹdd lij jeeʹresnallšem ko tuu päiʹdd.	NEG.3SG 1SG.GEN shirt.SG.NOM be.PRS.3SG different than 2SG.GEN shirt.SG.NOM	‘No, my shirt is different from your shirt.’	Non-verbal predicate.				
-80	65	отстать	kuâđđjed	NOM	GENtuakka	Y	NOM_GENtuakka	Peâtt kuâđđj-i Määʹrj tuâkka.	PN.SG.NOM remain-PST.3SG PN.SG.GEN behind	‘P. fell behind M.’					
-80	66	пахать	auʹrrjed	NOM	ACC	TR	TR	Peâtt lij auʹrrje-men peäld.	PN.SG.NOM be.PRS.3SG plough-PROG.PTCP field.SG.ACC	‘P. is ploughing the field.’					
-80	67	пахнуть	âʹpssed	NOM	mate	Y	NOM_mate	Muu ǩiõđ âʹpsse mâte beʹnsin.	1SG.GEN hand.PL.NOM smell.PRS.3PL like gasoline.SG.NOM	‘My hands smell of gasoline.’					
-80	68	пересечь	mõõnnâd	NOM	GENraast	Y	NOM_GENraast	Peâtt mõõn-i čuõkku rââst.	PN.SG.NOM go.PST.3SG road.SG.GEN across	‘P. crossed the road’					
-80	69	петь	läullad 	NOM	ACC	TR	TR	Peâtt lääula-i mooččâs laulli.	PN.SG.NOM sing-PST.3SG beautiful song.SG.ACC	‘P. sang a beautiful song.’					
-80	70	писать	ǩeeʹrjted	NOM	ACC	TR	TR	Peâtt ǩeeʹrjt-i ǩeeʹrj.	PN.SG.NOM write-PST.3SG letter.SG.ACC	‘P. wrote a letter.’					
-80	71	пить	juukkâd	NOM	ACC	TR	TR	Peâtt juuǥǥ-i mieʹlǩ.	PN.SG.NOM drink-PST.3SG milk.SG.ACC	‘P. drank the milk.’					
-80	72	плавить	suddeed	NOM	ACC	TR	TR	Peâtt suddi-i lââʹjj-kuuʹsǩ.	PN.SG.NOM melt-PST.3SG lead-piece.SG.ACC	‘P. melted a piece of lead.’					
-80	73	подходить	suåppâd	NOM	COM	Y	NOM_COM	Tät puäǥǥanj suäpp puârast muu kååut-in.	PROX.SG.NOM belt.SG.NOM match.PRS.3SG well 1SG.GEN skirt-SG.COM	‘This belt matches my dress.’					
-80	74	покидать	vueʹlǧǧed meädda	NOM	LOC	Y	NOM_LOC	Peâtt vuõʹlj-i meädda suu šõdd-âm-siid-âst.	PN.SG.NOM leave-PST.3SG away 3SG.GEN born-PST.PTCP-village-SG.LOC	‘P. left his native village.’					
-80	75	покрывать	käʹtted	NOM	ACC	TR	TR	Šaʹlddräänn kätt obb šââʹld.	carpet.SG.NOM cover.PRS.3SG all floor.SG.ACC	‘The carpet covers the whole floor.’					
-80	76	помнить	mošttjed	NOM	ACC	TR	TR	Peâtt moštt tõn põõrt puârast.	PN.SG.NOM remember.PRS.3SG DIST.SG.ACC house.SG.ACC well	‘P. remembers that house well.’					
-80	77	помочь	vieʹǩǩted	NOM	ACC	TR	TR	Peâtt vieʹǩǩt-i Määʹrj.	PN.SG.NOM help-PST.3SG PN.SG.ACC	‘P. helped M.’					
-80	78	понимать	fiʹttjed	NOM	ACC	TR	TR	Peâtt fiʹttai franskk-ǩiõl.	PN.SG.NOM understand.PRS.3SG French-language.SG.ACC	‘P. understands French.’					
-80	79	попасть	kõõsksted	NOM	ILL	Y	NOM_ILL	Teârmmaz-toll kõõskst-i põʹrtt-e.	thunder-fire.SG.NOM lighten-PST.3SG house-SG.ILL	‘Lightning hit the house.’					
-80	80	порезаться	čuõppõõttâd	NOM	COM	Y	NOM_COM	Peâtt čuõpp-õõđ-i neeiʹb-in.	PN.SG.NOM cut-REFL-PST.3SG knife-SG.COM	‘P. cut himself with a knife.’					
-80	81	прилипать	pâššned	NOM	GENool	Y	NOM_GENool	Ståkkan pâššn-i pååʹrd ool.	glass.SG.NOM get.caught-PST.3SG table.SG.GEN onto	‘The glass got stuck to the table.’					
-80	82	проиграть	taaʹppjed	NOM	ILL	Y	NOM_ILL	Peâtt taaʹppj-i Märjj-a.	PN.SG.NOM be.beaten-PST.3SG PN-SG.ILL	‘P. lost to M.’					
-80	83	радоваться	leeʹd kuärǥast	NOM	GENdiott	Y	NOM_GENdiott	Peâtt leäi kuärǥast ǩeeʹrj diõtt.	PN.SG.NOM be.PST.3SG glad letter.SG.GEN because.of	‘P. was glad about the letter.’	Non-verbal predicate.				
-80	84	разговаривать	mainsted	NOM	COM	Y	NOM_COM	Peâtt maainast Määʹrja-in.	PN.SG.NOM speak.PRS.3SG PN-SG.COM	‘P. is speaking with M.’					
-80	85	рожать	šõddeed	NOM	ACC	TR	TR	Mäʹrjj šõddi-i pääʹrn.	PN.SG.NOM give.birth-PST.3SG child.SG.ACC	‘M. gave birth to a son.’					
-80	86	ронять	kõõččted	NOM	ACC	TR	TR	Peâtt kõõččt-i ståkkan.	PN.SG.NOM drop-PST.3SG glass.SG.ACC	‘P. dropped the glass.’					
-80	87	руководить	vaaldšed	NOM	ACC	TR	TR	Peâtt vaaldaš mij siid.	PN.SG.NOM govern.PRS.3SG 1PL.GEN village.SG.ACC	‘P. runs our village.’					
-80	88	скучать	âʹǩǩõõššâd	NOM	ACC	TR	TR	Peâtt âʹǩǩââžž Määʹrj.	PN.SG.NOM miss.PRS.3SG PN.SG.ACC	‘P. misses M.’					
-80	89	следовать	čuâvvad	NOM	ACC	TR	TR	Peâtt čuâvv Määʹrj.	PN.SG.NOM follow.PRS.3SG PN.SG.ACC	‘P. follows M.’					
-80	90	слезать	luâšttõõttâd	NOM	LOC	Y	NOM_LOC	Peâtt luâšttõõđ-i (vuâlas) heäppaz sieʹlj-est.	PN.SG.NOM descend-PST.3SG (downwards) horse.SG.GEN back-SG.LOC	‘P. got down from the horse.’					
-80	91	слушать	kuvddled	NOM	ACC	TR	TR	Peâtt lij kuvddle-men radia.	PN.SG.NOM be.PRS.3SG listen-PROG.PTCP radio.SG.ACC	‘P. is listening to radio.’					
-80	92	слушаться	jäkktõõllâd	NOM	ACC	TR	TR	Peâtt pâi jäkktââll suu jieʹnn.	PN.SG.NOM always obey.PRS.3SG 3SG.GEN mother.SG.ACC	‘P. always obeys his mother.’					
-80	93	слышать	kuullâd	NOM	ACC	TR	TR	Peâtt kooll musiikk.	PN.SG.NOM hear.PRS.3SG music.SG.ACC	‘P. hears the music.’					
-80	94	смешаться	seäkkned	NOM	COM	Y	NOM_COM	Miõtt seäkkn-i mieʹlǩ-in.	honey.SG.NOM get.mixed-PST.3SG milk-SG.COM	‘The honey got mixed with the milk.’					
-80	95	смотреть	ǩiiččeed	NOM	GENarra	Y	NOM_GENarra	Peâtt lij ǩiičče-men põõlv-i årra.	PN.SG.NOM be.PRS.3SG watch-PROG.PTCP cloud-PL.GEN towards	‘P. is looking at the clouds.’					
-80	96	снимать	jäʹhssed	NOM	ACC	TR	TR	Peâtt jaauʹs-i pääiʹd-es.	PN.SG.NOM take.off-PST.3SG shirt.SG.ACC-POSS.3SG	‘P. took off his shirt.’					
-80	97	сниться	niõǥǥeed	NOM	LOC	Y	NOM_LOC	Mäʹrjj niõǥǥad Peâtt-ast.	PN.SG.NOM dream.PRS.3SG PN-SG.LOC	‘M. dreams about P.’					
-80	98	соглашаться	leeʹd õõutmiõllsaž	NOM	COM	Y	NOM_COM	Peâtt leäi Määʹrja-in õõutmiõllsaž.	PN.SG.NOM be.PST.3SG PN-SG.COM like.minded	‘P. agreed with M.’	Non-verbal predicate.				
-80	99	ссориться	reeidčõõttâd	NOM	COM	Y	NOM_COM	Peâtt reeidčõõđ-i Määʹrja-in.	PN.SG.NOM have.a.quarrel-PST.3SG PN-COM	‘P. had a quarrel with M.’					
-80	100	стоить	mäʹhssed	NOM	NOM	Y	NOM_NOM	Tät kopp mähss õhtt euʹrr.	PROX.SG.NOM cup.SG.NOM cost.PRS.3SG one.NOM euro.NOM	‘This cup costs 1 euro.’					
-80	101	стрелять	pääččad	NOM	GENvuastta	Y	NOM_GENvuastta	Peâtt pääčča-i lååʹdd vuâstta.	PN.SG.NOM shoot-PST.3SG bird.SG.GEN towards	‘P. shot at the bird.’					
-80	102	сыпать	kâʹlvved	NOM	ACC	TR	TR	Peâtt kõõʹlv-i säähhar.	PN.SG.NOM pour-PST.3SG sugar.SG.ACC	‘P. poured the sugar (into the cup).’					
-80	103	терять	läʹpped	NOM	ACC	TR	TR	Peâtt laaʹpp-i suu lokkčouddi.	PN.SG.NOM lose-PST.3SG 3SG.GEN key.SG.ACC	‘P. lost his key.’					
-80	104	тонуть	vuäjjad	NOM	GENvualla	Y	NOM_GENvualla	Stokk vuäja-i čääʹʒʒ vuâlla.	log.SG.NOM sink-PST.3SG water.SG.GEN under.ILL	‘The log sank in the water.’					
-80	105	убивать	kåʹdded	NOM	ACC	TR	TR	Peâtt kooʹdd-i Määʹrj.	PN.SG.NOM kill-PST.3SG PN.SG.ACC	‘P. killed M.’					
-80	106	ударить	čormmeed	NOM	ACC	TR	TR	Peâtt čormmi-i Määʹrj.	PN.SG.NOM hit-PST.3SG PN.SG.ACC	‘P. hit M.’					
-80	107	целовать	cuʹmmsted	NOM	ACC	TR	TR	Peâtt cuʹmmst-i Määʹrj.	PN.SG.NOM kiss-PST.3SG PN.SG.ACC	‘P. kissed M.’					
-80	108	читать	lookkâd	NOM	ACC	TR	TR	Peâtt looǥǥ-i miõllǩiõʹssi ǩeeʹrj.	PN.SG.NOM read-PST.3SG interesting book.SG.ACC	‘P. read an interesting book.’					
-80	109	шевелить	likktõõllâd	NOM	ACC	TR	TR	Peâtt likktõõl-i suõrm-es.	PN.SG.NOM move-PST.3SG finger.SG.ACC-POSS.3SG	‘P. moved his finger.’					
-80	110	уважать	ciʹsttjed	NOM	ACC	TR	TR	Peâtt ciʹsttai Määʹrj.	PN.SG.NOM respect.PRS.3SG PN.SG.ACC	‘P. respects M.’					
-80	111	брезговать	*	*	*	*		Peâtt ij tuʹǩǩed sähssas liiʹttin.	PN.SG.NOM NEG.3SG like.CNG dirty dish.PL.LOC	‘P. does not like dirty dishes.’	Not included in the database because this translation is semantically inaccurate.				
-80	112	быть довольным	leeʹd miõllstes	NOM	GENdiott	Y	NOM_GENdiott	Peâtt lij miõllstes pääʹrn-es diõtt.	PN.SG.NOM be.PRS.3SG content son.SG.GEN-POSS.3SG because.of	‘P. is content with his son.’	Non-verbal predicate.				
-80	113	влюбляться	räʹǩstõõvvâd	NOM	COM	Y	NOM_COM	Peâtt räʹǩstõõv-i Määʹrja-in.	PN.SG.NOM fall.in.love-PST.3SG PN-SG.COM	‘P. fell in love with M.’					
-80	114	доверять	naʹddjõõttâd	NOM	ACC	TR	TR	Peâtt naʹddjââtt Määʹrj.	PN.SG.NOM trust.PRS.3SG PN.SG.ACC	‘P. trusts M.’					
-80	115	жалеть	žaʹllʼjed	NOM	ACC	TR	TR	Peâtt čuuʹt žaʹllʼj-i jieʹnn-es.	PN.SG.NOM very feel.pity-PST.3SG mother.SG.ACC-POSS.3SG	‘P. sympathised with his mother.’					
-80	116	завидовать	kađšted	NOM	ACC	TR	TR	Peâtt kaađašt Määʹrj.	PN.SG.NOM envy.PRS.3SG PN.SG.ACC	‘P. envies M.’					
-80	117	злиться	leeʹd suttâm 	NOM	GENool	Y	NOM_GENool	Peâtt lij suttâm Määʹrj ool.	PN.SG.NOM be.PRS.3SG angry PN.SG.GEN onto	‘P. is angry with M.’	Non-verbal predicate.				
-80	118	удивляться	õõmtõõššâd	NOM	GENdiott	Y	NOM_GENdiott	Peâtt õõmtõõžž-i sǩiâŋk diõtt.	PN.SG.NOM be.surprized-PST.3SG gift.SG.GEN because.of	‘P. was surprised at the gift.’					
-80	119	любить-2	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad čee-st.	PN.SG.NOM like.PRS.3SG tea-SG.LOC	‘P. likes tea.’					
-80	120	наслаждаться	*	*	*	*		Peâtt-ast lij hääʹsǩ juukkâd puõiʹlli čee.	PN-SG.LOC be.PRS.3SG fun drink.INF hot tea.SG.ACC	‘P. enjoys drinking hot tea.’	Not included in the database because Y is expressed as an NP within a dependent clause.				
-80	121	хотеть	haaʹleed	NOM	ACC	TR	TR	Peâtt haaʹlad ođđ ǩiõtt-teeʹl.	PN.SG.NOM want.PRS.3SG new hand-phone.SG.ACC	‘P. wants a new mobile phone.’					
+80	53	напасть	kõrmmled	NOM	GENool	Y	NOM_GENool	kueʹbǯǯ kõrmml-i kueʹllšiili ool	bear.SG.NOM attack-PST.3SG fisherman.SG.GEN onto	‘A bear attacked a fisherman.’					
+80	54	наполняться	teâuddjed	NOM	LOC	Y	NOM_LOC	skääll teâuddj-i čääʹʒʒ-est	bucket.SG.NOM become.filled-PST.3SG water-SG.LOC	‘The bucket filled with water.’					
+80	55	находить	kaunnâd	NOM	ACC	TR	TR	Peâtt kaaun-i lokkčouddj-es	PN.SG.NOM find-PST.3SG key.SG.ACC-POSS.3SG	‘Pete found his key.’					
+80	56	недоставать	leeʹd väjja	LOC	GEN	XY	LOC_GEN	Peâtt-ast leäi õõut eeuʹr väjja	PN-SG.LOC be.PST.3SG one.SG.GEN euro.SG.GEN short	‘Pete was short one euro.’	Non-verbal predicate.				
+80	57	ненавидеть	vââjšed	NOM	ACC	TR	TR	Peâtt vââjaš Määrʹj	PN.SG.NOM hate.PRS.3SG PN.SG.ACC	‘Pete hates Maria’					
+80	58	нравиться	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad tän pääiʹdest	PN.SG.NOM like.PRS.3SG PROX.SG.GEN shirt.SG.LOC	‘Pete likes this shirt.’					
+80	59	нуждаться	taarbšed	NOM	ACC	TR	TR	Peâtt taarbaš tieʹǧǧ-id	PN.SG.NOM need.PRS.3SG money-PL.ACC	‘Pete needs money.’					
+80	60	окружать	pirrõõttâd	NOM	ACC	TR	TR	uur pirrâʹtte gåårad	wall.PL.NOM surround.PRS.3PL city.SG.ACC	‘Walls surround the city.’					
+80	61	оставаться	leeʹd teänab	LOC	NOM	X	LOC_NOM	Peâtt-ast lie teänab pâi 10 eurr-âd	PN-SG.LOC be.PRS.3PL (any)more only 10 euro-PART	‘Pete has only 10 euros left.’	Non-verbal predicate. The Y argument (‘10 euros’) is in the nominative case, the use of the partitive case is determined by the numeral.				
+80	62	отвечать	vaʹstteed	NOM	ILL	Y	NOM_ILL	Peâtt vaʹstti-i uʹčteel-a	PN.SG.NOM answer-PST.3SG teacher-SG.ILL	‘Pete answered the teacher.’					
+80	63	открывать	ääʹveed	NOM	ACC	TR	TR	Peâtt äävi-i puurk	PN.SG.NOM open-PST.3SG can.SG.ACC	‘Pete opened a can.’					
+80	64	отличаться	leeʹd jeeʹresnallšem 	NOM	ko	Y	NOM_ko	ij muu päiʹdd lij jeeʹresnallšem ko tuu päiʹdd	NEG.3SG 1SG.GEN shirt.SG.NOM be.PRS.3SG different than 2SG.GEN shirt.SG.NOM	‘No, my shirt is different from your shirt.’	Non-verbal predicate.				
+80	65	отстать	kuâđđjed	NOM	GENtuakka	Y	NOM_GENtuakka	Peâtt kuâđđj-i Määʹrj tuâkka	PN.SG.NOM remain-PST.3SG PN.SG.GEN behind	‘Pete fell behind Maria’					
+80	66	пахать	auʹrrjed	NOM	ACC	TR	TR	Peâtt lij auʹrrje-men peäld	PN.SG.NOM be.PRS.3SG plough-PROG.PTCP field.SG.ACC	‘Pete is ploughing the field.’					
+80	67	пахнуть	âʹpssed	NOM	mate	Y	NOM_mate	muu ǩiõđ âʹpsse mâte beʹnsin	1SG.GEN hand.PL.NOM smell.PRS.3PL like gasoline.SG.NOM	‘My hands smell of gasoline.’					
+80	68	пересечь	mõõnnâd	NOM	GENraast	Y	NOM_GENraast	Peâtt mõõn-i čuõkku rââst	PN.SG.NOM go.PST.3SG road.SG.GEN across	‘Pete crossed the road’					
+80	69	петь	läullad 	NOM	ACC	TR	TR	Peâtt lääula-i mooččâs laulli	PN.SG.NOM sing-PST.3SG beautiful song.SG.ACC	‘Pete sang a beautiful song.’					
+80	70	писать	ǩeeʹrjted	NOM	ACC	TR	TR	Peâtt ǩeeʹrjt-i ǩeeʹrj	PN.SG.NOM write-PST.3SG letter.SG.ACC	‘Pete wrote a letter.’					
+80	71	пить	juukkâd	NOM	ACC	TR	TR	Peâtt juuǥǥ-i mieʹlǩ	PN.SG.NOM drink-PST.3SG milk.SG.ACC	‘Pete drank the milk.’					
+80	72	плавить	suddeed	NOM	ACC	TR	TR	Peâtt suddi-i lââʹjj-kuuʹsǩ	PN.SG.NOM melt-PST.3SG lead-piece.SG.ACC	‘Pete melted a piece of lead.’					
+80	73	подходить	suåppâd	NOM	COM	Y	NOM_COM	tät puäǥǥanj suäpp puârast muu kååut-in	PROX.SG.NOM belt.SG.NOM match.PRS.3SG well 1SG.GEN skirt-SG.COM	‘This belt matches my dress.’					
+80	74	покидать	vueʹlǧǧed meädda	NOM	LOC	Y	NOM_LOC	Peâtt vuõʹlj-i meädda suu šõdd-âm-siid-âst	PN.SG.NOM leave-PST.3SG away 3SG.GEN born-PST.PTCP-village-SG.LOC	‘Pete left his native village.’					
+80	75	покрывать	käʹtted	NOM	ACC	TR	TR	šaʹlddräänn kätt obb šââʹld	carpet.SG.NOM cover.PRS.3SG all floor.SG.ACC	‘The carpet covers the whole floor.’					
+80	76	помнить	mošttjed	NOM	ACC	TR	TR	Peâtt moštt tõn põõrt puârast	PN.SG.NOM remember.PRS.3SG DIST.SG.ACC house.SG.ACC well	‘Pete remembers that house well.’					
+80	77	помочь	vieʹǩǩted	NOM	ACC	TR	TR	Peâtt vieʹǩǩt-i Määʹrj	PN.SG.NOM help-PST.3SG PN.SG.ACC	‘Pete helped Maria’					
+80	78	понимать	fiʹttjed	NOM	ACC	TR	TR	Peâtt fiʹttai franskk-ǩiõl	PN.SG.NOM understand.PRS.3SG French-language.SG.ACC	‘Pete understands French.’					
+80	79	попасть	kõõsksted	NOM	ILL	Y	NOM_ILL	teârmmaz-toll kõõskst-i põʹrtt-e	thunder-fire.SG.NOM lighten-PST.3SG house-SG.ILL	‘Lightning hit the house.’					
+80	80	порезаться	čuõppõõttâd	NOM	COM	Y	NOM_COM	Peâtt čuõpp-õõđ-i neeiʹb-in	PN.SG.NOM cut-REFL-PST.3SG knife-SG.COM	‘Pete cut himself with a knife.’					
+80	81	прилипать	pâššned	NOM	GENool	Y	NOM_GENool	ståkkan pâššn-i pååʹrd ool	glass.SG.NOM get.caught-PST.3SG table.SG.GEN onto	‘The glass got stuck to the table.’					
+80	82	проиграть	taaʹppjed	NOM	ILL	Y	NOM_ILL	Peâtt taaʹppj-i Märjj-a	PN.SG.NOM be.beaten-PST.3SG PN-SG.ILL	‘Pete lost to Maria’					
+80	83	радоваться	leeʹd kuärǥast	NOM	GENdiott	Y	NOM_GENdiott	Peâtt leäi kuärǥast ǩeeʹrj diõtt	PN.SG.NOM be.PST.3SG glad letter.SG.GEN because.of	‘Pete was glad about the letter.’	Non-verbal predicate.				
+80	84	разговаривать	mainsted	NOM	COM	Y	NOM_COM	Peâtt maainast Määʹrja-in	PN.SG.NOM speak.PRS.3SG PN-SG.COM	‘Pete is speaking with Maria’					
+80	85	рожать	šõddeed	NOM	ACC	TR	TR	Mäʹrjj šõddi-i pääʹrn	PN.SG.NOM give.birth-PST.3SG child.SG.ACC	‘Maria gave birth to a son.’					
+80	86	ронять	kõõččted	NOM	ACC	TR	TR	Peâtt kõõččt-i ståkkan	PN.SG.NOM drop-PST.3SG glass.SG.ACC	‘Pete dropped the glass.’					
+80	87	руководить	vaaldšed	NOM	ACC	TR	TR	Peâtt vaaldaš mij siid	PN.SG.NOM govern.PRS.3SG 1PL.GEN village.SG.ACC	‘Pete runs our village.’					
+80	88	скучать	âʹǩǩõõššâd	NOM	ACC	TR	TR	Peâtt âʹǩǩââžž Määʹrj	PN.SG.NOM miss.PRS.3SG PN.SG.ACC	‘Pete misses Maria’					
+80	89	следовать	čuâvvad	NOM	ACC	TR	TR	Peâtt čuâvv Määʹrj	PN.SG.NOM follow.PRS.3SG PN.SG.ACC	‘Pete follows Maria’					
+80	90	слезать	luâšttõõttâd	NOM	LOC	Y	NOM_LOC	Peâtt luâšttõõđ-i (vuâlas) heäppaz sieʹlj-est	PN.SG.NOM descend-PST.3SG (downwards) horse.SG.GEN back-SG.LOC	‘Pete got down from the horse.’					
+80	91	слушать	kuvddled	NOM	ACC	TR	TR	Peâtt lij kuvddle-men radia	PN.SG.NOM be.PRS.3SG listen-PROG.PTCP radio.SG.ACC	‘Pete is listening to radio.’					
+80	92	слушаться	jäkktõõllâd	NOM	ACC	TR	TR	Peâtt pâi jäkktââll suu jieʹnn	PN.SG.NOM always obey.PRS.3SG 3SG.GEN mother.SG.ACC	‘Pete always obeys his mother.’					
+80	93	слышать	kuullâd	NOM	ACC	TR	TR	Peâtt kooll musiikk	PN.SG.NOM hear.PRS.3SG music.SG.ACC	‘Pete hears the music.’					
+80	94	смешаться	seäkkned	NOM	COM	Y	NOM_COM	miõtt seäkkn-i mieʹlǩ-in	honey.SG.NOM get.mixed-PST.3SG milk-SG.COM	‘The honey got mixed with the milk.’					
+80	95	смотреть	ǩiiččeed	NOM	GENarra	Y	NOM_GENarra	Peâtt lij ǩiičče-men põõlv-i årra	PN.SG.NOM be.PRS.3SG watch-PROG.PTCP cloud-PL.GEN towards	‘Pete is looking at the clouds.’					
+80	96	снимать	jäʹhssed	NOM	ACC	TR	TR	Peâtt jaauʹs-i pääiʹd-es	PN.SG.NOM take.off-PST.3SG shirt.SG.ACC-POSS.3SG	‘Pete took off his shirt.’					
+80	97	сниться	niõǥǥeed	NOM	LOC	Y	NOM_LOC	Mäʹrjj niõǥǥad Peâtt-ast	PN.SG.NOM dream.PRS.3SG PN-SG.LOC	‘Maria dreams about Pete’					
+80	98	соглашаться	leeʹd õõutmiõllsaž	NOM	COM	Y	NOM_COM	Peâtt leäi Määʹrja-in õõutmiõllsaž	PN.SG.NOM be.PST.3SG PN-SG.COM like.minded	‘Pete agreed with Maria’	Non-verbal predicate.				
+80	99	ссориться	reeidčõõttâd	NOM	COM	Y	NOM_COM	Peâtt reeidčõõđ-i Määʹrja-in	PN.SG.NOM have.a.quarrel-PST.3SG PN-COM	‘Pete had a quarrel with Maria’					
+80	100	стоить	mäʹhssed	NOM	NOM	Y	NOM_NOM	tät kopp mähss õhtt euʹrr	PROX.SG.NOM cup.SG.NOM cost.PRS.3SG one.NOM euro.NOM	‘This cup costs 1 euro.’					
+80	101	стрелять	pääččad	NOM	GENvuastta	Y	NOM_GENvuastta	Peâtt pääčča-i lååʹdd vuâstta	PN.SG.NOM shoot-PST.3SG bird.SG.GEN towards	‘Pete shot at the bird.’					
+80	102	сыпать	kâʹlvved	NOM	ACC	TR	TR	Peâtt kõõʹlv-i säähhar	PN.SG.NOM pour-PST.3SG sugar.SG.ACC	‘Pete poured the sugar (into the cup).’					
+80	103	терять	läʹpped	NOM	ACC	TR	TR	Peâtt laaʹpp-i suu lokkčouddi	PN.SG.NOM lose-PST.3SG 3SG.GEN key.SG.ACC	‘Pete lost his key.’					
+80	104	тонуть	vuäjjad	NOM	GENvualla	Y	NOM_GENvualla	stokk vuäja-i čääʹʒʒ vuâlla	log.SG.NOM sink-PST.3SG water.SG.GEN under.ILL	‘The log sank in the water.’					
+80	105	убивать	kåʹdded	NOM	ACC	TR	TR	Peâtt kooʹdd-i Määʹrj	PN.SG.NOM kill-PST.3SG PN.SG.ACC	‘Pete killed Maria’					
+80	106	ударить	čormmeed	NOM	ACC	TR	TR	Peâtt čormmi-i Määʹrj	PN.SG.NOM hit-PST.3SG PN.SG.ACC	‘Pete hit Maria’					
+80	107	целовать	cuʹmmsted	NOM	ACC	TR	TR	Peâtt cuʹmmst-i Määʹrj	PN.SG.NOM kiss-PST.3SG PN.SG.ACC	‘Pete kissed Maria’					
+80	108	читать	lookkâd	NOM	ACC	TR	TR	Peâtt looǥǥ-i miõllǩiõʹssi ǩeeʹrj	PN.SG.NOM read-PST.3SG interesting book.SG.ACC	‘Pete read an interesting book.’					
+80	109	шевелить	likktõõllâd	NOM	ACC	TR	TR	Peâtt likktõõl-i suõrm-es	PN.SG.NOM move-PST.3SG finger.SG.ACC-POSS.3SG	‘Pete moved his finger.’					
+80	110	уважать	ciʹsttjed	NOM	ACC	TR	TR	Peâtt ciʹsttai Määʹrj	PN.SG.NOM respect.PRS.3SG PN.SG.ACC	‘Pete respects Maria’					
+80	111	брезговать	*	*	*	*		Peâtt ij tuʹǩǩed sähssas liiʹttin	PN.SG.NOM NEG.3SG like.CNG dirty dish.PL.LOC	‘Pete does not like dirty dishes.’	Not included in the database because this translation is semantically inaccurate.				
+80	112	быть довольным	leeʹd miõllstes	NOM	GENdiott	Y	NOM_GENdiott	Peâtt lij miõllstes pääʹrn-es diõtt	PN.SG.NOM be.PRS.3SG content son.SG.GEN-POSS.3SG because.of	‘Pete is content with his son.’	Non-verbal predicate.				
+80	113	влюбляться	räʹǩstõõvvâd	NOM	COM	Y	NOM_COM	Peâtt räʹǩstõõv-i Määʹrja-in	PN.SG.NOM fall.in.love-PST.3SG PN-SG.COM	‘Pete fell in love with Maria’					
+80	114	доверять	naʹddjõõttâd	NOM	ACC	TR	TR	Peâtt naʹddjââtt Määʹrj	PN.SG.NOM trust.PRS.3SG PN.SG.ACC	‘Pete trusts Maria’					
+80	115	жалеть	žaʹllʼjed	NOM	ACC	TR	TR	Peâtt čuuʹt žaʹllʼj-i jieʹnn-es	PN.SG.NOM very feel.pity-PST.3SG mother.SG.ACC-POSS.3SG	‘Pete sympathised with his mother.’					
+80	116	завидовать	kađšted	NOM	ACC	TR	TR	Peâtt kaađašt Määʹrj	PN.SG.NOM envy.PRS.3SG PN.SG.ACC	‘Pete envies Maria’					
+80	117	злиться	leeʹd suttâm 	NOM	GENool	Y	NOM_GENool	Peâtt lij suttâm Määʹrj ool	PN.SG.NOM be.PRS.3SG angry PN.SG.GEN onto	‘Pete is angry with Maria’	Non-verbal predicate.				
+80	118	удивляться	õõmtõõššâd	NOM	GENdiott	Y	NOM_GENdiott	Peâtt õõmtõõžž-i sǩiâŋk diõtt	PN.SG.NOM be.surprized-PST.3SG gift.SG.GEN because.of	‘Pete was surprised at the gift.’					
+80	119	любить-2	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad čee-st	PN.SG.NOM like.PRS.3SG tea-SG.LOC	‘Pete likes tea.’					
+80	120	наслаждаться	*	*	*	*		Peâtt-ast lij hääʹsǩ juukkâd puõiʹlli čee	PN-SG.LOC be.PRS.3SG fun drink.INF hot tea.SG.ACC	‘Pete enjoys drinking hot tea.’	Not included in the database because Y is expressed as an NP within a dependent clause.				
+80	121	хотеть	haaʹleed	NOM	ACC	TR	TR	Peâtt haaʹlad ođđ ǩiõtt-teeʹl	PN.SG.NOM want.PRS.3SG new hand-phone.SG.ACC	‘Pete wants a new mobile phone.’					
 80	122	сердиться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-80	123	обижаться	neuʹrrõõvvâd	NOM	GENdiott	Y	NOM_GENdiott	Peâtt neuʹrrõõv-i Määʹrj diõtt.	PN.SG.NOM be.offended-PST.3SG PN.SG.GEN because.of	‘P. took offence at M.’					
+80	123	обижаться	neuʹrrõõvvâd	NOM	GENdiott	Y	NOM_GENdiott	Peâtt neuʹrrõõv-i Määʹrj diõtt	PN.SG.NOM be.offended-PST.3SG PN.SG.GEN because.of	‘Pete took offence at Maria’					
 80	124	огорчать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-80	125	поражаться	õõmšed	NOM	ACC	TR	TR	Peâtt čuuʹt õõmš-i siid.	PN.SG.NOM very marvel.at-PST.3SG village.SG.ACC	‘P. marvelled at this village.’					
-80	126	презирать	pâiʹlǩiõččâd	NOM	ACC	TR	TR	Peâtt pâiʹlǩeäčč Määʹrj.	PN.SG.NOM despise.PRS.3SG PN.SG.ACC	‘P. despises M.’					
-80	127	огорчаться	suttõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt suttõõđ-škuõʹđ-i suu pääʹrn ool.	PN.SG.NOM get.upset-INCH-PST.3SG 3SG.GEN son.SG.GEN onto	‘P. got upset with his son.’					
-80	128	раздражаться	gåårõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt gåårõõđ-škuäʹtt suu niõđ ool.	PN.SG.NOM get.irritated-INCH.PRS.3SG 3SG.GEN daughter.SG.GEN onto	‘P. is getting irritated with his daughter.’					
-80	129	симпатизировать	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad Määʹrja-st.	PN.SG.NOM like.PRS.3SG PN.SG.LOC	‘P. is fond of M.’					
-80	130	стесняться	käinnad	NOM	GENdiott	Y	NOM_GENdiott	Peâtt käinn kookkadvuõđ-âs diõtt.	PN.SG.NOM be.shy.PRS.3SG height.SG.GEN-POSS.3SG because.of	‘P. is shy about his height.’					
+80	125	поражаться	õõmšed	NOM	ACC	TR	TR	Peâtt čuuʹt õõmš-i siid	PN.SG.NOM very marvel.at-PST.3SG village.SG.ACC	‘Pete marvelled at this village.’					
+80	126	презирать	pâiʹlǩiõččâd	NOM	ACC	TR	TR	Peâtt pâiʹlǩeäčč Määʹrj	PN.SG.NOM despise.PRS.3SG PN.SG.ACC	‘Pete despises Maria’					
+80	127	огорчаться	suttõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt suttõõđ-škuõʹđ-i suu pääʹrn ool	PN.SG.NOM get.upset-INCH-PST.3SG 3SG.GEN son.SG.GEN onto	‘Pete got upset with his son.’					
+80	128	раздражаться	gåårõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt gåårõõđ-škuäʹtt suu niõđ ool	PN.SG.NOM get.irritated-INCH.PRS.3SG 3SG.GEN daughter.SG.GEN onto	‘Pete is getting irritated with his daughter.’					
+80	129	симпатизировать	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad Määʹrja-st	PN.SG.NOM like.PRS.3SG PN.SG.LOC	‘Pete is fond of Maria’					
+80	130	стесняться	käinnad	NOM	GENdiott	Y	NOM_GENdiott	Peâtt käinn kookkadvuõđ-âs diõtt	PN.SG.NOM be.shy.PRS.3SG height.SG.GEN-POSS.3SG because.of	‘Pete is shy about his height.’					
 61	1	болеть-1	boleti	ACC	NOM	X	ACC_NOM	An-o boli glav-a	PN-ACC.SG ache:IPFV.PRS.3SG head-NOM.SG	‘Ana has a headache.’		PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG	‘У Аны болит голова.’		
 61	2	болеть-2	imeti	NOM	ACC	TR	TR	An-a ima grip-o	PN-NOM.SG have:IPFV.PRS.3SG flu-ACC.SG	‘Ana has the flu.’		PN-NOM.SG иметь:IPFV.PRS.3SG грипп-ACC.SG	‘Ана болеет гриппом.’		
 61	3	бояться	bati se	NOM	GEN	Y	NOM_GEN	Peter se malo boji ps-a	PN[NOM.SG] RFL a_little be_afraid:IPFV.PRS.3SG dog-GEN.SG	‘Peter is a little afraid of the dog.’		PN[NOM.SG] RFL немного бояться:IPFV.PRS.3SG собака-GEN.SG	‘Петер немного боится собаки.’		

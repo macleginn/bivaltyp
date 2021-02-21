@@ -1,4 +1,4 @@
-python convert-xlsx.py
+:: python convert-xlsx.py
 python collect_language_data.py
 python convert-full-table.py
 python convert-structural-table.py
