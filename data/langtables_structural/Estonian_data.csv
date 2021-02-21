@@ -6,15 +6,15 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 4	Estonian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		ALL	NOM	X	ALL_NOM							
 4	Estonian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		NOM	COM	Y	NOM_COM							
 4	Estonian	7	believe	X (believe) Y	верить	X (верить)Y-у		*	*	*								
-4	Estonian	8	take	X (take) Y	взять	X (брать) Y(-а)		NOM	GEN~PART	TR	TR							
+4	Estonian	8	take	X (take) Y	взять	X (брать) Y(-а)		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	9	see	X (see) Y	видеть	X (видеть) Y(-а)		NOM	PART	Y	NOM_PART							
 4	Estonian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		NOM	PART	Y	NOM_PART							
 4	Estonian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		NOM	COM	Y	NOM_COM							
 4	Estonian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		NOM	ILL	Y	NOM_IL							
-4	Estonian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		NOM	GEN~PART	TR	TR							
+4	Estonian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		NOM	EL	Y	NOM_EL							
-4	Estonian	15	drive	X (drive) Y	гнать	X (гнать) Y-а		NOM	GEN~PART	TR	TR							
-4	Estonian	16	bend	X (bend) Y	гнуть	X (гнуть) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	15	drive	X (drive) Y	гнать	X (гнать) Y-а		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	16	bend	X (bend) Y	гнуть	X (гнуть) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	17	tell	X (tell) Y	говорить	X (говорить) Y-у		NOM	ALL	Y	NOM_ALL							
 4	Estonian	18	hold	X (hold)Y	держать	X (держать) Y(-а)		NOM	PART	Y	NOM_PART							
 4	Estonian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		NOM	ALL	Y	NOM_ALL							
@@ -24,36 +24,36 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 4	Estonian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	COM	Y	NOM_COM							
 4	Estonian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		NOM	COM	Y	NOM_COM							
 4	Estonian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	EL	Y	NOM_EL							
-4	Estonian	26	eat	X (eat) Y	есть	X (есть) Y		NOM	GEN~PART	TR	TR							
-4	Estonian	27	fry	X (fry) Y	жарить	X (жарить) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	26	eat	X (eat) Y	есть	X (есть) Y		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	27	fry	X (fry) Y	жарить	X (жарить) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		NOM	PART	Y	NOM_PART							
-4	Estonian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		NOM	GEN~PART	TR	TR							
+4	Estonian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		NOM	EL	Y	NOM_EL							
-4	Estonian	31	call	X (call) Y	звать	X (звать) Y-а		NOM	GEN~PART	TR	TR							
+4	Estonian	31	call	X (call) Y	звать	X (звать) Y-а		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	COM	Y	NOM_COM							
 4	Estonian	33	know	X (know) Y	знать 	X (знать) Y-а		NOM	PART	Y	NOM_PART							
 4	Estonian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	PART	Y	NOM_PART							
 4	Estonian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		NOM	PART	Y	NOM_PART							
-4	Estonian	36	make	X (make) Y	изготовить	X (изготовить) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	36	make	X (make) Y	изготовить	X (изготовить) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		NOM	PART	Y	NOM_PART							
 4	Estonian	38	have	X (have) Y	иметь	X (иметь) Y		*	*	*								
 4	Estonian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		NOM	PART	Y	NOM_PART							
-4	Estonian	40	paint	X (paint) Y	красить	X (красить) Y		NOM	GEN~PART	TR	TR							
-4	Estonian	41	bite	X (bite) Y	кусать	X (кусать) Y-а		NOM	GEN~PART	TR	TR							
+4	Estonian	40	paint	X (paint) Y	красить	X (красить) Y		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	41	bite	X (bite) Y	кусать	X (кусать) Y-а		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		NOM	EL	Y	NOM_EL							
-4	Estonian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		NOM	GEN~PART	TR	TR							
-4	Estonian	44	break	X (break) Y	ломать	X (ломать) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	44	break	X (break) Y	ломать	X (ломать) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*	*	*								
 4	Estonian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		NOM	PART	Y	NOM_PART							
 4	Estonian	47	wave	X (wave) Y	махать	X (махать) Y-ом		NOM	COM	Y	NOM_COM							
 4	Estonian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	EL	Y	NOM_EL							
-4	Estonian	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	GEN~PART	TR	TR							
-4	Estonian	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	TRANSL	Y	TRANSL							
 4	Estonian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	PART	Y	NOM_PART							
 4	Estonian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	PART	Y	NOM_PART							
 4	Estonian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	COM	Y	NOM_COM							
-4	Estonian	55	find	X (find) Y	находить	X (находить) Y(-а)		NOM	GEN~PART	TR	TR							
+4	Estonian	55	find	X (find) Y	находить	X (находить) Y(-а)		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		*	*	*								
 4	Estonian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		*	*	*								
 4	Estonian	58	like	X (like) Y	нравиться	X-у (нравиться) Y		*	*	*								
@@ -61,19 +61,19 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 4	Estonian	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		NOM	PART	Y	NOM_PART							
 4	Estonian	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		*	*	*								
 4	Estonian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		NOM	ALL	Y	NOM_ALL							
-4	Estonian	63	open	X (open) Y	открывать	X (открывать) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	63	open	X (open) Y	открывать	X (открывать) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		NOM	EL	Y	NOM_EL							
 4	Estonian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		NOM	EL	Y	NOM_EL							
-4	Estonian	66	plough	X (plough) Y	пахать	X (пахать) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	66	plough	X (plough) Y	пахать	X (пахать) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*								
-4	Estonian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		NOM	GEN~PART	TR	TR							
-4	Estonian	69	sing	X (sing) Y	петь	X (петь) Y		NOM	GEN~PART	TR	TR							
-4	Estonian	70	write	X (write) Y	писать	X (писать) Y		NOM	GEN~PART	TR	TR							
-4	Estonian	71	drink	X (drink) Y	пить	X (пить) Y		NOM	GEN~PART	TR	TR							
-4	Estonian	72	melt	X (melt) Y	плавить	X (плавить) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	69	sing	X (sing) Y	петь	X (петь) Y		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	70	write	X (write) Y	писать	X (писать) Y		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	71	drink	X (drink) Y	пить	X (пить) Y		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	72	melt	X (melt) Y	плавить	X (плавить) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		*	*	*								
-4	Estonian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		NOM	GEN~PART	TR	TR							
-4	Estonian	75	cover	X (cover) Y	покрывать	X (покрывать) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	75	cover	X (cover) Y	покрывать	X (покрывать) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	76	remember	X (remember) Y	помнить	X (помнить) Y-а		NOM	PART	Y	NOM_PART							
 4	Estonian	77	help	X (help) Y	помочь	X (помогать) Y-у		*	*	*								
 4	Estonian	78	understand	X (understand) Y	понимать	X (понимать) Y		NOM	EL	Y	NOM_EL							
@@ -89,7 +89,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 4	Estonian	88	miss	X (miss) Y	скучать	X (скучать) по Y-у		NOM	PART	Y	NOM_PART							
 4	Estonian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		NOM	ALL	Y	NOM_ALL							
 4	Estonian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	EL	Y	NOM_EL							
-4	Estonian	91	listen	X (listen) to Y	слушать	X (слушать) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	91	listen	X (listen) to Y	слушать	X (слушать) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*	*	*								
 4	Estonian	93	hear	X (hear) Y	слышать	X (слышать) Y		NOM	PART	Y	NOM_PART							
 4	Estonian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	COM	Y	NOM_COM							
@@ -100,13 +100,13 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 4	Estonian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	COM	Y	NOM_COM							
 4	Estonian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*	*	*								
 4	Estonian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		*	*	*								
-4	Estonian	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	GEN~PART	TR	TR							
-4	Estonian	103	lose	X (lose) Y	терять	X (терять) Y		NOM	GEN~PART	TR	TR							
+4	Estonian	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	GEN~PART~NOM	TR	TR							
+4	Estonian	103	lose	X (lose) Y	терять	X (терять) Y		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	ILL	Y	NOM_IL							
-4	Estonian	105	kill	X (kill) Y	убивать	X (убивать) Y-а		NOM	GEN~PART	TR	TR							
+4	Estonian	105	kill	X (kill) Y	убивать	X (убивать) Y-а		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	106	hit	X (hit) Y	ударить	X (ударять) Y-а		NOM	PART	Y	NOM_PART							
 4	Estonian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		NOM	PART	Y	NOM_PART							
-4	Estonian	108	read	X (read) Y	читать	X (читать) Y-а		NOM	GEN~PART	TR	TR							
+4	Estonian	108	read	X (read) Y	читать	X (читать) Y-а		NOM	GEN~PART~NOM	TR	TR							
 4	Estonian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		NOM	PART	Y	NOM_PART							
 4	Estonian	110	respect	X (respect) Y	уважать	X (уважать) Y-а		*	*	*								
 4	Estonian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом		*	*	*								
