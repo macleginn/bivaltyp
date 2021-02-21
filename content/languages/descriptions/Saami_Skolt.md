@@ -24,7 +24,7 @@ Case marking displays the nominative-accusative alignment. In the basic transiti
 ```
 (1) Peâtt      laaʹpp-i      lokkčouddj-id
     PN.SG.NOM  lose-PST.3SG  key-PL.ACC
-    ‘Peter lost the keys.’
+    ‘Pete lost the keys.’
 ```
 
 Non-core arguments are typically flagged by oblique cases or by postpositions, which require genitive marking on the noun. For a comprehensive description of Skolt Saami, see Feist (2015).
