@@ -9,7 +9,7 @@ predicate_no	predicate_label_en	argument_frame_en	stimulus_sentence_en	predicate
 8	take	X (take) Y	[P.]_x took [a book]_y (from the shelf).	взять	X (брать) Y(-а)	[П.]_x взял [книгу]_y (с полки).	
 9	see	X (see) Y	[P.]_x sees [a house]_y_y.	видеть	X (видеть) Y(-а)	[П.]_x видит [дом]_y.	yes
 10	influence	X (influence) Y	[Age]_x influences [memory]_y.	влиять	X (влиять) на Y(-а)	[Возраст] влияет на [память]_y.	yes
-11	encounter	X (encounter) Y	[P.]_x encountered [M.]_y (accidentally, on the street). = [P.]_y_x ran into [M]_y.	встречаться	X (встречаться) с Y-ом	[П.]_x встретился с [М.]_y (случайно, на улице).	
+11	encounter	X (encounter) Y	[P.]_x encountered [M.]_y (accidentally, on the street). = [P.]_x ran into [M]_y.	встречаться	X (встречаться) с Y-ом	[П.]_x встретился с [М.]_y (случайно, на улице).	
 12	enter	X (enter) Y	[P.]_x entered [the house]_y.	входить	X (входить) в Y (дом)	[П.]_x вошел в [дом]_y.	
 13	win	X (beat) Y	(P. and M. played chess.) [P.]_x beat [M]_y.	выиграть	X (выигрывать) у Y-а	(П. играл с М. в шахматы). [П.]_x выиграл у [М]_y.	
 14	go_out	X (go out) of Y	[P.]_x went out of [the house]_y.	выходить	X (выходить) из Y-а	[П.]_x вышел из [дома]_y.	
