@@ -1,59 +1,59 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 66	Finnish	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	särkeä	ADE	PART	XY	ADE_PART							Есть еще вариант букв. X-ADE есть головоболь
-66	Finnish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	olla 	ADE	NOM	X	ADE_NOM							"Букв. ""быть"", то же, что 38. Есть еще вариант с тем же глаголом, но ADE + INE."
+66	Finnish	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	olla 	ADE	NOM	X	ADE_NOM							Букв. "быть", то же, что 38. Есть еще вариант с тем же глаголом, но ADE + INE.
 66	Finnish	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	pelätä	NOM	PART	Y	NOM_PART							
-66	Finnish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	heittää	NOM	GEN~NOM	TR	TR							
+66	Finnish	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	heittää	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	tarpeeksi	ADE	PART	XY	ADE_PART							NV. Не совсем понятна структура составляющих (у Х-а есть [достаточно Y-PART]), засчитано во многом условно.
-66	Finnish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	näköinen	NOM	GEN	Y	NOM_GEN							"NV. Несмотря на то, что в обычном случае при переходных глаголах имена тоже кодируются как NOM + GEN, здесь я все-таки пишу именно это, т.к. это видно по именам во множественном числе и местоимениям: тут нужен именно генитив везде, а не ""падеж тотального объекта"" (NOM в PL)"
+66	Finnish	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	näköinen	NOM	GEN	Y	NOM_GEN							NV. Несмотря на то, что в обычном случае при переходных глаголах имена тоже кодируются как NOM + GEN, здесь я все-таки пишу именно это, т.к. это видно по именам во множественном числе и местоимениям: тут нужен именно генитив везде, а не "падеж тотального объекта" (NOM в PL)
 66	Finnish	7	believe	X (believe) Y	верить	X (верить)Y-у	uskoa 	NOM	PART	Y	NOM_PART							
-66	Finnish	8	take	X (take) Y	взять	X (брать) Y(-а)	ottaa 	NOM	GEN~NOM	TR	TR							
-66	Finnish	9	see	X (see) Y	видеть	X (видеть) Y(-а)	nähdä 	NOM	GEN~NOM	TR	TR							
+66	Finnish	8	take	X (take) Y	взять	X (брать) Y(-а)	ottaa 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	9	see	X (see) Y	видеть	X (видеть) Y(-а)	nähdä 	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	vaikuttaa	NOM	ILL	Y	NOM_ILL							
-66	Finnish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	tavata 	NOM	GEN~NOM	TR	TR							
+66	Finnish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	tavata 	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	astua 	NOM	ILL	Y	NOM_ILL							Есть еще вариант mennä, там управление NOM + ILL (sisä-än = inside-ILL)
-66	Finnish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	voittaa	NOM	GEN~NOM	TR	TR							
+66	Finnish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	voittaa	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	poistua	NOM	ELA	Y	NOM_ELA							Есть еще вариант lähteä. Еще вариант: mennä (NOM + ELA ulos (= outside.ILL))
 66	Finnish	15	drive	X (drive) Y	гнать	X (гнать) Y-а	ajaa 	NOM	PART	Y	NOM_PART							
-66	Finnish	16	bend	X (bend) Y	гнуть	X (гнуть) Y	taivuttaa 	NOM	GEN~NOM	TR	TR							
+66	Finnish	16	bend	X (bend) Y	гнуть	X (гнуть) Y	taivuttaa 	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	17	tell	X (tell) Y	говорить	X (говорить) Y-у	sanoa 	NOM	ALL	Y	NOM_ALL							
 66	Finnish	18	hold	X (hold)Y	держать	X (держать) Y(-а)	pitää 	NOM	PART	Y	NOM_PART							Тот же глагол, что 58, 119 (нравиться, любить)
-66	Finnish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	ottaa kiinni	NOM	GEN~NOM	TR	TR							CV (= 'take (= 8) shut')
-66	Finnish	20	milk	X (milk) Y	доить	X (доить) Y-а	lypsää 	NOM	GEN~NOM	TR	TR							
-66	Finnish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	saavuttaa 	NOM	GEN~NOM	TR	TR							"Вариант -- глагол päästä; он допускает NOM + ALL или NOM + ILL (второе правда в примере с ""достиг леса"")"
+66	Finnish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	ottaa kiinni	NOM	GEN~PART~NOM	TR	TR							CV (= 'take (= 8) shut')
+66	Finnish	20	milk	X (milk) Y	доить	X (доить) Y-а	lypsää 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	saavuttaa 	NOM	GEN~PART~NOM	TR	TR							Вариант -- глагол päästä; он допускает NOM + ALL или NOM + ILL (второе правда в примере с "достиг леса")
 66	Finnish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	koskea 	NOM	ILL	Y	NOM_ILL							Тот же глагол допускает NOM + PART
 66	Finnish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	tapella	NOM	GENkanssa	Y	NOM_GENkanssa							
 66	Finnish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*	*	*	*								Только П. и М. -- друзья
 66	Finnish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	ajatella 	NOM	PART	Y	NOM_PART							
-66	Finnish	26	eat	X (eat) Y	есть	X (есть) Y	syödä	NOM	GEN~NOM	TR	TR							
-66	Finnish	27	fry	X (fry) Y	жарить	X (жарить) Y	paistaa	NOM	GEN~NOM	TR	TR							
+66	Finnish	26	eat	X (eat) Y	есть	X (есть) Y	syödä	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	27	fry	X (fry) Y	жарить	X (жарить) Y	paistaa	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	odottaa	NOM	PART	Y	NOM_PART							
-66	Finnish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	unohtaa	NOM	GEN~NOM	TR	TR							
+66	Finnish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	unohtaa	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	riippua	NOM	ELA	Y	NOM_ELA							
 66	Finnish	31	call	X (call) Y	звать	X (звать) Y-а	kutsua	NOM	PART	Y	NOM_PART							Этот глагол может использоваться и в модели TR: 1) если тот, кого звали точно приешл (в использованном предложении с PART это не обязательно так), 2) если речь идет о звонке по телефону.
 66	Finnish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	tutustua	NOM	ILL	Y	NOM_ILL							
-66	Finnish	33	know	X (know) Y	знать 	X (знать) Y-а	tuntea 	NOM	GEN~NOM	TR	TR							
-66	Finnish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	soittaa 	NOM	PART	Y	NOM_PART							"CAUS. (скорее всего, от ""звучать"", см. файл)."
+66	Finnish	33	know	X (know) Y	знать 	X (знать) Y-а	tuntea 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	soittaa 	NOM	PART	Y	NOM_PART							CAUS. (скорее всего, от "звучать", см. файл).
 66	Finnish	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	vältellä	NOM	PART	Y	NOM_PART							В этом глаголе есть показатель FREQ. Возможен глагол и без этого суффикса, välttää, та же модель
-66	Finnish	36	make	X (make) Y	изготовить	X (изготовить) Y	tehdä	NOM	GEN~NOM	TR	TR							
+66	Finnish	36	make	X (make) Y	изготовить	X (изготовить) Y	tehdä	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	pilkata	NOM	PART	Y	NOM_PART							
-66	Finnish	38	have	X (have) Y	иметь	X (иметь) Y	olla	ADE	NOM	X	ADE_NOM							"Букв. ""быть"", то же, что 2"
+66	Finnish	38	have	X (have) Y	иметь	X (иметь) Y	olla	ADE	NOM	X	ADE_NOM							Букв. "быть", то же, что 2
 66	Finnish	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	etsiä	NOM	PART	Y	NOM_PART							
-66	Finnish	40	paint	X (paint) Y	красить	X (красить) Y	maalata	NOM	GEN~NOM	TR	TR							
+66	Finnish	40	paint	X (paint) Y	красить	X (красить) Y	maalata	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	41	bite	X (bite) Y	кусать	X (кусать) Y-а	purra	NOM	PART	Y	NOM_PART							
-66	Finnish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	menettää	NOM	GEN~NOM	TR	TR							CAUS
-66	Finnish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	yrittää saada … kiinni	*	*	*								"Только ""пытается поймать"""
-66	Finnish	44	break	X (break) Y	ломать	X (ломать) Y	katkoa	NOM	GEN~NOM	TR	TR							Второй вариант katkaista, тоже TR
+66	Finnish	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	menettää	NOM	GEN~PART~NOM	TR	TR							CAUS
+66	Finnish	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	yrittää saada … kiinni	*	*	*								Только "пытается поймать"
+66	Finnish	44	break	X (break) Y	ломать	X (ломать) Y	katkoa	NOM	GEN~PART~NOM	TR	TR							Второй вариант katkaista, тоже TR
 66	Finnish	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	imarella	NOM	PART	Y	NOM_PART							
 66	Finnish	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	rakastaa	NOM	PART	Y	NOM_PART							Тот же глагол, но другая модель управления, чем 113 (влюбиться)
 66	Finnish	47	wave	X (wave) Y	махать	X (махать) Y-ом	huiskuttaa	NOM	PART	Y	NOM_PART							CAUS
 66	Finnish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	haaveilla	NOM	ELA	Y	NOM_ELA							
-66	Finnish	49	wash	X (wash) Y	мыть	X (мыть) Y	pestä	NOM	GEN~NOM	TR	TR							
-66	Finnish	50	put_on	X (put_on) Y	надевать	X (надевать) Y	pukea ylleen	NOM	GEN~NOM	TR	TR							"CV (""надеть + на.себя"")"
-66	Finnish	51	be_called	X (be_called) Y	называться	X (называться) Y	kutsua (PASS.IMPERS)	PART	TRANS	XY	PART_TRANS							"Это пассив от глагола ""звать"" (31). Вариант: имя этого предмета -- компас"
+66	Finnish	49	wash	X (wash) Y	мыть	X (мыть) Y	pestä	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	50	put_on	X (put_on) Y	надевать	X (надевать) Y	pukea ylleen	NOM	GEN~PART~NOM	TR	TR							CV ("надеть + на.себя")
+66	Finnish	51	be_called	X (be_called) Y	называться	X (называться) Y	kutsua (PASS.IMPERS)	PART	TRANS	XY	PART_TRANS							Это пассив от глагола "звать" (31). Вариант: имя этого предмета -- компас
 66	Finnish	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	rangaista 	NOM	PART	Y	NOM_PART							
-66	Finnish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	hyökätä 	NOM	GENkimppuun	Y	NOM_GENkimppuun							"kimppuun -- это очень специфический послелог, встречаться почти исключительно при глаголах нападедния (синоним käydä), глоссируется ""bundle+ILL(+POSS)"""
+66	Finnish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	hyökätä 	NOM	GENkimppuun	Y	NOM_GENkimppuun							kimppuun -- это очень специфический послелог, встречаться почти исключительно при глаголах нападедния (синоним käydä), глоссируется "bundle+ILL(+POSS)"
 66	Finnish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	täyttyä 	NOM	ADE	Y	NOM_ADE							
-66	Finnish	55	find	X (find) Y	находить	X (находить) Y(-а)	löytää	NOM	GEN~NOM	TR	TR							
+66	Finnish	55	find	X (find) Y	находить	X (находить) Y(-а)	löytää	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	puuttua	ABL	NOM	X	ABL_NOM							Вариант: тот же глагол, но ABL + PART
 66	Finnish	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	vihata 	NOM	PART	Y	NOM_PART							
 66	Finnish	58	like	X (like) Y	нравиться	X-у (нравиться) Y	pitää 	NOM	ELA	Y	NOM_ELA							Тот же глагол, что 119 (любить), 18 (держать)
@@ -61,68 +61,68 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 66	Finnish	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	ympäröidä 	NOM	PART	Y	NOM_PART							
 66	Finnish	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	jäädä 	ALL	NOM	X	ALL_NOM							Вариант: тот же глагол, но ALL + PART
 66	Finnish	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	vastata	NOM	ALL	Y	NOM_ALL							
-66	Finnish	63	open	X (open) Y	открывать	X (открывать) Y	avata	NOM	GEN~NOM	TR	TR							
+66	Finnish	63	open	X (open) Y	открывать	X (открывать) Y	avata	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	erilainen	NOM	kuinNOM	Y	NOM_kuinNOM							NV
-66	Finnish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	jäädä jälkeen	NOM	ELA	Y	NOM_ELA							"CV. ""оставаться (= 61) сзади"""
+66	Finnish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	jäädä jälkeen	NOM	ELA	Y	NOM_ELA							CV. "оставаться (= 61) сзади"
 66	Finnish	66	plough	X (plough) Y	пахать	X (пахать) Y	kyntää 	NOM	PART	Y	NOM_PART							Записываю NOM + PART, потому что стимул был НСВ (НАСТ) по-русски. При СВ ПРОШ было бы TR
 66	Finnish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	haista 	NOM	ABL	Y	NOM_ABL							Есть еще вариант NOM + ALL, сложная конкуренция, обсуждается в файле с анкетой.
-66	Finnish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	ylittää 	NOM	GEN~NOM	TR	TR							
-66	Finnish	69	sing	X (sing) Y	петь	X (петь) Y	laulaa 	NOM	GEN~NOM	TR	TR							
-66	Finnish	70	write	X (write) Y	писать	X (писать) Y	kirjoittaa 	NOM	GEN~NOM	TR	TR							
-66	Finnish	71	drink	X (drink) Y	пить	X (пить) Y	juoda 	NOM	GEN~NOM	TR	TR							
-66	Finnish	72	melt	X (melt) Y	плавить	X (плавить) Y	sulattaa 	NOM	GEN~NOM	TR	TR							CAUS
+66	Finnish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	ylittää 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	69	sing	X (sing) Y	петь	X (петь) Y	laulaa 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	70	write	X (write) Y	писать	X (писать) Y	kirjoittaa 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	71	drink	X (drink) Y	пить	X (пить) Y	juoda 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	72	melt	X (melt) Y	плавить	X (плавить) Y	sulattaa 	NOM	GEN~PART~NOM	TR	TR							CAUS
 66	Finnish	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	sopia 	NOM	ILL	Y	NOM_ILL							
 66	Finnish	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	lähteä 	NOM	ELA	Y	NOM_ELA							
-66	Finnish	75	cover	X (cover) Y	покрывать	X (покрывать) Y	peittää 	NOM	GEN~NOM	TR	TR							
-66	Finnish	76	remember	X (remember) Y	помнить	X (помнить) Y-а	muistaa 	NOM	GEN~NOM	TR	TR							
+66	Finnish	75	cover	X (cover) Y	покрывать	X (покрывать) Y	peittää 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	76	remember	X (remember) Y	помнить	X (помнить) Y-а	muistaa 	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	77	help	X (help) Y	помочь	X (помогать) Y-у	auttaa 	NOM	PART	Y	NOM_PART							
 66	Finnish	78	understand	X (understand) Y	понимать	X (понимать) Y	ymmärtää 	NOM	PART	Y	NOM_PART							
 66	Finnish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	osua 	NOM	ILL	Y	NOM_ILL							
-66	Finnish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	tehdä itselleen (itse-ALL-POSS) haava-GEN	NOM	ADE	Y	NOM_ADE							"CV. ""do (=36) a cut to oneself""; второй вариант тоже CV ""get … (a) cut"": NOM + ELA"
+66	Finnish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	tehdä itselleen (itse-ALL-POSS) haava-GEN	NOM	ADE	Y	NOM_ADE							CV. "do (=36) a cut to oneself"; второй вариант тоже CV "get … (a) cut": NOM + ELA
 66	Finnish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	juuttua 	NOM	ILL	Y	NOM_ILL							Синонимы с той же моделью управления: liimautua, tarttua 
 66	Finnish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	hävitä	NOM	ALL	Y	NOM_ALL							
 66	Finnish	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	iloinen	NOM	ELA	Y	NOM_ELA							NV
 66	Finnish	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	puhua	NOM	GENkanssa	Y	NOM_GENkanssa							Тот же глагол может использоваться и в модели NOM + ALL
-66	Finnish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	synnyttää	NOM	GEN~NOM	TR	TR							CAUS
-66	Finnish	86	drop	X (drop) Y	ронять	X (ронять) Y	pudottaa	NOM	GEN~NOM	TR	TR							CAUS
+66	Finnish	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	synnyttää	NOM	GEN~PART~NOM	TR	TR							CAUS
+66	Finnish	86	drop	X (drop) Y	ронять	X (ронять) Y	pudottaa	NOM	GEN~PART~NOM	TR	TR							CAUS
 66	Finnish	87	govern	X (govern) Y	руководить	X (руководить) Y	johtaa	NOM	PART	Y	NOM_PART							
 66	Finnish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	ikävä	NOM	PART	Y	NOM_PART							NV (ADJ). Вариант: глагольный предикат ikävöidä, та же модель управления
 66	Finnish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	seurata	NOM	PART	Y	NOM_PART							
-66	Finnish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	laskeutua	NOM	ELA	Y	NOM_ELA							"На самом деле этот глагол допускает две модели: NOM + ABL; NOM + ELA. Они лексически распределены относительно объекта, с которого спускаются. При этом конкретно с лошадью говорят (идиоматически) буквально ""слез со спины (ELA) лошади"". На этом основании из двух основных вариантов я выбираю ELA."
+66	Finnish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	laskeutua	NOM	ELA	Y	NOM_ELA							На самом деле этот глагол допускает две модели: NOM + ABL; NOM + ELA. Они лексически распределены относительно объекта, с которого спускаются. При этом конкретно с лошадью говорят (идиоматически) буквально "слез со спины (ELA) лошади". На этом основании из двух основных вариантов я выбираю ELA.
 66	Finnish	91	listen	X (listen) to Y	слушать	X (слушать) Y	kuunnella 	NOM	PART	Y	NOM_PART							
 66	Finnish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	totella 	NOM	PART	Y	NOM_PART							
-66	Finnish	93	hear	X (hear) Y	слышать	X (слышать) Y	kuulla 	NOM	PART	Y	NOM_PART							"Возможен и TR, используется если ""музыка"" определенная, беру такой вариант, как будто музыка не упоминалась до этого"
+66	Finnish	93	hear	X (hear) Y	слышать	X (слышать) Y	kuulla 	NOM	PART	Y	NOM_PART							Возможен и TR, используется если "музыка" определенная, беру такой вариант, как будто музыка не упоминалась до этого
 66	Finnish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	sekoittua 	NOM	ILL	Y	NOM_ILL							
 66	Finnish	95	look	X (look) at Y	смотреть	X (смотреть) на Y	katsoa 	NOM	PART	Y	NOM_PART							
-66	Finnish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	riisua 	NOM	GEN~NOM	TR	TR							
-66	Finnish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nähdä unta 	NOM	ELA	Y	NOM_ELA							"CV: ""see dream (tr.)"""
-66	Finnish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	samaa mieltä 	NOM	GENkanssa	Y	NOM_GENkanssa							"NV: ""(be) of the same mind (PART)"""
+66	Finnish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	riisua 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nähdä unta 	NOM	ELA	Y	NOM_ELA							CV: "see dream (tr.)"
+66	Finnish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	samaa mieltä 	NOM	GENkanssa	Y	NOM_GENkanssa							NV: "(be) of the same mind (PART)"
 66	Finnish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	riidellä	NOM	GENkanssa	Y	NOM_GENkanssa							
-66	Finnish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	maksaa	NOM	GEN~NOM	TR	TR							
+66	Finnish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	maksaa	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	ampua	NOM	PART	Y	NOM_PART							
-66	Finnish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	kaataa	NOM	GEN~NOM	TR	TR							
-66	Finnish	103	lose	X (lose) Y	терять	X (терять) Y	hukata	NOM	GEN~NOM	TR	TR							
+66	Finnish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	kaataa	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	103	lose	X (lose) Y	терять	X (терять) Y	hukata	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	upota 	NOM	ILL	Y	NOM_ILL							
-66	Finnish	105	kill	X (kill) Y	убивать	X (убивать) Y-а	tappaa	NOM	GEN~NOM	TR	TR							
+66	Finnish	105	kill	X (kill) Y	убивать	X (убивать) Y-а	tappaa	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	106	hit	X (hit) Y	ударить	X (ударять) Y-а	lyödä	NOM	PART	Y	NOM_PART							
 66	Finnish	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	suudella	NOM	PART	Y	NOM_PART							
-66	Finnish	108	read	X (read) Y	читать	X (читать) Y-а	lukea	NOM	GEN~NOM	TR	TR							
+66	Finnish	108	read	X (read) Y	читать	X (читать) Y-а	lukea	NOM	GEN~PART~NOM	TR	TR							
 66	Finnish	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	liikuttaa 	NOM	PART	Y	NOM_PART							CAUS
 66	Finnish	110	respect	X (respect) Y	уважать	X (уважать) Y-а	kunnioittaa 	NOM	PART	Y	NOM_PART							
 66	Finnish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	karsastaa 	NOM	PART	Y	NOM_PART							Ксюша не уверена, что это хороший перевод
 66	Finnish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	tyytyväinen	NOM	ILL	Y	NOM_ILL							NV
 66	Finnish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	rakastua 	NOM	ILL	Y	NOM_ILL							Связан деривационными отношениями с глаголом 46 (любить-1), , но другая модель. Это не вполне продуктивная деривация, см. комментарий в файле.
 66	Finnish	114	trust	X (trust) Y	доверять	X (доверять) Y-у	luottaa 	NOM	ILL	Y	NOM_ILL							
-66	Finnish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sääliä 	NOM	PART	Y	NOM_PART							"Есть альтернатива (tuntea myötätuntoа), CV, ""feels sympathy"", модель NOM + PARTkohtaan (towards)"
+66	Finnish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sääliä 	NOM	PART	Y	NOM_PART							Есть альтернатива (tuntea myötätuntoа), CV, "feels sympathy", модель NOM + PARTkohtaan (towards)
 66	Finnish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	kadehtia 	NOM	PART	Y	NOM_PART							
 66	Finnish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	vihainen 	NOM	ALL	Y	NOM_ALL							NV
 66	Finnish	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	yllättyä	NOM	ELA	Y	NOM_ELA							
-66	Finnish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	pitää 	NOM	ELA	Y	NOM_ELA							"Тот же глагол, что 58 (нравиться), и 18 (держать). Есть еще вариант rakastaa (NOM + PART), то же, что 47, но хотя он и предложен первым, ""*The verb rakastaa is sometimes said to be too emphatic with inanimate objects."". Беру другой в итое"
-66	Finnish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	nauttia 	NOM	PART	Y	NOM_PART							"В принципе этот глагол имеет модель NOM + ELA (наслаждаться солнцем, каникулами), но именно в контексте еды / питья ""With a partitive object denoting food or drinks, the verb nauttia means ‘eat/drink and enjoy’"", ровно то, что заложено в анкете -- я это и беру."
-66	Finnish	121	want	X (want) Y	хотеть	X (хотеть) Y-а	haluta 	NOM	GEN~NOM	TR	TR							
-66	Finnish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	kantaa kaulaa 	NOM	ALL	Y	NOM_ALL							"CV ""bear grudge"" (NOM + PART)"
+66	Finnish	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	pitää 	NOM	ELA	Y	NOM_ELA							Тот же глагол, что 58 (нравиться), и 18 (держать). Есть еще вариант rakastaa (NOM + PART), то же, что 47, но хотя он и предложен первым, "*The verb rakastaa is sometimes said to be too emphatic with inanimate objects.". Беру другой в итое
+66	Finnish	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	nauttia 	NOM	PART	Y	NOM_PART							В принципе этот глагол имеет модель NOM + ELA (наслаждаться солнцем, каникулами), но именно в контексте еды / питья "With a partitive object denoting food or drinks, the verb nauttia means ‘eat/drink and enjoy’", ровно то, что заложено в анкете -- я это и беру.
+66	Finnish	121	want	X (want) Y	хотеть	X (хотеть) Y-а	haluta 	NOM	GEN~PART~NOM	TR	TR							
+66	Finnish	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	kantaa kaulaa 	NOM	ALL	Y	NOM_ALL							CV "bear grudge" (NOM + PART)
 66	Finnish	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	loukkaantua 	NOM	ALL	Y	NOM_ALL							
-66	Finnish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	suututtaa 	NOM	GEN~NOM	TR	TR							"CAUS от ""огорчаться"" (127). Синоним pahastuttaa, та же модель. Есть еще глагол pahoittaa, его прямое дополнение -- mind кого-то, кого огорчают"
+66	Finnish	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	suututtaa 	NOM	GEN~PART~NOM	TR	TR							CAUS от "огорчаться" (127). Синоним pahastuttaa, та же модель. Есть еще глагол pahoittaa, его прямое дополнение -- mind кого-то, кого огорчают
 66	Finnish	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	hämmästyä 	NOM	ELA	Y	NOM_ELA							Как второй и третий варианты предложены hämmästellä, ihastella  (модель NOM + PART)
 66	Finnish	126	despise	X (despise) Y	презирать	X (презирать) Y-а	halveksia	NOM	PART	Y	NOM_PART							
 66	Finnish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	suuttua 	NOM	ALL	Y	NOM_ALL							
