@@ -8,7 +8,7 @@ Shagal, Ksenia & Alena Blinova (under review). Bivalent verb classes in Skolt Sa
 
 Blinova, Alena & Ksenia Shagal (under review). Dvuxmestnye predikaty v saamskix jazykax v areal'noj perspektive [Bivalent verb classes in Saami languages from an areal perspective]. (in Russian)
 
-Say, S. S. 2020. [Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya](https://alp.iling.spb.ru/static/alp_XVI_2.pdf) [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 2. 654-689. (in Russian)
+Say, S. S. 2020. [Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya](https://bivaltyp.info/docs/Say_2020_Markirovanie.pdf) [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 2. 654-689. (in Russian)
 
 Kholodilova, M. A. 2018. Morfologija imeni [(Moksha Mordvin) nominal morphology]. S. Ju. Toldova, M. A. Kholodilova (eds.). *Èlementy mokšanskogo jazyka v tipologičeskom osveščenii*. Moscow: Buki Vedi. 63–121. (in Russian) (see especially section 5.2.5.2)
 
