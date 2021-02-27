@@ -36,19 +36,19 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 35	осетинский	Ossetic	Ossetic	Арсений Павлович Выдрин		Arseniy Vydrin					West Asia and the Caucasus	Indo-European	Iranian	42.98	44.61	9	рабочие материалы		osse1243	
 36	сербский	Serbian	Serbian	Анастасия Леонидовна Макарова		Anastasia Makarova					Europe	Indo-European	Slavic	44.32	21.92	6	WALS (в раб. материалах и в википедии различают датив и местный, но они всегда совпадают)		serb1264	In Glottolog, this is Serbian Standard
 37	чукотский	Chukchi	Chukchi	Мария Юрьевна Пупынина		Maria Pupynina					North and Central Asia	Chukotko-Kamchatkan	Northern Chukotko-Kamchatkan	68.64	170.04	13	Dunn 1999: 99 via Pupynina 2018		chuk1273	
-38	норвежский (букмол)	Norwegian_Bokmal	Norwegian Bokmål	Мария Нордрум, Ольга Васильевна Кузнецова	Maria Nordrum	Maria Nordrum, Olga Kuznecova	Maria Nordrum	2013, 2020	February 12, 2021	February 12, 2021	Europe	Indo-European	Germanic	61.11	8.89	0	wikipedia	Russian	norw1259	
+38	норвежский (букмол)	Norwegian_Bokmal	Norwegian Bokmål	Мария Нордрум, Ольга Васильевна Кузнецова	Maria Nordrum	Maria Nordrum, Olga Kuznecova	Maria Nordrum	2013, 2020	February 12, 2021	February 22, 2021	Europe	Indo-European	Germanic	61.11	8.89	0	wikipedia	Russian	norw1259	
 39	румынский	Romanian	Romanian	Дарья Владимировна Суетина (Конёр)		Daria Suetina (Konior)					Europe	Indo-European	Romance	46.39	24.23	2	рабочие материалы (в моей реинтерпретации)		roma1327	
 40	ингушский	Ingush	Ingush	Джоханна Николс		Johanna Nichols					West Asia and the Caucasus	Nakh-Daghestanian	Nakh	43.11	45.03	8	Nichols 2011: 127		ingu1240	
 41	украинский	Ukrainian	Ukrainian	Наталья Михайловна Заика		Natalia Zaika					Europe	Indo-European	Slavic	49.8	29.95	7	википедия		ukra1253	
 42	коми-пермяцкий	Komi_Permyak	Komi-Permyak	Екатерина Николаевна Сергеева, Галина Александровна Некрасова		Ekaterina Sergeeva, Galina Nekrasova					Europe	Uralic	Permic	59.66	54.8	23	Nekrasova, Sergeeva 2018: 356		komi1269	
 43	эрзянский	Erzya	Erzya	Ксения Андреевна Шагал		Ksenia Shagal					Europe	Uralic	Mordvin	54.26	46.18	12	Wikipedia		erzy1239	
 44	грузинский	Georgian	Georgian	Александр Александрович Ростовцев-Попель		Alexander Rostovtsev-Popiel					West Asia and the Caucasus	Kartvelian	Kartvelian	41.85	43.79	7	Wikipedia		nucl1302	
-45	нанайский	Nanai	Nanai	Дарья Федоровна Мищенко		Daria Mishchenko					North and Central Asia	Altaic	Tungusic	48.43	134.8	8	Mishchenko materials		nana1257	
+45	нанайский	Nanai	Nanai	Дарья Федоровна Мищенко		Daria Mishchenko		2013	February 28, 2021	February 28, 2021	North and Central Asia	Altaic	Tungusic	48.43	134.8	9	Mishchenko materials	Russian	nana1257	
 46	лесной энецкий	Enets_Forest	Forest Enets	Мария Александровна Овсянникова		Maria Ovsjannikova	not shown	2015-2016	November 3, 2020	November 3, 2020	North and Central Asia	Uralic	Samoyedic	68.7	86.3	6	Maria Ovsjannikova, p.c.	Russian	fore1265	
 47	мандинка	Mandinka	Mandinka	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Mande	Western Mande	13.15	-14.07	0	Creissels, p.c.		mand1436	
 48	диола-фоньи	Joola_Fonyi	Joola-Fonyi	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Bak	Northen Atlantic	12.76	-15.74	0	WALS		jola1263	In Glottolog, this language is referred to as Jola-Fonyi
 49	сонинке	Soninke	Soninke	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Mande	Western Mande	13.13	-11.72	0	Creissels, p.c.		soni1259	
-50	турецкий	Turkish	Turkish	Мария Александровна Овсянникова		Maria Ovsjannikova	Enes Taştan	2016	November 29, 2020	November 29, 2020	West Asia and the Caucasus	Altaic	Turkic	39.87	32.87	6	wikipedia	Russian	nucl1301	
+50	турецкий	Turkish	Turkish	Мария Александровна Овсянникова		Maria Ovsjannikova	Enes Taştan	2016	November 29, 2020	February 12, 2021	West Asia and the Caucasus	Altaic	Turkic	39.87	32.87	6	wikipedia	Russian	nucl1301	
 51	якутский	Yakut	Yakut	Айталина Петровна Ноговицына		Ajtalina Nogovitsyna					North and Central Asia	Altaic	Turkic	61.7	133.98	8	Nogovitsyna, materials (ref. Xaritonov)		yaku1245	
 52	бурятский	Buriat	Buriat	Александра Викторовна Азаргаева		Aleksandra Azargaeva					North and Central Asia	Altaic	Mongolic	50.85	105.56	7	Azargaeva, materials		buri1258	
 53	венгерский	Hungarian	Hungarian	Василиса Романовна Жигульская		Vasilisa Zhigulskaja					Europe	Uralic	Ugric	46.91	19.66	21	Zhigulskaja, materials		hung1274	
@@ -59,7 +59,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 58	гасконский	Gascon	Gascon	Наталья Михайловна Заика		Natalia Zaika					Europe	Indo-European	Romance	44	2	0	сам (на основе рабочих материалов)		occi1239	In Glottolog, Gascon is treated as a variety of Occitan (occi1239)
 59	горномарийский	Mari_Western	Western Mari	Ксения Андреевна Студеникина		Ksenia Studenikina					Europe	Uralic	Mari	56.32	46.57	10	Егор Кашкин		west2392	
 60	абазинский	Abaza	Abaza	Петр Михайлович Аркадьев		Peter Arkadiev		2017	January 08, 2021	January 21, 2021	West Asia and the Caucasus	Northwest Caucasian	Northwest Caucasian	44.25	42	0	Общие знания, анкета	Russian	abaz1241	
-61	словенский	Slovenian	Slovenian	Андрея Желе, Младен Ухлик		Andreja Žele, Mladen Uhlik		2017, 2021	January 21, 2021	January 23, 2021	Europe	Indo-European	Slavic	46.25	14.78	6		Russian	slov1268	
+61	словенский	Slovenian	Slovenian	Андрея Желе, Младен Ухлик		Andreja Žele, Mladen Uhlik		2017, 2021	January 21, 2021	February 12, 2021	Europe	Indo-European	Slavic	46.25	14.78	6		Russian	slov1268	
 62	латынь	Latin	Latin	Инна Дмитриевна Попова		Inna Popova					Europe	Indo-European	Romance*	41.9	12.45	6	Географическое положение: поставил я, чтобы не совпадало с итальянским; примерно центр весов современных романских языков. О падежах: общие сведения, википедия		lati1261	
 63	чешский	Czech	Czech	Анастасия Борисовна Макарова		Anastasia Makarova					Europe	Indo-European	Slavic	49.87	15.1	7	Общие сведения, википедия		czec1258	
 64	исландский	Icelandic	Icelandic	Ингунн Хрейнберг		Ingunn Hreinberg Indriðadóttir		2017			Europe	Indo-European	Germanic	63.48	-19.02	4	Анкета		icel1247	
@@ -81,6 +81,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 80	колтта-саамский	Saami_Skolt	Skolt Saami	Алена Алексеевна Блинова, Ксения Андреевна Шагал, Тимоти Фейст		Alena Blinova, Ksenia Shagal, Timothy Feist	not shown	2018-2020	August 23, 2020	August 23, 2020	Europe	Uralic	Saami	69.52	28.63	9	Грамматика Feist (он же собирал данные)	English	skol1241	
 81	агульский	Aghul	Aghul	Тимур Анатольевич Майсак, Солмаз Рамадановна Мерданова	Солмаз Рамадановна Мерданова	Timur Maisak, Solmaz Merdanova	Solmaz Merdanova	2018	September 9, 2020	November 15, 2020	West Asia and the Caucasus	Nakh-Daghestanian	Lezgic	41.7	47.68	26	Справка, подготовленная Тимуром Майсаком	Russian	aghu1253	
 82	южносаамский	Saami_South	South Saami	Рикард Ковалик, Ксения Андреевна Шагал		Richard Kowalik, Ksenia Shagal		2018-2020			Europe	Uralic	Saami	62.88	13.7	8	Wikipedia, Рихард Ковалик		sout2674	
-83	иврит	Hebrew_Modern	Modern Hebrew	Дмитрий Сергеевич Николаев	Халели Хар-Эль	Dmitry Nikolaev	Haleli Harel	2020	July 17, 2020	July 17, 2020	West Asia and the Caucasus	Afro-Asiatic	Semitic	31.11	35.02	0	Dmitry Nikolaev	English	hebr1245	
+83	иврит	Hebrew_Modern	Modern Hebrew	Дмитрий Сергеевич Николаев	Халели Хар-Эль	Dmitry Nikolaev	Haleli Harel	2020	July 17, 2020	February 12, 2021	West Asia and the Caucasus	Afro-Asiatic	Semitic	31.11	35.02	0	Dmitry Nikolaev	English	hebr1245	
 84	шведский	Swedish	Swedish	Ксения Андреевна Шагал, Эмиль Ингельстен, Давид Авеллан-Хултман		Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman		2020			Europe	Indo-European	Germanic	59.8	17.39	0	wikipedia		swed1254	
 85	андийский (зиловский)	Andi_Zilo	Zilo Andi	Неж Рошан		Neige Rochant	not shown	2018-2019	August 4, 2020	November 15, 2020	West Asia and the Caucasus	Nakh-Daghestanian	Avar-Andic-Tsezic	42.81	46.29	21	Neige Rochant, p.c.	Russian	zilo1248	
+86	ульчский	Ulcha	Ulcha	Наталья Марковна Стойнова		Natalia Stoynova		2017			North and Central Asia	Altaic	Tungusic	51.85	140.29	8	Natalia Stoynova	Russian	ulch1241	
