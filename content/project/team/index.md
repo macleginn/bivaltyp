@@ -61,7 +61,7 @@ Mislav Benić: {{ language:Croatian }}
 Sandra Birzer: {{ language:German }}  
 Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}  
 Nadezhda Bulatova: {{ language:Evenki }}  
-Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, Soninke]{{ language:Soninke }}  
+Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, {{ language:Soninke }}  
 Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul }}  
 Varvara Diveeva: {{ language:Albanian }}  
 Sergey Dmitrenko: {{ language:Khmer }}  
