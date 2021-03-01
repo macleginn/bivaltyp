@@ -110,6 +110,7 @@ Ekaterina Sergeeva, Galina Nekrasova: {{ language:Komi_Permyak }}
 Ksenia Shagal: {{ language:Erzya }}, {{ language:Finnish }}, {{ language:Udmurt }}  
 Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman: {{ language:Swedish }}  
 Mayya Shlyakhter: {{ language:Bengali }}  
+Natalia Stoynova: {{ language:Ulcha }}  
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Daria Suetina (Konior): {{ language:Romanian }}  
 Evgenija Teplukhina: {{ language:Azerbaijani }}  
