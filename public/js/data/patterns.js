@@ -89,7 +89,6 @@ const patternsData = [
     "Udihe",
     "Udmurt",
     "Ukrainian",
-    "Ulcha",
     "Yakut"
   ],
   [
@@ -182,7 +181,6 @@ const patternsData = [
     "POSS_NOM",
     "GEN_NOM",
     "uGEN_NOM",
-    "",
     "POSS_NOM"
   ],
   [
@@ -275,7 +273,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_naACC",
-    "",
     "NOM_INS"
   ],
   [
@@ -368,7 +365,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_ABL",
     "NOM_GEN",
-    "",
     "NOM_ABL"
   ],
   [
@@ -461,7 +457,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -554,7 +549,6 @@ const patternsData = [
     "NOM_INS",
     "GEN_NOM",
     "DAT_GEN",
-    "",
     "DAT_NOM"
   ],
   [
@@ -647,7 +641,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_DAT",
     "NOM_naACC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -740,7 +733,6 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -833,7 +825,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -926,7 +917,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -1019,7 +1009,6 @@ const patternsData = [
     "",
     "NOM_NOMvyle",
     "NOM_naACC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -1112,7 +1101,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "TR"
   ],
   [
@@ -1205,7 +1193,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_ILL",
     "NOM_doGEN",
-    "",
     "NOM_DAT"
   ],
   [
@@ -1298,7 +1285,6 @@ const patternsData = [
     "TR",
     "TR",
     "NOM_uGEN",
-    "",
     "TR"
   ],
   [
@@ -1391,7 +1377,6 @@ const patternsData = [
     "NOM_ABL",
     "NOM_ELA",
     "NOM_zGEN",
-    "",
     "NOM_ABL"
   ],
   [
@@ -1484,7 +1469,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -1577,7 +1561,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -1670,7 +1653,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -1763,7 +1745,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -1856,7 +1837,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -1949,7 +1929,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -2042,7 +2021,6 @@ const patternsData = [
     "NOM_LOC",
     "NOM_TERM",
     "NOM_GEN",
-    "",
     "NOM_DAT"
   ],
   [
@@ -2135,7 +2113,6 @@ const patternsData = [
     "NOM_LOC",
     "NOM_NOMbordy",
     "NOM_doGEN",
-    "",
     "TR"
   ],
   [
@@ -2228,7 +2205,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "NOM_COM"
   ],
   [
@@ -2321,7 +2297,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "NOM_COM"
   ],
   [
@@ -2414,7 +2389,6 @@ const patternsData = [
     "TR",
     "NOM_NOMsjarys",
     "NOM_proACC",
-    "",
     "NOM_tuhunan "
   ],
   [
@@ -2507,7 +2481,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -2600,7 +2573,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -2693,7 +2665,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -2786,7 +2757,6 @@ const patternsData = [
     "TR",
     "NOM_NOMsjarys",
     "NOM_proACC",
-    "",
     "NOM_tuhunan "
   ],
   [
@@ -2879,7 +2849,6 @@ const patternsData = [
     "",
     "NOM_ABL",
     "NOM_vidGEN",
-    "",
     "NOM_ABL"
   ],
   [
@@ -2972,7 +2941,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -3065,7 +3033,6 @@ const patternsData = [
     "",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "NOM_COM"
   ],
   [
@@ -3158,7 +3125,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -3251,7 +3217,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_naLOC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -3344,7 +3309,6 @@ const patternsData = [
     "NOM_ABL",
     "NOM_ABL",
     "NOM_GEN",
-    "",
     "TR"
   ],
   [
@@ -3437,7 +3401,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -3530,7 +3493,6 @@ const patternsData = [
     "TR",
     "",
     "NOM_zGEN",
-    "",
     "TR"
   ],
   [
@@ -3623,7 +3585,6 @@ const patternsData = [
     "NOM_ORN",
     "GEN_NOM",
     "uGEN_NOM",
-    "",
     "NOM_ADJ"
   ],
   [
@@ -3716,7 +3677,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -3809,7 +3769,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -3902,7 +3861,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -3995,7 +3953,6 @@ const patternsData = [
     "",
     "NOM_ABE",
     "TR",
-    "",
     ""
   ],
   [
@@ -4088,7 +4045,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     ""
   ],
   [
@@ -4181,7 +4137,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -4274,7 +4229,6 @@ const patternsData = [
     "",
     "",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -4367,7 +4321,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -4460,7 +4413,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
-    "",
     "NOM_INS"
   ],
   [
@@ -4553,7 +4505,6 @@ const patternsData = [
     "",
     "NOM_NOMsjarys",
     "NOM_proACC",
-    "",
     ""
   ],
   [
@@ -4646,7 +4597,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -4739,7 +4689,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -4832,7 +4781,6 @@ const patternsData = [
     "",
     "NOM_NOM",
     "NOM_NOM",
-    "",
     "NOM_NOM"
   ],
   [
@@ -4925,7 +4873,6 @@ const patternsData = [
     "",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -5018,7 +4965,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_NOMvyle",
     "NOM_naACC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -5111,7 +5057,6 @@ const patternsData = [
     "ACC_NOM",
     "NOM_INS",
     "NOM_INS",
-    "",
     "NOM_INS"
   ],
   [
@@ -5204,7 +5149,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -5297,7 +5241,6 @@ const patternsData = [
     "DAT_NOM",
     "GEN_NOM",
     "DAT_GEN",
-    "",
     "DAT_NOM"
   ],
   [
@@ -5390,7 +5333,6 @@ const patternsData = [
     "TR",
     "GEN_ACC",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -5483,7 +5425,6 @@ const patternsData = [
     "TR",
     "DAT_NOM",
     "DAT_NOM",
-    "",
     "TR"
   ],
   [
@@ -5576,7 +5517,6 @@ const patternsData = [
     "NOM_INS",
     "DAT_NOM",
     "DAT_NOM",
-    "",
     "NOM_DAT"
   ],
   [
@@ -5669,7 +5609,6 @@ const patternsData = [
     "",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -5762,7 +5701,6 @@ const patternsData = [
     "DAT_NOM",
     "GEN_NOM",
     "uGEN_NOM",
-    "",
     "DAT_NOM"
   ],
   [
@@ -5855,7 +5793,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -5948,7 +5885,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -6041,7 +5977,6 @@ const patternsData = [
     "NOM_ABL",
     "NOM_ABL",
     "NOM_vidGEN",
-    "",
     "NOM_ABL"
   ],
   [
@@ -6134,7 +6069,6 @@ const patternsData = [
     "NOM_ABL",
     "NOM_ABL",
     "NOM_vidGEN",
-    "",
     "NOM_ABL"
   ],
   [
@@ -6227,7 +6161,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -6320,7 +6253,6 @@ const patternsData = [
     "",
     "NOM_NOM",
     "NOM_INS",
-    "",
     "NOM_NOM"
   ],
   [
@@ -6413,7 +6345,6 @@ const patternsData = [
     "TR",
     "NOM_NOMvamen",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -6506,7 +6437,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -6599,7 +6529,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -6692,7 +6621,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -6785,7 +6713,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -6878,7 +6805,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_DAT",
     "NOM_doGEN",
-    "",
     "NOM_DAT"
   ],
   [
@@ -6971,7 +6897,6 @@ const patternsData = [
     "TR",
     "NOM_ELA",
     "TR",
-    "",
     "NOM_ABL"
   ],
   [
@@ -7064,7 +6989,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -7157,7 +7081,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -7250,7 +7173,6 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -7343,7 +7265,6 @@ const patternsData = [
     "TR",
     "NOM_NOMsjamen",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -7436,7 +7357,6 @@ const patternsData = [
     "NOM_DAT",
     "NOM_ILL",
     "NOM_vACC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -7529,7 +7449,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
-    "",
     "NOM_INS"
   ],
   [
@@ -7622,7 +7541,6 @@ const patternsData = [
     "NOM_LOC",
     "NOM_NOMbordy",
     "NOM_doGEN",
-    "",
     "NOM_DAT"
   ],
   [
@@ -7715,7 +7633,6 @@ const patternsData = [
     "",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -7808,7 +7725,6 @@ const patternsData = [
     "",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -7901,7 +7817,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "NOM_COM"
   ],
   [
@@ -7994,7 +7909,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -8087,7 +8001,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -8180,7 +8093,6 @@ const patternsData = [
     "",
     "NOM_INS",
     "NOM_INS",
-    "",
     "NOM_INS"
   ],
   [
@@ -8273,7 +8185,6 @@ const patternsData = [
     "",
     "NOM_ABL",
     "NOM_zaINS",
-    "",
     "TR"
   ],
   [
@@ -8366,7 +8277,6 @@ const patternsData = [
     "",
     "NOM_NOMsory",
     "NOM_zaINS",
-    "",
     "TR"
   ],
   [
@@ -8459,7 +8369,6 @@ const patternsData = [
     "NOM_ABL",
     "NOM_NOMvylys",
     "NOM_zGEN",
-    "",
     "NOM_ABL"
   ],
   [
@@ -8552,7 +8461,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -8645,7 +8553,6 @@ const patternsData = [
     "",
     "NOM_ABL",
     "TR",
-    "",
     ""
   ],
   [
@@ -8738,7 +8645,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -8831,7 +8737,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "NOM_kytta"
   ],
   [
@@ -8924,7 +8829,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_NOMshory",
     "NOM_naACC",
-    "",
     "TR"
   ],
   [
@@ -9017,7 +8921,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -9110,7 +9013,6 @@ const patternsData = [
     "TR",
     "TR",
     "DAT_NOM",
-    "",
     "TR"
   ],
   [
@@ -9203,7 +9105,6 @@ const patternsData = [
     "",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "NOM_COM"
   ],
   [
@@ -9296,7 +9197,6 @@ const patternsData = [
     "",
     "NOM_INS",
     "NOM_zINS",
-    "",
     "NOM_COM"
   ],
   [
@@ -9389,7 +9289,6 @@ const patternsData = [
     "NOM_NOM",
     "NOM_NOM",
     "TR",
-    "",
     ""
   ],
   [
@@ -9482,7 +9381,6 @@ const patternsData = [
     "TR",
     "NOM_NOMshory",
     "NOM_vACC",
-    "",
     "TR"
   ],
   [
@@ -9575,7 +9473,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -9668,7 +9565,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -9761,7 +9657,6 @@ const patternsData = [
     "NOM_LOC",
     "NOM_ILL",
     "NOM_vLOC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -9854,7 +9749,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -9947,7 +9841,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -10040,7 +9933,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -10133,7 +10025,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -10226,7 +10117,6 @@ const patternsData = [
     "TR",
     "TR",
     "NOM_INS",
-    "",
     "TR"
   ],
   [
@@ -10319,7 +10209,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -10412,7 +10301,6 @@ const patternsData = [
     "",
     "NOM_ABL",
     "NOM_INS",
-    "",
     "NOM_ABL"
   ],
   [
@@ -10505,7 +10393,6 @@ const patternsData = [
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
-    "",
     "NOM_INS"
   ],
   [
@@ -10598,7 +10485,6 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "NOM_vACC",
-    "",
     "TR"
   ],
   [
@@ -10691,7 +10577,6 @@ const patternsData = [
     "",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -10784,7 +10669,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -10877,7 +10761,6 @@ const patternsData = [
     "",
     "NOM_DAT",
     "NOM_DAT",
-    "",
     "NOM_DAT"
   ],
   [
@@ -10970,7 +10853,6 @@ const patternsData = [
     "NOM_DIR",
     "GEN_DAT",
     "NOM_naACC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -11063,7 +10945,6 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "NOM_INS",
-    "",
     "NOM_DAT"
   ],
   [
@@ -11156,7 +11037,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     ""
   ],
   [
@@ -11249,7 +11129,6 @@ const patternsData = [
     "",
     "NOM_ABL",
     "NOM_INS",
-    "",
     "NOM_INS"
   ],
   [
@@ -11342,7 +11221,6 @@ const patternsData = [
     "TR",
     "",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -11435,7 +11313,6 @@ const patternsData = [
     "NOM_DIR",
     "GEN_DAT",
     "NOM_naACC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -11528,7 +11405,6 @@ const patternsData = [
     "NOM_DIR",
     "NOM_NOMvyle",
     "NOM_naACC",
-    "",
     "NOM_ABL"
   ],
   [
@@ -11621,7 +11497,6 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -11713,7 +11588,6 @@ const patternsData = [
     "",
     "",
     "NOM_DAT",
-    "",
     "",
     "TR"
   ],
@@ -11807,7 +11681,6 @@ const patternsData = [
     "",
     "TR",
     "TR",
-    "",
     "TR"
   ],
   [
@@ -11900,7 +11773,6 @@ const patternsData = [
     "",
     "NOM_INSseren",
     "NOM_cerezACC",
-    "",
     "NOM_syltaan"
   ],
   [
@@ -11993,7 +11865,6 @@ const patternsData = [
     "",
     "NOM_NOMvyle",
     "NOM_naACC",
-    "",
     "NOM_DAT"
   ],
   [
@@ -12086,7 +11957,6 @@ const patternsData = [
     "",
     "",
     "NOM_DAT",
-    "",
     "TR"
   ],
   [
@@ -12179,7 +12049,6 @@ const patternsData = [
     "",
     "NOM_ABL",
     "NOM_GEN",
-    "",
     "NOM_ABL"
   ]
 ];
