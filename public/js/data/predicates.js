@@ -14,7 +14,7 @@ const predicateData = [
     "feel_pain",
     "X (have) Yache",
     "[P.]_x has a [head]_yache.",
-    "болеть-1",
+    "болеть#часть тела#",
     "у X-а (болеть) Y",
     "У [П.]_x болит [голова]_y.",
     "yes"
@@ -24,7 +24,7 @@ const predicateData = [
     "have#illness#",
     "X (have) Y",
     "[P.]_x has [the flu]_y.",
-    "болеть-2",
+    "болеть#болезнью#",
     "X (болеть) Y-ом",
     "[П.]_x болеет [гриппом]_y.",
     "yes"
@@ -113,7 +113,7 @@ const predicateData = [
     11,
     "encounter",
     "X (encounter) Y",
-    "[P.]_x encountered [M.]_y (accidentally, on the street). = [P.]_y_x ran into [M]_y.",
+    "[P.]_x encountered [M.]_y (accidentally, on the street). = [P.]_x ran into [M]_y.",
     "встречаться",
     "X (встречаться) с Y-ом",
     "[П.]_x встретился с [М.]_y (случайно, на улице).",
@@ -124,7 +124,7 @@ const predicateData = [
     "enter",
     "X (enter) Y",
     "[P.]_x entered [the house]_y.",
-    "входить ",
+    "входить",
     "X (входить) в Y (дом)",
     "[П.]_x вошел в [дом]_y.",
     NaN
@@ -215,7 +215,7 @@ const predicateData = [
     "X (reach) Y",
     "(P. was crossing the river in a boat.) [P.]_x reached [the bank]_y.",
     "достичь",
-    "X (достичь) Y-а (берега) ",
+    "X (достичь) Y-а (берега)",
     "(П. плыл на лодке через речку). [П.]_x достиг [берега]_y.",
     NaN
   ],
@@ -334,7 +334,7 @@ const predicateData = [
     "know",
     "X (know) Y",
     "[P.]_x knows [M]_y.",
-    "знать ",
+    "знать",
     "X (знать) Y-а",
     "[П.]_x знает [М]_y.",
     "yes"
@@ -461,10 +461,10 @@ const predicateData = [
   ],
   [
     46,
-    "love1",
+    "love#person#",
     "X (love) Y",
     "[P.]_x loves [M]_y.",
-    "любить-1",
+    "любить#человека#",
     "X (любить) Y-а (сына)",
     "[П.]_x любит [М]_y.",
     "yes"
@@ -685,7 +685,7 @@ const predicateData = [
     "X (cross) Y",
     "(P. saw that the shop is on the other side of the road.) [P.]_x crossed [the road]_y (and entered the shop).",
     "пересечь",
-    "X (пересекать) Y (улицу) ",
+    "X (пересекать) Y (улицу)",
     "(П. увидел, что магазин на другой стороне дороги. Тогда). [П.]_x пересек [дорогу]_y (и вошел в магазин).",
     NaN
   ],
@@ -781,10 +781,10 @@ const predicateData = [
   ],
   [
     78,
-    "understand",
+    "understand#language#",
     "X (understand) Y",
     "[P.]_x understands [French]_y.",
-    "понимать",
+    "понимать#язык#",
     "X (понимать) Y",
     "[П.]_x понимает [французский язык]_y.",
     "yes"
@@ -996,7 +996,7 @@ const predicateData = [
     "[P.]_x had a quarrel with [M]_y.",
     "ссориться",
     "X (ссориться) с кем Y",
-    "[П.]_x поссорился с [М]_y. ",
+    "[П.]_x поссорился с [М]_y.",
     NaN
   ],
   [
@@ -1191,10 +1191,10 @@ const predicateData = [
   ],
   [
     119,
-    "love2",
+    "love#tea#",
     "X (love) Y",
     "[P.]_x loves [tea]_y.",
-    "любить-2",
+    "любить#чай#",
     "X (любить) Y (чай/яблоки)",
     "[П.]_x любит [чай]_y.",
     "yes"

@@ -1,4 +1,5 @@
 :: python convert-xlsx.py
+python collect_predicate_meta.py
 python collect_language_data.py
 python convert-full-table.py
 python convert-structural-table.py
