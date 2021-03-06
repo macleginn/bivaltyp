@@ -7,10 +7,10 @@ If you use this questionnaire, please cite as follows.
 > Say, Sergey, Sergey Dmitrenko, Dmitry Gerasimov, Viktor Khrakovskij, & Natalia Zaika. 2020. Instructions for contributors. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St. Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
 
 This text is a shortened translation of the [original published version of the instructions (in Russian)](https://bivaltyp.info/docs/questionnaire_russian.pdf).
-{{ russian_citation_button }}
+<input id="russian-citation-button" type="button" value="Show Russian citation" onclick="toggleRussianCitation();">
 
-<div id="russian_citation_div" style="display: none">
- Say, S. S., D. V. Gerasimov, S. Yu. Dmitrenko, N. M. Zaika, V. S. Khrakovskij. 2018. Valentnostnye klassy dvuxmestnyx predikatov: tipologicheskaja anketa i instrukcija issledovatelju [Bivalent valency classes: a typological questionnaire and instructions for contributors]. S. S. Say (ed.). *Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax*. Saint Petersburg: ILS RAN. 25–46.
+<div id="russian-citation-div" style="display: none">
+<blockquote>Say, S. S., D. V. Gerasimov, S. Yu. Dmitrenko, N. M. Zaika, V. S. Khrakovskij. 2018. Valentnostnye klassy dvuxmestnyx predikatov: tipologicheskaja anketa i instrukcija issledovatelju [Bivalent valency classes: a typological questionnaire and instructions for contributors]. S. S. Say (ed.). *Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax*. Saint Petersburg: ILS RAN. 25–46.</blockquote>
 </div>
 
 The workflow comprises three steps: obtaining adequate translations (Section 2), identifying argument-encoding devices (Section 3), and, if necessary, choosing one equivalent per entry for the inclusion in the final dataset (Section 4). Section 5 contains guidelines for submitting the data for the project.
@@ -167,3 +167,17 @@ Each translational equivalent should be interlinearized and back translated into
 ## Abbreviations
 
 3 — 3 person; ABL — ablative; ABS — absolutive; ACC — accusative; COP — copula; DEF — definite; GEN — genitive; IMPF — imperfect; M — masculine; NOM — nominative; PL — plural; POEL — postelative; PRS — present; SG — singular.
+
+<script>
+function toggleRussianCitation() {
+    let button = document.getElementById('russian-citation-button'),
+        div = document.getElementById('russian-citation-div');
+    if (button.value === 'Show Russian citation') {
+        div.style.display = 'block';
+        button.value = 'Hide Russian citation';
+    } else {
+        div.style.display = 'none';
+        button.value = 'Show Russian citation';
+    }
+}
+</script>
