@@ -1,6 +1,6 @@
 ## Welcome to BivalTyp
 
-BivalTyp is a typological database of bivalent verbs and their encoding frames. As of 2020, the database presents data for 85 {{ languages }}, mainly spoken in Northern Eurasia. The database is based on a {{ questionnaire }} containing 130 {{ predicates }} given in context. Language-particular encoding frames are identified based on the devices (such as cases, adpositions, and verbal indices) involved in encoding two predefined arguments of each predicate (e.g. ‘Peter’ and ‘the dog’ in ‘Peter is afraid of the dog’). In each language, one class of verbs is identified as transitive. The goal of the project is to explore the ways in which bivalent verbs can be split between the transitive and different intransitive valency classes.
+BivalTyp is a typological database of bivalent verbs and their encoding frames. As of <span id='current-year'>2020</span>, the database presents data for <span id='number-of-languages'>86</span> {{ languages }}, mainly spoken in Northern Eurasia. The database is based on a {{ questionnaire }} containing 130 {{ predicates }} given in context. Language-particular encoding frames are identified based on the devices (such as cases, adpositions, and verbal indices) involved in encoding two predefined arguments of each predicate (e.g. ‘Peter’ and ‘the dog’ in ‘Peter is afraid of the dog’). In each language, one class of verbs is identified as transitive. The goal of the project is to explore the ways in which bivalent verbs can be split between the transitive and different intransitive valency classes.
 
 ## How to use BivalTyp
 
@@ -24,3 +24,11 @@ Please address inquiries about the data or the project at large to Sergey Say (<
 Some sections of the web-site rely on modern JavaScript capabilities and will not work correctly in older browsers.
 
 <div id="landing-footer" style="position: fixed; right: 0; bottom: 0; padding-left: 25px; padding-right: 25px; background-color: cornsilk; opacity: 70%; border-radius: 1px;"><pre>The web-site built by <a href="https://dnikolaev.com">Dmitry Nikolaev</a>.</pre></div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        let d = new Date();
+        document.getElementById('current-year').innerText = d.getFullYear();
+        document.getElementById('number-of-languages').innerText = languageData.length-1;
+    });
+</script>
