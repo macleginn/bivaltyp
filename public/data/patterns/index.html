@@ -132,39 +132,45 @@
         <h3>Options</h3>
     </div>
     <div class="options-row">
-        <span><label for="russian_meta">Show Russian meta columns: </label></span><input type="checkbox" name="russian_meta" id="russian_meta" onchange="redraw();">
+        <span><label for="russian_meta">Show Russian meta columns: </label></span><input type="checkbox"
+            name="russian_meta" id="russian_meta" onchange="redraw();">
     </div>
     <div class="options-row">
         <span>Only show languages from the following phylum (WALS):</span>
-        <br/>
-        <select name="phylum" id="phylum" style="width: 150px;" onchange="byId('marea').value = 'any'; currentGenus = 'any'; redraw();">
+        <br />
+        <select name="phylum" id="phylum" style="width: 150px;"
+            onchange="byId('marea').value = 'any'; currentGenus = 'any'; redraw();">
             <option value="any">Any</option>
         </select>
     </div>
     <div class="options-row">
         <span>Only show languages from the following genus (WALS; select a phylum first):</span>
-        <br/>
-        <select name="phylum" id="genus" style="width: 150px;" onchange="currentGenus = this.value; redraw();" disabled="document.getElementById('phylum').value === 'any'">
+        <br />
+        <select name="phylum" id="genus" style="width: 150px;" onchange="currentGenus = this.value; redraw();"
+            disabled="document.getElementById('phylum').value === 'any'">
             <option value="any">Any</option>
         </select>
     </div>
     <div class="options-row">
         <span>Only show languages from the following macro-area (WALS):</span>
-        <br/>
+        <br />
         <select name="marea" id="marea" style="width: 150px;" onchange="redraw();">
             <option value="any">Any</option>
         </select>
     </div>
     <div class="options-row">
         <span>Select one or more individual languages:</span>
-        <br/>
-        <div id="language-select-div" style="width: 99%; margin: auto; height: 150px; background-color: white; overflow: auto; border: 1px solid black; border-radius: 2px;"></div>
-        <input type="button" value="Submit" onclick="redraw(true);"/>
+        <br />
+        <div id="language-select-div"
+            style="width: 99%; margin: auto; height: 150px; background-color: white; overflow: auto; border: 1px solid black; border-radius: 2px;">
+        </div>
+        <input type="button" value="Submit" onclick="redraw(true);" />
     </div>
     <div class="options-row">
-        <span><span style="color: red;">NB:</span> Applying these filters will reset the table. Use them before using filters in individual columns.</span>
+        <span><span style="color: red;">NB:</span> Applying these filters will reset the table. Use them before using
+            filters in individual columns.</span>
     </div>
-</div><br/>
+</div><br />
 <div id="table"></div>
 <script>
     // dataframe-js singleton object.
@@ -173,7 +179,7 @@
     // The spreadsheet object.
     // Initialised with a no-op 'destroy' method.
     let patternsTable = {
-        destroy: () => {}
+        destroy: () => { }
     };
 
     let patternsDf, languageDf, languageDfMin,
@@ -193,7 +199,7 @@
         if (langDict[a].name < langDict[b].name) {
             return -1;
         } else if (langDict[a].name > langDict[b].name) {
-            return 1 ;
+            return 1;
         } else {
             return 0;
         }
@@ -204,7 +210,7 @@
         return `<a class="table-link" href="../../predicates/pred/${filename}">link</a>`
     }
 
-    function populateSelectFromArray(select, arr, addAny=false) {
+    function populateSelectFromArray(select, arr, addAny = false) {
         if (addAny) {
             select.innerHTML = '';
             let option = document.createElement('option');
@@ -231,7 +237,7 @@
             colsSuffix = [];
 
         phylumFilter = byId('phylum').value;
-        mareaFilter  = byId('marea').value;
+        mareaFilter = byId('marea').value;
 
         byId('genus').disabled = phylumFilter === 'any';
         // Populate the genus menu based on the value of the phylum menu
@@ -241,17 +247,17 @@
             populateSelectFromArray(generaSelect, genera, true);
         }
         byId('genus').value = phylumFilter === 'any' ? 'any' : currentGenus;
-        genusFilter  = byId('genus').value;
+        genusFilter = byId('genus').value;
 
         for (const col of patternsDf.listColumns()) {
             if (col === 'predicate_label_ru' ||
                 col === 'argument_frame_ru') {
                 if (byId('russian_meta').checked)
-                colsPrefix.push(col);
+                    colsPrefix.push(col);
             } else if (alwaysSelect.indexOf(col) >= 0) {
                 colsPrefix.push(col);
             } else {
-                if (listProvided !== undefined && !selectedLanguages.has(col))
+                if (listProvided !== undefined && selectedLanguages.size > 0 && !selectedLanguages.has(col))
                     continue;
                 if (listProvided === undefined) {
                     if (phylumFilter !== 'any' &&
@@ -274,7 +280,7 @@
             currentDf = patternsDf.select(...colsToSelect);
 
         const predLabelIdx = colsToSelect.indexOf('predicate_label_en');
-        colsToSelect.splice(predLabelIdx+1, 0, 'predicate_link');
+        colsToSelect.splice(predLabelIdx + 1, 0, 'predicate_link');
         currentDf = currentDf.restructure(colsToSelect);
 
         const colnames = colsToSelect.map(colname => {
@@ -302,9 +308,9 @@
         let columns = currentDf.listColumns()
             .map(colname => {
                 if (colname === 'predicate_link')
-                    return {renderer: 'html'};
+                    return { renderer: 'html' };
                 else
-                    return {renderer: 'text'}
+                    return { renderer: 'text' }
             });
 
 
@@ -378,9 +384,9 @@
         .toArray()
         .map(oneElArr => oneElArr[0]);
     macroareas.sort();
-    let phylaSelect    = byId('phylum'),
-        generaSelect   = byId('genus'),
-        mareaSelect    = byId('marea'),
+    let phylaSelect = byId('phylum'),
+        generaSelect = byId('genus'),
+        mareaSelect = byId('marea'),
         languageSelect = byId('language');
     populateSelectFromArray(phylaSelect, phyla);
     populateSelectFromArray(mareaSelect, macroareas);
@@ -409,7 +415,6 @@
     }
     redraw();
 </script>
-
 </div>
 
 
