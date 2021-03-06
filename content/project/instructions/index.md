@@ -70,7 +70,7 @@ Devices employed for encoding X and Y as arguments can be meaningfully identifie
 
 ```
 
-(1) Zi  ʁil-er-iqʰaj  [benzin-din	   ni-Ø] 	   qwe-zwa
+(1) Zi  ʁil-er-iqʰaj  [benzin-din   ni-Ø]      qwe-zwa
     my  hand-PL-POEL  gasoline-GEN  smell-ABS  come-IMPF
     ‘My hands smell of gasoline’ (#67).
 
@@ -83,9 +83,9 @@ In other cases, though, verb+noun combinations can make their way into the datas
 
 ```
 
-(2) Paul  a         	peur  de  ce  	chien
-	P.	have.PRS.3SG  fear  of  this.M  dog(M)
-	‘Paul is afraid of the dog’ (#3).
+(2) Paul  a         	peur  de  ce  	  chien
+    PN	  have.PRS.3SG  fear  of  this.M  dog(M)
+    ‘Paul is afraid of the dog’ (#3).
 
 ```
 
@@ -138,7 +138,7 @@ If two or more alternatives cannot be ranked based on the two previous criteria,
 
 If there are two equivalents viewed as equal competitors after all the criteria in 4.1-4.3 have been applied, and one of them represents the transitive construction, while the other one is structurally different, the latter equivalent should be preferred.
 
-#### 4.5. Random choice
+#### 4.5. Arbitrary choice
 
 If the criteria in 4.1-4.4 fail to give preference to one of the available equivalents, the choice of the translation equivalent is left to the contributor.
 
@@ -149,9 +149,9 @@ Along with the filled questionnaire, contributors are kindly asked to provide a 
 
 ```
 
-(3) Hišoγut'yun-ə	tarik'-ic' ē        	kaxvac
-	memory[NOM]-DEF  age-ABL	COP.PRS.3SG  dependent
-	‘Memory depends on age’.
+(3)  hišoγut'yun-ə    tarik'-ic'  ē            kaxvac
+     memory[NOM]-DEF  age-ABL	  COP.PRS.3SG  dependent
+     ‘Memory depends on age’.
 
 ```
 
