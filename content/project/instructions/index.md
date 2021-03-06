@@ -30,25 +30,30 @@ It is sometimes impossible to obtain an adequate translation of some of the stim
 
 For example, #50 in the questionnaire is “P. put on his trousers”. If your consultant finds it difficult to provide an equivalent for “trousers” (e.g., if trousers are not common in the target community), it is possible to use a sentence with a different type of garment (“shirt”, “poncho”, etc.). However, basic ontological properties of the nouns involved, such as, e.g., countability and animacy, as well as possible possessive relations between arguments must remain intact. For example, in #47 (“P. is waving a handkerchief”), the Y argument should be an alienable physical object (thus, “P. is waving his hand” should not be used). Similarly, in #33 (“P. knows M.”), inanimate Y-arguments (“P. knows maths / the answer” or the like) are disallowed.
 
-#### 2.2. Problem: the target language lacks an equivalent verb and the relevant meaning is conveyed by a predicative expression of a different type. Remedy: include this equivalent in the data (and make a comment)
+#### 2.2. Problem: the target language lacks an equivalent verb and the relevant meaning is conveyed by a predicative expression of a different type. 
+#### Remedy: include this equivalent in the data (and make a comment)
 
 In many cases, there is no verb that corresponds to the predicative meaning of the stimulus sentence, and the translation contains a predicative expression of a different kind — a serial verb, a complex predicate (a combination of a verb-like and a noun-like element), a non-verbal predicate (e.g., an adjective), a noun-incorporating structure, etc. All these types of predicative expressions are allowed in the database (but make a comment on their structure). For example, translational equivalents of #116 “P. envies M.” can have syntactic structures that literally correspond to “P. is envious of M.” (non-verbal predicate) or “P. has envy of M.” (complex predicate). This is not an obstacle for the inclusion of the translation in the database.
 
-#### 2.3. Problem: one or both of the two expected arguments (X and/or Y) cannot be overtly expressed. Remedy: no remedy, this sentence cannot qualify as an adequate translational equivalent
+#### 2.3. Problem: one or both of the two expected arguments (X and/or Y) cannot be overtly expressed. 
+#### Remedy: no remedy, this sentence cannot qualify as an adequate translational equivalent
 
 In some cases, it is possible to render the meaning of the predicate in the target language, but the sentence obtained sounds ungrammatical or unnatural if one tries to overtly express both arguments identified in the stimulus sentence. For example, in some languages it is possible to say, literally, “The log sank” or “P. was surprised” but not “The log sank in the water” or “P. was surprised at this gift”. Sentences with missing arguments are not adequate translational equivalents.
 
-#### 2.4. Problem: in the target language, it is necessary to express some additional information. Remedy: add the necessary material (and make a comment)
+#### 2.4. Problem: in the target language, it is necessary to express some additional information. 
+#### Remedy: add the necessary material (and make a comment)
 
 In some cases, a certain semantic distinction that is not made in the stimulus sentence must be obligatorily made in the target language. For example, the choice of a translational equivalent for #27 “P. fried the fish” can depend on whether oil was used or whether the fish was fried on open fire, etc. Any translational equivalent that sounds natural can be chosen (make a comment that the meaning of the equivalent is narrower than that of the stimulus sentence).
 
 In some other cases, it is necessary to add some overt material that is absent in the stimulus sentence. For example, in some languages the equivalent of #86 “P. dropped the glass” must contain an overtly expressed goal (e.g., “P. dropped the glass on the floor”). In principle, such additions are allowed (they should be accompanied by a comment). However, if the added material disrupts the direct syntactic relations between either argument (X or Y) and the predicative head, the translation cannot be included in the database. For example, if the closest translational equivalent of a stimulus sentence contains a complement clause (e.g., “P. dreams of buying a new car” or “P. believes what M. is saying” are the closest equivalents of #48 “P. dreams of a new car” or #7 “P. believes M.” respectively) this equivalent is not acceptable (leave a gap in the database and provide an explanation in a comment).
 
-#### 2.5. Problem: it is not possible to obtain a semantically accurate translation. Remedy: no remedy, leave a gap in the database
+#### 2.5. Problem: it is not possible to obtain a semantically accurate translation. 
+#### Remedy: no remedy, leave a gap in the database
 
 In some cases, it is not possible to elicit any sentence that is semantically sufficiently close to the stimulus sentence. A frequent scenario is when the stimulus sentence is semantically more specialized than the translation(s) obtained from the native speakers. In many languages, this situation arose with stimuli such as #111 “be squeamish”, #126 “despise” or #129 “be fond” (the translations obtained have broader positive or negative meanings, such as “dislike”, “hate”, or “like”). In other cases, the target language simply lacks an abstract notion employed in the stimulus sentence (this is often the case with #30 “depend”, #35 “avoid”, and #64 “be different”). All these scenarios should result in gaps in the database. It is not advised to use unnatural or semantically imprecise translations.
 
-#### 2.6. Problem: more than one adequate translation is available. Remedy: register all of them
+#### 2.6. Problem: more than one adequate translation is available. 
+#### Remedy: register all of them
 
 If the consultant provides several adequate translations, the contributor is advised to register them all. In particular, this is relevant in case the variants elicited differ in terms of syntactic ranks of arguments (cf. “P. likes the shirt” vs. “This shirt pleases P.”). If two or more translations are structurally identical, the contributor can dispense with redundant glosses.
 
@@ -86,7 +91,8 @@ In other cases, though, verb+noun combinations can make their way into the datas
 
 In many respects (the use of object pronouns, the lack of the article), *avoir peur* “to be afraid” (literally “to have fear”) behaves as a unified predicative expression rather than as a combination of a transitive verb and an object noun phrase. As a consequence, this expression is analyzed as belonging to the same valency class as simplex verbs that require their X-argument encoded as a subject noun phrase and their Y-argument as an oblique object introduced by the preposition *de*. Contributors are advised to provide a comment on the analytic decisions they make.
 
-#### 3.2. Problem: the translation obtained does not contain enough information to identify the valency class. Remedy: elicit and analyze more data
+#### 3.2. Problem: the translation obtained does not contain enough information to identify the valency class. 
+#### Remedy: elicit and analyze more data
 
 In some cases, the translation of the stimulus sentence fails to display all the information that is needed for unambiguous identification of the valency class. For example, the nominal used in the translation can display a pattern of case syncretism that is not observed in some other nouns. In order to identify the argument encoding devices unambiguously, the contributor is advised to elicit additional sentences with the same predicative expression.
 
