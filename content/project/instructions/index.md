@@ -21,7 +21,7 @@ The first step is to obtain **adequate** translations of the stimulus sentences 
 
 It is essential that the translations correspond to stimulus sentences, not isolated verbs. For example, #7 in the database has a conventional tag “believe”, but the actual entry should be a sentence with the meaning like “P. believes M.” (where P. and M. are person names) rather than a lexical equivalent of the English verb *to believe* (e.g., in a sentence like “P. believes in ghosts”). Many stimulus sentences in the questionnaire are accompanied by context. In #101, the stimulus sentence is “P. shot at the bird”, and the right context is “He missed”. There is no need to translate the “he missed” part, but the translation obtained for the stimulus sentence should be compatible with a situation where the shot went wide.
 
-If necessary, language contributors can slightly modify stimulus sentences (e.g., “one euro” in #100 can be substituted by a sum in the local currency, etc.). An intuitive rule of a thumb is that sentences can be modified as long as these modifications are not expected to affect argument encoding.
+If necessary, language contributors can slightly modify stimulus sentences (e.g., “one euro” in #100 can be substituted by a sum in the local currency, etc.). An intuitive rule of thumb is that sentences can be modified as long as these modifications are not expected to affect argument encoding.
 
 It is sometimes impossible to obtain an adequate translation of some of the stimulus sentences. If this is the case, language contributors are advised to leave a gap in the dataset and provide a brief comment (e.g., “the only translation of ‘memory depends on age’ was literally ‘elder people forget things’”). In sections 2.1-2.6, we discuss several frequently encountered complications and suggest how to deal with them.
 
@@ -70,7 +70,7 @@ Devices employed for encoding X and Y as arguments can be meaningfully identifie
 
 ```
 
-(1) Zi  ʁil-er-iqʰaj  [benzin-din	   ni-Ø] 	   qwe-zwa
+(1) Zi  ʁil-er-iqʰaj  [benzin-din   ni-Ø]      qwe-zwa
     my  hand-PL-POEL  gasoline-GEN  smell-ABS  come-IMPF
     ‘My hands smell of gasoline’ (#67).
 
@@ -83,9 +83,9 @@ In other cases, though, verb+noun combinations can make their way into the datas
 
 ```
 
-(2) Paul  a         	peur  de  ce  	chien
-	P.	have.PRS.3SG  fear  of  this.M  dog(M)
-	‘Paul is afraid of the dog’ (#3).
+(2) Paul  a         	peur  de  ce  	  chien
+    PN	  have.PRS.3SG  fear  of  this.M  dog(M)
+    ‘Paul is afraid of the dog’ (#3).
 
 ```
 
@@ -138,7 +138,7 @@ If two or more alternatives cannot be ranked based on the two previous criteria,
 
 If there are two equivalents viewed as equal competitors after all the criteria in 4.1-4.3 have been applied, and one of them represents the transitive construction, while the other one is structurally different, the latter equivalent should be preferred.
 
-#### 4.5. Random choice
+#### 4.5. Arbitrary choice
 
 If the criteria in 4.1-4.4 fail to give preference to one of the available equivalents, the choice of the translation equivalent is left to the contributor.
 
@@ -149,9 +149,9 @@ Along with the filled questionnaire, contributors are kindly asked to provide a 
 
 ```
 
-(3) Hišoγut'yun-ə	tarik'-ic' ē        	kaxvac
-	memory[NOM]-DEF  age-ABL	COP.PRS.3SG  dependent
-	‘Memory depends on age’.
+(3)  hišoγut'yun-ə    tarik'-ic'  ē            kaxvac
+     memory[NOM]-DEF  age-ABL	  COP.PRS.3SG  dependent
+     ‘Memory depends on age’.
 
 ```
 
