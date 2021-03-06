@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://www.bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://www.bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://www.bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://www.bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/full.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://www.bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://www.bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/departements/typology/about.html.ru"><img src="https://www.bivaltyp.info/images/LTIJa.png"
+                alt="Лаборатория типологического изучения языков"></a>
+        &nbsp;&nbsp;
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://www.bivaltyp.info/images/ili.png"
+                alt="Институт лингвистических исследований РАН"></a>
+    </div>
+    <!-- <div>
+    </div> -->
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info">
+            <div class="menu-button">Home</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="project-submenu-button">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://www.bivaltyp.info/project/description/">
+                <div class="menu-button">Project description</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/questionnaire/">
+                <div class="menu-button">Questionnaire</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/instructions/">
+                <div class="menu-button">Instructions for&nbsp;contributors</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/team/">
+                <div class="menu-button">Team</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/publications/">
+                <div class="menu-button">Publications</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/howtoreadthedata/">
+            <div class="menu-button">How to read the data</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="languages-submenu-button">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://www.bivaltyp.info/languages/listview/">
+                <div class="menu-button">List view</div>
+            </a>
+            <a href="https://www.bivaltyp.info/languages/mapview/">
+                <div class="menu-button">Map view</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/predicates/">
+            <div class="menu-button">Predicates</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="data-submenu-button">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://www.bivaltyp.info/data/patterns/">
+                <div class="menu-button">Patterns overview</div>
+            </a>
+            <a href="https://www.bivaltyp.info/data/all/">
+                <div class="menu-button">Data in one spreadsheet</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/data/maps/">
+            <div class="menu-button">Maps</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/download/">
+            <div class="menu-button">Download</div>
+        </a>
+    </div>
+</div>
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = (e) => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = 'none';
+        }
+    }
+</script>
+<div id="main"><h1>Ulcha</h1>
+
+<p>Contributed by <a href="http://ruslang.ru/publica/stoynova">Natalia Stoynova</a> (<a href="https://ruslang.academia.edu/NatashaStoynova">Academia.edu profile</a>)</p>
+
+<p><img src="https://www.bivaltyp.info/images/Stoynova.jpg" alt="N.S.'s photo" title="N.S.'s photo" /></p>
+
+<p>The data were mainly gathered in 2017 in the village of Bulava (Ulchsky District). The Russian version of the questionnaire was used for elicitation. </p>
+
+<h2>How to cite</h2>
+
+<blockquote>
+  <p>Stoynova, Natalia. 2021. Bivalent patterns in Ulcha. 
+  In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
+  St. Petersburg: Institute for Linguistic Studies, RAS. 
+  (Data first published on March 3, 2021; 
+  last revised on March 3, 2021.) (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, 
+  Accessed on <span id="today"></span>.)</p>
+</blockquote>
+
+<h2>Basic info</h2>
+
+<ul>
+<li>Coordinates: <a href="https://www.bivaltyp.info/languages/mapview/">51.85, 140.29</a>.</li>
+<li>Genealogy (as given in <a href="https://wals.info/">WALS</a>). Family: Altaic, genus: Tungusic.</li>
+<li>Macro-area: North and Central Asia.</li>
+</ul>
+
+<p>The whole questionnaire was collected with two native speakers (born in 1937 and 1957 respectively); some data were additionally collected with two more consultants (born in 1937 and 1956). In some particular cases, the elicitation data were verified and supplemented with textual data: texts collected by Orest Sunik in the 1960s and published in Sunik (1985), texts from the archive of Lidia Sem (the 1970s); texts collected by Elena Kalinina and others in 2005-2010, and those collected by Sofia Oskolskaya, Anna Smetina, and Natalia Stoynova in 2017-2019. Whenever possible, analytic decisions were based on the data from the earlier texts, since they are presupposed to be less influenced by Russian. The dictionary by Sunik (1985) was also used to check the data: there is quite a rich list of verbal lexemes in the dictionary, although there is neither any information on their valency patterns nor illustrative examples.</p>
+
+<p>Language attrition might have influenced the data presented. The consultants failed to recall several Ulcha verbs. In some cases, syntactic calquing from Russian can be suspected.
+A simplified transcription based on that proposed in Sunik (1985) is used in the examples.</p>
+
+<h2>Grammar notes</h2>
+
+<h3>Basic clause structure and the transitive construction</h3>
+
+<p>Ulcha consistently displays the accusative alignment. All arguments of the verb are marked by case suffixes or are expressed by postpositional phrases. Subjects are also indexed on the verb by person-number suffixes (these suffixes can be omitted in some contexts).</p>
+
+<pre><code>(1) Zina,  palam-ba   sil'ču-si?
+    PN     floor-ACC  wash.PRS-2SG
+    ‘Zina, are you washing the floor?’
+</code></pre>
+
+<p>Word order is not used as an argument encoding device. TMA-features of the predicate do not influence argument encoding.</p>
+
+<p>The verbal person-number subject suffixes are shown in Table 1. Here and below, the tilde separates allomorphs conditioned be declension class, the slash separates variants conditioned by vowel harmony, and dialect variants are parenthesized.</p>
+
+<p>Table 1. Person-number subject suffixes (main indicative forms)</p>
+
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>SG</th>
+  <th>PL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>-i~-bi</td>
+  <td>-pu (-mu)</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>-si</td>
+  <td>-su</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>-ni</td>
+  <td>-ti</td>
+</tr>
+</tbody>
+</table>
+
+<p>Ulcha is a language with differential object marking. By default, the direct object is expressed by the accusative case (1). However, in some contexts the unmarked (nominative) form can be also used (2), (3). The accusative marker is never used when the possessive reflexive marker is present (2). In all other cases (3) there is no strict distribution between the accusative vs. unmarked forms: the choice is regulated mostly by referential properties of the object. In the database, the argument encoding is considered as transitive (TR) irrespectively of whether the accusative or unmarked form was chosen in a particular example.</p>
+
+<pre><code>(2) bi   mən   am-bi           sā-ra-sim
+    1SG  self  father-REFL.SG  know-CONNEG-PRS.NEG.1SG
+    ‘I don’t know my father.’
+(3) mənə  sugdata  wā-ŋda-su-j
+    self  fish     kill-AM-HAB-PRS
+    ‘She herself goes fishing (lit. to kill fish).’
+</code></pre>
+
+<h3>Case system</h3>
+
+<p>Ulcha has 8 (or 9, see below) cases. The case suffixes are shown in Table 2.</p>
+
+<p>Table 2. Case suffixes</p>
+
+<table>
+<thead>
+<tr>
+  <th>Case</th>
+  <th>Marker</th>
+  <th>Gloss</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Nominative</td>
+  <td>Unmarked</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Accusative</td>
+  <td>-wa/-wə~-ba/-bə</td>
+  <td>ACC</td>
+</tr>
+<tr>
+  <td>Dative/Essive</td>
+  <td>-du</td>
+  <td>DAT</td>
+</tr>
+<tr>
+  <td>Lative</td>
+  <td>-ti</td>
+  <td>LAT</td>
+</tr>
+<tr>
+  <td>Instrumental</td>
+  <td>-ǯi</td>
+  <td>INS</td>
+</tr>
+<tr>
+  <td>[Ablative]</td>
+  <td>[-ǯiǯi]</td>
+  <td>ABL</td>
+</tr>
+<tr>
+  <td>Prolative</td>
+  <td>-ki</td>
+  <td>PROL</td>
+</tr>
+<tr>
+  <td>Locative</td>
+  <td>-la/-lə~-dula/-dulə</td>
+  <td>LOC</td>
+</tr>
+<tr>
+  <td>Destinative</td>
+  <td>-ǯu</td>
+  <td>DEST</td>
+</tr>
+</tbody>
+</table>
+
+<p>The ablative case <em>-ǯiǯi</em>, which is shown in square brackets in Table 2, is not used by modern speakers. The loss of the ablative case is a recent innovation. In Nanai, which is the closest sister of Ulcha, there are two separate cases, i.e., the ablative <em>-ǯiaǯi~-ǯiəǯi</em> and the instrumental <em>-ǯi</em>. Petrova (1936) mentions that in Ulcha source can be encoded by the dedicated marker <em>-ǯiǯi</em> and by <em>-ǯi</em>, which diachronically might be a short form of the ablative, homonymic with the instrumental. Modern speakers use the only marker <em>-ǯi</em> with reference both to instruments (4) and sources (5).</p>
+
+<pre><code>(4)  mō-ǯi     ti-wa     pati-ču-mar          tugbu-s-i      bi-či-pu
+     tree-INS  that-ACC  hit-ITER-CVB.SIM.PL  drop-IPFV-PRS  be-PST-1PL
+     ‘We used to shake them (cones) off, hitting them with a stick.’
+(5)  əj    əktə    dili-ǯi-ni    ńə̄-ri-ti        amba-sal
+     this  female  head-INS-3SG  go_out-PRS-3PL  devil-PL
+     ‘Devils are going out of this woman’s head!’
+</code></pre>
+
+<p>The destinative case is used in the contexts implying an appearance or a change of the possessor, e.g., in those denoting creation, benefaction, searching-finding, asking-offering events (6)-(8). The destinative form encodes the object of such an event, which at the same time is a new possessee. The destinative suffix is always accompanied with the possessive suffix encoding the person-number of a new possessor. The possessor can be overtly expressed (8), although such uses are rare (the possessor takes the unmarked form, exactly as that within the noun phrase). In this sense, the destinative construction is close to trivalent ones. The argument encoded by the destinative case is always non-specific and cannot have its own modifiers, otherwise it is expressed by the accusative case or the unmarked form, as a regular direct object, cf. <em>piktəǯuj</em> [child-DEST-REFL.SG] vs. <em>xusə piktə</em> [male child] in (7), used with the same verb ‘to give birth (lit. to find (a child))’. Due to these restrictions, the transitive valency pattern and not that with destinative was chosen in the database for the verb ‘to give birth’.</p>
+
+<pre><code>(6)  ti-du     Bur-du          ədi-ǯu-j              baqa-ra
+     that-DAT  Khabarovsk-DAT  husband-DEST-REFL.SG  find-CVB.NSIM
+     ‘There in Khabarovsk I married (lit. found a husband for myself).’
+(7)  Piktə-ǯu-j=də            baqa-xa,  xusə  piktə  baqa-xa
+     child-DEST-REFL.SG=EMPH  find-PST  male  child  find-PST
+     ‘And (she) gave birth to a child, to a boy’. (Sunik 1985: txt 5)
+(8)   ti    Nikita  šuba-ǯu-n          anǯu-ktu-wu
+      that  PN      fur_coat-DEST-3SG  make-DISTR-IMPS
+      ‘They will sew a fur coat for this Nikita.’
+</code></pre>
+
+<p>Along with the case system, there is a system of postpositions, or rather spatial nouns, in Ulcha, e.g., <em>dō-</em> ‘inside’, <em>xami-</em> ‘behind’, <em>ǯuli-</em> ‘in front of’. A postposition within the postpositional phrase behaves similarly to a head noun within the possessive noun phrase (9)-(10). The dependent noun is unmarked, while the postposition takes a possessive person-number suffix, according to its person-number. It also takes a case suffix, according to the directional meaning.</p>
+
+<pre><code>(9)  direktor  ǯuli-lə-n
+     director  in_front_of-LOC-3SG
+     ‘{They were staying} in front of the director.’
+(10) qori  ǯuli-ki-n
+     barn  in_front_of-PROL-3SG
+     ‘{I was playing} in front of the barn.’
+</code></pre>
+
+<p>An exceptional postposition is <em>=ban~=bən</em> ‘to, into’, which is much more grammaticalized: it is a clitic, it does not inflect either for person-number (i.e., takes the frozen 3SG form in all contexts) or for case (since it expresses the only goal meaning). Unlike other postpositions, it does not specify a particular localization, but expresses a generalized lative meaning. In this function, it competes with the lative case form. In most contexts, there is a free (or almost free) variation between lative and <em>=ban~=bən</em>.</p>
+
+<h2>Verb lemmas</h2>
+
+<p>Verbs are shown in the form of a bare stem (including valency-changing marker, but excluding TAM and person affixes).</p>
+
+<h2>Glossing abbreviations</h2>
+
+<p>1, 2, 3 — 1, 2, 3 person; ABL — ablative; ACC — accusative; ADV — adverbializer; AM — associated motion; ATTEN — attenuative; CARIT — caritive; CAUS — causative; CMPR — comparative; CONNEG — connegative; CVB — converb; DAT — dative/essive; DECAUS — decausative; DEM — demonym; DESID — desiderative; DEST — destinative; DISTR — distributive; EMPH — emphatic; HAB — habitual; IMIT — imitative; IMP — imperative; IMPS — impersonal; INCH — inchoative; INS — instrumental; IPFV — imperfective; ITER — iterative; LAT — lative; LOC — locative; NEG — negative; NOM — nominative; NSIM — non-simultaneous; PL — plural; PN — person name; POSS — possessive; PROL — prolative; PRS — present; PST — past; PTCL — particle; Q — question particle; REC — reciprocal; REFL — reflexive; REP — repetitive; RES — resultative; RSTR — restrictive; SG — singular; SIM — simultaneous; SUPERL — superlative; TR — transitive; VBLZ — verbalizer.</p>
+
+<h2>References</h2>
+
+<p>Census 2010. Itogi Vserossijskoj perepisi naselenija 2010 goda [Results of the All-Russian population census 2010]. [Vladenie jazykami naseleniem korennyx malochislennyx narodov Rossijskoj Federacii] (http://www.gks.ru/free<em>doc/new</em>site/perepis2010/croc/Documents/Vol4/pub-04-20.pdf). (Accessed on 24.02.2021)</p>
+
+<p>Petrova, Taisija I. 1936. Ul’čskij dialect nanajskogo jazyka [The Ulcha dialect of Nanai]. Moscow, Leningrad: Učpedgiz.</p>
+
+<p>Sunik, Orest P. 1985. Ul’čskij jazyk. Issledovanija i materialy [Ulcha. Studies and materials]. Leningrad: Nauka.</p>
+
+<h2>Data</h2>
+
+<div id="sentences">
+    <div>
+        <div style="display: inline-block; width: 200px;">
+            <span>Subset examples by valency pattern</span>
+            <select id="valpal-select">
+                <option value="any">Any</option>
+            </select>
+        </div>
+        <div style="display: inline-block; width: 200px;">
+            <span>Subset examples by locus</span>
+            <select id="locus-select">
+                <option value="any">Any</option>
+            </select>
+        </div>
+    </div>
+    <p id="stats"/>
+</div>
+
+</div>
+<div id="error-link-div">Please report any errors in the data <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYU88YCezA3zgDpkR_8XmEJdmodMSRNWmsZRmwNtXskujbrA/viewform" target="_blank">here</a>.
+<script>
+function hide(element) {
+    element.style.display = 'none';
+}
+
+function show(element) {
+    element.style.display = 'block';
+}
+
+function filterExamples() {
+    const valpalFilter = document.getElementById('valpal-select').value,
+        locusFilter = document.getElementById('locus-select').value;
+
+    let examples = document.querySelectorAll('div[data-valpal]'),
+        count = 0;
+    for (const ex of examples) {
+        if (valpalFilter !== 'any' && ex.dataset.valpal !== valpalFilter) {
+            hide(ex)
+            continue;
+        }
+        if (locusFilter !== 'any' && ex.dataset.locus !== locusFilter) {
+            hide(ex);
+            continue;
+        }
+        count++;
+        show(ex);
+    }
+    if (count === 1)
+        document.getElementById('stats').innerText = `${count} predicate selected.`;
+    else
+        document.getElementById('stats').innerText = `${count} predicates selected.`;
+}
+
+function filterExamplesByLocus(locus) {
+    let examples;
+    if (locus === 'any') {
+        examples = document.querySelectorAll('div[data-locus]');
+        for (const ex of examples)
+            ex.style.display = 'block';
+    }
+    else {
+        examples = document.querySelectorAll(
+            `[data-locus="${locus}"]`
+        );
+        for (const ex of examples)
+            ex.style.display = 'block';
+        examples = document.querySelectorAll(
+            `[data-locus]:not([data-locus="${locus}"])`
+        );
+        for (const ex of examples)
+            ex.style.display = 'none';
+    }
+}
+
+document
+    .getElementById('valpal-select')
+    .addEventListener('change', e => {
+        filterExamples();
+});
+
+document
+    .getElementById('locus-select')
+    .addEventListener('change', e => {
+        filterExamples();
+});
+</script>
+
+</body>
+</html>
+

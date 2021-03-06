@@ -372,7 +372,6 @@
             predicate = row[1],
             predicateNo = predicateName2No[predicate],
             locus = row[6];
-        console.log(predicate, predicateNo);
         if (!predicateLanguageLocusDict.hasOwnProperty(predicateNo))
             predicateLanguageLocusDict[predicateNo] = {};
         predicateLanguageLocusDict[predicateNo][languageExternal] = locus;
@@ -382,7 +381,6 @@
             predicate = row[1],
             predicateNo = predicateName2No[predicate],
             locus = row[5];
-        console.log(predicate, predicateNo);
         if (!predicateLanguageLocusDict.hasOwnProperty(predicateNo))
             predicateLanguageLocusDict[predicateNo] = {};
         predicateLanguageLocusDict[predicateNo][languageExternal] = locus;
