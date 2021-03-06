@@ -10,7 +10,7 @@ This text is a shortened translation of the [original published version of the i
 <input id="russian-citation-button" type="button" value="Show Russian citation" onclick="toggleRussianCitation();">
 
 <div id="russian-citation-div" style="display: none">
-<blockquote style="max-width: 600px">Say, S. S., D. V. Gerasimov, S. Yu. Dmitrenko, N. M. Zaika, V. S. Khrakovskij. 2018. Valentnostnye klassy dvuxmestnyx predikatov: tipologicheskaja anketa i instrukcija issledovatelju [Bivalent valency classes: a typological questionnaire and instructions for contributors]. S. S. Say (ed.). *Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax*. Saint Petersburg: ILS RAN. 25–46.</blockquote>
+<blockquote style="max-width: 600px">Say, S. S., D. V. Gerasimov, S. Yu. Dmitrenko, N. M. Zaika, V. S. Khrakovskij. 2018. Valentnostnye klassy dvuxmestnyx predikatov: tipologicheskaja anketa i instrukcija issledovatelju [Bivalent valency classes: a typological questionnaire and instructions for contributors]. S. S. Say (ed.). <i>Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax</i>. Saint Petersburg: ILS RAN. 25–46.</blockquote>
 </div>
 
 The workflow comprises three steps: obtaining adequate translations (Section 2), identifying argument-encoding devices (Section 3), and, if necessary, choosing one equivalent per entry for the inclusion in the final dataset (Section 4). Section 5 contains guidelines for submitting the data for the project.
@@ -114,7 +114,7 @@ If possible, it is recommended to distinguish between two types of variation.
 
 #### 3.4. Valency class identification
 
-In this project, the valency class of the predicative expression is defined as the unique combination of the devices employed for the encoding of the two pre-defined arguments, X and Y. Two predicative expressions are considered members of the same valency class if and only if the two predicative expressions require the same encoding devices for their respective X-arguments and Y-arguments. By contrast, if the device that is used for the encoding of the X-argument of one of the expressions coincides with the device that is used for the encoding of the Y-argument of another expression, and the other way round, the two predicative expressions are analyzed as belonging to two distinct classes (they can be labelled as, e.g., “NOM_DAT” and “DAT_NOM”, respectively).
+In this project, the valency class of the predicative expression is defined as the unique combination of the devices employed for the encoding of the two pre-defined arguments, X and Y. Two predicative expressions are considered members of the same valency class if and only if the two predicative expressions require the same encoding devices for their respective X-arguments and Y-arguments. By contrast, if the device that is used for the encoding of the X-argument of one of the expressions coincides with the device that is used for the encoding of the Y-argument of another expression, and the other way round, the two predicative expressions are analyzed as belonging to two distinct classes (they can be labelled as, e.g., “NOM\_DAT” and “DAT\_NOM”, respectively).
 
 ### 4. Choosing the equivalent to be included in the dataset
 
