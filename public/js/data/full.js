@@ -32778,7 +32778,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "feel_pain",
     "болеть-1",
     "ənusi-",
@@ -32796,7 +32796,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "have#illness#",
     "болеть-2",
     "ənusi-",
@@ -32814,7 +32814,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_afraid",
     "бояться",
     "ŋələči-",
@@ -32832,7 +32832,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "throw",
     "бросить",
     "ǯololo-",
@@ -32850,7 +32850,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "have_enough",
     "быть достаточно",
     "isi-",
@@ -32868,7 +32868,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "resemble",
     "быть похожим",
     "bi-",
@@ -32886,7 +32886,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "believe",
     "верить",
     "agdi-",
@@ -32904,7 +32904,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "take",
     "взять",
     "ǯapa-",
@@ -32922,7 +32922,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "see",
     "видеть",
     "ičə-",
@@ -32940,7 +32940,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "influence",
     "влиять",
     "*",
@@ -32958,7 +32958,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "encounter",
     "встречаться",
     "ačala-",
@@ -32976,7 +32976,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "enter",
     "входить ",
     "ī-",
@@ -32994,7 +32994,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "win",
     "выиграть",
     "dabdi-",
@@ -33012,7 +33012,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "go_out",
     "выходить",
     "ńə̄-",
@@ -33030,7 +33030,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "drive",
     "гнать",
     "puŋəči-",
@@ -33048,7 +33048,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "bend",
     "гнуть",
     "mokčo-mokčo opawan-",
@@ -33066,7 +33066,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "tell",
     "говорить",
     "wən-",
@@ -33084,7 +33084,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "hold",
     "держать",
     "ǯapča-",
@@ -33102,7 +33102,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "catch_up",
     "догнать",
     "xaŋpanǯu-",
@@ -33120,7 +33120,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "milk",
     "доить",
     "siri-",
@@ -33138,7 +33138,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "reach",
     "достичь",
     "xā-",
@@ -33156,7 +33156,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "touch",
     "дотронуться",
     "tunči-",
@@ -33174,7 +33174,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "fight",
     "драться",
     "sormači-",
@@ -33192,7 +33192,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_friends",
     "дружить",
     "əməǯi-",
@@ -33210,7 +33210,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "think",
     "думать",
     "muruči-",
@@ -33228,7 +33228,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "eat",
     "есть",
     "ǯəp-",
@@ -33246,7 +33246,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "fry",
     "жарить",
     "ǯal'ǯači-",
@@ -33264,7 +33264,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "wait",
     "ждать",
     "xalači-",
@@ -33282,7 +33282,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "forget",
     "забывать",
     "oŋbo-",
@@ -33300,7 +33300,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "depend",
     "зависеть",
     "*",
@@ -33318,7 +33318,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "call",
     "звать",
     "xərsi-",
@@ -33336,7 +33336,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "get_to_know",
     "знакомиться",
     "ičə-",
@@ -33354,7 +33354,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "know",
     "знать ",
     "sā-",
@@ -33372,7 +33372,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "play#instrument#",
     "играть",
     "xupi-",
@@ -33390,7 +33390,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "avoid",
     "избегать",
     "sirkəči-",
@@ -33408,7 +33408,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "make",
     "изготовить",
     "anǯu-",
@@ -33426,7 +33426,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "make_fun",
     "издеваться",
     "siŋgərəkəči-",
@@ -33444,7 +33444,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "have",
     "иметь",
     "bi-",
@@ -33462,7 +33462,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "look_for",
     "искать",
     "gələǯu-",
@@ -33480,7 +33480,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "paint",
     "красить",
     "ńīlči-",
@@ -33498,7 +33498,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "bite",
     "кусать",
     "iktəmən-",
@@ -33516,7 +33516,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "forfeit",
     "лишаться",
     "očo-",
@@ -33534,7 +33534,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "try_to_catch",
     "ловить",
     "*",
@@ -33552,7 +33552,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "break",
     "ломать",
     "kiŋdali-",
@@ -33570,7 +33570,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "flatter",
     "льстить",
     "*",
@@ -33588,7 +33588,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "love#person#",
     "любить-1",
     "uləsi-",
@@ -33606,7 +33606,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "wave",
     "махать",
     "xarxi-",
@@ -33624,7 +33624,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "dream",
     "мечтать",
     "muruči-",
@@ -33642,7 +33642,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "wash",
     "мыть",
     "silči-",
@@ -33660,7 +33660,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "put_on",
     "надевать",
     "tətu-",
@@ -33669,7 +33669,7 @@ const fullData = [
     "TR",
     "TR",
     "əj xusə piktə mənə pəru-w tətu-xə-ni",
-    "this male child self trousers-ACC put_on-PST-3SG",
+    "this male child by_oneself trousers-ACC put_on-PST-3SG",
     "‘Этот мальчик сам надел штаны’.",
     "",
     "",
@@ -33678,7 +33678,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_called",
     "называться",
     "gəlbu",
@@ -33696,7 +33696,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "punish",
     "наказывать",
     "gosila-",
@@ -33714,7 +33714,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "attack",
     "напасть",
     "xukču-",
@@ -33732,7 +33732,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "fill#intr#",
     "наполняться",
     "ǯalum o-",
@@ -33750,7 +33750,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "find",
     "находить",
     "bāqu-",
@@ -33768,7 +33768,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_short",
     "недоставать",
     "isi- + NEG",
@@ -33786,7 +33786,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "hate",
     "ненавидеть",
     "gosi-",
@@ -33804,7 +33804,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "like",
     "нравиться",
     "uləsi-",
@@ -33822,7 +33822,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "need",
     "нуждаться",
     "gələu-",
@@ -33840,7 +33840,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "surround",
     "окружать",
     "bi-",
@@ -33858,7 +33858,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "remain",
     "оставаться",
     "puləǯu-",
@@ -33876,7 +33876,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "answer",
     "отвечать",
     "ǯarali-",
@@ -33894,7 +33894,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "open",
     "открывать",
     "ńī-",
@@ -33912,7 +33912,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_different",
     "отличаться",
     "xaŋsi bi-",
@@ -33930,7 +33930,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "fall_behind",
     "отстать",
     "dərəǯu-",
@@ -33948,7 +33948,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "plough",
     "пахать",
     "bojali-",
@@ -33966,7 +33966,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "smell",
     "пахнуть",
     "waqisi-",
@@ -33984,7 +33984,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "cross",
     "пересечь",
     "wələ-",
@@ -34002,7 +34002,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "sing",
     "петь",
     "jaja-",
@@ -34020,7 +34020,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "write",
     "писать",
     "ńuru-",
@@ -34038,7 +34038,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "drink",
     "пить",
     "umi-",
@@ -34056,7 +34056,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "melt",
     "плавить",
     "umbuwən-",
@@ -34074,7 +34074,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "match",
     "подходить",
     "ača-",
@@ -34092,7 +34092,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "leave",
     "покидать",
     "ŋənu-",
@@ -34110,7 +34110,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "cover",
     "покрывать",
     "dasi-",
@@ -34128,7 +34128,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "remember",
     "помнить",
     "əǯəči-",
@@ -34146,7 +34146,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "help",
     "помочь",
     "bələči-",
@@ -34164,7 +34164,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "understand#language#",
     "понимать",
     "utuli-",
@@ -34182,7 +34182,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "hit#target#",
     "попасть",
     "nāŋgu-",
@@ -34200,7 +34200,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "cut_oneself",
     "порезаться",
     "bajla- məpi",
@@ -34218,7 +34218,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "get_stuck",
     "прилипать",
     "daqsa-",
@@ -34236,7 +34236,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "lose#game#",
     "проиграть",
     "dabda-",
@@ -34254,7 +34254,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_glad",
     "радоваться",
     "bārači-",
@@ -34272,7 +34272,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "speak",
     "разговаривать",
     "určulun-",
@@ -34290,7 +34290,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "give_birth",
     "рожать",
     "baqa-",
@@ -34308,7 +34308,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "drop",
     "ронять",
     "tugbu-",
@@ -34326,7 +34326,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "govern",
     "руководить",
     "dālači-",
@@ -34344,7 +34344,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "miss",
     "скучать",
     "ǯonǯi-",
@@ -34362,7 +34362,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "follow",
     "следовать",
     "pulsi-",
@@ -34380,7 +34380,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "dismount",
     "слезать",
     "xulunǯu-",
@@ -34398,7 +34398,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "listen",
     "слушать",
     "dosoǯi-",
@@ -34416,7 +34416,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "obey",
     "слушаться",
     "dosoǯi-",
@@ -34434,7 +34434,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "hear",
     "слышать",
     "doldi-",
@@ -34452,7 +34452,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "mix",
     "смешаться",
     "solip-",
@@ -34470,7 +34470,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "look",
     "смотреть",
     "ičəǯə-",
@@ -34488,7 +34488,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "take_off",
     "снимать",
     "ačo-",
@@ -34506,7 +34506,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "dream#sleeping#",
     "сниться",
     "tolči-",
@@ -34524,7 +34524,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "agree",
     "соглашаться",
     "taxala-",
@@ -34542,7 +34542,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "have_a_quarrel",
     "ссориться",
     "sori-",
@@ -34560,7 +34560,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "cost",
     "стоить",
     "bi-",
@@ -34578,7 +34578,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "shoot_at",
     "стрелять",
     "mewtila-",
@@ -34596,7 +34596,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "pour",
     "сыпать",
     "xulu-",
@@ -34614,7 +34614,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "lose",
     "терять",
     "wədə-",
@@ -34632,7 +34632,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "sink",
     "тонуть",
     "o-",
@@ -34650,7 +34650,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "kill",
     "убивать",
     "wā-",
@@ -34668,7 +34668,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "hit",
     "ударить",
     "pātila-",
@@ -34686,7 +34686,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "kiss",
     "целовать",
     "alawsa-",
@@ -34704,7 +34704,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "read",
     "читать",
     "taun-",
@@ -34722,7 +34722,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "move#bodypart#",
     "шевелить",
     "tunči-",
@@ -34740,7 +34740,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "respect",
     "уважать",
     "uləsi-",
@@ -34758,7 +34758,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_squeamish",
     "брезговать",
     "gali-",
@@ -34776,7 +34776,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_content",
     "быть довольным",
     "*",
@@ -34794,7 +34794,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "fall_in_love",
     "влюбляться",
     "uləsulu-",
@@ -34812,7 +34812,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "trust",
     "доверять",
     "agdi-",
@@ -34830,7 +34830,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "sympathise",
     "жалеть",
     "guǯələsi-",
@@ -34848,7 +34848,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "envy",
     "завидовать",
     "ananasi-",
@@ -34866,7 +34866,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_angry",
     "злиться",
     "tagdanasi-",
@@ -34884,7 +34884,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_surprised",
     "удивляться",
     "pəskə-",
@@ -34902,7 +34902,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "love#tea#",
     "любить-2",
     "uləsi-",
@@ -34920,7 +34920,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "enjoy",
     "наслаждаться",
     "*",
@@ -34938,7 +34938,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "want",
     "хотеть",
     "*",
@@ -34956,7 +34956,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "have_a_grudge",
     "сердиться",
     "tagdanasi-",
@@ -34974,7 +34974,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "take_offence",
     "обижаться",
     "aqsa-",
@@ -34992,7 +34992,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "upset",
     "огорчать",
     "*",
@@ -35010,7 +35010,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "marvel",
     "поражаться",
     "*",
@@ -35028,7 +35028,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "despise",
     "презирать",
     "gosi-",
@@ -35046,7 +35046,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "get_upset",
     "огорчаться",
     "*",
@@ -35064,7 +35064,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "get_irritated",
     "раздражаться",
     "*",
@@ -35082,7 +35082,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_fond",
     "симпатизировать",
     "*",
@@ -35100,7 +35100,7 @@ const fullData = [
     ""
   ],
   [
-    "Skolt Saami",
+    "Ulcha",
     "be_shy",
     "стесняться",
     "ilamsi-",
