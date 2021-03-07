@@ -36,7 +36,7 @@ Ulcha consistently displays the accusative alignment. All arguments of the verb 
     ‘Zina, are you washing the floor?’
 ```
 
-Word order is not used as an argument encoding device. TMA-features of the predicate do not influence argument encoding.
+Word order is not used as an argument encoding device. TAM-features of the predicate do not influence argument encoding.
 
 The verbal person-number subject suffixes are shown in Table 1. Here and below, the tilde separates allomorphs conditioned be declension class, the slash separates variants conditioned by vowel harmony, and dialect variants are parenthesized.
 
@@ -122,7 +122,7 @@ An exceptional postposition is *=ban~=bən* ‘to, into’, which is much more g
 
 ## Verb lemmas
 
-Verbs are shown in the form of a bare stem (including valency-changing marker, but excluding TAM and person affixes).
+Verbs are shown in the form of a bare stem (including valency-changing, aspect, and modality markers, but excluding tense and person-number affixes).
 
 ## Glossing abbreviations
 1, 2, 3 — 1, 2, 3 person; ABL — ablative; ACC — accusative; ADV — adverbializer; AM — associated motion; ATTEN — attenuative; CARIT — caritive; CAUS — causative; CMPR — comparative; CONNEG — connegative; CVB — converb; DAT — dative/essive; DECAUS — decausative; DEM — demonym; DESID — desiderative; DEST — destinative; DISTR — distributive; EMPH — emphatic; HAB — habitual; IMIT — imitative; IMP — imperative; IMPS — impersonal; INCH — inchoative; INS — instrumental; IPFV — imperfective; ITER — iterative; LAT — lative; LOC — locative; NEG — negative; NOM — nominative; NSIM — non-simultaneous; PL — plural; PN — person name; POSS — possessive; PROL — prolative; PRS — present; PST — past; PTCL — particle; Q — question particle; REC — reciprocal; REFL — reflexive; REP — repetitive; RES — resultative; RSTR — restrictive; SG — singular; SIM — simultaneous; SUPERL — superlative; TR — transitive; VBLZ — verbalizer.
