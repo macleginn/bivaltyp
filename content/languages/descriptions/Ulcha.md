@@ -42,6 +42,8 @@ The verbal person-number subject suffixes are shown in Table 1. Here and below, 
 
 Table 1. Person-number subject suffixes (main indicative forms)
 
+<div class="before-table"></div>
+
 |          |     SG        |     PL           |
 |----------|---------------|------------------|
 |     1    |     -i~-bi    |     -pu (-mu)    |
@@ -65,6 +67,8 @@ Ulcha is a language with differential object marking. By default, the direct obj
 Ulcha has 8 (or 9, see below) cases. The case suffixes are shown in Table 2.
 
 Table 2. Case suffixes
+
+<div class="before-table"></div>
 
 |     Case             |     Marker                 |     Gloss    |
 |----------------------|----------------------------|--------------|
