@@ -52,10 +52,11 @@ Ulcha is a language with differential object marking. By default, the direct obj
 
 ```
 (2) bi   mən   am-bi           sā-ra-sim
-    1SG  self  father-REFL.SG  know-CONNEG-PRS.NEG.1SG
+    I    self  father-REFL.SG  know-CONNEG-PRS.NEG.1SG
     ‘I don’t know my father.’
-(3) mənə  sugdata  wā-ŋda-su-j
-    self  fish     kill-AM-HAB-PRS
+    
+(3) mənə        sugdata  wā-ŋda-su-j
+    by_oneself  fish     kill-AM-HAB-PRS
     ‘She herself goes fishing (lit. to kill fish).’
 ```
 
@@ -67,7 +68,7 @@ Table 2. Case suffixes
 
 |     Case             |     Marker                 |     Gloss    |
 |----------------------|----------------------------|--------------|
-|     Nominative       |     Unmarked               | —            |
+|     Nominative       |     unmarked               | —            |
 |     Accusative       |     -wa/-wə~-ba/-bə        | ACC          |
 |     Dative/Essive    |     -du                    | DAT          |
 |     Lative           |     -ti                    | LAT          |
@@ -83,20 +84,23 @@ The ablative case *-ǯiǯi*, which is shown in square brackets in Table 2, is no
 (4)  mō-ǯi     ti-wa	 pati-ču-mar          tugbu-s-i      bi-či-pu
      tree-INS  that-ACC  hit-ITER-CVB.SIM.PL  drop-IPFV-PRS  be-PST-1PL
      ‘We used to shake them (cones) off, hitting them with a stick.’
+     
 (5)  əj	   əktə    dili-ǯi-ni    ńə̄-ri-ti        amba-sal
      this  female  head-INS-3SG	 go_out-PRS-3PL  devil-PL
      ‘Devils are going out of this woman’s head!’
 ```
 
-The destinative case is used in the contexts implying an appearance or a change of the possessor, e.g., in those denoting creation, benefaction, searching-finding, asking-offering events (6)-(8). The destinative form encodes the object of such an event, which at the same time is a new possessee. The destinative suffix is always accompanied with the possessive suffix encoding the person-number of a new possessor. The possessor can be overtly expressed (8), although such uses are rare (the possessor takes the unmarked form, exactly as that within the noun phrase). In this sense, the destinative construction is close to trivalent ones. The argument encoded by the destinative case is always non-specific and cannot have its own modifiers, otherwise it is expressed by the accusative case or the unmarked form, as a regular direct object, cf. *piktəǯuj* [child-DEST-REFL.SG] vs. *xusə piktə* [male child] in (7), used with the same verb ‘to give birth (lit. to find (a child))’. Due to these restrictions, the transitive valency pattern and not that with destinative was chosen in the database for the verb ‘to give birth’.
+The destinative case is used in the contexts implying an appearance or a change of the possessor, e.g., in those denoting creation, benefaction, searching-finding, asking-offering events (6)-(8). The destinative form encodes the object of such an event, which at the same time is a new possessee. The destinative suffix is always accompanied with the possessive suffix encoding the person-number of a new possessor. The possessor can be overtly expressed (8), although such uses are rare (the possessor takes the unmarked form, exactly as that within the noun phrase). In this sense, the destinative construction is close to trivalent ones. The argument encoded by the destinative case is always non-specific and cannot have its own modifiers, otherwise it is expressed by the accusative case or the unmarked form, as a regular direct object, cf. *piktəǯuj* [child-DEST-REFL.SG] vs. *xusə piktə* [male child] in (7), used with the same verb *baqa-* ‘to give birth (lit. to find (a child))’. Due to these restrictions, *baqa-* is analyzed as displaying the transitive pattern (rather than to the pattern with the Y argument encoded by the destinative case).
 
 ```
 (6)  ti-du     Bur-du          ədi-ǯu-j              baqa-ra
      that-DAT  Khabarovsk-DAT  husband-DEST-REFL.SG  find-CVB.NSIM
      ‘There in Khabarovsk I married (lit. found a husband for myself).’
+     
 (7)  Piktə-ǯu-j=də            baqa-xa,  xusə  piktə  baqa-xa
      child-DEST-REFL.SG=EMPH  find-PST  male  child  find-PST
      ‘And (she) gave birth to a child, to a boy’. (Sunik 1985: txt 5)
+     
 (8)   ti    Nikita  šuba-ǯu-n          anǯu-ktu-wu
       that  PN      fur_coat-DEST-3SG  make-DISTR-IMPS
       ‘They will sew a fur coat for this Nikita.’
@@ -108,6 +112,7 @@ Along with the case system, there is a system of postpositions, or rather spatia
 (9)  direktor  ǯuli-lə-n
      director  in_front_of-LOC-3SG
      ‘{They were staying} in front of the director.’
+     
 (10) qori  ǯuli-ki-n
      barn  in_front_of-PROL-3SG
      ‘{I was playing} in front of the barn.’
@@ -124,7 +129,7 @@ Verbs are shown in the form of a bare stem (including valency-changing marker, b
 
 ## References
 
-Census 2010. Itogi Vserossijskoj perepisi naselenija 2010 goda [Results of the All-Russian population census 2010]. [Vladenie jazykami naseleniem korennyx malochislennyx narodov Rossijskoj Federacii] (http://www.gks.ru/free_doc/new_site/perepis2010/croc/Documents/Vol4/pub-04-20.pdf). (Accessed on 24.02.2021)
+Census 2010. Itogi Vserossijskoj perepisi naselenija 2010 goda [Results of the All-Russian population census 2010]. [Vladenie jazykami naseleniem korennyx malochislennyx narodov Rossijskoj Federacii] (http://www.gks.ru/free\_doc/new\_site/perepis2010/croc/Documents/Vol4/pub-04-20.pdf). (Accessed on 24.02.2021)
 
 Petrova, Taisija I. 1936. Ul’čskij dialect nanajskogo jazyka [The Ulcha dialect of Nanai]. Moscow, Leningrad: Učpedgiz.
 
