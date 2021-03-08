@@ -133,7 +133,7 @@ Verbs are shown in the form of a bare stem (including valency-changing, aspect, 
 
 ## References
 
-Census 2010. Itogi Vserossijskoj perepisi naselenija 2010 goda [Results of the All-Russian population census 2010]. [Vladenie jazykami naseleniem korennyx malochislennyx narodov Rossijskoj Federacii] (http://www.gks.ru/free\_doc/new\_site/perepis2010/croc/Documents/Vol4/pub-04-20.pdf). (Accessed on 24.02.2021)
+Census 2010. Itogi Vserossijskoj perepisi naselenija 2010 goda [Results of the All-Russian population census 2010]. [Vladenie jazykami naseleniem korennyx malochislennyx narodov Rossijskoj Federacii](http://www.gks.ru/free_doc/new_site/perepis2010/croc/Documents/Vol4/pub-04-20.pdf). (Accessed on 24.02.2021)
 
 Petrova, Taisija I. 1936. Ul’čskij dialect nanajskogo jazyka [The Ulcha dialect of Nanai]. Moscow, Leningrad: Učpedgiz.
 
