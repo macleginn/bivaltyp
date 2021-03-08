@@ -101,7 +101,7 @@ The destinative case is used in the contexts implying an appearance or a change 
      that-DAT  Khabarovsk-DAT  husband-DEST-REFL.SG  find-CVB.NSIM
      ‘There in Khabarovsk I married (lit. found a husband for myself).’
      
-(7)  Piktə-ǯu-j=də            baqa-xa,  xusə  piktə  baqa-xa
+(7)  piktə-ǯu-j=də            baqa-xa,  xusə  piktə  baqa-xa
      child-DEST-REFL.SG=EMPH  find-PST  male  child  find-PST
      ‘And (she) gave birth to a child, to a boy’. (Sunik 1985: txt 5)
      
