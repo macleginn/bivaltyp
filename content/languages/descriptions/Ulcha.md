@@ -18,7 +18,7 @@ The data were mainly gathered in 2017 in the village of Bulava (Ulchsky District
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
-The whole questionnaire was collected with two native speakers (born in 1937 and 1957 respectively); some data were additionally collected with two more consultants (born in 1937 and 1956). In some particular cases, the elicitation data were verified and supplemented with textual data: texts collected by Orest Sunik in the 1960s and published in Sunik (1985), texts from the archive of Lidia Sem (the 1970s); texts collected by Elena Kalinina and others in 2005-2010, and those collected by Sofia Oskolskaya, Anna Smetina, and Natalia Stoynova in 2017-2019. Whenever possible, analytic decisions were based on the data from the earlier texts, since they are presupposed to be less influenced by Russian. The dictionary by Sunik (1985) was also used to check the data: there is quite a rich list of verbal lexemes in the dictionary, although there is neither any information on their valency patterns nor illustrative examples.
+The whole questionnaire was collected with two native speakers (born in 1937 and 1957 respectively); some data were additionally collected with two more consultants (born in 1939 and 1956). In some particular cases, the elicitation data were verified and supplemented with textual data: texts collected by Orest Sunik in the 1960s and published in Sunik (1985), texts from the archive of Lidia Sem (the 1970s); texts collected by Elena Kalinina and others in 2005-2010, and those collected by Sofia Oskolskaya, Anna Smetina, and Natalia Stoynova in 2017-2019. Whenever possible, analytic decisions were based on the data from the earlier texts, since they are presupposed to be less influenced by Russian. The dictionary by Sunik (1985) was also used to check the data: there is quite a rich list of verbal lexemes in the dictionary, although there is neither any information on their valency patterns nor illustrative examples.
 
 Language attrition might have influenced the data presented. The consultants failed to recall several Ulcha verbs. In some cases, syntactic calquing from Russian can be suspected.
 A simplified transcription based on that proposed in Sunik (1985) is used in the examples.
@@ -38,7 +38,7 @@ Ulcha consistently displays the accusative alignment. All arguments of the verb 
 
 Word order is not used as an argument encoding device. TAM-features of the predicate do not influence argument encoding.
 
-The verbal person-number subject suffixes are shown in Table 1. Here and below, the tilde separates allomorphs conditioned be declension class, the slash separates variants conditioned by vowel harmony, and dialect variants are parenthesized.
+The verbal person-number subject suffixes are shown in Table 1. Here and below, the tilde separates allomorphs conditioned by inflectional class, the slash separates variants conditioned by vowel harmony, and dialect variants are parenthesized.
 
 Table 1. Person-number subject suffixes (main indicative forms)
 
@@ -53,7 +53,7 @@ Table 1. Person-number subject suffixes (main indicative forms)
 Ulcha is a language with differential object marking. By default, the direct object is expressed by the accusative case (1). However, in some contexts the unmarked (nominative) form can be also used (2), (3). The accusative marker is never used when the possessive reflexive marker is present (2). In all other cases (3) there is no strict distribution between the accusative vs. unmarked forms: the choice is regulated mostly by referential properties of the object. In the database, the argument encoding is considered as transitive (TR) irrespectively of whether the accusative or unmarked form was chosen in a particular example.
 
 ```
-(2) bi   mən   am-bi           sā-ra-sim
+(2) bi   mə̄n   am-bi           sā-ra-sim
     I    self  father-REFL.SG  know-CONNEG-PRS.NEG.1SG
     ‘I don’t know my father.’
     
@@ -82,7 +82,7 @@ Table 2. Case suffixes
 |     Locative         |     -la/-lə~-dula/-dulə    | LOC          |
 |     Destinative      |     -ǯu                    | DEST         |
 
-The ablative case *-ǯiǯi*, which is shown in square brackets in Table 2, is not used by modern speakers. The loss of the ablative case is a recent innovation. In Nanai, which is the closest sister of Ulcha, there are two separate cases, i.e., the ablative *-ǯiaǯi~-ǯiəǯi* and the instrumental *-ǯi*. Petrova (1936) mentions that in Ulcha source can be encoded by the dedicated marker *-ǯiǯi* and by *-ǯi*, which diachronically might be a short form of the ablative, homonymic with the instrumental. Modern speakers use the only marker *-ǯi* with reference both to instruments (4) and sources (5).
+The ablative case *-ǯiǯi*, which is shown in square brackets in Table 2, is not used by modern speakers. The loss of the ablative case is a recent innovation. In Nanai, which is the closest sister of Ulcha, there are two separate cases, i.e., the ablative *-ǯiaǯi/-ǯiəǯi* and the instrumental *-ǯi*. Petrova (1936) mentions that in Ulcha source can be encoded by the dedicated marker *-ǯiǯi* and by *-ǯi*, which diachronically might be a short form of the ablative, homonymic with the instrumental. Modern speakers use the only marker *-ǯi* with reference both to instruments (4) and sources (5).
 
 ```
 (4)  mō-ǯi     ti-wa	 pati-ču-mar          tugbu-s-i      bi-či-pu
