@@ -10,26 +10,26 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ser	SBJ	DO	TR	TR		Björn ser ett hus.		‘Björn sees a house.’			
 84	Swedish	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	påverkar	SBJ	DO	TR	TR		Åldern påverkar minnet.		‘Age influences memory.’			
 84	Swedish	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	träffade på	SBJ	DO	TR	TR		Björn träffade på Maja.		‘Björn encountered Maja.’			Phrasal verb
-84	Swedish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	gick in	SBJ	i	Y	SBJ_i	Phrasal verb (*in* is not a flagging device).	Björn gick in i huset.		‘Björn entered the house.’			phrasal verb ('go in')
+84	Swedish	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	gick in	SBJ	i	Y	SBJ_i	Phrasal verb (<i>in</i> is not a flagging device).	Björn gick in i huset.		‘Björn entered the house.’			phrasal verb ('go in')
 84	Swedish	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	slog	SBJ	DO	TR	TR		Björn slog Maja.		‘Björn beat Maja.’			Same as #106. Alternative is vann, which takes över
-84	Swedish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	gick ut	SBJ	ur	Y	SBJ_ur	Phrasal verb (*ut* is not a flagging device).	Björn gick ut ur huset.		‘Björn went out of the house.’			phrasal verb ('go out')
+84	Swedish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	gick ut	SBJ	ur	Y	SBJ_ur	Phrasal verb (<i>ut</i> is not a flagging device).	Björn gick ut ur huset.		‘Björn went out of the house.’			phrasal verb ('go out')
 84	Swedish	15	drive	X (drive) Y	гнать	X (гнать) Y-а	driver	SBJ	DO	TR	TR		Björn driver kon.		‘Björn is driving the cow.’			
 84	Swedish	16	bend	X (bend) Y	гнуть	X (гнуть) Y	böjde	SBJ	DO	TR	TR		Björn böjde grenen.		‘Björn bent the branch.’			
 84	Swedish	17	tell	X (tell) Y	говорить	X (говорить) Y-у	sade	SBJ	till	Y	SBJ_till		Sade Björn till Maja		‘Björn told Maja.’			
 84	Swedish	18	hold	X (hold)Y	держать	X (держать) Y(-а)	håller	SBJ	DO	TR	TR		Björn håller en bok i händerna.		‘Björn is holding a book.’			
 84	Swedish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	hann i kapp	SBJ	DO	TR	TR		Björn hann i kapp Maja.		‘Björn caught up with Miriam.’			CV
 84	Swedish	20	milk	X (milk) Y	доить	X (доить) Y-а	mjölkade	SBJ	DO	TR	TR		Björn mjölkade kon.		‘Björn milked the cow.’			
-84	Swedish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	kom fram	SBJ	till	Y	SBJ_till	Phrasal verb (*fram* is not a flagging device).	Björn kom fram till stranden.		‘Björn reached the bank.’			phrasal verb
-84	Swedish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	rörde vid	SBJ	DO	TR	TR	Phrasal verb (*vid* is not a flagging device).	Björn rörde vid väggen och blev kladdig.		‘Björn touched the wall and gor dirty.’			phrasal verb, based on the verb in 109.
+84	Swedish	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	kom fram	SBJ	till	Y	SBJ_till	Phrasal verb (<i>fram</i> is not a flagging device).	Björn kom fram till stranden.		‘Björn reached the bank.’			phrasal verb
+84	Swedish	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	rörde vid	SBJ	DO	TR	TR	Phrasal verb (<i>vid</i> is not a flagging device).	Björn rörde vid väggen och blev kladdig.		‘Björn touched the wall and gor dirty.’			phrasal verb, based on the verb in 109.
 84	Swedish	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	slåss 	SBJ	med	Y	SBJ_med		Björn slåss med Maja.		‘Björn is fighting with Maja.’			
 84	Swedish	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	är vän	SBJ	med	Y	SBJ_med	Non-verbal predicate.	Björn är vän med Maja.		‘Björn is friends with Maja.’			NV ('be _ friend')
 84	Swedish	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	tänker	SBJ	pa	Y	SBJ_pa		Björn tänker på Maja.		‘Björn is thinking about Maja.’			
 84	Swedish	26	eat	X (eat) Y	есть	X (есть) Y	åt	SBJ	DO	TR	TR		Björn åt ett äpple.		‘Björn ate an apple.’			
 84	Swedish	27	fry	X (fry) Y	жарить	X (жарить) Y	stekte	SBJ	DO	TR	TR		Björn stekte fisken.		‘Björn fried the fish.’			
 84	Swedish	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	väntar	SBJ	pa	Y	SBJ_pa		Björn väntar på Maja.		‘Björn is waiting for Maja.’			
-84	Swedish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	glömt bort	SBJ	DO	TR	TR	Phrasal verb (*bort* is not a flagging device).	Björn hade glömt bort den andra vägen.		‘Björn forgot about the other road.’			phrasal verb
+84	Swedish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	glömt bort	SBJ	DO	TR	TR	Phrasal verb (<i>bort</i> is not a flagging device).	Björn hade glömt bort den andra vägen.		‘Björn forgot about the other road.’			phrasal verb
 84	Swedish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	beror	SBJ	pa	Y	SBJ_pa		Minnet beror på åldern.		‘Memory depends on age.’			
-84	Swedish	31	call	X (call) Y	звать	X (звать) Y-а	ringde	SBJ	DO	TR	TR		Björn ringde Maja.		‘Björn called Maja.’			ПРОВЕРИТЬ
+84	Swedish	31	call	X (call) Y	звать	X (звать) Y-а	ropade på	SBJ	DO	TR	TR	Phrasal verb (<i>på</i> is not a flagging device).	Björn ropade på Maja.		‘Björn called Maja.’			
 84	Swedish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	lärde känna	SBJ	DO	TR	TR		Björn lärde känna Maja för ett år sedan.		‘Björn got to know Maja a year ago.’			CV ('learn to know')
 84	Swedish	33	know	X (know) Y	знать 	X (знать) Y-а	känner	SBJ	DO	TR	TR		Björn känner Maja.		‘Björn knows Maja.’			Same as #115, different structure
 84	Swedish	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	spelar	SBJ	DO	TR	TR		Björn spelar gitarr.		‘Björn is playing the guitar.’			
@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	drömmer	SBJ	om	Y	SBJ_om		Björn drömmer om en ny bil.		‘Björn is dreaming of a new car.’			Same as #97
 84	Swedish	49	wash	X (wash) Y	мыть	X (мыть) Y	diskade	SBJ	DO	TR	TR		Björn diskade koppen.		‘Björn washed the cup.’			
 84	Swedish	50	put_on	X (put_on) Y	надевать	X (надевать) Y	tog på sig	SBJ	DO	TR	TR		Björn tog på sig sina byxor.		‘Björn put on his trousers.’			CV (lit. 'put on self')
-84	Swedish	51	be_called	X (be_called) Y	называться	X (называться) Y	kallas för	SBJ	DO	TR	TR	Phrasal verb (*för* is not a flagging device).	Ett sådant här verktyg kallas för en kompass		‘This instrument is called a compass.’			Reflexive/middle verb. Phrasal verb. 
+84	Swedish	51	be_called	X (be_called) Y	называться	X (называться) Y	kallas för	SBJ	DO	TR	TR	Phrasal verb (<i>för</i> is not a flagging device).	Ett sådant här verktyg kallas för en kompass		‘This instrument is called a compass.’			Reflexive/middle verb. Phrasal verb. 
 84	Swedish	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	straffade	SBJ	DO	TR	TR		Björn straffade sin son.		‘Björn punished his son.’			
 84	Swedish	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	anföll	SBJ	DO	TR	TR		En björn anföll en fiskare.		‘A bear attacked a fisherman.’			
 84	Swedish	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	fylldes	SBJ	med	Y	SBJ_med		Hinken fylldes med vatten.		‘The bucket filled with water.’			
@@ -66,7 +66,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	hamnade efter	SBJ	DO	TR	TR		Björn hamnade efter Maja.		‘Björn fell behind Maja.’			Phrasal verb. Alternatives are hängde efter and halkade efter, but they all have the same valency pattern (and efter is stressed).
 84	Swedish	66	plough	X (plough) Y	пахать	X (пахать) Y	plöjer	SBJ	DO	TR	TR		Björn plöjer åkern.		‘Björn is ploughing the field.’			
 84	Swedish	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	luktar	SBJ	DO	TR	TR		Mina händer luktar bensin.		‘My hands smell of gasoline.’			
-84	Swedish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	gick över	SBJ	DO	TR	TR	Phrasal verb (*över* is not a flagging device).	Björn gick över gatan.		‘Björn crossed the road.’			CV (go + over). ALternative is is korsade, simplex verb, also transitive.
+84	Swedish	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	gick över	SBJ	DO	TR	TR	Phrasal verb (<i>över</i> is not a flagging device).	Björn gick över gatan.		‘Björn crossed the road.’			CV (go + over). ALternative is is korsade, simplex verb, also transitive.
 84	Swedish	69	sing	X (sing) Y	петь	X (петь) Y	sjöng	SBJ	DO	TR	TR		Björn sjöng en vacker sång.		‘Björn sang a beautiful song.’			
 84	Swedish	70	write	X (write) Y	писать	X (писать) Y	skrev	SBJ	DO	TR	TR		Björn skrev ett brev.		‘Björn wrote a letter.’			
 84	Swedish	71	drink	X (drink) Y	пить	X (пить) Y	drack	SBJ	DO	TR	TR		Björn drack mjölken.		‘Björn drank the milk.’			
@@ -77,7 +77,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	76	remember	X (remember) Y	помнить	X (помнить) Y-а	kommer ihåg	SBJ	DO	TR	TR		Björn kommer ihåg sitt barndomshem väl		‘Björn remembers the house well.’			CV ('come in.mid', rememberer as subject (!)). Alternative is minns, also TR.
 84	Swedish	77	help	X (help) Y	помочь	X (помогать) Y-у	hjälpte	SBJ	DO	TR	TR		Björn hjälpte Maja.		‘Björn helped Maja.’			
 84	Swedish	78	understand	X (understand) Y	понимать	X (понимать) Y	förstår	SBJ	DO	TR	TR		Björn förstår franska.		‘Björn understands French.’			
-84	Swedish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	slog ner	SBJ	i	Y	SBJ_i	Phrasal verb (*ner* is not a flagging device).	Blixten slog ner i huset		‘Lightning struck the house.’			Phrasal verb, based on the verb in #13, 106. Alternative is träffade, which is transitive, but does not convey the meaning of accidentality
+84	Swedish	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	slog ner	SBJ	i	Y	SBJ_i	Phrasal verb (<i>ner</i> is not a flagging device).	Blixten slog ner i huset		‘Lightning struck the house.’			Phrasal verb, based on the verb in #13, 106. Alternative is träffade, which is transitive, but does not convey the meaning of accidentality
 84	Swedish	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	skar sig	SBJ	med	Y	SBJ_med		Björn skar sig med en rakkniv.		‘Björn cut himself with a razor.’			CV ('cut himself')
 84	Swedish	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	fastnade	SBJ	i	Y	SBJ_i		Glaset fastnade i bordet.		‘The glass got stuck to the table.’			
 84	Swedish	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	förlorade	SBJ	mot	Y	SBJ_mot		Björn förlorade mot Maja.		‘Björn lost to Maja.’			Same as #42
@@ -87,8 +87,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	86	drop	X (drop) Y	ронять	X (ронять) Y	tappade	SBJ	DO	TR	TR		Björn tappade glaset.		‘Björn dropped the glass.’			
 84	Swedish	87	govern	X (govern) Y	руководить	X (руководить) Y	styr	SBJ	DO	TR	TR		Björn styr vår stad.		‘Björn runs our town.’			Alternative: preposition i for Y.
 84	Swedish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	saknar	SBJ	DO	TR	TR		Björn saknar Maja.		‘Björn misses Maja.’			
-84	Swedish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	följer efter	SBJ	DO	TR	TR	Phrasal verb (*efter* is not a flagging device).	Björn följer efter Maja. 		‘Björn follows Maja.’			Phrasal verb
-84	Swedish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	klev av	SBJ	DO	TR	TR	Phrasal verb (*av* is not a flagging device).	Björn klev av hästen.		‘Björn got down from the horse.’			Phrasal verb
+84	Swedish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	följer efter	SBJ	DO	TR	TR	Phrasal verb (<i>efter</i> is not a flagging device).	Björn följer efter Maja. 		‘Björn follows Maja.’			Phrasal verb
+84	Swedish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	klev av	SBJ	DO	TR	TR	Phrasal verb (<i>av</i> is not a flagging device).	Björn klev av hästen.		‘Björn got down from the horse.’			Phrasal verb
 84	Swedish	91	listen	X (listen) to Y	слушать	X (слушать) Y	lyssnar	SBJ	pa	Y	SBJ_pa		Björn lyssnar på radio.		‘Björn is listening to radio.’			
 84	Swedish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	lyder	SBJ	DO	TR	TR		Björn lyder alltid sin mamma.		‘Björn always listens to his mother.’			Alternative: lyssnar (NOM_på), which means literally 'listens to' (= #91).
 84	Swedish	93	hear	X (hear) Y	слышать	X (слышать) Y	hör	SBJ	DO	TR	TR		Björn hör musiken.		‘Björn hears the music.’			
@@ -96,11 +96,11 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	95	look	X (look) at Y	смотреть	X (смотреть) на Y	tittar	SBJ	pa	Y	SBJ_pa		Björn tittar på molnen.		‘Björn is looking at the clouds.’			
 84	Swedish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	tog av sig	SBJ	DO	TR	TR		Björn tog av sig sin tröja.		‘Björn took off his shirt.’			CV (lit. 'took of himself')
 84	Swedish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	drömmer	SBJ	om	Y	SBJ_om		Maja drömmer om Björn.		‘Björn dreams about Miriam.’			Same as #48
-84	Swedish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	höll med	SBJ	DO	TR	TR	Phrasal verb (*med* is not a flagging device).	Björn höll med Maja.		‘Björn agreed with Maja.’			phrasal verb
+84	Swedish	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	höll med	SBJ	DO	TR	TR	Phrasal verb (<i>av</i> is not a flagging device).	Björn höll med Maja.		‘Björn agreed with Maja.’			phrasal verb
 84	Swedish	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	bråkade	SBJ	med	Y	SBJ_med		Björn bråkade med Maja.		‘Björn had a quarrel with Maja.’			Not entirely clear whether med is the preposition or part of a phrasal verb here. The most natural translation is literally 'X and Y quarrelled', which does not meet my criteria
 84	Swedish	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	kostar	SBJ	DO	TR	TR		Den här koppen kostar 1 euro.		‘This cup costs 1 euro.’			
 84	Swedish	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	sköt	SBJ	mot	Y	SBJ_mot		Björn sköt mot fågeln.		‘Björn shot at the bird.’			
-84	Swedish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	hällde i	SBJ	DO	TR	TR	Phrasal verb (the first *i* is not a flagging device).	Björn hällde i socker i koppen.		‘Björn poured the sugar into the cup.’			phrasal verb ('put in')
+84	Swedish	102	pour	X (pour) Y	сыпать	X (сыпать) Y	hällde i	SBJ	DO	TR	TR	Phrasal verb (the first <i>i</i> is not a flagging device).	Björn hällde i socker i koppen.		‘Björn poured the sugar into the cup.’			phrasal verb ('put in')
 84	Swedish	103	lose	X (lose) Y	терять	X (терять) Y	tappade bort	SBJ	DO	TR	TR		Björn tappade bort sina nycklar.		‘Björn lost his keys.’			Phrasal verb, based on the verb in #86. Alternative is förlorade (also TR), which implies more serious/permanent loss.
 84	Swedish	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sjönk	SBJ	i	Y	SBJ_i		Stocken sjönk i vattnet.		‘The log sank in the water.’			Alternative: sjönk ner (phrasal verb), same pattern
 84	Swedish	105	kill	X (kill) Y	убивать	X (убивать) Y-а	dödade	SBJ	DO	TR	TR		Björn dödade Maja		‘Björn killed Maja.’			
@@ -112,7 +112,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	äcklas	SBJ	av	Y	SBJ_av		Björn äcklas av smutsdisk.		‘Björn is squeamish about dirty dishes.’			Reflexive/middle verb. Alternative is sth. like "B. is sqeamish when it comes to dirty plates", I can't accept this.
 84	Swedish	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	är nöjd	SBJ	med	Y	SBJ_med	Non-verbal predicate.	Björn är nöjd med sin son.		‘Björn is satisfied with his son.’			NV ('be + satisfied')
 84	Swedish	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	förälskade sig	SBJ	i	Y	SBJ_i		Björn förälskade sig i Maja.		‘Björn fell in love with Maja.’			CV (lit. 'enamoured himself'). Alternative is "blev kar' ('became fond'), same structure.
-84	Swedish	114	trust	X (trust) Y	доверять	X (доверять) Y-у	litar på	SBJ	DO	TR	TR	Phrasal verb (*på* is not a flagging device).	Björn litar på Maja.		‘Björn trusts Maja.’			The på in litar på seems to be an unstressed verbal particle, which would make the sentence transitive. Fronting på Maja, especially in a more complex sentence like *På Maja har jag svårt att lita feels unnatural, or even ungrammatical (it sounds like the person finds it difficult to “lita” while on top of Maja, further complicated by the fact that lita does not exist as a standalone verb). –Emil
+84	Swedish	114	trust	X (trust) Y	доверять	X (доверять) Y-у	litar på	SBJ	DO	TR	TR	Phrasal verb (<i>på</i> is not a flagging device).	Björn litar på Maja.		‘Björn trusts Maja.’			The på in litar på seems to be an unstressed verbal particle, which would make the sentence transitive. Fronting på Maja, especially in a more complex sentence like *På Maja har jag svårt att lita feels unnatural, or even ungrammatical (it sounds like the person finds it difficult to “lita” while on top of Maja, further complicated by the fact that lita does not exist as a standalone verb). –Emil
 84	Swedish	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	känner	SBJ	med	Y	SBJ_med		Björn känner med sin mamma.		‘Björn sympathises with his mother.’			Same as #33, different structure
 84	Swedish	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	är avundsjuk	SBJ	pa	Y	SBJ_pa	Non-verbal predicate.	Björn är avundsjuk på Maja.		‘Björn envies Maja.’			NV ('is envious'). Alternative is avundas (simplex verb), transitive
 84	Swedish	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	är arg	SBJ	pa	Y	SBJ_pa	Non-verbal predicate.	Björn är arg på Maja.		‘Björn is angry with Maja.’			NV ('is angry')
@@ -127,5 +127,5 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	126	despise	X (despise) Y	презирать	X (презирать) Y-а	avskyr	SBJ	DO	TR	TR		Björn avskyr Maja. 		‘Björn despises Maja.’			
 84	Swedish	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	blev upprörd	SBJ	pa	Y	SBJ_pa	Non-verbal predicate (passive).	Björn blev upprörd på sin son.		‘Björn got upset with his son.’			CV ('become + angry'). Similar meanings can expressed by other adjectives (ar, sur) with the same valency structure.
 84	Swedish	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	blev irriterad	SBJ	pa	Y	SBJ_pa	Non-verbal predicate (passive).	Björn håller på att bli irriterad på sin dotter.		‘Björn is getting irritated with his daughter.’			CV ('become + irritated')
-84	Swedish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	tycker om	SBJ	DO	TR	TR	Phrasal verb (*om* is not a flagging device).	Björn tycker om Maja.		‘Björn is fond of Maja.’			Phrasal verb
+84	Swedish	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	tycker om	SBJ	DO	TR	TR	Phrasal verb (<i>om</i> is not a flagging device).	Björn tycker om Maja.		‘Björn is fond of Maja.’			Phrasal verb
 84	Swedish	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	är generad	SBJ	over	Y	SBJ_over	Non-verbal predicate.	Björn är generad över sin längd.		‘Björn is embarrased about his height.’			NV ('be + shy'). Alternative is "är har dålig självkänsla", same valency pattern
