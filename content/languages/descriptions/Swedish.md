@@ -2,6 +2,8 @@
 Contributed by [Ksenia Shagal](https://researchportal.helsinki.fi/en/persons/ksenia-shagal) ([Academia.edu profile](https://helsinki.academia.edu/KseniaShagal)), Emil Ingelsten, and David Avellan-Hultman
 
 ![K.S.'s photo]({{ site_url_j }}/images/Shagal.jpg "K.S.'s photo")
+![E.I.'s photo]({{ site_url_j }}/images/Ingelsten.jpg "K.S.'s photo")
+![D.A.'s photo]({{ site_url_j }}/images/AvellanHultman.jpg "A.H.'s photo")
 
 ## How to cite
 > Shagal, Ksenia, Emil Ingelsten, and David Avellan-Hultman. 2021. Bivalent patterns in {{ language_external}}. 
