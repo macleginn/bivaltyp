@@ -909,7 +909,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 45	128	ajaktači-	NOM	DIR	Y	NOM_DIR	Petia əktə piktə-či-i ajakta-či-ni	PN женщина ребёнок-DIR-P.REFL.SG злость-IPFV.NPST-P.3SG	‘Петя раздражается на свою дочь.’					
 45	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
 45	130	elaǯi-	NOM	INS	Y	NOM_INS	Petia mənə gogda-ǯI-i elaǯi-ni	PN REFL высокий-INS-P.REFL.SG стесняться.NPST-P.3SG	‘Петя стесняется своего роста.’					
-38	1	å ha vondt	SBJ	i	Y	SBJ_i	Per ha-r vond-t i hod-et	PN have-PRS painful in head-DEF.N.SG	‘Per has a headache.’			‘У Пера болит голова.’		
+38	1	å ha vondt	SBJ	i	Y	SBJ_i	Per ha-r vond-t i hod-et	PN have-PRS painful-INDF.N.SG in head-DEF.N.SG	‘Per has a headache.’			‘У Пера болит голова.’		
 38	2	å ha	SBJ	DO	TR	TR	Per ha-r influensa	PN have-PRS flu	‘Per has the flu.’			‘Пер болеет гриппом.’		
 38	3	å være redd	SBJ	for	Y	SBJ_for	Per er redd for hund-en	PN be.PRS afraid for dog-DEF.M.SG	‘Per is afraid of the dog.’	Non-verbal predicate.		‘Пер боится собаки.’		
 38	4	å kaste	SBJ	DO	TR	TR	Per kaste-t stein-en først	PN throw-PST stone-DEF.M.SG first	‘Per threw the stone first.’			‘Пер бросил камень первым.’		
@@ -928,7 +928,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	17	å si	SBJ	til	Y	SBJ_til	«kom på besøk» sa Per til Ola	«come.IMP on visit» say.PST PN to PN	"‘Per told Ola: ""Come and visit"".’"			"‘Пер сказал Уле: ""Приходи ко мне в гости"".’"		
 38	18	å holde	SBJ	DO	TR	TR	Per holde-r ei bok i hend-ene	PN hold-PRS INDF.F.SG book in hand-DEF.PL	‘Per is holding a book in his hands.’			‘Пер держит книгу в руках.’		
 38	19	å ta igjen	SBJ	DO	TR	TR	Per tok Kari igjen	PN take.PST PN again	‘Per caught up with Kari.’			‘Пер догнал Кари.’		
-38	20	å melke	SBJ	DO	TR	TR	Per melke-t ku-a	PN milk.PST cow-DEF.F.SG	‘Per milked the cow.’			‘Пер подоил корову.’		
+38	20	å melke	SBJ	DO	TR	TR	Per melke-t ku-a	PN milk-PST cow-DEF.F.SG	‘Per milked the cow.’			‘Пер подоил корову.’		
 38	21	å nå	SBJ	DO	TR	TR	Per nådde bredd-en	PN reach.PST bank-DEF.M.SG	‘Per reached the bank.’			‘Пер достиг берега.’		
 38	22	å ta	SBJ	pa	Y	SBJ_pa	Per tok på vegg-en og ble flekkete	PN take.PST on wall-DEF.M.SG and become.PST spotted	‘Per touched the wall and got dirty.’			‘Пер дотронулся до стены и испачкался.’		
 38	23	å slåss	SBJ	med	Y	SBJ_med	Per slåss med Ola	PN fight.PRS with PN	‘Per is fighting with Ola.’			‘Пер дерется с Улой.’		
@@ -947,7 +947,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	36	å lage	SBJ	DO	TR	TR	Per lage-t en musefelle	PN make-PST INDF.M.SG mousetrap	‘Per made a mousetrap.’			‘Пер изготовил мышеловку.’		
 38	37	å gjøre narr	SBJ	av	Y	SBJ_av	nå gjø-r Per narr av Ola	now make-PRS PN fool of PN	‘Now Per is making fun of Ola.’			‘Теперь Пер издевается над Улой.’		
 38	38	å ha	SBJ	DO	TR	TR	Per ha-r bil	PN have-PRS car	‘Per has a car.’			‘У Пети есть машина.’		
-38	39	å lete	SBJ	etter	Y	SBJ_etter	Per lete-r etter nøkl-ene	PN seek-PRS behind key-DEF.PL	‘Per is looking for his keys.’			‘Пер ищет ключи.’		
+38	39	å lete	SBJ	etter	Y	SBJ_etter	Per lete-r etter nøkl-ene	PN seek-PRS after key-DEF.PL	‘Per is looking for his keys.’			‘Пер ищет ключи.’		
 38	40	å male	SBJ	DO	TR	TR	Per mal-te gjerd-et	PN paint-PST fence-DEF.N.SG	‘Per painted the fence.’			‘Пер покрасил забор.’		
 38	41	å bite	SBJ	DO	TR	TR	hund-en bet Per	dog-DEF.M.SG bite.PST PN	‘The dog bit Per.’			‘Собака укусила Пера.’		
 38	42	å miste	SBJ	DO	TR	TR	Per miste-t hus-et sitt	PN lose-PST house-DEF.N.SG POSS.REFL.N.SG	‘Per lost his house.’			‘Пер лишился дома.’		
@@ -970,10 +970,10 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	59	å trenge	SBJ	DO	TR	TR	nå trenge-r Per peng-er	now need-PRS PN money-PL	‘Now Per needs money.’			‘Теперь Перу нужны деньги.’		
 38	60	å være omgitt	av	SBJ	X	av_SBJ	by-en er omgitt av mur-er	town-DEF.M.SG be.PRS surround.PTCP of wall-PL	‘Walls surround the city.’	Non-verbal predicate (passive).		‘Стены окружают город.’		
 38	61	å ha igjen	SBJ	DO	TR	TR	nå ha-r Per 10 dollar igjen	now have-PRS PN 10 dollar again	‘Per has ten dollars left.’			‘Теперь у Пера осталось 10 долларов.’		
-38	62	å svare	SBJ	DO	TR	TR	Per svar-te lærer-en	PN answer-PST lærer-DEF.M.SG	‘Per answered the teacher.’			‘Пер ответил учителю.’		
+38	62	å svare	SBJ	DO	TR	TR	Per svar-te lærer-en	PN answer-PST teacher-DEF.M.SG	‘Per answered the teacher.’			‘Пер ответил учителю.’		
 38	63	å åpne	SBJ	DO	TR	TR	Per åpne-t boks-en	PN open-PST can-DEF.M.SG	‘Per opened a can.’			‘Пер открыл банку.’		
 38	64	å være annerledes	SBJ	enn	Y	SBJ_enn	min skjorte er annerledes enn din	my.SG shirt be.PRS different than your.SG	‘My shirt is different from yours.’	Non-verbal predicate.		‘Моя рубашка отличается от твоей.’		
-38	65	å ligge etter	SBJ	DO	TR	TR	Per lå etter Ola	PN lie.PST behind PN	‘Per fell behind Ola.’			‘Пер отстал от Улы.’		
+38	65	å ligge etter	SBJ	DO	TR	TR	Per lå etter Ola	PN lie.PST after PN	‘Per fell behind Ola.’			‘Пер отстал от Улы.’		
 38	66	å pløye	SBJ	DO	TR	TR	Per pløye-r jord-et	PN plough-PRS field-DEF.N.SG	‘Per is ploughing the field.’			‘Пер пашет поле.’		
 38	67	å lukte	SBJ	DO	TR	TR	hend-ene mine lukte-r bensin	hand-DEF.PL my.PL smell-PRS gasoline	‘My hands smell of gasoline.’			‘Мои руки пахнут бензином.’		
 38	68	å krysse	SBJ	DO	TR	TR	Per krysse-t vei-en	PN cross-PST way-DEF.M.SG	‘Per crossed the road.’			‘Пер пересек дорогу.’		
@@ -997,10 +997,10 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	86	å miste	SBJ	DO	TR	TR	Per miste-t glass-et i gulv-et	PN lose-PST glass-DEF.N.SG in floor-DEF.N.SG	‘Per dropped the glass.’			‘Пер уронил стакан.’		
 38	87	å lede	SBJ	DO	TR	TR	Per lede-r bygd-a vår	PN lead-PRS village-DEF.F.SG our	‘Per runs our town.’			‘Пер руководит нашим поселком.’		
 38	88	å savne	SBJ	DO	TR	TR	Per savne-r Kari	PN miss-PRS PN	‘Per misses Kari.’			‘Пер скучает по Кари.’		
-38	89	å følge etter	SBJ	DO	TR	TR	Per følge-r etter Ola	PN follow-PRS behind PN	‘Per follows Kari.’			‘Пер следует за Улой.’		
+38	89	å følge etter	SBJ	DO	TR	TR	Per følge-r etter Ola	PN follow-PRS after PN	‘Per follows Kari.’			‘Пер следует за Улой.’		
 38	90	å stige av	SBJ	DO	TR	TR	Per steg av hest-en	PN climb.PST of horse-DEF.M.SG	‘Per got down from the horse.’			‘Пер слез с лошади.’		
 38	91	å lytte	SBJ	til	Y	SBJ_til	Per lytte-r til radio-en	PN listen-PRS to radio-DEF.M.SG	‘Per is listening to radio.’			‘Пер слушает радио.’		
-38	92	å adlyde	SBJ	DO	TR	TR	Per adlyde-r mamma-en sin	PN obey-PRS mother-DEF.F.SG POSS.REFL.F.SG	‘Per obeys his mother.’			‘Пер слушается маму.’		
+38	92	å adlyde	SBJ	DO	TR	TR	Per adlyde-r mamma-en sin	PN obey-PRS mother-DEF.M.SG POSS.REFL.F.SG	‘Per obeys his mother.’			‘Пер слушается маму.’		
 38	93	å høre	SBJ	DO	TR	TR	Per høre-r musikk	PN hear-PRS music	‘Per hears the music.’			‘Пер слышит музыку.’		
 38	94	å blande seg	SBJ	med	Y	SBJ_med	honning-en blande-t seg med melk-en	honey-DEF.M.SG mix-PST REFL with milk-DEF.M.SG	‘The honey got mixed with milk.’			‘Мед смешался с молоком.’		
 38	95	å se	SBJ	pa	Y	SBJ_pa	Per se-r på de mørke sky-ene	PN see-PRS on DET.PL dark.PL cloud-DEF.PL	‘Per is looking at the clouds.’			‘Пер смотрит на тучи.’		
@@ -1023,7 +1023,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	112	å være fornøyd	SBJ	med	Y	SBJ_med	Per er fornøyd med sønn-en sin	PN be.PRS satisfied with son-DEF.M.SG POSS.REFL.M.SG	‘Per is satisfied with his son.’	Non-verbal predicate.		‘Пер доволен своим сыном.’		
 38	113	å bli forelsket	SBJ	i	Y	SBJ_i	Per ble forelsket i Kari	PN become.PST enamoured in PN	‘Per fell in love with Kari.’	Non-verbal predicate.		‘Пер влюбился в Кари.’		
 38	114	å stole på	SBJ	DO	TR	TR	Per stole-r på Kari	PN trust-PRS on PN	‘Per trusts Kari.’			‘Пер доверяет Кари.’		
-38	115	å synes synd på	SBJ	DO	TR	TR	Per syne-s synd på mor-en	PN show-PASS.PRS unfortunate on mother-DEF.F.SG	‘Per sympathises with his mother.’			‘Пер жалеет свою мать.’		
+38	115	å synes synd på	SBJ	DO	TR	TR	Per syne-s synd på mor-en	PN show-PASS.PRS unfortunate on mother-DEF.M.SG	‘Per sympathises with his mother.’			‘Пер жалеет свою мать.’		
 38	116	å være misunnelig	SBJ	pa	Y	SBJ_pa	Per er misunnelig på Ola	PN be.PRS envious on PN	‘Per envies Ola.’	Non-verbal predicate.		‘Пер завидует Уле.’		
 38	117	å være sint	SBJ	pa	Y	SBJ_pa	Per er sint på Ola	PN be.PRS angry on PN	‘Per is angry with Ola.’	Non-verbal predicate.		‘Пер злится на Улу.’		
 38	118	å bli overrasket	SBJ	over	Y	SBJ_over	Per ble overraske-t over gav-en	PN become.PST surprise-PTCP over gift-DEF.M.SG	‘Per was surprised at this gift.’	Non-verbal predicate (passive).		‘Пер удивился этому подарку.’		
@@ -1559,136 +1559,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 61	128	razburjati se	NOM	zaradiGEN	Y	NOM_zaradiGEN	Pavel se razburja zaradi Аn-e	PN[NOM.SG] RFL upset:IPFV.PRS.3SG because_of PN-GEN.SG	‘Pavel is getting irritated with Ana.’		PN[NOM.SG] RFL раздражать:IPFV.PRS.3SG из.за PN-GEN.SG	‘Павел раздражается на Ану.’		
 61	129	biti všeč	DAT	NOM	X	DAT_NOM	Petr-u je všeč An-a	PN-DAT.SG be.PRS.3SG pleasant PN-NOM.SG	‘Peter is fond of Ana.’		PN-DAT.SG быть.PRS.3SG приятно PN-NOM.SG	‘Петер симпатизирует Ане.’		
 61	130	sramovati se	NOM	GEN	Y	NOM_GEN	Peter se sramuje svoj-e višin-e	PN[NOM.SG] RFL be_ashamed:IPFV.PRS.3SG one’s-GEN.SG.F height-GEN.SG	‘Peter is shy about his height.’		PN[NOM.SG] RFL стесняться:IPFV.PRS.3SG свой-GEN.SG.F рост-GEN.SG	‘Петер стесняется своего роста.’		
-84	1	har ont	SBJ	i	Y	SBJ_i	Björn har ont i huvudet.		‘Björn has a headache.’					
-84	2	har	SBJ	DO	TR	TR	Björn har influensa.		‘Björn has the flu.’					
-84	3	är rädd	SBJ	for	Y	SBJ_for	Björn är rädd för hunden.		‘Björn is afraid of the dog.’	Non-verbal predicate.				
-84	4	kastade	SBJ	DO	TR	TR	Björn kastade en sten först.		‘Björn threw a stone first.’					
-84	5	har tillräckligt	*	*	*		Nu har Björn tillräckligt med pengar.		‘Now Björn has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
-84	6	liknar	SBJ	DO	TR	TR	Björn liknar Mikael.		‘Björn resembles Mikael.’					
-84	7	tror	SBJ	DO	TR	TR	Björn tror Maja.		‘Björn believes Maja.’					
-84	8	tog	SBJ	DO	TR	TR	Björn tog en bok från hyllan.		‘Björn took a book from the shelf.’					
-84	9	ser	SBJ	DO	TR	TR	Björn ser ett hus.		‘Björn sees a house.’					
-84	10	påverkar	SBJ	DO	TR	TR	Åldern påverkar minnet.		‘Age influences memory.’					
-84	11	träffade på	SBJ	DO	TR	TR	Björn träffade på Maja.		‘Björn encountered Maja.’					
-84	12	gick in	SBJ	i	Y	SBJ_i	Björn gick in i huset.		‘Björn entered the house.’	Phrasal verb (<i>in</i> is not a flagging device).				
-84	13	slog	SBJ	DO	TR	TR	Björn slog Maja.		‘Björn beat Maja.’					
-84	14	gick ut	SBJ	ur	Y	SBJ_ur	Björn gick ut ur huset.		‘Björn went out of the house.’	Phrasal verb (<i>ut</i> is not a flagging device).				
-84	15	driver	SBJ	DO	TR	TR	Björn driver kon.		‘Björn is driving the cow.’					
-84	16	böjde	SBJ	DO	TR	TR	Björn böjde grenen.		‘Björn bent the branch.’					
-84	17	sade	SBJ	till	Y	SBJ_till	Sade Björn till Maja		‘Björn told Maja.’					
-84	18	håller	SBJ	DO	TR	TR	Björn håller en bok i händerna.		‘Björn is holding a book.’					
-84	19	hann i kapp	SBJ	DO	TR	TR	Björn hann i kapp Maja.		‘Björn caught up with Miriam.’					
-84	20	mjölkade	SBJ	DO	TR	TR	Björn mjölkade kon.		‘Björn milked the cow.’					
-84	21	kom fram	SBJ	till	Y	SBJ_till	Björn kom fram till stranden.		‘Björn reached the bank.’	Phrasal verb (<i>fram</i> is not a flagging device).				
-84	22	rörde vid	SBJ	DO	TR	TR	Björn rörde vid väggen och blev kladdig.		‘Björn touched the wall and gor dirty.’	Phrasal verb (<i>vid</i> is not a flagging device).				
-84	23	slåss 	SBJ	med	Y	SBJ_med	Björn slåss med Maja.		‘Björn is fighting with Maja.’					
-84	24	är vän	SBJ	med	Y	SBJ_med	Björn är vän med Maja.		‘Björn is friends with Maja.’	Non-verbal predicate.				
-84	25	tänker	SBJ	pa	Y	SBJ_pa	Björn tänker på Maja.		‘Björn is thinking about Maja.’					
-84	26	åt	SBJ	DO	TR	TR	Björn åt ett äpple.		‘Björn ate an apple.’					
-84	27	stekte	SBJ	DO	TR	TR	Björn stekte fisken.		‘Björn fried the fish.’					
-84	28	väntar	SBJ	pa	Y	SBJ_pa	Björn väntar på Maja.		‘Björn is waiting for Maja.’					
-84	29	glömt bort	SBJ	DO	TR	TR	Björn hade glömt bort den andra vägen.		‘Björn forgot about the other road.’	Phrasal verb (<i>bort</i> is not a flagging device).				
-84	30	beror	SBJ	pa	Y	SBJ_pa	Minnet beror på åldern.		‘Memory depends on age.’					
-84	31	ropade på	SBJ	DO	TR	TR	Björn ropade på Maja.		‘Björn called Maja.’	Phrasal verb (<i>på</i> is not a flagging device).				
-84	32	lärde känna	SBJ	DO	TR	TR	Björn lärde känna Maja för ett år sedan.		‘Björn got to know Maja a year ago.’					
-84	33	känner	SBJ	DO	TR	TR	Björn känner Maja.		‘Björn knows Maja.’					
-84	34	spelar	SBJ	DO	TR	TR	Björn spelar gitarr.		‘Björn is playing the guitar.’					
-84	35	undviker	SBJ	DO	TR	TR	Björn undviker Maja.		‘Björn avoids Maja.’					
-84	36	gjorde	SBJ	DO	TR	TR	Björn gjorde en musfälla.		‘Björn made a mousetrap.’					
-84	37	gör narr 	SBJ	av	Y	SBJ_av	Björn gör narr av Maja.		‘Björn is making fun of Maja.’					
-84	38	har	SBJ	DO	TR	TR	Björn har en bil.		‘Björn has a car.’					
-84	39	letar	SBJ	efter	Y	SBJ_efter	Björn letar efter sina nycklar.		‘Björn is looking for his keys.’					
-84	40	målade	SBJ	DO	TR	TR	Björn målade staketet.		‘Björn painted the fence.’					
-84	41	bet	SBJ	DO	TR	TR	En hund bet Björn.		‘A dog bit Björn.’					
-84	42	förlorade	SBJ	DO	TR	TR	Björn förlorade sitt hus.		‘Björn lost his house.’					
-84	43	försöker fånga	SBJ	DO	TR	TR	Björn försöker fånga katten.		‘Björn is trying to catch the cat.’					
-84	44	knäckte	SBJ	DO	TR	TR	Björn knäckte en pinne.		‘Björn broke a stick.’					
-84	45	smickrar	SBJ	DO	TR	TR	Björn smickrar Maja.		‘Björn is flattering Maja.’					
-84	46	älskar	SBJ	DO	TR	TR	Björn älskar Maja.		‘Björn loves Maja.’					
-84	47	vinkar	SBJ	med	Y	SBJ_med	Björn vinkar med en näsduk.		‘Björn is waving a handkerchief.’					
-84	48	drömmer	SBJ	om	Y	SBJ_om	Björn drömmer om en ny bil.		‘Björn is dreaming of a new car.’					
-84	49	diskade	SBJ	DO	TR	TR	Björn diskade koppen.		‘Björn washed the cup.’					
-84	50	tog på sig	SBJ	DO	TR	TR	Björn tog på sig sina byxor.		‘Björn put on his trousers.’					
-84	51	kallas för	SBJ	DO	TR	TR	Ett sådant här verktyg kallas för en kompass		‘This instrument is called a compass.’	Phrasal verb (<i>för</i> is not a flagging device).				
-84	52	straffade	SBJ	DO	TR	TR	Björn straffade sin son.		‘Björn punished his son.’					
-84	53	anföll	SBJ	DO	TR	TR	En björn anföll en fiskare.		‘A bear attacked a fisherman.’					
-84	54	fylldes	SBJ	med	Y	SBJ_med	Hinken fylldes med vatten.		‘The bucket filled with water.’					
-84	55	hittade	SBJ	DO	TR	TR	Björn hittade sina nycklar.		‘Björn found his keys.’					
-84	56	har för lite	SBJ	DO	TR	TR	Björn har en euro för lite.		‘Björn is one euro short.’					
-84	57	hatar	SBJ	DO	TR	TR	Björn hatar Maja.		‘Björn hates Maja.’					
-84	58	gillar	SBJ	DO	TR	TR	Björn gillar den här tröjan.		‘Björn likes this shirt.’					
-84	59	behöver	SBJ	DO	TR	TR	Björn behöver pengar.		‘Björn needs money.’					
-84	60	omger	SBJ	DO	TR	TR	Murarna omger staden.		‘Walls surround the city.’					
-84	61	har kvar	SBJ	DO	TR	TR	Björn har 10 euro kvar.		‘Björn has ten euro left.’					
-84	62	svarade	SBJ	DO	TR	TR	Björn svarade läraren.		‘Björn answered the teacher.’					
-84	63	öppnade	SBJ	DO	TR	TR	Björn öppnade en burk.		‘Björn opened a can.’					
-84	64	inte likadan	SBJ	som	Y	SBJ_som	Nej, min tröja är inte likadan som din.		‘No, my shirt is different from yours.’	Non-verbal predicate.				
-84	65	hamnade efter	SBJ	DO	TR	TR	Björn hamnade efter Maja.		‘Björn fell behind Maja.’					
-84	66	plöjer	SBJ	DO	TR	TR	Björn plöjer åkern.		‘Björn is ploughing the field.’					
-84	67	luktar	SBJ	DO	TR	TR	Mina händer luktar bensin.		‘My hands smell of gasoline.’					
-84	68	gick över	SBJ	DO	TR	TR	Björn gick över gatan.		‘Björn crossed the road.’	Phrasal verb (<i>över</i> is not a flagging device).				
-84	69	sjöng	SBJ	DO	TR	TR	Björn sjöng en vacker sång.		‘Björn sang a beautiful song.’					
-84	70	skrev	SBJ	DO	TR	TR	Björn skrev ett brev.		‘Björn wrote a letter.’					
-84	71	drack	SBJ	DO	TR	TR	Björn drack mjölken.		‘Björn drank the milk.’					
-84	72	smälte	SBJ	DO	TR	TR	Björn smälte en bit bly.		‘Björn melted a piece of lead.’					
-84	73	passar	SBJ	till	Y	SBJ_till	Det här skärpet passar till min klänning.		‘This belt goes well with my dress.’					
-84	74	lämnade	SBJ	DO	TR	TR	Björn lämnade sin hemstad.		‘Björn left his native city.’					
-84	75	täcker	SBJ	DO	TR	TR	Mattan täcker hela golvet.		‘The carpet covers the whole floor.’					
-84	76	kommer ihåg	SBJ	DO	TR	TR	Björn kommer ihåg sitt barndomshem väl		‘Björn remembers the house well.’					
-84	77	hjälpte	SBJ	DO	TR	TR	Björn hjälpte Maja.		‘Björn helped Maja.’					
-84	78	förstår	SBJ	DO	TR	TR	Björn förstår franska.		‘Björn understands French.’					
-84	79	slog ner	SBJ	i	Y	SBJ_i	Blixten slog ner i huset		‘Lightning struck the house.’	Phrasal verb (<i>ner</i> is not a flagging device).				
-84	80	skar sig	SBJ	med	Y	SBJ_med	Björn skar sig med en rakkniv.		‘Björn cut himself with a razor.’					
-84	81	fastnade	SBJ	i	Y	SBJ_i	Glaset fastnade i bordet.		‘The glass got stuck to the table.’					
-84	82	förlorade	SBJ	mot	Y	SBJ_mot	Björn förlorade mot Maja.		‘Björn lost to Maja.’					
-84	83	blev glad	SBJ	over	Y	SBJ_over	Björn blev glad över brevet.		‘Björn was glad about the letter.’	Non-verbal predicate.				
-84	84	pratar	SBJ	med	Y	SBJ_med	Björn pratar med Maja.		‘Björn is speaking with Maja.’					
-84	85	födde	SBJ	DO	TR	TR	Maja födde en son. 		‘Maja gave birth to a son.’					
-84	86	tappade	SBJ	DO	TR	TR	Björn tappade glaset.		‘Björn dropped the glass.’					
-84	87	styr	SBJ	DO	TR	TR	Björn styr vår stad.		‘Björn runs our town.’					
-84	88	saknar	SBJ	DO	TR	TR	Björn saknar Maja.		‘Björn misses Maja.’					
-84	89	följer efter	SBJ	DO	TR	TR	Björn följer efter Maja. 		‘Björn follows Maja.’	Phrasal verb (<i>efter</i> is not a flagging device).				
-84	90	klev av	SBJ	DO	TR	TR	Björn klev av hästen.		‘Björn got down from the horse.’	Phrasal verb (<i>av</i> is not a flagging device).				
-84	91	lyssnar	SBJ	pa	Y	SBJ_pa	Björn lyssnar på radio.		‘Björn is listening to radio.’					
-84	92	lyder	SBJ	DO	TR	TR	Björn lyder alltid sin mamma.		‘Björn always listens to his mother.’					
-84	93	hör	SBJ	DO	TR	TR	Björn hör musiken.		‘Björn hears the music.’					
-84	94	blandades	SBJ	med	Y	SBJ_med	Honungen blandades med mjölken.		‘The honey got mixed with milk.’					
-84	95	tittar	SBJ	pa	Y	SBJ_pa	Björn tittar på molnen.		‘Björn is looking at the clouds.’					
-84	96	tog av sig	SBJ	DO	TR	TR	Björn tog av sig sin tröja.		‘Björn took off his shirt.’					
-84	97	drömmer	SBJ	om	Y	SBJ_om	Maja drömmer om Björn.		‘Björn dreams about Miriam.’					
-84	98	höll med	SBJ	DO	TR	TR	Björn höll med Maja.		‘Björn agreed with Maja.’	Phrasal verb (<i>av</i> is not a flagging device).				
-84	99	bråkade	SBJ	med	Y	SBJ_med	Björn bråkade med Maja.		‘Björn had a quarrel with Maja.’					
-84	100	kostar	SBJ	DO	TR	TR	Den här koppen kostar 1 euro.		‘This cup costs 1 euro.’					
-84	101	sköt	SBJ	mot	Y	SBJ_mot	Björn sköt mot fågeln.		‘Björn shot at the bird.’					
-84	102	hällde i	SBJ	DO	TR	TR	Björn hällde i socker i koppen.		‘Björn poured the sugar into the cup.’	Phrasal verb (the first <i>i</i> is not a flagging device).				
-84	103	tappade bort	SBJ	DO	TR	TR	Björn tappade bort sina nycklar.		‘Björn lost his keys.’					
-84	104	sjönk	SBJ	i	Y	SBJ_i	Stocken sjönk i vattnet.		‘The log sank in the water.’					
-84	105	dödade	SBJ	DO	TR	TR	Björn dödade Maja		‘Björn killed Maja.’					
-84	106	slog	SBJ	DO	TR	TR	Björn slog Maja.		‘Björn hit Maja.’					
-84	107	kysste	SBJ	DO	TR	TR	Björn kysste Maja.		‘Björn kissed Maja.’					
-84	108	läste	SBJ	DO	TR	TR	Björn läste en intressant bok.		‘Björn read an interesting book.’					
-84	109	rörde	SBJ	pa	Y	SBJ_pa	Björn rörde på fingret.		‘Björn moved his finger.’					
-84	110	respekterar	SBJ	DO	TR	TR	Björn respekterar Maja.		‘Björn respects Maja.’					
-84	111	äcklas	SBJ	av	Y	SBJ_av	Björn äcklas av smutsdisk.		‘Björn is squeamish about dirty dishes.’					
-84	112	är nöjd	SBJ	med	Y	SBJ_med	Björn är nöjd med sin son.		‘Björn is satisfied with his son.’	Non-verbal predicate.				
-84	113	förälskade sig	SBJ	i	Y	SBJ_i	Björn förälskade sig i Maja.		‘Björn fell in love with Maja.’					
-84	114	litar på	SBJ	DO	TR	TR	Björn litar på Maja.		‘Björn trusts Maja.’	Phrasal verb (<i>på</i> is not a flagging device).				
-84	115	känner	SBJ	med	Y	SBJ_med	Björn känner med sin mamma.		‘Björn sympathises with his mother.’					
-84	116	är avundsjuk	SBJ	pa	Y	SBJ_pa	Björn är avundsjuk på Maja.		‘Björn envies Maja.’	Non-verbal predicate.				
-84	117	är arg	SBJ	pa	Y	SBJ_pa	Björn är arg på Maja.		‘Björn is angry with Maja.’	Non-verbal predicate.				
-84	118	blev överraskad	SBJ	av	Y	SBJ_av	Björn blev överraskad av presenten.		‘Björn was surprised at this gift.’	Non-verbal predicate (passive).				
-84	119	älskar	SBJ	DO	TR	TR	Björn älskar te.		‘Björn loves tea.’					
-84	120	gillar	SBJ	DO	TR	TR	Björn gillar varmt te.		‘Björn enjoys hot tea.’					
-84	121	*	*	*	*		Björn vill ha en ny mobil.		‘Björn wants to have a new mobile phone.’					
-84	122	är sur	SBJ	pa	Y	SBJ_pa	Björn är sur på Maja.		‘Björn holds a grudge against Maja.’	Non-verbal predicate.				
-84	123	blev sur	SBJ	pa	Y	SBJ_pa	Björn blev sur på Maja.		‘Björn took offence at Maja.’	Non-verbal predicate.				
-84	124	gjorde upprörd	SBJ	DO	TR	TR	Björn gjorde Maja väldigt upprörd.		‘Björn greatly upset Maja.’					
-84	125	förundrades	SBJ	over	Y	SBJ_over	Björn förundrades över staden.		‘Björn was impressed by this town.’					
-84	126	avskyr	SBJ	DO	TR	TR	Björn avskyr Maja. 		‘Björn despises Maja.’					
-84	127	blev upprörd	SBJ	pa	Y	SBJ_pa	Björn blev upprörd på sin son.		‘Björn got upset with his son.’	Non-verbal predicate (passive).				
-84	128	blev irriterad	SBJ	pa	Y	SBJ_pa	Björn håller på att bli irriterad på sin dotter.		‘Björn is getting irritated with his daughter.’	Non-verbal predicate (passive).				
-84	129	tycker om	SBJ	DO	TR	TR	Björn tycker om Maja.		‘Björn is fond of Maja.’	Phrasal verb (<i>om</i> is not a flagging device).				
-84	130	är generad	SBJ	over	Y	SBJ_over	Björn är generad över sin längd.		‘Björn is embarrased about his height.’	Non-verbal predicate.				
+84	1	att ha ont	SBJ	i	Y	SBJ_i	Björn ha-r ont i huvud-et	PN have-PRS painful.INDF.N.SG in head-DEF.N.SG	‘Björn has a headache.’					
+84	2	att ha	SBJ	DO	TR	TR	Björn ha-r influensa	PN have-PRS flu	‘Björn has the flu.’					
+84	3	att vara rädd	SBJ	for	Y	SBJ_for	Björn är rädd för hund-en	PN be.PRS afraid for dog-DEF.C.SG	‘Björn is afraid of the dog.’	Non-verbal predicate.				
+84	4	att kasta	SBJ	DO	TR	TR	Björn kasta-de en sten först	PN throw-PST INDF.C.SG stone first	‘Björn threw a stone first.’					
+84	5	att ha tillräckligt	*	*	*		nu ha-r Björn tillräckligt med peng-ar	now have-PRS PN enough with money-PL	‘Now Björn has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
+84	6	att likna	SBJ	DO	TR	TR	Björn likna-r Mikael	PN resemble-PRS PN	‘Björn resembles Mikael.’					
+84	7	att tro	SBJ	DO	TR	TR	Björn tro-r Maja	PN believe-PRS PN	‘Björn believes Maja.’					
+84	8	att ta	SBJ	DO	TR	TR	Björn tog en bok från hylla-n	PN take.PST INDF.C.SG book from shelf-DEF.C.SG	‘Björn took a book from the shelf.’					
+84	9	att se	SBJ	DO	TR	TR	Björn se-r ett hus	PN see-PRS INDF.N.SG house	‘Björn sees a house.’					
+84	10	att påverka	SBJ	DO	TR	TR	ålder-n påverka-r minne-t	age-DEF.C.SG influence-PRS memory-DEF.N.SG	‘Age influences memory.’					
+84	11	att träffa på	SBJ	DO	TR	TR	Björn träffa-de på Maja	PN meet-PST on PN	‘Björn encountered Maja.’					
+84	12	att gå in	SBJ	i	Y	SBJ_i	Björn gick in i hus-et	PN go.PST inside in house-DEF.N.SG	‘Björn entered the house.’	Phrasal verb (<i>in</i> is not a flagging device).				
+84	13	att slå	SBJ	DO	TR	TR	Björn slog Maja	PN beat.PST PN	‘Björn beat Maja.’					
+84	14	att gå ut	SBJ	ur	Y	SBJ_ur	Björn gick ut ur hus-et	PN go.PST out out_of house-DEF.N.SG	‘Björn went out of the house.’	Phrasal verb (<i>ut</i> is not a flagging device).				
+84	15	att driva	SBJ	DO	TR	TR	Björn driv-er ko-n	PN drive-PRS cow-DEF.C.SG	‘Björn is driving the cow.’					
+84	16	att böja	SBJ	DO	TR	TR	Björn böj-de gren-en	PN bend-PST branch-DEF.C.SG	‘Björn bent the branch.’					
+84	17	att säga	SBJ	till	Y	SBJ_till	sade Björn till Maja	say.PST PN to PN	‘Björn told Maja.’					
+84	18	att hålla	SBJ	DO	TR	TR	Björn håll-er en bok i händ-erna	PN hold-PRS INDF.C.SG book in hand-DEF.PL	‘Björn is holding a book.’					
+84	19	att hinna i kapp	SBJ	DO	TR	TR	Björn hann i kapp Maja	PN be_in_time.PST in race PN	‘Björn caught up with Miriam.’					
+84	20	att mjölka	SBJ	DO	TR	TR	Björn mjölka-de ko-n	PN milk-PST cow-DEF.C.SG	‘Björn milked the cow.’					
+84	21	att komma fram	SBJ	till	Y	SBJ_till	Björn kom fram till strand-en	PN come.PST forward to bank-DEF.C.SG	‘Björn reached the bank.’	Phrasal verb (<i>fram</i> is not a flagging device).				
+84	22	att röra vid	SBJ	DO	TR	TR	Björn rör-de vid vägg-en och blev kladdig	PN move-PST at wall-DEF.C.SG and become.PST smeared	‘Björn touched the wall and gor dirty.’	Phrasal verb (<i>vid</i> is not a flagging device).				
+84	23	att slåss 	SBJ	med	Y	SBJ_med	Björn slåss med Maja	PN fight.PRS with PN	‘Björn is fighting with Maja.’					
+84	24	att vara vän	SBJ	med	Y	SBJ_med	Björn är vän med Maja	PN be.PRS friend with PN	‘Björn is friends with Maja.’	Non-verbal predicate.				
+84	25	att tänka	SBJ	pa	Y	SBJ_pa	Björn tänk-er på Maja	PN think-PRS on PN	‘Björn is thinking about Maja.’					
+84	26	att äta	SBJ	DO	TR	TR	Björn åt ett äpple	PN eat.PST INDF.N.SG apple	‘Björn ate an apple.’					
+84	27	att steka	SBJ	DO	TR	TR	Björn stek-te fisk-en	PN fry-PST fish-DEF.C.SG	‘Björn fried the fish.’					
+84	28	att vänta	SBJ	pa	Y	SBJ_pa	Björn vänta-r på Maja	PN wait-PRS on PN	‘Björn is waiting for Maja.’					
+84	29	att glömma bort	SBJ	DO	TR	TR	Björn hade glöm-t bort den andr-a väg-en	PN have.PST forget-PTCP away DEF.C.SG other-WEAK way-DEF.C.SG	‘Björn forgot about the other road.’	Phrasal verb (<i>bort</i> is not a flagging device).				
+84	30	att bero	SBJ	pa	Y	SBJ_pa	minn-et bero-r på ålder-n	memory-DEF.N.SG depend-PRS on age-DEF.C.SG	‘Memory depends on age.’					
+84	31	att ropa på	SBJ	DO	TR	TR	Björn ropa-de på Maja	PN call-PST on PN	‘Björn called Maja.’	Phrasal verb (<i>på</i> is not a flagging device).				
+84	32	att lära känna	SBJ	DO	TR	TR	Björn lär-de känna Maja för ett år sedan	PN learn-PST know.INF PN for one year since	‘Björn got to know Maja a year ago.’					
+84	33	att känna	SBJ	DO	TR	TR	Björn känn-er Maja	PN know-PRS PN	‘Björn knows Maja.’					
+84	34	att spela	SBJ	DO	TR	TR	Björn spela-r gitarr	PN play-PRS guitar	‘Björn is playing the guitar.’					
+84	35	att undvika	SBJ	DO	TR	TR	Björn undvik-er Maja	PN avoid-PRS PN	‘Björn avoids Maja.’					
+84	36	att göra	SBJ	DO	TR	TR	Björn gjor-de en musfälla	PN make-PST INDF.C.SG mousetrap	‘Björn made a mousetrap.’					
+84	37	att göra narr 	SBJ	av	Y	SBJ_av	Björn gö-r narr av Maja	now make-PRS fool of PN	‘Björn is making fun of Maja.’					
+84	38	att ha	SBJ	DO	TR	TR	Björn ha-r en bil	PN have-PRS INDF.C.SG car	‘Björn has a car.’					
+84	39	att leta	SBJ	efter	Y	SBJ_efter	Björn leta-r efter sina nyckl-ar	PN seek-PRS after POSS.REFL.PL key-PL	‘Björn is looking for his keys.’					
+84	40	att måla	SBJ	DO	TR	TR	Björn måla-de staket-et	PN paint-PST fence-DEF.N.SG	‘Björn painted the fence.’					
+84	41	att bita	SBJ	DO	TR	TR	en hund bet Björn	INDF.C.SG dog bite.PST PN	‘A dog bit Björn.’					
+84	42	att förlora	SBJ	DO	TR	TR	Björn förlora-de sitt hus	PN lose-PST POSS.REFL.N.SG house	‘Björn lost his house.’					
+84	43	att försöka fånga	SBJ	DO	TR	TR	Björn försök-er fånga katt-en	PN try-PRS catch.INF cat-DEF.C.SG	‘Björn is trying to catch the cat.’					
+84	44	att knäcka	SBJ	DO	TR	TR	Björn knäck-te en pinne	PN break-PST INDF.C.SG stick	‘Björn broke a stick.’					
+84	45	att smickra	SBJ	DO	TR	TR	Björn smickra-r Maja	PN flatter-PRS PN	‘Björn is flattering Maja.’					
+84	46	att älska	SBJ	DO	TR	TR	Björn älska-r Maja	PN love-PRS PN	‘Björn loves Maja.’					
+84	47	att vinka	SBJ	med	Y	SBJ_med	Björn vinka-r med en näsduk	PN wave-PRS with INDF.C.SG handkerchief	‘Björn is waving a handkerchief.’					
+84	48	att drömma	SBJ	om	Y	SBJ_om	Björn drömm-er om en ny bil	PN dream-PRS about INDF.C.SG new car	‘Björn is dreaming of a new car.’					
+84	49	att diska	SBJ	DO	TR	TR	Björn diska-de kopp-en	PN wash-PST cup-DEF.C.SG	‘Björn washed the cup.’					
+84	50	att ta på sig	SBJ	DO	TR	TR	Björn tog på sig sina byx-or	PN take.PST on REFL POSS.REFL.PL trousers-PL	‘Björn put on his trousers.’					
+84	51	att kallas för	SBJ	DO	TR	TR	ett sådant här verktyg kalla-s för en kompass	INDF.N.SG such here tool call-PRS.PASS for INDF.C.SG compass	‘This instrument is called a compass.’	Phrasal verb (<i>för</i> is not a flagging device).				
+84	52	att straffa	SBJ	DO	TR	TR	Björn straffa-de sin son	PN punish-PST POSS.REFL.C.SG son	‘Björn punished his son.’					
+84	53	att anfalla	SBJ	DO	TR	TR	en björn anföll en fiskare	INDF.C.SG bear attack.PST INDF.C.SG fisherman	‘A bear attacked a fisherman.’					
+84	54	att fyllas	SBJ	med	Y	SBJ_med	hink-en fyll-de-s med vatt-en	bucket-DEF.C.SG fill-PST-PASS with water-DEF.C.SG	‘The bucket filled with water.’					
+84	55	att hitta	SBJ	DO	TR	TR	Björn hitta-de sina nyckl-ar	PN find-PST POSS.REFL.PL key-PL	‘Björn found his keys.’					
+84	56	att ha för lite	SBJ	DO	TR	TR	Björn ha-r en euro för lite	PN have-PRS one.C euro for a_little	‘Björn is one euro short.’					
+84	57	att hata	SBJ	DO	TR	TR	Björn hata-r Maja	PN hate-PRS PN	‘Björn hates Maja.’					
+84	58	att gilla	SBJ	DO	TR	TR	Björn gilla-r den här tröja-n	PN like-PRS DET.F.SG this.C.SG here shirt-DEF.C.SG	‘Björn likes this shirt.’					
+84	59	att behöva	SBJ	DO	TR	TR	Björn behöv-er peng-ar	PN need-PRS money-PL	‘Björn needs money.’					
+84	60	att omge	SBJ	DO	TR	TR	mura-rna omge-r stad-en	wall-DEF.PL surround-PRS city-DEF.C.SG	‘Walls surround the city.’					
+84	61	att ha kvar	SBJ	DO	TR	TR	Björn ha-r 10 euro kvar	PN have-PRS 10 euro left	‘Björn has ten euro left.’					
+84	62	att svara	SBJ	DO	TR	TR	Björn svara-de lärar-en	PN answer-PST teacher-DEF.C.SG	‘Björn answered the teacher.’					
+84	63	att öppna	SBJ	DO	TR	TR	Björn öppna-de en burk	PN open-PST INDF.C.SG can	‘Björn opened a can.’					
+84	64	NEG + att vara likadan	SBJ	som	Y	SBJ_som	nej, min tröja är inte likadan som din	no my.C.SG shirt be.PRS not similar as your.C.SG	‘No, my shirt is different from yours.’	Non-verbal predicate.				
+84	65	att hamna efter	SBJ	DO	TR	TR	Björn hamna-de efter Maja	PN end_up-PST after PN	‘Björn fell behind Maja.’					
+84	66	att plöja	SBJ	DO	TR	TR	Björn plöj-er åker-n	PN plough-PRS field-DEF.C.SG	‘Björn is ploughing the field.’					
+84	67	att lukta	SBJ	DO	TR	TR	mina händ-er lukta-r bensin	my.PL hand-PL smell-PRS gasoline	‘My hands smell of gasoline.’					
+84	68	att gå över	SBJ	DO	TR	TR	Björn gick över gata-n	PN go.PST over street-DEF.C.SG	‘Björn crossed the road.’	Phrasal verb (<i>över</i> is not a flagging device).				
+84	69	att sjunga	SBJ	DO	TR	TR	Björn sjöng en vacker sång	PN sing.PST INDF.C.SG beautiful song	‘Björn sang a beautiful song.’					
+84	70	att skriva	SBJ	DO	TR	TR	Björn skrev ett brev	PN write.PST INDF.N.SG letter	‘Björn wrote a letter.’					
+84	71	att dricka	SBJ	DO	TR	TR	Björn drack mjölk-en	PN drink.PST milk-DEF.C.SG	‘Björn drank the milk.’					
+84	72	att smälta	SBJ	DO	TR	TR	Björn smäl-te en bit bly	PN melt-PST INDF.C.SG piece lead	‘Björn melted a piece of lead.’					
+84	73	att passa	SBJ	till	Y	SBJ_till	det här skärp-et passa-r till min klänning	this.N.SG here belt-DEF.N.SG fit-PRS to my.C.SG dress	‘This belt goes well with my dress.’					
+84	74	att lämna	SBJ	DO	TR	TR	Björn lämna-de sin hemstad	PN leave-PST POSS.REFL.C.SG home_town	‘Björn left his native city.’					
+84	75	att täcka	SBJ	DO	TR	TR	matta-n täck-er hela golv-et	carpet-DEF.С.SG cover-PRS whole floor-DEF.N.SG	‘The carpet covers the whole floor.’					
+84	76	att komma ihåg	SBJ	DO	TR	TR	Björn komm-er ihåg sitt barndomshem väl	PN come-PRS well to_mind POSS.REFL.N.SG childhood_home well	‘Björn remembers the house well.’					
+84	77	att hjälpa	SBJ	DO	TR	TR	Björn hjälp-te Maja	PN help-PST PN	‘Björn helped Maja.’					
+84	78	att förstå	SBJ	DO	TR	TR	Björn förstå-r franska	PN understand-PRS French	‘Björn understands French.’					
+84	79	att slå ner	SBJ	i	Y	SBJ_i	blixt-en slog ner i hus-et	lightning-DEF.N.SG hit.PST down in house-DEF.N.SG	‘Lightning struck the house.’	Phrasal verb (<i>ner</i> is not a flagging device).				
+84	80	att skära sig	SBJ	med	Y	SBJ_med	Björn skar sig med en rakkniv	PN cut.PST REFL with INDF.C.SG razor	‘Björn cut himself with a razor.’					
+84	81	att fastna	SBJ	i	Y	SBJ_i	glas-et fastna-de i bord-et	glass-DEF.N.SG glue-PST in table-DEF.N.SG	‘The glass got stuck to the table.’					
+84	82	att förlora	SBJ	mot	Y	SBJ_mot	Björn förlora-de mot Maja	PN lose-PST against PN	‘Björn lost to Maja.’					
+84	83	att bli glad	SBJ	over	Y	SBJ_over	Björn blev glad över brev-et	PN become.PST glad over letter-DEF.N.SG	‘Björn was glad about the letter.’	Non-verbal predicate.				
+84	84	att prata	SBJ	med	Y	SBJ_med	Björn prata-r med Maja	PN speak-PST with PN	‘Björn is speaking with Maja.’					
+84	85	att föda	SBJ	DO	TR	TR	Maja föd-de en son	PN give_birth-PST INDF.C.SG son	‘Maja gave birth to a son.’					
+84	86	att tappa	SBJ	DO	TR	TR	Björn tappa-de glas-et	PN lose-PST glass-DEF.N.SG	‘Björn dropped the glass.’					
+84	87	att styra	SBJ	DO	TR	TR	Björn styr vår stad	PN lead.PRS our town	‘Björn runs our town.’					
+84	88	att sakna	SBJ	DO	TR	TR	Björn sakna-r Maja	PN miss-PRS PN	‘Björn misses Maja.’					
+84	89	att följa efter	SBJ	DO	TR	TR	Björn följ-er efter Maja	PN follow-PRS after PN	‘Björn follows Maja.’	Phrasal verb (<i>efter</i> is not a flagging device).				
+84	90	att kliva av	SBJ	DO	TR	TR	Björn klev av häst-en	PN climb.PST of horse-DEF.C.SG	‘Björn got down from the horse.’	Phrasal verb (<i>av</i> is not a flagging device).				
+84	91	att lyssna	SBJ	pa	Y	SBJ_pa	Björn lyssna-r på radio	PN listen-PRS on radio	‘Björn is listening to radio.’					
+84	92	att lyda	SBJ	DO	TR	TR	Björn lyd-er alltid sin mamma	PN obey-PRS always POSS.REFL.С.SG mother	‘Björn always listens to his mother.’					
+84	93	att höra	SBJ	DO	TR	TR	Björn hör musik-en	PN hear.PRS music-DEF.C.SG	‘Björn hears the music.’					
+84	94	att blandas	SBJ	med	Y	SBJ_med	honung-en blanda-de-s med mjölk-en	honey-DEF.C.SG mix-PST-PASS with milk-DEF.C.SG	‘The honey got mixed with milk.’					
+84	95	att titta	SBJ	pa	Y	SBJ_pa	Björn titta-r på moln-en	PN see-PRS on cloud-DEF.PL	‘Björn is looking at the clouds.’					
+84	96	att ta av sig	SBJ	DO	TR	TR	Björn tog av sig sin tröja	PN take.PST of REFL POSS.REFL.C.SG shirt	‘Björn took off his shirt.’					
+84	97	att drömma	SBJ	om	Y	SBJ_om	Maja drömm-er om Björn	PN dream-PRS about PN	‘Björn dreams about Miriam.’					
+84	98	att hålla med	SBJ	DO	TR	TR	Björn höll med Maja	PN keep.PST with PN	‘Björn agreed with Maja.’	Phrasal verb (<i>av</i> is not a flagging device).				
+84	99	att bråka	SBJ	med	Y	SBJ_med	Björn bråka-de med Maja	PN quarrel-PST with PN	‘Björn had a quarrel with Maja.’					
+84	100	att kosta	SBJ	DO	TR	TR	den här kopp-en kosta-r 1 euro	this.C.SG here cup-DEF.C.SG cost-PRS one euro	‘This cup costs 1 euro.’					
+84	101	att skjuta	SBJ	mot	Y	SBJ_mot	Björn sköt mot fågel-n	PN shoot.PST against bird-DEF.C.SG	‘Björn shot at the bird.’					
+84	102	att hälla i	SBJ	DO	TR	TR	Björn häll-de i socker i kopp-en	PN pour-PST in sugar in cup-DEF.C.SG	‘Björn poured the sugar into the cup.’	Phrasal verb (the first <i>i</i> is not a flagging device).				
+84	103	att tappa bort	SBJ	DO	TR	TR	Björn tappa-de bort sina nyckl-ar	PN lose-PST away POSS.REFL.PL key-PL	‘Björn lost his keys.’					
+84	104	att sjunka	SBJ	i	Y	SBJ_i	stock-en sjönk i vattn-et	log-DEF.C.SG sink.PST in water-DEF.N.SG	‘The log sank in the water.’					
+84	105	att döda	SBJ	DO	TR	TR	Björn döda-de Maja	PN kill-PST PN	‘Björn killed Maja.’					
+84	106	att slå	SBJ	DO	TR	TR	Björn slog Maja	PN hit.PST PN	‘Björn hit Maja.’					
+84	107	att kyssa	SBJ	DO	TR	TR	Björn kyss-te Maja	PN kiss-PST PN	‘Björn kissed Maja.’					
+84	108	att läsa	SBJ	DO	TR	TR	Björn läs-te en intressant bok	PN read-PST INDF.C.SG interesting book	‘Björn read an interesting book.’					
+84	109	att röra	SBJ	pa	Y	SBJ_pa	Björn rör-de på fingr-et	PN move-PST on finger-DEF.N.SG	‘Björn moved his finger.’					
+84	110	att respektera	SBJ	DO	TR	TR	Björn respektera-r Maja	PN respect-PRS PN	‘Björn respects Maja.’					
+84	111	att äcklas	SBJ	av	Y	SBJ_av	Björn äckla-s av smutsdisk	PN nauseate-PRS.PASS of dirty_dishes	‘Björn is squeamish about dirty dishes.’					
+84	112	att vara nöjd	SBJ	med	Y	SBJ_med	Björn är nöjd med sin son	PN be.PRS satisfied with POSS.REFL.C.SG son	‘Björn is satisfied with his son.’	Non-verbal predicate.				
+84	113	att förälska sig	SBJ	i	Y	SBJ_i	Björn förälska-de sig i Maja	PN fall_in_love-PST REFL in PN	‘Björn fell in love with Maja.’					
+84	114	att lita på	SBJ	DO	TR	TR	Björn lita-r på Maja	PN trust-PRS on PN	‘Björn trusts Maja.’	Phrasal verb (<i>på</i> is not a flagging device).				
+84	115	att känna	SBJ	med	Y	SBJ_med	Björn känn-er med sin mamma	PN feel-PASS.PRS with POSS.REFL.C.SG mother	‘Björn sympathises with his mother.’					
+84	116	att vara avundsjuk	SBJ	pa	Y	SBJ_pa	Björn är avundsjuk på Maja	PN be.PRS envious on PN	‘Björn envies Maja.’	Non-verbal predicate.				
+84	117	att vara arg	SBJ	pa	Y	SBJ_pa	Björn är arg på Maja	PN be.PRS angry on PN	‘Björn is angry with Maja.’	Non-verbal predicate.				
+84	118	att bli överraskad	SBJ	av	Y	SBJ_av	Björn blev överraska-d av present-en	PN become.PST surprise-PTCP of gift-DEF.C.SG	‘Björn was surprised at this gift.’	Non-verbal predicate (passive).				
+84	119	att älska	SBJ	DO	TR	TR	Björn älska-r te	PN love-PRS tea	‘Björn loves tea.’					
+84	120	att gilla	SBJ	DO	TR	TR	Björn gilla-r varmt te	PN enjoy-PRS warm-N.SG tea	‘Björn enjoys hot tea.’					
+84	121	att vilja ha	*	*	*		Björn vill ha en ny mobil	PN want have.INF INDF.C.SG new mobile_phone	‘Björn wants to have a new mobile phone.’					
+84	122	att vara sur	SBJ	pa	Y	SBJ_pa	Björn är sur på Maja	PN be.PRS sour on PN	‘Björn holds a grudge against Maja.’	Non-verbal predicate.				
+84	123	att bli sur	SBJ	pa	Y	SBJ_pa	Björn blev sur på Maja	PN become.PST sour on PN	‘Björn took offence at Maja.’	Non-verbal predicate.				
+84	124	att göra upprörd	SBJ	DO	TR	TR	Björn gjor-de Maja väldigt upprör-d	PN make-PST PN very upset-PTCP	‘Björn greatly upset Maja.’					
+84	125	att förundras	SBJ	over	Y	SBJ_over	Björn förundra-de-s över stad-en	PN marvel-PST-PST over town-DEF.C.SG	‘Björn was impressed by this town.’					
+84	126	att avsky	SBJ	DO	TR	TR	Björn avsky-r Maja. 	PN despise-PRS PN	‘Björn despises Maja.’					
+84	127	att bli upprörd	SBJ	pa	Y	SBJ_pa	Björn blev upprörd på sin son	PN become.PST upset-PTCP on POSS.REFL.C.SG son	‘Björn got upset with his son.’	Non-verbal predicate (passive).				
+84	128	att bli irriterad	SBJ	pa	Y	SBJ_pa	Björn hålle-r på att bli irritera-d på sin dotter	PN hold-PRS on to become.INF irritate-PTCP on POSS.REFL.C.SG daughter	‘Björn is getting irritated with his daughter.’	Non-verbal predicate (passive).				
+84	129	att tycka om	SBJ	DO	TR	TR	Björn tyck-er om Maja	PN think-PRS about PN	‘Björn is fond of Maja.’	Phrasal verb (<i>om</i> is not a flagging device).				
+84	130	att vara generad	SBJ	over	Y	SBJ_over	Björn är generad över sin längd	PN be.PRS embarrassed over POSS.REFL.C.SG length	‘Björn is embarrased about his height.’	Non-verbal predicate.				
 50	1	ağrımak	GEN	NOM	X	GEN_NOM	Mehmed-in baş-ı ağrı-yor	PN-GEN head-P.3 ache-PRS	‘Mehmet has a headache.’		PN-GEN голова-P.3 болеть-PRS	‘У Мехмета болит голова’.		
 50	2	grip olmak	GEN	NOM	X	GEN_NOM	Mehmed-ın grib-i var	PN-GEN flu-P.3 there_is	‘Mehmet has the flu.’		PN-GEN грипп-P.3 иметься	‘П. болеет гриппом’.		
 50	3	korkmak	NOM	ABL	Y	NOM_ABL	Mehmet köpek-ten kork-uyor	PN dog-ABL be_afraid-PRS	‘Mehmet is afraid of the dog.’		PN собака-ABL бояться-PRS	‘Мехмет боится собаки’.		
