@@ -29780,7 +29780,7 @@ const fullData = [
     "med",
     "Y",
     "SBJ_med",
-    "honung-en blanda-de-s med mjölk-en",
+    "honung-en blanda-de-s med mjölk",
     "honey-DEF.C.SG mix-PST-PASS with milk",
     "‘The honey got mixed with milk.’",
     "",

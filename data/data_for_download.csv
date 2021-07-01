@@ -1652,7 +1652,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 84	91	att lyssna	SBJ	pa	Y	SBJ_pa	Björn lyssna-r på radio	PN listen-PRS on radio	‘Björn is listening to the radio.’					
 84	92	att lyda	SBJ	DO	TR	TR	Björn lyd-er alltid sin mamma	PN obey-PRS always POSS.REFL.С.SG mother	‘Björn always listens to his mother.’					
 84	93	att höra	SBJ	DO	TR	TR	Björn hör musik-en	PN hear.PRS music-DEF.C.SG	‘Björn hears the music.’					
-84	94	att blandas	SBJ	med	Y	SBJ_med	honung-en blanda-de-s med mjölk-en	honey-DEF.C.SG mix-PST-PASS with milk	‘The honey got mixed with milk.’					
+84	94	att blandas	SBJ	med	Y	SBJ_med	honung-en blanda-de-s med mjölk	honey-DEF.C.SG mix-PST-PASS with milk	‘The honey got mixed with milk.’					
 84	95	att titta	SBJ	pa	Y	SBJ_pa	Björn titta-r på moln-en	PN see-PRS on cloud-DEF.N.PL	‘Björn is looking at the clouds.’					
 84	96	att ta av sig	SBJ	DO	TR	TR	Björn tog av sig sin tröja	PN take.PST of REFL POSS.REFL.C.SG shirt	‘Björn took off his shirt.’					
 84	97	att drömma	SBJ	om	Y	SBJ_om	Maja drömm-er om Björn	PN dream-PRS about PN	‘Maja dreams about Björn.’					
