@@ -92,7 +92,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 84	Swedish	91	listen	X (listen) to Y	слушать	X (слушать) Y	att lyssna	SBJ	pa	Y	SBJ_pa		Björn lyssna-r på radio	PN listen-PRS on radio	‘Björn is listening to the radio.’			
 84	Swedish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	att lyda	SBJ	DO	TR	TR		Björn lyd-er alltid sin mamma	PN obey-PRS always POSS.REFL.С.SG mother	‘Björn always listens to his mother.’			Alternative: lyssnar (NOM_på), which means literally 'listens to' (= #91).
 84	Swedish	93	hear	X (hear) Y	слышать	X (слышать) Y	att höra	SBJ	DO	TR	TR		Björn hör musik-en	PN hear.PRS music-DEF.C.SG	‘Björn hears the music.’			
-84	Swedish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	att blandas	SBJ	med	Y	SBJ_med		honung-en blanda-de-s med mjölk-en	honey-DEF.C.SG mix-PST-PASS with milk	‘The honey got mixed with milk.’			Reflexive/middle verb
+84	Swedish	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	att blandas	SBJ	med	Y	SBJ_med		honung-en blanda-de-s med mjölk	honey-DEF.C.SG mix-PST-PASS with milk	‘The honey got mixed with milk.’			Reflexive/middle verb
 84	Swedish	95	look	X (look) at Y	смотреть	X (смотреть) на Y	att titta	SBJ	pa	Y	SBJ_pa		Björn titta-r på moln-en	PN see-PRS on cloud-DEF.N.PL	‘Björn is looking at the clouds.’			
 84	Swedish	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	att ta av sig	SBJ	DO	TR	TR		Björn tog av sig sin tröja	PN take.PST of REFL POSS.REFL.C.SG shirt	‘Björn took off his shirt.’			CV (lit. 'took of himself')
 84	Swedish	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	att drömma	SBJ	om	Y	SBJ_om		Maja drömm-er om Björn	PN dream-PRS about PN	‘Maja dreams about Björn.’			Same as #48
