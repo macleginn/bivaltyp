@@ -120,3 +120,7 @@ Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}
 Ekaterina Zheltova: {{ language:Greek_Modern }}  
 Vasilisa Zhigulskaja: {{ language:Hungarian }}  
 Anastasia Zhuk: {{ language:Kazakh }}  
+
+### Other
+
+In 2021, some help with translations and glossing was provided by Anna Vashchenkova (Czech, Zilo Andi) and Tamara Petushkeeva (Modern Hebrew, Latin). 
