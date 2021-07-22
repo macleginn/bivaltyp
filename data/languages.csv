@@ -4,20 +4,20 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 3	гуарани	Guarani_Paraguayan	Paraguayan Guaraní	Дмитрий Валентинович Герасимов		Dmitry Gerasimov					South America	Tupian	Tupi-Guaraní	-25.61	-57.09	0	WALS, Gerasimov p.c.		para1311	
 4	эстонский	Estonian	Estonian	Ирина Павловна Кюльмоя		Irina Külmoja					Europe	Uralic	Finnic	58.55	25.82	14	wikipedia		esto1258	
 5	цахурский	Tsakhur	Tsakhur	Дмитрий Валентинович Герасимов		Dmitry Gerasimov					West Asia and the Caucasus	Nakh-Daghestanian	Lezgic	41.59	46.89	20	книжка, латив и аллатив считаю за одну серию, с. 54 и далее		tsak1249	
-6	тувинский	Tuvinian	Tuvinian	Софья Алексеевна Оскольская		Sofia Oskolskaya					North and Central Asia	Altaic	Turkic	51.7	94.37	8	Oskolskaya, materials		tuvi1240	
-7	ингерманландский финский	Finnish_Ingrian	Ingrian Finnish	Дарья Федоровна Мищенко		Daria Mishchenko					Europe	Uralic	Finnic	59.47	29.71	13	Mishchenko 2018: 316		finn1318	"Ingrian Finnish is a variety of Glottolog's ""Finnish"" (finn1318) spoken in Ingria. It is different from standard Finnish."
+6	тувинский	Tuvinian	Tuvinian	Софья Алексеевна Оскольская		Sofia Oskolskaya					North and Central Asia	Altaic	Turkic	51,7	94.37	8	Oskolskaya, materials		tuvi1240	
+7	ингерманландский финский	Finnish_Ingrian	Ingrian Finnish	Дарья Федоровна Мищенко		Daria Mishchenko					Europe	Uralic	Finnic	59.47	29.71	13	Mishchenko 2018: 316		finn1318	Ingrian Finnish is a variety of Glottolog's "Finnish" (finn1318) spoken in Ingria. It is different from standard Finnish.
 8	баскский	Basque	Basque	Наталья Михайловна Заика		Natalia Zaika					Europe	Basque	Basque	43.28	-1.32	16	Zaika 2018: 296		basq1248	
 9	французский	French	French	Елена Евгеньевна Корди		Elena Kordi					Europe	Indo-European	Romance	48	2	0	рабочие материалы		stan1290	
 10	немецкий	German	German	Сандра Бирцер		Sandra Birzer					Europe	Indo-European	Germanic	52	10	4	WALS		stan1295	
 11	багвалинский	Bagvalal	Bagvalal	Дмитрий Валентинович Герасимов		Dmitry Gerasimov					West Asia and the Caucasus	Nakh-Daghestanian	Avar-Andic-Tsezic	42.4	46.1	20	книжка, с. 144		bagv1239	
 12	японский	Japanese	Japanese	Юкари Конума		Yukari Konuma					East and Southeast Asia	Japanese	Japanese	35	135	8	условное решение на основе WALS (8-9) и материалов Ю. Конума		nucl1643	
 13	литовский	Lithuanian	Lithuanian	Наталья Михайловна Заика		Natalia Zaika					Europe	Indo-European	Baltic	55.14	23.96	7	wikipedia		lith1251	
-14	калмыцкий	Kalmyk	Kalmyk	Сергей Сергеевич Сай		Sergey Say					Europe	Altaic	Mongolic	46.57	45.32	9	Say 2009: 637		kalm1244	"Kalmyk is a variety of the Glottolog's ""Oirad-Kalmyk-Darkhat"" (kalm 1243) spoken to the North-West of the Caspian Sea"
-15	кхмерский	Khmer	Khmer	Сергей Юрьевич Дмитренко		Sergey Dmitrenko					East and Southeast Asia	Austro-Asiatic	Khmer	12.05	105.02	0	WALS		cent1989	"In Glottolog, this variety is referred to as ""Central Khmer"""
+14	калмыцкий	Kalmyk	Kalmyk	Сергей Сергеевич Сай		Sergey Say					Europe	Altaic	Mongolic	46.57	45.32	9	Say 2009: 637		kalm1244	Kalmyk is a variety of the Glottolog's "Oirad-Kalmyk-Darkhat" (kalm 1243) spoken to the North-West of the Caspian Sea
+15	кхмерский	Khmer	Khmer	Сергей Юрьевич Дмитренко		Sergey Dmitrenko					East and Southeast Asia	Austro-Asiatic	Khmer	12.05	105.02	0	WALS		cent1989	In Glottolog, this variety is referred to as "Central Khmer"
 16	башкирский	Bashkir	Bashkir	Сергей Сергеевич Сай		Sergey Say					Europe	Altaic	Turkic	53.6	56.56	6	Say 2018: 377		bash1264	
-17	латышский	Latvian	Latvian	Наталья Викторовна Перкова		Natalia Perkova					Europe	Indo-European	Baltic	56.83	24.31	5	рабочие материалы		stan1325	"In Glottolog, this variety is referred to as ""Standard Latvian"""
+17	латышский	Latvian	Latvian	Наталья Викторовна Перкова		Natalia Perkova					Europe	Indo-European	Baltic	56.83	24.31	5	рабочие материалы		stan1325	In Glottolog, this variety is referred to as "Standard Latvian"
 18	гуро	Guro	Guro	Ольга Васильевна Кузнецова		Olga Kuznecova					Sub-Saharan Africa	Mande	Eastern Mande	7.35	-6.31	0	Кузнецова, Кузнецова 2017: 783		guro1248	
-19	лоома	Loma	Loma	Дарья Федоровна Мищенко		Daria Mishchenko					Sub-Saharan Africa	Mande	Western Mande	8.2	-9.23	0	Мищенко 2017, языки мира		loma1260	"Glottolog's loma1260 is referred to as ""Loma (Liberia)""; the actual data were gathered in Guinea (fialect Woi-Bhalaga)"
+19	лоома	Loma	Loma	Дарья Федоровна Мищенко		Daria Mishchenko					Sub-Saharan Africa	Mande	Western Mande	8.2	-9.23	0	Мищенко 2017, языки мира		loma1260	Glottolog's loma1260 is referred to as "Loma (Liberia)"; the actual data were gathered in Guinea (fialect Woi-Bhalaga)
 20	лезгинский	Lezgian	Lezgian	Рамазан Гамидович Мамедшахов		Ramazan Mamedshaxov					West Asia and the Caucasus	Nakh-Daghestanian	Lezgic	41.52	47.9	18	Mamedshaxov 2018: 274		lezg1247	
 21	новогреческий	Greek_Modern	Modern Greek	Екатерина Александровна Желтова		Ekaterina Zheltova					Europe	Indo-European	Greek	38.36	23.13	4	рабочие материалы		mode1248	
 22	древнегреческий	Greek_Ancient	Ancient Greek	Ильдар Ильбекович Ибрагимов		Ildar Ibragimov					Europe	Indo-European	Greek	39.82	21.91	5	рабочие материалы		anci1242	
@@ -61,7 +61,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 60	абазинский	Abaza	Abaza	Петр Михайлович Аркадьев		Peter Arkadiev		2017	January 08, 2021	January 21, 2021	West Asia and the Caucasus	Northwest Caucasian	Northwest Caucasian	44.25	42	0	Общие знания, анкета	Russian	abaz1241	
 61	словенский	Slovenian	Slovenian	Андрея Желе, Младен Ухлик		Andreja Žele, Mladen Uhlik		2017, 2021	January 21, 2021	February 12, 2021	Europe	Indo-European	Slavic	46.25	14.78	6		Russian	slov1268	
 62	латынь	Latin	Latin	Инна Дмитриевна Попова		Inna Popova					Europe	Indo-European	Romance*	41.9	12.45	6	Географическое положение: поставил я, чтобы не совпадало с итальянским; примерно центр весов современных романских языков. О падежах: общие сведения, википедия		lati1261	
-63	чешский	Czech	Czech	Анастасия Борисовна Макарова		Anastasia Makarova					Europe	Indo-European	Slavic	49.87	15.1	7	Общие сведения, википедия		czec1258	
+63	чешский	Czech	Czech	Анастасия Борисовна Макарова		Anastasia Makarova		2017	July 23, 2021	July 23, 2021	Europe	Indo-European	Slavic	49.87	15.1	7	Общие сведения, википедия		czec1258	
 64	исландский	Icelandic	Icelandic	Ингунн Хрейнберг		Ingunn Hreinberg Indriðadóttir		2017			Europe	Indo-European	Germanic	63.48	-19.02	4	Анкета		icel1247	
 65	белорусский	Belarusian	Belarusian	Ольга Сергеевна Горицкая		Olga Gorickaja					Europe	Indo-European	Slavic	54	28	6	Интернет		bela1254	
 66	финский	Finnish	Finnish	Ксения Андреевна Шагал		Ksenia Shagal					Europe	Uralic	Finnic	62	25	15	википедия, Ксюша, грамматика (http://scripta.kotus.fi/visk/sisallys.php?p=81)		finn1318	Glottolog's Finnish is represented by two varieties in Bivaltyp: Finnish proper (here) and Ingrian Finnish
