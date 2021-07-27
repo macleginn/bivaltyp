@@ -1,5 +1,7 @@
 # {{ language_external }}
-Contributed by [Anastasia Makarova](https://katalog.uu.se/profile/?id=N20-1741) ([Academia.edu profile](https://independent.academia.edu/AnastasiaMakarova1))
+Contributed by [Anastasia Makarova](https://katalog.uu.se/profile/?id=N20-1741) ([ResearchGate profile](https://www.researchgate.net/profile/Anastasia-Makarova-10))
+
+![A.M.'s photo]({{ site_url_j }}/images/MakarovaAB.jpg "A.M.'s photo")
 
 ## How to cite
 > Makarova, Anastasia. 2021. Bivalent patterns in {{ language_external}}. 
