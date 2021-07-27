@@ -1039,6 +1039,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 83	128	mitatsben	SBJ	al	Y	SBJ_al	Pinχas mitatsben al ha bat ʃel-o	PN become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M	‘Pinchas is getting irritated with his daughter.’		PN раздражаться[PTCP.SG.M] на DEF дочь POSS-3SG.M	‘Петя раздражается на свою дочь.’		
 83	129	meχabev	SBJ	DO	TR	TR	Pinχas meχabev et Menaχem	PN like[PTCP.SG.M] DO PN	‘Pinchas is fond of Menachem.’		PN испытывать.симпатию[PTCP.SG.M] DO PN	‘Пинхас симпатизирует Менахему.’		
 83	130	mitbajeʃ	SBJ	be	Y	SBJ_be	Pinχas mitbajeʃ ba gova ʃel-o	PN be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M	‘Pinchas is embarrased about his height.’		PN стесняться[PTCP.SG.M] в+DEF рост POSS-3SG.M	‘Пинхас стесняется своего роста.’		
+62	1	doleo	DAT	NOM	X	DAT_NOM	Quod tu-o vir-o ocul-i dole-a-nt	почему твой-DAT.SG.M муж(M)-DAT.SG глаз(M)-NOM.PL болеть-PRS.SBJV-ACT.3PL	‘Отчего у мужа твоего будут болеть глаза.’	(Ter, Ph, 1053)				
+62	2	aegroto	NOM	ABL	Y	NOM_ABL	Natur-a suis-met aegrota-t morb-is 	природа(F)-NOM.SG свой-ABL.PL-INTS болеть[PRS.IND]-ACT.3SG болезнь(M)-ABL.PL	‘Природа своими болезнями болеет.’	(Man.5, 215)				
+62	3	timeo	NOM	ACC	TR	TR	Nec miser-Ø magn-um inpende-ns time-t aer-e sax-um Tantal-us 	И_не несчастный-NOM.SG.M большой-ACC.SG.N нависать-PRS.PTCP.ACT.NOM.SG бояться[PRS.IND]-ACT.3SG  воздух(M)-ABL.SG камень(N)-ACC.SG Тантал(M)-NOM.SG	‘И не боится Тантал камня большого, висящего в воздухе.’	(Carus. De Rerum Natura. III, 980)				
+62	4	jaceo	NOM	ACC	TR	TR	(Vinc-e-s) non fu-isse armat-os e-os qui sax-a iace-re-nt 	(успешно_доказать-FUT.IND-ACT.2SG) не быть[PRF]-INF.ACT вооружать.PRF.PTCP.PASS-ACC.PL.M тот-ACC.PL.M который-NOM.PL камень(N)-ACC.PL бросать-IPFV.SBJV-ACT.3PL	‘(Ты докажешь), что не являются вооруженными те, кто бросали камни.’	(Cic. Pro Caec. 60)				
+62	5	satis (essere)	DAT	NOM	X	DAT_NOM	Dict-um sapienti satis est 	сказанный-NOM.SG.N разумный-DAT.SG достаточно быть.PRS.IND.ACT.3SG           	‘Сказанного достаточно разумному.’	(Pl. Per. 729)				
+62	6	imitor	NOM	ACC	TR	TR	Lampadi-as arde-nt-es imita-tur fac-es 	комета(M)-NOM.SG гореть-PRS.PTCP.ACT-ACC.PL подражать[PRS.IND]-MID.3SG  факел(F)-ACC. PL	‘Комета похожа на пылающие факелы.’	(Plin. Nat. II, 90)				
+62	7	credo	NOM	DAT	Y	NOM_DAT	Qu-is no-bis cred-e-t, cu-i no-s? 	кто-NOM.SG мы-DAT верить-FUT.IND-ACT.3SG кто-DAT.SG мы-NOM	‘Кто поверит нам, кому мы?’	(Cic. In Verrem. II, 1, 127)				
+62	8	capio	NOM	ACC	TR	TR	(Attis) nive-is citat-a cep-it man-ibus leve typan-um	Аттис(F)[NOM.SG] белый-ABL.PL быстрый-NOM.SG.F брать[PRF.IND]-ACT.3SG рука(F)-ABL.PL легко тимпан(N)-ACC.SG	‘(Аттис) быстрая белыми руками взяла легкий тимпан.’	(Cat. Carm. 63,8)				
+62	9	video	NOM	ACC	TR	TR	Ill-e qu-i sanguin-em su-um vid-it	тот-NOM.SG.M который-NOM.SG.M кровь(F)-ACC.SG свой-ACC.SG.M видеть[PRF.IND]-ACT.3SG	‘Тот, кто увидел свою кровь.’	(Sen. Ep. 13, 2)				
+62	10	afficio	NOM	ACC	TR	TR	(Aconit-um) morde-t stomach-um et cor affic-i-t	аконит(N)-NOM.SG кусать[PRS.IND]-ACT.3SG желудок(M)-ACC.SG и сердце(N)ACC.SG влиять[PRS.IND]-ACT.3SG	‘(Аконит) кусает желудок и влияет на сердце.’	(Larg. 188)				
+62	11	incurro	NOM	inACC	Y	NOM_inACC	In m-e incurr-it Rom-a veni-ens Curio me-us 	в я-ACC встречаться[PRF]- IND.ACT.3SG Рим(F)-ABL.SG идти-PRS.PTCP.ACT.NOM.SG Курион(M)NOM.SG мой-NOM.SG.M	‘Меня встретил идущий из Рима мой Курион.’	( Cic. Ep. ad Att. 2, 12, 2)				
+62	12	intro	NOM	ACC	TR	TR	(Ann-a) dom-um intra-v-it Tyri-os indut-a parat-us 	Анна(F)-NOM.SG дом(F)-ACC.SG входить-PRF-IND.ACT.3SG тирийский-ACC.PL.M одевать.PRF.PTCP.PASS-ACC.PL.F наряд(M)-ACC.PL	‘(Анна) вошла в дом, одетая в тирийские одеяния.’	(Ov. Fasti. III, 627)				
+62	13	evinco	NOM	ACC	TR	TR	Spume-us amn-is exi-it opposite-as-que evic-it gurgit-e mol-es 	пенящийся-NOM.SG.M река(M)-NOM.SG вытекать[PRF.IND]-ACT.3SG противополагать.PRF.PTCP.PASS-ACC.PL.F-и одолеть[PRF.IND]-ACT.3SG пучина(M)-ABL.SG плотина(F)-ACC.PL	‘Пенная река выходит и одолевает потоком стоящие на пути плотины.’	(Verg. Aen. II, 497)				
+62	14	exeo	NOM	exABL	Y	NOM_exABL	Irat-us senat-ui exi-it 	гневный-NOM.SG.M сенат(M)-DAT.SG выходить[PRF.IND]-ACT.3SG       	‘Гневный, он вышел из сената.’	(Cic. Ep. ad Fam. VIII, 16, 1)                             				
+62	15	ago	NOM	ACC	TR	TR	Ips-e capell-as protinus aeger ag-o 	сам-NOM.SG.M козочка(F)-ACC.PL вперёд больной.NOM.SG.M гнать[PRS.IND]-ACT.1SG	‘Сам, печальный, я гоню вперед козочек.’	(Verg. Ecl. 1, 13)				
+62	16	cornum	NOM	ACC	TR	TR	(Amor-Ø) curva-v-it flexil-e corn-um 	Амур(M)-NOM.SG гнуть-PRF-IND.ACT.3SG гибкий-ACC.SG.N рог(N)-ACC.SG 	‘(Амур) изогнул податливый рог.’	(Ov. Met. V, 383)				
+62	17	dico	NOM	DAT	Y	NOM_DAT	H-aec no-bis Attal-us dix-it, natur-a omn-ibus dix-it 	это-ACC.SG.N Аттал(M)-NOM.SG мы-DAT говорить[PRF.IND]-ACT.3SG природа-NOM.SG каждый-DAT.PL говорить[PRF.IND]-ACT.3SG	‘Это говорил нам Аттал, а природа всем говорила.’	(Sen. Ep. 110, 20)				
+62	18	teneo	NOM	ACC	TR	TR	Is-que h-ac ara-t infelix, h-ac tene-t arm-a man-u 	он[NOM.SG]-и этот-ABL.SG.F пахать[PRS.IND]-ACT.3SG несчастный.NOM.SG этот-ABL.SG.F держать[PRS.IND]-ACT.3SG оружие(N)-ACC.PL рука(F)-ABL.SG	‘И он, несчастный, одной рукой пашет, другой держит оружие.’	(Ov. Tristia. V, 10, 24)				
+62	19	consequor	NOM	ACC	TR	TR	Ego ill-um in praetur-a sum consecut-us 	я[NOM.SG] он-ACC.SG.M в претура(F)-ABL.SG быть.PRS.IND.ACT.1SG догнать.PRF.PTCP.PASS-NOM.SG.M	‘Я его догнал в претуре.’	(Plin. Ep. 7, 16, 2)				
+62	20	mulgeo	NOM	ACC	TR	TR	H-ic alien-us ov-is custos bis mulge-t in hor-a 	этот-NOM.SG.M незнакомый-NOM.SG.M овца(F)-ACC.PL пастух(M)-NOM.SG дважды доить[PRS.IND]-ACT.3SG в час(F)-ABL.SG	‘Этот чужой пастух дважды в час доит овец.’	(Verg. Ecl. 3, 5)				
+62	21	pervenio	NOM	adACC	Y	NOM_adACC	(Cleonym-us) ad litor-a Venet-orum perven-it 	Клеоним(M)-NOM.SG к берег(N)-ACC.PL венеты(M)-GEN достичь[PRF.IND]-ACT.3SG	‘(Клеоним) достиг венетских берегов. ‘	(Liv. X, 2, 5)				
+62	22	tango	NOM	ACC	TR	TR	(Adfin-is) post-em-que tremebund-a man-u tetig-it	родственник(M)-NOM.SG дверной_косяк(M)-ACC.SG-и дрожащий-ABL.SG.F рука(F)-ABL.SG дотронуться[PRF.IND]-ACT.3SG	‘(Родственник) тронул косяк дрожащей рукой.’	(Cic. De domo suo. 134, 10)				
+62	23	luctor	NOM	cumABL	Y	NOM_cumABL	Cum mortu-is non nisi larv-as lucta-ri 	с мертвый-ABL.PL не кроме злой_дух(F)-ACC.PL драться[PRS]-INF.MID	‘С мертвыми никто не сражается, кроме духов.’	(Plin. Nat. Pr, 31, 5)				
+62	24	amicus (essere)	NOM	DAT	Y	NOM_DAT	Cu-i sum amic-us 	который-DAT.SG быть.PRS.IND.ACT.1SG друг(M)-NOM.SG	‘С которым я дружу.’	(Cic. Phil. I, 11, 4)				
+62	25	meditor	NOM	ACC	TR	TR	Nec iam furtiv-um Dido medita-tur amor-em 	И_не теперь тайный-ACC.SG.M Дидона(F)NOM.SG размышлять[PRS.IND]-MID.3SG любовь-ACC.SG	‘И уже не думает Дидона о тайной любви.’	(Verg. Aen. IV, 171)				
+62	26	edo	NOM	ACC	TR	TR	Bolet-um qual-em Claudi-us ed-it, ed-a-s 	гриб(M)-ACC.SG какой-ACC.SG Клавдий(M)-NOM.SG есть[PRS.IND]-ACT.3SG есть-PRS.SBJV-ACT.2SG	‘Гриб, который ест Клавдий, съел бы ты.’	(Mart. Epigr. I, 20, 4)				
+62	27	frigo	NOM	ACC	TR	TR	Horde-um poster-o di-e frig-unt 	перловка(N)-ACC.SG следующий-ABL.SG.M день(M)-ABL.SG жарить[PRS.IND]-ACT.3PL	‘Ячмень жарят на следующий день.’	(Plin. Nat. 18, 72)				
+62	28	maneo	NOM	ACC	TR	TR	Qu-i nud-us atque inermis host-em mane-a-t 	который-NOM.SG беззащитный-NOM.SG.M а_также безоружный.NOM.SG враг(M)-ACC.SG ждать-PRS.SBJV-ACT.3SG	‘Который ждет, беззащитный и безоружный, врага.’	(Liv. X, 35, 10)				
+62	29	obliviscor	NOM	GEN	Y	NOM_GEN	Non sum oblit-us offici-um me-um 	не быть.PRS.IND.ACT.1SG забывать.PRF.PTCP.PASS-NOM.SG.M обязанность(N)-ACC.SG мой-ACC.SG.N                              	‘Я не забыл о своей обязанности. ‘	(Pl. Cas. 104)                                  				
+62	30	dependeo	NOM	exABL	Y	NOM_exABL	Ex h-orum (sider-um) lev-issim-is mot-ibus fortun-ae popul-orum depende-nt 	из этот-GEN.PL.N (звезда(N)-GEN.PL) лёгкий-SUP-ABL.PL.M движение(M)-ABL.PL судьба(F)-NOM.PL народ(M)-GEN.PL зависеть[PRS.IND]-ACT.3PL	‘От их (звезд) легчайших движений зависят судьбы людей.’	(Sen. Dia. 18, 3)				
+62	31	voco	NOM	ACC	TR	TR	(Caecin-a) serv-um-que su-um nomin-e Antioch-um ad se voca-v-it 	Цецина(M)-NOM.SG раб(M)-ACC.SG-и свой-ACC.SG.M имя(N)-ABL.SG Антиох(M)-ACC.SG к REFL.ACC звать-PRF-IND.ACT.3SG	‘(Цецина) позвал своего раба по имени Антиох к себе.’	(Cic. Pro Caec. 22)				
+62	32	cognosco	NOM	ACC	TR	TR	(Hortensi-us) acer et non tal-is qual-em tu e-um cogno-v-isti 	(Гортензий(M)-NOM.SG) энергичный.NOM.SG.M и не такой-NOM.SG какой-ACC.SG ты.NOM он-ACC.SG.M познакомился-PRF-IND.ACT.2SG	‘(Гортензий) был бодрым, а не таким, каким (он был, когда) ты с ним познакомился.’	(Cic. Brutus. 317)				
+62	33	nosco	NOM	ACC	TR	TR	Qu-i Rom-ae nov-era-t nemin-em 	который-NOM.SG Рим(F)-DAT.SG знать-PLSQPF.IND-ACT.3SG никто-ACC.SG	‘Который не знал никого в Риме.’	(Cic. Rosc. 76)				
+62	34	modulor	NOM	ABL	Y	NOM_ABL	Pastor inaequal-i modula-tur harundin-e carmen 	пастух(M)NOM.SG неровный-ABL.SG играть-PRS.IND.ACT.3SG тростник(F)-ABL.SG песня(N)-ACC.SG	‘Пастух играет на неровном тростнике песню.’	(Ov. Rem. Am. 181)				
+62	35	vito	NOM	ACC	TR	TR	Nec ego Brut-um vit-o 	и_не я.NOM Брут(M)-ACC.SG избегать[PRS.IND]-ACT.1SG	‘И я не избегаю Брута.’	(Cic. Ep. ad Att. 12, 29)				
+62	36	facio	NOM	ACC	TR	TR	Callicrat-es ex ebor-e formic-as fec-it 	Калликрат(M)-NOM.SG из слоновая_кость(N)-ABL.SG муравей(F)-ACC.PL изготовлять[PRF.IND]-ACT.3SG	‘Калликрат изготовил из слоновой кости муравьев.’	(Plin. Nat. 7, 88)				
+62	37	derideo	NOM	ACC	TR	TR	Deride-a-mus haruspic-es, van-os esse dic-a-mus	издеваться-PRS.SBJV-ACT.1PL гаруспик(M)-ACC.PL ненадёжный-ACC.PL.M быть.PRS.INF.ACT говорить-PRS.SBJV-ACT.1PL	‘Давайте будем издеваться над гаруспиками, говорить, что они ненадежны.’	(Cic. Div. 1, 36)				
+62	38	habeo	NOM	ACC	TR	TR	Maior-es possession-es habe-nt 	старший-NOM.PL имущество(F)-ACC.PL иметь[PRS.IND]-ACT.3PL	‘Старшие имеют имущество.’	(Cic. Catil. 2, 18)				
+62	39	quaero	NOM	ACC	TR	TR	Haed-us fratr-um vestigi-a quaer-it 	козлёнок(M)-NOM.SG брат(M)-GEN.PL след(N)-ACC.PL искать[PRS.IND]-ACT.3SG	‘Козлёнок ищет следы братьев.’	(Man. Astronomica. V, 312)				
+62	40	pingo	NOM	ACC	TR	TR	Me-um cori-um qu-em Apelle-s ac Zeuxis du-o ping-e-nt pigment-is ulme-is 	мой-ACC.SG.N кожа(N)-ACC.SG который-ACC.SG Апеллес(M)-NOM.SG а_также Зевксид(M)NOM.SG  два-NOM.M покрасить-FUT.IND-ACT.3PL краска(N)-ABL.PL вязовый-ABL.PL.N	‘Мою спину, которую Апеллес и Зевксид покрасят вязовыми красками.’	(Pl. Epid. 626)				
+62	41	mordeo	NOM	ACC	TR	TR	Si m-e canis memord-eri-t 	если я.ACC собака.NOM.SG кусать-FUT2.IND-ACT.3SG	‘Если меня укусит собака.’	(Enn. Sat. 63)				
+62	42	amitto	NOM	ACC	TR	TR	Manli-us agr-os bon-a-que omni-a amis-eri-t 	Манлий(M)-NOM.SG земля(M)-ACC.PL добро(N)-ACC.PL-и весь-ACC.PL.N лишаться-FUT2.IND-ACT.3SG	‘Манлий лишится земель и всего добра.’	(Sal. Cat. 28, 4)				
+62	43	capto	NOM	ACC	TR	TR	(Ill-e qu-i) pavid-um-que lepor-em capta-t 	тот-NOM.SG.M который-NOM.SG.M боязливый-ACC.SG заяц(M)-ACC.SG ловить[PRS.IND]-ACT.3SG	‘(Тот, кто) ловит боязливого зайца.’	(Hor. Ep. 2, 36)				
+62	44	frango	NOM	ACC	TR	TR	Apollo inde ram-um freg-it et in caput imposu-it 	Аполлон(M)NOM.SG после_этого ветка(M)-ACC.SG ломать[PRF.IND]-ACT.3SG и в голова(N)NOM.SG класть[PRF.IND]-ACT.3SG	‘Аполлон тогда сломал ветку и возложил на голову.’	(Hyginus. Fabulae. 203, 1)				
+62	45	blandior	NOM	DAT	Y	NOM_DAT	(Falcidi-us) cur matr-i praeterea blandi-tur 	Фальцидий(M)-NOM.SG почему мать(F)-DAT.SG кроме_того льстить[PRS.IND]-MID.3SG	‘Почему (Фальцидий), кроме того, льстит матери?’	(Cic. Pro Flacco, 92)				
+62	46	amo	NOM	ACC	TR	TR	Tener-as ama-t ill-e puell-as 	нежный-ACC.PL.F любить[PRS.IND]-ACT.3SG он-NOM.SG.M девушка(F)-ACC.PL 	‘Он любит нежных девушек.’	(Ov. Amores. III, 3, 25)				
+62	47	vibro	NOM	ACC	TR	TR	Qu-i vibra-nt hast-as ante pugn-am 	который-NOM.PL.M махать[PRS.IND]-ACT.3PL копьё(F)-ACC.PL перед война(F)-ACC.SG	‘Которые машут копьями перед битвой.’	(Cic. De Oratore. II, 325)				
+62	48	somnio	NOM	ACC	TR	TR	M-e desider-e-s, m-e somni-e-s, m-e exspecta-s, de m-e cogit-e-s	я-ACC желать-PRS.SBJV-ACT.2SG я-ACC грезить-PRS.SBJV-ACT.2SG я-ACC ожидать[PRS.IND]-ACT.2SG о я-ACC размышлять-PRS.SBJV-ACT.2SG 	‘Меня желаешь, обо мне мечтаешь, меня ждешь, обо мне думаешь.’	(Ter. Eu. 194)				
+62	49	lavo	NOM	ACC	TR	TR	Ancill-am qu-ae latrin-am lava-t 	служанка(F)-ACC.SG который-NOM.SG.F отхожее_место(F)-ACC.SG мыть[PRS.IND]-ACT.3SG	‘Служанку, которая моет отхожее место.’	(Pl. Cur. 580)				
+62	50	sumo	NOM	ACC	TR	TR	Vest-is Cereal-ibus alb-as sum-ite! 	одежда(F)-ACC.PL церерин-ABL.PL белый-ACC.PL.F надевать[PRS]-IMP.ACT.2SG	‘Одежды белые наденьте для праздника Цереры!’	(Ov. Fasti. 4, 620)				
+62	51	appello + PASS	NOM	NOM	Y	NOM_NOM	Qu-i ips-orum lingu-a Celt-ae, nostr-a Gall-i appella-ntur	который-NOM.PL.M сам-GEN.PL.M язык(F)-ABL.SG кельт(M)-NOM.PL наш-ABL.SG.F галл(M)-NOM.PL называться[PRS.IND]-MID.3PL	‘Которые на их языке кельтами, на нашем галлами называются.’	(Caes. Gal. I, 11) 				
+62	52	punio	NOM	ACC	TR	TR	(August-us) adulter-os mort-e aut fug-a puni-v-it 	Август(M)-NOM.SG любовник(M)-ACC.PL смерть(F)-ABL.SG либо изгнание(F)-ABL.SG наказывать-PRF-IND.ACT.3SG 	‘(Август) наказал любовников смертью или бегством.’	(Tac. Ann. III, 24)				
+62	53	invadeo	NOM	ACC	TR	TR	Leon-es invad-unt greg-es 	лев(M)-NOM.PL нападать[PRS.IND]-ACT.3PL стадо(M)-ACC.PL 	‘Львы нападают на стада.’	(Ov. Fasti. 2, 210)				
+62	54	impleo + PASS	NOM	ABL	Y	NOM_ABL	Proclinatio e-a imple-a-tur haren-a 	выступ(F)NOM.SG этот-NOM.SG.F наполняться-PRS.SBJV- MID.3SG песок(F)-ABL.SG	‘Этот выступ наполняется песком.’	(Vitr. 5, 12, 4)				
+62	55	invenio	NOM	ACC	TR	TR	Nemo profect-um ibi inveni-t ubi reliqu-era-t 	никто.NOM.SG успех(M)-ACC.SG там находить[PRS.IND]-ACT.3SG где оставлять-PLSQPF.IND-ACT.3SG	‘Никто не находит успех там, где его оставил.’	(Sen. Ep. 71, 35)				
+62	56	desum	DAT	NOM	X	DAT_NOM	Si qu-ibus argent-um deesse-t 	если кто-DAT.PL серебро(N)-NOM.SG недоставать[IPFV.SBJV.ACT]-3SG	‘Если кому недостает серебра.’	(Liv. XXII, 60, 4)				
+62	57	odi	NOM	ACC	TR	TR	Qu-is autem est, qu-i Tarquini-um Superb-um non od-eri-t 	кто-NOM.SG же быть.PRS.IND.ACT.3SG который-NOM.SG Тарквиний(M)-ACC.SG гордый-ACC.SG.M не ненавидеть-FUT2.IND-ACT.3SG	‘Есть ли кто-то, кто не ненавидел бы Тарквиния Гордого?’	(Cic, de Amicitia, 28)				
+62	58	placeo	DAT	NOM	X	DAT_NOM	Non place-t m-i cen-a qu-ae bil-em move-t 	не нравиться[PRS.IND]-ACT.3SG я-DAT обед(F)-NOM.SG который-NOM.SG.F желчь(F)-ACC.SG двигать[PRS.IND]-ACT.3SG	‘Мне не нравится обед, который движет желчь.’	(Pl. Bac. 537)				
+62	59	egeo	NOM	GEN	Y	NOM_GEN	Mancipi-is locuples ege-t aer-is Cappadoc-um rex 	раб(N)-ABL.PL богатый[NOM.SG] нуждаться[PRS.IND]-ACT.3SG деньги-GEN.SG каппадокиец(M)-GEN.PL царь(M)NOM.SG 	‘Царь каппадоков богат рабами, но нуждается в деньгах. ‘	(Hor. Ep. I, 6, 39)				
+62	60	cingo	NOM	ACC	TR	TR	(Dom-us) qu-ae non e-a est qu-am paret-es nostr-i cing-unt 	дом(F)-NOM.SG который-NOM.SG.F не тот-NOM.SG.F быть.PRS.IND.ACT.3SG который-ACC.SG.F стена(M)-NOM.PL наш-NOM.PL.M окружать[PRS.IND]-ACT.3PL	‘(Дом), которым является не то, что окружают наши стены.’	(Cic. Rep. I, 19)				
+62	61	supersum	DAT	NOM	X	DAT_NOM	Quamvis null-a m-ei superest t-ibi cur-a  	хотя никакой-NOM.SG.F я-DAT оставаться.PRS.IND.ACT.3SG ты-DAT забота(F)-NOM.SG 	‘Хотя у меня никакой заботы о тебе не осталось.’	(Lygd. 6) 				
+62	62	respondeo	NOM	DAT	Y	NOM_DAT	H-is Caesar ita respond-it 	они-DAT.PL Цезарь(M)NOM.SG  так отвечать[PRF.IND]-ACT.3SG	‘Им Цезарь так ответил.’	(Caes. Gal. I, 14, 1)				
+62	63	retego	NOM	ACC	TR	TR	In h-oc thec-am nummari-am non retex-eri-s 	в этот-ACC.SG.N ящик(F)-ACC.SG денежный-ACC.SG.F не открывать- FUT2.IND-ACT.2SG	‘В этом случае ты не откроешь денежный ящик.’	(Cic. Ep. ad Att. 4, 7, 2)				
+62	64	differo	NOM	abABL	Y	NOM_abABL	German-i multum ab h-ac consuetudin-e differ-unt 	германец(M)-NOM.PL очень от этот-ABL.SG.F уклад(F)-ABL.SG отличаться[PRS.IND]-ACT.3PL	‘Германцы во многом отличаются от этого уклада.’	(Caes. Gall. VI, 21)				
+62	65	decedo	NOM	ABL	Y	NOM_ABL	Si qu-is agmin-e decess-isse-t, pro desertor-e fore clamita-ns 	если кто-NOM.SG войсковая_колонна(N)-ABL.SG отстать-PLSQPF.SBJV-ACT.3SG за дезертир(M)-ABL.SG быть.FUT.INF.ACT кричать-PRS.PTCP.ACT.NOM.SG	‘Крича, что, если кто-то отстанет от войска, будет считаться за дезертира.’	(Tac. Ann. I, 38)				
+62	66	aro	NOM	ACC	TR	TR	Qu-i public-os agr-os ara-nt 	кто-NOM.PL.M общественный-ACC.PL.M поле(M)-ACC.PL пахать[PRS.IND]-ACT.3PL	‘Те, кто пашут общественные поля. ‘	(Cic. In Verrem. 5, 53)				
+62	67	oleo	NOM	ABL	Y	NOM_ABL	Per-que lac-us alt-os et ole-nt-ia sulphur-e fer-tur stagn-a Palic-orum 	через-и озеро(M)-ACC.PL глубокий-ACC.PL.M и пахнуть-PTCP.PRS.ACT-ACC.PL.N сера(N)-ABL.SG нести[PRS.IND]-MID.3SG  болото(N)-ACC.PL палик(M)-GEN.PL	‘И через глубокие озера и пахнущие серой болота паликов…’	(Ov. Met. V, 405)				
+62	68	transeo	NOM	ACC	TR	TR	Rar-us ab Italia tant-um mar-e navit-a transi-t 	редкий-NOM.SG.M от Италия(F)-ABL.SG настолько море(N)-ACC.SG моряк(M)-NOM.SG пересекать[PRS.IND]-ACT.3SG	‘Редкий моряк из Италии так далеко море пересекает.’	(Ov. Tristia. III, 12, 39)				
+62	69	cano	NOM	ACC	TR	TR	(Simonid-es) cecin-isse-t-que id carmen 	Симонид(M)-NOM.SG петь-PLQPF.SBJV-ACT.3SG-и этот.ACC.SG.N песня(N)ACC.SG 	‘(Симонид) спел эту песню.’	(Cic. De Oratore. 2, 352)				
+62	70	scribo	NOM	ACC	TR	TR	Terti-am ad t-e h-anc epistul-am scrips-i 	третий-ACC.SG.F к ты-ACC этот-ACC.SG.F письмо(F)-ACC.SG писать[PRF.IND]-ACT.1SG	‘Это третье письмо тебе написал. ‘	(Cic. Ep. ad Fam. 16, 6, 1)				
+62	71	bibo	NOM	ACC	TR	TR	Cassi-us tot-a vit-a aqu-am bib-it 	Кассий(M)-NOM.SG целый-ABL.SG.F жизнь(F)-ABL.SG вода(F)-ACC.SG пить[PRS.IND]-ACT.3SG	‘Кассий всю жизнь пьет воду.’	(Sen. Ep. 83, 12)				
+62	72	liquefacio	NOM	ACC	TR	TR	Patr-es congest-a-que flamm-a tur-a liquefaci-unt 	отец(M)-NOM.PL собирать_в_кучу.PRF.PTCP.PASS-ABL.SG.F-и огонь(F)-ABL.SG смола(F)-ACC.PL плавить[PRS.IND]-ACT.3PL	‘Отцы плавят смолы на сложенном костре.’	(Ov. Met. VII, 161)				
+62	73	apto + PASS	NOM	adACC	Y	NOM_adACC	Gemm-ae, qu-ae ad ectyp-as scalptur-as apta-ntur 	Гемма(F)-NOM.PL который-NOM.PL.F к выпуклый-ACC.PL.F резьба(F)-ACC.PL подходить[PRS.IND]-MID.3PL 	‘Геммы, которые подходят для выпуклой резьбы.’	(Plin. Nat. 37, 173)				
+62	74	linquo	NOM	ACC	TR	TR	Liqu-it Agenorid-es Sidoni-a moeni-a Cadm-us 	покидать[PRF.IND]-ACT.3SG Агенорид(M)-NOM.SG сидонский-ACC.PL.N стена(N)-ACC.PL Кадм(M)-NOM.SG	‘Кадм сын Агенора покинул стены сидонские.’	(Ov. Ep. Ex Ponto. I, 3, 77)				
+62	75	tego	NOM	ACC	TR	TR	Est m-ihi marmore-a sacrat-us in aed-e Sychae-us, opposit-ae frond-es veller-a-que alb-a teg-unt 	быть.PRS.IND.ACT.3SG я-DAT мраморный-ABL.SG.F священный-NOM.SG.M в храм(F)-ABL.SG Сихей(M)-NOM.SG противополагать.PRF.PTCP.PASS-NOM.PL.F лист(F)-NOM.PL шерсть(N)-ACC.PL-и белый-ACC.PL.N покрывать[PRS.IND]-ACT.3PL 	‘Есть у меня в мраморном храме священный Сихей, разложенные листья и белая шерсть прикрывают (его).’	(Ov. Ep. 7, 100)				
+62	76	memini	NOM	ACC	TR	TR	Numer-os memin-i, nisi verb-a tenere-m 	мелодия(M)-ACC.PL помнить[PRF.IND]-ACT.1SG кроме слово(N)-ACC.PL хранить_в_памяти[IPFV.SBJV.ACT]-1SG	‘Я помню мелодию, если бы вспомнить слова.’	(Verg. Ecl. 9, 45)				
+62	77	iuvo	NOM	ACC	TR	TR	Titian-um et Cels-um nox iuv-it 	Тициан(M)-ACC.SG и Цельс(M)-ACC.SG ночь(F)NOM.SG  помогать[PRF.IND]-ACT.3SG	‘Тициану и Цельсу помогла ночь.’	(Tac. Hist. II, 44, 12)				
+62	78	scio	NOM	ACC	TR	TR	Is omn-is lingu-as sci-t, sed dissimula-t sci-en-s ne sci-re 	он.NOM.SG.M каждый-ACC.PL язык(F)-ACC.PL знать[PRS.IND]-ACT.3SG но скрывать[PRS.IND]-ACT.3SG знать-PRS.PTCP.ACT-NOM.SG не знать[PRS.ACT]-INF	‘Он все языки понимает, но, понимая, делает вид, что не понимает.’	(Pl. Poen. 112)				
+62	79	percello	NOM	ACC	TR	TR	Du-o fulmin-a dom-um me-am percul-eri-nt 	два-NOM.N молния(N)-NOM.PL дом(F)-ACC.SG мой-ACC.SG.F попасть-PRF.CONJ-ACT.3PL	‘Две молнии попали в мой дом.’	(Liv. XLV, 41, 1)				
+62	80	*	*	*	*		Hispanic-o (gladi-o) humer-um dextr-um incid-it 	испанский-ABL.SG.M меч(M)-ABL.SG плечо(M)-ACC.SG правый-ACC.SG.M порезать[PRS.IND]-ACT.3SG 	‘Испанским (мечом) разрезает правое плечо.’	Not included in the database because this translation is semantically inaccurate. (Quad. Hist. 10.b)				
+62	81	adhaereo	NOM	DAT	Y	NOM_DAT	Grav-is veter-i creterr-ae lim-us adhae-s-it 	тяжёлый-NOM.SG старый-DAT.SG чаша(F)-DAT.SG грязь(M)-NOM.SG прилипать-PRF-IND.ACT.3SG	‘Густая грязь прилипла к старой чаше.’	(Hor. Sermones. II, 4, 80)				
+62	82	vinco + PASS	NOM	ABL	Y	NOM_ABL	Vict-us ergo est magis etiam consili-o Thimistocl-i, quam arm-is Graeci-ae 	побеждать.PRF.PTCP.PASS-NOM.SG.M следовательно быть.PRS.IND.ACT.3SG больше даже решение(N)-ABL.SG Фемистокл(M)-GEN.SG чем оружие(N)-ABL.PL Греция(F)-GEN.SG	‘Он был побежден скорее же решением Фемистокла, чем греческим оружием.’	(Nepos. Vitae. Them. 4, 5). 				
+62	83	gaudeo	NOM	ACC	TR	TR	(Tiberi-us) gaud-eba-t oppress-am sedition-em 	Тиберий(M)-NOM.SG радоваться-IPFV.IND-ACT.3SG подавлять.PRF.PTCP.PASS-ACC.SG.F мятеж(F)-ACC.SG 	‘(Тиберий) радовался подавленному мятежу.’	(Tac. Ann. I, 52)				
+62	84	colloquor	NOM	cumABL	Y	NOM_cumABL	Socrate-s in e-o libr-o colloqui-tur cum Critobul-o 	Сократ-NOM.SG в этот-ABL.SG.M книга(M)-ABL.SG разговаривать[PRS.IND]-MID.3SG с Критобул(M)-ABL.SG	‘Сократ в этой книге говорит с Критобулом.’	(Cic. Cato Maior de Senectute. 59, 6)				
+62	85	pario	NOM	ACC	TR	TR	Peper-erunt ov-es agn-os human-o capit-e 	рожать[PRF.IND]-ACT.3PL овца(F)-NOM.PL ягненок(M)-ACC.PL человеческий-ABL.SG.N голова(N)-ABL.SG	‘Овцы родили ягнят с человеческой головой.’	(Ter. Ph. 3, 3, 4)				
+62	86	demitto	NOM	ACC	TR	TR	D-i qu-i cael-o demitti-tis imbr-em 	бог(M)-NOM.PL который-NOM.PL.M небо(N)-ABL.SG ронять[PRS.IND]-ACT.2PL дождь(M)-ACC.SG	‘Боги, которые роняете с неба дождь.’	(Verg. Georg. I, 23) 				
+62	87	administro	NOM	ACC	TR	TR	Nec legitime tutel-am administra-t 	И_не законно город(F)-ACC.SG руководить[PRS.IND]-ACT.3SG	‘И руководит городом не по закону.’	(Iust. Digesta. XXXVIII, 17, 2)				
+62	88	desidero	NOM	ACC	TR	TR	Fort-ius e mult-is mater desidera-t un-um 	сильно-CMPR из многий-ABL.PL мать(F)NOM.SG скучать[PRS.IND]-ACT.3SG один-ACC.SG	‘Сильнее из всех мать скучала по одному.’	(Ov. Remedia Amoris. 463)				
+62	89	sequor	NOM	ACC	TR	TR	Parv-us Iul-us sequi-tur patr-em non pass-ibus aequ-is 	маленький-NOM.SG.M Юл(M)-NOM.SG следовать[PRS.IND]-MID.3SG отец(M)-ACC.SG не шаг(M)-ABL.PL равный-ABL.PL.M	‘Маленький Юл следует за отцом неравными шагами.’	(Verg. Aen. II, 723)				
+62	90	descendo	NOM	ABL	Y	NOM_ABL	Qu-ibus de caus-is Sull-am dictator-em un-i sibi descend-ere equ-o 	который-ABL.PL по причина(F)-ABL.PL Сулла(M)-ACC.SG диктатор(M)-ACC.SG один-DAT.M REFL.DAT сходить[PRS.ACT]-INF конь(M)-ABL.SG	‘По этим причинам диктатор Сулла имел обыкновение только перед ним одним слезать с коня.’	(Sal. Hist. V, 20, 2)				
+62	91	audio	NOM	ACC	TR	TR	Ut audi-re-m Laber-i et Publil-i poemat-a 	что слушать-IPFV.SBJV-ACT.1SG Лаберий(M)-GEN.SG Публилий(M)-GEN.SG поэма(N)-ACC.PL 	‘Что я слушаю поэмы Лаберия и Публилия.’	(Cic. Ep. ad Fam. 12, 18)				
+62	92	pareo	NOM	DAT	Y	NOM_DAT	Non adeo pare-b-imus omni-a matr-i 	не настолько слушаться-FUT.IND-ACT.1PL весь-ACC.PL.N мать(F)-DAT.SG 	‘Не настолько во всем мы будем слушаться мать.’	(Stat. Ach. I, 660)				
+62	93	audio	NOM	ACC	TR	TR	Audi-a-t optat-os semper amic-a son-os 	слышать-PRS.SBJV-ACT.3SG желанный-ACC.PL.M всегда подруга(F)-NOM.SG звук(M)-ACC.PL  	‘Пусть слышит всегда подруга ласковые звуки.’	(Ov. Ars Amatoria. II, 156)				
+62	94	misceo + PASS	NOM	cumABL	Y	NOM_cumABL	Cum liquid-o mixt-a perfud-it (loqu-ent-em) div-a polent-a 	с жидкость(N)-ABL.SG смешивать.PRF.PTCP.PASS-ABL.SG.F обливать[PRF.IND]-ACT.3SG говорить-PRS.PTCP.ACT-ACC.SG богиня(F)-NOM.SG ячменная_крупа(F)-ABL.SG 	‘Богиня облила (говорящего) ячменем, смешанным с водой.’	(Ov. Met. V, 454)				
+62	95	aspecto	NOM	ACC	TR	TR	(Victor) aspecta-t Olymp-um 	победитель(M)NOM.SG смотреть[PRS.IND]-ACT.3SG Олимп(M)-ACC.SG	‘(Победитель) смотрит на Олимп.’	(Man. Astronomica. IV, 907)				
+62	96	se devestio	NOM	ABL	Y	NOM_ABL	(Pamphile) omn-ibus lacini-is s-e devesti-t 	Памфила(F)NOM.SG весь-ABL.PL одежда(F)-ABL.PL REFL-ABL снимать[PRS.IND]-ACT.3SG	‘(Памфила) снимает с себя все одежды.’	(Ap. Met. III, 21)				
+62	97	somnio	NOM	ACC	TR	TR	Proxim-a noct-e somnia-v-it speci-em Fortun-ae 	только_что_истекший-ABL.SG.F ночь(F)-ABL.SG видеть_во_сне-PRF-IND.ACT.3SG образ(F)-ACC.SG Фортуна(F)-GEN.SG	‘Прошлой ночью ему снился образ Фортуны.’	(Suet. Gal. 18, 2)				
+62	98	assentior	NOM	DAT	Y	NOM_DAT	De Treboni-o prorsus t-ibi assenti-or 	о Требоний(M)-ABL.SG всецело ты-DAT соглашаться[PRS.IND]-MID.1SG	‘Насчет Требония вполне соглашаюсь с тобой.’	(Cic. Att. 4, 8a, 2)				
+62	99	discordo	NOM	cumABL	Y	NOM_cumABL	Tr-es duc-es discorda-nt-es prope ut defec-eri-nt ali-i ab ali-is, trifariam exercit-um in divers-issim-as region-es distrax-ere	три-NOM.PL вождь(M)-NOM.PL ссориться-PRS.PTCP.ACT-NOM.PL чуть_ли_не чтобы уходить-PRF.SBJV.ACT-3PL другой-NOM.PL от другой-ABL.PL с_трёх_сторон войско(M)-ACC.SG в отдалённый-SUP-ACC.PL.F регион(F)-ACC.PL разделять[PRF.IND]-ACT.3PL	‘Трое вождей, поссорившись почти до того, что разошлись одни с другими, трехчастное войско в отдаленнейшие области растащили.’	(Liv. XXVI, 41, 20)				
+62	100	consto	NOM	ABL	Y	NOM_ABL	VI mil-ibus D t-ibi consta-re-nt e-a 	6 тысяча(N)-ABL.PL 500 ты-DAT стоить-IPFV.SBJV-ACT.3PL этот-NOM.PL.N	‘Тебе это стоило 6500.’	(Cic. In Verrem. 4, 1, 28)				
+62	101	iaculor	NOM	inACC	Y	NOM_inACC	Si rapid-us Mavors ign-es iacula-tur in ill-um 	если быстрый-NOM.SG.M Марс(M)-NOM.SG огонь(M)-ACC.PL метать[PRS. IND]-MID.3SG в он-ACC.SG.M  	‘Если быстрый Марс стреляет огнем в него.’	(Man. Astronomica. IV, 500)				
+62	102	infundo	NOM	ACC	TR	TR	(Lateran-us) manipl-os solv-e-t et infund-e-t iument-is horde-a lass-is	Латеран(M)-NOM.SG сноп(M)-ACC.PL распускать-FUT.IND-ACT.3SG и сыпать-FUT.IND-ACT.3SG вьючное_животное(N)-DAT.PL ячмень(N)-ACC.PL усталый-DAT.PL.N	‘Латеран расслабит снопы и насыплет ячмень усталому вьючному скоту.’	(Juv. 8, 153)				
+62	103	perdo	NOM	ACC	TR	TR	Perdid-istin tu anulum?	терять[PRF.IND]-ACT.2SG ты.NOM перстень(M)-ACC.SG 	‘Ты потерял перстень? ‘	(Plaut. Cur. 584)				
+62	104	sido	NOM	inABL	Y	NOM_inABL	Sid-it autem (mini-um) in aqu-a 	исчезать[PRS.IND]-ACT.3SG же миний(N)-NOM.SG в вода(F)-ABL.SG 	‘Миний тонет в воде.’	(Plin. Nat. 33.120)				
+62	105	neco	NOM	ACC	TR	TR	(Oppianic-us) e-odem venen-o C. Oppianic-um fratr-em neca-v-it 	Оппианик(M)-NOM.SG тот_же-ABL.SG.N яд(N)-ABL.SG К. Оппианик(M)-ACC.SG брат(M)-ACC.SG убивать-PRF-IND.ACT.3SG	‘(Оппианик) тем же ядом убил своего брата Гая Оппианика. ‘	(Cic. Pro Cluentio. 31)				
+62	106	percutio	NOM	ACC	TR	TR	(Torquat-us) qu-od vero secur-i percuss-it fili-um 	Торкват(M)-NOM.SG CONJ действительно топор(F)-ABL.SG  ударить[PRF.IND]-ACT.3SG сын(M)-ACC.SG	‘(Торкват), когда же ударил топором сына.’	(Cic. De Fin. I, 23)				
+62	107	osculor	NOM	ACC	TR	TR	Aliter homin-es amic-am, aliter liber-os oscula-ntur 	иначе человек(M)-NOM.PL подруга(F)-ACC.SG иначе ребенок(M)-ACC.PL целовать[PRS.IND]-MID.3PL	‘По-разному люди целуют подругу и детей.’	(Sen. Ep. 75, 3)				
+62	108	lego	NOM	ACC	TR	TR	Puer-Ø leg-it epistul-am inscript-am patr-i su-o 	мальчик(M)-NOM.SG читать[PRF.IND]-ACT.3SG письмо(F)-ACC.SG писать.PRF.PTCP.PASS-ACC.SG.F отец(M)-DAT.SG свой-DAT.SG.M	‘Мальчик прочитал письмо, написанное его отцу.’	(Cic. Ep. ad Att. VI, 3, 8)				
+62	109	moveo	NOM	ACC	TR	TR	Nec labr-a move-s, cum mitt-ere voc-um debu-eri-s 	и_не губа(N)-ACC.PL шевелить[PRS.IND]-ACT.2SG когда испускать[PRS]-ACT.INF голос(F)-ACC.SG долженствовать-PRF.SBJV-ACT.2SG	‘И не шевелишь губами, когда должен был подать голос.’	(Juv. 13, 114)				
+62	110	vereor	NOM	ACC	TR	TR	Vere-mur quidem vo-s… et, si ita vul-tis, etiam time-mus: sed plus et vere-mur et time-mus de-os 	уважать[PRS.IND]-MID.1PL со_своей_стороны вы-ACC и если так хотеть[PRS.IND]-ACT.2SG даже бояться[PRS.IND]-ACT.1PL но больше и уважать[PRS.IND]-MID.1PL и бояться[PRS.IND]-ACT.1PL бог(M)-ACC.PL	‘Мы уважаем вас… и, если так хотите, даже боимся: но больше уважаем и боимся мы богов.’	(Liv. XXXIX, 37, 17)				
+62	111	fastidio	NOM	ACC	TR	TR	(Is) non fastidi-v-it e-ius amiciti-am 	он.NOM.SG.M не брезговать-PRF-IND.ACT.3SG этот-GEN.SG дружба(F)-ACC.SG	‘(Он) не брезговал его дружбой.’	(Cic. Pis. 68)				
+62	112	contentus (sum)	NOM	ABL	Y	NOM_ABL	Ist-a tu-a mediocr-i eloquenti-a content-i sumus 	этот-ABL.SG.F твой-ABL.SG.F средний-ABL.SG красноречие(F)-ABL.SG удовлетворённый-NOM.PL.M быть.PRS.IND.ACT.1PL	‘Мы довольны этим твоим посредственным красноречием.’	(Cic. De Oratore. I, 133)				
+62	113	adamo	NOM	ACC	TR	TR	Masiniss-a Sophonib-am, uxor-em Syphac-is, fili-am Hasdrubal-is, capt-am statim adama-v-it et nupti-is fact-is uxor-em habu-it 	Масинисса(M)-NOM.SG Софонис(F)-ACC.SG супруг(F)-ACC.SG Сифакис(M)-GEN.SG дочь(F)-ACC.SG Газдрубал(M)-GEN.SG ловить.PRF.PTCP.PASS-ACC.SG.F сразу_же влюбляться-PRF-IND.ACT.3SG свадьба(F)-ABL.PL делать.PRF.PTCP.PASS-ABL.PL.F супруг(F)-ACC.SG иметь[PRF.IND]-ACT.3SG	‘Масинисса тут же влюбился в плененную Софониc, жену Сифака, дочь Газдрубала, и, устроив свадьбу, женился.’	(Liv. Periochae. XXX, 7)				
+62	114	fido	NOM	DAT	Y	NOM_DAT	Ut nec duc-i milit-es, nec milit-ibus dux satis fide-re-t 	CONJ и_не вождь(M)-DAT.SG воин(M)-DAT.PL и_не воин(M)-DAT.PL вождь(M)NOM.SG достаточно доверять-IPFV.SBJV-ACT.3SG	‘Когда ни воины вождю, ни вождь воинам достаточно не доверял.’	(Liv. X, 18, 6)				
+62	115	miserescere	NOM	GEN	Y	NOM_GEN	Miseresc-ite reg-is et patri-as audi-te prec-es 	жалеть-PRS.IMP.ACT.2PL царь(M)-GEN.SG и отцовский-ACC.PL.F слушать-PRS.IMP.ACT.2PL мольба(F)-ACC.PL	‘Пожалейте царя и послушайте отцовские молитв.’	(Verg. Aen. VIII, 573)				
+62	116	invideo	NOM	DAT	Y	NOM_DAT	Prob-us autem invide-t nemin-i 	честный-NOM.SG.M же завидовать[PRS.IND]-ACT.3SG никто-DAT.SG 	‘Честный же никому не завидует.’	(Cic. Tim. 9, 4)				
+62	117	irascor	NOM	DAT	Y	NOM_DAT	(Frater) etiam qu-ibus irasc-itur crebr-ius, tamen car-os habe-t 	брат(M)NOM.SG даже который-DAT.PL злиться[PRS.IND]-MID.3SG  часто-CMPR однако дорогой-ACC.PL.M иметь[PRS.IND]-ACT.3SG	‘(Брату) даже те, на кого он чаще злится, все же дороги.’	(Cic. Ep. ad Att. X, 11, 1) 				
+62	118	miror	NOM	ACC	TR	TR	(Hostis) dum mira-tur subit-um advent-um 	враг(M)NOM.SG пока удивляться[PRS.IND]-MID.3SG внезапный-ACC.SG.M появление(M)-ACC.SG	‘(Враг) пока удивляется внезапному появлению.’	(Liv. XXXIX, 30, 10)				
+62	119	amo	NOM	ACC	TR	TR	Bacch-us ama-t flor-es 	Вакх(M)-NOM.SG любить[PRS.IND]-ACT.3SG цветы(M)-ACC.PL	‘Вакх любит цветы.’	(Ov. Fasti. V, 345)				
+62	120	fruor	NOM	ABL	Y	NOM_ABL	Mell-e pater fru-itur	мед(N)-ABL.SG отец(M)NOM.SG  наслаждаться[PRS.IND]-MID.3SG	‘Отец наслаждается медом.’	(Ov. Fasti. III, 761)				
+62	121	volo	NOM	ACC	TR	TR	Nam si rex e-a vult, qu-ae Theban-is sunt utili-a, gratis fac-ere sum parat-us	действительно если царь(M)NOM.SG тот-ACC.PL.N хотеть.PRS.IND.ACT.3SG который-NOM.PL.N фиванец(M)-DAT.PL быть.PRS.IND.ACT.3PL полезный-NOM.PL.N бесплатно делать[PRS]-IND.INF быть.PRS.IND.ACT.1SG готовый-NOM.SG.M	‘Если царь хочет того, что полезно фиванцам, бесплатно готов сделать.’	(Nepos. Vitae. Life Ef. 4, 2, 2)				
+62	122	irascor	NOM	DAT	Y	NOM_DAT	(Frater) etiam qu-ibus irasc-itur crebr-ius, tamen car-os habe-t 	брат(M)NOM.SG даже который-DAT.PL злиться[PRS.IND]-MID.3SG  часто-CMPR.N однако дорогой-ACC.PL.M иметь[PRS.IND]-ACT.3SG	‘(Брату) даже те, на кого он чаще злится, все же дороги.’	(Cic. Ep. ad Att. X, 11, 1) 				
+62	123	offensus (sum)	NOM	ABL	Y	NOM_ABL	Cum Priam-i lacrim-is offens-us non sit Achill-es 	когда Приам(M)-GEN.SG слеза(F)-ABL.PL обидеться.PRF.PTCP.PASS-NOM.SG.M не быть.PRS.SBJV.ACT.3SG Ахилл(M)-NOM.SG	‘Когда Ахилл не обиделся на слезы Приама.’	(Ov. Tristia. V, 1, 55)				
+62	124	contristo	NOM	ACC	TR	TR	Contrista-v-it h-aec sententi-a Balb-um 	огорчать-PRF-IND.ACT.3SG этот-NOM.SG.F решение(F)-NOM.SG Бальб(M)-ACC.SG 	‘Это решение огорчило Бальба.’	(Cic. Ep. ad Fam. 8, 9, 5)				
+62	125	miror	NOM	ACC	TR	TR	(Hostis) dum mira-tur subit-um advent-um 	враг(M)NOM.SG пока удивляться[PRS.IND]-MID.3SG внезапный-ACC.SG.M появление(M)-ACC.SG	‘(Враг) так как удивляется внезапному появлению.’	(Liv. XXXIX, 30, 10)				
+62	126	contemno	NOM	ACC	TR	TR	Qu-os enim host-is h-aec famili-a contemps-it 	который-ACC.PL.M этот-NOM.SG.F семья(F)-NOM.SG  презирать[PRF.IND]- ACT.3SG	‘Которых эта семья презирала как врагов.’	(Cic. Pro Flacco. 58, 2)				
+62	127	maereo	NOM	ABL	Y	NOM_ABL	Reg-e consumpt-o maere-t pleb-es ignav-o dolor-e 	царь(M)-ABL.SG умерщвлять.PRF.PTCP.PASS-ABL.SG.M огорчаться[PRS.IND]-ACT.3SG народ- NOM.SG бесплодный-ABL.SG.M боль(M)-ABL.SG 	‘Народ огорчается бесплодной болью из-за убитого царя.’	(Plin. Nat. 11, 64)				
+62	128	irrito + PASS	NOM	ABL	Y	NOM_ABL	Neque magis irritat-us esset Antoni-us regn-o Caesar-is quam ob e-iusdem mort-em deterrit-us 	И_не больше раздражаться.PRF.PTCP.PASS-NOM.SG.M быть.IPFV.SBJV.ACT.3SG Антоний(M)-NOM.SG правление(N)-ABL.SG Цезарь(M)-GEN.SG чем от тот_же_самый-GEN.SG.M смерть(F)-ACC.SG пугать.PRF.PTCP.PASS-NOM.SG.M	‘И Антоний был больше раздражен правлением Цезаря, чем испуган из-за его смерти.’	(Cic. Ep. ad Brutum. 24, 3, 10)				
+62	129	consentio	NOM	DAT	Y	NOM_DAT	(Anim-i) facile i-is [qu-ibus delecta-ntur] consenti-unt 	душа(M)-NOM.PL легко тот-DAT.PL.N который-DAT.PL.N забавлять[PRS.IND]-MID.3PL симпатизировать[PRS.IND]-ACT.3PL	‘(Души) и тем вещам, которыми забавляются, легко симпатизируют.’	(Quint. Inst. V. 11, 19)				
+62	130	vercundor	*	*	*					Not included in the database because Y cannot be overtly expressed.				
 45	1	*	*	*	*		Petia ǯeli-ni ənu.si-ni	PN голова-P.3SG болеть.IPFV.NPST-P.3SG	‘У Пети болит голова.’	Not included in the database because X is expressed as an NP-internal modifier.				
 45	2	ənusi-	NOM	INS	Y	NOM_INS	Petia grippa-ǯi ənu.si-ni	PN грипп-INS болеть.IPFV.NPST-P.3SG	‘Петя болеет гриппом.’					
 45	3	ŋəələ-	NOM	INS	Y	NOM_INS	Petia enda-ǯi ŋəələ-j-ni 	PN собака-INS пугаться-NPST-P.3SG	‘Петя боится собаки.’					
@@ -1299,136 +1429,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 38	128	å irritere seg	SBJ	over	Y	SBJ_over	Per irritere-r seg over datter-en	PN irritate-PRS REFL over daughter-DEF.M.SG	‘Per is getting irritated with his daughter.’			‘Пер раздражается на свою дочь.’		
 38	129	å like	SBJ	DO	TR	TR	Per like-r Ola	PN like-PRS PN	‘Per is fond of Ola.’			‘Пер симпатизирует Уле.’		
 38	130	å være flau	SBJ	over	Y	SBJ_over	Per er flau over høyd-en sin	PN be.PRS embarrassed over height-DEF.M.SG POSS.REFL.M.SG	‘Per is embarrased about his height.’	Non-verbal predicate.		‘Пер стесняется своего роста.’		
-31	1	bol-i	ACC	NOM	X	ACC_NOM	Ann-ę boli głow-a	PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG	‘У Анны болит голова.’					
-31	2	choruj-e	NOM	naACC	Y	NOM_naACC	Michał choruje na gryp-ę	PN[NOM.SG] болеть:IPFV.PRS.3SG на грипп-ACC.SG	‘Михал болеет гриппом.’					
-31	3	bo-i się	NOM	GEN	Y	NOM_GEN	Jacek trochę boi się ps-a	PN [NOM.SG] немного бояться:IPFV.PRS.3SG REFL собака-GEN.SG	‘Яцек немного боится собаки.’					
-31	4	rzuci-ł	NOM	ACC	TR	TR	Janek rzuci-ł kamień.	PN[NOM.SG] бросить:PFV-PST[M.3SG] камень[ACC.SG]	‘Янек бросил камень.’					
-31	5	wystarcz-a	DAT	GEN	XY	DAT_GEN	Anni-e wystarcza pieniędz-y	PN-DAT.SG хватает:IPFV.PRS.3SG деньги-GEN.PL	‘Анне хватает денег.’					
-31	6	podobn-a jest	NOM	doGEN	Y	NOM_doGEN	Ann-a podobn-a jest do Magd-y	PN(F)-NOM.SG похожий-F.NOM.SG быть[PRS.3SG] до PN-GEN.SG	‘Анна похожа на Магду.’	Non-verbal predicate.				
-31	7	wierz-y	NOM	DAT	Y	NOM_DAT	Michał wierzy ojc-u.	PN[NOM.SG] верить:PFV.PRS.3SG отец-DAT.SG	‘Михал верит отцу.’					
-31	8	wzią-ł	NOM	ACC	TR	TR	Ewaryst wzią-ł książk-ę.	PN[NOM.SG] взять:PFV\M-PST[M.3SG] книжка-ACC.SG	‘Эварист взял книжку.’					
-31	9	widz-i	NOM	ACC	TR	TR	Paweł widzi dom	PN[NOM.SG] видеть:IPFV.PRS.3SG дом[ACC.SG]	‘Павел видит дом.’					
-31	10	wpływ-a	NOM	naACC	Y	NOM_naACC	wiek wpływa na pamięć.	возраст[NOM.SG] влиять:IPFV.PRS.3SG на память[ACC.SG]	‘Возраст влияет на память.’					
-31	11	spotka-ł	NOM	ACC	TR	TR	Paweł spotka-ł Mart-ę	PN[NOM.SG] встретить:PFV-PST[M.3SG] PN-ACC.SG	‘Павел встретил Марту.’					
-31	12	wszed-ł	NOM	doGEN	Y	NOM_doGEN	Paweł wszed-ł do dom-u.	PN[NOM.SG] входить:PFV\PST.M-PST[M.3SG] до дом-GEN.SG	‘Павел вошел в дом.’					
-31	13	wygra-ł	NOM	zINS	Y	NOM_zINS	Paweł wygra-ł z Lech-em	PN[NOM.SG] выиграть:PFV-PST[M.3SG] c PN-INS.SG	‘Павел выиграл у Леха.’					
-31	14	wyszed-ł	NOM	zGEN	Y	NOM_zGEN	Andrzej wyszed-ł z dom-u	PN[NOM.SG] выходить:PFV\M-PST[M.3SG] из дом-GEN.SG	‘Анджей вышел из дома.’					
-31	15	gon-i	NOM	ACC	TR	TR	Andrzej goni krow-ę	PN[NOM.SG] гнать:IPFV.PRS.3SG корова-ACC.SG	‘Анджей гонит корову’					
-31	16	zgią-ł	NOM	ACC	TR	TR	Paweł zgią-ł gałąź	PN[NOM.SG] согнуть:PFV\M-PST[M.3SG] ветка[ACC.SG]	‘Павел согнул ветку.’					
-31	17	powiedzia-ł	NOM	DAT	Y	NOM_DAT	Franek powiedzia-ł Anc-e	PN[NOM.SG] сказать:PFV-PST[M.3SG] PN-DAT.SG	‘Франек сказал Анне: ...’					
-31	18	trzyma	NOM	ACC	TR	TR	Franek trzyma książk-ę.	PN[NOM.SG] держать:IPFV.PRS.3SG книжка-ACC.SG	‘Франек держит книжку.’					
-31	19	dogoni-ł	NOM	ACC	TR	TR	Maciek dogoni-ł Jank-a	PN[NOM.SG] догнать:PFV-PST[M.3SG] PN-ACC.SG	‘Мачек догнал Янека.’					
-31	20	wydoi-ł-a	NOM	ACC	TR	TR	Hank-a wydoi-ł-a krow-ę	PN-NOM.SG подоить:PFV-PST-F.3SG корова-ACC.SG	‘Ханка подоила корову.’					
-31	21	dotar-ł	NOM	doGEN	Y	NOM_doGEN	Maciek dotar-ł do brzeg-u	PN[NOM.SG] достигнуть:PFV\PST-PST[M.3SG] до берег-GEN.SG	‘Мачек достиг берега.’					
-31	22	dotkną-ł	NOM	GEN	Y	NOM_GEN	Marek dotkną-ł ścian-y	PN[NOM.SG] дотронуться:PFV\PST-PST[M.3SG] стена-GEN.SG	‘Марек дотронулся до стены.’					
-31	23	bij-e się	NOM	zINS	Y	NOM_zINS	Marek bije się z Tomasz-em	PN[NOM.SG] дерется:IPFV.PRS.3SG REFL с PN(M)-INS.SG	‘Марек дерется с Томашем.’					
-31	24	przyjaźn-i się	NOM	zINS	Y	NOM_zINS	król Maciuś przyjaźni się z Bum-Drum-em	король[NOM.SG] PN[NOM.SG] дружить:IPFV.PRS.3SG REFL с PN-INS.SG	‘Король Матиуш дружит с Бум-Друмом.’					
-31	25	myśl-i	NOM	oLOC	Y	NOM_oLOC	Tadeusz myśli o Hanc-e	PM[NOM.SG] думать:IPFV.PRS.3SG о PN-LOC.SG	‘Тадеуш думает о Ханке.’					
-31	26	zjad-ł	NOM	ACC	TR	TR	Adam zjad-ł jabłk-o	PN[NOM.SG] съесть:PFV\PST-PST[M.3SG] яблоко-ACC.SG	‘Адам съел яблоко.’					
-31	27	usmaży-ł	NOM	ACC	TR	TR	Adam usmaży-ł ryb-ę	PN[NOM.SG] поджарить:PFV-PST[M.3SG] рыба-ACC.SG	‘Адам поджарил рыбу.’					
+31	1	boli	ACC	NOM	X	ACC_NOM	Ann-ę boli głow-a	PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG	‘У Анны болит голова.’					
+31	2	choruje	NOM	naACC	Y	NOM_naACC	Michał choruje na gryp-ę	PN[NOM.SG] болеть:IPFV.PRS.3SG на грипп-ACC.SG	‘Михал болеет гриппом.’					
+31	3	boi się	NOM	GEN	Y	NOM_GEN	Jacek trochę boi się ps-a	PN[NOM.SG] немного бояться:IPFV.PRS.3SG REFL собака-GEN.SG	‘Яцек немного боится собаки.’					
+31	4	rzucił	NOM	ACC	TR	TR	Janek rzuci-ł kamień	PN[NOM.SG] бросить:PFV-PST[M.3SG] камень[ACC.SG]	‘Янек бросил камень.’					
+31	5	wystarcza	DAT	GEN	XY	DAT_GEN	Anni-e wystarcza pieniędz-y	PN-DAT.SG хватает:IPFV.PRS.3SG деньги-GEN.PL	‘Анне хватает денег.’					
+31	6	podobny + COP	NOM	doGEN	Y	NOM_doGEN	Ann-a podobn-a jest do Magd-y	PN(F)-NOM.SG похожий-F.NOM.SG быть[PRS.3SG] до PN-GEN.SG	‘Анна похожа на Магду.’	Non-verbal predicate.				
+31	7	wierzy	NOM	DAT	Y	NOM_DAT	Michał wierzy ojc-u	PN[NOM.SG] верить:PFV.PRS.3SG отец-DAT.SG	‘Михал верит отцу.’					
+31	8	wziął	NOM	ACC	TR	TR	Ewaryst wzią-ł książk-ę	PN[NOM.SG] взять:PFV\M-PST[M.3SG] книжка-ACC.SG	‘Эварист взял книжку.’					
+31	9	widzi	NOM	ACC	TR	TR	Paweł widzi dom	PN[NOM.SG] видеть:IPFV.PRS.3SG дом[ACC.SG]	‘Павел видит дом.’					
+31	10	wpływa	NOM	naACC	Y	NOM_naACC	wiek wpływa na pamięć	возраст[NOM.SG] влиять:IPFV.PRS.3SG на память[ACC.SG]	‘Возраст влияет на память.’					
+31	11	spotkał	NOM	ACC	TR	TR	Paweł spotka-ł Mart-ę	PN[NOM.SG] встретить:PFV-PST[M.3SG] PN-ACC.SG	‘Павел встретил Марту.’					
+31	12	wszedł	NOM	doGEN	Y	NOM_doGEN	Paweł wszed-ł do dom-u	PN[NOM.SG] входить:PFV\PST.M-PST[M.3SG] до дом-GEN.SG	‘Павел вошел в дом.’					
+31	13	wygrał	NOM	zINS	Y	NOM_zINS	Paweł wygra-ł z Lech-em	PN[NOM.SG] выиграть:PFV-PST[M.3SG] c PN-INS.SG	‘Павел выиграл у Леха.’					
+31	14	wyszedł	NOM	zGEN	Y	NOM_zGEN	Andrzej wyszed-ł z dom-u	PN[NOM.SG] выходить:PFV\M-PST[M.3SG] из дом-GEN.SG	‘Анджей вышел из дома.’					
+31	15	goni	NOM	ACC	TR	TR	Andrzej goni krow-ę	PN[NOM.SG] гнать:IPFV.PRS.3SG корова-ACC.SG	‘Анджей гонит корову’					
+31	16	zgiął	NOM	ACC	TR	TR	Paweł zgią-ł gałąź	PN[NOM.SG] согнуть:PFV\M-PST[M.3SG] ветка[ACC.SG]	‘Павел согнул ветку.’					
+31	17	powiedział	NOM	DAT	Y	NOM_DAT	Franek powiedzia-ł Anc-e	PN[NOM.SG] сказать:PFV-PST[M.3SG] PN-DAT.SG	‘Франек сказал Анке: ...’					
+31	18	trzyma	NOM	ACC	TR	TR	Franek trzyma książk-ę	PN[NOM.SG] держать:IPFV.PRS.3SG книжка-ACC.SG	‘Франек держит книжку.’					
+31	19	dogonił	NOM	ACC	TR	TR	Maciek dogoni-ł Jank-a	PN[NOM.SG] догнать:PFV-PST[M.3SG] PN-ACC.SG	‘Мачек догнал Янека.’					
+31	20	wydoiła	NOM	ACC	TR	TR	Hank-a wydoi-ł-a krow-ę	PN-NOM.SG подоить:PFV-PST-F.3SG корова-ACC.SG	‘Ханка подоила корову.’					
+31	21	dotarł	NOM	doGEN	Y	NOM_doGEN	Maciek dotar-ł do brzeg-u	PN[NOM.SG] достигнуть:PFV\PST-PST[M.3SG] до берег-GEN.SG	‘Мачек достиг берега.’					
+31	22	dotknął	NOM	GEN	Y	NOM_GEN	Marek dotkną-ł ścian-y	PN[NOM.SG] дотронуться:PFV\PST-PST[M.3SG] стена-GEN.SG	‘Марек дотронулся до стены.’					
+31	23	bije się	NOM	zINS	Y	NOM_zINS	Marek bije się z Tomasz-em	PN[NOM.SG] дерется:IPFV.PRS.3SG REFL с PN(M)-INS.SG	‘Марек дерется с Томашем.’					
+31	24	przyjaźni się	NOM	zINS	Y	NOM_zINS	król Maciuś przyjaźni się z Bum-Drum-em	король[NOM.SG] PN[NOM.SG] дружить:IPFV.PRS.3SG REFL с PN-INS.SG	‘Король Матиуш дружит с Бум-Друмом.’					
+31	25	myśli	NOM	oLOC	Y	NOM_oLOC	Tadeusz myśli o Hanc-e	PM[NOM.SG] думать:IPFV.PRS.3SG о PN-LOC.SG	‘Тадеуш думает о Ханке.’					
+31	26	zjadł	NOM	ACC	TR	TR	Adam zjad-ł jabłk-o	PN[NOM.SG] съесть:PFV\PST-PST[M.3SG] яблоко-ACC.SG	‘Адам съел яблоко.’					
+31	27	usmażył	NOM	ACC	TR	TR	Adam usmaży-ł ryb-ę	PN[NOM.SG] поджарить:PFV-PST[M.3SG] рыба-ACC.SG	‘Адам поджарил рыбу.’					
 31	28	czeka	NOM	naACC	Y	NOM_naACC	Basi-a czeka na kuzynk-ę	PN-NOM.SG ждать:IPFV.PRS.3SG на двоюродная_сестра-ACC.SG	‘Бася ждет двоюродную сестру.’					
-31	29	zapomnia-ł-a	NOM	oLOC	Y	NOM_oLOC	Basi-a zapomnia-ł-a o t-ej drodz-e	PN-NOM.SG забыть:PFV-PST-F.3SG о этот-F.LOC.SG дорога-LOC.SG	‘Бася забыла о той дороге.’					
-31	30	zależ-y	NOM	odGEN	Y	NOM_odGEN	pamięć zależy od wiek-u	память[NOM.SG] зависеть:IPFV.PRS.3SG от возраст-GEN.SG	‘Память зависит от возраста.’					
-31	31	zawoła-ł	NOM	ACC	TR	TR	Józef zawoła-ł zięci-a	PN[NOM.SG] позвать:PFV-PST[M.3SG] зять-ACC.SG	‘Юзеф позвал зятя.’					
-31	32	zapozna-ł się	NOM	zINS	Y	NOM_zINS	Józef zapozna-ł się z Adam-em rok temu	PN[NOM.SG] узнать:PFV-PST[M.3SG] REFL с PN-INS.SG год тот.N.DAT.SG	‘Юзеф познакомился с Адамом год назад.’					
+31	29	zapomniała	NOM	oLOC	Y	NOM_oLOC	Basi-a zapomnia-ł-a o t-ej drodz-e	PN-NOM.SG забыть:PFV-PST-F.3SG о этот-F.LOC.SG дорога-LOC.SG	‘Бася забыла о той дороге.’					
+31	30	zależy	NOM	odGEN	Y	NOM_odGEN	pamięć zależy od wiek-u	память[NOM.SG] зависеть:IPFV.PRS.3SG от возраст-GEN.SG	‘Память зависит от возраста.’					
+31	31	zawołał	NOM	ACC	TR	TR	Józef zawoła-ł zięci-a	PN[NOM.SG] позвать:PFV-PST[M.3SG] зять-ACC.SG	‘Юзеф позвал зятя.’					
+31	32	zapoznał się	NOM	zINS	Y	NOM_zINS	Józef zapozna-ł się z Adam-em rok temu	PN[NOM.SG] узнать:PFV-PST[M.3SG] REFL с PN-INS.SG год тот.N.DAT.SG	‘Юзеф познакомился с Адамом год назад.’					
 31	33	zna	NOM	ACC	TR	TR	Józef zna Adam-a	PN[NOM.SG] знать:IPFV.PRS.3SG PN-ACC.SG	‘Юзеф знает Адама.’					
 31	34	gra	NOM	naLOC	Y	NOM_naLOC	Dariusz gra na gitarz-e	PN[NOM.SG] играть:IPFV.PRS.3SG на гитара-LOC.SG	‘Дариуш играет на гитаре.’					
 31	35	unika	NOM	GEN	Y	NOM_GEN	Dariusz unika Adam-a	PN[NOM.SG] избегать:IPFV.PRS.3SG PN-GEN.SG	‘Дариуш избегает Адама.’					
-31	36	skonstruowa-ł	NOM	ACC	TR	TR	Dariusz skonstruowa-ł bomb-ę	PN[NOM.SG] сконструировал:PFV-PST[M.3SG] бомба-ACC.SG	‘Дариуш сделал бомбу.’					
-31	37	drw-i	NOM	zGEN	Y	NOM_zGEN	Mefistofeles drwi z Bog-a	Мефистофель[NOM.SG] издеваться:IPFV.PRS.3SG из Бог-GEN.SG	‘Мефистофель издевается над Богом.’					
+31	36	skonstruował	NOM	ACC	TR	TR	Dariusz skonstruowa-ł bomb-ę	PN[NOM.SG] сконструировать:PFV-PST[M.3SG] бомба-ACC.SG	‘Дариуш сделал бомбу.’					
+31	37	drwi	NOM	zGEN	Y	NOM_zGEN	Mefistofeles drwi z Bog-a	Мефистофель[NOM.SG] издеваться:IPFV.PRS.3SG из Бог-GEN.SG	‘Мефистофель издевается над Богом.’					
 31	38	ma	NOM	ACC	TR	TR	mąż ma samochód	муж[NOM.SG] иметь:IPFV.PRS.3SG машина[ACC.SG]	‘У мужа есть машина.’					
 31	39	szuka	NOM	GEN	Y	NOM_GEN	Sylwi-a szuka klucz-y	PN-NOM.SG искать:IPFV.PRS.3SG ключ-GEN.PL	‘Сильвия ищет ключи.’					
-31	40	pomalowa-ł	NOM	ACC	TR	TR	Tomasz pomalowa-ł płot	PN[NOM.SG] красить:PFV\PST-PST[M.3SG] забор[ACC.SG]	‘Том покрасил забор.’					
-31	41	ugryz-ł	NOM	ACC	TR	TR	pies ugryz-ł mam-ę	собака[NOM.SG] кусать:PFV\PST-PST[M.3SG] мама-ACC.SG	‘Собака укусила маму.’					
-31	42	straci-ł	NOM	ACC	TR	TR	Paweł straci-ł dom	PN[NOM.SG] потерять:PFV\PST-PST[M.3SG] дом[ACC.SG]	‘Павел потерял дом.’					
-31	43	łapi-e	NOM	ACC	TR	TR	dziewczynk-a łapie kot-a	девочка-NOM.SG ловить:PFV.PRS.3SG кот-ACC.SG	‘Девочка ловит кота/кошку.’					
-31	44	złama-ł	NOM	ACC	TR	TR	Jan złama-ł lask-ę	PN[NOM.SG] сламать:PFV-PST[M.3SG] палка-ACC.SG	‘Ян сломал палку.’					
-31	45	pochlebia	NOM	DAT	Y	NOM_DAT	Sylwia pochlebia Anni-e	PN[NOM.SG] льстит:IPFV.PRS.3SG PN-DAT.SG	‘Сильвия льстит Анне.’					
+31	40	pomalował	NOM	ACC	TR	TR	Tomasz pomalowa-ł płot	PN[NOM.SG] красить:PFV\PST-PST[M.3SG] забор[ACC.SG]	‘Том покрасил забор.’					
+31	41	ugryzł	NOM	ACC	TR	TR	pies ugryz-ł mam-ę	собака[NOM.SG] кусать:PFV\PST-PST[M.3SG] мама-ACC.SG	‘Собака укусила маму.’					
+31	42	stracił	NOM	ACC	TR	TR	Paweł straci-ł dom	PN[NOM.SG] потерять:PFV\PST-PST[M.3SG] дом[ACC.SG]	‘Павел потерял дом.’					
+31	43	łapie	NOM	ACC	TR	TR	dziewczynk-a łapie kot-a	девочка-NOM.SG ловить:PFV.PRS.3SG кот-ACC.SG	‘Девочка ловит кота/кошку.’					
+31	44	złamał	NOM	ACC	TR	TR	Jan złama-ł lask-ę	PN[NOM.SG] сламать:PFV-PST[M.3SG] палка-ACC.SG	‘Ян сломал палку.’					
+31	45	pochlebia	NOM	DAT	Y	NOM_DAT	Sylwia pochlebia Anni-e	PN[NOM.SG] льстить:IPFV.PRS.3SG PN-DAT.SG	‘Сильвия льстит Анне.’					
 31	46	kocha	NOM	ACC	TR	TR	Ann-a kocha Mark-a	PN-NOM.SG любить:IPFV.PRS.3SG PN-ACC.SG	‘Анна любит Марека.’					
 31	47	macha	NOM	INS	Y	NOM_INS	Paweł macha chustk-ą	PN[NOM.SG] махать:IPFV.PRS.3SG платок-INS.SG	‘Павел машет платком.’					
-31	48	marz-y	NOM	oLOC	Y	NOM_oLOC	Jacek marzy o samochodz-ie	PN[NOM.SG] мечтать:IPFV.PRS.3SG о машина-LOC.SG	‘Яцек мечтает о машине.’					
-31	49	umy-ł	NOM	ACC	TR	TR	Jacek umy-ł filiżank-ę	PN[NOM.SG] вымыть:PFV-PST[M.3SG] чашка-ACC.SG	‘Яцек вымыл чашку.’					
-31	50	włoży-ł	NOM	ACC	TR	TR	Paweł włoży-ł spodn-ie	PN[NOM.SG] надеть:PFV-PST[M.3SG] штаны-ACC.SG	‘Павел надел штаны.’					
-31	51	nazywa się	NOM	NOM	Y	NOM_NOM	ten przedmiot nazywa się busol-a.	этот.M.NOM.SG предмет[NOM.SG] называть:IPFV.PRS.3SG REFL компас-NOM.SG	‘Этот предмет называется компас.’					
-31	52	ukara-ł	NOM	ACC	TR	TR	Andrej ukara-ł sw-ego syn-a	PN-NOM.SG наказать:PFV-PST[M.3SG] свой-M.ACC.SG сын-ACC.SG	‘Анджей наказал своего сына.’					
-31	53	napad-ł	NOM	naACC	Y	NOM_naACC	niedźwiedź napad-ł na rybak-a	медведь[NOM.SG] нападать:PFV-PST[M.3SG] на рыбака-ACC.SG	‘Медведь напал на рыбака.’					
-31	54	napełni-ł-o się	NOM	INS	Y	NOM_INS	wiadr-o napełni-ł-o się wod-ą	ведро-NOM.SG наполнить:PFV-PST-N.3SG REFL вода-INS.SG	‘Ведро наполнилось водой.’					
-31	55	znalaz-ł	NOM	ACC	TR	TR	Feliks znalaz-ł klucz-e	PN[NOM.SG] найти:PFV-PST[M.3SG] ключ-ACC.PL	‘Феликс нашел ключи.’					
-31	56	brakuj-e	DAT	GEN	XY	DAT_GEN	Ann-ie brakuje dolar-a	PN-DAT.SG не.хватать:IPFV.PRS.3SG доллар-GEN.SG	‘Анне не хватает одного доллара.’					
-31	57	nienawidz-i	NOM	GEN	Y	NOM_GEN	Feliks nienawidzi Ann-y	PN[NOM.SG] ненавидеть: IPFV.PRS.3SG PN-GEN.SG	‘Феликс ненавидит Анну.’					
+31	48	marzy	NOM	oLOC	Y	NOM_oLOC	Jacek marzy o samochodz-ie	PN[NOM.SG] мечтать:IPFV.PRS.3SG о машина-LOC.SG	‘Яцек мечтает о машине.’					
+31	49	umył	NOM	ACC	TR	TR	Jacek umy-ł filiżank-ę	PN[NOM.SG] вымыть:PFV-PST[M.3SG] чашка-ACC.SG	‘Яцек вымыл чашку.’					
+31	50	włożył	NOM	ACC	TR	TR	Paweł włoży-ł spodn-ie	PN[NOM.SG] надеть:PFV-PST[M.3SG] штаны-ACC.SG	‘Павел надел штаны.’					
+31	51	nazywa się	NOM	NOM	Y	NOM_NOM	ten przedmiot nazywa się busol-a	этот.M.NOM.SG предмет[NOM.SG] называть:IPFV.PRS.3SG REFL компас-NOM.SG	‘Этот предмет называется компас.’					
+31	52	ukarał	NOM	ACC	TR	TR	Andrzej ukara-ł sw-ego syn-a	PN-NOM.SG наказать:PFV-PST[M.3SG] свой-M.ACC.SG сын-ACC.SG	‘Анджей наказал своего сына.’					
+31	53	napadł	NOM	naACC	Y	NOM_naACC	niedźwiedź napad-ł na rybak-a	медведь[NOM.SG] нападать:PFV-PST[M.3SG] на рыбака-ACC.SG	‘Медведь напал на рыбака.’					
+31	54	napełniło się	NOM	INS	Y	NOM_INS	wiadr-o napełni-ł-o się wod-ą	ведро-NOM.SG наполнить:PFV-PST-N.3SG REFL вода-INS.SG	‘Ведро наполнилось водой.’					
+31	55	znalazł	NOM	ACC	TR	TR	Feliks znalaz-ł klucz-e	PN[NOM.SG] найти:PFV-PST[M.3SG] ключ-ACC.PL	‘Феликс нашел ключи.’					
+31	56	brakuje	DAT	GEN	XY	DAT_GEN	Ann-ie brakuje dolar-a	PN-DAT.SG не.хватать:IPFV.PRS.3SG доллар-GEN.SG	‘Анне не хватает одного доллара.’					
+31	57	nienawidzi	NOM	GEN	Y	NOM_GEN	Feliks nienawidzi Ann-y	PN[NOM.SG] ненавидеть:IPFV.PRS.3SG PN-GEN.SG	‘Феликс ненавидит Анну.’					
 31	58	podoba się	DAT	NOM	X	DAT_NOM	Feliks-owi podoba się ta koszul-a	PN-DAT.SG нравиться:IPFV.PRS.3SG REFL этот.F.NOM.SG рубашка-NOM.SG	П. нравится эта рубашка					
-31	59	potrzebuj-e	NOM	GEN	Y	NOM_GEN	Ann-a potrzebuje pieniędz-y	PN-NOM.SG нуждаться:IPFV.PRS.3SG деньги-GEN.PL	‘Мама нуждается в деньгах.’					
+31	59	potrzebuje	NOM	GEN	Y	NOM_GEN	Ann-a potrzebuje pieniędz-y	PN-NOM.SG нуждаться:IPFV.PRS.3SG деньги-GEN.PL	‘Мама нуждается в деньгах.’					
 31	60	otacza	NOM	ACC	TR	TR	miast-o otacza mur	город-ACC.SG окружать:IPFV.PRS.3SG стена[NOM.SG]	‘Стены окружают город.’					
-31	61	Zosta-ł-o	DAT	NOM	X	DAT_NOM	zosta-ł-o Anni-e dziesięć dolar-ów	остаться:PFV-PST-N.3SG PN-DAT.SG десять[NOM] доллар-GEN.PL	‘У Анны осталось 10 долларов.’					
-31	62	odpowiedzia-ł	NOM	DAT	Y	NOM_DAT	Marek odpowiedzia-ł nauczyciel-owi	PN[NOM.SG] ответить:PFV-PST[M.3SG] учитель-DAT.SG	‘Марек ответил учителю.’					
-31	63	otworzy-ł	NOM	ACC	TR	TR	Marek otworzy-ł puszk-ę	PN[NOM.SG] открыть:PFV-PST[M.3SG] банка-ACC.SG	‘Марек открыл банку.’					
+31	61	zostało	DAT	NOM	X	DAT_NOM	zosta-ł-o Anni-e dziesięć dolar-ów	остаться:PFV-PST-N.3SG PN-DAT.SG десять[NOM] доллар-GEN.PL	‘У Анны осталось 10 долларов.’					
+31	62	odpowiedział	NOM	DAT	Y	NOM_DAT	Marek odpowiedzia-ł nauczyciel-owi	PN[NOM.SG] ответить:PFV-PST[M.3SG] учитель-DAT.SG	‘Марек ответил учителю.’					
+31	63	otworzył	NOM	ACC	TR	TR	Marek otworzy-ł puszk-ę	PN[NOM.SG] открыть:PFV-PST[M.3SG] банка-ACC.SG	‘Марек открыл банку.’					
 31	64	odróżnia się	NOM	odGEN	Y	NOM_odGEN	moj-a koszul-a odróżnia się od twoj-ej	мой-F.NOM.SG рубашка-NOM.SG отличать:IPFV.PRS.3SG REFL от твой-F.GEN.SG	‘Моя рубашка отличается от твоей.’					
-31	65	została	*	*	*		Ann-a zosta-ł-a w tyl-e.	PN-NOM.SG остаться:PFV-PST-F.3SG в зад-LOC.SG	‘Анна осталась сзади.’	Not included in the database because Y is not overtly expressed.				
-31	66	orz-e	NOM	ACC	TR	TR	Michał orze pol-e	PN[NOM.SG] пахать:IPFV.PRS.3SG поле-ACC.SG	‘Михал пашет поле.’					
-31	67	pachn-ą	NOM	INS	Y	NOM_INS	moj-e ręc-e pachną benzyn-ą	мой-F.NOM.PL рука-NOM.PL пахнуть:IPFV.PRS.3PL бензин-INS.SG	‘Мои руки пахнут бензином.’					
-31	68	przeszed-ł	NOM	ACC	TR	TR	Stefan przeszed-ł drog-ę	PN[NOM.SG] перейти:PFV\PST-PST[M.3SG] дорога-ACC.SG	‘Стефан перешел дорогу.’					
-31	69	zaśpiewa-ł	NOM	ACC	TR	TR	Stefan zaśpiewa-ł ładn-ą piosenk-ę	PN[NOM.SG] спеть:PFV-PST[M.3SG] красивый-F.ACC.SG песня-ACC.SG	‘Стефан спел красивую песню.’					
-31	70	napisa-ł	NOM	ACC	TR	TR	Staszek napisa-ł list	PN[NOM.SG] написать:PFV\PST-PST[M.3SG] письмо[ACC.SG]	‘Сташек написал письмо.’					
-31	71	wypi-ł	NOM	ACC	TR	TR	Staszek wypi-ł mlek-o	PN[NOM.SG] выпить:PFV-PST[M.3SG] молоко-ACC.SG	‘Сташек выпил молоко.’					
-31	72	roztopi-ł	NOM	ACC	TR	TR	Staszek roztopi-ł kawałek ołowi-u	PN[NOM.SG] расплавить:PFV-PST[M.3SG] кусок[ACC.SG] свинец-GEN.SG	‘Сташек расплавил косок свинца.’					
-31	73	pasuj-e	NOM	doGEN	Y	NOM_doGEN	ten pasek pasuje do mojej sukienk-i	этот.M.NOM.SG пояс[NOM.SG] подходить:IPFV.PRS.3SG до мой-F.GEN.SG платье-GEN.SG	‘Этот пояс подходит к моему платью.’					
-31	74	opuści-ł	NOM	ACC	TR	TR	Staszek opuści-ł rodzim-e miast-o	PN[NOM.SG] покинуть:PFV-PST[M.3SG] родной-N.ACC.SG город-ACC.SG	‘Сташек покинул родной город.’					
+31	65	została	*	*	*		Ann-a zosta-ł-a w tyl-e	PN-NOM.SG остаться:PFV-PST-F.3SG в зад-LOC.SG	‘Анна осталась сзади.’	Not included in the database because Y is not overtly expressed.				
+31	66	orze	NOM	ACC	TR	TR	Michał orze pol-e	PN[NOM.SG] пахать:IPFV.PRS.3SG поле-ACC.SG	‘Михал пашет поле.’					
+31	67	pachną	NOM	INS	Y	NOM_INS	moj-e ręc-e pachną benzyn-ą	мой-F.NOM.PL рука-NOM.PL пахнуть:IPFV.PRS.3PL бензин-INS.SG	‘Мои руки пахнут бензином.’					
+31	68	przeszedł	NOM	ACC	TR	TR	Stefan przeszed-ł drog-ę	PN[NOM.SG] перейти:PFV\PST-PST[M.3SG] дорога-ACC.SG	‘Стефан перешел дорогу.’					
+31	69	zaśpiewał	NOM	ACC	TR	TR	Stefan zaśpiewa-ł ładn-ą piosenk-ę	PN[NOM.SG] спеть:PFV-PST[M.3SG] красивый-F.ACC.SG песня-ACC.SG	‘Стефан спел красивую песню.’					
+31	70	napisał	NOM	ACC	TR	TR	Staszek napisa-ł list	PN[NOM.SG] написать:PFV\PST-PST[M.3SG] письмо[ACC.SG]	‘Сташек написал письмо.’					
+31	71	wypił	NOM	ACC	TR	TR	Staszek wypi-ł mlek-o	PN[NOM.SG] выпить:PFV-PST[M.3SG] молоко-ACC.SG	‘Сташек выпил молоко.’					
+31	72	roztopił	NOM	ACC	TR	TR	Staszek roztopi-ł kawałek ołowi-u	PN[NOM.SG] расплавить:PFV-PST[M.3SG] кусок[ACC.SG] свинец-GEN.SG	‘Сташек расплавил косок свинца.’					
+31	73	pasuje	NOM	doGEN	Y	NOM_doGEN	ten pasek pasuje do moj-ej sukienk-i	этот.M.NOM.SG пояс[NOM.SG] подходить:IPFV.PRS.3SG до мой-F.GEN.SG платье-GEN.SG	‘Этот пояс подходит к моему платью.’					
+31	74	opuścił	NOM	ACC	TR	TR	Staszek opuści-ł rodzim-e miast-o	PN[NOM.SG] покинуть:PFV-PST[M.3SG] родной-N.ACC.SG город-ACC.SG	‘Сташек покинул родной город.’					
 31	75	pokrywa	NOM	ACC	TR	TR	dywan pokrywa cał-ą podłog-ę	ковер[NOM.SG] покрывать:IPFV.PRS.3SG весь-F.ACC.SG пол-ACC.SG	‘Ковер покрывает весь пол.’					
 31	76	pamięta	NOM	ACC	TR	TR	Staszek dobrz-e pamięta dom	PN[NOM.SG] хороший-ADV помнить:IPFV.PRS.3SG дом[ACC.SG]	‘Сташек хорошо помнит дом.’					
-31	77	pomóg-ł	NOM	DAT	Y	NOM_DAT	Stanisław pomóg-ł Roman-owi	PN[NOM.SG] помочь\PST:PFV-PST[M.3SG] PN-DAT.SG	‘Станислав помог Роману.’					
-31	78	rozumi-e	NOM	ACC	TR	TR	Staszek rozumie język francusk-i	PN[NOM.SG] понимать:IPFV.PRS.3SG язык[ACC.SG] французский-M.ACC.SG	‘Сташек понимает французский язык.’					
-31	79	trafi-ł	NOM	wACC	Y	NOM_wACC	piorun trafi-ł w dom	молния[NOM.SG] попасть:PFV-PST[M.3SG] в дом[ACC.SG]	‘Молния попала в дом.’					
-31	80	zacią-ł się	NOM	INS	Y	NOM_INS	Staszek zacią-ł się brzytw-ą	PN[NOM.SG] порезать\PST:PFV-PST[M.3SG] REFL бритва-INS.SG	‘Сташек порезался бритвой.’					
-31	81	przylepi-ł-a się	NOM	doGEN	Y	NOM_doGEN	szklank-a przylepi-ł-a się do stoł-u	стакан-NOM.SG прилепить:PFV-PST-F.3SG REFL до стол-GEN.SG	‘Стакан прилип к столу.’					
-31	82	przegra-ł	NOM	zINS	Y	NOM_zINS	Józef przegra-ł z Eugeniusz-em	PN[NOM.SG] проиграть:PFV-PST[M.3SG] с PN-INS.SG	‘Юзеф проиграл Евгениушу.’					
-31	83	ucieszy-ł się	NOM	zGEN	Y	NOM_zGEN	generał ucieszy-ł się z list-u	генерал[NOM.SG] обрадоваться:PFV-PST[M.3SG] REFL из письмо-GEN.SG	‘Генерал обрадовался письму.’					
+31	77	pomógł	NOM	DAT	Y	NOM_DAT	Stanisław pomóg-ł Roman-owi	PN[NOM.SG] помочь\PST:PFV-PST[M.3SG] PN-DAT.SG	‘Станислав помог Роману.’					
+31	78	rozumie	NOM	ACC	TR	TR	Staszek rozumie język francusk-i	PN[NOM.SG] понимать:IPFV.PRS.3SG язык[ACC.SG] французский-M.ACC.SG	‘Сташек понимает французский язык.’					
+31	79	trafił	NOM	wACC	Y	NOM_wACC	piorun trafi-ł w dom	молния[NOM.SG] попасть:PFV-PST[M.3SG] в дом[ACC.SG]	‘Молния попала в дом.’					
+31	80	zaciął się	NOM	INS	Y	NOM_INS	Staszek zacią-ł się brzytw-ą	PN[NOM.SG] порезать\PST:PFV-PST[M.3SG] REFL бритва-INS.SG	‘Сташек порезался бритвой.’					
+31	81	przylepiła się	NOM	doGEN	Y	NOM_doGEN	szklank-a przylepi-ł-a się do stoł-u	стакан-NOM.SG прилепить:PFV-PST-F.3SG REFL до стол-GEN.SG	‘Стакан прилип к столу.’					
+31	82	przegrał	NOM	zINS	Y	NOM_zINS	Józef przegra-ł z Eugeniusz-em	PN[NOM.SG] проиграть:PFV-PST[M.3SG] с PN-INS.SG	‘Юзеф проиграл Евгениушу.’					
+31	83	ucieszył się	NOM	zGEN	Y	NOM_zGEN	generał ucieszy-ł się z list-u	генерал[NOM.SG] обрадоваться:PFV-PST[M.3SG] REFL из письмо-GEN.SG	‘Генерал обрадовался письму.’					
 31	84	rozmawia	NOM	zINS	Y	NOM_zINS	Staszek rozmawia z Adam-em	PN[NOM.SG] разговаривать:IPFV.PRS.3SG с PN-INS.SG	‘Сташек разговаривает с Адамом.’					
-31	85	urodzi-ł-a	NOM	ACC	TR	TR	Mariol-a urodzi-ł-a syn-a	PN-NOM.SG родить-PST-F.3SG сын-ACC.SG	‘Мариола родила сына.’					
-31	86	upuści-ł-a	NOM	ACC	TR	TR	Ann-a upuści-ł-a szklank-ę.	PN-NOM.SG уронить:PFV-PST-F.3SG стакан-ACC.SG	‘Анна уронила стакан.’					
-31	87	rządz-i	NOM	INS	Y	NOM_INS	Eliz-a rządzi nasz-ą wsi-ą	PN-NOM.SG управлять:IPFV.PRS.3SG наш-F.INS.SG деревня-INS.SG	‘Элиза управляет нашей деревней.’					
-31	88	tęskn-i	NOM	zaINS	Y	NOM_zaINS	Marek tęskni za Magd-ą	PN[NOM.SG] скучать:IPFV.PRS.3SG за PN-INS.SG	‘Марек скучает по Магде.’					
-31	89	idzi-e	NOM	zaINS	Y	NOM_zaINS	Jacek idzie za Mark-iem	PN[NOM.SG] идти:IPFV.PRS.3SG за PN-INS.SG	‘Яцек идет за Мареком.’					
-31	90	zszed-ł	NOM	zGEN	Y	NOM_zGEN	Jacek zszed-ł z koni-a	PN[NOM.SG] сойти:PFV\PST-PST[M.3SG] из лошадь-GEN.SG	‘Яцек слез с коня.’					
+31	85	urodziła	NOM	ACC	TR	TR	Mariol-a urodzi-ł-a syn-a	PN-NOM.SG родить-PST-F.3SG сын-ACC.SG	‘Мариола родила сына.’					
+31	86	upuściła	NOM	ACC	TR	TR	Ann-a upuści-ł-a szklank-ę	PN-NOM.SG уронить:PFV-PST-F.3SG стакан-ACC.SG	‘Анна уронила стакан.’					
+31	87	rządzi	NOM	INS	Y	NOM_INS	Eliz-a rządzi nasz-ą wsi-ą	PN-NOM.SG управлять:IPFV.PRS.3SG наш-F.INS.SG деревня-INS.SG	‘Элиза управляет нашей деревней.’					
+31	88	tęskni	NOM	zaINS	Y	NOM_zaINS	Marek tęskni za Magd-ą	PN[NOM.SG] скучать:IPFV.PRS.3SG за PN-INS.SG	‘Марек скучает по Магде.’					
+31	89	idzie	NOM	zaINS	Y	NOM_zaINS	Jacek idzie za Mark-iem	PN[NOM.SG] идти:IPFV.PRS.3SG за PN-INS.SG	‘Яцек идет за Мареком.’					
+31	90	zszedł	NOM	zGEN	Y	NOM_zGEN	Jacek zszed-ł z koni-a	PN[NOM.SG] сойти:PFV\PST-PST[M.3SG] из лошадь-GEN.SG	‘Яцек слез с коня.’					
 31	91	słucha	NOM	GEN	Y	NOM_GEN	Ann-a słucha radi-a	PN[NOM.SG] слушать:IPFV.PRS.3SG радио-GEN.SG	‘Анна слушает радио.’					
 31	92	słucha się	NOM	GEN	Y	NOM_GEN	Ann-a słucha się mam-y	PN-NOM.SG слушать:IPFV.PRS.3SG REFL мама-GEN.SG	‘Анна слушается маму.’					
-31	93	słysz-y	NOM	ACC	TR	TR	Ann-a słyszy muzyk-ę	PN-NOM.SG слышать:IPFV.PRS.3SG музыка-ACC.SG	‘Анна слышит музыку.’					
-31	94	zmiesza-ł się	NOM	zINS	Y	NOM_zINS	miód zmiesza-ł się z mlek-iem	мёд[NOM.SG] смешаться:PFV-PST[M.3SG] REFL с молоко-INS.SG	‘Мёд смешался с молоком.’					
-31	95	patrz-y	NOM	naACC	Y	NOM_naACC	Ann-a patrzy na chmur-y	PN-NOM.SG смотреть:IPFV.PRS.3SG на туча-ACC.PL	‘Анна смотрит на тучи.’					
-31	96	zdję-ł-a	NOM	ACC	TR	TR	Ann-a zdję-ł-a koszul-ę	PN-NOM.SG снимать:PFV-PST-F.3SG рубашка-ACC.SG	‘Анна сняла рубашку.’					
-31	97	śn-i się	DAT	NOM	X	DAT_NOM	Roman-owi śni się Matk-a Bosk-a	PN-DAT.SG сниться:IPFV.PRS.3SG REFL матерь-NOM.SG божий-F.NOM.SG	‘Роману снится Божья Матерь.’					
-31	98	zgodzi-ł-a się	NOM	zINS	Y	NOM_zINS	Ann-a zgodzi-ł-a się z Mark-iem	PN-NOM.SG согласиться:PFV-PST-F.3SG REFL с PN-INS.SG	‘Анна согласилась с Мареком.’					
-31	99	pokłóci-ł-a się	NOM	zINS	Y	NOM_zINS	Agnieszk-a pokłóci-ł-a się z Magd-ą	PN-NOM.SG поссориться:PFV-PST-F.3SG REFL с PN-INS.SG	‘Агнешка поссорилась с Магдой.’					
-31	100	kosztuj-e	NOM	ACC	TR	TR	ta filiżank-a kosztuje jeden dolar	этот.F.NOM.SG чашка-NOM.SG стоить:IPFV.PRS.3SG один[M.ACC.SG] доллар[ACC.SG]	‘Эта чашка стоит один доллар.’					
-31	101	strzeli-ł	NOM	doGEN	Y	NOM_doGEN	Paweł strzeli-ł do ptak-a	PN[NOM.SG] выстрелить:PFV-PST[M.3SG] до птица-GEN.SG	‘Павел выстрелил в птицу.’					
-31	102	wsypa-ł	NOM	ACC	TR	TR	Staszek wsypa-ł cukier	PN[NOM.SG] насыпал:PFV-PST[M.3SG] сахар[ACC.SG]	‘Сташек насыпал сахар.’					
-31	103	zgubi-ł	NOM	ACC	TR	TR	Marek zgubi-ł klucz-e	PN[NOM.SG] потерял:PFV-PST[M.3SG] сахар[ACC.PL]	‘Марек потерял сахар.’					
-31	104	utonę-ł-o	NOM	wLOC	Y	NOM_wLOC	polan-o utonę-ł-o w wodzi-e	полено-NOM.SG утонуть:PFV-PST-F.3SG в вода-LOC.SG	‘Полено утонуло в воде.’					
-31	105	zabi-ł	NOM	ACC	TR	TR	Janek zabi-ł Magdalen-ę	PN[NOM.SG] убить:PFV-PST[M.3SG] PN-ACC.SG	‘Янек убил Магдалену.’					
-31	106	uderzy-ł	NOM	ACC	TR	TR	Franek uderzy-ł Andrzej-a	PN[NOM.SG] ударить:PFV-PST[M.3SG] PN-ACC.SG	‘Франек ударил Анджея.’					
-31	107	pocałowa-ł	NOM	ACC	TR	TR	Franek pocałowa-ł Mart-ę	PN[NOM.SG] поцеловать:PFV-PST[M.3SG] Марта-ACC.SG	‘Франек поцеловал Марту.’					
-31	108	przeczyta-ł-a	NOM	ACC	TR	TR	Ann-a przeczyta-ł-a ciekaw-ą książk-ę	PN-NOM.SG прочитать:PFV-PST-F.3SG интересный-F.ACC.SG книга-ACC.SG	‘Анна прочитала интересную книгу.’					
-31	109	poruszy-ł	NOM	INS	Y	NOM_INS	Andrzej poruszy-ł palc-em	PN[NOM.SG] пошевелить:PFV-PST[M.3SG] палец-INS.SG	‘Отец пошевелил пальцем.’					
-31	110	szanuj-e	NOM	ACC	TR	TR	Krystyn-a szanuje Ann-ę	PN-NOM.SG уважать:IPFV.PRS.3SG PN-ACC.SG	‘Кристина уважает Анну.’					
-31	111	brzydz-i się	NOM	INS	Y	NOM_INS	Marek brzydzi się dzieć-mi	PN[NOM.SG] брезговать:IPFV.PRS.3SG REFL ребенок-INS.PL	‘Марек брезгует детьми.’					
-31	112	by-ł zadowolon-y	NOM	zGEN	Y	NOM_zGEN	Dariusz by-ł zadowolon-y z syn-a	PN[NOM.SG] быть\PST-PST[M.3SG] довольный-M.NOM.SG из сын-GEN.SG	‘Дариуш доволен сыном.’	Non-verbal predicate.				
-31	113	zakocha-ł się	NOM	wLOC	Y	NOM_wLOC	Michał zakocha-ł się w Janc-e	PN[NOM.SG] влюбить:PFV-PST[M.3SG] REFL в PN-LOC.SG	‘Михал влюбился в Янку.’					
+31	93	słyszy	NOM	ACC	TR	TR	Ann-a słyszy muzyk-ę	PN-NOM.SG слышать:IPFV.PRS.3SG музыка-ACC.SG	‘Анна слышит музыку.’					
+31	94	zmieszał się	NOM	zINS	Y	NOM_zINS	miód zmiesza-ł się z mlek-iem	мёд[NOM.SG] смешаться:PFV-PST[M.3SG] REFL с молоко-INS.SG	‘Мёд смешался с молоком.’					
+31	95	patrzy	NOM	naACC	Y	NOM_naACC	Ann-a patrzy na chmur-y	PN-NOM.SG смотреть:IPFV.PRS.3SG на туча-ACC.PL	‘Анна смотрит на тучи.’					
+31	96	zdjęła	NOM	ACC	TR	TR	Ann-a zdję-ł-a koszul-ę	PN-NOM.SG снимать:PFV-PST-F.3SG рубашка-ACC.SG	‘Анна сняла рубашку.’					
+31	97	śni się	DAT	NOM	X	DAT_NOM	Roman-owi śni się Matk-a Bosk-a	PN-DAT.SG сниться:IPFV.PRS.3SG REFL матерь-NOM.SG божий-F.NOM.SG	‘Роману снится Божья Матерь.’					
+31	98	zgodziła się	NOM	zINS	Y	NOM_zINS	Ann-a zgodzi-ł-a się z Mark-iem	PN-NOM.SG согласиться:PFV-PST-F.3SG REFL с PN-INS.SG	‘Анна согласилась с Мареком.’					
+31	99	pokłóciła się	NOM	zINS	Y	NOM_zINS	Agnieszk-a pokłóci-ł-a się z Magd-ą	PN-NOM.SG поссориться:PFV-PST-F.3SG REFL с PN-INS.SG	‘Агнешка поссорилась с Магдой.’					
+31	100	kosztuje	NOM	ACC	TR	TR	ta filiżank-a kosztuje jeden dolar	этот.F.NOM.SG чашка-NOM.SG стоить:IPFV.PRS.3SG один[M.ACC.SG] доллар[ACC.SG]	‘Эта чашка стоит один доллар.’					
+31	101	strzelił	NOM	doGEN	Y	NOM_doGEN	Paweł strzeli-ł do ptak-a	PN[NOM.SG] выстрелить:PFV-PST[M.3SG] до птица-GEN.SG	‘Павел выстрелил в птицу.’					
+31	102	wsypał	NOM	ACC	TR	TR	Staszek wsypa-ł cukier	PN[NOM.SG] насыпал:PFV-PST[M.3SG] сахар[ACC.SG]	‘Сташек насыпал сахар.’					
+31	103	zgubił	NOM	ACC	TR	TR	Marek zgubi-ł klucz-e	PN[NOM.SG] потерял:PFV-PST[M.3SG] ключ-ACC.PL	‘Марек потерял ключи.’					
+31	104	utonęło	NOM	wLOC	Y	NOM_wLOC	polan-o utonę-ł-o w wodzi-e	полено-NOM.SG утонуть:PFV-PST-F.3SG в вода-LOC.SG	‘Полено утонуло в воде.’					
+31	105	zabił	NOM	ACC	TR	TR	Janek zabi-ł Magdalen-ę	PN[NOM.SG] убить:PFV-PST[M.3SG] PN-ACC.SG	‘Янек убил Магдалену.’					
+31	106	uderzył	NOM	ACC	TR	TR	Franek uderzy-ł Andrzej-a	PN[NOM.SG] ударить:PFV-PST[M.3SG] PN-ACC.SG	‘Франек ударил Анджея.’					
+31	107	pocałował	NOM	ACC	TR	TR	Franek pocałowa-ł Mart-ę	PN[NOM.SG] поцеловать:PFV-PST[M.3SG] Марта-ACC.SG	‘Франек поцеловал Марту.’					
+31	108	przeczytała	NOM	ACC	TR	TR	Ann-a przeczyta-ł-a ciekaw-ą książk-ę	PN-NOM.SG прочитать:PFV-PST-F.3SG интересный-F.ACC.SG книга-ACC.SG	‘Анна прочитала интересную книгу.’					
+31	109	poruszył	NOM	INS	Y	NOM_INS	Andrzej poruszy-ł palc-em	PN[NOM.SG] пошевелить:PFV-PST[M.3SG] палец-INS.SG	‘Отец пошевелил пальцем.’					
+31	110	szanuje	NOM	ACC	TR	TR	Krystyn-a szanuje Ann-ę	PN-NOM.SG уважать:IPFV.PRS.3SG PN-ACC.SG	‘Кристина уважает Анну.’					
+31	111	brzydzi się	NOM	INS	Y	NOM_INS	Marek brzydzi się dzieć-mi	PN[NOM.SG] брезговать:IPFV.PRS.3SG REFL ребенок-INS.PL	‘Марек брезгует детьми.’					
+31	112	zadowolony + COP	NOM	zGEN	Y	NOM_zGEN	Dariusz by-ł zadowolon-y z syn-a	PN[NOM.SG] быть\PST-PST[M.3SG] довольный-M.NOM.SG из сын-GEN.SG	‘Дариуш доволен сыном.’	Non-verbal predicate.				
+31	113	zakochał się	NOM	wLOC	Y	NOM_wLOC	Michał zakocha-ł się w Janc-e	PN[NOM.SG] влюбить:PFV-PST[M.3SG] REFL в PN-LOC.SG	‘Михал влюбился в Янку.’					
 31	114	ufa	NOM	DAT	Y	NOM_DAT	Michał ufa Janas-owi	PN[NOM.SG] верить:IPFV.PRS.3SG PN-DAT.SG	‘Михал верит Янасу.’					
-31	115	żałuj-e	NOM	GEN	Y	NOM_GEN	Michał żałuje swoj-ej matk-i.	PN[NOM.SG] жалеть:PFV.PRS.3SG свой-F.GEN.SG мать-GEN.SG	‘Михал жалеет свою мать.’					
-31	116	zazdrośc-i	NOM	DAT	Y	NOM_DAT	Michał zazdrości Janc-e	PN[NOM.SG] завидовать:IPFV.PRS.3SG PN-DAT.SG	‘Михал завидует Янке.’					
-31	117	gniew-a się	NOM	naACC	Y	NOM_naACC	Michał gniew-a się na Jank-ę	PN[NOM.SG] злить:IPFV.PRS.3SG REFL на PN-ACC.SG	‘Михал злиться на Янку.’					
-31	118	zdziwi-ł się	NOM	INS	Y	NOM_INS	Michał zdziwi-ł się tym prezent-em	PN[NOM.SG] удивляться:PFV-PST[M.3SG] REFL этот.M.INS.SG подарок-INS.SG	‘Михал удивился этому подарку.’					
-31	119	lub-i	NOM	ACC	TR	TR	Michał lubi herbat-ę.	PN[NOM.SG] любить:IPFV.PRS.3SG чай-ACC.SG	‘Михал любит чай.’					
-31	120	delektuj-e się	NOM	INS	Y	NOM_INS	Michał delektuje się gorąc-ą herbat-ą.	PN[NOM.SG] любить:IPFV.PRS.3SG REFL горячий-F.INS.SG чай-INS.SG	‘Михал наслаждается горячим чаем.’					
-31	121	chc-e	NOM	ACC	TR	TR	Michał chce now-ą komórk-ę.	PN[NOM.SG] хотеть:IPFV.PRS.3SG новый-F.ACC.SG мобильник-ACC.SG	‘Михал хочет новый мобильник.’					
-31	122	wścieka się	NOM	naACC	Y	NOM_naACC	Michał wścieka się na Ann-ę.	PN[NOM.SG] бесить:IPFV. PRS.3SG REFL на PN-ACC.SG	‘Михал злится на Янку.’					
-31	123	obrazi-ł się	NOM	naACC	Y	NOM_naACC	Michał obrazi-ł się na Magd-ę.	PN[NOM.SG] обидеть:PFV-PST[M.3SG] REFL на PN-ACC.SG	‘Михал обиделся на Магду.’					
-31	124	zasmuci-ł	NOM	ACC	TR	TR	Paweł bardzo zasmuci-ł Magd-ę	PN[NOM.SG] очень огорчить:PFV-PST[M.3SG] PN-ACC.SG	‘Павел очень огорчил Магду.’					
-31	125	porazi-ł-o	ACC	NOM	X	ACC_NOM	Pawł-a porazi-ł-o to miast-o	PN-ACC.SG поразить:PFV-PST-N.3SG тот.N.NOM.SG город-NOM.SG	‘Павла поразил этот город.’					
-31	126	gardz-i	NOM	INS	Y	NOM_INS	Paweł gardzi Magd-ą	PN[NOM.SG] презирает:IPFV.PRS.3SG PN-INS.SG	‘Павел презирает Магду.’					
-31	127	zasmuci-ł się	NOM	z.powoduGEN	Y	NOM_z.powoduGEN	Michał zasmuci-ł się z powod-u syn-a	PN[NOM.SG] огорчить:PFV-PST[M.3SG] REFL из повод-GEN.SG сын-GEN.SG	‘Михал огорчился из-за сына.’					
-31	128	denerwuj-e się	NOM	naACC	Y	NOM_naACC	Michał denerwuje się na swoj-ą córk-ę	PN[NOM.SG] раздражать:IPFV.PRS.3SG REFL на свой-ACC.SG дочь-ACC.SG	‘Павел раздражается на свою дочь.’					
-31	129	lub-i	NOM	ACC	TR	TR	Michał lubi Magd-ę.	PN[NOM.SG] любить:IPFV.PRS.3SG PN-ACC.SG	‘Михалу нравится Магда.’					
-31	130	wstydz-i się	NOM	GEN	Y	NOM_GEN	Michał wstydzi się swoj-ego wzrost-u.	PN[NOM.SG] стесняться:IPFV.PRS.3SG REFL свой-M.GEN.SG рост-GEN.SG	‘Михал стесняется своего роста.’					
+31	115	żałuje	NOM	GEN	Y	NOM_GEN	Michał żałuje swoj-ej matk-i	PN[NOM.SG] жалеть:PFV.PRS.3SG свой-F.GEN.SG мать-GEN.SG	‘Михал жалеет свою мать.’					
+31	116	zazdrości	NOM	DAT	Y	NOM_DAT	Michał zazdrości Janc-e	PN[NOM.SG] завидовать:IPFV.PRS.3SG PN-DAT.SG	‘Михал завидует Янке.’					
+31	117	gniewa się	NOM	naACC	Y	NOM_naACC	Michał gniew-a się na Jank-ę	PN[NOM.SG] злить:IPFV.PRS.3SG REFL на PN-ACC.SG	‘Михал злиться на Янку.’					
+31	118	zdziwił się	NOM	INS	Y	NOM_INS	Michał zdziwi-ł się tym prezent-em	PN[NOM.SG] удивляться:PFV-PST[M.3SG] REFL этот.M.INS.SG подарок-INS.SG	‘Михал удивился этому подарку.’					
+31	119	lubi	NOM	ACC	TR	TR	Michał lubi herbat-ę	PN[NOM.SG] любить:IPFV.PRS.3SG чай-ACC.SG	‘Михал любит чай.’					
+31	120	delektuje się	NOM	INS	Y	NOM_INS	Michał delektuje się gorąc-ą herbat-ą	PN[NOM.SG] любить:IPFV.PRS.3SG REFL горячий-F.INS.SG чай-INS.SG	‘Михал наслаждается горячим чаем.’					
+31	121	chce	NOM	ACC	TR	TR	Michał chce now-ą komórk-ę	PN[NOM.SG] хотеть:IPFV.PRS.3SG новый-F.ACC.SG мобильник-ACC.SG	‘Михал хочет новый мобильник.’					
+31	122	wścieka się	NOM	naACC	Y	NOM_naACC	Michał wścieka się na Ann-ę	PN[NOM.SG] бесить:IPFV. PRS.3SG REFL на PN-ACC.SG	‘Михал злится на Анну.’					
+31	123	obraził się	NOM	naACC	Y	NOM_naACC	Michał obrazi-ł się na Magd-ę	PN[NOM.SG] обидеть:PFV-PST[M.3SG] REFL на PN-ACC.SG	‘Михал обиделся на Магду.’					
+31	124	zasmucił	NOM	ACC	TR	TR	Paweł bardzo zasmuci-ł Magd-ę	PN[NOM.SG] очень огорчить:PFV-PST[M.3SG] PN-ACC.SG	‘Павел очень огорчил Магду.’					
+31	125	poraziło	ACC	NOM	X	ACC_NOM	Pawł-a porazi-ł-o to miast-o	PN-ACC.SG поразить:PFV-PST-N.3SG тот.N.NOM.SG город-NOM.SG	‘Павла поразил этот город.’					
+31	126	gardzi	NOM	INS	Y	NOM_INS	Paweł gardzi Magd-ą	PN[NOM.SG] презирать:IPFV.PRS.3SG PN-INS.SG	‘Павел презирает Магду.’					
+31	127	zasmucił się	NOM	z.powoduGEN	Y	NOM_z.powoduGEN	Michał zasmuci-ł się z powod-u syn-a	PN[NOM.SG] огорчить:PFV-PST[M.3SG] REFL из повод-GEN.SG сын-GEN.SG	‘Михал огорчился из-за сына.’					
+31	128	denerwuje się	NOM	naACC	Y	NOM_naACC	Michał denerwuje się na swoj-ą córk-ę	PN[NOM.SG] раздражать:IPFV.PRS.3SG REFL на свой-ACC.SG дочь-ACC.SG	‘Павел раздражается на свою дочь.’					
+31	129	lubi	NOM	ACC	TR	TR	Michał lubi Magd-ę	PN[NOM.SG] любить:IPFV.PRS.3SG PN-ACC.SG	‘Михалу нравится Магда.’					
+31	130	wstydzi się	NOM	GEN	Y	NOM_GEN	Michał wstydzi się swoj-ego wzrost-u	PN[NOM.SG] стесняться:IPFV.PRS.3SG REFL свой-M.GEN.SG рост-GEN.SG	‘Михал стесняется своего роста.’					
 1	1	boletʹ	uGEN	NOM	X	uGEN_NOM	u Pet-i bol-it golov-a	at PN(M)-GEN.SG ache(IPFV)-PRS.3SG head(F)-NOM.SG	‘Petja has a headache.’		у PN(M)-GEN.SG болеть(IPFV)-PRS.3SG голова(F)-NOM.SG	‘У Пети болит голова.’	болеть	у Пет-и бол-ит голов-а
 1	2	boletʹ	NOM	INS	Y	NOM_INS	Pet-ja bole-et gripp-om	PN(M)-NOM.SG be_ill(IPFV)-PRS.3SG flu(M)-INS.SG	‘Petja has the flu.’		PN(M)-NOM.SG болеть(IPFV)-PRS.3SG грипп(M)-INS.SG	‘Петя болеет гриппом.’	болеть	Пет-я боле-ет грипп-ом
 1	3	bojatʹsja	NOM	GEN	Y	NOM_GEN	Pet-ja bo-it-sja sobak-i	PN(M)-NOM.SG be_afraid(IPFV)-PRS.3SG-REFL dog(F)-GEN.SG	‘Petja is afraid of the dog.’		PN(M)-NOM.SG бояться(IPFV)-PRS.3SG-REFL собака(F)-GEN.SG	‘Петя боится собаки.’	бояться	Пет-я бо-ит-ся собак-и
@@ -8189,136 +8319,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 34	128	дöзмыны	NOM	vylo	Y	NOM_vylo								
 34	129	*	*	*	*									
 34	130	яндысьны	NOM	ELA	Y	NOM_ELA								
-62	1	doleo	DAT	NOM	X	DAT_NOM								
-62	2	aegroto	NOM	ABL	Y	NOM_ABL								
-62	3	timeo	NOM	ACC	TR	TR								
-62	4	jaceo	NOM	ACC	TR	TR								
-62	5	satis (essere)	DAT	NOM	X	DAT_NOM								
-62	6	imitor	NOM	ACC	TR	TR								
-62	7	credo	NOM	DAT	Y	NOM_DAT								
-62	8	capio	NOM	ACC	TR	TR								
-62	9	video	NOM	ACC	TR	TR								
-62	10	afficio	NOM	ACC	TR	TR								
-62	11	incurro	NOM	inACC	Y	NOM_inACC								
-62	12	intro	NOM	ACC	TR	TR								
-62	13	evinco	NOM	ACC	TR	TR								
-62	14	exeo	NOM	exABL	Y	NOM_exABL								
-62	15	ago	NOM	ACC	TR	TR								
-62	16	cornum	NOM	ACC	TR	TR								
-62	17	dico	NOM	DAT	Y	NOM_DAT								
-62	18	teneo	NOM	ACC	TR	TR								
-62	19	consequor	NOM	ACC	TR	TR								
-62	20	mulgeo	NOM	ACC	TR	TR								
-62	21	pervenio	NOM	adACC	Y	NOM_adACC								
-62	22	tango	NOM	ACC	TR	TR								
-62	23	luctor	NOM	cumABL	Y	NOM_cumABL								
-62	24	amicus (essere)	NOM	DAT	Y	NOM_DAT								
-62	25	meditor	NOM	ACC	TR	TR								
-62	26	edo	NOM	ACC	TR	TR								
-62	27	frigo	NOM	ACC	TR	TR								
-62	28	maneo	NOM	ACC	TR	TR								
-62	29	obliviscor	NOM	GEN	Y	NOM_GEN								
-62	30	dependeo	NOM	exABL	Y	NOM_exABL								
-62	31	voco	NOM	ACC	TR	TR								
-62	32	cognosco	NOM	ACC	TR	TR								
-62	33	nosco	NOM	ACC	TR	TR								
-62	34	modulor	NOM	ABL	Y	NOM_ABL								
-62	35	vito	NOM	ACC	TR	TR								
-62	36	facio	NOM	ACC	TR	TR								
-62	37	derideo	NOM	ACC	TR	TR								
-62	38	habeo	NOM	ACC	TR	TR								
-62	39	quaero	NOM	ACC	TR	TR								
-62	40	pingo	NOM	ACC	TR	TR								
-62	41	mordeo	NOM	ACC	TR	TR								
-62	42	amitto	NOM	ACC	TR	TR								
-62	43	capto	NOM	ACC	TR	TR								
-62	44	frango	NOM	ACC	TR	TR								
-62	45	blandior	NOM	DAT	Y	NOM_DAT								
-62	46	amo	NOM	ACC	TR	TR								
-62	47	vibro	NOM	ACC	TR	TR								
-62	48	somnio	NOM	ACC	TR	TR								
-62	49	lavo	NOM	ACC	TR	TR								
-62	50	sumo	NOM	ACC	TR	TR								
-62	51	appello + PASS	NOM	NOM	Y	NOM_NOM								
-62	52	punio	NOM	ACC	TR	TR								
-62	53	invadeo	NOM	ACC	TR	TR								
-62	54	impleo + PASS	NOM	ABL	Y	NOM_ABL								
-62	55	invenio	NOM	ACC	TR	TR								
-62	56	desum	DAT	NOM	X	DAT_NOM								
-62	57	odi	NOM	ACC	TR	TR								
-62	58	placeo	DAT	NOM	X	DAT_NOM								
-62	59	egeo	NOM	GEN	Y	NOM_GEN								
-62	60	cingo	NOM	ACC	TR	TR								
-62	61	supersum	DAT	NOM	X	DAT_NOM								
-62	62	respondeo	NOM	DAT	Y	NOM_DAT								
-62	63	retego	NOM	ACC	TR	TR								
-62	64	differo	NOM	abABL	Y	NOM_abABL								
-62	65	decedo	NOM	ABL	Y	NOM_ABL								
-62	66	aro	NOM	ACC	TR	TR								
-62	67	oleo	NOM	ABL	Y	NOM_ABL								
-62	68	transeo	NOM	ACC	TR	TR								
-62	69	cano	NOM	ACC	TR	TR								
-62	70	scribo	NOM	ACC	TR	TR								
-62	71	bibo	NOM	ACC	TR	TR								
-62	72	liquefacio	NOM	ACC	TR	TR								
-62	73	apto + PASS	NOM	adACC	Y	NOM_adACC								
-62	74	linquo	NOM	ACC	TR	TR								
-62	75	tego	NOM	ACC	TR	TR								
-62	76	memini	NOM	ACC	TR	TR								
-62	77	iuvo	NOM	ACC	TR	TR								
-62	78	scio	NOM	ACC	TR	TR								
-62	79	percello	NOM	ACC	TR	TR								
-62	80	*	*	*	*									
-62	81	adhaereo	NOM	DAT	Y	NOM_DAT								
-62	82	vinco + PASS	NOM	ABL	Y	NOM_ABL								
-62	83	gaudeo	NOM	ACC	TR	TR								
-62	84	colloquor	NOM	cumABL	Y	NOM_cumABL								
-62	85	pario	NOM	ACC	TR	TR								
-62	86	demitto	NOM	ACC	TR	TR								
-62	87	administro	NOM	ACC	TR	TR								
-62	88	desidero	NOM	ACC	TR	TR								
-62	89	sequor	NOM	ACC	TR	TR								
-62	90	descendo	NOM	ABL	Y	NOM_ABL								
-62	91	audio	NOM	ACC	TR	TR								
-62	92	pareo	NOM	DAT	Y	NOM_DAT								
-62	93	audio	NOM	ACC	TR	TR								
-62	94	misceo + PASS	NOM	cumABL	Y	NOM_cumABL								
-62	95	aspecto	NOM	ACC	TR	TR								
-62	96	se devestio	NOM	ABL	Y	NOM_ABL								
-62	97	somnio	NOM	ACC	TR	TR								
-62	98	assentior	NOM	DAT	Y	NOM_DAT								
-62	99	discordo	NOM	cumABL	Y	NOM_cumABL								
-62	100	consto	NOM	ABL	Y	NOM_ABL								
-62	101	iaculor	NOM	inACC	Y	NOM_inACC								
-62	102	infundo	NOM	ACC	TR	TR								
-62	103	perdo	NOM	ACC	TR	TR								
-62	104	sido	NOM	inABL	Y	NOM_inABL								
-62	105	neco	NOM	ACC	TR	TR								
-62	106	percutio	NOM	ACC	TR	TR								
-62	107	osculor	NOM	ACC	TR	TR								
-62	108	lego	NOM	ACC	TR	TR								
-62	109	moveo	NOM	ACC	TR	TR								
-62	110	vereor	NOM	ACC	TR	TR								
-62	111	fastidio	NOM	ACC	TR	TR								
-62	112	contentus (sum)	NOM	ABL	Y	NOM_ABL								
-62	113	adamo	NOM	ACC	TR	TR								
-62	114	fido	NOM	DAT	Y	NOM_DAT								
-62	115	miserescere	NOM	GEN	Y	NOM_GEN								
-62	116	invideo	NOM	DAT	Y	NOM_DAT								
-62	117	irascor	NOM	DAT	Y	NOM_DAT								
-62	118	miror	NOM	ACC	TR	TR								
-62	119	amo	NOM	ACC	TR	TR								
-62	120	fruor	NOM	ABL	Y	NOM_ABL								
-62	121	volo	NOM	ACC	TR	TR								
-62	122	irascor	NOM	DAT	Y	NOM_DAT								
-62	123	offensus (sum)	NOM	ABL	Y	NOM_ABL								
-62	124	contristo	NOM	ACC	TR	TR								
-62	125	miror	NOM	ACC	TR	TR								
-62	126	contemno	NOM	ACC	TR	TR								
-62	127	maereo	NOM	ABL	Y	NOM_ABL								
-62	128	irrito + PASS	NOM	ABL	Y	NOM_ABL								
-62	129	consentio	NOM	DAT	Y	NOM_DAT								
-62	130	vercundor	*	*	*									
 17	1		DAT	NOM	X	DAT_NOM								
 17	2		NOM	arACC	Y	NOM_arACC								
 17	3		NOM	noGEN	Y	NOM_noGEN								
