@@ -18783,7 +18783,7 @@ const fullData = [
     "TR",
     "TR",
     "Nec miser-Ø magn-um inpende-ns time-t aer-e sax-um Tantal-us ",
-    "И_не несчастный-NOM.SG.M большой-ACC.SG.N нависать-PRS.PTCP.ACT.NOM.SG бояться[PRS.IND]-ACT.3SG  воздух(M)-ABL.SG камень(N)-ACC.SG Тантал(M)-NOM.SG",
+    "И_не несчастный-NOM.SG.M большой-ACC.SG.N нависать-PRS.PTCP.ACT.NOM.SG бояться[PRS.IND]-ACT.3SG воздух(M)-ABL.SG камень(N)-ACC.SG Тантал(M)-NOM.SG",
     "‘И не боится Тантал камня большого, висящего в воздухе.’",
     "(Carus. De Rerum Natura. III, 980)",
     "",
