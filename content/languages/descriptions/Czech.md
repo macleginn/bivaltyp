@@ -15,3 +15,6 @@ Contributed by [Anastasia Makarova](https://katalog.uu.se/profile/?id=N20-1741) 
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+3 — third person; ACC — accusative; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; IPFV — imperfective; LOC — locative; M — masculine; N — neuter; NOM — nominative; PFV — perfective; PL — plural; PN — person name; PRS — present; PST — past; REFL — reflexive; SG — singular. 
