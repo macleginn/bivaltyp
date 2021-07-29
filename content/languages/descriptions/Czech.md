@@ -17,4 +17,4 @@ Contributed by [Anastasia Makarova](https://katalog.uu.se/profile/?id=N20-1741) 
 - Macro-area: {{ macroarea }}.
 
 ## Glossing abbreviations
-3 — third person; ACC — accusative; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; IPFV — imperfective; LOC — locative; M — masculine; N — neuter; NOM — nominative; PFV — perfective; PL — plural; PN — person name; PRS — present; PST — past; REFL — reflexive; SG — singular. 
+3 — third person; ACC — accusative; DAT — dative; F — feminine; GEN — genitive; INF — infinitive; INS — instrumental; IPFV — imperfective; LOC — locative; M — masculine; N — neuter; NOM — nominative; PFV — perfective; PL — plural; PN — person name; PRS — present; PST — past; REFL — reflexive; SG — singular. 
