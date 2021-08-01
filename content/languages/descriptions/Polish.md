@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by [George Moroz](https://www.hse.ru/en/staff/agricolamz) ([Academia.edu profile](https://hse-ru.academia.edu/GeorgeMoroz)) 
 
+![G.M.'s photo]({{ site_url_j }}/images/Moroz.jpg "G.M.'s photo")
+
 ## How to cite
 > Moroz, George. 2021. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
