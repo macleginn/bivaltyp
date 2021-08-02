@@ -168,6 +168,14 @@ a.table-link, a.table-link:visited {
     font-weight: bold;
 }
 
+.predicate-translation::before {
+    content: "(";
+}
+
+.predicate-translation::after {
+    content: ")";
+}
+
 .predicate-translation, .example-word {
     font-style: italic;
 }

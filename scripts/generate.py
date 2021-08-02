@@ -349,7 +349,7 @@ def get_predicate_translation(t):
     predicate_translation = ET.Element(
         'span', attrib={'class': 'predicate-translation',
                         'style': 'margin-left: 3px;'})
-    predicate_translation.text = f'({t.verb.strip()})'
+    predicate_translation.text = t.verb.strip()
     return predicate_translation
 
 
@@ -447,6 +447,7 @@ def render_examples_for_predicate(predicate_no_hash):
         language = LANG_DICT[t.language_no]
         p = ET.Element('p')
         p.append(lang_link(language))
+        p.append(get_predicate_translation(t))
         block.append(p)
         block.append(render_example(t))
         result.append(block)
