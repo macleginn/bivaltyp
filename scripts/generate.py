@@ -337,23 +337,20 @@ def render_example_header(t):
     number.text = f'{t.predicate_no}. '
 
     predicate_name_link = pred_link(t)
-
-    blank = ET.Element('span', attrib={'style': 'margin-left: 3px;'})
-    blank.text = '('
-
-    predicate_translation = ET.Element(
-        'span', attrib={'class': 'predicate-translation'})
-    predicate_translation.text = t.verb.strip()
-
-    blank2 = ET.Element('span')
-    blank2.text = '):'
+    predicate_translation = get_predicate_translation(t)
 
     p.append(number)
     p.append(predicate_name_link)
-    p.append(blank)
     p.append(predicate_translation)
-    p.append(blank2)
     return p
+
+
+def get_predicate_translation(t):
+    predicate_translation = ET.Element(
+        'span', attrib={'class': 'predicate-translation',
+                        'style': 'margin-left: 3px;'})
+    predicate_translation.text = f'({t.verb.strip()})'
+    return predicate_translation
 
 
 def render_examples_for_language(language: str) -> str:
