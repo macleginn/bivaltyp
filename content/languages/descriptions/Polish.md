@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [George Moroz](https://www.hse.ru/en/staff/agricolamz) ([Academia.edu profile](https://hse-ru.academia.edu/GeorgeMoroz)) 
+Contributed by [George Moroz](https://www.hse.ru/en/staff/agricolamz) 
 
 ![G.M.'s photo]({{ site_url_j }}/images/Moroz.jpg "G.M.'s photo")
 
