@@ -2,6 +2,7 @@
 Contributed by Maria Nordrum and [Olga Kuznecova](https://iling.spb.ru/people/kuznetsova_o.html.ru)
 
 ![M.N.'s photo]({{ site_url_j }}/images/Nordrum.jpg "M.N.'s photo")
+
 ![O.K.'s photo]({{ site_url_j }}/images/Kuznecova.jpg "O.K.'s photo")
 
 Olga Kuznecova elicited some preliminary data in 2013. In 2020, Maria Nordrum provided and analyzed the data in the capacity of a native speaker of {{ language_external }}. Maria Nordrum used the Russian version of the questionnaire. 
