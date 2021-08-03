@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Maria Nordrum and [Olga Kuznecova] (https://iling.spb.ru/people/kuznetsova_o.html.ru)
+Contributed by Maria Nordrum and [Olga Kuznecova](https://iling.spb.ru/people/kuznetsova_o.html.ru)
 
 ![M.N.'s photo]({{ site_url_j }}/images/Nordrum.jpg "M.N.'s photo")
 ![O.K.'s photo]({{ site_url_j }}/images/Kuznecova.jpg "O.K.'s photo")
