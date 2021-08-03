@@ -5,7 +5,7 @@ Contributed by Maria Nordrum and [Olga Kuznecova](https://iling.spb.ru/people/ku
 
 ![O.K.'s photo]({{ site_url_j }}/images/Kuznecova.jpg "O.K.'s photo")
 
-Olga Kuznecova elicited some preliminary data in 2013. In 2020, Maria Nordrum provided and analyzed the data in the capacity of a native speaker of {{ language_external }}. Maria Nordrum used the Russian version of the questionnaire. 
+Olga Kuznecova elicited some preliminary data in 2013. In 2020, Maria Nordrum provided and analyzed a fuller version of the data in the capacity of a native speaker of {{ language_external }}. Maria Nordrum used the Russian version of the questionnaire. 
 
 ## How to cite
 > Nordrum, Maria & Olga Kuznecova. 2021. Bivalent patterns in {{ language_external }}. 
