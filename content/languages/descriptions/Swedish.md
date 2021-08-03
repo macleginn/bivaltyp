@@ -5,6 +5,8 @@ Contributed by [Ksenia Shagal](https://researchportal.helsinki.fi/en/persons/kse
 ![E.I.'s photo]({{ site_url_j }}/images/Ingelsten.jpg "K.S.'s photo")
 ![D.A.'s photo]({{ site_url_j }}/images/AvellanHultman.jpg "A.H.'s photo")
 
+Emil Ingelsten and David Avellan-Hultman provided the data in {{ data_collection_year }} in the capacity of native speakers of {{ language_external }}. The English version of the questionnaire was used for elicitation.
+
 ## How to cite
 > Shagal, Ksenia, Emil Ingelsten, and David Avellan-Hultman. 2021. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
