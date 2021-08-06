@@ -1559,6 +1559,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 31	128	denerwywać się	NOM	naACC	Y	NOM_naACC	Michał denerwuje się na swoj-ą córk-ę	PN[NOM.SG] раздражать:IPFV.PRS.3SG REFL на свой-ACC.SG дочь-ACC.SG	‘Павел раздражается на свою дочь.’					
 31	129	lubić	NOM	ACC	TR	TR	Michał lubi Magd-ę	PN[NOM.SG] любить:IPFV.PRS.3SG PN-ACC.SG	‘Михалу нравится Магда.’					
 31	130	wstydzić się	NOM	GEN	Y	NOM_GEN	Michał wstydzi się swoj-ego wzrost-u	PN[NOM.SG] стесняться:IPFV.PRS.3SG REFL свой-M.GEN.SG рост-GEN.SG	‘Михал стесняется своего роста.’					
+87	1		SBJ	de	Y	SBJ_de	Pedro está com dor de cabeça		‘У Педру болит голова.’					
+87	2		SBJ	com	Y	SBJ_com	Pedro está com gripe		‘Педру болеет гриппом.’					
+87	3		SBJ	de	Y	SBJ_de	Pedro tem medo de cachorro		‘Педру боится собаки.’					
+87	4		SBJ	DO	TR	TR	Pedro jogou uma pedra		‘Педру бросил камень.’					
+87	5		*	*	*		agora Pedro tem dinheiro		‘Педру хватает денег.’	Not included in the database because the translation is semantically inaccurate.				
+87	6		SBJ	com	Y	SBJ_com	Pedro se parece com Miguel		‘Педру похож на Мигела.’					
+87	7		SBJ	em	Y	SBJ_em	Pedro acredita em Miguel		‘Педру верит Мигелу.’					
+87	8		SBJ	DO	TR	TR	Pedro pegou o livro		‘Педру взял книгу.’					
+87	9		SBJ	DO	TR	TR	Pedro vê a casa		‘Педру видит дом.’					
+87	10		SBJ	DO	TR	TR	a idade influencia a memória		‘Возраст влияет на память.’					
+87	11		SBJ	com	Y	SBJ_com	Pedro encontrou com Miguel		‘Педру встретился с Мигелом.’					
+87	12		SBJ	em	Y	SBJ_em	Pedro entrou em casa		‘Педру вошел в дом.’					
+87	13		SBJ	DO	TR	TR	Pedro venceu Miguel		‘Педру выиграл у Мигела.’					
+87	14		SBJ	de	Y	SBJ_de	Pedro saiu de casa		‘Педру вышел из дома.’					
+87	15		SBJ	DO	TR	TR	Pedro conduz a vaca		‘Педру гонит корову.’					
+87	16		SBJ	DO	TR	TR	Pedro dobrou o galho		‘Педру согнул ветку.’					
+87	17		SBJ	para	Y	SBJ_para	Pedro disse para Miguel		‘Педру сказал Мигелу.’					
+87	18		SBJ	DO	TR	TR	Pedro segura o livro		‘Педру держит книгу.’					
+87	19		SBJ	DO	TR	TR	Pedro alcançou Maria		‘Педру догнал Марию.’					
+87	20		SBJ	DO	TR	TR	Pedro ordenhou a vaca		‘Педру подоил корову’					
+87	21		SBJ	DO	TR	TR	Pedro alcançou as margens		‘Педру достиг берега.’					
+87	22		SBJ	em	Y	SBJ_em	Pedro encostou na parede		‘Педру дотронулся до стены.’					
+87	23		SBJ	com	Y	SBJ_com	Pedro está brigando com Miguel		‘Педру дерется с Мигелом.’					
+87	24		SBJ	com	Y	SBJ_com	Pedro tem amizade com Maria		‘Педру дружит с Мигелом.’					
+87	25		SBJ	em	Y	SBJ_em	Pedro pensa em Miguel		‘Педру думает о Марии.’					
+87	26		SBJ	DO	TR	TR	Pedro comeu uma maçã		‘Педру съел яблоко’					
+87	27		SBJ	DO	TR	TR	Pedro cozinhou o peixe		‘Педру пожарил рыбу’					
+87	28		SBJ	DO	TR	TR	Pedro está esperando Miguel		‘Педру ждет Мигела.’					
+87	29		SBJ	de	Y	SBJ_de	Pedro se esqueceu do outro caminho		‘Педру забыл о другой дороге.’					
+87	30		SBJ	de	Y	SBJ_de	a memoria depende da idade		‘Память зависит от возраста.’					
+87	31		SBJ	DO	TR	TR	Pedro chamou Miguel		‘Педру позвал Мигела.’					
+87	32		SBJ	DO	TR	TR	Pedro conheceu Miguel um ano atrás		‘Педру познакомился с Мигелом год тому назад.’					
+87	33		SBJ	DO	TR	TR	Pedro conhece Miguel		‘Педру знает Мигела.’					
+87	34		SBJ	DO	TR	TR	Pedro toca violão		‘Педру играет на гитаре.’					
+87	35		SBJ	DO	TR	TR	Pedro evita Miguel		‘Педру избегает Мигела.’					
+87	36		SBJ	DO	TR	TR	Pedro construiu uma ratoeira		‘Педру изготовил мышеловку.’					
+87	37		SBJ	de	Y	SBJ_de	Pedro caçoa de Miguel		‘Педру издевается над Мигелом.’					
+87	38		SBJ	DO	TR	TR	Pedro tem um carro		‘У Педру есть машина’					
+87	39		SBJ	DO	TR	TR	Pedro está procurando as chaves		‘Педру ищет ключи.’					
+87	40		SBJ	DO	TR	TR	Pedro pintou a cerca		‘Педру покрасил забор.’					
+87	41		SBJ	DO	TR	TR	o cachorro mordeu Pedro		‘Собака укусила Педру.’					
+87	42		SBJ	DO	TR	TR	Pedro perdeu sua casa		‘Педру лишился дома.’					
+87	43		SBJ	DO	TR	TR	Pedro está apanhando o gato		‘Педру ловит кошку.’					
+87	44		SBJ	DO	TR	TR	Pedro quebrou o bastão		‘Педру сломал палку.’					
+87	45		SBJ	DO	TR	TR	Pedro bajula Maria		‘Педру льстит Марии.’					
+87	46		SBJ	DO	TR	TR	Pedro ama Maria		‘Педру любит Марию.’					
+87	47		SBJ	com	Y	SBJ_com	Pedro acena com um lenço		‘Педру машет платком.’					
+87	48		SBJ	com	Y	SBJ_com	Pedro sonha com um carro		‘Педру мечтает о машине.’					
+87	49		SBJ	DO	TR	TR	Pedro lavou a xícara		‘Педру вымыл чашку.’					
+87	50		SBJ	DO	TR	TR	Pedro vestiu as calças		‘Педру надел штаны.’					
+87	51		SBJ	DO	TR	TR	esse instrumento se chama bússola		‘Этот инструмент называется компас.’					
+87	52		SBJ	DO	TR	TR	Pedro castigou seu filho		‘Педру наказал своего сына.’					
+87	53		SBJ	DO	TR	TR	o urso atacou o pescador		‘Медведь напал на рыбака.’					
+87	54		SBJ	de	Y	SBJ_de	o balde se encheu de água		‘Ведро наполнилось водой.’					
+87	55		SBJ	DO	TR	TR	Pedro achou as chaves		‘Педру нашел ключи.’					
+87	56		para	SBJ	X	para_SBJ	falta um dólar para Pedro		‘Педру недостает одного доллара.’					
+87	57		SBJ	DO	TR	TR	Pedro odeia Miguel		‘Педру ненавидит Мигела.’					
+87	58		SBJ	de	Y	SBJ_de	Pedro gosta dessa camisa		‘Педру нравится эта рубашка’					
+87	59		SBJ	de	Y	SBJ_de	Pedro precisa de dinheiro		‘Педру нужны деньги.’					
+87	60		SBJ	DO	TR	TR	os muros cercam a cidade		‘Стены окружают город.’					
+87	61		SBJ	com	Y	SBJ_com	Pedro ficou com 10 dólares		‘У Педру осталось 10 долларов.’					
+87	62		SBJ	a	Y	SBJ_a	Pedro respondeu ao professor		‘Педру ответил учителю.’					
+87	63		SBJ	DO	TR	TR	Pedro abriu a lata		‘Педру открыл банку.’					
+87	64		SBJ	de	Y	SBJ_de	minha camisa é diferente da sua		‘Моя рубашка отличается от твоей.’	Non-verbal predicate.				
+87	65		SBJ	de	Y	SBJ_de	Pedro ficou para trás de Miguel		‘Педру отстал от Мигела.’					
+87	66		SBJ	DO	TR	TR	Pedro ara o campo		‘Педру пашет поле.’					
+87	67		SBJ	a	Y	SBJ_a	minhas mãos cheiram a gasolina		‘Мои руки пахнут бензином.’					
+87	68		SBJ	DO	TR	TR	Pedro atravessou a rua		‘Педру пересёк дорогу.’					
+87	69		SBJ	DO	TR	TR	Pedro cantou uma bela canção		‘Педру спел красивую песню.’					
+87	70		SBJ	DO	TR	TR	Pedro escreveu uma carta		‘Педру написал письмо.’					
+87	71		SBJ	DO	TR	TR	Pedro bebeu o leite		‘Педру выпил молоко.’					
+87	72		SBJ	DO	TR	TR	Pedro derreteu um pedaço de chumbo		‘Педру расплавил кусок свинца.’					
+87	73		SBJ	com	Y	SBJ_com	este cinto combina com meu vestido		‘Этот пояс подходит к моему платью.’					
+87	74		SBJ	DO	TR	TR	Pedro abandonou sua cidade natal		‘Педру покинул родной город.’					
+87	75		SBJ	DO	TR	TR	o tapete cobre todo o chão		‘Ковер покрывает весь пол.’					
+87	76		SBJ	de	Y	SBJ_de	Pedro se lembra bem da casa		‘Педру хорошо помнит дом.’					
+87	77		SBJ	DO	TR	TR	Pedro ajudou Miguel		‘Педру помог Мигелу.’					
+87	78		SBJ	DO	TR	TR	Pedro entende francês		‘Педру понимает французский язык.’					
+87	79		SBJ	DO	TR	TR	o raio atingiu a casa		‘Молния попала в дом.’					
+87	80		SBJ	com	Y	SBJ_com	Pedro se cortou com a lâmina		‘Педру порезался бритвой.’					
+87	81		SBJ	em	Y	SBJ_em	o copo ficou grudado na mesa		‘Стакан прилип к столу.’					
+87	82		SBJ	para	Y	SBJ_para	Pedro perdeu para Miguel		‘Педру проиграл Мигелу.’					
+87	83		SBJ	com	Y	SBJ_com	Pedro alegrou-se com a carta		‘Педру обрадовался письму.’					
+87	84		SBJ	com	Y	SBJ_com	Pedro está conversando com Miguel		‘Педру разговаривает с Мигелом.’					
+87	85		SBJ	DO	TR	TR	Maria deu à luz um filho		‘Мария родила сына.’					
+87	86		SBJ	DO	TR	TR	Pedro derrubou um copo		‘Педру уронил стакан.’					
+87	87		SBJ	DO	TR	TR	Pedro comanda nossa vila		‘Педру руководит нашим посёлком.’					
+87	88		SBJ	de	Y	SBJ_de	Pedro sente falta de Maria		‘Педру скучает по Марии.’					
+87	89		SBJ	DO	TR	TR	Pedro segue Miguel		‘Педру следует за Мигелом.’					
+87	90		SBJ	de	Y	SBJ_de	Pedro desmonta do cavalo		‘Педру слез с лошади.’					
+87	91		SBJ	DO	TR	TR	Pedro escuta o rádio		‘Педру слушает радио.’					
+87	92		SBJ	DO	TR	TR	Pedro obedece sua mãe		‘Педру слушается маму.’					
+87	93		SBJ	DO	TR	TR	Pedro ouve música		‘Педру слышит музыку.’					
+87	94		SBJ	com	Y	SBJ_com	o mel se mistura com o leite		‘Мед смешался с молоком.’					
+87	95		SBJ	para	Y	SBJ_para	Pedro olha para a nuvem		‘Педру смотрит на тучи.’					
+87	96		SBJ	DO	TR	TR	Pedro tirou a camisa		‘Педру снял рубашку.’					
+87	97		SBJ	com	Y	SBJ_com	Pedro sonha com Maria		‘Педру снится Мария.’					
+87	98		SBJ	com	Y	SBJ_com	Pedro concorda com Maria		‘Педру согласился с Марией.’					
+87	99		SBJ	com	Y	SBJ_com	Pedro discutiu com Maria		‘Педру поссорился с Марией.’					
+87	100		SBJ	DO	TR	TR	essa xícara custa um dólar		‘Эта чашка стоит один доллар.’					
+87	101		SBJ	em	Y	SBJ_em	Pedro atirou no pássaro		‘Педру выстрелил в птицу.’					
+87	102		SBJ	DO	TR	TR	Pedro coloca açúcar		‘Педру насыпал сахар.’					
+87	103		SBJ	DO	TR	TR	Pedro perdeu as chaves		‘Педру потерял ключи.’					
+87	104		SBJ	em	Y	SBJ_em	o galho afundou na água		‘Полено утонуло в воде.’					
+87	105		SBJ	DO	TR	TR	Pedro matou Miguel		‘Педру убил Мигела.’					
+87	106		SBJ	em	Y	SBJ_em	Pedro bateu em Miguel		‘Педру ударил Мигела.’					
+87	107		SBJ	DO	TR	TR	Pedro beijou Maria		‘Педру поцеловал Марию.’					
+87	108		SBJ	DO	TR	TR	Pedro leu um livro interessante		‘Педру прочитал интересную книгу.’					
+87	109		SBJ	DO	TR	TR	Pedro moveu o dedo		‘Педру пошевелил пальцем.’					
+87	110		SBJ	DO	TR	TR	Pedro respeita Miguel		‘Педру уважает Мигела.’					
+87	111		SBJ	de	Y	SBJ_de	Pedro tem nojo de louça suja		‘Педру брезгует грязной посудой’					
+87	112		SBJ	com	Y	SBJ_com	Pedro está satisfeito com seu filho		‘Педру доволен своим сыном.’	Non-verbal predicate.				
+87	113		SBJ	por	Y	SBJ_por	Pedro se apaixonou por Maria		‘Педру влюбился в Марию.’					
+87	114		SBJ	em	Y	SBJ_em	Pedro confia em Maria		‘Педру доверяет Марии.’					
+87	115		SBJ	por	Y	SBJ_por	Pedro está triste por sua mãe		‘Педру жалеет свою мать.’	Non-verbal predicate.				
+87	116		SBJ	DO	TR	TR	Pedro inveja Miguel		‘Педру завидует Мигелу.’					
+87	117		SBJ	com	Y	SBJ_com	Pedro está bravo com Miguel		‘Педру злится на Мигела.’	Non-verbal predicate.				
+87	118		SBJ	com	Y	SBJ_com	Pedro ficou surpreso com esse presente		‘Педру удивился этому подарку.’					
+87	119		SBJ	DO	TR	TR	Pedro adora chá		‘Педру любит чай.’					
+87	120		SBJ	de	Y	SBJ_de	Pedro desfruta de um chá quente		‘Педру наслаждается горячим чаем.’					
+87	121		SBJ	DO	TR	TR	Pedro quer um novo celular		‘Педру хочет новый мобильник.’					
+87	122		SBJ	com	Y	SBJ_com	Pedro está bravo com Miguel		‘Педру сердится на Мигела.’	Non-verbal predicate.				
+87	123		SBJ	com	Y	SBJ_com	Pedro se ofendeu com Miguel		‘Педру обиделся на Мигела.’					
+87	124		com	SBJ	X	com_SBJ	Miguel ficou muito chateado com Pedro		‘Педру очень огорчил Мигела.’					
+87	125		SBJ	com	Y	SBJ_com			‘Педру поразился этому городу.’					
+87	126		SBJ	DO	TR	TR	Pedro despreza Miguel		‘Педру презирает Мигела.’					
+87	127		SBJ	com	Y	SBJ_com	Pedro se decepcionou com seu filho		‘Педру огорчился из-за своего сына.’					
+87	128		SBJ	com	Y	SBJ_com	Pedro se irrita com sua filha		‘Педру раздражается на свою дочь.’					
+87	129		SBJ	com	Y	SBJ_com	Pedro simpatiza com Miguel		‘Педру симпатизирует Мигелу.’					
+87	130		SBJ	de	Y	SBJ_de	Pedro tem vergonha de sua altura		‘Педру стесняется своего роста.’					
 1	1	boletʹ	uGEN	NOM	X	uGEN_NOM	u Pet-i bol-it golov-a	at PN(M)-GEN.SG ache(IPFV)-PRS.3SG head(F)-NOM.SG	‘Petja has a headache.’		у PN(M)-GEN.SG болеть(IPFV)-PRS.3SG голова(F)-NOM.SG	‘У Пети болит голова.’	болеть	у Пет-и бол-ит голов-а
 1	2	boletʹ	NOM	INS	Y	NOM_INS	Pet-ja bole-et gripp-om	PN(M)-NOM.SG be_ill(IPFV)-PRS.3SG flu(M)-INS.SG	‘Petja has the flu.’		PN(M)-NOM.SG болеть(IPFV)-PRS.3SG грипп(M)-INS.SG	‘Петя болеет гриппом.’	болеть	Пет-я боле-ет грипп-ом
 1	3	bojatʹsja	NOM	GEN	Y	NOM_GEN	Pet-ja bo-it-sja sobak-i	PN(M)-NOM.SG be_afraid(IPFV)-PRS.3SG-REFL dog(F)-GEN.SG	‘Petja is afraid of the dog.’		PN(M)-NOM.SG бояться(IPFV)-PRS.3SG-REFL собака(F)-GEN.SG	‘Петя боится собаки.’	бояться	Пет-я бо-ит-ся собак-и
