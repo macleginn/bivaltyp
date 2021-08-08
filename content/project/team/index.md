@@ -34,9 +34,9 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 
 [Elena Kordi](https://iling.spb.ru/people/kordi.html.ru): Leading research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
 
-![O.K.'s photo]({{ site_url_j }}/images/Kuznecova.jpg "O.K.'s photo")
+![O.K.'s photo]({{ site_url_j }}/images/Kuznetsova.jpg "O.K.'s photo")
 
-[Olga Kuznecova](https://iling.spb.ru/people/kuznetsova_o.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/OlgaKouznetsova)): Research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
+[Olga Kuznetsova](https://iling.spb.ru/people/kuznetsova_o.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/OlgaKouznetsova)): Research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
 
 ![D.M.'s photo]({{ site_url_j }}/images/Mischenko.jpg "D.M.'s photo")
 
@@ -80,7 +80,7 @@ Elena Kordi: {{ language:French }}
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
 Irina Külmoja: {{ language:Estonian }}  
-Olga Kuznecova: {{ language:Guro }}  
+Olga Kuznetsova: {{ language:Guro }}  
 Timur Maisak: {{ language:Udi }}  
 Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
 Anastasia (Leonidovna) Makarova: {{ language:Serbian }}  
@@ -94,7 +94,7 @@ Johanna Nichols: {{ language:Ingush }}
 Dmitry Nikolaev: {{ language:Irish }}, {{ language:Hebrew_Modern }}  
 Dmitry Nikolaev, Johanna Nichols: {{ language:English }}  
 Ajtalina Nogovitsyna: {{ language:Yakut }}  
-Maria Nordrum, Olga Kuznecova: {{ language:Norwegian_Bokmal}}  
+Maria Nordrum, Olga Kuznetsova: {{ language:Norwegian_Bokmal}}  
 Sofia Oskolskaya: {{ language:Tuvinian }}  
 Maria Ovsjannikova: {{ language:Enets_Forest }}, {{ language:Turkish }}  
 Elena Perekhvalskaja: {{ language:Udihe }}  
