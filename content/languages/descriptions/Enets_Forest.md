@@ -115,7 +115,7 @@ Non-core arguments are marked either by locative cases or by postpositions and a
 > Ovsjannikova, Maria. In press. Encoding of nominal possessors in Forest Enets. Eesti ja soome-ugri keeleteaduse ajakiri. Journal of Estonian and Finno-Ugric Linguistics.
 
 
-## Case system
+### Case system
 The core case system includes two formally distinct cases for nouns, viz. nominative and oblique, as outlined above, and three cases for pronouns. The locational cases include the dative, the locative, the ablative and the (marginal) prolative cases. Postpositions combine with the nouns in the oblique case.
 
 ## Verb lemmas
