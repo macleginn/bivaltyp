@@ -34,3 +34,5 @@ Latin case system comprises six cases: Nominative, Genitive, Dative, Accusative,
 Verbs are cited in the 1st person Singular form.
 
 ## Glossing abbreviations
+
+1, 2, 3 — first, second, third person; ABL — ablative; ACC — accusative; ACT — active; CMPR — comparative; CONJ — conjunction; DAT — dative; F — feminine; FUT — future; FUT2 — second future; GEN — genitive; IMP — imperative; IND — indicative; INF — infinitive; INTS — intensifier; IPFV — imperfect; M — masculine; MID — middle; N — neuter; NOM — nominative; PASS — passive; PL — plural; PLUP — pluperfect; PN — person name; PRF — perfect; PRS — present; PTCP — participle; REFL — reflexive; SBJV — subjunctive; SG — singular; SUP — superlative.
