@@ -1,6 +1,6 @@
 
 # {{ language_external }}
-Contributed by [Inna Popova](https://iling.spb.ru/people/popova.html)
+Contributed by [Inna Popova](https://iling.spb.ru/people/popova.html) ([Academia.edu profile](https://iling-spb.academia.edu/InnaPopova))
 
 Interlinear glosses were provided by Tamara Petushkeeva.
 
