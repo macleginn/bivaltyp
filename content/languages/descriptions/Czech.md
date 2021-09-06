@@ -23,11 +23,11 @@ Contributed by [Anastasia Makarova](https://katalog.uu.se/profile/?id=N20-1741) 
 Case marking displays the nominative-accusative alignment. In the basic transitive construction, the A-argument is in the nominative, and the P-argument in the accusative. In neuter nouns and inanimate masculine nouns the accusative form coincides with the nominative, however, these two forms are consistently interlinearized according to their grammatical feature value. Examples (1) and (2) thereby represent canonical transitive construction, even though the accusative form of *dům* ‘house’ in (1) is zero-marked and coincides with the nominative form of the same noun.
 
 ```
-(1)	 Petr           vidí                dům
+(1)  Petr           vidí                dům
      PN(M)[NOM.SG]  see(IPFV).PRS.3SG   house(M)[ACC.SG]
      ‘Petr sees the house.’
 
-(2)	 Petr           dohna-l                  Michal-a
+(2)  Petr           dohna-l                  Michal-a
      PN(M)[NOM.SG]  catch_up(PFV)-PST[M.SG]  PN(M)-ACC.SG
      ‘Petr caught up with Michal.’
 
@@ -35,7 +35,7 @@ Case marking displays the nominative-accusative alignment. In the basic transiti
 The predicate always agrees with the nominative subject in number and person/gender (the choice of agreement features is conditioned by tense). Non-subjects are never indexed on the predicate. Some bivalent predicates expressing physical or emotional states display the Experiencer in the dative (3) or the accusative (4), that, unless expressed by pronominal clitics, takes the thematic position. 
 
 ```
-(3)	 Petr-ovi      se        zdá                  o      Michal-ovi
+(3)  Petr-ovi      se        zdá                  o      Michal-ovi
      PN(M)-DAT.SG  REFL.ACC  dream(IPFV).PRS.3SG  about  PN(M)-LOC.SG
      ‘Petr dreams about Michal’
 
