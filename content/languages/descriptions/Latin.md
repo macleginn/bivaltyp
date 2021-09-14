@@ -2,7 +2,7 @@
 # {{ language_external }}
 Contributed by [Inna Popova](https://iling.spb.ru/people/popova.html) ([Academia.edu profile](https://iling-spb.academia.edu/InnaPopova))
 
-Interlinear glosses were provided by Tamara Petushkeeva.
+The data were gathered by Inna Popova in 2017-2021 using the PHI 5 data base of Classical Latin texts. The Russian version of the questionnaire was used for elicitation. Interlinear glosses were provided by Tamara Petushkeeva.
 
 ## How to cite
 > Popova, Inna. 2021. Bivalent patterns in {{ language_external}}. 
