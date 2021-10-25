@@ -43,7 +43,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 42	коми-пермяцкий	Komi_Permyak	Komi-Permyak	Екатерина Николаевна Сергеева, Галина Александровна Некрасова		Ekaterina Sergeeva, Galina Nekrasova					Europe	Uralic	Permic	59.66	54.8	23	Nekrasova, Sergeeva 2018: 356		komi1269	
 43	эрзянский	Erzya	Erzya	Ксения Андреевна Шагал		Ksenia Shagal					Europe	Uralic	Mordvin	54.26	46.18	12	Wikipedia		erzy1239	
 44	грузинский	Georgian	Georgian	Александр Александрович Ростовцев-Попель		Alexander Rostovtsev-Popiel					West Asia and the Caucasus	Kartvelian	Kartvelian	41.85	43.79	7	Wikipedia		nucl1302	
-45	нанайский	Nanai	Nanai	Дарья Федоровна Мищенко		Daria Mishchenko		2013	February 28, 2021	September 26, 2021	North and Central Asia	Altaic	Tungusic	48.43	134.8	9	Mishchenko materials	Russian	nana1257	
+45	нанайский	Nanai	Nanai	Дарья Федоровна Мищенко		Daria Mishchenko		2013	February 28, 2021	October 26, 2021	North and Central Asia	Altaic	Tungusic	48.43	134.8	9	Mishchenko materials	Russian	nana1257	
 46	лесной энецкий	Enets_Forest	Forest Enets	Мария Александровна Овсянникова		Maria Ovsjannikova	not shown	2015-2016	November 3, 2020	November 3, 2020	North and Central Asia	Uralic	Samoyedic	68.7	86.3	6	Maria Ovsjannikova, p.c.	Russian	fore1265	
 47	мандинка	Mandinka	Mandinka	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Mande	Western Mande	13.15	-14.07	0	Creissels, p.c.		mand1436	
 48	диола-фоньи	Joola_Fonyi	Joola-Fonyi	Дени Крессель		Denis Creissels					Sub-Saharan Africa	Bak	Northen Atlantic	12.76	-15.74	0	WALS		jola1263	In Glottolog, this language is referred to as Jola-Fonyi
@@ -85,4 +85,4 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 84	шведский	Swedish	Swedish	Ксения Андреевна Шагал, Эмиль Ингельстен, Давид Авеллан-Хултман		Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman		2020	March 27, 2021	July 29, 2021	Europe	Indo-European	Germanic	59.8	17.39	0	wikipedia	English	swed1254	
 85	андийский (зиловский)	Andi_Zilo	Zilo Andi	Неж Рошан		Neige Rochant	not shown	2018-2019	August 4, 2020	November 15, 2020	West Asia and the Caucasus	Nakh-Daghestanian	Avar-Andic-Tsezic	42.81	46.29	21	Neige Rochant, p.c.	Russian	zilo1248	
 86	ульчский	Ulcha	Ulcha	Наталья Марковна Стойнова		Natalia Stoynova		2017	March 6, 2021	March 27, 2021	North and Central Asia	Altaic	Tungusic	51.85	140.29	8	Natalia Stoynova	Russian	ulch1241	
-87	бразильский португальский	Portuguese_Brazilian	Brazilian Portuguese	Максим Андреевич Клоченко	Каю Баррус	Max Kłoczenko	Caio Barros	2021	August 05, 2021	August 05, 2021	Europe	Indo-European	Romance	39.91	-8.10	0	Общие знания	Russian	port1283	
+87	бразильский португальский	Portuguese_Brazilian	Brazilian Portuguese	Максим Андреевич Клоченко	Каю Баррус	Max Kłoczenko	Caio Barros	2021	August 05, 2021	October 26, 2021	Europe	Indo-European	Romance	39.91	-8.10	0	Общие знания	Russian	port1283	
