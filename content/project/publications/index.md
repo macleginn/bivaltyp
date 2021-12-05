@@ -45,7 +45,10 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
-Say, Sergey & Dmitry Nikolaev. 17th Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies. St. Petersburg, November 19–21, 2020. Launch of BivalTyp: Typological database of bivalent verbs and their encoding frames (www.bivaltyp.info). [Slides](https://bivaltyp.info/docs/Say_Nikolaev_2020_BivalTyp_Launch.pdf), [video](https://www.youtube.com/watch?v=SFNUytf7LrE).
+
+Alfimova, Daria. 2021. [Circum-Baltic object marking against a broader areal perspective](https://bivaltyp.info/docs/Alfimova_2021_Circum_Baltic.pdf). Paper presented at the 18th Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg. November 25-27, 2021.
+
+Say, Sergey & Dmitry Nikolaev. 2020. 17th Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies. St. Petersburg, November 19–21, 2020. Launch of BivalTyp: Typological database of bivalent verbs and their encoding frames (www.bivaltyp.info). [Slides](https://bivaltyp.info/docs/Say_Nikolaev_2020_BivalTyp_Launch.pdf), [video](https://www.youtube.com/watch?v=SFNUytf7LrE).
 
 Blinova, Alena, Sophya Rachinskaya & Ksenia Shagal. 2020. [Dvuxmestnye predikaty v saamskix jazykax](https://bivaltyp.info/docs/Blinova_Rachinskaya_Shagal_2020_Dvuxmestnye.pdf) [Bivalent verb classes in Saami languages]. Paper presented at the conference Minority Languages in Big Linguistics. Moscow State University. April 17–18, 2020. (in Russian)
 
@@ -72,6 +75,8 @@ Say, Sergey. 2012. Two-place (in)transitives in European languages: A quantitati
 Say, S. S. 2011. Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v jazykax Evropy i Severnoj i Centralʹnoj Azii [Non-canonical marking of bivalent predicates’ arguments in the languages of Europe and North and Central Asia]. Paper presented at the “XXVI Dulʹzonovskie čtenija” conference. Tomsk State Pedagogical University. June 24–28, 2011.
 
 ### Selected conference abstracts
+
+Alfimova, Daria. 2021. [Circum-Baltic object marking against a broader areal perspective](https://bivaltyp.info/docs/Alfimova_2021_Circum_Baltic_abstract.pdf). D. F. Mishchenko, D. V. Gerasimov (eds.). *Vosemnadcataja konferencija po tipologii i grammatike dlja molodyx issledovatelej. Tezisy dokladov*. St. Petersburg: ILI RAN. 216-220.
 
 Mishchenko, D. F. 2013b. [Markirovanie argumentov mnogomestnyx predikatov v jazykax mande: k estestvennoj klassifikacii predikatnyx leksem](https://bivaltyp.info/docs/Mishchenko_2013b_Markirovanie.pdf) [Polyvalent predicates’ argument marking in the Mande languages: towards a natural classification of predicate lexemes]. N. N. Dʹjakov, A. S. Matveev (eds.). *Lokalʹnoe nasledie i globalʹnaja perspektiva. «Tradicionalizm» i «revoljucionizm» na Vostoke. XXVII meždunarodnaja konferencija po istočnikovedeniju i istoriografii stran Azii i Afriki, 24–26 aprelja 2013 g.: Tezisy dokladov*. Saint Petersburg: Saint Petersburg State University, Faculty of Asian and African Studies, 2013. 235–236. (in Russian)
 
