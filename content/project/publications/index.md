@@ -7,7 +7,7 @@ Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostru
 
 Shagal, Ksenia & Alena Blinova (accepted). Bivalent verb classes in Skolt Saami: A pilot study. In: Rogier Blokland, Michael Rießler & Torbjörn Söder (eds), Saami Linguistics in Uppsala. The 2019 SAALS 4 Symposium. Studia Uralica Upsaliensia, volume 42. Uppsala: Uppsala University.
 
-Blinova, Alena & Ksenia Shagal. 2020. [Dvuxmestnye predikaty v saamskix jazykax v areal’noj perspective]([https://github.com/macleginn/bivaltyp/blob/master/public/docs/Blinova_Shagal_2020_Dvuxmestnye.pdf]) [Bivalent predicates in Saami languages from an areal perspective]. In: Ks. P. Semenova (ed.). *Malye jazyki v bol’šoj lingvistike: Sbornik trudov konferencii* [Minority languages in big linguistics: Conference proceedings]. Moscow: Buki Vedi. 25-33. (in Russian)
+Blinova, Alena & Ksenia Shagal. 2020. [Dvuxmestnye predikaty v saamskix jazykax v areal’noj perspective](https://github.com/macleginn/bivaltyp/blob/master/public/docs/Blinova_Shagal_2020_Dvuxmestnye.pdf) [Bivalent predicates in Saami languages from an areal perspective]. In: Ks. P. Semenova (ed.). *Malye jazyki v bol’šoj lingvistike: Sbornik trudov konferencii* [Minority languages in big linguistics: Conference proceedings]. Moscow: Buki Vedi. 25-33. (in Russian)
 
 Say, S. S. 2020. [Markirovanie aktantov dvuxmestnyx predikatov v novoaramejskix idiomax sela Urmiya](https://bivaltyp.info/docs/Say_2020_Markirovanie.pdf) [Bivalent predicates’ argument encoding in Neo-Aramaic varieties spoken in Urmiya, Krasnodar Krai]. *Acta Linguistica Petropolitana*, V. 16, Part 2. 654-689. (in Russian)
 
