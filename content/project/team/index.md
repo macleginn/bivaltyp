@@ -79,7 +79,6 @@ Yukari Konuma: {{ language:Japanese }}
 Elena Kordi: {{ language:French }}  
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
-Irina Külmoja: {{ language:Estonian }}  
 Olga Kuznetsova: {{ language:Guro }}  
 Timur Maisak: {{ language:Udi }}  
 Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
@@ -91,6 +90,7 @@ Zarina Molochieva: {{ language:Chechen }}
 George Moroz: {{ language:Polish }}  
 Rasul Mutalov: {{ language:Dargwa_Icari }}  
 Johanna Nichols: {{ language:Ingush }}  
+Merit Niinemägi (Irina Külmoja until 2021): {{ language:Estonian }}  
 Dmitry Nikolaev: {{ language:Irish }}, {{ language:Hebrew_Modern }}  
 Dmitry Nikolaev, Johanna Nichols: {{ language:English }}  
 Ajtalina Nogovitsyna: {{ language:Yakut }}  
