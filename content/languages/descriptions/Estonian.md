@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by Merit Niinemägi
 
-Irina (Pavlovna) Külmoja provided some preliminary data in 2013. In 2020, Merit Niinemägi provided and analyzed the current version of the data. She used the English version of the questionnaire. 
+Irina (Pavlovna) Külmoja provided some preliminary data in 2013. In 2021, Merit Niinemägi provided and analyzed the current version of the data. She used the English version of the questionnaire. 
 
 ## How to cite
 > Niinemägi, Merit. 2021. Bivalent patterns in {{ language_external }}. 
