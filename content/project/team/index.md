@@ -73,6 +73,7 @@ Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}
 Ildar Ibragimov: {{ language:Greek_Ancient }}  
 Vasilisa Kagirova: {{ language:Armenian_Eastern }}  
 Maria Kholodilova: {{ language:Moksha }}, {{ language:Chuvash }}  
+Max Kłoczenko: {{ language:Portuguese_Brazilian }}  
 Mikhail Knyazev: {{ language:Dutch }}  
 Elena Kolpachkova: {{ language:Chinese_Mandarin }}  
 Yukari Konuma: {{ language:Japanese }}  
@@ -104,13 +105,14 @@ Inna Popova: {{ language:Latin }}
 Maria Pupynina: {{ language:Chukchi }}  
 Neige Rochant: {{ language:Andi_Zilo }}  
 Alexander Rostovtsev-Popiel: {{ language:Georgian }}  
+Daria Ryzhova: {{ language:Khnaty_Kazym }}  
 Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}  
 Ekaterina Sergeeva: {{ language:Komi_Zyrian }}  
 Ekaterina Sergeeva, Galina Nekrasova: {{ language:Komi_Permyak }}  
 Ksenia Shagal: {{ language:Erzya }}, {{ language:Finnish }}, {{ language:Udmurt }}  
 Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman: {{ language:Swedish }}  
 Mayya Shlyakhter: {{ language:Bengali }}  
-Natalia Stoynova: Ulcha  
+Natalia Stoynova: {{ language:Ulcha }}  
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Daria Suetina (Konior): {{ language:Romanian }}  
 Evgenija Teplukhina: {{ language:Azerbaijani }}  
