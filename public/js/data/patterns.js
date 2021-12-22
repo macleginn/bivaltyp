@@ -3950,7 +3950,7 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR",
+    "LOC_NOM",
     "TR",
     "TR",
     "TR",
