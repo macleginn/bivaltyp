@@ -37,4 +37,4 @@ Skolt Saami has nine cases: nominative, accusative, genitive, comitative, locati
 ## Verb lemmas
 Verbs are shown in the infinitive form (ending in -*âd*, -*ad* or -*ed*).
 ## Glossing abbreviations
-1, 2, 3 — 1st, 2nd, 3rd person; ACC — accusative; CNG — connegative; COM — comitative; COMP — complementizer; COND — conditional; CONT — continuative; DIST — distal; ESS — essive; GEN — genitive; ILL — illative; INCH — inchoative; INF — infinitive; LOC — locative; NEG — negation; NOM — nominative; PART — partitive; PL — plural; PN — person name; POSS — possessive; PROG — progressive; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular.
+1, 2, 3, 4 — 1st, 2nd, 3rd, 4th person; ACC — accusative; CNG — connegative; COM — comitative; COMP — complementizer; COND — conditional; CONT — continuative; DIST — distal; ESS — essive; GEN — genitive; ILL — illative; INCH — inchoative; INF — infinitive; LOC — locative; NEG — negation; NOM — nominative; PART — partitive; PL — plural; PN — person name; POSS — possessive; PROG — progressive; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular.
