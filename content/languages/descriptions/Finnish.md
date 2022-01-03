@@ -60,3 +60,6 @@ Finnish has fifteen cases: nominative, genitive, partitive, accusative, essive, 
 
 ## Verb lemmas
 Verbs are cited in their infinitive form.
+
+## Glossing abbreviations
+1, 2, 3 — 1st, 2nd, 3rd person; ABL — ablative; ADE — adessive; ADV — adverb; ALL — allative; ELA — elative; FREQ — frequentative; GEN — genitive; ILL — illative; IMPERS — impersonal; INE — inessive; INF — infinitive; NOM — nominative; PART — partitive; PASS — passive; PL — plural; PN — proper name; POSS — possessive; PRS — present; PST — past; TRANS — translative.
