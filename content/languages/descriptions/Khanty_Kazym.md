@@ -32,3 +32,4 @@ There are four cases: nominative, accusative, dative, and locative. Nominative a
 The verbs are cited in the basic non-finite form of the nonpast tense.
 
 ## Glossing abbreviations
+ADD — additive; ATTR — attributive; DAT — dative; DU — dual; EP — ???; FOC — focus; LOC — locative; NEG — negative; NFIN — nonfinite; NPST — nonpast; PASS — passive; PL — plural; PN — person name; POSS — possessive; PST — pst; SG — singular; SO — ???.
