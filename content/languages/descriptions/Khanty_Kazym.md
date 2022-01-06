@@ -26,10 +26,10 @@ The basic word order is S(O)V. Subjects and direct objects are distinguished by 
 The verb agrees with the subject in person and number in transitive and intransitive constructions and, under certain conditions, in number with the direct object of the transitive construction. In transitive clauses, the choice between the subject and subject-object indexing depends on the topicality of the direct object (Differential Object Indexing). In case the direct object is pragmatically more prominent than the subject, the passive construction is favored.
 
 ### Case system
-There are four cases: nominative, accusative, dative, and locative. Nominative and accusative are formally distinct only in pronouns. Postpositions combine with the nouns in the unmarked form (glossed as NOM).
+There are four cases: nominative, accusative, dative, and locative. Nominative and accusative are formally distinct only in pronouns. Postpositions combine with the nouns in the unmarked form (marked as NOM in the valency pattern formulas).
 
 ## Verb lemmas
 The verbs are cited in the basic non-finite form of the nonpast tense.
 
 ## Glossing abbreviations
-ADD — additive; ATTR — attributive; DAT — dative; DU — dual; EP — ???; FOC — focus; LOC — locative; NEG — negative; NFIN — nonfinite; NPST — nonpast; PASS — passive; PL — plural; PN — person name; POSS — possessive; PST — pst; SG — singular; SO — ???.
+ADD — additive particle; ATTR — attributiviser; DAT — dative; DU — dual; EP — epenthesis; FOC — focus; LOC — locative; NEG — negative particle; NFIN — nonfinite; NPST — nonpast; PASS — passive; PL — plural; PN — person name; POSS — possessive; PST — past; SG — singular; SO — subject-object agreement.
