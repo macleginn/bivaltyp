@@ -22276,7 +22276,7 @@ const fullData = [
     "NOM_LOC",
     "maša-j-en jɔš-ŋəλ ԑsǝm jiŋ(k)-ǝn awə-λ-əŋən",
     "PN-EP-POSS.2SG hand-POSS[DU] udder water-LOC smell-NPST-3DU",
-    "‘My hands smell of gasoline.’",
+    "‘Maša’s hands smell of gasoline.’",
     "",
     "PN-EP-POSS.2SG рука-POSS[DU] вымя вода-LOC пахнуть-NPST-3DU",
     "‘Машины руки пахнут молоком’.",
