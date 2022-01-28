@@ -27,7 +27,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 89	Danish	26	eat	X (eat) Y	есть	X (есть) Y	spise	SBJ	DO	TR	TR		Peter spis-te et æble	PN eat-PST INDF.SG apple(N)	‘Peter ate an apple.’		‘Петер съел яблоко.’			
 89	Danish	27	fry	X (fry) Y	жарить	X (жарить) Y	stege 	SBJ	DO	TR	TR		Peter steg-te fisk-en	PN fry-PST fish(C)-DEF.SG	‘Peter fried the fish.’		‘Петер пожарил рыбу.’			
 89	Danish	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	vente	SBJ	pa	Y	SBJ_pa		Peter vente-r på Marie	PN wait-PRS on PN	‘Peter is waiting for Marie.’		‘Петер ждет Мари.’			
-89	Danish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	glemme	SBJ	DO	TR	TR		Peter glem-te bog-en	PN forget-PST book(C)-DEF.SG	‘Peter forgot the book.’		‘Петер забыл книгу.’			
+89	Danish	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	glemme	SBJ	DO	TR	TR		Peter arbejde-de og glem-te tid-en	PN work-PST and forget-PST time(C)-DEF.SG	‘Peter worked and forgot about the time.’		‘Петер работал и забыл о времени.’			
 89	Danish	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	afhænge 	SBJ	af	Y	SBJ_af		Hukommelse afhænge-r af alder-en	memory(C).SG depend-PRS of age(C)-DEF.SG	‘Memory depends on age.’		‘Память зависит от возраста.’			
 89	Danish	31	call	X (call) Y	звать	X (звать) Y-а	kalde	SBJ	pa	Y	SBJ_pa		Peter kald-te på Marie	PN call-PST on PN	‘Peter called Marie.’		‘Петер позвал Мари.’			
 89	Danish	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	lære at kende	SBJ	DO	TR	TR		Peter lær-te Marie at kende for et år siden	PN learn-PST PN to know.INF for INDF.SG year(N) ago	‘Peter got to know Marie a year ago.’		‘Петер познакомился с Мари год тому назад.’			
