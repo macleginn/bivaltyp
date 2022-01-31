@@ -1,9 +1,7 @@
 # {{ language_external }}
 Contributed by Daria Alfimova ([Academia.edu profile](https://spbu.academia.edu/DariaAlfimova)) and [Søren Wichmann](https://soerenwichmann.com/) ([Academia.edu profile](https://leidenuni.academia.edu/S%C3%B8renWichmann))
 
-![D.A.'s photo]({{ site_url_j }}/images/Alfimova.jpg "D.A.'s photo")
-
-![S.W.'s photo]({{ site_url_j }}/images/Wichmann.jpg "S.W.'s photo")
+![D.A.'s photo]({{ site_url_j }}/images/Alfimova.jpg "D.A.'s photo") ![S.W.'s photo]({{ site_url_j }}/images/Wichmann.jpg "S.W.'s photo")
 
 ## How to cite
 > Alfimova, Daria & Søren Wichmann. 2022. Bivalent patterns in {{ language_external}}. 
