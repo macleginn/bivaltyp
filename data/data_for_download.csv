@@ -1824,7 +1824,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 31	3	bać się	NOM	GEN	Y	NOM_GEN	Jacek trochę boi się ps-a	PN[NOM.SG] a_little fear:IPFV.PRS.3SG REFL dog-GEN.SG	‘Jacek is a little afraid of the dog.’		PN[NOM.SG] немного бояться:IPFV.PRS.3SG REFL собака-GEN.SG	‘Яцек немного боится собаки.’		
 31	4	rzucić	NOM	ACC	TR	TR	Janek rzuci-ł kamień	PN[NOM.SG] throw:PFV-PST[M.3SG] stone[ACC.SG]	‘Janek threw a stone.’		PN[NOM.SG] бросить:PFV-PST[M.3SG] камень[ACC.SG]	‘Янек бросил камень.’		
 31	5	wystarczać	DAT	GEN	XY	DAT_GEN	Anni-e wystarcza pieniędz-y	PN-DAT.SG suffice:IPFV.PRS.3SG money-GEN.PL	‘Anna has enough money.’		PN-DAT.SG хватает:IPFV.PRS.3SG деньги-GEN.PL	‘Анне хватает денег.’		
-31	6	podobny + COP	NOM	doGEN	Y	NOM_doGEN	Ann-a podobn-a jest do Magd-y	PN(F)-NOM.SG similar-F.NOM.SG be[PRS.3SG] at PN-GEN.SG	дерется	Non-verbal predicate.	PN(F)-NOM.SG похожий-F.NOM.SG быть[PRS.3SG] до PN-GEN.SG	‘Анна похожа на Магду.’		
+31	6	podobny + COP	NOM	doGEN	Y	NOM_doGEN	Ann-a podobn-a jest do Magd-y	PN(F)-NOM.SG similar-F.NOM.SG be[PRS.3SG] at PN-GEN.SG	‘Anna resembles Magda.’	Non-verbal predicate.	PN(F)-NOM.SG похожий-F.NOM.SG быть[PRS.3SG] до PN-GEN.SG	‘Анна похожа на Магду.’		
 31	7	wierzyć	NOM	DAT	Y	NOM_DAT	Michał wierzy ojc-u	PN[NOM.SG] believe:PFV.PRS.3SG father-DAT.SG	‘Michał believes his father.’		PN[NOM.SG] верить:PFV.PRS.3SG отец-DAT.SG	‘Михал верит отцу.’		
 31	8	wziąć	NOM	ACC	TR	TR	Ewaryst wzią-ł książk-ę	PN[NOM.SG] take:PFV\M-PST[M.3SG] book-ACC.SG	‘Ewaryst took a book.’		PN[NOM.SG] взять:PFV\M-PST[M.3SG] книжка-ACC.SG	‘Эварист взял книжку.’		
 31	9	widzieć	NOM	ACC	TR	TR	Paweł widzi dom	PN[NOM.SG] see:IPFV.PRS.3SG house[ACC.SG]	‘Paweł sees a house.’		PN[NOM.SG] видеть:IPFV.PRS.3SG дом[ACC.SG]	‘Павел видит дом.’		
@@ -1843,7 +1843,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 31	22	dotknąć	NOM	GEN	Y	NOM_GEN	Marek dotkną-ł ścian-y	PN[NOM.SG] touch:PFV\PST-PST[M.3SG] wall-GEN.SG	‘Marek touched the wall.’		PN[NOM.SG] дотронуться:PFV\PST-PST[M.3SG] стена-GEN.SG	‘Марек дотронулся до стены.’		
 31	23	bić się	NOM	zINS	Y	NOM_zINS	Marek bije się z Tomasz-em	PN[NOM.SG] fight:IPFV.PRS.3SG REFL with PN(M)-INS.SG	‘Maciek is fighting with Tomasz.’		PN[NOM.SG] драться:IPFV.PRS.3SG REFL с PN(M)-INS.SG	‘Марек дерется с Томашем.’		
 31	24	przyjaźnić się	NOM	zINS	Y	NOM_zINS	król Maciuś przyjaźni się z Bum-Drum-em	king[NOM.SG] PN[NOM.SG] be_friends:IPFV.PRS.3SG REFL with PN-INS.SG	‘King Maciuś is friends with Bum-Drum.’		король[NOM.SG] PN[NOM.SG] дружить:IPFV.PRS.3SG REFL с PN-INS.SG	‘Король Матиуш дружит с Бум-Друмом.’		
-31	25	myśleć	NOM	oLOC	Y	NOM_oLOC	Tadeusz myśli o Hanc-e	PM[NOM.SG] think:IPFV.PRS.3SG about PN-LOC.SG	‘Tadeusz is thinking about Hanka.’		PM[NOM.SG] думать:IPFV.PRS.3SG о PN-LOC.SG	‘Тадеуш думает о Ханке.’		
+31	25	myśleć	NOM	oLOC	Y	NOM_oLOC	Tadeusz myśli o Hanc-e	PN[NOM.SG] think:IPFV.PRS.3SG about PN-LOC.SG	‘Tadeusz is thinking about Hanka.’		PM[NOM.SG] думать:IPFV.PRS.3SG о PN-LOC.SG	‘Тадеуш думает о Ханке.’		
 31	26	zjeść	NOM	ACC	TR	TR	Adam zjad-ł jabłk-o	PN[NOM.SG] eat:PFV\PST-PST[M.3SG] apple-ACC.SG	‘Adam ate an apple.’		PN[NOM.SG] съесть:PFV\PST-PST[M.3SG] яблоко-ACC.SG	‘Адам съел яблоко.’		
 31	27	usmażyć	NOM	ACC	TR	TR	Adam usmaży-ł ryb-ę	PN[NOM.SG] fry:PFV-PST[M.3SG] fish-ACC.SG	‘Adam fried the fish.’		PN[NOM.SG] поджарить:PFV-PST[M.3SG] рыба-ACC.SG	‘Адам поджарил рыбу.’		
 31	28	czekać	NOM	naACC	Y	NOM_naACC	Basi-a czeka na kuzynk-ę	PN-NOM.SG wait:IPFV.PRS.3SG on cousin-ACC.SG	‘Basia is waiting for her cousin.’		PN-NOM.SG ждать:IPFV.PRS.3SG на двоюродная_сестра-ACC.SG	‘Бася ждет двоюродную сестру.’		
@@ -1949,136 +1949,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 31	128	denerwywać się	NOM	naACC	Y	NOM_naACC	Michał denerwuje się na swoj-ą córk-ę	PN[NOM.SG] irritate:IPFV.PRS.3SG REFL on one’s_own-ACC.SG daughter-ACC.SG	‘Michał is getting irritated with his daughter.’		PN[NOM.SG] раздражать:IPFV.PRS.3SG REFL на свой-ACC.SG дочь-ACC.SG	‘Павел раздражается на свою дочь.’		
 31	129	lubić	NOM	ACC	TR	TR	Michał lubi Magd-ę	PN[NOM.SG] love:IPFV.PRS.3SG PN-ACC.SG	‘Michał is fond of Magda.’		PN[NOM.SG] любить:IPFV.PRS.3SG PN-ACC.SG	‘Михалу нравится Магда.’		
 31	130	wstydzić się	NOM	GEN	Y	NOM_GEN	Michał wstydzi się swoj-ego wzrost-u	PN[NOM.SG] be_shy:IPFV.PRS.3SG REFL one’s_own-M.GEN.SG height-GEN.SG	‘Michał is embarrased about his height.’		PN[NOM.SG] стесняться:IPFV.PRS.3SG REFL свой-M.GEN.SG рост-GEN.SG	‘Михал стесняется своего роста.’		
-87	1	estar	SBJ	de	Y	SBJ_de	Pedro está com dor de cabeça	PN COP.3SG.PRS with pain(F) of head(F)	‘Pedro has a headache.’		PN COP.3SG.PRS с боль(F) от голова(F)	‘У Педру болит голова.’		
-87	2	estar	SBJ	com	Y	SBJ_com	Pedro está com gripe	PN COP.3SG.PRS with flu(F)	‘Pedro has a flu.’		PN COP.3SG.PRS с грипп(F)	‘У Педру грипп.’		
-87	3	ter	SBJ	de	Y	SBJ_de	Pedro tem medo de cachorro	PN have.3SG.PRS fear(M) of dog(M)	‘Pedro is afraid of a dog.’		PN иметь.3SG.PRS страх(M) от собака(M)	‘Педру боится собаки.’		
-87	4	jogar	SBJ	DO	TR	TR	Pedro jog-ou um-a pedra	PN throw-3SG.PST INDF-F stone(F)	‘Pedro threw a stone.’		PN бросить-3SG.PST INDF-F камень(F)	‘Педру бросил камень.’		
-87	5	ter	*	*	*		agora Pedro tem dinheiro	now PN have:3SG.PRS money(M)	‘Now Pedro has money.’	Not included in the database because the translation is semantically inaccurate.	сейчас PN иметь:3SG.PRS деньги(M)	‘Теперь у Педру есть деньги.’		
-87	6	parecer-se	SBJ	com	Y	SBJ_com	Pedro se parec-e com Miguel	PN REFL look.like-3SG.PRS with PN	‘Pedro resembles Miguel.’		PN REFL быть.похожим-3SG.PRS с PN	‘Педру похож на Мигела.’		
-87	7	acreditar	SBJ	em	Y	SBJ_em	Pedro acredit-a em Miguel	PN believe-3SG.PRS in PN	‘Pedro believes Miguel.’		PN верить-3SG.PRS в PN	‘Педру верит Мигелу.’		
-87	8	pegar	SBJ	DO	TR	TR	Pedro peg-ou o livro	PN take-3SG.PST DEF.M book(M)	‘Pedro took a book.’		PN брать-3SG.PST DEF.M книга(M)	‘Педру взял книгу.’		
-87	9	ver	SBJ	DO	TR	TR	Pedro vê a casa	PN see.3SG.PRS DEF.F house(F)	‘Pedro sees a house.’		PN видеть.3SG.PRS DEF.F дом(F)	‘Педру видит дом.’		
+87	1	estar com dor	SBJ	de	Y	SBJ_de	Pedro está com dor de cabeça	PN(M) COP_PROG.3SG.PRS with pain(F) of head(F)	‘Pedro has a headache.’		PN(M) COP_PROG.3SG.PRS с боль(F) от голова(F)	‘У Педру болит голова.’		
+87	2	estar	SBJ	com	Y	SBJ_com	Pedro está com gripe	PN(M) COP_PROG.3SG.PRS with flu(F)	‘Pedro has a flu.’		PN(M) COP_PROG.3SG.PRS с грипп(F)	‘У Педру грипп.’		
+87	3	ter medo	SBJ	de	Y	SBJ_de	Pedro tem medo de cachorro	PN(M) have.3SG.PRS fear(M) of dog(M)	‘Pedro is afraid of a dog.’		PN(M) иметь.3SG.PRS страх(M) от собака(M)	‘Педру боится собаки.’		
+87	4	jogar	SBJ	DO	TR	TR	Pedro jog-ou um-a pedra	PN(M) throw-3SG.PST INDF-F stone(F)	‘Pedro threw a stone.’		PN(M) бросить-3SG.PST INDF-F камень(F)	‘Педру бросил камень.’		
+87	5	ter	*	*	*		agora Pedro tem dinheiro	now PN(M) have.3SG.PRS money(M)	‘Now Pedro has money.’	Not included in the database because the translation is semantically inaccurate.	сейчас PN(M) иметь.3SG.PRS деньги(M)	‘Теперь у Педру есть деньги.’		
+87	6	parecer-se	SBJ	com	Y	SBJ_com	Pedro se parec-e com Miguel	PN(M) REFL look_like-3SG.PRS with PN(M)	‘Pedro resembles Miguel.’		PN(M) REFL быть_похожим-3SG.PRS с PN(M)	‘Педру похож на Мигела.’		
+87	7	acreditar	SBJ	em	Y	SBJ_em	Pedro acredit-a em Miguel	PN(M) believe-3SG.PRS in PN(M)	‘Pedro believes Miguel.’		PN(M) верить-3SG.PRS в PN(M)	‘Педру верит Мигелу.’		
+87	8	pegar	SBJ	DO	TR	TR	Pedro peg-ou o livro	PN(M) take-3SG.PST DEF.M book(M)	‘Pedro took a book.’		PN(M) брать-3SG.PST DEF.M книга(M)	‘Педру взял книгу.’		
+87	9	ver	SBJ	DO	TR	TR	Pedro vê a casa	PN(M) see.3SG.PRS DEF.F house(F)	‘Pedro sees a house.’		PN(M) видеть.3SG.PRS DEF.F дом(F)	‘Педру видит дом.’		
 87	10	influenciar	SBJ	DO	TR	TR	a idade influenci-a a memória	DEF.F age(F) influence-3SG.PRS DEF.F memory(F)	‘Age influences memory.’		DEF.F возраст(F) влиять-3SG.PRS DEF.F память(F)	‘Возраст влияет на память.’		
-87	11	encontrar	SBJ	com	Y	SBJ_com	Pedro encontr-ou com Miguel	PN meet-3SG.PST with PN	‘Pedro encountered Miguel.’		PN встречаться-3SG.PST с PN	‘Педру встретился с Мигелом.’		
-87	12	entrar	SBJ	em	Y	SBJ_em	Pedro entr-ou em casa	PN enter-3SG.PST in house(F)	‘Pedro entered a house.’		PN входить-3SG.PST в дом(F)	‘Педру вошел в дом.’		
-87	13	vencer	SBJ	DO	TR	TR	Pedro venc-eu Miguel	PN win-3SG.PST PN	‘Pedro won over Miguel.’		PN выигрывать-3SG.PST PN	‘Педру выиграл у Мигела.’		
-87	14	sair	SBJ	de	Y	SBJ_de	Pedro sa-iu de casa	PN exit-3SG.PST of house(F)	‘Pedro exited a house.’		PN выходить-3SG.PST от дом(F)	‘Педру вышел из дома.’		
-87	15	conduzir	SBJ	DO	TR	TR	Pedro conduz a vaca	PN lead:3SG.PRS DEF.F cow(F)	‘Pedro is driving the cow.’		PN гнать:3SG.PRS DEF.F корова(F)	‘Педру гонит корову.’		
-87	16	dobrar	SBJ	DO	TR	TR	Pedro dobr-ou o galho	PN bend-3SG.PST DEF.M branch(M)	‘Pedro bent the branch.’		PN гнуть-3SG.PST DEF.M ветка(M)	‘Педру согнул ветку.’		
-87	17	dizer	SBJ	para	Y	SBJ_para	Pedro disse para Miguel: «…»	PN say:3SG.PST towards PN 	‘Pedro told Miguel: ‘…’.’		PN говорить:3SG.PST по.направлении PN 	‘Педру сказал Мигелу: «…»’		
-87	18	segurar	SBJ	DO	TR	TR	Pedro segur-a o livro	PN hold-3SG.PRS DEF.M book(M)	‘Pedro is holding a book.’		PN держать-3SG.PRS DEF.M книга(M)	‘Педру держит книгу.’		
-87	19	alcançar	SBJ	DO	TR	TR	Pedro alcanç-ou Maria	PN reach-3SG.PST PN	‘Pedro caught up with Maria.’		PN достичь-3SG.PST PN	‘Педру догнал Марию.’		
-87	20	ordenhar	SBJ	DO	TR	TR	Pedro ordenh-ou a vaca	PN milk-3SG.PST DEF.F cow(F)	‘Pedro milked the cow.’		PN доить-3SG.PST DEF.F корова(F)	‘Педру подоил корову’		
-87	21	alcançar	SBJ	DO	TR	TR	Pedro alcanç-ou a-s margen-s	PN reach-3SG.PST DEF.F-PL shore(F)-PL	‘Pedro reached the coast.’		PN достичь-3SG.PST DEF.F-PL берег(F)-PL	‘Педру достиг берега.’		
-87	22	encostar	SBJ	em	Y	SBJ_em	Pedro encost-ou na parede	PN lean-3SG.PST in+DEF.F wall(F)	‘Pedro touched the wall.’		PN наклониться-3SG.PST в+DEF.F стена(F)	‘Педру дотронулся до стены.’		
-87	23	brigar	SBJ	com	Y	SBJ_com	Pedro está brig-ando com Miguel	PN COP.3SG.PRS fight-PROG with PN	‘Pedro is fighting with Miguel.’		PN COP.3SG.PRS драться-PROG с PN	‘Педру дерется с Мигелом.’		
-87	24	ter	SBJ	com	Y	SBJ_com	Pedro tem amizade com Maria	PN have.3SG.PRS friendship(F) with PN	‘Pedro is friends with Maria.’		PN иметь.3SG.PRS friendship(F) с PN	‘Педру дружит с Марией.’		
-87	25	pensar	SBJ	em	Y	SBJ_em	Pedro pens-a em Miguel	PN think-3SG.PRS in PN	‘Pedro is thinking about Miguel.’		PN думать-3SG.PRS в PN	‘Педру думает о Марии.’		
-87	26	comer	SBJ	DO	TR	TR	Pedro com-eu um-a maçã	PN eat-3SG.PST INDF-F apple(F)	‘Pedro ate an apple.’		PN есть-3SG.PST INDF-F яблоко(F)	‘Педру съел яблоко’		
-87	27	cozinhar	SBJ	DO	TR	TR	Pedro cozinh-ou o peixe	PN cook-3SG.PST DEF.M fish(M)	‘Pedro cooked the fish.’		PN готовить-3SG.PST DEF.M рыба(M)	‘Педру пожарил рыбу’		
-87	28	esperar	SBJ	DO	TR	TR	Pedro está esper-ando Miguel	PN COP.3SG.PRS wait-PROG PN	‘Pedro is waiting for Miguel.’		PN COP.3SG.PRS ждать-PROG PN	‘Педру ждет Мигела.’		
-87	29	se esquecer	SBJ	de	Y	SBJ_de	Pedro se esquec-eu do outr-o caminho	PN REFL forget-3SG.PST of+DEF.M other-M way(M)	‘Pedro forgot about the other way.’		PN REFL забыть-3SG.PST от+DEF.M другой-M путь(M)	‘Педру забыл о другой дороге.’		
+87	11	encontrar	SBJ	com	Y	SBJ_com	Pedro encontr-ou com Miguel	PN(M) meet-3SG.PST with PN(M)	‘Pedro encountered Miguel.’		PN(M) встречаться-3SG.PST с PN(M)	‘Педру встретился с Мигелом.’		
+87	12	entrar	SBJ	em	Y	SBJ_em	Pedro entr-ou em casa	PN(M) enter-3SG.PST in house(F)	‘Pedro entered a house.’		PN(M) входить-3SG.PST в дом(F)	‘Педру вошел в дом.’		
+87	13	vencer	SBJ	DO	TR	TR	Pedro venc-eu Miguel	PN(M) win-3SG.PST PN(M)	‘Pedro won over Miguel.’		PN(M) выигрывать-3SG.PST PN(M)	‘Педру выиграл у Мигела.’		
+87	14	sair	SBJ	de	Y	SBJ_de	Pedro sa-iu de casa	PN(M) exit-3SG.PST of house(F)	‘Pedro exited a house.’		PN(M) выходить-3SG.PST от дом(F)	‘Педру вышел из дома.’		
+87	15	conduzir	SBJ	DO	TR	TR	Pedro conduz a vaca	PN(M) lead.3SG.PRS DEF.F cow(F)	‘Pedro is driving the cow.’		PN(M) гнать.3SG.PRS DEF.F корова(F)	‘Педру гонит корову.’		
+87	16	dobrar	SBJ	DO	TR	TR	Pedro dobr-ou o galho	PN(M) bend-3SG.PST DEF.M branch(M)	‘Pedro bent the branch.’		PN(M) гнуть-3SG.PST DEF.M ветка(M)	‘Педру согнул ветку.’		
+87	17	dizer	SBJ	para	Y	SBJ_para	Pedro disse para Miguel: «…»	PN(M) say.3SG.PST towards PN(M) 	‘Pedro told Miguel: ‘…’.’		PN(M) говорить.3SG.PST по_направлении PN(M) 	‘Педру сказал Мигелу: «…»’		
+87	18	segurar	SBJ	DO	TR	TR	Pedro segur-a o livro	PN(M) hold-3SG.PRS DEF.M book(M)	‘Pedro is holding a book.’		PN(M) держать-3SG.PRS DEF.M книга(M)	‘Педру держит книгу.’		
+87	19	alcançar	SBJ	DO	TR	TR	Pedro alcanç-ou Maria	PN(M) reach-3SG.PST PN(F)	‘Pedro caught up with Maria.’		PN(M) достичь-3SG.PST PN(F)	‘Педру догнал Марию.’		
+87	20	ordenhar	SBJ	DO	TR	TR	Pedro ordenh-ou a vaca	PN(M) milk-3SG.PST DEF.F cow(F)	‘Pedro milked the cow.’		PN(M) доить-3SG.PST DEF.F корова(F)	‘Педру подоил корову’		
+87	21	alcançar	SBJ	DO	TR	TR	Pedro alcanç-ou a-s margen-s	PN(M) reach-3SG.PST DEF.F-PL shore(F)-PL	‘Pedro reached the coast.’		PN(M) достичь-3SG.PST DEF.F-PL берег(F)-PL	‘Педру достиг берега.’		
+87	22	encostar	SBJ	em	Y	SBJ_em	Pedro encost-ou na parede	PN(M) lean-3SG.PST in+DEF.F wall(F)	‘Pedro touched the wall.’		PN(M) наклониться-3SG.PST в+DEF.F стена(F)	‘Педру дотронулся до стены.’		
+87	23	brigar	SBJ	com	Y	SBJ_com	Pedro está brig-ando com Miguel	PN(M) COP_PROG.3SG.PRS fight-PROG with PN(M)	‘Pedro is fighting with Miguel.’		PN(M) COP_PROG.3SG.PRS драться-PROG с PN(M)	‘Педру дерется с Мигелом.’		
+87	24	ter amizade	SBJ	com	Y	SBJ_com	Pedro tem amizade com Maria	PN(M) have.3SG.PRS friendship(F) with PN(F)	‘Pedro is friends with Maria.’		PN(M) иметь.3SG.PRS дружба(F) с PN(F)	‘Педру дружит с Марией.’		
+87	25	pensar	SBJ	em	Y	SBJ_em	Pedro pens-a em Miguel	PN(M) think-3SG.PRS in PN(M)	‘Pedro is thinking about Miguel.’		PN(M) думать-3SG.PRS в PN(M)	‘Педру думает о Марии.’		
+87	26	comer	SBJ	DO	TR	TR	Pedro com-eu um-a maçã	PN(M) eat-3SG.PST INDF-F apple(F)	‘Pedro ate an apple.’		PN(M) есть-3SG.PST INDF-F яблоко(F)	‘Педру съел яблоко’		
+87	27	cozinhar	SBJ	DO	TR	TR	Pedro cozinh-ou o peixe	PN(M) cook-3SG.PST DEF.M fish(M)	‘Pedro cooked the fish.’		PN(M) готовить-3SG.PST DEF.M рыба(M)	‘Педру пожарил рыбу’		
+87	28	esperar	SBJ	DO	TR	TR	Pedro está esper-ando Miguel	PN(M) COP_PROG.3SG.PRS wait-PROG PN(M)	‘Pedro is waiting for Miguel.’		PN(M) COP_PROG.3SG.PRS ждать-PROG PN(M)	‘Педру ждет Мигела.’		
+87	29	esquecer-se	SBJ	de	Y	SBJ_de	Pedro se esquec-eu do outr-o caminho	PN(M) REFL forget-3SG.PST of+DEF.M other-M way(M)	‘Pedro forgot about the other way.’		PN(M) REFL забыть-3SG.PST от+DEF.M другой-M путь(M)	‘Педру забыл о другой дороге.’		
 87	30	depender	SBJ	de	Y	SBJ_de	a memória depende da idade	DEF.F memory(F) depend-3SG.PRS of+DEF.F age(F)	‘Memory depends on age.’		DEF.F память(F) зависеть-3SG.PRS от+DEF.F возраст(F)	‘Память зависит от возраста.’		
-87	31	chamar	SBJ	DO	TR	TR	Pedro cham-ou Miguel	PN call-3SG.PST PN	‘Pedro called Miguel.’		PN звать-3SG.PST PN	‘Педру позвал Мигела.’		
-87	32	conhecer	SBJ	DO	TR	TR	Pedro conhec-eu Miguel um ano atrás	PN know.someone-3SG.PST PN INDF year(M) ago	‘Pedro got to know Miguel a year ago.’		PN знать.кого.то-3SG.PST PN INDF год(M) назад	‘Педру познакомился с Мигелом год тому назад.’		
-87	33	conhecer	SBJ	DO	TR	TR	Pedro conhec-e Miguel	PN know.someone-3SG.PRS PN	‘Pedro knows Miguel.’		PN знать.кого.то-3SG.PRS PN	‘Педру знает Мигела.’		
-87	34	tocar	SBJ	DO	TR	TR	Pedro toc-a violão	PN play-3SG.PRS guitar(M)	‘Pedro is playing the guitar.’		PN играть-3SG.PRS гитара(M)	‘Педру играет на гитаре.’		
-87	35	evitar	SBJ	DO	TR	TR	Pedro evit-a Miguel	PN avoid-3SG.PRS PN	‘Pedro avoids Miguel.’		PN избегать-3SG.PRS PN	‘Педру избегает Мигела.’		
-87	36	construir	SBJ	DO	TR	TR	Pedro constru-iu um-a ratoeira	PN build-3SG.PST INDF-F mousetrap(F)	‘Pedro made a mousetrap.’		PN сооружать-3SG.PST INDF-F мышеловка(F)	‘Педру изготовил мышеловку.’		
-87	37	caçoar	SBJ	de	Y	SBJ_de	Pedro caço-a de Miguel	PN mock-3SG.PRS of PN	‘Pedro is making fun of Miguel.’		PN издеваться-3SG.PRS от PN	‘Педру издевается над Мигелом.’		
-87	38	ter	SBJ	DO	TR	TR	Pedro tem um carro	PN have.3SG.PRS INDF car(M)	‘Pedro has a car.’		PN иметь.3SG.PRS INDF машина(M)	‘У Педру есть машина’		
-87	39	procurar	SBJ	DO	TR	TR	Pedro está procur-ando a-s chave-s	PN COP.3SG.PRS seek-PROG DEF.F-PL key(F)-PL	‘Pedro is looking for his keys.’		PN COP.3SG.PRS искать-PROG DEF.F-PL ключ(F)-PL	‘Педру ищет ключи.’		
-87	40	pintar	SBJ	DO	TR	TR	Pedro pint-ou a cerca	PN paint-3SG.PST DEF.F fence(F)	‘Pedro painted the fence.’		PN красить-3SG.PST DEF.F забор(F)	‘Педру покрасил забор.’		
-87	41	morder	SBJ	DO	TR	TR	o cachorro mord-eu Pedro	DEF.M dog(M) bite-3SG.PST PN	‘A dog bit Pedro.’		DEF.M собака(M) кусать-3SG.PST PN	‘Собака укусила Педру.’		
-87	42	perder	SBJ	DO	TR	TR	Pedro perd-eu sua casa	PN lose-3SG.PST POSS.3.F house(F)	‘Pedro lost his house.’		PN терять-3SG.PST POSS.3.F дом(F)	‘Педру лишился дома.’		
-87	43	apanhar	SBJ	DO	TR	TR	Pedro está apanh-ando o gato	PN COP.3SG.PRS catch-PROG DEF.M cat(M)	‘Pedro is catching the cat.’		PN COP.3SG.PRS ловить-PROG DEF.M кот(M)	‘Педру ловит кошку.’		
-87	44	quebrar	SBJ	DO	TR	TR	Pedro quebr-ou o bastão	PN break-3SG.PST DEF.M stick(M)	‘Pedro broke the stick.’		PN ломать-3SG.PST DEF.M палка(M)	‘Педру сломал палку.’		
-87	45	bajular	SBJ	DO	TR	TR	Pedro bajul-a Maria	PN flatter-3SG.PRS PN	‘Pedro is flattering Maria.’		PN льстить-3SG.PRS PN	‘Педру льстит Марии.’		
-87	46	amar	SBJ	DO	TR	TR	Pedro am-a Maria	PN love-3SG.PRS PN	‘Pedro loves Maria.’		PN любить-3SG.PRS PN	‘Педру любит Марию.’		
-87	47	acenar	SBJ	com	Y	SBJ_com	Pedro acen-a com um lenço	PN wave-3SG.PRS with INDF handkerchief(M)	‘Pedro is waving a handkerchief.’		PN махать-3SG.PRS с INDF платок(M)	‘Педру машет платком.’		
-87	48	sonhar	SBJ	com	Y	SBJ_com	Pedro sonh-a com um carro	PN dream-3SG.PRS with INDF car(M)	‘Pedro is dreaming with a car.’		PN мечтать-3SG.PRS с INDF машина(M)	‘Педру мечтает о машине.’		
-87	49	lavar	SBJ	DO	TR	TR	Pedro lav-ou a xícara	PN wash-3SG.PST DEF.F cup(F)	‘Pedro washed the cup.’		PN мыть-3SG.PST DEF.F кружка(F)	‘Педру вымыл чашку.’		
-87	50	vestir	SBJ	DO	TR	TR	Pedro vest-iu a-s calça-s	PN put.on-3SG.PST DEF.F-PL sock(F)-PL	‘Pedro put on his trousers.’		PN надевать-3SG.PST DEF.F-PL носок(F)-PL	‘Педру надел штаны.’		
+87	31	chamar	SBJ	DO	TR	TR	Pedro cham-ou Miguel	PN(M) call-3SG.PST PN(M)	‘Pedro called Miguel.’		PN(M) звать-3SG.PST PN(M)	‘Педру позвал Мигела.’		
+87	32	conhecer	SBJ	DO	TR	TR	Pedro conhec-eu Miguel um ano atrás	PN(M) know_someone-3SG.PST PN(M) INDF year(M) ago	‘Pedro got to know Miguel a year ago.’		PN(M) знать_кого_то-3SG.PST PN(M) INDF год(M) назад	‘Педру познакомился с Мигелом год тому назад.’		
+87	33	conhecer	SBJ	DO	TR	TR	Pedro conhec-e Miguel	PN(M) know_someone-3SG.PRS PN(M)	‘Pedro knows Miguel.’		PN(M) знать_кого_то-3SG.PRS PN(M)	‘Педру знает Мигела.’		
+87	34	tocar	SBJ	DO	TR	TR	Pedro toc-a violão	PN(M) play-3SG.PRS guitar(M)	‘Pedro is playing the guitar.’		PN(M) играть-3SG.PRS гитара(M)	‘Педру играет на гитаре.’		
+87	35	evitar	SBJ	DO	TR	TR	Pedro evit-a Miguel	PN(M) avoid-3SG.PRS PN(M)	‘Pedro avoids Miguel.’		PN(M) избегать-3SG.PRS PN(M)	‘Педру избегает Мигела.’		
+87	36	construir	SBJ	DO	TR	TR	Pedro constru-iu um-a ratoeira	PN(M) build-3SG.PST INDF-F mousetrap(F)	‘Pedro made a mousetrap.’		PN(M) сооружать-3SG.PST INDF-F мышеловка(F)	‘Педру изготовил мышеловку.’		
+87	37	caçoar	SBJ	de	Y	SBJ_de	Pedro caço-a de Miguel	PN(M) mock-3SG.PRS of PN(M)	‘Pedro is making fun of Miguel.’		PN(M) издеваться-3SG.PRS от PN(M)	‘Педру издевается над Мигелом.’		
+87	38	ter	SBJ	DO	TR	TR	Pedro tem um carro	PN(M) have.3SG.PRS INDF car(M)	‘Pedro has a car.’		PN(M) иметь.3SG.PRS INDF машина(M)	‘У Педру есть машина’		
+87	39	procurar	SBJ	DO	TR	TR	Pedro está procur-ando a-s chave-s	PN(M) COP_PROG.3SG.PRS seek-PROG DEF.F-PL key(F)-PL	‘Pedro is looking for his keys.’		PN(M) COP_PROG.3SG.PRS искать-PROG DEF.F-PL ключ(F)-PL	‘Педру ищет ключи.’		
+87	40	pintar	SBJ	DO	TR	TR	Pedro pint-ou a cerca	PN(M) paint-3SG.PST DEF.F fence(F)	‘Pedro painted the fence.’		PN(M) красить-3SG.PST DEF.F забор(F)	‘Педру покрасил забор.’		
+87	41	morder	SBJ	DO	TR	TR	o cachorro mord-eu Pedro	DEF.M dog(M) bite-3SG.PST PN(M)	‘A dog bit Pedro.’		DEF.M собака(M) кусать-3SG.PST PN(M)	‘Собака укусила Педру.’		
+87	42	perder	SBJ	DO	TR	TR	Pedro perd-eu sua casa	PN(M) lose-3SG.PST POSS.3.F house(F)	‘Pedro lost his house.’		PN(M) терять-3SG.PST POSS.3.F дом(F)	‘Педру лишился дома.’		
+87	43	apanhar	SBJ	DO	TR	TR	Pedro está apanh-ando o gato	PN(M) COP_PROG.3SG.PRS catch-PROG DEF.M cat(M)	‘Pedro is catching the cat.’		PN(M) COP_PROG.3SG.PRS ловить-PROG DEF.M кот(M)	‘Педру ловит кошку.’		
+87	44	quebrar	SBJ	DO	TR	TR	Pedro quebr-ou o bastão	PN(M) break-3SG.PST DEF.M stick(M)	‘Pedro broke the stick.’		PN(M) ломать-3SG.PST DEF.M палка(M)	‘Педру сломал палку.’		
+87	45	bajular	SBJ	DO	TR	TR	Pedro bajul-a Maria	PN(M) flatter-3SG.PRS PN(F)	‘Pedro is flattering Maria.’		PN(M) льстить-3SG.PRS PN(F)	‘Педру льстит Марии.’		
+87	46	amar	SBJ	DO	TR	TR	Pedro am-a Maria	PN(M) love-3SG.PRS PN(F)	‘Pedro loves Maria.’		PN(M) любить-3SG.PRS PN(F)	‘Педру любит Марию.’		
+87	47	acenar	SBJ	com	Y	SBJ_com	Pedro acen-a com um lenço	PN(M) wave-3SG.PRS with INDF handkerchief(M)	‘Pedro is waving a handkerchief.’		PN(M) махать-3SG.PRS с INDF платок(M)	‘Педру машет платком.’		
+87	48	sonhar	SBJ	com	Y	SBJ_com	Pedro sonh-a com um carro	PN(M) dream-3SG.PRS with INDF car(M)	‘Pedro is dreaming with a car.’		PN(M) мечтать-3SG.PRS с INDF машина(M)	‘Педру мечтает о машине.’		
+87	49	lavar	SBJ	DO	TR	TR	Pedro lav-ou a xícara	PN(M) wash-3SG.PST DEF.F cup(F)	‘Pedro washed the cup.’		PN(M) мыть-3SG.PST DEF.F кружка(F)	‘Педру вымыл чашку.’		
+87	50	vestir	SBJ	DO	TR	TR	Pedro vest-iu a-s calça-s	PN(M) put_on-3SG.PST DEF.F-PL sock(F)-PL	‘Pedro put on his trousers.’		PN(M) надевать-3SG.PST DEF.F-PL носок(F)-PL	‘Педру надел штаны.’		
 87	51	chamar-se	SBJ	DO	TR	TR	ess-e instrumento se cham-a bússola	DEM.MED-M instrument(M) REFL call-3SG.PRS compass(F)	‘This instrument is called a compass.’		DEM.MED-M инструмент(M) REFL звать-3SG.PRS компас(F)	‘Этот инструмент называется компас.’		
-87	52	castigar	SBJ	DO	TR	TR	Pedro castig-ou seu filho	PN punish-3SG.PST POSS.3.M son(M)	‘Pedro punished his son.’		PN наказывать-3SG.PST POSS.3.M сын(M)	‘Педру наказал своего сына.’		
+87	52	castigar	SBJ	DO	TR	TR	Pedro castig-ou seu filho	PN(M) punish-3SG.PST POSS.3.M son(M)	‘Pedro punished his son.’		PN(M) наказывать-3SG.PST POSS.3.M сын(M)	‘Педру наказал своего сына.’		
 87	53	atacar	SBJ	DO	TR	TR	o urso atac-ou o pescador	DEF.M bear(M) attack-3SG.PST DEF.M fisherman(M)	‘The bear attacked the fisherman.’		DEF.M медведь(M) нападать-3SG.PST DEF.M рыбак(M)	‘Медведь напал на рыбака.’		
 87	54	encher-se	SBJ	de	Y	SBJ_de	o balde se ench-eu de água	DEF.M bucket(M) REFL fill-3SG.PST of water(F)	‘The bucket filled up with water.’		DEF.M ведро(M) REFL наполнять-3SG.PST от вода(F)	‘Ведро наполнилось водой.’		
-87	55	achar	SBJ	DO	TR	TR	Pedro ach-ou a-s chave-s	PN find-3SG.PST DEF.F-PL key(F)-PL	‘Pedro found the keys.’		PN находить-3SG.PST DEF.F-PL ключ(F)-PL	‘Педру нашел ключи.’		
-87	56	faltar	para	SBJ	X	para_SBJ	falt-a um dólar para Pedro	lack-3SG.PRS INDF dollar(M) towards PN	‘Pedro is one dollar short.’		недоставать-3SG.PRS INDF доллар(M) по.направлении PN	‘Педру недостает одного доллара.’		
-87	57	odiar	SBJ	DO	TR	TR	Pedro odei-a Miguel	PN hate-3SG.PRS PN	‘Pedro hates Miguel.’		PN ненавидеть-3SG.PRS PN	‘Педру ненавидит Мигела.’		
-87	58	gostar	SBJ	de	Y	SBJ_de	Pedro gost-a dess-a camisa	PN like-3SG.PRS of+DEM.MED-F shirt(F)	‘Pedro likes this shirt.’		PN нравиться-3SG.PRS от+DEM.MED-F рубашка(F)	‘Педру нравится эта рубашка’		
-87	59	precisar	SBJ	de	Y	SBJ_de	Pedro precis-a de dinheiro	PN need-3SG.PRS of money(M)	‘Pedro needs money.’		PN нуждаться-3SG.PRS от деньги(M)	‘Педру нужны деньги.’		
+87	55	achar	SBJ	DO	TR	TR	Pedro ach-ou a-s chave-s	PN(M) find-3SG.PST DEF.F-PL key(F)-PL	‘Pedro found the keys.’		PN(M) находить-3SG.PST DEF.F-PL ключ(F)-PL	‘Педру нашел ключи.’		
+87	56	faltar	para	SBJ	X	para_SBJ	falt-a um dólar para Pedro	lack-3SG.PRS INDF dollar(M) towards PN(M)	‘Pedro is one dollar short.’		недоставать-3SG.PRS INDF доллар(M) по_направлении PN(M)	‘Педру недостает одного доллара.’		
+87	57	odiar	SBJ	DO	TR	TR	Pedro odei-a Miguel	PN(M) hate-3SG.PRS PN(M)	‘Pedro hates Miguel.’		PN(M) ненавидеть-3SG.PRS PN(M)	‘Педру ненавидит Мигела.’		
+87	58	gostar	SBJ	de	Y	SBJ_de	Pedro gost-a dess-a camisa	PN(M) like-3SG.PRS of+DEM.MED-F shirt(F)	‘Pedro likes this shirt.’		PN(M) нравиться-3SG.PRS от+DEM.MED-F рубашка(F)	‘Педру нравится эта рубашка’		
+87	59	precisar	SBJ	de	Y	SBJ_de	Pedro precis-a de dinheiro	PN(M) need-3SG.PRS of money(M)	‘Pedro needs money.’		PN(M) нуждаться-3SG.PRS от деньги(M)	‘Педру нужны деньги.’		
 87	60	cercar	SBJ	DO	TR	TR	o-s muro-s cerc-am a cidade	DEF.M-PL wall(M)-PL surround-3PL.PRS DEF.F city(F)	‘The walls surround the city.’		DEF.M-PL стена(M)-PL окружать-3PL.PRS DEF.F город(F)	‘Стены окружают город.’		
-87	61	ficar	SBJ	com	Y	SBJ_com	Pedro fic-ou com 10 dólar-es	PN get-3SG.PST with 10 dollar(M)-PL	‘Pedro has ten dollars left.’		PN оказаться-3SG.PST с 10 доллар(M)-PL	‘У Педру осталось 10 долларов.’		
-87	62	responder	SBJ	a	Y	SBJ_a	Pedro respond-eu ao professor	PN answer-3SG.PST to+DEF.M professor(M)	‘Pedro answered the teacher.’		PN ответить-3SG.PST к+DEF.M профессор(M)	‘Педру ответил учителю.’		
-87	63	abrir	SBJ	DO	TR	TR	Pedro abr-iu a lata	PN open-3SG.PST DEF.F can(F)	‘Pedro opened the can.’		PN открывать-3SG.PST DEF.F банка(F)	‘Педру открыл банку.’		
-87	64	COP + diferente	SBJ	de	Y	SBJ_de	minha camisa é diferente da sua	POSS.1SG.F shirt(F) be.3SG.PRS different of+DEF.F POSS.3.F	‘My shirt is different from yours.’	Non-verbal predicate.	POSS.1SG.F рубашка(F) быть.3SG.PRS не.такой от+DEF.F POSS.3.F	‘Моя рубашка отличается от твоей.’		
-87	65	ficar para trás	SBJ	de	Y	SBJ_de	Pedro fic-ou para trás de Miguel	PN get-3SG.PST towards behind of PN	‘Pedro fell behind Miguel.’		PN оказаться-3SG.PST по.направлении сзади от PN	‘Педру отстал от Мигела.’		
-87	66	arar	SBJ	DO	TR	TR	Pedro ar-a o campo	PN plough-3SG.PRS DEF.M field(M)	‘Pedro is ploughing the field.’		PN пахать-3SG.PRS DEF.M поле(M)	‘Педру пашет поле.’		
-87	67	cheirar	SBJ	a	Y	SBJ_a	minha-s mão-s cheir-am a gasolina	POSS.1SG.F-PL hand(F)-PL smell-3PL.PRS DEF.F petrol(F)	‘My hands smell of gasoline.’		POSS.1SG.F-PL рука(F)-PL пахнуть-3PL.PRS DEF.F бензин(F)	‘Мои руки пахнут бензином.’		
-87	68	atravessar	SBJ	DO	TR	TR	Pedro atravess-ou a rua	PN cross-3SG.PST DEF.F street(F)	‘Pedro crossed the street.’		PN пересекать-3SG.PST DEF.F улица(F)	‘Педру пересёк улицу.’		
-87	69	cantar	SBJ	DO	TR	TR	Pedro cant-ou um-a bel-a canção	PN sing-3SG.PST INDF-F beautiful-F song(F)	‘Pedro sang a beautiful song.’		PN петь-3SG.PST INDF-F красивый-F песня(F)	‘Педру спел красивую песню.’		
-87	70	escrever	SBJ	DO	TR	TR	Pedro escrev-eu um-a carta	PN write-3SG.PST INDF-F letter(F)	‘Pedro wrote a letter.’		PN писать-3SG.PST INDF-F письмо(F)	‘Педру написал письмо.’		
-87	71	beber	SBJ	DO	TR	TR	Pedro beb-eu o leite	PN drink-3SG.PST DEF.M milk(F)	‘Pedro drank the milk.’		PN пить-3SG.PST DEF.M молоко(F)	‘Педру выпил молоко.’		
-87	72	derreter	SBJ	DO	TR	TR	Pedro derret-eu um pedaço de chumbo	PN melt-3SG.PST INDF piece(M) of lead(M)	‘Pedro melted a piece of lead.’		PN плавить-3SG.PST INDF кусок(M) от свинец(M)	‘Педру расплавил кусок свинца.’		
-87	73	combinar	SBJ	com	Y	SBJ_com	est-e cinto combin-a com meu vestido	DEM.PROX-M belt(M) go.together-3SG.PRS with POSS.1SG.M dress(M)	‘This belt goes well with my dress.’		DEM.PROX-M пояс(M) подходить-3SG.PRS с POSS.1SG.M платье(M)	‘Этот пояс подходит к моему платью.’		
-87	74	abandonar	SBJ	DO	TR	TR	Pedro abandon-ou sua cidade natal	PN leave-3SG.PST POSS.3.F city(F) native	‘Pedro left his native city.’		PN подкидать-3SG.PST POSS.3.F город(F) родной	‘Педру покинул родной город.’		
-87	75	cobrir	SBJ	DO	TR	TR	o tapete cobr-e tod-o o chão	DEF.M carpet(M) cover-3SG.PST all-M DEF.M floor(M)	‘The carpet covers the whole floor.’		DEF.M ковёр(M) покрывать-3SG.PST all-M DEF.M пол(M)	‘Ковер покрывает весь пол.’		
-87	76	lembrar-se	SBJ	de	Y	SBJ_de	Pedro se lembr-a bem da casa	PN REFL remember-3SG.PRS well of+DEF.F house(F)	‘Pedro remembers the house well.’		PN REFL помнить-3SG.PRS хорошо от+DEF.F дом(F)	‘Педру хорошо помнит дом.’		
-87	77	ajudar	SBJ	DO	TR	TR	Pedro ajud-ou Miguel	PN help-3SG.PST PN	‘Pedro helped Miguel.’		PN помогать-3SG.PST PN	‘Педру помог Мигелу.’		
-87	78	entender	SBJ	DO	TR	TR	Pedro entend-e francês	PN understand-3SG.PRS French(M)	‘Pedro understands French.’		PN понимать-3SG.PRS французский.язык(M)	‘Педру понимает французский язык.’		
+87	61	ficar	SBJ	com	Y	SBJ_com	Pedro fic-ou com 10 dólar-es	PN(M) get-3SG.PST with 10 dollar(M)-PL	‘Pedro has ten dollars left.’		PN(M) стать-3SG.PST с 10 доллар(M)-PL	‘У Педру осталось 10 долларов.’		
+87	62	responder	SBJ	a	Y	SBJ_a	Pedro respond-eu ao professor	PN(M) answer-3SG.PST to+DEF.M professor(M)	‘Pedro answered the teacher.’		PN(M) ответить-3SG.PST к+DEF.M профессор(M)	‘Педру ответил учителю.’		
+87	63	abrir	SBJ	DO	TR	TR	Pedro abr-iu a lata	PN(M) open-3SG.PST DEF.F can(F)	‘Pedro opened the can.’		PN(M) открывать-3SG.PST DEF.F банка(F)	‘Педру открыл банку.’		
+87	64	ser diferente	SBJ	de	Y	SBJ_de	minha camisa é diferente da sua	POSS.1SG.F shirt(F) COP_HAB.3SG.PRS different of+DEF.F POSS.3.F	‘My shirt is different from yours.’	Non-verbal predicate.	POSS.1SG.F рубашка(F) COP_HAB.3SG.PRS не_такой от+DEF.F POSS.3.F	‘Моя рубашка отличается от твоей.’		
+87	65	ficar para trás	SBJ	de	Y	SBJ_de	Pedro fic-ou para trás de Miguel	PN(M) get-3SG.PST towards behind of PN(M)	‘Pedro fell behind Miguel.’		PN(M) стать-3SG.PST по_направлении сзади от PN(M)	‘Педру отстал от Мигела.’		
+87	66	arar	SBJ	DO	TR	TR	Pedro ar-a o campo	PN(M) plough-3SG.PRS DEF.M field(M)	‘Pedro is ploughing the field.’		PN(M) пахать-3SG.PRS DEF.M поле(M)	‘Педру пашет поле.’		
+87	67	cheirar	SBJ	a	Y	SBJ_a	minha-s mão-s cheir-am a gasolina	POSS.1SG.F-PL hand(F)-PL smell-3PL.PRS to petrol(F)	‘My hands smell of gasoline.’		POSS.1SG.F-PL рука(F)-PL пахнуть-3PL.PRS к бензин(F)	‘Мои руки пахнут бензином.’		
+87	68	atravessar	SBJ	DO	TR	TR	Pedro atravess-ou a rua	PN(M) cross-3SG.PST DEF.F street(F)	‘Pedro crossed the street.’		PN(M) пересекать-3SG.PST DEF.F улица(F)	‘Педру пересёк улицу.’		
+87	69	cantar	SBJ	DO	TR	TR	Pedro cant-ou um-a bel-a canção	PN(M) sing-3SG.PST INDF-F beautiful-F song(F)	‘Pedro sang a beautiful song.’		PN(M) петь-3SG.PST INDF-F красивый-F песня(F)	‘Педру спел красивую песню.’		
+87	70	escrever	SBJ	DO	TR	TR	Pedro escrev-eu um-a carta	PN(M) write-3SG.PST INDF-F letter(F)	‘Pedro wrote a letter.’		PN(M) писать-3SG.PST INDF-F письмо(F)	‘Педру написал письмо.’		
+87	71	beber	SBJ	DO	TR	TR	Pedro beb-eu o leite	PN(M) drink-3SG.PST DEF.M milk(F)	‘Pedro drank the milk.’		PN(M) пить-3SG.PST DEF.M молоко(F)	‘Педру выпил молоко.’		
+87	72	derreter	SBJ	DO	TR	TR	Pedro derret-eu um pedaço de chumbo	PN(M) melt-3SG.PST INDF piece(M) of lead(M)	‘Pedro melted a piece of lead.’		PN(M) плавить-3SG.PST INDF кусок(M) от свинец(M)	‘Педру расплавил кусок свинца.’		
+87	73	combinar	SBJ	com	Y	SBJ_com	est-e cinto combin-a com meu vestido	DEM.PROX-M belt(M) go_together-3SG.PRS with POSS.1SG.M dress(M)	‘This belt goes well with my dress.’		DEM.PROX-M пояс(M) подходить-3SG.PRS с POSS.1SG.M платье(M)	‘Этот пояс подходит к моему платью.’		
+87	74	abandonar	SBJ	DO	TR	TR	Pedro abandon-ou sua cidade natal	PN(M) leave-3SG.PST POSS.3.F city(F) native	‘Pedro left his native city.’		PN(M) подкидать-3SG.PST POSS.3.F город(F) родной	‘Педру покинул родной город.’		
+87	75	cobrir	SBJ	DO	TR	TR	o tapete cobr-e tod-o o chão	DEF.M carpet(M) cover-3SG.PST all-M DEF.M floor(M)	‘The carpet covers the whole floor.’		DEF.M ковёр(M) покрывать-3SG.PST весь-M DEF.M пол(M)	‘Ковер покрывает весь пол.’		
+87	76	lembrar-se	SBJ	de	Y	SBJ_de	Pedro se lembr-a bem da casa	PN(M) REFL remember-3SG.PRS well of+DEF.F house(F)	‘Pedro remembers the house well.’		PN(M) REFL помнить-3SG.PRS хорошо от+DEF.F дом(F)	‘Педру хорошо помнит дом.’		
+87	77	ajudar	SBJ	DO	TR	TR	Pedro ajud-ou Miguel	PN(M) help-3SG.PST PN(M)	‘Pedro helped Miguel.’		PN(M) помогать-3SG.PST PN(M)	‘Педру помог Мигелу.’		
+87	78	entender	SBJ	DO	TR	TR	Pedro entend-e francês	PN(M) understand-3SG.PRS French(M)	‘Pedro understands French.’		PN(M) понимать-3SG.PRS французский_язык(M)	‘Педру понимает французский язык.’		
 87	79	atingir	SBJ	DO	TR	TR	o raio ating-iu a casa	DEF.M lightning(M) strike-3SG.PST DEF.F house(F)	‘The lightning struck the house.’		DEF.M молния(M) попадать-3SG.PST DEF.F дом(F)	‘Молния попала в дом.’		
-87	80	cortar-se	SBJ	com	Y	SBJ_com	Pedro se cort-ou com a lâmina	PN REFL cut-3SG.PST with DEF.F blade(F)	‘Pedro cut himself with the razor.’		PN REFL резать-3SG.PST с DEF.F лезвие(F)	‘Педру порезался бритвой.’		
-87	81	ficar grudado	SBJ	em	Y	SBJ_em	o copo fic-ou grud-ad-o na mesa	DEF.M glass(M) get-3SG.PST stick-PTCP-M in+DEF.F table(F)	‘The glass got stuck to the table.’		DEF.M стекло(M) оказаться-3SG.PST липнуть-PTCP-M в+DEF.F стол(F)	‘Стакан прилип к столу.’		
-87	82	perder	SBJ	para	Y	SBJ_para	Pedro perd-eu para Miguel	PN lose-3SG.PST towards PN	‘Pedro lost to Miguel.’		PN терять-3SG.PST по.направлении PN	‘Педру проиграл Мигелу.’		
-87	83	alegrar-se	SBJ	com	Y	SBJ_com	Pedro alegr-ou-se com a carta	PN be.happy-3SG.PST-REFL with DEF.F letter(F)	‘Pedro was glad about the letter.’		PN радоваться-3SG.PST-REFL с DEF.F письмо(F)	‘Педру обрадовался письму.’		
-87	84	conversar	SBJ	com	Y	SBJ_com	Pedro está convers-ando com Miguel	PN COP.3SG.PRS talk-PROG with PN	‘Pedro is talking to Miguel.’		PN COP.3SG.PRS разговаривать-PROG с PN	‘Педру разговаривает с Мигелом.’		
-87	85	dar à luz	SBJ	DO	TR	TR	Maria deu à luz um filho	PN give.3SG.PST to+DEF.F light(F) INDF son(M)	‘Maria gave birth to a son.’		PN давать.3SG.PST к+DEF.F свет(F) INDF сын(M)	‘Мария родила сына.’		
-87	86	derrubar	SBJ	DO	TR	TR	Pedro derrub-ou um copo	PN topple-3SG.PST INDF glass(M)	‘Pedro toppled a glass.’		PN ронять-3SG.PST INDF стакан(M)	‘Педру уронил стакан.’		
-87	87	comandar	SBJ	DO	TR	TR	Pedro comand-a nossa vila	PN rule-3SG.PRS POSS.1SG.L.F city(F)	‘Pedro runs our town.’		PN управлять-3SG.PRS POSS.1SG.L.F город(F)	‘Педру руководит нашим посёлком.’		
-87	88	sentir falta	SBJ	de	Y	SBJ_de	Pedro sent-e falta de Maria	PN feel-3SG.PRS lack(F) of PN	‘Pedro misses Maria.’		PN чувствовать-3SG.PRS нехватка(F) от PN	‘Педру скучает по Марии.’		
-87	89	seguir	SBJ	DO	TR	TR	Pedro segu-e Miguel	PN follow-3SG.PRS PN	‘Pedro follows Miguel.’		PN следовать-3SG.PRS PN	‘Педру следует за Мигелом.’		
-87	90	desmontar	SBJ	de	Y	SBJ_de	Pedro desmont-a do cavalo	PN dismount-3SG.PRS of+DEF.M horse(M)	‘Pedro dismounted the horse.’		PN спешиться-3SG.PRS от+DEF.M лошадь(M)	‘Педру слез с лошади.’		
-87	91	escutar	SBJ	DO	TR	TR	Pedro escut-a o rádio	PN listen-3SG.PRS DEF.M radio(M)	‘Pedro is listening to the radio.’		PN слушать-3SG.PRS DEF.M радио(M)	‘Педру слушает радио.’		
-87	92	obedecer	SBJ	DO	TR	TR	Pedro obedec-e sua mãe	PN obey-3SG.PRS POSS.3.F mother(F)	‘Pedro obeys his mother.’		PN слушаться-3SG.PRS POSS.3.F мать(F)	‘Педру слушается маму.’		
-87	93	ouvir	SBJ	DO	TR	TR	Pedro ouv-e música	PN hear-3SG.PRS music(F)	‘Pedro hears the music.’		PN слышать-3SG.PRS музыку(F)	‘Педру слышит музыку.’		
+87	80	cortar-se	SBJ	com	Y	SBJ_com	Pedro se cort-ou com a lâmina	PN(M) REFL cut-3SG.PST with DEF.F blade(F)	‘Pedro cut himself with the razor.’		PN(M) REFL резать-3SG.PST с DEF.F лезвие(F)	‘Педру порезался бритвой.’		
+87	81	ficar grudado	SBJ	em	Y	SBJ_em	o copo fic-ou grud-ad-o na mesa	DEF.M glass(M) get-3SG.PST stick-PTCP-M in+DEF.F table(F)	‘The glass got stuck to the table.’		DEF.M стекло(M) стать-3SG.PST липнуть-PTCP-M в+DEF.F стол(F)	‘Стакан прилип к столу.’		
+87	82	perder	SBJ	para	Y	SBJ_para	Pedro perd-eu para Miguel	PN(M) lose-3SG.PST towards PN(M)	‘Pedro lost to Miguel.’		PN(M) терять-3SG.PST по_направлении PN(M)	‘Педру проиграл Мигелу.’		
+87	83	alegrar-se	SBJ	com	Y	SBJ_com	Pedro alegr-ou-se com a carta	PN(M) be_happy-3SG.PST-REFL with DEF.F letter(F)	‘Pedro was glad about the letter.’		PN(M) радоваться-3SG.PST-REFL с DEF.F письмо(F)	‘Педру обрадовался письму.’		
+87	84	conversar	SBJ	com	Y	SBJ_com	Pedro está convers-ando com Miguel	PN(M) COP_PROG.3SG.PRS talk-PROG with PN(M)	‘Pedro is talking to Miguel.’		PN(M) COP_PROG.3SG.PRS разговаривать-PROG с PN(M)	‘Педру разговаривает с Мигелом.’		
+87	85	dar à luz	SBJ	DO	TR	TR	Maria deu à luz um filho	PN(F) give.3SG.PST to+DEF.F light(F) INDF son(M)	‘Maria gave birth to a son.’		PN(F) давать.3SG.PST к+DEF.F свет(F) INDF сын(M)	‘Мария родила сына.’		
+87	86	derrubar	SBJ	DO	TR	TR	Pedro derrub-ou um copo	PN(M) topple-3SG.PST INDF glass(M)	‘Pedro toppled a glass.’		PN(M) ронять-3SG.PST INDF стакан(M)	‘Педру уронил стакан.’		
+87	87	comandar	SBJ	DO	TR	TR	Pedro comand-a nossa vila	PN(M) rule-3SG.PRS POSS.1PL.F city(F)	‘Pedro runs our town.’		PN(M) управлять-3SG.PRS POSS.1PL.F город(F)	‘Педру руководит нашим посёлком.’		
+87	88	sentir falta	SBJ	de	Y	SBJ_de	Pedro sent-e falta de Maria	PN(M) feel-3SG.PRS lack(F) of PN(F)	‘Pedro misses Maria.’		PN(M) чувствовать-3SG.PRS нехватка(F) от PN(F)	‘Педру скучает по Марии.’		
+87	89	seguir	SBJ	DO	TR	TR	Pedro segu-e Miguel	PN(M) follow-3SG.PRS PN(M)	‘Pedro follows Miguel.’		PN(M) следовать-3SG.PRS PN(M)	‘Педру следует за Мигелом.’		
+87	90	desmontar	SBJ	de	Y	SBJ_de	Pedro desmont-a do cavalo	PN(M) dismount-3SG.PRS of+DEF.M horse(M)	‘Pedro dismounted the horse.’		PN(M) спешиться-3SG.PRS от+DEF.M лошадь(M)	‘Педру слез с лошади.’		
+87	91	escutar	SBJ	DO	TR	TR	Pedro escut-a o rádio	PN(M) listen-3SG.PRS DEF.M radio(M)	‘Pedro is listening to the radio.’		PN(M) слушать-3SG.PRS DEF.M радио(M)	‘Педру слушает радио.’		
+87	92	obedecer	SBJ	DO	TR	TR	Pedro obedec-e sua mãe	PN(M) obey-3SG.PRS POSS.3.F mother(F)	‘Pedro obeys his mother.’		PN(M) слушаться-3SG.PRS POSS.3.F мать(F)	‘Педру слушается маму.’		
+87	93	ouvir	SBJ	DO	TR	TR	Pedro ouv-e música	PN(M) hear-3SG.PRS music(F)	‘Pedro hears the music.’		PN(M) слышать-3SG.PRS музыку(F)	‘Педру слышит музыку.’		
 87	94	misturar-se	SBJ	com	Y	SBJ_com	o mel se mistur-a com o leite	DEF.M honey(M) REFL mix-3SG.PRS with DEF.M milk(F)	‘The honey is mixing with the milk.’		DEF.M мёд(M) REFL смешивать-3SG.PRS с DEF.M молоко(F)	‘Мед смешивается с молоком.’		
-87	95	olhar	SBJ	para	Y	SBJ_para	Pedro olh-a para a nuvem	PN look-3SG.PRS towards DEF.F cloud(F)	‘Pedro is looking at the cloud.’		PN смотреть-3SG.PRS по.направлении DEF.F облако(F)	‘Педру смотрит на тучи.’		
-87	96	tirar	SBJ	DO	TR	TR	Pedro tir-ou a camisa	PN remove-3SG.PST DEF.F shirt(F)	‘Pedro took off the shirt.’		PN снять-3SG.PST DEF.F рубашка(F)	‘Педру снял рубашку.’		
-87	97	sonhar	SBJ	com	Y	SBJ_com	Pedro sonh-a com Maria	PN dream-3SG.PRS with PN	‘Pedro is dreaming of Maria.’		PN мечтать-3SG.PRS с PN	‘Педру снится Мария.’		
-87	98	concordar	SBJ	com	Y	SBJ_com	Pedro concord-a com Maria	PN agree-3SG.PRS with PN	‘Pedro agrees with Maria.’		PN соглашаться-3SG.PRS с PN	‘Педру согласился с Марией.’		
-87	99	discutir	SBJ	com	Y	SBJ_com	Pedro discut-iu com Maria	PN argue-3SG.PST with PN	‘Pedro had a quarrel with Maria.’		PN спорить-3SG.PST с PN	‘Педру поссорился с Марией.’		
+87	95	olhar	SBJ	para	Y	SBJ_para	Pedro olh-a para a nuvem	PN(M) look-3SG.PRS towards DEF.F cloud(F)	‘Pedro is looking at the cloud.’		PN(M) смотреть-3SG.PRS по_направлении DEF.F облако(F)	‘Педру смотрит на тучи.’		
+87	96	tirar	SBJ	DO	TR	TR	Pedro tir-ou a camisa	PN(M) remove-3SG.PST DEF.F shirt(F)	‘Pedro took off the shirt.’		PN(M) снять-3SG.PST DEF.F рубашка(F)	‘Педру снял рубашку.’		
+87	97	sonhar	SBJ	com	Y	SBJ_com	Pedro sonh-a com Maria	PN(M) dream-3SG.PRS with PN(F)	‘Pedro is dreaming of Maria.’		PN(M) мечтать-3SG.PRS с PN(F)	‘Педру снится Мария.’		
+87	98	concordar	SBJ	com	Y	SBJ_com	Pedro concord-a com Maria	PN(M) agree-3SG.PRS with PN(F)	‘Pedro agrees with Maria.’		PN(M) соглашаться-3SG.PRS с PN(F)	‘Педру согласился с Марией.’		
+87	99	discutir	SBJ	com	Y	SBJ_com	Pedro discut-iu com Maria	PN(M) argue-3SG.PST with PN(F)	‘Pedro had a quarrel with Maria.’		PN(M) спорить-3SG.PST с PN(F)	‘Педру поссорился с Марией.’		
 87	100	custar	SBJ	DO	TR	TR	ess-a xícar-a cust-a um dólar	DEM.MED-F cup(F) cost-3SG.PRS INDF dollar(M)	‘This cup costs a dollar.’		DEM.MED-F кружка(F) стоит-3SG.PRS INDF доллар(M)	‘Эта чашка стоит один доллар.’		
-87	101	atirar	SBJ	em	Y	SBJ_em	Pedro atir-ou no pássaro	PN shoot-3SG.PST in+DEF.M bird(M)	‘Pedro shot a bird.’		PN стрелять-3SG.PST в+DEF.M птица(M)	‘Педру выстрелил в птицу.’		
-87	102	colocar	SBJ	DO	TR	TR	Pedro coloc-a açúcar	PN place-3SG.PRS sugar(M)	‘Pedro poured some sugar.’		PN поместить-3SG.PRS сахар(M)	‘Педру насыпал сахар.’		
-87	103	perder	SBJ	DO	TR	TR	Pedro perd-eu a-s chave-s	PN lose-3SG.PST DEF.F-PL key(F)-PL	‘Pedro lost the keys.’		PN терять-3SG.PST DEF.F-PL ключ(F)-PL	‘Педру потерял ключи.’		
+87	101	atirar	SBJ	em	Y	SBJ_em	Pedro atir-ou no pássaro	PN(M) shoot-3SG.PST in+DEF.M bird(M)	‘Pedro shot a bird.’		PN(M) стрелять-3SG.PST в+DEF.M птица(M)	‘Педру выстрелил в птицу.’		
+87	102	colocar	SBJ	DO	TR	TR	Pedro coloc-a açúcar	PN(M) place-3SG.PRS sugar(M)	‘Pedro poured some sugar.’		PN(M) поместить-3SG.PRS сахар(M)	‘Педру насыпал сахар.’		
+87	103	perder	SBJ	DO	TR	TR	Pedro perd-eu a-s chave-s	PN(M) lose-3SG.PST DEF.F-PL key(F)-PL	‘Pedro lost the keys.’		PN(M) терять-3SG.PST DEF.F-PL ключ(F)-PL	‘Педру потерял ключи.’		
 87	104	afundar	SBJ	em	Y	SBJ_em	o galho afund-ou na água	DEF.M branch(M) sink-3SG.PST in+DEF.F water(F)	‘The log sank in the water.’		DEF.M ветка(M) тонуть-3SG.PST в+DEF.F вода(F)	‘Полено утонуло в воде.’		
-87	105	matar	SBJ	DO	TR	TR	Pedro mat-ou Miguel	PN kill-3SG.PST PN	‘Pedro killed Miguel.’		PN убить-3SG.PST PN	‘Педру убил Мигела.’		
-87	106	bater	SBJ	em	Y	SBJ_em	Pedro bat-eu em Miguel	PN hit-3SG.PST in PN	‘Pedro hit Miguel.’		PN ударить-3SG.PST в PN	‘Педру ударил Мигела.’		
-87	107	beijar	SBJ	DO	TR	TR	Pedro beij-ou Maria	PN kiss-3SG.PST PN	‘Pedro kissed Maria.’		PN целовать-3SG.PST PN	‘Педру поцеловал Марию.’		
-87	108	ler	SBJ	DO	TR	TR	Pedro l-eu um livro interessante	PN read-3SG.PST INDF book(M) interesting	‘Pedro read an interesting book.’		PN читать-3SG.PST INDF книга(M) интересный	‘Педру прочитал интересную книгу.’		
-87	109	mover	SBJ	DO	TR	TR	Pedro mov-eu o dedo	PN move-3SG.PST DEF.M finger(M)	‘Pedro moved finger.’		PN двигать-3SG.PST DEF.M палец(M)	‘Педру пошевелил пальцем.’		
-87	110	respeitar	SBJ	DO	TR	TR	Pedro respeit-a Miguel	PN respect-3SG.PRS PN	‘Pedro respects Miguel.’		PN уважать-3SG.PRS PN	‘Педру уважает Мигела.’		
-87	111	ter	SBJ	de	Y	SBJ_de	Pedro tem nojo de louça suj-a	PN have.3SG.PRS disgust(M) of tableware(F) dirty-F	‘Pinchas is squeamish about dirty dishes.’		PN иметь.3SG.PRS отвращение(M) от посуда(F) грязный-F	‘Педру брезгует грязной посудой’		
-87	112	estar satisfeito	SBJ	com	Y	SBJ_com	Pedro está satisfeit-o com seu filho	PN COP.3SG.PRS pleased-M with POSS.3.M son(M)	‘Pedro is pleased with his son.’	Non-verbal predicate.	PN COP.3SG.PRS доволен-M с POSS.3.M сын(M)	‘Педру доволен своим сыном.’		
-87	113	apaixonar-se	SBJ	por	Y	SBJ_por	Pedro se apaixon-ou por Maria	PN REFL fall.in.love-3SG.PST by PN	‘Pedro fell in love with Maria.’		PN REFL влюбиться-3SG.PST посредством PN	‘Педру влюбился в Марию.’		
-87	114	confiar	SBJ	em	Y	SBJ_em	Pedro confi-a em Maria	PN trust-3SG.PRS in PN	‘Pedro trusts Maria.’		PN доверять-3SG.PRS в PN	‘Педру доверяет Марии.’		
-87	115	estar triste	SBJ	por	Y	SBJ_por	Pedro está triste por sua mãe	PN COP.3SG.PRS sad by POSS.3.F mother(F)	‘Pedro feels sorry for his mother.’	Non-verbal predicate.	PN COP.3SG.PRS расстроеный посредством POSS.3.F mother(F)	‘Педру жалеет свою мать.’		
-87	116	invejar	SBJ	DO	TR	TR	Pedro invej-a Miguel	PN envy-3SG.PRS PN	‘Pedro envies Miguel.’		PN завидовать-3SG.PRS PN	‘Педру завидует Мигелу.’		
-87	117	estar bravo	SBJ	com	Y	SBJ_com	Pedro está brav-o com Miguel	PN COP.3SG.PRS angry-M with PN	‘Pedro is angry with Miguel.’	Non-verbal predicate.	PN COP.3SG.PRS злой-M с PN	‘Педру злится на Мигела.’		
-87	118	ficar surpreso	SBJ	com	Y	SBJ_com	Pedro fic-ou surpres-o com ess-e presente	PN get-3SG.PST surprised-M with DEM.MED-M gift(M)	‘Pedro got surprised at this gift.’		PN оказаться-3SG.PST удивлённый-M с DEM.MED-M подарок(M)	‘Педру удивился этому подарку.’		
-87	119	adorar	SBJ	DO	TR	TR	Pedro ador-a chá	PN love-3SG.PRS tea(M)	‘Pedro loves tea.’		PN любить-3SG.PRS чай(M)	‘Педру любит чай.’		
-87	120	desfrutar	SBJ	de	Y	SBJ_de	Pedro desfrut-a de um chá quente	PN enjoy-3SG.PRS of INDF tea(M) hot	‘Pedro is enjoying a hot tea.’		PN наслаждаться-3SG.PRS от INDF чай(M) горячий	‘Педру наслаждается горячим чаем.’		
-87	121	querer	SBJ	DO	TR	TR	Pedro quer um nov-o celular	PN want:3SG.PRS INDF new-M mobile.phone(M)	‘Pedro wants a new mobile phone.’		PN хотеть:3SG.PRS INDF новый-M мобильный.телефон(M)	‘Педру хочет новый мобильник.’		
-87	122	estar bravo	SBJ	com	Y	SBJ_com	Pedro está brav-o com Miguel	PN COP.3SG.PRS angry-M with PN	‘Pedro holds a grudge against Miguel.’	Non-verbal predicate.	PN COP.3SG.PRS злой-M с PN	‘Педру сердится на Мигела.’		
-87	123	ofender-se	SBJ	com	Y	SBJ_com	Pedro se ofend-eu com Miguel	PN REFL offend-3SG.PST with PN	‘Pedro got offended at Miguel.’		PN REFL обидеть-3SG.PST с PN	‘Педру обиделся на Мигела.’		
-87	124	ficar chateado	com	SBJ	X	com_SBJ	Miguel fic-ou muito chate-ad-o com Pedro	PN get-3SG.PST very annoy-PTCP-M with PN	‘Miguel got very upset with Pedro.’		PN оказаться-3SG.PST очень огорчённый-PTCP-M с PN	‘Педру очень огорчил Мигела.’		
-87	125	ficar impressionado	SBJ	com	Y	SBJ_com	Pedro fic-ou impression-ad-o com ess-a cidade	PN get-3SG.PST impress-PTCP-M with DEM.MED-F city(F)	‘Pedro was very impressed by this city.’		PN оказаться-3SG.PST впечатлить-PTCP-M с DEM.MED-F город(F)	‘Педру поразился этому городу.’		
-87	126	desprezar	SBJ	DO	TR	TR	Pedro desprez-a Miguel	PN despise-3SG.PRS PN	‘Pedro despises Miguel.’		PN презирать-3SG.PRS PN	‘Педру презирает Мигела.’		
-87	127	decepcionar-se	SBJ	com	Y	SBJ_com	Pedro se decepcion-ou com seu filho	PN REFL get.upset-3SG.PST with POSS.3.M son(M)	‘Pedro got upset with his son.’		PN REFL огорчиться-3SG.PST с POSS.3.M сын(M)	‘Педру огорчился из-за своего сына.’		
-87	128	irritar-se	SBJ	com	Y	SBJ_com	Pedro se irrit-a com sua filha	PN REFL be.irritated-3SG.PRS with POSS.3.F daughter(F)	‘Pedro is getting irritated with his daughter.’		PN REFL раздражаться-3SG.PRS с POSS.3.F дочь(F)	‘Педру раздражается на свою дочь.’		
-87	129	simpatizar	SBJ	com	Y	SBJ_com	Pedro simpatiz-a com Miguel	PN be.fond-3SG.PRS with PN	‘Pedro is fond of Miguel.’		PN симпатизировать-3SG.PRS с PN	‘Педру симпатизирует Мигелу.’		
-87	130	ter vergonha	SBJ	de	Y	SBJ_de	Pedro tem vergonha de sua altura	PN have.3SG.PRS shame(F) of POSS.3.F height(F)	‘Pedro is shy about his height.’		PN иметь.3SG.PRS стыд(F) от POSS.3.F высота(F)	‘Педру стесняется своего роста.’		
+87	105	matar	SBJ	DO	TR	TR	Pedro mat-ou Miguel	PN(M) kill-3SG.PST PN(M)	‘Pedro killed Miguel.’		PN(M) убить-3SG.PST PN(M)	‘Педру убил Мигела.’		
+87	106	bater	SBJ	em	Y	SBJ_em	Pedro bat-eu em Miguel	PN(M) hit-3SG.PST in PN(M)	‘Pedro hit Miguel.’		PN(M) ударить-3SG.PST в PN(M)	‘Педру ударил Мигела.’		
+87	107	beijar	SBJ	DO	TR	TR	Pedro beij-ou Maria	PN(M) kiss-3SG.PST PN(F)	‘Pedro kissed Maria.’		PN(M) целовать-3SG.PST PN(F)	‘Педру поцеловал Марию.’		
+87	108	ler	SBJ	DO	TR	TR	Pedro l-eu um livro interessante	PN(M) read-3SG.PST INDF book(M) interesting	‘Pedro read an interesting book.’		PN(M) читать-3SG.PST INDF книга(M) интересный	‘Педру прочитал интересную книгу.’		
+87	109	mover	SBJ	DO	TR	TR	Pedro mov-eu o dedo	PN(M) move-3SG.PST DEF.M finger(M)	‘Pedro moved the finger.’		PN(M) двигать-3SG.PST DEF.M палец(M)	‘Педру пошевелил пальцем.’		
+87	110	respeitar	SBJ	DO	TR	TR	Pedro respeit-a Miguel	PN(M) respect-3SG.PRS PN(M)	‘Pedro respects Miguel.’		PN(M) уважать-3SG.PRS PN(M)	‘Педру уважает Мигела.’		
+87	111	ter nojo	SBJ	de	Y	SBJ_de	Pedro tem nojo de louça suj-a	PN(M) have.3SG.PRS disgust(M) of tableware(F) dirty-F	‘Pinchas is squeamish about dirty dishes.’		PN(M) иметь.3SG.PRS отвращение(M) от посуда(F) грязный-F	‘Педру брезгует грязной посудой’		
+87	112	estar satisfeito	SBJ	com	Y	SBJ_com	Pedro está satisfeit-o com seu filho	PN(M) COP_PROG.3SG.PRS pleased-M with POSS.3.M son(M)	‘Pedro is pleased with his son.’	Non-verbal predicate.	PN(M) COP_PROG.3SG.PRS доволен-M с POSS.3.M сын(M)	‘Педру доволен своим сыном.’		
+87	113	apaixonar-se	SBJ	por	Y	SBJ_por	Pedro se apaixon-ou por Maria	PN(M) REFL fall_in_love-3SG.PST by PN(F)	‘Pedro fell in love with Maria.’		PN(M) REFL влюбиться-3SG.PST посредством PN(F)	‘Педру влюбился в Марию.’		
+87	114	confiar	SBJ	em	Y	SBJ_em	Pedro confi-a em Maria	PN(M) trust-3SG.PRS in PN(F)	‘Pedro trusts Maria.’		PN(M) доверять-3SG.PRS в PN(F)	‘Педру доверяет Марии.’		
+87	115	estar triste	SBJ	por	Y	SBJ_por	Pedro está triste por sua mãe	PN(M) COP_PROG.3SG.PRS sad by POSS.3.F mother(F)	‘Pedro feels sorry for his mother.’	Non-verbal predicate.	PN(M) COP_PROG.3SG.PRS расстроеный посредством POSS.3.F мать(F)	‘Педру жалеет свою мать.’		
+87	116	invejar	SBJ	DO	TR	TR	Pedro invej-a Miguel	PN(M) envy-3SG.PRS PN(M)	‘Pedro envies Miguel.’		PN(M) завидовать-3SG.PRS PN(M)	‘Педру завидует Мигелу.’		
+87	117	estar bravo	SBJ	com	Y	SBJ_com	Pedro está brav-o com Miguel	PN(M) COP_PROG.3SG.PRS angry-M with PN(M)	‘Pedro is angry with Miguel.’	Non-verbal predicate.	PN(M) COP_PROG.3SG.PRS злой-M с PN(M)	‘Педру злится на Мигела.’		
+87	118	ficar surpreso	SBJ	com	Y	SBJ_com	Pedro fic-ou surpres-o com ess-e presente	PN(M) get-3SG.PST surprised-M with DEM.MED-M gift(M)	‘Pedro got surprised at this gift.’		PN(M) стать-3SG.PST удивлённый-M с DEM.MED-M подарок(M)	‘Педру удивился этому подарку.’		
+87	119	adorar	SBJ	DO	TR	TR	Pedro ador-a chá	PN(M) love-3SG.PRS tea(M)	‘Pedro loves tea.’		PN(M) любить-3SG.PRS чай(M)	‘Педру любит чай.’		
+87	120	desfrutar	SBJ	de	Y	SBJ_de	Pedro desfrut-a de um chá quente	PN(M) enjoy-3SG.PRS of INDF tea(M) hot	‘Pedro is enjoying a hot tea.’		PN(M) наслаждаться-3SG.PRS от INDF чай(M) горячий	‘Педру наслаждается горячим чаем.’		
+87	121	querer	SBJ	DO	TR	TR	Pedro quer um nov-o celular	PN(M) want.3SG.PRS INDF new-M mobile_phone(M)	‘Pedro wants a new mobile phone.’		PN(M) хотеть.3SG.PRS INDF новый-M мобильный_телефон(M)	‘Педру хочет новый мобильник.’		
+87	122	estar bravo	SBJ	com	Y	SBJ_com	Pedro está brav-o com Miguel	PN(M) COP_PROG.3SG.PRS angry-M with PN(M)	‘Pedro holds a grudge against Miguel.’	Non-verbal predicate.	PN(M) COP_PROG.3SG.PRS злой-M с PN(M)	‘Педру сердится на Мигела.’		
+87	123	ofender-se	SBJ	com	Y	SBJ_com	Pedro se ofend-eu com Miguel	PN(M) REFL offend-3SG.PST with PN(M)	‘Pedro got offended at Miguel.’		PN(M) REFL обидеть-3SG.PST с PN(M)	‘Педру обиделся на Мигела.’		
+87	124	ficar chateado	com	SBJ	X	com_SBJ	Miguel fic-ou muito chate-ad-o com Pedro	PN(M) get-3SG.PST very annoy-PTCP-M with PN(M)	‘Miguel got very upset with Pedro.’		PN(M) стать-3SG.PST очень огорчённый-PTCP-M с PN(M)	‘Педру очень огорчил Мигела.’		
+87	125	ficar impressionado	SBJ	com	Y	SBJ_com	Pedro fic-ou impression-ad-o com ess-a cidade	PN(M) get-3SG.PST impress-PTCP-M with DEM.MED-F city(F)	‘Pedro was very impressed by this city.’		PN(M) стать-3SG.PST впечатлить-PTCP-M с DEM.MED-F город(F)	‘Педру поразился этому городу.’		
+87	126	desprezar	SBJ	DO	TR	TR	Pedro desprez-a Miguel	PN(M) despise-3SG.PRS PN(M)	‘Pedro despises Miguel.’		PN(M) презирать-3SG.PRS PN(M)	‘Педру презирает Мигела.’		
+87	127	decepcionar-se	SBJ	com	Y	SBJ_com	Pedro se decepcion-ou com seu filho	PN(M) REFL get_upset-3SG.PST with POSS.3.M son(M)	‘Pedro got upset with his son.’		PN(M) REFL огорчиться-3SG.PST с POSS.3.M сын(M)	‘Педру огорчился из-за своего сына.’		
+87	128	irritar-se	SBJ	com	Y	SBJ_com	Pedro se irrit-a com sua filha	PN(M) REFL be_irritated-3SG.PRS with POSS.3.F daughter(F)	‘Pedro is getting irritated with his daughter.’		PN(M) REFL раздражаться-3SG.PRS с POSS.3.F дочь(F)	‘Педру раздражается на свою дочь.’		
+87	129	simpatizar	SBJ	com	Y	SBJ_com	Pedro simpatiz-a com Miguel	PN(M) be_fond-3SG.PRS with PN(M)	‘Pedro is fond of Miguel.’		PN(M) симпатизировать-3SG.PRS с PN(M)	‘Педру симпатизирует Мигелу.’		
+87	130	ter vergonha	SBJ	de	Y	SBJ_de	Pedro tem vergonha de sua altura	PN(M) have.3SG.PRS shame(F) of POSS.3.F height(F)	‘Pedro is shy about his height.’		PN(M) иметь.3SG.PRS стыд(F) от POSS.3.F высота(F)	‘Педру стесняется своего роста.’		
 1	1	boletʹ	uGEN	NOM	X	uGEN_NOM	u Pet-i bol-it golov-a	at PN(M)-GEN.SG ache(IPFV)-PRS.3SG head(F)-NOM.SG	‘Petja has a headache.’		у PN(M)-GEN.SG болеть(IPFV)-PRS.3SG голова(F)-NOM.SG	‘У Пети болит голова.’	болеть	у Пет-и бол-ит голов-а
 1	2	boletʹ	NOM	INS	Y	NOM_INS	Pet-ja bole-et gripp-om	PN(M)-NOM.SG be_ill(IPFV)-PRS.3SG flu(M)-INS.SG	‘Petja has the flu.’		PN(M)-NOM.SG болеть(IPFV)-PRS.3SG грипп(M)-INS.SG	‘Петя болеет гриппом.’	болеть	Пет-я боле-ет грипп-ом
 1	3	bojatʹsja	NOM	GEN	Y	NOM_GEN	Pet-ja bo-it-sja sobak-i	PN(M)-NOM.SG be_afraid(IPFV)-PRS.3SG-REFL dog(F)-GEN.SG	‘Petja is afraid of the dog.’		PN(M)-NOM.SG бояться(IPFV)-PRS.3SG-REFL собака(F)-GEN.SG	‘Петя боится собаки.’	бояться	Пет-я бо-ит-ся собак-и
