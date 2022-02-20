@@ -30,13 +30,13 @@ Portuguese has no morphological case on nouns. Personal pronouns have four case-
 
 ### Differential object marking
 
-Traditionally, Portuguese has been described as having Differential object marking in certain contexts, mostly confined to fossilized expressions. Modern Brazilian Portuguese, however, rarely features differential object marking, and almost never in the spoken language. In the data collected, there are no cases of differential object marking.
+Traditionally, Portuguese has been described as having differential object marking in certain contexts, mostly confined to fossilized expressions. Modern Brazilian Portuguese, however, rarely features differential object marking, and it is almost non-existent in the spoken language. In the data collected, there are no cases of differential object marking.
 
 The differential object marking, inasmuch as it is possible in Portuguese, is realized by means of the preposition *a* before the direct object. Worth noting is that in Brazilian Portuguese, the usage of this preposition is generally less frequent these days than in the past, and that in the data collected, it occurs only twice, where one coccurrence is a fossilized expression.
 
 ### Copulae *ser* and *estar*
 
-As most other languages of Iberia (Basque as spoken in Spain, Catalan, Spanish, and others) Portuguese features two copula verbs, viz. *ser* and *estar* (glossed as \COP_HAB and \COP_PROG respectively). The verb *ser* is generally used to describe inherent, permanent, and habitual characteristics of a subject, while *estar* is used to encode temporary characteristics. These copulae can be contrasted, cf. (1) and (2):
+As most other languages of Iberia (Basque as spoken in Spain, Catalan, Spanish, and others) Portuguese features two copula verbs, viz. *ser* and *estar* (glossed as COP\_HAB and COP\_PROG respectively). The verb *ser* is generally used to describe inherent, permanent, and habitual characteristics of a subject, while *estar* is used to encode temporary characteristics. These copulae can be contrasted, cf. (1) and (2):
 
 ```
 (1)	 Pedro  é                louc-o
