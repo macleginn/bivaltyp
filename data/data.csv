@@ -519,6 +519,136 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 76	128	раздражаться	ləbba +sarəx	BARE	men	XY	BARE_men	ləbb=ət sava +srəx-lə mən navəgta	heart(M)=REL old.M be_mad.PST-LS.3M from granddaughter(F)	‘The oldman is irritated with his daughter.’		сердце(M)=REL старый.M быть_безумным.PST-LS.3M от внучка(F)	‘Старик огорчился из-за внучки.’		
 76	129	симпатизировать	+avər gu ləbba	BARE	SBJ	X	BARE_SBJ	a naša +raba gu ləbb-i +vir=əl	DEM1.SG person(M) very in heart(M)-P.1SG enter.RES.M=3M	‘I am fond of this person.’		DEM1.SG человек(M) очень в сердце(M)-P.1SG войти.RES.M=3M	‘‎Я очень симпатизирую этому человеку.’		
 76	130	стесняться	naxəp	SBJ	men	Y	SBJ_men	+avvo yala bənxap=əl mən d-a kom-u	DEM3.M boy(M) be_ashamed.PROG=3M from OBL-DEM1.SG size(M)-P.3M	‘This boy is shy about his height.’		DEM3.M мальчик(M) стыдиться.PROG=3M от OBL-DEM1.SG размер(M)-P.3M	‘Этот парень стесняется своего роста.’		
+90	1	болеть-1	fer mal	a	SBJ	X	a_SBJ	al Pere li fa mal el cap	to.DEF.SG.M PN(M) 3SG.DAT pain(M) DEF.SG.M head(M)	‘Pere has a headache.’					
+90	2	болеть-2	tenir	SBJ	DO	TR	TR	en Pere té la grip	DEF.SG.M PN(M) have.3SG.PRS.IND DEF.SG.F flu(F) 	‘Pere has the flu.’					
+90	3	бояться	tenir por	SBJ	de	Y	SBJ_de	en Pere té por del gos	DEF.SG.M PN(M) have.3SG.PRS.IND fear(F) of.DEF.SG.M dog(M)	‘Pere is afraid of the dog.’					
+90	4	бросить	llançar	SBJ	DO	TR	TR	en Pere va llanç-ar un-a pedra 	DEF.SG.M PN(M) go.3SG.PRS.IND throw-INF INDF-SG.F stone(F)	‘Pere threw a stone.’					
+90	5	быть достаточно	tenir	*	*	*		ara en Pere té prou diner-s	now DEF.SG.M PN(M) have.3SG.PRS.IND enough money(M-PL)	‘Now Pere has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
+90	6	быть похожим	assemblar-se	SBJ	a	Y	SBJ_a	en Pere s'assembl-a al Marc	DEF.SG.M PN(M) REFL.3SG-look.like-3SG.PRS.IND to.DEF.SG.M PN(M)	‘Pere resembles Marc.’					
+90	7	верить	creure	SBJ	en	Y	SBJ_en	en Pere creu en Marc	DEF.SG.M PN(M) believe.3SG.PRS.IND in PN(M)	‘Pere believes Marc.’	QUESTION				
+90	8	взять	agafar	SBJ	DO	TR	TR	en Pere va agaf-ar un llibre	DEF.SG.M PN(M) go.3SG.PRS.IND take-INF INDF.SG.M book(M)	‘Pere took a book.’					
+90	9	видеть	veure	SBJ	DO	TR	TR	en Pere veu un-a casa	DEF.SG.M PN(M) see.3SG.PRS.IND INDF-SG.F house(F)	‘Pere sees a house.’					
+90	10	влиять	afectar	SBJ	DO	TR	TR	l'edat afect-a a la memòria	DEF.SG.F-age(F) influence-3SG.PRS.IND to DEF.SG.F memory(F)	‘Age influences memory.’					
+90	11	встречаться	trobar-se	SBJ	a	Y	SBJ_a	en Pere es va trob-ar al Marc	DEF.SG.M PN(M) REFL.3SG go.3SG.PRS.IND meet-INF to.DEF.SG.M PN(M)	‘Pere ran into Marc.’					
+90	12	входить	entrar	SBJ	a	Y	SBJ_a	en Pere va entr-ar a la casa	DEF.SG.M PN(M) go.3SG.PRS.IND enter-INF to DEF.SG.F house(F)	‘Pere entered the house.’					
+90	13	выиграть	apallissar	SBJ	DO	TR	TR	en Pere va apalliss-ar al Marc	DEF.SG.M PN(M) go.3SG.PRS.IND win-INF to.DEF.SG.M PN(M)	‘Pere beat Marc.’					
+90	14	выходить	sortir	SBJ	de	Y	SBJ_de	en Pere va sort-ir de la casa	DEF.SG.M PN(M) go.3SG.PRS.IND exit-INF of DEF.SG.F house(F)	‘Pere went out of the house.’					
+90	15	гнать	pasturar	SBJ	DO	TR	TR	en Pere està pastur-ant un-a vaca	DEF.SG.M PN(M) be.3SG.PRS.IND lead-GER INDF-SG.F cow(F)	‘Pere is driving the cow.’					
+90	16	гнуть	doblegar	SBJ	DO	TR	TR	en Pere va dobleg-ar la branca	DEF.SG.M PN(M) go.3SG.PRS.IND bend-INF DEF.SG.F branch(F)	‘Pere bent the branch.’					
+90	17	говорить	dir	SBJ	a	Y	SBJ_a	en Pere va dir al Marc…	DEF.SG.M PN(M) go.3SG.PRS.IND say.INF to.DEF.SG.M PN(M)	‘Pere told Marc: …’					
+90	18	держать	agafar	SBJ	DO	TR	TR	en Pere està agaf-ant un llibre	DEF.SG.M PN(M) be.3SG.PRS.IND hold-GER INDF.SG.M book(M)	‘Pere is holding a book.’					
+90	19	догнать	atrapar	SBJ	DO	TR	TR	en Pere va atrap-ar a la Maria	DEF.SG.M PN(M) go.3SG.PRS.IND catch-IND to DEF.SG.F PN(F)	‘Pere caught up with Maria.’					
+90	20	доить	munyir	SBJ	DO	TR	TR	en Pere va muny-ir la vaca	DEF.SG.M PN(M) go.3SG.PRS.IND milk-INF DEF.SG.F cow(F)	‘Pere milked the cow.’					
+90	21	достичь	arribar	SBJ	a	Y	SBJ_a	en Pere va arrib-ar al banc	DEF.SG.M PN(M) go.3SG.PRS.IND reach-INF to.DEF.SG.M bank(M)	‘Pere reached the bank.’					
+90	22	дотронуться	tocar	SBJ	DO	TR	TR	en Pere va toc-ar la paret	DEF.SG.M PN(M) go.3SG.PRS.IND touch-INF DEF.SG.F wall(F)	‘Pere touched the wall.’					
+90	23	драться	barallar-se	SBJ	amb	Y	SBJ_amb	en Pere s'està barall-ant amb en Marc	DEF.SG.M PN(M) REFL.3SG-be.3SG.PRS.IND fight-GER with DEF.SG.M PN(M)	‘Pere is fighting with Marc.’					
+90	24	дружить	ser amic	*	*	*		en Pere és amic de la Maria	DEF.SG.M PN(M) be.3SG.PRS.IND friend(M) of DEF.SG.F PN(F)	‘Pere is friends with Maria.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+90	25	думать	pensar	SBJ	en	Y	SBJ_en	en Pere està pens-ant en Marc	DEF.SG.M PN(M) be.3SG.PRS.IND think-GER in PN(M)	‘Pere is thinking about Marc.’	QUESTION				
+90	26	есть	menjar	SBJ	DO	TR	TR	en Pere va menj-ar un-a poma	DEF.SG.M PN(M) go.3SG.PRS.IND eat-INF INDF-SG.F apple(F)	‘Pere ate an apple.’					
+90	27	жарить	fregir	SBJ	DO	TR	TR	en Pere va freg-ir peix	DEF.SG.M PN(M) go.3SG.PRS.IND fry-INF fish(M)	‘Pere fried the fish.’					
+90	28	ждать	esperar	SBJ	DO	TR	TR	en Pere està esper-ant al Marc	DEF.SG.M PN(M) be.3SG.PRS.IND wait-GER to.DEF.SG.M PN(M)	‘Pere is waiting for Marc.’					
+90	29	забывать	oblidar	SBJ	DO	TR	TR	en Pere va oblid-ar l'altre camí	DEF.SG.M PN(M) go.3SG.PRS.IND forget-INF DEF.SG.M-other.SG.M road(M)	‘Pere forgot (about) the other road.’					
+90	30	зависеть	variar	SBJ	amb	Y	SBJ_amb	la memòria vari-a amb l'edat	DEF.SG.F memory(F) depend-3SG.PRS.IND with DEF.SG.F-age(F)	‘Memory depends on age.’					
+90	31	звать	trucar	SBJ	a	Y	SBJ_a	en Pere va truc-ar al Marc	DEF.SG.M PN(M) go.3SG.PRS.IND call-INF to.DEF.SG.M PN(M)	‘Pere called Marc.’					
+90	32	знакомиться	conèixer	SBJ	DO	TR	TR	en Pere va conèix-er al Marc fa un any	DEF.SG.M PN(M) go.3SG.PRS.IND know-INF to.DEF.SG.M PN(M) ago INDF.SG.M year(M)	‘Pere got to know Marc a year ago.’					
+90	33	знать	conèixer	SBJ	DO	TR	TR	en Pere coneix al Marc	DEF.SG.M PN(M) know.3SG.PRS.IND to.DEF.SG.M PN(M)	‘Pere knows Marc.’					
+90	34	играть	tocar	SBJ	DO	TR	TR	en Pere està toc-ant la guitarra	DEF.SG.M PN(M) be.3SG.PRS.IND play-GER DEF.SG.F guitar(F)	‘Pere is playing the guitar.’					
+90	35	избегать	evitar	SBJ	DO	TR	TR	en Pere evit-a al Marc	DEF.SG.M PN(M) avoid-3SG.PRS.IND to.DEF.SG.M PN(M)	‘Pere avoids Marc.’					
+90	36	изготовить	fer	SBJ	DO	TR	TR	en Pere va fer un-a ratonera	DEF.SG.M PN(M) go.3SG.PRS.IND make-INF INDF-SG.F mousetrap(F)	‘Pere made a mousetrap.’					
+90	37	издеваться	burlar-se	SBJ	de	Y	SBJ_de	en Pere es burl-a del Marc	DEF.SG.M PN(M) REFL.3SG mock-3SG.PRS.IND of.DEF.SG.M PN(M)	‘Pere is making fun of Marc.’					
+90	38	иметь	tenir	SBJ	DO	TR	TR	en Pere té un cotxe	DEF.SG.M PN(M) have.3SG.PRS.IND INDF.SG.M car(M)	‘Pere has a car.’					
+90	39	искать	buscar	SBJ	DO	TR	TR	en Pere està busc-ant les seves clau-s	DEF.SG.M PN(M) be.3SG.PRS.IND seek-GER DEF.PL.F POSS.3PL.F key.(F)-PL	‘Pere is looking for his keys.’					
+90	40	красить	pintar	SBJ	DO	TR	TR	en Pere va pint-ar la tanca	DEF.SG.M PN(M) go.3SG.PRS.IND paint-INF DEF.SG.F fence(F)	‘Pere painted the fence.’					
+90	41	кусать	mossegar 	SBJ	DO	TR	TR	un gos va mosseg-ar al Pere	INDF.SG.M dog(M) go.3SG.PRS.IND bite-INF to.DEF.SG.M PN(M)	‘A dog bit Pere.’					
+90	42	лишаться	perdre	SBJ	DO	TR	TR	en Pere va perdre la seva casa	DEF.SG.M PN(M) go.3SG.PRS.IND loose.INF DEF.SG.F. POSS.3SG.F house(F)	‘Pere lost his house.’					
+90	43	ловить	intentar atrapar	SBJ	DO	TR	TR	en Pere està intent-ant atrap-ar el gat	DEF.SG.M PN(M) be.3SG.PRS.IND try-GER catch-INF DEF.SG.M cat(M)	‘Pere is trying to catch the cat.’					
+90	44	ломать	trencar	SBJ	DO	TR	TR	en Pere va trenc-ar un pal	DEF.SG.M PN(M) go.3SG.PRS.IND break-INF INDF.SG.M stick(M)	‘Pere broke a stick.’					
+90	45	льстить	afalagar	SBJ	amb	Y	SBJ_amb	en Pere està afalag-ant amb la Maria	DEF.SG.M PN(M) be.3SG.PRS.IND flatter-GER with PN(F)	‘Pere is flattering Maria.’					
+90	46	любить-1	estimar	SBJ	DO	TR	TR	en Pere estim-a a la Maria	DEF.SG.M PN(M) love-3SG.PRS.IND to DEF.SG.F PN(F)	‘Pere loves Maria.’					
+90	47	махать	agitar 	SBJ	DO	TR	TR	en Pere agit-a un mocador	DEF.SG.M PN(M) wave-3SG.PRS.IND INDF.SG.M handkerchief(M)	‘Pere is waving a handkerchief.’					
+90	48	мечтать	somiar	SBJ	en	Y	SBJ_en	en Pere està somi-ant en un nou cotxe	DEF.SG.M PN(M) be.3SG.PRS.IND dream-GER in INDF.SG.M new(M)SG car(M)	‘Pere is dreaming of a new car.’					
+90	49	мыть	rentar	SBJ	DO	TR	TR	en Pere rent-ava la copa	DEF.SG.M PN(M) wash-3SG.IPFV.IND DEF.SG.F cup(F)	‘Pere washed the cup.’					
+90	50	надевать	posar-se	SBJ	DO	TR	TR	en Pere es pos-a els seu-s pantalon-s	DEF.SG.M PN(M) REFL.3SG put.on-3SG.PRS.IND DEF.PL.M POSS.3PL.M trousers-PL.M	‘Pere put on his trousers.’					
+90	51	называться	dir-se	SBJ	DO	TR	TR	aquest-a eina es diu brúixola	this.SG-F instrument(F) REL.3SG say.3SG.PRS.IND compass(F)	‘This tool is called a compass.’	QUESTION				
+90	52	наказывать	castigar	SBJ	DO	TR	TR	en Pere va castig-ar el seu fill	DEF.SG.M PN(M) go.3SG.PRS.IND punish-INF DEF.SG.M POSS.3SG.M son(M)	‘Pere punished his son.’					
+90	53	напасть	atacar	SBJ	DO	TR	TR	un os va atac-ar a un pescador	INDF.SG.M bear(M) go.3SG.PRS.IND attack-INF to INDF.SG.M ficherman(M)	‘A bear attacked a fisherman.’					
+90	54	наполняться	estar ple	SBJ	de	Y	SBJ_de	la galleda est-ava plena d'aigua	DEF.SG.F bucket(F) be-3SG.IPFV.IND full.SG.F of-water(F)	‘The bucket filled with water.’	Non-verbal predicate.				
+90	55	находить	trobar	SBJ	DO	TR	TR	en Pere va trob-ar les seves clau-s	DEF.SG.M PN(M) go.3SG.PRS.IND find-INF DEF.PL.F POSS.3PL.F key(F)-PL	‘Pere found his keys.’					
+90	56	недоставать	faltar	a	SBJ	X	a_SBJ	al Pere li falt-a un euro	to.DEF.SG.M PN(M) 3SG.DAT lack-3SG.PRS.IND INDF.SG.M euro(M)	‘Pere is short one euro.’					
+90	57	ненавидеть	odiar	SBJ	DO	TR	TR	en Pere odi-a al Marc	DEF.SG.M PN(M) hate-3SG.PRS.IND to.DEF.SG.M PN(M)	‘Pere hates Marc.’					
+90	58	нравиться	agradar	a	SBJ	X	a_SBJ	en Pere li agrad-a aquesta samarreta	DEF.SG.M PN(M) 3SG.DAT like-3SG.PRS.IND this.SG-F shirt(F)	‘Pere likes this shirt.’	QUESTION				
+90	59	нуждаться	necessitar	SBJ	DO	TR	TR	en Pere necessit-a diner-s	DEF.SG.M PN(M) need-3SG.PRS.IND money(M)-PL	‘Pere needs money.’					
+90	60	окружать	rodejar	SBJ	DO	TR	TR	les paret-s envolt-en la ciutat	DEF.PL.F wall(F)-PL surround-3PL.PRS.IND DEF.SG.F city(F)	‘Walls surround the city.’					
+90	61	оставаться	quedar	a	SBJ	X	a_SBJ	al Pere li qued-en deu euros	to.DEF.SG.M PN(M) DAT.3SG remain-3PL.PRS.IND deu euro(M).PL	‘Pere has 10 euros left.’					
+90	62	отвечать	contestar	SBJ	a	Y	SBJ_a	en Pere li va contest-ar al professor	DEF.SG.M PN(M) DAT.3SG go.3SG.PRS.IND answer-INF to.DEF.SG.M teacher(M)	‘Pere answered the teacher.’					
+90	63	открывать	obrir	SBJ	DO	TR	TR	en Pere va obrir un-a llauna	DEF.SG.M PN(M) go.3SG.PRS.IND answer-INF INDF-SG.F can(F)	‘Pere opened a can.’					
+90	64	отличаться	ser diferent	SBJ	que	Y	SBJ_que	no, la meva camisa és diferent que la teva	no DEF.SG.F POSS.3SG.F shirt(F) be.3SG.PRS.IND different that DEF.SG.F POSS.2SG.F	‘No, my shirt is different from yours.’	Non-verbal predicate.				
+90	65	отстать	quedar enrere	SBJ	de	Y	SBJ_de	en Pere va qued-ar enrere del Marc	DEF.SG.M PN(M) go.3SG.PRS.IND remain-INF behind of.DEF.SG.M PN(M)	‘Pere fell behind Marc.’					
+90	66	пахать	treballar	SBJ	en	Y	SBJ_en	en Pere està treball-ant en el seu camp	DEF.SG.M PN(M) be.3SG.PRS.IND work-GER in DEF.SG.M POSS.3SG.M field(M)	‘Pere is ploughing the field.’	QUESTION				
+90	67	пахнуть	fer olor	*	*	*		les meves mans fan olor de benzina	DEF.PL.F POSS.1.PL.F hand(F)-PL make.3PL.PRS.IND smell(F) of petrol(F)	‘My hands smell of gasoline.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+90	68	пересечь	creure	SBJ	DO	TR	TR	en Pere va creu-ar la carretera	DEF.SG.M PN(M) go.3SG.PRS.IND cross-INF DEF.SG.F road(F)	‘Pere crossed the road.’					
+90	69	петь	cantar	SBJ	DO	TR	TR	en Pere va cant-ar un-a cançó bonic-a	DEF.SG.M PN(M) go.3SG.PRS.IND sing-INF INDF-SG.F song(F) beautiful(-F)	‘Pere sang a beautiful song.’					
+90	70	писать	escriure	SBJ	DO	TR	TR	en Pere va escriu-re un-a carta	DEF.SG.M PN(M) go.3SG.PRS.IND write-INF INDF-SG.F letter(F)	‘Pere wrote a letter.’					
+90	71	пить	beure	SBJ	DO	TR	TR	en Pere va beure la llet	DEF.SG.M PN(M) go.3SG.PRS.IND drink(INF) DEF.SG.F milk(F)	‘Pere drank the milk.’					
+90	72	плавить	desfer	SBJ	DO	TR	TR	en Pere va desfer un troç de plom	DEF.SG.M PN(M) go.3SG.PRS.IND melt-INF INDF.SG.M piece(M) of lead(M)	‘Pere melted a piece of lead.’					
+90	73	подходить	anar	SBJ	amb	Y	SBJ_amb	aquest cinturó em va bé amb el meu vestit	this.SG.M belt(M) me go.3SG.PRS.IND well with DEF.SG.M my dress(M)	‘This belt goes well with my dress.’.’					
+90	74	покидать	deixar	SBJ	DO	TR	TR	en Pere va deix-ar la seva ciutat nativa	DEF.SG.M PN(M) go.3SG.PRS.IND leave-INF DEF.SG.F POSS.3SG.F city(F) native(F)	‘Pere left his native city.’					
+90	75	покрывать	cobrir	SBJ	DO	TR	TR	la catifa cobreix tot el terra del pis	DEF.SG.F carpet(F) cover.3SG.PRS.IND all DEF.SG.M ground of.DEF.SG.M flat(M)	‘The carpet covers the whole floor.’					
+90	76	помнить	tenir records	SBJ	de	Y	SBJ_de	en Pere té bons record-s de la casa	DEF.SG.M PN(M) have.3SG.PRS.IND good(M)-PL memory(M)-PL of DEF.SG.F house(F)	‘Pere remembers the house well.’	QUESTION				
+90	77	помочь	ajudar	SBJ	DO	TR	TR	en Pere va ajud-ar al Marc	DEF.SG.M PN(M) go.3SG.PRS.IND help-INF to.DEF.SG.M PN(M)	‘Pere helped Marc.’					
+90	78	понимать	entendre	SBJ	DO	TR	TR	en Pere entèn francès	DEF.SG.M PN(M) understand.3SG.PRS.IND French(M)	‘Pere understands French.’					
+90	79	попасть	entrar	SBJ	dins	Y	SBJ_dins	la il·luminació va entr-ar dins la casa	DEF.SG.F lightning(F) go.3SG.PRS.IND enter-INF in DEF.SG.F house(F)	‘Lightning hit the house.’					
+90	80	порезаться	tallar-se	SBJ	amb	Y	SBJ_amb	en Pere es va tallar amb un-a navalla	DEF.SG.M PN(M) REFL.3SG go.3SG.PRS.IND cut-INF with DEF-SG.F razor(F)	‘Pere cut himself with a razor.’					
+90	81	прилипать	quedar encallat 	SBJ	a	Y	SBJ_a	el got va qued-ar encall-at a la taula	DEF.SG.M glass(M) go.3SG.PRS.IND remain-INF stick-PTCP.M to DEF.SG.F table(F)	‘The glass got stuck to the table.’					
+90	82	проиграть	perdre	SBJ	contra	Y	SBJ_contra	en Pere va perdre contra en Marc	DEF.SG.M PN(M) go.3SG.PRS.IND lose-INF towards PN(M)	‘Pere lost to Marc.’					
+90	83	радоваться	estar content	SBJ	per	Y	SBJ_per	en Pere est-ava content per la carta	DEF.SG.M PN(M) be-3SG.IPFV.IND glad(M) for DEF.SG.F letter(F)	‘Pere was glad about the letter.’	Non-verbal predicate.				
+90	84	разговаривать	parlar	SBJ	amb	Y	SBJ_amb	en Pere està parl-ant amb en Marc	DEF.SG.M PN(M) be.3SG.PRS.IND talk-GER with DEF.SG.M PN(M)	‘Pere is speaking with Marc.’					
+90	85	рожать	donar a llum	SBJ	DO	TR	TR	la Maria va don-ar a llum un fill	DEF.SG.F PN(F) go.3SG.PRS.IND give-INF to light(F) INDF.SG.M son(M)	‘Maria gave birth to a son.’					
+90	86	ронять	caure's	a	SBJ	X	a_SBJ	Al Pere se li va cau-re el got	to.DEF.SG.M PN(M) REFL.3SG DAT.3SG go.3SG.PRS.IND fall-INF DEF.SG.M glass(M)	‘Pere dropped the glass.’					
+90	87	руководить	dirigir	SBJ	DO	TR	TR	en Pere dirigeix la nostra ciutat	DEF.SG.M PN(M) command.3SG.PRS.IND DEF.SG.F POSS.1PL city(F)	‘Pere runs our town.’					
+90	88	скучать	trobar a faltar	SBJ	DO	TR	TR	en Pere trob-a a falt-ar a la Maria	DEF.SG.M PN(M) find-3SG.PRS IND to be_missing-INF to DEF.SG.F PN(F)	‘Pere misses Maria.’					
+90	89	следовать	seguir	SBJ	DO	TR	TR	en Pere segueix al Marc	DEF.SG.M PN(M) follow.3SG.PRS IND to.DEF.SG.M PN(M)	‘Pere follows Marc.’					
+90	90	слезать	baixar	SBJ	de	Y	SBJ_de	en Pere va baix-ar del cavall	DEF.SG.M PN(M) go.3SG.PRS.IND go_down-INF of.DEF.SG.M horse(M)	‘Pere got down from the horse.’					
+90	91	слушать	escoltar	SBJ	DO	TR	TR	en Pere està escolt-ant la ràdio	DEF.SG.M PN(M) be.3SG.PRS.IND listen-GER DEF.SG.F radio(F)	‘Pere is listening to radio.’					
+90	92	слушаться	obeir	SBJ	DO	TR	TR	en Pere sempre obeeix a la se-va mare	DEF.SG.M PN(M) always obey.3SG.PRS.IND to DEF.SG.F POSS.3-SG.F mother(F)	‘Pere always obeys his mother.’					
+90	93	слышать	escoltar	SBJ	DO	TR	TR	en Pere escolt-a música	DEF.SG.M PN(M) hear-3SG.PRS.IND music(F)	‘Pere hears the music.’					
+90	94	смешаться	barrejar	SBJ	amb	Y	SBJ_amb	va barrej-ar la llet amb la mel	go.3SG.PRS.IND mix-INF DEF.SG.F milk(F) with DEF.SG.F honey(F)	‘The honey got mixed with the milk.’					
+90	95	смотреть	mirar	SBJ	DO	TR	TR	en Pere està mir-ant als núvol-s	DEF.SG.M PN(M) be.3SG.PRS.IND look-GER to.DEF.PL.M cloud(M)-PL	‘Pere is looking at the clouds.’					
+90	96	снимать	treure's	SBJ	DO	TR	TR	en Pere es va treu-re la camisa	DEF.SG.M PN(M) REFL.3SG go.3SG.PRS.IND remove-INF DEF.SG.F shirt(F)	‘Pere took off his shirt.’					
+90	97	сниться	somiar	SBJ	amb	Y	SBJ_amb	en Pere somi-a amb la Maria	DEF.SG.M PN(M) dream-3SG.PRS.IND with DEF.SG.F PN(F)	‘Pere dreams about Maria.’					
+90	98	соглашаться	estar d’acord	SBJ	amb	Y	SBJ_amb	en Pere est-ava d'acord amb la Maria	DEF.SG.M PN(M) be-3SG.IPFV.IND in_accord with DEF.SG.F PN(F)	‘Pere agreed with Maria.’					
+90	99	ссориться	tenir una baralla	SBJ	amb	Y	SBJ_amb	en Pere va ten-ir un-a barall-a amb la Maria	DEF.SG.M PN(M) go.3SG.PRS.IND have-INF INDF-SG.F quarrel-(F) with DEF.SG.F PN(F)	‘Pere had a quarrel with Maria.’					
+90	100	стоить	costar	SBJ	DO	TR	TR	aquest-a tassa cost-a un euro	this-SG.F cup(F) cost-3SG.PRS.IND un euro(M)	‘This cup costs 1 euro.’					
+90	101	стрелять	disparar	SBJ	DO	TR	TR	en Pere va dispar-ar a l'ocell	DEF.SG.M PN(M) go.3SG.PRS.IND shoot-INF to DEF.SG.M-bird(M)	‘Pere shot at the bird.’					
+90	102	сыпать	abocar	SBJ	DO	TR	TR	en Pere va aboc-ar el sucre a la tassa	DEF.SG.M PN(M) go.3SG.PRS.IND pour-INF DEF.SG.M sugar(M) to DEF.SG.F cup(F)	‘Pere poured the sugar (into the cup).’					
+90	103	терять	perdre	SBJ	DO	TR	TR	en Pere va perd-re les claus	DEF.SG.M PN(M) go.3SG.PRS.IND lose-INF DEF.PL.F key(F)	‘Pere lost his keys.’					
+90	104	тонуть	enfonsar-se	SBJ	a	Y	SBJ_a	el tronc es va enfons-ar a l'aigua	DEF.SG.M branch(M) REFL.3SG go.3SG.PRS.IND sink-INF to DEF.SG.F-water(F)	‘The log sank in the water.’					
+90	105	убивать	matar	SBJ	DO	TR	TR	en Pere va mat-ar al Marc	DEF.SG.M PN(M) go.3SG.PRS.IND kill-INF to.DEF.SG.M PN(M)	‘Pere killed Marc.’					
+90	106	ударить	colpejar	SBJ	DO	TR	TR	en Pere va colpej-ar en Marc	DEF.SG.M PN(M) go.3SG.PRS.IND hit-INF DEF.SG.M PN(M)	‘Pere hit Marc.’					
+90	107	целовать	besar	SBJ	DO	TR	TR	en Pere va bes-ar a la Maria	DEF.SG.M PN(M) go.3SG.PRS.IND kiss-INF to DEF.SG.F PN(F)	‘Pere kissed Maria.’					
+90	108	читать	llegir	SBJ	DO	TR	TR	en Pere va lleg-ir un llibre interessant	DEF.SG.M PN(M) go.3SG.PRS.IND read-INF INDF.SG.M book(M) interesting(M)	‘Pere read an interesting book.’					
+90	109	шевелить	moure	SBJ	DO	TR	TR	en Pere va mou-re el seu dit	DEF.SG.M PN(M) go.3SG.PRS.IND move-INF DEF.SG.M POSS.3SG.M finger(M)	‘Pere moved his finger.’					
+90	110	уважать	respectar	SBJ	DO	TR	TR	en Pere respect-a en Marc	DEF.SG.M PN(M) respect-3SG.PRS.IND DEF.SG.M PN(M)	‘Pere respects Marc.’					
+90	111	брезговать	fer fàstic	a	SBJ	X	a_SBJ	al Pere li fan fàstic els plat-s brut-s	to.DEF.SG.M PN(M) DAT.3SG make-3PL.PRS.IND disgust(M) DEF.PL.M dish(M)-PL dirty(M)-PL	‘Pere is squeamish about dirty dishes.’					
+90	112	быть довольным	estar content	SBJ	per	Y	SBJ_per	en Pere està content pel seu fill	DEF.SG.M PN(M) be.3SG.PRS.IND glad(M) for.DEF.SG.M POSS.3SG.M son(M)	‘Pere is content with his son.’	Non-verbal predicate.				
+90	113	влюбляться	enamorar-se	SBJ	de	Y	SBJ_de	en Pere es va enamor-ar de la Maria	DEF.SG.M PN(M) REFL.3SG go.3SG.PRS.IND fall_in_love-INF of DEF.SG.F PN(F)	‘Pere fell in love with Maria.’					
+90	114	доверять	confiar	SBJ	en	Y	SBJ_en	en Pere confi-a en la Maria	DEF.SG.M PN(M) trust-3SG.PRS.IND in DEF.SG.F PN(F)	‘Pere trusts Maria.’					
+90	115	жалеть	compadir-se	SBJ	de	Y	SBJ_de	en Pere es compadeix de la seva mare	DEF.SG.M PN(M) REFL.3SG feel_sorry.3SG.PRS.IND of DEF.SG.F POSS.3SG.F mother(F)	‘Pere sympathises with his mother.’					
+90	116	завидовать	envejar	SBJ	DO	TR	TR	en Pere envej-a en Marc	DEF.SG.M PN(M) envy-3SG.PRS.IND DEF.SG.M PN(M)	‘Pere envies Marc.’					
+90	117	злиться	estar enfadat	SBJ	amb	Y	SBJ_amb	en Pere està enfadat amb en Marc	DEF.SG.M PN(M) be.3SG.PRS.IND angry(M) with DEF.SG.M PN(M)	‘Pere is angry with Marc.’	Non-verbal predicate.				
+90	118	удивляться	quedar sorprès	SBJ	per	Y	SBJ_per	en Pere va qued-ar sorprès pel regal	DEF.SG.M PN(M) go.3SG.PRS.IND remain-INF surprised.M for.DEF.SG.M gift(M)	‘Pere was surprised at this gift.’					
+90	119	любить-2	agradar	a	SBJ	X	a_SBJ	al Pere li agrad-a el te	to.DEF.SG.M PN(M) DAT.3SG like-3SG.PRS.IND DEF.SG.M tea(M)	‘Pere loves tea.’					
+90	120	наслаждаться	disfrutar	SBJ	de	Y	SBJ_de	en Pere disfrut-a de l'aigua calenta	DEF.SG.M PN(M) enjoy-3SG.PRS.IND of DEF.SG.F-water(F) hot(F)	‘Pere enjoys hot tea.’					
+90	121	хотеть	voler	SBJ	DO	TR	TR	en Pere vol un nou telèfon mòbil	DEF.SG.M PN(M) want.3SG.PRS.IND INDF.SG.M new(M) mobile.phone(M)	‘Pere wants a new mobile phone.’					
+90	122	сердиться	estar enfadat	SBJ	amb	Y	SBJ_amb	en Pere està enfadat amb en Marc	DEF.SG.M PN(M) be.3SG.PRS.IND angry(M) with DEF.SG.M PN(M)	‘Pere has a grudge against Marc.’	Non-verbal predicate.				
+90	123	обижаться	ofendre's	SBJ	amb	Y	SBJ_amb	en Pere es va ofend-re amb en Marc	DEF.SG.M PN(M) REFL.3SG go.3SG.PRS.IND offend-INF with DEF.SG.M PN(M)	‘Pere took offence at Marc.’					
+90	124	огорчать	molestar	SBJ	DO	TR	TR	en Pere va molest-ar molt al Marc	DEF.SG.M PN(M) go.3SG.PRS.IND bother-INF a_lot to.DEF.SG.M PN(M)	‘Pere greatly upset Marc.’					
+90	125	поражаться	quedar impressionat	SBJ	de	Y	SBJ_de	en Pere va qued-ar impressionat d’aquest poble	DEF.SG.M PN(M) be.3SG.PRS.IND remain-INF impressed-M of this.SG.M city(M)	‘Pere was impressed by this town.’					
+90	126	презирать	menysprear	SBJ	DO	TR	TR	en Pere menyspre-a al Marc	DEF.SG.M PN(M) despise-3SG.PRS.IND to.DEF.SG.M PN(M)	‘Pere despises Marc.’					
+90	127	огорчаться	enfadar-se	SBJ	per.culpa	Y	SBJ_per.culpa	en Pere es va enfad-ar per culpa del seu fill	DEF.SG.M PN(M) REFL.3SG be.3SG.PRS.IND angry-INF for fault(F) of.DEF.SG.M POSS.3SG.M son(M)	‘Pere got upset because of his son.’					
+90	128	раздражаться	enfadar-se	SBJ	amb	Y	SBJ_amb	en Pere s'enfad-a amb la seva filla	DEF.SG.M PN(M) REFL.3SG-get_angry-3SG.PRS.IND with DEF.SG.F POSS.3SG.F daughter(F)	‘Pere is getting irritated with his daughter.’					
+90	129	симпатизировать	ser carinyós	SBJ	amb	Y	SBJ_amb	en Pere és carinyós amb en Marc	DEF.SG.M PN(M) be.3SG.PRS.IND affectionate.SG.M with DEF.SG.M PN(M)	‘Pere is fond of Marc.’	Non-verbal predicate.				
+90	130	стесняться	estar avergonyit	SBJ	de	Y	SBJ_de	en Pere està avergonyit de la seva alçada	DEF.SG.M PN(M) be.3SG.PRS.IND shy(M) of DEF.SG.F POSS.3SG.F height(F)	‘Pere is shy about his height.’	Non-verbal predicate.				
 63	1	болеть-1	bolet	ACC	NOM	X	ACC_NOM	Petr-a bolí hlav-a	PN(M)-ACC.SG ache(IPFV).PRS.3SG head(F)-NOM.SG	‘Petr has a headache.’		PN(M)-ACC.SG болеть(IPFV).PRS.3SG голова(F)-NOM.SG	‘У Петра болит голова.’		
 63	2	болеть-2	mít	NOM	ACC	TR	TR	Petr má chřipk-u	PN(M)[NOM.SG] have(IPFV).PRS.3SG flu(F)-ACC.SG	‘Petr has the flu.’		PN(M)[NOM.SG] иметь(IPFV).PRS.3SG грипп(F)-ACC.SG	‘Петр болеет гриппом.’		
 63	3	бояться	bát se	NOM	GEN	Y	NOM_GEN	Petr se bojí ps-a	PN(M)[NOM.SG] REFL.ACC be_afraid(IPFV).PRS.3SG dog(M)-GEN.SG	‘Petr is afraid of the dog.’		PN(M)[NOM.SG] REFL.ACC бояться(IPFV)-PRS.3SG собака(M)-GEN.SG	‘Петр боится собаки.’		
@@ -2009,7 +2139,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 87	58	нравиться	gostar	SBJ	de	Y	SBJ_de	Pedro gost-a dess-a camisa	PN(M) like-3SG.PRS of+DEM.MED-F shirt(F)	‘Pedro likes this shirt.’		PN(M) нравиться-3SG.PRS от+DEM.MED-F рубашка(F)	‘Педру нравится эта рубашка’		
 87	59	нуждаться	precisar	SBJ	de	Y	SBJ_de	Pedro precis-a de dinheiro	PN(M) need-3SG.PRS of money(M)	‘Pedro needs money.’		PN(M) нуждаться-3SG.PRS от деньги(M)	‘Педру нужны деньги.’		
 87	60	окружать	cercar	SBJ	DO	TR	TR	o-s muro-s cerc-am a cidade	DEF.M-PL wall(M)-PL surround-3PL.PRS DEF.F city(F)	‘The walls surround the city.’		DEF.M-PL стена(M)-PL окружать-3PL.PRS DEF.F город(F)	‘Стены окружают город.’		
-87	61	оставаться	ficar	SBJ	com	Y	SBJ_com	Pedro fic-ou com 10 dólar-es	PN(M) get-3SG.PST with 10 dollar(M)-PL	‘Pedro has ten dollars left.’		PN(M) стать-3SG.PST с 10 доллар(M)-PL	‘У Педру осталось 10 долларов.’		
+87	61	оставаться	ficar	SBJ	com	Y	SBJ_com	Pedro fic-ou com dez dólar-es	PN(M) get-3SG.PST with 10 dollar(M)-PL	‘Pedro has ten dollars left.’		PN(M) стать-3SG.PST с 10 доллар(M)-PL	‘У Педру осталось 10 долларов.’		
 87	62	отвечать	responder	SBJ	a	Y	SBJ_a	Pedro respond-eu ao professor	PN(M) answer-3SG.PST to+DEF.M professor(M)	‘Pedro answered the teacher.’		PN(M) ответить-3SG.PST к+DEF.M профессор(M)	‘Педру ответил учителю.’		
 87	63	открывать	abrir	SBJ	DO	TR	TR	Pedro abr-iu a lata	PN(M) open-3SG.PST DEF.F can(F)	‘Pedro opened the can.’		PN(M) открывать-3SG.PST DEF.F банка(F)	‘Педру открыл банку.’		
 87	64	отличаться	ser diferente	SBJ	de	Y	SBJ_de	minha camisa é diferente da sua	POSS.1SG.F shirt(F) COP_HAB.3SG.PRS different of+DEF.F POSS.3.F	‘My shirt is different from yours.’	Non-verbal predicate.	POSS.1SG.F рубашка(F) COP_HAB.3SG.PRS не_такой от+DEF.F POSS.3.F	‘Моя рубашка отличается от твоей.’		
@@ -2059,7 +2189,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 87	108	читать	ler	SBJ	DO	TR	TR	Pedro l-eu um livro interessante	PN(M) read-3SG.PST INDF book(M) interesting	‘Pedro read an interesting book.’		PN(M) читать-3SG.PST INDF книга(M) интересный	‘Педру прочитал интересную книгу.’		
 87	109	шевелить	mover	SBJ	DO	TR	TR	Pedro mov-eu o dedo	PN(M) move-3SG.PST DEF.M finger(M)	‘Pedro moved the finger.’		PN(M) двигать-3SG.PST DEF.M палец(M)	‘Педру пошевелил пальцем.’		
 87	110	уважать	respeitar	SBJ	DO	TR	TR	Pedro respeit-a Miguel	PN(M) respect-3SG.PRS PN(M)	‘Pedro respects Miguel.’		PN(M) уважать-3SG.PRS PN(M)	‘Педру уважает Мигела.’		
-87	111	брезговать	ter nojo	SBJ	de	Y	SBJ_de	Pedro tem nojo de louça suj-a	PN(M) have.3SG.PRS disgust(M) of tableware(F) dirty-F	‘Pinchas is squeamish about dirty dishes.’		PN(M) иметь.3SG.PRS отвращение(M) от посуда(F) грязный-F	‘Педру брезгует грязной посудой’		
+87	111	брезговать	ter nojo	SBJ	de	Y	SBJ_de	Pedro tem nojo de louça suj-a	PN(M) have.3SG.PRS disgust(M) of tableware(F) dirty-F	‘Pedro is squeamish about dirty dishes.’		PN(M) иметь.3SG.PRS отвращение(M) от посуда(F) грязный-F	‘Педру брезгует грязной посудой’		
 87	112	быть довольным	estar satisfeito	SBJ	com	Y	SBJ_com	Pedro está satisfeit-o com seu filho	PN(M) COP_PROG.3SG.PRS pleased-M with POSS.3.M son(M)	‘Pedro is pleased with his son.’	Non-verbal predicate.	PN(M) COP_PROG.3SG.PRS доволен-M с POSS.3.M сын(M)	‘Педру доволен своим сыном.’		
 87	113	влюбляться	apaixonar-se	SBJ	por	Y	SBJ_por	Pedro se apaixon-ou por Maria	PN(M) REFL fall_in_love-3SG.PST by PN(F)	‘Pedro fell in love with Maria.’		PN(M) REFL влюбиться-3SG.PST посредством PN(F)	‘Педру влюбился в Марию.’		
 87	114	доверять	confiar	SBJ	em	Y	SBJ_em	Pedro confi-a em Maria	PN(M) trust-3SG.PRS in PN(F)	‘Pedro trusts Maria.’		PN(M) доверять-3SG.PRS в PN(F)	‘Педру доверяет Марии.’		
