@@ -563,7 +563,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 90	42	perdre	SBJ	DO	TR	TR	en Pere va perdre la seva casa	DEF.SG.M PN(M) go.3SG.PRS.IND loose.INF DEF.SG.F. POSS.3F house(F)	‘Pere lost his house.’					
 90	43	intentar atrapar	SBJ	DO	TR	TR	en Pere està intent-ant atrap-ar el gat	DEF.SG.M PN(M) be.3SG.PRS.IND try-GER catch-INF DEF.SG.M cat(M)	‘Pere is trying to catch the cat.’					
 90	44	trencar	SBJ	DO	TR	TR	en Pere va trenc-ar un pal	DEF.SG.M PN(M) go.3SG.PRS.IND break-INF INDF.SG.M stick(M)	‘Pere broke a stick.’					
-90	45	afalagar	SBJ	amb	Y	SBJ_amb	en Pere està afalag-ant amb la Maria	DEF.SG.M PN(M) be.3SG.PRS.IND flatter-GER with PN(F)	‘Pere is flattering Maria.’					
+90	45	afalagar	SBJ	amb	Y	SBJ_amb	en Pere està afalag-ant amb la Maria	DEF.SG.M PN(M) be.3SG.PRS.IND flatter-GER with DEF.SG.F PN(F)	‘Pere is flattering Maria.’					
 90	46	estimar	SBJ	DO	TR	TR	en Pere estim-a a la Maria	DEF.SG.M PN(M) love-3SG.PRS.IND to DEF.SG.F PN(F)	‘Pere loves Maria.’					
 90	47	agitar 	SBJ	DO	TR	TR	en Pere agit-a un mocador	DEF.SG.M PN(M) wave-3SG.PRS.IND INDF.SG.M handkerchief(M)	‘Pere is waving a handkerchief.’					
 90	48	somiar	SBJ	en	Y	SBJ_en	en Pere està somi-ant en un nou cotxe	DEF.SG.M PN(M) be.3SG.PRS.IND dream-GER in INDF.SG.M new(M)SG car(M)	‘Pere is dreaming of a new car.’					
@@ -579,7 +579,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 90	58	agradar	a	SBJ	X	a_SBJ	al Pere li agrad-a aquesta samarreta	to.DEF.SG.M PN(M) 3SG.DAT like-3SG.PRS.IND this.SG-F shirt(F)	‘Pere likes this shirt.’					
 90	59	necessitar	SBJ	DO	TR	TR	en Pere necessit-a diner-s	DEF.SG.M PN(M) need-3SG.PRS.IND money(M)-PL	‘Pere needs money.’					
 90	60	envoltar	SBJ	DO	TR	TR	les paret-s envolt-en la ciutat	DEF.PL.F wall(F)-PL surround-3PL.PRS.IND DEF.SG.F city(F)	‘Walls surround the city.’					
-90	61	quedar	a	SBJ	X	a_SBJ	al Pere li qued-en deu euros	to.DEF.SG.M PN(M) DAT.3SG remain-3PL.PRS.IND deu euro(M).PL	‘Pere has 10 euros left.’					
+90	61	quedar	a	SBJ	X	a_SBJ	al Pere li qued-en deu euro-s	to.DEF.SG.M PN(M) DAT.3SG remain-3PL.PRS.IND deu euro(M)-PL	‘Pere has 10 euros left.’					
 90	62	contestar	SBJ	a	Y	SBJ_a	en Pere li va contest-ar al professor	DEF.SG.M PN(M) DAT.3SG go.3SG.PRS.IND answer-INF to.DEF.SG.M teacher(M)	‘Pere answered the teacher.’					
 90	63	obrir	SBJ	DO	TR	TR	en Pere va obrir un-a llauna	DEF.SG.M PN(M) go.3SG.PRS.IND answer-INF INDF-SG.F can(F)	‘Pere opened a can.’					
 90	64	ser diferent	SBJ	que	Y	SBJ_que	no, la meva camisa és diferent que la teva	no DEF.SG.F POSS.3SG.F shirt(F) be.3SG.PRS.IND different that DEF.SG.F POSS.2SG.F	‘No, my shirt is different from yours.’	Non-verbal predicate.				
@@ -598,7 +598,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 90	77	ajudar	SBJ	DO	TR	TR	en Pere va ajud-ar al Marc	DEF.SG.M PN(M) go.3SG.PRS.IND help-INF to.DEF.SG.M PN(M)	‘Pere helped Marc.’					
 90	78	entendre	SBJ	DO	TR	TR	en Pere entèn francès	DEF.SG.M PN(M) understand.3SG.PRS.IND French(M)	‘Pere understands French.’					
 90	79	entrar	SBJ	dins	Y	SBJ_dins	la il·luminació va entr-ar dins la casa	DEF.SG.F lightning(F) go.3SG.PRS.IND enter-INF in DEF.SG.F house(F)	‘Lightning hit the house.’					
-90	80	tallar-se	SBJ	amb	Y	SBJ_amb	en Pere es va tallar amb un-a navalla	DEF.SG.M PN(M) REFL.3SG go.3SG.PRS.IND cut-INF with DEF-SG.F razor(F)	‘Pere cut himself with a razor.’					
+90	80	tallar-se	SBJ	amb	Y	SBJ_amb	en Pere es va tall-ar amb un-a navalla	DEF.SG.M PN(M) REFL.3SG go.3SG.PRS.IND cut-INF with DEF-SG.F razor(F)	‘Pere cut himself with a razor.’					
 90	81	quedar encallat 	SBJ	a	Y	SBJ_a	el got va qued-ar encall-at a la taula	DEF.SG.M glass(M) go.3SG.PRS.IND remain-INF stick-PTCP.M to DEF.SG.F table(F)	‘The glass got stuck to the table.’					
 90	82	perdre	SBJ	contra	Y	SBJ_contra	en Pere va perdre contra en Marc	DEF.SG.M PN(M) go.3SG.PRS.IND lose.INF towards DEF.SG.M PN(M)	‘Pere lost to Marc.’					
 90	83	estar content	SBJ	per	Y	SBJ_per	en Pere est-ava content per la carta	DEF.SG.M PN(M) be-3SG.IPFV.IND glad(M) for DEF.SG.F letter(F)	‘Pere was glad about the letter.’	Non-verbal predicate.				
@@ -607,7 +607,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 90	86	caure's	a	SBJ	X	a_SBJ	Al Pere se li va cau-re el got	to.DEF.SG.M PN(M) REFL.3SG DAT.3SG go.3SG.PRS.IND fall-INF DEF.SG.M glass(M)	‘Pere dropped the glass.’					
 90	87	dirigir	SBJ	DO	TR	TR	en Pere dirigeix la nostra ciutat	DEF.SG.M PN(M) command.3SG.PRS.IND DEF.SG.F POSS.1PL city(F)	‘Pere runs our town.’					
 90	88	trobar a faltar	SBJ	DO	TR	TR	en Pere trob-a a falt-ar a la Maria	DEF.SG.M PN(M) find-3SG.PRS to be_missing-INF to DEF.SG.F PN(F)	‘Pere misses Maria.’					
-90	89	seguir	SBJ	DO	TR	TR	en Pere segueix al Marc	DEF.SG.M PN(M) follow.3SG.PRS IND to.DEF.SG.M PN(M)	‘Pere follows Marc.’					
+90	89	seguir	SBJ	DO	TR	TR	en Pere segueix al Marc	DEF.SG.M PN(M) follow.3SG.PRS.IND to.DEF.SG.M PN(M)	‘Pere follows Marc.’					
 90	90	baixar	SBJ	de	Y	SBJ_de	en Pere va baix-ar del cavall	DEF.SG.M PN(M) go.3SG.PRS.IND go_down-INF of.DEF.SG.M horse(M)	‘Pere got down from the horse.’					
 90	91	escoltar	SBJ	DO	TR	TR	en Pere està escolt-ant la ràdio	DEF.SG.M PN(M) be.3SG.PRS.IND listen-GER DEF.SG.F radio(F)	‘Pere is listening to radio.’					
 90	92	obeir	SBJ	DO	TR	TR	en Pere sempre obeeix a la se-va mare	DEF.SG.M PN(M) always obey.3SG.PRS.IND to DEF.SG.F POSS.3-SG.F mother(F)	‘Pere always obeys his mother.’					
