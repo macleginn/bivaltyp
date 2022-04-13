@@ -1,14 +1,12 @@
 # {{ language_external }}
-Contributed by [Olga Kuznetsova](https://iling.spb.ru/people/kuznetsova_o.html.ru)
+Contributed by Elena Gorbova ([Academia.edu profile](https://independent.academia.edu/ElenaGorbova))
 
-![M.N.'s photo]({{ site_url_j }}/images/Nordrum.jpg "M.N.'s photo")
+![E.G.'s photo]({{ site_url_j }}/images/Gorbova.jpg "E.G.'s photo")
 
-![O.K.'s photo]({{ site_url_j }}/images/Kuznetsova.jpg "O.K.'s photo")
-
-Olga Kuznetsova elicited some preliminary data in 2013. In 2020, Maria Nordrum provided and analyzed a fuller version of the data in the capacity of a native speaker of {{ language_external }}. Maria Nordrum used the Russian version of the questionnaire. 
+Elena Gorbova provided the data in 2012. She usedthe Russian version of the questionnaire. 
 
 ## How to cite
-> Nordrum, Maria & Olga Kuznetsova. 2021. Bivalent patterns in {{ language_external }}. 
+> Gorbova, Elena. 2022. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
