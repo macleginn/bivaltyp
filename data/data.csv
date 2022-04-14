@@ -2736,7 +2736,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 24	5	быть достаточно		NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le alcanz-a el dinero	NDIR.OBJ PN[SG.M] он.NDIR.OBJ достигать-PRS.3SG ART.DEF.SG.M деньги[SG.M]	‘Педро хватает денег.’					
 24	6	быть похожим		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro se parec-e a María	PN[SG.M] REFL.3SG походить-PRS.3SG NDIR.OBJ PN[SG.F]	‘Педро похож на Марию.’					
 24	7	верить		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro cre-e a María	PN[SG.M] верить-PRS.3SG NDIR.OBJ PN[SG.F]	‘Педро верит Марии.’					
-24	8	взять		SBJ	DO	TR	TR	Pedro ha cogi-do un libro de=l estante	PN[SG.M] AUX. 3SG взять-PTCP:PRF ART.NDEF.SG.M книга[SG.M] от/из=ART.DEF.SG.M полка[SG.M]	‘Педро взял книгу с полки.’					
+24	8	взять		SBJ	DO	TR	TR	Pedro ha cogi-do un libro de=l estante	PN[SG.M] AUX.3SG взять-PTCP:PRF ART.NDEF.SG.M книга[SG.M] от/из=ART.DEF.SG.M полка[SG.M]	‘Педро взял книгу с полки.’					
 24	9	видеть		SBJ	DO	TR	TR	Pedro ve una casa	PN[SG.M] видеть[PRS.3SG] ART.NDEF.SG.F дом[SG.F]	‘Педро видит дом.’					
 24	10	влиять		SBJ	en	Y	SBJ_en	la edad influy-e en la memoria	ART.DEF.SG.F возраст[SG.F] влиять-PRS.3SG в/на ART.DEF.SG.F память[SG.F]	‘Возраст влияет на память.’					
 24	11	встречаться		SBJ	con	Y	SBJ_con	Pedro se ha encontra-do con María	PN[SG.M] REFL.3SG AUX. 3SG встретить-PTCP:PRF с PN[SG.F]	‘Педро встретился с Марией.’					

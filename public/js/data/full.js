@@ -49293,7 +49293,7 @@ const fullData = [
     "TR",
     "TR",
     "Pedro ha cogi-do un libro de=l estante",
-    "PN[SG.M] AUX. 3SG взять-PTCP:PRF ART.NDEF.SG.M книга[SG.M] от/из=ART.DEF.SG.M полка[SG.M]",
+    "PN[SG.M] AUX.3SG взять-PTCP:PRF ART.NDEF.SG.M книга[SG.M] от/из=ART.DEF.SG.M полка[SG.M]",
     "‘Педро взял книгу с полки.’",
     "",
     "",
