@@ -2403,7 +2403,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 68	62	ǯiwab hɨwɨr	ERG	DAT	Y	ERG_DAT	rasul-a ǯiwab hɨ<w>ɨ-r maʔalim-a-s	PN-ERG answer(NOM) <3>give.PFV-CVB teacher-OBL-DAT	‘Rasul answered the teacher.’		PN-ERG ответ(NOM) <3>дать.PFV-CVB учитель-OBL-DAT	‘Расул ответил учителю.’		
 68	63	ačɨχ wɨɁɨr	ERG	NOM	TR	TR	rasul-a bank’a ačɨχ w-ɨɁɨ-r	PN-ERG pot(NOM) open 3-do.PFV-CVB	‘Rasul opened a can.’		PN-ERG банка(NOM) открыть 3-делать.PFV-CVB	‘Расул открыл банку.’		
 68	64	maddɨ wiɁi	NOM	SUP.EL	Y	NOM_SUP.EL	iz-dɨ uχun mad-dɨ w-iɁi wɨ-dɨ-ji-la	I-ATTR shirt(NOM) other-ATTR 3-COP you.SG-ATTR-OBL(SUP)-EL	‘My shirt is different from yours.’	Non-verbal predicate.	I-ATTR рубашка(NOM) другой-ATTR 3-COP ты.SG-ATTR-OBL(SUP)-EL	‘Моя рубашка отличается от твоей.’		
-68	65	quɁ qargɨr	NOM	SUP.EL	Y	NOM_SUP.EL	ramazan quɁ q-argɨ-r rasul-u-la	PN(NOM) back.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Rasul fell behind Ramazan.’		PN(NOM) зад.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Рамазан отстал от Расула.’		
+68	65	quɁ qargɨr	NOM	SUP.EL	Y	NOM_SUP.EL	ramazan quɁ q-argɨ-r rasul-u-la	PN(NOM) back.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Ramazan fell behind Rasul.’		PN(NOM) зад.LAT RE-LV.PFV-CVB PN-OBL(SUP)-EL	‘Рамазан отстал от Расула.’		
 68	66	lʲaˁjχaˁra	ERG	NOM	TR	TR	rasul-a χuj lʲ-aˁjχaˁ-r=a	PN-ERG field(NOM) PV-4.plough.IPFV-CVB=be	‘Rasul is ploughing the field.’		PN-ERG поле(NOM) PV-4.пахать.IPFV-CVB=быть	‘Расул пашет поле.’		
 68	67	il rɨˁχaˁra	INTER.EL	ATTR	XY	INTER.EL_ATTR	ɨz-dɨ χɨla-bɨr-mɨ-k-la benzin-ad il rɨˁχaˁ-r=a	I-ATTR hand-PL-OBL.PL-INTER-EL petrol-ATTR smell(NOM) 4.go.IPFV-CVB=be	‘My hands smell of gasoline.’		I-ATTR рука-PL-OBL.PL-INTER-EL бензин-ATTR запах(NOM) 4.идти.IPFV-CVB=быть	‘Мои руки пахнут бензином.’		
 68	68	tiʔ eʁeč’ur	NOM	IN.EL	Y	NOM_IN.EL	rasul rɨˀɢ-a: tiʔ e-ʁ-eč’u-r	PN(NOM) road.OBL-IN.EL there PV-PV-1.cross.PFV-CVB	‘Rasul crossed the road.’		PN(NOM) дорога.OBL-IN.EL там PV-PV-1.пересечь.PFV-CVB	‘Ислам пересек дорогу.’		
@@ -2729,6 +2729,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 61	128	razburjati se	NOM	zaradiGEN	Y	NOM_zaradiGEN	Pavel se razburja zaradi Аn-e	PN[NOM.SG] RFL upset:IPFV.PRS.3SG because_of PN-GEN.SG	‘Pavel is getting irritated with Ana.’		PN[NOM.SG] RFL раздражать:IPFV.PRS.3SG из.за PN-GEN.SG	‘Павел раздражается на Ану.’		
 61	129	biti všeč	DAT	NOM	X	DAT_NOM	Petr-u je všeč An-a	PN-DAT.SG be.PRS.3SG pleasant PN-NOM.SG	‘Peter is fond of Ana.’		PN-DAT.SG быть.PRS.3SG приятно PN-NOM.SG	‘Петер симпатизирует Ане.’		
 61	130	sramovati se	NOM	GEN	Y	NOM_GEN	Peter se sramuje svoj-e višin-e	PN[NOM.SG] RFL be_ashamed:IPFV.PRS.3SG one’s-GEN.SG.F height-GEN.SG	‘Peter is shy about his height.’		PN[NOM.SG] RFL стесняться:IPFV.PRS.3SG свой-GEN.SG.F рост-GEN.SG	‘Петер стесняется своего роста.’		
+24	1		NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le duel-e la cabeza	NDIR.OBJ PN[SG.M] он.NDIR.OBJ болеть-PRS.3SG ART.DEF.SG.F голова[SG.F]	‘У Педро болит голова.’					
+24	2		SBJ	DO	TR	TR	Pedro tien-e la gripe	PN[SG.M] иметь-PRS.3SG ART.DEF.SG.F грипп[SG.F]	‘Педро болеет гриппом.’					
+24	3		SBJ	DO	TR	TR	Pedro tem-e a=l perro	PN[SG.M] бояться-PRS.3SG DIR.OBJ.ANM=ART.DEF.SG.M собака[SG.M]	‘Педро боится собаки.’					
+24	4		SBJ	DO	TR	TR	Pedro ha tira-do una piedra	PN[SG.M] AUX.3SG бросать-PTCP:PRF ART.NDEF.SG.F камень[SG.F]	‘Педро бросил камень.’					
+24	5		NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le alcanz-a el dinero	NDIR.OBJ PN[SG.M] он.NDIR.OBJ достигать-PRS.3SG ART.DEF.SG.M деньги[SG.M]	‘Педро хватает денег.’					
+24	6		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro se parec-e a María	PN[SG.M] REFL.3SG походить-PRS.3SG NDIR.OBJ PN[SG.F]	‘Педро похож на Марию.’					
+24	7		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro cre-e a María	PN[SG.M] верить-PRS.3SG NDIR.OBJ PN[SG.F]	‘Педро верит Марии.’					
+24	8		SBJ	DO	TR	TR	Pedro ha cogi-do un libro de=l estante	PN[SG.M] AUX. 3SG взять-PTCP:PRF ART.NDEF.SG.M книга[SG.M] от/из=ART.DEF.SG.M полка[SG.M]	‘Педро взял книгу с полки.’					
+24	9		SBJ	DO	TR	TR	Pedro ve una casa	PN[SG.M] видеть[PRS.3SG] ART.NDEF.SG.F дом[SG.F]	‘Педро видит дом.’					
+24	10		SBJ	en	Y	SBJ_en	la edad influy-e en la memoria	ART.DEF.SG.F возраст[SG.F] влиять-PRS.3SG в/на ART.DEF.SG.F память[SG.F]	‘Возраст влияет на память.’					
+24	11		SBJ	con	Y	SBJ_con	Pedro se ha encontra-do con María	PN[SG.M] REFL.3SG AUX. 3SG встретить-PTCP:PRF с PN[SG.F]	‘Педро встретился с Марией.’					
+24	12		SBJ	en	Y	SBJ_en	Pedro ha entra-do en la casa	PN[SG.M] AUX.3SG войти-PTCP:PRF в/на ART.DEF.SG.F дом[SG.F]	‘Педро вошел в дом.’					
+24	13		SBJ	DO	TR	TR	Pedro ha gana-do a María a=l ajedrez. 	PN[SG.M] AUX. 3SG обыграть-PTCP:PRF DIR.OBJ.ANM PN[SG.F] к=ART.DEF.SG.M шахматы[SG.M]	‘Педро обыграл Марию в шахматы.’					
+24	14		SBJ	de	Y	SBJ_de	Pedro sali-ó de casa	PN[SG.M] выйти-AOR.3SG от/из дом[SG.F]	‘Педро вышел из дома.’					
+24	15		SBJ	DO	TR	TR	Pedro arre-a a la vaca a los pastos	PN[SG.M] гнать-PRS.3SG DIR.OBJ.ANM ART.DEF.SG.F корова[SG.F] к ART.DEF.M.PL пастбище[PL.M]	‘Педро гонит корову на пастбище.’					
+24	16		SBJ	DO	TR	TR	Pedro ha encorva-do una rama	PN[SG.M] AUX.3SG сгибать-PTCP:PRF ART.NDEF.SG.F ветка[SG.F]	‘Педро согнул ветку.’					
+24	17		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro ha dich-o a María: ven a ver-me	PN[SG.M] AUX.3SG говорить-PTCP:PRF NDIR.OBJ PN[SG.F] приходить.IMP к видеть.INF-DIR.OBJ.1SG	‘Педро сказал Марии: приходи ко мне в гости.’					
+24	18		SBJ	DO	TR	TR	Pedro tiene un libro en la-s mano-s	PN[SG.M] иметь-PRS.3SG ART.NDEF.SG.M книга[SG.M] в ART.DEF.F-PL рука[SG.F]-PL	‘Педро держит книгу в руках.’					
+24	19		SBJ	DO	TR	TR	Pedro ha alcanza-do a Maria	PN[SG.M] AUX.3SG достигать-PTCP:PRF DIR.OBJ.ANM PN[SG.F]	‘Педро догнал Марию.’					
+24	20		SBJ	DO	TR	TR	Pedro ordeñ-ó la vaca	PN[SG.M] доить-AOR.3SG ART.DEF.SG.F корова[SG.F]	‘Педро подоил корову.’					
+24	21		SBJ	DO	TR	TR	Pedro alcanz-ó la orilla	PN[SG.M] достигать-AOR.3SG ART.DEF.SG.F берег[SG.F]	‘Педро достиг берега.’					
+24	22		SBJ	DO	TR	TR	Pedro toc-ó la pared	PN[SG.M] дотрагиваться-AOR.3SG ART.DEF.SG.F стена[SG.F]	‘Педро дотронулся до стены.’					
+24	23		*	*	*		Pedro y Maria se est-án pega-ndo	PN[SG.M] и PN[SG.F] REFL.3PL AUX-3PL приклеивать-GER:PROGR	‘Педро и Мария дерутся.’	Not included in the database because X and Y are expressed as a coordinate NP.				
+24	24		*	*	*		Pedro es amigo de María	PN[SG.M] быть[3SG] друг от/из PN[SG.F]	‘Педро дружит с Марией.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+24	25		SBJ	en	Y	SBJ_en	Pedro está pensa-ndo en María	PN[SG.M] AUX.3SG думать-GER: PROG в/на PN[SG.F]	‘Педро думает о Марии.’					
+24	26		SBJ	DO	TR	TR	Pedro se ha comi-do una manzana	PN[SG.M] REFL.3SG AUX.3SG есть-PTCP:PRF ART.NDEF.SG.F яблоко[SG.F]	‘Педро съел яблоко.’					
+24	27		SBJ	DO	TR	TR	Pedro ha frei-do pescado	PN[SG.M] AUX.3SG жарить-PTCP:PRF рыба[SG.M]	‘Педро пожарил рыбу.’					
+24	28		SBJ	DO	TR	TR	Pedro esper-a a María	PN[SG.M] ждать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро ждет Марию.’					
+24	29		DO	SBJ	X	DO_SBJ	a Pedro se lo/le olvid-ó el otr-o camino	DIR.OBJ.ANM PN[SG.M] REFL.3SG он.DIR.OBJ забывать-AOR.3SG ART.DEF.SG.M другой-SG.M дорога[SG.M]	‘Педро забыл о другой дороге.’					
+24	30		SBJ	de	Y	SBJ_de	la memoria depend-e de la edad	ART.DEF.SG.F память[SG.F] зависеть-PRS.3SG от/из ART.DEF.SG.F возраст[SG.F]	‘Память зависит от возраста.’					
+24	31		SBJ	DO	TR	TR	entonces Pedro llam-ó a María	Тогда PN[SG.M] звать-AOR.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро позвал Марию.’					
+24	32		SBJ	DO	TR	TR	Pedro conoci-ó a María hac-e un año	PN[SG.M] знакомиться-AOR.3SG DIR.OBJ.ANM PN[SG.F] делать-PRS.3SG ART.NDEF.SG.M год[SG.M]	‘Педро познакомился с Марией год назад.’					
+24	33		SBJ	DO	TR	TR	Pedro conoc-e a María	PN[SG.M] знать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро знает Марию.’					
+24	34		SBJ	DO	TR	TR	Pedro toc-a la guitarra	PN[SG.M] трогать-PRS.3SG ART.DEF.SG.F гитара[SG.F]	‘Педро играет на гитаре.’					
+24	35		SBJ	DO	TR	TR	Pedro evit-a a María	PN[SG.M] избегать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро избегает Марию.’					
+24	36		SBJ	DO	TR	TR	Pedro ha fabrica-do una bomba	PN[SG.M] AUX.3SG изготавливать-PTCP:PRF ART.NDEF.SG.F бомба[SG.F]	‘Педро изготовил бомбу.’					
+24	37		SBJ	de	Y	SBJ_de	Pedro se burl-a de María	PN[SG.M] REFL.3SG издеваться-PRS.3SG от/из PN[SG.F]	‘Педро издевается над Марией.’					
+24	38		SBJ	DO	TR	TR	Pedro tien-e coche	PN[SG.M] иметь-PRS.3SG машина[SG.M] 	‘У Педро есть машина.’					
+24	39		SBJ	DO	TR	TR	Pedro busc-a la-s llave-s	PN[SG.M] искать-PRS.3SG ART.DEF.F-PL ключ[SG.F]-PL	‘Педро ищет ключи.’					
+24	40		SBJ	DO	TR	TR	Pedro ha pinta-do la valla	PN[SG.M] AUX.3SG красить-PTCP:PRF ART.DEF.SG.F забор[SG.F]	‘Педро покрасил забор.’					
+24	41		SBJ	DO	TR	TR	un perro mordi-ó a Pedro	ART.NDEF.SG.M собака[SG.M] кусать-AOR.3SG DIR.OBJ.ANM PN[SG.M]	‘Собака укусила Педро.’					
+24	42		SBJ	DO	TR	TR	Pedro ha perdi-do su casa	PN[SG.M] AUX.3SG терять-PTCP:PRF свой[SG.F] дом[SG.F]	‘Педро лишился дома.’					
+24	43		SBJ	DO	TR	TR	Pedro trat-a de coge-r-lo	PN[SG.M] пытаться-PRS.3SG от/из схватить-INF-DIR.OBJ.M.SG	‘Педро ловит кошку.’					
+24	44		SBJ	DO	TR	TR	Pedro ha roto un palo	PN[SG.M] AUX.3SG ломать-PTCP:PRF ART.NDEF.SG.M палка[SG.M]	‘Педро сломал палку.’					
+24	45		SBJ	DO	TR	TR	Pedro lisonje-a a María	PN[SG.M] льстить-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро льстит Марии.’					
+24	46		SBJ	DO	TR	TR	Pedro quier-e a María	PN[SG.M] любить-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро любит Марию.’					
+24	47		SBJ	DO	TR	TR	Pedro agit-a un pañuelo	PN[SG.M] махать-PRS.3SG ART.NDEF.SG.M платок[SG.M]	‘Педро машет платком.’					
+24	48		SBJ	con	Y	SBJ_con	Pedro sueñ-a con un coche nuev-o	PN[SG.M] мечтать-PRS.3SG с ART.NDEF.SG.M машина[SG.M] новый[SG]-M	‘Педро мечтает о новой машине.’					
+24	49		SBJ	DO	TR	TR	Pedro ha lava-do una taza	PN[SG.M] AUX.3SG мыть-PTCP:PRF ART.NDEF.SG.F чашка[SG.F]	‘Педро вымыл чашку.’					
+24	50		SBJ	DO	TR	TR	Pedro se ha pue-sto un pantalón	PN[SG.M] REFL.3SG AUX.3SG класть-PTCP:PRF ART.NDEF.SG.M штаны[SG.M]	‘Педро надел штаны.’					
+24	51		SBJ	PRED	Y	SBJ_PRED	est-e instrumento se llam-a brújula	Этот-M инструмент[SG.M] REFL.3SG называть-PRS.3SG компас[SG.F]	‘Этот инструмент называется компас.’					
+24	52		SBJ	DO	TR	TR	Pedro ha castiga-do a su hijo	PN[SG.M] AUX.3SG наказывать-PTCP:PRF DIR.OBJ.ANM свой[SG] сын[SG.M]	‘Педро наказал своего сына.’					
+24	53		SBJ	DO	TR	TR	un oso atac-ó a=l pescador	ART.NDEF.SG.M медведь[SG.M] атаковать-AOR.3SG DIR.OBJ.ANM=ART.DEF.SG.M рыбак[SG.M]	‘Медведь напал на рыбака.’					
+24	54		SBJ	de	Y	SBJ_de	el cubo se llen-ó de agua	ART.DEF.SG.M ведро[SG.M] REFL.3SG наполняться-AOR.3SG от/из вода[SG.F]	‘Ведро наполнилось водой.’					
+24	55		SBJ	DO	TR	TR	Pedro ha encontra-do la-s llave-s	PN[SG.M] AUX.3SG найти-PTCP:PRF ART.DEF.SG.F-PL ключ[SG.F]-PL	‘Педро нашел ключи.’					
+24	56		NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le falt-a dólar	NDIR.OBJ PN[SG.M] он.NDIR.OBJ отсутствовать-PRS.3SG доллар[SG.M]	‘Педро недостает одного доллара.’					
+24	57		SBJ	DO	TR	TR	Pedro odi-a a María	PN[SG.M] ненавидеть-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро ненавидит Марию.’					
+24	58		NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le gust-a est-a camisa	NDIR.OBJ PN[SG.M] он. NDIR.OBJ нравиться-PRS.3SG этот-F рубашка[SG.F]	‘Педро нравится эта рубашка.’					
+24	59		SBJ	DO	TR	TR	Pedro necesit-a dinero	PN[SG.M] нуждаться-PRS.3SG деньги[SG.M]	‘Педро нужны деньги.’					
+24	60		SBJ	DO	TR	TR	la-s muralla-s rode-an la ciudad	ART.DEF.SG.F-PL стена[SG.F]-PL окружать-PRS.3 PL ART.DEF.SG.F город[SG.F]	‘Стены окружают город.’					
+24	61		NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le ha-n queda-do diez dólar-es	NDIR.OBJ PN[SG.M] он.NDIR.OBJ AUX.3-PL оставаться-PTCP:PRF десять доллар[SG.M]-PL	‘У Педро осталось десять долларов .’					
+24	62		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro contest-ó a=l profesor	PN[SG.M] отвечать-AOR.3SG NDIR.OBJ=ART.DEF.SG.M учитель[SG.M]	‘Педро ответил учителю.’					
+24	63		SBJ	DO	TR	TR	Pedro ha abier-to una lata	PN[SG.M] AUX.3SG открывать-PTCP:PRF ART.NDEF.SG.F жестяная_банка[SG.F]	‘Педро открыл жестяную банку.’					
+24	64		SBJ	de	Y	SBJ_de	mi camisa es diferente de la tuy-a	Моя[SG.F] рубашка[SG.F] быть[PRS.3SG] отличная[SG.F] от/из ART.DEF.SG.F твой-SG.F	‘Моя рубашка отличается от твоей.’					
+24	65		SBJ	de	Y	SBJ_de	Pedro se qued-ó atrás de María	PN[SG.M] REFL.3SG оставаться-AOR.3SG сзади от/из PN[SG.F]	‘Педро отстал от Марии.’					
+24	66		SBJ	DO	TR	TR	Pedro ar-a el campo	PN[SG.M] пахать-PRS.3SG ART.DEF.SG.M поле[SG.M]	‘Педро пашет поле.’					
+24	67		SBJ	a	Y	SBJ_a	mi-s mano-s huele-n a gasolina	мой-PL рука[SG.F]-PL пахнуть-PRS.3PL к бензин[SG.F]	‘Мои руки пахнут бензином.’					
+24	68		SBJ	DO	TR	TR	Pedro cruz-ó la calle	PN[SG.M] пересекать-AOR.3SG ART.DEF.SG.F улица[SG.F]	‘Педро пересек улицу.’					
+24	69		SBJ	DO	TR	TR	Pedro cant-ó una canción muy bonit-a	PN[SG] петь-AOR.3SG ART.NDEF.SG.F песня[SG.F] очень красивый[SG]-F	‘Педро спел очень красивую песню.’					
+24	70		SBJ	DO	TR	TR	Pedro escribi-ó una carta	PN[SG] писать-AOR.3SG ART.NDEF.SG.F письмо[SG.F]	‘Педро написал письмо.’					
+24	71		SBJ	DO	TR	TR	Pedro se ha toma-do la leche	PN[SG] REFL.3SG AUX.3SG брать-PTCP:PRF ART.DEF.SG.F молоко[SG.F]	‘Педро выпил молоко.’					
+24	72		SBJ	DO	TR	TR	Pedro fundi-ó un trozo de plomo	PN[SG] расплавлять-AOR.3SG ART.NDEF.SG.M кусок [SG.M] от/из свинец[SG.M]	‘Педро расплавил кусок свинца.’					
+24	73		SBJ	con	Y	SBJ_con	est-e cinturón qued-a bien con mi vestido	этот-SGM пояс[SG.M] оставаться-PRS.3SG хорошо с мой[SG.M] платье[SG.M]	‘Этот пояс подходит к моему платью.’					
+24	74		SBJ	DO	TR	TR	Pedro ha abandona-do su ciudad natal	PN[SG.M] AUX.3SG покидать-PTCP:PRF свой[SG.F] город[SG.F] родной[SG.F]	‘Педро покинул свой родной город.’					
+24	75		SBJ	DO	TR	TR	la alfombra cubr-e tod-o el suelo	ART.DEF.SG.F ковер[SG.F] покрывать-PRS.3SG весь-SG.M ART.DEF.SG.M пол[SG.M]	‘Ковер покрывает весь пол.’					
+24	76		SBJ	DO	TR	TR	Pedro recuerd-a muy bien la casa en que se cri-ó	PN[SG.M] помнить-PRS.3SG очень хорошо ART.DEF.SG.F дом[SG.F] в/на который[SG.F] REFL.3SG расти-AOR.3SG	‘Педро очень хорошо помнит дом, в котором вырос.’					
+24	77		SBJ	DO	TR	TR	Pedro ayud-ó a María	PN[SG.M] помогать-AOR.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро помог Марии.’					
+24	78		SBJ	DO	TR	TR	Pedro entiend-e el francés	PN[SG.M] понимать-PRS.3SG ART.DEF.SG.M французский(язык)[SG.M]	‘Педро понимает французский (язык).’					
+24	79		SBJ	en	Y	SBJ_en	el rayo cay-ó en una casa	ART.DEF.SG.M молния[SG.M] падать-AOR.3SG в/на ART.NDEF.SG.F дом[SG.F]	‘Молния попала в дом.’					
+24	80		SBJ	con	Y	SBJ_con	Pedro se ha corta-do con una navaja	PN[SG.M] REFL.3SG AUX.3SG резать-PTCP:PRF с ART.NDEF.SG.F (опасная) бритва[SG.F]	‘Педро порезался (опасной) бритвой.’					
+24	81		SBJ	a	Y	SBJ_a	el vaso se ha pega-do a la mesa	ART.DEF.SG.M стакан[SG.M] REFL.3SG AUX.3SG клеить-PTCP:PRF к ART.DEF.SG.F стол[SG.F]	‘Стакан прилип к столу.’					
+24	82		*	*	*		Pedro ha perdi-do una partida de ajedrez con María	PN[SG.M] AUX.3SG терять-PTCP:PRF ART.NDEF.SG.F партия[SG.F] от/из шахматы[SG.M] с PN[SG.F]	‘Педро проиграл Марии в шахматы.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+24	83		SBJ	de	Y	SBJ_de	Pedro se alegr-ó de la carta	PN[SG.M] REFL.3SG радовать-AOR.3SG от/из ART.DEF.SG.F письмо[SG.F]	‘Педро обрадовался письму.’					
+24	84		SBJ	con	Y	SBJ_con	Pedro habla-ba con María	PN[SG.M] говорить-IMP.3SG с PN[SG.F]	‘Педро разговаривает с Марией.’					
+24	85		SBJ	DO	TR	TR	María ha teni-do un hijo	PN[SG.F] AUX.3SG иметь-PTCP:PRF ART.NDEF.SG.M сын[SG.M]	‘Мария родила сына.’					
+24	86		SBJ	DO	TR	TR	Pedro dej-ó caer un vaso	PN[SG.M] позволять-AOR.3SG падать[INF] ART.NDEF.SG.M стакан[SG.M]	‘Педро уронил стакан.’					
+24	87		SBJ	DO	TR	TR	Pedro gobiern-a nuestr-o pueblo	PN[SG.M] управлять-PRS.3SG наш-SG.M поселок[SG.M]	‘Педро руководит нашим поселком.’					
+24	88		SBJ	DO	TR	TR	Pedro ech-a de menos a María	PN[SG.M] бросать-PRS.3SG от/из меньше DIR.OBJ.ANM PN[SG.F]	‘Педро скучает по Марии.’					
+24	89		SBJ	DO	TR	TR	Pedro sigu-e a María	PN[SG.M] следовать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро следует за Марией.’					
+24	90		SBJ	de	Y	SBJ_de	Pedro se ape-ó de=l caballo	PN[SG.M] REFL.3SG спешивать-AOR.3SG от/из=ART.DEF.SG.M лошадь[SG.M]	‘Педро слез с лошади.’					
+24	91		SBJ	DO	TR	TR	Pedro escuch-a la radio	PN[SG.M] слушать-PRS.3SG ART.DEF.SG.F радио[SG.F]	‘Педро слушает радио.’					
+24	92		SBJ	DO	TR	TR	Pedro obedec-e a la madre	PN[SG.M] слушаться-PRS.3SG DIR.OBJ.ANM ART.DEF.SG.F мать[SG.F]	‘Педро слушается маму.’					
+24	93		SBJ	DO	TR	TR	Pedro oy-e la música	PN[SG.M] слышать-PRS.3SG ART.DEF.SG.F музыка[SG.F]	‘Педро слышит музыку.’					
+24	94		SBJ	con	Y	SBJ_con	la miel se ha mezcla-do con la leche	ART.DEF.SG.F мед[SG.F] REFL.3SG AUX.3SG смешивать-PTCP:PRF с ART.DEF.SG.F молоко[SG.F]	‘Мед смешался с молоком.’					
+24	95		SBJ	DO	TR	TR	Pedro mir-a la-s nube-s	PN[SG.M] смотреть-PRS.3SG ART.DEF.F-PL туча[SG.F]-PL	‘Педро смотрит на тучи.’					
+24	96		SBJ	DO	TR	TR	Pedro se ha quita-do la camisa	PN[SG.M] REFL.3SG AUX.3SG снимать-PTCP:PRF ART.DEF.SG.F рубашка[SG.F]	‘Педро снял рубашку.’					
+24	97		SBJ	con	Y	SBJ_con	Pedro sueñ-a con María	PN[SG.M] видеть_во_сне-PRS.3SG с PN[SG.F]	‘Педро снится Мария.’					
+24	98		SBJ	con	Y	SBJ_con	Pedro se pus-o de acuerdo con María	PN[SG.M] REFL.3SG класть-AOR.3SG от/из согласие[SG.M] с PN[SG.F]	‘Педро согласился с Марией.’					
+24	99		SBJ	con	Y	SBJ_con	Pedro riñ-ó con María	PN[SG.M] ругаться-AOR.3SG с PN[SG.F]	‘Педро поссорился с Марией.’					
+24	100		SBJ	DO	TR	TR	est-a taza cuest-a un dólar	этот-SG.F чашка[SG.F] стоить-PRS.3SG ART.NDEF.SG.M доллар[SG.M]	‘Эта чашка стоит один доллар.’					
+24	101		SBJ	contra	Y	SBJ_contra	Pedro dispar-ó contra un pájaro 	PN[SG.M] стрелять-AOR.3SG против ART.NDEF.SG.M птица[SG.M]	‘Педро выстрелил в птицу.’					
+24	102		SBJ	DO	TR	TR	Pedro ech-ó azúcar a la taza	PN[SG.M] бросать-AOR.3SG сахар[SG.M] к ART.DEF.SG.F чашка[SG.F]	‘Педро насыпал сахар в чашку.’					
+24	103		SBJ	DO	TR	TR	Pedro ha perdi-do la-s llave-s	PN[SG.M] AUX.3SG терять-PTCP:PRF ART.DEF.F-PL ключ[SG.F]-PL	‘Педро потерял ключи.’					
+24	104		SBJ	en	Y	SBJ_en	el leño se hundi-ó en el agua	ART.DEF.SG.M бревно[SG.M] REFL.3SG топить-AOR.3SG в/на ART.DEF.SG.F вода[SG.F]	‘Полено утонуло в воде.’					
+24	105		SBJ	DO	TR	TR	Pedro ha mata-do a María	PN[SG.M] AUX.3SG убивать-PTCP:PRF DIR.OBJ.ANM PN[SG.F]	‘Педро убил Марию.’					
+24	106		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro ha da-do un golpe a María	PN[SG.M] AUX.3SG давать-PTCP:PRF ART.NDEF.SG.M удар [SG.M] NDIR.OBJ PN[SG.F]	‘Педро ударил Марию.’					
+24	107		SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro ha da-do un beso a María	PN[SG.M] AUX.3SG давать-PTCP:PRF ART.NDEF.SG.M поцелуй[SG.M] NDIR.OBJ PN[SG.F]	‘Педро поцеловал Марию.’					
+24	108		SBJ	DO	TR	TR	Pedro ha leí-do un libro interesante	PN[SG.M] AUX.3SG читать-PTCP:PRF ART.NDEF.SG.M книга[SG.M] интересный[SG.M]	‘Педро прочел интересную книгу.’					
+24	109		SBJ	DO	TR	TR	Pedro movi-ó un dedo	PN[SG.M] двигать-AOR.3SG ART.NDEF.SG.M палец[SG.M]	‘Педро пошевелил пальцем.’					
+24	110		SBJ	DO	TR	TR	Pedro respet-a a María	PN[SG.M] уважать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро уважает Марию.’					
+24	111		DO	SBJ	X	DO_SBJ	a Pedro lo/le repugn-an lo-s plato-s suci-o-s	DIR.OBJ.ANM PN[SG.M] он.DIR.OBJ.ANM вызывать_отвращение-PRS.3PL ART.DEF.M-PL тарелка[M]-PL грязный-M-PL	‘Педро брезгует грязными тарелками.’					
+24	112		SBJ	con	Y	SBJ_con	Pedro est-á content-o con su hijo	PN[SG.M] находиться-PRS.3SG довольный-SG.M с свой[SG.M] сын[SG.M]	‘Педро доволен своим сыном.’	Non-verbal predicate.				
+24	113		SBJ	de	Y	SBJ_de	Pedro se enamor-ó de María	PN[SG.M] REFL.3SG влюбляться-AOR.3SG от/из PN[SG.F]	‘Педро влюбился в Марию.’					
+24	114		SBJ	en	Y	SBJ_en	Pedro confí-a en María	PN[SG.M] доверять-PRS.3SG в/на PN[SG.F]	‘Педро доверяет Марии.’					
+24	115		SBJ	DO	TR	TR	Pedro compadec-e a su madre	PN[SG.M] сострадать-PRS.3SG DIR.OBJ.ANM свой[SG.F] мать[SG.F]	‘Педро жалеет свою мать.’					
+24	116		SBJ	DO	TR	TR	Pedro envidi-a a María	PN[SG.M] завидовать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро завидует Марии.’					
+24	117		SBJ	con	Y	SBJ_con	Pedro est-á furios-o con María	PN[SG.M] находиться-PRS.3SG гневный[SG]-M с PN[SG.F]	‘Педро злится на Марию.’	Non-verbal predicate.				
+24	118		DO	SBJ	X	DO_SBJ	a Pedro lo/le ha sorprendi-do el regalo	DIR.OBJ.ANM PN[SG.M] он.DIR.OBJ.ANM AUX.3SG поражать-PTCP:PRF ART.DEF.SG.M подарок[SG.M]	‘Педро удивил этот подарок.’	  				
+24	119		NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le gust-a el té	NDIR.OBJ PN[SG.M] он.NDIR.OBJ нравиться-PRS.3SG ART.DEF.SG.M чай[SG.M]	‘Педро нравится чай.’					
+24	120		SBJ	de	Y	SBJ_de	Pedro disfrut-a de=l té caliente	PN[SG.M] наслаждаться-PRS.3SG от/из=ART.DEF.SG.M чай[SG.M] горячий[SG.M]	‘Педро наслаждается горячим чаем.’					
+24	121		SBJ	DO	TR	TR	Pedro quier-e un teléfono movil nuev-o	PN[SG.M] хотеть-PRS.3SG ART.NDEF.SG.M телефон[SG.M] мобильный[SG.M] новый[SG]-M	‘Педро хочет новый мобильник.’					
+24	122		SBJ	con	Y	SBJ_con	Pedro se enfad-a con María	PN[SG.M] REFL.3SG сердить-PRS.3SG с PN[SG.F]	‘Педро сердится на Марию.’					
+24	123		SBJ	con	Y	SBJ_con	Pedro est-á disgusta-do con María	PN[SG.M] находиться-PRS.3SG раздражать-PTCP.SG.M c PN[SG.F]	‘Педро обиделся на Марию.’	Non-verbal predicate (passive).				
+24	124		SBJ	DO	TR	TR	Pedro afligi-ó mucho a María	PN[SG.M] огорчать-AOR.3SG очень DIR.OBJ.ANM PN[SG.F]	‘Педро очень огорчил Марию.’					
+24	125		DO	SBJ	X	DO_SBJ	a Pedro lo/le sorprendi-ó est-a ciudad	DIR.OBJ.ANM PN[SG.M] он.DIR.OBJ.ANM поражать-AOR.3SG этот[SG]-F город[SG.F]	‘Педро поразил этот город.’					
+24	126		SBJ	DO	TR	TR	Pedro despreci-a a María	PN[SG.M] презирать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро презирает Марию.’					
+24	127		SBJ	por.culpa.de	Y	SBJ_por.culpa.de	Pedro se afligi-ó por culpa de su hijo	PN[SG.M] REFL.3SG огорчать-AOR.3SG для вина[SG.F] от/из свой[SG.M] сын[SG.M]	‘Педро огорчился из-за своего сына.’					
+24	128		SBJ	con	Y	SBJ_con	Pedro se irrit-a con su hija	PN[SG.M] REFL.3SG раздражать-PRS.3SG с своя[SG.F] дочь[SG.F]	‘Педро раздражается на свою дочь.’					
+24	129		SBJ	con	Y	SBJ_con	Pedro simpatiz-a con María	PN[SG.M] симпатизировать-PRS.3SG с PN[SG.F]	‘Педро симпатизирует Марии.’					
+24	130		SBJ	de	Y	SBJ_de	Pedro se avergüenz-a de su estatura	PN[SG.M] REFL.3SG стыдить-PRS.3SG от/из свой[SG.F] рост[SG.F]	‘Педро стесняется своего роста.’					
 84	1	att ha ont	SBJ	i	Y	SBJ_i	Björn ha-r ont i huvud-et	PN have-PRS painful.INDF.N.SG in head-DEF.N.SG	‘Björn has a headache.’					
 84	2	att ha	SBJ	DO	TR	TR	Björn ha-r influensa	PN have-PRS flu	‘Björn has the flu.’					
 84	3	att vara rädd	SBJ	for	Y	SBJ_for	Björn är rädd för hund-en	PN be.PRS afraid for dog-DEF.C.SG	‘Björn is afraid of the dog.’	Non-verbal predicate.				
@@ -10659,136 +10789,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 49	128	bútú 	SBJ	wure	Y	SBJ_wure								
 49	129	qànú 	SBJ	OBJ	TR	TR								
 49	130	yàagú 	SBJ	yi	Y	SBJ_yi								
-24	1		DAT	SBJ	X	DAT_SBJ								
-24	2		*	*	*									
-24	3		SBJ	DO	TR	TR								
-24	4		SBJ	DO	TR	TR								
-24	5		DAT	SBJ	X	DAT_SBJ								
-24	6		SBJ	DAT	Y	SBJ_DAT								
-24	7		SBJ	DAT	Y	SBJ_DAT								
-24	8		SBJ	DO	TR	TR								
-24	9		SBJ	DO	TR	TR								
-24	10		SBJ	en	Y	SBJ_en								
-24	11		SBJ	con	Y	SBJ_con								
-24	12		SBJ	en	Y	SBJ_en								
-24	13		SBJ	DO	TR	TR								
-24	14		SBJ	de	Y	SBJ_de								
-24	15		SBJ	DO	TR	TR								
-24	16		SBJ	DO	TR	TR								
-24	17		SBJ	DAT	Y	SBJ_DAT								
-24	18		SBJ	DO	TR	TR								
-24	19		SBJ	DO	TR	TR								
-24	20		SBJ	DO	TR	TR								
-24	21		SBJ	DO	TR	TR								
-24	22		SBJ	DO	TR	TR								
-24	23		*	*	*									
-24	24		*	*	*									
-24	25		SBJ	en	Y	SBJ_en								
-24	26		SBJ	DO	TR	TR								
-24	27		SBJ	DO	TR	TR								
-24	28		SBJ	DO	TR	TR								
-24	29		DAT	SBJ	X	DAT_SBJ								
-24	30		SBJ	de	Y	SBJ_de								
-24	31		SBJ	DO	TR	TR								
-24	32		SBJ	DO	TR	TR								
-24	33		SBJ	DO	TR	TR								
-24	34		SBJ	DO	TR	TR								
-24	35		SBJ	DO	TR	TR								
-24	36		SBJ	DO	TR	TR								
-24	37		SBJ	de	Y	SBJ_de								
-24	38		SBJ	DO	TR	TR								
-24	39		SBJ	DO	TR	TR								
-24	40		SBJ	DO	TR	TR								
-24	41		SBJ	DO	TR	TR								
-24	42		SBJ	DO	TR	TR								
-24	43		*	*	*									
-24	44		SBJ	DO	TR	TR								
-24	45		SBJ	DO	TR	TR								
-24	46		SBJ	DO	TR	TR								
-24	47		SBJ	DO	TR	TR								
-24	48		SBJ	con	Y	SBJ_con								
-24	49		SBJ	DO	TR	TR								
-24	50		SBJ	DO	TR	TR								
-24	51		SBJ	PRED	Y	SBJ_PRED								
-24	52		SBJ	DO	TR	TR								
-24	53		SBJ	DO	TR	TR								
-24	54		SBJ	de	Y	SBJ_de								
-24	55		SBJ	DO	TR	TR								
-24	56		DAT	SBJ	X	DAT_SBJ								
-24	57		SBJ	DO	TR	TR								
-24	58		DAT	SBJ	X	DAT_SBJ								
-24	59		SBJ	DO	TR	TR								
-24	60		SBJ	DO	TR	TR								
-24	61		DAT	SBJ	X	DAT_SBJ								
-24	62		SBJ	DAT	Y	SBJ_DAT								
-24	63		SBJ	DO	TR	TR								
-24	64		SBJ	de	Y	SBJ_de								
-24	65		*	*	*									
-24	66		SBJ	DO	TR	TR								
-24	67		SBJ	a	Y	SBJ_a								
-24	68		SBJ	DO	TR	TR								
-24	69		SBJ	DO	TR	TR								
-24	70		SBJ	DO	TR	TR								
-24	71		SBJ	DO	TR	TR								
-24	72		SBJ	DO	TR	TR								
-24	73		*	*	*									
-24	74		SBJ	DO	TR	TR								
-24	75		SBJ	DO	TR	TR								
-24	76		SBJ	DO	TR	TR								
-24	77		SBJ	DO	TR	TR								
-24	78		SBJ	DO	TR	TR								
-24	79		SBJ	en	Y	SBJ_en								
-24	80		SBJ	con	Y	SBJ_con								
-24	81		SBJ	a	Y	SBJ_a								
-24	82		*	*	*									
-24	83		SBJ	de	Y	SBJ_de								
-24	84		SBJ	con	Y	SBJ_con								
-24	85		SBJ	DO	TR	TR								
-24	86		SBJ	DO	TR	TR								
-24	87		SBJ	DO	TR	TR								
-24	88		SBJ	DO	TR	TR								
-24	89		SBJ	DO	TR	TR								
-24	90		SBJ	de	Y	SBJ_de								
-24	91		SBJ	DO	TR	TR								
-24	92		SBJ	DO	TR	TR								
-24	93		SBJ	DO	TR	TR								
-24	94		SBJ	con	Y	SBJ_con								
-24	95		SBJ	DO	TR	TR								
-24	96		SBJ	DO	TR	TR								
-24	97		SBJ	con	Y	SBJ_con								
-24	98		SBJ	con	Y	SBJ_con								
-24	99		SBJ	con	Y	SBJ_con								
-24	100		SBJ	DO	TR	TR								
-24	101		SBJ	contra	Y	SBJ_contra								
-24	102		SBJ	DO	TR	TR								
-24	103		SBJ	DO	TR	TR								
-24	104		SBJ	en	Y	SBJ_en								
-24	105		SBJ	DO	TR	TR								
-24	106		SBJ	DAT	Y	SBJ_DAT								
-24	107		SBJ	DAT	Y	SBJ_DAT								
-24	108		SBJ	DO	TR	TR								
-24	109		SBJ	DO	TR	TR								
-24	110		SBJ	DO	TR	TR								
-24	111		DAT	SBJ	X	DAT_SBJ								
-24	112		SBJ	con	Y	SBJ_con								
-24	113		SBJ	de	Y	SBJ_de								
-24	114		SBJ	en	Y	SBJ_en								
-24	115		SBJ	DO	TR	TR								
-24	116		SBJ	DO	TR	TR								
-24	117		SBJ	con	Y	SBJ_con								
-24	118		DAT	SBJ	X	DAT_SBJ								
-24	119		DAT	SBJ	X	DAT_SBJ								
-24	120		SBJ	de	Y	SBJ_de								
-24	121		SBJ	DO	TR	TR								
-24	122		SBJ	con	Y	SBJ_con								
-24	123		SBJ	con	Y	SBJ_con								
-24	124		SBJ	DO	TR	TR								
-24	125		DAT	SBJ	X	DAT_SBJ								
-24	126		SBJ	DO	TR	TR								
-24	127		SBJ	por.culpa.de	Y	SBJ_por.culpa.de								
-24	128		SBJ	con	Y	SBJ_con								
-24	129		SBJ	con	Y	SBJ_con								
-24	130		SBJ	de	Y	SBJ_de								
 5	1	-	*	*	*									
 5	2	-	*	*	*									
 5	3	qaIq’anas	NOM	SUPEL	Y	NOM_SUPEL								
