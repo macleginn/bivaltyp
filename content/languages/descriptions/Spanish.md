@@ -3,7 +3,7 @@ Contributed by Elena Gorbova ([Academia.edu profile](https://independent.academi
 
 ![E.G.'s photo]({{ site_url_j }}/images/Gorbova.jpg "E.G.'s photo")
 
-Elena Gorbova provided the data in 2012. She usedthe Russian version of the questionnaire. 
+Elena Gorbova provided the data in 2012. She used the Russian version of the questionnaire. 
 
 ## How to cite
 > Gorbova, Elena. 2022. Bivalent patterns in {{ language_external }}. 
