@@ -3,7 +3,7 @@ Contributed by [Anastasia Makarova](https://katalog.uu.se/profile/?id=N20-1741) 
 
 ![A.M.'s photo]({{ site_url_j }}/images/MakarovaAB.jpg "A.M.'s photo")
 
-The dataset was put together in 2017 by Anastasia Makarova (native speaker of Russian, knowledge of Czech as a foreign language) in consultation with Lucie Taraldsen Medová (native speaker of Czech). The Russian version of the questionnaire was used for elicitation. Anna Vashchenkova contributed greatly contributed to the interlinearizationof the Czech sentences.
+The dataset was put together in 2017 by Anastasia Makarova (native speaker of Russian, knowledge of Czech as a foreign language) in consultation with Lucie Taraldsen Medová (native speaker of Czech). The Russian version of the questionnaire was used for elicitation. Anna Vashchenkova greatly contributed to the interlinearization of the Czech sentences.
 
 ## How to cite
 > Makarova, Anastasia. 2021. Bivalent patterns in {{ language_external}}. 
