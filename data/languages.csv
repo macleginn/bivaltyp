@@ -30,8 +30,8 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 29	английский	English	English	Дмитрий Сергеевич Николаев, Джоханна Николс		Dmitry Nikolaev, Johanna Nichols					Europe	Indo-European	Germanic	53	-1	2	WALS		stan1293	
 30	китайский	Chinese_Mandarin	Mandarin Chinese	Елена Николаевна Колпачкова		Elena Kolpachkova					East and Southeast Asia	Sino-Tibetan	Chinese	40.02	116.23	0	WALS		mand1415	
 31	польский	Polish	Polish	Георгий Алексеевич Мороз		George Moroz		2017	July 26, 2021	September 24, 2021	Europe	Indo-European	Slavic	51.84	18.63	7	рабочие материалы	Russian	poli1260	
-32	нидерландский	Dutch	Dutch	Михаил Юрьевич Князев		Mikhail Knyazev					Europe	Indo-European	Germanic	52	5	0	WALS		dutc1256	
-33	итальянский	Italian	Italian	Анна Александрова		Anna Alexandrova		2013	May 10, 2022	May 10, 2022	Europe	Indo-European	Romance	43.05	12.65	0	рабочие материалы		ital1282	
+32	нидерландский	Dutch	Dutch	Михаил Юрьевич Князев		Mikhail Knyazev		2013	May 14, 2022	May 14, 2022	Europe	Indo-European	Germanic	52	5	0	WALS		dutc1256	
+33	итальянский	Italian	Italian	Анна Александрова		Anna Alexandrova		2013	May 14, 2022	May 14, 2022	Europe	Indo-European	Romance	43.05	12.65	0	рабочие материалы		ital1282	
 34	коми-зырянский	Komi_Zyrian	Komi-Zyrian	Екатерина Николаевна Сергеева		Ekaterina Sergeeva					Europe	Uralic	Permic	64.05	54.95	16	Sergeeva 2018: 339		komi1268	
 35	осетинский	Ossetic	Ossetic	Арсений Павлович Выдрин		Arseniy Vydrin					West Asia and the Caucasus	Indo-European	Iranian	42.98	44.61	9	рабочие материалы		osse1243	
 36	сербский	Serbian	Serbian	Анастасия Леонидовна Макарова		Anastasia Makarova					Europe	Indo-European	Slavic	44.32	21.92	6	WALS (в раб. материалах и в википедии различают датив и местный, но они всегда совпадают)		serb1264	In Glottolog, this is Serbian Standard
@@ -75,7 +75,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 74	болгарский	Bulgarian	Bulgarian	Красимира Петрова		Krasimira Petrova		2018			Europe	Indo-European	Slavic	43.36	25.05	0	WALS		bulg1262	
 75	удинский	Udi	Udi	Тимур Анатольевич Майсак		Timur Maisak		2017-2018			West Asia and the Caucasus	Nakh-Daghestanian	Lezgic	40.9	47.72	10	Майсак; 8 основных, еще 2 ок, еще 2 полудохлых		udii1243	
 76	ассирийский новоарамейский (урмийский)	Assyrian_Neo_Aramaic	Assyrian Neo-Aramaic	Сергей Сергеевич Сай		Sergey Say	not shown	2019	August 19, 2020	November 15, 2020	West Asia and the Caucasus	Afro-Asiatic	Semitic	36.75	43	0	personal knowledge	Russian	assy1241	
-77	казахский	Kazakh	Kazakh	Анастасия Ивановна Жук		Anastasia Zhuk		2018			North and Central Asia	Altaic	Turkic	50	70	6	Johanson		kaza1248	
+77	казахский	Kazakh	Kazakh	Анастасия Ивановна Жук		Anastasia Zhuk		2018	May 14, 2022	May 14, 2022	North and Central Asia	Altaic	Turkic	50	70	6	Johanson		kaza1248	
 78	чеченский	Chechen	Chechen	Зарина Молочиева		Zarina Molochieva		2018-2019			West Asia and the Caucasus	Nakh-Daghestanian	Nakh	43.5	45.5	10	Zarina Molochieva, p.c.		chec1245	
 79	даргинский (ицаринский)	Dargwa_Icari	Icari Dargwa	Расул Османович Муталов		Rasul Mutalov		2018			West Asia and the Caucasus	Nakh-Daghestanian	Lak-Dargwa	41.98	47.57	26	Это мои подсчеты на основе того, что я прочитал в грамматике (7 нелокативных падежей + 5 локализаций на 4 падежа, итого 27, но суперлатив упоминается в обоих списках, итого 26)		icar1234	
 80	колтта-саамский	Saami_Skolt	Skolt Saami	Алена Алексеевна Блинова, Ксения Андреевна Шагал, Тимоти Фейст		Alena Blinova, Ksenia Shagal, Timothy Feist	not shown	2018-2020	August 23, 2020	December 31, 2020	Europe	Uralic	Saami	69.52	28.63	9	Грамматика Feist (он же собирал данные)	English	skol1241	
