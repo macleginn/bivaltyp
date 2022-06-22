@@ -1,5 +1,10 @@
 # {{ language_external }}
-Contributed by Mikhail Knyazev. Anna Tarabygina greatly contributed to the technical preparation of the Dutch dataset.
+Contributed by [Mikhail Knyazev](https://scholar.google.com/citations?user=PNQTWwEAAAAJ&hl=en). 
+
+![M.K.'s photo]({{ site_url_j }}/images/Knyazev.jpg "M.K.'s photo")
+
+The data were gathered in {{ data_collection_year }} from {{ consultant }}. The English version of the questionnaire was used for elicitation.
+Anna Tarabygina greatly contributed to the technical preparation of the Dutch dataset.
 
 ## How to cite
 > Knyazev, Mikhail. 2022. Bivalent patterns in {{ language_external }}. 
