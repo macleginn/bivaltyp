@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Mikhail Knyazev](https://scholar.google.com/citations?user=PNQTWwEAAAAJ&hl=en). 
+Contributed by [Mikhail Knyazev](https://sites.google.com/view/mknyazev/home?authuser=0) ([Google Scholar profile](https://scholar.google.com/citations?user=PNQTWwEAAAAJ&hl=en)). 
 
 ![M.K.'s photo]({{ site_url_j }}/images/Knyazev.jpg "M.K.'s photo")
 
