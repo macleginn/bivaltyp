@@ -137,7 +137,7 @@
   In: Say, Sergey (ed.). BivalTyp: 
   Typological database of bivalent verbs and their encoding frames. 
   St. Petersburg: Institute for Linguistic Studies, RAS. 
-  (Data first published on May 14, 2022; last revised on May 14, 2022.) 
+  (Data first published on May 14, 2022; last revised on June 23, 2022.) 
   (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, Accessed on <span id="today"></span>)</p>
 </blockquote>
 
@@ -165,6 +165,8 @@
                 <option value="SBJ_di">SBJ_di</option>
                 <option value="SBJ_in">SBJ_in</option>
                 <option value="SBJ_per">SBJ_per</option>
+                <option value="SBJ_PRED">SBJ_PRED</option>
+                <option value="SBJ_rispetto.a">SBJ_rispetto.a</option>
                 <option value="TR">TR</option>
             </select>
         </div>
@@ -252,7 +254,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="TR" data-valpal="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>2. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/haveillness.html">have (illness)</a>
@@ -264,17 +266,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -283,7 +285,8 @@
                     <tr>
                         <td class="example-word">Leo</td>
                         <td class="example-word">ha</td>
-                        <td class="example-word">l’influenz-a</td>
+                        <td class="example-word">l’</td>
+                        <td class="example-word">influenz-a</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -304,14 +307,16 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
-                            <span> flu-</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>flu-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="example-translation" colspan="3">‘Leo has a flu.’</td>
+                        <td class="example-translation" colspan="4">‘Leo has a flu.’</td>
                     </tr>
                 </table>
             </div>
@@ -855,9 +860,7 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>age.</span>
+                            <span>-age.</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
@@ -867,7 +870,6 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">prs</span>
-                            <span>.</span>
                         </td>
                         <td class="example-gloss">
                             <span>negatively</span>
@@ -878,7 +880,9 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
-                            <span> memory-</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>memory-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
@@ -1144,7 +1148,8 @@
                         <td class="example-word">Leo</td>
                         <td class="example-word">è</td>
                         <td class="example-word">uscit-o</td>
-                        <td class="example-word">dall’uffici-o</td>
+                        <td class="example-word">dall’</td>
+                        <td class="example-word">uffici-o</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -1177,14 +1182,16 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">m</span>
-                            <span> office-</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>office-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">m</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="example-translation" colspan="4">‘Leo exited the office.’</td>
+                        <td class="example-translation" colspan="5">‘Leo exited the office.’</td>
                     </tr>
                 </table>
             </div>
@@ -1223,8 +1230,8 @@
                         <td class="example-word">port-a</td>
                         <td class="example-word">la</td>
                         <td class="example-word">mucc-a</td>
-                        <td class="example-word">(a</td>
-                        <td class="example-word">pascol-o)</td>
+                        <td class="example-word">a</td>
+                        <td class="example-word">pascol-o</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -1253,18 +1260,17 @@
                             <span class="gloss">f</span>
                         </td>
                         <td class="example-gloss">
-                            <span>(to</span>
+                            <span>to</span>
                         </td>
                         <td class="example-gloss">
                             <span>pasture-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">m</span>
-                            <span>)</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="example-translation" colspan="6">‘Leo is leading the cow (to the pasture).’</td>
+                        <td class="example-translation" colspan="6">‘Leo is leading the cow to the pasture.’</td>
                     </tr>
                 </table>
             </div>
@@ -1451,8 +1457,8 @@
                         <td class="example-word">tien-e</td>
                         <td class="example-word">un</td>
                         <td class="example-word">libr-o</td>
-                        <td class="example-word">(in</td>
-                        <td class="example-word">man-o)</td>
+                        <td class="example-word">in</td>
+                        <td class="example-word">man-o</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -1481,18 +1487,17 @@
                             <span class="gloss">m</span>
                         </td>
                         <td class="example-gloss">
-                            <span>(in</span>
+                            <span>in</span>
                         </td>
                         <td class="example-gloss">
                             <span>hand-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
-                            <span>)</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="example-translation" colspan="6">‘Leo is holding a book (in hands).’</td>
+                        <td class="example-translation" colspan="6">‘Leo is holding a book in his hands.’</td>
                     </tr>
                 </table>
             </div>
@@ -1675,7 +1680,7 @@
                         <td class="example-word">è</td>
                         <td class="example-word">arrivat-o</td>
                         <td class="example-word">a</td>
-                        <td class="example-word">riva</td>
+                        <td class="example-word">riv-a</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -1690,10 +1695,6 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">prs</span>
-                            <span>-</span>
-                            <span class="gloss">sg</span>
-                            <span>.</span>
-                            <span class="gloss">m</span>
                         </td>
                         <td class="example-gloss">
                             <span>reach.</span>
@@ -1932,6 +1933,9 @@
                     </tr>
                     <tr>
                         <td class="example-translation" colspan="5">‘Leo is friends with Maria.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
@@ -2196,10 +2200,10 @@
                         <td class="example-gloss">
                             <span>wait-3</span>
                             <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">prs</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">prs</span>
-                            <span> </span>
                             <span class="gloss">pn</span>
                             <span>(</span>
                             <span class="gloss">f</span>
@@ -2450,7 +2454,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="TR" data-valpal="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>32. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/get_to_know.html">get to know</a>
@@ -2462,17 +2466,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -2795,7 +2799,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="example-translation" colspan="5">‘Лев made a bomb.’</td>
+                        <td class="example-translation" colspan="5">‘Leo made a bomb.’</td>
                     </tr>
                 </table>
             </div>
@@ -3149,7 +3153,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="TR" data-valpal="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>42. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/forfeit.html">forfeit</a>
@@ -3161,17 +3165,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -3217,7 +3221,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="TR" data-valpal="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>43. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/try_to_catch.html">try to catch</a>
@@ -3229,17 +3233,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -3364,7 +3368,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="example-translation" colspan="5">‘Лев broke the stick.’</td>
+                        <td class="example-translation" colspan="5">‘Leo broke the stick.’</td>
                     </tr>
                 </table>
             </div>
@@ -3696,7 +3700,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="example-translation" colspan="5">‘Лев washed the cup.’</td>
+                        <td class="example-translation" colspan="5">‘Leo washed the cup.’</td>
                     </tr>
                 </table>
             </div>
@@ -3786,7 +3790,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="Y" data-valpal="SBJ_PRED" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>51. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_called.html">be called</a>
@@ -3798,17 +3802,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>SBJ_PRED</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: PRED</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -3823,10 +3827,7 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">dem</span>
-                            <span>.</span>
-                            <span class="gloss">prox</span>
-                            <span>-</span>
+                            <span>this-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">m</span>
@@ -4370,10 +4371,7 @@
                             <span class="gloss">prs</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">dem</span>
-                            <span>.</span>
-                            <span class="gloss">prox</span>
-                            <span>-</span>
+                            <span>this-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
@@ -4858,11 +4856,14 @@
                     <tr>
                         <td class="example-translation" colspan="7">‘My shirt is different from yours.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
+                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="Y" data-valpal="SBJ_rispetto.a" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>65. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/fall_behind.html">fall behind</a>
@@ -4874,17 +4875,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>SBJ_rispetto.a</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: rispetto.a</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -4978,7 +4979,7 @@
                         <td class="example-word">Leo</td>
                         <td class="example-word">ar-a</td>
                         <td class="example-word">il</td>
-                        <td class="example-word">amp-o</td>
+                        <td class="example-word">camp-o</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -5534,10 +5535,7 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">dem</span>
-                            <span>.</span>
-                            <span class="gloss">prox</span>
-                            <span>-</span>
+                            <span>this-</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">f</span>
@@ -6682,9 +6680,9 @@
                         <td class="example-gloss">
                             <span class="gloss">poss</span>
                             <span>.1</span>
-                            <span class="gloss">sg</span>
-                            <span>-</span>
                             <span class="gloss">pl</span>
+                            <span>-</span>
+                            <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">m</span>
                         </td>
@@ -6702,7 +6700,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="X" data-valpal="a_SBJ" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>88. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/miss.html">miss</a>
@@ -6714,17 +6712,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>a_SBJ</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: a</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: X</td>
                     </tr>
                 </table>
             </div>
@@ -7360,7 +7358,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="TR" data-valpal="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>97. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/dreamsleeping.html">dream (sleeping)</a>
@@ -7372,17 +7370,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -7564,7 +7562,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="TR" data-valpal="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>100. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/cost.html">cost</a>
@@ -7576,17 +7574,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -7905,7 +7903,7 @@
                         <td class="example-word">è</td>
                         <td class="example-word">affondat-o</td>
                         <td class="example-word">nell’</td>
-                        <td class="example-word">acqua</td>
+                        <td class="example-word">acqu-a</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -8549,6 +8547,9 @@
                     <tr>
                         <td class="example-translation" colspan="6">‘Leo is pleased with his son.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
+                    </tr>
                 </table>
             </div>
         </div>
@@ -8897,10 +8898,9 @@
                             <span class="gloss">m</span>
                         </td>
                         <td class="example-gloss">
-                            <span>often</span>
+                            <span>with</span>
                         </td>
                         <td class="example-gloss">
-                            <span>with </span>
                             <span class="gloss">pn</span>
                             <span>(</span>
                             <span class="gloss">f</span>
@@ -8909,6 +8909,9 @@
                     </tr>
                     <tr>
                         <td class="example-translation" colspan="5">‘Leo is angry with Maria.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (passive).</td>
                     </tr>
                 </table>
             </div>
@@ -8946,7 +8949,7 @@
                         <td class="example-word">Leo</td>
                         <td class="example-word">è</td>
                         <td class="example-word">rimast-o</td>
-                        <td class="example-word">sorpres-oi</td>
+                        <td class="example-word">sorpres-o</td>
                         <td class="example-word">dal</td>
                         <td class="example-word">regal-o</td>
                     </tr>
@@ -9005,7 +9008,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="X" data-valpal="a_SBJ" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>119. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/lovetea.html">love (tea)</a>
@@ -9017,17 +9020,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>a_SBJ</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: a</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: X</td>
                     </tr>
                 </table>
             </div>
@@ -9231,7 +9234,7 @@
             </div>
         </div>
     </div>
-    <div data-locus="*" data-valpal="" style="margin-bottom: 5px">
+    <div data-locus="Y" data-valpal="SBJ_con" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>122. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/have_a_grudge.html">have a grudge</a>
@@ -9243,17 +9246,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>SBJ_con</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: con</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -9297,6 +9300,9 @@
                     </tr>
                     <tr>
                         <td class="example-translation" colspan="5">‘Leo holds a grudge against Maria.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (passive).</td>
                     </tr>
                 </table>
             </div>
@@ -9851,6 +9857,9 @@
                     </tr>
                     <tr>
                         <td class="example-translation" colspan="5">‘Leo is fond of Maria.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
                     </tr>
                 </table>
             </div>
