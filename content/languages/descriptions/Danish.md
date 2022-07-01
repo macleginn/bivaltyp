@@ -23,13 +23,13 @@ In Danish, the finite verb always occupies the second slot in the sentence (V2).
 Nouns inflect for number (singular, plural) and definiteness (definite, indefinite). Only personal pronouns show case distinction (nominative, oblique). Nouns fall into two genders (common, neuter) that manifest themselves in the forms of the definiteness markers: *en* with common nouns and *et* with neuter nouns. Indefinite articles precede the noun (*en bil* ‘a car,’ *et dyr* ‘an animal’). Definite articles either appear as bound morphemes following the noun (*bil-en* ‘the car,’ *dyr-et* ‘the animal’), or, if the noun is modified by an adjective, precede the modifier (*den nye bil* ‘the new car’, *det vilde dyr* ‘the wild animal’). Most adjectives agree with nouns: indefinite forms have the endings *-Ø* or *-t* in the singular, and *-e* in the plural, whereas the ending of all definite forms is *-e*, cf. (1) and (2).
 
 ```
-(1)	 Peter  sang      en       smuk            sang
+(1)  Peter  sang      en       smuk            sang
      PN     sing.PST  INDF.SG  beautiful.C.SG  song(C)
-	   ‘Peter sang a beautiful song.’
+    ‘Peter sang a beautiful song.’
 
-(2)	 Peter  sang      den     smukk-e        sang
-	   PN     sing.PST  DEF.SG  beautiful-DEF  song(C)
-	   ‘Peter sang the beautiful song.’
+(2)  Peter  sang      den     smukk-e        sang
+     PN     sing.PST  DEF.SG  beautiful-DEF  song(C)
+     ‘Peter sang the beautiful song.’
 
 ```
 
@@ -44,27 +44,27 @@ i.	If it is given as a lexeme in the dictionary Den Danske Ordbog: for example, 
 ii.	If the preposition is mobile and can move to the end of the clause: for example, *putte i* ‘pour’, see (3):
 
 ```
-(3)	 Peter  putte-de  sukker-et        i
-	   PN     put-PST   sugar(N)-DEF.SG  in
-	   ‘Peter poured the sugar.’
+(3)  Peter  putte-de  sukker-et        i
+     PN     put-PST   sugar(N)-DEF.SG  in
+     ‘Peter poured the sugar.’
 
 ```
 
 iii.	If there are more than one preposition associated with the verb: for example, *synke ned* ‘sink’, see (4):
 
 ```
-(4)	 Kævl-en        sank      ned   i   vand-et
-	   log(C)-DEF.SG  sink.PST  down  in  water(N)-DEF.SG
-	   ‘The log sank in the water.’
+(4)  Kævl-en        sank      ned   i   vand-et
+     log(C)-DEF.SG  sink.PST  down  in  water(N)-DEF.SG
+     ‘The log sank in the water.’
 
 ```
 
 Clausal arguments are marked with the bound morph *at*, see (5):
 
 ```
-(5)	 Peter  er      oppe  at  slås        med   Marie
-	   PN     be.PRS  up    to  flight.INF  with  PN
-	   ‘Peter is up to fight with Marie.’
+(5)  Peter  er      oppe  at  slås        med   Marie
+     PN     be.PRS  up    to  flight.INF  with  PN
+     ‘Peter is up to fight with Marie.’
 
 ```
 
