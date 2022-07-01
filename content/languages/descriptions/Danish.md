@@ -25,7 +25,7 @@ Nouns inflect for number (singular, plural) and definiteness (definite, indefini
 ```
 (1)  Peter  sang      en       smuk            sang
      PN     sing.PST  INDF.SG  beautiful.C.SG  song(C)
-    ‘Peter sang a beautiful song.’
+     ‘Peter sang a beautiful song.’
 
 (2)  Peter  sang      den     smukk-e        sang
      PN     sing.PST  DEF.SG  beautiful-DEF  song(C)
