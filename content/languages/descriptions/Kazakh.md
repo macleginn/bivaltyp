@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by Anastasia Zhuk. 
 
-![A.Zh.'s photo]({{ site_url_j }}/images/Zhuk.jpg "A.Zh.'s photo")
+![A.Zh.'s photo]({{ site_url_j }}/images/Zhuk.jpeg "A.Zh.'s photo")
 
 The data were mainly gathered in 2018 in Semey, Kazakhstan. The Russian version of the questionnaire was used for elicitation. Ekaterina Podkorytova greatly contributed to the technical preparation of the Kazakh dataset.
 
