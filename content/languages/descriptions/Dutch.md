@@ -32,3 +32,7 @@ Full noun phrases take the default unmarked case (distinguished from the genitiv
 ## Verb lemmas
 
 Lemmas are shown in the infinitive (*-en*) form.
+
+## Glossing abbreviations
+
+1, 2, 3 — first, second, third person; ART — article; C — common gender; COP — copula; DEF — definite; DEM — demonstrative; INDF — indefinite; INF — infinitive; N — neuter gender; PL — plural; PN — person name; POSS — possessive; PST — past; PTCP — participle; PVB — preverb; REFL — reflexive; SG — singular.
