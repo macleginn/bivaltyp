@@ -22,7 +22,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 21	новогреческий	Greek_Modern	Modern Greek	Екатерина Александровна Желтова		Ekaterina Zheltova					Europe	Indo-European	Greek	38.36	23.13	4	рабочие материалы		mode1248	
 22	древнегреческий	Greek_Ancient	Ancient Greek	Ильдар Ильбекович Ибрагимов		Ildar Ibragimov					Europe	Indo-European	Greek	39.82	21.91	5	рабочие материалы		anci1242	
 23	албанский	Albanian	Albanian	Варвара Андреевна Дивеева		Varvara Diveeva					Europe	Indo-European	Albanian	41	20	4	А.Ю.		tosk1239	Standard Albanian is most closely related to Glottolog's Northern Tosk Albanian (tosk1239)
-24	испанский	Spanish	Spanish	Елена Викторовна Горбова		Elena Gorbova		2012	April 14, 2022	June 23, 2022	Europe	Indo-European	Romance	40	-4	0	рабочие материалы		stan1288	
+24	испанский	Spanish	Spanish	Елена Викторовна Горбова		Elena Gorbova		2012	April 14, 2022	July 10, 2022	Europe	Indo-European	Romance	40	-4	0	рабочие материалы		stan1288	
 25	ирландский	Irish	Irish	Дмитрий Сергеевич Николаев		Dmitry Nikolaev					Europe	Indo-European	Celtic	53.22	-7.62	2	рабочие материалы		iris1253	
 26	армянский	Armenian_Eastern	Eastern Armenian	Василиса Андреевна Кагирова		Vasilisa Kagirova					West Asia and the Caucasus	Indo-European	Armenian	40	45	5	рабочие материалы		nucl1235	
 27	азербайджанский	Azerbaijani	Azerbaijani	Евгения В. Теплухина		Evgenija Teplukhina					West Asia and the Caucasus	Altaic	Turkic	40	47.72	7	рабочие материалы		nort2697	This idiom is Glottolog's North Azerbaijani (nort2697)
@@ -30,7 +30,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 29	английский	English	English	Дмитрий Сергеевич Николаев, Джоханна Николс		Dmitry Nikolaev, Johanna Nichols					Europe	Indo-European	Germanic	53	-1	2	WALS		stan1293	
 30	китайский	Chinese_Mandarin	Mandarin Chinese	Елена Николаевна Колпачкова		Elena Kolpachkova					East and Southeast Asia	Sino-Tibetan	Chinese	40.02	116.23	0	WALS		mand1415	
 31	польский	Polish	Polish	Георгий Алексеевич Мороз		George Moroz		2017	July 26, 2021	September 24, 2021	Europe	Indo-European	Slavic	51.84	18.63	7	рабочие материалы	Russian	poli1260	
-32	нидерландский	Dutch	Dutch	Михаил Юрьевич Князев		Mikhail Knyazev	Vera Van Veen	2013	May 14, 2022	June 23, 2022	Europe	Indo-European	Germanic	52	5	0	WALS		dutc1256	
+32	нидерландский	Dutch	Dutch	Михаил Юрьевич Князев	Вера ван Veen	Mikhail Knyazev	Vera van Veen	2013	May 14, 2022	July 10, 2022	Europe	Indo-European	Germanic	52	5	0	WALS		dutc1256	
 33	итальянский	Italian	Italian	Анна Александрова		Anna Alexandrova		2013	May 14, 2022	June 23, 2022	Europe	Indo-European	Romance	43.05	12.65	0	рабочие материалы		ital1282	
 34	коми-зырянский	Komi_Zyrian	Komi-Zyrian	Екатерина Николаевна Сергеева		Ekaterina Sergeeva					Europe	Uralic	Permic	64.05	54.95	16	Sergeeva 2018: 339		komi1268	
 35	осетинский	Ossetic	Ossetic	Арсений Павлович Выдрин		Arseniy Vydrin					West Asia and the Caucasus	Indo-European	Iranian	42.98	44.61	9	рабочие материалы		osse1243	
