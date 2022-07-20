@@ -33,7 +33,7 @@ Spanish has differential object marking that is realized by means of the preposi
 
 ```
 (1)  Pedro     respet-a         a            María
-     PN[SG.M]	 respect-PRS.3SG  DIR.OBJ.ANM	 PN[SG.F]
+     PN[SG.M]  respect-PRS.3SG  DIR.OBJ.ANM  PN[SG.F]
      ‘Pedro respects Maria.’
 
 (2)  Pedro     se        parec-e           a         María
