@@ -56,4 +56,9 @@ As most other languages of Iberia (Portuguese, Catalan, and others) Spanish feat
 
 ```
 ## Verb lemmas
+
 Verbs are shown in the infinitive form. For reflexive verbs, the citation form with the enclitical reflexive pronoun is used.
+
+## Glossing abbreviations
+
+1, 3 — 1st, 3rd person; ANM — animate; ART — article; AOR — aorist; AUX — auxiliary; DEF — definite; DIR — direct; F — feminine; GER — gerund; PROG — progressive; IMP — imperative; IMPF — imperfect; INF — infinitive; M — masculine; NDEF — indefinite; NDIR — indirect; OBJ — object; PL — plural; PN — person name; PRF — perfect; PRS — present; PTCP — participle; REFL — reflexive; SG — singular.
