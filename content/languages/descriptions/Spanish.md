@@ -47,11 +47,11 @@ As most other languages of Iberia (Portuguese, Catalan, and others) Spanish feat
 
 ```
 (3)  Pedro  es               loc-o
-     PN(M)  COP_HAB.3SG.PRS  crazy-M
+     PN(M)  be_HAB.PRS.3SG   crazy-M
      ‘Pedro is crazy (in general).’
 
 (4)  Pedro  está              loc-o
-     PN(M)  COP_PROG.3SG.PRS  crazy-M
+     PN(M)  be_PROG.PRS.3SG   crazy-M
      ‘Pedro is being/acting crazy.’
 
 ```
