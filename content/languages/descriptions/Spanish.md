@@ -43,7 +43,7 @@ Spanish has differential object marking that is realized by means of the preposi
 ```
 ### Copulae *ser* and *estar*
 
-As most other languages of Iberia (Portuguese, Catalan, and others) Spanish features two copula verbs, viz. *ser* and *estar*. The verb *ser* is generally used to describe inherent, permanent, and habitual characteristics of a subject, while *estar* is used to encode temporary characteristics. These copulae can be contrasted, cf. (3) and (4):
+As most other languages of Iberia (Portuguese, Catalan, and others), Spanish features two copula verbs, viz. *ser* and *estar*. The verb *ser* is generally used to describe inherent, permanent, and habitual characteristics of a subject, while *estar* is used to encode temporary characteristics. These copulae can be contrasted, cf. (3) and (4):
 
 ```
 (3)  Pedro  es               loc-o
