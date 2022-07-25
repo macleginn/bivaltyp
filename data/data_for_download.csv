@@ -927,14 +927,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 32	16	buigen	SBJ	DO	TR	TR	Piet heeft de tak ge-bog-en	PN(С) have.3SG ART.DEF.C branch(С) PTCP-bend-PTCP 	‘Piet bent the branch.’		PN(С) иметь.3SG ART.DEF.С ветка(С) PTCP-сгибать-PTCP 	‘Пит согнул ветку.’		
 32	17	zeggen	SBJ	tegen	Y	SBJ_tegen	Piet zei tegen Marie	PN(С) say.PST against PN(С)	‘Piet told Marie: ...’		PN(С) говорить.PST против PN(С)	‘Пит сказал Марии: ...’		
 32	18	houden	SBJ	DO	TR	TR	Piet houd-t het boek vast	PN(С) hold-3SG ART.DEF.N book(N) tightly	‘Piet is holding the book tightly.’		PN(С) держать-3SG ART.DEF.N книга(N) крепко	‘Пит держит книгу.’		
-32	19	bijhalen	SBJ	DO	TR	TR	Piet hal-de Marie bij	PN(С) catch-PST PN(F) at	‘Piet caught up with Marie.’		PN(С) держать-PST PN(F) у	‘Пит догнал Марию.’		
+32	19	bijhalen	SBJ	DO	TR	TR	Piet hal-de Marie bij	PN(С) catch-PST PN(C) at	‘Piet caught up with Marie.’		PN(С) держать-PST PN(C) у	‘Пит догнал Марию.’		
 32	20	melken	SBJ	DO	TR	TR	Piet heeft de koe ge-melk-t	PN(С) have.3SG ART.DEF.C cow(C) PTCP-milk-PTCP	‘Piet milked the cow.’		PN(С) иметь.3SG ART.DEF.C корова(C) PTCP-доить-PTCP.	‘Пит подоил корову.’		
 32	21	bereiken	SBJ	DO	TR	TR	Piet heeft de oever bereik-t	PN(С) have.3SG ART.DEF.C bank(C) reach-PTCP	‘Piet reached the bank.’		PN(С) иметь.3SG ART.DEF.C берег(C) достигать-PTCP	‘Пит достиг берега.’		
-32	22	aanraken	SBJ	DO	TR	TR	Piet heeft de muur aan-ge-raak-t	PN(С) have.3SG ART.DEF.C wall(C) AAN-PTCP-touch-PTCP	‘Piet touched the wall.’		PN(С) иметь.3SG ART.DEF.C стена(C) AAN-PTCP-касаться-PTCP	‘Пит дотронулся до стены.’		
+32	22	aanraken	SBJ	DO	TR	TR	Piet heeft de muur aan-ge-raak-t	PN(С) have.3SG ART.DEF.C wall(C) PVB-PTCP-touch-PTCP	‘Piet touched the wall.’		PN(С) иметь.3SG ART.DEF.C стена(C) PVB-PTCP-касаться-PTCP	‘Пит дотронулся до стены.’		
 32	23	vechten	SBJ	met	Y	SBJ_met	Piet vecht met Marie	PN(С) fight.3SG with PN(С)	‘Piet is fighting with Marie.’		PN(С) драться.3SG с PN(С)	‘Пит дерется с Марией.’		
 32	24	vrienden zijn	SBJ	met	Y	SBJ_met	Piet is vriend-en met Marie	PN(С) COP.3SG friend(C)-PL with PN(С)	‘Piet is friends with Marie.’	Non-verbal predicate.	PN(С) COP.3SG друг(C)-PL с PN(С)	‘Пит дружит с Марией.’		
 32	25	denken	SBJ	aan	Y	SBJ_aan	Piet denk-t aan Marie	PN(С) think-3SG on PN(С)	‘Piet is thinking about Marie.’		PN(С) думать-3SG в PN(С)	‘Пит думает о Марии.’		
-32	26	eten	SBJ	DO	TR	TR	Piet heeft een appel op-ge-get-en	PN(С) have.3SG ART.INDF apple(C) OP-PTCP-eat-PTCP	‘Piet ate an apple.’		PN(С) иметь.3SG ART.INDF яблоко(C) OP-PTCP-есть-PTCP	‘Пит съел яблоко.’		
+32	26	eten	SBJ	DO	TR	TR	Piet heeft een appel op-ge-get-en	PN(С) have.3SG ART.INDF apple(C) PVB-PTCP-eat-PTCP	‘Piet ate an apple.’		PN(С) иметь.3SG ART.INDF яблоко(C) PVB-PTCP-есть-PTCP	‘Пит съел яблоко.’		
 32	27	bakken	SBJ	DO	TR	TR	Piet heeft de vis ge-bakk-en	PN(С) have.3SG ART.DEF.C fish(C) PTCP-fry-PTCP	‘Piet fried the fish.’		PN(С) иметь.3SG ART.DEF.C рыба(C) PTCP-жарить-PTCP	‘Пит пожарил рыбу.’		
 32	28	wachten	SBJ	op	Y	SBJ_op	Piet wacht op Marie	PN(С) wait.3SG on PN(С)	‘Piet is waiting for Marie.’		PN(С) ждать.3SG на PN(С)	‘Пит ждет Марию.’		
 32	29	vergeten	SBJ	DO	TR	TR	Piet is de ander-e weg verget-en	PN(С) COP.3SG ART.DEF.C other-C road(C) forget-PTCP	‘Piet forgot (about) the other road.’		PN(С) COP.3SG ART.DEF.C другой-C дорога(C) забывать-PTCP	‘Пит забыл о другой дороге.’		
@@ -958,7 +958,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 32	47	zwaaien	SBJ	met	Y	SBJ_met	Piet zwaai-t met de sjaal	PN(C) wave-3SG with ART.DEF.C scarf(С)	‘Piet is waving the scarf.’		PN(C) махать-3SG c ART.DEF.C платок(С)	‘Пит машет платком.’		
 32	48	dromen	SBJ	van	Y	SBJ_van	Piet droom-t van een auto	PN(C) dream-3SG of ART.INDF car(С)	‘Piet is dreaming of a car.’		PN(C) мечтать-3SG от ART.INDF машине(С)	‘Пит мечтает о машине.’		
 32	49	schoonmaken	SBJ	DO	TR	TR	Piet heeft een kopje schoon-ge-maak-t	PN(C) have.3SG ART.INDF cup(N) clean-PTCP-make-PTCP	‘Piet washed a cup.’		PN(C) иметь.3SG ART.INDF чашка(N) чистый-PTCP-делать-PTCP	‘Пит вымыл чашку.’		
-32	50	aantrekken	SBJ	DO	TR	TR	Piet heeft zijn broek aan-ge-trokk-en	PN(C) have.3SG POSS.C.3SG trousers(C) AAN-PTCP-pull-PTCP	‘Piet put on his trousers.’		PN(C) иметь.3SG POSS.C.3SG штаны(C) AAN-PTCP-тянуть-PTCP	‘Пит надел свои штаны.’		
+32	50	aantrekken	SBJ	DO	TR	TR	Piet heeft zijn broek aan-ge-trokk-en	PN(C) have.3SG POSS.C.3SG trousers(C) PVB-PTCP-pull-PTCP	‘Piet put on his trousers.’		PN(C) иметь.3SG POSS.C.3SG штаны(C) PVB-PTCP-тянуть-PTCP	‘Пит надел свои штаны.’		
 32	51	heten	SBJ	PRED	Y	SBJ_PRED	dit voorwerp hee-t een kompas	DEM.N.SG object(N) be.called-3SG ART.INDF compass(N)	‘This object is called a compass.’		DEM.N.SG предмет(N) называться-3SG ART.INDF компас(N)	‘Этот предмет называется компас.’		
 32	52	straffen	SBJ	DO	TR	TR	Piet heeft zijn zoon ge-straf-t	PN(C) have.3SG POSS.C.3SG son(C) PTCP-punish-PTCP	‘Piet punished his son.’		PN(C) иметь.3SG POSS.C.3SG сын(C) PTCP-наказывать-PTCP	‘Пит наказал своего сына.’		
 32	53	aanvallen	SBJ	DO	TR	TR	de beer viel de visser aan	ART.DEF.C bear(C) fall.PST ART.DEF.C fisherman(C) on	‘The bear attacked the fisherman.’		ART.DEF.C медведь(C) падать.PST ART.DEF.C рыбак(C) на	‘Медведь напал на рыбака.’		
@@ -989,7 +989,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 32	78	verstaan	SBJ	DO	TR	TR	Piet verstaa-t Frans	PN(C) understand-3SG French	‘Piet understands French.’		PN(C) понимать-3SG французский.язык	‘Пит понимает французский язык.’		
 32	79	inslagen	SBJ	in	Y	SBJ_in	de bliksemflits sloeg in het huis in	ART.DEF.C lightning(C) hit.PST in ART.DEF.N house(N) in	‘The lightning struck the house.’		ART.DEF.C молния(C) ударять.PST в ART.DEF.N дом(N) в	‘Молния попала в дом.’		
 32	80	zich snijden	SBJ	met	Y	SBJ_met	Piet heeft zich ge-sned-en met zijn scheermes	PN(C) have.3SG REFL PTCP-cut-PTCP with POSS.N.3SG razor(N)	‘Piet cut himself with a razor.’		PN(C) иметь.3SG REFL PTCP-резать-PTCP с POSS.N.3SG бритва(N)	‘Пит порезался бритвой.’		
-32	81	plakken	SBJ	aan	Y	SBJ_aan	het glas plak-t aan de tafel	ART.DEF.N glass(N) get.stuck-3SG on ART.DEF.C table(C)	‘The glass got stuck to the table.’		ART.DEF.N cтакан(N) клеиться-3SG на ART.DEF.C стол(C)	‘Стакан прилип к столу.’		
+32	81	plakken	SBJ	aan	Y	SBJ_aan	het glas plak-t aan de tafel	ART.DEF.N glass(N) get.stuck-3SG on ART.DEF.C table(C)	‘The glass got stuck to the table.’		ART.DEF.N стакан(N) клеиться-3SG на ART.DEF.C стол(C)	‘Стакан прилип к столу.’		
 32	82	verliezen	SBJ	van	Y	SBJ_van	Piet heeft verlor-en van Marie	PN(C) have.3SG lose-PTCP from PN(C)	‘Piet lost to Marie.’		PN(C) иметь.3SG проигрывать-PTCP от PN(C)	‘Пит проиграл Марии.’		
 32	83	blij zijn	SBJ	met	Y	SBJ_met	Piet was blij met de brief	PN(C) COP.PST.3SG glad with ART.DEF.C letter(C)	‘Piet was glad about the letter.’	Non-verbal predicate.	PN(C) COP.PST.3SG рад с ART.DEF.C письмо(C)	‘Пит обрадовался письму.’		
 32	84	praten	SBJ	met	Y	SBJ_met	Piet praa-t met Marie	PN(C) speak-3SG with PN(C)	‘Piet is speaking with Marie.’		PN(C) разговаривать-3SG с PN(C)	‘Пит разговаривает с Марией.’		
@@ -1009,7 +1009,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 32	98	het eens zijn	SBJ	met	Y	SBJ_met	Piet was het met Marie eens	PN(C) COP.PST.3SG ART.DEF.N with PN(C) in.agreement	‘Piet agreed with Marie.’	Non-verbal predicate.	PN(C) COP.PST.3SG ART.DEF.N с PN(C) в.согласии	‘Пит согласился с Марией.’		
 32	99	ruzie hebben	SBJ	met	Y	SBJ_met	Piet had ruzie met Marie	PN(C) have.PST.3SG quarrel(C) with PN(C)	‘Piet had a quarrel with Marie.’		PN(C) иметь.PST.3SG ссора(C) с PN(C)	‘Пит поссорился с Марией.’		
 32	100	kosten	SBJ	DO	TR	TR	deze kopje kost één dollar	DEM.N.SG cup(N) cost.3SG one dollar(C) 	‘This cup costs one dollar.’		DEM.N.SG чашка(N) стоить.3SG один доллар(C) 	‘Эта чашка стоит 1 доллар.’		
-32	101	schieten	SBJ	op	Y	SBJ_op	Piet schoot op de vogel	PN(C) shoot.PST on ART.DEF.C bird(C)	‘Piet shot at the bird.’		PN(C) cтрелять.PST на ART.DEF.C птица(C)	‘Пит выстрелил в птицу.’		
+32	101	schieten	SBJ	op	Y	SBJ_op	Piet schoot op de vogel	PN(C) shoot.PST on ART.DEF.C bird(C)	‘Piet shot at the bird.’		PN(C) стрелять.PST на ART.DEF.C птица(C)	‘Пит выстрелил в птицу.’		
 32	102	doen	SBJ	DO	TR	TR	Piet deed suiker in het kopje	PN(C) do.PST sugar(C) in ART.DEF.N cup(N)	‘Piet poured sugar into the cup.’		PN(C) делать.PST сахар(C) в ART.DEF.N чашку(N)	‘Пит насыпал сахар в чашку.’		
 32	103	kwijt zijn	SBJ	DO	TR	TR	Piet is de sleutel-s kwijt	PN(C) COP.3SG ART.DEF.C key(C)-PL lost	‘Piet lost the keys.’	Non-verbal predicate.	PN(C) COP.3SG ART.DEF.C ключ(C)-PL лишенный	‘Пит потерял ключи.’		
 32	104	zinken	SBJ	in	Y	SBJ_in	de boomstam is ge-zonk-en in het water	ART.DEF.C log(C) COP.3SG PTCP-sink-PTCP in ART.DEF.N water(N)	‘The log sank in the water.’		ART.DEF.C полено(C) COP.3SG PTCP-тонуть-PTCP в ART.DEF.N вода(N)	‘Полено утонуло в воде.’		
@@ -1689,136 +1689,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 33	128	adirarsi 	SBJ	con	Y	SBJ_con	Leo si adir-a con su-a figli-a	PN(M) REFL get_angry-3SG.PRS with POSS.3SG-SG.F daughter-SG.F	‘Leo is getting irritated with his daughter.’		PN(M) REFL раздражаться-3SG.PRS с POSS.3SG-SG.F дочь-SG.F	‘Лев раздражается на свою дочь.’		
 33	129	stare simpatico	a	SBJ	X	a_SBJ	a Leo st-a simpatic-a Maria	to PN(M) be-3SG.PRS nice-SG.F PN(F)	‘Leo is fond of Maria.’	Non-verbal predicate.	к PN(M) быть-3SG.PRS симпатичен-SG.F PN(F)	‘Льву симпатична Мария.’		
 33	130	vergognarsi	SBJ	di	Y	SBJ_di	Leo si vergogn-a della su-a statur-a	PN(M) REFL be_ashamed-3SG.PRS of.DEF.F.SG POSS.3SG-SG.F height-SG.F	‘Leo is ashamed of his height.’		PN(M) REFL стесняться-3SG.PRS от.DEF.F.SG POSS.3SG-SG.F рост-SG.F	‘Лев стесняется своего роста.’		
-77	1	ауыр	GEN	NOM	X	GEN_NOM	Petya-nïŋ bas-ï awïr-adï	PN-GEN head-POSS3 ache-PRS2.3SG	‘Petya has a headache.’		PN-GEN голова-POSS3 болеть-PRS2.3SG	‘У Пети болит голова.’		
-77	2	ауыр	NOM	INS	Y	NOM_INS	Petya tumaw awïrw-ï-men awïr-adï	PN flu illness-POSS3-INS ache-PRS2.3SG	‘Petya has a flu.’		PN грипп болезнь-POSS3-INS болеть-PRS2.3SG	‘Петя болеет гриппом.’		
-77	3	қорқ	NOM	ABL	Y	NOM_ABL	Petya it-ten qorq-adï	PN dog-ABL be_afraid-PRS2.3SG	‘Petya is afraid of the dog.’		PN собака-ABL бояться-PRS2.3SG	‘Петя боится собаки.’		
-77	4	лақтыр	NOM	ACC	TR	TR	Petya tas laqtïr-dï	PN stone throw-PST1.3SG	‘Petya threw a stone.’		PN камень бросить-PST1.3SG	‘Петя бросил камень.’		
-77	5	жет	DAT	NOM	X	DAT_NOM	Petya-ɣa aqša jet-edі	PN-DAT money be_enough-PRS2.3SG	‘Petya has enough money.’		PN-DAT деньги быть_достаточно-PRS2.3SG	‘Пете хватает денег.’		
-77	6	ұқса	NOM	DAT	Y	NOM_DAT	Petya Mixail-ɣa uqsa-ydï	PN PN-DAT be_similar-PRS2.3SG	‘Petya resembles Michael.’		PN PN-DAT походить-PRS2.3SG	‘Петя похож на Михаила.’		
-77	7	сен	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa sen-edі	PN PN-DAT believe-PRS2.3SG	‘Petya believes Masha.’		PN PN-DAT верить-PRS2.3SG	‘Петя верит Маше.’		
-77	8	ал	NOM	ACC	TR	TR	Petya kіtap-tі al-dï	PN book-ACC take-PST1.3SG	‘Petya took the book.’		PN книга-ACC взять-PST1.3SG	‘Петя взял книгу.’		
-77	9	көр	NOM	ACC	TR	TR	Petya üy kör-іp tur	PN house see-CVB stand.3SG	‘Petya sees the house.’		PN дом видеть-CVB стоять.3SG	‘Петя видит дом.’		
-77	10	әсер ет	NOM	DAT	Y	NOM_DAT	žas žad-ï-ɣa äser et-edі	age memory-POSS3-DAT influence do-PRS2.3SG	‘Age influences memory.’		возраст память-POSS3-DAT влияние делать-PRS2.3SG	‘Возраст влияет на память.’		
-77	11	кездес	NOM	INS	Y	NOM_INS	Petya Maša-men kezde-s-tі	PN PN-INS encounter-REC-PST1.3SG	‘Petya encountered Masha.’		PN PN-INS встречать-REC-PST1.3SG	‘Петя встретился с Машей.’		
-77	12	кір	NOM	DAT	Y	NOM_DAT	Petya üy-ge kіr-dі	PN house-DAT enter-PST1.3SG	‘Petya entered the house.’		PN дом-DAT входить-PST1.3SG	‘Петя вошел в дом.’		
-77	13	ұт-ып ал	NOM	ABL	Y	NOM_ABL	Petya Maša-dan ut-ïp al-dï	PN PN-ABL win-CVB take-PST1.3SG	‘Petya beat Masha.’		PN PN-ABL выиграть-CVB взять-PST1.3SG	‘Петя выиграл у Маши.’		
-77	14	шық	NOM	ABL	Y	NOM_ABL	Petya üy-den šïq-tï	PN house-ABL exit-PST1.3SG	‘Petya went out of the house.’		PN дом-ABL выходить-PST1.3SG	‘Петя вышел из дома.’		
-77	15	айда	NOM	ACC	TR	TR	Petya siïr-dï ayda-ydï	PN cow-ACC drive-PRS2.3SG	‘Petya is driving the cow.’		PN корова-ACC гнать-PRS2.3SG	‘Петя гонит корову.’		
-77	16	майыстыр	NOM	ACC	TR	TR	Petya butaq-tï mayïstïr-dï	PN branch-ACC bend-PST1.3SG	‘Petya bent the branch.’		PN ветка-ACC гнуть-PST1.3SG	‘Петя согнул ветку.’		
-77	17	айт	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ayt-tï	PN PN-DAT say-PST1.3SG	‘Petya told Masha: ...’		PN PN-DAT говорить-PST1.3SG	‘Петя сказал Маше: ...’		
-77	18	ұста	NOM	ACC	TR	TR	Petya kіtap usta-p tur	PN book hold-CVB stand.3SG	‘Petya is holding a book.’		PN книга держать-CVB стоять.3SG	‘Петя держит книгу.’		
-77	19	қу-ып жет	NOM	ACC	TR	TR	Petya Maša-nï qu-ïp žet-tі	PN PN-ACC catch_up-CVB reach-PST1.3SG	‘Petya caught up with Masha.’		PN PN-ACC догнать-CVB достичь-PST1.3SG	‘Петя догнал Машу.’		
-77	20	сау	NOM	ACC	TR	TR	Petya siïr saw-dï	PN cow milk-PST1.3SG	‘Petya milked the cow.’		PN корова доить-PST1.3SG	‘Петя подоил корову.’		
-77	21	жет	NOM	DAT	Y	NOM_DAT	Petya žaɣa-ɣa žet-tі	PN bank-DAT reach-PST1.3SG	‘Petya reached the bank.’		PN берег-DAT достичь-PST1.3SG	‘Петя достиг берега.’		
-77	22	тигіз	NOM	DAT	Y	NOM_DAT	Petya qabïrɣa-ɣa qol-ï-n tigіz-dі	PN wall-DAT hand-POSS3-ACC touch-PST1.3SG	‘Petya touched the wall.’		PN стена-DAT рука-POSS3-ACC касаться-PST1.3SG	‘Петя дотронулся до стены.’		
-77	23	төбелес	NOM	INS	Y	NOM_INS	Petya Mixail-men töbele-s-іp jatïr	PN PN-INS fight-REC-CVB lie.3SG	‘Petya is fighting with Michael.’		PN PN-INS драться-REC-CVB лежать.3SG	‘Петя дерется с Михаилом.’		
-77	24	достас	NOM	INS	Y	NOM_INS	Petya Maša-men dosta-s-adï	PN PN-INS be_friends-REC-PRS2.3SG	‘Petya is friends with Masha.’		PN PN-INS дружить-REC-PRS2.3SG	‘Петя дружит с Машей.’		
-77	25	ойла	NOM	turaly	Y	NOM_turaly	Petya Maša turalï oyla-ydï	PN PN about think-PRS2.3SG	‘Petya is thinking about Masha.’		PN PN про думать-PRS2.3SG	‘Петя думает о Маше.’		
-77	26	же	NOM	ACC	TR	TR	Petya alma že-dі	PN apple eat-PST1.3SG	‘Petya ate an apple.’		PN яблоко есть-PST1.3SG	‘Петя съел яблоко.’		
-77	27	қуыр	NOM	ACC	TR	TR	Petya balïq quwïr-dï	PN fish fry-PST1.3SG	‘Petya fried the fish.’		PN рыба жарить-PST1.3SG	‘Петя пожарил рыбу.’		
-77	28	тос	NOM	ACC	TR	TR	Petya Maša-nï tos-ïp tur	PN PN-ACC wait-CVB stand.3SG	‘Petya is waiting for Masha.’		PN PN-ACC ждать-CVB стоять.3SG	‘Петя ждет Машу.’		
-77	29	ұмыт	NOM	ACC	TR	TR	Petya basqa žol-dï umït-tï	PN other way-ACC forget-PST1.3SG	‘Petya forgot about the other road.’		PN другой дорога-ACC забывать-PST1.3SG	‘Петя забыл о другой дороге.’		
-77	30	байланыс	NOM	DAT	Y	NOM_DAT	Jad-ï žas-qa baylanï-s-tï	memory-POSS3 age-DAT depend-REC-PST1.3SG	‘Memory depends on age.’		память-POSS3 возраст-DAT зависеть-REC-PST1.3SG	‘Память зависит от возраста.’		
-77	31	шақыр	NOM	ACC	TR	TR	Petya Maša-nï šaqïr-dï	PN PN-ACC call-PST1.3SG	‘Petya called Masha.’		PN PN-ACC звать-PST1.3SG	‘Петя позвал Машу.’		
-77	32	таныс	NOM	INS	Y	NOM_INS	Petya Maša-men bіr žïl burïn tanï-s-tï	PN PN-INS one year ago get_acquainted-REC-PST1.3SG	‘Petya got to know Masha a year ago.’		PN PN-INS один год назад знакомиться-REC-PST1.3SG	‘Петя познакомился с Машей год тому назад.’		
-77	33	біл	NOM	ACC	TR	TR	Petya Maša-nï bіl-edі	PN PN-ACC know-PRS2.3SG	‘Petya knows Masha.’		PN PN-ACC знать-PRS2.3SG	‘Петя знает Машу.’		
-77	34	ойна	NOM	LOC	Y	NOM_LOC	Petya gitara-da oyna-ydï	PN guitar-LOC play-PRS2.3SG	‘Petya is playing the guitar.’		PN гитара-LOC играть-PRS2.3SG	‘Петя играет на гитаре.’		
-77	35	қаш	NOM	ABL	Y	NOM_ABL	Petya Maša-dan qaš-ïp žür	PN PN-ABL avoid-CVB go.3SG	‘Petya avoids Masha.’		PN PN-ABL избегать-CVB ходить.3SG	‘Петя избегает Машу.’		
-77	36	жаса	NOM	ACC	TR	TR	Petya bomba žasa-dï	PN bomb make-PST1.3SG	‘Petya made a bomb.’		PN бомба изготовлять-PST1.3SG	‘Петя изготовил бомбу.’		
-77	37	кемсіт	NOM	ACC	TR	TR	Petya Maša-nï kemsіt-tі	PN PN-ACC consider_insignificant-PST1.3SG	‘Petya is making fun of Masha.’		PN PN-ACC считать_ничтожным-PST1.3SG	‘Петя издевается над Машей.’		
-77	38	бар	LOC	NOM	X	LOC_NOM	Petya-da mašina bar	PN-LOC car there_is	‘Petya has a car.’		PN-LOC машина имеется	‘У Пети есть машина.’		
-77	39	ізде	NOM	ACC	TR	TR	Petya kіlt іzde-p žür	PN key search-CVB go.3SG	‘Petya is looking for keys.’		PN ключ искать-CVB ходить.3SG	‘Петя ищет ключи.’		
-77	40	боя	NOM	ACC	TR	TR	Petya qoršaw-dï boya-dï	PN fence-ACC paint-PST1.3SG	‘Petya painted the fence.’		PN забор-ACC красить-PST1.3SG	‘Петя покрасил забор.’		
-77	41	қап	NOM	ACC	TR	TR	It Petya-nï qap-tï	dog PN-ACC bite-PST1.3SG	‘A dog bit Petya.’		собака PN-ACC кусать-PST1.3SG	‘Собака укусила Петю.’		
-77	42	айырыл-ып қал-	NOM	ABL	Y	NOM_ABL	Petya üy-і-nen ayïrïl-ïp qal-dï	PN house-POSS3-ABL lose-CVB remain-PST1.3SG	‘Petya lost his house.’		PN дом-POSS3-ABL лишаться-CVB оставаться-PST1.3SG	‘Петя лишился дома.’		
-77	43	аула	NOM	ACC	TR	TR	Petya mïsïq-tï awla-p žür	PN cat-ACC catch-CVB go.3SG	‘Petya is trying to catch the cat.’		PN кошка-ACC ловить-CVB ходить.3SG	'Петя ловит кошку.’		
-77	44	сындыр	NOM	ACC	TR	TR	Petya tayaq-tï sïndïr-dï	PN stick-ACC break-PST1.3SG	‘Petya broke a stick.’		PN палка-ACC ломать-PST1.3SG	‘Петя сломал палку.’		
-77	45	жағымпаздан	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa žaɣïmpazdan-adï	PN PN-DAT flatter-PRS2.3SG	‘Petya is flattering Masha.’		PN PN-DAT льстить-PRS2.3SG	‘Петя льстит Маше.’		
-77	46	сүй	NOM	ACC	TR	TR	Petya Maša-nï süy-edі	PN PN-ACC love-PRS2.3SG	‘Petya loves Masha.’		PN PN-ACC любить-PRS2.3SG	‘Петя любит Машу.’		
-77	47	бұлға	NOM	INS	Y	NOM_INS	Petya oramal-men bulɣa-p tur	PN handkerchief-INS wave-CVB stand.3SG	‘Petya is waving a handkerchief.’ 		PN платок-INS махать-CVB стоять.3SG	‘Петя машет платком.’		
-77	48	арманда	NOM	turaly	Y	NOM_turaly	Petya mašina turalï armanda-ydï	PN car about dream-PRS2.3SG	‘Petya is dreaming of a car.’		PN машина про мечтать-PRS2.3SG	‘Петя мечтает о машине.’		
-77	49	жу	NOM	ACC	TR	TR	Petya kese žu-dï	PN cup wash-PST1.3SG	‘Petya washed the cup.’		PN чашка мыть-PST1.3SG	‘Петя вымыл чашку.’		
-77	50	ки	NOM	ACC	TR	TR	Petya šalbar ki-dі	PN trousers put_on-PST1.3SG	‘Petya put on the trousers.’		PN штаны надевать-PST1.3SG	‘Петя надел штаны.’		
-77	51	атал	NOM	dep	Y	NOM_dep	Bul zat kompas de-p ata-l-adï	this thing compass say-CVB call-PASS-PRS2.3SG	‘This thing is called a compass.’		это вещь компас говорить-CVB называть-PASS-PRS2.3SG	‘Этот предмет называется компас.’		
-77	52	жаза- бер	NOM	DAT	Y	NOM_DAT	Petya özіm-nіŋ ul-ï-ɣa žaza-sï-n ber-dі	PN one’s-GEN son-POSS3-DAT punishment-POSS3-ACC give-PST1.3SG	‘Petya punished his son.’		PN свой-GEN сын-POSS3-DAT наказание-POSS3-ACC давать-PST1.3SG	‘Петя наказал своего сына.’		
-77	53	шабуыл жаса	NOM	DAT	Y	NOM_DAT	Ayu balïqšï-ɣa šabwïl žasa-dï	bear fisherman-DAT attack do-PST1.3SG	‘A bear attacked a fisherman.’		медведь рыбак-DAT нападение делать-PST1.3SG	‘Медведь напал на рыбака.’		
-77	54	тол	NOM	DAT	Y	NOM_DAT	Šelek su-ɣa tol-dï	bucket water-DAT fill-PST1.3SG	‘The bucket filled with water.’		ведро вода-DAT наполняться-PST1.3SG	‘Ведро наполнилось водой.’		
-77	55	тап	NOM	ACC	TR	TR	Petya kіlt-tі tap-tï	PN key-ACC find-PST1.3SG	‘Petya found the keys.’		PN ключ-ACC находить-PST1.3SG	‘Петя нашел ключи.’		
-77	56	жетпе	DAT	NOM	X	DAT_NOM	Petya-ɣa bіr dollar žet-pe-y tur	PN-DAT one dollar have_enough-NEG-CVB stand.3SG	‘Petya is one dollar short.’		PN-DAT один доллар хватать-NEG-CVB стоять.3SG	‘Пете недостает одного доллара.’		
-77	57	жек көр	NOM	ACC	TR	TR	Petya Maša-nï žekkör-edi 	PN PN-ACC hate-PRS2.3SG	‘Petya hates Masha.’		PN PN-ACC ненавидеть-PRS2.3SG	‘Петя ненавидит Машу.’		
-77	58	ұна	DAT	NOM	X	DAT_NOM	Petya-ɣa bul žeyde una-ydï	PN-DAT this shirt like-PRS2.3SG	‘Petya likes this shirt.’		PN-DAT этот рубашка нравиться-PRS2.3SG	‘Пете нравится эта рубашка.’		
-77	59	керек	DAT	NOM	X	DAT_NOM	Petya-ɣa aqša kerek	PN-DAT money be_necessary	‘Petya needs money.’		PN-DAT деньги нужно	‘Петя нуждается в деньгах.’		
-77	60	қорша	NOM	ACC	TR	TR	Qala-nï qabïrɣa-lar qorša-ydï	city-ACC wall-PL surround-PRS2.3SG	‘Walls surround the city.’		город-ACC стена-PL окружать-PRS2.3SG	‘Стены окружают город.’		
-77	61	қал	LOC	NOM	X	LOC_NOM	Petya-da on dollar qal-dï	PN-LOC ten dollar remain-PST1.3SG	‘Petya has 10 dollars left.’		PN-LOC десять доллар оставаться-PST1.3SG	‘У Пети осталось 10 долларов.’		
-77	62	жауап бер	NOM	DAT	Y	NOM_DAT	Petya muɣalіm-ge žawap ber-dі	PN teacher-DAT answer give-PST1.3SG	‘Petya answered the teacher.’		PN учитель-DAT ответ дать-PST1.3SG	‘Петя ответил учителю.’		
-77	63	аш	NOM	ACC	TR	TR	Petya banka-nï aš-tï	PN can-ACC open-PST1.3SG	‘Petya opened a can.’		PN банка-ACC открывать-PST1.3SG	‘Петя открыл банку.’		
-77	64	басқа	NOM	ABL	Y	NOM_ABL	Menіŋ žeyde-m senіŋ žeyde-nen basqa	I.GEN shirt-POSS1SG you.GEN shirt-ABL different	‘My shirt is different from yours.’		я.GEN рубашка-POSS1 ты.GEN рубашка-ABL другой	‘Моя рубашка отличается от твоей.’		
-77	65	қал-ып қой-	NOM	ABL	Y	NOM_ABL	Petya Maša-dan qal-ïp qoy-dï	PN PN-ABL remain-CVB put-PST1.3SG	‘Petya fell behind Masha.’		PN PN-ABL оставаться-CVB ставить-PST1.3SG	‘Петя отстал от Маши.’		
-77	66	жырт	NOM	ACC	TR	TR	Petya alqap-tï žïrt-ïp žatïr	PN field-ACC plough-CVB lie.3SG	‘Petya is ploughing the field.’		PN поле-ACC пахать-CVB лежать.3SG	‘Петя пашет поле.’		
-77	67	сас	NOM	ACC	TR	TR	Menіŋ qol-ïm benzin sas-ïp tur	I.GEN hand-POSS1SG gasoline smell-CVB stand.3SG	‘My hands smell of this gasoline.’		я.GEN рука-POSS1 бензин пахнуть-CVB стоять.3SG	‘Мои руки пахнут бензином.’		
-77	68	кес-іп өт	NOM	ACC	TR	TR	Petya žol-dï kes-іp öt-tі	PN way-ACC cut-CVB pass-PST1.3SG	‘Petya crossed the road.’		PN дорога-ACC резать-CVB проходить-PST1.3SG	‘Петя пересек дорогу.'		
-77	69	айт	NOM	ACC	TR	TR	Petya ädemі öleŋ ayt-tï	PN beautiful song say-PST1.3SG	‘Petya sang a beautiful song.’		PN красивый песня говорить-PST1.3SG	‘Петя спел красивую песню.’		
-77	70	жаз	NOM	ACC	TR	TR	Petya xat žaz-dï	PN letter write-PST1.3SG	‘Petya wrote a letter.’		PN письмо писать-PST1.3SG	‘Петя написал письмо.’		
-77	71	іш	NOM	ACC	TR	TR	Petya süt-tі іš-tі	PN milk-ACC drink-PST1.3SG	‘Petya drank the milk.’		PN молоко-ACC пить-PST1.3SG	'Петя выпил молоко.’		
-77	72	балқыт	NOM	ACC	TR	TR	Petya svinets-tі balqï-t-tï	PN lead-ACC melt-CAUS-PST1.3SG	‘Petya melted a piece of lead.’		PN свинец-ACC плавить-CAUS-PST1.3SG	‘Петя расплавил кусок свинца.’		
-77	73	жарас	NOM	DAT	Y	NOM_DAT	Bul belbew menіŋ köyleg-і-me žara-s-ïp tur	this belt I.GEN dress-POSS1SG-DAT fit-REC-CVB stand.3SG	‘This belt matches my dress.’		этот пояс я.GEN платье-POSS1-DAT подходить-REC-CVB стоять.3SG	‘Этот пояс подходит к моему платью.’		
-77	74	кет	NOM	ABL	Y	NOM_ABL	Petya tuɣan qala-sï-nan ket-tі	PN home town-POSS3-ABL leave-PST1.3SG	‘Petya left his hometown.’		PN родной город-POSS3-ABL покидать-PST1.3SG	‘Петя покинул родной город.’		
-77	75	жау	NOM	ACC	TR	TR	Kіlem eden-nіŋ bärі-n žaw-ïp žatïr	carpet floor-GEN whole-ACC cover-CVB lie.3SG	‘The carpet covers the whole floor.’		ковер пол-GEN весь-ACC покрывать-CVB лежать.3SG	‘Ковер покрывает весь пол.’		
-77	76	ес-і-нде сақта	NOM	ACC	TR	TR	Petya üy-dі žaqsï es-і-nde saqta-ɣan	PN house-ACC good memory-POSS3-LOC keep-PST2.3SG	‘Petya remembers the house good.’		PN дом-ACC хорошо память-POSS3-LOC хранить-PST2.3SG	‘Петя хорошо помнит дом.’		
-77	77	көмектес	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa kömekte-s-tі	PN PN-DAT help-REC-PST1.3SG	‘Petya helped Masha.’		PN PN-DAT помогать-REC-PST1.3SG	‘Петя помог Маше.’		
-77	78	түсін	NOM	ACC	TR	TR	Petya frantsuz tіl-і-n tüs-іn-edі	PN French language-POSS3-ACC understand-REFL-PRS2.3SG	‘Petya understands the French language.’		PN французский язык-POSS3-ACC понимать-REFL-PRS2.3SG	‘Петя понимает французский язык.’		
-77	79	түс	NOM	DAT	Y	NOM_DAT	Üy-ge žay tüs-tі	house-DAT lightning fall-PST1.3SG	‘Lightning hit the house.’		дом-DAT молния падать-PST1.3SG	‘Молния попала в дом.’		
-77	80	кесін-іп ал	NOM	INS	Y	NOM_INS	Petya britva-men kes-іn-іp al-dï	PN razor-INS cut-REFL-CVB take-PST1.3SG	‘Petya cut himself with a razor.’		PN бритва-INS резать-REFL-CVB брать-PST1.3SG	‘Петя порезался бритвой.’		
-77	81	жабыс-ып қал	NOM	DAT	Y	NOM_DAT	Staqan stol-ɣa žabïs-ïp qal-dï	glass table-DAT get_stuck-CVB remain-PST1.3SG 	‘The glass got stuck to the table.’		стакан стол-DAT липнуть-CVB оставаться-PST1.3SG	‘Стакан прилип к столу.’		
-77	82	ұтыл-ып қал	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ut-ïl-ïp qal-dï	PN PN-DAT lose-PASS-CVB remain-PST1.3SG	‘Petya lose to Masha.’		PN PN-DAT проиграть-PASS-CVB оставаться-PST1.3SG	‘Петя проиграл Маше.’		
-77	83	қуан	NOM	DAT	Y	NOM_DAT	Petya xat-qa quwan-dï	PN letter-DAT rejoice-PST1.3SG	‘Petya was glad about the letter.’		PN письмо-DAT радоваться-PST1.3SG	‘Петя обрадовался письму.’		
-77	84	сөйлес	NOM	INS	Y	NOM_INS	Petya Maša-men söjle-s-іp žatïr	PN PN-INS talk-REC-CVB lie.3SG	‘Petya is speaking with Masha.’		PN PN-INS разговаривать-REC-CVB лежать.3SG	‘Петя разговаривает с Машей.’		
-77	85	тап	NOM	ACC	TR	TR	Maša ul tap-tï	PN son give_birth-PST1.3SG	‘Masha gave birth to a son.’		PN сын.ACC рожать-PST1.3SG	‘Маша родила сына.’		
-77	86	түсір	NOM	ACC	TR	TR	Petya staqan-dï tüsіr-іp al-dï	PN glass-ACC drop-CVB give-PST1.3SG	‘Petya dropped the glass.’		PN стакан-ACC ронять-CVB давать-PST1.3SG	‘Петя уронил стакан.’		
-77	87	басқар	NOM	INS	Y	NOM_INS	Petya bіz-dіŋ awïl-men basqar-adï	PN we-GEN village-INS lead-PRS2.3SG	‘Petya runs our village.’		PN мы-GEN аул-INS руководить-PRS2.3SG	‘Петя руководит нашим поселком.’		
-77	88	сағын	NOM	ACC	TR	TR	Petya Maša-nï saɣïn-ïp žür	PN PN-ACC miss-CVB go.3SG	‘Petya misses Masha.’		PN PN-ACC скучать-CVB ходить.3SG	‘Петя скучает по Маше.’		
-77	89	жүр	NOM	GENartynan	Y	NOM_GENartynan	Petya Maša-nïŋ artïnan žür-edі	PN PN-GEN after go-PRS2.3SG	‘Petya follows Masha.’		PN PN-GEN вслед идти-PRS2.3SG	‘Петя следует за Машей.’		
-77	90	түс	NOM	ABL	Y	NOM_ABL	Petya at-tan tüs-tі	PN horse-ABL descend-PST1.3SG	‘Petya got down from the horse.’		PN лошадь-ABL слезать-PST1.3SG	‘Петя слез с лошади.’		
-77	91	тында	NOM	ACC	TR	TR	Petya radio tïnda-p otïr	PN radio listen-CVB sit.3SG	‘Petya is listening to the radio.’		PN радио слушать-CVB сидеть.3SG	‘Петя слушает радио.’		
-77	92	тында	NOM	ACC	TR	TR	Petya ana-sï-n tïnda-ydï	PN mother-POSS3-ACC listen-PRS2.3SG	‘Petya obeys his mother.’		PN мама-POSS3-ACC слушаться-PRS2.3SG	‘Петя слушается маму.’		
-77	93	ест	NOM	ACC	TR	TR	Petya muzïka-nï est-іp tur	PN music-ACC hear-CVB stand.3SG	‘Petya hears the music.’		PN музыка-ACC слышать-CVB стоять.3SG	‘Петя слышит музыку.’		
-77	94	аралас	NOM	INS	Y	NOM_INS	Bal süt-pen arala-s-ïp ket-tі	honey milk-INS mix-REC-CVB leave-PST1.3SG 	‘The honey got mixed with the milk.’		мед молоко-INS смешать-REC-CVB уходить-PST1.3SG	‘Мед смешался с молоком.’		
-77	95	қара	NOM	DAT	Y	NOM_DAT	Petya bult-tar-ɣa qara-p tur	PN raincloud-PL-DAT look-CVB stand.3SG	‘Petya is looking at the rainclouds.’		PN туча-PL-DAT смотреть-CVB стоять.3SG	‘Петя смотрит на тучи.’		
-77	96	шеш	NOM	ACC	TR	TR	Petya žeyde-sі-n šeš-tі	PN shirt-POSS3-ACC take_off-PST1.3SG	‘Petya took off his shirt.’		PN рубашка-POSS3-ACC снимать-PST1.3SG	‘Петя снял рубашку.’		
-77	97	түс-і-не кір	DAT	NOM	X	DAT_NOM	Petya-ɣa Maša tüs-і-ne kіr-edі	PN-DAT PN dream-POSS3-DAT enter-PRS2.3SG	‘Petya dreams about Masha.’		PN-DAT PN сон-POSS3-DAT входить-PRS2.3SG	‘Пете снится Маша.’		
-77	98	келіс	NOM	INS	Y	NOM_INS	Petya Maša-men kelіs-tі	PN PN-INS agree-PST1.3SG	‘Petya agreed with Masha.’		PN PN-INS соглашаться-PST1.3SG	‘Петя согласился с Машей.’		
-77	99	ұрс-ып қал	NOM	INS	Y	NOM_INS	Petya Maša-men urs-ïp qal-dï	PN PN-INS quarrel-CVB remain-PST1.3SG	‘Petya had a quarrel with Masha.’		PN PN-INS ругать-CBV оставаться-PST1.3SG	‘Петя поссорился с Машей.’		
-77	100	тұр	NOM	ACC	TR	TR	Bul kese bіr dollar tur-adï	this cup one dollar cost-PRS2.3SG 	‘This cup costs one dollar.’		этот чашка один доллар стоить-PRS2.3SG	‘Эта чашка стоит один доллар.’		
-77	101	ат	NOM	ACC	TR	TR	Petya qus-tï at-tï	PN bird-ACC shoot-PST1.3SG	‘Petya shot at the bird.’		PN птица-ACC стрелять-PST1.3SG	‘Петя выстрелил в птицу.’		
-77	102	сал	NOM	ACC	TR	TR	Petya qant-tï sal-dï	PN sugar-ACC put-PST1.3SG	‘Petya poured sugar.’		PN сахар-ACC класть-PST1.3SG	‘Петя насыпал сахар.’		
-77	103	жоғал	NOM	ACC	TR	TR	Petya kіlt-і-n žoɣal-tï	PN key-POSS3-ACC lose-PST1.3SG	‘Petya lost the keys.’		PN ключ-POSS3-ACC терять-PST1.3SG	‘Петя потерял ключи.’		
-77	104	бат	NOM	DAT	Y	NOM_DAT	Butaq su-ɣa bat-ïp ket-tі	log water-DAT sink-CVB leave-PST1.3SG 	‘The log sank in the water.’		полено вода-DAT тонуть-CVB уходить-PST1.3SG	‘Полено утонуло в воде.’		
-77	105	өлтір	NOM	ACC	TR	TR	Petya Maša-nï öltіr-dі	PN PN-ACC kill-PST1.3SG	‘Petya killed Masha.’		PN PN-ACC убивать-PST1.3SG	‘Петя убил Машу.’		
-77	106	ұр	NOM	ACC	TR	TR	Petya Maša-nï ur-dï	PN PN-ACC hit-PST1.3SG	‘Petya hit Masha.’		PN PN-ACC ударять-PST1.3SG	‘Петя ударил Машу.’		
-77	107	сүй	NOM	ACC	TR	TR	Petya Maša-nï süy-dі	PN PN-ACC kiss-PST1.3SG	‘Petya kissed Masha.’		PN PN-ACC целовать-PST1.3SG	‘Петя поцеловал Машу.’		
-77	108	оқ	NOM	ACC	TR	TR	Petya qïzïqtï kіtap oq-ïdï	PN interesting book read-PST1.3SG	‘Petya read an interesting book.’		PN интересный книга читать-PST1.3SG	‘Петя прочитал интересную книгу.’		
-77	109	қозғалт	NOM	ACC	TR	TR	Petya sawïsaq-tar-ï-n qozɣalt-tï	PN finger-PL-POSS3-ACC wiggle-PST1.3SG	‘Petya moved his fingers.’		PN палец-PL-POSS3-ACC шевелить-PST1.3SG	‘Петя пошевелил пальцами.’		
-77	110	сыйла	NOM	ACC	TR	TR	Petya Maša-nï sïyla-ydï	PN PN-ACC respect-PRS2.3SG	‘Petya respects Masha.’		PN PN-ACC уважать-PRS2.3SG	‘Петя уважает Машу.’		
-77	111	жеркен	NOM	ABL	Y	NOM_ABL	Petya kіr ïdïs-ayaq-tan žerken-edі	PN dirty dishes-leg-ABL be_squeamish-PRS2.3SG	‘Petya is squeamish about dirty dishes.’		PN грязный посуда-нога-ABL брезговать-PRS2.3SG	‘Петя брезгует грязной посудой.’		
-77	112	риза	NOM	INS	Y	NOM_INS	Petya öz ul-ï-men riza	PN one’s son-POSS3-INS content	‘Petya is content with his son.’		PN свой сын-POSS3-INS довольный	‘Петя доволен своим сыном.’		
-77	113	ғашық бол-	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ɣašïq bol-dï	PN PN-DAT enamoured be-PST1.3SG 	‘Petya fell in love with Masha.’		PN PN-DAT влюбленный быть-PST1.3SG	‘Петя влюбился в Машу.’		
-77	114	сен	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa sen-edі	PN PN-DAT trust-PRS2.3SG	‘Petya trusts Masha.’		PN PN-DAT верить-PRS2.3SG	‘Петя доверяет Маше.’		
-77	115	ая	NOM	ACC	TR	TR	Petya öz ana-sï-n aya-ydï	PN one’s mother-POSS3-ACC feel_pity-PRS2.3SG	‘Petya feels sorry for his mother.’		PN свой мать-POSS3-ACC жалеть-PRS2.3SG	‘Петя жалеет свою мать.’		
-77	116	қызған	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa qïzɣan-adï	PN PN-DAT envy-PRS2.3SG	‘Petya envies Masha.’		PN PN-DAT завидовать-PRS2.3SG	‘Петя завидует Маше.’		
-77	117	ашулы	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’		PN PN-DAT злой	‘Петя злится на Машу.’		
-77	118	танғал	NOM	DAT	Y	NOM_DAT	Petya osï sïylïq-qa tanɣal-dï	PN this gift-DAT be_surprised-PST1.3SG	‘Petya was surprised at this gift.’		PN этот подарок-DAT удивляться-PST1.3SG	‘Петя удивился этому подарку.’		
-77	119	жақсы көр	NOM	ACC	TR	TR	Petya šay-dï žaqsï kör-edі	PN tea-ACC good see-PRS2.3SG	‘Petya loves tea.’		PN чай-ACC хорошо видеть-PRS2.3SG	‘Петя любит чай.’		
-77	120	рахаттан	NOM	INS	Y	NOM_INS	Petya ïstïq šay-ï-men raxattan-ïp otïr	PN hot tea-POSS3-INS enjoy-CVB sit.3SG	‘Petya is enjoying the hot tea.’		PN горячий чай-POSS3-INS наслаждаться-CVB сидеть.3SG	‘Петя наслаждается горячим чаем.’		
-77	121	қала	NOM	ACC	TR	TR	Petya žaŋa telefon qala-ydï	PN new phone want-PRS2.3SG	‘Petya wants a new phone.’		PN новый телефон хотеть-PRS2.3SG	‘Петя хочет новый телефон.’		
-77	122	ашулы	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’		PN PN-DAT злой	‘Петя сердится на Машу.’		
-77	123	өкпеле	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ökpele-dі	PN PN-DAT take_offence-PST1.3SG	‘Petya took offence at Masha.’		PN PN-DAT обидеться-PST1.3SG	‘Петя обиделся на Машу.’		
-77	124	ренжіт	NOM	ACC	TR	TR	Petya Maša-nï qattï renž-іt-tі	PN PN-ACC strongly upset-CAUS-PST1.3SG	‘Petya upset Masha.’		PN PN-ACC сильно огорчаться-CAUS-PST1.3SG	‘Петя очень огорчил Машу.’		
-77	125	танғал	NOM	DAT	Y	NOM_DAT	Petya astana-ɣa tanɣal-dï	PN capital-DAT marvel-PST1.3SG	‘Petya marvelled at the city.’		PN столица-DAT поражаться-PST1.3SG	‘Петя поразился этому городу.’		
-77	126	жаратпа	NOM	ACC	TR	TR	Petya Maša-nï žarat-pa-ydï	PN PN-ACC approve-NEG-PRS2.3SG	‘Petya despises Masha.’		PN PN-ACC одобрять-NEG-PRS2.3SG	‘Петя презирает Машу.’		
-77	127	ренж-іп қал	NOM	ushin	Y	NOM_ushin	Petya öz ul-ï üšіn renž-іp qal-dï	PN one’s son-POSS3 because_of be_upset-CVB remain-PST1.3SG	‘Petya got upset because of his son.’		PN свой сын-POSS3 из-за огорчаться-CVB оставаться-PST1.3SG	‘Петя огорчился из-за своего сына.’		
-77	128	кей	NOM	ACC	TR	TR	Petya öz qïz-ï-n key-іp otïr	PN one’s daughter-POSS3-ACC get_irritated-CVB sit.3SG	‘Petya is getting irritated with his daughter.’		PN свой дочь-POSS3-ACC раздражаться-CVB сидеть.3SG	‘Петя раздражается на свою дочь.’		
-77	129	ұнат	NOM	ACC	TR	TR	Petya Maša-nï unat-adï	PN PN-ACC sympathize-PRS2.3SG	‘Petya is fond of Masha.’		PN PN-ACC симпатизировать-PRS2.3SG	‘Петя симпатизирует Маше.’		
-77	130	ұял	NOM	ushin	Y	NOM_ushin	Petya öz boy-ï üšіn uyal-adï	PN one’s height-POSS3 because_of be_shy-PRS2.3SG	‘Petya is shy about his height.’		PN свой рост-POSS3 из-за стесняться-PRS2.3SG	‘Петя стесняется своего роста.’		
+77	1	awïr	GEN	NOM	X	GEN_NOM	Petya-nïŋ bas-ï awïr-adï	PN-GEN head-POSS3 ache-PRS2.3SG	‘Petya has a headache.’		PN-GEN голова-POSS3 болеть-PRS2.3SG	‘У Пети болит голова.’		
+77	2	awïr	NOM	INS	Y	NOM_INS	Petya tumaw awïrw-ï-men awïr-adï	PN flu illness-POSS3-INS ache-PRS2.3SG	‘Petya has a flu.’		PN грипп болезнь-POSS3-INS болеть-PRS2.3SG	‘Петя болеет гриппом.’		
+77	3	qorq	NOM	ABL	Y	NOM_ABL	Petya it-ten qorq-adï	PN dog-ABL be_afraid-PRS2.3SG	‘Petya is afraid of the dog.’		PN собака-ABL бояться-PRS2.3SG	‘Петя боится собаки.’		
+77	4	laqtïr	NOM	ACC	TR	TR	Petya tas laqtïr-dï	PN stone throw-PST1.3SG	‘Petya threw a stone.’		PN камень бросить-PST1.3SG	‘Петя бросил камень.’		
+77	5	žet	DAT	NOM	X	DAT_NOM	Petya-ɣa aqša žet-edі	PN-DAT money be_enough-PRS2.3SG	‘Petya has enough money.’		PN-DAT деньги быть_достаточно-PRS2.3SG	‘Пете хватает денег.’		
+77	6	uqsa	NOM	DAT	Y	NOM_DAT	Petya Mixail-ɣa uqsa-ydï	PN PN-DAT be_similar-PRS2.3SG	‘Petya resembles Michael.’		PN PN-DAT походить-PRS2.3SG	‘Петя похож на Михаила.’		
+77	7	sen	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa sen-edі	PN PN-DAT believe-PRS2.3SG	‘Petya believes Masha.’		PN PN-DAT верить-PRS2.3SG	‘Петя верит Маше.’		
+77	8	al	NOM	ACC	TR	TR	Petya kіtap-tï al-dï	PN book-ACC take-PST1.3SG	‘Petya took the book.’		PN книга-ACC взять-PST1.3SG	‘Петя взял книгу.’		
+77	9	kör	NOM	ACC	TR	TR	Petya üy kör-іp tur	PN house see-CVB stand.3SG	‘Petya sees the house.’		PN дом видеть-CVB стоять.3SG	‘Петя видит дом.’		
+77	10	äser et	NOM	DAT	Y	NOM_DAT	Žas žad-ï-ɣa äser et-edі	age memory-POSS3-DAT influence do-PRS2.3SG	‘Age influences memory.’		возраст память-POSS3-DAT влияние делать-PRS2.3SG	‘Возраст влияет на память.’		
+77	11	kezdes	NOM	INS	Y	NOM_INS	Petya Maša-men kezde-s-tі	PN PN-INS encounter-REC-PST1.3SG	‘Petya encountered Masha.’		PN PN-INS встречать-REC-PST1.3SG	‘Петя встретился с Машей.’		
+77	12	kir	NOM	DAT	Y	NOM_DAT	Petya üy-ge kіr-dі	PN house-DAT enter-PST1.3SG	‘Petya entered the house.’		PN дом-DAT входить-PST1.3SG	‘Петя вошел в дом.’		
+77	13	ut-ïp al	NOM	ABL	Y	NOM_ABL	Petya Maša-dan ut-ïp al-dï	PN PN-ABL win-CVB take-PST1.3SG	‘Petya beat Masha.’		PN PN-ABL выиграть-CVB взять-PST1.3SG	‘Петя выиграл у Маши.’		
+77	14	šïq	NOM	ABL	Y	NOM_ABL	Petya üy-den šïq-tï	PN house-ABL exit-PST1.3SG	‘Petya went out of the house.’		PN дом-ABL выходить-PST1.3SG	‘Петя вышел из дома.’		
+77	15	ayda	NOM	ACC	TR	TR	Petya siyïr-dï ayda-ydï	PN cow-ACC drive-PRS2.3SG	‘Petya is driving the cow.’		PN корова-ACC гнать-PRS2.3SG	‘Петя гонит корову.’		
+77	16	mayïstïr	NOM	ACC	TR	TR	Petya butaq-tï mayïstïr-dï	PN branch-ACC bend-PST1.3SG	‘Petya bent the branch.’		PN ветка-ACC гнуть-PST1.3SG	‘Петя согнул ветку.’		
+77	17	ayt	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ayt-tï	PN PN-DAT say-PST1.3SG	‘Petya told Masha: ...’		PN PN-DAT говорить-PST1.3SG	‘Петя сказал Маше: ...’		
+77	18	usta	NOM	ACC	TR	TR	Petya kіtap usta-p tur	PN book hold-CVB stand.3SG	‘Petya is holding a book.’		PN книга держать-CVB стоять.3SG	‘Петя держит книгу.’		
+77	19	quw-ïp žet	NOM	ACC	TR	TR	Petya Maša-nï quw-ïp žet-tі	PN PN-ACC catch_up-CVB reach-PST1.3SG	‘Petya caught up with Masha.’		PN PN-ACC догнать-CVB достичь-PST1.3SG	‘Петя догнал Машу.’		
+77	20	saw	NOM	ACC	TR	TR	Petya siyïr saw-dï	PN cow milk-PST1.3SG	‘Petya milked the cow.’		PN корова доить-PST1.3SG	‘Петя подоил корову.’		
+77	21	žet	NOM	DAT	Y	NOM_DAT	Petya žaɣa-ɣa žet-tі	PN bank-DAT reach-PST1.3SG	‘Petya reached the bank.’		PN берег-DAT достичь-PST1.3SG	‘Петя достиг берега.’		
+77	22	tiygiz	NOM	DAT	Y	NOM_DAT	Petya qabïrɣa-ɣa qol-ï-n tiygіz-dі	PN wall-DAT hand-POSS3-ACC touch-PST1.3SG	‘Petya touched the wall.’		PN стена-DAT рука-POSS3-ACC касаться-PST1.3SG	‘Петя дотронулся до стены.’		
+77	23	töbeles	NOM	INS	Y	NOM_INS	Petya Mixail-men töbele-s-іp žatïr	PN PN-INS fight-REC-CVB lie.3SG	‘Petya is fighting with Michael.’		PN PN-INS драться-REC-CVB лежать.3SG	‘Петя дерется с Михаилом.’		
+77	24	dostas	NOM	INS	Y	NOM_INS	Petya Maša-men dosta-s-adï	PN PN-INS be_friends-REC-PRS2.3SG	‘Petya is friends with Masha.’		PN PN-INS дружить-REC-PRS2.3SG	‘Петя дружит с Машей.’		
+77	25	oyla	NOM	turaly	Y	NOM_turaly	Petya Maša tuwralï oyla-ydï	PN PN about think-PRS2.3SG	‘Petya is thinking about Masha.’		PN PN про думать-PRS2.3SG	‘Петя думает о Маше.’		
+77	26	že	NOM	ACC	TR	TR	Petya alma že-dі	PN apple eat-PST1.3SG	‘Petya ate an apple.’		PN яблоко есть-PST1.3SG	‘Петя съел яблоко.’		
+77	27	quwïr	NOM	ACC	TR	TR	Petya balïq quwïr-dï	PN fish fry-PST1.3SG	‘Petya fried the fish.’		PN рыба жарить-PST1.3SG	‘Петя пожарил рыбу.’		
+77	28	tos	NOM	ACC	TR	TR	Petya Maša-nï tos-ïp tur	PN PN-ACC wait-CVB stand.3SG	‘Petya is waiting for Masha.’		PN PN-ACC ждать-CVB стоять.3SG	‘Петя ждет Машу.’		
+77	29	umït	NOM	ACC	TR	TR	Petya basqa žol-dï umït-tï	PN other way-ACC forget-PST1.3SG	‘Petya forgot about the other road.’		PN другой дорога-ACC забывать-PST1.3SG	‘Петя забыл о другой дороге.’		
+77	30	baylanïs	NOM	DAT	Y	NOM_DAT	Žad-ï žas-qa baylanï-s-tï	memory-POSS3 age-DAT depend-REC-PST1.3SG	‘Memory depends on age.’		память-POSS3 возраст-DAT зависеть-REC-PST1.3SG	‘Память зависит от возраста.’		
+77	31	šaqïr	NOM	ACC	TR	TR	Petya Maša-nï šaqïr-dï	PN PN-ACC call-PST1.3SG	‘Petya called Masha.’		PN PN-ACC звать-PST1.3SG	‘Петя позвал Машу.’		
+77	32	tanïs	NOM	INS	Y	NOM_INS	Petya Maša-men bіr žïl burïn tanï-s-tï	PN PN-INS one year ago get_acquainted-REC-PST1.3SG	‘Petya got to know Masha a year ago.’		PN PN-INS один год назад знакомиться-REC-PST1.3SG	‘Петя познакомился с Машей год тому назад.’		
+77	33	bil	NOM	ACC	TR	TR	Petya Maša-nï bіl-edі	PN PN-ACC know-PRS2.3SG	‘Petya knows Masha.’		PN PN-ACC знать-PRS2.3SG	‘Петя знает Машу.’		
+77	34	oyna	NOM	LOC	Y	NOM_LOC	Petya giytara-da oyna-ydï	PN guitar-LOC play-PRS2.3SG	‘Petya is playing the guitar.’		PN гитара-LOC играть-PRS2.3SG	‘Петя играет на гитаре.’		
+77	35	qaš	NOM	ABL	Y	NOM_ABL	Petya Maša-dan qaš-ïp žür	PN PN-ABL avoid-CVB go.3SG	‘Petya avoids Masha.’		PN PN-ABL избегать-CVB ходить.3SG	‘Петя избегает Машу.’		
+77	36	žasa	NOM	ACC	TR	TR	Petya bomba žasa-dï	PN bomb make-PST1.3SG	‘Petya made a bomb.’		PN бомба изготовлять-PST1.3SG	‘Петя изготовил бомбу.’		
+77	37	kemsit	NOM	ACC	TR	TR	Petya Maša-nï kemsіt-tі	PN PN-ACC consider_insignificant-PST1.3SG	‘Petya is making fun of Masha.’		PN PN-ACC считать_ничтожным-PST1.3SG	‘Петя издевается над Машей.’		
+77	38	bar	LOC	NOM	X	LOC_NOM	Petya-da mašiyna bar	PN-LOC car there_is	‘Petya has a car.’		PN-LOC машина имеется	‘У Пети есть машина.’		
+77	39	izde	NOM	ACC	TR	TR	Petya kіlt іzde-p žür	PN key search-CVB go.3SG	‘Petya is looking for keys.’		PN ключ искать-CVB ходить.3SG	‘Петя ищет ключи.’		
+77	40	boya	NOM	ACC	TR	TR	Petya qoršaw-dï boya-dï	PN fence-ACC paint-PST1.3SG	‘Petya painted the fence.’		PN забор-ACC красить-PST1.3SG	‘Петя покрасил забор.’		
+77	41	qap	NOM	ACC	TR	TR	It Petya-nï qap-tï	dog PN-ACC bite-PST1.3SG	‘A dog bit Petya.’		собака PN-ACC кусать-PST1.3SG	‘Собака укусила Петю.’		
+77	42	ayïrïl-ïp qal	NOM	ABL	Y	NOM_ABL	Petya üy-і-nen ayïrïl-ïp qal-dï	PN house-POSS3-ABL lose-CVB remain-PST1.3SG	‘Petya lost his house.’		PN дом-POSS3-ABL лишаться-CVB оставаться-PST1.3SG	‘Петя лишился дома.’		
+77	43	awla	NOM	ACC	TR	TR	Petya mïsïq-tï awla-p žür	PN cat-ACC catch-CVB go.3SG	‘Petya is trying to catch the cat.’		PN кошка-ACC ловить-CVB ходить.3SG	'Петя ловит кошку.’		
+77	44	sïndïr	NOM	ACC	TR	TR	Petya tayaq-tï sïndïr-dï	PN stick-ACC break-PST1.3SG	‘Petya broke a stick.’		PN палка-ACC ломать-PST1.3SG	‘Петя сломал палку.’		
+77	45	žaɣïmpazdan	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa žaɣïmpazdan-adï	PN PN-DAT flatter-PRS2.3SG	‘Petya is flattering Masha.’		PN PN-DAT льстить-PRS2.3SG	‘Петя льстит Маше.’		
+77	46	süy	NOM	ACC	TR	TR	Petya Maša-nï süy-edі	PN PN-ACC love-PRS2.3SG	‘Petya loves Masha.’		PN PN-ACC любить-PRS2.3SG	‘Петя любит Машу.’		
+77	47	bulɣa	NOM	INS	Y	NOM_INS	Petya oramal-men bulɣa-p tur	PN handkerchief-INS wave-CVB stand.3SG	‘Petya is waving a handkerchief.’ 		PN платок-INS махать-CVB стоять.3SG	‘Петя машет платком.’		
+77	48	armanda	NOM	turaly	Y	NOM_turaly	Petya mašiyna turalï armanda-ydï	PN car about dream-PRS2.3SG	‘Petya is dreaming of a car.’		PN машина про мечтать-PRS2.3SG	‘Петя мечтает о машине.’		
+77	49	žu	NOM	ACC	TR	TR	Petya kese žuw-dï	PN cup wash-PST1.3SG	‘Petya washed the cup.’		PN чашка мыть-PST1.3SG	‘Петя вымыл чашку.’		
+77	50	ki	NOM	ACC	TR	TR	Petya šalbar kiy-dі	PN trousers put_on-PST1.3SG	‘Petya put on the trousers.’		PN штаны надевать-PST1.3SG	‘Петя надел штаны.’		
+77	51	atal	NOM	dep	Y	NOM_dep	Bul zat kompas de-p ata-l-adï	this thing compass say-CVB call-PASS-PRS2.3SG	‘This thing is called a compass.’		это вещь компас говорить-CVB называть-PASS-PRS2.3SG	‘Этот предмет называется компас.’		
+77	52	žaza- ber	NOM	DAT	Y	NOM_DAT	Petya özіm-nіŋ ul-ï-ɣa žaza-sï-n ber-dі	PN one’s-GEN son-POSS3-DAT punishment-POSS3-ACC give-PST1.3SG	‘Petya punished his son.’		PN свой-GEN сын-POSS3-DAT наказание-POSS3-ACC давать-PST1.3SG	‘Петя наказал своего сына.’		
+77	53	šabwïl žasa	NOM	DAT	Y	NOM_DAT	Ayu balïqšï-ɣa šabwïl žasa-dï	bear fisherman-DAT attack do-PST1.3SG	‘A bear attacked a fisherman.’		медведь рыбак-DAT нападение делать-PST1.3SG	‘Медведь напал на рыбака.’		
+77	54	tol	NOM	DAT	Y	NOM_DAT	Šelek suw-ɣa tol-dï	bucket water-DAT fill-PST1.3SG	‘The bucket filled with water.’		ведро вода-DAT наполняться-PST1.3SG	‘Ведро наполнилось водой.’		
+77	55	tap	NOM	ACC	TR	TR	Petya kіlt-tі tap-tï	PN key-ACC find-PST1.3SG	‘Petya found the keys.’		PN ключ-ACC находить-PST1.3SG	‘Петя нашел ключи.’		
+77	56	žet-pe	DAT	NOM	X	DAT_NOM	Petya-ɣa bіr dollar žet-pe-y tur	PN-DAT one dollar have_enough-NEG-CVB stand.3SG	‘Petya is one dollar short.’		PN-DAT один доллар хватать-NEG-CVB стоять.3SG	‘Пете недостает одного доллара.’		
+77	57	žek kör	NOM	ACC	TR	TR	Petya Maša-nï žek kör-edi 	PN PN-ACC hate-PRS2.3SG	‘Petya hates Masha.’		PN PN-ACC ненавидеть-PRS2.3SG	‘Петя ненавидит Машу.’		
+77	58	una	DAT	NOM	X	DAT_NOM	Petya-ɣa bul žeyde una-ydï	PN-DAT this shirt like-PRS2.3SG	‘Petya likes this shirt.’		PN-DAT этот рубашка нравиться-PRS2.3SG	‘Пете нравится эта рубашка.’		
+77	59	kerek	DAT	NOM	X	DAT_NOM	Petya-ɣa aqša kerek	PN-DAT money be_necessary	‘Petya needs money.’		PN-DAT деньги нужно	‘Петя нуждается в деньгах.’		
+77	60	qorša	NOM	ACC	TR	TR	Qala-nï qabïrɣa-lar qorša-ydï	city-ACC wall-PL surround-PRS2.3SG	‘Walls surround the city.’		город-ACC стена-PL окружать-PRS2.3SG	‘Стены окружают город.’		
+77	61	qal	LOC	NOM	X	LOC_NOM	Petya-da on dollar qal-dï	PN-LOC ten dollar remain-PST1.3SG	‘Petya has 10 dollars left.’		PN-LOC десять доллар оставаться-PST1.3SG	‘У Пети осталось 10 долларов.’		
+77	62	žawap ber	NOM	DAT	Y	NOM_DAT	Petya muwɣalіm-ge žawap ber-dі	PN teacher-DAT answer give-PST1.3SG	‘Petya answered the teacher.’		PN учитель-DAT ответ дать-PST1.3SG	‘Петя ответил учителю.’		
+77	63	aš	NOM	ACC	TR	TR	Petya banka-nï aš-tï	PN can-ACC open-PST1.3SG	‘Petya opened a can.’		PN банка-ACC открывать-PST1.3SG	‘Петя открыл банку.’		
+77	64	basqa	NOM	ABL	Y	NOM_ABL	Menіŋ žeyde-m senіŋ žeyde-nen basqa	I.GEN shirt-POSS1SG you.GEN shirt-ABL different	‘My shirt is different from yours.’		я.GEN рубашка-POSS1 ты.GEN рубашка-ABL другой	‘Моя рубашка отличается от твоей.’		
+77	65	qal-ïp qoy	NOM	ABL	Y	NOM_ABL	Petya Maša-dan qal-ïp qoy-dï	PN PN-ABL remain-CVB put-PST1.3SG	‘Petya fell behind Masha.’		PN PN-ABL оставаться-CVB ставить-PST1.3SG	‘Петя отстал от Маши.’		
+77	66	žïrt	NOM	ACC	TR	TR	Petya alqap-tï žïrt-ïp žatïr	PN field-ACC plough-CVB lie.3SG	‘Petya is ploughing the field.’		PN поле-ACC пахать-CVB лежать.3SG	‘Петя пашет поле.’		
+77	67	sas	NOM	ACC	TR	TR	Menіŋ qol-ïm benziyn sas-ïp tur	I.GEN hand-POSS1SG gasoline smell-CVB stand.3SG	‘My hands smell of this gasoline.’		я.GEN рука-POSS1 бензин пахнуть-CVB стоять.3SG	‘Мои руки пахнут бензином.’		
+77	68	kes-іp öt	NOM	ACC	TR	TR	Petya žol-dï kes-іp öt-tі	PN way-ACC cut-CVB pass-PST1.3SG	‘Petya crossed the road.’		PN дорога-ACC резать-CVB проходить-PST1.3SG	‘Петя пересек дорогу.'		
+77	69	ayt	NOM	ACC	TR	TR	Petya ädemі öleŋ ayt-tï	PN beautiful song say-PST1.3SG	‘Petya sang a beautiful song.’		PN красивый песня говорить-PST1.3SG	‘Петя спел красивую песню.’		
+77	70	žaz	NOM	ACC	TR	TR	Petya xat žaz-dï	PN letter write-PST1.3SG	‘Petya wrote a letter.’		PN письмо писать-PST1.3SG	‘Петя написал письмо.’		
+77	71	іš	NOM	ACC	TR	TR	Petya süt-tі іš-tі	PN milk-ACC drink-PST1.3SG	‘Petya drank the milk.’		PN молоко-ACC пить-PST1.3SG	'Петя выпил молоко.’		
+77	72	balqït	NOM	ACC	TR	TR	Petya sviynets-tі balqï-t-tï	PN lead-ACC melt-CAUS-PST1.3SG	‘Petya melted a piece of lead.’		PN свинец-ACC плавить-CAUS-PST1.3SG	‘Петя расплавил кусок свинца.’		
+77	73	žaras	NOM	DAT	Y	NOM_DAT	Bul belbew menіŋ köyleg-і-me žara-s-ïp tur	this belt I.GEN dress-POSS1SG-DAT fit-REC-CVB stand.3SG	‘This belt matches my dress.’		этот пояс я.GEN платье-POSS1-DAT подходить-REC-CVB стоять.3SG	‘Этот пояс подходит к моему платью.’		
+77	74	ket	NOM	ABL	Y	NOM_ABL	Petya tuwɣan qala-sï-nan ket-tі	PN home town-POSS3-ABL leave-PST1.3SG	‘Petya left his hometown.’		PN родной город-POSS3-ABL покидать-PST1.3SG	‘Петя покинул родной город.’		
+77	75	žaw	NOM	ACC	TR	TR	Kіlem eden-nіŋ bärі-n žaw-ïp žatïr	carpet floor-GEN whole-ACC cover-CVB lie.3SG	‘The carpet covers the whole floor.’		ковер пол-GEN весь-ACC покрывать-CVB лежать.3SG	‘Ковер покрывает весь пол.’		
+77	76	es-і-nde saqta	NOM	ACC	TR	TR	Petya üy-dі žaqsï es-і-nde saqta-ɣan	PN house-ACC good memory-POSS3-LOC keep-PST2.3SG	‘Petya remembers the house good.’		PN дом-ACC хорошо память-POSS3-LOC хранить-PST2.3SG	‘Петя хорошо помнит дом.’		
+77	77	kömekte-s	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa kömekte-s-tі	PN PN-DAT help-REC-PST1.3SG	‘Petya helped Masha.’		PN PN-DAT помогать-REC-PST1.3SG	‘Петя помог Маше.’		
+77	78	tüs-іn	NOM	ACC	TR	TR	Petya frantsuwz tіl-і-n tüs-іn-edі	PN French language-POSS3-ACC understand-REFL-PRS2.3SG	‘Petya understands the French language.’		PN французский язык-POSS3-ACC понимать-REFL-PRS2.3SG	‘Петя понимает французский язык.’		
+77	79	tüs	NOM	DAT	Y	NOM_DAT	Üy-ge žay tüs-tі	house-DAT lightning fall-PST1.3SG	‘Lightning hit the house.’		дом-DAT молния падать-PST1.3SG	‘Молния попала в дом.’		
+77	80	kes-іn-іp al	NOM	INS	Y	NOM_INS	Petya briytva-men kes-іn-іp al-dï	PN razor-INS cut-REFL-CVB take-PST1.3SG	‘Petya cut himself with a razor.’		PN бритва-INS резать-REFL-CVB брать-PST1.3SG	‘Петя порезался бритвой.’		
+77	81	žabïs-ïp qal	NOM	DAT	Y	NOM_DAT	Staqan stol-ɣa žabïs-ïp qal-dï	glass table-DAT get_stuck-CVB remain-PST1.3SG 	‘The glass got stuck to the table.’		стакан стол-DAT липнуть-CVB оставаться-PST1.3SG	‘Стакан прилип к столу.’		
+77	82	utïl-ïp qal	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ut-ïl-ïp qal-dï	PN PN-DAT lose-PASS-CVB remain-PST1.3SG	‘Petya lose to Masha.’		PN PN-DAT проиграть-PASS-CVB оставаться-PST1.3SG	‘Петя проиграл Маше.’		
+77	83	quan	NOM	DAT	Y	NOM_DAT	Petya xat-qa quwan-dï	PN letter-DAT rejoice-PST1.3SG	‘Petya was glad about the letter.’		PN письмо-DAT радоваться-PST1.3SG	‘Петя обрадовался письму.’		
+77	84	söyles	NOM	INS	Y	NOM_INS	Petya Maša-men söyle-s-іp žatïr	PN PN-INS talk-REC-CVB lie.3SG	‘Petya is speaking with Masha.’		PN PN-INS разговаривать-REC-CVB лежать.3SG	‘Петя разговаривает с Машей.’		
+77	85	tap	NOM	ACC	TR	TR	Maša ul tap-tï	PN son give_birth-PST1.3SG	‘Masha gave birth to a son.’		PN сын.ACC рожать-PST1.3SG	‘Маша родила сына.’		
+77	86	tüsіr	NOM	ACC	TR	TR	Petya staqan-dï tüsіr-іp al-dï	PN glass-ACC drop-CVB give-PST1.3SG	‘Petya dropped the glass.’		PN стакан-ACC ронять-CVB давать-PST1.3SG	‘Петя уронил стакан.’		
+77	87	basqar	NOM	INS	Y	NOM_INS	Petya bіz-dіŋ awïl-men basqar-adï	PN we-GEN village-INS lead-PRS2.3SG	‘Petya runs our village.’		PN мы-GEN аул-INS руководить-PRS2.3SG	‘Петя руководит нашим поселком.’		
+77	88	saɣïn	NOM	ACC	TR	TR	Petya Maša-nï saɣïn-ïp žür	PN PN-ACC miss-CVB go.3SG	‘Petya misses Masha.’		PN PN-ACC скучать-CVB ходить.3SG	‘Петя скучает по Маше.’		
+77	89	žür	NOM	GENartynan	Y	NOM_GENartynan	Petya Maša-nïŋ artïnan žür-edі	PN PN-GEN after go-PRS2.3SG	‘Petya follows Masha.’		PN PN-GEN вслед идти-PRS2.3SG	‘Петя следует за Машей.’		
+77	90	tüs	NOM	ABL	Y	NOM_ABL	Petya at-tan tüs-tі	PN horse-ABL descend-PST1.3SG	‘Petya got down from the horse.’		PN лошадь-ABL слезать-PST1.3SG	‘Петя слез с лошади.’		
+77	91	tïnda	NOM	ACC	TR	TR	Petya radiyo tïnda-p otïr	PN radio listen-CVB sit.3SG	‘Petya is listening to the radio.’		PN радио слушать-CVB сидеть.3SG	‘Петя слушает радио.’		
+77	92	tïnda	NOM	ACC	TR	TR	Petya ana-sï-n tïnda-ydï	PN mother-POSS3-ACC listen-PRS2.3SG	‘Petya obeys his mother.’		PN мама-POSS3-ACC слушаться-PRS2.3SG	‘Петя слушается маму.’		
+77	93	est	NOM	ACC	TR	TR	Petya muwzïka-nï est-іp tur	PN music-ACC hear-CVB stand.3SG	‘Petya hears the music.’		PN музыка-ACC слышать-CVB стоять.3SG	‘Петя слышит музыку.’		
+77	94	aralas	NOM	INS	Y	NOM_INS	Bal süt-pen arala-s-ïp ket-tі	honey milk-INS mix-REC-CVB leave-PST1.3SG 	‘The honey got mixed with the milk.’		мед молоко-INS смешать-REC-CVB уходить-PST1.3SG	‘Мед смешался с молоком.’		
+77	95	qara	NOM	DAT	Y	NOM_DAT	Petya bult-tar-ɣa qara-p tur	PN raincloud-PL-DAT look-CVB stand.3SG	‘Petya is looking at the rainclouds.’		PN туча-PL-DAT смотреть-CVB стоять.3SG	‘Петя смотрит на тучи.’		
+77	96	šeš	NOM	ACC	TR	TR	Petya žeyde-sі-n šeš-tі	PN shirt-POSS3-ACC take_off-PST1.3SG	‘Petya took off his shirt.’		PN рубашка-POSS3-ACC снимать-PST1.3SG	‘Петя снял рубашку.’		
+77	97	tüs-і-ne kіr	DAT	NOM	X	DAT_NOM	Petya-ɣa Maša tüs-і-ne kіr-edі	PN-DAT PN dream-POSS3-DAT enter-PRS2.3SG	‘Petya dreams about Masha.’		PN-DAT PN сон-POSS3-DAT входить-PRS2.3SG	‘Пете снится Маша.’		
+77	98	kelis	NOM	INS	Y	NOM_INS	Petya Maša-men kelіs-tі	PN PN-INS agree-PST1.3SG	‘Petya agreed with Masha.’		PN PN-INS соглашаться-PST1.3SG	‘Петя согласился с Машей.’		
+77	99	urs-ïp qal	NOM	INS	Y	NOM_INS	Petya Maša-men urs-ïp qal-dï	PN PN-INS quarrel-CVB remain-PST1.3SG	‘Petya had a quarrel with Masha.’		PN PN-INS ругать-CBV оставаться-PST1.3SG	‘Петя поссорился с Машей.’		
+77	100	tur	NOM	ACC	TR	TR	Bul kese bіr dollar tur-adï	this cup one dollar cost-PRS2.3SG 	‘This cup costs one dollar.’		этот чашка один доллар стоить-PRS2.3SG	‘Эта чашка стоит один доллар.’		
+77	101	at	NOM	ACC	TR	TR	Petya qus-tï at-tï	PN bird-ACC shoot-PST1.3SG	‘Petya shot at the bird.’		PN птица-ACC стрелять-PST1.3SG	‘Петя выстрелил в птицу.’		
+77	102	sal	NOM	ACC	TR	TR	Petya qant-tï sal-dï	PN sugar-ACC put-PST1.3SG	‘Petya poured sugar.’		PN сахар-ACC класть-PST1.3SG	‘Петя насыпал сахар.’		
+77	103	žoɣal	NOM	ACC	TR	TR	Petya kіlt-і-n žoɣal-tï	PN key-POSS3-ACC lose-PST1.3SG	‘Petya lost the keys.’		PN ключ-POSS3-ACC терять-PST1.3SG	‘Петя потерял ключи.’		
+77	104	bat	NOM	DAT	Y	NOM_DAT	Butaq suw-ɣa bat-ïp ket-tі	log water-DAT sink-CVB leave-PST1.3SG 	‘The log sank in the water.’		полено вода-DAT тонуть-CVB уходить-PST1.3SG	‘Полено утонуло в воде.’		
+77	105	öltіr	NOM	ACC	TR	TR	Petya Maša-nï öltіr-dі	PN PN-ACC kill-PST1.3SG	‘Petya killed Masha.’		PN PN-ACC убивать-PST1.3SG	‘Петя убил Машу.’		
+77	106	ur	NOM	ACC	TR	TR	Petya Maša-nï ur-dï	PN PN-ACC hit-PST1.3SG	‘Petya hit Masha.’		PN PN-ACC ударять-PST1.3SG	‘Петя ударил Машу.’		
+77	107	süy	NOM	ACC	TR	TR	Petya Maša-nï süy-dі	PN PN-ACC kiss-PST1.3SG	‘Petya kissed Masha.’		PN PN-ACC целовать-PST1.3SG	‘Петя поцеловал Машу.’		
+77	108	oq	NOM	ACC	TR	TR	Petya qïzïqtï kіtap oq-ïdï	PN interesting book read-PST1.3SG	‘Petya read an interesting book.’		PN интересный книга читать-PST1.3SG	‘Петя прочитал интересную книгу.’		
+77	109	qozɣalt	NOM	ACC	TR	TR	Petya sawsaq-tar-ï-n qozɣalt-tï	PN finger-PL-POSS3-ACC wiggle-PST1.3SG	‘Petya moved his fingers.’		PN палец-PL-POSS3-ACC шевелить-PST1.3SG	‘Петя пошевелил пальцами.’		
+77	110	sïyla	NOM	ACC	TR	TR	Petya Maša-nï sïyla-ydï	PN PN-ACC respect-PRS2.3SG	‘Petya respects Masha.’		PN PN-ACC уважать-PRS2.3SG	‘Петя уважает Машу.’		
+77	111	žerken	NOM	ABL	Y	NOM_ABL	Petya kіr ïdïs-ayaq-tan žerken-edі	PN dirty dishes-leg-ABL be_squeamish-PRS2.3SG	‘Petya is squeamish about dirty dishes.’		PN грязный посуда-нога-ABL брезговать-PRS2.3SG	‘Петя брезгует грязной посудой.’		
+77	112	riyza	NOM	INS	Y	NOM_INS	Petya öz ul-ï-men riyza	PN one’s son-POSS3-INS content	‘Petya is content with his son.’		PN свой сын-POSS3-INS довольный	‘Петя доволен своим сыном.’		
+77	113	ɣašïq bol	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ɣašïq bol-dï	PN PN-DAT enamoured be-PST1.3SG 	‘Petya fell in love with Masha.’		PN PN-DAT влюбленный быть-PST1.3SG	‘Петя влюбился в Машу.’		
+77	114	sen	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa sen-edі	PN PN-DAT trust-PRS2.3SG	‘Petya trusts Masha.’		PN PN-DAT верить-PRS2.3SG	‘Петя доверяет Маше.’		
+77	115	aya	NOM	ACC	TR	TR	Petya öz ana-sï-n aya-ydï	PN one’s mother-POSS3-ACC feel_pity-PRS2.3SG	‘Petya feels sorry for his mother.’		PN свой мать-POSS3-ACC жалеть-PRS2.3SG	‘Петя жалеет свою мать.’		
+77	116	qïzɣan	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa qïzɣan-adï	PN PN-DAT envy-PRS2.3SG	‘Petya envies Masha.’		PN PN-DAT завидовать-PRS2.3SG	‘Петя завидует Маше.’		
+77	117	ašulï	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’		PN PN-DAT злой	‘Петя злится на Машу.’		
+77	118	taŋɣal	NOM	DAT	Y	NOM_DAT	Petya osï sïylïq-qa taŋɣal-dï	PN this gift-DAT be_surprised-PST1.3SG	‘Petya was surprised at this gift.’		PN этот подарок-DAT удивляться-PST1.3SG	‘Петя удивился этому подарку.’		
+77	119	žaqsï kör	NOM	ACC	TR	TR	Petya šay-dï žaqsï kör-edі	PN tea-ACC good see-PRS2.3SG	‘Petya loves tea.’		PN чай-ACC хорошо видеть-PRS2.3SG	‘Петя любит чай.’		
+77	120	raxattan	NOM	INS	Y	NOM_INS	Petya ïstïq šay-ï-men raxattan-ïp otïr	PN hot tea-POSS3-INS enjoy-CVB sit.3SG	‘Petya is enjoying the hot tea.’		PN горячий чай-POSS3-INS наслаждаться-CVB сидеть.3SG	‘Петя наслаждается горячим чаем.’		
+77	121	qala	NOM	ACC	TR	TR	Petya žaŋa telefon qala-ydï	PN new phone want-PRS2.3SG	‘Petya wants a new phone.’		PN новый телефон хотеть-PRS2.3SG	‘Петя хочет новый телефон.’		
+77	122	ašulï	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’		PN PN-DAT злой	‘Петя сердится на Машу.’		
+77	123	ökpele	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ökpele-dі	PN PN-DAT take_offence-PST1.3SG	‘Petya took offence at Masha.’		PN PN-DAT обидеться-PST1.3SG	‘Петя обиделся на Машу.’		
+77	124	renžіt	NOM	ACC	TR	TR	Petya Maša-nï qattï renž-іt-tі	PN PN-ACC strongly upset-CAUS-PST1.3SG	‘Petya upset Masha.’		PN PN-ACC сильно огорчаться-CAUS-PST1.3SG	‘Петя очень огорчил Машу.’		
+77	125	taŋɣal	NOM	DAT	Y	NOM_DAT	Petya astana-ɣa taŋɣal-dï	PN capital-DAT marvel-PST1.3SG	‘Petya marvelled at the city.’		PN столица-DAT поражаться-PST1.3SG	‘Петя поразился этому городу.’		
+77	126	žaratpa	NOM	ACC	TR	TR	Petya Maša-nï žarat-pa-ydï	PN PN-ACC approve-NEG-PRS2.3SG	‘Petya despises Masha.’		PN PN-ACC одобрять-NEG-PRS2.3SG	‘Петя презирает Машу.’		
+77	127	renž-іp qal	NOM	ushin	Y	NOM_ushin	Petya öz ul-ï üšіn renž-іp qal-dï	PN one’s son-POSS3 because_of be_upset-CVB remain-PST1.3SG	‘Petya got upset because of his son.’		PN свой сын-POSS3 из-за огорчаться-CVB оставаться-PST1.3SG	‘Петя огорчился из-за своего сына.’		
+77	128	key	NOM	ACC	TR	TR	Petya öz qïz-ï-n key-іp otïr	PN one’s daughter-POSS3-ACC get_irritated-CVB sit.3SG	‘Petya is getting irritated with his daughter.’		PN свой дочь-POSS3-ACC раздражаться-CVB сидеть.3SG	‘Петя раздражается на свою дочь.’		
+77	129	unat	NOM	ACC	TR	TR	Petya Maša-nï unat-adï	PN PN-ACC sympathize-PRS2.3SG	‘Petya is fond of Masha.’		PN PN-ACC симпатизировать-PRS2.3SG	‘Петя симпатизирует Маше.’		
+77	130	uyal	NOM	ushin	Y	NOM_ushin	Petya öz boy-ï üšіn uyal-adï	PN one’s height-POSS3 because_of be_shy-PRS2.3SG	‘Petya is shy about his height.’		PN свой рост-POSS3 из-за стесняться-PRS2.3SG	‘Петя стесняется своего роста.’		
 88	1	kăši	*	*	*		waśa-j-en ŏχ-ǝλ kăši	PN-EP-POSS.2SG head-POSS.3SG sick	‘Vasja has a headache.’	Not included in the database because X is (arguably) expressed as an NP-internal modifier. Non-verbal predicate.	PN-EP-POSS.2SG голова-POSS.3SG больной	‘У Васи болит голова’.		
 88	2	mǫšǝtti	NOM	LOC	Y	NOM_LOC	pet'a-j-en grip mǫš-ǝn mǫšǝt-ǝλ	PN-EP-POSS.2SG flu illness-LOC be_ill-NPST[3SG]	‘Petja has the flu.’	Some speakers disallow overt expression of Y.	PN-EP-POSS.2SG грипп болезнь-LOC болеть-NPST[3SG]	‘Петя болеет гриппом’.		
 88	3	păλti	NOM	NOMewelt	Y	NOM_NOMewelt	petˊa-j-en amp-ǝλ ewǝλt păλ	PN-EP-POSS.2SG dog-POSS.3SG from be_afraid.NPST[3SG]	‘Petja is afraid of the dog.’		PN-EP-POSS.2SG собака-POSS.3SG от бояться.NPST[3SG]	‘Петя боится собаки’.		
@@ -3138,12 +3138,12 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 24	17	decir	SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro ha dich-o a María: ven a ver-me	PN[SG.M] AUX.3SG tell-PTCP:PRF NDIR.OBJ PN[SG.F] come.IMP to see.INF-DIR.OBJ.1SG	‘Pedro told Maria: come to my place!’		PN[SG.M] AUX.3SG говорить-PTCP:PRF NDIR.OBJ PN[SG.F] приходить.IMP к видеть.INF-DIR.OBJ.1SG	‘Педро сказал Марии: приходи ко мне в гости.’		
 24	18	tener	SBJ	DO	TR	TR	Pedro tien-e un libro en la-s mano-s	PN[SG.M] have-PRS.3SG ART.NDEF.SG.M book[SG.M] in ART.DEF.F-PL hand[SG.F]-PL	‘Pedro is holding a book in his hands.’		PN[SG.M] иметь-PRS.3SG ART.NDEF.SG.M книга[SG.M] в ART.DEF.F-PL рука[SG.F]-PL	‘Педро держит книгу в руках.’		
 24	19	alcanzar	SBJ	DO	TR	TR	Pedro ha alcanza-do a Maria	PN[SG.M] AUX.3SG reach-PTCP:PRF DIR.OBJ.ANM PN[SG.F]	‘Pedro caught up with Maria.’		PN[SG.M] AUX.3SG достигать-PTCP:PRF DIR.OBJ.ANM PN[SG.F]	‘Педро догнал Марию.’		
-24	20	ordenar	SBJ	DO	TR	TR	Pedro ordeñ-ó la vaca	PN[SG.M] milk-AOR.3SG ART.DEF.SG.F cow[SG.F]	‘Pedro milked the cow.’		PN[SG.M] доить-AOR.3SG ART.DEF.SG.F корова[SG.F]	‘Педро подоил корову.’		
+24	20	ordeñar	SBJ	DO	TR	TR	Pedro ordeñ-ó la vaca	PN[SG.M] milk-AOR.3SG ART.DEF.SG.F cow[SG.F]	‘Pedro milked the cow.’		PN[SG.M] доить-AOR.3SG ART.DEF.SG.F корова[SG.F]	‘Педро подоил корову.’		
 24	21	alcanzar	SBJ	DO	TR	TR	Pedro alcanz-ó la orilla	PN[SG.M] reach-AOR.3SG ART.DEF.SG.F bank[SG.F]	‘Pedro reached the coast.’		PN[SG.M] достигать-AOR.3SG ART.DEF.SG.F берег[SG.F]	‘Педро достиг берега.’		
 24	22	tocar	SBJ	DO	TR	TR	Pedro toc-ó la pared	PN[SG.M] touch-AOR.3SG ART.DEF.SG.F wall[SG.F]	‘Pedro touched the wall.’		PN[SG.M] дотрагиваться-AOR.3SG ART.DEF.SG.F стена[SG.F]	‘Педро дотронулся до стены.’		
-24	23	pegarse	*	*	*		Pedro y Maria se están pega-ndo	PN[SG.M] and PN[SG.F] REFL.3PL AUX.3PL stick-GER:PROGR	‘Pedro is fighting with Maria.’	Not included in the database because X and Y are expressed as a coordinate NP.	PN[SG.M] и PN[SG.F] REFL.3PL AUX.3PL приклеивать-GER:PROGR	‘Педро и Мария дерутся.’		
-24	24	ser amico	*	*	*		Pedro es amigo de María	PN[SG.M] be[3SG] friend[SG.M] from PN[SG.F]	‘Pedro is friends with Maria.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN[SG.M] быть[3SG] друг[SG.M] от/из PN[SG.F]	‘Педро дружит с Марией.’		
-24	25	pensar	SBJ	en	Y	SBJ_en	Pedro está pensa-ndo en María	PN[SG.M] AUX.3SG think-GER:PROG in PN[SG.F]	‘Pedro is thinking about Maria.’		PN[SG.M] AUX.3SG думать-GER:PROG в/на PN[SG.F]	‘Педро думает о Марии.’		
+24	23	pegarse	*	*	*		Pedro y Maria se están pega-ndo	PN[SG.M] and PN[SG.F] REFL.3PL be_PROG.PRS.3PL stick-GER:PROG	‘Pedro is fighting with Maria.’	Not included in the database because X and Y are expressed as a coordinate NP.	PN[SG.M] и PN[SG.F] REFL.3PL быть_PROG.PRS.3PL приклеивать-GER:PROG	‘Педро и Мария дерутся.’		
+24	24	ser amigo	*	*	*		Pedro es amigo de María	PN[SG.M] be_HAB.PRS.3SG friend[SG.M] from PN[SG.F]	‘Pedro is friends with Maria.’	Not included in the database because Y is expressed as an NP-internal modifier.	PN[SG.M] быть_HAB.PRS.3SG друг[SG.M] от/из PN[SG.F]	‘Педро дружит с Марией.’		
+24	25	pensar	SBJ	en	Y	SBJ_en	Pedro está pensa-ndo en María	PN[SG.M] be_PROG.PRS.3SG think-GER:PROG in PN[SG.F]	‘Pedro is thinking about Maria.’		PN[SG.M] be_PROG.PRS.3SG думать-GER:PROG в/на PN[SG.F]	‘Педро думает о Марии.’		
 24	26	comer	SBJ	DO	TR	TR	Pedro se ha comi-do una manzana	PN[SG.M] REFL.3SG AUX.3SG eat-PTCP:PRF ART.NDEF.SG.F apple[SG.F]	‘Pedro ate an apple.’		PN[SG.M] REFL.3SG AUX.3SG есть-PTCP:PRF ART.NDEF.SG.F яблоко[SG.F]	‘Педро съел яблоко.’		
 24	27	freír	SBJ	DO	TR	TR	Pedro ha frei-do pescado	PN[SG.M] AUX.3SG fry-PTCP:PRF fish[SG.M]	‘Pedro fried the fish.’		PN[SG.M] AUX.3SG жарить-PTCP:PRF рыба[SG.M]	‘Педро пожарил рыбу.’		
 24	28	esperar	SBJ	DO	TR	TR	Pedro esper-a a María	PN[SG.M] wait-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Pedro is waiting for Maria.’		PN[SG.M] ждать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро ждет Марию.’		
@@ -3162,7 +3162,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 24	41	morder	SBJ	DO	TR	TR	un perro mordi-ó a Pedro	ART.NDEF.SG.M dog[SG.M] bite-AOR.3SG DIR.OBJ.ANM PN[SG.M]	‘A dog bit Pedro.’		ART.NDEF.SG.M собака[SG.M] кусать-AOR.3SG DIR.OBJ.ANM PN[SG.M]	‘Собака укусила Педро.’		
 24	42	perder	SBJ	DO	TR	TR	Pedro ha perdi-do su casa	PN[SG.M] AUX.3SG lose-PTCP:PRF one’s[SG.F] house[SG.F]	‘Pedro lost his house.’		PN[SG.M] AUX.3SG терять-PTCP:PRF свой[SG.F] дом[SG.F]	‘Педро лишился дома.’		
 24	43	tratar de coger	SBJ	DO	TR	TR	Pedro trat-a de coge-r a=l gato	PN[SG.M] try-PRS.3SG from grasp-INF DIR.OBJ.ANM=ART.DEF.SG.M cat[SG.M]	‘Pedro is trying to catch the cat.’		PN[SG.M] пытаться-PRS.3SG от/из схватить-INF DIR.OBJ.ANM=ART.DEF.SG.M кошка[SG.M]	‘Педро ловит кошку.’		
-24	44	rotar	SBJ	DO	TR	TR	Pedro ha roto un palo	PN[SG.M] AUX.3SG break.PTCP:PRF ART.NDEF.SG.M stick[SG.M]	‘Pedro broke the stick.’		PN[SG.M] AUX.3SG ломать-PTCP:PRF ART.NDEF.SG.M палка[SG.M]	‘Педро сломал палку.’		
+24	44	romper	SBJ	DO	TR	TR	Pedro ha roto un palo	PN[SG.M] AUX.3SG break.PTCP:PRF ART.NDEF.SG.M stick[SG.M]	‘Pedro broke the stick.’		PN[SG.M] AUX.3SG ломать-PTCP:PRF ART.NDEF.SG.M палка[SG.M]	‘Педро сломал палку.’		
 24	45	lisonjear	SBJ	DO	TR	TR	Pedro lisonje-a a María	PN[SG.M] flatter-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Pedro is flattering Maria.’		PN[SG.M] льстить-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро льстит Марии.’		
 24	46	querer	SBJ	DO	TR	TR	Pedro quier-e a María	PN[SG.M] love-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Pedro loves Maria.’		PN[SG.M] любить-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро любит Марию.’		
 24	47	agitar	SBJ	DO	TR	TR	Pedro agit-a un pañuelo	PN[SG.M] wave-PRS.3SG ART.NDEF.SG.M handkerchief[SG.M]	‘Pedro is waving a handkerchief.’		PN[SG.M] махать-PRS.3SG ART.NDEF.SG.M платок[SG.M]	‘Педро машет платком.’		
@@ -3182,7 +3182,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 24	61	quedar	NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le ha-n queda-do diez dólar-es	NDIR.OBJ PN[SG.M] he.NDIR.OBJ AUX.3-PL remain-PTCP:PRF ten dollar[SG.M]-PL	‘Pedro has ten dollars left.’		NDIR.OBJ PN[SG.M] он.NDIR.OBJ AUX.3-PL оставаться-PTCP:PRF десять доллар[SG.M]-PL	‘У Педро осталось десять долларов.’		
 24	62	contestar	SBJ	NDIR.OBJ	Y	SBJ_NDIR.OBJ	Pedro contest-ó a=l profesor	PN[SG.M] answer-AOR.3SG NDIR.OBJ=ART.DEF.SG.M teacher[SG.M]	‘Pedro answered the teacher.’		PN[SG.M] отвечать-AOR.3SG NDIR.OBJ=ART.DEF.SG.M учитель[SG.M]	‘Педро ответил учителю.’		
 24	63	abrir	SBJ	DO	TR	TR	Pedro ha abier-to una lata	PN[SG.M] AUX.3SG open-PTCP:PRF ART.NDEF.SG.F can[SG.F]	‘Pedro opened the can.’		PN[SG.M] AUX.3SG открывать-PTCP:PRF ART.NDEF.SG.F жестяная_банка[SG.F]	‘Педро открыл жестяную банку.’		
-24	64	ser diferente	SBJ	de	Y	SBJ_de	mi camisa es diferente de la tuy-a	my[SG.F] shirt[SG.F] be[PRS.3SG] different[SG.F] from ART.DEF.SG.F your-SG.F	‘My shirt is different from yours.’	Non-verbal predicate.	мой[SG.F] рубашка[SG.F] быть[PRS.3SG] отличная[SG.F] от/из ART.DEF.SG.F твой-SG.F	‘Моя рубашка отличается от твоей.’		
+24	64	ser diferente	SBJ	de	Y	SBJ_de	mi camisa es diferente de la tuy-a	my[SG.F] shirt[SG.F] be_HAB.PRS.3SG different[SG.F] from ART.DEF.SG.F your-SG.F	‘My shirt is different from yours.’	Non-verbal predicate.	мой[SG.F] рубашка[SG.F] быть_HAB.PRS.3SG отличный[SG.F] от/из ART.DEF.SG.F твой-SG.F	‘Моя рубашка отличается от твоей.’		
 24	65	quedarse atrás	SBJ	de	Y	SBJ_de	Pedro se qued-ó atrás de María	PN[SG.M] REFL.3SG remain-AOR.3SG behind from PN[SG.F]	‘Pedro fell behind Maria.’		PN[SG.M] REFL.3SG оставаться-AOR.3SG сзади от/из PN[SG.F]	‘Педро отстал от Марии.’		
 24	66	arar	SBJ	DO	TR	TR	Pedro ar-a el campo	PN[SG.M] plough-PRS.3SG ART.DEF.SG.M field[SG.M]	‘Pedro is ploughing the field.’		PN[SG.M] пахать-PRS.3SG ART.DEF.SG.M поле[SG.M]	‘Педро пашет поле.’		
 24	67	oler	SBJ	a	Y	SBJ_a	mi-s mano-s huele-n a gasolina	my-PL hand[SG.F]-PL smell-PRS.3PL to gasoline[SG.F]	‘My hands smell of gasoline.’		мой-PL рука[SG.F]-PL пахнуть-PRS.3PL к бензин[SG.F]	‘Мои руки пахнут бензином.’		
@@ -3230,18 +3230,18 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 24	109	mover	SBJ	DO	TR	TR	Pedro movi-ó un dedo	PN[SG.M] move-AOR.3SG ART.NDEF.SG.M finger[SG.M]	‘Pedro moved a finger.’		PN[SG.M] двигать-AOR.3SG ART.NDEF.SG.M палец[SG.M]	‘Педро пошевелил пальцем.’		
 24	110	respetar	SBJ	DO	TR	TR	Pedro respet-a a María	PN[SG.M] respect-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Pedro respects Maria.’		PN[SG.M] уважать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро уважает Марию.’		
 24	111	repugnar	DO	SBJ	X	DO_SBJ	a Pedro lo/le repugn-an lo-s plato-s suci-o-s	DIR.OBJ.ANM PN[SG.M] he.DIR.OBJ.ANM nauseate-PRS.3PL ART.DEF.M-PL dish[M]-PL dirty-M-PL	‘Pedro is squeamish about dirty dishes.’		DIR.OBJ.ANM PN[SG.M] он.DIR.OBJ.ANM вызывать_отвращение-PRS.3PL ART.DEF.M-PL тарелка[M]-PL грязный-M-PL	‘Педро брезгует грязными тарелками.’		
-24	112	estar contento	SBJ	con	Y	SBJ_con	Pedro está content-o con su hijo	PN[SG.M] be.PRS.3SG content-SG.M with one’s[SG.M] son[SG.M]	‘Pedro is content with his son.’	Non-verbal predicate.	PN[SG.M] находиться.PRS.3SG довольный-SG.M с свой[SG.M] сын[SG.M]	‘Педро доволен своим сыном.’		
+24	112	estar contento	SBJ	con	Y	SBJ_con	Pedro está content-o con su hijo	PN[SG.M] be_PROG.PRS.3SG content-SG.M with one’s[SG.M] son[SG.M]	‘Pedro is content with his son.’	Non-verbal predicate.	PN[SG.M] быть_PROG.PRS.3SG довольный-SG.M с свой[SG.M] сын[SG.M]	‘Педро доволен своим сыном.’		
 24	113	enamorarse	SBJ	de	Y	SBJ_de	Pedro se enamor-ó de María	PN[SG.M] REFL.3SG fall_in_love-AOR.3SG from PN[SG.F]	‘Pedro fell in love with Maria.’		PN[SG.M] REFL.3SG влюбляться-AOR.3SG от/из PN[SG.F]	‘Педро влюбился в Марию.’		
 24	114	confiar	SBJ	en	Y	SBJ_en	Pedro confí-a en María	PN[SG.M] trust-PRS.3SG in PN[SG.F]	‘Pedro trusts Maria.’		PN[SG.M] доверять-PRS.3SG в/на PN[SG.F]	‘Педро доверяет Марии.’		
 24	115	compadecer	SBJ	DO	TR	TR	Pedro compadec-e a su madre	PN[SG.M] sympathise-PRS.3SG DIR.OBJ.ANM one’s[SG.F] mother[SG.F]	‘Pedro sympathises with his mother.’		PN[SG.M] сострадать-PRS.3SG DIR.OBJ.ANM свой[SG.F] мать[SG.F]	‘Педро жалеет свою мать.’		
 24	116	envidiar	SBJ	DO	TR	TR	Pedro envidi-a a María	PN[SG.M] envy-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Pedro envies Maria.’		PN[SG.M] завидовать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро завидует Марии.’		
-24	117	estar furioso	SBJ	con	Y	SBJ_con	Pedro está furios-o con María	PN[SG.M] be.PRS.3SG angry[SG]-M with PN[SG.F]	‘Pedro is angry with Maria.’	Non-verbal predicate.	PN[SG.M] находиться.PRS.3SG гневный[SG]-M с PN[SG.F]	‘Педро злится на Марию.’		
+24	117	estar furioso	SBJ	con	Y	SBJ_con	Pedro está furios-o con María	PN[SG.M] be_PROG.PRS.3SG angry[SG]-M with PN[SG.F]	‘Pedro is angry with Maria.’	Non-verbal predicate.	PN[SG.M] быть_PROG.PRS.3SG гневный[SG]-M с PN[SG.F]	‘Педро злится на Марию.’		
 24	118	sorprender	DO	SBJ	X	DO_SBJ	a Pedro lo/le ha sorprendi-do el regalo	DIR.OBJ.ANM PN[SG.M] he.DIR.OBJ.ANM AUX.3SG surprise-PTCP:PRF ART.DEF.SG.M gift[SG.M]	‘This gift surprised Pedro.’	  	DIR.OBJ.ANM PN[SG.M] он.DIR.OBJ.ANM AUX.3SG поражать-PTCP:PRF ART.DEF.SG.M подарок[SG.M]	‘Педро удивил этот подарок.’		
 24	119	gustar	NDIR.OBJ	SBJ	X	NDIR.OBJ_SBJ	a Pedro le gust-a el té	NDIR.OBJ PN[SG.M] he.NDIR.OBJ like-PRS.3SG ART.DEF.SG.M tea[SG.M]	‘Pedro loves tea.’		NDIR.OBJ PN[SG.M] он.NDIR.OBJ нравиться-PRS.3SG ART.DEF.SG.M чай[SG.M]	‘Педро нравится чай.’		
 24	120	disfrutar	SBJ	de	Y	SBJ_de	Pedro disfrut-a de=l té caliente	PN[SG.M] enjoy-PRS.3SG from=ART.DEF.SG.M tea[SG.M] hot[SG.M]	‘Pedro enjoys hot tea.’		PN[SG.M] наслаждаться-PRS.3SG от/из=ART.DEF.SG.M чай[SG.M] горячий[SG.M]	‘Педро наслаждается горячим чаем.’		
 24	121	querer	SBJ	DO	TR	TR	Pedro quier-e un teléfono movil nuev-o	PN[SG.M] want-PRS.3SG ART.NDEF.SG.M telephone[SG.M] mobile[SG.M] new[SG]-M	‘Pedro wants a new mobile phone.’		PN[SG.M] хотеть-PRS.3SG ART.NDEF.SG.M телефон[SG.M] мобильный[SG.M] новый[SG]-M	‘Педро хочет новый мобильник.’		
 24	122	enfadarse	SBJ	con	Y	SBJ_con	Pedro se enfad-a con María	PN[SG.M] REFL.3SG make_angry-PRS.3SG with PN[SG.F]	‘Pedro has a grudge against Maria.’		PN[SG.M] REFL.3SG сердить-PRS.3SG с PN[SG.F]	‘Педро сердится на Марию.’		
-24	123	disgustar	SBJ	con	Y	SBJ_con	Pedro está disgusta-do con María	PN[SG.M] AUX.PRS.3SG irritate-PTCP.SG.M with PN[SG.F]	‘Pedro took offence at Maria.’	Non-verbal predicate (passive).	PN[SG.M] AUX.PRS.3SG раздражать-PTCP.SG.M с PN[SG.F]	‘Педро обиделся на Марию.’		
+24	123	disgustar	SBJ	con	Y	SBJ_con	Pedro está disgusta-do con María	PN[SG.M] be_PROG.PRS.3SG irritate-PTCP.SG.M with PN[SG.F]	‘Pedro took offence at Maria.’	Non-verbal predicate (passive).	PN[SG.M] be_PROG.PRS.3SG раздражать-PTCP.SG.M с PN[SG.F]	‘Педро обиделся на Марию.’		
 24	124	afligir	SBJ	DO	TR	TR	Pedro afligi-ó mucho a María	PN[SG.M] upset-AOR.3SG very DIR.OBJ.ANM PN[SG.F]	‘Pedro greatly upset Maria.’		PN[SG.M] огорчать-AOR.3SG очень DIR.OBJ.ANM PN[SG.F]	‘Педро очень огорчил Марию.’		
 24	125	sorprender	DO	SBJ	X	DO_SBJ	a Pedro lo/le sorprendi-ó est-a ciudad	DIR.OBJ.ANM PN[SG.M] he.DIR.OBJ.ANM surprise-AOR.3SG this[SG]-F town[SG.F]	‘This city surprised Pedro.’		DIR.OBJ.ANM PN[SG.M] он.DIR.OBJ.ANM поражать-AOR.3SG этот[SG]-F город[SG.F]	‘Педро поразил этот город.’		
 24	126	despreciar	SBJ	DO	TR	TR	Pedro despreci-a a María	PN[SG.M] despise-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Pedro despises Maria.’		PN[SG.M] презирать-PRS.3SG DIR.OBJ.ANM PN[SG.F]	‘Педро презирает Марию.’		
