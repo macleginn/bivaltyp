@@ -17,3 +17,42 @@ The data were mainly gathered in 2018 in Semey, Kazakhstan. The Russian version 
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}. 
+
+## Grammar notes
+
+### Basic clause structure and the transitive construction
+
+In Kazakh, the default linear pattern is SOV. In the transitive construction, nominal subjects are used in the unmarked form and direct objects are used either in the unmarked form (1) or in the accusative case (2) depending on their animacy and referentiality (Differential Object Marking).
+
+```
+(1)  Petya  tas    laqtïr-dï.
+     Petya  stone  throw-PST1.3SG
+     ‘Petya threw a stone.’ 
+
+(2)  Petya  kilt-ti    tap-tï.
+     Petya  key-ACC    found-PST1.3SG
+     ‘Petya found the keys.’     
+
+```
+
+The predicate agrees with the subject in person (1st, 2nd, 3rd) and number (singular, plural). Non-core arguments are flagged by oblique cases or by postpositions.
+The verbal tenses in the examples include present1 (the main verb in converbial form and the auxiliary verb), present2 (marked with *-a*, *-y*, *-e*), past1 (*-dï*, *-di*, *-tï*, *-ti*) or past2 (*-ɣan*, *-ɣen*, *-qan*, *-qen*). 
+
+### Case system
+
+The case system includes seven cases for nouns, viz. the unmarked nominative, genitive, dative, accusative, locative, ablative and instrumental, as exemplified for the noun *bala* ‘child’ below:
+
+```
+
+Nominative    *bala*      child.NOM
+Genitive      *bala-nïŋ*  child-GEN
+Dative        *bala-ɣa*   child-DAT
+Accusative    *bala-nï*   child-ACC
+Locative      *bala-da*   child-LOC
+Ablative      *bala-dan*  child-ABL
+Instrumental  *bala-men*  child-INS
+
+```
+
+## Verb lemmas
+Verbs are shown in the form of a bare stem without inflectional affixes.
