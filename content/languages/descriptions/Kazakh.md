@@ -44,13 +44,13 @@ The case system includes seven cases for nouns, viz. the unmarked nominative, ge
 
 ```
 
-Nominative    *bala*      child.NOM
-Genitive      *bala-nïŋ*  child-GEN
-Dative        *bala-ɣa*   child-DAT
-Accusative    *bala-nï*   child-ACC
-Locative      *bala-da*   child-LOC
-Ablative      *bala-dan*  child-ABL
-Instrumental  *bala-men*  child-INS
+Nominative    bala      child.NOM
+Genitive      bala-nïŋ  child-GEN
+Dative        bala-ɣa   child-DAT
+Accusative    bala-nï   child-ACC
+Locative      bala-da   child-LOC
+Ablative      bala-dan  child-ABL
+Instrumental  bala-men  child-INS
 
 ```
 
