@@ -56,3 +56,6 @@ Instrumental  bala-men  child-INS
 
 ## Verb lemmas
 Verbs are shown in the form of a bare stem without inflectional affixes.
+
+## Glossing abbreviations
+1, 3 — 1st, 3rd person; ABL — ablative; ACC — accusative; CAUS — causative; CVB — converb; DAT — dative; GEN — genitive; INS — instrumental; LOC — locative; NEG — negation; PASS — passive; PL — plural; PN — person name; POSS — possessive; PRS2 — second present; PST1 — first past; PST2 — second past; REC — reciprocal; REFL — reflexive; SG — singular. 
