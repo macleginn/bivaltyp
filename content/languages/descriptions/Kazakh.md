@@ -36,7 +36,7 @@ In Kazakh, the default linear pattern is SOV. In the transitive construction, no
 ```
 
 The predicate agrees with the subject in person (1st, 2nd, 3rd) and number (singular, plural). Non-core arguments are flagged by oblique cases or by postpositions.
-The verbal tenses in the examples include present1 (the main verb in converbial form and the auxiliary verb), present2 (marked with *-a*, *-y*, *-e*), past1 (*-dï*, *-di*, *-tï*, *-ti*) or past2 (*-ɣan*, *-ɣen*, *-qan*, *-qen*). 
+The verbal tenses in the examples include the first present (the main verb in converbial form and the auxiliary verb), the second present (marked with *-a*, *-y*, *-e*), the first past (*-dï*, *-di*, *-tï*, *-ti*) or the second past (*-ɣan*, *-ɣen*, *-qan*, *-qen*). 
 
 ### Case system
 
