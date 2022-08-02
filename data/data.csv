@@ -1726,7 +1726,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 77	35	избегать	qaš	NOM	ABL	Y	NOM_ABL	Petya Maša-dan qaš-ïp žür	PN PN-ABL avoid-CVB go.3SG	‘Petya avoids Masha.’		PN PN-ABL избегать-CVB ходить.3SG	‘Петя избегает Машу.’		
 77	36	изготовить	žasa	NOM	ACC	TR	TR	Petya bomba žasa-dï	PN bomb make-PST1.3SG	‘Petya made a bomb.’		PN бомба изготовлять-PST1.3SG	‘Петя изготовил бомбу.’		
 77	37	издеваться	kemsit	NOM	ACC	TR	TR	Petya Maša-nï kemsіt-tі	PN PN-ACC consider_insignificant-PST1.3SG	‘Petya is making fun of Masha.’		PN PN-ACC считать_ничтожным-PST1.3SG	‘Петя издевается над Машей.’		
-77	38	иметь	bar	LOC	NOM	X	LOC_NOM	Petya-da mašiyna bar	PN-LOC car there_is	‘Petya has a car.’		PN-LOC машина имеется	‘У Пети есть машина.’		
+77	38	иметь	bar	LOC	NOM	X	LOC_NOM	Petya-da mašiyna bar	PN-LOC car there_is	‘Petya has a car.’	Non-verbal predicate.	PN-LOC машина имеется	‘У Пети есть машина.’		
 77	39	искать	izde	NOM	ACC	TR	TR	Petya kіlt іzde-p žür	PN key search-CVB go.3SG	‘Petya is looking for keys.’		PN ключ искать-CVB ходить.3SG	‘Петя ищет ключи.’		
 77	40	красить	boya	NOM	ACC	TR	TR	Petya qoršaw-dï boya-dï	PN fence-ACC paint-PST1.3SG	‘Petya painted the fence.’		PN забор-ACC красить-PST1.3SG	‘Петя покрасил забор.’		
 77	41	кусать	qap	NOM	ACC	TR	TR	It Petya-nï qap-tï	dog PN-ACC bite-PST1.3SG	‘A dog bit Petya.’		собака PN-ACC кусать-PST1.3SG	‘Собака укусила Петю.’		
@@ -1747,12 +1747,12 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 77	56	недоставать	žet-pe	DAT	NOM	X	DAT_NOM	Petya-ɣa bіr dollar žet-pe-y tur	PN-DAT one dollar have_enough-NEG-CVB stand.3SG	‘Petya is one dollar short.’		PN-DAT один доллар хватать-NEG-CVB стоять.3SG	‘Пете недостает одного доллара.’		
 77	57	ненавидеть	žek kör	NOM	ACC	TR	TR	Petya Maša-nï žek kör-edi 	PN PN-ACC hate-PRS2.3SG	‘Petya hates Masha.’		PN PN-ACC ненавидеть-PRS2.3SG	‘Петя ненавидит Машу.’		
 77	58	нравиться	una	DAT	NOM	X	DAT_NOM	Petya-ɣa bul žeyde una-ydï	PN-DAT this shirt like-PRS2.3SG	‘Petya likes this shirt.’		PN-DAT этот рубашка нравиться-PRS2.3SG	‘Пете нравится эта рубашка.’		
-77	59	нуждаться	kerek	DAT	NOM	X	DAT_NOM	Petya-ɣa aqša kerek	PN-DAT money be_necessary	‘Petya needs money.’		PN-DAT деньги нужно	‘Петя нуждается в деньгах.’		
+77	59	нуждаться	kerek	DAT	NOM	X	DAT_NOM	Petya-ɣa aqša kerek	PN-DAT money be_necessary	‘Petya needs money.’	Non-verbal predicate.	PN-DAT деньги нужно	‘Петя нуждается в деньгах.’		
 77	60	окружать	qorša	NOM	ACC	TR	TR	Qala-nï qabïrɣa-lar qorša-ydï	city-ACC wall-PL surround-PRS2.3SG	‘Walls surround the city.’		город-ACC стена-PL окружать-PRS2.3SG	‘Стены окружают город.’		
 77	61	оставаться	qal	LOC	NOM	X	LOC_NOM	Petya-da on dollar qal-dï	PN-LOC ten dollar remain-PST1.3SG	‘Petya has 10 dollars left.’		PN-LOC десять доллар оставаться-PST1.3SG	‘У Пети осталось 10 долларов.’		
 77	62	отвечать	žawap ber	NOM	DAT	Y	NOM_DAT	Petya muwɣalіm-ge žawap ber-dі	PN teacher-DAT answer give-PST1.3SG	‘Petya answered the teacher.’		PN учитель-DAT ответ дать-PST1.3SG	‘Петя ответил учителю.’		
 77	63	открывать	aš	NOM	ACC	TR	TR	Petya banka-nï aš-tï	PN can-ACC open-PST1.3SG	‘Petya opened a can.’		PN банка-ACC открывать-PST1.3SG	‘Петя открыл банку.’		
-77	64	отличаться	basqa	NOM	ABL	Y	NOM_ABL	Menіŋ žeyde-m senіŋ žeyde-nen basqa	I.GEN shirt-POSS1SG you.GEN shirt-ABL different	‘My shirt is different from yours.’		я.GEN рубашка-POSS1 ты.GEN рубашка-ABL другой	‘Моя рубашка отличается от твоей.’		
+77	64	отличаться	basqa	NOM	ABL	Y	NOM_ABL	Menіŋ žeyde-m senіŋ žeyde-nen basqa	I.GEN shirt-POSS1SG you.GEN shirt-ABL different	‘My shirt is different from yours.’	Non-verbal predicate.	я.GEN рубашка-POSS1 ты.GEN рубашка-ABL другой	‘Моя рубашка отличается от твоей.’		
 77	65	отстать	qal-ïp qoy	NOM	ABL	Y	NOM_ABL	Petya Maša-dan qal-ïp qoy-dï	PN PN-ABL remain-CVB put-PST1.3SG	‘Petya fell behind Masha.’		PN PN-ABL оставаться-CVB ставить-PST1.3SG	‘Петя отстал от Маши.’		
 77	66	пахать	žïrt	NOM	ACC	TR	TR	Petya alqap-tï žïrt-ïp žatïr	PN field-ACC plough-CVB lie.3SG	‘Petya is ploughing the field.’		PN поле-ACC пахать-CVB лежать.3SG	‘Петя пашет поле.’		
 77	67	пахнуть	sas	NOM	ACC	TR	TR	Menіŋ qol-ïm benziyn sas-ïp tur	I.GEN hand-POSS1SG gasoline smell-CVB stand.3SG	‘My hands smell of this gasoline.’		я.GEN рука-POSS1 бензин пахнуть-CVB стоять.3SG	‘Мои руки пахнут бензином.’		
@@ -1800,17 +1800,17 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 77	109	шевелить	qozɣalt	NOM	ACC	TR	TR	Petya sawsaq-tar-ï-n qozɣalt-tï	PN finger-PL-POSS3-ACC wiggle-PST1.3SG	‘Petya moved his fingers.’		PN палец-PL-POSS3-ACC шевелить-PST1.3SG	‘Петя пошевелил пальцами.’		
 77	110	уважать	sïyla	NOM	ACC	TR	TR	Petya Maša-nï sïyla-ydï	PN PN-ACC respect-PRS2.3SG	‘Petya respects Masha.’		PN PN-ACC уважать-PRS2.3SG	‘Петя уважает Машу.’		
 77	111	брезговать	žerken	NOM	ABL	Y	NOM_ABL	Petya kіr ïdïs-ayaq-tan žerken-edі	PN dirty dishes-leg-ABL be_squeamish-PRS2.3SG	‘Petya is squeamish about dirty dishes.’		PN грязный посуда-нога-ABL брезговать-PRS2.3SG	‘Петя брезгует грязной посудой.’		
-77	112	быть довольным	riyza	NOM	INS	Y	NOM_INS	Petya öz ul-ï-men riyza	PN one’s son-POSS3-INS content	‘Petya is content with his son.’		PN свой сын-POSS3-INS довольный	‘Петя доволен своим сыном.’		
+77	112	быть довольным	riyza	NOM	INS	Y	NOM_INS	Petya öz ul-ï-men riyza	PN one’s son-POSS3-INS content	‘Petya is content with his son.’	Non-verbal predicate.	PN свой сын-POSS3-INS довольный	‘Петя доволен своим сыном.’		
 77	113	влюбляться	ɣašïq bol	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ɣašïq bol-dï	PN PN-DAT enamoured be-PST1.3SG 	‘Petya fell in love with Masha.’		PN PN-DAT влюбленный быть-PST1.3SG	‘Петя влюбился в Машу.’		
 77	114	доверять	sen	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa sen-edі	PN PN-DAT trust-PRS2.3SG	‘Petya trusts Masha.’		PN PN-DAT верить-PRS2.3SG	‘Петя доверяет Маше.’		
 77	115	жалеть	aya	NOM	ACC	TR	TR	Petya öz ana-sï-n aya-ydï	PN one’s mother-POSS3-ACC feel_pity-PRS2.3SG	‘Petya feels sorry for his mother.’		PN свой мать-POSS3-ACC жалеть-PRS2.3SG	‘Петя жалеет свою мать.’		
 77	116	завидовать	qïzɣan	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa qïzɣan-adï	PN PN-DAT envy-PRS2.3SG	‘Petya envies Masha.’		PN PN-DAT завидовать-PRS2.3SG	‘Петя завидует Маше.’		
-77	117	злиться	ašulï	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’		PN PN-DAT злой	‘Петя злится на Машу.’		
+77	117	злиться	ašulï	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’	Non-verbal predicate.	PN PN-DAT злой	‘Петя злится на Машу.’		
 77	118	удивляться	taŋɣal	NOM	DAT	Y	NOM_DAT	Petya osï sïylïq-qa taŋɣal-dï	PN this gift-DAT be_surprised-PST1.3SG	‘Petya was surprised at this gift.’		PN этот подарок-DAT удивляться-PST1.3SG	‘Петя удивился этому подарку.’		
 77	119	любить-2	žaqsï kör	NOM	ACC	TR	TR	Petya šay-dï žaqsï kör-edі	PN tea-ACC good see-PRS2.3SG	‘Petya loves tea.’		PN чай-ACC хорошо видеть-PRS2.3SG	‘Петя любит чай.’		
 77	120	наслаждаться	raxattan	NOM	INS	Y	NOM_INS	Petya ïstïq šay-ï-men raxattan-ïp otïr	PN hot tea-POSS3-INS enjoy-CVB sit.3SG	‘Petya is enjoying the hot tea.’		PN горячий чай-POSS3-INS наслаждаться-CVB сидеть.3SG	‘Петя наслаждается горячим чаем.’		
 77	121	хотеть	qala	NOM	ACC	TR	TR	Petya žaŋa telefon qala-ydï	PN new phone want-PRS2.3SG	‘Petya wants a new phone.’		PN новый телефон хотеть-PRS2.3SG	‘Петя хочет новый телефон.’		
-77	122	сердиться	ašulï	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’		PN PN-DAT злой	‘Петя сердится на Машу.’		
+77	122	сердиться	ašulï	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ašulï	PN PN-DAT angry	‘Petya is angry with Masha.’	Non-verbal predicate.	PN PN-DAT злой	‘Петя сердится на Машу.’		
 77	123	обижаться	ökpele	NOM	DAT	Y	NOM_DAT	Petya Maša-ɣa ökpele-dі	PN PN-DAT take_offence-PST1.3SG	‘Petya took offence at Masha.’		PN PN-DAT обидеться-PST1.3SG	‘Петя обиделся на Машу.’		
 77	124	огорчать	renžіt	NOM	ACC	TR	TR	Petya Maša-nï qattï renž-іt-tі	PN PN-ACC strongly upset-CAUS-PST1.3SG	‘Petya upset Masha.’		PN PN-ACC сильно огорчаться-CAUS-PST1.3SG	‘Петя очень огорчил Машу.’		
 77	125	поражаться	taŋɣal	NOM	DAT	Y	NOM_DAT	Petya astana-ɣa taŋɣal-dï	PN capital-DAT marvel-PST1.3SG	‘Petya marvelled at the city.’		PN столица-DAT поражаться-PST1.3SG	‘Петя поразился этому городу.’		
