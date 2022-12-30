@@ -4,7 +4,7 @@ Contributed by [Anastasia Panova](https://www.su.se/english/profiles/anpa7559-1.
 ![A.P.'s photo]({{ site_url_j }}/images/Panova.jpg "A.P.'s photo")
 
 ## How to cite
-> Panova, Anastasia. 2022. Bivalent patterns in {{ language_external}}. 
+> Panova, Anastasia. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
