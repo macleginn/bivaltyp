@@ -99,6 +99,7 @@ Ajtalina Nogovitsyna: {{ language:Yakut }}
 Maria Nordrum, Olga Kuznetsova: {{ language:Norwegian_Bokmal}}  
 Sofia Oskolskaya: {{ language:Tuvinian }}  
 Maria Ovsjannikova: {{ language:Enets_Forest }}, {{ language:Turkish }}  
+Anastasia Panova: {{ language:Nivkh }}  
 Elena Perekhvalskaja: {{ language:Udihe }}  
 Natalia Perkova: {{ language:Latvian }}  
 Krasimira Petrova: {{ language:Bulgarian }}  
@@ -106,7 +107,7 @@ Inna Popova: {{ language:Latin }}
 Maria Pupynina: {{ language:Chukchi }}  
 Neige Rochant: {{ language:Andi_Zilo }}  
 Alexander Rostovtsev-Popiel: {{ language:Georgian }}  
-Daria Ryzhova: {{ language:Khanty_Kazym }}  
+Daria Ryzhova: {{ language:Khanty_Kazym }}, {{ language:Shughni }}  
 Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}  
 Ekaterina Sergeeva: {{ language:Komi_Zyrian }}  
 Ekaterina Sergeeva, Galina Nekrasova: {{ language:Komi_Permyak }}  
