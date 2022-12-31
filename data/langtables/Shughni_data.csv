@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+92	Shughni	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	dārδ čīdow	LOC	NOM	X	LOC_NOM		Ahmed-and wi kāl dārδ kix̌-t	PN-LOC D3.M.SG.OBL head pain do-3SG	‘У Ахмеда болит голова.’			CV
+92	Shughni	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	vidow	LOC	NOM	X	LOC_NOM	In this example, the verb 'to be' is non-overt.	Lola-yand rāk kasali	PN-LOC cancer illness	‘У Лолы рак.’			
+92	Shughni	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	x̌oǰ δêrtow	NOM	EL	Y	NOM_EL		Ahmed as kūd x̌oǰ δêr-t	PN EL dog fear AUX-3SG	‘Ахмед боится собаку.’			CV
+92	Shughni	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	šič δêdow1	NOM	OBL	TR	TR		Ahmat=i yakum žīr šič δod	PN=3SG first stone throw give.PST	‘Ахмат первым бросил камень.’			CV
+92	Shughni	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	firīptow	LOC	NOM	X	LOC_NOM		Ahmed-and wi pūl wi-rd firop-t	PN-LOC D3.M.SG.OBL money D3.M.SG.OBL-LAT suffice-3SG	‘Ахмеду хватает денег.’			Same verb as in 21, 53.
+92	Shughni	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	mūnandi vidow	NOM	EQ	Y	NOM_EQ	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	Ahmat tar xu bob mūnand	PN EQ REFL grandfather similar	‘Ахмат похож на своего дедушку.’			
+92	Shughni	7	believe	X (believe) Y	верить	X (верить)Y-у	bowar δêdow1	NOM	LAT	Y	NOM_LAT		Ahmat Azim-ard bowari δī-d	PN PN-LAT trust give-3SG	‘Ахмат верит Азиму.’			CV. Same verb as in 114.
+92	Shughni	8	take	X (take) Y	взять	X (брать) Y(-а)	zêx̌tow	NOM	OBL	TR	TR		Azim=i kitob as tažerka-ti zox̌-t	PN=3SG book EL shelf-SUP take-PST	‘Азим взял книгу с полки.’			
+92	Shughni	9	see	X (see) Y	видеть	X (видеть) Y(-а)	wīntow	NOM	OBL	TR	TR		Azim čīd wīn-t	PN house see-3SG	‘Азим видит дом.’			Same verb as in 11.
+92	Shughni	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	tāsīr čīdow	NOM	SUP	Y	NOM_SUP		sol wux̌-ti tāsīr kix̌-t	years memory-SUP influence do-3SG	‘Возраст влияет на память.’			CV
+92	Shughni	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	wīntow	NOM	OBL	TR	TR		Ahmat=i Azim půnd-ti wīn-t	PN=3SG PN road-SUP see-PST	‘Ахмат встретил Азима на дороге.’			Same verb as in 9.
+92	Shughni	12	enter	X (enter) Y	входить	X (входить) в Y (дом)	dedow	NOM	EQ	Y	NOM_EQ		Ahmed tar čīd ded	PN EQ house enter.PST	‘Ахмед вошел в дом.’			
+92	Shughni	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	yêdow	NOM	EL	Y	NOM_EL		Ahmed=i as Karamšo yod	PN=3SG EL PN bring.PST	‘Ахмед выиграл у Карамшо.’			
+92	Shughni	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	nax̌tīdow	NOM	EL	Y	NOM_EL		Azim as čīd nax̌tūy-d	PN EL house go.out-PST	‘Азим вышел из дома.’			
+92	Shughni	15	drive	X (drive) Y	гнать	X (гнать) Y-а	ay čīdow	NOM	OBL	TR	TR		Azim=i wam žow ay čūd wox̌ xīd	PN=3SG D3.F.SG.OBL cow expulsion do.PST grass eat.INF	‘Азим гонит корову пастись.’			CV
+92	Shughni	16	bend	X (bend) Y	гнуть	X (гнуть) Y	xām δêdow1	NOM	OBL	TR	TR		Ahmed=i wi xêx̌čak xām δod	PN=3SG D3.M.SG.OBL branch bend give.PST	‘Ахмед согнул ветку.’			CV
+92	Shughni	17	tell	X (tell) Y	говорить	X (говорить) Y-у	lůvdow	NOM	LAT	Y	NOM_LAT		Azim=i Lola-yard lůd: te tar čīd-aθ	PN=3SG PN-LAT say.PST go.IMPER EQ house-ADV	‘Азим сказал Лоле: “иди домой”.’			
+92	Shughni	18	hold	X (hold)Y	держать	X (держать) Y(-а)	anǰīvdow	NOM	OBL	TR	TR		Ahmed=i mu kitob anǰūv-d	PN=3SG 1SG.OBL book hold-PST	‘Ахмед держал мою книгу.’			Same verb as in 43.
+92	Shughni	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	daryov čīdow	NOM	OBL	TR	TR		Ahmed=i Karamšo daryov čūd	PN=3SG PN capture do.PST	‘Ахмед догнал Карамшо.’			CV
+92	Shughni	20	milk	X (milk) Y	доить	X (доить) Y-а	δīwdow	NOM	OBL	TR	TR		Saida=yi žow δūy-d	PN=3SG cow milk-PST	‘Саида подоила корову.’			
+92	Shughni	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега)	firīptow	NOM	EQ	Y	NOM_EQ		Azim=i lodka=qati tar qoq=i firīp-t	PN=3SG boat=INS EQ dry=SUBST reach/arrive-PST	‘Азим достиг берега на лодке.’			Same verb as in 5, 53.
+92	Shughni	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	xu δêdow1	NOM	PREP.UP-LOC	Y	NOM_PREP.UP-LOC		Azim=i pi burǰ-and xu δod xu ɣažd su-t	PN=3SG PREP.UP wall-LOC REFL give.PST ADD dirty go-PST	‘Азим дотронулся до стены и испачкался.’			CV
+92	Shughni	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	δêd čīdow	NOM	INS	Y	NOM_INS		Naǰiba Safina=qati δêd kix̌-t	PN PN=INS quarrel do-3SG	‘Наджиба дерется с Сафиной.’			CV
+92	Shughni	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	*	*	*	*		Not included in the database because X and Y are expressed as a coordinate NP.	Ahmat=at Azim=en ox̌no-yen	PN=ADD PN=3PL friend-PL	‘Ахмат и Азим друзья.’			
+92	Shughni	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	fikri čīdow	NOM	OBL	TR	TR		Azim Lola fikri kix̌-t	PN PN thought do-3SG	‘Азим думает о Лоле.’			CV
+92	Shughni	26	eat	X (eat) Y	есть	X (есть) Y	xīdow	NOM	OBL	TR	TR		Ahmed=i mūn xūd	PN=3SG apple eat.PST	‘Ахмед съел яблоко.’			
+92	Shughni	27	fry	X (fry) Y	жарить	X (жарить) Y	pêxtow	NOM	OBL	TR	TR		Azim=i gūx̌t pêx-t	PN=3SG meat cook-PST	‘Азим пожарил мясо.’			
+92	Shughni	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	nīstow	NOM	PREP.UP	Y	NOM_PREP.UP		Azim pi Lola nūs-č	PN PREP.UP PN sit/wait.M-PF	‘Азим ждал Лолу.’			
+92	Shughni	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	rinīx̌tow	NOM	EL	Y	NOM_EL		Azim=i as wi yiga půnd rinūx̌-t	PN=3SG EL D3.M.SG.OBL another road forget-PST	‘Азим забыл о другой дороге.’			
+92	Shughni	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	wobastā vidow	NOM	EL	Y	NOM_EL	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	Pamyat as vozrast wobastā	memory EL age dependent	‘Память зависит от возраста.’			NV
+92	Shughni	31	call	X (call) Y	звать	X (звать) Y-а	qīwdow	NOM	OBL	TR	TR		Azim=i xu nān qīw-d	PN=3SG REFL mother call-PST	‘Азим позвал свою маму.’			
+92	Shughni	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	balad sitow	NOM	INS	Y	NOM_INS		Ahmed Saida=qati yi sol tar piro balad sut	PN  PN=INS one year EQ ahead familiar become.PST	‘Ахмед познакомился с Саидой год назад.’			CV
+92	Shughni	33	know	X (know) Y	знать	X (знать) Y-а	fāmtow	NOM	OBL	TR	TR		Ahmed Saida fām-t	PN PN know-3SG	‘Ахмед знает Саиду.’			Same verb as in 76, 78.
+92	Shughni	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	niwêzdow	NOM	SUP	Y	NOM_SUP		Ahmed gitar-ti niwoz-d	PN guitar-SUP play-3SG	‘Ахмед играет на гитаре.’			
+92	Shughni	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	zibidow	NOM	EL	Y	NOM_EL		Ahmed as Saida zibīn-t	PN EL PN jump/disappear-3SG	‘Ахмед избегает Саиду.’			
+92	Shughni	36	make	X (make) Y	изготовить	X (изготовить) Y	čīdow	NOM	OBL	TR	TR		Azim=i pūrg-anǰavīǰ=ak xůbaθ čūd	PN=3SG mousetrap=DIM himself do.PST	‘Азим сам изготовил мышеловку.’			Same verb as in 102.
+92	Shughni	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	qīn čīdow	NOM	EL	Y	NOM_EL		Ahmed as Saida qīn kix̌-t	PN EL PN difficult do-3SG	‘Ахмед издевается над Саидой.’			CV
+92	Shughni	38	have	X (have) Y	иметь	X (иметь) Y	vidow	LOC	NOM	X	LOC_NOM	In this example, the verb 'to be' is non-overt.	Ahmed-and mošin	PN-LOC car	‘У Ахмеда (есть) машина.’			
+92	Shughni	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	x̌ikīdow	NOM	OBL	TR	TR		Azim xu wix̌īӡ-en x̌ikīr-t	PN REFL key-PL look.for-3SG	‘Азим ищет ключи.’			
+92	Shughni	40	paint	X (paint) Y	красить	X (красить) Y	rang čīdow	NOM	OBL	TR	TR		Azim=i xu divi rang čūd	PN=3SG REFL door color do.PST	‘Азим покрасил дверь.’			CV
+92	Shughni	41	bite	X (bite) Y	кусать	X (кусать) Y-а	pirentow	NOM	OBL	TR	TR		yu kūd=i wam vorǰ piren-t	D3.M.SG dog=3SG D3.F.SG.OBL horse bite-PST	‘Собака укусила лошадь.’			
+92	Shughni	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	redow	NOM	beOBL	Y	NOM_beOBL		Ahmed be-malā red	PN without-dwelling remain.PST	‘Ахмед лишился дома.’			Same verb as in 61.
+92	Shughni	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	anǰīvdow	NOM	OBL	TR	TR		Ahmed pīš anǰīv-d	PN cat catch-3SG	‘Ахмед ловит кошку.’			Same verb as in 18.
+92	Shughni	44	break	X (break) Y	ломать	X (ломать) Y	virix̌tow	NOM	OBL	TR	TR		Azim=i wi sêx virux̌-t	PN=3SG D3.M.SG.OBL stick break-PST	‘Азим сломал палку.’			
+92	Shughni	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	*	*	*	*		No satisfactory translation has been obtained.						
+92	Shughni	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	žīwǰdow	NOM	OBL	TR	TR		Ahmed=i Saida žīwǰ	PN=3SG PN love	‘Ахмед любит Саиду.’			Same verb as 119.
+92	Shughni	47	wave	X (wave) Y	махать	X (махать) Y-ом	δust weδdow	NOM	INS	Y	NOM_INS		Azim lemol-ak=qati δust weδ-d	PN headscarf-DIM=INS hand put-PST	‘Азим машет платком.’			CV
+92	Shughni	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	*	*	*	*		No satisfactory translation has been obtained.						
+92	Shughni	49	wash	X (wash) Y	мыть	X (мыть) Y	zinêdow	NOM	OBL	TR	TR		Ahmed=i xu čīni zino-d	PN=3SG REFL cup wash-PST	‘Ахмед вымыл чашку.’			
+92	Shughni	50	put_on	X (put_on) Y	надевать	X (надевать) Y	pinīwdow	NOM	OBL	TR	TR		Šamil=i xu laq-en pinūy-d	Shamil=3SG REFL pants-PL put.on-PST	‘Шамиль надел штаны.’			
+92	Shughni	51	be_called	X (be_called) Y	называться	X (называться) Y	nům vidow	*	*	*		Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	ik-di kočor nům kumpas	EM-D2.M.SG.OBL thing name compass	‘Эта вещь называется компас.’			
+92	Shughni	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	kud δêdow1	NOM	OBL	TR	TR		Azim=i xu puc kud δod	PN=3SG REFL son dog give.PST	‘Азим наказал своего сына.’			CV
+92	Shughni	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	firīptow	NOM	OBL	TR	TR		xirs=i wi ribak-ti firīp-t	bear=3SG D3.M.SG.OBL fisherman-SUP reach-PST	‘Медведь напал на рыбака.’			Same verb as in 5, 21.
+92	Shughni	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	pur sitow	NOM	INS	Y	NOM_INS		čalak x̌ac=qati pur sat	pail water=INS much go.PST	‘Ведро наполнилось водой.’			
+92	Shughni	55	find	X (find) Y	находить	X (находить) Y(-а)	virêdow	NOM	OBL	TR	TR		Azim=i čilā virū-d půnd=ti	PN=3SG ring find-PST road=SUP	‘Азим нашел на дороге кольцо.’			
+92	Shughni	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	na-firīptow	LAT	NOM	X	LAT_NOM		Šamil-ard aray somoni=ga na-firop-t	Šamil-LAT 3 somoni=more NEG-reach-3SG	‘Шамилю недостает трех сомони.’			
+92	Shughni	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	bad vidow	LAT	NOM	X	LAT_NOM	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	Šamil-ard Azim dis=ga bad	Šamil-LAT PN such=more bad	‘Шамиль ненавидит Азима.’			
+92	Shughni	58	like	X (like) Y	нравиться	X-у (нравиться) Y	xuš vidow	LAT	NOM	X	LAT_NOM	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	Azim-ard ik-am kurtā xuš	PN-LAT EM-D1.SG shirt pleasant	‘Азиму нравится эта рубашка.’			
+92	Shughni	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	darkor vidow	LAT	NOM	X	LAT_NOM	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	Azim-ard pūl darkor	PN-LAT money needed	‘Азиму нужны деньги.’			
+92	Shughni	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	vidow	NOM	OBLgarginuxa	Y	NOM_OBLgarginuxa	In this example, the verb 'to be' is non-overt.	burǰ-en x̌ār garginūx̌ā	wall-PL city around	‘Стены окружают город.’			
+92	Shughni	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	redow	LOC	NOM	X	LOC_NOM		Azim-ǰā δis som=ga red	PN-LOC 10 somoni=more remain.PST	‘У Азима осталось еще 10 сомони.’			Same verb as in 42.
+92	Shughni	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	ǰawob δêdow1	NOM	LAT	Y	NOM_LAT		Azim=i molim-ard ǰawob δod	PN=3SG teacher-LAT answer give.PST	‘Азим ответил учителю.’			CV
+92	Shughni	63	open	X (open) Y	открывать	X (открывать) Y	yet čīdow	NOM	OBL	TR	TR		Azim=i banka yet čūd	PN=3SG jar open do.PST	‘Азим открыл банку.’			CV
+92	Shughni	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	farq vidow	NOM	EL	Y	NOM_EL	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	mu kurtā as tu kurtā farq	1SG.OBL shirt EL 2SG shirt difference	‘Моя рубашка отличается от твоей.’			
+92	Shughni	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	zibo δêdow2	NOM	EL	Y	NOM_EL		Azim as Lola zibo δod	PN EL PN behind fall.PST	‘Азим отстал от Лолы.’			
+92	Shughni	66	plough	X (plough) Y	пахать	X (пахать) Y	čīntow	NOM	OBL	TR	TR		Azim agorod čůn-t	PN garden dig-3SG	‘Азим копает огород.’			
+92	Shughni	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	bůy δêdow2	*	*	*		Not included in the database because Y is expressed as an NP-internal modifier.	wi δust-en benzin bůy δiy-en	D3.M.SG.OBL hand-PL oil smell fall-3PL	‘Мои руки пахнут бензином.’			
+92	Shughni	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу)	naɣ̌ǰīdow	NOM	EL	Y	NOM_EL		Azim as půnd naɣ̌ǰī-d	PN EL road pass-PST	‘Азим пересек дорогу.’			
+92	Shughni	69	sing	X (sing) Y	петь	X (петь) Y	lůdow	NOM	OBL	TR	TR		Lola=yi xušrūy soz lůd	PN=3SG beautiful song sing.PST	‘Лола спела красивую песню.’			
+92	Shughni	70	write	X (write) Y	писать	X (писать) Y	nivištow	NOM	OBL	TR	TR		Lola=yi xāt niviš-t	PN=3SG letter write-PST	‘Лола написала письмо.’			
+92	Shughni	71	drink	X (drink) Y	пить	X (пить) Y	birêx̌tow	NOM	OBL	TR	TR		Lola=yi x̌ūvd birox̌-t	PN=3SG milk drink-PST	‘Лола выпила молоко.’			
+92	Shughni	72	melt	X (melt) Y	плавить	X (плавить) Y	ob čīdow	NOM	OBL	TR	TR		Azim=i tillo kande ob čūd	PN=3SG gold piece water do.PST	‘Азим расплавил кусок золота.’			CV
+92	Shughni	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	ǰūr yatow	NOM	INS	Y	NOM_INS		Ik-am tasma mu kurtā=qati ǰūr yoδ-d	EM-D1.SG belt 1SG.OBL dress=INS pair come-3SG	‘Этот пояс подходит к моему платью.’			CV
+92	Shughni	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	tark čīdow	NOM	OBL	TR	TR		Azim=i xu x̌ār tark čūd	PN=3SG REFL city leave do.PST	‘Азим покинул свой город.’			CV
+92	Shughni	75	cover	X (cover) Y	покрывать	X (покрывать) Y	čust čīdow	NOM	OBL	TR	TR		pilês fuk pol čust kix̌-t	carpet all floor closed do-3SG	‘Ковер покрывает весь пол.’			CV
+92	Shughni	76	remember	X (remember) Y	помнить	X (помнить) Y-а	fāmtow	NOM	OBL	TR	TR		Saida di čīd xipaδ fam-t	PN D2.M.SG.OBL house well know-3SG	‘Саида хорошо помнит дом.’			Same verb as in 33, 78.
+92	Shughni	77	help	X (help) Y	помочь	X (помогать) Y-у	yordam čīdow	NOM	LAT	Y	NOM_LAT		Šamil=i Lola-yard yordam čūd	Shamil=3SG PN-LAT help do.PST	‘Шамиль помог Лоле.’			CV
+92	Shughni	78	understand	X (understand) Y	понимать	X (понимать) Y	fāmtow	NOM	OBL	TR	TR		Saida xuɣ̌nůni fam-t	PN Shughni know-3SG	‘Саида понимает шугнанский язык.’			Same verb as in 33, 76.
+92	Shughni	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	δêdow1	NOM	OBL	TR	TR		otex̌ak=ta čīd δod	lightning=EM house give.PST	‘Молния попала в дом.’			Same verb as 106.
+92	Shughni	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	xu zaxmi čīdow	NOM	INS	Y	NOM_INS		Azim=i xu têɣ-ak=qati zaxmi čūd	PN=3SG REFL razor-DIM=INS injured do.PST	‘Азим порезался бритвой.’			CV
+92	Shughni	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	xax̌ sitow	NOM	SUP	Y	NOM_SUP		stakan stol-ti xax̌ sut	glass table-SUP hard go.PST	‘Стакан прилип к столу.’			CV
+92	Shughni	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	na-yêdow	NOM	EL	Y	NOM_EL		Šamil=i as Azima na-yo-d	PN=3SG EL PN NEG-win-PST	‘Шамиль проиграл Азиму.’			
+92	Shughni	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	xuš sitow	NOM	EQ	Y	NOM_EQ		Azim tar wi xāt xuš sut	PN EQ D3.M.SG.OBL letter happy go.PST	‘Азим обрадовался письму.’			CV
+92	Shughni	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	naqli čīdow	NOM	INS	Y	NOM_INS		Azim Lola=qati naqli kix̌-t	PN PN=INS conversation do-3SG	‘Азим разговаривает с Лолой.’			CV
+92	Shughni	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	vīdow	NOM	OBL	TR	TR		Lola=yi puc vū-d	PN=3SG son bring-PST	‘Лола родила сына.’			
+92	Shughni	86	drop	X (drop) Y	ронять	X (ронять) Y	pitêwdow	NOM	OBL	TR	TR		Azim=i čaška pitêw-d	PN=3SG cup drop-PST	‘Азим уронил чашку.’			
+92	Shughni	87	govern	X (govern) Y	руководить	X (руководить) Y	čīx̌tow	NOM	OBL	TR	TR		Azim māš x̌ār čos-t	PN 1PL city look-3SG	‘Азим руководит нашим городом.’			Same verb as in 95.
+92	Shughni	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	dargil sitow	NOM	SUP	Y	NOM_SUP		Azim Lola-ti dargīl suδǰ	PN PN-SUP sad go.PF.M	‘Азим скучает по Лоле.’			CV
+92	Shughni	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	tīdow	NOM	OBLdamti	Y	NOM_OBLdamti		Azim Lola dām-ti tīz-d	PN PN back-SUP go-3SG	‘Азим следует за Лолой.’			
+92	Shughni	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	x̌āvdow	NOM	EL-SUP	Y	NOM_EL-SUP		Azim as vorǰ-ti xāv-d	PN EL horse-SUP descend-PST	‘Азим слез с лошади.’			
+92	Shughni	91	listen	X (listen) to Y	слушать	X (слушать) Y	niɣix̌tow	NOM	OBL	TR	TR		Lola radio niɣůɣ̌-d	PN radio listen-3SG	‘Лола слушает радио.’			Same verb as in 92.
+92	Shughni	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	niɣix̌tow	NOM	OBL	TR	TR		Lola xu nān niɣůɣ̌-d	PN REFL mother listen-3SG	‘Лола слушается свою маму.’			Same verb as in 91.
+92	Shughni	93	hear	X (hear) Y	слышать	X (слышать) Y	x̌īdow	NOM	OBL	TR	TR		Azim soz x̌īn-t	PN song hear-3SG	‘Азим слышит песню.’			
+92	Shughni	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	alalaš sitow	NOM	INS	Y	NOM_INS		Asal x̌uvd=qati alalaš sut	honey milk=INS mix go.PST	‘Мед смешался с молоком.’			CV
+92	Shughni	95	look	X (look) at Y	смотреть	X (смотреть) на Y	čīx̌tow	NOM	EQ	Y	NOM_EQ		Azim tar abri-yen čos-t	PN EQ cloud-PL look-3SG	‘Азим смотрит на тучи.’			Same verb as in 87.
+92	Shughni	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	weδdow	NOM	OBL	TR	TR		Azim xu kurtā weδ-d	PN REFL shirt take_off-PST	‘Азим снял рубашку.’			
+92	Shughni	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	xūδm-and wīntow	NOM	OBL	TR	TR		Azim Lola xu xūδm-and wīn-t	PN PN REFL dream-LOC see-3SG	‘Азиму снится Лола.’			CV
+92	Shughni	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	rozi sitow	NOM	INS	Y	NOM_INS		Ahmed Saida=qati rozi sut	PN PN=INS contented become.PST	‘Ахмед согласился с Саидой.’			CV
+92	Shughni	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	δêd sitow	NOM	INS	Y	NOM_INS		Naǰiba Safina=qati δêd sat	PN PN=INS quarrel become.F.PST	‘Наджиба поссорилась с Саидой.’			CV
+92	Shughni	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	vidow	*	*	*		Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	yid garδā 3 som	D2.SG bread 3 somoni	‘Этот хлеб стоит три сомони.’			
+92	Shughni	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	poθ weδdow	NOM	SUP	Y	NOM_SUP		Šamil=i wam wiδič-ti poθ weδd at yā wam-ti na-angixt	Šamil=3SG D3.F.SG.OBL bird-SUP shooting put.PST ADD D3.F.SG D3.F.SG.OBL-SUP NEG-hit.PST	‘Шамиль выстрелил (пустил пулю) в птицу, но она (пуля) в нее не попала.’			CV
+92	Shughni	102	pour	X (pour) Y	сыпать	X (сыпать) Y	čīdow	NOM	OBL	TR	TR		Šamil=i qand ar xu čīni čūd	Šamil=3SG sugar PREP.DOWN REFL cup do.PST	‘Шамиль насыпал сахар в чашку.’			Same verb as in 36.
+92	Shughni	103	lose	X (lose) Y	терять	X (терять) Y	binêstow	NOM	OBL	TR	TR		yu=yi xu wix̌īӡ-en binêst	D3.M.SG=3SG REFL key-PL lose.PST	‘Он потерял ключи.’			
+92	Shughni	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	ɣůt nestow	NOM	PREP.DOWN	Y	NOM_PREP.DOWN		yu δorg ar x̌ac ɣůt nūst	D3.M.SG stick PREP.DOWN water diving sit.PST	‘Полено утонуло в воде.’			CV
+92	Shughni	105	kill	X (kill) Y	убивать	X (убивать) Y-а	zīdow	NOM	OBL	TR	TR		Šamil=i Azim zīd	PN=3SG PN kill.PST	‘Шамиль убил Азима.’			
+92	Shughni	106	hit	X (hit) Y	ударить	X (ударять) Y-а	δêdow1	NOM	OBL	TR	TR		Šamil=i Azim δod	PN=3SG PN give.PST	‘Шамиль ударил Азима.’			Same verb as 79.
+92	Shughni	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	bā čīdow	NOM	OBL	TR	TR		Ahmed=i Saida bā ču	PN=3SG PN kiss do.PST	‘Ахмед поцеловал Саиду.’			CV
+92	Shughni	108	read	X (read) Y	читать	X (читать) Y-а	x̌êydow	NOM	OBL	TR	TR		Karamšo=yi aǰoyīb kitob x̌êyd	PN=3SG interesting book read.PST	‘Карамшо прочитал интересную книгу.’			
+92	Shughni	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	ǰumbentow	NOM	OBL	TR	TR		Šamil=i xu angix̌t ǰumbent	PN=3SG REFL finger move.PST	‘Шамиль пошевелил пальцем.’			
+92	Shughni	110	respect	X (respect) Y	уважать	X (уважать) Y-а	urmat čīdow	NOM	OBL	TR	TR		Šamil Azim urmat kix̌-t	PN PN respect do-3SG	‘Шамиль уважает Азима.’			CV
+92	Shughni	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*	*	*		No satisfactory translation has been obtained.						
+92	Shughni	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	rozi vidow	NOM	EL	Y	NOM_EL	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	Ahmed as xu puc rozi	PN EL REFL son contented	‘Ахмед доволен сыном.’			CV
+92	Shughni	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	sitow	NOM	SUP	Y	NOM_SUP		Ahmed Saida-ti ošiq suδ-ǰ	PN PN-SUP loving become.M-PF	‘Ахмед влюбился в Саиду.’			
+92	Shughni	114	trust	X (trust) Y	доверять	X (доверять) Y-у	bowar δêdow1	NOM	LAT	Y	NOM_LAT		Ahmed Saida-ra bowari δī-d	PN PN-LAT trust give-3SG	‘Ахмед доверяет Саиде.’			CV. Same verb as in 7.
+92	Shughni	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	rām čīdow	LAT	EL	XY	LAT_EL		Azim-ard as wi nān rām kix̌-t	PN-LAT EL D3.M.SG.OBL mother pity do-3SG	‘Азим жалеет свою мать.’			CV
+92	Shughni	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	qayti čīdow	NOM	INS	Y	NOM_INS		Naǰiba Safina=qati qayti kix̌-t	PN PN=INS envy do-3SG	‘Наджиба завидует Сафине.’			CV
+92	Shughni	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	qār sifentow	NOM	INS	Y	NOM_INS		Karamšo qār Dovlatšo=qati sifīδ-ǰ	PN anger PN=INS rise-PF	‘Карамшо разозлился на Довлатшо.’			CV
+92	Shughni	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	ayrůn rêdow	NOM	INS	Y	NOM_INS		Azim wi padarka=qati ayrůn red	PN D3.M.SG.OBL gift=INS surprised remain.PST	‘Азим удивился подарку.’			CV
+92	Shughni	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	žīwǰdow	NOM	OBL	TR	TR		Azim=i čoy žīwǰ	PN=3SG tea love	‘Азим любит чай.’			Same verb as 46.
+92	Shughni	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	ayš čīdow	NOM	SUP	Y	NOM_SUP		mu  tāt=i kaš čoy-ti ayš čūd	1SG.OBL father=3SG hot tea-SUP pleasure do.PST	‘Мой отец наслаждается горячим чаем.’			CV
+92	Shughni	121	want	X (want) Y	хотеть	X (хотеть) Y-а	fortow	LAT	NOM	X	LAT_NOM		Ahmed-ard naw telefun for-t	PN-LAT new phone want-3SG	‘Ахмед хочет новый телефон.’			
+92	Shughni	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	dar-qār δêdow2	NOM	EQ	Y	NOM_EQ		Šamil tar Lola dar-qār δod	PN EQ PN angry fall.PST	‘Шамиль сердится на Лолу.’			CV
+92	Shughni	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	malol vidow	NOM	INS	Y	NOM_INS	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	Nizora Safina=qati malol	PN PN=INS offended	‘Низора обиделась на Сафину.’			
+92	Shughni	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	xafā čīdow	NOM	OBL	TR	TR		Towus=i xu amsoya xafā čūd	PN=3SG REFL neighbour upset do.PST	‘Товус огорчила соседку.’			CV. Same verb as in 127.
+92	Shughni	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	*	*	*	*		No satisfactory translation has been obtained.						
+92	Shughni	126	despise	X (despise) Y	презирать	X (презирать) Y-а	*	*	*	*		No satisfactory translation has been obtained.						
+92	Shughni	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	xafā čīdow	NOM	INS	Y	NOM_INS		Šamil xu puc=qati xafā čūd	PN REFL son=INS upset do.PST	‘Шамиль огорчился из-за своего сына.’			CV. Same verb as in 124.
+92	Shughni	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	*	*	*	*		No satisfactory translation has been obtained.						
+92	Shughni	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*		No satisfactory translation has been obtained.						
+92	Shughni	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	x̌armindā sitow	NOM	EL	Y	NOM_EL		Dovlatšo as xu qad x̌armindā sů-d	PN EL REFL height embarrassed become-3SG	‘Довлатшо стесняется своего роста.’			CV
