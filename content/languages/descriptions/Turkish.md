@@ -7,7 +7,7 @@ The data were gathered in {{ data_collection_year }} in St. Petersburg, Russia, 
 
 
 ## How to cite
-> Ovsjannikova, Maria. {{ last_database_release_year }}. Bivalent patterns in {{ language_external}}. 
+> Ovsjannikova, Maria. 2020. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
