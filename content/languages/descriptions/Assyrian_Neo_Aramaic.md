@@ -6,7 +6,7 @@ Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.
 The data were gathered in {{ data_collection_year }} in Urmiya, Krasnodar Krai, Russia. The Russian version of the questionnaire was used for elicitation. Data collection was supported by a grant from the Russian Foundation for Basic Research: “Documentation of Northeastern Neo-Aramaic spoken in Russia”, grant No. 20-012-00312.
 
 ## How to cite
-> Say, Sergey. {{ last_database_release_year }}. Bivalent patterns in {{ language_external}}. 
+> Say, Sergey. 2020. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
