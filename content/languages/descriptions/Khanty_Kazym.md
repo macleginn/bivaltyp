@@ -7,7 +7,7 @@ Contributed by [Daria Ryzhova](https://www.hse.ru/en/org/persons/65846678)
 The data were gathered in 2021 in Kazym, Khanty-Mansi Autonomous Okrug–Yugra, Russia and supplemented with the data from the Kazym dialect segment of the Khanty texts corpus (prepared by E. Kashkin within the program of the presidium of the Russian Academy of Sciences “Corpus Linguistics” in 2012–2014). The Russian version of the questionnaire was used for elicitation. Data collection was supported by a grant from the Russian Science Foundation: “Argument structure, voice and valency-changing derivations in the languages of Western Siberia”, grant No. 19-78-10139. We also thank Nikita Muraviev and Anna Melnik for their assistance in data collection.
 
 ## How to cite
-> Ryzhova, Daria. {{ last_database_release_year }}. Bivalent patterns in {{ language_external}}. 
+> Ryzhova, Daria. 2021. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
