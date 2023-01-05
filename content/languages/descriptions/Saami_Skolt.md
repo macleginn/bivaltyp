@@ -7,7 +7,7 @@ Contributed by [Alena Blinova](https://www.linkedin.com/in/alena-blinova-08aa8b2
 The data were obtained in {{ data_collection_year }} from a 80-year-old speaker from Sevettijärvi (Inari, Finland) with kind assistance of [Tim Feist](https://surrey.academia.edu/TimothyFeist). The English version of the questionnaire was used for elicitation.
 
 ## How to cite
-> Shagal, Ksenia & Alena Blinova. {{ last_database_release_year }}. Bivalent patterns in {{ language_external}}. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St. Petersburg: Institute for Linguistic Studies, RAS. (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
+> Shagal, Ksenia & Alena Blinova. 2020. Bivalent patterns in {{ language_external}}. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St. Petersburg: Institute for Linguistic Studies, RAS. (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
