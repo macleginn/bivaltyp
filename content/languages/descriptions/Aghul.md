@@ -7,7 +7,7 @@ Contributed by [Timur Maisak](https://iling-ran.ru/web/ru/scholars/maisak) ([Aca
 Solmaz Merdanova provided the data in {{ data_collection_year }} in the capacity of a native speaker of the Huppuq’ (Khpyuk) dialect of {{ language_external }}. The Russian version of the questionnaire was used for elicitation. 
 
 ## How to cite
-> Maisak, Timur & Solmaz Merdanova. {{ last_database_release_year }}. Bivalent patterns in {{ language_external }}. 
+> Maisak, Timur & Solmaz Merdanova. 2020. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
