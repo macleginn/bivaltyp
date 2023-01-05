@@ -6,7 +6,7 @@ Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.
 Sergey Say provided the data in {{ data_collection_year }} in the capacity of a native speaker of {{ language_external }}.  
 
 ## How to cite
-> Say, Sergey. {{ last_database_release_year }}. Bivalent patterns in {{ language_external }}. 
+> Say, Sergey. 2020. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
