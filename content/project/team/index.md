@@ -62,6 +62,7 @@ Mislav Benić: {{ language:Croatian }}
 Sandra Birzer: {{ language:German }}  
 Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}  
 Nadezhda Bulatova: {{ language:Evenki }}  
+Daria Chistiakova, Daria Ryzhova: {{ language:Shughni }}
 Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, {{ language:Soninke }}  
 Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul }}  
 Varvara Diveeva: {{ language:Albanian }}  
@@ -107,7 +108,7 @@ Inna Popova: {{ language:Latin }}
 Maria Pupynina: {{ language:Chukchi }}  
 Neige Rochant: {{ language:Andi_Zilo }}  
 Alexander Rostovtsev-Popiel: {{ language:Georgian }}  
-Daria Ryzhova: {{ language:Khanty_Kazym }}, {{ language:Shughni }}  
+Daria Ryzhova: {{ language:Khanty_Kazym }}  
 Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}  
 Ekaterina Sergeeva: {{ language:Komi_Zyrian }}  
 Ekaterina Sergeeva, Galina Nekrasova: {{ language:Komi_Permyak }}  
