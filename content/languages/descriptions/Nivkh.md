@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Anastasia Panova](https://www.su.se/english/profiles/anpa7559-1.623680) ([Academia.edu profile](https://su-se.academia.edu/AnastasiaPanova)))
+Contributed by [Anastasia Panova](https://www.su.se/english/profiles/anpa7559-1.623680) ([Academia.edu profile](https://su-se.academia.edu/AnastasiaPanova))
 
 ![A.P.'s photo]({{ site_url_j }}/images/Panova.jpg "A.P.'s photo")
 

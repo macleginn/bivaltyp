@@ -6,7 +6,7 @@ Contributed by [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([A
 ![D.R.'s photo]({{ site_url_j }}/images/Ryzhova.jpg "N.R.'s photo")
 
 ## How to cite
-> Ryzhova, Daria. 2023. Bivalent patterns in {{ language_external}}. 
+> Chistiakova, Daria & Daria Ryzhova. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
