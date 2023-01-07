@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-rsync -r ../public/ eurphon@eurphon:/var/www/static/bivaltyp
+rsync --progress -r ../public/ eurphon@eurphon.info:/var/www/static/bivaltyp
