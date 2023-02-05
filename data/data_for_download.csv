@@ -2209,136 +2209,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 45	128	ajaktači-	NOM	DIR	Y	NOM_DIR	Petia əktə piktə-či-i ajakta-či-ni	PN woman child-DIR-P.REFL.SG anger-IPFV.NPST-P.3SG	‘Petia is getting irritated with his daughter.’		PN женщина ребёнок-DIR-P.REFL.SG злость-IPFV.NPST-P.3SG	‘Петя раздражается на свою дочь.’		
 45	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 45	130	elaǯi-	NOM	INS	Y	NOM_INS	Petia mənə gogda-ǯi-i elaǯi-ni	PN REFL high-INS-P.REFL.SG be_shy.NPST-P.3SG	‘Petia is embarrased about his height.’		PN REFL высокий-INS-P.REFL.SG стесняться.NPST-P.3SG	‘Петя стесняется своего роста.’		
-91	1		LOC/ABL	SBJ	X	LOC/ABL_SBJ	Largun-ux coŋr̥ qо-d	PN-LOC/ABL голова болеть-IND	‘У Ларгуна болит голова.’					Ларгунух тёӈр̆ ӄод
-91	2		SBJ	INS	Y	SBJ_INS	Largun gripp-ɣir̥ qо-d	PN грипп-INS болеть-IND	‘Ларгун болеет гриппом.’					Ларгун гриппғир̆ ӄод
-91	3		SBJ	DO	TR	TR	Irgun qanŋ + xlu-d	PN собака + бояться-IND	‘Иргун боится собаки.’					Иргун ӄанӈ хлуд
-91	4		SBJ	DO	TR	TR	Kaskazik kоqvеlq paz-d	PN ракушка бросать-IND	‘Касказик бросил ракушку.’					Касказик коӄвелӄ пазд
-91	5	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	6		SBJ	DO	TR	TR	Kaskazik Largun + bоci-d	PN PN + быть_похожим-IND	‘Касказик похож на Ларгуна.’					Касказик Ларгун ботид
-91	7	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	8		SBJ	DO	TR	TR	Kaskazik pitɣəŋ ɣе-d	PN книга брать-IND	‘Касказик взял книгу.’					Касказик питғыӈ ғед
-91	9		SBJ	DO	TR	TR	Kaskazik taf idə-d	PN дом видеть-IND	‘Касказик видит дом.’					Касказик таф идыд
-91	10	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	11		SBJ	DO	TR	TR	Kaskazik Ajsana + оr-d	PN PN + встретить-IND	‘Касказик встретился с Айсаной.’					Касказик Айсана орд
-91	12		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik taf-tоχ j-uɣ-d	PN дом-DAT/ADD 3SG-входить-IND	‘Касказик вошел в дом.’					Касказик тафтоӽ юғд
-91	13		SBJ	COMP	Y	SBJ_COMP	Kaskazik Ajsana-ak kʰə-d	PN PN-COMP быть_умелым-IND	‘Касказик выиграл у Айсаны.’					Касказик Айсанаак  к’ыд
-91	14		SBJ	LOC/ABL	Y	SBJ_LOC/ABL	Kaskazik tav-ux pʰu-d	PN дом-LOC/ABL выходить-IND	‘Касказик вышел из дома.’					Касказик тавух п’уд
-91	15	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	16	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	17		SBJ	DO	TR	TR	Kaskazik Ajsana + xеr-d  ɲе-rχ   pʰr̥ə-r̥    cʰma-ja	PN PN + говорить-IND 1SG-DAT/ADD приходить-CVB_NAR ходить_в_гости-IMP.2SG	‘Касказик сказал Айсане: “Приходи ко мне в гости”.’					Касказик Айсана херд: “Нерӽ п’р̆ыр̆ чмая”.
-91	18		SBJ	DO	TR	TR	Kaskazik pitɣəŋ e-v-d	PN книга 3SG-держать-IND	‘Касказик держит книгу (в руках).’					Касказик питғыӈ эвд
-91	19	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	20	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	21	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	22		SBJ	DO	TR	TR	Kaskazik patigur̥ stеnka tamk-ɣir̥ vо-d	PN тихо стенка рука-INS держать-IND	‘Касказик дотронулся до стены.’					Касказик патигур̆ стенка тамкғир̆ вод
-91	23		SBJ	COM	Y	SBJ_COM	Kaskazik Irgun-ɣin va-d	PN PN-COM.SG драться-IND	‘Касказик дерётся с Иргуном.’					Касказик Иргунғин вад
-91	24		SBJ	COM	Y	SBJ_COM	Kaskazik Largun-ɣin ŋafq + mu-d	PN PN-COM.SG друг + становиться-IND	‘Касказик дружит с Ларгуном.’					Касказик Ларгунғин ӈафӄ муд
-91	25		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ kʰəmlə-d	PN PN-DAT/ADD думать-IND	‘Касказик думает об Айсане.’					Касказик Айсанароӽ / Айсана к’ымлыд
-91	26		SBJ	DO	TR	TR	Kaskazik alr̥ + ɲi-d	PN ягода + есть-IND	‘Касказик съел ягоду.’					Касказик алр̆ нид
-91	27		SBJ	DO	TR	TR	Kaskazik cʰо + r̥ad	PN рыба + жарить-IND	‘Касказик пожарил рыбу.’					Касказик чо р̆ад
-91	28		SBJ	DO	TR	TR	Kaskazik Ajsana + ŋarmə-d	PN PN + ждать-IND	‘Касказик ждёт Айсану.’					Касказик Айсана ӈармыд
-91	29		SBJ	DO	TR	TR	Kaskazik hu cif-kir̥  tχar̥pə-d	PN CLOSE.DEM дорога-INS забывать-IND	‘Касказик забыл о другой дороге.’					Касказик ӿу тифкир̆ тӽар̆пыд
-91	30	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	31		SBJ	DO	TR	TR	Kaskazik Ajsana + azd	PN PN + звать-IND	Касказик позвал Айсану.					Касказик Айсана азд
-91	32	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	33		SBJ	DO	TR	TR	Kaskazik Ajsana j-ajm-d	Касаказик PN 3SG-знать-IND	‘Касказик знает Айсану.’					Касказик Айсана яймд
-91	34		SBJ	INS	Y	SBJ_INS	Kaskazik gitara-ɣir̥ sеw-d	PN гитара-INS играть-IND	‘Касказик играет на гитаре. ’					Касказик гитарағир̆  сеўд
-91	35	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	36		SBJ	DO	TR	TR	Kaskazik bоmba + nə-d	PN бомба + делать-IND	‘Касказик изготовил (сделал) бомбу.’					Касказик бомба ныд
-91	37	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	38		SBJ	DO	TR	TR	Kaskazik tʰu + iv-d	PN нарта + иметь-IND	‘У Касказика есть машина.’					Касказик т’у ивд
-91	39		SBJ	DO	TR	TR	Kaskazik pitɣəŋ + ŋanɣ-t	PN книга + искать-IND	‘Касказик ищет книгу.’					Касказик питғыӈ ӈанғт
-91	40		SBJ	DO	TR	TR	Kaskazik vazr̥ j-ivu-d	PN забор 3SG-красить-IND	‘Касказик покрасил забор.’					Касказик вазр̆ йивуд
-91	41		SBJ	DO	TR	TR	qanŋ Kaskazik + ruk-t	собака PN + кусать-IND	‘Собака укусила Касказика.’					Ӄанӈ Касказик рукт
-91	42		SBJ	DO	TR	TR	Kaskazik taf + pəkz-d	PN дом + терять-IND	‘Касказик лишился дома.’					Касказик таф пыкзд
-91	43		SBJ	DO	TR	TR	Kaskazik kəsk pоjm-d	PN кошка ловить-IND	‘Касказик ловит кошку.’					Касказик кыск поймд
-91	44		SBJ	DO	TR	TR	Kaskazik cʰχar̥ zоsq-t	PN дерево ломать-IND	‘Касказик сломал палку.’					Касказик чӽар̆ зосӄт
-91	45	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	46		SBJ	DO	TR	TR	Kaskazik Ajsana + maʁo-d	PN PN + любить-IND	‘Касказик любит Айсану.’					Касказик Айсана маӻод
-91	47	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	48		*	*	*		Kaskazik cʰir + tʰu kʰəmlə-d	PN новый + нарта думать-IND	‘Касказик мечтает о новой машине.’	Not included in the database because this translation is semantically inaccurate.				Касказик чир т’у к’ымлыд
-91	49		SBJ	DO	TR	TR	Kaskazik ŋirŋ+ɟu-d	PN чашка+мыть-IND	‘Касказик вымыл чашку.’					Касказик ӈирӈ дюд
-91	50		SBJ	DO	TR	TR	Kaskazik var̥ xiz-d	PN штаны надевать-IND	‘Касказик надел штаны.’					Касказик вар̆  хизд
-91	51		SBJ	DO	TR	TR	tu + prеdmеt kоmpas χaw-d	prox.dem + предмет компас называть-IND	‘Этот предмет называется компас.’ 					Ту предмет компас ӽаўд
-91	52	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	53		SBJ	DO	TR	TR	cʰxəf cʰо-ŋanʁ-nivŋ vоlu-d	медведь рыба-искать-человек повалить-IND	‘Медведь напал на рыбака.’					Чхыф чоӈанӻнивӈ волуд
-91	54		SBJ	INS	Y	SBJ_INS	sindux cʰaχ-kir̥ saru-d	бочка вода-INS наполнять-IND	‘Бочка наполнилась водой.’					Синдух чаӽкир̆ саруд
-91	55		SBJ	DO	TR	TR	Kaskazik pitɣəŋ idə-d	PN книга находить-IND	‘Касказик нашел книгу.’					Касказик питғыӈ идыд
-91	56	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	57		SBJ	DO	TR	TR	Kaskazik Ajsana + raɣraɣ-d	PN PN + ненавидеть-IND	‘Касказик ненавидит Айсану.’					Касказик Айсана рағрағд / ӈалзайд
-91	58		SBJ	DO	TR	TR	Kaskazik tu + lar̥q + maʁo-d	PN DEM.PROX + рубашка + любить-IND	‘Касказику нравится эта рубашка.’					Касказик ту лар̆ ӄ маӻод
-91	59		*	*	*		Kaskazik cʰχa-ɣir̥ cʰiŋr-d	PN деньги-INS мучиться-IND	‘Касказик нуждается в деньгах.’	Not included in the database because this translation is semantically inaccurate.				Касказик чӽағир̆ чиӈрд
-91	60	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	61	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	62		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik raw-r̥aŋɢ-rоχ it-t	PN учить-женщина-DAT/ADD говорить-IND	‘Касказик ответил учителю.’					Касказик раўр̆аӈӷроӽ итт
-91	63		SBJ	DO	TR	TR	Kaskazik qalŋ + r̥əlɣ-d	PN банка + открывать-IND	‘Касказик открыл банку.’					Касказик ӄалӈ р̆ылғд
-91	64	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	65		SBJ	DO	TR	TR	Kaskazik Ajsana + ari-d	PN PN + отставать-IND	‘Касказик отстал от Айсаны.’					Касказик Айсана арид
-91	66	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	67		SBJ	INS	Y	SBJ_INS	ɲ-ramk-ɣun bеnzin-ɣir̥ nоʁ-d	1SG.POS-рука-PL бензин-INS пахнуть-IND	‘Мои руки пахнут бензином.’					Нь рамкғун бензинғир̆ ноӻд 
-91	68	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	69		SBJ	DO	TR	TR	Kaskazik pоcurla + lu + lu-d	PN красивый + песня + петь-IND	‘Касказик спел красивую песню.’					Касказик потюрла лу луд
-91	70		SBJ	DO	TR	TR	Kaskazik pitɣəŋ raju-d	PN письмо писать-IND	Касказик написал письмо.					Касказик питғыӈ раюд
-91	71		SBJ	DO	TR	TR	Kaskazik mоlоkо + ra-d	PN молоко + пить-IND	‘Касказик выпил молоко.’					Касказик молоко рад
-91	72	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	73		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	tu + viɣvur̥ ɲ-lar̥q-rоχ nama-d	DEM.PROX + пояс 1SG.POS-платье-DAT/ADD быть_хорошим-IND	‘Этот пояс подходит к моему платью.’					Ту виғвур̆ нь лар̆ӄроӽ намад
-91	74		SBJ	DO	TR	TR	Kaskazik pʰ-vо + pəkz-d	PN RFL-село + терять-IND	‘Касказик покинул родной город.’					Касказик п’во пыкзд
-91	75		*	*	*		tʰu tʰlaŋi + ŋamaɟ-ɣir̥ lac-t-ɣun	нарта олень + шкура-INS подстилать-IND-PL	‘Нарту оленьими шкурами покрыли.’	Not included in the database because this translation is semantically inaccurate.				Т’у т’лаӈи ӈамадьғир̆ латьтғун
-91	76		SBJ	DO	TR	TR	Kaskazik ur-gur̥ pʰ-raf + hujvu-d	PN хорошо-ADV:3SG RFL-дом + помнить-IND	‘Касказик хорошо помнит дом.’					Касказик ургур̆  п’раф ӿуйвуд
-91	77		SBJ	DO	TR	TR	Kaskazik Ajsana + rо-d	PN PN + помогать-IND	‘Касказик помог Айсане.’					Касказик Айсана род
-91	78		SBJ	DO	TR	TR	Kaskazik lоci + duf j-ajm-d	PN русский + язык 3SG-понимать-IND 	‘Касказик понимает русский язык.’					Касказик лоти дуф яймд
-91	79		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	var̥par-d taf-tоχ  j-uɣ-d	сверкать-NML дом-DAT/ADD 3SG-войти-IND	‘Молния попала в дом.’					Вар̆пард тафтоӽ юғд
-91	80		SBJ	INS	Y	SBJ_INS	Kaskazik caqо-ɣir̥ pʰ-aq-t	PN нож-INS RFL-резать-IND	‘Касказик порезался ножом.’					Касказик тяӄоғир̆  п’аӄт
-91	81		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	stakan оstоl-rоχ kеtv-d	стакан стол-DAT/ADD прилипать-IND	‘Стакан прилип к столу.’					Стакан остолроӽ кетвд
-91	82	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	83		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik pitɣəŋ-dоχ e­zmu-d	PN письмо-DAT/ADD 3SG­любить-IND	‘Касказик обрадовался письму.’					Касказик питғыӈдоӽ эсмуд
-91	84		SBJ	COM	Y	SBJ_COM	Kaskazik Ajsana-ɣin qlaj-d	PN PN-COM.SG разговаривать-IND	‘Касказик разговаривает с Айсаной.’					Касказик Айсанағин ӄлайд
-91	85		SBJ	DO	TR	TR	Ajsana azməc + eʁlŋ pan-d	PN мужчина + ребёнок родить-IND	‘Айсана родила сына.’					Айсана азмыть эӻлӈ панд
-91	86		SBJ	DO	TR	TR	Kaskazik stakan ɣuсi-t	PN стакан ронять-IND	‘Касказик уронил стакан.’					Касказик стакан ғутит
-91	87		SBJ	LOC/ABL	Y	SBJ_LOC/ABL	Kaskazik mеn + vо-ux əzŋ + mu-d	PN 1PL.INCL + село-LOC/ABL хозяин + становиться-IND	‘Касказик руководит нашим поселком.’					Касказик мен воух ызн муд
-91	88		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ ŋawzоr̥k-t	PN PN-DAT/ADD скучать-IND	‘Касказик скучает по Айсане.’					Касказик Айсанароӽ ӈаўзор̆кт
-91	89		SBJ	DO	TR	TR	Kaskazik Ajsana + ari-d	PN PN + отставать-IND	‘Касказик следует за Айсаной.’					Касказик Айсана арид
-91	90		SBJ	LOC/ABL	Y	SBJ_LOC/ABL	Kaskazik murŋ-ux caqr-d	PN лошадь-LOC/ABL прыгать-IND	‘Касказик слез с лошади.’					Касказик мурӈух тяӄрд
-91	91		SBJ	DO	TR	TR	Kaskazik radiо + mə-d	PN радио + слушать-IND	‘Касказик слушает радио.’					Касказик радио мыд
-91	92		SBJ	DO	TR	TR	Ajsana əmk + mə-d	PN мать + слушать-IND	‘Айсана слушается маму.’					Айсана ымк мыд
-91	93		SBJ	DO	TR	TR	Kaskazik lu + mə-d	PN песня + слушать-IND	‘Касказик слышит песню.’					Касказик лу мыд
-91	94		*	*	*		alr̥ cʰо-ɣir̥ vəlk-d	ягода рыба-INS смешивать-IND	‘(Она) смешала ягоду с рыбой.’	Not included in the database because this translation is semantically inaccurate.				Алр̆ чоғир̆ вылкд
-91	95		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik tʰlə-rоχ tʰər-d	PN небо-DAT/ADD смотреть-IND	‘Касказик смотрит на небо.’					Касказик т’лыроӽ т’ырд
-91	96	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	97		DAT/ADD	SBJ	X	DAT/ADD_SBJ	Kaskazik Ajsana-rоχ tʰəi-d	PN PN-DAT/ADD сниться-IND	‘Касказик снится Айсане.’					Касказик Айсана /  Айсанароӽ т’ыид
-91	98	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	99		SBJ	COM	Y	SBJ_COM	Kaskazik Ajsana-ɣin um-d	PN PN-COM.SG быть_сердитым-IND	‘Касказик поссорился с Айсаной.’					Касказик Айсанағин умдғун
-91	100		SBJ	DO	TR	TR	tu + ŋirŋ ɲaqr̥ cʰχa e­rʁa-d	DEM.PROX + чашка один рубль 3SG-стоить-IND	‘Эта чашка стоит один рубль.’					Ту ӈирӈ няӄр̆ чӽа эрӻад
-91	101		SBJ	DO	TR	TR	Kaskazik pujŋa + χatu-d	PN птица + стрелять-IND	‘Касказик выстрелил в птицу.’					Касказик пуйӈа ӽатуд
-91	102		SBJ	DO	TR	TR	Kaskazik ŋirŋ-dоχ sеta si-d	PN чашка-DAT/ADD сахар класть-IND	‘Касказик насыпал сахар в чашку.’					Касказик  ӈирӈ / ӈирӈдоӽ сета сид
-91	103		SBJ	DO	TR	TR	Kaskazik pitɣəŋ pəkz-d	PN книга терять-IND	‘Касказик потерял книгу.’					Касказик питғыӈ пыкзд
-91	104	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	105		SBJ	DO	TR	TR	Kaskazik Irgun i­ɣ-d	PN PN 3SG-убивать-IND	‘Касказик убил Иргуна.’					Касказик Иргун иғуд
-91	106		SBJ	DO	TR	TR	Kaskazik Irgun + za-d	PN PN + бить-IND	‘Касказик ударил Иргуна.’					Касказик Иргун зад
-91	107		SBJ	DO	TR	TR	Kaskazik Ajsana + mоc-t	PN PN + целовать-IND	‘Касказик поцеловал Айсану.’					Касказик Айсана мотьт
-91	108		SBJ	DO	TR	TR	Kaskazik pitɣəŋ j-uru-d	PN книга 3SG-читать-IND	‘Касказик прочитал книгу.’					Касказик питғыӈ юруд
-91	109		*	*	*		Kaskazik tuɲm-ɣir̥ eɲŋaɲŋa-d	PN палец-INS задеть-IND	‘Касказик пошевелил пальцем.’	Not included in the database because this translation is semantically inaccurate.				Касказик туньмғир̆ эньӈаньӈад
-91	110		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ nеf ur-d	PN PN-DAT/ADD лицо хороший-IND	‘Касказик уважает Айсану.’					Касказик Айсанароӽ неф урд
-91	111		SBJ	DO	TR	TR	Kaskazik eɣr̥k + ŋirŋ +cʰŋəsŋə-d	PN грязный +посуда + брезговать-IND	‘Касказик брезгует грязной посудой.’					Касказик эғр̆к ӈирӈ чӈысӈыд
-91	112	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	113		SBJ	DO	TR	TR	Kaskazik Ajsana + maʁo-d	PN PN + любить-IND	‘Касказик влюбился в Айсану.’					Касказик Айсана маӻод
-91	114		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ j-aχt-t	PN PN-DAT/ADD 3SG-доверять-IND	‘Касказик доверяет Айсане.’					Касказик Айсанароӽ яӽтт
-91	115		SBJ	DO	TR	TR	Kaskazik pʰ-əmk + оŋar-d	PN RFL-мать + жалеть-IND	‘Касказик жалеет свою мать.’					Касказик п’ымк оӈорд
-91	116	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	117		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ kеʁri-d	PN PN-DAT/ADD злиться-IND	‘Касказик злится на Айсану.’					Касказик Айсанароӽ кеӻрид
-91	118		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik hu + pоdarоk-rоχ fəskə-d	PN CLOSE.DEM + подарок-DAT/ADD удивляться-IND	‘Касказик удивился этому подарку.’					Касказик ӿу подарокроӽ фыскыд
-91	119		SBJ	DO	TR	TR	Kaskazik cʰaj + smо-d	PN чай + любить-IND	‘Касказик любит чай.’					Касказик чай смод
-91	120		*	*	*		Kaskazik qavla +cʰaj + smо-qatn-d	PN горячий + чай + любить-AUG-IND	‘Касказик любит горячий чай.’	Not included in the database because this translation is semantically inaccurate.				Касказик ӄавла чай смоӄатнд
-91	121		SBJ	DO	TR	TR	Kaskazik cʰir + mоbil'nik + aɣni-d	PN новый + мобильник + хотеть-IND	‘Касказик хочет новый мобильник.’					Касказик чир мобильник ағнид
-91	122	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	123		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ um-d	PN PN-DAT/ADD быть_сердитым-IND	‘Касказик обиделся на Айсану.’					Касказик Айсанароӽ умд
-91	124	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	125		*	*	*		*	*	‘Касказик поразился этому городу.’	No satisfactory translation has been obtained.				Касказик ӿу ӽотоӈ фыскыд
-91	126	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	127	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	128		SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik pʰ-r̥aŋɢ-eʁlŋ-rоχ kеʁri-d	PN RFL-женщина-ребёнок-DAT/ADD злиться-IND	‘Касказик раздражается на свою дочь.’					Касказик п’р̆аӈӷэӻлӈроӽ кеӻрид
-91	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				*
-91	130		SBJ	DO	TR	TR	Kaskazik pʰi + məckila +ut  j-еcʁa-d	PN RFL + маленький + тело 3SG-стыдиться-IND	‘Касказик стесняется своего маленького роста.’					Касказик п’и мытькила ут етьӻад
+91	1	qоd	LOC/ABL	SBJ	X	LOC/ABL_SBJ	Largun-ux coŋr̥ qо-d	PN-LOC/ABL head ache-IND	‘Largun has a headache.’		PN-LOC/ABL голова болеть-IND	‘У Ларгуна болит голова.’	ӄод 	Ларгунух тёӈр̆ ӄод
+91	2	qоd	SBJ	INS	Y	SBJ_INS	Largun gripp-ɣir̥ qо-d	PN flu-INS be.sick-IND	‘Largun has the flu.’		PN грипп-INS болеть-IND	‘Ларгун болеет гриппом.’	ӄод 	Ларгун гриппғир̆ ӄод
+91	3	kʰlud	SBJ	DO	TR	TR	Irgun qanŋ + xlu-d	PN dog + be.afraid-IND	‘Irgun is afraid of the dog.’		PN собака + бояться-IND	‘Иргун боится собаки.’	к᾽луд 	Иргун ӄанӈ хлуд
+91	4	pazd	SBJ	DO	TR	TR	Kaskazik kоqvеlq paz-d	PN shell throw-IND	‘Kaskazik threw a shell.’		PN ракушка бросать-IND	‘Касказик бросил ракушку.’	пазд 	Касказик коӄвелӄ пазд
+91	5	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	6	vоcid	SBJ	DO	TR	TR	Kaskazik Largun + bоci-d	PN PN + resemble-IND	‘Kaskazik resembles Largun.’		PN PN + быть_похожим-IND	‘Касказик похож на Ларгуна.’	вотид 	Касказик Ларгун ботид
+91	7	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	8	ɣеd	SBJ	DO	TR	TR	Kaskazik pitɣəŋ ɣе-d	PN book take-IND	‘Kaskazik took a book.’		PN книга брать-IND	‘Касказик взял книгу.’	ғед 	Касказик питғыӈ ғед
+91	9	idəd	SBJ	DO	TR	TR	Kaskazik taf idə-d	PN house see-IND	‘Kaskazik sees a house.’		PN дом видеть-IND	‘Касказик видит дом.’	идыд 	Касказик таф идыд
+91	10	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	11	vord	SBJ	DO	TR	TR	Kaskazik Ajsana + оr-d	PN PN + encounter-IND	‘Kaskazik encountered Ajsana.’		PN PN + встретить-IND	‘Касказик встретился с Айсаной.’	ворд 	Касказик Айсана орд
+91	12	juɣd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik taf-tоχ j-uɣ-d	PN house-DAT/ADD 3SG-enter-IND	‘Kaskzik entered the house.’		PN дом-DAT/ADD 3SG-входить-IND	‘Касказик вошел в дом.’	юғд 	Касказик тафтоӽ юғд
+91	13	kʰəd	SBJ	COMP	Y	SBJ_COMP	Kaskazik Ajsana-ak kʰə-d	PN PN-COMP be_skillful-IND	‘Kaskazik beat Ajsana.’		PN PN-COMP быть_умелым-IND	‘Касказик выиграл у Айсаны.’	к’ыд	Касказик Айсанаак  к’ыд
+91	14	pʰud	SBJ	LOC/ABL	Y	SBJ_LOC/ABL	Kaskazik tav-ux pʰu-d	PN house-LOC/ABL leave-IND	‘Kaskazik went out of the house.’		PN дом-LOC/ABL выходить-IND	‘Касказик вышел из дома.’	п᾽уд 	Касказик тавух п’уд
+91	15	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	16	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	17	xеrd	SBJ	DO	TR	TR	Kaskazik Ajsana + xеr-d ɲе-rχ pʰr̥ə-r̥ cʰma-ja	PN PN + tell-IND 1SG-DAT/ADD come-CVB_NAR visit-IMP.2SG	‘Kaskazik told Ajsana: “Come and visit me!”’		PN PN + говорить-IND 1SG-DAT/ADD приходить-CVB_NAR ходить_в_гости-IMP.2SG	‘Касказик сказал Айсане: “Приходи ко мне в гости”.’	херд	Касказик Айсана херд: “Нерӽ п’р̆ыр̆ чмая”.
+91	18	evd	SBJ	DO	TR	TR	Kaskazik pitɣəŋ e-v-d	PN book 3SG-hold-IND	‘Kaskazik is holding a book.’		PN книга 3SG-держать-IND	‘Касказик держит книгу (в руках).’	эвд 	Касказик питғыӈ эвд
+91	19	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	20	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	21	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	22	evd	SBJ	DO	TR	TR	Kaskazik patigur̥ stеnka tamk-ɣir̥ vо-d	PN quietly wall hand-INS hold-IND	‘Kaskazik touched the wall.’		PN тихо стенка рука-INS держать-IND	‘Касказик дотронулся до стены.’	эвд 	Касказик патигур̆ стенка тамкғир̆ вод
+91	23	vad	SBJ	COM	Y	SBJ_COM	Kaskazik Irgun-ɣin va-d	PN PN-COM.SG fight-IND	‘Kaskazik is fighting with Irgun.’		PN PN-COM.SG драться-IND	‘Касказик дерётся с Иргуном.’	вад 	Касказик Иргунғин вад
+91	24	ŋafq mud	SBJ	COM	Y	SBJ_COM	Kaskazik Largun-ɣin ŋafq + mu-d	PN PN-COM.SG friend + become-IND	‘Kaskazik is friends with Largun.’		PN PN-COM.SG друг + становиться-IND	‘Касказик дружит с Ларгуном.’	ӈафӄ муд	Касказик Ларгунғин ӈафӄ муд
+91	25	kʰəmləd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ kʰəmlə-d	PN PN-DAT/ADD think-IND	‘Kaskazik is thinking about Ajsana.’		PN PN-DAT/ADD думать-IND	‘Касказик думает об Айсане.’	к᾽ымлыд	Касказик Айсанароӽ / Айсана к’ымлыд
+91	26	ivd	SBJ	DO	TR	TR	Kaskazik alr̥ + ɲi-d	PN berry + eat-IND	‘Kaskazik ate a berry.’		PN ягода + есть-IND	‘Касказик съел ягоду.’	ивд	Касказик алр̆ нид
+91	27	r̥ad	SBJ	DO	TR	TR	Kaskazik cʰо + r̥a-d	PN fish + fry-IND	‘Kaskazik fried the fish.’		PN рыба + жарить-IND	‘Касказик пожарил рыбу.’	р̆ад	Касказик чо р̆ад
+91	28	ŋarməd	SBJ	DO	TR	TR	Kaskazik Ajsana + ŋarmə-d	PN PN + wait-IND	‘Kaskazik is waiting for Ajsana.’		PN PN + ждать-IND	‘Касказик ждёт Айсану.’	ӈармыд	Касказик Айсана ӈармыд
+91	29	tχar̥pəd	SBJ	INS	Y	SBJ_INS	Kaskazik hu cif-kir̥  tχar̥pə-d	PN CLOSE.DEM road-INS forget-IND	‘Kaskazik forgot about the other road.’		PN CLOSE.DEM дорога-INS забывать-IND	‘Касказик забыл о другой дороге.’	тӽар̆пыд	Касказик ӿу тифкир̆ тӽар̆пыд
+91	30	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	31	jazd	SBJ	DO	TR	TR	Kaskazik Ajsana + azd	PN PN + call-IND	‘Kaskazik called Ajsana.’		PN PN + звать-IND	‘Касказик позвал Айсану.’	язд	Касказик Айсана азд
+91	32	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	33	jajmd	SBJ	DO	TR	TR	Kaskazik Ajsana j-ajm-d	PN PN 3SG-know-IND	‘Kaskazik knows Ajsana.’		PN PN 3SG-знать-IND	‘Касказик знает Айсану.’	яймд	Касказик Айсана яймд
+91	34	sеwd	SBJ	INS	Y	SBJ_INS	Kaskazik gitara-ɣir̥ sеw-d	PN guitar-INS play-IND	‘Kaskazik is playing the guitar.’		PN гитара-INS играть-IND	‘Касказик играет на гитаре. ’	сеўд	Касказик гитарағир̆  сеўд
+91	35	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	36	nəd	SBJ	DO	TR	TR	Kaskazik bоmba + nə-d	PN bomb + make-IND	‘Kaskazik made a bomb.’		PN бомба + делать-IND	‘Касказик изготовил (сделал) бомбу.’	ныд	Касказик бомба ныд
+91	37	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	38	ivd	SBJ	DO	TR	TR	Kaskazik tʰu + iv-d	PN narta + have-IND	‘Kaskazik has a narta.’		PN нарта + иметь-IND	‘У Касказика есть нарта.’	ивд	Касказик т’у ивд
+91	39	ŋanɣt	SBJ	DO	TR	TR	Kaskazik pitɣəŋ + ŋanɣ-t	PN book + look.for-IND	‘Kaskazik is looking for the book.’		PN книга + искать-IND	‘Касказик ищет книгу.’	ӈанғд	Касказик питғыӈ ӈанғт
+91	40	jivud	SBJ	DO	TR	TR	Kaskazik vazr̥ j-ivu-d	PN fence 3SG-paint-IND	‘Kaskazik painted the fence.’		PN забор 3SG-красить-IND	‘Касказик покрасил забор.’	йивуд	Касказик вазр̆ йивуд
+91	41	rukt	SBJ	DO	TR	TR	qanŋ Kaskazik + ruk-t	dog PN + bite-IND	‘A dog bit Kaskazik.’		собака PN + кусать-IND	‘Собака укусила Касказика.’	рукт	Ӄанӈ Касказик рукт
+91	42	vəkzd	SBJ	DO	TR	TR	Kaskazik taf + pəkz-d	PN house + lose-IND	‘Kaskazik lost his house.’		PN дом + терять-IND	‘Касказик лишился дома.’	выкзд	Касказик таф пыкзд
+91	43	pоjmd	SBJ	DO	TR	TR	Kaskazik kəsk pоjm-d	PN cat try.to.catch-IND	‘Kaskazik is trying to catch the cat.’		PN кошка ловить-IND	‘Касказик ловит кошку.’	поймд	Касказик кыск поймд
+91	44	zоsqt	SBJ	DO	TR	TR	Kaskazik cʰχar̥ zоsq-t	PN tree break-IND	‘Kaskazik broke a stick.’		PN дерево ломать-IND	‘Касказик сломал палку.’	зосӄт	Касказик чӽар̆ зосӄт
+91	45	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	46	maʁod	SBJ	DO	TR	TR	Kaskazik Ajsana + maʁo-d	PN PN + love-IND	‘Kaskazik loves Ajsana.’		PN PN + любить-IND	‘Касказик любит Айсану.’	маӻод	Касказик Айсана маӻод
+91	47	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	48	kʰəmləd	*	*	*		Kaskazik cʰir + tʰu kʰəmlə-d	PN new + narta think-IND	‘Kaskazik is thinking of a new car.’	Not included in the database because this translation is semantically inaccurate.	PN новый + нарта думать-IND	‘Касказик думает о новой машине.’	к᾽ымлыд	Касказик чир т’у к’ымлыд
+91	49	zud	SBJ	DO	TR	TR	Kaskazik ŋirŋ + ɟu-d	PN cup + wash-IND	‘Kaskazik washed the cup.’		PN чашка + мыть-IND	‘Касказик вымыл чашку.’	зуд	Касказик ӈирӈ дюд
+91	50	xizd	SBJ	DO	TR	TR	Kaskazik var̥ xiz-d	PN trousers put.on-IND	‘Kaskazik put on his trousers.’		PN штаны надевать-IND	‘Касказик надел штаны.’	хизд	Касказик вар̆  хизд
+91	51	χawd	SBJ	DO	TR	TR	tu + prеdmеt kоmpas χaw-d	PROX.DEM + thing compass call-IND	‘This instrument is called a compass.’		PROX.DEM + предмет компас называть-IND	‘Этот предмет называется компас.’ 	ӽаўд	Ту предмет компас ӽаўд
+91	52	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	53	vоlud	SBJ	DO	TR	TR	cʰxəf cʰо-ŋanʁ-nivŋ vоlu-d	bear fish-look.for-man fell-IND	‘A bear attacked a fisherman.’		медведь рыба-искать-человек повалить-IND	‘Медведь напал на рыбака.’	волуд	Чхыф чоӈанӻнивӈ волуд
+91	54	sarud	SBJ	INS	Y	SBJ_INS	sindux cʰaχ-kir̥ saru-d	cask water-INS fill-IND	‘The cask filled with water.’		бочка вода-INS наполнять-IND	‘Бочка наполнилась водой.’	саруд	Синдух чаӽкир̆ саруд
+91	55	idəd	SBJ	DO	TR	TR	Kaskazik pitɣəŋ idə-d	PN book find-IND	‘Kaskazik found the book.’		PN книга находить-IND	‘Касказик нашел книгу.’	идыд	Касказик питғыӈ идыд
+91	56	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	57	raɣraɣd	SBJ	DO	TR	TR	Kaskazik Ajsana + raɣraɣ-d	PN PN + hate-IND	‘Kaskazik hates Ajsana.’		PN PN + ненавидеть-IND	‘Касказик ненавидит Айсану.’	рағрағд	Касказик Айсана рағрағд / ӈалзайд
+91	58	maʁod	SBJ	DO	TR	TR	Kaskazik tu + lar̥q + maʁo-d	PN DEM.PROX + shirt + like-IND	‘Kaskazik likes this shirt.’		PN DEM.PROX + рубашка + любить-IND	‘Касказику нравится эта рубашка.’	маӻод	Касказик ту лар̆ ӄ маӻод
+91	59	cʰiŋrd	*	*	*		Kaskazik cʰχa-ɣir̥ cʰiŋr-d	PN money-INS suffer-IND	‘Kaskazik is suffering about the money.’	Not included in the database because this translation is semantically inaccurate.	PN деньги-INS мучиться-IND	‘Касказик мучается с деньгами.’	чиӈрд	Касказик чӽағир̆ чиӈрд
+91	60	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	61	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	62	itt	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik raw-r̥aŋɢ-rоχ it-t	PN teach-woman-DAT/ADD tell-IND	‘Kaskazik answered the teacher.’		PN учить-женщина-DAT/ADD говорить-IND	‘Касказик ответил учителю.’	итт	Касказик раўр̆аӈӷроӽ итт
+91	63	r̥əlɣd	SBJ	DO	TR	TR	Kaskazik qalŋ + r̥əlɣ-d	PN can + open-IND	‘Kaskazik opened a can.’		PN банка + открывать-IND	‘Касказик открыл банку.’	р̆ылғд	Касказик ӄалӈ р̆ылғд
+91	64	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	65	jarid	SBJ	DO	TR	TR	Kaskazik Ajsana + ari-d	PN PN + fall.behind-IND	‘Kaskazik fell behind Ajsana.’		PN PN + отставать-IND	‘Касказик отстал от Айсаны.’	ярид	Касказик Айсана арид
+91	66	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	67	nоʁd	SBJ	INS	Y	SBJ_INS	ɲ-ramk-ɣun bеnzin-ɣir̥ nоʁ-d	1SG.POSS-hand-PL gasoline-INS smell-IND	‘My hands smell of gasoline.’		1SG.POSS-рука-PL бензин-INS пахнуть-IND	‘Мои руки пахнут бензином.’	ноӻд	Нь рамкғун бензинғир̆ ноӻд 
+91	68	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	69	lud	SBJ	DO	TR	TR	Kaskazik pоcurla + lu + lu-d	PN beautiful + song + sing-IND	‘Kaskazik sang a beautiful song.’		PN красивый + песня + петь-IND	‘Касказик спел красивую песню.’	луд	Касказик потюрла лу луд
+91	70	rajud	SBJ	DO	TR	TR	Kaskazik pitɣəŋ raju-d	PN letter write-IND	‘Kaskazik wrote a letter.’		PN письмо писать-IND	‘Касказик написал письмо.’	раюд	Касказик питғыӈ раюд
+91	71	rad	SBJ	DO	TR	TR	Kaskazik mоlоkо + ra-d	PN milk + drink-IND	‘Kaskazik drank the milk.’		PN молоко + пить-IND	‘Касказик выпил молоко.’	рад	Касказик молоко рад
+91	72	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	73	namad	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	tu + viɣvur̥ ɲ-lar̥q-rоχ nama-d	DEM.PROX + belt 1SG.POS-dress-DAT/ADD be_good-IND	‘This belt goes well with my dress.’		DEM.PROX + пояс 1SG.POS-платье-DAT/ADD быть_хорошим-IND	‘Этот пояс подходит к моему платью.’	намад	Ту виғвур̆ нь лар̆ӄроӽ намад
+91	74	vəkzd	SBJ	DO	TR	TR	Kaskazik pʰ-vо + pəkz-d	PN RFL-town + lose-IND	‘Kaskazik left his native town.’		PN RFL-село + терять-IND	‘Касказик покинул родной город.’	выкзд	Касказик п’во пыкзд
+91	75	lact	*	*	*		tʰu tʰlaŋi + ŋamaɟ-ɣir̥ lac-t-ɣun	narta reindeer + skin-INS underlay-IND-PL	‘(They) covered the narta with reindeed skins.’	Not included in the database because this translation is semantically inaccurate.	нарта олень + шкура-INS подстилать-IND-PL	‘Нарту оленьими шкурами покрыли.’	латьт	Т’у т’лаӈи ӈамадьғир̆ латьтғун
+91	76	hujvud	SBJ	DO	TR	TR	Kaskazik ur-gur̥ pʰ-raf + hujvu-d	PN good-ADV:3SG RFL-house + remember-IND	‘Kaskazik remembers the house well.’		PN хорошо-ADV:3SG RFL-дом + помнить-IND	‘Касказик хорошо помнит дом.’	ӿуйвуд	Касказик ургур̆  п’раф ӿуйвуд
+91	77	rоd	SBJ	DO	TR	TR	Kaskazik Ajsana + rо-d	PN PN + help-IND	‘Kaskazik helped Ajsana.’		PN PN + помогать-IND	‘Касказик помог Айсане.’	род	Касказик Айсана род
+91	78	jajmd	SBJ	DO	TR	TR	Kaskazik lоci + duf j-ajm-d	PN Russian + language 3SG-understand-IND 	‘Kaskazik understands Russian.’		PN русский + язык 3SG-понимать-IND 	‘Касказик понимает русский язык.’	яймд	Касказик лоти дуф яймд
+91	79	juɣd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	var̥par-d taf-tоχ  j-uɣ-d	flash-NML house-DAT/ADD 3SG-enter-IND	‘Lightning struck the house.’		сверкать-NML дом-DAT/ADD 3SG-войти-IND	‘Молния попала в дом.’	юғд 	Вар̆пард тафтоӽ юғд
+91	80	jaqt	SBJ	INS	Y	SBJ_INS	Kaskazik caqо-ɣir̥ pʰ-aq-t	PN knife-INS RFL-cut-IND	‘Kaskazik cut himself with a razor.’		PN нож-INS RFL-резать-IND	‘Касказик порезался ножом.’	яӄт	Касказик тяӄоғир̆  п’аӄт
+91	81	kеtvd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	stakan оstоl-rоχ kеtv-d	glass table-DAT/ADD stick-IND	‘The glass got stuck to the table.’		стакан стол-DAT/ADD прилипать-IND	‘Стакан прилип к столу.’	кетвд	Стакан остолроӽ кетвд
+91	82	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	83	ezmud	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik pitɣəŋ-dоχ e-zmu-d	PN letter-DAT/ADD 3SG-like-IND	‘Kaskazik was glad about the letter.’		PN письмо-DAT/ADD 3SG-любить-IND	‘Касказик обрадовался письму.’	эзмуд	Касказик питғыӈдоӽ эсмуд
+91	84	qlajd	SBJ	COM	Y	SBJ_COM	Kaskazik Ajsana-ɣin qlaj-d	PN PN-COM.SG talk-IND	‘Kaskazik is speaking with Ajsana.’		PN PN-COM.SG разговаривать-IND	‘Касказик разговаривает с Айсаной.’	ӄлайд	Касказик Айсанағин ӄлайд
+91	85	pand	SBJ	DO	TR	TR	Ajsana azməc + eʁlŋ pan-d	PN man + child give.birth-IND	‘Ajsana gave birth to a son.’		PN мужчина + ребёнок родить-IND	‘Айсана родила сына.’	панд	Айсана азмыть эӻлӈ панд
+91	86	ɣuсit	SBJ	DO	TR	TR	Kaskazik stakan ɣuсi-t	PN glass drop-IND	‘Kaskazik dropped the glass.’		PN стакан ронять-IND	‘Касказик уронил стакан.’	ғутит	Касказик стакан ғутит
+91	87	əzŋ mud	SBJ	LOC/ABL	Y	SBJ_LOC/ABL	Kaskazik mеn + vо-ux əzŋ + mu-d	PN 1PL.INCL + town-LOC/ABL boss + become-IND	‘Kaskazik runs our village.’		PN 1PL.INCL + село-LOC/ABL хозяин + становиться-IND	‘Касказик руководит нашим поселком.’	ызн муд	Касказик мен воух ызн муд
+91	88	ŋawzоr̥kt	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ ŋawzоr̥k-t	PN PN-DAT/ADD miss-IND	‘Kaskazik misses Ajsana.’		PN PN-DAT/ADD скучать-IND	‘Касказик скучает по Айсане.’	ӈаўзор̆кт	Касказик Айсанароӽ ӈаўзор̆кт
+91	89	jarid	SBJ	DO	TR	TR	Kaskazik Ajsana + ari-d	PN PN + fall.behind-IND	‘Kaskazik follows Ajsana.’		PN PN + отставать-IND	‘Касказик следует за Айсаной.’	ярид	Касказик Айсана арид
+91	90	caqrd	SBJ	LOC/ABL	Y	SBJ_LOC/ABL	Kaskazik murŋ-ux caqr-d	PN horse-LOC/ABL jump-IND	‘Kaskazik got down from the horse.’		PN лошадь-LOC/ABL прыгать-IND	‘Касказик слез с лошади.’	тяӄрд	Касказик мурӈух тяӄрд
+91	91	məd	SBJ	DO	TR	TR	Kaskazik radiо + mə-d	PN radio + listen-IND	‘Kaskazik is listening to radio.’		PN радио + слушать-IND	‘Касказик слушает радио.’	мыд	Касказик радио мыд
+91	92	məd	SBJ	DO	TR	TR	Ajsana əmk + mə-d	PN mother + listen-IND	‘Ajsana always listens to his mother.’		PN мать + слушать-IND	‘Айсана слушается маму.’	мыд	Айсана ымк мыд
+91	93	məd	SBJ	DO	TR	TR	Kaskazik lu + mə-d	PN song + listen-IND	‘Kaskazik hears the song.’		PN песня + слушать-IND	‘Касказик слышит песню.’	мыд	Касказик лу мыд
+91	94	vəlkd	*	*	*		alr̥ cʰо-ɣir̥ vəlk-d	berry fish-INS mix-IND	‘(She) mixed the berries with the fish.’	Not included in the database because this translation is semantically inaccurate.	ягода рыба-INS смешивать-IND	‘(Она) смешала ягоду с рыбой.’	вылкд	Алр̆ чоғир̆ вылкд
+91	95	tʰərd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik tʰlə-rоχ tʰər-d	PN sky-DAT/ADD look-IND	‘Kaskazik is looking at the sky.’		PN небо-DAT/ADD смотреть-IND	‘Касказик смотрит на небо.’	т᾽ырд	Касказик т’лыроӽ т’ырд
+91	96	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	97	tʰəid	DAT/ADD	SBJ	X	DAT/ADD_SBJ	Kaskazik Ajsana-rоχ tʰəi-d	PN PN-DAT/ADD dream-IND	‘Ajsana dreams about Kaskazik.’		PN PN-DAT/ADD сниться-IND	‘Касказик снится Айсане.’	т᾽ыид	Касказик Айсана /  Айсанароӽ т’ыид
+91	98	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	99	umd	SBJ	COM	Y	SBJ_COM	Kaskazik Ajsana-ɣin um-d	PN PN-COM.SG be_angry-IND	‘Kaskazik had a quarrel with Ajsana.’		PN PN-COM.SG быть_сердитым-IND	‘Касказик поссорился с Айсаной.’	умд	Касказик Айсанағин умд
+91	100	erʁad	SBJ	DO	TR	TR	tu + ŋirŋ ɲaqr̥ cʰχa e-rʁa-d	DEM.PROX + cup one rouble 3SG-cost-IND	‘This cup costs 1 rouble.’		DEM.PROX + чашка один рубль 3SG-стоить-IND	‘Эта чашка стоит один рубль.’	эрӻад	Ту ӈирӈ няӄр̆ чӽа эрӻад
+91	101	χad	SBJ	DO	TR	TR	Kaskazik pujŋa + χatu-d	PN bird + shoot-IND	‘Kaskazik shot at the bird.’		PN птица + стрелять-IND	‘Касказик выстрелил в птицу.’	ӽад	Касказик пуйӈа ӽатуд
+91	102	sid	SBJ	DO	TR	TR	Kaskazik ŋirŋ-dоχ sеta si-d	PN cup-DAT/ADD sugar put-IND	‘Kaskazik poured the sugar into the cup.’		PN чашка-DAT/ADD сахар класть-IND	‘Касказик насыпал сахар в чашку.’	сид	Касказик  ӈирӈ / ӈирӈдоӽ сета сид
+91	103	vəkzd	SBJ	DO	TR	TR	Kaskazik pitɣəŋ pəkz-d	PN book lose-IND	‘Kaskazik lost his book.’		PN книга терять-IND	‘Касказик потерял книгу.’	выкзд	Касказик питғыӈ пыкзд
+91	104	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	105	iɣd	SBJ	DO	TR	TR	Kaskazik Irgun i-ɣ-d	PN PN 3SG-kill-IND	‘Kaskazik killed Irgun.’		PN PN 3SG-убивать-IND	‘Касказик убил Иргуна.’	иғд	Касказик Иргун иғд
+91	106	zad	SBJ	DO	TR	TR	Kaskazik Irgun + za-d	PN PN + hit-IND	‘Kaskazik hit Irgun.’		PN PN + бить-IND	‘Касказик ударил Иргуна.’	зад	Касказик Иргун зад
+91	107	mоct	SBJ	DO	TR	TR	Kaskazik Ajsana + mоc-t	PN PN + kiss-IND	‘Kaskazik kissed Ajsana.’		PN PN + целовать-IND	‘Касказик поцеловал Айсану.’	мотьт	Касказик Айсана мотьт
+91	108	jurud	SBJ	DO	TR	TR	Kaskazik pitɣəŋ j-uru-d	PN book 3SG-read-IND	‘Kaskazik read a book.’		PN книга 3SG-читать-IND	‘Касказик прочитал книгу.’	юруд	Касказик питғыӈ юруд
+91	109	eɲŋawd	*	*	*		Kaskazik tuɲm-ɣir̥ eɲŋaɲŋa-d	PN finger-INS touch-IND	‘Kaskazik touched his finger.’	Not included in the database because this translation is semantically inaccurate.	PN палец-INS задеть-IND	‘Касказик потрогал палец.’	эньӈаўд	Касказик туньмғир̆ эньӈаньӈад
+91	110	urd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ nеf ur-d	PN PN-DAT/ADD face be_good-IND	‘Kaskazik respects Ajsana.’		PN PN-DAT/ADD лицо хороший-IND	‘Касказик уважает Айсану.’	урд	Касказик Айсанароӽ неф урд
+91	111	cʰŋəsŋəd	SBJ	DO	TR	TR	Kaskazik eɣr̥k + ŋirŋ + cʰŋəsŋə-d	PN dirty + dishes + be.squeamish-IND	‘Kaskazik is squeamish about dirty dishes.’		PN грязный + посуда + брезговать-IND	‘Касказик брезгует грязной посудой.’	чӈысӈыд	Касказик эғр̆к ӈирӈ чӈысӈыд
+91	112	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	113	maʁod	SBJ	DO	TR	TR	Kaskazik Ajsana + maʁo-d	PN PN + love-IND	‘Kaskazik fell in love with Ajsana.’		PN PN + любить-IND	‘Касказик влюбился в Айсану.’	маӻод	Касказик Айсана маӻод
+91	114	jaχtt	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ j-aχt-t	PN PN-DAT/ADD 3SG-trust-IND	‘Kaskazik trusts Ajsana.’		PN PN-DAT/ADD 3SG-доверять-IND	‘Касказик доверяет Айсане.’	яӽтт	Касказик Айсанароӽ яӽтт
+91	115	оŋard	SBJ	DO	TR	TR	Kaskazik pʰ-əmk + оŋar-d	PN RFL-mother + sympathise-IND	‘Kaskazik sympathises with his mother.’		PN RFL-мать + жалеть-IND	‘Касказик жалеет свою мать.’	оӈард	Касказик п’ымк оӈaрд
+91	116	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	117	kеʁrid	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ kеʁri-d	PN PN-DAT/ADD be.angry-IND	‘Kaskazik is angry with Ajsana.’		PN PN-DAT/ADD злиться-IND	‘Касказик злится на Айсану.’	кеӻрид	Касказик Айсанароӽ кеӻрид
+91	118	fəskəd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik hu + pоdarоk-rоχ fəskə-d	PN CLOSE.DEM + gift-DAT/ADD be.surprised-IND	‘Kaskazik was surprised at this gift.’		PN CLOSE.DEM + подарок-DAT/ADD удивляться-IND	‘Касказик удивился этому подарку.’	фыскыд	Касказик ӿу подарокроӽ фыскыд
+91	119	ezmud	SBJ	DO	TR	TR	Kaskazik cʰaj + smо-d	PN tea + like-IND	‘Kaskazik loves tea.’		PN чай + любить-IND	‘Касказик любит чай.’	эзмуд	Касказик чай смод
+91	120	ezmud	*	*	*		Kaskazik qavla + cʰaj + smо-qatn-d	PN hot + tea + like-AUG-IND	‘Kaskazik likes hot tea.’	Not included in the database because this translation is semantically inaccurate.	PN горячий + чай + любить-AUG-IND	‘Касказик любит горячий чай.’	эзмуд	Касказик ӄавла чай смоӄатнд
+91	121	jaɣnid	SBJ	DO	TR	TR	Kaskazik cʰir + mоbil'nik + aɣni-d	PN new + mobile.phone+ want-IND	‘Kaskazik wants a new mobile phone.’		PN новый + мобильник + хотеть-IND	‘Касказик хочет новый мобильник.’	яӻнид	Касказик чир мобильник ағнид
+91	122	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	123	umd	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik Ajsana-rоχ um-d	PN PN-DAT/ADD be.angry-IND	‘Kaskazik took offence at Ajsana.’		PN PN-DAT/ADD быть_сердитым-IND	‘Касказик обиделся на Айсану.’	умд	Касказик Айсанароӽ умд
+91	124	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	125	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	126	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	127	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	128	kеʁrid	SBJ	DAT/ADD	Y	SBJ_DAT/ADD	Kaskazik pʰ-r̥aŋɢ-eʁlŋ-rоχ kеʁri-d	PN RFL-woman-child-DAT/ADD be.angry-IND	‘Kaskazik is getting irritated with his daughter.’		PN RFL-женщина-ребёнок-DAT/ADD злиться-IND	‘Касказик раздражается на свою дочь.’	кеӻрид	Касказик п’р̆аӈӷэӻлӈроӽ кеӻрид
+91	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*	*	*
+91	130	jеcʁad	SBJ	DO	TR	TR	Kaskazik pʰi + məckila + ut  j-еcʁa-d	PN RFL + little + body 3SG-be.ashamed-IND	‘Kaskazik is embarrased about his height.’		PN RFL + маленький + тело 3SG-стыдиться-IND	‘Касказик стесняется своего маленького роста.’	етьӻад	Касказик п’и мытькила ут етьӻад
 38	1	å ha vondt	SBJ	i	Y	SBJ_i	Per ha-r vond-t i hod-et	PN have-PRS painful-INDF.N.SG in head-DEF.N.SG	‘Per has a headache.’			‘У Пера болит голова.’		
 38	2	å ha	SBJ	DO	TR	TR	Per ha-r influensa	PN have-PRS flu	‘Per has the flu.’			‘Пер болеет гриппом.’		
 38	3	å være redd	SBJ	for	Y	SBJ_for	Per er redd for hund-en	PN be.PRS afraid for dog-DEF.M.SG	‘Per is afraid of the dog.’	Non-verbal predicate.		‘Пер боится собаки.’		
@@ -3119,136 +3119,266 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	128	gåårõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt gåårõõđ-škuäʹtt suu niõđ ool	PN.SG.NOM get.irritated-INCH.PRS.3SG 3SG.GEN daughter.SG.GEN onto	‘Pete is getting irritated with his daughter.’					
 80	129	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad Määrja-st	PN.SG.NOM like.PRS.3SG PN.SG.LOC	‘Pete is fond of Maria’					
 80	130	käinnad	NOM	GENdiott	Y	NOM_GENdiott	Peâtt käinn kookkadvuõđ-âs diõtt	PN.SG.NOM be.shy.PRS.3SG height.SG.GEN-POSS.3SG because.of	‘Pete is shy about his height.’					
-92	1	dārδ čīdow	LOC	NOM	X	LOC_NOM	Ahmed-and wi kāl dārδ kix̌-t	PN-LOC D3.M.SG.OBL head pain do-3SG	‘У Ахмеда болит голова.’					
-92	2	vidow	LOC	NOM	X	LOC_NOM	Lola-yand rāk kasali	PN-LOC cancer illness	‘У Лолы рак.’	In this example, the verb 'to be' is non-overt.				
-92	3	x̌oǰ δêrtow	NOM	EL	Y	NOM_EL	Ahmed as kūd x̌oǰ δêr-t	PN EL dog fear AUX-3SG	‘Ахмед боится собаку.’					
-92	4	šič δêdow1	NOM	OBL	TR	TR	Ahmat=i yakum žīr šič δod	PN=3SG first stone throw give.PST	‘Ахмат первым бросил камень.’					
-92	5	firīptow	LOC	NOM	X	LOC_NOM	Ahmed-and wi pūl wi-rd firop-t	PN-LOC D3.M.SG.OBL money D3.M.SG.OBL-LAT suffice-3SG	‘Ахмеду хватает денег.’					
-92	6	mūnandi vidow	NOM	EQ	Y	NOM_EQ	Ahmat tar xu bob mūnand	PN EQ REFL grandfather similar	‘Ахмат похож на своего дедушку.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	7	bowar δêdow1	NOM	LAT	Y	NOM_LAT	Ahmat Azim-ard bowari δī-d	PN PN-LAT trust give-3SG	‘Ахмат верит Азиму.’					
-92	8	zêx̌tow	NOM	OBL	TR	TR	Azim=i kitob as tažerka-ti zox̌-t	PN=3SG book EL shelf-SUP take-PST	‘Азим взял книгу с полки.’					
-92	9	wīntow	NOM	OBL	TR	TR	Azim čīd wīn-t	PN house see-3SG	‘Азим видит дом.’					
-92	10	tāsīr čīdow	NOM	SUP	Y	NOM_SUP	sol wux̌-ti tāsīr kix̌-t	years memory-SUP influence do-3SG	‘Возраст влияет на память.’					
-92	11	wīntow	NOM	OBL	TR	TR	Ahmat=i Azim půnd-ti wīn-t	PN=3SG PN road-SUP see-PST	‘Ахмат встретил Азима на дороге.’					
-92	12	dedow	NOM	EQ	Y	NOM_EQ	Ahmed tar čīd ded	PN EQ house enter.PST	‘Ахмед вошел в дом.’					
-92	13	yêdow	NOM	EL	Y	NOM_EL	Ahmed=i as Karamšo yod	PN=3SG EL PN bring.PST	‘Ахмед выиграл у Карамшо.’					
-92	14	nax̌tīdow	NOM	EL	Y	NOM_EL	Azim as čīd nax̌tūy-d	PN EL house go.out-PST	‘Азим вышел из дома.’					
-92	15	ay čīdow	NOM	OBL	TR	TR	Azim=i wam žow ay čūd wox̌ xīd	PN=3SG D3.F.SG.OBL cow expulsion do.PST grass eat.INF	‘Азим гонит корову пастись.’					
-92	16	xām δêdow1	NOM	OBL	TR	TR	Ahmed=i wi xêx̌čak xām δod	PN=3SG D3.M.SG.OBL branch bend give.PST	‘Ахмед согнул ветку.’					
-92	17	lůvdow	NOM	LAT	Y	NOM_LAT	Azim=i Lola-yard lůd: te tar čīd-aθ	PN=3SG PN-LAT say.PST go.IMPER EQ house-ADV	‘Азим сказал Лоле: “иди домой”.’					
-92	18	anǰīvdow	NOM	OBL	TR	TR	Ahmed=i mu kitob anǰūv-d	PN=3SG 1SG.OBL book hold-PST	‘Ахмед держал мою книгу.’					
-92	19	daryov čīdow	NOM	OBL	TR	TR	Ahmed=i Karamšo daryov čūd	PN=3SG PN capture do.PST	‘Ахмед догнал Карамшо.’					
-92	20	δīwdow	NOM	OBL	TR	TR	Saida=yi žow δūy-d	PN=3SG cow milk-PST	‘Саида подоила корову.’					
-92	21	firīptow	NOM	EQ	Y	NOM_EQ	Azim=i lodka=qati tar qoq=i firīp-t	PN=3SG boat=INS EQ dry=SUBST reach/arrive-PST	‘Азим достиг берега на лодке.’					
-92	22	xu δêdow1	NOM	PREP.UP-LOC	Y	NOM_PREP.UP-LOC	Azim=i pi burǰ-and xu δod xu ɣažd su-t	PN=3SG PREP.UP wall-LOC REFL give.PST ADD dirty go-PST	‘Азим дотронулся до стены и испачкался.’					
-92	23	δêd čīdow	NOM	INS	Y	NOM_INS	Naǰiba Safina=qati δêd kix̌-t	PN PN=INS quarrel do-3SG	‘Наджиба дерется с Сафиной.’					
-92	24	*	*	*	*		Ahmat=at Azim=en ox̌no-yen	PN=ADD PN=3PL friend-PL	‘Ахмат и Азим друзья.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-92	25	fikri čīdow	NOM	OBL	TR	TR	Azim Lola fikri kix̌-t	PN PN thought do-3SG	‘Азим думает о Лоле.’					
-92	26	xīdow	NOM	OBL	TR	TR	Ahmed=i mūn xūd	PN=3SG apple eat.PST	‘Ахмед съел яблоко.’					
-92	27	pêxtow	NOM	OBL	TR	TR	Azim=i gūx̌t pêx-t	PN=3SG meat cook-PST	‘Азим пожарил мясо.’					
-92	28	nīstow	NOM	PREP.UP	Y	NOM_PREP.UP	Azim pi Lola nūs-č	PN PREP.UP PN sit/wait.M-PF	‘Азим ждал Лолу.’					
-92	29	rinīx̌tow	NOM	EL	Y	NOM_EL	Azim=i as wi yiga půnd rinūx̌-t	PN=3SG EL D3.M.SG.OBL another road forget-PST	‘Азим забыл о другой дороге.’					
-92	30	wobastā vidow	NOM	EL	Y	NOM_EL	Pamyat as vozrast wobastā	memory EL age dependent	‘Память зависит от возраста.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	31	qīwdow	NOM	OBL	TR	TR	Azim=i xu nān qīw-d	PN=3SG REFL mother call-PST	‘Азим позвал свою маму.’					
-92	32	balad sitow	NOM	INS	Y	NOM_INS	Ahmed Saida=qati yi sol tar piro balad sut	PN  PN=INS one year EQ ahead familiar become.PST	‘Ахмед познакомился с Саидой год назад.’					
-92	33	fāmtow	NOM	OBL	TR	TR	Ahmed Saida fām-t	PN PN know-3SG	‘Ахмед знает Саиду.’					
-92	34	niwêzdow	NOM	SUP	Y	NOM_SUP	Ahmed gitar-ti niwoz-d	PN guitar-SUP play-3SG	‘Ахмед играет на гитаре.’					
-92	35	zibidow	NOM	EL	Y	NOM_EL	Ahmed as Saida zibīn-t	PN EL PN jump/disappear-3SG	‘Ахмед избегает Саиду.’					
-92	36	čīdow	NOM	OBL	TR	TR	Azim=i pūrg-anǰavīǰ=ak xůbaθ čūd	PN=3SG mousetrap=DIM himself do.PST	‘Азим сам изготовил мышеловку.’					
-92	37	qīn čīdow	NOM	EL	Y	NOM_EL	Ahmed as Saida qīn kix̌-t	PN EL PN difficult do-3SG	‘Ахмед издевается над Саидой.’					
-92	38	vidow	LOC	NOM	X	LOC_NOM	Ahmed-and mošin	PN-LOC car	‘У Ахмеда (есть) машина.’	In this example, the verb 'to be' is non-overt.				
-92	39	x̌ikīdow	NOM	OBL	TR	TR	Azim xu wix̌īӡ-en x̌ikīr-t	PN REFL key-PL look.for-3SG	‘Азим ищет ключи.’					
-92	40	rang čīdow	NOM	OBL	TR	TR	Azim=i xu divi rang čūd	PN=3SG REFL door color do.PST	‘Азим покрасил дверь.’					
-92	41	pirentow	NOM	OBL	TR	TR	yu kūd=i wam vorǰ piren-t	D3.M.SG dog=3SG D3.F.SG.OBL horse bite-PST	‘Собака укусила лошадь.’					
-92	42	redow	NOM	beOBL	Y	NOM_beOBL	Ahmed be-malā red	PN without-dwelling remain.PST	‘Ахмед лишился дома.’					
-92	43	anǰīvdow	NOM	OBL	TR	TR	Ahmed pīš anǰīv-d	PN cat catch-3SG	‘Ахмед ловит кошку.’					
-92	44	virix̌tow	NOM	OBL	TR	TR	Azim=i wi sêx virux̌-t	PN=3SG D3.M.SG.OBL stick break-PST	‘Азим сломал палку.’					
+36	1	boli	ACC	NOM	X	ACC_NOM	Petr-a boli glav-a	PN-ACC.SG болеть.PRS.3SG голова-NOM.SG	‘У Петара болит голова.’				боли	Петр-а боли глав-а
+36	2	ima	NOM	ACC	TR	TR	Petar ima grip	PN.NOM.SG иметь.PRS.3SG грипп.ACC.SG	‘Петар болеет гриппом.’				има	Петар има грип
+36	3	plaše se	NOM	GEN	Y	NOM_GEN	Petar se plaši ps-a	PN.NOM.SG REFL пугать.PRS.3SG собака-GEN.SG	‘Петар боится собаки.’				плаше се	Петар се плаши пс-а
+36	4	baci	NOM	ACC	TR	TR	Petar je baci-o kamen	PN.NOM.SG быть.PRS.3SG бросать-PART.PERF.M.SG камень.ACC.SG	‘Петар бросил камень.’				баци	Петар је баци-о камен
+36	5	ima dovolno	*	*	*		Petar ima dovoljno novc-a	PN.NOM.SG иметь.PRS.3SG достаточно деньги-GEN.SG	‘У Петара достаточно денег.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + NP-internal component).			има доволно	Петар има довољно новц-а
+36	6	liči	NOM	naACC	Y	NOM_naACC	Petar liči na Marij-u	PN.NOM.SG быть_похожим.PRS.3SG на PN-ACC.SG	‘Петар похож на Марию.’				личи	Петар личи на Мариј-у
+36	7	veruje	NOM	DAT	Y	NOM_DAT	Petar veruje Marij-i	PN.NOM.SG верить.PRS.3SG PN-DAT.SG	‘Петар верит Марии.’				веруjе	Петар верује Мариј-и
+36	8	uzeo	NOM	ACC	TR	TR	Petar je uze-o knjig-u	PN.NOM.SG быть.PRS.3SG взять-PART.PERF.M.SG книга-ACC.SG	‘Петар взял книгу.’				узео	Петар је узе-о књиг-у
+36	9	vidi	NOM	ACC	TR	TR	Petar vidi kuć-u	PN.NOM.SG видеть.PRS.3SG дом-ACC.SG	‘Петар видит дом.’				види	Петар види кућ-у
+36	10	utiči	NOM	naACC	Y	NOM_naACC	uzrast utiče na pamćenj-e	возраст.NOM.SG влиять.PRS.3SG на память-ACC.SG	‘Возраст влияет на пямять.’				утичи	узраст утиче на памћењ-е
+36	11	sreo	NOM	ACC	TR	TR	Petar je sre-o Marij-u	PN.NOM.SG быть.PRS.3SG встретить.PART.PERF.M.SG PN-ACC.SG	‘Петар встретил Марию.’				срео	Петар је сре-о Мариј-у
+36	12	ušao	NOM	uACC	Y	NOM_uACC	Petar je uša-o u kuć-u	PN.NOM.SG быть.PRS.3SG войти-PART.PERF.M.SG в дом-ACC.SG	‘Петар вошел в дом.’				ушао	Петар је уша-о у кућ-у
+36	13	pobedio	NOM	ACC	TR	TR	Petar je pobedi-o Marij-u	PN.NOM.SG быть.PRS.3SG победить-PART.PERF.M.SG PN-ACC.SG	‘Петар выиграл у Марии.’				победио	Петар је победи-о Мариј-у
+36	14	izašao	NOM	izGEN	Y	NOM_izGEN	Petar je izaša-o iz kuć-e	PN.NOM.SG быть.PRS.3SG выйти-PART.PERF.M.SG из дом-GEN.SG	‘Петар  вышел из дома.’				изашао	Петар је изаша-о из кућ-е
+36	15	tera	NOM	ACC	TR	TR	Petar tera krav-u	PN.NOM.SG гнать.PRS.3SG корова-ACC.SG	‘Петар гонит корову.’				тера	Петар тера крав-у
+36	16	savio	NOM	ACC	TR	TR	Petar je savi-o gran-u	PN.NOM.SG быть.PRS.3SG согнуть-PART.PERF.M.SG ветка-ACC.SG	‘Петар согнул ветку.’				савио	Петар је сави-о гран-у
+36	17	rekao	NOM	DAT	Y	NOM_DAT	Petar je reka-o Marij-i	PN.NOM.SG быть.PRS.3SG сказать-PART.PERF.M.SG PN-DAT.SG	‘Петар сказал Марии.’				рекао	Петар је река-о Мариј-и
+36	18	drži	NOM	ACC	TR	TR	Petar drži knjig-u	PN.NOM.SG держать.PRS.3SG книга-ACC.SG	‘Петар держит книгу.’				држи	Петар држи књиг-у
+36	19	stigao	NOM	ACC	TR	TR	Petar je stiga-o Marij-u	PN.NOM.SG быть.PRS.3SG догнать-PART.PERF.M.SG PN-ACC.SG	‘Петар догнал Марию.’				стигао	Петар је стига-о Мариј-у
+36	20	pomuzao	NOM	ACC	TR	TR	Petar je pomuza-o krav-u	PN.NOM.SG быть.PRS.3SG подоить-PART.PERF.M.SG корову-ACC.SG	‘Петар подоил корову.’				помузао	Петар је помуза-о крав-у
+36	21	stigao	NOM	doGEN	Y	NOM_doGEN	Petar je stiga-o do obal-e	PN.NOM.SG быть.PRS.3SG достичь-PART.PERF.M.SG до берег-GEN.SG.F	‘Петар достиг берега.’				стигао	Петар је стига-о до обал-е
+36	22	dodirnuo	NOM	ACC	TR	TR	Petar je dodirnu-o zid	PN.NOM.SG быть.PRS.3SG дотронуться-PART.PERF.M.SG стена.ACC.SG	‘Петар дотронулся до стены.’				додирнуо	Петар је додирну-о зид
+36	23	tuči se	NOM	sINS	Y	NOM_sINS	Petar se tuče sa Markom	PN.NOM.SG REFL бить.PRS.3SG с Марк-INS.SG	‘Петар дерется с Марком.’				тучи се	Петар се туче са Марком
+36	24	druži se	NOM	sINS	Y	NOM_sINS	Petar se druži sa Marij-om	PN.NOM.SG REFL дружить.PRS.3SG с PN-INS.SG	‘Петар дружит с Марией.’				дружи се	Петар се дружи са Мариј-ом
+36	25	misli	NOM	naACC	Y	NOM_naACC	Petar misli na Marij-u	PN.NOM.SG думать.PRS.3SG на PN-ACC.SG	‘Петар думает о Марии.’				мисли	Петар мисли на Мариј-у
+36	26	pojeo	NOM	ACC	TR	TR	Petar je poje-o jabuk-u	PN.NOM.SG быть.PRS.3SG съесть-PART.PERF.M.SG яблоко-ACC.SG	‘Петар съел яблоко.’				поjео	Петар је поје-о јабук-у
+36	27	ispržio	NOM	ACC	TR	TR	Petar je isprži-o rib-u	PN.NOM.SG быть.PRS.3SG пожарить-PART.PERF.M.SG рыба-ACC.SG	‘Петар пожарил рыбу.’				испржио	Петар је испржи-о риб-у
+36	28	čeka	NOM	ACC	TR	TR	Petar čeka Marij-u	PN.NOM.SG ждать.PRS.3SG PN-ACC.SG	‘Петар ждет Марию.’				чека	Петар чека Мариј-у
+36	29	zaboravio	NOM	naACC	Y	NOM_naACC	Petar je zaboravi-o na drug-i put	PN.NOM.SG быть.PRS.3SG забыть-PART.PERF.M.SG на другой-ACC.SG.M дорога.ACC.SG	‘Петар забыл о другой дороге.’				заборавио	Петар је заборави-о на друг-и пут
+36	30	zavisi	NOM	odGEN	Y	NOM_odGEN	Pamćenj-e zavisi od uzrast-a	память-NOM.SG зависеть.PRS.3SG от возраст-GEN.SG	‘Память зависит от возраста.’				зависи	Памћењ-е зависи од узраст-а
+36	31	pozvao	NOM	ACC	TR	TR	Petar je pozva-o Marij-u	PN.NOM.SG быть.PRS.3SG позвать-PART.PERF.M.SG PN-ACC.SG	‘Петар позвал Марию.’				позвао	Петар је позва-о Мариј-у
+36	32	upoznao	NOM	ACC	TR	TR	Petar je upozna-o Marij-u pre godin-u dan-a	PN.NOM.SG быть.PRS.3SG узнать-PART.PERF.M.SG PN-ACC.SG перед год-ACC.SG день-GEN.PL	‘Петар познакомился с Марией год тому назад.’				упознао	Петар је упозна-о Мариј-у пре годин-у дан-а
+36	33	poznaje	NOM	ACC	TR	TR	Petar poznaje Marij-u	PN.NOM.SG знать.PRS.3SG PN-ACC.SG	‘Петар знает Марию.’				познаjе	Петар познаје Мариј-у
+36	34	svira	NOM	ACC	TR	TR	Petar svira gitar-u	PN.NOM.SG играть.PRS.3SG гитара-ACC.SG	‘Петар играет на гитаре.’				свира	Петар свира гитар-у
+36	35	izbegava	NOM	ACC	TR	TR	Petar izbegava Mariju	PN.NOM.SG избегать.PRS.3SG PN-ACC.SG	‘Петар избегает Марию.’				избегава	Петар избегава Марију
+36	36	napravio	NOM	ACC	TR	TR	Petar je napravi-o bomb-u	PN.NOM.SG быть.PRS.3SG сделать-PART.PERF.M.SG бомба-ACC.SG	‘Петар сделал бомбу.’				направио	Петар је направи-о бомб-у
+36	37	maltretira	NOM	ACC	TR	TR	Petar maltretira Marij-u	PN.NOM.SG издеваться.PRS.3SG PN-ACC.SG	‘Петар издевается над Марией.’				малтретира	Петар малтретира Мариј-у
+36	38	ima	NOM	ACC	TR	TR	Petar ima kol-a	PN.NOM.SG иметь.PRS.3SG машина-ACC.PL	‘Петар имеет машину.’				има	Петар има кол-а
+36	39	traži	NOM	ACC	TR	TR	Petar traži ključ-eve	PN.NOM.SG искать.PRS.3SG ключ-ACC.PL	‘Петар ищет ключи.’				тражи	Петар тражи кључ-еве
+36	40	ofarbao	NOM	ACC	TR	TR	Petar je ofarba-o ograd-u	PN.NOM.SG быть.PRS.3SG покрасить-PART.PERF.M.SG забор-ACC.SG	‘Петар покрасил забор.’				офарбао	Петар је офарба-о оград-у
+36	41	uje	NOM	ACC	TR	TR	Pas je uje-o Petr-a	собака.NOM.SG быть.PRS.3SG укусить-PART.PERF.M.SG PN-ACC.SG	‘Собака укусила Петара.’				уjе	Пас је ује-о Петр-а
+36	42	ostao	NOM	bezGEN	Y	NOM_bezGEN	Petar je osta-o bez kuć-e	PN.NOM.SG быть.PRS.3SG остаться-PART.PERF.M.SG бeз дом-GEN.SG	‘Петар остался без дома.’				остао	Петар је оста-о без кућ-е
+36	43	juri	NOM	ACC	TR	TR	Petar juri mačk-u	PN.NOM.SG преследовать.PRS.3SG кошка-ACC.SG	‘Петар преследует кошку.’	CHECK			jури	Петар јури мачк-у
+36	44	polomio	NOM	ACC	TR	TR	Petar je polomi-o štap	PN.NOM.SG быть.PRS.3SG сломать-PART.PERF.M.SG палка.ACC.SG	‘Петар сломал палку.’				поломио	Петар је поломи-о штап
+36	45	laska	NOM	DAT	Y	NOM_DAT	Petar laska Marij-i	PN.NOM.SG льстить.PRS.3SG PN-DAT.SG	‘Петар льстит Марии.’				ласка	Петар ласка Мариј-и
+36	46	voli	NOM	ACC	TR	TR	Petar voli Marij-u	PN.NOM.SG любить.PRS.3SG PN-ACC.SG	‘Петар любит Марию.’				воли	Петар воли Мариј-у
+36	47	maše	NOM	INS	Y	NOM_INS	Petar maše maram-om	PN.NOM.SG махать.PRS.3SG платок-INS.SG.F	‘Петар машет платком.’				маше	Петар маше марам-ом
+36	48	mašta	NOM	oLOC	Y	NOM_oLOC	Petar mašta o nov-im kol-ima	PN.NOM.SG мечтать.PRS.3SG о новый.LOC.PL.N машина-LOC.PL	‘Петар мечтает о новой машине.’				машта	Петар машта о нов-им кол-има
+36	49	oprao	NOM	ACC	TR	TR	Petar je opra-o šolj-u	PN.NOM.SG быть.PRS.3SG вымыть-PART.PERF.M.SG чашка-ACC.SG	‘Петар вымыл чашку.’				опрао	Петар је опра-о шољ-у
+36	50	obukao	NOM	ACC	TR	TR	Petar je obuka-o pantalon-e	PN.NOM.SG быть.PRS.3SG надеть-PART.PERF.M.SG штаны-ACC.PL	‘Петар надел штаны.’				обукао	Петар је обука-о панталон-е
+36	51	zove se	NOM	NOM	Y	NOM_NOM	taj predmet se zove kompas	этот.NOM.SG.M предмет.NOM.SG REFL звать.PRS.3SG компас.NOM.SG	‘Этот предмет называется компас.’				зове се	тај предмет се зове компас
+36	52	kaznio	NOM	ACC	TR	TR	Petar je kazni-o sv-og sin-a	PN.NOM.SG быть.PRS.3SG наказать-PART.PERF.M.SG свой-ACC.SG сын-ACC.SG	‘Петар наказл своего сына.’				казнио	Петар је казни-о св-ог син-а
+36	53	napao	NOM	ACC	TR	TR	medved je napa-o pecaroš-a	PN.NOM.SG быть.PRS.3SG напасть-PART.PERF.M.SG рыбак-ACC.SG	‘Медведь напал на рыбака.’				напао	медвед је напа-о пецарош-а
+36	54	napulnila se	NOM	INS	Y	NOM_INS	kof-a se napuni-la vod-om	ведро.NOM.SG.F REFL наполнять-PART.PERF.F.SG вода-INS.SG	‘Ведро наполнилось водой.’				напулнила се	коф-а се напуни-ла вод-ом
+36	55	našao	NOM	ACC	TR	TR	Petar je naša-o ključ-eve	PN.NOM.SG быть.PRS.3SG найти-PART.PERF.M.SG ключ-АCC.PL	‘Петар нашел ключи.’				нашао	Петар је наша-о кључ-еве
+36	56	fali	DAT	NOM	X	DAT_NOM	Petr-u fali jedan dolar	PN-DAT.SG недоставать.PRS.3SG один.NOM.SG доллар.NOM.SG 	‘Петру недостает одного доллара.’				фали	Петр-у фали један долар
+36	57	mrzi	NOM	ACC	TR	TR	Petar mrzi Marij-u	PN.NOM.SG ненавидеть.PRS.3SG PN-ACC.SG	‘Петар ненавидит Марию.’				мрзи	Петар мрзи Мариј-у
+36	58	sviča se	DAT	NOM	X	DAT_NOM	Petr-u se sviđa ta košulj-a	PN-DAT.SG REFL нравиться.PRS.3SG этот.NOM.SG.F рубашка-NOM.SG	‘Петру нравится эта рубашка.’				свича се	Петр-у се свиђа та кошуљ-а
+36	59	potreban	DAT	NOM	X	DAT_NOM	Petr-u je potreban novac	PN-DAT.SG быть.PRS.3SG необходим.ADJ.NOM.SG деньги.NOM.SG	‘Петару нужны деньги.’	Non-verbal predicate			потребан	Петр-у је потребан новац
+36	60	opasan	INS	NOM	X	INS_NOM	grad je opasan zidin-ama	город.NOM.SG быть.PRS.3SG окружить.PART.PASS.NOM.SG.M городская_стена-INS.PL	‘Город окружен стеной.’	Non-verbal predicate (passive).			опасан	град је опасан зидин-ама
+36	61	ostalo	DAT	NOM	X	DAT_NOM	Petr-u je osta-lo deset dolar-a	PN-DAT.SG быть.PRS.3SG остаться-PART.PERF.N.SG десять доллар-GEN.PL	‘У Петара осталось 10 долларов.’				остало	Петр-у је оста-ло десет долар-а
+36	62	odgovorio	NOM	DAT	Y	NOM_DAT	Petar je odgovori-o učitelj-u	PN.NOM.SG быть.PRS.3SG ответить-PART.PERF.M.SG учитель-DAT.SG	‘Петар ответил учителю.’				одговорио	Петар је одговори-о учитељ-у
+36	63	otvorio	NOM	ACC	TR	TR	Petar je otvori-o tegl-u	PN.NOM.SG быть.PRS.3SG открыть-PART.PERF.M.SG банка-АCC	‘Петар открыл банку.’				отворио	Петар је отвори-о тегл-у
+36	64	razlikuje se	NOM	odGEN	Y	NOM_odGEN	moj-a košulj-a se razlikuje od tvoj-e	мой-NOM.SG.F рубашка-NOM.SG REFL различать.PRS.3SG от твой-GEN.SG.F	‘Моя рубашка отличается от твоей.’				разликуjе се	мој-а кошуљ-а се разликује од твој-е
+36	65	zaostao	NOM	zaINS	Y	NOM_zaINS	Petar je zaosta-o za Marij-om	PN.NOM.SG быть.PRS.3SG отстать-PART.PERF.M.SG за PN-INS.SG	‘Петар отстал от Марии.’				заостао	Петар је заоста-о за Мариј-ом
+36	66	ore	NOM	ACC	TR	TR	Petar ore njiv-u	PN.NOM.SG пахать.PRS.3SG поле-АCC.SG	‘Петар пашет поле.’				оре	Петар оре њив-у
+36	67	mirišu	NOM	naACC	Y	NOM_naACC	moj-e ruke miriš-u na benzin	мой-ΝΟΜ.PL.F рука-ΝΟΜ.PL пахнуть-PRS.3PL на бензин.ΑCC.SG	‘Мои руки пахнут бензином.’				миришу	мој-е руке мириш-у на бензин
+36	68	prešao	NOM	ACC	TR	TR	Petar je preša-o ulic-u	PN.NOM.SG быть.PRS.3SG перейти-PART.PERF.М.SG улица-ΑCC.SG	‘Петар перешел улицу.’				прешао	Петар је преша-о улиц-у
+36	69	otpevao	NOM	ACC	TR	TR	Petar je otpeva-o lep-u pesm-u	PN.NOM.SG быть.PRS.3SG спеть-PART.PERF.М.SG красивый-ACC.SG.F песня-ACC.SG	‘Петар спел красивую песню.’				отпевао	Петар је отпева-о леп-у песм-у
+36	70	napisao	NOM	ACC	TR	TR	Petar je napisa-o pism-o	PN.NOM.SG быть.PRS.3SG написать-PART.PERF.М.SG письмо-ACC.SG	‘Петар написал письмо.’				написао	Петар је написа-о писм-о
+36	71	popio	NOM	ACC	TR	TR	Petar je popi-o mlek-o	PN.NOM.SG быть.PRS.3SG выпить-PART.PERF.М.SG молоко-ACC.SG	‘Петар выпил молоко.’				попио	Петар је попи-о млек-о
+36	72	rastopio	NOM	ACC	TR	TR	Petar je rastopi-o komad olov-a	PN.NOM.SG быть.PRS.3SG расплавить-PART.PERF.М.SG кусок-ACC.SG свинец-GEN.SG.N	‘Петар расплавил кусок свинца.’				растопио	Петар је растопи-о комад олов-а
+36	73	odgovara	NOM	DAT	Y	NOM_DAT	taj kaiš odgovara moj-oj haljin-i	этот пояс.NOM.SG отвечать.PRS.3SG мой-DAT.SG.F платье-DAT.SG	‘Этот пояс подходит к моему платью.’				одговара	тај каиш одговара мој-ој хаљин-и
+36	74	napustio	NOM	ACC	TR	TR	Petar je napusti-o rodn-i grad	PN.NOM.SG быть.PRS.3SG покинуть-PART.PERF.М.SG родной-ACC.SG.M город.ACC.SG	‘Петар покинул родной город.’				напустио	Петар је напусти-о родн-и град
+36	75	pokriva	NOM	ACC	TR	TR	tepih pokriva ceo pod	ковер.NOM.SG покрывать.PRS.3SG весь.ACC.SG.M пол.ACC.SG	‘Ковер покрывает весь пол.’				покрива	тепих покрива цео под
+36	76	seča	NOM	GEN	Y	NOM_GEN	Petar se dobro seća kuć-e	PN.NOM.SG REFL хорошо помнить.PRS.3SG дом-GEN.SG	‘Петар хорошо помнит дом.’				сеча	Петар се добро сећа кућ-е
+36	77	pomagao	NOM	DAT	Y	NOM_DAT	Petar je pomaga-o Marij-i	PN.NOM.SG быть.PRS.3SG помочь-PART.PERF.М.SG PN-DAT.SG	‘Петар помог Марии.’				помагао	Петар је помага-о Мариј-и
+36	78	razumi	NOM	ACC	TR	TR	Petar razume francusk-i jezik	PN.NOM.SG понимать.PRS.3SG французский-ACC.SG.M язык.ACC.SG	‘Петар понимает французский язык.’				разуми	Петар разуме француск-и језик
+36	79	pogodila	NOM	uACC	Y	NOM_uACC	munja je pogodi-la u kuću	молния.NOM.SG быть.PRS.3SG попасть-PART.PERF.F.SG в дом-ACC.SG	‘Молния попала в дом.’				погодила	муња је погоди-ла у кућу
+36	80	posekao se	NOM	INS	Y	NOM_INS	Petar se poseka-o brijač-em	PN.NOM.SG REFL порезать-PART.PERF.M.SG бритва-INS.SG	‘Петар порезался бритвой.’				посекао се	Петар се посека-о бријач-ем
+36	81	zalepila se	NOM	zaACC	Y	NOM_zaACC	čaš-a se zalepi-la za sto	стакан-NOM.SG REFL приклеить-PART.PERF.F.SG за стол-ACC.SG	‘Стакан прилип к столу.’				залепила се	чаш-а се залепи-ла за сто
+36	82	izgubio	NOM	odGEN	Y	NOM_odGEN	Petar je izgubi-o od Marij-e	PN.NOM.SG быть.PRS.3SG проиграть-PART.PERF.М.SG от PN-GEN.SG	‘Петар проиграл Марии.’				изгубио	Петар је изгуби-о од Мариј-е
+36	83	obradovao se	NOM	DAT	Y	NOM_DAT	Petar se obradova-o pism-u	PN.NOM.SG REFL обрадовать-PART.PERF.M.SG письмо-DAT.SG	‘Петар обрадовался письму.’				обрадовао се	Петар се обрадова-о писм-у
+36	84	priča	NOM	sINS	Y	NOM_sINS	Petar priča sa Marij-om	PN.NOM.SG разговаривать.PRS.3SG с PN-INS	‘Петар разговаривает с Марией’				прича	Петар прича са Мариј-ом
+36	85	rodila	NOM	ACC	TR	TR	Marij-a je rodi-la sin-a	PN-NOM.SG быть.PRS.3SG родить-PART.PERF.F.SG сын-ACC.SG	‘Мария родила сына.’				родила	Мариј-а је роди-ла син-а
+36	86	ispala	DAT	NOM	X	DAT_NOM	Petr-u je ispa-la čaš-a	PN.DAT.SG быть.PRS.3SG выпасть-PART.PERF.F.SG стакан-NOM.SG	‘Петар уронил стакан.’				испала	Петр-у је испа-ла чаш-а
+36	87	upravlja	NOM	INS	Y	NOM_INS	Petar upravlja naš-im sel-om	PN.NOM.SG управлять.PRS.3SG наш-INS.SG.M село-INS.SG	‘Петар руководит нашим поселком.’				управља	Петар управља наш-им сел-ом
+36	88	nedostaje	DAT	NOM	X	DAT_NOM	Petr-u nedostaje Marij-a	PN.DAT.SG не_хватать.PRS.3SG PN-NOM.SG	‘Петар скучает по Марии.’				недостаjе	Петр-у недостаје Мариј-а
+36	89	sledi	NOM	ACC	TR	TR	Petar sledi Marij-u	PN.NOM.SG следовать.PRS.3SG PN-ACC.SG	‘Петар следует за Марией’				следи	Петар следи Мариј-у
+36	90	sišao	NOM	sGEN	Y	NOM_sGEN	Petar je siša-o s konj-a	PN.NOM.SG быть.PRS.3SG сойти-PART.PERF.М.SG с конь-GEN.SG	‘Петар слез с лошади.’				сишао	Петар је сиша-о с коњ-а
+36	91	sluša	NOM	ACC	TR	TR	Petar sluša radio	PN.NOM.SG слушать.PRS.3SG радио.ACC.SG	‘Петар слушает радио.’				слуша	Петар слуша радио
+36	92	sluša	NOM	ACC	TR	TR	Petar sluša mam-u	PN.NOM.SG слушать.PRS.3SG мама-ACC.SG	‘Петар слушается маму.’				слуша	Петар слуша мам-у
+36	93	čuje	NOM	ACC	TR	TR	Petar čuje muzik-u	PN.NOM.SG слышать.PRS.3SG музыка-ACC.SG	‘Петар слышит музыку.’				чуjе	Петар чује музик-у
+36	94	sjedinio se	NOM	sINS	Y	NOM_sINS	med se sjedini-o s mlek-om	мед.NOM.SG REFL соединить-PART.PERF.М.SG с молоко-INS.SG	‘Мед смешался с молоком.’				сjединио се	мед се сједини-о с млек-ом
+36	95	gleda	NOM	uACC	Y	NOM_uACC	Petar gleda u oblak-e	PN.NOM.SG смотреть.PRS.3SG в облако-ACC.PL	‘Петар смотрит на тучи.’				гледа	Петар гледа у облак-е
+36	96	skinuo	NOM	ACC	TR	TR	Petar je skinu-o košulj-u	PN.NOM.SG быть.PRS.3SG снять-PART.PERF.М.SG рубашка-ACC.SG	‘Петар снял рубашку.’				скинуо	Петар је скину-о кошуљ-у
+36	97	sanja	NOM	ACC	TR	TR	Petar sanja Marij-u	PN.NOM.SG видеть во сне.PRS.3SG PN -ACC.SG	‘Петару снится Мария.’				сања	Петар сања Мариј-у
+36	98	složio se	NOM	sINS	Y	NOM_sINS	Petar se složi-o s Marij-om	PN.NOM.SG REFL сложить-PART.PERF.М.SG с PN-INS.SG	‘Петар согласился с Марией.’				сложио се	Петар се сложи-о с Мариј-ом
+36	99	posvačao se	NOM	sINS	Y	NOM_sINS	Petar se posvađa-o s Marij-om	PN.NOM.SG REFL поссориться-PART.PERF.М.SG с PN-INS.SG	‘Петар поссорился с Марией.’				посвачао се	Петар се посвађа-о с Мариј-ом
+36	100	košta	NOM	ACC	TR	TR	ta šolj-a košta jedan dolar	этот.NOM.SG.F чашка-NOM.SG стоить.PRS.3SG один.ACC.SG.M доллар.ACC.SG	‘Эта чашка стоит 1 доллар.’				кошта	та шољ-а кошта jедан долар
+36	101	pukao	NOM	uACC	Y	NOM_uACC	Petar je puka-o u ptic-u	PN.NOM.SG быть.PRS.3SG выстрелить-PART.PERF.М.SG в птица-ACC.SG	‘Петар выстрелил в птицу.’				пукао	Петар је пука-о у птиц-у
+36	102	stavio	NOM	ACC	TR	TR	Petar je stavi-o šećer u šolj-u	PN.NOM.SG быть.PRS.3SG положить-PART.PERF.М.SG сахар.ACC.SG в чашка-ACC.SG	‘Петар насыпал сахар в чашку.’				ставио	Петар је стави-о шећер у шољ-у
+36	103	izgubio	NOM	ACC	TR	TR	Petar je izgubi-o ključ-eve	PN.NOM.SG быть.PRS.3SG потерять-PART.PERF.М.SG ключ-ACC.PL	‘Петар потерял ключи.’				изгубио	Петaр је изгуби-о кључ-еве
+36	104	potonula	NOM	uACC	Y	NOM_uACC	cepanic-a je potonu-l-a u vod-u	полено.NOM.SG быть.PRS.3SG потерять-PART.PERF.М.SG в вода-ACC.SG	‘Полено утонуло в воде.’				потонула	цепаниц-а је потону-л-а у вод-у
+36	105	ubio	NOM	ACC	TR	TR	Petar je ubi-o Marij-u	PN.NOM.SG быть.PRS.3SG убить-PART.PERF.М.SG PN-ACC.SG	‘Петар убил Марию.’				убио	Петар је уби-о Мариј-у
+36	106	udario	NOM	ACC	TR	TR	Petar je udari-o Marij-u	PN.NOM.SG быть.PRS.3SG ударить-PART.PERF.М.SG PN-ACC.SG	‘Петар ударил Марию.’				ударио	Петар је удари-о Мариј-у
+36	107	poljubio	NOM	ACC	TR	TR	Petar je poljubi-o Marij-u	PN.NOM.SG быть.PRS.3SG поцеловать-PART.PERF.М.SG PN-ACC.SG	‘Петар поцеловал Марию.’				пољубио	Петар је пољуби-о Мариј-у
+36	108	pročitao	NOM	ACC	TR	TR	Petar je pročita-o interesantn-u knjig-u	PN.NOM.SG быть.PRS.3SG прочитать-PART.PERF.М.SG интересный-ACC.SG.F книга-ACC.SG	‘Петар прочитал интересную книгу.’				прочитао	Петар је прочита-о интересантн-у књиг-у
+36	109	mrdnuo	NOM	INS	Y	NOM_INS	Petar je mrdnu-o prst-om	PN.NOM.SG быть.PRS.3SG пошевелить-PART.PERF.М.SG палец-INS.SG	‘Петар пошевелил пальцем.’				мрднуо	Петар је мрдну-о прст-ом
+36	110	poštuje	NOM	ACC	TR	TR	Petar poštuje Marij-u	PN.NOM.SG уважать.PRS.3SG PN-ACC.SG	‘Петар уважает Марию.’				поштуjе	Петар поштује Мариј-у
+36	111	gadi se	DAT	NOM	Y	DAT_NOM	Petr-u se gadi prljav-o posuđ-e	PN-DAT.SG REFL вызывать_отвращение.PRS.3SG грязный-NOM.SG.N посуда-NOM.SG	‘Петар брезгует грязной посудой’	CHECK			гади се	Петр-у се гади прљав-о посуђ-е
+36	112	zadovoljan	NOM	INS	Y	NOM_INS	Petar je zadovoljan svoj-im sin-om	PN.NOM.SG быть.PRS.3SG доволен.NOM.SG.M свой-INS.SG.M сын-INS.SG	‘Петар доволен своим сыном.’				задовољан	Петар је задовољан свој-им син-ом
+36	113	zaljubio	NOM	uACC	Y	NOM_uACC	Petar se zaljubi-o u Marij-u	PN.NOM.SG REFL влюбиться-PART.PERF.М.SG в PN-ACC.SG	‘Петар влюбился в Марию.’				заљубио	Петар се заљуби-о у Мариј-у
+36	114	ima poverenje	NOM	uACC	Y	NOM_uACC	Petar ima poverenj-e u Marij-u	PN.NOM.SG иметь.PRS.3SG доверие-ACC.SG в PN-ACC.SG	‘Петар доверяет Марии.’				има поверење	Петар има поверењ-е у Мариј-у
+36	115	žao	DAT	GEN	XY	DAT_GEN	Petru je žao svoj-e majk-e	PN.DAT.SG быть.PRS.3SG жаль свой-GEN.SG.F мама-GEN.SG	‘Петар жалеет свою мать.’	Non-verbal predicate.			жао	Петру је жао свој-е мајк-е
+36	116	zavidi	NOM	DAT	Y	NOM_DAT	Petar zavidi Marij-i	PN.NOM.SG завидовать.PRS.3SG PN-DAT.SG	‘Петар завидует Марии.’				завиди	Петар завиди Мариј-и
+36	117	ljuti se	NOM	naACC	Y	NOM_naACC	Petar se ljuti na Marij-u	PN.NOM.SG REFL сердить.PRS.3SG на PN-ACC.SG	‘Петар злится на Марию.’				љути се	Петар се љути на Мариј-у
+36	118	iznenadio se	NOM	DAT	Y	NOM_DAT	Petar se iznenadi-o t-om poklon-u	PN.NOM.SG REFL удивить-PART.PERF.М.SG этот-DAT.SG.M подарок-DAT.SG	‘Петар удивился этому подарку.’				изненадио се	Петар се изненади-о т-ом поклон-у
+36	119	voli	*	*	*		Petar voli čaj	PN.NOM.SG любить.PRS.3SG чай.ACC.SG	‘Петар любит чай.’	Not included in the database because this translation is semantically inaccurate.			воли	Петар воли чај
+36	120	uživa	NOM	uLOC	Y	NOM_uLOC	Petar uživa u vruć-em čaj-u	PN.NOM.SG наслаждаться.PRS.3SG в горячий-LOC.SG.M чай-LOC.SG	‘Петар наслаждается горячим чаем.’				ужива	Петар ужива у врућ-ем чај-у
+36	121	želi	NOM	ACC	TR	TR	Petar želi nov-i mobiln-i	PN.NOM.SG хотеть.PRS.3SG новый-ACC.SG.M мобильный-ACC.SG	‘Петер хочет новый мобильник.’				жели	Петар жели нов-и мобилн-и
+36	122	ljuti se	NOM	naACC	Y	NOM_naACC	Petar se ljuti na Marij-u	PN.NOM.SG REFL сердить.PRS.3SG на PN-ACC.SG	‘Петар сердится на Марию.’				љути се	Петар се љути на Мариј-у
+36	123	*	*	*	*		*	*	*				*	*
+36	124	rastužio	NOM	ACC	TR	TR	Petar je mnogo rastuži-o Marij-u	PN.NOM.SG быть.PRS.3SG очень огорчить-PART.PERF.М.SG PN-ACC.SG	‘Петар очень огорчил Марию.’				растужио	Петар је много растужи-о Мариј-у
+36	125	oduševljen	NOM	INS	Y	NOM_INS	Petar je bio oduševljen t-im grad-om	PN.NOM.SG быть.PRS.3SG быть-PART.PERF.М.SG восхитить.PART.PASS.NOM.SG этот-INS.SG.M город-INS.SG	‘Петар поразился этому городу.’	Non-verbal predicate (passive).			одушевљен	Петар је био одушевљен т-им град-ом
+36	126	prezira	NOM	ACC	TR	TR	Petar prezira Marij-u	PN.NOM.SG презирать.PRS.3SG PN-ACC.SG	‘Петар презирает Марию.’				презира	Петар презира Мариј-у
+36	127	rastužio se	NOM	zbogGEN	Y	NOM_zbogGEN	Petar se rastuži-o zbog sv-og sin-a	PN.NOM.SG REFL расстроить.PART.PERF.M.SG из-за свой-GEN.SG.M сын-GEN.SG	‘Петар расстроился из-за своего сына.’				растужио се	Петар се растужи-о због св-ог син-а
+36	128	besan	NOM	naACC	Y	NOM_naACC	Petar je besan na svoj-u kćerk-u	PN.NOM.SG быть.PRS.3SG зол.NOM.SG на свой-ACC.SG.F дочь-ACC.SG	‘Петар раздражается на свою дочь.’	Non-verbal predicate.			бесан	Петар је бесан на свој-у кћерк-у
+36	129	simpatiše	NOM	DAT	Y	NOM_DAT	Petar simpatiše Marij-i	PN.NOM.SG симпатизировать.PRS.3SG PN-DAT.SG	‘Петар симпатизирует Марии.’				симпатише	Петар симпатише Мариј-и
+36	130	stidi se	NOM	GEN	Y	NOM_GEN	Petar se stidi svoj-e visin-e	PN.NOM.SG REFL стыдить.PRS.3SG свой-GEN.SG.F рост-GEN.SG	‘Петар стесняется своего роста’				стиди се	Петар се стиди свој-е висин-е
+92	1	dārδ čīdow	LOC	NOM	X	LOC_NOM	Ahmed-and wi kāl dārδ kix̌-t	PN-LOC D3.M.SG.OBL head pain do-3SG	‘Ahmed has a headache.’		PN-LOC D3.M.SG.OBL голова боль делать-3SG	‘У Ахмеда болит голова.’		
+92	2	vidow	LOC	NOM	X	LOC_NOM	Lola-yand rāk kasali	PN-LOC cancer illness	‘Lola has cancer.’	In this example, the verb 'to be' is non-overt.	PN-LOC рак болезнь	‘У Лолы рак.’		
+92	3	x̌oǰ δêrtow	NOM	EL	Y	NOM_EL	Ahmed as kūd x̌oǰ δêr-t	PN EL dog fear AUX-3SG	‘Ahmed is afraid of the dog.’		PN EL собака страх AUX-3SG	‘Ахмед боится собаку.’		
+92	4	šič δêdow1	NOM	OBL	TR	TR	Ahmat=i yakum žīr šič δod	PN=3SG first stone throw give.PST	‘Ahmat threw a stone first.’		PN=3SG первый камень бросать давать.PST	‘Ахмат первым бросил камень.’		
+92	5	firīptow	LOC	NOM	X	LOC_NOM	Ahmed-and wi pūl wi-rd firop-t	PN-LOC D3.M.SG.OBL money D3.M.SG.OBL-LAT reach-3SG	‘Ahmed has enough money.’		PN-LOC D3.M.SG.OBL деньги D3.M.SG.OBL-LAT достигать-3SG	‘Ахмеду хватает денег.’		
+92	6	mūnand vidow	NOM	EQ	Y	NOM_EQ	Ahmat tar xu bob mūnand	PN EQ REFL grandfather similar	‘Ahmat resembles his grandfather.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	PN EQ REFL дедушка похожий	‘Ахмат похож на своего дедушку.’		
+92	7	bowar δêdow1	NOM	LAT	Y	NOM_LAT	Ahmat Azim-ard bowari δī-d	PN PN-LAT trust give-3SG	‘Ahmed believes Azim.’		PN PN-LAT доверие давать-3SG	‘Ахмат верит Азиму.’		
+92	8	zêx̌tow	NOM	OBL	TR	TR	Azim=i kitob as tažerka-ti zox̌-t	PN=3SG book EL shelf-SUP take-PST	‘Azim took a book from the shelf.’		PN=3SG книга EL полка-SUP брать-PST	‘Азим взял книгу с полки.’		
+92	9	wīntow	NOM	OBL	TR	TR	Azim čīd wīn-t	PN house see-3SG	‘Azim sees a house.’		PN дом видеть-3SG	‘Азим видит дом.’		
+92	10	tāsīr čīdow	NOM	SUP	Y	NOM_SUP	sol wux̌-ti tāsīr kix̌-t	years memory-SUP influence do-3SG	‘Age influences memory.’		годы память-SUP влияние делать-3SG	‘Возраст влияет на память.’		
+92	11	wīntow	NOM	OBL	TR	TR	Ahmat=i Azim půnd-ti wīn-t	PN=3SG PN road-SUP see-PST	‘Ahmat encountered Azim on the road.’		PN=3SG PN дорога-SUP видеть-PST	‘Ахмат встретил Азима на дороге.’		
+92	12	dedow	NOM	EQ	Y	NOM_EQ	Ahmed tar čīd ded	PN EQ house enter.PST	‘Ahmed entered the house.’		PN EQ дом входить.PST	‘Ахмед вошел в дом.’		
+92	13	yêdow	NOM	EL	Y	NOM_EL	Ahmed=i as Karamšo yod	PN=3SG EL PN bring.PST	‘Ahmed beat Karamsho.’		PN=3SG EL PN приносить.PST	‘Ахмед выиграл у Карамшо.’		
+92	14	nax̌tīdow	NOM	EL	Y	NOM_EL	Azim as čīd nax̌tūy-d	PN EL house go.out-PST	‘Azim went out of the house.’		PN EL дом выходить-PST	‘Азим вышел из дома.’		
+92	15	ay čīdow	NOM	OBL	TR	TR	Azim=i wam žow ay čūd wox̌ xīd	PN=3SG D3.F.SG.OBL cow expulsion do.PST grass eat.INF	‘Azim is driving the cow to graze.’		PN=3SG D3.F.SG.OBL корова изгнание делать.PST трава есть.INF	‘Азим гонит корову пастись.’		
+92	16	xām δêdow1	NOM	OBL	TR	TR	Ahmed=i wi xêx̌čak xām δod	PN=3SG D3.M.SG.OBL branch bend give.PST	‘Ahmed bent the branch.’		PN=3SG D3.M.SG.OBL ветка сгибать давать.PST	‘Ахмед согнул ветку.’		
+92	17	lůvdow	NOM	LAT	Y	NOM_LAT	Azim=i Lola-yard lůd: te tar čīd-aθ	PN=3SG PN-LAT say.PST go.IMPER EQ house-ADV	‘Azim told Lola: go home.’		PN=3SG PN-LAT сказать.PST идти.IMPER EQ дом-ADV	‘Азим сказал Лоле: “иди домой”.’		
+92	18	anǰīvdow	NOM	OBL	TR	TR	Ahmed=i mu kitob anǰūv-d	PN=3SG 1SG.OBL book hold-PST	‘Ahmed was holding my book.’		PN=3SG 1SG.OBL книга держать-PST	‘Ахмед держал мою книгу.’		
+92	19	daryov čīdow	NOM	OBL	TR	TR	Ahmed=i Karamšo daryov čūd	PN=3SG PN capture do.PST	‘Ahmed caught up with Karamsho.’		PN=3SG PN поймать делать.PST	‘Ахмед догнал Карамшо.’		
+92	20	δīwdow	NOM	OBL	TR	TR	Saida=yi žow δūy-d	PN=3SG cow milk-PST	‘Saida milked the cow.’		PN=3SG корова доить-PST	‘Саида подоила корову.’		
+92	21	firīptow	NOM	EQ	Y	NOM_EQ	Azim=i lodka=qati tar qoq-i firīp-t	PN=3SG boat=INS EQ dry-SUBST reach-PST	‘Azim reached the bank in a boat.’		PN=3SG лодка=INS EQ сухой-SUBST достигать-PST	‘Азим достиг берега на лодке.’		
+92	22	xu δêdow1	NOM	PREP.UP-LOC	Y	NOM_PREP.UP-LOC	Azim=i pi burǰ-and xu δod xu ɣažd sut	PN=3SG PREP.UP wall-LOC REFL give.PST ADD dirty go.M.PST	‘Azim touched the wall and got dirty.’		PN=3SG PREP.UP стена-LOC REFL давать.PST ADD грязный идти.M.PST	‘Азим дотронулся до стены и испачкался.’		
+92	23	δêd čīdow	NOM	INS	Y	NOM_INS	Naǰiba Safina=qati δêd kix̌-t	PN PN=INS quarrel do-3SG	‘Najiba is fighting with Safina.’		PN PN=INS ссора делать-3SG	‘Наджиба дерется с Сафиной.’		
+92	24	*	*	*	*		Ahmat=at Azim=en ox̌no-yen	PN=ADD PN=3PL friend-PL	‘Ahmed is friends with Azim.’	Not included in the database because X and Y are expressed as a coordinate NP.	PN=ADD PN=3PL друг-PL	‘Ахмат и Азим друзья.’		
+92	25	fikri čīdow	NOM	OBL	TR	TR	Azim Lola fikri kix̌-t	PN PN thought do-3SG	‘Ahmed is thinking about Lola.’		PN PN мысль делать-3SG	‘Азим думает о Лоле.’		
+92	26	xīdow	NOM	OBL	TR	TR	Ahmed=i mūn xūd	PN=3SG apple eat.PST	‘Ahmed ate an apple.’		PN=3SG яблоко есть.PST	‘Ахмед съел яблоко.’		
+92	27	pêxtow	NOM	OBL	TR	TR	Azim=i gūx̌t pêx-t	PN=3SG meat cook-PST	‘Azim fried the meat.’		PN=3SG мясо готовить-PST	‘Азим пожарил мясо.’		
+92	28	nīstow	NOM	PREP.UP	Y	NOM_PREP.UP	Azim pi Lola nūs-č	PN PREP.UP PN sit.M-PF	‘Azim is waiting for Lola.’		PN PREP.UP PN сидеть.M-PF	‘Азим ждал Лолу.’		
+92	29	rinīx̌tow	NOM	EL	Y	NOM_EL	Azim=i as wi yiga půnd rinūx̌-t	PN=3SG EL D3.M.SG.OBL another road forget-PST	‘Azim forgot about the other road.’		PN=3SG EL D3.M.SG.OBL другой дорога забывать-PST	‘Азим забыл о другой дороге.’		
+92	30	wobastā vidow	NOM	EL	Y	NOM_EL	Pamyat as vozrast wobastā	memory EL age dependent	‘Memory depends on age.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	память EL возраст зависимый	‘Память зависит от возраста.’		
+92	31	qīwdow	NOM	OBL	TR	TR	Azim=i xu nān qīw-d	PN=3SG REFL mother call-PST	‘Azim called his mother.’		PN=3SG REFL мать звать-PST	‘Азим позвал свою маму.’		
+92	32	balad sitow	NOM	INS	Y	NOM_INS	Ahmed Saida=qati yi sol tar piro balad sut	PN PN=INS one year EQ ahead familiar go.M.PST	‘Ahmed got to know Saida a year ago.’		PN PN=INS один год EQ назад знакомый идти.M.PST	‘Ахмед познакомился с Саидой год назад.’		
+92	33	fāmtow	NOM	OBL	TR	TR	Ahmed Saida fām-t	PN PN know-3SG	‘Ahmed knows Saida.’		PN PN знать-3SG	‘Ахмед знает Саиду.’		
+92	34	niwêzdow	NOM	SUP	Y	NOM_SUP	Ahmed gitar-ti niwoz-d	PN guitar-SUP play-3SG	‘Ahmed is playing the guitar.’		PN гитара-SUP играть-3SG	‘Ахмед играет на гитаре.’		
+92	35	zibidow	NOM	EL	Y	NOM_EL	Ahmed as Saida zibīn-t	PN EL PN jump-3SG	‘Ahmed avoids Saida.’		PN EL PN прыгать-3SG	‘Ахмед избегает Саиду.’		
+92	36	čīdow	NOM	OBL	TR	TR	Azim=i pūrg-anǰavīǰ=ak xůbaθ čūd	PN=3SG mousetrap=DIM himself do.PST	‘Azim made a mousetrap himself.’		PN=3SG мышеловка=DIM сам делать.PST	‘Азим сам изготовил мышеловку.’		
+92	37	qīn čīdow	NOM	EL	Y	NOM_EL	Ahmed as Saida qīn kix̌-t	PN EL PN difficult do-3SG	‘Ahmed is making fun of Saida.’		PN EL PN трудный делать-3SG	‘Ахмед издевается над Саидой.’		
+92	38	vidow	LOC	NOM	X	LOC_NOM	Ahmed-and mošin	PN-LOC car	‘Ahmed has a car.’	In this example, the verb 'to be' is non-overt.	PN-LOC машина	‘У Ахмеда есть машина.’		
+92	39	x̌ikīdow	NOM	OBL	TR	TR	Azim xu wix̌īӡ-en x̌ikīr-t	PN REFL key-PL look.for-3SG	‘Azim is looking for his keys.’		PN REFL ключ-PL искать-3SG	‘Азим ищет ключи.’		
+92	40	rang čīdow	NOM	OBL	TR	TR	Azim=i xu divi rang čūd	PN=3SG REFL door color do.PST	‘Azim painted the door.’		PN=3SG REFL дверь цвет делать.PST	‘Азим покрасил дверь.’		
+92	41	pirentow	NOM	OBL	TR	TR	yu kūd=i wam vorǰ piren-t	D3.M.SG dog=3SG D3.F.SG.OBL horse bite-PST	‘The dog bit the horse.’		D3.M.SG собака=3SG D3.F.SG.OBL лошадь кусать-PST	‘Собака укусила лошадь.’		
+92	42	redow	NOM	beOBL	Y	NOM_beOBL	Ahmed be-malā red	PN without-dwelling remain.PST	‘Ahmed lost hist house.’		PN без-жилище остаться.PST	‘Ахмед лишился дома.’		
+92	43	anǰīvdow	NOM	OBL	TR	TR	Ahmed pīš anǰīv-d	PN cat catch-3SG	‘Ahmed is trying to catch the cat.’		PN кошка ловить-3SG	‘Ахмед ловит кошку.’		
+92	44	virix̌tow	NOM	OBL	TR	TR	Azim=i wi sêx virux̌-t	PN=3SG D3.M.SG.OBL stick break-PST	‘Azim broke a stick.’		PN=3SG D3.M.SG.OBL палка ломать-PST	‘Азим сломал палку.’		
 92	45	*	*	*	*					No satisfactory translation has been obtained.				
-92	46	žīwǰdow	NOM	OBL	TR	TR	Ahmed=i Saida žīwǰ	PN=3SG PN love	‘Ахмед любит Саиду.’					
-92	47	δust weδdow	NOM	INS	Y	NOM_INS	Azim lemol-ak=qati δust weδ-d	PN headscarf-DIM=INS hand put-PST	‘Азим машет платком.’					
+92	46	žīwǰdow	NOM	OBL	TR	TR	Ahmed=i Saida žīwǰ	PN=3SG PN love	‘Ahmed loves Saida.’		PN=3SG PN любить	‘Ахмед любит Саиду.’		
+92	47	δust weδdow	NOM	INS	Y	NOM_INS	Azim lemol-ak=qati δust weδ-d	PN headscarf-DIM=INS hand put-PST	‘Azim is waving a handkerchief.’		PN платок-DIM=INS рука класть-PST	‘Азим машет платком.’		
 92	48	*	*	*	*					No satisfactory translation has been obtained.				
-92	49	zinêdow	NOM	OBL	TR	TR	Ahmed=i xu čīni zino-d	PN=3SG REFL cup wash-PST	‘Ахмед вымыл чашку.’					
-92	50	pinīwdow	NOM	OBL	TR	TR	Šamil=i xu laq-en pinūy-d	Shamil=3SG REFL pants-PL put.on-PST	‘Шамиль надел штаны.’					
-92	51	nům vidow	*	*	*		ik-di kočor nům kumpas	EM-D2.M.SG.OBL thing name compass	‘Эта вещь называется компас.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).				
-92	52	kud δêdow1	NOM	OBL	TR	TR	Azim=i xu puc kud δod	PN=3SG REFL son dog give.PST	‘Азим наказал своего сына.’					
-92	53	firīptow	NOM	OBL	TR	TR	xirs=i wi ribak-ti firīp-t	bear=3SG D3.M.SG.OBL fisherman-SUP reach-PST	‘Медведь напал на рыбака.’					
-92	54	pur sitow	NOM	INS	Y	NOM_INS	čalak x̌ac=qati pur sat	pail water=INS much go.PST	‘Ведро наполнилось водой.’					
-92	55	virêdow	NOM	OBL	TR	TR	Azim=i čilā virū-d půnd=ti	PN=3SG ring find-PST road=SUP	‘Азим нашел на дороге кольцо.’					
-92	56	na-firīptow	LAT	NOM	X	LAT_NOM	Šamil-ard aray somoni=ga na-firop-t	Šamil-LAT 3 somoni=more NEG-reach-3SG	‘Шамилю недостает трех сомони.’					
-92	57	bad vidow	LAT	NOM	X	LAT_NOM	Šamil-ard Azim dis=ga bad	Šamil-LAT PN such=more bad	‘Шамиль ненавидит Азима.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	58	xuš vidow	LAT	NOM	X	LAT_NOM	Azim-ard ik-am kurtā xuš	PN-LAT EM-D1.SG shirt pleasant	‘Азиму нравится эта рубашка.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	59	darkor vidow	LAT	NOM	X	LAT_NOM	Azim-ard pūl darkor	PN-LAT money needed	‘Азиму нужны деньги.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	60	vidow	NOM	OBLgarginuxa	Y	NOM_OBLgarginuxa	burǰ-en x̌ār garginūx̌ā	wall-PL city around	‘Стены окружают город.’	In this example, the verb 'to be' is non-overt.				
-92	61	redow	LOC	NOM	X	LOC_NOM	Azim-ǰā δis som=ga red	PN-LOC 10 somoni=more remain.PST	‘У Азима осталось еще 10 сомони.’					
-92	62	ǰawob δêdow1	NOM	LAT	Y	NOM_LAT	Azim=i molim-ard ǰawob δod	PN=3SG teacher-LAT answer give.PST	‘Азим ответил учителю.’					
-92	63	yet čīdow	NOM	OBL	TR	TR	Azim=i banka yet čūd	PN=3SG jar open do.PST	‘Азим открыл банку.’					
-92	64	farq vidow	NOM	EL	Y	NOM_EL	mu kurtā as tu kurtā farq	1SG.OBL shirt EL 2SG shirt difference	‘Моя рубашка отличается от твоей.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	65	zibo δêdow2	NOM	EL	Y	NOM_EL	Azim as Lola zibo δod	PN EL PN behind fall.PST	‘Азим отстал от Лолы.’					
-92	66	čīntow	NOM	OBL	TR	TR	Azim agorod čůn-t	PN garden dig-3SG	‘Азим копает огород.’					
-92	67	bůy δêdow2	*	*	*		wi δust-en benzin bůy δiy-en	D3.M.SG.OBL hand-PL oil smell fall-3PL	‘Мои руки пахнут бензином.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-92	68	naɣ̌ǰīdow	NOM	EL	Y	NOM_EL	Azim as půnd naɣ̌ǰī-d	PN EL road pass-PST	‘Азим пересек дорогу.’					
-92	69	lůdow	NOM	OBL	TR	TR	Lola=yi xušrūy soz lůd	PN=3SG beautiful song sing.PST	‘Лола спела красивую песню.’					
-92	70	nivištow	NOM	OBL	TR	TR	Lola=yi xāt niviš-t	PN=3SG letter write-PST	‘Лола написала письмо.’					
-92	71	birêx̌tow	NOM	OBL	TR	TR	Lola=yi x̌ūvd birox̌-t	PN=3SG milk drink-PST	‘Лола выпила молоко.’					
-92	72	ob čīdow	NOM	OBL	TR	TR	Azim=i tillo kande ob čūd	PN=3SG gold piece water do.PST	‘Азим расплавил кусок золота.’					
-92	73	ǰūr yatow	NOM	INS	Y	NOM_INS	Ik-am tasma mu kurtā=qati ǰūr yoδ-d	EM-D1.SG belt 1SG.OBL dress=INS pair come-3SG	‘Этот пояс подходит к моему платью.’					
-92	74	tark čīdow	NOM	OBL	TR	TR	Azim=i xu x̌ār tark čūd	PN=3SG REFL city leave do.PST	‘Азим покинул свой город.’					
-92	75	čust čīdow	NOM	OBL	TR	TR	pilês fuk pol čust kix̌-t	carpet all floor closed do-3SG	‘Ковер покрывает весь пол.’					
-92	76	fāmtow	NOM	OBL	TR	TR	Saida di čīd xipaδ fam-t	PN D2.M.SG.OBL house well know-3SG	‘Саида хорошо помнит дом.’					
-92	77	yordam čīdow	NOM	LAT	Y	NOM_LAT	Šamil=i Lola-yard yordam čūd	Shamil=3SG PN-LAT help do.PST	‘Шамиль помог Лоле.’					
-92	78	fāmtow	NOM	OBL	TR	TR	Saida xuɣ̌nůni fam-t	PN Shughni know-3SG	‘Саида понимает шугнанский язык.’					
-92	79	δêdow1	NOM	OBL	TR	TR	otex̌ak=ta čīd δod	lightning=EM house give.PST	‘Молния попала в дом.’					
-92	80	xu zaxmi čīdow	NOM	INS	Y	NOM_INS	Azim=i xu têɣ-ak=qati zaxmi čūd	PN=3SG REFL razor-DIM=INS injured do.PST	‘Азим порезался бритвой.’					
-92	81	xax̌ sitow	NOM	SUP	Y	NOM_SUP	stakan stol-ti xax̌ sut	glass table-SUP hard go.PST	‘Стакан прилип к столу.’					
-92	82	na-yêdow	NOM	EL	Y	NOM_EL	Šamil=i as Azima na-yo-d	PN=3SG EL PN NEG-win-PST	‘Шамиль проиграл Азиму.’					
-92	83	xuš sitow	NOM	EQ	Y	NOM_EQ	Azim tar wi xāt xuš sut	PN EQ D3.M.SG.OBL letter happy go.PST	‘Азим обрадовался письму.’					
-92	84	naqli čīdow	NOM	INS	Y	NOM_INS	Azim Lola=qati naqli kix̌-t	PN PN=INS conversation do-3SG	‘Азим разговаривает с Лолой.’					
-92	85	vīdow	NOM	OBL	TR	TR	Lola=yi puc vū-d	PN=3SG son bring-PST	‘Лола родила сына.’					
-92	86	pitêwdow	NOM	OBL	TR	TR	Azim=i čaška pitêw-d	PN=3SG cup drop-PST	‘Азим уронил чашку.’					
-92	87	čīx̌tow	NOM	OBL	TR	TR	Azim māš x̌ār čos-t	PN 1PL city look-3SG	‘Азим руководит нашим городом.’					
-92	88	dargil sitow	NOM	SUP	Y	NOM_SUP	Azim Lola-ti dargīl suδǰ	PN PN-SUP sad go.PF.M	‘Азим скучает по Лоле.’					
-92	89	tīdow	NOM	OBLdamti	Y	NOM_OBLdamti	Azim Lola dām-ti tīz-d	PN PN back-SUP go-3SG	‘Азим следует за Лолой.’					
-92	90	x̌āvdow	NOM	EL-SUP	Y	NOM_EL-SUP	Azim as vorǰ-ti xāv-d	PN EL horse-SUP descend-PST	‘Азим слез с лошади.’					
-92	91	niɣix̌tow	NOM	OBL	TR	TR	Lola radio niɣůɣ̌-d	PN radio listen-3SG	‘Лола слушает радио.’					
-92	92	niɣix̌tow	NOM	OBL	TR	TR	Lola xu nān niɣůɣ̌-d	PN REFL mother listen-3SG	‘Лола слушается свою маму.’					
-92	93	x̌īdow	NOM	OBL	TR	TR	Azim soz x̌īn-t	PN song hear-3SG	‘Азим слышит песню.’					
-92	94	alalaš sitow	NOM	INS	Y	NOM_INS	Asal x̌uvd=qati alalaš sut	honey milk=INS mix go.PST	‘Мед смешался с молоком.’					
-92	95	čīx̌tow	NOM	EQ	Y	NOM_EQ	Azim tar abri-yen čos-t	PN EQ cloud-PL look-3SG	‘Азим смотрит на тучи.’					
-92	96	weδdow	NOM	OBL	TR	TR	Azim xu kurtā weδ-d	PN REFL shirt take_off-PST	‘Азим снял рубашку.’					
-92	97	xūδm-and wīntow	NOM	OBL	TR	TR	Azim Lola xu xūδm-and wīn-t	PN PN REFL dream-LOC see-3SG	‘Азиму снится Лола.’					
-92	98	rozi sitow	NOM	INS	Y	NOM_INS	Ahmed Saida=qati rozi sut	PN PN=INS contented become.PST	‘Ахмед согласился с Саидой.’					
-92	99	δêd sitow	NOM	INS	Y	NOM_INS	Naǰiba Safina=qati δêd sat	PN PN=INS quarrel become.F.PST	‘Наджиба поссорилась с Саидой.’					
-92	100	vidow	*	*	*		yid garδā 3 som	D2.SG bread 3 somoni	‘Этот хлеб стоит три сомони.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).				
-92	101	poθ weδdow	NOM	SUP	Y	NOM_SUP	Šamil=i wam wiδič-ti poθ weδd at yā wam-ti na-angixt	Šamil=3SG D3.F.SG.OBL bird-SUP shooting put.PST ADD D3.F.SG D3.F.SG.OBL-SUP NEG-hit.PST	‘Шамиль выстрелил (пустил пулю) в птицу, но она (пуля) в нее не попала.’					
-92	102	čīdow	NOM	OBL	TR	TR	Šamil=i qand ar xu čīni čūd	Šamil=3SG sugar PREP.DOWN REFL cup do.PST	‘Шамиль насыпал сахар в чашку.’					
-92	103	binêstow	NOM	OBL	TR	TR	yu=yi xu wix̌īӡ-en binêst	D3.M.SG=3SG REFL key-PL lose.PST	‘Он потерял ключи.’					
-92	104	ɣůt nestow	NOM	PREP.DOWN	Y	NOM_PREP.DOWN	yu δorg ar x̌ac ɣůt nūst	D3.M.SG stick PREP.DOWN water diving sit.PST	‘Полено утонуло в воде.’					
-92	105	zīdow	NOM	OBL	TR	TR	Šamil=i Azim zīd	PN=3SG PN kill.PST	‘Шамиль убил Азима.’					
-92	106	δêdow1	NOM	OBL	TR	TR	Šamil=i Azim δod	PN=3SG PN give.PST	‘Шамиль ударил Азима.’					
-92	107	bā čīdow	NOM	OBL	TR	TR	Ahmed=i Saida bā ču	PN=3SG PN kiss do.PST	‘Ахмед поцеловал Саиду.’					
-92	108	x̌êydow	NOM	OBL	TR	TR	Karamšo=yi aǰoyīb kitob x̌êyd	PN=3SG interesting book read.PST	‘Карамшо прочитал интересную книгу.’					
-92	109	ǰumbentow	NOM	OBL	TR	TR	Šamil=i xu angix̌t ǰumbent	PN=3SG REFL finger move.PST	‘Шамиль пошевелил пальцем.’					
-92	110	urmat čīdow	NOM	OBL	TR	TR	Šamil Azim urmat kix̌-t	PN PN respect do-3SG	‘Шамиль уважает Азима.’					
+92	49	zinêdow	NOM	OBL	TR	TR	Ahmed=i xu čīni zino-d	PN=3SG REFL cup wash-PST	‘Ahmed washed the cup.’		PN=3SG REFL чашка мыть-PST	‘Ахмед вымыл чашку.’		
+92	50	pinīwdow	NOM	OBL	TR	TR	Šamil=i xu laq-en pinūy-d	PN=3SG REFL pants-PL put.on-PST	‘Shamil put on his trousers.’		PN=3SG REFL штаны-PL надевать-PST	‘Шамиль надел штаны.’		
+92	51	nům vidow	*	*	*		ik-di kočor nům kumpas	EM-D2.M.SG.OBL thing name compass	‘This object is called a compass.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	EM-D2.M.SG.OBL вещь имя компас	‘Эта вещь называется компас.’		
+92	52	kud δêdow1	NOM	OBL	TR	TR	Azim=i xu puc kud δod	PN=3SG REFL son dog give.PST	‘Azim punished his son.’		PN=3SG REFL сын собака давать.PST	‘Азим наказал своего сына.’		
+92	53	firīptow	NOM	SUP	Y	NOM_SUP	xirs=i wi ribak-ti firīp-t	bear=3SG D3.M.SG.OBL fisherman-SUP reach-PST	‘A bear attacked a fisherman.’		медведь=3SG D3.M.SG.OBL рыбак-SUP достигать-PST	‘Медведь напал на рыбака.’		
+92	54	pur sitow	NOM	INS	Y	NOM_INS	čalak x̌ac=qati pur sat	pail water=INS much go.F.PST	‘The bucket filled with water.’		ведро вода=INS много идти.F.PST	‘Ведро наполнилось водой.’		
+92	55	virêdow	NOM	OBL	TR	TR	Azim=i čilā virū-d půnd=ti	PN=3SG ring find-PST road=SUP	‘Azim found a ring on the road.’		PN=3SG кольцо находить-PST дорога=SUP	‘Азим нашел на дороге кольцо.’		
+92	56	na-firīptow	LAT	NOM	X	LAT_NOM	Šamil-ard aray somoni=ga na-firop-t	PN-LAT 3 somoni=more NEG-reach-3SG	‘Shamil is three somoni short.’		PN-LAT 3 сомони=еще NEG-достигать-3SG	‘Шамилю недостает трех сомони.’		
+92	57	bad vidow	LAT	NOM	X	LAT_NOM	Šamil-ard Azim dis=ga bad	PN-LAT PN such=more bad	‘Shamil hates Azim.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	PN-LAT PN такой=еще плохой	‘Шамиль ненавидит Азима.’		
+92	58	xuš vidow	LAT	NOM	X	LAT_NOM	Azim-ard ik-am kurtā xuš	PN-LAT EM-D1.SG shirt pleasant	‘Azim likes this shirt.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	PN-LAT EM-D1.SG рубашка приятный	‘Азиму нравится эта рубашка.’		
+92	59	darkor vidow	LAT	NOM	X	LAT_NOM	Azim-ard pūl darkor	PN-LAT money needed	‘Azim needs money.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	PN-LAT деньги нужен	‘Азиму нужны деньги.’		
+92	60	vidow	NOM	OBLgarginuxa	Y	NOM_OBLgarginuxa	burǰ-en x̌ār garginūx̌ā	wall-PL city around	‘Walls surround the city.’	In this example, the verb 'to be' is non-overt.	стена-PL город вокруг	‘Стены окружают город.’		
+92	61	redow	P.LOC	NOM	X	P.LOC_NOM	Azim-ǰā δis som=ga red	PN-P.LOC 10 somoni=more remain.PST	‘Azim has ten somoni left.’		PN-P.LOC 10 сомони=еще оставаться.PST	‘У Азима осталось еще 10 сомони.’		
+92	62	ǰawob δêdow1	NOM	LAT	Y	NOM_LAT	Azim=i molim-ard ǰawob δod	PN=3SG teacher-LAT answer give.PST	‘Azim answered the teacher.’		PN=3SG учитель-LAT ответ давать.PST	‘Азим ответил учителю.’		
+92	63	yet čīdow	NOM	OBL	TR	TR	Azim=i banka yet čūd	PN=3SG jar open do.PST	‘Azim opened a can.’		PN=3SG банка открывать делать.PST	‘Азим открыл банку.’		
+92	64	farq vidow	NOM	EL	Y	NOM_EL	mu kurtā as tu kurtā farq	1SG.OBL shirt EL 2SG shirt difference	‘My shirt is different from yours.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	1SG.OBL рубашка EL 2SG рубашка отличие	‘Моя рубашка отличается от твоей.’		
+92	65	zibo δêdow2	NOM	EL	Y	NOM_EL	Azim as Lola zibo δod	PN EL PN behind fall.PST	‘Azim fell behind Lola.’		PN EL PN сзади падать.PST	‘Азим отстал от Лолы.’		
+92	66	čīntow	NOM	OBL	TR	TR	Azim agorod čůn-t	PN garden dig-3SG	‘Azim is digging the garden.’		PN огород копать-3SG	‘Азим копает огород.’		
+92	67	bůy δêdow2	*	*	*		wi δust-en benzin bůy δiy-en	D3.M.SG.OBL hand-PL oil smell fall-3PL	‘My hands smell of gasoline.’	Not included in the database because Y is expressed as an NP-internal modifier.	D3.M.SG.OBL рука-PL нефть пахнуть падать-3PL	‘Мои руки пахнут бензином.’		
+92	68	naɣ̌ǰīdow	NOM	EL	Y	NOM_EL	Azim as půnd naɣ̌ǰī-d	PN EL road pass-PST	‘Azim crossed the road.’		PN EL дорога проходить-PST	‘Азим пересек дорогу.’		
+92	69	lůdow	NOM	OBL	TR	TR	Lola=yi xušrūy soz lůd	PN=3SG beautiful song sing.PST	‘Lola sang a beautiful song.’		PN=3SG красивый песня петь.PST	‘Лола спела красивую песню.’		
+92	70	nivištow	NOM	OBL	TR	TR	Lola=yi xāt niviš-t	PN=3SG letter write-PST	‘Lola wrote a letter.’		PN=3SG письмо писать-PST	‘Лола написала письмо.’		
+92	71	birêx̌tow	NOM	OBL	TR	TR	Lola=yi x̌ūvd birox̌-t	PN=3SG milk drink-PST	‘Lola drank the milk.’		PN=3SG молоко пить-PST	‘Лола выпила молоко.’		
+92	72	ob čīdow	NOM	OBL	TR	TR	Azim=i tillo kande ob čūd	PN=3SG gold piece water do.PST	‘Azim melted a piece of gold.’		PN=3SG золото кусок вода делать.PST	‘Азим расплавил кусок золота.’		
+92	73	ǰūr yatow	NOM	INS	Y	NOM_INS	Ik-am tasma mu kurtā=qati ǰūr yoδ-d	EM-D1.SG belt 1SG.OBL dress=INS pair come-3SG	‘This belt goes well with my dress.’		EM-D1.SG пояс 1SG.OBL платье=INS пара приходить-3SG	‘Этот пояс подходит к моему платью.’		
+92	74	tark čīdow	NOM	OBL	TR	TR	Azim=i xu x̌ār tark čūd	PN=3SG REFL city leave do.PST	‘Azim left his native city.’		PN=3SG REFL город покидать делать.PST	‘Азим покинул свой город.’		
+92	75	čust čīdow	NOM	OBL	TR	TR	pilês fuk pol čust kix̌-t	carpet all floor closed do-3SG	‘The carpet covers the whole floor.’		ковер весь пол покрытый делать-3SG	‘Ковер покрывает весь пол.’		
+92	76	fāmtow	NOM	OBL	TR	TR	Saida di čīd xipaδ fam-t	PN D2.M.SG.OBL house well know-3SG	‘Saida remembers the house well.’		PN D2.M.SG.OBL дом хорошо знать-3SG	‘Саида хорошо помнит дом.’		
+92	77	yordam čīdow	NOM	LAT	Y	NOM_LAT	Šamil=i Lola-yard yordam čūd	PN=3SG PN-LAT help do.PST	‘Shamil helped Lola.’		PN=3SG PN-LAT помощь делать.PST	‘Шамиль помог Лоле.’		
+92	78	fāmtow	NOM	OBL	TR	TR	Saida xuɣ̌nůni fam-t	PN Shughni know-3SG	‘Saida understands Shughni.’		PN шугнанский знать-3SG	‘Саида понимает шугнанский язык.’		
+92	79	δêdow1	NOM	OBL	TR	TR	otex̌ak=ta čīd δod	lightning=EM house give.PST	‘Lightning struck the house.’		молни=EM дом давать.PST	‘Молния попала в дом.’		
+92	80	xu zaxmi čīdow	NOM	INS	Y	NOM_INS	Azim=i xu têɣ-ak=qati zaxmi čūd	PN=3SG REFL razor-DIM=INS injured do.PST	‘Azim cut himself with a razor.’		PN=3SG REFL бритва-DIM=INS раненый делать.PST	‘Азим порезался бритвой.’		
+92	81	xax̌ sitow	NOM	SUP	Y	NOM_SUP	stakan stol-ti xax̌ sut	glass table-SUP hard go.M.PST	‘The glass got stuck to the table.’		стакан стол-SUP твердый идти.M.PST	‘Стакан прилип к столу.’		
+92	82	na-yêdow	NOM	EL	Y	NOM_EL	Šamil=i as Azima na-yo-d	PN=3SG EL PN NEG-win-PST	‘Shamil lost to Azim.’		PN=3SG EL PN NEG-побеждать-PST	‘Шамиль проиграл Азиму.’		
+92	83	xuš sitow	NOM	EQ	Y	NOM_EQ	Azim tar wi xāt xuš sut	PN EQ D3.M.SG.OBL letter happy go.M.PST	‘Azim was glad about the letter.’		PN EQ D3.M.SG.OBL письмо счастливый идти.M.PST	‘Азим обрадовался письму.’		
+92	84	naqli čīdow	NOM	INS	Y	NOM_INS	Azim Lola=qati naqli kix̌-t	PN PN=INS conversation do-3SG	‘Azim is speaking with Lola.’		PN PN=INS разговор делать-3SG	‘Азим разговаривает с Лолой.’		
+92	85	vīdow	NOM	OBL	TR	TR	Lola=yi puc vūd	PN=3SG son bring.PST	‘Lola gave birth to a son.’		PN=3SG сын нести.PST	‘Лола родила сына.’		
+92	86	pitêwdow	NOM	OBL	TR	TR	Azim=i čaška pitêw-d	PN=3SG cup drop-PST	‘Azim dropped the glass.’		PN=3SG чашка ронять-PST	‘Азим уронил чашку.’		
+92	87	čīx̌tow	NOM	OBL	TR	TR	Azim māš x̌ār čos-t	PN 1PL city look-3SG	‘Azim runs our town.’		PN 1PL город смотреть-3SG	‘Азим руководит нашим городом.’		
+92	88	dargil sitow	NOM	SUP	Y	NOM_SUP	Azim Lola-ti dargīl suδǰ	PN PN-SUP sad go.M.PF	‘Azim misses Lola.’		PN PN-SUP грустный идти.M.PF	‘Азим скучает по Лоле.’		
+92	89	tīdow	NOM	OBLdamti	Y	NOM_OBLdamti	Azim Lola dām-ti tīz-d	PN PN back-SUP go-3SG	‘Azim follows Lola.’		PN PN зад-SUP идти-3SG	‘Азим следует за Лолой.’		
+92	90	xāvdow	NOM	EL-SUP	Y	NOM_EL-SUP	Azim as vorǰ-ti xāv-d	PN EL horse-SUP descend-PST	‘Azim got down from the horse.’		PN EL лошадь-SUP спускаться-PST	‘Азим слез с лошади.’		
+92	91	niɣix̌tow	NOM	OBL	TR	TR	Lola radio niɣůɣ̌-d	PN radio listen-3SG	‘Lola is listening to radio.’		PN радио слушать-3SG	‘Лола слушает радио.’		
+92	92	niɣix̌tow	NOM	OBL	TR	TR	Lola xu nān niɣůɣ̌-d	PN REFL mother listen-3SG	‘Lola obeys his mother.’		PN REFL мать слушать-3SG	‘Лола слушается свою маму.’		
+92	93	x̌īdow	NOM	OBL	TR	TR	Azim soz x̌īn-t	PN song hear-3SG	‘Azim hears the music.’		PN песня слышать-3SG	‘Азим слышит песню.’		
+92	94	alalaš sitow	NOM	INS	Y	NOM_INS	Asal x̌uvd=qati alalaš sut	honey milk=INS mix go.M.PST	‘The honey got mixed with the milk.’		мед молоко=INS смешиваться идти.M.PST	‘Мед смешался с молоком.’		
+92	95	čīx̌tow	NOM	EQ	Y	NOM_EQ	Azim tar abri-yen čos-t	PN EQ cloud-PL look-3SG	‘Azim is looking at the clouds.’		PN EQ облако-PL смотреть-3SG	‘Азим смотрит на тучи.’		
+92	96	weδdow	NOM	OBL	TR	TR	Azim xu kurtā weδ-d	PN REFL shirt take_off-PST	‘Azim took off his shirt.’		PN REFL рубашка снимать-PST	‘Азим снял рубашку.’		
+92	97	xūδm-and wīntow	NOM	OBL	TR	TR	Azim Lola xu xūδm-and wīn-t	PN PN REFL dream-LOC see-3SG	‘Azim dreams about Lola.’		PN PN REFL сон-LOC видеть-3SG	‘Азиму снится Лола.’		
+92	98	rozi sitow	NOM	INS	Y	NOM_INS	Ahmed Saida=qati rozi sut	PN PN=INS contented go.M.PST	‘Ahmed agreed with Saida.’		PN PN=INS довольный идти.M.PST	‘Ахмед согласился с Саидой.’		
+92	99	δêd sitow	NOM	INS	Y	NOM_INS	Naǰiba Safina=qati δêd sat	PN PN=INS quarrel go.F.PST	‘Najiba had a quarrel with Saida.’		PN PN=INS ссориться идти.F.PST	‘Наджиба поссорилась с Саидой.’		
+92	100	vidow	*	*	*		yid garδā 3 som	D2.SG bread 3 somoni	‘This cup costs three somoni.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	D2.SG хлеб 3 сомони	‘Этот хлеб стоит три сомони.’		
+92	101	poθ weδdow	NOM	SUP	Y	NOM_SUP	Šamil=i wam wiδič-ti poθ weδd at yā wam-ti na-angix-t	PN=3SG D3.F.SG.OBL bird-SUP shooting put.PST ADD D3.F.SG D3.F.SG.OBL-SUP NEG-hit-PST	‘Shamil shot (let a bullet go) at the bird, but it (the bullet) did not hit it.’		PN=3SG D3.F.SG.OBL птица-SUP стрельба класть.PST ADD D3.F.SG D3.F.SG.OBL-SUP NEG-попасть-PST	‘Шамиль выстрелил (пустил пулю) в птицу, но она (пуля) в нее не попала.’		
+92	102	čīdow	NOM	OBL	TR	TR	Šamil=i qand ar xu čīni čūd	PN=3SG sugar PREP.DOWN REFL cup do.PST	‘Shamil poured the sugar into the cup.’		PN=3SG сахар PREP.DOWN REFL чашка делать.PST	‘Шамиль насыпал сахар в чашку.’		
+92	103	binêstow	NOM	OBL	TR	TR	yu=yi xu wix̌īӡ-en binês-t	D3.M.SG=3SG REFL key-PL lose-PST	‘He lost his keys.’		D3.M.SG=3SG REFL ключ-PL терять-PST	‘Он потерял ключи.’		
+92	104	ɣůt nīstow	NOM	PREP.DOWN	Y	NOM_PREP.DOWN	yu δorg ar x̌ac ɣůt nūs-t	D3.M.SG stick PREP.DOWN water diving sit-PST	‘The log sank in the water.’		D3.M.SG палка PREP.DOWN вода нырять сидеть-PST	‘Полено утонуло в воде.’		
+92	105	zīdow	NOM	OBL	TR	TR	Šamil=i Azim zīd	PN=3SG PN kill.PST	‘Shamil killed Azim.’		PN=3SG PN убивать.PST	‘Шамиль убил Азима.’		
+92	106	δêdow1	NOM	OBL	TR	TR	Šamil=i Azim δod	PN=3SG PN give.PST	‘Shamil hit Azim.’		PN=3SG PN давать.PST	‘Шамиль ударил Азима.’		
+92	107	bā čīdow	NOM	OBL	TR	TR	Ahmed=i Saida bā ču	PN=3SG PN kiss do.PST	‘Ahmed kissed Saida.’		PN=3SG PN целовать делать.PST	‘Ахмед поцеловал Саиду.’		
+92	108	x̌êydow	NOM	OBL	TR	TR	Karamšo=yi aǰoyīb kitob x̌êyd	PN=3SG interesting book read.PST	‘Karamsha read an interesting book.’		PN=3SG интересный книга читать.PST	‘Карамшо прочитал интересную книгу.’		
+92	109	ǰumbentow	NOM	OBL	TR	TR	Šamil=i xu angix̌t ǰumben-t	PN=3SG REFL finger move-PST	‘Shamil moved his finger.’		PN=3SG REFL палец двигать-PST	‘Шамиль пошевелил пальцем.’		
+92	110	urmat čīdow	NOM	OBL	TR	TR	Šamil Azim urmat kix̌-t	PN PN respect do-3SG	‘Shamil respects Azim.’		PN PN уважение делать-3SG	‘Шамиль уважает Азима.’		
 92	111	*	*	*	*					No satisfactory translation has been obtained.				
-92	112	rozi vidow	NOM	EL	Y	NOM_EL	Ahmed as xu puc rozi	PN EL REFL son contented	‘Ахмед доволен сыном.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	113	sitow	NOM	SUP	Y	NOM_SUP	Ahmed Saida-ti ošiq suδ-ǰ	PN PN-SUP loving become.M-PF	‘Ахмед влюбился в Саиду.’					
-92	114	bowar δêdow1	NOM	LAT	Y	NOM_LAT	Ahmed Saida-ra bowari δī-d	PN PN-LAT trust give-3SG	‘Ахмед доверяет Саиде.’					
-92	115	rām čīdow	LAT	EL	XY	LAT_EL	Azim-ard as wi nān rām kix̌-t	PN-LAT EL D3.M.SG.OBL mother pity do-3SG	‘Азим жалеет свою мать.’					
-92	116	qayti čīdow	NOM	INS	Y	NOM_INS	Naǰiba Safina=qati qayti kix̌-t	PN PN=INS envy do-3SG	‘Наджиба завидует Сафине.’					
-92	117	qār sifentow	NOM	INS	Y	NOM_INS	Karamšo qār Dovlatšo=qati sifīδ-ǰ	PN anger PN=INS rise-PF	‘Карамшо разозлился на Довлатшо.’					
-92	118	ayrůn rêdow	NOM	INS	Y	NOM_INS	Azim wi padarka=qati ayrůn red	PN D3.M.SG.OBL gift=INS surprised remain.PST	‘Азим удивился подарку.’					
-92	119	žīwǰdow	NOM	OBL	TR	TR	Azim=i čoy žīwǰ	PN=3SG tea love	‘Азим любит чай.’					
-92	120	ayš čīdow	NOM	SUP	Y	NOM_SUP	mu  tāt=i kaš čoy-ti ayš čūd	1SG.OBL father=3SG hot tea-SUP pleasure do.PST	‘Мой отец наслаждается горячим чаем.’					
-92	121	fortow	LAT	NOM	X	LAT_NOM	Ahmed-ard naw telefun for-t	PN-LAT new phone want-3SG	‘Ахмед хочет новый телефон.’					
-92	122	dar-qār δêdow2	NOM	EQ	Y	NOM_EQ	Šamil tar Lola dar-qār δod	PN EQ PN angry fall.PST	‘Шамиль сердится на Лолу.’					
-92	123	malol vidow	NOM	INS	Y	NOM_INS	Nizora Safina=qati malol	PN PN=INS offended	‘Низора обиделась на Сафину.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.				
-92	124	xafā čīdow	NOM	OBL	TR	TR	Towus=i xu amsoya xafā čūd	PN=3SG REFL neighbour upset do.PST	‘Товус огорчила соседку.’					
+92	112	rozi vidow	NOM	EL	Y	NOM_EL	Ahmed as xu puc rozi	PN EL REFL son contented	‘Ahmed is satisfied with his son.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	PN EL REFL сын довольный	‘Ахмед доволен сыном.’		
+92	113	ošiq sitow	NOM	SUP	Y	NOM_SUP	Ahmed Saida-ti ošiq suδǰ	PN PN-SUP loving go.M.PF	‘Ahmed fell in love with Saida.’		PN PN-SUP любить идти.M.PF	‘Ахмед влюбился в Саиду.’		
+92	114	bowar δêdow1	NOM	LAT	Y	NOM_LAT	Ahmed Saida-ra bowari δī-d	PN PN-LAT trust give-3SG	‘Ahmed trusts Saida.’		PN PN-LAT доверие давать-3SG	‘Ахмед доверяет Саиде.’		
+92	115	rām čīdow	LAT	EL	XY	LAT_EL	Azim-ard as wi nān rām kix̌-t	PN-LAT EL D3.M.SG.OBL mother pity do-3SG	‘Azim sympathises with his mother.’		PN-LAT EL D3.M.SG.OBL мать жалость делать-3SG	‘Азим жалеет свою мать.’		
+92	116	qayti čīdow	NOM	INS	Y	NOM_INS	Naǰiba Safina=qati qayti kix̌-t	PN PN=INS envy do-3SG	‘Najiba envies Safina.’		PN PN=INS зависть делать-3SG	‘Наджиба завидует Сафине.’		
+92	117	qār sifentow	NOM	INS	Y	NOM_INS	Karamšo qār Dovlatšo=qati sifīδ-ǰ	PN anger PN=INS rise-PF	‘Karamsha is angry with Dovlatsho.’		PN гнев PN=INS подниматься-PF	‘Карамшо разозлился на Довлатшо.’		
+92	118	ayrůn rêdow	NOM	INS	Y	NOM_INS	Azim wi padarka=qati ayrůn red	PN D3.M.SG.OBL gift=INS surprised remain.PST	‘Azim was surprised at the gift.’		PN D3.M.SG.OBL подарок=INS удивленный оставаться.PST	‘Азим удивился подарку.’		
+92	119	žīwǰdow	NOM	OBL	TR	TR	Azim=i čoy žīwǰ	PN=3SG tea love	‘Azim loves tea.’		PN=3SG чай любить	‘Азим любит чай.’		
+92	120	ayš čīdow	NOM	SUP	Y	NOM_SUP	mu tāt=i kaš čoy-ti ayš čūd	1SG.OBL father=3SG hot tea-SUP pleasure do.PST	‘My father enjoys hot tea.’		1SG.OBL отец=3SG горячий чай-SUP удовольствие делать.PST	‘Мой отец наслаждается горячим чаем.’		
+92	121	fortow	LAT	NOM	X	LAT_NOM	Ahmed-ard naw telefun for-t	PN-LAT new phone want-3SG	‘Ahmed wants a new mobile phone.’		PN-LAT новый телефон хотеть-3SG	‘Ахмед хочет новый телефон.’		
+92	122	dar-qār δêdow2	NOM	EQ	Y	NOM_EQ	Šamil tar Lola dar-qār δod	PN EQ PN angry fall.PST	‘Shamil holds a grudge against Lola.’		PN EQ PN средитый падать.PST	‘Шамиль сердится на Лолу.’		
+92	123	malol vidow	NOM	INS	Y	NOM_INS	Nizora Safina=qati malol	PN PN=INS offended	‘Nizora took offence at Safina.’	Non-verbal predicate. In this example, the verb 'to be' is non-overt.	PN PN=INS обиженный	‘Низора обиделась на Сафину.’		
+92	124	xafā čīdow	NOM	OBL	TR	TR	Towus=i xu amsoya xafā čūd	PN=3SG REFL neighbour upset do.PST	‘Towus upset her neighbour.’		PN=3SG REFL сосед расстроенный делать.PST	‘Товус огорчила соседку.’		
 92	125	*	*	*	*					No satisfactory translation has been obtained.				
 92	126	*	*	*	*					No satisfactory translation has been obtained.				
-92	127	xafā čīdow	NOM	INS	Y	NOM_INS	Šamil xu puc=qati xafā čūd	PN REFL son=INS upset do.PST	‘Шамиль огорчился из-за своего сына.’					
+92	127	xafā čīdow	NOM	INS	Y	NOM_INS	Šamil xu puc=qati xafā čūd	PN REFL son=INS upset do.PST	‘Shamil got upset with his son.’		PN REFL сын=INS расстроенный делать.PST	‘Шамиль огорчился из-за своего сына.’		
 92	128	*	*	*	*					No satisfactory translation has been obtained.				
 92	129	*	*	*	*					No satisfactory translation has been obtained.				
-92	130	x̌armindā sitow	NOM	EL	Y	NOM_EL	Dovlatšo as xu qad x̌armindā sů-d	PN EL REFL height embarrassed become-3SG	‘Довлатшо стесняется своего роста.’					
+92	130	x̌armindā sitow	NOM	EL	Y	NOM_EL	Dovlatšo as xu qad x̌armindā sů-d	PN EL REFL height embarrassed go-3SG	‘Dovlatsho is embarrased about his height.’		PN EL REFL рост смущенный идти-3SG	‘Довлатшо стесняется своего роста.’		
 61	1	boleti	ACC	NOM	X	ACC_NOM	An-o boli glav-a	PN-ACC.SG ache:IPFV.PRS.3SG head-NOM.SG	‘Ana has a headache.’		PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG	‘У Аны болит голова.’		
 61	2	imeti	NOM	ACC	TR	TR	An-a ima grip-o	PN-NOM.SG have:IPFV.PRS.3SG flu-ACC.SG	‘Ana has the flu.’		PN-NOM.SG иметь:IPFV.PRS.3SG грипп-ACC.SG	‘Ана болеет гриппом.’		
 61	3	bati se	NOM	GEN	Y	NOM_GEN	Peter se malo boji ps-a	PN[NOM.SG] RFL a_little be_afraid:IPFV.PRS.3SG dog-GEN.SG	‘Peter is a little afraid of the dog.’		PN[NOM.SG] RFL немного бояться:IPFV.PRS.3SG собака-GEN.SG	‘Петер немного боится собаки.’		
@@ -10789,136 +10919,6 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 82	128	naskas sjädta	NOM	ACC	TR	TR								
 82	129	*	*	*	*									
 82	130	käinn	*	*	*									
-36	1	боли	ACC	NOM	X	ACC_NOM								
-36	2	има	*	*	*									
-36	3	плаше си	NOM	GEN	Y	NOM_GEN								
-36	4	баци	NOM	ACC	TR	TR								
-36	5	има доволно	*	*	*									
-36	6	личи	NOM	naACC	Y	NOM_naACC								
-36	7	веруйе	NOM	DAT	Y	NOM_DAT								
-36	8	узео	NOM	ACC	TR	TR								
-36	9	види	NOM	ACC	TR	TR								
-36	10	утичи	NOM	naACC	Y	NOM_naACC								
-36	11	срео	NOM	ACC	TR	TR								
-36	12	ушао	NOM	uACC	Y	NOM_uACC								
-36	13	победио	NOM	ACC	TR	TR								
-36	14	изашао	NOM	izGEN	Y	NOM_izGEN								
-36	15	тера	NOM	ACC	TR	TR								
-36	16	савио	NOM	ACC	TR	TR								
-36	17	рекао	NOM	DAT	Y	NOM_DAT								
-36	18	држи	NOM	ACC	TR	TR								
-36	19	стигао	NOM	ACC	TR	TR								
-36	20	помузао	NOM	ACC	TR	TR								
-36	21	стигао	NOM	doGEN	Y	NOM_doGEN								
-36	22	додирнуо	NOM	ACC	TR	TR								
-36	23	се тучи	NOM	sINS	Y	NOM_sINS								
-36	24	се дружи	NOM	sINS	Y	NOM_sINS								
-36	25	мисли	NOM	naACC	Y	NOM_naACC								
-36	26	пойео	NOM	ACC	TR	TR								
-36	27	испржио	NOM	ACC	TR	TR								
-36	28	чека	NOM	ACC	TR	TR								
-36	29	заборавио	NOM	naACC	Y	NOM_naACC								
-36	30	зависи	NOM	odGEN	Y	NOM_odGEN								
-36	31	позвао	NOM	ACC	TR	TR								
-36	32	упознао	NOM	ACC	TR	TR								
-36	33	познайе	NOM	ACC	TR	TR								
-36	34	свира	NOM	ACC	TR	TR								
-36	35	избегава	NOM	ACC	TR	TR								
-36	36	направио	NOM	ACC	TR	TR								
-36	37	малтретира	NOM	ACC	TR	TR								
-36	38	има	NOM	ACC	TR	TR								
-36	39	тражи	NOM	ACC	TR	TR								
-36	40	офарбао	NOM	ACC	TR	TR								
-36	41	уйе	NOM	ACC	TR	TR								
-36	42	*	*	*	*									
-36	43	йури	NOM	ACC	TR	TR								
-36	44	поломио	NOM	ACC	TR	TR								
-36	45	ласка	NOM	DAT	Y	NOM_DAT								
-36	46	воли	NOM	ACC	TR	TR								
-36	47	маше	NOM	INS	Y	NOM_INS								
-36	48	машта	NOM	oLOC	Y	NOM_oLOC								
-36	49	опрао	NOM	ACC	TR	TR								
-36	50	обукао	NOM	ACC	TR	TR								
-36	51	се зове	NOM	NOM	Y	NOM_NOM								
-36	52	казнио	NOM	ACC	TR	TR								
-36	53	напао	NOM	ACC	TR	TR								
-36	54	се напулнила	NOM	INS	Y	NOM_INS								
-36	55	нашао	NOM	ACC	TR	TR								
-36	56	фали	DAT	NOM	X	DAT_NOM								
-36	57	мрзи	NOM	ACC	TR	TR								
-36	58	свича се	DAT	NOM	X	DAT_NOM								
-36	59	потребан	DAT	NOM	X	DAT_NOM								
-36	60	опасан	INS	NOM	X	INS_NOM								
-36	61	остало	DAT	NOM	X	DAT_NOM								
-36	62	одговорио	NOM	DAT	Y	NOM_DAT								
-36	63	отворио	NOM	ACC	TR	TR								
-36	64	се разликуйе	NOM	odGEN	Y	NOM_odGEN								
-36	65	заостао	NOM	zaINS	Y	NOM_zaINS								
-36	66	оре	NOM	ACC	TR	TR								
-36	67	миришу	NOM	naACC	Y	NOM_naACC								
-36	68	прешао	NOM	ACC	TR	TR								
-36	69	отпевао	NOM	ACC	TR	TR								
-36	70	написао	NOM	ACC	TR	TR								
-36	71	попио	NOM	ACC	TR	TR								
-36	72	растопио	NOM	ACC	TR	TR								
-36	73	одговара	NOM	DAT	Y	NOM_DAT								
-36	74	напустио	NOM	ACC	TR	TR								
-36	75	покрива	NOM	ACC	TR	TR								
-36	76	сеча	NOM	GEN	Y	NOM_GEN								
-36	77	помагао	NOM	DAT	Y	NOM_DAT								
-36	78	разуми	NOM	ACC	TR	TR								
-36	79	погодила	NOM	uACC	Y	NOM_uACC								
-36	80	се посекао	NOM	INS	Y	NOM_INS								
-36	81	се залепила	NOM	zaACC	Y	NOM_zaACC								
-36	82	изгубио	NOM	odGEN	Y	NOM_odGEN								
-36	83	се обрадовао	NOM	DAT	Y	NOM_DAT								
-36	84	прича	NOM	sINS	Y	NOM_sINS								
-36	85	родила	NOM	ACC	TR	TR								
-36	86	испала	DAT	NOM	X	DAT_NOM								
-36	87	управл'а	NOM	INS	Y	NOM_INS								
-36	88	недостайе	DAT	NOM	X	DAT_NOM								
-36	89	следи	NOM	ACC	TR	TR								
-36	90	сишао	NOM	sGEN	Y	NOM_sGEN								
-36	91	слуша	NOM	ACC	TR	TR								
-36	92	*	*	*	*									
-36	93	чуйе	NOM	ACC	TR	TR								
-36	94	се сйединио	NOM	sINS	Y	NOM_sINS								
-36	95	гледа	NOM	uACC	Y	NOM_uACC								
-36	96	скинуо	NOM	ACC	TR	TR								
-36	97	сан'а	NOM	ACC	TR	TR								
-36	98	се сложио	NOM	sINS	Y	NOM_sINS								
-36	99	се посвачао	NOM	sINS	Y	NOM_sINS								
-36	100	кошта	NOM	ACC	TR	TR								
-36	101	пукао	NOM	uACC	Y	NOM_uACC								
-36	102	ставио	NOM	ACC	TR	TR								
-36	103	изгубио	NOM	ACC	TR	TR								
-36	104	потонула	NOM	uACC	Y	NOM_uACC								
-36	105	убио	NOM	ACC	TR	TR								
-36	106	ударио	NOM	ACC	TR	TR								
-36	107	пол'убио	NOM	ACC	TR	TR								
-36	108	прочитао	NOM	ACC	TR	TR								
-36	109	мрднуо	NOM	INS	Y	NOM_INS								
-36	110	поштуйе	NOM	ACC	TR	TR								
-36	111	се гади	*	*	*									
-36	112	задовол'ан	NOM	INS	Y	NOM_INS								
-36	113	зал'убио	NOM	uACC	Y	NOM_uACC								
-36	114	има поверен'е	NOM	uACC	Y	NOM_uACC								
-36	115	жао	DAT	GEN	XY	DAT_GEN								
-36	116	завиди	NOM	DAT	Y	NOM_DAT								
-36	117	л'ути	NOM	naACC	Y	NOM_naACC								
-36	118	се изненадио	NOM	DAT	Y	NOM_DAT								
-36	119	воли	*	*	*									
-36	120	ужива	NOM	uLOC	Y	NOM_uLOC								
-36	121	жели	NOM	ACC	TR	TR								
-36	122	се л'ути	NOM	naACC	Y	NOM_naACC								
-36	123	*	*	*	*									
-36	124	растужио	NOM	ACC	TR	TR								
-36	125	одушевл'ен	NOM	INS	Y	NOM_INS								
-36	126	презира	NOM	ACC	TR	TR								
-36	127	се растужио	NOM	zbogGEN	Y	NOM_zbogGEN								
-36	128	бесан	NOM	naACC	Y	NOM_naACC								
-36	129	симпатише	NOM	DAT	Y	NOM_DAT								
-36	130	се стиди	NOM	GEN	Y	NOM_GEN								
 49	1	wàtú	POSS.OBJ	SBJ	X	POSS.OBJ_SBJ								
 49	2	rágà	OBJ	SBJ	X	OBJ_SBJ								
 49	3	kànú	SBJ	yi	Y	SBJ_yi								
