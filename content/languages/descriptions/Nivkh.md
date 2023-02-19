@@ -26,13 +26,13 @@ Nivkh shows the nominative-accusative alignment. In the basic transitive constru
 
 ```
 
-(1)  a.	 ɲi	 cʰaχ   +  ta-d
-	       I	 water  +  drink-IND
-	       ‘I am drinking water.’ (with the consonant alternation)
+(1)  a.  ɲi  cʰaχ   +  ta-d
+         I   water  +  drink-IND
+         ‘I am drinking water.’ (with the consonant alternation)
      
-     b.	 ɲi	 cʰaχ   ra-d
-	       I	 water  drink-IND
-	       ‘I am drinking water.’ (without the consonant alternation)
+     b.  ɲi  cʰaχ   ra-d
+         I   water  drink-IND
+         ‘I am drinking water.’ (without the consonant alternation)
 
 ```
 
@@ -40,9 +40,9 @@ A direct object can be substituted by the pronominal prefix on the verb (2). In 
 
 ```
 
-(2)	 ɲi	 j-idə-d
-	   I	 3SG-see-IND
-	   ‘I saw him/her.’
+(2)  ɲi  j-idə-d
+     I   3SG-see-IND
+     ‘I saw him/her.’
 
 ```
 
