@@ -1,8 +1,8 @@
 # {{ language_external }}
-Contributed by Anastasia (Leonidovna) Makarova. The data were gathered in 2013.
+Contributed by Anastasia Escher. The data were gathered in 2013.
 
 ## How to cite
-> Makarova, Anastasia. 2023. Bivalent patterns in {{ language_external}}. 
+> Escher, Anastasia. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
