@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Tatiana Repnina
+Contributed by [Tatiana Repnina](https://iling.spb.ru/persons/repnina-tatyana-vladimirovna)
 
 ![T.R.'s photo]({{ site_url_j }}/images/Repnina.jpg "T.R.'s photo")
 
