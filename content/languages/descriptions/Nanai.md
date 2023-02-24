@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Daria Mishchenko](https://iling.spb.ru/people/mishchenko.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/DariaMishchenko))
+Contributed by [Daria Mishchenko](https://iling.spb.ru/persons/mischenko-darya-fedorovna) ([Academia.edu profile](https://iling-spb.academia.edu/DariaMishchenko))
 
 ![D.M.'s photo]({{ site_url_j }}/images/Mischenko.jpg "D.M.'s photo")
 
