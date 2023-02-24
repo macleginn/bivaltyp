@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Maria Ovsjannikova](https://iling.spb.ru/people/ovsyannikova.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/MariaOvsjannikova))
+Contributed by [Maria Ovsjannikova](https://iling.spb.ru/persons/ovsyannikova-mariya-aleksandrovna) ([Academia.edu profile](https://iling-spb.academia.edu/MariaOvsjannikova))
 
 ![M.O.'s photo]({{ site_url_j }}/images/Ovsjannikova.jpg "M.O.'s photo")
 
