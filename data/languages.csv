@@ -8,7 +8,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 7	ингерманландский финский	Finnish_Ingrian	Ingrian Finnish	Дарья Федоровна Мищенко		Daria Mishchenko					Europe	Uralic	Finnic	59.47	29.71	13	Mishchenko 2018: 316		finn1318	Ingrian Finnish is a variety of Glottolog's "Finnish" (finn1318) spoken in Ingria. It is different from standard Finnish.
 8	баскский	Basque	Basque	Наталья Михайловна Заика		Natalia Zaika					Europe	Basque	Basque	43.28	-1.32	16	Zaika 2018: 296		basq1248	
 9	французский	French	French	Елена Евгеньевна Корди		Elena Kordi					Europe	Indo-European	Romance	48	2	0	рабочие материалы		stan1290	
-10	немецкий	German	German	Сандра Бирцер		Sandra Birzer					Europe	Indo-European	Germanic	52	10	4	WALS		stan1295	
+10	немецкий	German	German	Сандра Бирцер		Sandra Birzer		2013	February 27, 2023	February 27, 2023	Europe	Indo-European	Germanic	52	10	4	WALS		stan1295	
 11	багвалинский	Bagvalal	Bagvalal	Дмитрий Валентинович Герасимов		Dmitry Gerasimov					West Asia and the Caucasus	Nakh-Daghestanian	Avar-Andic-Tsezic	42.4	46.1	20	книжка, с. 144		bagv1239	
 12	японский	Japanese	Japanese	Юкари Конума		Yukari Konuma					East and Southeast Asia	Japanese	Japanese	35	135	8	условное решение на основе WALS (8-9) и материалов Ю. Конума		nucl1643	
 13	литовский	Lithuanian	Lithuanian	Наталья Михайловна Заика		Natalia Zaika					Europe	Indo-European	Baltic	55.14	23.96	7	wikipedia		lith1251	
@@ -89,5 +89,5 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 88	хантыйский (казымский)	Khanty_Kazym	Kazym Khanty	Дарья Александровна Рыжова		Daria Ryzhova		2021	November 22, 2021	January 6, 2022	North and Central Asia	Uralic	Ugric	62.43	66.12	4	рабочие материалы, корпус	Russian	khan1273	Glottolog list this variety as Kazym-Berezover-Suryskarer Khanty
 89	датский	Danish	Danish	Дарья Алексеевна Алфимова, Сёрен Вихман		Daria Alfimova, Søren Wichmann		2021	January 12, 2022	January 28, 2022	Europe	Indo-European	Germanic	54.87	9.36	0	wikipedia	English	dani1285	
 90	каталанский	Catalan	Catalan	Татьяна Владимировна Репнина	Изабель Серра, Сильвия Виллаграса	Tatiana Repnina	Isabel Serra, Silvia Villagrasa	2022	February 22, 2022	August 10, 2022	Europe	Indo-European	Romance	41.45	1.57	0	Общие знания	English	stan1289	
-91	нивхский	Nivkh	Nivkh	Анастасия Борисовна Панова		Anastasia Panova		2022	January 1, 2023	January 1, 2023	North and Central Asia	Nivkh	Nivkh	53.33	142	8	рабочие материалы, Gruzdeva 1998: 18	Russian	nivk1234	
+91	нивхский	Nivkh	Nivkh	Анастасия Борисовна Панова		Anastasia Panova		2022	January 1, 2023	February 5, 2023	North and Central Asia	Nivkh	Nivkh	53.33	142	8	рабочие материалы, Gruzdeva 1998: 18	Russian	nivk1234	
 92	шугнанский	Shughni	Shughni	Дарья Александровна Рыжова		Daria Ryzhova		2022	January 1, 2023	February 4, 2023	North and Central Asia	Indo-European	Iranian	37.5	71.79	2	Даша Рыжова	Russian	shug1248	
