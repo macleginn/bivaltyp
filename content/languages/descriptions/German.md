@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by [Sandra Birzer](https://www.uni-bamberg.de/slavling/personal/prof-dr-sandra-birzer/)
 
+![S.B.'s photo]({{ site_url_j }}/images/Birzer.jpg "S.B.'s photo")
+
 ## How to cite
 > Birzer, Sandra. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
