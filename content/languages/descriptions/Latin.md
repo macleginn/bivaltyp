@@ -1,6 +1,6 @@
 
 # {{ language_external }}
-Contributed by [Inna Popova](https://iling.spb.ru/people/popova.html) ([Academia.edu profile](https://iling-spb.academia.edu/InnaPopova))
+Contributed by [Inna Popova](https://iling.spb.ru/persons/popova-inna-dmitrievna) ([Academia.edu profile](https://iling-spb.academia.edu/InnaPopova))
 
 ![I.P.'s photo]({{ site_url_j }}/images/Popova.jpg "I.P.'s photo")
 
