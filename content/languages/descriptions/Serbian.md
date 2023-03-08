@@ -1,5 +1,8 @@
 # {{ language_external }}
-Contributed by Anastasia Escher. The data were gathered in 2013.
+Contributed by [Anastasia Escher](https://www.nexus.ethz.ch/about/people/person-detail.html?persid=305327). The data were gathered in 2013.
+
+![A.E.'s photo]({{ site_url_j }}/images/Escher.jpeg "A.E.'s photo")
+
 
 ## How to cite
 > Escher, Anastasia. 2023. Bivalent patterns in {{ language_external}}. 
