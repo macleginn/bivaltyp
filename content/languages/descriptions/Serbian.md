@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Anastasia Escher](https://www.nexus.ethz.ch/about/people/person-detail.html?persid=305327) ([Academia.edu profile](https://ethz.academia.edu/AnastasiaEscher)). The data were gathered in 2013.
+Contributed by [Anastasia Escher](https://www.nexus.ethz.ch/about/people1/person-detail.html?persid=305327) ([Academia.edu profile](https://ethz.academia.edu/AnastasiaEscher)). The data were gathered in 2013.
 
 ![A.E.'s photo]({{ site_url_j }}/images/Escher.jpeg "A.E.'s photo")
 
