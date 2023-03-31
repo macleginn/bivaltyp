@@ -1,5 +1,5 @@
 language_no	language_ru	language	language_external	expert_ru	consultant_ru	expert	consultant	data_collection_year	initial_release_date	last_release_date	macroarea	family (WALS)	genus (WALS)	latitude	longitude	number_nominal_cases	source_of_information	contact_language	glottocode	comment_on_glottocode
-1	русский	Russian	Russian	Сергей Сергеевич Сай		Sergey Say		2011	November 7, 2020	November 7, 2020	Europe	Indo-European	Slavic	58	38	6	personal knowledge	Russian	russ1263	
+1	русский	Russian	Russian	Сергей Сергеевич Сай		Sergey Say		2011	November 7, 2020	April 1, 2023	Europe	Indo-European	Slavic	58	38	6	personal knowledge	Russian	russ1263	
 2	арабский литературный	Arabic_Standard	Standard Arabic	Рамазан Гамидович Мамедшахов		Ramazan Mamedshaxov					West Asia and the Caucasus	Afro-Asiatic	Semitic	27.96	43.85	3	Mamedshaxov, materials		stan1318	
 3	гуарани	Guarani_Paraguayan	Paraguayan Guaraní	Дмитрий Валентинович Герасимов		Dmitry Gerasimov					South America	Tupian	Tupi-Guaraní	-25.61	-57.09	0	WALS, Gerasimov p.c.		para1311	
 4	эстонский	Estonian	Estonian	Мерит Ниинемяги		Merit Niinemägi		2009, 2021	December 12, 2021	December 12, 2021	Europe	Uralic	Finnic	58.55	25.82	14	wikipedia	English	esto1258	
@@ -91,3 +91,4 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 90	каталанский	Catalan	Catalan	Татьяна Владимировна Репнина	Изабель Серра, Сильвия Виллаграса	Tatiana Repnina	Isabel Serra, Silvia Villagrasa	2022	February 22, 2022	August 10, 2022	Europe	Indo-European	Romance	41.45	1.57	0	Общие знания	English	stan1289	
 91	нивхский	Nivkh	Nivkh	Анастасия Борисовна Панова		Anastasia Panova		2022	January 1, 2023	February 5, 2023	North and Central Asia	Nivkh	Nivkh	53.33	142	8	рабочие материалы, Gruzdeva 1998: 18	Russian	nivk1234	
 92	шугнанский	Shughni	Shughni	Дарья Александровна Рыжова		Daria Ryzhova		2022	January 1, 2023	February 4, 2023	North and Central Asia	Indo-European	Iranian	37.5	71.79	2	Даша Рыжова	Russian	shug1248	
+93	узбекский	Uzbek	Uzbek	Анастасия Ивановна Жук		Anastasia Zhuk		2022	April 1, 2023	April 1, 2023	North and Central Asia	Altaic	Turkic	40.89	69.21	6	wikipedia	Russian	nort2690	
