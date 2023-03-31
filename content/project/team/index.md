@@ -124,7 +124,7 @@ Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukr
 Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}  
 Ekaterina Zheltova: {{ language:Greek_Modern }}  
 Vasilisa Zhigulskaja: {{ language:Hungarian }}  
-Anastasia Zhuk: {{ language:Kazakh }}  
+Anastasia Zhuk: {{ language:Kazakh }}, {{ language:Uzbek }}   
 
 ### Other
 
