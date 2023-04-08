@@ -46,9 +46,9 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
-Chistyakova, D. G. & D.A. Ryzhova. 2023. Kodirovanie argumentov dvuhmestnyh predikatov v shugnanskom yazyke [Argument encoding in Shughni bivalent verbs]. Paper presented at the seminar for Iranian studies, NRU Higher School of Economics a–nd Institute of Linguistics, Moscow, March 31, 2023.
+Chistyakova, D. G. & D.A. Ryzhova. 2023. [Kodirovanie argumentov dvuxmestnyx predikatov v shugnanskom yazyke](https://bivaltyp.info/docs/Chistjakova_Ryzhova_2023_Kodirovanie.pdf) [Argument encoding in Shughni bivalent verbs]. Paper presented at the seminar for Iranian studies, NRU Higher School of Economics and Institute of Linguistics, Moscow. March 31, 2023.
 
-Say, Sergey. Measuring predictability of argument realization patterns in bivalent verbs. Talk at the EDAP 2023 (Explaining the cross-linguistic distribution of argument-coding patterns) conference. University of Potsdam. March 2123, 2023.
+Say, Sergey. Measuring predictability of argument realization patterns in bivalent verbs. Talk at the EDAP 2023 (Explaining the cross-linguistic distribution of argument-coding patterns) conference. University of Potsdam. March 21-23, 2023.
 
 Say, Sergey. 2023. Predictability of bivalent argument encoding patterns. Talk at the “Forschungsschwerpunkte der Finnougristik” seminar. LMU, Munich. January 30, 2023.
 
