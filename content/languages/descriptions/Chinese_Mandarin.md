@@ -4,7 +4,8 @@ Contributed by Xu Yuru ([Academia.edu profile](https://lmu-munich.academia.edu/Y
 ![Y.X.'s photo]({{ site_url_j }}/images/Xu.jpg "Y.X.'s photo")
 
 Xu Yuru provided the data in 2023in her capacity of a native speaker of Mandarin Chinese. The English  version of the questionnaire was used for elicitation. Before 2023, the database contained a preliminary version of the Mandarin Chinese data that had been provided by Elena Kolpachkova in 2012. 
-Kolpachkova_2018_Markirovanie.pdf
+
+Kolpachkova, E. N. 2018. [Markirovanie aktantov dvuxmestnyx predikatov v sovremennom kitajskom jazyke](https://bivaltyp.info/docs/Kolpachkova_2018_Markirovanie.pdf) [Bivalent predicates’ argument encoding in Modern Chinese]. In Say, S. S. (ed.). 456-479. (in Russian)
 
 ## How to cite
 > Xu, Yuru. 2023. Bivalent patterns in {{ language_external}}. 
