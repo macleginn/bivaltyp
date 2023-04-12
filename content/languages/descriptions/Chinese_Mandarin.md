@@ -3,7 +3,8 @@ Contributed by Xu Yuru ([Academia.edu profile](https://lmu-munich.academia.edu/Y
 
 ![Y.X.'s photo]({{ site_url_j }}/images/Xu.jpg "Y.X.'s photo")
 
-Xu Yuru provided the data in 2023in her capacity of a native speaker of Mandarin Chinese. The English  version of the questionnaire was used for elicitation. Before 2023, the database contained a preliminary version of the Mandarin Chinese data that had been provided by Elena Kolpachkova in 2012.
+Xu Yuru provided the data in 2023in her capacity of a native speaker of Mandarin Chinese. The English  version of the questionnaire was used for elicitation. Before 2023, the database contained a preliminary version of the Mandarin Chinese data that had been provided by Elena Kolpachkova in 2012. 
+Kolpachkova_2018_Markirovanie.pdf
 
 ## How to cite
 > Xu, Yuru. 2023. Bivalent patterns in {{ language_external}}. 
