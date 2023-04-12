@@ -120,6 +120,7 @@ Ksenia Studenikina: {{ language:Mari_Western }}
 Daria Suetina (Konior): {{ language:Romanian }}  
 Evgenija Teplukhina: {{ language:Azerbaijani }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
+Yuru Xu: {{ language:Chinese_Mandarin }}
 Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}  
 Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}  
 Ekaterina Zheltova: {{ language:Greek_Modern }}  
