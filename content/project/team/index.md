@@ -121,7 +121,7 @@ Daria Suetina (Konior): {{ language:Romanian }}
 Evgenija Teplukhina: {{ language:Azerbaijani }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}  
-Yuru Xu: {{ language:Chinese_Mandarin }}
+Yuru Xu: {{ language:Chinese_Mandarin }}  
 Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}  
 Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}  
 Ekaterina Zheltova: {{ language:Greek_Modern }}  
