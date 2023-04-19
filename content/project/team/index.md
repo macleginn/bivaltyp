@@ -130,4 +130,4 @@ Anastasia Zhuk: {{ language:Kazakh }}, {{ language:Uzbek }}
 
 ### Other
 
-In 2021, some help with translations and glossing was provided by Anna Vashchenkova (Czech, Zilo Andi) and Tamara Petushkeeva (Modern Hebrew, Latin). 
+In 2021, some help with translations and glossing was provided by Anna Vashchenkova (Czech, Zilo Andi) and Tamara Petushkeeva (Modern Hebrew, Latin).  
