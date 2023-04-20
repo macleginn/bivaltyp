@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by [Valentin Vydrin](https://llacan.cnrs.fr/p_vydrin.php) ([Academia.edu profile](https://cnrs.academia.edu/ValentinVydrin))
 
+![V.V.'s photo]({{ site_url_j }}/images/VydrinVF.jpg "V.V.'s photo")
+
 The data were gathered in 2023. The French version of the questionnaire was used for elicitation.
 
 ## How to cite
