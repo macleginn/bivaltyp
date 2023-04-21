@@ -3,7 +3,11 @@ Contributed by [Valentin Vydrin](https://llacan.cnrs.fr/p_vydrin.php) ([Academia
 
 ![V.V.'s photo]({{ site_url_j }}/images/VydrinVF.jpg "V.V.'s photo")
 
-The data were gathered in 2023. The French version of the questionnaire was used for elicitation.
+The data were gathered in March and April 2023. The data have checked using the following corpus:
+
+Vydrin, Valentin & Maslinsky, Kirill & Méric, Jean Jacques & Rovenchak, Andrij. (2011–2023) Corpus Bambara de Référence.
+
+Complicated cases were checked by Sékou Coulibaly, Bambara teacher at INALCO (Paris). The French version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Vydrin, Valentin. 2023. Bivalent patterns in {{ language_external}}. 
@@ -28,7 +32,8 @@ There is no morphological case on nouns.
 
 ## Verb lemmas
 
-Lemmas are shown...
+Lemmas are shown in the form of bare stems.
 
 ## Glossing abbreviations
 
+ABSTR — suffix of abstract meaning; ART — tonal article; CNTRL — postposition with the meaning of control; COP — copula; EQU — copula in equative non-verbal sentence; INF — infinitive; INTR — intransitive; IPFV — imperfective; NMLZ — suffix of nominalization; PFV — perfective; PN — proper noun; POSS — possessive marker; PRES — presentative; PRIV — privative suffix; PROG — progressive; PTCP — participle; QUAL — qualitative predicative marker; REFL — reflexive pronoun; RES — resultative; SG — singular; TR — transitive.
