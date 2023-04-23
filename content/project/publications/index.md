@@ -50,7 +50,7 @@ Chistyakova, D. G. & D.A. Ryzhova. 2023. [Kodirovanie argumentov dvuxmestnyx pre
 
 Say, Sergey. [Measuring predictability of argument realization patterns in bivalent verbs](https://bivaltyp.info/docs/Say_2023_03_21_Valency_predictability.pdf). Talk at the EDAP 2023 (Explaining the cross-linguistic distribution of argument-coding patterns) conference. University of Potsdam. March 21-23, 2023.
 
-Say, Sergey. 2023. [Predictability of bivalent argument encoding patterns](Say_2023_01_30_Valency_predictability.pdf). Talk at the “Forschungsschwerpunkte der Finnougristik” seminar. LMU, Munich. January 30, 2023.
+Say, Sergey. 2023. [Predictability of bivalent argument encoding patterns](https://bivaltyp.info/docs/Say_2023_01_30_Valency_predictability.pdf). Talk at the “Forschungsschwerpunkte der Finnougristik” seminar. LMU, Munich. January 30, 2023.
 
 Alfimova, Daria. 2021. [Circum-Baltic object marking against a broader areal perspective](https://bivaltyp.info/docs/Alfimova_2021_Circum_Baltic.pdf). Paper presented at the 18th Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg. November 25-27, 2021.
 
