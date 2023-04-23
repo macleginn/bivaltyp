@@ -3,7 +3,7 @@ Contributed by [Valentin Vydrin](https://llacan.cnrs.fr/p_vydrin.php) ([Academia
 
 ![V.V.'s photo]({{ site_url_j }}/images/VydrinVF.jpg "V.V.'s photo")
 
-The data were gathered in March and April 2023. The data have checked using the following corpus:
+The data were gathered in March and April 2023. The data were checked using the following corpus:
 
 Vydrin, Valentin & Maslinsky, Kirill & Méric, Jean Jacques & Rovenchak, Andrij. (2011–2023) Corpus Bambara de Référence.
 
