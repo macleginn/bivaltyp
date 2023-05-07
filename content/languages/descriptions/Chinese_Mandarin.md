@@ -25,6 +25,19 @@ Kolpachkova, E. N. 2018. [Markirovanie aktantov dvuxmestnyx predikatov v sovreme
 
 ### Basic clause structure and the transitive construction
 
+As an isolating language, Mandarin Chinese has no morphological case on nouns and and no verb indices. The basic transitive construction displays a neutral alignment in terms of case marking and indexing. Word order functions as the main argument-encoding device in the Mandarin Chinese transitive construction. The basic word order of transitive constructions involving two noun phrases is subject-verb-object (SVO). Deviations from this pattern are discussed and exemplified in i), ii), and iii).
+
+i) The passive construction with a passive marker 被 *bèi* is normally used when there is a sense of misfortune or adversity. The passive marker and the agent noun phrase occupy the position between the subject (the patient noun phrase) and the verb. 被*bèi* is sometimes considered to be a preposition.
+
+```
+张三       被     一-只     狗    咬    了。
+Zhāngsān  bèi   yì-zhī    gǒu   yǎo   le
+Zhangsan  BEI   one-CLF   dog   bite  PFV
+‘Zhangsan was bitten by a dog.’
+```
+
+
+
 ### Case system
 
 Mandarin Chinese has no morphological case.
