@@ -9,8 +9,10 @@ Some stimulus sentences are accompanied by context information provided in paren
 If you use this questionnaire, please cite as follows.
 > Say, Sergey, Sergey Dmitrenko, Dmitry Gerasimov, Viktor Khrakovskij, & Natalia Zaika. 2020. A typological questionnaire on bivalent verbs and their encoding frames. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St. Petersburg: Institute for Linguistic Studies, RAS. (Available online at {{ site_url }}, Accessed on {{ today }})
 
-### Russian version
-See the original Russian version of the questionnaire [below](#russian-questionnaire). The original published version can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }}
+### Non-English versions
+The original Russian version of the questionnaire can be found [below](#russian-questionnaire). The original published version can be accessed [here](https://bivaltyp.info/docs/questionnaire_russian.pdf). {{ russian_citation_button }} 
+
+The German version of the questionnaire is available as .pdf file [here](https://bivaltyp.info/docs/Questionnaire_DE_alpha_2023_05.pdf).
 
 ### Questionnaire
 
