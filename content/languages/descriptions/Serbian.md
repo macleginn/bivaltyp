@@ -16,3 +16,7 @@ Contributed by [Anastasia Escher](https://www.nexus.ethz.ch/about/people1/person
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+3 — 3rd person; ACC — accusative; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; LOC — locative; M — masculine; N — neuter; NOM — nominative; PART — participle; PERF — perfect; PL — plural; PN — person name; PRS — present; REFL — reflexive; SG — singular.
