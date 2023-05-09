@@ -7,8 +7,8 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 6	тувинский	Tuvinian	Tuvinian	Софья Алексеевна Оскольская		Sofia Oskolskaya					North and Central Asia	Altaic	Turkic	51.7	94.37	8	Oskolskaya, materials		tuvi1240	
 7	ингерманландский финский	Finnish_Ingrian	Ingrian Finnish	Дарья Федоровна Мищенко		Daria Mishchenko					Europe	Uralic	Finnic	59.47	29.71	13	Mishchenko 2018: 316		finn1318	Ingrian Finnish is a variety of Glottolog's "Finnish" (finn1318) spoken in Ingria. It is different from standard Finnish.
 8	баскский	Basque	Basque	Наталья Михайловна Заика		Natalia Zaika					Europe	Basque	Basque	43.28	-1.32	16	Zaika 2018: 296		basq1248	
-9	французский	French	French	Елена Евгеньевна Корди		Elena Kordi					Europe	Indo-European	Romance	48	2	0	рабочие материалы		stan1290	
-10	немецкий	German	German	Сандра Бирцер		Sandra Birzer		2013	February 27, 2023	April 8, 2023	Europe	Indo-European	Germanic	52	10	4	WALS		stan1295	
+9	французский	French	French	Елена Евгеньевна Корди		Elena Kordi		2010	May 9, 2023	May 9, 2023	Europe	Indo-European	Romance	48	2	0	рабочие материалы		stan1290	
+10	немецкий	German	German	Сандра Бирцер		Sandra Birzer		2013	February 27, 2023	May 5, 2023	Europe	Indo-European	Germanic	52	10	4	WALS		stan1295	
 11	багвалинский	Bagvalal	Bagvalal	Дмитрий Валентинович Герасимов		Dmitry Gerasimov					West Asia and the Caucasus	Nakh-Daghestanian	Avar-Andic-Tsezic	42.4	46.1	20	книжка, с. 144		bagv1239	
 12	японский	Japanese	Japanese	Юкари Конума		Yukari Konuma					East and Southeast Asia	Japanese	Japanese	35	135	8	условное решение на основе WALS (8-9) и материалов Ю. Конума		nucl1643	
 13	литовский	Lithuanian	Lithuanian	Наталья Михайловна Заика		Natalia Zaika					Europe	Indo-European	Baltic	55.14	23.96	7	wikipedia		lith1251	
@@ -28,10 +28,10 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 27	азербайджанский	Azerbaijani	Azerbaijani	Евгения В. Теплухина		Evgenija Teplukhina					West Asia and the Caucasus	Altaic	Turkic	40	47.72	7	рабочие материалы		nort2697	This idiom is Glottolog's North Azerbaijani (nort2697)
 28	цыганский (кэлдэрарский)	Romani_Kalderash	Kalderash Romani	Кирилл Александрович Кожанов		Kirill Kozhanov					Europe	Indo-European	Indic	46.09	18.16	8	рабочие материалы		vlax1238	In Glottolog, Kalderash is shown as a subdialect of Vlax Romani. The actual data were gathered from Kalderash Romani speakers living in Russia
 29	английский	English	English	Дмитрий Сергеевич Николаев, Джоханна Николс		Dmitry Nikolaev, Johanna Nichols					Europe	Indo-European	Germanic	53	-1	2	WALS		stan1293	
-30	китайский	Chinese_Mandarin	Mandarin Chinese	Елена Николаевна Колпачкова, Юру Су		Elena Kolpachkova, Yuru Xu		2012, 2023	April 14, 2023	April 14, 2023	East and Southeast Asia	Sino-Tibetan	Chinese	40.02	116.23	0	WALS		mand1415	
+30	китайский	Chinese_Mandarin	Mandarin Chinese	Елена Николаевна Колпачкова, Юру Су		Elena Kolpachkova, Yuru Xu		2012, 2023	April 14, 2023	May 07, 2023	East and Southeast Asia	Sino-Tibetan	Chinese	40.02	116.23	0	WALS		mand1415	
 31	польский	Polish	Polish	Георгий Алексеевич Мороз		George Moroz		2017	July 26, 2021	September 24, 2021	Europe	Indo-European	Slavic	51.84	18.63	7	рабочие материалы	Russian	poli1260	
 32	нидерландский	Dutch	Dutch	Михаил Юрьевич Князев	Вера ван Veen	Mikhail Knyazev	Vera van Veen	2013	May 14, 2022	July 25, 2022	Europe	Indo-European	Germanic	52	5	0	WALS		dutc1256	
-33	итальянский	Italian	Italian	Анна Александрова		Anna Alexandrova		2013	May 14, 2022	June 23, 2022	Europe	Indo-European	Romance	43.05	12.65	0	рабочие материалы		ital1282	
+33	итальянский	Italian	Italian	Анна Александрова		Anna Alexandrova		2013	May 14, 2022	May 9, 2023	Europe	Indo-European	Romance	43.05	12.65	0	рабочие материалы		ital1282	
 34	коми-зырянский	Komi_Zyrian	Komi-Zyrian	Екатерина Николаевна Сергеева		Ekaterina Sergeeva					Europe	Uralic	Permic	64.05	54.95	16	Sergeeva 2018: 339		komi1268	
 35	осетинский	Ossetic	Ossetic	Арсений Павлович Выдрин		Arseniy Vydrin					West Asia and the Caucasus	Indo-European	Iranian	42.98	44.61	9	рабочие материалы		osse1243	
 36	сербский	Serbian	Serbian	Анастасия Леонидовна Макарова		Anastasia Makarova		2013	February 06, 2023	February 06, 2023	Europe	Indo-European	Slavic	44.32	21.92	6	WALS (в раб. материалах и в википедии различают датив и местный, но они всегда совпадают)		serb1264	In Glottolog, this is Serbian Standard
@@ -91,5 +91,5 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 90	каталанский	Catalan	Catalan	Татьяна Владимировна Репнина	Изабель Серра, Сильвия Виллаграса	Tatiana Repnina	Isabel Serra, Silvia Villagrasa	2022	February 22, 2022	August 10, 2022	Europe	Indo-European	Romance	41.45	1.57	0	Общие знания	English	stan1289	
 91	нивхский	Nivkh	Nivkh	Анастасия Борисовна Панова		Anastasia Panova		2022	January 1, 2023	February 5, 2023	North and Central Asia	Nivkh	Nivkh	53.33	142	8	рабочие материалы, Gruzdeva 1998: 18	Russian	nivk1234	
 92	шугнанский	Shughni	Shughni	Дарья Александровна Рыжова		Daria Ryzhova		2022	January 1, 2023	February 4, 2023	North and Central Asia	Indo-European	Iranian	37.5	71.79	2	Даша Рыжова	Russian	shug1248	
-93	узбекский	Uzbek	Uzbek	Анастасия Ивановна Жук		Anastasia Zhuk		2022	April 1, 2023	April 1, 2023	North and Central Asia	Altaic	Turkic	40.89	69.21	6	wikipedia	Russian	nort2690	
-94	бамана	Bambara	Bambara	Валентин Феодосьевич Выдрин		Valentin Vydrin		2023	April 19, 2023	April 19, 2023	Sub-Saharan Africa	Mande	Western Mande	12.90	-7.56	0	Общее знание		bamb1269	
+93	узбекский	Uzbek	Uzbek	Анастасия Ивановна Жук		Anastasia Zhuk		2022	April 1, 2023	May 8, 2023	North and Central Asia	Altaic	Turkic	40.89	69.21	6	wikipedia	Russian	nort2690	
+94	бамана	Bambara	Bambara	Валентин Феодосьевич Выдрин		Valentin Vydrin		2023	April 19, 2023	May 8, 2023	Sub-Saharan Africa	Mande	Western Mande	12.90	-7.56	0	Общее знание		bamb1269	
