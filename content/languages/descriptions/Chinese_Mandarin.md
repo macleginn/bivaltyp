@@ -47,7 +47,7 @@ ii) The predicates generally denoting position, appearance or disappearance may 
 
 ```
 (2) 那个       桶-里           装满         了    水。
-    nè-ge     tǒng-lǐ         zhuāngmǎn   le    shuǐ
+    nèi-ge    tǒng-lǐ         zhuāngmǎn   le    shuǐ
     that-CLF  bucket-inside   fill_up     PFV   water
     ‘The bucket filled with water’  (Lit. ‘There is full of water in the bucket.’)
 
@@ -77,15 +77,15 @@ In addition, the Chinese copular verb 是 *shì* ‘to be’ is often omitted wh
 
 ```
 (5) 张三         对        他-儿子     很     满意。
-    Zhāngsān    duì       tā-érzi   hěn    mǎnyì
-    Zhangsan    towards   he-son    very   content
+    Zhāngsān    duì       tā  érzi   hěn    mǎnyì
+    Zhangsan    towards   he  son    very   content
      ‘Zhangsan is very content with his son.’
 
 ```
 
 ### Case system
 
-Mandarin Chinese has no morphological case.
+According to most descriptions, Mandarin Chinese has no morphological case.
 
 ## Verb lemmas
 
@@ -99,5 +99,5 @@ Verbs are cited in the unmarked form, which is normally a bare root (sometimes a
 
 ### Glossing abbreviations
 
-BA  — marker of the *ba*-construction; BEI — passive marker *bei*; CLF — classifier; DE — pre-nominal and pre-verbial modification marker or postverbal resultative marker *de*; GUO — experiential aspect marker *guo*; PFV — perfective; PROG — progressive; ZHE — durative aspect marker *zhe*.
+BA  — marker of the *ba*-construction; CLF — classifier; DE — pre-nominal and pre-verbial modification marker or postverbal resultative marker *de*; EXP — experiential aspect marker *guo*; PASS — passive marker *bei*; PFV — perfective; PROG — progressive; ZHE — durative aspect marker *zhe*.
 
