@@ -69,6 +69,7 @@ Varvara Diveeva: {{ language:Albanian }}
 Sergey Dmitrenko: {{ language:Khmer }}  
 Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
 Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}, {{ language:Tsakhur }}  
+Wakweya Gobena:  {{ language:Oromo_West_Central }}  
 Elena Gorbova: {{ language:Spanish }}  
 Olga Gorickaja: {{ language:Belarusian }}  
 Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}  
