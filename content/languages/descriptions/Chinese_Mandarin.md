@@ -87,7 +87,7 @@ In addition, the Chinese copular verb 是 *shì* ‘to be’ is often omitted wh
 
 Mandarin Chinese has no morphological case.
 
-## Grammar notes
+## Verb lemmas
 
 Verbs are cited in the unmarked form, which is normally a bare root (sometimes accompanied by an aspectual marker).
 
