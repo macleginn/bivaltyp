@@ -7,7 +7,7 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 6	тувинский	Tuvinian	Tuvinian	Софья Алексеевна Оскольская		Sofia Oskolskaya					North and Central Asia	Altaic	Turkic	51.7	94.37	8	Oskolskaya, materials		tuvi1240	
 7	ингерманландский финский	Finnish_Ingrian	Ingrian Finnish	Дарья Федоровна Мищенко		Daria Mishchenko					Europe	Uralic	Finnic	59.47	29.71	13	Mishchenko 2018: 316		finn1318	Ingrian Finnish is a variety of Glottolog's "Finnish" (finn1318) spoken in Ingria. It is different from standard Finnish.
 8	баскский	Basque	Basque	Наталья Михайловна Заика		Natalia Zaika					Europe	Basque	Basque	43.28	-1.32	16	Zaika 2018: 296		basq1248	
-9	французский	French	French	Елена Евгеньевна Корди		Elena Kordi		2010	May 9, 2023	May 9, 2023	Europe	Indo-European	Romance	48	2	0	рабочие материалы		stan1290	
+9	французский	French	French	Елена Евгеньевна Корди		Elena Kordi		2010	May 9, 2023	May 10, 2023	Europe	Indo-European	Romance	48	2	0	рабочие материалы		stan1290	
 10	немецкий	German	German	Сандра Бирцер		Sandra Birzer		2013	February 27, 2023	May 5, 2023	Europe	Indo-European	Germanic	52	10	4	WALS		stan1295	
 11	багвалинский	Bagvalal	Bagvalal	Дмитрий Валентинович Герасимов		Dmitry Gerasimov					West Asia and the Caucasus	Nakh-Daghestanian	Avar-Andic-Tsezic	42.4	46.1	20	книжка, с. 144		bagv1239	
 12	японский	Japanese	Japanese	Юкари Конума		Yukari Konuma					East and Southeast Asia	Japanese	Japanese	35	135	8	условное решение на основе WALS (8-9) и материалов Ю. Конума		nucl1643	
@@ -92,4 +92,5 @@ language_no	language_ru	language	language_external	expert_ru	consultant_ru	exper
 91	нивхский	Nivkh	Nivkh	Анастасия Борисовна Панова		Anastasia Panova		2022	January 1, 2023	February 5, 2023	North and Central Asia	Nivkh	Nivkh	53.33	142	8	рабочие материалы, Gruzdeva 1998: 18	Russian	nivk1234	
 92	шугнанский	Shughni	Shughni	Дарья Александровна Рыжова		Daria Ryzhova		2022	January 1, 2023	February 4, 2023	North and Central Asia	Indo-European	Iranian	37.5	71.79	2	Даша Рыжова	Russian	shug1248	
 93	узбекский	Uzbek	Uzbek	Анастасия Ивановна Жук		Anastasia Zhuk		2022	April 1, 2023	May 8, 2023	North and Central Asia	Altaic	Turkic	40.89	69.21	6	wikipedia	Russian	nort2690	
-94	бамана	Bambara	Bambara	Валентин Феодосьевич Выдрин		Valentin Vydrin		2023	April 19, 2023	May 8, 2023	Sub-Saharan Africa	Mande	Western Mande	12.90	-7.56	0	Общее знание		bamb1269	
+94	бамана	Bambara	Bambara	Валентин Феодосьевич Выдрин		Valentin Vydrin		2023	April 19, 2023	May 8, 2023	Sub-Saharan Africa	Mande	Western Mande	12.90	-7.56	0	Общее знание	French	bamb1269	
+95	оромо (западно-центральный)	Oromo_West_Central	West Central Oromo	Ваквейя Гобена		Wakweya Gobena		2023	May 11, 2023	May 11, 2023	Sub-Saharan Africa	Afro-Asiatic	Lowland East Cushitic	8.81	36.74	7	Комментарии Ваквейи	English	west2721	
