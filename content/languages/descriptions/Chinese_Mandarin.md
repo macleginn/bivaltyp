@@ -30,7 +30,7 @@ As an isolating language, Mandarin Chinese has no morphological case on nouns an
 i) The passive construction with a passive marker 被 *bèi* is normally used when there is a sense of misfortune or adversity. The passive marker and the agent noun phrase occupy the position between the subject (the patient noun phrase) and the verb. 被*bèi* is sometimes considered to be a preposition.
 
 ```
-(1)  张三       被     一-只     狗    咬    了。
+(1)  张三       被    一-只      狗    咬    了。
      Zhāngsān  bèi   yì-zhī    gǒu   yǎo   le
      Zhangsan  BEI   one-CLF   dog   bite  PFV
      ‘Zhangsan was bitten by a dog.’
@@ -46,7 +46,7 @@ that-CLF  bucket-inside   fill_up         PFV   water
 ii) The predicates generally denoting position, appearance or disappearance may have an ergative structure. In this case, the subject position is empty, the location is expressed in the preverbal position and the post-verbal (object) position corresponds to the locatum (sometimes considered the semantic subject of the predicate).
 
 ```
-(2) 那个       桶-里           装满        了     水。
+(2) 那个       桶-里           装满         了    水。
     nè-ge     tǒng-lǐ         zhuāngmǎn   le    shuǐ
     that-CLF  bucket-inside   fill_up     PFV   water
     ‘The bucket filled with water’  (Lit. ‘There is full of water in the bucket.’)
@@ -56,7 +56,7 @@ ii) The predicates generally denoting position, appearance or disappearance may 
 3) In co-verb constructions involving prepositions, such as 对 *duì* (3), 和 *hé*, etc., the object accompanied by the prepositios is placed in the slot before the verb, forming a subject-object-verb (SOV) sentence. In this work, 把 *bǎ* is also considered as preposition. But it should be noted that the analysis of the grammatical status of the *ba*-construction differs between researchers and speakers.
 
 ```
-(3) 年龄       对        记忆力   有     影响。
+(3) 年龄       对        记忆力    有    影响。
     niánlíng  duì       jìyìlì   yǒu   yǐngxiǎng
     age       towards   memory   have  influence
     ‘Age influences memory.’
@@ -66,7 +66,7 @@ ii) The predicates generally denoting position, appearance or disappearance may 
 However, comparative constructions with 于 *yú* (4) and 像 *xiàng* have the basic SVO word order. 
 
 ```
-(4) 张三        落后        于    李四    了。
+(4) 张三       落后         于     李四   了。
     Zhāngsān  luò-hòu      yú    Lǐsì   le
     Zhangsan  fall-behind  to    Lisi   PFV 
     ‘Zhangsan fell behind Lisi.’
@@ -76,7 +76,7 @@ However, comparative constructions with 于 *yú* (4) and 像 *xiàng* have the 
 In addition, the Chinese copular verb 是 *shì* ‘to be’ is often omitted when the predicate is an adjectival or a locative phrase.
 
 ```
-(5) 张三         对        他-儿子   很     满意。
+(5) 张三         对        他-儿子     很     满意。
     Zhāngsān    duì       tā-érzi   hěn    mǎnyì
     Zhangsan    towards   he-son    very   content
      ‘Zhangsan is very content with his son.’
