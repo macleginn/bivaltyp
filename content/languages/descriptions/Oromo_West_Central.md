@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Wakweya Gobena ([Academia.edu profile](https://uni-potsdam.academia.edu/WakwoyaGobena)).
+Contributed by Wakweya Gobena ([Academia.edu profile](https://uni-potsdam.academia.edu/WakweyaGobena)).
 
 ![W.G.'s photo]({{ site_url_j }}/images/Gobena.jpg "S.S.'s photo")
 
