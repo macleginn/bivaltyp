@@ -1,8 +1,9 @@
 # {{ language_external }}
-Contributed by Wakweya Gobena.
+Contributed by Wakweya Gobena ([Academia.edu profile](https://uni-potsdam.academia.edu/WakwoyaGobena)).
+
+![W.G.'s photo]({{ site_url_j }}/images/Gobena.jpg "S.S.'s photo")
 
 The data were gathered in {{ data_collection_year }}. The English version of the questionnaire was used for elicitation.
-
 
 ## How to cite
 > Gobena, Wakweya. 2023. Bivalent patterns in {{ language_external}}. 
