@@ -32,16 +32,10 @@ i) The passive construction with a passive marker 被 *bèi* is normally used wh
 ```
 (1)  张三       被    一-只      狗    咬    了。
      Zhāngsān  bèi   yì-zhī    gǒu   yǎo   le
-     Zhangsan  BEI   one-CLF   dog   bite  PFV
+     Zhangsan  PASS  one-CLF   dog   bite  PFV
      ‘Zhangsan was bitten by a dog.’
      
 ```
-
-ii) The predicates generally denoting position, appearance or disappearance may display a very special structure that is sometimes considered ergative. In this construction, the syntactic subject position is empty, the  and the syntactic object functions as the semantic subject of the predicate.
-那个      桶-里           装满          了    水。
-nè-ge    tǒng-lǐ         zhuāngmǎn   le    shuǐ
-that-CLF  bucket-inside   fill_up         PFV   water
-‘There is full of water in the bucket.’
 
 ii) The predicates generally denoting position, appearance or disappearance may have an ergative structure. In this case, the subject position is empty, the location is expressed in the preverbal position and the post-verbal (object) position corresponds to the locatum (sometimes considered the semantic subject of the predicate).
 
@@ -76,7 +70,7 @@ However, comparative constructions with 于 *yú* (4) and 像 *xiàng* have the 
 In addition, the Chinese copular verb 是 *shì* ‘to be’ is often omitted when the predicate is an adjectival or a locative phrase.
 
 ```
-(5) 张三         对        他-儿子     很     满意。
+(5) 张三         对        他  儿子    很     满意。
     Zhāngsān    duì       tā  érzi   hěn    mǎnyì
     Zhangsan    towards   he  son    very   content
      ‘Zhangsan is very content with his son.’
