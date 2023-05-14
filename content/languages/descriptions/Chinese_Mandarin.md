@@ -30,7 +30,7 @@ As an isolating language, Mandarin Chinese has no morphological case on nouns an
 i) The passive construction with a passive marker 被 *bèi* is normally used when there is a sense of misfortune or adversity. The passive marker and the agent noun phrase occupy the position between the subject (the patient noun phrase) and the verb. 被*bèi* is sometimes considered to be a preposition.
 
 ```
-(1)  张三       被    一-只      狗    咬    了。
+(1)  张三       被    一-只     狗     咬    了。
      Zhāngsān  bèi   yì-zhī    gǒu   yǎo   le
      Zhangsan  PASS  one-CLF   dog   bite  PFV
      ‘Zhangsan was bitten by a dog.’
