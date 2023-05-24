@@ -532,7 +532,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 30	11	yùjiàn	SBJ	DO	TR	TR	Zhāngsān yùjiàn le Lǐsì	PN meet PFV PN	‘Zhangsan encountered Lisi.’ 					张三 遇见 了 李四。
 30	12	jìn	SBJ	DO	TR	TR	Zhāngsān jìn wū le 	PN enter house PFV	‘Zhangsan entered the house.’  					张三 进 屋 了。
 30	13	dǎbài	SBJ	DO	TR	TR	Zhāngsān dǎbài le Lǐsì	PN beat PFV PN	‘Zhangsan beat Lisi.’ 					张三 打败 了 李四。
-30	14	zǒu chū	SBJ	DO	TR	TR	Zhāngsān zǒu chū le wūzi	PN walk out PFV house	‘Zhangsan went out of the house.’ 					张三 走 出 了 屋子。
+30	14	zǒu chū	SBJ	DO	TR	TR	Zhāngsān zǒu chū le wūzi	PN walk out PFV house	‘Zhangsan went out of the house.’ 	There are some doubts as to whether this can be treated as a transitive construction.				张三 走 出 了 屋子。
 30	15	gǎn	SBJ	DO	TR	TR	Zhāngsān zhèngzài gǎn niú	PN PROG drive cow	‘Zhangsan is driving the cow.’ 					张三 正在 赶 牛。
 30	16	nòng wān	SBJ	ba	Y	SUB_ba	Zhāngsān bǎ shùzhī nòng wān le	PN BA branch make bent PFV	‘Zhangsan bent the branch.’ 	"The status of the ""bǎ""-construction is controversial."				张三 把 树枝 弄 弯 了。
 30	17	shuō	SBJ	dui	Y	SBJ_dui	Zhāngsān duì Lǐsì shuō 	PN towards PN say	‘Zhangsan told Lisi.’					张三 对 李四 说
@@ -558,8 +558,8 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 30	37	kāiwánxiào	SBJ	na	Y	SBJ_na	Zhāngsān zài ná Lǐsì kāiwánxiào	PN PROG with PN joke	‘Zhangsan is making fun of Lisi.’					张三 在 拿 李四 开玩笑
 30	38	yǒu	SBJ	DO	TR	TR	Zhāngsān yǒu yí-liàng chē	PN have one-CLF car	‘Zhangsan has a car.’ 					张三 有 一-辆 车。
 30	39	zhǎo	SBJ	DO	TR	TR	Zhāngsān zài zhǎo tā-de yàoshi	PN PROG look_for he-DE key	‘Zhangsan is looking for his key(s).’ 					张三 在 找 他-的 钥匙。
-30	40	shuā guo yóuqī	SBJ	gei	Y	SBJ_gei	Zhāngsān gěi wéilán shuā guo yóuqī le	PN for fence brush GUO paint PFV	‘Zhangsan painted the fence.’ 					张三 给 围栏 刷 过 油漆 了。
-30	41	yǎo	bei	SBJ	X	bei_SBJ	Zhāngsān bèi yì-zhī gǒu yǎo le	PN BEI one-CLF dog bite PFV	‘Zhangsan was bitten by a dog.’	The passive construction is normally used when there is a sense of misfortune or adversity.				张三 被 一-只 狗 咬 了。
+30	40	shuā guo yóuqī	SBJ	gei	Y	SBJ_gei	Zhāngsān gěi wéilán shuā guo yóuqī le	PN for fence brush EXP paint PFV	‘Zhangsan painted the fence.’ 					张三 给 围栏 刷 过 油漆 了。
+30	41	yǎo	bei	SBJ	X	bei_SBJ	Zhāngsān bèi yì-zhī gǒu yǎo le	PN PASS one-CLF dog bite PFV	‘Zhangsan was bitten by a dog.’	The passive construction is normally used when there is a sense of misfortune or adversity.				张三 被 一-只 狗 咬 了。
 30	42	shīqù	SBJ	DO	TR	TR	Zhāngsān shīqù le tā-de fángzi	PN lose PFV he-DE house	‘Zhangsan lost his house.’ 					张三 失去 了 他-的 房子。
 30	43	shì zhe qù zhuā	SBJ	DO	TR	TR	Zhāngsān shì zhe qù zhuā nè-zhī máo	PN try DUR go catch that-CLF cat	‘Zhangsan is trying to catch the cat.’ 					张三 试 着 去 抓 那-只 猫。
 30	44	nòng duàn	SBJ	ba	Y	SUB_ba	Zhāngsān bǎ gùnzi nòng duàn le	PN BA stick make broken PFV	‘Zhangsan broke a stick.’ 	"The status of the ""bǎ""-construction is controversial."				张三 把 棍子 弄 断 了。
@@ -569,9 +569,9 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 30	48	mèngxiǎng yōngyǒu	SBJ	DO	TR	TR	Zhāngsān mèngxiǎng yōngyǒu yí-liàng xīn chē	PN dream have one-CLF new car	‘Zhangsan is dreaming of a new car.’					张三 梦想 拥有 一-辆 新 车。
 30	49	qīngxǐ	SBJ	DO	TR	TR	Zhāngsān qīngxǐ le bēizi	PN wash PFV cup	‘Zhangsan washed the cup.’ 					张三 清洗 了 杯子。
 30	50	chuān-shàng	SBJ	DO	TR	TR	Zhāngsān chuān-shàng le tā-de kùzi	PN wear-up PFV he-DE trouser	‘Zhangsan put on his trousers.’ 					张三 穿-上 了 他-的 裤子。
-30	51	jiàozuò	SBJ	DO	TR	TR	zhè-ge gōngjù jiàozuò zhǐnánzhēn	this-CLF tool be_called compass	‘This tool is called a compass.’ 					这-个 工具 叫做 指南针。
+30	51	jiàozuò	SBJ	DO	TR	TR	zhè-ge gōngjù jiàozuò zhǐnánzhēn	this-CLF tool be_called compass	‘This tool is called a compass.’ 	There are some doubts as to whether this can be treated as a transitive construction.				这-个 工具 叫做 指南针。
 30	52	chéngfá	SBJ	DO	TR	TR	Zhāngsān chéngfá le tā-de érzi	PN punish PFV he-DE son	‘Zhangsan punished his son.’ 					张三 惩罚 了 他-的 儿子。
-30	53	xíjī	bei	SBJ	X	bei_SBJ	yúfū bèi yì-zhī xióng xíjī le	fisherman bei one-CLF bear attack PFV	‘The fisherman was attacked by a bear.’	The passive construction is normally used when there is a sense of misfortune or adversity.				渔夫 被 一-只 熊 袭击 了。
+30	53	xíjī	bei	SBJ	X	bei_SBJ	yúfū bèi yì-zhī xióng xíjī le	fisherman PASS one-CLF bear attack PFV	‘The fisherman was attacked by a bear.’	The passive construction is normally used when there is a sense of misfortune or adversity.				渔夫 被 一-只 熊 袭击 了。
 30	54	zhuāngmǎn	li	SBJ	X	li_SBJ	nè-ge tǒng-lǐ zhuāngmǎn le shuǐ	that-CLF bucket-inside fill_up PFV water	‘The bucket filled with water.’	"Here, ""lǐ"" is treated as an argument-marking device, but it can alternatively be viewed as a locative noun meaning ‘internal part’."				那个 桶-里 装满 了 水。
 30	55	zhǎodào	SBJ	DO	TR	TR	Zhāngsān zhǎodào le tā-de yàoshi	PN find PFV he-DE key	‘Zhangsan found his key(s).’					张三 找到 了 他-的 钥匙。
 30	56	chà 	SBJ	DO	TR	TR	Zhāngsān hái chà yí-kuài qián	PN still lack one-CLF money	‘Zhangsan still lacks one yuan.’ 					张三 还 差 一-块 钱。
@@ -641,12 +641,12 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 30	120	xiǎngshòu	*	*	*		Zhāngsān xiǎngshòu zhe rè-chá-de nuǎnyì	PN enjoy DUR hot-tea-DE warmth	‘Zhangsan enjoys hot tea.’	Not included in the dataset because Y is expressed as an NP-internal modifier.				张三 享受 着 热-茶-的 暖意。
 30	121	xiǎngyào	SBJ	DO	TR	TR	Zhāngsān xiǎngyào yí-bù xīn shǒujī	PN want one-CLF new cellphone	‘Zhangsan wants a new mobile phone.’ 					张三 想要 一-部 新 手机。
 30	122	yǒu jīyuàn	SBJ	he	Y	SBJ_he	Zhāngsān hé Lǐsì yǒu jīyuàn	PN with PN have grudge	‘Zhangsan has grudge against Lisi.’					张三 和 李四 有 积怨。
-30	123	gǎndào (bèi) màofàn	*	*	*		Zhāngsān gǎndào bèi màofàn le	PN feel BEI offend PFV	‘Zhangsan felt offended.’	Not included in the dataset because Y cannot be overtly expressed.				张三 感到 被 冒犯 了。
+30	123	gǎndào (bèi) màofàn	*	*	*		Zhāngsān gǎndào bèi màofàn le	PN feel PASS offend PFV	‘Zhangsan felt offended.’	Not included in the dataset because Y cannot be overtly expressed.				张三 感到 被 冒犯 了。
 30	124	xīnfán	SBJ	rang	Y	SBJ_rang	Zhāngsān ràng Lǐsì hěn xīnfán	PN make PN very upset	‘Zhangsan greatly upset Lisi.’ 	"Here, ""ràng"" is treated as an argument-marking device, but its status is controversial."				张三 让 李四 很 心烦。
 30	125	jīngtàn-bù-yǐ	SBJ	dui	Y	SBJ_dui	Zhāngsān duì zhè-zuò chéngzhèn jīngtàn-bù-yǐ	PN towards this-CLF town marvel-not-stop	‘Zhangsan marvelled at this town.’ 					张三 对 这-座 城镇 惊叹-不-已。
 30	126	bǐshì	SBJ	DO	TR	TR	Zhāngsān bǐshì Lǐsì	PN despise PN	‘Zhangsan despises Lisi.’ 					张三 鄙视 李四。
 30	127	xīnfán	SBJ	yin 	Y	SBJ_yin	Zhāngsān yīn tā-érzi ér xīnfán	PN because_of he-son so upset	‘Zhangsan is upset because of his son.’	Non-verbal predicate. 				张三 因 他-儿子 而 心烦。
-30	128	jīnù	SBJ	bei	Y	SBJ_bei	Zhāngsān kuài bèi tā-nǚ'ér jīnù le	PN soon BEI he-daughter irritate PFV	‘Zhangsan is getting irritated with his daughter.’ 					张三 快 被 他-女儿 激怒 了。
+30	128	jīnù	SBJ	bei	Y	SBJ_bei	Zhāngsān kuài bèi tā-nǚ'ér jīnù le	PN soon PASS he-daughter irritate PFV	‘Zhangsan is getting irritated with his daughter.’ 	The passive construction is normally used when there is a sense of misfortune or adversity.				张三 快 被 他-女儿 激怒 了。
 30	129	xǐhuan	SBJ	DO	TR	TR	Zhāngsān hěn xǐhuan Lǐsì	PN very like PN	‘Zhangsan is fond of Lisi.’ 					张三 很 喜欢 李四。
 30	130	gǎndào nánkān	*	*	*		Zhāngsān yīn gèzi ǎi ér gǎndào nánkān	PN because_of height short so feel embarrassed	‘Zhangsan feels embarrassed because he is short.’	Not included in the database because Y is expressed in a dependent clause.				张三 因 个子 矮 而 感到 难堪。
 89	1	have hovedpine	*	*	*		Peter ha-r hovedpine	PN have-PRS headache(C)	‘Peter has a headache.'	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + root in a compound).		‘У Петера болит голова.'		
@@ -2859,6 +2859,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 61	128	razburjati se	NOM	zaradiGEN	Y	NOM_zaradiGEN	Pavel se razburja zaradi Аn-e	PN[NOM.SG] RFL upset:IPFV.PRS.3SG because_of PN-GEN.SG	‘Pavel is getting irritated with Ana.’		PN[NOM.SG] RFL раздражать:IPFV.PRS.3SG из.за PN-GEN.SG	‘Павел раздражается на Ану.’		
 61	129	biti všeč	DAT	NOM	X	DAT_NOM	Petr-u je všeč An-a	PN-DAT.SG be.PRS.3SG pleasant PN-NOM.SG	‘Peter is fond of Ana.’		PN-DAT.SG быть.PRS.3SG приятно PN-NOM.SG	‘Петер симпатизирует Ане.’		
 61	130	sramovati se	NOM	GEN	Y	NOM_GEN	Peter se sramuje svoj-e višin-e	PN[NOM.SG] RFL be_ashamed:IPFV.PRS.3SG one’s-GEN.SG.F height-GEN.SG	‘Peter is shy about his height.’		PN[NOM.SG] RFL стесняться:IPFV.PRS.3SG свой-GEN.SG.F рост-GEN.SG	‘Петер стесняется своего роста.’		
+97	1	noppi gā uṁḍu	DAT	NOM	X	DAT_NOM	pravīṇ-ki ā kālu noppi gā uṁdi	PN(M).SG.OBL-DAT DEM.DIST leg(N).SG.NOM pain(N).SG.NOM ADVZ be.PRS.3SG.NM	‘Praveen’s that leg hurts.’					
+97	2	vaccu	DAT	NOM	X	DAT_NOM	pravīṇ-ki flū vacciṁdi	PN(M).SG.OBL-DAT flu(N).SG.NOM come.PST.3SG.NM	‘Praveen has the flu.’					
+97	3	bhayamu + COP	DAT	ante	XY	DAT_ante	pravīṇ-ki ā kukk' aṁṭē bhayamu	PN(M).SG.OBL-DAT DEM.DIST dog(N).SG.NOM that_is fear(N).SG.NOM	‘Praveen is afraid of that dog.’	Non-verbal predicate.				
+97	4	visurēyu	NOM	ACC	TR	TR	pravīṇ mundu rāyyi visurēsāḍu	PN(M).SG.NOM before stone(N).SG.NOM throw.INTENS.PST.3SG.M	‘Praveen threw a stone first.’					
+97	5	saripōyē uṁḍu	*	*	*		ippuḍu pravīṇ-ki saripōyē aṁta ḍabbu-l' unnāyi	now PN(M).SG.OBL-DAT be_enough.PTCP.NPST that_much money(N)-PL.NOM be.PRS.3PL.N	‘Now Praveen has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
+97	6	uṁḍu	NOM	OBLlaga	Y	NOM_OBLlaga	pravīṇ maheṣ lāgā uṁṭāḍu	PN(M).SG.NOM PN(M).SG.OBL like be.NPST.3SG.M	‘Praveen resembles Mahesh.’					
+97	7	nammu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni nammutāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC believe.NPST.3SG.M	‘Praveen believes Mahesh.’					
+97	8	tīsukōnu	NOM	ACC	TR	TR	pravīṇ oka pustakamu tīsukunnāḍu	PN(M).SG.NOM one book(N).SG.NOM take.PST.3SG.M	‘Praveen took a book.’					
+97	9	cūcu	NOM	ACC	TR	TR	pravīṇ oka iṁṭi-ni cūstunnāḍu	PN(M).SG.NOM one house(N).SG.OBL-ACC see.DUR.3SG.M	‘Praveen sees a house.’					
+97	10	māru	*	*	*		vayasu jñāpakāšakti-ni mārustuṁdi	age(N).SG.NOM memory_force(N).SG.OBL-ACC change.NPST.3SG.NM	‘Age changes memory.’	Not included in the database because this translation is semantically inaccurate.				
+97	11	kaliyu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni anukōkuṁḍā kalisāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC accidentally unite.PST.3SG.M	‘Praveen accidentally met Mahesh.’					
+97	12	pravēšiṁcu	NOM	LOCDAT	Y	NOM_LOCDAT	pravīṇ iṁṭi-lō-ki pravēšiṁcāḍu	PN(M).SG.NOM house(N).SG.OBL-LOC-DAT enter.PST.3SG.M	‘Praveen entered the house.’					
+97	13	gelucu	NOM	OBLmida	Y	NOM_OBLmida	pravīṇ maheṣ mīda gelicāḍu	PN(M).SG.NOM PN(M).SG.OBL on win.PST.3SG.M	‘Praveen beat Mahesh.’					
+97	14	veḷḷu	NOM	ABL	Y	NOM_ABL	pravīṇ iṁṭi-nuṁci bayaṭi-ki veḷḷāḍu	PN(M).SG.NOM house(N).SG.OBL-ABL outdoors(N).SG.OBL-DAT go.PST.3SG.M	‘Praveen went out of the house.’					
+97	15	tōlukupōvu	NOM	ACC	TR	TR	pravīṇ āvu-ni tōlukupōtunnāḍu	PN(M).SG.NOM cow(N).SG.OBL-ACC make_walk.DUR.3SG.M	‘Praveen is driving the cow.’					
+97	16	vaṁcu	NOM	ACC	TR	TR	pravīṇ komma-ni vaṁcāḍu	PN(M).SG.NOM branch(N).SG.OBL-ACC bend.PST.3SG.M	‘Praveen bent the branch.’					
+97	17	ceppu	NOM	DAT	Y	NOM_DAT	pravīṇ maheṣ-ku ceppāḍu	PN(M).SG.NOM PN(M).SG.OBL-DAT say.PST.3SG.M	‘Praveen told Mahesh...’					
+97	18	paṭṭukōnu	NOM	ACC	TR	TR	pravīṇ pustakānni paṭṭukuni unnāḍu	PN(M).SG.NOM book(N).SG.ACC take_hold.CVB.ANT be.PRS.3SG.M	‘Praveen is holding a book.’					
+97	19	cērukōnu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni cērukunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC join.PST.3SG.M	‘Praveen caught up with Mahesh.’					
+97	20	*	*	*	*		pravīṇ āvu pāla-ni pitikāḍu	PN(M).SG.NOM cow(N).SG.OBL milk.PL.OBL-ACC milk.PST.3SG.M	‘Praveen milked the cow.’	Not included in the database because X is expressed as an NP-internal modifier.				
+97	21	cēru	NOM	DAT	Y	NOM_DAT	pravīṇ oḍḍi-ki cērāḍu	PN(M).SG.NOM coast(N).SG.OBL-DAT reach.PST.3SG.M	‘Praveen reached the bank.’					
+97	22	muṭṭukōnu	NOM	ACC	TR	TR	pravīṇ goḍa-ni muṭṭukunnāḍu	PN(M).SG.NOM wall(N).SG.OBL-ACC touch.PST.3SG.M	‘Praveen touched the wall.’					
+97	23	goḍavapaḍu	NOM	COM	Y	NOM_COM	pravīṇ maheṣ-tō goḍavapaḍutunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-COM fight.DUR.3SG.M	‘Praveen is fighting with Mahesh.’					
+97	24	snēhamu cēyu	NOM	COM	Y	NOM_COM	pravīṇ maheṣ-tō snēhamu cēstunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-COM amity(N).SG.NOM do.DUR.3SG.M	‘Praveen is friends with Mahesh.’					
+97	25	ālōciṁcu	NOM	OBLgurinci	Y	NOM_OBLgurinci	pravīṇ madhuri guriṁci ālōcistunnāḍu	PN(M).SG.NOM PN(F).SG.OBL about think.DUR.3SG.M	‘Praveen is thinking about Madhuri.’					
+97	26	tinu	NOM	ACC	TR	TR	pravīṇ āpil tinnāḍu	PN(M).SG.NOM apple(N).SG.NOM eat.PST.3SG.M	‘Praveen ate an apple.’					
+97	27	vēyiṁcu	NOM	ACC	TR	TR	pravīṇ cēpa-nu vēyiṁcāḍu	PN(M).SG.NOM fish(N).SG.OBL-ACC fry.PST.3SG.M	‘Praveen fried the fish.’					
+97	28	edurucūcu	NOM	OBLkosamu	Y	NOM_OBLkosamu	pravīṇ maheṣ kōsamu edurucūstunnāḍu	PN(M).SG.NOM PN(M).SG.OBL for wait.DUR.3SG.M	‘Praveen is waiting for Mahesh.’					
+97	29	māracipōvu	NOM	OBLgurinci	Y	NOM_OBLgurinci	pravīṇ vērē rōḍḍu guriṁci māracipōyāḍu	PN(M).SG.NOM other road(N).SG.OBL about forget.PST.3SG.M	‘Praveen forgot about the other road.’					
+97	30	ādhārapaḍu	NOM	OBLmida	Y	NOM_OBLmida	jñāpakašakti vayasu mīda ādhārapaḍi uṁṭuṁdi	memory_force(N).SG.NOM age(N).SG.OBL on depend.CVB.ANT be.DUR.3SG.NM	‘Memory depends on age.’					
+97	31	pilucu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni pilicāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC call.PST.3SG.M	‘Praveen called Mahesh.’					
+97	32	telusukōnu	NOM	OBLgurinci	Y	NOM_OBLgurinci	pravīṇ maheṣ guriṁci saṁvatsaramu mundu telusukunnāḍu	PN(M).SG.NOM PN(M).SG.OBL about year(N).SG.OBL before get_to_know.PST.3SG.M	‘Praveen got to know Mahesh a year ago.’					
+97	33	teliyu	DAT	NOM	X	DAT_NOM	pravīṇ-ki maheṣ telusu	PN(M).SG.OBL-DAT PN(M).SG.NOM be_known	‘Praveen knows Mahesh.’	This predicate is used without agreement markers and without copula.				
+97	34	vāyiṁcu	NOM	ACC	TR	TR	pravīṇ giṭār vāyistunnāḍu	PN(M).SG.NOM guitar(N).SG.NOM strike.DUR.3SG.M	‘Praveen is playing the guitar.’					
+97	35	tappiṁcukōnu	NOM	ABL	Y	NOM_ABL	pravīṇ maheṣ-nuṁci tappiṁcukuṁtū tirugutunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-ABL escape.CVB.SIM turn.DUR.3SG.M	‘Praveen avoids Mahesh.’					
+97	36	tayāru cēyu	NOM	ACC	TR	TR	pravīṇ eluka-la kōsamu uccu tayāru cēsāḍu	PN(M).SG.NOM rat(N)-PL.OBL for loop(N).SG.NOM ready do.PST.3SG.M	‘Praveen made a trap for rats.’					
+97	37	vekkiriṁcu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni vekkiristunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC ridicule.DUR.3SG.M	‘Praveen is making fun of Mahesh.’					
+97	38	uṁḍu	DAT	NOM	X	DAT_NOM	pravīṇ-ki kār' uṁdi	PN(M).SG.OBL-DAT car(N).SG.NOM be.PRS.3SG.NM	‘Praveen has a car.’					
+97	39	vetuku	NOM	OBLkosamu	Y	NOM_OBLkosamu	pravīṇ tāḷaṁcēvu-la kōsamu vetukutunnāḍu	PN(M).SG.NOM key(N)-PL.OBL for search.DUR.3SG.M	‘Praveen is looking for the keys.’					
+97	40	raṁgu vēyu	NOM	DAT	Y	NOM_DAT	pravīṇ tana kaṁce-ki raṁgu vēsāḍu	PN(M).SG.NOM own fence(N).SG.OBL-DAT colour(N).SG.NOM throw.PST.3SG.M	‘Praveen painted his fence.’					
+97	41	karucu	NOM	ACC	TR	TR	oka kukka pravīṇ-ni kariciṁdi	one dog(N).SG.NOM PN(M).SG.OBL-ACC bite.PST.3SG.NM 	‘A dog bit Praveen.’					
+97	42	pōgoṭṭukōnu	NOM	ACC	TR	TR	pravīṇ tana iṁṭi-ni pōgoṭṭukunnāḍu	PN(M).SG.NOM own house(N).SG.OBL-ACC lose.PST.3SG.M	‘Praveen lost his house.’					
+97	43	paṭṭukovadāniki prayatniṁcu	NOM	ACC	TR	TR	pravīṇ pilli-ni paṭṭukōvaḍāni-ki prayatnistunnāḍu	PN(M).SG.NOM cat(N).SG.OBL-ACC take_hold.VN.OBL-DAT try.DUR.3SG.M	‘Praveen is trying to catch the cat.’					
+97	44	viragakoṭṭu	NOM	ACC	TR	TR	pravīṇ kaṭṭe-ni viragakoṭṭāḍu	PN(M).SG.NOM stick(N).SG.OBL-ACC break.PST.3SG.M	‘Praveen broke a stick.’					
+97	45	poguḍu	NOM	ACC	TR	TR	pravīṇ madhuri-ni poguḍutunnāḍu	PN(M).SG.NOM PN(F).SG.OBL-ACC commend.DUR.3SG.M	‘Praveen is flattering Madhuri.’					
+97	46	prēmiṁcu	NOM	ACC	TR	TR	pravīṇ madhuri-ni prēmistunnāḍu	PN(M).SG.NOM PN(F).SG.OBL-ACC love.DUR.3SG.M	‘Praveen loves Madhuri.’					
+97	47	ūpu	NOM	ACC	TR	TR	pravīṇ dasti-ni gāli-lo ūputunnāḍu	PN(M).SG.NOM handkerchief(N).SG.OBL-ACC wind(N).SG.OBL-LOC cause_to_swing.DUR.3SG.M	‘Praveen is waving a handkerchief.’					
+97	48	kalalu kanu	NOM	OBLgurinci	Y	NOM_OBLgurinci	pravīṇ kotta kāru guriṁci kala-lu kaṁtunnāḍu	PN(M).SG.NOM new car(N).SG.OBL about dream(N)-PL.NOM perceive.DUR.3SG.M	‘Praveen is dreaming of a new car.’					
+97	49	kaḍugu	NOM	ACC	TR	TR	pravīṇ kappu-ni kaḍigāḍu	PN(M).SG.NOM cup(N).SG.OBL-ACC wash.PST.3SG.M	‘Praveen washed the cup.’					
+97	50	vēsukōnu	NOM	ACC	TR	TR	pravīṇ baṭṭa-lu vēsukunnāḍu	PN(M).SG.NOM cloth(N)-PL.NOM wear.PST.3SG.M	‘Praveen put on his clothes.’					
+97	51	pilucu	ACC	NOM	X	ACC_NOM	ī sādhanānni diksūci pilustāru	DEM.PROX means(N).SG.ACC compass(N).SG.NOM call.NPST.3PL.EPIC	‘This tool is called a compass.’					
+97	52	šikṣiṁcu	NOM	ACC	TR	TR	pravīṇ tana koḍuku-ni šikṣiṁcāḍu	PN(M).SG.NOM own son(M).SG.OBL-ACC punish.PST.3SG.M	‘Praveen punished his son.’					
+97	53	dāḍicēyu	NOM	OBLmidaki	Y	NOM_OBLmidaki	oka cēpavāḍi mīda-ki oka elugubaṁṭi dāḍicēsiṁdi	one fisherman(M).SG.OBL on-DAT one bear(N).SG.NOM attack.PST.3SG.NM	‘A bear attacked a fisherman.’					
+97	54	niṁḍipōvu	NOM	COM	Y	NOM_COM	bākeṭ niḷḷa-tō niṁḍipōyiṁdi	bucket(N).SG.NOM water.PL.OBL-COM fill_up.PST.3SG.NM	‘The bucket filled with water.’					
+97	55	doruku	DAT	NOM	X	DAT_NOM	pravīṇ-ki tana tāḷaṁcēvu-lu dorikāyi	PN(M).SG.OBL-DAT own key(N)-PL.NOM be_found.PST.3PL.N	‘Praveen found his keys.’					
+97	56	takkuva agu	OBLdaggara	NOM	X	OBLdaggara_NOM	pravīṇ daggara oka yūro takkuv' ayiṁdi	PN(M).SG.OBL near one euro(N).SG.NOM lack(N).SG.NOM become.PST.3SG.NM	‘Praveen lacks one euro.’					
+97	57	dvēṣiṁcu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni dvēṣistunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC hate.DUR.3SG.M	‘Praveen hates Mahesh.’					
+97	58	iṣṭamu + COP	DAT	NOM	X	DAT_NOM	pravīṇ-ki ī cokka aṁṭē iṣṭamu	PN(M).SG.OBL-DAT DEM.PROX shirt(N).SG.NOM that_is liking(N).SG.NOM	‘Praveen likes this shirt.’	Non-verbal predicate.				
+97	59	avasaramu paḍu	DAT	COM	XY	DAT_COM	pravīṇ-ki ḍabbu-la-tō avasaramu paḍiṁdi	PN(M).SG.OBL-DAT money-PL.OBL-COM need(N).SG.NOM fall.PST.3SG.NM	‘Praveen needs money.’					
+97	60	cuṭṭumuṭṭu	NOM	ACC	TR	TR	goḍa-lu nagarānni cuṭṭumuṭṭāyi	wall(N)-PL.NOM city(N).SG.ACC surround.PST.3PL.N	‘Walls surround the city.’					
+97	61	migulu	OBLdaggara	NOM	X	OBLdaggara_NOM	pravīṇ daggara padi yūro migul' unnāyi	PN(M).SG.OBL near ten euro(N).SG.NOM remain.CVB.ANT be.PRS.3PL.N	‘Praveen has 10 euros left.’					
+97	62	javābu ivvu	NOM	DAT	Y	NOM_DAT	pravīṇ tana gurugāri-ki javābu iccāḍu	PN(M).SG.NOM own teacher.HON(M).SG.OBL-DAT reply(N).SG.NOM give.PST.3SG.M	‘Praveen answered the teacher.’					
+97	63	terucu	NOM	ACC	TR	TR	pravīṇ kyān-ni tericāḍu	PN(M).SG.NOM can(N).SG.OBL-ACC open.PST.3SG.M	‘Praveen opened a can.’					
+97	64	vēru + COP	NOM	OBLkante	Y	NOM_OBLkante	nā cokka nīdāni kaṁṭē vēru	1SG.OBL shirt(N).SG.NOM yours_one(N).SG.OBL than other	‘My shirt is different from yours.’	Non-verbal predicate.				
+97	65	venakapaḍu	NOM	DAT	Y	NOM_DAT	pravīṇ maheṣ-ki venakapaḍḍāḍu	PN(M).SG.NOM PN(M).SG.OBL-DAT lag.PST.3SG.M	‘Praveen fell behind Mahesh.’					
+97	66	dunnu	NOM	ACC	TR	TR	pravīṇ polānni dunnutunnāḍu	PN(M).SG.NOM field(N).SG.ACC plough.DUR.3SG.M	‘Praveen is ploughing the field.’					
+97	67	vaccu	*	*	*		nā cētu-la-nuṁci gyās vāsana vastuṁdi	1SG.OBL hand(N)-PL.OBL-ABL gas(N).SG.OBL smell(N).SG.NOM come.NPST.3SG.NM	‘The gasoline smell comes from my hands.’	Not included in the database because Y is expressed as part of a nominal compound.				
+97	68	dāṭu	NOM	ACC	TR	TR	pravīṇ rōḍḍu dāṭāḍu	PN(M).SG.NOM road(N).SG.NOM cross.PST.3SG.M	‘Praveen crossed the road.’					
+97	69	pāḍu	NOM	ACC	TR	TR	pravīṇ oka andamaina pāṭa pāḍāḍu	PN(M).SG.NOM one beautiful song(N).SG.NOM sing.PST.3SG.M	‘Praveen sang a beautiful song.’					
+97	70	rāyu	NOM	ACC	TR	TR	pravīṇ oka uttaramu rāsāḍu	PN(M).SG.NOM one answer(N).SG.NOM write.PST.3SG.M	‘Praveen wrote a letter.’					
+97	71	tāgu	NOM	ACC	TR	TR	pravīṇ pālu tāgāḍu	PN(M).SG.NOM milk.PL.NOM drink.PST.3SG.M	‘Praveen drank the milk.’					
+97	72	karigiṁcu	NOM	ACC	TR	TR	pravīṇ oka lēḍu mukka-ni karigiṁcāḍu	PN(M).SG.NOM one lead(N).SG.OBL piece(N).SG.OBL-ACC melt.PST.3SG.M	‘Praveen melted a piece of lead.’					
+97	73	kuduru	NOM	COM	Y	NOM_COM	ī belṭu nā ḍrēs-tō bāgā kudurutuṁdi	DEM.PROX belt(N).SG.NOM 1SG.OBL dress(N).SG.OBL-COM well be_set.NPST.3SG.NM	‘This belt goes well with my dress.’					
+97	74	vadilēyu	NOM	ACC	TR	TR	pravīṇ tana soṁta nagarānni vadilēsāḍu	PN(M).SG.NOM own belonging_to_self city(N).SG.ACC quit.INTENS.PST.3SG.M	‘Praveen left his native city.’					
+97	75	parucukōnu	NOM	ACC	TR	TR	kārpiṭ nēla mottānni parucukuṁdi	carpet(N).SG.NOM floor(N).SG.OBL sum(N).SG.OBL.ACC spread_over.PST.3SG.NM 	‘The carpet covers the whole floor.’					
+97	76	gurtu uṁḍu	DAT	NOM	X	DAT_NOM	pravīṇ-ki iḷḷu bāgā gurt' uṁdi	PN(M).SG.OBL-DAT house(N).SG.NOM well mark(N).SG.NOM be.PRS.3SG.NM	‘Praveen remembers the house well.’					
+97	77	sahāyamu cēyu	NOM	DAT	Y	NOM_DAT	pravīṇ maheṣ-ki sahāyamu cēsāḍu	PN(M).SG.NOM PN(M).SG.OBL-DAT help(N).SG.NOM do.PST.3SG.M	‘Praveen helped Mahesh.’					
+97	78	arthamu agu	DAT	NOM	X	DAT_NOM	pravīṇ-ki preṁcibhāṣa artham' avutuṁdi	PN(M).SG.OBL-DAT French_language(N).SG.NOM meaning(N).SG.NOM become.NPST.3SG.NM	‘Praveen understands French.’	Non-verbal predicate.				
+97	79	paḍu	NOM	OBLpai	Y	NOM_OBLpai	iṁṭi pai piḍugu paḍiṁdi	house(N).SG.OBL over thunderbolt(N).SG.NOM fall.PST.3SG.NM	‘Lightning fell on the house.’					
+97	80	kōsukōnu	NOM	COM	Y	NOM_COM	pravīṇ blēḍ-tō tana-ni tānu kōsukunnāḍu	PN(M).SG.NOM blade(N).SG.OBL-COM own-ACC REFL cut.PST.3SG.M	‘Praveen cut himself with a razor.’					
+97	81	atuku	NOM	DAT	Y	NOM_DAT	glāsu tēbal-ki atukkuṁdi	glass(N).SG.NOM table(N).SG.OBL-DAT stick.PST.3SG.NM	‘The glass got stuck to the table.’					
+97	82	ōḍipōvu	NOM	COM	Y	NOM_COM	pravīṇ maheṣ-tō ōḍipōyāḍu	PN(M).SG.NOM PN(M).SG.OBL-COM be_defeated.PST.3SG.M	‘Praveen lost to Mahesh.’					
+97	83	santōṣiṁcu	NOM	OBLvalla	Y	NOM_OBLvalla	pravīṇ uttāramu valla saṁtōṣiṁcāḍu	PN(M).SG.NOM answer(N).SG.OBL by rejoice.PST.3SG.M	‘Praveen was glad about the letter.’					
+97	84	mātlāḍu	NOM	COM	Y	NOM_COM	pravīṇ maheṣ-tō mātlāḍutunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-COM speak.DUR.3SG.M	‘Praveen is speaking with Mahesh.’					
+97	85	puṭṭu	DAT	NOM	X	DAT_NOM	madhuri-ki koḍuku puṭṭāḍu	PN(F).SG.OBL-DAT son(M).SG.NOM be_born.PST.3SG.M	‘Madhuri gave birth to a son.’					
+97	86	paḍēyu	NOM	ACC	TR	TR	pravīṇ glāsu-ni paḍēsāḍu	PN(M).SG.NOM glass(N).SG.OBL-ACC drop.PST.3SG.M	‘Praveen dropped the glass.’					
+97	87	naḍupu	NOM	ACC	TR	TR	pravīṇ mā paṭṭaṇānni naḍuputāḍu	PN(M).SG.NOM 1PL.EXCL.OBL town(N).SG.ACC make_walk.NPST.3SG.M	‘Praveen runs our town.’					
+97	88	mis agu	NOM	ACC	TR	TR	pravīṇ madhuri-ni mis avutunnāḍu	PN(M).SG.NOM PN(F).SG.OBL-ACC miss become.DUR.3SG.M	‘Praveen misses Madhuri.’					
+97	89	vembaḍiṁcu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni veṁbaḍistunnāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC follow.DUR.3SG.M	‘Praveen follows Mahesh.’					
+97	90	digu	NOM	OBLmidanunci	Y	NOM_OBLmidanunci	pravīṇ gurramu mīda-nuṁci digāḍu	PN(M).SG.NOM horse(N).SG.OBL on-ABL come_down.PST.3SG.M	‘Praveen got down from the horse.’					
+97	91	viṇu	NOM	ACC	TR	TR	pravīṇ rēḍiyō viṁṭunnāḍu	PN(M).SG.NOM radio(N).SG.NOM listen.DUR.3SG.M	‘Praveen is listening to radio.’					
+97	92	viṇu	*	*	*		pravīṇ eppuḍū tana amma māṭa viṁṭāḍu	PN(M).SG.NOM always own mother(F).SG.OBL word(N).SG.NOM listen.NPST.3SG.M	‘Praveen always listens to his mother’s words.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+97	93	viṇu	NOM	ACC	TR	TR	pravīṇ saṁgītamu viṁṭunnāḍu	PN(M).SG.NOM music(N).SG.NOM listen.DUR.3SG.M	‘Praveen hears the music.’					
+97	94	kaliyu	NOM	COM	Y	NOM_COM	tēne pāla-tō kalisiṁdi	honey(N).SG.NOM milk.PL.OBL-COM unite.PST.3SG.NM	‘The honey got mixed with the milk.’					
+97	95	gamaniṁcu	NOM	ACC	TR	TR	pravīṇ mēgha-la-ni gamanistunnāḍu	PN(M).SG.NOM cloud(N)-PL.OBL-ACC pay_attention.DUR.3SG.M	‘Praveen is observing the clouds.’					
+97	96	viḍacēyu	NOM	ACC	TR	TR	pravīṇ tana cokka-ni viḍacēsāḍu	PN(M).SG.NOM own shirt(N).SG.OBL-ACC undo.PST.3SG.M	‘Praveen took off/unbuttoned his shirt.’					
+97	97	kalalu kanu	NOM	OBLgurinci	Y	NOM_OBLgurinci	pravīṇ nidra-lō madhuri guriṁci kalalu kaṁtunnāḍu	PN(M).SG.NOM sleep(N).SG.OBL-LOC PN(F).SG.OBL about dream(N)-PL.NOM perceive-DUR-3SG.M	‘Praveen dreams about Madhuri.’					
+97	98	aṁgīkariṁcu	NOM	COM	Y	NOM_COM	pravīṇ maheṣ-tō aṁgīkariṁcāḍu	PN(M).SG.NOM PN(M).SG.OBL-COM agree.PST.3SG.M	‘Praveen agreed with Mahesh.’					
+97	99	goḍava agu	DAT	COM	XY	DAT_COM	pravīṇ-ki maheṣ-tō goḍav' ayiṁdi	PN(M).SG.OBL-DAT PN(M).SG.OBL-COM quarrel(N).SG.NOM become.PST.3SG.NM	‘Praveen had a quarrel with Mahesh.’					
+97	100	dhara + COP	*	*	*		ī kappu dhara oka yūro	DEM.PROX cup(N).SG.OBL price(N).SG.NOM one euro(N).SG.NOM	‘This cup costs 1 euro.’	Not included in the database because 1) X is expressed as an NP-internal modifier and 2) Y is expressed as a (non-verbal) predicate (not an argument).				
+97	101	kālcu	NOM	ACC	TR	TR	pravīṇ pakṣi-ni kālcāḍu	PN(M).SG.NOM bird(N).SG.OBL-ACC shoot.PST.3SG.M	‘Praveen shot at the bird.’					
+97	102	pōyu	NOM	ACC	TR	TR	pravīṇ paṁcadāra pōsāḍu	PN(M).SG.NOM sugar(N).SG.NOM pour.PST.3SG.M	‘Praveen poured the sugar.’					
+97	103	pōgoṭṭukōnu	NOM	ACC	TR	TR	pravīṇ atani tāḷaṁcevu-lu pōgoṭṭukunnāḍu	PN(M).SG.NOM that_man(M).SG.OBL key(N)-PL.NOM lose.PST.3SG.M	‘Praveen lost his keys.’					
+97	104	munugu	NOM	LOCDAT	Y	NOM_LOCDAT	ceṭṭu niḷḷa-lō-ki munigiṁdi	tree(N).SG.NOM water.PL.OBL-LOC-DAT sink.PST.3SG.NM	‘The tree sank in the water.’					
+97	105	caṁpēyu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni caṁpēsāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC kill.INTENS.PST.3SG.M	‘Praveen killed Mahesh.’					
+97	106	koṭṭu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni koṭṭāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC beat.PST.3SG.M	‘Praveen hit Mahesh.’					
+97	107	muddu peṭṭu	NOM	DAT	Y	NOM_DAT	pravīṇ madhuri-ki muddu peṭṭāḍu	PN(M).SG.NOM PN(F).SG.OBL-DAT kiss(N).SG.NOM put.PST.3SG.M	‘Praveen kissed Madhuri.’					
+97	108	caduvu	NOM	ACC	TR	TR	pravīṇ oka maṁci pustakānni cadivāḍu	PN(M).SG.NOM one good book(N).SG.ACC read.PST.3SG.M	‘Praveen read a good book.’					
+97	109	kadupu	NOM	ACC	TR	TR	pravīṇ tana vēli-ni kadipāḍu	PN(M).SG.NOM own finger(N).SG.OBL-ACC move.PST.3SG.M	‘Praveen moved his finger.’					
+97	110	ādariṁcu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni ādaristāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC respect.NPST.3SG.M	‘Praveen respects Mahesh.’					
+97	111	cirāku + COP	DAT	ante	XY	DAT_ante	pravīṇ-ki eṁgili aṁṭlu aṁṭē cirāku	PN(M).SG.OBL-DAT defiled utensil.PL.NOM that_is crossness(N).SG.NOM	‘Praveen is vexed about dirty dishes.’	Non-verbal predicate.				
+97	112	saṁtuṣṭi + COP	DAT	ante	XY	DAT_ante	pravīṇ-ki atani koḍuku aṁṭē saṁtuṣṭi	PN(M).SG.OBL-DAT that_man(M).SG.OBL son(N).SG.NOM that_is satisfaction(N).SG.NOM	‘Praveen is satisfied with his son.’	Non-verbal predicate.				
+97	113	prēmalō paḍu	NOM	COM	Y	NOM_COM	pravīṇ madhuri-tō prēma-lō paḍḍāḍu	PN(M).SG.NOM PN(F).SG.OBL-COM love(N).SG.OBL-LOC fall.PST.3SG.M	‘Praveen fell in love with Madhuri.’					
+97	114	nammakamu + COP	DAT	ante	XY	DAT_ante	pravīṇ-ki madhuri aṁṭē nammakamu	PN(M).SG.OBL-DAT PN(F).SG.NOM that_is credit(N).SG.NOM	‘Praveen trusts Madhuri.’	Non-verbal predicate.				
+97	115	bādha(ni) paṁcukōnu	*	*	*		pravīṇ tana amma bādha-ni paṁcukuṁṭunnāḍu	PN(M).SG.NOM own mother(F).SG.OBL pain(N).SG.OBL-ACC share.DUR.3SG.M 	‘Praveen sympathises with his mother.’	Not included in the database because Y is expressed as an NP-internal modifier. This translation is probably semantically inaccurate.				
+97	116	īrṣya + COP	DAT	ante	XY	DAT_ante	pravīṇ-ki maheṣ aṁṭē īrṣya	PN(M).SG-DAT PN(M).SG.NOM that_is envy(N).SG.NOM	‘Praveen envies Mahesh.’	Non-verbal predicate.				
+97	117	kopamu + COP	DAT	OBLmida	XY	DAT_OBLmida	pravīṇ-ki maheṣ mīda kopamu uṁdi	PN(M).SG.OBL-DAT PN(M).SG.OBL on anger(N).SG.NOM be.PRS.3SG.NM	‘Praveen is angry with Mahesh.’	Non-verbal predicate.				
+97	118	āšcaryapōvu	*	*	*		pravīṇ ā bahumati-ni cūsi āšcaryapōyāḍu	PN(M).SG.NOM DEM.DIST gift(N).SG.OBL-ACC see.CVB.ANT get_surprised.PST.3SG.M	‘Praveen was surprised at this gift.’	Not included in the database because Y is expressed as an NP within a dependent clause.				
+97	119	iṣṭamu + COP	DAT	ante	XY	DAT_ante	pravīṇ-ki ṭī aṁṭē iṣṭamu	PN(M).SG.OBL-DAT tea(N).SG.NOM that_is liking(N).SG.NOM	‘Praveen loves tea.’	Non-verbal predicate.				
+97	120	āsvādiṁcu	NOM	ACC	TR	TR	pravīṇ vēḍi ṭī-ni āsvādistunnāḍu	PN(M).SG.NOM hot tea(N).SG.OBL-ACC enjoy_the_taste.DUR.3SG.M	‘Praveen is enjoying hot tea.’					
+97	121	kāvāli	DAT	NOM	X	DAT_NOM	pravīṇ-ki kotta fōn kāvāli	PN(M).SG.OBL-DAT new phone(N).SG.NOM be_wanted	‘Praveen wants a new mobile phone.’	This predicate is used without agreement markers and without copula.				
+97	122	paga + COP	DAT	ante	XY	DAT_ante	pravīṇ-ki maheṣ aṁṭē paga	PN(M).SG.OBL-DAT PN(M).SG.NOM that_is enmity(N).SG.NOM	‘Praveen has a grudge against Mahesh.’	Non-verbal predicate.				
+97	123	manastāpamu ceṁdu	NOM	OBLpai	Y	NOM_OBLpai	pravīṇ maheṣ pai manastāpamu ceṁdāḍu	PN(M).SG.NOM PN(M).SG.OBL over mental_distress(N).SG.NOM happen.PST.3SG.M	‘Praveen got cross with Mahesh.’					
+97	124	dukhaparucu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni cālā duḥkhaparicāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC very upset.PST.3SG.M 	‘Praveen greatly upset Mahesh.’					
+97	125	āšcaryapōvu	*	*	*		pravīṇ ā paṭṭaṇānni cūsi āšcaryapōyāḍu	PN(M).SG.NOM DEM.DIST city(N).SG.ACC see.CVB.ANT get_suprised.PST.3SG.M	‘Praveen was surprised by this town.’	Not included in the database because Y is expressed as an NP within a dependent clause.				
+97	126	hīnaṁgā cūcu	NOM	ACC	TR	TR	pravīṇ maheṣ-ni hīnaṁ-gā cūstāḍu	PN(M).SG.NOM PN(M).SG.OBL-ACC low-ADVZ see.NPST.3SG.M	‘Praveen despises Mahesh.’					
+97	127	bādhapaḍu	NOM	OBLvalla	Y	NOM_OBLvalla	pravīṇ tana koḍuku valla bādhapaḍḍāḍu	PN(M).SG.NOM own son(M).SG.OBL by suffer.PST.3SG.M	‘Praveen got upset because of his son.’					
+97	128	cirākupaḍu	NOM	OBLmida	Y	NOM_OBLmida	pravīṇ tana kūturu mīda cirākupaḍutunnāḍu	PN(M).SG.NOM own daughter(F).SG.OBL on be_cross.DUR.3SG.M	‘Praveen is getting irritated with his daughter.’					
+97	129	muddu + COP	DAT	ante	XY	DAT_ante	pravīṇ-ku madhuri aṁṭē muddu	PN(M).SG.OBL-DAT PN(F).SG.NOM that_is kiss(N).SG.NOM	‘Praveen is fond of Madhuri.’	Non-verbal predicate.				
+97	130	siggupaḍu	NOM	OBLvalla	Y	NOM_OBLvalla	pravīṇ atani ettu valla siggupaḍatāḍu	PN(M).SG.NOM that_man(M).SG.OBL height(N).SG.OBL by be_shy.NPST.3SG.M	‘Praveen is shy about his height.’					
 4	1	olema	ADESS	NOM	X	ADESS_NOM	Peetri-l on peavalu	PN-ADESS be.PRS.3SG headache.SG.NOM	‘Peeter has a headache.’					
 4	2	olema	ADESS	NOM	X	ADESS_NOM	Peetri-l on gripp	PN-ADESS be.PRS.3SG flu.SG.NOM	‘Peeter has the flu.’					
 4	3	kartma	NOM	PART	Y	NOM_PART	Peeter karda-b koera	PN.SG.NOM fear-PRS.3SG dog.SG.PART	‘Peeter is afraid of the dog.’					
@@ -3249,6 +3379,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 88	128	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 88	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
 88	130	wǫλǝ wԑrti	NOM	NOMpata	Y	NOM_NOMpata	pet’a-j-en aj păλattǝ-λ păta wǫλǝ wԑr-ǝλ	PN-EP-POSS.2SG small height-POSS.3SG because_of alien make-NPST[3SG]	‘Petja is embarrased about his height.’		PN-EP-POSS.2SG маленький высота-POSS.3SG из-за незнакомый делать-NPST[3SG]	‘Петя стесняется из-за своего маленького роста’.		
+96	1	ājmən	*	*	*		pājel puŋk-e ājməŋ	PN head-POSS.3SG sick	‘Pasha has a headache.’	Not included in the database because X is (arguably) expressed as an NP-internal modifier. Non-verbal predicate.		‘У Паши болит голова.’		
+96	2	ajməntaxti	NOM	INS	Y	NOM_INS	pajel ājməntaxt-i xōpsi ājm-əl	PN suffer_from-NPST.3SG lungs illness-INS	‘Pasha has tuberculose.’			‘Паша болеет туберкулёзом.’		
+96	3	pili	NOM	EL	Y	NOM_EL	āji-riɕ pil-i kūt’uw-əl	girl-DIM be_afraid-NPST.3SG dog-EL	‘The girl is afraid of the dog.’			‘Девочка боится собаку.’		
+96	4	wuɕkasas	NOM	ACC	TR	TR	pājel wuɕkas-as āxwtas	PN throw-PST.3SG stone	‘Pasha threw a stone.’			‘Паша бросил камень.’		
+96	5	towlawe	NOM	INS	Y	NOM_INS	am ōln-əl towl-awe-m	I money-INS suffice-PASS-NPST.1SG	‘I have enough money.’	This is a passive construction.		‘Мне хватает денег.’		
+96	6	xurip	*	*	*		pājel āɕ-e xurip	PN father-POSS.3SG similar	‘Pasha resembles his father.’	Not included in the database because Y is (arguably) expressed as an NP-internal modifier. Non-verbal predicate.		‘Паша похож на своего отца.’		
+96	7	ajti	NOM	LAT	Y	NOM_LAT	taw ajt-i ɕān’-e-n	he believe-NPST.3SG mother-POSS.3SG-LAT	‘He believes his mother.’			‘Он верит своей матери.’		
+96	8	wis	NOM	ACC	TR	TR	āji-riɕ wi-s nēpak pasan-əl	girl-DIM take-PST.3SG book table-EL	‘The girl took a book from the table.’			‘Девочка взяла книгу со стола.’		
+96	9	kasali	NOM	ACC	TR	TR	am kāsal-ej-um kol	I see-NPST-1SG house	‘I see a house.’			‘Я вижу дом.’		
+96	10	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	11	kasalaxtas	NOM	NOMjot	Y	NOM_NOMjot	ēkwa kāsal-axt-as āji-te jot	woman see-REFL-PST.3SG daughter-POSS.3SG with	‘The woman encounters her daughter (accidently).’			‘Женщина встретилась (случайно) со своей дочерью.’		
+96	12	ɕaltəs	NOM	NOMkiwern	Y	NOM_NOMkiwern	ōjka ɕalt-əs kol kīwər-n	man enter-PST.3SG house inside-LAT	‘The man enters the house.’			‘Мужчина вошёл в дом.’		
+96	13	noxpattǝs	NOM	ACC	TR	TR	pētra anum kāsarǝl nox=pat-t-ǝs	Peter I.OBL cards-INS up=fall-CAUS-PST[3SG]	‘Peter won over me in a game of cards.’			‘Петя выиграл у меня в карты..’		
+96	14	konkwaləs	NOM	EL	Y	NOM_EL	ōjka kol-əl kon-kwal-əs	man house-EL out-go-PST.3SG	‘The man went out of the house.’			‘Мужчина вышел из дома.’		
+96	15	n’āwi	NOM	ACC	TR	TR	ōjka n’āwi sāli	man drive-NPST.3SG reindeer	‘The man is driving the reindeer (to the pasture).’			‘Мужчина гонит оленя.’		
+96	16	xutəltaste	NOM	ACC	TR	TR	ōjka xut-əlt-as-t-e tow	man bend_oneself-CAUS-PST-3SG.O-3SG.S branch	‘The man bent the branch.’			‘Мужчина согнул ветку.’		
+96	17	lāwəs	NOM	LAT	Y	NOM_LAT	pājel kol’i-n lāw-əs …	PN PN-LAT say-PST.3SG	‘Pasha told Kolja....’			‘Паша Коле сказал….’		
+96	18	ūri	NOM	ACC	TR	TR	pājel ūr-i nēpak kāt-ta	PN hold-NPST.3SG book hand-LOC	‘Pasha is holding a book in his hand(s).’			‘Паша держит книгу в руке.’		
+96	19	jujəljoxtəste	NOM	ACC	TR	TR	kūt’uw jujəl=joxt-əs-t-e ōtr-e	dog after-go-PST-3SG.O-3SG.S master-POSS.3SG	‘The dog catched up with its master.’			‘Собака догнала своего хозяина.’		
+96	20	posəs	NOM	ACC	TR	TR	ruɕ ēkwa kōsla-te pos-əs	Russian woman goat-POSS.3SG milk-PST.3SG	‘The Russian woman milked her goat.’			‘Русская женщина подоила свою козу.’		
+96	21	l’apamas	NOM	NOMpoxen	Y	NOM_NOMpoxen	am kol-um pox-ǝn ta l’apa-m-as-um	I house-POSS.1SG near-LAT PTCL close-VBZ-PST-1SG	‘I reached my home”			‘Я достигла своего дома.’		
+96	22	nowxatas	NOM	LAT	Y	NOM_LAT	āji-riɕ kūt’uw-na now-xat-as	girl-DIM dog-LAT touch-REFL-PST.3SG	‘The girl (accidently) touched the dog.’			‘Девочка (случайно) дотронулась до собаки.’		
+96	23	alxati	NOM	NOMjot	Y	NOM_NOMjot	pājel alxat-i kol’a jot	PN fight-NPST.3SG PN with	‘Pasha fights with Kolja.’			‘Паша дерётся с Колей.’		
+96	24	ruməŋ	NOM	NOMjot	Y	NOM_NOMjot	pājel kol’a jot rum-əŋ ōl-ēj	PN PN with friend-prop be-NPST.3DU	‘Pasha is friends with Kolja.’	Non-verbal predicate.		‘Паша дружит с Колей.’		
+96	25	nomsaxti	NOM	EL	Y	NOM_EL	āɣi noms-axt-i ɕān’-ēl	girl think-REFL-NPST.3SG mother-POSS.3SG.EL	‘The girl is thinking about her mother.’			‘Девушка думает о своей матери.’		
+96	26	tājapaste	NOM	ACC	TR	TR	pājel tāj-ap-as-t-e xūl	PN eat-SMLF-PST-3SG.O-3SG.S fish	‘Pasha ate the fish.’			‘Паша съел рыбину.’		
+96	27	pōnslas	NOM	ACC	TR	TR	pājel xūl pōnsl-as	PN fish fry-PST.3SG	‘Pasha fried the fish.’			‘Паша пожарил рыбу.’		
+96	28	ūri	NOM	ACC	TR	TR	kūt’uw ūr-i ōtr-e	dog wait-NPST.3SG master-POSS.3SG	‘The dog waits for his master.’			‘Собака ждёт хозяина.’		
+96	29	xotjoruwlaslum	NOM	ACC	TR	TR	am l’ōŋx-um xot-joruwl-as-l-um	I road-POSS.1SG PFV-forget-PST-3SG.O-1SG.S	‘I forgot the road.’			‘Я забыл дорогу.’		
+96	30	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	31	wowəste	NOM	ACC	TR	TR	ɕān’-e wōw-əs-t-e āɣi-te	mother-POSS.3SG call-PST-3SG.O-3SG.S girl-POSS.3SG	‘The mother called her daughter.’			‘Мать позвала свою дочь.’		
+96	32	rumalaxtas	*	*	*		am rumalaxt-as-um jēn’a jot	1SG befriend-PST-1SG PN COM	‘I recently made friends with Eugene.’	Not included in the database because this translation is semantically inaccurate. 				
+96	33	wāji	NOM	ACC	TR	TR	am wāj-l-um ti ōjka-riɕ	I know-3SG.O-1SG.S this old_man-DIM	‘I know this old man.’			‘Я знаю этого старика.’		
+96	34	jonji	NOM	INS	Y	NOM_INS	ōjka-riɕ jonj-i sāŋkwəltap-əl	old_man-DIM play-NPST.3SG sangkweltap-INS	‘The old man plays the sāŋkwəltap.’			‘Старик играет на санквылтапе.’		
+96	35	ūrjalaxti	NOM	EL	Y	NOM_EL	am ūrjal-axt-ej-um ti ēlmxolas-ǝl	I keep-REFL this person-EL	‘I avoid this person.’			‘Я избегаю этого человека.’		
+96	36	wārəs	NOM	ACC	TR	TR	am āpa wār-s-um	I craddle make-PST-1SG	‘I made a craddle.’			‘Я сделал люльку.’		
+96	37	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	38	ōn’ɕi	NOM	ACC	TR	TR	pājel xāp ōn’ɕ-i	PN boat have-NPST.3SG	‘Pasha has a boat.’			‘У Паши есть лодка.’		
+96	39	kinsi	NOM	ACC	TR	TR	am kins-ēj-um mil lōx	I look_for-NPST-1SG deep backwater	‘I am looking for deep backwater.’			‘Я ищу глубокую заводь.’		
+96	40	sartəste	NOM	ACC	TR	TR	pajel pūsas ōl’p-əl sart-əs-t-e	PN fence color-INS smear-PST-3SG.O-3SG.S	‘Pasha painted the fence’			‘Паша покрасил забор.’		
+96	41	purəste	NOM	ACC	TR	TR	kūt’uw pur-əs-t-e n’āwram	dog bite-PST-3SG.O-3SG.S child	‘The dog bit the child.’			‘Собака укусила ребёнка.’		
+96	42	patəs	NOM	CAR	Y	NOM_CAR	ti ēkwa kol-tāl pat-əs	this woman house-CAR fall-PST.3SG	‘This woman lost her house.’			‘Эта женщина лишилась дома.’		
+96	43	puwi	NOM	ACC	TR	TR	pājel puw-i kati	PN try_to_catch-NPST.3SG cat	‘Pasha is trying to catch the cat.’			‘Паша ловит кошку.’		
+96	44	sakwatas	NOM	ACC	TR	TR	pajel sakwat-as tow	PN break-PST.3SG branch	‘Pasha broke a branch.’			‘Паша сломал ветку.’		
+96	45	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	46	ēruptite	NOM	ACC	TR	TR	ɕān’e ērupt-i-t-e āji-te	mother-POSS.3SG love-NPST-3SG.O-3SG.S daughter-POSS.3SG	‘The mother loves her daughter.’			‘Мать любит свою дочь.’		
+96	47	xosji	NOM	INS	Y	NOM_INS	ēkwa tōr-əl xosj-i	woman kerchief-INS wave-NPST.3SG	‘The woman is waving a kerchief.’			‘Женщина машет платком.’		
+96	48	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	49	lowtəs	NOM	ACC	TR	TR	pājel āni lowt-əs	PN cup wash-PST[3SG]	‘Pasha washed the cup.’			‘Паша помыл чашку.’		
+96	50	masəs	NOM	ACC	TR	TR	āji-riɕ sup mas-əs	girl-DIM dress put_on-PST.3SG	‘The girl put on a dress.’			‘Девушка надела платье.’		
+96	51	lāwawe	NOM	TRANS	Y	NOM_TRANS	ti ūj n’oxsiɣ lāw-awe	this animal sable-trans say-PASS[NPST.3SG]	‘This animal is called a sable.’	This is a passive construction.		‘Этот зверь называется соболем.’		
+96	52	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	53	porijmaste	NOM	NOMlalt	Y	NOM_NOMlalt	wōrtōlnōjka xūl puw-ne ōjka l’al’t porijm-as-t-e	bear fish catch-ptcp.prs man on jump-PST-3SG.O-3SG.S	‘A bear attacked a fisherman.’			‘Медведь напал на ловящего рыбу мужчину.’		
+96	54	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	55	xōntsəs	NOM	ACC	TR	TR	am xōnt-s-um xōxsa	I find-PST-1SG cigarette	‘I found a cigarette.’			‘Я нашёл сигарету.’		
+96	56	at towlawe	NOM	INS	Y	NOM_INS	pajel at towl-awe moɕɕa-kw-nuw ōln-əl	PN neg suffice-PASS.NPST.3SG a_little-ADV-COMP money-INS	‘Pasha is short of a little more money.’	This is a passive construction (cf. 5 for the active).		‘Паше не хватает ещё немного денег.’		
+96	57	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	58	jomas	LAT	NOM	X	LAT_NOM	āji-riɕ-na ti sup jomas	girl-DIM-LAT this dress good	‘The girl likes this dress.’	Non-verbal predicate.		‘Девочке нравится это платье.’		
+96	59	ēri	LAT	NOM	X	LAT_NOM	anum-n oln ēri	I.OBL-LAT money necessary	‘I need money.’	This predicate has lost some, but not all, of its verbal properties.				
+96	60	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	61	ārijtas	POSS	NOM	X	POSS_NOM	am sotǝr solkowi ārijt-as	I thousand rouble be.left-PST[3SG]	‘I only have a thousand roubles left.’	Although X is construed as a possessor of Y, it displays some properties of a clause-level rather than NP-internal constituent (e.g. discontinuous uses are possible).				
+96	62	akwjuwl’e lawǝs	NOM	LAT	Y	NOM_LAT	n’āwram ēkwa-n akwjuwl’e law-ǝs	child woman-LAT back say-PST[3SG]	‘The child answered the woman’					
+96	63	pūnsas	NOM	ACC	TR	TR	pēt’a āwi pūns-as	Peter door open-PST[3SG]	‘Peter opened the door.’					
+96	64	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	65	juw xul’tǝs	NOM	EL	Y	NOM_EL	am juw xul’t-s-um jurt-an-ǝl	I back stay-PST-1SG friend-PL-EL	‘I fell behind my friends.’					
+96	66	xili	NOM	ACC	TR	TR	xum xili mā	man dig-NPST[3SG] earth	‘A man is digging/ploughing the earth.’					
+96	67	at pasi	*	*	*		am kāt-aɣ-um xūl at pas-ē-ɣ	1SG hand-DU-POSS.1SG fish smell smell-NPST-3DU	‘My hands smell of fish.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+96	68	minas	NOM	NOMultta	Y	NOM_NOMultta	ēkwa l’ōŋx ūltta min-as wiɣir pōs-ǝl	woman road across go-PST[3SG] red light-EL	‘A woman crossed the road on a red light’					
+96	69	ērɣǝs	NOM	ACC	TR	TR	am ɕan’-um jomas ēriɣ ērɣ-ǝs	1SG mother-POSS.1SG good song sing-PASS[3SG]	‘My mother sang a beautiful song.’					
+96	70	xansǝs	NOM	ACC	TR	TR	āɣi piɕma xans-ǝs	girl letter write-PST[3SG]	‘A girl wrote a letter.’					
+96	71	ajǝs	NOM	ACC	TR	TR	jēn’a saw wīna aj-i	PN much alcohol drink-NPST[3SG]	‘Eugene drinks a lot of alcohol.’					
+96	72	toltǝs	NOM	ACC	TR	TR	xum kēr tolt-ǝs	man iron melt-PST[3SG]	‘The man melted the iron.’					
+96	73	rōwi	NOM	LAT	Y	NOM_LAT	ti ēntap am sup-um-n rōw-i	this belt 1SG dress-POSS.1SG-LAT match-NPST[3SG]	‘This belt matches my dress.’					
+96	74	ossuwlas	NOM	ACC	TR	TR	n’awram-ǝt jānij-m-as-ǝt, pāwl-anǝl ta ossuwl-as-anǝl	child-PL big-VBZ-PST-3PL village-POSS.3PL PL leave-PST-SG.O.3PL.S	‘The children grew up and abandoned their village.’					
+96	75	lappantǝs	NOM	ACC	TR	TR	jānij tor kolkan lap-pant-ǝs	big cloth floor close-cover-PST[3SG]	‘A large cloth covered the whole floor.’					
+96	76	nomite	NOM	ACC	TR	TR	am nom-i-l-um kol-um xot jānij-m-as-um	1SG remember-NPST-SG.O-1SG.S house-POSS.1SG where big-VBZ-PST-1SG	‘I remember the house where I grew up.’					
+96	77	n‘oti	NOM	LAT	Y	NOM_LAT	n’āwram n’ōt-i ɕān’-e-n	child help-NPST[3SG] mother-POSS.3SG-LAT	‘The child helps his/her mother.’					
+96	78	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	79	xojas	NOM	LAT	Y	NOM_LAT	jowt n’al sāli sam-na xoj-as	bow arrow reindeer eye-LAT hit-PST[3SG]	‘An arrow hit the reindeer in the eye.’	No satisfactory translation has been obtained.				
+96	80	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	81	xanǝs	NOM	LAT	Y	NOM_LAT	istakan pasan-ǝn xan-ǝs	glass table-LAT get_stuck-PST[3SG]	‘The glass got stuck to the table.’					
+96	82	patwes	NOM	LAT	Y	NOM_LAT	am pet’a jot kasǝr-l-as-um, taw-e-n pat-we-s-um	1SG PN com card-VBZ-PST-1SG 3SG-OBL-LAT fall-PASS-PST-1SG	‘I played cards with Peter and lost to him.’	This is a passive construction based on an intransitive verb.				
+96	83	xotɕajtunkw	*	*	*		*	*	*	Not included in the database because this verb can only take clausal complements.				
+96	84	potǝrti	NOM	NOMjot	Y	NOM_NOMjot	jēn’a potǝrt-i mārja jot	PN speak-NPST[3SG] PN COM	‘Eugene speaks to Mary.’					
+96	85	on’ɕas	NOM	ACC	TR	TR	mārja mōlxōtal on’ɕ-as āji	PN yesterday have-PST[3SG] daughter	‘Yesterday Mary gave birth to a daughter.’					
+96	86	jolpattǝs	NOM	ACC	TR	TR	am istakan jol-pat-t-ǝs	1SG glass down-fall-TR-PST[3SG]	‘I dropped the glass.’					
+96	87	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	88	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	89	n’awlaxti	NOM	NOMjuji.palt	Y	NOM_NOMjuji.palt	kati am juji pal-um akwaj ta n’awl-axt-i	cat 1SG back half-POSS.1SG always PTCL follow-REFL-NPST[3SG]	‘The cat follows me everywhere.’					
+96	90	xotkwalapas	NOM	EL	Y	NOM_EL	jēn’a buran-e-nǝl xot-kwal-ap-as	PN snowmobile-POSS.3SG-EL from-stand-PFV-PST[3SG]	‘Eugene dismounted from his snowmobile.’					
+96	91	xūntli	NOM	ACC	TR	TR	am xūntl-ēj-um rādio	1SG listen-NPST-1SG radio	‘I am listening to the radio.’					
+96	92	xūntli	NOM	LAT	Y	NOM_LAT	ti n’awram at xūntl-i ɕān’-e-n	this child NEG obey-NPST[3SG] mother-POSS.3SG-LAT	‘This child doesn’t obey his mother.’					
+96	93	xūli	NOM	ACC	TR	TR	am xūl-s-um kūt’uw	1SG hear-PST-1SG dog	‘I heard the dog.’					
+96	94	tēlijtas	NOM	NOMjot	Y	NOM_NOMjot	sākkar tēlijt-as ɕaj jot	sugar mix-PST[3SG] tea COM	‘Sugar mixed with the tea.’					
+96	95	sunsi	NOM	ACC	TR	TR	am suns-ēj-um televizor	1SG watch-NPST-1SG television	‘I am watching television’					
+96	96	noxāŋxǝs	NOM	ACC	TR	TR	am xot-āŋx-ǝs-l-um i nox-tājat-as-l-um kūrtka-m	1SG off-take_off-PST-SG.O-1SG.S and up-hang-PST-SG.O-1SG.S jacket-POSS.1SG	‘I took off and hung my jacket’					
+96	97	ulmajas	NOM	ACC	TR	TR	am ulmaj-as-um am-ki iškōla-m	1SG dream-PST-1SG 1SG-emph school-POSS.1SG	‘I dreamt about my school.’					
+96	98	nomtǝn patǝs	NOM	jot	Y	NOM_NOMjot	am jēn’a jot nomt-ǝn pat-s-um	1SG PN COM mind-LAT fall-PST-1SG	‘I agreed with Eugene.’					
+96	99	xotkantmalaxtas	NOM	NOMjot	Y	NOM_NOMjot	n’āwram-ǝt xot-kant-m-alt-axt-as-ǝt ɕān’-anǝl jot	child-PL off-anger-VBZ-ASP-REFL-PST-3PL mother-POSS.3PL COM	‘The children had a quarrel with their mother.’					
+96	100	*	*	*	*		*	*	*	Not included in the database because X is expressed as an NP-internal modifier.				
+96	101	pātamtas	NOM	ACC	TR	TR	jēn’a wās pātamt-as-t-e, at xoj-as	PN duck shoot-PST-SG.O-3SG.S NEG hit-PST[3SG]	‘Eugene shot at the duck but missed.’					
+96	102	tārtǝs	NOM	ACC	TR	TR	ɕān’-um sākkar āni-n tārt-ǝs	mother-POSS.1SG sugar cup-LAT pour-PST[3SG]	‘My mother poured sugar into the cup.’					
+96	103	xotūstǝs	NOM	ACC	TR	TR	am os ta kasaj-um xot-ūst-ǝs-um	1SG add PTCL knife-POSS.1SG off-lose-PST-1SG	‘I lost my knife again.’					
+96	104	witna ɕaltǝs	NOM	LAT	Y	NOM_LAT	sājrap wit-na ɕalt-ǝs	axe water-LAT enter-PST[3SG]	‘The axe entered the water (sank).’					
+96	105	ɕamalas	NOM	ACC	TR	TR	ti xum ɕam-al-as mōt xum	this man to.death-kill-PST[3SG] another man	‘This man killed another man.’					
+96	106	junijtas	NOM	ACC	TR	TR	pijriɕ āji junijt-as	boy girl hit-PST[3SG]	‘The boy hit the girl.’					
+96	107	an’apaste	NOM	ACC	TR	TR	āji ɕān’-e an’ap-as-t-e	daughter mother-POSS.3SG kiss-PST-SG.O-3SG.S	‘The daughter kissed her mother.’					
+96	108	lowin’tas	NOM	ACC	TR	TR	am jomas nēpak lowin’t-as-um	1SG good book read-PST-1SG	‘I read a good book.’					
+96	109	n’uwitas	NOM	INS	Y	NOM_INS	am pol’am tul’ōwl-ǝt-ǝl n’uwit-as-um	1SG cold finger-PL-INS move-PST-1SG	‘I moved my cold fingers.’					
+96	110	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	111	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	112	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	113	ēruptite	*	*	*		jēn’a anum ērupt-i-t-e	PN 1SG.OBL love-NPST-SG.O-3SG.S	‘Zhenja loves me.’	Not included in the database because this translation is semantically inaccurate.				
+96	114	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	115	sāl’ ōlēj	LAT	ACC	XY	LAT_ACC	anum-n sāl’ rum-ēkwa-m	1SG.OBL-LAT pity friend-woman-POSS.1SG	‘I pity my female friend.’	Non-verbal predicate.				
+96	116	nuraɕi	NOM	LAT	Y	NOM_LAT	anum-n sāw māxum nuraɕ-ēj-t	1SG.obl-LAT many people envy-NPST-3PL	‘Many people envy me.’					
+96	117	kantmawe	NOM	NOMnupel	Y	NOM_NOMnupel	mārja kantm-awe āɕ-e nupǝl	PN be.angry-PASS.NPST.3SG father-POSS.3SG towards	‘Mary is angry about her father.’	This is a passive construction.				
+96	118	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	119	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	120	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	121	tāŋxi	NOM	ACC	TR	TR	am āji-m tāŋx-i lil’pi t’el’efōn	1SG daughter-POSS.1SG want-NPST[3SG] new phone	‘My daughter wants a new phone.’					
+96	122	*	*	*	*		*	*	*	No satisfactory translation has been obtained. Same as “be angry”				
+96	123	*	*	*	*		*	*	*	No satisfactory translation has been obtained. Same as “be angry”				
+96	124	xotkantmaltas	NOM	ACC	TR	TR	pīj ɕān’- e takiɕ xot-kantm-alt-as-t-e	son mother-POSS.3SG strongly off-be.angry-CAUS-PST-SG.O-3SG.S	‘The son made the mother very angry.’					
+96	125	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	126	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	127	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	128	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
+96	130	ēssamti	NOM	NOMmajes	Y	NOM_NOMmajes	pijriɕ ēssamt-i takwi pōsl-ǝm xuri-jan-e mājǝs	boy be_shy-NPST[3SG] 3SG.EMPH draw-RES picture-PL-POSS.3SG for	‘The boy is shy about the pictures he drew.’					
 68	1	weddara	ATTR	NOM	X	ATTR_NOM	rasul-dɨ huq’ul w-edda-r=a	PN-ATTR head(NOM) 3-hurt.IPFV-CVB=be	‘Rasul has a headache.’		PN-ATTR голова(NOM) 3-болеть.IPFV-CVB=быть	‘У Расула болит голова.’		
 68	2	jiˁχɨˁra	DAT	NOM	X	DAT_NOM	rasul-u-s grip jiˁχɨˁ-r=a	PN-OBL-DAT influenza(NOM) 4.hit.PFV-CVB=be	‘Rasul has the flu.’		PN-OBL-DAT грипп(NOM) 4.ударить.PFV-CVB=быть	‘Расул болеет гриппом.’		
 68	3	gič’era	DAT	SUP.EL	XY	DAT_SUP.EL	rasul-u-s gič’e-r=a tɨlɨja-la	PN-OBL-DAT fear.IPFV-CVB=be dog.OBL(SUP)-EL	‘Rasul is afraid of the dog.’		PN-OBL-DAT бояться.IPFV-CVB=быть собака.OBL(SUP)-EL	‘Расул боится собаки.’		
@@ -4289,136 +4549,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 80	128	gåårõõđškueʹtted	NOM	GENool	Y	NOM_GENool	Peâtt gåårõõđ-škuäʹtt suu niõđ ool	PN.SG.NOM get.irritated-INCH.PRS.3SG 3SG.GEN daughter.SG.GEN onto	‘Pete is getting irritated with his daughter.’					
 80	129	tuʹǩǩeed	NOM	LOC	Y	NOM_LOC	Peâtt tuʹǩǩad Määrja-st	PN.SG.NOM like.PRS.3SG PN.SG.LOC	‘Pete is fond of Maria’					
 80	130	käinnad	NOM	GENdiott	Y	NOM_GENdiott	Peâtt käinn kookkadvuõđ-âs diõtt	PN.SG.NOM be.shy.PRS.3SG height.SG.GEN-POSS.3SG because.of	‘Pete is shy about his height.’					
-95	1		ABS	NOM	X	ABS_NOM	obsaa-n mataa-n isa ɗukkub-a	PN.NOM head-NOM 3SG.M.ABS pain-3SG.M.IPFV	‘Obsa has a headache.’	The first NP is fronted, but this is not obligatory.				
-95	2		ABS	NOM	X	ABS_NOM	k'ufaa-n obsaa k'ab-e	flu-NOM PN.ABS catch-3SG.M.PFV	‘Obsa has the flu.’					
-95	3		NOM	ABS	TR	TR	obsaa-n sar-ittʃa sodaat-e	PN-NOM dog-DEF.ABS be_afraid.3SG.M-PFV	‘Obsa is afraid of the dog.’					
-95	4		NOM	ABS	TR	TR	obsaa-n dursa ɗakaa darbat-e	PN-NOM first stone.ABS throw-3SG.M.PFV	‘Obsa threw a stone first.’					
-95	5		*	*	*		amma obsaa-n k'arʃii gahaa k'ab-a	now PN-NOM money.ABS enough.ABS have-3SG.M.PFV	‘Now Obsa has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
-95	6		NOM	ABS	TR	TR	obsaa-n tolaa fakkaat-a	PN-NOM PN.ABS resemble-3SG.M.IPFV	‘Obsa resembles Tolaa.’					
-95	7		NOM	ABS	TR	TR	obsaa-n tolaa aman-a	PN-NOM PN.ABS believe-3SG.M.PFV	‘Obsa believes Tolaa.’					
-95	8		NOM	ABS	TR	TR	obsaa-n kitaaba fuɗat-e	PN-NOM book.ABS take-3SG.M.PFV	‘Obsa took a book.’					
-95	9		NOM	ABS	TR	TR	obsaa-n mana arg-a	PN-NOM house.ABS see-3SG.M.IPFV	‘Obsa sees a house.’					
-95	10		NOM	ABSirratti	Y	NOM_ABSirratti	umurii-n jaadattʃuu irra-tti ɗiibbaa k'ab-a	age-NOM memory.ABS on-LOC influence have-3SG.M.IPFV	‘Age influences memory.’					
-95	11		NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti ɗuf-e	PN-NOM PN-LOC come-3SG.M.PFV	‘Obsa encountered Tolaa.’					
-95	12		NOM	ABS	TR	TR	obsaa-n mana seen-e	PN-NOM house.ABS enter-3SG.M.PFV	‘Obsa entered the house.’					
-95	13		NOM	ABS	TR	TR	obsaa-n tolaa moʔ-e 	PN-NOM PN.ABS beat-3SG.M.PFV	‘Obsa beat Tolaa.’					
-95	14		NOM	ABL	Y	NOM_ABL	obsaa-n manaa gadi=baʔ-e	PN-NOM house.ABL down=go_out-3SG.M.PFV 	‘Obsa went out of house.’					
-95	15		NOM	ABS	TR	TR	obsaa-n saʔ-ittii oof-aa dʒir-a	PN-NOM cow-DEF.ABS drive-PROG AUX-3SG.M.NPST	‘Obsa is driving the cow.’					
-95	16		NOM	ABS	TR	TR	obsaa-n dam-ittʃa dʒall-i-s-e	PN-NOM branch-DEF.ABS bend-EP-CAUS-3SG.MPFV	‘Obsa bent the branch.’					
-95	17		NOM	INS	Y	NOM_INS	"obsaa-n tolaa-ɗaan ""..."" dʒeɗ-e"	PN-NOM PN-INS … say-3SG.M.PFV	‘Obsa said to Tola... ’					
-95	18		NOM	ABS	TR	TR	obsaa-n kitaaba k'ab-at-ee dʒir-a	PN-NOM book.ABS hold-MID-PFV.CONV AUX-3SG.M.NPST	‘Obsa is holding a book.’					
-95	19		NOM	ABS	TR	TR	obsaa-n boontuu k'ak'k'ab-at-e	PN-NOM PN.ABS catch_up-MID-3SG.M.PFV	‘Obsa caught up with Bontu.’					
-95	20		NOM	ABS	TR	TR	obsaa-n saʔ-ittii elm-e	PN-NOM cow-DEF.ABS milk-3SG.M.PFV	‘Obsa milked the cow.’					
-95	21		NOM	ABS	TR	TR	obsaa-n k'ark'ara lagaa gah-e	PN-NOM bank.ABS river.GEN reach-3SG.M.PFV	‘Obsa reached the river bank.’					
-95	22		NOM	LOC	Y	NOM_LOC	obsaa-n keeɲɲan-itti buʔ-e	PN-NOM wall-LOC strike-3SG.M.PFV	‘Obsa touched the wall.’					
-95	23		NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n tolaa waddʒin wal lol-aa dʒir-a	PN-NOM PN.ABS with each_other fight-PROG AUX.3SG.M.NPST 	‘Obsa is fighting with Tola.’					
-95	24		NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n tolaa waddʒin hirijaa=ɗa 	PN-NOM PN.ABS with friend=COP.NPST	‘Obsa is friend with Tola.’	Non-verbal predicate.				
-95	25		NOM	waa7eeGEN	Y	NOM_waa7eeGEN	obsaa-n waaʔee boontuu jaad-aa dʒir-a	PN-NOM about PN.GEN think-PROG AUX.3SG.M.NPST	‘Obsa is thinking about Bontu.’					
-95	26		NOM	ABS	TR	TR	obsaa-n appilii ɲaat-e	PN-NOM apple.ABS eat-3SG.M.PFV	‘Obsa ate an apple.’					
-95	27		NOM	ABS	TR	TR	gurbaa-n k'urt'umm-ittʃa biltʃ-eess-e	boy-NOM fish.DEF.ABS fry-CAUS-3SG.M.PFV	‘The boy fried the fish’					
-95	28		NOM	ABS	TR	TR	obsaa-n tolaa eeg-aa dʒir-a	PN-NOM PN.ABS wait-PROG AUX-3SG.M.NPST	‘Obsa is waiting for Tola.’					
-95	29		NOM	ABS	TR	TR	obsaa-n karaa isa kan biraa irraanfat-ee dʒir-a	PN-NOM road.ABS 3SG.M.ABS of other.GEN forget-PFV.CONV AUX-3SG.M.NPST	‘Obsa forgot the other road.’					
-95	30		NOM	ABSirratti	Y	NOM_ABSirratti	jaadattʃuu-n umurii irra-tti hundaaʔ-a	memory-NOM age.ABS on-LOC depend-3SG.M.IPFV	‘Memory depends on age.’					
-95	31		NOM	ABS	TR	TR	obsaa-n boontuu waamm-at-e	PN-NOM PN.ABS call-MID-3SG.M.PFV	‘Obsa called Bontu.’					
-95	32		NOM	ABS	TR	TR	obsaa-n boontuu waddʒin waggaa tokko dura wal bar-e	PN-NOM PN.ABS with year one before each_other learn-3SG.M.PFV	‘Obsa got to know Bontu a year ago.’					
-95	33		NOM	ABS	TR	TR	obsaa-n boontuu beek-a	PN-NOM PN.ABS know-3SG.M.IPFV	‘Obsa knows Bontu.’					
-95	34		NOM	ABS	TR	TR	nam-ittʃ-i gitaara tap'attʃ-aa dʒir-a	man-DEF-NOM guitar.ABS play-PROG AUX-3SG.M.NPST	‘Obsa is playing a guitar.’					
-95	35		NOM	ABS	TR	TR	obsaa-n tolaa ood-a	PN-NOM PN.ABS avoid-3SG.M.IPFV	‘Obsa avoids Tola.’					
-95	36		NOM	ABS	TR	TR	obsaa-n kijjoo hantuutaa hoddʒet-e	PN-NOM trap.ABS mouse.GEN make-3SG.M.PFV	‘Obsa made a mousetrap.’					
-95	37		NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti k'oos-aa dʒir-a	PN-NOM PN-LOC making_fun-PROG AUX-3SG.M.NPST	‘Obsa is making fun of Tola.’					
-95	38		NOM	ABS	TR	TR	nam-ittʃ-i konkolaataa k'ab-a	man-DEF-NOM car.ABS have-3SG.M.IPFV	‘The man has a car.’					
-95	39		NOM	ABS	TR	TR	obsaa-n furtuu-wwan isaa barbaad-aa dʒir-a  	PN-NOM key-PL.ABS 3SG.M.POSS look_for-PROG AUX-3SG.M.NPST	‘Obsa is looking for his keys,’					
-95	40		NOM	ABS	TR	TR	obsaa-n dallaa sana halluu dib-e	PN-NOM fence.ABS that.ABS color paint-3SG.M.PFV	‘Obsa painted the fence.’					
-95	41		NOM	ABS	TR	TR	saree-n tolaa tʃ'iniin-t-e	dog-NOM PN.ABS bite-3SG.F-PFV	‘A dog bit Tola.’					
-95	42		NOM	ABS	TR	TR	obsaa-n mana isaa ɗab-e	PN-NOM house.ABS 3SG.M.POSS lose-3SG.M.PFV	‘Obsa lost his house.’					
-95	43		NOM	ABS	TR	TR	gurbaa-n adurr-ittii k'abuu-f jaal-aa dʒir-a	boy-NOM cat-DEF.ABS catch.INF-to try-PROG AUX-3SG.M.NPST	‘The boy is trying to catch the cat.’					
-95	44		NOM	ABS	TR	TR	obsaa-n ulee tʃ'ab-s-e	PN-NOM stick.ABS break-CAUS-3SG.M.PFV	‘Obsa broke a stick.’					
-95	45		NOM	ABS	TR	TR	obsaa-n boontuu dʒadʒ-aa dʒir-a	PN-NOM PN.ABS flatter-PROG AUX-3SG.M.NPST	‘Obsa is flattering Bontu.’					
-95	46		NOM	ABS	TR	TR	obsaa-n boontuu dʒaallat-a	PN-NOM PN.ABS love-3SG.M.IPFV	‘Obsa loves Bontu.’					
-95	47		NOM	ABS	TR	TR	obsaa-n alaabaa mirmirs-aa dʒir-a	PN-NOM flag.ABS wave-PROG AUX-3SG.M.NPST	‘Obsa is waving a flag.’					
-95	48		NOM	ABS	TR	TR	obsaa-n konkolaataa haaraa abdʒattʃ-aa dʒir-a	PN-NOM car.ABS new.ABS dream-PROG AUX-3SG.M.NPST	‘Obsa is dreaming of a new car.’					
-95	49		NOM	ABS	TR	TR	obsaa-n waantʃ-ittʃa ɗik'-e	PN-NOM cup-DEF.ABS wash-3SG.M.PFV	‘Obsa washed the cup.’					
-95	50		NOM	ABS	TR	TR	obsaa-n surree uffat-e	PN-NOM trousers.ABS put_on-3SG.M.PFV	‘Obsa put on trousers.’					
-95	51		NOM	BARE	Y	NOM_BARE	meeʃaa-n kun kompaasii dʒeɗ-am-a	tool-NOM this.NOM compass.ABS say-PASS-3SG.M.IPFV	‘This tool is called a compass.’					
-95	52		NOM	ABS	TR	TR	nam-ittʃ-i mutʃ'aa isaa adab-e	man-DEF-NOM son.ABS 3SG.M.POSS punish-3SG.M.PFV	‘The man punished his son.’					
-95	53		NOM	ABS	TR	TR	risaa-n adamsituu sana haleel-e	bear-NOM hunter.ABS that.ABS attack-3SG.M.PFV	‘A bear attacked the hunter.’					
-95	54		NOM	INS	Y	NOM_INS	baald-ittʃ-i biʃaan-iin guut-e	bucket-DEF-NOM water-INS fill-3SG.M.PFV 	‘The bucket filled with water.’					
-95	55		NOM	ABS	TR	TR	obsaa-n furtuu isaa arg-at-e	PN-NOM key.ABS 3SG.M.POSS see-MID-3SG.M.PFV	‘Obsa found his keys.’					
-95	56		NOM	ABS	TR	TR	obsaa-n birrii tokko ɗab-e	PN-NOM birr.ABS one.ABS lack-3SG.M.PFV	‘Obsa lacks one birr.’					
-95	57		NOM	ABS	TR	TR	obsaa-n tolaa ni dʒibb-a	PN-NOM PN.ABS FOC hate-3SG.M.IPFV	‘Obsa hates Tola.’					
-95	58		NOM	ABS	TR	TR	obsaa-n ʃamizii kana dʒaallat-a	PN-NOM shirt this.ABS like-3SG.M.IPFV	‘Obsa likes this shirt.’					
-95	59		NOM	ABS	TR	TR	obsaa-n k'arʃii barbaad-a	PN-NOM money.ABS need-3SG.M.IPFV 	‘Obsa needs money.’					
-95	60		INS	NOM	X	INS_NOM	magaal-ittʃ-i keeɲɲan-iin marf-am-ee dʒir-a	city-DEF-NOM wall-INS circle-PASS-CONV AUX-3SG.M.NPST	‘The walls surround the city.’					
-95	61		DAT	NOM	X	DAT_NOM	obsaa-n birrii-n kuɗan isaa-f haf-e	PN-NOM birr-NOM ten.NOM 3SG.M-DAT remain-3SG.M.PFV	‘Obsa has ten birr left.’	The first NP is fronted, but this is not obligatory.				
-95	62		NOM	DAT	Y	NOM_DAT	obsaa-n bar-siis-ittʃaa-f deebii kenn-e	PN-NOM learn-CAUS-DEF-DAT answer.ABS give-3SG.M.PFV	‘Obsa answered the teacher.’					
-95	63		NOM	ABS	TR	TR	obsaa-n k'aruura ban-e	PN-NOM can.ABS open-3SG.M.PFV	‘Obsa opened a can.’					
-95	64		NOM	ABSirraa	Y	NOM_ABSirraa	lakki ʃamizii-n=koo kan=kee irraa adda=ɗa	no shirt-NOM=1SG.POSS of=2SG.POSS on.ABL different=COP.NPST	‘No, my shirt is different from yours.’	Non-verbal predicate.				
-95	65		NOM	ABSbiraa	Y	NOM_ABSbiraa	obsaa-n kuf-ee tolaa biraa haf-e	PN-NOM fall-CONV PN.ABS beside.ABL remain-3SG.M.PFV	‘Obsa fell and remained behind Tola.’					
-95	66		NOM	ABS	TR	TR	obsaa-n laf-ittʃa k'ot-aa dʒir-a	PN-NOM land-DEF.ABS plough-PROG AUX-3SG.M.NPST	‘Obsa is ploughing the land.’					
-95	67		NOM	RDP	Y	NOM_RDP	hark-i=koo benzina benzina dʒeɗ-a	hand-NOM=1SG.POSS gasoline gasoline say-3SG.M.IPFV	‘My hands smell like gasoline.’					
-95	68		NOM	ABS	TR	TR	obsaa-n daandii k'at't'aamur-e	PN-NOM road.ABS cross-3SG.M.PFV	‘Obsa crossed the road.’					
-95	69		NOM	ABS	TR	TR	obsaa-n sirba bareedaa sirb-e	PN-NOM song.ABS beautiful sing-3SG.M.PFV	‘Obsa sang a beautiful song.’					
-95	70		NOM	ABS	TR	TR	obsaa-n t'alajaa barreess-e	PN-NOM letter.ABS write-3SG.M.PFV	‘Obsa wrote a letter.’					
-95	71		NOM	ABS	TR	TR	obsaa-n aannan-ittʃa ɗug-e	PN-NOM milk-DEF.ABS drink-3SG.M.PFV	‘Obsa drank the milk.’					
-95	72		NOM	ABS	TR	TR	obsaa-n liidii t'ik'k'oo tokko bak'-s-e	PN-NOM lead.ABS small.ABS one melt-CAUS-3SG.M.PFV	‘Obsa melted a piece of lead.’					
-95	73		NOM	ABSwaddzin	Y	NOM_ABSwaddzin	sak'k'ii-n kun uffata=koo waddʒin wal sim-a	belt-NOM this.NOM dress=1SG.POSS with each_other match-3SG.M.IPFV	‘This belt matches my dress.’					
-95	74		NOM	ABS	TR	TR	obsaa-n magaalaa keessa-tti ɗal-at-e gadi ɗiis-e 	PN-NOM city.ABS in-LOC give_birth-MID-3SG.M.PFV down leave-3SG.M.PFV	‘Obsa left his native city.’					
-95	75		NOM	ABS	TR	TR	afaa-n sun laf-ittʃa guutummaan uwwis-a	carpet-NOM that.NOM space-DEF.ABS fully cover-3SG.M.IPFV	‘The carpet fully covers the space.’					
-95	76		NOM	ABS	TR	TR	obsaa-n man-ittʃa sirrii-tti jaadat-a	PN-NOM house-DEF.ABS right-LOC remember-3SG.M.IPFV	‘Obsa remembers the house well.’					
-95	77		NOM	ABS	TR	TR	obsaa-n boontuu gargaar-e	PN-NOM PN.ABS help-3SG.M.PFV	‘Obsa helped Bontu.’					
-95	78		NOM	ABS	TR	TR	boontuu-n afaan faransaayii ɗageessi	PN-NOM language.ABS France.GEN hear.3SG.F.IPFV	‘Bontu hears French.’					
-95	79		NOM	ABS	TR	TR	balak'k'eessaa-n man-ittʃa rukkut-e	lightening-NOM house-DEF.ABS hit-3SG.M.PFV	‘Lightening hit the house.’					
-95	80		NOM	INS	Y	NOM_INS	obsaa-n k'arabaa-ɗaan of mur-e	PN-NOM razor-INS himself cut-3SG.M.PFV	‘Obsa cut himself with a razor.’					
-95	81		NOM	LOC	Y	NOM_LOC	burtʃ'uk'k'-ittʃ-i mindʒaala-tti k'ab-at-e	glass-DEF-NOM table-LOC hold-MID-3SG.M.PFV	‘The glass got stuck to the table.’					
-95	82		NOM	INS	Y	NOM_INS	obsaa-n tolaa-ɗaan moʔ-am-e	PN-NOM PN-INS win-PASS-3SG.M.PFV	‘Obsa lost to Tola.’					
-95	83		NOM	LOC	Y	NOM_LOC	obsaa-n t'alajaa sana-tti gammad-e	PN-NOM letter.ABS that-LOC please-3SG.M.PFV	‘Obsa was glad about the letter.’					
-95	84		NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n tolaa waddʒin odeess-aa dʒir-a	PN-NOM PN.ABS with speak-PROG AUX-3SG.M.NPST	‘Obsa is speaking with Tola.’					
-95	85		NOM	ABS	TR	TR	boontuu-n ilma deesse	PN-NOM son.ABS give_birth.3SG.F.PFV	‘Bontu gave birth to a son.’					
-95	86		NOM	ABS	TR	TR	obsaa-n burtʃ'uk'k'oo lafa buus-e	PN-NOM glass.ABS ground drop.CAUS-3SG.M.PFV	‘Obsa dropped a glass.’					
-95	87		NOM	ABS	TR	TR	obsaa-n magaalaa keeɲɲa geggeess-a	PN-NOM town.ABS 3PL.POSS run-3SG.M.IPFV	‘Obsa runs/governs our town.’					
-95	88		NOM	ABS	TR	TR	obsaa-n boontuu jaad-a	PN-NOM PN.ABS miss-3SG.M.IPFV	‘Obsa misses Bontu.’					
-95	89		NOM	ABS	TR	TR	obsaa-n boontuu hordof-a	PN-NOM PN.ABS follow-3SG.M.IPFV	‘Obsa follows Bontu.’					
-95	90		NOM	ABSirraa	Y	NOM_ABSirraa	nam-ittʃ-i fard-ittʃa irraa buʔ-e	man-DEF-NOM horse-DEF.ABS on.ABL get_down-3SG.M.PFV	‘The man got down from the horse.’					
-95	91		NOM	ABS	TR	TR	obsaa-n raadijoo ɗaggeeffattʃ-aa dʒir-a	PN-NOM radio.ABS listen-PROG AUX-3SG.M.NPST	‘Obsa is listening to radio.’					
-95	92		NOM	ABS	TR	TR	obsaa-n jeroo hunda haaɗa isaa ɗagaʔ-a	PN-NOM always mother.ABS 3SG.M.POSS hear-3SG.M.IPFV	‘Obsa always listens to his mother.’					
-95	93		NOM	ABS	TR	TR	obsaa-n sirb-ittʃa ni ɗaggeeffat-a	PN-NOM music-DEF.ABS FOC listen-3SG.M.IPFV	‘Obsa listens/hears the song.’					
-95	94		NOM	ABSwaddzin	Y	NOM_ABSwaddzin	damm-ttʃ-i aannan waddʒin wal mak-e	honey-DEF-NOM milk.ABS with each_other mix-3SG.M.PFV	‘The honey got mixed with the milk.’					
-95	95		NOM	ABS	TR	TR	obsaa-n duumessa ilaal-aa dʒir-a	PN-NOM cloud.ABS look-PROG AUX-3SG.M.NPST	‘Obsa is looking at the cloud.’					
-95	96		NOM	ABS	TR	TR	obsaa-n ʃamizii isaa of irraa baas-e	PN-NOM shirt.ABS 3SG.M.POSS self on.ABL take_off-3SG.M.PFV	‘Obsa took off his shirt.’					
-95	97		NOM	waa7eeGEN	Y	NOM_waa7eeGEN	obsaa-n waaʔee boontuu abdʒat-a	PN-NOM about PN.GEN dream-3SG.M.IPFV	‘Obsa deams about Bontu.’					
-95	98		NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n boontuu waddʒin wal-ii gal-e	PN-NOM PN.ABS with each_other-for enter-3SG.M.PFV	‘Obsa agreed with Bontu.’					
-95	99		NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n boontuu waddʒin wal ɗab-e	PN-NOM PN.ABS with each_other.ABS lose-3SG.M.PFV	‘Obsa had a quarrel with Bontu.’					
-95	100		NOM	ABS	TR	TR	waantʃ'aa-n kun birrii tokko baas-a	cup-NOM this.NOM birr one.ABS cost-3SG.M.PFV	‘This cup costs one birr.’					
-95	101		NOM	LOC	Y	NOM_LOC	obsaa-n simbirroo sana-tti ɗukaas-e	PN-NOM bird.ABS that-LOC shoot-3SG.M.PFV	‘Obsa shot at the bird.’					
-95	102		NOM	ABS	TR	TR	obsaa-n sukkaara burtʃ'uk'k'oo-tti nak'-e	PN-NOM sugar.ABS glass-LOC pour-3SG.M.PFV	‘Obsa poured sugar into a glass.’					
-95	103		NOM	ABS	TR	TR	obsaa-n furtuu-wwan isaa gat-e	PN-NOM key-PL.ABS 3SG.M.POSS lose-3SG.M.PFV	‘Obsa lost his keys.’					
-95	104		NOM	ABSkeessatti	Y	NOM_ABSkeessatti	dʒirm-ittʃ-i biʃaan keessa-tti gadi lit'-e	log-DEF-NOM water.ABS in-LOC down get-3SG.M.PFV	‘The log sank in the water.’					
-95	105		NOM	ABS	TR	TR	obsaa-n tolaa addʒees-e	PN-NOM PN.ABS kill-3SG.M.PFV	‘Obsa killed Tola.’					
-95	106		NOM	ABS	TR	TR	obsaa-n boontuu rukkut-e	PN-NOM PN.ABS hit-3SG.M.PFV	‘Obsa hit Bontu.’					
-95	107		NOM	ABS	TR	TR	obsaa-n boontuu ɗungat-e	PN-NOM PN.ABS kiss-3SG.M.PFV	‘Obsa kissed Bontu.’					
-95	108		NOM	ABS	TR	TR	obsaa-n kitaaba bajeessa dubbis-e	PN-NOM book.ABS good read-3SG.M.PFV	‘Obsa read a good book.’					
-95	109		NOM	ABS	TR	TR	obsaa-n k'uba isaa sottʃoos-e	PN-NOM finger.ABS 3SG.M.POSS move.CAUS-3SG.M.PFV	‘Obsa moved his finger.’					
-95	110		NOM	ABS	TR	TR	obsaa-n tolaa kabadʒ-a	PN-NOM PN.ABS respect-3SG.M.IPFV	‘Obsa respects Tola.’					
-95	111		NOM	waa7eeGEN	Y	NOM_waa7eeGEN	obsaa-n waaʔee k'odaa t'uraaʔaa aar-a	PN-NOM about object dirty.GEN be_squeamish-3SG.M.IPFV	‘Obsa is squeamish about the dirty dishes.’					
-95	112		NOM	LOC	Y	NOM_LOC	obsaa-n ilma isaa-tti k'uuf-a 	PN-NOM son.ABS 3SG.M.POSS-LOC be_satisfied-3SG.M.IPFV	‘Obsa is satisfied with his son.’					
-95	113		ABS	ABSirraa	XY	ABS_ABSirraa	gurb-ittʃa boontuu irraa dʒaalalli isa k'ab-e	boy-DEF.ABS PN.ABS on-ABL love-NOM 3SG.M.ABS catch-3SG.M.PFV	‘The boy fell in love with Bontu.’					
-95	114		NOM	ABS	TR	TR	obsaa-n tolaa aman-a	PN-NOM PN.ABS trust-3SG.M.IPFV	‘Obsa trusts Tola.’					
-95	115		NOM	DAT	Y	NOM_DAT	obsaa-n haaɗa isaa-f in gadd-a	PN-NOM mother.ABS 3SG.M.POSS-DAT FOC be_pity-3SG.M.IPFV	‘Obsa feels sorry for his mother.’					
-95	116		NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti inaaf-a	PN-NOM PN-LOC envy-3SG.M.IPFV	‘Obsa invies Tola.’					
-95	117		NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti aaree dʒir-a	PN-NOM PN-LOC be_angry-3SG.M.CONV AUX-3SG.M.NPST	‘Obsa remains angry with Tola.’					
-95	118		NOM	ABS	TR	TR	obsaa-n kennaa kana adʒaaʔib-siif-at-e	PN-NOM gift.ABS this.ABS surprise-CAUS-MID-3SG.M.PFV	‘Obsa was surprised at this gift.’					
-95	119		NOM	ABS	TR	TR	obsaa-n ʃaajii dʒaallat-a	PN-NOM tea.ABS love-3SG.M.IPFV	‘Obsa loves tea.’					
-95	120		NOM	LOC	Y	NOM_LOC	obsaa-n ʃaajii hoʔaa-tti gammad-a	PN-NOM tea.ABS hot-LOC enjoy-3SG.M.IPFV	‘Obsa enjoys hot tea.’					
-95	121		NOM	ABS	TR	TR	obsaa-n bilbila haaraa barbaad-a	PN-NOM phone.ABS new want-3SG.M.IPFV	‘Obsa wants a new mobile phone.’					
-95	122		NOM	LOC	Y	NOM_LOC	obsaa-n boontuu-tti haaloo k'ab-at-ee dʒir-a	PN-NOM PN-LOC grudge.ABS hold-MID-CONV AUX-3SG.M.NPST	‘Obsa has held a grudge against Bontu.’					
-95	123		NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti mufat-e	PN-NOM PN-LOC take_offence-3SG.M.PFV	‘Obsa took offence at Tola.’					
-95	124		NOM	ABS	TR	TR	obsaa-n boontuu baajjee mufattʃiis-e	PN-NOM PN.ABS greatly be_annoyed.CAUS-3SG.M.PFV	‘Obsa greatly upset Bontu.’					
-95	125		NOM	ABS	TR	TR	obsaa-n magaala-ttii adʒaaʔib-siis-at-e	PN-NOM town-DEF.ABS impress-CAUS-MID-3SG.M.PFV	‘Obsa was impressed by the town.’					
-95	126		NOM	ABS	TR	TR	obsaa-n tolaa tuffat-a	PN-NOM PN.ABS despise-3SG.M.IPFV	‘Obsa despises Tola.’					
-95	127		NOM	LOC	Y	NOM_LOC	obsaa-n ilma isaa-tti aar-e	PN-NOM son.ABS 3SG.M.POSS-LOC get_upset-3SG.M.PFV	‘Obsa got upset with his son.’					
-95	128		NOM	LOC	Y	NOM_LOC	obsaa-n intala isaa-tti aar-ee dʒir-a	PN-NOM daughter.ABS 3SG.M.POSS-LOC irritate-CONV AUX.3SG.M.NPST	‘Obsa is getting angry at his daughter.’					
-95	129		NOM	ABS	TR	TR	obsaa-n nam-ittʃa in leellis-a	PN-NOM man-DEF.ABS FOC like-3SG.M.IPFV	‘Obsa likes the man.’					
-95	130		NOM	LOC	Y	NOM_LOC	obsaa-n hoddʒaa isaa-tti in k'aanaʔ-a	PN-NOM height.ABS 3SG.M.POSS-LOC FOC be_shy-3SG.M.IPFV	‘Obsa is embarrassed about his height.’					
+95	1	ɗukkuba	ABS	NOM	X	ABS_NOM	obsaa-n mataa-n isa ɗukkub-a	PN-NOM head-NOM 3SG.M.ABS pain-3SG.M.IPFV	‘Obsa has a headache.’	The first NP is fronted, but this is not obligatory.				
+95	2	k'aba	ABS	NOM	X	ABS_NOM	k'ufaa-n obsaa k'ab-e	flu-NOM PN.ABS catch-3SG.M.PFV	‘Obsa has the flu.’					
+95	3	sodaata	NOM	ABS	TR	TR	obsaa-n sar-ittʃa sodaat-e	PN-NOM dog-DEF.ABS be_afraid.3SG.M-PFV	‘Obsa is afraid of the dog.’					
+95	4	darbata	NOM	ABS	TR	TR	obsaa-n dursa ɗakaa darbat-e	PN-NOM first stone.ABS throw-3SG.M.PFV	‘Obsa threw a stone first.’					
+95	5	gahaa k'aba	*	*	*		amma obsaa-n k'arʃii gahaa k'ab-a	now PN-NOM money.ABS enough.ABS have-3SG.M.PFV	‘Now Obsa has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
+95	6	fakkaata	NOM	ABS	TR	TR	obsaa-n tolaa fakkaat-a	PN-NOM PN.ABS resemble-3SG.M.IPFV	‘Obsa resembles Tolaa.’					
+95	7	amana	NOM	ABS	TR	TR	obsaa-n tolaa aman-a	PN-NOM PN.ABS believe-3SG.M.PFV	‘Obsa believes Tolaa.’					
+95	8	fuɗata	NOM	ABS	TR	TR	obsaa-n kitaaba fuɗat-e	PN-NOM book.ABS take-3SG.M.PFV	‘Obsa took a book.’					
+95	9	arga	NOM	ABS	TR	TR	obsaa-n mana arg-a	PN-NOM house.ABS see-3SG.M.IPFV	‘Obsa sees a house.’					
+95	10	ɗiibbaa k'aba	NOM	ABSirratti	Y	NOM_ABSirratti	umurii-n jaadattʃuu irra-tti ɗiibbaa k'ab-a	age-NOM memory.ABS on-LOC influence have-3SG.M.IPFV	‘Age influences memory.’					
+95	11	ɗufa	NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti ɗuf-e	PN-NOM PN-LOC come-3SG.M.PFV	‘Obsa encountered Tolaa.’					
+95	12	seena	NOM	ABS	TR	TR	obsaa-n mana seen-e	PN-NOM house.ABS enter-3SG.M.PFV	‘Obsa entered the house.’					
+95	13	moʔa	NOM	ABS	TR	TR	obsaa-n tolaa moʔ-e 	PN-NOM PN.ABS beat-3SG.M.PFV	‘Obsa beat Tolaa.’					
+95	14	gadi baʔa	NOM	ABL	Y	NOM_ABL	obsaa-n manaa gadi=baʔ-e	PN-NOM house.ABL down=go_out-3SG.M.PFV 	‘Obsa went out of thehouse.’					
+95	15	oofa	NOM	ABS	TR	TR	obsaa-n saʔ-ittii oof-aa dʒir-a	PN-NOM cow-DEF.ABS drive-PROG AUX-3SG.M.NPST	‘Obsa is driving the cow.’					
+95	16	dʒallisa	NOM	ABS	TR	TR	obsaa-n dam-ittʃa dʒall-i-s-e	PN-NOM branch-DEF.ABS bend-EP-CAUS-3SG.MPFV	‘Obsa bent the branch.’					
+95	17	dʒeɗa	NOM	INS	Y	NOM_INS	"obsaa-n tolaa-ɗaan ""..."" dʒeɗ-e"	PN-NOM PN-INS … say-3SG.M.PFV	‘Obsa said to Tola... ’					
+95	18	k'abata	NOM	ABS	TR	TR	obsaa-n kitaaba k'ab-at-ee dʒir-a	PN-NOM book.ABS hold-MID-PFV.CONV AUX-3SG.M.NPST	‘Obsa is holding a book.’					
+95	19	k'ak'k'abata	NOM	ABS	TR	TR	obsaa-n boontuu k'ak'k'ab-at-e	PN-NOM PN.ABS catch_up-MID-3SG.M.PFV	‘Obsa caught up with Bontu.’					
+95	20	elma	NOM	ABS	TR	TR	obsaa-n saʔ-ittii elm-e	PN-NOM cow-DEF.ABS milk-3SG.M.PFV	‘Obsa milked the cow.’					
+95	21	gaha	NOM	ABS	TR	TR	obsaa-n k'ark'ara lagaa gah-e	PN-NOM bank.ABS river.GEN reach-3SG.M.PFV	‘Obsa reached the river bank.’					
+95	22	itti buʔa	NOM	LOC	Y	NOM_LOC	obsaa-n keeɲɲan-itti buʔ-e	PN-NOM wall-LOC strike-3SG.M.PFV	‘Obsa touched the wall.’					
+95	23	wal lola	NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n tolaa waddʒin wal lol-aa dʒir-a	PN-NOM PN.ABS with each_other fight-PROG AUX-3SG.M.NPST 	‘Obsa is fighting with Tola.’					
+95	24	hirijaa=ɗa	NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n tolaa waddʒin hirijaa=ɗa 	PN-NOM PN.ABS with friend=COP.NPST	‘Obsa is friend with Tola.’	Non-verbal predicate.				
+95	25	jaada	NOM	waa7eeGEN	Y	NOM_waa7eeGEN	obsaa-n waaʔee boontuu jaad-aa dʒir-a	PN-NOM about PN.GEN think-PROG AUX-3SG.M.NPST	‘Obsa is thinking about Bontu.’					
+95	26	ɲaata	NOM	ABS	TR	TR	obsaa-n appilii ɲaat-e	PN-NOM apple.ABS eat-3SG.M.PFV	‘Obsa ate an apple.’					
+95	27	biltʃeessa	NOM	ABS	TR	TR	gurbaa-n k'urt'umm-ittʃa biltʃ-eess-e	boy-NOM fish-DEF.ABS fry-CAUS-3SG.M.PFV	‘The boy fried the fish’					
+95	28	eega	NOM	ABS	TR	TR	obsaa-n tolaa eeg-aa dʒir-a	PN-NOM PN.ABS wait-PROG AUX-3SG.M.NPST	‘Obsa is waiting for Tola.’					
+95	29	irraanfata	NOM	ABS	TR	TR	obsaa-n karaa isa kan biraa irraanfat-ee dʒir-a	PN-NOM road.ABS 3SG.M.ABS of other.GEN forget-PFV.CONV AUX-3SG.M.NPST	‘Obsa forgot the other road.’					
+95	30	hundaaʔa	NOM	ABSirratti	Y	NOM_ABSirratti	jaadattʃuu-n umurii irra-tti hundaaʔ-a	memory-NOM age.ABS on-LOC depend-3SG.M.IPFV	‘Memory depends on age.’					
+95	31	waammata	NOM	ABS	TR	TR	obsaa-n boontuu waamm-at-e	PN-NOM PN.ABS call-MID-3SG.M.PFV	‘Obsa called Bontu.’					
+95	32	wal bara	NOM	ABS	TR	TR	obsaa-n boontuu waddʒin waggaa tokko dura wal bar-e	PN-NOM PN.ABS with year one before each_other learn-3SG.M.PFV	‘Obsa got to know Bontu a year ago.’					
+95	33	beeka	NOM	ABS	TR	TR	obsaa-n boontuu beek-a	PN-NOM PN.ABS know-3SG.M.IPFV	‘Obsa knows Bontu.’					
+95	34	tap'ata	NOM	ABS	TR	TR	nam-ittʃ-i gitaara tap'attʃ-aa dʒir-a	man-DEF-NOM guitar.ABS play-PROG AUX-3SG.M.NPST	‘Obsa is playing a guitar.’					
+95	35	ooda	NOM	ABS	TR	TR	obsaa-n tolaa ood-a	PN-NOM PN.ABS avoid-3SG.M.IPFV	‘Obsa avoids Tola.’					
+95	36	hoddʒeta	NOM	ABS	TR	TR	obsaa-n kijjoo hantuutaa hoddʒet-e	PN-NOM trap.ABS mouse.GEN make-3SG.M.PFV	‘Obsa made a mousetrap.’					
+95	37	k'oosa	NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti k'oos-aa dʒir-a	PN-NOM PN-LOC make_fun-PROG AUX-3SG.M.NPST	‘Obsa is making fun of Tola.’					
+95	38	k'aba	NOM	ABS	TR	TR	nam-ittʃ-i konkolaataa k'ab-a	man-DEF-NOM car.ABS have-3SG.M.IPFV	‘The man has a car.’					
+95	39	barbaada	NOM	ABS	TR	TR	obsaa-n furtuu-wwan isaa barbaad-aa dʒir-a  	PN-NOM key-PL.ABS 3SG.M.POSS look_for-PROG AUX-3SG.M.NPST	‘Obsa is looking for his keys,’					
+95	40	halluu diba	NOM	ABS	TR	TR	obsaa-n dallaa sana halluu dib-e	PN-NOM fence.ABS that.ABS color paint-3SG.M.PFV	‘Obsa painted the fence.’					
+95	41	tʃiniina	NOM	ABS	TR	TR	saree-n tolaa tʃ'iniin-t-e	dog-NOM PN.ABS bite-3SG.F-PFV	‘A dog bit Tola.’					
+95	42	ɗaba	NOM	ABS	TR	TR	obsaa-n mana isaa ɗab-e	PN-NOM house.ABS 3SG.M.POSS lose-3SG.M.PFV	‘Obsa lost his house.’					
+95	43	k'abuuf jaala	NOM	ABS	TR	TR	gurbaa-n adurr-ittii k'abuu-f jaal-aa dʒir-a	boy-NOM cat-DEF.ABS catch.INF-to try-PROG AUX-3SG.M.NPST	‘The boy is trying to catch the cat.’					
+95	44	tʃ'aba	NOM	ABS	TR	TR	obsaa-n ulee tʃ'ab-s-e	PN-NOM stick.ABS break-CAUS-3SG.M.PFV	‘Obsa broke a stick.’					
+95	45	dʒadʒa	NOM	ABS	TR	TR	obsaa-n boontuu dʒadʒ-aa dʒir-a	PN-NOM PN.ABS flatter-PROG AUX-3SG.M.NPST	‘Obsa is flattering Bontu.’					
+95	46	dʒaallata	NOM	ABS	TR	TR	obsaa-n boontuu dʒaallat-a	PN-NOM PN.ABS love-3SG.M.IPFV	‘Obsa loves Bontu.’					
+95	47	mirmirsa	NOM	ABS	TR	TR	obsaa-n alaabaa mirmirs-aa dʒir-a	PN-NOM flag.ABS wave-PROG AUX-3SG.M.NPST	‘Obsa is waving a flag.’					
+95	48	abdʒata	NOM	ABS	TR	TR	obsaa-n konkolaataa haaraa abdʒattʃ-aa dʒir-a	PN-NOM car.ABS new.ABS dream-PROG AUX-3SG.M.NPST	‘Obsa is dreaming of a new car.’					
+95	49	ɗik'a	NOM	ABS	TR	TR	obsaa-n waantʃ-ittʃa ɗik'-e	PN-NOM cup-DEF.ABS wash-3SG.M.PFV	‘Obsa washed the cup.’					
+95	50	fuffata	NOM	ABS	TR	TR	obsaa-n surree uffat-e	PN-NOM trousers.ABS put_on-3SG.M.PFV	‘Obsa put on trousers.’					
+95	51	dʒeɗa	NOM	BARE	Y	NOM_BARE	meeʃaa-n kun kompaasii dʒeɗ-am-a	tool-NOM this.NOM compass.ABS say-PASS-3SG.M.IPFV	‘This tool is called a compass.’					
+95	52	adaba	NOM	ABS	TR	TR	nam-ittʃ-i mutʃ'aa isaa adab-e	man-DEF-NOM son.ABS 3SG.M.POSS punish-3SG.M.PFV	‘The man punished his son.’					
+95	53	haleela	NOM	ABS	TR	TR	risaa-n adamsituu sana haleel-e	bear-NOM hunter.ABS that.ABS attack-3SG.M.PFV	‘A bear attacked the hunter.’					
+95	54	guuta	NOM	INS	Y	NOM_INS	baald-ittʃ-i biʃaan-iin guut-e	bucket-DEF-NOM water-INS fill-3SG.M.PFV 	‘The bucket filled with water.’					
+95	55	argata	NOM	ABS	TR	TR	obsaa-n furtuu isaa arg-at-e	PN-NOM key.ABS 3SG.M.POSS see-MID-3SG.M.PFV	‘Obsa found his keys.’					
+95	56	ɗaba	NOM	ABS	TR	TR	obsaa-n birrii tokko ɗab-e	PN-NOM birr.ABS one.ABS lack-3SG.M.PFV	‘Obsa lacks one birr.’					
+95	57	dʒibba	NOM	ABS	TR	TR	obsaa-n tolaa ni dʒibb-a	PN-NOM PN.ABS FOC hate-3SG.M.IPFV	‘Obsa hates Tola.’					
+95	58	dʒaallata	NOM	ABS	TR	TR	obsaa-n ʃamizii kana dʒaallat-a	PN-NOM shirt this.ABS like-3SG.M.IPFV	‘Obsa likes this shirt.’					
+95	59	barbaada	NOM	ABS	TR	TR	obsaa-n k'arʃii barbaad-a	PN-NOM money.ABS need-3SG.M.IPFV 	‘Obsa needs money.’					
+95	60	marsa	INS	NOM	X	INS_NOM	magaal-ittʃ-i keeɲɲan-iin marf-am-ee dʒir-a	city-DEF-NOM wall-INS circle-PASS-CONV AUX-3SG.M.NPST	‘The walls surround the city.’					
+95	61	hafa	DAT	NOM	X	DAT_NOM	obsaa-n birrii-n kuɗan isaa-f haf-e	PN-NOM birr-NOM ten.NOM 3SG.M-DAT remain-3SG.M.PFV	‘Obsa has ten birr left.’	The first NP is fronted, but this is not obligatory. The subject is not grammatically marked for the plural, hence no PL index on the verb.				
+95	62	deebii kenna	NOM	DAT	Y	NOM_DAT	obsaa-n bar-siis-ittʃaa-f deebii kenn-e	PN-NOM learn-CAUS-DEF-DAT answer.ABS give-3SG.M.PFV	‘Obsa answered the teacher.’					
+95	63	bana	NOM	ABS	TR	TR	obsaa-n k'aruura ban-e	PN-NOM can.ABS open-3SG.M.PFV	‘Obsa opened a can.’					
+95	64	adda=ɗa	NOM	ABSirraa	Y	NOM_ABSirraa	lakki ʃamizii-n=koo kan=kee irraa adda=ɗa	no shirt-NOM=1SG.POSS of=2SG.POSS on.ABL different=COP.NPST	‘No, my shirt is different from yours.’	Non-verbal predicate.				
+95	65	hafa	NOM	ABSbiraa	Y	NOM_ABSbiraa	obsaa-n kuf-ee tolaa biraa haf-e	PN-NOM fall-CONV PN.ABS beside.ABL remain-3SG.M.PFV	‘Obsa fell and remained behind Tola.’					
+95	66	k'ota	NOM	ABS	TR	TR	obsaa-n laf-ittʃa k'ot-aa dʒir-a	PN-NOM land-DEF.ABS plough-PROG AUX-3SG.M.NPST	‘Obsa is ploughing the land.’					
+95	67	dʒeɗa	NOM	RDP	Y	NOM_RDP	hark-i=koo benzina benzina dʒeɗ-a	hand-NOM=1SG.POSS gasoline gasoline say-3SG.M.IPFV	‘My hands smell like gasoline.’					
+95	68	k'at't'aamura	NOM	ABS	TR	TR	obsaa-n daandii k'at't'aamur-e	PN-NOM road.ABS cross-3SG.M.PFV	‘Obsa crossed the road.’					
+95	69	sirba	NOM	ABS	TR	TR	obsaa-n sirba bareedaa sirb-e	PN-NOM song.ABS beautiful.ABS sing-3SG.M.PFV	‘Obsa sang a beautiful song.’					
+95	70	barreessa	NOM	ABS	TR	TR	obsaa-n t'alajaa barreess-e	PN-NOM letter.ABS write-3SG.M.PFV	‘Obsa wrote a letter.’					
+95	71	ɗuga	NOM	ABS	TR	TR	obsaa-n aannan-ittʃa ɗug-e	PN-NOM milk-DEF.ABS drink-3SG.M.PFV	‘Obsa drank the milk.’					
+95	72	bak'sa	NOM	ABS	TR	TR	obsaa-n liidii t'ik'k'oo tokko bak'-s-e	PN-NOM lead.ABS small.ABS one melt-CAUS-3SG.M.PFV	‘Obsa melted a piece of lead.’					
+95	73	wal sima	NOM	ABSwaddzin	Y	NOM_ABSwaddzin	sak'k'ii-n kun uffata=koo waddʒin wal sim-a	belt-NOM this.NOM dress=1SG.POSS with each_other match-3SG.M.IPFV	‘This belt matches my dress.’					
+95	74	gadi ɗiisa	NOM	ABS	TR	TR	obsaa-n magaalaa keessa-tti ɗal-at-e gadi ɗiis-e 	PN-NOM city.ABS in-LOC give_birth-MID-3SG.M.PFV down leave-3SG.M.PFV	‘Obsa left his native city.’					
+95	75	uwwisa	NOM	ABS	TR	TR	afaa-n sun laf-ittʃa guutummaan uwwis-a	carpet-NOM that.NOM space-DEF.ABS fully cover-3SG.M.IPFV	‘The carpet fully covers the space.’					
+95	76	jaadata	NOM	ABS	TR	TR	obsaa-n man-ittʃa sirrii-tti jaadat-a	PN-NOM house-DEF.ABS right-LOC remember-3SG.M.IPFV	‘Obsa remembers the house well.’					
+95	77	gargaara	NOM	ABS	TR	TR	obsaa-n boontuu gargaar-e	PN-NOM PN.ABS help-3SG.M.PFV	‘Obsa helped Bontu.’					
+95	78	ɗagaʔa	NOM	ABS	TR	TR	boontuu-n afaan faransaayii ɗageessi	PN-NOM language.ABS France.GEN hear.3SG.F.IPFV	‘Bontu understands French.’					
+95	79	rukkuta	NOM	ABS	TR	TR	balak'k'eessaa-n man-ittʃa rukkut-e	lightening-NOM house-DEF.ABS hit-3SG.M.PFV	‘Lightening hit the house.’					
+95	80	of mura	NOM	INS	Y	NOM_INS	obsaa-n k'arabaa-ɗaan of mur-e	PN-NOM razor-INS himself cut-3SG.M.PFV	‘Obsa cut himself with a razor.’					
+95	81	k'aba	NOM	LOC	Y	NOM_LOC	burtʃ'uk'k'-ittʃ-i mindʒaala-tti k'ab-at-e	glass-DEF-NOM table-LOC hold-MID-3SG.M.PFV	‘The glass got stuck to the table.’					
+95	82	moʔa + PASS	NOM	INS	Y	NOM_INS	obsaa-n tolaa-ɗaan moʔ-am-e	PN-NOM PN-INS win-PASS-3SG.M.PFV	‘Obsa lost to Tola.’					
+95	83	gammada	NOM	LOC	Y	NOM_LOC	obsaa-n t'alajaa sana-tti gammad-e	PN-NOM letter.ABS that-LOC please-3SG.M.PFV	‘Obsa was glad about the letter.’					
+95	84	odeessa	NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n tolaa waddʒin odeess-aa dʒir-a	PN-NOM PN.ABS with speak-PROG AUX-3SG.M.NPST	‘Obsa is speaking with Tola.’					
+95	85	daʔa	NOM	ABS	TR	TR	boontuu-n ilma deesse	PN-NOM son.ABS give_birth.3SG.F.PFV	‘Bontu gave birth to a son.’					
+95	86	buusa	NOM	ABS	TR	TR	obsaa-n burtʃ'uk'k'oo lafa buus-e	PN-NOM glass.ABS ground drop.CAUS-3SG.M.PFV	‘Obsa dropped a glass.’					
+95	87	geggeessa	NOM	ABS	TR	TR	obsaa-n magaalaa keeɲɲa geggeess-a	PN-NOM town.ABS 3PL.POSS run-3SG.M.IPFV	‘Obsa runs/governs our town.’					
+95	88	jaada	NOM	ABS	TR	TR	obsaa-n boontuu jaad-a	PN-NOM PN.ABS miss-3SG.M.IPFV	‘Obsa misses Bontu.’					
+95	89	hordofa	NOM	ABS	TR	TR	obsaa-n boontuu hordof-a	PN-NOM PN.ABS follow-3SG.M.IPFV	‘Obsa follows Bontu.’					
+95	90	buʔa	NOM	ABSirraa	Y	NOM_ABSirraa	nam-ittʃ-i fard-ittʃa irraa buʔ-e	man-DEF-NOM horse-DEF.ABS on.ABL get_down-3SG.M.PFV	‘The man got down from the horse.’					
+95	91	ɗaggeeffata	NOM	ABS	TR	TR	obsaa-n raadijoo ɗaggeeffattʃ-aa dʒir-a	PN-NOM radio.ABS listen-PROG AUX-3SG.M.NPST	‘Obsa is listening to radio.’					
+95	92	ɗagaʔa	NOM	ABS	TR	TR	obsaa-n jeroo hunda haaɗa isaa ɗagaʔ-a	PN-NOM time all mother.ABS 3SG.M.POSS hear-3SG.M.IPFV	‘Obsa always listens to his mother.’					
+95	93	ɗaggeeffata	NOM	ABS	TR	TR	obsaa-n sirb-ittʃa ni ɗaggeeffat-a	PN-NOM music-DEF.ABS FOC listen-3SG.M.IPFV	‘Obsa listens/hears the song.’					
+95	94	wal maka	NOM	ABSwaddzin	Y	NOM_ABSwaddzin	damm-ttʃ-i aannan waddʒin wal mak-e	honey-DEF-NOM milk.ABS with each_other mix-3SG.M.PFV	‘The honey got mixed with the milk.’					
+95	95	ilaala	NOM	ABS	TR	TR	obsaa-n duumessa ilaal-aa dʒir-a	PN-NOM cloud.ABS look-PROG AUX-3SG.M.NPST	‘Obsa is looking at the cloud.’					
+95	96	baasa	NOM	ABS	TR	TR	obsaa-n ʃamizii isaa of irraa baas-e	PN-NOM shirt.ABS 3SG.M.POSS self on.ABL take_off-3SG.M.PFV	‘Obsa took off his shirt.’					
+95	97	abdʒata	NOM	waa7eeGEN	Y	NOM_waa7eeGEN	obsaa-n waaʔee boontuu abdʒat-a	PN-NOM about PN.GEN dream-3SG.M.IPFV	‘Obsa deams about Bontu.’					
+95	98	walii gala	NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n boontuu waddʒin wal-ii gal-e	PN-NOM PN.ABS with each_other-for enter-3SG.M.PFV	‘Obsa agreed with Bontu.’					
+95	99	wal ɗaba	NOM	ABSwaddzin	Y	NOM_ABSwaddzin	obsaa-n boontuu waddʒin wal ɗab-e	PN-NOM PN.ABS with each_other.ABS lose-3SG.M.PFV	‘Obsa had a quarrel with Bontu.’					
+95	100	baasa	NOM	ABS	TR	TR	waantʃ'aa-n kun birrii tokko baas-a	cup-NOM this.NOM birr one.ABS cost-3SG.M.PFV	‘This cup costs one birr.’					
+95	101	ɗukaasa	NOM	LOC	Y	NOM_LOC	obsaa-n simbirroo sana-tti ɗukaas-e	PN-NOM bird.ABS that-LOC shoot-3SG.M.PFV	‘Obsa shot at the bird.’					
+95	102	nak'a	NOM	ABS	TR	TR	obsaa-n sukkaara burtʃ'uk'k'oo-tti nak'-e	PN-NOM sugar.ABS glass-LOC pour-3SG.M.PFV	‘Obsa poured sugar into a glass.’					
+95	103	gata	NOM	ABS	TR	TR	obsaa-n furtuu-wwan isaa gat-e	PN-NOM key-PL.ABS 3SG.M.POSS lose-3SG.M.PFV	‘Obsa lost his keys.’					
+95	104	gadi lit'a	NOM	ABSkeessatti	Y	NOM_ABSkeessatti	dʒirm-ittʃ-i biʃaan keessa-tti gadi lit'-e	log-DEF-NOM water.ABS in-LOC down get-3SG.M.PFV	‘The log sank in the water.’					
+95	105	addʒeesa	NOM	ABS	TR	TR	obsaa-n tolaa addʒees-e	PN-NOM PN.ABS kill-3SG.M.PFV	‘Obsa killed Tola.’					
+95	106	rukkuta	NOM	ABS	TR	TR	obsaa-n boontuu rukkut-e	PN-NOM PN.ABS hit-3SG.M.PFV	‘Obsa hit Bontu.’					
+95	107	ɗungata	NOM	ABS	TR	TR	obsaa-n boontuu ɗungat-e	PN-NOM PN.ABS kiss-3SG.M.PFV	‘Obsa kissed Bontu.’					
+95	108	dubbisa	NOM	ABS	TR	TR	obsaa-n kitaaba bajeessa dubbis-e	PN-NOM book.ABS good read-3SG.M.PFV	‘Obsa read a good book.’					
+95	109	sottʃoosa	NOM	ABS	TR	TR	obsaa-n k'uba isaa sottʃoos-e	PN-NOM finger.ABS 3SG.M.POSS move.CAUS-3SG.M.PFV	‘Obsa moved his finger.’					
+95	110	kabadʒa	NOM	ABS	TR	TR	obsaa-n tolaa kabadʒ-a	PN-NOM PN.ABS respect-3SG.M.IPFV	‘Obsa respects Tola.’					
+95	111	aara	NOM	waa7eeGEN	Y	NOM_waa7eeGEN	obsaa-n waaʔee k'odaa t'uraaʔaa aar-a	PN-NOM about object dirty.GEN be_squeamish-3SG.M.IPFV	‘Obsa is squeamish about the dirty dishes.’					
+95	112	itti k'uufa	NOM	LOC	Y	NOM_LOC	obsaa-n ilma isaa-tti k'uuf-a 	PN-NOM son.ABS 3SG.M.POSS-LOC be_satisfied-3SG.M.IPFV	‘Obsa is satisfied with his son.’					
+95	113	k'aba	ABS	ABSirraa	XY	ABS_ABSirraa	gurb-ittʃa boontuu irraa dʒaalalli isa k'ab-e	boy-DEF.ABS PN.ABS on-ABL love-NOM 3SG.M.ABS catch-3SG.M.PFV	‘The boy fell in love with Bontu.’					
+95	114	amana	NOM	ABS	TR	TR	obsaa-n tolaa aman-a	PN-NOM PN.ABS trust-3SG.M.IPFV	‘Obsa trusts Tola.’					
+95	115	gadda	NOM	DAT	Y	NOM_DAT	obsaa-n haaɗa isaa-f in gadd-a	PN-NOM mother.ABS 3SG.M.POSS-DAT FOC be_pity-3SG.M.IPFV	‘Obsa feels sorry for his mother.’					
+95	116	inaafa	NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti inaaf-a	PN-NOM PN-LOC envy-3SG.M.IPFV	‘Obsa invies Tola.’					
+95	117	aara	NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti aaree dʒir-a	PN-NOM PN-LOC be_angry-3SG.M.CONV AUX-3SG.M.NPST	‘Obsa remains angry with Tola.’					
+95	118	adʒaaʔibsiisata	NOM	ABS	TR	TR	obsaa-n kennaa kana adʒaaʔib-siif-at-e	PN-NOM gift.ABS this.ABS surprise-CAUS-MID-3SG.M.PFV	‘Obsa was surprised at this gift.’					
+95	119	dʒaallata	NOM	ABS	TR	TR	obsaa-n ʃaajii dʒaallat-a	PN-NOM tea.ABS love-3SG.M.IPFV	‘Obsa loves tea.’					
+95	120	itti gammada	NOM	LOC	Y	NOM_LOC	obsaa-n ʃaajii hoʔaa-tti gammad-a	PN-NOM tea.ABS hot-LOC enjoy-3SG.M.IPFV	‘Obsa enjoys hot tea.’					
+95	121	barbaada	NOM	ABS	TR	TR	obsaa-n bilbila haaraa barbaad-a	PN-NOM phone.ABS new want-3SG.M.IPFV	‘Obsa wants a new mobile phone.’					
+95	122	haaloo k'aba	NOM	LOC	Y	NOM_LOC	obsaa-n boontuu-tti haaloo k'ab-at-ee dʒir-a	PN-NOM PN-LOC grudge.ABS hold-MID-CONV AUX-3SG.M.NPST	‘Obsa has held a grudge against Bontu.’					
+95	123	mufata	NOM	LOC	Y	NOM_LOC	obsaa-n tolaa-tti mufat-e	PN-NOM PN-LOC take_offence-3SG.M.PFV	‘Obsa took offence at Tola.’					
+95	124	mufattʃiisa	NOM	ABS	TR	TR	obsaa-n boontuu baajjee mufattʃiis-e	PN-NOM PN.ABS greatly be_annoyed.CAUS-3SG.M.PFV	‘Obsa greatly upset Bontu.’					
+95	125	adʒaaʔibsiisata	NOM	ABS	TR	TR	obsaa-n magaala-ttii adʒaaʔib-siis-at-e	PN-NOM town-DEF.ABS impress-CAUS-MID-3SG.M.PFV	‘Obsa was impressed by the town.’					
+95	126	tuffata	NOM	ABS	TR	TR	obsaa-n tolaa tuffat-a	PN-NOM PN.ABS despise-3SG.M.IPFV	‘Obsa despises Tola.’					
+95	127	aara	NOM	LOC	Y	NOM_LOC	obsaa-n ilma isaa-tti aar-e	PN-NOM son.ABS 3SG.M.POSS-LOC get_upset-3SG.M.PFV	‘Obsa got upset with his son.’					
+95	128	aara	NOM	LOC	Y	NOM_LOC	obsaa-n intala isaa-tti aar-ee dʒir-a	PN-NOM daughter.ABS 3SG.M.POSS-LOC irritate-CONV AUX-3SG.M.NPST	‘Obsa is getting angry at his daughter.’					
+95	129	leellisa	NOM	ABS	TR	TR	obsaa-n nam-ittʃa in leellis-a	PN-NOM man-DEF.ABS FOC like-3SG.M.IPFV	‘Obsa likes the man.’					
+95	130	k'aanaʔa	NOM	LOC	Y	NOM_LOC	obsaa-n hoddʒaa isaa-tti in k'aanaʔ-a	PN-NOM height.ABS 3SG.M.POSS-LOC FOC be_shy-3SG.M.IPFV	‘Obsa is embarrassed about his height.’					
 63	1	bolet	ACC	NOM	X	ACC_NOM	Petr-a bolí hlav-a	PN(M)-ACC.SG ache(IPFV).PRS.3SG head(F)-NOM.SG	‘Petr has a headache.’		PN(M)-ACC.SG болеть(IPFV).PRS.3SG голова(F)-NOM.SG	‘У Петра болит голова.’		
 63	2	mít	NOM	ACC	TR	TR	Petr má chřipk-u	PN(M)[NOM.SG] have(IPFV).PRS.3SG flu(F)-ACC.SG	‘Petr has the flu.’		PN(M)[NOM.SG] иметь(IPFV).PRS.3SG грипп(F)-ACC.SG	‘Петр болеет гриппом.’		
 63	3	bát se	NOM	GEN	Y	NOM_GEN	Petr se bojí ps-a	PN(M)[NOM.SG] REFL.ACC be_afraid(IPFV).PRS.3SG dog(M)-GEN.SG	‘Petr is afraid of the dog.’		PN(M)[NOM.SG] REFL.ACC бояться(IPFV)-PRS.3SG собака(M)-GEN.SG	‘Петр боится собаки.’		
