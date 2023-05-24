@@ -24,7 +24,7 @@ Oromo has SOV syntax with head-initial NPs, showing a typologically uncommon com
 
 ```
 (1)  barattoot-ni	 kitaaba   fuɗ-at-an-i
-     student-NOM	 book.ABS	 take-MID-3PL-PFV
+     student-NOM	 book.ABS  take-MID-3PL-PFV
      ‘Students took books.’
 
 (2)  inni       (u)nu    waam-a
