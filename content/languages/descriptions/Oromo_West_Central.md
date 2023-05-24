@@ -23,11 +23,11 @@ The data were gathered in {{ data_collection_year }}. The English version of the
 Oromo has SOV syntax with head-initial NPs, showing a typologically uncommon combination of verb-finality versus head-modifier order. In terms of alignment of NPs, it belongs to the marked-nominative type, the uniquely African phenomenon: here, A and S employ identical explicit markers (nominative form), which differentiates them from O, which is formally unmarked (absolute form). The alignment pattern here is like in the accusative languages (nominative-accusative alignment) because it treats S and A similarly against the O, but what is unusual is that the unmarked form signals the O argument.
 
 ```
-(1)	 barattoot-ni	 kitaaba   fuɗ-at-an-i
-	   student-NOM	 book.ABS	 take-MID-3PL-PFV
-	   ‘Students took books.’
+(1)  barattoot-ni	 kitaaba   fuɗ-at-an-i
+     student-NOM	 book.ABS	 take-MID-3PL-PFV
+     ‘Students took books.’
 
-(2)	 inni		    (u)nu    waam-a
+(2)  inni       (u)nu    waam-a
      3SG.M.NOM  1PL.ABS  call-3SG.M.IPFV
      ‘He calls/invites us.’
 
