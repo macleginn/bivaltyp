@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Elizaveta Zabelina](https://iling.spb.ru/persons/zabelina-elizaveta-aleksandrovna) ([Academia.edu profile](https://iling-spb.academia.edu/ElizavetaZabelina)
+Contributed by [Elizaveta Zabelina](https://iling.spb.ru/persons/zabelina-elizaveta-aleksandrovna) ([Academia.edu profile](https://iling-spb.academia.edu/ElizavetaZabelina))
 
 ![E.Z.'s photo]({{ site_url_j }}/images/Zabelina.jpg "E.Z.'s photo")
 
