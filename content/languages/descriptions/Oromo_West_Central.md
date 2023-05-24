@@ -84,20 +84,19 @@ The locative marker is a suffix *-tti* attached to a noun or pronoun, but it som
 ### Verbs
 There are main verbs, copulas, and auxiliaries in Oromo. The main verbs identify perfective and imperfective aspects, but some sort of tense is also observable with auxiliary verbs. The perfective aspect is marked by the suffixes [-*e*, -*i*], and the imperfective by [-*a*, -*u*, -*i*] occurring as final morphemes in the sequence of suffixes. The potential verb suffixes marking the middle, causative, and passive are followed by the subject indexes and the aspect markers, and the verb indexes the subject/agent argument for person, number, and gender. 
 
-Table 2ː Agreement suffixes and imperfective aspect markers 
+Table 2ː Agreement suffixes and imperfective aspect markers (exemplified by the verb root *raf-* 'to sleep')
 
 <div class="before-table"></div>
 
-|           Persons    |     The verb root raf- ‘to sleep’                                                                        |
-|----------------------|--------------------------------------|-------------|-----------------------|-------------------------|---|
-|                      |     AGR                              |     IPFV    |     Inflected form    |     Translation         |   |
-|     1SG              |     -Ø-                              |     -a      |     raf-a             |     ‘I sleep.’          |   |
-|     2SG              |     -t-                              |     -a      |     raf-t-a           |     ‘You sleep.’        |   |
-|     3SGM             |     -Ø-                              |     -a      |     raf-a             |     ‘He sleeps.’        |   |
-|     3SGF             |     -t-                              |     -i      |     raf-t-i           |     ‘She sleeps.’       |   |
-|     1PL              |     -n-                              |     -a      |     raf-n-a           |     ‘We sleep.’         |   |
-|     2PL              |     - t -                            |     -u      |     raf-t-u           |     ‘You sleep (PL)’    |   |
-|     3PL              |     - Ø -                            |     -u      |     raf-u             |     ‘They sleep.’       |   |
+|     Persons    |     AGR      |     IPFV    |     Inflected form    |     Translation         |
+|----------------|--------------|-------------|-----------------------|-------------------------|
+|     1SG        |     -Ø-      |     -a      |     raf-a             |     ‘I sleep.’          |
+|     2SG        |     -t-      |     -a      |     raf-t-a           |     ‘You sleep.’        |
+|     3SGM       |     -Ø-      |     -a      |     raf-a             |     ‘He sleeps.’        |
+|     3SGF       |     -t-      |     -i      |     raf-t-i           |     ‘She sleeps.’       |
+|     1PL        |     -n-      |     -a      |     raf-n-a           |     ‘We sleep.’         |
+|     2PL        |     - t -    |     -u      |     raf-t-u           |     ‘You sleep (PL)’    |
+|     3PL        |     - Ø -    |     -u      |     raf-u             |     ‘They sleep.’       |
 
 The copulas are *ɗa*, -*ti*, Ø used in the present tense (e.g., *iʃeen barattuu ɗa* ‘she is a student’), and the negative copula is *miti* (e.g., *iʃeen barattuu miti* ‘she is not a student’). The past forms of copular clauses involve the existential auxiliary tur- ‘existed/there was’ (e.g., *iʃeen barattuu turte* ‘she was a student.’). The verb *tur*- attaches agreement suffix and aspect marker. The auxiliaries *dʒir*- ‘exists/there is’ and *tur*- ‘existed/there was’ are often used in the converb constructions and progressive verb forms. 
 
