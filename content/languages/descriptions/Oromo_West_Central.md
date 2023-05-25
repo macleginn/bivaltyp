@@ -20,7 +20,7 @@ The data were gathered in {{ data_collection_year }}. The English version of the
 
 ### Basic clause structure and the transitive construction
 
-Oromo has SOV syntax with head-initial NPs, showing a typologically uncommon combination of verb-finality versus head-modifier order. In terms of alignment of NPs, it belongs to the marked-nominative type, the uniquely African phenomenon: here, A and S employ identical explicit markers (nominative form), which differentiates them from O, which is formally unmarked (absolute form). The alignment pattern here is like in the accusative languages (nominative-accusative alignment) because it treats S and A similarly against the O, but what is unusual is that the unmarked form signals the O argument.
+Oromo has SOV syntax with head-initial NPs, showing a typologically uncommon combination of verb-finality versus head-modifier order. In terms of alignment of NPs, it belongs to the marked-nominative type, the uniquely African phenomenon: here, A and S employ identical explicit markers (nominative form), which differentiates them from O, which is formally unmarked (absolutive form). The alignment pattern here is like in the accusative languages (nominative-accusative alignment) because it treats S and A similarly against the O, but what is unusual is that the unmarked form signals the O argument.
 
 ```
 (1)  barattoot-ni	 kitaaba   fuɗ-at-an-i
@@ -38,7 +38,7 @@ The verb indexes the subject for person, number, and gender. The indexing is exp
 Oromo is a predominantly suffixing language and can be characterized by a complex morphological system where some elements are loaded with several functions. In addition, morphemes are fused together involving varied and intricate phonological processes. For instance, vowel length shows multiple functions by itself and in combination with other suffixes.
 
 ### Case system
-Nouns and pronouns are morphologically marked for case. The common cases in Oromo include nominative, absolute, dative, genitive, instrumental, locative, ablative, and vocative. The absolute is just the citation form while the others are distinctly marked. The case system is categorized as the core case (nominative, absolute) and the peripheral case (the remaining ones). Below are a few case paradigms for (in)definite nouns.
+Nouns and pronouns are morphologically marked for case. The common cases in Oromo include nominative, absolutive, dative, genitive, instrumental, locative, ablative, and vocative. The absolutive is just the citation form while the others are distinctly marked. The case system is categorized as the core case (nominative, absolutive) and the peripheral case (the remaining ones). Below are a few case paradigms for (in)definite nouns.
 
 Table 1. Case paradigm
 
@@ -104,5 +104,5 @@ The copulas are *ɗa*, -*ti*, Ø used in the present tense (e.g., *iʃeen baratt
 Verbs are quoted in their perfective or imperfective stems. The verb forms like *waammata* ‘he calls for himself’ are used as citation forms below; these forms contain valency changing suffixes (if necessary) as well as the 3SG.M subject index and aspect markers.
 
 ## Glossing abbreviations
-1, 2, 3 — 1st, 2nd, 3rd persons; ABL — ablative; ABS — absolute; AGR — agreement; DAT — dative; DEF — definite; F — feminine; GEN — genitive; IMP — imperative; INS — instrumental; IPFV — imperfective; LOC — locative; M — masculine; MID — middle; NOM — nominative; NP — noun phrase; PFV — perfective; PL — plural; PN — person name; SG — singular.
+1, 2, 3 — 1st, 2nd, 3rd person; ABL — ablative; ABS — absolutive; AGR — agreement; AUX — auxiliary; CAUS — causative; CONV — converb; COP — copula; DAT — dative; DEF — definite; EP — epenthetical; F — feminine; FOC — focus; GEN — genitive; INF — infinitive; INS — instrumental; IPFV — imperfective; LOC — locative; M — masculine; MID — middle; NOM — nominative; NP — noun phrase; NPST — non-past; PASS — passive; POSS — possessive; PFV — perfective; PL — plural; PN — person name; PROG — progressive; SG — singular.
 
