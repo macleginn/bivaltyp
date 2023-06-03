@@ -7,7 +7,6 @@ Contributed by [Daria Zhornik](https://www.finnougristik.uni-muenchen.de/persone
 ## How to cite
 > Zhornik, Daria. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
-> St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
 > last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, 
 > Accessed on {{ today }}.)
