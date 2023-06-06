@@ -4,7 +4,7 @@ Contributed by [Inna Popova](https://iling.spb.ru/persons/popova-inna-dmitrievna
 
 ![I.P.'s photo]({{ site_url_j }}/images/Popova.jpg "I.P.'s photo")
 
-The data were gathered by Inna Popova in 2017-2021 using the PHI 5 database of Classical Latin texts. The Russian version of the questionnaire was used for elicitation. Interlinear glosses were provided by Tamara Petushkeeva.
+The data were gathered by Inna Popova in 2017-2021 using the PHI 5 database of Classical Latin texts. The Russian version of the questionnaire was used for elicitation. Interlinear glosses were provided by Tamara Petushkeeva. For computational purposes, Latin is classified as a Romance language, although this is not technically correct and Latin is not represented in WALS.
 
 ## How to cite
 > Popova, Inna. 2021. Bivalent patterns in {{ language_external}}. 
