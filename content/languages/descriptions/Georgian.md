@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by Alexander Rostovtsev-Popiel ([Academia.edu profile](https://uni-mainz.academia.edu/AlexPopiel))
 
+![A.P.'s photo]({{ site_url_j }}/images/Rostovtsev-Popiel.jpg "A.P.'s photo")
+
 ## How to cite
 > Rostovtsev-Popiel, Alexander. 2023. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
