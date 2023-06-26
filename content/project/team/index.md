@@ -54,6 +54,7 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 
 Anna Alexandrova: {{ language:Italian }}  
 Daria Alfimova, Søren Wichmann: {{ language:Danish }}  
+Mansour Amadeh: {{ language:Kurdish_Sorani }}  
 Ekaterina Aplonova: {{ language:Goo }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe }}  
@@ -68,6 +69,7 @@ Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul }}
 Varvara Diveeva: {{ language:Albanian }}  
 Sergey Dmitrenko: {{ language:Khmer }}  
 Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
+Martin Gális, Kirill Kozhanov: {{ language:Slovak }}  
 Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}, {{ language:Tsakhur }}  
 Wakweya Gobena:  {{ language:Oromo_West_Central }}  
 Elena Gorbova: {{ language:Spanish }}  
