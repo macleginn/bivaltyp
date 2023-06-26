@@ -1,14 +1,12 @@
 # {{ language_external }}
-Contributed by [Anastasia Makarova](https://katalog.uu.se/profile/?id=N20-1741) ([ResearchGate profile](https://www.researchgate.net/profile/Anastasia-Makarova-10))
+Contributed by Martin Gális & [Kirill Kozhanov](https://www.uni-potsdam.de/de/slavische-linguistik/team/kirill-kozhanov) 
+([Academia.edu profile](https://wipcad-potsdam.academia.edu/KirillKozhanov))
 
-![A.M.'s photo]({{ site_url_j }}/images/MakarovaAB.jpg "A.M.'s photo")
-
-The dataset was put together in 2017 by Anastasia Makarova (native speaker of Russian, knowledge of Czech as a foreign language) in consultation with Lucie Taraldsen Medová (native speaker of Czech). The Russian version of the questionnaire was used for elicitation. Anna Vashchenkova greatly contributed to the interlinearization of the Czech sentences.
+The dataset was put together in 2023 by Martin Gális (native speaker of Slovak) and Kirill Kozhanov. The English version of the questionnaire was used for elicitation. 
 
 ## How to cite
-> Makarova, Anastasia. 2021. Bivalent patterns in {{ language_external}}. 
+> Gális, Martin & Kirill Kozhanov. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
-> St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
 > last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, 
 > Accessed on {{ today }}.)
