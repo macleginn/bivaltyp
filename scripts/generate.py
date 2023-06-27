@@ -275,7 +275,10 @@ def get_predicate_example_table(t):
         'table', attrib={'class': 'example', 'cellspacing': '0'})
     sent_arr = sent.split()
     glos_arr = glos.split()
-    ncol = min(len(sent_arr), len(glos_arr))
+    if len(glos_arr) == 0:
+        ncol = len(sent_arr)
+    else:
+        ncol = min(len(sent_arr), len(glos_arr))
     sent_arr = sent.split(' ', ncol - 1)
     glos_arr = glos.split(' ', ncol - 1)
 

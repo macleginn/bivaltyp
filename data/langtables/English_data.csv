@@ -1,0 +1,131 @@
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
+29	English	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	have X-ache	*	*	*		Not included in the database because Y is expressed as part of a nominal compound.	Peter has a headache.					
+29	English	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	have	SBJ	DO	TR	TR		Peter has the flu.					Same as 38.
+29	English	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	be afraid	SBJ	of	Y	SBJ_of	Non-verbal predicate.	Peter is afraid of the dog.					
+29	English	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	throw	SBJ	DO	TR	TR		Peter threw a stone first.					
+29	English	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	have enough	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).	Now Peter has enough money.					
+29	English	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	resemble	SBJ	DO	TR	TR		Peter resembles Mary.					
+29	English	7	believe	X (believe) Y	верить	X (верить)Y-у	believe	SBJ	DO	TR	TR		Peter believes Mary.					
+29	English	8	take	X (take) Y	взять	X (брать) Y(-а)	take	SBJ	DO	TR	TR		Peter took a book from the shelf.					
+29	English	9	see	X (see) Y	видеть	X (видеть) Y(-а)	see	SBJ	DO	TR	TR		Peter sees a house.					
+29	English	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	influence	SBJ	DO	TR	TR		Age influences memory.					
+29	English	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	encounter	SBJ	DO	TR	TR		Peter encountered Mary.					or (more frequent, but more colloquial) "run into".
+29	English	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	enter	SBJ	DO	TR	TR		Peter entered the house.					
+29	English	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	beat	SBJ	DO	TR	TR		Peter beat Mary.					
+29	English	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	go out	SBJ	of	Y	SBJ_of		Peter went out of the house.					phrasal verb
+29	English	15	drive	X (drive) Y	гнать	X (гнать) Y-а	drive	SBJ	DO	TR	TR		Peter is driving the cow to the pasture.					
+29	English	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bend	SBJ	DO	TR	TR		Peter bent the branch.					
+29	English	17	tell	X (tell) Y	говорить	X (говорить) Y-у	tell	SBJ	DO	TR	TR		Peter told Mary: ‘Call me this evening.’.					
+29	English	18	hold	X (hold)Y	держать	X (держать) Y(-а)	hold	SBJ	DO	TR	TR		Peter is holding a book.					
+29	English	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	catch up	SBJ	with	Y	SBJ_with		Peter caught up with Mary.					Phrasal verb.
+29	English	20	milk	X (milk) Y	доить	X (доить) Y-а	milk	SBJ	DO	TR	TR		Peter milked the cow.					
+29	English	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 	reach	SBJ	DO	TR	TR		Peter reached the bank.					
+29	English	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а	touch	SBJ	DO	TR	TR		Peter touched the wall.					
+29	English	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	fight	SBJ	with	Y	SBJ_with		Peter is fighting with Mary.					
+29	English	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	be friends	SBJ	with	Y	SBJ_with	Non-verbal predicate.	Peter is friends with Mary.					
+29	English	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	think	SBJ	about	Y	SBJ_about		Peter is thinking about Mary.					
+29	English	26	eat	X (eat) Y	есть	X (есть) Y	eat	SBJ	DO	TR	TR		Peter ate an apple.					
+29	English	27	fry	X (fry) Y	жарить	X (жарить) Y	fry	SBJ	DO	TR	TR		Peter fried the fish.					
+29	English	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	wait	SBJ	for	Y	SBJ_for		Peter is waiting for Mary.					
+29	English	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	forget	SBJ	about	Y	SBJ_about		Peter forgot about the other road.					Вообще-то JN поставила скобки вокруг "about", но в гугле это чаще и JN сама не написала, что about невозможно, оставляю
+29	English	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	depend	SBJ	on	Y	SBJ_on		Memory depends on age.					
+29	English	31	call	X (call) Y	звать	X (звать) Y-а	call	SBJ	DO	TR	TR		Peter called Mary.					
+29	English	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	get to know	SBJ	DO	TR	TR		Peter got to know Mary a year ago.					CV
+29	English	33	know	X (know) Y	знать 	X (знать) Y-а	know	SBJ	DO	TR	TR		Peter knows Mary.					
+29	English	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	play	SBJ	DO	TR	TR		Peter is playing the guitar.					
+29	English	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	avoid	SBJ	DO	TR	TR		Peter avoids Mary.					
+29	English	36	make	X (make) Y	изготовить	X (изготовить) Y	make	SBJ	DO	TR	TR		Peter made a mousetrap.					
+29	English	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	make fun	SBJ	of	Y	SBJ_of		Peter is making fun of Mary.					CV
+29	English	38	have	X (have) Y	иметь	X (иметь) Y	have	SBJ	DO	TR	TR		Peter has a car.					Same as 2.
+29	English	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	look	SBJ	for	Y	SBJ_for		Peter is looking for his keys.					Same verb as 95 (different pattern)
+29	English	40	paint	X (paint) Y	красить	X (красить) Y	paint	SBJ	DO	TR	TR		Peter painted the fence.					
+29	English	41	bite	X (bite) Y	кусать	X (кусать) Y-а	bite	SBJ	DO	TR	TR		A dog bit Peter.					
+29	English	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	lose	SBJ	DO	TR	TR		Peter lost his house.					Same as 82 and 103.
+29	English	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	try to catch	SBJ	DO	TR	TR		Peter is trying to catch the cat.					CV
+29	English	44	break	X (break) Y	ломать	X (ломать) Y	break	SBJ	DO	TR	TR		Peter broke a stick.					
+29	English	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	flatter	SBJ	DO	TR	TR		Peter is flattering Mary.					
+29	English	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	love	SBJ	DO	TR	TR		Peter loves Mary.					Same as 119.
+29	English	47	wave	X (wave) Y	махать	X (махать) Y-ом	wave	SBJ	DO	TR	TR		Peter is waving a handkerchief.					
+29	English	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dream	SBJ	of	Y	SBJ_of		Peter is dreaming of a new car.					Same as 97. Есть такое различие, что "dream of" это мечтать, а "dream about" -- видеть во сне
+29	English	49	wash	X (wash) Y	мыть	X (мыть) Y	wash	SBJ	DO	TR	TR		Peter washed the cup.					
+29	English	50	put_on	X (put_on) Y	надевать	X (надевать) Y	put on	SBJ	DO	TR	TR		Peter put on his trousers.					phrasal verb
+29	English	51	be_called	X (be_called) Y	называться	X (называться) Y	be called	SBJ	BARE	Y	SBJ_BARE	Passive.	This tool is called a compass.					
+29	English	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	punish	SBJ	DO	TR	TR		Peter punished his son.					
+29	English	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	attack	SBJ	DO	TR	TR		A bear attacked a fisherman.					
+29	English	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	fill	SBJ	with	Y	SBJ_with		The bucket filled with water.					
+29	English	55	find	X (find) Y	находить	X (находить) Y(-а)	find	SBJ	DO	TR	TR		Peter found his keys.					
+29	English	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	lack	SBJ	DO	TR	TR		Peter lacks one euro.					Не уверен, что это можно считать переходной конструкцией, но выглядит именно так (He is short one euro). JN: LACK:    "is short" is probably most neutral and frequent, but maybe colloquial (and maybe mostly American?).
+29	English	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	hate	SBJ	DO	TR	TR		Peter hates Mary.					
+29	English	58	like	X (like) Y	нравиться	X-у (нравиться) Y	like	SBJ	DO	TR	TR		Peter likes this shirt.					
+29	English	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	need	SBJ	DO	TR	TR		Peter needs money.					
+29	English	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	surround	SBJ	DO	TR	TR		Walls surround the city.					
+29	English	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	have left	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination.	Peter has 10 euros left.					
+29	English	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	answer	SBJ	DO	TR	TR		Peter answered the teacher.					
+29	English	63	open	X (open) Y	открывать	X (открывать) Y	open	SBJ	DO	TR	TR		Peter opened a can.					
+29	English	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	be different	SBJ	from	Y	SBJ_from	Non-verbal predicate.	No, my shirt is different from yours.					
+29	English	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	fall	SBJ	behind	Y	SBJ_behind		Peter fell behind Mary.					See a separate file for the clarification of the structure.
+29	English	66	plough	X (plough) Y	пахать	X (пахать) Y	plough	SBJ	DO	TR	TR		Peter is ploughing the field.					
+29	English	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smell	SBJ	like	Y	SBJ_like		My hands smell like gasoline.					Вообще-то это Николс предложила в качестве первого варианта like. Вторая возможность -- of, которая была раньше у меня. В гугле like раза в 3 чаще. JN: Some people can also say "smell of".  Maybe include that as an alternative.
+29	English	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	cross	SBJ	DO	TR	TR		Peter crossed the road.					
+29	English	69	sing	X (sing) Y	петь	X (петь) Y	sing	SBJ	DO	TR	TR		Peter sang a beautiful song.					
+29	English	70	write	X (write) Y	писать	X (писать) Y	write	SBJ	DO	TR	TR		Peter wrote a letter.					
+29	English	71	drink	X (drink) Y	пить	X (пить) Y	drink	SBJ	DO	TR	TR		Peter drank the milk.					
+29	English	72	melt	X (melt) Y	плавить	X (плавить) Y	melt	SBJ	DO	TR	TR		Peter melted a piece of lead.					
+29	English	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	go well	SBJ	with	Y	SBJ_with		This belt goes well with my dress.					CV
+29	English	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	leave	SBJ	DO	TR	TR		Peter left his native city.					
+29	English	75	cover	X (cover) Y	покрывать	X (покрывать) Y	cover	SBJ	DO	TR	TR		The carpet covers the whole floor.					
+29	English	76	remember	X (remember) Y	помнить	X (помнить) Y-а	remember	SBJ	DO	TR	TR		Peter remembers the house where he grew up well.					
+29	English	77	help	X (help) Y	помочь	X (помогать) Y-у	help	SBJ	DO	TR	TR		Peter helped Mary.					
+29	English	78	understand	X (understand) Y	понимать	X (понимать) Y	understand	SBJ	DO	TR	TR		Peter understands French.					
+29	English	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	hit	SBJ	DO	TR	TR		Lightning hit the house.					Same as 106. JN: предложила struck как вариант (вроде в той же мере распространено)
+29	English	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	cut oneself	SBJ	with	Y	SBJ_with		Peter cut himself with a razor.					CV.
+29	English	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	get stuck	SBJ	to	Y	SBJ_to	Get-passive.	The glass got stuck to the table.					
+29	English	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	lose	SBJ	to	Y	SBJ_to		Peter lost to Mary.					Same as 42 and 103.
+29	English	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	be glad	SBJ	about	Y	SBJ_about	Non-verbal predicate.	Peter was glad about the letter.					JN: Еще вариант (P. was glad to get the letter). REJOICE:    This is archaic (mostly Biblical).  Phrasal alternatives also include "happy to see", "happy to get"
+29	English	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	speak	SBJ	with	Y	SBJ_with		Peter is speaking with Mary.					
+29	English	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	give birth	SBJ	to	Y	SBJ_to		Mary gave birth to a son.					CV
+29	English	86	drop	X (drop) Y	ронять	X (ронять) Y	drop	SBJ	DO	TR	TR		Peter dropped the glass.					
+29	English	87	govern	X (govern) Y	руководить	X (руководить) Y	run	SBJ	DO	TR	TR		Peter runs our town.					
+29	English	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	miss	SBJ	DO	TR	TR		Peter misses Mary.					
+29	English	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	follow	SBJ	DO	TR	TR		Peter follows Mary.					
+29	English	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	get down	SBJ	from	Y	SBJ_from		Peter got down from the horse.					Phrasal verb.
+29	English	91	listen	X (listen) to Y	слушать	X (слушать) Y	listen	SBJ	to	Y	SBJ_to		Peter is listening to radio.					
+29	English	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obey	SBJ	DO	TR	TR		Peter obeys his mother.					
+29	English	93	hear	X (hear) Y	слышать	X (слышать) Y	hear	SBJ	DO	TR	TR		Peter hears the music.					
+29	English	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	get mixed	SBJ	with	Y	SBJ_with	Get-passive.	The honey got mixed with the milk.					
+29	English	95	look	X (look) at Y	смотреть	X (смотреть) на Y	look	SBJ	at	Y	SBJ_at		Peter is looking at the clouds.					Same verb as 39 (different pattern)
+29	English	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	take off	SBJ	DO	TR	TR		Peter took off his shirt.					phrasal verb
+29	English	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	dream	SBJ	about	Y	SBJ_about		Peter dreams about Mary.					Same as 48.
+29	English	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	agree	SBJ	with	Y	SBJ_with		Peter agreed with Mary.					
+29	English	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	have quarrel	SBJ	with	Y	SBJ_with		Peter had a quarrel with Mary.					CV
+29	English	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	cost	SBJ	DO	TR	TR		This cup costs 1 euro.					
+29	English	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	shoot	SBJ	at	Y	SBJ_at		Peter shot at the bird.					
+29	English	102	pour	X (pour) Y	сыпать	X (сыпать) Y	pour	SBJ	DO	TR	TR		Peter poured the sugar into the cup.					
+29	English	103	lose	X (lose) Y	терять	X (терять) Y	lose	SBJ	DO	TR	TR		Peter lost his keys.					Same as 42 and 82.
+29	English	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sink	SBJ	in	Y	SBJ_in		The log sank in the water.					
+29	English	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kill	SBJ	DO	TR	TR		Peter killed Mary.					
+29	English	106	hit	X (hit) Y	ударить	X (ударять) Y-а	hit	SBJ	DO	TR	TR		Peter hit Mary.					Same 79.
+29	English	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	kiss	SBJ	DO	TR	TR		Peter kissed Mary.					
+29	English	108	read	X (read) Y	читать	X (читать) Y-а	read	SBJ	DO	TR	TR		Peter read an interesting book.					
+29	English	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	move	SBJ	DO	TR	TR		Peter moved his finger.					
+29	English	110	respect	X (respect) Y	уважать	X (уважать) Y-а	respect	SBJ	DO	TR	TR		Peter respects Mary.					
+29	English	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	be squeamish	SBJ	about	Y	SBJ_about	Non-verbal predicate.	Peter is squeamish about dirty dishes.					
+29	English	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	be ok	SBJ	with	Y	SBJ_with	Non-verbal predicate.	Peter is ok with his son.					JN. Спросить, получается, что нет способа спросить? Actually, I think "content" and "satisfied" are both better with inanimate and abstract objects:  content or satisfied with his son's performance.  Content or satisfied with an employee, maybe (but then it's really their work and not the person).   In quite colloquial English, but rapidly becoming neutral:  P is OK with his son.  (Probably not British, at least not yet.)
+29	English	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	fall in love	SBJ	with	Y	SBJ_with		Peter fell in love with Mary.					CV
+29	English	114	trust	X (trust) Y	доверять	X (доверять) Y-у	trust	SBJ	DO	TR	TR		Peter trusts Mary.					
+29	English	115	sympathise	X (sympathise) with Y	жалеть	X (жалеть) Y-а	sympathise	SBJ	with	Y	SBJ_with		Peter sympathises with his mother.					
+29	English	116	envy	X (envy) Y	завидовать	X (завидовать) Y-у	envy	SBJ	DO	TR	TR		Peter envies Mary.					
+29	English	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	be angry	SBJ	with	Y	SBJ_with	Non-verbal predicate.	Peter is angry with Mary.					
+29	English	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	be surprised	SBJ	with	Y	SBJ_with	Passive.	Peter was surprised at this gift.					JN. добавила at первым, после слэша осталось by, которое было у меня. Спросить.
+29	English	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	love	SBJ	DO	TR	TR		Peter loves tea.					Same as 46.
+29	English	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	enjoy	SBJ	DO	TR	TR		Peter enjoys hot tea.					
+29	English	121	want	X (want) Y	хотеть	X (хотеть) Y-а	want	SBJ	DO	TR	TR		Peter wants a new mobile phone.					
+29	English	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	have a grudge	SBJ	against	Y	SBJ_against		Peter has a grudge against Mary.					CV
+29	English	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	take offence	SBJ	at	Y	SBJ_at		Peter took offence at Mary.					CV. JN добавила варианты (P got mad at / cross with M.)
+29	English	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	upset	SBJ	DO	TR	TR		Peter greatly upset Mary.					
+29	English	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	marvel	SBJ	at	Y	SBJ_at		Peter marvelled at this town.					JN: "marvel at" exists but is a bit poetic.  There's really no close equivalent in English.
+29	English	126	despise	X (despise) Y	презирать	X (презирать) Y-а	despise	SBJ	DO	TR	TR		Peter despises Mary.					
+29	English	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	get upset	SBJ	with	Y	SBJ_with		Peter got upset with his son.					CV. Видимо, возможно и became upset because of his son (было у меня, JN заменила через слэш)
+29	English	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	get irritated	SBJ	with	Y	SBJ_with	Get-passive.	Peter is getting irritated with his daughter.					
+29	English	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	be fond	SBJ	of	Y	SBJ_of	Non-verbal predicate.	Peter is fond of Mary.					
+29	English	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	be shy	SBJ	about	Y	SBJ_about	Non-verbal predicate.	Peter is shy about his height.					

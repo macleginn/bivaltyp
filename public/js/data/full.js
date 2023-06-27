@@ -56178,6 +56178,7 @@ const fullData = [
     "Касказик п’и мытькила ут етьӻад"
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "feel_pain",
     "болеть-1",
@@ -56189,6 +56190,20 @@ const fullData = [
     "Per ha-r vond-t i hod-et",
     "PN have-PRS painful-INDF.N.SG in head-DEF.N.SG",
     "‘Per has a headache.’",
+=======
+    "Telugu",
+    "feel_pain",
+    "болеть-1",
+    "noppi gā uṁḍu",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki ā kālu noppi gā uṁdi",
+    "PN(M).SG.OBL-DAT DEM.DIST leg(N).SG.NOM pain(N).SG.NOM ADVZ be.PRS.3SG.NM",
+    "‘Praveen’s that leg hurts.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘У Пера болит голова.’",
@@ -56196,6 +56211,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "have#illness#",
     "болеть-2",
@@ -56207,6 +56223,20 @@ const fullData = [
     "Per ha-r influensa",
     "PN have-PRS flu",
     "‘Per has the flu.’",
+=======
+    "Telugu",
+    "have#illness#",
+    "болеть-2",
+    "vaccu",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki flū vacciṁdi",
+    "PN(M).SG.OBL-DAT flu(N).SG.NOM come.PST.3SG.NM",
+    "‘Praveen has the flu.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер болеет гриппом.’",
@@ -56214,6 +56244,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_afraid",
     "бояться",
@@ -56226,12 +56257,28 @@ const fullData = [
     "PN be.PRS afraid for dog-DEF.M.SG",
     "‘Per is afraid of the dog.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "be_afraid",
+    "бояться",
+    "bhayamu + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ki ā kukk' aṁṭē bhayamu",
+    "PN(M).SG.OBL-DAT DEM.DIST dog(N).SG.NOM that_is fear(N).SG.NOM",
+    "‘Praveen is afraid of that dog.’",
+    "Non-verbal predicate.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер боится собаки.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "throw",
     "бросить",
@@ -56243,6 +56290,20 @@ const fullData = [
     "Per kaste-t stein-en først",
     "PN throw-PST stone-DEF.M.SG first",
     "‘Per threw the stone first.’",
+=======
+    "Telugu",
+    "throw",
+    "бросить",
+    "visurēyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ mundu rāyyi visurēsāḍu",
+    "PN(M).SG.NOM before stone(N).SG.NOM throw.INTENS.PST.3SG.M",
+    "‘Praveen threw a stone first.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер бросил камень первым.’",
@@ -56250,24 +56311,40 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "have_enough",
     "быть достаточно",
     "å ha nok",
+=======
+    "Telugu",
+    "have_enough",
+    "быть достаточно",
+    "saripōyē uṁḍu",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "*",
     "*",
     "*",
     "",
+<<<<<<< HEAD
     "nå ha-r Per nok peng-er",
     "now have-PRS PN enough money-PL",
     "‘Now Per has enough money.’",
     "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).",
+=======
+    "ippuḍu pravīṇ-ki saripōyē aṁta ḍabbu-l' unnāyi",
+    "now PN(M).SG.OBL-DAT be_enough.PTCP.NPST that_much money(N)-PL.NOM be.PRS.3PL.N",
+    "‘Now Praveen has enough money.’",
+    "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Теперь Перу хватает денег.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "resemble",
     "быть похожим",
@@ -56279,6 +56356,20 @@ const fullData = [
     "Per ligne-r på Ola",
     "PN resemble-PRS on PN",
     "‘Per resembles Ola.’",
+=======
+    "Telugu",
+    "resemble",
+    "быть похожим",
+    "uṁḍu",
+    "NOM",
+    "OBLlaga",
+    "Y",
+    "NOM_OBLlaga",
+    "pravīṇ maheṣ lāgā uṁṭāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL like be.NPST.3SG.M",
+    "‘Praveen resembles Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер похож на Улу.’",
@@ -56286,6 +56377,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "believe",
     "верить",
@@ -56297,6 +56389,20 @@ const fullData = [
     "Per tro-r Ola",
     "PN believe-PRS PN",
     "‘Per believes Ola.’",
+=======
+    "Telugu",
+    "believe",
+    "верить",
+    "nammu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni nammutāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC believe.NPST.3SG.M",
+    "‘Praveen believes Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер верит Уле.’",
@@ -56304,6 +56410,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "take",
     "взять",
@@ -56315,6 +56422,20 @@ const fullData = [
     "Per tok ei bok fra hyll-a",
     "PN take.PST INDF.F.SG book from shelf-DEF.F.SG",
     "‘Per took a book from the shelf.’",
+=======
+    "Telugu",
+    "take",
+    "взять",
+    "tīsukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ oka pustakamu tīsukunnāḍu",
+    "PN(M).SG.NOM one book(N).SG.NOM take.PST.3SG.M",
+    "‘Praveen took a book.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер взял книгу с полки.’",
@@ -56322,6 +56443,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "see",
     "видеть",
@@ -56333,6 +56455,20 @@ const fullData = [
     "Per se-r et hus",
     "PN see-PRS INDF.N.SG house",
     "‘Per sees a house.’",
+=======
+    "Telugu",
+    "see",
+    "видеть",
+    "cūcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ oka iṁṭi-ni cūstunnāḍu",
+    "PN(M).SG.NOM one house(N).SG.OBL-ACC see.DUR.3SG.M",
+    "‘Praveen sees a house.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер видит дом.’",
@@ -56340,6 +56476,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "influence",
     "влиять",
@@ -56351,13 +56488,27 @@ const fullData = [
     "alder-en påvirke-r hukommels-en",
     "age-DEF.M.SG influence-PRS memory-DEF.M.SG",
     "‘Age influences memory.’",
+=======
+    "Telugu",
+    "influence",
+    "влиять",
+    "māru",
+    "*",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
+    "vayasu jñāpakāšakti-ni mārustuṁdi",
+    "age(N).SG.NOM memory_force(N).SG.OBL-ACC change.NPST.3SG.NM",
+    "‘Age changes memory.’",
+    "Not included in the database because this translation is semantically inaccurate.",
     "",
     "‘Возраст влияет на память.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "encounter",
     "встречаться",
@@ -56369,6 +56520,20 @@ const fullData = [
     "Per møt-te Ola",
     "PN meet-PST PN",
     "‘Per encountered Ola.’",
+=======
+    "Telugu",
+    "encounter",
+    "встречаться",
+    "kaliyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni anukōkuṁḍā kalisāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC accidentally unite.PST.3SG.M",
+    "‘Praveen accidentally met Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер встретился с Улой.’",
@@ -56376,6 +56541,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "enter",
     "входить ",
@@ -56387,6 +56553,20 @@ const fullData = [
     "Per gikk inn i hus-et",
     "PN go.PST inside in house-DEF.N.SG",
     "‘Per entered the house.’",
+=======
+    "Telugu",
+    "enter",
+    "входить ",
+    "pravēšiṁcu",
+    "NOM",
+    "LOCDAT",
+    "Y",
+    "NOM_LOCDAT",
+    "pravīṇ iṁṭi-lō-ki pravēšiṁcāḍu",
+    "PN(M).SG.NOM house(N).SG.OBL-LOC-DAT enter.PST.3SG.M",
+    "‘Praveen entered the house.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер вошел в дом.’",
@@ -56394,6 +56574,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "win",
     "выиграть",
@@ -56405,6 +56586,20 @@ const fullData = [
     "Per vant over Ola",
     "PN win.PST over PN",
     "‘Per beat Ola.’",
+=======
+    "Telugu",
+    "win",
+    "выиграть",
+    "gelucu",
+    "NOM",
+    "OBLmida",
+    "Y",
+    "NOM_OBLmida",
+    "pravīṇ maheṣ mīda gelicāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL on win.PST.3SG.M",
+    "‘Praveen beat Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер выиграл у Улы.’",
@@ -56412,6 +56607,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "go_out",
     "выходить",
@@ -56423,6 +56619,20 @@ const fullData = [
     "Per gikk ut av hus-et",
     "PN go.PST out of house-DEF.N.SG",
     "‘Per went out of the house.’",
+=======
+    "Telugu",
+    "go_out",
+    "выходить",
+    "veḷḷu",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL",
+    "pravīṇ iṁṭi-nuṁci bayaṭi-ki veḷḷāḍu",
+    "PN(M).SG.NOM house(N).SG.OBL-ABL outdoors(N).SG.OBL-DAT go.PST.3SG.M",
+    "‘Praveen went out of the house.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер вышел из дома.’",
@@ -56430,6 +56640,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "drive",
     "гнать",
@@ -56441,6 +56652,20 @@ const fullData = [
     "Per jage-r ku-a på beite",
     "PN drive-PRS cow-DEF.F.SG on pasture",
     "‘Per is driving the cow to the pasture.’",
+=======
+    "Telugu",
+    "drive",
+    "гнать",
+    "tōlukupōvu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ āvu-ni tōlukupōtunnāḍu",
+    "PN(M).SG.NOM cow(N).SG.OBL-ACC make_walk.DUR.3SG.M",
+    "‘Praveen is driving the cow.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер гонит корову на пастбище.’",
@@ -56448,6 +56673,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "bend",
     "гнуть",
@@ -56459,6 +56685,20 @@ const fullData = [
     "Per bøy-de gren-en",
     "PN bend-PST branch-DEF.M.SG",
     "‘Per bent the branch.’",
+=======
+    "Telugu",
+    "bend",
+    "гнуть",
+    "vaṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ komma-ni vaṁcāḍu",
+    "PN(M).SG.NOM branch(N).SG.OBL-ACC bend.PST.3SG.M",
+    "‘Praveen bent the branch.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер согнул ветку.’",
@@ -56466,6 +56706,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "tell",
     "говорить",
@@ -56477,6 +56718,20 @@ const fullData = [
     "«kom på besøk» sa Per til Ola",
     "«come.IMP on visit» say.PST PN to PN",
     "‘Per told Ola: \"Come and visit\".’",
+=======
+    "Telugu",
+    "tell",
+    "говорить",
+    "ceppu",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pravīṇ maheṣ-ku ceppāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-DAT say.PST.3SG.M",
+    "‘Praveen told Mahesh...’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер сказал Уле: \"Приходи ко мне в гости\".’",
@@ -56484,6 +56739,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "hold",
     "держать",
@@ -56495,6 +56751,20 @@ const fullData = [
     "Per holde-r ei bok i hend-ene",
     "PN hold-PRS INDF.F.SG book in hand-DEF.PL",
     "‘Per is holding a book in his hands.’",
+=======
+    "Telugu",
+    "hold",
+    "держать",
+    "paṭṭukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ pustakānni paṭṭukuni unnāḍu",
+    "PN(M).SG.NOM book(N).SG.ACC take_hold.CVB.ANT be.PRS.3SG.M",
+    "‘Praveen is holding a book.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер держит книгу в руках.’",
@@ -56502,6 +56772,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "catch_up",
     "догнать",
@@ -56513,6 +56784,20 @@ const fullData = [
     "Per tok Kari igjen",
     "PN take.PST PN again",
     "‘Per caught up with Kari.’",
+=======
+    "Telugu",
+    "catch_up",
+    "догнать",
+    "cērukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni cērukunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC join.PST.3SG.M",
+    "‘Praveen caught up with Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер догнал Кари.’",
@@ -56520,6 +56805,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "milk",
     "доить",
@@ -56531,6 +56817,20 @@ const fullData = [
     "Per melke-t ku-a",
     "PN milk-PST cow-DEF.F.SG",
     "‘Per milked the cow.’",
+=======
+    "Telugu",
+    "milk",
+    "доить",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "pravīṇ āvu pāla-ni pitikāḍu",
+    "PN(M).SG.NOM cow(N).SG.OBL milk.PL.OBL-ACC milk.PST.3SG.M",
+    "‘Praveen milked the cow.’",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер подоил корову.’",
@@ -56538,6 +56838,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "reach",
     "достичь",
@@ -56549,6 +56850,20 @@ const fullData = [
     "Per nådde bredd-en",
     "PN reach.PST bank-DEF.M.SG",
     "‘Per reached the bank.’",
+=======
+    "Telugu",
+    "reach",
+    "достичь",
+    "cēru",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pravīṇ oḍḍi-ki cērāḍu",
+    "PN(M).SG.NOM coast(N).SG.OBL-DAT reach.PST.3SG.M",
+    "‘Praveen reached the bank.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер достиг берега.’",
@@ -56556,6 +56871,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "touch",
     "дотронуться",
@@ -56567,6 +56883,20 @@ const fullData = [
     "Per tok på vegg-en og ble flekkete",
     "PN take.PST on wall-DEF.M.SG and become.PST spotted",
     "‘Per touched the wall and got dirty.’",
+=======
+    "Telugu",
+    "touch",
+    "дотронуться",
+    "muṭṭukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ goḍa-ni muṭṭukunnāḍu",
+    "PN(M).SG.NOM wall(N).SG.OBL-ACC touch.PST.3SG.M",
+    "‘Praveen touched the wall.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер дотронулся до стены и испачкался.’",
@@ -56574,6 +56904,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "fight",
     "драться",
@@ -56585,6 +56916,20 @@ const fullData = [
     "Per slåss med Ola",
     "PN fight.PRS with PN",
     "‘Per is fighting with Ola.’",
+=======
+    "Telugu",
+    "fight",
+    "драться",
+    "goḍavapaḍu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "pravīṇ maheṣ-tō goḍavapaḍutunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-COM fight.DUR.3SG.M",
+    "‘Praveen is fighting with Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер дерется с Улой.’",
@@ -56592,6 +56937,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_friends",
     "дружить",
@@ -56604,12 +56950,27 @@ const fullData = [
     "PN be.PRS friend with PN",
     "‘Per is friends with Ola.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "be_friends",
+    "дружить",
+    "snēhamu cēyu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "pravīṇ maheṣ-tō snēhamu cēstunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-COM amity(N).SG.NOM do.DUR.3SG.M",
+    "‘Praveen is friends with Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер дружит с Улой.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "think",
     "думать",
@@ -56621,6 +56982,20 @@ const fullData = [
     "Per tenke-r på Kari",
     "PN think-PRS on PN",
     "‘Per is thinking about Kari.’",
+=======
+    "Telugu",
+    "think",
+    "думать",
+    "ālōciṁcu",
+    "NOM",
+    "OBLgurinci",
+    "Y",
+    "NOM_OBLgurinci",
+    "pravīṇ madhuri guriṁci ālōcistunnāḍu",
+    "PN(M).SG.NOM PN(F).SG.OBL about think.DUR.3SG.M",
+    "‘Praveen is thinking about Madhuri.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Петя думает о Кари.’",
@@ -56628,6 +57003,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "eat",
     "есть",
@@ -56639,6 +57015,20 @@ const fullData = [
     "Per spis-te et eple",
     "PN eat-PST INDF.N.SG apple",
     "‘Per ate an apple.’",
+=======
+    "Telugu",
+    "eat",
+    "есть",
+    "tinu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ āpil tinnāḍu",
+    "PN(M).SG.NOM apple(N).SG.NOM eat.PST.3SG.M",
+    "‘Praveen ate an apple.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер съел яблоко.’",
@@ -56646,6 +57036,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "fry",
     "жарить",
@@ -56657,6 +57048,20 @@ const fullData = [
     "Per stek-te fisk-en",
     "PN fry-PST fish-DEF.M.SG",
     "‘Per fried the fish.’",
+=======
+    "Telugu",
+    "fry",
+    "жарить",
+    "vēyiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ cēpa-nu vēyiṁcāḍu",
+    "PN(M).SG.NOM fish(N).SG.OBL-ACC fry.PST.3SG.M",
+    "‘Praveen fried the fish.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер пожарил рыбу.’",
@@ -56664,6 +57069,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "wait",
     "ждать",
@@ -56675,6 +57081,20 @@ const fullData = [
     "Per vente-r på Ola",
     "PN wait-PRS on PN",
     "‘Per is waiting for Ola.’",
+=======
+    "Telugu",
+    "wait",
+    "ждать",
+    "edurucūcu",
+    "NOM",
+    "OBLkosamu",
+    "Y",
+    "NOM_OBLkosamu",
+    "pravīṇ maheṣ kōsamu edurucūstunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL for wait.DUR.3SG.M",
+    "‘Praveen is waiting for Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер ждет Улу.’",
@@ -56682,6 +57102,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "forget",
     "забывать",
@@ -56693,6 +57114,20 @@ const fullData = [
     "Per hadde glem-t snarvei-en",
     "PN have.PST forget-PTCP shortcut-DEF.M.SG",
     "‘Per forgot about the shortcut.’",
+=======
+    "Telugu",
+    "forget",
+    "забывать",
+    "māracipōvu",
+    "NOM",
+    "OBLgurinci",
+    "Y",
+    "NOM_OBLgurinci",
+    "pravīṇ vērē rōḍḍu guriṁci māracipōyāḍu",
+    "PN(M).SG.NOM other road(N).SG.OBL about forget.PST.3SG.M",
+    "‘Praveen forgot about the other road.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер забыл о короткой дороге.’",
@@ -56700,6 +57135,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "depend",
     "зависеть",
@@ -56710,6 +57146,18 @@ const fullData = [
     "SBJ_av",
     "hukommels-en avhenge-r av alder-en",
     "memory-DEF.M.SG depend-PRS of age-DEF.M.SG",
+=======
+    "Telugu",
+    "depend",
+    "зависеть",
+    "ādhārapaḍu",
+    "NOM",
+    "OBLmida",
+    "Y",
+    "NOM_OBLmida",
+    "jñāpakašakti vayasu mīda ādhārapaḍi uṁṭuṁdi",
+    "memory_force(N).SG.NOM age(N).SG.OBL on depend.CVB.ANT be.DUR.3SG.NM",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘Memory depends on age.’",
     "",
     "",
@@ -56718,6 +57166,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "call",
     "звать",
@@ -56729,6 +57178,20 @@ const fullData = [
     "Per rop-te på Ola",
     "PN call-PST on PN",
     "‘Per called Ola.’",
+=======
+    "Telugu",
+    "call",
+    "звать",
+    "pilucu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni pilicāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC call.PST.3SG.M",
+    "‘Praveen called Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер позвал Улу.’",
@@ -56736,6 +57199,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "get_to_know",
     "знакомиться",
@@ -56748,12 +57212,28 @@ const fullData = [
     "PN become.PST acquainted with PN for one.N year since",
     "‘Per got to know Ola a year ago.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "get_to_know",
+    "знакомиться",
+    "telusukōnu",
+    "NOM",
+    "OBLgurinci",
+    "Y",
+    "NOM_OBLgurinci",
+    "pravīṇ maheṣ guriṁci saṁvatsaramu mundu telusukunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL about year(N).SG.OBL before get_to_know.PST.3SG.M",
+    "‘Praveen got to know Mahesh a year ago.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер познакомился с Улой год тому назад.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "know",
     "знать ",
@@ -56765,6 +57245,20 @@ const fullData = [
     "Per kjenne-r Ola",
     "PN know-PRS PN",
     "‘Per knows Ola.’",
+=======
+    "Telugu",
+    "know",
+    "знать ",
+    "teliyu",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki maheṣ telusu",
+    "PN(M).SG.OBL-DAT PN(M).SG.NOM be_known",
+    "‘Praveen knows Mahesh.’",
+    "This predicate is used without agreement markers and without copula.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер знает Улу.’",
@@ -56772,6 +57266,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "play#instrument#",
     "играть",
@@ -56783,6 +57278,20 @@ const fullData = [
     "Per spille-r gitar",
     "PN play-PRS guitar",
     "‘Per is playing the guitar.’",
+=======
+    "Telugu",
+    "play#instrument#",
+    "играть",
+    "vāyiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ giṭār vāyistunnāḍu",
+    "PN(M).SG.NOM guitar(N).SG.NOM strike.DUR.3SG.M",
+    "‘Praveen is playing the guitar.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер играет на гитаре.’",
@@ -56790,6 +57299,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "avoid",
     "избегать",
@@ -56801,6 +57311,20 @@ const fullData = [
     "Per unngå-r Ola",
     "PN avoid-PRS PN",
     "‘Per avoids Ola.’",
+=======
+    "Telugu",
+    "avoid",
+    "избегать",
+    "tappiṁcukōnu",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL",
+    "pravīṇ maheṣ-nuṁci tappiṁcukuṁtū tirugutunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ABL escape.CVB.SIM turn.DUR.3SG.M",
+    "‘Praveen avoids Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер избегает Улу.’",
@@ -56808,6 +57332,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "make",
     "изготовить",
@@ -56819,6 +57344,20 @@ const fullData = [
     "Per lage-t en musefelle",
     "PN make-PST INDF.M.SG mousetrap",
     "‘Per made a mousetrap.’",
+=======
+    "Telugu",
+    "make",
+    "изготовить",
+    "tayāru cēyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ eluka-la kōsamu uccu tayāru cēsāḍu",
+    "PN(M).SG.NOM rat(N)-PL.OBL for loop(N).SG.NOM ready do.PST.3SG.M",
+    "‘Praveen made a trap for rats.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер изготовил мышеловку.’",
@@ -56826,6 +57365,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "make_fun",
     "издеваться",
@@ -56837,6 +57377,20 @@ const fullData = [
     "nå gjø-r Per narr av Ola",
     "now make-PRS PN fool of PN",
     "‘Now Per is making fun of Ola.’",
+=======
+    "Telugu",
+    "make_fun",
+    "издеваться",
+    "vekkiriṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni vekkiristunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC ridicule.DUR.3SG.M",
+    "‘Praveen is making fun of Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Теперь Пер издевается над Улой.’",
@@ -56844,6 +57398,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "have",
     "иметь",
@@ -56855,6 +57410,20 @@ const fullData = [
     "Per ha-r bil",
     "PN have-PRS car",
     "‘Per has a car.’",
+=======
+    "Telugu",
+    "have",
+    "иметь",
+    "uṁḍu",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki kār' uṁdi",
+    "PN(M).SG.OBL-DAT car(N).SG.NOM be.PRS.3SG.NM",
+    "‘Praveen has a car.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘У Пети есть машина.’",
@@ -56862,6 +57431,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "look_for",
     "искать",
@@ -56873,6 +57443,20 @@ const fullData = [
     "Per lete-r etter nøkl-ene",
     "PN seek-PRS after key-DEF.PL",
     "‘Per is looking for his keys.’",
+=======
+    "Telugu",
+    "look_for",
+    "искать",
+    "vetuku",
+    "NOM",
+    "OBLkosamu",
+    "Y",
+    "NOM_OBLkosamu",
+    "pravīṇ tāḷaṁcēvu-la kōsamu vetukutunnāḍu",
+    "PN(M).SG.NOM key(N)-PL.OBL for search.DUR.3SG.M",
+    "‘Praveen is looking for the keys.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер ищет ключи.’",
@@ -56880,6 +57464,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "paint",
     "красить",
@@ -56891,6 +57476,20 @@ const fullData = [
     "Per mal-te gjerd-et",
     "PN paint-PST fence-DEF.N.SG",
     "‘Per painted the fence.’",
+=======
+    "Telugu",
+    "paint",
+    "красить",
+    "raṁgu vēyu",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pravīṇ tana kaṁce-ki raṁgu vēsāḍu",
+    "PN(M).SG.NOM own fence(N).SG.OBL-DAT colour(N).SG.NOM throw.PST.3SG.M",
+    "‘Praveen painted his fence.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер покрасил забор.’",
@@ -56898,6 +57497,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "bite",
     "кусать",
@@ -56909,6 +57509,20 @@ const fullData = [
     "hund-en bet Per",
     "dog-DEF.M.SG bite.PST PN",
     "‘The dog bit Per.’",
+=======
+    "Telugu",
+    "bite",
+    "кусать",
+    "karucu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "oka kukka pravīṇ-ni kariciṁdi",
+    "one dog(N).SG.NOM PN(M).SG.OBL-ACC bite.PST.3SG.NM ",
+    "‘A dog bit Praveen.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Собака укусила Пера.’",
@@ -56916,6 +57530,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "forfeit",
     "лишаться",
@@ -56927,6 +57542,20 @@ const fullData = [
     "Per miste-t hus-et sitt",
     "PN lose-PST house-DEF.N.SG POSS.REFL.N.SG",
     "‘Per lost his house.’",
+=======
+    "Telugu",
+    "forfeit",
+    "лишаться",
+    "pōgoṭṭukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ tana iṁṭi-ni pōgoṭṭukunnāḍu",
+    "PN(M).SG.NOM own house(N).SG.OBL-ACC lose.PST.3SG.M",
+    "‘Praveen lost his house.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер лишился дома.’",
@@ -56934,6 +57563,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "try_to_catch",
     "ловить",
@@ -56945,6 +57575,20 @@ const fullData = [
     "Per prøve-r å fange katt-en",
     "PN try-PRS INF catch cat-DEF.M.SG",
     "‘Per is trying to catch the cat.’",
+=======
+    "Telugu",
+    "try_to_catch",
+    "ловить",
+    "paṭṭukovadāniki prayatniṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ pilli-ni paṭṭukōvaḍāni-ki prayatnistunnāḍu",
+    "PN(M).SG.NOM cat(N).SG.OBL-ACC take_hold.VN.OBL-DAT try.DUR.3SG.M",
+    "‘Praveen is trying to catch the cat.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер ловит кошку.’",
@@ -56952,6 +57596,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "break",
     "ломать",
@@ -56963,6 +57608,20 @@ const fullData = [
     "Per ødela stokk-en",
     "PN break.PST stick-DEF.M.SG",
     "‘Per broke a stick.’",
+=======
+    "Telugu",
+    "break",
+    "ломать",
+    "viragakoṭṭu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ kaṭṭe-ni viragakoṭṭāḍu",
+    "PN(M).SG.NOM stick(N).SG.OBL-ACC break.PST.3SG.M",
+    "‘Praveen broke a stick.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер сломал палку.’",
@@ -56970,6 +57629,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "flatter",
     "льстить",
@@ -56981,6 +57641,20 @@ const fullData = [
     "Per smigre-r Kari",
     "PN flatter-PRS PN",
     "‘Per is flattering Kari.’",
+=======
+    "Telugu",
+    "flatter",
+    "льстить",
+    "poguḍu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ madhuri-ni poguḍutunnāḍu",
+    "PN(M).SG.NOM PN(F).SG.OBL-ACC commend.DUR.3SG.M",
+    "‘Praveen is flattering Madhuri.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер льстит Кари.’",
@@ -56988,6 +57662,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "love#person#",
     "любить-1",
@@ -56999,6 +57674,20 @@ const fullData = [
     "Per elske-r Kari",
     "PN love-PRS PN",
     "‘Per loves Kari.’",
+=======
+    "Telugu",
+    "love#person#",
+    "любить-1",
+    "prēmiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ madhuri-ni prēmistunnāḍu",
+    "PN(M).SG.NOM PN(F).SG.OBL-ACC love.DUR.3SG.M",
+    "‘Praveen loves Madhuri.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер любит Машу.’",
@@ -57006,6 +57695,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "wave",
     "махать",
@@ -57017,6 +57707,20 @@ const fullData = [
     "Per vifte-r med tørkle",
     "PN wave-PRS with handkerchief",
     "‘Per is waving a handkerchief.’",
+=======
+    "Telugu",
+    "wave",
+    "махать",
+    "ūpu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ dasti-ni gāli-lo ūputunnāḍu",
+    "PN(M).SG.NOM handkerchief(N).SG.OBL-ACC wind(N).SG.OBL-LOC cause_to_swing.DUR.3SG.M",
+    "‘Praveen is waving a handkerchief.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер машет платком.’",
@@ -57024,6 +57728,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "dream",
     "мечтать",
@@ -57035,6 +57740,20 @@ const fullData = [
     "Per drømme-r om en ny bil",
     "PN dream-PRS about INDF.M.SG new car",
     "‘Per is dreaming of a new car.’",
+=======
+    "Telugu",
+    "dream",
+    "мечтать",
+    "kalalu kanu",
+    "NOM",
+    "OBLgurinci",
+    "Y",
+    "NOM_OBLgurinci",
+    "pravīṇ kotta kāru guriṁci kala-lu kaṁtunnāḍu",
+    "PN(M).SG.NOM new car(N).SG.OBL about dream(N)-PL.NOM perceive.DUR.3SG.M",
+    "‘Praveen is dreaming of a new car.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер мечтает о новой машине.’",
@@ -57042,6 +57761,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "wash",
     "мыть",
@@ -57053,6 +57773,20 @@ const fullData = [
     "Per vaske-t kopp-en",
     "PN wash-PST cup-DEF.M.SG",
     "‘Per washed the cup.’",
+=======
+    "Telugu",
+    "wash",
+    "мыть",
+    "kaḍugu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ kappu-ni kaḍigāḍu",
+    "PN(M).SG.NOM cup(N).SG.OBL-ACC wash.PST.3SG.M",
+    "‘Praveen washed the cup.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер вымыл чашку.’",
@@ -57060,6 +57794,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "put_on",
     "надевать",
@@ -57071,6 +57806,20 @@ const fullData = [
     "Per tok på seg buks-ene",
     "PN take.PST on REFL trousers-DEF.PL",
     "‘Per put on his trousers.’",
+=======
+    "Telugu",
+    "put_on",
+    "надевать",
+    "vēsukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ baṭṭa-lu vēsukunnāḍu",
+    "PN(M).SG.NOM cloth(N)-PL.NOM wear.PST.3SG.M",
+    "‘Praveen put on his clothes.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер надел штаны.’",
@@ -57078,6 +57827,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_called",
     "называться",
@@ -57089,6 +57839,20 @@ const fullData = [
     "denne gjenstand-en kalle-s et kompas",
     "this.M.SG object-DEF.M.SG call-PASS.PRS INDF.N.SG compass",
     "‘This object is called a compass.’",
+=======
+    "Telugu",
+    "be_called",
+    "называться",
+    "pilucu",
+    "ACC",
+    "NOM",
+    "X",
+    "ACC_NOM",
+    "ī sādhanānni diksūci pilustāru",
+    "DEM.PROX means(N).SG.ACC compass(N).SG.NOM call.NPST.3PL.EPIC",
+    "‘This tool is called a compass.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Этот предмет называется компас.’",
@@ -57096,6 +57860,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "punish",
     "наказывать",
@@ -57107,6 +57872,20 @@ const fullData = [
     "Per straffe-t sønn-en sin",
     "PN punish-PST son-DEF.M.SG POSS.REFL.M.SG",
     "‘Per punished his son.’",
+=======
+    "Telugu",
+    "punish",
+    "наказывать",
+    "šikṣiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ tana koḍuku-ni šikṣiṁcāḍu",
+    "PN(M).SG.NOM own son(M).SG.OBL-ACC punish.PST.3SG.M",
+    "‘Praveen punished his son.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер наказал своего сына.’",
@@ -57114,6 +57893,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "attack",
     "напасть",
@@ -57125,6 +57905,20 @@ const fullData = [
     "bjørn-en angrep fisker-en",
     "bear-DEF.M.SG attack.PST fisherman-DEF.M.SG",
     "‘The bear attacked the fisherman.’",
+=======
+    "Telugu",
+    "attack",
+    "напасть",
+    "dāḍicēyu",
+    "NOM",
+    "OBLmidaki",
+    "Y",
+    "NOM_OBLmidaki",
+    "oka cēpavāḍi mīda-ki oka elugubaṁṭi dāḍicēsiṁdi",
+    "one fisherman(M).SG.OBL on-DAT one bear(N).SG.NOM attack.PST.3SG.NM",
+    "‘A bear attacked a fisherman.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Медведь напал на рыбака.’",
@@ -57132,6 +57926,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "fill#intr#",
     "наполняться",
@@ -57142,6 +57937,18 @@ const fullData = [
     "SBJ_av",
     "bøtt-en var blitt full av vann",
     "bucket-DEF.M.SG be.PST become.PTCP full of water",
+=======
+    "Telugu",
+    "fill#intr#",
+    "наполняться",
+    "niṁḍipōvu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "bākeṭ niḷḷa-tō niṁḍipōyiṁdi",
+    "bucket(N).SG.NOM water.PL.OBL-COM fill_up.PST.3SG.NM",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘The bucket filled with water.’",
     "Non-verbal predicate.",
     "",
@@ -57150,6 +57957,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "find",
     "находить",
@@ -57161,6 +57969,20 @@ const fullData = [
     "Per fant nøkl-ene",
     "PN find.PST key-DEF.PL",
     "‘Per found his keys.’",
+=======
+    "Telugu",
+    "find",
+    "находить",
+    "doruku",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki tana tāḷaṁcēvu-lu dorikāyi",
+    "PN(M).SG.OBL-DAT own key(N)-PL.NOM be_found.PST.3PL.N",
+    "‘Praveen found his keys.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер нашел ключи.’",
@@ -57168,6 +57990,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_short",
     "недоставать",
@@ -57179,6 +58002,20 @@ const fullData = [
     "Per mangle-r en dollar",
     "PN lack-PRS one.M dollar",
     "‘Per is one dollar short.’",
+=======
+    "Telugu",
+    "be_short",
+    "недоставать",
+    "takkuva agu",
+    "OBLdaggara",
+    "NOM",
+    "X",
+    "OBLdaggara_NOM",
+    "pravīṇ daggara oka yūro takkuv' ayiṁdi",
+    "PN(M).SG.OBL near one euro(N).SG.NOM lack(N).SG.NOM become.PST.3SG.NM",
+    "‘Praveen lacks one euro.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пете недостает одного доллара.’",
@@ -57186,6 +58023,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "hate",
     "ненавидеть",
@@ -57197,6 +58035,20 @@ const fullData = [
     "Per hate-r Ola",
     "PN hate-PRS PN",
     "‘Per hates Ola.’",
+=======
+    "Telugu",
+    "hate",
+    "ненавидеть",
+    "dvēṣiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni dvēṣistunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC hate.DUR.3SG.M",
+    "‘Praveen hates Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер ненавидит Улу.’",
@@ -57204,6 +58056,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "like",
     "нравиться",
@@ -57215,6 +58068,20 @@ const fullData = [
     "Per like-r den skjort-a",
     "PN like-PRS DET.F.SG shirt-DEF.F.SG",
     "‘Per likes this shirt.’",
+=======
+    "Telugu",
+    "like",
+    "нравиться",
+    "iṣṭamu + COP",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki ī cokka aṁṭē iṣṭamu",
+    "PN(M).SG.OBL-DAT DEM.PROX shirt(N).SG.NOM that_is liking(N).SG.NOM",
+    "‘Praveen likes this shirt.’",
+    "Non-verbal predicate.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Перу нравится эта рубашка.’",
@@ -57222,6 +58089,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "need",
     "нуждаться",
@@ -57233,6 +58101,20 @@ const fullData = [
     "nå trenge-r Per peng-er",
     "now need-PRS PN money-PL",
     "‘Now Per needs money.’",
+=======
+    "Telugu",
+    "need",
+    "нуждаться",
+    "avasaramu paḍu",
+    "DAT",
+    "COM",
+    "XY",
+    "DAT_COM",
+    "pravīṇ-ki ḍabbu-la-tō avasaramu paḍiṁdi",
+    "PN(M).SG.OBL-DAT money-PL.OBL-COM need(N).SG.NOM fall.PST.3SG.NM",
+    "‘Praveen needs money.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Теперь Перу нужны деньги.’",
@@ -57240,6 +58122,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "surround",
     "окружать",
@@ -57250,6 +58133,18 @@ const fullData = [
     "av_SBJ",
     "by-en er omgitt av mur-er",
     "town-DEF.M.SG be.PRS surround.PTCP of wall-PL",
+=======
+    "Telugu",
+    "surround",
+    "окружать",
+    "cuṭṭumuṭṭu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "goḍa-lu nagarānni cuṭṭumuṭṭāyi",
+    "wall(N)-PL.NOM city(N).SG.ACC surround.PST.3PL.N",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘Walls surround the city.’",
     "Non-verbal predicate (passive).",
     "",
@@ -57258,6 +58153,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "remain",
     "оставаться",
@@ -57269,6 +58165,20 @@ const fullData = [
     "nå ha-r Per 10 dollar igjen",
     "now have-PRS PN 10 dollar again",
     "‘Per has ten dollars left.’",
+=======
+    "Telugu",
+    "remain",
+    "оставаться",
+    "migulu",
+    "OBLdaggara",
+    "NOM",
+    "X",
+    "OBLdaggara_NOM",
+    "pravīṇ daggara padi yūro migul' unnāyi",
+    "PN(M).SG.OBL near ten euro(N).SG.NOM remain.CVB.ANT be.PRS.3PL.N",
+    "‘Praveen has 10 euros left.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Теперь у Пера осталось 10 долларов.’",
@@ -57276,6 +58186,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "answer",
     "отвечать",
@@ -57287,6 +58198,20 @@ const fullData = [
     "Per svar-te lærer-en",
     "PN answer-PST teacher-DEF.M.SG",
     "‘Per answered the teacher.’",
+=======
+    "Telugu",
+    "answer",
+    "отвечать",
+    "javābu ivvu",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pravīṇ tana gurugāri-ki javābu iccāḍu",
+    "PN(M).SG.NOM own teacher.HON(M).SG.OBL-DAT reply(N).SG.NOM give.PST.3SG.M",
+    "‘Praveen answered the teacher.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер ответил учителю.’",
@@ -57294,6 +58219,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "open",
     "открывать",
@@ -57305,6 +58231,20 @@ const fullData = [
     "Per åpne-t boks-en",
     "PN open-PST can-DEF.M.SG",
     "‘Per opened a can.’",
+=======
+    "Telugu",
+    "open",
+    "открывать",
+    "terucu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ kyān-ni tericāḍu",
+    "PN(M).SG.NOM can(N).SG.OBL-ACC open.PST.3SG.M",
+    "‘Praveen opened a can.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер открыл банку.’",
@@ -57312,6 +58252,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_different",
     "отличаться",
@@ -57324,12 +58265,28 @@ const fullData = [
     "my.SG shirt be.PRS different than your.SG",
     "‘My shirt is different from yours.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "be_different",
+    "отличаться",
+    "vēru + COP",
+    "NOM",
+    "OBLkante",
+    "Y",
+    "NOM_OBLkante",
+    "nā cokka nīdāni kaṁṭē vēru",
+    "1SG.OBL shirt(N).SG.NOM yours_one(N).SG.OBL than other",
+    "‘My shirt is different from yours.’",
+    "Non-verbal predicate.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Моя рубашка отличается от твоей.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "fall_behind",
     "отстать",
@@ -57342,12 +58299,28 @@ const fullData = [
     "PN lie.PST after PN",
     "‘Per fell behind Ola.’",
     "Phrasal verb (<i>etter</i> is not a flagging device).",
+=======
+    "Telugu",
+    "fall_behind",
+    "отстать",
+    "venakapaḍu",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pravīṇ maheṣ-ki venakapaḍḍāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-DAT lag.PST.3SG.M",
+    "‘Praveen fell behind Mahesh.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер отстал от Улы.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "plough",
     "пахать",
@@ -57359,6 +58332,20 @@ const fullData = [
     "Per pløye-r jord-et",
     "PN plough-PRS field-DEF.N.SG",
     "‘Per is ploughing the field.’",
+=======
+    "Telugu",
+    "plough",
+    "пахать",
+    "dunnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ polānni dunnutunnāḍu",
+    "PN(M).SG.NOM field(N).SG.ACC plough.DUR.3SG.M",
+    "‘Praveen is ploughing the field.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер пашет поле.’",
@@ -57366,6 +58353,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "smell",
     "пахнуть",
@@ -57377,13 +58365,27 @@ const fullData = [
     "hend-ene mine lukte-r bensin",
     "hand-DEF.PL my.PL smell-PRS gasoline",
     "‘My hands smell of gasoline.’",
+=======
+    "Telugu",
+    "smell",
+    "пахнуть",
+    "vaccu",
+    "*",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
+    "nā cētu-la-nuṁci gyās vāsana vastuṁdi",
+    "1SG.OBL hand(N)-PL.OBL-ABL gas(N).SG.OBL smell(N).SG.NOM come.NPST.3SG.NM",
+    "‘The gasoline smell comes from my hands.’",
+    "Not included in the database because Y is expressed as part of a nominal compound.",
     "",
     "‘Мои руки пахнут бензином.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "cross",
     "пересечь",
@@ -57395,6 +58397,20 @@ const fullData = [
     "Per krysse-t vei-en",
     "PN cross-PST way-DEF.M.SG",
     "‘Per crossed the road.’",
+=======
+    "Telugu",
+    "cross",
+    "пересечь",
+    "dāṭu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ rōḍḍu dāṭāḍu",
+    "PN(M).SG.NOM road(N).SG.NOM cross.PST.3SG.M",
+    "‘Praveen crossed the road.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер пересек дорогу.’",
@@ -57402,6 +58418,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "sing",
     "петь",
@@ -57413,6 +58430,20 @@ const fullData = [
     "Per sang en vakker sang",
     "PN sing.PST INDF.M.SG beautiful song",
     "‘Per sang a beautiful song.’",
+=======
+    "Telugu",
+    "sing",
+    "петь",
+    "pāḍu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ oka andamaina pāṭa pāḍāḍu",
+    "PN(M).SG.NOM one beautiful song(N).SG.NOM sing.PST.3SG.M",
+    "‘Praveen sang a beautiful song.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер спел красивую песню.’",
@@ -57420,6 +58451,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "write",
     "писать",
@@ -57431,6 +58463,20 @@ const fullData = [
     "Per skrev et brev",
     "PN write.PST INDF.N.SG letter",
     "‘Per wrote a letter.’",
+=======
+    "Telugu",
+    "write",
+    "писать",
+    "rāyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ oka uttaramu rāsāḍu",
+    "PN(M).SG.NOM one answer(N).SG.NOM write.PST.3SG.M",
+    "‘Praveen wrote a letter.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер написал письмо.’",
@@ -57438,6 +58484,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "drink",
     "пить",
@@ -57450,12 +58497,28 @@ const fullData = [
     "PN drink.PST milk-DEF.M.SG up",
     "‘Per drank the milk.’",
     "Phrasal verb (<i>opp</i> is not a flagging device).",
+=======
+    "Telugu",
+    "drink",
+    "пить",
+    "tāgu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ pālu tāgāḍu",
+    "PN(M).SG.NOM milk.PL.NOM drink.PST.3SG.M",
+    "‘Praveen drank the milk.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер выпил молоко.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "melt",
     "плавить",
@@ -57467,6 +58530,20 @@ const fullData = [
     "Per smelte-t en bit bly",
     "PN melt-PST INDF.M.SG piece lead",
     "‘Per melted a piece of lead.’",
+=======
+    "Telugu",
+    "melt",
+    "плавить",
+    "karigiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ oka lēḍu mukka-ni karigiṁcāḍu",
+    "PN(M).SG.NOM one lead(N).SG.OBL piece(N).SG.OBL-ACC melt.PST.3SG.M",
+    "‘Praveen melted a piece of lead.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер расплавил кусок свинца.’",
@@ -57474,6 +58551,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "match",
     "подходить",
@@ -57485,6 +58563,20 @@ const fullData = [
     "dette belt-et passe-r til kjol-en min",
     "this.N.SG belt-DEF.N.SG fit-PRS to dress-DEF.M.SG my.SG",
     "‘This belt goes well with my dress.’",
+=======
+    "Telugu",
+    "match",
+    "подходить",
+    "kuduru",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "ī belṭu nā ḍrēs-tō bāgā kudurutuṁdi",
+    "DEM.PROX belt(N).SG.NOM 1SG.OBL dress(N).SG.OBL-COM well be_set.NPST.3SG.NM",
+    "‘This belt goes well with my dress.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Этот пояс подходит к моему платью.’",
@@ -57492,6 +58584,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "leave",
     "покидать",
@@ -57503,6 +58596,20 @@ const fullData = [
     "Per forlot hjemby-en",
     "PN leave.PST home_town-DEF.M.SG",
     "‘Per left his hometown.’",
+=======
+    "Telugu",
+    "leave",
+    "покидать",
+    "vadilēyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ tana soṁta nagarānni vadilēsāḍu",
+    "PN(M).SG.NOM own belonging_to_self city(N).SG.ACC quit.INTENS.PST.3SG.M",
+    "‘Praveen left his native city.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер покинул родной город.’",
@@ -57510,6 +58617,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "cover",
     "покрывать",
@@ -57520,6 +58628,18 @@ const fullData = [
     "TR",
     "tepp-et dekke-r hele gulv-et",
     "carpet-DEF.N.SG cover-PRS whole floor-DEF.N.SG",
+=======
+    "Telugu",
+    "cover",
+    "покрывать",
+    "parucukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "kārpiṭ nēla mottānni parucukuṁdi",
+    "carpet(N).SG.NOM floor(N).SG.OBL sum(N).SG.OBL.ACC spread_over.PST.3SG.NM ",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘The carpet covers the whole floor.’",
     "",
     "",
@@ -57528,6 +58648,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "remember",
     "помнить",
@@ -57539,6 +58660,20 @@ const fullData = [
     "Per huske-r godt hus-et hvor han voks-te opp",
     "PN remember-PRS well house-DEF.N.SG where he grow-PST up",
     "‘Per remembers the house where he grew up well.’",
+=======
+    "Telugu",
+    "remember",
+    "помнить",
+    "gurtu uṁḍu",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki iḷḷu bāgā gurt' uṁdi",
+    "PN(M).SG.OBL-DAT house(N).SG.NOM well mark(N).SG.NOM be.PRS.3SG.NM",
+    "‘Praveen remembers the house well.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер хорошо помнит дом, в котором вырос.’",
@@ -57546,6 +58681,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "help",
     "помочь",
@@ -57557,6 +58693,20 @@ const fullData = [
     "Per hjalp Ola",
     "PN help.PST PN",
     "‘Per helped Ola.’",
+=======
+    "Telugu",
+    "help",
+    "помочь",
+    "sahāyamu cēyu",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pravīṇ maheṣ-ki sahāyamu cēsāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-DAT help(N).SG.NOM do.PST.3SG.M",
+    "‘Praveen helped Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер помог Мише.’",
@@ -57564,6 +58714,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "understand#language#",
     "понимать",
@@ -57575,6 +58726,20 @@ const fullData = [
     "Per forstå-r fransk",
     "PN understand-PRS French",
     "‘Per understands French.’",
+=======
+    "Telugu",
+    "understand#language#",
+    "понимать",
+    "arthamu agu",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki preṁcibhāṣa artham' avutuṁdi",
+    "PN(M).SG.OBL-DAT French_language(N).SG.NOM meaning(N).SG.NOM become.NPST.3SG.NM",
+    "‘Praveen understands French.’",
+    "Non-verbal predicate.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер понимает французский язык.’",
@@ -57582,6 +58747,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "hit#target#",
     "попасть",
@@ -57593,6 +58759,20 @@ const fullData = [
     "lyn-et traff hus-et",
     "lightning-DEF.N.SG hit.PST house-DEF.N.SG",
     "‘Lightning struck the house.’",
+=======
+    "Telugu",
+    "hit#target#",
+    "попасть",
+    "paḍu",
+    "NOM",
+    "OBLpai",
+    "Y",
+    "NOM_OBLpai",
+    "iṁṭi pai piḍugu paḍiṁdi",
+    "house(N).SG.OBL over thunderbolt(N).SG.NOM fall.PST.3SG.NM",
+    "‘Lightning fell on the house.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Молния попала в дом.’",
@@ -57600,6 +58780,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "cut_oneself",
     "порезаться",
@@ -57611,6 +58792,20 @@ const fullData = [
     "Per skjær-te seg med barberkniv-en",
     "PN cut-PST REFL with razor-DEF.M.SG",
     "‘Per cut himself with a razor.’",
+=======
+    "Telugu",
+    "cut_oneself",
+    "порезаться",
+    "kōsukōnu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "pravīṇ blēḍ-tō tana-ni tānu kōsukunnāḍu",
+    "PN(M).SG.NOM blade(N).SG.OBL-COM own-ACC REFL cut.PST.3SG.M",
+    "‘Praveen cut himself with a razor.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер порезался бритвой.’",
@@ -57618,6 +58813,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "get_stuck",
     "прилипать",
@@ -57628,6 +58824,18 @@ const fullData = [
     "SBJ_til",
     "glass-et klistre-t seg fast til bord-et",
     "glass-DEF.N.SG glue-PST REFL fixed to table-DEF.N.SG",
+=======
+    "Telugu",
+    "get_stuck",
+    "прилипать",
+    "atuku",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "glāsu tēbal-ki atukkuṁdi",
+    "glass(N).SG.NOM table(N).SG.OBL-DAT stick.PST.3SG.NM",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘The glass got stuck to the table.’",
     "",
     "",
@@ -57636,6 +58844,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "lose#game#",
     "проиграть",
@@ -57647,6 +58856,20 @@ const fullData = [
     "Per tap-te mot Ola",
     "PN lose-PST towards PN",
     "‘Per lost to Ola.’",
+=======
+    "Telugu",
+    "lose#game#",
+    "проиграть",
+    "ōḍipōvu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "pravīṇ maheṣ-tō ōḍipōyāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-COM be_defeated.PST.3SG.M",
+    "‘Praveen lost to Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер проиграл Уле.’",
@@ -57654,6 +58877,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_glad",
     "радоваться",
@@ -57666,12 +58890,28 @@ const fullData = [
     "PN become.PST glad for letter-DEF.N.SG",
     "‘Per was glad about the letter.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "be_glad",
+    "радоваться",
+    "santōṣiṁcu",
+    "NOM",
+    "OBLvalla",
+    "Y",
+    "NOM_OBLvalla",
+    "pravīṇ uttāramu valla saṁtōṣiṁcāḍu",
+    "PN(M).SG.NOM answer(N).SG.OBL by rejoice.PST.3SG.M",
+    "‘Praveen was glad about the letter.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер обрадовался письму.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "speak",
     "разговаривать",
@@ -57683,6 +58923,20 @@ const fullData = [
     "Per snakke-t med Ola",
     "PN speak-PST with PN",
     "‘Per is speaking with Ola.’",
+=======
+    "Telugu",
+    "speak",
+    "разговаривать",
+    "mātlāḍu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "pravīṇ maheṣ-tō mātlāḍutunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-COM speak.DUR.3SG.M",
+    "‘Praveen is speaking with Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер разговаривает с Ула.’",
@@ -57690,6 +58944,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "give_birth",
     "рожать",
@@ -57701,6 +58956,20 @@ const fullData = [
     "Kari fød-te en sønn",
     "PN give_birth-PST INDF.M.SG son",
     "‘Kari gave birth to a son.’",
+=======
+    "Telugu",
+    "give_birth",
+    "рожать",
+    "puṭṭu",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "madhuri-ki koḍuku puṭṭāḍu",
+    "PN(F).SG.OBL-DAT son(M).SG.NOM be_born.PST.3SG.M",
+    "‘Madhuri gave birth to a son.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Кари родила сына.’",
@@ -57708,6 +58977,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "drop",
     "ронять",
@@ -57719,6 +58989,20 @@ const fullData = [
     "Per miste-t glass-et i gulv-et",
     "PN lose-PST glass-DEF.N.SG in floor-DEF.N.SG",
     "‘Per dropped the glass.’",
+=======
+    "Telugu",
+    "drop",
+    "ронять",
+    "paḍēyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ glāsu-ni paḍēsāḍu",
+    "PN(M).SG.NOM glass(N).SG.OBL-ACC drop.PST.3SG.M",
+    "‘Praveen dropped the glass.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер уронил стакан.’",
@@ -57726,6 +59010,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "govern",
     "руководить",
@@ -57737,6 +59022,20 @@ const fullData = [
     "Per lede-r bygd-a vår",
     "PN lead-PRS village-DEF.F.SG our",
     "‘Per runs our town.’",
+=======
+    "Telugu",
+    "govern",
+    "руководить",
+    "naḍupu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ mā paṭṭaṇānni naḍuputāḍu",
+    "PN(M).SG.NOM 1PL.EXCL.OBL town(N).SG.ACC make_walk.NPST.3SG.M",
+    "‘Praveen runs our town.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер руководит нашим поселком.’",
@@ -57744,6 +59043,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "miss",
     "скучать",
@@ -57755,6 +59055,20 @@ const fullData = [
     "Per savne-r Kari",
     "PN miss-PRS PN",
     "‘Per misses Kari.’",
+=======
+    "Telugu",
+    "miss",
+    "скучать",
+    "mis agu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ madhuri-ni mis avutunnāḍu",
+    "PN(M).SG.NOM PN(F).SG.OBL-ACC miss become.DUR.3SG.M",
+    "‘Praveen misses Madhuri.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер скучает по Кари.’",
@@ -57762,6 +59076,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "follow",
     "следовать",
@@ -57774,12 +59089,28 @@ const fullData = [
     "PN follow-PRS after PN",
     "‘Per follows Kari.’",
     "Phrasal verb (<i>etter</i> is not a flagging device).",
+=======
+    "Telugu",
+    "follow",
+    "следовать",
+    "vembaḍiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni veṁbaḍistunnāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC follow.DUR.3SG.M",
+    "‘Praveen follows Mahesh.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер следует за Улой.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "dismount",
     "слезать",
@@ -57792,12 +59123,28 @@ const fullData = [
     "PN climb.PST of horse-DEF.M.SG",
     "‘Per got down from the horse.’",
     "Phrasal verb (<i>av</i> is not a flagging device).",
+=======
+    "Telugu",
+    "dismount",
+    "слезать",
+    "digu",
+    "NOM",
+    "OBLmidanunci",
+    "Y",
+    "NOM_OBLmidanunci",
+    "pravīṇ gurramu mīda-nuṁci digāḍu",
+    "PN(M).SG.NOM horse(N).SG.OBL on-ABL come_down.PST.3SG.M",
+    "‘Praveen got down from the horse.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер слез с лошади.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "listen",
     "слушать",
@@ -57809,6 +59156,20 @@ const fullData = [
     "Per lytte-r til radio-en",
     "PN listen-PRS to radio-DEF.M.SG",
     "‘Per is listening to radio.’",
+=======
+    "Telugu",
+    "listen",
+    "слушать",
+    "viṇu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ rēḍiyō viṁṭunnāḍu",
+    "PN(M).SG.NOM radio(N).SG.NOM listen.DUR.3SG.M",
+    "‘Praveen is listening to radio.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер слушает радио.’",
@@ -57816,6 +59177,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "obey",
     "слушаться",
@@ -57827,6 +59189,20 @@ const fullData = [
     "Per adlyde-r mamma-en sin",
     "PN obey-PRS mother-DEF.M.SG POSS.REFL.F.SG",
     "‘Per obeys his mother.’",
+=======
+    "Telugu",
+    "obey",
+    "слушаться",
+    "viṇu",
+    "*",
+    "*",
+    "*",
+    "",
+    "pravīṇ eppuḍū tana amma māṭa viṁṭāḍu",
+    "PN(M).SG.NOM always own mother(F).SG.OBL word(N).SG.NOM listen.NPST.3SG.M",
+    "‘Praveen always listens to his mother’s words.’",
+    "Not included in the database because Y is expressed as an NP-internal modifier.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер слушается маму.’",
@@ -57834,6 +59210,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "hear",
     "слышать",
@@ -57845,6 +59222,20 @@ const fullData = [
     "Per høre-r musikk",
     "PN hear-PRS music",
     "‘Per hears the music.’",
+=======
+    "Telugu",
+    "hear",
+    "слышать",
+    "viṇu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ saṁgītamu viṁṭunnāḍu",
+    "PN(M).SG.NOM music(N).SG.NOM listen.DUR.3SG.M",
+    "‘Praveen hears the music.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер слышит музыку.’",
@@ -57852,6 +59243,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "mix",
     "смешаться",
@@ -57863,6 +59255,20 @@ const fullData = [
     "honning-en blande-t seg med melk-en",
     "honey-DEF.M.SG mix-PST REFL with milk-DEF.M.SG",
     "‘The honey got mixed with milk.’",
+=======
+    "Telugu",
+    "mix",
+    "смешаться",
+    "kaliyu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "tēne pāla-tō kalisiṁdi",
+    "honey(N).SG.NOM milk.PL.OBL-COM unite.PST.3SG.NM",
+    "‘The honey got mixed with the milk.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Мед смешался с молоком.’",
@@ -57870,6 +59276,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "look",
     "смотреть",
@@ -57881,6 +59288,20 @@ const fullData = [
     "Per se-r på de mørke sky-ene",
     "PN see-PRS on DET.PL dark.PL cloud-DEF.PL",
     "‘Per is looking at the clouds.’",
+=======
+    "Telugu",
+    "look",
+    "смотреть",
+    "gamaniṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ mēgha-la-ni gamanistunnāḍu",
+    "PN(M).SG.NOM cloud(N)-PL.OBL-ACC pay_attention.DUR.3SG.M",
+    "‘Praveen is observing the clouds.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер смотрит на тучи.’",
@@ -57888,6 +59309,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "take_off",
     "снимать",
@@ -57899,6 +59321,20 @@ const fullData = [
     "Per tok av seg skjort-a",
     "PN take.PST of REFL shirt-DEF.F.SG",
     "‘Per took off his shirt.’",
+=======
+    "Telugu",
+    "take_off",
+    "снимать",
+    "viḍacēyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ tana cokka-ni viḍacēsāḍu",
+    "PN(M).SG.NOM own shirt(N).SG.OBL-ACC undo.PST.3SG.M",
+    "‘Praveen took off/unbuttoned his shirt.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер снял рубашку.’",
@@ -57906,6 +59342,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "dream#sleeping#",
     "сниться",
@@ -57917,6 +59354,20 @@ const fullData = [
     "Per drømme-r om Kari",
     "PN dream-PRS about PN",
     "‘Per dreams about Kari.’",
+=======
+    "Telugu",
+    "dream#sleeping#",
+    "сниться",
+    "kalalu kanu",
+    "NOM",
+    "OBLgurinci",
+    "Y",
+    "NOM_OBLgurinci",
+    "pravīṇ nidra-lō madhuri guriṁci kalalu kaṁtunnāḍu",
+    "PN(M).SG.NOM sleep(N).SG.OBL-LOC PN(F).SG.OBL about dream(N)-PL.NOM perceive-DUR-3SG.M",
+    "‘Praveen dreams about Madhuri.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пете снится Кари.’",
@@ -57924,6 +59375,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "agree",
     "соглашаться",
@@ -57936,12 +59388,28 @@ const fullData = [
     "PN be.PST agreeing with PN",
     "‘Per agreed with Kari.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "agree",
+    "соглашаться",
+    "aṁgīkariṁcu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "pravīṇ maheṣ-tō aṁgīkariṁcāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-COM agree.PST.3SG.M",
+    "‘Praveen agreed with Mahesh.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер согласился с Кари.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "have_a_quarrel",
     "ссориться",
@@ -57953,6 +59421,20 @@ const fullData = [
     "Per krangle-t med Kari",
     "PN quarrel-PST with PN",
     "‘Per had a quarrel with Kari.’",
+=======
+    "Telugu",
+    "have_a_quarrel",
+    "ссориться",
+    "goḍava agu",
+    "DAT",
+    "COM",
+    "XY",
+    "DAT_COM",
+    "pravīṇ-ki maheṣ-tō goḍav' ayiṁdi",
+    "PN(M).SG.OBL-DAT PN(M).SG.OBL-COM quarrel(N).SG.NOM become.PST.3SG.NM",
+    "‘Praveen had a quarrel with Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер поссорился с Кари.’",
@@ -57960,6 +59442,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "cost",
     "стоить",
@@ -57971,6 +59454,20 @@ const fullData = [
     "denne kopp-en koste-r en dollar",
     "this.M.SG cup-DEF.M.SG cost-PRS one.M dollar",
     "‘This cup costs one dollar.’",
+=======
+    "Telugu",
+    "cost",
+    "стоить",
+    "dhara + COP",
+    "*",
+    "*",
+    "*",
+    "",
+    "ī kappu dhara oka yūro",
+    "DEM.PROX cup(N).SG.OBL price(N).SG.NOM one euro(N).SG.NOM",
+    "‘This cup costs 1 euro.’",
+    "Not included in the database because 1) X is expressed as an NP-internal modifier and 2) Y is expressed as a (non-verbal) predicate (not an argument).",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Эта чашка стоит один доллар.’",
@@ -57978,6 +59475,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "shoot_at",
     "стрелять",
@@ -57989,6 +59487,20 @@ const fullData = [
     "Per skjøt mot en fugl",
     "PN shoot.PST towards INDF.M.SG bird",
     "‘Per shot at the bird.’",
+=======
+    "Telugu",
+    "shoot_at",
+    "стрелять",
+    "kālcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ pakṣi-ni kālcāḍu",
+    "PN(M).SG.NOM bird(N).SG.OBL-ACC shoot.PST.3SG.M",
+    "‘Praveen shot at the bird.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер выстрелил в птицу.’",
@@ -57996,6 +59508,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "pour",
     "сыпать",
@@ -58007,6 +59520,20 @@ const fullData = [
     "Per strød-de sukker i kopp-en",
     "PN pour-PST sugar in cup-DEF.M.SG",
     "‘Per poured the sugar into the cup.’",
+=======
+    "Telugu",
+    "pour",
+    "сыпать",
+    "pōyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ paṁcadāra pōsāḍu",
+    "PN(M).SG.NOM sugar(N).SG.NOM pour.PST.3SG.M",
+    "‘Praveen poured the sugar.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер насыпал сахар в чашку.’",
@@ -58014,6 +59541,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "lose",
     "терять",
@@ -58025,6 +59553,20 @@ const fullData = [
     "Per miste-t nøkl-ene",
     "PN lose-PST key-DEF.PL",
     "‘Per lost his keys.’",
+=======
+    "Telugu",
+    "lose",
+    "терять",
+    "pōgoṭṭukōnu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ atani tāḷaṁcevu-lu pōgoṭṭukunnāḍu",
+    "PN(M).SG.NOM that_man(M).SG.OBL key(N)-PL.NOM lose.PST.3SG.M",
+    "‘Praveen lost his keys.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер потерял ключи.’",
@@ -58032,6 +59574,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "sink",
     "тонуть",
@@ -58043,6 +59586,20 @@ const fullData = [
     "tømmer-et sank i vann-et",
     "log-DEF.N.SG sink.PST in water-DEF.N.SG",
     "‘The log sank in the water.’",
+=======
+    "Telugu",
+    "sink",
+    "тонуть",
+    "munugu",
+    "NOM",
+    "LOCDAT",
+    "Y",
+    "NOM_LOCDAT",
+    "ceṭṭu niḷḷa-lō-ki munigiṁdi",
+    "tree(N).SG.NOM water.PL.OBL-LOC-DAT sink.PST.3SG.NM",
+    "‘The tree sank in the water.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Полено утонуло в воде.’",
@@ -58050,6 +59607,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "kill",
     "убивать",
@@ -58061,6 +59619,20 @@ const fullData = [
     "Per drep-te Ola",
     "PN kill-PST PN",
     "‘Per killed Ola.’",
+=======
+    "Telugu",
+    "kill",
+    "убивать",
+    "caṁpēyu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni caṁpēsāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC kill.INTENS.PST.3SG.M",
+    "‘Praveen killed Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер убил Улу.’",
@@ -58068,6 +59640,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "hit",
     "ударить",
@@ -58079,6 +59652,20 @@ const fullData = [
     "Per slo Ola",
     "PN hit.PST PN",
     "‘Per hit Ola.’",
+=======
+    "Telugu",
+    "hit",
+    "ударить",
+    "koṭṭu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni koṭṭāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC beat.PST.3SG.M",
+    "‘Praveen hit Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер ударил Улу.’",
@@ -58086,6 +59673,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "kiss",
     "целовать",
@@ -58097,6 +59685,20 @@ const fullData = [
     "Per kysse-t Kari",
     "PN kiss-PST PN",
     "‘Per kissed Kari.’",
+=======
+    "Telugu",
+    "kiss",
+    "целовать",
+    "muddu peṭṭu",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pravīṇ madhuri-ki muddu peṭṭāḍu",
+    "PN(M).SG.NOM PN(F).SG.OBL-DAT kiss(N).SG.NOM put.PST.3SG.M",
+    "‘Praveen kissed Madhuri.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер поцеловал Кари.’",
@@ -58104,6 +59706,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "read",
     "читать",
@@ -58115,6 +59718,20 @@ const fullData = [
     "Per les-te en interessant bok",
     "PN read-PST INDF.M.SG interesting book",
     "‘Per read an interesting book.’",
+=======
+    "Telugu",
+    "read",
+    "читать",
+    "caduvu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ oka maṁci pustakānni cadivāḍu",
+    "PN(M).SG.NOM one good book(N).SG.ACC read.PST.3SG.M",
+    "‘Praveen read a good book.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер прочитал интересную книгу.’",
@@ -58122,6 +59739,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "move#bodypart#",
     "шевелить",
@@ -58133,6 +59751,20 @@ const fullData = [
     "Per beveg-de finger-en",
     "PN move-PST finger-DEF.M.SG",
     "‘Per moved his finger.’",
+=======
+    "Telugu",
+    "move#bodypart#",
+    "шевелить",
+    "kadupu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ tana vēli-ni kadipāḍu",
+    "PN(M).SG.NOM own finger(N).SG.OBL-ACC move.PST.3SG.M",
+    "‘Praveen moved his finger.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер пошевелил пальцем.’",
@@ -58140,6 +59772,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "respect",
     "уважать",
@@ -58151,6 +59784,20 @@ const fullData = [
     "Per respektere-r Ola",
     "PN respect-PRS PN",
     "‘Per respects Ola.’",
+=======
+    "Telugu",
+    "respect",
+    "уважать",
+    "ādariṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni ādaristāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC respect.NPST.3SG.M",
+    "‘Praveen respects Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер уважает Улу.’",
@@ -58158,6 +59805,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_squeamish",
     "брезговать",
@@ -58169,6 +59817,20 @@ const fullData = [
     "Per avsky-r oppvask",
     "PN abhor-PRS dirty_dishes",
     "‘Per is squeamish about dirty dishes.’",
+=======
+    "Telugu",
+    "be_squeamish",
+    "брезговать",
+    "cirāku + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ki eṁgili aṁṭlu aṁṭē cirāku",
+    "PN(M).SG.OBL-DAT defiled utensil.PL.NOM that_is crossness(N).SG.NOM",
+    "‘Praveen is vexed about dirty dishes.’",
+    "Non-verbal predicate.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер брезгует грязной посудой.’",
@@ -58176,6 +59838,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_content",
     "быть довольным",
@@ -58187,6 +59850,19 @@ const fullData = [
     "Per er fornøyd med sønn-en sin",
     "PN be.PRS satisfied with son-DEF.M.SG POSS.REFL.M.SG",
     "‘Per is satisfied with his son.’",
+=======
+    "Telugu",
+    "be_content",
+    "быть довольным",
+    "saṁtuṣṭi + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ki atani koḍuku aṁṭē saṁtuṣṭi",
+    "PN(M).SG.OBL-DAT that_man(M).SG.OBL son(N).SG.NOM that_is satisfaction(N).SG.NOM",
+    "‘Praveen is satisfied with his son.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Non-verbal predicate.",
     "",
     "‘Пер доволен своим сыном.’",
@@ -58194,6 +59870,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "fall_in_love",
     "влюбляться",
@@ -58206,12 +59883,28 @@ const fullData = [
     "PN become.PST enamoured in PN",
     "‘Per fell in love with Kari.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "fall_in_love",
+    "влюбляться",
+    "prēmalō paḍu",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "pravīṇ madhuri-tō prēma-lō paḍḍāḍu",
+    "PN(M).SG.NOM PN(F).SG.OBL-COM love(N).SG.OBL-LOC fall.PST.3SG.M",
+    "‘Praveen fell in love with Madhuri.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер влюбился в Кари.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "trust",
     "доверять",
@@ -58224,12 +59917,28 @@ const fullData = [
     "PN trust-PRS on PN",
     "‘Per trusts Kari.’",
     "Phrasal verb (<i>på</i> is not a flagging device).",
+=======
+    "Telugu",
+    "trust",
+    "доверять",
+    "nammakamu + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ki madhuri aṁṭē nammakamu",
+    "PN(M).SG.OBL-DAT PN(F).SG.NOM that_is credit(N).SG.NOM",
+    "‘Praveen trusts Madhuri.’",
+    "Non-verbal predicate.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер доверяет Кари.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "sympathise",
     "жалеть",
@@ -58242,12 +59951,28 @@ const fullData = [
     "PN show-PASS.PRS unfortunate on mother-DEF.M.SG",
     "‘Per sympathises with his mother.’",
     "Phrasal verb (<i>på</i> is not a flagging device).",
+=======
+    "Telugu",
+    "sympathise",
+    "жалеть",
+    "bādha(ni) paṁcukōnu",
+    "*",
+    "*",
+    "*",
+    "",
+    "pravīṇ tana amma bādha-ni paṁcukuṁṭunnāḍu",
+    "PN(M).SG.NOM own mother(F).SG.OBL pain(N).SG.OBL-ACC share.DUR.3SG.M ",
+    "‘Praveen sympathises with his mother.’",
+    "Not included in the database because Y is expressed as an NP-internal modifier. This translation is probably semantically inaccurate.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер жалеет свою мать.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "envy",
     "завидовать",
@@ -58260,12 +59985,28 @@ const fullData = [
     "PN be.PRS envious on PN",
     "‘Per envies Ola.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "envy",
+    "завидовать",
+    "īrṣya + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ki maheṣ aṁṭē īrṣya",
+    "PN(M).SG-DAT PN(M).SG.NOM that_is envy(N).SG.NOM",
+    "‘Praveen envies Mahesh.’",
+    "Non-verbal predicate.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер завидует Уле.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_angry",
     "злиться",
@@ -58278,12 +60019,28 @@ const fullData = [
     "PN be.PRS angry on PN",
     "‘Per is angry with Ola.’",
     "Non-verbal predicate. Phrasal predicative expression (<i>på</i> is not a flagging device).",
+=======
+    "Telugu",
+    "be_angry",
+    "злиться",
+    "kopamu + COP",
+    "DAT",
+    "OBLmida",
+    "XY",
+    "DAT_OBLmida",
+    "pravīṇ-ki maheṣ mīda kopamu uṁdi",
+    "PN(M).SG.OBL-DAT PN(M).SG.OBL on anger(N).SG.NOM be.PRS.3SG.NM",
+    "‘Praveen is angry with Mahesh.’",
+    "Non-verbal predicate.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер злится на Улу.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_surprised",
     "удивляться",
@@ -58296,12 +60053,28 @@ const fullData = [
     "PN become.PST surprise-PTCP over gift-DEF.M.SG",
     "‘Per was surprised at this gift.’",
     "Non-verbal predicate (passive).",
+=======
+    "Telugu",
+    "be_surprised",
+    "удивляться",
+    "āšcaryapōvu",
+    "*",
+    "*",
+    "*",
+    "",
+    "pravīṇ ā bahumati-ni cūsi āšcaryapōyāḍu",
+    "PN(M).SG.NOM DEM.DIST gift(N).SG.OBL-ACC see.CVB.ANT get_surprised.PST.3SG.M",
+    "‘Praveen was surprised at this gift.’",
+    "Not included in the database because Y is expressed as an NP within a dependent clause.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер удивился этому подарку.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "love#tea#",
     "любить-2",
@@ -58313,6 +60086,20 @@ const fullData = [
     "Per elske-r te",
     "PN love-PRS tea",
     "‘Per loves tea.’",
+=======
+    "Telugu",
+    "love#tea#",
+    "любить-2",
+    "iṣṭamu + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ki ṭī aṁṭē iṣṭamu",
+    "PN(M).SG.OBL-DAT tea(N).SG.NOM that_is liking(N).SG.NOM",
+    "‘Praveen loves tea.’",
+    "Non-verbal predicate.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер любит чай.’",
@@ -58320,6 +60107,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "enjoy",
     "наслаждаться",
@@ -58331,6 +60119,20 @@ const fullData = [
     "Per nyte-r den varm-e te-en",
     "PN enjoy-PRS DET.M.SG warm-DEF tea-DEF.M.SG",
     "‘Per enjoys hot tea.’",
+=======
+    "Telugu",
+    "enjoy",
+    "наслаждаться",
+    "āsvādiṁcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ vēḍi ṭī-ni āsvādistunnāḍu",
+    "PN(M).SG.NOM hot tea(N).SG.OBL-ACC enjoy_the_taste.DUR.3SG.M",
+    "‘Praveen is enjoying hot tea.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер наслаждается горячим чаем.’",
@@ -58338,6 +60140,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "want",
     "хотеть",
@@ -58349,6 +60152,20 @@ const fullData = [
     "Per ønske-r seg ny mobil",
     "PN wish-PRS REFL new mobile_phone",
     "‘Per wants a new mobile phone.’",
+=======
+    "Telugu",
+    "want",
+    "хотеть",
+    "kāvāli",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pravīṇ-ki kotta fōn kāvāli",
+    "PN(M).SG.OBL-DAT new phone(N).SG.NOM be_wanted",
+    "‘Praveen wants a new mobile phone.’",
+    "This predicate is used without agreement markers and without copula.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер хочет новый мобильник.’",
@@ -58356,6 +60173,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "have_a_grudge",
     "сердиться",
@@ -58368,12 +60186,28 @@ const fullData = [
     "PN be.PRS angry on PN",
     "‘Per is angry with Ola.’",
     "Non-verbal predicate. Phrasal predicative expression (<i>på</i> is not a flagging device).",
+=======
+    "Telugu",
+    "have_a_grudge",
+    "сердиться",
+    "paga + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ki maheṣ aṁṭē paga",
+    "PN(M).SG.OBL-DAT PN(M).SG.NOM that_is enmity(N).SG.NOM",
+    "‘Praveen has a grudge against Mahesh.’",
+    "Non-verbal predicate.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер сердится на Улу.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "take_offence",
     "обижаться",
@@ -58386,12 +60220,28 @@ const fullData = [
     "PN become.PST offended-PTCP on PN",
     "‘Per took offence at Ola.’",
     "Non-verbal predicate (passive).",
+=======
+    "Telugu",
+    "take_offence",
+    "обижаться",
+    "manastāpamu ceṁdu",
+    "NOM",
+    "OBLpai",
+    "Y",
+    "NOM_OBLpai",
+    "pravīṇ maheṣ pai manastāpamu ceṁdāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL over mental_distress(N).SG.NOM happen.PST.3SG.M",
+    "‘Praveen got cross with Mahesh.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер обиделся на Улу.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "upset",
     "огорчать",
@@ -58403,6 +60253,20 @@ const fullData = [
     "Per gjor-de Ola svært trist",
     "PN make-PST PN very sad",
     "‘Per greatly upset Ola.’",
+=======
+    "Telugu",
+    "upset",
+    "огорчать",
+    "dukhaparucu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni cālā duḥkhaparicāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC very upset.PST.3SG.M ",
+    "‘Praveen greatly upset Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер очень огорчил Улу.’",
@@ -58410,6 +60274,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "marvel",
     "поражаться",
@@ -58422,12 +60287,28 @@ const fullData = [
     "PN become.PST impress-PTCP over town-DEF.M.SG",
     "‘Per was impressed by the town.’",
     "Non-verbal predicate (passive).",
+=======
+    "Telugu",
+    "marvel",
+    "поражаться",
+    "āšcaryapōvu",
+    "*",
+    "*",
+    "*",
+    "",
+    "pravīṇ ā paṭṭaṇānni cūsi āšcaryapōyāḍu",
+    "PN(M).SG.NOM DEM.DIST city(N).SG.ACC see.CVB.ANT get_suprised.PST.3SG.M",
+    "‘Praveen was surprised by this town.’",
+    "Not included in the database because Y is expressed as an NP within a dependent clause.",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер поразился городу.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "despise",
     "презирать",
@@ -58439,6 +60320,20 @@ const fullData = [
     "Per forakte-r Ola",
     "PN despise-PRS PN",
     "‘Per despises Ola.’",
+=======
+    "Telugu",
+    "despise",
+    "презирать",
+    "hīnaṁgā cūcu",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pravīṇ maheṣ-ni hīnaṁ-gā cūstāḍu",
+    "PN(M).SG.NOM PN(M).SG.OBL-ACC low-ADVZ see.NPST.3SG.M",
+    "‘Praveen despises Mahesh.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер презирает Улу.’",
@@ -58446,6 +60341,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "get_upset",
     "огорчаться",
@@ -58457,6 +60353,20 @@ const fullData = [
     "sønn-en gjor-de Per bedrøve-t",
     "son-DEF.M.SG make-PST PN upset-PTCP",
     "‘Per got upset with his son.’",
+=======
+    "Telugu",
+    "get_upset",
+    "огорчаться",
+    "bādhapaḍu",
+    "NOM",
+    "OBLvalla",
+    "Y",
+    "NOM_OBLvalla",
+    "pravīṇ tana koḍuku valla bādhapaḍḍāḍu",
+    "PN(M).SG.NOM own son(M).SG.OBL by suffer.PST.3SG.M",
+    "‘Praveen got upset because of his son.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер огорчился из-за своего сына.’",
@@ -58464,6 +60374,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "get_irritated",
     "раздражаться",
@@ -58475,6 +60386,20 @@ const fullData = [
     "Per irritere-r seg over datter-en",
     "PN irritate-PRS REFL over daughter-DEF.M.SG",
     "‘Per is getting irritated with his daughter.’",
+=======
+    "Telugu",
+    "get_irritated",
+    "раздражаться",
+    "cirākupaḍu",
+    "NOM",
+    "OBLmida",
+    "Y",
+    "NOM_OBLmida",
+    "pravīṇ tana kūturu mīda cirākupaḍutunnāḍu",
+    "PN(M).SG.NOM own daughter(F).SG.OBL on be_cross.DUR.3SG.M",
+    "‘Praveen is getting irritated with his daughter.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер раздражается на свою дочь.’",
@@ -58482,6 +60407,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_fond",
     "симпатизировать",
@@ -58493,6 +60419,20 @@ const fullData = [
     "Per like-r Ola",
     "PN like-PRS PN",
     "‘Per is fond of Ola.’",
+=======
+    "Telugu",
+    "be_fond",
+    "симпатизировать",
+    "muddu + COP",
+    "DAT",
+    "ante",
+    "XY",
+    "DAT_ante",
+    "pravīṇ-ku madhuri aṁṭē muddu",
+    "PN(M).SG.OBL-DAT PN(F).SG.NOM that_is kiss(N).SG.NOM",
+    "‘Praveen is fond of Madhuri.’",
+    "Non-verbal predicate.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "‘Пер симпатизирует Уле.’",
@@ -58500,6 +60440,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Norwegian Bokmål",
     "be_shy",
     "стесняться",
@@ -58512,12 +60453,28 @@ const fullData = [
     "PN be.PRS embarrassed over height-DEF.M.SG POSS.REFL.M.SG",
     "‘Per is embarrased about his height.’",
     "Non-verbal predicate.",
+=======
+    "Telugu",
+    "be_shy",
+    "стесняться",
+    "siggupaḍu",
+    "NOM",
+    "OBLvalla",
+    "Y",
+    "NOM_OBLvalla",
+    "pravīṇ atani ettu valla siggupaḍatāḍu",
+    "PN(M).SG.NOM that_man(M).SG.OBL height(N).SG.OBL by be_shy.NPST.3SG.M",
+    "‘Praveen is shy about his height.’",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "‘Пер стесняется своего роста.’",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "feel_pain",
     "болеть-1",
@@ -58547,6 +60504,18 @@ const fullData = [
     "k'ufaa-n obsaa k'ab-e",
     "flu-NOM PN.ABS catch-3SG.M.PFV",
     "‘Obsa has the flu.’",
+=======
+    "Estonian",
+    "feel_pain",
+    "болеть-1",
+    "olema",
+    "ADESS",
+    "NOM",
+    "X",
+    "ADESS_NOM",
+    "Peetri-l on peavalu",
+    "PN-ADESS be.PRS.3SG headache.SG.NOM",
+    "‘Peeter has a headache.’",
     "",
     "",
     "",
@@ -58554,6 +60523,26 @@ const fullData = [
     ""
   ],
   [
+    "Estonian",
+    "have#illness#",
+    "болеть-2",
+    "olema",
+    "ADESS",
+    "NOM",
+    "X",
+    "ADESS_NOM",
+    "Peetri-l on gripp",
+    "PN-ADESS be.PRS.3SG flu.SG.NOM",
+    "‘Peeter has the flu.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_afraid",
     "бояться",
@@ -58565,6 +60554,19 @@ const fullData = [
     "obsaa-n sar-ittʃa sodaat-e",
     "PN-NOM dog-DEF.ABS be_afraid.3SG.M-PFV",
     "‘Obsa is afraid of the dog.’",
+=======
+    "Estonian",
+    "be_afraid",
+    "бояться",
+    "kartma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter karda-b koera",
+    "PN.SG.NOM fear-PRS.3SG dog.SG.PART",
+    "‘Peeter is afraid of the dog.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58572,6 +60574,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "throw",
     "бросить",
@@ -58583,6 +60586,19 @@ const fullData = [
     "obsaa-n dursa ɗakaa darbat-e",
     "PN-NOM first stone.ABS throw-3SG.M.PFV",
     "‘Obsa threw a stone first.’",
+=======
+    "Estonian",
+    "throw",
+    "бросить",
+    "viskama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter viska-s kivi esimese-na",
+    "PN.SG.NOM throw-PST.3SG stone.SG.PART first-ESS",
+    "‘Peeter threw a stone first.'",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58590,24 +60606,39 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "have_enough",
     "быть достаточно",
     "gahaa k'aba",
+=======
+    "Estonian",
+    "have_enough",
+    "быть достаточно",
+    "piisavalt olema",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "*",
     "*",
     "*",
     "",
+<<<<<<< HEAD
     "amma obsaa-n k'arʃii gahaa k'ab-a",
     "now PN-NOM money.ABS enough.ABS have-3SG.M.PFV",
     "‘Now Obsa has enough money.’",
     "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).",
+=======
+    "nüüd on Peetri-l piisavalt raha",
+    "now be.PRS.3SG PN-ADESS enough money.SG.PART",
+    "‘Now Peeter has enough money.’",
+    "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + NP-internal component).",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "resemble",
     "быть похожим",
@@ -58619,6 +60650,19 @@ const fullData = [
     "obsaa-n tolaa fakkaat-a",
     "PN-NOM PN.ABS resemble-3SG.M.IPFV",
     "‘Obsa resembles Tolaa.’",
+=======
+    "Estonian",
+    "resemble",
+    "быть похожим",
+    "meenutama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter meenuta-b Madis-t",
+    "PN.SG.NOM resemble-PRS.3SG PN-SG.PART",
+    "‘Peeter resembles Madis.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58626,6 +60670,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "believe",
     "верить",
@@ -58637,6 +60682,19 @@ const fullData = [
     "obsaa-n tolaa aman-a",
     "PN-NOM PN.ABS believe-3SG.M.PFV",
     "‘Obsa believes Tolaa.’",
+=======
+    "Estonian",
+    "believe",
+    "верить",
+    "uskuma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter usu-b Mareti-t",
+    "PN.SG.NOM believe-PRS.3SG PN-SG.PART",
+    "‘Peeter believes Maret.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58644,6 +60702,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "take",
     "взять",
@@ -58655,6 +60714,19 @@ const fullData = [
     "obsaa-n kitaaba fuɗat-e",
     "PN-NOM book.ABS take-3SG.M.PFV",
     "‘Obsa took a book.’",
+=======
+    "Estonian",
+    "take",
+    "взять",
+    "võtma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter võtt-is raamatu",
+    "PN.SG.NOM take-PST.3SG book.SG.GEN",
+    "‘Peeter took a book.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58662,6 +60734,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "see",
     "видеть",
@@ -58673,6 +60746,19 @@ const fullData = [
     "obsaa-n mana arg-a",
     "PN-NOM house.ABS see-3SG.M.IPFV",
     "‘Obsa sees a house.’",
+=======
+    "Estonian",
+    "see",
+    "видеть",
+    "nägema",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter näe-b maja",
+    "PN.SG.NOM see-PRS.3SG house.SG.PART",
+    "‘Peeter sees a house.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58680,6 +60766,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "influence",
     "влиять",
@@ -58690,6 +60777,18 @@ const fullData = [
     "NOM_ABSirratti",
     "umurii-n jaadattʃuu irra-tti ɗiibbaa k'ab-a",
     "age-NOM memory.ABS on-LOC influence have-3SG.M.IPFV",
+=======
+    "Estonian",
+    "influence",
+    "влиять",
+    "mõjutama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "vanus mõjuta-b mälu",
+    "age.SG.NOM influence-PRS.3SG memory.SG.PART",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘Age influences memory.’",
     "",
     "",
@@ -58698,6 +60797,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "encounter",
     "встречаться",
@@ -58709,6 +60809,19 @@ const fullData = [
     "obsaa-n tolaa-tti ɗuf-e",
     "PN-NOM PN-LOC come-3SG.M.PFV",
     "‘Obsa encountered Tolaa.’",
+=======
+    "Estonian",
+    "encounter",
+    "встречаться",
+    "kohtama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter kohta-s Mareti-t",
+    "PN.SG.NOM encounter-PST.3SG PN-SG.PART",
+    "‘Peeter encountered Maret.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58716,6 +60829,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "enter",
     "входить ",
@@ -58727,6 +60841,19 @@ const fullData = [
     "obsaa-n mana seen-e",
     "PN-NOM house.ABS enter-3SG.M.PFV",
     "‘Obsa entered the house.’",
+=======
+    "Estonian",
+    "enter",
+    "входить ",
+    "sisenema",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL",
+    "Peeter sisene-s majja.",
+    "PN.SG.NOM enter-PST.3SG house.SG.ILL",
+    "‘Peeter entered the house.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58734,6 +60861,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "win",
     "выиграть",
@@ -58745,6 +60873,19 @@ const fullData = [
     "obsaa-n tolaa moʔ-e ",
     "PN-NOM PN.ABS beat-3SG.M.PFV",
     "‘Obsa beat Tolaa.’",
+=======
+    "Estonian",
+    "win",
+    "выиграть",
+    "võitma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter võit-is Mareti-t",
+    "PN.SG.NOM win-PST.3SG PN-SG.PART",
+    "‘Peeter beat Maret.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58752,6 +60893,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "go_out",
     "выходить",
@@ -58763,6 +60905,19 @@ const fullData = [
     "obsaa-n manaa gadi=baʔ-e",
     "PN-NOM house.ABL down=go_out-3SG.M.PFV ",
     "‘Obsa went out of thehouse.’",
+=======
+    "Estonian",
+    "go_out",
+    "выходить",
+    "väljuma",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter väljus maja-st",
+    "PN.SG.NOM go_out.PST.3SG house-ELA",
+    "‘Peeter went out of the house.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -58770,6 +60925,7 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "drive",
     "гнать",
@@ -58781,24 +60937,45 @@ const fullData = [
     "obsaa-n saʔ-ittii oof-aa dʒir-a",
     "PN-NOM cow-DEF.ABS drive-PROG AUX-3SG.M.NPST",
     "‘Obsa is driving the cow.’",
+=======
+    "Estonian",
+    "drive",
+    "гнать",
+    "ajama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter aja-b lehma karjamaa-le",
+    "PN.SG.NOM drive-PRS.3SG cow.SG.PART pasture-ALL",
+    "‘Peeter is driving the cow to the pasture.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
     "",
     ""
+<<<<<<< HEAD
   ],
   [
     "West Central Oromo",
     "bend",
     "гнуть",
     "dʒallisa",
+=======
+  ],
+  [
+    "Estonian",
+    "bend",
+    "гнуть",
+    "painutama",
     "NOM",
-    "ABS",
+    "GEN~PART~NOM",
     "TR",
     "TR",
-    "obsaa-n dam-ittʃa dʒall-i-s-e",
-    "PN-NOM branch-DEF.ABS bend-EP-CAUS-3SG.MPFV",
-    "‘Obsa bent the branch.’",
+    "Peeter painuta-s oksa",
+    "PN.SG.NOM bend-PST.3SG branch.SG.PART",
+    "‘Peeter bent the branch.’",
     "",
     "",
     "",
@@ -58806,13 +60983,4711 @@ const fullData = [
     ""
   ],
   [
+    "Estonian",
+    "tell",
+    "говорить",
+    "ütlema",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter ütles Mareti-le: ...",
+    "PN.SG.NOM say-PST.3SG PN-ALL",
+    "‘Peeter said to Maret: ...’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "hold",
+    "держать",
+    "hoidma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter hoia-b raamatu-t käe-s",
+    "PN.SG.NOM hold-PRS.3SG book-SG.PART hand-INESS",
+    "‘Peeter is holding the book in his hands.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "catch_up",
+    "догнать",
+    "järele jõudma",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter jõud-is Mareti-le järele",
+    "PN.SG.NOM reach-PST.3SG PN-ALL after",
+    "‘Peeter caught up with Maret.’",
+    "Phrasal verb (<i>järele</i> is not a flagging device).",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "milk",
+    "доить",
+    "lüpsma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter lüps-is lehma",
+    "PN.SG.NOM milk-PST.3SG cow.SG.PART",
+    "‘Peeter milked the cow.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "reach",
+    "достичь",
+    "jõudma",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter jõud-is kalda-le",
+    "PN.SG.NOM reach-PST.3SG bank-ALL",
+    "‘Peeter reached the bank.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "touch",
+    "дотронуться",
+    "puudutama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter puuduta-s seina",
+    "PN.SG.NOM touch-PST.3SG wall.SG.PART",
+    "‘Peeter touched the wall.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "fight",
+    "драться",
+    "tülitsema",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter tülitse-b Mareti-ga",
+    "PN.SG.NOM fight-PRS.3SG PN-COM",
+    "‘Peeter is fighting with Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_friends",
+    "дружить",
+    "sõber olema",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter on Mareti-ga sõber",
+    "PN.SG.NOM be.PRS.3SG PN-COM friend.SG.NOM",
+    "‘Peeter is friends with Maret.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "think",
+    "думать",
+    "mõtlema",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter mõtle-b Mareti-st",
+    "PN.SG.NOM think-PRS.3SG PN-ELA",
+    "‘Peeter is thinking about Maret.’",
+    "Peeter mõtleb Maretle (ALL instead of ELA) is also possible, so the y-argument could be analysed as ELA~ALL",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "eat",
+    "есть",
+    "sööma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter sõi õuna",
+    "PN.SG.NOM eat.PST.3SG apple.SG.PART",
+    "‘Peeter ate an apple.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "fry",
+    "жарить",
+    "küpsetama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter küpseta-s kala",
+    "PN.SG.NOM fry-PST.3SG fish.SG.PART",
+    "‘Peeter fried the fish.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "wait",
+    "ждать",
+    "ootama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter oota-b Mareti-t",
+    "PN.SG.NOM wait-PRS.3SG PN-SG.PART",
+    "‘Peeter is waiting for Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "forget",
+    "забывать",
+    "unustama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter unusta-s teise tee",
+    "PN.SG.NOM forget-PST.3SG other.SG.GEN road.SG.GEN",
+    "‘Peeter forgot the other road.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "depend",
+    "зависеть",
+    "sõltuma",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "mälu sõltu-b vanuse-st",
+    "memory.SG.NOM depend-PRS.3SG age-ELA",
+    "‘Memory depends on age.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "call",
+    "звать",
+    "helistama",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter helista-s Mareti-le",
+    "PN.SG.NOM call-PST.3SG PN-ALL",
+    "‘Peeter called Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "get_to_know",
+    "знакомиться",
+    "tutvuma",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter tutvu-s Mareti-ga aasta tagasi",
+    "PN.SG.NOM get_to_know-PST.3SG PN-COM year back",
+    "‘Peeter got to know Maret a year ago.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "know",
+    "знать ",
+    "tundma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter tunne-b Mareti-t",
+    "PN.SG.NOM know-PRS.3SG PN-SG.PART",
+    "‘Peeter knows Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "play#instrument#",
+    "играть",
+    "mängima",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter mängi-b kitarri",
+    "PN.SG.NOM play-PRS.3SG guitar.SG.PART",
+    "‘Peeter is playing the guitar.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "avoid",
+    "избегать",
+    "vältima",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter väldi-b Mareti-t",
+    "PN.SG.NOM avoid-PRS.3SG PN-SG.PART",
+    "‘Peeter avoids Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "make",
+    "изготовить",
+    "tegema",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter teg-i hiirelõksu",
+    "PN.SG.NOM make-PST.3SG mousetrap.SG.GEN",
+    "‘Peeter made a mousetrap.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "make_fun",
+    "издеваться",
+    "nalja tegema",
+    "NOM",
+    "GENule",
+    "Y",
+    "NOM_GENule",
+    "Peeter tee-b Mareti üle nalja",
+    "PN.SG.NOM make-PRS.3SG PN.SG.GEN over joke.SG.PART",
+    "‘Peeter is making fun of Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "have",
+    "иметь",
+    "olema",
+    "ADESS",
+    "NOM",
+    "X",
+    "ADESS_NOM",
+    "Peetri-l on auto",
+    "PN-ADESS be.PRS.3SG car.SG.NOM",
+    "‘Peeter has a car.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "look_for",
+    "искать",
+    "otsima",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter otsi-b oma võtme-id",
+    "PN.SG.NOM search-PRS.3SG POSS.REFL key-PL.PART",
+    "‘Peeter is searching for his keys.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "paint",
+    "красить",
+    "värvima",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter värvi-s aeda",
+    "PN.SG.NOM paint-PST.3SG fence.SG.PART",
+    "‘Peeter painted the fence.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "bite",
+    "кусать",
+    "hammustama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "koer hammusta-s Peetri-t",
+    "dog.SG.NOM bite-PST.3SG PN-SG.PART",
+    "‘A dog bit Peeter.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "forfeit",
+    "лишаться",
+    "ilma jääma",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter jä-i oma maja-st ilma",
+    "PN.SG.NOM stay-PST.3SG POSS.REFL house-ELA without",
+    "‘Peeter lost his house.’",
+    "Phrasal verb (<i>ilma</i> is not a flagging device).",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "try_to_catch",
+    "ловить",
+    "üritama kinni püüda",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter ürita-b kassi kinni püüd-a",
+    "PN.SG.NOM try-PRS.3SG cat.SG.PART closed catch-INF",
+    "‘Peeter is trying to catch the cat.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "break",
+    "ломать",
+    "murdma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter murd-is pulga",
+    "PN.SG.NOM break-PST.3SG stick.SG.GEN",
+    "‘Peeter broke a stick.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "flatter",
+    "льстить",
+    "meelitama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter meelita-b Mareti-t",
+    "PN.SG.NOM flatter-PRS.3SG PN-SG.PART",
+    "‘Peeter is flattering Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "love#person#",
+    "любить-1",
+    "armastama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter armasta-b Mareti-t",
+    "PN.SG.NOM love-PRS.3SG PN-SG.PART",
+    "‘Peeter loves Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "wave",
+    "махать",
+    "lehvitama",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter lehvita-b taskurätiku-ga",
+    "PN.SG.NOM wave-PRS.3SG handkerchief-COM",
+    "‘Peeter is waving a handkerchief.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "dream",
+    "мечтать",
+    "unistama",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter unista-b uue-st auto-st",
+    "PN.SG.NOM dream_of-PRS.3SG new-ELA car-ELA",
+    "‘Peeter is dreaming of a new car.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "wash",
+    "мыть",
+    "pesema",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter pes-i tassi",
+    "PN.SG.NOM wash-PST.3SG cup.SG.GEN",
+    "‘Peeter washed the cup.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "put_on",
+    "надевать",
+    "jalga panema",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter pan-i püksi-d jalga",
+    "PN.SG.NOM put-PST.3SG trouser-PL.NOM leg.SG.ILL",
+    "‘Peeter put on his trousers.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_called",
+    "называться",
+    "kutsuma",
+    "PART",
+    "TRANSL",
+    "XY",
+    "PART_TRANSL",
+    "seda mõõteriista kutsu-takse kompassi-ks",
+    "DEM.SG.PART measuring_tool.SG.PART call-PRS.IMPRS compass-TRANSL",
+    "‘This measuring tool is called a compass.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "punish",
+    "наказывать",
+    "karistama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter karista-b oma poega",
+    "PN.SG.NOM punish-PST.3SG POSS.REFL son.SG.PART",
+    "‘Peeter punished his son.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "attack",
+    "напасть",
+    "ründama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "karu ründa-s kalamees-t",
+    "bear.SG.NOM attack-PST.3SG fisherman-SG.PART",
+    "‘A bear attacked a fisherman.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "fill#intr#",
+    "наполняться",
+    "täituma",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "ämber täitu-s vee-ga",
+    "bucket.SG.NOM fill-PST.3SG water-COM",
+    "‘The bucket filled with water.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "find",
+    "находить",
+    "leidma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter leid-is oma võtme-d",
+    "PN.SG.NOM find-PST.3SG POSS.REFL key-PL.NOM",
+    "‘Peeter found his keys.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_short",
+    "недоставать",
+    "puudu jääma",
+    "ADESS",
+    "NOM",
+    "X",
+    "ADESS_NOM",
+    "Peetri-l jää-b üks euro puudu",
+    "PN-ADESS stay-PRS.3SG one.SG.NOM euro.SG.NOM missing",
+    "‘Peeter is short one euro.’",
+    "Phrasal verb (<i>puudu</i> is not a flagging device).",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "hate",
+    "ненавидеть",
+    "vihkama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter vihka-b Mareti-t",
+    "PN.SG.NOM hate-PRS.3SG PN-SG.PART",
+    "‘Peeter hates Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "like",
+    "нравиться",
+    "meeldima",
+    "ALL",
+    "NOM",
+    "X",
+    "ALL_NOM",
+    "Peetri-le meeldi-b see särk",
+    "PN-ALL appeal_to-PRS.3SG DEM shirt.SG.NOM",
+    "‘Peeter likes this shirt.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "need",
+    "нуждаться",
+    "vajama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter vaja-b raha",
+    "PN.SG.NOM need-PRS.3SG money.SG.PART",
+    "‘Peeter needs money.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "surround",
+    "окружать",
+    "ümbritsema",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "müüri-d ümbritse-vad linna",
+    "wall-PL.NOM surround-PRS.3PL city.SG.PART",
+    "‘Walls surround the city.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "remain",
+    "оставаться",
+    "alles olema",
+    "ADESS",
+    "NOM",
+    "X",
+    "ADESS_NOM",
+    "Peetri-l on kümme euro-t alles",
+    "PN-ADESS be.PRS.3SG ten.SG.NOM euro-SG.PART left",
+    "‘Peeter has ten euros left.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "answer",
+    "отвечать",
+    "vastama",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter vasta-s õpetaja-le",
+    "PN.SG.NOM answer-PST.3SG teacher-ALL",
+    "‘Peeter answered the teacher.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "open",
+    "открывать",
+    "avama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter ava-s konservi",
+    "PN.SG.NOM open-PST.3SG can.SG.GEN",
+    "‘Peeter opened a can.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_different",
+    "отличаться",
+    "erinema",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "ei, minu särk erine-b sinu oma-st",
+    "no, 1SG.GEN shirt.SG.NOM differ-PRS.3SG 2SG.GEN POSS.REFL-ELA",
+    "‘No, my shirt differs from yours.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "fall_behind",
+    "отстать",
+    "maha jääma",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter jä-i Mareti-st maha",
+    "PN.SG.NOM stay-PST.3SG PN-ELA down",
+    "‘Peeter fell behind Maret.’",
+    "Phrasal verb (<i>maha</i> is not a flagging device).",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "plough",
+    "пахать",
+    "kündma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter künna-b põldu",
+    "PN.SG.NOM plough-PRS.3SG field.SG.PART",
+    "‘Peeter is ploughing the field.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "smell",
+    "пахнуть",
+    "lõhnama",
+    "NOM",
+    "GENjarele",
+    "Y",
+    "NOM_GENjarele",
+    "mu käe-d lõhna-vad bensiini järele",
+    "1SG.GEN hand-PL.NOM smell-PRS.3PL gasoline.SG.GEN after",
+    "‘My hands smell of gasoline.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "cross",
+    "пересечь",
+    "ületama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter ületa-s tee",
+    "PN.SG.NOM cross-PRS.3SG road.SG.GEN",
+    "‘Peeter crossed the road.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "sing",
+    "петь",
+    "laulma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter laul-is ilusa laulu",
+    "PN.SG.NOM sing-PST.3SG beautiful.SG.GEN song.SG.GEN",
+    "‘Peeter sang a beautiful song.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "write",
+    "писать",
+    "kirjutama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter kirjuta-s kirja",
+    "PN.SG.NOM write-PST.3SG letter.SG.GEN",
+    "‘Peeter wrote a letter.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "drink",
+    "пить",
+    "jooma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter jõ-i piima",
+    "PN.SG.NOM drink-PST.3SG milk.SG.PART",
+    "‘Peeter drank milk.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "melt",
+    "плавить",
+    "sulatama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter sulata-s tüki plii-d",
+    "PN.SG.NOM melt-PST.3SG piece.SG.GEN lead-SG.PART",
+    "‘Peeter melted a piece of lead.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "match",
+    "подходить",
+    "sobima",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "see vöö sobi-b minu kleidi-ga",
+    "DEM.SG.NOM belt.SG.NOM fit-PRS.3SG 1SG.GEN dress-COM",
+    "‘This belt matches my dress.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "leave",
+    "покидать",
+    "lahkuma",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter lahku-s oma sünnilinna-st",
+    "PN.SG.NOM leave-PST.3SG POSS.REFL birth_city-ELA",
+    "‘Peeter left his native city.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "cover",
+    "покрывать",
+    "katma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "vaip kata-b terve põranda",
+    "carpet.SG.NOM cover-PRS.3SG whole.SG.GEN floor.SG.GEN",
+    "‘The carpet covers the whole floor.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "remember",
+    "помнить",
+    "mäletama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter mäleta-b maja hästi",
+    "PN.SG.NOM remember-PRS.3SG house.SG.PART well",
+    "‘Peeter remembers the house well.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "help",
+    "помочь",
+    "aitama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter aita-s Mareti-t",
+    "PN.SG.NOM help-PST.3SG PN-SG.PART",
+    "‘Peeter helped Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "understand#language#",
+    "понимать",
+    "aru saama",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter saa-b prantsuse keele-st aru",
+    "PN.SG.NOM get-PRS.3SG French language-ELA wit.SG.PART",
+    "‘Peeter understands French.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "hit#target#",
+    "попасть",
+    "lööma",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL",
+    "välk lõ-i majja",
+    "lightning.SG.NOM hit-PST.3SG house.SG.ILL",
+    "‘Lightning hit the house.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "cut_oneself",
+    "порезаться",
+    "ennast vigastama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter vigasta-s ennast habemenoa-ga",
+    "PN.SG.NOM hurt-PST.3SG REFL.SG.PART beard_knife-COM",
+    "‘Peeter hurt himself with a razor.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "get_stuck",
+    "прилипать",
+    "kinni jääma",
+    "NOM",
+    "GENkulge",
+    "Y",
+    "NOM_GENkulge",
+    "klaas jä-i laua külge kinni",
+    "glass.SG.NOM stay-PST.3SG table.SG.GEN on stuck",
+    "‘The glass got stuck to the table.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "lose#game#",
+    "проиграть",
+    "kaotama",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter kaota-s Mareti-le",
+    "PN.SG.NOM lose-PST.3SG PN-ALL",
+    "‘Peeter lost to Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_glad",
+    "радоваться",
+    "rõõmustama",
+    "NOM",
+    "GENule",
+    "Y",
+    "NOM_GENule",
+    "Peeter rõõmusta-s kirja üle",
+    "PN.SG.NOM be_glad-PST.3SG letter.SG.GEN over",
+    "‘Peeter was glad about the letter.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "speak",
+    "разговаривать",
+    "rääkima",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter räägi-b Mareti-ga",
+    "PN.SG.NOM speak-PRS.3SG PN-COM",
+    "‘Peeter is speaking with Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "give_birth",
+    "рожать",
+    "sünnitama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Maret sünnita-s poja",
+    "PN.SG.NOM bear-PST.3SG son.SG.GEN",
+    "‘Maret gave birth to a son.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "drop",
+    "ронять",
+    "maha pillama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter pilla-s klaasi maha",
+    "PN drop-PST.3SG glass.SG.GEN down",
+    "‘Peeter dropped the glass.’",
+    "Phrasal verb (<i>maha</i> is not a flagging device).",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "govern",
+    "руководить",
+    "juhtima",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter juhi-b meie linna",
+    "PN.SG.NOM lead-PRS.3SG 1PL.GEN town.SG.PART",
+    "‘Peeter runs our town.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "miss",
+    "скучать",
+    "igatsema",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter igatse-b Mareti-t",
+    "PN.SG.NOM miss-PRS.3SG PN-SG.PART",
+    "‘Peeter misses Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "follow",
+    "следовать",
+    "jälitama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter jälita-b Mareti-t",
+    "PN.SG.NOM follow-PRS.3SG PN-SG.PART",
+    "‘Peeter follows Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "dismount",
+    "слезать",
+    "maha tulema",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL",
+    "Peeter tul-i hobuse-lt maha",
+    "PN.SG.NOM come-PST.3SG horse-ABL down",
+    "‘Peeter got down from the horse.’",
+    "Phrasal verb (<i>maha</i> is not a flagging device).",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "listen",
+    "слушать",
+    "kuulama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter kuula-b raadio-t",
+    "PN.SG.NOM listen-PRS.3SG radio-SG.PART",
+    "‘Peeter is listening to the radio.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "obey",
+    "слушаться",
+    "kuuletuma ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter kuuletu-b ema-le",
+    "PN.SG.NOM obey-PRS.3SG mother-ALL",
+    "‘Peeter obeys his mother.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "hear",
+    "слышать",
+    "kuulma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter kuule-b muusika-t",
+    "PN.SG.NOM hear-PRS.3SG music-SG.PART",
+    "‘Peeter hears the music.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "mix",
+    "смешаться",
+    "segunema",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "mesi segune-s piima-ga",
+    "honey get_mixed-PST.3SG milk-COM",
+    "‘The honey got mixed with the milk.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "look",
+    "смотреть",
+    "vaatama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter vaata-b pilv-i",
+    "PN.SG.NOM look-PRS.3SG cloud-PL.PART",
+    "‘Peeter is looking at the clouds.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "take_off",
+    "снимать",
+    "seljast võtma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter võtt-is särgi selja-st",
+    "PN.SG.NOM take-PST.3SG shirt.SG.GEN back-ELAT",
+    "‘Peeter took off his shirt.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "dream#sleeping#",
+    "сниться",
+    "und nägema",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA",
+    "Peeter näe-b Mareti-st und",
+    "PN.SG.NOM see-PRS.3SG PN-ELA dream.SG.PART",
+    "‘Peeter dreams about Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "agree",
+    "соглашаться",
+    "nõustuma",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter nõustu-s Mareti-ga",
+    "PN.SG.NOM agree-PST.3SG PN-COM",
+    "‘Peeter agreed with Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "have_a_quarrel",
+    "ссориться",
+    "riidu minema",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter läks Mareti-ga riidu",
+    "PN.SG.NOM go.PST.3SG PN-COM quarrel.SG.ILL",
+    "‘Peeter got into a quarrel with Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "cost",
+    "стоить",
+    "maksma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "see tops maksa-b ühe euro",
+    "DEM.SG.NOM cup.SG.NOM cost-PRS.3SG one.SG.GEN euro.SG.GEN",
+    "‘This cup costs 1 euro.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "shoot_at",
+    "стрелять",
+    "tulistama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter tulista-s lindu.",
+    "PN.SG.NOM fire-PST.3SG bird.SG.PART",
+    "‘Peeter shot at the bird.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "pour",
+    "сыпать",
+    "valama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter vala-s suhkru-t",
+    "PN.SG.NOM pour-PST.3SG sugar-SG.PART",
+    "‘Peeter poured sugar.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "lose",
+    "терять",
+    "kaotama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter kaota-s oma võtme-d",
+    "PN.SG.NOM lose-PST.3SG POSS.REFL key-PL.NOM",
+    "‘Peeter lost his keys.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "sink",
+    "тонуть",
+    "vajuma",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL",
+    "palk vaju-s vette",
+    "log.SG.NOM sink-PST.3SG water.SG.ILL",
+    "‘The log sank into the water.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "kill",
+    "убивать",
+    "tapma",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter tapp-is Mareti",
+    "PN.SG.NOM kill-PST.3SG PN.SG.GEN",
+    "‘Peeter killed Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "hit",
+    "ударить",
+    "lööma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter lõ-i Mareti-t",
+    "PN.SG.NOM hit-PST.3SG PN-SG.PART",
+    "‘Peeter hit Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "kiss",
+    "целовать",
+    "suudlema",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter suudle-s Mareti-t",
+    "PN.SG.NOM kiss-PST.3SG PN-SG.PART",
+    "‘Peeter kissed Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "read",
+    "читать",
+    "lugema",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter luge-s huvitava raamatu",
+    "PN.SG.NOM read-PST.3SG interesting.SG.GEN book.SG.GEN",
+    "‘Peeter read an interesting book.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "move#bodypart#",
+    "шевелить",
+    "liigutama",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter liiguta-s oma sõrme",
+    "PN.SG.NOM move-PST.3SG POSS.REFL finger.SG.PART",
+    "‘Peeter moved his finger.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "respect",
+    "уважать",
+    "austama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter austa-b Mareti-t",
+    "PN.SG.NOM respect-PRS.3SG PN-SG.PART",
+    "‘Peeter respects Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_squeamish",
+    "брезговать",
+    "pirtsakas olema",
+    "NOM",
+    "GENsuhtes",
+    "Y",
+    "NOM_GENsuhtes",
+    "Peeter on musta-de nõu-de suhtes pirtsakas",
+    "PN.SG.NOM be.PRS.3SG dirty-PL.GEN dish-PL.GEN about squeamish",
+    "‘Peeter is squeamish about dirty dishes.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_content",
+    "быть довольным",
+    "rahul olema",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM",
+    "Peeter on oma poja-ga rahul",
+    "PN.SG.NOM be.PRS.3SG POSS.REFL son-COM content",
+    "‘Peeter is content with his son.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "fall_in_love",
+    "влюбляться",
+    "armuma",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL",
+    "Peeter armu-s Mareti-sse",
+    "PN.SG.NOM fall_in_love-PST.3SG PN-ILL",
+    "‘Peeter fell in love with Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "trust",
+    "доверять",
+    "usaldama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter usalda-b Mareti-t",
+    "PN.SG.NOM trust-PRS.3SG PN-SG.PART",
+    "‘Peeter trusts Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "sympathise",
+    "жалеть",
+    "kaasa tundma",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL",
+    "Peeter tunne-b oma ema-le kaasa",
+    "PN.SG.NOM feel-PRS.3SG POSS.REFL mother-ALL with",
+    "‘Peeter sympathises with his mother.’",
+    "Phrasal verb (<i>kaasa</i> is not a flagging device).",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "envy",
+    "завидовать",
+    "kadestama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter kadesta-b Mareti-t",
+    "PN.SG.NOM envy-PRS.3SG PN-SG.PART",
+    "‘Peeter envies Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_angry",
+    "злиться",
+    "vihane olema",
+    "NOM",
+    "GENpeale",
+    "Y",
+    "NOM_GENpeale",
+    "Peeter on Mareti peale vihane",
+    "PN.SG.NOM be.PRS.3SG PN.SG.GEN at angry",
+    "‘Peeter is angry with Maret.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_surprised",
+    "удивляться",
+    "üllatunud olema",
+    "NOM",
+    "GENule",
+    "Y",
+    "NOM_GENule",
+    "Peeter ol-i selle kingituse üle üllatu-nud",
+    "PN.SG.NOM be-PST.3SG DEM.SG.GEN gift.SG.GEN over be_surprised-ACT.PST.PTCP",
+    "‘Peeter was surprised at this gift.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "love#tea#",
+    "любить-2",
+    "armastama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter armasta-b tee-d",
+    "PN.SG.NOM love-PRS.3SG tea-PART",
+    "‘Peeter loves tea.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "enjoy",
+    "наслаждаться",
+    "nautima",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter naudi-b kuuma tee-d",
+    "PN.SG.NOM enjoy-PRS.3SG hot.PART tea-SG.PART",
+    "‘Peeter enjoys hot tea.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "want",
+    "хотеть",
+    "tahtma",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter taha-b uut mobiiltelefoni",
+    "PN.SG.NOM want-PRS.3SG new.PART mobile_phone.PART",
+    "‘Peeter wants a new mobile phone.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "have_a_grudge",
+    "сердиться",
+    "pidama",
+    "NOM",
+    "GENvastu",
+    "Y",
+    "NOM_GENvastu",
+    "Peeter pea-b Mareti vastu viha",
+    "PN.SG.NOM hold-PRS.3SG PN.SG.GEN against grudge.SG.PART",
+    "‘Peeter holds a grudge against Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "take_offence",
+    "обижаться",
+    "solvuma",
+    "NOM",
+    "GENpeale",
+    "Y",
+    "NOM_GENpeale",
+    "Peeter solvu-s Mareti peale",
+    "PN.SG.NOM take_offence-PST.3SG PN.SG.GEN at",
+    "‘Peeter took offence at Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "upset",
+    "огорчать",
+    "pahaseks tegema",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR",
+    "Peeter teg-i Mareti väga pahase-ks",
+    "PN.SG.NOM make-PST.3SG PN.SG.GEN very upset-TRANSL",
+    "‘Peeter made Maret very upset.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "marvel",
+    "поражаться",
+    "imetlema",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter imetle-s seda linna",
+    "PN.SG.NOM marvel-PST.3SG DEM.SG.PART town.SG.PART",
+    "‘Peeter marvelled at this town.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "despise",
+    "презирать",
+    "põlgama",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter põlga-b Mareti-t",
+    "PN.SG.NOM despise-PRS.3SG PN-SG.PART",
+    "‘Peeter despises Maret.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "get_upset",
+    "огорчаться",
+    "pahaseks saama",
+    "NOM",
+    "GENpeale",
+    "Y",
+    "NOM_GENpeale",
+    "Peeter sa-i oma poja peale pahase-ks",
+    "PN.SG.NOM become-PST.3SG POSS.REFL son.SG.GEN at upset-TRANSL",
+    "‘Peeter got upset with his son.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "get_irritated",
+    "раздражаться",
+    "ärrituma",
+    "NOM",
+    "GENpeale",
+    "Y",
+    "NOM_GENpeale",
+    "Peeter ärritu-b oma tütre peale",
+    "PN.SG.NOM get_irritated-PRS.3SG POSS.REFL daughter.SG.GEN at",
+    "‘Peeter is getting irritated with his daughter.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_fond",
+    "симпатизировать",
+    "kiindunud olema",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL",
+    "Peeter on Mareti-sse kiindu-nud",
+    "PN.SG.NOM be.PRS.3SG PN-ILL become_fond-ACT.PST.PTCP",
+    "‘Peeter is fond of Maret.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Estonian",
+    "be_shy",
+    "стесняться",
+    "häbenema",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART",
+    "Peeter häbene-b oma pikkus-t",
+    "PN.SG.NOM be_ashamed-PRS.3SG POSS.REFL length-PART",
+    "‘Peeter is ashamed about his height.’",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Serbian",
+    "feel_pain",
+    "болеть-1",
+    "boleti",
+    "ACC",
+    "NOM",
+    "X",
+    "ACC_NOM",
+    "Petr-a boli glav-a",
+    "PN-ACC.SG ache.PRS.3SG head-NOM.SG",
+    "‘Petar has a headache.’",
+    "",
+    "PN-ACC.SG болеть.PRS.3SG голова-NOM.SG",
+    "‘У Петара болит голова.’",
+    "боли",
+    "Петр-а боли глав-а"
+  ],
+  [
+    "Serbian",
+    "have#illness#",
+    "болеть-2",
+    "imati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar ima grip",
+    "PN.NOM.SG have.PRS.3SG flu.ACC.SG",
+    "‘Petar has the flu.’",
+    "",
+    "PN.NOM.SG иметь.PRS.3SG грипп.ACC.SG",
+    "‘Петар болеет гриппом.’",
+    "има",
+    "Петар има грип"
+  ],
+  [
+    "Serbian",
+    "be_afraid",
+    "бояться",
+    "plašiti se",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN",
+    "Petar se plaši ps-a",
+    "PN.NOM.SG REFL frighten.PRS.3SG dog-GEN.SG",
+    "‘Petar is afraid of the dog.’",
+    "",
+    "PN.NOM.SG REFL пугать.PRS.3SG собака-GEN.SG",
+    "‘Петар боится собаки.’",
+    "плаше се",
+    "Петар се плаши пс-а"
+  ],
+  [
+    "Serbian",
+    "throw",
+    "бросить",
+    "baciti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je baci-o kamen",
+    "PN.NOM.SG be.PRS.3SG throw-PART.PERF.M.SG stone.ACC.SG",
+    "‘Petar threw a stone.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG бросать-PART.PERF.M.SG камень.ACC.SG",
+    "‘Петар бросил камень.’",
+    "баци",
+    "Петар је баци-о камен"
+  ],
+  [
+    "Serbian",
+    "have_enough",
+    "быть достаточно",
+    "imati dovoljno",
+    "*",
+    "*",
+    "*",
+    "",
+    "Petar ima dovoljno novc-a",
+    "PN.NOM.SG have.PRS.3SG enough money-GEN.SG",
+    "‘Petar has enough money.’",
+    "Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + NP-internal component).",
+    "PN.NOM.SG иметь.PRS.3SG достаточно деньги-GEN.SG",
+    "‘У Петара достаточно денег.’",
+    "има доволно",
+    "Петар има довољно новц-а"
+  ],
+  [
+    "Serbian",
+    "resemble",
+    "быть похожим",
+    "ličiti",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "Petar liči na Marij-u",
+    "PN.NOM.SG resemble.PRS.3SG on PN-ACC.SG",
+    "‘Petar resembles Maria.’",
+    "",
+    "PN.NOM.SG быть_похожим.PRS.3SG на PN-ACC.SG",
+    "‘Петар похож на Марию.’",
+    "личи",
+    "Петар личи на Мариј-у"
+  ],
+  [
+    "Serbian",
+    "believe",
+    "верить",
+    "verovati",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar veruje Marij-i",
+    "PN.NOM.SG believe.PRS.3SG PN-DAT.SG",
+    "‘Petar believes Maria.’",
+    "",
+    "PN.NOM.SG верить.PRS.3SG PN-DAT.SG",
+    "‘Петар верит Марии.’",
+    "веруjе",
+    "Петар верује Мариј-и"
+  ],
+  [
+    "Serbian",
+    "take",
+    "взять",
+    "uzeti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je uze-o knjig-u",
+    "PN.NOM.SG be.PRS.3SG take-PART.PERF.M.SG book-ACC.SG",
+    "‘Petar took a book.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG взять-PART.PERF.M.SG книга-ACC.SG",
+    "‘Петар взял книгу.’",
+    "узео",
+    "Петар је узе-о књиг-у"
+  ],
+  [
+    "Serbian",
+    "see",
+    "видеть",
+    "videti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar vidi kuć-u",
+    "PN.NOM.SG see.PRS.3SG house-ACC.SG",
+    "‘Petar sees a house.’",
+    "",
+    "PN.NOM.SG видеть.PRS.3SG дом-ACC.SG",
+    "‘Петар видит дом.’",
+    "види",
+    "Петар види кућ-у"
+  ],
+  [
+    "Serbian",
+    "influence",
+    "влиять",
+    "uticati",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "uzrast utiče na pamćenj-e",
+    "age.NOM.SG influence.PRS.3SG on memory-ACC.SG",
+    "‘Age influences memory.’",
+    "",
+    "возраст.NOM.SG влиять.PRS.3SG на память-ACC.SG",
+    "‘Возраст влияет на пямять.’",
+    "утичи",
+    "узраст утиче на памћењ-е"
+  ],
+  [
+    "Serbian",
+    "encounter",
+    "встречаться",
+    "sresti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je sre-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG meet.PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar encountered Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG встретить.PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар встретил Марию.’",
+    "срео",
+    "Петар је сре-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "enter",
+    "входить ",
+    "ući",
+    "NOM",
+    "uACC",
+    "Y",
+    "NOM_uACC",
+    "Petar je uša-o u kuć-u",
+    "PN.NOM.SG be.PRS.3SG enter-PART.PERF.M.SG in house-ACC.SG",
+    "‘Petar entered the house.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG войти-PART.PERF.M.SG в дом-ACC.SG",
+    "‘Петар вошел в дом.’",
+    "ушао",
+    "Петар је уша-о у кућ-у"
+  ],
+  [
+    "Serbian",
+    "win",
+    "выиграть",
+    "pobediti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je pobedi-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG win-PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar beat Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG победить-PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар выиграл у Марии.’",
+    "победио",
+    "Петар је победи-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "go_out",
+    "выходить",
+    "izaći",
+    "NOM",
+    "izGEN",
+    "Y",
+    "NOM_izGEN",
+    "Petar je izaša-o iz kuć-e",
+    "PN.NOM.SG be.PRS.3SG go.out-PART.PERF.M.SG from house-GEN.SG",
+    "‘Petar went out of the house.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG выйти-PART.PERF.M.SG из дом-GEN.SG",
+    "‘Петар вышел из дома.’",
+    "изашао",
+    "Петар је изаша-о из кућ-е"
+  ],
+  [
+    "Serbian",
+    "drive",
+    "гнать",
+    "terati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar tera krav-u",
+    "PN.NOM.SG drive.PRS.3SG cow-ACC.SG",
+    "‘Petar is driving the cow.’",
+    "",
+    "PN.NOM.SG гнать.PRS.3SG корова-ACC.SG",
+    "‘Петар гонит корову.’",
+    "тера",
+    "Петар тера крав-у"
+  ],
+  [
+    "Serbian",
+    "bend",
+    "гнуть",
+    "saviti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je savi-o gran-u",
+    "PN.NOM.SG be.PRS.3SG bend-PART.PERF.M.SG branch-ACC.SG",
+    "‘Petar bent the branch.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG согнуть-PART.PERF.M.SG ветка-ACC.SG",
+    "‘Петар согнул ветку.’",
+    "савио",
+    "Петар је сави-о гран-у"
+  ],
+  [
+    "Serbian",
+    "tell",
+    "говорить",
+    "reći",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar je reka-o Marij-i",
+    "PN.NOM.SG be.PRS.3SG tell-PART.PERF.M.SG PN-DAT.SG",
+    "‘Petar told Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG сказать-PART.PERF.M.SG PN-DAT.SG",
+    "‘Петар сказал Марии.’",
+    "рекао",
+    "Петар је река-о Мариј-и"
+  ],
+  [
+    "Serbian",
+    "hold",
+    "держать",
+    "držati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar drži knjig-u",
+    "PN.NOM.SG hold.PRS.3SG book-ACC.SG",
+    "‘Petar is holding a book.’",
+    "",
+    "PN.NOM.SG держать.PRS.3SG книга-ACC.SG",
+    "‘Петар держит книгу.’",
+    "држи",
+    "Петар држи књиг-у"
+  ],
+  [
+    "Serbian",
+    "catch_up",
+    "догнать",
+    "stići",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je stiga-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG catch.up-PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar caught up with Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG догнать-PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар догнал Марию.’",
+    "стигао",
+    "Петар је стига-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "milk",
+    "доить",
+    "pomusti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je pomuza-o krav-u",
+    "PN.NOM.SG be.PRS.3SG milk-PART.PERF.M.SG cow-ACC.SG",
+    "‘Petar milked the cow.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG подоить-PART.PERF.M.SG корова-ACC.SG",
+    "‘Петар подоил корову.’",
+    "помузао",
+    "Петар је помуза-о крав-у"
+  ],
+  [
+    "Serbian",
+    "reach",
+    "достичь",
+    "stići",
+    "NOM",
+    "doGEN",
+    "Y",
+    "NOM_doGEN",
+    "Petar je stiga-o do obal-e",
+    "PN.NOM.SG be.PRS.3SG reach-PART.PERF.M.SG up.to bank-GEN.SG.F",
+    "‘Petar reached the bank.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG достичь-PART.PERF.M.SG до берег-GEN.SG.F",
+    "‘Петар достиг берега.’",
+    "стигао",
+    "Петар је стига-о до обал-е"
+  ],
+  [
+    "Serbian",
+    "touch",
+    "дотронуться",
+    "dodirnuti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je dodirnu-o zid",
+    "PN.NOM.SG be.PRS.3SG touch-PART.PERF.M.SG wall.ACC.SG",
+    "‘Petar touched the wall.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG дотронуться-PART.PERF.M.SG стена.ACC.SG",
+    "‘Петар дотронулся до стены.’",
+    "додирнуо",
+    "Петар је додирну-о зид"
+  ],
+  [
+    "Serbian",
+    "fight",
+    "драться",
+    "tucati se",
+    "NOM",
+    "sINS",
+    "Y",
+    "NOM_sINS",
+    "Petar se tuče sa Mark-om",
+    "PN.NOM.SG REFL hit.PRS.3SG with PN-INS.SG",
+    "‘Petar is fighting with Mark.’",
+    "",
+    "PN.NOM.SG REFL бить.PRS.3SG с PN-INS.SG",
+    "‘Петар дерется с Марком.’",
+    "тучи се",
+    "Петар се туче са Марком"
+  ],
+  [
+    "Serbian",
+    "be_friends",
+    "дружить",
+    "družiti se",
+    "NOM",
+    "sINS",
+    "Y",
+    "NOM_sINS",
+    "Petar se druži sa Marij-om",
+    "PN.NOM.SG REFL be.friends.PRS.3SG with PN-INS.SG",
+    "‘Petar is friends with Maria.’",
+    "",
+    "PN.NOM.SG REFL дружить.PRS.3SG с PN-INS.SG",
+    "‘Петар дружит с Марией.’",
+    "дружи се",
+    "Петар се дружи са Мариј-ом"
+  ],
+  [
+    "Serbian",
+    "think",
+    "думать",
+    "misliti",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "Petar misli na Marij-u",
+    "PN.NOM.SG think.PRS.3SG on PN-ACC.SG",
+    "‘Petar is thinking about Maria.’",
+    "",
+    "PN.NOM.SG думать.PRS.3SG на PN-ACC.SG",
+    "‘Петар думает о Марии.’",
+    "мисли",
+    "Петар мисли на Мариј-у"
+  ],
+  [
+    "Serbian",
+    "eat",
+    "есть",
+    "pojesti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je poje-o jabuk-u",
+    "PN.NOM.SG be.PRS.3SG eat-PART.PERF.M.SG apple-ACC.SG",
+    "‘Petar ate an apple.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG съесть-PART.PERF.M.SG яблоко-ACC.SG",
+    "‘Петар съел яблоко.’",
+    "поjео",
+    "Петар је поје-о јабук-у"
+  ],
+  [
+    "Serbian",
+    "fry",
+    "жарить",
+    "ispržiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je isprži-o rib-u",
+    "PN.NOM.SG be.PRS.3SG fry-PART.PERF.M.SG fish-ACC.SG",
+    "‘Petar fried the fish.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG пожарить-PART.PERF.M.SG рыба-ACC.SG",
+    "‘Петар пожарил рыбу.’",
+    "испржио",
+    "Петар је испржи-о риб-у"
+  ],
+  [
+    "Serbian",
+    "wait",
+    "ждать",
+    "čekati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar čeka Marij-u",
+    "PN.NOM.SG wait.PRS.3SG PN-ACC.SG",
+    "‘Petar is waiting for Maria.’",
+    "",
+    "PN.NOM.SG ждать.PRS.3SG PN-ACC.SG",
+    "‘Петар ждет Марию.’",
+    "чека",
+    "Петар чека Мариј-у"
+  ],
+  [
+    "Serbian",
+    "forget",
+    "забывать",
+    "zaboraviti",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "Petar je zaboravi-o na drug-i put",
+    "PN.NOM.SG be.PRS.3SG forget-PART.PERF.M.SG on other-ACC.SG.M road.ACC.SG",
+    "‘Petar forgot about the other road.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG забыть-PART.PERF.M.SG на другой-ACC.SG.M дорога.ACC.SG",
+    "‘Петар забыл о другой дороге.’",
+    "заборавио",
+    "Петар је заборави-о на друг-и пут"
+  ],
+  [
+    "Serbian",
+    "depend",
+    "зависеть",
+    "zavisiti",
+    "NOM",
+    "odGEN",
+    "Y",
+    "NOM_odGEN",
+    "Pamćenj-e zavisi od uzrast-a",
+    "memory-NOM.SG depend.PRS.3SG from.near age-GEN.SG",
+    "‘Memory depends on age.’",
+    "",
+    "память-NOM.SG зависеть.PRS.3SG от возраст-GEN.SG",
+    "‘Память зависит от возраста.’",
+    "зависи",
+    "Памћењ-е зависи од узраст-а"
+  ],
+  [
+    "Serbian",
+    "call",
+    "звать",
+    "pozvati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je pozva-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG call-PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar called Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG позвать-PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар позвал Марию.’",
+    "позвао",
+    "Петар је позва-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "get_to_know",
+    "знакомиться",
+    "upoznati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je upozna-o Marij-u pre godin-u dan-a",
+    "PN.NOM.SG be.PRS.3SG get.to.know-PART.PERF.M.SG PN-ACC.SG in.front year-ACC.SG day-GEN.PL",
+    "‘Petar got to know Maria a year ago.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG узнать-PART.PERF.M.SG PN-ACC.SG перед год-ACC.SG день-GEN.PL",
+    "‘Петар познакомился с Марией год тому назад.’",
+    "упознао",
+    "Петар је упозна-о Мариј-у пре годин-у дан-а"
+  ],
+  [
+    "Serbian",
+    "know",
+    "знать ",
+    "poznavati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar poznaje Marij-u",
+    "PN.NOM.SG know.PRS.3SG PN-ACC.SG",
+    "‘Petar knows Maria.’",
+    "",
+    "PN.NOM.SG знать.PRS.3SG PN-ACC.SG",
+    "‘Петар знает Марию.’",
+    "познаjе",
+    "Петар познаје Мариј-у"
+  ],
+  [
+    "Serbian",
+    "play#instrument#",
+    "играть",
+    "svirati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar svira gitar-u",
+    "PN.NOM.SG play.PRS.3SG guitar-ACC.SG",
+    "‘Petar is playing the guitar.’",
+    "",
+    "PN.NOM.SG играть.PRS.3SG гитара-ACC.SG",
+    "‘Петар играет на гитаре.’",
+    "свира",
+    "Петар свира гитар-у"
+  ],
+  [
+    "Serbian",
+    "avoid",
+    "избегать",
+    "izbegavati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar izbegava Marij-u",
+    "PN.NOM.SG avoid.PRS.3SG PN-ACC.SG",
+    "‘Petar avoids Maria.’",
+    "",
+    "PN.NOM.SG избегать.PRS.3SG PN-ACC.SG",
+    "‘Петар избегает Марию.’",
+    "избегава",
+    "Петар избегава Марију"
+  ],
+  [
+    "Serbian",
+    "make",
+    "изготовить",
+    "napraviti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je napravi-o bomb-u",
+    "PN.NOM.SG be.PRS.3SG make-PART.PERF.M.SG bomb-ACC.SG",
+    "‘Petar made a bomb.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG сделать-PART.PERF.M.SG бомба-ACC.SG",
+    "‘Петар сделал бомбу.’",
+    "направио",
+    "Петар је направи-о бомб-у"
+  ],
+  [
+    "Serbian",
+    "make_fun",
+    "издеваться",
+    "maltretirati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar maltretira Marij-u",
+    "PN.NOM.SG make.fun.PRS.3SG PN-ACC.SG",
+    "‘Petar is making fun of Maria.’",
+    "",
+    "PN.NOM.SG издеваться.PRS.3SG PN-ACC.SG",
+    "‘Петар издевается над Марией.’",
+    "малтретира",
+    "Петар малтретира Мариј-у"
+  ],
+  [
+    "Serbian",
+    "have",
+    "иметь",
+    "imati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar ima kol-a",
+    "PN.NOM.SG have.PRS.3SG car-ACC.PL",
+    "‘Petar has a car.’",
+    "",
+    "PN.NOM.SG иметь.PRS.3SG машина-ACC.PL",
+    "‘У Петара есть машина.’",
+    "има",
+    "Петар има кол-а"
+  ],
+  [
+    "Serbian",
+    "look_for",
+    "искать",
+    "tražiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar traži ključ-eve",
+    "PN.NOM.SG look.for.PRS.3SG key-ACC.PL",
+    "‘Petar is looking for his keys.’",
+    "",
+    "PN.NOM.SG искать.PRS.3SG ключ-ACC.PL",
+    "‘Петар ищет ключи.’",
+    "тражи",
+    "Петар тражи кључ-еве"
+  ],
+  [
+    "Serbian",
+    "paint",
+    "красить",
+    "ofarbati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je ofarba-o ograd-u",
+    "PN.NOM.SG be.PRS.3SG paint-PART.PERF.M.SG fence-ACC.SG",
+    "‘Petar painted the fence.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG покрасить-PART.PERF.M.SG забор-ACC.SG",
+    "‘Петар покрасил забор.’",
+    "офарбао",
+    "Петар је офарба-о оград-у"
+  ],
+  [
+    "Serbian",
+    "bite",
+    "кусать",
+    "ujesti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Pas je uje-o Petr-a",
+    "dog.NOM.SG be.PRS.3SG bite-PART.PERF.M.SG PN-ACC.SG",
+    "‘A dog bit Petar.’",
+    "",
+    "собака.NOM.SG быть.PRS.3SG укусить-PART.PERF.M.SG PN-ACC.SG",
+    "‘Собака укусила Петара.’",
+    "уjе",
+    "Пас је ује-о Петр-а"
+  ],
+  [
+    "Serbian",
+    "forfeit",
+    "лишаться",
+    "ostati",
+    "NOM",
+    "bezGEN",
+    "Y",
+    "NOM_bezGEN",
+    "Petar je osta-o bez kuć-e",
+    "PN.NOM.SG be.PRS.3SG remain-PART.PERF.M.SG without house-GEN.SG",
+    "‘Petar lost his house.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG остаться-PART.PERF.M.SG бeз дом-GEN.SG",
+    "‘Петар остался без дома.’",
+    "остао",
+    "Петар је оста-о без кућ-е"
+  ],
+  [
+    "Serbian",
+    "try_to_catch",
+    "ловить",
+    "juriti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar juri mačk-u",
+    "PN.NOM.SG try.to.catch.PRS.3SG cat-ACC.SG",
+    "‘Petar is trying to catch the cat.’",
+    "",
+    "PN.NOM.SG ловить.PRS.3SG кошка-ACC.SG",
+    "‘Петар ловит кошку.’",
+    "jури",
+    "Петар јури мачк-у"
+  ],
+  [
+    "Serbian",
+    "break",
+    "ломать",
+    "polomiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je polomi-o štap",
+    "PN.NOM.SG be.PRS.3SG break-PART.PERF.M.SG stick.ACC.SG",
+    "‘Petar broke a stick.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG сломать-PART.PERF.M.SG палка.ACC.SG",
+    "‘Петар сломал палку.’",
+    "поломио",
+    "Петар је поломи-о штап"
+  ],
+  [
+    "Serbian",
+    "flatter",
+    "льстить",
+    "laskati",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar laska Marij-i",
+    "PN.NOM.SG flatter.PRS.3SG PN-DAT.SG",
+    "‘Petar is flattering Maria.’",
+    "",
+    "PN.NOM.SG льстить.PRS.3SG PN-DAT.SG",
+    "‘Петар льстит Марии.’",
+    "ласка",
+    "Петар ласка Мариј-и"
+  ],
+  [
+    "Serbian",
+    "love#person#",
+    "любить-1",
+    "voleti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar voli Marij-u",
+    "PN.NOM.SG love.PRS.3SG PN-ACC.SG",
+    "‘Petar loves Maria.’",
+    "",
+    "PN.NOM.SG любить.PRS.3SG PN-ACC.SG",
+    "‘Петар любит Марию.’",
+    "воли",
+    "Петар воли Мариј-у"
+  ],
+  [
+    "Serbian",
+    "wave",
+    "махать",
+    "mahati",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "Petar maše maram-om",
+    "PN.NOM.SG wave.PRS.3SG handkerchief-INS.SG.F",
+    "‘Petar is waving a handkerchief.’",
+    "",
+    "PN.NOM.SG махать.PRS.3SG платок-INS.SG.F",
+    "‘Петар машет платком.’",
+    "маше",
+    "Петар маше марам-ом"
+  ],
+  [
+    "Serbian",
+    "dream",
+    "мечтать",
+    "maštati",
+    "NOM",
+    "oLOC",
+    "Y",
+    "NOM_oLOC",
+    "Petar mašta o nov-im kol-ima",
+    "PN.NOM.SG dream.PRS.3SG about new.LOC.PL.N car-LOC.PL",
+    "‘Petar is dreaming of a new car.’",
+    "",
+    "PN.NOM.SG мечтать.PRS.3SG о новый.LOC.PL.N машина-LOC.PL",
+    "‘Петар мечтает о новой машине.’",
+    "машта",
+    "Петар машта о нов-им кол-има"
+  ],
+  [
+    "Serbian",
+    "wash",
+    "мыть",
+    "oprati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je opra-o šolj-u",
+    "PN.NOM.SG be.PRS.3SG wash-PART.PERF.M.SG cup-ACC.SG",
+    "‘Petar washed the cup.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG вымыть-PART.PERF.M.SG чашка-ACC.SG",
+    "‘Петар вымыл чашку.’",
+    "опрао",
+    "Петар је опра-о шољ-у"
+  ],
+  [
+    "Serbian",
+    "put_on",
+    "надевать",
+    "obući",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je obuka-o pantalon-e",
+    "PN.NOM.SG be.PRS.3SG put.on-PART.PERF.M.SG trousers-ACC.PL",
+    "‘Petar put on his trousers.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG надеть-PART.PERF.M.SG штаны-ACC.PL",
+    "‘Петар надел штаны.’",
+    "обукао",
+    "Петар је обука-о панталон-е"
+  ],
+  [
+    "Serbian",
+    "be_called",
+    "называться",
+    "zvati se",
+    "NOM",
+    "NOM",
+    "Y",
+    "NOM_NOM",
+    "taj predmet se zove kompas",
+    "this.NOM.SG.M object.NOM.SG REFL call.PRS.3SG compass.NOM.SG",
+    "‘This object is called a compass.’",
+    "",
+    "этот.NOM.SG.M предмет.NOM.SG REFL звать.PRS.3SG компас.NOM.SG",
+    "‘Этот предмет называется компас.’",
+    "зове се",
+    "тај предмет се зове компас"
+  ],
+  [
+    "Serbian",
+    "punish",
+    "наказывать",
+    "kazniti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je kazni-o sv-og sin-a",
+    "PN.NOM.SG be.PRS.3SG punish-PART.PERF.M.SG one’s-ACC.SG son-ACC.SG",
+    "‘Petar punished his son.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG наказать-PART.PERF.M.SG свой-ACC.SG сын-ACC.SG",
+    "‘Петар наказл своего сына.’",
+    "казнио",
+    "Петар је казни-о св-ог син-а"
+  ],
+  [
+    "Serbian",
+    "attack",
+    "напасть",
+    "napasti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "medved je napa-o pecaroš-a",
+    "PN.NOM.SG be.PRS.3SG attack-PART.PERF.M.SG fisherman-ACC.SG",
+    "‘A bear attacked a fisherman.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG напасть-PART.PERF.M.SG рыбак-ACC.SG",
+    "‘Медведь напал на рыбака.’",
+    "напао",
+    "медвед је напа-о пецарош-а"
+  ],
+  [
+    "Serbian",
+    "fill#intr#",
+    "наполняться",
+    "napuniti se",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "kof-a se napuni-la vod-om",
+    "bucket.NOM.SG.F REFL fill-PART.PERF.F.SG water-INS.SG",
+    "‘The bucket filled with water.’",
+    "",
+    "ведро.NOM.SG.F REFL наполнять-PART.PERF.F.SG вода-INS.SG",
+    "‘Ведро наполнилось водой.’",
+    "напулнила се",
+    "коф-а се напуни-ла вод-ом"
+  ],
+  [
+    "Serbian",
+    "find",
+    "находить",
+    "naći",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je naša-o ključ-eve",
+    "PN.NOM.SG be.PRS.3SG find-PART.PERF.M.SG key-ACC.PL",
+    "‘Petar found his keys.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG найти-PART.PERF.M.SG ключ-ACC.PL",
+    "‘Петар нашел ключи.’",
+    "нашао",
+    "Петар је наша-о кључ-еве"
+  ],
+  [
+    "Serbian",
+    "be_short",
+    "недоставать",
+    "faliti",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "Petr-u fali jedan dolar",
+    "PN-DAT.SG lack.PRS.3SG one.NOM.SG dollar.NOM.SG ",
+    "‘Petar is one dollar short.’",
+    "",
+    "PN-DAT.SG недоставать.PRS.3SG один.NOM.SG доллар.NOM.SG ",
+    "‘Петру недостает одного доллара.’",
+    "фали",
+    "Петр-у фали један долар"
+  ],
+  [
+    "Serbian",
+    "hate",
+    "ненавидеть",
+    "mrzeti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar mrzi Marij-u",
+    "PN.NOM.SG hate.PRS.3SG PN-ACC.SG",
+    "‘Petar hates Maria.’",
+    "",
+    "PN.NOM.SG ненавидеть.PRS.3SG PN-ACC.SG",
+    "‘Петар ненавидит Марию.’",
+    "мрзи",
+    "Петар мрзи Мариј-у"
+  ],
+  [
+    "Serbian",
+    "like",
+    "нравиться",
+    "sviđati se",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "Petr-u se sviđa ta košulj-a",
+    "PN-DAT.SG REFL like.PRS.3SG this.NOM.SG.F shirt-NOM.SG",
+    "‘Petar likes this shirt.’",
+    "",
+    "PN-DAT.SG REFL нравиться.PRS.3SG этот.NOM.SG.F рубашка-NOM.SG",
+    "‘Петру нравится эта рубашка.’",
+    "свича се",
+    "Петр-у се свиђа та кошуљ-а"
+  ],
+  [
+    "Serbian",
+    "need",
+    "нуждаться",
+    "biti potreban",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "Petr-u je potreban novac",
+    "PN-DAT.SG be.PRS.3SG necessary.NOM.SG money.NOM.SG",
+    "‘Petar needs money.’",
+    "Non-verbal predicate.",
+    "PN-DAT.SG быть.PRS.3SG необходим.NOM.SG деньги.NOM.SG",
+    "‘Петару нужны деньги.’",
+    "потребан",
+    "Петр-у је потребан новац"
+  ],
+  [
+    "Serbian",
+    "surround",
+    "окружать",
+    "biti opasan",
+    "INS",
+    "NOM",
+    "X",
+    "INS_NOM",
+    "grad je opasan zidin-ama",
+    "city.NOM.SG be.PRS.3SG surround.PART.PASS.NOM.SG.M city_wall-INS.PL",
+    "‘Walls surround the city.’",
+    "Non-verbal predicate (passive).",
+    "город.NOM.SG быть.PRS.3SG окружить.PART.PASS.NOM.SG.M городская_стена-INS.PL",
+    "‘Город окружен стеной.’",
+    "опасан",
+    "град је опасан зидин-ама"
+  ],
+  [
+    "Serbian",
+    "remain",
+    "оставаться",
+    "ostati",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "Petr-u je osta-lo deset dolar-a",
+    "PN-DAT.SG be.PRS.3SG remain-PART.PERF.N.SG ten dollar-GEN.PL",
+    "‘Petar has ten dollars left.’",
+    "",
+    "PN-DAT.SG быть.PRS.3SG остаться-PART.PERF.N.SG десять доллар-GEN.PL",
+    "‘У Петара осталось 10 долларов.’",
+    "остало",
+    "Петр-у је оста-ло десет долар-а"
+  ],
+  [
+    "Serbian",
+    "answer",
+    "отвечать",
+    "odgovoriti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar je odgovori-o učitelj-u",
+    "PN.NOM.SG be.PRS.3SG answer-PART.PERF.M.SG teacher-DAT.SG",
+    "‘Petar answered the teacher.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG ответить-PART.PERF.M.SG учитель-DAT.SG",
+    "‘Петар ответил учителю.’",
+    "одговорио",
+    "Петар је одговори-о учитељ-у"
+  ],
+  [
+    "Serbian",
+    "open",
+    "открывать",
+    "otvoriti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je otvori-o tegl-u",
+    "PN.NOM.SG be.PRS.3SG open-PART.PERF.M.SG jar-ACC",
+    "‘Petar opened a can.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG открыть-PART.PERF.M.SG банка-ACC",
+    "‘Петар открыл банку.’",
+    "отворио",
+    "Петар је отвори-о тегл-у"
+  ],
+  [
+    "Serbian",
+    "be_different",
+    "отличаться",
+    "razlikovati se",
+    "NOM",
+    "odGEN",
+    "Y",
+    "NOM_odGEN",
+    "moj-a košulj-a se razlikuje od tvoj-e",
+    "my-NOM.SG.F shirt-NOM.SG REFL differ.PRS.3SG from.near your-GEN.SG.F",
+    "‘My shirt is different from yours.’",
+    "",
+    "мой-NOM.SG.F рубашка-NOM.SG REFL различать.PRS.3SG от твой-GEN.SG.F",
+    "‘Моя рубашка отличается от твоей.’",
+    "разликуjе се",
+    "мој-а кошуљ-а се разликује од твој-е"
+  ],
+  [
+    "Serbian",
+    "fall_behind",
+    "отстать",
+    "zaostati",
+    "NOM",
+    "zaINS",
+    "Y",
+    "NOM_zaINS",
+    "Petar je zaosta-o za Marij-om",
+    "PN.NOM.SG be.PRS.3SG fall.behind-PART.PERF.M.SG behind PN-INS.SG",
+    "‘Petar fell behind Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG отстать-PART.PERF.M.SG за PN-INS.SG",
+    "‘Петар отстал от Марии.’",
+    "заостао",
+    "Петар је заоста-о за Мариј-ом"
+  ],
+  [
+    "Serbian",
+    "plough",
+    "пахать",
+    "orati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar ore njiv-u",
+    "PN.NOM.SG plough.PRS.3SG field-ACC.SG",
+    "‘Petar is ploughing the field.’",
+    "",
+    "PN.NOM.SG пахать.PRS.3SG поле-ACC.SG",
+    "‘Петар пашет поле.’",
+    "оре",
+    "Петар оре њив-у"
+  ],
+  [
+    "Serbian",
+    "smell",
+    "пахнуть",
+    "mirisati",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "moj-e ruk-e miriš-u na benzin",
+    "my-NOM.PL.F hand-NOM.PL smell-PRS.3PL on gasoline.ACC.SG",
+    "‘My hands smell of gasoline.’",
+    "",
+    "мой-NOM.PL.F рука-NOM-PL пахнуть-PRS.3PL на бензин.ACC.SG",
+    "‘Мои руки пахнут бензином.’",
+    "миришу",
+    "мој-е руке мириш-у на бензин"
+  ],
+  [
+    "Serbian",
+    "cross",
+    "пересечь",
+    "preći",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je preša-o ulic-u",
+    "PN.NOM.SG be.PRS.3SG cross-PART.PERF.M.SG street-ACC.SG",
+    "‘Petar crossed the road.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG перейти-PART.PERF.М.SG улица-ΑCC.SG",
+    "‘Петар перешел улицу.’",
+    "прешао",
+    "Петар је преша-о улиц-у"
+  ],
+  [
+    "Serbian",
+    "sing",
+    "петь",
+    "otpevati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je otpeva-o lep-u pesm-u",
+    "PN.NOM.SG be.PRS.3SG sing-PART.PERF.M.SG beautiful-ACC.SG.F song-ACC.SG",
+    "‘Petar sang a beautiful song.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG спеть-PART.PERF.М.SG красивый-ACC.SG.F песня-ACC.SG",
+    "‘Петар спел красивую песню.’",
+    "отпевао",
+    "Петар је отпева-о леп-у песм-у"
+  ],
+  [
+    "Serbian",
+    "write",
+    "писать",
+    "napisati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je napisa-o pism-o",
+    "PN.NOM.SG be.PRS.3SG write-PART.PERF.M.SG letter-ACC.SG",
+    "‘Petar wrote a letter.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG написать-PART.PERF.М.SG письмо-ACC.SG",
+    "‘Петар написал письмо.’",
+    "написао",
+    "Петар је написа-о писм-о"
+  ],
+  [
+    "Serbian",
+    "drink",
+    "пить",
+    "popiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je popi-o mlek-o",
+    "PN.NOM.SG be.PRS.3SG drink-PART.PERF.M.SG milk-ACC.SG",
+    "‘Petar drank the milk.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG выпить-PART.PERF.М.SG молоко-ACC.SG",
+    "‘Петар выпил молоко.’",
+    "попио",
+    "Петар је попи-о млек-о"
+  ],
+  [
+    "Serbian",
+    "melt",
+    "плавить",
+    "rastopiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je rastopi-o komad olov-a",
+    "PN.NOM.SG be.PRS.3SG melt-PART.PERF.M.SG piece-ACC.SG lead-GEN.SG.N",
+    "‘Petar melted a piece of lead.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG расплавить-PART.PERF.М.SG кусок-ACC.SG свинец-GEN.SG.N",
+    "‘Петар расплавил кусок свинца.’",
+    "растопио",
+    "Петар је растопи-о комад олов-а"
+  ],
+  [
+    "Serbian",
+    "match",
+    "подходить",
+    "odgovarati",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "taj kaiš odgovara moj-oj haljin-i",
+    "this belt.NOM.SG answer.PRS.3SG my-DAT.SG.F dress-DAT.SG",
+    "‘This belt goes well with my dress.’",
+    "",
+    "этот пояс.NOM.SG отвечать.PRS.3SG мой-DAT.SG.F платье-DAT.SG",
+    "‘Этот пояс подходит к моему платью.’",
+    "одговара",
+    "тај каиш одговара мој-ој хаљин-и"
+  ],
+  [
+    "Serbian",
+    "leave",
+    "покидать",
+    "napustiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je napusti-o rodn-i grad",
+    "PN.NOM.SG be.PRS.3SG leave-PART.PERF.M.SG native-ACC.SG.M city.ACC.SG",
+    "‘Petar left his native city.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG покинуть-PART.PERF.М.SG родной-ACC.SG.M город.ACC.SG",
+    "‘Петар покинул родной город.’",
+    "напустио",
+    "Петар је напусти-о родн-и град"
+  ],
+  [
+    "Serbian",
+    "cover",
+    "покрывать",
+    "pokrivati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "tepih pokriva ceo pod",
+    "carpet.NOM.SG cover.PRS.3SG all.ACC.SG.M floor.ACC.SG",
+    "‘The carpet covers the whole floor.’",
+    "",
+    "ковер.NOM.SG покрывать.PRS.3SG весь.ACC.SG.M пол.ACC.SG",
+    "‘Ковер покрывает весь пол.’",
+    "покрива",
+    "тепих покрива цео под"
+  ],
+  [
+    "Serbian",
+    "remember",
+    "помнить",
+    "sećati se",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN",
+    "Petar se dobro seća kuć-e",
+    "PN.NOM.SG REFL well remember.PRS.3SG house-GEN.SG",
+    "‘Petar remembers the house well.’",
+    "",
+    "PN.NOM.SG REFL хорошо помнить.PRS.3SG дом-GEN.SG",
+    "‘Петар хорошо помнит дом.’",
+    "сеча",
+    "Петар се добро сећа кућ-е"
+  ],
+  [
+    "Serbian",
+    "help",
+    "помочь",
+    "pomoći",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar je pomoga-o Marij-i",
+    "PN.NOM.SG be.PRS.3SG help-PART.PERF.M.SG PN-DAT.SG",
+    "‘Petar helped Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG помочь-PART.PERF.М.SG PN-DAT.SG",
+    "‘Петар помог Марии.’",
+    "помагао",
+    "Петар је помага-о Мариј-и"
+  ],
+  [
+    "Serbian",
+    "understand#language#",
+    "понимать",
+    "razumeti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar razume francusk-i jezik",
+    "PN.NOM.SG understand.PRS.3SG French-ACC.SG.M language.ACC.SG",
+    "‘Petar understands French.’",
+    "",
+    "PN.NOM.SG понимать.PRS.3SG французский-ACC.SG.M язык.ACC.SG",
+    "‘Петар понимает французский язык.’",
+    "разуми",
+    "Петар разуме француск-и језик"
+  ],
+  [
+    "Serbian",
+    "hit#target#",
+    "попасть",
+    "pogoditi",
+    "NOM",
+    "uACC",
+    "Y",
+    "NOM_uACC",
+    "munja je pogodi-la u kuću",
+    "lightning.NOM.SG be.PRS.3SG hit-PART.PERF.F.SG in house-ACC.SG",
+    "‘Lightning struck the house.’",
+    "",
+    "молния.NOM.SG быть.PRS.3SG попасть-PART.PERF.F.SG в дом-ACC.SG",
+    "‘Молния попала в дом.’",
+    "погодила",
+    "муња је погоди-ла у кућу"
+  ],
+  [
+    "Serbian",
+    "cut_oneself",
+    "порезаться",
+    "poseći se",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "Petar se poseka-o brijač-em",
+    "PN.NOM.SG REFL cut-PART.PERF.M.SG razor-INS.SG",
+    "‘Petar cut himself with a razor.’",
+    "",
+    "PN.NOM.SG REFL порезать-PART.PERF.M.SG бритва-INS.SG",
+    "‘Петар порезался бритвой.’",
+    "посекао се",
+    "Петар се посека-о бријач-ем"
+  ],
+  [
+    "Serbian",
+    "get_stuck",
+    "прилипать",
+    "zalepiti se",
+    "NOM",
+    "zaACC",
+    "Y",
+    "NOM_zaACC",
+    "čaš-a se zalepi-la za sto",
+    "glass-NOM.SG REFL stick-PART.PERF.F.SG behind table-ACC.SG",
+    "‘The glass got stuck to the table.’",
+    "",
+    "стакан-NOM.SG REFL приклеить-PART.PERF.F.SG за стол-ACC.SG",
+    "‘Стакан прилип к столу.’",
+    "залепила се",
+    "чаш-а се залепи-ла за сто"
+  ],
+  [
+    "Serbian",
+    "lose#game#",
+    "проиграть",
+    "izgubiti",
+    "NOM",
+    "odGEN",
+    "Y",
+    "NOM_odGEN",
+    "Petar je izgubi-o od Marij-e",
+    "PN.NOM.SG be.PRS.3SG lose-PART.PERF.M.SG from.near PN-GEN.SG",
+    "‘Petar lost to Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG проиграть-PART.PERF.М.SG от PN-GEN.SG",
+    "‘Петар проиграл Марии.’",
+    "изгубио",
+    "Петар је изгуби-о од Мариј-е"
+  ],
+  [
+    "Serbian",
+    "be_glad",
+    "радоваться",
+    "obradovati se",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar se obradova-o pism-u",
+    "PN.NOM.SG REFL gladden-PART.PERF.M.SG letter-DAT.SG",
+    "‘Petar was glad about the letter.’",
+    "",
+    "PN.NOM.SG REFL обрадовать-PART.PERF.M.SG письмо-DAT.SG",
+    "‘Петар обрадовался письму.’",
+    "обрадовао се",
+    "Петар се обрадова-о писм-у"
+  ],
+  [
+    "Serbian",
+    "speak",
+    "разговаривать",
+    "pričati",
+    "NOM",
+    "sINS",
+    "Y",
+    "NOM_sINS",
+    "Petar priča sa Marij-om",
+    "PN.NOM.SG speak.PRS.3SG with PN-INS",
+    "‘Petar is speaking with Maria.’",
+    "",
+    "PN.NOM.SG разговаривать.PRS.3SG с PN-INS",
+    "‘Петар разговаривает с Марией’",
+    "прича",
+    "Петар прича са Мариј-ом"
+  ],
+  [
+    "Serbian",
+    "give_birth",
+    "рожать",
+    "roditi",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Marij-a je rodi-la sin-a",
+    "PN-NOM.SG be.PRS.3SG give.birth-PART.PERF.F.SG son-ACC.SG",
+    "‘Maria gave birth to a son.’",
+    "",
+    "PN-NOM.SG быть.PRS.3SG родить-PART.PERF.F.SG сын-ACC.SG",
+    "‘Мария родила сына.’",
+    "родила",
+    "Мариј-а је роди-ла син-а"
+  ],
+  [
+    "Serbian",
+    "drop",
+    "ронять",
+    "ispasti",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "Petr-u je ispa-la čaš-a",
+    "PN-DAT.SG be.PRS.3SG fall.down-PART.PERF.F.SG glass-NOM.SG",
+    "‘Petar dropped the glass.’",
+    "",
+    "PN.DAT.SG быть.PRS.3SG выпасть-PART.PERF.F.SG стакан-NOM.SG",
+    "‘Петар уронил стакан.’",
+    "испала",
+    "Петр-у је испа-ла чаш-а"
+  ],
+  [
+    "Serbian",
+    "govern",
+    "руководить",
+    "upravljati",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "Petar upravlja naš-im sel-om",
+    "PN.NOM.SG govern.PRS.3SG our-INS.SG.M village-INS.SG",
+    "‘Petar runs our town.’",
+    "",
+    "PN.NOM.SG управлять.PRS.3SG наш-INS.SG.M село-INS.SG",
+    "‘Петар руководит нашим поселком.’",
+    "управља",
+    "Петар управља наш-им сел-ом"
+  ],
+  [
+    "Serbian",
+    "miss",
+    "скучать",
+    "nedostajati",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "Petr-u nedostaje Marij-a",
+    "PN-DAT.SG miss.PRS.3SG PN-NOM.SG",
+    "‘Petar misses Maria.’",
+    "",
+    "PN.DAT.SG не_хватать.PRS.3SG PN-NOM.SG",
+    "‘Петар скучает по Марии.’",
+    "недостаjе",
+    "Петр-у недостаје Мариј-а"
+  ],
+  [
+    "Serbian",
+    "follow",
+    "следовать",
+    "slediti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar sledi Marij-u",
+    "PN.NOM.SG follow.PRS.3SG PN-ACC.SG",
+    "‘Petar follows Maria.’",
+    "",
+    "PN.NOM.SG следовать.PRS.3SG PN-ACC.SG",
+    "‘Петар следует за Марией’",
+    "следи",
+    "Петар следи Мариј-у"
+  ],
+  [
+    "Serbian",
+    "dismount",
+    "слезать",
+    "sići",
+    "NOM",
+    "sGEN",
+    "Y",
+    "NOM_sGEN",
+    "Petar je siša-o s konj-a",
+    "PN.NOM.SG be.PRS.3SG go.down-PART.PERF.M.SG from.up horse-GEN.SG",
+    "‘Petar got down from the horse.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG сойти-PART.PERF.M.SG с конь-GEN.SG",
+    "‘Петар слез с лошади.’",
+    "сишао",
+    "Петар је сиша-о с коњ-а"
+  ],
+  [
+    "Serbian",
+    "listen",
+    "слушать",
+    "slušati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar sluša radio",
+    "PN.NOM.SG listen.PRS.3SG radio.ACC.SG",
+    "‘Petar is listening to radio.’",
+    "",
+    "PN.NOM.SG слушать.PRS.3SG радио.ACC.SG",
+    "‘Петар слушает радио.’",
+    "слуша",
+    "Петар слуша радио"
+  ],
+  [
+    "Serbian",
+    "obey",
+    "слушаться",
+    "slušati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar sluša mam-u",
+    "PN.NOM.SG listen.PRS.3SG mother-ACC.SG",
+    "‘Petar obeys his mother.’",
+    "",
+    "PN.NOM.SG слушать.PRS.3SG мама-ACC.SG",
+    "‘Петар слушается маму.’",
+    "слуша",
+    "Петар слуша мам-у"
+  ],
+  [
+    "Serbian",
+    "hear",
+    "слышать",
+    "čuti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar čuje muzik-u",
+    "PN.NOM.SG hear.PRS.3SG music-ACC.SG",
+    "‘Petar hears the music.’",
+    "",
+    "PN.NOM.SG слышать.PRS.3SG музыка-ACC.SG",
+    "‘Петар слышит музыку.’",
+    "чуjе",
+    "Петар чује музик-у"
+  ],
+  [
+    "Serbian",
+    "mix",
+    "смешаться",
+    "sjediniti se",
+    "NOM",
+    "sINS",
+    "Y",
+    "NOM_sINS",
+    "med se sjedini-o s mlek-om",
+    "honey.NOM.SG REFL mix-PART.PERF.M.SG with milk-INS.SG",
+    "‘The honey got mixed with milk.’",
+    "",
+    "мед.NOM.SG REFL соединить-PART.PERF.M.SG с молоко-INS.SG",
+    "‘Мед смешался с молоком.’",
+    "сjединио се",
+    "мед се сједини-о с млек-ом"
+  ],
+  [
+    "Serbian",
+    "look",
+    "смотреть",
+    "gledati",
+    "NOM",
+    "uACC",
+    "Y",
+    "NOM_uACC",
+    "Petar gleda u oblak-e",
+    "PN.NOM.SG look.PRS.3SG in cloud-ACC.PL",
+    "‘Petar is looking at the clouds.’",
+    "",
+    "PN.NOM.SG смотреть.PRS.3SG в облако-ACC.PL",
+    "‘Петар смотрит на тучи.’",
+    "гледа",
+    "Петар гледа у облак-е"
+  ],
+  [
+    "Serbian",
+    "take_off",
+    "снимать",
+    "skinuti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je skinu-o košulj-u",
+    "PN.NOM.SG be.PRS.3SG put.off-PART.PERF.M.SG shirt-ACC.SG",
+    "‘Petar took off his shirt.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG снять-PART.PERF.M.SG рубашка-ACC.SG",
+    "‘Петар снял рубашку.’",
+    "скинуо",
+    "Петар је скину-о кошуљ-у"
+  ],
+  [
+    "Serbian",
+    "dream#sleeping#",
+    "сниться",
+    "sanjati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar sanja Marij-u",
+    "PN.NOM.SG see_in_dream.PRS.3SG PN-ACC.SG",
+    "‘Petar dreams about Maria.’",
+    "",
+    "PN.NOM.SG видеть_во_сне.PRS.3SG PN-ACC.SG",
+    "‘Петару снится Мария.’",
+    "сања",
+    "Петар сања Мариј-у"
+  ],
+  [
+    "Serbian",
+    "agree",
+    "соглашаться",
+    "složiti se",
+    "NOM",
+    "sINS",
+    "Y",
+    "NOM_sINS",
+    "Petar se složi-o s Marij-om",
+    "PN.NOM.SG REFL unite-PART.PERF.M.SG with PN-INS.SG",
+    "‘Petar agreed with Maria.’",
+    "",
+    "PN.NOM.SG REFL сложить-PART.PERF.M.SG с PN-INS.SG",
+    "‘Петар согласился с Марией.’",
+    "сложио се",
+    "Петар се сложи-о с Мариј-ом"
+  ],
+  [
+    "Serbian",
+    "have_a_quarrel",
+    "ссориться",
+    "posvađati se",
+    "NOM",
+    "sINS",
+    "Y",
+    "NOM_sINS",
+    "Petar se posvađa-o s Marij-om",
+    "PN.NOM.SG REFL quarrel-PART.PERF.M.SG with PN-INS.SG",
+    "‘Petar had a quarrel with Maria.’",
+    "",
+    "PN.NOM.SG REFL поссориться-PART.PERF.M.SG с PN-INS.SG",
+    "‘Петар поссорился с Марией.’",
+    "посвачао се",
+    "Петар се посвађа-о с Мариј-ом"
+  ],
+  [
+    "Serbian",
+    "cost",
+    "стоить",
+    "koštati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "ta šolj-a košta jedan dolar",
+    "this.NOM.SG.F cup-NOM.SG cost.PRS.3SG one.ACC.SG.M dollar.ACC.SG",
+    "‘This cup costs one dollar.’",
+    "",
+    "этот.NOM.SG.F чашка-NOM.SG стоить.PRS.3SG один.ACC.SG.M доллар.ACC.SG",
+    "‘Эта чашка стоит 1 доллар.’",
+    "кошта",
+    "та шољ-а кошта jедан долар"
+  ],
+  [
+    "Serbian",
+    "shoot_at",
+    "стрелять",
+    "pući",
+    "NOM",
+    "uACC",
+    "Y",
+    "NOM_uACC",
+    "Petar je puka-o u ptic-u",
+    "PN.NOM.SG be.PRS.3SG shoot-PART.PERF.M.SG in bird-ACC.SG",
+    "‘Petar shot at the bird.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG выстрелить-PART.PERF.M.SG в птица-ACC.SG",
+    "‘Петар выстрелил в птицу.’",
+    "пукао",
+    "Петар је пука-о у птиц-у"
+  ],
+  [
+    "Serbian",
+    "pour",
+    "сыпать",
+    "staviti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je stavi-o šećer u šolj-u",
+    "PN.NOM.SG be.PRS.3SG put-PART.PERF.M.SG sugar.ACC.SG in cup-ACC.SG",
+    "‘Petar poured the sugar into the cup.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG положить-PART.PERF.M.SG сахар.ACC.SG в чашка-ACC.SG",
+    "‘Петар насыпал сахар в чашку.’",
+    "ставио",
+    "Петар је стави-о шећер у шољ-у"
+  ],
+  [
+    "Serbian",
+    "lose",
+    "терять",
+    "izgubiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je izgubi-o ključ-eve",
+    "PN.NOM.SG be.PRS.3SG lose-PART.PERF.M.SG key-ACC.PL",
+    "‘Petar lost his keys.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG потерять-PART.PERF.M.SG ключ-ACC.PL",
+    "‘Петар потерял ключи.’",
+    "изгубио",
+    "Петaр је изгуби-о кључ-еве"
+  ],
+  [
+    "Serbian",
+    "sink",
+    "тонуть",
+    "potonuti",
+    "NOM",
+    "uACC",
+    "Y",
+    "NOM_uACC",
+    "cepanic-a je potonu-l-a u vod-u",
+    "log-NOM.SG be.PRS.3SG sink-PART.PERF.M.SG in water-ACC.SG",
+    "‘The log sank in the water.’",
+    "",
+    "полено-NOM.SG быть.PRS.3SG утонуть-PART.PERF.M.SG в вода-ACC.SG",
+    "‘Полено утонуло в воде.’",
+    "потонула",
+    "цепаниц-а је потону-л-а у вод-у"
+  ],
+  [
+    "Serbian",
+    "kill",
+    "убивать",
+    "ubiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je ubi-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG kill-PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar killed Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG убить-PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар убил Марию.’",
+    "убио",
+    "Петар је уби-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "hit",
+    "ударить",
+    "udariti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je udari-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG hit-PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar hit Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG ударить-PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар ударил Марию.’",
+    "ударио",
+    "Петар је удари-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "kiss",
+    "целовать",
+    "poljubiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je poljubi-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG kiss-PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar kissed Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG поцеловать-PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар поцеловал Марию.’",
+    "пољубио",
+    "Петар је пољуби-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "read",
+    "читать",
+    "pročitati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je pročita-o interesantn-u knjig-u",
+    "PN.NOM.SG be.PRS.3SG read-PART.PERF.M.SG interesting-ACC.SG.F book-ACC.SG",
+    "‘Petar read an interesting book.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG прочитать-PART.PERF.M.SG интересный-ACC.SG.F книга-ACC.SG",
+    "‘Петар прочитал интересную книгу.’",
+    "прочитао",
+    "Петар је прочита-о интересантн-у књиг-у"
+  ],
+  [
+    "Serbian",
+    "move#bodypart#",
+    "шевелить",
+    "mrdnuti",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "Petar je mrdnu-o prst-om",
+    "PN.NOM.SG be.PRS.3SG move-PART.PERF.M.SG finger-INS.SG",
+    "‘Petar moved his finger.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG пошевелить-PART.PERF.M.SG палец-INS.SG",
+    "‘Петар пошевелил пальцем.’",
+    "мрднуо",
+    "Петар је мрдну-о прст-ом"
+  ],
+  [
+    "Serbian",
+    "respect",
+    "уважать",
+    "poštovati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar poštuje Marij-u",
+    "PN.NOM.SG respect.PRS.3SG PN-ACC.SG",
+    "‘Petar respects Maria.’",
+    "",
+    "PN.NOM.SG уважать.PRS.3SG PN-ACC.SG",
+    "‘Петар уважает Марию.’",
+    "поштуjе",
+    "Петар поштује Мариј-у"
+  ],
+  [
+    "Serbian",
+    "be_squeamish",
+    "брезговать",
+    "gaditi se",
+    "DAT",
+    "NOM",
+    "Y",
+    "DAT_NOM",
+    "Petr-u se gadi prljav-o posuđ-e",
+    "PN-DAT.SG REFL disgust.PRS.3SG dirty-NOM.SG.N dishes-NOM.SG",
+    "‘Petar is squeamish about dirty dishes.’",
+    "",
+    "PN-DAT.SG REFL вызывать_отвращение.PRS.3SG грязный-NOM.SG.N посуда-NOM.SG",
+    "‘Петар брезгует грязной посудой’",
+    "гади се",
+    "Петр-у се гади прљав-о посуђ-е"
+  ],
+  [
+    "Serbian",
+    "be_content",
+    "быть довольным",
+    "biti zadovoljan",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "Petar je zadovoljan svoj-im sin-om",
+    "PN.NOM.SG be.PRS.3SG content.NOM.SG.M one’s-INS.SG.M son-INS.SG",
+    "‘Petar is satisfied with his son.’",
+    "Non-verbal predicate.",
+    "PN.NOM.SG быть.PRS.3SG доволен.NOM.SG.M свой-INS.SG.M сын-INS.SG",
+    "‘Петар доволен своим сыном.’",
+    "задовољан",
+    "Петар је задовољан свој-им син-ом"
+  ],
+  [
+    "Serbian",
+    "fall_in_love",
+    "влюбляться",
+    "zaljubiti se",
+    "NOM",
+    "uACC",
+    "Y",
+    "NOM_uACC",
+    "Petar se zaljubi-o u Marij-u",
+    "PN.NOM.SG REFL fall.in.love-PART.PERF.M.SG in PN-ACC.SG",
+    "‘Petar fell in love with Maria.’",
+    "",
+    "PN.NOM.SG REFL влюбиться-PART.PERF.M.SG в PN-ACC.SG",
+    "‘Петар влюбился в Марию.’",
+    "заљубио",
+    "Петар се заљуби-о у Мариј-у"
+  ],
+  [
+    "Serbian",
+    "trust",
+    "доверять",
+    "imati poverenje",
+    "NOM",
+    "uACC",
+    "Y",
+    "NOM_uACC",
+    "Petar ima poverenj-e u Marij-u",
+    "PN.NOM.SG have.PRS.3SG trust-ACC.SG in PN-ACC.SG",
+    "‘Petar trusts Maria.’",
+    "",
+    "PN.NOM.SG иметь.PRS.3SG доверие-ACC.SG в PN-ACC.SG",
+    "‘Петар доверяет Марии.’",
+    "има поверење",
+    "Петар има поверењ-е у Мариј-у"
+  ],
+  [
+    "Serbian",
+    "sympathise",
+    "жалеть",
+    "biti žao",
+    "DAT",
+    "GEN",
+    "XY",
+    "DAT_GEN",
+    "Petr-u je žao svoj-e majk-e",
+    "PN-DAT.SG be.PRS.3SG pity one’s-GEN.SG.F mother-GEN.SG",
+    "‘Petar sympathises with his mother.’",
+    "Non-verbal predicate.",
+    "PN-DAT.SG быть.PRS.3SG жаль свой-GEN.SG.F мама-GEN.SG",
+    "‘Петар жалеет свою мать.’",
+    "жао",
+    "Петру је жао свој-е мајк-е"
+  ],
+  [
+    "Serbian",
+    "envy",
+    "завидовать",
+    "zavideti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar zavidi Marij-i",
+    "PN.NOM.SG envy.PRS.3SG PN-DAT.SG",
+    "‘Petar envies Maria.’",
+    "",
+    "PN.NOM.SG завидовать.PRS.3SG PN-DAT.SG",
+    "‘Петар завидует Марии.’",
+    "завиди",
+    "Петар завиди Мариј-и"
+  ],
+  [
+    "Serbian",
+    "be_angry",
+    "злиться",
+    "ljutiti se",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "Petar se ljuti na Marij-u",
+    "PN.NOM.SG REFL anger.PRS.3SG on PN-ACC.SG",
+    "‘Petar is angry with Maria.’",
+    "",
+    "PN.NOM.SG REFL сердить.PRS.3SG на PN-ACC.SG",
+    "‘Петар злится на Марию.’",
+    "љути се",
+    "Петар се љути на Мариј-у"
+  ],
+  [
+    "Serbian",
+    "be_surprised",
+    "удивляться",
+    "iznenaditi se",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar se iznenadi-o t-om poklon-u",
+    "PN.NOM.SG REFL surprise-PART.PERF.M.SG this-DAT.SG.M gift-DAT.SG",
+    "‘Petar was surprised at this gift.’",
+    "",
+    "PN.NOM.SG REFL удивить-PART.PERF.M.SG этот-DAT.SG.M подарок-DAT.SG",
+    "‘Петар удивился этому подарку.’",
+    "изненадио се",
+    "Петар се изненади-о т-ом поклон-у"
+  ],
+  [
+    "Serbian",
+    "love#tea#",
+    "любить-2",
+    "voleti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar voli čaj",
+    "PN.NOM.SG like.PRS.3SG tea.ACC.SG",
+    "‘Petar loves tea.’",
+    "",
+    "PN.NOM.SG любить.PRS.3SG чай.ACC.SG",
+    "‘Петар любит чай.’",
+    "воли",
+    "Петар воли чај"
+  ],
+  [
+    "Serbian",
+    "enjoy",
+    "наслаждаться",
+    "uživati",
+    "NOM",
+    "uLOC",
+    "Y",
+    "NOM_uLOC",
+    "Petar uživa u vruć-em čaj-u",
+    "PN.NOM.SG enjoy.PRS.3SG in hot-LOC.SG.M tea-LOC.SG",
+    "‘Petar enjoys hot tea.’",
+    "",
+    "PN.NOM.SG наслаждаться.PRS.3SG в горячий-LOC.SG.M чай-LOC.SG",
+    "‘Петар наслаждается горячим чаем.’",
+    "ужива",
+    "Петар ужива у врућ-ем чај-у"
+  ],
+  [
+    "Serbian",
+    "want",
+    "хотеть",
+    "želeti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar želi nov-i mobiln-i",
+    "PN.NOM.SG want.PRS.3SG new-ACC.SG.M mobile-ACC.SG",
+    "‘Petar wants a new mobile phone.’",
+    "",
+    "PN.NOM.SG хотеть.PRS.3SG новый-ACC.SG.M мобильный-ACC.SG",
+    "‘Петер хочет новый мобильник.’",
+    "жели",
+    "Петар жели нов-и мобилн-и"
+  ],
+  [
+    "Serbian",
+    "have_a_grudge",
+    "сердиться",
+    "ljutiti se",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "Petar se ljuti na Marij-u",
+    "PN.NOM.SG REFL anger.PRS.3SG on PN-ACC.SG",
+    "‘Petar holds a grudge against Maria.’",
+    "",
+    "PN.NOM.SG REFL сердить.PRS.3SG на PN-ACC.SG",
+    "‘Петар сердится на Марию.’",
+    "љути се",
+    "Петар се љути на Мариј-у"
+  ],
+  [
+    "Serbian",
+    "take_offence",
+    "обижаться",
+    "uvredeti se",
+    "*",
+    "*",
+    "*",
+    "",
+    "Petar se uvredi-o",
+    "PN.NOM.SG REFL offend-PART.PERF.M.SG",
+    "‘Petar got offended.’",
+    "Not included in the database because Y cannot be overtly expressed.",
+    "PN.NOM.SG REFL обидеть-PART.PERF.M.SG",
+    "‘Петар обиделся.’",
+    "увредити се",
+    "Петар се увреди-о"
+  ],
+  [
+    "Serbian",
+    "upset",
+    "огорчать",
+    "rastužiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar je mnogo rastuži-o Marij-u",
+    "PN.NOM.SG be.PRS.3SG very upset-PART.PERF.M.SG PN-ACC.SG",
+    "‘Petar greatly upset Maria.’",
+    "",
+    "PN.NOM.SG быть.PRS.3SG очень огорчить-PART.PERF.M.SG PN-ACC.SG",
+    "‘Петар очень огорчил Марию.’",
+    "растужио",
+    "Петар је много растужи-о Мариј-у"
+  ],
+  [
+    "Serbian",
+    "marvel",
+    "поражаться",
+    "biti oduševljen",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "Petar je bi-o oduševljen t-im grad-om",
+    "PN.NOM.SG be.PRS.3SG be-PART.PERF.M.SG amaze.PART.PASS.NOM.SG this-INS.SG.M city-INS.SG",
+    "‘Petar was amazed by this town.’",
+    "Non-verbal predicate (passive).",
+    "PN.NOM.SG быть.PRS.3SG быть-PART.PERF.M.SG восхитить.PART.PASS.NOM.SG этот-INS.SG.M город-INS.SG",
+    "‘Петар поразился этому городу.’",
+    "одушевљен",
+    "Петар је био одушевљен т-им град-ом"
+  ],
+  [
+    "Serbian",
+    "despise",
+    "презирать",
+    "prezirati",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "Petar prezira Marij-u",
+    "PN.NOM.SG despise.PRS.3SG PN-ACC.SG",
+    "‘Petar despises Maria.’",
+    "",
+    "PN.NOM.SG презирать.PRS.3SG PN-ACC.SG",
+    "‘Петар презирает Марию.’",
+    "презира",
+    "Петар презира Мариј-у"
+  ],
+  [
+    "Serbian",
+    "get_upset",
+    "огорчаться",
+    "rastužiti se",
+    "NOM",
+    "zbogGEN",
+    "Y",
+    "NOM_zbogGEN",
+    "Petar se rastuži-o zbog sv-og sin-a",
+    "PN.NOM.SG REFL upset-PART.PERF.M.SG because.of one’s-GEN.SG.M son-GEN.SG",
+    "‘Petar got upset because of his son.’",
+    "",
+    "PN.NOM.SG REFL расстроить.PART.PERF.M.SG из-за свой-GEN.SG.M сын-GEN.SG",
+    "‘Петар расстроился из-за своего сына.’",
+    "растужио се",
+    "Петар се растужи-о због св-ог син-а"
+  ],
+  [
+    "Serbian",
+    "get_irritated",
+    "раздражаться",
+    "biti besan",
+    "NOM",
+    "naACC",
+    "Y",
+    "NOM_naACC",
+    "Petar je besan na svoj-u kćerk-u",
+    "PN.NOM.SG be.PRS.3SG angry.NOM.SG on one’s-ACC.SG.F daughter-ACC.SG",
+    "‘Petar is getting irritated with his daughter.’",
+    "Non-verbal predicate.",
+    "PN.NOM.SG быть.PRS.3SG зол.NOM.SG на свой-ACC.SG.F дочь-ACC.SG",
+    "‘Петар раздражается на свою дочь.’",
+    "бесан",
+    "Петар је бесан на свој-у кћерк-у"
+  ],
+  [
+    "Serbian",
+    "be_fond",
+    "симпатизировать",
+    "simpatisati",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "Petar simpatiše Marij-i",
+    "PN.NOM.SG be.fond.PRS.3SG PN-DAT.SG",
+    "‘Petar is fond of Maria.’",
+    "",
+    "PN.NOM.SG симпатизировать.PRS.3SG PN-DAT.SG",
+    "‘Петар симпатизирует Марии.’",
+    "симпатише",
+    "Петар симпатише Мариј-и"
+  ],
+  [
+    "Serbian",
+    "be_shy",
+    "стесняться",
+    "stiditi se",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN",
+    "Petar se stidi svoj-e visin-e",
+    "PN.NOM.SG REFL shame.PRS.3SG one’s-GEN.SG.F height-GEN.SG",
+    "‘Petar is embarrased about his height.’",
+    "",
+    "PN.NOM.SG REFL стыдить.PRS.3SG свой-GEN.SG.F рост-GEN.SG",
+    "‘Петар стесняется своего роста’",
+    "стиди се",
+    "Петар се стиди свој-е висин-е"
+  ],
+  [
+    "Kazym Khanty",
+    "feel_pain",
+    "болеть-1",
+    "kăši",
+    "*",
+    "*",
+    "*",
+    "",
+    "waśa-j-en ŏχ-ǝλ kăši",
+    "PN-EP-POSS.2SG head-POSS.3SG sick",
+    "‘Vasja has a headache.’",
+    "Not included in the database because X is (arguably) expressed as an NP-internal modifier. Non-verbal predicate.",
+    "PN-EP-POSS.2SG голова-POSS.3SG больной",
+    "‘У Васи болит голова’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "have#illness#",
+    "болеть-2",
+    "mǫšǝtti",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "pet'a-j-en grip mǫš-ǝn mǫšǝt-ǝλ",
+    "PN-EP-POSS.2SG flu illness-LOC be_ill-NPST[3SG]",
+    "‘Petja has the flu.’",
+    "Some speakers disallow overt expression of Y.",
+    "PN-EP-POSS.2SG грипп болезнь-LOC болеть-NPST[3SG]",
+    "‘Петя болеет гриппом’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "be_afraid",
+    "бояться",
+    "păλti",
+    "NOM",
+    "NOMewelt",
+    "Y",
+    "NOM_NOMewelt",
+    "petˊa-j-en amp-ǝλ ewǝλt păλ",
+    "PN-EP-POSS.2SG dog-POSS.3SG from be_afraid.NPST[3SG]",
+    "‘Petja is afraid of the dog.’",
+    "",
+    "PN-EP-POSS.2SG собака-POSS.3SG от бояться.NPST[3SG]",
+    "‘Петя боится собаки’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "throw",
+    "бросить",
+    "wǒśkəti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "petˊa-j-en kew wǒśkə-s",
+    "PN-EP-POSS.2SG stone throw-PST[3SG]",
+    "‘Petja threw a stone.’",
+    "",
+    "PN-EP-POSS.2SG камень бросить-PST[3SG]",
+    "‘Петя бросил камень’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "have_enough",
+    "быть достаточно",
+    "tărəmti + PASS",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "petˊa-j-en wŏχ-ǝn tărəm-λ-a",
+    "PN-EP-POSS.2SG money-LOC suffice-NPST-PASS[3SG]",
+    "‘Petja has enough money.’",
+    "This is a passive construction, more natural here (cf. 56 for an active construction).",
+    "PN-EP-POSS.2SG деньги-LOC хватать-NPST-PASS[3SG]",
+    "‘Петя обеспечен деньгами’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "resemble",
+    "быть похожим",
+    "maŋǝn tăjti",
+    "*",
+    "*",
+    "*",
+    "",
+    "petˊa-j-en śat'śaś-ǝλ maŋǝn tăj-ǝλ",
+    "PN-EP-POSS.2SG grandfather-POSS.3SG outlook have-NPST[3SG]",
+    "‘Petja resembles his grandfather.’",
+    "Not included in the database because Y is expressed as an NP-internal modifier.",
+    "PN-EP-POSS.2SG дедушка-POSS.3SG облик иметь-NPST[3SG]",
+    "‘Петя похож на своего дедушку’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "believe",
+    "верить",
+    "ewǝλti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "petˊa-j-en waśa-j-eλ-a ewǝλ",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG-DAT believe.NPST[3SG]",
+    "‘Petja believes Vasja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG-DAT верить.NPST[3SG]",
+    "‘Петя верит Васе’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "take",
+    "взять",
+    "wŭti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "petˊa-j-en (nŏrǝm ewǝλt) kinška wŭ-s",
+    "PN-EP-POSS.2SG (shelf from) book take-PST[3SG]",
+    "‘Petja took a book from the shelf.’",
+    "",
+    "PN-EP-POSS.2SG (полка от) книга взять-PST[3SG]",
+    "‘Петя взял (с полки) книгу’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "see",
+    "видеть",
+    "kǎλti",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pet’a-j-en-a χɔt kǎλ-λ",
+    "PN-EP-POSS.2SG-DAT house be.visible-NPST[3SG]",
+    "‘The house is visible to Petja.’",
+    "",
+    "PN-EP-POSS.2SG-DAT дом быть.видно-NPST[3SG]",
+    "‘Пете виден дом’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "influence",
+    "влиять",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "encounter",
+    "встречаться",
+    "wǫjtantti",
+    "NOM",
+    "NOMpila",
+    "Y",
+    "NOM_NOMpila",
+    "pet’a-j-en waśa-j-əλ piλ-a wǫjtantə-s",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG with-DAT meet-PST[3SG]",
+    "‘Petja encountered Vasja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG с-DAT встретить-PST[3SG]",
+    "‘Петя встретился с Васей’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "enter",
+    "входить ",
+    "λŏŋti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pet’a-j-en χɔt-a λŏŋ-əs",
+    "PN-EP-POSS.2SG house-DAT enter-PST[3SG]",
+    "‘Petja entered the house.’",
+    "",
+    "PN-EP-POSS.2SG дом-DAT войти-PST[3SG]",
+    "‘Петя вошел в дом’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "win",
+    "выиграть",
+    "nŏχ pitti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en waśa-j-ǝλ šaχmat-ǝn nŏχ pit-s-ǝλλe",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG chess-LOC upward fall-PST-3SG.SO",
+    "‘Petja won over Vasja at chess.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG шахматы-LOC вверх падать-PST-3SG.SO",
+    "‘Петя выиграл у Васи в шахматы’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "go_out",
+    "выходить",
+    "ԑtti",
+    "NOM",
+    "NOMewelt",
+    "Y",
+    "NOM_NOMewelt",
+    "pet’a-j-en χɔt ewǝλt kim ԑt-əs",
+    "PN-EP-POSS.2SG house from outside go.out-PST[3SG]",
+    "‘Petja went out of the house.’",
+    "",
+    "PN-EP-POSS.2SG дом от наружу выйти-PST[3SG]",
+    "‘Петя вышел из дома’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "drive",
+    "гнать",
+    "wɔšitti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "petr-en wǔλǝ-t wɔšit-ǝλ",
+    "PN-POSS.2SG deer-PL drive-NPST[3SG]",
+    "‘Petja is driving the reindeer.’",
+    "",
+    "PN-POSS.2SG олень-PL гнать-NPST[3SG]",
+    "‘Петр гонит оленей’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "bend",
+    "гнуть",
+    "mɛnši",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+<<<<<<< HEAD
+    "obsaa-n dam-ittʃa dʒall-i-s-e",
+    "PN-NOM branch-DEF.ABS bend-EP-CAUS-3SG.MPFV",
+    "‘Obsa bent the branch.’",
+    "",
+    "",
+    "",
+=======
+    "pet’a-j-en nŭw mɛnš-əs",
+    "PN-EP-POSS.2SG branch bend-PST[3SG]",
+    "‘Petja bent the branch.’",
+    "",
+    "PN-EP-POSS.2SG ветка гнуть-PST[3SG]",
+    "‘Петя согнул ветку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "West Central Oromo",
     "tell",
     "говорить",
     "dʒeɗa",
+=======
+    "Kazym Khanty",
+    "tell",
+    "говорить",
+    "lŏpti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "INS",
     "Y",
+<<<<<<< HEAD
     "NOM_INS",
     "obsaa-n tolaa-ɗaan \"...\" dʒeɗ-e",
     "PN-NOM PN-INS … say-3SG.M.PFV",
@@ -58820,64 +65695,122 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "NOM_DAT",
+    "pet’a-j-en maša-j-en-a lŏp-ǝs: …",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-DAT tell-PST[3SG]",
+    "‘Petja told Maša: ...’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-DAT сказать-PST[3SG]",
+    "‘Петя сказал Маше: ...’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "hold",
     "держать",
     "k'abata",
+=======
+    "Kazym Khanty",
+    "hold",
+    "держать",
+    "jɔšən tǎjti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n kitaaba k'ab-at-ee dʒir-a",
     "PN-NOM book.ABS hold-MID-PFV.CONV AUX-3SG.M.NPST",
     "‘Obsa is holding a book.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en kinška jɔš-ən tǎj-ǝλ",
+    "PN-EP-POSS.2SG book hand-LOC have-NPST[3SG]",
+    "‘Petja is holding a book in his hands.’",
+    "",
+    "PN-EP-POSS.2SG книга рука-LOC иметь-NPST[3SG]",
+    "‘Петя держит в руках книгу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "catch_up",
     "догнать",
     "k'ak'k'abata",
+=======
+    "Kazym Khanty",
+    "catch_up",
+    "догнать",
+    "ԑλtǝ jŏχǝtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n boontuu k'ak'k'ab-at-e",
     "PN-NOM PN.ABS catch_up-MID-3SG.M.PFV",
     "‘Obsa caught up with Bontu.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en maša-j-ǝλ ԑλtǝ jŏχǝt-s-ǝλλe",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG from_behind come-PST-3SG.SO",
+    "‘Petja caught up with Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG сзади прийти-PST-3SG.SO",
+    "‘Петя догнал Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "milk",
     "доить",
     "elma",
+=======
+    "Kazym Khanty",
+    "milk",
+    "доить",
+    "pǫsti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n saʔ-ittii elm-e",
     "PN-NOM cow-DEF.ABS milk-3SG.M.PFV",
     "‘Obsa milked the cow.’",
     "",
     "",
     "",
+=======
+    "maša-j-en mis-ǝλ pǫsǝ-s-ǝλλe",
+    "PN-EP-POSS.2SG cow-POSS.3SG milk-PST-3SG.SO",
+    "‘Petja milked the cow.’",
+    "",
+    "PN-EP-POSS.2SG корова-POSS.3SG доить-PST-3SG.SO",
+    "‘Маша подоила корову’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "reach",
     "достичь",
@@ -58892,10 +65825,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "reach",
+    "достичь",
+    "jŏχǝtti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pet’a-j-en imǝλtijǝn jŏχan kimλ-a śi jŏχǝt-s",
+    "PN-EP-POSS.2SG finally river bank-DAT FOC come-PST[3SG]",
+    "‘Finally, Petja reached the riverbank.’",
+    "",
+    "PN-EP-POSS.2SG наконец река берег-DAT FOC прийти-PST[3SG]",
+    "‘Наконец Петя достиг берега реки’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "touch",
     "дотронуться",
@@ -58910,10 +65860,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "touch",
+    "дотронуться",
+    "χɔjti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "petr-en χɔt pitǝr-a χɔj-ǝs",
+    "PN-POSS.2SG house wall-DAT touch-PST[3SG]",
+    "‘Petja touched the wall.’",
+    "",
+    "PN-POSS.2SG дом стена-DAT дотронуться-PST[3SG]",
+    "‘Петя дотронулся до стены’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "fight",
     "драться",
@@ -58928,10 +65895,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "fight",
+    "драться",
+    "kŭlaśti",
+    "NOM",
+    "NOMpila",
+    "Y",
+    "NOM_NOMpila",
+    "pet’a-j-en waśa-j-en piλ-a kŭlaś-ǝλ",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG with-DAT fight-NPST[3SG]",
+    "‘Petja is fighting with Vasja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG с-DAT драться-NPST[3SG]",
+    "‘Петя дерется с Васей’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_friends",
     "дружить",
@@ -58946,10 +65930,27 @@ const fullData = [
     "Non-verbal predicate.",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_friends",
+    "дружить",
+    "λǫχǝs wԑrti",
+    "NOM",
+    "NOMpila",
+    "Y",
+    "NOM_NOMpila",
+    "pet’a-j-en waśa-j-en piλ-a λǫχǝs wԑr-λ-ǝt",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG with-DAT friend make-NPST-3PL",
+    "‘Petja is friends with Vasja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG с-DAT друг делать-NPST-3PL",
+    "‘Петя с Васей дружат’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "think",
     "думать",
@@ -58964,64 +65965,129 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "think",
+    "думать",
+    "nǫmǝsti",
+    "NOM",
+    "NOMolenen",
+    "Y",
+    "NOM_NOMolenen",
+    "pet’a-j-en maša-j-en ɔλǝŋǝn nǫmǝs-ǝλ",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG about think-NPST[3SG]",
+    "‘Petja is thinking about Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG про думать-NPST[3SG]",
+    "‘Петя думает о Маше’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "eat",
     "есть",
     "ɲaata",
+=======
+    "Kazym Khanty",
+    "eat",
+    "есть",
+    "λԑti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n appilii ɲaat-e",
     "PN-NOM apple.ABS eat-3SG.M.PFV",
     "‘Obsa ate an apple.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en ńań λԑ-λ",
+    "PN-EP-POSS.2SG bread eat-NPST[3SG]",
+    "‘Petja is eating bread.’",
+    "",
+    "PN-EP-POSS.2SG хлеб есть-NPST[3SG]",
+    "‘Петя ест хлеб’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "fry",
     "жарить",
     "biltʃeessa",
+=======
+    "Kazym Khanty",
+    "fry",
+    "жарить",
+    "šarǝti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "gurbaa-n k'urt'umm-ittʃa biltʃ-eess-e",
     "boy-NOM fish-DEF.ABS fry-CAUS-3SG.M.PFV",
     "‘The boy fried the fish’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en χǔλ šarǝt-ǝs",
+    "PN-EP-POSS.2SG fish fry-PST[3SG]",
+    "‘Petja fried the fish.’",
+    "",
+    "PN-EP-POSS.2SG рыба жарить-PST[3SG]",
+    "‘Петя пожарил рыбу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "wait",
     "ждать",
     "eega",
+=======
+    "Kazym Khanty",
+    "wait",
+    "ждать",
+    "λawǝλti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n tolaa eeg-aa dʒir-a",
     "PN-NOM PN.ABS wait-PROG AUX-3SG.M.NPST",
     "‘Obsa is waiting for Tola.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en maša-j-ǝλ λawǝλ-λ",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG wait-NPST[3SG]",
+    "‘Petja is waiting for Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG ждать-NPST[3SG]",
+    "‘Петя ждет Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "forget",
     "забывать",
@@ -59036,10 +66102,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "forget",
+    "забывать",
+    "jŏrԑmǝti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en wan jǫš-ǝλ jŏrԑmǝ-s-λe",
+    "PN-EP-POSS.2SG short road-POSS.3SG forget-PST-3SG.SO",
+    "‘Petja forgot about the short road.’",
+    "",
+    "PN-EP-POSS.2SG короткий дорога-POSS.3SG забыть-PST-3SG.SO",
+    "‘Петя забыл о короткой дороге’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "depend",
     "зависеть",
@@ -59054,28 +66137,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "depend",
+    "зависеть",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "call",
     "звать",
     "waammata",
+=======
+    "Kazym Khanty",
+    "call",
+    "звать",
+    "wɔχti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n boontuu waamm-at-e",
     "PN-NOM PN.ABS call-MID-3SG.M.PFV",
     "‘Obsa called Bontu.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en waśa-j-ǝλ wɔχ-ǝs",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG call-PST[3SG]",
+    "‘Petja called Vasja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG звать-PST[3SG]",
+    "‘Петя позвал Васю’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "get_to_know",
     "знакомиться",
@@ -59090,28 +66206,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "get_to_know",
+    "знакомиться",
+    "wǫjtantti",
+    "NOM",
+    "NOMpila",
+    "Y",
+    "NOM_NOMpila",
+    "pet’a-j-en maša-j-ǝλ piλ-a tǫńaλ oλ wǫjtant-ǝs",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG with-DAT last_year year meet-PST[3SG]",
+    "‘Petja got to know Maša last year.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG c-DAT в_прошлом_году год встретить-PST[3SG]",
+    "‘Петя познакомился с Машей в прошлом году’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "know",
     "знать ",
     "beeka",
+=======
+    "Kazym Khanty",
+    "know",
+    "знать ",
+    "wǫti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n boontuu beek-a",
     "PN-NOM PN.ABS know-3SG.M.IPFV",
     "‘Obsa knows Bontu.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en maša-j-en wǫ-λ-λe",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG know-NPST-3SG.SO",
+    "‘Petja knows Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG знать-NPST-3SG.SO",
+    "‘Петя знает Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "play#instrument#",
     "играть",
@@ -59126,10 +66275,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "play#instrument#",
+    "играть",
+    "jǒntti",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "pet’a-j-en nars_jŭχ-ǝn jŏnt-ǝλ",
+    "PN-EP-POSS.2SG nares_jux-LOC play-NPST[3SG]",
+    "‘Petja is playing the nares-jux.’",
+    "",
+    "PN-EP-POSS.2SG нарасъюх-LOC играть-NPST[3SG]",
+    "‘Петя играет на нарасъюхе’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "avoid",
     "избегать",
@@ -59144,28 +66310,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "avoid",
+    "избегать",
+    "χǒntǝtˊλǝti",
+    "NOM",
+    "NOMewelt",
+    "Y",
+    "NOM_NOMewelt",
+    "petr-en was’a-j-ǝλ ewǝλt χǒntǝtˊλ-ǝλ",
+    "PN-POSS.2SG PN-EP-POSS.3SG from avoid-NPST[3SG]",
+    "‘Petja avoids Vasja.’",
+    "",
+    "PN-POSS.2SG PN-EP-POSS.3SG от избегать-NPST[3SG]",
+    "‘Петя избегает Васю’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "make",
     "изготовить",
     "hoddʒeta",
+=======
+    "Kazym Khanty",
+    "make",
+    "изготовить",
+    "wԑrti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n kijjoo hantuutaa hoddʒet-e",
     "PN-NOM trap.ABS mouse.GEN make-3SG.M.PFV",
     "‘Obsa made a mousetrap.’",
     "",
     "",
     "",
+=======
+    "petr-en śɔrkan wԑr-ǝs",
+    "PN-POSS.2SG trap make-PST[3SG]",
+    "‘Petja made a (small rodents) trap.’",
+    "",
+    "PN-POSS.2SG ловушка делать-PST[3SG]",
+    "‘Петя сделал ловушку (на мелких грызунов)’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "make_fun",
     "издеваться",
@@ -59188,10 +66387,35 @@ const fullData = [
     "have",
     "иметь",
     "k'aba",
+=======
+    "Kazym Khanty",
+    "make_fun",
+    "издеваться",
+    "ńŏsǝrλǝti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "petr-en waśa-j-ǝλ ńŏsǝrλ-ǝλ",
+    "PN-POSS.2SG PN-EP-POSS.3SG make_fun-NPST[3SG]",
+    "‘Petja is making fun of Vasja.’",
+    "The basic meaning of the verb is ‘to furrow’.",
+    "PN-POSS.2SG PN-EP-POSS.3SG издеваться-NPST[3SG]",
+    "‘Петя издевается над Васей’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "have",
+    "иметь",
+    "tǎjti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "nam-ittʃ-i konkolaataa k'ab-a",
     "man-DEF-NOM car.ABS have-3SG.M.IPFV",
     "‘The man has a car.’",
@@ -59206,38 +66430,80 @@ const fullData = [
     "look_for",
     "искать",
     "barbaada",
+=======
+    "petr-en mašina tǎj-ǝλ",
+    "PN-POSS.2SG car have-NPST[3SG]",
+    "‘Petja has a car.’",
+    "",
+    "PN-POSS.2SG машина иметь-NPST[3SG]",
+    "‘У Пети есть машина’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "look_for",
+    "искать",
+    "kǎnti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n furtuu-wwan isaa barbaad-aa dʒir-a  ",
     "PN-NOM key-PL.ABS 3SG.M.POSS look_for-PROG AUX-3SG.M.NPST",
     "‘Obsa is looking for his keys,’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en tǒman-λ-aλ kǎn-ǝλ",
+    "PN-EP-POSS.2SG key-PL-POSS.3SG look_for-NPST[3SG]",
+    "‘Petja is looking for his keys.’",
+    "",
+    "PN-EP-POSS.2SG ключ-PL-POSS.3SG искать-NPST[3SG]",
+    "‘Петя ищет ключи’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "paint",
     "красить",
     "halluu diba",
+=======
+    "Kazym Khanty",
+    "paint",
+    "красить",
+    "ɔλǝpǝn nԑrti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n dallaa sana halluu dib-e",
     "PN-NOM fence.ABS that.ABS color paint-3SG.M.PFV",
     "‘Obsa painted the fence.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en χɔp-ǝλ ɔλǝp-ǝn nԑr-s-ǝλλe",
+    "PN-EP-POSS.2SG boat-POSS.3SG paint-LOC smear-PST-3SG.SO",
+    "‘Petja painted the boat.’",
+    "",
+    "PN-EP-POSS.2SG лодка-POSS.3SG краска-LOC мазать-PST-3SG.SO",
+    "‘Петя покрасил лодку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "bite",
     "кусать",
@@ -59270,46 +66536,113 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "bite",
+    "кусать",
+    "pǒrԑmǝti + PASS",
+    "LOC",
+    "NOM",
+    "X",
+    "LOC_NOM",
+    "tǎm amp-ǝn pet’a-j-en pǒrԑm-ǝs-i",
+    "this dog-LOC PN-EP-POSS.2SG bite-PST-PASS[3SG]",
+    "‘This dog bit Petja.’",
+    "This is a passive construction.",
+    "этот собака-LOC PN-EP-POSS.2SG кусать-PST-PASS[3SG]",
+    "‘Эта собака укусила Петю’.",
     "",
     ""
   ],
   [
+    "Kazym Khanty",
+    "forfeit",
+    "лишаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "West Central Oromo",
     "try_to_catch",
     "ловить",
     "k'abuuf jaala",
+=======
+    "Kazym Khanty",
+    "try_to_catch",
+    "ловить",
+    "katǝλti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "gurbaa-n adurr-ittii k'abuu-f jaal-aa dʒir-a",
     "boy-NOM cat-DEF.ABS catch.INF-to try-PROG AUX-3SG.M.NPST",
     "‘The boy is trying to catch the cat.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en kǎt’i-j-ǝλ katλ-əλ",
+    "PN-EP-POSS.2SG cat-EP-POSS.3SG try_to_catch-NPST[3SG]",
+    "‘Petja is trying to catch the cat.’",
+    "",
+    "PN-EP-POSS.2SG кошка-EP-POSS.3SG ловить-NPST[3SG]",
+    "‘Петя ловит кошку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "break",
     "ломать",
     "tʃ'aba",
+=======
+    "Kazym Khanty",
+    "break",
+    "ломать",
+    "mǫrǝtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n ulee tʃ'ab-s-e",
     "PN-NOM stick.ABS break-CAUS-3SG.M.PFV",
     "‘Obsa broke a stick.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en jǔχ šǫpa mǫrǝt-ǝs",
+    "PN-EP-POSS.2SG tree across break-PST[3SG]",
+    "‘Petja broke a stick in half.’",
+    "",
+    "PN-EP-POSS.2SG дерево поперек ломать-PST[3SG]",
+    "‘Петя сломал палку пополам’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "flatter",
     "льстить",
@@ -59324,28 +66657,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "flatter",
+    "льстить",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "love#person#",
     "любить-1",
     "dʒaallata",
+=======
+    "Kazym Khanty",
+    "love#person#",
+    "любить-1",
+    "sămǝŋa tǎjti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n boontuu dʒaallat-a",
     "PN-NOM PN.ABS love-3SG.M.IPFV",
     "‘Obsa loves Bontu.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en maša-j-ǝλ săm-ǝŋ-a tǎj-ǝλ",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG heart-ATTR-DAT have-NPST[3SG]",
+    "‘Petja loves Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG сердце-ATTR-DAT иметь-NPST[3SG]",
+    "‘Петя любит Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "wave",
     "махать",
@@ -59360,10 +66726,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "wave",
+    "махать",
+    "jɔwǝλti",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "pet’a-j-en pa pԑlǝk-ǝn λǫp-ǝn jɔwǝλ",
+    "PN-EP-POSS.2SG other side-LOC oar-LOC wave.NPST[3SG]",
+    "‘Petja is waving an oar on the other bank.’",
+    "",
+    "PN-EP-POSS.2SG другой сторона-LOC весло-LOC махать.NPST[3SG]",
+    "‘Петя на другом берегу машет веслом’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "dream",
     "мечтать",
@@ -59378,46 +66761,95 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "dream",
+    "мечтать",
+    "nǫmǝsti",
+    "NOM",
+    "NOMolenen",
+    "Y",
+    "NOM_NOMolenen",
+    "pet’a-j-en jiλǝp mašina oλǝŋǝn nǫmǝs-ǝλ",
+    "PN-EP-POSS.2SG new car about think-NPST[3SG]",
+    "‘Petja is dreaming of a new car.’",
+    "",
+    "PN-EP-POSS.2SG новый машина о думать-NPST[3SG]",
+    "‘Петя мечтает о новой машине’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "wash",
     "мыть",
     "ɗik'a",
+=======
+    "Kazym Khanty",
+    "wash",
+    "мыть",
+    "λˊǒχǝtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n waantʃ-ittʃa ɗik'-e",
     "PN-NOM cup-DEF.ABS wash-3SG.M.PFV",
     "‘Obsa washed the cup.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en an-ǝλ λˊǒχǝt-ǝs",
+    "PN-EP-POSS.2SG cup-POSS.3SG wash-PST[3SG]",
+    "‘Petja washed the cup.’",
+    "",
+    "PN-EP-POSS.2SG чашка-POSS.3SG мыть-PST[3SG]",
+    "‘Петя вымыл чашку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "put_on",
     "надевать",
     "fuffata",
+=======
+    "Kazym Khanty",
+    "put_on",
+    "надевать",
+    "λǫmǝtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n surree uffat-e",
     "PN-NOM trousers.ABS put_on-3SG.M.PFV",
     "‘Obsa put on trousers.’",
     "",
     "",
     "",
+=======
+    "maša-j-en jɛrnas λǫmǝt-ǝs",
+    "PN-EP-POSS.2SG dress put_on-PST[3SG]",
+    "‘Maša put on her dress.’",
+    "",
+    "PN-EP-POSS.2SG платье надеть-PST[3SG]",
+    "‘Маша надела платье’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_called",
     "называться",
@@ -59432,10 +66864,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_called",
+    "называться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "tǎm pǒrmǝs-en nԑm-ǝλ kɔmpas",
+    "this thing-POSS.2SG name-POSS.3SG compass",
+    "‘This thing is called a compass.’",
+    "Not included in the database because 1) X is expressed as an NP-internal modifier and 2) Y is expressed as a (non-verbal) predicate (not an argument).",
+    "этот вещь-POSS.2SG имя-POSS.3SG компас",
+    "‘Эта вещь называется компас’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "punish",
     "наказывать",
@@ -59450,10 +66899,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "punish",
+    "наказывать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "aś-eλ pǒχ-ǝλ λǒst-ǝs-λe",
+    "father-POSS.3SG son-POSS.3SG slap-PST-3SG.SO",
+    "‘Petja slapped his son.’",
+    "Not included in the database because this translation is semantically inaccurate.",
+    "отец-POSS.3SG сын-POSS.3SG шлепать-PST-3SG.SO",
+    "‘Отец отшлепал сына’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "attack",
     "напасть",
@@ -59468,22 +66934,55 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "attack",
+    "напасть",
+    "nǎpǝtti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pǔpi weλpǝs χǫ-j-a nǎpt-ǝs",
+    "bear hunt man-EP-DAT attack-PST[3SG]",
+    "‘A bear attacked a fisherman.’",
+    "",
+    "медведь охота мужчина-EP-DAT напасть-PST[3SG]",
+    "‘Медведь напал на охотника’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "fill#intr#",
     "наполняться",
     "guuta",
+=======
+    "Kazym Khanty",
+    "fill#intr#",
+    "наполняться",
+    "tekǝnti + PASS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
-    "INS",
+    "LOC",
     "Y",
+<<<<<<< HEAD
     "NOM_INS",
     "baald-ittʃ-i biʃaan-iin guut-e",
     "bucket-DEF-NOM water-INS fill-3SG.M.PFV ",
+=======
+    "NOM_LOC",
+    "wetra-j-en jiŋ(k)-ǝn tekǝn-s-i",
+    "bucket-EP-POSS.2SG water-LOC fill-PST-PASS[3SG]",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘The bucket filled with water.’",
+    "This is a passive construction.",
+    "ведро-EP-POSS.2SG вода-LOC наполняться-PST-PASS[3SG]",
+    "‘Ведро наполнилось водой’.",
     "",
+<<<<<<< HEAD
     "",
     "",
     "",
@@ -59494,20 +66993,39 @@ const fullData = [
     "find",
     "находить",
     "argata",
+=======
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "find",
+    "находить",
+    "wǫjǝtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n furtuu isaa arg-at-e",
     "PN-NOM key.ABS 3SG.M.POSS see-MID-3SG.M.PFV",
     "‘Obsa found his keys.’",
     "",
     "",
     "",
+=======
+    "petr-en λǫp-ǝλ wǫjt-ǝs",
+    "PN-POSS.2SG oar-POSS.3SG find-PST[3SG]",
+    "‘Petja found his oar.’",
+    "",
+    "PN-POSS.2SG весло-POSS.3SG найти-PST[3SG]",
+    "‘Петя нашел свое весло’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_short",
     "недоставать",
@@ -59530,20 +67048,54 @@ const fullData = [
     "hate",
     "ненавидеть",
     "dʒibba",
+=======
+    "Kazym Khanty",
+    "be_short",
+    "недоставать",
+    "tărǝmti + NEG",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pet’a-j-en-a jaŋ šɔjt ǎn tǎrm-ǝλ",
+    "PN-EP-POSS.2SG-DAT ten rouble NEG suffice-NPST[3SG]",
+    "‘Petja is 10 roubles short.’",
+    "This is an active construction, more natural here (cf. 5 for the passive).",
+    "PN-EP-POSS.2SG-DAT десять рубль NEG хватать-NPST[3SG]",
+    "‘Пете не хватает 10 рублей’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "hate",
+    "ненавидеть",
+    "λǝkǝŋ εtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n tolaa ni dʒibb-a",
     "PN-NOM PN.ABS FOC hate-3SG.M.IPFV",
     "‘Obsa hates Tola.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en waśa-j-ǝλ λǝkǝŋ εt-λ-ǝλλe",
+    "PN-EP-POSS.SG PN-EP-POSS.3SG evil-ATTR go_out-NPST-3SG.SO",
+    "‘Petja hates Vasja.’",
+    "",
+    "PN-EP-POSS.SG PN-EP-POSS.3SG злой-ATTR выйти-NPST-3SG.SO",
+    "‘Петя ненавидит Васю’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "like",
     "нравиться",
@@ -59558,10 +67110,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "like",
+    "нравиться",
+    "mǫstǝti",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "Pet’a-j-en-a mǫst-əλ śi jɛrnas-λ",
+    "PN-EP-POSS.2SG-DAT like-NPST[3SG] FOC shirt-POSS.3SG",
+    "‘Petja likes this shirt.’",
+    "",
+    "PN-EP-POSS.2SG-DAT нравиться-NPST[3SG] FOC рубашка-POSS.3SG",
+    "‘Пете нравится эта рубашка’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "need",
     "нуждаться",
@@ -59576,10 +67145,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "need",
+    "нуждаться",
+    "mɔsti",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "pet’a-j-en-a wǒχ mɔs-ǝλ",
+    "PN-EP-POSS.2SG-DAT money be_necessary-NPST[3SG]",
+    "‘Petja needs money.’",
+    "",
+    "PN-EP-POSS.2SG-DAT деньги быть_нужным-NPST[3SG]",
+    "‘Пете нужны деньги’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "surround",
     "окружать",
@@ -59594,10 +67180,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "surround",
+    "окружать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "remain",
     "оставаться",
@@ -59620,38 +67223,88 @@ const fullData = [
     "answer",
     "отвечать",
     "deebii kenna",
+=======
+    "Kazym Khanty",
+    "remain",
+    "оставаться",
+    "χǎjǝλti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en jaŋ šɔjt-at χǎjλ-ǝs",
+    "PN-EP-POSS.2SG ten rouble-PL leave-PST",
+    "‘Petja has ten roubles left.’",
+    "It is not (yet) certain that this translation is semantically accurate.",
+    "PN-EP-POSS.2SG десять рубль-PL оставлять-PST",
+    "‘Петя оставил 10 рублей’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "answer",
+    "отвечать",
+    "jǒχi lǒpti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "DAT",
     "Y",
     "NOM_DAT",
+<<<<<<< HEAD
     "obsaa-n bar-siis-ittʃaa-f deebii kenn-e",
     "PN-NOM learn-CAUS-DEF-DAT answer.ABS give-3SG.M.PFV",
     "‘Obsa answered the teacher.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en uśit’el’-a jǒχi lǒp-ǝs",
+    "PN-EP-POSS.2SG teacher-DAT home say-PST[3SG]",
+    "‘Petja answered the teacher.’",
+    "",
+    "PN-EP-POSS.2SG учитель-DAT домой сказать-PST[3SG]",
+    "‘Петя ответил учителю’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "open",
     "открывать",
     "bana",
+=======
+    "Kazym Khanty",
+    "open",
+    "открывать",
+    "pǔnši",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n k'aruura ban-e",
     "PN-NOM can.ABS open-3SG.M.PFV",
     "‘Obsa opened a can.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en panka pǔnš-ǝs",
+    "PN-EP-POSS.2SG can open-PST[3SG]",
+    "‘Petja opened a can.’",
+    "",
+    "PN-EP-POSS.2SG банка открыть-PST[3SG]",
+    "‘Петя открыл банку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_different",
     "отличаться",
@@ -59666,10 +67319,27 @@ const fullData = [
     "Non-verbal predicate.",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_different",
+    "отличаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "fall_behind",
     "отстать",
@@ -59684,18 +67354,42 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "fall_behind",
+    "отстать",
+    "jǒχi χǎśti",
+    "NOM",
+    "NOMewelt",
+    "Y",
+    "NOM_NOMewelt",
+    "pet’a-j-en maša-j-ǝλ ewǝλt jǒχi χǎś-ǝs",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG from home remain-PST[3SG]",
+    "‘Petja fell behind Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG от домой остаться-PST[3SG]",
+    "‘Петя отстал от Маши’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "plough",
     "пахать",
     "k'ota",
+=======
+    "Kazym Khanty",
+    "plough",
+    "пахать",
+    "χirti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n laf-ittʃa k'ot-aa dʒir-a",
     "PN-NOM land-DEF.ABS plough-PROG AUX-3SG.M.NPST",
     "‘Obsa is ploughing the land.’",
@@ -59720,107 +67414,221 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "pet’a-j-en akarat-ǝλ χir-ǝλ",
+    "PN-EP-POSS.2SG garden-POSS.3SG dig-NPST[3SG]",
+    "‘Petja is digging his garden.’",
+    "This sentence is semantically slightly different from the stimulus.",
+    "PN-EP-POSS.2SG огород-POSS.3SG копать-NPST[3SG]",
+    "‘Петя копает огород’.",
     "",
     ""
   ],
   [
+    "Kazym Khanty",
+    "smell",
+    "пахнуть",
+    "awti",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "maša-j-en jɔš-ŋəλ ԑsǝm jiŋ(k)-ǝn awə-λ-əŋən",
+    "PN-EP-POSS.2SG hand-POSS[DU] udder water-LOC smell-NPST-3DU",
+    "‘Maša’s hands smell of gasoline.’",
+    "",
+    "PN-EP-POSS.2SG рука-POSS[DU] вымя вода-LOC пахнуть-NPST-3DU",
+    "‘Машины руки пахнут молоком’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "West Central Oromo",
     "cross",
     "пересечь",
     "k'at't'aamura",
+=======
+    "Kazym Khanty",
+    "cross",
+    "пересечь",
+    "mănti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n daandii k'at't'aamur-e",
     "PN-NOM road.ABS cross-3SG.M.PFV",
     "‘Obsa crossed the road.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en jǫš šǫpa măn-ǝs",
+    "PN-EP-POSS.2SG road in_halves go-PST[3SG]",
+    "‘Petja crossed the road.’",
+    "",
+    "PN-EP-POSS.2SG дорога пополам идти-PST[3SG]",
+    "‘Петя перешел через дорогу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "sing",
     "петь",
     "sirba",
+=======
+    "Kazym Khanty",
+    "sing",
+    "петь",
+    "ariti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n sirba bareedaa sirb-e",
     "PN-NOM song.ABS beautiful.ABS sing-3SG.M.PFV",
     "‘Obsa sang a beautiful song.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en jǎm arn ari-j-ǝs",
+    "PN-EP-POSS.2SG good song sing-EP-PST[3SG]",
+    "‘Petja sang a beautiful song.’",
+    "",
+    "PN-EP-POSS.2SG хороший песня петь-EP-PST[3SG]",
+    "‘Петя спел красивую песню’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "write",
     "писать",
     "barreessa",
+=======
+    "Kazym Khanty",
+    "write",
+    "писать",
+    "χǎnši",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n t'alajaa barreess-e",
     "PN-NOM letter.ABS write-3SG.M.PFV",
     "‘Obsa wrote a letter.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en piśma χǎnš-ǝs",
+    "PN-EP-POSS.2SG letter write-PST[3SG]",
+    "‘Petja wrote a letter.’",
+    "",
+    "PN-EP-POSS.2SG письмо писать-PST[3SG]",
+    "‘Петя написал письмо’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "drink",
     "пить",
     "ɗuga",
+=======
+    "Kazym Khanty",
+    "drink",
+    "пить",
+    "jańśi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n aannan-ittʃa ɗug-e",
     "PN-NOM milk-DEF.ABS drink-3SG.M.PFV",
     "‘Obsa drank the milk.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en ԑsǝm jiŋk jańś-əs",
+    "PN-EP-POSS.2SG udder water drink-PST[3SG]",
+    "‘Petja drank the milk.’",
+    "",
+    "PN-EP-POSS.2SG вымя вода пить-PST[3SG]",
+    "‘Петя выпил молоко’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "melt",
     "плавить",
     "bak'sa",
+=======
+    "Kazym Khanty",
+    "melt",
+    "плавить",
+    "λǒλtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n liidii t'ik'k'oo tokko bak'-s-e",
     "PN-NOM lead.ABS small.ABS one melt-CAUS-3SG.M.PFV",
     "‘Obsa melted a piece of lead.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en λǒλpi λǒλt-ǝs",
+    "PN-EP-POSS.2SG lead melt-PST[3SG]",
+    "‘Petja melted a piece of lead.’",
+    "",
+    "PN-EP-POSS.2SG свинец плавить-PST[3SG]",
+    "‘Петя расплавил свинец’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "match",
     "подходить",
     "wal sima",
+=======
+    "Kazym Khanty",
+    "match",
+    "подходить",
+    "mǫstǝti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABSwaddzin",
     "Y",
+<<<<<<< HEAD
     "NOM_ABSwaddzin",
     "sak'k'ii-n kun uffata=koo waddʒin wal sim-a",
     "belt-NOM this.NOM dress=1SG.POSS with each_other match-3SG.M.IPFV",
@@ -59828,46 +67636,88 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "NOM_DAT",
+    "tǎm ŏχšam-en ma jԑrnas-ɛm-a most-ǝλ",
+    "this headscarf-POSS.2SG I dress-POSS.1SG-DAT fit-NPST[3SG]",
+    "‘This headscarf goes well with my dress.’",
+    "",
+    "этот платок-POSS.2SG я платье-POSS.1SG-DAT годиться-NPST[3SG]",
+    "‘Этот платок подходит к моему платью’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "leave",
     "покидать",
     "gadi ɗiisa",
+=======
+    "Kazym Khanty",
+    "leave",
+    "покидать",
+    "χǎjti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n magaalaa keessa-tti ɗal-at-e gadi ɗiis-e ",
     "PN-NOM city.ABS in-LOC give_birth-MID-3SG.M.PFV down leave-3SG.M.PFV",
     "‘Obsa left his native city.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en rǫt wɔš-ǝλ χǎj-s-ǝλλe",
+    "PN-EP-POSS.2SG native town-POSS.3SG leave-PST-3SG.SO",
+    "‘Petja left his native city.’",
+    "",
+    "PN-EP-POSS.2SG родной город-POSS.3SG оставить-PST-3SG.SO",
+    "‘Петя оставил родной город’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "cover",
     "покрывать",
     "uwwisa",
+=======
+    "Kazym Khanty",
+    "cover",
+    "покрывать",
+    "laŋkti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "afaa-n sun laf-ittʃa guutummaan uwwis-a",
     "carpet-NOM that.NOM space-DEF.ABS fully cover-3SG.M.IPFV",
     "‘The carpet fully covers the space.’",
     "",
     "",
     "",
+=======
+    "tăm laŋkǝp isa χɔt_χǎri laŋk-s-ǝλλe",
+    "this coverlet totally floor cover-PST-3SG.SO",
+    "‘The coverlet covered the whole floor.’",
+    "",
+    "этот покрывало совсем пол покрыть-PST-3SG.SO",
+    "‘Это покрывало покрыло весь пол’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "remember",
     "помнить",
@@ -59882,10 +67732,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "remember",
+    "помнить",
+    "nǫmti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en rǫt χɔt-ǝλ jǎma nǫm-λ-ǝλλe",
+    "PN-EP-POSS.2SG native house-POSS.3SG well remember-NPST-3SG.SO",
+    "‘Petja remembers his native home well.’",
+    "",
+    "PN-EP-POSS.2SG родной дом-POSS.3SG хороший помнить-NPST-3SG.SO",
+    "‘Петя хорошо помнит родной дом’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "help",
     "помочь",
@@ -59908,20 +67775,54 @@ const fullData = [
     "understand#language#",
     "понимать",
     "ɗagaʔa",
+=======
+    "Kazym Khanty",
+    "help",
+    "помочь",
+    "ńɔtti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pet’a-j-en maša-j-en-a ńɔt-ǝs",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-DAT help-PST[3SG]",
+    "‘Petja helped Maša.’",
+    "The transitive pattern is also possible with this verb.",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-DAT помочь-PST[3SG]",
+    "‘Петя помог Маше’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "understand#language#",
+    "понимать",
+    "χǫλti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "boontuu-n afaan faransaayii ɗageessi",
     "PN-NOM language.ABS France.GEN hear.3SG.F.IPFV",
     "‘Bontu understands French.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en χǎnti jasǝŋ χǫλ",
+    "PN-EP-POSS.2SG Khanty language hear.NPST[3SG]",
+    "‘Petja understands the Khanty language.’",
+    "",
+    "PN-EP-POSS.2SG хантыйский язык слышать.NPST[3SG]",
+    "‘Петя понимает хантыйский язык’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "hit#target#",
     "попасть",
@@ -59936,17 +67837,41 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "hit#target#",
+    "попасть",
+    "χɔjti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pǎλǝŋ_tŭt pet’a-j-en χɔt-a χɔj-ǝs",
+    "lightning PN-EP-POSS.2SG house-DAT get-PST[3SG]",
+    "‘Lightning struck Petja’s house.’",
+    "",
+    "молния PN-EP-POSS.2SG дом-DAT попасть-PST[3SG]",
+    "‘Молния попала в Петин дом’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "cut_oneself",
     "порезаться",
     "of mura",
+=======
+    "Kazym Khanty",
+    "cut_oneself",
+    "порезаться",
+    "ewtantti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
-    "INS",
+    "LOC",
     "Y",
+<<<<<<< HEAD
     "NOM_INS",
     "obsaa-n k'arabaa-ɗaan of mur-e",
     "PN-NOM razor-INS himself cut-3SG.M.PFV",
@@ -59954,10 +67879,20 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "NOM_LOC",
+    "pet’a-j-en tŭš λǒrt-ti ǒt-ǝλ-ǝn ewtant-ǝs",
+    "PN-EP-POSS.2SG beard cut-NFIN.NPST thing-POSS.3SG-LOC cut_oneself-PST[3SG]",
+    "‘Petja cut himself with a razor.’",
+    "",
+    "PN-EP-POSS.2SG борода стричь-NFIN.NPST вещь-POSS.3SG-LOC резаться-PST[3SG]",
+    "‘Петя порезался бритвой’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "get_stuck",
     "прилипать",
@@ -59972,10 +67907,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "get_stuck",
+    "прилипать",
+    "χǎnti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "an-ǝλ pǎsan-a χǎn-s",
+    "cup-POSS.3SG table-DAT stick-PST[3SG]",
+    "‘The glass got stuck to the table.’",
+    "",
+    "чашка-POSS.3SG стол-DAT прилипнуть-PST[3SG]",
+    "‘Чашка прилипла к столу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "lose#game#",
     "проиграть",
@@ -59998,9 +67950,34 @@ const fullData = [
     "be_glad",
     "радоваться",
     "gammada",
+=======
+    "Kazym Khanty",
+    "lose#game#",
+    "проиграть",
+    "nŏχ pitti + PASS",
     "NOM",
     "LOC",
     "Y",
+    "NOM_LOC",
+    "pet’a-j-en waśa-j-en-ǝn nŏχ pit-s-a",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-LOC upward fall-PST-PASS[3SG]",
+    "‘Petja lost to Vasja.’",
+    "This is a passive construction.",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-LOC вверх падать-PST-PASS[3SG]",
+    "‘Петя проиграл Васе’.",
+    "",
+    ""
+  ],
+  [
+    "Kazym Khanty",
+    "be_glad",
+    "радоваться",
+    "amǝtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "NOM",
+    "LOC",
+    "Y",
+<<<<<<< HEAD
     "NOM_LOC",
     "obsaa-n t'alajaa sana-tti gammad-e",
     "PN-NOM letter.ABS that-LOC please-3SG.M.PFV",
@@ -60008,10 +67985,20 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "NOM_DAT",
+    "pet’a-j-en piśma-j-a amt-ǝs",
+    "PN-EP-POSS.2SG letter-EP-DAT rejoice-PST[3SG]",
+    "‘Petja was glad about the letter.’",
+    "",
+    "PN-EP-POSS.2SG письмо-EP-DAT радоваться-PST[3SG]",
+    "‘Петя обрадовался письму’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "speak",
     "разговаривать",
@@ -60026,28 +68013,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "speak",
+    "разговаривать",
+    "pǒtǝrtti",
+    "NOM",
+    "NOMpila",
+    "Y",
+    "NOM_NOMpila",
+    "pet’a-j-en maša-j-en piλa pǒtǝrt-ǝλ",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG with speak-NPST[3SG]",
+    "‘Petja is speaking with Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG с разговаривать-NPST[3SG]",
+    "‘Петя разговаривает с Машей’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "give_birth",
     "рожать",
     "daʔa",
+=======
+    "Kazym Khanty",
+    "give_birth",
+    "рожать",
+    "tăjti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "boontuu-n ilma deesse",
     "PN-NOM son.ABS give_birth.3SG.F.PFV",
     "‘Bontu gave birth to a son.’",
     "",
     "",
     "",
+=======
+    "maša-j-en pǒχ tăj-əs",
+    "PN-EP-POSS.2SG son have-PST[3SG]",
+    "‘Maša gave birth to a son.’",
+    "",
+    "PN-EP-POSS.2SG сын иметь-PST[3SG]",
+    "‘Маша родила сына’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "drop",
     "ронять",
@@ -60080,10 +68100,45 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "drop",
+    "ронять",
+    "iλ pawǝtti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en an iλ pawǝt-ǝs",
+    "PN-EP-POSS.2SG cup down drop-PST[3SG]",
+    "‘Petja dropped the cup.’",
+    "",
+    "PN-EP-POSS.2SG чашка вниз уронить-PST[3SG]",
+    "‘Петя уронил чашку’.",
     "",
     ""
   ],
   [
+    "Kazym Khanty",
+    "govern",
+    "руководить",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "pet’a-j-en mŭŋ wɔš kǫśa-ew",
+    "PN-EP-POSS.2SG we village boss-POSS.1PL",
+    "‘Petja runs our village.’",
+    "Not included in the database because Y is expressed as an NP-internal modifier.",
+    "PN-EP-POSS.2SG мы поселок начальник-POSS.1PL",
+    "‘Петя руководит нашим поселком’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "West Central Oromo",
     "miss",
     "скучать",
@@ -60116,10 +68171,45 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "miss",
+    "скучать",
+    "mǎrԑmǝti",
+    "NOM",
+    "NOMtakla",
+    "Y",
+    "NOM_NOMtakla",
+    "pet’a-j-en maša-j-ǝλ takλa mǎrԑmǝ-s-i",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG without miss-PST-PASS[3SG]",
+    "‘Petja misses Maša.’",
+    "The verb is in the passive form.",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG без скучать-PST-PASS[3SG]",
+    "‘Петя соскучился без Маши’.",
     "",
     ""
   ],
   [
+    "Kazym Khanty",
+    "follow",
+    "следовать",
+    "šǫtši",
+    "NOM",
+    "NOMjupijen",
+    "Y",
+    "NOM_NOMjupijen",
+    "pet’a-j-en maša-j-ǝλ jŭpijǝn šǫt-ǝλ",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG behind go-NPST[3SG]",
+    "‘Petja follows Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG за идти-NPST[3SG]",
+    "‘Петя идет/ходит за Машей’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "West Central Oromo",
     "dismount",
     "слезать",
@@ -60134,28 +68224,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "dismount",
+    "слезать",
+    "(iλ) wɔχǝλti",
+    "NOM",
+    "NOMewelt",
+    "Y",
+    "NOM_NOMewelt",
+    "pet’a-j-en λɔw ewǝλt (iλ) wɔχλ-ǝs",
+    "PN-EP-POSS.2SG horse from (down) descend-PST[3SG]",
+    "‘Petja got down from the horse.’",
+    "",
+    "PN-EP-POSS.2SG лошадь от (вниз) спуститься-PST[3SG]",
+    "‘Петя слез с лошади’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "listen",
     "слушать",
     "ɗaggeeffata",
+=======
+    "Kazym Khanty",
+    "listen",
+    "слушать",
+    "χǫλǝntti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n raadijoo ɗaggeeffattʃ-aa dʒir-a",
     "PN-NOM radio.ABS listen-PROG AUX-3SG.M.NPST",
     "‘Obsa is listening to radio.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en ar χǫλǝnt-ǝλ",
+    "PN-EP-POSS.2SG song listen-NPST[3SG]",
+    "‘Petja is listening a song.’",
+    "",
+    "PN-EP-POSS.2SG песня слушать-NPST[3SG]",
+    "‘Петя слушает песню’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "obey",
     "слушаться",
@@ -60170,28 +68293,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "obey",
+    "слушаться",
+    "χǫλǝntti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "ńawrεm aŋke-λ-a χǫλǝnt-ǝλ",
+    "child mother-POSS.3SG-DAT listen-NPST[3SG]",
+    "‘Petja listens to his mother.’",
+    "",
+    "ребенок мать-POSS.3SG-DAT слушать-NPST[3SG]",
+    "‘Ребенок слушается маму’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "hear",
     "слышать",
     "ɗaggeeffata",
+=======
+    "Kazym Khanty",
+    "hear",
+    "слышать",
+    "χǫλti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n sirb-ittʃa ni ɗaggeeffat-a",
     "PN-NOM music-DEF.ABS FOC listen-3SG.M.IPFV",
     "‘Obsa listens/hears the song.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en amp χǒrtǝpsi χǫλ",
+    "PN-EP-POSS.2SG dog barking hear.NPST[3SG]",
+    "‘Petja hears the barking.’",
+    "",
+    "PN-EP-POSS.2SG собака лай слышать.NPST[3SG]",
+    "‘Петя слышит лай собаки’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "mix",
     "смешаться",
@@ -60206,10 +68362,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "mix",
+    "смешаться",
+    "rǔwǝtti",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "maw ԑsǝm jiŋ(k)-ǝn rŭwtǝs-ǝs",
+    "sweet udder water-LOC mix-PST[3SG]",
+    "‘A sweet dissolved into milk.’",
+    "",
+    "конфета вымя вода-LOC смешаться-PST[3SG]",
+    "‘Конфета размешалась в молоке’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "look",
     "смотреть",
@@ -60224,28 +68397,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "look",
+    "смотреть",
+    "wantti",
+    "NOM",
+    "NOMpela",
+    "Y",
+    "NOM_NOMpela",
+    "pet’a-j-en χot pελa want-ǝλ",
+    "PN-EP-POSS.2SG house at look-NPST[3SG]",
+    "‘Petja is looking at the house.’",
+    "",
+    "PN-EP-POSS.2SG дом к смотреть-NPST[3SG]",
+    "‘Петя смотрит на дом’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "take_off",
     "снимать",
     "baasa",
+=======
+    "Kazym Khanty",
+    "take_off",
+    "снимать",
+    "ԑŋχti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n ʃamizii isaa of irraa baas-e",
     "PN-NOM shirt.ABS 3SG.M.POSS self on.ABL take_off-3SG.M.PFV",
     "‘Obsa took off his shirt.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en jεrnas-λ ԑŋχ-ǝs",
+    "PN-EP-POSS.2SG shirt-POSS.3SG put_off-PST[3SG]",
+    "‘Petja took off his shirt.’",
+    "",
+    "PN-EP-POSS.2SG рубашка-POSS.3SG снять-PST[3SG]",
+    "‘Петя снял рубашку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "dream#sleeping#",
     "сниться",
@@ -60260,10 +68466,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "dream#sleeping#",
+    "сниться",
+    "wǫλmiti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en maša-j-ǝλ wǫλmi-s",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG see_in_dream-PST[3SG]",
+    "‘Petja dreams about Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG видеть_во_сне-PST[3SG]",
+    "‘Петя видел во сне Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "agree",
     "соглашаться",
@@ -60278,10 +68501,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "agree",
+    "соглашаться",
+    "χǫλmǝti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pet’a-j-en maša-j-ǝλ-a χǫλm-ǝs",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG-DAT heed-PST[3SG]",
+    "‘Petja heeded Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG-DAT прислушаться-PST[3SG]",
+    "‘Петя прислушался к Маше’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "have_a_quarrel",
     "ссориться",
@@ -60296,10 +68536,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "have_a_quarrel",
+    "ссориться",
+    "kǔtǝŋa jiti",
+    "NOM",
+    "NOMpila",
+    "Y",
+    "NOM_NOMpila",
+    "pet’a-j-en maša-j-ǝλ piλa kǔt-ǝŋ-a ji-s-ŋǝn",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG with gap-ATTR-DAT become-PST-3DU",
+    "‘Petja had a quarrel with Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.3SG с промежуток-ATTR-DAT стать-PST-3DU",
+    "‘Петя с Машей поссорились’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "cost",
     "стоить",
@@ -60314,10 +68571,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "cost",
+    "стоить",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "tǎm an-en tǝn-λ sɔt šɔjǝt",
+    "this cup-POSS.2SG price-POSS.3SG hundred rouble",
+    "‘This cup costs 100 roubles.’",
+    "Not included in the database because 1) X is expressed as an NP-internal modifier and 2) Y is expressed as a (non-verbal) predicate (not an argument).",
+    "этот чашка-POSS.2SG цена-POSS.3SG сто рубль",
+    "‘Эта чашка стоит 100 рублей’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "shoot_at",
     "стрелять",
@@ -60332,46 +68606,95 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "shoot_at",
+    "стрелять",
+    "pǒškan ewǝλt ԑsǝλti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en pǒškan ewǝλt tǒχλǝŋ_woj εsλ-ǝs pa an χɔj-ǝs",
+    "PN-EP-POSS.2SG gun from bird let_out-PST[3SG] ADD NEG hit-PST[3SG]",
+    "‘Petja shot at the bird, but he missed.’",
+    "",
+    "PN-EP-POSS.2SG ружье от птица выпустить-PST[3SG] ADD NEG попасть-PST[3SG]",
+    "‘Петя выстрелил в птицу, но не попал’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "pour",
     "сыпать",
     "nak'a",
+=======
+    "Kazym Khanty",
+    "pour",
+    "сыпать",
+    "pǒnti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n sukkaara burtʃ'uk'k'oo-tti nak'-e",
     "PN-NOM sugar.ABS glass-LOC pour-3SG.M.PFV",
     "‘Obsa poured sugar into a glass.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en an-λ-a sakkar pǒn-ǝs",
+    "PN-EP-POSS.2SG cup-POSS.3SG-DAT sugar put-PST[3SG]",
+    "‘Petja poured the sugar into the cup.’",
+    "",
+    "PN-EP-POSS.2SG чашка-POSS.3SG-DAT сахар класть-PST[3SG]",
+    "‘Петя положил сахар в чашку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "lose",
     "терять",
     "gata",
+=======
+    "Kazym Khanty",
+    "lose",
+    "терять",
+    "wǫtšǝti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n furtuu-wwan isaa gat-e",
     "PN-NOM key-PL.ABS 3SG.M.POSS lose-3SG.M.PFV",
     "‘Obsa lost his keys.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en λǫp-ǝt wǫtšǝ-s",
+    "PN-EP-POSS.2SG oar-PL lose-PST[3SG]",
+    "‘Petja lost his oars.’",
+    "",
+    "PN-EP-POSS.2SG весло-PL терять-PST[3SG]",
+    "‘Петя потерял весла’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "sink",
     "тонуть",
@@ -60386,82 +68709,163 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "sink",
+    "тонуть",
+    "šǫjλǝti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "jŭχ šǫp-ǝλ jiŋk-a šǫjλ-ǝs",
+    "wood piece-POSS.3SG water-DAT sink-PST[3SG]",
+    "‘The log sank in the water.’",
+    "",
+    "дерево кусок-POSS.3SG вода-DAT тонуть-PST[3SG]",
+    "‘Полено утонуло в воде’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "kill",
     "убивать",
     "addʒeesa",
+=======
+    "Kazym Khanty",
+    "kill",
+    "убивать",
+    "weλti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n tolaa addʒees-e",
     "PN-NOM PN.ABS kill-3SG.M.PFV",
     "‘Obsa killed Tola.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en waśa-j-en weλ-ǝs",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG kill-PST[3SG]",
+    "‘Petja killed Vasja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG убить-PST[3SG]",
+    "‘Петя убил Васю’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "hit",
     "ударить",
     "rukkuta",
+=======
+    "Kazym Khanty",
+    "hit",
+    "ударить",
+    "χǎtśǝti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n boontuu rukkut-e",
     "PN-NOM PN.ABS hit-3SG.M.PFV",
     "‘Obsa hit Bontu.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en waśa-j-en χǎtśǝ-s-λe",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG hit-PST-3SG.SO",
+    "‘Petja hit Vasja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG ударить-PST-3SG.SO",
+    "‘Петя ударил Васю’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "kiss",
     "целовать",
     "ɗungata",
+=======
+    "Kazym Khanty",
+    "kiss",
+    "целовать",
+    "mɔsǝλtǝti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n boontuu ɗungat-e",
     "PN-NOM PN.ABS kiss-3SG.M.PFV",
     "‘Obsa kissed Bontu.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en maša-j-en mɔsǝλtǝ-s-λe",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG kiss-PST-3SG.SO",
+    "‘Petja kissed Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG поцеловать-PST-3SG.SO",
+    "‘Петя поцеловал Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "read",
     "читать",
     "dubbisa",
+=======
+    "Kazym Khanty",
+    "read",
+    "читать",
+    "λǔŋǝtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n kitaaba bajeessa dubbis-e",
     "PN-NOM book.ABS good read-3SG.M.PFV",
     "‘Obsa read a good book.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en kinška-j-ǝλ λǔŋt-ǝs-λe",
+    "PN-EP-POSS.2SG book-EP-POSS.3SG read-PST-3SG.SO",
+    "‘Petja read an interesting book.’",
+    "",
+    "PN-EP-POSS.2SG книга-EP-POSS.3SG читать-PST-3SG.SO",
+    "‘Петя прочитал книгу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "move#bodypart#",
     "шевелить",
@@ -60476,10 +68880,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "move#bodypart#",
+    "шевелить",
+    "ńǒχaλti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pet’a-j-en λŭj-ǝλ ńǒχaλ-s-ǝλλe",
+    "PN-EP-POSS.2SG finger-POSS.3SG move-PST-3SG.SO",
+    "‘Petja moved his finger.’",
+    "",
+    "PN-EP-POSS.2SG палец-POSS.3SG шевелить-PST-3SG.SO",
+    "‘Петя пошевелил пальцем’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "respect",
     "уважать",
@@ -60494,10 +68915,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "respect",
+    "уважать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_squeamish",
     "брезговать",
@@ -60512,10 +68950,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_squeamish",
+    "брезговать",
+    "ŭkśǝmti",
+    "NOM",
+    "NOMewelt",
+    "Y",
+    "NOM_NOMewelt",
+    "petr-en χǫlεŋ an ewǝλt ŭkśǝm-ǝλ",
+    "PN-POSS.2SG dirty dishes from be_squeamish-NPST[3SG]",
+    "‘Petja is squeamish about dirty dishes.’",
+    "",
+    "PN-POSS.2SG грязный посуда от брезговать-NPST[3SG]",
+    "‘Петя брезгует грязной посудой’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_content",
     "быть довольным",
@@ -60530,10 +68985,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_content",
+    "быть довольным",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "fall_in_love",
     "влюбляться",
@@ -60548,10 +69020,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "fall_in_love",
+    "влюбляться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "trust",
     "доверять",
@@ -60566,10 +69055,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "trust",
+    "доверять",
+    "ewǝλti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "pet’a-j-en maša-j-en-a ewǝλ",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-DAT believe.NPST[3SG]",
+    "‘Petja trusts Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG-DAT верить.NPST[3SG]",
+    "‘Петя доверяет Маше’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "sympathise",
     "жалеть",
@@ -60584,17 +69090,41 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "sympathise",
+    "жалеть",
+    "šalitti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "petr-en aŋke-λ šalit-λ-ǝλλe",
+    "PN-POSS.2SG mother-POSS.3SG sympathise-NPST-3SG.SO",
+    "‘Petja sympathises with his mother.’",
+    "",
+    "PN-POSS.2SG мать-POSS.3SG жалеть-NPST-3SG.SO",
+    "‘Петя жалеет мать’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "envy",
     "завидовать",
     "inaafa",
+=======
+    "Kazym Khanty",
+    "envy",
+    "завидовать",
+    "wǔšmaśti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "LOC",
     "Y",
+<<<<<<< HEAD
     "NOM_LOC",
     "obsaa-n tolaa-tti inaaf-a",
     "PN-NOM PN-LOC envy-3SG.M.IPFV",
@@ -60602,10 +69132,20 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "NOM_DAT",
+    "waśa-j-en pet’a-j-a wǔšmaś-λ",
+    "PN-EP-POSS.2SG PN-EP-DAT envy-NPST[3SG]",
+    "‘Vasja envies Petja.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-DAT завидовать-NPST[3SG]",
+    "‘Вася завидует Пете’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_angry",
     "злиться",
@@ -60620,10 +69160,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_angry",
+    "злиться",
+    "λǝkaśti",
+    "NOM",
+    "NOMpela",
+    "Y",
+    "NOM_NOMpela",
+    "waśa-j-en λǝkaś-əλ maša-j-en pɛλa",
+    "PN-EP-POSS.2SG be_angry-NPST[3SG] PN-EP-POSS.2SG at",
+    "‘Vasja is angry with Maša.’",
+    "",
+    "PN-EP-POSS.2SG сердиться-NPST[3SG] PN-EP-POSS.2SG к",
+    "‘Вася злится на Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_surprised",
     "удивляться",
@@ -60638,10 +69195,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_surprised",
+    "удивляться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "love#tea#",
     "любить-2",
@@ -60656,10 +69230,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "love#tea#",
+    "любить-2",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "enjoy",
     "наслаждаться",
@@ -60674,28 +69265,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "enjoy",
+    "наслаждаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "want",
     "хотеть",
     "barbaada",
+=======
+    "Kazym Khanty",
+    "want",
+    "хотеть",
+    "λǎŋχati",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n bilbila haaraa barbaad-a",
     "PN-NOM phone.ABS new want-3SG.M.IPFV",
     "‘Obsa wants a new mobile phone.’",
     "",
     "",
     "",
+=======
+    "ńawrεm-ew jiλǝp jǒntǒt λǎŋχa-λ",
+    "child-POSS.1PL new toy want-NPST[3SG]",
+    "‘The child wants a new toy.’",
+    "",
+    "ребенок-POSS.1PL новый игрушка хотеть-NPST[3SG]",
+    "‘Ребенок хочет новую игрушку’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "have_a_grudge",
     "сердиться",
@@ -60710,10 +69334,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "have_a_grudge",
+    "сердиться",
+    "λǝkaśti",
+    "NOM",
+    "NOMpela",
+    "Y",
+    "NOM_NOMpela",
+    "waśa-j-en λǝkaś-əλ maša-j-en pɛλa",
+    "PN-EP-POSS.2SG be_angry-NPST[3SG] PN-EP-POSS.2SG at",
+    "‘Petja holds a grudge against Maša.’",
+    "",
+    "PN-EP-POSS.2SG сердиться-NPST[3SG] PN-EP-POSS.2SG к",
+    "‘Вася сердится на Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "take_offence",
     "обижаться",
@@ -60728,10 +69369,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "take_offence",
+    "обижаться",
+    "χǫrǝmti",
+    "NOM",
+    "NOMpela",
+    "Y",
+    "NOM_NOMpela",
+    "pet’a-j-en maša-j-en pελa χǫrǝm-ǝs",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG at take_offence-PST[3SG]",
+    "‘Petja took offence at Maša.’",
+    "",
+    "PN-EP-POSS.2SG PN-EP-POSS.2SG к обидеться-PST[3SG]",
+    "‘Петя обиделся на Машу’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "upset",
     "огорчать",
@@ -60746,10 +69404,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "upset",
+    "огорчать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "marvel",
     "поражаться",
@@ -60764,28 +69439,61 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "marvel",
+    "поражаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "despise",
     "презирать",
     "tuffata",
+=======
+    "Kazym Khanty",
+    "despise",
+    "презирать",
+    "λǝkǝŋ εtti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ABS",
     "TR",
     "TR",
+<<<<<<< HEAD
     "obsaa-n tolaa tuffat-a",
     "PN-NOM PN.ABS despise-3SG.M.IPFV",
     "‘Obsa despises Tola.’",
     "",
     "",
     "",
+=======
+    "pet’a-j-en waśa-j-ǝλ λǝk-ǝŋ εt-λ-ǝλλe",
+    "PN-EP-POSS.SG PN-EP-POSS.3SG evil-ATTR go_out-NPST-3SG.SO",
+    "‘Petja despises Vasja.’",
+    "",
+    "PN-EP-POSS.SG PN-EP-POSS.3SG злой-ATTR выйти-NPST-3SG.SO",
+    "‘Петя презирает Васю’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "get_upset",
     "огорчаться",
@@ -60818,10 +69526,45 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "get_upset",
+    "огорчаться",
+    "šŭmaλ’a jiti",
+    "NOM",
+    "NOMpata",
+    "Y",
+    "NOM_NOMpata",
+    "pet’a-j-en pǒχ-ǝλ pǎta šŭmaλ’a ji-s",
+    "PN-EP-POSS.2SG son-POSS.3SG because_of sad become-PST[3SG]",
+    "‘Petja got upset with his son.’",
+    "Non-verbal predicate.",
+    "PN-EP-POSS.2SG сын-POSS.3SG из-за грустно стать-PST[3SG]",
+    "‘Петя расстроился из-за сына’.",
     "",
     ""
   ],
   [
+    "Kazym Khanty",
+    "get_irritated",
+    "раздражаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_fond",
     "симпатизировать",
@@ -60836,10 +69579,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_fond",
+    "симпатизировать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "*",
+    "*",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "West Central Oromo",
     "be_shy",
     "стесняться",
@@ -60854,10 +69614,27 @@ const fullData = [
     "",
     "",
     "",
+=======
+    "Kazym Khanty",
+    "be_shy",
+    "стесняться",
+    "wǫλǝ wԑrti",
+    "NOM",
+    "NOMpata",
+    "Y",
+    "NOM_NOMpata",
+    "pet’a-j-en aj păλattǝ-λ păta wǫλǝ wԑr-ǝλ",
+    "PN-EP-POSS.2SG small height-POSS.3SG because_of alien make-NPST[3SG]",
+    "‘Petja is embarrased about his height.’",
+    "",
+    "PN-EP-POSS.2SG маленький высота-POSS.3SG из-за незнакомый делать-NPST[3SG]",
+    "‘Петя стесняется из-за своего маленького роста’.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "feel_pain",
     "болеть-1",
@@ -60872,10 +69649,27 @@ const fullData = [
     "",
     "PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG",
     "‘У Анны болит голова.’",
+=======
+    "Northern Mansi",
+    "feel_pain",
+    "болеть-1",
+    "ājmən",
+    "*",
+    "*",
+    "*",
+    "",
+    "pājel puŋk-e ājməŋ",
+    "PN head-POSS.3SG sick",
+    "‘Pasha has a headache.’",
+    "Not included in the database because X is (arguably) expressed as an NP-internal modifier. Non-verbal predicate.",
+    "",
+    "‘У Паши болит голова.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "have#illness#",
     "болеть-2",
@@ -60890,10 +69684,27 @@ const fullData = [
     "",
     "PN[NOM.SG] болеть:IPFV.PRS.3SG на грипп-ACC.SG",
     "‘Михал болеет гриппом.’",
+=======
+    "Northern Mansi",
+    "have#illness#",
+    "болеть-2",
+    "ajməntaxti",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "pajel ājməntaxt-i xōpsi ājm-əl",
+    "PN suffer_from-NPST.3SG lungs illness-INS",
+    "‘Pasha has tuberculose.’",
+    "",
+    "",
+    "‘Паша болеет туберкулёзом.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_afraid",
     "бояться",
@@ -60908,28 +69719,61 @@ const fullData = [
     "",
     "PN[NOM.SG] немного бояться:IPFV.PRS.3SG REFL собака-GEN.SG",
     "‘Яцек немного боится собаки.’",
+=======
+    "Northern Mansi",
+    "be_afraid",
+    "бояться",
+    "pili",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL",
+    "āji-riɕ pil-i kūt’uw-əl",
+    "girl-DIM be_afraid-NPST.3SG dog-EL",
+    "‘The girl is afraid of the dog.’",
+    "",
+    "",
+    "‘Девочка боится собаку.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "throw",
     "бросить",
     "rzucić",
+=======
+    "Northern Mansi",
+    "throw",
+    "бросить",
+    "wuɕkasas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Janek rzuci-ł kamień",
     "PN[NOM.SG] throw:PFV-PST[M.3SG] stone[ACC.SG]",
     "‘Janek threw a stone.’",
     "",
     "PN[NOM.SG] бросить:PFV-PST[M.3SG] камень[ACC.SG]",
     "‘Янек бросил камень.’",
+=======
+    "pājel wuɕkas-as āxwtas",
+    "PN throw-PST.3SG stone",
+    "‘Pasha threw a stone.’",
+    "",
+    "",
+    "‘Паша бросил камень.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "have_enough",
     "быть достаточно",
@@ -60944,10 +69788,27 @@ const fullData = [
     "",
     "PN-DAT.SG хватает:IPFV.PRS.3SG деньги-GEN.PL",
     "‘Анне хватает денег.’",
+=======
+    "Northern Mansi",
+    "have_enough",
+    "быть достаточно",
+    "towlawe",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "am ōln-əl towl-awe-m",
+    "I money-INS suffice-PASS-NPST.1SG",
+    "‘I have enough money.’",
+    "This is a passive construction.",
+    "",
+    "‘Мне хватает денег.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "resemble",
     "быть похожим",
@@ -60962,10 +69823,27 @@ const fullData = [
     "Non-verbal predicate.",
     "PN(F)-NOM.SG похожий-F.NOM.SG быть[PRS.3SG] до PN-GEN.SG",
     "‘Анна похожа на Магду.’",
+=======
+    "Northern Mansi",
+    "resemble",
+    "быть похожим",
+    "xurip",
+    "*",
+    "*",
+    "*",
+    "",
+    "pājel āɕ-e xurip",
+    "PN father-POSS.3SG similar",
+    "‘Pasha resembles his father.’",
+    "Not included in the database because Y is (arguably) expressed as an NP-internal modifier. Non-verbal predicate.",
+    "",
+    "‘Паша похож на своего отца.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "believe",
     "верить",
@@ -60980,47 +69858,99 @@ const fullData = [
     "",
     "PN[NOM.SG] верить:PFV.PRS.3SG отец-DAT.SG",
     "‘Михал верит отцу.’",
+=======
+    "Northern Mansi",
+    "believe",
+    "верить",
+    "ajti",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "taw ajt-i ɕān’-e-n",
+    "he believe-NPST.3SG mother-POSS.3SG-LAT",
+    "‘He believes his mother.’",
+    "",
+    "",
+    "‘Он верит своей матери.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "take",
     "взять",
     "wziąć",
+=======
+    "Northern Mansi",
+    "take",
+    "взять",
+    "wis",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Ewaryst wzią-ł książk-ę",
     "PN[NOM.SG] take:PFV\\M-PST[M.3SG] book-ACC.SG",
     "‘Ewaryst took a book.’",
     "",
     "PN[NOM.SG] взять:PFV\\M-PST[M.3SG] книжка-ACC.SG",
     "‘Эварист взял книжку.’",
+=======
+    "āji-riɕ wi-s nēpak pasan-əl",
+    "girl-DIM take-PST.3SG book table-EL",
+    "‘The girl took a book from the table.’",
+    "",
+    "",
+    "‘Девочка взяла книгу со стола.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "see",
     "видеть",
     "widzieć",
+=======
+    "Northern Mansi",
+    "see",
+    "видеть",
+    "kasali",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Paweł widzi dom",
     "PN[NOM.SG] see:IPFV.PRS.3SG house[ACC.SG]",
     "‘Paweł sees a house.’",
     "",
     "PN[NOM.SG] видеть:IPFV.PRS.3SG дом[ACC.SG]",
     "‘Павел видит дом.’",
+=======
+    "am kāsal-ej-um kol",
+    "I see-NPST-1SG house",
+    "‘I see a house.’",
+    "",
+    "",
+    "‘Я вижу дом.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "influence",
     "влиять",
     "wpływać",
@@ -61032,12 +69962,22 @@ const fullData = [
     "age[NOM.SG] influence:IPFV.PRS.3SG on memory[ACC.SG]",
     "‘Age influences memory.’",
     "",
+<<<<<<< HEAD
     "возраст[NOM.SG] влиять:IPFV.PRS.3SG на память[ACC.SG]",
     "‘Возраст влияет на память.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "encounter",
     "встречаться",
@@ -61052,10 +69992,27 @@ const fullData = [
     "",
     "PN[NOM.SG] встретить:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Павел встретил Марту.’",
+=======
+    "Northern Mansi",
+    "encounter",
+    "встречаться",
+    "kasalaxtas",
+    "NOM",
+    "NOMjot",
+    "Y",
+    "NOM_NOMjot",
+    "ēkwa kāsal-axt-as āji-te jot",
+    "woman see-REFL-PST.3SG daughter-POSS.3SG with",
+    "‘The woman encounters her daughter (accidently).’",
+    "",
+    "",
+    "‘Женщина встретилась (случайно) со своей дочерью.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "enter",
     "входить ",
@@ -61070,10 +70027,27 @@ const fullData = [
     "",
     "PN[NOM.SG] входить:PFV\\PST.M-PST[M.3SG] до дом-GEN.SG",
     "‘Павел вошел в дом.’",
+=======
+    "Northern Mansi",
+    "enter",
+    "входить",
+    "ɕaltəs",
+    "NOM",
+    "NOMkiwern",
+    "Y",
+    "NOM_NOMkiwern",
+    "ōjka ɕalt-əs kol kīwər-n",
+    "man enter-PST.3SG house inside-LAT",
+    "‘The man enters the house.’",
+    "",
+    "",
+    "‘Мужчина вошёл в дом.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "win",
     "выиграть",
@@ -61088,10 +70062,27 @@ const fullData = [
     "",
     "PN[NOM.SG] выиграть:PFV-PST[M.3SG] c PN-INS.SG",
     "‘Павел выиграл у Леха.’",
+=======
+    "Northern Mansi",
+    "win",
+    "выиграть",
+    "noxpattǝs",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "pētra anum kāsarǝl nox=pat-t-ǝs",
+    "Peter I.OBL cards-INS up=fall-CAUS-PST[3SG]",
+    "‘Peter won over me in a game of cards.’",
+    "",
+    "",
+    "‘Петя выиграл у меня в карты..’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "go_out",
     "выходить",
@@ -61106,53 +70097,109 @@ const fullData = [
     "",
     "PN[NOM.SG] выходить:PFV\\M-PST[M.3SG] из дом-GEN.SG",
     "‘Анджей вышел из дома.’",
+=======
+    "Northern Mansi",
+    "go_out",
+    "выходить",
+    "konkwaləs",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL",
+    "ōjka kol-əl kon-kwal-əs",
+    "man house-EL out-go-PST.3SG",
+    "‘The man went out of the house.’",
+    "",
+    "",
+    "‘Мужчина вышел из дома.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "drive",
     "гнать",
     "gonić",
+=======
+    "Northern Mansi",
+    "drive",
+    "гнать",
+    "n’āwi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Andrzej goni krow-ę",
     "PN[NOM.SG] drive:IPFV.PRS.3SG cow-ACC.SG",
     "‘Andrzej is driving the cow.’",
     "",
     "PN[NOM.SG] гнать:IPFV.PRS.3SG корова-ACC.SG",
     "‘Анджей гонит корову’",
+=======
+    "ōjka n’āwi sāli",
+    "man drive-NPST.3SG reindeer",
+    "‘The man is driving the reindeer (to the pasture).’",
+    "",
+    "",
+    "‘Мужчина гонит оленя.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "bend",
     "гнуть",
     "zgiąć",
+=======
+    "Northern Mansi",
+    "bend",
+    "гнуть",
+    "xutəltaste",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Paweł zgią-ł gałąź",
     "PN[NOM.SG] bend:PFV\\M-PST[M.3SG] branch[ACC.SG]",
     "‘Paweł bent the branch.’",
     "",
     "PN[NOM.SG] согнуть:PFV\\M-PST[M.3SG] ветка[ACC.SG]",
     "‘Павел согнул ветку.’",
+=======
+    "ōjka xut-əlt-as-t-e tow",
+    "man bend_oneself-CAUS-PST-3SG.O-3SG.S branch",
+    "‘The man bent the branch.’",
+    "",
+    "",
+    "‘Мужчина согнул ветку.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "tell",
     "говорить",
     "powiedzieć",
+=======
+    "Northern Mansi",
+    "tell",
+    "говорить",
+    "lāwəs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
-    "DAT",
+    "LAT",
     "Y",
+<<<<<<< HEAD
     "NOM_DAT",
     "Franek powiedzia-ł Anc-e",
     "PN[NOM.SG] tell:PFV-PST[M.3SG] PN-DAT.SG",
@@ -61160,64 +70207,122 @@ const fullData = [
     "",
     "PN[NOM.SG] сказать:PFV-PST[M.3SG] PN-DAT.SG",
     "‘Франек сказал Анке: ...’",
+=======
+    "NOM_LAT",
+    "pājel kol’i-n lāw-əs …",
+    "PN PN-LAT say-PST.3SG",
+    "‘Pasha told Kolja....’",
+    "",
+    "",
+    "‘Паша Коле сказал….’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "hold",
     "держать",
     "trzymać",
+=======
+    "Northern Mansi",
+    "hold",
+    "держать",
+    "ūri",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Franek trzyma książk-ę",
     "PN[NOM.SG] hold:IPFV.PRS.3SG book-ACC.SG",
     "‘Franek is holding a book.’",
     "",
     "PN[NOM.SG] держать:IPFV.PRS.3SG книжка-ACC.SG",
     "‘Франек держит книжку.’",
+=======
+    "pājel ūr-i nēpak kāt-ta",
+    "PN hold-NPST.3SG book hand-LOC",
+    "‘Pasha is holding a book in his hand(s).’",
+    "",
+    "",
+    "‘Паша держит книгу в руке.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "catch_up",
     "догнать",
     "dogonić",
+=======
+    "Northern Mansi",
+    "catch_up",
+    "догнать",
+    "jujəljoxtəste",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Maciek dogoni-ł Jank-a",
     "PN[NOM.SG] catch_up:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Maciek caught up with Janek.’",
     "",
     "PN[NOM.SG] догнать:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Мачек догнал Янека.’",
+=======
+    "kūt’uw jujəl=joxt-əs-t-e ōtr-e",
+    "dog after-go-PST-3SG.O-3SG.S master-POSS.3SG",
+    "‘The dog catched up with its master.’",
+    "",
+    "",
+    "‘Собака догнала своего хозяина.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "milk",
     "доить",
     "wydoić",
+=======
+    "Northern Mansi",
+    "milk",
+    "доить",
+    "posəs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Hank-a wydoi-ł-a krow-ę",
     "PN-NOM.SG milk:PFV-PST-F.3SG cow-ACC.SG",
     "‘Hanka milked the cow.’",
     "",
     "PN-NOM.SG подоить:PFV-PST-F.3SG корова-ACC.SG",
     "‘Ханка подоила корову.’",
+=======
+    "ruɕ ēkwa kōsla-te pos-əs",
+    "Russian woman goat-POSS.3SG milk-PST.3SG",
+    "‘The Russian woman milked her goat.’",
+    "",
+    "",
+    "‘Русская женщина подоила свою козу.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "reach",
     "достичь",
@@ -61232,10 +70337,27 @@ const fullData = [
     "",
     "PN[NOM.SG] достигнуть:PFV\\PST-PST[M.3SG] до берег-GEN.SG",
     "‘Мачек достиг берега.’",
+=======
+    "Northern Mansi",
+    "reach",
+    "достичь",
+    "l’apamas",
+    "NOM",
+    "NOMpoxen",
+    "Y",
+    "NOM_NOMpoxen",
+    "am kol-um pox-ǝn ta l’apa-m-as-um",
+    "I house-POSS.1SG near-LAT PTCL close-VBZ-PST-1SG",
+    "‘I reached my home”",
+    "",
+    "",
+    "‘Я достигла своего дома.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "touch",
     "дотронуться",
@@ -61250,10 +70372,27 @@ const fullData = [
     "",
     "PN[NOM.SG] дотронуться:PFV\\PST-PST[M.3SG] стена-GEN.SG",
     "‘Марек дотронулся до стены.’",
+=======
+    "Northern Mansi",
+    "touch",
+    "дотронуться",
+    "nowxatas",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "āji-riɕ kūt’uw-na now-xat-as",
+    "girl-DIM dog-LAT touch-REFL-PST.3SG",
+    "‘The girl (accidently) touched the dog.’",
+    "",
+    "",
+    "‘Девочка (случайно) дотронулась до собаки.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "fight",
     "драться",
@@ -61268,10 +70407,27 @@ const fullData = [
     "",
     "PN[NOM.SG] драться:IPFV.PRS.3SG REFL с PN(M)-INS.SG",
     "‘Марек дерется с Томашем.’",
+=======
+    "Northern Mansi",
+    "fight",
+    "драться",
+    "alxati",
+    "NOM",
+    "NOMjot",
+    "Y",
+    "NOM_NOMjot",
+    "pājel alxat-i kol’a jot",
+    "PN fight-NPST.3SG PN with",
+    "‘Pasha fights with Kolja.’",
+    "",
+    "",
+    "‘Паша дерётся с Колей.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_friends",
     "дружить",
@@ -61286,10 +70442,27 @@ const fullData = [
     "",
     "король[NOM.SG] PN[NOM.SG] дружить:IPFV.PRS.3SG REFL с PN-INS.SG",
     "‘Король Матиуш дружит с Бум-Друмом.’",
+=======
+    "Northern Mansi",
+    "be_friends",
+    "дружить",
+    "ruməŋ",
+    "NOM",
+    "NOMjot",
+    "Y",
+    "NOM_NOMjot",
+    "pājel kol’a jot rum-əŋ ōl-ēj",
+    "PN PN with friend-prop be-NPST.3DU",
+    "‘Pasha is friends with Kolja.’",
+    "Non-verbal predicate.",
+    "",
+    "‘Паша дружит с Колей.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "think",
     "думать",
@@ -61304,46 +70477,95 @@ const fullData = [
     "",
     "PM[NOM.SG] думать:IPFV.PRS.3SG о PN-LOC.SG",
     "‘Тадеуш думает о Ханке.’",
+=======
+    "Northern Mansi",
+    "think",
+    "думать",
+    "nomsaxti",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL",
+    "āɣi noms-axt-i ɕān’-ēl",
+    "girl think-REFL-NPST.3SG mother-POSS.3SG.EL",
+    "‘The girl is thinking about her mother.’",
+    "",
+    "",
+    "‘Девушка думает о своей матери.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "eat",
     "есть",
     "zjeść",
+=======
+    "Northern Mansi",
+    "eat",
+    "есть",
+    "tājapaste",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Adam zjad-ł jabłk-o",
     "PN[NOM.SG] eat:PFV\\PST-PST[M.3SG] apple-ACC.SG",
     "‘Adam ate an apple.’",
     "",
     "PN[NOM.SG] съесть:PFV\\PST-PST[M.3SG] яблоко-ACC.SG",
     "‘Адам съел яблоко.’",
+=======
+    "pājel tāj-ap-as-t-e xūl",
+    "PN eat-SMLF-PST-3SG.O-3SG.S fish",
+    "‘Pasha ate the fish.’",
+    "",
+    "",
+    "‘Паша съел рыбину.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "fry",
     "жарить",
     "usmażyć",
+=======
+    "Northern Mansi",
+    "fry",
+    "жарить",
+    "pōnslas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Adam usmaży-ł ryb-ę",
     "PN[NOM.SG] fry:PFV-PST[M.3SG] fish-ACC.SG",
     "‘Adam fried the fish.’",
     "",
     "PN[NOM.SG] поджарить:PFV-PST[M.3SG] рыба-ACC.SG",
     "‘Адам поджарил рыбу.’",
+=======
+    "pājel xūl pōnsl-as",
+    "PN fish fry-PST.3SG",
+    "‘Pasha fried the fish.’",
+    "",
+    "",
+    "‘Паша пожарил рыбу.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "wait",
     "ждать",
@@ -61358,10 +70580,27 @@ const fullData = [
     "",
     "PN-NOM.SG ждать:IPFV.PRS.3SG на двоюродная_сестра-ACC.SG",
     "‘Бася ждет двоюродную сестру.’",
+=======
+    "Northern Mansi",
+    "wait",
+    "ждать",
+    "ūri",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "kūt’uw ūr-i ōtr-e",
+    "dog wait-NPST.3SG master-POSS.3SG",
+    "‘The dog waits for his master.’",
+    "",
+    "",
+    "‘Собака ждёт хозяина.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "forget",
     "забывать",
@@ -61376,11 +70615,31 @@ const fullData = [
     "",
     "PN-NOM.SG забыть:PFV-PST-F.3SG о этот-F.LOC.SG дорога-LOC.SG",
     "‘Бася забыла о той дороге.’",
+=======
+    "Northern Mansi",
+    "forget",
+    "забывать",
+    "xotjoruwlaslum",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "am l’ōŋx-um xot-joruwl-as-l-um",
+    "I road-POSS.1SG PFV-forget-PST-3SG.O-1SG.S",
+    "‘I forgot the road.’",
+    "",
+    "",
+    "‘Я забыл дорогу.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "depend",
     "зависеть",
     "zależeć",
@@ -61392,30 +70651,56 @@ const fullData = [
     "memory[NOM.SG] depend:IPFV.PRS.3SG from age-GEN.SG",
     "‘Memory depends on age.’",
     "",
+<<<<<<< HEAD
     "память[NOM.SG] зависеть:IPFV.PRS.3SG от возраст-GEN.SG",
     "‘Память зависит от возраста.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "call",
     "звать",
     "zawołać",
+=======
+    "Northern Mansi",
+    "call",
+    "звать",
+    "wowəste",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Józef zawoła-ł zięci-a",
     "PN[NOM.SG] call:PFV-PST[M.3SG] son_in_law-ACC.SG",
     "‘Józef called his son in law.’",
     "",
     "PN[NOM.SG] позвать:PFV-PST[M.3SG] зять-ACC.SG",
     "‘Юзеф позвал зятя.’",
+=======
+    "ɕān’-e wōw-əs-t-e āɣi-te",
+    "mother-POSS.3SG call-PST-3SG.O-3SG.S girl-POSS.3SG",
+    "‘The mother called her daughter.’",
+    "",
+    "",
+    "‘Мать позвала свою дочь.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "get_to_know",
     "знакомиться",
@@ -61430,28 +70715,61 @@ const fullData = [
     "",
     "PN[NOM.SG] узнать:PFV-PST[M.3SG] REFL с PN-INS.SG год тот.N.DAT.SG",
     "‘Юзеф познакомился с Адамом год назад.’",
+=======
+    "Northern Mansi",
+    "get_to_know",
+    "знакомиться",
+    "rumalaxtas",
+    "*",
+    "*",
+    "*",
+    "",
+    "am rumalaxt-as-um jēn’a jot",
+    "1SG befriend-PST-1SG PN COM",
+    "‘I recently made friends with Eugene.’",
+    "Not included in the database because this translation is semantically inaccurate. ",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "know",
     "знать ",
     "znać",
+=======
+    "Northern Mansi",
+    "know",
+    "знать",
+    "wāji",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Józef zna Adam-a",
     "PN[NOM.SG] know:IPFV.PRS.3SG PN-ACC.SG",
     "‘Józef knows Adam.’",
     "",
     "PN[NOM.SG] знать:IPFV.PRS.3SG PN-ACC.SG",
     "‘Юзеф знает Адама.’",
+=======
+    "am wāj-l-um ti ōjka-riɕ",
+    "I know-3SG.O-1SG.S this old_man-DIM",
+    "‘I know this old man.’",
+    "",
+    "",
+    "‘Я знаю этого старика.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "play#instrument#",
     "играть",
@@ -61466,10 +70784,27 @@ const fullData = [
     "",
     "PN[NOM.SG] играть:IPFV.PRS.3SG на гитара-LOC.SG",
     "‘Дариуш играет на гитаре.’",
+=======
+    "Northern Mansi",
+    "play#instrument#",
+    "играть",
+    "jonji",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "ōjka-riɕ jonj-i sāŋkwəltap-əl",
+    "old_man-DIM play-NPST.3SG sangkweltap-INS",
+    "‘The old man plays the sāŋkwəltap.’",
+    "",
+    "",
+    "‘Старик играет на санквылтапе.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "avoid",
     "избегать",
@@ -61484,28 +70819,61 @@ const fullData = [
     "",
     "PN[NOM.SG] избегать:IPFV.PRS.3SG PN-GEN.SG",
     "‘Дариуш избегает Адама.’",
+=======
+    "Northern Mansi",
+    "avoid",
+    "избегать",
+    "ūrjalaxti",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL",
+    "am ūrjal-axt-ej-um ti ēlmxolas-ǝl",
+    "I keep-REFL this person-EL",
+    "‘I avoid this person.’",
+    "",
+    "",
+    "‘Я избегаю этого человека.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "make",
     "изготовить",
     "skonstruować",
+=======
+    "Northern Mansi",
+    "make",
+    "изготовить",
+    "wārəs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Dariusz skonstruowa-ł bomb-ę",
     "PN[NOM.SG] make:PFV-PST[M.3SG] bomb-ACC.SG",
     "‘Dariusz made a bomb.’",
     "",
     "PN[NOM.SG] сконструировать:PFV-PST[M.3SG] бомба-ACC.SG",
     "‘Дариуш сделал бомбу.’",
+=======
+    "am āpa wār-s-um",
+    "I craddle make-PST-1SG",
+    "‘I made a craddle.’",
+    "",
+    "",
+    "‘Я сделал люльку.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "make_fun",
     "издеваться",
@@ -61520,28 +70888,61 @@ const fullData = [
     "",
     "Мефистофель[NOM.SG] издеваться:IPFV.PRS.3SG из Бог-GEN.SG",
     "‘Мефистофель издевается над Богом.’",
+=======
+    "Northern Mansi",
+    "make_fun",
+    "издеваться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "have",
     "иметь",
     "mieć",
+=======
+    "Northern Mansi",
+    "have",
+    "иметь",
+    "ōn’ɕi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "mąż ma samochód",
     "husband[NOM.SG] have:IPFV.PRS.3SG car[ACC.SG]",
     "‘Husband has a car.’",
     "",
     "муж[NOM.SG] иметь:IPFV.PRS.3SG машина[ACC.SG]",
     "‘У мужа есть машина.’",
+=======
+    "pājel xāp ōn’ɕ-i",
+    "PN boat have-NPST.3SG",
+    "‘Pasha has a boat.’",
+    "",
+    "",
+    "‘У Паши есть лодка.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "look_for",
     "искать",
@@ -61556,46 +70957,95 @@ const fullData = [
     "",
     "PN-NOM.SG искать:IPFV.PRS.3SG ключ-GEN.PL",
     "‘Сильвия ищет ключи.’",
-    "",
-    ""
-  ],
-  [
-    "Polish",
-    "paint",
-    "красить",
-    "pomalować",
+=======
+    "Northern Mansi",
+    "look_for",
+    "искать",
+    "kinsi",
     "NOM",
     "ACC",
     "TR",
     "TR",
+    "am kins-ēj-um mil lōx",
+    "I look_for-NPST-1SG deep backwater",
+    "‘I am looking for deep backwater.’",
+    "",
+    "",
+    "‘Я ищу глубокую заводь.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
+    "Polish",
+    "paint",
+    "красить",
+    "pomalować",
+=======
+    "Northern Mansi",
+    "paint",
+    "красить",
+    "sartəste",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+<<<<<<< HEAD
     "Tomasz pomalowa-ł płot",
     "PN[NOM.SG] paint:PFV\\PST-PST[M.3SG] fence[ACC.SG]",
     "‘Tomasz painted the fence.’",
     "",
     "PN[NOM.SG] красить:PFV\\PST-PST[M.3SG] забор[ACC.SG]",
     "‘Том покрасил забор.’",
+=======
+    "pajel pūsas ōl’p-əl sart-əs-t-e",
+    "PN fence color-INS smear-PST-3SG.O-3SG.S",
+    "‘Pasha painted the fence’",
+    "",
+    "",
+    "‘Паша покрасил забор.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "bite",
     "кусать",
     "ugryźć",
+=======
+    "Northern Mansi",
+    "bite",
+    "кусать",
+    "purəste",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "pies ugryz-ł mam-ę",
     "dog[NOM.SG] bite:PFV\\PST-PST[M.3SG] mummy-ACC.SG",
     "‘A dog bit mummy.’",
     "",
     "собака[NOM.SG] кусать:PFV\\PST-PST[M.3SG] мама-ACC.SG",
     "‘Собака укусила маму.’",
+=======
+    "kūt’uw pur-əs-t-e n’āwram",
+    "dog bite-PST-3SG.O-3SG.S child",
+    "‘The dog bit the child.’",
+    "",
+    "",
+    "‘Собака укусила ребёнка.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "forfeit",
     "лишаться",
@@ -61610,47 +71060,99 @@ const fullData = [
     "",
     "PN[NOM.SG] потерять:PFV\\PST-PST[M.3SG] дом[ACC.SG]",
     "‘Павел потерял дом.’",
+=======
+    "Northern Mansi",
+    "forfeit",
+    "лишаться",
+    "patəs",
+    "NOM",
+    "CAR",
+    "Y",
+    "NOM_CAR",
+    "ti ēkwa kol-tāl pat-əs",
+    "this woman house-CAR fall-PST.3SG",
+    "‘This woman lost her house.’",
+    "",
+    "",
+    "‘Эта женщина лишилась дома.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "try_to_catch",
     "ловить",
     "łapać",
+=======
+    "Northern Mansi",
+    "try_to_catch",
+    "ловить",
+    "puwi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "dziewczynk-a łapie kot-a",
     "girl-NOM.SG catch:IPFV.PRS.3SG cat-ACC.SG",
     "‘The girl is trying to catch the cat.’",
     "",
     "девочка-NOM.SG ловить:IPFV.PRS.3SG кот-ACC.SG",
     "‘Девочка ловит кота/кошку.’",
+=======
+    "pājel puw-i kati",
+    "PN try_to_catch-NPST.3SG cat",
+    "‘Pasha is trying to catch the cat.’",
+    "",
+    "",
+    "‘Паша ловит кошку.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "break",
     "ломать",
     "złamać",
+=======
+    "Northern Mansi",
+    "break",
+    "ломать",
+    "sakwatas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Jan złama-ł lask-ę",
     "PN[NOM.SG] break:PFV-PST[M.3SG] stick-ACC.SG",
     "‘Jan broke a stick.’",
     "",
     "PN[NOM.SG] сломать:PFV-PST[M.3SG] палка-ACC.SG",
     "‘Ян сломал палку.’",
+=======
+    "pajel sakwat-as tow",
+    "PN break-PST.3SG branch",
+    "‘Pasha broke a branch.’",
+    "",
+    "",
+    "‘Паша сломал ветку.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "flatter",
     "льстить",
     "pochlebiać",
@@ -61662,48 +71164,90 @@ const fullData = [
     "PN-NOM.SG flatter:IPFV.PRS.3SG PN-DAT.SG",
     "‘Sylwia is flattering Anna.’",
     "",
+<<<<<<< HEAD
     "PN-NOM.SG льстить:IPFV.PRS.3SG PN-DAT.SG",
     "‘Сильвия льстит Анне.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "love#person#",
     "любить-1",
     "kochać",
+=======
+    "Northern Mansi",
+    "love#person#",
+    "любить-1",
+    "ēruptite",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Ann-a kocha Mark-a",
     "PN-NOM.SG love:IPFV.PRS.3SG PN-ACC.SG",
     "‘Anna loves Marek.’",
     "",
     "PN-NOM.SG любить:IPFV.PRS.3SG PN-ACC.SG",
     "‘Анна любит Марека.’",
+=======
+    "ɕān’e ērupt-i-t-e āji-te",
+    "mother-POSS.3SG love-NPST-3SG.O-3SG.S daughter-POSS.3SG",
+    "‘The mother loves her daughter.’",
+    "",
+    "",
+    "‘Мать любит свою дочь.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "wave",
     "махать",
     "machać",
+=======
+    "Northern Mansi",
+    "wave",
+    "махать",
+    "xosji",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "INS",
     "Y",
     "NOM_INS",
+<<<<<<< HEAD
     "Paweł macha chustk-ą",
     "PN[NOM.SG] wave:IPFV.PRS.3SG handkerchief-INS.SG",
     "‘Paweł is waving a handkerchief.’",
     "",
     "PN[NOM.SG] махать:IPFV.PRS.3SG платок-INS.SG",
     "‘Павел машет платком.’",
+=======
+    "ēkwa tōr-əl xosj-i",
+    "woman kerchief-INS wave-NPST.3SG",
+    "‘The woman is waving a kerchief.’",
+    "",
+    "",
+    "‘Женщина машет платком.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "dream",
     "мечтать",
@@ -61718,46 +71262,95 @@ const fullData = [
     "",
     "PN[NOM.SG] мечтать:IPFV.PRS.3SG о машина-LOC.SG",
     "‘Яцек мечтает о машине.’",
+=======
+    "Northern Mansi",
+    "dream",
+    "мечтать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "wash",
     "мыть",
     "umyć",
+=======
+    "Northern Mansi",
+    "wash",
+    "мыть",
+    "lowtəs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Jacek umy-ł filiżank-ę",
     "PN[NOM.SG] wash:PFV-PST[M.3SG] cup-ACC.SG",
     "‘Jacek washed the cup.’",
     "",
     "PN[NOM.SG] вымыть:PFV-PST[M.3SG] чашка-ACC.SG",
     "‘Яцек вымыл чашку.’",
+=======
+    "pājel āni lowt-əs",
+    "PN cup wash-PST[3SG]",
+    "‘Pasha washed the cup.’",
+    "",
+    "",
+    "‘Паша помыл чашку.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "put_on",
     "надевать",
     "włożyć",
+=======
+    "Northern Mansi",
+    "put_on",
+    "надевать",
+    "masəs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Paweł włoży-ł spodn-ie",
     "PN[NOM.SG] put_on:PFV-PST[M.3SG] trousers-ACC.SG",
     "‘Paweł put on his trousers.’",
     "",
     "PN[NOM.SG] надеть:PFV-PST[M.3SG] штаны-ACC.SG",
     "‘Павел надел штаны.’",
+=======
+    "āji-riɕ sup mas-əs",
+    "girl-DIM dress put_on-PST.3SG",
+    "‘The girl put on a dress.’",
+    "",
+    "",
+    "‘Девушка надела платье.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_called",
     "называться",
@@ -61772,11 +71365,31 @@ const fullData = [
     "",
     "этот.M.NOM.SG предмет[NOM.SG] называть:IPFV.PRS.3SG REFL компас-NOM.SG",
     "‘Этот предмет называется компас.’",
+=======
+    "Northern Mansi",
+    "be_called",
+    "называться",
+    "lāwawe",
+    "NOM",
+    "TRANS",
+    "Y",
+    "NOM_TRANS",
+    "ti ūj n’oxsiɣ lāw-awe",
+    "this animal sable-trans say-PASS[NPST.3SG]",
+    "‘This animal is called a sable.’",
+    "This is a passive construction.",
+    "",
+    "‘Этот зверь называется соболем.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "punish",
     "наказывать",
     "ukarać",
@@ -61788,12 +71401,22 @@ const fullData = [
     "PN-NOM.SG punish:PFV-PST[M.3SG] one’s_own-M.ACC.SG son-ACC.SG",
     "‘Andrzej punished his son.’",
     "",
+<<<<<<< HEAD
     "PN-NOM.SG наказать:PFV-PST[M.3SG] свой-M.ACC.SG сын-ACC.SG",
     "‘Анджей наказал своего сына.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "attack",
     "напасть",
@@ -61808,10 +71431,27 @@ const fullData = [
     "",
     "медведь[NOM.SG] нападать:PFV-PST[M.3SG] на рыбак-ACC.SG",
     "‘Медведь напал на рыбака.’",
+=======
+    "Northern Mansi",
+    "attack",
+    "напасть",
+    "porijmaste",
+    "NOM",
+    "NOMlalt",
+    "Y",
+    "NOM_NOMlalt",
+    "wōrtōlnōjka xūl puw-ne ōjka l’al’t porijm-as-t-e",
+    "bear fish catch-ptcp.prs man on jump-PST-3SG.O-3SG.S",
+    "‘A bear attacked a fisherman.’",
+    "",
+    "",
+    "‘Медведь напал на ловящего рыбу мужчину.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "fill#intr#",
     "наполняться",
@@ -61826,28 +71466,61 @@ const fullData = [
     "",
     "ведро-NOM.SG наполнить:PFV-PST-N.3SG REFL вода-INS.SG",
     "‘Ведро наполнилось водой.’",
+=======
+    "Northern Mansi",
+    "fill#intr#",
+    "наполняться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "find",
     "находить",
     "znaleźć",
+=======
+    "Northern Mansi",
+    "find",
+    "находить",
+    "xōntsəs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Feliks znalaz-ł klucz-e",
     "PN[NOM.SG] find:PFV-PST[M.3SG] key-ACC.PL",
     "‘Feliks found his keys.’",
     "",
     "PN[NOM.SG] найти:PFV-PST[M.3SG] ключ-ACC.PL",
     "‘Феликс нашел ключи.’",
+=======
+    "am xōnt-s-um xōxsa",
+    "I find-PST-1SG cigarette",
+    "‘I found a cigarette.’",
+    "",
+    "",
+    "‘Я нашёл сигарету.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_short",
     "недоставать",
@@ -61862,10 +71535,27 @@ const fullData = [
     "",
     "PN-DAT.SG не.хватать:IPFV.PRS.3SG доллар-GEN.SG",
     "‘Анне не хватает одного доллара.’",
+=======
+    "Northern Mansi",
+    "be_short",
+    "недоставать",
+    "at towlawe",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS",
+    "pajel at towl-awe moɕɕa-kw-nuw ōln-əl",
+    "PN neg suffice-PASS.NPST.3SG a_little-ADV-COMP money-INS",
+    "‘Pasha is short of a little more money.’",
+    "This is a passive construction (cf. 5 for the active).",
+    "",
+    "‘Паше не хватает ещё немного денег.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "hate",
     "ненавидеть",
@@ -61880,10 +71570,27 @@ const fullData = [
     "",
     "PN[NOM.SG] ненавидеть:IPFV.PRS.3SG PN-GEN.SG",
     "‘Феликс ненавидит Анну.’",
+=======
+    "Northern Mansi",
+    "hate",
+    "ненавидеть",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "like",
     "нравиться",
@@ -61898,10 +71605,27 @@ const fullData = [
     "",
     "PN-DAT.SG нравиться:IPFV.PRS.3SG REFL этот.F.NOM.SG рубашка-NOM.SG",
     "‘П. нравится эта рубашка.’",
+=======
+    "Northern Mansi",
+    "like",
+    "нравиться",
+    "jomas",
+    "LAT",
+    "NOM",
+    "X",
+    "LAT_NOM",
+    "āji-riɕ-na ti sup jomas",
+    "girl-DIM-LAT this dress good",
+    "‘The girl likes this dress.’",
+    "Non-verbal predicate.",
+    "",
+    "‘Девочке нравится это платье.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "need",
     "нуждаться",
@@ -61916,11 +71640,31 @@ const fullData = [
     "",
     "PN-NOM.SG нуждаться:IPFV.PRS.3SG деньги-GEN.PL",
     "‘Мама нуждается в деньгах.’",
+=======
+    "Northern Mansi",
+    "need",
+    "нуждаться",
+    "ēri",
+    "LAT",
+    "NOM",
+    "X",
+    "LAT_NOM",
+    "anum-n oln ēri",
+    "I.OBL-LAT money necessary",
+    "‘I need money.’",
+    "This predicate has lost some, but not all, of its verbal properties.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "surround",
     "окружать",
     "otaczać",
@@ -61932,12 +71676,22 @@ const fullData = [
     "city-ACC.SG surround:IPFV.PRS.3SG wall[NOM.SG]",
     "‘Walls surround the city.’",
     "",
+<<<<<<< HEAD
     "город-ACC.SG окружать:IPFV.PRS.3SG стена[NOM.SG]",
     "‘Стены окружают город.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "remain",
     "оставаться",
@@ -61952,17 +71706,41 @@ const fullData = [
     "",
     "остаться:PFV-PST-N.3SG PN-DAT.SG десять[NOM] доллар-GEN.PL",
     "‘У Анны осталось 10 долларов.’",
+=======
+    "Northern Mansi",
+    "remain",
+    "оставаться",
+    "ārijtas",
+    "POSS",
+    "NOM",
+    "X",
+    "POSS_NOM",
+    "am sotǝr solkowi ārijt-as",
+    "I thousand rouble be.left-PST[3SG]",
+    "‘I only have a thousand roubles left.’",
+    "Although X is construed as a possessor of Y, it displays some properties of a clause-level rather than NP-internal constituent (e.g. discontinuous uses are possible).",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "answer",
     "отвечать",
     "odpowiedzieć",
+=======
+    "Northern Mansi",
+    "answer",
+    "отвечать",
+    "akwjuwl’e lawǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
-    "DAT",
+    "LAT",
     "Y",
+<<<<<<< HEAD
     "NOM_DAT",
     "Marek odpowiedzia-ł nauczyciel-owi",
     "PN[NOM.SG] answer:PFV-PST[M.3SG] teacher-DAT.SG",
@@ -61970,28 +71748,54 @@ const fullData = [
     "",
     "PN[NOM.SG] ответить:PFV-PST[M.3SG] учитель-DAT.SG",
     "‘Марек ответил учителю.’",
+=======
+    "NOM_LAT",
+    "n’āwram ēkwa-n akwjuwl’e law-ǝs",
+    "child woman-LAT back say-PST[3SG]",
+    "‘The child answered the woman’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "open",
     "открывать",
     "otworzyć",
+=======
+    "Northern Mansi",
+    "open",
+    "открывать",
+    "pūnsas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Marek otworzy-ł puszk-ę",
     "PN[NOM.SG] open:PFV-PST[M.3SG] can-ACC.SG",
     "‘Marek opened a can.’",
     "",
     "PN[NOM.SG] открыть:PFV-PST[M.3SG] банка-ACC.SG",
     "‘Марек открыл банку.’",
+=======
+    "pēt’a āwi pūns-as",
+    "Peter door open-PST[3SG]",
+    "‘Peter opened the door.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_different",
     "отличаться",
@@ -62006,10 +71810,27 @@ const fullData = [
     "",
     "мой-F.NOM.SG рубашка-NOM.SG отличать:IPFV.PRS.3SG REFL от твой-F.GEN.SG",
     "‘Моя рубашка отличается от твоей.’",
+=======
+    "Northern Mansi",
+    "be_different",
+    "отличаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "fall_behind",
     "отстать",
@@ -62024,28 +71845,61 @@ const fullData = [
     "Not included in the database because Y is not overtly expressed.",
     "PN-NOM.SG остаться:PFV-PST-F.3SG в зад-LOC.SG",
     "‘Анна осталась сзади.’",
+=======
+    "Northern Mansi",
+    "fall_behind",
+    "отстать",
+    "juw xul’tǝs",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL",
+    "am juw xul’t-s-um jurt-an-ǝl",
+    "I back stay-PST-1SG friend-PL-EL",
+    "‘I fell behind my friends.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "plough",
     "пахать",
     "orać",
+=======
+    "Northern Mansi",
+    "plough",
+    "пахать",
+    "xili",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Michał orze pol-e",
     "PN[NOM.SG] plough:IPFV.PRS.3SG field-ACC.SG",
     "‘Michał is ploughing the field.’",
     "",
     "PN[NOM.SG] пахать:IPFV.PRS.3SG поле-ACC.SG",
     "‘Михал пашет поле.’",
+=======
+    "xum xili mā",
+    "man dig-NPST[3SG] earth",
+    "‘A man is digging/ploughing the earth.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "smell",
     "пахнуть",
@@ -62060,10 +71914,27 @@ const fullData = [
     "",
     "мой-F.NOM.PL рука-NOM.PL пахнуть:IPFV.PRS.3PL бензин-INS.SG",
     "‘Мои руки пахнут бензином.’",
+=======
+    "Northern Mansi",
+    "smell",
+    "пахнуть",
+    "at pasi",
+    "*",
+    "*",
+    "*",
+    "",
+    "am kāt-aɣ-um xūl at pas-ē-ɣ",
+    "1SG hand-DU-POSS.1SG fish smell smell-NPST-3DU",
+    "‘My hands smell of fish.’",
+    "Not included in the database because Y is expressed as an NP-internal modifier.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "cross",
     "пересечь",
@@ -62078,82 +71949,163 @@ const fullData = [
     "",
     "PN[NOM.SG] перейти:PFV\\PST-PST[M.3SG] дорога-ACC.SG",
     "‘Стефан перешел дорогу.’",
+=======
+    "Northern Mansi",
+    "cross",
+    "пересечь",
+    "minas",
+    "NOM",
+    "NOMultta",
+    "Y",
+    "NOM_NOMultta",
+    "ēkwa l’ōŋx ūltta min-as wiɣir pōs-ǝl",
+    "woman road across go-PST[3SG] red light-EL",
+    "‘A woman crossed the road on a red light’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "sing",
     "петь",
     "zaśpiewać",
+=======
+    "Northern Mansi",
+    "sing",
+    "петь",
+    "ērɣǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Stefan zaśpiewa-ł ładn-ą piosenk-ę",
     "PN[NOM.SG] sing:PFV-PST[M.3SG] beautiful-F.ACC.SG song-ACC.SG",
     "‘Stefan sang a beautiful song.’",
     "",
     "PN[NOM.SG] спеть:PFV-PST[M.3SG] красивый-F.ACC.SG песня-ACC.SG",
     "‘Стефан спел красивую песню.’",
+=======
+    "am ɕan’-um jomas ēriɣ ērɣ-ǝs",
+    "1SG mother-POSS.1SG good song sing-PASS[3SG]",
+    "‘My mother sang a beautiful song.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "write",
     "писать",
     "napisać",
+=======
+    "Northern Mansi",
+    "write",
+    "писать",
+    "xansǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Staszek napisa-ł list",
     "PN[NOM.SG] write:PFV\\PST-PST[M.3SG] letter[ACC.SG]",
     "‘Staszek wrote a letter.’",
     "",
     "PN[NOM.SG] написать:PFV\\PST-PST[M.3SG] письмо[ACC.SG]",
     "‘Сташек написал письмо.’",
+=======
+    "āɣi piɕma xans-ǝs",
+    "girl letter write-PST[3SG]",
+    "‘A girl wrote a letter.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "drink",
     "пить",
     "wypić",
+=======
+    "Northern Mansi",
+    "drink",
+    "пить",
+    "ajǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Staszek wypi-ł mlek-o",
     "PN[NOM.SG] drink:PFV-PST[M.3SG] milk-ACC.SG",
     "‘Staszek drank the milk.’",
     "",
     "PN[NOM.SG] выпить:PFV-PST[M.3SG] молоко-ACC.SG",
     "‘Сташек выпил молоко.’",
+=======
+    "jēn’a saw wīna aj-i",
+    "PN much alcohol drink-NPST[3SG]",
+    "‘Eugene drinks a lot of alcohol.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "melt",
     "плавить",
     "roztopić",
+=======
+    "Northern Mansi",
+    "melt",
+    "плавить",
+    "toltǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Staszek roztopi-ł kawałek ołowi-u",
     "PN[NOM.SG] melt:PFV-PST[M.3SG] piece[ACC.SG] lead-GEN.SG",
     "‘Staszek melted a piece of lead.’",
     "",
     "PN[NOM.SG] расплавить:PFV-PST[M.3SG] кусок[ACC.SG] свинец-GEN.SG",
     "‘Сташек расплавил косок свинца.’",
+=======
+    "xum kēr tolt-ǝs",
+    "man iron melt-PST[3SG]",
+    "‘The man melted the iron.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "match",
     "подходить",
@@ -62168,71 +72120,143 @@ const fullData = [
     "",
     "этот.M.NOM.SG пояс[NOM.SG] подходить:IPFV.PRS.3SG до мой-F.GEN.SG платье-GEN.SG",
     "‘Этот пояс подходит к моему платью.’",
+=======
+    "Northern Mansi",
+    "match",
+    "подходить",
+    "rōwi",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "ti ēntap am sup-um-n rōw-i",
+    "this belt 1SG dress-POSS.1SG-LAT match-NPST[3SG]",
+    "‘This belt matches my dress.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "leave",
     "покидать",
     "opuścić",
+=======
+    "Northern Mansi",
+    "leave",
+    "покидать",
+    "ossuwlas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Staszek opuści-ł rodzim-e miast-o",
     "PN[NOM.SG] leave:PFV-PST[M.3SG] native-N.ACC.SG town-ACC.SG",
     "‘Staszek left his native city.’",
     "",
     "PN[NOM.SG] покинуть:PFV-PST[M.3SG] родной-N.ACC.SG город-ACC.SG",
     "‘Сташек покинул родной город.’",
+=======
+    "n’awram-ǝt jānij-m-as-ǝt, pāwl-anǝl ta ossuwl-as-anǝl",
+    "child-PL big-VBZ-PST-3PL village-POSS.3PL PL leave-PST-SG.O.3PL.S",
+    "‘The children grew up and abandoned their village.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "cover",
     "покрывать",
     "pokrywać",
+=======
+    "Northern Mansi",
+    "cover",
+    "покрывать",
+    "lappantǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "dywan pokrywa cał-ą podłog-ę",
     "carpet[NOM.SG] cover:IPFV.PRS.3SG whole-F.ACC.SG floor-ACC.SG",
     "‘The carpet covers the whole floor.’",
     "",
     "ковер[NOM.SG] покрывать:IPFV.PRS.3SG весь-F.ACC.SG пол-ACC.SG",
     "‘Ковер покрывает весь пол.’",
+=======
+    "jānij tor kolkan lap-pant-ǝs",
+    "big cloth floor close-cover-PST[3SG]",
+    "‘A large cloth covered the whole floor.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "remember",
     "помнить",
     "pamiętać",
+=======
+    "Northern Mansi",
+    "remember",
+    "помнить",
+    "nomite",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Staszek dobrz-e pamięta dom",
     "PN[NOM.SG] good-ADV remember:IPFV.PRS.3SG house[ACC.SG]",
     "‘Staszek remembers the house well.’",
     "",
     "PN[NOM.SG] хороший-ADV помнить:IPFV.PRS.3SG дом[ACC.SG]",
     "‘Сташек хорошо помнит дом.’",
+=======
+    "am nom-i-l-um kol-um xot jānij-m-as-um",
+    "1SG remember-NPST-SG.O-1SG.S house-POSS.1SG where big-VBZ-PST-1SG",
+    "‘I remember the house where I grew up.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "help",
     "помочь",
     "pomóc",
+=======
+    "Northern Mansi",
+    "help",
+    "помочь",
+    "n‘oti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
-    "DAT",
+    "LAT",
     "Y",
+<<<<<<< HEAD
     "NOM_DAT",
     "Stanisław pomóg-ł Roman-owi",
     "PN[NOM.SG] help\\PST:PFV-PST[M.3SG] PN-DAT.SG",
@@ -62240,10 +72264,20 @@ const fullData = [
     "",
     "PN[NOM.SG] помочь\\PST:PFV-PST[M.3SG] PN-DAT.SG",
     "‘Станислав помог Роману.’",
+=======
+    "NOM_LAT",
+    "n’āwram n’ōt-i ɕān’-e-n",
+    "child help-NPST[3SG] mother-POSS.3SG-LAT",
+    "‘The child helps his/her mother.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "understand#language#",
     "понимать",
@@ -62258,10 +72292,27 @@ const fullData = [
     "",
     "PN[NOM.SG] понимать:IPFV.PRS.3SG язык[ACC.SG] французский-M.ACC.SG",
     "‘Сташек понимает французский язык.’",
+=======
+    "Northern Mansi",
+    "understand#language#",
+    "понимать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "hit#target#",
     "попасть",
@@ -62276,10 +72327,27 @@ const fullData = [
     "",
     "молния[NOM.SG] попасть:PFV-PST[M.3SG] в дом[ACC.SG]",
     "‘Молния попала в дом.’",
+=======
+    "Northern Mansi",
+    "hit#target#",
+    "попасть",
+    "xojas",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "jowt n’al sāli sam-na xoj-as",
+    "bow arrow reindeer eye-LAT hit-PST[3SG]",
+    "‘An arrow hit the reindeer in the eye.’",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "cut_oneself",
     "порезаться",
@@ -62294,10 +72362,27 @@ const fullData = [
     "",
     "PN[NOM.SG] порезать\\PST:PFV-PST[M.3SG] REFL бритва-INS.SG",
     "‘Сташек порезался бритвой.’",
+=======
+    "Northern Mansi",
+    "cut_oneself",
+    "порезаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "get_stuck",
     "прилипать",
@@ -62312,10 +72397,27 @@ const fullData = [
     "",
     "стакан-NOM.SG прилепить:PFV-PST-F.3SG REFL до стол-GEN.SG",
     "‘Стакан прилип к столу.’",
+=======
+    "Northern Mansi",
+    "get_stuck",
+    "прилипать",
+    "xanǝs",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "istakan pasan-ǝn xan-ǝs",
+    "glass table-LAT get_stuck-PST[3SG]",
+    "‘The glass got stuck to the table.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "lose#game#",
     "проиграть",
@@ -62330,10 +72432,27 @@ const fullData = [
     "",
     "PN[NOM.SG] проиграть:PFV-PST[M.3SG] с PN-INS.SG",
     "‘Юзеф проиграл Евгениушу.’",
+=======
+    "Northern Mansi",
+    "lose#game#",
+    "проиграть",
+    "patwes",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "am pet’a jot kasǝr-l-as-um, taw-e-n pat-we-s-um",
+    "1SG PN com card-VBZ-PST-1SG 3SG-OBL-LAT fall-PASS-PST-1SG",
+    "‘I played cards with Peter and lost to him.’",
+    "This is a passive construction based on an intransitive verb.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_glad",
     "радоваться",
@@ -62348,10 +72467,27 @@ const fullData = [
     "",
     "генерал[NOM.SG] обрадоваться:PFV-PST[M.3SG] REFL из письмо-GEN.SG",
     "‘Генерал обрадовался письму.’",
+=======
+    "Northern Mansi",
+    "be_glad",
+    "радоваться",
+    "xotɕajtunkw",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "Not included in the database because this verb can only take clausal complements.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "speak",
     "разговаривать",
@@ -62366,47 +72502,99 @@ const fullData = [
     "",
     "PN[NOM.SG] разговаривать:IPFV.PRS.3SG с PN-INS.SG",
     "‘Сташек разговаривает с Адамом.’",
+=======
+    "Northern Mansi",
+    "speak",
+    "разговаривать",
+    "potǝrti",
+    "NOM",
+    "NOMjot",
+    "Y",
+    "NOM_NOMjot",
+    "jēn’a potǝrt-i mārja jot",
+    "PN speak-NPST[3SG] PN COM",
+    "‘Eugene speaks to Mary.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "give_birth",
     "рожать",
     "urodzić",
+=======
+    "Northern Mansi",
+    "give_birth",
+    "рожать",
+    "on’ɕas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Mariol-a urodzi-ł-a syn-a",
     "PN-NOM.SG give_birth-PST-F.3SG son-ACC.SG",
     "‘Mariola gave birth to a son.’",
     "",
     "PN-NOM.SG родить-PST-F.3SG сын-ACC.SG",
     "‘Мариола родила сына.’",
+=======
+    "mārja mōlxōtal on’ɕ-as āji",
+    "PN yesterday have-PST[3SG] daughter",
+    "‘Yesterday Mary gave birth to a daughter.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "drop",
     "ронять",
     "upuścić",
+=======
+    "Northern Mansi",
+    "drop",
+    "ронять",
+    "jolpattǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Ann-a upuści-ł-a szklank-ę",
     "PN-NOM.SG drop:PFV-PST-F.3SG glass-ACC.SG",
     "‘Anna dropped the glass.’",
     "",
     "PN-NOM.SG уронить:PFV-PST-F.3SG стакан-ACC.SG",
     "‘Анна уронила стакан.’",
+=======
+    "am istakan jol-pat-t-ǝs",
+    "1SG glass down-fall-TR-PST[3SG]",
+    "‘I dropped the glass.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "govern",
     "руководить",
     "rządzić",
@@ -62418,12 +72606,22 @@ const fullData = [
     "PN-NOM.SG govern:IPFV.PRS.3SG our-F.INS.SG village-INS.SG",
     "‘Eliza runs our village.’",
     "",
+<<<<<<< HEAD
     "PN-NOM.SG управлять:IPFV.PRS.3SG наш-F.INS.SG деревня-INS.SG",
     "‘Элиза управляет нашей деревней.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "miss",
     "скучать",
@@ -62438,10 +72636,27 @@ const fullData = [
     "",
     "PN[NOM.SG] скучать:IPFV.PRS.3SG за PN-INS.SG",
     "‘Марек скучает по Магде.’",
+=======
+    "Northern Mansi",
+    "miss",
+    "скучать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "follow",
     "следовать",
@@ -62456,10 +72671,27 @@ const fullData = [
     "",
     "PN[NOM.SG] идти:IPFV.PRS.3SG за PN-INS.SG",
     "‘Яцек идет за Мареком.’",
+=======
+    "Northern Mansi",
+    "follow",
+    "следовать",
+    "n’awlaxti",
+    "NOM",
+    "NOMjuji.palt",
+    "Y",
+    "NOM_NOMjuji.palt",
+    "kati am juji pal-um akwaj ta n’awl-axt-i",
+    "cat 1SG back half-POSS.1SG always PTCL follow-REFL-NPST[3SG]",
+    "‘The cat follows me everywhere.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "dismount",
     "слезать",
@@ -62474,10 +72706,27 @@ const fullData = [
     "",
     "PN[NOM.SG] сойти:PFV\\PST-PST[M.3SG] из лошадь-GEN.SG",
     "‘Яцек слез с коня.’",
+=======
+    "Northern Mansi",
+    "dismount",
+    "слезать",
+    "xotkwalapas",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL",
+    "jēn’a buran-e-nǝl xot-kwal-ap-as",
+    "PN snowmobile-POSS.3SG-EL from-stand-PFV-PST[3SG]",
+    "‘Eugene dismounted from his snowmobile.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "listen",
     "слушать",
@@ -62492,10 +72741,27 @@ const fullData = [
     "",
     "PN[NOM.SG] слушать:IPFV.PRS.3SG радио-GEN.SG",
     "‘Анна слушает радио.’",
+=======
+    "Northern Mansi",
+    "listen",
+    "слушать",
+    "xūntli",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "am xūntl-ēj-um rādio",
+    "1SG listen-NPST-1SG radio",
+    "‘I am listening to the radio.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "obey",
     "слушаться",
@@ -62510,28 +72776,61 @@ const fullData = [
     "",
     "PN-NOM.SG слушать:IPFV.PRS.3SG REFL мама-GEN.SG",
     "‘Анна слушается маму.’",
+=======
+    "Northern Mansi",
+    "obey",
+    "слушаться",
+    "xūntli",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "ti n’awram at xūntl-i ɕān’-e-n",
+    "this child NEG obey-NPST[3SG] mother-POSS.3SG-LAT",
+    "‘This child doesn’t obey his mother.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "hear",
     "слышать",
     "słyszeć",
+=======
+    "Northern Mansi",
+    "hear",
+    "слышать",
+    "xūli",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Ann-a słyszy muzyk-ę",
     "PN-NOM.SG hear:IPFV.PRS.3SG music-ACC.SG",
     "‘Anna hears the music.’",
     "",
     "PN-NOM.SG слышать:IPFV.PRS.3SG музыка-ACC.SG",
     "‘Анна слышит музыку.’",
+=======
+    "am xūl-s-um kūt’uw",
+    "1SG hear-PST-1SG dog",
+    "‘I heard the dog.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "mix",
     "смешаться",
@@ -62546,10 +72845,27 @@ const fullData = [
     "",
     "мёд[NOM.SG] смешаться:PFV-PST[M.3SG] REFL с молоко-INS.SG",
     "‘Мёд смешался с молоком.’",
+=======
+    "Northern Mansi",
+    "mix",
+    "смешаться",
+    "tēlijtas",
+    "NOM",
+    "NOMjot",
+    "Y",
+    "NOM_NOMjot",
+    "sākkar tēlijt-as ɕaj jot",
+    "sugar mix-PST[3SG] tea COM",
+    "‘Sugar mixed with the tea.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "look",
     "смотреть",
@@ -62564,28 +72880,61 @@ const fullData = [
     "",
     "PN-NOM.SG смотреть:IPFV.PRS.3SG на туча-ACC.PL",
     "‘Анна смотрит на тучи.’",
-    "",
-    ""
-  ],
-  [
-    "Polish",
-    "take_off",
-    "снимать",
-    "zdjąć",
+=======
+    "Northern Mansi",
+    "look",
+    "смотреть",
+    "sunsi",
     "NOM",
     "ACC",
     "TR",
     "TR",
+    "am suns-ēj-um televizor",
+    "1SG watch-NPST-1SG television",
+    "‘I am watching television’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
+    "Polish",
+    "take_off",
+    "снимать",
+    "zdjąć",
+=======
+    "Northern Mansi",
+    "take_off",
+    "снимать",
+    "noxāŋxǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+<<<<<<< HEAD
     "Ann-a zdję-ł-a koszul-ę",
     "PN-NOM.SG take_off:PFV-PST-F.3SG shirt-ACC.SG",
     "‘Anna took off his shirt.’",
     "",
     "PN-NOM.SG снимать:PFV-PST-F.3SG рубашка-ACC.SG",
     "‘Анна сняла рубашку.’",
+=======
+    "am xot-āŋx-ǝs-l-um i nox-tājat-as-l-um kūrtka-m",
+    "1SG off-take_off-PST-SG.O-1SG.S and up-hang-PST-SG.O-1SG.S jacket-POSS.1SG",
+    "‘I took off and hung my jacket’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "dream#sleeping#",
     "сниться",
@@ -62600,10 +72949,27 @@ const fullData = [
     "",
     "PN-DAT.SG сниться:IPFV.PRS.3SG REFL матерь-NOM.SG божий-F.NOM.SG",
     "‘Роману снится Божья Матерь.’",
+=======
+    "Northern Mansi",
+    "dream#sleeping#",
+    "сниться",
+    "ulmajas",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+    "am ulmaj-as-um am-ki iškōla-m",
+    "1SG dream-PST-1SG 1SG-emph school-POSS.1SG",
+    "‘I dreamt about my school.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "agree",
     "соглашаться",
@@ -62618,10 +72984,27 @@ const fullData = [
     "",
     "PN-NOM.SG согласиться:PFV-PST-F.3SG REFL с PN-INS.SG",
     "‘Анна согласилась с Мареком.’",
+=======
+    "Northern Mansi",
+    "agree",
+    "соглашаться",
+    "nomtǝn patǝs",
+    "NOM",
+    "jot",
+    "Y",
+    "NOM_NOMjot",
+    "am jēn’a jot nomt-ǝn pat-s-um",
+    "1SG PN COM mind-LAT fall-PST-1SG",
+    "‘I agreed with Eugene.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "have_a_quarrel",
     "ссориться",
@@ -62636,11 +73019,31 @@ const fullData = [
     "",
     "PN-NOM.SG поссориться:PFV-PST-F.3SG REFL с PN-INS.SG",
     "‘Агнешка поссорилась с Магдой.’",
+=======
+    "Northern Mansi",
+    "have_a_quarrel",
+    "ссориться",
+    "xotkantmalaxtas",
+    "NOM",
+    "NOMjot",
+    "Y",
+    "NOM_NOMjot",
+    "n’āwram-ǝt xot-kant-m-alt-axt-as-ǝt ɕān’-anǝl jot",
+    "child-PL off-anger-VBZ-ASP-REFL-PST-3PL mother-POSS.3PL COM",
+    "‘The children had a quarrel with their mother.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "cost",
     "стоить",
     "kosztować",
@@ -62652,12 +73055,22 @@ const fullData = [
     "this.F.NOM.SG cup-NOM.SG cost:IPFV.PRS.3SG one[M.ACC.SG] dollar[ACC.SG]",
     "‘This cup costs one dollar.’",
     "",
+<<<<<<< HEAD
     "этот.F.NOM.SG чашка-NOM.SG стоить:IPFV.PRS.3SG один[M.ACC.SG] доллар[ACC.SG]",
     "‘Эта чашка стоит один доллар.’",
+=======
+    "*",
+    "*",
+    "*",
+    "Not included in the database because X is expressed as an NP-internal modifier.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "shoot_at",
     "стрелять",
@@ -62672,46 +73085,95 @@ const fullData = [
     "",
     "PN[NOM.SG] выстрелить:PFV-PST[M.3SG] до птица-GEN.SG",
     "‘Павел выстрелил в птицу.’",
-    "",
-    ""
-  ],
-  [
-    "Polish",
-    "pour",
-    "сыпать",
-    "wsypać",
+=======
+    "Northern Mansi",
+    "shoot_at",
+    "стрелять",
+    "pātamtas",
     "NOM",
     "ACC",
     "TR",
     "TR",
+    "jēn’a wās pātamt-as-t-e, at xoj-as",
+    "PN duck shoot-PST-SG.O-3SG.S NEG hit-PST[3SG]",
+    "‘Eugene shot at the duck but missed.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
+    "Polish",
+    "pour",
+    "сыпать",
+    "wsypać",
+=======
+    "Northern Mansi",
+    "pour",
+    "сыпать",
+    "tārtǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "NOM",
+    "ACC",
+    "TR",
+    "TR",
+<<<<<<< HEAD
     "Staszek wsypa-ł cukier",
     "PN[NOM.SG] pour:PFV-PST[M.3SG] sugar[ACC.SG]",
     "‘Staszek poured the sugar.’",
     "",
     "PN[NOM.SG] насыпать:PFV-PST[M.3SG] сахар[ACC.SG]",
     "‘Сташек насыпал сахар.’",
+=======
+    "ɕān’-um sākkar āni-n tārt-ǝs",
+    "mother-POSS.1SG sugar cup-LAT pour-PST[3SG]",
+    "‘My mother poured sugar into the cup.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "lose",
     "терять",
     "zgubić",
+=======
+    "Northern Mansi",
+    "lose",
+    "терять",
+    "xotūstǝs",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Marek zgubi-ł klucz-e",
     "PN[NOM.SG] lose:PFV-PST[M.3SG] key-ACC.PL",
     "‘Marek lost his keys.’",
     "",
     "PN[NOM.SG] потерять:PFV-PST[M.3SG] ключ-ACC.PL",
     "‘Марек потерял ключи.’",
+=======
+    "am os ta kasaj-um xot-ūst-ǝs-um",
+    "1SG add PTCL knife-POSS.1SG off-lose-PST-1SG",
+    "‘I lost my knife again.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "sink",
     "тонуть",
@@ -62726,101 +73188,201 @@ const fullData = [
     "",
     "полено-NOM.SG утонуть:PFV-PST-F.3SG в вода-LOC.SG",
     "‘Полено утонуло в воде.’",
+=======
+    "Northern Mansi",
+    "sink",
+    "тонуть",
+    "witna ɕaltǝs",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT",
+    "sājrap wit-na ɕalt-ǝs",
+    "axe water-LAT enter-PST[3SG]",
+    "‘The axe entered the water (sank).’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "kill",
     "убивать",
     "zabić",
+=======
+    "Northern Mansi",
+    "kill",
+    "убивать",
+    "ɕamalas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Janek zabi-ł Magdalen-ę",
     "PN[NOM.SG] kill:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Janek killed Magdalena.’",
     "",
     "PN[NOM.SG] убить:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Янек убил Магдалену.’",
+=======
+    "ti xum ɕam-al-as mōt xum",
+    "this man to.death-kill-PST[3SG] another man",
+    "‘This man killed another man.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "hit",
     "ударить",
     "uderzyć",
+=======
+    "Northern Mansi",
+    "hit",
+    "ударить",
+    "junijtas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Franek uderzy-ł Andrzej-a",
     "PN[NOM.SG] hit:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Franek hit Andrzej.’",
     "",
     "PN[NOM.SG] ударить:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Франек ударил Анджея.’",
+=======
+    "pijriɕ āji junijt-as",
+    "boy girl hit-PST[3SG]",
+    "‘The boy hit the girl.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "kiss",
     "целовать",
     "pocałować",
+=======
+    "Northern Mansi",
+    "kiss",
+    "целовать",
+    "an’apaste",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Franek pocałowa-ł Mart-ę",
     "PN[NOM.SG] kiss:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Franek kissed Marta.’",
     "",
     "PN[NOM.SG] поцеловать:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Франек поцеловал Марту.’",
+=======
+    "āji ɕān’-e an’ap-as-t-e",
+    "daughter mother-POSS.3SG kiss-PST-SG.O-3SG.S",
+    "‘The daughter kissed her mother.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "read",
     "читать",
     "przeczytać",
+=======
+    "Northern Mansi",
+    "read",
+    "читать",
+    "lowin’tas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Ann-a przeczyta-ł-a ciekaw-ą książk-ę",
     "PN-NOM.SG read:PFV-PST-F.3SG interesting-F.ACC.SG book-ACC.SG",
     "‘Anna read an interesting book.’",
     "",
     "PN-NOM.SG прочитать:PFV-PST-F.3SG интересный-F.ACC.SG книга-ACC.SG",
     "‘Анна прочитала интересную книгу.’",
+=======
+    "am jomas nēpak lowin’t-as-um",
+    "1SG good book read-PST-1SG",
+    "‘I read a good book.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "move#bodypart#",
     "шевелить",
     "poruszyć",
+=======
+    "Northern Mansi",
+    "move#bodypart#",
+    "шевелить",
+    "n’uwitas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "INS",
     "Y",
     "NOM_INS",
+<<<<<<< HEAD
     "Andrzej poruszy-ł palc-em",
     "PN[NOM.SG] move:PFV-PST[M.3SG] finger-INS.SG",
     "‘Andrzej moved his finger.’",
     "",
     "PN[NOM.SG] пошевелить:PFV-PST[M.3SG] палец-INS.SG",
     "‘Анджей пошевелил пальцем.’",
+=======
+    "am pol’am tul’ōwl-ǝt-ǝl n’uwit-as-um",
+    "1SG cold finger-PL-INS move-PST-1SG",
+    "‘I moved my cold fingers.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "respect",
     "уважать",
     "szanować",
@@ -62832,12 +73394,22 @@ const fullData = [
     "PN-NOM.SG respect:IPFV.PRS.3SG PN-ACC.SG",
     "‘Krystyna respects Anna.’",
     "",
+<<<<<<< HEAD
     "PN-NOM.SG уважать:IPFV.PRS.3SG PN-ACC.SG",
     "‘Кристина уважает Анну.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_squeamish",
     "брезговать",
@@ -62852,10 +73424,27 @@ const fullData = [
     "",
     "PN[NOM.SG] брезговать:IPFV.PRS.3SG REFL ребенок-INS.PL",
     "‘Марек брезгует детьми.’",
+=======
+    "Northern Mansi",
+    "be_squeamish",
+    "брезговать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_content",
     "быть довольным",
@@ -62870,10 +73459,27 @@ const fullData = [
     "Non-verbal predicate.",
     "PN[NOM.SG] быть\\PST-PST[M.3SG] довольный-M.NOM.SG из сын-GEN.SG",
     "‘Дариуш доволен сыном.’",
+=======
+    "Northern Mansi",
+    "be_content",
+    "быть довольным",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "fall_in_love",
     "влюбляться",
@@ -62888,10 +73494,27 @@ const fullData = [
     "",
     "PN[NOM.SG] влюбить:PFV-PST[M.3SG] REFL в PN-LOC.SG",
     "‘Михал влюбился в Янку.’",
+=======
+    "Northern Mansi",
+    "fall_in_love",
+    "влюбляться",
+    "ēruptite",
+    "*",
+    "*",
+    "*",
+    "",
+    "jēn’a anum ērupt-i-t-e",
+    "PN 1SG.OBL love-NPST-SG.O-3SG.S",
+    "‘Zhenja loves me.’",
+    "Not included in the database because this translation is semantically inaccurate.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "trust",
     "доверять",
@@ -62906,10 +73529,27 @@ const fullData = [
     "",
     "PN[NOM.SG] верить:IPFV.PRS.3SG PN-DAT.SG",
     "‘Михал верит Янасу.’",
+=======
+    "Northern Mansi",
+    "trust",
+    "доверять",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "sympathise",
     "жалеть",
@@ -62924,17 +73564,41 @@ const fullData = [
     "",
     "PN[NOM.SG] жалеть:PFV.PRS.3SG свой-F.GEN.SG мать-GEN.SG",
     "‘Михал жалеет свою мать.’",
+=======
+    "Northern Mansi",
+    "sympathise",
+    "жалеть",
+    "sāl’ ōlēj",
+    "LAT",
+    "ACC",
+    "XY",
+    "LAT_ACC",
+    "anum-n sāl’ rum-ēkwa-m",
+    "1SG.OBL-LAT pity friend-woman-POSS.1SG",
+    "‘I pity my female friend.’",
+    "Non-verbal predicate.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "envy",
     "завидовать",
     "zazdrościć",
+=======
+    "Northern Mansi",
+    "envy",
+    "завидовать",
+    "nuraɕi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
-    "DAT",
+    "LAT",
     "Y",
+<<<<<<< HEAD
     "NOM_DAT",
     "Michał zazdrości Janc-e",
     "PN[NOM.SG] envy:IPFV.PRS.3SG PN-DAT.SG",
@@ -62942,10 +73606,20 @@ const fullData = [
     "",
     "PN[NOM.SG] завидовать:IPFV.PRS.3SG PN-DAT.SG",
     "‘Михал завидует Янке.’",
+=======
+    "NOM_LAT",
+    "anum-n sāw māxum nuraɕ-ēj-t",
+    "1SG.obl-LAT many people envy-NPST-3PL",
+    "‘Many people envy me.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_angry",
     "злиться",
@@ -62960,11 +73634,31 @@ const fullData = [
     "",
     "PN[NOM.SG] злить:IPFV.PRS.3SG REFL на PN-ACC.SG",
     "‘Михал злиться на Янку.’",
+=======
+    "Northern Mansi",
+    "be_angry",
+    "злиться",
+    "kantmawe",
+    "NOM",
+    "NOMnupel",
+    "Y",
+    "NOM_NOMnupel",
+    "mārja kantm-awe āɕ-e nupǝl",
+    "PN be.angry-PASS.NPST.3SG father-POSS.3SG towards",
+    "‘Mary is angry about her father.’",
+    "This is a passive construction.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "be_surprised",
     "удивляться",
     "zdziwić się",
@@ -62976,13 +73670,26 @@ const fullData = [
     "PN[NOM.SG] surprise:PFV-PST[M.3SG] REFL this.M.INS.SG gift-INS.SG",
     "‘Michał was surprised at this gift.’",
     "",
+<<<<<<< HEAD
     "PN[NOM.SG] удивлять:PFV-PST[M.3SG] REFL этот.M.INS.SG подарок-INS.SG",
     "‘Михал удивился этому подарку.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "love#tea#",
     "любить-2",
     "lubić",
@@ -62994,13 +73701,26 @@ const fullData = [
     "PN[NOM.SG] love:IPFV.PRS.3SG tea-ACC.SG",
     "‘Michał loves tea.’",
     "",
+<<<<<<< HEAD
     "PN[NOM.SG] любить:IPFV.PRS.3SG чай-ACC.SG",
     "‘Михал любит чай.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "enjoy",
     "наслаждаться",
     "delektować się",
@@ -63012,30 +73732,56 @@ const fullData = [
     "PN[NOM.SG] love:IPFV.PRS.3SG REFL hot-F.INS.SG tea-INS.SG",
     "‘Michał enjoys hot tea.’",
     "",
+<<<<<<< HEAD
     "PN[NOM.SG] любить:IPFV.PRS.3SG REFL горячий-F.INS.SG чай-INS.SG",
     "‘Михал наслаждается горячим чаем.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "want",
     "хотеть",
     "chcieć",
+=======
+    "Northern Mansi",
+    "want",
+    "хотеть",
+    "tāŋxi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Michał chce now-ą komórk-ę",
     "PN[NOM.SG] want:IPFV.PRS.3SG new-F.ACC.SG mobile_phone-ACC.SG",
     "‘Michał wants a new mobile phone.’",
     "",
     "PN[NOM.SG] хотеть:IPFV.PRS.3SG новый-F.ACC.SG мобильник-ACC.SG",
     "‘Михал хочет новый мобильник.’",
+=======
+    "am āji-m tāŋx-i lil’pi t’el’efōn",
+    "1SG daughter-POSS.1SG want-NPST[3SG] new phone",
+    "‘My daughter wants a new phone.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "have_a_grudge",
     "сердиться",
@@ -63050,10 +73796,27 @@ const fullData = [
     "",
     "PN[NOM.SG] бесить:IPFV.PRS.3SG REFL на PN-ACC.SG",
     "‘Михал злится на Анну.’",
+=======
+    "Northern Mansi",
+    "have_a_grudge",
+    "сердиться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained. Same as “be angry”",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "take_offence",
     "обижаться",
@@ -63068,28 +73831,79 @@ const fullData = [
     "",
     "PN[NOM.SG] обидеть:PFV-PST[M.3SG] REFL на PN-ACC.SG",
     "‘Михал обиделся на Магду.’",
+=======
+    "Northern Mansi",
+    "take_offence",
+    "обижаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained. Same as “be angry”",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "upset",
     "огорчать",
     "zasmucić",
+=======
+    "Northern Mansi",
+    "upset",
+    "огорчать",
+    "xotkantmaltas",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "NOM",
     "ACC",
     "TR",
     "TR",
+<<<<<<< HEAD
     "Paweł bardzo zasmuci-ł Magd-ę",
     "PN[NOM.SG] very upset:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Paweł greatly upset Magda.’",
     "",
     "PN[NOM.SG] очень огорчить:PFV-PST[M.3SG] PN-ACC.SG",
     "‘Павел очень огорчил Магду.’",
+=======
+    "pīj ɕān’- e takiɕ xot-kantm-alt-as-t-e",
+    "son mother-POSS.3SG strongly off-be.angry-CAUS-PST-SG.O-3SG.S",
+    "‘The son made the mother very angry.’",
+    "",
+    "",
+    "",
     "",
     ""
   ],
   [
+    "Northern Mansi",
+    "marvel",
+    "поражаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
+    "",
+    ""
+  ],
+  [
+<<<<<<< HEAD
     "Polish",
     "marvel",
     "поражаться",
@@ -63122,10 +73936,27 @@ const fullData = [
     "",
     "PN[NOM.SG] презирать:IPFV.PRS.3SG PN-INS.SG",
     "‘Павел презирает Магду.’",
+=======
+    "Northern Mansi",
+    "despise",
+    "презирать",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "get_upset",
     "огорчаться",
@@ -63140,11 +73971,31 @@ const fullData = [
     "",
     "PN[NOM.SG] огорчить:PFV-PST[M.3SG] REFL из повод-GEN.SG сын-GEN.SG",
     "‘Михал огорчился из-за сына.’",
+=======
+    "Northern Mansi",
+    "get_upset",
+    "огорчаться",
+    "*",
+    "*",
+    "*",
+    "*",
+    "",
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "get_irritated",
     "раздражаться",
     "denerwywać się",
@@ -63156,13 +74007,26 @@ const fullData = [
     "PN[NOM.SG] irritate:IPFV.PRS.3SG REFL on one’s_own-ACC.SG daughter-ACC.SG",
     "‘Michał is getting irritated with his daughter.’",
     "",
+<<<<<<< HEAD
     "PN[NOM.SG] раздражать:IPFV.PRS.3SG REFL на свой-ACC.SG дочь-ACC.SG",
     "‘Павел раздражается на свою дочь.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
+=======
+    "Northern Mansi",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "be_fond",
     "симпатизировать",
     "lubić",
@@ -63174,12 +74038,22 @@ const fullData = [
     "PN[NOM.SG] love:IPFV.PRS.3SG PN-ACC.SG",
     "‘Michał is fond of Magda.’",
     "",
+<<<<<<< HEAD
     "PN[NOM.SG] любить:IPFV.PRS.3SG PN-ACC.SG",
     "‘Михалу нравится Магда.’",
+=======
+    "*",
+    "*",
+    "*",
+    "No satisfactory translation has been obtained.",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
   [
+<<<<<<< HEAD
     "Polish",
     "be_shy",
     "стесняться",
@@ -63194,6 +74068,22 @@ const fullData = [
     "",
     "PN[NOM.SG] стесняться:IPFV.PRS.3SG REFL свой-M.GEN.SG рост-GEN.SG",
     "‘Михал стесняется своего роста.’",
+=======
+    "Northern Mansi",
+    "be_shy",
+    "стесняться",
+    "ēssamti",
+    "NOM",
+    "NOMmajes",
+    "Y",
+    "NOM_NOMmajes",
+    "pijriɕ ēssamt-i takwi pōsl-ǝm xuri-jan-e mājǝs",
+    "boy be_shy-NPST[3SG] 3SG.EMPH draw-RES picture-PL-POSS.3SG for",
+    "‘The boy is shy about the pictures he drew.’",
+    "",
+    "",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     ""
   ],
@@ -81921,6 +92811,7 @@ const fullData = [
     "Swedish",
     "feel_pain",
     "болеть-1",
+<<<<<<< HEAD
     "att ha ont",
     "SBJ",
     "i",
@@ -81930,6 +92821,17 @@ const fullData = [
     "PN have-PRS painful.INDF.N.SG in head-DEF.N.SG",
     "‘Björn has a headache.’",
     "",
+=======
+    "ɗukkuba",
+    "ABS",
+    "NOM",
+    "X",
+    "ABS_NOM",
+    "obsaa-n mataa-n isa ɗukkub-a",
+    "PN-NOM head-NOM 3SG.M.ABS pain-3SG.M.IPFV",
+    "‘Obsa has a headache.’",
+    "The first NP is fronted, but this is not obligatory.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -81939,6 +92841,7 @@ const fullData = [
     "Swedish",
     "have#illness#",
     "болеть-2",
+<<<<<<< HEAD
     "att ha",
     "SBJ",
     "DO",
@@ -81947,6 +92850,16 @@ const fullData = [
     "Björn ha-r influensa",
     "PN have-PRS flu",
     "‘Björn has the flu.’",
+=======
+    "k'aba",
+    "ABS",
+    "NOM",
+    "X",
+    "ABS_NOM",
+    "k'ufaa-n obsaa k'ab-e",
+    "flu-NOM PN.ABS catch-3SG.M.PFV",
+    "‘Obsa has the flu.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -81957,6 +92870,7 @@ const fullData = [
     "Swedish",
     "be_afraid",
     "бояться",
+<<<<<<< HEAD
     "att vara rädd",
     "SBJ",
     "for",
@@ -81966,6 +92880,17 @@ const fullData = [
     "PN be.PRS afraid for dog-DEF.C.SG",
     "‘Björn is afraid of the dog.’",
     "Non-verbal predicate.",
+=======
+    "sodaata",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n sar-ittʃa sodaat-e",
+    "PN-NOM dog-DEF.ABS be_afraid.3SG.M-PFV",
+    "‘Obsa is afraid of the dog.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -81975,9 +92900,15 @@ const fullData = [
     "Swedish",
     "throw",
     "бросить",
+<<<<<<< HEAD
     "att kasta",
     "SBJ",
     "DO",
+=======
+    "darbata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn kasta-de en sten först",
@@ -81993,7 +92924,11 @@ const fullData = [
     "Swedish",
     "have_enough",
     "быть достаточно",
+<<<<<<< HEAD
     "att ha tillräckligt",
+=======
+    "gahaa k'aba",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "*",
     "*",
     "*",
@@ -82011,9 +92946,15 @@ const fullData = [
     "Swedish",
     "resemble",
     "быть похожим",
+<<<<<<< HEAD
     "att likna",
     "SBJ",
     "DO",
+=======
+    "fakkaata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn likna-r Mikael",
@@ -82029,9 +92970,15 @@ const fullData = [
     "Swedish",
     "believe",
     "верить",
+<<<<<<< HEAD
     "att tro",
     "SBJ",
     "DO",
+=======
+    "amana",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn tro-r Maja",
@@ -82047,9 +92994,15 @@ const fullData = [
     "Swedish",
     "take",
     "взять",
+<<<<<<< HEAD
     "att ta",
     "SBJ",
     "DO",
+=======
+    "fuɗata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn tog en bok från hylla-n",
@@ -82065,9 +93018,15 @@ const fullData = [
     "Swedish",
     "see",
     "видеть",
+<<<<<<< HEAD
     "att se",
     "SBJ",
     "DO",
+=======
+    "arga",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn se-r ett hus",
@@ -82083,6 +93042,7 @@ const fullData = [
     "Swedish",
     "influence",
     "влиять",
+<<<<<<< HEAD
     "att påverka",
     "SBJ",
     "DO",
@@ -82090,6 +93050,15 @@ const fullData = [
     "TR",
     "ålder-n påverka-r minne-t",
     "age-DEF.C.SG influence-PRS memory-DEF.N.SG",
+=======
+    "ɗiibbaa k'aba",
+    "NOM",
+    "ABSirratti",
+    "Y",
+    "NOM_ABSirratti",
+    "umurii-n jaadattʃuu irra-tti ɗiibbaa k'ab-a",
+    "age-NOM memory.ABS on-LOC influence have-3SG.M.IPFV",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘Age influences memory.’",
     "",
     "",
@@ -82101,6 +93070,7 @@ const fullData = [
     "Swedish",
     "encounter",
     "встречаться",
+<<<<<<< HEAD
     "att träffa på",
     "SBJ",
     "DO",
@@ -82110,6 +93080,17 @@ const fullData = [
     "PN meet-PST on PN",
     "‘Björn encountered Maja.’",
     "Phrasal verb (<i>på</i> is not a flagging device).",
+=======
+    "ɗufa",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "obsaa-n tolaa-tti ɗuf-e",
+    "PN-NOM PN-LOC come-3SG.M.PFV",
+    "‘Obsa encountered Tolaa.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82119,6 +93100,7 @@ const fullData = [
     "Swedish",
     "enter",
     "входить ",
+<<<<<<< HEAD
     "att gå in",
     "SBJ",
     "i",
@@ -82128,6 +93110,17 @@ const fullData = [
     "PN go.PST inside in house-DEF.N.SG",
     "‘Björn entered the house.’",
     "Phrasal verb (<i>in</i> is not a flagging device).",
+=======
+    "seena",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n mana seen-e",
+    "PN-NOM house.ABS enter-3SG.M.PFV",
+    "‘Obsa entered the house.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82137,9 +93130,15 @@ const fullData = [
     "Swedish",
     "win",
     "выиграть",
+<<<<<<< HEAD
     "att slå",
     "SBJ",
     "DO",
+=======
+    "moʔa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn slog Maja",
@@ -82155,6 +93154,7 @@ const fullData = [
     "Swedish",
     "go_out",
     "выходить",
+<<<<<<< HEAD
     "att gå ut",
     "SBJ",
     "ur",
@@ -82164,6 +93164,17 @@ const fullData = [
     "PN go.PST out out_of house-DEF.N.SG",
     "‘Björn went out of the house.’",
     "Phrasal verb (<i>ut</i> is not a flagging device).",
+=======
+    "gadi baʔa",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL",
+    "obsaa-n manaa gadi=baʔ-e",
+    "PN-NOM house.ABL down=go_out-3SG.M.PFV ",
+    "‘Obsa went out of thehouse.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82173,9 +93184,15 @@ const fullData = [
     "Swedish",
     "drive",
     "гнать",
+<<<<<<< HEAD
     "att driva",
     "SBJ",
     "DO",
+=======
+    "oofa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn driv-er ko-n",
@@ -82191,6 +93208,7 @@ const fullData = [
     "Swedish",
     "bend",
     "гнуть",
+<<<<<<< HEAD
     "att böja",
     "SBJ",
     "DO",
@@ -82199,6 +93217,16 @@ const fullData = [
     "Björn böj-de gren-en",
     "PN bend-PST branch-DEF.C.SG",
     "‘Björn bent the branch.’",
+=======
+    "dʒallisa",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n dam-ittʃa dʒall-i-s-e",
+    "PN-NOM branch-DEF.ABS bend-EP-CAUS-3SG.MPFV",
+    "‘Obsa bent the branch.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82209,9 +93237,15 @@ const fullData = [
     "Swedish",
     "tell",
     "говорить",
+<<<<<<< HEAD
     "att säga",
     "SBJ",
     "till",
+=======
+    "dʒeɗa",
+    "NOM",
+    "INS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_till",
     "“Kom på besök”, sade Björn till Maja",
@@ -82227,9 +93261,15 @@ const fullData = [
     "Swedish",
     "hold",
     "держать",
+<<<<<<< HEAD
     "att hålla",
     "SBJ",
     "DO",
+=======
+    "k'abata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn håll-er en bok i händ-erna",
@@ -82245,9 +93285,15 @@ const fullData = [
     "Swedish",
     "catch_up",
     "догнать",
+<<<<<<< HEAD
     "att hinna i kapp",
     "SBJ",
     "DO",
+=======
+    "k'ak'k'abata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn hann ikapp Maja",
@@ -82263,9 +93309,15 @@ const fullData = [
     "Swedish",
     "milk",
     "доить",
+<<<<<<< HEAD
     "att mjölka",
     "SBJ",
     "DO",
+=======
+    "elma",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn mjölka-de ko-n",
@@ -82281,6 +93333,7 @@ const fullData = [
     "Swedish",
     "reach",
     "достичь",
+<<<<<<< HEAD
     "att komma fram",
     "SBJ",
     "till",
@@ -82290,6 +93343,17 @@ const fullData = [
     "PN come.PST forward to bank-DEF.C.SG",
     "‘Björn reached the bank.’",
     "Phrasal verb (<i>fram</i> is not a flagging device).",
+=======
+    "gaha",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n k'ark'ara lagaa gah-e",
+    "PN-NOM bank.ABS river.GEN reach-3SG.M.PFV",
+    "‘Obsa reached the river bank.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82299,9 +93363,15 @@ const fullData = [
     "Swedish",
     "touch",
     "дотронуться",
+<<<<<<< HEAD
     "att röra",
     "SBJ",
     "vid",
+=======
+    "itti buʔa",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_vid",
     "Björn rör-de vid vägg-en och blev kladdig",
@@ -82317,6 +93387,7 @@ const fullData = [
     "Swedish",
     "fight",
     "драться",
+<<<<<<< HEAD
     "att slåss ",
     "SBJ",
     "med",
@@ -82325,6 +93396,16 @@ const fullData = [
     "Björn slåss med Maja",
     "PN fight.PRS with PN",
     "‘Björn is fighting with Maja.’",
+=======
+    "wal lola",
+    "NOM",
+    "ABSwaddzin",
+    "Y",
+    "NOM_ABSwaddzin",
+    "obsaa-n tolaa waddʒin wal lol-aa dʒir-a",
+    "PN-NOM PN.ABS with each_other fight-PROG AUX-3SG.M.NPST ",
+    "‘Obsa is fighting with Tola.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82335,9 +93416,15 @@ const fullData = [
     "Swedish",
     "be_friends",
     "дружить",
+<<<<<<< HEAD
     "att vara vän",
     "SBJ",
     "med",
+=======
+    "hirijaa=ɗa",
+    "NOM",
+    "ABSwaddzin",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_med",
     "Björn är vän med Maja",
@@ -82353,6 +93440,7 @@ const fullData = [
     "Swedish",
     "think",
     "думать",
+<<<<<<< HEAD
     "att tänka",
     "SBJ",
     "pa",
@@ -82361,6 +93449,16 @@ const fullData = [
     "Björn tänk-er på Maja",
     "PN think-PRS on PN",
     "‘Björn is thinking about Maja.’",
+=======
+    "jaada",
+    "NOM",
+    "waa7eeGEN",
+    "Y",
+    "NOM_waa7eeGEN",
+    "obsaa-n waaʔee boontuu jaad-aa dʒir-a",
+    "PN-NOM about PN.GEN think-PROG AUX-3SG.M.NPST",
+    "‘Obsa is thinking about Bontu.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82371,9 +93469,15 @@ const fullData = [
     "Swedish",
     "eat",
     "есть",
+<<<<<<< HEAD
     "att äta",
     "SBJ",
     "DO",
+=======
+    "ɲaata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn åt ett äpple",
@@ -82389,6 +93493,7 @@ const fullData = [
     "Swedish",
     "fry",
     "жарить",
+<<<<<<< HEAD
     "att steka",
     "SBJ",
     "DO",
@@ -82397,6 +93502,16 @@ const fullData = [
     "Björn stek-te fisk-en",
     "PN fry-PST fish-DEF.C.SG",
     "‘Björn fried the fish.’",
+=======
+    "biltʃeessa",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "gurbaa-n k'urt'umm-ittʃa biltʃ-eess-e",
+    "boy-NOM fish-DEF.ABS fry-CAUS-3SG.M.PFV",
+    "‘The boy fried the fish’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82407,6 +93522,7 @@ const fullData = [
     "Swedish",
     "wait",
     "ждать",
+<<<<<<< HEAD
     "att vänta",
     "SBJ",
     "pa",
@@ -82415,6 +93531,16 @@ const fullData = [
     "Björn vänta-r på Maja",
     "PN wait-PRS on PN",
     "‘Björn is waiting for Maja.’",
+=======
+    "eega",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n tolaa eeg-aa dʒir-a",
+    "PN-NOM PN.ABS wait-PROG AUX-3SG.M.NPST",
+    "‘Obsa is waiting for Tola.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82425,9 +93551,15 @@ const fullData = [
     "Swedish",
     "forget",
     "забывать",
+<<<<<<< HEAD
     "att glömma bort",
     "SBJ",
     "DO",
+=======
+    "irraanfata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn ha-de glöm-t bort den andr-a väg-en",
@@ -82443,9 +93575,15 @@ const fullData = [
     "Swedish",
     "depend",
     "зависеть",
+<<<<<<< HEAD
     "att bero",
     "SBJ",
     "pa",
+=======
+    "hundaaʔa",
+    "NOM",
+    "ABSirratti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_pa",
     "minn-et bero-r på ålder-n",
@@ -82461,6 +93599,7 @@ const fullData = [
     "Swedish",
     "call",
     "звать",
+<<<<<<< HEAD
     "att ropa",
     "SBJ",
     "pa",
@@ -82469,6 +93608,16 @@ const fullData = [
     "Björn ropa-de på Maja",
     "PN call-PST on PN",
     "‘Björn called Maja.’",
+=======
+    "waammata",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n boontuu waamm-at-e",
+    "PN-NOM PN.ABS call-MID-3SG.M.PFV",
+    "‘Obsa called Bontu.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82479,9 +93628,15 @@ const fullData = [
     "Swedish",
     "get_to_know",
     "знакомиться",
+<<<<<<< HEAD
     "att lära känna",
     "SBJ",
     "DO",
+=======
+    "wal bara",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn lär-de känn-a Maja för ett år sedan",
@@ -82497,9 +93652,15 @@ const fullData = [
     "Swedish",
     "know",
     "знать ",
+<<<<<<< HEAD
     "att känna",
     "SBJ",
     "DO",
+=======
+    "beeka",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn känn-er Maja",
@@ -82515,9 +93676,15 @@ const fullData = [
     "Swedish",
     "play#instrument#",
     "играть",
+<<<<<<< HEAD
     "att spela",
     "SBJ",
     "DO",
+=======
+    "tap'ata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn spela-r gitarr",
@@ -82533,9 +93700,15 @@ const fullData = [
     "Swedish",
     "avoid",
     "избегать",
+<<<<<<< HEAD
     "att undvika",
     "SBJ",
     "DO",
+=======
+    "ooda",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn undvik-er Maja",
@@ -82551,9 +93724,15 @@ const fullData = [
     "Swedish",
     "make",
     "изготовить",
+<<<<<<< HEAD
     "att göra",
     "SBJ",
     "DO",
+=======
+    "hoddʒeta",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn gjor-de en musfälla",
@@ -82569,6 +93748,7 @@ const fullData = [
     "Swedish",
     "make_fun",
     "издеваться",
+<<<<<<< HEAD
     "att göra narr ",
     "SBJ",
     "av",
@@ -82577,6 +93757,16 @@ const fullData = [
     "Björn gör narr av Maja",
     "now make.PRS fool of PN",
     "‘Björn is making fun of Maja.’",
+=======
+    "k'oosa",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "obsaa-n tolaa-tti k'oos-aa dʒir-a",
+    "PN-NOM PN-LOC make_fun-PROG AUX-3SG.M.NPST",
+    "‘Obsa is making fun of Tola.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82587,9 +93777,15 @@ const fullData = [
     "Swedish",
     "have",
     "иметь",
+<<<<<<< HEAD
     "att ha",
     "SBJ",
     "DO",
+=======
+    "k'aba",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn ha-r en bil",
@@ -82605,6 +93801,7 @@ const fullData = [
     "Swedish",
     "look_for",
     "искать",
+<<<<<<< HEAD
     "att leta",
     "SBJ",
     "efter",
@@ -82613,6 +93810,16 @@ const fullData = [
     "Björn leta-r efter sina nyckl-ar",
     "PN seek-PRS after POSS.REFL.PL key-PL",
     "‘Björn is looking for his keys.’",
+=======
+    "barbaada",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n furtuu-wwan isaa barbaad-aa dʒir-a  ",
+    "PN-NOM key-PL.ABS 3SG.M.POSS look_for-PROG AUX-3SG.M.NPST",
+    "‘Obsa is looking for his keys,’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82623,9 +93830,15 @@ const fullData = [
     "Swedish",
     "paint",
     "красить",
+<<<<<<< HEAD
     "att måla",
     "SBJ",
     "DO",
+=======
+    "halluu diba",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn måla-de staket-et",
@@ -82641,9 +93854,15 @@ const fullData = [
     "Swedish",
     "bite",
     "кусать",
+<<<<<<< HEAD
     "att bita",
     "SBJ",
     "DO",
+=======
+    "tʃiniina",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "en hund bet Björn",
@@ -82659,9 +93878,15 @@ const fullData = [
     "Swedish",
     "forfeit",
     "лишаться",
+<<<<<<< HEAD
     "att förlora",
     "SBJ",
     "DO",
+=======
+    "ɗaba",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn förlora-de sitt hus",
@@ -82677,9 +93902,15 @@ const fullData = [
     "Swedish",
     "try_to_catch",
     "ловить",
+<<<<<<< HEAD
     "att försöka fånga",
     "SBJ",
     "DO",
+=======
+    "k'abuuf jaala",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn försök-er fånga katt-en",
@@ -82695,9 +93926,15 @@ const fullData = [
     "Swedish",
     "break",
     "ломать",
+<<<<<<< HEAD
     "att knäcka",
     "SBJ",
     "DO",
+=======
+    "tʃ'aba",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn knäck-te en pinne",
@@ -82713,9 +93950,15 @@ const fullData = [
     "Swedish",
     "flatter",
     "льстить",
+<<<<<<< HEAD
     "att smickra",
     "SBJ",
     "DO",
+=======
+    "dʒadʒa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn smickra-r Maja",
@@ -82731,9 +93974,15 @@ const fullData = [
     "Swedish",
     "love#person#",
     "любить-1",
+<<<<<<< HEAD
     "att älska",
     "SBJ",
     "DO",
+=======
+    "dʒaallata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn älska-r Maja",
@@ -82749,6 +93998,7 @@ const fullData = [
     "Swedish",
     "wave",
     "махать",
+<<<<<<< HEAD
     "att vinka",
     "SBJ",
     "med",
@@ -82757,6 +94007,16 @@ const fullData = [
     "Björn vinka-r med en näsduk",
     "PN wave-PRS with INDF.C.SG handkerchief",
     "‘Björn is waving a handkerchief.’",
+=======
+    "mirmirsa",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n alaabaa mirmirs-aa dʒir-a",
+    "PN-NOM flag.ABS wave-PROG AUX-3SG.M.NPST",
+    "‘Obsa is waving a flag.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82767,6 +94027,7 @@ const fullData = [
     "Swedish",
     "dream",
     "мечтать",
+<<<<<<< HEAD
     "att drömma",
     "SBJ",
     "om",
@@ -82775,6 +94036,16 @@ const fullData = [
     "Björn drömm-er om en ny bil",
     "PN dream-PRS about INDF.C.SG new car",
     "‘Björn is dreaming of a new car.’",
+=======
+    "abdʒata",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n konkolaataa haaraa abdʒattʃ-aa dʒir-a",
+    "PN-NOM car.ABS new.ABS dream-PROG AUX-3SG.M.NPST",
+    "‘Obsa is dreaming of a new car.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82785,9 +94056,15 @@ const fullData = [
     "Swedish",
     "wash",
     "мыть",
+<<<<<<< HEAD
     "att diska",
     "SBJ",
     "DO",
+=======
+    "ɗik'a",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn diska-de kopp-en",
@@ -82800,12 +94077,21 @@ const fullData = [
     ""
   ],
   [
+<<<<<<< HEAD
     "Swedish",
     "put_on",
     "надевать",
     "att ta på sig",
     "SBJ",
     "DO",
+=======
+    "West Central Oromo",
+    "put_on",
+    "надевать",
+    "fuffata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn tog på sig sina byx-or",
@@ -82821,6 +94107,7 @@ const fullData = [
     "Swedish",
     "be_called",
     "называться",
+<<<<<<< HEAD
     "att kallas för",
     "SBJ",
     "DO",
@@ -82830,6 +94117,17 @@ const fullData = [
     "INDF.N.SG such-INDF.N.SG here tool call-PRS.PASS for INDF.C.SG compass",
     "‘This instrument is called a compass.’",
     "Phrasal verb (<i>för</i> is not a flagging device).",
+=======
+    "dʒeɗa",
+    "NOM",
+    "BARE",
+    "Y",
+    "NOM_BARE",
+    "meeʃaa-n kun kompaasii dʒeɗ-am-a",
+    "tool-NOM this.NOM compass.ABS say-PASS-3SG.M.IPFV",
+    "‘This tool is called a compass.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -82839,9 +94137,15 @@ const fullData = [
     "Swedish",
     "punish",
     "наказывать",
+<<<<<<< HEAD
     "att straffa",
     "SBJ",
     "DO",
+=======
+    "adaba",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn straffa-de sin son",
@@ -82857,9 +94161,15 @@ const fullData = [
     "Swedish",
     "attack",
     "напасть",
+<<<<<<< HEAD
     "att anfalla",
     "SBJ",
     "DO",
+=======
+    "haleela",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "en björn anföll en fiskare",
@@ -82875,9 +94185,15 @@ const fullData = [
     "Swedish",
     "fill#intr#",
     "наполняться",
+<<<<<<< HEAD
     "att fyllas",
     "SBJ",
     "med",
+=======
+    "guuta",
+    "NOM",
+    "INS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_med",
     "hink-en fyll-de-s med vatten",
@@ -82893,9 +94209,15 @@ const fullData = [
     "Swedish",
     "find",
     "находить",
+<<<<<<< HEAD
     "att hitta",
     "SBJ",
     "DO",
+=======
+    "argata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn hitta-de sina nyckl-ar",
@@ -82911,9 +94233,15 @@ const fullData = [
     "Swedish",
     "be_short",
     "недоставать",
+<<<<<<< HEAD
     "att ha för lite",
     "SBJ",
     "DO",
+=======
+    "ɗaba",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn ha-r en euro för lite",
@@ -82929,9 +94257,15 @@ const fullData = [
     "Swedish",
     "hate",
     "ненавидеть",
+<<<<<<< HEAD
     "att hata",
     "SBJ",
     "DO",
+=======
+    "dʒibba",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn hata-r Maja",
@@ -82947,9 +94281,15 @@ const fullData = [
     "Swedish",
     "like",
     "нравиться",
+<<<<<<< HEAD
     "att gilla",
     "SBJ",
     "DO",
+=======
+    "dʒaallata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn gilla-r den här tröja-n",
@@ -82965,9 +94305,15 @@ const fullData = [
     "Swedish",
     "need",
     "нуждаться",
+<<<<<<< HEAD
     "att behöva",
     "SBJ",
     "DO",
+=======
+    "barbaada",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn behöv-er pengar",
@@ -82983,6 +94329,7 @@ const fullData = [
     "Swedish",
     "surround",
     "окружать",
+<<<<<<< HEAD
     "att omge",
     "SBJ",
     "DO",
@@ -82990,6 +94337,15 @@ const fullData = [
     "TR",
     "mur-arna omge-r stad-en",
     "wall-DEF.PL surround-PRS city-DEF.C.SG",
+=======
+    "marsa",
+    "INS",
+    "NOM",
+    "X",
+    "INS_NOM",
+    "magaal-ittʃ-i keeɲɲan-iin marf-am-ee dʒir-a",
+    "city-DEF-NOM wall-INS circle-PASS-CONV AUX-3SG.M.NPST",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "‘The walls surround the city.’",
     "",
     "",
@@ -83001,6 +94357,7 @@ const fullData = [
     "Swedish",
     "remain",
     "оставаться",
+<<<<<<< HEAD
     "att ha kvar",
     "SBJ",
     "DO",
@@ -83010,6 +94367,17 @@ const fullData = [
     "PN have-PRS 10 euro left",
     "‘Björn has ten euro left.’",
     "",
+=======
+    "hafa",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM",
+    "obsaa-n birrii-n kuɗan isaa-f haf-e",
+    "PN-NOM birr-NOM ten.NOM 3SG.M-DAT remain-3SG.M.PFV",
+    "‘Obsa has ten birr left.’",
+    "The first NP is fronted, but this is not obligatory. The subject is not grammatically marked for the plural, hence no PL index on the verb.",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83019,6 +94387,7 @@ const fullData = [
     "Swedish",
     "answer",
     "отвечать",
+<<<<<<< HEAD
     "att svara",
     "SBJ",
     "DO",
@@ -83027,6 +94396,16 @@ const fullData = [
     "Björn svara-de lärare-n",
     "PN answer-PST teacher-DEF.C.SG",
     "‘Björn answered the teacher.’",
+=======
+    "deebii kenna",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "obsaa-n bar-siis-ittʃaa-f deebii kenn-e",
+    "PN-NOM learn-CAUS-DEF-DAT answer.ABS give-3SG.M.PFV",
+    "‘Obsa answered the teacher.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83037,9 +94416,15 @@ const fullData = [
     "Swedish",
     "open",
     "открывать",
+<<<<<<< HEAD
     "att öppna",
     "SBJ",
     "DO",
+=======
+    "bana",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn öppna-de en burk",
@@ -83055,9 +94440,15 @@ const fullData = [
     "Swedish",
     "be_different",
     "отличаться",
+<<<<<<< HEAD
     "NEG + att vara likadan",
     "SBJ",
     "som",
+=======
+    "adda=ɗa",
+    "NOM",
+    "ABSirraa",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_som",
     "nej, min tröja är inte likadan som din",
@@ -83073,6 +94464,7 @@ const fullData = [
     "Swedish",
     "fall_behind",
     "отстать",
+<<<<<<< HEAD
     "att hamna efter",
     "SBJ",
     "DO",
@@ -83081,6 +94473,16 @@ const fullData = [
     "Björn hamna-de efter Maja",
     "PN end_up-PST after PN",
     "‘Björn fell behind Maja.’",
+=======
+    "hafa",
+    "NOM",
+    "ABSbiraa",
+    "Y",
+    "NOM_ABSbiraa",
+    "obsaa-n kuf-ee tolaa biraa haf-e",
+    "PN-NOM fall-CONV PN.ABS beside.ABL remain-3SG.M.PFV",
+    "‘Obsa fell and remained behind Tola.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83091,9 +94493,15 @@ const fullData = [
     "Swedish",
     "plough",
     "пахать",
+<<<<<<< HEAD
     "att plöja",
     "SBJ",
     "DO",
+=======
+    "k'ota",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn plöj-er åker-n",
@@ -83109,6 +94517,7 @@ const fullData = [
     "Swedish",
     "smell",
     "пахнуть",
+<<<<<<< HEAD
     "att lukta",
     "SBJ",
     "DO",
@@ -83117,6 +94526,16 @@ const fullData = [
     "mina händ-er lukta-r bensin",
     "my.PL hand-PL smell-PRS gasoline",
     "‘My hands smell of gasoline.’",
+=======
+    "dʒeɗa",
+    "NOM",
+    "RDP",
+    "Y",
+    "NOM_RDP",
+    "hark-i=koo benzina benzina dʒeɗ-a",
+    "hand-NOM=1SG.POSS gasoline gasoline say-3SG.M.IPFV",
+    "‘My hands smell like gasoline.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83127,9 +94546,15 @@ const fullData = [
     "Swedish",
     "cross",
     "пересечь",
+<<<<<<< HEAD
     "att gå över",
     "SBJ",
     "DO",
+=======
+    "k'at't'aamura",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn gick över gata-n",
@@ -83145,6 +94570,7 @@ const fullData = [
     "Swedish",
     "sing",
     "петь",
+<<<<<<< HEAD
     "att sjunga",
     "SBJ",
     "DO",
@@ -83153,6 +94579,16 @@ const fullData = [
     "Björn sjöng en vacker sång",
     "PN sing.PST INDF.C.SG beautiful.INDF.C.SG song",
     "‘Björn sang a beautiful song.’",
+=======
+    "sirba",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n sirba bareedaa sirb-e",
+    "PN-NOM song.ABS beautiful.ABS sing-3SG.M.PFV",
+    "‘Obsa sang a beautiful song.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83163,9 +94599,15 @@ const fullData = [
     "Swedish",
     "write",
     "писать",
+<<<<<<< HEAD
     "att skriva",
     "SBJ",
     "DO",
+=======
+    "barreessa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn skrev ett brev",
@@ -83181,9 +94623,15 @@ const fullData = [
     "Swedish",
     "drink",
     "пить",
+<<<<<<< HEAD
     "att dricka",
     "SBJ",
     "DO",
+=======
+    "ɗuga",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn drack mjölk-en",
@@ -83199,9 +94647,15 @@ const fullData = [
     "Swedish",
     "melt",
     "плавить",
+<<<<<<< HEAD
     "att smälta",
     "SBJ",
     "DO",
+=======
+    "bak'sa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn smält-e en bit bly",
@@ -83217,9 +94671,15 @@ const fullData = [
     "Swedish",
     "match",
     "подходить",
+<<<<<<< HEAD
     "att passa",
     "SBJ",
     "till",
+=======
+    "wal sima",
+    "NOM",
+    "ABSwaddzin",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_till",
     "det här skärp-et passa-r till min klänning",
@@ -83235,9 +94695,15 @@ const fullData = [
     "Swedish",
     "leave",
     "покидать",
+<<<<<<< HEAD
     "att lämna",
     "SBJ",
     "DO",
+=======
+    "gadi ɗiisa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn lämna-de sin hemstad",
@@ -83253,9 +94719,15 @@ const fullData = [
     "Swedish",
     "cover",
     "покрывать",
+<<<<<<< HEAD
     "att täcka",
     "SBJ",
     "DO",
+=======
+    "uwwisa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "matta-n täck-er hela golv-et",
@@ -83271,9 +94743,15 @@ const fullData = [
     "Swedish",
     "remember",
     "помнить",
+<<<<<<< HEAD
     "att komma ihåg",
     "SBJ",
     "DO",
+=======
+    "jaadata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn komm-er ihåg sitt barndomshem väl",
@@ -83289,9 +94767,15 @@ const fullData = [
     "Swedish",
     "help",
     "помочь",
+<<<<<<< HEAD
     "att hjälpa",
     "SBJ",
     "DO",
+=======
+    "gargaara",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn hjälp-te Maja",
@@ -83307,6 +94791,7 @@ const fullData = [
     "Swedish",
     "understand#language#",
     "понимать",
+<<<<<<< HEAD
     "att förstå",
     "SBJ",
     "DO",
@@ -83315,6 +94800,16 @@ const fullData = [
     "Björn förstå-r franska",
     "PN understand-PRS French",
     "‘Björn understands French.’",
+=======
+    "ɗagaʔa",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "boontuu-n afaan faransaayii ɗageessi",
+    "PN-NOM language.ABS France.GEN hear.3SG.F.IPFV",
+    "‘Bontu understands French.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83325,6 +94820,7 @@ const fullData = [
     "Swedish",
     "hit#target#",
     "попасть",
+<<<<<<< HEAD
     "att slå ner",
     "SBJ",
     "i",
@@ -83334,6 +94830,17 @@ const fullData = [
     "lightning-DEF.N.SG hit.PST down in house-DEF.N.SG",
     "‘Lightning struck the house.’",
     "Phrasal verb (<i>ner</i> is not a flagging device). An alternative is <i>Blixten träffade huset</i> (this transitive pattern is the default choice in most other situations where something hits the target). ",
+=======
+    "rukkuta",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "balak'k'eessaa-n man-ittʃa rukkut-e",
+    "lightening-NOM house-DEF.ABS hit-3SG.M.PFV",
+    "‘Lightening hit the house.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83343,9 +94850,15 @@ const fullData = [
     "Swedish",
     "cut_oneself",
     "порезаться",
+<<<<<<< HEAD
     "att skära sig",
     "SBJ",
     "med",
+=======
+    "of mura",
+    "NOM",
+    "INS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_med",
     "Björn skar sig med en rakkniv",
@@ -83361,9 +94874,15 @@ const fullData = [
     "Swedish",
     "get_stuck",
     "прилипать",
+<<<<<<< HEAD
     "att fastna",
     "SBJ",
     "i",
+=======
+    "k'aba",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_i",
     "glas-et fastna-de i bord-et",
@@ -83379,9 +94898,15 @@ const fullData = [
     "Swedish",
     "lose#game#",
     "проиграть",
+<<<<<<< HEAD
     "att förlora",
     "SBJ",
     "mot",
+=======
+    "moʔa + PASS",
+    "NOM",
+    "INS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_mot",
     "Björn förlora-de mot Maja",
@@ -83397,9 +94922,15 @@ const fullData = [
     "Swedish",
     "be_glad",
     "радоваться",
+<<<<<<< HEAD
     "att bli glad",
     "SBJ",
     "over",
+=======
+    "gammada",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_over",
     "Björn blev glad över brev-et",
@@ -83415,9 +94946,15 @@ const fullData = [
     "Swedish",
     "speak",
     "разговаривать",
+<<<<<<< HEAD
     "att prata",
     "SBJ",
     "med",
+=======
+    "odeessa",
+    "NOM",
+    "ABSwaddzin",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_med",
     "Björn prata-r med Maja",
@@ -83433,9 +94970,15 @@ const fullData = [
     "Swedish",
     "give_birth",
     "рожать",
+<<<<<<< HEAD
     "att föda",
     "SBJ",
     "DO",
+=======
+    "daʔa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Maja föd-de en son",
@@ -83451,9 +94994,15 @@ const fullData = [
     "Swedish",
     "drop",
     "ронять",
+<<<<<<< HEAD
     "att tappa",
     "SBJ",
     "DO",
+=======
+    "buusa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn tappa-de glas-et",
@@ -83469,9 +95018,15 @@ const fullData = [
     "Swedish",
     "govern",
     "руководить",
+<<<<<<< HEAD
     "att styra",
     "SBJ",
     "DO",
+=======
+    "geggeessa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn styr vår stad",
@@ -83487,9 +95042,15 @@ const fullData = [
     "Swedish",
     "miss",
     "скучать",
+<<<<<<< HEAD
     "att sakna",
     "SBJ",
     "DO",
+=======
+    "jaada",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn sakna-r Maja",
@@ -83505,9 +95066,15 @@ const fullData = [
     "Swedish",
     "follow",
     "следовать",
+<<<<<<< HEAD
     "att följa efter",
     "SBJ",
     "DO",
+=======
+    "hordofa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn följ-er efter Maja",
@@ -83523,6 +95090,7 @@ const fullData = [
     "Swedish",
     "dismount",
     "слезать",
+<<<<<<< HEAD
     "att kliva av",
     "SBJ",
     "DO",
@@ -83532,6 +95100,17 @@ const fullData = [
     "PN climb.PST of horse-DEF.C.SG",
     "‘Björn got down from the horse.’",
     "Phrasal verb (<i>av</i> is not a flagging device).",
+=======
+    "buʔa",
+    "NOM",
+    "ABSirraa",
+    "Y",
+    "NOM_ABSirraa",
+    "nam-ittʃ-i fard-ittʃa irraa buʔ-e",
+    "man-DEF-NOM horse-DEF.ABS on.ABL get_down-3SG.M.PFV",
+    "‘The man got down from the horse.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83541,6 +95120,7 @@ const fullData = [
     "Swedish",
     "listen",
     "слушать",
+<<<<<<< HEAD
     "att lyssna",
     "SBJ",
     "pa",
@@ -83549,6 +95129,16 @@ const fullData = [
     "Björn lyssna-r på radio",
     "PN listen-PRS on radio",
     "‘Björn is listening to the radio.’",
+=======
+    "ɗaggeeffata",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n raadijoo ɗaggeeffattʃ-aa dʒir-a",
+    "PN-NOM radio.ABS listen-PROG AUX-3SG.M.NPST",
+    "‘Obsa is listening to radio.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83559,6 +95149,7 @@ const fullData = [
     "Swedish",
     "obey",
     "слушаться",
+<<<<<<< HEAD
     "att lyda",
     "SBJ",
     "DO",
@@ -83567,6 +95158,16 @@ const fullData = [
     "Björn lyd-er alltid sin mamma",
     "PN obey-PRS always POSS.REFL.C.SG mother",
     "‘Björn always listens to his mother.’",
+=======
+    "ɗagaʔa",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n jeroo hunda haaɗa isaa ɗagaʔ-a",
+    "PN-NOM time all mother.ABS 3SG.M.POSS hear-3SG.M.IPFV",
+    "‘Obsa always listens to his mother.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83577,9 +95178,15 @@ const fullData = [
     "Swedish",
     "hear",
     "слышать",
+<<<<<<< HEAD
     "att höra",
     "SBJ",
     "DO",
+=======
+    "ɗaggeeffata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn hör musik-en",
@@ -83595,9 +95202,15 @@ const fullData = [
     "Swedish",
     "mix",
     "смешаться",
+<<<<<<< HEAD
     "att blandas",
     "SBJ",
     "med",
+=======
+    "wal maka",
+    "NOM",
+    "ABSwaddzin",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_med",
     "honung-en blanda-de-s med mjölk",
@@ -83613,6 +95226,7 @@ const fullData = [
     "Swedish",
     "look",
     "смотреть",
+<<<<<<< HEAD
     "att titta",
     "SBJ",
     "pa",
@@ -83621,6 +95235,16 @@ const fullData = [
     "Björn titta-r på moln-en",
     "PN see-PRS on cloud-DEF.N.PL",
     "‘Björn is looking at the clouds.’",
+=======
+    "ilaala",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n duumessa ilaal-aa dʒir-a",
+    "PN-NOM cloud.ABS look-PROG AUX-3SG.M.NPST",
+    "‘Obsa is looking at the cloud.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83631,9 +95255,15 @@ const fullData = [
     "Swedish",
     "take_off",
     "снимать",
+<<<<<<< HEAD
     "att ta av sig",
     "SBJ",
     "DO",
+=======
+    "baasa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn tog av sig sin tröja",
@@ -83649,9 +95279,15 @@ const fullData = [
     "Swedish",
     "dream#sleeping#",
     "сниться",
+<<<<<<< HEAD
     "att drömma",
     "SBJ",
     "om",
+=======
+    "abdʒata",
+    "NOM",
+    "waa7eeGEN",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_om",
     "Maja drömm-er om Björn",
@@ -83667,6 +95303,7 @@ const fullData = [
     "Swedish",
     "agree",
     "соглашаться",
+<<<<<<< HEAD
     "att hålla med",
     "SBJ",
     "DO",
@@ -83676,6 +95313,17 @@ const fullData = [
     "PN hold.PST with PN",
     "‘Björn agreed with Maja.’",
     "Phrasal verb (<i>med</i> is not a flagging device).",
+=======
+    "walii gala",
+    "NOM",
+    "ABSwaddzin",
+    "Y",
+    "NOM_ABSwaddzin",
+    "obsaa-n boontuu waddʒin wal-ii gal-e",
+    "PN-NOM PN.ABS with each_other-for enter-3SG.M.PFV",
+    "‘Obsa agreed with Bontu.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83685,9 +95333,15 @@ const fullData = [
     "Swedish",
     "have_a_quarrel",
     "ссориться",
+<<<<<<< HEAD
     "att bråka",
     "SBJ",
     "med",
+=======
+    "wal ɗaba",
+    "NOM",
+    "ABSwaddzin",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_med",
     "Björn bråka-de med Maja",
@@ -83703,9 +95357,15 @@ const fullData = [
     "Swedish",
     "cost",
     "стоить",
+<<<<<<< HEAD
     "att kosta",
     "SBJ",
     "DO",
+=======
+    "baasa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "den här kopp-en kosta-r 1 euro",
@@ -83721,9 +95381,15 @@ const fullData = [
     "Swedish",
     "shoot_at",
     "стрелять",
+<<<<<<< HEAD
     "att skjuta",
     "SBJ",
     "mot",
+=======
+    "ɗukaasa",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_mot",
     "Björn sköt mot fågel-n",
@@ -83739,9 +95405,15 @@ const fullData = [
     "Swedish",
     "pour",
     "сыпать",
+<<<<<<< HEAD
     "att hälla i",
     "SBJ",
     "DO",
+=======
+    "nak'a",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn häll-de i socker i kopp-en",
@@ -83757,9 +95429,15 @@ const fullData = [
     "Swedish",
     "lose",
     "терять",
+<<<<<<< HEAD
     "att tappa bort",
     "SBJ",
     "DO",
+=======
+    "gata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn tappa-de bort sina nyckl-ar",
@@ -83775,9 +95453,15 @@ const fullData = [
     "Swedish",
     "sink",
     "тонуть",
+<<<<<<< HEAD
     "att sjunka",
     "SBJ",
     "i",
+=======
+    "gadi lit'a",
+    "NOM",
+    "ABSkeessatti",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_i",
     "stock-en sjönk i vattn-et",
@@ -83793,9 +95477,15 @@ const fullData = [
     "Swedish",
     "kill",
     "убивать",
+<<<<<<< HEAD
     "att döda",
     "SBJ",
     "DO",
+=======
+    "addʒeesa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn döda-de Maja",
@@ -83811,9 +95501,15 @@ const fullData = [
     "Swedish",
     "hit",
     "ударить",
+<<<<<<< HEAD
     "att slå",
     "SBJ",
     "DO",
+=======
+    "rukkuta",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn slog Maja",
@@ -83829,9 +95525,15 @@ const fullData = [
     "Swedish",
     "kiss",
     "целовать",
+<<<<<<< HEAD
     "att kyssa",
     "SBJ",
     "DO",
+=======
+    "ɗungata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn kyss-te Maja",
@@ -83847,9 +95549,15 @@ const fullData = [
     "Swedish",
     "read",
     "читать",
+<<<<<<< HEAD
     "att läsa",
     "SBJ",
     "DO",
+=======
+    "dubbisa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn läs-te en intressant bok",
@@ -83865,6 +95573,7 @@ const fullData = [
     "Swedish",
     "move#bodypart#",
     "шевелить",
+<<<<<<< HEAD
     "att röra",
     "SBJ",
     "pa",
@@ -83873,6 +95582,16 @@ const fullData = [
     "Björn rör-de på fingr-et",
     "PN move-PST on finger-DEF.N.SG",
     "‘Björn moved his finger.’",
+=======
+    "sottʃoosa",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n k'uba isaa sottʃoos-e",
+    "PN-NOM finger.ABS 3SG.M.POSS move.CAUS-3SG.M.PFV",
+    "‘Obsa moved his finger.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83883,9 +95602,15 @@ const fullData = [
     "Swedish",
     "respect",
     "уважать",
+<<<<<<< HEAD
     "att respektera",
     "SBJ",
     "DO",
+=======
+    "kabadʒa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn respektera-r Maja",
@@ -83901,9 +95626,15 @@ const fullData = [
     "Swedish",
     "be_squeamish",
     "брезговать",
+<<<<<<< HEAD
     "att äcklas",
     "SBJ",
     "av",
+=======
+    "aara",
+    "NOM",
+    "waa7eeGEN",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_av",
     "Björn äckla-s av smutsdisk",
@@ -83919,9 +95650,15 @@ const fullData = [
     "Swedish",
     "be_content",
     "быть довольным",
+<<<<<<< HEAD
     "att vara nöjd",
     "SBJ",
     "med",
+=======
+    "itti k'uufa",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_med",
     "Björn är nöjd med sin son",
@@ -83937,6 +95674,7 @@ const fullData = [
     "Swedish",
     "fall_in_love",
     "влюбляться",
+<<<<<<< HEAD
     "att förälska sig",
     "SBJ",
     "i",
@@ -83945,6 +95683,16 @@ const fullData = [
     "Björn förälska-de sig i Maja",
     "PN fall_in_love-PST REFL in PN",
     "‘Björn fell in love with Maja.’",
+=======
+    "k'aba",
+    "ABS",
+    "ABSirraa",
+    "XY",
+    "ABS_ABSirraa",
+    "gurb-ittʃa boontuu irraa dʒaalalli isa k'ab-e",
+    "boy-DEF.ABS PN.ABS on-ABL love-NOM 3SG.M.ABS catch-3SG.M.PFV",
+    "‘The boy fell in love with Bontu.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83955,6 +95703,7 @@ const fullData = [
     "Swedish",
     "trust",
     "доверять",
+<<<<<<< HEAD
     "att lita",
     "SBJ",
     "pa",
@@ -83964,6 +95713,17 @@ const fullData = [
     "PN trust-PRS on PN",
     "‘Björn trusts Maja.’",
     "For some speakers, <i>lita på</i> is rather a (transitive) phrasal verb.",
+=======
+    "amana",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n tolaa aman-a",
+    "PN-NOM PN.ABS trust-3SG.M.IPFV",
+    "‘Obsa trusts Tola.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83973,6 +95733,7 @@ const fullData = [
     "Swedish",
     "sympathise",
     "жалеть",
+<<<<<<< HEAD
     "att känna med",
     "SBJ",
     "DO",
@@ -83982,6 +95743,17 @@ const fullData = [
     "PN feel-PRS with POSS.REFL.C.SG mother",
     "‘Björn sympathises with his mother.’",
     "Phrasal verb (<i>med</i> is not a flagging device).",
+=======
+    "gadda",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT",
+    "obsaa-n haaɗa isaa-f in gadd-a",
+    "PN-NOM mother.ABS 3SG.M.POSS-DAT FOC be_pity-3SG.M.IPFV",
+    "‘Obsa feels sorry for his mother.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -83991,9 +95763,15 @@ const fullData = [
     "Swedish",
     "envy",
     "завидовать",
+<<<<<<< HEAD
     "att vara avundsjuk",
     "SBJ",
     "pa",
+=======
+    "inaafa",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_pa",
     "Björn är avundsjuk på Maja",
@@ -84009,9 +95787,15 @@ const fullData = [
     "Swedish",
     "be_angry",
     "злиться",
+<<<<<<< HEAD
     "att vara arg",
     "SBJ",
     "pa",
+=======
+    "aara",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_pa",
     "Björn är arg på Maja",
@@ -84027,6 +95811,7 @@ const fullData = [
     "Swedish",
     "be_surprised",
     "удивляться",
+<<<<<<< HEAD
     "att bli överraskad",
     "SBJ",
     "av",
@@ -84036,6 +95821,17 @@ const fullData = [
     "PN become.PST surprise-PTCP.C.SG of gift-DEF.C.SG",
     "‘Björn was surprised at this gift.’",
     "Non-verbal predicate (passive).",
+=======
+    "adʒaaʔibsiisata",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n kennaa kana adʒaaʔib-siif-at-e",
+    "PN-NOM gift.ABS this.ABS surprise-CAUS-MID-3SG.M.PFV",
+    "‘Obsa was surprised at this gift.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -84045,9 +95841,15 @@ const fullData = [
     "Swedish",
     "love#tea#",
     "любить-2",
+<<<<<<< HEAD
     "att älska",
     "SBJ",
     "DO",
+=======
+    "dʒaallata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn älska-r te",
@@ -84063,6 +95865,7 @@ const fullData = [
     "Swedish",
     "enjoy",
     "наслаждаться",
+<<<<<<< HEAD
     "att gilla",
     "SBJ",
     "DO",
@@ -84071,6 +95874,16 @@ const fullData = [
     "Björn gilla-r varm-t te",
     "PN enjoy-PRS warm-INDF.N.SG tea",
     "‘Björn enjoys hot tea.’",
+=======
+    "itti gammada",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "obsaa-n ʃaajii hoʔaa-tti gammad-a",
+    "PN-NOM tea.ABS hot-LOC enjoy-3SG.M.IPFV",
+    "‘Obsa enjoys hot tea.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -84081,6 +95894,7 @@ const fullData = [
     "Swedish",
     "want",
     "хотеть",
+<<<<<<< HEAD
     "att vilja ha",
     "*",
     "*",
@@ -84090,6 +95904,17 @@ const fullData = [
     "PN want have.INF INDF.C.SG new.INDF.C.SG mobile_phone",
     "‘Björn wants a new mobile phone.’",
     "Not included in the database because Y is expressed as an NP within a dependent clause.",
+=======
+    "barbaada",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n bilbila haaraa barbaad-a",
+    "PN-NOM phone.ABS new want-3SG.M.IPFV",
+    "‘Obsa wants a new mobile phone.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -84099,9 +95924,15 @@ const fullData = [
     "Swedish",
     "have_a_grudge",
     "сердиться",
+<<<<<<< HEAD
     "att vara sur",
     "SBJ",
     "pa",
+=======
+    "haaloo k'aba",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_pa",
     "Björn är sur på Maja",
@@ -84117,9 +95948,15 @@ const fullData = [
     "Swedish",
     "take_offence",
     "обижаться",
+<<<<<<< HEAD
     "att bli sur",
     "SBJ",
     "pa",
+=======
+    "mufata",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_pa",
     "Björn blev sur på Maja",
@@ -84135,9 +95972,15 @@ const fullData = [
     "Swedish",
     "upset",
     "огорчать",
+<<<<<<< HEAD
     "att göra upprörd",
     "SBJ",
     "DO",
+=======
+    "mufattʃiisa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn gjor-de Maja väldigt upprör-d",
@@ -84153,6 +95996,7 @@ const fullData = [
     "Swedish",
     "marvel",
     "поражаться",
+<<<<<<< HEAD
     "att förundras",
     "SBJ",
     "over",
@@ -84161,6 +96005,16 @@ const fullData = [
     "Björn förundra-de-s över stad-en",
     "PN marvel-PST-PASS over town-DEF.C.SG",
     "‘Björn was impressed by this town.’",
+=======
+    "adʒaaʔibsiisata",
+    "NOM",
+    "ABS",
+    "TR",
+    "TR",
+    "obsaa-n magaala-ttii adʒaaʔib-siis-at-e",
+    "PN-NOM town-DEF.ABS impress-CAUS-MID-3SG.M.PFV",
+    "‘Obsa was impressed by the town.’",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -84171,9 +96025,15 @@ const fullData = [
     "Swedish",
     "despise",
     "презирать",
+<<<<<<< HEAD
     "att avsky",
     "SBJ",
     "DO",
+=======
+    "tuffata",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn avsky-r Maja. ",
@@ -84189,9 +96049,15 @@ const fullData = [
     "Swedish",
     "get_upset",
     "огорчаться",
+<<<<<<< HEAD
     "att bli upprörd",
     "SBJ",
     "pa",
+=======
+    "aara",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_pa",
     "Björn blev upprör-d på sin son",
@@ -84207,6 +96073,7 @@ const fullData = [
     "Swedish",
     "get_irritated",
     "раздражаться",
+<<<<<<< HEAD
     "att bli irriterad",
     "SBJ",
     "pa",
@@ -84216,6 +96083,17 @@ const fullData = [
     "PN hold-PRS on to become.INF irritate-PTCP.C.SG on POSS.REFL.C.SG daughter",
     "‘Björn is getting irritated with his daughter.’",
     "Non-verbal predicate (passive).",
+=======
+    "aara",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC",
+    "obsaa-n intala isaa-tti aar-ee dʒir-a",
+    "PN-NOM daughter.ABS 3SG.M.POSS-LOC irritate-CONV AUX-3SG.M.NPST",
+    "‘Obsa is getting angry at his daughter.’",
+    "",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "",
     "",
     "",
@@ -84225,9 +96103,15 @@ const fullData = [
     "Swedish",
     "be_fond",
     "симпатизировать",
+<<<<<<< HEAD
     "att tycka om",
     "SBJ",
     "DO",
+=======
+    "leellisa",
+    "NOM",
+    "ABS",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "TR",
     "TR",
     "Björn tyck-er om Maja",
@@ -84243,9 +96127,15 @@ const fullData = [
     "Swedish",
     "be_shy",
     "стесняться",
+<<<<<<< HEAD
     "att vara generad",
     "SBJ",
     "over",
+=======
+    "k'aanaʔa",
+    "NOM",
+    "LOC",
+>>>>>>> 3e3e6724bf3541db70f62d14c43ef97d6a1dde14
     "Y",
     "SBJ_over",
     "Björn är generad över sin längd",

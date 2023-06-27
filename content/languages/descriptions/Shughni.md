@@ -8,7 +8,6 @@ Contributed by [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([A
 ## How to cite
 > Chistiakova, Daria & Daria Ryzhova. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
-> St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
 > last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, 
 > Accessed on {{ today }}.)
