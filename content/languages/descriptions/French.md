@@ -3,7 +3,7 @@ Contributed by [Elena Kordi](https://iling.spb.ru/persons/kordi-elena-evgenevna)
 
 ![E.K.'s photo]({{ site_url_j }}/images/Kordi.jpg "E.K.'s photo")
 
-The data were gathered in {{ data_collection_year }}. The Russian version of the questionnaire was used for elicitation.
+The data were gathered in {{ data_collection_year }}. The Russian version of the questionnaire was used for elicitation. In 2023, some corrections have been made by Gilles Authier.
 
 
 ## How to cite
