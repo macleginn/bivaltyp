@@ -13090,7 +13090,7 @@ const patternsData = [
     "NOM_SUB",
     "NOM_vidACC",
     "ERG_DAT",
-    "ar_go=dti",
+    "ar_go.dti",
     "SBJ_con",
     "",
     "",
