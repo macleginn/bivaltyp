@@ -42454,7 +42454,7 @@ const fullData = [
     "aige_SBJ",
     "Tá leabhar aige Pól in-a lámh.",
     "be.PRS book at PN in-POSS.3SG hand",
-    "‘Pól is holding a bookin his hands.’",
+    "‘Pól is holding a book in his hands.’",
     "Non-verbal predicate.",
     "быть.PRS книга у PN в-POSS.3SG рука",
     "‘У Пола в руках книга.’",

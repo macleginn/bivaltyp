@@ -2356,7 +2356,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 25	15	гнать	tiomáin	SBJ	DO	TR	TR	Tá Pól aig tiomáint an bhó.	be.PRS PN at drive.NMLZ DEF.GS cow(GS)	‘Pól is driving the cow.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.	быть.PRS PN при гнать.NMLZ DEF.GS корова(GS)	‘Пол гонит корову.’		
 25	16	гнуть	lúb	SBJ	DO	TR	TR	Lúb Pól an tuige.	bend(PST) PN DEF branch	‘Pól bent the branch.’		гнуть(PST) PN DEF ветка	‘Пол согнул ветку.’		
 25	17	говорить	abair	SBJ	le	Y	SBJ_le	Dúirt Pól le Mícheal...	tell.PST PN with PN...	‘Pól told Mícheal.’		говорить.PST PN с PN...	‘Пол сказал Михалу...’		
-25	18	держать	bí	aige	SBJ	X	aige_SBJ	Tá leabhar aige Pól in-a lámh.	be.PRS book at PN in-POSS.3SG hand	‘Pól is holding a bookin his hands.’	Non-verbal predicate.	быть.PRS книга у PN в-POSS.3SG рука	‘У Пола в руках книга.’		
+25	18	держать	bí	aige	SBJ	X	aige_SBJ	Tá leabhar aige Pól in-a lámh.	be.PRS book at PN in-POSS.3SG hand	‘Pól is holding a book in his hands.’	Non-verbal predicate.	быть.PRS книга у PN в-POSS.3SG рука	‘У Пола в руках книга.’		
 25	19	догнать	tar suas	SBJ	le	Y	SBJ_le	Do=thanic Pól suas le Máire.	PST=catch.up PN up with PN	‘Pól caught up with Máire.’		PST=догнать PN наверх с PN	‘Пол догнал Мойру.’		
 25	20	доить	crúigh	SBJ	DO	TR	TR	Do=chrúig Pól an bhó.	PST=milk PN DEF cow	‘Pól milked the cow.’		PST=доить PN DEF корова	‘Пол подоил корову.’		
 25	21	достичь	bain amach	SBJ	DO	TR	TR	Bhain Pól amach an banc.	PST/reach PN outside DEF bank	‘Pól reached the bank.’		PST/достичь PN наружу DEF берег	‘Пол достиг берега.’		
