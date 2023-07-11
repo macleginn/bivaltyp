@@ -2339,136 +2339,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 83	128	mitatsben	SBJ	al	Y	SBJ_al	Pinχas mitatsben al ha bat ʃel-o	PN become.annoyed[PTCP.SG.M] on DEF daughter POSS-3SG.M	‘Pinchas is getting irritated with his daughter.’		PN раздражаться[PTCP.SG.M] на DEF дочь POSS-3SG.M	‘Петя раздражается на свою дочь.’		
 83	129	meχabev	SBJ	DO	TR	TR	Pinχas meχabev et Menaχem	PN like[PTCP.SG.M] DO PN	‘Pinchas is fond of Menachem.’		PN испытывать.симпатию[PTCP.SG.M] DO PN	‘Пинхас симпатизирует Менахему.’		
 83	130	mitbajeʃ	SBJ	be	Y	SBJ_be	Pinχas mitbajeʃ ba gova ʃel-o	PN be.ashamed[PTCP.SG.M] in+DEF height POSS-3SG.M	‘Pinchas is embarrased about his height.’		PN стесняться[PTCP.SG.M] в+DEF рост POSS-3SG.M	‘Пинхас стесняется своего роста.’		
-25	1		*	*	*		Tá tinneas cinn air Phól.	быть.PRS боль голова.GS на PN	‘У Пола болит голова.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-25	2		ar	SBJ	X	ar_SBJ	Tá slaghdán air Phól.	быть.PRS грипп на PN	‘У Пола грипп.’	Non-verbal predicate.				
-25	3		ar	roimh	XY	ar_roimh	Tá eagla air Phól roimh an gadhar.	быть.PRS страх на PN перед DEF собака	‘Пол боится собаки.’	Non-verbal predicate.				
-25	4		SBJ	DO	TR	TR	Do=chaith Pól cloch.	PST=бросать PN камень	‘Пол бросил камень.’					
-25	5		*	*	*		Tá a dhothain airgid aige Pól.	быть.PRS POSS.3SG.M достаточное.количество деньги.GS у PN	‘У Пола достаточно денег.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
-25	6		SBJ	le	Y	SBJ_le	Tá Pól cosúil le Máire.	быть.PRS PN схожий с PN	‘Пол похож на Мойру.’	Non-verbal predicate.				
-25	7		SBJ	i	Y	SBJ_i	Creid-eann Pól i Mícheal.	верить-PRS PN в PN	‘Пол верит Михелу.’					
-25	8		SBJ	DO	TR	TR	Do=thóg Pól leabhar do-n seilf.	PST=брать PN книга для-DEF полка	‘Пол взял книгу с полки.’					
-25	9		SBJ	DO	TR	TR	Cí-onn Pól an tigh.	видеть-PRS PN DEF дом	‘Пол видит дом.’					
-25	10		aige	ar	XY	aige_ar	Bí-onn tionchar aige an t-aois air a’ gcuimhne.	быть.HAB-PRS влияние у DEF возраст на DEF память	‘Возраст влияет на память.’	Non-verbal predicate.				
-25	11		SBJ	le	Y	SBJ_le	Do=bhuail Pól le Mícheal.	PST=встретить PN с PN	‘Пол встретился с Михелом.’					
-25	12		SBJ	isteach	Y	SBJ_isteach	Chuaigh Pól isteach an tigh.	идти.PST PN внутрь DEF дом.GS	‘Пол вошел в дом.’					
-25	13		SBJ	ar	Y	SBJ_ar	Do=bhuaigh Pól air Mhícheal.	PST=выиграть PN на МихAл	‘Пол выиграл у Михела.’					
-25	14		SBJ	as	Y	SBJ_as	Chuigh Pól amach as an tigh.	выйти.PST PN наружу из DEF дом	‘Пол вышел из дома.’					
-25	15		SBJ	DO	TR	TR	Tá Pól aig tiomáint an bhó.	быть.PRS PN при гнать.NMLZ DEF.GS корова(GS)	‘Пол гонит корову.’					
-25	16		SBJ	DO	TR	TR	Lúb Pól an tuige.	гнуть(PST) PN DEF ветка	‘Пол согнул ветку.’					
-25	17		SBJ	le	Y	SBJ_le	Duirt Pól le Mícheal...	говорить.PST PN с Михал...	‘Пол сказал Михалу...’					
-25	18		aige	SBJ	X	aige_SBJ	Tá leabhar aige Pól in-a lámh.	быть.PRS книга у PN в-POSS.3SG рука	‘У Пола в руках книга.’	Non-verbal predicate.				
-25	19		SBJ	le	Y	SBJ_le	Do=thanic Pól suas le Máire.	PST=догнать PN наверх с PN	‘Пол догнал Мойру.’					
-25	20		SBJ	DO	TR	TR	Do=chrúig Pól an bhó.	PST=доить PN DEF корова	‘Пол подоил корову.’					
-25	21		SBJ	DO	TR	TR	Bhain Pól amach an banc.	PST/достичь PN наружу DEF берег	‘Пол достиг берега.’					
-25	22		SBJ	DO	TR	TR	Do=bhuail Pól an fala.	PST=трогать PN DEF стена	‘Пол дотронулся до стены.’					
-25	23		SBJ	le	Y	SBJ_le	Tá Pól ag bruíon le Máire.	быть.PRS PN при драться.NMLZ с PN	‘Пол дерется с Мойрой.’					
-25	24		*	*	*		Is cairde Pól agus Máire.	COP.PRS друг.PL PN и PN	‘Пол дружит с Мойрой.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-25	25		SBJ	ar	Y	SBJ_ar	Tá Pól aig cuimhneamh air Mháire.	быть.PRS PN при думать.NMLZ на PN	‘Пол думает о Мойре.’					
-25	26		SBJ	DO	TR	TR	D’=ith Pól úll.	PST=есть PN яблоко	‘Пол съел яблоко.’					
-25	27		SBJ	DO	TR	TR	Róst Pól iasc.	жарить(PST) PN рыба	‘Пол пожарил рыбу.’					
-25	28		SBJ	le	Y	SBJ_le	Tá Pól ag fanúint le Máire.	быть.PRS PN при ждать.NMLZ с PN	‘Пол ждет Мойру.’					
-25	29		SBJ	ar	Y	SBJ_ar	Dhein Pól dearúd air an mbóthar eile.	PST/делать PN забвение на DEF дорога другой	‘Пол забыл о другой дороге.’					
-25	30		SBJ	ar	Y	SBJ_ar	Braith-inn an cuimhne air an aois.	зависеть-PRS DEF память на DEF возраст	‘Память зависит от возраста.’					
-25	31		SBJ	ar	Y	SBJ_ar	Do=glaoigh Pól air Mháire.	PST=звать PN на PN	‘Пол позвал Мойру.’					
-25	32		SBJ	le	Y	SBJ_le	Do=bhuail Pól le Máire bliain ó shin.	PST=встретить PN C PN год назад назад	‘Пол встретился с Мойрой год назад.’					
-25	33		aige	ar	XY	aige_ar	Tá aithne aige Pól air Mháire.	быть.PRS знание у PN на PN	‘Пол знает Мойру.’	Non-verbal predicate.				
-25	34		SBJ	DO	TR	TR	Tá Pól ag seimint an guitar.	быть.PRS PN при играть.NMLZ DEF гитара(GS)	‘Пол играет на гитаре.’					
-25	35		SBJ	DO	TR	TR	Dein-eann Pól Máire a sheachaint.	делать-PRS PN PN TRANS избегать	‘Пол избегает Мойру.’	This translation contains a nominalized clause. However, the use of a (with lenition) indicates that the verb is transitive.				
-25	36		SBJ	DO	TR	TR	Dhein Pól a’ boma.	PST/делать PN DEF бомба	‘Пол сделал бомбу.’					
-25	37		SBJ	DO	TR	TR	Tá Pól ag crá Mháire.	быть.PRS PN при издеваться.NMLZ GS/PN	‘Пол издевается над Мойрой.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.				
-25	38		aige	SBJ	X	aige_SBJ	Tá gluaisteán aige Pól.	быть.PRS машина у PN	‘У Пола есть машина.’	Non-verbal predicate.				
-25	39		SBJ	DO	TR	TR	Tá Pól ag lorg a eochr-acha.	быть.PRS PN при искать.NMLZ POSS.3SG.M ключ-GP	‘Пол ищет ключи.’					
-25	40		SBJ	DO	TR	TR	Phéinteáil Peter an falla.	PST/красить PN DEF забор	‘Питер покрасил забор.’					
-25	41		SBJ	ar	Y	SBJ_ar	Do=rug madra greim ar Phól.	PST=взять собака хватка на PN	‘Собака укусила Пола.’					
-25	42		SBJ	DO	TR	TR	Chaill Pól a thig.	PST/терять PN POSS.3SG.M дом	‘Пол потерял дом.’					
-25	43	iarraidh breith 	SBJ	ar	Y	SBJ_ar	Tá Pól ag iarraidh breith air an gcat.	быть.PRS PN при пытаться.NMLZ взять на DEF кошка	‘Пол пытается схватить кошку.’					
-25	44		SBJ	DO	TR	TR	Do=bhris Pól an maide.	PST=ломать PN DEF палка	‘Пол сломал палку.’					
-25	45		*	*	*		*	*	*	No satisfactory translation has been obtained.				
-25	46		aige	do(PREP)	XY	aige_do(PREP)	Tá grá aig Pól do Mháire.	быть.PRS любовь у PN для PN	‘Пол любит Мойру.’	Non-verbal predicate.				
-25	47		SBJ	DO	TR	TR	Tá Pól ag croitheadh ciairsiúir.	быть.PRS PN при махать.NMLZ GS/платок	‘Пол машет платком.’					
-25	48		SBJ	mar=gheall=air	Y	SBJ_mar=gheall=air	Tá sé ag taibhreamh mar=gheall=air chairt nú.	быть.PRS 3SG.M при мечтать.NMLZ по.поводу машина.GS новая	‘Он мечтает о новой машине.’					
-25	49		SBJ	DO	TR	TR	D’=nigh Pól an cupa.	PST=мыть PN DEF чашка	‘Пол вымыл чашку.’					
-25	50		SBJ	DO	TR	TR	Do=chuir Pól air a bhríste.	PST=класть PN на.3SG.M POSS.3SG.M штаны	‘Пол надел штаны’.					
-25	51		ar	SBJ	X	ar_SBJ	Glaoí-tear compass air an uirlis.	звать-PASS.PRS компас на DEF инструмент	‘Инструмент называется компас.’					
-25	52		SBJ	ar	Y	SBJ_ar	Chuir Pól piniós air a mhac.	PST/класть PN наказание на POSS.3SG.M сын	‘Пол наказал своего сына.’					
-25	53		SBJ	DO	TR	TR	D’=ionsaigh béar iascaire.	PST=нападать медведь рыбак	‘Медведь напал на рыбака.’					
-25	54		SBJ	le	Y	SBJ_le	Líon an buicéad le huisce.	наполняться(PST) DEF ведро с вода	‘Ведро наполнилось водой.’					
-25	55		SBJ	DO	TR	TR	Fuair Pól a chuid neochr-acha.	находить.PST PN POSS.3SG.M доля ключи-GP	‘Пол нашел свои ключи.’					
-25	56		SBJ	BARE	Y	SBJ_BARE	Tá Pól euro gearra.	быть.PRS PN евро короткий	‘Полу не хватает [одного] евро.’	Non-verbal predicate. Unusual structure (calqued from English).				
-25	57		aige	ar	XY	aige_ar	Tá an ghráin aige Pól air Mháire.	быть.PRS DEF ненависть у PN на PN	‘Пол ненавидит Мойру.’	Non-verbal predicate.				
-25	58		le	SBJ	X	le_SBJ	Is maith le Pól an léine sea	COP.PRS хороший с PN DEF рубашка DEM	‘Полу нравится эта рубашка.’	Non-verbal predicate.				
-25	59		o	SBJ	X	o_SBJ	Tá airgid ó Phól.	быть.PRS деньги от PN	‘Полу нужны деньги.’	Non-verbal predicate.				
-25	60		SBJ	ar	Y	SBJ_ar	Tá fall-aí timpeall air an gcathair.	быть.PRS стена-PL вокруг на DEF город	‘Стены окружают город.’	Non-verbal predicate.				
-25	61		ar	SBJ	X	ar_SBJ	Tá deich euro fág-tha air Pól.	быть.PRS десять евро оставаться-PART на PN	‘У Пола осталось десять евро.’	Non-verbal predicate.				
-25	62		SBJ	DO	TR	TR	D’=fhreagair Pól an múinteoir.	PST=отвечать PN DEF учитель	‘Пол ответил учителю.’					
-25	63		SBJ	DO	TR	TR	D’=oscail Pól cana.	PST=окрывать PN банка	‘Пол открыл банку.’					
-25	64		SBJ	le	Y	SBJ_le	Thá mo léine=sin difriúil le d’=cheann=sa.	быть.PRS POSS.1SG рубашка=DEM отличный с POSS.2SG=голова=DEM	‘Моя рубашка отличается от твоей.’	Non-verbal predicate.				
-25	65		SBJ	o	Y	SBJ_o	Thit Peter siar ó Mary.	PST/отставать PN назад от PN	‘Питер отстал от Мэри.’					
-25	66		SBJ	DO	TR	TR	Tá Pól ag treabh an ghoirt.	быть.PRS PN при пахать.NMLZ DEF.GS поле/GS	‘Пол пашет поле.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.				
-25	67		*	*	*		Tá boladh gásailín ó mo láimh.	быть.PRS запах топливо(GS) от POSS.1SG рука.PL	‘Мои руки пахнут бензином.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-25	68		SBJ	DO	TR	TR	Do=thrasnaigh Pól an bóthar.	PST=пересекать PN DEF дорога	‘Пол пересек дорогу.’					
-25	69		SBJ	DO	TR	TR	Chan Pól amhrán álainn.	PST/петь PN песня красивый	‘Пол спел красивую песню.’					
-25	70		SBJ	DO	TR	TR	Do=scríobh Pól leitir.	PST=писать PN письмо	‘Пол написал письмо.’					
-25	71		SBJ	DO	TR	TR	D’=ól Pól an bainne.	PST=пить PN DEF молоко	‘Пол выпил молоко.’					
-25	72		SBJ	DO	TR	TR	Do=leáigh Pól píosa luaidhe.	PST=плавить PN кусок свинец(GS)	‘Пол расплавил кусок свинца.’					
-25	73		SBJ	le	Y	SBJ_le	Té-ann an belt le mo ghúna.	идти-PRS DEF пояс с POSS.1SG платье	‘Пояс подходит к моему платью.’					
-25	74		SBJ	DO	TR	TR	D’=fhág Pól a chathair dúchais.	PST=оставлять PN POSS.3SG.M город родной	‘Пол оставил родной город.’					
-25	75		SBJ	DO	TR	TR	Clúd-íonn an cairpéad an urlár air fad.	покрывать-PRS DEF ковер DEF пол целиком	‘Ковер покрывает пол целиком.’					
-25	76		SBJ	DO	TR	TR	Cuimhn-íonn Peter an tigh d’fhag sé suas go maith.	помнить-PRS PN DEF дом PST=вырасти он вырасти вверх хорошо	‘Питер хорошо помнит дом, в котором вырос.’					
-25	77		SBJ	le	Y	SBJ_le	Do=chabhraigh Pól le Máire.	PST=помогать PN с PN	‘Пол помог Мойре.’					
-25	78		SBJ	DO	TR	TR	Tuig-eann Pól Fraincis.	понимать-PRS PN французский_язык	‘Пол понимает французский язык.’					
-25	79		SBJ	DO	TR	TR	Do=bhuail splanc an tigh.	PST=ударять молния DEF дом	‘Молния ударила в дом.’ 					
-25	80		SBJ	le	Y	SBJ_le	Ghearr Pól é fein le rásúr.	PST/резать PN он.ACC REFL с бритва	‘Пол порезался бритвой.’					
-25	81		SBJ	do(PREP)	Y	SBJ_do(PREP)	Greamaigh an gloine do-n bord.	прикрепиться.PST DEF стакан для-DEF стол	‘Стакан прилип к столу.’					
-25	82		SBJ	le	Y	SBJ_le	Chaill sé le Mary.	PST/терять он с PN	‘Он проиграл Мэри.’					
-25	83		SBJ	le	Y	SBJ_le	Do=bhí Pól an-shásta leis an leitir.	PST=быть.PST PN INT-довольный с DEF письмо	‘Пол обрадовался письму.’	Non-verbal predicate.				
-25	84		SBJ	le	Y	SBJ_le	Tá Pól ag caint le Máire.	быть.PRS PN при разговаривать.NMLZ с PN	‘Пол разговаривает с Мойрой.’					
-25	85		do(PREP)	SBJ	X	do(PREP)_SBJ	Do=rug-adh leanbh mic do Mháire.	PST=взять-PST.PASS ребенок сын/GS для PN	‘У Мойры родился сын.’					
-25	86		o	SBJ	X	o_SBJ	Do=thit an ghloine ó Phól.	PST=падать DEF стакан от PN	‘У Пола упал стакан.’					
-25	87		SBJ	DO	TR	TR	Rith-eann Peter an monarcha.	руководить-PRS PN DEF фабрика	‘Питер руководит фабрикой.’					
-25	88	Braithean uaid	SBJ	DO	TR	TR	Braith-ean Pól uaid Máire.	скучать-PRS PN от.3SG.M PN	‘Пол скучает по Мойре.’	uaid is not a device for flagging Y.				
-25	89		SBJ	DO	TR	TR	Lean-aíonn Pól Máire.	следовать-PRS PN PN	‘Пол следует за Мойрой.’					
-25	90		SBJ	de	Y	SBJ_de	Tháinig Pól anuas de-n gcapall.	приходить.PST PN вниз от-DEF лошадь	‘Пол слез с лошади.’					
-25	91		SBJ	le	Y	SBJ_le	Tá Pól ag éisteacht leis an radio.	быть.PRS PN при слушать.NMLZ с DEF радио	‘Пол слушает радио.’					
-25	92		SBJ	le	Y	SBJ_le	Éist-eann Pól i gcónaí lena mháthair.	слушать-PRS PN всегда всегда с.POSS.3SG.M мать	‘Пол всегда слушается маму.’					
-25	93		SBJ	DO	TR	TR	Clois-eann Pól an ceol.	слышать-PRS PN DEF музыка	‘Пол слышит музыку.’					
-25	94		SBJ	le	Y	SBJ_le	Do=measc-adh an mhíl leis an mbainne.	PST=смешиваться-PST.PASS DEF мед с DEF молоко	‘Мед смешался с молоком.’					
-25	95		SBJ	ar	Y	SBJ_ar	Tá Pól ag féach-aint air na scamaill.	быть.PRS PN при смотреть.NMLZ на DEF.PL туча.PL	‘Пол смотрит на тучи.’					
-25	96		SBJ	DO	TR	TR	Do=bhain Pól dó a léine.	PST=снимать PN от.3SG POSS.3SG рубашка	‘Пол снял рубашку.’					
-25	97		SBJ	mar=gheall=air	Y	SBJ_mar=gheall=air	Tá Mary ag taibhreamh mar=gheall=air Peter.	быть.PRS PN при видеть.во.сне.NMLZ по.поводу PN	‘Питер снится Мэри.’					
-25	98		SBJ	le	Y	SBJ_le	D’=aontaigh Pól le Máire.	PST=соглашаться PN с PN	‘Пол согласился с Мэри.’					
-25	99		aige	le	XY	aige_le	Bhí argóint ag Pól le Máire.	быть.PST ссора у PN с PN	‘Пол поссорился с Мэри.’	Non-verbal predicate.				
-25	100		SBJ	DO	TR	TR	Chosain an cupa=sa euro amhaín	PST/стоить DEF чашка=DEM евро один	‘Эта чашка стоит один евро.’					
-25	101		SBJ	faoi	Y	SBJ_faoi	Scaoil Pól fé-n éan.	стрелять(PST) PN под-DEF птица	‘Пол выстрелил в птицу.’					
-25	102		SBJ	DO	TR	TR	Dhoirt Pól an siúcra isteach a’ gcupa.	PST/сыпать PN DEF сахар внутрь DEF чашка	‘Пол насыпал сахар в чашку.’					
-25	103		SBJ	DO	TR	TR	Do=chaill Pól a chuid neochr-acha.	PST=терять PN POSS.3SG.M доля ключ-GP	‘Пол потерял свои ключи.’					
-25	104		DO	i	Y	SBJ_i	Bá-dh é in-san uisce.	топить-PST.PASS он.ACC в-DEF вода	‘Оно утонуло в воде.’	Passive construction (but no promotion to the subject position).				
-25	105		SBJ	DO	TR	TR	Do=mharimh Pól Máire.	PST=убивать PN PN	‘Пол убил Мойру.’					
-25	106		SBJ	DO	TR	TR	Do=bhuail Pól Máire.	PST=ударять PN PN	‘Пол ударил Мойру.’					
-25	107		SBJ	DO	TR	TR	Do=phóg Pól Máire.	PST=целовать PN PN	‘Пол поцеловал Мойру.’					
-25	108		SBJ	DO	TR	TR	Do=léigh Pól leabhar an-shuimiúil.	PST=читать PN книга INT-интересный	‘Пол прочитал очень интересную книгу.’					
-25	109		SBJ	DO	TR	TR	Bhog Pól a mhéar.	PST/двигать PN POSS.3SG.M палец	‘Пол пошевелил пальцем.’					
-25	110		aige	ar	XY	aige_ar	Tá meas aig Pól air Máire.	быть.PRS уважение у PN на PN	‘Пол уважает Мойру.’	Non-verbal predicate.				
-25	111		*	*	*		*	*	*	No satisfactory translation has been obtained.				
-25	112		SBJ	le	Y	SBJ_le	Tá Pól an-shásta le-na mhac.	быть.PRS PN INT-довольный с-POSS.3SG.M сын	‘Пол доволен своим сыном.’	Non-verbal predicate.				
-25	113		SBJ	le	Y	SBJ_le	Do=thit Pól i ngrá le Máire.	PST=падать PN в любовь с PN	‘Пол влюбился в Мойру.’					
-25	114		aige	as	XY	aige_as	Tá muinín aige Pól as Mháire.	быть.PRS доверие у PN из PN	‘Пол доверяет Мойре.’	Non-verbal predicate.				
-25	115		aige	le	XY	aige_le	Tá trua aige Pól le-na mháthair.	быть.PRS жалость у PN с-POSS.3SG.M мать	‘Пол жалеет свою мать.’	Non-verbal predicate.				
-25	116		aige	le	XY	aige_le	Tá formad aige Pól le Máire.	быть.PRS зависть у PN с PN	‘Пол завидует Мойре.’	Non-verbal predicate.				
-25	117		SBJ	le	Y	SBJ_le	Tá Pól feargach le Máire.	быть.PRS PN разозленный с PN	‘Пол злится на Мойру.’	Non-verbal predicate.				
-25	118		aige	mar=gheall=air	XY	aige_mar=gheall=air	Bhí iontas air Phól mar=gheall=air an mbronntanas.	быть.PST удивление у PN по.поводу DEF подарок	‘Пол удивился подарку.’	Non-verbal predicate.				
-25	119		le	SBJ	X	le_SBJ	Is breá le Pól tae.	COP.PRS приятный с PN чай	‘Пол любит чай.’	Non-verbal predicate.				
-25	120		*	*	*		*	*	*	No satisfactory translation has been obtained.				
-25	121		*	*	*		Teast-aíonn fón nú ó Peter.	быть.нужным-PRS телефон новый от PN	‘Питер хочет новый телефон.’	Not included in the database because this translation is semantically inaccurate.				
-25	122		aige	do(PREP)	X	aige_do(PREP)	Tá an chloch sa muinirtle aige Pól do Mháire.	быть.PRS DEF камень в.DEF рукав при PN для PN	‘Пол сердится на Мойру.’	Non-verbal predicate.				
-25	123		ar	go=dti	XY	ar_go=dti	Bhí an goimh air Phól go=dtí Máire.	быть.PST DEF жало на PN в.сторону PN	‘Пол обиделся на Мойру.’	Non-verbal predicate.				
-25	124		SBJ	DO	TR	TR	Ghortaigh Pól Máire g’ mór.	PST/причинить.боль PN PN сильно	‘Пол причинил Мойре расстройство/боль.’					
-25	125		ar	le	XY	ar_le	Bhí iontas air Phól leis an chathair.	быть.PST удивление на PN с DEF город	‘Пол удивился городу.’	Non-verbal predicate.				
-25	126		aige	ar	XY	aige_ar	Tá an ghrain dearg aige Pól air Máire.	быть.PRS DEF ненависть красный при PN на PN	‘Пол презирает Мойру.’	Non-verbal predicate.				
-25	127		SBJ	de=dheascaibh	Y	SBJ_de=dheascaibh	Bhí Pól trína chéile de=dheascaibh a mhac.	быть.PST PN огорченный огорченный из-за POSS.3SG.M сын	‘Пол огорчился из-за своего сына.’	Non-verbal predicate.				
-25	128		SBJ	faoi	Y	SBJ_faoi	Tá Pól a’ fáilt imníoch faoi-na hiníon.	быть.PRS PN при становиться.NMLZ раздраженный под-POSS.3SG.M дочь	‘Пол раздражается на свою дочь.’	Non-verbal predicate.				
-25	129		SBJ	le	Y	SBJ_le	Tá Pól mór le Máire.	быть.PRS PN большой с PN	‘Пол симпатизирует Мойре.’	Non-verbal predicate.				
-25	130		ar	mar=gheall=air	XY	ar_mar=gheall=air	Tá náire air Phól mar=gheall=air a airde.	быть.PRS стыд на PN по.поводу POSS.3SG.M рост	‘Пол стыдится своего роста.’	Non-verbal predicate.				
+25	1	bí tinneas cinn	*	*	*		Tá tinneas cinn air Phól.	be.PRS pain head.GS on PN	‘Pól has a headache.’	Not included in the database because Y is expressed as an NP-internal modifier.	быть.PRS боль голова.GS на PN	‘У Пола болит голова.’		
+25	2	bí slaghdán	ar	SBJ	X	ar_SBJ	Tá slaghdán air Phól.	be.PRS flu on PN	‘Pól has the flu.’	Non-verbal predicate.	быть.PRS грипп на PN	‘У Пола грипп.’		
+25	3	bí eagla	ar	roimh	XY	ar_roimh	Tá eagla air Phól roimh an gadhar.	be.PRS fear on PN in.front.of DEF dog	‘Pól is afraid of the dog.’	Non-verbal predicate.	быть.PRS страх на PN перед DEF собака	‘Пол боится собаки.’		
+25	4	caith	SBJ	DO	TR	TR	Do=chaith Pól cloch.	PST=throw PN stone	‘Pól threw a stone.’		PST=бросать PN камень	‘Пол бросил камень.’		
+25	5	bí dothain	*	*	*		Tá a dhothain airgid aige Pól.	be.PRS POSS.3SG.M enough money.GS at PN	‘Pól has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).	быть.PRS POSS.3SG.M достаточное.количество деньги.GS у PN	‘У Пола достаточно денег.’		
+25	6	bí cosúil	SBJ	le	Y	SBJ_le	Tá Pól cosúil le Máire.	be.PRS PN similar with PN	‘Pól resembles Máire.’	Non-verbal predicate.	быть.PRS PN схожий с PN	‘Пол похож на Мойру.’		
+25	7	creid	SBJ	i	Y	SBJ_i	Creid-eann Pól i Mícheal.	believe-PRS PN in PN	‘Pól believes Mícheal.’		верить-PRS PN в PN	‘Пол верит Михелу.’		
+25	8	tóg	SBJ	DO	TR	TR	Do=thóg Pól leabhar do-n seilf.	PST=take PN book for-DEF shelf	‘Pól took a book from the shelf.’		PST=брать PN книга для-DEF полка	‘Пол взял книгу с полки.’		
+25	9	feic	SBJ	DO	TR	TR	Cí-onn Pól an tigh.	see-PRS PN DEF house	‘Pól sees the house.’		видеть-PRS PN DEF дом	‘Пол видит дом.’		
+25	10	bí tionchar	aige	ar	XY	aige_ar	Bí-onn tionchar aige an t-aois air a’ gcuimhne.	be.HAB-PRS influence at DEF age on DEF memory	‘Age influences memory.’	Non-verbal predicate.	быть.HAB-PRS влияние у DEF возраст на DEF память	‘Возраст влияет на память.’		
+25	11	buail	SBJ	le	Y	SBJ_le	Do=bhuail Pól le Mícheal.	PST=meet PN with PN	‘Pól encountered Mícheal.’		PST=встретить PN с PN	‘Пол встретился с Михелом.’		
+25	12	téigh	SBJ	isteach	Y	SBJ_isteach	Chuaigh Pól isteach an tigh.	go.PST PN inside DEF house.GS	‘Pól entered the house.’		идти.PST PN внутрь DEF дом.GS	‘Пол вошел в дом.’		
+25	13	buaigh	SBJ	ar	Y	SBJ_ar	Do=bhuaigh Pól air Mhícheal.	PST=win PN on PN	‘Pól beat Mícheal.’		PST=выиграть PN на PN	‘Пол выиграл у Михела.’		
+25	14	téigh amach	SBJ	as	Y	SBJ_as	Chuigh Pól amach as an tigh.	go_out.PST PN outside from DEF house	‘Pól went out of the house.’		выйти.PST PN наружу из DEF дом	‘Пол вышел из дома.’		
+25	15	tiomáin	SBJ	DO	TR	TR	Tá Pól aig tiomáint an bhó.	be.PRS PN at drive.NMLZ DEF.GS cow(GS)	‘Pól is driving the cow.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.	быть.PRS PN при гнать.NMLZ DEF.GS корова(GS)	‘Пол гонит корову.’		
+25	16	lúb	SBJ	DO	TR	TR	Lúb Pól an tuige.	bend(PST) PN DEF branch	‘Pól bent the branch.’		гнуть(PST) PN DEF ветка	‘Пол согнул ветку.’		
+25	17	abair	SBJ	le	Y	SBJ_le	Dúirt Pól le Mícheal...	tell.PST PN with PN...	‘Pól told Mícheal.’		говорить.PST PN с PN...	‘Пол сказал Михалу...’		
+25	18	bí	aige	SBJ	X	aige_SBJ	Tá leabhar aige Pól in-a lámh.	be.PRS book at PN in-POSS.3SG hand	‘Pól is holding a bookin his hands.’	Non-verbal predicate.	быть.PRS книга у PN в-POSS.3SG рука	‘У Пола в руках книга.’		
+25	19	tar suas	SBJ	le	Y	SBJ_le	Do=thanic Pól suas le Máire.	PST=catch.up PN up with PN	‘Pól caught up with Máire.’		PST=догнать PN наверх с PN	‘Пол догнал Мойру.’		
+25	20	crúigh	SBJ	DO	TR	TR	Do=chrúig Pól an bhó.	PST=milk PN DEF cow	‘Pól milked the cow.’		PST=доить PN DEF корова	‘Пол подоил корову.’		
+25	21	bain amach	SBJ	DO	TR	TR	Bhain Pól amach an banc.	PST/reach PN outside DEF bank	‘Pól reached the bank.’		PST/достичь PN наружу DEF берег	‘Пол достиг берега.’		
+25	22	buail	SBJ	DO	TR	TR	Do=bhuail Pól an fala.	PST=touch PN DEF wall	‘Pól touched the wall.’		PST=трогать PN DEF стена	‘Пол дотронулся до стены.’		
+25	23	bruíon	SBJ	le	Y	SBJ_le	Tá Pól ag bruíon le Máire.	be.PRS PN at fight.NMLZ with PN	‘Pól is fighting with Máire.’	The verb is nominalized as part of the progressive construction.	быть.PRS PN при драться.NMLZ с PN	‘Пол дерется с Мойрой.’		
+25	24	is cairde	*	*	*		Is cairde Pól agus Máire.	COP.PRS friend.PL PN and PN	‘Pól is friends with Máire.’	Not included in the database because X and Y are expressed as a coordinate NP.	COP.PRS друг.PL PN и PN	‘Пол дружит с Мойрой.’		
+25	25	cuimhnigh	SBJ	ar	Y	SBJ_ar	Tá Pól aig cuimhneamh air Mháire.	be.PRS PN at think.NMLZ on PN	‘Pól is thinking about Máire.’	The verb is nominalized as part of the progressive construction.	быть.PRS PN при думать.NMLZ на PN	‘Пол думает о Мойре.’		
+25	26	ith	SBJ	DO	TR	TR	D’=ith Pól úll.	PST=eat PN apple	‘Pól ate an apple.’		PST=есть PN яблоко	‘Пол съел яблоко.’		
+25	27	róst	SBJ	DO	TR	TR	Róst Pól iasc.	fry(PST) PN fish	‘Pól fried the fish.’		жарить(PST) PN рыба	‘Пол пожарил рыбу.’		
+25	28	fan	SBJ	le	Y	SBJ_le	Tá Pól ag fanúint le Máire.	be.PRS PN at wait.NMLZ with PN	‘Pól is waiting for Máire.’	The verb is nominalized as part of the progressive construction.	быть.PRS PN при ждать.NMLZ с PN	‘Пол ждет Мойру.’		
+25	29	déan dearúd	SBJ	ar	Y	SBJ_ar	Dhein Pól dearúd air an mbóthar eile.	PST/make PN oblivion on DEF road other	‘Pól forgot (about) the other road.’		PST/делать PN забвение на DEF дорога другой	‘Пол забыл о другой дороге.’		
+25	30	braith	SBJ	ar	Y	SBJ_ar	Braith-inn an cuimhne air an aois.	depend-PRS DEF memory on DEF age	‘Memory depends on age.’		зависеть-PRS DEF память на DEF возраст	‘Память зависит от возраста.’		
+25	31	glaoigh	SBJ	ar	Y	SBJ_ar	Do=glaoigh Pól air Mháire.	PST=call PN on PN	‘Pól called Máire.’		PST=звать PN на PN	‘Пол позвал Мойру.’		
+25	32	buail	SBJ	le	Y	SBJ_le	Do=bhuail Pól le Máire bliain ó shin.	PST=meet PN with PN year ago ago	‘Pól got to know Máire a year ago.’		PST=встретить PN с PN год назад назад	‘Пол встретился с Мойрой год назад.’		
+25	33	bí aithne	aige	ar	XY	aige_ar	Tá aithne aige Pól air Mháire.	be.PRS knowledge at PN on PN	‘Pól knows Máirel.’	Non-verbal predicate.	быть.PRS знание у PN на PN	‘Пол знает Мойру.’		
+25	34	seinn	SBJ	DO	TR	TR	Tá Pól ag seimint an guitar.	be.PRS PN at play.NMLZ DEF guitar(GS)	‘Pól is playing the guitar.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.	быть.PRS PN при играть.NMLZ DEF гитара(GS)	‘Пол играет на гитаре.’		
+25	35	déan sheachaint	SBJ	DO	TR	TR	Dein-eann Pól Máire a sheachaint.	make-PRS PN PN TRANS avoid	‘Pól avoids Máire.’	This translation contains a nominalized clause. However, the use of a (with lenition) indicates that the verb is transitive.	делать-PRS PN PN TRANS избегать	‘Пол избегает Мойру.’		
+25	36	déan	SBJ	DO	TR	TR	Dhein Pól a’ boma.	PST/make PN DEF bomb	‘Pól made a bomb.’		PST/делать PN DEF бомба	‘Пол сделал бомбу.’		
+25	37	cráigh	SBJ	DO	TR	TR	Tá Pól ag crá Mháire.	be.PRS PN at make_fun.NMLZ GS/PN	‘Pól is making fun of Máire.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.	быть.PRS PN при издеваться.NMLZ GS/PN	‘Пол издевается над Мойрой.’		
+25	38	bí	aige	SBJ	X	aige_SBJ	Tá gluaisteán aige Pól.	be.PRS car at PN	‘Pól has a car.’	Non-verbal predicate.	быть.PRS машина у PN	‘У Пола есть машина.’		
+25	39	lorg	SBJ	DO	TR	TR	Tá Pól ag lorg a eochr-acha.	be.PRS PN at look_for.NMLZ POSS.3SG.M key-GP	‘Pól is looking for his keys.’	The Y argument is in the GP-form because the verb is nominalized as part of the progressive construction.	быть.PRS PN при искать.NMLZ POSS.3SG.M ключ-GP	‘Пол ищет ключи.’		
+25	40	péinteáil	SBJ	DO	TR	TR	Phéinteáil Peter an falla.	PST/paint PN DEF fence	‘Pól painted the fence.’		PST/красить PN DEF забор	‘Питер покрасил забор.’		
+25	41	beir greim	SBJ	ar	Y	SBJ_ar	Do=rug madra greim ar Phól.	PST=take dog seizure on PN	‘A dog bit Pól.’		PST=взять собака хватка на PN	‘Собака укусила Пола.’		
+25	42	caill	SBJ	DO	TR	TR	Chaill Pól a thig.	PST/lose PN POSS.3SG.M house	‘Pól lost his house.’		PST/терять PN POSS.3SG.M дом	‘Пол потерял дом.’		
+25	43	iarr breith 	SBJ	ar	Y	SBJ_ar	Tá Pól ag iarraidh breith air an gcat.	be.PRS PN at try.NMLZ catch on DEF cat	‘Pól is trying to catch the cat.’	The verb is nominalized as part of the progressive construction.	быть.PRS PN при пытаться.NMLZ взять на DEF кошка	‘Пол пытается схватить кошку.’		
+25	44	bris	SBJ	DO	TR	TR	Do=bhris Pól an maide.	PST=break PN DEF branch	‘Pól broke the stick.’		PST=ломать PN DEF палка	‘Пол сломал палку.’		
+25	45		*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+25	46	bí grá	aige	do(PREP)	XY	aige_do(PREP)	Tá grá aig Pól do Mháire.	be.PRS love at PN for PN	‘Pól loves Máire.’	Non-verbal predicate.	быть.PRS любовь у PN для PN	‘Пол любит Мойру.’		
+25	47	croith	SBJ	DO	TR	TR	Tá Pól ag croitheadh ciairsiúir.	be.PRS PN at wave.NMLZ GS/handkerchief	‘Pól is waving a handkerchief.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.	быть.PRS PN при махать.NMLZ GS/платок	‘Пол машет платком.’		
+25	48	taibhrigh	SBJ	mar.gheall.ar	Y	SBJ_mar.gheall.ar	Tá sé ag taibhreamh mar_gheall_air chairt nú.	be.PRS 3SG.M at dream.NMLZ with.respect.to car.GS new	‘He is dreaming of a new car.’	The verb is nominalized as part of the progressive construction.	быть.PRS 3SG.M при мечтать.NMLZ по.поводу машина.GS новая	‘Он мечтает о новой машине.’		
+25	49	nigh	SBJ	DO	TR	TR	D’=nigh Pól an cupa.	PST=wash PN DEF cup	‘Pól washed the cup.’		PST=мыть PN DEF чашка	‘Пол вымыл чашку.’		
+25	50	cuir	SBJ	DO	TR	TR	Do=chuir Pól air a bhríste.	PST=put PN on.3SG.M POSS.3SG.M trousers	‘Pól put on his trousers.’		PST=класть PN на.3SG.M POSS.3SG.M штаны	‘Пол надел штаны’.		
+25	51	glaoigh	ar	SBJ	X	ar_SBJ	Glaoí-tear compass air an uirlis.	call-PASS.PRS compass on DEF instrument	‘The instrument is called a compass.’		звать-PASS.PRS компас на DEF инструмент	‘Инструмент называется компас.’		
+25	52	cuir piniós	SBJ	ar	Y	SBJ_ar	Chuir Pól piniós air a mhac.	PST/put PN punishment on POSS.3SG.M son	‘Pól punished his son.’		PST/класть PN наказание на POSS.3SG.M сын	‘Пол наказал своего сына.’		
+25	53	ionsaigh	SBJ	DO	TR	TR	D’=ionsaigh béar iascaire.	PST=attack bear fisherman	‘A bear attacked a fisherman.’		PST=нападать медведь рыбак	‘Медведь напал на рыбака.’		
+25	54	líon	SBJ	le	Y	SBJ_le	Líon an buicéad le huisce.	fill(PST) DEF bucket with water	‘The bucket filled with water.’		наполняться(PST) DEF ведро с вода	‘Ведро наполнилось водой.’		
+25	55	faigh	SBJ	DO	TR	TR	Fuair Pól a chuid neochr-acha.	find.PST PN POSS.3SG.M share keys-GP	‘Pól found his keys.’		находить.PST PN POSS.3SG.M доля ключи-GP	‘Пол нашел свои ключи.’		
+25	56	bí gearra	SBJ	BARE	Y	SBJ_BARE	Tá Pól euro gearra.	be.PRS PN euro short	‘Pól is one euro short.’	Non-verbal predicate. Unusual structure (calqued from English).	быть.PRS PN евро короткий	‘Полу не хватает [одного] евро.’		
+25	57	bí gráin	aige	ar	XY	aige_ar	Tá an ghráin aige Pól air Mháire.	be.PRS DEF hatred at PN on PN	‘Pól hates Máire.’	Non-verbal predicate.	быть.PRS DEF ненависть у PN на PN	‘Пол ненавидит Мойру.’		
+25	58	is maith	le	SBJ	X	le_SBJ	Is maith le Pól an léine sea	COP.PRS good with PN DEF shirt DEM	‘Pól likes this shirt.’	Non-verbal predicate.	COP.PRS хороший с PN DEF рубашка DEM	‘Полу нравится эта рубашка.’		
+25	59	bí	o	SBJ	X	o_SBJ	Tá airgid ó Phól.	be.PRS money from PN	‘Pól needs money.’	Non-verbal predicate.	быть.PRS деньги от PN	‘Полу нужны деньги.’		
+25	60	bí timpeall	SBJ	ar	Y	SBJ_ar	Tá fall-aí timpeall air an gcathair.	be.PRS wall-PL around on DEF town	‘Walls surround the city.’	Non-verbal predicate.	быть.PRS стена-PL вокруг на DEF город	‘Стены окружают город.’		
+25	61	fág	ar	SBJ	X	ar_SBJ	Tá deich euro fág-tha air Pól.	be.PRS ten euro remain-PART on PN	‘Pól has ten euro left.’	Non-verbal predicate.	быть.PRS десять евро оставаться-PART на PN	‘У Пола осталось десять евро.’		
+25	62	freagair	SBJ	DO	TR	TR	D’=fhreagair Pól an múinteoir.	PST=answer PN DEF teacher	‘Pól answered the teacher.’		PST=отвечать PN DEF учитель	‘Пол ответил учителю.’		
+25	63	oscail	SBJ	DO	TR	TR	D’=oscail Pól cana.	PST=open PN can	‘Pól opened a can.’		PST=окрывать PN банка	‘Пол открыл банку.’		
+25	64	bí difriúil	SBJ	le	Y	SBJ_le	Thá mo léine=sin difriúil le d’=cheann=sa.	be.PRS POSS.1SG shirt=DEM different with POSS.2SG=head=DEM	‘No, my shirt is different from yours.’	Non-verbal predicate.	быть.PRS POSS.1SG рубашка=DEM отличный с POSS.2SG=голова=DEM	‘Моя рубашка отличается от твоей.’		
+25	65	tit siar	SBJ	o	Y	SBJ_o	Thit Peter siar ó Mary.	PST/fall.behind PN back from PN	‘Pól fell behind Máire.’		PST/отставать PN назад от PN	‘Питер отстал от Мэри.’		
+25	66	treabh	SBJ	DO	TR	TR	Tá Pól ag treabh an ghoirt.	be.PRS PN at plough.NMLZ DEF.GS field/GS	‘Pól is ploughing the field.’	The Y argument is in the GS-form because the verb is nominalized as part of the progressive construction.	быть.PRS PN при пахать.NMLZ DEF.GS поле/GS	‘Пол пашет поле.’		
+25	67	bí boladh	*	*	*		Tá boladh gásailín ó mo láimh.	be.PRS smell fuel(GS) from POSS.1SG hand.PL	‘My hands smell of gasoline.’	Not included in the database because Y is expressed as an NP-internal modifier.	быть.PRS запах топливо(GS) от POSS.1SG рука.PL	‘Мои руки пахнут бензином.’		
+25	68	trasnaigh	SBJ	DO	TR	TR	Do=thrasnaigh Pól an bóthar.	PST=cross PN DEF road	‘Pól crossed the road.’		PST=пересекать PN DEF дорога	‘Пол пересек дорогу.’		
+25	69	can	SBJ	DO	TR	TR	Chan Pól amhrán álainn.	PST/sing PN song beautiful	‘Pól sang a beautiful song.’		PST/петь PN песня красивый	‘Пол спел красивую песню.’		
+25	70	scríobh	SBJ	DO	TR	TR	Do=scríobh Pól leitir.	PST=write PN letter	‘Pól wrote a letter.’		PST=писать PN письмо	‘Пол написал письмо.’		
+25	71	ól	SBJ	DO	TR	TR	D’=ól Pól an bainne.	PST=drink PN DEF milk	‘Pól drank the milk.’		PST=пить PN DEF молоко	‘Пол выпил молоко.’		
+25	72	leáigh	SBJ	DO	TR	TR	Do=leáigh Pól píosa luaidhe.	PST=melt PN piece lead(GS)	‘Pól melted a piece of lead.’		PST=плавить PN кусок свинец(GS)	‘Пол расплавил кусок свинца.’		
+25	73	téigh	SBJ	le	Y	SBJ_le	Té-ann an belt le mo ghúna.	go-PRS DEF belt with POSS.1SG dress	‘This belt goes well with my dress.’		идти-PRS DEF пояс с POSS.1SG платье	‘Пояс подходит к моему платью.’		
+25	74	fág	SBJ	DO	TR	TR	D’=fhág Pól a chathair dúchais.	PST=leave PN POSS.3SG.M city native	‘Pól left his native city.’		PST=оставлять PN POSS.3SG.M город родной	‘Пол оставил родной город.’		
+25	75	clúdaigh	SBJ	DO	TR	TR	Clúd-íonn an cairpéad an urlár air_fad.	cover-PRS DEF carpet DEF floor fully	‘The carpet covers the whole floor.’		покрывать-PRS DEF ковер DEF пол целиком	‘Ковер покрывает пол целиком.’		
+25	76	cuimhnigh	SBJ	DO	TR	TR	Cuimhn-íonn Peter an tigh d’fhag sé suas go maith.	remember-PRS PN DEF house PST=grow he grow up well	‘Pól remembers the house we he grew up well.’		помнить-PRS PN DEF дом PST=вырасти он вырасти вверх хорошо	‘Питер хорошо помнит дом, в котором вырос.’		
+25	77	cabhraigh	SBJ	le	Y	SBJ_le	Do=chabhraigh Pól le Máire.	PST=help PN with PN	‘Pól helped Máire.’		PST=помогать PN с PN	‘Пол помог Мойре.’		
+25	78	tuig	SBJ	DO	TR	TR	Tuig-eann Pól Fraincis.	understand-PRS PN French	‘Pól understands French.’		понимать-PRS PN французский_язык	‘Пол понимает французский язык.’		
+25	79	buail	SBJ	DO	TR	TR	Do=bhuail splanc an tigh.	PST=strike lightning DEF house	‘Lightning struck the house.’		PST=ударять молния DEF дом	‘Молния ударила в дом.’ 		
+25	80	gearr	SBJ	le	Y	SBJ_le	Ghearr Pól é fein le rásúr.	PST/cut PN he.ACC REFL with razor	‘Pól cut himself with a razor.’		PST/резать PN он.ACC REFL с бритва	‘Пол порезался бритвой.’		
+25	81	greamaigh	SBJ	do(PREP)	Y	SBJ_do(PREP)	Greamaigh an gloine do-n bord.	get_stuck.PST DEF glass for-DEF table	‘The glass got stuck to the table.’		прикрепиться.PST DEF стакан для-DEF стол	‘Стакан прилип к столу.’		
+25	82	caill	SBJ	le	Y	SBJ_le	Chaill sé le Mary.	PST/lose he with PN	‘He lost to Máire.’		PST/терять он с PN	‘Он проиграл Мэри.’		
+25	83	bí an-shásta	SBJ	le	Y	SBJ_le	Do=bhí Pól an-shásta leis an leitir.	PST=be.PST PN INT-content with DEF letter	‘Pól was glad about the letter.’	Non-verbal predicate.	PST=быть.PST PN INT-довольный с DEF письмо	‘Пол обрадовался письму.’		
+25	84	caintigh	SBJ	le	Y	SBJ_le	Tá Pól ag caint le Máire.	be.PRS PN at speak.NMLZ with PN	‘Pól is speaking with Máire.’		быть.PRS PN при разговаривать.NMLZ с PN	‘Пол разговаривает с Мойрой.’		
+25	85	beir	do(PREP)	SBJ	X	do(PREP)_SBJ	Do=rug-adh leanbh mic do Mháire.	PST=take-PST.PASS child son/GS for PN	‘Máire gave birth to a son.’		PST=взять-PST.PASS ребенок сын/GS для PN	‘У Мойры родился сын.’		
+25	86	tit	o	SBJ	X	o_SBJ	Do=thit an ghloine ó Phól.	PST=fall DEF glass from PN	‘Pól dropped the glass.’		PST=падать DEF стакан от PN	‘У Пола упал стакан.’		
+25	87	rith	SBJ	DO	TR	TR	Rith-eann Peter an monarcha.	govern-PRS PN DEF factory	‘Pól runs the factory.’		руководить-PRS PN DEF фабрика	‘Питер руководит фабрикой.’		
+25	88	braith ó	SBJ	DO	TR	TR	Braith-ean Pól uaid Máire.	miss-PRS PN from.3SG.M PN	‘Pól misses Máire.’	uaid is not a device for flagging Y.	скучать-PRS PN от.3SG.M PN	‘Пол скучает по Мойре.’		
+25	89	lean	SBJ	DO	TR	TR	Lean-aíonn Pól Máire.	follow-PRS PN PN	‘Pól follows Máire.’		следовать-PRS PN PN	‘Пол следует за Мойрой.’		
+25	90	tar anuas	SBJ	de	Y	SBJ_de	Tháinig Pól anuas de-n gcapall.	come.PST PN down from-DEF horse	‘Pól got down from the horse.’		приходить.PST PN вниз от-DEF лошадь	‘Пол слез с лошади.’		
+25	91	éist	SBJ	le	Y	SBJ_le	Tá Pól ag éisteacht leis an radio.	be.PRS PN at listen.NMLZ with DEF radio	‘Pól is listening to radio.’	The verb is nominalized as part of the progressive construction.	быть.PRS PN при слушать.NMLZ с DEF радио	‘Пол слушает радио.’		
+25	92	éist	SBJ	le	Y	SBJ_le	Éist-eann Pól i gcónaí lena mháthair.	listen-PRS PN always always with.POSS.3SG.M mother	‘Pól always listens to his mother.’		слушать-PRS PN всегда всегда с.POSS.3SG.M мать	‘Пол всегда слушается маму.’		
+25	93	clois	SBJ	DO	TR	TR	Clois-eann Pól an ceol.	hear-PRS PN DEF music	‘Pól hears the music.’		слышать-PRS PN DEF музыка	‘Пол слышит музыку.’		
+25	94	measc	SBJ	le	Y	SBJ_le	Do=measc-adh an mhíl leis an mbainne.	PST=mix-PST.PASS DEF honey with DEF milk	‘The honey got mixed with milk.’		PST=смешиваться-PST.PASS DEF мед с DEF молоко	‘Мед смешался с молоком.’		
+25	95	féach	SBJ	ar	Y	SBJ_ar	Tá Pól ag féach-aint air na scamaill.	be.PRS PN at look.NMLZ on DEF.PL cloud.PL	‘Pól is looking at the clouds.’	The verb is nominalized as part of the progressive construction.	быть.PRS PN при смотреть.NMLZ на DEF.PL туча.PL	‘Пол смотрит на тучи.’		
+25	96	bain	SBJ	DO	TR	TR	Do=bhain Pól dó a léine.	PST=take_off PN from.3SG POSS.3SG shirt	‘Pól took off his shirt.’		PST=снимать PN от.3SG POSS.3SG рубашка	‘Пол снял рубашку.’		
+25	97	taibhrigh	SBJ	mar.gheall.ar	Y	SBJ_mar.gheall.ar	Tá Mary ag taibhreamh mar_gheall_air Peter.	be.PRS PN at dream.NMLZ with.respect.to PN	‘Pól dreams about Máire.’	The verb is nominalized as part of the progressive construction.	быть.PRS PN при видеть.во.сне.NMLZ по.поводу PN	‘Питер снится Мэри.’		
+25	98	aontaigh	SBJ	le	Y	SBJ_le	D’=aontaigh Pól le Máire.	PST=agree PN with PN	‘Pól agreed with Máire.’		PST=соглашаться PN с PN	‘Пол согласился с Мэри.’		
+25	99	bí argóint	aige	le	XY	aige_le	Bhí argóint ag Pól le Máire.	be.PST quarrel at PN with PN	‘Pól had a quarrel with Máire.’	Non-verbal predicate.	быть.PST ссора у PN с PN	‘Пол поссорился с Мэри.’		
+25	100	cosain	SBJ	DO	TR	TR	Chosain an cupa=sa euro amhaín	PST/cost DEF cup=DEM euro one	‘This cup costs one euro.’		PST/стоить DEF чашка=DEM евро один	‘Эта чашка стоит один евро.’		
+25	101	scaoil	SBJ	faoi	Y	SBJ_faoi	Scaoil Pól fé-n éan.	shoot(PST) PN under-DEF bird	‘Pól shot at the bird.’		стрелять(PST) PN под-DEF птица	‘Пол выстрелил в птицу.’		
+25	102	doirt	SBJ	DO	TR	TR	Dhoirt Pól an siúcra isteach a’ gcupa.	PST/pour PN DEF sugar inside DEF cup	‘Pól poured the sugar into the cup.’		PST/сыпать PN DEF сахар внутрь DEF чашка	‘Пол насыпал сахар в чашку.’		
+25	103	caill	SBJ	DO	TR	TR	Do=chaill Pól a chuid neochr-acha.	PST=lose PN POSS.3SG.M share keys-GP	‘Pól lost his keys.’		PST=терять PN POSS.3SG.M доля ключ-GP	‘Пол потерял свои ключи.’		
+25	104	báigh	DO	i	XY	DO_i	Bá-dh é in-san uisce.	sink-PST.PASS he.ACC in-DEF water	‘It sank in the water.’	Passive construction (but no promotion to the subject position).	топить-PST.PASS он.ACC в-DEF вода	‘Оно утонуло в воде.’		
+25	105	maraigh	SBJ	DO	TR	TR	Do=mhairbh Pól Máire.	PST=kill PN PN	‘Pól killed Máire.’		PST=убивать PN PN	‘Пол убил Мойру.’		
+25	106	buail	SBJ	DO	TR	TR	Do=bhuail Pól Máire.	PST=hit PN PN	‘Pól hit Máire.’		PST=ударять PN PN	‘Пол ударил Мойру.’		
+25	107	póg	SBJ	DO	TR	TR	Do=phóg Pól Máire.	PST=kiss PN PN	‘Pól kissed Máire.’		PST=целовать PN PN	‘Пол поцеловал Мойру.’		
+25	108	léigh	SBJ	DO	TR	TR	Do=léigh Pól leabhar an-shuimiúil.	PST=read PN book INT-interesting	‘Pól read an interesting book.’		PST=читать PN книга INT-интересный	‘Пол прочитал очень интересную книгу.’		
+25	109	bog	SBJ	DO	TR	TR	Bhog Pól a mhéar.	PST/move PN POSS.3SG.M finger	‘Pól moved his finger.’		PST/двигать PN POSS.3SG.M палец	‘Пол пошевелил пальцем.’		
+25	110	bí meas	aige	ar	XY	aige_ar	Tá meas aig Pól air Máire.	be.PRS respect at PN on PN	‘Pól respects Máire.’	Non-verbal predicate.	быть.PRS уважение у PN на PN	‘Пол уважает Мойру.’		
+25	111		*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+25	112	bí an-shásta	SBJ	le	Y	SBJ_le	Tá Pól an-shásta le-na mhac.	be.PRS PN INT-content with-POSS.3SG.M son	‘Pól is satisfied with his son.’	Non-verbal predicate.	быть.PRS PN INT-довольный с-POSS.3SG.M сын	‘Пол доволен своим сыном.’		
+25	113	tit i ngrá	SBJ	le	Y	SBJ_le	Do=thit Pól i ngrá le Máire.	PST=fall PN in love with PN	‘Pól fell in love with Máire.’		PST=падать PN в любовь с PN	‘Пол влюбился в Мойру.’		
+25	114	bí muinín	aige	as	XY	aige_as	Tá muinín aige Pól as Mháire.	be.PRS trust at PN from PN	‘Pól trusts Máire.’	Non-verbal predicate.	быть.PRS доверие у PN из PN	‘Пол доверяет Мойре.’		
+25	115	bí trua	aige	le	XY	aige_le	Tá trua aige Pól le-na mháthair.	be.PRS sympathy at PN with-POSS.3SG.M mother	‘Pól sympathises with his mother.’	Non-verbal predicate.	быть.PRS жалость у PN с-POSS.3SG.M мать	‘Пол жалеет свою мать.’		
+25	116	bí formad	aige	le	XY	aige_le	Tá formad aige Pól le Máire.	be.PRS envy at PN with PN	‘Pól envies Máire.’	Non-verbal predicate.	быть.PRS зависть у PN с PN	‘Пол завидует Мойре.’		
+25	117	bí feargach	SBJ	le	Y	SBJ_le	Tá Pól feargach le Máire.	be.PRS PN angry with PN	‘Pól is angry with Máire.’	Non-verbal predicate.	быть.PRS PN разозленный с PN	‘Пол злится на Мойру.’		
+25	118	bí iontas	ar	mar.gheall.air	XY	ar_mar.gheall.air	Bhí iontas air Phól mar_gheall_air an mbronntanas.	be.PST surprise on PN with.respect.to DEF gift	‘Pól was surprised at the gift.’	Non-verbal predicate.	быть.PST удивление у PN по.поводу DEF подарок	‘Пол удивился подарку.’		
+25	119	is breá	le	SBJ	X	le_SBJ	Is breá le Pól tae.	COP.PRS pleasant with PN tea	‘Pól loves tea.’	Non-verbal predicate.	COP.PRS приятный с PN чай	‘Пол любит чай.’		
+25	120		*	*	*		*	*	*	No satisfactory translation has been obtained.	*	*		
+25	121	teastaigh	*	*	*		Teast-aíonn fón nú ó Peter.	be_necessary-PRS telephone new from PN	‘Pól wants a new mobile phone.’	Not included in the database because this translation is semantically inaccurate.	быть.нужным-PRS телефон новый от PN	‘Питеру нужен новый телефон.’		
+25	122	bí an chloch sa muinirtle	aige	do(PREP)	X	aige_do(PREP)	Tá an chloch sa muinirtle aige Pól do Mháire.	be.PRS DEF stone in.DEF sleeve at PN for PN	‘Pól holds a grudge against Máire.’	Non-verbal predicate.	быть.PRS DEF камень в.DEF рукав при PN для PN	‘Пол сердится на Мойру.’		
+25	123	bí an goimh	ar	go=dti	XY	ar_go=dti	Bhí an goimh air Phól go_dtí Máire.	be.PST DEF sting on PN in_direction PN	‘Pól took offence at Máire.’	Non-verbal predicate.	быть.PST DEF жало на PN в.сторону PN	‘Пол обиделся на Мойру.’		
+25	124	gortaigh	SBJ	DO	TR	TR	Ghortaigh Pól Máire g’ mór.	PST/cause_pain PN PN strongly	‘Pól greatly upset Máire.’		PST/причинить.боль PN PN сильно	‘Пол причинил Мойре расстройство.’		
+25	125	bí iontas	ar	le	XY	ar_le	Bhí iontas air Phól leis an chathair.	be.PST surprise on PN with DEF town	‘Pól was impressed by the town.’	Non-verbal predicate.	быть.PST удивление на PN с DEF город	‘Пол удивился городу.’		
+25	126	bí an ghrain dearg	aige	ar	XY	aige_ar	Tá an ghrain dearg aige Pól air Máire.	be.PRS DEF hatred red at PN on PN	‘Pól despises Máire.’	Non-verbal predicate.	быть.PRS DEF ненависть красный при PN на PN	‘Пол презирает Мойру.’		
+25	127	bí trína chéile	SBJ	de_dheascaibh	Y	SBJ_de_dheascaibh	Bhí Pól trína chéile de_dheascaibh a mhac.	be.PST PN upset upset because_of POSS.3SG.M son	‘Pól got upset with his son.’	Non-verbal predicate.	быть.PST PN огорченный огорченный из-за POSS.3SG.M сын	‘Пол огорчился из-за своего сына.’		
+25	128	fáil imníoch	SBJ	faoi	Y	SBJ_faoi	Tá Pól a’ fáilt imníoch faoi-na hiníon.	be.PRS PN at become.NMLZ irritated under-POSS.3SG.M daughter	‘Pól is getting irritated with his daughter.’	Non-verbal predicate. The copula-like verb is nominalized as part of the progressive construction.	быть.PRS PN при становиться.NMLZ раздраженный под-POSS.3SG.M дочь	‘Пол раздражается на свою дочь.’		
+25	129	bí mór	SBJ	le	Y	SBJ_le	Tá Pól mór le Máire.	be.PRS PN big with PN	‘Pól is fond of Máire.’	Non-verbal predicate.	быть.PRS PN большой с PN	‘Пол симпатизирует Мойре.’		
+25	130	bí náire	ar	mar.gheall.air	XY	ar_mar.gheall.air	Tá náire air Phól mar_gheall_air a airde.	be.PRS shame on PN with.respect.to POSS.3SG.M height	‘Pól is embarrased about his height.’	Non-verbal predicate.	быть.PRS стыд на PN по.поводу POSS.3SG.M рост	‘Пол стыдится своего роста.’		
 33	1	dolere	a	SBJ	X	a_SBJ	a Leo duol-e la test-a	to PN(M) ache-3SG.PRS DEF.SG.F head-SG.F	‘Leo has a headache.’		к PN(M) болеть-3SG.PRS DEF.SG.F голова-SG.F	‘У Льва болит голова.’		
 33	2	avere	SBJ	DO	TR	TR	Leo ha l’ influenz-a	PN(M) have.3SG.PRS DEF.SG.F flu-SG.F	‘Leo has a flu.’		PN(M) иметь.3SG.PRS DEF.SG.F грипп-SG.F	‘У Льва грипп.’		
 33	3	aver paura	SBJ	di	Y	SBJ_di	Leo ha paur-a del can-e	PN(M) have.3SG.PRS fear-SG.F of.DEF.SG.M dog-SG.M	‘Leo is afraid of the dog.’		PN(M) иметь.3SG.PRS страх-SG.F от.DEF.SG.M собака-SG.M	‘Лев боится собаки.’		
@@ -4029,136 +4029,136 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 87	128	irritar-se	SBJ	com	Y	SBJ_com	Pedro se irrit-a com sua filha	PN(M) REFL be_irritated-3SG.PRS with POSS.3.F daughter(F)	‘Pedro is getting irritated with his daughter.’		PN(M) REFL раздражаться-3SG.PRS с POSS.3.F дочь(F)	‘Педру раздражается на свою дочь.’		
 87	129	simpatizar	SBJ	com	Y	SBJ_com	Pedro simpatiz-a com Miguel	PN(M) be_fond-3SG.PRS with PN(M)	‘Pedro is fond of Miguel.’		PN(M) симпатизировать-3SG.PRS с PN(M)	‘Педру симпатизирует Мигелу.’		
 87	130	ter vergonha	SBJ	de	Y	SBJ_de	Pedro tem vergonha de sua altura	PN(M) have.3SG.PRS shame(F) of POSS.3.F height(F)	‘Pedro is shy about his height.’		PN(M) иметь.3SG.PRS стыд(F) от POSS.3.F высота(F)	‘Педру стесняется своего роста.’		
-28	1	дукхал	ACC	DIR	X	ACC_DIR	ман дукха-л ма о шэр-о	я.OBL болеть-PRS.3SG я.CL ART.M.DIR голова-DIR.SG	‘У меня болит голова.’					
-28	2	сы	LOC	DIR	X	LOC_DIR	лесте сы лес гриб-о	он.LOC быть.PRS.3 он.OBL грипп-DIR.SG	‘У него грипп.’					
-28	3	дарал	DIR	ABL	Y	DIR_ABL	о Мурш-а дара-л ката жюкэл	ART.M.DIR PN-DIR.SG бояться-PRS.3SG от собака.DIR.SG	‘Мурша боится собаки.’	Nominal constructions with kata systematically correspond to the use of ablatives with pronouns (cf. дара-л лес-тар [бояться-PRS.3SG он-ABL].				
-28	4	шюдел	DIR	ACC	TR	TR	о Mурш-a шюд-я барр	ART.M.DIR Муршa-DIR.SG бросать-PST.3SG камень.DIR	‘Мурша бросил камень.’					
-28	5	арэсэл	LOC	DIR(NO.AGR)	XY	LOC_DIR(NO.AGR)	лесте арэсэ-л лес лове	он.LOC быть_достаточным-PRS.3SG он.OBL деньги.DIR.PL	‘У него достаточно денег.’	In this meaning, the verb always has the 3SG form. 				
-28	6	мя(зо)л  	DIR	pe	Y	DIR_pe	о Мурш-а мя-л пе лес-те	ART.M.DIR PN-DIR.SG быть_похожим-PRS.3SG на он-LOC	‘Мурша похож на него.’	The preposition is obligatory with pronouns. With nominal Y’s the transitive construction is possible.				
-28	7	патял	DIR	DAT	Y	DIR_DAT	о Мурш-а патя-л ла Марийк-акэ	ART.M.DIR PN-DIR.SG верить-PRS.3SG ART.F.OBL PN-SG.DAT	‘Мурша верит Марийке.’	Neutralization of case is possible.				
-28	8	лел	DIR	ACC	TR	TR	о Мурш-а л-я э книшк-а	ART.M.DIR PN-DIR.SG брать-PST.3SG ART.F.DIR книга-OBL.SG	‘Мурша взял книгу.’					
-28	9	дикхэл	DIR	ACC	TR	TR	о Мурш-а дикх-э-л о кхэр	ART.M.DIR PN-DIR.SG видеть-PST-3SG ART.M.DIR дом.DIR.SG	‘Мурша видит дом.’					
-28	10	влиил	DIR	pe	Y	DIR_pe	ле бэрш влии-н по памитё	ART.PL год.DIR.PL влиять-PRS.3PL на память.DIR	‘Возраст влияет на память.’	Is this a typo? I would expect пе as the preposition.				
-28	11	дикхэлпе	DIR	INS	Y	DIR_INS	о Мурш-а дикх-л-я-пе ла Марийк-аса	ART.M.DIR PN-DIR.SG видеться-PST-3SG-REFL ART.F.OBL PN-INS.SG	‘Мурша встретился с Марийкой.’					
-28	12	шёлпе	DIR	ando	Y	DIR_ando	о Мурш-а шю-т-я-пе ман-де арати андо кхэр	ART.M.DIR PN-DIR.SG заходить-PST.3SG-REFL я-LOC вчера в дом.DIR.SG	‘Мурша вчера зашел в дом.’	Does this really mean: entered MY house?				
-28	13	лел	DIR	ABL	Y	DIR_ABL	о Мурша л-я лес-тар андо футбол-о	ART.M.DIR PN брать-PST.3SG он-ABL в футбол-DIR.SG	‘Мурша выиграл у него в футбол.’	Alternative is the Russian loandword выгруил with the same pattern. 				
-28	14	анклел	DIR	anda	Y	DIR_anda	о Мурш-а анкл-ист-о анда кхэр	ART.M.DIR PN-DIR.SG выходить-PST-3SG.M из дом.DIR.SG	‘Мурша вышел из дома.’					
-28	15	нашавел	DIR	ACC	TR	TR	о Мурша наш-ав-е-л ла гурумн-я пе поля	ART.M.DIR PN-DIR.SG бежать-CAUS-PRS-3SG ART.F.OBL корова-OBL.SG на поле.DIR.SG	‘Мурша гонит корову на поле.’					
-28	16	бандярэл	DIR	ACC	TR	TR	о Мурш-а банд-яр-д-я э салк-а	ART.M.DIR PN-DIR.SG кривой-CAUS-PST-3SG ART.F.DIR дерево-DIR.SG	‘Мурша согнул дерево.’					
-28	17	пхенел	DIR	DAT	Y	DIR_DAT	о Мурш-а пхен-д-я ман-гэ	ART.M.DIR PN-DIR.SG говорить-PST-3SG я-DAT	‘Мурша сказал мне.’	Neutralization of case is impossible.				
-28	18	никэрэл	DIR	ACC	TR	TR	о Мурш-а никэрэ-л э книшк-а	ART.M.DIR PN-DIR.SG держать-PRS.3SG ART.F.DIR книшка-DIR.SG	‘Мурша держит книгу.’					
-28	19	дугунил	DIR	ACC	TR	TR	о Мурш-а дугуни-сард-я ла Марийка́	ART.M.DIR PN-DIR.SG догонять-PST-3SG ART.F.OBL PN.OBL	‘Мурша догнал Марийку.’	There is no inherited equivalent. The verb used is a Russian loanword.				
-28	20	странгол	DIR	ACC	TR	TR	э Марийк-а странго-сард-я ла гурумня	ART.F.DIR PN-DIR.SG доить-PST-3SG ART.F.OBL корова.OBL	‘Марийка подоила корову.’	Alternative is страндил with the same pattern.				
-28	21	арэсэл	DIR	LOC	Y	DIR_LOC	па дуй чяс-уря о Мурш-а арэс-л-о жи ман-де	через два.DIR час-DIR.PL ART.M.DIR PN-DIR.SG достигать-PST-3SG.M до я-LOC	‘Мурша через два часа добрался до меня.’	The use of the preposition жи is optional. With a nominal Y argument, the structure with the preposition(s) жи ка would be used: арэс-л-о жи ка берег-о [до к берег-DIR.SG].				
-28	22	азбал	DIR	ACC	TR	TR	о Мурш-а азба-д-я о зыд-о	ART.M.DIR PN-DIR.SG касаться-PST-3SG ART.M.DIR стена-DIR.SG	‘Мурша дотронулся до стены.’	Alternative is амисавел + LOC. Was the choice correct?				
-28	23	марэлпе	DIR	INS	Y	DIR_INS	о Мурш-а марэ-л-пе ла Марийк-аса	ART.M.DIR PN-DIR.SG драться-PRS.3SG-REFL ART.F.OBL PN-INS.SG	‘Мурша дерется с Марийкой.’					
-28	24	дружыл	DIR	INS	Y	DIR_INS	о Мурш-а дружы-л ла Марийк-аса	ART.M.DIR PN-DIR.SG дружить-PRS.3SG ART.F.OBL PN-INS.SG	‘Мурша дружит с Марийкой.’	There is no inherited equivalent. The verb used is a Russian loanword.				
-28	25	гындилпе	DIR	pa	Y	DIR_pa	гынди-в-ма па ла-те	думать-PRS.1SG-REFL о она-LOC	‘Я думаю о ней.’	Non-reflexive verb is possible when the second argument is a complement clause: ме гындив, кэ арэсав кхэрэ кал рром ‘я думаю, что доеду домой к цыганам’				
-28	26	хал	DIR	ACC	TR	TR	о Мурш-а ха-л-я э пхабай	ART.M.DIR PN-DIR.SG есть-PST-3SG ART.F.DIR яблоко.DIR.SG	‘Мурша съел яблоко.’					
-28	27	пекэл	DIR	ACC	TR	TR	о Мурш-а пек-л-я маш-ё	ART.M.DIR PN-DIR.SG жарить-PST-3SG рыба-DIR.SG	‘Мурша пожарил рыбу.’					
-28	28	ажюкэрэл	DIR	ACC	TR	TR	о Мурш-а ажюкэрэ-л ла Марийк-а́	ART.M.DIR PN-DIR.SG ждать-PRS.3SG ART.F.OBL PN-OBL.SG	‘Мурша ждет Марийку.’					
-28	29	быстрэл	DIR	pa	Y	DIR_pa	о Мурш-а быстэр-д-я па код-о дром	ART.M.DIR PN-DIR.SG забывать-PST-3SG о тот-DIR.M дорога.DIR.SG	‘Мурша забыл о другой дороге.’					
-28	30	зависил	DIR	ABL	Y	DIR_ABL	о паметё зависи-л ката л бэрш	ART.M.DIR память.DIR.SG зависеть-PRS.3SG от ART.PL год.DIR.PL	‘Пасять зависит от возраста.’	There is no inherited equivalent. The verb used is a Russian loanword. With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
-28	31	акхарэл	DIR	ACC	TR	TR	о Мурш-а акхар-д-я ла Марийк-а́	ART.M.DIR PN-DIR.SG звать-PST-3SG ART.F.OBL PN-OBL.SG	‘Мурша позвал Марийку.’					
-28	32	знакомилпе	DIR	INS	Y	DIR_INS	о Мурш-а знакоми-сайл-о ла Марийк-аса	ART.M.DIR PN.DIR.SG знакомиться-PST.REFL-3SG.M ART.F.OBL PN-INS.SG	‘Мурша познакомился с Марийкой.’	There is no inherited equivalent. The verb used is a Russian loanword.				
-28	33	жянел	DIR	ACC	TR	TR	о Мурш-а жяне-л ла Марийк-а́	ART.M.DIR PN-DIR.SG знать-PRS.3SG ART.F.OBL PN-OBL.SG	‘Мурша знает Марийку.’					
-28	34	дилабал	DIR	pe	Y	DIR_pe	о Мурш-а дилаба-л пе гитар-а	ART.M.DIR PN-DIR.SG петь-PRS.3SG на гитара-DIR.SG	‘Мурша играет на гитаре.’	With a pronominal Y argument, the structure with the пе + locative case (LOC) would be used.				
-28	35	нашэл	DIR	ABL	Y	DIR_ABL	о Мурш-а нашэ-л ката Марийк-а	ART.M.DIR PN-DIR.SG бежать-PRS.3SG от PN-DIR.SG	‘Мурша избегает Марийку.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
-28	36	лашярэл	DIR	ACC	TR	TR	о Мурш-а лаш-яр-д-я бомб-а	ART.M.DIR PN-DIR.SG хороший-CAUS-PST-3SG бомба-DIR.SG	‘Мурша изготовил бомбу.’					
-28	37	асал	DIR	ABL	Y	DIR_ABL	о Мурш-а аса-л ката Марийк-а	ART.M.DIR PN-DIR.SG смеяться-PRS.3SG от PN-DIR.SG	‘Мурша смеется над Марийкой.’	This is literally ‘to laugh’. With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative is прасал ‘дразнить’, which is used in the transitive construction.				
-28	38	сы	LOC	DIR	X	LOC_DIR	лес-те сы лес матора	он-LOC быть.PRS.3 он.OBL машина.DIR.SG	‘У него есть машина.’					
-28	39	родел	DIR	ACC	TR	TR	о Мурш-а роде-л ле те-и	ART.M.DIR PN-DIR.SG искать-PRS.3SG ART.PL ключ-DIR.PL	‘Мурша ищет ключи.’					
-28	40	макхэл	DIR	ACC	TR	TR	о Мурш-а макх-л-я э бар	ART.M.DIR PN-DIR.SG красить-PST-3SG ART.F.DIR забор.DIR.SG	‘Мурша покрасил забор.’					
-28	41	дандярэл	DIR	ACC	TR	TR	о жюкэл данд-ар-д-я ле Мурш-ас	ART.M.DIR собака.DIR.SG зуб-CAUS-PST-3SG ART.M.OBL PN-OBL.SG	‘Собака укусила Муршу.’					
-28	42	хасарэл	DIR	ACC	TR	TR	о Мурш-а хасар-д-я о кхэр	ART.M.DIR PN-DIR.SG терять-PST-3SG ART.DIR.SG дом.DIR.SG	‘Мурша потерял дом.’	Alternative is ашел ‘оставаться’, used with the NOM_biGEN pattern (literally, ‘remain without the house’).				
-28	43	астарэл	DIR	ACC	TR	TR	о Мурш-а астар-э-л лa мыц-а́	ART.M.DIR PN-DIR.SG ловить-PRS-3SG DEF.F.OBL кошка-OBL.SG	‘Мурша ловит кошку.’					
-28	44	пхагэл	DIR	ACC	TR	TR	о Мурш-а пхаг-л-я э ррай	ART.M.DIR PN-DIR.SG ломать-PST-3SG ART.F.DIR палка.DIR.SG	‘Мурша сломал палку.’					
+28	1	dukhal	ACC	NOM	X	ACC_NOM	man dukha-l ma o šər-o	я.ACC болеть-PRS.3SG я.CL ART.M.DIR.SG голова-NOM.SG	‘У меня болит голова.’					
+28	2	sy	LOC	NOM	X	LOC_NOM	les-te sy les grib-o	он-LOC быть.PRS.3 он.CL грипп-NOM.SG	‘У него грипп.’					
+28	3	daral	NOM	ABL	Y	NOM_ABL	o Murš-a dara-l kata źukəl	ART.M.DIR.SG PN-NOM.SG бояться-PRS.3SG от собака[NOM.SG]	‘Мурша боится собаки.’	Nominal constructions with kata systematically correspond to the use of ablatives with pronouns (cf. dara-l les-tar [бояться-PRS.3SG он-ABL].				
+28	4	śudel	NOM	ACC	TR	TR	o Murš-a śuď-a bař	ART.M.DIR.SG Муршa-NOM.SG бросать-PST.3SG камень[ACC.SG]	‘Мурша бросил камень.’					
+28	5	arəsəl	LOC	NOM	X	LOC_NOM	les-te arəs-əl les love	он-LOC быть_достаточным-PRS.3SG он.CL деньги[NOM.PL]	‘У него достаточно денег.’	In this meaning, the verb always has the 3SG form. 				
+28	6	mʼa(zo)l  	NOM	pe	Y	NOM_pe	o Murš-a mʼa-l pe les-te	ART.M.DIR.SG PN-NOM.SG быть_похожим-PRS.3SG на он-LOC	‘Мурша похож на него.’	The preposition is obligatory with pronouns. With nominal Y’s the binominative construction is possible.				
+28	7	paťal	NOM	ACC	TR	TR	o Murš-a paťa-l la Marijk-a	ART.M.DIR.SG PN-NOM.SG верить-PRS.3SG ART.F.OBL.SG PN-ACC.SG	‘Мурша верит Марийке.’					
+28	8	lel	NOM	ACC	TR	TR	o Murš-a ľ-a ə knišk-a	ART.M.DIR.SG PN-NOM.SG брать-PST.3SG ART.F.DIR.SG книга-ACC.SG	‘Мурша взял книгу.’					
+28	9	dikhəl	NOM	ACC	TR	TR	o Murš-a dikh-əl o khər	ART.M.DIR.SG PN-NOM.SG видеть-PRS.3SG ART.M.DIR.SG дом[ACC.SG]	‘Мурша видит дом.’					
+28	10	vliil	NOM	pe	Y	NOM_pe	le bərš vlii-n p-o pamiťo	ART.PL год[NOM.PL] влиять-PRS.3PL на-ART.M.DIR.SG.SG память-NOM.SG	‘Возраст влияет на память.’	There is no inherited verb, the Russian verb is used.				
+28	11	dikhəlpe	NOM	INS	Y	NOM_INS	o Murš-a dikh-ľ-a-pe la Marijk-asa	ART.M.DIR.SG PN-NOM.SG видеться-PST-3SG-REFL ART.F.OBL.SG PN-INS.SG	‘Мурша встретился с Марийкой.’					
+28	12	śolpe	NOM	ande	Y	NOM_ande	o Murš-a śu-ť-a-pe man-de arati and-o khər	ART.M.DIR.SG PN-NOM.SG заходить-PST-3SG-REFL я-LOC вчера в-ART.M.DIR.SG.SG дом.NOM.SG	‘Мурша вчера зашел ко мне в дом.’					
+28	13	lel	NOM	ABL	Y	NOM_ABL	o Murša ľ-a les-tar and-o futbol-o	ART.M.DIR.SG PN брать-PST.3SG он-ABL в-ART.M.DIR.SG.SG футбол-NOM.SG	‘Мурша выиграл у него в футбол.’	Alternative is the Russian loandword vygruil with the same pattern. 				
+28	14	anklel	NOM	anda	Y	NOM_anda	o Murš-a ankl-ist-o anda khər	ART.M.DIR.SG PN-NOM.SG выходить-PST-3SG.M из дом.NOM.SG	‘Мурша вышел из дома.’					
+28	15	našavel	NOM	ACC	TR	TR	o Murš-a našav-el la gurumnʼ-a pe poľa	ART.M.DIR.SG PN-NOM.SG гнать-PRS.3SG ART.F.OBL.SG корова-ACC.SG на поле.NOM.SG	‘Мурша гонит корову на поле.’					
+28	16	banďarəl	NOM	ACC	TR	TR	o Murš-a banďar-ď-a ə salk-a	ART.M.DIR.SG PN-NOM.SG гнуть-PST-3SG ART.F.DIR.SG дерево-ACC.SG	‘Мурша согнул дерево.’					
+28	17	phenel	NOM	DAT	Y	NOM_DAT	o Murš-a phen-ď-a man-gə	ART.M.DIR.SG PN-NOM.SG говорить-PST-3SG я-DAT	‘Мурша сказал мне.’					
+28	18	nikərəl	NOM	ACC	TR	TR	o Murš-a nikər-əl ə knišk-a	ART.M.DIR.SG PN-NOM.SG держать-PRS.3SG ART.F.DIR.SG книшка-ACC.SG	‘Мурша держит книгу.’					
+28	19	dugunil	NOM	ACC	TR	TR	o Murš-a duguni-sarď-a la Marijk-a	ART.M.DIR.SG PN-NOM.SG догонять-PST-3SG ART.F.OBL.SG PN-ACC.SG	‘Мурша догнал Марийку.’	There is no inherited equivalent. The verb used is a Russian loanword.				
+28	20	strangol	NOM	ACC	TR	TR	ə Marijk-a strango-sarď-a la gurumnʼ-a	ART.F.DIR.SG PN-NOM.SG доить-PST-3SG ART.F.OBL.SG корова-ACC.SG	‘Марийка подоила корову.’	Alternative is the variant of the same verb strandil with the same pattern.				
+28	21	arəsəl	NOM	LOC	Y	NOM_LOC	pa duj ćas-urʼa o Murš-a arəs-l-o man-de	через два.NOM час-NOM.PL ART.M.DIR.SG PN-NOM.SG достигать-PST-3SG.M я-LOC	‘Мурша через два часа добрался до меня.’	Optionally, the preposition źi ‘till’ can be used with the locative marked Y argument. With a nominal Y argument, the structure with the preposition(s) źi ka would be used: arəs-l-o źi ka berig-o [till to bank-NOM.SG].				
+28	22	azbal	NOM	ACC	TR	TR	o Murš-a azba-ď-a o zyd-o	ART.M.DIR.SG PN-NOM.SG касаться-PST-3SG ART.M.DIR.SG стена-ACC.SG	‘Мурша дотронулся до стены.’	Alternative is amisavel + LOC. Was the choice correct?				
+28	23	marəlpe	NOM	INS	Y	NOM_INS	o Murš-a mar-əl-pe la Marijk-asa	ART.M.DIR.SG PN-NOM.SG драться-PRS.3SG-REFL ART.F.OBL.SG PN-INS.SG	‘Мурша дерется с Марийкой.’					
+28	24	družyl	NOM	INS	Y	NOM_INS	o Murš-a družy-l la Marijk-asa	ART.M.DIR.SG PN-NOM.SG дружить-PRS.3SG ART.F.OBL.SG PN-INS.SG	‘Мурша дружит с Марийкой.’	There is no inherited equivalent. The verb used is a Russian loanword.				
+28	25	gyndilpe	NOM	pa	Y	NOM_pa	gynd-iv-ma pa la-te	думать-PRS.1SG-REFL с она-LOC	‘Я думаю о ней.’	Non-reflexive verb is possible when the second argument is a complement clause: me gyndiv, kə arəsav khərə kal řom ‘I think, I will get home to the Roma’				
+28	26	xal	NOM	ACC	TR	TR	o Murš-a xa-ľ-a ə phabaj	ART.M.DIR.SG PN-NOM.SG есть-PST-3SG ART.F.DIR.SG яблоко[ACC.SG]	‘Мурша съел яблоко.’					
+28	27	pekəl	NOM	ACC	TR	TR	o Murš-a pek-ľ-a maś-o	ART.M.DIR.SG PN-NOM.SG жарить-PST-3SG рыба-ACC.SG	‘Мурша пожарил рыбу.’					
+28	28	aźukərəl	NOM	ACC	TR	TR	o Murš-a aźukər-əl la Marijk-a	ART.M.DIR.SG PN-NOM.SG ждать-PRS.3SG ART.F.OBL.SG PN-ACC.SG	‘Мурша ждет Марийку.’					
+28	29	bystrəl	NOM	pa	Y	NOM_pa	o Murš-a bystər-ď-a pa kod-o drom	ART.M.DIR.SG PN-NOM.SG забывать-PST-3SG с тот-M.DIR.SG дорога[NOM.SG]	‘Мурша забыл о другой дороге.’					
+28	30	zavisil	NOM	ABL	Y	NOM_ABL	o pamiť-o zavis-il kata l bərš	ART.M.DIR.SG память-NOM.SG зависеть-PRS.3SG от ART.PL год[NOM.PL]	‘Пасять зависит от возраста.’	There is no inherited equivalent. The verb used is a Russian loanword. With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
+28	31	akharəl	NOM	ACC	TR	TR	o Murš-a akhar-ď-a la Marijk-a	ART.M.DIR.SG PN-NOM.SG звать-PST-3SG ART.F.OBL.SG PN-ACC.SG	‘Мурша позвал Марийку.’					
+28	32	znakomilpe	NOM	INS	Y	NOM_INS	o Murš-a znakomi-sajl-o la Marijk-asa	ART.M.DIR.SG PN.NOM.SG знакомиться-PST.REFL-3SG.M ART.F.OBL.SG PN-INS.SG	‘Мурша познакомился с Марийкой.’	There is no inherited equivalent. The verb used is a Russian loanword.				
+28	33	źanel	NOM	ACC	TR	TR	o Murš-a źan-el la Marijk-a	ART.M.DIR.SG PN-NOM.SG знать-PRS.3SG ART.F.OBL.SG PN-ACC.SG	‘Мурша знает Марийку.’					
+28	34	dilabal	NOM	pe	Y	NOM_pe	o Murš-a dilaba-l pe gitar-a	ART.M.DIR.SG PN-NOM.SG петь-PRS.3SG на гитара-NOM.SG	‘Мурша играет на гитаре.’	With a pronominal Y argument, the structure with the пе + locative case (LOC) would be used.				
+28	35	našəl	NOM	ABL	Y	NOM_ABL	o Murš-a našə-l kata Marijk-a	ART.M.DIR.SG PN-NOM.SG бежать-PRS.3SG от PN-NOM.SG	‘Мурша избегает Марийку.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
+28	36	laśarəl	NOM	ACC	TR	TR	o Murš-a laś-ar-ď-a bomb-a	ART.M.DIR.SG PN-NOM.SG делать-PST-3SG бомба-ACC.SG	‘Мурша изготовил бомбу.’					
+28	37	asal	NOM	ABL	Y	NOM_ABL	o Murš-a asa-l kata Marijk-a	ART.M.DIR.SG PN-NOM.SG смеяться-PRS.3SG от PN-NOM.SG	‘Мурша смеется над Марийкой.’	This is literally ‘to laugh’. With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative is prasal ‘дразнить’, which is used in the transitive construction.				
+28	38	sy	LOC	NOM	X	LOC_NOM	les-te sy les mator-a	он-LOC быть.PRS.3 он.CL машина-NOM.SG	‘У него есть машина.’					
+28	39	rodel	NOM	ACC	TR	TR	o Murš-a rod-el le te-i	ART.M.DIR.SG PN-NOM.SG искать-PRS.3SG ART.PL ключ-ACC.PL	‘Мурша ищет ключи.’					
+28	40	makhəl	NOM	ACC	TR	TR	o Murš-a makh-ľ-a ə bar	ART.M.DIR.SG PN-NOM.SG красить-PST-3SG ART.F.DIR.SG забор[ACC.SG]	‘Мурша покрасил забор.’					
+28	41	dandarəl	NOM	ACC	TR	TR	o źukəl dand-ar-ď-a le Murš-as	ART.M.DIR.SG собака[NOM.SG] кусать-PST-3SG ART.M.OBL PN-ACC.SG	‘Собака укусила Муршу.’					
+28	42	xasarəl	NOM	ACC	TR	TR	o Murš-a xasar-ď-a o khər	ART.M.DIR.SG PN-NOM.SG терять-PST-3SG ART.M.DIR.SG дом[ACC.SG]	‘Мурша потерял дом.’	Alternative is aśel ‘to remain’, used with the NOM_biGEN pattern (literally, ‘remain without the house’).				
+28	43	astarəl	NOM	ACC	TR	TR	o Murš-a astar-əl la myc-a	ART.M.DIR.SG PN-NOM.SG ловить-PRS.3SG DEF.F.OBL кошка-ACC.SG	‘Мурша ловит кошку.’					
+28	44	phagəl	NOM	ACC	TR	TR	o Murš-a phag-ľ-a ə řaj	ART.M.DIR.SG PN-NOM.SG ломать-PST-3SG ART.F.DIR.SG палка[ACC.SG]	‘Мурша сломал палку.’					
 28	45	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-28	46	пхаррол	DIR	pala	Y	DIR_pala	о Мурш-а пхарро-л пала Марийка/ ла-те	ART.M.DIR PN-DIR.SG желать-PRS.3SG за PN.DIR.SG она-LOC	‘Мурша любит Марийку.’	Alternative is камел ‘хотеть’, used with the transitive pattern.				
-28	47	тринтил	DIR	INS	Y	DIR_INS	о Мурш-а тринти-л ла дырз-аса	ART.M.DIR PN-DIR.SG махать-PRS.3SG ART.F.OBL тряпка-INS.SG	‘Мурша машет тряпкой.’	Alternative is the transitive construction with the same verb. Interestingly, the consultant also accepted the use of an oblique stem with an inanimate noun.				
+28	46	phařol	NOM	pala	Y	NOM_pala	o Murš-a phařo-l pala Marijk-a	ART.M.DIR.SG PN-NOM.SG желать-PRS.3SG за PN-NOM.SG	‘Мурша любит Марийку.’	Alternative is kamel ‘to want’, used with the transitive pattern.				
+28	47	trintil	NOM	INS	Y	NOM_INS	o Murš-a trinti-l la dyrz-asa	ART.M.DIR.SG PN-NOM.SG махать-PRS.3SG ART.F.OBL.SG тряпка-INS.SG	‘Мурша машет тряпкой.’	Alternative is the transitive construction with the same verb. Interestingly, the consultant also accepted the use of an oblique stem with an inanimate noun.				
 28	48	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-28	49	халавел	DIR	ACC	TR	TR	э Марийк-а хала-д-я э куч-и	ART.F.DIR PN-DIR.SG мыть-PST-3SG ART.F.DIR чашка-DIR.SG	‘Марийка вымыла чашку.’					
-28	50	лел пе песте	DIR	ACC	TR	TR	о Мурш-а л-я пе пес-те калцы	ART.M.DIR PN-DIR.SG брать-PST.3SG на себя-LOC штаны.DIR.PL	‘Мурша надел на себя штаны.’	Alternative is (в)урявелпе + анде, which is used with the NOM_ande pattern. Is the choice correct?				
-28	51	бушёл	DIR	DIR	Y	DIR_DIR	кад-о бушё-л компас-о	этот-DIR.SG.M.DDIR зваться-PRS.3SG компас-DIR.SG	‘Это называется компас.’					
+28	49	xalavel	NOM	ACC	TR	TR	ə Marijk-a xala-ď-a ə kuć-i	ART.F.DIR.SG PN-NOM.SG мыть-PST-3SG ART.F.DIR.SG чашка-ACC.SG	‘Марийка вымыла чашку.’					
+28	50	lel pe peste	NOM	ACC	TR	TR	o Murš-a ľ-a pe pes-te kalc-y	ART.M.DIR.SG PN-NOM.SG брать-PST.3SG на себя-LOC штаны-ACC.PL	‘Мурша надел на себя штаны.’	Alternative is (v)urʼavelpe + ande, which is used with the NOM_ande pattern. Is the choice correct?				
+28	51	buśol	NOM	NOM	Y	NOM_NOM	kad-o buśo-l kompas-o	этот-M.DIR.SG зваться-PRS.3SG компас-NOM.SG	‘Это называется компас.’					
 28	52	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-28	53	хутёл	DIR	pe	Y	DIR_pe	о ришь хут-ил-о по Мурш-а	ART.M.DIR медведь.DIR.SG прыгать-PST-3SG.M на PN-DIR.SG	‘Медведь напал на Муршу.’	With a pronominal Y argument, the structure with the locative case (LOC) would be used.				
-28	54	пхердёл	DIR	INS	Y	DIR_INS	э вадр-а пхерд-ил-и ле пай-еса	ART.F.DIR ведро-DIR.SG наполняться-PST-3SG.F ART.M.OBL вода-INS.SG	‘Ведро наполнилось водой.’	Alternative is the transitive construction, where the Y argument is in the direct case.				
-28	55	аракхэл	DIR	ACC	TR	TR	о Мурш-а аракх-л-я ле те-и	ART.M.DIR PN-DIR.SG находить-PST-3SG ART.PL ключ-DIR.PL	‘Мурша нашёл ключи.’					
-28	56	чи арэсэл	LOC	DIR	X	LOC_DIR	лес-те чи арэс-л-я лес йекх ррубл-а	он-LOC NEG хватать-PST-3SG он.OBL один.DIR рубль-DIR.SG	‘Ему не хватило одного рубля.’					
-28	57	чи навидил	DIR	ACC	TR	TR	о Мурш-а чи навидил ла Марийк-а́	ART.M.DIR PN-DIR.SG NEG презирать-PRS.3SG ART.F.OBL PN-OBL.SG	‘Мурша презирает Марийка.’	The verb used is a Russian loanword, in which the prefix ne- has been reinterpreted as a negation marker and translated. 				
-28	58	плачял	ACC	DIR	X	ACC_DIR	ле Мурш-ас плачя-л лес кад-о гад	ART.M.OBL PN-OBL.SG нравиться-PRS.3SG он.ACC этот-DIR.M.SG рубашка.DIR.SG	‘Мурше нравится эта рубашка.’					
-28	59	трубул	ACC	DIR	X	ACC_DIR	лес трубу-л лес лове	он.OBL нуждаться-PRS.3SG он.OBL деньги.DIR.PL	‘Ему нужны деньги.’					
-28	60	анколил	DIR	ACC	TR	TR	ле зыд-ури анколи-н o фор-о	ART.PL стена-DIR.PL окружить-PRS.3PL ART.M.DIR город-DIR.SG	‘Стены окружают город.’					
-28	61	ашел	LOC	DIR	X	LOC_DIR	ка Мурш-а аш-ил-е лес деш ррубл-и	у PN-DIR.SG оставаться-PST-3PL он.OBL десять рубль-DIR.PL	‘У Мурши осталось десять рублей.’					
-28	62	*	*	*	*		о Мурш-а пхен-д-я ла учительниц-акэ	ART.M.DIR PN-DIR.SG сказать-PST-3SG ART.F.OBL учительница-DAT.SG	‘Мурша ответил учительнице.’	Not included in the database because this translation is semantically inaccurate.				
-28	63	пытрэл	DIR	ACC	TR	TR	о Мурш-а пытэр-д-я э банк-а	ART.M.DIR PN-DIR.SG открывать-PST-3SG ART.F.DIR банка-DIR.SG	‘Мурша открыл банку.’					
-28	64	чи мя(зо)л	DIR	pe	Y	DIR_pe	мурро гад чи мя-л пе тиро	мой.M.DIR рубашка.DIR.SG NEG быть_похожим-PRS.3SG на твой.M.DIR	‘Моя рубашка отличается от твоей.’	With a pronominal Y argument, the structure would be NOM_peLOC.				
-28	65	ашел	DIR	ABL	Y	DIR_ABL	о Мурш-а аш-ил-о ката Марийк-а	ART.M.DIR PN-DIR.SG отставать-PST-3SG.M от PN-DIR.SG	‘Мурша отстал от Марийка.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
-28	66	вынавел	DIR	ACC	TR	TR	о Мурш-а вынав-е-л э пхув	ART.M.DIR PN-DIR.SG пахать-PRS-3SG ART.F.DIR земля.DIR.SG	‘Мурша пашет поле.’					
-28	67	кхандёл	DIR	INS	Y	DIR_INS	мурр-э вас кхандё-н ката бензино	мой-PL рука.DIR пахнуть-PRS.3PL от бензин.DIR	‘Мои руки пахнут бензином.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative structures with the same verb are TR and NOM_INS.				
-28	68	накхэл	DIR	ACC	TR	TR	о Мурш-а накх-л-я интял о дром	ART.M.DIR PN-DIR.SG идти-PST-3SG через ART.M.DIR дорога.DIR.SG	‘Мурша перешел дорогу.’	The word интял ‘across’ is optional and did not appear in the pronominal version of the sentence.				
-28	69	дилабал	DIR	ACC	TR	TR	о Мурш-а дилаба-д-я шукар дил-и	ART.M.DIR PN-DIR.SG петь-PST-3SG красивый песня-DIR.SG	‘Мурша спел красивую песню.’					
-28	70	рамол	DIR	ACC	TR	TR	о Мурш-а рамо-сард-я письмо	ART.M.DIR PN-DIR.SG писать-PST-3SG письмо.DIR.SG	‘Мурша написал письмо.’					
-28	71	пел	DIR	ACC	TR	TR	о Мурш-а пи-л-я тхуд	ART.M.DIR PN-DIR.SG пить-PST-3SG молоко-DIR.SG	‘Мурша выпил молоко.’					
-28	72	билавел	DIR	ACC	TR	TR	о Мурш-а била-д-я котор моливи	ART.M.DIR PN-DIR.SG плавить-PST-3SG кусок-DIR.SG свинец.DIR.SG	‘Мурша расплавил кусок свинца.’					
-28	73	маладёл	DIR	DAT	Y	DIR_DAT	кад-о бричинар-и маладё-л ка й кад-я плать-я	этот-M.DIR.SG пояс-DIR.SG подходить-PRS.3SG к ART.F.DIR этот-F.DIR.SG платье-DIR.SG	‘Этот пояс подходит к этому платью.’	Alternative is ашёл (also NOM_DAT).				
-28	74	мекэл	DIR	ACC	TR	TR	о Мурш-а мек-л-я пеhк-о фор-о	ART.M.DIR PN-DIR.SG оставлять-PST-3SG свой-M.DIR город-DIR.SG	‘Мурша покинул свой город.’	Alternative is ашявел, also used with the transitive pattern.				
-28	75	вушяравел	DIR	ACC	TR	TR	э поняв-а вушяра-д-я са о пол-о	ART.F.DIR ковер-DIR.SG покрывать-PST-3SG весь ART.M.DIR пол-DIR.SG	‘Ковёр покрыл весь пол.’					
-28	76	сэрэл	DIR	ACC	TR	TR	о Мурш-а мишто сэрэ-л кхэр	ART.M.DIR PN-DIR.SG хорошо помнить-PRS.3SG дом.DIR.SG	‘Мурша хорошо помнит дом.’					
-28	77	ажютил	DIR	DAT	Y	DIR_DAT	о Мурш-а ажюти-сард-я ла Марийк-акэ	ART.M.DIR PN-DIR.SG помогать-PRS-3SG ART.F.OBL PN-DAT.SG	‘Мурша помог Марийке.’					
-28	78	атярэл	DIR	ACC	TR	TR	о Мурш-а атярэ-л француско шиб	ART.M.DIR PN-DIR.SG понимать-PRS.3SG французский язык.DIR.SG	‘Мурша понимает французский язык.’	Alternative is алярэл, also used with the transitive pattern (this is basically a phonetic alternation).				
-28	79	дел	DIR	ando	Y	DIR_ando	э молни-я д-я андо кхэр	ART.F.DIR молния-DIR.SG давать-PST.3SG в дом.DIR.SG	‘Молния попала в дом.’					
-28	80	шинелпе	DIR	INS	Y	DIR_INS	о Мурш-a шин-д-я-пе ла бритв-аса	ART.M.DIR PN-DIR.SG резаться-PST-3SG-REFL ART.F.OBL бритва-INS.SG	‘Мурша порезался бритвой.’	Alternative is the NOM_ande pattern with the same verb.				
-28	81	астардёл	DIR	pe	Y	DIR_pe	о стакан-о астард-ил-о пе скафед-и	ART.M.DIR стакан-DIR.SG прилипать-PST-3SG.F на стол-DIR.SG	‘Стакан прилип к столу.’					
-28	82	хасарэл	DIR	DAT	Y	DIR_DAT	о Мурш-а хасар-д-я ла Марийк-акэ	ART.M.DIR PN-DIR.SG проигрывать-PST-3SG ART.F.OBL PN-DAT.SG	‘Мурша проиграл Марийке.’					
-28	83	радуилпе	DIR	ABL	Y	DIR_ABL	о Мурш-а радуи-сайл-о ката ла Марийк-ак-о письмо	ART.M.DIR PN-DIR.SG радоваться-PST.REFL-3SG.M от ART.F.OBL PN-GEN.SG-M письмо.DIR.SG	‘Мурша обрадовался письму Марийки.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used. There is no inherited equivalent. The verb used is a Russian loanword.				
-28	84	дивинил	DIR	INS	Y	DIR_INS	о Мурш-а дивини-л ла Марийк-аса	ART.M.DIR PN-DIR.SG разговаривать-PRS.3SG ART.F.OBL PN-INS.SG	‘Мурша разговаривает с Марийкой.’	Alternative is дел дума, used with the same NOM_INS pattern. When дел дума is used with the NOM_DAT pattern, it means ‘to call (by phone)’.				
-28	85	аракхавел	DIR	ACC	TR	TR	э Марийк-а аракха-д-я ле шяв-ес	ART.F.DIR PN-DIR.SG рожать-PST-3SG ART.M.OBL сын-OBL.SG	‘Марийка родила сына.’	Alternative is анел, used with the same transitive pattern.				
-28	86	перавел	DIR	ACC	TR	TR	о Мурш-а пер-а-д-я о стакан-о	ART.M.DIR PN-DIR.SG падать-CAUS-PST-3SG ART.M.DIR стакан-DIR.SG	‘Мурша уронил Марийку.’					
-28	87	рукавадил	DIR	pe	Y	DIR_pe	о Мурш-а рукавади-л по амаро кырдо	ART.M.DIR PN-DIR.SG руководить-PRS.3SG на наш-DIR.SG поселок-DIR.SG	‘Мурша руководит нашим поселком.’	There is no inherited equivalent. The verb used is a Russian loanword. NB: the pattern was written as NOM_pe. However, in the example itself the preposition looks like “po”. Is this a type? A different preposition? Or just a contextual variant?				
-28	88	скучаил	DIR	pa	Y	DIR_pa	ле Мурш-аc л-е-л доро па Марийк-а	ART.M.OBL PN-OBL.SG брать-PRS-3SG грусть.DIR.SG из PN-DIR.SG	‘Мурша скучает по Марийке.’	The pattern was initially identified as NOM_pa. However, NOM_pala is also possible. In fact, some verbs are currently identified as NOM_pa and other verbs, as NOM_pala. Does this distinction reflect anything? Should is be abandoned? One more alternative is скучаил (a Russian loanword), used with the NOM_pa or NOM_pala pattern.				
-28	89	жял	DIR	pala	Y	DIR_pala	о Мурш-а жя-л пала Марийк-а	ART.M.DIR PN-DIR.SG идти-PRS.3SG за PN-DIR.SG	‘Мурша следует за Марийкой.’					
-28	90	улел	DIR	pa	Y	DIR_pa	о Мурш-а ул-ист-о па граст	ART.M.DIR PN-DIR.SG слезать-PST-3SG.M с конь.DIR.SG	‘Мурша слез с лошади.’	With a pronominal Y argument, the NOM_paLOC structure would be used.				
-28	91	ашунел	DIR	ACC	TR	TR	о Мурш-а ашуне-л радива	ART.M.DIR PN-DIR.SG cлушает-PRS.3SG радио-DIR.SG	‘Мурша слушает радио.’					
-28	92	кандел о муй	*	*	*		о Мурш-а канде-л о муй песк-а д-ак-о	ART.M.DIR PN-DIR.SG слушать-PRS.3SG ART.M.DIR рот.DIR.SG свой-F.OBL мать-GEN.SG-M	‘Мурша слушается маму.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-28	93	ашунел	DIR	ACC	TR	TR	о Мурш-а ашун-е-л музык-а	АRT.M.DIR PN-DIR.SG слышать-PRS-3SG музыка-DIR.SG	‘Мурша слышит музыку.’					
-28	94	амисавел	DIR	INS	Y	DIR_INS	о мёд-о амис-айл-о ле тхуд-еса	ART.M.DIR мед-DIR.SG смешиваться-PST-3SG.M ART.M.OBL молоко-INS.SG	‘Мед смешался с молоком.’					
-28	95	дикхэл	DIR	pe	Y	DIR_pe	о Мурш-а дикхэ-л по чери	ART.M.DIR PN-DIR.SG смотреть-PRS.3SG на небо.DIR.SG	‘Мурша смотрит на небо.’	With a pronominal Y argument, the NOM_peLOC structure would be used. The pattern is identified here as NOM_pe, however, the example contains “po”. Is this correct? The same verb can also be used in the NOM_ABL pattern, in this patterns it conveys the meaning ‘watch over, keep an eye on someone’.				
-28	96	шюдел	DIR	ACC	TR	TR	о Мурш-а шюд-я о гад па пес-те	ART.M.DIR PN-DIR.SG бросать-PST.3SG ART.M.DIR рубашка.DIR.SG с себя-LOC	‘Мурша снял рубашку с себя.’					
-28	97	сыкадёл андо суно	DAT	DIR	X	DAT_DIR	э Марийк-а сыкадё-л ле Мурш-аскэ андо сун-о	ART.F.DIR PN-DIR.SG показываться-PRS.3SG ART.M.OBL PN-DAT.SG в сон-DIR.SG	‘Марийка видится Мурше во сне.’	Alternative is дикхэл андо суно (lit. ‘see in dream’), used in the transitive construction.				
-28	98	сагласилпе	DIR	INS	Y	DIR_INS	о Мурш-а сагласи-сайл-о ла Марийк-аса	ART.M.DIR PN-DIR.SG соглашаться-PST.REFL-3SG.M ART.F.OBL PN-INS.SG	‘Мурша согласился с Марийкой.’	There is no inherited equivalent. The verb used is a Russian loanword.				
-28	99	халпе	DIR	INS	Y	DIR_INS	о Мурш-а ха-л-я-пе ла Марийк-аса	ART.M.DIR PN-DIR.SG ругаться-PST-3SG-REFL ART.F.OBL PN-INS.SG	‘Мурша поругался с Марийкой.’					
-28	100	кэрэл	DIR	DIR	Y	DIR_DIR	кад-я куч-и кэрэ-л йекх ррубл-а	Этот-F.DIR.SG кружка-DIR.SG стоить-PRS.3SG один рубль-DIR.SG	‘Эта кружка стоит один рубль.’					
-28	101	дел яг	DIR	ando	Y	DIR_ando	о Мурш-а д-я яг анде чирикл-и	ART.M.DIR PN-DIR.SG давать-PST.3SG огонь.DIR.SG в птица-DIR.SG	‘Мурша выстрелил в птицу.	The same verb can also be used in the transitive construction. Is it correct that the pattern is identified as NOM_ando, whereas the actual example contains ande?				
-28	102	шёрэл	DIR	ACC	TR	TR	о Мурш-а шёр-д-я зар-о анде куч-и	ART.M.DIR PN-DIR.SG сыпать-PST-3SG сахар-DIR.SG в кружка-DIR.SG	‘Мика насыпал сахар в кружку.’					
-28	103	хасарэл	DIR	ACC	TR	TR	о Мурш-а хасар-д-я лe те-и	ART.M.DIR PN-DIR.SG терять-PST-3SG ART.PL ключ-DIR.SG	‘Мурша потерял ключи.’					
-28	104	тасол	DIR	ando	Y	DIR_ando	о кашт тас-ул-о андо пай	ART.M.DIR полено.DIR.SG тонуть-PST-3SG.M в вода.DIR.SG	‘Полено утонуло в воде.’	With a pronominal Y argument, the structure NOM_andoLOC would be used.				
-28	105	мударэл	DIR	ACC	TR	TR	о Мурш-а мудар-д-я ле жюкэл-ес	ART.M.DIR PN-DIR.SG убивать-PST-3SG ART.M.OBL собака-OBL.SG	‘Мурша убил собаку.’					
-28	106	дел	DIR	ando	Y	DIR_ando	о Мурш-а д-я анде ман-де	ART.M.DIR PN-DIR.SG давать-PST.3SG в я-LOC	‘Мурша ударил меня.’	Alternative is марэл + OBL, used in the transitive construction.				
-28	107	чюминдел	DIR	ACC	TR	TR	о Мурш-а чюминд-я ла Марийк-а́ анде бук-а	ART.M.DIR PN-DIR.SG целовать-PST.3SG ART.F.OBL PN-OBL.SG в щека-DIR.SG	‘Мика поцеловал Марийку в щеку.’	Alternative is дел э бука (lit. ‘give the cheek’), used in the NOM_DAT pattern. This latter alternative is only used when people kiss each other along with sharing gifts during the Christmas and Easter periods.				
-28	108	динел	DIR	ACC	TR	TR	о Мурш-а дин-д-я книшк-а	ART.M.DIR PN-DIR.SG читать-PST-3SG книга-DIR.SG	‘Мурша прочитал книгу.’					
-28	109	миштил	DIR	INS	Y	DIR_INS	о Мурш-а мишти-л ле на-янца	ART.M.DIR PN-DIR.SG шевелить-PRS.3SG ART.PL пальцы-INS.PL	‘Мурша шевелит пальцами.’	Alternative is TR.				
-28	110	тхол лажяв	DIR	pe	Y	DIR_pe	о Мурш-а тхо-л лажяв пе Марийк-а	ART.M.DIR PN-DIR.SG ставить-PRS.3SG стыд.DIR.SG на PN-DIR.SG	‘Мурша уважает Марийку.’	Alternative is уважыил (a Russian loanword), used in the TR pattern, and лажял (‘to be embarassed, to respect’), used in the NOM_ABL pattern.				
-28	111	грецолпе	DIR	ABL	Y	DIR_ABL	о Мурш-а грецо-л-пе ката мелал-и пасуда	ART.M.DIR PN-DIR.SG брезговать-PRS.3SG-REFL от грязный-F.DIR.SG посуда.DIR.SG	‘Мурша брезгует грязной посудой.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
-28	112	мишто	DAT	pala	XY	DAT_pala	ле Мурш-аhкэ мишто пала пеhк-о шяв	ART.M.OBL PN-DAT.SG хорошо из-за свой-M.DIR сын.DIR.SG	‘Мурша доволен своим сыном.’	Non-verbal predicate.				
-28	113	влюбилпе	DIR	ando	Y	DIR_ando	о Мурш-а влюби-сайл-о анде Марийк-а	ART.M.DIR Мурша-DIR.SG очень_хотеть-PST-3SG.M из-за Марийка-DIR.SG	‘PN влюбился в Марийку’	There is no inherited equivalent. The verb used is a Russian loanword. Alternative is пхаррол, used in the NOM_pala pattern.				
-28	114	патял	DIR	DAT	Y	DIR_DAT	о Мурш-а патя-л ла Марийк-акэ	ART.M.DIR PN-DIR.SG верить-PRS.3SG ART.F.OBL PN-DAT.SG	‘Мурша доверяет Марийке.’	Alternative is давирил, a Russian loanword, used in the NOM_DAT pattern.				
-28	115	мила	DAT	ABL	XY	DAT_ABL	ле Мурш-аhкэ мила ката Марийк-а	ART.M.OBL PN-DAT.SG жаль от PN-DIR.SG	‘Мурша жалеет Марийку.’	Non-verbal predicate. With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative is the NOM_pala (with pronominals, NOM_palaLOC) pattern.				
-28	116	хал холи	DIR	pe	Y	DIR_pe	о Мурш-а ха-л хол-и пе Марийк-а	ART.M.DIR PN-DIR.SG есть-PRS.3SG злость-DIR.SG на PN-DIR.SG	‘Мурша завидует Марийке.’	Alternative is the Russian loanword завидуил + DAT, used in the NOM_DAT pattern.				
-28	117	холявел	DIR	pe	Y	DIR_pe	о Мурш-а холяве-л пе Марийк-а	ART.M.DIR PN-DIR.SG злиться-PRS.3SG на PN-DIR.SG	‘Мурша злится на Марийку.’	With a pronominal Y argument, the NOM_peLOC structure would be used.				
-28	118	удивилпе	DIR	ABL	Y	DIR_ABL	о Мурш-а удиви-сайл-о ката падарк-а	ART.M.DIR PN-DIR.SG удивляться-PST.REFL-3SG.M от подарок-DIR.SG	‘Мурша удивился подарку.’	There is no inherited equivalent. The verb used is a Russian loanword. With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
-28	119	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-28	120	мишто	DIR	ABL	Y	DIR_ABL	ле Мурш-аhкэ мишто ката чяй	ART.M.DIR PN-DAT.SG хорошо от чай.DIR.SG	‘Мурша наслаждается чаем.’	Non-verbal predicate. With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative is the NOM_pala pattern.				
-28	121	камел	DIR	ACC	TR	TR	о Мурш-а каме-л нев-о телефон-о	ART.M.DIR PN-DIR.SG хотеть-PRS.3SG новый-DIR.SG телефон-DIR.SG	‘Мурша хочет новый телефон.’					
-28	122	холявел	DIR	pe	Y	DIR_pe	о Мурш-а хол-яйл-о пе Марийк-а	ART.M.DIR PN-DIR.SG сердиться-PST-3SG.M на PN-DIR.SG	‘Мурша рассердился на Марийку.’	With a pronominal Y argument, the NOM_peLOC structure would be used. Alternative is хал холи (lit. ’to eat anger’), used in the same pattern.				
+28	53	xuťol	NOM	pe	Y	NOM_pe	o riś xut-il-o p-o Murš-a	ART.M.DIR.SG медведь.NOM.SG прыгать-PST-3SG.M на-ART.M.DIR.SG PN-NOM.SG	‘Медведь напал на Муршу.’	With a pronominal Y argument, the structure with the locative case (LOC) would be used.				
+28	54	pherďol	NOM	NOM	Y	NOM_NOM	ə vadr-a pherd-il-i paj	ART.F.DIR.SG ведро-NOM.SG наполняться-PST-3SG.F вода[NOM.SG]	‘Ведро наполнилось водой.’	Alternative is the pattern with the Y argument marked by the instrumental.				
+28	55	arakhəl	NOM	ACC	TR	TR	o Murš-a arakh-ľ-a le te-i	ART.M.DIR.SG PN-NOM.SG находить-PST-3SG ART.PL ключ-ACC.PL	‘Мурша нашёл ключи.’					
+28	56	ći arəsəl	LOC	NOM	X	LOC_NOM	les-te ći arəs-ľ-a les jekh řubl-a	он-LOC NEG хватать-PST-3SG он.CL один.NOM рубль-NOM.SG	‘Ему не хватило одного рубля.’	The verb has always the 3SG form.				
+28	57	ći navidil	NOM	ACC	TR	TR	o Murš-a ći navidil la Marijk-a	ART.M.DIR.SG PN-NOM.SG NEG презирать-PRS.3SG ART.F.OBL.SG PN-ACC.SG	‘Мурша презирает Марийка.’	The verb used is a Russian loanword, in which the prefix ne- has been reinterpreted as a negation marker and translated. 				
+28	58	plaćal	ACC	NOM	X	ACC_NOM	le Murš-as plaća-l les kad-o gad	ART.M.OBL PN-ACC.SG нравиться-PRS.3SG он.CL этот-M.DIR.SG рубашка[NOM.SG]	‘Мурше нравится эта рубашка.’					
+28	59	trubul	ACC	NOM	X	ACC_NOM	les trubu-l les love	он.ACC нуждаться-PRS.3SG он.CL деньги-NOM.PL	‘Ему нужны деньги.’	The verb has usually the 3SG form.				
+28	60	ankolil	NOM	ACC	TR	TR	le zyd-uri ankoli-n o for-o	ART.PL стена-NOM.PL окружить-PRS.3PL ART.M.DIR.SG город-ACC.SG	‘Стены окружают город.’					
+28	61	aśel	LOC	NOM	X	LOC_NOM	ka Murš-a aš-il-e les deš řubl-i	у PN-NOM.SG оставаться-PST-3PL он.CL десять рубль-NOM.PL	‘У Мурши осталось десять рублей.’	With a pronominal X argument, the structure with the locative case (LOC) would be used.				
+28	62	*	*	*	*		o Murš-a phen-ď-a la ućiteľnic-akə	ART.M.DIR.SG PN-NOM.SG сказать-PST-3SG ART.F.OBL.SG учительница-DAT.SG	‘Мурша ответил учительнице.’	Not included in the database because this translation is semantically inaccurate.				
+28	63	pytrəl	NOM	ACC	TR	TR	o Murš-a pytər-ď-a ə bank-a	ART.M.DIR.SG PN-NOM.SG открывать-PST-3SG ART.F.DIR.SG банка-ACC.SG	‘Мурша открыл банку.’					
+28	64	ći mʼa(zo)l	NOM	pe	Y	NOM_pe	muř-o gad ći mʼa-l pe tir-o	мой-M.DIR.SG рубашка[NOM.SG] NEG быть_похожим-PRS.3SG на твой-M.DIR.SG	‘Моя рубашка отличается от твоей.’	With a pronominal Y argument, the structure would be NOM_peLOC.				
+28	65	aśel	NOM	ABL	Y	NOM_ABL	o Murš-a aš-il-o kata Marijk-a	ART.M.DIR.SG PN-NOM.SG отставать-PST-3SG.M от PN-NOM.SG	‘Мурша отстал от Марийка.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
+28	66	vunavel	NOM	ACC	TR	TR	o Murš-a vunav-el ə phuv	ART.M.DIR.SG PN-NOM.SG пахать-PRS-3SG ART.F.DIR.SG земля[ACC.SG]	‘Мурша пашет поле.’					
+28	67	khandel	NOM	ABL	Y	NOM_ABL	muř-ə vast khand-en kata binzin-o	мой-PL рука.NOM пахнуть-PRS.3PL от бензин.NOM	‘Мои руки пахнут бензином.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative structures with the same verb are NOM_NOM and NOM_INS.				
+28	68	nakhəl	NOM	ACC	TR	TR	o Murš-a nakh-ľ-a inťal o drom	ART.M.DIR.SG PN-NOM.SG идти-PST-3SG через ART.M.DIR.SG дорога.NOM.SG	‘Мурша перешел дорогу.’	The adverb inťal ‘across’ is optional and did not appear in the pronominal version of the sentence.				
+28	69	dilabal	NOM	ACC	TR	TR	o Murš-a dilaba-ď-a šukar dil-i	ART.M.DIR.SG PN-NOM.SG петь-PST-3SG красивый песня-ACC.SG	‘Мурша спел красивую песню.’					
+28	70	ramol	NOM	ACC	TR	TR	o Murš-a ramo-sarď-a pisʼmo	ART.M.DIR.SG PN-NOM.SG писать-PST-3SG письмо[ACC.SG]	‘Мурша написал письмо.’					
+28	71	pel	NOM	ACC	TR	TR	o Murš-a pi-ľ-a thud	ART.M.DIR.SG PN-NOM.SG пить-PST-3SG молоко[ACC.SG]	‘Мурша выпил молоко.’					
+28	72	bilavel	NOM	ACC	TR	TR	o Murš-a bila-ď-a kotor molivi	ART.M.DIR.SG PN-NOM.SG плавить-PST-3SG кусок[ACC.SG] свинец[NOM.SG]	‘Мурша расплавил кусок свинца.’					
+28	73	malaďol	NOM	LOC	Y	NOM_LOC	kad-o brićinar-i malaďo-l ka j kaď-a plaťj-a	этот-M.NOM.SG пояс-NOM.SG подходить-PRS.3SG к ART.F.DIR.SG этот-F.DIR.SG платье-NOM.SG	‘Этот пояс подходит к этому платью.’	Alternative pattern is NOM_DAT. Alternative verbs is aśel (NOM_DAT).				
+28	74	mekəl	NOM	ACC	TR	TR	o Murš-a mek-ľ-a pehk-o for-o	ART.M.DIR.SG PN-NOM.SG оставлять-PST-3SG свой-M.DIR.SG город-ACC.SG	‘Мурша покинул свой город.’	Alternative is aśavel, also used with the transitive pattern.				
+28	75	vuśaravel	NOM	ACC	TR	TR	ə ponʼav-a vuśara-ď-a sa o pol-o	ART.F.DIR.SG ковер-NOM.SG покрывать-PST-3SG весь ART.M.DIR.SG пол-ACC.SG	‘Ковёр покрыл весь пол.’					
+28	76	sərəl	NOM	ACC	TR	TR	o Murš-a mišto sərə-l khər	ART.M.DIR.SG PN-NOM.SG хорошо помнить-PRS.3SG дом[ACC.SG]	‘Мурша хорошо помнит дом.’					
+28	77	aźutil	NOM	ACC	TR	TR	o Murš-a aźuti-sarď-a la Marijk-a	ART.M.DIR.SG PN[M]-NOM.SG помогать-PRS-3SG ART.F.OBL.SG PN[F]-ACC.SG	‘Мурша помог Марийке.’					
+28	78	aťarəl	NOM	ACC	TR	TR	o Murš-a aťarə-l francusko śib	ART.M.DIR.SG PN-NOM.SG понимать-PRS.3SG французский язык[ACC.SG]	‘Мурша понимает французский язык.’	Alternative is aľarel, also used with the transitive pattern (this is basically a phonetic alternation).				
+28	79	del	NOM	ande	Y	NOM_ande	ə molnij-a ď-a and-o khər	ART.F.DIR.SG молния-NOM.SG давать-PST.3SG в-ART.M.DIR.SG дом[NOM.SG]	‘Молния попала в дом.’					
+28	80	śinelpe	NOM	INS	Y	NOM_INS	o Murš-a śin-ď-a-pe la britv-asa	ART.M.DIR.SG PN-NOM.SG резаться-PST-3SG-REFL ART.F.OBL.SG бритва-INS.SG	‘Мурша порезался бритвой.’	Alternative is the NOM_ande pattern with the same verb.				
+28	81	astarďol	NOM	pe	Y	NOM_pe	o stakan-o astard-il-o pe skafed-i	ART.M.DIR.SG стакан-NOM.SG прилипать-PST-3SG.F на стол-NOM.SG	‘Стакан прилип к столу.’					
+28	82	xasarəl	NOM	DAT	Y	NOM_DAT	o Murš-a xasar-ď-a la Marijk-akə	ART.M.DIR.SG PN-NOM.SG проигрывать-PST-3SG ART.F.OBL.SG PN-DAT.SG	‘Мурша проиграл Марийке.’					
+28	83	raduilpe	NOM	ABL	Y	NOM_ABL	o Murš-a radui-sajl-o kata la Marijk-ak-o pisʼmo	ART.M.DIR.SG PN-NOM.SG радоваться-PST-3SG.M от ART.F.OBL.SG PN-GEN.SG-M.DIR.SG письмо.NOM.SG	‘Мурша обрадовался письму Марийки.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used. There is no inherited equivalent. The verb used is a Russian loanword.				
+28	84	divinil	NOM	INS	Y	NOM_INS	o Murš-a divini-l la Marijk-asa	ART.M.DIR.SG PN-NOM.SG разговаривать-PRS.3SG ART.F.OBL.SG PN-INS.SG	‘Мурша разговаривает с Марийкой.’	Alternative is del duma, used with the same NOM_INS pattern. When del duma is used with the NOM_DAT pattern, it means ‘to call (by phone)’.				
+28	85	arakhavel	NOM	ACC	TR	TR	ə Marijk-a arakha-ď-a le śav-es	ART.F.DIR.SG PN-NOM.SG рожать-PST-3SG ART.M.OBL сын-OBL.SG	‘Марийка родила сына.’	Alternative is anel lit. ‘to bring’, used with the same transitive pattern.				
+28	86	peravel	NOM	ACC	TR	TR	o Murš-a per-a-ď-a o stakan-o	ART.M.DIR.SG PN-NOM.SG ронять-PST-3SG ART.M.DIR.SG стакан-ACC.SG	‘Мурша уронил Марийку.’					
+28	87	rukavadil	NOM	INS	Y	NOM_INS	o Murš-a rukavadi-l amar-ə kyrd-osa	ART.M.DIR.SG PN-NOM.SG руководить-PRS.3SG наш-M.OBL поселок-INS.SG	‘Мурша руководит нашим поселком.’	There is no inherited equivalent. The verb used is a Russian loanword. Optionally, the NOM_pe can be used, but is more common with non-verbal predicates with the same meaning, cf. Bar-o p-o amar-o kyrd-o lit. ‘big on our settlement’. 				
+28	88	lel doro	ACC	pa	XY	ACC_pa	le Murš-as l-el doro pa Marijk-a	ART.M.OBL PN-ACC.SG брать-PRS-3SG грусть с PN-NOM.SG	‘Мурша скучает по Марийке.’	There is variation in prepositions used with the Y argument pa ‘from’ or pala ‘behind’. One more alternative is скучаил (a Russian loanword), used with the NOM_pa or NOM_pala pattern.				
+28	89	źal	NOM	pala	Y	NOM_pala	o Murš-a źa-l pala Marijk-a	ART.M.DIR.SG PN-NOM.SG идти-PRS.3SG за PN-NOM.SG	‘Мурша следует за Марийкой.’					
+28	90	hulel	NOM	pa	Y	NOM_pa	o Murš-a hul-ist-o pa grast	ART.M.DIR.SG PN-NOM.SG слезать-PST-3SG.M с конь[NOM.SG]	‘Мурша слез с лошади.’					
+28	91	ašunel	NOM	ACC	TR	TR	o Murš-a ašun-el radiva	ART.M.DIR.SG PN-NOM.SG cлушает-PRS.3SG радио[ACC.SG]	‘Мурша слушает радио.’					
+28	92	kandel o muj	*	*	*		o Murš-a kand-el o muj pesk-a d-ak-o	ART.M.DIR.SG PN-NOM.SG слушать-PRS.3SG ART.M.DIR.SG рот[ACC.SG] свой-F.OBL.SG мать-GEN.SG-M.DIR.SG	‘Мурша слушается маму.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+28	93	ašunel	NOM	ACC	TR	TR	o Murš-a ašun-el muzyk-a	АRT.M.NOM PN-NOM.SG слышать-PRS.3SG музыка-ACC.SG	‘Мурша слышит музыку.’					
+28	94	amisavel	NOM	INS	Y	NOM_INS	o mʼod-o amis-ajl-o le thud-esa	ART.M.DIR.SG мед-NOM.SG смешиваться-PST-3SG.M ART.M.OBL.SG молоко-INS.SG	‘Мед смешался с молоком.’					
+28	95	dikhəl	NOM	pe	Y	NOM_pe	o Murš-a dikhə-l p-o ćeri	ART.M.DIR.SG PN-NOM.SG смотреть-PRS.3SG на-ART.M.DIR.SG небо[NOM.SG]	‘Мурша смотрит на небо.’	With a pronominal Y argument, the NOM_peLOC structure would be used. The pattern is identified here as NOM_pe, however, the example contains “po”. Is this correct? The same verb can also be used in the NOM_ABL pattern, in this patterns it conveys the meaning ‘watch over, keep an eye on someone’.				
+28	96	śudel pa peste	NOM	ACC	TR	TR	o Murš-a śuď-a o gad pa pes-te	ART.M.DIR.SG PN-NOM.SG бросать-PST.3SG ART.M.DIR.SG рубашка[ACC.SG] с себя-LOC	‘Мурша снял рубашку с себя.’					
+28	97	sykaďol ando suno	DAT	NOM	X	DAT_NOM	ə Marijk-a sykaďo-l le Murš-askə and-o sun-o	ART.F.DIR.SG PN-NOM.SG показываться-PRS.3SG ART.M.OBL PN-DAT.SG в-ART.M.DIR.SG сон-NOM.SG	‘Марийка видится Мурше во сне.’	Alternative is дикхэл андо суно (lit. ‘see in dream’), used in the transitive construction.				
+28	98	saglasilpe	NOM	INS	Y	NOM_INS	o Murš-a saglasi-sajl-o la Marijk-asa	ART.M.DIR.SG PN-NOM.SG соглашаться-PST.REFL-3SG.M ART.F.OBL.SG PN-INS.SG	‘Мурша согласился с Марийкой.’	There is no inherited equivalent. The verb used is a Russian loanword.				
+28	99	xalpe	NOM	INS	Y	NOM_INS	o Murš-a xa-ľ-a-pe la Marijk-asa	ART.M.DIR.SG PN-NOM.SG ругаться-PST-3SG-REFL ART.F.OBL.SG PN-INS.SG	‘Мурша поругался с Марийкой.’					
+28	100	kərəl	NOM	NOM	Y	NOM_NOM	kaď-a kuć-i kərə-l jekh řubl-a	этот-F.DIR.SG кружка-NOM.SG стоить-PRS.3SG один рубль-NOM.SG	‘Эта кружка стоит один рубль.’					
+28	101	del jag	NOM	ande	Y	NOM_ande	o Murš-a ď-a jag ande ćirikl-i	ART.M.DIR.SG PN-NOM.SG давать-PST.3SG огонь в птица-NOM.SG	‘Мурша выстрелил в птицу.	The same verb can also be used in the transitive construction, but the meaning is ‘to kill by shooting’.				
+28	102	śorəl	NOM	ACC	TR	TR	o Murš-a śor-ď-a zar-o ande kuć-i	ART.M.DIR.SG PN-NOM.SG сыпать-PST-3SG сахар-ACC.SG в кружка-NOM.SG	‘Мурша насыпал сахар в кружку.’					
+28	103	xasarəl	NOM	ACC	TR	TR	o Murš-a xasar-ď-a le te-i	ART.M.DIR.SG PN-NOM.SG терять-PST-3SG ART.PL ключ-ACC.PL	‘Мурша потерял ключи.’					
+28	104	tasol	NOM	ande	Y	NOM_ande	o kašt tas-ul-o and-o paj	ART.M.DIR.SG полено[NOM.SG] тонуть-PST-3SG.M в-ART.M.DIR.SG вода[NOM.SG]	‘Полено утонуло в воде.’					
+28	105	mudarəl	NOM	ACC	TR	TR	o Murš-a mudar-ď-a le źukl-es	ART.M.DIR.SG PN-NOM.SG убивать-PST-3SG ART.M.OBL собака-ACC.SG	‘Мурша убил собаку.’					
+28	106	del	NOM	ande	Y	NOM_ande	o Murš-a ď-a ande man-de	ART.M.DIR.SG PN-NOM.SG давать-PST.3SG в я-LOC	‘Мурша ударил меня.’	Alternative is marəl, used in the transitive construction.				
+28	107	ćumindel	NOM	ACC	TR	TR	o Murš-a ćuminď-a la Marijk-a ande buk-a	ART.M.DIR.SG PN-NOM.SG целовать-PST.3SG ART.F.OBL.SG PN-ACC.SG в щека-NOM.SG	‘Мурша поцеловал Марийку в щеку.’	Alternative is del ə buka (lit. ‘give the cheek’), used in the NOM_DAT pattern. This latter alternative is usually used when people kiss each other along with sharing gifts.				
+28	108	dinel	NOM	ACC	TR	TR	o Murš-a din-ď-a knišk-a	ART.M.DIR.SG PN-NOM.SG читать-PST-3SG книга-ACC.SG	‘Мурша прочитал книгу.’					
+28	109	mištil	NOM	INS	Y	NOM_INS	o Murš-a mišti-l le naj-anca	ART.M.DIR.SG PN-NOM.SG шевелить-PRS.3SG ART.PL пальцы-INS.PL	‘Мурша шевелит пальцами.’	Alternative is TR.				
+28	110	thol laźav	NOM	pe	Y	NOM_pe	o Murš-a tho-l laźav pe Marijk-a	ART.M.DIR.SG PN-NOM.SG ставить-PRS.3SG стыд на PN-NOM.SG	‘Мурша уважает Марийку.’	Alternative is uvažyil (a Russian loanword), used in the TR pattern, and laźal (‘to be embarassed, to respect’), used in the NOM_ABL pattern.				
+28	111	grecolpe	NOM	ABL	Y	NOM_ABL	o Murš-a greco-l-pe kata melal-i pasud-a	ART.M.DIR.SG PN-NOM.SG брезговать-PRS.3SG-REFL от грязный-F.DIR.SG посуда-NOM.SG	‘Мурша брезгует грязной посудой.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
+28	112	mišto	DAT	pala	XY	DAT_pala	le Murš-ahkə mišto pala pehk-o śav	ART.M.OBL PN-DAT.SG хорошо за свой-M.DIR.SG сын[NOM.SG]	‘Мурша доволен своим сыном.’	Non-verbal predicate.				
+28	113	vľubilpe	NOM	ande	Y	NOM_ande	o Murš-a vľubi-sajl-o ande Marijk-a	ART.M.DIR.SG Мурша-NOM.SG влюбиться-PST-3SG.M из-за Марийка-NOM.SG	‘Мурша влюбился в Марийку’	There is no inherited equivalent. The verb used is a Russian loanword. Alternative is пхаррол, used in the NOM_pala pattern.				
+28	114	paťalpe	NOM	ande	Y	NOM_ande	o Murš-a paťa-l-pe ande Marijk-a	ART.M.DIR.SG PN-NOM.SG верить-PRS.3SG-REFL в PN-NOM.SG	‘Мурша доверяет Марийке.’	Alternative is давирил, a Russian loanword, used in the NOM_DAT pattern.				
+28	115	mila	DAT	ABL	XY	DAT_ABL	le Murš-ahkə mila kata Marijk-a	ART.M.OBL PN-DAT.SG жаль от PN-NOM.SG	‘Мурша жалеет Марийку.’	Non-verbal predicate. With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative is the NOM_pala (with pronominals, NOM_palaLOC) pattern.				
+28	116	xal xoli	NOM	pe	Y	NOM_pe	o Murš-a xa-l xoli pe Marijk-a	ART.M.DIR.SG PN-NOM.SG есть-PRS.3SG злость на PN-NOM.SG	‘Мурша завидует Марийке.’	Alternative is the Russian loanword zaviduil + DAT, used in the NOM_DAT pattern.				
+28	117	xoľavel	NOM	pe	Y	NOM_pe	o Murš-a xoľave-l pe Marijk-a	ART.M.DIR.SG PN-NOM.SG злиться-PRS.3SG на PN-NOM.SG	‘Мурша злится на Марийку.’					
+28	118	udivilpe	NOM	ABL	Y	NOM_ABL	o Murš-a udivi-sajl-o kata padark-a	ART.M.DIR.SG PN-NOM.SG удивляться-PST.REFL-3SG.M от подарок-NOM.SG	‘Мурша удивился подарку.’	There is no inherited equivalent. The verb used is a Russian loanword. With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
+28	119	plaćal	ACC	NOM	X	ACC_NOM	le Murš-as plaća-n le phab-a	ART.M.OBL.SG PN-ACC.SG нравиться-PRS.3PL ART.PL яблоко-NOM.PL	‘Мурша любит яблоки.’	The same verb as ‘like’.				
+28	120	mišto	DAT	ABL	XY	DAT_ABL	le Murš-ahkə mišto kata ćaj	ART.M.DIR.SG PN-DAT.SG хорошо от чай[NOM.SG]	‘Мурша наслаждается чаем.’	Non-verbal predicate. With a pronominal Y argument, the structure with the ablative case (ABL) would be used. Alternative is the NOM_pala pattern.				
+28	121	kamel	NOM	ACC	TR	TR	o Murš-a kam-el nev-o tilifon-o	ART.M.DIR.SG PN-NOM.SG хотеть-PRS.3SG новый-M.DIR.SG телефон-ACC.SG	‘Мурша хочет новый телефон.’					
+28	122	xoľavel	NOM	pe	Y	NOM_pe	o Murš-a xoľ-ajl-o pe Marijk-a	ART.M.DIR.SG PN-NOM.SG сердиться-PST-3SG.M на PN-NOM.SG	‘Мурша рассердился на Марийку.’	With a pronominal Y argument, the NOM_peLOC structure would be used. Alternative is хал холи (lit. ’to eat anger’), used in the same pattern.				
 28	123	*	*	*	*		*	*	*	No satisfactory translation has been obtained. (The only translation obtained is the same as in 122).				
-28	124	холярэл	DIR	ACC	TR	TR	о Мурш-а хол-яр-д-я ла Марийк-а	ART.M.DIR PN-DIR.SG злость-CAUS-PST-3SG ART.F.OBL PN-OBL.SG	‘Мурша огорчил Марийку.’	Alternative is дел холи, also used in the transitive construction.				
-28	125	дилявел	DIR	ABL	Y	DIR_ABL	о Мурш-а дил-яйл-о ката кад-о фор-о	ART.M.DIR PN-DIR.SG сходить_с_ума-PST-3SG.M от этот-M.DIR город-DIR.SG	‘Мурша поразился этому городу.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
-28	126	чи навидил	*	*	*		*	*	*	No satisfactory translation has been obtained. (The only translation obtained is the same as in 57, ‘to hate’).				
+28	124	xoľarəl	NOM	ACC	TR	TR	o Murš-a xoľ-ar-ď-a la Marijk-a	ART.M.DIR.SG PN-NOM.SG злить-PST-3SG ART.F.OBL.SG PN-ACC.SG	‘Мурша огорчил Марийку.’	Alternative is дел холи, also used in the transitive construction.				
+28	125	diľavel	NOM	ABL	Y	NOM_ABL	o Murš-a diľ-ajl-o kata kad-o for-o	ART.M.DIR.SG PN-NOM.SG сходить_с_ума-PST-3SG.M от этот-M.DIR.SG город-NOM.SG	‘Мурша поразился этому городу.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
+28	126	*	*	*	*		*	*	*	No satisfactory translation has been obtained. (The only translation obtained is the same as in 57, ‘to hate’).				
 28	127	*	*	*	*		*	*	*	No satisfactory translation has been obtained. (The only translation obtained is the same as in 128, ‘to get irritated’).				
-28	128	нервичилпе	DIR	pe	Y	DIR_pe	о Мурш-а нервичи-сайл-о пе ла-те	ART.M.DIR PN-DIR.SG разозлиться-PST-3SG.M на она-LOC	‘Мурша разозлился на нее.’					
+28	128	nervićilpe	NOM	pe	Y	NOM_pe	o Murš-a nervići-sajl-o pe la-te	ART.M.DIR.SG PN-NOM.SG разозлиться-PST-3SG.M на она-LOC	‘Мурша разозлился на нее.’					
 28	129	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
-28	130	лажял	DIR	ABL	Y	DIR_ABL	о Мурш-а лажя-л ката песк-о рост-о	ART.M.DIR PN-DIR.SG стесняться-PRS.3SG от свой-DIR.SG рост-DIR.SG	‘Мурша стесняется своего роста.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
+28	130	laźal	NOM	ABL	Y	NOM_ABL	o Murš-a laźa-l kata pesk-o rost-o	ART.M.DIR.SG PN-NOM.SG стесняться-PRS.3SG от свой-M.DIR.SG рост-NOM.SG	‘Мурша стесняется своего роста.’	With a pronominal Y argument, the structure with the ablative case (ABL) would be used.				
 1	1	boletʹ	uGEN	NOM	X	uGEN_NOM	u Pet-i bol-it golov-a	at PN(M)-GEN.SG ache(IPFV)-PRS.3SG head(F)-NOM.SG	‘Petja has a headache.’		у PN(M)-GEN.SG болеть(IPFV)-PRS.3SG голова(F)-NOM.SG	‘У Пети болит голова.’	болеть	у Пет-и бол-ит голов-а
 1	2	boletʹ	NOM	INS	Y	NOM_INS	Pet-ja bole-et gripp-om	PN(M)-NOM.SG be_ill(IPFV)-PRS.3SG flu(M)-INS.SG	‘Petja has the flu.’		PN(M)-NOM.SG болеть(IPFV)-PRS.3SG грипп(M)-INS.SG	‘Петя болеет гриппом.’	болеть	Пет-я боле-ет грипп-ом
 1	3	bojatʹsja	NOM	GEN	Y	NOM_GEN	Pet-ja bo-it-sja sobak-i	PN(M)-NOM.SG be_afraid(IPFV)-PRS.3SG-REFL dog(F)-GEN.SG	‘Petja is afraid of the dog.’		PN(M)-NOM.SG бояться(IPFV)-PRS.3SG-REFL собака(F)-GEN.SG	‘Петя боится собаки.’	бояться	Пет-я бо-ит-ся собак-и
@@ -4825,7 +4825,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 98	14	vyjsť	NOM	zGEN	Y	NOM_zGEN	Peter vyšie-l z dom-u	PN(M)[NOM.SG] go_out(PFV)-PST[M.SG] from house(M)-GEN.SG	‘Peter went out of the house.’		PN(M)[NOM.SG] выходить(PFV)-PST[M.SG] из дом(M)-GEN.SG	‘Петр вышел из дома.’		
 98	15	hnať	NOM	ACC	TR	TR	Peter ženie krav-u na pastvin-u	PN(M)[NOM.SG] drive(IPFV).PRS.3SG cow(F)-ACC.SG on pasture(F)-ACC.SG	‘Peter is chasing the cow to the pasture.’		PN(M)[NOM.SG] гнать(IPFV).PRS.3SG корова(F)-ACC.SG на пастбище(F)-ACC.SG	‘Петр гонит корову на пастбище.’		
 98	16	ohnúť	NOM	ACC	TR	TR	Peter oho-l konár	PN(M)[NOM.SG] bend(PFV)-PST[M.SG] branch(M)[ACC.SG]	‘Peter bent the branch.’		PN(M)[NOM.SG] гнуть(PFV)-PST[M.SG] ветка(M)[ACC.SG]	‘Петр согнул ветку.’		
-98	17	povedať	NOM	DAT	Y	NOM_DAT	"Peter poveda-l Mark-ovi: ""…"""	"PN(M)[NOM.SG] tell(PFV)-PST[M.SG] PN(M)-DAT.SG ""…"""	"‘Peter told Marek ""…"".’"		"PN(M)[NOM.SG] говорить(PFV)-PST[M.SG] PN(M)-DAT.SG ""…"""	"‘Петр сказал Марку: ""..."".’"		
+98	17	povedať	NOM	DAT	Y	NOM_DAT	"Peter poveda-l Mark-ovi: ""…"""	"PN(M)[NOM.SG] tell(PFV)-PST[M.SG] PN(M)-DAT.SG ""…"""	"‘Peter told Marek: ""…"".’"		"PN(M)[NOM.SG] говорить(PFV)-PST[M.SG] PN(M)-DAT.SG ""…"""	"‘Петр сказал Марку: ""..."".’"		
 98	18	držať	NOM	ACC	TR	TR	Peter drží knih-u	PN(M)[NOM.SG] hold(IPFV).PRS.3SG book(F)-ACC.SG	‘Peter is holding a book.’		PN(M)[NOM.SG] держать(IPFV).PRS.3SG книга(F)-ACC.SG	‘Петр держит книгу.’		
 98	19	dostihnúť	NOM	ACC	TR	TR	Peter dostiho-l Mark-a	PN(M)[NOM.SG] catch_up(PFV)-PST[M.SG] PN(M)-ACC.SG	‘Peter caught up with Marek.’		PN(M)[NOM.SG] догонять(PFV)-PST[M.SG] PN(M)-ACC.SG	‘Петр догнал Марка.’		
 98	20	podojiť	NOM	ACC	TR	TR	Peter podoji-l krav-u	PN(M)[NOM.SG] milk(PFV)-PST[M.SG] cow(F)-ACC.SG	‘Peter milked the cow.’		PN(M)[NOM.SG] доить(PFV)-PST[M.SG] корова(F)-ACC.SG	‘Петр подоил корову.’		
@@ -4862,7 +4862,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 98	51	volať sa	NOM	NOM	Y	NOM_NOM	Tento prístroj sa volá kompas	this.M.NOM.SG gadget(M)[NOM.SG] REFL.ACC call(IPFV).PRS.3SG compass(M)[NOM.SG]	‘This gadget is called a compass.’		этот.M.NOM.SG устройство(M)[NOM.SG] REFL_ACC называть(IPFV).PRS.3SG компас(M)[NOM.SG]	‘Эта вещь называется компас.’		
 98	52	potrestať	NOM	ACC	TR	TR	Peter potresta-l svoj-ho syn-a	PN(M)[NOM.SG] punish(PFV)-PST[M.SG] one's-M.ACC.SG son(M)-ACC.SG  	‘Peter punished his son.’		PN(M)[NOM.SG] наказывать(PFV)-PST[M.SG] свой-M.ACC.SG сын(M)-ACC.SG  	‘Петр наказал своего сына.’		
 98	53	napadnúť	NOM	ACC	TR	TR	Medveď napado-l rybár-a	bear(M)[NOM.SG] attack(PFV)-PST[M.SG] fisherman(M)-ACC.SG	‘A bear attacked a fisherman.’		медведь(M)[NOM.SG] нападать(PFV)-PST[M.SG] рыбак(M)-ACC.SG	‘Медведь напал на рыбака.’		
-98	54	naplnený + COP	NOM	INS	Y	NOM_INS	Vedr-o bo-l-o naplnen-é vod-ou	bucket(M)[NOM.SG] be(IPFV)-PST-N.SG filled-N.NOM.SG water(F)-INS.SG	‘The bucket filled with water.’	Non-verbal predicate.	ведро(M)[NOM.SG] быть(IPFV)-PST-N.SG наполненный-N.NOM.SG вода(F)-INS.SG	‘Ведро наполнилось водой.’		
+98	54	naplnený + COP	NOM	INS	Y	NOM_INS	Vedr-o bo-l-o naplnen-é vod-ou	bucket(N)-NOM.SG be(IPFV)-PST-N.SG filled-N.NOM.SG water(F)-INS.SG	‘The bucket filled with water.’	Non-verbal predicate.	ведро(M)[NOM.SG] быть(IPFV)-PST-N.SG наполненный-N.NOM.SG вода(F)-INS.SG	‘Ведро наполнилось водой.’		
 98	55	nájsť	NOM	ACC	TR	TR	Peter našie-l jeho kľúč-e	PN(M)[NOM.SG] find(PFV)-PST[M.SG] his key(M)-ACC.PL	‘Peter found his keys.’		PN(M)[NOM.SG] находить(PFV)-PST[M.SG] его ключ(M)-ACC.PL	‘Петр нашел свои ключи.’		
 98	56	chýbať	DAT	NOM	X	DAT_NOM	Petr-ovi chýba jedn-o eur-o	PN(M)-DAT.SG lack(IPFV).PRS.3SG one-N.NOM.SG euro(N)-NOM.SG 	‘Peter is one euro short.’		PN(M)-DAT.SG недоставать(IPFV).PRS.3SG один-N.NOM.SG евро(N)-NOM.SG 	‘Пете недостает один евро.’		
 98	57	nenávidieť	NOM	ACC	TR	TR	Peter nenávidí Mark-a	PN(M)[NOM.SG] hate(IPFV).PRS.3SG PN(M)-ACC.SG	‘Peter hates Marek.’		PN(M)[NOM.SG] ненавидеть(IPFV).PRS.3SG PN(M)-ACC.SG	‘Петр ненавидит Марка.’		
@@ -4882,7 +4882,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 98	71	vypiť	NOM	ACC	TR	TR	Peter vypi-l mliek-o	PN(M)[NOM.SG] drink(PFV)-PST[M.SG] milk(N)-ACC.SG	‘Peter drank the milk.’		PN(M)[NOM.SG] пить(PFV)-PST[M.SG] молоко(N)-ACC.SG	‘Петр выпил молоко.’		
 98	72	roztaviť	NOM	ACC	TR	TR	Peter roztavi-l kus olov-a	PN(M)[NOM.SG] melt(PFV)-PST[M.SG] piece(M)[ACC.SG] lead(N)-GEN.SG	‘Peter melted a piece of lead.’		PN(M)[NOM.SG] плавить(PFV)-PST[M.SG] кусок(M)[ACC.SG] свинец(N)-GEN.SG	‘Петр расплавил кусок свинца.’		
 98	73	hodiť sa	NOM	kDAT	Y	NOM_kDAT	Tento opasok sa hodí k moj-im šat-ám	this.M.NOM.SG belt(M)[NOM.SG] REFL.ACC fit(IPFV).PRS.3SG to my-DAT.PL dress(M)-DAT.PL 	‘This belt matches my dress.’		этот.M.NOM.SG пояс(M)[NOM.SG] REFL.ACC подходить(IPFV).PRS.3SG к мой-DAT.PL платье(M)-DAT.PL 	‘Этот пояс подходит к моему платью.’		
-98	74	opustiť	NOM	ACC	TR	TR	Peter opusti-l svoj-e rodn-é měst-o	PN(M)[NOM.SG] leave(PFV)-PST[M.SG] one's-ACC.SG.N native-N.ACC.SG city(N)-ACC.SG	‘Peter left his home town.’		PN(M)[NOM.SG] покидать(PFV)-PST[M.SG] свой-N.ACC.SG родной-N.ACC.SG город(N)-ACC.SG	‘Петр покинул родной город.’		
+98	74	opustiť	NOM	ACC	TR	TR	Peter opusti-l svoj-e rodn-é měst-o	PN(M)[NOM.SG] leave(PFV)-PST[M.SG] one’s-ACC.SG.N native-N.ACC.SG city(N)-ACC.SG	‘Peter left his home town.’		PN(M)[NOM.SG] покидать(PFV)-PST[M.SG] свой-N.ACC.SG родной-N.ACC.SG город(N)-ACC.SG	‘Петр покинул родной город.’		
 98	75	pokrývať	NOM	ACC	TR	TR	Koberec pokrýva cel-ú podlah-u	carpet(M)[NOM.SG] cover(IPFV).PRS.3SG whole-F.ACC.SG floor(F)-ACC.SG	‘The carpet covers the whole floor.’		ковер(M)[NOM.SG] покрывать(IPFV).PRS.3SG весь-F.ACC.SG пол(F)-ACC.SG	‘Ковер покрывает весь пол.’		
 98	76	pamätať si	NOM	ACC	TR	TR	Peter si dobre pamätá tento dom	PN(M)[NOM.SG] REFL.DAT well remember(IPFV).PRS.3SG this.M.ACC.SG house(M)[ACC.SG]	‘Peter remembers this house well.’		PN(M)[NOM.SG] REFL.DAT хорошо помнить(IPFV).PRS.3SG этот.M.ACC.SG дом(M)[ACC.SG]	‘Петр хорошо помнит этот дом.’		
 98	77	pomôcť	NOM	DAT	Y	NOM_DAT	Peter pomoho-l Mári-i	PN(M)[NOM.SG] help(PFV)-PST[M.SG] PN(M)-DAT.SG 	‘Peter helped Maria.’		PN(M)[NOM.SG] помогать(PFV)-PST[M.SG] PN(M)-DAT.SG	‘Петр помог Марии.’		
@@ -4891,21 +4891,21 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 98	80	porezať sa	NOM	INS	Y	NOM_INS	Peter sa poreza-l britv-ou	PN(M)[NOM.SG] REFL.ACC cut(PFV)-PST[M.SG] razor(F)-INS.SG	‘Peter cut himself with a razor.’		PN(M)[NOM.SG] REFL.ACC резать(PFV)-PST[M.SG] бритва(F)-INS.SG	‘Петр порезался бритвой.’		
 98	81	prilepiť sa	NOM	naACC	Y	NOM_naACC	Pohár sa prilepi-l na stôl	glass(M)[NOM.SG] REFL.ACC stick(PFV)-PST(M.SG) on table(M)[ACC.SG]	‘The glass got stuck to the table.’		стакан(M)[NOM.SG] REFL.ACC прилепить(PFV)-PST(M.SG) на стол(M)[ACC.SG]	‘Стакан прилип к столу.’		
 98	82	prehrať	NOM	nadINS	Y	NOM_nadINS	Peter prehra-l nad Mark-om	PN(M)[NOM.SG] lose(PFV)-PST[M.SG] over PN(M)-INS.SG	‘Peter lost to Marek.’		PN(M)[NOM.SG] проигрывать(PFV)-PST[M.SG] над PN(M)-INS.SG	‘Петр проиграл Марку.’		
-98	83	mať radosť	NOM	zGEN	Y	NOM_zGEN	Peter ma-l z dopis-u radosť	PN(M)[NOM.SG] have(IPFV)-PST[M.SG] from letter(M)-GEN.SG joy	‘Peter rejoiced over the letter.’		PN(M)[NOM.SG] иметь(IPFV)-PST[M.SG] из письмо(M)-GEN.SG радость	‘Петр обрадовался письму.’		
+98	83	mať radosť	NOM	zGEN	Y	NOM_zGEN	Peter ma-l z dopis-u radosť	PN(M)[NOM.SG] have(IPFV)-PST[M.SG] from letter(M)-GEN.SG joy(F)[ACC.SG]	‘Peter rejoiced over the letter.’		PN(M)[NOM.SG] иметь(IPFV)-PST[M.SG] из письмо(M)-GEN.SG радость	‘Петр обрадовался письму.’		
 98	84	hovoriť	NOM	sINS	Y	NOM_sINS	Peter hovorí s Mark-om	PN(M)[NOM.SG] speak(IPFV).PRS.3SG with PN(M)-INS.SG	‘Peter is speaking with Marek.’		PN(M)[NOM.SG] говорить(IPFV).PRS.3SG с PN(M)-INS.SG	‘Петр разговаривает с Марком.’		
 98	85	porodiť	NOM	ACC	TR	TR	Mári-a porodi-l-a syn-a	PN(F)-NOM.SG give_birth(PFV)-PST-F.SG son(M)-ACC.SG	‘Maria gave birth to a son.’		PN(F)-NOM.SG рожать(PFV)-PST-F.SG сын(M)-ACC.SG	‘Мария родила сына.’		
 98	86	pustiť	NOM	ACC	TR	TR	Peter pusti-l pohár	PN(M)[NOM.SG] drop(PFV)-PST[M.SG] glass(M)[ACC.SG]	‘Peter dropped the glass.’		PN(M)[NOM.SG] ронять(PFV)-PST[M.SG] стакан(M)[ACC.SG]	‘Петр уронил стакан.’		
-98	87	vládnuť	NOM	DAT	Y	NOM_DAT	Peter vládne náš-mu mest-u	PN(M)[NOM.SG] givern(IPFV).PRS.3SG our-N.DAT.SG city(N)-DAT.SG	‘Peter runs our village.’		PN(M)[NOM.SG] руководить(IPFV).PRS.3SG наш-N.DAT.SG город(N)-DAT.SG	‘Петр руководит нашим городом.’		
+98	87	vládnuť	NOM	DAT	Y	NOM_DAT	Peter vládne náš-mu mest-u	PN(M)[NOM.SG] govern(IPFV).PRS.3SG our-N.DAT.SG city(N)-DAT.SG	‘Peter runs our village.’		PN(M)[NOM.SG] руководить(IPFV).PRS.3SG наш-N.DAT.SG город(N)-DAT.SG	‘Петр руководит нашим городом.’		
 98	88	chýbať	DAT	NOM	X	DAT_NOM	Petr-ovi chýba Mári-a	PN(M)-DAT.SG miss(IPFV).PRS.3SG PN(F)-NOM.SG	‘Peter misses Maria.’		PN(M)-DAT.SG не_хватать(IPFV).PRS.3SG PN(F)-NOM.SG	‘Петр скучает по Марии.’		
 98	89	následovať	NOM	ACC	TR	TR	Peter následuje Mári-u	PN(M)[NOM.SG] follow(IPFV).PRS.3SG PN(F)-ACC.SG	‘Peter follows Maria.’		PN(M)[NOM.SG] следовать(IPFV).PRS.3SG PN(F)-ACC.SG	‘Петр идет за Марией.’		
 98	90	zosadnúť	NOM	zGEN	Y	NOM_zGEN	Peter zosado-l z koň-a	PN(M)[NOM.SG] jump_off(PFV)-PST[M.SG] from horse(M)-GEN.SG	‘Peter jumped off the horse.’		PN(M)[NOM.SG] спрыгивать(PFV)-PST[M.SG] с лошадь(M)-GEN.SG	‘Петр спрыгнул с лошади.’		
 98	91	počúvať	NOM	ACC	TR	TR	Peter počúva rádi-o	PN(M)[NOM.SG] listen(IPFV).PRS.3SG radio(N)-ACC.SG	‘Peter is listening to radio.’		PN(M)[NOM.SG] слушать(IPFV).PRS.3SG радио(N)-ACC.SG	‘Петр слушает радио.’		
-98	92	poslúchať	NOM	ACC	TR	TR	Peter vždy poslúcha svoj-u matk-u	PN(M)[NOM.SG] always listen(IPFV).PRS.3SG one's-F.ACC.SG mother(F)-ACC.SG	‘Peter always listens to his mother.’		PN(M)[NOM.SG] всегда слушать(IPFV).PRS.3SG свой-F.ACC.SG мама(F)-ACC.SG	‘Петр слушает маму.’		
+98	92	poslúchať	NOM	ACC	TR	TR	Peter vždy poslúcha svoj-u matk-u	PN(M)[NOM.SG] always listen(IPFV).PRS.3SG one’s-F.ACC.SG mother(F)-ACC.SG	‘Peter always listens to his mother.’		PN(M)[NOM.SG] всегда слушать(IPFV).PRS.3SG свой-F.ACC.SG мама(F)-ACC.SG	‘Петр слушает маму.’		
 98	93	počuť	NOM	ACC	TR	TR	Peter počuje hudb-u	PN(M)[NOM.SG] hear(IPFV).PRS.3SG music(F)-ACC.SG	‘Peter hears the music.’		PN(M)[NOM.SG] слышать(IPFV).PRS.3SG музыка(F)-ACC.SG	‘Петр слышит музыку.’		
 98	94	zmiešať sa	NOM	sINS	Y	NOM_sINS	Med sa zmieša-l s mliek-om	honey(M)[NOM.SG] REFL.ACC melt(PFV)-PST[M.SG] with milk(N)-INS.SG	‘The honey melted in the milk.’		мед(M)[NOM.SG] REFL.ACC плавить(PFV)-PST[M.SG] с молоко(N)-INS.SG	‘Мед смешался с молоком.’		
 98	95	pozerať sa	NOM	naACC	Y	NOM_naACC	Peter sa pozerá na mrak-y	PN(M)[NOM.SG] REFL.ACC look(IPFV).PRS.3SG on cloud(M)-ACC.PL	‘Peter is looking at the clouds.’		PN(M)[NOM.SG] REFL.ACC смотреть(IPFV).PRS.3SG на облако(M)-ACC.PL	‘Петр смотрит на облака.’		
 98	96	vyzliecť si	NOM	ACC	TR	TR	Peter si vyzlieko-l košeľ-u	PN(M)[NOM.SG] REFL.DAT put_off(PFV)-PST[M.SG] shirt(F)-ACC.SG	‘Peter took off his shirt.’		PN(M)[NOM.SG] REFL.DAT снимать(PFV)-PST[M.SG] рубашка(F)-ACC.SG	‘Петр снял рубашку.’		
-98	97	snívať	NOM	oLOC	Y	NOM_oLOC	Peter sníva o Mári-i	PN(M)-DAT.SG REFL.ACC dream(IPFV).PRS.3SG about PN(F)-LOC.SG	‘Peter dreams about Maria.’		PN(M)-DAT.SG REFL.ACC мечтать(IPFV).PRS.3SG о PN(F)-LOC.SG	‘Петру снится Мария.’		
+98	97	snívať	NOM	oLOC	Y	NOM_oLOC	Peter sníva o Mári-i	PN(M)[NOM.SG] dream(IPFV).PRS.3SG about PN(F)-LOC.SG	‘Peter dreams about Maria.’		PN(M)-DAT.SG REFL.ACC мечтать(IPFV).PRS.3SG о PN(F)-LOC.SG	‘Петру снится Мария.’		
 98	98	súhlasiť	NOM	sINS	Y	NOM_sINS	Peter súhlasi-l s Mári-ou	PN(M)[NOM.SG] agree(PFV)-PST[M.SG] with PN(F)-INS.SG	‘Peter agrees with her.’		PN(M)[NOM.SG] соглашаться(PFV)-PST[M.SG] с PN(F)-INS.SG	‘Петр согласился с Марией.’		
 98	99	hádať sa	NOM	sINS	Y	NOM_sINS	Peter sa háda-l s Mári-ou	PN(M)[NOM.SG] REFL.ACC have_a_quarrel(IPFV)-PST[M.SG] with PN(M)-INS.SG	‘Peter had a quarrel with Maria.’		PN(M)[NOM.SG] REFL.ACC поссориться(IPFV)-PST[M.SG] с PN(M)-INS.SG	‘Петр поссорился с Марией.’		
 98	100	stáť	NOM	ACC	TR	TR	Hrnček stojí jedn-o eur-o	cup(M)-NOM.SG cost(IPFV).PRS.3SG one-N.ACC.SG euro(N)-ACC.SG	‘This glass costs one euro.’		стакан(M)-NOM.SG стоить(IPFV).PRS.3SG один-N.ACC.SG евро(N)-ACC.SG	‘Этот стакан стоит один евро.’		
@@ -4923,22 +4923,22 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 98	112	spokojný + COP	NOM	sINS	Y	NOM_sINS	Peter je so svoj-ím syn-om spokojn-ý	PN(M)[NOM.SG] be(IPFV).PRS.3SG with one's-M.INS.SG son(M)-INS.SG  satisfied-M.NOM.SG	‘Peter is satisfied with his son.’	Non-verbal predicate.	PN(M)[NOM.SG] быть(IPFV).PRS.3SG с свой-M.INS.SG сын(M)-INS.SG довольный-M.NOM.SG	‘Петр доволен своим сыном.’		
 98	113	zamilovať sa	NOM	doGEN	Y	NOM_doGEN	Peter sa zamilova-l do Mári-e	PN(M)[NOM.SG] REFL.ACC fall_in_love(PFV)-PST[M.SG] in PN(F)-GEN.SG	‘Peter fell in love with Maria.’		PN(M)[NOM.SG] REFL.ACC влюбляться(PFV)-PST[M.SG] в PN(F)-GEN.SG	‘Петр влюбился в Марию.’		
 98	114	dôverovať	NOM	DAT	Y	NOM_DAT	Peter dôveruje Mári-i	PN(M)[NOM.SG] trust(IPFV).PRS.3SG PN(F)-DAT.SG	‘Peter trusts Maria.’		PN(M)[NOM.SG] доверять(IPFV).PRS.3SG PN(F)-DAT.SG	‘Петр доверяет Марии.’		
-98	115	súcitiť	NOM	sINS	Y	NOM_sINS	Peter súcití so svoj-ou matk-ou	PN(M)[NOM.SG] sympathise(IPFV).PRS.3SG with one's-F.INS.SG mother(F)-INS.SG	‘Peter sympathises with his mother.’		PN(M)[NOM.SG] сочувствовать(IPFV).PRS.3SG с свой-F.INS.SG мать(F)-INS.SG	‘Петру жаль свою мать.’		
+98	115	súcitiť	NOM	sINS	Y	NOM_sINS	Peter súcití so svoj-ou matk-ou	PN(M)[NOM.SG] sympathise(IPFV).PRS.3SG with one’s-F.INS.SG mother(F)-INS.SG	‘Peter sympathises with his mother.’		PN(M)[NOM.SG] сочувствовать(IPFV).PRS.3SG с свой-F.INS.SG мать(F)-INS.SG	‘Петру жаль свою мать.’		
 98	116	závidieť	NOM	DAT	Y	NOM_DAT	Peter závidí Mark-ovi	PN(M)[NOM.SG] envy(IPFV).PRS.3SG PN(M)-DAT.SG	‘Peter envies Marek.’		PN(M)[NOM.SG] завидовать(IPFV).PRS.3SG PN(M)-DAT.SG	‘Петр завидует Марку.’		
 98	117	hnevať sa	NOM	naACC	Y	NOM_naACC	Peter sa hnevá na Mark-a	PN(M)[NOM.SG] REFL.ACC make_angry(IPFV).PRS.3SG on PN(M)-ACC.SG	‘Peter is angry with Marek.’		PN(M)[NOM.SG] REFL.ACC злить(IPFV).PRS.3SG на PN(M)-ACC.SG	‘Петр злится на Михала.’		
 98	118	prekvapený + COP	NOM	zGEN	Y	NOM_zGEN	Peter bo-l z darček-a prekvapen-ý	PN(M)[NOM.SG] be(IPFV)-PST[M.SG] from gift(M)-GEN.SG surprised-M.NOM.SG	‘Peter was surprised at this gift.’	Non-verbal predicate.	PN(M)[NOM.SG] быть(IPFV)-PST[M.SG] из подарок(M)-GEN.SG удивлённый-M.NOM.SG	‘Петр удивился этому подарку.’		
 98	119	mať rád	NOM	ACC	TR	TR	Peter má rád čaj	PN(M)[NOM.SG] have(IPFV).PRS.3SG glad tea(M)[ACC.SG]	‘Peter loves tea.’		PN(M)[NOM.SG] иметь(IPFV).PRS.3SG рад чай(M)[ACC.SG]	‘Петр любит чай.’		
 98	120	užívať si	NOM	ACC	TR	TR	Peter si užíva tepl-ý čaj	PN(M)[NOM.SG] REFL.DAT enjoy(IPFV).PRS.3SG hot-M.ACC.SG tea(M)[ACC.SG]	‘Peter enjoys hot tea.’		PN(M)[NOM.SG] REFL.DAT наслаждаться(IPFV).PRS.3SG горячий-M.ACC.SG чай(M)[ACC.SG]	‘Петр наслаждается горячим чаем.’		
 98	121	chcieť	NOM	ACC	TR	TR	Peter chce nov-ý mobiln-ý telefón	PN(M)[NOM.SG] want(IPFV).PRS.3SG new-M.ACC.SG mobile-M.ACC.SG phone(M)[ACC.SG]	‘Peter wants a new mobile phone.’		PN(M)[NOM.SG] хотеть(IPFV).PRS.3SG новый-M.ACC.SG мобильный-M.ACC.SG телефон(M)[ACC.SG]	‘Петр хочет новый мобильный телефон.’		
-98	122	mať zášť	NOM	vočiDAT	Y	NOM_vočiDAT	Peter má voči Mark-ovi zášť	PN(M)[NOM.SG] have(IPFV).PRS.3SG against PN(M)-DAT.SG grudge	‘Peter holds a grudge against Marek.’		PN(M)[NOM.SG] иметь(IPFV).PRS.3SG против PN(M)-DAT.SG обида	‘Петр расстроен из-за Михала.’		
-98	123	uraziť sa	NOM	naACC	Y	NOM_naACC	Peter sa na Mark-a urazil	PN(M)[NOM.SG] REFL.ACC on PN(M)-ACC.SG offend(PFV)-PST[M.SG]	‘Peter took offense at Marek.’		PN(M)[NOM.SG] REFL.ACC на PN(M)-ACC.SG обидеть(PFV)-PST[M.SG]	‘Петр обиделся на Марка.’		
+98	122	mať zášť	NOM	vociDAT	Y	NOM_vociDAT	Peter má voči Mark-ovi zášť	PN(M)[NOM.SG] have(IPFV).PRS.3SG against PN(M)-DAT.SG grudge	‘Peter holds a grudge against Marek.’		PN(M)[NOM.SG] иметь(IPFV).PRS.3SG против PN(M)-DAT.SG обида	‘Петр расстроен из-за Михала.’		
+98	123	uraziť sa	NOM	naACC	Y	NOM_naACC	Peter sa na Mark-a urazi-l	PN(M)[NOM.SG] REFL.ACC on PN(M)-ACC.SG offend(PFV)-PST[M.SG]	‘Peter took offense at Marek.’		PN(M)[NOM.SG] REFL.ACC на PN(M)-ACC.SG обидеть(PFV)-PST[M.SG]	‘Петр обиделся на Марка.’		
 98	124	rozrušiť	NOM	ACC	TR	TR	Peter veľmi rozruši-l Mark-a	PN(M)[NOM.SG] very make_sad(PFV)-PST[M.SG] PN(M)-ACC.SG	‘Peter upset Marek.’		PN(M)[NOM.SG] очень огорчить(PFV)-PST[M.SG] PN(M)-ACC.SG	‘Петр огорчил Марка.’		
 98	125	obdivovať	NOM	ACC	TR	TR	Peter obdivova-l toto mest-o	PN(M)[NOM.SG] admire(PFV)-PST[M.SG] this.N.ACC.SG city(N)-ACC.SG	‘Peter was marvelled at this city.’		PN(M)[NOM.SG] восхищаться(PFV)-PST[M.SG] этот.N.ACC.SG город(N)-ACC.SG 	‘Петр восхитился этим городом.’		
 98	126	opovrhovať	NOM	INS	Y	NOM_INS	Peter opovrhuje Mark-om	PN(M)[NOM.SG] despise(IPFV).PRS.3SG PN(M)-INS.SG	‘Peter despises Marek.’		PN(M)[NOM.SG] презирать(IPFV).PRS.3SG PN(M)-INS.SG	‘Петр презирает Марка.’		
 98	127	rozčúliť sa	NOM	naACC	Y	NOM_naACC	Peter sa rozčúli-l na svoj-ho syn-a	PN(M)[NOM.SG] REFL.ACC sadden(PFV)-PST[M.SG] on one's-M.ACC.SG son(M)-ACC.SG	‘Peter got upset with his son.’		PN(M)[NOM.SG] REFL.ACC огорчать(PFV)-PST[M.SG] на свой-M.ACC.SG сын(M)-ACC.SG	‘Петр огорчился из-за своего сына.’		
-98	128	podráždený + COP	NOM	naACC	Y	NOM_naACC	Peter začína by-ť na svoj-u dcér-u podrážden-ý	PN(M)[NOM.SG] start(IPFV)-PRS.3SG be-INF on one's-F.ACC.SG daughter(F)-ACC.SG irritated-M.NOM.SG	‘Peter gets irritated with his daughter.’	Non-verbal predicate.	PN(M)[NOM.SG] начинать(IPFV)-PRS.3SG на свой-F.ACC.SG дочь(F)-ACC.SG раздражённый-M.NOM.SG	‘Петр начинает быть раздражённым на свою дочь.’		
+98	128	podráždený + COP	NOM	naACC	Y	NOM_naACC	Peter začína by-ť na svoj-u dcér-u podrážden-ý	PN(M)[NOM.SG] start(IPFV).PRS.3SG be-INF on one's-F.ACC.SG daughter(F)-ACC.SG irritated-M.NOM.SG	‘Peter gets irritated with his daughter.’	Non-verbal predicate.	PN(M)[NOM.SG] начинать(IPFV)-PRS.3SG на свой-F.ACC.SG дочь(F)-ACC.SG раздражённый-M.NOM.SG	‘Петр начинает быть раздражённым на свою дочь.’		
 98	129	mať rád	NOM	ACC	TR	TR	Peter má rád Mark-a	PPN(M)[NOM.SG] have(IPFV).PRS.3SG glad PN(M)-ACC.SG	‘Peter is fond of Marek.’		PN(M)[NOM.SG] иметь(IPFV).PRS.3SG рад PN(M)[ACC.SG]	‘Петр симпатизирует Марку.’		
-98	130	hanbiť sa	NOM	zaACC	Y	NOM_zaACC	Peter sa hanbí za svoj-u výšk-u	PN(M)[NOM.SG] REFL.ACC be_shy(IPFV).PRS.3SG for one's-F.ACC.SG height(F)-ACC.SG	‘Peter is embarrassed about his small height.’		PN(M)[NOM.SG] REFL.ACC стесняться(IPFV).PRS.3SG за свой-F.ACC.SG рост(F)-ACC.SG	‘Петр стесняется своего роста.’		
+98	130	hanbiť sa	NOM	zaACC	Y	NOM_zaACC	Peter sa hanbí za svoj-u výšk-u	PN(M)[NOM.SG] REFL.ACC be_shy(IPFV).PRS.3SG for one’s-F.ACC.SG height(F)-ACC.SG	‘Peter is embarrassed about his small height.’		PN(M)[NOM.SG] REFL.ACC стесняться(IPFV).PRS.3SG за свой-F.ACC.SG рост(F)-ACC.SG	‘Петр стесняется своего роста.’		
 61	1	boleti	ACC	NOM	X	ACC_NOM	An-o boli glav-a	PN-ACC.SG ache:IPFV.PRS.3SG head-NOM.SG	‘Ana has a headache.’		PN-ACC.SG болеть:IPFV.PRS.3SG голова-NOM.SG	‘У Аны болит голова.’		
 61	2	imeti	NOM	ACC	TR	TR	An-a ima grip-o	PN-NOM.SG have:IPFV.PRS.3SG flu-ACC.SG	‘Ana has the flu.’		PN-NOM.SG иметь:IPFV.PRS.3SG грипп-ACC.SG	‘Ана болеет гриппом.’		
 61	3	bati se	NOM	GEN	Y	NOM_GEN	Peter se malo boji ps-a	PN[NOM.SG] RFL a_little be_afraid:IPFV.PRS.3SG dog-GEN.SG	‘Peter is a little afraid of the dog.’		PN[NOM.SG] RFL немного бояться:IPFV.PRS.3SG собака-GEN.SG	‘Петер немного боится собаки.’		
