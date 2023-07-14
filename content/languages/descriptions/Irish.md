@@ -7,8 +7,7 @@ The data were gathered in {{ data_collection_year }} on the Dingle peninsula. Th
 
 ## How to cite
 > Nikolaev, Dmitry. 2023. Bivalent patterns in {{ language_external}}. 
-> In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
-> St. Petersburg: Institute for Linguistic Studies, RAS. 
+> In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames.
 > (Data first published on {{ initial_release_date }}; 
 > last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, 
 > Accessed on {{ today }}.)
