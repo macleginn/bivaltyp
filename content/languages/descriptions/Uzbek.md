@@ -51,3 +51,7 @@ Table 1. Case paradigm
 |     Accusative    |     bala-ni     |     child-ACC    |
 |     Locative      |     bala-da     |     child-LOC    |
 |     Ablative      |     bala-dan    |     child-ABL    |
+
+## Glossing abbreviations
+
+ABL — ablative; ACC — accusative; ADJ — adjectivizer; CARITIVE — ; CAUS — causative; CVB — converb; DAT — dative; FUT — future; GEN — genitive; IMP — imperative; LOC — locative; NEG — negative; PASS — passive; PL — plural; PN — person name; POSS — possessive; PRS — present; PST — past; RECP — reciprocal; SG — singular.
