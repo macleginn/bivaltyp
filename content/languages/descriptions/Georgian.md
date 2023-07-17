@@ -59,7 +59,7 @@ Thus, the labels used in the annotation of transitive verbs correspond to the ac
 
 ```
 
-The distinction between verbs with and without case-shift is part of the traditional four-way classification of Georgian verbs that is based on the morphological and morphosyntactic properties, whereby verbs with case shift belong to Classes I and III, see Rostovtsev-Popiel (2016) for further details. The verbs in Class II, as in (4) display nominative subjects across all series, and the verbs in Class IV, as in (5), display dative subjects across all series.
+The distinction between verbs with and without case-shift is part of the traditional four-way classification of Georgian verbs that is based on the morphological and morphosyntactic properties, whereby verbs with case shift belong to Classes I and III, see [Rostovtsev-Popiel (2016)](https://bivaltyp.info/docs/Rostovtsev_Popiel_2016_Argumentstruktur.pdf) for further details. The verbs in Class II, as in (4) display nominative subjects across all series, and the verbs in Class IV, as in (5), display dative subjects across all series.
 
 ```
 
