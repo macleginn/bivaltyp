@@ -22,17 +22,18 @@ Contributed by [Anastasia Escher](https://www.nexus.ethz.ch/about/people1/person
 
 Serbian generally exhibits the nominative-accusative alignment. In the basic transitive construction, the A-argument is in the nominative, and the P-argument is in the accusative. The relative order of nominal arguments and the verb is relatively free. For the majority of bivalent predicates, the SVO order is the unmarked choice if both arguments are nominal. However, alternative word order patterns are possible and have communicative and pragmatic functions.
 
-Pronouns differentiate between stressed and unstressed (clitics) forms. All clitics are placed in the clause-second (Wackernagel's) position and their relative order is generally fixed. Zero subjects (the so-called pro-drop) are common.
+Pronouns differentiate between stressed and unstressed (clitic) forms. All clitics are placed in the clause-second (Wackernagel's) position and their relative order is generally fixed. Zero subjects (the so-called pro-drop) are common.
 
-The transitive construction is the construction in which the subject is in the nominative case (if overt) and the object is in the accusative case. In non-transitive bivalent constructions, arguments are flagged by case markers or by prepositions in combinations with cases.
+In non-transitive bivalent constructions, arguments are flagged by case markers or by prepositions in combinations with case markers.
 
 The predicate always agrees with the canonical nominative subject in number and person. In some analytical forms, including the basic past tense form, the predicate also displays gender agreement with the subject. Non-subjects are never indexed on the predicate.
-Some bivalent predicates expressing physical or emotional states display the Experiencer in the dative (3) or the accusative (4), that, unless expressed by pronominal clitics, takes the thematic position. 
 
 ### Case system
+
 There are 7 full-fledged cases: nominative, accusative, genitive, dative, locative, instrumental and vocative. Locative forms are always used with a preposition. The contrast between the locative and the dative case is on the verge of extinction and manifests itself exclusively by pitch accent differences.
 
 ## Verb lemmas
+
 Verbs are cited in their infinitive form specified for aspect (perfective or imperfective).
 
 ## Glossing abbreviations
