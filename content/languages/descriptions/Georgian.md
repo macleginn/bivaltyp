@@ -87,7 +87,7 @@ Rostovtsev-Popiel, Alexander. 2016. Argumentstruktur und aspektuelle Komposition
 
 ## Verb lemmas
 
-Verbs are cited in the 3SG form of either Present or Future tense (as indicated in each case). Future forms are shown in case the Present tense form is not sufficiently informative with respect to the verb's meaning.
+Verbs are cited in the 3SG form of either Present or Future tense (as indicated in each case). Future forms are shown in case the Present tense form is not sufficiently informative with respect to the verb's lexical semantics.
 
 ## Glossing abbreviations
 
