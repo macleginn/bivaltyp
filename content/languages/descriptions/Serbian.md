@@ -20,11 +20,9 @@ Contributed by [Anastasia Escher](https://www.nexus.ethz.ch/about/people1/person
 
 ### Basic clause structure and the transitive construction
 
-Serbian generally exhibits the nominative-accusative alignment. In the basic transitive construction, the A-argument is in the nominative, and the P-argument is in the accusative. The relative order of nominal arguments and the verb is relatively free. For the majority of bivalent predicates, the SVO order is the unmarked choice if both arguments are nominal. However, alternative word order patterns are possible and have communicative and pragmatic functions.
+Serbian generally exhibits the nominative-accusative alignment. In the basic transitive construction, the A-argument is in the nominative, and the P-argument is in the accusative. In non-transitive bivalent constructions, at least one argument is flagged by an oblique case marker or by a preposition (in combination with a case marker). The relative order of nominal arguments and the verb is relatively free. For the majority of bivalent predicates, the SVO order is the unmarked choice if both arguments are nominal. However, alternative word order patterns are possible and have communicative and pragmatic functions.
 
 Pronouns differentiate between stressed and unstressed (clitic) forms. All clitics are placed in the clause-second (Wackernagel's) position and their relative order is generally fixed. Zero subjects (the so-called pro-drop) are common.
-
-In non-transitive bivalent constructions, arguments are flagged by case markers or by prepositions in combinations with case markers.
 
 The predicate always agrees with the canonical nominative subject in number and person. In some analytical forms, including the basic past tense form, the predicate also displays gender agreement with the subject. Non-subjects are never indexed on the predicate.
 
