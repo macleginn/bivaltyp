@@ -24,11 +24,16 @@ The data were initially obtained in 2011 (and then revised in 2023) by Alexander
 Valency classes of Georgian verbs are primarily defined by their case frames. However, many Georgian verbs, including all transitive verbs, display the so-called “case shift”: a phenomenon whereby the case marking of arguments depends on the verb’s TAM form. Georgian TAM forms group into so-called “series”, where Series I is present/future, Series II is aorist/optative; and Series III is perfect/pluperfect. Case marking in verbs that undergo case shift is summarized in Table 1.
 
 Table 1. Verbs with case shift: case marking in the three Series
- 	Subject	Direct object	Indirect object
-Series I: present/future	NOM	DAT	DAT
-Series II: aorist/optative	ERG	NOM	DAT
-Series III: perfect/pluperfect	DAT	NOM	OBL*
-* OBL stands here for “oblique” and covers Benefactive andSociative (and Allative in some dialects).
+
+<div class="before-table"></div>
+
+|                                | Subject | Direct object | Indirect object |
+| ------------------------------ | ------- | ------------- | --------------- |
+| Series I: present/future       | NOM     | DAT           | DAT             |
+| Series II: aorist/optative     | ERG     | NOM           | DAT             |
+| Series III: perfect/pluperfect | DAT     | NOM           | OBL (i)         |
+
+i) OBL stands here for “oblique” and covers Benefactive and Sociative (and Allative in some dialects).
 
 For purposes of the dataset below, the verb is considered transitive if and only if displays case shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” correspondingly, even if the actual sentence happens to belong to Series I, where we observe no ergative case-marking (Series III forms are not found in the questionnaire below). For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
 
@@ -65,8 +70,8 @@ In bivalent and trivalent verbs, up to two arguments can be cross-referenced on 
 There are seven basic grammatical cases: nominative, ergative, dative, genitive, instrumental, adverbal and vocative (the latter two cases are not used in the Georgian dataset below). Apart from the grammatical cases, there are around a dozen semantic cases, primarily coded by semi-detachable postpositional markers. Among these, ablative, illative, inessive, sociative, sublative, and superessive are found in the dataset. 
 
 ## References
-Rostovtsev-Popiel, Alexander. 2016. Argumentstruktur und aspektuelle Komposition im Georgischen. Georgica 37: 35–51.
 
+Rostovtsev-Popiel, Alexander. 2016. Argumentstruktur und aspektuelle Komposition im Georgischen. Georgica 37: 35–51.
 
 ## Verb lemmas
 
