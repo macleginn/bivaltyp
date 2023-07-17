@@ -83,7 +83,7 @@ There are seven basic grammatical cases: nominative, ergative, dative, genitive,
 
 ## References
 
-Rostovtsev-Popiel, Alexander. 2016. Argumentstruktur und aspektuelle Komposition im Georgischen. Georgica 37: 35–51.
+Rostovtsev-Popiel, Alexander. 2016. [Argumentstruktur und aspektuelle Komposition im Georgischen](https://bivaltyp.info/docs/Rostovtsev_Popiel_2016_Argumentstruktur.pdf). Georgica 37: 35–51.
 
 ## Verb lemmas
 
