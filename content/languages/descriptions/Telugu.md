@@ -34,7 +34,10 @@ Non-core arguments are flagged by case markers or postpositions (normally in com
 
 The borderline between case suffixes and postpositions is blurred. Commonly recognized cases are: nominative, accusative, genitive, dative and locative. Comitative/instrumental, causal and some other markers, sometimes included into the Telugu case system, are treated here as postpositions. 
 
-### Verb lemmas
+## Verb lemmas
 
 Verbs are cited as bare stems, not used in any actual construction. For example, the verb 'write' from the example (1) is cited as *rāyu*.
 
+## Glossing abbreviations
+
+ABL — ablative; ACC — accusative; ADVZ — adverbializer; ANT — anterior; COM — comitative; CVB — comitative; DAT — dative; DEM — demonstrative; DIST — distal; DUR — durative; EPIC — ???; EXCL — exclusive; F — feminine; HON — honorific; INTENS — intensive; LOC — locative; M — masculine; N — neuter; NM — non-masculine; NOM — nominative; NPST — non-past; OBL — oblique; PL — plural; PN — person named; PROX — proximal; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular; SIM — simultaneous; VN — verbal noun.
