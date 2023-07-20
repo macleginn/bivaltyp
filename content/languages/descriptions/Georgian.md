@@ -23,7 +23,7 @@ The data were initially obtained in 2011 (and then revised in 2023) by Alexander
 
 Valency classes of Georgian verbs are primarily defined by their case frames. However, many Georgian verbs, including all transitive verbs, display the so-called “case shift”: a phenomenon whereby the case marking of arguments depends on the verb’s TAM form. Georgian TAM forms group into so-called “series”, where Series I is present/future, Series II is aorist/optative; and Series III is perfect/pluperfect. Case marking in verbs that undergo case shift is summarized in Table 1.
 
-Table 1. Verbs with case shift: case marking in the three Series
+Table 1. Verbs with case shift: case marking in the three series
 
 <div class="before-table"></div>
 
