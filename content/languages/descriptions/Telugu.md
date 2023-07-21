@@ -23,7 +23,7 @@ Two main features of case marking in Telugu are: nominative-accusative alignment
 
 ```
 (1)  maheṣ         uttaraṃ           /  uttarānni         rāsāḍu
-	   PN(M).SG.NOM  answer(N).SG.NOM  /  answer(N).SG.ACC  write.PST.3SG.M
+     PN(M).SG.NOM  answer(N).SG.NOM  /  answer(N).SG.ACC  write.PST.3SG.M
      ‘Mahesh wrote a/the letter.’
 
 ```
