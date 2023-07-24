@@ -1,12 +1,13 @@
 # {{ language_external }}
-Contributed by [Daria Mishchenko](https://iling.spb.ru/persons/mischenko-darya-fedorovna) ([Academia.edu profile](https://iling-spb.academia.edu/DariaMishchenko))
+Contributed by [Daria Mishchenko](https://iling.spb.ru/persons/mischenko-darya-fedorovna) ([Academia.edu profile](https://iling-spb.academia.edu/DariaMishchenko)) and [Sofia Oskolskaya](https://www.iling.spb.ru/persons/oskolskaya-sofya-alekseevna) ([Academia.edu profile](https://iling-spb.academia.edu/SonyaOskolskaya))
 
 ![D.M.'s photo]({{ site_url_j }}/images/Mischenko.jpg "D.M.'s photo")
+![S.O.'s photo]({{ site_url_j }}/images/Oskolskaya.jpg "S.O.'s photo")
 
 The data were collected in 2013 in Khabarovsk Krai, Russia. Most of the data were gathered from speakers living in the villages of Naikhin and Daerga, who spoke the Naikhin variety, which is the basis of standard Nanai. Some data were also verified with two consultants from Dzhuen, who spoke a Dzhuen variety of Nanai that is very close to Naikhin Nanai.
 
 ## How to cite
-> Mischenko, Daria. 2021. Bivalent patterns in {{ language_external}}. 
+> Mischenko, Daria & Sofia Oskolskaya. 2021. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; 
