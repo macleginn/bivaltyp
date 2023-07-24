@@ -91,7 +91,8 @@ Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}
 Anastasia (Leonidovna) Makarova: {{ language:Serbian }}  
 Anastasia (Borisovna) Makarova: {{ language:Czech }}  
 Ramazan Mamedshaxov: {{ language:Arabic_Standard }}, {{ language:Lezgian }}  
-Daria Mishchenko: {{ language:Finnish_Ingrian }}, {{ language:Loma }}, {{ language:Nanai }}  
+Daria Mishchenko: {{ language:Finnish_Ingrian }}, {{ language:Loma }}  
+Daria Mishchenko, Sofia Oskolskaya: {{ language:Nanai }}  
 Zarina Molochieva: {{ language:Chechen }}  
 George Moroz: {{ language:Polish }}  
 Rasul Mutalov: {{ language:Dargwa_Icari }}  
