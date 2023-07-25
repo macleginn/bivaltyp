@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by Anna Alexandrova ([academia.edu profile](https://sns.academia.edu/AnnaAlexandrova)). Maria Ralko greatly contributed to the technical preparation of the Italian dataset.
 
+![A.A.'s photo]({{ site_url_j }}/images/Alexandrova.jpg "A.A.'s photo")
+
 ## How to cite
 > Alexandrova, Anna. 2022. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
