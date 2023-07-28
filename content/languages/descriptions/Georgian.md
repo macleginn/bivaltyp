@@ -79,7 +79,7 @@ In bivalent and trivalent verbs, up to two arguments can be cross-referenced on 
 
 ### Case system
 
-There are seven basic grammatical cases: nominative, ergative, dative, genitive, instrumental, adverbal and vocative (the latter two cases are not used in the Georgian dataset below). Apart from the grammatical cases, there are around a dozen semantic cases, primarily coded by semi-detachable postpositional markers. Among these, ablative, illative, inessive, sociative, sublative, and superessive are found in the dataset. 
+There are seven basic grammatical cases: nominative, ergative, dative, genitive, instrumental, adverbial and vocative (the latter two cases are not used in the Georgian dataset below). Apart from the grammatical cases, there are around a dozen semantic cases, primarily coded by semi-detachable postpositional markers. Among these, ablative, illative, inessive, sociative, sublative, and superessive are found in the dataset. 
 
 ## References
 
