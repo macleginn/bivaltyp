@@ -1,5 +1,7 @@
 # {{ language_external }}
-Contributed by Mansour Amadeh.
+Contributed by [Mansour Amadeh](https://www.researchgate.net/profile/Seyedmansour-Amadeh).
+
+![M.A.'s photo]({{ site_url_j }}/images/Amadeh.jpg "M.A.'s photo")
 
 The data were provided by Mansour Amadeh in his capacity of a native speaker in {{ data_collection_year }}. The English version of the questionnaire was used for elicitation.
 
