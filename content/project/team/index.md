@@ -124,7 +124,7 @@ Ksenia Studenikina: {{ language:Mari_Western }}
 Daria Suetina (Konior): {{ language:Romanian }}  
 Evgenija Teplukhina: {{ language:Azerbaijani }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
-Valentin Vydrin: {{ language:Bambara }}  
+Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
 Elizaveta Zabelina: {{ language:Telugu }}  
 Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}  
