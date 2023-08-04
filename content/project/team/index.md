@@ -112,7 +112,7 @@ Krasimira Petrova: {{ language:Bulgarian }}
 Inna Popova: {{ language:Latin }}  
 Maria Pupynina: {{ language:Chukchi }}  
 Neige Rochant: {{ language:Andi_Zilo }}  
-Alexander Rostovtsev-Popiel: {{ language:Georgian }}  
+Alexander Rostovtsev-Popiel: {{ language:Georgian }}, {{ language:Mingrelian }}  
 Daria Ryzhova: {{ language:Khanty_Kazym }}  
 Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}  
 Ekaterina Sergeeva: {{ language:Komi_Zyrian }}  
