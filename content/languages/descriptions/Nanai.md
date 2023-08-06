@@ -36,7 +36,7 @@ The default linear order in Nanai is SOV, although it is not very strict. The no
      ‘Petia threw a stone.’
 
 (3)  N'oani  ǯea-go-i               gələ-j-ni.
-	   3SG     friend-DEST-P.REFL.SG  ask-NPST-P.3SG
+     3SG     friend-DEST-P.REFL.SG  ask-NPST-P.3SG
      ‘He is looking for a friend’.
 
 ```
