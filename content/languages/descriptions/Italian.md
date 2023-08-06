@@ -20,12 +20,11 @@ Contributed by Anna Alexandrova ([academia.edu profile](https://sns.academia.edu
 
 ### Basic clause structure and the transitive construction
 
-Italian displays the nominative-accusative alignment. Nominal core arguments (A, S and O) remain unflagged, so that the distinction between subject and direct object is mainly indicated by word order, which is predominantly SVO. By contrast, pronominal object clitics are  used before the verb, come in a fixed order and 3 cases. 
-Nominal arguments other than A, S and O are flagged by prepositions. Subjects (A and S) are indexed on the verbs. In some contexts, participles in analytic constructions also signal the number and gender of the direct object. 
+Italian displays the nominative-accusative alignment. Nominal core arguments (A, S and O) remain unflagged, so that the distinction between subject and direct object is mainly indicated by word order, which is predominantly SVO. By contrast, pronominal object clitics are used before the verb. They come in a fixed order and display three distinct  cases. Nominal arguments other than A, S and O are flagged by prepositions. Subjects (A and S) are indexed on the verbs. In some contexts, participles in analytic constructions also signal the number and gender of the direct object. 
 
 ### Case system
 
-Italian has no morphological case on nouns. Traditionally, personal pronouns are described as javing three case-marked forms: nominative, accusative and dative. However, there are actually further variations in the form of pronouns, depending on the presence of stress and the syntactic environment. 
+Italian has no morphological case on nouns. Traditionally, personal pronouns are described as having three case-marked forms: nominative, accusative and dative. However, there are actually further variations in the form of pronouns, depending on the presence of stress and the syntactic environment. 
 
 ## Verb lemmas
 
