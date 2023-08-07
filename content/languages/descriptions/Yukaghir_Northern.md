@@ -16,3 +16,7 @@ The data were gathered in {{ data_collection_year }}. The Russian version of the
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABL — ablative; ACC — accusative; ADV — adverb; AFF — affirmative; APPL — applicate; AT — ??; AUG — augmentative; CAUS — causative; CNV — converb; COM — comitative; DAT — dative; DES — desiderative; DIM — diminutive; DIR — directive; EVID — evidential; FOC — focus; GEN — genitive; HAB — habitual; INCH — inchoative; INS — instrumental; INTR — intransitive; IPF — imperfective; LIM — ??; LOC — locative; MULT — multiplicative; NEG — negation; NLZR — nominalizer; NR — ??; OBL — oblique; OF — object focus; PF — perfective; PL — plural; PN — person name; POSS — possessive; PROP — proprietive; PRXM — proximal; PTCL — participle; RECP — reciprocal; REFL — reflexive; RES — resultative; SF — subject focus; SG — singular; STAT — stative; TR — transitive; TRNSF — ??; VIS — ??; VR — ??.
