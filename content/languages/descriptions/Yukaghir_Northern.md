@@ -1,5 +1,7 @@
 # {{ language_external }}
-Contributed by Samona Kurilova and Maria Pupynina.
+Contributed by Samona Kurilova and [Maria Pupynina](https://iling.spb.ru/persons/pupynina-mariya-yurevna) ([Academia.edu profile](https://iling-spb.academia.edu/MariaPupynina)).
+
+![M.P.'s photo]({{ site_url_j }}/images/Pupynina.jpg "M.P.'s photo")
 
 The data were gathered in {{ data_collection_year }}. The Russian version of the questionnaire was used for elicitation.
 
