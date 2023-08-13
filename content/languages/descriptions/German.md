@@ -3,6 +3,8 @@ Contributed by [Sandra Birzer](https://www.uni-bamberg.de/slavling/personal/prof
 
 ![S.B.'s photo]({{ site_url_j }}/images/Birzer.jpg "S.B.'s photo")
 
+Sandra Birzer provided the data in 2013 in her capacity of a native speaker of German. The data were slightly edited in 2023. In the course of preparing the final dataset, we benefited from the consultations with [Andreas Hölzl](https://www.sfb1287.uni-potsdam.de/andreas-hoelzl/).
+
 ## How to cite
 > Birzer, Sandra. 2023. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
