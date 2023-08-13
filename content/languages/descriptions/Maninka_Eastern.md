@@ -23,11 +23,11 @@ Complicated cases were checked with Fadjimba Keeta, head of the Maninka section 
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
-Eastern Maninka (< Manding < Western Mande < Mande < Niger-Congo) is spoken mainly in Guinea (West Africa) by more than 4 million people L1 speakers, and up to 3-4 million L2 speakers.
+Eastern Maninka (< Manding < Western Mande < Mande < Niger-Congo) is spoken mainly in Guinea (West Africa) by more than 4 million L1 speakers, and up to 3-4 million L2 speakers.
 
 ## Grammar notes
 
-Eastern Maninka is a tonal language with two basic tones, low and high. The basic word order is S AUX (O) V X, where S is a subject, V is a verb, AUX is an auxiliary word expressing grammatical semantics of tense, aspect, mode and polarity (in the Mandeist tradition, AUX are named "predicative markers"), O is a direct object (whose absence makes the verb intransitive), X is an oblique (indirect object or adjunct), most often represented by a postpositional phrase. The word order in NP is N2 – N1 (N1 is the head noun, N2 is the dependent noun), N – Adj (the adjectival modifier follows the head noun).
+Eastern Maninka is a tonal language with two basic tones, low and high. The basic word order is S AUX (O) V X, where S is a subject, V is a verb, AUX is an auxiliary word expressing grammatical semantics of tense, aspect, mood and polarity (in the Mandeist tradition, AUX are named "predicative markers"), O is a direct object (whose absence makes the verb intransitive), X is an oblique (indirect object or adjunct), most often represented by a postpositional phrase. The word order in NP is N2 – N1 (N1 is the head noun, N2 is the dependent noun), N – Adj (the adjectival modifier follows the head noun).
 
 There is no morphological case on nouns.
 
