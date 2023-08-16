@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Peter Arkadiev](https://inslav.ru/people/arkadev-petr-mihaylovich-peter-arkadiev) ([Academia.edu profile](https://inslav.academia.edu/PeterArkadiev)) and [Irina Bagirokova](https://iling-ran.ru/web/ru/scholars/bagirokova)
+Contributed by [Peter Arkadiev](https://peterarkadiev.github.io/) ([Academia.edu profile](https://inslav.academia.edu/PeterArkadiev)) and [Irina Bagirokova](https://iling-ran.ru/web/ru/scholars/bagirokova)
 
 ![P.A.'s photo]({{ site_url_j }}/images/Arkadiev.jpg "P.A.'s photo")
 
