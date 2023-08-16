@@ -160,6 +160,7 @@
             <span>Subset examples by valency pattern</span>
             <select id="valpal-select">
                 <option value="any">Any</option>
+                <option value="">NA</option>
                 <option value="DAT_ALL">DAT_ALL</option>
                 <option value="DAT_DAT">DAT_DAT</option>
                 <option value="DAT_ERG">DAT_ERG</option>
@@ -182,6 +183,7 @@
             <span>Subset examples by locus</span>
             <select id="locus-select">
                 <option value="any">Any</option>
+                <option value="*">*</option>
                 <option value="TR">TR</option>
                 <option value="X">X</option>
                 <option value="XY">XY</option>
@@ -843,7 +845,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘Age does its thing to memory.’</td>
+                        <td colspan="4" class="example-translation">‘Age affects memory’ (lit. ‘Age does its thing to memory.’)</td>
                     </tr>
                 </table>
             </div>
@@ -1363,7 +1365,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">erg</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>book-</span>
@@ -1390,7 +1392,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘Chelo is holding a book in (his) hand.’</td>
+                        <td colspan="4" class="example-translation">‘Chelo is holding a book in his hand.’</td>
                     </tr>
                 </table>
             </div>
@@ -1446,7 +1448,11 @@
                             <span class="gloss">prv</span>
                             <span>-</span>
                             <span class="gloss">io</span>
-                            <span>3-catch_up-</span>
+                            <span>3-</span>
+                            <span class="gloss">ver</span>
+                            <span>:</span>
+                            <span class="gloss">sup</span>
+                            <span>-catch_up-</span>
                             <span class="gloss">s</span>
                             <span>3</span>
                             <span class="gloss">sg</span>
@@ -1831,6 +1837,8 @@
                         <td class="example-gloss">
                             <span class="gloss">s</span>
                             <span>3-think-</span>
+                            <span class="gloss">sm</span>
+                            <span>-</span>
                             <span class="gloss">s</span>
                             <span>3</span>
                             <span class="gloss">sg</span>
@@ -3509,7 +3517,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘Chelo put on (his) trousers.’</td>
+                        <td colspan="3" class="example-translation">‘Chelo put on his trousers.’</td>
                     </tr>
                 </table>
             </div>
@@ -3710,7 +3718,7 @@
                             <span class="gloss">r</span>
                             <span>-attack-</span>
                             <span class="gloss">s</span>
-                            <span>§</span>
+                            <span>3</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">pst</span>
@@ -4044,7 +4052,9 @@
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">prv</span>
-                            <span>-like-</span>
+                            <span>-</span>
+                            <span class="gloss">io</span>
+                            <span>3-like-</span>
                             <span class="gloss">s</span>
                             <span>3</span>
                             <span class="gloss">sg</span>
@@ -4222,7 +4232,7 @@
                 <table class="example" cellspacing="0">
                     <tr>
                         <td class="example-word">čelo-s</td>
-                        <td class="example-word">ku-d-Ø-a-Ø-sk'id-(u)</td>
+                        <td class="example-word">ku-d-Ø-a-sk'id-(u)</td>
                         <td class="example-word">xvale</td>
                         <td class="example-word">vit</td>
                         <td class="example-word">lar-k.</td>
@@ -4606,7 +4616,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="DAT_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>67. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/smell.html">smell</a>
@@ -4618,17 +4628,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>DAT_NOM</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: DAT</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: X</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
@@ -4673,6 +4683,9 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘My hands smell like gasoline.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
@@ -4782,7 +4795,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">nom</span>
+                            <span class="gloss">erg</span>
                         </td>
                         <td class="example-gloss">
                             <span>beautiful-(</span>
@@ -5429,6 +5442,9 @@
                     </tr>
                     <tr>
                         <td colspan="3" class="example-translation">‘Chelo understands French.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The verb is the lexicalized potential form of ‘to hear’.</td>
                     </tr>
                 </table>
             </div>
@@ -7669,7 +7685,7 @@
                             <span class="gloss">nom</span>
                         </td>
                         <td class="example-gloss">
-                            <span>plates&amp;dishes-</span>
+                            <span>dishes-</span>
                             <span class="gloss">nom</span>
                         </td>
                         <td class="example-gloss">
@@ -7689,7 +7705,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘Chelo is squamish about dirty plates&amp;dishes.’</td>
+                        <td colspan="4" class="example-translation">‘Chelo is squeamish about dirty dishes.’</td>
                     </tr>
                 </table>
             </div>
@@ -8300,7 +8316,7 @@
                         <td class="example-word">čelo-Ø</td>
                         <td class="example-word">čxe</td>
                         <td class="example-word">čai-t</td>
-                        <td class="example-word">Ø-xar-en-s</td>
+                        <td class="example-word">Ø-xar-en-s.</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -8579,7 +8595,7 @@
                         <td class="example-word">čelo-k</td>
                         <td class="example-word">anučia-s</td>
                         <td class="example-word">mangaro(t)</td>
-                        <td class="example-word">Ø-o-c'q'in-eb-ap-u</td>
+                        <td class="example-word">Ø-o-c'q'in-eb-ap-u.</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -8697,7 +8713,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="DAT_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>126. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/despise.html">despise</a>
@@ -8709,17 +8725,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>DAT_NOM</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: DAT</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: X</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
@@ -8754,10 +8770,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘Chelo despises Anuchia.’</td>
+                        <td colspan="3" class="example-translation">‘Chelo hates Anuchia.’</td>
                     </tr>
                     <tr>
-                        <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The same rendition as in (#57). However, it is this verb that etymologically corresponds to the one provided in the Georgian dataset (#126), not to the one provided in (#57),</td>
+                        <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because this translation is semantically inaccurate.</td>
                     </tr>
                 </table>
             </div>
@@ -8836,7 +8852,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Chelo got greatly upsed with his child.’</td>
+                        <td colspan="6" class="example-translation">‘Chelo got greatly upset with his child.’</td>
                     </tr>
                     <tr>
                         <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (participle). Y is part of an adjunct and its expression can vary.</td>

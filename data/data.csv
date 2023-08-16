@@ -3518,7 +3518,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 102	7	верить	s-ǯer-s (PRS)	DAT	GEN	XY	DAT_GEN	čelo-s anučia-ši s-ǯer-s.	PN-DAT PN-GEN IO3-believe-S3SG	‘Chelo believes Anuchia.’					
 102	8	взять	ge-Ø-č'op-un-s (FUT)	ERG	NOM	TR	TR	čelo-k c'ing-i ge-Ø-č'op-(u).	PN-ERG book-NOM PRV-DO3-take-(S3SG.PST)	‘Chelo took a book from the shelf.’					
 102	9	видеть	Ø-o-rc'q'-en-Ø (PRS)	NOM	DAT	Y	NOM_DAT	čelo-Ø ʔude-s Ø-o-rc'q'-e(n)-Ø.	PN-NOM house-DAT IO3-VER:SUP-see-SM-S3SG.INACT	‘Chelo sees a house.’					
-102	10	влиять	muš-i-s Ø-o-rt-u(n)-Ø (PRS)	ERG	DAT	Y	ERG_DAT	xan-i muš-i-s Ø-o-rt-u(n)-Ø gošina-s.	age-NOM REFL.POSS-B-DAT DO3-VER:N-do-SM-S3SG.INACT memory-DAT	‘Age does its thing to memory.’					
+102	10	влиять	muš-i-s Ø-o-rt-u(n)-Ø (PRS)	ERG	DAT	Y	ERG_DAT	xan-i muš-i-s Ø-o-rt-u(n)-Ø gošina-s.	age-NOM REFL.POSS-B-DAT DO3-VER:N-do-SM-S3SG.INACT memory-DAT	‘Age affects memory’ (lit. ‘Age does its thing to memory.’)					
 102	11	встречаться	še-Ø-xvad-un-Ø (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s ke-še-Ø-xvad-(u).	PN-ERG PN-DAT AFF-PRV-IO3-meet-(S3SG.PST)	‘Chelo met Anuchia.’					
 102	12	входить 	min-Ø-i-l-en-s (FUT)	ERG	ALL	Y	ERG_ALL	čelo-k ʔude-ša min-Ø-i-l-(u).	PN-ERG house-ALL PRV-S3-VER:S-go-(S3SG.PST)	‘Chelo entered the house.’					
 102	13	выиграть	m-Ø-u-g-en-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s mu-Ø-u-g-(u) šaxmat'-i-s.	PN-ERG PN-DAT PRV-IO3-VER:O-win-(S3SG.PST) chess-B-DAT	‘Chelo beat Anuchia at chess.’	This verb is a recent borrowing from Georgian.				
@@ -3526,14 +3526,14 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 102	15	гнать	mida-Ø-raʔ-an-s (FUT)	ERG	NOM	TR	TR	čelo-Ø čxou-s mindor-(i)ša mid-ma-Ø-raʔ-an-s.	PN-NOM cow-DAT field-ALL PRV-PROGR-DO3-drive-SM-S3SG	‘Chelo is driving the cow to the meadow.’					
 102	16	гнуть	mo-Ø-γirik'-an-s (FUT)	ERG	NOM	TR	TR	čelo-k t'ot'-(i) mo-Ø-γirik'-(u).	PN-ERG branch-(NOM) PRV-DO3-bend-(S3SG.PST)	‘Chelo bent the branch.’					
 102	17	говорить	Ø-u-c'-in-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s Ø-u-c'-u.	PN-ERG PN-DAT IO3-VER:O-tell-S3SG.PST	‘Chelo told Anuchia.’					
-102	18	держать	Ø-u-k'eb-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s c'ing-i xe-s Ø-u-k'eb-u(n)-Ø.	PN-ERG book-NOM hand-DAT IO3-VER:O-hold-SM-S3SG.INACT	‘Chelo is holding a book in (his) hand.’					
-102	19	догнать	gi-Ø-o-č'iš-an-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s ki-gi-Ø-o-č'iš-u.	PN-ERG PN-DAT AFF-PRV-IO3-catch_up-S3SG.PST	‘Chelo caught up with Anuchia.’					
+102	18	держать	Ø-u-k'eb-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s c'ing-i xe-s Ø-u-k'eb-u(n)-Ø.	PN-DAT book-NOM hand-DAT IO3-VER:O-hold-SM-S3SG.INACT	‘Chelo is holding a book in his hand.’					
+102	19	догнать	gi-Ø-o-č'iš-an-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s ki-gi-Ø-o-č'iš-u.	PN-ERG PN-DAT AFF-PRV-IO3-VER:SUP-catch_up-S3SG.PST	‘Chelo caught up with Anuchia.’					
 102	20	доить	Ø-č'val-un-s (PRS)	ERG	NOM	TR	TR	čelo-k čxou-Ø ge-Ø-č'val-(u).	PN-ERG cow-NOM PRV-DO3-milk-S3SG.PST	‘Chelo milked the cow.’					
 102	21	достичь	mi-Ø-o-č'irin-u-an-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k nap'ir-s ki-mi-Ø-o-č'irin-u.	PN-ERG bank-DAT AFF-PRV-IO3-reach-S3SG.PST	‘Chelo reached the bank.’					
 102	22	дотронуться	še-Ø-x-eb-un-Ø (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k k'idala-s še-Ø-e-x-u.	PN-ERG wall-DAT PRV-IO3-VER:R-touch-S3SG.PST	‘Chelo touched the wall.’	This verb is a recent borrowing from Georgian.				
 102	23	драться	Ø-o-čxup'-un-Ø (PRS)	ERG	DAT	Y	ERG_DAT	čelo-Ø anučia-s Ø-o-čxup'-u(n)-Ø.	PN-NOM PN-DAT IO3-VER:SUP-fight-SM-S3SG.INACT	‘Chelo is fighting with Anuchia.’					
 102	24	дружить	Ø-ǯima-k'oč-en-s (PRS)	ERG	SOC	Y	ERG_SOC	čelo-Ø anučia-c'k'ǝma Ø-ǯima-k'oč-en-s.	PN-NOM PN-SOC S3-brother-man-SM-S3SG	‘Chelo is friends with Anuchia.’					
-102	25	думать	Ø-p'irk-en-s (PRS)	ERG	ABL	Y	ERG_ABL	čelo-Ø anučia-še(n) Ø-pirk-en-s.	PN-NOM PN-ABL S3-think-S3SG	‘Chelo thinks about Anuchia.’					
+102	25	думать	Ø-p'irk-en-s (PRS)	ERG	ABL	Y	ERG_ABL	čelo-Ø anučia-še(n) Ø-pirk-en-s.	PN-NOM PN-ABL S3-think-SM-S3SG	‘Chelo thinks about Anuchia.’					
 102	26	есть	Ø-č'k'om-un-s (PRS)	ERG	NOM	TR	TR	čelo-k ušk'ur-(i) o-Ø-č'k'om-u.	PN-ERG apple-NOM PFV-DO3-eat-S3SG.PST	‘Chelo ate an apple.’					
 102	27	жарить	do-Ø-č'-un-s (FUT)	ERG	NOM	TR	TR	čelo-k čxom-(i) do-Ø-č'-u.	PN-ERG fish-NOM PRV-DO3-fry-S3SG.PST	‘Chelo fried the fish.’					
 102	28	ждать	Ø-e-l-un-Ø (PRS)	ERG	DAT	Y	ERG_DAT	čelo-Ø anučia-s Ø-u-c'ad-e(n)-s.	PN-NOM PN-DAT IO3-VER:O-wait-SM-S3SG	‘Chelo is waiting for Anuchia.’	This verb phrase is a recent borrowing from Georgian.				
@@ -3558,26 +3558,26 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 102	47	махать	Ø-i-rk-en-s (PRS)	ERG	NOM	TR	TR	čelo-Ø p'lat'ok'-i-s Ø-i-rk-en-s.	PN-NOM handkerchief-B-DAT DO3-VER:S-wave-SM-S3SG	‘Chelo is waiving a handkerchief.’					
 102	48	мечтать	Ø-ocneb-en-s (PRS)	ERG	ABL	Y	ERG_ABL	čelo-Ø axal mašna-še(n) Ø-ocneb-en-s.	PN-NOM new car-ABL S3-dream-SM-S3SG	‘Chelo is dreaming of a new car.’	This verb is a recent borrowing from Georgian.				
 102	49	мыть	go-Ø-rčx-un-s (FUT)	ERG	NOM	TR	TR	čelo-k č'irka-Ø go-Ø-rčx-u.	PN-ERG glass-NOM PRV-DO3-wash-S3SG.PST	‘Chelo washed the cup.’					
-102	50	надевать	m-Ø-i-dv-an-s (FUT)	ERG	NOM	TR	TR	čelo-k šarval-(i) ki-mi-Ø-i-d-u.	PN-ERG trousers-(NOM) AFF-PRV-DO3-VER:S-put-S3SG.PST	‘Chelo put on (his) trousers.’					
+102	50	надевать	m-Ø-i-dv-an-s (FUT)	ERG	NOM	TR	TR	čelo-k šarval-(i) ki-mi-Ø-i-d-u.	PN-ERG trousers-(NOM) AFF-PRV-DO3-VER:S-put-S3SG.PST	‘Chelo put on his trousers.’					
 102	51	называться	Ø-ǯox-on-Ø (PRS)	DAT	NOM	X	DAT_NOM	te mudgaren-s k'omp'as-(i) Ø-ǯox-o(n)-Ø.	DEM.PROX something-DAT compass-(NOM) IO3-be.called-SM-S3SG.INACT	‘This thing (lit. something) is called a compass.’					
 102	52	наказывать	k'in-Ø-a-nčkol-an-s (FUT)	ERG	NOM	TR	TR	čelo-k sk'ua-Ø ku-k'n-Ø-a-nčkol-(u).	PN-ERG child-DAT AFF-PRV-DO3-FACT-place-(S3SG.PST)	‘Chelo put (his) son in the corner.’					
-102	53	напасть	dud-s gi-Ø-a-ntx-ap-un-Ø (FUT)	ERG	DAT	Y	ERG_DAT	tunt-i-k mečxome-s du(d)-s gi-Ø-a-ntx-u.	bear-B-ERG fisherman-DAT REFL-DAT PRV-IO3-VER:R-attack-S§SG.PST	‘A bear attacked a fisherman.’					
+102	53	напасть	dud-s gi-Ø-a-ntx-ap-un-Ø (FUT)	ERG	DAT	Y	ERG_DAT	tunt-i-k mečxome-s du(d)-s gi-Ø-a-ntx-u.	bear-B-ERG fisherman-DAT REFL-DAT PRV-IO3-VER:R-attack-S3SG.PST	‘A bear attacked a fisherman.’					
 102	54	наполняться	ge-Ø-i-pš-ap-un-Ø (FUT)	ERG	INS	Y	ERG_INS	vedra-k c'q'ar-it ge-Ø-i-pš-(u).	bucket-ERG water-INS PRV-S3-VER:S-fill-S3SG.PST	‘The bucket filled with water.’					
 102	55	находить	Ø-ʒir-un-s (PRS)	ERG	NOM	TR	TR	čelo-k muš-(i) k'ila-Ø ko-Ø-ʒir-(u).	PN-ERG REFL.POSS-(NOM) key-NOM AFF-DO3-find-S3SG.PST	‘Chelo found his keys.’					
 102	56	недоставать	Ø-o-rk'-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s art lar-i Ø-o-rk'-u(n)-Ø.	PN-DAT one Lari-NOM IO3-VER:SUP-be_short-SM-S3SG.INACT	‘Chelo lacks one Lari.’					
 102	57	ненавидеть	Ø-ǯog-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s anučia-Ø Ø-ǯog-u(n)-Ø.	PN-DAT PN-NOM IO3-hate-SM-S3SG.INACT	‘Chelo hates Anuchia.’					
-102	58	нравиться	mo-Ø-c'on-s (PRS)	DAT	NOM	X	DAT_NOM	čelo-s te osare-Ø mo-Ø-c'on-s.	PN-DAT DEM.PROX shirt-NOM PRV-like-S3SG	‘Chelo likes this shirt.’	This verb is a recent borrowing from Georgian.				
+102	58	нравиться	mo-Ø-c'on-s (PRS)	DAT	NOM	X	DAT_NOM	čelo-s te osare-Ø mo-Ø-c'on-s.	PN-DAT DEM.PROX shirt-NOM PRV-IO3-like-S3SG	‘Chelo likes this shirt.’	This verb is a recent borrowing from Georgian.				
 102	59	нуждаться	Ø-o-sač'ir-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s para-Ø Ø-o-sač'ir-(un)-Ø.	PN-DAT money-NOM IO3-VER:SUP-need-SM-S3SG.INACT	‘Chelo needs money.’	This verb is a recent borrowing from Georgian.				
 102	60	окружать	go-Ø-ʔ-un-s (PRS)	DAT	NOM	X	DAT_NOM	noγa-s galevan-i go-Ø-ʔ-un-s=u.	town-DAT town.wall-NOM PRV-IO3-accompany-SM-S3SG=EV	‘The wall surrounds the town.’					
-102	61	оставаться	d-Ø-a-sk'id-un-Ø (FUT)	DAT	ERG	X	DAT_ERG	čelo-s ku-d-Ø-a-Ø-sk'id-(u) xvale vit lar-k.	PN-DAT AFF-PRV-IO3-VER:SUP-remain-(S3SG.PST) only ten Lari-ERG	‘Chelo has ten Laris left.’					
+102	61	оставаться	d-Ø-a-sk'id-un-Ø (FUT)	DAT	ERG	X	DAT_ERG	čelo-s ku-d-Ø-a-sk'id-(u) xvale vit lar-k.	PN-DAT AFF-PRV-IO3-VER:SUP-remain-(S3SG.PST) only ten Lari-ERG	‘Chelo has ten Laris left.’					
 102	62	отвечать	Ø-u-p'asux-en-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k ušt'el-s Ø-u-p'asux-(u).	PN-ERG teacher-DAT IO3-VER:O-answer-(S3SG.PST)	‘Chelo answered the teacher.’	This verb is a recent borrowing from Georgian.				
 102	63	открывать	go-Ø-nc'q'-un-s (FUT)	ERG	NOM	TR	TR	čelo-k bank'a-Ø go-Ø-nc'q'-u.	PN-ERG jar-NOM PRV-DO3-open-S3SG.PST	‘Chelo opened a can.’					
 102	64	отличаться	gen-Ø-sxvav-eb-un-Ø (PRS)	NOM	ABL	Y	NOM_ABL	čkim osare-Ø gen-Ø-sxvaveb-u(n)-Ø sk'an osare-še(n).	my shirt-NOM PRV-S3-be_different-SM-S3SG.INACT your.SG shirt-ABL	‘My shirt is different from your shirt.’	This verb phrase is a recent borrowing from Georgian.				
 102	65	отстать	ek'-Ø-a-sk'id-un-Ø (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s k-ek'-Ø-a-sk'id-u.	PN-ERG PN-DAT AFF-PRV-IO3-VER:R-stay-S3SG.PST	‘Chelo fell behind Anuchia.’					
 102	66	пахать	Ø-bar-un-s (PRS)	ERG	NOM	TR	TR	čelo-Ø ʔvana-s Ø-bar-un-s=u.	PN-NOM field-DAT DO3-plough-SM-S3SG=EV	‘Chelo is ploughing the field.’					
-102	67	пахнуть	šur-i Ø-u-ntx-an-s (PRS)	DAT	NOM	X	DAT_NOM	čkim xe-s benzin-iš šur-(i) Ø-u-ntx-an-s.	my hand-DAT gasoline-GEN smell-NOM IO3-VER:O-smell-SM-S3SG	‘My hands smell like gasoline.’					
+102	67	пахнуть	šur-i Ø-u-ntx-an-s (PRS)	*	*	*		čkim xe-s benzin-iš šur-(i) Ø-u-ntx-an-s.	my hand-DAT gasoline-GEN smell-NOM IO3-VER:O-smell-SM-S3SG	‘My hands smell like gasoline.’	Not included in the database because Y is expressed as an NP-internal modifier.				
 102	68	пересечь	gin-Ø-i-l-en-s (FUT)	ERG	NOM	TR	TR	čelo-k šara-Ø gin-Ø-i-l-u.	PN-ERG road-NOM PRV-DO3-VER:S-go-S3SG.PST	‘Chelo crossed the road.’					
-102	69	петь	Ø-i-bir-s (PRS)	ERG	NOM	TR	TR	čelo-k sk'vam-(i) bira-Ø k-Ø-i-bir-(u).	PN-NOM beautiful-(NOM) song-NOM AFF-S3-VER:S-sing-S3SG.PST	‘Chelo sang a beautiful song.’					
+102	69	петь	Ø-i-bir-s (PRS)	ERG	NOM	TR	TR	čelo-k sk'vam-(i) bira-Ø k-Ø-i-bir-(u).	PN-ERG beautiful-(NOM) song-NOM AFF-S3-VER:S-sing-S3SG.PST	‘Chelo sang a beautiful song.’					
 102	70	писать	do-Ø-č'ar-un-s (FUT)	ERG	NOM	TR	TR	čelo-k č'aril-(i) do-Ø-č'ar-(u).	PN-ERG letter-(NOM) PRV-DO3-write-S3SG.PST	‘Chelo wrote a letter.’					
 102	71	пить	Ø-š-un-s (PRS)	ERG	NOM	TR	TR	čelo-k bža-Ø ge-Ø-š-u.	PN-ERG milk-NOM PRV-DO3-drink-S3SG.PST	‘Chelo drank the milk.’					
 102	72	плавить	d-Ø-a-ndγul-u-an-s (FUT)	ERG	NOM	TR	TR	čelo-k t'q'via-š noč'k'er-(i) d-Ø-a-ndγul-u.	PN-ERG lead-GEN piece-(NOM) PRV-DO3-FACT-melt-S3SG.PST	‘Chelo melted a piece of lead.’					
@@ -3586,7 +3586,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 102	75	покрывать	Ø-por-un-s (PRS)	ERG	NOM	TR	TR	nox-(i) tel p'rol-s Ø-por-un-s.	carpet-NOM entire floor-DAT DO3-cover-SM-S3SG	‘The carpet covers the whole floor.’					
 102	76	помнить	Ø-š-u(n)-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s muš-(i) ʔude-Ø Ø-š-u(n)-Ø.	PN-DAT REFL.POSS-(NOM) house-NOM IO3-remember-SM-S3SG.INACT	‘Chelo remembers his house.’					
 102	77	помочь	Ø-o-xvar-un-Ø (PRS)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s m-Ø-e-xvar-(u).	PN-ERG PN-DAT PRV-IO3-VER:R-help-S3SG.PST	‘Chelo helped Anuchia.’	This verb is a recent borrowing from Georgian.				
-102	78	понимать	Ø-a-rčkil-en-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s prangul-(i) Ø-a-rčkil-e(n)-Ø.	PN-DAT French-(NOM) IO3-POT-hear-POT-S3SG.INACT	‘Chelo understands French.’					
+102	78	понимать	Ø-a-rčkil-en-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s prangul-(i) Ø-a-rčkil-e(n)-Ø.	PN-DAT French-(NOM) IO3-POT-hear-POT-S3SG.INACT	‘Chelo understands French.’	The verb is the lexicalized potential form of ‘to hear’.				
 102	79	попасть	gi-Ø-a-ntx-ap-un-Ø (FUT)	ERG	DAT	Y	ERG_DAT	elva-k ʔude-s ki-gi-Ø-a-ntx-u.	lightning-ERG house-DAT AFF-PRV-IO3-VER:R-fall-S3SG.PST	‘Lightning hit the house.’					
 102	80	порезаться	g-Ø-i-č'k'ir-un-s (FUT)	ERG	INS	Y	ERG_INS	čelo-k brit'va-t(i) g-Ø-i-č'k'ir-u.	PN-ERG razor-INS PRV-DO3-VER:S-cut-S3SG.PST	‘Chelo cut himself with a razor.’					
 102	81	прилипать	gi-Ø-a-č'ab-un-Ø (FUT)	ERG	DAT	Y	ERG_DAT	č'irka-k st'ol-s ki-gi-Ø-a-č'ab-u.	glass-ERG table-DAT AFF-PRV-IO3-VER:R-glue-S3SG.PST	‘The glass got stuck to the table.’					
@@ -3619,7 +3619,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 102	108	читать	Ø-k'itxul-en-s (PRS)	ERG	NOM	TR	TR	čelo-k saint'ereso c'ing-i c'-Ø-e-k'itx-(u).	PN-ERG interesting book-NOM PRV-DO3-VER:S-read-S3SG.PST	‘Chelo read an interesting book.’	This verb is a recent borrowing from Georgian.				
 102	109	шевелить	Ø-u-kanc-u-an-s (PRS)	ERG	DAT	Y	ERG_DAT	čelo-k k'it'-i-s ku-d-Ø-u-kanc-u.	PN-ERG finger-B-DAT AFF-PRV-IO3-VER:O-move-S3SG.PST	‘Chelo moved his finger.’	See #1.				
 102	110	уважать	p'at'-s s-c-en-s (PRS)	ERG	DAT	Y	ERG_DAT	čelo-Ø anučia-s p'at'-s s-c-en-s.	PN-NOM PN-DAT respect-DAT IO3-give-SM-S3SG	‘Chelo respects Anuchia.’	This verb phrase is a recent borrowing from Georgian.				
-102	111	брезговать	Ø-o-c'ic'k'-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s c'ik'vil-i p'asuda-Ø Ø-o-c'ic'k'-u(n)-Ø.	PN-DAT dirty-NOM plates&dishes-NOM IO3-VER:SUP-be_squeamish-SM-S3SG.INACT	‘Chelo is squamish about dirty plates&dishes.’					
+102	111	брезговать	Ø-o-c'ic'k'-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s c'ik'vil-i p'asuda-Ø Ø-o-c'ic'k'-u(n)-Ø.	PN-DAT dirty-NOM dishes-NOM IO3-VER:SUP-be_squeamish-SM-S3SG.INACT	‘Chelo is squeamish about dirty dishes.’					
 102	112	быть довольным	k'maq'opil-i Ø-o-r-en-Ø (PRS)	NOM	INS	Y	NOM_INS	čelo-Ø k'maq'opil-(i) Ø-(o)-r-e(n)-Ø muš sk'ua-t(i).	PN-NOM satisfied-(NOM) S3-(VER:SUP)-be-SM-S3SG.INACT REFL.POSS child-INS	‘Chelo is content with his child.’	Non-verbal predicate (participle). Y is part of an adjunct. The verb phrase is a recent borrowing from Georgian.				
 102	113	влюбляться	Ø-e-ʔor-op-eb-un-Ø (PRS)	DAT	ERG	X	DAT_ERG	čelo-s anučia-k k-Ø-e-ʔor-op-u.	PN-DAT PN-ERG AFF-IO3-VER:R-love-R.EXT-S3SG.PST	‘Chelo fell in love with Anuchia.’					
 102	114	доверять	Ø-o-nd-un-Ø (PRS)	ERG	DAT	Y	ERG_DAT	čelo-Ø anučia-s Ø-o-nd-u(n)-Ø.	PN-NOM PN-DAT IO3-VER:SUP-trust-SM-S3SG.INACT	‘Chelo trusts Anuchia.’	This verb phrase is a recent calque of the Georgian original.				
@@ -3628,14 +3628,14 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 102	117	злиться	Ø-a-nč'q'or-u-ap-un-Ø (PRS)	ERG	DAT	Y	ERG_DAT	čelo-Ø anučia-s Ø-a-nč'q'or-u-ap-u(n)-Ø.	PN-NOM PN-DAT IO3-VER:R-be_angry-R.EXT-CAUS-SM-S3SG.INACT	‘Chelo is angry with Anuchia.’					
 102	118	удивляться	g-Ø-u-k'vird-un-Ø (FUT)	DAT	ERG	X	DAT_ERG	čelo-s te sačukar-k g-Ø-u-k'vird-(u).	PN-DAT DEM.PROX gift-ERG PRV-IO3-VER:O-get_surprised-S3SG.PST	‘Chelo got surprised at this gift.’	This verb is a recent borrowing from Georgian.				
 102	119	любить-2	Ø-u-ʔor-s (PRS)	DAT	NOM	X	DAT_NOM	čelo-s čai-Ø Ø-u-ʔor-s.	PN-DAT tea-NOM IO3-VER:O-love-S3SG	‘Chelo loves tea.’					
-102	120	наслаждаться	Ø-xar-en-s (PRS)	NOM	INS	Y	NOM_INS	čelo-Ø čxe čai-t Ø-xar-en-s	PN-NOM hot tea-INS S3-rejoice-SM-S3SG	‘Chelo enjoys hot tea.’					
+102	120	наслаждаться	Ø-xar-en-s (PRS)	NOM	INS	Y	NOM_INS	čelo-Ø čxe čai-t Ø-xar-en-s.	PN-NOM hot tea-INS S3-rejoice-SM-S3SG	‘Chelo enjoys hot tea.’					
 102	121	хотеть	Ø-o-k'-on-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s Ø-o-k'-o(n)-Ø axal-(i) t'elepon-i.	PN-DAT IO3-VER:SUP-want-SM-S3SG.INACT new-(NOM) telephone-NOM	‘Chelo want a new phone.’					
 102	122	сердиться	gurmulir-i Ø-o-r-en-Ø (PRS)	NOM	ABL	Y	NOM_ABL	čelo-Ø anučia-še(n) Ø-(o)-r-e(n)-Ø gur-mulir-(i).	PN-NOM PN-ABL S3-(VER:SUP)-be-SM-S3SG.INACT heart-come-(NOM)	‘Chelo has a grudge against Anuchia.’	Non-verbal predicate (participle).				
 102	123	обижаться	Ø-a-nč'q'or-un-Ø (PRS)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s ga-Ø-a-nč'q'or-(u).	PN-ERG PN-DAT PRV-IO3-VER:R-take_offence-S3SG.PST	‘Chelo took offence at Anuchia.’					
-102	124	огорчать	Ø-o-c'q'in-eb-apu-an-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s mangaro(t) Ø-o-c'q'in-eb-ap-u	PN-ERG PN-DAT greatly IO3-CAUS-upset-R.EXT-CAUS-S3SG.PST	‘Chelo greatly upset Anuchia.’					
+102	124	огорчать	Ø-o-c'q'in-eb-apu-an-s (FUT)	ERG	DAT	Y	ERG_DAT	čelo-k anučia-s mangaro(t) Ø-o-c'q'in-eb-ap-u.	PN-ERG PN-DAT greatly IO3-CAUS-upset-R.EXT-CAUS-S3SG.PST	‘Chelo greatly upset Anuchia.’					
 102	125	поражаться	č'k'ua-še(n) gin-Ø-i-l-en-s (FUT)	ERG	INS	Y	ERG_INS	čelo-k č'k'ua-še(n) gin-Ø-i-l-u te noγa-t(i).	PN-ERG wit-ABL PRV-S3-VER:S-go-S3SG.PST DEM.PROX town-INS	‘Chelo got crazy about this town.’					
-102	126	презирать	Ø-ǯog-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s anučia-Ø Ø-ǯog-u(n)-Ø.	PN-DAT PN-NOM IO3-hate-SM-S3SG.INACT	‘Chelo despises Anuchia.’	The same rendition as in (#57). However, it is this verb that etymologically corresponds to the one provided in the Georgian dataset (#126), not to the one provided in (#57),				
-102	127	огорчаться	gonč'q'orel-i Ø-sk'id-un-Ø (PRS)	ERG	ABL	Y	ERG_ABL	čelo-k mangar gorč'q'orel-k ku-do-Ø-sk'id-(u) muš sk'ua-še(n).	PN-ERG great upset-ERG AFF-PRV-S3-remain-S3SG.PST REFL.POSS child-ABL	‘Chelo got greatly upsed with his child.’	Non-verbal predicate (participle). Y is part of an adjunct and its expression can vary.				
+102	126	презирать	Ø-ǯog-un-Ø (PRS)	*	*	*		čelo-s anučia-Ø Ø-ǯog-u(n)-Ø.	PN-DAT PN-NOM IO3-hate-SM-S3SG.INACT	‘Chelo hates Anuchia.’	Not included in the database because this translation is semantically inaccurate.				
+102	127	огорчаться	gonč'q'orel-i Ø-sk'id-un-Ø (PRS)	ERG	ABL	Y	ERG_ABL	čelo-k mangar gorč'q'orel-k ku-do-Ø-sk'id-(u) muš sk'ua-še(n).	PN-ERG great upset-ERG AFF-PRV-S3-remain-S3SG.PST REFL.POSS child-ABL	‘Chelo got greatly upset with his child.’	Non-verbal predicate (participle). Y is part of an adjunct and its expression can vary.				
 102	128	раздражаться	Ø-o-γizian-un-Ø (PRS)	ERG	ABL	Y	ERG_ABL	čelo-Ø Ø-o-γizian-u(n)-Ø muš osursk'ua-še(n).	PN-NOM S3-VER:SUP-annoy-SM-S3SG.INACT REFL.POSS daughter-ABL	‘Chelo is getting irritatated with his daughter.’	This verb is a recent borrowing from Georgian.				
 102	129	симпатизировать	Ø-o-simp'at'ior-un-Ø (PRS)	DAT	NOM	X	DAT_NOM	čelo-s anučia-Ø Ø-o-simp'at'iur-u(n)-Ø.	PN-DAT PN-NOM IO3-VER:SUP-be_fond-SM-S3SG.INACT	‘Chelo is fond of Anuchia.’	This verb is a recent borrowing from Georgian.				
 102	130	стесняться	Ø-o-onǯγor-un-Ø (PRS)	DAT	GEN	XY	DAT_GEN	čelo-s muš-i simaγle-ši Ø-o-onǯγor-u(n)-Ø.	PN-DAT REFL.POSS-B height-GEN IO3-VER:SUP-be_ashamed-SM-S3SG.INACT	‘Chelo is shy about his height.’					
