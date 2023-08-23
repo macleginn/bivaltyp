@@ -2,6 +2,9 @@
 Contributed by Martin Gális & [Kirill Kozhanov](https://www.uni-potsdam.de/de/slavische-linguistik/team/kirill-kozhanov) 
 ([Academia.edu profile](https://wipcad-potsdam.academia.edu/KirillKozhanov))
 
+![M.G.'s photo]({{ site_url_j }}/images/Galis.jpg "M.G.'s photo")
+![K.K.'s photo]({{ site_url_j }}/images/Kozhanov.jpg "K.K.'s photo")
+
 The dataset was put together in 2023 by Martin Gális (native speaker of Slovak) and Kirill Kozhanov. The English version of the questionnaire was used for elicitation. 
 
 ## How to cite
