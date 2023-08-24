@@ -21,9 +21,9 @@ The data were initially obtained in 2011 (and then revised in 2023) by Alexander
 
 ### Basic clause structure and the transitive construction
 
-Valency classes of Georgian verbs are primarily defined by their case frames. However, many Georgian verbs, including all transitive verbs, display the so-called “case shift”: a phenomenon whereby the case marking of arguments depends on the verb’s TAM form. Georgian TAM forms group into so-called “series”, where Series I is present/future, Series II is aorist/optative; and Series III is perfect/pluperfect. Case marking in verbs that undergo case shift is summarized in Table 1.
+Valency classes of Georgian verbs are primarily defined by their case frames. However, many Georgian verbs, including all transitive verbs, display the so-called “case-shift”: a phenomenon whereby the case marking of arguments depends on the verb’s TAM form. Georgian TAM forms group into so-called “series”, where Series I is present/future, Series II is aorist/optative; and Series III is perfect/pluperfect. Case marking in verbs that undergo case-shift is summarized in Table 1.
 
-Table 1. Verbs with case shift: case marking in the three series
+Table 1. Verbs with case-shift: case marking in the three series
 
 <div class="before-table"></div>
 
@@ -35,7 +35,7 @@ Table 1. Verbs with case shift: case marking in the three series
 
 (i) OBL stands here for “oblique” and covers Benefactive and Sociative (and Allative in some dialects).
 
-For purposes of the dataset below, the verb is considered transitive if and only if displays case shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” correspondingly, even if the actual sentence happens to belong to Series I, where we observe no ergative case-marking (Series III forms are not found in the questionnaire below). For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
+For the purposes of the dataset below, the verb is considered transitive if and only if it displays case-shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” correspondingly, even if the actual sentence happens to belong to Series I, where we observe no ergative case-marking (Series III forms are not found in the questionnaire below). For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
 
 ```
 
@@ -59,7 +59,7 @@ Thus, the labels used in the annotation of transitive verbs correspond to the ac
 
 ```
 
-The distinction between verbs with and without case-shift is part of the traditional four-way classification of Georgian verbs that is based on the morphological and morphosyntactic properties, whereby verbs with case shift belong to Classes I and III, see [Rostovtsev-Popiel (2016)](https://bivaltyp.info/docs/Rostovtsev_Popiel_2016_Argumentstruktur.pdf) for further details. The verbs in Class II, as in (4), display nominative subjects across all series, and the verbs in Class IV, as in (5), display dative subjects across all series.
+The distinction between verbs with and without case-shift is part of the traditional four-way classification of Georgian verbs that is based on the morphological and morphosyntactic properties, whereby verbs with case-shift belong to Classes I and III, see [Rostovtsev-Popiel (2016)](https://bivaltyp.info/docs/Rostovtsev_Popiel_2016_Argumentstruktur.pdf) for further details. The verbs in Class II, as in (4), display nominative subjects across all series, and the verbs in Class IV, as in (5), display dative subjects across all series.
 
 ```
 
