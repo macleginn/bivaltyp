@@ -58,7 +58,7 @@ Thus, the labels used in the annotation of transitive verbs correspond to the ac
 
 ```
 
-The case-shift scheme represented in Table 1 above is only a part of the complex system that relates verbs classes, TAM-forms and case frames in Mingrelian. For an overview of further details, see (Rostovtsev-Popiel 2023), especially Table 8.1 there.
+The case-shift scheme represented in Table 1 above is only a part of the complex system that relates verbs classes, TAME-forms and case frames in Mingrelian. For an overview of further details, see (Rostovtsev-Popiel 2023), especially Table 8.1 there.
 
 ### Case system
 
