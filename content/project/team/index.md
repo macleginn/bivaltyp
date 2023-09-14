@@ -73,6 +73,7 @@ Martin Gális, Kirill Kozhanov: {{ language:Slovak }}
 Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}, {{ language:Tsakhur }}  
 Wakweya Gobena:  {{ language:Oromo_West_Central }}  
 Elena Gorbova: {{ language:Spanish }}  
+Irene Gorbunova, Yurij Chernov:  {{ language:Khwarshi }}  
 Olga Gorickaja: {{ language:Belarusian }}  
 Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}  
 Ildar Ibragimov: {{ language:Greek_Ancient }}  
