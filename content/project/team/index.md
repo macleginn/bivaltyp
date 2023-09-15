@@ -4,7 +4,7 @@
 
 ![S.S.'s photo]({{ site_url_j }}/images/Say.jpg "S.S.'s photo")
 
-[Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/SergeySay)): PhD, Head of the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences.
+[Sergey Say](https://www.uni-potsdam.de/de/slavische-linguistik/team/dr-sergey-say) ([Academia.edu profile](https://uni-potsdam.academia.edu/SergeySay)): associated member of the Collaborative Research Centre 1287 — Limits of Variability in Language: Cognitive, Computational, and Grammatical Aspects (SFB 1287), University of Potsdam.
 E-mail: (serjozhka /at/ yahoo /dot/ com)
 
 ### Technical team
