@@ -1,6 +1,6 @@
 # {{ language_external }}
 
-Contributed by [Michael Daniel](https://www.hse.ru/en/staff/michael_daniel) ([Academia.edu profile](https://hse-ru.academia.edu/MichaelDaniel)), [Anastasia Fedorenko](https://www.hse.ru/org/persons/210290817
+Contributed by [Michael Daniel](https://mishadaniel.github.io/) ([Academia.edu profile](https://hse-ru.academia.edu/MichaelDaniel)), [Anastasia Fedorenko](https://www.hse.ru/org/persons/210290817
 ), and [Stepan Mikhailov](https://www.hse.ru/staff/sm) ([Academia.edu profile](https://scopus.academia.edu/StepanMikhailov))
 
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
