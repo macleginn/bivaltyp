@@ -2,6 +2,7 @@
 Contributed by [Michael Daniel](https://mishadaniel.github.io/) ([Academia.edu profile](https://hse-ru.academia.edu/MichaelDaniel)), Tagir Gadzhiakhmedov and [Natalia Logvinova](https://iling.spb.ru/persons/logvinova-natalya-nikolaevna) ([Academia.edu profile](https://independent.academia.edu/NLogvinova), [GoogleScholar profile](https://scholar.google.com/citations?user=5gh5RK8AAAAJ&hl=de)). 
 
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
+![T.G.'s photo]({{ site_url_j }}/images/Gadzhiakhmedov.jpg "M.D.'s photo")
 ![N.L.'s photo]({{ site_url_j }}/images/Logvinova.jpg "M.D.'s photo")
 
 The data were gathered in 2023 in Semey, Kazakhstan. The Russian version of the questionnaire was used for elicitation.
