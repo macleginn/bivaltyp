@@ -67,8 +67,8 @@ The distinction between verbs with and without case-shift is part of the traditi
      PN-NOM     PN-DAT  IO3-VER:R-flatter-SM-S3SG.INACT
      ‘Petre is flattering Masho.’ (#45)
 
-(5)  p'etre-s  grip'-i  Ø-a-kv-s
-     PN-DAT    flu-NOM  IO3-VER:SUP-have-S3SG
+(5)  p'et're-s  grip'-i  Ø-a-kv-s
+     PN-DAT     flu-NOM  IO3-VER:SUP-have-S3SG
      ‘Petre has the flu.’ (#2)
 
 ```
