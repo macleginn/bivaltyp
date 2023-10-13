@@ -58,6 +58,7 @@ Mansour Amadeh: {{ language:Kurdish_Sorani }}
 Ekaterina Aplonova: {{ language:Goo }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe }}  
+Gilles Authier: {{ language:Rutul_Southern }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
@@ -114,7 +115,7 @@ Krasimira Petrova: {{ language:Bulgarian }}
 Inna Popova: {{ language:Latin }}  
 Maria Pupynina: {{ language:Chukchi }}  
 Neige Rochant: {{ language:Andi_Zilo }}  
-Alexander Rostovtsev-Popiel: {{ language:Georgian }},  {{ language:Laz }},  {{ language:Mingrelian }}  
+Alexander Rostovtsev-Popiel: {{ language:Georgian }},  {{ language:Laz }},  {{ language:Mingrelian }},   {{ language:Svan }}  
 Daria Ryzhova: {{ language:Khanty_Kazym }}  
 Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}  
 Ekaterina Sergeeva: {{ language:Komi_Zyrian }}  
