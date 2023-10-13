@@ -3,7 +3,7 @@ Contributed by Alexander Rostovtsev-Popiel ([Academia.edu profile](https://uni-m
 
 ![A.P.'s photo]({{ site_url_j }}/images/Rostovtsev-Popiel.jpg "A.P.'s photo")
 
-The data were gathered in 2023. The language of elicitation was Gergian (and, in some cases, Turkish).
+The data were gathered in 2023. The language of elicitation was German (and, in some cases, Turkish).
 
 ## How to cite
 > Rostovtsev-Popiel, Alexander. 2023. Bivalent patterns in {{ language_external }}. 
