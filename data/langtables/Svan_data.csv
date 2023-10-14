@@ -105,7 +105,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 107	Svan	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		NOM	INESS	Y	NOM_INESS	This verb usually requires an animate subject and can also read as ‘choke.’	cicw-Ø lic-isga č-äd-Ø-q'im-äːn	cat-NOM water-INESS PRV:DOWNWARD-PRV:DIST-S3-drown-PST	‘The cat drowned in the water.’			kinišk'vidu, dišk'vidu - adamianze
 107	Svan	105	kill	X (kill) Y	убивать	X (убивать) Y-а		ERG	NOM	TR	TR		maizer-d gegi-Ø ad-Ø-gäːr	PN-ERG PN-NOM PRV:DIST-DO3-kill.PST	‘Maizer killed Gegi.’			
 107	Svan	106	hit	X (hit) Y	ударить	X (ударять) Y-а		ERG	DAT	Y	ERG_DAT		maizer-d gegi-s ši-Ø x-a-qid	PN-ERG PN-DAT hand-NOM IO3-VER:SUP-hit	‘Maizer hit Gegi with (his) hand.’			
-107	Svan	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	DAT	Y	ERG_DAT		maizer-Ø lile-s xaq'ba-ži lä-x-qax-äːn	PN-NOM PN-DAT cheek-SUPERESS PRV:SLIGHTLY-IO3-kiss-PST	‘Maizer kissed Lile on (her) cheek.’			
+107	Svan	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		NOM	DAT	Y	NOM_DAT		maizer-Ø lile-s xaq'ba-ži lä-x-qax-äːn	PN-NOM PN-DAT cheek-SUPERESS PRV:SLIGHTLY-IO3-kiss-PST	‘Maizer kissed Lile on (her) cheek.’			
 107	Svan	108	read	X (read) Y	читать	X (читать) Y-а		ERG	NOM	TR	TR		maizer-d saint'ereso lǝir-Ø ad-Ø-č'odaːn-e	PN-ERG interesting book-NOM PRV:DIST-DO3-read-PST	‘Maizer read an interesting book.’			
 107	Svan	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		ERG	NOM	TR	TR		maizer-d pxule-Ø ad-Ø-k'utwn-e	PN-ERG finger-NOM PRV:DIST-DO3-move-PST	‘Maizer moved his finger.’			kuduxvarxvalu (odnav), šearxiasavito
 107	Svan	110	respect	X (respect) Y	уважать	X (уважать) Y-а		ERG	NOM	TR	TR		maizer-Ø lile-s a-l-gwen-i	PN-NOM PN-DAT PRV:DIST-S3-value-PRS	‘Maizer respects Lile (lit. ‘Maizer values Lile’).’			
