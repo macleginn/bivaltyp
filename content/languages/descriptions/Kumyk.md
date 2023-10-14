@@ -5,7 +5,7 @@ Contributed by [Michael Daniel](https://mishadaniel.github.io/) ([Academia.edu p
 ![T.G.'s photo]({{ site_url_j }}/images/Gadzhiakhmedov.jpg "M.D.'s photo")
 ![N.L.'s photo]({{ site_url_j }}/images/Logvinova.jpg "M.D.'s photo")
 
-The data were gathered in 2023 in Semey, Kazakhstan. The Russian version of the questionnaire was used for elicitation.
+The data were gathered in 2023. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Daniel, Michael, Tagir Gadzhiakhmedov and Natalia Logvinova. 2023. Bivalent patterns in {{ language_external }}. 
