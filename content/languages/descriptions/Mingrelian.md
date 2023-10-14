@@ -42,8 +42,8 @@ For the purposes of the dataset below, the verb is considered transitive if and 
      PN-NOM  field-DAT  DO3-plough-SM-S3SG=EV
      ‘Chelo is ploughing the field.’
 
-(2)  čelo-k  c'ing-i   ge-Ø-č'op-(u)
-     PN-ERG  book-NOM  PRV-DO3-take-(S3SG.PST)
+(2)  čelo-k  c'ing-i   ge-gl-Ø-i-γ-u
+     PN-ERG  book-NOM  PFV-PRV-DO3-VER:S-take-S3SG.PST
      ‘Chelo took a book.’
 
 ```
