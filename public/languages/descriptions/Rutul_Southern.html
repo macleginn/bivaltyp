@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>BivalTyp</title>
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.bivaltyp.info/icons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.bivaltyp.info/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.bivaltyp.info/icons/favicon-16x16.png">
+        <link rel="manifest" href="https://www.bivaltyp.info/icons/site.webmanifest">
+
+        <link rel="stylesheet" href="https://www.bivaltyp.info/css/style.css">
+
+        <!-- dataframe-js -->
+        <script src="https://www.bivaltyp.info/js/dataframejs/dataframe.min.js"></script>
+
+        <!-- Handsontable -->
+        <script src="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://www.bivaltyp.info/js/handsontable/handsontable.full.min.css">
+
+        <!-- Load data -->
+        <script src="https://www.bivaltyp.info/js/data/languages.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/predicates.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/patterns.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/full.js"></script>
+        <script src="https://www.bivaltyp.info/js/data/structural.js"></script>
+
+        <!-- Misc JavaScript -->
+        <script src="https://www.bivaltyp.info/js/misc.js"></script>
+
+    </head>
+<body>
+<div id="title-div">
+    <div>
+        <h1><a href="https://www.bivaltyp.info" style="text-decoration: none; color: black;">BivalTyp</a></h1>
+    </div>
+    <div>
+        <a href="https://iling.spb.ru/departements/typology/about.html.ru"><img src="https://www.bivaltyp.info/images/LTIJa.png"
+                alt="Лаборатория типологического изучения языков"></a>
+        &nbsp;&nbsp;
+        <a href="https://iling.spb.ru/index.html.ru"><img src="https://www.bivaltyp.info/images/ili.png"
+                alt="Институт лингвистических исследований РАН"></a>
+    </div>
+    <!-- <div>
+    </div> -->
+</div>
+<div id="menu">
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info">
+            <div class="menu-button">Home</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="project-submenu-button">Project ↓</div>
+        <div class="submenu" id="project-submenu">
+            <a href="https://www.bivaltyp.info/project/description/">
+                <div class="menu-button">Project description</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/questionnaire/">
+                <div class="menu-button">Questionnaire</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/instructions/">
+                <div class="menu-button">Instructions for&nbsp;contributors</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/team/">
+                <div class="menu-button">Team</div>
+            </a>
+            <a href="https://www.bivaltyp.info/project/publications/">
+                <div class="menu-button">Publications</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/howtoreadthedata/">
+            <div class="menu-button">How to read the data</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="languages-submenu-button">Languages ↓</div>
+        <div class="submenu" id="languages-submenu">
+            <a href="https://www.bivaltyp.info/languages/listview/">
+                <div class="menu-button">List view</div>
+            </a>
+            <a href="https://www.bivaltyp.info/languages/mapview/">
+                <div class="menu-button">Map view</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/predicates/">
+            <div class="menu-button">Predicates</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <div class="menu-button" id="data-submenu-button">Data overview ↓</div>
+        <div class="submenu" id="data-submenu">
+            <a href="https://www.bivaltyp.info/data/patterns/">
+                <div class="menu-button">Patterns overview</div>
+            </a>
+            <a href="https://www.bivaltyp.info/data/all/">
+                <div class="menu-button">Data in one spreadsheet</div>
+            </a>
+        </div>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/data/maps/">
+            <div class="menu-button">Maps</div>
+        </a>
+    </div>
+    <div class="menu-element">
+        <a href="https://www.bivaltyp.info/download/">
+            <div class="menu-button">Download</div>
+        </a>
+    </div>
+</div>
+<script>
+    // Hide any submenu when the user clicks outside of it.
+    window.onclick = (e) => {
+        let submenus = document.querySelectorAll('.submenu');
+        for (let submenu of submenus) {
+            submenu.style.display = 'none';
+        }
+    }
+</script>
+<div id="main"><h1>Southern Rutul</h1>
+
+<p>Contributed by <a href="https://www.ephe.psl.eu/gilles-authier">Gilles Authier</a> (<a href="https://ephe.academia.edu/GillesAuthier">Academia.edu profile</a>)</p>
+
+<p><img src="https://www.bivaltyp.info/images/Authier_Pashaev.jpg" alt="G.A.'s photo" title="G.A.'s photo" /></p>
+
+<p>The data were collected in 2023 using the Russian version of the questionnaire. Aydin Pashayev, pictured above together with Gilles Authier, translated the questionnaire sentences in his capacity of a native speaker.</p>
+
+<h2>How to cite</h2>
+
+<blockquote>
+  <p>Authier, Gilles. 2023. Bivalent patterns in Southern Rutul. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on October 13, 2023; last revised on October 13, 2023.) (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, Accessed on <span id="today"></span>.)</p>
+</blockquote>
+
+<h2>Basic info</h2>
+
+<ul>
+<li>Coordinates: <a href="https://www.bivaltyp.info/languages/mapview/">41.45, 47.32</a>.</li>
+<li>Genealogy (as given in <a href="https://wals.info/">WALS</a>). Family: Nakh-Daghestanian, genus: Lezgic.</li>
+<li>Macro-area: West Asia and the Caucasus.</li>
+</ul>
+
+<p>The data come from the Southern dialect of Rutul, sometimes referred to as the dialect of Shina-Borch.</p>
+
+<h2>Data</h2>
+
+<div id="sentences">
+    <div>
+        <div style="display: inline-block; width: 200px;">
+            <span>Subset examples by valency pattern</span>
+            <select id="valpal-select">
+                <option value="any">Any</option>
+            </select>
+        </div>
+        <div style="display: inline-block; width: 200px;">
+            <span>Subset examples by locus</span>
+            <select id="locus-select">
+                <option value="any">Any</option>
+            </select>
+        </div>
+    </div>
+    <p id="stats"/>
+</div>
+
+</div>
+<div id="error-link-div">Please report any errors in the data <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYU88YCezA3zgDpkR_8XmEJdmodMSRNWmsZRmwNtXskujbrA/viewform" target="_blank">here</a>.
+<script>
+function hide(element) {
+    element.style.display = 'none';
+}
+
+function show(element) {
+    element.style.display = 'block';
+}
+
+function filterExamples() {
+    const valpalFilter = document.getElementById('valpal-select').value,
+        locusFilter = document.getElementById('locus-select').value;
+
+    let examples = document.querySelectorAll('div[data-valpal]'),
+        count = 0;
+    for (const ex of examples) {
+        if (valpalFilter !== 'any' && ex.dataset.valpal !== valpalFilter) {
+            hide(ex)
+            continue;
+        }
+        if (locusFilter !== 'any' && ex.dataset.locus !== locusFilter) {
+            hide(ex);
+            continue;
+        }
+        count++;
+        show(ex);
+    }
+    if (count === 1)
+        document.getElementById('stats').innerText = `${count} predicate selected.`;
+    else
+        document.getElementById('stats').innerText = `${count} predicates selected.`;
+}
+
+function filterExamplesByLocus(locus) {
+    let examples;
+    if (locus === 'any') {
+        examples = document.querySelectorAll('div[data-locus]');
+        for (const ex of examples)
+            ex.style.display = 'block';
+    }
+    else {
+        examples = document.querySelectorAll(
+            `[data-locus="${locus}"]`
+        );
+        for (const ex of examples)
+            ex.style.display = 'block';
+        examples = document.querySelectorAll(
+            `[data-locus]:not([data-locus="${locus}"])`
+        );
+        for (const ex of examples)
+            ex.style.display = 'none';
+    }
+}
+
+document
+    .getElementById('valpal-select')
+    .addEventListener('change', e => {
+        filterExamples();
+});
+
+document
+    .getElementById('locus-select')
+    .addEventListener('change', e => {
+        filterExamples();
+});
+</script>
+
+</body>
+</html>
+
