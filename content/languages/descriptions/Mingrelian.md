@@ -3,7 +3,7 @@ Contributed by Alexander Rostovtsev-Popiel ([Academia.edu profile](https://uni-m
 
 ![A.P.'s photo]({{ site_url_j }}/images/Rostovtsev-Popiel.jpg "A.P.'s photo")
 
-The data were gathered in 2023 from the following consultants: Zurab Apakiʒe (primary), K’onst’ant’ine Nač’q’ebia, Iza Nač’q’ebia, Raisa Pircxelava, Beniamin Ǯobava (all from Čxoroc’q’u). The language of elicitation was English with the primary consultant and Georgian with the rest.
+The data were gathered in 2023 from the following consultants: Zurab Apakiʒe (primary), K’onst’ant’ine Nač’q’ebia, Iza Nač’q’ebia, Raisa Pircxelava, Beniamin Ǯobava (all from Čxoroc’q’u). The language of elicitation was English with the primary consultant and Georgian with the rest. Many thanks go to Merab Čuxua (Chukhua) for his invaluable comments on Megrelian lexis.
 
 ## How to cite
 > Rostovtsev-Popiel, Alexander. 2023. Bivalent patterns in {{ language_external }}. 
