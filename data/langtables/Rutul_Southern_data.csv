@@ -66,7 +66,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 108	Rutul_Southern	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		NOM	EL	Y	NOM_EL		murad aydın-ııla yıˤq'aˤ-de arkı-r	PN PN-SUPEREL middle_back.OBL-AD M.remain.PF-INDIC	‘Murad fell behind Aydin.’			
 108	Rutul_Southern	66	plough	X (plough) Y	пахать	X (пахать) Y		ERG	NOM	TR	TR		murad-a gurux laˤyıˤrxaˤ-r	PN-ERG orchard N.till.IPF-INDIC	‘Murad is tilling the orchard.’			
 108	Rutul_Southern	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*		Not included in the database because Y is expressed as an NP-internal modifier.	xıl-amı-kla benzin-e-d il aˤğuˤ-r	hand-PL.OBL-CONTEL gas-OBL-N smell (M)go.IPF-INDIC	‘The hands smell of gasoline.’			
-108	Rutul_Southern	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		NOM	ATTRcina7ane		NOM_ATTRcina7ane		murad rıˤqhdi çin-aʔane faˤğaˤç'uˤ-r	PN road.ATTR DIST-DIR (M)pass.IPF-INDIC	‘Murad crossed the road.’			
+108	Rutul_Southern	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		NOM	ATTRcina7ane	Y	NOM_ATTRcina7ane		murad rıˤqhdi çin-aʔane faˤğaˤç'uˤ-r	PN road.ATTR DIST-DIR (M)pass.IPF-INDIC	‘Murad crossed the road.’			
 108	Rutul_Southern	69	sing	X (sing) Y	петь	X (петь) Y		ERG	NOM	TR	TR		murad-a sa xvaş-id ç'al-bı huxhu-r	PN-ERG one nice-ATTR word-PL.NOM N.say.PF-INDIC	‘Murad sang a beautiful song.’			
 108	Rutul_Southern	70	write	X (write) Y	писать	X (писать) Y		ERG	NOM	TR	TR		murad-a mektub kixhi-r	PN-ERG letter (N)write.PF-INDIC	‘Murad wrote a letter.’			
 108	Rutul_Southern	71	drink	X (drink) Y	пить	X (пить) Y		ERG	NOM	TR	TR		murad-a naˤk vaˤraˤğıˤ-r	PN-ERG milk(A) A.drink.PF-INDIC	‘Murad drank the milk.’			
