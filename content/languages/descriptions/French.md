@@ -33,7 +33,7 @@ French displays the nominative-accusative alignment. Nominal core arguments (A, 
 
 ```
 
-Nominal arguments other than A, S and O are flagged by prepositions. Subjects (A and S) are indexed on the verbs. In some contexts, participles in analytic constructions also signal the number and gender of the direct object. 
+Nominal arguments other than A, S and O are flagged by prepositions. Subjects (A and S) are indexed on the verbs. In some contexts, participles in analytic constructions also signal the gender (orthographically, also the number) of the direct object. 
 
 ### Case system
 
