@@ -2,8 +2,9 @@
 Contributed by [Peter Arkadiev](https://peterarkadiev.github.io/) ([Academia.edu profile](https://inslav.academia.edu/PeterArkadiev)) and [Irina Bagirokova](https://iling-ran.ru/web/ru/scholars/bagirokova)
 
 ![P.A.'s photo]({{ site_url_j }}/images/Arkadiev.jpg "P.A.'s photo")
-
 ![I.B.'s photo]({{ site_url_j }}/images/Bagirokova.jpg "I.B.'s photo")
+
+The data were provided by Irina Bagirokova in 2017 and analysed by Peter Arkadiev and Irina Bagirokova in 2018. They represent standard written West Circassian based on the Temirgoy dialect. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Arkadiev, Peter & Irina Bagirokova. 2023. Bivalent patterns in {{ language_external}}. 
