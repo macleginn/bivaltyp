@@ -2,6 +2,7 @@
 
 Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)) and Mariza Ibragimova ([Academia.edu profile](https://independent.academia.edu/MarizaIbragimova))
 
+![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
 ![M.I.'s photo]({{ site_url_j }}/images/Ibragimova.jpeg "M.I.'s photo")
 
 The data were collected in 2023 using the Russian version of the questionnaire. 
