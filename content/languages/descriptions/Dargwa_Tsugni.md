@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Gasangusen Sulaibanov] ([Academia.edu profile](https://independent.academia.edu/GasangusenSulaibanov))
+Contributed by Gasangusen Sulaibanov ([Academia.edu profile](https://independent.academia.edu/GasangusenSulaibanov))
 
 ![G.S.'s photo]({{ site_url_j }}/images/Sulaibanov.jpg "G.S.'s photo")
 
