@@ -28,6 +28,15 @@ Table 1. Person/number prefixes
 
 <div class="before-table"></div>
 
+| |Abs|IO|Erg|
+|:----|:----|:----|:----|
+|1Sg|*sə-*|*s-/z-*|*s-/z-*|
+|1Pl|*tə-*|*t-/d-*|*t-/d-*|
+|2Sg|*wə-*|*w-/p-/b-*|*w-/p-/b-*|
+|2Pl|*ŝʷə-*|*ŝʷ-/ẑʷ-*|*ŝʷ-/ẑʷ-*|
+|3Sg|∅|∅|*jə-/ə-*|
+|3Pl|∅|*a-*|*a-*|
+
 Linear position of indexes is even more important for distinguishing between the verb’s arguments than the shape of indexes. Absolutive indexes always occupy the leftmost slot in the verb. Ergative indexes, if present, are always the rightmost indexes in the verb. Indexing of non-core arguments is always associated with applicative preverbs, including dative (*je-* ~ *e-* ~ *r-*), benefactive (*fe-*), comitative (*de-*), malefactive (*ṣ̂ʷe-*) and a large number of locative preverbs. These indexes normally immediately precede their respective preverbs. 
 
 examples?
