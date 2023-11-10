@@ -54,7 +54,7 @@ examples?
 The oblique case can also appear on adnominal possessors, objects of postpositions and some adjuncts not cross-referenced in the verb. In addition to the grammatical cases there are two peripheral ones, the instrumental (*-č̣ʼe*) and the adverbial (*-ew*). Nominals marked by peripheral cases are not normally indexed on the verb.
 
 ## Verb lemmas
-Verbs are quoted in the form of roots in combination with all preverbs that are relevant for the expression of the relevant lexical meaning. Thus, ‘???’ is quoted as ???, and ‘???’ as ???. If a certain preverb is used as an applicative marker associated with a slot for indexing one of the two pre-defined arguments (X or Y), this preverb is shown in square brackets, e.g., ‘???’ is quoted as [??-]???.
+Verbs are quoted in the form of roots in combination with all preverbs that are relevant for the expression of the relevant lexical meaning. Thus, ‘forget’ is quoted as *šʼə-ʁʷəpše*, and ‘open’ as *qə-ze.tje-xə*. 
 
 ## Glosses
 Abbreviations: ABS — absolutive; ADD — additive; ADV — adverbial; BEN — benefactive; CAUS — causative; COM — comitative; COND — conditional; CSL — cislocative; DAT — dative applicative; DYN — dynamic; ELAT — elative; ERG — ergative; FCT — fact; FUT — future; IMP — imperative; INS — instrumental case; INSTR — instrumental applicative; IO — indirect object; LAT — lative; LNK — linker; LOC — locative preverb; NEG — negation; OBL — oblique case; PL — plural; PO — postpositional object; POSS — possessive marker; PR — possessor; PST — past; RE — refactive; REC — reciprocal; REL — relativisation; RES — resultative; RFL — reflexive; SG — singular.
