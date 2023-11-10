@@ -60,6 +60,7 @@ Peter Arkadiev: {{ language:Abaza }}
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
 Gilles Authier: {{ language:Rutul_Southern }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
+Gilles Authier, Murad Suleymanov: {{ language:Azerbaijani }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
@@ -128,7 +129,6 @@ Natalia Stoynova: {{ language:Ulcha }}
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Daria Suetina (Konior): {{ language:Romanian }}  
 Gasangusen Sulaibanov:  {{ language:Dargwa_Tsugni }}  
-Evgenija Teplukhina: {{ language:Azerbaijani }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
