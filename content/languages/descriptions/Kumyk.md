@@ -2,8 +2,8 @@
 Contributed by [Michael Daniel](https://mishadaniel.github.io/), Tagir Gadzhiakhmedov and [Natalia Logvinova](https://iling.spb.ru/persons/logvinova-natalya-nikolaevna) ([Academia.edu profile](https://independent.academia.edu/NLogvinova), [GoogleScholar profile](https://scholar.google.com/citations?user=5gh5RK8AAAAJ&hl=de)). 
 
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
-![T.G.'s photo]({{ site_url_j }}/images/Gadzhiakhmedov.jpg "M.D.'s photo")
-![N.L.'s photo]({{ site_url_j }}/images/Logvinova.jpg "M.D.'s photo")
+![T.G.'s photo]({{ site_url_j }}/images/Gadzhiakhmedov.jpeg "T.G.'s photo")
+![N.L.'s photo]({{ site_url_j }}/images/Logvinova.jpg "N.L.'s photo")
 
 The data come from the Kayakent and Yangikent varieties of the Kaytag dialect of Kumyk, with a bias towards Yangikent data (which is also the native variety of one of the contributors). The data were gathered in 2023. The Russian version of the questionnaire was used for elicitation.
 
