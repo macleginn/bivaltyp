@@ -41,27 +41,29 @@ Linear position of indexes is even more important for distinguishing between the
 
 ```
 
-(1) 
-    
-(2) 
+(1)  wə-qə-s-fe-mə-zešʼ
+     2SG.ABS-CSL-1SG.IO-BEN-NEG-miss
+     ‘Don’t miss me!’
 
-(3)
+(2)  pŝaŝe-m   txəλə-r   q-ə-šta-ʁ
+     girl-OBL  book-ABS  CSL-3SG.ERG-take-PST
+     ‘The girl took the book.’
+
+(3)  č̣ʼale-r  bzeǯʼaṣ̂e-me      ja-zawe
+     guy-ABS  hooligan-OBL.PL  3PL.IO+DAT-fight
+     ‘The guy is fighting with the hooligans.’
 
 ```
-
-example (1) = 88 don’t miss me
-example (2) = 8 the girl took the book
-example (3) = 23 the guy is fighting with the hooligans
 
 In addition to the indexing prefixes, Adyghe also has an (optional) plural suffix *-x(e)*, which shows agreement with plural absolutive arguments, see example (4).
 
 ```
 
-(4) 
+(4)  t-jə-wəne-xe-r            č̣e-tə-na-ʁe-x
+     1PL.PR-POSS-house-PL-ABS  LOC:UNDER-1PL.ERG-leave-PST-PL
+     ‘We lost our houses.’
     
 ```
-
-example (4) = 42 we lost our houses
 
 ### Case system
 
@@ -71,11 +73,11 @@ The oblique case can also appear on adnominal possessors, objects of postpositio
 
 ```
 
-(5) 
+(5)  pŝaŝe-m   ŝhe.tjeχʷe-m-č̣ʼe    ʔe    q-j-e-ṣ̂ə
+     girl-OBL  head_scarf-OBL-INS  hand  CSL-3SG.ERG-DYN-do
+     ‘The girl is waving the headscarf.’
     
 ```
-
-example (5) = 47 the girl is waving the headscarf
 
 ## Verb lemmas
 Verbs are quoted in the form of roots in combination with all preverbs that are relevant for the expression of the relevant lexical meaning. Thus, ‘forget’ is quoted as *šʼə-ʁʷəpše*, and ‘open’ as *qə-ze.tje-xə*. 
