@@ -37,15 +37,23 @@ Table 1. Person/number prefixes
 |3Sg|∅|∅|*jə-/ə-*|
 |3Pl|∅|*a-*|*a-*|
 
-Linear position of indexes is even more important for distinguishing between the verb’s arguments than the shape of indexes. Absolutive indexes always occupy the leftmost slot in the verb. Ergative indexes, if present, are always the rightmost indexes in the verb. Indexing of non-core arguments is always associated with applicative preverbs, including dative (*je-* ~ *e-* ~ *r-*), benefactive (*fe-*), comitative (*de-*), malefactive (*ṣ̂ʷe-*) and a large number of locative preverbs. These indexes normally immediately precede their respective preverbs. 
+Linear position of indexes is even more important for distinguishing between the verb’s arguments than the shape of indexes. Absolutive indexes always occupy the leftmost slot in the verb, see example (1). Ergative indexes, if present, are always the rightmost indexes in the verb, see example (2). Indexing of non-core arguments is always associated with applicative preverbs, including dative (*je-* ~ *e-* ~ *r-*), benefactive (*fe-*), comitative (*de-*), malefactive (*ṣ̂ʷe-*) and a large number of locative preverbs. These indexes normally immediately precede their respective preverbs. Example (1) illustrates the combination of a personal prefix with the benefactive applicatives, and example (3) shows the dative applicative fused with a 3rd plural indirect object prefix.
 
-In addition to the indexing prefixes, Adyghe also has an (optional) plural suffix *-x(e)*, which shows agreement with plural absolutive arguments.
+example (1) = 88 don’t miss me
+example (2) = 8 the girl took the book
+example (3) = 23 the guy is fighting with the hooligans
+
+In addition to the indexing prefixes, Adyghe also has an (optional) plural suffix *-x(e)*, which shows agreement with plural absolutive arguments, see example (4).
+
+example (4) = 42 we lost our houses
 
 ### Case system
 
-Adyghe  has case-marking on nominals, excluding 1st and 2nd person pronouns, most proper names as well as non-specific NPs. This is why most examples involve two definite common nouns like ‘the girl’ or ‘the book’. The case system consists of two grammatical cases, the absolutive with the suffix *-r* and the oblique with the suffix *-m* (*-š’* with demonstratives, *-me* when cumulative with plural). The patterns of case-marking and verbal indexing closely match each other: the oblique case occurs on the 3rd person arguments indexed by the non-absolutive series of person-number prefixes, i.e. on transitive As and indirect objects, while the absolutive case appears on 3rd person arguments indexed in the verb by the absolutive indexes, i.e. on S and O. Given that 3rd person absolutive indexes are null, the nominals overtly marked by the absolutive case in fact are never overtly cross-referenced in the verb, apart from the optional plural suffix *-x(e)*. 
+Adyghe  has case-marking on nominals, excluding 1st and 2nd person pronouns, most proper names as well as non-specific NPs. This is why most examples involve two definite common nouns like ‘the girl’ or ‘the book’. The case system consists of two grammatical cases, the absolutive with the suffix *-r* and the oblique with the suffix *-m* (*-š’* with demonstratives, *-me* when cumulative with plural). The patterns of case-marking and verbal indexing closely match each other: the oblique case occurs on the 3rd person arguments indexed by the non-absolutive series of person-number prefixes, i.e. on transitive As, see example (2), and indirect objects, see example (3), while the absolutive case appears on 3rd person arguments indexed in the verb by the absolutive indexes, i.e. on S and O, see examples (3) and (2), respectively. Given that 3rd person absolutive indexes are null, the nominals overtly marked by the absolutive case in fact are never overtly cross-referenced in the verb, apart from the optional plural suffix *-x(e)*, as in example (4).
 
-The oblique case can also appear on adnominal possessors, objects of postpositions and some adjuncts not cross-referenced in the verb. In addition to the grammatical cases there are two peripheral ones, the instrumental (*-č̣ʼe*) and the adverbial (*-ew*). Nominals marked by peripheral cases are not normally indexed on the verb.
+The oblique case can also appear on adnominal possessors, objects of postpositions and some adjuncts not cross-referenced in the verb. In addition to the grammatical cases there are two peripheral ones, the instrumental (*-č̣ʼe*) and the adverbial (*-ew*). Nominals marked by peripheral cases are not normally indexed on the verb, cf. example (5).
+
+example (5) = 47 the girl is waving the headscarf
 
 ## Verb lemmas
 Verbs are quoted in the form of roots in combination with all preverbs that are relevant for the expression of the relevant lexical meaning. Thus, ‘forget’ is quoted as *šʼə-ʁʷəpše*, and ‘open’ as *qə-ze.tje-xə*. 
