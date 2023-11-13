@@ -16,4 +16,8 @@ The data come from the Kayakent and Yangikent varieties of the Kaytag dialect of
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
-- Macro-area: {{ macroarea }}. 
+- Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABL — ablative; ACC — accusative; ADJVZ — adjectivizer; CAR — caritive; CAUS — causative; CIT — citative; CVB — converb; DAT — dative; GEN — genitive; LOC — locative; NEG — negation; NMLZ — nominalization; OBL — oblique; PASS — passive; PF — perfect; PL — plural; PN — person name; PST — past; R — Russian loan; REC — reciprocal; REFL — reflexive; SG — singular; SUBST — substantivizer; TR — transitive; VBLZ — verbalizer. 
