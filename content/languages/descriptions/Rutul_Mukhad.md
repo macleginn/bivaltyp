@@ -19,3 +19,7 @@ The data were collected in 2023 using the Russian version of the questionnaire.
 
 ## Verb lemmas
 Verbs are cited by their masdar forms with IV class agreement indexes. 
+
+## Glossing abbreviations
+
+A — ; ABL — ; AD — ; ADEL — ; ADV — ; AOR — ; APUD — ; ATTR — ; COMPAR — ; CONT — ; CONTEL — ; COP — ; DAT — ; ERG — ; H — ; HAB — ; HPL — ; IN — ; INDEF — ; IPF — ; M — ; MSD — ; N — ; NEG — ; NH — ; NMLZ — ; NOM — ; NP — ; OBL — ; PF — ; PL — ; PN — ; PREDIC — ; PROX — ; REFL — ; SEQ — ; SIMUL — ; SUB — ; SUPER — ; SUPEREL — .
