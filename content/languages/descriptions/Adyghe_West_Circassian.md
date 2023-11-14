@@ -37,7 +37,7 @@ Table 1. Person/number prefixes
 |3Sg|∅|∅|*jə-/ə-*|
 |3Pl|∅|*a-*|*a-*|
 
-Linear position of indexes is even more important for distinguishing between the verb’s arguments than the shape of indexes. Absolutive indexes always occupy the leftmost slot in the verb, see example (1). Ergative indexes, if present, are always the rightmost indexes in the verb, see example (2). Indexing of non-core arguments is always associated with applicative preverbs, including dative (*je-* ~ *e-* ~ *r-*), benefactive (*fe-*), comitative (*de-*), malefactive (*ṣ̂ʷe-*) and a large number of locative preverbs. These indexes normally immediately precede their respective preverbs. Example (1) illustrates the combination of a personal prefix with the benefactive applicatives, and example (3) shows the dative applicative fused with a 3rd plural indirect object prefix.
+Linear position of indexes is even more important for distinguishing between the verb’s arguments than the shape of indexes. Absolutive indexes always occupy the leftmost slot in the verb, see example (1). Ergative indexes, if present, are always the rightmost indexes in the verb, see example (2). Indexing of non-core arguments is always associated with applicative preverbs, including dative (*je-* ~ *e-* ~ *r-*), benefactive (*fe-*), comitative (*de-*), malefactive (*ṣ̂ʷe-*) and a large number of locative preverbs. These indexes normally immediately precede their respective preverbs. Example (1) illustrates the combination of a personal prefix with the benefactive applicative, and example (3) shows the dative applicative fused with a 3rd plural indirect object prefix.
 
 ```
 
