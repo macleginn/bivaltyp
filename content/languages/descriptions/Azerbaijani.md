@@ -16,3 +16,7 @@ Before 2023, the project featured two consecutive preliminary versions of the {{
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABL — ablative; ACC — accusative; ADV — adverbializer; caus — CAUSATIVE; cop — copula; DAT — dative; GEN — genitive; IMPER — imperative; IPF — imperfective; ITR — intransitive; LAT — lative; LOC — locative; NEG — negation; PERF — perfect; PL — plural; PN — person name; POS — possessive; PST — past; PTCP — participle; SG — singular; TR — transitive.
