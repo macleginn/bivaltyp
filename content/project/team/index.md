@@ -90,7 +90,7 @@ Yukari Konuma: {{ language:Japanese }}
 Elena Kordi: {{ language:French }}  
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
-Samona Kurilova: {{ language:Yukaghir_Northern }}  
+Samona Kurilova, Maria Pupynina: {{ language:Yukaghir_Northern }}  
 Olga Kuznetsova: {{ language:Guro }}  
 Timur Maisak: {{ language:Udi }}  
 Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
