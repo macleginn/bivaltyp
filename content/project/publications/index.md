@@ -46,6 +46,14 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
+Rostovtsev-Popiel, Alexander. 2023. [Dvuxvalentnye glagoly v kartvel'skix jazykax skvoz' prizmu tipologicheskoj bazy dannyx dvixvalentnyx glagolov (BivalTyp)]() [Bivalent verbs in Kartvelian languages through the prism of the BivalTyp typological database](https://bivaltyp.info/docs/Rostovtsev_Popiel_2023_Dvuxvalentnye.pdf). Paper presented at the II  International Linguistic and Anthropological Congress of Caucasian Studies. Tbilisi, October 17-19, 2023. 
+
+Kirill Kozhanov, Sergey Say. 2023. [Genealogy vs. contact configuration: argument coding across Romani dialects in Europe](https://bivaltyp.info/docs/Kozhanov_Say_2023_Genealogy.pdf). 56th Annual Meeting of the Societas Linguistica Europaea. National and Kapodistrian University of Athens. August 29 – September 1, 2023.
+
+Say, Sergey. 2023. [Cross-linguistic variability in complexity of valency class systems: implications for efficiency](https://bivaltyp.info/docs/Say_2023_Cross_Linguistic.pdf). Efficiency in grammar: Patterns and explanations. University of Freiburg. July 5, 2023. 
+
+Say, Sergey. 2023. [Understanding argument roles through the prism of BivalTyp (a typological database of bivalent verbs and their encoding frames)](https://bivaltyp.info/docs/Say_2023_Understanding.pdf). Linguistische Werkstatt. Otto-Friedrich-Universität Bamberg. 31. Mai 2023. 
+
 Chistyakova, D. G. & D.A. Ryzhova. 2023. [Kodirovanie argumentov dvuxmestnyx predikatov v shugnanskom yazyke](https://bivaltyp.info/docs/Chistjakova_Ryzhova_2023_Kodirovanie.pdf) [Argument encoding in Shughni bivalent verbs]. Paper presented at the seminar for Iranian studies, NRU Higher School of Economics and Institute of Linguistics, Moscow. March 31, 2023.
 
 Say, Sergey. [Measuring predictability of argument realization patterns in bivalent verbs](https://bivaltyp.info/docs/Say_2023_03_21_Valency_predictability.pdf). Talk at the EDAP 2023 (Explaining the cross-linguistic distribution of argument-coding patterns) conference. University of Potsdam. March 21-23, 2023.
