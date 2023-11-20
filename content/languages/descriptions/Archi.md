@@ -3,7 +3,7 @@ Contributed by [Michael Daniel](https://mishadaniel.github.io/).
 
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
 
-The data were gathered in 2023. The Russian version of the questionnaire was used for elicitation.
+The data were gathered in 2018. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Daniel, Michael. 2023. Bivalent patterns in {{ language_external }}. 
