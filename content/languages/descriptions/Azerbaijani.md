@@ -1,6 +1,6 @@
 # {{ language_external }}
 
-Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)), Ayten Babalieva and [Murad Suleymanov](https://proclac.cnrs.fr/author/msuleymanov/).
+Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)), Ayten Babaliyeva and [Murad Suleymanov](https://proclac.cnrs.fr/author/msuleymanov/).
 
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
 
@@ -9,7 +9,7 @@ Before 2023, the project featured two consecutive preliminary versions of the {{
 
 ## How to cite
 
-> Authier, Gilles, Ayten Babalieva & Murad Suleymanov. 2023. Bivalent patterns in {{ language_external }}. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
+> Authier, Gilles, Ayten Babaliyeva & Murad Suleymanov. 2023. Bivalent patterns in {{ language_external }}. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
 
 ## Basic info
 
