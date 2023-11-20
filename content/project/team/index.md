@@ -68,6 +68,7 @@ Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}
 Nadezhda Bulatova: {{ language:Evenki }}  
 Daria Chistiakova, Daria Ryzhova: {{ language:Shughni }}  
 Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, {{ language:Soninke }}  
+Michael Daniel: {{ language:Archi }}  
 Michael Daniel, Tagir Gadzhiakhmedov, Natalia Logvinova: {{ language:Kumyk }}  
 Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul_Kina }}  
 Varvara Diveeva: {{ language:Albanian }}  
