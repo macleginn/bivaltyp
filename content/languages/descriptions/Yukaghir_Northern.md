@@ -64,7 +64,7 @@ Table 1. Case paradigm
 
 ## Verb lemmas
 
-Verbs are shown in the form of pure stem without anz inflections. Note that due to various morphonological processes, the stem as used in the inflected forms can be different from the pure stems shown as citation forms.
+Verbs are shown in the form of pure stem without anz inflections. Note that due to various morphonological processes, the stem as used in the inflected forms can be different from the pure stems shown as citation forms. 
 
 ## Glossing abbreviations
 
