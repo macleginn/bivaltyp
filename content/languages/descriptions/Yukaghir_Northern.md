@@ -26,17 +26,17 @@ Simplifying somewhat, the basic alignment of Northern Yukaghir is nominative-acc
 
 ```
 
-(1) adu-ŋ ködǝ nimǝ-ɣаnǝ mǝr wiǝ-m
-VS-AT man house-ACC AFF make-TR.3SG
-‘This man built (focused) a house.’
+(1)  adu-ŋ  ködǝ  nimǝ-ɣаnǝ  mǝr  wiǝ-m
+     VS-AT  man   house-ACC  AFF  make-TR.3SG
+     ‘This man built (focused) a house.’
 
-(2) mit abučiǝ joj-а̄-l
-1PL.POSS grandmother be_ill-INCH-SF
-‘My grandmother (focused) got ill.’
+(2)  mit       abučiǝ       joj-а̄-l
+     1PL.POSS  grandmother  be_ill-INCH-SF
+     ‘My grandmother (focused) got ill.’
 
-(3) adu-ŋ ködǝ nimǝ-lǝ-ŋ wiǝ-mǝ-lǝ
-VS-AT man house-ACC-FC make-TR-OF.3SG
-‘This man built a house (focused).’
+(3)  adu-ŋ  ködǝ  nimǝ-lǝ-ŋ     wiǝ-mǝ-lǝ
+     VS-AT  man   house-ACC-FC  make-TR-OF.3SG
+     ‘This man built a house (focused).’
 
 ```
 
