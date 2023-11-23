@@ -46,6 +46,8 @@ The case system encompasses 11 forms, exemplified below in Table 1 for the noun 
 
 Table 1. Case paradigm
 
+<div class="before-table"></div>
+
 |Case|Form|
 |:----|:----|
 |NOM|*ilə*|
