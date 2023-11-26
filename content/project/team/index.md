@@ -58,7 +58,7 @@ Mansour Amadeh: {{ language:Kurdish_Sorani }}
 Ekaterina Aplonova: {{ language:Goo }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
-Gilles Authier: {{ language:Rutul_Southern }}  
+Gilles Authier:  {{ language:Kryz_Alik }},  {{ language:Rutul_Southern }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
 Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
