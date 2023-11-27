@@ -15,7 +15,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 112	Mano	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ɓɔ̄	NOM	loc	Y	NOM_loc		kō ɓɔ̄ kɛ́ì	1PL.PST leave house.LOC	‘We went out of the house.’					
 112	Mano	15	drive	X (drive) Y	гнать	X (гнать) Y-а	nū	NOM	ka	Y	NOM_ka		lɛ̄ nū-pɛ̀lɛ̀ dìì ká	3SG.EXI come-INF cow with	‘He is driving a cow.’					
 112	Mano	16	bend	X (bend) Y	гнуть	X (гнуть) Y	gbīnī	NOM	ACC	TR	TR		ē yílí kɔ̀ɔ̀ gbīnī	3SG.PST tree branch bend	‘He bent a branch.’					
-112	Mano	17	tell	X (tell) Y	говорить	X (говорить) Y-у	gèē	NOM	lee	Y	NOM_lee	Obligatory 3SG direct object.	Pèé ā gèē ŋ̄ lɛ̀ɛ̄	PN 3SG.PST>3SG say 1SG to	‘Pe told me....’					
+112	Mano	17	tell	X (tell) Y	говорить	X (говорить) Y-у	gèē	NOM	lee	Y	NOM_lee	Obligatory 3SG direct object.	Pèé ā gèē ŋ̄ lɛ̀ɛ̄	PN 3SG.PST>3SG say 1SG to	‘Pe told me..’					
 112	Mano	18	hold	X (hold)Y	держать	X (держать) Y(-а)	kɔ̀ be	*	*	*		Not included in the database because X is expressed as an NP-internal modifier.	Pèé kɔ̀ lɛ̄ sɛ́ɓɛ̀ mɔ̀	PN arm 3SG.EXI book on	‘Pe is holding a book.’					
 112	Mano	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	kṵ́	NOM	ACC	TR	TR		Pèé ē Sèé kṵ́	PN 3SG.PST PN catch	‘Pe caught up with Se.’					
 112	Mano	20	milk	X (milk) Y	доить	X (доить) Y-а	ɲɔ́yíí ɓō	NOM	ACC	TR	TR		Pèé ē dìì ɲɔ́yíí ɓō	PN 3SG.PST cow milk take_out	‘Pe milked a cow.’					
@@ -57,21 +57,21 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 112	Mano	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	*	*	*	*		No satisfactory translation has been obtained.	*	*	*					
 112	Mano	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	kɛ̄	ge	NOM	X	ge_NOM		ē kɛ̄ ŋ̄ gé	3SG.PST be 1SG stomach	‘I hated him.’					
 112	Mano	58	like	X (like) Y	нравиться	X-у (нравиться) Y	zò kṵ́	ACC	NOM	X	ACC_NOM		lɛ́ɛ̀ ŋ̄ zò kṵ̄	3SG.IPFV 1SG heart catch:IPFV	‘I like her.’					
-112	Mano	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	màkó be	*	*	*		Not included in the database because X is expressed as an NP-internal modifier.	ŋ̄ màkó ē kɛ̄ ī mɔ̀	1SG need 3SG.PST be 2SG on	‘I needed you..’					
+112	Mano	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	màkó be	*	*	*		Not included in the database because X is expressed as an NP-internal modifier.	ŋ̄ màkó ē kɛ̄ ī mɔ̀	1SG need 3SG.PST be 2SG on	‘I needed you.’					
 112	Mano	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	nìà	NOM	mo	Y	NOM_mo		óò nìà ō mɔ̀	3PL.IPFV turn:IPFV 3PL on	‘They surround them.’					
-112	Mano	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	tó	NOM	kele	Y	NOM_kele		wɛ́lì āà tó ŋ̄ kɛ̀lɛ̀	money 3SG.PRF stay 1SG hand	‘I have some money left..’					
-112	Mano	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	wè là nìà	NOM	ACC	TR	TR		āà ŋ̄ wè là nìà	3SG.PRF 1SG speech surface turn	‘She has responded to me..’					
-112	Mano	63	open	X (open) Y	открывать	X (открывать) Y	lé ɓō	NOM	ACC	TR	TR		āà ká lé ɓō	3SG.PRF house mouth remove	‘She opened the house..’					
-112	Mano	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	see comment	NOM	mo	Y	NOM_mo	The alternative should be discussed further.	ē kɛ̄ gbɛ̄ɛ̄ ŋ̄ mɔ̀	3SG.PST be different 1SG on	‘She was different from me..’			à lépāà wáá Y ká X kɛ̀lɛ̀: completeness isn't with Y in X's hand		
-112	Mano	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	tó	NOM	pie	Y	NOM_pie		āà tó ŋ̄ píé	3SG.PRF stay 1SG behind	‘She fell behind me..’					
+112	Mano	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	tó	NOM	kele	Y	NOM_kele		wɛ́lì āà tó ŋ̄ kɛ̀lɛ̀	money 3SG.PRF stay 1SG hand	‘I have some money left.’					
+112	Mano	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	wè là nìà	NOM	ACC	TR	TR		āà ŋ̄ wè là nìà	3SG.PRF 1SG speech surface turn	‘She has responded to me.’					
+112	Mano	63	open	X (open) Y	открывать	X (открывать) Y	lé ɓō	NOM	ACC	TR	TR		āà ká lé ɓō	3SG.PRF house mouth remove	‘She opened the house.’					
+112	Mano	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	see comment	NOM	mo	Y	NOM_mo	The alternative should be discussed further.	ē kɛ̄ gbɛ̄ɛ̄ ŋ̄ mɔ̀	3SG.PST be different 1SG on	‘She was different from me.’			à lépāà wáá Y ká X kɛ̀lɛ̀: completeness isn't with Y in X's hand		
+112	Mano	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	tó	NOM	pie	Y	NOM_pie		āà tó ŋ̄ píé	3SG.PRF stay 1SG behind	‘She fell behind me.’					
 112	Mano	66	plough	X (plough) Y	пахать	X (пахать) Y	ɓō	NOM	ACC	TR	TR	Always combines with lɛ̀, field.	lɛ́ɛ̀ lɛ̀ ɓō	3SG.IPFV field remove	‘He cultivates a field. .’			I don't think ploughing as an action is done by the Mano		
 112	Mano	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	gḭ̄ḭ̄ be	*	*	*		Not included in the database because Y is expressed as an NP-internal modifier.	tíéyíí gḭ̄ḭ̄ lɛ̄ ŋ̄ kɔ̀ mɔ̀	gasoline smell 3SG.EXI 1SG arm on	‘My arms smell of gazoline.’					
-112	Mano	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу)	ká̰	NOM	ACC	TR	TR		ŋ̄ yíí ká̰	1SG.PST water cut	‘I crossed the river..’					
+112	Mano	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу)	ká̰	NOM	ACC	TR	TR		ŋ̄ yíí ká̰	1SG.PST water cut	‘I crossed the river.’					
 112	Mano	69	sing	X (sing) Y	петь	X (петь) Y	ɓō	NOM	ACC	TR	TR	Always combines with tá̰, song.	lɛ́ɛ̀ tá̰ ɓō	3SG.IPFV song remove	‘She sings.’					
 112	Mano	70	write	X (write) Y	писать	X (писать) Y	bɛ̰̀ɛ̰̄	NOM	ACC	TR	TR		lɛ́ɛ̀ sɛ́ɓɛ̀ bɛ̰̀ɛ̰̄	3SG.IPRF book write	‘He writes a letter.’					
 112	Mano	71	drink	X (drink) Y	пить	X (пить) Y	mī	NOM	ACC	TR	TR		lɛ́ɛ̀ yíí mī	3SG.IPFV water drink	‘She drinks water.’					
 112	Mano	72	melt	X (melt) Y	плавить	X (плавить) Y	sèŋē	NOM	ACC	TR	TR		ō fɔ̰́á̰ sèŋē  	3PL.PST aluminium melt	‘They melted aluminium.’					
-112	Mano	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	ló	*	*	*		Not included in the database because X and Y are expressed as a coordinate NP.	ɓà sɔ̄ wà ɓà kɛ́lɛ́ óò lō sɛ̀ ō kíè bà	2SG.POSS cloth 3PL.IP 2SG.POSS scarf 3PL.IPFV go:IPFV well 3PL RECP in	‘Your dress and your headscarf go well together..’					
+112	Mano	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	bɛ̀ī	*	*	*		Not included in the database because X and Y are expressed as a coordinate NP.	ɓà sɔ̄ wà ɓà kɛ́lɛ́ óò bɛ̀ī ō kíè bà	2sg.poss cloth 3pl.ip 2sg.poss scarf 3pl.ipfv be.able:ipfv 3pl recp in	‘Your dress and your headscarf go well together.’					
 112	Mano	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	wɛ̀lɛ̀	NOM	loc	Y	NOM_loc		ē wɛ̀lɛ̀ Záásɔ́nɔ́	3SG.PST get.up Nzerekore	‘He left Nzerekore.’					
 112	Mano	75	cover	X (cover) Y	покрывать	X (покрывать) Y	gbīnī	NOM	la	Y	NOM_la	No way to say just "cover Y", but rather "cover Y with Z", where Z is the direct object. 	sàā lɛ́ɛ̀ gbìnì sɛ́lɛ́ séŋ́ là	natte 3SG.IPFV bend:IPFV soil all on	‘The mat covers all the floor.’			for example, āà lé kèlè yà à lé, he put its cover on it		
 112	Mano	76	remember	X (remember) Y	помнить	X (помнить) Y-а	ŋwɔ̀míní sí	NOM	ACC	TR	TR	Complicated pattern, it should be discussed further.	ē ŋ̄ ŋwɔ̀míní sí	3SG.PST 1SG memory take	‘He remembered me.’			several other ways to exress the same meaning, which for formal reasons wouldn't be included. this is the only one that would fit the questionnaire's formal requirements.		
