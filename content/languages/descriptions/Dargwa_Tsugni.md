@@ -3,7 +3,7 @@ Contributed by Gasangusen Sulaibanov ([Academia.edu profile](https://independent
 
 ![G.S.'s photo]({{ site_url_j }}/images/Sulaibanov.jpg "G.S.'s photo")
 
-The data were gathered in {{ data_collection_year }} from R. Sulaibanov and K. Sulaibanova. The Russian version of the questionnaire was used for elicitation, but Galangusen Sulaibanov took advantage of his own capacity of a native speaker as well.
+The data were gathered in {{ data_collection_year }} from R. Sulaibanov and K. Sulaibanova. The Russian version of the questionnaire was used for elicitation, but Gasangusen Sulaibanov took advantage of his own capacity of a native speaker as well.
 
 ## How to cite
 > Sulaibanov, Gasangusen. 2023. Bivalent patterns in {{ language_external}}. 
