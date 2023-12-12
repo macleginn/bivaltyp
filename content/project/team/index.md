@@ -58,7 +58,7 @@ Mansour Amadeh: {{ language:Kurdish_Sorani }}
 Ekaterina Aplonova: {{ language:Goo }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
-Gilles Authier:  {{ language:Kryz_Alik }},  {{ language:Rutul_Southern }}  
+Gilles Authier:  {{ language:Kryz_Alik }},  {{ language:Rutul_Southern }},  {{ language:Tsakhur }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
 Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
@@ -75,7 +75,7 @@ Varvara Diveeva: {{ language:Albanian }}
 Sergey Dmitrenko: {{ language:Khmer }}  
 Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
 Martin Gális, Kirill Kozhanov: {{ language:Slovak }}  
-Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}, {{ language:Tsakhur }}  
+Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}  
 Wakweya Gobena:  {{ language:Oromo_West_Central }}  
 Elena Gorbova: {{ language:Spanish }}  
 Irene Gorbunova, Yurij Chernov:  {{ language:Khwarshi }}  
