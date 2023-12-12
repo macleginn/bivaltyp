@@ -9,7 +9,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 5	Tsakhur	8	take	X (take) Y	взять	X (брать) Y(-а)	alyaat’iy	ERG	NOM	TR	TR		murad-ee kitab alyaat’u	PN-ERG book A.take.PF	‘Murad took a book.’			
 5	Tsakhur	9	see	X (see) Y	видеть	X (видеть) Y(-а)	q:adžiy	AFF	NOM	X	AFF_NOM		murad-ı-k’le хav q:edži vo-d	PN-OBL-AFF house (N)see.IPF COP-N	‘Murad sees a house.’			
 5	Tsakhur	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	taˁʔsir haʔiy	ERG	DAT	Y	ERG_DAT	CV	yeš-ın bič’-ı-s taˁʔsir haʔa-n	age-ERG memory-OBL-DAT influence N.do.IPF-N	‘Age influences memory.’			
-5	Tsakhur	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	qhaˁllamıšхhay	NOM	SUPERLAT	Y	NOM_SUPERLAT		murad rasul-u-lqha qhaˁllamıš-хha-y-na	PN PN-OBL-SUPERLAT angry-AUX.PF-MSD-H	‘Murad encountered Rasul.’			
+5	Tsakhur	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	qhaˁllqhmıšхhay	NOM	SUPERLAT	Y	NOM_SUPERLAT		murad rasul-u-lqha qhaˁllqhamıš-хha-y-na	PN PN-OBL-SUPERLAT encounter-AUX.PF-MSD-H	‘Murad encountered Rasul.’			
 5	Tsakhur	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	ič’iy	NOM	INLAT	Y	NOM_INLAT		murad хaa-qha ič’u	PN house.IN-LAT (M)enter.PF	‘Murad entered the house.’			
 5	Tsakhur	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	q:amхhay	NOM	SUPEREL	Y	NOM_SUPEREL		murad aydın-ıle q:am-хha-na	PN PN-SUPEREL overcome-AUX.PF-H	‘Murad beat Aydin.’			
 5	Tsakhur	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	qhiğečiy	NOM	INEL	Y	NOM_INEL		murad хaa-nče qhiğeč’u-na	PN house.OBL-INEL go_out.PF-H	‘Murad went out of the house.’			
@@ -95,7 +95,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 5	Tsakhur	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	alikkiy	NOM	SUPERLAT	Y	NOM_SUPERLAT		uˁt nyak-ılqha alikkiyn	honey milk-SUPERLAT (N)mix.PF.N	‘The honey got mixed with milk.’			
 5	Tsakhur	95	look	X (look) at Y	смотреть	X (смотреть) на Y	ılyakkiy	NOM	LAT	Y	NOM_LAT		murad rasul-ıqha ılyakka	PN PN-LAT (M)look.IPF	‘Murad is looking at Rasul.’			
 5	Tsakhur	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	q:akkahiy	ERG	NOM	TR	TR		murad-ee gurt q:akkahi-yn	PN-ERG jacket (N)take_off.PF-MSD	‘Murad took off his jacket.’			
-5	Tsakhur	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nyak’ q:adžiy	AFF	NOM	X	AFF_NOM		murad-ı-k’le nik’e xunaşşe q:ajdže	PN-OBL-AFF dream.IN wife F.see.IPF	‘Murad dreams about his wife.’			
+5	Tsakhur	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	nyak’ q:adžiy	AFF	NOM	X	AFF_NOM		murad-ı-k’le nik’e xunašše q:ajdže	PN-OBL-AFF dream.IN wife F.see.IPF	‘Murad dreams about his wife.’			
 5	Tsakhur	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	džıvabılqha qharıy	NOM	COM	Y	NOM_COM		murad leyla-y-kva džıvab-ılqha qh-arı-na	PN PN-OBL-COM argument-SUPERLAT RE-H.come.PF-H	‘Murad agreed with Leyla.’			CV. Lit. 'went back to argument with her'.
 5	Tsakhur	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	džıvabılqha ariy	NOM	COM	Y	NOM_COM		murad sona-y-kva džıvab-ılqha arı	PN PN-OBL-COM argument-SUPERLAT H.come.PF	‘Murad had a quarrel with Sona.’			CV. Lit. 'went to an argument with her'.
 5	Tsakhur	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	dagariyхhay	*	*	*		Not included in the database because Y is expressed as a non-verbal predicate.	hayni guruška-yn dagariy sa manat vo-b	MED.OBL cup-N value one manat(A) COP-A	‘This cup costs one manat.’			
