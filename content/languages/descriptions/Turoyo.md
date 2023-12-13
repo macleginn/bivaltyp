@@ -3,7 +3,7 @@ Contributed by Nikita Kuzin ([Academia.edu profile](https://fu-berlin.academia.e
 
 ![N.K.'s photo]({{ site_url_j }}/images/Kuzin.jpg "M.D.'s photo")
 
-The data were gathered in Berlin in 2023 by Anna-Simona Barbara Üzel and Nikita Kuzin from several speakers of Ṭuroyo. Some additional data was collected by Nikita Kuzin online. The majority of the translations were obtained using the German version of the questionnaire, and several sentences were translated from English.
+The data were gathered in Berlin in 2023 by Anna-Simona Barbara Üzel and Nikita Kuzin from several speakers of Turoyo. Some additional data was collected by Nikita Kuzin online. The majority of the translations were obtained using the German version of the questionnaire, and several sentences were translated from English.
 
 ## How to cite
 > Kuzin, Nikita. 2023. Bivalent patterns in {{ language_external }}. 
