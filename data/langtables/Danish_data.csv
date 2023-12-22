@@ -15,7 +15,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 89	Danish	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	gå ud	SBJ	af	Y	SBJ_af		Peter gik ud af hus-et	PN go.PST out of house(N)-DEF.SG	‘Peter went out of the house.’		‘Петер вышел из дома.’			
 89	Danish	15	drive	X (drive) Y	гнать	X (гнать) Y-а	drive	SBJ	DO	TR	TR		Peter drive-r ko-en	PN drive-PRS cow(C)-DEF.SG	‘Peter is driving the cow.’		‘Петер гонит корову.’			
 89	Danish	16	bend	X (bend) Y	гнуть	X (гнуть) Y	bøje	SBJ	DO	TR	TR		Peter bøje-de gren-en	PN bend-PST branch(C)-DEF.SG	‘Peter bent the branch.’		‘Петер согнул ветку.’			
-89	Danish	17	tell	X (tell) Y	говорить	X (говорить) Y-у	sige 	SBJ	til	TR	SBJ_til		Peter sagde til Marie: ...	PN say.PST to PN	‘Peter told Marie: ...’		‘Петер сказал Мари: ...’			
+89	Danish	17	tell	X (tell) Y	говорить	X (говорить) Y-у	sige 	SBJ	til	Y	SBJ_til		Peter sagde til Marie: ...	PN say.PST to PN	‘Peter told Marie: ...’		‘Петер сказал Мари: ...’			
 89	Danish	18	hold	X (hold)Y	держать	X (держать) Y(-а)	holde	SBJ	DO	TR	TR		Peter holde-r en bog	PN hold-PRS INDF.SG book(C)	‘Peter is holding a book.’		‘Петер держит книгу.’			
 89	Danish	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	indhente 	SBJ	DO	TR	TR		Peter indhente-de Marie	PN catch_up-PST PN	‘Peter caught up with Marie.’		‘Петер догнал Мари.’			
 89	Danish	20	milk	X (milk) Y	доить	X (доить) Y-а	malke 	SBJ	DO	TR	TR		Peter malke-de ko-en	PN milk-PST cow(C)-DEF.SG	‘Peter milked the cow.’		‘Петер подоил корову.’			
