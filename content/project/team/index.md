@@ -136,6 +136,7 @@ Gasangusen Sulaibanov:  {{ language:Dargwa_Tsugni }}
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
+Alena Witzlack-Makarevich, Sylvanus Job {{ language:Khoekhoe }}
 Elizaveta Zabelina: {{ language:Telugu }}  
 Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}  
 Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}  
