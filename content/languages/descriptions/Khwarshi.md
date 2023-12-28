@@ -36,6 +36,6 @@ There are 6 non-locative cases: absolutive, ergative, dative, two genitives and 
 ## Verb lemmas
 Verbs are cited by the infinitive form with second class agreement marker in form of *j/* if the verb has a slot for it. For example ‘to break’ is cited as *j/icaχa*, whereas the corresponding form in (1) has a different class marker and is in past witnessed form, yielding *licaχχa*.
 
-
-abs — ; ad — ; add — ; an — ; atr — ; aux — ; caus — ; com — ; cont — ; cvb — ; d — ; dat — ; dem — ; dir — ; el — ; erg — ; gen — ; gnt — ; hpl — ; i — ; ii — ; iii — ; imp — ; in — ; inf — ; inter — ; its — ; iv — ; k — ; lat — ; neg — ; nhpl — ; noni — ; o — ; pl — ; pn — ; pot — ; prox — ; prs — ; pst — ; quot — ; sg — ; son — ; sub — ; super — ; trans — ; u — ; v — ; vblz — ; w> 
+## Glossing abbreviations
+ABS — absolutive; AD — localization ‘at, near’; ADD — ??; AN — ??; ATR — ; AUX — ; CAUS — ; COM — ; CONT — ; CVB — ; D — ; DAT — ; DEM — ; DIR — ; EL — ; ERG — ; GEN — ; GNT — ; HPL — ; I — ; II — ; III — ; IMP — ; IN — ; INF — ; INTER — ; ITS — ; IV — ; K — ; LAT — ; NEG — ; NHPL — ; NONI — ; O — ; PL — ; PN — ; POT — ; PROX — ; PRS — ; PST — ; QUOT — ; SG — ; SON — ; SUB — ; SUPER — ; TRANS — ; U — ; V — ; VBLZ — ; W — .  
 
