@@ -23,7 +23,7 @@ The Russian version of the questionnaire was used for elicitation.
 In Khwarshi, both case marking and argument indexing on the verb display the ergative-absolutive alignment. In the basic transitive construction, the A-argument is in the ergative case, and the P-argument, in the (unmarked) absolutive case. The P-argument also controls the agreement with the verb. The ergative form of nouns coincides with the oblique stem found in other cases. It is mostly marked with suffixes, but there are also instances when the ergative differs from the absolutive only in stress pattern. The stress is not shown graphically in the examples below, however, this particular suprasegmental pattern is marked as \ERG in the gloss. The neutral word order is S(O)V. An example of the transitive construction can be found in (1). 
 
 ```
-(1)	 šamil-i  l-ica-χ-χa           k'ant'a
+(1)  šamil-i  l-ica-χ-χa           k'ant'a
      PN-ERG   IV-break-CAUS-PST.W  stick(IV)
      ‘Shamil broke a stick.’
 ```
