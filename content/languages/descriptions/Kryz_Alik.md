@@ -4,7 +4,7 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
 
-The data were collected in 2023 using the French version of the questionnaire (Azerbaijani was used for the elicitation in some cases). 
+The data were collected in 2023 using the French version of the questionnaire (Azerbaijani was used for the elicitation in some cases). The data have been provided by Rahman Shamseddinov.
 
 ## How to cite
 
