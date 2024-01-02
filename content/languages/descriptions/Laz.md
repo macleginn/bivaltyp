@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by Alexander Rostovtsev-Popiel ([Academia.edu profile](https://uni-mainz.academia.edu/AlexPopiel))
 
-![A.P.'s photo]({{ site_url_j }}/images/Rostovtsev-Popiel.jpg "A.P.'s photo")
+![A.P.'s photo]({{ site_url_j }}/images/Rostovtsev-Popiel_Laz.jpg "A.P.'s photo")
 
 The data were gathered in 2023. The language of elicitation was German (and, in some cases, Turkish).
 
