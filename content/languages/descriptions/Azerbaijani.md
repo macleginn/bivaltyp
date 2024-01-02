@@ -5,6 +5,7 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
 
 The data were collected in 2023 based on the Russian version of the questionnaire. Both Ayten Babalieva and Murad Suleymanov edited the dataset and clarified several tricky issues. The interlinearization belongs exclusively to Gilles Authier.
+
 Before 2023, the project featured two consecutive preliminary versions of the {{ language_external }} dataset. These were contributed by Leyla Kurbanova in 2012 and Evgenija Teplukhina in 2018 respectively.
 
 ## How to cite
@@ -19,4 +20,4 @@ Before 2023, the project featured two consecutive preliminary versions of the {{
 
 ## Glossing abbreviations
 
-ABL — ablative; ACC — accusative; ADV — adverbializer; caus — CAUSATIVE; cop — copula; DAT — dative; GEN — genitive; IMPER — imperative; IPF — imperfective; ITR — intransitive; LAT — lative; LOC — locative; NEG — negation; PERF — perfect; PL — plural; PN — person name; POS — possessive; PST — past; PTCP — participle; SG — singular; TR — transitive.
+ABL — ablative; ACC — accusative; ADV — adverbializer; CAUS — causative; COP — copula; DAT — dative; GEN — genitive; IMP — imperative; IPFV — imperfective; INTR — intransitive; LAT — lative; LOC — locative; NEG — negation; PERF — perfect; PL — plural; PN — person name; POS — possessive; PST — past; PTCP — participle; SG — singular; TR — transitive.
