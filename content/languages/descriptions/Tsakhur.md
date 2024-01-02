@@ -3,8 +3,9 @@
 Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)) 
 
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
+![A.D.'s photo]({{ site_url_j }}/images/Davudov.jpg "A.D.'s photo")
 
-The data were collected in 2023 using the Russian version of the questionnaire and also its Azerbaijani translation. Before 2023, the database featured a limited dataset on Tsakhur that was assembled by Dmitry Gerasimov based on Kibrik et al.'s published materials.
+The data were collected in 2023 using the Russian version of the questionnaire and also its Azerbaijani translation. The data were provided by Ahmed Davudov (see the second picture above). Before 2023, the database featured a limited dataset on Tsakhur that was assembled by Dmitry Gerasimov based on Kibrik et al.'s published materials.
 
 ## How to cite
 
