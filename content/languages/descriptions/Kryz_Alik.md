@@ -45,7 +45,7 @@ Table 1. Alik Kryz nominal declension
 |ADEL|*-v-ar*|*k’ul-cavar*|*furavar*|< AD+EL|
 |APUD|*-ux*|*k’ul-cux*|*fura-ux*|< POST|
 |DIR|*-xv-an*|*k’ul-cu-xvan*|*fura-xv-an*|< POST+LAT|
-|APUDEL|*-xv-ar*|**|**|< POST+EL|
+|APUDEL|*-xv-ar*|*Ø*|*Ø*|< POST+EL|
 |SUPER|*-ğ*|*k’ul-ci-ğ*|*fura-ğ*|< SUPER|
 |EQU|*-ğ-an*|*k’ul-ci-ğ-an*|*fura-ğ-an*|< SUPER+LAT|
 |SUPEREL|*-ğ-ar*|*k’ul-ci-ğar*|*fura-ğ-ar*|< SUPER+EL|
