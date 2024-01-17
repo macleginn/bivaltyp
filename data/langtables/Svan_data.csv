@@ -98,7 +98,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 107	Svan	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		DAT	NOM	X	DAT_NOM		maizer-s lile-Ø x-eː-cnäw	PN-DAT PN-NOM	‘Maizer dreams about Lile.’			
 107	Svan	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		ERG	NOM	TR	TR		maizer-d lile-s aduː-Ø x-äː-kw-e	PN-ERG PN-DAT yes-NOM IO3-VER:SUP-tell-PST	‘Maizer agreed with Lile (lit. ‘Maizer told Lile “yes”’).’			
 107	Svan	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	DAT	Y	NOM_DAT		maizer-Ø lile-s ä-x-cudː-a	PN-NOM PN-DAT PRV:DIST-IO3-quarrel-PST	‘Maizer had a quarrel with Lile.’			
-107	Svan	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM	Y	NOM_NOM		al č'ik-Ø ešxu lar-Ø x-a-ǯeš	DEM.PROX cup-NOM one Lari-NOM IO3-VER:SUP-resemble	‘This cup costs one Lari.’			
+107	Svan	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)		al č'ik-Ø ešxu lar-Ø x-a-ǯeš	DEM.PROX cup-NOM one Lari-NOM IO3-VER:SUP-resemble	‘This cup costs one Lari.’			
 107	Svan	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		ERG	DAT	Y	ERG_DAT		maizer-d näp'ol-s a-x-pišwd	PN-ERG bird-DAT PRV:DIST-IO3-shoot	‘Maizer shot at the bird.’			Same verb as 4.
 107	Svan	102	pour	X (pour) Y	сыпать	X (сыпать) Y		ERG	ALL.INESS	Y	ERG_ALL.INESS		maizer-d č'ik-te-isga šakär-Ø äd-Ø-šid	PN-ERG cup-ALL-INESS sugar-NOM PRV:DIST.VER:S-DO3-scatter	‘Maizer poured the sugar into the cup.’			
 107	Svan	103	lose	X (lose) Y	терять	X (терять) Y		ERG	NOM	TR	TR		maizer-d k'ǝl-ar-Ø ad-Ø-karw-e	PN-ERG key-PL-NOM PRV:DIST-DO3-lose-PST	‘Maizer lost (his) keys.’			
