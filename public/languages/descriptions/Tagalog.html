@@ -141,7 +141,7 @@
   <p>Garcia, Rowena &amp; Rhenee Espayos. 2020. Bivalent patterns in Tagalog. 
   In: Say, Sergey (ed.). BivalTyp: 
   Typological database of bivalent verbs and their encoding frames. 
-  (Data first published on August 11, 2023; last revised on August 11, 2023.) 
+  (Data first published on August 11, 2023; last revised on December 13, 2023.) 
   (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, Accessed on <span id="today"></span>)</p>
 </blockquote>
 
@@ -163,16 +163,21 @@
                 <option value="any">Any</option>
                 <option value="">NA</option>
                 <option value="ACT_BARE">ACT_BARE</option>
+                <option value="ACT_CAUSE">ACT_CAUSE</option>
                 <option value="ACT_gamit">ACT_gamit</option>
                 <option value="ACT_LIN">ACT_LIN</option>
                 <option value="ACT_LOC">ACT_LOC</option>
-                <option value="ACT_mulaLOC">ACT_mulaLOC</option>
-                <option value="LOC_UND">LOC_UND</option>
+                <option value="ACT_mulaPATH">ACT_mulaPATH</option>
+                <option value="ACT_PATH">ACT_PATH</option>
+                <option value="ACT_SBJNV">ACT_SBJNV</option>
+                <option value="LOC_ACT">LOC_ACT</option>
+                <option value="SBJNV_BARE">SBJNV_BARE</option>
+                <option value="SBJNV_CAUSE">SBJNV_CAUSE</option>
+                <option value="SBJNV_LIN">SBJNV_LIN</option>
+                <option value="SBJNV_LOC">SBJNV_LOC</option>
                 <option value="TR">TR</option>
                 <option value="UND_ACT">UND_ACT</option>
-                <option value="UND_BARE">UND_BARE</option>
                 <option value="UND_LIN">UND_LIN</option>
-                <option value="UND_LOC">UND_LOC</option>
             </select>
         </div>
         <div style="display: inline-block; width: 200px;">
@@ -182,6 +187,7 @@
                 <option value="*">*</option>
                 <option value="TR">TR</option>
                 <option value="X">X</option>
+                <option value="XY">XY</option>
                 <option value="Y">Y</option>
             </select>
         </div>
@@ -242,16 +248,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Pedro's head hurts.’</td>
+                        <td colspan="5" class="example-translation">‘Pedro’s head hurts.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier. Non-verbal predicate. Alternative is “S&lt;um&gt;akit ang ulo ni Pedro” [&lt;AV&gt;PFV.hurt SUBJ head PERS.GEN PN] ‘Pedro's head became hurt.’, which also cannot be included because Y is expressed as an NP-internal modifier.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier. Non-verbal predicate.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_BARE" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_BARE" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>2. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/haveillness.html">have (illness)</a>
@@ -263,17 +269,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_BARE</span>
+                            <span>SBJNV_BARE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: BARE</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -305,13 +311,13 @@
                         <td colspan="4" class="example-translation">‘Pedro has the flu.’</td>
                     </tr>
                     <tr>
-                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. I classified this non-verbal construction based on the following considerations. The X-argument, ‘Pedro’, is encoded as a subject marker. Although this construction does not participate in the voice alternations, I still thought it can be compared to the AV construction, one reason for this being the fact that a similar dynamic construction has ‘Pedro’ as the subject in the AV-COM construction: “Nag-ka-trangkaso si Pedro” [AV-COM-PFV-have.flu PERS.SUBJ PN] ‘Pedro got the flu.’. Subjects in AV constructions are considered ACT. By contrast the Y-argument receives no flagging at all and is given a specialized status of ‘BARE’.</td>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>3. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_afraid.html">be afraid</a>
@@ -323,14 +329,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -348,13 +354,12 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">av</span>
                             <span>.</span>
                             <span class="gloss">ipfv</span>
-                            <span>~be</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>afraid</span>
+                            <span>-</span>
+                            <span class="gloss">ipfv</span>
+                            <span>~be_afraid</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -366,14 +371,16 @@
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">dat</span>
-                            <span> dog</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>dog</span>
                         </td>
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is afraid of the dog.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn the dog into the subject here? Alternative is a non-verbal construction: “Takot si Pedro sa aso” [scared PERS.SUBJ PN DAT dog] ‘Pedro is afraid of the dog.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
@@ -441,13 +448,13 @@
                         <td colspan="5" class="example-translation">‘Pedro threw a stone.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is an AV construction: “Nag-hagis si Pedro ng bato” [AV.PFV-throw PERS.SUBJ PN GEN stone] ‘Pedro threw a stone.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Co-exists with an AV construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_BARE" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>5. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/have_enough.html">have enough</a>
@@ -459,17 +466,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>SBJNV_BARE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: BARE</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -512,14 +519,11 @@
                     <tr>
                         <td colspan="7" class="example-translation">‘Pedro now has enough money.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier.</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>6. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/resemble.html">resemble</a>
@@ -531,17 +535,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
@@ -587,13 +591,13 @@
                         <td colspan="6" class="example-translation">‘Pedro resembles his grandfather.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Think about the COM marker. Non-verbal predicate. Although this is a non-verbal construction, the encoding of X and Y is identical with that displayed by ACT &amp; UND in the PV-construction. As RG mentioned that “After chatting with two linguists, I think we can categorize it like a PV”, the pattern here has been identified as “ACT_UND”.</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>7. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/believe.html">believe</a>
@@ -605,11 +609,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
@@ -630,7 +634,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">av</span>
+                            <span>.</span>
+                            <span class="gloss">ipfv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~believe</span>
@@ -656,7 +662,7 @@
                         <td colspan="5" class="example-translation">‘Pedro believes Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the causativized construction with the ACT_LOC pattern: “P&lt;in&gt;a-ni~niwala-an ni Pedro si Miguel” [CAUS&lt;PV&gt;IPFV-belief-LV PERS.GEN PN PERS.SUBJ PN] ‘Pedro believes Miguel’.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Co-exists with the causativized construction with LV and Y argument marked as PERS.SUBJ.</td>
                     </tr>
                 </table>
             </div>
@@ -764,7 +770,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~see</span>
@@ -791,7 +799,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>10. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/influence.html">influence</a>
@@ -803,17 +811,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -828,7 +836,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potav</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">av</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~influence</span>
@@ -850,7 +860,7 @@
                         <td colspan="5" class="example-translation">‘Age influences memory.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the LV construction, also with the ACT_LOC pattern: “Na-i~impluwensya-han ng edad ang memorya” [POTPV-IPFV~influence-LV GEN age SUBJ memory] “Age influences memory” .</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: This kind of marking co-exists with the [SUBJ; GEN] encoding, hence the verb is classified as ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -893,12 +903,12 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
                             <span>-</span>
                             <span class="gloss">com</span>
-                            <span>-</span>
-                            <span class="gloss">pfv</span>
-                            <span>.encounter</span>
+                            <span>-encounter[</span>
+                            <span class="gloss">pv</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -920,14 +930,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro encountered Miguel.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Think about the COM marker. Initially, this form was interpreted as Naka-salubong (POTAV-PFV.encounter). However, the choice of the more logical interpretation (POTPV-COM) was based on “the noun marker interpretation, and not due to uninfluenced voice-marker on the verb judgement”). Alternative is a construction where X and Y are encoded as conjoined NPs: “Nag-ka-salubong sina Pedro at Miguel” [AV-COM-PFV.encounter 3PL.SUBJ PN CONJ PN] ‘Pedro encountered Miguel’.</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_PATH" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>12. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/enter.html">enter</a>
@@ -939,14 +946,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>ACT_PATH</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: PATH</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -989,7 +996,7 @@
                         <td colspan="5" class="example-translation">‘Pedro entered the house.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn the house into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Y argument can also be signaled as &quot;pa-loob ng bahay&quot; [&lt;AV&gt;enter[PFV] DIR-inside GEN house].</td>
                     </tr>
                 </table>
             </div>
@@ -1062,7 +1069,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="ACT_PATH" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>14. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/go_out.html">go out</a>
@@ -1074,17 +1081,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>ACT_PATH</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: PATH</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -1123,6 +1130,9 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro went out of the house.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
@@ -1195,7 +1205,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Pedro is driving the cow to the pasture.’</td>
+                        <td colspan="7" class="example-translation">‘Pedro is bringing the cow to the pasture.’</td>
                     </tr>
                 </table>
             </div>
@@ -1304,10 +1314,8 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>.say-</span>
+                            <span>&gt;say-</span>
                             <span class="gloss">lv</span>
                         </td>
                         <td class="example-gloss">
@@ -1330,14 +1338,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro told Miguel.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into a subject here?</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_BARE" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_LIN" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>18. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/hold.html">hold</a>
@@ -1349,17 +1354,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_BARE</span>
+                            <span>SBJNV_LIN</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: BARE</td>
+                        <td class="predicate-info-table">Y: LIN</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -1398,14 +1403,11 @@
                     <tr>
                         <td colspan="6" class="example-translation">‘Pedro is holding a book’</td>
                     </tr>
-                    <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal construction. RG suggested to treat this construction “as similar to AV”. For that reason, ‘Pedro’ is classified as ACT (in fact, one of the linguists RG consulted suggested exactly the contrary, i.e. to treat unconjugated verbs, here and elsewhere, as parallel to PV). Grammatically, “hawak na” is a preposed modifier to “libro” (not unlike adjectives); “One can actually also say “may libro na hawak”, and “na hawak” is a relative clause”. Thus, “libro” has a very special status here in that it has no flag at all (hence, classified as BARE). There is a solid ground to believe that ‘the book’ is not the subject (Cf. RG’s remark that Sabbagh (2009) wrote that “Concretely, all existential sentences are impersonal constructions in that they have no overt subject and the nominal pivot functions as an internal argument of some sort. That the pivot (e.g., held book) is an internal argument rather than a subject is established by a couple of observations. First, one property of subjects in Tagalog is that they can serve as the shared subject of coordinated predicates… By contrast, non-subjects (namely, direct objects and VP-internal agents) cannot serve as the shared argument of coordinated predicates (see Kroeger 1993: 35; Sabbagh 2008)… With respect to this type of argument sharing, the pivot in existential sentences appears to pattern as a non-subject (i.e., internal argument) rather than as a subject.” Alternative is the stative construction with the pattern ACT_UND: “Hawak-hawak ni Pedro ang libro” [held PERS.GEN PN SUBJ book] ‘Pedro is holding the book.’</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>19. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/catch_up.html">catch up</a>
@@ -1417,17 +1419,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -1470,14 +1472,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro caught up with Miguel.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Miguel into the subject here?</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>20. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/milk.html">milk</a>
@@ -1489,17 +1488,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -1540,13 +1539,13 @@
                         <td colspan="5" class="example-translation">‘Pedro milked the cow’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The GEN encoding of the Y is also possible with different NPs, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_PATH" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>21. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/reach.html">reach</a>
@@ -1558,14 +1557,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>ACT_PATH</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: PATH</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -1583,7 +1582,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potav</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">av</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-reach</span>
@@ -1607,13 +1608,13 @@
                         <td colspan="5" class="example-translation">‘Pedro reached the bank.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn the bank into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y argument can also be signaled by a locative phrase.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>22. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/touch.html">touch</a>
@@ -1625,17 +1626,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -1651,11 +1652,9 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>-touch-</span>
-                            <span class="gloss">lv</span>
+                            <span>&gt;touch-</span>
+                            <span class="gloss">pv</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -1676,7 +1675,7 @@
                         <td colspan="5" class="example-translation">‘Pedro touched the wall.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here? Alternative is the POTPV-LV construction with the ACT_LOC (???) pattern: “Na-hawak-an ni Pedro ang pader” [POTPV.PFV-touch-LV PERS.GEN PN SUBJ wall] ‘Pedro touched the wall.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is also possible with different NPs, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -1743,14 +1742,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is fighting Miguel.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is an AV construction where X and Y are expressed in a conjoined NP: “Nag-a~away sina Pedro at Miguel” [AV-IPFV~fight 3PL.SUBJ PN CONJ PN] ‘Pedro is fighting with Miguel.’</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>24. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_friends.html">be friends</a>
@@ -1762,17 +1758,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
@@ -1787,8 +1783,7 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">f</span>
-                            <span>riend</span>
+                            <span>friend</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -1811,13 +1806,13 @@
                         <td colspan="5" class="example-translation">‘Pedro is friends with Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. This non-verbal predicate has been identified as an ACT_UND pattern based on RG’s comment that this constructions can be considered like PV. Alternative is an non-verbal pattern with X and Y expressed in a conjoined NP: “Mag-kaibigan sina Pedro at Miguel” [friends 3PL.SUBJ PN CONJ PN] ‘Pedro is friends with Miguel.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier. Non-verbal predicate.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>25. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/think.html">think</a>
@@ -1829,17 +1824,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -1879,6 +1874,9 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is thinking about Miguel.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
@@ -2011,13 +2009,13 @@
                         <td colspan="5" class="example-translation">‘Pedro fried the fish.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is an AV construction: “Nag-prito si Pedro ng isda” [AV.PFV-fry PERS.SUBJ PN GEN fish] ‘Pedro fried the fish’.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Co-exists with the AV construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>28. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/wait.html">wait</a>
@@ -2029,17 +2027,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -2080,13 +2078,13 @@
                         <td colspan="5" class="example-translation">‘Pedro is waiting for Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is nevertheless a PV construction that looks exactly like the ACT_UND pattern: “H&lt;in&gt;i~hintay ni Pedro si Miguel” [&lt;PV&gt;IPFV~wait PERS.GEN PN PERS.SUBJ PN] ‘Pedro is waiting for Miguel.’ It is interesting and unexpected for me that there is no LV marking in this second option.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Co-exists with a PV construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>29. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/forget.html">forget</a>
@@ -2098,17 +2096,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -2125,13 +2123,13 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
-                            <span>-</span>
-                            <span class="gloss">com</span>
+                            <span class="gloss">pot</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
+                            <span>-</span>
+                            <span class="gloss">stem</span>
                             <span>-forget-</span>
-                            <span class="gloss">lv</span>
+                            <span class="gloss">pv</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -2159,7 +2157,7 @@
                         <td colspan="7" class="example-translation">‘Pedro forgot about the other road.’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here? ??? Think about the COM marker. RG was not sure about the analysis of this structure.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is also possible with different NPs, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -2202,7 +2200,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statav</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">av</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-depend</span>
@@ -2222,6 +2222,9 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Memory depends on age.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. Non-verbal predicate (state).</td>
                     </tr>
                 </table>
             </div>
@@ -2331,7 +2334,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">pfv</span>
                             <span>.know</span>
@@ -2356,11 +2361,14 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro got to know Miguel.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
+                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="ACT_SBJNV" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>33. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/know.html">know</a>
@@ -2372,17 +2380,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>ACT_SBJNV</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: SBJNV</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -2420,7 +2428,7 @@
                         <td colspan="5" class="example-translation">‘Pedro knows Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: This construction is classified as a ACT_UND pattern based on the assumption that it can be viewed like a PV, although there is no voice morphology in this structure.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (pseudo-verb). The interpretation of X as ACT is partially arbitrary (it is based on similarity on the analogy with constructions with voice markers).</td>
                     </tr>
                 </table>
             </div>
@@ -2486,9 +2494,6 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is playing the guitar.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is a construction where Y is incorporated into the verb: “Nag-gi~gitara si Pedro” [AV-IPFV~play guitar PERS.SUBJ PN] ‘Pedro is playing the guitar.’</td>
                     </tr>
                 </table>
             </div>
@@ -2558,7 +2563,7 @@
                         <td colspan="5" class="example-translation">‘Pedro avoids Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is a LV with the same ACT_LOC pattern: “&lt;In&gt;i~iwas-an ni Pedro si Miguel” [&lt;PV&gt;IPFV~avoid-LV PERS.GEN PN PERS.SUBJ PN] ‘Pedro avoids Miguel.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is not possible. Co-exists with the LV construction.</td>
                     </tr>
                 </table>
             </div>
@@ -2674,10 +2679,11 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">caus</span>
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
+                            <span class="gloss">ipfv</span>
                             <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~laugh-</span>
                             <span class="gloss">lv</span>
@@ -2702,14 +2708,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is making fun of Miguel.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_BARE" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_BARE" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>38. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/have.html">have</a>
@@ -2721,17 +2724,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_BARE</span>
+                            <span>SBJNV_BARE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: BARE</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -2763,7 +2766,7 @@
                         <td colspan="4" class="example-translation">‘Pedro has a car.’</td>
                     </tr>
                     <tr>
-                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal (existential) construction. The X argument is identified as ACT based on the assumption that this construction is basically like an AV construction.</td>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
                     </tr>
                 </table>
             </div>
@@ -2829,6 +2832,8 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">dat</span>
+                            <span>-</span>
+                            <span class="gloss">lin</span>
                         </td>
                         <td class="example-gloss">
                             <span>keys</span>
@@ -2841,7 +2846,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>40. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/paint.html">paint</a>
@@ -2853,17 +2858,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -2879,11 +2884,9 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>~paint-</span>
-                            <span class="gloss">lv</span>
+                            <span>&gt;paint-</span>
+                            <span class="gloss">pv</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -2904,7 +2907,7 @@
                         <td colspan="5" class="example-translation">‘Pedro painted the fence’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is also possible with different NPs, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -2975,7 +2978,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LOC_UND" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="LOC_ACT" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>42. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/forfeit.html">forfeit</a>
@@ -2987,14 +2990,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LOC_UND</span>
+                            <span>LOC_ACT</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: LOC</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -3012,7 +3015,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-lose-</span>
@@ -3037,7 +3042,7 @@
                         <td colspan="5" class="example-translation">‘Pedro lost his house.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn the house into the subject here? (the reason I ask is that as I see from you grandma&amp;stone example, there is no flagging difference between ACT and UND in the LV construction (see the identical encoding of grandma and a stone). RG mentions that she “cannot say that house is an actor” and adds that “what makes [this verb] different from the other POTPV is that this one has a locative voice marking too, which makes Pedro sort of the source/owner of the object that is now lost. The ACT in other POTPV are more clearly agents. For this item, I really cannot add an agent, but for another verb POTPV + LV verb, I can add an agent: “Na-hagis-an ng lola ng bato ang bata.” The grandma (ng lola) accidentally threw the child (ang bata) a stone (ng bato).”</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
@@ -3072,8 +3077,7 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">S&lt;in&gt;u~subuk-an-g</td>
-                        <td class="example-word">huli-hin</td>
+                        <td class="example-word">H&lt;in&gt;u~huli</td>
                         <td class="example-word">ni</td>
                         <td class="example-word">Pedro</td>
                         <td class="example-word">ang</td>
@@ -3085,16 +3089,7 @@
                             <span class="gloss">pv</span>
                             <span>&gt;</span>
                             <span class="gloss">ipfv</span>
-                            <span>~try-</span>
-                            <span class="gloss">lin</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>catch-</span>
-                            <span class="gloss">pv</span>
-                            <span>.</span>
-                            <span class="gloss">nonreal</span>
-                            <span>.</span>
-                            <span class="gloss">pfv</span>
+                            <span>~catch</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -3112,7 +3107,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Pedro is trying to catch the cat.’</td>
+                        <td colspan="5" class="example-translation">‘Pedro is trying to catch the cat.’</td>
                     </tr>
                 </table>
             </div>
@@ -3151,11 +3146,13 @@
                         <td class="example-word">ni</td>
                         <td class="example-word">Pedro</td>
                         <td class="example-word">ang</td>
-                        <td class="example-word">patpat/kahoy</td>
+                        <td class="example-word">patpat</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-break</span>
@@ -3179,7 +3176,7 @@
                         <td colspan="5" class="example-translation">‘Pedro broke a stick.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is a POTAV construction, also with the ACT_UND pattern: “Naka-bali si Pedro ng patpat/kahoy” [POTAV.PFV-break PERS.SUBJ PERS GEN stick] “Pedro broke a stick”.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is a POT.AV construction. </td>
                     </tr>
                 </table>
             </div>
@@ -3247,9 +3244,6 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is flattering Maria.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is a AV construction, also with a ACT_UND pattern (hence, SBJ &amp; GEN), cf. “Pedro flattered someone/a girl” “Nambola si Pedro ng isang babae.”, where the girl gets GEN. But this is only possible with indefinite Y-arguments, not with a proper name.</td>
                     </tr>
                 </table>
             </div>
@@ -3384,7 +3378,7 @@
                         <td colspan="5" class="example-translation">‘Pedro is waving the handkerchief.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is AV construction, also with the ACT_UND pattern: “Nag-wa~wagayway si Pedro ng panyo” [AV-IPFV~wave PERS.SUBJ PN GEN handkerchief] ‘Pedro is waving a handkerchief’.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the AV construction, also with the ACT_UND pattern.</td>
                     </tr>
                 </table>
             </div>
@@ -3456,13 +3450,13 @@
                         <td colspan="6" class="example-translation">‘Pedro is dreaming of a new car.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the CAUS&lt;PV&gt; construction, also with the ACT_UND pattern: “P&lt;in&gt;a~pangarap ni Pedro ang bago-ng sasakyan” [CAUS&lt;PV&gt;IPFV~dream PERS.GEN PN SUBJ new-LIN vehicle] ‘Pedro is dreaming of a new car.’</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the CAUS&lt;PV&gt; construction, also with the ACT_UND pattern. </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>49. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/wash.html">wash</a>
@@ -3474,17 +3468,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -3500,11 +3494,9 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>~wash-</span>
-                            <span class="gloss">lv</span>
+                            <span>&gt;wash-</span>
+                            <span class="gloss">pv</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -3525,7 +3517,7 @@
                         <td colspan="5" class="example-translation">‘Pedro washed the cup.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of Y is possible in the AV construction, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -3604,13 +3596,13 @@
                         <td colspan="6" class="example-translation">‘Pedro put on his trousers.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the AVconstruction, also with the ACT_UND pattern: “Nag-suot si Pedro ng kaniya-ng pantalon.” [AV.PFV-put on PERS.SUBJ PN GEN 3.SG.DAT-LIN trousers] ‘Pedro put on his trousers.’</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the AV construction, also with the ACT_UND pattern. </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LIN" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="UND_LIN" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>51. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_called.html">be called</a>
@@ -3632,7 +3624,7 @@
                         <td class="predicate-info-table">Y: LIN</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -3680,13 +3672,13 @@
                         <td colspan="7" class="example-translation">‘This tool is called a compass.’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: SS. ‘This tool’ has the status I identify as UND (PV &amp; SBJ). However, ‘compass’ is not an ACT (‘Indeed, one can add an agent with a ng- phrase (tinatawag na compass ang gamit na ito ng mga scientists “scientists call this tool a compass”), so the “na compass” does seem to be something else»). The label LIN is somewhat arbitrarz though, but it signals some special relation to the predicate.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: This is a transimpersonal construction. </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>52. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/punish.html">punish</a>
@@ -3698,17 +3690,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -3725,11 +3717,9 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>-punish-</span>
-                            <span class="gloss">lv</span>
+                            <span>&gt;punish-</span>
+                            <span class="gloss">pv</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -3758,7 +3748,7 @@
                         <td colspan="6" class="example-translation">‘Pedro punished his son.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of Y is possible in the AV construction, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -3827,7 +3817,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="UND_ACT" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>54. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/fillintr.html">fill (intr)</a>
@@ -3839,17 +3829,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>UND_ACT</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: X</td>
                     </tr>
                 </table>
             </div>
@@ -3864,7 +3854,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-fill</span>
@@ -3927,7 +3919,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-find</span>
@@ -4003,10 +3997,7 @@
                             <span class="gloss">pv</span>
                             <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>.fall</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>short</span>
+                            <span>.fall_short</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -4018,7 +4009,8 @@
                             <span class="gloss">pers</span>
                             <span>.</span>
                             <span class="gloss">subj</span>
-                            <span> </span>
+                        </td>
+                        <td class="example-gloss">
                             <span class="gloss">pn</span>
                         </td>
                     </tr>
@@ -4026,13 +4018,13 @@
                         <td colspan="5" class="example-translation">‘Pedro is one peso short.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The status of X-argument, ‘Pedro’, is more or les doubtlessly UND. Things get more complicated when it comes to the Y-argument, ‘one peso’. Based on the observed encoding pattern it should be classified as ACT. This does contradict the semantic expectations we have but fits the observed encoding. Unexpectedly, in the corresponding AV construction no change in the encoding of arguments occurs: actually they receive the same flags as in the PV construction, cf. “Nag-kulang ng piso si Pedro“ [AV.PFV-short GEN one_peso PERS.SUBJ PN] ‘Pedro is one peso short.’. Taken in isolation, this structure would have analyzed as ACT_UND.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The valency label is partially arbitrary, since this verb does not fit the usual scheme: the encoding of arguments is not affected by the contrast between voice markers on the verb. </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>57. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/hate.html">hate</a>
@@ -4044,14 +4036,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -4069,7 +4061,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~angry</span>
@@ -4095,13 +4089,13 @@
                         <td colspan="5" class="example-translation">‘Pedro hates Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Miguel into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="ACT_SBJNV" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>58. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/like.html">like</a>
@@ -4113,17 +4107,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>ACT_SBJNV</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: SBJNV</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -4164,13 +4158,13 @@
                         <td colspan="5" class="example-translation">‘Pedro likes this shirt.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. Despite the lack of overt voice morphology, this structure has been analyzed similar to PV construction and identified as ACT_UND.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. The interpretation of X as ACT is partially arbitrary (it is based on similarity on the analogy with constructions with voice markers).</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="LOC_UND" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>59. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/need.html">need</a>
@@ -4182,17 +4176,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LOC_UND</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LOC</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: X</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -4207,11 +4201,13 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
-                            <span>-</span>
                             <span class="gloss">ipfv</span>
+                            <span>.</span>
+                            <span class="gloss">av</span>
+                            <span>-</span>
+                            <span class="gloss">ipf</span>
                             <span>~need-</span>
-                            <span class="gloss">lv</span>
+                            <span class="gloss">av</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -4230,9 +4226,6 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro needs money.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn money into the subject here? I chose this option because it has overt voice morphology. Alternative is a non-verbal construction with a very unusual pattern (two GEN in the coding frame; probably should be viewed as UND_UND), cf. “Kailangan ni Pedro ng pera” [need PERS.GEN PN GEN money] ‘Pedro needs money’.</td>
                     </tr>
                 </table>
             </div>
@@ -4275,7 +4268,11 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">ipfv</span>
+                            <span>.</span>
+                            <span class="gloss">mod</span>
+                            <span>-</span>
+                            <span class="gloss">man</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~surround-</span>
@@ -4297,14 +4294,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Walls surround the city.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn the walls into the subject here? Alternative is another LV construction: “P&lt;in&gt;a~pa-libut-an ng pader ang lungsod” [&lt;PV&gt;IPFV~surround-LV GEN wall SUBJ city] ‘Walls surround the city.’</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_BARE" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_BARE" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>61. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/remain.html">remain</a>
@@ -4316,17 +4310,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_BARE</span>
+                            <span>SBJNV_BARE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: BARE</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -4366,13 +4360,13 @@
                         <td colspan="6" class="example-translation">‘Pedro only has 10 pesos left.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. Alternative that was actually suggested first was a cleft construction: “Sampung-piso na lang ang na-ti~tira kay Pedro.” [Ten-pesos now only SUBJ POTPV-IPFV~leave PERS.DAT PN] ‘Pedro only has 10 pesos left.’ Here, X is LOC.</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>62. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/answer.html">answer</a>
@@ -4384,17 +4378,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -4410,10 +4404,10 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>.answer</span>
+                            <span>.answer&gt;[</span>
+                            <span class="gloss">lv</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -4501,7 +4495,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>64. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_different.html">be different</a>
@@ -4513,11 +4507,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
@@ -4530,7 +4524,7 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">Naiiba</td>
+                        <td class="example-word">Na-i~iba</td>
                         <td class="example-word">ang</td>
                         <td class="example-word">damit</td>
                         <td class="example-word">ko</td>
@@ -4539,7 +4533,15 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>different</span>
+                            <span>&lt;</span>
+                            <span class="gloss">ipfv</span>
+                            <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-</span>
+                            <span class="gloss">ipfv</span>
+                            <span>~be_different[</span>
+                            <span class="gloss">av</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">subj</span>
@@ -4563,14 +4565,11 @@
                     <tr>
                         <td colspan="6" class="example-translation">‘My shirt is different from yours.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal construction. It has been aligned with PV constructions and, consequently, identified as UND_LOC.</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>65. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/fall_behind.html">fall behind</a>
@@ -4582,11 +4581,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
@@ -4607,10 +4606,13 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
-                            <span>.</span>
+                            <span>&lt;</span>
                             <span class="gloss">pfv</span>
-                            <span>-fall_behind</span>
+                            <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-be_last[</span>
+                            <span class="gloss">av</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -4631,9 +4633,6 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro fell behind Miguel.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
                     </tr>
                 </table>
             </div>
@@ -4701,13 +4700,13 @@
                         <td colspan="5" class="example-translation">‘Pedro is ploughing the field.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the AV construction: “Nag-a~araro ng bukid si Pedro” [AV-IPFV-plough GEN field PERS.SUBJ PN] ‘Pedro is ploughing the field.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Co-exists with the AV-construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_BARE" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_BARE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>67. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/smell.html">smell</a>
@@ -4719,11 +4718,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_BARE</span>
+                            <span>ACT_BARE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: BARE</td>
@@ -4744,7 +4743,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">ipfv</span>
                             <span>~smell</span>
@@ -4766,16 +4767,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘My hands smell like / smell of gasoline.’</td>
+                        <td colspan="5" class="example-translation">‘My hands smell of gasoline.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The status of the X argument is clearly UND. The status of the Y-argument is trickier: it can be considered an incorporated object. The label BARE is used because there is no overt flagging associated with this argument. Alternatively, this structre can be disregarded altogether as the one that lacks two clause-level arguments.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The label BARE is used because there is no overt flagging associated with this argument.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_PATH" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>68. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/cross.html">cross</a>
@@ -4787,14 +4788,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>ACT_PATH</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: PATH</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -4837,7 +4838,7 @@
                         <td colspan="5" class="example-translation">‘Pedro crossed the road.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn the road into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y-argument can be introduced by PATH-expression.</td>
                     </tr>
                 </table>
             </div>
@@ -5040,7 +5041,7 @@
                         <td colspan="5" class="example-translation">‘Pedro drank the milk.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is a PV construction, also with the ACT_UND pattern: “&lt;In&gt;inom ni Pedro ang gatas” [&lt;PV&gt;PFV.drink PERS.GEN PN SUBJ milk] ‘Pedro drank the milk.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Co-exists with the PV-construction.</td>
                     </tr>
                 </table>
             </div>
@@ -5119,7 +5120,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_LOC" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>73. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/match.html">match</a>
@@ -5131,17 +5132,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>SBJNV_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -5157,7 +5158,7 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>matches</span>
+                            <span>appropriate</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">subj</span>
@@ -5179,16 +5180,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘This belt goes well with / matches my dress.’</td>
+                        <td colspan="6" class="example-translation">‘This belt goes well with my dress.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. If this voiceless construction is to be aligned with PV, as suggested by RG, then this is the UND_LOC pattern.</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (adjective). </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_PATH" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>74. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/leave.html">leave</a>
@@ -5200,14 +5201,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>ACT_PATH</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: PATH</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -5217,7 +5218,7 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">&lt;Ni&gt;lis-an</td>
+                        <td class="example-word">Ni-lisan</td>
                         <td class="example-word">ni</td>
                         <td class="example-word">Pedro</td>
                         <td class="example-word">ang</td>
@@ -5226,12 +5227,12 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>.leave-</span>
-                            <span class="gloss">lv</span>
+                            <span>-leave[</span>
+                            <span class="gloss">p</span>
+                            <span>ath</span>
+                            <span class="gloss">v</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -5260,7 +5261,7 @@
                         <td colspan="6" class="example-translation">‘Pedro left his native city.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
@@ -5304,7 +5305,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~cover-</span>
@@ -5331,7 +5334,7 @@
                         <td colspan="6" class="example-translation">‘The carpet covers the whole floor.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn the carpet into the subject here?</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
@@ -5378,7 +5381,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~remembers</span>
@@ -5485,7 +5490,7 @@
                         <td colspan="5" class="example-translation">‘Pedro helped Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
@@ -5528,7 +5533,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potav</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">av</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~understand</span>
@@ -5594,10 +5601,8 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
-                            <span>&gt;</span>
                             <span class="gloss">pfv</span>
-                            <span>~hit-</span>
+                            <span>&gt;hit-</span>
                             <span class="gloss">lv</span>
                         </td>
                         <td class="example-gloss">
@@ -5614,10 +5619,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Lightning hit / struck the house.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn the lightning into the subject here? Alternative is a construction where the X-argument is semantically incorporated into the verb: “Na-kidlat-an ang bahay” [POTPV.PFV-strike_by_lightning-LV SUBJ house] ‘Lightning hit / struck the house’.</td>
+                        <td colspan="5" class="example-translation">‘Lightning hit the house.’</td>
                     </tr>
                 </table>
             </div>
@@ -5663,7 +5665,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-cut</span>
@@ -5696,13 +5700,13 @@
                         <td colspan="8" class="example-translation">‘Pedro cut himself with a razor.’</td>
                     </tr>
                     <tr>
-                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Hsieh (2020) considers “gamit ang pang-ahit” as an adverbial phrase.</td>
+                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: gamit is a originally a verb that has partially grammaticalized into a preposition.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>81. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/get_stuck.html">get stuck</a>
@@ -5714,11 +5718,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
@@ -5739,10 +5743,12 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
-                            <span>.</span>
                             <span class="gloss">pfv</span>
-                            <span>-stick</span>
+                            <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-stick[</span>
+                            <span class="gloss">av</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">subj</span>
@@ -5760,14 +5766,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘The glass got stuck to the table.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn the table into the subject here?</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>82. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/losegame.html">lose (game)</a>
@@ -5779,11 +5782,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
@@ -5804,10 +5807,13 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
-                            <span>.</span>
+                            <span>&lt;</span>
                             <span class="gloss">pfv</span>
-                            <span>-lose</span>
+                            <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-lose[</span>
+                            <span class="gloss">av</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -5829,14 +5835,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro lost to Miguel.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Miguel into the subject here?</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>83. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_glad.html">be glad</a>
@@ -5848,14 +5851,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -5873,10 +5876,13 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
-                            <span>.</span>
+                            <span>&lt;</span>
                             <span class="gloss">pfv</span>
-                            <span>-glad</span>
+                            <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-be_glad[</span>
+                            <span class="gloss">av</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -5897,7 +5903,7 @@
                         <td colspan="5" class="example-translation">‘Pedro was glad about the letter.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn the letter into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
@@ -5968,9 +5974,6 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is speaking with Miguel.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
                     </tr>
                 </table>
             </div>
@@ -6085,7 +6088,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-drop</span>
@@ -6109,13 +6114,13 @@
                         <td colspan="5" class="example-translation">‘Pedro dropped the glass.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is the same verb in a slightly different voice construction, but with the same encoding frame: “H&lt;in&gt;ulog ni Pedro ang salamin” [&lt;PV&gt;PFV.drop PERS.GEN PN SUBJ glass] ‘Pedro dropped the glass.’</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. Co-exists with the regular PV construction that implies intentional action and has the same encoding frame. </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>87. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/govern.html">govern</a>
@@ -6127,17 +6132,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -6190,13 +6195,13 @@
                         <td colspan="6" class="example-translation">‘Pedro runs our town.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of Y is possible in the AV construction, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>88. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/miss.html">miss</a>
@@ -6208,11 +6213,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
@@ -6233,10 +6238,15 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
-                            <span>.</span>
+                            <span>&lt;</span>
                             <span class="gloss">ipfv</span>
-                            <span>~miss</span>
+                            <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-</span>
+                            <span class="gloss">ipfv</span>
+                            <span>~feel_lonely[</span>
+                            <span class="gloss">av</span>
+                            <span>]</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -6258,14 +6268,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro misses Maria.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_PATH" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>89. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/follow.html">follow</a>
@@ -6277,14 +6284,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>ACT_PATH</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: PATH</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -6329,13 +6336,13 @@
                         <td colspan="5" class="example-translation">‘Pedro follows Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_mulaLOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_mulaPATH" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>90. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/dismount.html">dismount</a>
@@ -6347,14 +6354,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_mulaLOC</span>
+                            <span>ACT_mulaPATH</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: X</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: mulaLOC</td>
+                        <td class="predicate-info-table">Y: mulaPATH</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -6405,7 +6412,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>91. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/listen.html">listen</a>
@@ -6417,17 +6424,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -6467,13 +6474,13 @@
                         <td colspan="5" class="example-translation">‘Pedro is listening to radio’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is also possible with the same Y-argument, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>92. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/obey.html">obey</a>
@@ -6485,17 +6492,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -6546,7 +6553,7 @@
                         <td colspan="7" class="example-translation">‘Pedro always listens to / obeys his mother.’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Although ‘his mother’ is animate, the DAT marker used is the “inanimate” one; with a person name like Miguel “kay” would be used. Alternative is the PV construction that looks exactly like ACT_UND pattern: “S&lt;in&gt;u~sunod palagi ni Pedro ang nanay niya” [&lt;PV&gt;IPFV~obey ADV PERS.GEN PN SUBJ mother 3.SG.GEN] ‘Pedro always listens to / obeys his mother’.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is also possible, hence ACT_UND. Co-exists with the PV-construction.</td>
                     </tr>
                 </table>
             </div>
@@ -6589,7 +6596,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">ipfv</span>
                             <span>~hear</span>
@@ -6676,7 +6685,7 @@
                         <td colspan="5" class="example-translation">‘The honey got accidentally mixed with the milk.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Alternative is a symmetrical construction where X and Y are expressed in a conjoined NP: “Nag-halo ang pulot at gatas” [AV.PFV-mix SUBJ honey CONJ milk] ‘The honey got mixed with the milk’.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. I classified this as ACT_LOC because I observe &quot;sa&quot;. But maybe it alternates with ng? </td>
                     </tr>
                 </table>
             </div>
@@ -6720,7 +6729,7 @@
                     <tr>
                         <td class="example-gloss">
                             <span>&lt;</span>
-                            <span class="gloss">pv</span>
+                            <span class="gloss">ipfv</span>
                             <span>&gt;</span>
                             <span class="gloss">ipfv</span>
                             <span>~look-</span>
@@ -6743,9 +6752,6 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro is looking at the clouds.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
                     </tr>
                 </table>
             </div>
@@ -6811,7 +6817,7 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">dat</span>
-                            <span>.</span>
+                            <span>-</span>
                             <span class="gloss">lin</span>
                         </td>
                         <td class="example-gloss">
@@ -6825,7 +6831,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>97. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/dreamsleeping.html">dream (sleeping)</a>
@@ -6837,17 +6843,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -6862,7 +6868,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">ipfv</span>
                             <span>~dream-</span>
@@ -6889,7 +6897,7 @@
                         <td colspan="5" class="example-translation">‘Pedro dreams about Maria.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The GEN encoding of Y is possible in the AV construction, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -6959,7 +6967,7 @@
                         <td colspan="5" class="example-translation">‘Pedro agreed with Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is not possible.</td>
                     </tr>
                 </table>
             </div>
@@ -7027,9 +7035,6 @@
                     </tr>
                     <tr>
                         <td colspan="5" class="example-translation">‘Maria quarreled with Pedro.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: RG: “that’s what I would answer to a question “Why is Pedro so sad”---that Maria did something to him”. Alternative is a symmetrical construction: “Nag-away sina Pedro at Maria” [AV.PFV-quarrel 3PL.SUBJ PN CONJ PN] ‘Pedro had a quarrel with Maria.’</td>
                     </tr>
                 </table>
             </div>
@@ -7101,7 +7106,7 @@
                         <td colspan="5" class="example-translation">‘This cup costs 1 peso.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Think about the COM marker (and read a comment on this). RG: “Piso here is like compass in 51”. “ “Ito” can be a demonstrative and the LIN links it to the noun, like “this cup”. This would have simply been “ang baso” if it had been “the cup” instead of “this cup””. “I sometimes feel like the “ng” is also used like “na” as a linker (51).”. SS. i) I took your last comment seriously and changed the gloss of “ng” in this sentence.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The DAT encoding of the Y-argument is also possible.</td>
                     </tr>
                 </table>
             </div>
@@ -7282,7 +7287,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-lose</span>
@@ -7377,7 +7384,7 @@
                         <td colspan="5" class="example-translation">‘The log sank in the water.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn water into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is not possible. </td>
                     </tr>
                 </table>
             </div>
@@ -7517,7 +7524,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>107. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/kiss.html">kiss</a>
@@ -7529,17 +7536,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -7582,7 +7589,7 @@
                         <td colspan="5" class="example-translation">‘Pedro kissed Maria.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
@@ -7627,7 +7634,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potav</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">av</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-read</span>
@@ -7657,9 +7666,6 @@
                     </tr>
                     <tr>
                         <td colspan="7" class="example-translation">‘Pedro read an interesting book’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: An alternative word for ‘interesting’ is nakakawili.</td>
                     </tr>
                 </table>
             </div>
@@ -7725,7 +7731,7 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">dat</span>
-                            <span>.</span>
+                            <span>-</span>
                             <span class="gloss">lin</span>
                         </td>
                         <td class="example-gloss">
@@ -7806,7 +7812,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>111. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_squeamish.html">be squeamish</a>
@@ -7818,14 +7824,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -7844,10 +7850,12 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">ipfv</span>
+                            <span>.</span>
+                            <span class="gloss">stem</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
-                            <span>.be_squeamish</span>
+                            <span>~to_feel_disgusted</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -7874,13 +7882,13 @@
                         <td colspan="6" class="example-translation">‘Pedro is squeamish about dirty dishes.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_CAUSE" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>112. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_content.html">be content</a>
@@ -7892,17 +7900,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>SBJNV_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -7912,6 +7920,7 @@
                         <td class="example-word">Kuntento</td>
                         <td class="example-word">si</td>
                         <td class="example-word">Pedro</td>
+                        <td class="example-word">dahil</td>
                         <td class="example-word">sa</td>
                         <td class="example-word">kaniya-ng</td>
                         <td class="example-word">anak</td>
@@ -7929,6 +7938,9 @@
                             <span class="gloss">pn</span>
                         </td>
                         <td class="example-gloss">
+                            <span>because.of</span>
+                        </td>
+                        <td class="example-gloss">
                             <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
@@ -7944,16 +7956,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Pedro is content with his son.’</td>
+                        <td colspan="7" class="example-translation">‘Pedro is content with his son.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal construction. RG suggested to align it with PV, hence ‘Pedro’ is viewed as an UND.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (adjective). </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>113. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/fall_in_love.html">fall in love</a>
@@ -7965,17 +7977,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>TR</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: UND</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: TR</td>
                     </tr>
                 </table>
             </div>
@@ -7990,7 +8002,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">potpv</span>
+                            <span class="gloss">pot</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-</span>
@@ -8018,7 +8032,7 @@
                         <td colspan="5" class="example-translation">‘Pedro fell in love with Maria.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here? Alternative is “Na-hulog si Pedro kay Maria” [POTPV-PFV.fall PERS.SUBJ PN PERS.DAT PN] ‘Pedro fell in love with Maria.’, with the same UND_LOC pattern.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The GEN encoding of the Y is also possible with different NPs, hence ACT_UND.</td>
                     </tr>
                 </table>
             </div>
@@ -8087,7 +8101,7 @@
                         <td colspan="5" class="example-translation">‘Pedro trusts Maria.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Maria into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is not possible. </td>
                     </tr>
                 </table>
             </div>
@@ -8165,13 +8179,13 @@
                         <td colspan="6" class="example-translation">‘Pedro sympathises with his mother.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn his mother into the subject here?</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The GEN encoding of the Y is not possible. </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>116. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/envy.html">envy</a>
@@ -8183,14 +8197,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -8208,7 +8222,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~envy</span>
@@ -8234,13 +8250,13 @@
                         <td colspan="5" class="example-translation">‘Pedro envies Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Miguel into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>117. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_angry.html">be angry</a>
@@ -8252,14 +8268,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -8277,7 +8293,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~angry</span>
@@ -8303,13 +8321,13 @@
                         <td colspan="5" class="example-translation">‘Pedro is angry with Miguel.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Miguel into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>118. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_surprised.html">be surprised</a>
@@ -8321,14 +8339,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -8348,7 +8366,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-shock</span>
@@ -8381,13 +8401,13 @@
                         <td colspan="7" class="example-translation">‘Pedro was surprised at this gift.’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn this gift into the subject here?</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_LOC" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>119. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/lovetea.html">love (tea)</a>
@@ -8399,17 +8419,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>SBJNV_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -8424,7 +8444,8 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>like</span>
+                            <span>like.</span>
+                            <span class="gloss">adj</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">dat</span>
@@ -8445,13 +8466,13 @@
                         <td colspan="5" class="example-translation">‘Pedro loves tea’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: RG suggested to align this structure with the PV constructions (hence, ‘Pedro’ is viewed as an UND). RG: I am actually now thinking if the ma- should be considered as STATPV in non-realis perfective (which supports the PV alignment).”</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (adjective). The Y-argument can only be signalled by DAT.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_LOC" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>120. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/enjoy.html">enjoy</a>
@@ -8463,17 +8484,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>SBJNV_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -8490,7 +8511,8 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>like</span>
+                            <span>like.</span>
+                            <span class="gloss">adj</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -8517,13 +8539,13 @@
                         <td colspan="7" class="example-translation">‘Pedro enjoys hot tea’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. RG suggested to align this structure with the PV constructions (hence, ‘Pedro’ is viewed as an UND).</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate (adjective). The Y-argument can only be signalled by DAT.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>121. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/want.html">want</a>
@@ -8535,17 +8557,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
@@ -8561,7 +8583,7 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>want</span>
+                            <span>like</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -8586,13 +8608,13 @@
                         <td colspan="6" class="example-translation">‘Pedro wants a new mobile phone.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Syntactic interpretation of this construction is tricky and partially arbitrary. First, it is based on RG’s suggestion to align this structure with PV structures. Thus, ‘Pedro’ is interpreted as ACT. As for the Y-argument, ‘phone’, it is treated as UND mainly because “one can have an “ang” before phone here, which just changes the specificity of the patient”. RG also noticed that she thinks that “we can treat telephone as PAT here, but yes, I don’t really have a clue. One linguist was telling me that constructions such as this are used as arguments that the ang-phrase is not a real subject.”</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. The GEN marker on the Y-argument signals indefiniteness (otherwise SUBJ is required). Co-exists with the construction in 129. The pattern is exceptional and cannot be fitted into the classification based on voice contrasts.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJNV_LOC" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>122. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/have_a_grudge.html">have a grudge</a>
@@ -8604,17 +8626,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>SBJNV_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACT</td>
+                        <td class="predicate-info-table">X: SBJNV</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -8664,13 +8686,13 @@
                         <td colspan="8" class="example-translation">‘Pedro has a grudge against Miguel’</td>
                     </tr>
                     <tr>
-                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. GR suggested to align this construction with the AV.</td>
+                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>123. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/take_offence.html">take offence</a>
@@ -8682,14 +8704,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -8707,7 +8729,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>-angry</span>
@@ -8733,7 +8757,7 @@
                         <td colspan="5" class="example-translation">‘Pedro took offence at Miguel. (Pedro got angry at Miguel.)’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
@@ -8806,7 +8830,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>125. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/marvel.html">marvel</a>
@@ -8818,14 +8842,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -8844,7 +8868,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>.</span>
                             <span class="gloss">pfv</span>
                             <span>~be</span>
@@ -8868,22 +8894,22 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">dat</span>
-                            <span>.</span>
+                            <span>-</span>
                             <span class="gloss">lin</span>
                             <span> town</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Pedo marvelled at / was struck by / was impressed by this town’</td>
+                        <td colspan="6" class="example-translation">‘Pedro marvelled at this town’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn Pedro into the subject here?</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ACT_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>126. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/despise.html">despise</a>
@@ -8895,14 +8921,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACT_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -8920,12 +8946,14 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>ka&lt;</span>
-                            <span class="gloss">pv</span>
+                            <span>&lt;</span>
+                            <span class="gloss">ipfv</span>
                             <span>&gt;</span>
+                            <span class="gloss">stem</span>
+                            <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~despise-</span>
-                            <span class="gloss">lv</span>
+                            <span class="gloss">cv</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pers</span>
@@ -8947,14 +8975,11 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pedro despises Miguel.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: ??? Can you change the voice and turn Pedro into the subject here?</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>127. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/get_upset.html">get upset</a>
@@ -8966,17 +8991,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
@@ -9022,7 +9047,7 @@
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">dat</span>
-                            <span>.</span>
+                            <span>-</span>
                             <span class="gloss">lin</span>
                         </td>
                         <td class="example-gloss">
@@ -9030,13 +9055,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Pedro got upset with his son.’</td>
+                        <td colspan="8" class="example-translation">‘Pedro got upset with his son.’ (Lit. ‘Pedro’s feelings at his son got bad.’)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="UND_LOC" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>128. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/get_irritated.html">get irritated</a>
@@ -9048,14 +9076,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>UND_LOC</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: UND</td>
+                        <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LOC</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -9076,7 +9104,9 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span class="gloss">statpv</span>
+                            <span class="gloss">stat</span>
+                            <span>.</span>
+                            <span class="gloss">pv</span>
                             <span>-</span>
                             <span class="gloss">ipfv</span>
                             <span>~irritate</span>
@@ -9114,13 +9144,13 @@
                         <td colspan="8" class="example-translation">‘Pedro is getting irritated with his daughter.’</td>
                     </tr>
                     <tr>
-                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Can you change the voice and turn his daughter into the subject here?</td>
+                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey. The Y-argument i) can be introduced by an explicit causal marker and ii) can be promotoed to subject in the causal voice construction.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="ACT_SBJNV" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>129. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_fond.html">be fond</a>
@@ -9132,17 +9162,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>ACT_SBJNV</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: SBJNV</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -9180,13 +9210,13 @@
                         <td colspan="5" class="example-translation">‘Pedro likes Maria.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. RG suggested to align this example with PV constructions.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. The interpretation of X as ACT is partially arbitrary (it is based on similarity on the analogy with constructions with voice markers).</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="ACT_CAUSE" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>130. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_shy.html">be shy</a>
@@ -9198,17 +9228,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>ACT_CAUSE</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ACT</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: UND</td>
+                        <td class="predicate-info-table">Y: CAUSE</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -9255,7 +9285,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Pedro is shy / embarrassed about his height.’</td>
+                        <td colspan="6" class="example-translation">‘Pedro is shy about his height.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Ask Sergey</td>
                     </tr>
                 </table>
             </div>

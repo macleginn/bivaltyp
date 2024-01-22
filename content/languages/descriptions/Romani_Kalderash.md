@@ -2,6 +2,8 @@
 Contributed by [Kirill Kozhanov](https://www.uni-potsdam.de/de/slavische-linguistik/team/kirill-kozhanov) 
 ([Academia.edu profile](https://wipcad-potsdam.academia.edu/KirillKozhanov))
 
+![K.K.'s photo]({{ site_url_j }}/images/Kozhanov.jpeg "K.K.'s photo")
+
 The data were gathered in {{ data_collection_year }}. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite

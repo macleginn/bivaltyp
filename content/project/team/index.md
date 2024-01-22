@@ -52,15 +52,17 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 
 ### Language contributors
 
+Indira Abdulaeva, Gilles Authier: {{ language:Akhvakh_Tsunta }}  
 Anna Alexandrova: {{ language:Italian }}  
 Daria Alfimova, Søren Wichmann: {{ language:Danish }}  
 Mansour Amadeh: {{ language:Kurdish_Sorani }}  
 Ekaterina Aplonova: {{ language:Goo }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
-Gilles Authier: {{ language:Rutul_Southern }}  
+Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Southern }}, {{ language:Tsakhur }}  
+Gilles Authier, Uzlipat Gasanova: {{ language:Dargwa_Kaytag }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
-Gilles Authier, Murad Suleymanov: {{ language:Azerbaijani }}  
+Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
@@ -68,13 +70,16 @@ Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}
 Nadezhda Bulatova: {{ language:Evenki }}  
 Daria Chistiakova, Daria Ryzhova: {{ language:Shughni }}  
 Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, {{ language:Soninke }}  
+Michael Daniel: {{ language:Archi }}  
 Michael Daniel, Tagir Gadzhiakhmedov, Natalia Logvinova: {{ language:Kumyk }}  
+Michael Daniel, Majsarat Musaeva: {{ language:Mehweb }}  
 Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul_Kina }}  
 Varvara Diveeva: {{ language:Albanian }}  
 Sergey Dmitrenko: {{ language:Khmer }}  
 Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
 Martin Gális, Kirill Kozhanov: {{ language:Slovak }}  
-Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}, {{ language:Tsakhur }}  
+Dmitry Ganenkov:  {{ language:Chirag }}  
+Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}  
 Wakweya Gobena:  {{ language:Oromo_West_Central }}  
 Elena Gorbova: {{ language:Spanish }}  
 Irene Gorbunova, Yurij Chernov:  {{ language:Khwarshi }}  
@@ -82,6 +87,7 @@ Olga Gorickaja: {{ language:Belarusian }}
 Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}  
 Ildar Ibragimov: {{ language:Greek_Ancient }}  
 Vasilisa Kagirova: {{ language:Armenian_Eastern }}  
+Maria Khachaturyan: {{ language:Mano }}
 Maria Kholodilova: {{ language:Moksha }}, {{ language:Chuvash }}  
 Max Kłoczenko: {{ language:Portuguese_Brazilian }}  
 Mikhail Knyazev: {{ language:Dutch }}  
@@ -90,7 +96,8 @@ Yukari Konuma: {{ language:Japanese }}
 Elena Kordi: {{ language:French }}  
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
-Samona Kurilova: {{ language:Yukaghir_Northern }}  
+Samona Kurilova, Maria Pupynina: {{ language:Yukaghir_Northern }}  
+Nikita Kuzin: {{ language:Yukaghir_Northern }}  
 Olga Kuznetsova: {{ language:Guro }}  
 Timur Maisak: {{ language:Udi }}  
 Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
@@ -132,6 +139,7 @@ Gasangusen Sulaibanov:  {{ language:Dargwa_Tsugni }}
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
+Alena Witzlack-Makarevich, Sylvanus Job {{ language:Khoekhoe }}
 Elizaveta Zabelina: {{ language:Telugu }}  
 Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}  
 Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}  

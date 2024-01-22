@@ -1,7 +1,9 @@
 # {{ language_external }}
 Contributed by [Rasul Mutalov](https://iling-ran.ru/web/ru/scholars/mutalov)
 
-The data were gathered in 2018. The Russian version of the questionnaire was used for elicitation. 
+![R.M.'s photo]({{ site_url_j }}/images/Mutalov.jpg "R.M.'s photo")
+
+The data were gathered in 2018 and then revised in early 2024. The Russian version of the questionnaire was used for elicitation. 
 
 ## How to cite
 > Mutalov, Rasul. 2023. Bivalent patterns in {{ language_external}}. 

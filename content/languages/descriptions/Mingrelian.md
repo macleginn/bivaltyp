@@ -34,7 +34,7 @@ Table 1. Verbs with case-shift: case marking in the four series
 | Series III | DAT     | NOM           | [ALL]           |
 | Series IV  | NOM     | DAT           | DAT             |
 
-For the purposes of the dataset below, the verb is considered transitive if and only if it displays case-shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1.The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” respectively, even if the actual sentence happens not to belong to Series II and the actual forms used are, thus, not ERG and NOM. For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
+For the purposes of the dataset below, the verb is considered transitive if and only if it displays case-shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” respectively, even if the actual sentence happens not to belong to Series II and the actual forms used are, thus, not ERG and NOM. For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
 
 ```
 
@@ -52,7 +52,7 @@ Thus, the labels used in the annotation of transitive verbs correspond to the ac
 
 ```
 
-(3)  čelo-Ø  anučia-še(n)  Ø-pirk-en-s.
+(3)  čelo-Ø  anučia-še(n)  Ø-pirk-en-s
      PN-NOM  PN-ABL        S3-think-SM-S3SG
      ‘Chelo thinks about Anuchia.’
 
@@ -62,7 +62,7 @@ The case-shift scheme represented in Table 1 above is only a part of the complex
 
 ### Case system
 
-There are ten grammatical cases: nominative, ergative, dative (core cases), genitive, instrumental, adverbial (oblique cases), two ablatives (for the purposes of this study treated as one), allative, and benefactive (secondary cases). Some of these cases are not featured in the dataset below. All four secondary cases are morphologically based on the genitive. Apart from grammatical cases, there are further case-like expressions, such as the sociative, which is featured in several entries below.
+There are ten grammatical cases: nominative, ergative, dative (core cases), genitive, instrumental, adverbial (oblique cases), two ablatives (for the purposes of this study, they are treated as one), allative, and benefactive (secondary cases). Some of these cases are not featured in the dataset below. All four secondary cases are morphologically based on the genitive. Apart from grammatical cases, there are further case-like expressions, such as the sociative, which is featured in several entries below.
 
 ## Verb lemmas
 
