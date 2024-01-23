@@ -140,7 +140,7 @@
   <p>Khachaturyan, Maria. 2023. Bivalent patterns in Mano. 
   In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
   (Data first published on November 27, 2023; 
-  last revised on November 27, 2023.) (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, 
+  last revised on December 25, 2023.) (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, 
   Accessed on <span id="today"></span>.)</p>
 </blockquote>
 
@@ -161,22 +161,21 @@
             <select id="valpal-select">
                 <option value="any">Any</option>
                 <option value="">NA</option>
-                <option value="ACC_NOM">ACC_NOM</option>
-                <option value="ge_NOM">ge_NOM</option>
-                <option value="kele_NOM">kele_NOM</option>
-                <option value="le_NOM">le_NOM</option>
-                <option value="mo_NOM">mo_NOM</option>
-                <option value="NOM_ba">NOM_ba</option>
-                <option value="NOM_ka">NOM_ka</option>
-                <option value="NOM_kele">NOM_kele</option>
-                <option value="NOM_ko">NOM_ko</option>
-                <option value="NOM_la">NOM_la</option>
-                <option value="NOM_lee">NOM_lee</option>
-                <option value="NOM_loc">NOM_loc</option>
-                <option value="NOM_mo">NOM_mo</option>
-                <option value="NOM_pie">NOM_pie</option>
-                <option value="NOM_yi">NOM_yi</option>
-                <option value="POSS&amp;ACC_NOM">POSS&amp;ACC_NOM</option>
+                <option value="DO_SBJ">DO_SBJ</option>
+                <option value="ge_SBJ">ge_SBJ</option>
+                <option value="kele_ka">kele_ka</option>
+                <option value="kele_SBJ">kele_SBJ</option>
+                <option value="le_SBJ">le_SBJ</option>
+                <option value="lee_BARE">lee_BARE</option>
+                <option value="mo_SBJ">mo_SBJ</option>
+                <option value="SBJ_ba">SBJ_ba</option>
+                <option value="SBJ_ka">SBJ_ka</option>
+                <option value="SBJ_la">SBJ_la</option>
+                <option value="SBJ_lee">SBJ_lee</option>
+                <option value="SBJ_LOC">SBJ_LOC</option>
+                <option value="SBJ_mo">SBJ_mo</option>
+                <option value="SBJ_pie">SBJ_pie</option>
+                <option value="SBJ_yi">SBJ_yi</option>
                 <option value="TR">TR</option>
             </select>
         </div>
@@ -187,12 +186,13 @@
                 <option value="*">*</option>
                 <option value="TR">TR</option>
                 <option value="X">X</option>
+                <option value="XY">XY</option>
                 <option value="Y">Y</option>
             </select>
         </div>
     </div>
     <p id="stats"/>
-    <div data-valpal="POSS&amp;ACC_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DO_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>1. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/feel_pain.html">feel pain</a>
@@ -204,14 +204,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>POSS&amp;ACC_NOM</span>
+                            <span>DO_SBJ</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: POSS&amp;ACC</td>
+                        <td class="predicate-info-table">X: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -259,11 +259,14 @@
                     <tr>
                         <td colspan="6" class="example-translation">‘This tooth of mine hurts.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The possessor is necessarily coreferential with the direct object.</td>
+                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="mo_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="mo_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>2. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/haveillness.html">have (illness)</a>
@@ -275,14 +278,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>mo_NOM</span>
+                            <span>mo_SBJ</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: mo</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -317,11 +320,14 @@
                     <tr>
                         <td colspan="4" class="example-translation">‘Se has malaria.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Existential construction. Under specific circumstances, the verb 'to be' (kɛ̄) has a zero form.</td>
+                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_lee" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_lee" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>3. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_afraid.html">be afraid</a>
@@ -333,11 +339,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_lee</span>
+                            <span>SBJ_lee</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: lee</td>
@@ -399,10 +405,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -441,7 +447,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="kele_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="kele_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>5. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/have_enough.html">have enough</a>
@@ -453,14 +459,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>kele_NOM</span>
+                            <span>kele_SBJ</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: kele</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -490,17 +496,21 @@
                             <span class="gloss">sg</span>
                         </td>
                         <td class="example-gloss">
+                            <span class="gloss">pstp</span>
                             <span>hand</span>
                         </td>
                     </tr>
                     <tr>
                         <td colspan="4" class="example-translation">‘I have money.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Existential construction. Under specific circumstances, the verb 'to be' (kɛ̄) has a zero form.</td>
+                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ba" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ba" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>6. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/resemble.html">resemble</a>
@@ -512,11 +522,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ba</span>
+                            <span>SBJ_ba</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ba</td>
@@ -569,7 +579,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_la" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_la" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>7. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/believe.html">believe</a>
@@ -581,11 +591,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_la</span>
+                            <span>SBJ_la</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: la</td>
@@ -649,10 +659,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -707,10 +717,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -744,7 +754,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘Pe voit une maison.’</td>
+                        <td colspan="4" class="example-translation">‘Pe sees a house.’</td>
                     </tr>
                 </table>
             </div>
@@ -796,7 +806,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>11. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/encounter.html">encounter</a>
@@ -808,11 +818,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -858,7 +868,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_loc" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>12. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/enter.html">enter</a>
@@ -870,14 +880,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_loc</span>
+                            <span>SBJ_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: loc</td>
+                        <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -908,6 +918,9 @@
                     </tr>
                     <tr>
                         <td colspan="3" class="example-translation">‘We entered a house.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: LOC is a special form of (some) nouns. It goes back to the postposition &quot;yí&quot; but is not synchronically interchangeable with it.</td>
                     </tr>
                 </table>
             </div>
@@ -956,7 +969,7 @@
                             <span class="gloss">pl</span>
                         </td>
                         <td class="example-gloss">
-                            <span>hand</span>
+                            <span>arm</span>
                         </td>
                         <td class="example-gloss">
                             <span>3</span>
@@ -982,7 +995,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘They won over the Kpelle.’</td>
+                        <td colspan="7" class="example-translation">‘They beat the Kpelle.’</td>
                     </tr>
                     <tr>
                         <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier.</td>
@@ -991,7 +1004,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_loc" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>14. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/go_out.html">go out</a>
@@ -1003,14 +1016,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_loc</span>
+                            <span>SBJ_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: loc</td>
+                        <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -1042,11 +1055,14 @@
                     <tr>
                         <td colspan="3" class="example-translation">‘We went out of the house.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: LOC is a special form of (some) nouns. It goes back to the postposition &quot;yí&quot; but is not synchronically interchangeable with it.</td>
+                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>15. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/drive.html">drive</a>
@@ -1058,11 +1074,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -1099,7 +1115,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He is driving a cow.’</td>
+                        <td colspan="4" class="example-translation">‘S/he is driving a cow.’</td>
                     </tr>
                 </table>
             </div>
@@ -1121,10 +1137,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -1157,13 +1173,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He bent a branch.’</td>
+                        <td colspan="4" class="example-translation">‘S/he bent a branch.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_lee" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_lee" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>17. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/tell.html">tell</a>
@@ -1175,11 +1191,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_lee</span>
+                            <span>SBJ_lee</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: lee</td>
@@ -1312,10 +1328,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -1370,10 +1386,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -1412,11 +1428,14 @@
                     <tr>
                         <td colspan="5" class="example-translation">‘Pe milked a cow.’</td>
                     </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Mano sentence contains a complex predicate, which includes a nominal and a verbal part (see Grammar notes above). </td>
+                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_la" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_la" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>21. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/reach.html">reach</a>
@@ -1428,11 +1447,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_la</span>
+                            <span>SBJ_la</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: la</td>
@@ -1482,7 +1501,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>22. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/touch.html">touch</a>
@@ -1494,11 +1513,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -1577,7 +1596,8 @@
                         <td class="example-word">gbàlà</td>
                         <td class="example-word">mìà</td>
                         <td class="example-word">kóò</td>
-                        <td class="example-word">gèlè gɔ̰̄</td>
+                        <td class="example-word">gèlè</td>
+                        <td class="example-word">gɔ̰̄</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -1597,6 +1617,12 @@
                             <span class="gloss">cstr</span>
                         </td>
                         <td class="example-gloss">
+                            <span>1</span>
+                            <span class="gloss">pl</span>
+                            <span>.</span>
+                            <span class="gloss">ipfv</span>
+                        </td>
+                        <td class="example-gloss">
                             <span>war</span>
                         </td>
                         <td class="example-gloss">
@@ -1605,16 +1631,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘We and the Kpelle people fight.’</td>
+                        <td colspan="6" class="example-translation">‘We and the Kpelle people fight.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X and Y are expressed as a coordinate NP.</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X and Y are expressed as a coordinate NP.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_pie" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_pie" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>24. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_friends.html">be friends</a>
@@ -1626,11 +1652,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_pie</span>
+                            <span>SBJ_pie</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: pie</td>
@@ -1682,14 +1708,11 @@
                     <tr>
                         <td colspan="7" class="example-translation">‘Ko became friends with your sisters.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Probably should be changed to the present tense stative sentence.</td>
-                    </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>25. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/think.html">think</a>
@@ -1701,11 +1724,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -1722,7 +1745,7 @@
                         <td class="example-word">lɛ̄</td>
                         <td class="example-word">ē</td>
                         <td class="example-word">yɛ́lɛ́</td>
-                        <td class="example-word">táápɛ̀lɛ̀</td>
+                        <td class="example-word">táá-pɛ̀lɛ̀</td>
                         <td class="example-word">ī</td>
                         <td class="example-word">mɔ̀</td>
                     </tr>
@@ -1746,7 +1769,8 @@
                             <span>spirit</span>
                         </td>
                         <td class="example-gloss">
-                            <span>walk</span>
+                            <span>walk-</span>
+                            <span class="gloss">inf</span>
                         </td>
                         <td class="example-gloss">
                             <span>2</span>
@@ -1760,7 +1784,7 @@
                         <td colspan="7" class="example-translation">‘Pe is thinking about you.’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Reflexive: this construction requires a DO argument that is coreferential with the subject.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Labile verb used transitively. The object’s possessor is necessarily coreferential with the subject.</td>
                     </tr>
                 </table>
             </div>
@@ -1782,10 +1806,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -1840,10 +1864,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -1898,10 +1922,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -1936,13 +1960,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘Pe is waiting for you.’</td>
+                        <td colspan="4" class="example-translation">‘S/he is waiting for you.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>29. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/forget.html">forget</a>
@@ -1954,11 +1978,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -1995,7 +2019,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He forgot about me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he forgot about me.’</td>
                     </tr>
                 </table>
             </div>
@@ -2063,10 +2087,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2101,7 +2125,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He calls me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he calls me.’</td>
                     </tr>
                 </table>
             </div>
@@ -2123,10 +2147,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2156,7 +2180,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He got to know me.’</td>
+                        <td colspan="3" class="example-translation">‘S/he got to know me.’</td>
                     </tr>
                 </table>
             </div>
@@ -2178,10 +2202,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2212,7 +2236,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He knows me.’</td>
+                        <td colspan="3" class="example-translation">‘S/he knows me.’</td>
                     </tr>
                 </table>
             </div>
@@ -2234,10 +2258,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2267,7 +2291,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘She plays tamtam.’</td>
+                        <td colspan="3" class="example-translation">‘S/he plays tamtam.’</td>
                     </tr>
                 </table>
             </div>
@@ -2289,10 +2313,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2327,7 +2351,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘She avoids me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he avoids me.’</td>
                     </tr>
                 </table>
             </div>
@@ -2349,10 +2373,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2381,13 +2405,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He made powder.’</td>
+                        <td colspan="3" class="example-translation">‘S/he made powder.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>37. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/make_fun.html">make fun</a>
@@ -2399,11 +2423,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -2441,13 +2465,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He makes fun of me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he makes fun of me.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="kele_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="kele_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>38. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/have.html">have</a>
@@ -2459,14 +2483,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>kele_NOM</span>
+                            <span>kele_SBJ</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: kele</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -2500,6 +2524,7 @@
                             <span class="gloss">sg</span>
                         </td>
                         <td class="example-gloss">
+                            <span class="gloss">pstp</span>
                             <span>hand</span>
                         </td>
                     </tr>
@@ -2526,10 +2551,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2539,32 +2564,34 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">lō</td>
-                        <td class="example-word">ɓà</td>
-                        <td class="example-word">sà̰ā̰</td>
-                        <td class="example-word">nāà! </td>
+                        <td class="example-word">lɛ̄</td>
+                        <td class="example-word">là</td>
+                        <td class="example-word">nɛ́</td>
+                        <td class="example-word">nāā-pɛ̀lɛ̀</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>go:</span>
-                            <span class="gloss">ipfv</span>
+                            <span>3</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">exi</span>
                         </td>
                         <td class="example-gloss">
-                            <span>2</span>
+                            <span>3</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
                             <span class="gloss">poss</span>
                         </td>
                         <td class="example-gloss">
-                            <span>work</span>
+                            <span>child</span>
                         </td>
                         <td class="example-gloss">
-                            <span>love.</span>
-                            <span class="gloss">ger</span>
+                            <span>love-</span>
+                            <span class="gloss">inf</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘Go look for work!.’</td>
+                        <td colspan="4" class="example-translation">‘S/he is looking for his/her child.’</td>
                     </tr>
                 </table>
             </div>
@@ -2586,10 +2613,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2623,7 +2650,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He is coloring the dress.’</td>
+                        <td colspan="4" class="example-translation">‘S/he is coloring the dress.’</td>
                     </tr>
                 </table>
             </div>
@@ -2645,10 +2672,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2688,7 +2715,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_yi" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_yi" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>42. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/forfeit.html">forfeit</a>
@@ -2700,11 +2727,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_yi</span>
+                            <span>SBJ_yi</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: yi</td>
@@ -2717,42 +2744,30 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">lɛ́ɛ̀</td>
-                        <td class="example-word">pɛ̄</td>
-                        <td class="example-word">dò</td>
-                        <td class="example-word">gínī</td>
-                        <td class="example-word">ɲɛ́nɛ́</td>
-                        <td class="example-word">séŋ́</td>
+                        <td class="example-word">ē</td>
+                        <td class="example-word">kɔ̰́</td>
                         <td class="example-word">ká</td>
+                        <td class="example-word">yí</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
                             <span>3</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
-                            <span class="gloss">ipfv</span>
+                            <span class="gloss">pst</span>
                         </td>
                         <td class="example-gloss">
-                            <span>thing</span>
+                            <span>be.deprived</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">indef</span>
+                            <span>house</span>
                         </td>
                         <td class="example-gloss">
-                            <span>lose</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>day</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>every</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>with</span>
+                            <span>in</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘He loses something every day.’</td>
+                        <td colspan="4" class="example-translation">‘S/he was deprived of a house.’</td>
                     </tr>
                 </table>
             </div>
@@ -2774,10 +2789,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2787,39 +2802,27 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">Pèé</td>
-                        <td class="example-word">ē</td>
-                        <td class="example-word">ló</td>
-                        <td class="example-word">ā</td>
-                        <td class="example-word">kṵ́</td>
+                        <td class="example-word">lɛ̄</td>
+                        <td class="example-word">lūúgɔ̰̀à̰nɛ́ɛ́</td>
+                        <td class="example-word">kṵ́-pɛ̀lɛ̀</td>
                     </tr>
                     <tr>
-                        <td class="example-gloss">
-                            <span class="gloss">pn</span>
-                        </td>
                         <td class="example-gloss">
                             <span>3</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
-                            <span class="gloss">pst</span>
+                            <span class="gloss">exi</span>
                         </td>
                         <td class="example-gloss">
-                            <span>go</span>
+                            <span>wild.cat</span>
                         </td>
                         <td class="example-gloss">
-                            <span>3</span>
-                            <span class="gloss">sg</span>
-                            <span>.</span>
-                            <span class="gloss">pst</span>
-                            <span>&gt;3</span>
-                            <span class="gloss">sg</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>catch</span>
+                            <span>catch-</span>
+                            <span class="gloss">inf</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Pe went and caught up with him.’</td>
+                        <td colspan="3" class="example-translation">‘S/he is trying to catch a wild cat’</td>
                     </tr>
                 </table>
             </div>
@@ -2841,10 +2844,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -2887,7 +2890,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>45. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/flatter.html">flatter</a>
@@ -2899,57 +2902,64 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">kà</td>
-                        <td class="example-word">wálà</td>
-                        <td class="example-word">tɔ́</td>
-                        <td class="example-word">yīè</td>
-                        <td class="example-word">tɛ̀nɛ̄</td>
+                        <td class="example-word">Pèé</td>
+                        <td class="example-word">lɛ̄</td>
+                        <td class="example-word">ē</td>
+                        <td class="example-word">nā</td>
+                        <td class="example-word">tɛ̀nɛ̄-pɛ̀lɛ̀</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>2</span>
-                            <span class="gloss">pl</span>
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>3</span>
+                            <span class="gloss">sg</span>
                             <span>.</span>
-                            <span class="gloss">sbjv</span>
+                            <span class="gloss">exi</span>
                         </td>
                         <td class="example-gloss">
-                            <span>god</span>
+                            <span>3</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">refl</span>
                         </td>
                         <td class="example-gloss">
-                            <span>name</span>
+                            <span>wife</span>
                         </td>
                         <td class="example-gloss">
-                            <span>good</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>raise</span>
+                            <span>praise-</span>
+                            <span class="gloss">inf</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Let's praise the good name of the God.’</td>
+                        <td colspan="5" class="example-translation">‘Pe is praising his wife.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because this translation is semantically inaccurate.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>46. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/loveperson.html">love (person)</a>
@@ -2961,11 +2971,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -3024,10 +3034,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -3062,13 +3072,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He waved a handkerchief.’</td>
+                        <td colspan="4" class="example-translation">‘S/he waved a handkerchief.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>48. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/dream.html">dream</a>
@@ -3080,11 +3090,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -3125,7 +3135,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘he dreamed of me.’</td>
+                        <td colspan="5" class="example-translation">‘S/he dreamed of me.’</td>
                     </tr>
                 </table>
             </div>
@@ -3147,10 +3157,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -3178,7 +3188,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="2" class="example-translation">‘she is washing him.’</td>
+                        <td colspan="2" class="example-translation">‘S/he is washing him.’</td>
                     </tr>
                 </table>
             </div>
@@ -3200,10 +3210,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -3213,9 +3223,9 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word"/>
                         <td class="example-word">āà</td>
-                        <td class="example-word">kīī wàà</td>
+                        <td class="example-word">kīī</td>
+                        <td class="example-word">wàà</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -3232,13 +3242,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘she has put the shoes on.’</td>
+                        <td colspan="3" class="example-translation">‘S/he has put her shoes on.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
+    <div data-valpal="lee_BARE" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>51. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_called.html">be called</a>
@@ -3250,17 +3260,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>lee_BARE</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: lee</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: BARE</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
@@ -3298,10 +3308,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘He is called Ce.’</td>
+                        <td colspan="5" class="example-translation">‘S/he is called Ce.’</td>
                     </tr>
                     <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: This is a transimpersonal construction with a dummy DO.</td>
                     </tr>
                 </table>
             </div>
@@ -3353,7 +3363,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>53. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/attack.html">attack</a>
@@ -3365,11 +3375,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -3407,7 +3417,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘he attacks me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he attacks me.’</td>
                     </tr>
                 </table>
             </div>
@@ -3477,7 +3487,7 @@
                         <td colspan="6" class="example-translation">‘The bowl is being filled with water.’</td>
                     </tr>
                     <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier. Complicated pattern, it should be discussed further.</td>
+                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
@@ -3499,10 +3509,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -3513,8 +3523,8 @@
                 <table class="example" cellspacing="0">
                     <tr>
                         <td class="example-word">māà</td>
-                        <td class="example-word">kɛ̄</td>
-                        <td class="example-word">zì</td>
+                        <td class="example-word">ɓà</td>
+                        <td class="example-word">ká</td>
                         <td class="example-word">nāā</td>
                     </tr>
                     <tr>
@@ -3527,28 +3537,30 @@
                             <span class="gloss">sg</span>
                         </td>
                         <td class="example-gloss">
-                            <span>do</span>
+                            <span>2</span>
+                            <span class="gloss">sg</span>
+                            <span>.</span>
+                            <span class="gloss">poss</span>
                         </td>
                         <td class="example-gloss">
-                            <span>way:</span>
-                            <span class="gloss">cstr</span>
+                            <span>house</span>
                         </td>
                         <td class="example-gloss">
                             <span>love</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘I found a solution.’</td>
+                        <td colspan="4" class="example-translation">‘I found your house.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
+    <div data-valpal="kele_ka" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>56. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_short.html">be short</a>
-            <span class="predicate-translation" style="margin-left: 3px;">*</span>
+            <span class="predicate-translation" style="margin-left: 3px;">lépāà + COP.NEG</span>
         </p>
         <div class="predicate-info">
             <div class="example-info-div">
@@ -3556,41 +3568,82 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>kele_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: kele</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: ka</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: XY</td>
                     </tr>
                 </table>
             </div>
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">*</td>
+                        <td class="example-word">à</td>
+                        <td class="example-word">lépāà</td>
+                        <td class="example-word">wáá</td>
+                        <td class="example-word">ká</td>
+                        <td class="example-word">wáá</td>
+                        <td class="example-word">vṵ̀</td>
+                        <td class="example-word">dōó</td>
+                        <td class="example-word">ká</td>
+                        <td class="example-word">pèé</td>
+                        <td class="example-word">kɛ̀lɛ̀</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>*</span>
+                            <span>3</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>completeness</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">cop</span>
+                            <span>.</span>
+                            <span class="gloss">neg</span>
+                            <span>&gt;3</span>
+                            <span class="gloss">sg</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>with</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>thousand</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>ten</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>one</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>with</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span class="gloss">pn</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>hand</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="1" class="example-translation">*</td>
+                        <td colspan="10" class="example-translation">‘Pe lacks ten thousand (Guinean Francs).’ Lit.: ‘Its completeness isn’t with it with ten thousand in Pe’s hand.’</td>
                     </tr>
                     <tr>
-                        <td colspan="1" style="background-color: rgb(240,240,240); max-width: 300px;">Note: No satisfactory translation has been obtained.</td>
+                        <td colspan="10" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate. The Y argument is obligatorily expressed as the possessor of the relative noun &quot;lépāà&quot; and also optionally signalled by the postposition &quot;ká&quot;.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="ge_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="ge_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>57. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/hate.html">hate</a>
@@ -3602,14 +3655,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ge_NOM</span>
+                            <span>ge_SBJ</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ge</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -3639,6 +3692,7 @@
                             <span class="gloss">sg</span>
                         </td>
                         <td class="example-gloss">
+                            <span class="gloss">pstp</span>
                             <span>stomach</span>
                         </td>
                     </tr>
@@ -3649,7 +3703,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ACC_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DO_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>58. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/like.html">like</a>
@@ -3661,14 +3715,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ACC_NOM</span>
+                            <span>DO_SBJ</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: ACC</td>
+                        <td class="predicate-info-table">X: DO</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -3703,7 +3757,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘I like her.’</td>
+                        <td colspan="4" class="example-translation">‘I like him/her.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Mano sentence contains a complex predicate, which includes a nominal and a verbal part (see Grammar notes above). </td>
                     </tr>
                 </table>
             </div>
@@ -3780,7 +3837,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>60. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/surround.html">surround</a>
@@ -3792,11 +3849,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -3840,7 +3897,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_kele" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="kele_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>61. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/remain.html">remain</a>
@@ -3852,17 +3909,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_kele</span>
+                            <span>kele_SBJ</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: kele</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: kele</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: Y</td>
+                        <td class="predicate-info-table">Locus: X</td>
                     </tr>
                 </table>
             </div>
@@ -3893,6 +3950,7 @@
                             <span class="gloss">sg</span>
                         </td>
                         <td class="example-gloss">
+                            <span class="gloss">pstp</span>
                             <span>hand</span>
                         </td>
                     </tr>
@@ -3919,10 +3977,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -3960,7 +4018,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘She has responded to me.’</td>
+                        <td colspan="5" class="example-translation">‘S/he has responded to me.’</td>
                     </tr>
                 </table>
             </div>
@@ -3982,10 +4040,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4018,17 +4076,17 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘She opened the house.’</td>
+                        <td colspan="4" class="example-translation">‘S/he opened the house.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>64. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_different.html">be different</a>
-            <span class="predicate-translation" style="margin-left: 3px;">see comment</span>
+            <span class="predicate-translation" style="margin-left: 3px;">kɛ̄ gbɛ̄ɛ̄</span>
         </p>
         <div class="predicate-info">
             <div class="example-info-div">
@@ -4036,11 +4094,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -4081,16 +4139,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘She was different from me.’</td>
-                    </tr>
-                    <tr>
-                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The alternative should be discussed further.</td>
+                        <td colspan="5" class="example-translation">‘S/he was different from me.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_pie" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_pie" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>65. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/fall_behind.html">fall behind</a>
@@ -4102,11 +4157,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_pie</span>
+                            <span>SBJ_pie</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: pie</td>
@@ -4143,7 +4198,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘She fell behind me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he fell behind me.’</td>
                     </tr>
                 </table>
             </div>
@@ -4165,10 +4220,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4197,7 +4252,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He cultivates a field. .’</td>
+                        <td colspan="3" class="example-translation">‘S/he cultivates a field.’</td>
                     </tr>
                     <tr>
                         <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Always combines with lɛ̀, field.</td>
@@ -4292,10 +4347,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4346,10 +4401,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4378,7 +4433,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘She sings.’</td>
+                        <td colspan="3" class="example-translation">‘S/he sings.’</td>
                     </tr>
                     <tr>
                         <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Always combines with tá̰, song.</td>
@@ -4403,10 +4458,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4416,26 +4471,27 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">lɛ́ɛ̀</td>
+                        <td class="example-word">lɛ̄</td>
                         <td class="example-word">sɛ́ɓɛ̀</td>
-                        <td class="example-word">bɛ̰̀ɛ̰̄</td>
+                        <td class="example-word">bɛ̰̀ɛ̰̄-pɛ̀lɛ̀</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
                             <span>3</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
-                            <span class="gloss">iprf</span>
+                            <span class="gloss">exi</span>
                         </td>
                         <td class="example-gloss">
                             <span>book</span>
                         </td>
                         <td class="example-gloss">
-                            <span>write</span>
+                            <span>write-</span>
+                            <span class="gloss">inf</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He writes a letter.’</td>
+                        <td colspan="3" class="example-translation">‘S/he is writing a letter.’</td>
                     </tr>
                 </table>
             </div>
@@ -4457,10 +4513,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4489,7 +4545,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘She drinks water.’</td>
+                        <td colspan="3" class="example-translation">‘S/he drinks water.’</td>
                     </tr>
                 </table>
             </div>
@@ -4511,10 +4567,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4578,60 +4634,24 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">ɓà</td>
-                        <td class="example-word">sɔ̄</td>
-                        <td class="example-word">wà</td>
-                        <td class="example-word">ɓà</td>
-                        <td class="example-word">kɛ́lɛ́</td>
-                        <td class="example-word">óò</td>
-                        <td class="example-word">bɛ̀ī</td>
-                        <td class="example-word">ō</td>
-                        <td class="example-word">kíè</td>
-                        <td class="example-word">bà</td>
+                        <td class="example-word">*</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>2sg.poss</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>cloth</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>3pl.ip</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>2sg.poss</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>scarf</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>3pl.ipfv</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>be.able:ipfv</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>3pl</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>recp</span>
-                        </td>
-                        <td class="example-gloss">
-                            <span>in</span>
+                            <span>*</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="10" class="example-translation">‘Your dress and your headscarf go well together.’</td>
+                        <td colspan="1" class="example-translation">*</td>
                     </tr>
                     <tr>
-                        <td colspan="10" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X and Y are expressed as a coordinate NP.</td>
+                        <td colspan="1" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The only construction obtained runs along the lines of &quot;X+Y Aux ló sɛ̀ X+Ypron recp bà&quot;, where X and Y are expressed as a coordinate NP.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_loc" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_LOC" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>74. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/leave.html">leave</a>
@@ -4643,14 +4663,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_loc</span>
+                            <span>SBJ_LOC</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: loc</td>
+                        <td class="predicate-info-table">Y: LOC</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -4660,9 +4680,9 @@
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">ē</td>
-                        <td class="example-word">wɛ̀lɛ̀</td>
-                        <td class="example-word">Záásɔ́nɔ́</td>
+                        <td class="example-word">āà</td>
+                        <td class="example-word">gó</td>
+                        <td class="example-word">pɛ̄lɛ̄í</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -4672,21 +4692,24 @@
                             <span class="gloss">pst</span>
                         </td>
                         <td class="example-gloss">
-                            <span>get.up</span>
+                            <span>leave</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">n</span>
-                            <span>zerekore</span>
+                            <span>village.</span>
+                            <span class="gloss">loc</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He left Nzerekore.’</td>
+                        <td colspan="3" class="example-translation">‘S/he left the village.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="background-color: rgb(240,240,240); max-width: 300px;">Note: LOC is a special form of (some) nouns. It goes back to the postposition &quot;yí&quot; but is not synchronically interchangeable with it.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_la" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_la" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>75. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/cover.html">cover</a>
@@ -4698,11 +4721,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_la</span>
+                            <span>SBJ_la</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: la</td>
@@ -4749,9 +4772,6 @@
                     <tr>
                         <td colspan="6" class="example-translation">‘The mat covers all the floor.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: No way to say just &quot;cover Y&quot;, but rather &quot;cover Y with Z&quot;, where Z is the direct object. </td>
-                    </tr>
                 </table>
             </div>
         </div>
@@ -4772,10 +4792,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4809,16 +4829,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He remembered me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he remembered me.’</td>
                     </tr>
                     <tr>
-                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Mano sentence contains a complex predicate, which includes a nominal and a verbal part (see Grammar notes above). </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>77. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/help.html">help</a>
@@ -4830,11 +4850,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -4871,7 +4891,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘She helped me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he helped me.’</td>
                     </tr>
                 </table>
             </div>
@@ -4893,10 +4913,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -4931,13 +4951,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘She understands Mano.’</td>
+                        <td colspan="4" class="example-translation">‘S/he understands Mano.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>79. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/hittarget.html">hit (target)</a>
@@ -4949,11 +4969,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -4999,7 +5019,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ko" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>80. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/cut_oneself.html">cut oneself</a>
@@ -5011,14 +5031,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ko</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ko</td>
+                        <td class="predicate-info-table">Y: ka</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -5062,13 +5082,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘‘He cut himself with a knife’.’</td>
+                        <td colspan="6" class="example-translation">‘S/he cut himself with a knife.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>81. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/get_stuck.html">get stuck</a>
@@ -5080,11 +5100,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -5121,7 +5141,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘it got stuck to me.’</td>
+                        <td colspan="4" class="example-translation">‘It got stuck to me.’</td>
                     </tr>
                 </table>
             </div>
@@ -5270,7 +5290,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_lee" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_lee" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>84. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/speak.html">speak</a>
@@ -5282,11 +5302,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_lee</span>
+                            <span>SBJ_lee</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: lee</td>
@@ -5333,7 +5353,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>85. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/give_birth.html">give birth</a>
@@ -5345,11 +5365,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ká</td>
@@ -5389,7 +5409,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘She gave birth to two children.’</td>
+                        <td colspan="5" class="example-translation">‘S/he gave birth to two children.’</td>
                     </tr>
                 </table>
             </div>
@@ -5411,10 +5431,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -5443,7 +5463,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘She dropped the child.’</td>
+                        <td colspan="3" class="example-translation">‘S/he dropped the child.’</td>
                     </tr>
                 </table>
             </div>
@@ -5465,10 +5485,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -5510,7 +5530,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘He governs everything.’</td>
+                        <td colspan="6" class="example-translation">‘S/he governs everything.’</td>
                     </tr>
                 </table>
             </div>
@@ -5600,10 +5620,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -5634,13 +5654,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He follows me.’</td>
+                        <td colspan="3" class="example-translation">‘S/he follows me.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_la" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_la" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>90. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/dismount.html">dismount</a>
@@ -5652,11 +5672,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_la</span>
+                            <span>SBJ_la</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: là</td>
@@ -5692,13 +5712,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He got of the motobike.’</td>
+                        <td colspan="4" class="example-translation">‘S/he got off the motobike.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>91. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/listen.html">listen</a>
@@ -5710,17 +5730,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: mo</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -5763,9 +5783,6 @@
                     <tr>
                         <td colspan="6" class="example-translation">‘I am listening to you.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
-                    </tr>
                 </table>
             </div>
         </div>
@@ -5786,10 +5803,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -5802,7 +5819,9 @@
                         <td class="example-word">lɛ́ɛ̀</td>
                         <td class="example-word">ē</td>
                         <td class="example-word">dàā</td>
-                        <td class="example-word">píé kɛ̄</td>
+                        <td class="example-word">wéè</td>
+                        <td class="example-word">píé</td>
+                        <td class="example-word">kɛ̄</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -5818,6 +5837,12 @@
                             <span class="gloss">refl</span>
                         </td>
                         <td class="example-gloss">
+                            <span>father</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>speech</span>
+                        </td>
+                        <td class="example-gloss">
                             <span>behind</span>
                         </td>
                         <td class="example-gloss">
@@ -5825,7 +5850,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He obeys his father.’</td>
+                        <td colspan="6" class="example-translation">‘S/he obeys his father.’</td>
                     </tr>
                 </table>
             </div>
@@ -5847,10 +5872,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -5884,13 +5909,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘She hears people's voices.’</td>
+                        <td colspan="4" class="example-translation">‘S/he hears people's voices.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>94. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/mix.html">mix</a>
@@ -5902,11 +5927,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -5972,10 +5997,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6001,7 +6026,7 @@
                             <span>cloth</span>
                         </td>
                         <td class="example-gloss">
-                            <span>prev</span>
+                            <span class="gloss">prev</span>
                         </td>
                         <td class="example-gloss">
                             <span>finish:</span>
@@ -6009,7 +6034,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He looks at the fabric.’</td>
+                        <td colspan="4" class="example-translation">‘S/he looks at the fabric.’</td>
                     </tr>
                 </table>
             </div>
@@ -6031,10 +6056,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6063,13 +6088,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He took the shirt off.’</td>
+                        <td colspan="3" class="example-translation">‘S/he took his shirt off.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>97. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/dreamsleeping.html">dream (sleeping)</a>
@@ -6081,11 +6106,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -6126,7 +6151,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘She dreams about meat.’</td>
+                        <td colspan="5" class="example-translation">‘S/he dreams about meat.’</td>
                     </tr>
                 </table>
             </div>
@@ -6207,7 +6232,7 @@
                         <td colspan="8" class="example-translation">‘Se and Pe agreed.’</td>
                     </tr>
                     <tr>
-                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X and Y are expressed as a coordinate NP. This is also true of all other alternatives obtained.</td>
+                        <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X and Y are expressed as a coordinate NP. </td>
                     </tr>
                 </table>
             </div>
@@ -6285,7 +6310,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>100. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/cost.html">cost</a>
@@ -6297,11 +6322,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -6318,7 +6343,8 @@
                         <td class="example-word">ē</td>
                         <td class="example-word">kɛ̄</td>
                         <td class="example-word">wáá</td>
-                        <td class="example-word">sɔ́ɔ́lī ká</td>
+                        <td class="example-word">sɔ́ɔ́lī</td>
+                        <td class="example-word">ká</td>
                     </tr>
                     <tr>
                         <td class="example-gloss">
@@ -6331,6 +6357,9 @@
                             <span class="gloss">pst</span>
                         </td>
                         <td class="example-gloss">
+                            <span>be</span>
+                        </td>
+                        <td class="example-gloss">
                             <span>thousand</span>
                         </td>
                         <td class="example-gloss">
@@ -6341,13 +6370,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘the rize cost 5 thousand (francs).’</td>
+                        <td colspan="6" class="example-translation">‘The rice costs 5 thousand (francs).’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>101. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/shoot_at.html">shoot at</a>
@@ -6359,11 +6388,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -6403,7 +6432,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘I have shot a person.’</td>
+                        <td colspan="5" class="example-translation">‘I shot at a person.’</td>
                     </tr>
                 </table>
             </div>
@@ -6425,10 +6454,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6479,10 +6508,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6521,7 +6550,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ba" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ba" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>104. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/sink.html">sink</a>
@@ -6533,11 +6562,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ba</span>
+                            <span>SBJ_ba</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ba</td>
@@ -6573,7 +6602,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He sinked in water.’</td>
+                        <td colspan="4" class="example-translation">‘S/he sinked in water.’</td>
                     </tr>
                 </table>
             </div>
@@ -6595,10 +6624,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6627,7 +6656,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘He has killed a person.’</td>
+                        <td colspan="3" class="example-translation">‘S/he has killed a person.’</td>
                     </tr>
                 </table>
             </div>
@@ -6649,10 +6678,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6681,7 +6710,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘She has hit a person.’</td>
+                        <td colspan="3" class="example-translation">‘S/he has hit a person.’</td>
                     </tr>
                 </table>
             </div>
@@ -6749,10 +6778,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6782,7 +6811,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="3" class="example-translation">‘She reads a book.’</td>
+                        <td colspan="3" class="example-translation">‘S/he reads a book.’</td>
                     </tr>
                 </table>
             </div>
@@ -6804,10 +6833,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6837,7 +6866,7 @@
                             <span class="gloss">refl</span>
                         </td>
                         <td class="example-gloss">
-                            <span>hand</span>
+                            <span>arm</span>
                         </td>
                         <td class="example-gloss">
                             <span>movement</span>
@@ -6847,7 +6876,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘She has moved her hand.’</td>
+                        <td colspan="5" class="example-translation">‘S/he has moved her hand.’</td>
                     </tr>
                 </table>
             </div>
@@ -6869,10 +6898,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -6912,17 +6941,17 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘He respects his father.’</td>
+                        <td colspan="5" class="example-translation">‘S/he respects his father.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="TR" data-locus="TR" style="margin-bottom: 5px">
+    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>111. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_squeamish.html">be squeamish</a>
-            <span class="predicate-translation" style="margin-left: 3px;">ɓɛ̀lɛ̄ dà</span>
+            <span class="predicate-translation" style="margin-left: 3px;">gḭ̄ḭ̄ yà</span>
         </p>
         <div class="predicate-info">
             <div class="example-info-div">
@@ -6930,54 +6959,66 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>TR</span>
+                            <span>NA</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: *</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: TR</td>
+                        <td class="predicate-info-table">Locus: *</td>
                     </tr>
                 </table>
             </div>
             <div class="example-info-div">
                 <table class="example" cellspacing="0">
                     <tr>
-                        <td class="example-word">lɛ́ɛ̀</td>
-                        <td class="example-word">ē</td>
-                        <td class="example-word">ɓɛ́ì</td>
-                        <td class="example-word">ɓɛ̀lɛ̄</td>
-                        <td class="example-word">dà</td>
+                        <td class="example-word">kɔ́nɔ́</td>
+                        <td class="example-word">là</td>
+                        <td class="example-word">gḭ̄ḭ̄</td>
+                        <td class="example-word">āà</td>
+                        <td class="example-word">yà</td>
+                        <td class="example-word">ŋ̄</td>
+                        <td class="example-word">là</td>
                     </tr>
                     <tr>
+                        <td class="example-gloss">
+                            <span>food</span>
+                        </td>
                         <td class="example-gloss">
                             <span>3</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
-                            <span class="gloss">ipfv</span>
+                            <span class="gloss">poss</span>
+                        </td>
+                        <td class="example-gloss">
+                            <span>taste</span>
                         </td>
                         <td class="example-gloss">
                             <span>3</span>
                             <span class="gloss">sg</span>
                             <span>.</span>
-                            <span class="gloss">refl</span>
+                            <span class="gloss">prf</span>
                         </td>
                         <td class="example-gloss">
-                            <span>friend</span>
+                            <span>sit</span>
                         </td>
                         <td class="example-gloss">
-                            <span>respect</span>
+                            <span>1</span>
+                            <span class="gloss">sg</span>
                         </td>
                         <td class="example-gloss">
-                            <span>fall</span>
+                            <span>on</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘He humiliates his friend.’</td>
+                        <td colspan="7" class="example-translation">‘(S)he is disgusted by the food’ (Lit: ‘The taste of the food sits on him’).</td>
+                    </tr>
+                    <tr>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
@@ -7126,7 +7167,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_la" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_la" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>114. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/trust.html">trust</a>
@@ -7138,11 +7179,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_la</span>
+                            <span>SBJ_la</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: la</td>
@@ -7201,10 +7242,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -7239,13 +7280,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He takes pity of me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he sympathizes with me.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_mo" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>116. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/envy.html">envy</a>
@@ -7257,11 +7298,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_mo</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: mo</td>
@@ -7304,13 +7345,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘He envies his friend.’</td>
+                        <td colspan="5" class="example-translation">‘S/he envies his friend.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>117. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_angry.html">be angry</a>
@@ -7322,17 +7363,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: mo</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -7377,10 +7418,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘I am angry about you.’</td>
+                        <td colspan="7" class="example-translation">‘I am angry with you.’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The possessor is necessarily coreferential with the subject.</td>
                     </tr>
                 </table>
             </div>
@@ -7454,13 +7495,13 @@
                         <td colspan="7" class="example-translation">‘I am astonished by this town .’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>119. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/lovetea.html">love (tea)</a>
@@ -7472,11 +7513,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -7515,9 +7556,6 @@
                     <tr>
                         <td colspan="4" class="example-translation">‘I love you.’</td>
                     </tr>
-                    <tr>
-                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier.</td>
-                    </tr>
                 </table>
             </div>
         </div>
@@ -7538,10 +7576,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -7574,16 +7612,16 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He enjoyed the food.’</td>
+                        <td colspan="4" class="example-translation">‘S/he enjoyed the food.’</td>
                     </tr>
                     <tr>
-                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
+                        <td colspan="4" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The Mano sentence contains a complex predicate, which includes a nominal and a verbal part (see Grammar notes above). </td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>121. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/want.html">want</a>
@@ -7595,11 +7633,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -7640,13 +7678,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘He wants some rice.’</td>
+                        <td colspan="5" class="example-translation">‘S/he wants some rice.’</td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
-    <div data-valpal="" data-locus="*" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_mo" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>122. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/have_a_grudge.html">have a grudge</a>
@@ -7658,17 +7696,17 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NA</span>
+                            <span>SBJ_mo</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: *</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: *</td>
+                        <td class="predicate-info-table">Y: mo</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Locus: *</td>
+                        <td class="predicate-info-table">Locus: Y</td>
                     </tr>
                 </table>
             </div>
@@ -7713,10 +7751,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘I am angry about you.’</td>
+                        <td colspan="7" class="example-translation">‘I am angry with you.’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The possessor is necessarily coreferential with the subject.</td>
                     </tr>
                 </table>
             </div>
@@ -7784,10 +7822,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -7821,7 +7859,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He upset me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he upset me.’</td>
                     </tr>
                 </table>
             </div>
@@ -7895,7 +7933,7 @@
                         <td colspan="7" class="example-translation">‘I am astonished by this town .’</td>
                     </tr>
                     <tr>
-                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Complicated pattern, it should be discussed further.</td>
+                        <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because X is expressed as an NP-internal modifier.</td>
                     </tr>
                 </table>
             </div>
@@ -7905,7 +7943,7 @@
         <p class="examples-header">
             <span>126. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/despise.html">despise</a>
-            <span class="predicate-translation" style="margin-left: 3px;">vɛ̀ì zɛ̄</span>
+            <span class="predicate-translation" style="margin-left: 3px;">sà̰ dɔ̄</span>
         </p>
         <div class="predicate-info">
             <div class="example-info-div">
@@ -7917,10 +7955,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ACC</td>
+                        <td class="predicate-info-table">Y: DO</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: TR</td>
@@ -7947,14 +7985,14 @@
                             <span class="gloss">sg</span>
                         </td>
                         <td class="example-gloss">
-                            <span>neglect?</span>
+                            <span>neglect</span>
                         </td>
                         <td class="example-gloss">
                             <span>install</span>
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="4" class="example-translation">‘He despises me.’</td>
+                        <td colspan="4" class="example-translation">‘S/he despises me.’</td>
                     </tr>
                 </table>
             </div>
@@ -8031,7 +8069,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="le_NOM" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="le_SBJ" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>128. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/get_irritated.html">get irritated</a>
@@ -8043,14 +8081,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>le_NOM</span>
+                            <span>le_SBJ</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: le</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NOM</td>
+                        <td class="predicate-info-table">Y: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: X</td>
@@ -8137,7 +8175,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_ka" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="SBJ_ka" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>130. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/be_shy.html">be shy</a>
@@ -8149,11 +8187,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_ka</span>
+                            <span>SBJ_ka</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NOM</td>
+                        <td class="predicate-info-table">X: SBJ</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ka</td>
@@ -8187,7 +8225,8 @@
                         <td class="example-gloss">
                             <span>3</span>
                             <span class="gloss">sg</span>
-                            <span>.poss</span>
+                            <span>.</span>
+                            <span class="gloss">poss</span>
                         </td>
                         <td class="example-gloss">
                             <span>be:</span>
@@ -8202,7 +8241,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘He is embarrassed by his short statue. .’</td>
+                        <td colspan="6" class="example-translation">‘S/he is embarrassed by his short statue. .’</td>
                     </tr>
                 </table>
             </div>
