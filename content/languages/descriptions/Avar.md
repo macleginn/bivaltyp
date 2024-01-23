@@ -5,7 +5,7 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
 ![B.M.'s photo]({{ site_url_j }}/images/Muxidinova.jpg "R.R.'s photo")
 
-The data were collected in 2023 using the Russian version of the questionnaire. The data have been generously provided by Baxu Muxidinova (pictured above), the chairperson of the association of Avar language teachers.
+The data were collected in 2023 using the Russian version of the questionnaire. The data have been generously provided by Baxu Muxidinova (see the second picture above), the chairperson of the association of Avar language teachers.
 
 ## How to cite
 
