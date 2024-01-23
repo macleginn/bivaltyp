@@ -4194,7 +4194,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 109	33	знать	b-aχ-i / b-alχ-i	DAT	NOM	X	DAT_NOM	durħaˤ-j zumra r-alχ-a	boy-DAT neighbor F-know.IPFV-3HAB.PRS	‘The boy knows his (female) neighbor.’			‘Мальчик знает соседку.’		
 109	34	играть	b-aˤq-i / b-uˤrq-i	ERG	NOM	TR	TR	durħaˤ-li tːam b-urq-ule=caj	boy-ERG drum N-hit.IPFV-CNV.PROG=COP:M(3)	‘The boy is playing the drum.’			‘Мальчик играет на барабане.’		
 109	35	избегать	gu-rka-b-isː-i / gu-rka-b-ilsː-i	NOM	ANTE.ABL.DOWN	Y	NOM_ANTE.ABL.DOWN	durħaˤ zumra-sa-rka gu-rka-ls-unne=caj	boy neighbor-ANTE-ABL.DOWN SUB-ABL.DOWN-(M)lie.IPFV-CNV.PROG=COP:M(3)	‘The boy avoids his neighbor.’			‘Мальчик избегает соседа.’		
-109	36	изготовить	b-arq'-i / b-irq'-i	ERG	NOM	TR	TR	durħaˤ-li guta b-arq'-ib	boy-ERG chair B-do.PFV-PRET(3)	‘The boy made a chair.’			‘Мальчик сделал стул.’		
+109	36	изготовить	b-arq'-i / b-irq'-i	ERG	NOM	TR	TR	durħaˤ-li guta b-arq'-ib	boy-ERG chair N-do.PFV-PRET(3)	‘The boy made a chair.’			‘Мальчик сделал стул.’		
 109	37	издеваться	*	*	*	*		*	*	*	No satisfactory translation has been obtained.		*		
 109	38	иметь	le-b; b-iχʷ-i / b-irχʷ-i	GEN	NOM	X	GEN_NOM	durħaˤ-la hanna qali le-b	boy-GEN now home COP.EXST-N	‘The boy now has a house.’	NP in the genitive is arguably a clause-level dependent. Existential predicate.		‘У мальчика теперь есть дом’		
 109	39	искать	hitːe b-aš-i	NOM	POST	Y	NOM_POST	durħaˤ umxːu-gitːe hitːe w-ax-ule=caj	boy key-POST POST(after) M-walk-CNV.PROG=COP:M(3)	‘The boy is looking for his key.’			‘Мальчик ищет ключ.’		

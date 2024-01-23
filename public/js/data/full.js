@@ -75537,7 +75537,7 @@ const fullData = [
     "TR",
     "TR",
     "durħaˤ-li guta b-arq'-ib",
-    "boy-ERG chair B-do.PFV-PRET(3)",
+    "boy-ERG chair N-do.PFV-PRET(3)",
     "‘The boy made a chair.’",
     "",
     "",
