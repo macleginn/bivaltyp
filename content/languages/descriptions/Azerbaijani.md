@@ -20,4 +20,4 @@ Before 2023, the project featured two consecutive preliminary versions of the {{
 
 ## Glossing abbreviations
 
-ABL — ablative; ACC — accusative; ADV — adverbializer; CAUS — causative; COP — copula; DAT — dative; GEN — genitive; IMP — imperative; IPFV — imperfective; INTR — intransitive; LAT — lative; LOC — locative; NEG — negation; PERF — perfect; PL — plural; PN — person name; POS — possessive; PST — past; PTCP — participle; SG — singular; TR — transitive.
+ABL — ablative; ACC — accusative; ADV — adverbializer; CAUS — causative; COP — copula; DAT — dative; GEN — genitive; IMP — imperative; IPFV — imperfective; INTR — intransitive; LAT — lative; LOC — locative; NEG — negation; PERF — perfect; PL — plural; PN — person name; POSS — possessive; PST — past; PTCP — participle; SG — singular; TR — transitive.
