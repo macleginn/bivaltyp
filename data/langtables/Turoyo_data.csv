@@ -15,7 +15,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 114	Turoyo	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	nofəq	SBJ.SS	m	Y	SBJ.SS_m		Gabriyel nafəq m-u bayto	PN go_out.PFV.3M from-ART.M house(M)	‘Gabriyel went out of the house.’			Same as 74		
 114	Turoyo	15	drive	X (drive) Y	гнать	X (гнать) Y-а	qoləʕ	SBJ	DO	TR	TR		Gabriyel qləʕ-le aḥ ḥayewən l-i marʕa	PN drive.PFV-LS.3M ART.PL animal(PL) to-ART.F pasture(F)	‘Gabriyel drove the animals to the pasture.’					
 114	Turoyo	16	bend	X (bend) Y	гнуть	X (гнуть) Y	ṭowe	SBJ	DO	TR	TR		Gabriyel ṭwe-le u čəqəl d-u ilono	PN bend.PFV-LS.3M ART.M branch(M) REL-ART.M tree(M)	‘Gabriyel bent the tree branch.’					
-114	Turoyo	17	tell	X (tell) Y	говорить	X (говорить) Y-у	omər	SBJ	IO	Y	SBJ_IO		Šabo mər-le l Maryam ʕaṣriye haw-li talafon	PN say.PFV-LS.3M to PN evening give.IMP.SG telephone	‘Shabo told Maryam: “Call me in the evening.”’			Same verb as 51		
+114	Turoyo	17	tell	X (tell) Y	говорить	X (говорить) Y-у	omər	SBJ	IO	Y	SBJ_IO		Šabo mər-le l Maryam ʕaṣriye haw-li talafon	PN say.PFV-LS.3M to PN evening give.IMP.SG-LS.1SG telephone	‘Shabo told Maryam: “Call me in the evening.”’			Same verb as 51		
 114	Turoyo	18	hold	X (hold)Y	держать	X (держать) Y(-а)	zobəṭ	SBJ	DO	TR	TR		Gabriyel ko-zobəṭ u kṯowo b iḏ-e	PN PRS-hold.IPFV.3M ART.M book(M) in hand(F)-P.3M	‘Gabriyel is holding the book in his hands.’			Same as 75		
 114	Turoyo	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	moṭe	SBJ.SS	IO	Y	SBJ.SS_IO		Šabo maṭi l Maryam	PN reach.PFV.3M to PN	‘Shabo caught up with Maryam.’			Same as 21		
 114	Turoyo	20	milk	X (milk) Y	доить	X (доить) Y-а	ḥolu	SBJ	DO	TR	TR		Gabriyel ḥlu-le i tərto	PN milk.PFV-LS.3M ART.F cow(F)	‘Gabriyel milked the cow.’					
@@ -28,7 +28,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 114	Turoyo	27	fry	X (fry) Y	жарить	X (жарить) Y	mqale	SBJ	DO	TR	TR		Gabriyel mqale-le u nuno	PN fry.PFV-LS.3M ART.M fish(M)	‘Gabriyel fried the fish.’					
 114	Turoyo	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	noṭər	SBJ	DO	TR	TR		Gabriyel ko-noṭər Yuḥanən	PN PRS-wait.IPFV.3M PN	‘Gabriyel is waiting for Yuḥanən.’					
 114	Turoyo	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	ṭoʕe	SBJ.SS	DO.LS	Y	SBJ.SS_DO.LS		Gabriyel ṭaʕi u darb-awo	PN forget.PFV.3M ART.M road-DEM.M	‘Gabriyel forgot the road.’					
-114	Turoyo	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	mhaləx	SBJ	7am	Y	SBJ_7am		u hawno ko-maləx ʕam u ʕəmro	ART.M cognition(M) PRS-walk.IPFV.3M with ART.M age(M)	‘Cognition depends on age’, lit. ‘Cognition goes along with age.’					
+114	Turoyo	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	maləx	SBJ	7am	Y	SBJ_7am		u hawno ko-maləx ʕam u ʕəmro	ART.M cognition(M) PRS-walk.IPFV.3M with ART.M age(M)	‘Cognition depends on age’, lit. ‘Cognition goes along with age.’					
 114	Turoyo	31	call	X (call) Y	звать	X (звать) Y-а	qore	SBJ	IO	Y	SBJ_IO		Gabriyel qre-le l Yuḥanən	PN call.PFV-LS.3M to PN	‘Gabriyel called Yuḥanən.’			Same verb as 108		
 114	Turoyo	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	oḏəʕ	SBJ.SS	DO.LS	Y	SBJ.SS_DO.LS		meqəm me šato Gabriyel aḏəʕ Yuḥanən	before from year(F) PN know.PFV.3M PN	‘A year ago, Gabriyel got to know Yuḥanən.’			Same as 33		
 114	Turoyo	33	know	X (know) Y	знать	X (знать) Y-а	oḏəʕ	SBJ.SS	DO.LS	Y	SBJ.SS_DO.LS		Gabriyel k-oḏəʕ Yuḥanən	PN PRS-know.IPFV.3M PN	‘Gabriyel knows Yuḥanən.’			Same as 32		
@@ -86,7 +86,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 114	Turoyo	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	howe	OBJAGR	BARE	XY	OBJAGR_BARE		Maryam hawi-la abro	PN become.PFV.3M-LS.3F son	‘Maryam gave birth to a son.’					
 114	Turoyo	86	drop	X (drop) Y	ронять	X (ронять) Y	dore	SBJ	DO	TR	TR		Gabriyel dre-le u koso	PN drop.PFV-LS.3M ART.M cup	‘Gabriyel dropped the cup.’					
 114	Turoyo	87	govern	X (govern) Y	руководить	X (руководить) Y	ḥokəm	SBJ	7al	Y	SBJ_7al		Gabriyel ko-ḥokəm ʕal i walaye	PN PRS-rule.IPFV.3M on ART.F city(F)	‘Gabriyel rules over the city.’			Same as 10		
-114	Turoyo	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	soyəm beriye	*	*	*		Not included in the database because Y is expressed as an NP-internal modifier.	Gabriyel ko-soyəm i beriye d Maryam	PN PRS-do.IFPV.3M ART.F longing(F) REL PN	‘Gabriyel misses Maryam.’					
+114	Turoyo	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	soyəm beriye	*	*	*		Not included in the database because Y is expressed as an NP-internal modifier.	Gabriyel ko-soyəm i beriye d Maryam	PN PRS-do.IPFV.3M ART.F longing(F) REL PN	‘Gabriyel misses Maryam.’					
 114	Turoyo	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	mḥaləq	SBJ	beter	Y	SBJ_beter		Gabriyel mḥalaq-le bəṯre Maryam	PN throw.PFV-LS.3M after PN	‘Gabriyel followed Maryam.’			Same verb as 4		
 114	Turoyo	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	noḥət	SBJ.SS	m.7al	Y	SBJ.SS_m.7al		Gabriyel naḥət m ʕal u səsyo	PN descend.PFV.3M from on ART.M horse(M)	‘Gabriyel got down from the horse.’					
 114	Turoyo	91	listen	X (listen) to Y	слушать	X (слушать) Y	maṣəṯ	SBJ	7al	Y	SBJ_7al		Gabriyel uʕdo ko-maṣəṯ ʕal u radyo	PN now PRS-listen.IPFV.3M on ART.M radio(M)	‘Gabriyel is listening to the radio now.’					
