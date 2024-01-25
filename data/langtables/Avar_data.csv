@@ -50,7 +50,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 119	Avar	49	wash	X (wash) Y	мыть	X (мыть) Y	čurize	ERG	NOM	TR	TR		ʕali-ca čaška čur-ana	PN-ERG cup wash-AOR	‘Ali washed the cup.’					
 119	Avar	50	put_on	X (put_on) Y	надевать	X (надевать) Y	ret’ine	ERG	NOM	TR	TR		ʕali-ca t’ažu ret’-ana	PN-ERG trousers dress-AOR	‘Ali put on his trousers.’					
 119	Avar	51	be_called	X (be_called) Y	называться	X (называться) Y	c’ar buk’ine	*	*	*		Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).	he-b t’aʕel-alda c’ar kompas b-ugilan	that-N utensil-OBL.NM.LOC name compass N-COP.QUOT	‘This instrument is called a compass.’					
-119	Avar	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	ʕadlu habize	ERG	DAT	Y	ERG_DAT		ʕali-ca was-as-e ʕadlu hab-una	PN-ERG son-M.OBL-DAT justice do.N-IPF	‘Ali punished his son.’			CV		
+119	Avar	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	ʕadlu habize	ERG	DAT	Y	ERG_DAT		ʕali-ca was-as-e ʕadlu hab-una	PN-ERG son-M.OBL-DAT justice do.N-AOR	‘Ali punished his son.’			CV		
 119	Avar	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	k’anc’ize	NOM	LATtade	Y	NOM_LATtade		ččuʕiqan-as-de t’ade ci k’anc’-ana	fisherman-M.OBL-LAT on.LAT bear jump-AOR	‘A bear attacked a fisherman.’					
 119	Avar	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	c’eze	NOM	GEN	Y	NOM_GEN		wedro ɬel c’-una	pail water.GEN fill-IPF	‘The bucket filled with water.’					
 119	Avar	55	find	X (find) Y	находить	X (находить) Y(-а)	batize	LOC	NOM	X	LOC_NOM		ʕali-da k’ulal r-at-ana	PN-LOC keys PL-find-AOR	‘Ali found his keys.’					
