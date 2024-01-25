@@ -18,3 +18,6 @@ The dataset was put together in 2023 by Martin Gális (native speaker of Slovak)
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+ACC — accusative; DAT — dative; F — feminine; GEN — genitive; INF — infinitive; INS — instrumental; IPFV — imperfective; LOC — locative; M — masculine; N — nominative; NOM — nominative; PFV — perfective; PL — plural; PN — person name; PRS — present; PST — past; REFL — reflexive; SG — singular.
