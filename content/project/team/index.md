@@ -136,6 +136,7 @@ Natalia Stoynova: {{ language:Ulcha }}
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Daria Suetina (Konior): {{ language:Romanian }}  
 Gasangusen Sulaibanov:  {{ language:Dargwa_Tsugni }}  
+Nina Sumbatova, Naida Vazieva:  {{ language:Dargwa_Kadar }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
