@@ -3,6 +3,7 @@
 Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)), Ayten Babaliyeva and [Murad Suleymanov](https://proclac.cnrs.fr/author/msuleymanov/).
 
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
+![A.B.'s photo]({{ site_url_j }}/images/Babliyeva.jpg "A.B.'s photo")
 
 The data were collected in 2023 based on the Russian version of the questionnaire. Both Ayten Babalieva and Murad Suleymanov edited the dataset and clarified several tricky issues. The interlinearization belongs exclusively to Gilles Authier.
 
