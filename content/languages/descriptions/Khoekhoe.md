@@ -7,7 +7,7 @@ Contributed by [Alena Witzlack-Makarevich](https://en.linguistics.huji.ac.il/peo
 The data were gathered in {{ data_collection_year }} from Dorothea Tases and Roswitha Gases. The English version of the questionnaire was used for elicitation.
 
 ## How to cite
-> Witzlack-Makarevich, Alena and Sylvanus Job. 2023. Bivalent patterns in {{ language_external}}. 
+> Witzlack-Makarevich, Alena and Sylvanus Job. 2024. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; 
 > last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, 
