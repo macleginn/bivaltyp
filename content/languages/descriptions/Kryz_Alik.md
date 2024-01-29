@@ -24,7 +24,7 @@ Case marking displays the ergative-nominative alignment, except on personal pron
 
 ### Case system
 
-Overall, there are 23 case forms in Alik Kryz. The 5 original non-locative cases are nominative, genitive, ergative, dative, instrumental. Historically, the system of locative cases consisted of two layers, involving 6 localizations and 3 directions (the unmarked essive, the lative and the elative), which yields 18 locative combination. However, many of these combinations have shifted to more abstract, argumental functions and/or changed their spatial functions. Table 1 shows the relationships between the labels used in the data below (these labels are based on synchronic functions) and the original functions of cases.
+Overall, there are 23 case forms in Alik Kryz. The 5 original non-locative cases are nominative, genitive, ergative, dative, instrumental. Historically, the system of locative cases consisted of two layers, involving 6 localizations and 3 directions (the unmarked essive, the lative and the elative), which yields 18 locative combinations. However, many of these combinations have shifted to more abstract, argumental functions and/or changed their spatial functions. Table 1 shows the relationships between the labels used in the data below (these labels are based on synchronic functions) and the original functions of cases.
 
 Table 1. Alik Kryz nominal declension
 
