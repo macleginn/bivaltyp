@@ -136,7 +136,7 @@ Mayya Shlyakhter: {{ language:Bengali }}
 Natalia Stoynova: {{ language:Ulcha }}  
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Daria Suetina (Konior): {{ language:Romanian }}  
-Gasangusen Sulaibanov:  {{ language:Dargwa_Tsugni }}  
+Gasangusen Sulaibanov:  {{ language:Dargwa_Tsugni }}, {{ language:Dargwa_Tsudakhar }}  
 Nina Sumbatova, Naida Vazieva:  {{ language:Dargwa_Kadar }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
