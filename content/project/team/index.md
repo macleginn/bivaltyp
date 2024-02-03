@@ -60,9 +60,10 @@ Ekaterina Aplonova: {{ language:Goo }}
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
 Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Southern }}, {{ language:Tsakhur }}  
+Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
 Gilles Authier, Uzlipat Gasanova: {{ language:Dargwa_Kaytag }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
-Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
+Gilles Authier, Rashidat Khalidova: {{ language:Karata }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
