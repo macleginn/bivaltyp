@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by Nikita Kuzin ([Academia.edu profile](https://fu-berlin.academia.edu/NikitaKuzin))
 
-![N.K.'s photo]({{ site_url_j }}/images/Kuzin.jpg "M.D.'s photo")
+![N.K.'s photo]({{ site_url_j }}/images/Kuzin.jpg "N.K.'s photo")
 
 The data were gathered in Berlin in 2023 by Anna-Simona Barbara Üzel and Nikita Kuzin from several speakers of Turoyo. Some additional data were collected by Nikita Kuzin online. The majority of the translations were obtained using the German version of the questionnaire, and several sentences were translated from English.
 
