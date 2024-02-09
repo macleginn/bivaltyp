@@ -1,13 +1,16 @@
 # {{ language_external }}
-Contributed by Anna Alexandrova ([academia.edu profile](https://sns.academia.edu/AnnaAlexandrova)). Maria Ralko greatly contributed to the technical preparation of the Italian dataset.
+Contributed by Anna Alexandrova ([academia.edu profile](https://sns.academia.edu/AnnaAlexandrova)) and [Chiara Naccarato](https://www.hse.ru/en/org/persons/224233250). Maria Ralko greatly contributed to the technical preparation of the Italian dataset.
 
 ![A.A.'s photo]({{ site_url_j }}/images/Alexandrova.jpg "A.A.'s photo")
+![C.N.'s photo]({{ site_url_j }}/images/Naccarato.jpg "C.N.'s photo")
+
+The data were initially provided by Anna Alexandrova in 2013 using the Russian version of the questionnaire. In 2023, Chiara Naccarato made some changes to the dataset and streamlined it using the English version of the questionnaire.
+
 
 ## How to cite
-> Alexandrova, Anna. 2022. Bivalent patterns in {{ language_external }}. 
+> Alexandrova, Anna, and Chiara Naccarato. 2024. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
-> St. Petersburg: Institute for Linguistic Studies, RAS. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
 > (Available online at {{ site_url }}, Accessed on {{ today }})
 
