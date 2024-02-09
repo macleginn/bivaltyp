@@ -53,7 +53,7 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 ### Language contributors
 
 Indira Abdulaeva, Gilles Authier: {{ language:Akhvakh_Northern }}  
-Anna Alexandrova: {{ language:Italian }}  
+Anna Alexandrova, Chiara Naccarato: {{ language:Italian }}  
 Daria Alfimova, Søren Wichmann: {{ language:Danish }}  
 Mansour Amadeh: {{ language:Kurdish_Sorani }}  
 Ekaterina Aplonova: {{ language:Goo }}  
