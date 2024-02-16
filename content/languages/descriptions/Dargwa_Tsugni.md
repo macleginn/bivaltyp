@@ -21,11 +21,11 @@ The data were gathered in {{ data_collection_year }} from R. Sulaibanov and K. S
 
 ### Basic clause structure and the transitive construction
 
-Tsugni Dargwa exhibits ergative-absolutive alignment, feature agreement based on nominal class (gender/number) and as well as person agreement, and a free word order. Tsugni Dargwa is a highly agglutinative language language both in its nominal and verbal domain, with an extensive inventory of cases, particularly in locative cases, totaling over 170 casel-like forms.
+Tsugni Dargwa exhibits ergative-absolutive alignment, feature agreement based on nominal class (gender/number) as well as person agreement, and a free word order. Tsugni Dargwa is a highly agglutinative language both in its nominal and verbal domain, with an extensive inventory of cases, particularly locative cases, totaling over 170 case-like forms.
 
 ### Case system
 
-The grammatical cases include the nominative (NOM), which is formally unmarked and corresponds to the bare form of the word, as well the ergative (ERG), dative (DAT), comitative (COM), consecutive (CONS), and genitive (GEN) cases. The basic markers of grammatical cases is shown in Table 1.
+The grammatical cases include the nominative (NOM), which is formally unmarked and corresponds to the bare form of the word, as well the ergative (ERG), genitive (GEN), dative (DAT), comitative (COM) and consecutive (CONS) cases. The basic markers of grammatical cases are shown in Table 1.
 
 Table 1. Grammatical cases
 
@@ -40,7 +40,8 @@ Table 1. Grammatical cases
 | Comitative  | *-cːala* |
 | Сonsecutive | *-gitːe* |
 
-The system of spatial cases is a complex system with three spatial dimensions: location, orientation, and direction, which combine. There are seven locative morphemes in Tsugni, indicating locations in relation to the marked noun, see Table 2.
+The system of spatial cases is a complex system with three spatial dimensions: localisation, orientation, and direction, which combine. There are seven locative morphemes in Tsugni, indicating locations in relation to the marked noun, see Table 2.
+
 Table 2. Localisation markers
 
 <div class="before-table"></div>
@@ -55,11 +56,11 @@ Table 2. Localisation markers
 | SUPER        | *-gе*   |
 | LOC          | *-lе*   |
 
-When unaccompanied by orientation or direction morphemes, locative markers denote the meaning of motion towards a location, that is, a lative meaning. The combination of a locative morpheme with an agreement marker that indexes the gender and number of the argument in the nominative case (intransitive subject or transitive object) results in the essive orientation, which is used to denote a stative position is space (without movement). Two futher orientation strategies involve the *-r* marker, which denotes motion from (ablative), and finally an orientation called ‘directive’, which is marked by the combination of gender/number agreement marker and the vowel ‘a’. Both ablative and directive markers are combined with one of four direction markers. Thus, the meaning of motion from is signalled by one of four complex morphemes: *-rka*, *-rha*, *-rca* or *-rde*. All in all, there are 70 (7 localisations x (2 orientations + 2x4 orientation/direction combinations)) distinct localisation + orientation + direction combinations. Together with grammatical cases, this yields 76 case forms.
+When unaccompanied by orientation or direction morphemes, locative markers denote the meaning of motion towards a location, that is, the lative meaning. The combination of a locative morpheme with an agreement marker that indexes the gender and number of the argument in the nominative case (intransitive subject or transitive object) results in the essive orientation, which is used to denote a stative position is space (without motion). Two futher orientation strategies involve the *-r* marker, which denotes motion from (ablative), and finally an orientation called ‘directive’, which is marked by the combination of gender/number agreement marker and the vowel ‘a’. Both ablative and directive markers are combined with one of four direction markers. Thus, the meaning of motion from a location is signalled by one of four complex morphemes: *-rka*, *-rha*, *-rca* or *-rde*. All in all, there are 70 (7 localisations x (2 orientations + 2x4 orientation/direction combinations)) distinct localisation + orientation + direction combinations. Together with grammatical cases, this yields 76 case forms.
 
 ## Verb lemmas 
 
-Verbs are cited in the infinitive form, and roots that have aspectual pairs are given in the order PFV/IPFV. Verbs that include a gender and number agreement marker are presented with the singular neuter class marker *b-*. In the case of complex verbal predicates, the non-verbal part is separated from the auxiliary verb and is given only before the first (PFV) verbal root. Additionally, if the verb contains a locative prefix or prefixes, it is/they are indicated by a hyphen.
+Verbs are cited in the infinitive form, and roots that have aspectual pairs are given in the order PFV/IPFV. Verbs that include a gender and number agreement markers are presented with the singular neuter class marker *b-*. In the case of complex verbal predicates, the non-verbal part is separated from the auxiliary verb and is given only before the first (PFV) verbal root. Additionally, if the verb contains a locative prefix or prefixes, it is/they are indicated by a hyphen.
 
 ## Glossing abbreviations
 
