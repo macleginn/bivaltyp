@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by Nina Sumbatova ([Academia.edu profile](https://iling-ran.academia.edu/NinaSumbatova)) and Naida Vazieva.
 
-![N.S.'s photo]({{ site_url_j }}/images/Sumbatova.jpg "N.S.'s photo")
+![N.S.'s photo]({{ site_url_j }}/images/Sumbatova.JPG "N.S.'s photo")
 ![N.V.'s photo]({{ site_url_j }}/images/Vazieva.jpg "N.V.'s photo")
 
 The data were gathered in {{ data_collection_year }}. The Russian version of the questionnaire was used for elicitation.
