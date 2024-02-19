@@ -8,7 +8,7 @@ The data were initially provided by Anna Alexandrova in 2013 using the Russian v
 
 
 ## How to cite
-> Alexandrova, Anna, and Chiara Naccarato. 2024. Bivalent patterns in {{ language_external }}. 
+> Alexandrova, Anna & Chiara Naccarato. 2024. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
