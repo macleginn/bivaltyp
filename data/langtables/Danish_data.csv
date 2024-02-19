@@ -88,7 +88,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 89	Danish	87	govern	X (govern) Y	руководить	X (руководить) Y	styre	SBJ	DO	TR	TR		Peter styre-r vores by	PN control-PRS our town(C).SG	‘Peter runs our town.’		‘Петер руководит нашим поселком.’			
 89	Danish	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	savner 	SBJ	DO	TR	TR		Peter savne-r Marie	PN miss-PRS PN	‘Peter misses Marie.’		‘Петер скучает по Мари.’			
 89	Danish	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	følge	SBJ	efter	Y	SBJ_efter		Peter følge-r efter Marie	PN follow-PRS after PN	‘Peter follows Marie.’		‘Петер следует за Мари.’			
-89	Danish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	stige af	SBJ	DO	TR	TR		Peter steg af hest-en	PN climb-PST off horse(C)-DEF.SG	‘Peter got down from the horse.’		‘Петер слез с лошади.’			
+89	Danish	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	stige af	SBJ	DO	TR	TR		Peter steg af hest-en	PN climb.PST off horse(C)-DEF.SG	‘Peter got down from the horse.’		‘Петер слез с лошади.’			
 89	Danish	91	listen	X (listen) to Y	слушать	X (слушать) Y	lytte 	SBJ	til	Y	SBJ_til		Peter lytte-r til radio-en	PN listen-PRS to radio(C)-DEF.SG	‘Peter is listening to the radio.’		‘Петер слушает радио.’			
 89	Danish	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	adlyde 	SBJ	DO	TR	TR		Peter adlyde-r altid sin mor	PN obey-PRS always POSS.REFL.C.SG mother(C)	‘Peter always obeys his mother.’		‘Петер всегда слушается свою маму.’			
 89	Danish	93	hear	X (hear) Y	слышать	X (слышать) Y	høre	SBJ	DO	TR	TR		Peter høre-r musikk-en	PN hear-PRS music(C)-DEF.SG	‘Peter hears the music.’		‘Петер слышит музыку.’			
