@@ -35,4 +35,4 @@ Verbs are shown in the infinitive form.
 
 ## Glossing abbreviations
 
-AUX — auxiliary; CL — clitic; DEF — definite; F — feminine; INDF — indefinite; INF — infinitive; INT — intensifier; M — masculine; PL — plural; PN — person name; POSS — possessive; PRS — present; PST — past; PTCP — participle; REFL — reflexive ; SG — singular.
+AUX — auxiliary; CL — clitic; DEF — definite; F — feminine; INDF — indefinite; INF — infinitive; INT — intensifier; M — masculine; PL — plural; PN — person name; POSS — possessive; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular.
