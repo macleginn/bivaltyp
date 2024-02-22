@@ -32,7 +32,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 23	Albanian	31	call	X (call) Y	звать	X (звать) Y-а		NOM	ACC	TR	TR							
 23	Albanian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	meACC	Y	NOM_meACC							
 23	Albanian	33	know	X (know) Y	знать 	X (знать) Y-а		NOM	ACC	TR	TR							
-23	Albanian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	DAT	Y	NOM_DAT							"Это букв. ""падать"". Есть еще играть, там TR"
+23	Albanian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	DAT	Y	NOM_DAT							Это букв. "падать". Есть еще играть, там TR
 23	Albanian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		NOM	GEN	Y	NOM_GEN							
 23	Albanian	36	make	X (make) Y	изготовить	X (изготовить) Y		NOM	ACC	TR	TR							
 23	Albanian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		NOM	meACC	Y	NOM_meACC							Есть еще TR
@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 23	Albanian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	perACC	Y	NOM_perACC							
 23	Albanian	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	ACC	TR	TR							
 23	Albanian	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	ACC	TR	TR							
-23	Albanian	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM	Y	NOM_NOM							
+23	Albanian	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 23	Albanian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	ACC	TR	TR							
 23	Albanian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	ACC	TR	TR							
 23	Albanian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	meACC	Y	NOM_meACC							
