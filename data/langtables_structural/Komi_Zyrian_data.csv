@@ -28,7 +28,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 34	Komi_Zyrian	27	fry	X (fry) Y	жарить	X (жарить) Y	жаритны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	виччысьны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	вынöдны	NOM	jylys	Y	NOM_jylys									
-34	Komi_Zyrian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	*	*								"Фактически есть только ""на памяти отражается возраст"""		
+34	Komi_Zyrian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	*	*								Фактически есть только "на памяти отражается возраст"		
 34	Komi_Zyrian	31	call	X (call) Y	звать	X (звать) Y-а	корны 	NOM	ACC	TR	TR									
 34	Komi_Zyrian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	тöдмасьны	NOM	COM	Y	NOM_COM									
 34	Komi_Zyrian	33	know	X (know) Y	знать 	X (знать) Y-а	тöдны 	NOM	ACC	TR	TR									
@@ -36,12 +36,12 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 34	Komi_Zyrian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	пышйыны	NOM	ELA	Y	NOM_ELA									
 34	Komi_Zyrian	36	make	X (make) Y	изготовить	X (изготовить) Y	вöчны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	тешитчыны	NOM	vylyn	Y	NOM_vylyn									
-34	Komi_Zyrian	38	have	X (have) Y	иметь	X (иметь) Y	вöвны	GEN	NOM	X	GEN_NOM							"Буквально ""быть"", порядок слов ""кого-то что-то есть"""		
+34	Komi_Zyrian	38	have	X (have) Y	иметь	X (иметь) Y	вöвны	GEN	NOM	X	GEN_NOM							Буквально "быть", порядок слов "кого-то что-то есть"		
 34	Komi_Zyrian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	корсьны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	40	paint	X (paint) Y	красить	X (красить) Y	краситны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	курччыны	NOM	ACC	TR	TR									
-34	Komi_Zyrian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	кольны	NOM	ABE	Y	NOM_ABE							"Буквально ""остаться"""		
-34	Komi_Zyrian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	кутны	*	*	*								"Совпало с держать ""18"", не беру"		
+34	Komi_Zyrian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	кольны	NOM	ABE	Y	NOM_ABE							Буквально "остаться"		
+34	Komi_Zyrian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	кутны	*	*	*								Совпало с держать "18", не беру		
 34	Komi_Zyrian	44	break	X (break) Y	ломать	X (ломать) Y	чегны 	NOM	ACC	TR	TR									
 34	Komi_Zyrian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	сöрны	NOM	DAT	Y	NOM_DAT									
 34	Komi_Zyrian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	радейтны	NOM	ACC	TR	TR									
@@ -53,7 +53,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 34	Komi_Zyrian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	накажитны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	уськöдчыны	NOM	vylo	Y	NOM_vylo									
 34	Komi_Zyrian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	тырны	NOM	INS	Y	NOM_INS									
-34	Komi_Zyrian	55	find	X (find) Y	находить	X (находить) Y(-а)	аддзыны	*	*	*								"Совпадало с ""видеть"", 9, видимо, там это основное значение, не беру"		
+34	Komi_Zyrian	55	find	X (find) Y	находить	X (находить) Y(-а)	аддзыны	*	*	*								Совпадало с "видеть", 9, видимо, там это основное значение, не беру		
 34	Komi_Zyrian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	NEG_тырмыны	DAT	NOM	X	DAT_NOM									
 34	Komi_Zyrian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	мустöмтны	NOM	ACC	TR	TR							Совпадает с 126		
 34	Komi_Zyrian	58	like	X (like) Y	нравиться	X-у (нравиться) Y	кажитчыны	DAT	NOM	X	DAT_NOM							Проверить, было NOM DAT		
@@ -96,9 +96,9 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 34	Komi_Zyrian	95	look	X (look) at Y	смотреть	X (смотреть) на Y	видзöдны 	NOM	vylo	Y	NOM_vylo									
 34	Komi_Zyrian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	пöрччыны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	вöтавны	NOM	ACC	TR	TR									
-34	Komi_Zyrian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	воны öти кывйö	NOM	COM	Y	NOM_COM							"Букв. ""Придтти к одному слову"""		
+34	Komi_Zyrian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	воны öти кывйö	NOM	COM	Y	NOM_COM							Букв. "Придтти к одному слову"		
 34	Komi_Zyrian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	пинясьны 	NOM	COM	Y	NOM_COM									
-34	Komi_Zyrian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	сулавны 	NOM	NOM	Y	NOM_NOM									
+34	Komi_Zyrian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	сулавны 	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)									
 34	Komi_Zyrian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	лыйны 	NOM	ILL	Y	NOM_ILL									
 34	Komi_Zyrian	102	pour	X (pour) Y	сыпать	X (сыпать) Y	пуктыны 	NOM	ACC	TR	TR									
 34	Komi_Zyrian	103	lose	X (lose) Y	терять	X (терять) Y	воштыны	NOM	ACC	TR	TR									
@@ -108,7 +108,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 34	Komi_Zyrian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	окыштны 	NOM	ACC	TR	TR									
 34	Komi_Zyrian	108	read	X (read) Y	читать	X (читать) Y-а	лыддьыны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	вöрöдыштны	NOM	INS	Y	NOM_INS									
-34	Komi_Zyrian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	пыдди пуктыны	NOM	ACC	TR	TR							"Букв. ""ставить за"""		
+34	Komi_Zyrian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	пыдди пуктыны	NOM	ACC	TR	TR							Букв. "ставить за"		
 34	Komi_Zyrian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	зывöктны 	NOM	ACC	TR	TR									
 34	Komi_Zyrian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	дöвöлен	NOM	INS	Y	NOM_INS							Видимо, NV		
 34	Komi_Zyrian	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	мусмыны	DAT	NOM	X	DAT_NOM									
@@ -124,8 +124,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 34	Komi_Zyrian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	лёкавны 	NOM	vylo	Y	NOM_vylo									
 34	Komi_Zyrian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	майшöдлыны	NOM	ACC	TR	TR									
 34	Komi_Zyrian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	шензьыны	NOM	INS	Y	NOM_INS									
-34	Komi_Zyrian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	мустöмтны 	*	*	*								"Решил не брать, совпадает 57 ""ненавидеть"", но то значение более точно"		
-34	Komi_Zyrian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	шогö усьны	NOM	ponda	Y	NOM_ponda							"Букв. ""упасть в горе"""		
+34	Komi_Zyrian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	мустöмтны 	*	*	*								Решил не брать, совпадает 57 "ненавидеть", но то значение более точно		
+34	Komi_Zyrian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	шогö усьны	NOM	ponda	Y	NOM_ponda							Букв. "упасть в горе"		
 34	Komi_Zyrian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	дöзмыны	NOM	vylo	Y	NOM_vylo							Там послелог в какой-то особой форме		
-34	Komi_Zyrian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*								"По сути там есть только вариант, похожий на нравиться, ""приходить кому-то на сердце"" и т.п."		
+34	Komi_Zyrian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	*	*	*	*								По сути там есть только вариант, похожий на нравиться, "приходить кому-то на сердце" и т.п.		
 34	Komi_Zyrian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	яндысьны	NOM	ELA	Y	NOM_ELA									
