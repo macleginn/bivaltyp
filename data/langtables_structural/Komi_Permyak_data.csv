@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 42	Komi_Permyak	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	jylys	Y	NOM_jylys									
 42	Komi_Permyak	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	ACC	TR	TR									
 42	Komi_Permyak	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	ACC	TR	TR									
-42	Komi_Permyak	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM	Y	NOM_NOM									
+42	Komi_Permyak	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)									
 42	Komi_Permyak	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	ACC	TR	TR									
 42	Komi_Permyak	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	vylo	Y	NOM_vylo									
 42	Komi_Permyak	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	INS	Y	NOM_INS									
@@ -98,7 +98,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 42	Komi_Permyak	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		NOM	ACC	TR	TR									
 42	Komi_Permyak	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	COM	Y	NOM_COM									
 42	Komi_Permyak	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	COM	Y	NOM_COM									
-42	Komi_Permyak	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM	Y	NOM_NOM									
+42	Komi_Permyak	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)									
 42	Komi_Permyak	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	DAT	Y	NOM_DAT									
 42	Komi_Permyak	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	ACC	TR	TR									
 42	Komi_Permyak	103	lose	X (lose) Y	терять	X (терять) Y		NOM	ACC	TR	TR									
