@@ -19,7 +19,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 7	Finnish_Ingrian	18	hold	X (hold)Y	держать	X (держать) Y(-а)		NOM	GEN~PART~NOM	TR	TR							
 7	Finnish_Ingrian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		NOM	GEN~PART~NOM	TR	TR							
 7	Finnish_Ingrian	20	milk	X (milk) Y	доить	X (доить) Y-а		NOM	GEN~PART~NOM	TR	TR							
-7	Finnish_Ingrian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		NOM	ILL	Y	NOM_ILL							"Это буквально ""попасть"". Впрочем, в статье Д. его не учитывала, считая глагол ""попасть"" неточным эквивалентом"
+7	Finnish_Ingrian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		NOM	ILL	Y	NOM_ILL							Это буквально "попасть". Впрочем, в статье Д. его не учитывала, считая глагол "попасть" неточным эквивалентом
 7	Finnish_Ingrian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		NOM	PART	Y	NOM_PART							
 7	Finnish_Ingrian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	GENkans	Y	NOM_GENkans							
 7	Finnish_Ingrian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		NOM	GENkans	Y	NOM_GENkans							дружить' = 'быть другом'. Сложная проблема, то ли часть ИГ, то ли зависимое уровня клаузы. Условно учитываем, ориентируясь на то, что используется комитативное средство. 
@@ -40,7 +40,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 7	Finnish_Ingrian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		NOM	PART	Y	NOM_PART							
 7	Finnish_Ingrian	40	paint	X (paint) Y	красить	X (красить) Y		NOM	GEN~PART~NOM	TR	TR							
 7	Finnish_Ingrian	41	bite	X (bite) Y	кусать	X (кусать) Y-а		NOM	PART	Y	NOM_PART							
-7	Finnish_Ingrian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		NOM	GEN~PART~NOM	TR	TR							"Это букв. ""терять"". В статье не учитывался, т.к. на уровне глагола это плохой эквивалент. На уровне клаузы ок."
+7	Finnish_Ingrian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		NOM	GEN~PART~NOM	TR	TR							Это букв. "терять". В статье не учитывался, т.к. на уровне глагола это плохой эквивалент. На уровне клаузы ок.
 7	Finnish_Ingrian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		NOM	GEN~PART~NOM	TR	TR							
 7	Finnish_Ingrian	44	break	X (break) Y	ломать	X (ломать) Y		NOM	GEN~PART~NOM	TR	TR							
 7	Finnish_Ingrian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		*	*	*								
@@ -98,7 +98,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 7	Finnish_Ingrian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		*	*	*								
 7	Finnish_Ingrian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	GENkans	Y	NOM_GENkans							
 7	Finnish_Ingrian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	GENkans	Y	NOM_GENkans							
-7	Finnish_Ingrian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM	Y	NOM_NOM							
+7	Finnish_Ingrian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 7	Finnish_Ingrian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	PART	Y	NOM_PART							
 7	Finnish_Ingrian	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	PART	Y	NOM_PART							
 7	Finnish_Ingrian	103	lose	X (lose) Y	терять	X (терять) Y		NOM	GEN~PART~NOM	TR	TR							
