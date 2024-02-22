@@ -47,9 +47,5 @@ Verbs are cited in their masdar form, which belongs to the perfective paradigm.
 
 ## Glossing abbreviations
 
-A — animate (aka third) gender; ADD — additive particle ADEL — adelative; ADLAT — adlative; ADD — additive particle; ADV — adverbializer; AFF — affective; ATTR — attributive; AUX — auxiliary; CAR — caritive; COM — comitative; CONT — contessive; CONTEL — contelative; CONTLAT — contlative; COP — copula; COV — coverb; DAT — dative; DIST — distal; ERG — ergative; F — feminine; HPL —  human plural; IMP — imperative; IN — inessive; INEL — inelative; INLAT — inlative; IPF — imperfective; H — human; LAT — lative; M — masculine; MSD — masdar; N — neuter (aka fourth gender); NEG — negation;  NM — non-masculine; NOM — nominative; OBL — oblique; PF — perfective; PL — plural; PN — person name; PROX — proximal; PRS — present; PTCP — participle; REFL — reflexive; SG — singular; SUPER — superessive; SUPEREL — superelative; SUPERLAT — superlative.
-
-WAS in Gilles list: AD — adessive
-Was found: h — ; med — ; re —
-
+A — animate (aka third) gender; ADD — additive particle ADEL — adelative; ADLAT — adlative; ADD — additive particle; ADV — adverbializer; AFF — affective; ATTR — attributive; AUX — auxiliary; CAR — caritive; COM — comitative; CONT — contessive; CONTEL — contelative; CONTLAT — contlative; COP — copula; COV — coverb; DAT — dative; DIST — distal; ERG — ergative; F — feminine; HPL —  human plural; IMP — imperative; IN — inessive; INEL — inelative; INLAT — inlative; IPF — imperfective; H — human; LAT — lative; M — masculine; MED — medial; MSD — masdar; N — neuter (aka fourth gender); NEG — negation;  NM — non-masculine; NOM — nominative; OBL — oblique; PF — perfective; PL — plural; PN — person name; PROX — proximal; PRS — present; PTCP — participle; REFL — reflexive; SG — singular; SUPER — superessive; SUPEREL — superelative; SUPERLAT — superlative.
 
