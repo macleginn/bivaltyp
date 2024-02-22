@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	apieACC	Y	NOM_apieACC							
 13	Lithuanian	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	ACC	TR	TR							
 13	Lithuanian	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	ACC	TR	TR							
-13	Lithuanian	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM	Y	NOM_NOM							
+13	Lithuanian	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 13	Lithuanian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	ACC	TR	TR							
 13	Lithuanian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	ACC	TR	TR							
 13	Lithuanian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	GEN	Y	NOM_GEN							
@@ -90,7 +90,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом		NOM	ACC	TR	TR							Засчитываю именно как переходный, а не как paskui + ACC (как в статье), потому что так частотнее вроде бы + не совсем понятен статус paskui - можно ли это считать зависимостным маркированием?
 13	Lithuanian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		NOM	nuoGEN	Y	NOM_nuoGEN							
 13	Lithuanian	91	listen	X (listen) to Y	слушать	X (слушать) Y		NOM	GEN	Y	NOM_GEN							
-13	Lithuanian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*	*	*								"Либо просто слушать (так стоит в статье, но я бы не хотел это дублировать), либо ""быть послушным"", указано в анкете, что это употребляется как НОМ + ДАТ, но, судя по интернету, не особенно употребительно"
+13	Lithuanian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*	*	*								Либо просто слушать (так стоит в статье, но я бы не хотел это дублировать), либо "быть послушным", указано в анкете, что это употребляется как НОМ + ДАТ, но, судя по интернету, не особенно употребительно
 13	Lithuanian	93	hear	X (hear) Y	слышать	X (слышать) Y		NOM	ACC	TR	TR							
 13	Lithuanian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		NOM	suINS	Y	NOM_suINS							
 13	Lithuanian	95	look	X (look) at Y	смотреть	X (смотреть) на Y		NOM	iACC	Y	NOM_iACC							
@@ -123,7 +123,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 13	Lithuanian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а		NOM	antGEN	Y	NOM_antGEN							
 13	Lithuanian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а		*	*	*								Адекватного варианта найти не удалось. Из комментариев к анкете Наташи думал было взять вариант supyko, но это скорее сердиться. А значение обидеться скорее передается переходным вариантом (обидеть)
 13	Lithuanian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		NOM	ACC	TR	TR							
-13	Lithuanian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	INS	Y	NOM_INS							"Взял вариант SUSIŽAVĖJO из предложений носителя в комментариях. Ориентировалс яна то, что это единственный вариант, где в качестве второго актанта использовался именно город, а не ""красота города"""
+13	Lithuanian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	INS	Y	NOM_INS							Взял вариант SUSIŽAVĖJO из предложений носителя в комментариях. Ориентировалс яна то, что это единственный вариант, где в качестве второго актанта использовался именно город, а не "красота города"
 13	Lithuanian	126	despise	X (despise) Y	презирать	X (презирать) Y-а		NOM	ACC	TR	TR							
 13	Lithuanian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	delGEN	Y	NOM_delGEN							
 13	Lithuanian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		*	*	*								Носитель языка отметил, что по-литовски естественнее сказать, что его раздражает поведение дочери. Решил буквальный перевод в такой ситуации не брать.
