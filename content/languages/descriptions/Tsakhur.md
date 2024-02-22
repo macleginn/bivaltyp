@@ -47,4 +47,9 @@ Verbs are cited in their masdar form, which belongs to the perfective paradigm.
 
 ## Glossing abbreviations
 
-A — animate (aka third) gender; AD — adessive; ADEL — adelative; ADLAT — adlative; ADD — additive particle; AFF — affective; ATTR — attributive; CAR — caritive; COM — comitative; CONT — contessive; CONTEL — contelative; CONTLAT — contlative; COP — copula; COV — coverb; DAT — dative; ERG — ergative; F — feminine; HPL —  human plural; IMP — imperative; IN — inessive; INEL — inelative; INLAT — inlative; IPF — imperfective; H — human; LAT — lative; M — masculine; N — neuter (aka fourth gender); NOM — nominative; NPL — non-human plural; MSD — masdar; NM — non-masculine; OBL — oblique; PF — perfective; PL — plural; PN — person name; PRS — present; REFL — reflexive; SG — singular; SUPER — superessive; SUPEREL — superelative; SUPERLAT — superlative.
+A — animate (aka third) gender; ADD — additive particle ADEL — adelative; ADLAT — adlative; ADD — additive particle; ADV — adverbializer; AFF — affective; ATTR — attributive; AUX — auxiliary; CAR — caritive; COM — comitative; CONT — contessive; CONTEL — contelative; CONTLAT — contlative; COP — copula; COV — coverb; DAT — dative; DIST — distal; ERG — ergative; F — feminine; HPL —  human plural; IMP — imperative; IN — inessive; INEL — inelative; INLAT — inlative; IPF — imperfective; H — human; LAT — lative; M — masculine; MSD — masdar; N — neuter (aka fourth gender); NEG — negation;  NM — non-masculine; NOM — nominative; OBL — oblique; PF — perfective; PL — plural; PN — person name; PROX — proximal; PRS — present; PTCP — participle; REFL — reflexive; SG — singular; SUPER — superessive; SUPEREL — superelative; SUPERLAT — superlative.
+
+WAS in Gilles list: AD — adessive
+Was found: h — ; med — ; re —
+
+
