@@ -42,8 +42,11 @@ The morphology of verbal agreement is extremely complex and often fusional. Non-
 There are eight grammatical cases: nominative, ergative, attributive (a threefold gender-number set agreeing with the possessee), caritive, dative, affective, comitative, possessive, and twelve (3x4) spatial cases.
 
 ## Verb lemmas
+
 Verbs are cited in their masdar form, which belongs to the perfective paradigm.
-Glossing abbreviations
-A — animate (aka third) gender ; AD — adessive case : ADEL — adelative case ; ADLAT — adlative case ; ADD — additive particle ; AFF — affective case ; ATTR — attributive case ; CAR — caritive case ; COM — comitative case ; CONT — contessive case ; CONTEL — contelative case ; CONTLAT — contlative case ; COP — copula ; COV — coverb ; DAT — dative case ; ERG — ergative case ; F — human feminine; HPL : human plural ; IMP — imperative; IN — inessive case ; INEL — inelative case ; INLAT — inlative case ; IPF — imperfective; H — human ; LAT — lative case ; M — human masculine; N — neuter (aka fourth gender); NOM — nominative case ; NPL : non-human plural ; MSD — masdar ; NM — non-M ; OBL — oblique ; PF — perfective; PL — plural; PN — person name; PRS — present; REFL — reflexive; SG — singular ;  SUPER — superessive case ; SUPEREL — superelative case ; SUPERLAT — superlative case.
+
+## Glossing abbreviations
+
+A — animate (aka third) gender; AD — adessive case; ADEL — adelative case; ADLAT — adlative case; ADD — additive particle; AFF — affective case; ATTR — attributive case; CAR — caritive case; COM — comitative case; CONT — contessive case; CONTEL — contelative case; CONTLAT — contlative case; COP — copula; COV — coverb; DAT — dative case; ERG — ergative case; F — human feminine; HPL —  human plural; IMP — imperative; IN — inessive case ; INEL — inelative case ; INLAT — inlative case ; IPF — imperfective; H — human ; LAT — lative case ; M — human masculine; N — neuter (aka fourth gender); NOM — nominative case ; NPL : non-human plural ; MSD — masdar ; NM — non-M ; OBL — oblique ; PF — perfective; PL — plural; PN — person name; PRS — present; REFL — reflexive; SG — singular ;  SUPER — superessive case ; SUPEREL — superelative case ; SUPERLAT — superlative case.
 
 
