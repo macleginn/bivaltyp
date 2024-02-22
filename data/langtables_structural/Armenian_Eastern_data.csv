@@ -1,6 +1,6 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 26	Armenian_Eastern	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*	*	*								ИГ
-26	Armenian_Eastern	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 26	Armenian_Eastern	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		NOM	ABL	Y	NOM_ABL							
 26	Armenian_Eastern	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DAT	NOM	X	DAT_NOM							NV
@@ -10,7 +10,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 26	Armenian_Eastern	9	see	X (see) Y	видеть	X (видеть) Y(-а)		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)		NOM	DATvra	Y	NOM_DATvra							
 26	Armenian_Eastern	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом		NOM	DAT~NOM	TR	TR							
-26	Armenian_Eastern	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 26	Armenian_Eastern	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а		NOM	ABL	Y	NOM_ABL							
 26	Armenian_Eastern	15	drive	X (drive) Y	гнать	X (гнать) Y-а		NOM	DAT~NOM	TR	TR							
@@ -32,7 +32,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 26	Armenian_Eastern	31	call	X (call) Y	звать	X (звать) Y-а		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	DAThet	Y	NOM_DAThet							
 26	Armenian_Eastern	33	know	X (know) Y	знать 	X (знать) Y-а		NOM	DAT~NOM	TR	TR							
-26	Armenian_Eastern	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 26	Armenian_Eastern	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		NOM	ABL	Y	NOM_ABL							
 26	Armenian_Eastern	36	make	X (make) Y	изготовить	X (изготовить) Y		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		NOM	DAT~NOM	TR	TR							
@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 26	Armenian_Eastern	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	DATmasin	Y	NOM_DATmasin							
 26	Armenian_Eastern	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	DAT~NOM	TR	TR							
-26	Armenian_Eastern	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	51	be_called	X (be_called) Y	называться	X (называться) Y		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 26	Armenian_Eastern	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	DATvra	Y	NOM_DATvra							
 26	Armenian_Eastern	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	INS	Y	NOM_INS							
@@ -98,7 +98,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 26	Armenian_Eastern	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		DAT	NOM	X	DAT_NOM							NV, надо бы проверить
 26	Armenian_Eastern	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	DAThet	Y	NOM_DAThet							
 26	Armenian_Eastern	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	DAThet	Y	NOM_DAThet							
-26	Armenian_Eastern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM	Y	NOM_NOM							
+26	Armenian_Eastern	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							
 26	Armenian_Eastern	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	DAT	Y	NOM_DAT							
 26	Armenian_Eastern	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	DAT~NOM	TR	TR							
 26	Armenian_Eastern	103	lose	X (lose) Y	терять	X (терять) Y		NOM	DAT~NOM	TR	TR							
@@ -128,4 +128,4 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 26	Armenian_Eastern	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	DATpatcarov	Y	NOM_DATpatcarov							
 26	Armenian_Eastern	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		NOM	DATvra	Y	NOM_DATvra							
 26	Armenian_Eastern	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		NOM	DAT	Y	NOM_DAT							
-26	Armenian_Eastern	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		NOM	ABL	Y	NOM_ABL							"Есть еще вариант ""по причине"""
+26	Armenian_Eastern	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		NOM	ABL	Y	NOM_ABL							Есть еще вариант "по причине"
