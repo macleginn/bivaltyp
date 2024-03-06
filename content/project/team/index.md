@@ -93,6 +93,7 @@ Maria Kholodilova: {{ language:Moksha }}, {{ language:Chuvash }}
 Max Kłoczenko: {{ language:Portuguese_Brazilian }}  
 Mikhail Knyazev: {{ language:Dutch }}  
 Elena Kolpachkova: {{ language:Chinese_Mandarin }}  
+Maria Konoshenko: {{ language:Kpelle_Guinean }}  
 Yukari Konuma: {{ language:Japanese }}  
 Elena Kordi: {{ language:French }}  
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
