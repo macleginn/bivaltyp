@@ -6,7 +6,7 @@ Contributed by Maria Konoshenko ([Academia.edu profile](https://helsinki.academi
 The French version of the questionnaire was used for the elicitation.
 
 ## How to cite
-> Konoshenko, Maria. 2023. Bivalent patterns in {{ language_external}}. 
+> Konoshenko, Maria. 2024. Bivalent patterns in {{ language_external}}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; 
 > last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, 
