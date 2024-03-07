@@ -21,7 +21,7 @@ The data were collected in 2023 using the Russian version of the questionnaire a
 
 ### Basic clause structure and the transitive construction
 
-Case marking displays the ergative-nominative (aka absolutive) alignment. In the basic transitive construction, the P-argument is in the nominative, and the A-argument in the ergative. The ergative case has two allomorphs: *-ee* for most (higher) animates and *-yn* for most animals and for inanimates. The former marker (*-ee*) also marks the inessive on inanimates.
+Case marking displays the ergative-nominative (aka absolutive) alignment. In the basic transitive construction, the P-argument is in the nominative, and the A-argument is in the ergative. The ergative case has two allomorphs: *-ee* for most (higher) animates and *-yn* for most animals and for inanimates. The former marker (*-ee*) also marks the inessive on inanimates.
 
 The A-arguments of transitives are never indexed on the verb. The verb agrees in gender-number with the nominative argument (the sole core argument in intransitives or the P-argument of transitives). Thus, both (1) and (2) are examples of the canonical transitive construction.
 
