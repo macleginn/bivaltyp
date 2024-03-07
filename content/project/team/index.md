@@ -68,6 +68,7 @@ Aleksandra Azargaeva: {{ language:Buriat }}
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
 Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}  
+Natalia Bogomolova: {{ language:Tabasaran_Kandyk }}   
 Nadezhda Bulatova: {{ language:Evenki }}  
 Daria Chistiakova, Daria Ryzhova: {{ language:Shughni }}  
 Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, {{ language:Soninke }}  
