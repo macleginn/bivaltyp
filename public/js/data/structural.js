@@ -463,9 +463,9 @@ const structuralData = [
     "be_called",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Albanian",
@@ -1192,9 +1192,9 @@ const structuralData = [
     "have#illness#",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Eastern Armenian",
@@ -1282,9 +1282,9 @@ const structuralData = [
     "enter",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Eastern Armenian",
@@ -1480,9 +1480,9 @@ const structuralData = [
     "play#instrument#",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Eastern Armenian",
@@ -1633,9 +1633,9 @@ const structuralData = [
     "be_called",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Eastern Armenian",
@@ -2074,9 +2074,9 @@ const structuralData = [
     "cost",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Eastern Armenian",
@@ -10264,9 +10264,9 @@ const structuralData = [
     "cost",
     "сэн-тэй",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Buriat",
@@ -12928,9 +12928,9 @@ const structuralData = [
     "resemble",
     "jɨʂi",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Chuvash",
@@ -13333,7 +13333,7 @@ const structuralData = [
     "be_called",
     "t-",
     "OBJ",
-    "NOM.NONCORE",
+    "NOM(NO.AGR)",
     "XY",
     "OBJ_NOM.NONCORE"
   ],
@@ -14503,9 +14503,9 @@ const structuralData = [
     "be_called",
     "se zove",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Croatian",
@@ -18454,9 +18454,9 @@ const structuralData = [
     "cost",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Ingrian Finnish",
@@ -22693,9 +22693,9 @@ const structuralData = [
     "be_called",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Modern Greek",
@@ -27373,9 +27373,9 @@ const structuralData = [
     "be_called",
     "er  kallað",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Icelandic",
@@ -32494,9 +32494,9 @@ const structuralData = [
     "cost",
     "bää",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Kalmyk",
@@ -34393,9 +34393,9 @@ const structuralData = [
     "be_called",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Komi-Permyak",
@@ -34834,9 +34834,9 @@ const structuralData = [
     "cost",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Komi-Permyak",
@@ -36004,9 +36004,9 @@ const structuralData = [
     "cost",
     "сулавны ",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Komi-Zyrian",
@@ -39073,9 +39073,9 @@ const structuralData = [
     "be_called",
     "",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Lithuanian",
@@ -43753,9 +43753,9 @@ const structuralData = [
     "be_called",
     "manalt-",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Western Mari",
@@ -46093,9 +46093,9 @@ const structuralData = [
     "be_called",
     "хуыйнын",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Ossetic",
@@ -47263,9 +47263,9 @@ const structuralData = [
     "be_called",
     "a se numi",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Romanian",
@@ -52384,9 +52384,9 @@ const structuralData = [
     "cost",
     "bi-",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Udihe",
@@ -54283,9 +54283,9 @@ const structuralData = [
     "be_called",
     "нимаськыны",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Udmurt",
@@ -54427,9 +54427,9 @@ const structuralData = [
     "smell",
     "зын",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Udmurt",
@@ -54724,9 +54724,9 @@ const structuralData = [
     "cost",
     "сылыны",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Udmurt",
@@ -55453,9 +55453,9 @@ const structuralData = [
     "be_called",
     "називається",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Ukrainian",
@@ -56623,9 +56623,9 @@ const structuralData = [
     "be_called",
     "дэн-",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Yakut",
@@ -56767,9 +56767,9 @@ const structuralData = [
     "smell",
     "сыт-таах",
     "NOM",
-    "NOM",
+    "NOM(NO.AGR)",
     "Y",
-    "NOM_NOM"
+    "NOM_NOM(NO.AGR)"
   ],
   [
     "Yakut",

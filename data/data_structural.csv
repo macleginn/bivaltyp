@@ -49,7 +49,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 23	48		NOM	perACC	Y	NOM_perACC
 23	49		NOM	ACC	TR	TR
 23	50		NOM	ACC	TR	TR
-23	51		NOM	NOM	Y	NOM_NOM
+23	51		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 23	52		NOM	ACC	TR	TR
 23	53		NOM	ACC	TR	TR
 23	54		NOM	meACC	Y	NOM_meACC
@@ -130,7 +130,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 23	129		NOM	ACC	TR	TR
 23	130		DAT	perACC	XY	DAT_perACC
 26	1		*	*	*	
-26	2		NOM	NOM	Y	NOM_NOM
+26	2		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 26	3		NOM	ABL	Y	NOM_ABL
 26	4		NOM	DAT~NOM	TR	TR
 26	5		DAT	NOM	X	DAT_NOM
@@ -140,7 +140,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 26	9		NOM	DAT~NOM	TR	TR
 26	10		NOM	DATvra	Y	NOM_DATvra
 26	11		NOM	DAT~NOM	TR	TR
-26	12		NOM	NOM	Y	NOM_NOM
+26	12		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 26	13		NOM	DAT~NOM	TR	TR
 26	14		NOM	ABL	Y	NOM_ABL
 26	15		NOM	DAT~NOM	TR	TR
@@ -162,7 +162,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 26	31		NOM	DAT~NOM	TR	TR
 26	32		NOM	DAThet	Y	NOM_DAThet
 26	33		NOM	DAT~NOM	TR	TR
-26	34		NOM	NOM	Y	NOM_NOM
+26	34		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 26	35		NOM	ABL	Y	NOM_ABL
 26	36		NOM	DAT~NOM	TR	TR
 26	37		NOM	DAT~NOM	TR	TR
@@ -179,7 +179,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 26	48		NOM	DATmasin	Y	NOM_DATmasin
 26	49		NOM	DAT~NOM	TR	TR
 26	50		NOM	DAT~NOM	TR	TR
-26	51		NOM	NOM	Y	NOM_NOM
+26	51		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 26	52		NOM	DAT~NOM	TR	TR
 26	53		NOM	DATvra	Y	NOM_DATvra
 26	54		NOM	INS	Y	NOM_INS
@@ -228,7 +228,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 26	97		DAT	NOM	X	DAT_NOM
 26	98		NOM	DAThet	Y	NOM_DAThet
 26	99		NOM	DAThet	Y	NOM_DAThet
-26	100		NOM	NOM	Y	NOM_NOM
+26	100		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 26	101		NOM	DAT	Y	NOM_DAT
 26	102		NOM	DAT~NOM	TR	TR
 26	103		NOM	DAT~NOM	TR	TR
@@ -1138,7 +1138,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	97	зүүдэн-дэ   хара-гда-	DAT	NOM	X	DAT_NOM
 52	98	ойлголсо-	NOM	COM	Y	NOM_COM
 52	99	хэрэлдэ-	NOM	COM	Y	NOM_COM
-52	100	сэн-тэй	NOM	NOM	Y	NOM_NOM
+52	100	сэн-тэй	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 52	101	бууда-	NOM	ACC	TR	TR
 52	102	адха-	NOM	ACC	TR	TR
 52	103	гээ-	NOM	ACC	TR	TR
@@ -1434,7 +1434,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 71	3	xər-	NOM	ABL	Y	NOM_ABL
 71	4	ber-	NOM	OBJ	TR	TR
 71	5	ɕit-	OBJ	NOM	X	OBJ_NOM
-71	6	jɨʂi	NOM	NOM	Y	NOM_NOM
+71	6	jɨʂi	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 71	7	ʂan-	NOM	OBJ	TR	TR
 71	8	il-	NOM	OBJ	TR	TR
 71	9	kor-	NOM	OBJ	TR	TR
@@ -1479,7 +1479,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 71	48	ʂotl-	NOM	cinABL	Y	NOM_cinABL
 71	49	ɕo-	NOM	OBJ	TR	TR
 71	50	təgən-	NOM	OBJ	TR	TR
-71	51	t-	OBJ	NOM.NONCORE	XY	OBJ_NOM.NONCORE
+71	51	t-	OBJ	NOM(NO.AGR)	XY	OBJ_NOM.NONCORE
 71	52	наказать tu-	NOM	OBJ	TR	TR
 71	53	tabən-	NOM	OBJ	TR	TR
 71	54	tol-	NOM	INS	Y	NOM_INS
@@ -1609,7 +1609,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 73	48	mašta	NOM	oLOC	Y	NOM_oLOC
 73	49	oprao	NOM	ACC	TR	TR
 73	50	obukao	NOM	ACC	TR	TR
-73	51	se zove	NOM	NOM	Y	NOM_NOM
+73	51	se zove	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 73	52	kaznio	NOM	ACC	TR	TR
 73	53	napao	NOM	ACC	TR	TR
 73	54	se napunila	NOM	INS	Y	NOM_INS
@@ -2048,7 +2048,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 7	97		*	*	*	
 7	98		NOM	GENkans	Y	NOM_GENkans
 7	99		NOM	GENkans	Y	NOM_GENkans
-7	100		NOM	NOM	Y	NOM_NOM
+7	100		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 7	101		NOM	PART	Y	NOM_PART
 7	102		NOM	PART	Y	NOM_PART
 7	103		NOM	GEN~PART~NOM	TR	TR
@@ -2519,7 +2519,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 21	48		NOM	ACC	TR	TR
 21	49		NOM	ACC	TR	TR
 21	50		NOM	ACC	TR	TR
-21	51		NOM	NOM	Y	NOM_NOM
+21	51		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 21	52		NOM	ACC	TR	TR
 21	53		NOM	seACC	Y	NOM_seACC
 21	54		NOM	ACC	TR	TR
@@ -3039,7 +3039,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 64	48	dreymir	ACC	umACC	XY	ACC_umACC
 64	49	þvoði	NOM	ACC	TR	TR
 64	50	fór	NOM	iACC	Y	NOM_iACC
-64	51	er  kallað	NOM	NOM	Y	NOM_NOM
+64	51	er  kallað	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 64	52	refsaði	NOM	DAT	Y	NOM_DAT
 64	53	réðst	NOM	aACC	Y	NOM_aACC
 64	54	fylltist	NOM	afDAT	Y	NOM_afDAT
@@ -3608,7 +3608,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 14	97	nöörtə üz	NOM	ACC	TR	TR
 14	98	zövšär	NOM	ASSOC	Y	NOM_ASSOC
 14	99	cüüg	NOM	ASSOC	Y	NOM_ASSOC
-14	100	bää	NOM	NOM	Y	NOM_NOM
+14	100	bää	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 14	101	xa	NOM	ACC	TR	TR
 14	102	ke	NOM	ACC	TR	TR
 14	103	gee	NOM	ACC	TR	TR
@@ -3819,7 +3819,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 42	48		NOM	jylys	Y	NOM_jylys
 42	49		NOM	ACC	TR	TR
 42	50		NOM	ACC	TR	TR
-42	51		NOM	NOM	Y	NOM_NOM
+42	51		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 42	52		NOM	ACC	TR	TR
 42	53		NOM	vylo	Y	NOM_vylo
 42	54		NOM	INS	Y	NOM_INS
@@ -3868,7 +3868,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 42	97		NOM	ACC	TR	TR
 42	98		NOM	COM	Y	NOM_COM
 42	99		NOM	COM	Y	NOM_COM
-42	100		NOM	NOM	Y	NOM_NOM
+42	100		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 42	101		NOM	DAT	Y	NOM_DAT
 42	102		NOM	ACC	TR	TR
 42	103		NOM	ACC	TR	TR
@@ -3998,7 +3998,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 34	97	вöтавны	NOM	ACC	TR	TR
 34	98	воны öти кывйö	NOM	COM	Y	NOM_COM
 34	99	пинясьны 	NOM	COM	Y	NOM_COM
-34	100	сулавны 	NOM	NOM	Y	NOM_NOM
+34	100	сулавны 	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 34	101	лыйны 	NOM	ILL	Y	NOM_ILL
 34	102	пуктыны 	NOM	ACC	TR	TR
 34	103	воштыны	NOM	ACC	TR	TR
@@ -4339,7 +4339,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 13	48		NOM	apieACC	Y	NOM_apieACC
 13	49		NOM	ACC	TR	TR
 13	50		NOM	ACC	TR	TR
-13	51		NOM	NOM	Y	NOM_NOM
+13	51		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 13	52		NOM	ACC	TR	TR
 13	53		NOM	ACC	TR	TR
 13	54		NOM	GEN	Y	NOM_GEN
@@ -4859,7 +4859,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 59	48	šanə̑kal-	NOM	gisan	Y	NOM_gisan
 59	49	mə̑šk-	NOM	ACC	TR	TR
 59	50	či-	NOM	ACC	TR	TR
-59	51	manalt-	NOM	NOM	Y	NOM_NOM
+59	51	manalt-	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 59	52	nakaz-	NOM	ACC	TR	TR
 59	53	napadaj-	NOM	veke	Y	NOM_veke
 59	54	tem-	NOM	dono	Y	NOM_dono
@@ -5119,7 +5119,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 35	48	бæллын 	NOM	ALL	Y	NOM_ALL
 35	49	ныхсын	NOM	GEN~NOM	TR	TR
 35	50	скæнын	NOM	GEN~NOM	TR	TR
-35	51	хуыйнын	NOM	NOM	Y	NOM_NOM
+35	51	хуыйнын	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 35	52	бафхæрын	NOM	GEN~NOM	TR	TR
 35	53	балæбурын 	NOM	ALL	Y	NOM_ALL
 35	54	байдзаг уæвын 	NOM	ABL	Y	NOM_ABL
@@ -5249,7 +5249,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 39	48	a visa	NOM	la	Y	NOM_la
 39	49	a spăla	NOM	ACC	TR	TR
 39	50	a lua … pe sine	NOM	ACC	TR	TR
-39	51	a se numi	NOM	NOM	Y	NOM_NOM
+39	51	a se numi	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 39	52	a pedepsi	NOM	ACC	TR	TR
 39	53	a ataca	NOM	ACC	TR	TR
 39	54	a fi umplut	NOM	cu	Y	NOM_cu
@@ -5818,7 +5818,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 56	97	t'osi-	NOM	ACC	TR	TR
 56	98	*	*	*	*	
 56	99	*	*	*	*	
-56	100	bi-	NOM	NOM	Y	NOM_NOM
+56	100	bi-	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 56	101	gakpa-	NOM	ACC	TR	TR
 56	102	kuŋgədə-	NOM	ACC	TR	TR
 56	103	nodo-	NOM	ACC	TR	TR
@@ -6029,7 +6029,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 72	48	малпаны	NOM	NOMsjarys	Y	NOM_NOMsjarys
 72	49	миськыны	NOM	ACC	TR	TR
 72	50	дӥсяны	NOM	ACC	TR	TR
-72	51	нимаськыны	NOM	NOM	Y	NOM_NOM
+72	51	нимаськыны	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 72	52	куаретыны	NOM	ACC	TR	TR
 72	53	урдӥськыны	NOM	NOMvyle	Y	NOM_NOMvyle
 72	54	тырмыны	NOM	INS	Y	NOM_INS
@@ -6045,7 +6045,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 72	64	пöртэм	NOM	ABL	Y	NOM_ABL
 72	65	кыльыны	NOM	ABL	Y	NOM_ABL
 72	66	гырыны 	NOM	ACC	TR	TR
-72	67	зын	NOM	NOM	Y	NOM_NOM
+72	67	зын	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 72	68	выжыны	NOM	NOMvamen	Y	NOM_NOMvamen
 72	69	кырӟаны	NOM	ACC	TR	TR
 72	70	гожъяны	NOM	ACC	TR	TR
@@ -6078,7 +6078,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 72	97	вöтаны	NOM	ACC	TR	TR
 72	98	соглаш	NOM	INS	Y	NOM_INS
 72	99	керетыны	NOM	INS	Y	NOM_INS
-72	100	сылыны	NOM	NOM	Y	NOM_NOM
+72	100	сылыны	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 72	101	ыбыны	NOM	NOMshory	Y	NOM_NOMshory
 72	102	пызьнаны	NOM	ACC	TR	TR
 72	103	ыштыны	NOM	ACC	TR	TR
@@ -6159,7 +6159,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 41	48	мріє	NOM	proACC	Y	NOM_proACC
 41	49	вимив	NOM	ACC	TR	TR
 41	50	одягнув	NOM	ACC	TR	TR
-41	51	називається	NOM	NOM	Y	NOM_NOM
+41	51	називається	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 41	52	покарав	NOM	ACC	TR	TR
 41	53	накинувся	NOM	naACC	Y	NOM_naACC
 41	54	наповнилося	NOM	INS	Y	NOM_INS
@@ -6289,7 +6289,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 51	48	*	*	*	*	
 51	49	сууй-	NOM	ACC	TR	TR
 51	50	кэп-	NOM	ACC	TR	TR
-51	51	дэн-	NOM	NOM	Y	NOM_NOM
+51	51	дэн-	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 51	52	кэһэт-	NOM	ACC	TR	TR
 51	53	саб-а түс-	NOM	DAT	Y	NOM_DAT
 51	54	туол-	NOM	INS	Y	NOM_INS
@@ -6305,7 +6305,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 51	64	атын	NOM	ABL	Y	NOM_ABL
 51	65	хаал-	NOM	ABL	Y	NOM_ABL
 51	66	хорут-	NOM	ACC	TR	TR
-51	67	сыт-таах	NOM	NOM	Y	NOM_NOM
+51	67	сыт-таах	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
 51	68	туораа-	NOM	ACC	TR	TR
 51	69	ыллаа-	NOM	ACC	TR	TR
 51	70	суруй-	NOM	ACC	TR	TR
