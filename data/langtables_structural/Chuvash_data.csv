@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 71	Chuvash	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	ʂotl-	NOM	cinABL	Y	NOM_cinABL							Тот же глагол, что 25
 71	Chuvash	49	wash	X (wash) Y	мыть	X (мыть) Y	ɕo-	NOM	OBJ	TR	TR							
 71	Chuvash	50	put_on	X (put_on) Y	надевать	X (надевать) Y	təgən-	NOM	OBJ	TR	TR							
-71	Chuvash	51	be_called	X (be_called) Y	называться	X (называться) Y	t-	OBJ	NOM(NO.AGR)	XY	OBJ_NOM.NONCORE							Трансимперсонал, букв. "Эту вещь компас говорят"
+71	Chuvash	51	be_called	X (be_called) Y	называться	X (называться) Y	t-	OBJ	NOM(NO.AGR)	XY	OBJ_NOM(NO.AGR)							Трансимперсонал, букв. "Эту вещь компас говорят"
 71	Chuvash	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	наказать tu-	NOM	OBJ	TR	TR							CV, русский предикат ("наказать делать")
 71	Chuvash	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	tabən-	NOM	OBJ	TR	TR							
 71	Chuvash	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	tol-	NOM	INS	Y	NOM_INS							
