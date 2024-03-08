@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 8	Basque	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	amestu	ERG	ABS	TR	TR							
 8	Basque	49	wash	X (wash) Y	мыть	X (мыть) Y	garbitu	ERG	ABS	TR	TR							
 8	Basque	50	put_on	X (put_on) Y	надевать	X (надевать) Y	jantzi	ERG	ABS	TR	TR							
-8	Basque	51	be_called	X (be_called) Y	называться	X (называться) Y	deitu	ABS	ABS	Y	ABS_ABS							
+8	Basque	51	be_called	X (be_called) Y	называться	X (называться) Y	deitu	ABS	ABS(NO.AGR)	Y	ABS_ABS(NO.AGR)							
 8	Basque	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	zigortu	ERG	ABS	TR	TR							
 8	Basque	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	eraso	ERG	DAT	Y	ERG_DAT							
 8	Basque	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	bete	ABS	INS	Y	ABS_INS							
@@ -65,7 +65,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 8	Basque	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	*	*	*	*								X и Y разные
 8	Basque	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	*	*	*	*								Х остался в задней части Y-а, Y - зависимое имени
 8	Basque	66	plough	X (plough) Y	пахать	X (пахать) Y	goldatu	ERG	ABS	TR	TR							
-8	Basque	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	*	*								"Не совсем понятно, но видимо, не надо считать, так как бензин зависимое ""запаха"""
+8	Basque	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	*	*	*	*								Не совсем понятно, но видимо, не надо считать, так как бензин зависимое "запаха"
 8	Basque	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	zeharkatu	ERG	ABS	TR	TR							
 8	Basque	69	sing	X (sing) Y	петь	X (петь) Y	kantatu	ERG	ABS	TR	TR							
 8	Basque	70	write	X (write) Y	писать	X (писать) Y	idatzi	ERG	ABS	TR	TR							
