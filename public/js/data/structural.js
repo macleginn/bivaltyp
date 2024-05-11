@@ -5143,9 +5143,9 @@ const structuralData = [
     "be_called",
     "deitu",
     "ABS",
-    "ABS",
+    "ABS(NO.AGR)",
     "Y",
-    "ABS_ABS"
+    "ABS_ABS(NO.AGR)"
   ],
   [
     "Basque",
@@ -13335,7 +13335,7 @@ const structuralData = [
     "OBJ",
     "NOM(NO.AGR)",
     "XY",
-    "OBJ_NOM.NONCORE"
+    "OBJ_NOM(NO.AGR)"
   ],
   [
     "Chuvash",
@@ -52672,9 +52672,9 @@ const structuralData = [
     "have#illness#",
     "baft'",
     "ABS",
-    "ABS",
-    "X",
-    "ABS_ABS"
+    "ABS(NO.AGR)",
+    "Y",
+    "ABS_ABS(NO.AGR)"
   ],
   [
     "Udi",

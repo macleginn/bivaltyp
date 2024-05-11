@@ -569,7 +569,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 8	48	amestu	ERG	ABS	TR	TR
 8	49	garbitu	ERG	ABS	TR	TR
 8	50	jantzi	ERG	ABS	TR	TR
-8	51	deitu	ABS	ABS	Y	ABS_ABS
+8	51	deitu	ABS	ABS(NO.AGR)	Y	ABS_ABS(NO.AGR)
 8	52	zigortu	ERG	ABS	TR	TR
 8	53	eraso	ERG	DAT	Y	ERG_DAT
 8	54	bete	ABS	INS	Y	ABS_INS
@@ -1479,7 +1479,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 71	48	ʂotl-	NOM	cinABL	Y	NOM_cinABL
 71	49	ɕo-	NOM	OBJ	TR	TR
 71	50	təgən-	NOM	OBJ	TR	TR
-71	51	t-	OBJ	NOM(NO.AGR)	XY	OBJ_NOM.NONCORE
+71	51	t-	OBJ	NOM(NO.AGR)	XY	OBJ_NOM(NO.AGR)
 71	52	наказать tu-	NOM	OBJ	TR	TR
 71	53	tabən-	NOM	OBJ	TR	TR
 71	54	tol-	NOM	INS	Y	NOM_INS
@@ -5850,7 +5850,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 56	129	*	*	*	*	
 56	130	xagzə-	*	*	*	
 75	1	q'ač'+LV	GEN	ABS	X	GEN_ABS
-75	2	baft'	ABS	ABS	X	ABS_ABS
+75	2	baft'	ABS	ABS(NO.AGR)	Y	ABS_ABS(NO.AGR)
 75	3	q'ı̌+LV	ERG	ABL	Y	ERG_ABL
 75	4	bos	ERG	ABS	TR	TR
 75	5	xeylək+BE	GEN	ABS	X	GEN_ABS
