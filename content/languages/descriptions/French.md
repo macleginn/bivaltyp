@@ -37,7 +37,7 @@ Nominal arguments other than A, S and O are flagged by prepositions. Subjects (A
 
 ### Case system
 
-French has no morphological case on nouns. Personal pronouns has three case-marked clitic forms: nominative, accusative and dative. The dative form usually corresponds to the combination of the preposition *à* with the noun (although some discrepancies are possible), see (3) and (4).
+French has no morphological case on nouns. Personal pronouns has three case-marked clitic forms: nominative, accusative and dative. The dative form of a pronoun usually corresponds to the combination of the preposition *à* with the noun, see (3) and (4).
 
 ```
 (3)  Paul   a             répondu            à   ses       parent-s
@@ -49,11 +49,11 @@ French has no morphological case on nouns. Personal pronouns has three case-mark
      ‘Paul answered them.’
 ```
 
-Apart from pronominal clitics, there are stressed pronouns that are used in a number of syntactic environments, including combinations with prepositions.
+The encoding of the Y argument in structures like (3) and (4) is treated as "Non-direct object" (labelled as NDIR.OBJ in valency class tags). However, combinations of the same preposition *à* with the noun can correspond to two further encoding possibilities for pronominal arguments. With some verbs, pronouns are introduced by the same preposition *à*. Such encoding patterns are tagged as simply "a" in valency class tags (see entry 25 in the dataset below). With still other verbs, thr pronominal equivalent is *y* ‘there’. Such encoding patterns are tagged as "a(LOC)" (see entries 1 and 81 in the dataset below). Apart from pronominal clitics, there are stressed pronouns that are used in a number of syntactic environments, including combinations with prepositions.
 
 ## Verb lemmas
 
 Verbs are shown in the infinitive form.
 
 ## Glossing abbreviations
-ACC — accusative; DAT — dative; DEF — definite; F — feminine; IMP — imperative; INDF — indefinite; INF — infinitive; M — masculine; PL — plural; PN — person name; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular.
+ACC — accusative; DAT — dative; DEF — definite; F — feminine; IMP — imperative; INDF — indefinite; INF — infinitive; M — masculine; NDIR.OBJ — non-direct object; PL — plural; PN — person name; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular.
