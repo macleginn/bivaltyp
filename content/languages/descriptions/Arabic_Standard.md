@@ -18,4 +18,4 @@ The data were initially provided by Ramazan Mamedshaxov in 2011 using the Russia
 - Macro-area: {{ macroarea }}.
 
 ## Glossing abbreviations
-ACC — accusative; DEF — definitve; DU — dual; F — feminine; GEN — genitive; INDEF — indefinite; IPF — imperfective; M — masculine; NOM — nominative; P — possessive; PASS — passive; PF — perfective; PL — plural; PN — person name; SG — singular.
+ACC — accusative; DEF — definite; DU — dual; F — feminine; GEN — genitive; INDEF — indefinite; IPF — imperfective; M — masculine; NOM — nominative; P — possessive; PASS — passive; PF — perfective; PL — plural; PN — person name; SG — singular.
