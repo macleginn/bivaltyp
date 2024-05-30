@@ -102,6 +102,7 @@ Kirill Kozhanov: {{ language:Romani_Kalderash }}
 Samona Kurilova, Maria Pupynina: {{ language:Yukaghir_Northern }}  
 Nikita Kuzin: {{ language:Yukaghir_Northern }}  
 Olga Kuznetsova: {{ language:Guro }}  
+Nadege Nkwenti Lum:  {{ language:Bafut }}  
 Timur Maisak: {{ language:Udi }}  
 Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}  
 Anastasia (Leonidovna) Makarova: {{ language:Serbian }}  
