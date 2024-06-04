@@ -44,7 +44,7 @@ This project was launched as early as in 2009 at the The Laboratory for the Typo
 
 > 2011-2013, “Verb argument structure variation and verb classification in languages of various structural types”, grant #11-04-00179a.
 
-After 2013, the dataset continued to grow thanks to language experts who contributed data for new languages. The online version of the project was launched in 2020.
+After 2013, the dataset continued to grow thanks to language experts who contributed data for new languages. The online version of the project was launched in 2020. Since 2022, the project's creator and editor, Sergey Say, has been affiliated with the [CRC 1287](https://www.sfb1287.uni-potsdam.de/) at the University of Potsdam, and the development of the project is coordinated within the [Posla Typology Lab](https://www.uni-potsdam.de/de/slavische-linguistik/posla-typology-lab).
 
 ### Similar projects
 
