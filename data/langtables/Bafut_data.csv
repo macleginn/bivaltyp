@@ -98,7 +98,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		SBJ	mbi7i	Y	SBJ_mbi7i		ndzə̂-lɛ̀ àmbɛ́ mbᵼ́ʔᵼ́ sùù	dream-sleep PN about PN	‘Ambe dreams about Suh.’			
 128	Bafut	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		SBJ	ni	Y	SBJ_ni		àmbɛ́ à kɨ̀ bíì nᵼ̀ sùù	PN SM P2 agree with1 PN	‘Ambe agreed with Suh.’			
 128	Bafut	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		SBJ	bo	Y	SBJ_bo		àmbɛ́ à kɨ̀ jɔ́ŋə̀ bó sùù	PN SM P2 quarrel with2.ANIM PN	‘Ambe had a quarrel with Suh.’			
-128	Bafut	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*	*	*		Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument). The explicit copula “bə̀” ‘to be’ is optional.	ndɔ́ŋ jú ᵼ̀ ŋ̀kɣᵼ̀ jìmfùrᵼ̀	cup this SM hundred one	‘This cup costs one hundred.’			
+128	Bafut	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		SBJ	PRED	Y	SBJ_PRED		ndɔ́ŋ jú ᵼ̀ ŋ̀kɣᵼ̀ jìmfùrᵼ̀	cup this SM hundred one	‘This cup costs one hundred.’			
 128	Bafut	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ túmə̂ sᵼ́ŋ wá	PN SM P2 shoot bird DEF	‘Ambe shot the bird.’			
 128	Bafut	102	pour	X (pour) Y	сыпать	X (сыпать) Y		SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ nᵼ́ŋə́ súgà wá	PN SM P2 put sugar DEF	‘Ambe poured the sugar.’			
 128	Bafut	103	lose	X (lose) Y	терять	X (терять) Y		SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ bɨ̀-kwáʔà bàʔà dʒí 	PN SM P2 PL-opener door his	‘Ame lost his keys.’			
