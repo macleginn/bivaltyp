@@ -65,6 +65,7 @@ Gilles Authier, Uzlipat Gasanova: {{ language:Dargwa_Kaytag }}
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
 Gilles Authier, Rashidat Khalidova: {{ language:Karata }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
+Ayten Babaliyeva: {{ language:Lezgian_Yargun }}  
 Mislav Benić: {{ language:Croatian }}  
 Sandra Birzer: {{ language:German }}  
 Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}  
