@@ -1318,7 +1318,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 128	17		SBJ	mbo	Y	SBJ_mbo	àmbɛ́ à kɨ̀ ʃwóŋə̂ mbô sùù tóŋə̂ ɣà fâ ŋ̀kwɛ̂fɔ̀	PN SM P2 tell for PN call me this evening	‘Ambe told Suh: “Call me this evening”.’					
 128	18		SBJ	DO	TR	TR	àmbɛ́ à tʃwá-kɨ́ ŋwàʔànɨ̀	PN SM hold-IPFV book	‘Ambe is holding a book.’					
 128	19		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ tʃíʔî-tɨ̀ sùù	PN SM P2 meet-IPFV PN	‘Ambe caught up with Suh.’					
-128	20		SBJ	a.mum.nu		SBJ_a.mum.nu	àmbɛ́ à kɨ̀ fíʔî mílíkə̀ á múm nú káù já	PN SM P2 remove milk at inside body/PREP cow DEF	‘Ambe milked the cow’ (lit.: ‘Ambe removed milk from inside the cow’s body’).					
+128	20		SBJ	a.mum.nu	Y	SBJ_a.mum.nu	àmbɛ́ à kɨ̀ fíʔî mílíkə̀ á múm nú káù já	PN SM P2 remove milk at inside body/PREP cow DEF	‘Ambe milked the cow’ (lit.: ‘Ambe removed milk from inside the cow’s body’).					
 128	21		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ nkùʔû ǹtsù mɨ̀jàà	PN SM P2 reach mouth river	‘Ambe reached the river bank.’					
 128	22		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ mɔ̀ɔ̀ntə̂ àwùgə̀-ndâ já	PN SM P2 touch wall-house DEF	‘Ambe touched the wall.’					
 128	23		SBJ	ni	Y	SBJ_ni	àmbɛ́ à ntô nɨ̀ sùù	PN SM fight with1 PN	‘Ambe is fighting with Suh.’					
@@ -1402,7 +1402,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern	sentence	glosses_en	back
 128	101		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ túmə̂ sᵼ́ŋ wá	PN SM P2 shoot bird DEF	‘Ambe shot the bird.’					
 128	102		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ nᵼ́ŋə́ súgà wá	PN SM P2 put sugar DEF	‘Ambe poured the sugar.’					
 128	103		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ bɨ̀-kwáʔà bàʔà dʒí 	PN SM P2 PL-opener door his	‘Ame lost his keys.’					
-128	104		SBJ	a.mfeng		SBJ_a.mfeng	mamúʔù tí wá à kɨ̀ sɨ́gə̂ ɣɛ̀ɛ́ á mfə̀ŋ ŋ̀kxì wá	big stick DEF SM P2 descend go at buttocks/PREP water DEF	‘The log sank in the water.’					
+128	104		SBJ	a.mfeng	Y	SBJ_a.mfeng	mamúʔù tí wá à kɨ̀ sɨ́gə̂ ɣɛ̀ɛ́ á mfə̀ŋ ŋ̀kxì wá	big stick DEF SM P2 descend go at buttocks/PREP water DEF	‘The log sank in the water.’					
 128	105		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ ʒwítə́ sùù	PN SM P2 kill PN	‘Ambe killed Suh.’					
 128	106		SBJ	DO	TR	TR	àmbɛ́ à kɨ̀ kwínə̂ sùù	PN SM P2 hit PN	‘Ambe hit Suh.’					
 128	107		*	*	*		àmbɛ́ à kɨ̀ nɔ́ŋə̂ ǹtsù bì	PN SM P2 suck mouth PN	‘Ambe kissed Bih.’	Not included in the database because Y is expressed as an NP-internal modifier.				
