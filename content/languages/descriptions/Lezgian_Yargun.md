@@ -8,7 +8,7 @@ The data were collected in 2024 based on the Azerbaijani and Russian versions of
 
 ## How to cite
 
-> Babliyeva, Ayten. 2024. Bivalent patterns in {{ language_external }}. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
+> Babaliyeva, Ayten. 2024. Bivalent patterns in {{ language_external }}. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) (Available online at {{ site_url }}, Accessed on {{ today }}.)
 
 ## Basic info
 
