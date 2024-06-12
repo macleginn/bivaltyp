@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by Nadege Nkwenti Lum.
 
+![N.L.'s photo]({{ site_url_j }}/images/Lum.jpg "N.L.'s photo")
+
 Nadege Nkwenti Lum provided and analyzed the data in 2024 in her capacity of a native speaker.
 
 ## How to cite
