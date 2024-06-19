@@ -38,4 +38,13 @@ Verbs are cited by their masdar form, based on the perfective stem, with IV clas
 
 ## Glossing abbreviations
 
-A — animate gender, aka class III; ABL — ablative case; AD — adlocative case; ADEL — adelative case; ADV — adverbial ending ; AOR — aorist tense; APUD — apudlocative case; ATTR — attributive ending; COM — comitative case; COMPAR — comparative case; CONT — contlocative case ; CONTEL — contelative case; COP — copula; DAT — dative case; DIR — directive case; ERG — ergative case; HPL — human plural; IN — inlocative case; INDEF — indefinite; IPF — imperfective aspect; M — human masculine; MSD — masdar; N — neuter gender, aka class IV; NEG — negation; NOM — nominative case; OBL — oblique nominal stem extension; PF — perfective aspect; PL — plural; PN — person name; PROX — proximate demonstrative; PTCP — participle; REFL — reflexive; SEQ — sequential or ‘perfective converb’; SIMUL — simultaneous or ‘imperfective converb’; SUPER — superlocative case; SUPEREL — superelative case.
+A — animate gender, aka class III; ABL — ablative case; AD — adlocative case; ADV — adverbial ending ; AOR — aorist tense; APUD — apudlocative case; ATTR — attributive ending; COM — comitative case; CONT — contlocative case ; CONTEL — contelative case; COP — copula; DAT — dative case; DIR — directive case; ERG — ergative case; HPL — human plural; IN — inlocative case; INDEF — indefinite; IPF — imperfective aspect; M — human masculine; MSD — masdar; N — neuter gender, aka class IV; NEG — negation; NOM — nominative case; OBL — oblique nominal stem extension; PF — perfective aspect; PL — plural; PN — person name; PROX — proximate demonstrative; PTCP — participle; REFL — reflexive; SEQ — sequential or ‘perfective converb’; SUPER — superlocative case; SUPEREL — superelative case.
+
+dist — ; 
+el — ; 
+f — ; 
+np — ; 
+predic — ; 
+prs — ; 
+pst — ; 
+re — ;
