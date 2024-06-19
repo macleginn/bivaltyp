@@ -16,3 +16,30 @@ The data were collected in 2023 using the Russian version of the questionnaire. 
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Grammar notes
+
+### Basic clause structure and the transitive construction
+
+Case marking displays the ergative-nominative alignment. In the basic transitive construction, the A-argument is in the ergative, and the P-argument, in the (unmarked) nominative. The ergative form of nouns coincides with the oblique stem in the plural only; it is usually unmarked on proper and some higher animate nouns like ‘father’ and ‘mother’.
+
+The verb takes gender-number prefixes agreeing with the S/P argument in the nominative. These gender-number agreement prefixes can be word-initial but are more often found after deictic preverbs, as well as after the negation prefix in some forms. Non-core arguments are flagged by oblique case markers or, rarely, by postpositions (in combination with the genitive case).
+
+### Case system
+
+Shinaz Rutul is undederdescribed. Probably, there is a total of 15 case forms, but in this questionnaire, only 12 cases are used, of which 5 are abstract cases and 7 are spatial cases. 
+
+The 5 abstract cases used are nominative, ergative, dative, attributive, and comitative (= instrumental). 
+5 locative cases merge essive and lative orientations: IN ‘inside’, SUPER ‘on’, AD ‘at, beside’, CONT ‘in contact with’ and APUD ‘at, behind’. Two further cases have the meaning of the elative orientation, namely EL ‘(outside) from’ and CONTEL ‘from in contact with’. According to (Ibragimova 2019), a thirteenth case (APUDEL) is also found in Shinaz Rutul.
+
+Example (12) in the dataset beloww shows a nominative unmarked form used to denote the goal of motion. 
+
+Ibragimova, M. O. 2019. Kategorija padezha i morfologija sklonenija v rutul'skom jazyke: dialektnaja stratifikacija. Makhachkala: IJaLI DNC RAN, ALEF, 222 pp.
+
+## Verb lemmas
+
+Verbs are cited by their masdar form, based on the perfective stem, with IV class agreement.
+
+## Glossing abbreviations
+
+A — animate gender, aka class III; AD — adlocative case; ADV — adverbial ending ; AOR — aorist tense; APUD — apudlocative case; ATTR — attributive ending; COM — comitative case; CONT — contlocative case ; CONTEL — contelative case; COP — copula; DAT — dative case; EL — ablative case; ERG — ergative case; HPL — human plural; IN — inlocative case; INDEF — indefinite; IPF — imperfective aspect; M — human masculine; MSD — masdar; N — neuter gender, aka class IV; NEG — negation; NOM — nominative case; OBL — oblique nominal stem extension; PF — perfective aspect; PL — plural; PN — person name; PROX — proximate demonstrative; PTCP — participle; REFL — reflexive; SEQ — sequential or ‘perfective converb’; SIMUL — simultaneous or ‘imperfective converb’; SUPER — superlocative case.
