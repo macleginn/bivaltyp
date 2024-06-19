@@ -50,7 +50,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 117	Rutul_Shinaz	49	wash	X (wash) Y	мыть	X (мыть) Y	temiz hɨʔɨ-n	ERG	NOM	TR	TR		basir temiz hɨʔɨ-r čaška	PN(ERG) clean N.do.PF-AOR cup	‘Basir washed the cup.’			CV
 117	Rutul_Shinaz	50	put_on	X (put_on) Y	надевать	X (надевать) Y	u lɨʔɨ-n	ERG	NOM	TR	TR		basir u lavʔɨ-r badu	PN(ERG) on A.put_on.PF-AOR trousers(A)	‘Basir put on his trousers.’			CV
 117	Rutul_Shinaz	51	be_called	X (be_called) Y	называться	X (называться) Y	dur xu-n	ATTR	NOM(NO.AGR)	XY	ATTR_NOM(NO.AGR)	Non-verbal predicate.	hemi-d kar-di-d dur h-iʔi kompas	this-ATTR thing-OBL-ATTR name N-COP compass	‘This thing is called a compass.’			
-117	Rutul_Shinaz	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	džaza vɨ-n	ERG	DAT	Y	ERG_DAT		basir džaza vɨ-r džu-du duχar-ɨs	PN(ERG) punishment give.PF-AOR refl.OBL-ATTR son.OBL-DAT	‘Basir punished his son.’			CV
+117	Rutul_Shinaz	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	džaza vɨ-n	ERG	DAT	Y	ERG_DAT		basir džaza vɨ-r džu-du duχar-ɨs	PN(ERG) punishment give.PF-AOR REFL.OBL-ATTR son.OBL-DAT	‘Basir punished his son.’			CV
 117	Rutul_Shinaz	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	hajvɨ-n	ERG	APUD	Y	ERG_APUD		sirɨ-r hajvɨ-r baluʁči-ja-χda	bear.OBL-ERG attack.PF-AOR fisherman-OBL-APUD	‘A bear attacked a fisherman.’			
 117	Rutul_Shinaz	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	lac'ɨ-n	NOM	ERG	Y	NOM_ERG		vedre lac'ɨ-rɨ xij-re	bucket (N)fill.PF-PERF water.OBL-ERG	‘The bucket filled with water.’			
 117	Rutul_Shinaz	55	find	X (find) Y	находить	X (находить) Y(-а)	aqhakɨ-n	ERG	NOM	TR	TR		basir haqhagu-r gülej-mar	PN(ERG) (N)find.PF-AOR key-PL.NOM	‘Basir found his keys.’			
