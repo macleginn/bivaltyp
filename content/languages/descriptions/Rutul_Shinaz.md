@@ -27,7 +27,7 @@ The verb takes gender-number prefixes agreeing with the S/P argument in the nomi
 
 ### Case system
 
-Shinaz Rutul is undederdescribed. Probably, there is a total of 15 case forms (see Ibragimova 2019: 202-203), whereas the Standard Rutul based on the Mukhad dialect, has 17 distinct case forms. However, in the Shinaz Rutul dataset below only 12 cases are used, of which 5 are abstract cases and 7 are spatial cases. 
+Shinaz Rutul is underdescribed. Probably, there is a total of 15 case forms (see Ibragimova 2019: 202-203), whereas the Standard Rutul based on the Mukhad dialect, has 17 distinct case forms. However, in the Shinaz Rutul dataset below only 12 cases are used, of which 5 are abstract cases and 7 are spatial cases. 
 
 The 5 abstract cases used are nominative, ergative, dative, attributive, and comitative (= instrumental). 
 5 locative cases merge essive and lative orientations: IN ‘inside’, SUPER ‘on’, AD ‘at, beside’, CONT ‘in contact with’ and APUD ‘at, behind’. Two further cases attested in the dataset have the meaning of the elative orientation, namely EL ‘(outside) from’ and CONTEL ‘from in contact with’.
