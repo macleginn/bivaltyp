@@ -135,6 +135,7 @@ Daria Ryzhova: {{ language:Khanty_Kazym }}
 Sergey Say: {{ language:Russian }}, {{ language:Kalmyk }}, {{ language:Bashkir }}, {{ language:Assyrian_Neo_Aramaic }}  
 Ekaterina Sergeeva: {{ language:Komi_Zyrian }}  
 Ekaterina Sergeeva, Galina Nekrasova: {{ language:Komi_Permyak }}  
+Ugur Sermiyana: {{ language:Zazaki }}  
 Ksenia Shagal: {{ language:Erzya }}, {{ language:Finnish }}, {{ language:Udmurt }}  
 Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman: {{ language:Swedish }}  
 Mayya Shlyakhter: {{ language:Bengali }}  
