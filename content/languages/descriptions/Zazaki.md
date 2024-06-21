@@ -2,6 +2,8 @@
 
 Contributed by Ugur Sermiyan.
 
+![U.S.'s photo]({{ site_url_j }}/images/Sermiyan.jpg "U.S.'s photo")
+
 The variety represented in the dataset below comes from the Dêrsim region in Turkey. This is the Northern variety of Zazaki, which corresponds to the Tunceli dialect of Kirmanjki (glottocode kirm1248) in Glottolog. The specific location is Hozat (in Turkish) or Xozat (in Zazaki/Kurdish). The English version of the questionnaire was used for elicitation. Ugur Sermiyan provided the data in his capacity of a native speaker.
 
 ## How to cite
