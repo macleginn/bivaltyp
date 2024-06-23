@@ -42,26 +42,36 @@ Independent pronouns are used relatively rarely and are included here primarily 
 Similarly to most modern Indo-Iranian languages (Holmberg 2004), Sorani Kurdish displays a split-ergative alignment conditioned by tense. In particular, the present tense constructions exhibit accusative alignment, in which the verb agrees in number and person with the subject (S/A) via verbal agreement markers suffixed on the verb stem. The use of verbal agreement markers is obligatory regardless whether the verb is intransitive (1) or transitive (2, 3) and also whether the subject is (2) or is not (3) expressed by a full noun phrase (or an independent pronoun).
 
 (1) minał-k-an de-r̂o-n bo xiwêndinge
+
 children-DEF-PL IND-go.PRS-3PL for school
+
 ‘The children are going to school.’
 
 (2) min perdax-ek-an de-ʂikên-im
+
 I glass-DEF-PL IND-break.PRS-1SG
+
 I break the glasses. 
 
 (3) perdax-ek-an de-ʂikên-im
+
 glass-DEF-PL IND-break.PRS-1SG
+
 I break the glasses.
 
 Overt objects are not indexed on the verb (3). However, pronominal clitics are used for objects that are not expressed by a full noun phrase or an independent pronouns (4). The placement of pronominal clitics follows complicated rules but they are not necesarilly attached to the verb.
 
 (4) de=yan-ʂikên-im
+
 IND=3PL.PC-break.PRS-1SG
+
 I break them.
 
 Past tense constructions display the ergative alignment. In intransitive constructions, subjects (S) are indexed on the verb by verbal agreement markers (5).
 
 (5) ke ême r̂oîşt-în, êwe geîşt-in
+
 when we leave.PST-1PL you arrive.PST-2PL
+
 ‘When we left you arrived.’
 
