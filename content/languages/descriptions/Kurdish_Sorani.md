@@ -75,3 +75,25 @@ when we leave.PST-1PL you arrive.PST-2PL
 
 ‘When we left you arrived.’
 
+In transitive constructions subjects (As) are indexed by pronominal clitics regardless of whether they also are (6) or are not (7) expressed by full noun phrases (or independent pronouns). Again, the placement of pronominal clitics follows complicated rules but they are not necesarilly attached to the verb (7) and (8).
+
+(7) min perdax-ek-an=m ʂikand-∅
+
+I glass-DEF-PL=1SG.PC break.PST-3SG
+
+I broke the glasses.
+
+(8) perdax-ek-an=m ʂikand-∅
+
+glass-DEF-PL=1SG.PC break.PST-3SG
+
+I broke the glasses.
+
+Finally, direct objects (Os) expressed by overt noun phrases are not indexed on the verb; this can also be interpreted as the use of the default 3SG agreement markers, see (7) and (8). However, non-lexical objects are expressed by verbal agreement markers (9). Overall, the argument indexing in the past tense transitive constructions is the mirror image of the argument indexing in the present tense.
+
+(9) ʂikand=im-in
+break.PST=1SG.PC-3PL
+I broke them.
+
+Apart from indexing O-arguments in the present tense and A-arguments in the past tense, pronominal clitics signal possessors with noun phrases, as in (10).
+
