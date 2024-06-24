@@ -28,9 +28,9 @@ Case marking displays the ergative-nominative alignment. In the basic transitive
 
 There are 15 cases: 6 abstract cases and 9 spatial cases.
 
-The abstract cases are nominative, ergative, dative, genitive (this case is signalled two attributive endings agreeing with the gender/number or obliqueness of the head and glossed as "ATTR" below), comitative (= instrumental), and comparative.
+The six abstract cases are nominative, ergative, dative, genitive (this case is signalled by one of the two attributive endings agreeing that agree with the head noun in gender/number and obliqueness; such markers are glossed as "ATTR" below), comitative (= instrumental), and comparative.
 
-Second, there are 9 spatial cases. The system of spatial cases is not transparently layered, but usual Lezgic labels still apply: there are 5 ‘locatives’ merging essive and lative orientations (IN ‘inside’, SUPER ‘on’, AD ‘at, beside’, CONT ‘in contact with’ and APUD ‘at, behind’), three ‘elatives’, (ABL ‘(outside) from’, SUPEREL ‘from on’, CONTEL ‘from in contact with’) and one ‘directive’ DIR.
+The system of spatial cases is not transparently layered, but the usual Lezgic labels still apply: there are 5 ‘locatives’ combining essive and lative orientations (IN ‘inside’, SUPER ‘on’, AD ‘at, beside’, CONT ‘in contact with’ and APUD ‘at, behind’), three ‘elatives’, (ABL ‘outside from’, SUPEREL ‘from on’, CONTEL ‘from in contact with’) and one ‘directive’ (DIR).
 
 ## Verb lemmas
 
