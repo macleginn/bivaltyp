@@ -32,7 +32,7 @@ Shinaz Rutul is underdescribed. Probably, there is a total of 15 case forms (see
 The 5 abstract cases used are nominative, ergative, dative, attributive, and comitative (= instrumental). 
 5 locative cases merge essive and lative orientations: IN ‘inside’, SUPER ‘on’, AD ‘at, beside’, CONT ‘in contact with’ and APUD ‘at, behind’. Two further cases attested in the dataset have the meaning of the elative orientation, namely EL ‘(outside) from’ and CONTEL ‘from in contact with’.
 
-Example (12) in the dataset beloww shows a nominative unmarked form used to denote the goal of motion. 
+Example (12) in the dataset below shows a nominative unmarked form used to denote the goal of motion. 
 
 Ibragimova, M. O. 2019. Kategorija padezha i morfologija sklonenija v rutul'skom jazyke: dialektnaja stratifikacija. Makhachkala: IJaLI DNC RAN, ALEF, 222 pp.
 
