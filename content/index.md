@@ -23,6 +23,18 @@ Please address inquiries about the data or the project at large to Sergey Say (<
 
 Some sections of the web-site rely on modern JavaScript capabilities and will not work correctly in older browsers.
 
+## Acknowledgements
+
+We would like to acknowledge the support of the following organisations:
+
+<a href="https://iling.spb.ru/departements/typology/about.html.ru">
+<img src="{{ site_url_j }}/images/LTIJa.png" alt="Лаборатория типологического изучения языков">
+</a>
+
+<a href="https://www.uni-potsdam.de/de/slavische-linguistik/posla-typology-lab">
+<img src="{{ site_url_j }}/images/PoSlaTypologyLab.png", alt="PoSla Typology Lab">
+</a>
+
 <div id="landing-footer" style="position: fixed; right: 0; bottom: 0; padding-left: 25px; padding-right: 25px; background-color: cornsilk; opacity: 70%; border-radius: 1px;"><pre>The web-site built by <a href="https://dnikolaev.com">Dmitry Nikolaev</a>.</pre></div>
 
 <script>
