@@ -126,14 +126,17 @@ const patternsData = [
     "Turkish",
     "Turoyo",
     "Tuvinian",
+    "Twi",
     "Udi",
     "Udihe",
     "Udmurt",
     "Ukrainian",
     "Ulcha",
     "Uzbek",
+    "Wolof",
     "Yakut",
-    "Yukaghir_Northern"
+    "Yukaghir_Northern",
+    "Zazaki"
   ],
   [
     1,
@@ -262,13 +265,16 @@ const patternsData = [
     "GEN_NOM",
     "",
     "GEN_NOM",
+    "",
     "GEN_ABS",
     "POSS_NOM",
     "GEN_NOM",
     "uGEN_NOM",
     "DAT_NOM",
     "GEN_NOM",
+    "",
     "POSS_NOM",
+    "",
     ""
   ],
   [
@@ -398,14 +404,17 @@ const patternsData = [
     "GEN_NOM",
     "SBJ.SS_b",
     "",
+    "TR",
     "ABS_ABS(NO.AGR)",
     "NOM_INS",
     "NOM_INS",
     "NOM_naACC",
     "NOM_INS",
     "NOM_bilan",
+    "DO_SBJ",
     "NOM_INS",
-    ""
+    "",
+    "TR"
   ],
   [
     3,
@@ -534,14 +543,17 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_m",
     "NOM_ABL",
+    "TR",
     "ERG_ABL",
     "NOM_INS",
     "NOM_ABL",
     "NOM_GEN",
     "NOM_INS",
     "TR",
+    "TR",
     "NOM_ABL",
-    "TR"
+    "TR",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     4,
@@ -605,6 +617,9 @@ const patternsData = [
     "TR",
     "TR",
     "NOM_DAT",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -806,14 +821,17 @@ const patternsData = [
     "DAT_NOM",
     "IO_SBJ",
     "GEN_NOM",
+    "",
     "GEN_ABS",
     "NOM_INS",
     "GEN_NOM",
     "DAT_GEN",
     "DAT_NOM",
     "GEN_NOM",
+    "DO_SBJ",
     "DAT_NOM",
-    ""
+    "",
+    "re.PSTP_SBJ.INTR"
   ],
   [
     6,
@@ -942,14 +960,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_IO",
     "NOM_COM",
+    "TR",
     "ABS_DAT",
     "NOM_DIR",
     "NOM_DAT",
     "NOM_naACC",
     "NOM_CMPR",
     "NOM_DAT",
+    "SBJ_ni",
     "NOM_DAT",
-    "NOM_langudeng"
+    "NOM_langudeng",
+    "SBJ.INTR_ro.PREP"
   ],
   [
     7,
@@ -1078,14 +1099,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_m",
     "NOM_DAT",
+    "TR",
     "ABS_DAT",
     "TR",
     "NOM_DAT",
     "NOM_DAT",
     "NOM_LAT",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "TR"
+    "TR",
+    "SBJ.TR_ra.PSTP"
   ],
   [
     8,
@@ -1093,6 +1117,9 @@ const patternsData = [
     "X (take) Y",
     "взять",
     "X (брать) Y(-а)",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -1357,6 +1384,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -1487,12 +1517,15 @@ const patternsData = [
     "SBJ_7al",
     "NOM_DAT",
     "TR",
+    "TR",
     "",
     "NOM_NOMvyle",
     "NOM_naACC",
     "",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
+    "",
     ""
   ],
   [
@@ -1622,13 +1655,16 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_b",
     "NOM_COM",
+    "TR",
     "ABS_ABL",
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
     "TR",
     "TR",
+    "SBJ_ak",
     "TR",
+    "",
     ""
   ],
   [
@@ -1758,14 +1794,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_IO",
     "NOM_ALL1",
+    "SBJ_mu",
     "ABS_DAT",
     "NOM_DIR",
     "NOM_ILL",
     "NOM_doGEN",
     "NOM_dooLAT",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
-    "NOM_LOC"
+    "NOM_LOC",
+    "SBJ.INTR_zere.PREP"
   ],
   [
     13,
@@ -1894,6 +1933,7 @@ const patternsData = [
     "NOM_DAT",
     "TR",
     "TR",
+    "SBJ_so",
     "TR",
     "TR",
     "TR",
@@ -1901,7 +1941,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    ""
   ],
   [
     14,
@@ -2030,14 +2072,17 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_m",
     "NOM_ABL",
+    "SBJ_mu",
     "ABS_ABL",
     "NOM_ABL",
     "NOM_ELA",
     "NOM_zGEN",
     "NOM_INS",
     "NOM_ABL",
+    "TR",
     "NOM_ABL",
-    "NOM_ABL"
+    "NOM_ABL",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     15,
@@ -2137,6 +2182,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -2309,6 +2357,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -2438,14 +2489,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_IO",
     "NOM_DAT",
+    "TR",
     "ERG_DAT",
     "NOM_DIR",
     "NOM_DAT",
     "NOM_DAT",
     "NOM_LAT",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    "SBJ.TR_re.PSTP"
   ],
   [
     18,
@@ -2574,7 +2628,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
     "GEN_ABS",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -2710,6 +2767,7 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_IO",
     "NOM_DAT",
+    "TR",
     "ABL_DAT",
     "TR",
     "TR",
@@ -2717,7 +2775,9 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "SBJ.INTR_GOAL"
   ],
   [
     20,
@@ -2846,6 +2906,7 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "",
     "TR",
     "TR",
     "TR",
@@ -2853,7 +2914,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    ""
+    "TR",
+    "",
+    "TR"
   ],
   [
     21,
@@ -2982,14 +3045,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_IO",
     "NOM_ALL1",
+    "SBJ_so",
     "ABL_DAT",
     "NOM_LOC",
     "NOM_TERM",
     "NOM_GEN",
     "NOM_LAT",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
-    "NOM_LOC"
+    "NOM_LOC",
+    "SBJ.INTR_GOAL"
   ],
   [
     22,
@@ -3118,6 +3184,7 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_b",
     "NOM_LOC",
+    "SBJ_mu",
     "TR",
     "NOM_LOC",
     "NOM_NOMbordy",
@@ -3125,7 +3192,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "SBJ.INTR_ro.PSTP"
   ],
   [
     23,
@@ -3254,14 +3323,17 @@ const patternsData = [
     "NOM_COM",
     "SBJ_7am",
     "NOM_COM",
+    "",
     "ERG_ABL",
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
     "NOM_INS",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_COM",
-    "NOM_COM"
+    "NOM_COM",
+    "SBJ.INTR_de.PSTP"
   ],
   [
     24,
@@ -3390,14 +3462,17 @@ const patternsData = [
     "NOM_COM",
     "",
     "NOM_COM",
+    "",
     "ERG_ABL",
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
     "NOM_INS",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_COM",
-    "TR"
+    "TR",
+    "SBJ.INTR_de.PSTP"
   ],
   [
     25,
@@ -3526,14 +3601,17 @@ const patternsData = [
     "TR",
     "SBJ_b",
     "NOM_GENdugajynda",
+    "SBJ_ho",
     "ERG_ABL",
     "TR",
     "NOM_NOMsjarys",
     "NOM_proACC",
     "TR",
     "NOM_haqida",
+    "TR",
     "NOM_tuhunan ",
-    ""
+    "",
+    "SBJ.INTR_sero.PSTP"
   ],
   [
     26,
@@ -3555,6 +3633,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -3805,6 +3886,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -3934,6 +4018,7 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
     "ERG_GEN",
     "TR",
     "TR",
@@ -3941,7 +4026,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "SBJ.INTR_sero.PSTP"
   ],
   [
     29,
@@ -4072,11 +4159,14 @@ const patternsData = [
     "NOM_GENdugajynda",
     "TR",
     "TR",
+    "TR",
     "NOM_NOMsjarys",
     "NOM_proACC",
     "TR",
     "TR",
+    "TR",
     "NOM_tuhunan ",
+    "TR",
     "TR"
   ],
   [
@@ -4206,13 +4296,16 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_7am",
     "NOM_ABL",
+    "SBJ_so",
     "ABS_ABL",
     "",
     "NOM_ABL",
     "NOM_vidGEN",
     "",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_ABL",
+    "",
     ""
   ],
   [
@@ -4349,7 +4442,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "TR",
+    "SBJ.TR_ra.PREP"
   ],
   [
     32,
@@ -4478,14 +4574,17 @@ const patternsData = [
     "NOM_COM",
     "SBJ.SS_DO.LS",
     "NOM_COM",
+    "TR",
     "ABS_ABL",
     "",
     "NOM_INS",
     "NOM_zINS",
     "",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_COM",
-    "NOM_COM"
+    "NOM_COM",
+    "TR"
   ],
   [
     33,
@@ -4613,6 +4712,9 @@ const patternsData = [
     "AFF_NOM",
     "TR",
     "SBJ.SS_DO.LS",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -4751,13 +4853,16 @@ const patternsData = [
     "SBJ_7al",
     "NOM_LOC",
     "TR",
+    "TR",
     "NOM_INS",
     "NOM_INS",
     "NOM_naLOC",
     "NOM_INS",
     "NOM_LOC",
+    "TR",
     "NOM_DAT",
-    "NOM_INS"
+    "NOM_INS",
+    "TR"
   ],
   [
     35,
@@ -4886,6 +4991,7 @@ const patternsData = [
     "NOM_ABL",
     "SBJ_m",
     "NOM_ABL",
+    "TR",
     "ABS_ABL",
     "NOM_ABL",
     "NOM_ABL",
@@ -4893,7 +4999,9 @@ const patternsData = [
     "NOM_INS",
     "NOM_ABL",
     "TR",
-    "NOM_ABL"
+    "TR",
+    "NOM_ABL",
+    "SBJ.TR_ra.PSTP"
   ],
   [
     36,
@@ -4957,6 +5065,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -5158,6 +5269,7 @@ const patternsData = [
     "NOM_COM",
     "SBJ.SS_7al",
     "TR",
+    "SBJ_ho",
     "ERG_DAT",
     "TR",
     "",
@@ -5165,7 +5277,9 @@ const patternsData = [
     "TR",
     "NOM_ACCustidan",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "SBJ.TR_pe.PREP"
   ],
   [
     38,
@@ -5294,13 +5408,16 @@ const patternsData = [
     "GEN_NOM",
     "OBJAGR_BARE",
     "LOC_NOM",
+    "TR",
     "GEN_ABS",
     "NOM_ORN",
     "GEN_NOM",
     "uGEN_NOM",
     "DAT_NOM",
     "GEN_NOM",
+    "TR",
     "NOM_ADJ",
+    "",
     ""
   ],
   [
@@ -5437,7 +5554,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "TR",
+    "SBJ.INTR_ro.PREP"
   ],
   [
     40,
@@ -5565,6 +5685,9 @@ const patternsData = [
     "ERG_DAT",
     "TR",
     "SBJ_b",
+    "TR",
+    "SBJ_ho",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -5709,6 +5832,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -5838,14 +5964,17 @@ const patternsData = [
     "TR",
     "TR",
     "NOM_NOM(NO.AGR)",
+    "TR",
     "ABS_CAR",
     "",
     "NOM_ABE",
     "TR",
     "NOM_CARIT",
     "NOM_CAR",
+    "TR",
     "",
-    "NOM_NEG"
+    "NOM_NEG",
+    ""
   ],
   [
     43,
@@ -5978,9 +6107,12 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR",
     "",
+    "TR",
+    "TR",
+    "",
+    "TR",
     "TR"
   ],
   [
@@ -6014,6 +6146,9 @@ const patternsData = [
     "TR",
     "TR",
     "SUB_ba",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -6247,13 +6382,16 @@ const patternsData = [
     "",
     "NOM_DAT",
     "TR",
+    "TR",
     "",
     "",
     "NOM_DAT",
     "",
     "TR",
+    "TR",
     "NOM_DAT",
-    ""
+    "",
+    "TR"
   ],
   [
     46,
@@ -6389,7 +6527,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "TR",
+    "SBJ.TR_ra.PSTP"
   ],
   [
     47,
@@ -6518,13 +6659,16 @@ const patternsData = [
     "TR",
     "TR",
     "NOM_COM",
+    "TR",
     "ERG_ERG",
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
     "NOM_bilan",
+    "TR",
     "NOM_INS",
+    "TR",
     "TR"
   ],
   [
@@ -6654,14 +6798,17 @@ const patternsData = [
     "",
     "SBJ_m",
     "NOM_GENdugajynda",
+    "SBJ_ho",
     "",
     "",
     "NOM_NOMsjarys",
     "NOM_proACC",
     "TR",
     "TR",
+    "TR",
     "",
-    ""
+    "",
+    "TR"
   ],
   [
     49,
@@ -6721,6 +6868,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -6933,6 +7083,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -6950,7 +7103,7 @@ const patternsData = [
     "NOM_NOM(NO.AGR)",
     "SUP.LAT_NOM",
     "NOM_NOM(NO.AGR)",
-    "",
+    "BARE_PRED",
     "LOC_NOM(NO.AGR)",
     "NOM_NOM(NO.AGR)",
     "DO_COMP",
@@ -7037,7 +7190,7 @@ const patternsData = [
     "NOM_BARE",
     "NOM_NOM(NO.AGR)",
     "NOM_NOM(NO.AGR)",
-    "TR",
+    "SBJ_BARE",
     "NOM_NOM(NO.AGR)",
     "NOM_NOM(NO.AGR)",
     "NOM_INS",
@@ -7062,14 +7215,17 @@ const patternsData = [
     "GEN_PRED",
     "IO_DO",
     "ACC_NOM(NO.AGR)",
+    "DO_PSEUDOOBJ",
     "GEN_ABS",
     "",
     "NOM_NOM(NO.AGR)",
     "NOM_NOM(NO.AGR)",
     "",
     "NOM_deb",
+    "OBJ_PSEUDOOBJ",
     "NOM_NOM(NO.AGR)",
-    "ACC_NOM"
+    "ACC_NOM",
+    "re.PSTP_BARE"
   ],
   [
     52,
@@ -7199,13 +7355,16 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "TR",
-    "",
-    "TR",
     "TR",
     "",
     "TR",
     "TR",
-    "TR"
+    "",
+    "TR",
+    "TR",
+    "TR",
+    "TR",
+    "SBJ.TR_GOAL"
   ],
   [
     53,
@@ -7334,14 +7493,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_7al",
     "NOM_ALL1",
+    "SBJ_so",
     "ERG_GENloxol",
     "NOM_DIR",
     "NOM_NOMvyle",
     "NOM_naACC",
     "NOM_LAT",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "TR"
+    "TR",
+    ""
   ],
   [
     54,
@@ -7470,14 +7632,17 @@ const patternsData = [
     "NOM_COM",
     "SBJ.SS_BARE",
     "NOM_COM",
+    "mu_SBJ",
     "ABS_ERG",
     "ACC_NOM",
     "NOM_INS",
     "NOM_INS",
     "",
     "NOM_DAT",
+    "SBJ_ak",
     "NOM_INS",
-    "NOM_INS"
+    "NOM_INS",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     55,
@@ -7603,6 +7768,9 @@ const patternsData = [
     "TR",
     "DAT_NOM",
     "ADLAT_NOM",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -7742,14 +7910,17 @@ const patternsData = [
     "GEN_NOM",
     "OBJAGR_BARE",
     "DAT_NOM(NO.AGR)",
+    "TR",
     "GEN_ABS",
     "DAT_NOM",
     "GEN_NOM",
     "DAT_GEN",
     "DAT_DAT",
     "DAT_NOM",
+    "TR",
     "DAT_NOM",
-    "DAT_NOM"
+    "DAT_NOM",
+    ""
   ],
   [
     57,
@@ -7880,12 +8051,15 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
     "GEN_ACC",
     "TR",
     "TR",
     "NOM_ABL",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    ""
   ],
   [
     58,
@@ -8014,14 +8188,17 @@ const patternsData = [
     "TR",
     "TR",
     "DAT_NOM",
+    "TR",
     "GEN_ABS",
     "TR",
     "DAT_NOM",
     "DAT_NOM",
     "TR",
     "DAT_NOM",
+    "DO_SBJ",
     "TR",
-    "TR"
+    "TR",
+    "SBJ.TR_ra.PSTP"
   ],
   [
     59,
@@ -8150,13 +8327,16 @@ const patternsData = [
     "GEN_DAT",
     "SBJ_IO",
     "DAT_NOM",
+    "TR",
     "DAT_ABS",
     "NOM_INS",
     "DAT_NOM",
     "DAT_NOM",
     "DAT_ACC",
     "DAT_NOM",
+    "TR",
     "NOM_DAT",
+    "",
     ""
   ],
   [
@@ -8286,6 +8466,7 @@ const patternsData = [
     "TR",
     "SBJ_heder",
     "TR",
+    "SBJ_hyia",
     "TR",
     "",
     "TR",
@@ -8293,7 +8474,9 @@ const patternsData = [
     "dooLOC_NOM",
     "TR",
     "TR",
-    "NOM_pomniir"
+    "TR",
+    "NOM_pomniir",
+    "ra.PSTP_SBJ.INTR"
   ],
   [
     61,
@@ -8422,14 +8605,17 @@ const patternsData = [
     "GEN_NOM",
     "OBJAGR_BARE",
     "LOC_NOM",
+    "",
     "AD_ABS",
     "DAT_NOM",
     "GEN_NOM",
     "uGEN_NOM",
     "DAT_NOM",
     "LOC_NOM",
+    "TR",
     "DAT_NOM",
-    "LOC_NOM"
+    "LOC_NOM",
+    ""
   ],
   [
     62,
@@ -8533,7 +8719,7 @@ const patternsData = [
     "NOM_DAT",
     "NOM_DAT",
     "NOM_DAT",
-    "SBJ_a",
+    "SBJ_NDIR.OBJ",
     "",
     "NOM_DAT",
     "NOM_DAT",
@@ -8558,14 +8744,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_IO",
     "NOM_ALL1",
+    "TR",
     "ERG_GEN",
     "NOM_DIR",
     "NOM_DAT",
     "NOM_DAT",
     "NOM_LAT",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    ""
   ],
   [
     63,
@@ -8626,6 +8815,9 @@ const patternsData = [
     "TR",
     "",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -8830,14 +9022,17 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_IO",
     "NOM_ABL",
+    "SBJ_ho",
     "ABS_SUPERlari",
     "NOM_ABL",
     "NOM_ABL",
     "NOM_vidGEN",
     "NOM_INS",
     "NOM_ABL",
+    "SBJ_ak",
     "NOM_ABL",
-    "NOM_ABL"
+    "NOM_ABL",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     65,
@@ -8966,14 +9161,17 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_beter.m",
     "NOM_ABL",
+    "SBJ_akyi",
     "ABS_ABL",
     "NOM_ABL",
     "NOM_ABL",
     "NOM_vidGEN",
     "",
     "NOM_ABL",
+    "",
     "NOM_ABL",
-    "NOM_ABL"
+    "NOM_ABL",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     66,
@@ -9087,6 +9285,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -9238,13 +9439,16 @@ const patternsData = [
     "NOM_ABL",
     "",
     "NOM_COM",
+    "SBJ_tese",
     "ABL_ERG",
     "",
     "NOM_NOM(NO.AGR)",
     "NOM_INS",
     "NOM_INS",
     "",
+    "TR",
     "NOM_NOM(NO.AGR)",
+    "",
     ""
   ],
   [
@@ -9374,6 +9578,7 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_7al",
     "TR",
+    "TR",
     "ABS_ABL",
     "TR",
     "NOM_NOMvamen",
@@ -9381,7 +9586,9 @@ const patternsData = [
     "TR",
     "NOM_ABL",
     "TR",
-    "NOM_ACCsajde"
+    "TR",
+    "NOM_ACCsajde",
+    "SBJ.INTR_bover.PREP"
   ],
   [
     69,
@@ -9517,6 +9724,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -9525,6 +9735,9 @@ const patternsData = [
     "X (write) Y",
     "писать",
     "X (писать) Y",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -9789,6 +10002,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -9889,6 +10105,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -10054,14 +10273,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_7al",
     "NOM_DAT",
+    "",
     "ABS_DAT",
     "NOM_DIR",
     "NOM_DAT",
     "NOM_doGEN",
     "NOM_LAT",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    "SBJ.INTR_ro.PREP"
   ],
   [
     74,
@@ -10190,14 +10412,17 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_m",
     "TR",
+    "TR",
     "ABS_ABL",
     "TR",
     "NOM_ELA",
     "TR",
     "NOM_INS",
     "TR",
+    "TR",
     "NOM_ABL",
-    "NOM_ABL"
+    "NOM_ABL",
+    "TR"
   ],
   [
     75,
@@ -10321,6 +10546,9 @@ const patternsData = [
     "TR",
     "TR",
     "ACT_LOC",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -10462,6 +10690,7 @@ const patternsData = [
     "TR",
     "BARE_SBJ.SS",
     "TR",
+    "TR",
     "GEN_ABS",
     "TR",
     "TR",
@@ -10469,7 +10698,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "ra.PREP_SBJ.INTR"
   ],
   [
     77,
@@ -10598,14 +10829,17 @@ const patternsData = [
     "NOM_DAT",
     "TR",
     "NOM_DAT",
+    "TR",
     "ERG_DAT",
     "TR",
     "NOM_DAT",
     "NOM_DAT",
     "TR",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    "SBJ.TR_de.PSTP"
   ],
   [
     78,
@@ -10736,7 +10970,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
     "NOM_NOMsjamen",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -10871,13 +11108,16 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "TR",
+    "TR",
     "NOM_DAT",
     "NOM_ILL",
     "NOM_vACC",
     "TR",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
-    "NOM_LOC"
+    "NOM_LOC",
+    "SBJ.TR_ro.PSTP"
   ],
   [
     80,
@@ -11007,13 +11247,16 @@ const patternsData = [
     "SBJ_b",
     "NOM_COM",
     "",
+    "",
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_INS",
-    "NOM_INS"
+    "NOM_INS",
+    "SBJ.TR_pe.PREP"
   ],
   [
     81,
@@ -11142,14 +11385,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_b",
     "NOM_ALL1",
+    "SBJ_so",
     "ABS_DAT",
     "NOM_LOC",
     "NOM_NOMbordy",
     "NOM_doGEN",
     "NOM_ban",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
-    "NOM_LOC"
+    "NOM_LOC",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     82,
@@ -11278,14 +11524,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_7am",
     "NOM_DAT",
+    "SBJ_wo",
     "ERG_DAT",
     "",
     "NOM_DAT",
     "NOM_DAT",
     "",
     "NOM_DAT",
+    "SBJ_ak",
     "NOM_DAT",
-    "NOM_ABL"
+    "NOM_ABL",
+    "SBJ.TR_vera.PSTP.de.PSTP"
   ],
   [
     83,
@@ -11416,12 +11665,15 @@ const patternsData = [
     "NOM_DAT",
     "",
     "",
+    "",
     "NOM_DAT",
     "NOM_DAT",
     "",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    "SBJ.INTR_pe.PREP"
   ],
   [
     84,
@@ -11550,14 +11802,17 @@ const patternsData = [
     "NOM_COM",
     "SBJ.SS_7am",
     "NOM_COM",
+    "",
     "ERG_ABL",
     "NOM_DIR",
     "NOM_INS",
     "NOM_zINS",
     "NOM_INS",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_COM",
-    "NOM_COM"
+    "NOM_COM",
+    "SBJ.TR_de.PSTP"
   ],
   [
     85,
@@ -11693,7 +11948,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "TR",
+    ""
   ],
   [
     86,
@@ -11820,6 +12078,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "SBJ_mu",
     "TR",
     "TR",
     "TR",
@@ -11958,14 +12219,17 @@ const patternsData = [
     "TR",
     "SBJ_7al",
     "TR",
+    "SBJ_so",
     "ABS_GEN",
     "",
     "NOM_INS",
     "NOM_INS",
     "TR",
     "NOM_bilan",
+    "TR",
     "NOM_INS",
-    ""
+    "",
+    "TR"
   ],
   [
     88,
@@ -12094,6 +12358,7 @@ const patternsData = [
     "TR",
     "",
     "TR",
+    "TR",
     "ERG_BEN",
     "",
     "NOM_ABL",
@@ -12101,7 +12366,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    ""
   ],
   [
     89,
@@ -12230,6 +12497,7 @@ const patternsData = [
     "NOM_GENpesinden",
     "SBJ_beter",
     "NOM_GENsoonda",
+    "SBJ_akyi",
     "ABS_GENbacanexun",
     "",
     "NOM_NOMsory",
@@ -12237,7 +12505,9 @@ const patternsData = [
     "NOM_xamiPROL",
     "NOM_DAT",
     "TR",
-    "NOM_lajaat"
+    "TR",
+    "NOM_lajaat",
+    "TR"
   ],
   [
     90,
@@ -12366,14 +12636,17 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_m.7al",
     "NOM_ABL",
+    "SBJ_so",
     "ABS_ABL",
     "NOM_ABL",
     "NOM_NOMvylys",
     "NOM_zGEN",
     "NOM_INS",
     "NOM_ABL",
+    "TR",
     "NOM_ABL",
-    "NOM_ABL"
+    "NOM_ABL",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     91,
@@ -12509,7 +12782,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "TR",
+    "SBJ.TR_ser.PSTP"
   ],
   [
     92,
@@ -12638,12 +12914,15 @@ const patternsData = [
     "",
     "SBJ.SS_IO",
     "TR",
+    "TR",
     "",
     "",
     "NOM_ABL",
     "TR",
     "",
     "TR",
+    "TR",
+    "",
     "",
     ""
   ],
@@ -12781,6 +13060,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -12910,14 +13192,17 @@ const patternsData = [
     "NOM_COM",
     "SBJ.SS_b",
     "NOM_COM",
+    "TR",
     "ABS_DAT",
     "NOM_INS",
     "NOM_INS",
     "NOM_zINS",
     "NOM_INS",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_kytta",
-    "NOM_COM"
+    "NOM_COM",
+    "SBJ.INTR_bi.PREP.ra.PSTP"
   ],
   [
     95,
@@ -13046,6 +13331,7 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_7al",
     "NOM_ALL1",
+    "TR",
     "ERG_GENloxol",
     "NOM_DIR",
     "NOM_NOMshory",
@@ -13053,7 +13339,9 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "SBJ.TR_de.PSTP"
   ],
   [
     96,
@@ -13153,6 +13441,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -13318,12 +13609,15 @@ const patternsData = [
     "TR",
     "SBJ_m",
     "DAT_NOM",
+    "SBJ_ho",
     "TR",
     "TR",
     "TR",
     "DAT_NOM",
     "TR",
     "GEN_NOM",
+    "TR",
+    "TR",
     "TR",
     "TR"
   ],
@@ -13454,14 +13748,17 @@ const patternsData = [
     "NOM_DAT",
     "",
     "NOM_COM",
+    "",
     "ABS_ABL",
     "",
     "NOM_INS",
     "NOM_zINS",
     "NOM_INS",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_COM",
-    "NOM_DAT"
+    "NOM_DAT",
+    "TR"
   ],
   [
     99,
@@ -13590,14 +13887,17 @@ const patternsData = [
     "NOM_COM",
     "SBJ_7am",
     "NOM_COM",
+    "",
     "ERG_ABL",
     "",
     "NOM_INS",
     "NOM_zINS",
     "NOM_INS",
     "NOM_bilan",
+    "SBJ_ak",
     "NOM_COM",
-    ""
+    "",
+    "SBJ.TR_de.PSTP"
   ],
   [
     100,
@@ -13726,14 +14026,17 @@ const patternsData = [
     "TR",
     "",
     "NOM_NOM(NO.AGR)",
+    "",
     "GEN_ABS",
     "NOM_NOM(NO.AGR)",
     "NOM_NOM(NO.AGR)",
     "TR",
     "NOM_DAT",
     "TR",
+    "TR",
     "",
-    ""
+    "",
+    "TR"
   ],
   [
     101,
@@ -13864,12 +14167,15 @@ const patternsData = [
     "NOM_ALL1",
     "TR",
     "TR",
+    "TR",
     "NOM_NOMshory",
     "NOM_vACC",
     "TR",
     "TR",
     "TR",
-    "NOM_langudeng"
+    "TR",
+    "NOM_langudeng",
+    "SBJ.TR_ra.PSTP"
   ],
   [
     102,
@@ -13990,6 +14296,9 @@ const patternsData = [
     "TR",
     "TR",
     "ERG_ALL.INESS",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -14141,6 +14450,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -14270,14 +14582,17 @@ const patternsData = [
     "NOM_LOC",
     "SBJ.SS_b",
     "NOM_ALL1",
+    "SBJ_mu",
     "ABS_DAT",
     "NOM_LOC",
     "NOM_ILL",
     "NOM_vLOC",
     "",
     "NOM_LOC",
+    "SBJ_ci",
     "NOM_DAT",
-    "NOM_LOC"
+    "NOM_LOC",
+    "SBJ.INTR_bine.PREP"
   ],
   [
     105,
@@ -14337,6 +14652,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -14549,6 +14867,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -14685,6 +15006,9 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
+    "TR",
     "TR"
   ],
   [
@@ -14746,6 +15070,9 @@ const patternsData = [
     "TR",
     "TR",
     "",
+    "TR",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -14953,8 +15280,11 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
     "NOM_INS",
     "NOM_INS",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR"
@@ -15090,10 +15420,13 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
     "",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "SBJ.TR_re.PSTP"
   ],
   [
     111,
@@ -15222,14 +15555,17 @@ const patternsData = [
     "NOM_ABL",
     "BARE_m",
     "NOM_ABL",
+    "",
     "ERG_ABL",
     "",
     "NOM_ABL",
     "NOM_INS",
     "TR",
     "NOM_DAT",
+    "DO_SBJ",
     "NOM_ABL",
-    "TR"
+    "TR",
+    "SBJ.INTR_sero.PSTP"
   ],
   [
     112,
@@ -15358,14 +15694,17 @@ const patternsData = [
     "NOM_ABL",
     "SBJ_m",
     "NOM_DAT",
+    "SBJ_ho",
     "ABS_ABL",
     "NOM_INS",
     "NOM_INS",
     "NOM_INS",
     "",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_INS",
-    "NOM_ABL"
+    "NOM_ABL",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     113,
@@ -15496,12 +15835,15 @@ const patternsData = [
     "NOM_DAT",
     "TR",
     "TR",
+    "TR",
     "NOM_DAT",
     "NOM_vACC",
     "TR",
     "TR",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    ""
   ],
   [
     114,
@@ -15630,14 +15972,17 @@ const patternsData = [
     "NOM_DAT",
     "OBJAGR_b",
     "NOM_DAT",
+    "SBJ_mu",
     "TR",
     "",
     "NOM_DAT",
     "NOM_DAT",
     "NOM_LAT",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "TR"
+    "TR",
+    ""
   ],
   [
     115,
@@ -15766,6 +16111,7 @@ const patternsData = [
     "NOM_DAT",
     "BARE_7al",
     "TR",
+    "SBJ_ma",
     "TR",
     "TR",
     "TR",
@@ -15773,7 +16119,9 @@ const patternsData = [
     "TR",
     "NOM_DAT",
     "TR",
-    "TR"
+    "TR",
+    "TR",
+    "SBJ.INTR_ver.PSTP"
   ],
   [
     116,
@@ -15902,14 +16250,17 @@ const patternsData = [
     "TR",
     "SBJ_m",
     "NOM_DAT",
+    "TR",
     "ERG_BEN",
     "",
     "NOM_DAT",
     "NOM_DAT",
     "TR",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "TR"
+    "TR",
+    ""
   ],
   [
     117,
@@ -16038,14 +16389,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_m",
     "NOM_ALL1",
+    "TR",
     "ABS_GENloxol",
     "NOM_DIR",
     "GEN_DAT",
     "NOM_naACC",
     "NOM_ban",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     118,
@@ -16174,14 +16528,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_m",
     "TR",
+    "ho_wo",
     "ABS_ABL",
     "TR",
     "NOM_DAT",
     "NOM_INS",
     "TR",
     "NOM_DAT",
+    "SBJ_ci",
     "NOM_DAT",
-    "TR"
+    "TR",
+    "SBJ.INTR_ver.PSTP"
   ],
   [
     119,
@@ -16316,8 +16673,11 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
+    "TR",
     "",
-    "TR"
+    "TR",
+    "SBJ.TR_ra.PSTP"
   ],
   [
     120,
@@ -16448,11 +16808,14 @@ const patternsData = [
     "TR",
     "",
     "",
+    "",
     "NOM_ABL",
     "NOM_INS",
     "",
     "NOM_DAT",
+    "TR",
     "NOM_INS",
+    "",
     ""
   ],
   [
@@ -16584,12 +16947,15 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
-    "",
     "TR",
     "",
     "TR",
+    "",
     "TR",
-    ""
+    "TR",
+    "TR",
+    "",
+    "TR"
   ],
   [
     122,
@@ -16718,14 +17084,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_m",
     "NOM_ALL1",
+    "SBJ_ho",
     "GEN_GENloxol",
     "NOM_DIR",
     "GEN_DAT",
     "NOM_naACC",
     "NOM_ban",
     "NOM_DAT",
+    "TR",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     123,
@@ -16854,14 +17223,17 @@ const patternsData = [
     "NOM_DAT",
     "SBJ.SS_m",
     "NOM_DAT",
+    "",
     "ABS_ABL",
     "NOM_DIR",
     "NOM_NOMvyle",
     "NOM_naACC",
     "NOM_LAT",
     "NOM_DAT",
+    "TR",
     "NOM_ABL",
-    "NOM_ABL"
+    "NOM_ABL",
+    "SBJ.INTR_ra.PSTP"
   ],
   [
     124,
@@ -16994,7 +17366,10 @@ const patternsData = [
     "TR",
     "TR",
     "TR",
+    "TR",
     "",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR"
@@ -17128,12 +17503,15 @@ const patternsData = [
     "TR",
     "",
     "",
+    "",
     "NOM_DAT",
     "",
     "",
     "NOM_DAT",
+    "SBJ_ci",
     "TR",
-    "TR"
+    "TR",
+    "SBJ.INTR_ver.PSTP"
   ],
   [
     126,
@@ -17262,8 +17640,11 @@ const patternsData = [
     "NOM_DAT",
     "SBJ_IO",
     "TR",
+    "TR",
     "",
     "",
+    "TR",
+    "TR",
     "TR",
     "TR",
     "TR",
@@ -17398,14 +17779,17 @@ const patternsData = [
     "NOM_GENuzunden",
     "BARE_m",
     "NOM_GENdeesh",
+    "",
     "ABS_GENderden",
     "",
     "NOM_INSseren",
     "NOM_cerezACC",
     "",
     "NOM_deb",
+    "SBJ_ndax",
     "NOM_syltaan",
-    ""
+    "",
+    "SBJ.INTR_ver.PSTP"
   ],
   [
     128,
@@ -17534,14 +17918,17 @@ const patternsData = [
     "NOM_DAT",
     "DO_SBJ",
     "NOM_ABL",
+    "SBJ_ho",
     "ABS_GENloxol",
     "",
     "NOM_NOMvyle",
     "NOM_naACC",
     "",
     "NOM_DAT",
+    "SBJ_ndax",
     "NOM_DAT",
-    "NOM_DAT"
+    "NOM_DAT",
+    "SBJ.INTR_de.PSTP"
   ],
   [
     129,
@@ -17670,6 +18057,7 @@ const patternsData = [
     "NOM_DAT",
     "TR",
     "TR",
+    "",
     "GEN_ABS",
     "",
     "",
@@ -17677,7 +18065,9 @@ const patternsData = [
     "",
     "DAT_NOM",
     "TR",
-    "NOM_DAT"
+    "TR",
+    "NOM_DAT",
+    "SBJ.INTR_sero.PSTP"
   ],
   [
     130,
@@ -17806,13 +18196,16 @@ const patternsData = [
     "NOM_ABL",
     "SBJ.SS_b",
     "NOM_ABL",
+    "SBJ_ho",
     "ERG_ABL",
     "",
     "NOM_ABL",
     "NOM_GEN",
     "NOM_INS",
     "NOM_ABL",
+    "SBJ_ci",
     "NOM_ABL",
-    "TR"
+    "TR",
+    "SBJ.INTR_ra.PSTP"
   ]
 ];
