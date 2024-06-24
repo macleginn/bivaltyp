@@ -39,7 +39,7 @@ Table 1. Person forms in Sorani Kurdish
 
 Independent pronouns are used relatively rarely and are included here primarily for illustrative purposes. The main distinction is between the two series of forms conventionally labeled 'pronominal clitics' and 'verb agreement markers.' Note that the three series of pronominal forms are glossed differently to facilitate navigation through the dataset below.
 
-Similarly to most modern Indo-Iranian languages (Holmberg 2004), Sorani Kurdish displays a split-ergative alignment conditioned by tense. In particular, the present tense constructions exhibit accusative alignment, in which the verb agrees in number and person with the subject (S/A) via verbal agreement markers suffixed on the verb stem. The use of verbal agreement markers is obligatory regardless whether the verb is intransitive (1) or transitive (2, 3) and also whether the subject is (2) or is not (3) expressed by a full noun phrase (or an independent pronoun).
+Like most modern Indo-Iranian languages, Sorani Kurdish exhibits a split-ergative alignment conditioned by tense. In present tense constructions, Sorani Kurdish displays an accusative alignment, where the verb agrees in number and person with the subject (S/A) using verb agreement markers suffixed to the verb stem. These verb agreement markers are obligatory, whether the verb is intransitive (1) or transitive (2, 3), and whether the subject is expressed by a full noun phrase or an independent pronoun (2) or not (3).
 
 ```
 
@@ -57,89 +57,96 @@ Similarly to most modern Indo-Iranian languages (Holmberg 2004), Sorani Kurdish 
 
 ```
 
-Overt objects are not indexed on the verb (3). However, pronominal clitics are used for objects that are not expressed by a full noun phrase or an independent pronouns (4). The placement of pronominal clitics follows complicated rules but they are not necesarilly attached to the verb.
+Overt objects are not indexed on the verb (3). However, pronominal clitics are used for objects that are not expressed by a full noun phrase or an independent pronoun (4). The placement of pronominal clitics follows complicated rules and, importantly, they do not necessarily follow the verb.
 
-(4) de=yan-ʂikên-im
+```
 
-IND=3PL.PC-break.PRS-1SG
+(4)  de=yan-ʂikên-im
+     IND=3PL.PC-break.PRS-1SG
+     'I break them.'
 
-I break them.
+```
 
-Past tense constructions display the ergative alignment. In intransitive constructions, subjects (S) are indexed on the verb by verbal agreement markers (5).
+Past tense constructions display ergative alignment. Similar to present tense constructions, intransitive subjects (S) are indexed on the verb by verb agreement markers (5). In transitive constructions, subjects (A) are indexed by pronominal clitics, whether or not they are expressed by full noun phrases or independent pronouns (6, 7). The placement of pronominal clitics follows the same rules as in present tense constructions, meaning they are not necessarily attached to the verb (6, 7).
 
-(5) ke ême r̂oîşt-în, êwe geîşt-in
+```
 
-when we leave.PST-1PL you arrive.PST-2PL
+(5)  ke    ême  r̂oîşt-în,      êwe  geîşt-in
+     when  we   leave.PST-1PL  you  arrive.PST-2PL
+     ‘When we left you arrived.’
 
-‘When we left you arrived.’
+(6)  min  perdax-ek-an=m       ʂikand-∅
+     I    glass-DEF-PL=1SG.PC  break.PST-3SG
+     'I broke the glasses.'
 
-In transitive constructions subjects (As) are indexed by pronominal clitics regardless of whether they also are (6) or are not (7) expressed by full noun phrases (or independent pronouns). Again, the placement of pronominal clitics follows complicated rules but they are not necesarilly attached to the verb (7) and (8).
+(7)  perdax-ek-an=m       ʂikand-∅
+     glass-DEF-PL=1SG.PC  break.PST-3SG
+     'I broke the glasses.'
 
-(7) min perdax-ek-an=m ʂikand-∅
+```
 
-I glass-DEF-PL=1SG.PC break.PST-3SG
+Finally, direct objects (O) expressed by overt noun phrases are not indexed on the verb. This can be interpreted as the use of default 3SG agreement markers (see 6 and 7). However, non-lexical objects are expressed by verb agreement markers (8). Overall, argument indexing in transitive constructions in the past tense mirrors that of the present tense.
 
-I broke the glasses.
+```
 
-(8) perdax-ek-an=m ʂikand-∅
+(8)  ʂikand=im-in
+     break.PST=1SG.PC-3PL
+     'I broke them.'
 
-glass-DEF-PL=1SG.PC break.PST-3SG
+```
 
-I broke the glasses.
+Apart from indexing O-arguments in the present tense and A-arguments in the past tense, pronominal clitics signal possessors within noun phrases (9).
 
-Finally, direct objects (Os) expressed by overt noun phrases are not indexed on the verb; this can also be interpreted as the use of the default 3SG agreement markers, see (7) and (8). However, non-lexical objects are expressed by verbal agreement markers (9). Overall, the argument indexing in the past tense transitive constructions is the mirror image of the argument indexing in the present tense.
+```
 
-(9) ʂikand=im-in
+(9)  kiras-eke=m       pîs-e
+     shirt-DEF=1SG.PC  dirty-be.PRS.3SG
+     'My shirt is dirty.'
 
-break.PST=1SG.PC-3PL
+```
 
-I broke them.
+Possessive noun phrases can also be formed using the izafe construction, where the possessee precedes the possessor and is marked by the izafe suffix '-î,' which is used regardless of the possessor's person and number (see 10 and 11).
 
-Apart from indexing O-arguments in the present tense and A-arguments in the past tense, pronominal clitics signal possessors within noun phrases, as in (10).
+```
 
-(10) kiras-eke=m pîs-e
+(10)  ser-î     Hîwa 
+      head-IZF  PN 
+      'Hiwa's head'
 
-shirt-DEF=1SG.PC dirty-be.PRS.3SG
+(11)  ser-î     min
+      head-IZF  PN
+      'My head'.
 
-My shirt is dirty.
+```
 
-Finally, possessive noun phrases are normally built using the izafe construction, in which the possessee precedes the possessor is marked by the izafe "-î" suffix that is used independently of the possessor's person and number, cf. (11) and (12). 
+As follows from the discussion above, the distribution of pronominal forms can be used to identify basic valency patterns in Sorani Kurdish. In the dataset below, 'SBJ' (subject) labels A/S arguments, which are defined as arguments indexed by verb agreement markers in the present tense. 'DO' (direct object) labels O arguments, which are defined as arguments that can be indexed by verb agreement markers in the past tense but not in the present tense.
 
-(11) ser-î Hîwa 
+Most non-core arguments, i.e., arguments not labeled as 'SBJ' or 'DO' in the dataset below, are flagged by various adpositions. However, there is a notable exception exemplified in (12).
 
-head-IZF PN 
+```
 
-'Hiwa's head'
+(12)  Hîwa  ewr̂o   laq-ek-an=î         d-êʂ-in
+      PN    today  foot-DEF-PL=3SG.PC  IND-hurt.PRS-3PL
+      'Hiwa's feet ache today'.
 
-(12) ser-î min
+```
 
-head-IZF PN
-
-'My head'.
-
-As follows from the discussion above, the distribution of pronominal forms can be used for the identification of basic valency patterns in Sorani Kurdish. In the dataset below, "SBJ" (subject) is used as a label for A/S arguments defined as the arguments that are indexed by verbal agreement markers in the present tense. The label DO (direct object) is the label used for O arguments defined as arguments that can be indexed by verbal agreement markers in the past tense but not in the present tense. 
-
-Most non-core arguments, i.e. arguments are neither labelled as "SBJ" or "DO" in the dataset below, are flagged by various adpositions. However, there is also a class of arguments that was labelled "EXT" (external). An example of a construction involving such an argument in given in (13).
-
-(13) Hîwa ewr̂o laq-ek-an=î d-êʂ-in.
-PN today foot-DEF-PL=3SG.PC IND-hurt.PRS-3PL
-'Hiwa's feet ache today'.
-
-Here, the verb agrees with the body part ('feet'), which is encoded as a canonical subject (SBJ). However, the possessor is not encoded as a canonical phrase-internal dependent, as evidenced by clause-initial position and the lack of the izafe marker, cf. (11) above. Moreover, the use of the clause-level adverb *ewr̂o* 'today' shows that the possessor is not part of the noun phrase headed by the possessee. In short, the possessor/experiencer is extraposed, so that the literal rendition of (13) would be something like 'Hiwa, his feet ache today'. It is precisely for arguments of this kind that the label "EXT" is used in the dataset below.
+Here, the verb agrees with the body part ('feet'), which is encoded as a canonical subject (SBJ). However, the person name is not encoded as a canonical phrase-internal possessor, as evidenced by its clause-initial position and the lack of the izafe marker. Moreover, the use of the clause-level adverb *ewr̂o* 'today' indicates that the person name is not part of the noun phrase headed by the name of the body part. In short, the person name is extraposed, so the literal rendition of (13) would be something like 'Hiwa, his feet ache today.' In the dataset below, noun phrases with the syntactic properties of the person name in (12) are considered non-core arguments and are labeled 'EXT' (external).
 
 ### Case system
 
-Case does not play a significant role in the grammar of Sorani Kurdish. In some contexts, non-subjects (e.g. objects within prepositional phrases) are marked with the residual case marker *-î* (glossed as "OBL" in the dataset below), as in (14).
+Case does not play a significant role in the grammar of Sorani Kurdish. In some contexts, non-subjects (e.g. objects within prepositional phrases) are marked with the only residual case marker *-î* (glossed as "OBL" in the dataset below), as in (13).
 
-(14) Hîwa le Selîm-î de-ç-ê
-PN from PN-OBL IND-go.PRS-3SG
-‘Hiwa believes Selim.’
+```
+
+(13)  Hîwa  bawer̂   be  Selîm-î  de-k-a
+      PN    belief  to  PN-OBL   IND-do.PRS-3SG
+      ‘Hiwa believes Selim.’
+
+```
 
 ## Verb lemmas
 
 Verbs are cited in their infinitive form.
 
-## Glossing abbreviations.
-
-
-
+## Glossing abbreviations
