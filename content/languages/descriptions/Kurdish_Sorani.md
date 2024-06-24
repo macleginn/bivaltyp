@@ -43,23 +43,17 @@ Similarly to most modern Indo-Iranian languages (Holmberg 2004), Sorani Kurdish 
 
 ```
 
-(1) minał-k-an de-r̂o-n bo xiwêndinge
+(1)  minał-k-an       de-r̂o-n         bo   xiwêndinge
+     children-DEF-PL  IND-go.PRS-3PL  for  school
+     ‘The children are going to school.’
 
-children-DEF-PL IND-go.PRS-3PL for school
+(2)  min  perdax-ek-an  de-ʂikên-im
+     I    glass-DEF-PL  IND-break.PRS-1SG
+     'I break the glasses.' 
 
-‘The children are going to school.’
-
-(2) min perdax-ek-an de-ʂikên-im
-
-I glass-DEF-PL IND-break.PRS-1SG
-
-I break the glasses. 
-
-(3) perdax-ek-an de-ʂikên-im
-
-glass-DEF-PL IND-break.PRS-1SG
-
-I break the glasses.
+(3)  perdax-ek-an  de-ʂikên-im
+     glass-DEF-PL  IND-break.PRS-1SG
+     'I break the glasses.'
 
 ```
 
