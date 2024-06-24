@@ -150,3 +150,5 @@ Case does not play a significant role in the grammar of Sorani Kurdish. In some 
 Verbs are cited in their infinitive form.
 
 ## Glossing abbreviations
+
+ASP — aspect; DEF — definite; DEM — demonstrative; EXIST — existential copula; IMP — imperative; IND — indicative; INDF — indefinite; IZF — izafe ; LOC — locative; NEG — negative; OBL — oblique; PC — pronominal clitic; PFV — perfective; PL — plural; PN — person name; PREV — preverb; PRS — present tense; PST — past tense; PTCP — participle; SG — singular. 
