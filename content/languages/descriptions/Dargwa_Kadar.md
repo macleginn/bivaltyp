@@ -17,3 +17,7 @@ The data were gathered in {{ data_collection_year }}. The Russian version of the
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+AD — ???; ADD — ???; ADJ — adjectivizer; ADV — adverbializer; ATR — attributive; AWAY — ???; CARD — cardinal numeral; CAUS — causative; COMP — comparative; COP — copula; cvb — coverb; DAT — dative; DOWN — ???; EL — elative; ERG — ergative; exst — existential copula; GEN — genitive; HITHER — ???; HPL — human plural; IMP — imperative; IN — ???; INF — infinitive; IPFV — ; LV — ; M — masculine; N — neuter; NEG — negation; NPL — ???; OBL — ???; ON — ???; OUTSIDE — ???; PART — ???; PFV — perfective; PL — plural; PN — person name; POT — ???; PRET — preterite; PRS — present; RUS — Russian loan; SUPER — ???; TH — ???.
