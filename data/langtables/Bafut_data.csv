@@ -55,7 +55,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	lúú	SBJ	ni	Y	SBJ_ni		àntɔ̀ɔ̀ wá ì lúú nᵼ̀ ŋ̀kxì	pot DEF SM be_full with water	‘The pot filled with1 water.’			
 128	Bafut	55	find	X (find) Y	находить	X (находить) Y(-а)	jə́	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ jə́ bɨ̀-kwáʔà bàʔà dʒí	PN SM P2 see PL-opener door his	‘Ambe found his keys.’			Same as 9 and 11.
 128	Bafut	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	kə̀ʔə̂	SBJ	ni	Y	SBJ_ni		àmbɛ́ à kə̀ʔə̂-tɨ̀ nɨ̀ ǹtʃwùʔù	PN SM be_small-IPFV with1 one_thousand	‘Ambe is one thousand francs short.’			
-128	Bafut	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	bǎ	*	*	*	TR		àmbɛ́ à bǎ sùù	PN SM hate PN	‘Ambe hates Suh.’			Alternative is NEG + kɔ̀ŋə̂ "kàâ àmbɛ́ sᵼ̀ kɔ̀ŋə̂ sùù" [NEG PN NEG like PN] with the same TR pattern.
+128	Bafut	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	bǎ	SBJ	DO	TR	TR		àmbɛ́ à bǎ sùù	PN SM hate PN	‘Ambe hates Suh.’			Alternative is NEG + kɔ̀ŋə̂ "kàâ àmbɛ́ sᵼ̀ kɔ̀ŋə̂ sùù" [NEG PN NEG like PN] with the same TR pattern.
 128	Bafut	58	like	X (like) Y	нравиться	X-у (нравиться) Y	kɔ̀ŋə̂	SBJ	DO	TR	TR		àmbɛ́ à kɔ̀ŋə̂ tsə̀ʔə̀ jú	PN SM like dress this	‘Ambe likes this shirt.’			Same as 46 and 119.
 128	Bafut	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	lɔ̀ɔ̀	SBJ	DO	TR	TR		àmbɛ́ à lɔ̀ɔ̀-nɨ̀ ŋkábɨ̀	PN SM need-IPFV money	‘Ambe needs money.’			Same as 39 and 121.
 128	Bafut	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	kárə̀	SBJ	DO	TR	TR		bɨ̀-wùgə̀-ndâ kárə̀-sᵼ̀ mûmə̀láʔà	PL-wall-house surround-IPFV village_center	‘Walls surround the village center.’			
