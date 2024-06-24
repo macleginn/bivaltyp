@@ -25,17 +25,91 @@ Due to the limited case distinctions in Sorani Kurdish (see below), the primary 
 
 Table 1. Person forms in Sorani Kurdish
 
-<div class="before-table"></div>
-
-|     | independent pronoun | gloss | pronominal clitics | gloss    | verb agreement markers   |          | gloss |
-| --- | ------------------- | ----- | ------------------ | -------- | ------------------------- | ------------- | -- | 
-|     |                     |       |                    |          | set I (Present)           | set II (Past) |  |
-| 1SG | \*min\*             | I     | \*=im\*            | \=1SG.PC | \*-(i)m\*                 | \*-(i)m\*     | 1SG |
-| 2SG | \*to\*              | you   | \*=(i)t\*          | \=2SG.PC | \*-î(t)/ (Imp) -∅ / -e\* | \*-î(t)\*    | 2SG |
-| 3SG | \*ew\*              | s/he  | \*=î\*            | \=3SG.PC | \*-a(t) / -ê(t) / -Ø\*    | \*-∅\*        | 3SG |
-| 1PL | \*ême\*            | we    | \*=man\*           | \=1PL.PC | \*-în\*                  | \*-în\*      | 1PL |
-| 2PL | \*êwe\*            | you   | \*=tan\*           | \=2PL.PC | \*-(i)n\*                 | \*-(i)n\*     | 2PL |
-| 3PL | \*ewan\*            | they  | \*=yan\*           | \=3PL.PC | \*-(i)n\*                 | \*-(i)n\*     | 3PL |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;<br></th>
+    <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Independent&nbsp;&nbsp;&nbsp;Pronoun&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br>gloss&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Pronominal&nbsp;&nbsp;&nbsp;Clitics&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br>gloss&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-lboi" colspan="2">&nbsp;&nbsp;&nbsp;<br>Verbal&nbsp;&nbsp;&nbsp;Agreement Marker&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br>gloss&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <th class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>set&nbsp;&nbsp;&nbsp;I (Present)&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>set&nbsp;&nbsp;&nbsp;II (Past)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>1SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>min&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>I&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=im&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.1SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)m&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)m&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>1SG&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>2SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>to&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>you&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=(i)t&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.2SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-î(t)/&nbsp;&nbsp;&nbsp;(Imp) -∅ / -e&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-î(t)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>2SG&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>3SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>ew&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>s/he&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=î&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.3SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-a(t)&nbsp;&nbsp;&nbsp;/ -ê(t) / -Ø&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-∅&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>3SG&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>1PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>ême&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>we&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=man&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.1PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-în&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-în&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>1PL&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>2PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>êwe&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>you&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=tan&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.2PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>2PL&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>3PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>ewan&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>they&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=yan&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.3PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>3PL&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
 
 Independent pronouns are used relatively rarely and are included here primarily for illustrative purposes. The main distinction is between the two series of forms conventionally labeled 'pronominal clitics' and 'verb agreement markers.' Note that the three series of pronominal forms are glossed differently to facilitate navigation through the dataset below.
 
