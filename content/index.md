@@ -27,13 +27,14 @@ Some sections of the web-site rely on modern JavaScript capabilities and will no
 
 We would like to acknowledge the support of the following organisations:
 
+<div>
 <a href="https://iling.spb.ru/departements/typology/about.html.ru">
-<img src="{{ site_url_j }}/images/LTIJa.png" alt="Лаборатория типологического изучения языков">
-</a>
-
+<img src="{{ site_url_j }}/images/LTIJa.png" alt="Лаборатория типологического изучения языков" style="width: 120px; height: auto;">
+</a>&nbsp;
 <a href="https://www.uni-potsdam.de/de/slavische-linguistik/posla-typology-lab">
-<img src="{{ site_url_j }}/images/PoSlaTypologyLab.png", alt="PoSla Typology Lab">
+<img src="{{ site_url_j }}/images/PoSlaTypologyLab.png", alt="PoSla Typology Lab" style="width: auto; height: 120px;">
 </a>
+</div>
 
 <div id="landing-footer" style="position: fixed; right: 0; bottom: 0; padding-left: 25px; padding-right: 25px; background-color: cornsilk; opacity: 70%; border-radius: 1px;"><pre>The web-site built by <a href="https://dnikolaev.com">Dmitry Nikolaev</a>.</pre></div>
 
