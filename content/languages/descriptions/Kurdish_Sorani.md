@@ -27,9 +27,9 @@ Table 1. Person forms in Sorani Kurdish
 
 <div class="before-table"></div>
 
-|     | independent pronoun | gloss | pronominal clitics | gloss    | verb agreement marker   |          | gloss |
-| --- | ------------------- | ----- | ------------------ | -------- | ------------------------- | ------------- | -- | 
+|     | independent pronoun | gloss | pronominal clitics | gloss    | verb agreement markers   |          | gloss |
 |     |                     |       |                    |          | set I (Present)           | set II (Past) |  |
+| --- | ------------------- | ----- | ------------------ | -------- | ------------------------- | ------------- | -- | 
 | 1SG | \*min\*             | I     | \*=im\*            | \=1SG.PC | \*-(i)m\*                 | \*-(i)m\*     | 1SG |
 | 2SG | \*to\*              | you   | \*=(i)t\*          | \=2SG.PC | \*-î(t)/ (Imp) -∅ / -e\* | \*-î(t)\*    | 2SG |
 | 3SG | \*ew\*              | s/he  | \*=î\*            | \=3SG.PC | \*-a(t) / -ê(t) / -Ø\*    | \*-∅\*        | 3SG |
