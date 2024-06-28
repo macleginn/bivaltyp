@@ -179,7 +179,7 @@ Apart from indexing O-arguments in the present tense and A-arguments in the past
 
 ```
 
-Possessive noun phrases can also be formed using the izafe construction, where the possessee precedes the possessor and is marked by the izafe suffix '-î,' which is used regardless of the possessor's person and number (see 10 and 11).
+Possessive noun phrases can also be formed using the izafe construction, where the possessee precedes the possessor and is marked by the izafe suffix *-î*, which is used regardless of the possessor's person and number (see 10 and 11).
 
 ```
 
