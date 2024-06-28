@@ -20,7 +20,7 @@ The data were gathered in 2023-2024 with the collaboration of Alain Christian Ba
 ## Grammar notes
 
 ### Basic clause structure and the transitive construction
-In Wolof, the basic constituent order in verbal clauses is S V (O) (X) (S = subject, V = verb, O = object, X = oblique). However, when an object or an oblique is focalized (which requires the use of special verb forms, see below), it moves to clause-initial position. Neither subjects nor objects are flagged, whereas obliques are standardly introduced by prepositions.
+In Wolof, the basic constituent order in verbal clauses is S V (O) (X) (S = subject, V = verb, O = object, X = oblique). However, when an object or an oblique is focalized (which requires the use of special verb forms, see below), it moves to the clause-initial position. Neither subjects nor objects are flagged, whereas obliques are standardly introduced by prepositions.
 
 The manifestations of the grammatical relation subject (which encompasses the sole argument of semantically monovalent verbs and the agent of prototypical transitive verbs) are the pre-verbal position of the subject NP and the obligatory indexation of the subject on the verb by means of person-number markers. Wolof has several sets of subject indexes depending on the TAM-polarity-focus value expressed by the verb, and some tenses are characterized by portmanteau markers resulting from the fusion of the subject index and another inflectional marker. The subject NP is syntactically optional.
 
