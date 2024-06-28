@@ -9,7 +9,7 @@ The English version of the questionnaire was used for elicitation. The identific
 > Klimenko, Sergei (2019). Criteria for establishing the inventory of semantic participants and voices in Tagalog. *Studies in language* 43(1). 1-43.
 
 ## How to cite
-> Garcia, Rowena & Rhenee Espayos. 2020. Bivalent patterns in {{ language_external }}. 
+> Garcia, Rowena & Rhenee Espayos. 2023. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
