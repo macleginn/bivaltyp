@@ -205,7 +205,7 @@ Most non-core arguments, i.e., arguments not labeled as 'SBJ' or 'DO' in the dat
 
 ```
 
-Here, the verb agrees with the body part ('feet'), which is encoded as a canonical subject (SBJ). However, the person name is not encoded as a canonical phrase-internal possessor, as evidenced by its clause-initial position and the lack of the izafe marker. Moreover, the use of the clause-level adverb *ewr̂o* 'today' indicates that the person name is not part of the noun phrase headed by the name of the body part. In short, the person name is extraposed, so the literal rendition of (13) would be something like 'Hiwa, his feet ache today.' In the dataset below, noun phrases with the syntactic properties of the person name in (12) are considered non-core arguments and are labeled 'EXT' (external).
+Here, the verb agrees with the body part ('feet'), which is encoded as a canonical subject (SBJ). However, the person name is not encoded as a canonical phrase-internal possessor, as evidenced by its clause-initial position and the lack of the izafe marker. Moreover, the use of the clause-level adverb *ewr̂o* 'today' indicates that the person name is not part of the noun phrase headed by the name of the body part. In short, the person name is extraposed, so the literal rendition of (12) would be something like 'Hiwa, his feet ache today.' In the dataset below, noun phrases with the syntactic properties of the person name in (12) are considered non-core arguments and are labeled 'EXT' (external).
 
 ### Case system
 
