@@ -37,11 +37,11 @@ Table 1. Person forms in Sorani Kurdish
 <table class="tg"><thead>
   <tr>
     <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;<br></th>
-    <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Independent&nbsp;&nbsp;&nbsp;Pronoun&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Independent&nbsp;&nbsp;&nbsp;pronoun&nbsp;&nbsp;&nbsp;</th>
     <th class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br>gloss&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Pronominal&nbsp;&nbsp;&nbsp;Clitics&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-lboi" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Pronominal&nbsp;&nbsp;&nbsp;clitics&nbsp;&nbsp;&nbsp;</th>
     <th class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br>gloss&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-lboi" colspan="2">&nbsp;&nbsp;&nbsp;<br>Verbal&nbsp;&nbsp;&nbsp;Agreement Marker&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-lboi" colspan="2">&nbsp;&nbsp;&nbsp;<br>Verb&nbsp;&nbsp;&nbsp;agreement marker&nbsp;&nbsp;&nbsp;</th>
     <th class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br>gloss&nbsp;&nbsp;&nbsp;</th>
   </tr>
   <tr>
