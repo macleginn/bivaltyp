@@ -81,6 +81,7 @@ Varvara Diveeva: {{ language:Albanian }}
 Sergey Dmitrenko: {{ language:Khmer }}  
 Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
 Martin Gális, Kirill Kozhanov: {{ language:Slovak }}  
+Rowena Garcia, Rhenee Espayos: {{ language:Tagalog }}  
 Dmitry Ganenkov:  {{ language:Chirag }}  
 Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}  
 Wakweya Gobena:  {{ language:Oromo_West_Central }}  
