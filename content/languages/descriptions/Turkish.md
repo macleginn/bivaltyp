@@ -50,7 +50,7 @@ The genitive case can mark clause-level constituents standing in a possessive re
 The verbal tense forms in the examples are glossed as present (marked with *-yor*), past (*-dı*) or aorist (*-r*). The tense form traditionally called aorist is used to describe habitual events, permanent states and (some) future events.
 
 ## Case system
-The case system includes five cases for nouns, viz. the unmarked nominative, genitive, accusative, dative, locative and ablative.
+The case system includes six cases for nouns, viz. the unmarked nominative, genitive, accusative, dative, locative and ablative.
 
 ## Verb lemmas
 The verbs are shown in the form of the infinitive in *-mak*.
