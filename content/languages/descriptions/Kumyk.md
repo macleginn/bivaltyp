@@ -18,6 +18,12 @@ The data come from the Kayakent and Yangikent varieties of the Kaytag dialect of
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
+## Grammar notes
+### Basic clause structure and the transitive construction
+
+### Case system
+The case system includes five cases for nouns, viz. the unmarked nominative, genitive, accusative, dative, locative and ablative. However, the distinction between the genitive case and the accusative case if often neutralized. It is always overt in the so-called possessive declension, where the nouns also bears a possessive suffix.
+
 ## Verb lemmas
 The verbs are shown in the form of the infinitive in *-maq*.
 
