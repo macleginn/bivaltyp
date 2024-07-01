@@ -15,3 +15,6 @@ Irina (Pavlovna) Külmoja provided some preliminary data in 2013. In 2021, Merit
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}. 
+
+## Glossing abbreviations
+ABL — ablative; ACT — active; ADESS — adessive; ALL — allative; COM — comitative; DEM — demonstrative; ELA — ; ESS — essive; GEN — genitive; ILL — illative; IMPRS — impersonal; INESS — inessive; INF — infinitive; NOM — nominative; PART — partititve; PL — plural; PN — person name; POSS — possessive; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular; SG — singular.
