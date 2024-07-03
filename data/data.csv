@@ -1236,7 +1236,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 110	65	отстать	qhuʔ qhargın	NOM	COMPAR	Y	NOM_COMPAR	murad q'urban-ı-qhaʔ qhuʔ qhargı-ri	PN PN-OBL-COMPAR after M.remain_behind.PF-AOR	‘Murad fell behind Kurban.’					
 110	66	пахать	lıˤjχıˤn	ERG	NOM	TR	TR	murad-a χuj lıˤjχaˤ-re a	PN-ERG field N.plough.IPF-SIMUL be_in	‘Murad is ploughing the field.’					
 110	67	пахнуть	il jišin	*	*	*		iz-dı χıl-abırmı-k benzin-e-d il ki	my-ATTR hand-PL.OBL-CONT oil-OBL-GEN smell be_at	‘My hands smell of gasoline.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-110	68	пересечь	jıxın	NOM	SUPERELxu7	Y	NOM_SUPERELxu7	murad rıˤq-ııˤla xuʔ jıxı-ri	PN road.OBL-SUPEREL forth M.go.PF-AOR	‘Murad crossed the road.’					
+110	68	пересечь	jıxın	NOM	SUPERELxu7	Y	NOM_SUPERELxu7	murad rıˤq-ııˤla xuʔ jıxı-ri	PN road.OBL-SUPEREL forth M.go.PF-AOR	‘Murad crossed the road.’	xuʔ is a kind of a postposition, although taking SUPEREL is unusual.				
 110	69	петь	naˤhni hıʔın	ERG	NOM	TR	TR	murad-a bıt'ra-d naˤhni hıʔı-ri	PN-ERG beautiful-ATTR song N.do.PF-AOR	‘Murad sang a beautiful song.’					
 110	70	писать	kixin	ERG	NOM	TR	TR	murad-a kaʁat kixi-ri	PN-ERG paper (N)write.PF-AOR	‘Murad wrote a letter.’					
 110	71	пить	raʁın	ERG	NOM	TR	TR	murad-a naˤk va-raʁı-ri	PN-ERG milk(A) A-drink.PF-AOR	‘Murad drank the milk.’					
@@ -2666,7 +2666,7 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 88	65	отстать	jǒχi χǎśti	NOM	NOMewelt	Y	NOM_NOMewelt	pet’a-j-en maša-j-ǝλ ewǝλt jǒχi χǎś-ǝs	PN-EP-POSS.2SG PN-EP-POSS.3SG from home remain-PST[3SG]	‘Petja fell behind Maša.’		PN-EP-POSS.2SG PN-EP-POSS.3SG от домой остаться-PST[3SG]	‘Петя отстал от Маши’.		
 88	66	пахать	χirti	NOM	ACC	TR	TR	pet’a-j-en akarat-ǝλ χir-ǝλ	PN-EP-POSS.2SG garden-POSS.3SG dig-NPST[3SG]	‘Petja is digging his garden.’	This sentence is semantically slightly different from the stimulus.	PN-EP-POSS.2SG огород-POSS.3SG копать-NPST[3SG]	‘Петя копает огород’.		
 88	67	пахнуть	awti	NOM	LOC	Y	NOM_LOC	maša-j-en jɔš-ŋəλ ԑsǝm jiŋ(k)-ǝn awə-λ-əŋən	PN-EP-POSS.2SG hand-POSS[DU] udder water-LOC smell-NPST-3DU	‘Maša’s hands smell of gasoline.’		PN-EP-POSS.2SG рука-POSS[DU] вымя вода-LOC пахнуть-NPST-3DU	‘Машины руки пахнут молоком’.		
-88	68	пересечь	mănti	NOM	ACC	TR	TR	pet’a-j-en jǫš šǫpa măn-ǝs	PN-EP-POSS.2SG road in_halves go-PST[3SG]	‘Petja crossed the road.’		PN-EP-POSS.2SG дорога пополам идти-PST[3SG]	‘Петя перешел через дорогу’.		
+88	68	пересечь	šǫpa mănti	NOM	ACC	TR	TR	pet’a-j-en jǫš šǫpa măn-ǝs	PN-EP-POSS.2SG road in_halves go-PST[3SG]	‘Petja crossed the road.’		PN-EP-POSS.2SG дорога пополам идти-PST[3SG]	‘Петя перешел через дорогу’.		
 88	69	петь	ariti	NOM	ACC	TR	TR	pet’a-j-en jǎm arn ari-j-ǝs	PN-EP-POSS.2SG good song sing-EP-PST[3SG]	‘Petja sang a beautiful song.’		PN-EP-POSS.2SG хороший песня петь-EP-PST[3SG]	‘Петя спел красивую песню’.		
 88	70	писать	χǎnši	NOM	ACC	TR	TR	pet’a-j-en piśma χǎnš-ǝs	PN-EP-POSS.2SG letter write-PST[3SG]	‘Petja wrote a letter.’		PN-EP-POSS.2SG письмо писать-PST[3SG]	‘Петя написал письмо’.		
 88	71	пить	jańśi	NOM	ACC	TR	TR	pet’a-j-en ԑsǝm jiŋk jańś-əs	PN-EP-POSS.2SG udder water drink-PST[3SG]	‘Petja drank the milk.’		PN-EP-POSS.2SG вымя вода пить-PST[3SG]	‘Петя выпил молоко’.		
@@ -6629,136 +6629,136 @@ language_no	predicate_no	predicate_label_ru	verb	X	Y	locus	valency_pattern	sente
 126	128	раздражаться		DAT	CONT.ELAT	XY	DAT_CONT.ELAT	fatima.ji-z ča-n šur-k-an qaˁl ʁ-ura	PN-DAT REFL(SG)-GEN girl-CONT-ELAT angry go-PRS	‘Fatima is getting irritated with her daughter.’					
 126	129	симпатизировать	*	*	*	*		*	*	*	No satisfactory translation has been obtained.				
 126	130	стесняться		DAT	CONT.ELAT	XY	DAT_CONT.ELAT	maˁhaˁmad.a-z ča-n bic’i post.na-k-an nač k-a	PN-DAT REFL-GEN small height-CONT-ELAT shy CONT-be(PRS)	‘Mahamad is shy about his height.’	Non-verbal predicate.				
-132	1	болеть-1		*	*	*		Kofi wᴐ tiyadeε bi	PN have(3SG.PRS) headache INDEF	‘Kofi has a headache.’	Not included in the database because Y is expressed as part of a nominal compound.				
-132	2	болеть-2		SBJ	DO	TR	TR	Kofi wᴐ papu no	PN have(3SG.PRS) flu DEF	‘Kofi has the flu.’					
-132	3	бояться		SBJ	DO	TR	TR	Kofi suro ᴐkraman no	PN fear(3SG.PRS) dog DEF	‘Kofi is afraid of the dog.’					
-132	4	бросить		SBJ	DO	TR	TR	Kofi to-o εboᴐ bi	PN throw-PST stone INDEF	‘Kofi threw a stone.’					
-132	5	быть достаточно		*	*	*		seesei Kofi wᴐ sika dodoᴐ	now PN have(3SG.PRS) money enough	‘Kofi now has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
-132	6	быть похожим		SBJ	DO	TR	TR	Kofi sε nanabarima	PN resemble(3SG.PRS) grandfather	‘Kofi resembles grandfather.’					
-132	7	верить		SBJ	DO	TR	TR	Kofi gye nanabarima di	PN believe(3SG.PRS) grandfather believe	‘Kofi believes grandfather.’	“gye di” means ‘to believe’ as a whole, although its parts are separable.				
-132	8	взять		SBJ	DO	TR	TR	Kofi fa-a nwoma bi	PN take-PST book INDEF	‘Kofi took a book.’					
-132	9	видеть		SBJ	DO	TR	TR	Kofi hunu efie bi	PN see(3SG.PRS) house INDEF	‘Kofi sees a house.’					
-132	10	влиять		SBJ	DO	TR	TR	mfeε kentene nkaeε	age influence(3SG.PRS) memory	‘Age influences memory.’					
-132	11	встречаться		SBJ	DO	TR	TR	Kofi hyia-a nanabarima	PN encounter-PST grandfather	‘Kofi encountered grandfather.’					
-132	12	входить 		SBJ	mu	Y	SBJ_mu	Kofi wura-a efie no mu	PN enter-PST house DEF in	‘Kofi entered the house.’					
-132	13	выиграть		SBJ	so	Y	SBJ_so	Kofi di-i nanabarima so nkunim	PN take-PST grandfather on victory	‘Kofi beat grandfather.’	CV				
-132	14	выходить		SBJ	mu	Y	SBJ_mu	Kofi pue-e firi fie no mu	PN go-PST come.out house DEF in	‘Kofi went out of the house.’					
-132	15	гнать		SBJ	DO	TR	TR	Kofi re-ka nantwie no	PN PROG-drive cow DEF	‘Kofi is driving the cow.’					
-132	16	гнуть		SBJ	DO	TR	TR	Kofi koa-a nkorabata no	PN bend-PST branch DEF	‘Kofi bent the branch.’					
-132	17	говорить		SBJ	DO	TR	TR	Kofi kakyerε-ε nanabarima	PN tell-PST grandfather	‘Kofi told grandfather.’					
-132	18	держать		SBJ	DO	TR	TR	Kofi re-kita nwoma bi	PN PROG-hold book INDEF	‘Kofi is holding a book.’					
-132	19	догнать		SBJ	DO	TR	TR	Kofi kᴐto-o ne nanabarima	PN catch(up)-PST 3SG(POSS) grandfather	‘Kofi caught up with grandfather.’					
-132	20	доить		*	*	*		Kofi kyim-m nantwie nufusuo no	PN extract-PST cow breast.milk DEF	‘Kofi milked the cow.’	Not included in the database because Y is expressed as an NP-internal modifier.				
-132	21	достичь		SBJ	so	Y	SBJ_so	Kofi duru-u kokoᴐ no so	PN reach-PST bank DEF on	‘Kofi reached the bank.’					
-132	22	дотронуться		SBJ	mu	Y	SBJ_mu	Kofi sᴐ-ᴐ fasuo no mu	PN touch-PST wall DEF in	‘Kofi touched the wall.’					
-132	23	драться		*	*	*		Kofi ne nanabarima re-ko	PN CONJ grandfather PROG-fight	‘Kofi and his grandfather are fighting.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-132	24	дружить		*	*	*		Kofi ne nanabarima yε nn-amfoᴐ	PN CONJ grandfather COP PL-friend	‘Kofi and grandfather are friends.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-132	25	думать		SBJ	ho	Y	SBJ_ho	Kofi re-dwene nanabarima ho	PN PROG-think grandfather about	‘Kofi is thinking about grandfather.’					
-132	26	есть		SBJ	DO	TR	TR	Kofi di-i aprε bi	PN take-PST apple INDEF	‘Kofi ate an apple.’					
-132	27	жарить		SBJ	DO	TR	TR	Kofi kye-e nsuomnam no	PN fry-PST fish DEF	‘Kofi fried the fish.’					
-132	28	ждать		SBJ	DO	TR	TR	Kofi re-twεn nanabarima	PN PROG-wait grandfather	‘Kofi is waiting for grandfather.’					
-132	29	забывать		SBJ	DO	TR	TR	Kofi werεfiri-i kwan foforᴐ no	PN forget-PST road other DEF	‘Kofi forgot the other road.’					
-132	30	зависеть		SBJ	so	Y	SBJ_so	nkaeε gyina mfeε so	memory depend(3SG.PRS) age on	‘Memory depends on age.’					
-132	31	звать		SBJ	DO	TR	TR	Kofi frε-ε nanabarima	PN call-PST grandfather	‘Kofi called grandfather.’					
-132	32	знакомиться		SBJ	DO	TR	TR	Kofi hunu-u nanabarima bεyε afe	PN know-PST grandfather ago year	‘Kofi got to know grandfather a year ago.’					
-132	33	знать 		SBJ	DO	TR	TR	Kofi nim nanabarima	PN know(3SG.PRS) grandfather	‘Kofi knows grandfather.’					
-132	34	играть		SBJ	DO	TR	TR	Kofi re-bᴐ sanku no	PN PROG-play guitar DEF	‘Kofi is playing the guitar.’					
-132	35	избегать		SBJ	DO	TR	TR	Kofi tetε nanabarima	PN avoid(3SG.PRS) grandfather	‘Kofi avoids grandfather.’					
-132	36	изготовить		SBJ	DO	TR	TR	Kofi yε-ε nkurafidie bi	PN make-PST mousetrap INDEF	‘Kofi made a mousetrap.’					
-132	37	издеваться		SBJ	ho	Y	SBJ_ho	Kofi re-di nanabarima ho fεw	PN PROG-make grandfather about fun	‘Kofi is making fun of grangfather.’	CV				
-132	38	иметь		SBJ	DO	TR	TR	Kofi wᴐ lᴐᴐle bi	PN have(3SG.PRS) car INDEF	‘Kofi has a car.’					
-132	39	искать		SBJ	DO	TR	TR	Kofi re-hwehwε ne safoa	PN PROG-look 3SG(POSS) key	‘Kofi is looking for his key.’					
-132	40	красить		SBJ	ho	Y	SBJ_ho	Kofi ka-a ban no ho	PN paint-PST fence DEF about	‘Kofi painted the fence.’					
-132	41	кусать		SBJ	DO	TR	TR	ᴐkraman bi ka-a nanabarima	dog INDEF bite-PST grandfather	‘A dog bit grandfather.’					
-132	42	лишаться		SBJ	DO	TR	TR	Kofi hwere-e ne fie	PN lose-PST 3SG(POSS) house	‘Kofi lost his house.’					
-132	43	ловить		SBJ	DO	TR	TR	Kofi re-kyere ᴐkra no	PN PROG-catch cat DEF	‘Kofi is trying to catch the cat.’					
-132	44	ломать		SBJ	DO	TR	TR	Kofi bu-u abaa bi	PN break-PST stick INDEF	‘Kofi broke a stick.’					
-132	45	льстить		SBJ	DO	TR	TR	Kofi re-dεfεdεfε nanabarima	PN PROG-flatter grandfather	‘Kofi is flattering grandfather.’					
-132	46	любить-1		SBJ	DO	TR	TR	Kofi dᴐ nanabarima	PN love(3SG.PRS) grandfather	‘Kofi loves grandfather.’					
-132	47	махать		SBJ	DO	TR	TR	Kofi re-woso duku bi	PN PROG-wave handkerchief INDEF	‘Kofi is waving a handkerchief.’					
-132	48	мечтать		SBJ	ho	Y	SBJ_ho	Kofi re-so lᴐᴐle mono bi ho daeε	PN PROG-dream car new INDEF about dream	‘Kofi is dreaming of a new car.’	“reso daeε” means ‘to dream’ as a whole, although its parts are separable.				
-132	49	мыть		SBJ	DO	TR	TR	Kofi hohoro-o kuruwa no	PN wash-PST cup DEF	‘Kofi washed the cup.’					
-132	50	надевать		SBJ	DO	TR	TR	Kofi hyε-ε ne trokoso	PN put(on)-PST 3SG(POSS) trousers	‘Kofi put on his trousers.’					
-132	51	называться		DO	PSEUDOOBJ	XY	DO_PSEUDOOBJ	saa akadeε yi yε-frε-ε no kᴐmpase	this tool DEF 1PL-call-PST DEF compass	‘This tool is called a compass.’	Probably, “no” should be interpreted as a 3SG.O marker. At any event, this structure involves topicalization (cf. ‘This thing, we call it compass’) and the verb as such is transitive, with the thing given the name being the direct object.				
-132	52	наказывать		SBJ	DO	TR	TR	Kofi twe-e ne babarima aso	PN punish-PST 3SG(POSS) son punish	‘Kofi punished his son.’	“twee aso” means ‘punished’ as a whole, although its parts are separable.				
-132	53	напасть		SBJ	so	Y	SBJ_so	pataku bi tohyε-ε ᴐpofoni bi so	bear INDEF attack-PST fisherman INDEF on	‘A bear attacked a fisherman.’					
-132	54	наполняться		mu	SBJ	X	mu_SBJ	nsuo hyε-ε bokiti no mu ma	water fill-PST bucket DEF in fill	‘The bucket filled with water.’	“hyε-ε ma” means ‘filled’ as a whole, although its parts are separable.				
-132	55	находить		SBJ	DO	TR	TR	Kofi hunu-u ne n-safoa	PN find-PST 3SG(POSS) PL-key	‘Kofi found his keys.’					
-132	56	недоставать		SBJ	DO	TR	TR	Kofi nni euro baako	PN lack(3SG) euro one	‘Kofi lacks one euro.’					
-132	57	ненавидеть		SBJ	DO	TR	TR	Kofi tan nanabarima	PN hate(3SG.PRS) grandfather	‘Kofi hates grandfather.’					
-132	58	нравиться		SBJ	DO	TR	TR	Kofi pε saa atadeε yi	PN like(3SG.PRS) this shirt DEF	‘Kofi likes this shirt.’					
-132	59	нуждаться		SBJ	DO	TR	TR	Kofi hia sika	PN need(3SG.PRS) money	‘Kofi needs money.’					
-132	60	окружать		SBJ	hyia	Y	SBJ_hyia	a-fasuo twa kuropᴐn no hyia	PL-wall surround(PL) city DET around	‘Walls surround the city.’					
-132	61	оставаться		*	*	*		a-ka Kofi 10 euros	PERF-leave PN 10 euros	‘Kofi has 10 euros left.’	Not included in the database because X is expressed as an NP-internal modifier.				
-132	62	отвечать		SBJ	DO	TR	TR	Kofi bua-a ᴐkyerεkyerεni no	PN answer-PST teacher DEF	‘Kofi answered the teacher.’					
-132	63	открывать		SBJ	DO	TR	TR	Kofi bue-e toa no	PN open-PST can DEF	‘Kofi opened the can.’					
-132	64	отличаться		SBJ	ho	Y	SBJ_ho	daabi, m’=atadeε no danso firi wo deε ho	no(NEG) 1SG(POSS)=shirt DEF different come.out 2SG POSS about	‘No, my shirt is different from yours.’					
-132	65	отстать		SBJ	akyi	Y	SBJ_akyi	Kofi ka-a nanabarima akyi	PN fall-PST grandfather behind	‘Kofi fell behind grandfather.’					
-132	66	пахать		SBJ	DO	TR	TR	Kofi re-funtum asaase no	PN PROG-plough field DEF	‘Kofi is ploughing the field.’					
-132	67	пахнуть		SBJ	tese	Y	SBJ_tese	me nsa hwa tesε fagoo	1SG(POSS) hands smell like gasoline	‘My hands smell like gasoline.’					
-132	68	пересечь		SBJ	DO	TR	TR	Kofi twa-a kwan no	PN cross-PST road DEF	‘Kofi crossed the road.’					
-132	69	петь		SBJ	DO	TR	TR	Kofi to-o dwom dεεdε bi	PN sing-PST song beautiful INDEF	‘Kofi sang a beautiful song.’					
-132	70	писать		SBJ	DO	TR	TR	Kofi twerε-ε krataa bi	PN write-PST letter INDEF	‘Kofi wrote a letter.’					
-132	71	пить		SBJ	DO	TR	TR	Kofi nom-m meekye no	PN drink-PST milk DEF	‘Kofi drank the milk.’					
-132	72	плавить		SBJ	DO	TR	TR	Kofi naane-e kᴐbere sini bi	PN melt-PST lead piece INDEF	‘Kofi melted a piece of lead.’					
-132	73	подходить		*	*	*		saa abᴐso yi ne m’=atadeε kᴐ yie	this belt DEF CONJ 1SG.POSS=dress go(PRS) well	‘This belt goes well with my dress.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-132	74	покидать		SBJ	DO	TR	TR	Kofi firi-i ne a kuropᴐn ofirim	PN leave-PST 3SG.POSS INDEF city native	‘Kofi left his native city.’					
-132	75	покрывать		SBJ	DO	TR	TR	ntiasoᴐ no kata fam no nyinaa	carpet DEF cover(3SG.PRS) floor DEF whole	‘The carpet covers the whole floor.’					
-132	76	помнить		SBJ	DO	TR	TR	Kofi kae fie no yie	PN remember(3SG.PRS) house DEF well	‘Kofi remembers the house well.’					
-132	77	помочь		SBJ	DO	TR	TR	Kofi boa-a nanabarima	PN help-PST grandfather	‘Kofi helped grandfather.’					
-132	78	понимать		SBJ	DO	TR	TR	Kofi te Franse kasa ase	PN understand(3SG.PRS) French language understand	‘Kofi understands French.’	“te ase” means ‘understand’ as a whole, although its parts are separable.				
-132	79	попасть		SBJ	DO	TR	TR	ayiremo bᴐ-ᴐ fie no	lightning hit-PST house DEF	‘Lightning hit the house.’					
-132	80	порезаться		*	*	*		Kofi de bleedi bi twa-a ne ho	PN hold blade INDEF cut-PST 3SG.POSS about	‘Kofi cut himself with a blade.’	Not included in the database because the intended meaning is expressed by a combination of two clauses.				
-132	81	прилипать		SBJ	so	Y	SBJ_so	abobᴐdeε no ka-a pono no so	glass DEF stick-PST table DEF on	‘The glass got stuck to the table.’					
-132	82	проиграть		SBJ	wo	Y	SBJ_wo	Kofi di-i nkoguo wᴐ nanabarima	PN take-PST failure at<have(3SG.PRS) grandfather	‘Kofi lost to grandfather.’					
-132	83	радоваться		*	*	*		Kofi ani ge-e krataa no ho	PN eye take-PST letter DEF about	‘Kofi was rejoiced about the letter.’	Not included in the database because X is expressed as an NP-internal modifier.				
-132	84	разговаривать		*	*	*		Kofi ne nanabarima re-kasa	PN CONJ grandfather PROG-speak	‘Kofi is speaking with grandfather.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-132	85	рожать		SBJ	DO	TR	TR	maame no wo-o babarima bi	woman DEF give_birth-PST son INDEF	‘The woman gave birth to a son.’					
-132	86	ронять		SBJ	mu	Y	SBJ_mu	Kofi gya-a abobᴐdeε no mu	PN drop-PST glass DEF in	‘Kofi dropped the glass.’					
-132	87	руководить		SBJ	so	Y	SBJ_so	Kofi di yεn kuro so	PN govern(3SG.PRS) 1P.PL(POSS) town on	‘Kofi governs our town.’					
-132	88	скучать		SBJ	DO	TR	TR	Kofi afe nanabarima	PN miss(3SG.PRS) grandfather	‘Kofi misses grandfather.’					
-132	89	следовать		SBJ	akyi	Y	SBJ_akyi	Kofi di nanabarima akyi	PN follow(3SG.PRS) grandfather behind	‘Kofi follows grandfather					
-132	90	слезать		SBJ	so	Y	SBJ_so	Kofi sifiri-i pᴐnkᴐ no so	PN get(down)-PST horse DEF on	‘Kofi got down from the horse.’					
-132	91	слушать		SBJ	DO	TR	TR	Kofi re-tie kasanoma	PN PROG-listen radio	‘Kofi is listening to radio.’					
-132	92	слушаться		SBJ	DO	TR	TR	Kofi tie ne maame aberebiara	PN listen(PRS) 3SG.POSS mother always	‘Kofi always listens to his mother.’					
-132	93	слышать		SBJ	DO	TR	TR	Kofi te nwom no	PN hear(3SG.PRS) music DEF	‘Kofi hears the music.’					
-132	94	смешаться		SBJ	DO	TR	TR	εwoᴐ no fra-a meekye no	honey DEF mix-PST milk DEF	‘The honey got mixed with the milk.’					
-132	95	смотреть		SBJ	DO	TR	TR	Kofi re-hwε m-mununkum no	PN PROG-look PL-cloud DEF	‘Kofi is looking at the clouds.’					
-132	96	снимать		SBJ	DO	TR	TR	Kofi woro-o n’=atadeε	PN take_off-PST 3SG.POSS=shirt	‘Kofi took off his shirt.’					
-132	97	сниться		SBJ	ho	Y	SBJ_ho	Kofi so nanabarima ho daeε	PN dream grandfather about dream	‘Kofi dreams about grandfather.’	“so daeε” means ‘to dream’ as a whole, although its parts are separable.				
-132	98	соглашаться		*	*	*		Kofi ne nanabarima yε-ε adwene	PN with grandfather agree-PST agree	‘Kofi agreed with grandfather.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-132	99	ссориться		*	*	*		Kofi ne nanabarima wᴐ akasakasa bi	PN with grandfather have(3SG.PRS) quarrel INDEF	‘Kofi has a quarrel with grandfather.’	Not included in the database because X and Y are expressed as a coordinate NP.				
-132	100	стоить		*	*	*		saa kuruwa yi yε baako euro	this cup DEF is one euro	‘This cup costs one euro.’	Not included in the database because Y is expressed as a (non-verbal) predicate (not an argument).				
-132	101	стрелять		SBJ	DO	TR	TR	Kofi to-o anomaa no tuo	PN shoot-PST bird DEF gun	‘Kofi shot at the bird.’	“to-o tuo” is a CV here.				
-132	102	сыпать		SBJ	DO	TR	TR	Kofi hwie-e asikyire no	PN pour-PST sugar DEF	‘Kofi poured the sugar.’					
-132	103	терять		SBJ	DO	TR	TR	Kofi yera-a ne n-safoa	PN lose-PST 3SG(POSS) PL-key	‘Kofi lost his keys.’					
-132	104	тонуть		SBJ	mu	Y	SBJ_mu	dua no mem-m nsuo no mu	tree DEF sink-PST river DEF in	‘The log sank in the river.’					
-132	105	убивать		SBJ	DO	TR	TR	Kofi kum-m nanabarima	PN kill-PST grandfather	‘Kofi killed grandfather.’					
-132	106	ударить		SBJ	DO	TR	TR	Kofi bᴐ-ᴐ nanabarima	PN hit-PST grandfather	‘Kofi hit grandfather.’					
-132	107	целовать		SBJ	DO	TR	TR	Kofi fe-e nanabarima ano	PN kiss-PST grandfather lip	‘Kofi kissed grandfather.’	“fe-e ano” means ‘to kiss’ as a whole, although it is separable.				
-132	108	читать		SBJ	DO	TR	TR	Kofi kan-n nwoma anikanika bi	PN read-PST book interesting INDEF	‘Kofi read an interesting book.’					
-132	109	шевелить		SBJ	DO	TR	TR	Kofi keka-a ne nsatea	PN move-PST 3SG(POSS) finger	‘Kofi moved his finger.’					
-132	110	уважать		SBJ	DO	TR	TR	Kofi bu nanabarima	PN respect(3SG.PRS) grandfather	‘Kofi respects grandfather.’					
-132	111	брезговать		*	*	*		Kofi akyiwadeɛ yɛ n-kukuo fi	PN taboo is PL-dish dirty	‘Kofi is squeamish about dirty dishes,’ lit. ‘Kofi’s taboo is dirty dishes..’	Not included in the database because X is expressed as an NP-internal modifier.				
-132	112	быть довольным		SBJ	ho	Y	SBJ_ho	Kofi bodwo-o ne ba no ho	PN satisfy-PST 3SG(POSS) son DEF about	‘Kofi is satisfied with his son.’					
-132	113	влюбляться		SBJ	DO	TR	TR	Kofi tᴐ-ᴐ Mary dᴐ mu	PN fall-PST PN love in	‘Kofi fell in love with Mary.’					
-132	114	доверять		SBJ	mu	Y	SBJ_mu	Kofi wᴐ nanabarima mu awerɛhyɛm	PN have(3SG.PRS) grandfather in trust	Kofi has trust in grandfather.’	CV				
-132	115	жалеть		SBJ	ma	Y	SBJ_ma	Kofi wᴐ tema ma ne maame	PN have(3SG.PRS) sympathy for 3SG(POSS) mother	‘Kofi sympathises with his mother.’.	Although most adpositions are used as postpositions, here, “ma” is used a preposition.				
-132	116	завидовать		SBJ	DO	TR	TR	Kofi anibere nanabarima	PN envy(3SG.PRS) grandfather	‘Kofi envies grandfather.’					
-132	117	злиться		SBJ	DO	TR	TR	Kofi bo a-fu nanabarima	PN be_angry PERF-be_angry grandfather	‘Kofi is angry with his grandfather.’	“bo a-fu” means ‘to be angry’ as a whole, although it is separable.				
-132	118	удивляться		ho	wo	XY	ho_wo	Kofi ho dwiri-i no wᴐ saa akyεdeε yi	PN about surprise-PST DEF at<have(3SG.PRS) this gift DEF	‘Kofi was surprised at this gift.’	The identification of the valency pattern is tentative. The postposition “ho” is the grammaticalized use of the original noun ‘exterior’.				
-132	119	любить-2		SBJ	DO	TR	TR	Kofi dᴐ tee	PN love(3SG.PRS) tea	‘Kofi loves tea.’					
-132	120	наслаждаться		*	*	*		Kofi ani gye tee hyeehye ho	PN eye take(3SG.PRS) tea hot about	‘Kofi enjoys hot tea.’	Not included in the database because X is expressed as an NP-internal modifier.				
-132	121	хотеть		SBJ	DO	TR	TR	Kofi hia fon foforᴐ	PN want(3SG.PRS) phone new	‘Kofi wants a new mobile phone.’					
-132	122	сердиться		SBJ	ho	Y	SBJ_ho	Kofi wᴐ nanabarima ho trimpᴐ	PN have(3SG.PRS) grandfather about grudge	‘Kofi has a grudge against grandfather.’	CV				
-132	123	обижаться		*	*	*		Kofi bo fu-u nanabarima	PN breast swell-PST grandfather	‘Kofi got cross with grandfather.’	Not included in the database because X is expressed as an NP-internal modifier. Arguably, this sentence literally means ‘Kofi’s breast got swollen at his grandfather’. See (Christaller 1933: 29, 142)				
-132	124	огорчать		SBJ	DO	TR	TR	Kofi bu fu-u nanabarima paa	PN V swell-PST grandfather greatly	‘Kofi greatly upset grandfather.’	This structure is not entirely clear, but this is probably a transitive complex verb. Cf. the previous entry. Kwadwo’s answer: Unhappy/upset/angry are translated as ‘abufuo’ that is noun/ ‘bu fuu’ that is verb(PST).				
-132	125	поражаться		*	*	*		Kofi ani gye-e kuro yi ho	PN eye take-PST town this about	‘Kofi was impressed by this town.’	Not included in the database because X is expressed as an NP-internal modifier.				
-132	126	презирать		SBJ	DO	TR	TR	Kofi tan nanabarima	PN despise(3SG.PRS) grandfather	‘Kofi despises grandfather.’					
-132	127	огорчаться		*	*	*		Kofi bo fu-u ne babarima	PN breast swell-PST 3SG(POSS) son	‘Kofi got upset with his son.’	Not included in the database because X is expressed as an NP-internal modifier. Arguably, this sentence literally means ‘Kofi’s breast got swollen at his son’. See (Christaller 1933: 29, 142)				
-132	128	раздражаться		SBJ	ho	Y	SBJ_ho	Kofi re-nya ne babaa ho abufuo	PN PROG-get 3SG(POSS) daughter about irritated	‘Kofi is getting arritated by his daughter.’	CV				
-132	129	симпатизировать		*	*	*		Kofi ani gye nanabarima ho	PN eye take grandfather about	‘Kofi is fond of grandfather.’	Not included in the database because X is expressed as an NP-internal modifier.				
-132	130	стесняться		SBJ	ho	Y	SBJ_ho	Kofi fɛre ne tenten ho	PN shy 3SG(POSS ) height about	‘Kofi is shy about his height.’					
+132	1	болеть-1	wᴐ	*	*	*		Kofi wᴐ tiyadeε bi	PN have(3SG.PRS) headache INDEF	‘Kofi has a headache.’	Not included in the database because Y is expressed as part of a nominal compound.				
+132	2	болеть-2	wᴐ	SBJ	DO	TR	TR	Kofi wᴐ papu no	PN have(3SG.PRS) flu DEF	‘Kofi has the flu.’					
+132	3	бояться	suro	SBJ	DO	TR	TR	Kofi suro ᴐkraman no	PN fear(3SG.PRS) dog DEF	‘Kofi is afraid of the dog.’					
+132	4	бросить	to	SBJ	DO	TR	TR	Kofi to-o εboᴐ bi	PN throw-PST stone INDEF	‘Kofi threw a stone.’					
+132	5	быть достаточно	wᴐ dodoᴐ	*	*	*		seesei Kofi wᴐ sika dodoᴐ	now PN have(3SG.PRS) money enough	‘Kofi now has enough money.’	Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).				
+132	6	быть похожим	sε	SBJ	DO	TR	TR	Kofi sε nanabarima	PN resemble(3SG.PRS) grandfather	‘Kofi resembles grandfather.’					
+132	7	верить	gye di	SBJ	DO	TR	TR	Kofi gye nanabarima di	PN take(3SG.PRS) grandfather handle	‘Kofi believes grandfather.’	CV. The glosses are partially based on the dictionary information.				
+132	8	взять	fa	SBJ	DO	TR	TR	Kofi fa-a nwoma bi	PN take-PST book INDEF	‘Kofi took a book.’					
+132	9	видеть	hunu	SBJ	DO	TR	TR	Kofi hunu efie bi	PN see(3SG.PRS) house INDEF	‘Kofi sees a house.’					
+132	10	влиять	kentene	SBJ	DO	TR	TR	mfeε kentene nkaeε	age influence(3SG.PRS) memory	‘Age influences memory.’					
+132	11	встречаться	hyia	SBJ	DO	TR	TR	Kofi hyia-a nanabarima	PN encounter-PST grandfather	‘Kofi encountered grandfather.’					
+132	12	входить 	wura	SBJ	mu	Y	SBJ_mu	Kofi wura-a efie no mu	PN enter-PST house DEF in	‘Kofi entered the house.’					
+132	13	выиграть	di nkunim	SBJ	so	Y	SBJ_so	Kofi di-i nanabarima so nkunim	PN handle-PST grandfather on victory	‘Kofi beat grandfather.’	CV				
+132	14	выходить	pue firi	SBJ	mu	Y	SBJ_mu	Kofi pue-e firi fie no mu	PN go-PST come.out house DEF in	‘Kofi went out of the house.’	CV				
+132	15	гнать	ka	SBJ	DO	TR	TR	Kofi re-ka nantwie no	PN PROG-touch cow DEF	‘Kofi is driving the cow.’	In the dictionary, the verb means 'to touch'.				
+132	16	гнуть	koa	SBJ	DO	TR	TR	Kofi koa-a nkorabata no	PN bend-PST branch DEF	‘Kofi bent the branch.’					
+132	17	говорить	kakyerε	SBJ	DO	TR	TR	Kofi kakyerε-ε nanabarima	PN tell-PST grandfather	‘Kofi told grandfather.’					
+132	18	держать	kita	SBJ	DO	TR	TR	Kofi re-kita nwoma bi	PN PROG-hold book INDEF	‘Kofi is holding a book.’					
+132	19	догнать	kᴐto	SBJ	DO	TR	TR	Kofi kᴐto-o ne nanabarima	PN catch(up)-PST 3SG(POSS) grandfather	‘Kofi caught up with grandfather.’					
+132	20	доить	kyim nufusuo	*	*	*		Kofi kyim-m nantwie nufusuo no	PN extract-PST cow breast.milk DEF	‘Kofi milked the cow.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+132	21	достичь	duru	SBJ	so	Y	SBJ_so	Kofi duru-u kokoᴐ no so	PN reach-PST bank DEF on	‘Kofi reached the bank.’					
+132	22	дотронуться	sᴐ	SBJ	mu	Y	SBJ_mu	Kofi sᴐ-ᴐ fasuo no mu	PN touch-PST wall DEF in	‘Kofi touched the wall.’					
+132	23	драться	ko	*	*	*		Kofi ne nanabarima re-ko	PN CONJ grandfather PROG-fight	‘Kofi and his grandfather are fighting.’	Not included in the database because X and Y are expressed as a coordinate NP.				
+132	24	дружить	yε amfoᴐ	*	*	*		Kofi ne nanabarima yε nn-amfoᴐ	PN CONJ grandfather be/do PL-friend	‘Kofi and grandfather are friends.’	Not included in the database because X and Y are expressed as a coordinate NP.				
+132	25	думать	dwene	SBJ	ho	Y	SBJ_ho	Kofi re-dwene nanabarima ho	PN PROG-think grandfather about	‘Kofi is thinking about grandfather.’					
+132	26	есть	di	SBJ	DO	TR	TR	Kofi di-i aprε bi	PN handle-PST apple INDEF	‘Kofi ate an apple.’					
+132	27	жарить	kye	SBJ	DO	TR	TR	Kofi kye-e nsuomnam no	PN fry-PST fish DEF	‘Kofi fried the fish.’					
+132	28	ждать	twεn	SBJ	DO	TR	TR	Kofi re-twεn nanabarima	PN PROG-wait grandfather	‘Kofi is waiting for grandfather.’					
+132	29	забывать	werεfiri	SBJ	DO	TR	TR	Kofi werε-firi-i kwan foforᴐ no	PN mind-remove-PST road other DEF	‘Kofi forgot the other road.’					
+132	30	зависеть	gyina	SBJ	so	Y	SBJ_so	nkaeε gyina mfeε so	memory stand(3SG.PRS) age on	‘Memory depends on age.’					
+132	31	звать	frε	SBJ	DO	TR	TR	Kofi frε-ε nanabarima	PN call-PST grandfather	‘Kofi called grandfather.’	In the dictionary, this verb means 'to like, want, need'.				
+132	32	знакомиться	hunu	SBJ	DO	TR	TR	Kofi hunu-u nanabarima bεyε afe	PN see-PST grandfather ago year	‘Kofi got to know grandfather a year ago.’					
+132	33	знать 	nim	SBJ	DO	TR	TR	Kofi nim nanabarima	PN know(3SG.PRS) grandfather	‘Kofi knows grandfather.’					
+132	34	играть	bᴐ	SBJ	DO	TR	TR	Kofi re-bᴐ sanku no	PN PROG-hit guitar DEF	‘Kofi is playing the guitar.’					
+132	35	избегать	tetε	SBJ	DO	TR	TR	Kofi tetε nanabarima	PN avoid(3SG.PRS) grandfather	‘Kofi avoids grandfather.’	In the dictionary, this verb means 'to arrive'.				
+132	36	изготовить	yε	SBJ	DO	TR	TR	Kofi yε-ε nkurafidie bi	PN be/do-PST mousetrap INDEF	‘Kofi made a mousetrap.’					
+132	37	издеваться	di fεw	SBJ	ho	Y	SBJ_ho	Kofi re-di nanabarima ho fεw	PN PROG-handle grandfather about mockery	‘Kofi is making fun of grangfather.’	CV				
+132	38	иметь	wᴐ	SBJ	DO	TR	TR	Kofi wᴐ lᴐᴐle bi	PN have(3SG.PRS) car INDEF	‘Kofi has a car.’					
+132	39	искать	hwehwε	SBJ	DO	TR	TR	Kofi re-hwehwε ne safoa	PN PROG-look 3SG(POSS) key	‘Kofi is looking for his key.’					
+132	40	красить	ka	SBJ	ho	Y	SBJ_ho	Kofi ka-a ban no ho	PN touch-PST fence DEF about	‘Kofi painted the fence.’	In the dictionary, the verb means 'to touch'.				
+132	41	кусать	ka	SBJ	DO	TR	TR	ᴐkraman bi ka-a nanabarima	dog INDEF touch-PST grandfather	‘A dog bit grandfather.’	In the dictionary, the verb means 'to touch'.				
+132	42	лишаться	hwere	SBJ	DO	TR	TR	Kofi hwere-e ne fie	PN lose-PST 3SG(POSS) house	‘Kofi lost his house.’					
+132	43	ловить	kyere	SBJ	DO	TR	TR	Kofi re-kyere ᴐkra no	PN PROG-catch cat DEF	‘Kofi is trying to catch the cat.’					
+132	44	ломать	bu	SBJ	DO	TR	TR	Kofi bu-u abaa bi	PN break-PST stick INDEF	‘Kofi broke a stick.’					
+132	45	льстить	dεfεdεfε	SBJ	DO	TR	TR	Kofi re-dεfεdεfε nanabarima	PN PROG-flatter grandfather	‘Kofi is flattering grandfather.’					
+132	46	любить-1	dᴐ	SBJ	DO	TR	TR	Kofi dᴐ nanabarima	PN love(3SG.PRS) grandfather	‘Kofi loves grandfather.’					
+132	47	махать	woso	SBJ	DO	TR	TR	Kofi re-woso duku bi	PN PROG-wave handkerchief INDEF	‘Kofi is waving a handkerchief.’					
+132	48	мечтать	so daeε	SBJ	ho	Y	SBJ_ho	Kofi re-so lᴐᴐle mono bi ho daeε	PN PROG-reach car new INDEF about dream	‘Kofi is dreaming of a new car.’	CV				
+132	49	мыть	hohoro	SBJ	DO	TR	TR	Kofi hohoro-o kuruwa no	PN wash-PST cup DEF	‘Kofi washed the cup.’					
+132	50	надевать	hyε	SBJ	DO	TR	TR	Kofi hyε-ε ne trokoso	PN put(on)-PST 3SG(POSS) trousers	‘Kofi put on his trousers.’					
+132	51	называться	frε	DO	PSEUDOOBJ	XY	DO_PSEUDOOBJ	saa akadeε yi yε-frε-ε no kᴐmpase	this tool DEF 1PL-call-PST DEF compass	‘This tool is called a compass.’	Probably, “no” should be interpreted as a 3SG.O marker. At any event, this structure involves topicalization (cf. ‘This thing, we call it compass’) and the verb as such is transitive, with the thing given the name being the direct object.				
+132	52	наказывать	twe aso	SBJ	DO	TR	TR	Kofi twe-e ne babarima aso	PN pull-PST 3SG(POSS) son ear	‘Kofi punished his son.’	CV				
+132	53	напасть	tohyε	SBJ	so	Y	SBJ_so	pataku bi tohyε-ε ᴐpofoni bi so	bear INDEF attack-PST fisherman INDEF on	‘A bear attacked a fisherman.’					
+132	54	наполняться	hyε ma	mu	SBJ	X	mu_SBJ	nsuo hyε-ε bokiti no mu ma	water stick-PST bucket DEF in full	‘The bucket filled with water.’	"CV. In the dictionary (p. 205) the meaning of ""hyε ma"" is described as ""to make full""."				
+132	55	находить	hunu	SBJ	DO	TR	TR	Kofi hunu-u ne n-safoa	PN find-PST 3SG(POSS) PL-key	‘Kofi found his keys.’					
+132	56	недоставать	nni	SBJ	DO	TR	TR	Kofi nni euro baako	PN lack(3SG) euro one	‘Kofi lacks one euro.’					
+132	57	ненавидеть	tan	SBJ	DO	TR	TR	Kofi tan nanabarima	PN hate(3SG.PRS) grandfather	‘Kofi hates grandfather.’	"In the dictionary, the verb is spelled ""taŋ""."				
+132	58	нравиться	pε	SBJ	DO	TR	TR	Kofi pε saa atadeε yi	PN like(3SG.PRS) this shirt DEF	‘Kofi likes this shirt.’					
+132	59	нуждаться	hia	SBJ	DO	TR	TR	Kofi hia sika	PN need(3SG.PRS) money	‘Kofi needs money.’					
+132	60	окружать	twa	SBJ	hyia	Y	SBJ_hyia	a-fasuo twa kuropᴐn no hyia	PL-wall cut city DET around	‘Walls surround the city.’	"CV. In the dictionary (p. 212) the 11th meaning of ""hyia""."				
+132	61	оставаться	ka	*	*	*		a-ka Kofi 10 euros	PERF-leave PN 10 euros	‘Kofi has 10 euros left.’	Not included in the database because X is expressed as an NP-internal modifier.				
+132	62	отвечать	bua	SBJ	DO	TR	TR	Kofi bua-a ᴐkyerεkyerεni no	PN answer-PST teacher DEF	‘Kofi answered the teacher.’					
+132	63	открывать	bue	SBJ	DO	TR	TR	Kofi bue-e toa no	PN open-PST can DEF	‘Kofi opened the can.’					
+132	64	отличаться	danso firi	SBJ	ho	Y	SBJ_ho	daabi, m’=atadeε no danso firi wo deε ho	no(NEG) 1SG(POSS)=shirt DEF to_be_distinguished come.out 2SG POSS about	‘No, my shirt is different from yours.’	CV				
+132	65	отстать	ka	SBJ	akyi	Y	SBJ_akyi	Kofi ka-a nanabarima akyi	PN touch-PST grandfather behind	‘Kofi fell behind grandfather.’	In the dictionary, the verb means 'to touch'.				
+132	66	пахать	funtum	SBJ	DO	TR	TR	Kofi re-funtum asaase no	PN PROG-plough field DEF	‘Kofi is ploughing the field.’					
+132	67	пахнуть	hwa	SBJ	tese	Y	SBJ_tese	me nsa hwa tesε fagoo	1SG(POSS) hands smell like gasoline	‘My hands smell like gasoline.’					
+132	68	пересечь	twa	SBJ	DO	TR	TR	Kofi twa-a kwan no	PN cut-PST road DEF	‘Kofi crossed the road.’					
+132	69	петь	to	SBJ	DO	TR	TR	Kofi to-o dwom dεεdε bi	PN throw-PST song beautiful INDEF	‘Kofi sang a beautiful song.’					
+132	70	писать	twerε	SBJ	DO	TR	TR	Kofi twerε-ε krataa bi	PN write-PST letter INDEF	‘Kofi wrote a letter.’					
+132	71	пить	nom	SBJ	DO	TR	TR	Kofi nom-m meekye no	PN drink-PST milk DEF	‘Kofi drank the milk.’					
+132	72	плавить	naane	SBJ	DO	TR	TR	Kofi naane-e kᴐbere sini bi	PN melt-PST lead piece INDEF	‘Kofi melted a piece of lead.’					
+132	73	подходить	kᴐ yie	*	*	*		saa abᴐso yi ne m’=atadeε kᴐ yie	this belt DEF CONJ 1SG.POSS=dress go(PRS) well	‘This belt goes well with my dress.’	Not included in the database because X and Y are expressed as a coordinate NP.				
+132	74	покидать	firi	SBJ	DO	TR	TR	Kofi firi-i ne a kuropᴐn ofirim	PN leave-PST 3SG.POSS INDEF city native	‘Kofi left his native city.’					
+132	75	покрывать	kata	SBJ	DO	TR	TR	ntiasoᴐ no kata fam no nyinaa	carpet DEF cover(3SG.PRS) floor DEF whole	‘The carpet covers the whole floor.’					
+132	76	помнить	kae	SBJ	DO	TR	TR	Kofi kae fie no yie	PN remember(3SG.PRS) house DEF well	‘Kofi remembers the house well.’					
+132	77	помочь	boa	SBJ	DO	TR	TR	Kofi boa-a nanabarima	PN help-PST grandfather	‘Kofi helped grandfather.’					
+132	78	понимать	te ase	SBJ	DO	TR	TR	Kofi te Franse kasa ase	PN perceive(3SG.PRS) French language sense	‘Kofi understands French.’	CV				
+132	79	попасть	bᴐ	SBJ	DO	TR	TR	ayiremo bᴐ-ᴐ fie no	lightning hit-PST house DEF	‘Lightning hit the house.’					
+132	80	порезаться	twa ne ho	*	*	*		Kofi de bleedi bi twa-a ne ho	PN hold blade INDEF cut-PST 3SG.POSS about	‘Kofi cut himself with a blade.’	Not included in the database because the intended meaning is expressed by a combination of two clauses.				
+132	81	прилипать	ka	SBJ	so	Y	SBJ_so	abobᴐdeε no ka-a pono no so	glass DEF touch-PST table DEF on	‘The glass got stuck to the table.’	In the dictionary, the verb means 'to touch'.				
+132	82	проиграть	di nkoguo	SBJ	wo	Y	SBJ_wo	Kofi di-i nkoguo wᴐ nanabarima	PN handle-PST failure at<have(3SG.PRS) grandfather	‘Kofi lost to grandfather.’	CV				
+132	83	радоваться	ani gye	*	*	*		Kofi ani gye-e krataa no ho	PN eye take-PST letter DEF about	‘Kofi was rejoiced about the letter.’	Not included in the database because X is expressed as an NP-internal modifier.				
+132	84	разговаривать	kasa	*	*	*		Kofi ne nanabarima re-kasa	PN CONJ grandfather PROG-speak	‘Kofi is speaking with grandfather.’	Not included in the database because X and Y are expressed as a coordinate NP.				
+132	85	рожать	wo	SBJ	DO	TR	TR	maame no wo-o babarima bi	woman DEF give_birth-PST son INDEF	‘The woman gave birth to a son.’					
+132	86	ронять	gya	SBJ	mu	Y	SBJ_mu	Kofi gya-a abobᴐdeε no mu	PN leavep-PST glass DEF in	‘Kofi dropped the glass.’					
+132	87	руководить	di	SBJ	so	Y	SBJ_so	Kofi di yεn kuro so	PN handle(3SG.PRS) 1P.PL(POSS) town on	‘Kofi governs our town.’					
+132	88	скучать	afe	SBJ	DO	TR	TR	Kofi afe nanabarima	PN miss(3SG.PRS) grandfather	‘Kofi misses grandfather.’					
+132	89	следовать	di	SBJ	akyi	Y	SBJ_akyi	Kofi di nanabarima akyi	PN handle(3SG.PRS) grandfather behind	‘Kofi follows grandfather					
+132	90	слезать	sifiri	SBJ	so	Y	SBJ_so	Kofi sifiri-i pᴐnkᴐ no so	PN get_down-PST horse DEF on	‘Kofi got down from the horse.’					
+132	91	слушать	tie	SBJ	DO	TR	TR	Kofi re-tie kasanoma	PN PROG-listen radio	‘Kofi is listening to radio.’					
+132	92	слушаться	tie	SBJ	DO	TR	TR	Kofi tie ne maame aberebiara	PN listen(PRS) 3SG.POSS mother always	‘Kofi always listens to his mother.’					
+132	93	слышать	te	SBJ	DO	TR	TR	Kofi te nwom no	PN perceive(3SG.PRS) music DEF	‘Kofi hears the music.’					
+132	94	смешаться	fra	SBJ	DO	TR	TR	εwoᴐ no fra-a meekye no	honey DEF mix-PST milk DEF	‘The honey got mixed with the milk.’					
+132	95	смотреть	hwε	SBJ	DO	TR	TR	Kofi re-hwε m-mununkum no	PN PROG-look PL-cloud DEF	‘Kofi is looking at the clouds.’					
+132	96	снимать	woro	SBJ	DO	TR	TR	Kofi woro-o n’=atadeε	PN take_off-PST 3SG.POSS=shirt	‘Kofi took off his shirt.’					
+132	97	сниться	so daeε	SBJ	ho	Y	SBJ_ho	Kofi so nanabarima ho daeε	PN reach grandfather about dream	‘Kofi dreams about grandfather.’	CV				
+132	98	соглашаться	yε adwene	*	*	*		Kofi ne nanabarima yε-ε adwene	PN with grandfather be/do-PST mind	‘Kofi agreed with grandfather.’	Not included in the database because X and Y are expressed as a coordinate NP.				
+132	99	ссориться	wᴐ akasakasa	*	*	*		Kofi ne nanabarima wᴐ akasakasa bi	PN with grandfather have(3SG.PRS) quarrel INDEF	‘Kofi has a quarrel with grandfather.’	Not included in the database because X and Y are expressed as a coordinate NP.				
+132	100	стоить	yε	SBJ	DO	TR	TR	saa kuruwa yi yε baako euro	this cup DEF be/do one euro	‘This cup costs one euro.’					
+132	101	стрелять	to tuo	SBJ	DO	TR	TR	Kofi to-o anomaa no tuo	PN throw-PST bird DEF gun	‘Kofi shot at the bird.’	CV				
+132	102	сыпать	hwie	SBJ	DO	TR	TR	Kofi hwie-e asikyire no	PN pour-PST sugar DEF	‘Kofi poured the sugar.’					
+132	103	терять	year	SBJ	DO	TR	TR	Kofi yera-a ne n-safoa	PN lose-PST 3SG(POSS) PL-key	‘Kofi lost his keys.’					
+132	104	тонуть	mem	SBJ	mu	Y	SBJ_mu	dua no mem-m nsuo no mu	tree DEF sink-PST river DEF in	‘The log sank in the river.’					
+132	105	убивать	kum	SBJ	DO	TR	TR	Kofi kum-m nanabarima	PN kill-PST grandfather	‘Kofi killed grandfather.’					
+132	106	ударить	bᴐ	SBJ	DO	TR	TR	Kofi bᴐ-ᴐ nanabarima	PN hit-PST grandfather	‘Kofi hit grandfather.’					
+132	107	целовать	fe ano	SBJ	DO	TR	TR	Kofi fe-e nanabarima ano	PN like-PST grandfather lip	‘Kofi kissed grandfather.’	CV				
+132	108	читать	kan	SBJ	DO	TR	TR	Kofi kan-n nwoma anikanika bi	PN read-PST book interesting INDEF	‘Kofi read an interesting book.’					
+132	109	шевелить	keka	SBJ	DO	TR	TR	Kofi keka-a ne nsatea	PN move-PST 3SG(POSS) finger	‘Kofi moved his finger.’					
+132	110	уважать	bu	SBJ	DO	TR	TR	Kofi bu nanabarima	PN respect(3SG.PRS) grandfather	‘Kofi respects grandfather.’					
+132	111	брезговать	akyiwadeɛ yɛ	*	*	*		Kofi akyiwadeɛ yɛ n-kukuo fi	PN taboo is PL-dish dirty	‘Kofi is squeamish about dirty dishes,’ lit. ‘Kofi’s taboo is dirty dishes..’	Not included in the database because X is expressed as an NP-internal modifier.				
+132	112	быть довольным	bodwo	SBJ	ho	Y	SBJ_ho	Kofi bodwo-o ne ba no ho	PN be_satisfied-PST 3SG(POSS) son DEF about	‘Kofi is satisfied with his son.’					
+132	113	влюбляться	tᴐ dᴐ	*	*	*		Kofi tᴐ-ᴐ Mary dᴐ mu	PN fall-PST PN love in	‘Kofi fell in love with Mary.’	Not included in the database because Y is expressed as an NP-internal modifier.				
+132	114	доверять	wᴐ awerɛhyɛm	SBJ	mu	Y	SBJ_mu	Kofi wᴐ nanabarima mu awerɛhyɛm	PN have(3SG.PRS) grandfather in trust	Kofi has trust in grandfather.’	CV				
+132	115	жалеть	wᴐ tema	SBJ	ma	Y	SBJ_ma	Kofi wᴐ tema ma ne maame	PN have(3SG.PRS) sympathy for 3SG(POSS) mother	‘Kofi sympathises with his mother.’.	CV. Although most adpositions are used as postpositions, here, “ma” is used a preposition.				
+132	116	завидовать	anibere	SBJ	DO	TR	TR	Kofi anibere nanabarima	PN envy(3SG.PRS) grandfather	‘Kofi envies grandfather.’					
+132	117	злиться	bo fu	*	*	*		Kofi bo a-fu nanabarima	PN breast PERF-swell grandfather	‘Kofi is angry with his grandfather.’	Not included in the database because X is expressed as an NP-internal modifier. Arguably, this sentence literally means ‘Kofi’s breast got swollen at his grandfather’. See (Christaller 1933: 29, 142)				
+132	118	удивляться	dwiri	ho	wo	XY	ho_wo	Kofi ho dwiri-i no wᴐ saa akyεdeε yi	PN about disperse-PST DEF at<have(3SG.PRS) this gift DEF	‘Kofi was surprised at this gift.’	The identification of the valency pattern is tentative. The postposition “ho” is the grammaticalized use of the original noun ‘exterior’.				
+132	119	любить-2	dᴐ	SBJ	DO	TR	TR	Kofi dᴐ tee	PN love(3SG.PRS) tea	‘Kofi loves tea.’					
+132	120	наслаждаться	ani gye	*	*	*		Kofi ani gye tee hyeehye ho	PN eye take(3SG.PRS) tea hot about	‘Kofi enjoys hot tea.’	Not included in the database because X is expressed as an NP-internal modifier.				
+132	121	хотеть	hia	SBJ	DO	TR	TR	Kofi hia fon foforᴐ	PN want(3SG.PRS) phone new	‘Kofi wants a new mobile phone.’					
+132	122	сердиться	wᴐ trimpᴐ	SBJ	ho	Y	SBJ_ho	Kofi wᴐ nanabarima ho trimpᴐ	PN have(3SG.PRS) grandfather about grudge	‘Kofi has a grudge against grandfather.’	CV				
+132	123	обижаться	bo fu	*	*	*		Kofi bo fu-u nanabarima	PN breast swell-PST grandfather	‘Kofi got cross with grandfather.’	Not included in the database because X is expressed as an NP-internal modifier. Arguably, this sentence literally means ‘Kofi’s breast got swollen at his grandfather’. See (Christaller 1933: 29, 142)				
+132	124	огорчать	bu fu	*	*	*		Kofi bu fu-u nanabarima paa	PN break swell-PST grandfather greatly	‘Kofi greatly upset grandfather.’	"This structure is not clear. Probably, this is a transitive complex verb. Cf. 123. Kwadwo’s comment: ""Unhappy/upset/angry are translated as ‘abufuo’ that is noun/ ‘bu fuu’ that is verb(PST)."""				
+132	125	поражаться	ani gye	*	*	*		Kofi ani gye-e kuro yi ho	PN eye take-PST town this about	‘Kofi was impressed by this town.’	Not included in the database because X is expressed as an NP-internal modifier.				
+132	126	презирать	tan	SBJ	DO	TR	TR	Kofi tan nanabarima	PN despise(3SG.PRS) grandfather	‘Kofi despises grandfather.’	"In the dictionary, the verb is spelled ""taŋ""."				
+132	127	огорчаться	bo fu	*	*	*		Kofi bo fu-u ne babarima	PN breast swell-PST 3SG(POSS) son	‘Kofi got upset with his son.’	Not included in the database because X is expressed as an NP-internal modifier. Arguably, this sentence literally means ‘Kofi’s breast got swollen at his son’. See (Christaller 1933: 29, 142)				
+132	128	раздражаться	nya abufuo	SBJ	ho	Y	SBJ_ho	Kofi re-nya ne babaa ho abufuo	PN PROG-get 3SG(POSS) daughter about irritated	‘Kofi is getting arritated by his daughter.’	CV				
+132	129	симпатизировать	ani gye	*	*	*		Kofi ani gye nanabarima ho	PN eye take grandfather about	‘Kofi is fond of grandfather.’	Not included in the database because X is expressed as an NP-internal modifier.				
+132	130	стесняться	fɛre	SBJ	ho	Y	SBJ_ho	Kofi fɛre ne tenten ho	PN be_shy 3SG(POSS ) height about	‘Kofi is shy about his height.’					
 105	1	болеть-1	awrumaq	GEN	NOM	X	GEN_NOM	patimat-nɨ baš-ɨ awru-j	PN-GEN head-3SG ache-3SG	‘Patimat has a headache.’			‘У Патимат болит голова.’	аврумакъ	Патиматны башы авруй.
 105	2	болеть-2	awrumaq	NOM	ABL	Y	NOM_ABL	patimat grip-den awru-j	PN influenza-ABL ache-3SG	‘Patimat has the flu.’			‘Патимат болеет гриппом.’	аврумакъ	Патимат грипден авруй.
 105	3	бояться	qorqmaq	NOM	ABL	Y	NOM_ABL	patimat it-den qorq-a	PN dog-ABL fear-3SG	‘Patimat is afraid of the dog.’			‘Патимат боится собаки.’	къоркъмакъ	Патимат итден къоркъа.
