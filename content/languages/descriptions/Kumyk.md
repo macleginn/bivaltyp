@@ -22,10 +22,10 @@ The data come from the Kayakent and Yangikent varieties of the Kaytag dialect of
 ### Basic clause structure and the transitive construction
 In the transitive construction, nominal subjects are used in the unmarked form and direct objects are used either in the unmarked form or in the accusative case depending on their animacy and referentiality (Differential Object Marking).
 
-The predicate agrees with the subject in person and number. Non-core arguments are flagged by oblique cases or, rarely, by postpositions. These postpositions are often inflected according to their objects person and number. The genitive case can mark clause-level constituents standing in a possessive relationship with the subject, see examples 1, 5, 38 etc. below. Such clause-level genitive constituents can be freely separated from their (semantic) possessees.
+The predicate agrees with the subject in person and number. Non-core arguments are flagged by oblique cases or, rarely, by postpositions. These postpositions are often inflected according to their object's person and number. The genitive case can mark clause-level constituents standing in a possessive relationship with the subject, see examples 1, 5, 38 etc. below. Such clause-level genitive constituents can be freely separated from their (semantic) possessees.
 
 ### Case system
-The case system includes five cases for nouns, viz. the unmarked nominative, genitive, accusative, dative, locative and ablative. However, the distinction between the genitive case and the accusative case if often neutralized. It is always overt in the so-called possessive declension, where the nouns also bears a possessive suffix.
+The case system includes six cases for nouns, viz. the unmarked nominative, genitive, accusative, dative, locative, and ablative. However, the distinction between the genitive case and the accusative case if often neutralized. It is always overt in the so-called possessive declension, where the nouns also bears a possessive suffix.
 
 ## Verb lemmas
 The verbs are shown in the form of the infinitive in *-maq*.
