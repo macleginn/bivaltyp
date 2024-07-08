@@ -31,7 +31,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а	*	*	*	*		No satisfactory translation has been obtained.	*	*	*			
 128	Bafut	31	call	X (call) Y	звать	X (звать) Y-а	twóŋə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ twóŋə̂ sùù	PN SM P2 call PN	‘Ambe called Suh.’			
 128	Bafut	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом	ʒí	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ ʒí sùù á ǹdᵼ̀m lòò jìmfùrᵼ̀	PN SM P2 know PN at back/PREP year one	‘Ambe got to know Suh a year ago.’			Same as 33.
-128	Bafut	33	know	X (know) Y	знать 	X (знать) Y-а	ʒî	SBJ	DO	TR	TR		àmbɛ́ à ʒî sùù	PN SM know PN	‘Ambe knows Suh’			Same as 32.
+128	Bafut	33	know	X (know) Y	знать 	X (знать) Y-а	ʒí	SBJ	DO	TR	TR		àmbɛ́ à ʒí sùù	PN SM know PN	‘Ambe knows Suh’			Same as 32.
 128	Bafut	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е	bùʔú	SBJ	DO	TR	TR		àmbɛ́ à bùʔú-tɨ̀ nɨ̀lúŋə̀ njà	PN SM play-IPFV guitar DEF	‘Ambe is playing the guitar.’			
 128	Bafut	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	nkɣə̂	SBJ	DO	TR	TR		àmbɛ́ à nkɣə̂ sùù	PN SM run PN	‘Ambe avoids Suh.’			
 128	Bafut	36	make	X (make) Y	изготовить	X (изготовить) Y	náŋsə́	SBJ	DO	TR	TR		ambɛ́ à kɨ̀ náŋsə́ mátáà kò fórə̀	PN SM P2 make trap catch mouse	‘Ambe made a mousetrap.’			
@@ -74,10 +74,10 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	kùʔùnə̂	SBJ	ni	Y	SBJ_ni		ᵼ́-bɔ̀ŋə̂ ᵼ̀kò jù kùʔùnə̂ nᵼ̀ àtsə̀ʔə̀ ɣà	it’s-nice belt this fit with1 dress my	‘Great, this belt goes well with my dress.’			
 128	Bafut	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	lòô	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ lòô àláʔà jì	PN SM P2 leave village his	‘Ambe left his village.’			
 128	Bafut	75	cover	X (cover) Y	покрывать	X (покрывать) Y	bɔ̌ntᵼ̀	SBJ	DO	TR	TR		àtsə̀ʔə̀ nʃjé já bɔ̌ntᵼ̀ ǹdâ já ǹtím	dress ground DEF cover house DEF whole	‘The carpet covers the whole floor.’			
-128	Bafut	76	remember	X (remember) Y	помнить	X (помнить) Y-а	wáʔátə́	SBJ	DO	TR	TR		àmbɛ́ à wáʔátə́-nᵼ̀ ǹdâ já sᵼ́gᵼ́nᵼ̀	PN SM remember-IPFV house DEF well	‘Ambe remembers the house well.’			Same as 25 and 48.
+128	Bafut	76	remember	X (remember) Y	помнить	X (помнить) Y-а	wáʔátə̂	SBJ	DO	TR	TR		àmbɛ́ à wáʔátə́-nᵼ̀ ǹdâ já sᵼ́gᵼ́nᵼ̀	PN SM remember-IPFV house DEF well	‘Ambe remembers the house well.’			Same as 25 and 48.
 128	Bafut	77	help	X (help) Y	помочь	X (помогать) Y-у	kwɛ́tə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ kwɛ́tə̂ sùù	PN SM P2 help PN	‘Ambe helped Suh.’			
-128	Bafut	78	understand	X (understand) Y	понимать	X (понимать) Y	júʔu	SBJ	DO	TR	TR		àmbɛ́ à júʔú-nɨ̀ ɣàâ tó njá	PN SM hear-IPFV language country DEF 	‘Ambe understands the country’s language.’ 			
-128	Bafut	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	tɔ́ɔ̂	SBJ	DO	TR	TR		ŋkàʔâ-nwì à kɨ̀ tɔ́ɔ̂ ǹdâ já	light-god SM P2 hit house DEF	‘Lightning hit the house.’			
+128	Bafut	78	understand	X (understand) Y	понимать	X (понимать) Y	júʔú	SBJ	DO	TR	TR		àmbɛ́ à júʔú-nɨ̀ ɣàâ tó njá	PN SM hear-IPFV language country DEF 	‘Ambe understands the country’s language.’ 			Same as 91.
+128	Bafut	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	tɔ̀ɔ̂	SBJ	DO	TR	TR		ŋkàʔâ-nwì à kɨ̀ tɔ̀ɔ̂ ǹdâ já	light-god SM P2 burn house DEF	‘Lightning hit the house.’			
 128	Bafut	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	ʃjé	SBJ	ni	Y	SBJ_ni		àmbɛ́ à lɨ́ ʃjé nú jì nᵼ̀ ʃwáʔà	PN SM P1 cut body/PREP his with1 razor	‘Ambe cut himself with a razor.’			CV
 128	Bafut	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	ntáŋ	SBJ	a.atu	Y	SBJ_a.atu		ndɔ́ŋ já ì kᵼ̀ ntáŋ á àtû àtɛ́tᵼ̀ njá	glass DEF SM P2 stuck at head/PREP table DEF	‘The glass got stuck to the table.’			
 128	Bafut	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	wó	SBJ	mbo	Y	SBJ_mbo		àmbɛ́ à lɨ́ wó m̀bô sùù	PN SM P1 fail for PN	‘Ambe lost to Suh.’			
@@ -89,7 +89,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	*	*	*	*		No satisfactory translation has been obtained.	*	*	*			
 128	Bafut	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	jóŋə̂	SBJ	DO	TR	TR		àmbɛ́ à jóŋə̂ sùù	PN SM follow PN	‘Ambe follows Suh.’			Same verb as 15 (different pattern).
 128	Bafut	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	sᵼ́gə̂	SBJ	ndim	Y	SBJ_a.ndim		àmbɛ́ à kɨ̀ sᵼ́gə̂ á ǹdím léŋə́ wá	PN SM P2 descend at back/PREP horse DEF	‘Ambe got down from the horse.’			
-128	Bafut	91	listen	X (listen) to Y	слушать	X (слушать) Y	júʔútə́	SBJ	DO	TR	TR		àmbɛ́ à júʔútə́-nᵼ̀ nᵼ̀lòŋ	PN SM listen-IPFV radio	‘Ambe is listening to radio.’			Same as 28.
+128	Bafut	91	listen	X (listen) to Y	слушать	X (слушать) Y	júʔú	SBJ	DO	TR	TR		àmbɛ́ à júʔú-nᵼ̀ nᵼ̀lòŋ	PN SM listen-IPFV radio	‘Ambe is listening to radio.’			Same as 78.
 128	Bafut	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	njúʔútə́ ǹtsù	*	*	*		Not included in the database because Y is expressed as an NP-internal modifier.	àmbɛ́ à ɣáʔásə̂ njúʔútə́ ǹtsù ǹdì jì	PN SM always listen mouth mother his	‘Ambe always obeys his mother.’			
 128	Bafut	93	hear	X (hear) Y	слышать	X (слышать) Y	njúʔútə́	SBJ	DO	TR	TR		àmbɛ́ à njúʔútə́ ᵼ̀kòò wá	PN SM hear song DEF	‘Ambe hears the song.’			
 128	Bafut	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	bóòntə́	SBJ	bojo	Y	SBJ_bojo		nú já í lᵼ́ bóòntə́ bɔ́ʔɔ́ mílíkə̀ já	honey DEF SM P1 mix with2.INAN milk DEF	‘The honey got mixed with the milk.’			
@@ -101,7 +101,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	COP	SBJ	PRED	Y	SBJ_PRED	Non-verbal predicate	ndɔ́ŋ jú ᵼ̀ ŋ̀kɣᵼ̀ jìmfùrᵼ̀	cup this SM hundred one	‘This cup costs one hundred.’			
 128	Bafut	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	túmə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ túmə̂ sᵼ́ŋ wá	PN SM P2 shoot bird DEF	‘Ambe shot the bird.’			
 128	Bafut	102	pour	X (pour) Y	сыпать	X (сыпать) Y	nᵼ́ŋə́	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ nᵼ́ŋə́ súgà wá	PN SM P2 put sugar DEF	‘Ambe poured the sugar.’			
-128	Bafut	103	lose	X (lose) Y	терять	X (терять) Y	???	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ bɨ̀-kwáʔà bàʔà dʒí 	PN SM P2 PL-opener door his	‘Ame lost his keys.’			
+128	Bafut	103	lose	X (lose) Y	терять	X (терять) Y	bwé	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ bwé bɨ̀-kwáʔà bàʔà dʒí 	PN SM P2 lose PL-opener door his	‘Ame lost his keys.’			
 128	Bafut	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sɨ́gə̂ ɣɛ̀ɛ́	SBJ	a.mfeng	Y	SBJ_a.mfeng		mamúʔù tí wá à kɨ̀ sɨ́gə̂ ɣɛ̀ɛ́ á mfə̀ŋ ŋ̀kxì wá	big stick DEF SM P2 descend go at buttocks/PREP water DEF	‘The log sank in the water.’			CV. "mfə̀ŋ" is originally a noun for ‘buttocks/anus/vagina/penis’ that gets grammaticalized in many contexts, developing into a preposition-like element.
 128	Bafut	105	kill	X (kill) Y	убивать	X (убивать) Y-а	ʒwítə́	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ ʒwítə́ sùù	PN SM P2 kill PN	‘Ambe killed Suh.’			
 128	Bafut	106	hit	X (hit) Y	ударить	X (ударять) Y-а	kwínə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ kwínə̂ sùù	PN SM P2 hit PN	‘Ambe hit Suh.’			
@@ -121,7 +121,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	kɔ̀ŋə̂	*	*	*		Not included in the database because this translation is semantically inaccurate.	àmbɛ́ à kɔ̀ŋə̂ tíí ᵼ̀lòò	PN SM love tea hot	‘Ambe loves hot tea.’			
 128	Bafut	121	want	X (want) Y	хотеть	X (хотеть) Y-а	lɔ̀ɔ̂	SBJ	DO	TR	TR		àmbɛ́ à lɔ̀ɔ̂ ndə̀ŋ jímfíî	PN SM want mobile_phone new	‘Ambe wants a new mobile phone.’			Same as 39 and 59.
 128	Bafut	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	bíʔî … múm ntᵼ́ᵼ́ jì	SBJ	DO	TR	TR		àmbɛ́ à bíʔî-nᵼ̀ sùù múm ntᵼ́ᵼ́ jì	PN SM carry-IPFV PN inside heart his	‘Ambe is angry with Suh.’			CV. Alternative is “àmbɛ́ à lwǐ-sᵼ̀ ntɔ̂ŋ á nú sùù” [Ambe SM bitter-IPFV neck/PREP at body/PREP Suh] “Ambe has a grudge against Suh.” with the structure SBJ_ntong.a.nu
-128	Bafut	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	jáŋə̀	*	*	*		Not included in the database because X is expressed in a dependent clause.	nù jìí mə̀ sùù ɣᵼ̀rə̂ ᵼ̀ kɨ̀ jáŋə̀ àmbɛ́	thing which COMP PN make/do SM P2 pain PN	‘What Suh did offended Ambe.’			
+128	Bafut	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	jáŋə̀	*	*	*		Not included in the database because X is expressed in a dependent clause.	nù jìí mə̀ sùù ɣᵼ̀rə̂ ᵼ̀ kɨ̀ jáŋə̀ àmbɛ́	thing which COMP PN make/do SM P2 hurt PN	‘What Suh did offended Ambe.’			
 128	Bafut	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	ɣᵼ̀rə̂ … lwǐ	SBJ	ntong	Y	SBJ_ntong		àmbɛ́ à ɣᵼ̀rə̂ ntɔ̂ŋ sùù lwǐ ʃíʔí ʃíʔí	PN SM make neck/PREP PN bitter a_lot a_lot	‘Ambe greatly upset Suh.’			CV. ntɔ̂ŋ is originally a noun for ‘neck’ that gets grammaticalized in many contexts, developing into a preposition-like element.
 128	Bafut	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	bɔ̀ŋə̂	nu	a.nu	XY	nu_a.nu		nú àmbɛ́ ᵼ̀ kɨ̀ bɔ̀ŋə̂ á nù mûmə̀láʔà jú	body/PREP PN SM P2 be_good at body/PREP village_center this	‘Ambe was impressed by this town.’			nú is originally a noun for ‘body’ that gets grammaticalized in many contexts, developing into a preposition-like element.
 128	Bafut	126	despise	X (despise) Y	презирать	X (презирать) Y-а	bǎ	*	*	*		Not included in the database because this translation is semantically inaccurate.	àmbɛ́ à bǎ sùù	PN SM hate PN	‘Ambe hates Suh.’			
