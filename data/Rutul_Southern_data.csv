@@ -9,7 +9,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 108	Rutul_Southern	8	take	X (take) Y	взять	X (брать) Y(-а)	laˤşuˤn	ERG	NOM	TR	TR		murad-a kitab laˤşuˤ-r	PN-ERG book (N)take.PF-AOR	‘Murad took a book.’			
 108	Rutul_Southern	9	see	X (see) Y	видеть	X (видеть) Y(-а)	ğagun	DAT	NOM	X	DAT_NOM		murad-ı-s xal ğagva-r	PN-OBL-DAT house N.see.IPF-PRS	‘Murad sees a house.’			
 108	Rutul_Southern	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	teʔsir hıʔın	ERG	DAT	Y	ERG_DAT		yaş-a-ra yaddaş-a-s teʔsir haʔa-r	age-OBL-ERG memory-OBL-DAT influence (N)do.IPF-PRS	‘Age influences memory.’			CV
-108	Rutul_Southern	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	tüş yişin	NOM	SUPER	Y	NOM_SUPER	Non-verbal predicate.	murad natig-aa tüş yişi-r	PN PN-SUPER meet M.be.PF-AOR	‘Murad encountered Natig.’			
+108	Rutul_Southern	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	tüş yişin	NOM	SUPER	Y	NOM_SUPER	Non-verbal predicate. The inverse pattern (SUPER_NOM) is also possible, but this one is more common.	murad natig-aa tüş yişi-r	PN PN-SUPER meet M.be.PF-AOR	‘Murad encountered Natig.’			
 108	Rutul_Southern	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	aˤç'uˤn	NOM	IN	Y	NOM_IN		murad xal-a aˤç'uˤ-r	PN house-IN (M)enter.PF-AOR	‘Murad entered the house.’			
 108	Rutul_Southern	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	uˤʔuˤ yişin	NOM	DAT	Y	NOM_DAT	Non-verbal predicate.	murad natig-ı-s uˤʔuˤ yişi-r	PN PN-OBL-DAT brave M.be.PF-AOR	‘Murad beat Natig.’			
 108	Rutul_Southern	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	aˤğaˤç'uˤn	NOM	ABL	Y	NOM_ABL		murad xal-ıgı aˤğaˤç'uˤ-r	PN house-ABL (N)go_out.PF-AOR	‘Murad went out of the house.’			
