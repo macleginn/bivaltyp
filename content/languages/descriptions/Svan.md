@@ -22,6 +22,14 @@ The data were gathered in 2023. The language of elicitation was Georgian. The co
 ### Basic clause structure and the transitive construction
 Valency classes of Svan verbs are primarily defined by their case frames. However, many Svan verbs, including nearly all transitive verbs, display the so-called “case-shift”: a phenomenon whereby the case marking of arguments depends on the verb’s TAM form. Svan TAM forms group into so-called “series”, where Series I is present/future, Series II is aorist/optative; and Series III is perfect/pluperfect. Case marking in verbs that undergo case-shift is summarized in Table 1.
 
+Table 1. Verbs with case-shift: case marking in the three series
+
+| |Subject|Direct object|Indirect object|
+|:----|:----|:----|:----|
+|Series I: present/future|NOM|DAT|DAT|
+|Series II: aorist/optative|ERG|NOM|DAT|
+|Series III: perfect/pluperfect|DAT|NOM|OBL (i)|
+
 (i) OBL stands here for “oblique” and covers Benefactive and Sociative.
 
 For the purposes of the dataset below, the verb is considered transitive if and only if it displays case-shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” respectively, even if the actual sentence happens to belong to Series I, where we observe no ergative case-marking (Series III forms are not found in the questionnaire below). For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
