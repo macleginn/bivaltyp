@@ -10,12 +10,12 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 4	Estonian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	nägema	NOM	PART	Y	NOM_PART		Peeter näe-b maja	PN.SG.NOM see-PRS.3SG house.SG.PART	‘Peeter sees a house.’			
 4	Estonian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	mõjutama	NOM	PART	Y	NOM_PART		vanus mõjuta-b mälu	age.SG.NOM influence-PRS.3SG memory.SG.PART	‘Age influences memory.’			
 4	Estonian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	kohtama	NOM	PART	Y	NOM_PART		Peeter kohta-s Mareti-t	PN.SG.NOM encounter-PST.3SG PN-SG.PART	‘Peeter encountered Maret.’			
-4	Estonian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	sisenema	NOM	ILL	Y	NOM_ILL		Peeter sisene-s majja.	PN.SG.NOM enter-PST.3SG house.SG.ILL	‘Peeter entered the house.’			
+4	Estonian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	sisenema	NOM	ILL	Y	NOM_ILL		Peeter sisene-s majja	PN.SG.NOM enter-PST.3SG house.SG.ILL	‘Peeter entered the house.’			
 4	Estonian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	võitma	NOM	PART	Y	NOM_PART		Peeter võit-is Mareti-t	PN.SG.NOM win-PST.3SG PN-SG.PART	‘Peeter beat Maret.’			võitma means both 'to win (a game)' and 'to beat (someone in a game)'.
 4	Estonian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	väljuma	NOM	ELA	Y	NOM_ELA		Peeter väljus maja-st	PN.SG.NOM go_out.PST.3SG house-ELA	‘Peeter went out of the house.’			instead of väljuma, one could also say välja minema (välja 'out', minema 'to go')
 4	Estonian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	ajama	NOM	GEN~PART~NOM	TR	TR		Peeter aja-b lehma karjamaa-le	PN.SG.NOM drive-PRS.3SG cow.SG.PART pasture-ALL	‘Peeter is driving the cow to the pasture.’			another possibility would be to use the verb karjatama 'to drive to pasture'
 4	Estonian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	painutama	NOM	GEN~PART~NOM	TR	TR		Peeter painuta-s oksa	PN.SG.NOM bend-PST.3SG branch.SG.PART	‘Peeter bent the branch.’			
-4	Estonian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	ütlema	NOM	ALL	Y	NOM_ALL		Peeter ütles Mareti-le: ...	PN.SG.NOM say-PST.3SG PN-ALL	‘Peeter said to Maret: ...’			
+4	Estonian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	ütlema	NOM	ALL	Y	NOM_ALL		Peeter ütle-s Mareti-le: ...	PN.SG.NOM say-PST.3SG PN-ALL	‘Peeter said to Maret: ...’			
 4	Estonian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	hoidma	NOM	PART	Y	NOM_PART		Peeter hoia-b raamatu-t käe-s	PN.SG.NOM hold-PRS.3SG book-SG.PART hand-INESS	‘Peeter is holding the book in his hands.’			
 4	Estonian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	järele jõudma	NOM	ALL	Y	NOM_ALL	Phrasal verb (<i>järele</i> is not a flagging device).	Peeter jõud-is Mareti-le järele	PN.SG.NOM reach-PST.3SG PN-ALL after	‘Peeter caught up with Maret.’			CV
 4	Estonian	20	milk	X (milk) Y	доить	X (доить) Y-а	lüpsma	NOM	GEN~PART~NOM	TR	TR		Peeter lüps-is lehma	PN.SG.NOM milk-PST.3SG cow.SG.PART	‘Peeter milked the cow.’			
