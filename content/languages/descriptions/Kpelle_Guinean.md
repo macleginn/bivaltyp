@@ -52,4 +52,4 @@ Lemmas are shown in the form of bare stems.
 
 ## Glossing abbreviations
 
-ART — article; B — ???; COP — copula; DEF — definitve; DEM — demonstrative; EXCL — exclusive; FOC — focus; HAB — habitual; INF — infinitive; L — low; LOC — locative; NEG — negation; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRED — predicative; PRF — perfect; REFL — reflexive; SG — singular; STAT — stative.
+ART — article; B — basic auxiliary series; COP — copula; DEF — definitve; DEM — demonstrative; EXCL — exclusive; FOC — focus; HAB — habitual; INF — infinitive; L — low; LOC — locative; NEG — negation; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRED — predicative; PRF — perfect; REFL — reflexive; SG — singular; STAT — stative.
