@@ -47,5 +47,9 @@ Verbs lacking a direct object are intransitive. The word order in possessive NPs
 ### Case system
 There is no morphological case on nouns, although locative forms of some nouns can be viewed as peripheral case forms, e.g. *pɛ́lɛ* ‘house’ vs. *pɛ́lɛ́ŋ̀* ‘in the house’, *tǎa* 'village' vs. *tàáì* 'in the village'.
 
-### Verb lemmas
+## Verb lemmas
 Lemmas are shown in the form of bare stems.
+
+## Glossing abbreviations
+
+ART — article; B — ???; COP — copula; DEF — definitve; DEM — demonstrative; EXCL — exclusive; FOC — focus; HAB — habitual; INF — infinitive; L — low; LOC — locative; NEG — negation; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRED — predicative; PRF — perfect; REFL — reflexive; SG — singular; STAT — stative.
