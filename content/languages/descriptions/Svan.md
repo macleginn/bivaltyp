@@ -26,33 +26,43 @@ Valency classes of Svan verbs are primarily defined by their case frames. Howeve
 
 For the purposes of the dataset below, the verb is considered transitive if and only if it displays case-shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” respectively, even if the actual sentence happens to belong to Series I, where we observe no ergative case-marking (Series III forms are not found in the questionnaire below). For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
 
-(1) maizer-d 	taro-xen 		lǝir-Ø 		än-Ø-k'id
-     PN-ERG 	shelf-ABL 	book-NOM 	PRV:PROX-DO3-take
+```
+
+(1)  maizer-d  taro-xen   lǝir-Ø    än-Ø-k'id
+     PN-ERG    shelf-ABL  book-NOM  PRV:PROX-DO3-take
      ‘Maizer took a book from the shelf.’
 
-(2) maizer-Ø	dab-s 		Ø-a-qn-i
-     PN-NOM    	field-DAT 	DO3-FACT-plough-PRS
+(2)  maizer-Ø  dab-s      Ø-a-qn-i
+     PN-NOM    field-DAT  DO3-FACT-plough-PRS
      ‘Maizer is ploughing the field.’
+
+```
 
 Thus, the labels used in the annotation of transitive verbs correspond to the actual case frame in Series II (ERG, NOM). The same convention applies to case-shift verbs that do not meet the aforementioned transitivity criterion. For example, the equivalent of ‘obey’ (#92) is labeled as an “ERG_DAT” verb, even though the actual questionnaire sentence in (3) belongs to Series I and displays a nominative subject (X argument).
 
-(3) maizer-Ø 	dede-s 		čiγad 	x-o-ǯräw-i
-PN-NOM 	mother-DAT 	always 	IO3-VER:O-obey-PRS
-‘Maizer obeys (his) mother.’
+```
 
+(3)  maizer-Ø  dede-s      čiγad   x-o-ǯräw-i
+     PN-NOM    mother-DAT  always  IO3-VER:O-obey-PRS
+     ‘Maizer obeys (his) mother.’
+
+```
 
 The distinction between verbs with and without case-shift is part of the traditional four-way classification of Georgian verbs that is based on the morphological and morphosyntactic properties, whereby verbs with case-shift belong to Classes I and III, see Rostovtsev-Popiel (2016) for further details (on Georgian) and Rostovtsev-Popiel 2023 (on Mingrelian). The verbs in Class II, as in (4), display nominative subjects across all series, and the verbs in Class IV, as in (5), display dative subjects across all series.
 
-(4) maizer-Ø 	lile-s 	x-e-lmes-ieːl
-     PN-NOM	PN-DAT IO3-VER:R-praise-VPL
-     ‘Petre is flattering Masho.’ (#45)
+```
 
-(5) maizer-s 	grip'-Ø	 	x-aː-r
-     PN-DAT 	flu-NOM 	IO3-VER:SUP-have
+(4)  maizer-Ø  lile-s  x-e-lmes-ieːl
+     PN-NOM    PN-DAT  IO3-VER:R-praise-VPL
+     ‘Maizer flatters Lile.’
+
+(5)  maizer-s  grip'-Ø  x-aː-r
+     PN-DAT    flu-NOM  IO3-VER:SUP-have
      ‘Maizer has the flu.’ (#2)
 
-Note that the verbs in (3) and (4) belong to distinct valency classes as identified in this dataset, although the observed case marking patterns in the present-tense questionnaire sentences are identical.
-In bivalent and trivalent verbs, up to two arguments can be cross-referenced on the verb overtly, by prefixal and suffixal markers; only arguments flagged by nominative, ergative and dative cases can be cross-referenced.
+```
+
+Note that the verbs in (2), (3) and (4) belong to distinct valency classes as identified in this dataset, although the observed case marking patterns in the present-tense questionnaire sentences are identical. In bivalent and trivalent verbs, up to two arguments can be cross-referenced on the verb overtly, by prefixal and suffixal markers; only arguments flagged by nominative, ergative and dative cases can be cross-referenced.
 
 ### Case system
 There are seven basic grammatical cases: nominative, ergative, dative, genitive, instrumental, adverbial, and benefactive. Apart from the grammatical cases, there are around a dozen semantic cases, primarily coded by semi-detachable postpositional markers. Among these, ablative, elative, inessive, sociative, sublative, and superessive are found in the dataset.
