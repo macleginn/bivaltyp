@@ -34,7 +34,7 @@ Table 1. Verbs with case-shift: case marking in the four series
 | Series III | DAT     | NOM           | [ALL]           |
 | Series IV  | NOM     | DAT           | DAT             |
 
-For the purposes of the dataset below, the verb is considered transitive if and only if it displays case-shift so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” respectively, even if the actual sentence happens not to belong to Series II and the actual forms used are, thus, not ERG and NOM. For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
+For the purposes of the dataset below, the verb is considered transitive if and only if it displays case-shift (see Rostovtsev-Popiel 2023) so that its X-argument is case-marked as the “Subject”, and its Y-argument is case-marked as the “Direct object” in Table 1. The valency-encoding devices for the two core arguments in transitive constructions are labeled as “ERG” and “NOM” respectively, even if the actual sentence happens not to belong to Series II and the actual forms used are, thus, not ERG and NOM. For example, the equivalent of ‘plough’ (#66) in (2) is allotted to the same class as the equivalent of ‘take’ (#8) in (1), even though the two exemplar sentences display discrepant case frames.
 
 ```
 
