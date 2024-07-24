@@ -64,6 +64,9 @@ The case-shift scheme represented in Table 1 above is only a part of the complex
 
 There are ten grammatical cases: nominative, ergative, dative (core cases), genitive, instrumental, adverbial (oblique cases), two ablatives (for the purposes of this study, they are treated as one), allative, and benefactive (secondary cases). Some of these cases are not featured in the dataset below. All four secondary cases are morphologically based on the genitive. Apart from grammatical cases, there are further case-like expressions, such as the sociative, which is featured in several entries below.
 
+### References
+Rostovtsev-Popiel, Alexander. 2023. [Case-Shift on Megrelian Adverbs](https://academic.oup.com/book/55286/chapter/428698641), in: Chumakina, Marina, Kaye, Steven, and Oliver Bond (eds.). Agreement beyond the Verb: Unusual Targets, Unexpected Domains. Oxford University Press: 264–305.
+
 ## Verb lemmas
 
 Verbs are cited in the 3SG form of either Present or Future tense (as indicated in each instance). Future forms are shown in case the Present tense form is not sufficiently informative with respect to the verb’s lexical semantics.
