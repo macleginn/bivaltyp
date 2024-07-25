@@ -73,7 +73,7 @@ Natalia Bogomolova: {{ language:Tabasaran_Kandyk }}
 Nadezhda Bulatova: {{ language:Evenki }}  
 Daria Chistiakova, Daria Ryzhova: {{ language:Shughni }}  
 Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, {{ language:Soninke }}, {{ language:Wolof }}  
-Michael Daniel: {{ language:Archi }}  
+Michael Daniel, Bulbul Musaeva: {{ language:Archi }}  
 Michael Daniel, Tagir Gadzhiakhmedov, Natalia Logvinova: {{ language:Kumyk }}  
 Michael Daniel, Majsarat Musaeva: {{ language:Mehweb }}  
 Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul_Kina }}  
