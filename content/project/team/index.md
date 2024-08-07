@@ -110,7 +110,7 @@ Timur Maisak, Solmaz Merdanova: {{ language:Aghul }}
 Anastasia (Leonidovna) Makarova: {{ language:Serbian }}  
 Anastasia (Borisovna) Makarova: {{ language:Czech }}  
 Ramazan Mamedshaxov: {{ language:Lezgian }}  
-Ramazan Mamedshaxov, Nikita Kuzin: {{ language:Arabic_Standard }}, {{ language:Lezgian }}  
+Ramazan Mamedshaxov, Nikita Kuzin: {{ language:Arabic_Standard }}  
 Daria Mishchenko: {{ language:Finnish_Ingrian }}, {{ language:Loma }}  
 Daria Mishchenko, Sofia Oskolskaya: {{ language:Nanai }}  
 Zarina Molochieva: {{ language:Chechen }}  
