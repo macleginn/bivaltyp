@@ -38,7 +38,7 @@ The predicate always agrees with the nominative subject in number and person/gen
 Non-core arguments are flagged by oblique case markers and prepositions. A number of prepositions can combine with several different cases; valency class labels represent prepositions in combination with the specific case, e.g., NOM\_naACC (where the preposition *na* combines with a noun phrase in the accusative case, cf. example 6 below) and NOM\_naLOC (where the same preposition combines with a noun phrase in the locative case, cf. example 34 below) are considered two different valency patterns, etc.
 
 ### Case system
-There are 7 full-fledged cases: nominative, accusative, genitive, dative, instrumental, locative, and vocative. 
+There are 7 full-fledged cases: nominative, accusative, genitive, dative, instrumental, and locative.
 
 ## Verb lemmas
 Verbs are cited in their infinitive form specified for aspect (perfective or imperfective). 
