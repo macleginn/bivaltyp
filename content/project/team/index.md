@@ -64,6 +64,7 @@ Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}
 Gilles Authier, Uzlipat Gasanova: {{ language:Dargwa_Kaytag }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
 Gilles Authier, Rashidat Khalidova: {{ language:Karata }}  
+Gilles Authier, Monika Rind-Pawlowski: {{ language:Kryz_Proper }}, {{ language:Kryz_Ismayilli }}  
 Aleksandra Azargaeva: {{ language:Buriat }}  
 Ayten Babaliyeva: {{ language:Lezgian_Yargun }}  
 Mislav Benić: {{ language:Croatian }}  
