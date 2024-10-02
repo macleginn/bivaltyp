@@ -209,7 +209,7 @@ Here, the verb agrees with the body part ('feet'), which is encoded as a canonic
 
 ### Case system
 
-Case does not play a significant role in the grammar of Sorani Kurdish. In some contexts, non-subjects (e.g. objects within prepositional phrases) are marked with the only residual case marker *-î* (glossed as "OBL" in the dataset below), as in (13).
+Case does not play a significant role in the grammar of Sorani Kurdish. In some contexts, direct objects and objects within prepositional phrases are marked with the only residual case marker *-î* (glossed as "OBL" in the dataset below), as in (13).
 
 ```
 
@@ -218,6 +218,11 @@ Case does not play a significant role in the grammar of Sorani Kurdish. In some 
       ‘Hiwa believes Selim.’
 
 ```
+### Syntactic statuses and and argument-encoding devices
+
+The systems of tags used in labels for valency classes and respective argument-encoding devices (both indexing and flagging) is summarized in Table 2.
+
+Table 2. Tags used in valency class annotations and argument-encoding devices: an overview
 
 ## Verb lemmas
 
