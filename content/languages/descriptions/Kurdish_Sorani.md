@@ -113,7 +113,11 @@ Table 1. Person forms in Sorani Kurdish
 
 Independent pronouns are used relatively rarely and are included here primarily for illustrative purposes. The main distinction is between the two series of forms conventionally labeled ‘pronominal clitics’ and ‘verb agreement markers’. Note that the three series of pronominal forms are glossed differently to facilitate navigation through the dataset below.
 
-Like most modern Indo-Iranian languages, Sorani Kurdish exhibits a split-ergative alignment conditioned by tense. In present tense constructions, Sorani Kurdish displays an accusative alignment, where the verb agrees in number and person with the subject (S/A) using verb agreement markers suffixed to the verb stem. These verb agreement markers are obligatory, whether the verb is intransitive (1) or transitive (2, 3), and whether the subject is expressed by a full noun phrase or an independent pronoun (2) or not (3).
+Overall, the indexing of arguments in Sorani Kurdish depends on whether they are nominal or pronominal and also on the tense value of the predicate, yielding a number of intricate patterns. Based on the observed encoding devices in various conditions, a number of syntactic statuses are disinguished (the labels used for the annotation of the dataset below are provided in parentheses): intransitive subjects (SBJ.INTR), transitive subjects (SBJ.TR), direct objects (DO), external arguments (EXT) and several types of prepositional arguments labeled by the simplified shapes of respective prepositions. The correspondences between syntactic statuses and observed indexing/flagging is summarized in Table 2, followed by a more detailed discussion.
+
+Table 2. Tags used in valency class annotations and argument-encoding devices: an overview
+
+Like most modern Indo-Iranian languages, Sorani Kurdish exhibits a split-ergative alignment conditioned by tense. In present tense constructions, Sorani Kurdish displays an accusative alignment, where the verb agrees in number and person with the subject using verb agreement markers suffixed to the verb stem. These verb agreement markers are obligatory, whether the verb is intransitive (1) or transitive (2, 3), and whether the subject is expressed by a full noun phrase or an independent pronoun (2) or not (3).
 
 ```
 
@@ -141,7 +145,7 @@ Overt objects are not indexed on the verb (3). However, pronominal clitics are u
 
 ```
 
-Past tense constructions display ergative alignment. Similar to present tense constructions, intransitive subjects (S) are indexed on the verb by verb agreement markers (5). In transitive constructions, subjects (A) are indexed by pronominal clitics, whether or not they are expressed by full noun phrases or independent pronouns (6, 7). The placement of pronominal clitics follows the same rules as in present tense constructions, meaning they are not necessarily attached to the verb (6, 7).
+Past tense constructions display ergative alignment. Similar to present tense constructions, intransitive subjects (SBJ.INTR) are indexed on the verb by verb agreement markers (5). In transitive constructions, subjects (SBJ.TR) are indexed by pronominal clitics, whether or not they are expressed by full noun phrases or independent pronouns (6, 7). The placement of pronominal clitics follows the same rules as in present tense constructions, meaning they are not necessarily attached to the verb (6, 7).
 
 ```
 
@@ -159,7 +163,7 @@ Past tense constructions display ergative alignment. Similar to present tense co
 
 ```
 
-Finally, direct objects (O) expressed by overt noun phrases are not indexed on the verb. This can be interpreted as the use of default 3SG agreement markers (see 6 and 7). However, non-lexical objects are expressed by verb agreement markers (8). Overall, argument indexing in transitive constructions in the past tense mirrors that of the present tense.
+Finally, direct objects (DO) expressed by overt noun phrases are not indexed on the verb. This can be interpreted as the use of default 3SG agreement markers (see 6 and 7). However, non-lexical objects are expressed by verb agreement markers (8). Overall, argument indexing in transitive constructions in the past tense mirrors that of the present tense.
 
 ```
 
@@ -169,7 +173,7 @@ Finally, direct objects (O) expressed by overt noun phrases are not indexed on t
 
 ```
 
-Apart from indexing O-arguments in the present tense and A-arguments in the past tense, pronominal clitics signal possessors within noun phrases (9).
+Apart from indexing direct objects in the present tense and transitive subjects in the past tense, pronominal clitics signal possessors within noun phrases (9).
 
 ```
 
@@ -193,7 +197,7 @@ Possessive noun phrases can also be formed using the izafe construction, where t
 
 ```
 
-As follows from the discussion above, the distribution of pronominal forms can be used to identify basic valency patterns in Sorani Kurdish. In the dataset below, ‘SBJ.INTR’ ("intransitive subject") labels S arguments, which are defined as arguments indexed by verb agreement markers in both the present and the past tense. ‘SBJ.TR’ ("transitive subject") labels A arguments, which are defined as arguments indexed by verb agreement markers in the present tense, and by pronominal clitics in the past tense. Finally, ‘DO’ ("direct object") labels O arguments, which are defined as arguments that can be indexed by verb agreement markers in the past tense (if not expressed by a lexical noun phrase) and can be indexed by pronominal clitics in the present tense (if not expressed by a lexical noun phrase).
+As follows from the discussion above, the distribution of pronominal forms can be used to identify basic valency patterns in Sorani Kurdish. In the dataset below, the label ‘SBJ.INTR’ is used for arguments indexed by verb agreement markers in both the present and the past tense. The label ‘SBJ.TR’ is used for arguments indexed by verb agreement markers in the present tense, and by pronominal clitics in the past tense. Finally, the label ‘DO’ is used for arguments that can be indexed by verb agreement markers in the past tense (if not expressed by a lexical noun phrase) and can be indexed by pronominal clitics in the present tense (if not expressed by a lexical noun phrase).
 
 Most non-core arguments, i.e., arguments not labeled as ‘SBJ.INTR’, ‘SBJ.TR’ or ‘DO’ in the dataset below, are flagged by various adpositions. However, there is a notable exception exemplified in (12).
 
@@ -205,7 +209,7 @@ Most non-core arguments, i.e., arguments not labeled as ‘SBJ.INTR’, ‘SBJ.T
 
 ```
 
-Here, the verb agrees with the body part ('feet'), which is encoded as a canonical subject (SBJ). However, the person name is not encoded as a canonical phrase-internal possessor, as evidenced by its clause-initial position and the lack of the izafe marker. Moreover, the use of the clause-level adverb *ewr̂o* 'today' indicates that the person name is not part of the noun phrase headed by the name of the body part. In short, the person name is extraposed, so the literal rendition of (12) would be something like 'Hiwa, his feet ache today.' In the dataset below, noun phrases with the syntactic properties of the person name in (12) are considered non-core arguments and are labeled 'EXT' (external).
+Here, the verb agrees with the body part ('feet'), which is encoded as a canonical intransitive subject (SBJ.INTR). However, the person name is not encoded as a canonical phrase-internal possessor, as evidenced by its clause-initial position and the lack of the izafe marker. Moreover, the use of the clause-level adverb *ewr̂o* 'today' indicates that the person name is not part of the noun phrase headed by the name of the body part. In short, the person name is extraposed, so the literal rendition of (12) would be something like 'Hiwa, his feet ache today.' In the dataset below, noun phrases with the syntactic properties of the person name in (12) are considered non-core arguments and are labeled 'EXT' (external).
 
 ### Case system
 
@@ -218,11 +222,6 @@ Case does not play a significant role in the grammar of Sorani Kurdish. In some 
       ‘Hiwa believes Selim.’
 
 ```
-### Syntactic statuses and and argument-encoding devices
-
-The systems of tags used in labels for valency classes and respective argument-encoding devices (both indexing and flagging) is summarized in Table 2.
-
-Table 2. Tags used in valency class annotations and argument-encoding devices: an overview
 
 ## Verb lemmas
 
