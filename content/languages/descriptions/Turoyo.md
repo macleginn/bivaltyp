@@ -22,7 +22,7 @@ The data were gathered in Berlin in 2023 by Anna-Simona Barbara Üzel and Nikita
 
 The indexing and flagging of arguments in Turoyo depends on whether they are nominal or pronominal and also on the aspectual value of the predicate, yielding a number of intricate patterns. Based on the observed encoding devices in various conditions, I distinguish a number of syntactic statuses that are used for the annotation of the dataset below. The correspondences between syntactic statuses and observed indexing/flagging is summarized in Table 1.
 
-Table 1. Syntactic statuses and morphosyntact encoding
+Table 1. Syntactic statuses and morphosyntactic encoding
 
 <div class="before-table"></div>
 
