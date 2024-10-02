@@ -47,7 +47,9 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
-Rostovtsev-Popiel, Alexander. 2023. [Dvuxvalentnye glagoly v kartvel'skix jazykax skvoz' prizmu tipologicheskoj bazy dannyx dvixvalentnyx glagolov (BivalTyp)](https://bivaltyp.info/docs/Rostovtsev_Popiel_2023_Dvuxvalentnye.pdf) [Bivalent verbs in Kartvelian languages through the prism of the BivalTyp typological database]. Paper presented at the II  International Linguistic and Anthropological Congress of Caucasian Studies. Tbilisi, October 17-19, 2023. 
+Zabelina, Elizaveta. 2024. [Markirovanie aktantov emotivnyx predikatov v xindi](https://bivaltyp.info/docs/Zabelina_2024_Markirovanie.pdf) [Argument marking in Hindi emotive predicates]. Paper presented at the 4th "Dubyanskiy readings". Moscow, September 25-27, 2024. (in Russian)
+
+Rostovtsev-Popiel, Alexander. 2023. [Dvuxvalentnye glagoly v kartvel'skix jazykax skvoz' prizmu tipologicheskoj bazy dannyx dvixvalentnyx glagolov (BivalTyp)](https://bivaltyp.info/docs/Rostovtsev_Popiel_2023_Dvuxvalentnye.pdf) [Bivalent verbs in Kartvelian languages through the prism of the BivalTyp typological database]. Paper presented at the II  International Linguistic and Anthropological Congress of Caucasian Studies. Tbilisi, October 17-19, 2023. (in Russian)
 
 Kirill Kozhanov, Sergey Say. 2023. [Genealogy vs. contact configuration: argument coding across Romani dialects in Europe](https://bivaltyp.info/docs/Kozhanov_Say_2023_Genealogy.pdf). 56th Annual Meeting of the Societas Linguistica Europaea. National and Kapodistrian University of Athens. August 29 – September 1, 2023.
 
