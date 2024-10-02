@@ -185,7 +185,7 @@ Possessive noun phrases can also be formed using the izafe construction, where t
 
 (10)  ser-î     Hîwa 
       head-IZF  PN 
-      'Hiwa's head'
+      'Hiwa’s head'
 
 (11)  ser-î     min
       head-IZF  PN
