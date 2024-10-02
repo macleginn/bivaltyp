@@ -54,7 +54,7 @@ Table 1. Person forms in Sorani Kurdish
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>min&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>I&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=im&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.1SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=PC.1SG&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)m&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)m&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>1SG&nbsp;&nbsp;&nbsp;</td>
@@ -64,7 +64,7 @@ Table 1. Person forms in Sorani Kurdish
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>to&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>you&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=(i)t&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.2SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=PC.2SG&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-î(t)/&nbsp;&nbsp;&nbsp;(Imp) -∅ / -e&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-î(t)&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>2SG&nbsp;&nbsp;&nbsp;</td>
@@ -74,7 +74,7 @@ Table 1. Person forms in Sorani Kurdish
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>ew&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>s/he&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=î&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.3SG&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=PC.3SG&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-a(t)&nbsp;&nbsp;&nbsp;/ -ê(t) / -Ø&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-∅&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>3SG&nbsp;&nbsp;&nbsp;</td>
@@ -84,7 +84,7 @@ Table 1. Person forms in Sorani Kurdish
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>ême&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>we&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=man&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.1PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=PC.1PL&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-în&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-în&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>1PL&nbsp;&nbsp;&nbsp;</td>
@@ -94,7 +94,7 @@ Table 1. Person forms in Sorani Kurdish
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>êwe&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>you&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=tan&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.2PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=PC.2PL&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>2PL&nbsp;&nbsp;&nbsp;</td>
@@ -104,14 +104,14 @@ Table 1. Person forms in Sorani Kurdish
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>ewan&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>they&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>=yan&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=OBL.3PL&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>=PC.3PL&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-lboi">&nbsp;&nbsp;&nbsp;<br>-(i)n&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>3PL&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody></table>
 
-Independent pronouns are used relatively rarely and are included here primarily for illustrative purposes. The main distinction is between the two series of forms conventionally labeled 'pronominal clitics' and 'verb agreement markers.' Note that the three series of pronominal forms are glossed differently to facilitate navigation through the dataset below.
+Independent pronouns are used relatively rarely and are included here primarily for illustrative purposes. The main distinction is between the two series of forms conventionally labeled ‘pronominal clitics’ and ‘verb agreement markers’. Note that the three series of pronominal forms are glossed differently to facilitate navigation through the dataset below.
 
 Like most modern Indo-Iranian languages, Sorani Kurdish exhibits a split-ergative alignment conditioned by tense. In present tense constructions, Sorani Kurdish displays an accusative alignment, where the verb agrees in number and person with the subject (S/A) using verb agreement markers suffixed to the verb stem. These verb agreement markers are obligatory, whether the verb is intransitive (1) or transitive (2, 3), and whether the subject is expressed by a full noun phrase or an independent pronoun (2) or not (3).
 
