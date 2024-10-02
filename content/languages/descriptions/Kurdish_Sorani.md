@@ -115,7 +115,19 @@ Independent pronouns are used relatively rarely and are included here primarily 
 
 Overall, the indexing of arguments in Sorani Kurdish depends on whether they are nominal or pronominal and also on the tense value of the predicate, yielding a number of intricate patterns. Based on the observed encoding devices in various conditions, a number of syntactic statuses are disinguished (the labels used for the annotation of the dataset below are provided in parentheses): intransitive subjects (SBJ.INTR), transitive subjects (SBJ.TR), direct objects (DO), external arguments (EXT) and several types of prepositional arguments labeled by the simplified shapes of respective prepositions. The correspondences between syntactic statuses and observed indexing/flagging is summarized in Table 2, followed by a more detailed discussion.
 
+<div class="before-table"></div>
+
 Table 2. Tags used in valency class annotations and argument-encoding devices: an overview
+
+| Syntactic status | Flag  | Index: +lexical, PRS  | Index: -lexical, PRS  | Index: +lexical, PST  | Index: -lexical,  PST |
+| ---------------- | ----- | --------------------- | --------------------- | --------------------- | --------------------- |
+| SBJ.INTR         | no    | VAM(I)                | VAM(I)                | VAM(II)               | VAM(II)               |
+| SBJ.TR           | no    | VAM(I)                | VAM(I)                | PC                    | PC                    |
+| DO               | (OBL) | no                    | PC                    | no = VAM(II), 3SG     | VAM(II)               |
+| EXT              | no    | PC                    | PC                    | PC                    | PC                    |
+| PPs (*le*, etc.  | (OBL) | no                    | no                    | no                    | no                    |
+
+In Table 2, parentheses in "(OBL)" indicate optionality and "VAM" stands for "verb agreement markers".
 
 Like most modern Indo-Iranian languages, Sorani Kurdish exhibits a split-ergative alignment conditioned by tense. In present tense constructions, Sorani Kurdish displays an accusative alignment, where the verb agrees in number and person with the subject using verb agreement markers suffixed to the verb stem. These verb agreement markers are obligatory, whether the verb is intransitive (1) or transitive (2, 3), and whether the subject is expressed by a full noun phrase or an independent pronoun (2) or not (3).
 
