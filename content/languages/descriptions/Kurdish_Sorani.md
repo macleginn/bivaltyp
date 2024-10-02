@@ -195,7 +195,7 @@ Possessive noun phrases can also be formed using the izafe construction, where t
 
 As follows from the discussion above, the distribution of pronominal forms can be used to identify basic valency patterns in Sorani Kurdish. In the dataset below, ‘SBJ.INTR’ ("intransitive subject") labels S arguments, which are defined as arguments indexed by verb agreement markers in both the present and the past tense. ‘SBJ.TR’ ("transitive subject") labels A arguments, which are defined as arguments indexed by verb agreement markers in the present tense, and by pronominal clitics in the past tense. Finally, ‘DO’ ("direct object") labels O arguments, which are defined as arguments that can be indexed by verb agreement markers in the past tense (if not expressed by a lexical noun phrase) and can be indexed by pronominal clitics in the present tense (if not expressed by a lexical noun phrase).
 
-Most non-core arguments, i.e., arguments not labeled as 'SBJ.INTR', 'SBJ.TR' or 'DO' in the dataset below, are flagged by various adpositions. However, there is a notable exception exemplified in (12).
+Most non-core arguments, i.e., arguments not labeled as ‘SBJ.INTR’, ‘SBJ.TR’ or ‘DO’ in the dataset below, are flagged by various adpositions. However, there is a notable exception exemplified in (12).
 
 ```
 
