@@ -58,7 +58,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 132	Twi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	tan	SBJ	DO	TR	TR	In the dictionary, the verb is spelled "taŋ".	Kofi tan nanabarima	PN hate(3SG.PRS) grandfather	‘Kofi hates grandfather.’			Same as 126
 132	Twi	58	like	X (like) Y	нравиться	X-у (нравиться) Y	pε	SBJ	DO	TR	TR		Kofi pε saa atadeε yi	PN like(3SG.PRS) this shirt DEF	‘Kofi likes this shirt.’			
 132	Twi	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	hia	SBJ	DO	TR	TR		Kofi hia sika	PN need(3SG.PRS) money	‘Kofi needs money.’			Same as 121
-132	Twi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	twa	SBJ	hyia	Y	SBJ_hyia	CV. In the dictionary (p. 212) the 11th meaning of "hyia".	a-fasuo twa kuropᴐn no hyia	PL-wall cut city DET around	‘Walls surround the city.’			Same verb as 68, different pattern
+132	Twi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	twa	SBJ	hyia	Y	SBJ_hyia	CV. See the 11th meaning of "hyia" in the dictionary (p. 212).	a-fasuo twa kuropᴐn no hyia	PL-wall cut city DET around	‘Walls surround the city.’			Same verb as 68, different pattern
 132	Twi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	ka	*	*	*		Not included in the database because X is expressed as an NP-internal modifier.	a-ka Kofi 10 euros	PERF-leave PN 10 euros	‘Kofi has 10 euros left.’			
 132	Twi	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	bua	SBJ	DO	TR	TR		Kofi bua-a ᴐkyerεkyerεni no	PN answer-PST teacher DEF	‘Kofi answered the teacher.’			
 132	Twi	63	open	X (open) Y	открывать	X (открывать) Y	bue	SBJ	DO	TR	TR		Kofi bue-e toa no	PN open-PST can DEF	‘Kofi opened the can.’			
@@ -84,7 +84,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 132	Twi	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	ani gye	*	*	*		Not included in the database because X is expressed as an NP-internal modifier.	Kofi ani gye-e krataa no ho	PN eye take-PST letter DEF about	‘Kofi was rejoiced about the letter.’			
 132	Twi	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	kasa	*	*	*		Not included in the database because X and Y are expressed as a coordinate NP.	Kofi ne nanabarima re-kasa	PN CONJ grandfather PROG-speak	‘Kofi is speaking with grandfather.’			See (Amfo 2007) for details. In general, comitative constructions seem to be syntactically symmetrical and indistinguishable from NP-coordination in Twi (Asante), unlike Fante. However, Kwadwo mentioned that in a situation where there is a question like “What is Kofi doing” one can answer with something like “Kofi re-kasa ne nanabarima”.
 132	Twi	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	wo	SBJ	DO	TR	TR		maame no wo-o babarima bi	woman DEF give_birth-PST son INDEF	‘The woman gave birth to a son.’			
-132	Twi	86	drop	X (drop) Y	ронять	X (ронять) Y	gya	SBJ	mu	Y	SBJ_mu		Kofi gya-a abobᴐdeε no mu	PN leavep-PST glass DEF in	‘Kofi dropped the glass.’			
+132	Twi	86	drop	X (drop) Y	ронять	X (ронять) Y	gya	SBJ	mu	Y	SBJ_mu		Kofi gya-a abobᴐdeε no mu	PN leave-PST glass DEF in	‘Kofi dropped the glass.’			
 132	Twi	87	govern	X (govern) Y	руководить	X (руководить) Y	di	SBJ	so	Y	SBJ_so		Kofi di yεn kuro so	PN handle(3SG.PRS) 1P.PL(POSS) town on	‘Kofi governs our town.’			Same as 26 and 89, different patterns.
 132	Twi	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	afe	SBJ	DO	TR	TR		Kofi afe nanabarima	PN miss(3SG.PRS) grandfather	‘Kofi misses grandfather.’			
 132	Twi	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	di	SBJ	akyi	Y	SBJ_akyi		Kofi di nanabarima akyi	PN handle(3SG.PRS) grandfather behind	‘Kofi follows grandfather			Same as 26 and 87, different patterns.
@@ -101,7 +101,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 132	Twi	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	yε	SBJ	DO	TR	TR		saa kuruwa yi yε baako euro	this cup DEF be/do one euro	‘This cup costs one euro.’			Same as 36
 132	Twi	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	to tuo	SBJ	DO	TR	TR	CV	Kofi to-o anomaa no tuo	PN throw-PST bird DEF gun	‘Kofi shot at the bird.’			
 132	Twi	102	pour	X (pour) Y	сыпать	X (сыпать) Y	hwie	SBJ	DO	TR	TR		Kofi hwie-e asikyire no	PN pour-PST sugar DEF	‘Kofi poured the sugar.’			
-132	Twi	103	lose	X (lose) Y	терять	X (терять) Y	year	SBJ	DO	TR	TR		Kofi yera-a ne n-safoa	PN lose-PST 3SG(POSS) PL-key	‘Kofi lost his keys.’			
+132	Twi	103	lose	X (lose) Y	терять	X (терять) Y	yera	SBJ	DO	TR	TR		Kofi yera-a ne n-safoa	PN lose-PST 3SG(POSS) PL-key	‘Kofi lost his keys.’			
 132	Twi	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	mem	SBJ	mu	Y	SBJ_mu		dua no mem-m nsuo no mu	tree DEF sink-PST river DEF in	‘The log sank in the river.’			
 132	Twi	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kum	SBJ	DO	TR	TR		Kofi kum-m nanabarima	PN kill-PST grandfather	‘Kofi killed grandfather.’			
 132	Twi	106	hit	X (hit) Y	ударить	X (ударять) Y-а	bᴐ	SBJ	DO	TR	TR		Kofi bᴐ-ᴐ nanabarima	PN hit-PST grandfather	‘Kofi hit grandfather.’			Same as 34 and 79.
@@ -128,4 +128,4 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 132	Twi	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	bo fu	*	*	*		Not included in the database because X is expressed as an NP-internal modifier. Arguably, this sentence literally means ‘Kofi’s breast got swollen at his son’. See (Christaller 1933: 29, 142)	Kofi bo fu-u ne babarima	PN breast swell-PST 3SG(POSS) son	‘Kofi got upset with his son.’			
 132	Twi	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	nya abufuo	SBJ	ho	Y	SBJ_ho	CV	Kofi re-nya ne babaa ho abufuo	PN PROG-get 3SG(POSS) daughter about irritated	‘Kofi is getting arritated by his daughter.’			
 132	Twi	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у	ani gye	*	*	*		Not included in the database because X is expressed as an NP-internal modifier.	Kofi ani gye nanabarima ho	PN eye take grandfather about	‘Kofi is fond of grandfather.’			
-132	Twi	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	fɛre	SBJ	ho	Y	SBJ_ho		Kofi fɛre ne tenten ho	PN be_shy 3SG(POSS ) height about	‘Kofi is shy about his height.’			
+132	Twi	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а	fɛre	SBJ	ho	Y	SBJ_ho		Kofi fɛre ne tenten ho	PN be_shy 3SG(POSS) height about	‘Kofi is shy about his height.’			
