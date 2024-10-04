@@ -20,7 +20,7 @@ The data were gathered in 2023. The language of elicitation was Georgian. The co
 ## Grammar notes
 
 ### Basic clause structure and the transitive construction
-Valency classes of Svan verbs are primarily defined by their case frames. However, many Svan verbs, including nearly all transitive verbs, display the so-called “case-shift”: a phenomenon whereby the case marking of arguments depends on the verb’s TAM form. Svan TAM forms group into so-called “series”, where Series I is present/future, Series II is aorist/optative; and Series III is perfect/pluperfect. Case marking in verbs that undergo case-shift is summarized in Table 1.
+Valency classes of Svan verbs are primarily defined by their case frames. However, many Svan verbs, including nearly all transitive verbs, display the so-called “case-shift”: a phenomenon whereby the case marking of arguments depends on the verb’s TAM form. Svan TAM forms group into so-called “series”, where Series I is present/future, Series II is aorist/optative, and Series III is perfect/pluperfect. Case marking in verbs that undergo case-shift is summarized in Table 1.
 
 Table 1. Verbs with case-shift: case marking in the three series
 
