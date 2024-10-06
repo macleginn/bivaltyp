@@ -6,6 +6,8 @@ Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostru
 ### Articles and book chapters
 Shagal, Ksenia & Alena Blinova (accepted). Bivalent verb classes in Skolt Saami: A pilot study. In: Rogier Blokland, Michael Rießler & Torbjörn Söder (eds), Saami Linguistics in Uppsala. The 2019 SAALS 4 Symposium. Studia Uralica Upsaliensia, volume 42. Uppsala: Uppsala University.
 
+Rostovtsev-Popiel, Alexander A. 2024. [Odnorodnost, raznorodnost i pereosmyslenie: pervye zamečania po obrabotke kartvel’skogo materiala v baze BivalTyp](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Odnrodnost.pdf) [Homogeneity, Heterogeneity, and Reanalysis: First Remarks on the Processing of Kartvelian Data for the BivalTyp Database]. Izvestija Rossijskoj akademii nauk. Serija literatury i jazyka [Bulletin of the Russian Academy of Sciences: Studies in Literature and Language]. Vol. 83 (2), 64–71. (In Russian).
+
 Studenikina, K. A. 2023. [Glava 22. Valentnostnye klassy dvuxmestnyx predicatov](https://bivaltyp.info/docs/Studenikina_2023_Valentnostnye.pdf) [Bivalent valency classes]. In: E. V. Kashkin (ed.). *Elementy gornomarijskogo jazyka v tipologicheskom osveshchenii* [Elements of the Hill Mari language in a typological perspective]. Moscow: Buki Vedi. 478-490. (in Russian)
 
 Blinova, Alena & Ksenia Shagal. 2020. [Dvuxmestnye predikaty v saamskix jazykax v areal’noj perspective](https://bivaltyp.info/docs/Blinova_Shagal_2020_Dvuxmestnye.pdf) [Bivalent predicates in Saami languages from an areal perspective]. In: Ks. P. Semenova (ed.). *Malye jazyki v bol’šoj lingvistike: Sbornik trudov konferencii* [Minority languages in big linguistics: Conference proceedings]. Moscow: Buki Vedi. 25-33. (in Russian)
