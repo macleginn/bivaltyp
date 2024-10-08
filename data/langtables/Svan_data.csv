@@ -1,4 +1,4 @@
-language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	 	glosses_ru	back_translation_ru	comms_internal
+language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 107	Svan	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	x-e-zg-i (PRS)	DAT	NOM	X	DAT_NOM		maizer-s txwim-Ø x-e-zg-i	PN-DAT head-NOM IO3-VER:R-ache-PRS	‘Maizer has a headache.’			
 107	Svan	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	x-aː-r (PRS)	DAT	NOM	X	DAT_NOM	This root is used to mark alienable possession.	maizer-s grip'-Ø x-aː-r	PN-DAT flu-NOM IO3-VER:SUP-have	‘Maizer has the flu.’			
 107	Svan	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	x-a-q'luːn-i (PRS)	DAT	BEN	XY	DAT_BEN		maizer-s žeγ-išd x-a-q'luːn-i	PN-DAT dog-BEN IO3-VER:SUP-be_afraid-PRS	‘Mainzer is afraid of the dog.’			Alternative is DAT_GEN ("žeγ-iš").
