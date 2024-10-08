@@ -65,7 +65,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 73	Croatian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	drukčija	NOM	odGEN	Y	NOM_odGEN							NV. Есть еще вариант "se razlikuje", та же модель управления
 73	Croatian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а	zaostao	NOM	zaINS	Y	NOM_zaINS							
 73	Croatian	66	plough	X (plough) Y	пахать	X (пахать) Y	ore	NOM	ACC	TR	TR							
-73	Croatian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smrde	NOM	poDAT	Y	NOM_poDAT							Есть целая россыпь вариантов: "Ruke mi smrde po benzinu/na benzin. Возможен также каузатор: Ruke mi smrde od benzina. (na benzin = тип запаха (стимул?) po benzinu (стимул?(/каузатор)), od benzina (каузатор); в некоторых говорах тип запаха выражается также творительным падежом (некоторые чакавские говоры - остров Углян...), no v большинстве говоров творительный в настоящее время невозможен)"
+73	Croatian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом	smrde	NOM	poLOC	Y	NOM_poLOC							Есть целая россыпь вариантов: "Ruke mi smrde po benzinu/na benzin. Возможен также каузатор: Ruke mi smrde od benzina. (na benzin = тип запаха (стимул?) po benzinu (стимул?(/каузатор)), od benzina (каузатор); в некоторых говорах тип запаха выражается также творительным падежом (некоторые чакавские говоры - остров Углян...), no v большинстве говоров творительный в настоящее время невозможен)"
 73	Croatian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 	prešao	NOM	ACC	TR	TR							
 73	Croatian	69	sing	X (sing) Y	петь	X (петь) Y	otpjevao	NOM	ACC	TR	TR							
 73	Croatian	70	write	X (write) Y	писать	X (писать) Y	napisao	NOM	ACC	TR	TR							
