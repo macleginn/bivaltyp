@@ -36279,6 +36279,1176 @@ const structuralData = [
     "NOM_ELA"
   ],
   [
+    "Kryz Proper",
+    "feel_pain",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Kryz Proper",
+    "have#illness#",
+    "",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Kryz Proper",
+    "be_afraid",
+    "",
+    "DAT",
+    "SUBEL",
+    "XY",
+    "DAT_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "throw",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "have_enough",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "resemble",
+    "",
+    "NOM",
+    "INLAT",
+    "Y",
+    "NOM_INLAT"
+  ],
+  [
+    "Kryz Proper",
+    "believe",
+    "",
+    "NOM",
+    "APUD",
+    "Y",
+    "NOM_APUD"
+  ],
+  [
+    "Kryz Proper",
+    "take",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "see",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "influence",
+    "",
+    "INEL",
+    "DAT",
+    "XY",
+    "INEL_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "encounter",
+    "",
+    "NOM",
+    "INLAT",
+    "Y",
+    "NOM_INLAT"
+  ],
+  [
+    "Kryz Proper",
+    "enter",
+    "",
+    "NOM",
+    "INLAT",
+    "Y",
+    "NOM_INLAT"
+  ],
+  [
+    "Kryz Proper",
+    "win",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "go_out",
+    "",
+    "NOM",
+    "INEL",
+    "Y",
+    "NOM_INEL"
+  ],
+  [
+    "Kryz Proper",
+    "drive",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "bend",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "tell",
+    "",
+    "ERG",
+    "ADR",
+    "Y",
+    "ERG_ADR"
+  ],
+  [
+    "Kryz Proper",
+    "hold",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "catch_up",
+    "",
+    "NOM",
+    "APUD",
+    "Y",
+    "NOM_APUD"
+  ],
+  [
+    "Kryz Proper",
+    "milk",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "reach",
+    "",
+    "NOM",
+    "APUD",
+    "Y",
+    "NOM_APUD"
+  ],
+  [
+    "Kryz Proper",
+    "touch",
+    "",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Kryz Proper",
+    "fight",
+    "",
+    "ERG",
+    "GENqan",
+    "Y",
+    "ERG_GENqan"
+  ],
+  [
+    "Kryz Proper",
+    "be_friends",
+    "",
+    "ERG",
+    "GENqan",
+    "Y",
+    "ERG_GENqan"
+  ],
+  [
+    "Kryz Proper",
+    "think",
+    "",
+    "NOM",
+    "GENhaqhina",
+    "Y",
+    "NOM_GENhaqhina"
+  ],
+  [
+    "Kryz Proper",
+    "eat",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "fry",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "wait",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "forget",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "depend",
+    "",
+    "NOM",
+    "ADEL",
+    "Y",
+    "NOM_ADEL"
+  ],
+  [
+    "Kryz Proper",
+    "call",
+    "",
+    "ERG",
+    "APUD",
+    "Y",
+    "ERG_APUD"
+  ],
+  [
+    "Kryz Proper",
+    "get_to_know",
+    "",
+    "NOM",
+    "GENqan",
+    "Y",
+    "NOM_GENqan"
+  ],
+  [
+    "Kryz Proper",
+    "know",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "play#instrument#",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "avoid",
+    "",
+    "NOM",
+    "SUBEL",
+    "Y",
+    "NOM_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "make",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "make_fun",
+    "",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Kryz Proper",
+    "have",
+    "",
+    "APUD",
+    "NOM",
+    "X",
+    "APUD_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "look_for",
+    "",
+    "ERG",
+    "APUD",
+    "Y",
+    "ERG_APUD"
+  ],
+  [
+    "Kryz Proper",
+    "paint",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "bite",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "forfeit",
+    "",
+    "NOM",
+    "SUBEL",
+    "Y",
+    "NOM_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "try_to_catch",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "break",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "flatter",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "love#person#",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "wave",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "dream",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "wash",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "put_on",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "be_called",
+    "",
+    "GEN",
+    "NOM(NO.AGR)",
+    "XY",
+    "GEN_NOM(NO.AGR)"
+  ],
+  [
+    "Kryz Proper",
+    "punish",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "attack",
+    "",
+    "ERG",
+    "INLAT",
+    "Y",
+    "ERG_INLAT"
+  ],
+  [
+    "Kryz Proper",
+    "fill#intr#",
+    "",
+    "NOM",
+    "GENqan",
+    "Y",
+    "NOM_GENqan"
+  ],
+  [
+    "Kryz Proper",
+    "find",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "be_short",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "hate",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "like",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "need",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "surround",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "remain",
+    "",
+    "APUD",
+    "NOM",
+    "X",
+    "APUD_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "answer",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "open",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "be_different",
+    "",
+    "NOM",
+    "SUBEL",
+    "Y",
+    "NOM_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "fall_behind",
+    "",
+    "NOM",
+    "ADEL",
+    "Y",
+    "NOM_ADEL"
+  ],
+  [
+    "Kryz Proper",
+    "plough",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "smell",
+    "",
+    "INEL",
+    "GEN",
+    "XY",
+    "INEL_GEN"
+  ],
+  [
+    "Kryz Proper",
+    "cross",
+    "",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
+  ],
+  [
+    "Kryz Proper",
+    "sing",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "write",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "drink",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "melt",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "match",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "leave",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "cover",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "remember",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "help",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "understand#language#",
+    "",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Kryz Proper",
+    "hit#target#",
+    "",
+    "NOM",
+    "INEL",
+    "Y",
+    "NOM_INEL"
+  ],
+  [
+    "Kryz Proper",
+    "cut_oneself",
+    "",
+    "AD",
+    "ERG",
+    "XY",
+    "AD_ERG"
+  ],
+  [
+    "Kryz Proper",
+    "get_stuck",
+    "",
+    "NOM",
+    "INESS",
+    "Y",
+    "NOM_INESS"
+  ],
+  [
+    "Kryz Proper",
+    "lose#game#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Kryz Proper",
+    "be_glad",
+    "",
+    "NOM",
+    "INLAT",
+    "Y",
+    "NOM_INLAT"
+  ],
+  [
+    "Kryz Proper",
+    "speak",
+    "",
+    "NOM",
+    "GENqan",
+    "Y",
+    "NOM_GENqan"
+  ],
+  [
+    "Kryz Proper",
+    "give_birth",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "drop",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "govern",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "miss",
+    "",
+    "NOM",
+    "DATqali",
+    "Y",
+    "NOM_DATqali"
+  ],
+  [
+    "Kryz Proper",
+    "follow",
+    "",
+    "NOM",
+    "cixe",
+    "Y",
+    "NOM_cixe"
+  ],
+  [
+    "Kryz Proper",
+    "dismount",
+    "",
+    "NOM",
+    "INEL",
+    "Y",
+    "NOM_INEL"
+  ],
+  [
+    "Kryz Proper",
+    "listen",
+    "",
+    "ERG",
+    "AD",
+    "Y",
+    "ERG_AD"
+  ],
+  [
+    "Kryz Proper",
+    "obey",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Kryz Proper",
+    "hear",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "mix",
+    "",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Kryz Proper",
+    "look",
+    "",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Kryz Proper",
+    "take_off",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "dream#sleeping#",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "agree",
+    "",
+    "NOM",
+    "GENqan",
+    "Y",
+    "NOM_GENqan"
+  ],
+  [
+    "Kryz Proper",
+    "have_a_quarrel",
+    "",
+    "ERG",
+    "GENqan",
+    "Y",
+    "ERG_GENqan"
+  ],
+  [
+    "Kryz Proper",
+    "cost",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Kryz Proper",
+    "shoot_at",
+    "",
+    "ERG",
+    "INLAT",
+    "Y",
+    "ERG_INLAT"
+  ],
+  [
+    "Kryz Proper",
+    "pour",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "lose",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "sink",
+    "",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Kryz Proper",
+    "kill",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "hit",
+    "",
+    "ERG",
+    "INEL",
+    "Y",
+    "ERG_INEL"
+  ],
+  [
+    "Kryz Proper",
+    "kiss",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "read",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "move#bodypart#",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "respect",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "be_squeamish",
+    "",
+    "DAT",
+    "SUBEL",
+    "XY",
+    "DAT_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "be_content",
+    "",
+    "NOM",
+    "SUBEL",
+    "Y",
+    "NOM_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "fall_in_love",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "trust",
+    "",
+    "ERG",
+    "APUD",
+    "Y",
+    "ERG_APUD"
+  ],
+  [
+    "Kryz Proper",
+    "sympathise",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "envy",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "be_angry",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "be_surprised",
+    "",
+    "NOM",
+    "APUD",
+    "Y",
+    "NOM_APUD"
+  ],
+  [
+    "Kryz Proper",
+    "love#tea#",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "enjoy",
+    "",
+    "ERG",
+    "SUBEL",
+    "Y",
+    "ERG_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "want",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Kryz Proper",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "SUBEL",
+    "Y",
+    "NOM_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "take_offence",
+    "",
+    "NOM",
+    "SUBEL",
+    "Y",
+    "NOM_SUBEL"
+  ],
+  [
+    "Kryz Proper",
+    "upset",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Kryz Proper",
+    "marvel",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "despise",
+    "",
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
+  ],
+  [
+    "Kryz Proper",
+    "get_upset",
+    "",
+    "NOM",
+    "gura",
+    "Y",
+    "NOM_gura"
+  ],
+  [
+    "Kryz Proper",
+    "get_irritated",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "be_fond",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Kryz Proper",
+    "be_shy",
+    "",
+    "DAT",
+    "SUBEL",
+    "XY",
+    "DAT_SUBEL"
+  ],
+  [
     "Latvian",
     "feel_pain",
     "",
