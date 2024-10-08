@@ -45,7 +45,7 @@ d_final = d_final[[
     "XY",
     "number of classes",
     "entropy (nat)",
-    "normalised entropy",
+    # "normalised entropy",
     "entropy of intransitives (nat)",
     # "maximum entropy for intransitives",
     # "entropy ratio"
