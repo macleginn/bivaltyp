@@ -15,7 +15,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	fɛ̀ʔɛ̂	SBJ	a	Y	SBJ_a		àmbɛ́ à kɨ̀ fɛ̀ʔɛ̂ á ǹdâ	PN SM P2 go_out at house	‘Ambe went out from the house.’			
 128	Bafut	15	drive	X (drive) Y	гнать	X (гнать) Y-а	jóŋə̂	SBJ	ndim	Y	SBJ_a.ndim		àmbɛ́ à jóŋə̂ á ǹdᵼ̀m káù já	PN SM follow at back/PREP cow DEF	‘Ambe is driving the cow’.			Same verb as 89 (different pattern).
 128	Bafut	16	bend	X (bend) Y	гнуть	X (гнуть) Y	ŋgᵼ́mə̀	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ ŋgᵼ́mə̀ tí já 	PN SM P2 bend stick DEF	‘Ambe bent the stick.’			
-128	Bafut	17	tell	X (tell) Y	говорить	X (говорить) Y-у	ʃwóŋə̂	SBJ	mbo	Y	SBJ_mbo		àmbɛ́ à kɨ̀ ʃwóŋə̂ mbô sùù tóŋə̂ ɣà fâ ŋ̀kwɛ̂fɔ̀	PN SM P2 tell for PN call me this evening	‘Ambe told Suh: “Call me this evening”.’			E.g. on the phone.
+128	Bafut	17	tell	X (tell) Y	говорить	X (говорить) Y-у	ʃwóŋə̂	SBJ	mbo	Y	SBJ_mbo		àmbɛ́ à kɨ̀ ʃwóŋə̂ mbô sùù tóŋə̂ ɣà fâ ŋ̀kwɛ̂fɔ̀	PN SM P2 tell to PN call me this evening	‘Ambe told Suh: “Call me this evening”.’			E.g. on the phone.
 128	Bafut	18	hold	X (hold)Y	держать	X (держать) Y(-а)	tʃwá	SBJ	DO	TR	TR		àmbɛ́ à tʃwá-kɨ́ ŋwàʔànɨ̀	PN SM hold-IPFV book	‘Ambe is holding a book.’			
 128	Bafut	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	tʃíʔî	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ tʃíʔî-tɨ̀ sùù	PN SM P2 meet-IPFV PN	‘Ambe caught up with Suh.’			
 128	Bafut	20	milk	X (milk) Y	доить	X (доить) Y-а	fíʔî	SBJ	a.mum.nu	Y	SBJ_a.mum.nu		àmbɛ́ à kɨ̀ fíʔî mílíkə̀ á múm nú káù já	PN SM P2 remove milk at inside body/PREP cow DEF	‘Ambe milked the cow’ (lit.: ‘Ambe removed milk from inside the cow’s body’).			CV. nú is originally a noun for ‘body’ that gets grammaticalized in many contexts, developing into a preposition-like element.
@@ -94,11 +94,11 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	93	hear	X (hear) Y	слышать	X (слышать) Y	njúʔútə́	SBJ	DO	TR	TR		àmbɛ́ à njúʔútə́ ᵼ̀kòò wá	PN SM hear song DEF	‘Ambe hears the song.’			
 128	Bafut	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	bóòntə́	SBJ	bojo	Y	SBJ_bojo		nú já í lᵼ́ bóòntə́ bɔ́ʔɔ́ mílíkə̀ já	honey DEF SM P1 mix with2.INAN milk DEF	‘The honey got mixed with the milk.’			
 128	Bafut	95	look	X (look) at Y	смотреть	X (смотреть) на Y	líì	SBJ	DO	TR	TR		àmbɛ́ à líì-nᵼ̀ búrə̀ já	PN SM look-IPFV clouds DEF	‘Ambe is looking at the clouds.’			
-128	Bafut	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	tsɔ́ʔɔ́tə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ tsɔ́ʔɔ́tə̂-mə̂ àtsə̀ʔə̀ jì 	PN SM P2 remove-P0 dress his	‘Ambe took off his shirt.’			
+128	Bafut	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	tsɔ́ʔɔ́tə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ tsɔ́ʔɔ́tə̂ àtsə̀ʔə̀ jì 	PN SM P2 remove dress his	‘Ambe took off his shirt.’			
 128	Bafut	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	ndzə̂-lɛ̀	SBJ	mbi7i	Y	SBJ_mbi7i		ndzə̂-lɛ̀ àmbɛ́ mbᵼ́ʔᵼ́ sùù	dream-sleep PN about PN	‘Ambe dreams about Suh.’			
 128	Bafut	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	bíì	SBJ	ni	Y	SBJ_ni		àmbɛ́ à kɨ̀ bíì nᵼ̀ sùù	PN SM P2 agree with1 PN	‘Ambe agreed with Suh.’			Same verb as 114 and 7 (different pattern). 
 128	Bafut	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	jɔ́ŋə̀	SBJ	bo	Y	SBJ_bo		àmbɛ́ à kɨ̀ jɔ́ŋə̀ bó sùù	PN SM P2 quarrel with2.ANIM PN	‘Ambe had a quarrel with Suh.’			
-128	Bafut	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	COP	SBJ	PRED	Y	SBJ_PRED	Non-verbal predicate	ndɔ́ŋ jú ᵼ̀ ŋ̀kɣᵼ̀ jìmfùrᵼ̀	cup this SM hundred one	‘This cup costs one hundred.’			
+128	Bafut	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	bə̀	SBJ	PRED	Y	SBJ_PRED	Non-verbal predicate	ndɔ́ŋ jú ᵼ̀ bə̀ ŋ̀kɣᵼ̀ jìmfùrᵼ̀	cup this SM be hundred one	‘This cup costs one hundred.’			
 128	Bafut	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	túmə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ túmə̂ sᵼ́ŋ wá	PN SM P2 shoot bird DEF	‘Ambe shot the bird.’			
 128	Bafut	102	pour	X (pour) Y	сыпать	X (сыпать) Y	nᵼ́ŋə́	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ nᵼ́ŋə́ súgà wá	PN SM P2 put sugar DEF	‘Ambe poured the sugar.’			
 128	Bafut	103	lose	X (lose) Y	терять	X (терять) Y	bwé	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ bwé bɨ̀-kwáʔà bàʔà dʒí 	PN SM P2 lose PL-opener door his	‘Ame lost his keys.’			
@@ -108,7 +108,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	nɔ́ŋə̂ ǹtsù	*	*	*		Not included in the database because Y is expressed as an NP-internal modifier.	àmbɛ́ à kɨ̀ nɔ́ŋə̂ ǹtsù bì	PN SM P2 suck mouth PN	‘Ambe kissed Bih.’			CV
 128	Bafut	108	read	X (read) Y	читать	X (читать) Y-а	tóŋtᵼ́	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ tóŋtᵼ́ ŋwàʔànɨ̀ jìmɔ́ʔɔ̀ mə́ bɔ́ŋə̂	PN SM P2 read book certain that nice	‘Ambe read a certain nice book.’			
 128	Bafut	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	tsᵼ́gᵼ́nᵼ̀	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ tsᵼ́gᵼ́nᵼ̀ nʃwèbô jì	PN SM P2 shake finger his	‘Ambe shook his finger.’			
-128	Bafut	110	respect	X (respect) Y	уважать	X (уважать) Y-а	fá ŋgwóʔòrᵼ̀	SBJ	mbo	Y	SBJ_mbo		àmbɛ́ à fá ŋgwóʔòrᵼ̀ mbô sùù	PN SM give respect for PN	‘Ambe respects Suh.’			CV
+128	Bafut	110	respect	X (respect) Y	уважать	X (уважать) Y-а	fá ŋgwóʔòrᵼ̀	SBJ	mbo	Y	SBJ_mbo		àmbɛ́ à fá ŋgwóʔòrᵼ̀ mbô sùù	PN SM give respect to PN	‘Ambe respects Suh.’			CV
 128	Bafut	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*	*	*		No satisfactory translation has been obtained.	*	*	*			
 128	Bafut	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	dórə̂tə̀	SBJ	ni	Y	SBJ_ni		àmbɛ́ à dórə̂tə̀ nᵼ̀ mú m̀bàŋnᵼ̀ jì	PN SM be_happy with1 child male his	‘Ambe is satisfied with his son.’			
 128	Bafut	113	fall_in_love	X (fall in love) with Y	влюбляться	X (влюбляться) в Y-a	lɔ̀gᵼ̀nə̂ kɔ̀ŋə̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ lɔ̀gᵼ̀nə̂ kɔ̀ŋə̂ bì	PN SM P2 begin love PN	‘Ambe fell in love with Bih.’			CV
