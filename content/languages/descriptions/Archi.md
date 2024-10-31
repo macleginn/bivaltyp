@@ -2,7 +2,7 @@
 Contributed by [Michael Daniel](https://mishadaniel.github.io/) and Bulbul Musaeva. 
 
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
-![B.M.'s photo]({{ site_url_j }}/images/Musaeva.jpg "B.M.'s photo")
+![B.M.'s photo]({{ site_url_j }}/images/Musaeva_Bulbul.jpg "B.M.'s photo")
 
 
 The data were gathered in 2018. The Russian version of the questionnaire was used for elicitation.
