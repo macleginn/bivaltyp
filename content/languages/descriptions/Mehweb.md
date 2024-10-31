@@ -2,7 +2,7 @@
 Contributed by [Michael Daniel](https://mishadaniel.github.io/) and Majsarat Musaeva. 
 
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
-![M.M.'s photo]({{ site_url_j }}/images/Musaeva.jpg "M.M.'s photo")
+![M.M.'s photo]({{ site_url_j }}/images/Musaeva_Majsarat.jpg "M.M.'s photo")
 
 The data were initially gathered in 2018 and then some changes have been made in 2024. The Russian version of the questionnaire was used for elicitation.
 
