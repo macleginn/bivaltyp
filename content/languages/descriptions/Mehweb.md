@@ -7,7 +7,7 @@ Contributed by [Michael Daniel](https://mishadaniel.github.io/) and Majsarat Mus
 The data were initially gathered in 2018 and then some changes have been made in 2024. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
-> Daniel, Michael and Majsarat Musaeva. 2023. Bivalent patterns in {{ language_external }}. 
+> Daniel, Michael and Majsarat Musaeva. 2024. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
 > (Available online at {{ site_url }}, Accessed on {{ today }})
