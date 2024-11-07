@@ -1,8 +1,5 @@
 # {{ language_external }}
-Contributed by Merit Niinemägi. Irina (Pavlovna) Külmoja provided some preliminary data in 2013. In 2021, Merit Niinemägi provided and analyzed the current version of the data. She used the English version of the questionnaire. 
-
-https://ut-ee.academia.edu/meritniinemagi/
-
+Contributed by Merit Niinemägi ([Academia.edu profile](https://ut-ee.academia.edu/meritniinemagi/)). Irina (Pavlovna) Külmoja provided some preliminary data in 2013. In 2021, Merit Niinemägi provided and analyzed the current version of the data. She used the English version of the questionnaire. 
 
 ![M.N.'s photo]({{ site_url_j }}/images/Niinemage.jpg "M.N.'s photo")
 
