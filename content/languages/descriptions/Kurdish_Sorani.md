@@ -119,13 +119,13 @@ Overall, the indexing of arguments in Sorani Kurdish depends on whether they are
 
 Table 2. Tags used in valency class annotations and argument-encoding devices: an overview
 
-| Syntactic status | Flag  | Index: +lexical, PRS  | Index: -lexical, PRS  | Index: +lexical, PST  | Index: -lexical,  PST |
-| ---------------- | ----- | --------------------- | --------------------- | --------------------- | --------------------- |
-| SBJ.INTR         | no    | VAM(I)                | VAM(I)                | VAM(II)               | VAM(II)               |
-| SBJ.TR           | no    | VAM(I)                | VAM(I)                | PC                    | PC                    |
-| DO               | (OBL) | no                    | PC                    | no = VAM(II), 3SG     | VAM(II)               |
-| EXT              | no    | PC                    | PC                    | PC                    | PC                    |
-| PPs (*le*, etc.  | (OBL) | no                    | no                    | no                    | no                    |
+| Syntactic status  | Flag  | Index: +lexical, PRS  | Index: -lexical, PRS  | Index: +lexical, PST  | Index: -lexical,  PST |
+| ----------------- | ----- | --------------------- | --------------------- | --------------------- | --------------------- |
+| SBJ.INTR          | no    | VAM(I)                | VAM(I)                | VAM(II)               | VAM(II)               |
+| SBJ.TR            | no    | VAM(I)                | VAM(I)                | PC                    | PC                    |
+| DO                | (OBL) | no                    | PC                    | no = VAM(II), 3SG     | VAM(II)               |
+| EXT               | no    | PC                    | PC                    | PC                    | PC                    |
+| PPs (*le*, etc.)  | (OBL) | no                    | no                    | no                    | no                    |
 
 In Table 2, parentheses in "(OBL)" indicate optionality and "VAM" stands for "verb agreement markers".
 
