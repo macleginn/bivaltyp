@@ -2,6 +2,8 @@
 
 BivalTyp is a typological database of bivalent verbs and their encoding frames. As of <span id='current-year'>2020</span>, the database presents data for <span id='number-of-languages'>86</span> {{ languages }}, mainly spoken in Northern Eurasia. The database is based on a {{ questionnaire }} containing 130 {{ predicates }} given in context. Language-particular encoding frames are identified based on the devices (such as cases, adpositions, and verbal indices) involved in encoding two predefined arguments of each predicate (e.g. ‘Peter’ and ‘the dog’ in ‘Peter is afraid of the dog’). In each language, one class of verbs is identified as transitive. The goal of the project is to explore the ways in which bivalent verbs can be split between the transitive and different intransitive valency classes.
 
+The project was designed and implemented by Sergey Say and the [BivalTyp team]{{ Team }}.
+
 ## How to use BivalTyp
 
 You can browse BivalTyp by [predicate]{{ predicates }} (e.g., in case you are interested in how the arguments of the verb ‘to fear’ are encoded in different languages) or by [language]{{ languages }} (e.g., in case you want to explore the behaviour of 130 predicates in a specific language). Besides, you can [take an overview]{{ patterns }} of the data in your browser, build customizable {{ maps }}, or search the database as an extended [spreadsheet]{{ all_data }} form. Finally, you can {{ download }} the spreadsheet with data for further use offline.
