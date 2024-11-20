@@ -10,7 +10,7 @@ E-mail: (serjozhka /at/ yahoo /dot/ com)
 ### Technical team
 ![D.N.'s photo]({{ site_url_j }}/images/mitya.jpg "D.N.'s photo")
 
-[Dmitry Nikolaev](https://dnikolaev.com) ([Academia.edu profile](https://su-se.academia.edu/DmitryNikolaev)): postdoc with the Institute for Natural Language Processing, University of Stuttgart
+[Dmitry Nikolaev](https://dnikolaev.com): lecturer at the Department of Linguistics and English Language, School of Arts, Languages, and Cultures, University of Manchester
 
 ### Team members
 

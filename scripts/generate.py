@@ -40,7 +40,8 @@ URL_DICT = {
     'how to read the data': '{{ site_url_j }}/howtoreadthedata/',
     'instructions_for_contributors': '{{ site_url_j }}/project/instructions/',
     'map_view': '{{ site_url_j }}/languages/mapview/',
-    'maps': '{{ site_url_j }}/data/maps'
+    'maps': '{{ site_url_j }}/data/maps',
+    'team': '{{ site_url_j }}/project/team',
 }
 
 DATA_DICT = {
