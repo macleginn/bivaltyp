@@ -57,7 +57,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 114	Turoyo	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	noqəṣ	OBJAGR	BARE	XY	OBJAGR_BARE		Gabriyel ko-noqaṣ-le waraqto	PN PRS-be_few.IPFV.3M-LS.3M banknote(F)	‘Gabriyel is one (euro) short.’					
 114	Turoyo	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	mʕanət	SBJ	m	Y	SBJ_m		Gabriyel ko-mʕanət me Maryam	PN PRS-hate.IPFV.3M from PN	‘Gabriyel hates Maryam.’					
 114	Turoyo	58	like	X (like) Y	нравиться	X-у (нравиться) Y	roḥəm	SBJ	DO	TR	TR		Gabriyel rḥəm-le u gumlak-ayḏe	PN like.PFV-LS.3M ART.M shirt(M)-P.3M	‘Gabriyel likes his shirt.’			Same as 46, 113, 119, 129		
-114	Turoyo	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	məsnəq	SBJ	IO	Y	SBJ_IO		Gabriyel ko-məsnəq l-az zuze	PN PRS-need.IPFV.3M to-ART.PL money(PL)	‘Gabriyel needs money.’					
+114	Turoyo	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	məsnəq	SBJ.SS	IO	Y	SBJ.SS_IO		Gabriyel ko-məsnəq l-az zuze	PN PRS-need.IPFV.3M to-ART.PL money(PL)	‘Gabriyel needs money.’					
 114	Turoyo	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	COP	SBJ	heder	Y	SBJ_heder	Non-verbal predicate.	aš šur-one ḥeḏər i walaye ne	ART.PL wall-PL around ART.F city(F) COP.3PL	‘The walls are around the city.’					
 114	Turoyo	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	zoyəd	OBJAGR	BARE	XY	OBJAGR_BARE		Gabriyel zayəd-le ʕaṣro waroqe	PN be_extra.PFV.3M-LS.3M ten banknote(PL)	‘Gabriyel has ten (extra) (euro) left.’					
 114	Turoyo	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	obe funoyo	SBJ	IO	Y	SBJ_IO		Gabriyel hu-le funoyo l-u məlfon-ayḏe	PN give.PFV-LS.3M answer(M) to-ART.M teacher(M)-P.3M	‘Gabriyel answered his teacher.’			CV		
