@@ -3,7 +3,8 @@ Contributed by Kwadwo Brobbey Nti.
 
 ![K.N.'s photo]({{ site_url_j }}/images/Nti.jpg "K.N.'s photo")
 
-The data were gathered in 2024 by Kwadwo Brobbey Nti in his capacity of a native speaker of Twi. In the process of preparing the dataset, we benefited from feedback from Natalia Bogomolova and then Andrey Shluinsky. The English version of the questionnaire was used for elicitation.
+The data were gathered in 2024 by Kwadwo Brobbey Nti in his capacity of a native speaker of Twi. In the process of preparing the dataset, we benefited from feedback from Natalia Bogomolova and then Andrey Shluinsky. After this, the data have been substantially reanalyzed based on scholarly consultations by Anna Struck and additional judgements by Rosemary Arden. 
+The English version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Nti, Kwadwo Brobbey. 2024. Bivalent patterns in {{ language_external }}. 
