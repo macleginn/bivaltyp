@@ -27,6 +27,8 @@ Case marking displays the ergative-nominative alignment. In the basic transitive
 
 There are 5 non-locative cases: nominative, ergative, genitive, dative, comitative. The genitive marker of most masculine-gender nouns and 1st and 2nd person pronouns is a gender-number suffix agreeing with the possessed noun, otherwise the suffix is *ƛ* (a shortened form of the interessive suffix *-ƛi*). The system of locative cases consists of two layers: the essive layer with one unmarked and five marked localizations (INTER ‘in a mass’, SUB ‘under’, SUPER ‘on’, CONT ‘at, beside’, APUD ‘at, near’),  and three directions (unmarked ‘essive’, lative and elative), as shown in Table 1. The combination of the lative direction and the CONT localization is not possible. This yields 17 locative combinations and 22 cases in all. The case glosses in the dataset below transaparently correspond to the two-layered structure of case markers except for the combination of the localization AD and essive direction, which is exceptionally glossed as “LOC”.
 
+Table 1. Karata case forms
+
 |            | AD               | INTER       | SUB         | SUPER       | CONT       | APUD       |
 |------------|------------------|-------------|-------------|-------------|------------|------------|
 | (essive)   | *-i* / *-aa*     | *-ƛi*       | *-ƛ’:i*     | *-ƛ’a*      | *-č’o*     | *-q*       |
