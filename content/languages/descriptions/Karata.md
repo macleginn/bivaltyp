@@ -16,3 +16,19 @@ The data were collected in 2023 using the Russian version of the questionnaire.
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+## Grammar notes
+
+### Basic clause structure and the transitive construction
+
+Case marking displays the ergative-nominative alignment. In the basic transitive construction, the A-argument is in the ergative, and the P-argument, in the (unmarked) nominative. The ergative form of nouns does not coincide with the oblique stem. There are three genders. The verb takes gender-number prefixes agreeing with the S/P argument in the nominative. Gender-number agreement is prefixal on vowel-initial verbal roots. Non-core arguments are flagged by oblique case markers or by postpositions.
+
+### Case system
+
+There are 5 non-locative cases: nominative, ergative, genitive, dative, comitative. The genitive marker of most masculine-gender nouns and 1st and 2nd person pronouns is a gender-number suffix agreeing with the possessed noun, otherwise the suffix is *ƛ* (a shortened form of the interessive suffix *-ƛi*). The system of locative cases consists of two layers: the essive layer with one unmarked and five marked localizations (INTER ‘in a mass’, SUB ‘under’, SUPER ‘on’, CONT ‘at, beside’, APUD ‘at, near’),  and three directions (unmarked ‘essive’, lative and elative), as shown in Table 1. The combination of the lative direction and the CONT localization is not possible. This yields 17 locative combinations and 22 cases in all. The case glosses in the dataset below transaparently correspond to the two-layered structure of case markers except for the combination of the localization AD and essive direction, which is exceptionally glossed as “LOC”.
+
+## Verb lemmas
+Verbs are cited by their infinitive form, with third gender agreement.
+
+### Glossing abbreviations
+N — neuter gender, aka class III; HPL — human plural; IPF — imperfective; N — neuter gender, aka class IV; OBL — oblique nominal stem extension; PF — perfective; PN — person name.
