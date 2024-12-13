@@ -48,7 +48,7 @@ Viktor Khrakovskij ([Academia.edu profile](https://independent.academia.edu/%D0%
 
 ![N.Z.'s photo]({{ site_url_j }}/images/Zaika.jpg "N.Z.'s photo")
 
-[Natalia Zaika](https://iling.spb.ru/people/zaika.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/%D0%97%D0%B0%D0%B8%D0%BA%D0%B0%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F)): Senior research fellow at the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
+[Natalia Zaika](https://iling.spb.ru/people/zaika.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/%D0%97%D0%B0%D0%B8%D0%BA%D0%B0%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F)): Head of the Laboratory for the Typological Study of Languages, Institute for Linguistic Studies, Russian Academy of Sciences
 
 ### Language contributors
 
