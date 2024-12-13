@@ -150,7 +150,7 @@ Nina Sumbatova, Naida Vagizieva:  {{ language:Dargwa_Kadar }}
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
-Alena Witzlack-Makarevich, Sylvanus Job {{ language:Khoekhoe }}
+Alena Witzlack-Makarevich, Sylvanus Job {{ language:Khoekhoe }}  
 Elizaveta Zabelina: {{ language:Hindi }},  {{ language:Telugu }}  
 Natalia Zaika: {{ language:Basque }}, {{ language:Lithuanian }}, {{ language:Ukrainian }}, {{ language:Gascon }}  
 Andreja Žele, Mladen Uhlik: {{ language:Slovenian }}  
