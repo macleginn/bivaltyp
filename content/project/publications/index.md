@@ -37,6 +37,7 @@ Say, S. S. 2011a. [Nekanoničeskoe markirovanie aktantov mnogomestnyx predikatov
 Mishchenko, D. F. 2010. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v ingermanlandskom dialekte finskogo jazyka: k voprosu o estestvennyx klassax predikatov](https://bivaltyp.info/docs/Mishchenko_2010_Nekanonicheskoe.pdf) [Non-canonical marking of bivalent predicates’ arguments in the Ingrian dialect of Finnish: towards natural classes of predicates]. *Acta Linguistica Petropolitana*. V. 6, Part 3. Saint Petersburg: Nauka. 127–132. (in Russian)
 
 ### Qualification papers and unpublished manuscripts
+Romanova, Nina. 2024. Etimologicheskoe rodstvo i markirovanie aktantov dvuxvalentnyx predikatov v romanskix jazykax (na materiale bazy dannyx BivalTyp) [Etymological relatedness and argument marking of bivalent predicates in Romance languages (based on the BivalTyp database)]. Third year term paper. St. Petersburg: St. Petersburg State University. (in Russian)
 
 Aplonova, Katya. 2018. [Typological survey of transitivity](https://bivaltyp.info/docs/Aplonova_2018_Typological.pdf). Final project for the course “Linguistic data: quantitative analysis and visualization”. Moscow: NRU Higher School of Economics. 20.06.2018.
 
@@ -49,7 +50,7 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
-Romanova, Nina. 2024. [Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax](https://bivaltyp.info/docs/Romanova_2024_Svjaz_young.pdf) [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg. November 21–23, 2024.
+Romanova, Nina. 2024. [Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax](https://bivaltyp.info/docs/Romanova_2024_Svjaz_young.pdf) [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg. November 21–23, 2024. (in Russian)
 
 Zabelina, Elizaveta. 2024. [Markirovanie aktantov emotivnyx predikatov v xindi](https://bivaltyp.info/docs/Zabelina_2024_Markirovanie.pdf) [Argument marking in Hindi emotive predicates]. Paper presented at the 4th "Dubyanskiy readings". Moscow, September 25-27, 2024. (in Russian)
 
