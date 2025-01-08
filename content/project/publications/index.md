@@ -37,7 +37,7 @@ Say, S. S. 2011a. [Nekanoničeskoe markirovanie aktantov mnogomestnyx predikatov
 Mishchenko, D. F. 2010. [Nekanoničeskoe markirovanie aktantov dvuxmestnyx predikatov v ingermanlandskom dialekte finskogo jazyka: k voprosu o estestvennyx klassax predikatov](https://bivaltyp.info/docs/Mishchenko_2010_Nekanonicheskoe.pdf) [Non-canonical marking of bivalent predicates’ arguments in the Ingrian dialect of Finnish: towards natural classes of predicates]. *Acta Linguistica Petropolitana*. V. 6, Part 3. Saint Petersburg: Nauka. 127–132. (in Russian)
 
 ### Qualification papers and unpublished manuscripts
-Romanova, Nina. 2024. Etimologicheskoe rodstvo i markirovanie aktantov dvuxvalentnyx predikatov v romanskix jazykax (na materiale bazy dannyx BivalTyp) [Etymological relatedness and argument marking of bivalent predicates in Romance languages (based on the BivalTyp database)]. Third year term paper. St. Petersburg: St. Petersburg State University. (in Russian)
+Romanova, Nina. 2024. [Etimologicheskoe rodstvo i markirovanie aktantov dvuxvalentnyx predikatov v romanskix jazykax (na materiale bazy dannyx BivalTyp)](https://bivaltyp.info/docs/Romanova_2024_Etimologicheskoe.pdf) [Etymological relatedness and argument marking of bivalent predicates in Romance languages (based on the BivalTyp database)]. Third year term paper. St. Petersburg: St. Petersburg State University. (in Russian)
 
 Aplonova, Katya. 2018. [Typological survey of transitivity](https://bivaltyp.info/docs/Aplonova_2018_Typological.pdf). Final project for the course “Linguistic data: quantitative analysis and visualization”. Moscow: NRU Higher School of Economics. 20.06.2018.
 
