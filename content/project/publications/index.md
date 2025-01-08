@@ -49,7 +49,7 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
-Romanova, Nina. 2024. Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg. November 21–23, 2024.
+Romanova, Nina. 2024. [Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax](https://bivaltyp.info/docs/Romanova_2024_Svjaz_young.pdf) [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg. November 21–23, 2024.
 
 Zabelina, Elizaveta. 2024. [Markirovanie aktantov emotivnyx predikatov v xindi](https://bivaltyp.info/docs/Zabelina_2024_Markirovanie.pdf) [Argument marking in Hindi emotive predicates]. Paper presented at the 4th "Dubyanskiy readings". Moscow, September 25-27, 2024. (in Russian)
 
