@@ -4,6 +4,8 @@
 Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
 
 ### Articles and book chapters
+Alfimova, Daria. 2024. [Object marking in Western Eurasia](https://bivaltyp.info/docs/Alfimova_2024_Object.pdf). The Circum-Baltic area dissolves into the broader areal background. Journal of language contact 17, 281-314.
+
 Shagal, Ksenia & Alena Blinova (accepted). Bivalent verb classes in Skolt Saami: A pilot study. In: Rogier Blokland, Michael Rießler & Torbjörn Söder (eds), Saami Linguistics in Uppsala. The 2019 SAALS 4 Symposium. Studia Uralica Upsaliensia, volume 42. Uppsala: Uppsala University.
 
 Rostovtsev-Popiel, Alexander A. 2024. [Odnorodnost, raznorodnost i pereosmyslenie: pervye zamečania po obrabotke kartvel’skogo materiala v baze BivalTyp](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Odnrodnost.pdf) [Homogeneity, Heterogeneity, and Reanalysis: First Remarks on the Processing of Kartvelian Data for the BivalTyp Database]. Izvestija Rossijskoj akademii nauk. Serija literatury i jazyka [Bulletin of the Russian Academy of Sciences: Studies in Literature and Language]. Vol. 83 (2), 64–71. (In Russian).
