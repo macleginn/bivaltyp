@@ -4,7 +4,7 @@ Contributed by Vladimir Fedorov and Maria Khazhomia.
 The data were gathered in 2017. The language of elicitation was Russian. 
 
 ## How to cite
-> Fedorov, Vladimir and Maria Khazhomia. 2023. Bivalent patterns in {{ language_external }}. 
+> Fedorov, Vladimir and Maria Khazhomia. 2025. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
