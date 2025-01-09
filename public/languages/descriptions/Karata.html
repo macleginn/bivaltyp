@@ -140,7 +140,7 @@
 <h2>How to cite</h2>
 
 <blockquote>
-  <p>Authier, Gilles and Rashidat Khalidova. 2023. Bivalent patterns in Karata. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on February 3, 2024; last revised on November 19, 2024.) (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, Accessed on <span id="today"></span>.)</p>
+  <p>Authier, Gilles and Rashidat Khalidova. 2023. Bivalent patterns in Karata. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on February 3, 2024; last revised on December 8, 2024.) (Available online at <a href="https://www.bivaltyp.info/">https://www.bivaltyp.info</a>, Accessed on <span id="today"></span>.)</p>
 </blockquote>
 
 <h2>Basic info</h2>
@@ -150,6 +150,69 @@
 <li>Genealogy (as given in <a href="https://wals.info/">WALS</a>). Family: Nakh-Daghestanian, genus: Avar-Andic-Tsezic.</li>
 <li>Macro-area: West Asia and the Caucasus.</li>
 </ul>
+
+<h2>Grammar notes</h2>
+
+<h3>Basic clause structure and the transitive construction</h3>
+
+<p>Case marking displays the ergative-nominative alignment. In the basic transitive construction, the A-argument is in the ergative, and the P-argument, in the (unmarked) nominative. The ergative form of nouns does not coincide with the oblique stem. There are three genders. The verb takes gender-number prefixes agreeing with the S/P argument in the nominative. Gender-number agreement is prefixal on vowel-initial verbal roots. Non-core arguments are flagged by oblique case markers or by postpositions.</p>
+
+<h3>Case system</h3>
+
+<p>There are 5 non-locative cases: nominative, ergative, genitive, dative, comitative. The genitive marker of most masculine-gender nouns and 1st and 2nd person pronouns is a gender-number suffix agreeing with the possessed noun, otherwise the suffix is <em>ƛ</em> (a shortened form of the interessive suffix <em>-ƛi</em>). The system of locative cases consists of two layers: the essive layer with one unmarked and five marked localizations (INTER ‘in a mass’, SUB ‘under’, SUPER ‘on’, CONT ‘at, beside’, APUD ‘at, near’),  and three directions (unmarked ‘essive’, lative and elative), as shown in Table 1. The combination of the lative direction and the CONT localization is not possible. This yields 17 locative combinations and 22 cases in all. The case glosses in the dataset below transaparently correspond to the two-layered structure of case markers except for the combination of the localization AD and essive direction, which is exceptionally glossed as “LOC”.</p>
+
+<p>Table 1. Karata case forms</p>
+
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>AD</th>
+  <th>INTER</th>
+  <th>SUB</th>
+  <th>SUPER</th>
+  <th>CONT</th>
+  <th>APUD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>(essive)</td>
+  <td><em>-i</em> / <em>-aa</em></td>
+  <td><em>-ƛi</em></td>
+  <td><em>-ƛ’:i</em></td>
+  <td><em>-ƛ’a</em></td>
+  <td><em>-č’o</em></td>
+  <td><em>-q</em></td>
+</tr>
+<tr>
+  <td>lative</td>
+  <td><em>-i-r</em> / <em>-aa-r</em></td>
+  <td><em>-ƛi-r</em></td>
+  <td><em>-ƛ’:i-r</em></td>
+  <td><em>-ƛ’a-r</em></td>
+  <td></td>
+  <td><em>-xa-r</em></td>
+</tr>
+<tr>
+  <td>elative</td>
+  <td><em>-i-gal</em> / <em>-a-gal</em></td>
+  <td><em>-ƛi-gal</em></td>
+  <td><em>-ƛ’:i-gal</em></td>
+  <td><em>-ƛ’a-gal</em></td>
+  <td><em>-çogal</em></td>
+  <td><em>-q-igal</em></td>
+</tr>
+</tbody>
+</table>
+
+<h2>Verb lemmas</h2>
+
+<p>Verbs are cited by their infinitive form, with third gender agreement.</p>
+
+<h3>Glossing abbreviations</h3>
+
+<p>N — neuter gender, aka class III; HPL — human plural; IPF — imperfective; N — neuter gender, aka class IV; OBL — oblique nominal stem extension; PF — perfective; PN — person name.</p>
 
 <h2>Data</h2>
 
@@ -172,6 +235,7 @@
                 <option value="ERG_POSS">ERG_POSS</option>
                 <option value="EXT_NOM">EXT_NOM</option>
                 <option value="LAT_NOM(NO.AGR)">LAT_NOM(NO.AGR)</option>
+                <option value="NOM_APUD">NOM_APUD</option>
                 <option value="NOM_COM">NOM_COM</option>
                 <option value="NOM_CONT">NOM_CONT</option>
                 <option value="NOM_CONTEL">NOM_CONTEL</option>
@@ -182,18 +246,17 @@
                 <option value="NOM_LAT">NOM_LAT</option>
                 <option value="NOM_LOC">NOM_LOC</option>
                 <option value="NOM_POSS">NOM_POSS</option>
-                <option value="NOM_POST">NOM_POST</option>
                 <option value="NOM_sabale">NOM_sabale</option>
                 <option value="NOM_ssoreq">NOM_ssoreq</option>
                 <option value="NOM_SUPEREL">NOM_SUPEREL</option>
                 <option value="NOM_SUPERLAT">NOM_SUPERLAT</option>
-                <option value="POSS_ADLAT">POSS_ADLAT</option>
+                <option value="POSS_APUD">POSS_APUD</option>
+                <option value="POSS_APUDLAT">POSS_APUDLAT</option>
                 <option value="POSS_COM">POSS_COM</option>
                 <option value="POSS_DAT">POSS_DAT</option>
                 <option value="POSS_EL">POSS_EL</option>
                 <option value="POSS_NOM">POSS_NOM</option>
                 <option value="POSS_NOM(NO.AGR)">POSS_NOM(NO.AGR)</option>
-                <option value="POSS_POST">POSS_POST</option>
                 <option value="TR">TR</option>
             </select>
         </div>
@@ -1821,7 +1884,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_POST" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM_APUD" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>28. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/wait.html">wait</a>
@@ -1833,14 +1896,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_POST</span>
+                            <span>NOM_APUD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: POST</td>
+                        <td class="predicate-info-table">Y: APUD</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -1865,7 +1928,7 @@
                             <span>-</span>
                             <span class="gloss">obl</span>
                             <span>-</span>
-                            <span class="gloss">post</span>
+                            <span class="gloss">apud</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">m</span>
@@ -5505,7 +5568,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="POSS_ADLAT" data-locus="XY" style="margin-bottom: 5px">
+    <div data-valpal="POSS_APUDLAT" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>88. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/miss.html">miss</a>
@@ -5517,14 +5580,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>POSS_ADLAT</span>
+                            <span>POSS_APUDLAT</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: POSS</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: ADLAT</td>
+                        <td class="predicate-info-table">Y: APUDLAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: XY</td>
@@ -5685,7 +5748,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_POST" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM_APUD" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>91. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/listen.html">listen</a>
@@ -5697,14 +5760,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_POST</span>
+                            <span>NOM_APUD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: POST</td>
+                        <td class="predicate-info-table">Y: APUD</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -5725,7 +5788,7 @@
                         </td>
                         <td class="example-gloss">
                             <span>radio-</span>
-                            <span class="gloss">post</span>
+                            <span class="gloss">apud</span>
                         </td>
                         <td class="example-gloss">
                             <span>listen-</span>
@@ -5742,7 +5805,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_POST" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM_APUD" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>92. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/obey.html">obey</a>
@@ -5754,14 +5817,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_POST</span>
+                            <span>NOM_APUD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: POST</td>
+                        <td class="predicate-info-table">Y: APUD</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -5783,7 +5846,7 @@
                             <span>mother.</span>
                             <span class="gloss">obl</span>
                             <span>-</span>
-                            <span class="gloss">post</span>
+                            <span class="gloss">apud</span>
                         </td>
                         <td class="example-gloss">
                             <span>listen-</span>
@@ -5909,7 +5972,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM_POST" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM_APUD" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>95. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/look.html">look</a>
@@ -5921,14 +5984,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM_POST</span>
+                            <span>NOM_APUD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: POST</td>
+                        <td class="predicate-info-table">Y: APUD</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -5953,7 +6016,7 @@
                             <span>.</span>
                             <span class="gloss">obl</span>
                             <span>-</span>
-                            <span class="gloss">post</span>
+                            <span class="gloss">apud</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">m</span>
@@ -6996,7 +7059,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="POSS_POST" data-locus="XY" style="margin-bottom: 5px">
+    <div data-valpal="POSS_APUD" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>113. </span>
             <a class="data-link" href="https://www.bivaltyp.info/predicates/pred/fall_in_love.html">fall in love</a>
@@ -7008,14 +7071,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>POSS_POST</span>
+                            <span>POSS_APUD</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: POSS</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: POST</td>
+                        <td class="predicate-info-table">Y: APUD</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: XY</td>
@@ -7041,7 +7104,7 @@
                             <span>-</span>
                             <span class="gloss">obl</span>
                             <span>-</span>
-                            <span class="gloss">post</span>
+                            <span class="gloss">apud</span>
                         </td>
                         <td class="example-gloss">
                             <span>love</span>
