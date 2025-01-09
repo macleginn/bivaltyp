@@ -17,5 +17,16 @@ The data were initially provided by Ramazan Mamedshaxov in 2011 using the Russia
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
+## Grammar notes
+
+### Basic clause structure and the transitive construction
+Nominal subjects (A- or S-argument) are flagged by the nominative case and indexed on the verb. The verb is indexed for person, number, and gender. Pronominal subjects are only indexed. Nominal direct objects (P-argument) are flagged by the accusative case. Pronominal direct objects are indexed on the verb with the help of enclitic pronouns, distinct from the subject markers. Non-core arguments are introduced with prepositions. All prepositional arguments are flagged with the genitive case.
+
+### Case system
+There are three cases: nominative (NOM), genitive (GEN), and accusative (ACC). For certain categories of nouns, e.g., personal names, GEN and ACC are not distinguished. Compare examples (6) and (11).
+
+## Verb lemmas
+Verbs have two main TAM-forms, traditionally called perfect (PF) and imperfect (IPF). The verbs are cited in their 3 person masculine singular perfect (PF) form.
+
 ## Glossing abbreviations
 ACC — accusative; DEF — definite; DU — dual; F — feminine; GEN — genitive; INDEF — indefinite; IPF — imperfective; M — masculine; NOM — nominative; P — possessive; PASS — passive; PF — perfective; PL — plural; PN — person name; SG — singular.
