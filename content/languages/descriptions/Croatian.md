@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Mislav Benić.
+Contributed by [Mislav Benić](http://ihjj.hr/istrazivac/mislav-benic/61/) ([Academia.edu profile](https://ihjj.academia.edu/MislavBeni%C4%87)) 
 
 The data were gathered in 2018 using the Russian version of the questionnaire.
 
