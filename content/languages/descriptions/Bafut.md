@@ -16,3 +16,5 @@ Nadege Nkwenti Lum provided and analyzed the data in 2024 in her capacity of a n
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}. 
 
+## Glossing abbreviations
+ANIM — animate; COMP — complementizer; DEF — definite; INAN — INANIMATE; IPFV — imperfective; NEG — negation; P — past; PL — plural; PN — person name; PREP — preposition; SM — subject marker. 
