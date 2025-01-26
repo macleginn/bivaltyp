@@ -3,7 +3,7 @@ Contributed by Nadege Nkwenti Lum.
 
 ![N.L.'s photo]({{ site_url_j }}/images/Lum.jpg "N.L.'s photo")
 
-Nadege Nkwenti Lum provided and analyzed the data in 2024 in her capacity of a native speaker.
+Nadege Nkwenti Lum provided and analyzed the data in 2024 in her capacity of a native speaker. The English version of the questionnaire was used for elictation.
 
 ## How to cite
 > Lum, Nadege Nkwenti. 2024. Bivalent patterns in {{ language_external }}. 
