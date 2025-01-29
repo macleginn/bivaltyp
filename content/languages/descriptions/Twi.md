@@ -16,3 +16,6 @@ The English version of the questionnaire was used for elicitation.
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
+
+
+def — ; det — ; f — ; indef — ; neg — ; p — ; perf — ; pl — ; pn — ; poss — ; prf — ; prog — ; prs — ; pst — ; sg> 
