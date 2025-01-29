@@ -17,5 +17,11 @@ The English version of the questionnaire was used for elicitation.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
+## Grammar notes
+In the basic transitive construction, word order is SVO and both core arguments remain unflagged. Nominal arguments are not indexed on the verb. Many predicative meanings are conveyed bi-partite constructions, displaying some properties of serial verb constructions in diverse combinations. There is no morphological case on nouns. Non-core arguments are flagged by adpositions (typically postpositions).
+
+## Verb lemmas
+Lemmas are shown in the form of bare stems, which also serve as present tense forms.
+
 ## Glossing abbreviations
 DEF — definite; INDEF — indefinite; NEG — negation; PERF — perfect; PL — plural; PN — person name; POSS — possessive; PRF — perfect; PROG — progressive; PRS — present; PST — past; SG — singular. 
