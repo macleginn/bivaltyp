@@ -17,5 +17,5 @@ The English version of the questionnaire was used for elicitation.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
 - Macro-area: {{ macroarea }}.
 
-
-def — ; det — ; f — ; indef — ; neg — ; p — ; perf — ; pl — ; pn — ; poss — ; prf — ; prog — ; prs — ; pst — ; sg> 
+## Glossing abbreviations
+DEF — definite; INDEF — indefinite; NEG — negation; PERF — perfect; PL — plural; PN — person name; POSS — possessive; PRF — perfect; PROG — progressive; PRS — present; PST — past; SG — singular. 
