@@ -23,6 +23,7 @@ The data were gathered in {{ data_collection_year }}. The Russian version of the
 ### Basic clause structure and the transitive construction
 
 Like other languages of the Nakh-Dagestanian family, Kadar Dargwa is a morphologically ergative language, although many syntactic processes follow the nominative-accusative pattern. It is a basically left-branching language with relatively free word order. Kadar shows rich agreement both in gender/number (nominal class) and person.
+
 For several centuries, Kadar has been strongly influenced by Kumyk (Turkic), which resulted in many essential differences between Kadar and other varieties of Dargwa. In particular, Kadar shows a relatively reduced morphology with smaller numbers of categories and forms (both in the nominal and verbal domain) than most Dargwic languages.
 
 ### Case system
