@@ -54,5 +54,7 @@ AD — allative/comitative; ADD — additive particle; ADJ — adjectivizer; ADV
 
 ## References
 Chechuro, I. Ju. *Sopostavitel’noe issledovanie lokativnykh system severnykh dialektov darginskogo jazyka*. Vypusknaja kvalifikacionnaja rabota. Moscow: Higher School of Economics, 2016.
+
 Mutalov, R. O. and Bagamaeva, M. S. Sistema sklonenija i invetar’ padezhej v kadarskom jazyke. *Rossijskij gumanitarnyj zhurnal*. 2019, V. 8, No. 5. P. 343–351.
+
 Vagizieva, N. A., Sumbatova, N. R., and Sokur E. O. 2023. *Ustnyj korpus kadarskogo dialekta darginskoj gruppy*. https://lingconlab.ru/kadar_dargwa/
