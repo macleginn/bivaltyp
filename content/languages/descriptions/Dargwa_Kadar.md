@@ -31,17 +31,17 @@ There is no detailed grammatical description of Kadar. In a corpus of Kadar oral
 
 Table 1. Case markers of Kadar
 
-<div class="before-table"></div>
-
-| Nominative | unmarked | NOM |
-| Ergative | \*-li\* | ERG |
-| Dative | \*-s\* | DAT |
-| Genitive | \*-la\* | GEN |
-| Allative/Comitative | \*-ču\* | AD |
-| Superlative/Superessive | \*-ke\* | SUPER |
-| Illative/Inessive | \*-ze\* | IN |
-| Elative | \*-zaka\*, \*-ka\* | EL |
-| Comparative | \*-kem\* | COMP |
+|      case                      |      marker           |      gloss     |
+|--------------------------------|-----------------------|----------------|
+|     Nominative                 |     unmarked          |     NOM        |
+|     Ergative                   |     *-li*             |     ERG        |
+|     Dative                     |     *-s*              |     DAT        |
+|     Genitive                   |     *-la*             |     GEN        |
+|     Allative/Comitative        |     *-ču*             |     AD         |
+|     Superlative/Superessive    |     *-ke*             |     SUPER      |
+|     Illative/Inessive          |     *-ze*             |     IN         |
+|     Elative                    |     *-zaka*, *-ka*    |     EL         |
+|     Comparative                |     *-kem*            |     COMP       |
 
 R. O. Mutalov and M. S. Bagamaeva (2019) also mention the allative case with the marker -daħize and the themative case marked by -kela; the list of spatial case forms in (Chechuro 2016: 47) includes interelative (-keka), but these case forms have not been attested in our texts. 
 
