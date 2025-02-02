@@ -31,6 +31,8 @@ There is no detailed grammatical description of Kadar. In a corpus of Kadar oral
 
 Table 1. Case markers of Kadar
 
+<div class="before-table"></div>
+
 | Nominative | unmarked | NOM |
 | Ergative | \*-li\* | ERG |
 | Dative | \*-s\* | DAT |
