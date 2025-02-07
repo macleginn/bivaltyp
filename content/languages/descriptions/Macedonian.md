@@ -2,7 +2,7 @@
 Contributed by Vladimir Fedorov and [Maria Khazhomia](https://pstgu.ru/people/khazhomiya-mariya-ivanovna-/).
 
 ![V.F.'s photo]({{ site_url_j }}/images/Fedorov.jpg "V.F.'s photo")
-![M.Kh.'s photo]({{ site_url_j }}/images/Khazomiya.jpg "M.Kh.'s photo")
+![M.Kh.'s photo]({{ site_url_j }}/images/Khazhomiya.jpg "M.Kh.'s photo")
 
 The data were gathered in 2017. The language of elicitation was Russian. 
 
