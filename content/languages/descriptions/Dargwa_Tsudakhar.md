@@ -31,6 +31,14 @@ The system of spatial cases is structured around three dimensions: localisation,
 
 Table 1. Spatial cases in Tsudakhar Dargwa 
 
+|              |     LAT     |     ESS        |     ABL1        |     ABL2                |
+|--------------|-------------|----------------|-----------------|-------------------------|
+|     SUPER    |     -ja     |     -ja-CM     |     -ja-la      |     -ja-kar/-kanra      |
+|     LOC      |     -le     |     -le-CM     |     -le-la      |     -le-kar/-kanra      |
+|     INTER    |     -ce     |     -ce-CM     |     -c:e-la     |     -ce-kar/-kanra      |
+|     APUD     |     -šːu    |     -šːu-CM    |     -šːu-la     |     -šːu-kar /-kanra    |
+|     ANTE     |     -sa     |     -sa-CM     |     -sa-la      |     -sa-kar /-kanra     |
+
 When no orientation or direction morphemes are added, locative markers indicate movement towards a location (lative meaning). Combining a locative morpheme with an agreement marker indexing the gender and number of the nominative argument (subject of an intransitive verb or object of a transitive verb) results in an essive orientation, expressing a static position in space.
 
 Additionally, two ablative strategies exist: ABL1 conveys locative ablative meaning, while ABL2 signifies a more non-locative ablative function. Finally, the ergative case is formally expressed by the LOC localisation without firther orientation/direction marker, so that the combined gloss ERG/LOC(LAT) is used below in the data.
