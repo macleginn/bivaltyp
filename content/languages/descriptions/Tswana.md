@@ -41,14 +41,14 @@ For example, the singular form mosadi [mʊ̀-sádí] ‘woman’ triggers the 
 
 The major genders of Tswana are as follows:
 	
-	• 1–2 			mosadi [mʊ̀-sádí] ‘woman’ pl. basadi [bà-sádí], 
-	• 3–4 			motse [mʊ̀-tsɪ̀] ‘village’ pl. metse [mɪ̀-tsɪ̀], 
-	• 5–6 			lee [lɪ̀-ɪ́] ‘egg’ pl. mae [mà-ɪ́], 
-	• 7–8/10 	  selepe [sɪ̀-lɛ́pɛ́] ‘axe’ pl. dilepe [dì-lɛ́pɛ́],  
-	• 9–8/10 	  podi [pʊ́dí] ‘goat’ pl. dipodi [dì-pʊ́dí], 
-	• 11–6 		  losea [lʊ̀-sɪ́á] ‘baby’ pl. masea [mà-sɪ́á], 
+	• 1–2 		mosadi [mʊ̀-sádí] ‘woman’ pl. basadi [bà-sádí], 
+	• 3–4 		motse [mʊ̀-tsɪ̀] ‘village’ pl. metse [mɪ̀-tsɪ̀], 
+	• 5–6 		lee [lɪ̀-ɪ́] ‘egg’ pl. mae [mà-ɪ́], 
+	• 7–8/10 	selepe [sɪ̀-lɛ́pɛ́] ‘axe’ pl. dilepe [dì-lɛ́pɛ́],  
+	• 9–8/10 	podi [pʊ́dí] ‘goat’ pl. dipodi [dì-pʊ́dí], 
+	• 11–6 		losea [lʊ̀-sɪ́á] ‘baby’ pl. masea [mà-sɪ́á], 
 	• 11–8/10 	loso [lʊ̀-sɔ̀] ‘spoon’ pl. dintsho [dì-ǹtsʰɔ̀], 
-	• 14–6 		  bothata [bʊ̀-tʰátá] ‘problem’ pl. mathata [mà-tʰátá].
+	• 14–6 		bothata [bʊ̀-tʰátá] ‘problem’ pl. mathata [mà-tʰátá].
 
 In addition to the 11 agreement patterns typically governed by nouns lending themselves to the singular/plural alternation, agreement pattern 17 has the particularity of being governed exclusively by two nouns that do not have distinct singular and plural forms, golo [χʊ̀lɔ̀] and felo [fɪ̀lɔ̀], both meaning ‘place’, and by infinitives, which do not lend themselves to the singular/plural alternation either. 
 	
