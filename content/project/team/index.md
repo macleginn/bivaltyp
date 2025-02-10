@@ -104,7 +104,7 @@ Elena Kordi: {{ language:French }}
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
 Samona Kurilova, Maria Pupynina: {{ language:Yukaghir_Northern }}  
-Nikita Kuzin: {{ language:Turoyo }},  {{ language:Kurmanji_Northern_Kurdish }}  
+Nikita Kuzin: {{ language:Turoyo }},  {{ language:Kurmanji_Northern_Kurdish }},  {{ language:Arabic_Northern_Syrian }}  
 Olga Kuznetsova: {{ language:Guro }}  
 Nadege Nkwenti Lum:  {{ language:Bafut }}  
 Timur Maisak: {{ language:Udi }}  
