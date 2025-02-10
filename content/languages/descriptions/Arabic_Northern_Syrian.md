@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Nikita Kuzin.
+Contributed by Nikita Kuzin ([Academia.edu profile](https://fu-berlin.academia.edu/NikitaKuzin))
 
 ![N.K.'s photo]({{ site_url_j }}/images/Kuzin.jpg "N.K.'s photo")
 
