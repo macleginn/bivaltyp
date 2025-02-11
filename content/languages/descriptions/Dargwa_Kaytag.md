@@ -5,7 +5,7 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
 ![U.G.'s photo]({{ site_url_j }}/images/Gasanova.jpg "U.G.'s photo")
 
-The data were collected in 2023 using the Russian version of the questionnaire. The data have been provided by Uzlipat Gasanova.
+The data were collected in 2023 using the Russian version of the questionnaire. The data have been provided by Uzlipat Gasanova. Gasangusen Sulaibanov ([Academia.edu profile](https://independent.academia.edu/GasangusenSulaibanov)) has greatly contributed to the interlinearization of the data.
 
 ## How to cite
 
