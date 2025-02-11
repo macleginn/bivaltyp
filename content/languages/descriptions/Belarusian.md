@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Olga Gorickaja. [Dmitri Sitchinava](https://www.uni-potsdam.de/de/slavische-linguistik/team/dr-dmitri-sitchinava) has generously assisted in preparing the dataset for publication.
+Contributed by Volha Harytskaya. [Dmitri Sitchinava](https://www.uni-potsdam.de/de/slavische-linguistik/team/dr-dmitri-sitchinava) has generously assisted in preparing the dataset for publication.
 
 The data were gathered in 2017 using the Russian version of the questionnaire.
 
