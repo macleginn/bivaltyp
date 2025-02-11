@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by Volha Harytskaya. [Dmitri Sitchinava](https://www.uni-potsdam.de/de/slavische-linguistik/team/dr-dmitri-sitchinava) has generously assisted in preparing the dataset for publication.
 
+![V.H.'s photo]({{ site_url_j }}/images/Harytskaya.jpg "V.H.'s photo")
+
 The data were gathered in 2017 using the Russian version of the questionnaire.
 
 ## How to cite
