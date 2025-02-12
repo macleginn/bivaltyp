@@ -68,8 +68,8 @@ LANGUAGE_FIELDS = {
     'last_release_date',
     'latitude',
     'longitude',
-    'family (WALS)',
-    'genus (WALS)',
+    'family_WALS',
+    'genus_WALS',
     'macroarea'
 }
 

@@ -1,4 +1,4 @@
-language_no	number of nominal cases	overallN	transitives	intransitives	transitivity ratio	intransitivity ratio	number of classes	entropy (nat)	normalised entropy	entropy of intransitives (nat)	X	Y	XY
+language_no	number_of_nominal_cases	overallN	transitives	intransitives	transitivity_ratio	intransitivity_ratio	number_of_classes	entropy_nat	normalised_entropy	entropy_of_intransitives_nat	X	Y	XY
 60	1	114	41	73	0.36	0.64	32	2.539523760250256	2.5141285226477534	2.945740814935149	17	56	0
 69	4	125	40	85	0.32	0.6799999999999999	37	2.7330550812548697	2.705724530442321	3.0973317995330047	22	63	0
 81	26	115	32	83	0.28	0.72	30	2.6533947353231966	2.6268607879699646	2.8571146883988274	26	50	7

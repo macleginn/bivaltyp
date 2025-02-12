@@ -10,8 +10,8 @@ out_columns = [
     "expert_ru",
     "expert",
     "macroarea",
-    "family (WALS)",
-    "genus (WALS)",
+    "family_WALS",
+    "genus_WALS",
     "latitude",
     "longitude",
     "language_external"
@@ -30,30 +30,30 @@ d_final = d_final[[
     "expert",
     "expert_ru",
     "macroarea",
-    "family (WALS)",
-    "genus (WALS)",
+    "family_WALS",
+    "genus_WALS",
     "latitude",
     "longitude",
-    "number of nominal cases",
+    "number_of_nominal_cases",
     "overallN",
     "transitives",
     "intransitives",
-    "transitivity ratio",
-    "intransitivity ratio",
+    "transitivity_ratio",
+    "intransitivity_ratio",
     "X",
     "Y",
     "XY",
-    "number of classes",
-    "entropy (nat)",
-    # "normalised entropy",
-    "entropy of intransitives (nat)",
+    "number_of_classes",
+    "entropy_nat",
+    # "normalised_entropy",
+    "entropy_of_intransitives_nat",
     # "maximum entropy for intransitives",
     # "entropy ratio"
 ]]
 
-d_final['number of nominal cases'] = [
+d_final['number_of_nominal_cases'] = [
     str(int(el)) if not pd.isna(el) else 'No data'
-    for el in d_final['number of nominal cases']
+    for el in d_final['number_of_nominal_cases']
 ]
 
 result = [list(d_final.columns)]
