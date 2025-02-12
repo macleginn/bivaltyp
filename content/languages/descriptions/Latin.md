@@ -16,7 +16,7 @@ The data were gathered by Inna Popova in 2017-2021 using the PHI 5 database of C
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 For computational purposes, Latin is classified as a Romance language, although this is not technically correct (and Latin is not represented in WALS).

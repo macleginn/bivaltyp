@@ -16,7 +16,7 @@ The data were gathered in {{ data_collection_year }} in St. Petersburg, Russia, 
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 Turkish belongs to the Oghuz sub-branch of the Turkic branch of the assumed Altaic language family. The examples are given using the standard orthograthy except that the apostrophes between the stems of proper names and case suffixes are omitted.

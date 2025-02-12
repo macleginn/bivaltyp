@@ -13,5 +13,5 @@ The data were collected in 2024 based on the Azerbaijani and Russian versions of
 ## Basic info
 
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.

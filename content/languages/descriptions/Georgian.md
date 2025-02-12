@@ -12,7 +12,7 @@ Contributed by Alexander Rostovtsev-Popiel ([Academia.edu profile](https://uni-m
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}. 
 
 The data were initially obtained in 2011 (and then revised in 2023) by Alexander Rostovtsev-Popiel in his capacity of an L2 speaker of Georgian, with a substantial assistance of a number of native speakers outside of academia who expressed no interest in being named.

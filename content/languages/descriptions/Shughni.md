@@ -14,7 +14,7 @@ Contributed by [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([A
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 ## Glossing abbreviations

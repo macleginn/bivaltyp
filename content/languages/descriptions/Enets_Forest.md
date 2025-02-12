@@ -14,7 +14,7 @@ The data were gathered in {{ data_collection_year }} in Potapovo, Krasnoyarsk Kr
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 Forest Enets is a highly endangered language spoken on the Yenisei river in the Far North of Siberia. Nowadays, there are no more than 20 speakers of Forest Enets, mostly residing in the village of Potapovo and in the town of Dudinka in the Taymyrsky Dolgano-Nenetsky District of the Krasnoyarsk Krai. Forest Enets is sometimes regarded as one of the two dialects of the Enets language, along with Tundra Enets.

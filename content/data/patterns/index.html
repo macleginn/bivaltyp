@@ -223,8 +223,8 @@
         'language',
         'language_external',
         'macroarea',
-        'genus (WALS)',
-        'family (WALS)'
+        'genus_WALS',
+        'family_WALS'
     );
 
     // Populate filter dict from this df
@@ -234,20 +234,20 @@
         row => {
             langDict[row.get('language')] = {
                 name: row.get('language_external'),
-                phylum: row.get('family (WALS)'),
-                genus: row.get('genus (WALS)'),
+                phylum: row.get('family_WALS'),
+                genus: row.get('genus_WALS'),
                 marea: row.get('macroarea')
             }
-            if (!phyla2Genera.hasOwnProperty(row.get('family (WALS)'))) {
-                phyla2Genera[row.get('family (WALS)')] = new Set();
+            if (!phyla2Genera.hasOwnProperty(row.get('family_WALS'))) {
+                phyla2Genera[row.get('family_WALS')] = new Set();
             }
-            phyla2Genera[row.get('family (WALS)')].add(row.get('genus (WALS)'));
+            phyla2Genera[row.get('family_WALS')].add(row.get('genus_WALS'));
         }
     );
 
     // Populate menus
     phyla = languageDfMin
-        .distinct('family (WALS)')
+        .distinct('family_WALS')
         .toArray()
         .map(oneElArr => oneElArr[0]);
     phyla.sort();

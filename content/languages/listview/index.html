@@ -1,4 +1,4 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> -->
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <h2>List of languages</h2>
 <p>Click on the ‘link’ near the name of a language to open the description. Summary data for languages being prepared
@@ -23,7 +23,7 @@
                 America; South Asia; Sub-Saharan Africa; West Asia and the Caucasus.</p>
         </li>
         <li>
-            <p><strong>family (WALS)</strong> and <strong>genus (WALS)</strong> contain information on the genealogical
+            <p><strong>family_WALS</strong> and <strong>genus_WALS</strong> contain information on the genealogical
                 affiliation of the language as provided in the <a href="https://wals.info/">World Atlas of Language
                     Structures Online</a>. Although imperfect in many respects, the system employed by WALS is
                 convenient in that it provides a uniform two-level affiliation for each language, where “family”
@@ -161,21 +161,21 @@
         "glottocode",
         "language_external",
         "macroarea",
-        "family (WALS)",
-        "genus (WALS)",
-        "number of nominal cases",
+        "family_WALS",
+        "genus_WALS",
+        "number_of_nominal_cases",
         "overallN",
         "transitives",
         "intransitives",
-        "transitivity ratio",
-        "intransitivity ratio",
+        "transitivity_ratio",
+        "intransitivity_ratio",
         "X",
         "Y",
         "XY",
-        "number of classes",
-        "entropy (nat)",
+        "number_of_classes",
+        "entropy_nat",
         // "normalised entropy",
-        "entropy of intransitives (nat)",
+        "entropy_of_intransitives_nat",
     ];
 
     let activeLanguages = new Set();
@@ -194,12 +194,12 @@
     let languageDfMin = languageDf
         .sortBy('language_external')
         .chain(
-            row => row.set('transitivity ratio', row.get('transitivity ratio').toFixed(2)),
-            row => row.set('intransitivity ratio', row.get('intransitivity ratio').toFixed(2)),
-            row => row.set('entropy (nat)', row.get('entropy (nat)').toFixed(2)),
+            row => row.set('transitivity_ratio', row.get('transitivity_ratio').toFixed(2)),
+            row => row.set('intransitivity_ratio', row.get('intransitivity_ratio').toFixed(2)),
+            row => row.set('entropy_nat', row.get('entropy_nat').toFixed(2)),
             // row => row.set('normalised entropy', row.get('normalised entropy').toFixed(2)),
-            row => row.set('entropy of intransitives (nat)', row.get('entropy of intransitives (nat)').toFixed(2)),
-            row => row.set('number of nominal cases', Math.round(row.get('number of nominal cases')))
+            row => row.set('entropy_of_intransitives_nat', row.get('entropy_of_intransitives_nat').toFixed(2)),
+            row => row.set('number_of_nominal_cases', Math.round(row.get('number_of_nominal_cases')))
             // row => row.set('maximum entropy for intransitives', row.get('maximum entropy for intransitives').toFixed(2)),
             // row => row.set('entropy ratio', row.get('entropy ratio').toFixed(2))
         )

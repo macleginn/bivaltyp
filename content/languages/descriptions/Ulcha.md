@@ -15,7 +15,7 @@ The data were mainly gathered in 2017 in the village of Bulava (Ulchsky District
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 The whole questionnaire was collected with two native speakers (born in 1937 and 1957 respectively); some data were additionally collected with two more consultants (born in 1939 and 1956). In some particular cases, the elicitation data were verified and supplemented with textual data: texts collected by Orest Sunik in the 1960s and published in Sunik (1985), texts from the archive of Lidia Sem (the 1970s); texts collected by Elena Kalinina and others in 2005-2010, and those collected by Sofia Oskolskaya, Anna Smetina, and Natalia Stoynova in 2017-2019. Whenever possible, analytic decisions were based on the data from the earlier texts, since they are presupposed to be less influenced by Russian. The dictionary by Sunik (1985) was also used to check the data: there is quite a rich list of verbal lexemes in the dictionary, although there is neither any information on their valency patterns nor illustrative examples.

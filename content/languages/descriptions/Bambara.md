@@ -18,7 +18,7 @@ Complicated cases were checked by Sékou Coulibaly, Bambara teacher at INALCO (P
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS) }}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 Bambara (< Manding < Western Mande < Mande < Niger-Congo) is spoken mainly in Mali (West Africa) by more than 16 million people. 

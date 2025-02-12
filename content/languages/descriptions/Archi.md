@@ -15,5 +15,5 @@ The data were gathered in 2018. The Russian version of the questionnaire was use
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family (WALS)}}, genus: {{ genus (WALS) }}.
+- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
