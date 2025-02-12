@@ -41,7 +41,7 @@ Table 1. Spatial cases in Tsudakhar Dargwa
 
 When no orientation or direction morphemes are added, locative markers indicate movement towards a location (lative meaning). Combining a locative morpheme with an agreement marker indexing the gender and number of the nominative argument (subject of an intransitive verb or object of a transitive verb) results in an essive orientation, expressing a static position in space.
 
-Additionally, two ablative strategies exist: ABL1 conveys locative ablative meaning, while ABL2 signifies a more non-locative ablative function. Finally, the ergative case is formally expressed by the LOC localisation without firther orientation/direction marker, so that the combined gloss ERG/LOC(LAT) is used below in the data.
+Additionally, two ablative strategies exist: ABL1 conveys locative ablative meaning, while ABL2 signifies a more non-locative ablative function. Finally, the ergative case is formally expressed by the LOC localisation without further orientation/direction marker, so that the combined gloss ERG/LOC(LAT) is used below in the data.
 
 ## Verb lemmas
 
