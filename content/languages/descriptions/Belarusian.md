@@ -6,7 +6,7 @@ Contributed by Volha Harytskaya. [Dmitri Sitchinava](https://www.uni-potsdam.de/
 The data were gathered in 2017 using the Russian version of the questionnaire.
 
 ## How to cite
-> Gorickaja, Olga. 2025. Bivalent patterns in {{ language_external }}. 
+> Harytskaya, Volha. 2025. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
 > (Available online at {{ site_url }}, Accessed on {{ today }})
