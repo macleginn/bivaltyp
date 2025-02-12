@@ -406,7 +406,7 @@ The German version of the questionnaire is available as a .pdf file [here](https
     P. is fond of M.
 
 130. {{ predicate:be_shy }}
-    (P. is the smallest in his class.) P. is shy / embarassed about his height.
+    (P. is the smallest in his class.) P. is shy / embarrassed about his height.
 
 <h2 id="russian-questionnaire">Russian questionnaire</h2>
 
