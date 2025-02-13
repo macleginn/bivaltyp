@@ -36,3 +36,18 @@ Table 1. Grammatical cases in Avar: some declension patterns
 |     DAT    |     *was-as:-e*     |     *mac’:-aɬ:-e*     |     *bac’-e*        |     *bac’-az-e*     |
 |     GEN    |     *was-as:-ul*    |     *mac’:-aɬ:-ul*    |     *bac’-i-l*      |     *bac’-az-ul*    |
 
+Avar spatial cases are expressed as combinations of 5 localizations with 4 orientation forms as shown in Table 2. The essive orientation series has no overt marker, so that the localization morphemes are clearly visible in this series. Avar localization morphemes all reconstruct for the main branches of East Caucasian (cf. Alekseev 1997). Orientation markers are more recent.
+
+Table 2. Avar spatial cases
+
+|              |     essive      |     lative      |     elative       |     translative      |
+|--------------|-----------------|-----------------|-------------------|----------------------|
+|     LOC      |     *-da*       |     *-de*       |     *-da-s:a*     |     *-da-s:a-n*      |
+|     APUD     |     *-q*        |     *-q-e*      |     *-q-a*        |     *-q-a-n*         |
+|     INTER    |     *-ɬ:*       |     *-ɬ:-e*     |     *-ɬ:-a*       |     *-ɬ:-a-n*        |
+|     SUB      |     *-ƛ’*       |     *-ƛ’-e*     |     *-ƛ’-a*       |     *-ƛ’-a-n*        |
+|     SUPER    |     *-t’a*      |     *-t’e*      |     *-t’a-s:a*    |     *-t’as:a-n*      |
+
+In the case tags used below in the glosses, the zero-marked essive orientation is not shown, so that LOC stands for the combination of the LOC localization and essive orientation, INTER stands for the combination of the INTER localization and essive orientation, etc. In a similar vein, apart from the already mentioned LOC case, the general locative series (LOC) is not represented in the glosses, so that EL stands for the combination of the general locative series and the elative orientation, etc. 
+
+Note that standard Avar has not fully grammaticalized as a bound case from the locative marker SUPER ‘on’, which usually appears as free adverbs *t’ad*, *tade* and *t’as:a(n)* following the general locative case. The general locative series denotes a position typical for the referent, including ‘on’, and is used as a grammatical case in many bivalent frames.
