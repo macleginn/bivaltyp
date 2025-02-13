@@ -54,5 +54,7 @@ Note that standard Avar has not fully grammaticalized as a bound case from the l
 
 ## Verb lemmas
 
+Verbs are cited in their infinitive form.
+
 ## Glossing abbreviations
 AOR — aorist; APUD — localization ‘near, to, at’ / apudessive; APUDEL — apudelative; APUDLAT — apudlative; CAUS — causative; COP — copula; CV — converb; DAT — dative; EL — elative; ERG — ergative; EXCL — exclusive; F — feminine; FUT — future; GEN — genitive; H — human; IMP — imperative; INF — infinitve; INTER — INTER — localization ‘between, in’ / interessive; IPF — imperfective; ITR — iterative; LAT — lative; LOC — general localization / locative; M — masculine; MSD — masdar; N — neuter; NEG — negation; NM — non-masculine; NMLZ — nominalization; NOM — nominative; OBL — oblique; PF — perfective; PL — plural; PN — person named; PTCP — participle; QUOT — quotative; REFL — reflexive; SEQ — sequential; SUBEL — subelative; VBLZ — verbalizer.
