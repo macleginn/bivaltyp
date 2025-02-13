@@ -19,6 +19,20 @@ The data were collected in 2023 using the Russian version of the questionnaire. 
 
 ## Grammar notes
 
-### Basic clause structure
+### Basic clause structure and the transitive construction
 
 Clause structure in Avar is dominated by case marking on nominals and by gender-number agreement with the nominative argument on verbs. Constituent order indicates only information structure. Most affective and perception verbs mark the experiencer in the general locative case. Bivalent transitive verbs have their patientive argument in the nominative case and their agentive argument in the ergative case. Ditransitive verbs are transitive verbs with an extended argument. Verbs of speech have the adressee in the general locative case. Verbs of transfer have a permanent recipient argument in the dative. The apudlative is used for *non-permanent* recipients. Verbs of contact are ditransitive. They cast the goal in a locative case and the instrument or bodypart in the nominative case.
+
+### Case system
+
+Noun inflection expresses number and case. Avar has the total of 24 cases, divided between 4 grammatical cases and 20 spatial cases. The nominative singular has no overt marking, but a final vowel in the nominative form can be dropped in the oblique stem. In the singular, the formation of the oblique stem shows a high degree of allomorphy and many cases of free variation. Apart from the ergative (which may or may not be identical with the oblique stem), other case markers are identical for all declensions, for grammatical as well as spatial cases. The four grammatical cases are the nominative, ergative, dative and genitive, as shown in Table 1.
+
+Table 1. Grammatical cases in Avar: some declension patterns
+
+|            |     ‘boy’           |     ‘tongue’          |     ‘wolf’          |     ‘wolves’        |
+|------------|---------------------|-----------------------|---------------------|---------------------|
+|     NOM    |     *was*           |     *mac’:*           |     *bac’*          |     *bac’-al*       |
+|     ERG    |     *was-as:*       |     *mac’:-aɬ:*       |     *bac’-i-c:a*    |     *bac’-az*       |
+|     DAT    |     *was-as:-e*     |     *mac’:-aɬ:-e*     |     *bac’-e*        |     *bac’-az-e*     |
+|     GEN    |     *was-as:-ul*    |     *mac’:-aɬ:-ul*    |     *bac’-i-l*      |     *bac’-az-ul*    |
+
