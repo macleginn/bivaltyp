@@ -35,7 +35,7 @@ Table 1. Spatial cases in Tsudakhar Dargwa
 |--------------|-------------|----------------|-----------------|-------------------------|
 |     SUPER    |     -ja     |     -ja-CM     |     -ja-la      |     -ja-kar/-kanra      |
 |     LOC      |     -le     |     -le-CM     |     -le-la      |     -le-kar/-kanra      |
-|     INTER    |     -ce     |     -ce-CM     |     -c:e-la     |     -ce-kar/-kanra      |
+|     INTER    |     -c:e    |     -c:e-CM    |     -c:e-la     |     -c:e-kar/-kanra     |
 |     APUD     |     -šːu    |     -šːu-CM    |     -šːu-la     |     -šːu-kar /-kanra    |
 |     ANTE     |     -sa     |     -sa-CM     |     -sa-la      |     -sa-kar /-kanra     |
 
