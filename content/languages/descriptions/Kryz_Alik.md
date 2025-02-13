@@ -60,7 +60,7 @@ Despite their labels, the adelative and the superelative cases are mostly used t
 
 ## Verb lemmas
 
-Verbs are cited by their masdar form, based on the perfective stem, with IV class agreement.
+Verbs are cited by their masdar form, based on the perfective stem, with feminine agreement.
 
 ## Glossing abbreviations used in the examples below
 
