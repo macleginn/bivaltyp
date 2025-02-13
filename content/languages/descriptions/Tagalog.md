@@ -4,7 +4,7 @@ Contributed by [Rowena Garcia](https://rgarcia.owlstown.net) and Rhenee Espayos 
 ![R.G.'s photo]({{ site_url_j }}/images/Garcia.jpg "R.G.'s photo")
 ![R.E.'s photo]({{ site_url_j }}/images/Espayos.jpg "R.E.'s photo")
 
-The English version of the questionnaire was used for elicitation. The identification of valency encoding devices and valency classes is primarily based on the system proposed by Sergei Klimenko (2019). His generous assistance with the data analysis is gratefully acknowledged.
+The English version of the questionnaire was used for elicitation. The identification of valency encoding devices and valency classes is primarily based on the system proposed by Sergei Klimenko (2019), which might deviate from the analytic decisions used elsewhere. Sergei Klimenko's generous assistance with the data analysis is gratefully acknowledged.
 
 > Klimenko, Sergei (2019). Criteria for establishing the inventory of semantic participants and voices in Tagalog. *Studies in language* 43(1). 1-43.
 
