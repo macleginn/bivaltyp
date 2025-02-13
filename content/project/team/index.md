@@ -61,7 +61,7 @@ Peter Arkadiev: {{ language:Abaza }}
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
 Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Budugh }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Southern }}, {{ language:Tsakhur }}  
 Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
-Gilles Authier, Uzlipat Gasanova: {{ language:Dargwa_Kaytag }}  
+Gilles Authier, Uzlipat Gasanova, Gasangusen Sulaibanov: {{ language:Dargwa_Kaytag }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
 Gilles Authier, Rashidat Khalidova: {{ language:Karata }}  
 Gilles Authier, Monika Rind-Pawlowski: {{ language:Kryz_Proper }}, {{ language:Kryz_Ismayilli }}  
@@ -89,7 +89,7 @@ Dmitry Gerasimov: {{ language:Bagvalal }}, {{ language:Guarani_Paraguayan }}
 Wakweya Gobena:  {{ language:Oromo_West_Central }}  
 Elena Gorbova: {{ language:Spanish }}  
 Irene Gorbunova, Yurij Chernov:  {{ language:Khwarshi }}  
-Olga Gorickaja: {{ language:Belarusian }}  
+Volha Harytskaya: {{ language:Belarusian }}  
 Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}  
 Ildar Ibragimov: {{ language:Greek_Ancient }}  
 Vasilisa Kagirova: {{ language:Armenian_Eastern }}  
