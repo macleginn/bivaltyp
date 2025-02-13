@@ -51,3 +51,8 @@ Table 2. Avar spatial cases
 In the case tags used below in the glosses, the zero-marked essive orientation is not shown, so that LOC stands for the combination of the LOC localization and essive orientation, INTER stands for the combination of the INTER localization and essive orientation, etc. In a similar vein, apart from the already mentioned LOC case, the general locative series (LOC) is not represented in the glosses, so that EL stands for the combination of the general locative series and the elative orientation, etc. 
 
 Note that standard Avar has not fully grammaticalized as a bound case from the locative marker SUPER ‘on’, which usually appears as free adverbs *t’ad*, *tade* and *t’as:a(n)* following the general locative case. The general locative series denotes a position typical for the referent, including ‘on’, and is used as a grammatical case in many bivalent frames.
+
+## Verb lemmas
+
+## Glossing abbreviations
+AOR — aorist; APUD — ; APUDEL — ; APUDLAT — ; CAUS — ; COP — ; CV — ; DAT — ; EL — ; ERG — ; EXCL — ; F — ; FUT — ; GEN — ; H — ; IMP — ; INF — ; INTER — ; IPF — ; ITR — ; LAT — ; LOC — ; M — ; MSD — ; N — ; NEG — ; NM — ; NMLZ — ; NOM — ; OBL — ; PF — ; PL — ; PN — ; PTCP — ; QUOT — ; REFL — ; SEQ — ; SUBEL — ; VBLZ —
