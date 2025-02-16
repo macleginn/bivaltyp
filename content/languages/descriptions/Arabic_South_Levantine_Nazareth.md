@@ -16,3 +16,6 @@ The data were gathered in {{ data_collection_year }}. The English version of the
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+CS — construct state; DEF — definite; F — feminine; M — masculine; N — noun; PASS — passive; PL — plural; PN — person name; POSS — possessive; PROG — progressive; PRS — present; PST — past; PTCP — participle; SG — singular.
