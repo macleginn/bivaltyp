@@ -41,10 +41,13 @@ In Romani, a transitive construction involves subjects in the direct form (= nom
 
 In Romani, verbs typically have subject indexes for person and number. Additionally, in Kalderash Romani, direct objects—and more rarely other arguments, such as the possessor in a predicative possession construction—can also be indexed on the verb by a pronominal clitic (originating from the oblique form), as in (4).
 
-(4)	leste	sy	les	mator-a
-he.LOC	be.PRS.3	he.CL	car-NOM.SG
-‘He has a car.’
+```
 
+(4)  leste   sy        les    mator-a
+     he.LOC  be.PRS.3  he.CL  car-NOM.SG
+     ‘He has a car.’
+
+```
 In Romani, most prepositions require the nominative (= direct form) with nouns and the locative case with pronouns.
 
 ### Case system
@@ -53,13 +56,17 @@ Romani has eight cases, usually refered to as nominative, accusative, ablative, 
 
 In Kalderash Romani, the ablative and locative cases are flagged inflectionally on pronouns and by the prepositions kata and ka, respectively, on nouns (see 5–6). In this variety, these prepositions are used exclusively for grammatical case marking.
 
-(5)	o	Murš-a	dar-al	kata	źukəl
-ART.M.DIR.SG	PN-NOM.SG	fear-PRS.3SG	from	dog.NOM.SG
-‘Murša is afraid of the dog.’
+```
 
-(6)	o	Murš-a	dar-al	lestar
-ART.M.DIR.SG	PN-NOM.SG	fear-PRS.3SG	he.ABL
-‘Murša is afraid of it/him.’
+(5)  o             Murš-a     dar-al        kata  źukəl
+     ART.M.DIR.SG  PN-NOM.SG  fear-PRS.3SG  from  dog.NOM.SG
+     ‘Murša is afraid of the dog.’
+
+(6)  o             Murš-a     dar-al        lestar
+     ART.M.DIR.SG  PN-NOM.SG  fear-PRS.3SG  he.ABL
+     ‘Murša is afraid of it/him.’
+
+```
 
 ## Verb lemmas
 
