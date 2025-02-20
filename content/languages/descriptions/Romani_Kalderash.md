@@ -25,12 +25,12 @@ Romani is predominantly an SVO language.
 In Romani, a transitive construction involves subjects in the direct form (= nominative; for details, see Section “Case system”) and direct objects, which can either appear in the same direct form (see 1) when they are inanimate and indefinite nominal objects or be marked by the oblique form (= accusative) when they are animate and definite (see 2). Pronominal direct objects are always marked by the oblique (see 3). The exact factors conditioning the differential object marking vary across dialects, but in Kalderash Romani, they include part-of-speech distinction, animacy, and definiteness.
 
 ```
-(1)  o	           Murš-a	    dikh-əl      o             khər
-     ART.M.DIR.SG	 PN-NOM.SG  see-PRS.3SG  ART.M.DIR.SG  house[ACC.SG]
+(1)  o             Murš-a     dikh-əl      o             khər
+     ART.M.DIR.SG  PN-NOM.SG  see-PRS.3SG  ART.M.DIR.SG  house[ACC.SG]
      ‘Murša sees a house.’
 
 (2)  o             Murš-a      dikh-əl      la            Marijk-a
-     ART.M.DIR.SG	 PN-NOM.SG   see-PRS.3SG  ART.F.OBL.SG  PN-ACC.SG
+     ART.M.DIR.SG  PN-NOM.SG   see-PRS.3SG  ART.F.OBL.SG  PN-ACC.SG
      ‘Murša sees Marijka.’
 
 (3)  o             Murš-a      dikh-əl      la
