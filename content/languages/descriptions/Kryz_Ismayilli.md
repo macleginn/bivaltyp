@@ -3,6 +3,7 @@
 Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)) and Monika Rind-Pawlowski
 
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
+![M.R-P.'s photo]({{ site_url_j }}/images/Rind_Pawlowski.jpg "M.R-P.'s photo")
 
 ## How to cite
 
