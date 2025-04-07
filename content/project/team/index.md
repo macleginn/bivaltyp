@@ -73,6 +73,7 @@ Alena Blinova, Ksenia Shagal, Timothy Feist: {{ language:Saami_Skolt }}
 Natalia Bogomolova: {{ language:Tabasaran_Kandyk }}   
 Nadezhda Bulatova: {{ language:Evenki }}  
 Daria Chistiakova, Daria Ryzhova: {{ language:Shughni }}  
+Daria Chistiakova, Daria Ryzhova, Daria Starikova: {{ language:Persian }}  
 Denis Creissels: {{ language:Joola_Fonyi }}, {{ language:Mandinka }}, {{ language:Soninke }}, {{ language:Wolof }}, {{ language:Tswana }},   
 Michael Daniel, Bulbul Musaeva: {{ language:Archi }}  
 Michael Daniel, Tagir Gadzhiakhmedov, Natalia Logvinova: {{ language:Kumyk }}  
@@ -146,7 +147,7 @@ Mayya Shlyakhter: {{ language:Bengali }}
 Natalia Stoynova: {{ language:Ulcha }}  
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Daria Suetina (Konior): {{ language:Romanian }}  
-Gasangusen Sulaibanov:  {{ language:Dargwa_Tsugni }}, {{ language:Dargwa_Tsudakhar }}  
+Gasangusen Sulaibanov:  {{ language:Dargwa_Kubachi }}, {{ language:Dargwa_Tsugni }}, {{ language:Dargwa_Tsudakhar }}  
 Nina Sumbatova, Naida Vagizieva:  {{ language:Dargwa_Kadar }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
