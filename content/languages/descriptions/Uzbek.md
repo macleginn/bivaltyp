@@ -6,7 +6,7 @@ Contributed by Anastasia Zhuk.
 The data were gathered in 2022 in Borovoye, Kazakhstan. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
-> Zhuk, Anastasia. 2022. Bivalent patterns in {{ language_external }}. 
+> Zhuk, Anastasia. 2023. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: 
 > Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
