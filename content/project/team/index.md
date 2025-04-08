@@ -119,6 +119,7 @@ Daria Mishchenko, Sofia Oskolskaya: {{ language:Nanai }}
 Zarina Molochieva: {{ language:Chechen }}  
 George Moroz: {{ language:Polish }}  
 Rasul Mutalov: {{ language:Dargwa_Itsari }}  
+Polina Nasledskova, Yury Lander: {{ language:Indonesian_Standard }}
 Johanna Nichols: {{ language:Ingush }}  
 Merit Niinemägi (Irina Külmoja until 2021): {{ language:Estonian }}  
 Dmitry Nikolaev: {{ language:Irish }}, {{ language:Hebrew_Modern }}  
