@@ -83,6 +83,7 @@ Marah Deeb: {{ language:Arabic_South_Levantine_Nazareth }}
 Varvara Diveeva: {{ language:Albanian }}  
 Sergey Dmitrenko: {{ language:Khmer }}  
 Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
+Maksim Fedotov: {{ language:Gban }}  
 Martin Gális, Kirill Kozhanov: {{ language:Slovak }}  
 Rowena Garcia, Rhenee Espayos: {{ language:Tagalog }}  
 Dmitry Ganenkov:  {{ language:Chirag }}  
