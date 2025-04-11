@@ -3,6 +3,7 @@ Contributed by [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([A
 
 ![D.Ch.'s photo]({{ site_url_j }}/images/Chistiakova.jpg "D.Ch.'s photo")
 ![D.R.'s photo]({{ site_url_j }}/images/Ryzhova.jpg "N.R.'s photo")
+![D.S.'s photo]({{ site_url_j }}/images/Starikova.jpg "D.S.'s photo")
 
 ## How to cite
 > Chistiakova, Daria, Daria Ryzhova, and Daria Starikova. 2025. Bivalent patterns in {{ language_external }}. 
