@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([Academia.edu profile](https://scopus.academia.edu/ДашаЧистякова)), [Daria Ryzhova](https://www.hse.ru/en/org/persons/65846678) ([Academia.edu profile](https://he.academia.edu/DariaRyzhova)), and Daria Starikova
+Contributed by [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([Academia.edu profile](https://scopus.academia.edu/ДашаЧистякова)), [Daria Ryzhova](https://www.hse.ru/en/org/persons/65846678) ([Academia.edu profile](https://he.academia.edu/DariaRyzhova)), and [Daria Starikova](https://www.hse.ru/org/persons/225580896)
 
 ![D.Ch.'s photo]({{ site_url_j }}/images/Chistiakova.jpg "D.Ch.'s photo")
 ![D.R.'s photo]({{ site_url_j }}/images/Ryzhova.jpg "N.R.'s photo")
