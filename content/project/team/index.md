@@ -79,6 +79,7 @@ Michael Daniel, Bulbul Musaeva: {{ language:Archi }}
 Michael Daniel, Tagir Gadzhiakhmedov, Natalia Logvinova: {{ language:Kumyk }}  
 Michael Daniel, Majsarat Musaeva: {{ language:Mehweb }}  
 Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul_Kina }}  
+Michael Daniel, Victor A. Friedman, Shakhmurad Gamzalaev: {{ language:Lak_Quba }}
 Marah Deeb: {{ language:Arabic_South_Levantine_Nazareth }}  
 Varvara Diveeva: {{ language:Albanian }}  
 Sergey Dmitrenko: {{ language:Khmer }}  
