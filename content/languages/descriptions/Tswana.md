@@ -57,11 +57,17 @@ Noun phrases are head-initial.
 Verbs show a rich system of morphological variations, including the following types of markers (Creissels 2006):
 
 –	TAM markers, 
+
 –	negation markers, 
+
 –	syntactic dependency markers
+
 –	subject indexes, 
+
 –	object indexes, 
+
 –	valency operation markers (reflexive, reciprocal, decausative, causative, passive, and applicative), 
+
 –	conjoint/disjoint markers  
 
 The tonal morphology of the verb is particularly complex, even by Bantu standards, cf. Creissels, Chebanne & Nkhwa (1997), Creissels (2017). Moreover, there is no straightforward correspondence between the values expressed by verb morphology and the formatives into which verb forms can be segmented, cf. Creissels (2006).
