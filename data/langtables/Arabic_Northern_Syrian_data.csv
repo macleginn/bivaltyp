@@ -6,7 +6,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 138	Arabic_Northern_Syrian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	kaffa	DO	SBJ	X	DO_SBJ		əl-maṣāri tkaffi Aḥmad	DEF-money(PL) be_enough.IPF.3F PN	‘Ahmad has enough money.’			
 138	Arabic_Northern_Syrian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	šəbəh	SBJ	DO	TR	TR		Aḥmad yəšbah ǧədd-u	PN be_similar.IPF.3M grandfather-POSS.3M	‘Ahmad resembles his grandfather.’			
 138	Arabic_Northern_Syrian	7	believe	X (believe) Y	верить	X (верить)Y-у	ṣaddag	SBJ	DO	TR	TR		Aḥmad yəṣaddəg ǧədd-u	PN believe.IPF.3M grandfather-POSS.3M	‘Ahmad believes his grandfather.’			
-138	Arabic_Northern_Syrian	8	take	X (take) Y	взять	X (брать) Y(-а)	xaḏ	SBJ	DO	TR	TR		Aḥmad xad ktāb m=ar-raff	PN take.PF.3 book from=DEF-shelf	‘Ahmad took a book(M) from the shelf.’			
+138	Arabic_Northern_Syrian	8	take	X (take) Y	взять	X (брать) Y(-а)	xaḏ	SBJ	DO	TR	TR		Aḥmad xad ktāb m=ar-raff	PN take.PF.3 book from=DEF-shelf	‘Ahmad took a book from the shelf.’			
 138	Arabic_Northern_Syrian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	šāf	SBJ	DO	TR	TR		Aḥmad yəšūf bēt	PN see.IPF.3M house(M)	‘Ahmad sees a house.’			
 138	Arabic_Northern_Syrian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	Ɂaṯṯar	SBJ	3ala	Y	SBJ_3ala		al-kubr yəɁaṯṯər ʕa=ḏ-ḏākira	DEF-age influence.IPF.3M on=DEF-memory	‘Age influences the memory.’			
 138	Arabic_Northern_Syrian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	ṣədaf	SBJ	DO	TR	TR		Aḥmad ṣədaf Mḥammad b=əš-šārəʕ	PN meet.PF.3M PN in=DEF-street	‘Ahmad met Muhammad on the street.’			
@@ -15,7 +15,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 138	Arabic_Northern_Syrian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ṭalaʕ	SBJ	men	Y	SBJ_men		Aḥmad ṭalaʕ m=əl-bēt	PN go_out.PF.3M from=DEF-house(M)	‘Ahmad left the house.’			
 138	Arabic_Northern_Syrian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	gād	SBJ	DO	TR	TR		Aḥmad yəgūd əl-bgara	PN drive.IPF.3M DEF-cow	‘Ahmad is driving the cow.’			
 138	Arabic_Northern_Syrian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	ṯəna	SBJ	DO	TR	TR		Aḥmad ṯəna l-ġəsn	PN bend.PF.3M DEF-branch	‘Ahmad bent the branch’			
-138	Arabic_Northern_Syrian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	gāl	SBJ	l	Y	SBJ_l		Aḥmad yəgūl l Mḥammad taʕāl nẓayf-ek	PN say.IPF.3M to PN come.IPV.S host.IPF.1PL-O.2M	‘Ahmad says to Muhammad: come visit us!’			
+138	Arabic_Northern_Syrian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	gāl	SBJ	l	Y	SBJ_l		Aḥmad yəgūl lə Mḥammad taʕāl nẓayf-ek	PN say.IPF.3M to PN come.IPV.S host.IPF.1PL-O.2M	‘Ahmad says to Muhammad: come visit us!’			
 138	Arabic_Northern_Syrian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	šāl	SBJ	DO	TR	TR		Aḥmad šāyəl ktāb	PN hold.PTCP.MS book	‘Ahmad is holding a book.’			
 138	Arabic_Northern_Syrian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	laḥag	SBJ	DO	TR	TR		Aḥmad laḥag Mḥammad	PN catch_up.PF.3M PN	‘Ahmad caught up with Muhammad.’			
 138	Arabic_Northern_Syrian	20	milk	X (milk) Y	доить	X (доить) Y-а	ḥəlab	SBJ	DO	TR	TR		Aḥmad ḥəlab əl-bgara	PN milk.PF.3M DEF-cow(F)	‘Ahmad milked the cow.’			
@@ -24,7 +24,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 138	Arabic_Northern_Syrian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом	kāwən	SBJ	DO	TR	TR		Aḥmad yəkāwən Mḥammad	PN fight.IPF.3M PN	‘Ahmad fights with Muhammad.’			
 138	Arabic_Northern_Syrian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом	rabəʕ	*	*	*		Not included in the database because X and Y are expressed as a coordinate NP.	Aḥmad w Mḥamməd rabəʕ	PN and PN friend.PL	‘Ahmad and Muhammad are friends’			
 138	Arabic_Northern_Syrian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)	šardān	SBJ	b	Y	SBJ_b		Aḥmad šardān b Salwa	PN think.PTCP.MS in PN	‘Ahmad is thinking about Salwa.’			
-138	Arabic_Northern_Syrian	26	eat	X (eat) Y	есть	X (есть) Y	čəl	SBJ	DO	TR	TR		Aḥmad čəl ət-tuffāḥa	PN eat.PF.3M apple(F)	‘Ahmad ate the apple.’			
+138	Arabic_Northern_Syrian	26	eat	X (eat) Y	есть	X (есть) Y	čəl	SBJ	DO	TR	TR		Aḥmad čəl ət-tuffāḥa	PN eat.PF.3M DEF-apple(F)	‘Ahmad ate the apple.’			
 138	Arabic_Northern_Syrian	27	fry	X (fry) Y	жарить	X (жарить) Y	šwa	SBJ	DO	TR	TR		Aḥmad šwa s-samaka	PN fry.PF.3M DEF-fish(F)	‘Ahmad fried the fish.’			
 138	Arabic_Northern_Syrian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)	stanna	SBJ	DO	TR	TR		Aḥmad yəstanna Mḥamməd	PN wait.IPF.3M PN	‘Ahmad is waiting for Mhammad.’			
 138	Arabic_Northern_Syrian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е	nəsa	SBJ	DO	TR	TR		Aḥmad nəsa ṭ-ṭarīq	PN forget.PF.3M DEF-way(M)	‘Ahmad forgot the way.’			
@@ -43,7 +43,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 138	Arabic_Northern_Syrian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	rāḥ	men	SBJ	X	men_SBJ		rāḥ əl-bēt mən Mḥammad	go.PF.3M DEF-house(M) from PN	‘Muhammad lost his house.’			
 138	Arabic_Northern_Syrian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	dak	SBJ	DO	TR	TR		Mḥammad yəduk əl-bəssa	PN catch.IPF.3M DEF-cat	‘Muhammad is catching the cat.’			
 138	Arabic_Northern_Syrian	44	break	X (break) Y	ломать	X (ломать) Y	kəsar	SBJ	DO	TR	TR		Aḥmad kəsar əl-ʕaṣa	PN break.PF.3M DEF-stick	‘Ahmad broke the stick.’			
-138	Arabic_Northern_Syrian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	masaḥ ǧūx	SBJ	l	Y	SBJ_l		Aḥmad yəmsaḥ ǧūx la Mḥammad	PN rub.IPF.3M cloth to PN	‘Ahmad is flattering Muhammad.’			CV
+138	Arabic_Northern_Syrian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	masaḥ ǧūx	SBJ	l	Y	SBJ_l		Aḥmad yəmsaḥ ǧūx lə Mḥammad	PN rub.IPF.3M cloth to PN	‘Ahmad is flattering Muhammad.’			CV
 138	Arabic_Northern_Syrian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	ḥabb	SBJ	DO	TR	TR		Aḥmad yiḥəbb Salwa	PN love.IPF.3M PN	‘Ahmad loves Salwa.’			Same as 119.
 138	Arabic_Northern_Syrian	47	wave	X (wave) Y	махать	X (махать) Y-ом	lawwaḥ	SBJ	b	Y	SBJ_b		Aḥmad yəlawwəḥ b=əl-maḥrama	PN wave.IPF.3M in-DEF-handkerchief	‘Ahmad is waving the handkerchief.’			
 138	Arabic_Northern_Syrian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	ḥələm	SBJ	b	Y	SBJ_b		Aḥmad yəḥlam b=siyyāra ǧdīda	PN dream.IPF.3M in=car(F) new(F)	‘Ahmad dreams about a new car.’			Same as 97.
@@ -71,7 +71,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 138	Arabic_Northern_Syrian	70	write	X (write) Y	писать	X (писать) Y	katab	SBJ	DO	TR	TR		Aḥmad katab rəsāla	PN write.PF.3M letter	‘Ahmad wrote a letter.’			
 138	Arabic_Northern_Syrian	71	drink	X (drink) Y	пить	X (пить) Y	šərəb	SBJ	DO	TR	TR		Aḥmad šərəb əl-ḥalīb	PN drink.PF.3M DEF-milk	‘Ahmad drank the milk.’			
 138	Arabic_Northern_Syrian	72	melt	X (melt) Y	плавить	X (плавить) Y	ṣahar	SBJ	DO	TR	TR		Aḥmad ṣahar quṭʕ-at rṣāṣ	PN melt.PF.3M piece-CSTR.F lead	‘Ahmad melted a piece of lead.’			
-138	Arabic_Northern_Syrian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	lāg	SBJ	b	Y	SBJ_b		əl-kamar yəlāg b=fəṣtān-i	DEF-belt match.IPF.3M in=dress-POSS.1S	‘The belt matches my dress.’			
+138	Arabic_Northern_Syrian	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)	lāg	SBJ	b	Y	SBJ_b		əl-kamar yəlāg b=fəṣtān-i	DEF-belt match.IPF.3M in=dress-POSS.1SG	‘The belt matches my dress.’			
 138	Arabic_Northern_Syrian	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	tarak	SBJ	DO	TR	TR		Aḥmad tarak balad-u	PN leave.PF.3M country-POSS.3M	‘Ahmad left his country.’			
 138	Arabic_Northern_Syrian	75	cover	X (cover) Y	покрывать	X (покрывать) Y	ġaṭṭa	SBJ	DO	TR	TR		əs-səǧǧāda mġaṭṭya kull əl-gaʕ	DEF-carpet(F) cover.PTCP.FS whole DEF-ground	‘The carpet covers the whole floor.’			
 138	Arabic_Northern_Syrian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	tzakkar	SBJ	DO	TR	TR		Aḥmad tzakkar bēt ahal-u	PN remember.PF.3M house family-POSS.3M	‘Ahmad remembered the house of his family.’			
