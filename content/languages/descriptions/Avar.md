@@ -36,7 +36,7 @@ Table 1. Grammatical cases in Avar: some declension patterns
 |     DAT    |     *was-as:-e*     |     *mac’:-aɬ:-e*     |     *bac’-e*        |     *bac’-az-e*     |
 |     GEN    |     *was-as:-ul*    |     *mac’:-aɬ:-ul*    |     *bac’-i-l*      |     *bac’-az-ul*    |
 
-Avar spatial cases are expressed as combinations of 5 localizations with 4 orientation forms as shown in Table 2. The essive orientation series has no overt marker, so that the localization morphemes are clearly visible in this series. Avar localization morphemes all reconstruct for the main branches of East Caucasian (cf. Alekseev 1997). Orientation markers are more recent.
+Avar spatial cases are expressed as combinations of 5 localizations with 4 orientation forms as shown in Table 2. The essive orientation series has no overt marker, so that the localization morphemes are clearly visible in this series. Avar localization morphemes can be reconstructed for all major branches of East Caucasian (cf. Alekseev 1997). Orientation markers are more recent.
 
 Table 2. Avar spatial cases
 
