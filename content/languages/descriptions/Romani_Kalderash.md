@@ -54,7 +54,7 @@ In Romani, most prepositions require the nominative (= direct form) with nouns a
 
 Romani has eight cases, usually refered to as nominative, accusative, ablative, genitive, dative, instrumental, locative, and vocative. The basic morphological distinction between direct and oblique nominal forms (the latter typically marked by a suffix) is involved in the differential object marking described above. Direct forms (= nominative) are used for the subjects of transitive and intransitive verbs as well as for inanimate and indefinite direct objects, whereas oblique forms are used for animate and definite direct objects (= accusative) and express other functions, such as marking a possessor in a predicative possession construction, the indirect object of the verb ‘give’, and the experiencer of certain verbs like ‘feel pain’, ‘like’, ‘seems’.
 
-In Kalderash Romani, the ablative and locative cases are flagged inflectionally on pronouns and by the prepositions kata and ka, respectively, on nouns (see 5–6). In this variety, these prepositions are used exclusively for grammatical case marking.
+In Kalderash Romani, the ablative and locative cases are flagged inflectionally on pronouns and by the prepositions *kata* and *ka*, respectively, on nouns (see 5–6). In this variety, these prepositions are used exclusively for grammatical case marking.
 
 ```
 
