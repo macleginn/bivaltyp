@@ -15,3 +15,6 @@ Nikita Kuzin obtained the data in 2024 from four different speakers. English and
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+COP — copula; DIR — direct; EXST — existential; EZ — ezafe; F — feminine; GEN — genitive; IMP — imperative; INDEF — indefinite; IPFV — imperfective; M — masculine; NEG — negation; NOM — nominative; OBL — oblique; PERF — perfect; PFV — perfective; PL — plural; PLUPERF — pluperfect; PN — person name; PRS — present; SG — singular.
