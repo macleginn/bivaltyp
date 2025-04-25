@@ -15,3 +15,7 @@ The data were collected in 2024 based on the Azerbaijani and Russian versions of
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+AD — adessive; ADEL — adelative; AOP — aorist participle; AOR — aorist; CAUS — causative; CONT — continuative; COP — copula; DAT — dative; ERG — ergative; EVT — evidential; EVTPRT — evidential participle; F — feminine; GEN — genitive; IMC — ???; IN — inessive; INEL — inelative; IPFV — imperfective; NEG — negative; OBL — oblique; OP — optative; PFV — perfective; PL — plural; PN — person name; PRF — perfect; PRS — present; PRSPRT — present participle; SBST — substantivizer; SEQ — sequential; SG — singular; SUB/POST — subessive/postessive; SUB/POSTEL — subelative/postelative; SUP — superessive; SUPEL — superelative; VN — ??.
