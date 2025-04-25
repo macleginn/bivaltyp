@@ -38,7 +38,5 @@ Table 1. Karata case forms
 ## Verb lemmas
 Verbs are cited by their infinitive form, with third gender agreement.
 
-### Glossing abbreviations
-N — neuter gender, aka class III; HPL — human plural; IPF — imperfective; N — neuter gender, aka class IV; OBL — oblique nominal stem extension; PF — perfective; PN — person name.
-
-AOR — aorist; APUD — apudessive; APUDLAT — apudlative; ATTR — attributive; CAUS — causative; COM — comitative; CONT — contessive; CONTEL — contelative; COP — copula; CV — converb; DAT — dative; EL — elative; ERG — ergative; GEN — genitive; IN — inside; INTER — interessive; IPF — inperfective; LAT — lative; LOC — locative; M — masculine; N — neuter; NEG — negation; NON — not; NPL — non-human plural; OBL — oblique; PF — perfective; PL — plural; PN — person name; PTCL — particle; PTCP — participle; REFL — reflexive; SG — singular; SUPER — superessive; SUPEREL — superelative; SUPERLAT — superlative.
+## Glossing abbreviations
+AOR — aorist; APUD — apudessive; APUDLAT — apudlative; ATTR — attributive; CAUS — causative; COM — comitative; CONT — contessive; CONTEL — contelative; COP — copula; CV — converb; DAT — dative; EL — elative; ERG — ergative; GEN — genitive; IN — inside; INTER — interessive; IPF — imperfective; LAT — lative; LOC — locative; M — masculine; N — neuter; NEG — negation; NON — not; NPL — non-human plural; OBL — oblique; PF — perfective; PL — plural; PN — person name; PTCL — particle; PTCP — participle; REFL — reflexive; SG — singular; SUPER — superessive; SUPEREL — superelative; SUPERLAT — superlative.
