@@ -20,3 +20,6 @@ The English version of the questionnaire was used for elicitation. The identific
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}. 
 
+## Glossing abbreviations
+
+ADJ — adjective; AV — actor voice; CAUS — causative; COM — comitative; CV — causal voice; DAT — dative; EX — exclusive; EXIST — existential; GEN — genitive; IPFV — imperfective; LIN — linker; LV — locative voice; MAN — voice marker "man"; MOD — modal; NOM — nominative; PathV — path voice; PERS — personal; PFV — perfective; PL — plural; PN — person name; POT — potential; PRX — proximate; PV — patient voice; SG — singular; SOC — sociative; STAT — stative; STEM — stative; SUBJ — subject.
