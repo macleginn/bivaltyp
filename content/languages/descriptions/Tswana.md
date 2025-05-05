@@ -101,5 +101,9 @@ Additional TAM distinctions can be expressed by means of auxiliaries (Creissels 
 
 adpI = index representing an adnominal possessor, APPL = applicative, CAUS = causative, cl = class (agreement pattern), COM = comitative, DECAUS = decausative, DEM = demonstrative, DJ = disjoint, FUT = future, FV = final vowel,  GEN = genitive, INF = infinitive, INS = instrumental, LK = linker, LOC = locative, NEG = negative, oI = object index, PASS = passive, PL = plural, POT = potential, PRF = perfect*, PRN = proper name, PRO = pronoun, PROH = prohibitive, PST = past; Q = question marker, REC = reciprocal, REL = relativizer, SG = singular, sI = subject index. Numbers between parentheses immediately after the lexical gloss of noun forms identify the agreement pattern (or “class”) governed by the noun form.
 
+## Reference
+
+Creissels, Denis. 1999. Remarks on the sound correspondences between Proto-Bantu and Tswana. In Hombert, J.M. & L. Hyman (eds.), Bantu historical linguistics, theoretical and empirical perspectives. 297–334. Stanford: CSLI Publications.
+
 * For a proper understanding of the examples, it is also important to keep in mind that the Tswana TAM form labeled “perfect” has uses that do not correspond to those of the English Perfect: depending on the lexical aspect of the verb, the Tswana perfect may also have progressive and stative readings. See Crane (2013) for a detailed analysis of this situation in another Bantu language.
 
