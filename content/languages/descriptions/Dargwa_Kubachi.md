@@ -3,7 +3,7 @@ Contributed by Gasangusen Sulaibanov ([Academia.edu profile](https://independent
 
 ![G.S.'s photo]({{ site_url_j }}/images/Sulaibanov.jpg "G.S.'s photo")
 
-The data were gathered in {{ data_collection_year }} fromAmirbek Magomedov. The Russian version of the questionnaire was used for elicitation.
+The data were gathered in {{ data_collection_year }} from Amirbek Magomedov. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Sulaibanov, Gasangusen. 2025. Bivalent patterns in {{ language_external}}. 
