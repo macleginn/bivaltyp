@@ -65,7 +65,7 @@ The distinction between verbs with and without case-shift is part of the traditi
      ‘Maizer flatters Lile.’
 
 (5)  maizer-s  grip'-Ø  x-aː-r
-     PN-DAT    flu-NOM  IO3-VER:SUP-have
+     PN-DAT    flu-NOM  IO3-VER:SUP-be
      ‘Maizer has the flu.’ (#2)
 
 ```
