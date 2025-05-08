@@ -38,7 +38,7 @@ The ezafe marker appears on the head noun (possessee) in the genitive constructi
 The ezaphe marker often supresses the oblique marking, which can be seen in many examples in the dataset, e.g. #28 or #69.
 
 ## Verb lemmas
-Verbs are cited in the infinitive form, as they are normally given in Kurmanji dictionaries. Many verbs in Kurmanji are compound, consisting of the inflected light verb kirin ‘to do’ or bûn ‘to be’ and the second uninflected element, noun or adjective, e.g. ciza kirin ‘to punish’, literally ‘to do punishment’. All verbs in Kurmanji have two main inflectional bases: imperfective and perfective. The base of the verb is indicated in the glossing.
+Verbs are cited in the infinitive form, as they are normally given in Kurmanji dictionaries. Many verbs in Kurmanji are compound, consisting of the inflected light verb *kirin* ‘to do’ or *bûn* ‘to be’ and the second uninflected element, noun or adjective, e.g. *ciza kirin* ‘to punish’, literally ‘to do punishment’. All verbs in Kurmanji have two main inflectional bases: imperfective and perfective. The base of the verb is indicated in the glossing.
 
 ## Glossing abbreviations
 COP — copula; EXST — existential predicate; EZ — ezafe; F — feminine; GEN — generic; IMP — imperative; INDEF — indefinite; IPFV — imperfective; M — masculine; NEG — negation; NOM — nominative; OBL — oblique; PERF — perfect; PFV — perfective; PL — plural; PLUPERF — pluperfect; PN — person name; PRS — present; SG — singular.
