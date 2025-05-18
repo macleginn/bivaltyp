@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by Krasimira Petrova.
 
-The data were gathered in 2018 using the Russian version of the questionnaire.
+The data were gathered in 2018 using the Russian version of the questionnaire. Elena Ivanova has greatly contributed to the analysis of the data.
 
 ## How to cite
 > Petrova, Krasimira. 2025. Bivalent patterns in {{ language_external }}. 
