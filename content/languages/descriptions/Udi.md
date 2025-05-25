@@ -1,6 +1,6 @@
 # {{ language_external }}
 
-Contributed by [Timur Maisak](http://lingvarium.org/maisak/index-eng.htm) 
+Contributed by [Timur Maisak](https://iling-ran.ru/web/ru/scholars/maisak) ([Academia.edu profile](https://iling-ran.academia.edu/TimurMaisak))
 
 ![T.M.'s photo]({{ site_url_j }}/images/Maisak.jpg "G.A.'s photo")
 
