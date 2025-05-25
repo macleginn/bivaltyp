@@ -56,21 +56,23 @@ Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication
 ### Selected conference talks
 Rostovtsev-Popiel, Alexander. 2024. [Case-Marking Alignment in Kartvelian: An Insight from the BivalTyp Database](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Case_Marking.pdf). Paper presented at the First Eurasian Congress of Linguists. Moscow, December 9-13, 2024.
 
-Romanova, Nina. 2024. [Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax](https://bivaltyp.info/docs/Romanova_2024_Svjaz_young.pdf) [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg. November 21–23, 2024. (in Russian)
+Romanova, Nina. 2024. [Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax](https://bivaltyp.info/docs/Romanova_2024_Svjaz_young.pdf) [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg, November 21–23, 2024. (in Russian)
 
 Zabelina, Elizaveta. 2024. [Markirovanie aktantov emotivnyx predikatov v xindi](https://bivaltyp.info/docs/Zabelina_2024_Markirovanie.pdf) [Argument marking in Hindi emotive predicates]. Paper presented at the 4th "Dubyanskiy readings". Moscow, September 25-27, 2024. (in Russian)
 
-Say, Sergey. 2024. [Complexity in valency class systems and its typological correlates](https://bivaltyp.info/docs/Say_2024_Complexity_Pavia.pdf). Paper presented at the PaVeDa workshop. Verbal Valency, Valency Databases and the Pavia Verbs Database. University of Pavia. May 15, 2024. 
+Say, Sergey. 2024. [Bivalent verb classes across Slavic: areal and genealogical patterns](https://bivaltyp.info/docs/Say_2024_Valency_Slavic_Belgrade.pdf). Paper presented at the 47th Meeting of the Commission on the Grammatical Structure of the Slavic Languages of the International Committee of Slavicists. Belgrade, September 12–14, 2024. 
+
+Say, Sergey. 2024. [Complexity in valency class systems and its typological correlates](https://bivaltyp.info/docs/Say_2024_Complexity_Pavia.pdf). Paper presented at the PaVeDa workshop. Verbal Valency, Valency Databases and the Pavia Verbs Database. University of Pavia, May 15, 2024. 
 
 Rostovtsev-Popiel, Alexander. 2023. [Dvuxvalentnye glagoly v kartvel'skix jazykax skvoz' prizmu tipologicheskoj bazy dannyx dvixvalentnyx glagolov (BivalTyp)](https://bivaltyp.info/docs/Rostovtsev_Popiel_2023_Dvuxvalentnye.pdf) [Bivalent verbs in Kartvelian languages through the prism of the BivalTyp typological database]. Paper presented at the II  International Linguistic and Anthropological Congress of Caucasian Studies. Tbilisi, October 17-19, 2023. (in Russian)
 
-Kirill Kozhanov, Sergey Say. 2023. [Genealogy vs. contact configuration: argument coding across Romani dialects in Europe](https://bivaltyp.info/docs/Kozhanov_Say_2023_Genealogy.pdf). 56th Annual Meeting of the Societas Linguistica Europaea. National and Kapodistrian University of Athens. August 29 – September 1, 2023.
+Kirill Kozhanov, Sergey Say. 2023. [Genealogy vs. contact configuration: argument coding across Romani dialects in Europe](https://bivaltyp.info/docs/Kozhanov_Say_2023_Genealogy.pdf). 56th Annual Meeting of the Societas Linguistica Europaea. National and Kapodistrian University of Athens, August 29 – September 1, 2023.
 
-Say, Sergey. 2023. [Cross-linguistic variability in complexity of valency class systems: implications for efficiency](https://bivaltyp.info/docs/Say_2023_Cross_Linguistic.pdf). Efficiency in grammar: Patterns and explanations. University of Freiburg. July 5, 2023. 
+Say, Sergey. 2023. [Cross-linguistic variability in complexity of valency class systems: implications for efficiency](https://bivaltyp.info/docs/Say_2023_Cross_Linguistic.pdf). Efficiency in grammar: Patterns and explanations. University of Freiburg, July 5, 2023. 
 
 Say, Sergey. 2023. [Understanding argument roles through the prism of BivalTyp (a typological database of bivalent verbs and their encoding frames)](https://bivaltyp.info/docs/Say_2023_Understanding.pdf). Linguistische Werkstatt. Otto-Friedrich-Universität Bamberg. 31. Mai 2023. 
 
-Chistyakova, D. G. & D.A. Ryzhova. 2023. [Kodirovanie argumentov dvuxmestnyx predikatov v shugnanskom yazyke](https://bivaltyp.info/docs/Chistjakova_Ryzhova_2023_Kodirovanie.pdf) [Argument encoding in Shughni bivalent verbs]. Paper presented at the seminar for Iranian studies, NRU Higher School of Economics and Institute of Linguistics, Moscow. March 31, 2023.
+Chistyakova, D. G. & D.A. Ryzhova. 2023. [Kodirovanie argumentov dvuxmestnyx predikatov v shugnanskom yazyke](https://bivaltyp.info/docs/Chistjakova_Ryzhova_2023_Kodirovanie.pdf) [Argument encoding in Shughni bivalent verbs]. Paper presented at the seminar for Iranian studies. NRU Higher School of Economics and Institute of Linguistics, Moscow, March 31, 2023.
 
 Say, Sergey. [Measuring predictability of argument realization patterns in bivalent verbs](https://bivaltyp.info/docs/Say_2023_03_21_Valency_predictability.pdf). Talk at the EDAP 2023 (Explaining the cross-linguistic distribution of argument-coding patterns) conference. University of Potsdam. March 21-23, 2023.
 
