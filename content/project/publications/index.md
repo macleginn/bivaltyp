@@ -4,6 +4,8 @@
 Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
 
 ### Articles and book chapters
+Kozhanov, Kirill & Sergey Say. 2025. [Variation in valency patterns across Romani dialects is primarily shaped by contact languages](https://doi.org/10.1075/sl.23067.koz). *Studies in language*. ([Prefinal proof as of 14.02.2025](https://bivaltyp.info/docs/Kozhanov_Say_2025_Variation_prefinal_proof.pdf))
+
 Alfimova, Daria. 2024. [Object marking in Western Eurasia](https://bivaltyp.info/docs/Alfimova_2024_Object.pdf). The Circum-Baltic area dissolves into the broader areal background. Journal of language contact 17, 281-314.
 
 Shagal, Ksenia & Alena Blinova (accepted). Bivalent verb classes in Skolt Saami: A pilot study. In: Rogier Blokland, Michael Rießler & Torbjörn Söder (eds), Saami Linguistics in Uppsala. The 2019 SAALS 4 Symposium. Studia Uralica Upsaliensia, volume 42. Uppsala: Uppsala University.
