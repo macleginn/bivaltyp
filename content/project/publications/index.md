@@ -54,9 +54,11 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
+Say, Sergey. 2025. [Genealogical and areal patterns in the distribution of bivalent valency class systems](https://bivaltyp.info/docs/ Say_2025_Genealogical_Bern.pdf). Paper presented at the ISW Colloquium. University of Bern, Department of Linguistics, March 31, 2025.
+
 Rostovtsev-Popiel, Alexander. 2024. [Case-Marking Alignment in Kartvelian: An Insight from the BivalTyp Database](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Case_Marking.pdf). Paper presented at the First Eurasian Congress of Linguists. Moscow, December 9-13, 2024.
 
-Kuzin, Nikita & Sergey Say. 2024. [Valency classes in the languages of West Asia](Kuzin_Say_2024_Valency_LACIM.pdf). Paper presented at the LACIM (European research network on linguistics and languages of the Anatolia-Caucasus-Iran-Mesopotamia area) 2024 International conference. Inalco, Paris, December 4-5, 2024.
+Kuzin, Nikita & Sergey Say. 2024. [Valency classes in the languages of West Asia](https://bivaltyp.info/docs/Kuzin_Say_2024_Valency_LACIM.pdf). Paper presented at the LACIM (European research network on linguistics and languages of the Anatolia-Caucasus-Iran-Mesopotamia area) 2024 International conference. Inalco, Paris, December 4-5, 2024.
 
 Romanova, Nina. 2024. [Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax](https://bivaltyp.info/docs/Romanova_2024_Svjaz_young.pdf) [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg, November 21–23, 2024. (in Russian)
 
