@@ -56,6 +56,8 @@ Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication
 ### Selected conference talks
 Rostovtsev-Popiel, Alexander. 2024. [Case-Marking Alignment in Kartvelian: An Insight from the BivalTyp Database](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Case_Marking.pdf). Paper presented at the First Eurasian Congress of Linguists. Moscow, December 9-13, 2024.
 
+Kuzin, Nikita & Sergey Say. 2024. [Valency classes in the languages of West Asia](Kuzin_Say_2024_Valency_LACIM.pdf). Paper presented at the LACIM (European research network on linguistics and languages of the Anatolia-Caucasus-Iran-Mesopotamia area) 2024 International conference. Inalco, Paris, December 4-5, 2024.
+
 Romanova, Nina. 2024. [Svjaz’ markirovanija aktantov i etimologicheskogo rodstva dvuxvalentnyx predikatov v romanskix jazykax](https://bivaltyp.info/docs/Romanova_2024_Svjaz_young.pdf) [The relationship between argument marking and the etymological relatedness of bivalent predicates in Romance languages]. Paper presented at the 21st Conference on Typology and Grammar for Young Scholars. Institute for Linguistic Studies, RAS, St. Petersburg, November 21–23, 2024. (in Russian)
 
 Zabelina, Elizaveta. 2024. [Markirovanie aktantov emotivnyx predikatov v xindi](https://bivaltyp.info/docs/Zabelina_2024_Markirovanie.pdf) [Argument marking in Hindi emotive predicates]. Paper presented at the 4th "Dubyanskiy readings". Moscow, September 25-27, 2024. (in Russian)
