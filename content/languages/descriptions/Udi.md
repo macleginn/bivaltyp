@@ -4,7 +4,7 @@ Contributed by [Timur Maisak](https://iling-ran.ru/web/ru/scholars/maisak) ([Aca
 
 ![T.M.'s photo]({{ site_url_j }}/images/Maisak.jpg "G.A.'s photo")
 
-The data were collected in 2018-2019 using the Russian version of the questionnaire. The data were provided by Rafik Danakari. Corina van Willigen and Vladislav Dabakov contributed to the collection and analysis of the data.
+The data were collected in 2018-2019 using the Russian version of the questionnaire. The data come from the Nidzh dialect of Udi. The translations were provided by Rafik Danakari. Corina van Willigen and Vladislav Dabakov contributed to the collection and analysis of the data.
 
 ## How to cite
 
