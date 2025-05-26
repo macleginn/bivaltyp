@@ -1,7 +1,9 @@
 # {{ language_external }}
 Contributed by Ekaterina Sergeeva.
 
-Translations were elicited from two native speakers of Komi-Zyrian in Syktyvkar in 2013, using the Russian version of the questionnaire.
+Translations were elicited from two native speakers of Komi-Zyrian in Syktyvkar in 2013, using the Russian version of the questionnaire. Further details can be found in Sergeeva (2018).
+
+> Sergeeva, E. N. 2018. Markirovanie aktantov dvuxmestnyx predikatov v komi-zyryanskom literaturnom yazyke. pp. 339–353.
 
 ## How to cite
 > Sergeeva, Ekaterina. 2025. Bivalent patterns in {{ language_external}}. 
