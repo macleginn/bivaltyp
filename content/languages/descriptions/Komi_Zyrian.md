@@ -3,7 +3,8 @@ Contributed by Ekaterina Sergeeva.
 
 Translations were elicited from two native speakers of Komi-Zyrian in Syktyvkar in 2013, using the Russian version of the questionnaire. Further details can be found in Sergeeva (2018).
 
-> Sergeeva, E. N. 2018. Markirovanie aktantov dvuxmestnyx predikatov v komi-zyryanskom literaturnom yazyke. pp. 339–353.
+> Sergeeva, E. N. 2018. Markirovanie aktantov dvuxmestnyx predikatov v komi-zyryanskom literaturnom yazyke [Bivalent verbs' argument coding in standard Komi-Zyrian]. In S. S. Say (ed.). [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. 
+339–353.
 
 ## How to cite
 > Sergeeva, Ekaterina. 2025. Bivalent patterns in {{ language_external}}. 
