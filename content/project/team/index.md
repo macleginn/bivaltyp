@@ -57,6 +57,7 @@ Anna Alexandrova, Chiara Naccarato: {{ language:Italian }}
 Daria Alfimova, Søren Wichmann: {{ language:Danish }}  
 Mansour Amadeh: {{ language:Kurdish_Sorani }}  
 Ekaterina Aplonova: {{ language:Goo }}  
+Yana Aquilina: {{ language:Maltese }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
 Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Budugh }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Southern }}, {{ language:Tsakhur }}  
