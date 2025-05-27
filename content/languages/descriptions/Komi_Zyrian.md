@@ -1,7 +1,7 @@
 # {{ language_external }}
 Contributed by [Ekaterina Sergeeva](https://www.linkedin.com/in/ekaterina-sergeeva-8a45a531/) ([Academia.edu profile](https://iling-spb.academia.edu/EkaterinaSergeeva)).
 
-
+![E.S.'s photo]({{ site_url_j }}/images/Sergeeva.jpg "E.S.'s photo")
 
 Translations were elicited from two native speakers of Komi-Zyrian in Syktyvkar in 2013, using the Russian version of the questionnaire. 
 
