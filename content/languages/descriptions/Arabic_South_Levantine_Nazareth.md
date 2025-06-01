@@ -25,11 +25,11 @@ Subjects and direct objects are unflagged. Subjects (A- and S-arguments), whethe
 
 ### Case system
 
-THere is no morphological case on nouns.
+There is no morphological case on nouns.
 
 ### Verb lemmas
 
-Verbs are cited by their three consonantal skeletons, which make up the root of the verb, and the verb is conjugated accordingly.
+Verbs are cited by their three-consonantal skeletons, which make up the root of the verb.
 
 ## Glossing abbreviations
 CS — construct state; DEF — definite; F — feminine; M — masculine; N — noun; PASS — passive; PL — plural; PN — person name; POSS — possessive; PROG — progressive; PRS — present; PST — past; PTCP — participle; SG — singular.
