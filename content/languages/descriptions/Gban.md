@@ -17,3 +17,7 @@ The data were gathered in {{ data_collection_year }} from Julienne Kouadio (see 
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+AG — agentive; CAUS — causative; FOC — subject focus; GEN — genitive; HEST — hesternal; HOD — hodiernal; IND — indicative; INF — infinitive; IPFV — imperfective; LOC — locative; LREL — left relativization; NEG — negation; NMLZ — nominalization; PFV — perfective; PL — plural; PN — person name; PREH — pre-hesternal; PST — past; SBJV — subjunctive; SG — singular.
