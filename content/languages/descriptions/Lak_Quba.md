@@ -3,6 +3,7 @@ Contributed by [Michael Daniel](https://mishadaniel.github.io/), [Victor A. Frie
 
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
 ![V.F.'s photo]({{ site_url_j }}/images/Friedman.jpg "V.F.'s photo")
+![Sh.G.'s photo]({{ site_url_j }}/images/Gamzalaev.jpeg "Sh.G.'s photo")
 
 The data were contributed in 2024 and 2025 by Shakhmurad Gamzalaev. The Russian version of the questionnaire was used for elicitation.
 
