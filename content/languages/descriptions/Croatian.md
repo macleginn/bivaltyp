@@ -13,3 +13,7 @@ The data were gathered in 2018 using the Russian version of the questionnaire.
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ACC — accusative; DAT — dative; F — reminine; GEN — genitive; INS — instrumental; LOC — locative; M — masculine; N — neuter; NEG — negation; NOM — nominative; PART — partitive; PASS — passive; PERF — perfect; PL — plural; PN — person name; PRS — present; REFL — reflexive; SG — singular.
