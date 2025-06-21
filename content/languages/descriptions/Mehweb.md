@@ -16,3 +16,7 @@ The data were initially gathered in 2018 and then some changes have been made in
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+AD — localization 'at'; ADD — additive; ADVZ — adverbializer; AOR — aorist; APUD — localization 'near, beside'; ATTR — attributive; CARD — cardinal; CAUS — causative; COM — comitative; CONT — localization 'in contact with'; CVB — converb; DAT — dative; EL — elative; EMPH — emphatic; ERG — ergative; ESS — essive; F — feminine; GEN — genitive; HAB — habitual; HPL — human plural; IMM — immediate; IMP — imperative; IN — localization 'in'; INF — infinitive; IPFV — imperfective; LAT — lative; LV — light verb; M — masculine; N — neuter; NEG — negation; NMLZ — nominalization; NPL — non-human plural; OBL — oblique; PFV — perfective; PL — plural; PN — person name; POST — posterior; PST — past; PTCL — particle; PV — preverb; RU — Russian loan; SUPER — localization 'on'.
