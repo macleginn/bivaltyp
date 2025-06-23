@@ -13,3 +13,7 @@ The data were gathered in 2018 using the Russian version of the questionnaire. E
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ACC — accusative; AOR — aorist; COUNT — count form; DAT — dative; DEF — definite; F — masculine; IMP — imperative; IPFV — imperfective; M — masculine; N — neuter; NEG — negation; PAST — past; PFV — perfective; PL — plural; PN — person name; PRO — pronoun; PRS — present; PTCP — participle; REFL — reflexive; SG — singular; SHORT — short form of the definite article; SUBJ — subjunctive.
