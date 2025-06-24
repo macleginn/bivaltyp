@@ -16,4 +16,4 @@ The data were gathered in 2018 using the Russian version of the questionnaire.
 
 ## Glossing abbreviations
 
-ACC — accusative; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; LOC — locative; M — masculine; N — neuter; NEG — negation; NOM — nominative; PART — participle; PASS — passive; PERF — perfect; PL — plural; PN — person name; PRS — present; REFL — reflexive; SG — singular.
+3 — 3rd person; ACC — accusative; DAT — dative; F — feminine; GEN — genitive; INS — instrumental; LOC — locative; M — masculine; N — neuter; NEG — negation; NOM — nominative; PART — participle; PASS — passive; PERF — perfect; PL — plural; PN — person name; PRS — present; REFL — reflexive; SG — singular.
