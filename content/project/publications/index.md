@@ -54,6 +54,8 @@ Azargaeva, A. V. 2016. [Valentnostnye klassy dvuxmestnyx glagolov v burjatskom j
 Perkova, Natalia. 2013. [Non-canonical argument marking in two-place predication: the case of the Baltic languages](https://bivaltyp.info/docs/Perkova_2013_NonCanonical.pdf). Unpublished paper, Stockholm.
 
 ### Selected conference talks
+Romanova, Nina. 2025. [O prichinax nesovpadenij v kodirovanii aktantov kognatnyx predikatov](https://bivaltyp.info/docs/Romanova_2025_O_prichinax.pdf) [On causes of argument coding mismatches in cognate predicates]. Paper presented at the 28th Open Conference of Student Philologists. St. Petersburg State University, April 14-19, 2025.  
+
 Say, Sergey. 2025. [Genealogical and areal patterns in the distribution of bivalent valency class systems](https://bivaltyp.info/docs/Say_2025_Genealogical_Bern.pdf). Paper presented at the ISW Colloquium. University of Bern, Department of Linguistics, March 31, 2025.
 
 Rostovtsev-Popiel, Alexander. 2024. [Case-Marking Alignment in Kartvelian: An Insight from the BivalTyp Database](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Case_Marking.pdf). Paper presented at the First Eurasian Congress of Linguists. Moscow, December 9-13, 2024.
