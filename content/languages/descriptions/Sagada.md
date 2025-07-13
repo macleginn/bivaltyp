@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by [Zaira Khalilova](https://iling-ran.ru/web/en/scholars/khalilova). 
 
+![Z.Kh.'s photo]({{ site_url_j }}/images/Khalilova.jpg "Z.Kh.'s photo")
+
 The data were gathered in 2025. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
