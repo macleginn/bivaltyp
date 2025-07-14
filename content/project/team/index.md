@@ -97,7 +97,8 @@ Volha Harytskaya: {{ language:Belarusian }}
 Ingunn Hreinberg Indriðadóttir: {{ language:Icelandic }}  
 Ildar Ibragimov: {{ language:Greek_Ancient }}  
 Vasilisa Kagirova: {{ language:Armenian_Eastern }}  
-Maria Khachaturyan: {{ language:Mano }}
+Maria Khachaturyan: {{ language:Mano }}  
+Zaira Khalilova: {{ language:Sagada }}  
 Maria Kholodilova: {{ language:Moksha }}, {{ language:Chuvash }}  
 Max Kłoczenko: {{ language:Portuguese_Brazilian }}  
 Mikhail Knyazev: {{ language:Dutch }}  
