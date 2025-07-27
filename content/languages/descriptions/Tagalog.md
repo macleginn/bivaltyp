@@ -36,11 +36,12 @@ Table 1. Case markers in common nouns
 
 Table 2. Case markers in person nouns
 
-<div class="before-table"></div>
+<div class="before-table"></div>0
 
-	PERS.SUBJ	PERS.GEN	PERS.DAT
-SG	si	ni	kay
-PL	sina	nina	kina
+|    | **PERS.SUBJ** | **PERS.GEN** | **PERS.DAT** |
+| -- | ------------- | ------------ | ------------ |
+| SG | _si_          | _ni_         | _kay_        |
+| PL | _sina_        | _nina_       | _kina_       |
 
 The variation between forms shown within individual cells in Table 1 is not relevant to the discussion of basic clause syntax or valency classes in Tagalog.
 
