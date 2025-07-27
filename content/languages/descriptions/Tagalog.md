@@ -26,11 +26,17 @@ The Tagalog argument marking system is notoriously complex, posing challenges fo
 In Tagalog, core nominals are typically marked by preposed functional elements, referred to here as “case markers” for simplicity. These markers cumulatively express number, so-called “case”, and the distinction between common and personal nouns. Tables 1 and 2 present the paradigms of case markers for common and personal nouns, respectively. The column labels in Tables 1 and 2 are also used in the interlinear glosses below.
 
 Table 1. Case markers in common nouns
-	SUBJ	GEN	DAT
+
+<div class="before-table"></div>
+
+ SUBJ	GEN	DAT
 SG	ang, ‘yung (iyong)	ng, nu’ng (niyong)	sa
 PL	ang mgá, ‘yung mgá, (iyong mgá)	ng mgá, nu’ng mgá (niyong mgá)	sa mgá
 
 Table 2. Case markers in person nouns
+
+<div class="before-table"></div>
+
 	PERS.SUBJ	PERS.GEN	PERS.DAT
 SG	si	ni	kay
 PL	sina	nina	kina
