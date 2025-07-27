@@ -36,7 +36,7 @@ Table 1. Case markers in common nouns
 
 Table 2. Case markers in person nouns
 
-<div class="before-table"></div>0
+<div class="before-table"></div>
 
 |    | **PERS.SUBJ** | **PERS.GEN** | **PERS.DAT** |
 | -- | ------------- | ------------ | ------------ |
