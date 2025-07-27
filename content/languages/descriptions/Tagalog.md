@@ -48,13 +48,14 @@ The variation between forms shown within individual cells in Table 1 is not rele
 The most typologically unusual, challenging, and widely discussed feature of Tagalog syntax is the system of so-called Philippine-style voice. Each Tagalog verb can appear in several constructions that differ in verb morphology and the case markers used on nominal arguments. Semantically, voice contrasts reflect differences in information structure, definiteness, and related factors. What makes this system truly striking is that none of the voice constructions can be unequivocally considered the basic one. To illustrate, examples (1) and (2) show two voice constructions with the same verb, ‘throw’.
 
 ```
-(1) nag-hagis Pedro ng bato
-AV.PFV-throw PERS.SUBJ PN GEN stone
-‘Pedro threw a stone.’
+(1)  nag-hagis     si         Pedro  ng   bato
+     AV.PFV-throw  PERS.SUBJ  PN     GEN  stone
+     ‘Pedro threw a stone.’
 
-(2) h<in>agis ni Pedro ang bato
-<PV>PFV.throw PERS.GEN PN SUBJ stone
-‘Pedro threw a stone.’
+(2)  h<in>agis     ni        Pedro  ang   bato
+     <PV>PFV.throw PERS.GEN  PN     SUBJ  stone
+     ‘Pedro threw a stone.’
+```
 
 In (1), the actor (the person who threw the stone) is marked by the SUBJ case marker, and the undergoer (the object thrown) by the GEN marker. In (2), this mapping is reversed: the undergoer takes the SUBJ marker, and the actor is marked by GEN. Both constructions feature overt voice morphology. The pattern in (1) is known as “actor voice” (AV), as the actor is marked by SUBJ; (2) shows the “patient voice” (PV), where the undergoer receives SUBJ marking. The availability of both patterns, as in (1) and (2), is a hallmark of verbs like ‘kill’ and defines the transitive verb class in Tagalog.
 The main challenge the Tagalog voice system poses for the BivalTyp database is that, unlike most familiar Eurasian languages, the syntactic argument set cannot be reliably identified from a single translation of a questionnaire sentence. As examples (1) and (2) show, the GEN-marked argument may represent either the actor or the undergoer. Since the database requires assigning a syntactic set to each verb-specific argument, we introduced rules for inferring these sets from observed patterns. The three most important mappings—used to identify argument sets labeled “ACT,” “UND,” and “LOC”—are outlined below.
