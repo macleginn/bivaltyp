@@ -68,21 +68,27 @@ iii. LOC is the argument that is encoded by the SUBJ marker in the LV constructi
 
 The mapping in (i) has been sufficiently illustrated by examples (1) and (2). Mapping (ii) is more complex: in voices other than PV, undergoers (“UND”) can be marked not only by GEN, as in (1), but also by DAT, as shown in (3), which corresponds to questionnaire sentence #28. 
 
-(3) nag-hi~hintay si Pedro kay Miguel
-AV-IPFV~wait PERS.SUBJ PN PERS.DAT PN
-‘Pedro is waiting for Miguel.’
+```
+(3)  nag-hi~hintay  si         Pedro  kay       Miguel
+     AV-IPFV~wait   PERS.SUBJ  PN     PERS.DAT  PN
+     ‘Pedro is waiting for Miguel.’
+```
 
 The choice between GEN and DAT marking of the undergoer (UND) in the AV construction, as in (1) and (3), follows complex rules where humanness is crucial, though other factors apply. Thus, the SUBJ + DAT pattern in AV, unlike SUBJ + GEN, is not fully diagnostic: it can indicate a transitive verb, as in (3), or reflect lexically determined DAT marking that never co-occurs with GEN in AV, as in (4).
 
-(4) <um>i~iwas si Pedro kay Miguel
-<AV>IPFV~avoid PERS.SUBJ PN PERS.DAT PN
-‘Pedro avoids Miguel.’
+```
+(4)  <um>i~iwas      si         Pedro  kay       Miguel
+     <AV>IPFV~avoid  PERS.SUBJ  PN     PERS.DAT  PN
+     ‘Pedro avoids Miguel.’
+```
 
 The second argument in (4)—the person or object avoided—cannot be classified as “UND” since it does not vary with GEN coding in the AV construction nor appear as SUBJ in the PV construction. Following mapping (iii), it is classified as LOC because it is obligatorily marked by DAT in the AV construction, as in (4), and by SUBJ in the locative voice, as shown in (5). 
 
-(5) <In>i~iwas-an ni Pedro si Miguel
-<PV>IPFV~avoid-LV PERS.GEN PN PERS.SUBJ PN
-‘Pedro avoids Miguel.’
+```
+(5)  <in>i~iwas-an      ni        Pedro  si         Miguel
+     <PV>IPFV~avoid-LV  PERS.GEN  PN     PERS.SUBJ  PN
+     ‘Pedro avoids Miguel.’
+```
 
 In short, unlike most languages in the sample, correctly identifying a verb’s lexical valency pattern requires comparing multiple voice constructions of that verb and determining its argument sets using criteria like those in i)–iii).
 
@@ -98,8 +104,8 @@ This analysis treats Tagalog as having three distinct nominal cases—SUBJ, GEN,
 
 ## Verb lemmas
 
-Verbs are cited by their standard infinitive-like dictionary citation forms
+Verbs are cited by their standard infinitive-like dictionary citation forms.
 
 ## Glossing abbreviations
 
-ADJ — adjective; AV — actor voice; CAUS — causative; COM — comitative; CV — causal voice; DAT — dative; EX — exclusive; EXIST — existential; GEN — genitive; IPFV — imperfective; LIN — linker; LV — locative voice; MAN — voice marker "man"; MOD — modal; NOM — nominative; PathV — path voice; PERS — personal; PFV — perfective; PL — plural; PN — person name; POT — potential; PRX — proximate; PV — patient voice; SG — singular; SOC — sociative; STAT — stative; STEM — stative; SUBJ — subject.
+ADJ — adjective; AV — actor voice; CAUS — causative; COM — comitative; CV — causal voice; DAT — dative; EX — exclusive; EXIST — existential; GEN — genitive; IPFV — imperfective; LIN — linker; LV — locative voice; MAN — voice marker "man"; MOD — modal; NOM — nominative; PathV — path voice; PERS — personal; PFV — perfective; PL — plural; PN — person name; POT — potential; PRX — proximate; PV — patient voice; SG — singular; SOC — sociative; STAT — stative; STEM — stem; SUBJ — subject.
