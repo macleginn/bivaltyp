@@ -47,6 +47,7 @@ The variation between forms shown within individual cells in Table 1 is not rele
 
 The most typologically unusual, challenging, and widely discussed feature of Tagalog syntax is the system of so-called Philippine-style voice. Each Tagalog verb can appear in several constructions that differ in verb morphology and the case markers used on nominal arguments. Semantically, voice contrasts reflect differences in information structure, definiteness, and related factors. What makes this system truly striking is that none of the voice constructions can be unequivocally considered the basic one. To illustrate, examples (1) and (2) show two voice constructions with the same verb, ‘throw’.
 
+```
 (1) nag-hagis Pedro ng bato
 AV.PFV-throw PERS.SUBJ PN GEN stone
 ‘Pedro threw a stone.’
