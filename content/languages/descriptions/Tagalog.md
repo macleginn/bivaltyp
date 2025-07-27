@@ -29,9 +29,10 @@ Table 1. Case markers in common nouns
 
 <div class="before-table"></div>
 
- SUBJ	GEN	DAT
-SG	ang, ‘yung (iyong)	ng, nu’ng (niyong)	sa
-PL	ang mgá, ‘yung mgá, (iyong mgá)	ng mgá, nu’ng mgá (niyong mgá)	sa mgá
+|    | **SUBJ**                          | **GEN**                          | **DAT**  |
+| -- | --------------------------------- | -------------------------------- | -------- |
+| SG | _ang, ‘yung (iyong)_              | _ng, nu’ng (niyong)_             | _sa_     |
+| PL | _ang mgá, ‘yung mgá, (iyong mgá)_ | _ng mgá, nu’ng mgá (niyong mgá)_ | _sa mgá_ |
 
 Table 2. Case markers in person nouns
 
