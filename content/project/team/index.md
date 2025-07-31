@@ -60,7 +60,7 @@ Ekaterina Aplonova: {{ language:Goo }}
 Yana Aquilina: {{ language:Maltese }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
-Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Budugh }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Southern }}, {{ language:Tsakhur }}  
+Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Budugh }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Shin_Borch }}, {{ language:Tsakhur }}  
 Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
 Gilles Authier, Uzlipat Gasanova, Gasangusen Sulaibanov: {{ language:Dargwa_Kaytag }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
