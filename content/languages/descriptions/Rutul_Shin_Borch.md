@@ -16,7 +16,7 @@ The data were collected in 2023 using the Russian version of the questionnaire. 
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
-The data come from the Southern dialect of Rutul, sometimes referred to as the dialect of Shina-Borch.
+The dialect of Shin-Borch together with the dialect of Khnov is part of an idiom that is sometimes referred to as Southern Rutul.
 
 ## Grammaar notes
 
