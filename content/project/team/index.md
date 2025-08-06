@@ -103,6 +103,7 @@ Maria Kholodilova: {{ language:Moksha }}, {{ language:Chuvash }}
 Max Kłoczenko: {{ language:Portuguese_Brazilian }}  
 Mikhail Knyazev: {{ language:Dutch }}  
 Elena Kolpachkova: {{ language:Chinese_Mandarin }}  
+Daria Konior: {{ language:Romanian }}  
 Maria Konoshenko: {{ language:Kpelle_Guinean }}  
 Yukari Konuma: {{ language:Japanese }}  
 Elena Kordi: {{ language:French }}  
@@ -151,7 +152,6 @@ Ksenia Shagal, Emil Ingelsten, David Avellan-Hultman: {{ language:Swedish }}
 Mayya Shlyakhter: {{ language:Bengali }}  
 Natalia Stoynova: {{ language:Ulcha }}  
 Ksenia Studenikina: {{ language:Mari_Western }}  
-Daria Suetina (Konior): {{ language:Romanian }}  
 Gasangusen Sulaibanov:  {{ language:Dargwa_Kubachi }}, {{ language:Dargwa_Tsugni }}, {{ language:Dargwa_Tsudakhar }}  
 Nina Sumbatova, Naida Vagizieva:  {{ language:Dargwa_Kadar }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
