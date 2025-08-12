@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Natalia Bogomolova](https://www.uni-bamberg.de/aspra/team/aktuelles-team/dr-natalia-bogomolova/) 
+Contributed by [Natalia Bogomolova](https://www.uni-bamberg.de/en/oriental-studies/general-linguistics/staff/prof-dr-natalia-bogomolova/) 
 
 Dagmara Seferova-Juzbekova provided the translations in {{ data_collection_year }}. The Russian version of the questionnaire was used for elicitation.
 
