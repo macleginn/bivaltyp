@@ -17,3 +17,6 @@ The data were gathered in {{ data_collection_year }} from a male speaker of the 
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+## Glossing abbreviations
+
+CSTR — construct state; DEF — definite; DU — dual; F — feminine; FS — feminine singular; IPF — imperfective; IPFV — imperfective; IPV — imperative; M — masculine; MS — masculine singular; O — object; PF — perfective; PL — plural; PN — person name; POSS — possessive; PRS — present; PTCP — participle; SG — singular.
