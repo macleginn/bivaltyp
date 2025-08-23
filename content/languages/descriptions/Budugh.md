@@ -16,3 +16,6 @@ The data were collected in 2024 using the Russian and Azerbaijani versions of th
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+A — the "A" gender; ABL — ablative; ADR — addressee (case marker); ADV — adverb; APUD — localization "at, near, by"; CO — coverb; COM — comitative; COP — copula; DAT — dative; DIR — directional (case); ERG — ergative; F — feminine; GEN — genitive; H — human; HPL — human plural; IMPER — imperative; IPFV — imperfective; LOC — locative; M — masculine; N — neuter; NEG — negation; NOM — nominative; NONPST — nonpast; OBL — oblique; PART — partitive; PFV — perfective; PL — plural; PN — person name; PRF — perfect; PROG — progressive; PROX — proximate; PTCP — participle; REFL — reflexive; SEQ — sequential; SG — singular; SUB — localization "under".
