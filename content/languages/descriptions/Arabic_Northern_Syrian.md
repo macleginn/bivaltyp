@@ -29,6 +29,8 @@ There is no morphological case on nouns.
 
 ## Verb lemmas
 
+Verbs are cited in their 3 person masculine singular perfective (PFV) form.
+
 ## Glossing abbreviations
 
 CSTR — construct state; DEF — definite; DU — dual; F — feminine; IPFV — imperfective; IPV — imperative; M — masculine; O — object; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRS — present; PTCP — participle; SG — singular.
