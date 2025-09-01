@@ -17,6 +17,18 @@ The data were gathered in {{ data_collection_year }} from a male speaker of the 
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+## Grammar notes
+
+### Basic clause structure and the transitive construction
+
+Subjects and direct objects are unflagged. Subjects (A- and S-arguments), whether nominal or pronominal, are indexed on the verb for person, number, and gender. Pronominal direct objects are indexed on the verb via enclitic pronouns, which are distinct from the subject markers and also function as possessive markers on nouns. Non-core arguments are introduced by prepositions.
+
+### Case system
+
+There is no morphological case on nouns.
+
+## Verb lemmas
+
 ## Glossing abbreviations
 
 CSTR — construct state; DEF — definite; DU — dual; F — feminine; IPFV — imperfective; IPV — imperative; M — masculine; O — object; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRS — present; PTCP — participle; SG — singular.
