@@ -18,4 +18,6 @@ The data were gathered in 2017. The language of elicitation was Russian.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+## Glossing abbreviations
 
+ACC — accusative; AOR — aorist; ART — article; DAT — dative; DEM — demonstrative; F — feminine; IMP — imperative; IMPF — Imperfect; IPFV — imperfective; M — masculine; MED — medial; N — Neuter; OBL — oblique; PASS — passive; PFV — perfective; PL — plural; PN — person name; PRF — perfect; PRO —pronoun; PROX — proximal; PRS — present; PTCP — participle; REFL — reflexive; SG — singular.
