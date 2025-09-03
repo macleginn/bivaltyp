@@ -25,55 +25,28 @@ Shughni shows nominative-accusative alignment with elements of split-intransitiv
 
 In the basic transitive construction, both core arguments, if expressed by nouns, remain unflagged. However, personal pronouns and demonstratives differentiate between the nominative (direct) case for the A-argument and oblique case, for the O-argument, annotated as "OBL" in the valency class tags below. Apart from this, in the past tense, A-arguments are obligatorily indexed by the subject clitic *=i*, as in(1).
 
-(1)
-Šamil=i
-Azim
-zīd
-pn =3 sg
-pn
-kill. pst
+(1) Šamil=i	Azim	zīd
+PN =3 SG	PN	kill. PST
 ‘Shamil killed Azim.’
 
 While all intransitive subjects pattern with transitive subjects in terms of flagging, there are two types of intransitive subjects differentiated in terms of indexing. Some of them (annotated as NOM.CL in the valency class tags below) do receive the same *=i* clitic, as in (2), while others (annotated as NOM.NO.CL in the valency class tags) do not, as in (3).
 
-(2)
-Ahmed=i
-as
-Karamšo
-yod
-pn =3 sg
-el
-pn
-bring. pst
+(2) Ahmed=i	as	Karamšo	yod
+PN =3 SG	EL	PN	bring. PST
 ‘Ahmed beat Karamsho.’
 
-(3)
-Azim
-as
-čīd
-nax̌tūy-d
-pn
-el
-house
-go.out- pst
+(3) Azim	as	čīd	nax̌tūy-d
+PN	EL	house	go.out- PST
 ‘Azim went out of the house.’
+
 
 Thus, Shughni displays the verb-determined variety of split intransitivity. This is relevant for the classification of valency patterns. For example, the "NOM.CL_EL" and "NOM.NO.CL_EL" are classified as distinct valency patterns below. To correctly identify the verb's valency pattern it was necessary to analyze its behavior in the past tense, sometimes beyond the questionnaire sentence translation as provided below.
 
 ### Case system
 There is no morphological case on nouns. Personal pronouns and demonstratives have three case-marked forms: direct (nominative), oblique and dative. Demonstratives have deictic, anaphoric and adnominal uses, the latter typically with definite nouns or noun phrases. In adnominal usage, direct or oblique case of the demonstrative reflects the syntactic role of the modified noun (analytical case [Kerimova & Rastorgueva 1975: 198; Arkadiev 2006: 6]). In example (4) *wi xêx̌čak* [D3.M.SG OBL branch] ‘the branch’ is a direct object in the oblique case, which is evident from the oblique form of the demonstrative.
 
-(4)
-Ahmed=i
-wi
-xêx̌čak
-xām
-δod
-pn =3 sg
-d 3. m . sg . obl
-branch
-bend
-give. pst
+(4) Ahmed=i	wi	xêx̌čak	xām	δod
+PN =3 SG	D 3. M . SG . OBL	branch	bend	give. PST
 ‘Ahmed bent the branch.’
 
 ### Verb lemmas
