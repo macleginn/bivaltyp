@@ -25,9 +25,13 @@ Shughni shows nominative-accusative alignment with elements of split-intransitiv
 
 In the basic transitive construction, both core arguments, if expressed by nouns, remain unflagged. However, personal pronouns and demonstratives differentiate between the nominative (direct) case for the A-argument and oblique case, for the O-argument, annotated as "OBL" in the valency class tags below. Apart from this, in the past tense, A-arguments are obligatorily indexed by the subject clitic *=i*, as in(1).
 
-(1) Šamil=i	Azim	zīd
-PN =3 SG	PN	kill. PST
-‘Shamil killed Azim.’
+```
+
+(1)  Šamil=i  Azim  zīd
+     PN=3SG   PN    kill.PST
+     ‘Shamil killed Azim.’
+
+```
 
 While all intransitive subjects pattern with transitive subjects in terms of flagging, there are two types of intransitive subjects differentiated in terms of indexing. Some of them (annotated as NOM.CL in the valency class tags below) do receive the same *=i* clitic, as in (2), while others (annotated as NOM.NO.CL in the valency class tags) do not, as in (3).
 
