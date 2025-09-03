@@ -37,13 +37,13 @@ While all intransitive subjects pattern with transitive subjects in terms of fla
 
 ```
 
-(2) Ahmed=i	as	Karamšo	yod
-PN =3 SG	EL	PN	bring. PST
-‘Ahmed beat Karamsho.’
+(2) Ahmed=i  as  Karamšo  yod
+    PN=3SG   EL  PN       bring.PST
+    ‘Ahmed beat Karamsho.’
 
-(3) Azim	as	čīd	nax̌tūy-d
-PN	EL	house	go.out- PST
-‘Azim went out of the house.’
+(3) Azim  as  čīd    nax̌tūy-d
+    PN    EL  house  go.out-PST
+    ‘Azim went out of the house.’
 
 ```
 
@@ -54,9 +54,9 @@ There is no morphological case on nouns. Personal pronouns and demonstratives ha
 
 ```
 
-(4) Ahmed=i	wi	xêx̌čak	xām	δod
-PN =3 SG	D 3. M . SG . OBL	branch	bend	give. PST
-‘Ahmed bent the branch.’
+(4) Ahmed=i  wi           xêx̌čak  xām   δod
+    PN=3SG   D3.M.SG.OBL  branch  bend  give.PST
+    ‘Ahmed bent the branch.’
 
 ```
 
