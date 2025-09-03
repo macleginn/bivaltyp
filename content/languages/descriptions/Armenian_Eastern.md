@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by Vasilisa Kagirova.
 
+![P.A.'s photo]({{ site_url_j }}/images/Arkadiev.jpg "P.A.'s photo")
+
 The data were gathered in {{ data_collection_year }} using the Russian version of the questionnaire. 
 
 ## How to cite
