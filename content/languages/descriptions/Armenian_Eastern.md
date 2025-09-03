@@ -1,7 +1,7 @@
 # {{ language_external }}
-Contributed by Vasilisa Kagirova.
+Contributed by [Vasilisa Kagirova](https://orient.spbu.ru/index.php/ru/o-fakultete/sotrudniki/item/kagirova-vasilisa-andreevna).
 
-![P.A.'s photo]({{ site_url_j }}/images/Arkadiev.jpg "P.A.'s photo")
+![V.K.'s photo]({{ site_url_j }}/images/Kagirova.jpg "V.K.'s photo")
 
 The data were gathered in {{ data_collection_year }} using the Russian version of the questionnaire. 
 
