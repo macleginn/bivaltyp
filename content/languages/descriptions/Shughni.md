@@ -35,6 +35,8 @@ In the basic transitive construction, both core arguments, if expressed by nouns
 
 While all intransitive subjects pattern with transitive subjects in terms of flagging, there are two types of intransitive subjects differentiated in terms of indexing. Some of them (annotated as NOM.CL in the valency class tags below) do receive the same *=i* clitic, as in (2), while others (annotated as NOM.NO.CL in the valency class tags) do not, as in (3).
 
+```
+
 (2) Ahmed=i	as	Karamšo	yod
 PN =3 SG	EL	PN	bring. PST
 ‘Ahmed beat Karamsho.’
@@ -43,15 +45,20 @@ PN =3 SG	EL	PN	bring. PST
 PN	EL	house	go.out- PST
 ‘Azim went out of the house.’
 
+```
 
 Thus, Shughni displays the verb-determined variety of split intransitivity. This is relevant for the classification of valency patterns. For example, the "NOM.CL_EL" and "NOM.NO.CL_EL" are classified as distinct valency patterns below. To correctly identify the verb's valency pattern it was necessary to analyze its behavior in the past tense, sometimes beyond the questionnaire sentence translation as provided below.
 
 ### Case system
 There is no morphological case on nouns. Personal pronouns and demonstratives have three case-marked forms: direct (nominative), oblique and dative. Demonstratives have deictic, anaphoric and adnominal uses, the latter typically with definite nouns or noun phrases. In adnominal usage, direct or oblique case of the demonstrative reflects the syntactic role of the modified noun (analytical case [Kerimova & Rastorgueva 1975: 198; Arkadiev 2006: 6]). In example (4) *wi xêx̌čak* [D3.M.SG OBL branch] ‘the branch’ is a direct object in the oblique case, which is evident from the oblique form of the demonstrative.
 
+```
+
 (4) Ahmed=i	wi	xêx̌čak	xām	δod
 PN =3 SG	D 3. M . SG . OBL	branch	bend	give. PST
 ‘Ahmed bent the branch.’
+
+```
 
 ### Verb lemmas
 Verbs are given in the infinitive form. Complex verbs are shown as phrases consisting of a non-verbal component and a verb in the infinitive form. Non-verbal predicates are shown as phrases consisting of a non-verbal component and a verb *vidow* ‘to be’ in the infinitive form.
