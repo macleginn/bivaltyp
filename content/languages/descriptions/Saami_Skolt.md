@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Alena Blinova](https://www.linkedin.com/in/alena-blinova-08aa8b26/) and [Ksenia Shagal](https://researchportal.helsinki.fi/en/persons/ksenia-shagal) ([Academia.edu profile](https://helsinki.academia.edu/KseniaShagal))
+Contributed by [Alena Blinova](https://www.linkedin.com/in/alena-blinova-08aa8b26/) and [Ksenia Shagal](https://www.finnougristik.uni-muenchen.de/personen/professoren/ksenia-shagal/index.html) ([Academia.edu profile](https://helsinki.academia.edu/KseniaShagal))
 
 ![A.B.'s photo]({{ site_url_j }}/images/Blinova.jpg "A.B.'s photo")
 ![K.S.'s photo]({{ site_url_j }}/images/Shagal.jpg "K.S.'s photo")
