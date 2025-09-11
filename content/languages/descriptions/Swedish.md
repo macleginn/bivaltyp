@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Ksenia Shagal](https://researchportal.helsinki.fi/en/persons/ksenia-shagal) ([Academia.edu profile](https://helsinki.academia.edu/KseniaShagal)), Emil Ingelsten, and David Avellan-Hultman
+Contributed by [Ksenia Shagal](https://www.finnougristik.uni-muenchen.de/personen/professoren/ksenia-shagal/index.html) ([Academia.edu profile](https://helsinki.academia.edu/KseniaShagal)), Emil Ingelsten, and David Avellan-Hultman
 
 ![K.S.'s photo]({{ site_url_j }}/images/Shagal.jpg "K.S.'s photo")
 ![E.I.'s photo]({{ site_url_j }}/images/Ingelsten.jpg "K.S.'s photo")
