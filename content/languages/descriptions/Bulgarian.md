@@ -19,6 +19,12 @@ The data were gathered in 2018 using the Russian version of the questionnaire. [
 
 ### Basic clause structure and the transitive construction
 
+Bulgarian displays nominative–accusative alignment. Subjects (A and S arguments) are expressed by unflagged nouns and obligatorily trigger agreement through verbal suffixes. Nominal direct objects (P arguments) are likewise expressed by unflagged nominals but never trigger verbal agreement. Non-core nominal arguments (i.e. arguments other than subjects and direct objects) are flagged by various prepositions. Flagging options are more complex in the case of pronominal arguments, which distinguish nominative, accusative, and dative forms.
+
+For core arguments the mapping is straightforward: subjects correspond to nominative pronominal forms, while direct objects correspond to accusative forms, which may occur alone or in combination with unflagged full NPs. For nominal arguments flagged by the preposition *na*, however, the situation is more complex. Such arguments may correspond either to dative pronominal forms or to combinations of the preposition *na* with stressed pronominal forms. The distribution of these patterns is verb-sensitive. In the annotations below, these two coding patterns are labeled "DAT(na)" and "na", respectively.
+
+Finally, unflagged arguments that do not pattern with either subjects or direct objects are annotated as "BARE".
+
 ### Case system
 
 Nouns do not distinguish case in Bulgarian. By contrast, many pronouns, including personal pronouns, have three case forms: nominative, accusative, and dative, with further complications arising from the contrast between stressed (free) and unstressed (clitic) oblique forms. In addition, the so-called short forms of the postpositive definite article, as in examples (16), (21), etc. below, are typically opposed paradigmatically to the standard definite article, with short forms being impossible for most nouns in subject position.
