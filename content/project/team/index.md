@@ -134,6 +134,7 @@ Maria Nordrum, Olga Kuznetsova: {{ language:Norwegian_Bokmal}}
 Kwadwo Brobbey Nti: {{ language:Twi}}  
 Sofia Oskolskaya: {{ language:Tuvinian }}  
 Maria Ovsjannikova: {{ language:Enets_Forest }}, {{ language:Turkish }}  
+Polina Padalka, Daria Chistiakova, Daria Ryzhova: {{ language:Bartangi }}  
 Anastasia Panova: {{ language:Nivkh }}  
 Elena Perekhvalskaja: {{ language:Udihe }}  
 Natalia Perkova: {{ language:Latvian }}  
