@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Polina Padalka ([ResearchGate profile](https://scopus.academia.edu/ДашаЧистякова)), [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([Academia.edu profile](https://scopus.academia.edu/ДашаЧистякова)) and [Daria Ryzhova](https://www.hse.ru/en/org/persons/65846678) ([Academia.edu profile](https://he.academia.edu/DariaRyzhova))
+Contributed by Polina Padalka ([ResearchGate profile](https://www.researchgate.net/profile/Polina-Padalka-2?ev=hdr_xprf)), [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([Academia.edu profile](https://scopus.academia.edu/ДашаЧистякова)) and [Daria Ryzhova](https://www.hse.ru/en/org/persons/65846678) ([Academia.edu profile](https://he.academia.edu/DariaRyzhova))
 
 ![P.P.'s photo]({{ site_url_j }}/images/Padalka.jpg "P.P.'s photo")
 ![D.Ch.'s photo]({{ site_url_j }}/images/Chistiakova.jpg "D.Ch.'s photo")
