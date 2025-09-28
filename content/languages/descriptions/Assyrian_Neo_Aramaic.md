@@ -50,7 +50,7 @@ The two variants of the transitive construction — with and without object inde
 
 ```
 
-Non-core arguments are typically flagged by prepositions. Some non-core arguments have the status represented as "BARE", see (Say, in prep.) for details.
+Non-core arguments are typically flagged by prepositions. Some non-core arguments have the status represented as "EXT/REL", "REL" or "BARE". In a nutshell, "REL" are arguments that are normally marked by a clitic attached to the head element, which very often co-exists with constructions where such arguments are fronted and do not bear any over markers ("EXT"). Arguments tagged as "BARE" are also unflagged and unindexed and are not associated with possessive clitics and/or clause-initial position. See (Say, 2020) for details. 
 
 ### Case system
 There is no morphological case on nouns.
@@ -60,3 +60,4 @@ Verbs are shown in the so-called *patəx* form: this is the present tense (PRS) 
 
 ## Glossing abbreviations
 1, 2, 3 — 1st, 2nd, 3rd person; DEM1, DEM2, DEM3, DEM4 — demonstratives; EXI — existential copula; F — feminine; LS — L-suffix; M — masculine; NEG — negation; O — object; OBL — oblique; P — possessive; PL — plural; PN — person name; PRF — perfect; PROG — progressive; PRON —  pronoun; PRS — present; PST — past; REL — relator; RES — resultative; SS — S-suffix.
+
