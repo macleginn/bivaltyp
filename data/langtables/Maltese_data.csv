@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 145	Maltese	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		SBJ	bi	Y	SBJ_bi		Ġwanni joħlom b’ karozza ġdida	PN dream.IPF.M.3SG with2 car new	‘Ġwanni is dreaming of a new car.’			
 145	Maltese	49	wash	X (wash) Y	мыть	X (мыть) Y		SBJ	DO	TR	TR		Ġwanni ħasel it-tazza	PN wash.PF.M.3SG DEF-cup	‘Ġwanni washed the cup.’			
 145	Maltese	50	put_on	X (put_on) Y	надевать	X (надевать) Y		SBJ	DO	TR	TR		Ġwanni libes il-qalziet	PN wear.PF.M.3SG DEF-trousers	‘Ġwanni put on his trousers.’			
-145	Maltese	51	be_called	X (be_called) Y	называться	X (называться) Y		DO	BARE	X	DO_BARE		din l-għodda jsejħul-ha kumpass	PROX DEF-tool call.IPF.3PL-OBJ.F.3SG compass	‘This tool is called compass.’			
+145	Maltese	51	be_called	X (be_called) Y	называться	X (называться) Y		DO	BARE	Y	DO_BARE		din l-għodda jsejħul-ha kumpass	PROX DEF-tool call.IPF.3PL-OBJ.F.3SG compass	‘This tool is called compass.’			
 145	Maltese	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		SBJ	DO	TR	TR		Ġwanni jkkastiga l-ibnu	PN punish.PF.M.3SG DEF-son.POSS.M.3SG	‘Ġwanni punished his son.’			This is a case of a DOM pattern. One can use “lil” with this verb, e.g. in “Ġwanni jkkastiga lil Mark”.
 145	Maltese	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		SBJ	DO	TR	TR		ors attakka sajjed	bear attack.PF.M.3SG fisherman	‘A bear attacked a fisherman.’			
 145	Maltese	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		SBJ	bi	Y	SBJ_bi		il-barmil imtela bl-ilma	DEF-bucket be_filled.PF.M.3SG with2-water	‘The bucket filled with water.’			
