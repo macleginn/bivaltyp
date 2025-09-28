@@ -59,7 +59,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 145	Maltese	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DO	SBJ	X	DO_SBJ	The preposition “lil” is not obligatory with this verb. This is an example of the DOM system.	lil Ġwanni togħġbu din il-qmis	to PN please.IPF.F.3SG DEM.PROX.F DEF-shirt	‘Ġwanni likes this shirt.’			
 145	Maltese	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		SBJ	DO	TR	TR		Ġwanni għandu bżonn il-flus	PN have.IPF.M.3SG need DEF-money	‘Ġwanni needs money.’			
 145	Maltese	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)		SBJ	DO	TR	TR		is-swar idawru l-belt	DEF-walls encircle.IPF.M.3SG DEF-city	‘Walls surround the city.’			
-145	Maltese	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		BARE&DO	SBJ	X	BARE&DO_SBJ		Ġwanni fadal-lu 10 ewro	PN remain.PF.M.3SG-OBJ.M.3SG NUM euro	‘Ġwanni has 10 euros left.’			
+145	Maltese	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y		EXT&DO	SBJ	X	EXT&DO_SBJ		Ġwanni fadal-lu 10 ewro	PN remain.PF.M.3SG-OBJ.M.3SG NUM euro	‘Ġwanni has 10 euros left.’			
 145	Maltese	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		SBJ	DO	TR	TR	The preposition “lil” is not obligatory with this verb. This is an example of the DOM system.	Ġwanni wieġeb lill-għalliem	PN answer.PF.M.3SG to.DEF-teacher	‘Ġwanni answered the teacher.’			
 145	Maltese	63	open	X (open) Y	открывать	X (открывать) Y		SBJ	DO	TR	TR		Ġwanni fetaħ bott	PN open.PF.M.3SG can	‘Ġwanni opened a can.’			
 145	Maltese	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		SBJ	minn	Y	SBJ_minn	Non-verbal predicate.	le, l-flokk tiegħi differenti minn tiegħek	no DEF-shirt POSS.1SG different from POSS.2SG	‘No, my shirt is different from yours.’			
