@@ -21,12 +21,12 @@ The data were gathered in 2017. The language of elicitation was Russian.
 ## Grammar notes
 
 ### Basic clause structure and transitive constructions
-Macedonian shows nominative-accusative alignment. In a basic transitive clause, the A-argument appears in the nominative, and the P-argument in the accusative.
+Macedonian shows nominative-accusative alignment. In a basic transitive clause with nominal arguments both core arguments remain unflagged; however, pronominal arguments in the basic transitive construction are fifferentiated by case, with the A-argument appearing in the nominative, and the P-argument, in the accusative case.
 
-A major caveat is that the nominal case system has largely collapsed in Macedonian. Overt case marking is preserved only in the pronominal system, which distinguishes nominative, accusative, and dative forms. For full nouns, case distinctions are no longer morphologically expressed. Instead:
+More generally, the nominal case system has largely collapsed in Macedonian. Overt case marking is preserved only in the pronominal system, which distinguishes nominative, accusative, and dative forms. For full nouns, case distinctions are no longer morphologically expressed. Instead:
 
 	• definite direct and indirect objects are obligatorily reduplicated by the corresponding object pronoun, accusative or dative (in which case the noun phrase has an article unless it is a proper name; the article is redundant when the noun is modified by a demonstrative pronoun);
-	• indefinite objects are not repudlicated and are distinguished primarily by word order (e.g. (4) Petar frli kamen ‘Petar threw a stone’). Word order, however, is strongly influenced by focus and topicalization.
+	• indefinite objects are not repudlicated and are distinguished primarily by word order, as in ex. (4) below, where the nominal arguments occupy different position, shping the SVO pattern. However, word order is strongly influenced by focus and topicalization and is not fully shaped by grammatical relations.
 
 Non-core arguments are introduced by prepositions, including na. They must be distinguished from indirect objects, which are likewise marked with the preposition na. A clear distinction is possible only when the indirect object is definite, since in that case it is obligatorily accompanied by a dative pronoun. Compare:
 
