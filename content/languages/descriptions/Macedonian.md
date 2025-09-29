@@ -27,28 +27,34 @@ More generally, the nominal case system has largely collapsed in Macedonian. Ove
 
 	• definite direct and indirect (see below) objects are obligatorily reduplicated by the corresponding object pronoun, accusative or dative (in which case the noun phrase has an article unless it is a proper name; the article is redundant when the noun is modified by a demonstrative pronoun);
 	• indefinite objects are not repudlicated and are distinguished primarily by word order, as in ex. (1) below, where the nominal arguments occupy different positions, shping the AVP pattern. 
-	
-(1) Petar frli kamen
-PN throw:PFV.AOR.3SG stone(M).SG
-‘Petar threw a stone.’
+
+```
+(1)  Petar  frli               kamen
+     PN     throw:PFV.AOR.3SG  stone(M).SG
+     ‘Petar threw a stone.’
+```
 	
 However, word order is strongly influenced by focus and topicalization and is not fully shaped by grammatical relations.
 
 Oblique nominal arguments (arguments other than A, S and P) are introduced by prepositions, as in (2). 
 
-(2) Petar se plaši od kuče
-PN REFL be_afraid(IPFV).PRS.3SG from dog(N).SG
-‘Petar is afraid of the dog.’
+```
+(2)  Petar  se    plaši                    od    kuče
+     PN     REFL  be_afraid(IPFV).PRS.3SG  from  dog(N).SG
+     ‘Petar is afraid of the dog.’
+```
 
 Importantly, there are two types of nominal objects flagged by the preposition *na* 'on', which are anylyzed as representing distinct valency classes below. A clear distinction between these two classes is possible only when the relevant argument is definite, cf. (3) and (4).
 
-(3) Petar ì veruva na Maja 
-PN PRO.3SG.F.DAT believe(IPFV).PRS.3SG on PN
-‘Petar believes Maja’
+```
+(3)  Petar  ì              veruva                 na  Maja 
+     PN     PRO.3SG.F.DAT  believe(IPFV).PRS.3SG  on  PN
+     ‘Petar believes Maja’
 
-(4) Petar liči na Maja 
-PN resemble(IPFV).PRS.3SG on PN
-‘Petar resembles Maja’
+(4)  Petar  liči                    na  Maja 
+     PN     resemble(IPFV).PRS.3SG  on  PN
+     ‘Petar resembles Maja’
+```
 
 In (3), the definite object is obligatorily doubled by a dative pronoun. Such arguments are tagged as "DAT(na)" in the dataset below and are interpreted as indirect objects. In (4), the nominal argument cannot be doubled by a dative pronoun; moreover, in sentences with the verb *liči* 'resemble' pronominal arguments are also flaged by the same preposition *na* 'on'. Such arguments are tagged "na" in the dataset below and are interpreted as obliques. 
 
