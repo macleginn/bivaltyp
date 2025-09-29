@@ -142,7 +142,7 @@
   <p>Chistiakova, Daria &amp; Daria Ryzhova. 2023. Bivalent patterns in Shughni. 
   In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
   (Data first published on January 1, 2023; 
-  last revised on July 11, 2025.) (Available online at <a href="https://bivaltyp.info/">https://bivaltyp.info</a>, 
+  last revised on September 24, 2025.) (Available online at <a href="https://bivaltyp.info/">https://bivaltyp.info</a>, 
   Accessed on <span id="today"></span>.)</p>
 </blockquote>
 
@@ -154,9 +154,54 @@
 <li>Macro-area: North and Central Asia.</li>
 </ul>
 
+<h2>Grammar notes</h2>
+
+<h3>Basic clause structure and the transitive construction</h3>
+
+<p>Shughni shows nominative-accusative alignment with elements of split-intransitivity, overtly expressed in a limited number of contexts. In the present tense, the verb obligatorily agrees with the subject (S or A argument) via person-number agreement suffixes. In the past tenses, the verb can agree with the subject via second-position person-number agreement clitics. Some intransitive verbs in the past tenses also agree with the subject in gender through vowel alternation. There is no flagging on nouns in core argument positions (S, A, or O). Non-core arguments are flagged  with prepositions and/or postpositions. The standard word order is SOV.</p>
+
+<p>In the basic transitive construction, both core arguments, if expressed by nouns, remain unflagged. However, personal pronouns and demonstratives differentiate between the nominative (direct) case for the A-argument and oblique case, for the O-argument, annotated as "OBL" in the valency class tags below. Apart from this, in the past tense, A-arguments are obligatorily indexed by the subject clitic <em>=i</em>, as in(1).</p>
+
+<pre><code>
+(1)  Šamil=i  Azim  zīd
+     PN=3SG   PN    kill.PST
+     ‘Shamil killed Azim.’
+
+</code></pre>
+
+<p>While all intransitive subjects pattern with transitive subjects in terms of flagging, there are two types of intransitive subjects differentiated in terms of indexing. Some of them (annotated as NOM.CL in the valency class tags below) do receive the same <em>=i</em> clitic, as in (2), while others (annotated as NOM.NO.CL in the valency class tags) do not, as in (3).</p>
+
+<pre><code>
+(2) Ahmed=i  as  Karamšo  yod
+    PN=3SG   EL  PN       bring.PST
+    ‘Ahmed beat Karamsho.’
+
+(3) Azim  as  čīd    nax̌tūy-d
+    PN    EL  house  go.out-PST
+    ‘Azim went out of the house.’
+
+</code></pre>
+
+<p>Thus, Shughni displays the verb-determined variety of split intransitivity. This is relevant for the classification of valency patterns. For example, the "NOM.CL<em>EL" and "NOM.NO.CL</em>EL" are classified as distinct valency patterns below. To correctly identify the verb's valency pattern it was necessary to analyze its behavior in the past tense, sometimes beyond the questionnaire sentence translation as provided below.</p>
+
+<h3>Case system</h3>
+
+<p>There is no morphological case on nouns. Personal pronouns and demonstratives have three case-marked forms: direct (nominative), oblique and dative. Demonstratives have deictic, anaphoric and adnominal uses, the latter typically with definite nouns or noun phrases. In adnominal usage, direct or oblique case of the demonstrative reflects the syntactic role of the modified noun (analytical case [Kerimova &amp; Rastorgueva 1975: 198; Arkadiev 2006: 6]). In example (4) <em>wi xêx̌čak</em> [D3.M.SG OBL branch] ‘the branch’ is a direct object in the oblique case, which is evident from the oblique form of the demonstrative.</p>
+
+<pre><code>
+(4) Ahmed=i  wi           xêx̌čak  xām   δod
+    PN=3SG   D3.M.SG.OBL  branch  bend  give.PST
+    ‘Ahmed bent the branch.’
+
+</code></pre>
+
+<h3>Verb lemmas</h3>
+
+<p>Verbs are given in the infinitive form. Complex verbs are shown as phrases consisting of a non-verbal component and a verb in the infinitive form. Non-verbal predicates are shown as phrases consisting of a non-verbal component and a verb <em>vidow</em> ‘to be’ in the infinitive form.</p>
+
 <h2>Glossing abbreviations</h2>
 
-<p>ADD – additive; ADV – adverbializer; AUX – auxiliary verb; D – demonstrative; DIM – diminutive; EL – elative; EM – emphasizer; EQ – equative; F – feminine; IMPER – imperative; INF – infinitive; INS – instrumental; LAT – lative; LOC – locative; M – masculine; NEG – negative; OBL – oblique; P.LOC – possessive locative; PF – perfect; PL – pluralis; PN –  personal name; PREP.DOWN - preposition of downward direction; PREP.UP - preposition of upward direction; PST – past; REFL – reflexive; SG – singular; SUB – sublative; SUBST – substantivizer; SUP – superessive.</p>
+<p>ADD – additive; ADV – adverbializer; AUX – auxiliary verb; D – demonstrative; DAT – dative; DIM – diminutive; EL – elative; EM – emphasizer; EQ – equative; F – feminine; IMPER – imperative; INF – infinitive; INS – instrumental; LOC – locative; M – masculine; NEG – negative; OBL – oblique; P.LOC – possessive locative; PF – perfect; PL – pluralis; PN –  personal name; PREP.DOWN - preposition of downward direction; PREP.UP - preposition of upward direction; PST – past; REFL – reflexive; SG – singular; SUB – sublative; SUBST – substantivizer; SUP – superessive.</p>
 
 <h2>Data</h2>
 
@@ -167,15 +212,15 @@
             <select id="valpal-select">
                 <option value="any">Any</option>
                 <option value="">NA</option>
-                <option value="LAT_EL">LAT_EL</option>
-                <option value="LAT_NOM.CL">LAT_NOM.CL</option>
-                <option value="LAT_NOM.NO.CL">LAT_NOM.NO.CL</option>
+                <option value="DAT_EL">DAT_EL</option>
+                <option value="DAT_NOM.CL">DAT_NOM.CL</option>
+                <option value="DAT_NOM.NO.CL">DAT_NOM.NO.CL</option>
                 <option value="LOC_NOM.CL">LOC_NOM.CL</option>
                 <option value="LOC_NOM.NO.CL">LOC_NOM.NO.CL</option>
+                <option value="NOM.CL_DAT">NOM.CL_DAT</option>
                 <option value="NOM.CL_EL">NOM.CL_EL</option>
                 <option value="NOM.CL_EQ">NOM.CL_EQ</option>
                 <option value="NOM.CL_INS">NOM.CL_INS</option>
-                <option value="NOM.CL_LAT">NOM.CL_LAT</option>
                 <option value="NOM.CL_PREP.UP-LOC">NOM.CL_PREP.UP-LOC</option>
                 <option value="NOM.CL_SUP">NOM.CL_SUP</option>
                 <option value="NOM.NO.CL_beOBL">NOM.NO.CL_beOBL</option>
@@ -453,7 +498,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>5. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/have_enough.html">have enough</a>
@@ -465,11 +510,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LAT_NOM.NO.CL</span>
+                            <span>DAT_NOM.NO.CL</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LAT</td>
+                        <td class="predicate-info-table">X: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: NOM.NO.CL</td>
@@ -515,7 +560,7 @@
                             <span>.</span>
                             <span class="gloss">obl</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>reach-3</span>
@@ -594,7 +639,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM.CL_LAT" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM.CL_DAT" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>7. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/believe.html">believe</a>
@@ -606,14 +651,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM.CL_LAT</span>
+                            <span>NOM.CL_DAT</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM.CL</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LAT</td>
+                        <td class="predicate-info-table">Y: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -635,7 +680,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>trust</span>
@@ -1198,7 +1243,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM.CL_LAT" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM.CL_DAT" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>17. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/tell.html">tell</a>
@@ -1210,14 +1255,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM.CL_LAT</span>
+                            <span>NOM.CL_DAT</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM.CL</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LAT</td>
+                        <td class="predicate-info-table">Y: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -1243,7 +1288,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>say.</span>
@@ -3511,7 +3556,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>56. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/be_short.html">be short</a>
@@ -3523,11 +3568,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LAT_NOM.NO.CL</span>
+                            <span>DAT_NOM.NO.CL</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LAT</td>
+                        <td class="predicate-info-table">X: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: NOM.NO.CL</td>
@@ -3549,7 +3594,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>three</span>
@@ -3570,7 +3615,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>57. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/hate.html">hate</a>
@@ -3582,11 +3627,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LAT_NOM.NO.CL</span>
+                            <span>DAT_NOM.NO.CL</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LAT</td>
+                        <td class="predicate-info-table">X: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: NOM.NO.CL</td>
@@ -3608,7 +3653,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
@@ -3630,7 +3675,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>58. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/like.html">like</a>
@@ -3642,11 +3687,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LAT_NOM.NO.CL</span>
+                            <span>DAT_NOM.NO.CL</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LAT</td>
+                        <td class="predicate-info-table">X: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: NOM.NO.CL</td>
@@ -3668,7 +3713,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">em</span>
@@ -3694,7 +3739,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DAT_NOM.NO.CL" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>59. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/need.html">need</a>
@@ -3706,11 +3751,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LAT_NOM.NO.CL</span>
+                            <span>DAT_NOM.NO.CL</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LAT</td>
+                        <td class="predicate-info-table">X: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: NOM.NO.CL</td>
@@ -3731,7 +3776,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>money</span>
@@ -3865,7 +3910,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM.CL_LAT" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM.CL_DAT" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>62. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/answer.html">answer</a>
@@ -3877,14 +3922,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM.CL_LAT</span>
+                            <span>NOM.CL_DAT</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM.CL</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LAT</td>
+                        <td class="predicate-info-table">Y: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -3907,7 +3952,7 @@
                         </td>
                         <td class="example-gloss">
                             <span>teacher-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>answer</span>
@@ -4779,7 +4824,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM.CL_LAT" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM.CL_DAT" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>77. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/help.html">help</a>
@@ -4791,14 +4836,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM.CL_LAT</span>
+                            <span>NOM.CL_DAT</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM.CL</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LAT</td>
+                        <td class="predicate-info-table">Y: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -4822,7 +4867,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>help</span>
@@ -6973,7 +7018,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NOM.CL_LAT" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="NOM.CL_DAT" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>114. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/trust.html">trust</a>
@@ -6985,14 +7030,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NOM.CL_LAT</span>
+                            <span>NOM.CL_DAT</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: NOM.CL</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: LAT</td>
+                        <td class="predicate-info-table">Y: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -7014,7 +7059,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>trust</span>
@@ -7031,7 +7076,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LAT_EL" data-locus="XY" style="margin-bottom: 5px">
+    <div data-valpal="DAT_EL" data-locus="XY" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>115. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/sympathise.html">sympathise</a>
@@ -7043,11 +7088,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LAT_EL</span>
+                            <span>DAT_EL</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LAT</td>
+                        <td class="predicate-info-table">X: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: EL</td>
@@ -7071,7 +7116,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">el</span>
@@ -7408,7 +7453,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="LAT_NOM.CL" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="DAT_NOM.CL" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>121. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/want.html">want</a>
@@ -7420,11 +7465,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>LAT_NOM.CL</span>
+                            <span>DAT_NOM.CL</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: LAT</td>
+                        <td class="predicate-info-table">X: DAT</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: NOM.CL</td>
@@ -7446,7 +7491,7 @@
                         <td class="example-gloss">
                             <span class="gloss">pn</span>
                             <span>-</span>
-                            <span class="gloss">lat</span>
+                            <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
                             <span>new</span>
@@ -7947,7 +7992,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Dovlatsho is embarrased about his height.’</td>
+                        <td colspan="6" class="example-translation">‘Dovlatsho is embarrassed about his height.’</td>
                     </tr>
                 </table>
             </div>
