@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 128	Bafut	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	wáʔátə̂	SBJ	DO	TR	TR		àmbɛ́ à wáʔátə̂-nɨ̀ nɨ̀kjá nìmfíî	PN SM think-IPFV car new	‘Ambe is dreaming of a new car.’			Same as 25 and 76.
 128	Bafut	49	wash	X (wash) Y	мыть	X (мыть) Y	ʃíʔí	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ ʃíʔí ndɔ́ŋ já	PN SM P2 wash cup DEF	‘Ambe washed the cup.’			
 128	Bafut	50	put_on	X (put_on) Y	надевать	X (надевать) Y	sɔ́ʔɔ̂	SBJ	DO	TR	TR		àmbɛ́ à kɨ̀ sɔ́ʔɔ̂ tòlósà jì	PN SM P2 wear trouser his	‘Ambe put on his trousers.’			
-128	Bafut	51	be_called	X (be_called) Y	называться	X (называться) Y	ntóŋə̀	DO	COMP	XY	DO_COMP	This is a transimpersonal construction.	bɨ́ ntóŋə̀ jú ndə̂ mə́ múnwí	they call this thing COMP knife	‘This thing is called a knife.’			
+128	Bafut	51	be_called	X (be_called) Y	называться	X (называться) Y	ntóŋə̀	DO	COMP	Y	DO_COMP	This is a transimpersonal construction.	bɨ́ ntóŋə̀ jú ndə̂ mə́ múnwí	they call this thing COMP knife	‘This thing is called a knife.’			
 128	Bafut	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	ɣɔ́ɔ̂	*	*	*		Not included in the database because this translation is semantically inaccurate.	àmbɛ́ à kɨ̀ ɣɔ́ɔ̂ mú jì m̀bàŋnᵼ̀	PN SM P2 beat child his male	‘Ambe beat his son.’			There is not separate word for ‘punish’.
 128	Bafut	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	fúrᵼ̀tə̀	SBJ	DO	TR	TR		nààŋgwé à kɨ̀ fúrᵼ̀tə̀ tákwúrə̀	lion SM P2 attack leopard	‘A lion attacked a leopard.’			
 128	Bafut	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	lúú	SBJ	ni	Y	SBJ_ni		àntɔ̀ɔ̀ wá ì lúú nᵼ̀ ŋ̀kxì	pot DEF SM be_full with1 water	‘The pot filled with1 water.’			
