@@ -58,7 +58,7 @@ Importantly, there are two types of nominal objects flagged by the preposition *
 
 In (3), the definite object is obligatorily doubled by a dative pronoun. Such arguments are tagged as "DAT(na)" in the dataset below and are interpreted as indirect objects. In (4), the nominal argument cannot be doubled by a dative pronoun; moreover, in sentences with the verb *liči* 'resemble' pronominal arguments are also flagged by the same preposition *na* 'on'. Such arguments are tagged "na" in the dataset below and are interpreted as obliques. 
 
-The verb agrees with the subject in person and number/gender (depending on tense and mood/evidentiality). Objects are never indexed on the verb.
+The verb agrees with the subject in person and number/gender (depending on tense and mood/evidentiality).
 
 Word order is relatively free, but the basic unmarked order is SVO. Pronominal object clitics (including those that double definite noun phrases) always precede the verb as proclitics.
 
