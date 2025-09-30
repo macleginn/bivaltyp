@@ -25,8 +25,8 @@ Macedonian shows nominative-accusative alignment. In a basic transitive clause w
 
 More generally, the nominal case system has largely collapsed in Macedonian. Overt case marking is preserved only in the pronominal system, which distinguishes nominative, accusative, and dative forms. For full nouns, case distinctions are no longer morphologically expressed. Instead:
 
-	• definite direct and indirect (see below) objects are obligatorily reduplicated by the corresponding object pronoun, accusative or dative (in which case the noun phrase has an article unless it is a proper name; the article is redundant when the noun is modified by a demonstrative pronoun);
-	• indefinite objects are not repudlicated and are distinguished primarily by word order, as in ex. (1) below, where the nominal arguments occupy different positions, shping the AVP pattern. 
+- definite direct and indirect (see below) objects are obligatorily reduplicated by the corresponding object pronoun, accusative or dative (in which case the noun phrase has an article unless it is a proper name; the article is redundant when the noun is modified by a demonstrative pronoun);
+- indefinite objects are not repudlicated and are distinguished primarily by word order, as in ex. (1) below, where the nominal arguments occupy different positions, shaping the AVP pattern. 
 
 ```
 (1)  Petar  frli               kamen
