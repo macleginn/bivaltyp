@@ -44,7 +44,7 @@ Oblique nominal arguments (arguments other than A, S and P) are introduced by pr
      ‘Petar is afraid of the dog.’
 ```
 
-Importantly, there are two types of nominal objects flagged by the preposition *na* 'on', which are anylyzed as representing distinct valency classes below. A clear distinction between these two classes is possible only when the relevant argument is definite, cf. (3) and (4).
+Importantly, there are two types of nominal objects flagged by the preposition *na* 'on', which are analyzed as representing distinct valency classes below. A clear distinction between these two classes is possible only when the relevant argument is definite, cf. (3) and (4).
 
 ```
 (3)  Petar  ì              veruva                 na  Maja 
