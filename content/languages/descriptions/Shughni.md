@@ -50,7 +50,7 @@ While all intransitive subjects pattern with transitive subjects in terms of fla
 Thus, Shughni displays the verb-determined variety of split intransitivity. This is relevant for the classification of valency patterns. For example, the "NOM.CL\_EL" and "NOM.NO.CL\_EL" are classified as distinct valency patterns below. To correctly identify the verb's valency pattern it was necessary to analyze its behavior in the past tense, sometimes beyond the questionnaire sentence translation as provided below.
 
 ### Case system
-There is no morphological case on nouns. Personal pronouns and demonstratives have three case-marked forms: direct (nominative), oblique and dative. Demonstratives have deictic, anaphoric and adnominal uses, the latter typically with definite nouns or noun phrases. In adnominal usage, direct or oblique case of the demonstrative reflects the syntactic role of the modified noun (analytical case [Kerimova & Rastorgueva 1975: 198; Arkadiev 2006: 6]). In example (4) *wi xêx̌čak* [D3.M.SG OBL branch] ‘the branch’ is a direct object in the oblique case, which is evident from the oblique form of the demonstrative.
+There is no morphological case on nouns. Personal pronouns and demonstratives have three case-marked forms: direct (nominative), oblique and dative. Demonstratives have deictic, anaphoric and adnominal uses, the latter typically with definite nouns or noun phrases. In adnominal usage, direct or oblique case of the demonstrative reflects the syntactic role of the modified noun (analytical case [Kerimova & Rastorgueva 1975: 198; Arkadiev 2006: 6]). In example (4) *wi xêx̌čak* [D3.M.SG OBL.branch] ‘the branch’ is a direct object in the oblique case, which is evident from the oblique form of the demonstrative.
 
 ```
 
