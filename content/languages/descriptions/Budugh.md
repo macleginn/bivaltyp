@@ -24,7 +24,9 @@ Case marking displays the ergative-nominative alignment, except on personal pron
 
 ### Case system
 Overall, there are 19 case forms in Budugh. The original non-locative cases are nominative, ergative, dative, comitative. Historically, the system of locative cases consisted of two layers, involving 5 localizations and 3 directions (the unmarked essive, the lative and the elative), which yields 15 locative combinations. However, most of these combinations have shifted to more abstract, argumental functions; spatial functions were taken over by postpositions. Despite their labels, the adelative and the superelative cases are mostly used to denote arguments rather than spatial adjuncts. The apudelative is rare and some other cases are lexically restricted. The comitative case also conveys the instrumental meaning. The case labeled as “LOC” synchronically denotes both spatial and more abstract functions, including ‘inalienable genitive’. The former adlocative has become an alienable genitive. (cf. Authier 2013. “The origin of two genitive cases and inalienability split in Budugh (East Caucasian)”, Faits de Langues 41.) 
-For more details on new case forms and replacements, see Authier (forthcoming) ‘Heterogeneous flagging in Budugh’ to appear in Gilles Authier, & Kirill Kozhanov, The Diachrony of Flagging. Language Science Press
+
+For more details on new case forms and replacements, see Authier (forthcoming) ‘Heterogeneous flagging in Budugh’ to appear in Gilles Authier & Kirill Kozhanov, The Diachrony of Flagging. Language Science Press
+
 Table 1 shows the relationships between the labels used in the data below (these labels are based on synchronic functions) and the original functions of cases.
 
 |      case label     |      form       |      ‘house’          |      ‘man’        |      original function     |
