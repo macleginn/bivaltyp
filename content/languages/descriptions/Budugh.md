@@ -47,7 +47,7 @@ Table 1 shows the relationships between the labels used in the data below (these
 |     POSS            |     -ux         |     k’ul-cux          |     furox         |     < POST                 |
 |     DIR             |     -xv-an      |     k’ul-coxun        |     furoxun       |     < POST+LAT             |
 |     APUDEL          |     -xv-ar      |     k’ul-coxor        |     Ø             |     < POST+EL              |
-|     CONT            |     -k          |     k’ul-ci-k         |     Ø             |     < SUB/CONT             |
+|     SUB/CONT        |     -k          |     k’ul-ci-k         |     Ø             |     < SUB/CONT             |
 |     PART            |     -kir        |     k’ul-ce-kir       |     Ø             |     < SUB/CONT+EL          |
 |     SIMIL           |     -cma        |     k’ul-ci-cma       |     fura-cma      |     = GEN+’ma’             |
 
