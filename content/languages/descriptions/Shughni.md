@@ -23,7 +23,7 @@ Contributed by [Daria Chistiakova](https://www.hse.ru/org/persons/208533017) ([A
 
 Shughni shows nominative-accusative alignment with elements of split-intransitivity, overtly expressed in a limited number of contexts. In the present tense, the verb obligatorily agrees with the subject (S or A argument) via person-number agreement suffixes. In the past tenses, the verb can agree with the subject via second-position person-number agreement clitics. Some intransitive verbs in the past tenses also agree with the subject in gender through vowel alternation. There is no flagging on nouns in core argument positions (S, A, or O). Non-core arguments are flagged  with prepositions and/or postpositions. The standard word order is SOV.
 
-In the basic transitive construction, both core arguments, if expressed by nouns, remain unflagged. However, personal pronouns and demonstratives differentiate between the nominative (direct) case for the A-argument and oblique case, for the O-argument, annotated as "OBL" in the valency class tags below. Apart from this, in the past tense, A-arguments are obligatorily indexed by the subject clitic *=i*, as in(1).
+In the basic transitive construction, both core arguments, if expressed by nouns, remain unflagged. However, personal pronouns and demonstratives differentiate between the nominative (direct) case for the A-argument and oblique case, for the O-argument, annotated as "OBL" in the valency class tags below. Apart from this, in the past tense, A-arguments are obligatorily indexed by the subject clitic *=i*, as in (1).
 
 ```
 
@@ -47,7 +47,7 @@ While all intransitive subjects pattern with transitive subjects in terms of fla
 
 ```
 
-Thus, Shughni displays the verb-determined variety of split intransitivity. This is relevant for the classification of valency patterns. For example, the "NOM.CL_EL" and "NOM.NO.CL_EL" are classified as distinct valency patterns below. To correctly identify the verb's valency pattern it was necessary to analyze its behavior in the past tense, sometimes beyond the questionnaire sentence translation as provided below.
+Thus, Shughni displays the verb-determined variety of split intransitivity. This is relevant for the classification of valency patterns. For example, the "NOM.CL\_EL" and "NOM.NO.CL\_EL" are classified as distinct valency patterns below. To correctly identify the verb's valency pattern it was necessary to analyze its behavior in the past tense, sometimes beyond the questionnaire sentence translation as provided below.
 
 ### Case system
 There is no morphological case on nouns. Personal pronouns and demonstratives have three case-marked forms: direct (nominative), oblique and dative. Demonstratives have deictic, anaphoric and adnominal uses, the latter typically with definite nouns or noun phrases. In adnominal usage, direct or oblique case of the demonstrative reflects the syntactic role of the modified noun (analytical case [Kerimova & Rastorgueva 1975: 198; Arkadiev 2006: 6]). In example (4) *wi xêx̌čak* [D3.M.SG OBL branch] ‘the branch’ is a direct object in the oblique case, which is evident from the oblique form of the demonstrative.
