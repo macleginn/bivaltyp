@@ -27,7 +27,7 @@ Finally, unflagged arguments that do not pattern with either subjects or direct 
 
 ### Case system
 
-Nouns do not distinguish case in Bulgarian. By contrast, many pronouns, including personal pronouns, have three case forms: nominative, accusative, and dative, with further complications arising from the contrast between stressed (free) and unstressed (clitic) oblique forms. In addition, the so-called short forms of the postpositive definite article, as in examples (16), (21), etc. below, are typically opposed paradigmatically to the standard definite article, with short forms being impossible for most nouns in subject position.
+Nouns do not distinguish case in Bulgarian. By contrast, personal pronouns have three case forms: nominative, accusative, and dative, with further complications arising from the contrast between stressed (free) and unstressed (clitic) oblique forms. In addition, the so-called short forms of the postpositive definite article, as in examples (16), (21), etc. below, are typically opposed paradigmatically to the standard definite article, with short forms being impossible for most nouns in subject position.
 
 ## Verb lemmas
 
