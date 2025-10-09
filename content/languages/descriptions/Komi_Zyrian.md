@@ -22,5 +22,21 @@ Further details can be found in Sergeeva (2018).
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+Komi-Zyrian belongs to the Permic subgroup of Finno-Ugric languages and is closely related to Komi-Permyak and Udmurt. Komi-Zyrian and Komi-Permyak can be regarded as varieties of a single pluricentric Komi language.
+
+The language is primarily spoken in the Komi Republic, Russia, and its native speaker population has declined to approximately 100,000, placing it in the endangered category. 
+
+## Grammar notes
+
+### Basic clause structure and the transitive construction
+
+Case marking displays the nominative-accusative alignment. In the basic transitive construction the subject appears in the nominative, while the object displays variable marking depending on the morphosyntactic and semantic properties of the clause. Three options are available: unmarked, marked with the suffix -e̮s, or marked with the cumulative third-person possessive-accusative marker -se̮. The choice is influenced by animacy, definiteness, and clause structure.
+
+Non-core arguments are flagged by oblique case markers and postpositions (with cases). 
+
+### Case system
+
+According to the commonly accepted analysis, standard Komi-Zyrian has a total of 16 distinct cases: nominative, accusative, genitive, ablative, dative, instrumental, comitative, abessive, consecutive, inessive, illative, elative, approximative, egressive, prolative, terminative. 
+
 ## Glossing abbreviations
 ABE — abessive; ABL — ablative; ACC — accusative; ADJ — adjective; AG — agent; COM — comitative; DAT — dative; ELA — elative; GEN — genitive; ILL — illative; INE — inessive; INS — instrumental; NEG — negation; OBL — oblique; P — possessor; PC — participle; PL — plural; PN — person name; PRET — preterite; PROL — prolative; PRS — present; SG — singular; TERM — terminative.
