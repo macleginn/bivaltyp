@@ -107,3 +107,4 @@ Two other recurrent patterns are the use of a copula+adjective combination to ex
 Verbs are shown in the 2nd person singular imperative form, which is the standard entry form in Irish dictionaries.
 
 ## Glossing abbreviations
+ACC — accusative; COP — copula; DEF — definite; DEM — demonstrative; F — feminine; GP — genitive plural; GS — genitive singular; HAB — habitual; INT — intensifier; M — masculine; NMLZ — nominalization; PART — participle; PASS — passive; PL — plural; PN — person name; POSS — possessive; PRS — present; PST — past; REFL — reflexive; SG — singular; TRANS — transitive.
