@@ -216,6 +216,10 @@ Most non-core arguments, i.e., arguments not labeled as ‘SBJ.INTR’, ‘SBJ.T
 
 Here, the verb agrees with the body part (‘feet’), which is encoded as a canonical intransitive subject (SBJ.INTR). However, the person name is not encoded as a canonical phrase-internal possessor, as evidenced by its clause-initial position and the lack of the izafe marker. Moreover, the use of the clause-level adverb *ewr̂o* ‘today’ indicates that the person name is not part of the noun phrase headed by the name of the body part. In short, the person name is extraposed, so the literal rendition of (12) would be something like ‘Hiwa, his feet ache today.’ In the dataset below, noun phrases with the syntactic properties of the person name in (12) are considered non-core arguments and are labeled "EXT" (external).
 
+Some examples in the dataset reflect the pattern referred to as "migration" of an adposition in the comments below. Essentially, this occurs when an adposition is shortened and appears cliticized to element other than the NP with which it forms a PP; for details, see (Samvelian 2007).
+
+> Samvelian, Pollet. 2007. A lexical account of Sorani Kurdish prepositions. Proceedings of the 14th International Conference on Head-Driven Phrase Structure Grammar, 235–249. (doi:10.21248/hpsg.2007.14).
+
 ### Case system
 
 Case does not play a significant role in the grammar of Sorani Kurdish. In some contexts, direct objects and objects within prepositional phrases are marked with the only residual case marker *-î* (glossed as "OBL" in the dataset below), as in (13).
