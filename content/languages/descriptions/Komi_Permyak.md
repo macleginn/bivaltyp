@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Ekaterina Sergeeva](https://www.linkedin.com/in/ekaterina-sergeeva-8a45a531/) ([Academia.edu profile](https://iling-spb.academia.edu/EkaterinaSergeeva)) and Galina Nekrasova.
+Contributed by [Ekaterina Sergeeva](https://www.linkedin.com/in/ekaterina-sergeeva-8a45a531/) ([Academia.edu profile](https://iling-spb.academia.edu/EkaterinaSergeeva)) and [Galina Nekrasova](https://illhkomisc.ru/today/podrazdeleniya-i-sotrudniki/otdel-yazyka-literatury-i-folklora/sektor-yazyka/nekrasova-galina-aleksandrovna) ([Russian Science Citation Index profile](https://elibrary.ru/author_items.asp?authorid=630557)).
 
 ![E.S.'s photo]({{ site_url_j }}/images/Sergeeva.jpg "E.S.'s photo")
 ![G.N.'s photo]({{ site_url_j }}/images/Nekrasova.jpg "G.N.'s photo")
