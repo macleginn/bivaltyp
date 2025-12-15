@@ -2,6 +2,7 @@
 Contributed by [Ekaterina Sergeeva](https://www.linkedin.com/in/ekaterina-sergeeva-8a45a531/) ([Academia.edu profile](https://iling-spb.academia.edu/EkaterinaSergeeva)) and Galina Nekrasova.
 
 ![E.S.'s photo]({{ site_url_j }}/images/Sergeeva.jpg "E.S.'s photo")
+![G.N.'s photo]({{ site_url_j }}/images/Nekrasova.jpg "G.N.'s photo")
 
 Translations were elicited in 2013, using the Russian version of the questionnaire. 
 
