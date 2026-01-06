@@ -3,7 +3,7 @@ Contributed by [Ksenia Shagal](https://www.finnougristik.uni-muenchen.de/persone
 
 ![K.S.'s photo]({{ site_url_j }}/images/Shagal.jpg "K.S.'s photo")
 
-The data were provided by Ksenia Shagal in 2017 based on her second-language knowledge and consultations with native speakers. The Russian version of the questionnaire was used for the consultations.
+The data were provided by Ksenia Shagal in 2017 based on her second-language knowledge and consultations with native speakers. The Russian version of the questionnaire was used for the consultations. Timofey Arkhangelskiy has contributed to the correct transliteration of the data. 
 
 ## How to cite
 > Shagal, Ksenia. 2024. Bivalent patterns in {{ language_external}}. 
