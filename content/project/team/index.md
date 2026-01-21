@@ -158,7 +158,7 @@ Ksenia Studenikina: {{ language:Mari_Western }}
 Gasangusen Sulaibanov:  {{ language:Dargwa_Kubachi }}, {{ language:Dargwa_Tsugni }}, {{ language:Dargwa_Tsudakhar }}  
 Nina Sumbatova, Naida Vagizieva:  {{ language:Dargwa_Kadar }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
-Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}  
+Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}, {{ language:Dan_Eastern }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
 Alena Witzlack-Makarevich, Sylvanus Job {{ language:Khoekhoe }}  
 Elizaveta Zabelina: {{ language:Hindi }},  {{ language:Telugu }}  
