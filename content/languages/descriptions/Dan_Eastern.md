@@ -14,7 +14,7 @@ The data were gathered in 2023 and 2026, mainly from Nestor (Hubert) Gué. The F
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
+- Genealogy (as given in [WALS](https://wals.info/), with corrections by Valentin Vydrin). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 Eastern Dan distinguishes six cases on the so-called "locatives", albeit in an irregular way. Nouns per se do not have morphological case.
