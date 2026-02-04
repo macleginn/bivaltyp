@@ -3,7 +3,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 18	Guro	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		ba	SBJ	X	ba_SBJ							cop
 18	Guro	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		SBJ	lee	Y	SBJ_lee							vi
 18	Guro	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		SBJ	DO	TR	TR							vt
-18	Guro	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		POSS&DO	SBJ	X	POSS&DO_SBJ							vt
+18	Guro	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		DO	SBJ	X	DO_SBJ	The possessor is first expressed as an adnominal modifier within the subject NP and then resumed as the direct object.						vt
 18	Guro	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		SBJ	ba	Y	SBJ_ba							vi
 18	Guro	7	believe	X (believe) Y	верить	X (верить)Y-у		SBJ	la	Y	SBJ_la							vi
 18	Guro	8	take	X (take) Y	взять	X (брать) Y(-а)		SBJ	DO	TR	TR							vt
