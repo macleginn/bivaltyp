@@ -157,6 +157,7 @@ Natalia Stoynova: {{ language:Ulcha }}
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Gasangusen Sulaibanov:  {{ language:Dargwa_Kubachi }}, {{ language:Dargwa_Tsugni }}, {{ language:Dargwa_Tsudakhar }}  
 Nina Sumbatova, Naida Vagizieva:  {{ language:Dargwa_Kadar }}  
+Tuchak, Philipp, Ekaterina Budzinskaya, Mehmet Muslimov & Irene Gorbunova:  {{ language:Ludic }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
 Valentin Vydrin: {{ language:Bambara }}, {{ language:Maninka_Eastern }}, {{ language:Dan_Eastern }}  
 Yuru Xu: {{ language:Chinese_Mandarin }}  
