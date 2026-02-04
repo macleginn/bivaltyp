@@ -20,7 +20,7 @@ Complicated cases were checked with Fadjimba Keeta, head of the Maninka section 
 
 ## Basic info
 - Coordinates: {{ coord_map_link }}.
-- Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
+- Genealogy (as given in [WALS](https://wals.info/), with corrections by Valentin Vydrin). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
 Eastern Maninka (< Manding < Western Mande < Mande < Niger-Congo) is spoken mainly in Guinea (West Africa) by more than 4 million L1 speakers, and up to 3-4 million L2 speakers.
