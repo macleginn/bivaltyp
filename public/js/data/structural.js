@@ -9,16 +9,16 @@ const structuralData = [
     "valency_pattern"
   ],
   [
-    "Ingush",
+    "Albanian",
     "feel_pain",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "have#illness#",
     "",
     "*",
@@ -27,25 +27,25 @@ const structuralData = [
     ""
   ],
   [
-    "Ingush",
+    "Albanian",
     "be_afraid",
     "",
     "NOM",
-    "LAT",
+    "ngaNOM",
     "Y",
-    "NOM_LAT"
+    "NOM_ngaNOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "throw",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "have_enough",
     "",
     "DAT",
@@ -54,431 +54,260 @@ const structuralData = [
     "DAT_NOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "resemble",
     "",
     "NOM",
-    "LAT",
+    "DAT",
     "Y",
-    "NOM_LAT"
+    "NOM_DAT"
   ],
   [
-    "Ingush",
+    "Albanian",
     "believe",
     "",
     "NOM",
-    "LAT",
+    "DAT",
     "Y",
-    "NOM_LAT"
+    "NOM_DAT"
   ],
   [
-    "Ingush",
+    "Albanian",
     "take",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "see",
     "",
-    "DAT",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "influence",
     "",
-    "ERG",
-    "DAT",
+    "NOM",
+    "neACC",
     "Y",
-    "ERG_DAT"
+    "NOM_neACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "encounter",
     "",
     "NOM",
-    "LAT",
+    "meACC",
     "Y",
-    "NOM_LAT"
+    "NOM_meACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "enter",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "neACC",
+    "Y",
+    "NOM_neACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "win",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ndajABL",
+    "Y",
+    "NOM_ndajABL"
   ],
   [
-    "Ingush",
+    "Albanian",
     "go_out",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ngaNOM",
+    "Y",
+    "NOM_ngaNOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "drive",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "bend",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "tell",
     "",
-    "ERG",
-    "ALL",
+    "NOM",
+    "DAT",
     "Y",
-    "ERG_ALL"
+    "NOM_DAT"
   ],
   [
-    "Ingush",
+    "Albanian",
     "hold",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "catch_up",
     "",
     "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ingush",
-    "milk",
-    "",
-    "ERG",
-    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
-    "reach",
+    "Albanian",
+    "milk",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
+    "reach",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
     "touch",
     "",
     "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "fight",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "be_friends",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "think",
     "",
-    "ERG",
-    "LAT",
+    "NOM",
+    "perACC",
     "Y",
-    "ERG_LAT"
+    "NOM_perACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "eat",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "fry",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "wait",
     "",
     "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "forget",
     "",
-    "DAT",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "perACC",
+    "Y",
+    "NOM_perACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "depend",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ngaNOM",
+    "Y",
+    "NOM_ngaNOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "call",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "get_to_know",
     "",
-    "DAT",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "meACC",
+    "Y",
+    "NOM_meACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "know",
     "",
-    "DAT",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "play#instrument#",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "avoid",
-    "",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Ingush",
-    "make",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "make_fun",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "have",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Ingush",
-    "look_for",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "paint",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "bite",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "forfeit",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "try_to_catch",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "break",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "flatter",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "love#person#",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "wave",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "dream",
-    "",
-    "ERG",
-    "ABL",
-    "Y",
-    "ERG_ABL"
-  ],
-  [
-    "Ingush",
-    "wash",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "put_on",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "be_called",
-    "",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Ingush",
-    "punish",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "attack",
     "",
     "NOM",
     "DAT",
@@ -486,25 +315,196 @@ const structuralData = [
     "NOM_DAT"
   ],
   [
-    "Ingush",
+    "Albanian",
+    "avoid",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Albanian",
+    "make",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "make_fun",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Albanian",
+    "have",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "look_for",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "paint",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "bite",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "forfeit",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "try_to_catch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "break",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "flatter",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Albanian",
+    "love#person#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "wave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "dream",
+    "",
+    "NOM",
+    "perACC",
+    "Y",
+    "NOM_perACC"
+  ],
+  [
+    "Albanian",
+    "wash",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "put_on",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "be_called",
+    "",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Albanian",
+    "punish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "attack",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
     "fill#intr#",
     "",
     "NOM",
-    "LAT",
+    "meACC",
     "Y",
-    "NOM_LAT"
+    "NOM_meACC"
   ],
   [
-    "Ingush",
+    "Albanian",
     "find",
     "",
-    "DAT",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "be_short",
     "",
     "DAT",
@@ -513,16 +513,16 @@ const structuralData = [
     "DAT_NOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "hate",
     "",
-    "DAT",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "like",
     "",
     "DAT",
@@ -531,7 +531,7 @@ const structuralData = [
     "DAT_NOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "need",
     "",
     "DAT",
@@ -540,8 +540,26 @@ const structuralData = [
     "DAT_NOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "surround",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
+    "remain",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Albanian",
+    "answer",
     "",
     "NOM",
     "DAT",
@@ -549,125 +567,44 @@ const structuralData = [
     "NOM_DAT"
   ],
   [
-    "Ingush",
-    "remain",
-    "",
-    "ALL",
-    "NOM",
-    "X",
-    "ALL_NOM"
-  ],
-  [
-    "Ingush",
-    "answer",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
+    "Albanian",
     "open",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "be_different",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ngaNOM",
+    "Y",
+    "NOM_ngaNOM"
   ],
   [
-    "Ingush",
+    "Albanian",
     "fall_behind",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "pasABL",
+    "Y",
+    "NOM_pasABL"
   ],
   [
-    "Ingush",
+    "Albanian",
     "plough",
     "",
-    "ERG",
     "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Ingush",
+    "Albanian",
     "smell",
-    "",
-    "LAT",
-    "NOM",
-    "X",
-    "LAT_NOM"
-  ],
-  [
-    "Ingush",
-    "cross",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "sing",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "write",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "drink",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "melt",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "match",
-    "",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Ingush",
-    "leave",
     "",
     "NOM",
     "ABL",
@@ -675,1678 +612,571 @@ const structuralData = [
     "NOM_ABL"
   ],
   [
-    "Ingush",
-    "cover",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "remember",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "help",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "understand#language#",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "hit#target#",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ingush",
-    "cut_oneself",
-    "",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Ingush",
-    "get_stuck",
-    "",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Ingush",
-    "lose#game#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "be_glad",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "speak",
-    "",
-    "ERG",
-    "INSTR",
-    "Y",
-    "ERG_INSTR"
-  ],
-  [
-    "Ingush",
-    "give_birth",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "drop",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "govern",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "miss",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "follow",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "dismount",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "listen",
-    "",
-    "ERG",
-    "ALL",
-    "Y",
-    "ERG_ALL"
-  ],
-  [
-    "Ingush",
-    "obey",
-    "",
-    "ERG",
-    "ALL",
-    "Y",
-    "ERG_ALL"
-  ],
-  [
-    "Ingush",
-    "hear",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "mix",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "look",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ingush",
-    "take_off",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "dream#sleeping#",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "agree",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "have_a_quarrel",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "cost",
-    "",
-    "LAT",
-    "NOM",
-    "X",
-    "LAT_NOM"
-  ],
-  [
-    "Ingush",
-    "shoot_at",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "pour",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "lose",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "sink",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "kill",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "hit",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "kiss",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "read",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "move#bodypart#",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ingush",
-    "respect",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "be_squeamish",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "be_content",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ingush",
-    "fall_in_love",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "trust",
-    "",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Ingush",
-    "sympathise",
-    "",
-    "DAT",
-    "LAT",
-    "XY",
-    "DAT_LAT"
-  ],
-  [
-    "Ingush",
-    "envy",
-    "",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Ingush",
-    "be_angry",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ingush",
-    "be_surprised",
-    "",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Ingush",
-    "love#tea#",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "enjoy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ingush",
-    "want",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "have_a_grudge",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ingush",
-    "take_offence",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "upset",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Ingush",
-    "marvel",
-    "",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Ingush",
-    "despise",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "get_upset",
-    "",
-    "DAT",
-    "LAT",
-    "XY",
-    "DAT_LAT"
-  ],
-  [
-    "Ingush",
-    "get_irritated",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ingush",
-    "be_fond",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ingush",
-    "be_shy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
-    "feel_pain",
-    "mina izan",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
-    "have#illness#",
-    "izan",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "be_afraid",
-    "beldur izan",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "throw",
-    "bota",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "have_enough",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
-    "resemble",
-    "antza izan",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
-    "believe",
-    "sinetsi",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "take",
-    "hartu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "see",
-    "ikusi",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "influence",
-    "eragin",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "encounter",
-    "topatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "enter",
-    "sartu",
-    "ABS",
-    "IN",
-    "Y",
-    "ABS_IN"
-  ],
-  [
-    "Basque",
-    "win",
-    "irabazi",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "go_out",
-    "atera",
-    "ABS",
-    "ABL",
-    "Y",
-    "ABS_ABL"
-  ],
-  [
-    "Basque",
-    "drive",
-    "eraman",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "bend",
-    "okertu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "tell",
-    "esan",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "hold",
-    "eduki",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "catch_up",
-    "atzeman",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "milk",
-    "jetzi",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "reach",
-    "iritsi",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
-  ],
-  [
-    "Basque",
-    "touch",
-    "ukitu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "fight",
-    "borrokatu",
-    "ABS",
-    "kontra",
-    "Y",
-    "ABS_kontra"
-  ],
-  [
-    "Basque",
-    "be_friends",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
-    "think",
-    "pentsatu",
-    "ERG",
-    "INS",
-    "Y",
-    "ERG_INS"
-  ],
-  [
-    "Basque",
-    "eat",
-    "jan",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "fry",
-    "erre",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "wait",
-    "itxaron",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "forget",
-    "ahaztu",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Basque",
-    "depend",
-    "egon",
-    "ABS",
-    "baitan",
-    "Y",
-    "ABS_baitan"
-  ],
-  [
-    "Basque",
-    "call",
-    "deitu",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "get_to_know",
-    "ezagutu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "know",
-    "ezagutu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "play#instrument#",
-    "jo",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "avoid",
-    "ihes egin",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "make",
-    "fabrikatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "make_fun",
-    "trufatu",
-    "ABS",
-    "INS",
-    "Y",
-    "ABS_INS"
-  ],
-  [
-    "Basque",
-    "have",
-    "izan",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "look_for",
-    "bilatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "paint",
-    "pintatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "bite",
-    "ausiki",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "forfeit",
-    "galdu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "try_to_catch",
-    "harrapatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "break",
-    "hautsi",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "flatter",
-    "lausengatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "love#person#",
-    "maitatu ",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "wave",
-    "astindu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "dream",
-    "amestu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "wash",
-    "garbitu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "put_on",
-    "jantzi",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "be_called",
-    "deitu",
-    "ABS",
-    "ABS(NO.AGR)",
-    "Y",
-    "ABS_ABS(NO.AGR)"
-  ],
-  [
-    "Basque",
-    "punish",
-    "zigortu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "attack",
-    "eraso",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "fill#intr#",
-    "bete",
-    "ABS",
-    "INS",
-    "Y",
-    "ABS_INS"
-  ],
-  [
-    "Basque",
-    "find",
-    "aurkitu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "be_short",
-    "falta izan",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Basque",
-    "hate",
-    "gorrotatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "like",
-    "gustatu",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Basque",
-    "need",
-    "behar izan",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "surround",
-    "inguratu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "remain",
-    "gelditu",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Basque",
-    "answer",
-    "erantzun",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Basque",
-    "open",
-    "ireki",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "be_different",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
-    "fall_behind",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
-    "plough",
-    "goldatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Basque",
-    "smell",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Basque",
+    "Albanian",
     "cross",
-    "zeharkatu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "sing",
-    "kantatu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "write",
-    "idatzi",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "drink",
-    "edan",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "melt",
-    "urtu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "match",
-    "(ongi) joan",
-    "ABS",
-    "DAT",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_DAT"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "leave",
-    "utzi",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "cover",
-    "estali",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "remember",
-    "gogoratu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "help",
-    "lagundu",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "understand#language#",
-    "ulertu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "hit#target#",
-    "jo",
-    "ERG",
-    "IN",
+    "",
+    "NOM",
+    "neACC",
     "Y",
-    "ERG_IN"
+    "NOM_neACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "cut_oneself",
-    "ebaki",
-    "ABS",
-    "COM",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_COM"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "get_stuck",
-    "itsatsi",
-    "ABS",
-    "DAT",
+    "",
+    "NOM",
+    "neACC",
     "Y",
-    "ABS_DAT"
+    "NOM_neACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "lose#game#",
-    "galdu ",
-    "ERG",
-    "DAT",
+    "",
+    "NOM",
+    "tekNOM",
     "Y",
-    "ERG_DAT"
+    "NON_tekNOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "be_glad",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Basque",
+    "Albanian",
     "speak",
-    "hitz egin",
-    "ERG",
-    "COM",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ERG_COM"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "give_birth",
-    "erditu",
-    "ABS",
-    "INS",
-    "Y",
-    "ABS_INS"
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "drop",
-    "erortzen utzi",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "govern",
-    "gobernatu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "miss",
-    "eskas izan",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "",
+    "NOM",
+    "perACC",
+    "Y",
+    "NOM_perACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "follow",
-    "jarraitu",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "dismount",
-    "jaitsi",
-    "ABS",
-    "ABL",
+    "",
+    "NOM",
+    "ngaNOM",
     "Y",
-    "ABS_ABL"
+    "NOM_ngaNOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "listen",
-    "entzun",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "obey",
-    "obeditu",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "hear",
-    "aditu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "mix",
-    "nahasi",
-    "ABS",
-    "COM",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_COM"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "look",
-    "begiratu",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "take_off",
-    "kendu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "dream#sleeping#",
-    "hitz egin",
-    "ERG",
-    "COM",
-    "Y",
-    "ERG_COM"
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "agree",
-    "ados jarri",
-    "ABS",
-    "COM",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_COM"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "have_a_quarrel",
-    "liskartu",
-    "ABS",
-    "COM",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_COM"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "cost",
-    "balio izan",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "shoot_at",
-    "tiratu",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
+    "",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Basque",
+    "Albanian",
     "pour",
-    "bota",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "lose",
-    "galdu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "sink",
-    "murgildu",
-    "ABS",
-    "IN",
+    "",
+    "NOM",
+    "neACC",
     "Y",
-    "ABS_IN"
+    "NOM_neACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "kill",
-    "hil",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "hit",
-    "jo",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "kiss",
-    "musu eman",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "read",
-    "irakurri",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "move#bodypart#",
-    "mugitu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "respect",
-    "errespetatu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "be_squeamish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "NOM",
+    "ngaNOM",
+    "Y",
+    "NOM_ngaNOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "be_content",
-    "pozik egon",
-    "ABS",
-    "COM",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_COM"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "fall_in_love",
-    "maitemindu",
-    "ABS",
-    "INS",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_INS"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "trust",
-    "fidatu",
-    "ABS",
-    "COM",
-    "Y",
-    "ABS_COM"
-  ],
-  [
-    "Basque",
-    "sympathise",
-    "urrikaldu",
-    "ABS",
-    "INS",
-    "Y",
-    "ABS_INS"
-  ],
-  [
-    "Basque",
-    "envy",
-    "bekaiztu",
-    "ABS",
+    "",
+    "NOM",
     "DAT",
     "Y",
-    "ABS_DAT"
+    "NOM_DAT"
   ],
   [
-    "Basque",
+    "Albanian",
+    "sympathise",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Albanian",
+    "envy",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Albanian",
     "be_angry",
-    "haserretu",
-    "ABS",
-    "COM",
+    "",
+    "NOM",
+    "meACC",
     "Y",
-    "ABS_COM"
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "be_surprised",
-    "harritu",
-    "ABS",
-    "INS",
+    "",
+    "NOM",
+    "ngaNOM",
     "Y",
-    "ABS_INS"
+    "NOM_ngaNOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "love#tea#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "enjoy",
-    "dastatu",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "want",
-    "nahi izan",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "have_a_grudge",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "take_offence",
-    "gaitzitu",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "NOM",
+    "ngaNOM",
+    "Y",
+    "NOM_ngaNOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "upset",
-    "nahigabetu",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "marvel",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "NOM",
+    "ngaNOM",
+    "Y",
+    "NOM_ngaNOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "despise",
-    "gutxietsi",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "get_upset",
-    "penatu",
-    "ABS",
-    "MOT",
+    "",
+    "NOM",
+    "ngaNOM",
     "Y",
-    "ABS_MOT"
+    "NOM_ngaNOM"
   ],
   [
-    "Basque",
+    "Albanian",
     "get_irritated",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
   ],
   [
-    "Basque",
+    "Albanian",
     "be_fond",
-    "gogoko izan",
-    "ERG",
-    "ABS",
+    "",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Basque",
+    "Albanian",
     "be_shy",
-    "lotsatu",
-    "ABS",
-    "INS",
-    "Y",
-    "ABS_INS"
+    "",
+    "DAT",
+    "perACC",
+    "XY",
+    "DAT_perACC"
   ],
   [
     "Bagvalal",
@@ -3519,3516 +2349,6 @@ const structuralData = [
     ""
   ],
   [
-    "Icelandic",
-    "feel_pain",
-    "illt",
-    "DAT",
-    "iDAT",
-    "XY",
-    "DAT_iDAT"
-  ],
-  [
-    "Icelandic",
-    "have#illness#",
-    "er",
-    "NOM",
-    "medACC",
-    "Y",
-    "NOM_medACC"
-  ],
-  [
-    "Icelandic",
-    "be_afraid",
-    "hræddur ",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "throw",
-    "kastaði ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "have_enough",
-    "á nóg ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Icelandic",
-    "resemble",
-    "líkist",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "believe",
-    "trúir ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "take",
-    "tók ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "see",
-    "sér ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "influence",
-    "hefur áhrif",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "encounter",
-    "rakst ",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "enter",
-    "kom inn",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Icelandic",
-    "win",
-    "vann ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "go_out",
-    "fór út",
-    "NOM",
-    "urDAT",
-    "Y",
-    "NOM_urDAT"
-  ],
-  [
-    "Icelandic",
-    "drive",
-    "reka",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "bend",
-    "beygði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "tell",
-    "sagði",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "hold",
-    "heldur",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "catch_up",
-    "náði",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "milk",
-    "mjólkaði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "reach",
-    "náði",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "touch",
-    "kom",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "fight",
-    "slást",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "be_friends",
-    "vinur ",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Icelandic",
-    "think",
-    "hugsa",
-    "NOM",
-    "umACC",
-    "Y",
-    "NOM_umACC"
-  ],
-  [
-    "Icelandic",
-    "eat",
-    "borðaði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "fry",
-    "steikti",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "wait",
-    "bíða",
-    "NOM",
-    "eftirDAT",
-    "Y",
-    "NOM_eftirDAT"
-  ],
-  [
-    "Icelandic",
-    "forget",
-    "gleymdi",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "depend",
-    "háð",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "call",
-    "kallaði",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Icelandic",
-    "get_to_know",
-    "kynntist",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "know",
-    "þekkir ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "play#instrument#",
-    "spila",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "avoid",
-    "forðast ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "make",
-    "bjó til",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Icelandic",
-    "make_fun",
-    "gera grín",
-    "NOM",
-    "adDAT",
-    "Y",
-    "NOM_adDAT"
-  ],
-  [
-    "Icelandic",
-    "have",
-    "á",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "look_for",
-    "leita",
-    "NOM",
-    "adDAT",
-    "Y",
-    "NOM_adDAT"
-  ],
-  [
-    "Icelandic",
-    "paint",
-    "málaði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "bite",
-    "beit ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "forfeit",
-    "missti",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "try_to_catch",
-    "reyna að ná",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Icelandic",
-    "break",
-    "braut ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "flatter",
-    "skjalla",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "love#person#",
-    "elskar",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "wave",
-    "veifa",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "dream",
-    "dreymir",
-    "ACC",
-    "umACC",
-    "XY",
-    "ACC_umACC"
-  ],
-  [
-    "Icelandic",
-    "wash",
-    "þvoði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "put_on",
-    "fór",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Icelandic",
-    "be_called",
-    "er  kallað",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Icelandic",
-    "punish",
-    "refsaði",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "attack",
-    "réðst",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "fill#intr#",
-    "fylltist",
-    "NOM",
-    "afDAT",
-    "Y",
-    "NOM_afDAT"
-  ],
-  [
-    "Icelandic",
-    "find",
-    "fann ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "be_short",
-    "vantar",
-    "ACC",
-    "ACC",
-    "X",
-    "ACC_ACC"
-  ],
-  [
-    "Icelandic",
-    "hate",
-    "hatar",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "like",
-    "líkar",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Icelandic",
-    "need",
-    "vantar",
-    "ACC",
-    "ACC",
-    "X",
-    "ACC_ACC"
-  ],
-  [
-    "Icelandic",
-    "surround",
-    "umlykja",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "remain",
-    "á eftir",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "answer",
-    "svaraði",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "open",
-    "opnaði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "be_different",
-    "ólík",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "fall_behind",
-    "dróst aftur",
-    "NOM",
-    "urDAT",
-    "Y",
-    "NOM_urDAT"
-  ],
-  [
-    "Icelandic",
-    "plough",
-    "plægja ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "smell",
-    "lykta",
-    "NOM",
-    "afDAT",
-    "Y",
-    "NOM_afDAT"
-  ],
-  [
-    "Icelandic",
-    "cross",
-    "fór",
-    "NOM",
-    "yfirACC",
-    "Y",
-    "NOM_yfirACC"
-  ],
-  [
-    "Icelandic",
-    "sing",
-    "söng ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "write",
-    "skrifaði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "drink",
-    "drakk",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "melt",
-    "bræddi",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "match",
-    "í stíl",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "leave",
-    "yfirgaf",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "cover",
-    "þekur ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "remember",
-    "man",
-    "NOM",
-    "eftirDAT",
-    "Y",
-    "NOM_eftirDAT"
-  ],
-  [
-    "Icelandic",
-    "help",
-    "hjálpaði",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "understand#language#",
-    "skilur",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "hit#target#",
-    "laust niður",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Icelandic",
-    "cut_oneself",
-    "skar sig",
-    "NOM",
-    "medDAT",
-    "Y",
-    "NOM_medDAT"
-  ],
-  [
-    "Icelandic",
-    "get_stuck",
-    "festist",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "lose#game#",
-    "tapaði",
-    "NOM",
-    "fyrirDAT",
-    "Y",
-    "NOM_fyrirDAT"
-  ],
-  [
-    "Icelandic",
-    "be_glad",
-    "ánægður",
-    "NOM",
-    "medACC",
-    "Y",
-    "NOM_medACC"
-  ],
-  [
-    "Icelandic",
-    "speak",
-    "tala",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "give_birth",
-    "fæddi",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "drop",
-    "missti",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "govern",
-    "fer með völd",
-    "NOM",
-    "iDAT",
-    "Y",
-    "NOM_iDAT"
-  ],
-  [
-    "Icelandic",
-    "miss",
-    "saknar",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Icelandic",
-    "follow",
-    "eltir",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "dismount",
-    "steig niður",
-    "NOM",
-    "afDAT",
-    "Y",
-    "NOM_afDAT"
-  ],
-  [
-    "Icelandic",
-    "listen",
-    "hlusta",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "obey",
-    "hlýðir",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "hear",
-    "heyrir",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "mix",
-    "blandaðist",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "look",
-    "horfa",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "take_off",
-    "fór",
-    "NOM",
-    "urDAT",
-    "Y",
-    "NOM_urDAT"
-  ],
-  [
-    "Icelandic",
-    "dream#sleeping#",
-    "dreymir",
-    "ACC",
-    "ACC",
-    "X",
-    "ACC_ACC"
-  ],
-  [
-    "Icelandic",
-    "agree",
-    "sammála",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "have_a_quarrel",
-    "reifst",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "cost",
-    "kostar",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "shoot_at",
-    "skaut",
-    "NOM",
-    "aACC",
-    "Y",
-    "NOM_aACC"
-  ],
-  [
-    "Icelandic",
-    "pour",
-    "hellti",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "lose",
-    "týndi",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "sink",
-    "sökk",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Icelandic",
-    "kill",
-    "drap",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "hit",
-    "lamdi",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "kiss",
-    "kyssti",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "read",
-    "las",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "move#bodypart#",
-    "hreyfði",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "respect",
-    "ber virðingu",
-    "NOM",
-    "fyrirDAT",
-    "Y",
-    "NOM_fyrirDAT"
-  ],
-  [
-    "Icelandic",
-    "be_squeamish",
-    "flökrar",
-    "NOM",
-    "vidDAT",
-    "Y",
-    "NOM_vidDAT"
-  ],
-  [
-    "Icelandic",
-    "be_content",
-    "ánægður",
-    "NOM",
-    "medACC",
-    "Y",
-    "NOM_medACC"
-  ],
-  [
-    "Icelandic",
-    "fall_in_love",
-    "varð ástfanginn",
-    "NOM",
-    "afDAT",
-    "Y",
-    "NOM_afDAT"
-  ],
-  [
-    "Icelandic",
-    "trust",
-    "treystir",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "sympathise",
-    "finnur til",
-    "NOM",
-    "medDAT",
-    "Y",
-    "NOM_medDAT"
-  ],
-  [
-    "Icelandic",
-    "envy",
-    "öfundar ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "be_angry",
-    "reiður",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "be_surprised",
-    "hissa",
-    "NOM",
-    "yfirDAT",
-    "Y",
-    "NOM_yfirDAT"
-  ],
-  [
-    "Icelandic",
-    "love#tea#",
-    "elskar",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "enjoy",
-    "finnst gott",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Icelandic",
-    "want",
-    "langar",
-    "ACC",
-    "iACC",
-    "XY",
-    "ACC_iACC"
-  ],
-  [
-    "Icelandic",
-    "have_a_grudge",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Icelandic",
-    "take_offence",
-    "móðgaðist",
-    "NOM",
-    "vidACC",
-    "Y",
-    "NOM_vidACC"
-  ],
-  [
-    "Icelandic",
-    "upset",
-    "kom ... í mikið uppnám",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Icelandic",
-    "marvel",
-    "dáðist",
-    "NOM",
-    "adDAT",
-    "Y",
-    "NOM_adDAT"
-  ],
-  [
-    "Icelandic",
-    "despise",
-    "fyrirlítur",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Icelandic",
-    "get_upset",
-    "komst í uppnám",
-    "NOM",
-    "vegnaGEN",
-    "Y",
-    "NOM_vegnaGEN"
-  ],
-  [
-    "Icelandic",
-    "get_irritated",
-    "verða pirraður ",
-    "NOM",
-    "aDAT",
-    "Y",
-    "NOM_aDAT"
-  ],
-  [
-    "Icelandic",
-    "be_fond",
-    "annt",
-    "NOM",
-    "umACC",
-    "Y",
-    "NOM_umACC"
-  ],
-  [
-    "Icelandic",
-    "be_shy",
-    "fer hjá sér",
-    "NOM",
-    "vegnaGEN",
-    "Y",
-    "NOM_vegnaGEN"
-  ],
-  [
-    "Mari (Western)",
-    "feel_pain",
-    "karšt-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "have#illness#",
-    "cerlän-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "be_afraid",
-    "lüd-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "throw",
-    "šu-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "have_enough",
-    "sit-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "resemble",
-    "ə̑l-",
-    "NOM",
-    "gan",
-    "Y",
-    "NOM_gan"
-  ],
-  [
-    "Mari (Western)",
-    "believe",
-    "ə̈n'än-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "take",
-    "näl-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "see",
-    "už-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "influence",
-    "vaštalt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "encounter",
-    "väšli-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "enter",
-    "pə̑r-",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Mari (Western)",
-    "win",
-    "mad-ə̑n näl-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "go_out",
-    "läkt-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "drive",
-    "pokt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "bend",
-    "äj-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "tell",
-    "keles-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "hold",
-    "kə̑č-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "catch_up",
-    "pokt-en šo-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "milk",
-    "šə̑pšə̑l-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "reach",
-    "šo-",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Mari (Western)",
-    "touch",
-    "tə̈käl-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "fight",
-    "šidäl-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "be_friends",
-    "kelš",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "think",
-    "šan-",
-    "NOM",
-    "gisan",
-    "Y",
-    "NOM_gisan"
-  ],
-  [
-    "Mari (Western)",
-    "eat",
-    "kačk-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "fry",
-    "žär-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "wait",
-    "və̑č-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "forget",
-    "mond-",
-    "NOM",
-    "gisan",
-    "Y",
-    "NOM_gisan"
-  ],
-  [
-    "Mari (Western)",
-    "depend",
-    "vaštalt-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "call",
-    "sə̈gə̈räl-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "get_to_know",
-    "päl-ə̈mə̈ li-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "know",
-    "päl-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "play#instrument#",
-    "šakt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "avoid",
-    "šə̈l-ə̈n kašt-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "make",
-    "jämdə̈l-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "make_fun",
-    "jə̑latar-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "have",
-    "ulə̑",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "look_for",
-    "kə̈čäl-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "paint",
-    "čiält-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "bite",
-    "pə̑rə̑l-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "forfeit",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "try_to_catch",
-    "lo-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "break",
-    "tod-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "flatter",
-    "jə̑gə̑ltə̑l-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "love#person#",
-    "jarat-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "wave",
-    "maxaj-",
-    "NOM",
-    "gisan",
-    "Y",
-    "NOM_gisan"
-  ],
-  [
-    "Mari (Western)",
-    "dream",
-    "šanə̑kal-",
-    "NOM",
-    "gisan",
-    "Y",
-    "NOM_gisan"
-  ],
-  [
-    "Mari (Western)",
-    "wash",
-    "mə̑šk-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "put_on",
-    "či-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "be_called",
-    "manalt-",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Mari (Western)",
-    "punish",
-    "nakaz-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "attack",
-    "napadaj-",
-    "NOM",
-    "veke",
-    "Y",
-    "NOM_veke"
-  ],
-  [
-    "Mari (Western)",
-    "fill#intr#",
-    "tem-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "find",
-    "mo-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "be_short",
-    "ak sit-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "hate",
-    "užə̑n ak kerd",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "like",
-    "kelš-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "need",
-    "kel-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "surround",
-    "är-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "remain",
-    "kod-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "answer",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "open",
-    "pač-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "be_different",
-    "ajə̑rtemält-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "fall_behind",
-    "kod-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "plough",
-    "kə̑ral-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "smell",
-    "üpš-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "cross",
-    "vanž-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "sing",
-    "mə̑r-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "write",
-    "sir-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "drink",
-    "jü-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "melt",
-    "šə̈rät-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "match",
-    "jar-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "leave",
-    "kod-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "cover",
-    "leved-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "remember",
-    "äšt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "help",
-    "palš-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "understand#language#",
-    "ə̑ngə̑l-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "hit#target#",
-    "värešt-",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Mari (Western)",
-    "cut_oneself",
-    "pə̑cked-ält-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "get_stuck",
-    "piž-",
-    "NOM",
-    "LAT",
-    "Y",
-    "NOM_LAT"
-  ],
-  [
-    "Mari (Western)",
-    "lose#game#",
-    "mad-ə̑n kolt-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "be_glad",
-    "susu li-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "speak",
-    "šajə̑št-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "give_birth",
-    "ə̈št-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "drop",
-    "kenvact-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "govern",
-    "vujlat-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "miss",
-    "skučaj-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "follow",
-    "keä",
-    "NOM",
-    "pastek",
-    "Y",
-    "NOM_pastek"
-  ],
-  [
-    "Mari (Western)",
-    "dismount",
-    "val-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "listen",
-    "kolə̑tšt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "obey",
-    "kolə̑št-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "hear",
-    "kol-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "mix",
-    "jarl-alt-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "look",
-    "anž-",
-    "NOM",
-    "veke",
-    "Y",
-    "NOM_veke"
-  ],
-  [
-    "Mari (Western)",
-    "take_off",
-    "kə̑daš-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "dream#sleeping#",
-    "omə̑n-eš kaj-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Mari (Western)",
-    "agree",
-    "jaral li-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "have_a_quarrel",
-    "soredäl-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "cost",
-    "stoj-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "shoot_at",
-    "lü-",
-    "NOM",
-    "veke",
-    "Y",
-    "NOM_veke"
-  ],
-  [
-    "Mari (Western)",
-    "pour",
-    "opt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "lose",
-    "jamd-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "sink",
-    "val-en ke-",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Mari (Western)",
-    "kill",
-    "pušt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "hit",
-    "seväl-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "kiss",
-    "šə̑pšal-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "read",
-    "lə̑d-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "move#bodypart#",
-    "tärvätə̈l-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "respect",
-    "šoteš pišt-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "be_squeamish",
-    "jə̈rn-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Mari (Western)",
-    "be_content",
-    "kogoešn-",
-    "NOM",
-    "dono",
-    "Y",
-    "NOM_dono"
-  ],
-  [
-    "Mari (Western)",
-    "fall_in_love",
-    "jarat-en šə̈nd-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "trust",
-    "dover'aj-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "sympathise",
-    "žäläj-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "envy",
-    "tə̈rə̈n' anž-",
-    "NOM",
-    "veke",
-    "Y",
-    "NOM_veke"
-  ],
-  [
-    "Mari (Western)",
-    "be_angry",
-    "šə̈dešk-",
-    "NOM",
-    "veke",
-    "Y",
-    "NOM_veke"
-  ],
-  [
-    "Mari (Western)",
-    "be_surprised",
-    "ör-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "love#tea#",
-    "jarat-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "enjoy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "want",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "have_a_grudge",
-    "šə̈dešk-",
-    "NOM",
-    "veke",
-    "Y",
-    "NOM_veke"
-  ],
-  [
-    "Mari (Western)",
-    "take_offence",
-    "orlan-",
-    "NOM",
-    "veke",
-    "Y",
-    "NOM_veke"
-  ],
-  [
-    "Mari (Western)",
-    "upset",
-    "orlan-dar-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Mari (Western)",
-    "marvel",
-    "cüdej-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Mari (Western)",
-    "despise",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "get_upset",
-    "ojxə̑r-",
-    "NOM",
-    "gisan",
-    "Y",
-    "NOM_gisan"
-  ],
-  [
-    "Mari (Western)",
-    "get_irritated",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "be_fond",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Mari (Western)",
-    "be_shy",
-    "šeklän-",
-    "NOM",
-    "gec",
-    "Y",
-    "NOM_gec"
-  ],
-  [
-    "Greek (ancient)",
-    "feel_pain",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "have#illness#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "be_afraid",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "throw",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "have_enough",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Greek (ancient)",
-    "resemble",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "believe",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "take",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "see",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "influence",
-    "",
-    "NOM",
-    "eisACC",
-    "Y",
-    "NOM_eisACC"
-  ],
-  [
-    "Greek (ancient)",
-    "encounter",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "enter",
-    "",
-    "NOM",
-    "eisACC",
-    "Y",
-    "NOM_eisACC"
-  ],
-  [
-    "Greek (ancient)",
-    "win",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "go_out",
-    "",
-    "NOM",
-    "eksGEN",
-    "Y",
-    "NOM_eksGEN"
-  ],
-  [
-    "Greek (ancient)",
-    "drive",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "bend",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "tell",
-    "",
-    "NOM",
-    "prosACC",
-    "Y",
-    "NOM_prosACC"
-  ],
-  [
-    "Greek (ancient)",
-    "hold",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "catch_up",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "milk",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "reach",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "touch",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "fight",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "be_friends",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "think",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "eat",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "fry",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "wait",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "forget",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "depend",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "call",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "get_to_know",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "know",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "play#instrument#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "avoid",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "make",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "make_fun",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "have",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "look_for",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "paint",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "bite",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "forfeit",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "try_to_catch",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "break",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "flatter",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "love#person#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "wave",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "dream",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "wash",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "put_on",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "be_called",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "punish",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "attack",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "fill#intr#",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "find",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "be_short",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "hate",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "like",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Greek (ancient)",
-    "need",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "surround",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "remain",
-    "",
-    "paraDAT",
-    "NOM",
-    "X",
-    "paraDAT_NOM"
-  ],
-  [
-    "Greek (ancient)",
-    "answer",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "open",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "be_different",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "fall_behind",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "plough",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "smell",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "cross",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "sing",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "write",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "drink",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "melt",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "match",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "leave",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "cover",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "remember",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "help",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "understand#language#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "hit#target#",
-    "",
-    "NOM",
-    "eisACC",
-    "Y",
-    "NOM_eisACC"
-  ],
-  [
-    "Greek (ancient)",
-    "cut_oneself",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "get_stuck",
-    "",
-    "NOM",
-    "prosDAT",
-    "Y",
-    "NOM_prosDAT"
-  ],
-  [
-    "Greek (ancient)",
-    "lose#game#",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "be_glad",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "speak",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "give_birth",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "drop",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "govern",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "miss",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "follow",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "dismount",
-    "",
-    "NOM",
-    "apoGEN",
-    "Y",
-    "NOM_apoGEN"
-  ],
-  [
-    "Greek (ancient)",
-    "listen",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "obey",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "hear",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "mix",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "look",
-    "",
-    "NOM",
-    "eisACC",
-    "Y",
-    "NOM_eisACC"
-  ],
-  [
-    "Greek (ancient)",
-    "take_off",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "dream#sleeping#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "agree",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "have_a_quarrel",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "cost",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "shoot_at",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "pour",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "lose",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "sink",
-    "",
-    "NOM",
-    "enDAT",
-    "Y",
-    "NOM_enDAT"
-  ],
-  [
-    "Greek (ancient)",
-    "kill",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "hit",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "kiss",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "read",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "move#bodypart#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "respect",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "be_squeamish",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "be_content",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "fall_in_love",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "trust",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "sympathise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "envy",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "be_angry",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "be_surprised",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "love#tea#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "enjoy",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "want",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (ancient)",
-    "have_a_grudge",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "take_offence",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "upset",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "marvel",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Greek (ancient)",
-    "despise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (ancient)",
-    "get_upset",
-    "",
-    "NOM",
-    "diaACC",
-    "Y",
-    "NOM_diaACC"
-  ],
-  [
-    "Greek (ancient)",
-    "get_irritated",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "be_fond",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (ancient)",
-    "be_shy",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
     "Bashkir",
     "feel_pain",
     "",
@@ -8199,574 +3519,574 @@ const structuralData = [
     "NOM_ABL"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "feel_pain",
-    "saejrede",
+    "mina izan",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "have#illness#",
-    "sovhten",
-    "*",
-    "*",
-    "*",
-    ""
+    "izan",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_afraid",
-    "aerkie",
-    "NOM",
-    "ELA",
+    "beldur izan",
+    "ERG",
+    "DAT",
     "Y",
-    "NOM_ELA"
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "throw",
-    "seedtie",
-    "NOM",
-    "ACC",
+    "bota",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "have_enough",
-    "jeenjh atna",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "resemble",
-    "pliere-sne",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
+    "antza izan",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "believe",
-    "jaahka",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "sinetsi",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "take",
-    "veelt-i",
-    "NOM",
-    "ACC",
+    "hartu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "see",
-    "vuajna",
-    "NOM",
-    "ACC",
+    "ikusi",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "influence",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "eragin",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "encounter",
-    "gaavned-i",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
+    "topatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "enter",
-    "veedtj-i",
-    "NOM",
-    "GENsijse",
+    "sartu",
+    "ABS",
+    "IN",
     "Y",
-    "NOM_GENsijse"
+    "ABS_IN"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "win",
-    "vitn-i",
-    "NOM",
-    "GENbijjelen",
+    "irabazi",
+    "ERG",
+    "DAT",
     "Y",
-    "NOM_GENbijjelen"
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "go_out",
-    "veedtj-i",
-    "NOM",
-    "GENsistie",
+    "atera",
+    "ABS",
+    "ABL",
     "Y",
-    "NOM_GENsistie"
+    "ABS_ABL"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "drive",
-    "voejede",
-    "NOM",
-    "ACC",
+    "eraman",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "bend",
-    "vijdtj-i",
-    "NOM",
-    "ACC",
+    "okertu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "tell",
-    "jeeht-i",
-    "NOM",
-    "ILL",
+    "esan",
+    "ERG",
+    "DAT",
     "Y",
-    "NOM_ILL"
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "hold",
-    "steerie",
-    "NOM",
-    "ACC",
+    "eduki",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "catch_up",
-    "jaks-i",
-    "NOM",
-    "ACC",
+    "atzeman",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "milk",
-    "buhtjie-ji",
-    "NOM",
-    "ACC",
+    "jetzi",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "reach",
-    "jaksa",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "iritsi",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "touch",
-    "båata",
-    "NOM",
-    "sontereGEN",
-    "Y",
-    "NOM_sontereGEN"
+    "ukitu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "fight",
-    "geampa-minie",
-    "NOM",
-    "COM",
+    "borrokatu",
+    "ABS",
+    "kontra",
     "Y",
-    "NOM_COM"
+    "ABS_kontra"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_friends",
-    "voelpe",
+    "*",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "think",
-    "ussjede",
-    "NOM",
-    "ILL",
+    "pentsatu",
+    "ERG",
+    "INS",
     "Y",
-    "NOM_ILL"
+    "ERG_INS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "eat",
-    "barra-ji",
-    "NOM",
-    "ACC",
+    "jan",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "fry",
-    "biss-i",
-    "NOM",
-    "ACC",
+    "erre",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "wait",
-    "vuertie-minie",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "itxaron",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "forget",
-    "våajaldahte-me",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "depend",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Saami (South)",
-    "call",
-    "tjåårve",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "get_to_know",
-    "lier-i damtedh",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "know",
-    "damta",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "play#instrument#",
-    "spealede",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "avoid",
-    "avta",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "make",
-    "daajhta",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "make_fun",
-    "nirrie",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "have",
-    "atna",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "look_for",
-    "hohtje-minie",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "paint",
-    "mööl-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "bite",
-    "gaaktj-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "forfeit",
-    "dassi",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "try_to_catch",
-    "jååge-minie",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "break",
-    "tjööpk-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "flatter",
-    "garmede",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "love#person#",
-    "eatsa",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "wave",
-    "saevehte",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Saami (South)",
-    "dream",
-    "niekede",
-    "NOM",
-    "GENbijre",
-    "Y",
-    "NOM_GENbijre"
-  ],
-  [
-    "Saami (South)",
-    "wash",
-    "biess-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "put_on",
-    "tjaaka",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "be_called",
-    "gahtja",
-    "ACC",
-    "NOM",
+    "ahaztu",
+    "DAT",
+    "ABS",
     "X",
-    "ACC_NOM"
+    "DAT_ABS"
   ],
   [
-    "Saami (South)",
+    "Basque",
+    "depend",
+    "egon",
+    "ABS",
+    "baitan",
+    "Y",
+    "ABS_baitan"
+  ],
+  [
+    "Basque",
+    "call",
+    "deitu",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Basque",
+    "get_to_know",
+    "ezagutu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "know",
+    "ezagutu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "play#instrument#",
+    "jo",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "avoid",
+    "ihes egin",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Basque",
+    "make",
+    "fabrikatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "make_fun",
+    "trufatu",
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
+  ],
+  [
+    "Basque",
+    "have",
+    "izan",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "look_for",
+    "bilatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "paint",
+    "pintatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "bite",
+    "ausiki",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "forfeit",
+    "galdu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "try_to_catch",
+    "harrapatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "break",
+    "hautsi",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "flatter",
+    "lausengatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "love#person#",
+    "maitatu ",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "wave",
+    "astindu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "dream",
+    "amestu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "wash",
+    "garbitu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "put_on",
+    "jantzi",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "be_called",
+    "deitu",
+    "ABS",
+    "ABS(NO.AGR)",
+    "Y",
+    "ABS_ABS(NO.AGR)"
+  ],
+  [
+    "Basque",
     "punish",
-    "päsjva",
-    "NOM",
-    "ACC",
+    "zigortu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "attack",
-    "låevtie-ji",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "eraso",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "fill#intr#",
-    "diev-i",
-    "NOM",
-    "ELA",
+    "bete",
+    "ABS",
+    "INS",
     "Y",
-    "NOM_ELA"
+    "ABS_INS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "find",
-    "gaavn-i",
-    "NOM",
-    "ACC",
+    "aurkitu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_short",
-    "fååtes-e",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "falta izan",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "hate",
-    "asjvoste",
-    "NOM",
-    "ACC",
+    "gorrotatu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "like",
-    "lyjhkie",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "gustatu",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "need",
-    "daarpesje",
-    "NOM",
-    "ACC",
+    "behar izan",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "surround",
-    "leah ",
-    "NOM",
-    "GENbijrejargan ",
-    "Y",
-    "NOM_GENbijrejargan"
+    "inguratu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "remain",
-    "aajmene",
-    "*",
-    "*",
-    "*",
-    ""
+    "gelditu",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "answer",
-    "vaestied-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "erantzun",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "open",
-    "rihpest-i",
-    "NOM",
-    "ACC",
+    "ireki",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_different",
     "*",
     "*",
@@ -8775,421 +4095,421 @@ const structuralData = [
     ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "fall_behind",
-    "sjidt-i",
-    "NOM",
-    "GENmanngan",
-    "Y",
-    "NOM_GENmanngan"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "plough",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "goldatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "smell",
-    "hepsie-h",
-    "NOM",
-    "ELA",
-    "Y",
-    "NOM_ELA"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "cross",
-    "vaadtja",
-    "NOM",
-    "GENraaste",
-    "Y",
-    "NOM_GENraaste"
+    "zeharkatu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "sing",
-    "laavla-ji",
-    "NOM",
-    "ACC",
+    "kantatu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "write",
-    "tjaelie-ji",
-    "NOM",
-    "ACC",
+    "idatzi",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "drink",
-    "jovk-i",
-    "NOM",
-    "ACC",
+    "edan",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "melt",
-    "sjalkede",
-    "NOM",
-    "ACC",
+    "urtu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "match",
-    "sjeahta",
-    "NOM",
-    "ILL",
+    "(ongi) joan",
+    "ABS",
+    "DAT",
     "Y",
-    "NOM_ILL"
+    "ABS_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "leave",
-    "leehp-i",
-    "NOM",
-    "ACC",
+    "utzi",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "cover",
-    "gaptja",
-    "NOM",
-    "ACC",
+    "estali",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "remember",
-    "majhta",
-    "NOM",
-    "ACC",
+    "gogoratu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "help",
-    "viehked-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "lagundu",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "understand#language#",
-    "gårkå",
-    "NOM",
-    "ACC",
+    "ulertu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "hit#target#",
-    "leek-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "jo",
+    "ERG",
+    "IN",
+    "Y",
+    "ERG_IN"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "cut_oneself",
-    "tjoehpede",
-    "NOM",
+    "ebaki",
+    "ABS",
     "COM",
     "Y",
-    "NOM_COM"
+    "ABS_COM"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "get_stuck",
-    "dabran-i",
-    "NOM",
-    "ILL",
+    "itsatsi",
+    "ABS",
+    "DAT",
     "Y",
-    "NOM_ILL"
+    "ABS_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "lose#game#",
-    "dass-i",
-    "NOM",
-    "GENvuestie",
+    "galdu ",
+    "ERG",
+    "DAT",
     "Y",
-    "NOM_GENvuestie"
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_glad",
-    "feejjen sjidt-i",
-    "NOM",
-    "GENavteste",
-    "Y",
-    "NOM_GENavteste"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "speak",
-    "soptseste",
-    "NOM",
+    "hitz egin",
+    "ERG",
     "COM",
     "Y",
-    "NOM_COM"
+    "ERG_COM"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "give_birth",
-    "baersield-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "erditu",
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "drop",
-    "gahtjed-i",
-    "NOM",
-    "ACC",
+    "erortzen utzi",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "govern",
-    "reerie",
-    "NOM",
-    "ACC",
+    "gobernatu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "miss",
-    "sorkese",
-    "NOM",
-    "ACC",
+    "eskas izan",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "follow",
-    "doerede",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "jarraitu",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "dismount",
-    "tjöödtjest-i",
-    "NOM",
-    "ELA",
+    "jaitsi",
+    "ABS",
+    "ABL",
     "Y",
-    "NOM_ELA"
+    "ABS_ABL"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "listen",
-    "goltele",
-    "NOM",
-    "ACC",
+    "entzun",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "obey",
-    "goltele",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "hear",
-    "gåvla",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "mix",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Saami (South)",
-    "look",
-    "vuartesje",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "take_off",
-    "sjigk-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Saami (South)",
-    "dream#sleeping#",
-    "niekede",
-    "NOM",
-    "GENbijre",
+    "obeditu",
+    "ERG",
+    "DAT",
     "Y",
-    "NOM_GENbijre"
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
-    "agree",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "Basque",
+    "hear",
+    "aditu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
-    "have_a_quarrel",
-    "traakeste",
-    "NOM",
+    "Basque",
+    "mix",
+    "nahasi",
+    "ABS",
     "COM",
     "Y",
-    "NOM_COM"
+    "ABS_COM"
   ],
   [
-    "Saami (South)",
+    "Basque",
+    "look",
+    "begiratu",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Basque",
+    "take_off",
+    "kendu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "dream#sleeping#",
+    "hitz egin",
+    "ERG",
+    "COM",
+    "Y",
+    "ERG_COM"
+  ],
+  [
+    "Basque",
+    "agree",
+    "ados jarri",
+    "ABS",
+    "COM",
+    "Y",
+    "ABS_COM"
+  ],
+  [
+    "Basque",
+    "have_a_quarrel",
+    "liskartu",
+    "ABS",
+    "COM",
+    "Y",
+    "ABS_COM"
+  ],
+  [
+    "Basque",
     "cost",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "balio izan",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "shoot_at",
-    "skööht-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "tiratu",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "pour",
-    "gurkie",
-    "NOM",
-    "ACC",
+    "bota",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "lose",
-    "dass-i",
-    "NOM",
-    "ACC",
+    "galdu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "sink",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "murgildu",
+    "ABS",
+    "IN",
+    "Y",
+    "ABS_IN"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "kill",
-    "bovv-i",
-    "NOM",
-    "ACC",
+    "hil",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "hit",
-    "tjååskel-i",
-    "NOM",
-    "ACC",
+    "jo",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "kiss",
-    "tjuvliest-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "musu eman",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "read",
-    "lohk-i",
-    "NOM",
-    "ACC",
+    "irakurri",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "move#bodypart#",
-    "svihtj-i",
-    "NOM",
-    "ACC",
+    "mugitu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "respect",
-    "heevehte",
-    "NOM",
-    "ACC",
+    "errespetatu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_squeamish",
     "*",
     "*",
@@ -9198,124 +4518,124 @@ const structuralData = [
     ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_content",
-    "lea madtjeles",
-    "NOM",
+    "pozik egon",
+    "ABS",
     "COM",
     "Y",
-    "NOM_COM"
+    "ABS_COM"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "fall_in_love",
-    "iehtse-gååt-i",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "maitemindu",
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "trust",
-    "jaahka",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "fidatu",
+    "ABS",
+    "COM",
+    "Y",
+    "ABS_COM"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "sympathise",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "urrikaldu",
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "envy",
-    "ååvete",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "bekaiztu",
+    "ABS",
+    "DAT",
+    "Y",
+    "ABS_DAT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_angry",
-    "måarehke",
-    "NOM",
-    "ILL",
+    "haserretu",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_ILL"
+    "ABS_COM"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_surprised",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "harritu",
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "love#tea#",
-    "lyjhkoe",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "enjoy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Saami (South)",
-    "want",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Saami (South)",
-    "have_a_grudge",
-    "måaskan sjidteme",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Saami (South)",
-    "take_offence",
-    "måaskan sjidteme",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Saami (South)",
-    "upset",
-    "aarkeda-mme",
-    "NOM",
-    "ACC",
+    "dastatu",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
+    "want",
+    "nahi izan",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
+    "have_a_grudge",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Basque",
+    "take_offence",
+    "gaitzitu",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Basque",
+    "upset",
+    "nahigabetu",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Basque",
     "marvel",
     "*",
     "*",
@@ -9324,1241 +4644,2402 @@ const structuralData = [
     ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "despise",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "gutxietsi",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "get_upset",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "penatu",
+    "ABS",
+    "MOT",
+    "Y",
+    "ABS_MOT"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "get_irritated",
-    "naskas sjädta",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_fond",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "gogoko izan",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Saami (South)",
+    "Basque",
     "be_shy",
-    "käinn",
-    "*",
-    "*",
-    "*",
-    ""
+    "lotsatu",
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
   ],
   [
-    "Albanian",
+    "Bengali",
     "feel_pain",
-    "",
-    "DAT",
+    "byāthā karā",
+    "GEN",
     "NOM",
     "X",
-    "DAT_NOM"
+    "GEN_NOM"
   ],
   [
-    "Albanian",
+    "Bengali",
     "have#illness#",
-    "",
+    "haẏ-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Bengali",
+    "be_afraid",
+    "bhaẙ   pāoẙā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "throw",
+    "chū͂ṛā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "have_enough",
+    "yatheṣṭa āch-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Bengali",
+    "resemble",
+    "dekh-te mato",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Albanian",
-    "be_afraid",
-    "",
+    "Bengali",
+    "believe",
+    "biśbās     karā",
     "NOM",
-    "ngaNOM",
-    "Y",
-    "NOM_ngaNOM"
+    "OBJ~NOM",
+    "TR",
+    "TR"
   ],
   [
-    "Albanian",
+    "Bengali",
+    "take",
+    "neoẏā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "see",
+    "dekhā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "influence",
+    "prabhāb   phelā ",
+    "NOM",
+    "GENopar",
+    "Y",
+    "NOM_GENopar"
+  ],
+  [
+    "Bengali",
+    "encounter",
+    "dekhā haoẏā ",
+    "GEN",
+    "GENsange",
+    "XY",
+    "GEN_GENsange"
+  ],
+  [
+    "Bengali",
+    "enter",
+    "ḍhukā ",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "win",
+    "hāriẏe deoẏā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "go_out",
+    "ber/bār haoẏā",
+    "NOM",
+    "theke",
+    "Y",
+    "NOM_theke"
+  ],
+  [
+    "Bengali",
+    "drive",
+    "tāṛāno ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "bend",
+    "bā͂kāno ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "tell",
+    "balā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "hold",
+    "dhare rākhā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "catch_up",
+    "nāgāl dhare phelā ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "milk",
+    "doẙā",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "reach",
+    "pau͂chā ",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "touch",
+    "chū͂ẏe phelā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "fight",
+    "jhagrā karā",
+    "NOM",
+    "GENsange",
+    "Y",
+    "NOM_GENsange"
+  ],
+  [
+    "Bengali",
+    "be_friends",
+    "bandhutba karā",
+    "NOM",
+    "GENsange",
+    "Y",
+    "NOM_GENsange"
+  ],
+  [
+    "Bengali",
+    "think",
+    "bhābā",
+    "NOM",
+    "niye",
+    "Y",
+    "NOM_niye"
+  ],
+  [
+    "Bengali",
+    "eat",
+    "khāoẙā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "fry",
+    "bhājā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "wait",
+    "apekṣā karā",
+    "NOM",
+    "GENjanya",
+    "Y",
+    "NOM_GENjanya"
+  ],
+  [
+    "Bengali",
+    "forget",
+    "bhule yāoẏā",
+    "NOM",
+    "GENkatha",
+    "Y",
+    "NOM_GENkatha"
+  ],
+  [
+    "Bengali",
+    "depend",
+    "nirbhar karā",
+    "NOM",
+    "GENopar",
+    "Y",
+    "NOM_GENopar"
+  ],
+  [
+    "Bengali",
+    "call",
+    "ḍākā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "get_to_know",
+    "paricita haoẙā",
+    "NOM",
+    "GENsange",
+    "Y",
+    "NOM_GENsange"
+  ],
+  [
+    "Bengali",
+    "know",
+    "cenā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "play#instrument#",
+    "bājāno",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "avoid",
+    "eṛiẏe yaoẏā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "make",
+    "bānāno ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "make_fun",
+    "byaṅga karā",
+    "NOM",
+    "niye",
+    "Y",
+    "NOM_niye"
+  ],
+  [
+    "Bengali",
+    "have",
+    "āch-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Bengali",
+    "look_for",
+    "khu͂jā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "paint",
+    "raṅg karā",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "bite",
+    "kāmṛāno",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "forfeit",
+    "hārāno",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "try_to_catch",
+    "dharā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "break",
+    "bhāṅgā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "flatter",
+    "toṣāmod karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "love#person#",
+    "bhālobāsā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "wave",
+    "nāṛā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "dream",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "wash",
+    "dhuẏe phelā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "put_on",
+    "parā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "be_called",
+    "nām",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Bengali",
+    "punish",
+    "sājā deoẙā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "attack",
+    "ākraman  karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "fill#intr#",
+    "bhare yāoẏā",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "find",
+    "khu͂je pāoẏā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "be_short",
+    "kam  paṛā ",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Bengali",
+    "hate",
+    "ghr̥ṇā karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "like",
+    "pachanda",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Bengali",
+    "need",
+    "darkār ",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Bengali",
+    "surround",
+    "ghire raoẏā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "remain",
+    "raoẏā ",
+    "GENkache",
+    "NOM",
+    "X",
+    "GENkache_NOM"
+  ],
+  [
+    "Bengali",
+    "answer",
+    "uttar deoẙā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "open",
+    "khulā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "be_different",
+    "ālādā ",
+    "NOM",
+    "theke",
+    "Y",
+    "NOM_theke"
+  ],
+  [
+    "Bengali",
+    "fall_behind",
+    "pichiẏe paṛā ",
+    "NOM",
+    "theke",
+    "Y",
+    "NOM_theke"
+  ],
+  [
+    "Bengali",
+    "plough",
+    "lāṅgal deoẏā",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "smell",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "cross",
+    "pār haoẙā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "sing",
+    "gāoẙā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "write",
+    "lekhā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "drink",
+    "kheẏe neoẙā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "melt",
+    "galāno ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "match",
+    "mānāno ",
+    "NOM",
+    "GENsange",
+    "Y",
+    "NOM_GENsange"
+  ],
+  [
+    "Bengali",
+    "leave",
+    "tyāg  karā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "cover",
+    "juṛe raoẙā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "remember",
+    "mane karte pārā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "help",
+    "sāhāyya karā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "understand#language#",
+    "bujhā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "hit#target#",
+    "paṛā",
+    "NOM",
+    "GENopar",
+    "Y",
+    "NOM_GENopar"
+  ],
+  [
+    "Bengali",
+    "cut_oneself",
+    "keṭe phelā",
+    "NOM",
+    "diye",
+    "Y",
+    "NOM_diye"
+  ],
+  [
+    "Bengali",
+    "get_stuck",
+    "āṭke yāoẏā",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "lose#game#",
+    "here yāoẏā",
+    "NOM",
+    "GENkache",
+    "Y",
+    "NOM_GENkache"
+  ],
+  [
+    "Bengali",
+    "be_glad",
+    "khuśi haoẙā",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "speak",
+    "kathā balā",
+    "NOM",
+    "GENsange",
+    "Y",
+    "NOM_GENsange"
+  ],
+  [
+    "Bengali",
+    "give_birth",
+    "janma deoẙā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "drop",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "govern",
+    "paricālanā karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "miss",
+    "man keman karā  ",
+    "GEN",
+    "GENjanya",
+    "XY",
+    "GEN_GENjanya"
+  ],
+  [
+    "Bengali",
+    "follow",
+    "anusaran karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "dismount",
+    "nāmā",
+    "NOM",
+    "theke",
+    "Y",
+    "NOM_theke"
+  ],
+  [
+    "Bengali",
+    "listen",
+    "śunā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "obey",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "hear",
+    "śunte pāoẏā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "mix",
+    "miśe yāoẏā",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "look",
+    "tākiẙe āch-",
+    "NOM",
+    "GENdike",
+    "Y",
+    "NOM_GENdike"
+  ],
+  [
+    "Bengali",
+    "take_off",
+    "khule phelā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "dream#sleeping#",
+    "sbapne dekhā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "agree",
+    "ekmat haoẙā ",
+    "NOM",
+    "GENsange",
+    "Y",
+    "NOM_GENsange"
+  ],
+  [
+    "Bengali",
+    "have_a_quarrel",
+    "jhagṛā karā ",
+    "NOM",
+    "GENsange",
+    "Y",
+    "NOM_GENsange"
+  ],
+  [
+    "Bengali",
+    "cost",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "shoot_at",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "pour",
+    "ḍhālā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "lose",
+    "hāriẙe phelā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "sink",
+    "ḍube yāoẏā",
+    "NOM",
+    "LOC/INS",
+    "Y",
+    "NOM_LOC/INS"
+  ],
+  [
+    "Bengali",
+    "kill",
+    "khun karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "hit",
+    "mārā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "kiss",
+    "cumban karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "read",
+    "paṛā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "move#bodypart#",
+    "nāṛāno ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "respect",
+    "śraddhā karā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "be_squeamish",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "be_content",
+    "khuśi (haoẙā)",
+    "NOM",
+    "niye",
+    "Y",
+    "NOM_niye"
+  ],
+  [
+    "Bengali",
+    "fall_in_love",
+    "prem-e paṛ-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "trust",
+    "biśbās karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "sympathise",
+    "anubhab karā",
+    "NOM",
+    "GENjanya",
+    "Y",
+    "NOM_GENjanya"
+  ],
+  [
+    "Bengali",
+    "envy",
+    "īrṣā karā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "be_angry",
+    "rāg (prakāś) karā",
+    "NOM",
+    "GENopar",
+    "Y",
+    "NOM_GENopar"
+  ],
+  [
+    "Bengali",
+    "be_surprised",
+    "āścarya (haoẙā) ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "love#tea#",
+    "pachanda karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "enjoy",
+    "upabhog karā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "want",
+    "cāoẏā",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "have_a_grudge",
+    "rāg karā ",
+    "NOM",
+    "GENopar",
+    "Y",
+    "NOM_GENopar"
+  ],
+  [
+    "Bengali",
+    "take_offence",
+    "abhimān karā",
+    "NOM",
+    "GENopar",
+    "Y",
+    "NOM_GENopar"
+  ],
+  [
+    "Bengali",
+    "upset",
+    "duḥkha deoẙā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "marvel",
+    "tāṛita haoẙā ",
+    "NOM",
+    "theke",
+    "Y",
+    "NOM_theke"
+  ],
+  [
+    "Bengali",
+    "despise",
+    "abajñā karā ",
+    "NOM",
+    "OBJ~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Bengali",
+    "get_upset",
+    "duḥkha pāoẏā ",
+    "NOM",
+    "GENjanya",
+    "Y",
+    "NOM_GENjanya"
+  ],
+  [
+    "Bengali",
+    "get_irritated",
+    "kṣepe uṭhā",
+    "NOM",
+    "GENopar",
+    "Y",
+    "NOM_GENopar"
+  ],
+  [
+    "Bengali",
+    "be_fond",
+    "sambyāthī (haoẙā) ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Bengali",
+    "be_shy",
+    "saṁkoc bodh karā",
+    "NOM",
+    "niye",
+    "Y",
+    "NOM_niye"
+  ],
+  [
+    "Buriat",
+    "feel_pain",
+    "үбдэ-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Buriat",
+    "have#illness#",
+    "дара-гд-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "be_afraid",
+    "ай-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Buriat",
     "throw",
-    "",
+    "шүдэ-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "have_enough",
-    "",
+    "хүртэ-",
     "DAT",
     "NOM",
     "X",
     "DAT_NOM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "resemble",
-    "",
+    "адли",
     "NOM",
     "DAT",
     "Y",
     "NOM_DAT"
   ],
   [
-    "Albanian",
+    "Buriat",
     "believe",
-    "",
+    "этигэ-",
     "NOM",
     "DAT",
     "Y",
     "NOM_DAT"
   ],
   [
-    "Albanian",
+    "Buriat",
     "take",
-    "",
+    "аба-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "see",
-    "",
+    "хара-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "influence",
-    "",
+    "нүлөөл-",
     "NOM",
-    "neACC",
+    "DAT",
     "Y",
-    "NOM_neACC"
+    "NOM_DAT"
   ],
   [
-    "Albanian",
+    "Buriat",
     "encounter",
-    "",
+    "уулза-",
     "NOM",
-    "meACC",
+    "COM",
     "Y",
-    "NOM_meACC"
+    "NOM_COM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "enter",
-    "",
+    "оро-",
     "NOM",
-    "neACC",
+    "DAT",
     "Y",
-    "NOM_neACC"
+    "NOM_DAT"
   ],
   [
-    "Albanian",
+    "Buriat",
     "win",
-    "",
+    "диилэ-",
     "NOM",
-    "ndajABL",
-    "Y",
-    "NOM_ndajABL"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "go_out",
-    "",
+    "гара-",
     "NOM",
-    "ngaNOM",
+    "soohoo",
     "Y",
-    "NOM_ngaNOM"
+    "NOM_soohoo"
   ],
   [
-    "Albanian",
+    "Buriat",
     "drive",
-    "",
+    "туу-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "bend",
-    "",
+    "нугал-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "tell",
-    "",
+    "хэлэ-",
     "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "hold",
-    "",
+    "бари-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "catch_up",
-    "",
+    "хүсэ-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "milk",
-    "",
+    "hаа-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "reach",
-    "",
+    "хүрэ-",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Albanian",
+    "Buriat",
     "touch",
-    "",
+    "бари-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "fight",
-    "",
+    "арсалда-",
     "NOM",
-    "meACC",
+    "COM",
     "Y",
-    "NOM_meACC"
+    "NOM_COM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "be_friends",
-    "",
+    "нүхэсэ-",
     "NOM",
-    "meACC",
+    "COM",
     "Y",
-    "NOM_meACC"
+    "NOM_COM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "think",
-    "",
+    "hана-",
     "NOM",
-    "perACC",
-    "Y",
-    "NOM_perACC"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "eat",
-    "",
+    "эди-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "fry",
-    "",
+    "шара-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "wait",
-    "",
+    "хүлеэ-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "forget",
-    "",
+    "марта-",
     "NOM",
-    "perACC",
-    "Y",
-    "NOM_perACC"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "depend",
-    "",
+    "хамаатай",
     "NOM",
-    "ngaNOM",
+    "COM",
     "Y",
-    "NOM_ngaNOM"
+    "NOM_COM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "call",
-    "",
+    "дууда-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "get_to_know",
-    "",
+    "танилс-",
     "NOM",
-    "meACC",
+    "COM",
     "Y",
-    "NOM_meACC"
+    "NOM_COM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "know",
-    "",
+    "мэдэ-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "play#instrument#",
-    "",
+    "наада-",
     "NOM",
-    "DAT",
+    "deere",
     "Y",
-    "NOM_DAT"
+    "NOM_deere"
   ],
   [
-    "Albanian",
+    "Buriat",
     "avoid",
-    "",
+    "холуур  яба-",
     "NOM",
-    "GEN",
+    "COM",
     "Y",
-    "NOM_GEN"
+    "NOM_COM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "make",
-    "",
+    "хэ-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "make_fun",
-    "",
+    "наадал-",
     "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "have",
-    "",
+    "бии",
+    "DAT",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Albanian",
+    "Buriat",
     "look_for",
-    "",
+    "бэдэр-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "paint",
-    "",
+    "шэрдэ-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "bite",
-    "",
+    "хаза-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "forfeit",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Albanian",
+    "Buriat",
     "try_to_catch",
-    "",
+    "бари-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "break",
-    "",
+    "хухал-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "flatter",
-    "",
+    "һаймһар-",
     "NOM",
     "DAT",
     "Y",
     "NOM_DAT"
   ],
   [
-    "Albanian",
+    "Buriat",
     "love#person#",
-    "",
+    "дура-тай",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "wave",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "dream",
-    "",
-    "NOM",
-    "perACC",
+    "DAT",
     "Y",
-    "NOM_perACC"
+    "NOM_DAT"
   ],
   [
-    "Albanian",
+    "Buriat",
+    "wave",
+    "далла-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Buriat",
+    "dream",
+    "hана-",
+    "NOM",
+    "tuxai",
+    "Y",
+    "NOM_tuxai"
+  ],
+  [
+    "Buriat",
     "wash",
-    "",
+    "угаа-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "put_on",
-    "",
+    "үмдэ-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
+    "Buriat",
     "be_called",
-    "",
+    "нэрэ-тэй",
+    "NOM",
+    "gezhe",
+    "Y",
+    "NOM_gezhe"
+  ],
+  [
+    "Buriat",
+    "punish",
+    "хараа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "attack",
+    "аhа-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "fill#intr#",
+    "дүүрэ-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Buriat",
+    "find",
+    "оло-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "be_short",
+    "дута-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Buriat",
+    "hate",
+    "дура-гүй",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "like",
+    "гоё",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Buriat",
+    "need",
+    "хэрэг-тэй",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Buriat",
+    "surround",
+    "тойро",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "remain",
+    "үлэ-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Buriat",
+    "answer",
+    "харюуса-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "open",
+    "тайла-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "be_different",
+    "ондоо",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Buriat",
+    "fall_behind",
+    "гээгдэ-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Buriat",
+    "plough",
+    "хүдэл-",
+    "NOM",
+    "deere",
+    "Y",
+    "NOM_deere"
+  ],
+  [
+    "Buriat",
+    "smell",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "cross",
+    "гара-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "sing",
+    "дуула-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "write",
+    "бэшэ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "drink",
+    "уу-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "melt",
+    "хайлуул-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "match",
+    "туда-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "leave",
+    "яба-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Buriat",
+    "cover",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "remember",
+    "hана-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "help",
+    "туhал-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "understand#language#",
+    "мэдэ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "hit#target#",
+    "буу-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "cut_oneself",
+    "ада-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Buriat",
+    "get_stuck",
+    "няалда-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "lose#game#",
+    "диил-дэ-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "be_glad",
+    "хүхи-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "speak",
+    "зугаалда-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Buriat",
+    "give_birth",
+    "түрэ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "drop",
+    "унагаа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "govern",
+    "ударида-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "miss",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "follow",
+    "яба-",
+    "NOM",
+    "xojnoha",
+    "Y",
+    "NOM_xojnohoo"
+  ],
+  [
+    "Buriat",
+    "dismount",
+    "буу-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Buriat",
+    "listen",
+    "шагна-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "obey",
+    "шагна-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "hear",
+    "шагна-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "mix",
+    "худха-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Buriat",
+    "look",
+    "хара-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "take_off",
+    "тайла-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "dream#sleeping#",
+    "зүүдэн-дэ   хара-гда-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Buriat",
+    "agree",
+    "ойлголсо-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Buriat",
+    "have_a_quarrel",
+    "хэрэлдэ-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Buriat",
+    "cost",
+    "сэн-тэй",
     "NOM",
     "NOM(NO.AGR)",
     "Y",
     "NOM_NOM(NO.AGR)"
   ],
   [
-    "Albanian",
-    "punish",
-    "",
+    "Buriat",
+    "shoot_at",
+    "бууда-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
-    "attack",
-    "",
+    "Buriat",
+    "pour",
+    "адха-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
-    "fill#intr#",
-    "",
+    "Buriat",
+    "lose",
+    "гээ-",
     "NOM",
-    "meACC",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "sink",
+    "шэнгэ-",
+    "NOM",
+    "soo",
     "Y",
-    "NOM_meACC"
+    "NOM_soo"
   ],
   [
-    "Albanian",
-    "find",
-    "",
+    "Buriat",
+    "kill",
+    "ала-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
-    "be_short",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Albanian",
-    "hate",
-    "",
+    "Buriat",
+    "hit",
+    "сохи-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
-    "like",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Albanian",
-    "need",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Albanian",
-    "surround",
-    "",
+    "Buriat",
+    "kiss",
+    "таала-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
-    "remain",
-    "",
-    "DAT",
+    "Buriat",
+    "read",
+    "унша-",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Albanian",
-    "answer",
-    "",
+    "Buriat",
+    "move#bodypart#",
+    "хүдэлгэ-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Buriat",
+    "respect",
+    "хүндэл-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Buriat",
+    "be_squeamish",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "be_content",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "fall_in_love",
+    "дурла-",
     "NOM",
     "DAT",
     "Y",
     "NOM_DAT"
   ],
   [
-    "Albanian",
-    "open",
-    "",
+    "Buriat",
+    "trust",
+    "найда-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "sympathise",
+    "хайрла-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
-    "be_different",
-    "",
+    "Buriat",
+    "envy",
+    "атаарха-",
     "NOM",
-    "ngaNOM",
+    "DAT",
     "Y",
-    "NOM_ngaNOM"
+    "NOM_DAT"
   ],
   [
-    "Albanian",
-    "fall_behind",
-    "",
+    "Buriat",
+    "be_angry",
+    "уурла-",
     "NOM",
-    "pasABL",
+    "DAT",
     "Y",
-    "NOM_pasABL"
+    "NOM_DAT"
   ],
   [
-    "Albanian",
-    "plough",
-    "",
+    "Buriat",
+    "be_surprised",
+    "гайха-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "love#tea#",
+    "дура-тай",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "enjoy",
+    "һонирхо-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Buriat",
+    "want",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "have_a_grudge",
+    "уурла-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "take_offence",
+    "янгал-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "upset",
+    "мууд-уул-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Albanian",
-    "smell",
-    "",
+    "Buriat",
+    "marvel",
+    "гайха-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "despise",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "get_upset",
+    "мууда-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "get_irritated",
+    "уурла-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Buriat",
+    "be_fond",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Buriat",
+    "be_shy",
+    "эшэ-",
     "NOM",
     "ABL",
     "Y",
     "NOM_ABL"
   ],
   [
-    "Albanian",
-    "cross",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "sing",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "write",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "drink",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "melt",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "match",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "leave",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "cover",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "remember",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "help",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "understand#language#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "hit#target#",
-    "",
-    "NOM",
-    "neACC",
-    "Y",
-    "NOM_neACC"
-  ],
-  [
-    "Albanian",
-    "cut_oneself",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "get_stuck",
-    "",
-    "NOM",
-    "neACC",
-    "Y",
-    "NOM_neACC"
-  ],
-  [
-    "Albanian",
-    "lose#game#",
-    "",
-    "NOM",
-    "tekNOM",
-    "Y",
-    "NON_tekNOM"
-  ],
-  [
-    "Albanian",
-    "be_glad",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Albanian",
-    "speak",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "give_birth",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "drop",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "govern",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "miss",
-    "",
-    "NOM",
-    "perACC",
-    "Y",
-    "NOM_perACC"
-  ],
-  [
-    "Albanian",
-    "follow",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "dismount",
-    "",
-    "NOM",
-    "ngaNOM",
-    "Y",
-    "NOM_ngaNOM"
-  ],
-  [
-    "Albanian",
-    "listen",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "obey",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "hear",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "mix",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "look",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "take_off",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "dream#sleeping#",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Albanian",
-    "agree",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "have_a_quarrel",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "cost",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "shoot_at",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Albanian",
-    "pour",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "lose",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "sink",
-    "",
-    "NOM",
-    "neACC",
-    "Y",
-    "NOM_neACC"
-  ],
-  [
-    "Albanian",
-    "kill",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "hit",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "kiss",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "read",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "move#bodypart#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "respect",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "be_squeamish",
-    "",
-    "NOM",
-    "ngaNOM",
-    "Y",
-    "NOM_ngaNOM"
-  ],
-  [
-    "Albanian",
-    "be_content",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "fall_in_love",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "trust",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Albanian",
-    "sympathise",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Albanian",
-    "envy",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "be_angry",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "be_surprised",
-    "",
-    "NOM",
-    "ngaNOM",
-    "Y",
-    "NOM_ngaNOM"
-  ],
-  [
-    "Albanian",
-    "love#tea#",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Albanian",
-    "enjoy",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "want",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "have_a_grudge",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "take_offence",
-    "",
-    "NOM",
-    "ngaNOM",
-    "Y",
-    "NOM_ngaNOM"
-  ],
-  [
-    "Albanian",
-    "upset",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "marvel",
-    "",
-    "NOM",
-    "ngaNOM",
-    "Y",
-    "NOM_ngaNOM"
-  ],
-  [
-    "Albanian",
-    "despise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "get_upset",
-    "",
-    "NOM",
-    "ngaNOM",
-    "Y",
-    "NOM_ngaNOM"
-  ],
-  [
-    "Albanian",
-    "get_irritated",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Albanian",
-    "be_fond",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Albanian",
-    "be_shy",
-    "",
-    "DAT",
-    "perACC",
-    "XY",
-    "DAT_perACC"
-  ],
-  [
-    "Japanese",
+    "Chukchi",
     "feel_pain",
     "",
-    "TOP",
-    "NOM",
+    "POSS",
+    "ABS",
     "X",
-    "TOP_NOM"
+    "POSS_ABS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "have#illness#",
-    "",
-    "TOP",
-    "ZERO",
-    "XY",
-    "TOP_ZERO"
-  ],
-  [
-    "Japanese",
-    "be_afraid",
     "",
     "*",
     "*",
@@ -10566,1097 +7047,1151 @@ const structuralData = [
     ""
   ],
   [
-    "Japanese",
-    "throw",
+    "Chukchi",
+    "be_afraid",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Japanese",
-    "have_enough",
-    "",
-    "TOP",
-    "NOM",
-    "X",
-    "TOP_NOM"
-  ],
-  [
-    "Japanese",
-    "resemble",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Japanese",
-    "believe",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Japanese",
-    "take",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Japanese",
-    "see",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Japanese",
-    "influence",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Japanese",
-    "encounter",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Japanese",
-    "enter",
-    "",
-    "NOM",
+    "ABS",
     "ALL",
     "Y",
-    "NOM_ALL"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
+    "throw",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chukchi",
+    "have_enough",
+    "",
+    "POSS",
+    "ABS",
+    "X",
+    "POSS_ABS"
+  ],
+  [
+    "Chukchi",
+    "resemble",
+    "",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
+  ],
+  [
+    "Chukchi",
+    "believe",
+    "",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
+  ],
+  [
+    "Chukchi",
+    "take",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chukchi",
+    "see",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chukchi",
+    "influence",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chukchi",
+    "encounter",
+    "",
+    "ABS",
+    "COM",
+    "Y",
+    "ABS_COM"
+  ],
+  [
+    "Chukchi",
+    "enter",
+    "",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
+  ],
+  [
+    "Chukchi",
     "win",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "go_out",
     "",
-    "NOM",
+    "ABS",
     "ABL",
     "Y",
-    "NOM_ABL"
+    "ABS_ABL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "drive",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "bend",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "tell",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "hold",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "catch_up",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "milk",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "reach",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "touch",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "fight",
     "",
-    "NOM",
-    "CONTR",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_CONTR"
+    "ABS_COM"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_friends",
     "",
-    "NOM",
-    "CONTR",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_CONTR"
+    "ABS_COM"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "think",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "eat",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "fry",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "wait",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "forget",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "depend",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Japanese",
+    "Chukchi",
     "call",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "get_to_know",
     "",
-    "NOM",
-    "CONTR",
-    "Y",
-    "NOM_CONTR"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "know",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "play#instrument#",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Japanese",
+    "Chukchi",
     "avoid",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "make",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "make_fun",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "have",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "POSS",
+    "ABS",
+    "X",
+    "POSS_ABS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "look_for",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "paint",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "bite",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "forfeit",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Japanese",
+    "Chukchi",
     "try_to_catch",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "break",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "flatter",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "love#person#",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "wave",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "dream",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "wash",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "put_on",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_called",
     "",
-    "NOM",
-    "CONTR",
+    "ABS",
+    "EQU",
     "Y",
-    "NOM_CONTR"
+    "ABS_EQU"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "punish",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "attack",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "fill#intr#",
     "",
-    "NOM",
-    "INSTR",
+    "ABS",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "ABS_INS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "find",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_short",
     "",
-    "TOP",
-    "NOM",
+    "POSS",
+    "ABS",
     "X",
-    "TOP_NOM"
+    "POSS_ABS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "hate",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "like",
     "",
-    "TOP",
-    "NOM",
-    "X",
-    "TOP_NOM"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "need",
     "",
-    "TOP",
-    "NOM",
-    "X",
-    "TOP_NOM"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "surround",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "remain",
     "",
-    "TOP",
-    "NOM",
+    "POSS",
+    "ABS",
     "X",
-    "TOP_NOM"
+    "POSS_ABS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "answer",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "open",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_different",
     "",
-    "NOM",
-    "CONTR",
+    "ABS",
+    "ABL",
     "Y",
-    "NOM_CONTR"
+    "ABS_ABL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "fall_behind",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ABL",
     "Y",
-    "NOM_DAT"
+    "ABS_ABL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "plough",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "smell",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ABS",
+    "INS",
+    "Y",
+    "ABS_INS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "cross",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "sing",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "write",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "drink",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "melt",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "match",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_DAT"
+    "ABS_COM"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "leave",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "cover",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "remember",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "help",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "understand#language#",
     "",
-    "TOP",
-    "NOM",
-    "X",
-    "TOP_NOM"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "hit#target#",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "cut_oneself",
     "",
-    "NOM",
-    "INSTR",
+    "ABS",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "ABS_INS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "get_stuck",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "LOC",
     "Y",
-    "NOM_DAT"
+    "ABS_LOC"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "lose#game#",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_glad",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "speak",
     "",
-    "NOM",
-    "CONTR",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_CONTR"
+    "ABS_COM"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "give_birth",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "drop",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "govern",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "ABS",
+    "LOC",
+    "Y",
+    "ABS_LOC"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "miss",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "follow",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "dismount",
     "",
-    "NOM",
+    "ABS",
     "ABL",
     "Y",
-    "NOM_ABL"
+    "ABS_ABL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "listen",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "obey",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "hear",
     "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "mix",
     "",
-    "NOM",
-    "CONTR",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_CONTR"
+    "ABS_COM"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "look",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "take_off",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Japanese",
+    "Chukchi",
     "dream#sleeping#",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "agree",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_DAT"
+    "ABS_COM"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "have_a_quarrel",
     "",
-    "NOM",
-    "CONTR",
+    "ABS",
+    "COM",
     "Y",
-    "NOM_CONTR"
+    "ABS_COM"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "cost",
     "",
-    "TOP",
-    "ZERO",
-    "XY",
-    "TOP_ZERO"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Japanese",
+    "Chukchi",
     "shoot_at",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "pour",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "lose",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "sink",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "INESS",
     "Y",
-    "NOM_DAT"
+    "ABS_INESS"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "kill",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "hit",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "kiss",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "read",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "move#bodypart#",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "respect",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_squeamish",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_content",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "fall_in_love",
     "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "trust",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "sympathise",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "envy",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_angry",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "be_surprised",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "love#tea#",
     "",
-    "TOP",
-    "NOM",
-    "X",
-    "TOP_NOM"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Japanese",
+    "Chukchi",
     "enjoy",
     "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Japanese",
+    "Chukchi",
     "want",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "have_a_grudge",
     "",
-    "NOM",
-    "DAT",
+    "ABS",
+    "ALL",
     "Y",
-    "NOM_DAT"
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "take_offence",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "upset",
     "",
-    "NOM",
-    "ACC",
+    "ERG",
+    "ABS",
     "TR",
     "TR"
   ],
   [
-    "Japanese",
+    "Chukchi",
     "marvel",
+    "",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
+  ],
+  [
+    "Chukchi",
+    "despise",
+    "",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
+  ],
+  [
+    "Chukchi",
+    "get_upset",
+    "",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
+  ],
+  [
+    "Chukchi",
+    "get_irritated",
+    "",
+    "ABS",
+    "ALL",
+    "Y",
+    "ABS_ALL"
+  ],
+  [
+    "Chukchi",
+    "be_fond",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chukchi",
+    "be_shy",
     "",
     "*",
     "*",
@@ -11664,133 +8199,88 @@ const structuralData = [
     ""
   ],
   [
-    "Japanese",
-    "despise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Japanese",
-    "get_upset",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Japanese",
-    "get_irritated",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Japanese",
-    "be_fond",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Japanese",
-    "be_shy",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
+    "Chuvash",
     "feel_pain",
-    "энӯ-",
-    "POSS",
+    "ɨrad-",
+    "GEN",
     "NOM",
     "X",
-    "POSS_NOM"
+    "GEN_NOM"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "have#illness#",
-    "бумӯ-",
+    "sumar",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "be_afraid",
-    "ӈэ̄лэ-",
+    "xər-",
     "NOM",
     "ABL",
     "Y",
     "NOM_ABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "throw",
-    "гарада̄-",
+    "ber-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "have_enough",
-    "элэкин",
-    "POSS",
+    "ɕit-",
+    "OBJ",
     "NOM",
     "X",
-    "POSS_NOM"
+    "OBJ_NOM"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "resemble",
-    "урэ-",
+    "jɨʂi",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "believe",
-    "тэде̄-",
+    "ʂan-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "take",
-    "гада-",
+    "il-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "see",
-    "ичэ-",
+    "kor-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "influence",
     "*",
     "*",
@@ -11799,1080 +8289,1080 @@ const structuralData = [
     ""
   ],
   [
-    "Evenki",
+    "Chuvash",
     "encounter",
-    "бака-лды-",
+    "tël bol-",
     "NOM",
-    "COM",
+    "INS",
     "Y",
-    "NOM_COM"
+    "NOM_INS"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "enter",
-    "ӣ-",
+    "kër-",
     "NOM",
-    "LOC",
-    "Y",
-    "NOM_LOC"
+    "OBJ",
+    "TR",
+    "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "win",
-    "давды̄-",
+    "ɕënder-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "go_out",
-    "ю̄-",
+    "tok-",
     "NOM",
     "ABL",
     "Y",
     "NOM_ABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "drive",
-    "аха-",
+    "xval-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "bend",
-    "токчи-в-",
+    "xoɕ-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "tell",
-    "гун-",
+    "kala-",
     "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "OBJ",
+    "TR",
+    "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "hold",
-    "дявӯча-",
+    "tɨd-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "catch_up",
-    "бокон-",
+    "xvala‑za ɕit‑",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "milk",
-    "сир-",
+    "su-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "reach",
-    "ис-",
+    "ɕit-",
     "NOM",
-    "LOC",
-    "Y",
-    "NOM_LOC"
+    "OBJ",
+    "TR",
+    "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "touch",
-    "хэрку-",
+    "dɨt-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "fight",
-    "кухӣ-",
+    "ɕabəʑ-",
     "NOM",
-    "COM",
+    "INS",
     "Y",
-    "NOM_COM"
+    "NOM_INS"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "be_friends",
-    "гирки-тэ-",
+    "tos-la",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "think",
-    "дялдя̄-",
+    "ʂotl",
     "NOM",
-    "PROL",
+    "cinABL",
     "Y",
-    "NOM_PROL"
+    "NOM_cinABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "eat",
-    "деп-",
+    "ɕe-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "fry",
-    "далга-",
+    "əʐala-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "wait",
-    "ала̄т-",
+    "këd-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "forget",
-    "омӈо-",
-    "*",
-    "*",
-    "*",
-    ""
+    "man-",
+    "NOM",
+    "cinABL",
+    "Y",
+    "NOM_cinABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "depend",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "kilʲ‑",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "call",
-    "э̄рӣ-",
+    "ʨën‑",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "get_to_know",
-    "са̄-лды-",
+    "palaʂ‑",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "INS",
+    "Y",
+    "NOM_INS"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "know",
-    "са̄-",
+    "pal-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "play#instrument#",
-    "эви-де-",
+    "vɨlʲ‑",
     "NOM",
-    "INSTR",
+    "cinLOC",
     "Y",
-    "NOM_INSTR"
+    "NOM_cinLOC"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "avoid",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "tar-za ɕør-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "make",
-    "о̄-",
+    "du‑",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "make_fun",
-    "муӈна̄-",
+    "məʂkəl-",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "have",
-    "(COP)",
+    "bor",
+    "GEN",
     "NOM",
-    "ORN",
-    "Y",
-    "NOM_ORN"
+    "X",
+    "GEN_NOM"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "look_for",
-    "гэлэктэ-",
+    "ʂɨr-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "paint",
-    "караска-",
+    "sərla-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "bite",
-    "кики-",
+    "ɕirt‑",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "forfeit",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "jol-",
+    "NOM",
+    "CAR",
+    "Y",
+    "NOM_CAR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "try_to_catch",
-    "дява-кса-дя-",
+    "tɨd-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "break",
-    "хоко̄ли-",
+    "xoɕ-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "flatter",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "jəbəldad‑",
+    "NOM",
+    "omLOC",
+    "Y",
+    "NOM_omLOC"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "love#person#",
-    "ая̄в-",
+    "jorad‑",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "wave",
-    "а̄рпу-",
+    "sol-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "dream",
-    "га-мӯ-",
+    "ʂotl-",
     "NOM",
-    "ACC.INDEF",
+    "cinABL",
     "Y",
-    "NOM_ACC.INDEF"
+    "NOM_cinABL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "wash",
-    "силки-",
+    "ɕo-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "put_on",
-    "тэт-",
+    "təgən-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "be_called",
-    "гэрби-",
-    "POSS",
-    "NOM",
-    "X",
-    "POSS_NOM"
+    "t-",
+    "OBJ",
+    "NOM(NO.AGR)",
+    "XY",
+    "OBJ_NOM(NO.AGR)"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "punish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "наказать tu-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "attack",
-    "упчу-",
+    "tabən-",
     "NOM",
-    "DIR",
-    "Y",
-    "NOM_DIR"
+    "OBJ",
+    "TR",
+    "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "fill#intr#",
-    "дялурбу-",
+    "tol-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "find",
-    "бака-",
+    "top-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "be_short",
-    "NEG ис-",
-    "DAT",
+    "ɕit-m-",
+    "OBJ",
     "NOM",
     "X",
-    "DAT_NOM"
+    "OBJ_NOM"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "hate",
-    "ичэмэ̄хи-",
+    "kor-i-m-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "like",
-    "ая̄в-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "need",
-    "на̄да",
-    "DAT",
+    "kilëʂ-",
+    "OBJ",
     "NOM",
     "X",
-    "DAT_NOM"
+    "OBJ_NOM"
   ],
   [
-    "Evenki",
+    "Chuvash",
+    "need",
+    "kerlë",
+    "OBJ",
+    "NOM",
+    "X",
+    "OBJ_NOM"
+  ],
+  [
+    "Chuvash",
     "surround",
-    "мӯрэлӣн ",
+    "ɕar-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "remain",
+    "jol‑",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Chuvash",
+    "answer",
+    "kala‑",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "open",
+    "oɕ‑",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "be_different",
+    "orxla-rax",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Chuvash",
+    "fall_behind",
+    "jol-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Chuvash",
+    "plough",
+    "sogal-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "smell",
+    "*",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Evenki",
-    "remain",
-    "эмэп-",
-    "DAT",
+    "Chuvash",
+    "cross",
+    "kaɕ-",
+    "NOM",
+    "orle",
+    "Y",
+    "NOM_orle"
+  ],
+  [
+    "Chuvash",
+    "sing",
+    "jorla-za par-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "write",
+    "ɕɨr-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "drink",
+    "ëɕ-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "melt",
+    "ʂrat-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "match",
+    "kaj-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "leave",
+    "tok-sa karʲ-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Chuvash",
+    "cover",
+    "vit-se xor-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "remember",
+    "ast‑",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "help",
+    "polʂ‑",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "understand#language#",
+    "ən-la-n-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "hit#target#",
+    "ɕap-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "cut_oneself",
+    "kaz-əl-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Chuvash",
+    "get_stuck",
+    "ɕɨbəɕ-sa lar‑",
+    "NOM",
+    "comOBJ",
+    "Y",
+    "NOM_comOBJ"
+  ],
+  [
+    "Chuvash",
+    "lose#game#",
+    "vɨlʲa-za jar-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "be_glad",
+    "sav-ən-za gaj-",
+    "NOM",
+    "CSL",
+    "Y",
+    "NOM_CSL"
+  ],
+  [
+    "Chuvash",
+    "speak",
+    "kalaʑ-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Chuvash",
+    "give_birth",
+    "ɕorat-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "drop",
+    "yger-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "govern",
+    "командовать t-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Chuvash",
+    "miss",
+    "скучать t-",
+    "NOM",
+    "CSL",
+    "Y",
+    "NOM_CSL"
+  ],
+  [
+    "Chuvash",
+    "follow",
+    "kaj-",
+    "NOM",
+    "xicen",
+    "Y",
+    "NOM_xicen"
+  ],
+  [
+    "Chuvash",
+    "dismount",
+    "an-",
+    "NOM",
+    "cinABL",
+    "Y",
+    "NOM_cinABL"
+  ],
+  [
+    "Chuvash",
+    "listen",
+    "etl-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "obey",
+    "etl-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "hear",
+    "eld-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "mix",
+    "xodəʂ-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Chuvash",
+    "look",
+    "pəg-",
+    "NOM",
+    "cinOBJ",
+    "Y",
+    "NOM_cinOBJ"
+  ],
+  [
+    "Chuvash",
+    "take_off",
+    "xu-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "dream#sleeping#",
+    "tëlek‑re kor‑",
+    "OBJ",
     "NOM",
     "X",
-    "DAT_NOM"
+    "OBJ_NOM"
   ],
   [
-    "Evenki",
-    "answer",
-    "гун-",
+    "Chuvash",
+    "agree",
+    "kilëʂ-",
     "NOM",
-    "DAT",
+    "INS",
     "Y",
-    "NOM_DAT"
+    "NOM_INS"
   ],
   [
-    "Evenki",
-    "open",
-    "нӣ-",
+    "Chuvash",
+    "have_a_quarrel",
+    "vərʐ-ən-",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "be_different",
-    "хуӈту(-тмэр)",
-    "NOM",
-    "ABL",
+    "INS",
     "Y",
-    "NOM_ABL"
+    "NOM_INS"
   ],
   [
-    "Evenki",
-    "fall_behind",
-    "супты-в-",
+    "Chuvash",
+    "cost",
+    "tər-",
     "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Evenki",
-    "plough",
-    "улэ-",
-    "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "smell",
-    "ӈо̄-",
+    "Chuvash",
+    "shoot_at",
+    "per‑",
     "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Evenki",
-    "cross",
-    "хэдэ-",
-    "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "sing",
-    "икэ-",
+    "Chuvash",
+    "pour",
+    "xu‑",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "write",
-    "дуку-",
+    "Chuvash",
+    "lose",
+    "ɕëder-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "drink",
-    "ум-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "melt",
-    "унӈӣ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "match",
-    "дёк-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Evenki",
-    "leave",
-    "эмэ̄н-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "cover",
-    "дас-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "remember",
-    "дёнча-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "help",
-    "бэлэ-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Evenki",
-    "understand#language#",
-    "тылде-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "hit#target#",
-    "на̄-",
+    "Chuvash",
+    "sink",
+    "pot‑",
     "NOM",
     "LOC",
     "Y",
     "NOM_LOC"
   ],
   [
-    "Evenki",
-    "cut_oneself",
-    "минэ-в-",
+    "Chuvash",
+    "kill",
+    "vëler-",
     "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Evenki",
-    "get_stuck",
-    "нама-ра-",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Evenki",
-    "lose#game#",
-    "давды̄-в-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Evenki",
-    "be_glad",
-    "урун-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Evenki",
-    "speak",
-    "улгучэмэ̄т-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Evenki",
-    "give_birth",
-    "балды̄-в-",
-    "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "drop",
-    "тыки-в-",
+    "Chuvash",
+    "hit",
+    "ɕap-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "govern",
-    "нюӈнимнӣ",
+    "Chuvash",
+    "kiss",
+    "toda du-",
     "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Evenki",
-    "miss",
-    "булӣ-де-",
-    "NOM",
-    "PROL",
-    "Y",
-    "NOM_PROL"
-  ],
-  [
-    "Evenki",
-    "follow",
-    "бодо-дё-",
-    "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "dismount",
-    "эв-",
+    "Chuvash",
+    "read",
+    "vola‑",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "move#bodypart#",
+    "xoskat-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "respect",
+    "xizepl-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "be_squeamish",
+    "jërën-",
     "NOM",
     "ABL",
     "Y",
     "NOM_ABL"
   ],
   [
-    "Evenki",
-    "listen",
-    "до̄лчат-",
+    "Chuvash",
+    "be_content",
+    "dovolʲnəj",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "obey",
-    "до̄лчат-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "hear",
-    "до̄лды-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "mix",
-    "солип-",
-    "NOM",
-    "COM",
+    "INS",
     "Y",
-    "NOM_COM"
+    "NOM_INS"
   ],
   [
-    "Evenki",
-    "look",
-    "ичэт-",
+    "Chuvash",
+    "fall_in_love",
+    "jorat-sa prak-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "take_off",
-    "лук-",
+    "Chuvash",
+    "trust",
+    "ʂan-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "dream#sleeping#",
-    "толкит-",
+    "Chuvash",
+    "sympathise",
+    "ʂel-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
-    "agree",
-    "дёк-",
+    "Chuvash",
+    "envy",
+    "əmzan-",
     "NOM",
-    "DAT",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "be_angry",
+    "targ-",
+    "NOM",
+    "cinOBJ",
     "Y",
-    "NOM_DAT"
+    "NOM_cinOBJ"
   ],
   [
-    "Evenki",
-    "have_a_quarrel",
-    "тӯрэ̄-мэ̄т-",
+    "Chuvash",
+    "be_surprised",
+    "tëlën-",
     "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
+    "OBJ",
+    "TR",
+    "TR"
   ],
   [
-    "Evenki",
-    "cost",
-    "таман-",
-    "POSS",
+    "Chuvash",
+    "love#tea#",
+    "jorad-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "enjoy",
+    "kilen-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Chuvash",
+    "want",
+    "il‑eʂën",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "have_a_grudge",
+    "ɕilen-",
+    "NOM",
+    "cinOBJ",
+    "Y",
+    "NOM_cinOBJ"
+  ],
+  [
+    "Chuvash",
+    "take_offence",
+    "ɕilen-",
+    "NOM",
+    "cinOBJ",
+    "Y",
+    "NOM_cinOBJ"
+  ],
+  [
+    "Chuvash",
+    "upset",
+    "køren-der-",
+    "NOM",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Chuvash",
+    "marvel",
+    "tëlën-der-",
+    "OBJ",
     "NOM",
     "X",
-    "POSS_NOM"
+    "OBJ_NOM"
   ],
   [
-    "Evenki",
-    "shoot_at",
-    "гарпа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "pour",
-    "нэ̄-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "lose",
-    "сэ̄мми-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "sink",
-    "чэпэ-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Evenki",
-    "kill",
-    "ва̄-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "hit",
-    "ӣктэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "kiss",
-    "нюкан-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "read",
-    "таӈ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "move#bodypart#",
-    "хавата̄-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "respect",
-    "ая̄в-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Evenki",
-    "be_squeamish",
-    "сӣргэн-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Evenki",
-    "be_content",
-    "элэксин-",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Evenki",
-    "fall_in_love",
-    "ая̄в-у-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "trust",
-    "тэде̄-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "sympathise",
-    "мула̄н-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "envy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Evenki",
-    "be_angry",
-    "тыкӯн-ча-",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Evenki",
-    "be_surprised",
-    "со̄хи-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Evenki",
-    "love#tea#",
-    "ая̄в-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "enjoy",
-    "урун-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Evenki",
-    "want",
-    "эе̄т-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Evenki",
-    "have_a_grudge",
-    "тыкул-",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Evenki",
-    "take_offence",
-    "тыкул-",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Evenki",
-    "upset",
-    "тыкӯн-ивка̄н-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Evenki",
-    "marvel",
-    "со̄хи-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Evenki",
+    "Chuvash",
     "despise",
-    "ичэмэ̄и-",
+    "ʨət-ma boldar-i-NEG",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "get_upset",
-    "мэргэ-л-",
+    "køren-",
     "NOM",
-    "ABL",
+    "CSL",
     "Y",
-    "NOM_ABL"
+    "NOM_CSL"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "get_irritated",
-    "тыкӯл-",
+    "targ-",
     "NOM",
-    "ALL",
+    "cinOBJ",
     "Y",
-    "NOM_ALL"
+    "NOM_cinOBJ"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "be_fond",
-    "элэксий-",
+    "kilʲʂ-ter-",
     "NOM",
-    "ACC",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Evenki",
+    "Chuvash",
     "be_shy",
-    "халдят-ча-",
+    "vədan-",
     "NOM",
     "ABL",
     "Y",
@@ -14049,1213 +10539,2383 @@ const structuralData = [
     "NOM_ejELA"
   ],
   [
-    "Loma",
+    "Evenki",
     "feel_pain",
-    "",
+    "энӯ-",
     "POSS",
-    "HEAD",
+    "NOM",
     "X",
-    "POSS_HEAD"
+    "POSS_NOM"
   ],
   [
-    "Loma",
+    "Evenki",
     "have#illness#",
-    "",
-    "ma",
-    "SBJ",
-    "X",
-    "ma_SBJ"
+    "бумӯ-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_afraid",
-    "",
-    "SBJ",
-    "ba",
+    "ӈэ̄лэ-",
+    "NOM",
+    "ABL",
     "Y",
-    "SBJ_ba"
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "throw",
-    "",
-    "SBJ",
-    "DO",
+    "гарада̄-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "have_enough",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "элэкин",
+    "POSS",
+    "NOM",
+    "X",
+    "POSS_NOM"
   ],
   [
-    "Loma",
+    "Evenki",
     "resemble",
-    "",
-    "SBJ",
-    "ga",
-    "Y",
-    "SBJ_ga"
+    "урэ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "believe",
-    "",
-    "SBJ",
-    "ya",
-    "Y",
-    "SBJ_ya"
+    "тэде̄-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "take",
-    "",
-    "SBJ",
-    "DO",
+    "гада-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "see",
-    "",
-    "SBJ",
-    "DO",
+    "ичэ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "influence",
-    "",
+    "*",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Loma",
+    "Evenki",
     "encounter",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "бака-лды-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
-    "Loma",
+    "Evenki",
     "enter",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ӣ-",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
   ],
   [
-    "Loma",
+    "Evenki",
     "win",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "давды̄-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "go_out",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ю̄-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "drive",
-    "",
-    "SBJ",
-    "DO",
+    "аха-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "bend",
-    "",
-    "SBJ",
-    "DO",
+    "токчи-в-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "tell",
-    "",
-    "SBJ",
-    "ma",
+    "гун-",
+    "NOM",
+    "DAT",
     "Y",
-    "SBJ_ma"
+    "NOM_DAT"
   ],
   [
-    "Loma",
+    "Evenki",
     "hold",
-    "",
-    "SBJ",
-    "DO",
+    "дявӯча-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "catch_up",
-    "",
-    "SBJ",
-    "DO",
+    "бокон-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "milk",
-    "",
-    "SBJ",
-    "DO",
+    "сир-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "reach",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ис-",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
   ],
   [
-    "Loma",
+    "Evenki",
     "touch",
-    "",
-    "SBJ",
-    "ba",
-    "Y",
-    "SBJ_ba"
+    "хэрку-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "fight",
-    "",
-    "SBJ",
-    "ga",
+    "кухӣ-",
+    "NOM",
+    "COM",
     "Y",
-    "SBJ_ga"
+    "NOM_COM"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_friends",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "гирки-тэ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "think",
-    "",
-    "SBJ",
-    "su",
+    "дялдя̄-",
+    "NOM",
+    "PROL",
     "Y",
-    "SBJ_su"
+    "NOM_PROL"
   ],
   [
-    "Loma",
+    "Evenki",
     "eat",
-    "",
-    "SBJ",
-    "DO",
+    "деп-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "fry",
-    "",
-    "SBJ",
-    "DO",
+    "далга-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "wait",
-    "",
-    "SBJ",
-    "DO",
+    "ала̄т-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "forget",
-    "",
-    "SBJ",
-    "ma",
-    "Y",
-    "SBJ_ma"
+    "омӈо-",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Loma",
+    "Evenki",
     "depend",
-    "",
+    "*",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Loma",
+    "Evenki",
     "call",
-    "",
-    "SBJ",
-    "DO",
+    "э̄рӣ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "get_to_know",
-    "",
-    "SBJ",
-    "DO",
+    "са̄-лды-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "know",
-    "",
-    "SBJ",
-    "DO",
+    "са̄-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "play#instrument#",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "эви-де-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
   ],
   [
-    "Loma",
+    "Evenki",
     "avoid",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Loma",
+    "Evenki",
     "make",
-    "",
-    "SBJ",
-    "DO",
+    "о̄-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "make_fun",
-    "",
-    "SBJ",
-    "zu",
-    "Y",
-    "SBJ_zu"
+    "муӈна̄-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "have",
-    "",
-    "ya",
-    "SBJ",
-    "X",
-    "ya_SBJ"
+    "(COP)",
+    "NOM",
+    "ORN",
+    "Y",
+    "NOM_ORN"
   ],
   [
-    "Loma",
+    "Evenki",
     "look_for",
-    "",
-    "SBJ",
-    "DO",
+    "гэлэктэ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "paint",
-    "",
-    "SBJ",
-    "DO",
+    "караска-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "bite",
-    "",
-    "SBJ",
-    "DO",
+    "кики-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "forfeit",
-    "",
-    "SBJ",
-    "ma",
-    "Y",
-    "SBJ_ma"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Loma",
+    "Evenki",
     "try_to_catch",
-    "",
-    "SBJ",
-    "DO",
+    "дява-кса-дя-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "break",
-    "",
-    "SBJ",
-    "DO",
+    "хоко̄ли-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "flatter",
-    "",
+    "*",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Loma",
+    "Evenki",
     "love#person#",
-    "",
-    "be",
-    "SBJ",
-    "X",
-    "be_SBJ"
+    "ая̄в-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "wave",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "а̄рпу-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
   ],
   [
-    "Loma",
+    "Evenki",
     "dream",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "га-мӯ-",
+    "NOM",
+    "ACC.INDEF",
+    "Y",
+    "NOM_ACC.INDEF"
   ],
   [
-    "Loma",
+    "Evenki",
     "wash",
-    "",
-    "SBJ",
-    "DO",
+    "силки-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "put_on",
-    "",
-    "SBJ",
-    "DO",
+    "тэт-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_called",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "гэрби-",
+    "POSS",
+    "NOM",
+    "X",
+    "POSS_NOM"
   ],
   [
-    "Loma",
+    "Evenki",
     "punish",
-    "",
-    "SBJ",
-    "ma",
-    "Y",
-    "SBJ_ma"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Loma",
+    "Evenki",
     "attack",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "упчу-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
   ],
   [
-    "Loma",
+    "Evenki",
     "fill#intr#",
-    "",
-    "SBJ",
-    "ga",
+    "дялурбу-",
+    "NOM",
+    "INSTR",
     "Y",
-    "SBJ_ga"
+    "NOM_INSTR"
   ],
   [
-    "Loma",
+    "Evenki",
     "find",
-    "",
-    "SBJ",
-    "DO",
+    "бака-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_short",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NEG ис-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Loma",
+    "Evenki",
     "hate",
-    "",
-    "SBJ",
-    "DO",
+    "ичэмэ̄хи-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "like",
-    "",
-    "SBJ",
-    "be",
-    "Y",
-    "SBJ_be"
+    "ая̄в-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "need",
-    "",
-    "SBJ",
-    "ba",
-    "Y",
-    "SBJ_ba"
+    "на̄да",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Loma",
+    "Evenki",
     "surround",
-    "",
+    "мӯрэлӣн ",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Loma",
+    "Evenki",
     "remain",
-    "",
-    "ya",
-    "SBJ",
+    "эмэп-",
+    "DAT",
+    "NOM",
     "X",
-    "ya_SBJ"
+    "DAT_NOM"
   ],
   [
-    "Loma",
+    "Evenki",
     "answer",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "гун-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Loma",
+    "Evenki",
     "open",
-    "",
-    "SBJ",
-    "DO",
+    "нӣ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_different",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "хуӈту(-тмэр)",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "fall_behind",
-    "",
-    "SBJ",
-    "polu",
+    "супты-в-",
+    "NOM",
+    "ABL",
     "Y",
-    "SBJ_polu"
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "plough",
-    "",
-    "SBJ",
-    "DO",
+    "улэ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "smell",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ӈо̄-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "cross",
-    "",
-    "SBJ",
-    "DO",
+    "хэдэ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "sing",
-    "",
-    "SBJ",
-    "DO",
+    "икэ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "write",
-    "",
-    "SBJ",
-    "DO",
+    "дуку-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "drink",
-    "",
-    "SBJ",
-    "DO",
+    "ум-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "melt",
-    "",
-    "SBJ",
-    "DO",
+    "унӈӣ-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "match",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "дёк-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Loma",
+    "Evenki",
     "leave",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "эмэ̄н-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "cover",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "дас-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "remember",
-    "",
-    "SBJ",
-    "su",
-    "Y",
-    "SBJ_su"
+    "дёнча-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "help",
-    "",
-    "SBJ",
-    "ba",
+    "бэлэ-",
+    "NOM",
+    "DAT",
     "Y",
-    "SBJ_ba"
+    "NOM_DAT"
   ],
   [
-    "Loma",
+    "Evenki",
     "understand#language#",
-    "",
-    "SBJ",
-    "DO",
+    "тылде-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "hit#target#",
-    "",
-    "SBJ",
-    "su",
+    "на̄-",
+    "NOM",
+    "LOC",
     "Y",
-    "SBJ_su"
+    "NOM_LOC"
   ],
   [
-    "Loma",
+    "Evenki",
     "cut_oneself",
-    "",
-    "SBJ",
-    "ga",
+    "минэ-в-",
+    "NOM",
+    "INSTR",
     "Y",
-    "SBJ_ga"
+    "NOM_INSTR"
   ],
   [
-    "Loma",
+    "Evenki",
     "get_stuck",
-    "",
-    "SBJ",
-    "ba",
+    "нама-ра-",
+    "NOM",
+    "ALL",
     "Y",
-    "SBJ_ba"
+    "NOM_ALL"
   ],
   [
-    "Loma",
+    "Evenki",
     "lose#game#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "давды̄-в-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_glad",
-    "",
+    "урун-",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Loma",
+    "Evenki",
     "speak",
-    "",
-    "SBJ",
-    "ta",
+    "улгучэмэ̄т-",
+    "NOM",
+    "COM",
     "Y",
-    "SBJ_ta"
+    "NOM_COM"
   ],
   [
-    "Loma",
+    "Evenki",
     "give_birth",
-    "",
-    "SBJ",
-    "DO",
+    "балды̄-в-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "drop",
-    "",
-    "SBJ",
-    "DO",
+    "тыки-в-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "govern",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "нюӈнимнӣ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Loma",
+    "Evenki",
     "miss",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "булӣ-де-",
+    "NOM",
+    "PROL",
+    "Y",
+    "NOM_PROL"
   ],
   [
-    "Loma",
+    "Evenki",
     "follow",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "бодо-дё-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "dismount",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "эв-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "listen",
-    "",
-    "SBJ",
-    "ma",
-    "Y",
-    "SBJ_ma"
+    "до̄лчат-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "obey",
-    "",
-    "SBJ",
-    "be",
-    "Y",
-    "SBJ_be"
+    "до̄лчат-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "hear",
-    "",
-    "SBJ",
-    "DO",
+    "до̄лды-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "mix",
-    "",
-    "SBJ",
-    "ta",
+    "солип-",
+    "NOM",
+    "COM",
     "Y",
-    "SBJ_ta"
+    "NOM_COM"
   ],
   [
-    "Loma",
+    "Evenki",
     "look",
-    "",
-    "SBJ",
-    "ba",
-    "Y",
-    "SBJ_ba"
+    "ичэт-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "take_off",
-    "",
-    "SBJ",
-    "DO",
+    "лук-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "dream#sleeping#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "толкит-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "agree",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "дёк-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Loma",
+    "Evenki",
     "have_a_quarrel",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "тӯрэ̄-мэ̄т-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
-    "Loma",
+    "Evenki",
     "cost",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "shoot_at",
-    "",
-    "SBJ",
-    "ma",
-    "Y",
-    "SBJ_ma"
-  ],
-  [
-    "Loma",
-    "pour",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Loma",
-    "lose",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Loma",
-    "sink",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "kill",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Loma",
-    "hit",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Loma",
-    "kiss",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "read",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Loma",
-    "move#bodypart#",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Loma",
-    "respect",
-    "",
-    "SBJ",
-    "ma",
-    "Y",
-    "SBJ_ma"
-  ],
-  [
-    "Loma",
-    "be_squeamish",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "be_content",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "fall_in_love",
-    "",
-    "SBJ",
-    "ga",
-    "Y",
-    "SBJ_ga"
-  ],
-  [
-    "Loma",
-    "trust",
-    "",
-    "SBJ",
-    "ya",
-    "Y",
-    "SBJ_ya"
-  ],
-  [
-    "Loma",
-    "sympathise",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "envy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "be_angry",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "be_surprised",
-    "",
-    "SBJ",
-    "ga",
-    "Y",
-    "SBJ_ga"
-  ],
-  [
-    "Loma",
-    "love#tea#",
-    "",
-    "be",
-    "SBJ",
+    "таман-",
+    "POSS",
+    "NOM",
     "X",
-    "be_SBJ"
+    "POSS_NOM"
   ],
   [
-    "Loma",
-    "enjoy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "want",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "have_a_grudge",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "take_offence",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Loma",
-    "upset",
-    "",
-    "SBJ",
-    "DO",
+    "Evenki",
+    "shoot_at",
+    "гарпа-",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Loma",
+    "Evenki",
+    "pour",
+    "нэ̄-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "lose",
+    "сэ̄мми-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "sink",
+    "чэпэ-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Evenki",
+    "kill",
+    "ва̄-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "hit",
+    "ӣктэ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "kiss",
+    "нюкан-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "read",
+    "таӈ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "move#bodypart#",
+    "хавата̄-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "respect",
+    "ая̄в-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Evenki",
+    "be_squeamish",
+    "сӣргэн-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Evenki",
+    "be_content",
+    "элэксин-",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Evenki",
+    "fall_in_love",
+    "ая̄в-у-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "trust",
+    "тэде̄-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "sympathise",
+    "мула̄н-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "envy",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Evenki",
+    "be_angry",
+    "тыкӯн-ча-",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Evenki",
+    "be_surprised",
+    "со̄хи-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Evenki",
+    "love#tea#",
+    "ая̄в-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
+    "enjoy",
+    "урун-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Evenki",
+    "want",
+    "эе̄т-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Evenki",
+    "have_a_grudge",
+    "тыкул-",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Evenki",
+    "take_offence",
+    "тыкул-",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Evenki",
+    "upset",
+    "тыкӯн-ивка̄н-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Evenki",
     "marvel",
-    "",
-    "SBJ",
-    "ga",
+    "со̄хи-",
+    "NOM",
+    "ABL",
     "Y",
-    "SBJ_ga"
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "despise",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ичэмэ̄и-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "get_upset",
-    "",
-    "SBJ",
-    "ba",
+    "мэргэ-л-",
+    "NOM",
+    "ABL",
     "Y",
-    "SBJ_ba"
+    "NOM_ABL"
   ],
   [
-    "Loma",
+    "Evenki",
     "get_irritated",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "тыкӯл-",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_fond",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "элэксий-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Loma",
+    "Evenki",
     "be_shy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "халдят-ча-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Khmer",
+    "Finnish (Ingrian)",
     "feel_pain",
     "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "AD",
+    "PART",
+    "XY",
+    "AD_PART"
   ],
   [
-    "Khmer",
+    "Finnish (Ingrian)",
     "have#illness#",
     "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
   ],
   [
-    "Khmer",
+    "Finnish (Ingrian)",
     "be_afraid",
     "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
   ],
   [
-    "Khmer",
+    "Finnish (Ingrian)",
     "throw",
     "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "have_enough",
+    "",
+    "ALL",
+    "PART",
+    "XY",
+    "ALL_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "resemble",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "believe",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "take",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "see",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "influence",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "encounter",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "enter",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "win",
+    "",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "go_out",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "drive",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "bend",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "tell",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "hold",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "catch_up",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "milk",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "reach",
+    "",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "touch",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "fight",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_friends",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "think",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "eat",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "fry",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "wait",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "forget",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "depend",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "call",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "get_to_know",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "know",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "play#instrument#",
+    "",
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "avoid",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "make",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "make_fun",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "have",
+    "",
+    "AD",
+    "NOM",
+    "X",
+    "AD_NOM"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "look_for",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "paint",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "bite",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "forfeit",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "try_to_catch",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "break",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "flatter",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "love#person#",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "wave",
+    "",
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "dream",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "wash",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "put_on",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_called",
+    "",
+    "NOM",
+    "TRL",
+    "Y",
+    "NOM_TRL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "punish",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "attack",
+    "",
+    "NOM",
+    "GENpialle",
+    "Y",
+    "NOM_GENpialle"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "fill#intr#",
+    "",
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "find",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_short",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "hate",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "like",
+    "",
+    "ALL",
+    "NOM",
+    "X",
+    "ALL_NOM"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "need",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "surround",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "remain",
+    "",
+    "AD",
+    "NOM",
+    "X",
+    "AD_NOM"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "answer",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "open",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_different",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "fall_behind",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "plough",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "smell",
+    "",
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "cross",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "sing",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "write",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "drink",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "melt",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "match",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "leave",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "cover",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "remember",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "help",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "understand#language#",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "hit#target#",
+    "",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "cut_oneself",
+    "",
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "get_stuck",
+    "",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "lose#game#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_glad",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "speak",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "give_birth",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "drop",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "govern",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "miss",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "follow",
+    "",
+    "NOM",
+    "GENjalest",
+    "Y",
+    "NOM_GENjalest"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "dismount",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "listen",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "obey",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "hear",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "mix",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "look",
+    "",
+    "NOM",
+    "GENpialle",
+    "Y",
+    "NOM_GENpialle"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "take_off",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "dream#sleeping#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "agree",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "have_a_quarrel",
+    "",
+    "NOM",
+    "GENkans",
+    "Y",
+    "NOM_GENkans"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "cost",
+    "",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "shoot_at",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "pour",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "lose",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "sink",
+    "",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "kill",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "hit",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "kiss",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "read",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "move#bodypart#",
+    "",
+    "NOM",
+    "AD",
+    "Y",
+    "NOM_AD"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "respect",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_squeamish",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_content",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "fall_in_love",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "trust",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "sympathise",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "envy",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_angry",
+    "",
+    "NOM",
+    "GENpialle",
+    "Y",
+    "NOM_GENpialle"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_surprised",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "love#tea#",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "enjoy",
+    "",
+    "NOM",
+    "EL",
+    "Y",
+    "NOM_EL"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "want",
+    "",
+    "NOM",
+    "GEN~PART~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "GENpialle",
+    "Y",
+    "NOM_GENpialle"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "take_offence",
+    "",
+    "NOM",
+    "GENpialle",
+    "Y",
+    "NOM_GENpialle"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "upset",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "marvel",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "despise",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "get_upset",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "get_irritated",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_fond",
+    "",
+    "NOM",
+    "GENkohta",
+    "Y",
+    "NOM_GENkohta"
+  ],
+  [
+    "Finnish (Ingrian)",
+    "be_shy",
+    "",
+    "NOM",
+    "PART",
+    "Y",
+    "NOM_PART"
+  ],
+  [
+    "Goo",
+    "feel_pain",
+    "pẹ̀ẹ̀",
+    "DO",
+    "SBJ",
+    "X",
+    "DO_SBJ"
+  ],
+  [
+    "Goo",
+    "have#illness#",
+    "kɤ̋",
+    "bha",
+    "SBJ",
+    "X",
+    "bha_SBJ"
+  ],
+  [
+    "Goo",
+    "be_afraid",
+    "sùọ̀",
+    "SBJ",
+    "gon",
+    "Y",
+    "SBJ_gon"
+  ],
+  [
+    "Goo",
+    "throw",
+    "zụ̏ọ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "have_enough",
     "*",
     "*",
@@ -15264,43 +12924,43 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "resemble",
-    "",
+    "bhɔ́",
     "SBJ",
-    "nung",
+    "bha",
     "Y",
-    "SBJ_nung"
+    "SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "believe",
-    "",
+    "la̋ŋ̏gọ́",
     "SBJ",
-    "lo",
+    "lie",
     "Y",
-    "SBJ_lo"
+    "SBJ_lie"
   ],
   [
-    "Khmer",
+    "Goo",
     "take",
-    "",
+    "si̋",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "see",
-    "",
+    "yẹ́",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "influence",
     "*",
     "*",
@@ -15309,223 +12969,223 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "encounter",
-    "",
+    "bhɔ́ ",
     "SBJ",
-    "nung",
+    "ta",
     "Y",
-    "SBJ_nung"
+    "SBJ_ta"
   ],
   [
-    "Khmer",
+    "Goo",
     "enter",
-    "",
+    "dàà ",
     "SBJ",
-    "knong",
+    "gi",
     "Y",
-    "SBJ_knong"
+    "SBJ_gi"
   ],
   [
-    "Khmer",
+    "Goo",
     "win",
-    "",
+    "kɛ́ɛ́",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "go_out",
-    "",
-    "SBJ",
-    "pi",
-    "Y",
-    "SBJ_pi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "drive",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "ló ",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "bend",
-    "",
+    "kùùló",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "tell",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "pɤ́ ",
+    "SBJ",
+    "lan",
+    "Y",
+    "SBJ_lan"
   ],
   [
-    "Khmer",
+    "Goo",
     "hold",
-    "",
+    "kɤ̋",
+    "ta",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "X",
+    "ta_SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "catch_up",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "kún",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "milk",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "gọ́",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "reach",
-    "",
+    "wàà ",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "lie",
+    "Y",
+    "SBJ_lie"
   ],
   [
-    "Khmer",
+    "Goo",
     "touch",
-    "",
+    "kɔ̀ɔ̀ zín",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "bha",
+    "Y",
+    "SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "fight",
-    "",
-    "SBJ",
-    "ciemuey",
-    "Y",
-    "SBJ_ciemuey"
+    "gɔ̀ŋ̀gɔ́n",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "be_friends",
-    "",
-    "SBJ",
-    "nung",
-    "Y",
-    "SBJ_nung"
+    "dőbha̋n",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "think",
-    "",
+    "zụ̀ụ̀ kún ",
     "SBJ",
-    "dal",
+    "wunka",
     "Y",
-    "SBJ_dal"
+    "SBJ_wunka"
   ],
   [
-    "Khmer",
+    "Goo",
     "eat",
-    "",
+    "bhɤ̏ɤ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "fry",
-    "",
+    "kpȁȁ",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "wait",
-    "",
+    "dɔ́",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Khmer",
-    "forget",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Khmer",
-    "depend",
-    "",
-    "SBJ",
-    "lo",
+    "gon",
     "Y",
-    "SBJ_lo"
+    "SBJ_gon"
   ],
   [
-    "Khmer",
+    "Goo",
+    "forget",
+    "gọ̋",
+    "zuu",
+    "ka",
+    "XY",
+    "zuu_ka"
+  ],
+  [
+    "Goo",
+    "depend",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Goo",
     "call",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "lẹ̏ẹ̏",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "get_to_know",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "dɔ̏n",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "know",
-    "",
+    "dɔ̏n",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "play#instrument#",
-    "",
+    "zᴧ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "avoid",
     "*",
     "*",
@@ -15534,467 +13194,476 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "make",
-    "",
+    "kɛ́ɛ́",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "make_fun",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "sőő sí",
+    "SBJ",
+    "bha",
+    "Y",
+    "SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "have",
-    "",
+    "kɤ̋",
+    "gon",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "X",
+    "gon_SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "look_for",
-    "",
+    "gụ̀ọ̀",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "paint",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "bite",
-    "",
+    "kún",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "forfeit",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "lẹ̏ẹ̏-lȕn",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "try_to_catch",
-    "",
+    "kún",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "break",
-    "",
+    "yɛ̋ɛ́",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "flatter",
-    "",
+    "tȁ-bhààn",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "love#person#",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "li̋a̋",
+    "gi",
+    "POSS.SBJ",
+    "XY",
+    "gi_POSS.SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "wave",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "dream",
-    "",
+    "bhìàn zᴧ̏",
     "SBJ",
-    "dal",
+    "ka",
     "Y",
-    "SBJ_dal"
+    "SBJ_ka"
   ],
   [
-    "Khmer",
+    "Goo",
     "wash",
-    "",
+    "zúlú",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "put_on",
-    "",
+    "dȁȁ",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "be_called",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "lẹ̏ẹ̏",
+    "DO",
+    "POSTVERBAL.NP",
+    "XY",
+    "DO_POSTVERBAL.NP"
   ],
   [
-    "Khmer",
+    "Goo",
     "punish",
-    "",
-    "SBJ",
-    "dal",
-    "Y",
-    "SBJ_dal"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "attack",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "pɤ̏ɤ̏",
+    "SBJ",
+    "ta",
+    "Y",
+    "SBJ_ta"
   ],
   [
-    "Khmer",
+    "Goo",
     "fill#intr#",
-    "",
+    "pá ",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "ka",
+    "Y",
+    "SBJ_ka"
   ],
   [
-    "Khmer",
+    "Goo",
     "find",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "yẹ̏",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "be_short",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "hate",
-    "*",
+    "sȁȁn",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "like",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "lɔ̏ɔ̏",
+    "kee",
+    "POSS.SBJ",
+    "XY",
+    "kee_POSS.SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "need",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "bhȁwȕn",
+    "POSS.SBJ",
+    "bha",
+    "XY",
+    "POSS.SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "surround",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "klì ",
+    "SBJ",
+    "zi",
+    "Y",
+    "SBJ_zi"
   ],
   [
-    "Khmer",
+    "Goo",
     "remain",
-    "",
+    "tő",
+    "gon",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "X",
+    "gon_SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "answer",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "yọ̀ọ̀ bhɔ́",
+    "SBJ",
+    "gon",
+    "Y",
+    "SBJ_gon"
   ],
   [
-    "Khmer",
+    "Goo",
     "open",
-    "",
+    "li̋ẹ́-pőó",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "be_different",
-    "",
+    "NEG+bhɔ́",
     "SBJ",
-    "pi",
+    "bha",
     "Y",
-    "SBJ_pi"
+    "SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "fall_behind",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "tő",
+    "SBJ",
+    "zia",
+    "Y",
+    "SBJ_zia"
   ],
   [
-    "Khmer",
+    "Goo",
     "plough",
-    "",
+    "bɔ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "smell",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "fìì",
+    "bha",
+    "POSS.SBJ",
+    "XY",
+    "bha_POSS.SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "cross",
-    "",
+    "ka̋án",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "sing",
-    "",
+    "bɔ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "write",
-    "",
+    "kɛ́ɛ́",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "drink",
-    "",
+    "bhȉ",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "melt",
-    "",
+    "sɤ̏ŋ̏-gbɤ̏ɤ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "match",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "sɛ̀ɛ̀ ",
+    "SBJ",
+    "ka",
+    "Y",
+    "SBJ_ka"
   ],
   [
-    "Khmer",
+    "Goo",
     "leave",
-    "",
+    "gọ̋",
     "SBJ",
-    "pi",
+    "gi",
     "Y",
-    "SBJ_pi"
+    "SBJ_gi"
   ],
   [
-    "Khmer",
+    "Goo",
     "cover",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "bhɔ̀ɔ̀n ",
+    "SBJ",
+    "gi",
+    "Y",
+    "SBJ_gi"
   ],
   [
-    "Khmer",
+    "Goo",
     "remember",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "dàà",
+    "zuu",
+    "ta",
+    "XY",
+    "zuu_ta"
   ],
   [
-    "Khmer",
+    "Goo",
     "help",
-    "",
+    "tȁ-kún",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "understand#language#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "bhán",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "hit#target#",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "cut_oneself",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "REFL pẹ̋ẹ̋",
+    "SBJ",
+    "ka",
+    "Y",
+    "SBJ_ka"
   ],
   [
-    "Khmer",
+    "Goo",
     "get_stuck",
-    "",
+    "lààn",
     "SBJ",
-    "nung",
+    "ta",
     "Y",
-    "SBJ_nung"
+    "SBJ_ta"
   ],
   [
-    "Khmer",
+    "Goo",
     "lose#game#",
-    "",
+    "kwíí",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "bha",
+    "Y",
+    "SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "be_glad",
-    "",
-    "SBJ",
-    "nung",
-    "Y",
-    "SBJ_nung"
+    "sɛ́ɛ́",
+    "lan",
+    "wun",
+    "XY",
+    "lan_wun"
   ],
   [
-    "Khmer",
+    "Goo",
     "speak",
-    "",
+    "lȉȁŋ́ zᴧ̏",
     "SBJ",
-    "ciemuey",
+    "lan",
     "Y",
-    "SBJ_ciemuey"
+    "SBJ_lan"
   ],
   [
-    "Khmer",
+    "Goo",
     "give_birth",
-    "",
+    "kpɔ́",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "drop",
-    "",
+    "pɤ̏ɤ̏",
+    "gon",
+    "SBJ",
+    "X",
+    "gon_SBJ"
+  ],
+  [
+    "Goo",
+    "govern",
+    "kɔ̏ɔ̏n",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
-    "govern",
+    "Goo",
+    "miss",
     "*",
     "*",
     "*",
@@ -16002,43 +13671,34 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
-    "miss",
-    "",
-    "SBJ",
-    "dal",
-    "Y",
-    "SBJ_dal"
-  ],
-  [
-    "Khmer",
+    "Goo",
     "follow",
-    "",
+    "lő",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Khmer",
-    "dismount",
-    "",
-    "SBJ",
-    "pi",
+    "ken",
     "Y",
-    "SBJ_pi"
+    "SBJ_ken"
   ],
   [
-    "Khmer",
-    "listen",
-    "",
+    "Goo",
+    "dismount",
+    "gọ̋",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "ta",
+    "Y",
+    "SBJ_ta"
   ],
   [
-    "Khmer",
+    "Goo",
+    "listen",
+    "tọ̋ọ̋ tó",
+    "SBJ",
+    "bha",
+    "Y",
+    "SBJ_bha"
+  ],
+  [
+    "Goo",
     "obey",
     "*",
     "*",
@@ -16047,44 +13707,71 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "hear",
-    "",
+    "bhȁn",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "mix",
-    "",
-    "SBJ",
-    "nung",
-    "Y",
-    "SBJ_nung"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "look",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "gȁȁ",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "take_off",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "si̋á",
+    "SBJ",
+    "bha",
+    "Y",
+    "SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "dream#sleeping#",
+    "bhìàn zᴧ́",
+    "SBJ",
+    "ka",
+    "Y",
+    "SBJ_ka"
+  ],
+  [
+    "Goo",
+    "agree",
+    "bhɔ̀ɔ̀àn",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Goo",
+    "have_a_quarrel",
+    "dàà+RECP",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Goo",
+    "cost",
     "*",
     "*",
     "*",
@@ -16092,61 +13779,34 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
-    "agree",
-    "",
-    "SBJ",
-    "ciemuey",
-    "Y",
-    "SBJ_ciemuey"
-  ],
-  [
-    "Khmer",
-    "have_a_quarrel",
-    "",
-    "SBJ",
-    "ciemuey",
-    "Y",
-    "SBJ_ciemuey"
-  ],
-  [
-    "Khmer",
-    "cost",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Khmer",
+    "Goo",
     "shoot_at",
-    "",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Khmer",
+    "Goo",
     "pour",
-    "",
+    "bán",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "lose",
-    "",
+    "lẹ̏ẹ̏-lȕn",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "sink",
     "*",
     "*",
@@ -16155,61 +13815,61 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "kill",
-    "",
+    "zᴧ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "hit",
-    "",
+    "bhȁȁn",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "kiss",
-    "",
+    "wi̋",
     "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "bha",
+    "Y",
+    "SBJ_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "read",
-    "",
+    "wụ̏ụ̏-pɤ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "move#bodypart#",
-    "",
+    "víŋ́",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "respect",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "bhlɤ̀ŋ̀-yàà",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Khmer",
+    "Goo",
     "be_squeamish",
     "*",
     "*",
@@ -16218,7 +13878,7 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "be_content",
     "*",
     "*",
@@ -16227,34 +13887,34 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "fall_in_love",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "li̋a̋ ... wȁȁ",
+    "gi",
+    "POSS.SBJ",
+    "XY",
+    "gi_POSS.SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "trust",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "la̋ŋ́gọ̋-GER",
+    "SBJ",
+    "lie",
+    "Y",
+    "SBJ_lie"
   ],
   [
-    "Khmer",
+    "Goo",
     "sympathise",
-    "*",
+    "wɛ̏ȉ",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "envy",
     "*",
     "*",
@@ -16263,16 +13923,16 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "be_angry",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "wàlá",
+    "zuwee",
+    "bha",
+    "XY",
+    "zuwee_bha"
   ],
   [
-    "Khmer",
+    "Goo",
     "be_surprised",
     "*",
     "*",
@@ -16281,16 +13941,16 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "love#tea#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "lɔ̏ɔ̏",
+    "kee",
+    "POSS.SBJ",
+    "XY",
+    "kee_POSS.SBJ"
   ],
   [
-    "Khmer",
+    "Goo",
     "enjoy",
     "*",
     "*",
@@ -16299,7 +13959,7 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "want",
     "*",
     "*",
@@ -16308,7 +13968,7 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "have_a_grudge",
     "*",
     "*",
@@ -16317,7 +13977,7 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "take_offence",
     "*",
     "*",
@@ -16326,16 +13986,16 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "upset",
-    "*",
+    "sìẹ̀",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "marvel",
     "*",
     "*",
@@ -16344,7 +14004,7 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "despise",
     "*",
     "*",
@@ -16353,7 +14013,7 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "get_upset",
     "*",
     "*",
@@ -16362,7 +14022,7 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "get_irritated",
     "*",
     "*",
@@ -16371,18 +14031,3528 @@ const structuralData = [
     ""
   ],
   [
-    "Khmer",
+    "Goo",
     "be_fond",
-    "*",
+    "gbɛ̋ɛ̋tȁ zᴧ̏",
+    "SBJ",
+    "ka",
+    "Y",
+    "SBJ_ka"
+  ],
+  [
+    "Goo",
+    "be_shy",
+    "yɛ̋ɛ́ kɛ̀ɛ̀",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Khmer",
-    "be_shy",
+    "Greek (ancient)",
+    "feel_pain",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "have#illness#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "be_afraid",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "throw",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "have_enough",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Greek (ancient)",
+    "resemble",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "believe",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "take",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "see",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "influence",
+    "",
+    "NOM",
+    "eisACC",
+    "Y",
+    "NOM_eisACC"
+  ],
+  [
+    "Greek (ancient)",
+    "encounter",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "enter",
+    "",
+    "NOM",
+    "eisACC",
+    "Y",
+    "NOM_eisACC"
+  ],
+  [
+    "Greek (ancient)",
+    "win",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "go_out",
+    "",
+    "NOM",
+    "eksGEN",
+    "Y",
+    "NOM_eksGEN"
+  ],
+  [
+    "Greek (ancient)",
+    "drive",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "bend",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "tell",
+    "",
+    "NOM",
+    "prosACC",
+    "Y",
+    "NOM_prosACC"
+  ],
+  [
+    "Greek (ancient)",
+    "hold",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "catch_up",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "milk",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "reach",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "touch",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "fight",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "be_friends",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "think",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "eat",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "fry",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "wait",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "forget",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "depend",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "call",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "get_to_know",
+    "",
     "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "know",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "play#instrument#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "avoid",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "make",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "make_fun",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "have",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "look_for",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "paint",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "bite",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "forfeit",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "try_to_catch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "break",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "flatter",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "love#person#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "wave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "dream",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "wash",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "put_on",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "be_called",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "punish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "attack",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "fill#intr#",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "find",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "be_short",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "hate",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "like",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Greek (ancient)",
+    "need",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "surround",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "remain",
+    "",
+    "paraDAT",
+    "NOM",
+    "X",
+    "paraDAT_NOM"
+  ],
+  [
+    "Greek (ancient)",
+    "answer",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "open",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "be_different",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "fall_behind",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "plough",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "smell",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "cross",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "sing",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "write",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "drink",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "melt",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "match",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "leave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "cover",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "remember",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "help",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "understand#language#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "hit#target#",
+    "",
+    "NOM",
+    "eisACC",
+    "Y",
+    "NOM_eisACC"
+  ],
+  [
+    "Greek (ancient)",
+    "cut_oneself",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "get_stuck",
+    "",
+    "NOM",
+    "prosDAT",
+    "Y",
+    "NOM_prosDAT"
+  ],
+  [
+    "Greek (ancient)",
+    "lose#game#",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "be_glad",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "speak",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "give_birth",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "drop",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "govern",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "miss",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "follow",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "dismount",
+    "",
+    "NOM",
+    "apoGEN",
+    "Y",
+    "NOM_apoGEN"
+  ],
+  [
+    "Greek (ancient)",
+    "listen",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "obey",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "hear",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "mix",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "look",
+    "",
+    "NOM",
+    "eisACC",
+    "Y",
+    "NOM_eisACC"
+  ],
+  [
+    "Greek (ancient)",
+    "take_off",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "dream#sleeping#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "agree",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "have_a_quarrel",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "cost",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "shoot_at",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "pour",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "lose",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "sink",
+    "",
+    "NOM",
+    "enDAT",
+    "Y",
+    "NOM_enDAT"
+  ],
+  [
+    "Greek (ancient)",
+    "kill",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "hit",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "kiss",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "read",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "move#bodypart#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "respect",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "be_squeamish",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "be_content",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "fall_in_love",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "trust",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "sympathise",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "envy",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "be_angry",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "be_surprised",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "love#tea#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "enjoy",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "want",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Greek (ancient)",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "take_offence",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "upset",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "marvel",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (ancient)",
+    "despise",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (ancient)",
+    "get_upset",
+    "",
+    "NOM",
+    "diaACC",
+    "Y",
+    "NOM_diaACC"
+  ],
+  [
+    "Greek (ancient)",
+    "get_irritated",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "be_fond",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (ancient)",
+    "be_shy",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Greek (modern)",
+    "feel_pain",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "have#illness#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (modern)",
+    "be_afraid",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "throw",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "have_enough",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "resemble",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "believe",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "take",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "see",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "influence",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "encounter",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "enter",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "win",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "go_out",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "drive",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "bend",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "tell",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "hold",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "catch_up",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "milk",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "reach",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "touch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "fight",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_friends",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (modern)",
+    "think",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "eat",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "fry",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "wait",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "forget",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "depend",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "call",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "get_to_know",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "know",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "play#instrument#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "avoid",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "make",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "make_fun",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "have",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "look_for",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "paint",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "bite",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "forfeit",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (modern)",
+    "try_to_catch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "break",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "flatter",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "love#person#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "wave",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "dream",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "wash",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "put_on",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_called",
+    "",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Greek (modern)",
+    "punish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "attack",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "fill#intr#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "find",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_short",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "hate",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "like",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "need",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "surround",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "remain",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "answer",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "open",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_different",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "fall_behind",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "plough",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "smell",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "cross",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "sing",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "write",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "drink",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "melt",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "match",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "leave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "cover",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "remember",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "help",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "understand#language#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "hit#target#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "cut_oneself",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "get_stuck",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "lose#game#",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_glad",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "speak",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "give_birth",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "drop",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "govern",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "miss",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "follow",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "dismount",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "listen",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "obey",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "hear",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "mix",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "look",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "take_off",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "dream#sleeping#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "agree",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "have_a_quarrel",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "cost",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "shoot_at",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "pour",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "lose",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "sink",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "kill",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "hit",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "kiss",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "read",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "move#bodypart#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "respect",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_squeamish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_content",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "fall_in_love",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "trust",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "sympathise",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "envy",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_angry",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_surprised",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "love#tea#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "enjoy",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "want",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "take_offence",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "upset",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "marvel",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "despise",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "get_upset",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "get_irritated",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_fond",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_shy",
+    "",
+    "NOM",
+    "giaACC",
+    "Y",
+    "NOM_giaACC"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "feel_pain",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "have#illness#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_afraid",
+    "",
+    "ACT",
+    "gui",
+    "Y",
+    "ACT_gui"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "throw",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "have_enough",
+    "",
+    "INACT",
+    "pe",
+    "X",
+    "INACT_pe"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "resemble",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "believe",
+    "",
+    "ACT",
+    "rehe",
+    "Y",
+    "ACT_rehe"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "take",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "see",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "influence",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "encounter",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "enter",
+    "",
+    "ACT",
+    "pe(loc)",
+    "Y",
+    "ACT_pe(loc)"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "win",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "go_out",
+    "",
+    "ACT",
+    "gui",
+    "Y",
+    "ACT_gui"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "drive",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "bend",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "tell",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "hold",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "catch_up",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "milk",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "reach",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "touch",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "fight",
+    "",
+    "ACT",
+    "ndive",
+    "Y",
+    "ACT_ndive"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_friends",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "think",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "eat",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "fry",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "wait",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "forget",
+    "",
+    "INACT",
+    "gui",
+    "X",
+    "INACT_gui"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "depend",
+    "",
+    "ACT",
+    "rehe",
+    "Y",
+    "ACT_rehe"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "call",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "get_to_know",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "know",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "play#instrument#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "avoid",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "make",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "make_fun",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "have",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "look_for",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "paint",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "bite",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "forfeit",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "try_to_catch",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "break",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "flatter",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "love#person#",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "wave",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "dream",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "wash",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "put_on",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_called",
+    "",
+    "ACT",
+    "rupi",
+    "Y",
+    "ACT_rupi"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "punish",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "attack",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "fill#intr#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "find",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_short",
+    "",
+    "INACT",
+    "ZERO",
+    "X",
+    "INACT_ZERO"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "hate",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "like",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "need",
+    "",
+    "ACT",
+    "re",
+    "Y",
+    "ACT_re"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "surround",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "remain",
+    "",
+    "ACT",
+    "pe",
+    "Y",
+    "ACT_pe"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "answer",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "open",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_different",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "fall_behind",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "plough",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "smell",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "cross",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "sing",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "write",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "drink",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "melt",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "match",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "leave",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "cover",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "remember",
+    "",
+    "INACT",
+    "rehe",
+    "X",
+    "INACT_rehe"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "help",
+    "",
+    "ACT",
+    "pe",
+    "Y",
+    "ACT_pe"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "understand#language#",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "hit#target#",
+    "",
+    "ACT",
+    "pe(loc)",
+    "Y",
+    "ACT_pe(loc)"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "cut_oneself",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "get_stuck",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "lose#game#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_glad",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "speak",
+    "",
+    "ACT",
+    "ndive",
+    "Y",
+    "ACT_ndive"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "give_birth",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "drop",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "govern",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "miss",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "follow",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "dismount",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "listen",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "obey",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "hear",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "mix",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "look",
+    "",
+    "ACT",
+    "re",
+    "Y",
+    "ACT_re"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "take_off",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "dream#sleeping#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "agree",
+    "",
+    "ACT",
+    "pe",
+    "Y",
+    "ACT_pe"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "have_a_quarrel",
+    "",
+    "ACT",
+    "ndive",
+    "Y",
+    "ACT_ndive"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "cost",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "shoot_at",
+    "",
+    "ACT",
+    "re",
+    "Y",
+    "ACT_re"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "pour",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "lose",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "sink",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "kill",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "hit",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "kiss",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "read",
+    "",
+    "ACT",
+    "INACT",
+    "TR",
+    "TR"
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "move#bodypart#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "respect",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_squeamish",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_content",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "fall_in_love",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "trust",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "sympathise",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "envy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_angry",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_surprised",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "love#tea#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "enjoy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "want",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "have_a_grudge",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "take_offence",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "upset",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "marvel",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "despise",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "get_upset",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "get_irritated",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_fond",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Guaraní (Paraguayan)",
+    "be_shy",
+    "",
     "*",
     "*",
     "*",
@@ -17559,601 +18729,601 @@ const structuralData = [
     ""
   ],
   [
-    "Udihe",
+    "Hungarian",
     "feel_pain",
-    "uni-",
-    "POSS",
+    "fáj",
+    "DAT",
     "NOM",
     "X",
-    "POSS_NOM"
+    "DAT_NOM"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "have#illness#",
-    "sulə-",
+    "van",
+    "DAT",
     "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "be_afraid",
-    "ŋələ-",
+    "fél",
     "NOM",
-    "INS",
+    "ABL",
     "Y",
-    "NOM_INS"
+    "NOM_ABL"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "throw",
-    "wəndə-",
+    "eldob",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "have_enough",
-    "NEG + zokčo",
+    "van elég",
+    "DAT",
     "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "resemble",
-    "d'oxo  bi-",
+    "hasonlít",
     "NOM",
-    "DIR",
+    "SUB",
     "Y",
-    "NOM_DIR"
+    "NOM_SUB"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "believe",
-    "čəzə-",
+    "hisz",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "take",
-    "asta-",
+    "levesz",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "see",
-    "isə-",
+    "lát",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "influence",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "befolyásol",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "encounter",
-    "b'a-",
+    "összefut",
     "NOM",
     "INS",
     "Y",
     "NOM_INS"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "enter",
-    "ii-",
+    "be-lép-",
     "NOM",
-    "DIR",
+    "ILL",
     "Y",
-    "NOM_DIR"
+    "NOM_ILL"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "win",
-    "ətə-",
+    "legyőz",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "go_out",
-    "ñuo-gi-",
+    "kimegy",
     "NOM",
-    "ABL",
+    "ELA",
     "Y",
-    "NOM_ABL"
+    "NOM_ELA"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "drive",
-    "igbə-",
+    "vezet",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "bend",
-    "uu-woŋ-",
+    "meghajlít ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "tell",
-    "diɣanə-",
+    "mond",
     "NOM",
-    "DIR",
+    "DAT",
     "Y",
-    "NOM_DIR"
+    "NOM_DAT"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "hold",
-    "zawa-",
+    "tart ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "catch_up",
-    "b'oŋ-",
+    "utolér",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "milk",
-    "daila-",
+    "megfej",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "reach",
-    "iiŋ-",
+    "elér",
     "NOM",
-    "LOC",
-    "Y",
-    "NOM_LOC"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "touch",
-    "tuŋga-la-",
+    "hozzáér",
     "NOM",
-    "LOC",
+    "ALL",
     "Y",
-    "NOM_LOC"
+    "NOM_ALL"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "fight",
-    "w'ali-",
+    "verekszik ",
     "NOM",
     "INS",
     "Y",
     "NOM_INS"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "be_friends",
-    "andasi-",
+    "barátkozik",
     "NOM",
     "INS",
     "Y",
     "NOM_INS"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "think",
-    "məisi-",
+    "gondol",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "SUB",
+    "Y",
+    "NOM_SUB"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "eat",
-    "diga-",
+    "eszik ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "fry",
-    "kakčisi-",
+    "megsüt ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "wait",
-    "alasi-",
+    "vár",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "SUB",
+    "Y",
+    "NOM_SUB"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "forget",
-    "oŋmo-",
+    "megfeledkez",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "DEL",
+    "Y",
+    "NOM_DEL"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "depend",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "függ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "call",
-    "gələ-",
+    "hív ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "get_to_know",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "megismer",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "know",
-    "sə-",
+    "ismer ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "play#instrument#",
-    "gusi-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Udihe",
+    "Hungarian",
     "avoid",
-    "susa-wasi-",
+    "elkerül",
     "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "make",
-    "o-",
+    "készít",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "make_fun",
-    "kəsə-we-li-",
+    "kicsúfol",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "have",
-    "(COP)",
+    "van ",
+    "DAT",
     "NOM",
-    "ORN",
-    "Y",
-    "NOM_ORN"
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "look_for",
-    "galaktə-",
+    "keres ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "paint",
-    "kraskala-",
+    "lefest ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "bite",
-    "iktəmə-lə-",
+    "megharap ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "forfeit",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "elveszt",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "try_to_catch",
-    "zawa-kcə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "elkap",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Udihe",
+    "Hungarian",
     "break",
-    "buktali-",
+    "eltör",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "flatter",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "hízeleg",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "love#person#",
-    "aju-",
+    "szeret",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "wave",
-    "akpi-",
+    "integet",
     "NOM",
     "INS",
     "Y",
     "NOM_INS"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "dream",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "wash",
-    "siki-",
+    "álmodik",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "put_on",
-    "təti-gi-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "be_called",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "punish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "attack",
-    "xokco-",
-    "NOM",
-    "DIR",
+    "DEL",
     "Y",
-    "NOM_DIR"
+    "NOM_DEL"
   ],
   [
-    "Udihe",
-    "fill#intr#",
-    "sabda- (tääsi )",
-    "ACC",
-    "NOM",
-    "X",
-    "ACC_NOM"
-  ],
-  [
-    "Udihe",
-    "find",
-    "b'a-gi-",
+    "Hungarian",
+    "wash",
+    "elmos",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
-    "be_short",
-    "ə-i-ni iinə",
+    "Hungarian",
+    "put_on",
+    "felvesz ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "be_called",
+    "hívják",
+    "ACC",
     "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
+    "XY",
+    "ACC_DAT"
   ],
   [
-    "Udihe",
-    "hate",
-    "galu-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "like",
-    "čaalə-",
+    "Hungarian",
+    "punish",
+    "megbüntet",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
-    "need",
-    "zokco-",
+    "Hungarian",
+    "attack",
+    "megtámad",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "fill#intr#",
+    "megtelik",
     "NOM",
     "INS",
     "Y",
     "NOM_INS"
   ],
   [
-    "Udihe",
-    "surround",
-    "?",
-    "*",
-    "*",
-    "*",
-    ""
+    "Hungarian",
+    "find",
+    "megtalál",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
-    "remain",
-    "osi-gi-",
+    "Hungarian",
+    "be_short",
+    "keves-ebb- + COP",
+    "DAT",
+    "INS",
+    "XY",
+    "DAT_INS"
+  ],
+  [
+    "Hungarian",
+    "hate",
+    "utál",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "like",
+    "tetszik",
     "DAT",
     "NOM",
     "X",
     "DAT_NOM"
   ],
   [
-    "Udihe",
+    "Hungarian",
+    "need",
+    "van szüksége",
+    "DAT",
+    "SUB",
+    "XY",
+    "DAT_SUB"
+  ],
+  [
+    "Hungarian",
+    "surround",
+    "körbeveszik ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "remain",
+    "marad",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Hungarian",
     "answer",
-    "diaŋ-",
+    "válaszol",
     "NOM",
-    "DIR",
+    "DAT",
     "Y",
-    "NOM_DIR"
+    "NOM_DAT"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "open",
-    "nienti-lə-",
+    "kinyit",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "be_different",
-    "xonto",
+    "különbözik",
     "NOM",
     "ABL",
     "Y",
     "NOM_ABL"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "fall_behind",
-    "amääsa-",
+    "lemarad",
     "NOM",
-    "ABL",
+    "mogott",
     "Y",
-    "NOM_ABL"
+    "NOM_mogott"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "plough",
-    "gəŋculə-",
+    "szánt",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "smell",
     "*",
     "*",
@@ -18162,520 +19332,520 @@ const structuralData = [
     ""
   ],
   [
-    "Udihe",
+    "Hungarian",
     "cross",
-    "dau-",
+    "átmegy",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "sing",
-    "jəxə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "write",
-    "oño-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "drink",
-    "umnasi-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "melt",
-    "unə-wə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "match",
-    "asə-",
-    "NOM",
-    "DIR",
+    "SUP",
     "Y",
-    "NOM_DIR"
+    "NOM_SUP"
   ],
   [
-    "Udihe",
+    "Hungarian",
+    "sing",
+    "énekel",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "write",
+    "ír",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "drink",
+    "(meg)iszik",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "melt",
+    "(meg)ólom",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "match",
+    "megy",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Hungarian",
     "leave",
-    "nodo-",
+    "elhagy ",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "cover",
-    "likpi-",
+    "lefed",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "remember",
-    "zoŋi-",
+    "emlékszik",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "SUB",
+    "Y",
+    "NOM_SUB"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "help",
-    "bələsi-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "understand#language#",
-    "sə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "hit#target#",
-    "agdinda-",
+    "segít",
     "NOM",
     "DAT",
     "Y",
     "NOM_DAT"
   ],
   [
-    "Udihe",
+    "Hungarian",
+    "understand#language#",
+    "ért",
+    "NOM",
+    "ESS",
+    "Y",
+    "NOM_ESS"
+  ],
+  [
+    "Hungarian",
+    "hit#target#",
+    "csap",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Hungarian",
     "cut_oneself",
-    "əndə-",
+    "megvág ",
     "NOM",
     "INS",
     "Y",
     "NOM_INS"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "get_stuck",
-    "lagbaŋ-",
+    "odaragad",
     "NOM",
-    "LOC",
+    "ALL",
     "Y",
-    "NOM_LOC"
+    "NOM_ALL"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "lose#game#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "be_glad",
-    "agda-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "speak",
-    "diɣa-",
+    "veszít",
     "NOM",
-    "DIR",
+    "szembenINS",
     "Y",
-    "NOM_DIR"
+    "NOM_szembenINS"
   ],
   [
-    "Udihe",
+    "Hungarian",
+    "be_glad",
+    "örül ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Hungarian",
+    "speak",
+    "beszélget",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Hungarian",
     "give_birth",
-    "b'a-",
+    "szül",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "drop",
-    "tugbu-",
+    "elejt",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "govern",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "ural",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "miss",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "hiányzik ",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "follow",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "követ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "dismount",
-    "əugi-",
+    "leszáll ",
+    "NOM",
+    "DEL",
+    "Y",
+    "NOM_DEL"
+  ],
+  [
+    "Hungarian",
+    "listen",
+    "hallgat",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "obey",
+    "hallgat ",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Hungarian",
+    "hear",
+    "hall ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "mix",
+    "összekeveredik",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Hungarian",
+    "look",
+    "néz ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "take_off",
+    "levesz",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "dream#sleeping#",
+    "álmodik ",
+    "NOM",
+    "DEL",
+    "Y",
+    "NOM_DEL"
+  ],
+  [
+    "Hungarian",
+    "agree",
+    "egyetért",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Hungarian",
+    "have_a_quarrel",
+    "összeveszik",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Hungarian",
+    "cost",
+    "kerül",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Hungarian",
+    "shoot_at",
+    "rálő ",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Hungarian",
+    "pour",
+    "tesz",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "lose",
+    "elveszít",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "sink",
+    "elsüllyed",
+    "NOM",
+    "ala",
+    "Y",
+    "NOM_ala"
+  ],
+  [
+    "Hungarian",
+    "kill",
+    "megöl",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "hit",
+    "megüt",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "kiss",
+    "megcsókol",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "read",
+    "olvas",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "move#bodypart#",
+    "mozgat",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "respect",
+    "tisztel",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "be_squeamish",
+    "kényes",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Hungarian",
+    "be_content",
+    "elégedett",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Hungarian",
+    "fall_in_love",
+    "beleszeret",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Hungarian",
+    "trust",
+    "bízik",
+    "NOM",
+    "INE",
+    "Y",
+    "NOM_INE"
+  ],
+  [
+    "Hungarian",
+    "sympathise",
+    "együttérez",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Hungarian",
+    "envy",
+    "irigy",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Hungarian",
+    "be_angry",
+    "mérges",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
+  ],
+  [
+    "Hungarian",
+    "be_surprised",
+    "meglepődik",
     "NOM",
     "ABL",
     "Y",
     "NOM_ABL"
   ],
   [
-    "Udihe",
-    "listen",
-    "düi-si-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "obey",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "hear",
-    "düi-si-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "mix",
-    "solü-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Udihe",
-    "look",
-    "isə-si-",
-    "NOM",
-    "DIR",
-    "Y",
-    "NOM_DIR"
-  ],
-  [
-    "Udihe",
-    "take_off",
-    "asta-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "dream#sleeping#",
-    "t'osi-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "agree",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "have_a_quarrel",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "cost",
-    "bi-",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Udihe",
-    "shoot_at",
-    "gakpa-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "pour",
-    "kuŋgədə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "lose",
-    "nodo-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "sink",
-    "juu-",
-    "NOM",
-    "LOC",
-    "Y",
-    "NOM_LOC"
-  ],
-  [
-    "Udihe",
-    "kill",
-    "wa-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "hit",
-    "duktə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "kiss",
-    "ñuɣasi-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "read",
-    "taŋi-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "move#bodypart#",
-    "ugi-wəŋ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "respect",
-    "čəzə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "be_squeamish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "be_content",
-    "agdа-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Udihe",
-    "fall_in_love",
-    "aju-li-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "trust",
-    "čəzə-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "sympathise",
-    "nantə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
-    "envy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Udihe",
-    "be_angry",
-    "tagdа-",
-    "NOM",
-    "DIR",
-    "Y",
-    "NOM_DIR"
-  ],
-  [
-    "Udihe",
-    "be_surprised",
-    "xuenə-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Udihe",
+    "Hungarian",
     "love#tea#",
-    "aju-",
+    "imád",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "enjoy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "jól esik ",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "want",
-    "gələ-",
+    "akar",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "have_a_grudge",
-    "tagda-",
+    "haragszik",
     "NOM",
-    "DIR",
+    "SUB",
     "Y",
-    "NOM_DIR"
+    "NOM_SUB"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "take_offence",
-    "tagda-",
+    "megsértődik",
     "NOM",
-    "DIR",
+    "SUB",
     "Y",
-    "NOM_DIR"
+    "NOM_SUB"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "upset",
-    "tagda-waŋ-",
+    "elszomorít",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "marvel",
     "*",
     "*",
@@ -18684,35 +19854,1142 @@ const structuralData = [
     ""
   ],
   [
-    "Udihe",
+    "Hungarian",
     "despise",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "megvet ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "get_upset",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "csalódott",
+    "NOM",
+    "INE",
+    "Y",
+    "NOM_INE"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "get_irritated",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "haragszik ",
+    "NOM",
+    "SUB",
+    "Y",
+    "NOM_SUB"
   ],
   [
-    "Udihe",
+    "Hungarian",
     "be_fond",
+    "szeret ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Hungarian",
+    "be_shy",
+    "szégyell",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "feel_pain",
+    "illt",
+    "DAT",
+    "iDAT",
+    "XY",
+    "DAT_iDAT"
+  ],
+  [
+    "Icelandic",
+    "have#illness#",
+    "er",
+    "NOM",
+    "medACC",
+    "Y",
+    "NOM_medACC"
+  ],
+  [
+    "Icelandic",
+    "be_afraid",
+    "hræddur ",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "throw",
+    "kastaði ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "have_enough",
+    "á nóg ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Icelandic",
+    "resemble",
+    "líkist",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "believe",
+    "trúir ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "take",
+    "tók ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "see",
+    "sér ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "influence",
+    "hefur áhrif",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "encounter",
+    "rakst ",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "enter",
+    "kom inn",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Icelandic",
+    "win",
+    "vann ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "go_out",
+    "fór út",
+    "NOM",
+    "urDAT",
+    "Y",
+    "NOM_urDAT"
+  ],
+  [
+    "Icelandic",
+    "drive",
+    "reka",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "bend",
+    "beygði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "tell",
+    "sagði",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "hold",
+    "heldur",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "catch_up",
+    "náði",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "milk",
+    "mjólkaði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "reach",
+    "náði",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "touch",
+    "kom",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "fight",
+    "slást",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "be_friends",
+    "vinur ",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Icelandic",
+    "think",
+    "hugsa",
+    "NOM",
+    "umACC",
+    "Y",
+    "NOM_umACC"
+  ],
+  [
+    "Icelandic",
+    "eat",
+    "borðaði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "fry",
+    "steikti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "wait",
+    "bíða",
+    "NOM",
+    "eftirDAT",
+    "Y",
+    "NOM_eftirDAT"
+  ],
+  [
+    "Icelandic",
+    "forget",
+    "gleymdi",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "depend",
+    "háð",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "call",
+    "kallaði",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Icelandic",
+    "get_to_know",
+    "kynntist",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "know",
+    "þekkir ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "play#instrument#",
+    "spila",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "avoid",
+    "forðast ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "make",
+    "bjó til",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Icelandic",
+    "make_fun",
+    "gera grín",
+    "NOM",
+    "adDAT",
+    "Y",
+    "NOM_adDAT"
+  ],
+  [
+    "Icelandic",
+    "have",
+    "á",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "look_for",
+    "leita",
+    "NOM",
+    "adDAT",
+    "Y",
+    "NOM_adDAT"
+  ],
+  [
+    "Icelandic",
+    "paint",
+    "málaði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "bite",
+    "beit ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "forfeit",
+    "missti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "try_to_catch",
+    "reyna að ná",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Icelandic",
+    "break",
+    "braut ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "flatter",
+    "skjalla",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "love#person#",
+    "elskar",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "wave",
+    "veifa",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "dream",
+    "dreymir",
+    "ACC",
+    "umACC",
+    "XY",
+    "ACC_umACC"
+  ],
+  [
+    "Icelandic",
+    "wash",
+    "þvoði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "put_on",
+    "fór",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Icelandic",
+    "be_called",
+    "er  kallað",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Icelandic",
+    "punish",
+    "refsaði",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "attack",
+    "réðst",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "fill#intr#",
+    "fylltist",
+    "NOM",
+    "afDAT",
+    "Y",
+    "NOM_afDAT"
+  ],
+  [
+    "Icelandic",
+    "find",
+    "fann ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "be_short",
+    "vantar",
+    "ACC",
+    "ACC",
+    "X",
+    "ACC_ACC"
+  ],
+  [
+    "Icelandic",
+    "hate",
+    "hatar",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "like",
+    "líkar",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Icelandic",
+    "need",
+    "vantar",
+    "ACC",
+    "ACC",
+    "X",
+    "ACC_ACC"
+  ],
+  [
+    "Icelandic",
+    "surround",
+    "umlykja",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "remain",
+    "á eftir",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "answer",
+    "svaraði",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "open",
+    "opnaði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "be_different",
+    "ólík",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "fall_behind",
+    "dróst aftur",
+    "NOM",
+    "urDAT",
+    "Y",
+    "NOM_urDAT"
+  ],
+  [
+    "Icelandic",
+    "plough",
+    "plægja ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "smell",
+    "lykta",
+    "NOM",
+    "afDAT",
+    "Y",
+    "NOM_afDAT"
+  ],
+  [
+    "Icelandic",
+    "cross",
+    "fór",
+    "NOM",
+    "yfirACC",
+    "Y",
+    "NOM_yfirACC"
+  ],
+  [
+    "Icelandic",
+    "sing",
+    "söng ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "write",
+    "skrifaði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "drink",
+    "drakk",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "melt",
+    "bræddi",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "match",
+    "í stíl",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "leave",
+    "yfirgaf",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "cover",
+    "þekur ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "remember",
+    "man",
+    "NOM",
+    "eftirDAT",
+    "Y",
+    "NOM_eftirDAT"
+  ],
+  [
+    "Icelandic",
+    "help",
+    "hjálpaði",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "understand#language#",
+    "skilur",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "hit#target#",
+    "laust niður",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Icelandic",
+    "cut_oneself",
+    "skar sig",
+    "NOM",
+    "medDAT",
+    "Y",
+    "NOM_medDAT"
+  ],
+  [
+    "Icelandic",
+    "get_stuck",
+    "festist",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "lose#game#",
+    "tapaði",
+    "NOM",
+    "fyrirDAT",
+    "Y",
+    "NOM_fyrirDAT"
+  ],
+  [
+    "Icelandic",
+    "be_glad",
+    "ánægður",
+    "NOM",
+    "medACC",
+    "Y",
+    "NOM_medACC"
+  ],
+  [
+    "Icelandic",
+    "speak",
+    "tala",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "give_birth",
+    "fæddi",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "drop",
+    "missti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "govern",
+    "fer með völd",
+    "NOM",
+    "iDAT",
+    "Y",
+    "NOM_iDAT"
+  ],
+  [
+    "Icelandic",
+    "miss",
+    "saknar",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Icelandic",
+    "follow",
+    "eltir",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "dismount",
+    "steig niður",
+    "NOM",
+    "afDAT",
+    "Y",
+    "NOM_afDAT"
+  ],
+  [
+    "Icelandic",
+    "listen",
+    "hlusta",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "obey",
+    "hlýðir",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "hear",
+    "heyrir",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "mix",
+    "blandaðist",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "look",
+    "horfa",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "take_off",
+    "fór",
+    "NOM",
+    "urDAT",
+    "Y",
+    "NOM_urDAT"
+  ],
+  [
+    "Icelandic",
+    "dream#sleeping#",
+    "dreymir",
+    "ACC",
+    "ACC",
+    "X",
+    "ACC_ACC"
+  ],
+  [
+    "Icelandic",
+    "agree",
+    "sammála",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "have_a_quarrel",
+    "reifst",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "cost",
+    "kostar",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "shoot_at",
+    "skaut",
+    "NOM",
+    "aACC",
+    "Y",
+    "NOM_aACC"
+  ],
+  [
+    "Icelandic",
+    "pour",
+    "hellti",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "lose",
+    "týndi",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "sink",
+    "sökk",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Icelandic",
+    "kill",
+    "drap",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "hit",
+    "lamdi",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "kiss",
+    "kyssti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "read",
+    "las",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "move#bodypart#",
+    "hreyfði",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "respect",
+    "ber virðingu",
+    "NOM",
+    "fyrirDAT",
+    "Y",
+    "NOM_fyrirDAT"
+  ],
+  [
+    "Icelandic",
+    "be_squeamish",
+    "flökrar",
+    "NOM",
+    "vidDAT",
+    "Y",
+    "NOM_vidDAT"
+  ],
+  [
+    "Icelandic",
+    "be_content",
+    "ánægður",
+    "NOM",
+    "medACC",
+    "Y",
+    "NOM_medACC"
+  ],
+  [
+    "Icelandic",
+    "fall_in_love",
+    "varð ástfanginn",
+    "NOM",
+    "afDAT",
+    "Y",
+    "NOM_afDAT"
+  ],
+  [
+    "Icelandic",
+    "trust",
+    "treystir",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "sympathise",
+    "finnur til",
+    "NOM",
+    "medDAT",
+    "Y",
+    "NOM_medDAT"
+  ],
+  [
+    "Icelandic",
+    "envy",
+    "öfundar ",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "be_angry",
+    "reiður",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "be_surprised",
+    "hissa",
+    "NOM",
+    "yfirDAT",
+    "Y",
+    "NOM_yfirDAT"
+  ],
+  [
+    "Icelandic",
+    "love#tea#",
+    "elskar",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "enjoy",
+    "finnst gott",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Icelandic",
+    "want",
+    "langar",
+    "ACC",
+    "iACC",
+    "XY",
+    "ACC_iACC"
+  ],
+  [
+    "Icelandic",
+    "have_a_grudge",
     "*",
     "*",
     "*",
@@ -18720,13 +20997,2416 @@ const structuralData = [
     ""
   ],
   [
-    "Udihe",
+    "Icelandic",
+    "take_offence",
+    "móðgaðist",
+    "NOM",
+    "vidACC",
+    "Y",
+    "NOM_vidACC"
+  ],
+  [
+    "Icelandic",
+    "upset",
+    "kom ... í mikið uppnám",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Icelandic",
+    "marvel",
+    "dáðist",
+    "NOM",
+    "adDAT",
+    "Y",
+    "NOM_adDAT"
+  ],
+  [
+    "Icelandic",
+    "despise",
+    "fyrirlítur",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Icelandic",
+    "get_upset",
+    "komst í uppnám",
+    "NOM",
+    "vegnaGEN",
+    "Y",
+    "NOM_vegnaGEN"
+  ],
+  [
+    "Icelandic",
+    "get_irritated",
+    "verða pirraður ",
+    "NOM",
+    "aDAT",
+    "Y",
+    "NOM_aDAT"
+  ],
+  [
+    "Icelandic",
+    "be_fond",
+    "annt",
+    "NOM",
+    "umACC",
+    "Y",
+    "NOM_umACC"
+  ],
+  [
+    "Icelandic",
     "be_shy",
-    "xagzə-",
+    "fer hjá sér",
+    "NOM",
+    "vegnaGEN",
+    "Y",
+    "NOM_vegnaGEN"
+  ],
+  [
+    "Ingush",
+    "feel_pain",
+    "",
     "*",
     "*",
     "*",
     ""
+  ],
+  [
+    "Ingush",
+    "have#illness#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "be_afraid",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "throw",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "have_enough",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "resemble",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "believe",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "take",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "see",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "influence",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "encounter",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "enter",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "win",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "go_out",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "drive",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "bend",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "tell",
+    "",
+    "ERG",
+    "ALL",
+    "Y",
+    "ERG_ALL"
+  ],
+  [
+    "Ingush",
+    "hold",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "catch_up",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "milk",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "reach",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "touch",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "fight",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "be_friends",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "think",
+    "",
+    "ERG",
+    "LAT",
+    "Y",
+    "ERG_LAT"
+  ],
+  [
+    "Ingush",
+    "eat",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "fry",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "wait",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ingush",
+    "forget",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "depend",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "call",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "get_to_know",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "know",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "play#instrument#",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "avoid",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "make",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "make_fun",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "have",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Ingush",
+    "look_for",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "paint",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "bite",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "forfeit",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "try_to_catch",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "break",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "flatter",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "love#person#",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "wave",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "dream",
+    "",
+    "ERG",
+    "ABL",
+    "Y",
+    "ERG_ABL"
+  ],
+  [
+    "Ingush",
+    "wash",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "put_on",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "be_called",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "punish",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "attack",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "fill#intr#",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "find",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "be_short",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "hate",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "like",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "need",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "surround",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "remain",
+    "",
+    "ALL",
+    "NOM",
+    "X",
+    "ALL_NOM"
+  ],
+  [
+    "Ingush",
+    "answer",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "open",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "be_different",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "fall_behind",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "plough",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "smell",
+    "",
+    "LAT",
+    "NOM",
+    "X",
+    "LAT_NOM"
+  ],
+  [
+    "Ingush",
+    "cross",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "sing",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "write",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "drink",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "melt",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "match",
+    "",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Ingush",
+    "leave",
+    "",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ingush",
+    "cover",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "remember",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "help",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "understand#language#",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "hit#target#",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "cut_oneself",
+    "",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Ingush",
+    "get_stuck",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "lose#game#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "be_glad",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "speak",
+    "",
+    "ERG",
+    "INSTR",
+    "Y",
+    "ERG_INSTR"
+  ],
+  [
+    "Ingush",
+    "give_birth",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "drop",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "govern",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "miss",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "follow",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "dismount",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "listen",
+    "",
+    "ERG",
+    "ALL",
+    "Y",
+    "ERG_ALL"
+  ],
+  [
+    "Ingush",
+    "obey",
+    "",
+    "ERG",
+    "ALL",
+    "Y",
+    "ERG_ALL"
+  ],
+  [
+    "Ingush",
+    "hear",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "mix",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "look",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ingush",
+    "take_off",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "dream#sleeping#",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "agree",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "have_a_quarrel",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "cost",
+    "",
+    "LAT",
+    "NOM",
+    "X",
+    "LAT_NOM"
+  ],
+  [
+    "Ingush",
+    "shoot_at",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "pour",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "lose",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "sink",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "kill",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "hit",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "kiss",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "read",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "move#bodypart#",
+    "",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ingush",
+    "respect",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "be_squeamish",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "be_content",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "fall_in_love",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "trust",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "sympathise",
+    "",
+    "DAT",
+    "LAT",
+    "XY",
+    "DAT_LAT"
+  ],
+  [
+    "Ingush",
+    "envy",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "be_angry",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "be_surprised",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "love#tea#",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "enjoy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ingush",
+    "want",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "take_offence",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "upset",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Ingush",
+    "marvel",
+    "",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Ingush",
+    "despise",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "get_upset",
+    "",
+    "DAT",
+    "LAT",
+    "XY",
+    "DAT_LAT"
+  ],
+  [
+    "Ingush",
+    "get_irritated",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ingush",
+    "be_fond",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ingush",
+    "be_shy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "feel_pain",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "have#illness#",
+    "",
+    "TOP",
+    "ZERO",
+    "XY",
+    "TOP_ZERO"
+  ],
+  [
+    "Japanese",
+    "be_afraid",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "throw",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "have_enough",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "resemble",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "believe",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "take",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "see",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Japanese",
+    "influence",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "encounter",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "enter",
+    "",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Japanese",
+    "win",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "go_out",
+    "",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Japanese",
+    "drive",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "bend",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "tell",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "hold",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "catch_up",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "milk",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "reach",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "touch",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "fight",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "be_friends",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "think",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "eat",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "fry",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "wait",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "forget",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "depend",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "call",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "get_to_know",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "know",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "play#instrument#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "avoid",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "make",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "make_fun",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "have",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "look_for",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "paint",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "bite",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "forfeit",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "try_to_catch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "break",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "flatter",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "love#person#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "wave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "dream",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "wash",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "put_on",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "be_called",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "punish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "attack",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "fill#intr#",
+    "",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Japanese",
+    "find",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "be_short",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "hate",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "like",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "need",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "surround",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "remain",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "answer",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "open",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "be_different",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "fall_behind",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "plough",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "smell",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "cross",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "sing",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "write",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "drink",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "melt",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "match",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "leave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "cover",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "remember",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "help",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "understand#language#",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "hit#target#",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "cut_oneself",
+    "",
+    "NOM",
+    "INSTR",
+    "Y",
+    "NOM_INSTR"
+  ],
+  [
+    "Japanese",
+    "get_stuck",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "lose#game#",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "be_glad",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "speak",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "give_birth",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "drop",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "govern",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "miss",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "follow",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "dismount",
+    "",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Japanese",
+    "listen",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "obey",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "hear",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Japanese",
+    "mix",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "look",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "take_off",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "dream#sleeping#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "agree",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "have_a_quarrel",
+    "",
+    "NOM",
+    "CONTR",
+    "Y",
+    "NOM_CONTR"
+  ],
+  [
+    "Japanese",
+    "cost",
+    "",
+    "TOP",
+    "ZERO",
+    "XY",
+    "TOP_ZERO"
+  ],
+  [
+    "Japanese",
+    "shoot_at",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "pour",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "lose",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "sink",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "kill",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "hit",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "kiss",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "read",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "move#bodypart#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "respect",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "be_squeamish",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "be_content",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "fall_in_love",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "trust",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "sympathise",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "envy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "be_angry",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "be_surprised",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "love#tea#",
+    "",
+    "TOP",
+    "NOM",
+    "X",
+    "TOP_NOM"
+  ],
+  [
+    "Japanese",
+    "enjoy",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "want",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "take_offence",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "upset",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "marvel",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Japanese",
+    "despise",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Japanese",
+    "get_upset",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "get_irritated",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "be_fond",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Japanese",
+    "be_shy",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
     "Joola-Fonyi",
@@ -19899,1176 +24579,6 @@ const structuralData = [
     "SBJ_di"
   ],
   [
-    "Buriat",
-    "feel_pain",
-    "үбдэ-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Buriat",
-    "have#illness#",
-    "дара-гд-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "be_afraid",
-    "ай-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Buriat",
-    "throw",
-    "шүдэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "have_enough",
-    "хүртэ-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Buriat",
-    "resemble",
-    "адли",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "believe",
-    "этигэ-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "take",
-    "аба-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "see",
-    "хара-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "influence",
-    "нүлөөл-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "encounter",
-    "уулза-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "enter",
-    "оро-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "win",
-    "диилэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "go_out",
-    "гара-",
-    "NOM",
-    "soohoo",
-    "Y",
-    "NOM_soohoo"
-  ],
-  [
-    "Buriat",
-    "drive",
-    "туу-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "bend",
-    "нугал-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "tell",
-    "хэлэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "hold",
-    "бари-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "catch_up",
-    "хүсэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "milk",
-    "hаа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "reach",
-    "хүрэ-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "touch",
-    "бари-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "fight",
-    "арсалда-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "be_friends",
-    "нүхэсэ-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "think",
-    "hана-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "eat",
-    "эди-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "fry",
-    "шара-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "wait",
-    "хүлеэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "forget",
-    "марта-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "depend",
-    "хамаатай",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "call",
-    "дууда-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "get_to_know",
-    "танилс-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "know",
-    "мэдэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "play#instrument#",
-    "наада-",
-    "NOM",
-    "deere",
-    "Y",
-    "NOM_deere"
-  ],
-  [
-    "Buriat",
-    "avoid",
-    "холуур  яба-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "make",
-    "хэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "make_fun",
-    "наадал-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "have",
-    "бии",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Buriat",
-    "look_for",
-    "бэдэр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "paint",
-    "шэрдэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "bite",
-    "хаза-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "forfeit",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "try_to_catch",
-    "бари-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "break",
-    "хухал-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "flatter",
-    "һаймһар-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "love#person#",
-    "дура-тай",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "wave",
-    "далла-",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Buriat",
-    "dream",
-    "hана-",
-    "NOM",
-    "tuxai",
-    "Y",
-    "NOM_tuxai"
-  ],
-  [
-    "Buriat",
-    "wash",
-    "угаа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "put_on",
-    "үмдэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "be_called",
-    "нэрэ-тэй",
-    "NOM",
-    "gezhe",
-    "Y",
-    "NOM_gezhe"
-  ],
-  [
-    "Buriat",
-    "punish",
-    "хараа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "attack",
-    "аhа-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "fill#intr#",
-    "дүүрэ-",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Buriat",
-    "find",
-    "оло-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "be_short",
-    "дута-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Buriat",
-    "hate",
-    "дура-гүй",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "like",
-    "гоё",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Buriat",
-    "need",
-    "хэрэг-тэй",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Buriat",
-    "surround",
-    "тойро",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "remain",
-    "үлэ-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Buriat",
-    "answer",
-    "харюуса-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "open",
-    "тайла-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "be_different",
-    "ондоо",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Buriat",
-    "fall_behind",
-    "гээгдэ-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Buriat",
-    "plough",
-    "хүдэл-",
-    "NOM",
-    "deere",
-    "Y",
-    "NOM_deere"
-  ],
-  [
-    "Buriat",
-    "smell",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "cross",
-    "гара-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "sing",
-    "дуула-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "write",
-    "бэшэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "drink",
-    "уу-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "melt",
-    "хайлуул-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "match",
-    "туда-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "leave",
-    "яба-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Buriat",
-    "cover",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "remember",
-    "hана-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "help",
-    "туhал-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "understand#language#",
-    "мэдэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "hit#target#",
-    "буу-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "cut_oneself",
-    "ада-",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Buriat",
-    "get_stuck",
-    "няалда-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "lose#game#",
-    "диил-дэ-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "be_glad",
-    "хүхи-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "speak",
-    "зугаалда-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "give_birth",
-    "түрэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "drop",
-    "унагаа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "govern",
-    "ударида-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "miss",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "follow",
-    "яба-",
-    "NOM",
-    "xojnoha",
-    "Y",
-    "NOM_xojnohoo"
-  ],
-  [
-    "Buriat",
-    "dismount",
-    "буу-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Buriat",
-    "listen",
-    "шагна-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "obey",
-    "шагна-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "hear",
-    "шагна-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "mix",
-    "худха-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "look",
-    "хара-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "take_off",
-    "тайла-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "dream#sleeping#",
-    "зүүдэн-дэ   хара-гда-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Buriat",
-    "agree",
-    "ойлголсо-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "have_a_quarrel",
-    "хэрэлдэ-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Buriat",
-    "cost",
-    "сэн-тэй",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Buriat",
-    "shoot_at",
-    "бууда-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "pour",
-    "адха-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "lose",
-    "гээ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "sink",
-    "шэнгэ-",
-    "NOM",
-    "soo",
-    "Y",
-    "NOM_soo"
-  ],
-  [
-    "Buriat",
-    "kill",
-    "ала-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "hit",
-    "сохи-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "kiss",
-    "таала-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "read",
-    "унша-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "move#bodypart#",
-    "хүдэлгэ-",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Buriat",
-    "respect",
-    "хүндэл-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "be_squeamish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "be_content",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "fall_in_love",
-    "дурла-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "trust",
-    "найда-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "sympathise",
-    "хайрла-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "envy",
-    "атаарха-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "be_angry",
-    "уурла-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "be_surprised",
-    "гайха-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "love#tea#",
-    "дура-тай",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "enjoy",
-    "һонирхо-",
-    "NOM",
-    "INSTR",
-    "Y",
-    "NOM_INSTR"
-  ],
-  [
-    "Buriat",
-    "want",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "have_a_grudge",
-    "уурла-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "take_offence",
-    "янгал-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "upset",
-    "мууд-уул-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Buriat",
-    "marvel",
-    "гайха-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "despise",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "get_upset",
-    "мууда-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "get_irritated",
-    "уурла-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Buriat",
-    "be_fond",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Buriat",
-    "be_shy",
-    "эшэ-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
     "Kalmyk",
     "feel_pain",
     "övd",
@@ -22239,11743 +25749,43 @@ const structuralData = [
     "NOM_ABL"
   ],
   [
-    "Lithuanian",
+    "Khmer",
     "feel_pain",
     "",
-    "DAT",
-    "ACC",
-    "X",
-    "DAT_ACC"
-  ],
-  [
-    "Lithuanian",
-    "have#illness#",
-    "",
-    "NOM ",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "be_afraid",
-    "",
-    "NOM ",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "throw",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "have_enough",
-    "",
-    "DAT",
-    "GEN",
-    "XY",
-    "DAT_GEN"
-  ],
-  [
-    "Lithuanian",
-    "resemble",
-    "",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Lithuanian",
-    "believe",
-    "",
-    "NOM ",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "take",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "see",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "influence",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "encounter",
-    "",
-    "NOM ",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "enter",
-    "",
-    "NOM ",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Lithuanian",
-    "win",
-    "",
-    "NOM ",
-    "priesACC",
-    "Y",
-    "NOM_priesACC"
-  ],
-  [
-    "Lithuanian",
-    "go_out",
-    "",
-    "NOM ",
-    "isGEN",
-    "Y",
-    "NOM_isGEN"
-  ],
-  [
-    "Lithuanian",
-    "drive",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "bend",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "tell",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "hold",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "catch_up",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "milk",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "reach",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "touch",
-    "paliesti",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "fight",
-    "",
-    "NOM",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "be_friends",
-    "",
-    "NOM",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "think",
-    "",
-    "NOM",
-    "apieACC",
-    "Y",
-    "NOM_apieACC"
-  ],
-  [
-    "Lithuanian",
-    "eat",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "fry",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "wait",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "forget",
-    "",
-    "NOM",
-    "apieACC",
-    "Y",
-    "NOM_apieACC"
-  ],
-  [
-    "Lithuanian",
-    "depend",
-    "",
-    "NOM",
-    "nuoGEN",
-    "Y",
-    "NOM_nuoGEN"
-  ],
-  [
-    "Lithuanian",
-    "call",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "get_to_know",
-    "",
-    "NOM",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "know",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "play#instrument#",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "avoid",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "make",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "make_fun",
-    "",
-    "NOM",
-    "isGEN",
-    "Y",
-    "NOM_isGEN"
-  ],
-  [
-    "Lithuanian",
-    "have",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "look_for",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "paint",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "bite",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "forfeit",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "try_to_catch",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "break",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "flatter",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "love#person#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "wave",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "dream",
-    "",
-    "NOM",
-    "apieACC",
-    "Y",
-    "NOM_apieACC"
-  ],
-  [
-    "Lithuanian",
-    "wash",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "put_on",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "be_called",
-    "",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Lithuanian",
-    "punish",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "attack",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "fill#intr#",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "find",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "be_short",
-    "",
-    "DAT",
-    "GEN",
-    "XY",
-    "DAT_GEN"
-  ],
-  [
-    "Lithuanian",
-    "hate",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "like",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Lithuanian",
-    "need",
-    "",
-    "DAT",
-    "GEN",
-    "XY",
-    "DAT_GEN"
-  ],
-  [
-    "Lithuanian",
-    "surround",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "remain",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Lithuanian",
-    "answer",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "open",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "be_different",
-    "",
-    "NOM",
-    "nuoGEN",
-    "Y",
-    "NOM_nuoGEN"
-  ],
-  [
-    "Lithuanian",
-    "fall_behind",
-    "",
-    "NOM",
-    "nuoGEN",
-    "Y",
-    "NOM_nuoGEN"
-  ],
-  [
-    "Lithuanian",
-    "plough",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "smell",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "cross",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "sing",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "write",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "drink",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "melt",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "match",
-    "",
-    "NOM",
-    "prieGEN",
-    "Y",
-    "NOM_prieGEN"
-  ],
-  [
-    "Lithuanian",
-    "leave",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "cover",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "remember",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "help",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "understand#language#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "hit#target#",
-    "",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Lithuanian",
-    "cut_oneself",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "get_stuck",
-    "",
-    "NOM",
-    "prieGEN",
-    "Y",
-    "NOM_prieGEN"
-  ],
-  [
-    "Lithuanian",
-    "lose#game#",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "be_glad",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "speak",
-    "",
-    "NOM",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "give_birth",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "drop",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "govern",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "miss",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "follow",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "dismount",
-    "",
-    "NOM",
-    "nuoGEN",
-    "Y",
-    "NOM_nuoGEN"
-  ],
-  [
-    "Lithuanian",
-    "listen",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "obey",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lithuanian",
-    "hear",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "mix",
-    "",
-    "NOM",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "look",
-    "",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Lithuanian",
-    "take_off",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "dream#sleeping#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "agree",
-    "",
-    "NOM",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "have_a_quarrel",
-    "",
-    "NOM",
-    "suINS",
-    "Y",
-    "NOM_suINS"
-  ],
-  [
-    "Lithuanian",
-    "cost",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "shoot_at",
-    "",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Lithuanian",
-    "pour",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "lose",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "sink",
-    "",
-    "NOM",
-    "iACC",
-    "Y",
-    "NOM_iACC"
-  ],
-  [
-    "Lithuanian",
-    "kill",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "hit",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "kiss",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "read",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "move#bodypart#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "respect",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "be_squeamish",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "be_content",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "fall_in_love",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "trust",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "sympathise",
-    "gaila",
-    "DAT",
-    "GEN",
-    "XY",
-    "DAT_GEN"
-  ],
-  [
-    "Lithuanian",
-    "envy",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "be_angry",
-    "",
-    "NOM ",
-    "antGEN",
-    "Y",
-    "NOM_antGEN"
-  ],
-  [
-    "Lithuanian",
-    "be_surprised",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "love#tea#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "enjoy",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "want",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Lithuanian",
-    "have_a_grudge",
-    "",
-    "NOM",
-    "antGEN",
-    "Y",
-    "NOM_antGEN"
-  ],
-  [
-    "Lithuanian",
-    "take_offence",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lithuanian",
-    "upset",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "marvel",
-    "",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Lithuanian",
-    "despise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lithuanian",
-    "get_upset",
-    "",
-    "NOM",
-    "delGEN",
-    "Y",
-    "NOM_delGEN"
-  ],
-  [
-    "Lithuanian",
-    "get_irritated",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lithuanian",
-    "be_fond",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Lithuanian",
-    "be_shy",
-    "",
-    "NOM",
-    "GEN",
-    "Y",
-    "NOM_GEN"
-  ],
-  [
-    "Greek (modern)",
-    "feel_pain",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Greek (modern)",
-    "have#illness#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (modern)",
-    "be_afraid",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "throw",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "have_enough",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Greek (modern)",
-    "resemble",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "believe",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "take",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "see",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "influence",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "encounter",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "enter",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "win",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "go_out",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "drive",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "bend",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "tell",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "hold",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "catch_up",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "milk",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "reach",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "touch",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "fight",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "be_friends",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (modern)",
-    "think",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "eat",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "fry",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "wait",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "forget",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "depend",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "call",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "get_to_know",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "know",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "play#instrument#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "avoid",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "make",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "make_fun",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "have",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "look_for",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "paint",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "bite",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "forfeit",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Greek (modern)",
-    "try_to_catch",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "break",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "flatter",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "love#person#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "wave",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "dream",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "wash",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "put_on",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "be_called",
-    "",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Greek (modern)",
-    "punish",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "attack",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "fill#intr#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "find",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "be_short",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Greek (modern)",
-    "hate",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "like",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Greek (modern)",
-    "need",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "surround",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "remain",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Greek (modern)",
-    "answer",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "open",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "be_different",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "fall_behind",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "plough",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "smell",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "cross",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "sing",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "write",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "drink",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "melt",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "match",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "leave",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "cover",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "remember",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "help",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "understand#language#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "hit#target#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "cut_oneself",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "get_stuck",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "lose#game#",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "be_glad",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "speak",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "give_birth",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "drop",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "govern",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "miss",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Greek (modern)",
-    "follow",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "dismount",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "listen",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "obey",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "hear",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "mix",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "look",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "take_off",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "dream#sleeping#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "agree",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "have_a_quarrel",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "cost",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "shoot_at",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "pour",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "lose",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "sink",
-    "",
-    "NOM",
-    "seACC",
-    "Y",
-    "NOM_seACC"
-  ],
-  [
-    "Greek (modern)",
-    "kill",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "hit",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "kiss",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "read",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "move#bodypart#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "respect",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "be_squeamish",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "be_content",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "fall_in_love",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "trust",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "sympathise",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "envy",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "be_angry",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "be_surprised",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "love#tea#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "enjoy",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "want",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "have_a_grudge",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "take_offence",
-    "",
-    "NOM",
-    "apoACC",
-    "Y",
-    "NOM_apoACC"
-  ],
-  [
-    "Greek (modern)",
-    "upset",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "marvel",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "despise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "get_upset",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "get_irritated",
-    "",
-    "NOM",
-    "meACC",
-    "Y",
-    "NOM_meACC"
-  ],
-  [
-    "Greek (modern)",
-    "be_fond",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Greek (modern)",
-    "be_shy",
-    "",
-    "NOM",
-    "giaACC",
-    "Y",
-    "NOM_giaACC"
-  ],
-  [
-    "Bengali",
-    "feel_pain",
-    "byāthā karā",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "have#illness#",
-    "haẏ-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "be_afraid",
-    "bhaẙ   pāoẙā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "throw",
-    "chū͂ṛā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "have_enough",
-    "yatheṣṭa āch-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "resemble",
-    "dekh-te mato",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "believe",
-    "biśbās     karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "take",
-    "neoẏā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "see",
-    "dekhā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "influence",
-    "prabhāb   phelā ",
-    "NOM",
-    "GENopar",
-    "Y",
-    "NOM_GENopar"
-  ],
-  [
-    "Bengali",
-    "encounter",
-    "dekhā haoẏā ",
-    "GEN",
-    "GENsange",
-    "XY",
-    "GEN_GENsange"
-  ],
-  [
-    "Bengali",
-    "enter",
-    "ḍhukā ",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "win",
-    "hāriẏe deoẏā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "go_out",
-    "ber/bār haoẏā",
-    "NOM",
-    "theke",
-    "Y",
-    "NOM_theke"
-  ],
-  [
-    "Bengali",
-    "drive",
-    "tāṛāno ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "bend",
-    "bā͂kāno ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "tell",
-    "balā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "hold",
-    "dhare rākhā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "catch_up",
-    "nāgāl dhare phelā ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "milk",
-    "doẙā",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "reach",
-    "pau͂chā ",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "touch",
-    "chū͂ẏe phelā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "fight",
-    "jhagrā karā",
-    "NOM",
-    "GENsange",
-    "Y",
-    "NOM_GENsange"
-  ],
-  [
-    "Bengali",
-    "be_friends",
-    "bandhutba karā",
-    "NOM",
-    "GENsange",
-    "Y",
-    "NOM_GENsange"
-  ],
-  [
-    "Bengali",
-    "think",
-    "bhābā",
-    "NOM",
-    "niye",
-    "Y",
-    "NOM_niye"
-  ],
-  [
-    "Bengali",
-    "eat",
-    "khāoẙā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "fry",
-    "bhājā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "wait",
-    "apekṣā karā",
-    "NOM",
-    "GENjanya",
-    "Y",
-    "NOM_GENjanya"
-  ],
-  [
-    "Bengali",
-    "forget",
-    "bhule yāoẏā",
-    "NOM",
-    "GENkatha",
-    "Y",
-    "NOM_GENkatha"
-  ],
-  [
-    "Bengali",
-    "depend",
-    "nirbhar karā",
-    "NOM",
-    "GENopar",
-    "Y",
-    "NOM_GENopar"
-  ],
-  [
-    "Bengali",
-    "call",
-    "ḍākā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "get_to_know",
-    "paricita haoẙā",
-    "NOM",
-    "GENsange",
-    "Y",
-    "NOM_GENsange"
-  ],
-  [
-    "Bengali",
-    "know",
-    "cenā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "play#instrument#",
-    "bājāno",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "avoid",
-    "eṛiẏe yaoẏā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "make",
-    "bānāno ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "make_fun",
-    "byaṅga karā",
-    "NOM",
-    "niye",
-    "Y",
-    "NOM_niye"
-  ],
-  [
-    "Bengali",
-    "have",
-    "āch-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "look_for",
-    "khu͂jā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "paint",
-    "raṅg karā",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "bite",
-    "kāmṛāno",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "forfeit",
-    "hārāno",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "try_to_catch",
-    "dharā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "break",
-    "bhāṅgā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "flatter",
-    "toṣāmod karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "love#person#",
-    "bhālobāsā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "wave",
-    "nāṛā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "dream",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "wash",
-    "dhuẏe phelā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "put_on",
-    "parā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "be_called",
-    "nām",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "punish",
-    "sājā deoẙā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "attack",
-    "ākraman  karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "fill#intr#",
-    "bhare yāoẏā",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "find",
-    "khu͂je pāoẏā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "be_short",
-    "kam  paṛā ",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "hate",
-    "ghr̥ṇā karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "like",
-    "pachanda",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "need",
-    "darkār ",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Bengali",
-    "surround",
-    "ghire raoẏā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "remain",
-    "raoẏā ",
-    "GENkache",
-    "NOM",
-    "X",
-    "GENkache_NOM"
-  ],
-  [
-    "Bengali",
-    "answer",
-    "uttar deoẙā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "open",
-    "khulā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "be_different",
-    "ālādā ",
-    "NOM",
-    "theke",
-    "Y",
-    "NOM_theke"
-  ],
-  [
-    "Bengali",
-    "fall_behind",
-    "pichiẏe paṛā ",
-    "NOM",
-    "theke",
-    "Y",
-    "NOM_theke"
-  ],
-  [
-    "Bengali",
-    "plough",
-    "lāṅgal deoẏā",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "smell",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "cross",
-    "pār haoẙā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "sing",
-    "gāoẙā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "write",
-    "lekhā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "drink",
-    "kheẏe neoẙā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "melt",
-    "galāno ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "match",
-    "mānāno ",
-    "NOM",
-    "GENsange",
-    "Y",
-    "NOM_GENsange"
-  ],
-  [
-    "Bengali",
-    "leave",
-    "tyāg  karā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "cover",
-    "juṛe raoẙā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "remember",
-    "mane karte pārā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "help",
-    "sāhāyya karā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "understand#language#",
-    "bujhā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "hit#target#",
-    "paṛā",
-    "NOM",
-    "GENopar",
-    "Y",
-    "NOM_GENopar"
-  ],
-  [
-    "Bengali",
-    "cut_oneself",
-    "keṭe phelā",
-    "NOM",
-    "diye",
-    "Y",
-    "NOM_diye"
-  ],
-  [
-    "Bengali",
-    "get_stuck",
-    "āṭke yāoẏā",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "lose#game#",
-    "here yāoẏā",
-    "NOM",
-    "GENkache",
-    "Y",
-    "NOM_GENkache"
-  ],
-  [
-    "Bengali",
-    "be_glad",
-    "khuśi haoẙā",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "speak",
-    "kathā balā",
-    "NOM",
-    "GENsange",
-    "Y",
-    "NOM_GENsange"
-  ],
-  [
-    "Bengali",
-    "give_birth",
-    "janma deoẙā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "drop",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "govern",
-    "paricālanā karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "miss",
-    "man keman karā  ",
-    "GEN",
-    "GENjanya",
-    "XY",
-    "GEN_GENjanya"
-  ],
-  [
-    "Bengali",
-    "follow",
-    "anusaran karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "dismount",
-    "nāmā",
-    "NOM",
-    "theke",
-    "Y",
-    "NOM_theke"
-  ],
-  [
-    "Bengali",
-    "listen",
-    "śunā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "obey",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "hear",
-    "śunte pāoẏā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "mix",
-    "miśe yāoẏā",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "look",
-    "tākiẙe āch-",
-    "NOM",
-    "GENdike",
-    "Y",
-    "NOM_GENdike"
-  ],
-  [
-    "Bengali",
-    "take_off",
-    "khule phelā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "dream#sleeping#",
-    "sbapne dekhā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "agree",
-    "ekmat haoẙā ",
-    "NOM",
-    "GENsange",
-    "Y",
-    "NOM_GENsange"
-  ],
-  [
-    "Bengali",
-    "have_a_quarrel",
-    "jhagṛā karā ",
-    "NOM",
-    "GENsange",
-    "Y",
-    "NOM_GENsange"
-  ],
-  [
-    "Bengali",
-    "cost",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "shoot_at",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "pour",
-    "ḍhālā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "lose",
-    "hāriẙe phelā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "sink",
-    "ḍube yāoẏā",
-    "NOM",
-    "LOC/INS",
-    "Y",
-    "NOM_LOC/INS"
-  ],
-  [
-    "Bengali",
-    "kill",
-    "khun karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "hit",
-    "mārā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "kiss",
-    "cumban karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "read",
-    "paṛā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "move#bodypart#",
-    "nāṛāno ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "respect",
-    "śraddhā karā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "be_squeamish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "be_content",
-    "khuśi (haoẙā)",
-    "NOM",
-    "niye",
-    "Y",
-    "NOM_niye"
-  ],
-  [
-    "Bengali",
-    "fall_in_love",
-    "prem-e paṛ-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "trust",
-    "biśbās karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "sympathise",
-    "anubhab karā",
-    "NOM",
-    "GENjanya",
-    "Y",
-    "NOM_GENjanya"
-  ],
-  [
-    "Bengali",
-    "envy",
-    "īrṣā karā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "be_angry",
-    "rāg (prakāś) karā",
-    "NOM",
-    "GENopar",
-    "Y",
-    "NOM_GENopar"
-  ],
-  [
-    "Bengali",
-    "be_surprised",
-    "āścarya (haoẙā) ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "love#tea#",
-    "pachanda karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "enjoy",
-    "upabhog karā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "want",
-    "cāoẏā",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "have_a_grudge",
-    "rāg karā ",
-    "NOM",
-    "GENopar",
-    "Y",
-    "NOM_GENopar"
-  ],
-  [
-    "Bengali",
-    "take_offence",
-    "abhimān karā",
-    "NOM",
-    "GENopar",
-    "Y",
-    "NOM_GENopar"
-  ],
-  [
-    "Bengali",
-    "upset",
-    "duḥkha deoẙā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "marvel",
-    "tāṛita haoẙā ",
-    "NOM",
-    "theke",
-    "Y",
-    "NOM_theke"
-  ],
-  [
-    "Bengali",
-    "despise",
-    "abajñā karā ",
-    "NOM",
-    "OBJ~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Bengali",
-    "get_upset",
-    "duḥkha pāoẏā ",
-    "NOM",
-    "GENjanya",
-    "Y",
-    "NOM_GENjanya"
-  ],
-  [
-    "Bengali",
-    "get_irritated",
-    "kṣepe uṭhā",
-    "NOM",
-    "GENopar",
-    "Y",
-    "NOM_GENopar"
-  ],
-  [
-    "Bengali",
-    "be_fond",
-    "sambyāthī (haoẙā) ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Bengali",
-    "be_shy",
-    "saṁkoc bodh karā",
-    "NOM",
-    "niye",
-    "Y",
-    "NOM_niye"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "feel_pain",
-    "",
-    "AD",
-    "PART",
-    "XY",
-    "AD_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "have#illness#",
-    "",
-    "NOM",
-    "AD",
-    "Y",
-    "NOM_AD"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_afraid",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "throw",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "have_enough",
-    "",
-    "ALL",
-    "PART",
-    "XY",
-    "ALL_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "resemble",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "believe",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "take",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "see",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "influence",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "encounter",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "enter",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "win",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "go_out",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "drive",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "bend",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "tell",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "hold",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "catch_up",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "milk",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "reach",
-    "",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "touch",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "fight",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_friends",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "think",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "eat",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "fry",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "wait",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "forget",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "depend",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "call",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "get_to_know",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "know",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "play#instrument#",
-    "",
-    "NOM",
-    "AD",
-    "Y",
-    "NOM_AD"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "avoid",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "make",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "make_fun",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "have",
-    "",
-    "AD",
-    "NOM",
-    "X",
-    "AD_NOM"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "look_for",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "paint",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "bite",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "forfeit",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "try_to_catch",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "break",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "flatter",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "love#person#",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "wave",
-    "",
-    "NOM",
-    "AD",
-    "Y",
-    "NOM_AD"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "dream",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "wash",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "put_on",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_called",
-    "",
-    "NOM",
-    "TRL",
-    "Y",
-    "NOM_TRL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "punish",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "attack",
-    "",
-    "NOM",
-    "GENpialle",
-    "Y",
-    "NOM_GENpialle"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "fill#intr#",
-    "",
-    "NOM",
-    "AD",
-    "Y",
-    "NOM_AD"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "find",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_short",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "hate",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "like",
-    "",
-    "ALL",
-    "NOM",
-    "X",
-    "ALL_NOM"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "need",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "surround",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "remain",
-    "",
-    "AD",
-    "NOM",
-    "X",
-    "AD_NOM"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "answer",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "open",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_different",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "fall_behind",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "plough",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "smell",
-    "",
-    "NOM",
-    "AD",
-    "Y",
-    "NOM_AD"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "cross",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "sing",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "write",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "drink",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "melt",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "match",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "leave",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "cover",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "remember",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "help",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "understand#language#",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "hit#target#",
-    "",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "cut_oneself",
-    "",
-    "NOM",
-    "AD",
-    "Y",
-    "NOM_AD"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "get_stuck",
-    "",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "lose#game#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_glad",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "speak",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "give_birth",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "drop",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "govern",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "miss",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "follow",
-    "",
-    "NOM",
-    "GENjalest",
-    "Y",
-    "NOM_GENjalest"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "dismount",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "listen",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "obey",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "hear",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "mix",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "look",
-    "",
-    "NOM",
-    "GENpialle",
-    "Y",
-    "NOM_GENpialle"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "take_off",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "dream#sleeping#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "agree",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "have_a_quarrel",
-    "",
-    "NOM",
-    "GENkans",
-    "Y",
-    "NOM_GENkans"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "cost",
-    "",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "shoot_at",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "pour",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "lose",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "sink",
-    "",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "kill",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "hit",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "kiss",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "read",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "move#bodypart#",
-    "",
-    "NOM",
-    "AD",
-    "Y",
-    "NOM_AD"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "respect",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_squeamish",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_content",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "fall_in_love",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "trust",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "sympathise",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "envy",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_angry",
-    "",
-    "NOM",
-    "GENpialle",
-    "Y",
-    "NOM_GENpialle"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_surprised",
-    "",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "love#tea#",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "enjoy",
-    "",
-    "NOM",
-    "EL",
-    "Y",
-    "NOM_EL"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "want",
-    "",
-    "NOM",
-    "GEN~PART~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "have_a_grudge",
-    "",
-    "NOM",
-    "GENpialle",
-    "Y",
-    "NOM_GENpialle"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "take_offence",
-    "",
-    "NOM",
-    "GENpialle",
-    "Y",
-    "NOM_GENpialle"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "upset",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "marvel",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "despise",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "get_upset",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "get_irritated",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_fond",
-    "",
-    "NOM",
-    "GENkohta",
-    "Y",
-    "NOM_GENkohta"
-  ],
-  [
-    "Finnish (Ingrian)",
-    "be_shy",
-    "",
-    "NOM",
-    "PART",
-    "Y",
-    "NOM_PART"
-  ],
-  [
-    "Lezgian",
-    "feel_pain",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "have#illness#",
-    "",
-    "SBESS",
-    "ABS",
-    "X",
-    "SBESS_ABS"
-  ],
-  [
-    "Lezgian",
-    "be_afraid",
-    "",
-    "DAT",
-    "POEL",
-    "XY",
-    "DAT_POEL"
-  ],
-  [
-    "Lezgian",
-    "throw",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "have_enough",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "resemble",
-    "",
-    "ABS",
-    "DAT",
-    "Y",
-    "ABS_DAT"
-  ],
-  [
-    "Lezgian",
-    "believe",
-    "",
-    "ABS",
-    "POESS",
-    "Y",
-    "ABS_POESS"
-  ],
-  [
-    "Lezgian",
-    "take",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "see",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "influence",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "encounter",
-    "",
-    "ABS",
-    "SRESS",
-    "Y",
-    "ABS_SRESS"
-  ],
-  [
-    "Lezgian",
-    "enter",
-    "",
-    "ABS",
-    "DAT",
-    "Y",
-    "ABS_DAT"
-  ],
-  [
-    "Lezgian",
-    "win",
-    "",
-    "ERG",
-    "ADEL",
-    "Y",
-    "ERG_ADEL"
-  ],
-  [
-    "Lezgian",
-    "go_out",
-    "",
-    "ABS",
-    "INEL",
-    "Y",
-    "ABS_INEL"
-  ],
-  [
-    "Lezgian",
-    "drive",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "bend",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "tell",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "hold",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "catch_up",
-    "",
-    "ERG",
-    "ADESS",
-    "Y",
-    "ERG_ADESS"
-  ],
-  [
-    "Lezgian",
-    "milk",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "reach",
-    "",
-    "ABS",
-    "ADESS",
-    "Y",
-    "ABS_ADESS"
-  ],
-  [
-    "Lezgian",
-    "touch",
-    "",
-    "ERG",
-    "SBESS",
-    "Y",
-    "ERG_SBESS"
-  ],
-  [
-    "Lezgian",
-    "fight",
-    "",
-    "ABS",
-    "POESSgalaz",
-    "Y",
-    "ABS_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "be_friends",
-    "",
-    "ERG",
-    "POESSgalaz",
-    "Y",
-    "ERG_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "think",
-    "",
-    "ERG",
-    "SBEL",
-    "Y",
-    "ERG_SBEL"
-  ],
-  [
-    "Lezgian",
-    "eat",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "fry",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "wait",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "forget",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "depend",
-    "",
-    "ABS",
-    "SREL",
-    "Y",
-    "ABS_SREL"
-  ],
-  [
-    "Lezgian",
-    "call",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "get_to_know",
-    "",
-    "ABS",
-    "POESSgalaz",
-    "Y",
-    "ABS_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "know",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "play#instrument#",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "avoid",
-    "",
-    "ERG",
-    "SBEL",
-    "Y",
-    "ERG_SBEL"
-  ],
-  [
-    "Lezgian",
-    "make",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "make_fun",
-    "",
-    "ERG",
-    "SBEL",
-    "Y",
-    "ERG_SBEL"
-  ],
-  [
-    "Lezgian",
-    "have",
-    "",
-    "POESS",
-    "ABS",
-    "X",
-    "POESS_ABS"
-  ],
-  [
-    "Lezgian",
-    "look_for",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "paint",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "bite",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "forfeit",
-    "",
-    "ABS",
-    "SBEL",
-    "Y",
-    "ABS_SBEL"
-  ],
-  [
-    "Lezgian",
-    "try_to_catch",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "break",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "flatter",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "love#person#",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "wave",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "dream",
-    "",
-    "ERG",
-    "SBEL",
-    "Y",
-    "ERG_SBEL"
-  ],
-  [
-    "Lezgian",
-    "wash",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "put_on",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "be_called",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "punish",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "attack",
-    "",
-    "ERG",
-    "SRESS",
-    "Y",
-    "ERG_SRESS"
-  ],
-  [
-    "Lezgian",
-    "fill#intr#",
-    "",
-    "ABS",
-    "ADESS",
-    "Y",
-    "ABS_ADESS"
-  ],
-  [
-    "Lezgian",
-    "find",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "be_short",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "hate",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "like",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "need",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "surround",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "remain",
-    "",
-    "POESS",
-    "ABS",
-    "X",
-    "POESS_ABS"
-  ],
-  [
-    "Lezgian",
-    "answer",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "open",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "be_different",
-    "",
-    "ABS",
-    "SREL",
-    "Y",
-    "ABS_SREL"
-  ],
-  [
-    "Lezgian",
-    "fall_behind",
-    "",
-    "ABS",
-    "SREL",
-    "Y",
-    "ABS_SREL"
-  ],
-  [
-    "Lezgian",
-    "plough",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "smell",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "cross",
-    "",
-    "ABS",
-    "SREL",
-    "Y",
-    "ABS_SREL"
-  ],
-  [
-    "Lezgian",
-    "sing",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "write",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "drink",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "melt",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "match",
-    "",
-    "ABS",
-    "POESSgalaz",
-    "Y",
-    "ABS_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "leave",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "cover",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "remember",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "help",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "understand#language#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "hit#target#",
-    "",
-    "ABS",
-    "POESS",
-    "Y",
-    "ABS_POESS"
-  ],
-  [
-    "Lezgian",
-    "cut_oneself",
-    "",
-    "ABS",
-    "ERG",
-    "Y",
-    "ABS_ERG"
-  ],
-  [
-    "Lezgian",
-    "get_stuck",
-    "",
-    "ABS",
-    "SRESS",
-    "Y",
-    "ABS_SRESS"
-  ],
-  [
-    "Lezgian",
-    "lose#game#",
-    "",
-    "ABS",
-    "DAT",
-    "Y",
-    "ABS_DAT"
-  ],
-  [
-    "Lezgian",
-    "be_glad",
-    "",
-    "ABS",
-    "DAT",
-    "Y",
-    "ABS_DAT"
-  ],
-  [
-    "Lezgian",
-    "speak",
-    "",
-    "ABS",
-    "POESSgalaz",
-    "Y",
-    "ABS_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "give_birth",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "drop",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "govern",
-    "",
-    "ERG",
-    "SRESS",
-    "Y",
-    "ERG_SRESS"
-  ],
-  [
-    "Lezgian",
-    "miss",
-    "",
-    "ABS",
-    "POESS",
-    "Y",
-    "ABS_POESS"
-  ],
-  [
-    "Lezgian",
-    "follow",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "dismount",
-    "",
-    "ABS",
-    "SREL",
-    "Y",
-    "ABS_SREL"
-  ],
-  [
-    "Lezgian",
-    "listen",
-    "",
-    "ERG",
-    "POESS",
-    "Y",
-    "ERG_POESS"
-  ],
-  [
-    "Lezgian",
-    "obey",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "hear",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "mix",
-    "",
-    "ABS",
-    "POESSgalaz",
-    "Y",
-    "ABS_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "look",
-    "",
-    "ABS",
-    "DAT",
-    "Y",
-    "ABS_DAT"
-  ],
-  [
-    "Lezgian",
-    "take_off",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "dream#sleeping#",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "agree",
-    "",
-    "ABS",
-    "POESSgalaz",
-    "Y",
-    "ABS_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "have_a_quarrel",
-    "",
-    "ABS",
-    "POESSgalaz",
-    "Y",
-    "ABS_POESSgalaz"
-  ],
-  [
-    "Lezgian",
-    "cost",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "shoot_at",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "pour",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "lose",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "sink",
-    "",
-    "ABS",
-    "INESS",
-    "Y",
-    "ABS_INESS"
-  ],
-  [
-    "Lezgian",
-    "kill",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "hit",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "kiss",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "read",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "move#bodypart#",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "respect",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "be_squeamish",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "be_content",
-    "",
-    "ABS",
-    "SREL",
-    "Y",
-    "ABS_SREL"
-  ],
-  [
-    "Lezgian",
-    "fall_in_love",
-    "",
-    "ABS",
-    "SRESS",
-    "Y",
-    "ABS_SRESS"
-  ],
-  [
-    "Lezgian",
-    "trust",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "sympathise",
-    "",
-    "ERG",
-    "DAT",
-    "Y",
-    "ERG_DAT"
-  ],
-  [
-    "Lezgian",
-    "envy",
-    "",
-    "ABS",
-    "SRESS",
-    "Y",
-    "ABS_SRESS"
-  ],
-  [
-    "Lezgian",
-    "be_angry",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "be_surprised",
-    "",
-    "ABS",
-    "SRESS",
-    "Y",
-    "ABS_SRESS"
-  ],
-  [
-    "Lezgian",
-    "love#tea#",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "enjoy",
-    "",
-    "ERG",
-    "SBEL",
-    "Y",
-    "ERG_SBEL"
-  ],
-  [
-    "Lezgian",
-    "want",
-    "",
-    "DAT",
-    "ABS",
-    "X",
-    "DAT_ABS"
-  ],
-  [
-    "Lezgian",
-    "have_a_grudge",
-    "",
-    "DAT",
-    "SBEL",
-    "XY",
-    "DAT_SBEL"
-  ],
-  [
-    "Lezgian",
-    "take_offence",
-    "",
-    "ABS",
-    "SREL",
-    "Y",
-    "ABS_SREL"
-  ],
-  [
-    "Lezgian",
-    "upset",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "marvel",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "despise",
-    "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
-  ],
-  [
-    "Lezgian",
-    "get_upset",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "get_irritated",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Lezgian",
-    "be_fond",
-    "",
-    "DAT",
-    "SBEL",
-    "XY",
-    "DAT_SBEL"
-  ],
-  [
-    "Lezgian",
-    "be_shy",
-    "",
-    "DAT",
-    "SBEL",
-    "XY",
-    "DAT_SBEL"
-  ],
-  [
-    "Moksha",
-    "feel_pain",
-    "s'ɛr'ɛd'-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Moksha",
-    "have#illness#",
-    "s'ɛr'ɛd'-",
-    "NOM",
-    "IN/marxta",
-    "Y",
-    "NOM_IN/marxta"
-  ],
-  [
-    "Moksha",
-    "be_afraid",
-    "pel'-",
-    "NOM",
-    "ABL/ezda",
-    "Y",
-    "NOM_ABL/ezda"
-  ],
-  [
-    "Moksha",
-    "throw",
-    "jorda-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "have_enough",
-    "sat-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Moksha",
-    "resemble",
-    "paxožaj",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "believe",
-    "ver'anda-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Moksha",
-    "take",
-    "s'ɛv-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "see",
-    "n'ɛj-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "influence",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "encounter",
-    "karšə vast-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "enter",
-    "suva-",
-    "NOM",
-    "LAT/DAT",
-    "Y",
-    "NOM_LAT/DAT"
-  ],
-  [
-    "Moksha",
-    "win",
-    "nal̥kə-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "go_out",
-    "l'is'-",
-    "NOM",
-    "EL/ezda",
-    "Y",
-    "NOM_EL/ezda"
-  ],
-  [
-    "Moksha",
-    "drive",
-    "pan'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "bend",
-    "mɛnd'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "tell",
-    "mɛr'g-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Moksha",
-    "hold",
-    "kird'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "catch_up",
-    "sat-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "milk",
-    "pot'a-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "reach",
-    "pačkəd'-",
-    "NOM",
-    "ILL/DAT",
-    "Y",
-    "NOM_ILL/DAT"
-  ],
-  [
-    "Moksha",
-    "touch",
-    "n'ežəčn'ə-",
-    "NOM",
-    "ILL/DAT",
-    "Y",
-    "NOM_ILL/DAT"
-  ],
-  [
-    "Moksha",
-    "fight",
-    "t'ur'-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "be_friends",
-    "lad'a-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "think",
-    "dumanda-",
-    "NOM",
-    "kolga",
-    "Y",
-    "NOM_kolga"
-  ],
-  [
-    "Moksha",
-    "eat",
-    "sev-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "fry",
-    "žar'ənda-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "wait",
-    "uč-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "forget",
-    "juksta-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "depend",
-    "zavis'anda-",
-    "NOM",
-    "EL/ezda",
-    "Y",
-    "NOM_EL/ezda"
-  ],
-  [
-    "Moksha",
-    "call",
-    "t'erd'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "get_to_know",
-    "znakomanda-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "know",
-    "soda-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "play#instrument#",
-    "mora-",
-    "NOM",
-    "IN/marxta",
-    "Y",
-    "NOM_IN/marxta"
-  ],
-  [
-    "Moksha",
-    "avoid",
-    "kɛš-",
-    "NOM",
-    "ABL/ezda",
-    "Y",
-    "NOM_ABL/ezda"
-  ],
-  [
-    "Moksha",
-    "make",
-    "t'i-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "make_fun",
-    "rax-",
-    "NOM",
-    "lanksa",
-    "Y",
-    "NOM_lanksa"
-  ],
-  [
-    "Moksha",
-    "have",
-    "ul'-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Moksha",
-    "look_for",
-    "viš-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "paint",
-    "ar̥t-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "bite",
-    "susk-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "forfeit",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "try_to_catch",
-    "kunda-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "break",
-    "s'ind'ə-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "flatter",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "love#person#",
-    "kel'g-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "wave",
-    "jafijə-",
-    "NOM",
-    "IN/marxta",
-    "Y",
-    "NOM_IN/marxta"
-  ],
-  [
-    "Moksha",
-    "dream",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "wash",
-    "šta-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "put_on",
-    "šča-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "be_called",
-    "mɛr'g-",
-    "DAT",
-    "NOM(NO.AGR)",
-    "XY",
-    "DAT_NOM(NO.AGR)"
-  ],
-  [
-    "Moksha",
-    "punish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "attack",
-    "vər'gɛt'-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "fill#intr#",
-    "pɛškəd'-",
-    "NOM",
-    "ABL/ezda",
-    "Y",
-    "NOM_ABL/ezda"
-  ],
-  [
-    "Moksha",
-    "find",
-    "mu-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "be_short",
-    "af sat-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Moksha",
-    "hate",
-    "NEG + n'ɛj-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "like",
-    "mɛl'-əzə-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "need",
-    "er'av-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Moksha",
-    "surround",
-    "kruža-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "remain",
-    "lad'-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Moksha",
-    "answer",
-    "atveča-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Moksha",
-    "open",
-    "pan'ž-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "be_different",
-    "l'ijɛ",
-    "NOM",
-    "ABL/ezda",
-    "Y",
-    "NOM_ABL/ezda"
-  ],
-  [
-    "Moksha",
-    "fall_behind",
-    "lad'-",
-    "NOM",
-    "ABL/ezda",
-    "Y",
-    "NOM_ABL/ezda"
-  ],
-  [
-    "Moksha",
-    "plough",
-    "soka-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "smell",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "cross",
-    "jota-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "sing",
-    "mora-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "write",
-    "s'ormad'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "drink",
-    "s'imə-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "melt",
-    "šɛn'a-ft-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "match",
-    "lad'a-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Moksha",
-    "leave",
-    "kad-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "cover",
-    "aca-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "remember",
-    "mɛl'aft-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "help",
-    "l'ezd'-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Moksha",
-    "understand#language#",
-    "šar̥'kəd'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "hit#target#",
-    "pov-",
-    "NOM",
-    "ILL/DAT",
-    "Y",
-    "NOM_ILL/DAT"
-  ],
-  [
-    "Moksha",
-    "cut_oneself",
-    "kerə-v-",
-    "NOM",
-    "IN/marxta",
-    "Y",
-    "NOM_IN/marxta"
-  ],
-  [
-    "Moksha",
-    "get_stuck",
-    "ped'-",
-    "NOM",
-    "ILL/DAT",
-    "Y",
-    "NOM_ILL/DAT"
-  ],
-  [
-    "Moksha",
-    "lose#game#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "be_glad",
-    "ken'ɛr'd'-",
-    "NOM",
-    "ILL/DAT",
-    "Y",
-    "NOM_ILL/DAT"
-  ],
-  [
-    "Moksha",
-    "speak",
-    "kor̥-n'-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "give_birth",
-    "šač-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "drop",
-    "pra-ft-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "govern",
-    "azərənda-",
-    "NOM",
-    "lanksa",
-    "Y",
-    "NOM_lanksa"
-  ],
-  [
-    "Moksha",
-    "miss",
-    "skučənda-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Moksha",
-    "follow",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "dismount",
-    "valg-",
-    "NOM",
-    "lanksta",
-    "Y",
-    "NOM_lanksta"
-  ],
-  [
-    "Moksha",
-    "listen",
-    "kul̥cənd-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "obey",
-    "kul̥cənd-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "hear",
-    "kul'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "mix",
-    "šor'a-v-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "look",
-    "van-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "take_off",
-    "kaja-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "dream#sleeping#",
-    "n'ɛj- onсtənzə",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "agree",
-    "soglas'ənda-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "have_a_quarrel",
-    "kɛžija-",
-    "NOM",
-    "marxta",
-    "Y",
-    "NOM_marxta"
-  ],
-  [
-    "Moksha",
-    "cost",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "shoot_at",
-    "l'ɛc'-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "pour",
-    "kaja-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "lose",
-    "juma-ft-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "sink",
-    "vaja-",
-    "NOM",
-    "ILL/DAT",
-    "Y",
-    "NOM_ILL/DAT"
-  ],
-  [
-    "Moksha",
-    "kill",
-    "šav-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "hit",
-    "kaja-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "kiss",
-    "pala-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "read",
-    "luv-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "move#bodypart#",
-    "šer'ft'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "respect",
-    "uvažanda-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "be_squeamish",
-    "n'il'gəd'-",
-    "NOM",
-    "ABL/ezda",
-    "Y",
-    "NOM_ABL/ezda"
-  ],
-  [
-    "Moksha",
-    "be_content",
-    "davol'naj",
-    "NOM",
-    "ezda",
-    "Y",
-    "NOM_ezda"
-  ],
-  [
-    "Moksha",
-    "fall_in_love",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "trust",
-    "nad'ija-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "sympathise",
-    "užɛl'də-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "envy",
-    "s'elməd'-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "be_angry",
-    "kɛžija-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "be_surprised",
-    "d'ivanda-",
-    "NOM",
-    "ILL/DAT",
-    "Y",
-    "NOM_ILL/DAT"
-  ],
-  [
-    "Moksha",
-    "love#tea#",
-    "kel'g-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "enjoy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "want",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "have_a_grudge",
-    "kɛžija-fn' ",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "take_offence",
-    "obža-v-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "upset",
-    "kɛžija-ftə-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "marvel",
-    "d'ivanda-f",
-    "NOM",
-    "IN/marxta",
-    "Y",
-    "NOM_IN/marxta"
-  ],
-  [
-    "Moksha",
-    "despise",
-    "pr'ez'iranda-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Moksha",
-    "get_upset",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "get_irritated",
-    "kɛžija-fn'-",
-    "NOM",
-    "lanks",
-    "Y",
-    "NOM_lanks"
-  ],
-  [
-    "Moksha",
-    "be_fond",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Moksha",
-    "be_shy",
-    "vizd'-",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "feel_pain",
-    "ыалдь-",
-    "POSS",
-    "NOM",
-    "X",
-    "POSS_NOM"
-  ],
-  [
-    "Yakut",
-    "have#illness#",
-    "ыалдь-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Yakut",
-    "be_afraid",
-    "куттан-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "throw",
-    "бырах-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "have_enough",
-    "тиий-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Yakut",
-    "resemble",
-    "майгынны-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "believe",
-    "итэҕэй-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "take",
-    "ыл-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "see",
-    "көр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "influence",
-    "дьай-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "encounter",
-    "көр-сү-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "enter",
-    "киир-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "win",
-    "кыай-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "go_out",
-    "таҕыс",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "drive",
-    "үүр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "bend",
-    "токуру-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "tell",
-    "эп-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "hold",
-    "тут-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "catch_up",
-    "сит-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "milk",
-    "ыа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "reach",
-    "тиий-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "touch",
-    "таарый-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "fight",
-    "охсу-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Yakut",
-    "be_friends",
-    "доҕордоһо-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Yakut",
-    "think",
-    "толкуй-",
-    "NOM",
-    "tuhunan",
-    "Y",
-    "NOM_tuhunan "
-  ],
-  [
-    "Yakut",
-    "eat",
-    "сиэ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "fry",
-    "ыһаары-лаа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "wait",
-    "кэтэһ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "forget",
-    "умну-",
-    "NOM",
-    "tuhunan",
-    "Y",
-    "NOM_tuhunan "
-  ],
-  [
-    "Yakut",
-    "depend",
-    "тутулук-таах",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "call",
-    "ыҥыр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "get_to_know",
-    "билсис-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Yakut",
-    "know",
-    "бил-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "play#instrument#",
-    "ооньоо-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "avoid",
-    "куотун-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "make",
-    "оҥор",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "make_fun",
-    "күлүү гын-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "have",
-    "0",
-    "NOM",
-    "ADJ",
-    "Y",
-    "NOM_ADJ"
-  ],
-  [
-    "Yakut",
-    "look_for",
-    "көрд-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "paint",
-    "кырааскалаа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "bite",
-    "ытыр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "forfeit",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Yakut",
-    "try_to_catch",
-    "тут-а сат-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Yakut",
-    "break",
-    "алдьап-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "flatter",
-    "албынна-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "love#person#",
-    "тап-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "wave",
-    "далбаа-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Yakut",
-    "dream",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Yakut",
-    "wash",
-    "сууй-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "put_on",
-    "кэп-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "be_called",
-    "дэн-",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Yakut",
-    "punish",
-    "кэһэт-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "attack",
-    "саб-а түс-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "fill#intr#",
-    "туол-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Yakut",
-    "find",
-    "бул-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "be_short",
-    "тиий-NEG",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Yakut",
-    "hate",
-    "абааһы көр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "like",
-    "сөбүл-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "need",
-    "наадый-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "surround",
-    "тулалыы-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "remain",
-    "хаал-",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Yakut",
-    "answer",
-    "эппиэттээ-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "open",
-    "арый-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "be_different",
-    "атын",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "fall_behind",
-    "хаал-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "plough",
-    "хорут-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "smell",
-    "сыт-таах",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Yakut",
-    "cross",
-    "туораа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "sing",
-    "ыллаа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "write",
-    "суруй-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "drink",
-    "ис-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "melt",
-    "ууллар-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "match",
-    "барсар",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "leave",
-    "бар",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "cover",
-    "саб",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "remember",
-    "өйд-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "help",
-    "көмөлөс",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "understand#language#",
-    "өйд-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "hit#target#",
-    "оҕус-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "cut_oneself",
-    "(быһ-а соп-пут)",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Yakut",
-    "get_stuck",
-    "(сысты-быт)",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "lose#game#",
-    "хоттор-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "be_glad",
-    "үөр-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "speak",
-    "кэпсэт-э олор-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Yakut",
-    "give_birth",
-    "төрө-т-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "drop",
-    "түһэр",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "govern",
-    "салай-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Yakut",
-    "miss",
-    "аҕын-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "follow",
-    "батыс-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "dismount",
-    "тус-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "listen",
-    "иһит-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "obey",
-    "иһит-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Yakut",
-    "hear",
-    "иһит-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "mix",
-    "буккуллу-",
-    "NOM",
-    "kytta",
-    "Y",
-    "NOM_kytta"
-  ],
-  [
-    "Yakut",
-    "look",
-    "кэтээ-н көр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "take_off",
-    "уһул-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "dream#sleeping#",
-    "түһээ-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "agree",
-    "сөбүлэ-с-",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Yakut",
-    "have_a_quarrel",
-    "эт-ис",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Yakut",
-    "cost",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Yakut",
-    "shoot_at",
-    "ыт-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "pour",
-    "кут-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "lose",
-    "сүт-эр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "sink",
-    "тимир-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "kill",
-    "өл-өр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "hit",
-    "саай-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "kiss",
-    "сыллаа-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "read",
-    "аах-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "move#bodypart#",
-    "хамса-т-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "respect",
-    "убаастаа",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "be_squeamish",
-    "сиргэн-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "be_content",
-    "киэн тутт-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Yakut",
-    "fall_in_love",
-    "астын-а көр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "trust",
-    "итэҕэй-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "sympathise",
-    "аһын-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "envy",
-    "ордугург-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "be_angry",
-    "кыыһыр-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "be_surprised",
-    "соһуй-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "love#tea#",
-    "сөбүл-",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Yakut",
-    "enjoy",
-    "дуоһуй-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Yakut",
-    "want",
-    "баҕар-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "have_a_grudge",
-    "кыыһыр-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "take_offence",
-    "хоргу-т-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Yakut",
-    "upset",
-    "хомот-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "marvel",
-    "сөх-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "despise",
-    "абааһы көр-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "get_upset",
-    "хомой-",
-    "NOM",
-    "syltaan",
-    "Y",
-    "NOM_syltaan"
-  ],
-  [
-    "Yakut",
-    "get_irritated",
-    "кыйахан-",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Yakut",
-    "be_fond",
-    "сөбүл-",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Yakut",
-    "be_shy",
-    "кыбыhын-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "feel_pain",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Tuvinian",
-    "have#illness#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Tuvinian",
-    "be_afraid",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "throw",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "have_enough",
-    "",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Tuvinian",
-    "resemble",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "believe",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "take",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "see",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "influence",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "encounter",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "enter",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "win",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "go_out",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "drive",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "bend",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "tell",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "hold",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "catch_up",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "milk",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "reach",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "touch",
-    "",
-    "NOM",
-    "LOC",
-    "Y",
-    "NOM_LOC"
-  ],
-  [
-    "Tuvinian",
-    "fight",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "be_friends",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "think",
-    "",
-    "NOM",
-    "GENdugajynda",
-    "Y",
-    "NOM_GENdugajynda"
-  ],
-  [
-    "Tuvinian",
-    "eat",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "fry",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "wait",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "forget",
-    "",
-    "NOM",
-    "GENdugajynda",
-    "Y",
-    "NOM_GENdugajynda"
-  ],
-  [
-    "Tuvinian",
-    "depend",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "call",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "get_to_know",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "know",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "play#instrument#",
-    "",
-    "NOM",
-    "LOC",
-    "Y",
-    "NOM_LOC"
-  ],
-  [
-    "Tuvinian",
-    "avoid",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "make",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "make_fun",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "have",
-    "",
-    "LOC",
-    "NOM",
-    "X",
-    "LOC_NOM"
-  ],
-  [
-    "Tuvinian",
-    "look_for",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "paint",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "bite",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "forfeit",
-    "",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Tuvinian",
-    "try_to_catch",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "break",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "flatter",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "love#person#",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "wave",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "dream",
-    "",
-    "NOM",
-    "GENdugajynda",
-    "Y",
-    "NOM_GENdugajynda"
-  ],
-  [
-    "Tuvinian",
-    "wash",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "put_on",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "be_called",
-    "",
-    "ACC",
-    "NOM(NO.AGR)",
-    "XY",
-    "ACC_NOM(NO.AGR)"
-  ],
-  [
-    "Tuvinian",
-    "punish",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "attack",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "fill#intr#",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "find",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "be_short",
-    "",
-    "DAT",
-    "NOM(NO.AGR)",
-    "XY",
-    "DAT_NOM(NO.AGR)"
-  ],
-  [
-    "Tuvinian",
-    "hate",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "like",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Tuvinian",
-    "need",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Tuvinian",
-    "surround",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "remain",
-    "",
-    "LOC",
-    "NOM",
-    "X",
-    "LOC_NOM"
-  ],
-  [
-    "Tuvinian",
-    "answer",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "open",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "be_different",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "fall_behind",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "plough",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "smell",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "cross",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "sing",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "write",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "drink",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "melt",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "match",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "leave",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "cover",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "remember",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "help",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "understand#language#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "hit#target#",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "cut_oneself",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "get_stuck",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "lose#game#",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "be_glad",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "speak",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "give_birth",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "drop",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "govern",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "miss",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "follow",
-    "",
-    "NOM",
-    "GENsoonda",
-    "Y",
-    "NOM_GENsoonda"
-  ],
-  [
-    "Tuvinian",
-    "dismount",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "listen",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "obey",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "hear",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "mix",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "look",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "take_off",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "dream#sleeping#",
-    "",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Tuvinian",
-    "agree",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "have_a_quarrel",
-    "",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Tuvinian",
-    "cost",
-    "",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Tuvinian",
-    "shoot_at",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "pour",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "lose",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "sink",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "kill",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "hit",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "kiss",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "read",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "move#bodypart#",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "respect",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "be_squeamish",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "be_content",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "fall_in_love",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "trust",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "sympathise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "envy",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "be_angry",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "be_surprised",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "love#tea#",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "enjoy",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "want",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "have_a_grudge",
-    "",
-    "NOM",
-    "ALL1",
-    "Y",
-    "NOM_ALL1"
-  ],
-  [
-    "Tuvinian",
-    "take_offence",
-    "",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Tuvinian",
-    "upset",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "marvel",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "despise",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "get_upset",
-    "",
-    "NOM",
-    "GENdeesh",
-    "Y",
-    "NOM_GENdeesh"
-  ],
-  [
-    "Tuvinian",
-    "get_irritated",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Tuvinian",
-    "be_fond",
-    "",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Tuvinian",
-    "be_shy",
-    "",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "feel_pain",
-    "ɨrad-",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Chuvash",
-    "have#illness#",
-    "sumar",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "be_afraid",
-    "xər-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "throw",
-    "ber-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "have_enough",
-    "ɕit-",
-    "OBJ",
-    "NOM",
-    "X",
-    "OBJ_NOM"
-  ],
-  [
-    "Chuvash",
-    "resemble",
-    "jɨʂi",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Chuvash",
-    "believe",
-    "ʂan-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "take",
-    "il-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "see",
-    "kor-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "influence",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Chuvash",
-    "encounter",
-    "tël bol-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "enter",
-    "kër-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "win",
-    "ɕënder-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "go_out",
-    "tok-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "drive",
-    "xval-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "bend",
-    "xoɕ-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "tell",
-    "kala-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "hold",
-    "tɨd-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "catch_up",
-    "xvala‑za ɕit‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "milk",
-    "su-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "reach",
-    "ɕit-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "touch",
-    "dɨt-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "fight",
-    "ɕabəʑ-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "be_friends",
-    "tos-la",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "think",
-    "ʂotl",
-    "NOM",
-    "cinABL",
-    "Y",
-    "NOM_cinABL"
-  ],
-  [
-    "Chuvash",
-    "eat",
-    "ɕe-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "fry",
-    "əʐala-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "wait",
-    "këd-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "forget",
-    "man-",
-    "NOM",
-    "cinABL",
-    "Y",
-    "NOM_cinABL"
-  ],
-  [
-    "Chuvash",
-    "depend",
-    "kilʲ‑",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "call",
-    "ʨën‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "get_to_know",
-    "palaʂ‑",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "know",
-    "pal-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "play#instrument#",
-    "vɨlʲ‑",
-    "NOM",
-    "cinLOC",
-    "Y",
-    "NOM_cinLOC"
-  ],
-  [
-    "Chuvash",
-    "avoid",
-    "tar-za ɕør-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "make",
-    "du‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "make_fun",
-    "məʂkəl-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "have",
-    "bor",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Chuvash",
-    "look_for",
-    "ʂɨr-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "paint",
-    "sərla-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "bite",
-    "ɕirt‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "forfeit",
-    "jol-",
-    "NOM",
-    "CAR",
-    "Y",
-    "NOM_CAR"
-  ],
-  [
-    "Chuvash",
-    "try_to_catch",
-    "tɨd-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "break",
-    "xoɕ-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "flatter",
-    "jəbəldad‑",
-    "NOM",
-    "omLOC",
-    "Y",
-    "NOM_omLOC"
-  ],
-  [
-    "Chuvash",
-    "love#person#",
-    "jorad‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "wave",
-    "sol-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "dream",
-    "ʂotl-",
-    "NOM",
-    "cinABL",
-    "Y",
-    "NOM_cinABL"
-  ],
-  [
-    "Chuvash",
-    "wash",
-    "ɕo-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "put_on",
-    "təgən-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "be_called",
-    "t-",
-    "OBJ",
-    "NOM(NO.AGR)",
-    "XY",
-    "OBJ_NOM(NO.AGR)"
-  ],
-  [
-    "Chuvash",
-    "punish",
-    "наказать tu-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "attack",
-    "tabən-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "fill#intr#",
-    "tol-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "find",
-    "top-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "be_short",
-    "ɕit-m-",
-    "OBJ",
-    "NOM",
-    "X",
-    "OBJ_NOM"
-  ],
-  [
-    "Chuvash",
-    "hate",
-    "kor-i-m-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "like",
-    "kilëʂ-",
-    "OBJ",
-    "NOM",
-    "X",
-    "OBJ_NOM"
-  ],
-  [
-    "Chuvash",
-    "need",
-    "kerlë",
-    "OBJ",
-    "NOM",
-    "X",
-    "OBJ_NOM"
-  ],
-  [
-    "Chuvash",
-    "surround",
-    "ɕar-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "remain",
-    "jol‑",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Chuvash",
-    "answer",
-    "kala‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "open",
-    "oɕ‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "be_different",
-    "orxla-rax",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "fall_behind",
-    "jol-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "plough",
-    "sogal-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "smell",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Chuvash",
-    "cross",
-    "kaɕ-",
-    "NOM",
-    "orle",
-    "Y",
-    "NOM_orle"
-  ],
-  [
-    "Chuvash",
-    "sing",
-    "jorla-za par-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "write",
-    "ɕɨr-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "drink",
-    "ëɕ-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "melt",
-    "ʂrat-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "match",
-    "kaj-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "leave",
-    "tok-sa karʲ-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "cover",
-    "vit-se xor-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "remember",
-    "ast‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "help",
-    "polʂ‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "understand#language#",
-    "ən-la-n-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "hit#target#",
-    "ɕap-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "cut_oneself",
-    "kaz-əl-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "get_stuck",
-    "ɕɨbəɕ-sa lar‑",
-    "NOM",
-    "comOBJ",
-    "Y",
-    "NOM_comOBJ"
-  ],
-  [
-    "Chuvash",
-    "lose#game#",
-    "vɨlʲa-za jar-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "be_glad",
-    "sav-ən-za gaj-",
-    "NOM",
-    "CSL",
-    "Y",
-    "NOM_CSL"
-  ],
-  [
-    "Chuvash",
-    "speak",
-    "kalaʑ-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "give_birth",
-    "ɕorat-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "drop",
-    "yger-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "govern",
-    "командовать t-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "miss",
-    "скучать t-",
-    "NOM",
-    "CSL",
-    "Y",
-    "NOM_CSL"
-  ],
-  [
-    "Chuvash",
-    "follow",
-    "kaj-",
-    "NOM",
-    "xicen",
-    "Y",
-    "NOM_xicen"
-  ],
-  [
-    "Chuvash",
-    "dismount",
-    "an-",
-    "NOM",
-    "cinABL",
-    "Y",
-    "NOM_cinABL"
-  ],
-  [
-    "Chuvash",
-    "listen",
-    "etl-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "obey",
-    "etl-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "hear",
-    "eld-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "mix",
-    "xodəʂ-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "look",
-    "pəg-",
-    "NOM",
-    "cinOBJ",
-    "Y",
-    "NOM_cinOBJ"
-  ],
-  [
-    "Chuvash",
-    "take_off",
-    "xu-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "dream#sleeping#",
-    "tëlek‑re kor‑",
-    "OBJ",
-    "NOM",
-    "X",
-    "OBJ_NOM"
-  ],
-  [
-    "Chuvash",
-    "agree",
-    "kilëʂ-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "have_a_quarrel",
-    "vərʐ-ən-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "cost",
-    "tər-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "shoot_at",
-    "per‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "pour",
-    "xu‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "lose",
-    "ɕëder-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "sink",
-    "pot‑",
-    "NOM",
-    "LOC",
-    "Y",
-    "NOM_LOC"
-  ],
-  [
-    "Chuvash",
-    "kill",
-    "vëler-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "hit",
-    "ɕap-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "kiss",
-    "toda du-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "read",
-    "vola‑",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "move#bodypart#",
-    "xoskat-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "respect",
-    "xizepl-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "be_squeamish",
-    "jërën-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Chuvash",
-    "be_content",
-    "dovolʲnəj",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "fall_in_love",
-    "jorat-sa prak-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "trust",
-    "ʂan-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "sympathise",
-    "ʂel-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "envy",
-    "əmzan-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "be_angry",
-    "targ-",
-    "NOM",
-    "cinOBJ",
-    "Y",
-    "NOM_cinOBJ"
-  ],
-  [
-    "Chuvash",
-    "be_surprised",
-    "tëlën-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "love#tea#",
-    "jorad-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "enjoy",
-    "kilen-",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Chuvash",
-    "want",
-    "il‑eʂën",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "have_a_grudge",
-    "ɕilen-",
-    "NOM",
-    "cinOBJ",
-    "Y",
-    "NOM_cinOBJ"
-  ],
-  [
-    "Chuvash",
-    "take_offence",
-    "ɕilen-",
-    "NOM",
-    "cinOBJ",
-    "Y",
-    "NOM_cinOBJ"
-  ],
-  [
-    "Chuvash",
-    "upset",
-    "køren-der-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "marvel",
-    "tëlën-der-",
-    "OBJ",
-    "NOM",
-    "X",
-    "OBJ_NOM"
-  ],
-  [
-    "Chuvash",
-    "despise",
-    "ʨət-ma boldar-i-NEG",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "get_upset",
-    "køren-",
-    "NOM",
-    "CSL",
-    "Y",
-    "NOM_CSL"
-  ],
-  [
-    "Chuvash",
-    "get_irritated",
-    "targ-",
-    "NOM",
-    "cinOBJ",
-    "Y",
-    "NOM_cinOBJ"
-  ],
-  [
-    "Chuvash",
-    "be_fond",
-    "kilʲʂ-ter-",
-    "NOM",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Chuvash",
-    "be_shy",
-    "vədan-",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "feel_pain",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "have#illness#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_afraid",
-    "",
-    "ACT",
-    "gui",
-    "Y",
-    "ACT_gui"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "throw",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "have_enough",
-    "",
-    "INACT",
-    "pe",
-    "X",
-    "INACT_pe"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "resemble",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "believe",
-    "",
-    "ACT",
-    "rehe",
-    "Y",
-    "ACT_rehe"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "take",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "see",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "influence",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "encounter",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "enter",
-    "",
-    "ACT",
-    "pe(loc)",
-    "Y",
-    "ACT_pe(loc)"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "win",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "go_out",
-    "",
-    "ACT",
-    "gui",
-    "Y",
-    "ACT_gui"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "drive",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "bend",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "tell",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "hold",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "catch_up",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "milk",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "reach",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "touch",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "fight",
-    "",
-    "ACT",
-    "ndive",
-    "Y",
-    "ACT_ndive"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_friends",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "think",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "eat",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "fry",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "wait",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "forget",
-    "",
-    "INACT",
-    "gui",
-    "X",
-    "INACT_gui"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "depend",
-    "",
-    "ACT",
-    "rehe",
-    "Y",
-    "ACT_rehe"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "call",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "get_to_know",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "know",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "play#instrument#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "avoid",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "make",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "make_fun",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "have",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "look_for",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "paint",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "bite",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "forfeit",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "try_to_catch",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "break",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "flatter",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "love#person#",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "wave",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "dream",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "wash",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "put_on",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_called",
-    "",
-    "ACT",
-    "rupi",
-    "Y",
-    "ACT_rupi"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "punish",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "attack",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "fill#intr#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "find",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_short",
-    "",
-    "INACT",
-    "ZERO",
-    "X",
-    "INACT_ZERO"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "hate",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "like",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "need",
-    "",
-    "ACT",
-    "re",
-    "Y",
-    "ACT_re"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "surround",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "remain",
-    "",
-    "ACT",
-    "pe",
-    "Y",
-    "ACT_pe"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "answer",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "open",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_different",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "fall_behind",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "plough",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "smell",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "cross",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "sing",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "write",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "drink",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "melt",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "match",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "leave",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "cover",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "remember",
-    "",
-    "INACT",
-    "rehe",
-    "X",
-    "INACT_rehe"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "help",
-    "",
-    "ACT",
-    "pe",
-    "Y",
-    "ACT_pe"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "understand#language#",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "hit#target#",
-    "",
-    "ACT",
-    "pe(loc)",
-    "Y",
-    "ACT_pe(loc)"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "cut_oneself",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "get_stuck",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "lose#game#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_glad",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "speak",
-    "",
-    "ACT",
-    "ndive",
-    "Y",
-    "ACT_ndive"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "give_birth",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "drop",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "govern",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "miss",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "follow",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "dismount",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "listen",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "obey",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "hear",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "mix",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "look",
-    "",
-    "ACT",
-    "re",
-    "Y",
-    "ACT_re"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "take_off",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "dream#sleeping#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "agree",
-    "",
-    "ACT",
-    "pe",
-    "Y",
-    "ACT_pe"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "have_a_quarrel",
-    "",
-    "ACT",
-    "ndive",
-    "Y",
-    "ACT_ndive"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "cost",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "shoot_at",
-    "",
-    "ACT",
-    "re",
-    "Y",
-    "ACT_re"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "pour",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "lose",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "sink",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "kill",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "hit",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "kiss",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "read",
-    "",
-    "ACT",
-    "INACT",
-    "TR",
-    "TR"
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "move#bodypart#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "respect",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_squeamish",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_content",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "fall_in_love",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "trust",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "sympathise",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "envy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_angry",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_surprised",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "love#tea#",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "enjoy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "want",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "have_a_grudge",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "take_offence",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "upset",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "marvel",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "despise",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "get_upset",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "get_irritated",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_fond",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Guaraní (Paraguayan)",
-    "be_shy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "feel_pain",
-    "pẹ̀ẹ̀",
-    "DO",
-    "SBJ",
-    "X",
-    "DO_SBJ"
-  ],
-  [
-    "Goo",
-    "have#illness#",
-    "kɤ̋",
-    "bha",
-    "SBJ",
-    "X",
-    "bha_SBJ"
-  ],
-  [
-    "Goo",
-    "be_afraid",
-    "sùọ̀",
-    "SBJ",
-    "gon",
-    "Y",
-    "SBJ_gon"
-  ],
-  [
-    "Goo",
-    "throw",
-    "zụ̏ọ̏",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
+    "have#illness#",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Khmer",
+    "be_afraid",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Khmer",
+    "throw",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Khmer",
     "have_enough",
     "*",
     "*",
@@ -33984,43 +25794,43 @@ const structuralData = [
     ""
   ],
   [
-    "Goo",
+    "Khmer",
     "resemble",
-    "bhɔ́",
+    "",
     "SBJ",
-    "bha",
+    "nung",
     "Y",
-    "SBJ_bha"
+    "SBJ_nung"
   ],
   [
-    "Goo",
+    "Khmer",
     "believe",
-    "la̋ŋ̏gọ́",
+    "",
     "SBJ",
-    "lie",
+    "lo",
     "Y",
-    "SBJ_lie"
+    "SBJ_lo"
   ],
   [
-    "Goo",
+    "Khmer",
     "take",
-    "si̋",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "see",
-    "yẹ́",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "influence",
     "*",
     "*",
@@ -34029,179 +25839,188 @@ const structuralData = [
     ""
   ],
   [
-    "Goo",
+    "Khmer",
     "encounter",
-    "bhɔ́ ",
+    "",
     "SBJ",
-    "ta",
+    "nung",
     "Y",
-    "SBJ_ta"
+    "SBJ_nung"
   ],
   [
-    "Goo",
+    "Khmer",
     "enter",
-    "dàà ",
+    "",
     "SBJ",
-    "gi",
+    "knong",
     "Y",
-    "SBJ_gi"
+    "SBJ_knong"
   ],
   [
-    "Goo",
+    "Khmer",
     "win",
-    "kɛ́ɛ́",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "go_out",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "pi",
+    "Y",
+    "SBJ_pi"
   ],
   [
-    "Goo",
+    "Khmer",
     "drive",
-    "ló ",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "bend",
-    "kùùló",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "tell",
-    "pɤ́ ",
-    "SBJ",
-    "lan",
-    "Y",
-    "SBJ_lan"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Goo",
+    "Khmer",
     "hold",
-    "kɤ̋",
-    "ta",
+    "",
     "SBJ",
-    "X",
-    "ta_SBJ"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "catch_up",
-    "kún",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Goo",
+    "Khmer",
     "milk",
-    "gọ́",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "reach",
-    "wàà ",
+    "",
     "SBJ",
-    "lie",
-    "Y",
-    "SBJ_lie"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "touch",
-    "kɔ̀ɔ̀ zín",
+    "",
     "SBJ",
-    "bha",
-    "Y",
-    "SBJ_bha"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "fight",
-    "gɔ̀ŋ̀gɔ́n",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "ciemuey",
+    "Y",
+    "SBJ_ciemuey"
   ],
   [
-    "Goo",
+    "Khmer",
     "be_friends",
-    "dőbha̋n",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
-    "Goo",
+    "Khmer",
     "think",
-    "zụ̀ụ̀ kún ",
+    "",
     "SBJ",
-    "wunka",
+    "dal",
     "Y",
-    "SBJ_wunka"
+    "SBJ_dal"
   ],
   [
-    "Goo",
+    "Khmer",
     "eat",
-    "bhɤ̏ɤ̏",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "fry",
-    "kpȁȁ",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "wait",
-    "dɔ́",
+    "",
     "SBJ",
-    "gon",
-    "Y",
-    "SBJ_gon"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "forget",
-    "gọ̋",
-    "zuu",
-    "ka",
-    "XY",
-    "zuu_ka"
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "depend",
+    "",
+    "SBJ",
+    "lo",
+    "Y",
+    "SBJ_lo"
+  ],
+  [
+    "Khmer",
+    "call",
     "*",
     "*",
     "*",
@@ -34209,43 +26028,34 @@ const structuralData = [
     ""
   ],
   [
-    "Goo",
-    "call",
-    "lẹ̏ẹ̏",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
+    "Khmer",
     "get_to_know",
-    "dɔ̏n",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Goo",
+    "Khmer",
     "know",
-    "dɔ̏n",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "play#instrument#",
-    "zᴧ̏",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "avoid",
     "*",
     "*",
@@ -34254,2482 +26064,142 @@ const structuralData = [
     ""
   ],
   [
-    "Goo",
+    "Khmer",
     "make",
-    "kɛ́ɛ́",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "make_fun",
-    "sőő sí",
-    "SBJ",
-    "bha",
-    "Y",
-    "SBJ_bha"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Goo",
+    "Khmer",
     "have",
-    "kɤ̋",
-    "gon",
+    "",
     "SBJ",
-    "X",
-    "gon_SBJ"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "look_for",
-    "gụ̀ọ̀",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "paint",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "bite",
-    "kún",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "forfeit",
-    "lẹ̏ẹ̏-lȕn",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Goo",
+    "Khmer",
     "try_to_catch",
-    "kún",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "break",
-    "yɛ̋ɛ́",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "flatter",
-    "tȁ-bhààn",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "love#person#",
-    "li̋a̋",
-    "gi",
-    "POSS.SBJ",
-    "XY",
-    "gi_POSS.SBJ"
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "wave",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "dream",
-    "bhìàn zᴧ̏",
+    "",
     "SBJ",
-    "ka",
+    "dal",
     "Y",
-    "SBJ_ka"
+    "SBJ_dal"
   ],
   [
-    "Goo",
+    "Khmer",
     "wash",
-    "zúlú",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
+    "Khmer",
     "put_on",
-    "dȁȁ",
+    "",
     "SBJ",
     "DO",
     "TR",
     "TR"
   ],
   [
-    "Goo",
-    "be_called",
-    "lẹ̏ẹ̏",
-    "DO",
-    "POSTVERBAL.NP",
-    "XY",
-    "DO_POSTVERBAL.NP"
-  ],
-  [
-    "Goo",
-    "punish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "attack",
-    "pɤ̏ɤ̏",
-    "SBJ",
-    "ta",
-    "Y",
-    "SBJ_ta"
-  ],
-  [
-    "Goo",
-    "fill#intr#",
-    "pá ",
-    "SBJ",
-    "ka",
-    "Y",
-    "SBJ_ka"
-  ],
-  [
-    "Goo",
-    "find",
-    "yẹ̏",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "be_short",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "hate",
-    "sȁȁn",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "like",
-    "lɔ̏ɔ̏",
-    "kee",
-    "POSS.SBJ",
-    "XY",
-    "kee_POSS.SBJ"
-  ],
-  [
-    "Goo",
-    "need",
-    "bhȁwȕn",
-    "POSS.SBJ",
-    "bha",
-    "XY",
-    "POSS.SBJ_bha"
-  ],
-  [
-    "Goo",
-    "surround",
-    "klì ",
-    "SBJ",
-    "zi",
-    "Y",
-    "SBJ_zi"
-  ],
-  [
-    "Goo",
-    "remain",
-    "tő",
-    "gon",
-    "SBJ",
-    "X",
-    "gon_SBJ"
-  ],
-  [
-    "Goo",
-    "answer",
-    "yọ̀ọ̀ bhɔ́",
-    "SBJ",
-    "gon",
-    "Y",
-    "SBJ_gon"
-  ],
-  [
-    "Goo",
-    "open",
-    "li̋ẹ́-pőó",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "be_different",
-    "NEG+bhɔ́",
-    "SBJ",
-    "bha",
-    "Y",
-    "SBJ_bha"
-  ],
-  [
-    "Goo",
-    "fall_behind",
-    "tő",
-    "SBJ",
-    "zia",
-    "Y",
-    "SBJ_zia"
-  ],
-  [
-    "Goo",
-    "plough",
-    "bɔ̏",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "smell",
-    "fìì",
-    "bha",
-    "POSS.SBJ",
-    "XY",
-    "bha_POSS.SBJ"
-  ],
-  [
-    "Goo",
-    "cross",
-    "ka̋án",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "sing",
-    "bɔ̏",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "write",
-    "kɛ́ɛ́",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "drink",
-    "bhȉ",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "melt",
-    "sɤ̏ŋ̏-gbɤ̏ɤ̏",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "match",
-    "sɛ̀ɛ̀ ",
-    "SBJ",
-    "ka",
-    "Y",
-    "SBJ_ka"
-  ],
-  [
-    "Goo",
-    "leave",
-    "gọ̋",
-    "SBJ",
-    "gi",
-    "Y",
-    "SBJ_gi"
-  ],
-  [
-    "Goo",
-    "cover",
-    "bhɔ̀ɔ̀n ",
-    "SBJ",
-    "gi",
-    "Y",
-    "SBJ_gi"
-  ],
-  [
-    "Goo",
-    "remember",
-    "dàà",
-    "zuu",
-    "ta",
-    "XY",
-    "zuu_ta"
-  ],
-  [
-    "Goo",
-    "help",
-    "tȁ-kún",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "understand#language#",
-    "bhán",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "hit#target#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "cut_oneself",
-    "REFL pẹ̋ẹ̋",
-    "SBJ",
-    "ka",
-    "Y",
-    "SBJ_ka"
-  ],
-  [
-    "Goo",
-    "get_stuck",
-    "lààn",
-    "SBJ",
-    "ta",
-    "Y",
-    "SBJ_ta"
-  ],
-  [
-    "Goo",
-    "lose#game#",
-    "kwíí",
-    "SBJ",
-    "bha",
-    "Y",
-    "SBJ_bha"
-  ],
-  [
-    "Goo",
-    "be_glad",
-    "sɛ́ɛ́",
-    "lan",
-    "wun",
-    "XY",
-    "lan_wun"
-  ],
-  [
-    "Goo",
-    "speak",
-    "lȉȁŋ́ zᴧ̏",
-    "SBJ",
-    "lan",
-    "Y",
-    "SBJ_lan"
-  ],
-  [
-    "Goo",
-    "give_birth",
-    "kpɔ́",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "drop",
-    "pɤ̏ɤ̏",
-    "gon",
-    "SBJ",
-    "X",
-    "gon_SBJ"
-  ],
-  [
-    "Goo",
-    "govern",
-    "kɔ̏ɔ̏n",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "miss",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "follow",
-    "lő",
-    "SBJ",
-    "ken",
-    "Y",
-    "SBJ_ken"
-  ],
-  [
-    "Goo",
-    "dismount",
-    "gọ̋",
-    "SBJ",
-    "ta",
-    "Y",
-    "SBJ_ta"
-  ],
-  [
-    "Goo",
-    "listen",
-    "tọ̋ọ̋ tó",
-    "SBJ",
-    "bha",
-    "Y",
-    "SBJ_bha"
-  ],
-  [
-    "Goo",
-    "obey",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "hear",
-    "bhȁn",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "mix",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "look",
-    "gȁȁ",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "take_off",
-    "si̋á",
-    "SBJ",
-    "bha",
-    "Y",
-    "SBJ_bha"
-  ],
-  [
-    "Goo",
-    "dream#sleeping#",
-    "bhìàn zᴧ́",
-    "SBJ",
-    "ka",
-    "Y",
-    "SBJ_ka"
-  ],
-  [
-    "Goo",
-    "agree",
-    "bhɔ̀ɔ̀àn",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "have_a_quarrel",
-    "dàà+RECP",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "cost",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "shoot_at",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "pour",
-    "bán",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "lose",
-    "lẹ̏ẹ̏-lȕn",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "sink",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "kill",
-    "zᴧ̏",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "hit",
-    "bhȁȁn",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "kiss",
-    "wi̋",
-    "SBJ",
-    "bha",
-    "Y",
-    "SBJ_bha"
-  ],
-  [
-    "Goo",
-    "read",
-    "wụ̏ụ̏-pɤ̏",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "move#bodypart#",
-    "víŋ́",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "respect",
-    "bhlɤ̀ŋ̀-yàà",
-    "SBJ",
-    "DO",
-    "TR",
-    "TR"
-  ],
-  [
-    "Goo",
-    "be_squeamish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "be_content",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "fall_in_love",
-    "li̋a̋ ... wȁȁ",
-    "gi",
-    "POSS.SBJ",
-    "XY",
-    "gi_POSS.SBJ"
-  ],
-  [
-    "Goo",
-    "trust",
-    "la̋ŋ́gọ̋-GER",
-    "SBJ",
-    "lie",
-    "Y",
-    "SBJ_lie"
-  ],
-  [
-    "Goo",
-    "sympathise",
-    "wɛ̏ȉ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "envy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "be_angry",
-    "wàlá",
-    "zuwee",
-    "bha",
-    "XY",
-    "zuwee_bha"
-  ],
-  [
-    "Goo",
-    "be_surprised",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "love#tea#",
-    "lɔ̏ɔ̏",
-    "kee",
-    "POSS.SBJ",
-    "XY",
-    "kee_POSS.SBJ"
-  ],
-  [
-    "Goo",
-    "enjoy",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "want",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "have_a_grudge",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "take_offence",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "upset",
-    "sìẹ̀",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "marvel",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "despise",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "get_upset",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "get_irritated",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Goo",
-    "be_fond",
-    "gbɛ̋ɛ̋tȁ zᴧ̏",
-    "SBJ",
-    "ka",
-    "Y",
-    "SBJ_ka"
-  ],
-  [
-    "Goo",
-    "be_shy",
-    "yɛ̋ɛ́ kɛ̀ɛ̀",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "feel_pain",
-    "риссын ",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ossetic",
-    "have#illness#",
-    "рынчын уæвын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "be_afraid",
-    "тæрсын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "throw",
-    "фехсын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "have_enough",
-    "æххæст уæвын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "resemble",
-    "хуызæн уæвын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "believe",
-    "æууæндын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "take",
-    "райсын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "see",
-    "уынын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "influence",
-    "фæзынын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "encounter",
-    "фембæлын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "enter",
-    "æрбахизын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "win",
-    "рамбулын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "go_out",
-    "рахизын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "drive",
-    "тæрын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "bend",
-    "æркъæдз кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "tell",
-    "зæгъын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "hold",
-    "хӕцын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "catch_up",
-    "баййафын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "milk",
-    "æрдуцын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "reach",
-    "бахæццæ уæвын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "touch",
-    "бандзæвын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "fight",
-    "хыл кæнын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "be_friends",
-    "хæларæй цæрын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "think",
-    "хъуыды кæнын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "eat",
-    "бахæрын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "fry",
-    "сфизонæг кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "wait",
-    "æнхъæлмæ кæсын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "forget",
-    "ферох кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "depend",
-    "баст уӕвын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "call",
-    "фæдзурын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "get_to_know",
-    "базонгæ кæнын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "know",
-    "зонын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "play#instrument#",
-    "цæгъдын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "avoid",
-    "æмбæхсын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "make",
-    "саразын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "make_fun",
-    "хынджылæг кæнын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "have",
-    "уæвын ",
-    "ALL",
-    "NOM",
-    "X",
-    "ALL_NOM"
-  ],
-  [
-    "Ossetic",
-    "look_for",
-    "агурын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "paint",
-    "сахорын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "bite",
-    "фæхæцын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "forfeit",
-    "фӕцух уӕвын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "try_to_catch",
-    "ахсын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "break",
-    "асæттын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "flatter",
-    "зæрдæлхæнæн ныхæстæ кӕнын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "love#person#",
-    "уарзын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "wave",
-    "тилын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "dream",
-    "бæллын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "wash",
-    "ныхсын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "put_on",
-    "скæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "be_called",
-    "хуыйнын",
-    "NOM",
-    "NOM(NO.AGR)",
-    "Y",
-    "NOM_NOM(NO.AGR)"
-  ],
-  [
-    "Ossetic",
-    "punish",
-    "бафхæрын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "attack",
-    "балæбурын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "fill#intr#",
-    "байдзаг уæвын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "find",
-    "ссарын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "be_short",
-    "NEG_фаг кæнын ",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ossetic",
-    "hate",
-    "йӕ сӕфт уынын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "like",
-    "йæ зæрдæмæ цæуын ",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ossetic",
-    "need",
-    "хъæуын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "surround",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "remain",
-    "баззайын ",
-    "ALL",
-    "NOM",
-    "X",
-    "ALL_NOM"
-  ],
-  [
-    "Ossetic",
-    "answer",
-    "дзуапп раттын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "open",
-    "байгом кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "be_different",
-    "хицæн кæнын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "fall_behind",
-    "фæсте аззайын",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "plough",
-    "хуым кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "smell",
-    "тӕф кӕнын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "cross",
-    "ахизын ",
-    "NOM",
-    "sarty",
-    "Y",
-    "NOM_sarty"
-  ],
-  [
-    "Ossetic",
-    "sing",
-    "азарын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "write",
-    "ныффыссын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "drink",
-    "бануазын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "melt",
-    "стайын кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "match",
-    "сфидауын",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "leave",
-    "ныууадзын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "cover",
-    "æмбæрзын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "remember",
-    "хъуыды кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "help",
-    "аххуыс кæнын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "understand#language#",
-    "æмбарын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "hit#target#",
-    "суайын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "cut_oneself",
-    "хи алыг кæнын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "get_stuck",
-    "баныхæсын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "lose#game#",
-    "фӕхӕрд уӕвын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "be_glad",
-    "бацин кæнын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "speak",
-    "ныхас кæнын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "give_birth",
-    "ныййарын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "drop",
-    "ахауын",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Ossetic",
-    "govern",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "miss",
-    "мысын ",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "follow",
-    "цæуын ",
-    "NOM",
-    "fasta",
-    "Y",
-    "NOM_fasta"
-  ],
-  [
-    "Ossetic",
-    "dismount",
-    "æрхизын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "listen",
-    "хъусын* ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "obey",
-    "хъусын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "hear",
-    "хъусын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "mix",
-    "схӕццӕ уӕвын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "look",
-    "кæсын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "take_off",
-    "раласын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "dream#sleeping#",
-    "йӕ фыны уынын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "agree",
-    "сразы уæвын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "have_a_quarrel",
-    "фæхыл уæвын ",
-    "NOM",
-    "COM",
-    "Y",
-    "NOM_COM"
-  ],
-  [
-    "Ossetic",
-    "cost",
-    "кӕнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "shoot_at",
-    "фехсын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "pour",
-    "æркæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "lose",
-    "фесафын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "sink",
-    "аныгъуылын",
-    "NOM",
-    "INESS",
-    "Y",
-    "NOM_INESS"
-  ],
-  [
-    "Ossetic",
-    "kill",
-    "амарын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "hit",
-    "ныццæвын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "kiss",
-    "апъа кæнын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "read",
-    "бакæсын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "move#bodypart#",
-    "базмæлын кӕнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "respect",
-    "аргъ кæнын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "be_squeamish",
-    "æлгъ кæнын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "be_content",
-    "разы уæвын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "fall_in_love",
-    "бауарзын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "trust",
-    "æууæндын* ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "sympathise",
-    "тæригъæд кæнын ",
-    "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
-  ],
-  [
-    "Ossetic",
-    "envy",
-    "хæлæг кӕнын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "be_angry",
-    "мæсты кæнын ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "be_surprised",
-    "бадис кæнын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "love#tea#",
-    "уарзын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "enjoy",
-    "йӕ мондӕгтӕ исын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Ossetic",
-    "want",
-    "хъæуын",
-    "GEN",
-    "NOM",
-    "X",
-    "GEN_NOM"
-  ],
-  [
-    "Ossetic",
-    "have_a_grudge",
-    "мæсты кæнын ",
-    "NOM",
-    "ALL",
-    "Y",
-    "NOM_ALL"
-  ],
-  [
-    "Ossetic",
-    "take_offence",
-    "фæтæргай уæвын ",
-    "NOM",
-    "SUPER",
-    "Y",
-    "NOM_SUPER"
-  ],
-  [
-    "Ossetic",
-    "upset",
-    "фенкъард кæнын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "marvel",
-    "бадис кæнын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "despise",
-    "йæ сæрмæ нæ хæссын",
-    "NOM",
-    "GEN~NOM",
-    "TR",
-    "TR"
-  ],
-  [
-    "Ossetic",
-    "get_upset",
-    "рамæсты кæнын ",
-    "NOM",
-    "tyxxaj",
-    "Y",
-    "NOM_tyxxaj"
-  ],
-  [
-    "Ossetic",
-    "get_irritated",
-    "мæсты кæнын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "be_fond",
-    "йæ зæрдæмæ цæуын*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Ossetic",
-    "be_shy",
-    "ӕфсӕрмы кӕнын ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Soninke",
-    "feel_pain",
-    "wàtú",
-    "POSS.OBJ",
-    "SBJ",
-    "X",
-    "POSS.OBJ_SBJ"
-  ],
-  [
-    "Soninke",
-    "have#illness#",
-    "rágà",
-    "OBJ",
-    "SBJ",
-    "X",
-    "OBJ_SBJ"
-  ],
-  [
-    "Soninke",
-    "be_afraid",
-    "kànú",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "throw",
-    "sédì ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "have_enough",
-    "bágá",
-    "OBJ",
-    "SBJ",
-    "X",
-    "OBJ_SBJ"
-  ],
-  [
-    "Soninke",
-    "resemble",
-    "qáwà",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "believe",
-    "sáxú",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "take",
-    "wùtú ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "see",
-    "ŋàrí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "influence",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "encounter",
-    "gèmú ",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "enter",
-    "ró ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "win",
-    "qósó",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "go_out",
-    "búgú",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "drive",
-    "gèngé",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "bend",
-    "gòròbìndí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "tell",
-    "kò/kó",
-    "SBJ",
-    "da",
-    "Y",
-    "SBJ_da"
-  ],
-  [
-    "Soninke",
-    "hold",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "catch_up",
-    "légè ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "milk",
-    "qámú",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "reach",
-    "kìñé ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "touch",
-    "kátì",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "fight",
-    "gàjá",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "be_friends",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "think",
-    "sínmè ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "eat",
-    "yígá",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "fry",
-    "bíyí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "wait",
-    "dùgú ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "forget",
-    "mùngú",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "depend",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "call",
-    "qírí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "get_to_know",
-    "tù/tú",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "know",
-    "tù/tú",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "play#instrument#",
-    "tímí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "avoid",
-    "gòorí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "make",
-    "dàbárì",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "make_fun",
-    "sòyí",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "have",
-    "wá",
-    "maxa",
-    "SBJ",
-    "X",
-    "maxa_SBJ"
-  ],
-  [
-    "Soninke",
-    "look_for",
-    "mùndú",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "paint",
-    "péntírí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "bite",
-    "qíñí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "forfeit",
-    "bònó",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "try_to_catch",
-    "rágà ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "break",
-    "qósó",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "flatter",
-    "jàkkí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "love#person#",
-    "qànú ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "wave",
-    "yònkó ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "dream",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
-  ],
-  [
-    "Soninke",
-    "wash",
-    "yánqí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "put_on",
-    "róndí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
+    "Khmer",
     "be_called",
     "*",
     "*",
@@ -36738,116 +26208,80 @@ const structuralData = [
     ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "punish",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "dal",
+    "Y",
+    "SBJ_dal"
   ],
   [
-    "Soninke",
+    "Khmer",
     "attack",
-    "qénú ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "fill#intr#",
-    "hógú",
+    "",
     "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "find",
-    "ñì/ñí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_short",
-    "kòntó ",
-    "yi",
+    "",
     "SBJ",
-    "X",
-    "yi_SBJ"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "hate",
-    "qóní ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "like",
-    "línŋí ",
-    "da",
-    "SBJ",
-    "X",
-    "da_SBJ"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "need",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "surround",
-    "kòorí",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "remain",
-    "tóxó",
-    "maxa",
-    "SBJ",
-    "X",
-    "maxa_SBJ"
-  ],
-  [
-    "Soninke",
-    "answer",
-    "jáabì",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "open",
-    "ŋùñí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
-  ],
-  [
-    "Soninke",
-    "be_different",
     "*",
     "*",
     "*",
@@ -36855,25 +26289,61 @@ const structuralData = [
     ""
   ],
   [
-    "Soninke",
-    "fall_behind",
-    "léelàntá ",
+    "Khmer",
+    "remain",
+    "",
     "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "plough",
-    "kòbí",
-    "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
+    "answer",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Khmer",
+    "open",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Khmer",
+    "be_different",
+    "",
+    "SBJ",
+    "pi",
+    "Y",
+    "SBJ_pi"
+  ],
+  [
+    "Khmer",
+    "fall_behind",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Khmer",
+    "plough",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Khmer",
     "smell",
     "*",
     "*",
@@ -36882,502 +26352,502 @@ const structuralData = [
     ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "cross",
-    "kárá",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "sing",
-    "sùugú ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "write",
-    "sáhà ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "drink",
-    "mìní",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "melt",
-    "qàjá ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "match",
-    "gèmú",
+    "*",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "leave",
-    "wàrá ",
+    "",
     "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "pi",
+    "Y",
+    "SBJ_pi"
   ],
   [
-    "Soninke",
+    "Khmer",
     "cover",
-    "qúhú ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "remember",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "help",
-    "dèemá ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "understand#language#",
-    "hàámù ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "hit#target#",
-    "qénú ",
+    "",
     "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "cut_oneself",
-    "kútú",
-    "SBJ",
-    "ti.yi",
-    "Y",
-    "SBJ_ti.yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "get_stuck",
-    "màlí ",
+    "",
     "SBJ",
-    "yi",
+    "nung",
     "Y",
-    "SBJ_yi"
+    "SBJ_nung"
   ],
   [
-    "Soninke",
+    "Khmer",
     "lose#game#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_glad",
-    "ñáxálí ",
+    "",
     "SBJ",
-    "yi",
+    "nung",
     "Y",
-    "SBJ_yi"
+    "SBJ_nung"
   ],
   [
-    "Soninke",
+    "Khmer",
     "speak",
-    "sèhé ",
+    "",
     "SBJ",
-    "da",
+    "ciemuey",
     "Y",
-    "SBJ_da"
+    "SBJ_ciemuey"
   ],
   [
-    "Soninke",
+    "Khmer",
     "give_birth",
-    "sàará ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "drop",
-    "yèrèndí ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "govern",
-    "màrá ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "miss",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "dal",
+    "Y",
+    "SBJ_dal"
   ],
   [
-    "Soninke",
+    "Khmer",
     "follow",
-    "bàtú ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "dismount",
-    "yànqá ",
+    "",
     "SBJ",
-    "yi",
+    "pi",
     "Y",
-    "SBJ_yi"
+    "SBJ_pi"
   ],
   [
-    "Soninke",
+    "Khmer",
     "listen",
-    "térínká ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "obey",
-    "térínká",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "hear",
-    "mùgú ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "mix",
-    "kólóncé ",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "nung",
+    "Y",
+    "SBJ_nung"
   ],
   [
-    "Soninke",
+    "Khmer",
     "look",
-    "háyí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "take_off",
-    "wùtú kànmún ŋà",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "dream#sleeping#",
-    "kùyí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "agree",
-    "dùnŋé ",
+    "",
     "SBJ",
-    "da",
+    "ciemuey",
     "Y",
-    "SBJ_da"
+    "SBJ_ciemuey"
   ],
   [
-    "Soninke",
+    "Khmer",
     "have_a_quarrel",
-    "sónqò",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "ciemuey",
+    "Y",
+    "SBJ_ciemuey"
   ],
   [
-    "Soninke",
+    "Khmer",
     "cost",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "shoot_at",
-    "máráhàn kátú ",
+    "",
     "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
-    "pour",
-    "jòxú ",
-    "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
+    "pour",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Khmer",
     "lose",
-    "sánkú",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Khmer",
+    "sink",
+    "*",
     "*",
     "*",
     "*",
     ""
   ],
   [
-    "Soninke",
-    "sink",
-    "yóolè ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
-  ],
-  [
-    "Soninke",
+    "Khmer",
     "kill",
-    "kàrí",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "hit",
-    "kátú",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "kiss",
-    "sùgú",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "read",
-    "qàrá ",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "move#bodypart#",
-    "yònkó",
+    "",
     "SBJ",
-    "OBJ",
+    "DO",
     "TR",
     "TR"
   ],
   [
-    "Soninke",
+    "Khmer",
     "respect",
-    "dàró ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_squeamish",
-    "ñéxú ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_content",
-    "sáxú ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "fall_in_love",
-    "qànú ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "trust",
-    "sáxú ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "sympathise",
-    "hínnè ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "envy",
-    "súuxè ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_angry",
-    "bútú ",
-    "SBJ",
-    "wure",
-    "Y",
-    "SBJ_wure"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_surprised",
-    "làsámè ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "love#tea#",
-    "línŋí",
-    "da",
-    "SBJ",
-    "X",
-    "da_SBJ"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "enjoy",
-    "dàxámù",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "want",
-    "mùllá",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "have_a_grudge",
-    "bútú ",
-    "SBJ",
-    "wure",
-    "Y",
-    "SBJ_wure"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "take_offence",
     "*",
     "*",
@@ -37386,67 +26856,67 @@ const structuralData = [
     ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "upset",
-    "sùnòndí ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "marvel",
-    "làsámè ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "despise",
-    "nèxú ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "get_upset",
-    "sùnó",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "get_irritated",
-    "bútú ",
-    "SBJ",
-    "wure",
-    "Y",
-    "SBJ_wure"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_fond",
-    "qànú ",
-    "SBJ",
-    "OBJ",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Soninke",
+    "Khmer",
     "be_shy",
-    "yàagú ",
-    "SBJ",
-    "yi",
-    "Y",
-    "SBJ_yi"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
     "Latvian",
@@ -38619,6 +28089,3516 @@ const structuralData = [
     "NOM_parACC"
   ],
   [
+    "Lezgian",
+    "feel_pain",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "have#illness#",
+    "",
+    "SBESS",
+    "ABS",
+    "X",
+    "SBESS_ABS"
+  ],
+  [
+    "Lezgian",
+    "be_afraid",
+    "",
+    "DAT",
+    "POEL",
+    "XY",
+    "DAT_POEL"
+  ],
+  [
+    "Lezgian",
+    "throw",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "have_enough",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "resemble",
+    "",
+    "ABS",
+    "DAT",
+    "Y",
+    "ABS_DAT"
+  ],
+  [
+    "Lezgian",
+    "believe",
+    "",
+    "ABS",
+    "POESS",
+    "Y",
+    "ABS_POESS"
+  ],
+  [
+    "Lezgian",
+    "take",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "see",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "influence",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "encounter",
+    "",
+    "ABS",
+    "SRESS",
+    "Y",
+    "ABS_SRESS"
+  ],
+  [
+    "Lezgian",
+    "enter",
+    "",
+    "ABS",
+    "DAT",
+    "Y",
+    "ABS_DAT"
+  ],
+  [
+    "Lezgian",
+    "win",
+    "",
+    "ERG",
+    "ADEL",
+    "Y",
+    "ERG_ADEL"
+  ],
+  [
+    "Lezgian",
+    "go_out",
+    "",
+    "ABS",
+    "INEL",
+    "Y",
+    "ABS_INEL"
+  ],
+  [
+    "Lezgian",
+    "drive",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "bend",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "tell",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "hold",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "catch_up",
+    "",
+    "ERG",
+    "ADESS",
+    "Y",
+    "ERG_ADESS"
+  ],
+  [
+    "Lezgian",
+    "milk",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "reach",
+    "",
+    "ABS",
+    "ADESS",
+    "Y",
+    "ABS_ADESS"
+  ],
+  [
+    "Lezgian",
+    "touch",
+    "",
+    "ERG",
+    "SBESS",
+    "Y",
+    "ERG_SBESS"
+  ],
+  [
+    "Lezgian",
+    "fight",
+    "",
+    "ABS",
+    "POESSgalaz",
+    "Y",
+    "ABS_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "be_friends",
+    "",
+    "ERG",
+    "POESSgalaz",
+    "Y",
+    "ERG_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "think",
+    "",
+    "ERG",
+    "SBEL",
+    "Y",
+    "ERG_SBEL"
+  ],
+  [
+    "Lezgian",
+    "eat",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "fry",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "wait",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "forget",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "depend",
+    "",
+    "ABS",
+    "SREL",
+    "Y",
+    "ABS_SREL"
+  ],
+  [
+    "Lezgian",
+    "call",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "get_to_know",
+    "",
+    "ABS",
+    "POESSgalaz",
+    "Y",
+    "ABS_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "know",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "play#instrument#",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "avoid",
+    "",
+    "ERG",
+    "SBEL",
+    "Y",
+    "ERG_SBEL"
+  ],
+  [
+    "Lezgian",
+    "make",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "make_fun",
+    "",
+    "ERG",
+    "SBEL",
+    "Y",
+    "ERG_SBEL"
+  ],
+  [
+    "Lezgian",
+    "have",
+    "",
+    "POESS",
+    "ABS",
+    "X",
+    "POESS_ABS"
+  ],
+  [
+    "Lezgian",
+    "look_for",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "paint",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "bite",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "forfeit",
+    "",
+    "ABS",
+    "SBEL",
+    "Y",
+    "ABS_SBEL"
+  ],
+  [
+    "Lezgian",
+    "try_to_catch",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "break",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "flatter",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "love#person#",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "wave",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "dream",
+    "",
+    "ERG",
+    "SBEL",
+    "Y",
+    "ERG_SBEL"
+  ],
+  [
+    "Lezgian",
+    "wash",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "put_on",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "be_called",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "punish",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "attack",
+    "",
+    "ERG",
+    "SRESS",
+    "Y",
+    "ERG_SRESS"
+  ],
+  [
+    "Lezgian",
+    "fill#intr#",
+    "",
+    "ABS",
+    "ADESS",
+    "Y",
+    "ABS_ADESS"
+  ],
+  [
+    "Lezgian",
+    "find",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "be_short",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "hate",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "like",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "need",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "surround",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "remain",
+    "",
+    "POESS",
+    "ABS",
+    "X",
+    "POESS_ABS"
+  ],
+  [
+    "Lezgian",
+    "answer",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "open",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "be_different",
+    "",
+    "ABS",
+    "SREL",
+    "Y",
+    "ABS_SREL"
+  ],
+  [
+    "Lezgian",
+    "fall_behind",
+    "",
+    "ABS",
+    "SREL",
+    "Y",
+    "ABS_SREL"
+  ],
+  [
+    "Lezgian",
+    "plough",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "smell",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "cross",
+    "",
+    "ABS",
+    "SREL",
+    "Y",
+    "ABS_SREL"
+  ],
+  [
+    "Lezgian",
+    "sing",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "write",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "drink",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "melt",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "match",
+    "",
+    "ABS",
+    "POESSgalaz",
+    "Y",
+    "ABS_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "leave",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "cover",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "remember",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "help",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "understand#language#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "hit#target#",
+    "",
+    "ABS",
+    "POESS",
+    "Y",
+    "ABS_POESS"
+  ],
+  [
+    "Lezgian",
+    "cut_oneself",
+    "",
+    "ABS",
+    "ERG",
+    "Y",
+    "ABS_ERG"
+  ],
+  [
+    "Lezgian",
+    "get_stuck",
+    "",
+    "ABS",
+    "SRESS",
+    "Y",
+    "ABS_SRESS"
+  ],
+  [
+    "Lezgian",
+    "lose#game#",
+    "",
+    "ABS",
+    "DAT",
+    "Y",
+    "ABS_DAT"
+  ],
+  [
+    "Lezgian",
+    "be_glad",
+    "",
+    "ABS",
+    "DAT",
+    "Y",
+    "ABS_DAT"
+  ],
+  [
+    "Lezgian",
+    "speak",
+    "",
+    "ABS",
+    "POESSgalaz",
+    "Y",
+    "ABS_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "give_birth",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "drop",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "govern",
+    "",
+    "ERG",
+    "SRESS",
+    "Y",
+    "ERG_SRESS"
+  ],
+  [
+    "Lezgian",
+    "miss",
+    "",
+    "ABS",
+    "POESS",
+    "Y",
+    "ABS_POESS"
+  ],
+  [
+    "Lezgian",
+    "follow",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "dismount",
+    "",
+    "ABS",
+    "SREL",
+    "Y",
+    "ABS_SREL"
+  ],
+  [
+    "Lezgian",
+    "listen",
+    "",
+    "ERG",
+    "POESS",
+    "Y",
+    "ERG_POESS"
+  ],
+  [
+    "Lezgian",
+    "obey",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "hear",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "mix",
+    "",
+    "ABS",
+    "POESSgalaz",
+    "Y",
+    "ABS_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "look",
+    "",
+    "ABS",
+    "DAT",
+    "Y",
+    "ABS_DAT"
+  ],
+  [
+    "Lezgian",
+    "take_off",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "dream#sleeping#",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "agree",
+    "",
+    "ABS",
+    "POESSgalaz",
+    "Y",
+    "ABS_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "have_a_quarrel",
+    "",
+    "ABS",
+    "POESSgalaz",
+    "Y",
+    "ABS_POESSgalaz"
+  ],
+  [
+    "Lezgian",
+    "cost",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "shoot_at",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "pour",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "lose",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "sink",
+    "",
+    "ABS",
+    "INESS",
+    "Y",
+    "ABS_INESS"
+  ],
+  [
+    "Lezgian",
+    "kill",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "hit",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "kiss",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "read",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "move#bodypart#",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "respect",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "be_squeamish",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "be_content",
+    "",
+    "ABS",
+    "SREL",
+    "Y",
+    "ABS_SREL"
+  ],
+  [
+    "Lezgian",
+    "fall_in_love",
+    "",
+    "ABS",
+    "SRESS",
+    "Y",
+    "ABS_SRESS"
+  ],
+  [
+    "Lezgian",
+    "trust",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "sympathise",
+    "",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
+  ],
+  [
+    "Lezgian",
+    "envy",
+    "",
+    "ABS",
+    "SRESS",
+    "Y",
+    "ABS_SRESS"
+  ],
+  [
+    "Lezgian",
+    "be_angry",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "be_surprised",
+    "",
+    "ABS",
+    "SRESS",
+    "Y",
+    "ABS_SRESS"
+  ],
+  [
+    "Lezgian",
+    "love#tea#",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "enjoy",
+    "",
+    "ERG",
+    "SBEL",
+    "Y",
+    "ERG_SBEL"
+  ],
+  [
+    "Lezgian",
+    "want",
+    "",
+    "DAT",
+    "ABS",
+    "X",
+    "DAT_ABS"
+  ],
+  [
+    "Lezgian",
+    "have_a_grudge",
+    "",
+    "DAT",
+    "SBEL",
+    "XY",
+    "DAT_SBEL"
+  ],
+  [
+    "Lezgian",
+    "take_offence",
+    "",
+    "ABS",
+    "SREL",
+    "Y",
+    "ABS_SREL"
+  ],
+  [
+    "Lezgian",
+    "upset",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "marvel",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "despise",
+    "",
+    "ERG",
+    "ABS",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lezgian",
+    "get_upset",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "get_irritated",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lezgian",
+    "be_fond",
+    "",
+    "DAT",
+    "SBEL",
+    "XY",
+    "DAT_SBEL"
+  ],
+  [
+    "Lezgian",
+    "be_shy",
+    "",
+    "DAT",
+    "SBEL",
+    "XY",
+    "DAT_SBEL"
+  ],
+  [
+    "Lithuanian",
+    "feel_pain",
+    "",
+    "DAT",
+    "ACC",
+    "X",
+    "DAT_ACC"
+  ],
+  [
+    "Lithuanian",
+    "have#illness#",
+    "",
+    "NOM ",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "be_afraid",
+    "",
+    "NOM ",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "throw",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "have_enough",
+    "",
+    "DAT",
+    "GEN",
+    "XY",
+    "DAT_GEN"
+  ],
+  [
+    "Lithuanian",
+    "resemble",
+    "",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Lithuanian",
+    "believe",
+    "",
+    "NOM ",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "take",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "see",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "influence",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "encounter",
+    "",
+    "NOM ",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "enter",
+    "",
+    "NOM ",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Lithuanian",
+    "win",
+    "",
+    "NOM ",
+    "priesACC",
+    "Y",
+    "NOM_priesACC"
+  ],
+  [
+    "Lithuanian",
+    "go_out",
+    "",
+    "NOM ",
+    "isGEN",
+    "Y",
+    "NOM_isGEN"
+  ],
+  [
+    "Lithuanian",
+    "drive",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "bend",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "tell",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "hold",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "catch_up",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "milk",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "reach",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "touch",
+    "paliesti",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "fight",
+    "",
+    "NOM",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "be_friends",
+    "",
+    "NOM",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "think",
+    "",
+    "NOM",
+    "apieACC",
+    "Y",
+    "NOM_apieACC"
+  ],
+  [
+    "Lithuanian",
+    "eat",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "fry",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "wait",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "forget",
+    "",
+    "NOM",
+    "apieACC",
+    "Y",
+    "NOM_apieACC"
+  ],
+  [
+    "Lithuanian",
+    "depend",
+    "",
+    "NOM",
+    "nuoGEN",
+    "Y",
+    "NOM_nuoGEN"
+  ],
+  [
+    "Lithuanian",
+    "call",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "get_to_know",
+    "",
+    "NOM",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "know",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "play#instrument#",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "avoid",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "make",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "make_fun",
+    "",
+    "NOM",
+    "isGEN",
+    "Y",
+    "NOM_isGEN"
+  ],
+  [
+    "Lithuanian",
+    "have",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "look_for",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "paint",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "bite",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "forfeit",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "try_to_catch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "break",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "flatter",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "love#person#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "wave",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "dream",
+    "",
+    "NOM",
+    "apieACC",
+    "Y",
+    "NOM_apieACC"
+  ],
+  [
+    "Lithuanian",
+    "wash",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "put_on",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "be_called",
+    "",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Lithuanian",
+    "punish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "attack",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "fill#intr#",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "find",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "be_short",
+    "",
+    "DAT",
+    "GEN",
+    "XY",
+    "DAT_GEN"
+  ],
+  [
+    "Lithuanian",
+    "hate",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "like",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Lithuanian",
+    "need",
+    "",
+    "DAT",
+    "GEN",
+    "XY",
+    "DAT_GEN"
+  ],
+  [
+    "Lithuanian",
+    "surround",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "remain",
+    "",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Lithuanian",
+    "answer",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "open",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "be_different",
+    "",
+    "NOM",
+    "nuoGEN",
+    "Y",
+    "NOM_nuoGEN"
+  ],
+  [
+    "Lithuanian",
+    "fall_behind",
+    "",
+    "NOM",
+    "nuoGEN",
+    "Y",
+    "NOM_nuoGEN"
+  ],
+  [
+    "Lithuanian",
+    "plough",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "smell",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "cross",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "sing",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "write",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "drink",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "melt",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "match",
+    "",
+    "NOM",
+    "prieGEN",
+    "Y",
+    "NOM_prieGEN"
+  ],
+  [
+    "Lithuanian",
+    "leave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "cover",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "remember",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "help",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "understand#language#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "hit#target#",
+    "",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Lithuanian",
+    "cut_oneself",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "get_stuck",
+    "",
+    "NOM",
+    "prieGEN",
+    "Y",
+    "NOM_prieGEN"
+  ],
+  [
+    "Lithuanian",
+    "lose#game#",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "be_glad",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "speak",
+    "",
+    "NOM",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "give_birth",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "drop",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "govern",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "miss",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "follow",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "dismount",
+    "",
+    "NOM",
+    "nuoGEN",
+    "Y",
+    "NOM_nuoGEN"
+  ],
+  [
+    "Lithuanian",
+    "listen",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "obey",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lithuanian",
+    "hear",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "mix",
+    "",
+    "NOM",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "look",
+    "",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Lithuanian",
+    "take_off",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "dream#sleeping#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "agree",
+    "",
+    "NOM",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "have_a_quarrel",
+    "",
+    "NOM",
+    "suINS",
+    "Y",
+    "NOM_suINS"
+  ],
+  [
+    "Lithuanian",
+    "cost",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "shoot_at",
+    "",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Lithuanian",
+    "pour",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "lose",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "sink",
+    "",
+    "NOM",
+    "iACC",
+    "Y",
+    "NOM_iACC"
+  ],
+  [
+    "Lithuanian",
+    "kill",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "hit",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "kiss",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "read",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "move#bodypart#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "respect",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "be_squeamish",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "be_content",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "fall_in_love",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "trust",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "sympathise",
+    "gaila",
+    "DAT",
+    "GEN",
+    "XY",
+    "DAT_GEN"
+  ],
+  [
+    "Lithuanian",
+    "envy",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "be_angry",
+    "",
+    "NOM ",
+    "antGEN",
+    "Y",
+    "NOM_antGEN"
+  ],
+  [
+    "Lithuanian",
+    "be_surprised",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "love#tea#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "enjoy",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "want",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Lithuanian",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "antGEN",
+    "Y",
+    "NOM_antGEN"
+  ],
+  [
+    "Lithuanian",
+    "take_offence",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lithuanian",
+    "upset",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "marvel",
+    "",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Lithuanian",
+    "despise",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Lithuanian",
+    "get_upset",
+    "",
+    "NOM",
+    "delGEN",
+    "Y",
+    "NOM_delGEN"
+  ],
+  [
+    "Lithuanian",
+    "get_irritated",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Lithuanian",
+    "be_fond",
+    "",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Lithuanian",
+    "be_shy",
+    "",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Loma",
+    "feel_pain",
+    "",
+    "POSS",
+    "HEAD",
+    "X",
+    "POSS_HEAD"
+  ],
+  [
+    "Loma",
+    "have#illness#",
+    "",
+    "ma",
+    "SBJ",
+    "X",
+    "ma_SBJ"
+  ],
+  [
+    "Loma",
+    "be_afraid",
+    "",
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
+  ],
+  [
+    "Loma",
+    "throw",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "have_enough",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "resemble",
+    "",
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
+  ],
+  [
+    "Loma",
+    "believe",
+    "",
+    "SBJ",
+    "ya",
+    "Y",
+    "SBJ_ya"
+  ],
+  [
+    "Loma",
+    "take",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "see",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "influence",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "encounter",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "enter",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "win",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "go_out",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "drive",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "bend",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "tell",
+    "",
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
+  ],
+  [
+    "Loma",
+    "hold",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "catch_up",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "milk",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "reach",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "touch",
+    "",
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
+  ],
+  [
+    "Loma",
+    "fight",
+    "",
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
+  ],
+  [
+    "Loma",
+    "be_friends",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "think",
+    "",
+    "SBJ",
+    "su",
+    "Y",
+    "SBJ_su"
+  ],
+  [
+    "Loma",
+    "eat",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "fry",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "wait",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "forget",
+    "",
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
+  ],
+  [
+    "Loma",
+    "depend",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "call",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "get_to_know",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "know",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "play#instrument#",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "avoid",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "make",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "make_fun",
+    "",
+    "SBJ",
+    "zu",
+    "Y",
+    "SBJ_zu"
+  ],
+  [
+    "Loma",
+    "have",
+    "",
+    "ya",
+    "SBJ",
+    "X",
+    "ya_SBJ"
+  ],
+  [
+    "Loma",
+    "look_for",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "paint",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "bite",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "forfeit",
+    "",
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
+  ],
+  [
+    "Loma",
+    "try_to_catch",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "break",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "flatter",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "love#person#",
+    "",
+    "be",
+    "SBJ",
+    "X",
+    "be_SBJ"
+  ],
+  [
+    "Loma",
+    "wave",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "dream",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "wash",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "put_on",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "be_called",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "punish",
+    "",
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
+  ],
+  [
+    "Loma",
+    "attack",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "fill#intr#",
+    "",
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
+  ],
+  [
+    "Loma",
+    "find",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "be_short",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "hate",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "like",
+    "",
+    "SBJ",
+    "be",
+    "Y",
+    "SBJ_be"
+  ],
+  [
+    "Loma",
+    "need",
+    "",
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
+  ],
+  [
+    "Loma",
+    "surround",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "remain",
+    "",
+    "ya",
+    "SBJ",
+    "X",
+    "ya_SBJ"
+  ],
+  [
+    "Loma",
+    "answer",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "open",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "be_different",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "fall_behind",
+    "",
+    "SBJ",
+    "polu",
+    "Y",
+    "SBJ_polu"
+  ],
+  [
+    "Loma",
+    "plough",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "smell",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "cross",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "sing",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "write",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "drink",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "melt",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "match",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "leave",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "cover",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "remember",
+    "",
+    "SBJ",
+    "su",
+    "Y",
+    "SBJ_su"
+  ],
+  [
+    "Loma",
+    "help",
+    "",
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
+  ],
+  [
+    "Loma",
+    "understand#language#",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "hit#target#",
+    "",
+    "SBJ",
+    "su",
+    "Y",
+    "SBJ_su"
+  ],
+  [
+    "Loma",
+    "cut_oneself",
+    "",
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
+  ],
+  [
+    "Loma",
+    "get_stuck",
+    "",
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
+  ],
+  [
+    "Loma",
+    "lose#game#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "be_glad",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "speak",
+    "",
+    "SBJ",
+    "ta",
+    "Y",
+    "SBJ_ta"
+  ],
+  [
+    "Loma",
+    "give_birth",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "drop",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "govern",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "miss",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "follow",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "dismount",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "listen",
+    "",
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
+  ],
+  [
+    "Loma",
+    "obey",
+    "",
+    "SBJ",
+    "be",
+    "Y",
+    "SBJ_be"
+  ],
+  [
+    "Loma",
+    "hear",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "mix",
+    "",
+    "SBJ",
+    "ta",
+    "Y",
+    "SBJ_ta"
+  ],
+  [
+    "Loma",
+    "look",
+    "",
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
+  ],
+  [
+    "Loma",
+    "take_off",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "dream#sleeping#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "agree",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "have_a_quarrel",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "cost",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "shoot_at",
+    "",
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
+  ],
+  [
+    "Loma",
+    "pour",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "lose",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "sink",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "kill",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "hit",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "kiss",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "read",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "move#bodypart#",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "respect",
+    "",
+    "SBJ",
+    "ma",
+    "Y",
+    "SBJ_ma"
+  ],
+  [
+    "Loma",
+    "be_squeamish",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "be_content",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "fall_in_love",
+    "",
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
+  ],
+  [
+    "Loma",
+    "trust",
+    "",
+    "SBJ",
+    "ya",
+    "Y",
+    "SBJ_ya"
+  ],
+  [
+    "Loma",
+    "sympathise",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "envy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "be_angry",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "be_surprised",
+    "",
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
+  ],
+  [
+    "Loma",
+    "love#tea#",
+    "",
+    "be",
+    "SBJ",
+    "X",
+    "be_SBJ"
+  ],
+  [
+    "Loma",
+    "enjoy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "want",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "have_a_grudge",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "take_offence",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "upset",
+    "",
+    "SBJ",
+    "DO",
+    "TR",
+    "TR"
+  ],
+  [
+    "Loma",
+    "marvel",
+    "",
+    "SBJ",
+    "ga",
+    "Y",
+    "SBJ_ga"
+  ],
+  [
+    "Loma",
+    "despise",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "get_upset",
+    "",
+    "SBJ",
+    "ba",
+    "Y",
+    "SBJ_ba"
+  ],
+  [
+    "Loma",
+    "get_irritated",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "be_fond",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Loma",
+    "be_shy",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
     "Mandinka",
     "feel_pain",
     "dímíŋ",
@@ -39789,602 +32769,4085 @@ const structuralData = [
     "SBJ_la"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "feel_pain",
-    "fáj",
-    "DAT",
+    "karšt-",
+    "GEN",
     "NOM",
     "X",
-    "DAT_NOM"
+    "GEN_NOM"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "have#illness#",
-    "van",
-    "DAT",
+    "cerlän-",
     "NOM",
-    "X",
-    "DAT_NOM"
-  ],
-  [
-    "Hungarian",
-    "be_afraid",
-    "fél",
-    "NOM",
-    "ABL",
+    "dono",
     "Y",
-    "NOM_ABL"
+    "NOM_dono"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
+    "be_afraid",
+    "lüd-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
     "throw",
-    "eldob",
+    "šu-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "have_enough",
-    "van elég",
+    "sit-",
     "DAT",
     "NOM",
     "X",
     "DAT_NOM"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "resemble",
-    "hasonlít",
+    "ə̑l-",
     "NOM",
-    "SUB",
+    "gan",
     "Y",
-    "NOM_SUB"
+    "NOM_gan"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "believe",
-    "hisz",
+    "ə̈n'än-",
     "NOM",
     "DAT",
     "Y",
     "NOM_DAT"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "take",
-    "levesz",
+    "näl-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "see",
-    "lát",
+    "už-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "influence",
-    "befolyásol",
+    "vaštalt-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "encounter",
-    "összefut",
+    "väšli-",
     "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "enter",
-    "be-lép-",
+    "pə̑r-",
     "NOM",
     "ILL",
     "Y",
     "NOM_ILL"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
     "win",
-    "legyőz",
+    "mad-ə̑n näl-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "go_out",
+    "läkt-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "drive",
+    "pokt-",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Mari (Western)",
+    "bend",
+    "äj-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "tell",
+    "keles-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "hold",
+    "kə̑č-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "catch_up",
+    "pokt-en šo-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "milk",
+    "šə̑pšə̑l-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "reach",
+    "šo-",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Mari (Western)",
+    "touch",
+    "tə̈käl-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "fight",
+    "šidäl-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "be_friends",
+    "kelš",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "think",
+    "šan-",
+    "NOM",
+    "gisan",
+    "Y",
+    "NOM_gisan"
+  ],
+  [
+    "Mari (Western)",
+    "eat",
+    "kačk-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "fry",
+    "žär-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "wait",
+    "və̑č-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "forget",
+    "mond-",
+    "NOM",
+    "gisan",
+    "Y",
+    "NOM_gisan"
+  ],
+  [
+    "Mari (Western)",
+    "depend",
+    "vaštalt-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "call",
+    "sə̈gə̈räl-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "get_to_know",
+    "päl-ə̈mə̈ li-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "know",
+    "päl-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "play#instrument#",
+    "šakt-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "avoid",
+    "šə̈l-ə̈n kašt-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "make",
+    "jämdə̈l-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "make_fun",
+    "jə̑latar-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "have",
+    "ulə̑",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Mari (Western)",
+    "look_for",
+    "kə̈čäl-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "paint",
+    "čiält-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "bite",
+    "pə̑rə̑l-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "forfeit",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "try_to_catch",
+    "lo-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "break",
+    "tod-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "flatter",
+    "jə̑gə̑ltə̑l-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "love#person#",
+    "jarat-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "wave",
+    "maxaj-",
+    "NOM",
+    "gisan",
+    "Y",
+    "NOM_gisan"
+  ],
+  [
+    "Mari (Western)",
+    "dream",
+    "šanə̑kal-",
+    "NOM",
+    "gisan",
+    "Y",
+    "NOM_gisan"
+  ],
+  [
+    "Mari (Western)",
+    "wash",
+    "mə̑šk-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "put_on",
+    "či-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "be_called",
+    "manalt-",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Mari (Western)",
+    "punish",
+    "nakaz-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "attack",
+    "napadaj-",
+    "NOM",
+    "veke",
+    "Y",
+    "NOM_veke"
+  ],
+  [
+    "Mari (Western)",
+    "fill#intr#",
+    "tem-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "find",
+    "mo-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "be_short",
+    "ak sit-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Mari (Western)",
+    "hate",
+    "užə̑n ak kerd",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "like",
+    "kelš-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Mari (Western)",
+    "need",
+    "kel-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Mari (Western)",
+    "surround",
+    "är-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "remain",
+    "kod-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Mari (Western)",
+    "answer",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "open",
+    "pač-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "be_different",
+    "ajə̑rtemält-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "fall_behind",
+    "kod-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "plough",
+    "kə̑ral-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "smell",
+    "üpš-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "cross",
+    "vanž-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "sing",
+    "mə̑r-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "write",
+    "sir-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "drink",
+    "jü-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "melt",
+    "šə̈rät-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "match",
+    "jar-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "leave",
+    "kod-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "cover",
+    "leved-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "remember",
+    "äšt-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "help",
+    "palš-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "understand#language#",
+    "ə̑ngə̑l-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "hit#target#",
+    "värešt-",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Mari (Western)",
+    "cut_oneself",
+    "pə̑cked-ält-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "get_stuck",
+    "piž-",
+    "NOM",
+    "LAT",
+    "Y",
+    "NOM_LAT"
+  ],
+  [
+    "Mari (Western)",
+    "lose#game#",
+    "mad-ə̑n kolt-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "be_glad",
+    "susu li-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "speak",
+    "šajə̑št-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "give_birth",
+    "ə̈št-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "drop",
+    "kenvact-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "govern",
+    "vujlat-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "miss",
+    "skučaj-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "follow",
+    "keä",
+    "NOM",
+    "pastek",
+    "Y",
+    "NOM_pastek"
+  ],
+  [
+    "Mari (Western)",
+    "dismount",
+    "val-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "listen",
+    "kolə̑tšt-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "obey",
+    "kolə̑št-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "hear",
+    "kol-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "mix",
+    "jarl-alt-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "look",
+    "anž-",
+    "NOM",
+    "veke",
+    "Y",
+    "NOM_veke"
+  ],
+  [
+    "Mari (Western)",
+    "take_off",
+    "kə̑daš-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "dream#sleeping#",
+    "omə̑n-eš kaj-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Mari (Western)",
+    "agree",
+    "jaral li-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "have_a_quarrel",
+    "soredäl-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "cost",
+    "stoj-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "shoot_at",
+    "lü-",
+    "NOM",
+    "veke",
+    "Y",
+    "NOM_veke"
+  ],
+  [
+    "Mari (Western)",
+    "pour",
+    "opt-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "lose",
+    "jamd-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "sink",
+    "val-en ke-",
+    "NOM",
+    "ILL",
+    "Y",
+    "NOM_ILL"
+  ],
+  [
+    "Mari (Western)",
+    "kill",
+    "pušt-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "hit",
+    "seväl-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "kiss",
+    "šə̑pšal-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "read",
+    "lə̑d-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "move#bodypart#",
+    "tärvätə̈l-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "respect",
+    "šoteš pišt-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "be_squeamish",
+    "jə̈rn-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Mari (Western)",
+    "be_content",
+    "kogoešn-",
+    "NOM",
+    "dono",
+    "Y",
+    "NOM_dono"
+  ],
+  [
+    "Mari (Western)",
+    "fall_in_love",
+    "jarat-en šə̈nd-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "trust",
+    "dover'aj-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "sympathise",
+    "žäläj-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "envy",
+    "tə̈rə̈n' anž-",
+    "NOM",
+    "veke",
+    "Y",
+    "NOM_veke"
+  ],
+  [
+    "Mari (Western)",
+    "be_angry",
+    "šə̈dešk-",
+    "NOM",
+    "veke",
+    "Y",
+    "NOM_veke"
+  ],
+  [
+    "Mari (Western)",
+    "be_surprised",
+    "ör-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "love#tea#",
+    "jarat-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "enjoy",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "want",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "have_a_grudge",
+    "šə̈dešk-",
+    "NOM",
+    "veke",
+    "Y",
+    "NOM_veke"
+  ],
+  [
+    "Mari (Western)",
+    "take_offence",
+    "orlan-",
+    "NOM",
+    "veke",
+    "Y",
+    "NOM_veke"
+  ],
+  [
+    "Mari (Western)",
+    "upset",
+    "orlan-dar-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Mari (Western)",
+    "marvel",
+    "cüdej-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Mari (Western)",
+    "despise",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "get_upset",
+    "ojxə̑r-",
+    "NOM",
+    "gisan",
+    "Y",
+    "NOM_gisan"
+  ],
+  [
+    "Mari (Western)",
+    "get_irritated",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "be_fond",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Mari (Western)",
+    "be_shy",
+    "šeklän-",
+    "NOM",
+    "gec",
+    "Y",
+    "NOM_gec"
+  ],
+  [
+    "Moksha",
+    "feel_pain",
+    "s'ɛr'ɛd'-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Moksha",
+    "have#illness#",
+    "s'ɛr'ɛd'-",
+    "NOM",
+    "IN/marxta",
+    "Y",
+    "NOM_IN/marxta"
+  ],
+  [
+    "Moksha",
+    "be_afraid",
+    "pel'-",
+    "NOM",
+    "ABL/ezda",
+    "Y",
+    "NOM_ABL/ezda"
+  ],
+  [
+    "Moksha",
+    "throw",
+    "jorda-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "have_enough",
+    "sat-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Moksha",
+    "resemble",
+    "paxožaj",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "believe",
+    "ver'anda-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Moksha",
+    "take",
+    "s'ɛv-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "see",
+    "n'ɛj-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "influence",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "encounter",
+    "karšə vast-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "enter",
+    "suva-",
+    "NOM",
+    "LAT/DAT",
+    "Y",
+    "NOM_LAT/DAT"
+  ],
+  [
+    "Moksha",
+    "win",
+    "nal̥kə-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
     "go_out",
-    "kimegy",
+    "l'is'-",
+    "NOM",
+    "EL/ezda",
+    "Y",
+    "NOM_EL/ezda"
+  ],
+  [
+    "Moksha",
+    "drive",
+    "pan'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "bend",
+    "mɛnd'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "tell",
+    "mɛr'g-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Moksha",
+    "hold",
+    "kird'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "catch_up",
+    "sat-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "milk",
+    "pot'a-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "reach",
+    "pačkəd'-",
+    "NOM",
+    "ILL/DAT",
+    "Y",
+    "NOM_ILL/DAT"
+  ],
+  [
+    "Moksha",
+    "touch",
+    "n'ežəčn'ə-",
+    "NOM",
+    "ILL/DAT",
+    "Y",
+    "NOM_ILL/DAT"
+  ],
+  [
+    "Moksha",
+    "fight",
+    "t'ur'-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "be_friends",
+    "lad'a-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "think",
+    "dumanda-",
+    "NOM",
+    "kolga",
+    "Y",
+    "NOM_kolga"
+  ],
+  [
+    "Moksha",
+    "eat",
+    "sev-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "fry",
+    "žar'ənda-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "wait",
+    "uč-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "forget",
+    "juksta-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "depend",
+    "zavis'anda-",
+    "NOM",
+    "EL/ezda",
+    "Y",
+    "NOM_EL/ezda"
+  ],
+  [
+    "Moksha",
+    "call",
+    "t'erd'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "get_to_know",
+    "znakomanda-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "know",
+    "soda-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "play#instrument#",
+    "mora-",
+    "NOM",
+    "IN/marxta",
+    "Y",
+    "NOM_IN/marxta"
+  ],
+  [
+    "Moksha",
+    "avoid",
+    "kɛš-",
+    "NOM",
+    "ABL/ezda",
+    "Y",
+    "NOM_ABL/ezda"
+  ],
+  [
+    "Moksha",
+    "make",
+    "t'i-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "make_fun",
+    "rax-",
+    "NOM",
+    "lanksa",
+    "Y",
+    "NOM_lanksa"
+  ],
+  [
+    "Moksha",
+    "have",
+    "ul'-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Moksha",
+    "look_for",
+    "viš-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "paint",
+    "ar̥t-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "bite",
+    "susk-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "forfeit",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "try_to_catch",
+    "kunda-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "break",
+    "s'ind'ə-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "flatter",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "love#person#",
+    "kel'g-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "wave",
+    "jafijə-",
+    "NOM",
+    "IN/marxta",
+    "Y",
+    "NOM_IN/marxta"
+  ],
+  [
+    "Moksha",
+    "dream",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "wash",
+    "šta-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "put_on",
+    "šča-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "be_called",
+    "mɛr'g-",
+    "DAT",
+    "NOM(NO.AGR)",
+    "XY",
+    "DAT_NOM(NO.AGR)"
+  ],
+  [
+    "Moksha",
+    "punish",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "attack",
+    "vər'gɛt'-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "fill#intr#",
+    "pɛškəd'-",
+    "NOM",
+    "ABL/ezda",
+    "Y",
+    "NOM_ABL/ezda"
+  ],
+  [
+    "Moksha",
+    "find",
+    "mu-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "be_short",
+    "af sat-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Moksha",
+    "hate",
+    "NEG + n'ɛj-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "like",
+    "mɛl'-əzə-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "need",
+    "er'av-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Moksha",
+    "surround",
+    "kruža-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "remain",
+    "lad'-",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Moksha",
+    "answer",
+    "atveča-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Moksha",
+    "open",
+    "pan'ž-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "be_different",
+    "l'ijɛ",
+    "NOM",
+    "ABL/ezda",
+    "Y",
+    "NOM_ABL/ezda"
+  ],
+  [
+    "Moksha",
+    "fall_behind",
+    "lad'-",
+    "NOM",
+    "ABL/ezda",
+    "Y",
+    "NOM_ABL/ezda"
+  ],
+  [
+    "Moksha",
+    "plough",
+    "soka-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "smell",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "cross",
+    "jota-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "sing",
+    "mora-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "write",
+    "s'ormad'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "drink",
+    "s'imə-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "melt",
+    "šɛn'a-ft-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "match",
+    "lad'a-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Moksha",
+    "leave",
+    "kad-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "cover",
+    "aca-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "remember",
+    "mɛl'aft-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "help",
+    "l'ezd'-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Moksha",
+    "understand#language#",
+    "šar̥'kəd'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "hit#target#",
+    "pov-",
+    "NOM",
+    "ILL/DAT",
+    "Y",
+    "NOM_ILL/DAT"
+  ],
+  [
+    "Moksha",
+    "cut_oneself",
+    "kerə-v-",
+    "NOM",
+    "IN/marxta",
+    "Y",
+    "NOM_IN/marxta"
+  ],
+  [
+    "Moksha",
+    "get_stuck",
+    "ped'-",
+    "NOM",
+    "ILL/DAT",
+    "Y",
+    "NOM_ILL/DAT"
+  ],
+  [
+    "Moksha",
+    "lose#game#",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "be_glad",
+    "ken'ɛr'd'-",
+    "NOM",
+    "ILL/DAT",
+    "Y",
+    "NOM_ILL/DAT"
+  ],
+  [
+    "Moksha",
+    "speak",
+    "kor̥-n'-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "give_birth",
+    "šač-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "drop",
+    "pra-ft-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "govern",
+    "azərənda-",
+    "NOM",
+    "lanksa",
+    "Y",
+    "NOM_lanksa"
+  ],
+  [
+    "Moksha",
+    "miss",
+    "skučənda-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Moksha",
+    "follow",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "dismount",
+    "valg-",
+    "NOM",
+    "lanksta",
+    "Y",
+    "NOM_lanksta"
+  ],
+  [
+    "Moksha",
+    "listen",
+    "kul̥cənd-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "obey",
+    "kul̥cənd-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "hear",
+    "kul'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "mix",
+    "šor'a-v-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "look",
+    "van-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "take_off",
+    "kaja-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "dream#sleeping#",
+    "n'ɛj- onсtənzə",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "agree",
+    "soglas'ənda-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "have_a_quarrel",
+    "kɛžija-",
+    "NOM",
+    "marxta",
+    "Y",
+    "NOM_marxta"
+  ],
+  [
+    "Moksha",
+    "cost",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "shoot_at",
+    "l'ɛc'-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "pour",
+    "kaja-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "lose",
+    "juma-ft-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "sink",
+    "vaja-",
+    "NOM",
+    "ILL/DAT",
+    "Y",
+    "NOM_ILL/DAT"
+  ],
+  [
+    "Moksha",
+    "kill",
+    "šav-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "hit",
+    "kaja-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "kiss",
+    "pala-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "read",
+    "luv-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "move#bodypart#",
+    "šer'ft'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "respect",
+    "uvažanda-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "be_squeamish",
+    "n'il'gəd'-",
+    "NOM",
+    "ABL/ezda",
+    "Y",
+    "NOM_ABL/ezda"
+  ],
+  [
+    "Moksha",
+    "be_content",
+    "davol'naj",
+    "NOM",
+    "ezda",
+    "Y",
+    "NOM_ezda"
+  ],
+  [
+    "Moksha",
+    "fall_in_love",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "trust",
+    "nad'ija-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "sympathise",
+    "užɛl'də-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "envy",
+    "s'elməd'-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "be_angry",
+    "kɛžija-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "be_surprised",
+    "d'ivanda-",
+    "NOM",
+    "ILL/DAT",
+    "Y",
+    "NOM_ILL/DAT"
+  ],
+  [
+    "Moksha",
+    "love#tea#",
+    "kel'g-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "enjoy",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "want",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "have_a_grudge",
+    "kɛžija-fn' ",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "take_offence",
+    "obža-v-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "upset",
+    "kɛžija-ftə-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "marvel",
+    "d'ivanda-f",
+    "NOM",
+    "IN/marxta",
+    "Y",
+    "NOM_IN/marxta"
+  ],
+  [
+    "Moksha",
+    "despise",
+    "pr'ez'iranda-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Moksha",
+    "get_upset",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "get_irritated",
+    "kɛžija-fn'-",
+    "NOM",
+    "lanks",
+    "Y",
+    "NOM_lanks"
+  ],
+  [
+    "Moksha",
+    "be_fond",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Moksha",
+    "be_shy",
+    "vizd'-",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "feel_pain",
+    "риссын ",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ossetic",
+    "have#illness#",
+    "рынчын уæвын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "be_afraid",
+    "тæрсын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "throw",
+    "фехсын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "have_enough",
+    "æххæст уæвын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "resemble",
+    "хуызæн уæвын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "believe",
+    "æууæндын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "take",
+    "райсын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "see",
+    "уынын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "influence",
+    "фæзынын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "encounter",
+    "фембæлын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "enter",
+    "æрбахизын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "win",
+    "рамбулын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "go_out",
+    "рахизын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "drive",
+    "тæрын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "bend",
+    "æркъæдз кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "tell",
+    "зæгъын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "hold",
+    "хӕцын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "catch_up",
+    "баййафын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "milk",
+    "æрдуцын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "reach",
+    "бахæццæ уæвын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "touch",
+    "бандзæвын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "fight",
+    "хыл кæнын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "be_friends",
+    "хæларæй цæрын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "think",
+    "хъуыды кæнын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "eat",
+    "бахæрын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "fry",
+    "сфизонæг кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "wait",
+    "æнхъæлмæ кæсын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "forget",
+    "ферох кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "depend",
+    "баст уӕвын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "call",
+    "фæдзурын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "get_to_know",
+    "базонгæ кæнын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "know",
+    "зонын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "play#instrument#",
+    "цæгъдын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "avoid",
+    "æмбæхсын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "make",
+    "саразын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "make_fun",
+    "хынджылæг кæнын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "have",
+    "уæвын ",
+    "ALL",
+    "NOM",
+    "X",
+    "ALL_NOM"
+  ],
+  [
+    "Ossetic",
+    "look_for",
+    "агурын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "paint",
+    "сахорын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "bite",
+    "фæхæцын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "forfeit",
+    "фӕцух уӕвын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "try_to_catch",
+    "ахсын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "break",
+    "асæттын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "flatter",
+    "зæрдæлхæнæн ныхæстæ кӕнын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "love#person#",
+    "уарзын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "wave",
+    "тилын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "dream",
+    "бæллын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "wash",
+    "ныхсын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "put_on",
+    "скæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "be_called",
+    "хуыйнын",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Ossetic",
+    "punish",
+    "бафхæрын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "attack",
+    "балæбурын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "fill#intr#",
+    "байдзаг уæвын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "find",
+    "ссарын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "be_short",
+    "NEG_фаг кæнын ",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ossetic",
+    "hate",
+    "йӕ сӕфт уынын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "like",
+    "йæ зæрдæмæ цæуын ",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ossetic",
+    "need",
+    "хъæуын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "surround",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "remain",
+    "баззайын ",
+    "ALL",
+    "NOM",
+    "X",
+    "ALL_NOM"
+  ],
+  [
+    "Ossetic",
+    "answer",
+    "дзуапп раттын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "open",
+    "байгом кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "be_different",
+    "хицæн кæнын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "fall_behind",
+    "фæсте аззайын",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "plough",
+    "хуым кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "smell",
+    "тӕф кӕнын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "cross",
+    "ахизын ",
+    "NOM",
+    "sarty",
+    "Y",
+    "NOM_sarty"
+  ],
+  [
+    "Ossetic",
+    "sing",
+    "азарын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "write",
+    "ныффыссын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "drink",
+    "бануазын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "melt",
+    "стайын кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "match",
+    "сфидауын",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "leave",
+    "ныууадзын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "cover",
+    "æмбæрзын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "remember",
+    "хъуыды кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "help",
+    "аххуыс кæнын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "understand#language#",
+    "æмбарын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "hit#target#",
+    "суайын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "cut_oneself",
+    "хи алыг кæнын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "get_stuck",
+    "баныхæсын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "lose#game#",
+    "фӕхӕрд уӕвын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "be_glad",
+    "бацин кæнын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "speak",
+    "ныхас кæнын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "give_birth",
+    "ныййарын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "drop",
+    "ахауын",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Ossetic",
+    "govern",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "miss",
+    "мысын ",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "follow",
+    "цæуын ",
+    "NOM",
+    "fasta",
+    "Y",
+    "NOM_fasta"
+  ],
+  [
+    "Ossetic",
+    "dismount",
+    "æрхизын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "listen",
+    "хъусын* ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "obey",
+    "хъусын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "hear",
+    "хъусын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "mix",
+    "схӕццӕ уӕвын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "look",
+    "кæсын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "take_off",
+    "раласын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "dream#sleeping#",
+    "йӕ фыны уынын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "agree",
+    "сразы уæвын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "have_a_quarrel",
+    "фæхыл уæвын ",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Ossetic",
+    "cost",
+    "кӕнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "shoot_at",
+    "фехсын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "pour",
+    "æркæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "lose",
+    "фесафын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "sink",
+    "аныгъуылын",
+    "NOM",
+    "INESS",
+    "Y",
+    "NOM_INESS"
+  ],
+  [
+    "Ossetic",
+    "kill",
+    "амарын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "hit",
+    "ныццæвын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "kiss",
+    "апъа кæнын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "read",
+    "бакæсын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "move#bodypart#",
+    "базмæлын кӕнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "respect",
+    "аргъ кæнын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "be_squeamish",
+    "æлгъ кæнын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "be_content",
+    "разы уæвын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "fall_in_love",
+    "бауарзын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "trust",
+    "æууæндын* ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "sympathise",
+    "тæригъæд кæнын ",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Ossetic",
+    "envy",
+    "хæлæг кӕнын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "be_angry",
+    "мæсты кæнын ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "be_surprised",
+    "бадис кæнын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "love#tea#",
+    "уарзын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "enjoy",
+    "йӕ мондӕгтӕ исын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Ossetic",
+    "want",
+    "хъæуын",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Ossetic",
+    "have_a_grudge",
+    "мæсты кæнын ",
+    "NOM",
+    "ALL",
+    "Y",
+    "NOM_ALL"
+  ],
+  [
+    "Ossetic",
+    "take_offence",
+    "фæтæргай уæвын ",
+    "NOM",
+    "SUPER",
+    "Y",
+    "NOM_SUPER"
+  ],
+  [
+    "Ossetic",
+    "upset",
+    "фенкъард кæнын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "marvel",
+    "бадис кæнын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "despise",
+    "йæ сæрмæ нæ хæссын",
+    "NOM",
+    "GEN~NOM",
+    "TR",
+    "TR"
+  ],
+  [
+    "Ossetic",
+    "get_upset",
+    "рамæсты кæнын ",
+    "NOM",
+    "tyxxaj",
+    "Y",
+    "NOM_tyxxaj"
+  ],
+  [
+    "Ossetic",
+    "get_irritated",
+    "мæсты кæнын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "be_fond",
+    "йæ зæрдæмæ цæуын*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Ossetic",
+    "be_shy",
+    "ӕфсӕрмы кӕнын ",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Saami (South)",
+    "feel_pain",
+    "saejrede",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Saami (South)",
+    "have#illness#",
+    "sovhten",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Saami (South)",
+    "be_afraid",
+    "aerkie",
     "NOM",
     "ELA",
     "Y",
     "NOM_ELA"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
+    "throw",
+    "seedtie",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "have_enough",
+    "jeenjh atna",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "resemble",
+    "pliere-sne",
+    "NOM",
+    "GEN",
+    "Y",
+    "NOM_GEN"
+  ],
+  [
+    "Saami (South)",
+    "believe",
+    "jaahka",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "take",
+    "veelt-i",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "see",
+    "vuajna",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "influence",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Saami (South)",
+    "encounter",
+    "gaavned-i",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Saami (South)",
+    "enter",
+    "veedtj-i",
+    "NOM",
+    "GENsijse",
+    "Y",
+    "NOM_GENsijse"
+  ],
+  [
+    "Saami (South)",
+    "win",
+    "vitn-i",
+    "NOM",
+    "GENbijjelen",
+    "Y",
+    "NOM_GENbijjelen"
+  ],
+  [
+    "Saami (South)",
+    "go_out",
+    "veedtj-i",
+    "NOM",
+    "GENsistie",
+    "Y",
+    "NOM_GENsistie"
+  ],
+  [
+    "Saami (South)",
     "drive",
-    "vezet",
+    "voejede",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "bend",
-    "meghajlít ",
+    "vijdtj-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "tell",
-    "mond",
+    "jeeht-i",
     "NOM",
-    "DAT",
+    "ILL",
     "Y",
-    "NOM_DAT"
+    "NOM_ILL"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "hold",
-    "tart ",
+    "steerie",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "catch_up",
-    "utolér",
+    "jaks-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "milk",
-    "megfej",
+    "buhtjie-ji",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "reach",
-    "elér",
+    "jaksa",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "touch",
-    "hozzáér",
+    "båata",
     "NOM",
-    "ALL",
+    "sontereGEN",
     "Y",
-    "NOM_ALL"
+    "NOM_sontereGEN"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "fight",
-    "verekszik ",
+    "geampa-minie",
     "NOM",
-    "INS",
+    "COM",
     "Y",
-    "NOM_INS"
+    "NOM_COM"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_friends",
-    "barátkozik",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
+    "voelpe",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "think",
-    "gondol",
+    "ussjede",
     "NOM",
-    "SUB",
+    "ILL",
     "Y",
-    "NOM_SUB"
+    "NOM_ILL"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "eat",
-    "eszik ",
+    "barra-ji",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "fry",
-    "megsüt ",
+    "biss-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "wait",
-    "vár",
+    "vuertie-minie",
     "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "forget",
-    "megfeledkez",
+    "våajaldahte-me",
     "NOM",
-    "DEL",
-    "Y",
-    "NOM_DEL"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "depend",
-    "függ",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "call",
-    "hív ",
+    "tjåårve",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "get_to_know",
-    "megismer",
+    "lier-i damtedh",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "know",
-    "ismer ",
+    "damta",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "play#instrument#",
-    "*",
-    "*",
-    "*",
-    "*",
-    ""
+    "spealede",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "avoid",
-    "elkerül",
+    "avta",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "make",
-    "készít",
+    "daajhta",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "make_fun",
-    "kicsúfol",
+    "nirrie",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "have",
-    "van ",
-    "DAT",
+    "atna",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "look_for",
-    "keres ",
+    "hohtje-minie",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "paint",
-    "lefest ",
+    "mööl-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "bite",
-    "megharap ",
+    "gaaktj-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "forfeit",
-    "elveszt",
+    "dassi",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "try_to_catch",
-    "elkap",
-    "*",
-    "*",
-    "*",
-    ""
+    "jååge-minie",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "break",
-    "eltör",
+    "tjööpk-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "flatter",
-    "hízeleg",
+    "garmede",
     "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "love#person#",
-    "szeret",
+    "eatsa",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "wave",
-    "integet",
+    "saevehte",
     "NOM",
-    "INS",
+    "COM",
     "Y",
-    "NOM_INS"
+    "NOM_COM"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "dream",
-    "álmodik",
+    "niekede",
     "NOM",
-    "DEL",
+    "GENbijre",
     "Y",
-    "NOM_DEL"
+    "NOM_GENbijre"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "wash",
-    "elmos",
+    "biess-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "put_on",
-    "felvesz ",
+    "tjaaka",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_called",
-    "hívják",
+    "gahtja",
     "ACC",
-    "DAT",
-    "XY",
-    "ACC_DAT"
+    "NOM",
+    "X",
+    "ACC_NOM"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "punish",
-    "megbüntet",
+    "päsjva",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "attack",
-    "megtámad",
+    "låevtie-ji",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "fill#intr#",
-    "megtelik",
+    "diev-i",
     "NOM",
-    "INS",
+    "ELA",
     "Y",
-    "NOM_INS"
+    "NOM_ELA"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "find",
-    "megtalál",
+    "gaavn-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_short",
-    "keves-ebb- + COP",
-    "DAT",
-    "INS",
-    "XY",
-    "DAT_INS"
+    "fååtes-e",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "hate",
-    "utál",
+    "asjvoste",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "like",
-    "tetszik",
-    "DAT",
+    "lyjhkie",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "need",
-    "van szüksége",
-    "DAT",
-    "SUB",
-    "XY",
-    "DAT_SUB"
+    "daarpesje",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "surround",
-    "körbeveszik ",
+    "leah ",
     "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "GENbijrejargan ",
+    "Y",
+    "NOM_GENbijrejargan"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "remain",
-    "marad",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
+    "aajmene",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "answer",
-    "válaszol",
+    "vaestied-i",
     "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "open",
-    "kinyit",
+    "rihpest-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_different",
-    "különbözik",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
-  ],
-  [
-    "Hungarian",
-    "fall_behind",
-    "lemarad",
-    "NOM",
-    "mogott",
-    "Y",
-    "NOM_mogott"
-  ],
-  [
-    "Hungarian",
-    "plough",
-    "szánt",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
-  ],
-  [
-    "Hungarian",
-    "smell",
     "*",
     "*",
     "*",
@@ -40392,520 +36855,547 @@ const structuralData = [
     ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
+    "fall_behind",
+    "sjidt-i",
+    "NOM",
+    "GENmanngan",
+    "Y",
+    "NOM_GENmanngan"
+  ],
+  [
+    "Saami (South)",
+    "plough",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Saami (South)",
+    "smell",
+    "hepsie-h",
+    "NOM",
+    "ELA",
+    "Y",
+    "NOM_ELA"
+  ],
+  [
+    "Saami (South)",
     "cross",
-    "átmegy",
+    "vaadtja",
     "NOM",
-    "SUP",
+    "GENraaste",
     "Y",
-    "NOM_SUP"
+    "NOM_GENraaste"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "sing",
-    "énekel",
+    "laavla-ji",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "write",
-    "ír",
+    "tjaelie-ji",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "drink",
-    "(meg)iszik",
+    "jovk-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "melt",
-    "(meg)ólom",
+    "sjalkede",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "match",
-    "megy",
+    "sjeahta",
     "NOM",
-    "ALL",
+    "ILL",
     "Y",
-    "NOM_ALL"
+    "NOM_ILL"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "leave",
-    "elhagy ",
+    "leehp-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "cover",
-    "lefed",
+    "gaptja",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "remember",
-    "emlékszik",
+    "majhta",
     "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "help",
-    "segít",
+    "viehked-i",
     "NOM",
-    "DAT",
-    "Y",
-    "NOM_DAT"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "understand#language#",
-    "ért",
+    "gårkå",
     "NOM",
-    "ESS",
-    "Y",
-    "NOM_ESS"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "hit#target#",
-    "csap",
+    "leek-i",
     "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "cut_oneself",
-    "megvág ",
+    "tjoehpede",
     "NOM",
-    "INS",
+    "COM",
     "Y",
-    "NOM_INS"
+    "NOM_COM"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "get_stuck",
-    "odaragad",
+    "dabran-i",
     "NOM",
-    "ALL",
+    "ILL",
     "Y",
-    "NOM_ALL"
+    "NOM_ILL"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "lose#game#",
-    "veszít",
+    "dass-i",
     "NOM",
-    "szembenINS",
+    "GENvuestie",
     "Y",
-    "NOM_szembenINS"
+    "NOM_GENvuestie"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_glad",
-    "örül ",
+    "feejjen sjidt-i",
     "NOM",
-    "DAT",
+    "GENavteste",
     "Y",
-    "NOM_DAT"
+    "NOM_GENavteste"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "speak",
-    "beszélget",
+    "soptseste",
     "NOM",
-    "INS",
+    "COM",
     "Y",
-    "NOM_INS"
+    "NOM_COM"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "give_birth",
-    "szül",
+    "baersield-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "drop",
-    "elejt",
+    "gahtjed-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "govern",
-    "ural",
+    "reerie",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "miss",
-    "hiányzik ",
-    "DAT",
+    "sorkese",
     "NOM",
-    "X",
-    "DAT_NOM"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "follow",
-    "követ",
+    "doerede",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "dismount",
-    "leszáll ",
+    "tjöödtjest-i",
     "NOM",
-    "DEL",
+    "ELA",
     "Y",
-    "NOM_DEL"
+    "NOM_ELA"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "listen",
-    "hallgat",
+    "goltele",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "obey",
-    "hallgat ",
+    "goltele",
     "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "hear",
-    "hall ",
+    "gåvla",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "mix",
-    "összekeveredik",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "look",
-    "néz ",
+    "vuartesje",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "take_off",
-    "levesz",
+    "sjigk-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "dream#sleeping#",
-    "álmodik ",
+    "niekede",
     "NOM",
-    "DEL",
+    "GENbijre",
     "Y",
-    "NOM_DEL"
+    "NOM_GENbijre"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "agree",
-    "egyetért",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "have_a_quarrel",
-    "összeveszik",
+    "traakeste",
     "NOM",
-    "INS",
+    "COM",
     "Y",
-    "NOM_INS"
+    "NOM_COM"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "cost",
-    "kerül",
-    "NOM",
-    "ILL",
-    "Y",
-    "NOM_ILL"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "shoot_at",
-    "rálő ",
+    "skööht-i",
     "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "pour",
-    "tesz",
+    "gurkie",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "lose",
-    "elveszít",
+    "dass-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "sink",
-    "elsüllyed",
-    "NOM",
-    "ala",
-    "Y",
-    "NOM_ala"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "kill",
-    "megöl",
+    "bovv-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "hit",
-    "megüt",
+    "tjååskel-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "kiss",
-    "megcsókol",
+    "tjuvliest-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "read",
-    "olvas",
+    "lohk-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "move#bodypart#",
-    "mozgat",
+    "svihtj-i",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "respect",
-    "tisztel",
+    "heevehte",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_squeamish",
-    "kényes",
-    "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_content",
-    "elégedett",
+    "lea madtjeles",
     "NOM",
-    "INS",
+    "COM",
     "Y",
-    "NOM_INS"
+    "NOM_COM"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "fall_in_love",
-    "beleszeret",
+    "iehtse-gååt-i",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "trust",
+    "jaahka",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "sympathise",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Saami (South)",
+    "envy",
+    "ååvete",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Saami (South)",
+    "be_angry",
+    "måarehke",
     "NOM",
     "ILL",
     "Y",
     "NOM_ILL"
   ],
   [
-    "Hungarian",
-    "trust",
-    "bízik",
-    "NOM",
-    "INE",
-    "Y",
-    "NOM_INE"
-  ],
-  [
-    "Hungarian",
-    "sympathise",
-    "együttérez",
-    "NOM",
-    "INS",
-    "Y",
-    "NOM_INS"
-  ],
-  [
-    "Hungarian",
-    "envy",
-    "irigy",
-    "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
-  ],
-  [
-    "Hungarian",
-    "be_angry",
-    "mérges",
-    "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
-  ],
-  [
-    "Hungarian",
+    "Saami (South)",
     "be_surprised",
-    "meglepődik",
-    "NOM",
-    "ABL",
-    "Y",
-    "NOM_ABL"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "love#tea#",
-    "imád",
+    "lyjhkoe",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "enjoy",
-    "jól esik ",
-    "DAT",
-    "NOM",
-    "X",
-    "DAT_NOM"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "want",
-    "akar",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "have_a_grudge",
-    "haragszik",
+    "måaskan sjidteme",
     "NOM",
-    "SUB",
+    "ILL",
     "Y",
-    "NOM_SUB"
+    "NOM_ILL"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "take_offence",
-    "megsértődik",
+    "måaskan sjidteme",
     "NOM",
-    "SUB",
+    "ILL",
     "Y",
-    "NOM_SUB"
+    "NOM_ILL"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "upset",
-    "elszomorít",
+    "aarkeda-mme",
     "NOM",
     "ACC",
     "TR",
     "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "marvel",
     "*",
     "*",
@@ -40914,61 +37404,1231 @@ const structuralData = [
     ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "despise",
-    "megvet ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "get_upset",
-    "csalódott",
-    "NOM",
-    "INE",
-    "Y",
-    "NOM_INE"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "get_irritated",
-    "haragszik ",
+    "naskas sjädta",
     "NOM",
-    "SUB",
-    "Y",
-    "NOM_SUB"
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_fond",
-    "szeret ",
-    "NOM",
-    "ACC",
-    "TR",
-    "TR"
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
-    "Hungarian",
+    "Saami (South)",
     "be_shy",
-    "szégyell",
-    "NOM",
-    "ACC",
+    "käinn",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "feel_pain",
+    "wàtú",
+    "POSS.OBJ",
+    "SBJ",
+    "X",
+    "POSS.OBJ_SBJ"
+  ],
+  [
+    "Soninke",
+    "have#illness#",
+    "rágà",
+    "OBJ",
+    "SBJ",
+    "X",
+    "OBJ_SBJ"
+  ],
+  [
+    "Soninke",
+    "be_afraid",
+    "kànú",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "throw",
+    "sédì ",
+    "SBJ",
+    "OBJ",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Soninke",
+    "have_enough",
+    "bágá",
+    "OBJ",
+    "SBJ",
+    "X",
+    "OBJ_SBJ"
+  ],
+  [
+    "Soninke",
+    "resemble",
+    "qáwà",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "believe",
+    "sáxú",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "take",
+    "wùtú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "see",
+    "ŋàrí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "influence",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "encounter",
+    "gèmú ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "enter",
+    "ró ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "win",
+    "qósó",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "go_out",
+    "búgú",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "drive",
+    "gèngé",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "bend",
+    "gòròbìndí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "tell",
+    "kò/kó",
+    "SBJ",
+    "da",
+    "Y",
+    "SBJ_da"
+  ],
+  [
+    "Soninke",
+    "hold",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "catch_up",
+    "légè ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "milk",
+    "qámú",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "reach",
+    "kìñé ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "touch",
+    "kátì",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "fight",
+    "gàjá",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "be_friends",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "think",
+    "sínmè ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "eat",
+    "yígá",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "fry",
+    "bíyí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "wait",
+    "dùgú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "forget",
+    "mùngú",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "depend",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "call",
+    "qírí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "get_to_know",
+    "tù/tú",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "know",
+    "tù/tú",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "play#instrument#",
+    "tímí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "avoid",
+    "gòorí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "make",
+    "dàbárì",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "make_fun",
+    "sòyí",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "have",
+    "wá",
+    "maxa",
+    "SBJ",
+    "X",
+    "maxa_SBJ"
+  ],
+  [
+    "Soninke",
+    "look_for",
+    "mùndú",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "paint",
+    "péntírí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "bite",
+    "qíñí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "forfeit",
+    "bònó",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "try_to_catch",
+    "rágà ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "break",
+    "qósó",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "flatter",
+    "jàkkí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "love#person#",
+    "qànú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "wave",
+    "yònkó ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "dream",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "wash",
+    "yánqí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "put_on",
+    "róndí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "be_called",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "punish",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "attack",
+    "qénú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "fill#intr#",
+    "hógú",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "find",
+    "ñì/ñí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "be_short",
+    "kòntó ",
+    "yi",
+    "SBJ",
+    "X",
+    "yi_SBJ"
+  ],
+  [
+    "Soninke",
+    "hate",
+    "qóní ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "like",
+    "línŋí ",
+    "da",
+    "SBJ",
+    "X",
+    "da_SBJ"
+  ],
+  [
+    "Soninke",
+    "need",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "surround",
+    "kòorí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "remain",
+    "tóxó",
+    "maxa",
+    "SBJ",
+    "X",
+    "maxa_SBJ"
+  ],
+  [
+    "Soninke",
+    "answer",
+    "jáabì",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "open",
+    "ŋùñí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "be_different",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "fall_behind",
+    "léelàntá ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "plough",
+    "kòbí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "smell",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "cross",
+    "kárá",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "sing",
+    "sùugú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "write",
+    "sáhà ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "drink",
+    "mìní",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "melt",
+    "qàjá ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "match",
+    "gèmú",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "leave",
+    "wàrá ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "cover",
+    "qúhú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "remember",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "help",
+    "dèemá ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "understand#language#",
+    "hàámù ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "hit#target#",
+    "qénú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "cut_oneself",
+    "kútú",
+    "SBJ",
+    "ti.yi",
+    "Y",
+    "SBJ_ti.yi"
+  ],
+  [
+    "Soninke",
+    "get_stuck",
+    "màlí ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "lose#game#",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "be_glad",
+    "ñáxálí ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "speak",
+    "sèhé ",
+    "SBJ",
+    "da",
+    "Y",
+    "SBJ_da"
+  ],
+  [
+    "Soninke",
+    "give_birth",
+    "sàará ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "drop",
+    "yèrèndí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "govern",
+    "màrá ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "miss",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "follow",
+    "bàtú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "dismount",
+    "yànqá ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "listen",
+    "térínká ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "obey",
+    "térínká",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "hear",
+    "mùgú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "mix",
+    "kólóncé ",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "look",
+    "háyí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "take_off",
+    "wùtú kànmún ŋà",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "dream#sleeping#",
+    "kùyí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "agree",
+    "dùnŋé ",
+    "SBJ",
+    "da",
+    "Y",
+    "SBJ_da"
+  ],
+  [
+    "Soninke",
+    "have_a_quarrel",
+    "sónqò",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "cost",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "shoot_at",
+    "máráhàn kátú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "pour",
+    "jòxú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "lose",
+    "sánkú",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "sink",
+    "yóolè ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "kill",
+    "kàrí",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "hit",
+    "kátú",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "kiss",
+    "sùgú",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "read",
+    "qàrá ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "move#bodypart#",
+    "yònkó",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "respect",
+    "dàró ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "be_squeamish",
+    "ñéxú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "be_content",
+    "sáxú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "fall_in_love",
+    "qànú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "trust",
+    "sáxú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "sympathise",
+    "hínnè ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "envy",
+    "súuxè ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "be_angry",
+    "bútú ",
+    "SBJ",
+    "wure",
+    "Y",
+    "SBJ_wure"
+  ],
+  [
+    "Soninke",
+    "be_surprised",
+    "làsámè ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "love#tea#",
+    "línŋí",
+    "da",
+    "SBJ",
+    "X",
+    "da_SBJ"
+  ],
+  [
+    "Soninke",
+    "enjoy",
+    "dàxámù",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "want",
+    "mùllá",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "have_a_grudge",
+    "bútú ",
+    "SBJ",
+    "wure",
+    "Y",
+    "SBJ_wure"
+  ],
+  [
+    "Soninke",
+    "take_offence",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Soninke",
+    "upset",
+    "sùnòndí ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "marvel",
+    "làsámè ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "despise",
+    "nèxú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "get_upset",
+    "sùnó",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Soninke",
+    "get_irritated",
+    "bútú ",
+    "SBJ",
+    "wure",
+    "Y",
+    "SBJ_wure"
+  ],
+  [
+    "Soninke",
+    "be_fond",
+    "qànú ",
+    "SBJ",
+    "OBJ",
+    "TR",
+    "TR"
+  ],
+  [
+    "Soninke",
+    "be_shy",
+    "yàagú ",
+    "SBJ",
+    "yi",
+    "Y",
+    "SBJ_yi"
+  ],
+  [
+    "Tuvinian",
     "feel_pain",
     "",
-    "POSS",
-    "ABS",
+    "GEN",
+    "NOM",
     "X",
-    "POSS_ABS"
+    "GEN_NOM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "have#illness#",
     "",
     "*",
@@ -40977,1155 +38637,3495 @@ const structuralData = [
     ""
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_afraid",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "ABL",
     "Y",
-    "ABS_ALL"
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "throw",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "have_enough",
     "",
-    "POSS",
-    "ABS",
+    "GEN",
+    "NOM",
     "X",
-    "POSS_ABS"
+    "GEN_NOM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "resemble",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "COM",
     "Y",
-    "ABS_ALL"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "believe",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "DAT",
     "Y",
-    "ABS_ALL"
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "take",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "see",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "influence",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "encounter",
     "",
-    "ABS",
+    "NOM",
     "COM",
     "Y",
-    "ABS_COM"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "enter",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "ALL1",
     "Y",
-    "ABS_ALL"
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "win",
     "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "go_out",
     "",
-    "ABS",
+    "NOM",
     "ABL",
     "Y",
-    "ABS_ABL"
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "drive",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "bend",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "tell",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "hold",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "catch_up",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "milk",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "reach",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "ALL1",
     "Y",
-    "ABS_ALL"
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "touch",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "fight",
     "",
-    "ABS",
+    "NOM",
     "COM",
     "Y",
-    "ABS_COM"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_friends",
     "",
-    "ABS",
+    "NOM",
     "COM",
     "Y",
-    "ABS_COM"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "think",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "GENdugajynda",
     "Y",
-    "ABS_ALL"
+    "NOM_GENdugajynda"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "eat",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "fry",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "wait",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "forget",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "GENdugajynda",
+    "Y",
+    "NOM_GENdugajynda"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "depend",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "call",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "get_to_know",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "know",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "play#instrument#",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "avoid",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "make",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "make_fun",
     "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "have",
     "",
-    "POSS",
-    "ABS",
+    "LOC",
+    "NOM",
     "X",
-    "POSS_ABS"
+    "LOC_NOM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "look_for",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "paint",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "bite",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "forfeit",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "try_to_catch",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "break",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "flatter",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "DAT",
     "Y",
-    "ABS_ALL"
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "love#person#",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "wave",
     "",
-    "ABS",
-    "INS",
+    "NOM",
+    "COM",
     "Y",
-    "ABS_INS"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "dream",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "GENdugajynda",
+    "Y",
+    "NOM_GENdugajynda"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "wash",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "put_on",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_called",
     "",
-    "ABS",
-    "EQU",
-    "Y",
-    "ABS_EQU"
+    "ACC",
+    "NOM(NO.AGR)",
+    "XY",
+    "ACC_NOM(NO.AGR)"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "punish",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "attack",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "fill#intr#",
     "",
-    "ABS",
-    "INS",
+    "NOM",
+    "COM",
     "Y",
-    "ABS_INS"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "find",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_short",
     "",
-    "POSS",
-    "ABS",
-    "X",
-    "POSS_ABS"
+    "DAT",
+    "NOM(NO.AGR)",
+    "XY",
+    "DAT_NOM(NO.AGR)"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "hate",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "like",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "need",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "surround",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "remain",
     "",
-    "POSS",
-    "ABS",
+    "LOC",
+    "NOM",
     "X",
-    "POSS_ABS"
+    "LOC_NOM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "answer",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "ALL1",
     "Y",
-    "ABS_ALL"
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "open",
     "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_different",
     "",
-    "ABS",
+    "NOM",
     "ABL",
     "Y",
-    "ABS_ABL"
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "fall_behind",
     "",
-    "ABS",
+    "NOM",
     "ABL",
     "Y",
-    "ABS_ABL"
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "plough",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "smell",
     "",
-    "ABS",
-    "INS",
+    "NOM",
+    "COM",
     "Y",
-    "ABS_INS"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "cross",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "sing",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "write",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "drink",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "melt",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "match",
     "",
-    "ABS",
-    "COM",
+    "NOM",
+    "DAT",
     "Y",
-    "ABS_COM"
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "leave",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "cover",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "remember",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "help",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "understand#language#",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "hit#target#",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "cut_oneself",
     "",
-    "ABS",
-    "INS",
+    "NOM",
+    "COM",
     "Y",
-    "ABS_INS"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "get_stuck",
     "",
-    "ABS",
-    "LOC",
+    "NOM",
+    "ALL1",
     "Y",
-    "ABS_LOC"
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "lose#game#",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_glad",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "DAT",
     "Y",
-    "ABS_ALL"
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "speak",
     "",
-    "ABS",
+    "NOM",
     "COM",
     "Y",
-    "ABS_COM"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "give_birth",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "drop",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "govern",
     "",
-    "ABS",
-    "LOC",
-    "Y",
-    "ABS_LOC"
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "miss",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "follow",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "GENsoonda",
     "Y",
-    "ABS_ALL"
+    "NOM_GENsoonda"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "dismount",
     "",
-    "ABS",
+    "NOM",
     "ABL",
     "Y",
-    "ABS_ABL"
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "listen",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "obey",
     "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "hear",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "mix",
     "",
-    "ABS",
+    "NOM",
     "COM",
     "Y",
-    "ABS_COM"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "look",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "take_off",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "dream#sleeping#",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "agree",
     "",
-    "ABS",
+    "NOM",
     "COM",
     "Y",
-    "ABS_COM"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "have_a_quarrel",
     "",
-    "ABS",
+    "NOM",
     "COM",
     "Y",
-    "ABS_COM"
+    "NOM_COM"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "cost",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "shoot_at",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "ALL1",
+    "Y",
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "pour",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "lose",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "sink",
     "",
-    "ABS",
-    "INESS",
+    "NOM",
+    "ALL1",
     "Y",
-    "ABS_INESS"
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "kill",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "hit",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "kiss",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "read",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "move#bodypart#",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "respect",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_squeamish",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "ABL",
     "Y",
-    "ABS_ALL"
+    "NOM_ABL"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_content",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "fall_in_love",
     "",
-    "ERG",
-    "ABS",
-    "TR",
-    "TR"
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "trust",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "DAT",
     "Y",
-    "ABS_ALL"
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "sympathise",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "envy",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "DAT",
     "Y",
-    "ABS_ALL"
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_angry",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "ALL1",
     "Y",
-    "ABS_ALL"
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "be_surprised",
     "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "love#tea#",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "enjoy",
     "",
-    "*",
-    "*",
-    "*",
-    ""
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "want",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "have_a_grudge",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "ALL1",
     "Y",
-    "ABS_ALL"
+    "NOM_ALL1"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "take_offence",
     "",
-    "ABS",
-    "ALL",
+    "NOM",
+    "DAT",
     "Y",
-    "ABS_ALL"
+    "NOM_DAT"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "upset",
     "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
     "marvel",
     "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
-  ],
-  [
-    "Chukchi",
-    "despise",
-    "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
-  ],
-  [
-    "Chukchi",
-    "get_upset",
-    "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
-  ],
-  [
-    "Chukchi",
-    "get_irritated",
-    "",
-    "ABS",
-    "ALL",
-    "Y",
-    "ABS_ALL"
-  ],
-  [
-    "Chukchi",
-    "be_fond",
-    "",
-    "ERG",
-    "ABS",
+    "NOM",
+    "ACC",
     "TR",
     "TR"
   ],
   [
-    "Chukchi",
+    "Tuvinian",
+    "despise",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Tuvinian",
+    "get_upset",
+    "",
+    "NOM",
+    "GENdeesh",
+    "Y",
+    "NOM_GENdeesh"
+  ],
+  [
+    "Tuvinian",
+    "get_irritated",
+    "",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Tuvinian",
+    "be_fond",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Tuvinian",
     "be_shy",
     "",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Udihe",
+    "feel_pain",
+    "uni-",
+    "POSS",
+    "NOM",
+    "X",
+    "POSS_NOM"
+  ],
+  [
+    "Udihe",
+    "have#illness#",
+    "sulə-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "be_afraid",
+    "ŋələ-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "throw",
+    "wəndə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "have_enough",
+    "NEG + zokčo",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "resemble",
+    "d'oxo  bi-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "believe",
+    "čəzə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "take",
+    "asta-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "see",
+    "isə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "influence",
+    "*",
     "*",
     "*",
     "*",
     ""
+  ],
+  [
+    "Udihe",
+    "encounter",
+    "b'a-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "enter",
+    "ii-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "win",
+    "ətə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "go_out",
+    "ñuo-gi-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Udihe",
+    "drive",
+    "igbə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "bend",
+    "uu-woŋ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "tell",
+    "diɣanə-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "hold",
+    "zawa-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "catch_up",
+    "b'oŋ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "milk",
+    "daila-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "reach",
+    "iiŋ-",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
+  ],
+  [
+    "Udihe",
+    "touch",
+    "tuŋga-la-",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
+  ],
+  [
+    "Udihe",
+    "fight",
+    "w'ali-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "be_friends",
+    "andasi-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "think",
+    "məisi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "eat",
+    "diga-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "fry",
+    "kakčisi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "wait",
+    "alasi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "forget",
+    "oŋmo-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "depend",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "call",
+    "gələ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "get_to_know",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "know",
+    "sə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "play#instrument#",
+    "gusi-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "avoid",
+    "susa-wasi-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Udihe",
+    "make",
+    "o-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "make_fun",
+    "kəsə-we-li-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "have",
+    "(COP)",
+    "NOM",
+    "ORN",
+    "Y",
+    "NOM_ORN"
+  ],
+  [
+    "Udihe",
+    "look_for",
+    "galaktə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "paint",
+    "kraskala-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "bite",
+    "iktəmə-lə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "forfeit",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "try_to_catch",
+    "zawa-kcə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "break",
+    "buktali-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "flatter",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "love#person#",
+    "aju-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "wave",
+    "akpi-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "dream",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "wash",
+    "siki-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "put_on",
+    "təti-gi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "be_called",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "punish",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "attack",
+    "xokco-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "fill#intr#",
+    "sabda- (tääsi )",
+    "ACC",
+    "NOM",
+    "X",
+    "ACC_NOM"
+  ],
+  [
+    "Udihe",
+    "find",
+    "b'a-gi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "be_short",
+    "ə-i-ni iinə",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Udihe",
+    "hate",
+    "galu-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "like",
+    "čaalə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "need",
+    "zokco-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "surround",
+    "?",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "remain",
+    "osi-gi-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Udihe",
+    "answer",
+    "diaŋ-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "open",
+    "nienti-lə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "be_different",
+    "xonto",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Udihe",
+    "fall_behind",
+    "amääsa-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Udihe",
+    "plough",
+    "gəŋculə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "smell",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "cross",
+    "dau-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "sing",
+    "jəxə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "write",
+    "oño-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "drink",
+    "umnasi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "melt",
+    "unə-wə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "match",
+    "asə-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "leave",
+    "nodo-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "cover",
+    "likpi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "remember",
+    "zoŋi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "help",
+    "bələsi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "understand#language#",
+    "sə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "hit#target#",
+    "agdinda-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Udihe",
+    "cut_oneself",
+    "əndə-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "get_stuck",
+    "lagbaŋ-",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
+  ],
+  [
+    "Udihe",
+    "lose#game#",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "be_glad",
+    "agda-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "speak",
+    "diɣa-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "give_birth",
+    "b'a-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "drop",
+    "tugbu-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "govern",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "miss",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "follow",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "dismount",
+    "əugi-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Udihe",
+    "listen",
+    "düi-si-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "obey",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "hear",
+    "düi-si-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "mix",
+    "solü-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "look",
+    "isə-si-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "take_off",
+    "asta-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "dream#sleeping#",
+    "t'osi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "agree",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "have_a_quarrel",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "cost",
+    "bi-",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Udihe",
+    "shoot_at",
+    "gakpa-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "pour",
+    "kuŋgədə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "lose",
+    "nodo-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "sink",
+    "juu-",
+    "NOM",
+    "LOC",
+    "Y",
+    "NOM_LOC"
+  ],
+  [
+    "Udihe",
+    "kill",
+    "wa-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "hit",
+    "duktə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "kiss",
+    "ñuɣasi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "read",
+    "taŋi-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "move#bodypart#",
+    "ugi-wəŋ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "respect",
+    "čəzə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "be_squeamish",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "be_content",
+    "agdа-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Udihe",
+    "fall_in_love",
+    "aju-li-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "trust",
+    "čəzə-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "sympathise",
+    "nantə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "envy",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "be_angry",
+    "tagdа-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "be_surprised",
+    "xuenə-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "love#tea#",
+    "aju-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "enjoy",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "want",
+    "gələ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "have_a_grudge",
+    "tagda-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "take_offence",
+    "tagda-",
+    "NOM",
+    "DIR",
+    "Y",
+    "NOM_DIR"
+  ],
+  [
+    "Udihe",
+    "upset",
+    "tagda-waŋ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Udihe",
+    "marvel",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "despise",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "get_upset",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "get_irritated",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "be_fond",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Udihe",
+    "be_shy",
+    "xagzə-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Yakut",
+    "feel_pain",
+    "ыалдь-",
+    "POSS",
+    "NOM",
+    "X",
+    "POSS_NOM"
+  ],
+  [
+    "Yakut",
+    "have#illness#",
+    "ыалдь-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Yakut",
+    "be_afraid",
+    "куттан-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "throw",
+    "бырах-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "have_enough",
+    "тиий-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Yakut",
+    "resemble",
+    "майгынны-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "believe",
+    "итэҕэй-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "take",
+    "ыл-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "see",
+    "көр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "influence",
+    "дьай-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "encounter",
+    "көр-сү-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "enter",
+    "киир-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "win",
+    "кыай-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "go_out",
+    "таҕыс",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "drive",
+    "үүр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "bend",
+    "токуру-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "tell",
+    "эп-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "hold",
+    "тут-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "catch_up",
+    "сит-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "milk",
+    "ыа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "reach",
+    "тиий-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "touch",
+    "таарый-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "fight",
+    "охсу-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Yakut",
+    "be_friends",
+    "доҕордоһо-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Yakut",
+    "think",
+    "толкуй-",
+    "NOM",
+    "tuhunan",
+    "Y",
+    "NOM_tuhunan "
+  ],
+  [
+    "Yakut",
+    "eat",
+    "сиэ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "fry",
+    "ыһаары-лаа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "wait",
+    "кэтэһ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "forget",
+    "умну-",
+    "NOM",
+    "tuhunan",
+    "Y",
+    "NOM_tuhunan "
+  ],
+  [
+    "Yakut",
+    "depend",
+    "тутулук-таах",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "call",
+    "ыҥыр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "get_to_know",
+    "билсис-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Yakut",
+    "know",
+    "бил-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "play#instrument#",
+    "ооньоо-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "avoid",
+    "куотун-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "make",
+    "оҥор",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "make_fun",
+    "күлүү гын-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "have",
+    "0",
+    "NOM",
+    "ADJ",
+    "Y",
+    "NOM_ADJ"
+  ],
+  [
+    "Yakut",
+    "look_for",
+    "көрд-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "paint",
+    "кырааскалаа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "bite",
+    "ытыр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "forfeit",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Yakut",
+    "try_to_catch",
+    "тут-а сат-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Yakut",
+    "break",
+    "алдьап-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "flatter",
+    "албынна-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "love#person#",
+    "тап-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "wave",
+    "далбаа-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Yakut",
+    "dream",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Yakut",
+    "wash",
+    "сууй-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "put_on",
+    "кэп-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "be_called",
+    "дэн-",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Yakut",
+    "punish",
+    "кэһэт-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "attack",
+    "саб-а түс-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "fill#intr#",
+    "туол-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Yakut",
+    "find",
+    "бул-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "be_short",
+    "тиий-NEG",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Yakut",
+    "hate",
+    "абааһы көр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "like",
+    "сөбүл-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "need",
+    "наадый-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "surround",
+    "тулалыы-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "remain",
+    "хаал-",
+    "DAT",
+    "NOM",
+    "X",
+    "DAT_NOM"
+  ],
+  [
+    "Yakut",
+    "answer",
+    "эппиэттээ-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "open",
+    "арый-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "be_different",
+    "атын",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "fall_behind",
+    "хаал-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "plough",
+    "хорут-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "smell",
+    "сыт-таах",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Yakut",
+    "cross",
+    "туораа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "sing",
+    "ыллаа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "write",
+    "суруй-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "drink",
+    "ис-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "melt",
+    "ууллар-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "match",
+    "барсар",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "leave",
+    "бар",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "cover",
+    "саб",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "remember",
+    "өйд-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "help",
+    "көмөлөс",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "understand#language#",
+    "өйд-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "hit#target#",
+    "оҕус-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "cut_oneself",
+    "(быһ-а соп-пут)",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Yakut",
+    "get_stuck",
+    "(сысты-быт)",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "lose#game#",
+    "хоттор-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "be_glad",
+    "үөр-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "speak",
+    "кэпсэт-э олор-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Yakut",
+    "give_birth",
+    "төрө-т-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "drop",
+    "түһэр",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "govern",
+    "салай-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Yakut",
+    "miss",
+    "аҕын-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "follow",
+    "батыс-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "dismount",
+    "тус-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "listen",
+    "иһит-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "obey",
+    "иһит-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Yakut",
+    "hear",
+    "иһит-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "mix",
+    "буккуллу-",
+    "NOM",
+    "kytta",
+    "Y",
+    "NOM_kytta"
+  ],
+  [
+    "Yakut",
+    "look",
+    "кэтээ-н көр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "take_off",
+    "уһул-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "dream#sleeping#",
+    "түһээ-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "agree",
+    "сөбүлэ-с-",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Yakut",
+    "have_a_quarrel",
+    "эт-ис",
+    "NOM",
+    "COM",
+    "Y",
+    "NOM_COM"
+  ],
+  [
+    "Yakut",
+    "cost",
+    "*",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Yakut",
+    "shoot_at",
+    "ыт-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "pour",
+    "кут-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "lose",
+    "сүт-эр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "sink",
+    "тимир-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "kill",
+    "өл-өр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "hit",
+    "саай-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "kiss",
+    "сыллаа-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "read",
+    "аах-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "move#bodypart#",
+    "хамса-т-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "respect",
+    "убаастаа",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "be_squeamish",
+    "сиргэн-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "be_content",
+    "киэн тутт-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Yakut",
+    "fall_in_love",
+    "астын-а көр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "trust",
+    "итэҕэй-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "sympathise",
+    "аһын-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "envy",
+    "ордугург-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "be_angry",
+    "кыыһыр-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "be_surprised",
+    "соһуй-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "love#tea#",
+    "сөбүл-",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Yakut",
+    "enjoy",
+    "дуоһуй-",
+    "NOM",
+    "INS",
+    "Y",
+    "NOM_INS"
+  ],
+  [
+    "Yakut",
+    "want",
+    "баҕар-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "have_a_grudge",
+    "кыыһыр-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "take_offence",
+    "хоргу-т-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
+  ],
+  [
+    "Yakut",
+    "upset",
+    "хомот-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "marvel",
+    "сөх-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "despise",
+    "абааһы көр-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "get_upset",
+    "хомой-",
+    "NOM",
+    "syltaan",
+    "Y",
+    "NOM_syltaan"
+  ],
+  [
+    "Yakut",
+    "get_irritated",
+    "кыйахан-",
+    "NOM",
+    "DAT",
+    "Y",
+    "NOM_DAT"
+  ],
+  [
+    "Yakut",
+    "be_fond",
+    "сөбүл-",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Yakut",
+    "be_shy",
+    "кыбыhын-",
+    "NOM",
+    "ABL",
+    "Y",
+    "NOM_ABL"
   ]
 ];
