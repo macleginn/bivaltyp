@@ -22,8 +22,8 @@ Case marking displays the nominative-accusative alignment. In the basic transiti
 
 ```
 
-(1)  Djevojčic-a  je          vidje-l-a                 kos-a.
-     girl-NOM.SG  be.PRS.3SG  see(IPFV)-PART.PERF-F.SG  blackbird-ACC.SG
+(1)  Djevojčic-a  je          vidje-l-a                     kos-a.
+     girl-NOM.SG  be.PRS.3SG  see(PFV/IPFV)-PART.PERF-F.SG  blackbird-ACC.SG
      ‘The girl saw the blackbird.’
 
 (2)  Dječak         je          obrisa-o                  nos.
