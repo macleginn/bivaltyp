@@ -15,3 +15,6 @@ The data were collected in 2018-2019 using the Russian version of the questionna
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+ABL — ablative; ABS — absolutive; AD — adessive; AG — agent; AOC — agent-oriented converb; AOR — aorist; BEN — benefactive; CAR — caritive; CVB — converb; DAT — dative; DEM — demonstrative; ERG — ergative; F — feminine; GEN — genitive; INF — infinitive; LV — light verb; M — masculine; MSD — masdar (verbal noun); NEG — negation; OBL — oblique; PERF — perfect; PF — perfective; PL — plural; PN — person name; PRS — present; SBST — substantivizer; SG — singular; ST — state; SUPER — superessive.
