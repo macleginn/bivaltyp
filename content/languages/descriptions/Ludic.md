@@ -18,5 +18,5 @@ The Russian version of the questionnaire was used for elicitation. The data were
 
 ## Grammar notes
 ### Basic clause structure and the transitive construction
-In Ludic, singular direct objects are coded by forms that coincide with the genitive case, while plural direct objects are coded by forms that coincide with the nominative case. Several analytic decisions are possible (e.g. describing this patterns as a case of Differential Object Marking), however, in what follows all such forms are intereted as accusative case forms. 
+In Ludic, singular direct objects are coded by forms that coincide with the genitive case, while plural direct objects are coded by forms that coincide with the nominative case. Several analytic decisions are possible (e.g. describing this patterns as a case of Differential Object Marking), however, in what follows all such forms are interpreted as accusative case forms. 
 
