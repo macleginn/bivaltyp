@@ -1,12 +1,12 @@
 # {{ language_external }}
-Contributed by Philipp Tuchak, Ekaterina Budzinskaya, Mehmet Muslimov & Irene Gorbunova ([Academia.edu profile](https://rggu.academia.edu/IreneGorbunova)).
+Contributed by Philipp Tuchak, Ekaterina Budzinskaya & Irene Gorbunova ([Academia.edu profile](https://rggu.academia.edu/IreneGorbunova)).
 
 ![I.G.'s photo]({{ site_url_j }}/images/Gorbunova.jpg "I.G.'s photo")
 
-The Russian version of the questionnaire was used for elicitation. The data were collected in 2022 and 2025 in Mikhajlovskoe. They represent the Mikhajlovskij (sub)dialect of Ludic (Karelian). Whether Ludic is a language or a dialect of the Karelian language is a matter of debate. 
+The Russian version of the questionnaire was used for elicitation. The data were collected in 2022 and 2025 in Mikhajlovskoe. They represent the Mikhajlovskij (sub)dialect of Ludic (Karelian). Whether Ludic is a language or a dialect of the Karelian language is a matter of debate. Mehmet Muslimov kindly assisted with the dataset by reviewing it and helping to clarify several complex issues.
 
 ## How to cite
-> Tuchak, Philipp, Ekaterina Budzinskaya, Mehmet Muslimov & Irene Gorbunova. 2026. Bivalent patterns in {{ language_external }}. 
+> Tuchak, Philipp, Ekaterina Budzinskaya & Irene Gorbunova. 2026. Bivalent patterns in {{ language_external }}. 
 > In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
 > (Data first published on {{ initial_release_date }}; last revised on {{ last_release_date }}.) 
 > (Available online at {{ site_url }}, Accessed on {{ today }})
