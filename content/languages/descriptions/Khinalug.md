@@ -1,6 +1,6 @@
 # {{ language_external }}
 
-Contributed by Monika Rind-Pawlowski, Rasim Babayev, Namik Əhmədov, and Michael Daniel.
+Contributed by Monika Rind-Pawlowski, Rasim Babayev, Namik Əhmədov, and [Michael Daniel](https://mishadaniel.github.io/). 
 
 ![M.R-P.'s photo]({{ site_url_j }}/images/Rind_Pawlowski.jpg "M.R-P.'s photo")
 ![M.D.'s photo]({{ site_url_j }}/images/Daniel.jpg "M.D.'s photo")
