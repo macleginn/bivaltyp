@@ -143,6 +143,7 @@ Natalia Perkova: {{ language:Latvian }}
 Krasimira Petrova: {{ language:Bulgarian }}  
 Inna Popova: {{ language:Latin }}  
 Maria Pupynina: {{ language:Chukchi }}  
+Rind-Pawlowski, Monika, Rasim Babayev, Namik Əhmədov, Michael Daniel: {{ language:Khinalug }}  
 Neige Rochant: {{ language:Andi_Zilo }}  
 Alexander Rostovtsev-Popiel: {{ language:Georgian }},  {{ language:Laz }},  {{ language:Mingrelian }},   {{ language:Svan }}  
 Daria Ryzhova: {{ language:Khanty_Kazym }}  
