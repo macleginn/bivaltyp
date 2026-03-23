@@ -15,7 +15,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 145	Maltese	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	ħareġ	SBJ	minn	Y	SBJ_minn		Ġwanni ħareġ mid-dar	PN go_out.PF.M.3SG from.DEF-house	‘Ġwanni went out of the house.’			
 145	Maltese	15	drive	X (drive) Y	гнать	X (гнать) Y-а	ħa	SBJ	DO	TR	TR		Ġwanni ħa l-baqra	PN take.PF.M.3SG DEF-cow	‘Ġwanni is driving the cow.’			Same as 8.
 145	Maltese	16	bend	X (bend) Y	гнуть	X (гнуть) Y	għawweġ 	SBJ	DO	TR	TR		Ġwanni għawweġ il-fergħa	PN bend.PF.M.3SG DEF-branch	‘Ġwanni bent the branch.’			
-145	Maltese	17	tell	X (tell) Y	говорить	X (говорить) Y-у	qal	SBJ	lil	Y	SBJ_lil	The use of the preposition “lil” is obligatory with this verb in this meaning. This is not an optional direct object marker. 	Ġwanni qal lil Mark: …	PN tell.PF.M.3SG to PN	‘Ġwanni told Mark: :..’			
+145	Maltese	17	tell	X (tell) Y	говорить	X (говорить) Y-у	qal	SBJ	lil	Y	SBJ_lil	The use of the preposition “lil” is obligatory with this verb in this meaning. This is not an optional direct object marker. 	Ġwanni qal lil Mark: …	PN tell.PF.M.3SG to PN	‘Ġwanni told Mark: ...’			
 145	Maltese	18	hold	X (hold)Y	держать	X (держать) Y(-а)	kellu	SBJ	DO	TR	TR	The predicate "għandu" emerged from the preposition "għand" ‘at’ through the process known as "have-drift"; see Creissels (2022) for details.	Ġwanni għandu ktieb f’ idejn	PN have.IPF.M.3SG book.SG in hand.DU	‘Ġwanni is holding a book in his hands.’			Same as 2, 38
 145	Maltese	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	laħaq	SBJ	DO	TR	TR	The preposition “lil” is not obligatory with this verb. This is an example of the DOM system.	Ġwanni laħaq lil Mark	PN reach.PF.M.3SG to PN	‘Ġwanni caught up with Mark.’			Same as 21.
 145	Maltese	20	milk	X (milk) Y	доить	X (доить) Y-а	ħaleb	SBJ	DO	TR	TR		Ġwanni ħaleb il-baqra	PN milk.PF.M.3SG DEF-cow	‘Ġwanni milked the cow.’			
@@ -48,7 +48,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 145	Maltese	47	wave	X (wave) Y	махать	X (махать) Y-ом	xejjer	SBJ	DO	TR	TR		Ġwanni jxejjer il-maktur	PN wave.IPF.M.3SG DEF-handkerchief	‘Ġwanni is waving a handkerchief.’			
 145	Maltese	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	ħolom	SBJ	bi	Y	SBJ_bi		Ġwanni joħlom b’ karozza ġdida	PN dream.IPF.M.3SG with2 car new	‘Ġwanni is dreaming of a new car.’			Same as 97.
 145	Maltese	49	wash	X (wash) Y	мыть	X (мыть) Y	ħasel	SBJ	DO	TR	TR		Ġwanni ħasel it-tazza	PN wash.PF.M.3SG DEF-cup	‘Ġwanni washed the cup.’			
-145	Maltese	50	put_on	X (put_on) Y	надевать	X (надевать) Y	libes	SBJ	DO	TR	TR		Ġwanni libes il-qalziet	PN wear.PF.M.3SG DEF-trousers	‘Ġwanni put on his trousers.’			
+145	Maltese	50	put_on	X (put_on) Y	надевать	X (надевать) Y	libes	SBJ	DO	TR	TR	This is an transimpersonal construction.	Ġwanni libes il-qalziet	PN wear.PF.M.3SG DEF-trousers	‘Ġwanni put on his trousers.’			
 145	Maltese	51	be_called	X (be_called) Y	называться	X (называться) Y	sejjaħ	DO	BARE	Y	DO_BARE		din l-għodda jsejħul-ha kumpass	PROX DEF-tool call.IPF.3PL-OBJ.F.3SG compass	‘This tool is called compass.’			
 145	Maltese	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	ikkastiga	SBJ	DO	TR	TR		Ġwanni jkkastiga l-ibnu	PN punish.PF.M.3SG DEF-son.POSS.M.3SG	‘Ġwanni punished his son.’			This is a case of a DOM pattern. One can use “lil” with this verb, e.g. in “Ġwanni jkkastiga lil Mark”.
 145	Maltese	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	attakka	SBJ	DO	TR	TR		ors attakka sajjed	bear attack.PF.M.3SG fisherman	‘A bear attacked a fisherman.’			
@@ -88,7 +88,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 145	Maltese	87	govern	X (govern) Y	руководить	X (руководить) Y	igverna	SBJ	DO	TR	TR		Ġwanni jigverna l-belt tagħna	PN govern.IPF.M.3SG DEF-town.POSS.1PL	‘Ġwanni governs our town.’			
 145	Maltese	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	immissja	SBJ	DO	TR	TR	The preposition “lil” is not obligatory with this verb. This is an example of the DOM system.	Ġwanni jimmissja lil Mark	PN miss.IPF.M.3SG to PN	‘Ġwanni misses Mark.’			
 145	Maltese	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	segwa	SBJ	DO	TR	TR	The preposition “lil” is not obligatory with this verb. This is an example of the DOM system.	Ġwanni jsegwi lil Mark	PN follow.IPF.M.3SG to PN	‘Ġwanni follows Mark.’			
-145	Maltese	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	niżel	SBJ	minn	Y	SBJ_minn		Ġwanni niżel minn fuq iż-żiemel	PN go.down.PF.M.3SG from on DEF-horse	‘Ġwanni got down from the horse.’			
+145	Maltese	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	niżel	SBJ	minn.fuq	Y	SBJ_minn.fuq		Ġwanni niżel minn fuq iż-żiemel	PN go.down.PF.M.3SG from on DEF-horse	‘Ġwanni got down from the horse.’			
 145	Maltese	91	listen	X (listen) to Y	слушать	X (слушать) Y	sema'	SBJ	DO	TR	TR		Ġwanni qed jisma’ r-radju	PN PROG listen.IPF.M.3SG DEF-radio	‘Ġwanni is listening to radio.’			Same as 93.
 145	Maltese	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obda	SBJ	minn	Y	SBJ_minn		Ġwanni dejjem jobdi minn ommu	PN always obey.IPF.M.3SG from mother.POSS.M.3SG	‘Ġwanni always obeys his mother.’			
 145	Maltese	93	hear	X (hear) Y	слышать	X (слышать) Y	sema'	SBJ	DO	TR	TR		Ġwanni jisma’ l-mużika	PN hear.IPF.M.3SG DEF-music	‘Ġwanni hears the music.’			Same as 91.
