@@ -54,12 +54,12 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 48	Joola_Fonyi	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	lóúm	SBJ	OBJ	TR	TR							
 48	Joola_Fonyi	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	meeŋ	SBJ	OBJ	TR	TR							С тем же самым глаголом возможная и зеркальная конструкция (Y meeŋ X). Какая частотнее, DC не знает. Выбрал эту как первую и внешне более похожую на стимул.
 48	Joola_Fonyi	55	find	X (find) Y	находить	X (находить) Y(-а)	took 	SBJ	OBJ	TR	TR							
-48	Joola_Fonyi	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	*	*	*	*								"Значение выражается при помощи отрицания yaj, но это значит ""have enough"", и ""be enough"". Какая там синтаксическая структура, я так и не видел, но решил не засчитывать, раз это все равно уже имеющийся глагол только с отрицанием, к тому же не все понятно"
+48	Joola_Fonyi	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	*	*	*	*								Значение выражается при помощи отрицания yaj, но это значит "have enough", и "be enough". Какая там синтаксическая структура, я так и не видел, но решил не засчитывать, раз это все равно уже имеющийся глагол только с отрицанием, к тому же не все понятно
 48	Joola_Fonyi	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	lat	SBJ	OBJ	TR	TR							
 48	Joola_Fonyi	58	like	X (like) Y	нравиться	X-у (нравиться) Y	súum	SBJ	OBJ	TR	TR							
 48	Joola_Fonyi	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	soola	SBJ	OBJ	TR	TR							Interestingly, this verb (whose ultimate source is Arabic) has been borrowed from Mandinka, but the construction is different (extended intransitive in Mandinka, transitive in Fooñi)
 48	Joola_Fonyi	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	ŋomen 	SBJ	OBJ	TR	TR							
-48	Joola_Fonyi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	riino	OBJ	OBJ	X	OBJ_OBJ							Impersonal double object construction (sth. like 'il m'est reste de l'argent). Также возможна, но более редка, конструкция Y riino X (cf. l'argent m'est reste). 
+48	Joola_Fonyi	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	riino	OBJ	BARE	Y	OBJ_BARE							Impersonal double object construction (sth. like 'il m'est reste de l'argent). Также возможна, но более редка, конструкция Y riino X (cf. l'argent m'est reste). 
 48	Joola_Fonyi	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	púk 	SBJ	OBJ	TR	TR							
 48	Joola_Fonyi	63	open	X (open) Y	открывать	X (открывать) Y	kámbúl 	SBJ	OBJ	TR	TR							
 48	Joola_Fonyi	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	búutóor	SBJ	di	Y	SBJ_di							X di Y búutóor ~ X búutóor di Y. intransitive constructions (di is a locative/comitative preposition, also used for NP coordination)
