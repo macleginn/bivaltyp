@@ -20,19 +20,19 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 6	Tuvinian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)		NOM	DAT	Y	NOM_DAT							
 6	Tuvinian	20	milk	X (milk) Y	доить	X (доить) Y-а		NOM	ACC	TR	TR							
 6	Tuvinian	21	reach	X (reach) Y	достичь	X (достичь) Y-а (берега) 		NOM	ALL1	Y	NOM_ALL1							Изначально в качестве обозначения Y было записано DAT / ALL1
-6	Tuvinian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		NOM	LOC	Y	NOM_LOC							"Изначально Y был записан как ""DAT / LOC / ACC"""
+6	Tuvinian	22	touch	X (touch) Y	дотронуться	X (дотрагиваться) до Y-а		NOM	LOC	Y	NOM_LOC							Изначально Y был записан как "DAT / LOC / ACC"
 6	Tuvinian	23	fight	X (fight) with Y	драться	X (драться) с Y-ом		NOM	COM	Y	NOM_COM							
 6	Tuvinian	24	be_friends	X (be friends) with Y	дружить	X (дружить) с Y-ом		NOM	COM	Y	NOM_COM							
-6	Tuvinian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	GENdugajynda	Y	NOM_GENdugajynda							"Изначально Y был записан как ""ACC / post"""
+6	Tuvinian	25	think	X (think) about Y	думать	X (думать) об Y-е (об отце)		NOM	GENdugajynda	Y	NOM_GENdugajynda							Изначально Y был записан как "ACC / post"
 6	Tuvinian	26	eat	X (eat) Y	есть	X (есть) Y		NOM	ACC	TR	TR							
 6	Tuvinian	27	fry	X (fry) Y	жарить	X (жарить) Y		NOM	ACC	TR	TR							
 6	Tuvinian	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		NOM	ACC	TR	TR							
-6	Tuvinian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		NOM	GENdugajynda	Y	NOM_GENdugajynda							"Изначально Y был записан как ""ACC / post"""
+6	Tuvinian	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		NOM	GENdugajynda	Y	NOM_GENdugajynda							Изначально Y был записан как "ACC / post"
 6	Tuvinian	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		NOM	ABL	Y	NOM_ABL							
 6	Tuvinian	31	call	X (call) Y	звать	X (звать) Y-а		NOM	ACC	TR	TR							
 6	Tuvinian	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		NOM	COM	Y	NOM_COM							
 6	Tuvinian	33	know	X (know) Y	знать 	X (знать) Y-а		NOM	ACC	TR	TR							
-6	Tuvinian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	LOC	Y	NOM_LOC							"Изначально Y был записан как ""DAT / LOC"""
+6	Tuvinian	34	play#instrument#	X (play) Y	играть	X (играть) на Y-е		NOM	LOC	Y	NOM_LOC							Изначально Y был записан как "DAT / LOC"
 6	Tuvinian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а		NOM	ABL	Y	NOM_ABL							
 6	Tuvinian	36	make	X (make) Y	изготовить	X (изготовить) Y		NOM	ACC	TR	TR							
 6	Tuvinian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом		NOM	ACC	TR	TR							
@@ -40,21 +40,21 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 6	Tuvinian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)		NOM	ACC	TR	TR							
 6	Tuvinian	40	paint	X (paint) Y	красить	X (красить) Y		NOM	ACC	TR	TR							
 6	Tuvinian	41	bite	X (bite) Y	кусать	X (кусать) Y-а		NOM	ACC	TR	TR							
-6	Tuvinian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							"При проверке данных уточнить этот класс, изначально было написано, что Y это ""основа (NOM)"""
+6	Tuvinian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							При проверке данных уточнить этот класс, изначально было написано, что Y это "основа (NOM)"
 6	Tuvinian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)		NOM	ACC	TR	TR							
 6	Tuvinian	44	break	X (break) Y	ломать	X (ломать) Y		NOM	ACC	TR	TR							
 6	Tuvinian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у		NOM	DAT	Y	NOM_DAT							
 6	Tuvinian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)		NOM	DAT	Y	NOM_DAT							
 6	Tuvinian	47	wave	X (wave) Y	махать	X (махать) Y-ом		NOM	COM	Y	NOM_COM							Изначально в качестве обозначения Y было записано ACC / COM
-6	Tuvinian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	GENdugajynda	Y	NOM_GENdugajynda							"Изначально Y был записан как ""ACC / post"""
+6	Tuvinian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		NOM	GENdugajynda	Y	NOM_GENdugajynda							Изначально Y был записан как "ACC / post"
 6	Tuvinian	49	wash	X (wash) Y	мыть	X (мыть) Y		NOM	ACC	TR	TR							
 6	Tuvinian	50	put_on	X (put_on) Y	надевать	X (надевать) Y		NOM	ACC	TR	TR							
-6	Tuvinian	51	be_called	X (be_called) Y	называться	X (называться) Y		ACC	NOM(NO.AGR)	XY	ACC_NOM(NO.AGR)							
+6	Tuvinian	51	be_called	X (be_called) Y	называться	X (называться) Y		ACC	NOM(NO.AGR)	Y	ACC_NOM(NO.AGR)							
 6	Tuvinian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		NOM	DAT	Y	NOM_DAT							
 6	Tuvinian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	ALL1	Y	NOM_ALL1							Изначально в качестве обозначения Y было записано ALL1
 6	Tuvinian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	COM	Y	NOM_COM							
 6	Tuvinian	55	find	X (find) Y	находить	X (находить) Y(-а)		NOM	ACC	TR	TR							
-6	Tuvinian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	NOM(NO.AGR)	XY	DAT_NOM(NO.AGR)							"При проверке данных уточнить, есть ли реальные основания считать, что этот класс не совпадает с DAT_NOM (Y был записан как ""основа (NOM)"", а не просто NOM)"
+6	Tuvinian	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	NOM(NO.AGR)	XY	DAT_NOM(NO.AGR)							При проверке данных уточнить, есть ли реальные основания считать, что этот класс не совпадает с DAT_NOM (Y был записан как "основа (NOM)", а не просто NOM)
 6	Tuvinian	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		NOM	ACC	TR	TR							
 6	Tuvinian	58	like	X (like) Y	нравиться	X-у (нравиться) Y		DAT	NOM	X	DAT_NOM							
 6	Tuvinian	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		DAT	NOM	X	DAT_NOM							
@@ -98,7 +98,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 6	Tuvinian	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y		DAT	NOM	X	DAT_NOM							
 6	Tuvinian	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM	COM	Y	NOM_COM							
 6	Tuvinian	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM	COM	Y	NOM_COM							
-6	Tuvinian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							"При проверке данных уточнить этот класс, изначально было написано, что Y это ""основа (NOM)"""
+6	Tuvinian	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							При проверке данных уточнить этот класс, изначально было написано, что Y это "основа (NOM)"
 6	Tuvinian	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		NOM	ALL1	Y	NOM_ALL1							Изначально в качестве обозначения Y было записано ACC / ALL1
 6	Tuvinian	102	pour	X (pour) Y	сыпать	X (сыпать) Y		NOM	ACC	TR	TR							
 6	Tuvinian	103	lose	X (lose) Y	терять	X (терять) Y		NOM	ACC	TR	TR							
@@ -125,7 +125,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 6	Tuvinian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а		NOM	ACC	TR	TR							
 6	Tuvinian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у		NOM	ACC	TR	TR							
 6	Tuvinian	126	despise	X (despise) Y	презирать	X (презирать) Y-а		NOM	ACC	TR	TR							
-6	Tuvinian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	GENdeesh	Y	NOM_GENdeesh							"Изначально Y был записан как ""ACC / post"""
+6	Tuvinian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а		NOM	GENdeesh	Y	NOM_GENdeesh							Изначально Y был записан как "ACC / post"
 6	Tuvinian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а		NOM	ABL	Y	NOM_ABL							
 6	Tuvinian	129	be_fond	X (be fond) of Y	симпатизировать	X (симпатизировать) Y-у		NOM	ACC	TR	TR							
 6	Tuvinian	130	be_shy	X (be shy) about Y	стесняться	X (стесняться) Y-а		NOM	ABL	Y	NOM_ABL							
