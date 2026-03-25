@@ -45,14 +45,14 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 52	Buriat	44	break	X (break) Y	ломать	X (ломать) Y	хухал-	NOM	ACC	TR	TR									
 52	Buriat	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	һаймһар-	NOM	DAT	Y	NOM_DAT							Взято из словаря, потому что перевод из работы Саши Азарагаевой был раскритикован информантом на полях		
 52	Buriat	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	дура-тай	NOM	DAT	Y	NOM_DAT							NV ("любовь-COM"). То же, что 119		
-52	Buriat	47	wave	X (wave) Y	махать	X (махать) Y-ом	далла-	NOM	INSTR	Y	NOM_INSTR							Вариант глагола взят из комментария носителя на полях. Управление такое же		
+52	Buriat	47	wave	X (wave) Y	махать	X (махать) Y-ом	далла-	NOM	INS	Y	NOM_INS							Вариант глагола взят из комментария носителя на полях. Управление такое же		
 52	Buriat	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	hана-	NOM	tuxai	Y	NOM_tuxai							Тот же глагол, что 25, 76 (но другая модель управления)		
 52	Buriat	49	wash	X (wash) Y	мыть	X (мыть) Y	угаа-	NOM	ACC	TR	TR									
 52	Buriat	50	put_on	X (put_on) Y	надевать	X (надевать) Y	үмдэ-	NOM	ACC	TR	TR									
 52	Buriat	51	be_called	X (be_called) Y	называться	X (называться) Y	нэрэ-тэй	NOM	gezhe	Y	NOM_gezhe							Букв.: "Этот предмет  компас говорить-CONV   имя-COM "		
 52	Buriat	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	хараа-	NOM	ACC	TR	TR									
 52	Buriat	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	аhа-	NOM	DAT	Y	NOM_DAT									
-52	Buriat	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	дүүрэ-	NOM	INSTR	Y	NOM_INSTR									
+52	Buriat	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	дүүрэ-	NOM	INS	Y	NOM_INS									
 52	Buriat	55	find	X (find) Y	находить	X (находить) Y(-а)	оло-	NOM	ACC	TR	TR									
 52	Buriat	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	дута-	DAT	NOM	X	DAT_NOM									
 52	Buriat	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	дура-гүй	NOM	DAT	Y	NOM_DAT							NV. "любовь-CAR"		
@@ -78,7 +78,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 52	Buriat	77	help	X (help) Y	помочь	X (помогать) Y-у	туhал-	NOM	DAT	Y	NOM_DAT									
 52	Buriat	78	understand	X (understand) Y	понимать	X (понимать) Y	мэдэ-	NOM	ACC	TR	TR							То же, что 33		
 52	Buriat	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	буу-	NOM	DAT	Y	NOM_DAT							Взято из комментария на полях. Букв. "спустился". Тот же глагол, что 90 (другое управление)		
-52	Buriat	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	ада-	NOM	INSTR	Y	NOM_INSTR							Вариант: NOM DAT		
+52	Buriat	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	ада-	NOM	INS	Y	NOM_INS							Вариант: NOM DAT		
 52	Buriat	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	няалда-	NOM	DAT	Y	NOM_DAT									
 52	Buriat	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	диил-дэ-	NOM	DAT	Y	NOM_DAT							PASS от выиграть (13)		
 52	Buriat	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	хүхи-	NOM	DAT	Y	NOM_DAT									
@@ -107,7 +107,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 52	Buriat	106	hit	X (hit) Y	ударить	X (ударять) Y-а	сохи-	NOM	ACC	TR	TR									
 52	Buriat	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	таала-	NOM	ACC	TR	TR									
 52	Buriat	108	read	X (read) Y	читать	X (читать) Y-а	унша-	NOM	ACC	TR	TR									
-52	Buriat	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	хүдэлгэ-	NOM	INSTR	Y	NOM_INSTR									
+52	Buriat	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	хүдэлгэ-	NOM	INS	Y	NOM_INS									
 52	Buriat	110	respect	X (respect) Y	уважать	X (уважать) Y-а	хүндэл-	NOM	ACC	TR	TR									
 52	Buriat	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	*	*	*	*								Получен только тот же перевод, что для "ненавидеть"		
 52	Buriat	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	*	*	*	*								Получено только "хвалить"		
@@ -118,7 +118,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 52	Buriat	117	be_angry	X (be angry) with Y	злиться	X (злиться) на Y-а	уурла-	NOM	DAT	Y	NOM_DAT							То же, что 122, 128		
 52	Buriat	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	гайха-	NOM	DAT	Y	NOM_DAT							С этим глаголом все ок, но см. проблему для 125		
 52	Buriat	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	дура-тай	NOM	DAT	Y	NOM_DAT							NV ("любовь-COM"). То же, что 46		
-52	Buriat	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	һонирхо-	NOM	INSTR	Y	NOM_INSTR									
+52	Buriat	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	һонирхо-	NOM	INS	Y	NOM_INS									
 52	Buriat	121	want	X (want) Y	хотеть	X (хотеть) Y-а	*	*	*	*								Только СА получен: "говорит купить" (= хочет купить)		
 52	Buriat	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	уурла-	NOM	DAT	Y	NOM_DAT							То же, что 117, 128		
 52	Buriat	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	янгал-	NOM	DAT	Y	NOM_DAT									
