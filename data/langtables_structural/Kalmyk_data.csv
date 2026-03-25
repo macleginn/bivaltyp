@@ -45,14 +45,14 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 14	Kalmyk	44	break	X (break) Y	ломать	X (ломать) Y	xamxəl	NOM	ACC	TR	TR							Материалы
 14	Kalmyk	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	zuʁud	NOM	DAT	Y	NOM_DAT							Вариант Айсы и Риммы
 14	Kalmyk	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	durl	NOM	ACC	TR	TR							Материалы
-14	Kalmyk	47	wave	X (wave) Y	махать	X (махать) Y-ом	dajl	NOM	INSTR	Y	NOM_INSTR							Вариант Е.М. В материалах был еще ǯivr, тоже NOM-INSTR
+14	Kalmyk	47	wave	X (wave) Y	махать	X (махать) Y-ом	dajl	NOM	INS	Y	NOM_INS							Вариант Е.М. В материалах был еще ǯivr, тоже NOM-INSTR
 14	Kalmyk	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	san	*	*	*								Не берем. Во-первых, нет специализированного глагола (это тот же глагол, что 88, скучать, и вообще-то на самом деле значит "думать"). Во-вторых, с сентенциальным актантом явно лучше, чем с именным
 14	Kalmyk	49	wash	X (wash) Y	мыть	X (мыть) Y	uʁa	NOM	ACC	TR	TR							Материалы
 14	Kalmyk	50	put_on	X (put_on) Y	надевать	X (надевать) Y	öms	NOM	ACC	TR	TR							Материалы
 14	Kalmyk	51	be_called	X (be_called) Y	называться	X (называться) Y	nerädə-gdə	NOM	gidh	Y	NOM_gidh							PASS. Айса. Это грамматикализовавшийся конверб глагола говорить. Не знаю, надо ли его засчитывать.
 14	Kalmyk	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	zas	NOM	ACC	TR	TR							Материалы
 14	Kalmyk	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	dävr	NOM	DIR	Y	NOM_DIR							Материалы
-14	Kalmyk	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	düür	NOM	INSTR	Y	NOM_INSTR							Материалы
+14	Kalmyk	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	düür	NOM	INS	Y	NOM_INS							Материалы
 14	Kalmyk	55	find	X (find) Y	находить	X (находить) Y(-а)	ol	NOM	ACC	TR	TR							Материалы
 14	Kalmyk	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a	kür + NEG	DAT	NOM	X	DAT_NOM							Айса. Это отрицание от "хватать".
 14	Kalmyk	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а	dur-go	NOM	DAT	Y	NOM_DAT							NV. Сам предикат давали разные люди. Не было уверенности в том, кто кого ненавидит. Это вариант Е.М., в нем ясно, кто кого ненавидит. Айса использовала (любовь-NEG стать), DAT-NOM (букв. без.любви стать), но не была уверена, кто тут кого ненавилит.
@@ -78,7 +78,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 14	Kalmyk	77	help	X (help) Y	помочь	X (помогать) Y-у	nökd bol	NOM	DAT	Y	NOM_DAT							CV (помощь стать)
 14	Kalmyk	78	understand	X (understand) Y	понимать	X (понимать) Y	med	NOM	ACC	TR	TR							Айса. То же, что 33 (знать)
 14	Kalmyk	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	or	NOM	DAT	Y	NOM_DAT							Айса. Буквально "вошла" (то же, что 12)
-14	Kalmyk	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	kerč-gd	NOM	INSTR	Y	NOM_INSTR							PASS. Материалы
+14	Kalmyk	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	kerč-gd	NOM	INS	Y	NOM_INS							PASS. Материалы
 14	Kalmyk	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	naald	NOM	DAT	Y	NOM_DAT							Материалы. Там есть показатель RECP.
 14	Kalmyk	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	diilə-gd	NOM	DAT	Y	NOM_DAT							Айса, Римма. PASS (от победить)
 14	Kalmyk	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	bajrl	NOM	DAT	Y	NOM_DAT							Материалы
