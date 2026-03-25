@@ -46,7 +46,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 64	Icelandic	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	skjalla	NOM	ACC	TR	TR							Это инфинитив, т.к. тут аналитическая конструкция
 64	Icelandic	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	elskar	NOM	ACC	TR	TR							То же, что 119
 64	Icelandic	47	wave	X (wave) Y	махать	X (махать) Y-ом	veifa	NOM	ACC	TR	TR							Это инфинитив, т.к. тут аналитическая конструкция
-64	Icelandic	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dreymir	ACC	umACC	XY	ACC_umACC							Actual form = umACC. Quirky subject alternation: ACC vs. DAT. Первая опция частотнее. Тот же глагол, что 97
+64	Icelandic	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dreymir	ACC	umACC	Y	ACC_umACC							Actual form = umACC. Quirky subject alternation: ACC vs. DAT. Первая опция частотнее. Тот же глагол, что 97
 64	Icelandic	49	wash	X (wash) Y	мыть	X (мыть) Y	þvoði	NOM	ACC	TR	TR							0
 64	Icelandic	50	put_on	X (put_on) Y	надевать	X (надевать) Y	fór	NOM	iACC	Y	NOM_iACC							Actual form = íACC. Букв. "went into"
 64	Icelandic	51	be_called	X (be_called) Y	называться	X (называться) Y	er  kallað	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)							Actual form = NOM. Пассив. Есть еще вариант heitir, это актив, та же модель
@@ -119,7 +119,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 64	Icelandic	118	be_surprised	X (be surprised) at Y	удивляться	X (удивляться) Y-у	hissa	NOM	yfirDAT	Y	NOM_yfirDAT							Actual form = yfirDAT. NV
 64	Icelandic	119	love2	X (love) Y	любить-2	X (любить) Y (чай/яблоки)	elskar	NOM	ACC	TR	TR							То же, что 46
 64	Icelandic	120	enjoy	X (enjoy) Y	наслаждаться	X (наслаждаться) Y-ом	finnst gott	DAT	NOM	X	DAT_NOM							Actual form = NOM. CV ('considers good')
-64	Icelandic	121	want	X (want) Y	хотеть	X (хотеть) Y-а	langar	ACC	iACC	XY	ACC_iACC							Actual form = íACC. Quirky subject alternation: ACC vs. DAT
+64	Icelandic	121	want	X (want) Y	хотеть	X (хотеть) Y-а	langar	ACC	iACC	Y	ACC_iACC							Actual form = íACC. Quirky subject alternation: ACC vs. DAT
 64	Icelandic	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	*	*	*	*								No adequate translation.
 64	Icelandic	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	móðgaðist	NOM	vidACC	Y	NOM_vidACC							Actual form = viðACC. REFL
 64	Icelandic	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	kom ... í mikið uppnám	NOM	DAT	Y	NOM_DAT							Actual form = DAT. CV ('got Y in much agitation'). Почти то же, что 127 (но не REFL)
