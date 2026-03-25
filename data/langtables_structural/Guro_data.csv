@@ -1,5 +1,5 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-18	Guro	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		POSS	HEAD	X	POSS_HEAD							vi
+18	Guro	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		*	*	*		Not included in the database because X is expressed as an NP-internal modifier.						vi
 18	Guro	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		ba	SBJ	X	ba_SBJ							cop
 18	Guro	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		SBJ	lee	Y	SBJ_lee							vi
 18	Guro	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		SBJ	DO	TR	TR							vt
