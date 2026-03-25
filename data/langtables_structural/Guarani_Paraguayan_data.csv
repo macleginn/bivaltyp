@@ -3,7 +3,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 3	Guarani_Paraguayan	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		*	*	*								
 3	Guarani_Paraguayan	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		ACT	gui	Y	ACT_gui							
 3	Guarani_Paraguayan	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		ACT	INACT	TR	TR							
-3	Guarani_Paraguayan	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		INACT	pe	X	INACT_pe							
+3	Guarani_Paraguayan	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		pe	INACT	X	pe_INACT							
 3	Guarani_Paraguayan	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)		*	*	*								также ‘быть равным кому/чему’; примеры есть только на номинализацию jogua-ha ‘похожий, равный’
 3	Guarani_Paraguayan	7	believe	X (believe) Y	верить	X (верить)Y-у		ACT	rehe	Y	ACT_rehe							
 3	Guarani_Paraguayan	8	take	X (take) Y	взять	X (брать) Y(-а)		ACT	INACT	TR	TR							примеры только с неодуш. 2-м участником
@@ -27,7 +27,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 3	Guarani_Paraguayan	26	eat	X (eat) Y	есть	X (есть) Y		ACT	INACT	TR	TR							имеет нерегулярное спряжение; характерна инкорпорация, особенно с напитками
 3	Guarani_Paraguayan	27	fry	X (fry) Y	жарить	X (жарить) Y		*	*	*								см. (42)
 3	Guarani_Paraguayan	28	wait	X (wait) for Y	ждать	X (ждать) Y-а (сына)		ACT	INACT	TR	TR							
-3	Guarani_Paraguayan	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		INACT	gui	X	INACT_gui							
+3	Guarani_Paraguayan	29	forget	X (forget) (about) Y	забывать	X (забывать) об Y-е		INACT	gui	Y	INACT_gui							
 3	Guarani_Paraguayan	30	depend	X (depend) on Y	зависеть	X (зависеть) от Y-а		ACT	rehe	Y	ACT_rehe							только один пример
 3	Guarani_Paraguayan	31	call	X (call) Y	звать	X (звать) Y-а		ACT	INACT	TR	TR							
 3	Guarani_Paraguayan	32	get_to_know	X (get to know) Y	знакомиться	X (знакомиться) с Y-ом		*	*	*								
@@ -54,7 +54,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 3	Guarani_Paraguayan	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		ACT	INACT	TR	TR							
 3	Guarani_Paraguayan	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		*	*	*								
 3	Guarani_Paraguayan	55	find	X (find) Y	находить	X (находить) Y(-а)		ACT	INACT	TR	TR							см. 11
-3	Guarani_Paraguayan	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		INACT	ZERO	X	INACT_ZERO							см. 5
+3	Guarani_Paraguayan	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		pe	INACT	X	pe_INACT							см. 5
 3	Guarani_Paraguayan	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		*	*	*								
 3	Guarani_Paraguayan	58	like	X (like) Y	нравиться	X-у (нравиться) Y		*	*	*								
 3	Guarani_Paraguayan	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е		ACT	re	Y	ACT_re							
