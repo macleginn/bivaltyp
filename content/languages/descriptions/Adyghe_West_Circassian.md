@@ -65,6 +65,8 @@ In addition to the indexing prefixes, Adyghe also has an (optional) plural suffi
     
 ```
 
+The coding label “EXT(POSS)” is used for NPs that are morphologically marked as adnominal possessors—flagged by the ergative case and indexed on the expected head noun, which functions as the nominal component of a complex predicate. However, these NPs display clause-level behavior in terms of word order, typically occurring in a fronted position, which is not possible for NP-internal possessors.
+
 ### Case system
 
 Adyghe  has case-marking on nominals, excluding 1st and 2nd person pronouns, most proper names as well as non-specific NPs. This is why most examples involve two definite common nouns like ‘the girl’ or ‘the book’. The case system consists of two grammatical cases, the absolutive with the suffix *-r* and the oblique with the suffix *-m* (*-š’* with demonstratives, *-me* when cumulative with plural). The patterns of case-marking and verbal indexing closely match each other: the oblique case occurs on the 3rd person arguments indexed by the non-absolutive series of person-number prefixes, i.e. on transitive As, see example (2), and indirect objects, see example (3), while the absolutive case appears on 3rd person arguments indexed in the verb by the absolutive indexes, i.e. on S and O, see examples (3) and (2), respectively. Given that 3rd person absolutive indexes are null, the nominals overtly marked by the absolutive case in fact are never overtly cross-referenced in the verb, apart from the optional plural suffix *-x(e)*, as in example (4).
