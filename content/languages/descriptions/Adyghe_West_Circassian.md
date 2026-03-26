@@ -65,7 +65,7 @@ In addition to the indexing prefixes, Adyghe also has an (optional) plural suffi
     
 ```
 
-The coding label “EXT(POSS)” is used for NPs that are morphologically marked as adnominal possessors—flagged by the ergative case and indexed on the expected head noun, which functions as the nominal component of a complex predicate. However, these NPs display clause-level behavior in terms of word order, typically occurring in a fronted position, which is not possible for NP-internal possessors.
+The coding label “EXT(POSS)” is used for NPs that are morphologically marked as adnominal possessors—flagged by the oblique case and indexed on the expected head noun, which functions as the nominal component of a complex predicate. However, these NPs display clause-level behavior in terms of word order, typically occurring in a fronted position, which is not possible for NP-internal possessors.
 
 ### Case system
 
