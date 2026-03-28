@@ -1,6 +1,6 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
 11	Bagvalal	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y		GEN	NOM	X	GEN_NOM							
-11	Bagvalal	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM 	ERG	Y	NOM_ERG							
+11	Bagvalal	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом		NOM 	ERG(NON.CORE)	Y	NOM_ERG(NON.|CORE)							
 11	Bagvalal	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а		NOM 	CONTESS	Y	NOM_CONTESS							
 11	Bagvalal	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)		ERG	NOM	TR	TR							
 11	Bagvalal	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а		*	*	*								
@@ -99,13 +99,13 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 11	Bagvalal	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом		NOM 	COM	Y	NOM_COM							
 11	Bagvalal	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y		NOM 	COM	Y	NOM_COM							
 11	Bagvalal	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)		*	*	*								
-11	Bagvalal	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		ERG	ADESS	Y	ERG_ADESS							"Это каузатив от ""лопаться"", в позиции прямого дополнения оружие"
+11	Bagvalal	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а		ERG	ADESS	Y	ERG_ADESS							Это каузатив от "лопаться", в позиции прямого дополнения оружие
 11	Bagvalal	102	pour	X (pour) Y	сыпать	X (сыпать) Y		ERG	NOM	TR	TR							
 11	Bagvalal	103	lose	X (lose) Y	терять	X (терять) Y		ERG	NOM	TR	TR							
 11	Bagvalal	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е		*	*	*								
 11	Bagvalal	105	kill	X (kill) Y	убивать	X (убивать) Y-а		ERG	NOM	TR	TR							
 11	Bagvalal	106	hit	X (hit) Y	ударить	X (ударять) Y-а		ERG	CONTESS	Y	ERG_CONTESS							Переходный глагол, в позиции прямого дополнения то, чем ударяют
-11	Bagvalal	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	CONTESS	Y	ERG_CONTESS							"CV, букв. ""поцелуй делать"""
+11	Bagvalal	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а		ERG	CONTESS	Y	ERG_CONTESS							CV, букв. "поцелуй делать"
 11	Bagvalal	108	read	X (read) Y	читать	X (читать) Y-а		ERG	NOM	TR	TR							
 11	Bagvalal	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом		*	*	*								
 11	Bagvalal	110	respect	X (respect) Y	уважать	X (уважать) Y-а		*	*	*								
