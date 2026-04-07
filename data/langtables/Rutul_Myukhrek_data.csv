@@ -52,7 +52,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 147	Rutul_Myukhrek	51	be_called	X (be_called) Y	называться	X (называться) Y		*	*	*		No satisfactory translation has been obtained.	*	*	*			
 147	Rutul_Myukhrek	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		*	*	*		No satisfactory translation has been obtained.	*	*	*			
 147	Rutul_Myukhrek	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		NOM	SUPER	Y	NOM_SUPER		siy baluçi-y kiç'ibq'ı-ra	bear fisherman-SUPER A.clutch.PF-PRF	‘A bear attacked a fisherman.’			
-147	Rutul_Myukhrek	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	ERG	Y	NOM_ERG		vedra xhiyi-r lets'i-ra	pail water.OBL-ERG N.fill.PF-PRF	‘The bucket filled with water.’			
+147	Rutul_Myukhrek	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM	ERG(NON.CORE)	Y	NOM_ERG(NON.CORE)		vedra xhiyi-r lets'i-ra	pail water.OBL-ERG N.fill.PF-PRF	‘The bucket filled with water.’			
 147	Rutul_Myukhrek	55	find	X (find) Y	находить	X (находить) Y(-а)		DAT	NOM	X	DAT_NOM		mırad-ıs gileg akkı-ri	PN-DAT key N.find.PF-AOR	‘Murad found his key.’			
 147	Rutul_Myukhrek	56	be_short	X (be short) Y	недоставать	X-у (недоставать) Y-a		DAT	NOM	X	DAT_NOM		mırad-ıs sa manut ğavırq'a-ra diş	PN-DAT one manat(A) A.reach.IPF-CV NEG.COP	‘Murad is one manat short.’			
 147	Rutul_Myukhrek	57	hate	X (hate) Y	ненавидеть	X (ненавидеть) Y-а		DAT	NOM	X	DAT_NOM	Non-verbal predicate.	mırad-ıs xatun ğargvas-na-kal diş	PN-DAT PN F.see.INF-ADV-like NEG.COP	‘Murad hates Khatun.’			CV. A literal translation is “Murad is not of a kind to see Khatun”.
@@ -78,7 +78,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 147	Rutul_Myukhrek	77	help	X (help) Y	помочь	X (помогать) Y-у		ERG	DAT	Y	ERG_DAT		duxvar-a rasul-u-s kumag hap'ı-ri	son.OBL-ERG PN-OBL-DAT help(A) A.do.PF-AOR	‘The son helped Rasul.’			CV
 147	Rutul_Myukhrek	78	understand	X (understand) Y	понимать	X (понимать) Y		NOM	APUD	Y	NOM_APUD		mırad frantsuzki ç'il-ı-xda giyq'a-ra yi	PN French language.OBL-APUD M.reach.IPF-CV M.COP	‘Murad understands French.’			
 147	Rutul_Myukhrek	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		NOM	CONT	Y	NOM_CONT		ts'ay rapı-r xal-ı-k kiyq'ı-ri	fire flash.PF-SEQ house-OBL-CONT N.touch.PF-AOR	‘Lightning struck the house.’			
-147	Rutul_Myukhrek	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		ERG	ERG	Y	ERG_ERG		duxvar-a britva-ri hat'u-ri	son.OBL-ERG razor-ERG M.cut.PF-AOR	‘The son cut himself with a razor.’			
+147	Rutul_Myukhrek	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		ERG	ERG(NON.CORE)	Y	ERG_ERG(NON.CORE)		duxvar-a britva-ri hat'u-ri	son.OBL-ERG razor-ERG M.cut.PF-AOR	‘The son cut himself with a razor.’			
 147	Rutul_Myukhrek	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		NOM	CONT	Y	NOM_CONT		istakan iskam-ı-k kiç'ibq'a-ra	glass(A) table-OBL-CONT A.stick-CV	‘The glass got stuck to the table.’			
 147	Rutul_Myukhrek	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		NOM	DAT	Y	NOM_DAT		mırad rasul-u-s gergı-ri	PN PN-OBL-DAT M.remain.PF-AOR	‘Murad lost to Rasul.’			
 147	Rutul_Myukhrek	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		NOM	DAT	Y	NOM_DAT	Non-verbal predicate.	mırad kağad-ıs şad hişi-ri	PN letter-DAT glad M.be.PF-AOR	‘Murad was glad about the letter.’			
