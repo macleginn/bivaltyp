@@ -80,7 +80,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 23	79		NOM	neACC	Y	NOM_neACC
 23	80		NOM	meACC	Y	NOM_meACC
 23	81		NOM	neACC	Y	NOM_neACC
-23	82		NOM	tekNOM	Y	NON_tekNOM
+23	82		NOM	tekNOM	Y	NOM_tekNOM
 23	83		NOM	DAT	Y	NOM_DAT
 23	84		NOM	meACC	Y	NOM_meACC
 23	85		NOM	ACC	TR	TR
@@ -130,7 +130,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 23	129		NOM	ACC	TR	TR
 23	130		DAT	perACC	XY	DAT_perACC
 11	1		GEN	NOM	X	GEN_NOM
-11	2		NOM 	ERG	Y	NOM_ERG
+11	2		NOM 	ERG(NON.CORE)	Y	NOM_ERG(NON.|CORE)
 11	3		NOM 	CONTESS	Y	NOM_CONTESS
 11	4		ERG	NOM	TR	TR
 11	5		*	*	*	
@@ -695,14 +695,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	44	хухал-	NOM	ACC	TR	TR
 52	45	һаймһар-	NOM	DAT	Y	NOM_DAT
 52	46	дура-тай	NOM	DAT	Y	NOM_DAT
-52	47	далла-	NOM	INSTR	Y	NOM_INSTR
+52	47	далла-	NOM	INS	Y	NOM_INS
 52	48	hана-	NOM	tuxai	Y	NOM_tuxai
 52	49	угаа-	NOM	ACC	TR	TR
 52	50	үмдэ-	NOM	ACC	TR	TR
 52	51	нэрэ-тэй	NOM	gezhe	Y	NOM_gezhe
 52	52	хараа-	NOM	ACC	TR	TR
 52	53	аhа-	NOM	DAT	Y	NOM_DAT
-52	54	дүүрэ-	NOM	INSTR	Y	NOM_INSTR
+52	54	дүүрэ-	NOM	INS	Y	NOM_INS
 52	55	оло-	NOM	ACC	TR	TR
 52	56	дута-	DAT	NOM	X	DAT_NOM
 52	57	дура-гүй	NOM	DAT	Y	NOM_DAT
@@ -728,7 +728,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	77	туhал-	NOM	DAT	Y	NOM_DAT
 52	78	мэдэ-	NOM	ACC	TR	TR
 52	79	буу-	NOM	DAT	Y	NOM_DAT
-52	80	ада-	NOM	INSTR	Y	NOM_INSTR
+52	80	ада-	NOM	INS	Y	NOM_INS
 52	81	няалда-	NOM	DAT	Y	NOM_DAT
 52	82	диил-дэ-	NOM	DAT	Y	NOM_DAT
 52	83	хүхи-	NOM	DAT	Y	NOM_DAT
@@ -757,7 +757,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	106	сохи-	NOM	ACC	TR	TR
 52	107	таала-	NOM	ACC	TR	TR
 52	108	унша-	NOM	ACC	TR	TR
-52	109	хүдэлгэ-	NOM	INSTR	Y	NOM_INSTR
+52	109	хүдэлгэ-	NOM	INS	Y	NOM_INS
 52	110	хүндэл-	NOM	ACC	TR	TR
 52	111	*	*	*	*	
 52	112	*	*	*	*	
@@ -768,7 +768,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 52	117	уурла-	NOM	DAT	Y	NOM_DAT
 52	118	гайха-	NOM	DAT	Y	NOM_DAT
 52	119	дура-тай	NOM	DAT	Y	NOM_DAT
-52	120	һонирхо-	NOM	INSTR	Y	NOM_INSTR
+52	120	һонирхо-	NOM	INS	Y	NOM_INS
 52	121	*	*	*	*	
 52	122	уурла-	NOM	DAT	Y	NOM_DAT
 52	123	янгал-	NOM	DAT	Y	NOM_DAT
@@ -959,7 +959,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 71	48	ʂotl-	NOM	cinABL	Y	NOM_cinABL
 71	49	ɕo-	NOM	OBJ	TR	TR
 71	50	təgən-	NOM	OBJ	TR	TR
-71	51	t-	OBJ	NOM(NO.AGR)	XY	OBJ_NOM(NO.AGR)
+71	51	t-	OBJ	NOM(NO.AGR)	Y	OBJ_NOM(NO.AGR)
 71	52	наказать tu-	NOM	OBJ	TR	TR
 71	53	tabən-	NOM	OBJ	TR	TR
 71	54	tol-	NOM	INS	Y	NOM_INS
@@ -1170,7 +1170,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 43	129		*	*	*	
 43	130		NOM	ejELA	Y	NOM_ejELA
 55	1	энӯ-	POSS	NOM	X	POSS_NOM
-55	2	бумӯ-	NOM	INSTR	Y	NOM_INSTR
+55	2	бумӯ-	NOM	INS	Y	NOM_INS
 55	3	ӈэ̄лэ-	NOM	ABL	Y	NOM_ABL
 55	4	гарада̄-	NOM	ACC	TR	TR
 55	5	элэкин	POSS	NOM	X	POSS_NOM
@@ -1202,7 +1202,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 55	31	э̄рӣ-	NOM	ACC	TR	TR
 55	32	са̄-лды-	NOM	ACC	TR	TR
 55	33	са̄-	NOM	ACC	TR	TR
-55	34	эви-де-	NOM	INSTR	Y	NOM_INSTR
+55	34	эви-де-	NOM	INS	Y	NOM_INS
 55	35	*	*	*	*	
 55	36	о̄-	NOM	ACC	TR	TR
 55	37	муӈна̄-	NOM	ACC	TR	TR
@@ -1215,14 +1215,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 55	44	хоко̄ли-	NOM	ACC	TR	TR
 55	45	*	*	*	*	
 55	46	ая̄в-	NOM	ACC	TR	TR
-55	47	а̄рпу-	NOM	INSTR	Y	NOM_INSTR
+55	47	а̄рпу-	NOM	INS	Y	NOM_INS
 55	48	га-мӯ-	NOM	ACC.INDEF	Y	NOM_ACC.INDEF
 55	49	силки-	NOM	ACC	TR	TR
 55	50	тэт-	NOM	ACC	TR	TR
 55	51	гэрби-	POSS	NOM	X	POSS_NOM
 55	52	*	*	*	*	
 55	53	упчу-	NOM	DIR	Y	NOM_DIR
-55	54	дялурбу-	NOM	INSTR	Y	NOM_INSTR
+55	54	дялурбу-	NOM	INS	Y	NOM_INS
 55	55	бака-	NOM	ACC	TR	TR
 55	56	NEG ис-	DAT	NOM	X	DAT_NOM
 55	57	ичэмэ̄хи-	NOM	ACC	TR	TR
@@ -1248,7 +1248,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 55	77	бэлэ-	NOM	DAT	Y	NOM_DAT
 55	78	тылде-	NOM	ACC	TR	TR
 55	79	на̄-	NOM	LOC	Y	NOM_LOC
-55	80	минэ-в-	NOM	INSTR	Y	NOM_INSTR
+55	80	минэ-в-	NOM	INS	Y	NOM_INS
 55	81	нама-ра-	NOM	ALL	Y	NOM_ALL
 55	82	давды̄-в-	NOM	DAT	Y	NOM_DAT
 55	83	урун-	*	*	*	
@@ -1280,7 +1280,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 55	109	хавата̄-	NOM	ACC	TR	TR
 55	110	ая̄в-	*	*	*	
 55	111	сӣргэн-	NOM	ABL	Y	NOM_ABL
-55	112	элэксин-	NOM	INSTR	Y	NOM_INSTR
+55	112	элэксин-	NOM	INS	Y	NOM_INS
 55	113	ая̄в-у-	NOM	ACC	TR	TR
 55	114	тэде̄-	NOM	ACC	TR	TR
 55	115	мула̄н-	NOM	ACC	TR	TR
@@ -1823,7 +1823,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 3	2		*	*	*	
 3	3		ACT	gui	Y	ACT_gui
 3	4		ACT	INACT	TR	TR
-3	5		INACT	pe	X	INACT_pe
+3	5		pe	INACT	X	pe_INACT
 3	6		*	*	*	
 3	7		ACT	rehe	Y	ACT_rehe
 3	8		ACT	INACT	TR	TR
@@ -1847,7 +1847,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 3	26		ACT	INACT	TR	TR
 3	27		*	*	*	
 3	28		ACT	INACT	TR	TR
-3	29		INACT	gui	X	INACT_gui
+3	29		INACT	gui	Y	INACT_gui
 3	30		ACT	rehe	Y	ACT_rehe
 3	31		ACT	INACT	TR	TR
 3	32		*	*	*	
@@ -1874,7 +1874,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 3	53		ACT	INACT	TR	TR
 3	54		*	*	*	
 3	55		ACT	INACT	TR	TR
-3	56		INACT	ZERO	X	INACT_ZERO
+3	56		pe	INACT	X	pe_INACT
 3	57		*	*	*	
 3	58		*	*	*	
 3	59		ACT	re	Y	ACT_re
@@ -1949,7 +1949,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 3	128		*	*	*	
 3	129		*	*	*	
 3	130		*	*	*	
-18	1		POSS	HEAD	X	POSS_HEAD
+18	1		*	*	*	
 18	2		ba	SBJ	X	ba_SBJ
 18	3		SBJ	lee	Y	SBJ_lee
 18	4		SBJ	DO	TR	TR
@@ -2129,7 +2129,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 53	48	álmodik	NOM	DEL	Y	NOM_DEL
 53	49	elmos	NOM	ACC	TR	TR
 53	50	felvesz 	NOM	ACC	TR	TR
-53	51	hívják	ACC	DAT	XY	ACC_DAT
+53	51	hívják	ACC	DAT	Y	ACC_DAT
 53	52	megbüntet	NOM	ACC	TR	TR
 53	53	megtámad	NOM	ACC	TR	TR
 53	54	megtelik	NOM	INS	Y	NOM_INS
@@ -2256,7 +2256,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 64	45	skjalla	NOM	ACC	TR	TR
 64	46	elskar	NOM	ACC	TR	TR
 64	47	veifa	NOM	ACC	TR	TR
-64	48	dreymir	ACC	umACC	XY	ACC_umACC
+64	48	dreymir	ACC	umACC	Y	ACC_umACC
 64	49	þvoði	NOM	ACC	TR	TR
 64	50	fór	NOM	iACC	Y	NOM_iACC
 64	51	er  kallað	NOM	NOM(NO.AGR)	Y	NOM_NOM(NO.AGR)
@@ -2329,7 +2329,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 64	118	hissa	NOM	yfirDAT	Y	NOM_yfirDAT
 64	119	elskar	NOM	ACC	TR	TR
 64	120	finnst gott	DAT	NOM	X	DAT_NOM
-64	121	langar	ACC	iACC	XY	ACC_iACC
+64	121	langar	ACC	iACC	Y	ACC_iACC
 64	122	*	*	*	*	
 64	123	móðgaðist	NOM	vidACC	Y	NOM_vidACC
 64	124	kom ... í mikið uppnám	NOM	DAT	Y	NOM_DAT
@@ -2339,138 +2339,138 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 64	128	verða pirraður 	NOM	aDAT	Y	NOM_aDAT
 64	129	annt	NOM	umACC	Y	NOM_umACC
 64	130	fer hjá sér	NOM	vegnaGEN	Y	NOM_vegnaGEN
-40	1		*	*	*	
-40	2		*	*	*	
-40	3		NOM	LAT	Y	NOM_LAT
-40	4		ERG	NOM	TR	TR
-40	5		DAT	NOM	X	DAT_NOM
-40	6		NOM	LAT	Y	NOM_LAT
-40	7		NOM	LAT	Y	NOM_LAT
-40	8		ERG	NOM	TR	TR
-40	9		DAT	NOM	X	DAT_NOM
-40	10		ERG	DAT	Y	ERG_DAT
-40	11		NOM	LAT	Y	NOM_LAT
-40	12		*	*	*	
-40	13		*	*	*	
-40	14		*	*	*	
-40	15		ERG	NOM	TR	TR
-40	16		ERG	NOM	TR	TR
-40	17		ERG	ALL	Y	ERG_ALL
-40	18		ERG	NOM	TR	TR
-40	19		NOM	DAT	Y	NOM_DAT
-40	20		ERG	NOM	TR	TR
-40	21		*	*	*	
-40	22		NOM	LAT	Y	NOM_LAT
-40	23		*	*	*	
-40	24		*	*	*	
-40	25		ERG	LAT	Y	ERG_LAT
-40	26		ERG	NOM	TR	TR
-40	27		ERG	NOM	TR	TR
-40	28		NOM	ALL	Y	NOM_ALL
-40	29		DAT	NOM	X	DAT_NOM
-40	30		*	*	*	
-40	31		ERG	NOM	TR	TR
-40	32		DAT	NOM	X	DAT_NOM
-40	33		DAT	NOM	X	DAT_NOM
-40	34		ERG	NOM	TR	TR
-40	35		NOM	LAT	Y	NOM_LAT
-40	36		ERG	NOM	TR	TR
-40	37		ERG	DAT	Y	ERG_DAT
-40	38		GEN	NOM	X	GEN_NOM
-40	39		ERG	NOM	TR	TR
-40	40		ERG	DAT	Y	ERG_DAT
-40	41		ERG	DAT	Y	ERG_DAT
-40	42		*	*	*	
-40	43		ERG	NOM	TR	TR
-40	44		ERG	NOM	TR	TR
-40	45		ERG	NOM	TR	TR
-40	46		DAT	NOM	X	DAT_NOM
-40	47		ERG	NOM	TR	TR
-40	48		ERG	ABL	Y	ERG_ABL
-40	49		ERG	NOM	TR	TR
-40	50		ERG	NOM	TR	TR
-40	51		NOM	LAT	Y	NOM_LAT
-40	52		*	*	*	
-40	53		NOM	DAT	Y	NOM_DAT
-40	54		NOM	LAT	Y	NOM_LAT
-40	55		DAT	NOM	X	DAT_NOM
-40	56		DAT	NOM	X	DAT_NOM
-40	57		DAT	NOM	X	DAT_NOM
-40	58		DAT	NOM	X	DAT_NOM
-40	59		DAT	NOM	X	DAT_NOM
-40	60		NOM	DAT	Y	NOM_DAT
-40	61		ALL	NOM	X	ALL_NOM
-40	62		ERG	DAT	Y	ERG_DAT
-40	63		ERG	NOM	TR	TR
-40	64		*	*	*	
-40	65		*	*	*	
-40	66		ERG	NOM	TR	TR
-40	67		LAT	NOM	X	LAT_NOM
-40	68		*	*	*	
-40	69		ERG	NOM	TR	TR
-40	70		ERG	NOM	TR	TR
-40	71		ERG	NOM	TR	TR
-40	72		ERG	NOM	TR	TR
-40	73		NOM	INSTR	Y	NOM_INSTR
-40	74		NOM	ABL	Y	NOM_ABL
-40	75		*	*	*	
-40	76		DAT	NOM	X	DAT_NOM
-40	77		ERG	NOM	TR	TR
-40	78		ERG	NOM	TR	TR
-40	79		NOM	DAT	Y	NOM_DAT
-40	80		NOM	INSTR	Y	NOM_INSTR
-40	81		NOM	LAT	Y	NOM_LAT
-40	82		*	*	*	
-40	83		*	*	*	
-40	84		ERG	INSTR	Y	ERG_INSTR
-40	85		ERG	NOM	TR	TR
-40	86		ERG	NOM	TR	TR
-40	87		ERG	DAT	Y	ERG_DAT
-40	88		ERG	DAT	Y	ERG_DAT
-40	89		*	*	*	
-40	90		*	*	*	
-40	91		ERG	ALL	Y	ERG_ALL
-40	92		ERG	ALL	Y	ERG_ALL
-40	93		DAT	NOM	X	DAT_NOM
-40	94		*	*	*	
-40	95		NOM	ALL	Y	NOM_ALL
-40	96		ERG	NOM	TR	TR
-40	97		DAT	NOM	X	DAT_NOM
-40	98		*	*	*	
-40	99		*	*	*	
-40	100		LAT	NOM	X	LAT_NOM
-40	101		ERG	DAT	Y	ERG_DAT
-40	102		ERG	NOM	TR	TR
-40	103		ERG	NOM	TR	TR
-40	104		*	*	*	
-40	105		ERG	NOM	TR	TR
-40	106		ERG	DAT	Y	ERG_DAT
-40	107		ERG	DAT	Y	ERG_DAT
-40	108		ERG	NOM	TR	TR
-40	109		ERG	NOM	TR	TR
-40	110		*	*	*	
-40	111		DAT	NOM	X	DAT_NOM
-40	112		NOM	DAT	Y	NOM_DAT
-40	113		DAT	NOM	X	DAT_NOM
-40	114		NOM	LAT	Y	NOM_LAT
-40	115		DAT	LAT	XY	DAT_LAT
-40	116		NOM	LAT	Y	NOM_LAT
-40	117		NOM	DAT	Y	NOM_DAT
-40	118		NOM	LAT	Y	NOM_LAT
-40	119		DAT	NOM	X	DAT_NOM
-40	120		*	*	*	
-40	121		DAT	NOM	X	DAT_NOM
-40	122		NOM	DAT	Y	NOM_DAT
-40	123		ERG	DAT	Y	ERG_DAT
-40	124		ERG	DAT	Y	ERG_DAT
-40	125		NOM	LAT	Y	NOM_LAT
-40	126		DAT	NOM	X	DAT_NOM
-40	127		DAT	LAT	XY	DAT_LAT
-40	128		NOM	DAT	Y	NOM_DAT
-40	129		DAT	NOM	X	DAT_NOM
-40	130		*	*	*	
+40	1	loz	*	*	*	
+40	2	jwouxarazh qiitta	*	*	*	
+40	3	qier	NOM	LAT	Y	NOM_LAT
+40	4	toss	ERG	NOM	TR	TR
+40	5	to'	DAT	NOM	X	DAT_NOM
+40	6	tara	NOM	LAT	Y	NOM_LAT
+40	7	tiesh	NOM	LAT	Y	NOM_LAT
+40	8	iec	ERG	NOM	TR	TR
+40	9	gu	DAT	NOM	X	DAT_NOM
+40	10	wotq'am b.u	ERG	DAT	Y	ERG_DAT
+40	11	qiet	NOM	LAT	Y	NOM_LAT
+40	12	chy-d.oagha	*	*	*	
+40	13	kot-d.oal	NOM	CSN	Y	NOM_CSN
+40	14	aara-d.oagha	*	*	*	
+40	15	loall	ERG	NOM	TR	TR
+40	16	sotta-d.u	ERG	NOM	TR	TR
+40	17	oal	ERG	ALL	Y	ERG_ALL
+40	18	bie loac	ERG	NOM	TR	TR
+40	19	t'u-quu	NOM	DAT	Y	NOM_DAT
+40	20	d.iett	ERG	NOM	TR	TR
+40	21	dwa- qoach	*	*	*	
+40	22	hwoqa-lu	NOM	LAT	Y	NOM_LAT
+40	23	(vwaashagh-) lat	*	*	*	
+40	24	dottaghal dy	*	*	*	
+40	25	iila ju	ERG	LAT	Y	ERG_LAT
+40	26	d.u'	ERG	NOM	TR	TR
+40	27	d.iett	ERG	NOM	TR	TR
+40	28	hwiezh	NOM	ALL	Y	NOM_ALL
+40	29	d.ic-lu	DAT	NOM	X	DAT_NOM
+40	30	[All hwazhaa]cc d.y	*	*	*	
+40	31	qeik	ERG	NOM	TR	TR
+40	32	d.ouz	DAT	NOM	X	DAT_NOM
+40	33	d.ouz	DAT	NOM	X	DAT_NOM
+40	34	loq	ERG	NOM	TR	TR
+40	35	ud	NOM	LAT	Y	NOM_LAT
+40	36	d.u	ERG	NOM	TR	TR
+40	37	futtarie ju	ERG	DAT	Y	ERG_DAT
+40	38	d.y	GEN	NOM	X	GEN_NOM
+40	39	lox	ERG	NOM	TR	TR
+40	40	basar hwoq	ERG	DAT	Y	ERG_DAT
+40	41	carjg tuox	ERG	DAT	Y	ERG_DAT
+40	42	d.oacazh d.us 	*	*	*	
+40	43	loac	ERG	NOM	TR	TR
+40	44	kag-d.u	ERG	NOM	TR	TR
+40	45	hwoasta-d.u	ERG	NOM	TR	TR
+40	46	d.iez	DAT	NOM	X	DAT_NOM
+40	47	losta-d.u	ERG	NOM	TR	TR
+40	48	sa tuus	ERG	ABL	Y	ERG_ABL
+40	49	d.ul	ERG	NOM	TR	TR
+40	50	t'y-d.uux	ERG	NOM	TR	TR
+40	51	oal	NOM	LAT	Y	NOM_LAT
+40	52	tawazar d.u	ERG	DAT	Y	ERG_DAT
+40	53	t'y-qiet	NOM	DAT	Y	NOM_DAT
+40	54	d.uz	NOM	LAT	Y	NOM_LAT
+40	55	kora-d.u	DAT	NOM	X	DAT_NOM
+40	56	iesh	DAT	NOM	X	DAT_NOM
+40	57	goama-lu	DAT	NOM	X	DAT_NOM
+40	58	d.iez	DAT	NOM	X	DAT_NOM
+40	59	iesh	DAT	NOM	X	DAT_NOM
+40	60	guonahwa d.y	NOM	DAT	Y	NOM_DAT
+40	61	('now' + 'be')	ALL	NOM	X	ALL_NOM
+40	62	zhop lu	ERG	DAT	Y	ERG_DAT
+40	63	d.iell	ERG	NOM	TR	TR
+40	64	ergazh d.y	NOM	CSN	Y	NOM_CSN
+40	65	t'ehwa-d.us	NOM	CSN	Y	NOM_CSN
+40	66	oax	ERG	NOM	TR	TR
+40	67	hwadzh j.oagha	LAT	NOM	X	LAT_NOM
+40	68	dehwa-d.uoda	NOM	CSN	Y	NOM_CSN
+40	69	loq	ERG	NOM	TR	TR
+40	70	jaaz-d.u	ERG	NOM	TR	TR
+40	71	mol	ERG	NOM	TR	TR
+40	72	loala-d.u	ERG	NOM	TR	TR
+40	73	tou	NOM	INS	Y	NOM_INS
+40	74	dwa-d.uoda	NOM	ABL	Y	NOM_ABL
+40	75	q'aila-d.oaqq	ERG	NOM	TR	TR
+40	76	daga-d.oagha	DAT	NOM	X	DAT_NOM
+40	77	nouq'ostal d.u	ERG	NOM	TR	TR
+40	78	qieta-d.u	ERG	NOM	TR	TR
+40	79	tuox	NOM	DAT	Y	NOM_DAT
+40	80	xoada-d.u	NOM	INS	Y	NOM_INS
+40	81	lat	NOM	LAT	Y	NOM_LAT
+40	82	*	*	*	*	
+40	83	ghad-d.uoda	*	*	*	
+40	84	q'ameal d.uuc 	ERG	INS	Y	ERG_INS
+40	85	d.u	ERG	NOM	TR	TR
+40	86	karara ieqq	*	*	*	
+40	87	kyljgal d.u	ERG	DAT	Y	ERG_DAT
+40	88	sagot-d.u	ERG	DAT	Y	ERG_DAT
+40	89	t'ehwa-d.oal	*	*	*	
+40	90	wa-d.oal	*	*	*	
+40	91	la-duogh	ERG	ALL	Y	ERG_ALL
+40	92	la-duugh	ERG	ALL	Y	ERG_ALL
+40	93	xoz	DAT	NOM	X	DAT_NOM
+40	94	vwaashagh-'uu	*	*	*	
+40	95	hwiezh	NOM	ALL	Y	NOM_ALL
+40	96	wa-d.oaqq	ERG	NOM	TR	TR
+40	97	gha gu	DAT	NOM	X	DAT_NOM
+40	98	reaza xul	*	*	*	
+40	99	iegh	*	*	*	
+40	100	d.oaqq	LAT	NOM	X	LAT_NOM
+40	101	top tuox	ERG	DAT	Y	ERG_DAT
+40	102	chy-d.iexk	ERG	NOM	TR	TR
+40	103	d.oa-d.u	ERG	NOM	TR	TR
+40	104	dwa-daxar	NOM	chy	Y	NOM_chy
+40	105	d.uu	ERG	NOM	TR	TR
+40	106	tuox	ERG	DAT	Y	ERG_DAT
+40	107	bart boaqq  	ERG	DAT	Y	ERG_DAT
+40	108	d.iesh	ERG	NOM	TR	TR
+40	109	hwie-d.u	ERG	NOM	TR	TR
+40	110	lierham bu 	*	*	*	
+40	111	degaza xet	DAT	NOM	X	DAT_NOM
+40	112	reaza d.y	NOM	DAT	Y	NOM_DAT
+40	113	duqa d.ieza	DAT	NOM	X	DAT_NOM
+40	114	tiesh	NOM	LAT	Y	NOM_LAT
+40	115	q'axiet	DAT	LAT	XY	DAT_LAT
+40	116	hwag	NOM	LAT	Y	NOM_LAT
+40	117	ieghaz ux	NOM	DAT	Y	NOM_DAT
+40	118	cec-d.oal	NOM	LAT	Y	NOM_LAT
+40	119	d.iez	DAT	NOM	X	DAT_NOM
+40	120	*	*	*	*	
+40	121	d.ieza	DAT	NOM	X	DAT_NOM
+40	122	reaza d.aac	NOM	DAT	Y	NOM_DAT
+40	123	degabu'am bu	ERG	DAT	Y	ERG_DAT
+40	124	cytoam bu	ERG	DAT	Y	ERG_DAT
+40	125	cec+d.oal	NOM	LAT	Y	NOM_LAT
+40	126	goama d.y	DAT	NOM	X	DAT_NOM
+40	127	cytoam xul	DAT	LAT	XY	DAT_LAT
+40	128	ieghaz ux	NOM	DAT	Y	NOM_DAT
+40	129	baq'ahwara biezamie sag zet	DAT	NOM	X	DAT_NOM
+40	130	ehw xiet	DAT	LAT	XY	DAT_LAT
 12	1		TOP	NOM	X	TOP_NOM
-12	2		TOP	ZERO	XY	TOP_ZERO
+12	2		TOP	BARE	XY	TOP_BARE
 12	3		*	*	*	
 12	4		NOM	ACC	TR	TR
 12	5		TOP	NOM	X	TOP_NOM
@@ -2522,7 +2522,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 12	51		NOM	CONTR	Y	NOM_CONTR
 12	52		NOM	ACC	TR	TR
 12	53		NOM	ACC	TR	TR
-12	54		NOM	INSTR	Y	NOM_INSTR
+12	54		NOM	INS	Y	NOM_INS
 12	55		NOM	ACC	TR	TR
 12	56		TOP	NOM	X	TOP_NOM
 12	57		*	*	*	
@@ -2548,7 +2548,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 12	77		NOM	ACC	TR	TR
 12	78		TOP	NOM	X	TOP_NOM
 12	79		NOM	DAT	Y	NOM_DAT
-12	80		NOM	INSTR	Y	NOM_INSTR
+12	80		NOM	INS	Y	NOM_INS
 12	81		NOM	DAT	Y	NOM_DAT
 12	82		NOM	DAT	Y	NOM_DAT
 12	83		NOM	DAT	Y	NOM_DAT
@@ -2568,7 +2568,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 12	97		*	*	*	
 12	98		NOM	DAT	Y	NOM_DAT
 12	99		NOM	CONTR	Y	NOM_CONTR
-12	100		TOP	ZERO	XY	TOP_ZERO
+12	100		TOP	BARE	XY	TOP_BARE
 12	101		NOM	ACC	TR	TR
 12	102		NOM	ACC	TR	TR
 12	103		NOM	ACC	TR	TR
@@ -2659,7 +2659,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 48	58	súum	SBJ	OBJ	TR	TR
 48	59	soola	SBJ	OBJ	TR	TR
 48	60	ŋomen 	SBJ	OBJ	TR	TR
-48	61	riino	OBJ	OBJ	X	OBJ_OBJ
+48	61	riino	OBJ	BARE	Y	OBJ_BARE
 48	62	púk 	SBJ	OBJ	TR	TR
 48	63	kámbúl 	SBJ	OBJ	TR	TR
 48	64	búutóor	SBJ	di	Y	SBJ_di
@@ -2775,14 +2775,14 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 14	44	xamxəl	NOM	ACC	TR	TR
 14	45	zuʁud	NOM	DAT	Y	NOM_DAT
 14	46	durl	NOM	ACC	TR	TR
-14	47	dajl	NOM	INSTR	Y	NOM_INSTR
+14	47	dajl	NOM	INS	Y	NOM_INS
 14	48	san	*	*	*	
 14	49	uʁa	NOM	ACC	TR	TR
 14	50	öms	NOM	ACC	TR	TR
 14	51	nerädə-gdə	NOM	gidh	Y	NOM_gidh
 14	52	zas	NOM	ACC	TR	TR
 14	53	dävr	NOM	DIR	Y	NOM_DIR
-14	54	düür	NOM	INSTR	Y	NOM_INSTR
+14	54	düür	NOM	INS	Y	NOM_INS
 14	55	ol	NOM	ACC	TR	TR
 14	56	kür + NEG	DAT	NOM	X	DAT_NOM
 14	57	dur-go	NOM	DAT	Y	NOM_DAT
@@ -2808,7 +2808,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 14	77	nökd bol	NOM	DAT	Y	NOM_DAT
 14	78	med	NOM	ACC	TR	TR
 14	79	or	NOM	DAT	Y	NOM_DAT
-14	80	kerč-gd	NOM	INSTR	Y	NOM_INSTR
+14	80	kerč-gd	NOM	INS	Y	NOM_INS
 14	81	naald	NOM	DAT	Y	NOM_DAT
 14	82	diilə-gd	NOM	DAT	Y	NOM_DAT
 14	83	bajrl	NOM	DAT	Y	NOM_DAT
@@ -3039,7 +3039,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 17	48		*	*	*	
 17	49		NOM	ACC	TR	TR
 17	50		NOM	ACC	TR	TR
-17	51		ACC	parACC	XY	ACC_parACC
+17	51		ACC	parACC	Y	ACC_parACC
 17	52		NOM	ACC	TR	TR
 17	53		NOM	DAT	Y	NOM_DAT
 17	54		NOM	arACC	Y	NOM_arACC
@@ -3379,7 +3379,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 13	128		*	*	*	
 13	129		NOM	DAT	Y	NOM_DAT
 13	130		NOM	GEN	Y	NOM_GEN
-19	1		POSS	HEAD	X	POSS_HEAD
+19	1		*	*	*	
 19	2		ma	SBJ	X	ma_SBJ
 19	3		SBJ	ba	Y	SBJ_ba
 19	4		SBJ	DO	TR	TR
@@ -4339,7 +4339,7 @@ language_no	predicate_no	verb	X	Y	locus	valency_pattern
 6	48		NOM	GENdugajynda	Y	NOM_GENdugajynda
 6	49		NOM	ACC	TR	TR
 6	50		NOM	ACC	TR	TR
-6	51		ACC	NOM(NO.AGR)	XY	ACC_NOM(NO.AGR)
+6	51		ACC	NOM(NO.AGR)	Y	ACC_NOM(NO.AGR)
 6	52		NOM	DAT	Y	NOM_DAT
 6	53		NOM	ALL1	Y	NOM_ALL1
 6	54		NOM	COM	Y	NOM_COM

@@ -744,7 +744,7 @@ const structuralData = [
     "NOM",
     "tekNOM",
     "Y",
-    "NON_tekNOM"
+    "NOM_tekNOM"
   ],
   [
     "Albanian",
@@ -1192,9 +1192,9 @@ const structuralData = [
     "have#illness#",
     "",
     "NOM ",
-    "ERG",
+    "ERG(NON.CORE)",
     "Y",
-    "NOM_ERG"
+    "NOM_ERG(NON.|CORE)"
   ],
   [
     "Bagvalal",
@@ -6277,9 +6277,9 @@ const structuralData = [
     "wave",
     "далла-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Buriat",
@@ -6340,9 +6340,9 @@ const structuralData = [
     "fill#intr#",
     "дүүрэ-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Buriat",
@@ -6574,9 +6574,9 @@ const structuralData = [
     "cut_oneself",
     "ада-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Buriat",
@@ -6835,9 +6835,9 @@ const structuralData = [
     "move#bodypart#",
     "хүдэлгэ-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Buriat",
@@ -6934,9 +6934,9 @@ const structuralData = [
     "enjoy",
     "һонирхо-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Buriat",
@@ -8654,7 +8654,7 @@ const structuralData = [
     "t-",
     "OBJ",
     "NOM(NO.AGR)",
-    "XY",
+    "Y",
     "OBJ_NOM(NO.AGR)"
   ],
   [
@@ -10552,9 +10552,9 @@ const structuralData = [
     "have#illness#",
     "бумӯ-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Evenki",
@@ -10840,9 +10840,9 @@ const structuralData = [
     "play#instrument#",
     "эви-де-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Evenki",
@@ -10957,9 +10957,9 @@ const structuralData = [
     "wave",
     "а̄рпу-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Evenki",
@@ -11020,9 +11020,9 @@ const structuralData = [
     "fill#intr#",
     "дялурбу-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Evenki",
@@ -11254,9 +11254,9 @@ const structuralData = [
     "cut_oneself",
     "минэ-в-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Evenki",
@@ -11542,9 +11542,9 @@ const structuralData = [
     "be_content",
     "элэксин-",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Evenki",
@@ -16428,10 +16428,10 @@ const structuralData = [
     "Guaraní (Paraguayan)",
     "have_enough",
     "",
-    "INACT",
     "pe",
+    "INACT",
     "X",
-    "INACT_pe"
+    "pe_INACT"
   ],
   [
     "Guaraní (Paraguayan)",
@@ -16646,7 +16646,7 @@ const structuralData = [
     "",
     "INACT",
     "gui",
-    "X",
+    "Y",
     "INACT_gui"
   ],
   [
@@ -16887,10 +16887,10 @@ const structuralData = [
     "Guaraní (Paraguayan)",
     "be_short",
     "",
+    "pe",
     "INACT",
-    "ZERO",
     "X",
-    "INACT_ZERO"
+    "pe_INACT"
   ],
   [
     "Guaraní (Paraguayan)",
@@ -17562,10 +17562,10 @@ const structuralData = [
     "Guro",
     "feel_pain",
     "",
-    "POSS",
-    "HEAD",
-    "X",
-    "POSS_HEAD"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
     "Guro",
@@ -19184,7 +19184,7 @@ const structuralData = [
     "hívják",
     "ACC",
     "DAT",
-    "XY",
+    "Y",
     "ACC_DAT"
   ],
   [
@@ -20327,7 +20327,7 @@ const structuralData = [
     "dreymir",
     "ACC",
     "umACC",
-    "XY",
+    "Y",
     "ACC_umACC"
   ],
   [
@@ -20984,7 +20984,7 @@ const structuralData = [
     "langar",
     "ACC",
     "iACC",
-    "XY",
+    "Y",
     "ACC_iACC"
   ],
   [
@@ -21071,7 +21071,7 @@ const structuralData = [
   [
     "Ingush",
     "feel_pain",
-    "",
+    "loz",
     "*",
     "*",
     "*",
@@ -21080,7 +21080,7 @@ const structuralData = [
   [
     "Ingush",
     "have#illness#",
-    "",
+    "jwouxarazh qiitta",
     "*",
     "*",
     "*",
@@ -21089,7 +21089,7 @@ const structuralData = [
   [
     "Ingush",
     "be_afraid",
-    "",
+    "qier",
     "NOM",
     "LAT",
     "Y",
@@ -21098,7 +21098,7 @@ const structuralData = [
   [
     "Ingush",
     "throw",
-    "",
+    "toss",
     "ERG",
     "NOM",
     "TR",
@@ -21107,7 +21107,7 @@ const structuralData = [
   [
     "Ingush",
     "have_enough",
-    "",
+    "to'",
     "DAT",
     "NOM",
     "X",
@@ -21116,7 +21116,7 @@ const structuralData = [
   [
     "Ingush",
     "resemble",
-    "",
+    "tara",
     "NOM",
     "LAT",
     "Y",
@@ -21125,7 +21125,7 @@ const structuralData = [
   [
     "Ingush",
     "believe",
-    "",
+    "tiesh",
     "NOM",
     "LAT",
     "Y",
@@ -21134,7 +21134,7 @@ const structuralData = [
   [
     "Ingush",
     "take",
-    "",
+    "iec",
     "ERG",
     "NOM",
     "TR",
@@ -21143,7 +21143,7 @@ const structuralData = [
   [
     "Ingush",
     "see",
-    "",
+    "gu",
     "DAT",
     "NOM",
     "X",
@@ -21152,7 +21152,7 @@ const structuralData = [
   [
     "Ingush",
     "influence",
-    "",
+    "wotq'am b.u",
     "ERG",
     "DAT",
     "Y",
@@ -21161,7 +21161,7 @@ const structuralData = [
   [
     "Ingush",
     "encounter",
-    "",
+    "qiet",
     "NOM",
     "LAT",
     "Y",
@@ -21170,7 +21170,7 @@ const structuralData = [
   [
     "Ingush",
     "enter",
-    "",
+    "chy-d.oagha",
     "*",
     "*",
     "*",
@@ -21179,16 +21179,16 @@ const structuralData = [
   [
     "Ingush",
     "win",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "kot-d.oal",
+    "NOM",
+    "CSN",
+    "Y",
+    "NOM_CSN"
   ],
   [
     "Ingush",
     "go_out",
-    "",
+    "aara-d.oagha",
     "*",
     "*",
     "*",
@@ -21197,7 +21197,7 @@ const structuralData = [
   [
     "Ingush",
     "drive",
-    "",
+    "loall",
     "ERG",
     "NOM",
     "TR",
@@ -21206,7 +21206,7 @@ const structuralData = [
   [
     "Ingush",
     "bend",
-    "",
+    "sotta-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21215,7 +21215,7 @@ const structuralData = [
   [
     "Ingush",
     "tell",
-    "",
+    "oal",
     "ERG",
     "ALL",
     "Y",
@@ -21224,7 +21224,7 @@ const structuralData = [
   [
     "Ingush",
     "hold",
-    "",
+    "bie loac",
     "ERG",
     "NOM",
     "TR",
@@ -21233,7 +21233,7 @@ const structuralData = [
   [
     "Ingush",
     "catch_up",
-    "",
+    "t'u-quu",
     "NOM",
     "DAT",
     "Y",
@@ -21242,7 +21242,7 @@ const structuralData = [
   [
     "Ingush",
     "milk",
-    "",
+    "d.iett",
     "ERG",
     "NOM",
     "TR",
@@ -21251,7 +21251,7 @@ const structuralData = [
   [
     "Ingush",
     "reach",
-    "",
+    "dwa- qoach",
     "*",
     "*",
     "*",
@@ -21260,7 +21260,7 @@ const structuralData = [
   [
     "Ingush",
     "touch",
-    "",
+    "hwoqa-lu",
     "NOM",
     "LAT",
     "Y",
@@ -21269,7 +21269,7 @@ const structuralData = [
   [
     "Ingush",
     "fight",
-    "",
+    "(vwaashagh-) lat",
     "*",
     "*",
     "*",
@@ -21278,7 +21278,7 @@ const structuralData = [
   [
     "Ingush",
     "be_friends",
-    "",
+    "dottaghal dy",
     "*",
     "*",
     "*",
@@ -21287,7 +21287,7 @@ const structuralData = [
   [
     "Ingush",
     "think",
-    "",
+    "iila ju",
     "ERG",
     "LAT",
     "Y",
@@ -21296,7 +21296,7 @@ const structuralData = [
   [
     "Ingush",
     "eat",
-    "",
+    "d.u'",
     "ERG",
     "NOM",
     "TR",
@@ -21305,7 +21305,7 @@ const structuralData = [
   [
     "Ingush",
     "fry",
-    "",
+    "d.iett",
     "ERG",
     "NOM",
     "TR",
@@ -21314,7 +21314,7 @@ const structuralData = [
   [
     "Ingush",
     "wait",
-    "",
+    "hwiezh",
     "NOM",
     "ALL",
     "Y",
@@ -21323,7 +21323,7 @@ const structuralData = [
   [
     "Ingush",
     "forget",
-    "",
+    "d.ic-lu",
     "DAT",
     "NOM",
     "X",
@@ -21332,7 +21332,7 @@ const structuralData = [
   [
     "Ingush",
     "depend",
-    "",
+    "[All hwazhaa]cc d.y",
     "*",
     "*",
     "*",
@@ -21341,7 +21341,7 @@ const structuralData = [
   [
     "Ingush",
     "call",
-    "",
+    "qeik",
     "ERG",
     "NOM",
     "TR",
@@ -21350,7 +21350,7 @@ const structuralData = [
   [
     "Ingush",
     "get_to_know",
-    "",
+    "d.ouz",
     "DAT",
     "NOM",
     "X",
@@ -21359,7 +21359,7 @@ const structuralData = [
   [
     "Ingush",
     "know",
-    "",
+    "d.ouz",
     "DAT",
     "NOM",
     "X",
@@ -21368,7 +21368,7 @@ const structuralData = [
   [
     "Ingush",
     "play#instrument#",
-    "",
+    "loq",
     "ERG",
     "NOM",
     "TR",
@@ -21377,7 +21377,7 @@ const structuralData = [
   [
     "Ingush",
     "avoid",
-    "",
+    "ud",
     "NOM",
     "LAT",
     "Y",
@@ -21386,7 +21386,7 @@ const structuralData = [
   [
     "Ingush",
     "make",
-    "",
+    "d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21395,7 +21395,7 @@ const structuralData = [
   [
     "Ingush",
     "make_fun",
-    "",
+    "futtarie ju",
     "ERG",
     "DAT",
     "Y",
@@ -21404,7 +21404,7 @@ const structuralData = [
   [
     "Ingush",
     "have",
-    "",
+    "d.y",
     "GEN",
     "NOM",
     "X",
@@ -21413,7 +21413,7 @@ const structuralData = [
   [
     "Ingush",
     "look_for",
-    "",
+    "lox",
     "ERG",
     "NOM",
     "TR",
@@ -21422,7 +21422,7 @@ const structuralData = [
   [
     "Ingush",
     "paint",
-    "",
+    "basar hwoq",
     "ERG",
     "DAT",
     "Y",
@@ -21431,7 +21431,7 @@ const structuralData = [
   [
     "Ingush",
     "bite",
-    "",
+    "carjg tuox",
     "ERG",
     "DAT",
     "Y",
@@ -21440,7 +21440,7 @@ const structuralData = [
   [
     "Ingush",
     "forfeit",
-    "",
+    "d.oacazh d.us ",
     "*",
     "*",
     "*",
@@ -21449,7 +21449,7 @@ const structuralData = [
   [
     "Ingush",
     "try_to_catch",
-    "",
+    "loac",
     "ERG",
     "NOM",
     "TR",
@@ -21458,7 +21458,7 @@ const structuralData = [
   [
     "Ingush",
     "break",
-    "",
+    "kag-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21467,7 +21467,7 @@ const structuralData = [
   [
     "Ingush",
     "flatter",
-    "",
+    "hwoasta-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21476,7 +21476,7 @@ const structuralData = [
   [
     "Ingush",
     "love#person#",
-    "",
+    "d.iez",
     "DAT",
     "NOM",
     "X",
@@ -21485,7 +21485,7 @@ const structuralData = [
   [
     "Ingush",
     "wave",
-    "",
+    "losta-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21494,7 +21494,7 @@ const structuralData = [
   [
     "Ingush",
     "dream",
-    "",
+    "sa tuus",
     "ERG",
     "ABL",
     "Y",
@@ -21503,7 +21503,7 @@ const structuralData = [
   [
     "Ingush",
     "wash",
-    "",
+    "d.ul",
     "ERG",
     "NOM",
     "TR",
@@ -21512,7 +21512,7 @@ const structuralData = [
   [
     "Ingush",
     "put_on",
-    "",
+    "t'y-d.uux",
     "ERG",
     "NOM",
     "TR",
@@ -21521,7 +21521,7 @@ const structuralData = [
   [
     "Ingush",
     "be_called",
-    "",
+    "oal",
     "NOM",
     "LAT",
     "Y",
@@ -21530,16 +21530,16 @@ const structuralData = [
   [
     "Ingush",
     "punish",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "tawazar d.u",
+    "ERG",
+    "DAT",
+    "Y",
+    "ERG_DAT"
   ],
   [
     "Ingush",
     "attack",
-    "",
+    "t'y-qiet",
     "NOM",
     "DAT",
     "Y",
@@ -21548,7 +21548,7 @@ const structuralData = [
   [
     "Ingush",
     "fill#intr#",
-    "",
+    "d.uz",
     "NOM",
     "LAT",
     "Y",
@@ -21557,7 +21557,7 @@ const structuralData = [
   [
     "Ingush",
     "find",
-    "",
+    "kora-d.u",
     "DAT",
     "NOM",
     "X",
@@ -21566,7 +21566,7 @@ const structuralData = [
   [
     "Ingush",
     "be_short",
-    "",
+    "iesh",
     "DAT",
     "NOM",
     "X",
@@ -21575,7 +21575,7 @@ const structuralData = [
   [
     "Ingush",
     "hate",
-    "",
+    "goama-lu",
     "DAT",
     "NOM",
     "X",
@@ -21584,7 +21584,7 @@ const structuralData = [
   [
     "Ingush",
     "like",
-    "",
+    "d.iez",
     "DAT",
     "NOM",
     "X",
@@ -21593,7 +21593,7 @@ const structuralData = [
   [
     "Ingush",
     "need",
-    "",
+    "iesh",
     "DAT",
     "NOM",
     "X",
@@ -21602,7 +21602,7 @@ const structuralData = [
   [
     "Ingush",
     "surround",
-    "",
+    "guonahwa d.y",
     "NOM",
     "DAT",
     "Y",
@@ -21611,7 +21611,7 @@ const structuralData = [
   [
     "Ingush",
     "remain",
-    "",
+    "('now' + 'be')",
     "ALL",
     "NOM",
     "X",
@@ -21620,7 +21620,7 @@ const structuralData = [
   [
     "Ingush",
     "answer",
-    "",
+    "zhop lu",
     "ERG",
     "DAT",
     "Y",
@@ -21629,7 +21629,7 @@ const structuralData = [
   [
     "Ingush",
     "open",
-    "",
+    "d.iell",
     "ERG",
     "NOM",
     "TR",
@@ -21638,25 +21638,25 @@ const structuralData = [
   [
     "Ingush",
     "be_different",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ergazh d.y",
+    "NOM",
+    "CSN",
+    "Y",
+    "NOM_CSN"
   ],
   [
     "Ingush",
     "fall_behind",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "t'ehwa-d.us",
+    "NOM",
+    "CSN",
+    "Y",
+    "NOM_CSN"
   ],
   [
     "Ingush",
     "plough",
-    "",
+    "oax",
     "ERG",
     "NOM",
     "TR",
@@ -21665,7 +21665,7 @@ const structuralData = [
   [
     "Ingush",
     "smell",
-    "",
+    "hwadzh j.oagha",
     "LAT",
     "NOM",
     "X",
@@ -21674,16 +21674,16 @@ const structuralData = [
   [
     "Ingush",
     "cross",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "dehwa-d.uoda",
+    "NOM",
+    "CSN",
+    "Y",
+    "NOM_CSN"
   ],
   [
     "Ingush",
     "sing",
-    "",
+    "loq",
     "ERG",
     "NOM",
     "TR",
@@ -21692,7 +21692,7 @@ const structuralData = [
   [
     "Ingush",
     "write",
-    "",
+    "jaaz-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21701,7 +21701,7 @@ const structuralData = [
   [
     "Ingush",
     "drink",
-    "",
+    "mol",
     "ERG",
     "NOM",
     "TR",
@@ -21710,7 +21710,7 @@ const structuralData = [
   [
     "Ingush",
     "melt",
-    "",
+    "loala-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21719,16 +21719,16 @@ const structuralData = [
   [
     "Ingush",
     "match",
-    "",
+    "tou",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Ingush",
     "leave",
-    "",
+    "dwa-d.uoda",
     "NOM",
     "ABL",
     "Y",
@@ -21737,16 +21737,16 @@ const structuralData = [
   [
     "Ingush",
     "cover",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "q'aila-d.oaqq",
+    "ERG",
+    "NOM",
+    "TR",
+    "TR"
   ],
   [
     "Ingush",
     "remember",
-    "",
+    "daga-d.oagha",
     "DAT",
     "NOM",
     "X",
@@ -21755,7 +21755,7 @@ const structuralData = [
   [
     "Ingush",
     "help",
-    "",
+    "nouq'ostal d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21764,7 +21764,7 @@ const structuralData = [
   [
     "Ingush",
     "understand#language#",
-    "",
+    "qieta-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21773,7 +21773,7 @@ const structuralData = [
   [
     "Ingush",
     "hit#target#",
-    "",
+    "tuox",
     "NOM",
     "DAT",
     "Y",
@@ -21782,16 +21782,16 @@ const structuralData = [
   [
     "Ingush",
     "cut_oneself",
-    "",
+    "xoada-d.u",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Ingush",
     "get_stuck",
-    "",
+    "lat",
     "NOM",
     "LAT",
     "Y",
@@ -21800,7 +21800,7 @@ const structuralData = [
   [
     "Ingush",
     "lose#game#",
-    "",
+    "*",
     "*",
     "*",
     "*",
@@ -21809,7 +21809,7 @@ const structuralData = [
   [
     "Ingush",
     "be_glad",
-    "",
+    "ghad-d.uoda",
     "*",
     "*",
     "*",
@@ -21818,16 +21818,16 @@ const structuralData = [
   [
     "Ingush",
     "speak",
-    "",
+    "q'ameal d.uuc ",
     "ERG",
-    "INSTR",
+    "INS",
     "Y",
-    "ERG_INSTR"
+    "ERG_INS"
   ],
   [
     "Ingush",
     "give_birth",
-    "",
+    "d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21836,16 +21836,16 @@ const structuralData = [
   [
     "Ingush",
     "drop",
-    "",
-    "ERG",
-    "NOM",
-    "TR",
-    "TR"
+    "karara ieqq",
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
     "Ingush",
     "govern",
-    "",
+    "kyljgal d.u",
     "ERG",
     "DAT",
     "Y",
@@ -21854,7 +21854,7 @@ const structuralData = [
   [
     "Ingush",
     "miss",
-    "",
+    "sagot-d.u",
     "ERG",
     "DAT",
     "Y",
@@ -21863,7 +21863,7 @@ const structuralData = [
   [
     "Ingush",
     "follow",
-    "",
+    "t'ehwa-d.oal",
     "*",
     "*",
     "*",
@@ -21872,7 +21872,7 @@ const structuralData = [
   [
     "Ingush",
     "dismount",
-    "",
+    "wa-d.oal",
     "*",
     "*",
     "*",
@@ -21881,7 +21881,7 @@ const structuralData = [
   [
     "Ingush",
     "listen",
-    "",
+    "la-duogh",
     "ERG",
     "ALL",
     "Y",
@@ -21890,7 +21890,7 @@ const structuralData = [
   [
     "Ingush",
     "obey",
-    "",
+    "la-duugh",
     "ERG",
     "ALL",
     "Y",
@@ -21899,7 +21899,7 @@ const structuralData = [
   [
     "Ingush",
     "hear",
-    "",
+    "xoz",
     "DAT",
     "NOM",
     "X",
@@ -21908,7 +21908,7 @@ const structuralData = [
   [
     "Ingush",
     "mix",
-    "",
+    "vwaashagh-'uu",
     "*",
     "*",
     "*",
@@ -21917,7 +21917,7 @@ const structuralData = [
   [
     "Ingush",
     "look",
-    "",
+    "hwiezh",
     "NOM",
     "ALL",
     "Y",
@@ -21926,7 +21926,7 @@ const structuralData = [
   [
     "Ingush",
     "take_off",
-    "",
+    "wa-d.oaqq",
     "ERG",
     "NOM",
     "TR",
@@ -21935,7 +21935,7 @@ const structuralData = [
   [
     "Ingush",
     "dream#sleeping#",
-    "",
+    "gha gu",
     "DAT",
     "NOM",
     "X",
@@ -21944,7 +21944,7 @@ const structuralData = [
   [
     "Ingush",
     "agree",
-    "",
+    "reaza xul",
     "*",
     "*",
     "*",
@@ -21953,7 +21953,7 @@ const structuralData = [
   [
     "Ingush",
     "have_a_quarrel",
-    "",
+    "iegh",
     "*",
     "*",
     "*",
@@ -21962,7 +21962,7 @@ const structuralData = [
   [
     "Ingush",
     "cost",
-    "",
+    "d.oaqq",
     "LAT",
     "NOM",
     "X",
@@ -21971,7 +21971,7 @@ const structuralData = [
   [
     "Ingush",
     "shoot_at",
-    "",
+    "top tuox",
     "ERG",
     "DAT",
     "Y",
@@ -21980,7 +21980,7 @@ const structuralData = [
   [
     "Ingush",
     "pour",
-    "",
+    "chy-d.iexk",
     "ERG",
     "NOM",
     "TR",
@@ -21989,7 +21989,7 @@ const structuralData = [
   [
     "Ingush",
     "lose",
-    "",
+    "d.oa-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -21998,16 +21998,16 @@ const structuralData = [
   [
     "Ingush",
     "sink",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "dwa-daxar",
+    "NOM",
+    "chy",
+    "Y",
+    "NOM_chy"
   ],
   [
     "Ingush",
     "kill",
-    "",
+    "d.uu",
     "ERG",
     "NOM",
     "TR",
@@ -22016,7 +22016,7 @@ const structuralData = [
   [
     "Ingush",
     "hit",
-    "",
+    "tuox",
     "ERG",
     "DAT",
     "Y",
@@ -22025,7 +22025,7 @@ const structuralData = [
   [
     "Ingush",
     "kiss",
-    "",
+    "bart boaqq  ",
     "ERG",
     "DAT",
     "Y",
@@ -22034,7 +22034,7 @@ const structuralData = [
   [
     "Ingush",
     "read",
-    "",
+    "d.iesh",
     "ERG",
     "NOM",
     "TR",
@@ -22043,7 +22043,7 @@ const structuralData = [
   [
     "Ingush",
     "move#bodypart#",
-    "",
+    "hwie-d.u",
     "ERG",
     "NOM",
     "TR",
@@ -22052,7 +22052,7 @@ const structuralData = [
   [
     "Ingush",
     "respect",
-    "",
+    "lierham bu ",
     "*",
     "*",
     "*",
@@ -22061,7 +22061,7 @@ const structuralData = [
   [
     "Ingush",
     "be_squeamish",
-    "",
+    "degaza xet",
     "DAT",
     "NOM",
     "X",
@@ -22070,7 +22070,7 @@ const structuralData = [
   [
     "Ingush",
     "be_content",
-    "",
+    "reaza d.y",
     "NOM",
     "DAT",
     "Y",
@@ -22079,7 +22079,7 @@ const structuralData = [
   [
     "Ingush",
     "fall_in_love",
-    "",
+    "duqa d.ieza",
     "DAT",
     "NOM",
     "X",
@@ -22088,7 +22088,7 @@ const structuralData = [
   [
     "Ingush",
     "trust",
-    "",
+    "tiesh",
     "NOM",
     "LAT",
     "Y",
@@ -22097,7 +22097,7 @@ const structuralData = [
   [
     "Ingush",
     "sympathise",
-    "",
+    "q'axiet",
     "DAT",
     "LAT",
     "XY",
@@ -22106,7 +22106,7 @@ const structuralData = [
   [
     "Ingush",
     "envy",
-    "",
+    "hwag",
     "NOM",
     "LAT",
     "Y",
@@ -22115,7 +22115,7 @@ const structuralData = [
   [
     "Ingush",
     "be_angry",
-    "",
+    "ieghaz ux",
     "NOM",
     "DAT",
     "Y",
@@ -22124,7 +22124,7 @@ const structuralData = [
   [
     "Ingush",
     "be_surprised",
-    "",
+    "cec-d.oal",
     "NOM",
     "LAT",
     "Y",
@@ -22133,7 +22133,7 @@ const structuralData = [
   [
     "Ingush",
     "love#tea#",
-    "",
+    "d.iez",
     "DAT",
     "NOM",
     "X",
@@ -22142,7 +22142,7 @@ const structuralData = [
   [
     "Ingush",
     "enjoy",
-    "",
+    "*",
     "*",
     "*",
     "*",
@@ -22151,7 +22151,7 @@ const structuralData = [
   [
     "Ingush",
     "want",
-    "",
+    "d.ieza",
     "DAT",
     "NOM",
     "X",
@@ -22160,7 +22160,7 @@ const structuralData = [
   [
     "Ingush",
     "have_a_grudge",
-    "",
+    "reaza d.aac",
     "NOM",
     "DAT",
     "Y",
@@ -22169,7 +22169,7 @@ const structuralData = [
   [
     "Ingush",
     "take_offence",
-    "",
+    "degabu'am bu",
     "ERG",
     "DAT",
     "Y",
@@ -22178,7 +22178,7 @@ const structuralData = [
   [
     "Ingush",
     "upset",
-    "",
+    "cytoam bu",
     "ERG",
     "DAT",
     "Y",
@@ -22187,7 +22187,7 @@ const structuralData = [
   [
     "Ingush",
     "marvel",
-    "",
+    "cec+d.oal",
     "NOM",
     "LAT",
     "Y",
@@ -22196,7 +22196,7 @@ const structuralData = [
   [
     "Ingush",
     "despise",
-    "",
+    "goama d.y",
     "DAT",
     "NOM",
     "X",
@@ -22205,7 +22205,7 @@ const structuralData = [
   [
     "Ingush",
     "get_upset",
-    "",
+    "cytoam xul",
     "DAT",
     "LAT",
     "XY",
@@ -22214,7 +22214,7 @@ const structuralData = [
   [
     "Ingush",
     "get_irritated",
-    "",
+    "ieghaz ux",
     "NOM",
     "DAT",
     "Y",
@@ -22223,7 +22223,7 @@ const structuralData = [
   [
     "Ingush",
     "be_fond",
-    "",
+    "baq'ahwara biezamie sag zet",
     "DAT",
     "NOM",
     "X",
@@ -22232,11 +22232,11 @@ const structuralData = [
   [
     "Ingush",
     "be_shy",
-    "",
-    "*",
-    "*",
-    "*",
-    ""
+    "ehw xiet",
+    "DAT",
+    "LAT",
+    "XY",
+    "DAT_LAT"
   ],
   [
     "Japanese",
@@ -22252,9 +22252,9 @@ const structuralData = [
     "have#illness#",
     "",
     "TOP",
-    "ZERO",
+    "BARE",
     "XY",
-    "TOP_ZERO"
+    "TOP_BARE"
   ],
   [
     "Japanese",
@@ -22720,9 +22720,9 @@ const structuralData = [
     "fill#intr#",
     "",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Japanese",
@@ -22954,9 +22954,9 @@ const structuralData = [
     "cut_oneself",
     "",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Japanese",
@@ -23134,9 +23134,9 @@ const structuralData = [
     "cost",
     "",
     "TOP",
-    "ZERO",
+    "BARE",
     "XY",
-    "TOP_ZERO"
+    "TOP_BARE"
   ],
   [
     "Japanese",
@@ -23953,9 +23953,9 @@ const structuralData = [
     "remain",
     "riino",
     "OBJ",
-    "OBJ",
-    "X",
-    "OBJ_OBJ"
+    "BARE",
+    "Y",
+    "OBJ_BARE"
   ],
   [
     "Joola-Fonyi",
@@ -24997,9 +24997,9 @@ const structuralData = [
     "wave",
     "dajl",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Kalmyk",
@@ -25060,9 +25060,9 @@ const structuralData = [
     "fill#intr#",
     "düür",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Kalmyk",
@@ -25294,9 +25294,9 @@ const structuralData = [
     "cut_oneself",
     "kerč-gd",
     "NOM",
-    "INSTR",
+    "INS",
     "Y",
-    "NOM_INSTR"
+    "NOM_INS"
   ],
   [
     "Kalmyk",
@@ -27374,7 +27374,7 @@ const structuralData = [
     "",
     "ACC",
     "parACC",
-    "XY",
+    "Y",
     "ACC_parACC"
   ],
   [
@@ -30432,10 +30432,10 @@ const structuralData = [
     "Loma",
     "feel_pain",
     "",
-    "POSS",
-    "HEAD",
-    "X",
-    "POSS_HEAD"
+    "*",
+    "*",
+    "*",
+    ""
   ],
   [
     "Loma",
@@ -39074,7 +39074,7 @@ const structuralData = [
     "",
     "ACC",
     "NOM(NO.AGR)",
-    "XY",
+    "Y",
     "ACC_NOM(NO.AGR)"
   ],
   [

@@ -143,7 +143,7 @@
   <p>Arkadiev, Peter &amp; Irina Bagirokova. 2023. Bivalent patterns in Adyghe (West Circassian). 
   In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
   (Data first published on July 25, 2023; 
-  last revised on November 19, 2023.) (Available online at <a href="https://bivaltyp.info/">https://bivaltyp.info</a>, 
+  last revised on March 25, 2026.) (Available online at <a href="https://bivaltyp.info/">https://bivaltyp.info</a>, 
   Accessed on <span id="today"></span>.)</p>
 </blockquote>
 
@@ -240,6 +240,8 @@
 
 </code></pre>
 
+<p>The coding label “EXT(POSS)” is used for NPs that are morphologically marked as adnominal possessors—flagged by the oblique case and indexed on the expected head noun, which functions as the nominal component of a complex predicate. However, these NPs display clause-level behavior in terms of word order, typically occurring in a fronted position, which is not possible for NP-internal possessors.</p>
+
 <h3>Case system</h3>
 
 <p>Adyghe  has case-marking on nominals, excluding 1st and 2nd person pronouns, most proper names as well as non-specific NPs. This is why most examples involve two definite common nouns like ‘the girl’ or ‘the book’. The case system consists of two grammatical cases, the absolutive with the suffix <em>-r</em> and the oblique with the suffix <em>-m</em> (<em>-š’</em> with demonstratives, <em>-me</em> when cumulative with plural). The patterns of case-marking and verbal indexing closely match each other: the oblique case occurs on the 3rd person arguments indexed by the non-absolutive series of person-number prefixes, i.e. on transitive As, see example (2), and indirect objects, see example (3), while the absolutive case appears on 3rd person arguments indexed in the verb by the absolutive indexes, i.e. on S and O, see examples (3) and (2), respectively. Given that 3rd person absolutive indexes are null, the nominals overtly marked by the absolutive case in fact are never overtly cross-referenced in the verb, apart from the optional plural suffix <em>-x(e)</em>, as in example (4).</p>
@@ -295,18 +297,18 @@
                 <option value="ERG_BEN">ERG_BEN</option>
                 <option value="ERG_COM.DAT">ERG_COM.DAT</option>
                 <option value="ERG_DAT">ERG_DAT</option>
-                <option value="ERG_INSTR.CASE">ERG_INSTR.CASE</option>
+                <option value="ERG_EXT(POSS)">ERG_EXT(POSS)</option>
+                <option value="ERG_INS(CASE)">ERG_INS(CASE)</option>
                 <option value="ERG_LOC">ERG_LOC</option>
                 <option value="ERG_LOC.TOP">ERG_LOC.TOP</option>
-                <option value="ERG_NominalPossessor">ERG_NominalPossessor</option>
+                <option value="EXT(POSS)_ABS">EXT(POSS)_ABS</option>
+                <option value="EXT(POSS)_ERG">EXT(POSS)_ERG</option>
                 <option value="INAL.POSS_ABS">INAL.POSS_ABS</option>
                 <option value="LOC.CONT_ABS">LOC.CONT_ABS</option>
                 <option value="LOC.HAND.LOC.TIP_ABS">LOC.HAND.LOC.TIP_ABS</option>
                 <option value="LOC.HEART.PRV.INSTR_ABS">LOC.HEART.PRV.INSTR_ABS</option>
                 <option value="LOC.TOP_ABS">LOC.TOP_ABS</option>
                 <option value="LOC_ABS">LOC_ABS</option>
-                <option value="NominalPossessor_ABS">NominalPossessor_ABS</option>
-                <option value="NominalPossessor_ERG">NominalPossessor_ERG</option>
                 <option value="POSS_ABS">POSS_ABS</option>
                 <option value="TR">TR</option>
             </select>
@@ -3098,7 +3100,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ERG_INSTR.CASE" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ERG_INS(CASE)" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>47. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/wave.html">wave</a>
@@ -3110,14 +3112,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ERG_INSTR.CASE</span>
+                            <span>ERG_INS(CASE)</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ERG</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: INSTR.CASE</td>
+                        <td class="predicate-info-table">Y: INS(CASE)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -3779,7 +3781,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NominalPossessor_ABS" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="EXT(POSS)_ABS" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>58. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/like.html">like</a>
@@ -3791,11 +3793,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NominalPossessor_ABS</span>
+                            <span>EXT(POSS)_ABS</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NominalPossessor</td>
+                        <td class="predicate-info-table">X: EXT(POSS)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ABS</td>
@@ -5185,7 +5187,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ERG_INSTR.CASE" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ERG_INS(CASE)" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>80. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/cut_oneself.html">cut oneself</a>
@@ -5197,14 +5199,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ERG_INSTR.CASE</span>
+                            <span>ERG_INS(CASE)</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ERG</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: INSTR.CASE</td>
+                        <td class="predicate-info-table">Y: INS(CASE)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -7418,7 +7420,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NominalPossessor_ERG" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="EXT(POSS)_ERG" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>115. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/sympathise.html">sympathise</a>
@@ -7430,11 +7432,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NominalPossessor_ERG</span>
+                            <span>EXT(POSS)_ERG</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NominalPossessor</td>
+                        <td class="predicate-info-table">X: EXT(POSS)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ERG</td>
@@ -7961,7 +7963,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="ERG_NominalPossessor" data-locus="Y" style="margin-bottom: 5px">
+    <div data-valpal="ERG_EXT(POSS)" data-locus="Y" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>124. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/upset.html">upset</a>
@@ -7973,14 +7975,14 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>ERG_NominalPossessor</span>
+                            <span>ERG_EXT(POSS)</span>
                         </td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">X: ERG</td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">Y: NominalPossessor</td>
+                        <td class="predicate-info-table">Y: EXT(POSS)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Locus: Y</td>
@@ -8095,7 +8097,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NominalPossessor_ABS" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="EXT(POSS)_ABS" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>126. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/despise.html">despise</a>
@@ -8107,11 +8109,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NominalPossessor_ABS</span>
+                            <span>EXT(POSS)_ABS</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NominalPossessor</td>
+                        <td class="predicate-info-table">X: EXT(POSS)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ABS</td>
@@ -8237,7 +8239,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NominalPossessor_ERG" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="EXT(POSS)_ERG" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>128. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/get_irritated.html">get irritated</a>
@@ -8249,11 +8251,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NominalPossessor_ERG</span>
+                            <span>EXT(POSS)_ERG</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NominalPossessor</td>
+                        <td class="predicate-info-table">X: EXT(POSS)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ERG</td>
@@ -8309,7 +8311,7 @@
             </div>
         </div>
     </div>
-    <div data-valpal="NominalPossessor_ABS" data-locus="X" style="margin-bottom: 5px">
+    <div data-valpal="EXT(POSS)_ABS" data-locus="X" style="margin-bottom: 5px">
         <p class="examples-header">
             <span>129. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/be_fond.html">be fond</a>
@@ -8321,11 +8323,11 @@
                     <tr>
                         <td class="predicate-info-table">
                             <span class="b">Valency pattern:</span>
-                            <span>NominalPossessor_ABS</span>
+                            <span>EXT(POSS)_ABS</span>
                         </td>
                     </tr>
                     <tr>
-                        <td class="predicate-info-table">X: NominalPossessor</td>
+                        <td class="predicate-info-table">X: EXT(POSS)</td>
                     </tr>
                     <tr>
                         <td class="predicate-info-table">Y: ABS</td>
