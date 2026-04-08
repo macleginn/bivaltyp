@@ -21,7 +21,7 @@ The data were gathered in {{ data_collection_year }} from R. Sulaibanov and K. S
 
 ### Basic clause structure and the transitive construction
 
-Tsugni Dargwa exhibits ergative-absolutive alignment, feature agreement based on nominal class (gender/number) as well as person agreement, and a free word order. Tsugni Dargwa is a highly agglutinative language both in its nominal and verbal domain, with an extensive inventory of cases, particularly locative cases, totaling over 170 case-like forms.
+Tsugni Dargwa exhibits ergative-absolutive alignment, feature agreement based on nominal class (gender/number) as well as person agreement, and a free word order. Verb indexing is normally triggered by the nominative argument and, in some contexts, by the core ergative NPs (by contrast, non-core ergatives never trigger agreement). Tsugni Dargwa is a highly agglutinative language both in its nominal and verbal domain, with an extensive inventory of cases, particularly locative cases, totaling over 170 case-like forms.
 
 ### Case system
 
