@@ -17,3 +17,7 @@ The data were provided by Assaf Bar-Moshe and annotated by Nikita Kuzin in 2025.
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ART — article; DEF — definite; DU — dual; F — feminine; FS — feminine singular; GEN — genitive; IO — indirect object; IPF — imperfect; IPFV — imperfective; M — masculine; MS — masculine singular; O — object; PF — perfect; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRS — present; PTCP — participle; REL — relative; RPS — reported past; SG — singular.
