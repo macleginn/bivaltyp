@@ -16,3 +16,7 @@ The data were gathered in {{ data_collection_year }} using the Russian version o
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABL — ablative; AOR — aorist; COP — copula; DAT — dative; DEF — definite; IND — indicative; INS — instrumental; NEG — negation; NOM — nominative; PART — participle; PL — plural; PN — person name; PRF — perfect; PRS — present; RES — resultative; SG — singular.
