@@ -74,7 +74,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 3	Guarani_Paraguayan	73	match	X (match) Y	подходить	X (подходить) к Y-у (пояс к платью)		*	*	*								
 3	Guarani_Paraguayan	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)		*	*	*								также ‘позволять’
 3	Guarani_Paraguayan	75	cover	X (cover) Y	покрывать	X (покрывать) Y		*	*	*								несколько глаголов с различными оттенками смысла, ни на один нет примеров
-3	Guarani_Paraguayan	76	remember	X (remember) Y	помнить	X (помнить) Y-а		INACT	rehe	X	INACT_rehe							
+3	Guarani_Paraguayan	76	remember	X (remember) Y	помнить	X (помнить) Y-а		INACT	rehe	Y	INACT_rehe							
 3	Guarani_Paraguayan	77	help	X (help) Y	помочь	X (помогать) Y-у		ACT	pe	Y	ACT_pe							
 3	Guarani_Paraguayan	78	understand	X (understand) Y	понимать	X (понимать) Y		ACT	INACT	TR	TR							чаще в этом значении – kuaa ‘знать’
 3	Guarani_Paraguayan	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		ACT	pe(loc)	Y	ACT_pe(loc)							по-видимому, возможны и другие рамки управления (!)
