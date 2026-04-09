@@ -34,10 +34,14 @@ Verbs are cited in the infinitive form with the suffix -*es*. Stative verb *bu* 
 
 ## Orthography and transcription
 In the first line of examples, the Latin-based Udi writing system is used, which is adopted in Azerbaijan. The main non-trivial correspondences among the Udi letters and the linguistic transcription are: 
-ə /ä/, ə̌ /aˤ/, ě /eˤ/, ǒ /oˤ/, ǔ /uˤ/, ı̌ /iˤ/
-y /j/, c /ǯ/, č /ǯˤ/, j /ž/, ǰ /žˤ/, x /χ/, ğ /ʁ/
+ə /ä/, ə̌ /aˤ/, ě /eˤ/, ǒ /oˤ/, ǔ /uˤ/, ı̌ /iˤ/,
+
+y /j/, c /ǯ/, č /ǯˤ/, j /ž/, ǰ /žˤ/, x /χ/, ğ /ʁ/,
+
 p' /pː/, t' /tː/, k' /kː/, q' /qː/
+
 ç /č/, ç̌ /čˤ/, c' /čː/, č' /čːˤ/
+
 ş /šˤ/, š /šˤ/, ś /c/, s' /cː/
 
 ## Glossing abbreviations
