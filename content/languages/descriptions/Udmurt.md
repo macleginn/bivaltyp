@@ -16,3 +16,7 @@ The data were provided by Ksenia Shagal in 2017 based on her second-language kno
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABE — abessive; ABL — ablative; ACC — accusative; CNG — connegative; COP — copula; DAT — dative; DEM — demonstrative; ELA — elative; GEN — genitive; ILL — illative; INE — inessive; INS — instrumental; NEG — negation; NOM — nominative; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRS — present; PST — past; PTCP — participle; SG — singular; TERM — terminative.
