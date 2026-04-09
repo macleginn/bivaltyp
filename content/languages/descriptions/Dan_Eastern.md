@@ -18,3 +18,7 @@ The data were gathered in 2023 and 2026, mainly from Nestor (Hubert) Gué. The F
 - Macro-area: {{ macroarea }}.
 
 Within the Eastern Dan nouns, there is a subclass of declinable nouns which distinguish six cases, albeit in an irregular way.
+
+## Glossing abbreviations
+
+ABSTR — abstract noun; ART — article; COM — comitative; DIM — diminutive; DUR — durative; EXI — existential; F — feminine; FOC — focus; GER — gerund; IMP — imperative; INF — infinitive; INT — ???; IPFV — imperfective; IZF — izafet; JNT — ???; LOC — locative; M — masculine; NEG — negation; NEUT — neuter; NSBJ — non-subject; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRF — perfect; PRH — prohibitive; PST — past; REFL — reflexive; REL — relative; SBJV — subjunctive; SG — singular; SMLT — simultaneous; SUP — ???.
