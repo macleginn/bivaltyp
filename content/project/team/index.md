@@ -61,6 +61,7 @@ Yana Aquilina: {{ language:Maltese }}
 Timofey Arkhangelskiy: {{ language:Beserman }}  
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
+Varvara Arzt (Diveeva): {{ language:Albanian }}  
 Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Budugh }}, {{ language:Rutul_Myukhrek }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Shin_Borch }}, , {{ language:Tindi }},  {{ language:Tsakhur }}  
 Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
 Gilles Authier, Uzlipat Gasanova, Gasangusen Sulaibanov: {{ language:Dargwa_Kaytag }}  
@@ -84,7 +85,6 @@ Michael Daniel, Majsarat Musaeva: {{ language:Mehweb }}
 Michael Daniel, Anastasia Vasilisina, Stepan Mikhajlov: {{ language:Rutul_Kina }}  
 Michael Daniel, Victor A. Friedman, Shakhmurad Gamzalaev: {{ language:Lak_Quba }}
 Marah Deeb: {{ language:Arabic_South_Levantine_Nazareth }}  
-Varvara Diveeva: {{ language:Albanian }}  
 Sergey Dmitrenko: {{ language:Khmer }}  
 Vladimir Fedorov, Maria Khazhomia: {{ language:Macedonian }}  
 Maksim Fedotov: {{ language:Gban }}  
