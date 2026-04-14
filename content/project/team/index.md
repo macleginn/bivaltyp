@@ -157,6 +157,7 @@ Mayya Shlyakhter: {{ language:Bengali }}
 Natalia Stoynova: {{ language:Ulcha }}  
 Ksenia Studenikina: {{ language:Mari_Western }}  
 Gasangusen Sulaibanov:  {{ language:Dargwa_Kubachi }}, {{ language:Dargwa_Tsugni }}, {{ language:Dargwa_Tsudakhar }}  
+Murad Suleymanov: {{ language:Tat_Cimi }}  
 Nina Sumbatova, Naida Vagizieva:  {{ language:Dargwa_Kadar }}  
 Tuchak, Philipp, Ekaterina Budzinskaya & Irene Gorbunova:  {{ language:Ludic }}  
 Arseniy Vydrin: {{ language:Ossetic }}  
