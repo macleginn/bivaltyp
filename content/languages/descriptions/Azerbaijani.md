@@ -1,6 +1,6 @@
 # {{ language_external }}
 
-Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)), Ayten Babaliyeva and [Murad Suleymanov](https://proclac.cnrs.fr/author/msuleymanov/).
+Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)), Ayten Babaliyeva and [Murad Suleymanov](https://cermi.cnrs.fr/membres/suleymanov-murad/).
 
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
 ![A.B.'s photo]({{ site_url_j }}/images/Babaliyeva.jpg "A.B.'s photo")
