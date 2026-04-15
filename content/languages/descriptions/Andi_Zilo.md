@@ -52,7 +52,7 @@ ABST — abstract noun; ADD — additive; AFF — affective; AN — animate; AOR
 CARD — cardinal; CAUS — causative; COM — comitative; CONT — contessive; COP — copula; 
 DAT — dative; DEM — demonstrative; EL — elative; EMPH — emphatic; ERG — ergative; F — feminine; 
 FCT — factive; GEN — genitive; HAB — habitual; ILLAT — illative; IN — inessive; 
-INAN1, INAN2 — 1st, 2nd inanimate; INCH — inchoative; INST — instrumental; INTER — interessive; 
+INAN1, INAN2 — 1st, 2nd inanimate; INCH — inchoative; INS — instrumental; INTER — interessive; 
 LAT — lative; LL — lower level (for demonstratives); M — masculine; MSD — masdar; NOM — nominative; 
 NPST — non-past; OBL — oblique; PF — perfective; PL — plural; PN — person name; 
 PROG — progressive; PRS — present; PST — past; PTCP — participle; RFL — reflexive; 
