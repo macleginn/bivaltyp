@@ -20,4 +20,4 @@ The data were provided by Assaf Bar-Moshe and annotated by Nikita Kuzin in 2025.
 
 ## Glossing abbreviations
 
-ART — article; DEF — definite; DU — dual; F — feminine; FS — feminine singular; GEN — genitive; IO — indirect object; IPF — imperfect; IPFV — imperfective; M — masculine; MS — masculine singular; O — object; PF — perfect; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRS — present; PTCP — participle; REL — relative; RPS — reported past; SG — singular.
+ART — article; DEF — definite; DU — dual; FS — feminine singular; GEN — genitive; IO — indirect object; IPFV — imperfective; MS — masculine singular; O — object; PFV — perfective; PL — plural; PN — person name; POSS — possessive; PRS — present; PTCP — participle; REL — relative; RPS — reported past; SG — singular.
