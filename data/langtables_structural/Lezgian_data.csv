@@ -63,7 +63,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у		ERG	DAT	Y	ERG_DAT							CV
 20	Lezgian	63	open	X (open) Y	открывать	X (открывать) Y		ERG	ABS	TR	TR							
 20	Lezgian	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а		ABS	SREL	Y	ABS_SREL							NV
-20	Lezgian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		ABS	SREL	Y	ABS_SREL							"CV. Сначала я не считал, видимо, из-за того, что буквально это ""остаться позади"". Но X и Y вполне можно считать зависимыми уровня клаузы."
+20	Lezgian	65	fall_behind	X (fall behind) Y	отстать	X (отставать) от Y-а		ABS	SREL	Y	ABS_SREL							CV. Сначала я не считал, видимо, из-за того, что буквально это "остаться позади". Но X и Y вполне можно считать зависимыми уровня клаузы.
 20	Lezgian	66	plough	X (plough) Y	пахать	X (пахать) Y		ERG	ABS	TR	TR							
 20	Lezgian	67	smell	X (smell) like / of Y	пахнуть	X (пахнуть) Y-ом		*	*	*								У Р.Г. в статье классифицируется как POEL ABS, но ABS это на самом деле позиция существительного запах, а Y кодируется как посессор этого существительного
 20	Lezgian	68	cross	X (cross) Y	пересечь	X (пересекать) Y (улицу) 		ABS	SREL	Y	ABS_SREL							
@@ -78,7 +78,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	77	help	X (help) Y	помочь	X (помогать) Y-у		ERG	DAT	Y	ERG_DAT							
 20	Lezgian	78	understand	X (understand) Y	понимать	X (понимать) Y		*	*	*								У Р.Г. в статье классифицируется как ABS GEN, но Y кодируется на самом деле как посессор имени в составе CV (попасть в понимание чего)
 20	Lezgian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)		ABS	POESS	Y	ABS_POESS							
-20	Lezgian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		ABS	ERG	Y	ABS_ERG							
+20	Lezgian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом		ABS	ERG(NON.CORE)	Y	ABS_ERG(NON.CORE)							
 20	Lezgian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у		ABS	SRESS	Y	ABS_SRESS							
 20	Lezgian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у		ABS	DAT	Y	ABS_DAT							
 20	Lezgian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у		ABS	DAT	Y	ABS_DAT							NV
@@ -91,7 +91,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)		ABS	SREL	Y	ABS_SREL							
 20	Lezgian	91	listen	X (listen) to Y	слушать	X (слушать) Y		ERG	POESS	Y	ERG_POESS							CV
 20	Lezgian	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a		*	*	*								У Р.Г. в статье классифицируется как ABS GEN, но Y кодируется на самом деле как посессор имени в составе CV смотреть на слово кого)
-20	Lezgian	93	hear	X (hear) Y	слышать	X (слышать) Y		*	*	*								"В первой (по крайней мере) версии статьи Р.Г. классифицирует этот предикат как DATABS, что плохо, т.к. в абсолютиве стоит слово ""звук"" (приходит), а звук чего кодируется как приименное зависимое"
+20	Lezgian	93	hear	X (hear) Y	слышать	X (слышать) Y		*	*	*								В первой (по крайней мере) версии статьи Р.Г. классифицирует этот предикат как DATABS, что плохо, т.к. в абсолютиве стоит слово "звук" (приходит), а звук чего кодируется как приименное зависимое
 20	Lezgian	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом		ABS	POESSgalaz	Y	ABS_POESSgalaz							
 20	Lezgian	95	look	X (look) at Y	смотреть	X (смотреть) на Y		ABS	DAT	Y	ABS_DAT							
 20	Lezgian	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)		ERG	ABS	TR	TR							
