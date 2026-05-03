@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 55	Evenki	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	га-мӯ-	NOM	ACC.INDEF	Y	NOM_ACC.INDEF							взять-DESID		
 55	Evenki	49	wash	X (wash) Y	мыть	X (мыть) Y	силки-	NOM	ACC	TR	TR									
 55	Evenki	50	put_on	X (put_on) Y	надевать	X (надевать) Y	тэт-	NOM	ACC	TR	TR									
-55	Evenki	51	be_called	X (be_called) Y	называться	X (называться) Y	гэрби-	POSS	NOM	X	POSS_NOM							NV. Не уверен, что так правильно анализировать. Структура буквально: этот предмет "компас" имя-P.3SG		
+55	Evenki	51	be_called	X (be_called) Y	называться	X (называться) Y	гэрби-	POSS	NOM(NO.AGR)	XY	POSS_NOM(NO.AGR)							NV. Не уверен, что так правильно анализировать. Структура буквально: этот предмет "компас" имя-P.3SG		
 55	Evenki	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а	*	*	*	*								Было предложено два глагола (идака- и эниктэгӣ-), но я решил (вслед за Надеждй Яковлевной) их не засчитывать, так как они оба предполагают битье, хотя второй (эниктэгӣ-) и имеет в словаре перевод "наказать"		
 55	Evenki	53	attack	X (attack) Y	напасть	X (нападать) на Y-а	упчу-	NOM	DIR	Y	NOM_DIR									
 55	Evenki	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом	дялурбу-	NOM	INS	Y	NOM_INS									
