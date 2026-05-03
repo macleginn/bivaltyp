@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 20	Lezgian	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		ERG	SBEL	Y	ERG_SBEL							
 20	Lezgian	49	wash	X (wash) Y	мыть	X (мыть) Y		ERG	ABS	TR	TR							
 20	Lezgian	50	put_on	X (put_on) Y	надевать	X (надевать) Y		ERG	ABS	TR	TR							
-20	Lezgian	51	be_called	X (be_called) Y	называться	X (называться) Y		DAT	ABS	X	DAT_ABS							
+20	Lezgian	51	be_called	X (be_called) Y	называться	X (называться) Y		DAT	ABS(NO.AGR)	XY	DAT_ABS(NO.AGR)							
 20	Lezgian	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		ERG	ABS	TR	TR							Почему-то в первой версии у меня не было этого глагола. Вроде обычный переходный глагол
 20	Lezgian	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		ERG	SRESS	Y	ERG_SRESS							
 20	Lezgian	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		ABS	ADESS	Y	ABS_ADESS							
