@@ -49,7 +49,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 11	Bagvalal	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е		*	*	*								
 11	Bagvalal	49	wash	X (wash) Y	мыть	X (мыть) Y		*	*	*								
 11	Bagvalal	50	put_on	X (put_on) Y	надевать	X (надевать) Y		ERG	NOM	TR	TR							
-11	Bagvalal	51	be_called	X (be_called) Y	называться	X (называться) Y		SUPLAT	NOM	X	SUPLAT_NOM							
+11	Bagvalal	51	be_called	X (be_called) Y	называться	X (называться) Y		SUPLAT	NOM(NO.AGR)	XY	SUPLAT_NOM(NO.AGR)							
 11	Bagvalal	52	punish	X (punish) Y	наказывать	X (наказывать) Y-а		*	*	*								
 11	Bagvalal	53	attack	X (attack) Y	напасть	X (нападать) на Y-а		*	*	*								
 11	Bagvalal	54	fill#intr#	X (fill) with Y	наполняться	X (наполняться) Y-ом		NOM 	GEN	Y	NOM_GEN							
