@@ -17,3 +17,7 @@ The data were gathered in {{ data_collection_year }} from Dorothea Tases and Ros
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+APPL – applicative; AUX – auxiliary; C – common gender; CONTR – contrastive; COP – copula; DECL – declarative; DIST – distal; EXCL – exclusive; F – feminine; IPFV – imperfective; M – masculine; OBL – oblique; PASS – passive; PFV – perfective; PL – plural; PN – person name; POSS – possessive; PROG – progressive; PROX – proximal; PST – past; QUOT – quotative; REFL – reflexive; RPST – remote past; SG – singular.
