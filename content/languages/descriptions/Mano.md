@@ -16,3 +16,7 @@ The data were gathered in 2023. The translations were generously provided by Pé
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/), with corrections by Valentin Vydrin). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABSTR – abstract; COP – copula; CSTR – construct state; DEM – demonstrative; EXI – existential; FR – French borrowing; INDEF – indefinite; INF – infinitive; IP – ?? 98,. 99; IPFV – imperfective; LOC – locative; NEG – negation; NMLZ – nominalizer; PL – plural; PN – person name; POSS – possessive; PREV – ?? 95; PRF – perfect; PROX – proximal; PST – past; PSTP – postposition; RECP – reciprocal; REFL – reflexive; SG – singular; VIS – visible.
