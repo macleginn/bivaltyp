@@ -107,7 +107,7 @@ Mikhail Knyazev: {{ language:Dutch }}
 Elena Kolpachkova: {{ language:Chinese_Mandarin }}  
 Daria Konior: {{ language:Romanian }}  
 Maria Konoshenko: {{ language:Kpelle_Guinean }}  
-Yukari Konuma: {{ language:Japanese }}  
+Yukari Konuma, Artemii Kuznetsov: {{ language:Japanese }}  
 Elena Kordi: {{ language:French }}  
 Richard Kowalik, Ksenia Shagal: {{ language:Saami_South }}  
 Kirill Kozhanov: {{ language:Romani_Kalderash }}  
