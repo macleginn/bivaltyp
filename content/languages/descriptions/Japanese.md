@@ -1,6 +1,8 @@
 # {{ language_external }}
 Contributed by Yukari Konuma and [Artemii Kuznetsov](https://www.ames.ox.ac.uk/people/artemii-kuznetsov)
 
+![A.K.'s photo]({{ site_url_j }}/images/Kuznetsov.JPG "A.K.'s photo")
+
 The Japanese data were initially provided and analyzed by Yukari Konuma in her capacity as a native speaker in 2011. The Russian version of the questionnaire was used at this stage. In 2026, the dataset was significantly reannotated based on Artemii Kuznetsov’s input, including corpus evidence, elicitation from native speakers, etc. The English version of the questionnaire was used at this stage.
 
 ## How to cite
