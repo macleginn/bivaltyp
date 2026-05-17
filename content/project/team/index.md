@@ -62,7 +62,7 @@ Timofey Arkhangelskiy: {{ language:Beserman }}
 Peter Arkadiev: {{ language:Abaza }}  
 Peter Arkadiev, Irina Bagirokova: {{ language:Adyghe_West_Circassian }}  
 Varvara Arzt (Diveeva): {{ language:Albanian }}  
-Gilles Authier: {{ language:Kryz_Alik }}, {{ language:Avar }}, {{ language:Budugh }}, {{ language:Rutul_Myukhrek }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Shin_Borch }}, , {{ language:Tindi }},  {{ language:Tsakhur }}  
+Gilles Authier: {{ language:Avar }}, {{ language:Budugh }}, {{ language:Gigatli }}, {{ language:Kryz_Alik }}, {{ language:Rutul_Myukhrek }}, {{ language:Rutul_Shinaz }}, {{ language:Rutul_Shin_Borch }}, {{ language:Tindi }},  {{ language:Tsakhur }}  
 Gilles Authier, Ayten Babaliyeva, Murad Suleymanov: {{ language:Azerbaijani }}  
 Gilles Authier, Uzlipat Gasanova, Gasangusen Sulaibanov: {{ language:Dargwa_Kaytag }}  
 Gilles Authier, Mariza Ibragimova: {{ language:Rutul_Mukhad }}  
