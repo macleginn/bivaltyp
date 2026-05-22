@@ -34,15 +34,16 @@ Verbs are cited in the infinitive form with the suffix -*es*. Stative verb *bu* 
 
 ## Orthography and transcription
 In the first line of examples, the Latin-based Udi writing system is used, which is adopted in Azerbaijan. The main non-trivial correspondences among the Udi letters and the linguistic transcription are: 
+
 ə /ä/, ə̌ /aˤ/, ě /eˤ/, ǒ /oˤ/, ǔ /uˤ/, ı̌ /iˤ/,
 
 y /j/, c /ǯ/, č /ǯˤ/, j /ž/, ǰ /žˤ/, x /χ/, ğ /ʁ/,
 
-p' /pː/, t' /tː/, k' /kː/, q' /qː/
+p' /pː/, t' /tː/, k' /kː/, q' /qː/,
 
-ç /č/, ç̌ /čˤ/, c' /čː/, č' /čːˤ/
+ç /č/, ç̌ /čˤ/, c' /čː/, č' /čːˤ/,
 
-ş /šˤ/, š /šˤ/, ś /c/, s' /cː/
+ş /šˤ/, š /šˤ/, ś /c/, s' /cː/.
 
 ## Glossing abbreviations
 3SG — third person singular; 3PL — third person plulral; ABL — ablative; ABS — absolutive; AD — adessive; AG — agent noun; AOR — aorist; BEN — benefactive; CAR — caritive; CVB — converb; DAT — dative; DEM — demonstrative; ERG — ergative; GEN — genitive; INF — infinitive; LV — light verb; MSD — masdar (verbal noun); NEG — negation; OBL — oblique; PERF — perfect; PF — perfective; PL — plural; PN — person name; PRS — present; SBST — substantivizer; SG — singular; ST — verb stem (part of stem, separated by an endoclitic); SUPER — superessive.
