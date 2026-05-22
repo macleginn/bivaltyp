@@ -3,7 +3,7 @@
 Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academia.edu profile](https://ephe.academia.edu/GillesAuthier)) 
 
 ![G.A.'s photo]({{ site_url_j }}/images/Authier.jpg "G.A.'s photo")
-![G.M.'s photo]({{ site_url_j }}/images/Magomedov.jpg "G.M.'s photo")
+![G.M.'s photo]({{ site_url_j }}/images/Magomedov_Gusen.jpg "G.M.'s photo")
 
 The data were collected in 2024 using the Russian version of the questionnaire. The data have been generously provided by Gusen Magomedov (see the second picture above).
 
