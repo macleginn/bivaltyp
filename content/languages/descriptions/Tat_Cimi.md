@@ -2,7 +2,7 @@
 
 Contributed by [Murad Suleymanov](https://cermi.cnrs.fr/membres/suleymanov-murad/).
 
-The data were collected in 2024 using the Ayerbaijani version of the questionnaire. 
+İlkin Məmmədsalah generously provided the data as a native speaker in 2024. The Azerbaijani version of the questionnaire was used for elicitation.
 
 ## How to cite
 
