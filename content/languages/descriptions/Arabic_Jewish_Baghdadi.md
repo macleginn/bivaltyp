@@ -24,7 +24,7 @@ The data were provided by Assaf Bar-Moshe and annotated by Nikita Kuzin in 2025.
 
 Subjects (A- and S-arguments), whether nominal or pronominal, are indexed on the verb for person, number, and gender. In the basic transitive construction (TR), if the second argument (Y) is definite, it is flagged with the *l-* marker. Additionally, it is indexed on the preceding predicate with a suffix that agrees with the number and gender of the object, e.g. #33 *Abrahām yǝˁġǝf-a l-Maryam*, lit. ‘Abraham knows-her l-Maryam’. If it is indefinite, it is neither indexed nor flagged.
 
-Outside of the TR valency pattern, the double marking with the pronominal suffix and the *l-* appears also with definite indirect objects (#31), as well external possessors (#2) and possessors in the genitive constructions (#1). The IO status is, however, distinguished from the DO by an additional *l-* suffix inserted before the object index, compare #17 and #19.
+Outside of the TR valency pattern, the double marking with the pronominal suffix and the *l-* appears also with definite indirect objects (#31), as well as external possessors (#2) and possessors in the genitive constructions (#1). The IO status is, however, distinguished from the DO by an additional *l-* suffix inserted before the object index, compare #17 and #19.
 
 Non-core arguments are introduced by various prepositions.
 
