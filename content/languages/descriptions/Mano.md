@@ -29,8 +29,6 @@ Mano is a tonal language with three basic tones, low, mid and high. The basic wo
 
 There is no morphological case on nouns.
 
-### Case system
-
 ## Verb lemmas
 
 Lemmas are shown in the form of bare stems.
