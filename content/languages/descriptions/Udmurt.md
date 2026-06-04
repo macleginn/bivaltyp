@@ -38,11 +38,11 @@ Case marking displays the nominative-accusative alignment. In the basic transiti
 
 Verbal predicates agree with subjects in person and number. Non-core arguments are typically flagged by oblique cases or by postpositions, which combine with unmarked nouns. For an overview of the Udmurt grammar, see Edygarova (2022).
 
-Edygarova, Svetlana. 2022. Udmurt. In Marianne Bakró-Nagy, Johanna Laakso, and Elena Skribnik (eds.), The Oxford guide to the Uralic languages, 507–522. Oxford: Oxford University Press. https://doi.org/10.1093/oso/9780198767664.003.0027
+> Edygarova, Svetlana. 2022. Udmurt. In Marianne Bakró-Nagy, Johanna Laakso, and Elena Skribnik (eds.), The Oxford guide to the Uralic languages, 507–522. Oxford: Oxford University Press. https://doi.org/10.1093/oso/9780198767664.003.0027
 
 ### Case system
 
-> Standard Udmurt has fifteen cases: nominative, accusative, genitive, ablative, dative, abessive, adverbial, instrumental, inessive, illative, elative, egressive, prolative, terminative, and approximative.
+Standard Udmurt has fifteen cases: nominative, accusative, genitive, ablative, dative, abessive, adverbial, instrumental, inessive, illative, elative, egressive, prolative, terminative, and approximative.
 
 ## Verb lemmas
 Verbs are cited in their infinitive form. 
