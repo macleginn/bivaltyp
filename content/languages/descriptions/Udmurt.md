@@ -42,7 +42,7 @@ Edygarova, Svetlana. 2022. Udmurt. In Marianne Bakró-Nagy, Johanna Laakso, and 
 
 ### Case system
 
-Standard Udmurt has fifteen cases: nominative, accusative, genitive, ablative, dative, abessive, adverbial, instrumental, inessive, illative, elative, egressive, prolative, terminative, and approximative.
+> Standard Udmurt has fifteen cases: nominative, accusative, genitive, ablative, dative, abessive, adverbial, instrumental, inessive, illative, elative, egressive, prolative, terminative, and approximative.
 
 ## Verb lemmas
 Verbs are cited in their infinitive form. 
