@@ -22,4 +22,6 @@ Further details can be found in Nekrasova & Sergeeva (2018).
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+## Glossing abbreviations
 
+ABE — abessive; ABL — ablative; ACC — accusative; COM — comitative; COMP — comparative; DAT — dative; EGR — egressive; ELA — elative; GEN — genitive; ILL — illative; INE — inessive; INS — instrumental; NEG — negation; P — possessive; PC — participle; PL — plural; PN — person name; PRET — preterite; PRS — present; SG — singular; TERM — terminative.
