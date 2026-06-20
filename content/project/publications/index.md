@@ -4,10 +4,7 @@
 Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
 
 ### Articles and book chapters
-Shagal, Ksenia & Alena Blinova. 2025. [Bivalent verb classes in Skolt Saami: A pilot study](https://bivaltyp.info/docs/Shagal_Blinova_2025_Bivalent.pdf). In: Rogier Blokland, Michael Rieẞler  & Torbjörn Söder (eds), *Saami Linguistics in Uppsala. The SAALS 4 Symposium*. Uppsala: Uppsala Universitet. 181-206.
-
-Shagal, Ksenia & Alena Blinova (accepted). Bivalent verb classes in Skolt Saami: A pilot study. In: Rogier Blokland, Michael Rießler & Torbjörn Söder (eds), Saami Linguistics in Uppsala. The 2019 SAALS 4 Symposium. Studia Uralica Upsaliensia, volume 42. Uppsala: Uppsala University.
-
+Shagal, Ksenia & Alena Blinova. 2025. [Bivalent verb classes in Skolt Saami: A pilot study](https://bivaltyp.info/docs/Shagal_Blinova_2025_Bivalent.pdf). In: Rogier Blokland, Michael Rieẞler  & Torbjörn Söder (eds), *Saami Linguistics in Uppsala. The SAALS 4 Symposium*. (= Studia Uralica Upsaliensia, volume 42). Uppsala: Uppsala Universitet. 181-206.
 
 Kozhanov, Kirill & Sergey Say. 2025. [Variation in valency patterns across Romani dialects is primarily shaped by contact languages](https://doi.org/10.1075/sl.23067.koz). *Studies in language*. ([Prefinal proof as of 14.02.2025](https://bivaltyp.info/docs/Kozhanov_Say_2025_Variation_prefinal_proof.pdf))
 
