@@ -6,11 +6,12 @@ Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostru
 ### Articles and book chapters
 Shagal, Ksenia & Alena Blinova. 2025. [Bivalent verb classes in Skolt Saami: A pilot study](https://bivaltyp.info/docs/Shagal_Blinova_2025_Bivalent.pdf). In: Rogier Blokland, Michael Rieẞler  & Torbjörn Söder (eds), *Saami Linguistics in Uppsala. The SAALS 4 Symposium*. Uppsala: Uppsala Universitet. 181-206.
 
+Shagal, Ksenia & Alena Blinova (accepted). Bivalent verb classes in Skolt Saami: A pilot study. In: Rogier Blokland, Michael Rießler & Torbjörn Söder (eds), Saami Linguistics in Uppsala. The 2019 SAALS 4 Symposium. Studia Uralica Upsaliensia, volume 42. Uppsala: Uppsala University.
+
+
 Kozhanov, Kirill & Sergey Say. 2025. [Variation in valency patterns across Romani dialects is primarily shaped by contact languages](https://doi.org/10.1075/sl.23067.koz). *Studies in language*. ([Prefinal proof as of 14.02.2025](https://bivaltyp.info/docs/Kozhanov_Say_2025_Variation_prefinal_proof.pdf))
 
 Alfimova, Daria. 2024. [Object marking in Western Eurasia](https://bivaltyp.info/docs/Alfimova_2024_Object.pdf). The Circum-Baltic area dissolves into the broader areal background. *Journal of language contact* 17, 281-314.
-
-Shagal, Ksenia & Alena Blinova (accepted). Bivalent verb classes in Skolt Saami: A pilot study. In: Rogier Blokland, Michael Rießler & Torbjörn Söder (eds), Saami Linguistics in Uppsala. The 2019 SAALS 4 Symposium. Studia Uralica Upsaliensia, volume 42. Uppsala: Uppsala University.
 
 Rostovtsev-Popiel, Alexander A. 2024. [Odnorodnost, raznorodnost i pereosmyslenie: pervye zamečania po obrabotke kartvel’skogo materiala v baze BivalTyp](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Odnrodnost.pdf) [Homogeneity, Heterogeneity, and Reanalysis: First Remarks on the Processing of Kartvelian Data for the BivalTyp Database]. Izvestija Rossijskoj akademii nauk. Serija literatury i jazyka [Bulletin of the Russian Academy of Sciences: Studies in Literature and Language]. Vol. 83 (2), 64–71. (In Russian).
 
