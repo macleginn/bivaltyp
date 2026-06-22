@@ -11,9 +11,13 @@ You can browse BivalTyp by [predicate]{{ predicates }} (e.g., in case you are in
 In order to properly interpret the tags used in the database, go to {{ how to read the data }}.
 
 ## How to cite BivalTyp
-To cite BivalTyp as a whole
+If you use data from the database, please cite the database itself as follows:
 
 > Say, Sergey (ed.). 2020-. BivalTyp: Typological database of bivalent verbs and their encoding frames. (Available online at {{ site_url }}, Accessed on {{ today }}.)
+
+If you discuss the database, its design, methodology, or data collection principles, please cite the release paper:
+
+
 
 To cite the data from an individual language take the citation form from the specific [language]{{ languages }} page.
 
