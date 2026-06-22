@@ -17,6 +17,7 @@ If you use data from the database, please cite the database itself as follows:
 
 If you discuss the database, its design, methodology, or data collection principles, please cite the release paper:
 
+> Nikolaev, Dmitry & Sergey Say. 2026. [Studying valency patterns of bivalent verbs with BivalTyp](https://bivaltyp.info/docs/Nikolaev_Say_2026_Studying). *Language Resources and Evaluation*, 60:51. Available online at: https://link.springer.com/content/pdf/10.1007/s10579-026-09922-y.pdf
 
 
 To cite the data from an individual language take the citation form from the specific [language]{{ languages }} page.
