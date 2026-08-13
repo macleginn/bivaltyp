@@ -6,13 +6,15 @@ Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostru
 ### Articles and book chapters
 Nikolaev, Dmitry & Sergey Say. 2026. [Studying valency patterns of bivalent verbs with BivalTyp](https://bivaltyp.info/docs/Nikolaev_Say_2026_Studying). *Language Resources and Evaluation*, 60:51. Available online at: https://link.springer.com/content/pdf/10.1007/s10579-026-09922-y.pdf
 
+Rostovtsev-Popiel, Alexander A. 2025. [Statističeskij analiz padežnogo markirovanija aktantov v kartvel'skix jazykax v svete bazy dvuxvalentnyx konstrukcij BivalTyp](https://bivaltyp.info/docs/Rostovtsev_Popiel_2025_Statisticheskij.pdf) [Statistical analysis of case marking of arguments in the Kartvelian languages in light of the BivalTyp database of bivalent constructions]. *Izvestija Rossijskoj akademii nauk. Serija literatury i jazyka* [Bulletin of the Russian Academy of Sciences: Studies in Literature and Language]. Vol. 84 (4), 55–68. (In Russian).
+
 Shagal, Ksenia & Alena Blinova. 2025. [Bivalent verb classes in Skolt Saami: A pilot study](https://bivaltyp.info/docs/Shagal_Blinova_2025_Bivalent.pdf). In: Rogier Blokland, Michael Rieẞler  & Torbjörn Söder (eds), *Saami Linguistics in Uppsala. The SAALS 4 Symposium*. (= Studia Uralica Upsaliensia, volume 42). Uppsala: Uppsala Universitet. 181-206.
 
 Kozhanov, Kirill & Sergey Say. 2025. [Variation in valency patterns across Romani dialects is primarily shaped by contact languages](https://doi.org/10.1075/sl.23067.koz). *Studies in language*. ([Prefinal proof as of 14.02.2025](https://bivaltyp.info/docs/Kozhanov_Say_2025_Variation_prefinal_proof.pdf))
 
 Alfimova, Daria. 2024. [Object marking in Western Eurasia](https://bivaltyp.info/docs/Alfimova_2024_Object.pdf). The Circum-Baltic area dissolves into the broader areal background. *Journal of language contact* 17, 281-314.
 
-Rostovtsev-Popiel, Alexander A. 2024. [Odnorodnost, raznorodnost i pereosmyslenie: pervye zamečania po obrabotke kartvel’skogo materiala v baze BivalTyp](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Odnrodnost.pdf) [Homogeneity, Heterogeneity, and Reanalysis: First Remarks on the Processing of Kartvelian Data for the BivalTyp Database]. Izvestija Rossijskoj akademii nauk. Serija literatury i jazyka [Bulletin of the Russian Academy of Sciences: Studies in Literature and Language]. Vol. 83 (2), 64–71. (In Russian).
+Rostovtsev-Popiel, Alexander A. 2024. [Odnorodnost, raznorodnost i pereosmyslenie: pervye zamečania po obrabotke kartvel’skogo materiala v baze BivalTyp](https://bivaltyp.info/docs/Rostovtsev_Popiel_2024_Odnrodnost.pdf) [Homogeneity, Heterogeneity, and Reanalysis: First Remarks on the Processing of Kartvelian Data for the BivalTyp Database]. *Izvestija Rossijskoj akademii nauk. Serija literatury i jazyka* [Bulletin of the Russian Academy of Sciences: Studies in Literature and Language]. Vol. 83 (2), 64–71. (In Russian).
 
 Studenikina, K. A. 2023. [Glava 22. Valentnostnye klassy dvuxmestnyx predicatov](https://bivaltyp.info/docs/Studenikina_2023_Valentnostnye.pdf) [Bivalent valency classes]. In: E. V. Kashkin (ed.). *Elementy gornomarijskogo jazyka v tipologicheskom osveshchenii* [Elements of the Hill Mari language in a typological perspective]. Moscow: Buki Vedi. 478-490. (in Russian)
 
