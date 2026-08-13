@@ -4,7 +4,16 @@
 Say, S. S. (ed.). 2018. [Valentnostnye klassy dvuxmestnyx predikatov v raznostrukturnyx jazykax](https://bivaltyp.info/docs/Say_ed_20018_Valentnostnye.pdf) [Bivalent valency classes in structurally diverse languages]. Saint Petersburg: ILS RAN. (in Russian)
 
 ### Articles and book chapters
+
+Kuzin, Nikita and Sergey Say. [Valency classes in the languages of West Asia: grammaticalization and convergence](https://bivaltyp.info/docs/Kuzin_Say_submitted_Valency.pdf). Submitted to a special issue of *Glossa Contact* on 20.12.2025.
+
+Say, Sergey. [Cross-linguistic argument-coding predictability and the lexical meaning of the verb](https://bivaltyp.info/docs/Say_accepted_Cross_linguistic.pdf). Accepted for publication (13.07.2026) in *Linguistic typology at the crossroads*. 
+
 Nikolaev, Dmitry & Sergey Say. 2026. [Studying valency patterns of bivalent verbs with BivalTyp](https://bivaltyp.info/docs/Nikolaev_Say_2026_Studying). *Language Resources and Evaluation*, 60:51. Available online at: https://link.springer.com/content/pdf/10.1007/s10579-026-09922-y.pdf
+
+Say, Sergey. 2025. [Degrees of complexity in valency class systems: implications for efficiency](https://bivaltyp.info/docs/Say_2025_Degrees.pdf). *STUF - Language Typology and Universals* 78 (4). 607–661. Available online at: https://doi.org/10.1515/stuf-2025-2022
+
+Say, Sergey. 2025. [Bivalent verb classes across Slavic: areal and genealogical patterns](https://bivaltyp.info/docs/Say_2025_Bivalent.pdf). *Russian Linguistics* 49: 13. Available online at: https://doi.org/10.1007/s11185-025-09322-w
 
 Rostovtsev-Popiel, Alexander A. 2025. [Statističeskij analiz padežnogo markirovanija aktantov v kartvel'skix jazykax v svete bazy dvuxvalentnyx konstrukcij BivalTyp](https://bivaltyp.info/docs/Rostovtsev_Popiel_2025_Statisticheskij.pdf) [Statistical analysis of case marking of arguments in the Kartvelian languages in light of the BivalTyp database of bivalent constructions]. *Izvestija Rossijskoj akademii nauk. Serija literatury i jazyka* [Bulletin of the Russian Academy of Sciences: Studies in Literature and Language]. Vol. 84 (4), 55–68. (In Russian).
 
