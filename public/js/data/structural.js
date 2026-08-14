@@ -12879,6 +12879,1176 @@ const structuralData = [
     "NOM_DAT"
   ],
   [
+    "Greek (modern)",
+    "feel_pain",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "have#illness#",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (modern)",
+    "be_afraid",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "throw",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "have_enough",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "resemble",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "believe",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "take",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "see",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "influence",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "encounter",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "enter",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "win",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "go_out",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "drive",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "bend",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "tell",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "hold",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "catch_up",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "milk",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "reach",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "touch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "fight",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_friends",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (modern)",
+    "think",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "eat",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "fry",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "wait",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "forget",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "depend",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "call",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "get_to_know",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "know",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "play#instrument#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "avoid",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "make",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "make_fun",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "have",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "look_for",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "paint",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "bite",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "forfeit",
+    "",
+    "*",
+    "*",
+    "*",
+    ""
+  ],
+  [
+    "Greek (modern)",
+    "try_to_catch",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "break",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "flatter",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "love#person#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "wave",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "dream",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "wash",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "put_on",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_called",
+    "",
+    "NOM",
+    "NOM(NO.AGR)",
+    "Y",
+    "NOM_NOM(NO.AGR)"
+  ],
+  [
+    "Greek (modern)",
+    "punish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "attack",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "fill#intr#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "find",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_short",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "hate",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "like",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "need",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "surround",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "remain",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "answer",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "open",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_different",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "fall_behind",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "plough",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "smell",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "cross",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "sing",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "write",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "drink",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "melt",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "match",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "leave",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "cover",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "remember",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "help",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "understand#language#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "hit#target#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "cut_oneself",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "get_stuck",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "lose#game#",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_glad",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "speak",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "give_birth",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "drop",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "govern",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "miss",
+    "",
+    "GEN",
+    "NOM",
+    "X",
+    "GEN_NOM"
+  ],
+  [
+    "Greek (modern)",
+    "follow",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "dismount",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "listen",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "obey",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "hear",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "mix",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "look",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "take_off",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "dream#sleeping#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "agree",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "have_a_quarrel",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "cost",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "shoot_at",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "pour",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "lose",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "sink",
+    "",
+    "NOM",
+    "seACC",
+    "Y",
+    "NOM_seACC"
+  ],
+  [
+    "Greek (modern)",
+    "kill",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "hit",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "kiss",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "read",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "move#bodypart#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "respect",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_squeamish",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_content",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "fall_in_love",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "trust",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "sympathise",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "envy",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_angry",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_surprised",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "love#tea#",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "enjoy",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "want",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "have_a_grudge",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "take_offence",
+    "",
+    "NOM",
+    "apoACC",
+    "Y",
+    "NOM_apoACC"
+  ],
+  [
+    "Greek (modern)",
+    "upset",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "marvel",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "despise",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "get_upset",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "get_irritated",
+    "",
+    "NOM",
+    "meACC",
+    "Y",
+    "NOM_meACC"
+  ],
+  [
+    "Greek (modern)",
+    "be_fond",
+    "",
+    "NOM",
+    "ACC",
+    "TR",
+    "TR"
+  ],
+  [
+    "Greek (modern)",
+    "be_shy",
+    "",
+    "NOM",
+    "giaACC",
+    "Y",
+    "NOM_giaACC"
+  ],
+  [
     "Guaraní (Paraguayan)",
     "feel_pain",
     "",
