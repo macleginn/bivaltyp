@@ -289,7 +289,7 @@ The German version of the questionnaire is available as a .pdf file [here](https
     P. got down from the horse.
 
 91. {{ predicate:listen }}
-    (What is P. doing?) P. is listening to radio.
+    (What is P. doing?) P. is listening to the radio.
 
 92. {{ predicate:obey }}
     (M. is a mischievous boy, but) P. always listens to / obeys his mother.
