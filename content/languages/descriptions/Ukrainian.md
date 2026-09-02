@@ -34,7 +34,7 @@ Case marking displays the nominative-accusative alignment. In the basic transiti
 ```
 
 The verb always agrees with the nominative subject in number and person/gender (the choice of agreement features is conditioned by tense).
-Non-core arguments are flagged by oblique case markers and prepositions. Some prepositions can combine with several different cases (e.g. the preposition *v* can combine with both accusative and locative). Valency class labels represent prepositions in combination with the specific case, e.g., NOM_vACC (where the preposition *v* combines with a noun phrase in the accusative case) and NOM_vLOC (where the same preposition combines with a noun phrase in the locative case) are considered two different valency patterns, etc.
+Non-core arguments are flagged by oblique case markers and prepositions. Some prepositions can combine with several different cases (e.g. the preposition *v* can combine with both accusative and locative). Valency class labels represent prepositions in combination with the specific case, e.g., NOM\_vACC (where the preposition *v* combines with a noun phrase in the accusative case) and NOM\_vLOC (where the same preposition combines with a noun phrase in the locative case) are considered two different valency patterns, etc.
 
 ### Case system
 There are 7 full-fledged cases: nominative, accusative, genitive, dative, instrumental, locative, and vocative.
