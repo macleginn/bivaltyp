@@ -26,7 +26,7 @@ Subject personal agreement (with an S/A argument) is obligatory in independent d
 There is no copula, only personal markers are used in copular clauses. The verb *bu* ‘be, exist’ is used in existential, locative and possessive clauses. It tends to become fused with the preceding 3SG marker (=*ne bu* > =*no*; =*e bu* > =*o*).
 
 ### Case system
-There is no clear morphological distinction between the core cases and the locative cases, which all have monomorphemic markers. The most important cases are absolutive (unmarked stem), ergative, dative and genitive. Benefactive is a peripheral non-locative case. The locative cases include ablative, adessive, superessive; they also have extended non-locative functions. 
+There is no clear morphological distinction between the core cases and the locative cases, which all have monomorphemic markers. The most important cases are absolutive (unmarked stem), ergative, dative and genitive. With a few nouns, including *k'oj* ‘house’, there are two alternative forms of the dative case, whose distribution is not fully clear yet. Benefactive is a peripheral non-locative case. The locative cases include ablative, adessive, superessive; they also have extended non-locative functions. 
 Note that in the examples from the questionnaire, the absolutive is not marked with a gloss. 
 
 ### Verb lemmas
