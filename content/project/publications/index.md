@@ -9,7 +9,7 @@ Kuzin, Nikita and Sergey Say. [Valency classes in the languages of West Asia: gr
 
 Say, Sergey. [Cross-linguistic argument-coding predictability and the lexical meaning of the verb](https://bivaltyp.info/docs/Say_accepted_Cross_linguistic.pdf). Accepted for publication (13.07.2026) in *Linguistic typology at the crossroads*. 
 
-Nikolaev, Dmitry & Sergey Say. 2026. [Studying valency patterns of bivalent verbs with BivalTyp](https://bivaltyp.info/docs/Nikolaev_Say_2026_Studying). *Language Resources and Evaluation*, 60:51. Available online at: https://link.springer.com/content/pdf/10.1007/s10579-026-09922-y.pdf
+Nikolaev, Dmitry & Sergey Say. 2026. [Studying valency patterns of bivalent verbs with BivalTyp](https://bivaltyp.info/docs/Nikolaev_Say_2026_Studying.pdf). *Language Resources and Evaluation*, 60:51. Available online at: https://link.springer.com/content/pdf/10.1007/s10579-026-09922-y.pdf
 
 Say, Sergey. 2025. [Degrees of complexity in valency class systems: implications for efficiency](https://bivaltyp.info/docs/Say_2025_Degrees.pdf). *STUF - Language Typology and Universals* 78 (4). 607–661. Available online at: https://doi.org/10.1515/stuf-2025-2022
 
