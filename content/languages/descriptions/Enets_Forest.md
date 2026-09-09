@@ -108,12 +108,11 @@ Personal pronouns have distinct forms of the nominative, the genitive and the ac
 
 The subject (always) and the 3rd person direct object (under certain conditions) are indexed on the verb. There are three series of agreement markers, the subject, the subject-object and the middle series. The middle agreement markers are used for subject indexing with some intransitive verbs. The subject agreement markers can be used for subject indexing in both intransitive and transitive clauses (3). The subject-object agreement markers are cumulative suffixes used for indexing the subject and the direct object (2). The choice between the subject and subject-object agreement markers in transitive clauses is primarily determined by the topicality of the direct object (Differential Object Indexing).
 
-Non-core arguments are marked either by locative cases or by postpositions and are never indexed on the verb. Some non-core arguments have the status represented as “TOP”: they are clause-initial (clause-internal) nominative noun phrases that are not indexed on the verb, see (Ovsjannikova 2018; in press).
+Non-core arguments are marked either by locative cases or by postpositions and are never indexed on the verb. Some non-core arguments have the status represented as “TOP”: they are clause-initial (clause-internal) nominative noun phrases that are not indexed on the verb, see (Ovsjannikova 2018; 2021).
 
-> Ovsjannikova, Maria. 2018. Kodirovanie učastnikov pri dvuxmestnyx predikatax v lesnom eneckom jazyke. Uralo-altayskie issledovanija, 1 (28). P. 50–69.
+> Ovsjannikova, Maria. 2018. Kodirovanie učastnikov pri dvuxmestnyx predikatax v lesnom eneckom jazyke. *Uralo-altajskie issledovanija* 1 (28), 50–69.
 
-> Ovsjannikova, Maria. In press. Encoding of nominal possessors in Forest Enets. Eesti ja soome-ugri keeleteaduse ajakiri. Journal of Estonian and Finno-Ugric Linguistics.
-
+> Ovsjannikova, Maria. 2021. Oblique and nominative nominal possessors in Forest Enets. *Eesti ja soome-ugri keeleteaduse ajakiri / Journal of Estonian and Finno-Ugric Linguistics* 11(2), 57–98. https://doi.org/10.12697/jeful.2020.11.2.03
 
 ### Case system
 The core case system includes two formally distinct cases for nouns, viz. nominative and oblique, as outlined above, and three cases for pronouns. The locational cases include the dative, the locative, the ablative and the (marginal) prolative cases. Postpositions combine with the nouns in the oblique case.
