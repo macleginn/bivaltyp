@@ -17,3 +17,6 @@ The data were gathered in 2018. The Russian version of the questionnaire was use
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+ADVZ — adverbializer; ALL — allative; ATTR — attributive; COM — comitative; COMP — comparative; CONT — contessive ???; CVB — converb; DAT — dative; EL — elative; ERG — ergative; EVID — evidential; GEN — genitive; IN — inessive ??; INF — infinitive; INTER — interessive ???; IPFV — imperfective; ITER — iterative; LAT — lative; LOC — locative; M — masculine; NEG — negation; NMLZ — nominalization; NOM — nominative; NPL — non-plural; OBL — oblique; PFV — perfective; PL — plural; PN — person name; PTCL — particle ??; R — reflexive; SG — singular; SUP — superessive ???.
