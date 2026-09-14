@@ -18,6 +18,9 @@ The data were provided by Sandra Abela (Bremen, see the second picture above) in
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+## Glossing abbreviations
+DEF — definite; DU — dual; F — feminine; IPF — imperfective; M — masculine; NUM — numeral; OBJ — object; PF — perfective; PL — plural; PN — proper name; POSS — possessive; PROG — progressive; PROX — proximal; REFL — reflexive; SG — singular.
+
 ## References
 
 Creissels, Denis. 2022. Existential predication and predicative possession in Arabic dialects. STUF - Language Typology and Universals 75(4). 583–612. DOI: https://doi.org/10.1515/stuf-2022-1064
