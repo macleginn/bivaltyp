@@ -20,4 +20,4 @@ The data were collected in 2023 using the Russian version of the questionnaire. 
 
 ## Glossing abbreviations
 
-adv — ; ante — ; antel — ; aor — ; caus — ; cop — ; cv — ; dat — ; dem — ; erg — ; evt — ; exist — ; exst — ; f — ; gen — ; inf — ; inter — ; interel — ; ipf — ; itr — ; m — ; n — ; neg — ; nom — ; npl — ; obl — ; pf — ; pfv — ; pl — ; pn — ; pret — ; prog — ; prox — ; pst — ; ptcp — ; refl — ; sg — ; super — ; superel> 
+ADV — adverbial; ANTE — localization ANTE = 'in front of' ??; ANTEL — antelative; AOR — aorist; CAUS — causative; COP — copula; CV — converb; DAT — dative; DEM — demonstrative; ERG — ergative; EVT — evidential ??; EXIST — existential; F — feminine; GEN — genitive; INF — infinitive; INTER — locatlization INTER = 'in the middle, among'; INTEREL — interelative; IPF — imperfective; ITR — iterative; M — masculine; N — neuter; NEG — negation; NOM — nominative; NPL — non-human plural; OBL — oblique; PF — perfective; PL — plural; PN — persona name; PRET — preterite; PROG — progressive; PROX — proximal; PST — past; PTCP — participle; REFL — reflexive; SG — singular; SUPER — localization SUPER = 'on, on top of'; SUPEREL — superelative.
