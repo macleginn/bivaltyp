@@ -14,3 +14,6 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+abl — ; adel — ; adr — ; aor — ; attr — ; cop — ; dat — ; dir — ; erg — ; f — ; gen — ; h — ; hab — ; imp — ; in — ; inel — ; iness — ; ins — ; ipf — ; lat — ; m — ; n — ; neg — ; obl — ; pf — ; pl — ; pn — ; prf — ; prs — ; ptcp — ; refl — ; seq — ; super — ; superel> 
