@@ -18,4 +18,4 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 
 ## Glossing abbreviations
 
-ad — ; adel — ; adj — ; adr — ; aor — ; apud — ; attr — ; cop — ; dat — ; dir — ; erg — ; excl — ; f — ; gen — ; hpl — ; imper — ; inel — ; iness — ; inlat — ; ipf — ; loc — ; m — ; n — ; neg — ; nn — ; nom — ; obl — ; perf — ; pf — ; pl — ; pn — ; prs — ; ptcp — ; pv — ; refl — ; seq — ; simul — ; sub — ; subel> 
+AD — adessive; ADEL — adelative; ADJ — adjective; ADR — adressive ??; AOR — aorist; APUD — apudessive; ATTR — attributive; COP — copula; DAT — dative; DIR — directive; ERG — ergative; EXCL — exclusive; F — feminine; GEN — genitive; HPL — human plural; IMPER — imperative; INEL — inelative; INESS — inessive; INLAT — inlative; IPF — imperfective; LOC — locative; M — masculine; N — neuter; NEG — negation; NN — NN (ex. 76); NOM — nominative; OBL — oblique; PERF — perfect; PF — perfective; PL — plural; PN — person name; PRS — present; PTCP — participle; PV — preverb ?? (ex. 102); REFL — reflexive; SEQ — sequential; SIMUL — simultaneous; SUB — subessive; SUBEL — subelative.
