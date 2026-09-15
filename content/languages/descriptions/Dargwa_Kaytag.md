@@ -17,3 +17,7 @@ The data were collected in 2023 using the Russian version of the questionnaire. 
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+adv — ; ante — ; antel — ; aor — ; caus — ; cop — ; cv — ; dat — ; dem — ; erg — ; evt — ; exist — ; exst — ; f — ; gen — ; inf — ; inter — ; interel — ; ipf — ; itr — ; m — ; n — ; neg — ; nom — ; npl — ; obl — ; pf — ; pfv — ; pl — ; pn — ; pret — ; prog — ; prox — ; pst — ; ptcp — ; refl — ; sg — ; super — ; superel> 
