@@ -16,4 +16,4 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 - Macro-area: {{ macroarea }}.
 
 ## Glossing abbreviations
-abl — ; adel — ; adr — ; aor — ; attr — ; cop — ; dat — ; dir — ; erg — ; f — ; gen — ; h — ; hab — ; imp — ; in — ; inel — ; iness — ; ins — ; ipf — ; lat — ; m — ; n — ; neg — ; obl — ; pf — ; pl — ; pn — ; prf — ; prs — ; ptcp — ; refl — ; seq — ; super — ; superel> 
+ABL — ablative; ADEL — adelative; ADR — adressive; AOR — aorist; ATTR — attributive; COP — copula; DAT — dative; DIR — directive; ERG — ergative; F — feminine; GEN — genitive; H — human; HAB — habitual; IMP — imperative; IN — inessive; INEL — inelative; INESS — inessive; INS — instrumental; IPF — imperfective; LAT — lative; M — masculine; N — neuter; NEG — negation; OBL — oblique; PF — perfective; PL — plural; PN — person name; PRF — perfect; PRS — present; PTCP — participle; REFL — reflexive; SEQ — sequential; SUPER — superessive; SUPEREL — superelative.
