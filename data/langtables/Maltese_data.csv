@@ -89,7 +89,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 145	Maltese	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	immissja	SBJ	DO	TR	TR	The preposition “lil” is not obligatory with this verb. This is an example of the DOM system.	Ġwanni jimmissja lil Mark	PN miss.IPF.M.3SG to PN	‘Ġwanni misses Mark.’			
 145	Maltese	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	segwa	SBJ	DO	TR	TR	The preposition “lil” is not obligatory with this verb. This is an example of the DOM system.	Ġwanni jsegwi lil Mark	PN follow.IPF.M.3SG to PN	‘Ġwanni follows Mark.’			
 145	Maltese	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	niżel	SBJ	minn.fuq	Y	SBJ_minn.fuq		Ġwanni niżel minn fuq iż-żiemel	PN go.down.PF.M.3SG from on DEF-horse	‘Ġwanni got down from the horse.’			
-145	Maltese	91	listen	X (listen) to Y	слушать	X (слушать) Y	sema'	SBJ	DO	TR	TR		Ġwanni qed jisma’ r-radju	PN PROG listen.IPF.M.3SG DEF-radio	‘Ġwanni is listening to radio.’			Same as 93.
+145	Maltese	91	listen	X (listen) to Y	слушать	X (слушать) Y	sema'	SBJ	DO	TR	TR		Ġwanni qed jisma’ r-radju	PN PROG listen.IPF.M.3SG DEF-radio	‘Ġwanni is listening to the radio.’			Same as 93.
 145	Maltese	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obda	SBJ	minn	Y	SBJ_minn		Ġwanni dejjem jobdi minn ommu	PN always obey.IPF.M.3SG from mother.POSS.M.3SG	‘Ġwanni always obeys his mother.’			
 145	Maltese	93	hear	X (hear) Y	слышать	X (слышать) Y	sema'	SBJ	DO	TR	TR		Ġwanni jisma’ l-mużika	PN hear.IPF.M.3SG DEF-music	‘Ġwanni hears the music.’			Same as 91.
 145	Maltese	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	tħallat 	SBJ	ma	Y	SBJ_ma		l-għasel tħallat mal-ħalib	DEF-honey be.mixed.PF.M3SG with1.DEF-milk	‘The honey got mixed with the milk.’			

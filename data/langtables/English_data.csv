@@ -89,7 +89,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 29	English	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	miss	SBJ	DO	TR	TR		Peter misses Mary.	 	 			
 29	English	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	follow	SBJ	DO	TR	TR		Peter follows Mary.	 	 			
 29	English	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	get down	SBJ	from	Y	SBJ_from		Peter got down from the horse.	 	 			Phrasal verb.
-29	English	91	listen	X (listen) to Y	слушать	X (слушать) Y	listen	SBJ	to	Y	SBJ_to		Peter is listening to radio.	 	 			
+29	English	91	listen	X (listen) to Y	слушать	X (слушать) Y	listen	SBJ	to	Y	SBJ_to		Peter is listening to the radio.	 	 			
 29	English	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	obey	SBJ	DO	TR	TR		Peter obeys his mother.	 	 			
 29	English	93	hear	X (hear) Y	слышать	X (слышать) Y	hear	SBJ	DO	TR	TR		Peter hears the music.	 	 			
 29	English	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	get mixed	SBJ	with	Y	SBJ_with	Get-passive.	The honey got mixed with the milk.	 	 			

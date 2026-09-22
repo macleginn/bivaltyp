@@ -89,7 +89,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 132	Twi	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	afe	SBJ	DO	TR	TR		Kofi afe nana	PN miss.PRS grandfather	‘Kofi misses grandfather.’			
 132	Twi	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	di	SBJ	akyi	Y	SBJ_akyi		Kofi di nana akyi	PN eat.PRS grandfather behind	‘Kofi follows grandfather.’			Same as 26 and 87, different patterns.
 132	Twi	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	sifiri	SBJ	so	Y	SBJ_so		Kofi sifiri-i pᴐnkᴐ no so	PN get_down-PST horse DEF on	‘Kofi got down from the horse.’			
-132	Twi	91	listen	X (listen) to Y	слушать	X (слушать) Y	tie	SBJ	DO	TR	TR		Kofi re-tie kasanoma	PN PROG-listen radio	‘Kofi is listening to radio.’			Same as 92
+132	Twi	91	listen	X (listen) to Y	слушать	X (слушать) Y	tie	SBJ	DO	TR	TR		Kofi re-tie kasanoma	PN PROG-listen radio	‘Kofi is listening to the radio.’			Same as 92
 132	Twi	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	tie	SBJ	DO	TR	TR		Kofi tie ne maame aberebiara	PN listen(PRS) 3SG.POSS mother always	‘Kofi always listens to his mother.’			Same as 91
 132	Twi	93	hear	X (hear) Y	слышать	X (слышать) Y	te	SBJ	DO	TR	TR		Kofi te nwom no	PN perceive.PRS music DEF	‘Kofi hears the music.’			
 132	Twi	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	fra	SBJ	DO	TR	TR		εwoᴐ no fra-a meekye no	honey DEF mix-PST milk DEF	‘The honey got mixed with the milk.’			
