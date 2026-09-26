@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by [Ramazan Mamedshaxov](https://nenadict.iling.spb.ru/persons/mamedshakhov-ramazan-gamidovich) ([elibrary profile](https://www.elibrary.ru/author_profile.asp?id=376900)) and Nikita Kuzin ([Academia.edu profile](https://fu-berlin.academia.edu/NikitaKuzin))
+Contributed by [Ramazan Mamedshaxov](https://iling.spb.ru/persons/mamedshakhov-ramazan-gamidovich) ([elibrary profile](https://www.elibrary.ru/author_profile.asp?id=376900)) and Nikita Kuzin ([Academia.edu profile](https://fu-berlin.academia.edu/NikitaKuzin))
 
 ![R.M.'s photo]({{ site_url_j }}/images/Mamedshaxov.jpg "R.M.'s photo")
 ![N.K.'s photo]({{ site_url_j }}/images/Kuzin.jpg "N.K.'s photo")
