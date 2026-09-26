@@ -3,7 +3,7 @@ Contributed by [Polina Nasledskova](https://www.hse.ru/org/persons/190905106/) (
 
 ![P.N.'s photo]({{ site_url_j }}/images/Nasledskova.jpg "P.N.'s photo")
 
-The data were gathered in {{ data_collection_year }} from {{ consultant }}. The Russian version of the questionnaire was used for elicitation.
+The data were gathered in {{ data_collection_year }} from {{ consultant }} and reflects the standard variety of the language. The Russian version of the questionnaire was used for elicitation.
 
 ## How to cite
 > Nasledskova, Polina & Yury Lander. 2025. Bivalent patterns in {{ language_external}}. 
