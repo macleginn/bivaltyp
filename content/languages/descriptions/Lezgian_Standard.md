@@ -2,7 +2,7 @@
 
 Contributed by [Ramazan Mamedshaxov](https://iling.spb.ru/persons/mamedshakhov-ramazan-gamidovich) ([elibrary profile](https://www.elibrary.ru/author_profile.asp?id=376900)) 
 
-![R.M.'s photo]({{ site_url_j }}/images/Mamedshaxov.jpg "R.M.'s photo")
+![R.M.'s photo]({{ site_url_j }}/images/Mamedshaxov2.jpg "R.M.'s photo")
 
 The data were collected in 2012 based on the Russian version of the questionnaire.
 
