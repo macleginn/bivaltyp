@@ -2,6 +2,7 @@
 Contributed by [Polina Nasledskova](https://www.hse.ru/org/persons/190905106/) ([Academia.edu profile](https://scopus.academia.edu/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%D0%9D%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D0%BA%D0%BE%D0%B2%D0%B0)) and [Yury Lander](https://www.hse.ru/en/staff/yulander/)
 
 ![P.N.'s photo]({{ site_url_j }}/images/Nasledskova.jpg "P.N.'s photo")
+![Yu.L.'s photo]({{ site_url_j }}/images/Lander.jpg "Yu.L.'s photo")
 
 The data were gathered in {{ data_collection_year }} from {{ consultant }} and reflects the standard variety of the language. The Russian version of the questionnaire was used for elicitation.
 
