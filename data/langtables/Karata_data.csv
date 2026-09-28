@@ -75,7 +75,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 123	Karata	74	leave	X (leave) Y	покидать	X (покидать) Y(-а)	bešdaɬa	ERG	NOM	TR	TR		ʕali-l in-š:u-b da šahar b-ešd-a	PN-ERG REFL-OBL.M-N PTCL city N-leave-PF	‘Ali left his city.’			
 123	Karata	75	cover	X (cover) Y	покрывать	X (покрывать) Y	bacwaaɬa	ERG	NOM	TR	TR		t’ansila-l gida-b da ʁardi-mak’wa b-acwa-a	carpet.OBL-ERG whole-N PTCL floor-place N-cover-PF	‘The carpet covers the whole floor.’			
 123	Karata	76	remember	X (remember) Y	помнить	X (помнить) Y-а	rak’wa-č’o bik’waɬa	DAT	NOM	X	DAT_NOM	Non-verbal predicate.	ʕalja misa c’aq’a rak’wa-č’o idja	PN.DAT house well heart-CONT COP	‘Ali remembers the house well.’			
-123	Karata	77	help	X (help) Y	помочь	X (помогать) Y-у	kumak gahaɬa	ERG	DAT	Y	ERG_DAT		ʕali-l marjam-ja kumak geh-e	PN-ERG PN-DAT help do-PF	‘Ali helped Marjam.’			CV
+123	Karata	77	help	X (help) Y	помочь	X (помогать) Y-у	kumak gahaɬa	ERG	DAT	Y	ERG_DAT		ʕali-l marjam-ja kumak gehe	PN-ERG PN-DAT help do.PF	‘Ali helped Marjam.’			CV
 123	Karata	78	understand	X (understand) Y	понимать	X (понимать) Y	b-ič’č’aɬa	DAT	NOM	X	DAT_NOM		ʕalja parank’dilo-b mac’c’i bič’č’eda	PN.DAT French-N tongue understand.IPF	‘Ali understands French.’			
 123	Karata	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	torč’č’anɬa	NOM	DAT	Y	NOM_DAT		miswa pire torč’č’-en	house.DAT lightning strike-PF	‘Lightning struck the house.’			Same verb as in 23, 101, different patterns
 123	Karata	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	boq’aɬa	*	*	*		Not included in the database because X is expressed as an NP-internal modifier.	ʕali-b reƛ’a χχa-ndo-b hedela-ɬi-l b-oq’-e	PN-N hand shave-IPF.PTCP-N thing-OBL-ERG N-cut-PF	‘The razor cut Ali’s hand.’			
@@ -89,7 +89,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 123	Karata	88	miss	X (miss) Y	скучать	X (скучать) по Y-у	rak’wa t’amaɬa	POSS	APUDLAT	XY	POSS_APUDLAT		ʕali-b marjam-i-χar rak’wa t’am-e idja	PN-N PN-OBL-APUDLAT heart throw-PF COP	‘Ali misses Marjam.’			CV
 123	Karata	89	follow	X (follow) Y	следовать	X (следовать) за Y-ом	χirχir bik’waɬa	NOM	DAT	Y	NOM_DAT	Non-verbal predicate. Here, “χirχir” arguably functions as part of the predicate.	ʕali marjam-ja χirχi-r idja	PN PN-DAT behind-LAT COP	‘Ali follows Marjam.’			Rashidat: It is theoretically possible to add some material between “marjam-ja” and “χirχi-r”, although this is not a very natural pattern. SS takes this possibility seriously, concluding that χirχi-r is part of the predicate.
 123	Karata	90	dismount	X (get down) from Y	слезать	X (слезать) с Y-a (с лошади)	rušt’anɬa	NOM	EL	Y	NOM_EL		ʕali xwanjagal rušt’-an	PN horse.EL dismount-PF	‘Ali got down from the horse.’			
-123	Karata	91	listen	X (listen) to Y	слушать	X (слушать) Y	andukaɬa	NOM	APUD	Y	NOM_APUD		ʕali radio-q anduk-e idja	PN radio-APUD listen-PF COP	‘Ali is listening to the radio.’			Same as 92
+123	Karata	91	listen	X (listen) to Y	слушать	X (слушать) Y	andukaɬa	NOM	APUD	Y	NOM_APUD		ʕali radio-q anduk-e idja	PN radio-APUD listen-PF COP	‘Ali is listening to radio.’			Same as 92
 123	Karata	92	obey	X (obey) Y	слушаться	X (слушаться) Y-a	andukaɬa	NOM	APUD	Y	NOM_APUD		ʕali iljo-q anduk-idja	PN mother.OBL-APUD listen-IPF	‘Ali listens to his mother.’			Same as 91
 123	Karata	93	hear	X (hear) Y	слышать	X (слышать) Y	anɬaɬa	DAT	NOM	X	DAT_NOM		ʕalja baq’an anɬ-idja idja	PN.DAT tune hear-IPF COP	‘Ali hears the music.’			
 123	Karata	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	habažwaɬa	NOM	COM	Y	NOM_COM		hunc’c’e š:iw-k’el habažu	honey milk-COM N.be_mixed.PF	‘The honey got mixed with milk.’			
@@ -105,7 +105,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 123	Karata	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	ʁanq’aaɬa	NOM	INTER	Y	NOM_INTER		ɬuda ɬenj-ƛi ʁanq’ee	wood water-INTER drown.PF	‘The log sank in the water.’			
 123	Karata	105	kill	X (kill) Y	убивать	X (убивать) Y-а	k’k’obaɬa	ERG	NOM	TR	TR		ʕali-l k’k’ob-e aħmat’	PN-ERG kill-PF PN	‘Ali killed Ahmat.’			
 123	Karata	106	hit	X (hit) Y	ударить	X (ударять) Y-а	č’č’waraɬa	ERG	CONT	Y	ERG_CONT		ʕali-l aħmat’-i-č’o č’č’war-e	PN-ERG PN-OBL-CONT beat-PF	‘Ali hit Ahmat.’			
-123	Karata	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	oba gahaɬa	ERG	CONT	Y	ERG_CONT		ʕali-l marjam-i-č’o oba ge-e gehe	PN-ERG PN-OBL-CONT kiss do-PF do.PF	‘Ali kissed Marjam.’			CV
+123	Karata	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	oba gahaɬa	ERG	CONT	Y	ERG_CONT		ʕali-l marjam-i-č’o oba gehe	PN-ERG PN-OBL-CONT kiss do.PF	‘Ali kissed Marjam.’			CV
 123	Karata	108	read	X (read) Y	читать	X (читать) Y-а	c’c’alaaɬa	ERG	NOM	TR	TR		ʕali-l xoho-b qoča c’c’alee	PN-ERG good-N book read.PF	‘Ali read a good book.’			
 123	Karata	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	geraʁeraɬa	ERG	NOM	TR	TR		ʕali-l ɬic’el gera-ʁer-a	PN-ERG finger move-move-PF	‘Ali moved his finger.’			
 123	Karata	110	respect	X (respect) Y	уважать	X (уважать) Y-а	adab gahaɬa	ERG	POSS	Y	ERG_POSS	The possessor NP displays some properties of a clause-level dependent.	ʕali-l aħmat’-i-b adab geeda	PN-ERG PN-OBL-N politeness do.IPF	‘Ali respects Ahmat.’			CV. Рашидат. Возможны варианты: Адаб Ах1мат1иб геда Гiалил (именно Ахмада). Адаб геда Г1алил Ах1мат1иб. Геда Г1алил Ах1мат1иб адаб.
