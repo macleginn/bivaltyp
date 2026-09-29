@@ -15,6 +15,10 @@ Contributed by [Gilles Authier](https://www.ephe.psl.eu/gilles-authier) ([Academ
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+For a sketch of Ismayilli Kryz grammar, see [here](https://bivaltyp.info/docs/Authier_2026_Ms_Ismayilli_Kryz.pdf).
+
+
+
 https://www.academia.edu/44361373/Ismailli_Kryz
 
 ## Grammar notes
