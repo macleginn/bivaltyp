@@ -24,7 +24,26 @@ Case marking displays the ergative-nominative alignment, except on personal pron
 
 ### Case system
 
-There are 17 case forms in Proper Kryz. The 4 original grammatical cases are nominative, genitive, ergative, dative. The system of spatial cases consists of two layers, involving 5 localizations and 3 directions (the unmarked essive, the lative and the elative). The apudelative and the sublative are lacking, which yields 13 spatial combinations. 
+There are 14 case forms in Proper Kryz. The 4 original grammatical cases are nominative, genitive, ergative, dative. The system of spatial cases consists of two layers, involving 4 localizations and 3 directions (the unmarked essive, the lative and the elative). The apudelative and the sublative are lacking, which yields 10 spatial combinations. Case paradigms are illustrated in Table 1. 
+
+Table 1. Case paradigm of Kryz (proper)
+
+| case label | form           | ‘house’     | ‘man’    |
+| ---------- | -------------- | ----------- | -------- |
+| NOM        | \-Ø            | k’ul        | furi     |
+| ERG        | \-r            | k’ul-ci-r   | fura-ʕar |
+| GEN        | \-ci, -a, etc. | k’ul-ci     | fura     |
+| DAT        | \-s            | k’ul-ci-s   | fura-s   |
+| IN/GEN2    | \-a(ʕ)         | k’ul-ca     | \-       |
+| INEL       | \-ʕa-r         | k’ul-caʕar  | \-       |
+| INLAT      | \-ʕan          | k’ul-caʕan  | \-       |
+| AD         | \-v            | k’ul-ci-v   | fura-v   |
+| ADR        | \-v-an         | Ø           | fura-van |
+| ADEL       | \-v-ar         | k’ul-ci-var | fura-var |
+| APUD       | \-ux           | k’ul-cox    | furo-x   |
+| DIR        | \-xu-n         | k’ul-co-xun | furo-xun |
+| SUB        | \-k            | k’ul-ci-k   | \-       |
+| SUBEL      | \-k-ir         | k’ul-ci-kir | fura-kir |
 
 The subelative case is also used in the function of a partitive.
 
