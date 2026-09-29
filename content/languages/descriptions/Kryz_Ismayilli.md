@@ -26,8 +26,8 @@ Case marking displays the ergative-nominative alignment, except on personal pron
 Nouns inflect for a rich case paradigm, distinguishing nominative vs. ‘oblique’ cases derived from an oblique stem. Kryz dialects display a tendency to use the originally inessive forms as a new oblique stem and also to use it in the genitive functions. In Ismayilli Kryz, the so-calle “second genitive” (GEN2) coincides with the inessive (“IN”) for nouns denoting human possessors. This semantic difference is made clear in the example below, where the ending *-ca* is used in the inessive function on the noun denoting a place (‘stable’) but in the genitive function on the noun denoting a human referent (‘merchant’). Apart from this, the noun denoting an animal takes an etymologically unrelated genitive ending *-yi*: 
 
 ```
-tacir-ca balka-yi qazma-ca axir-d
-merchant-OBL.IN/GEN2 horse-GEN stable-OBL.IN/GEN2 sleep.PFV-AOR(M)
+tacir-ca               balka-yi   qazma-ca            axir-d
+merchant-OBL.IN/GEN2   horse-GEN  stable-OBL.IN/GEN2  sleep.PFV-AOR(M)
 ‘He slept in the merchant’s horsestables.’
 ```
 
@@ -35,12 +35,12 @@ Overall, there are only 16 case forms registered in the Ismayilli Kryz corpus. O
 
 Table 1. Grammatical cases across declension types
 
-|                | ‘house’       | ‘bread’      | ‘man’        | ‘merchant’     | ‘village’  |
-| -------------- | ------------- | ------------ | ------------ | -------------- | ---------- |
-| NOM            | \*k’ul\*      | \*xhu\*      | \*xhuri\*    | \*tacir\*      | \*kum\*    |
-| GEN or IN/GEN2 | \*k’ul-ci\*   | \*xhu-ji\*   | \*xhur-a\*   | \*tacir-ca\*   | \*kum\*    |
-| ERG            | \*k’ul-ci-r\* | \*xhu-yi-r\* | \*xhur-a-r\* | \*tacir-ci-r\* | \*kum-ur\* |
-| DAT            | \*k’ul-ci-z\* | \*xhu-yi-z\* | \*xhur-a-z\* | \*tacir-ci-z\* | \*kum-uz\* |
+|                | ‘house’     | ‘bread’    | ‘man’      | ‘merchant’   | ‘village’|
+| -------------- | ----------- | ---------- | ---------- | ------------ | -------- |
+| NOM            | *k’ul*      | *xhu*      | *xhuri*    | *tacir*      | *kum*    |
+| GEN or IN/GEN2 | *k’ul-ci*   | *xhu-ji*   | *xhur-a*   | *tacir-ca*   | *kum*    |
+| ERG            | *k’ul-ci-r* | *xhu-yi-r* | *xhur-a-r* | *tacir-ci-r* | *kum-ur* |
+| DAT            | *k’ul-ci-z* | *xhu-yi-z* | *xhur-a-z* | *tacir-ci-z* | *kum-uz* |
 
 Historically, the system of spatial cases consisted of two layers, involving 6 localizations and 3 directions, which yields 18 combinations. The three directions are the unmarked essive (being at a location), the lative (motion towards a location) and the elative (motion from a location). The wide use of spatial postpositions accounts for the fact that some original cases have disappeared. As a consequence, 6 out of 18 expected slots in the paradigm of spatial cases remain unoccupied in Ismayilli Kryz. In Table 2 below, the tags used for row correspond to original localizations for the sake of transparency of relations with cognates in related languages. By contrast, the labels shown in individual cells reflect the glosses used in the dataset below.
 
