@@ -20,38 +20,39 @@ https://www.academia.edu/44361373/Ismailli_Kryz
 ## Grammar notes
 
 ### Basic clause structure and the transitive construction
-Case marking displays the ergative-nominative alignment, except on personal pronouns, which have non-ergative morphology. In the basic transitive construction, the A-argument is in the ergative, and the P-argument, in the (unmarked) nominative. Non-core arguments are flagged by oblique case markers or, by postpositions (in combination with the genitive or the inessive case). The verb takes gender-number prefixes, infixes and/or suffixes agreeing with the S/P argument in the nominative. 
+Case marking displays the ergative-nominative alignment, except on personal pronouns, which have non-ergative morphology. The verb takes gender-number prefixes, infixes and/or suffixes agreeing with the S/P argument in the nominative. In the basic transitive construction, the A-argument is in the ergative, and the P-argument, in the (unmarked) nominative. Non-core arguments are flagged by oblique case markers or, by postpositions (in combination with the genitive / inessive case, see below on this case).
 
 ### Case system
+Nouns inflect for a rich case paradigm, distinguishing nominative vs. ‘oblique’ cases derived from an oblique stem. Kryz dialects display a tendency to use the originally inessive forms as a new oblique stem and also to use it in the genitive functions. In Ismayilli Kryz, the so-calle “second genitive” (GEN2) coincides with the inessive (“IN”) for nouns denoting human possessors. This semantic difference is made clear in the example below, where the ending *-ca* is used in the inessive function on the noun denoting a place (‘stable’) but in the genitive function on the noun denoting a human referent (‘merchant’). Apart from this, the noun denoting an animal takes an etymologically unrelated genitive ending *-yi*: 
 
-Nouns inflect for a rich case paradigm, distinguishing nominative vs. ‘oblique’ cases derived from an oblique stem. 
+```
+tacir-ca balka-yi qazma-ca axir-d
+merchant-OBL.IN/GEN2 horse-GEN stable-OBL.IN/GEN2 sleep.PFV-AOR(M)
+‘He slept in the merchant’s horsestables.’
+```
 
-A tendency to use the inessive form as a new oblique stem and genitive marker is also observed in Kryz dialects. In Ismayilli Kryz, the so-called "second genitive" coincides with the locative case for nouns denoting human possessors, a contrast made clear in the example below. Here, the ending *-ǯa* is used in locative (inessive) function on the noun denoting a place but in the genitive function on the noun denoting a human referent, while the noun denoting an animal takes the genitive ending *-ji*: 
+Overall, there are only 16 case forms registered in the Ismayilli Kryz corpus. Out of these, four cases are “grammatical cases” and 12 cases are spatial cases. The markers of grammatical cases distributed across the main types of nominal declension are shown in Table 1.
 
-taǯir-ǯa			balka-ji		ʁazma-ǯa	aχir-d. 
-merchant-OBL.IN/GEN2	horse-GEN	stable-OBL.IN/GEN2	sleep.PFV-AOR(M) 
-‘He slept in the merchant’s horsestables.’ 
+Table 1. Grammatical cases across declension types
+	‘house’	‘bread’	‘man’	‘merchant’	‘village’
+NOM	*k’ul*	*xhu*	*xhuri*	*tacir*	*kum*
+GEN or IN/GEN2	*k’ul-ci*	*xhu-ji*	*xhur-a*	*tacir-ca*	*kum*
+ERG	*k’ul-ci-r*	*xhu-yi-r*	*xhur-a-r*	*tacir-ci-r*	*kum-ur*
+DAT	*k’ul-ci-z*	*xhu-yi-z*	*xhur-a-z*	*tacir-ci-z*	*kum-uz*
 
-Overall, Gilles Authier found only 16 case forms in the Ismayilli Kryz corpus. 
+Historically, the system of spatial cases consisted of two layers, involving 6 localizations and 3 directions, which yields 18 combinations. The three directions are the unmarked essive (being at a location), the lative (motion towards a location) and the elative (motion from a location). The wide use of spatial postpositions accounts for the fact that some original cases have disappeared. As a consequence, 6 out of 18 expected slots in the paradigm of spatial cases remain unoccupied in Ismayilli Kryz. In Table 2 below, the tags used for row correspond to original localizations for the sake of transparency of relations with cognates in related languages. By contrast, the labels shown in individual cells reflect the glosses used in the dataset below.
 
-Ismailli Kryz grammatical cases and main types of nominal declension 
+Table 2.Spatial cases
 
-NOM	k’ul ‘house’	xu ‘bread’	xuri ‘man’	taǯir ‘merchant’	kum ‘village’ 
-GEN	k’ul-ǯi	xu-ji		xur-a		taǯir-ǯa 		kum 
-ERG	k’ul-ǯi-r	xu-ji-r		xur-a-r	taǯir-ǯi-r 		kum-ur 
-DAT	k’ul-ǯi-z	xu-ji-z	xur-a-z	taǯir-ǯi-z 		kum-uz 
+localization	essive	lative	elative
+IN	*-a* IN/GEN2	-aʕan LAT	-aʕar INEL
+SUPER	-ğ SUPER	-	-ğar SUPEREL
+SUB & PART	-k SUB	-	-kir PART
+AD	-	-van ADR	-var ADEL
+DIR	-	-xvan DIR	-
+APUD	-vas APUD	-	-vas-ar APUDEL
 
-Spatial cases. Historically, the system of spatial cases consisted of two layers, involving 6 localizations and 3 directions (the unmarked essive, the lative and the elative), which yields 18 locative combinations. The wide use of spatial postpositions accounts for the fact that some original cases have disappeared: consequently, a third of the slots are empty in Ismayilli Kryz. The labels chosen aim at transparency in referring to cognates in related languages. 
-Illative forms are obsolete or rare in Ismailli Kryz, while original essive cases have become general “locatives”, i.e. are used with both essive and lative values. Note in particular that for many nouns the ‘superlocative’ has replaced the inessive as a ‘general locative’.
-
-Table Ismailli Kryz spatial case markers 
-ESSIVE	LATIVE	ELATIVE 
-IN			-a(ʕ)		-aʕan		-aʕ-ar 
-SUPER & SUPEREL	-ʁ		-		-ʁ-ar 
-SUB & PART		-k		-		-kir 
-ADR & ADEL		-		-van		-var 
-DIR			-		-χʷan		- 
-APUD & APUDEL	-vas	-			-vas-ar 
+The original lative forms are obsolete or rare in Ismayilli Kryz, while original essive forms have become general “locatives”, i.e. are used with both essive and lative values. Also note that for many nouns the original superessive has replaced the inessive as a ‘general locative’.
 
 ## Verb lemmas
 Verbs are cited by their masdar form, based on the perfective stem, with feminine agreement.
