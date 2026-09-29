@@ -26,7 +26,7 @@ Case marking displays the ergative-nominative alignment, except on personal pron
 Nouns inflect for a rich case paradigm, distinguishing nominative vs. ‘oblique’ cases derived from an oblique stem. Kryz dialects display a tendency to use the originally inessive forms as a new oblique stem and also to use it in the genitive functions. In Ismayilli Kryz, the so-calle “second genitive” (GEN2) coincides with the inessive (“IN”) for nouns denoting human possessors. This semantic difference is made clear in the example below, where the ending *-ca* is used in the inessive function on the noun denoting a place (‘stable’) but in the genitive function on the noun denoting a human referent (‘merchant’). Apart from this, the noun denoting an animal takes an etymologically unrelated genitive ending *-yi*: 
 
 ```
-tacir-ca               balka-yi   qazma-ca            axir-d
+*tacir-ca               balka-yi   qazma-ca            axir-d*
 merchant-OBL.IN/GEN2   horse-GEN  stable-OBL.IN/GEN2  sleep.PFV-AOR(M)
 ‘He slept in the merchant’s horsestables.’
 ```
@@ -46,20 +46,19 @@ Historically, the system of spatial cases consisted of two layers, involving 6 l
 
 Table 2.Spatial cases
 
-| localization | essive          | lative     | elative         |
-| ------------ | --------------- | ---------- | --------------- |
-| IN           | \*\-a\* IN/GEN2 | \*\-aʕan\* LAT | \*\-aʕar\* INEL     |
-| SUPER        | \*\-ğ\* SUPER       | \-         | \*\-ğar\* SUPEREL   |
-| SUB & PART   | \*\-k\* SUB         | \-         | \*\-kir\* PART      |
-| AD           | \-              | \*\-van\* ADR  | \*\-var\* ADEL      |
-| DIR          | \-              | \*\-xvan\* DIR | \-              |
-| APUD         | \*\-vas\* APUD      | \-         | \*\-vasar\* APUDEL |
+| localization | essive          | lative      | elative         |
+| ------------ | --------------- | ----------- | --------------- |
+| IN           | *-a* IN/GEN2    | *-aʕan* LAT | *-aʕar* INEL    |
+| SUPER        | *-ğ* SUPER      | \-          | *-ğar* SUPEREL  |
+| SUB & PART   | *-k* SUB        | \-          | *-kir* PART     |
+| AD           | \-              | *-van* ADR  | *-var* ADEL     |
+| DIR          | \-              | *-xvan* DIR | \-              |
+| APUD         | *-vas* APUD     | \-          | *-vasar* APUDEL |
 
 The original lative forms are obsolete or rare in Ismayilli Kryz, while original essive forms have become general “locatives”, i.e. are used with both essive and lative values. Also note that for many nouns the original superessive has replaced the inessive as a ‘general locative’.
 
 ## Verb lemmas
 Verbs are cited by their masdar form, based on the perfective stem, with feminine agreement.
-
 
 ## Glossing abbreviations
 ADEL — adelative; ADR — addressee case; AOR — aorist; ATTR — attributive; COP — copula; DAT — dative; DIR — directive; ERG — ergative; F — feminine; GEN — genitive; H — human; HAB — habitual; IMP — imperative; IN/GEN2 — inessive / second genitive; INEL — inelative; INS — instrumental; IPF — imperfective; LAT — lative; M — masculine; N — neuter; NEG — negation; OBL — oblique; PF — perfective; PL — plural; PN — person name; PRF — perfect; PRS — present; PTCP — participle; REFL — reflexive; SEQ — sequential; SUPER — superessive; SUPEREL — superelative.
