@@ -24,7 +24,7 @@ Case marking displays the ergative-nominative alignment, except on personal pron
 
 ### Case system
 
-There are 17 case forms in Proper Kryz. The 4 original grammatical cases are nominative, genitive, ergative, dative. The system of spatial cases consists of two layers, involving 5 localizations and 3 directions (the unmarked essive, the lative and the elative). The apudelative and the sublative are lacking, which yields 13 locative combinations. 
+There are 17 case forms in Proper Kryz. The 4 original grammatical cases are nominative, genitive, ergative, dative. The system of spatial cases consists of two layers, involving 5 localizations and 3 directions (the unmarked essive, the lative and the elative). The apudelative and the sublative are lacking, which yields 13 spatial combinations. 
 
 The subelative case is also used in the function of a partitive.
 
