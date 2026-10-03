@@ -6,15 +6,15 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 53	Hungarian	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	elég + COP	DAT	NOM	X	DAT_NOM	Non-verbal predicate.	most Péter-nek van elég pénz-e	now PN-DAT is enough money-POSS.3SG	‘Now Péter has enough money.’			
 53	Hungarian	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	hasonlít	NOM	SUB	Y	NOM_SUB		Péter hasonlít Márton-ra	PN resembles PN-SUB	‘Péter resembles Márton.’			
 53	Hungarian	7	believe	X (believe) Y	верить	X (верить)Y-у	hisz	NOM	DAT	Y	NOM_DAT		Péter hisz Márton-nak	PN believes PN-DAT	‘Péter believes Márton.’			
-53	Hungarian	8	take	X (take) Y	взять	X (брать) Y(-а)	levesz	NOM	ACC	TR	TR		Péter leve-tt egy könyv-et a polc-ról	PN take- PST.INDF.3SG a book-ACC the shelf-DEL	‘Péter took a book from the shelf.’			Same as 96.
+53	Hungarian	8	take	X (take) Y	взять	X (брать) Y(-а)	levesz	NOM	ACC	TR	TR		Péter leve-tt egy könyv-et a polc-ról	PN take-PST.INDF.3SG a book-ACC the shelf-DEL	‘Péter took a book from the shelf.’			Same as 96.
 53	Hungarian	9	see	X (see) Y	видеть	X (видеть) Y(-а)	lát	NOM	ACC	TR	TR		Péter lát egy ház-at	PN sees a house-ACC	‘Péter sees a house.’			
 53	Hungarian	10	influence	X (influence) Y	влиять	X (влиять) на Y(-а)	befolyásol	NOM	ACC	TR	TR		a kor befolyásol-ja a memóriá-t	the age influence-DEF.3SG the memory-ACC	‘Age influences memory.’			
 53	Hungarian	11	encounter	X (encounter) Y	встречаться	X (встречаться) с Y-ом	összefut	NOM	INS	Y	NOM_INS		Péter összefut-ott Márton-nal	PN run.into-PST.INDF.3SG PN-INS	‘Péter encountered Márton.’			
 53	Hungarian	12	enter	X (enter) Y	входить 	X (входить) в Y (дом)	belép	NOM	ILL	Y	NOM_ILL		Péter be-lép-ett a ház-ba	PN in-step-PST.INDF.3SG the house-ILL	‘Péter entered the house.’			Alternatives involve verbs like “be-megy” [in-go] and “be-jön”, both used in the same structure (semantic nuances are like between ’go’ and ’come’).
-53	Hungarian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	legyőz	NOM	ACC	TR	TR		Péter legyőz-t-e Márton-t	PN defeat- PST-DEF.3SG PN-ACC	‘Péter beat Márton.’			
+53	Hungarian	13	win	X (beat) Y	выиграть	X (выигрывать) у Y-а	legyőz	NOM	ACC	TR	TR		Péter legyőz-t-e Márton-t	PN defeat-PST-DEF.3SG PN-ACC	‘Péter beat Márton.’			
 53	Hungarian	14	go_out	X (go out) of Y	выходить	X (выходить) из Y-а	kimegy	NOM	ELA	Y	NOM_ELA		Péter ki-men-t a ház-ból	PN out-go-PST.INDF.3SG the house-ELA	‘Péter went out of the house.’			
 53	Hungarian	15	drive	X (drive) Y	гнать	X (гнать) Y-а	vezet	NOM	ACC	TR	TR		Péter vezet-i a tehen-et	PN lead-DEF.3SG the cow-ACC	‘Péter is driving the cow.’			
-53	Hungarian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	meghajlít 	NOM	ACC	TR	TR		Péter meghajlít-ott-a az ág-at	PN bend.over-PST-DEF.3SG the branch-ACC.	‘Péter bent the branch.’			PFX
+53	Hungarian	16	bend	X (bend) Y	гнуть	X (гнуть) Y	meghajlít 	NOM	ACC	TR	TR		Péter meghajlít-ott-a az ág-at	PN bend.over-PST-DEF.3SG the branch-ACC	‘Péter bent the branch.’			PFX
 53	Hungarian	17	tell	X (tell) Y	говорить	X (говорить) Y-у	mond	NOM	DAT	Y	NOM_DAT		Péter az-t mond-t-a Márton-nak: ...	PN that-ACC say-PST-DEF.3SG PN-DAT	‘Péter told Márton: ...’			
 53	Hungarian	18	hold	X (hold)Y	держать	X (держать) Y(-а)	tart 	NOM	ACC	TR	TR		Péter egy könyv-et tart a kez-é-ben	PN a book-ACC holds the hand-POSS.3SG-INE	‘Péter is holding a book in his hands.’			
 53	Hungarian	19	catch_up	X (catch up) with Y	догнать	X (догонять) Y(-а)	utolér	NOM	ACC	TR	TR		Péter utolér-t-e Márton-t	PN catch.up-PST-DEF.3SG PN-ACC	‘Péter caught up with Márton.’			
@@ -36,12 +36,12 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 53	Hungarian	35	avoid	X (avoid) Y	избегать	X (избегать) Y-а	elkerül	NOM	ACC	TR	TR		Péter elkerül-i Márton-t	PN avoid-DEF.3SG PN-ACC	‘Péter avoids Márton.’			
 53	Hungarian	36	make	X (make) Y	изготовить	X (изготовить) Y	készít	NOM	ACC	TR	TR		Péter készít-ett egy egérfogó-t	PN make-PST.INDF.3SG a mousetrap-ACC 	‘Péter made a mousetrap.’			Alternative is the verb “csinál” used in the same transitive pattern. It has a smore general meaning.
 53	Hungarian	37	make_fun	X (make fun) of Y	издеваться	X (издеваться) над Y-ом	kicsúfol	NOM	ACC	TR	TR		Péter kicsúfol-ja Márton-t	PN make.fun.of-DEF.3SG PN-ACC	‘Péter is making fun of Márton.’			Alternative is the verb “kinevet”, also used in the transitive pattern: “Péter kinevet-i Márton-t.” [Péter laugh.at-DEF.3SG Márton-ACC] Péter is laughing at Márton.
-53	Hungarian	38	have	X (have) Y	иметь	X (иметь) Y	van 	DAT	NOM	X	DAT_NOM		Péter-nek van egy kocsi-ja	PN-DAT is a car-POSS	‘Péter has a car.’			Same verb as in 2,  different pattern
+53	Hungarian	38	have	X (have) Y	иметь	X (иметь) Y	van 	DAT	NOM	X	DAT_NOM		Péter-nek van egy kocsi-ja	PN-DAT is a car-POSS.3SG	‘Péter has a car.’			Same verb as in 2,  different pattern
 53	Hungarian	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	keres 	NOM	ACC	TR	TR		Péter keres-i a kulcsa-i-t	PN look.for-DEF.3SG the key-PL-ACC	‘Péter is looking for his keys.’			
 53	Hungarian	40	paint	X (paint) Y	красить	X (красить) Y	lefest 	NOM	ACC	TR	TR		Péter lefest-ett-e a kerítés-t	PN paint-PST-DEF.3SG the fence-ACC	‘Péter painted the fence.’			
 53	Hungarian	41	bite	X (bite) Y	кусать	X (кусать) Y-а	megharap 	NOM	ACC	TR	TR		egy kutya meg-harap-t-a Péter-t	a dog PFX-bite-PST-DEF.3SG PN-ACC	‘A dog bit Péter.’			PFX
 53	Hungarian	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	elveszt	NOM	ACC	TR	TR		Péter elveszt-ett-e a ház-á-t	PN lose-PST-DEF.3SG the house-POSS.3SG-ACC 	‘Péter lost his house.’			Very close to 103, but the two citation forms are given separately in the dictionary.
-53	Hungarian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	megpróbál elkapni	NOM	ACC	TR	TR		Péter próbál-ja elkap-ni a macská-t	PN try-DEF.3SG catch-INF the cat-ACC	‘Péter is trying to catch the cat.’			CV
+53	Hungarian	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	próbál elkapni	NOM	ACC	TR	TR		Péter próbál-ja elkap-ni a macská-t	PN try-DEF.3SG catch-INF the cat-ACC	‘Péter is trying to catch the cat.’			CV
 53	Hungarian	44	break	X (break) Y	ломать	X (ломать) Y	eltör	NOM	ACC	TR	TR		Péter eltör-t egy bot-ot	PN snap-PST.INDF.3SG a stick-ACC	‘Péter broke a stick.’			
 53	Hungarian	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	hízeleg	NOM	DAT	Y	NOM_DAT		Péter hízeleg Mártá-nak	PN flatters PN-DAT	‘Péter is flattering Márta.’			
 53	Hungarian	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	szeret	NOM	ACC	TR	TR		Péter szeret-i Mártá-t	PN love-DEF.3SG Mártá-ACC	‘Péter loves Márta.’			Same as 129.
@@ -77,11 +77,11 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 53	Hungarian	76	remember	X (remember) Y	помнить	X (помнить) Y-а	emlékszik	NOM	SUB	Y	NOM_SUB		Péter jól emléksz-ik a ház-ra	PN well remember-INDF.3SG the house-SUB	‘Péter remembers the house well.’			
 53	Hungarian	77	help	X (help) Y	помочь	X (помогать) Y-у	segít	NOM	DAT	Y	NOM_DAT		Péter segít-ett Márton-nak	PN help-PST.INDF.3SG PN-DAT	‘Péter helped Márton.’			
 53	Hungarian	78	understand	X (understand) Y	понимать	X (понимать) Y	ért	NOM	ESS	Y	NOM_ESS		Péter ért franciá-ul	PN understands French-ESS	‘Péter understands French.’			
-53	Hungarian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	csap	NOM	ILL	Y	NOM_ILL		villám csap-ott a ház-ba	Lightning hit-PST.INDF.3SG the house-ILL	‘Lightning hit the house.’			
+53	Hungarian	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	csap	NOM	ILL	Y	NOM_ILL		villám csap-ott a ház-ba	lightning hit-PST.INDF.3SG the house-ILL	‘Lightning hit the house.’			
 53	Hungarian	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	megvág mag-POSS-ACC	NOM	INS	Y	NOM_INS		Péter meg-vág-t-a mag-á-t a borotvá-val	PN PFX-cut-PST-DEF.3SG self-POSS.3SG-ACC the razor-INS	‘Péter cut himself with a razor.’			CV. PFX
 53	Hungarian	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	odaragad	NOM	ALL	Y	NOM_ALL		a pohár odaragad-t az asztal-hoz	the glass stick-PST.INDF.3SG the table-ALL	‘The glass got stuck to the table.’			
-53	Hungarian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	veszít	NOM	szembenINS	Y	NOM_szembenINS		Péter veszít-ett Márton-nal szemben 	PN lose-PST.INDF.3SG PN-INS against	‘Péter lost to Márton.’			
-53	Hungarian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	örül 	NOM	DAT	Y	NOM_DAT		Péter örül-t a levél-nek	PN glad-PST.INDF.3SG the letter-DAT	‘Péter was glad about the letter.’			
+53	Hungarian	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	veszít	NOM	INSszemben	Y	NOM_INSszemben		Péter veszít-ett Márton-nal szemben 	PN lose-PST.INDF.3SG PN-INS against	‘Péter lost to Márton.’			
+53	Hungarian	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	örül 	NOM	DAT	Y	NOM_DAT		Péter örül-t a levél-nek	PN be_glad-PST.INDF.3SG the letter-DAT	‘Péter was glad about the letter.’			
 53	Hungarian	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	beszélget	NOM	INS	Y	NOM_INS		Péter Márton-nal beszélget 	PN PN-INS talks.to	‘Péter is speaking with Márton.’			
 53	Hungarian	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	szül	NOM	ACC	TR	TR		Márta fiút szül-t	PN son-ACC give.birth-PST.INDF.3SG	‘Márta gave birth to a son.’			
 53	Hungarian	86	drop	X (drop) Y	ронять	X (ронять) Y	elejt	NOM	ACC	TR	TR		Péter elejt-ett-e a pohar-at	PN drop-PST-DEF.3SG the glass-ACC	‘Péter dropped the glass.’			
@@ -107,7 +107,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 53	Hungarian	106	hit	X (hit) Y	ударить	X (ударять) Y-а	megüt	NOM	ACC	TR	TR		Péter megüt-ött-e Márton-t	PN hit-PST-DEF.3SG PN-ACC	‘Péter hit Márton.’			PFX
 53	Hungarian	107	kiss	X (kiss) Y	целовать	X (целовать) Y-а	megcsókol	NOM	ACC	TR	TR		Péter megcsókol-t-a Mártá-t	PN kiss-PST-DEF.3SG PN-ACC	‘Péter kissed Márta.’			PFX
 53	Hungarian	108	read	X (read) Y	читать	X (читать) Y-а	olvas	NOM	ACC	TR	TR		Péter egy érdekes könyv-et olvas-ott	PN a interesting book-ACC read-PST.INDF.3SG	‘Péter read an interesting book.’			
-53	Hungarian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	mozgat	NOM	ACC	TR	TR		Péter mozgat-ja az ujj-a-i-t	PN move-DEF.3SG the finger-POSS-PL-ACC	‘Péter moved his fingers.’			
+53	Hungarian	109	move#bodypart#	X (move) Y	шевелить	X (шевелить) Y-ом	mozgat	NOM	ACC	TR	TR		Péter mozgat-ja az ujj-a-i-t	PN move-DEF.3SG the finger-POSS-PL-ACC	‘Péter is moving his fingers.’			
 53	Hungarian	110	respect	X (respect) Y	уважать	X (уважать) Y-а	tisztel	NOM	ACC	TR	TR		Péter tisztel-i Márton-t 	PN respect-DEF.3SG PN-ACC	‘Péter respects Márton.’			
 53	Hungarian	111	be_squeamish	X (be squeamish) about Y	брезговать	X (брезговать) Y-ом	kényes + COP	NOM	SUB	Y	NOM_SUB	Non-verbal predicate.	Péter kényes a piszkos edény-ek-re 	PN squeamish the dirty dish-PL-SUB	‘Péter is squeamish about dirty dishes.’			
 53	Hungarian	112	be_content	X (be content) with	быть довольным	X (быть довольным) Y-ом	elégedett + COP	NOM	INS	Y	NOM_INS	Non-verbal predicate.	Péter elégedett a fi-á-val 	PN satisfied the son-POSS.3SG-INS	‘Péter is content with his son.’			
@@ -123,7 +123,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 53	Hungarian	122	have_a_grudge	X (have a grudge) against Y	сердиться	X (сердиться) на Y-а	haragszik	NOM	SUB	Y	NOM_SUB		Péter haragsz-ik Márton-ra	PN be.indignant-INDF.3SSG PN-SUB	‘Péter has a grudge against Márton.’			Same as 128.
 53	Hungarian	123	take_offence	X (take_offence) at Y	обижаться	X (обижаться) на Y-а	megsértődik	NOM	SUB	Y	NOM_SUB		Péter megsértőd-ött Márton-ra	PN take.offence-PST.INDF.3SG PN-SUB	‘Péter took offence at Márton.’			PFX
 53	Hungarian	124	upset	X (upset) Y	огорчать	X (огорчать) Y-а	elszomorít	NOM	ACC	TR	TR		Péter nagyon elszomorít-ott-a Márton-t 	PN very sadden-PST-DEF.3SG PN-ACC	‘Péter greatly upset Márton.’			
-53	Hungarian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	lenyűgöz	*	*	*			Péter-t lenyűgöz-t-e a város	PN-ACC amaze-PST-DEF.3SG the town	‘Péter marvelled at the town.’			Lit. ‘The town amazed Péter’. ACC_NOM
+53	Hungarian	125	marvel	X (marvel) at Y	поражаться	X (поражаться) Y-у	lenyűgöz	ACC	NOM	X	ACC_NOM		Péter-t lenyűgöz-t-e a város	PN-ACC amaze-PST-DEF.3SG the town	‘Péter marvelled at the town.’			Lit. ‘The town amazed Péter’. ACC_NOM
 53	Hungarian	126	despise	X (despise) Y	презирать	X (презирать) Y-а	megvet 	NOM	ACC	TR	TR		Péter megvet-i Márton-t	PN despise-DEF.3SG PN-ACC	‘Péter despises Márton.’			
 53	Hungarian	127	get_upset	X (get upset) with Y	огорчаться	X (огорчаться) из-за Y-а	csalódott + COP	NOM	INE	Y	NOM_INE	Non-verbal predicate.	Péter csalódott a fi-á-ban 	PN disappointed the son-POSS.3SG-INE	‘Péter got disappointed with his son.’			
 53	Hungarian	128	get_irritated	X (get irritated) with Y	раздражаться	X (раздражаться) на Y-а	haragszik 	NOM	SUB	Y	NOM_SUB		Péter haragsz-ik a lány-á-ra	PN be_displeased-INDF.3SSG the daughter-POSS.3SG-SUB	‘Péter is getting irritated with his daughter.’			Same as 122.
