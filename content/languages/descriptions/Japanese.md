@@ -16,3 +16,7 @@ The Japanese data were initially provided and analyzed by Yukari Konuma in her c
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABL — ablative; ACC — accusative; ADV — adverbial; AUX — auxiliary; CAUS — causative; COM — comitative; COP — copula; CVB — converb; DAT — dative; GEN — genitive; HON — honorific; HOR — hortative; IMPFV — imperfective; INS — instrumental; M — masculine; NEG — negative; NOM — nominative; NPST — non-past; PASS — passive; PL — plural; PN — person name; PRON — pronoun; PST — past; QUOT — quotative; RFL — reflexive; SBSTV — substantivizer; SG — singular; SUBST — substantive; TOP — topic; VBZ — verbalizer.
