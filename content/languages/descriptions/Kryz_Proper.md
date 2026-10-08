@@ -34,13 +34,13 @@ Table 1. Case paradigm of Kryz (proper)
 | GEN        | *-ci*, *-a*, etc. | *k’ul-ci*     | *fura*     |
 | DAT        | *-s*              | *k’ul-ci-s*   | *fura-s*   |
 | IN/GEN2    | *-a(ʕ)*           | *k’ul-ca*     | -          |
-| INEL       | *-ʕa-r*           | *k’ul-caʕar*  | -          |
-| INLAT      | *-ʕan*            | *k’ul-caʕan*  | -          |
+| INEL       | *-ʕ-ar*           | *k’ul-caʕar*  | -          |
+| INLAT      | *-ʕ-an*           | *k’ul-caʕan*  | -          |
 | AD         | *-v*              | *k’ul-ci-v*   | *fura-v*   |
 | ADR        | *-v-an*           | -             | *fura-van* |
 | ADEL       | *-v-ar*           | *k’ul-ci-var* | *fura-var* |
 | APUD       | *-ux*             | *k’ul-cox*    | *furo-x*   |
-| DIR        | *-xu-n*           | *k’ul-co-xun* | *furo-xun* |
+| DIR        | *-x-un*           | *k’ul-co-xun* | *furo-xun* |
 | SUB        | *-k*              | *k’ul-ci-k*   | -          |
 | SUBEL      | *-k-ir*           | *k’ul-ci-kir* | *fura-kir* |
 
