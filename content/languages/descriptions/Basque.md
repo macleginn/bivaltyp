@@ -3,7 +3,7 @@ Contributed by [Natalia Zaika](https://iling.spb.ru/persons/zaika-natalya-mikhay
 
 ![N.Z.'s photo]({{ site_url_j }}/images/Zaika.jpg "N.Z.'s photo")
 
-The data were gathered in 2010 and 2013 using the Russian version of the questionnaire.
+The data were gathered in 2010 and 2013 using the French version of the questionnaire.
 
 ## How to cite
 > Zaika, Natalia. 2026. Bivalent patterns in {{ language_external }}. 
