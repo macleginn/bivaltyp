@@ -34,13 +34,13 @@ Tindi spatial cases are based on locative morphemes of which most go back to Pro
 Table 1. Tindi spatial cases 
 |       | essive/lative | elative    | approximate value |
 | ----- | ------------- | ---------- | ----------------- |
-| SUPER | \*-la\*       | \-\*loo\*  | ‘on’              |
-| APUD  | \*-qa\*       | \*-qoo\*   | ‘at, ‘behind’     |
-| INTER | \*-ƛi\*       | \*-ƛoo\*   | ‘in, among’       |
-| SUB   | \*-ƛ’i\*      | \*-ƛ’oo\*  | ‘under’           |
-| CONT  | \*-č’i\*      | \*-č’oo\*  | ‘against’         |
-| AD    | \*-χa\*       | \*-χoo\*   | ‘near’            |
-| IN    | \*-(r)i\*     | \*-(r)oo\* | ‘in, at’          |
+| SUPER | *-la*         | *-loo*     | ‘on’              |
+| APUD  | *-qa*         | *-qoo*     | ‘at, ‘behind’     |
+| INTER | *-ƛi*         | *-ƛoo*     | ‘in, among’       |
+| SUB   | *-ƛ’i*        | *-ƛ’oo*    | ‘under’           |
+| CONT  | *-č’i*        | *-č’oo*    | ‘against’         |
+| AD    | *-χa*         | *-χoo*     | ‘near’            |
+| IN    | *-(r)i*       | *-(r)oo*   | ‘in, at’          |
 
 The ‘apud’ morph is not used with lative value (replaced by the adlative). 
 The series designated as “IN” is used with a closed set of nouns.
