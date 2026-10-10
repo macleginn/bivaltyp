@@ -47,3 +47,7 @@ The series designated as “IN” is used with a closed set of nouns.
 
 ## Verb lemmas
 Verbs are cited in their infinitive form.
+
+## Glossing abbreviations
+
+AD — adessive/adlative; ADD — additive particle; ADEL — adelative; AFF — affirmative; AOR — aorist; APUD — apudessive/apudlative; CAUS — causative; CONT — contessive/contlative; CONTEL — cont-elative; COP — copula; CV — converb; DAT — dative; DEF — definite; EL — elative; ERG — ergative; FOC — focus; GEN — genitive; IN — inessive/inlative; INEL — inelative; INF — infinitive; INTER — interessive/interlative; INTEREL — interelative; IPF — imperfective; ITER — iterative; M — masculine; MSD — masdar; N — neuter; NEG — negation; NM — non-masculine; NOM — nominative; NPL — non-plural; OBL — oblique; ON — localization 'on'; PF — perfective; PL — plural; PN — person name; PROX — proximal; PRS — present; PTCP — participle; REFL — reflexive; SEQ — sequential; SUPER — superessive/superlative; SUPEREL — superelative.
