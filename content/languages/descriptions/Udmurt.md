@@ -17,7 +17,7 @@ The data were provided by Ksenia Shagal in 2017 based on her second-language kno
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
-## Gremmar notes
+## Grammar notes
 
 ### Basic clause structure and the transitive construction
 
