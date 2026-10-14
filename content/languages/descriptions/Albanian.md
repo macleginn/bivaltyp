@@ -1,5 +1,5 @@
 # {{ language_external }}
-Contributed by Varvara Arzt (Diveeva).
+Contributed by [Varvara Arzt (Diveeva)](https://kleines-gespenst.github.io).
 
 The data were gathered in {{ data_collection_year }} using the Russian version of the questionnaire. In 2026, [Alexander Rusakov](https://independent.academia.edu/AlexanderRusakov) made a significant contribution to the dataset by resolving some tricky cases and correcting a few inconsistencies.
 
