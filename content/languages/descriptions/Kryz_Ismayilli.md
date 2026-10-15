@@ -26,9 +26,11 @@ Case marking displays the ergative-nominative alignment, except on personal pron
 Nouns inflect for a rich case paradigm, distinguishing nominative vs. ‘oblique’ cases derived from an oblique stem. Kryz dialects display a tendency to use the originally inessive forms as a new oblique stem and also to use it in the genitive functions. In Ismayilli Kryz, the so-calle “second genitive” (GEN2) coincides with the inessive (“IN”) for nouns denoting human possessors. This semantic difference is made clear in the example below, where the ending *-ca* is used in the inessive function on the noun denoting a place (‘stable’) but in the genitive function on the noun denoting a human referent (‘merchant’). Apart from this, the noun denoting an animal takes an etymologically unrelated genitive ending *-yi*: 
 
 ```
-*tacir-ca               balka-yi   qazma-ca            axir-d*
-merchant-OBL.IN/GEN2   horse-GEN  stable-OBL.IN/GEN2  sleep.PFV-AOR(M)
-‘He slept in the merchant’s horsestables.’
+
+(1)  tacir-ca               balka-yi   qazma-ca            axir-d
+     merchant-OBL.IN/GEN2   horse-GEN  stable-OBL.IN/GEN2  sleep.PFV-AOR(M)
+     ‘He slept in the merchant’s horsestables.’
+
 ```
 
 Overall, there are only 16 case forms registered in the Ismayilli Kryz corpus. Out of these, four cases are “grammatical cases” and 12 cases are spatial cases. The markers of grammatical cases distributed across the main types of nominal declension are shown in Table 1.
