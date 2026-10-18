@@ -15,3 +15,7 @@ The data were gathered in 2025. Magomed Latipov provided the translations in the
 - Coordinates: {{ coord_map_link }}.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS}}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
+
+## Glossing abbreviations
+
+ABL — ablative; ABS — absolutive; ADD — additive; ALL — allative; APUD — apud-localization; ATTR — attributive; CAUS — causative; CMPR — comparative; CONT — cont-localization; COP — copula; CVB — converb; DAT — dative; DEF — definite; ERG — ergative; F — feminine; GEN — genitive; GNT — going-verb formative; HPL — human plural; I — gender i; II — gender ii; III — gender iii; IMPF — imperfective; IN — inessive; INF — infinitive; IV — gender iv; LAT — lative; NEG — negative; NHPL — non-human plural; OBL — oblique; PL — plural; PN — proper name; POSS — possessive; PRS — present; PST — past; PTCP — participle; PURP — purposive; SG — singular; SUB — sublative; SUP — super-localization; SUPER — super-localization; UW — unwitnessed; V — verb; W> — witnessed (tentative; needs verification).
