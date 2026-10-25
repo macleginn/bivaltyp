@@ -54,7 +54,9 @@ For these cases we ran a questionnaire survey with 15 native speakers. Each clau
 To determine which argument is the subject, we used exaltation, i.e. the ability of an argument to control honorific and humble forms of the predicate. This is a standard subjecthood diagnostic for Japanese (Shibatani 1990). We use “exaltation” as an umbrella term for both honorification and humility. In the labels of valency patterns, (EXALT) and (NO.EXALT) indicate whether an argument does or does not control exaltation. For example:
 
 •	In NOM_NOM(NO.EXALT) (#3), both arguments are in the nominative, but only X behaves as a subject.
+
 •	In DAT(EXALT)\_NOM(NO.EXALT) (#93), the dative experiencer is the subject.
+
 •	In NOM(NO.EXALT)\_NOM (#1), the subject is the nominative Y.
 
 Only the NOM\_ACC pattern is classified as transitive (TR).
@@ -64,14 +66,23 @@ Only the NOM\_ACC pattern is classified as transitive (TR).
 Case is marked by enclitic postpositional particles. Ten cases are distinguished:
 
 •	nominative *ga*
+
 •	accusative *o*
+
 •	dative *ni*
+
 •	genitive *no* (adnominal only)
+
 •	instrumental *de*
+
 •	comitative *to*
+
 •	ablative *kara*
+
 •	allative *e*
+
 •	terminative *made*
+
 •	comparative *yori*
 
 The particle *to* also introduces quotations, hence the label QUOT (#51). The topic marker *wa* and the focal particle *mo* are not treated as cases. The complex marker *N no koto o* ‘the matter of N’ is treated as a separate encoding device (pattern NOM\_no.koto.o, #25).
