@@ -25,19 +25,25 @@ The data are presented in modified Hepburn romanisation. Long vowels are marked 
 
 Japanese is a verb-final language with dependent marking. Grammatical relations are expressed by postpositional particles (case markers), and the verb does not index its arguments. In the basic transitive construction, the A-argument is marked by the nominative *ga* and the P-argument by the accusative *o*, as in (1).
 
-(1) Tarō ga  ishi  o   nage-ta
-PN   NOM stone ACC throw-PST
-‘Tarō threw a stone.’
+```
+(1)  Tarō  ga   ishi   o    nage-ta
+     PN    NOM  stone  ACC  throw-PST
+     ‘Tarō threw a stone.’
+
+```
 
 The main difficulty in identifying valency patterns in Japanese comes from the topic marker *wa*. A topicalised argument that would otherwise be marked by *ga* or *o* loses its case marker and is marked by *wa* alone, as in (2). Other case markers may be retained and combine with *wa*, as in (3).
 
-(2) Tarō wa  ringo o   tabe-ta
-    PN   TOP apple ACC eat-PST
-‘Tarō ate an apple.’
+```
+(2)  Tarō  wa   ringo  o    tabe-ta
+     PN    TOP  apple  ACC  eat-PST
+     ‘Tarō ate an apple.’
 
-(3) Tarō ni  wa  furansu-go      ga  wakar-u
-    PN   DAT TOP France-language NOM understand-NPST
-‘Tarō understands French.’
+(3)  Tarō  ni   wa   furansu-go       ga   wakar-u
+     PN    DAT  TOP  France-language  NOM  understand-NPST
+     ‘Tarō understands French.’
+
+```
 
 The most natural rendering of most questionnaire sentences topicalises the X-argument. As a result, a single example does not always show how the verb would encode its arguments in a neutral context. The valency patterns in the database reflect this neutral, non-topicalised encoding rather than the surface form of the example cited.
 
