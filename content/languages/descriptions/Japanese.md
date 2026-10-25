@@ -19,4 +19,4 @@ The Japanese data were initially provided and analyzed by Yukari Konuma in her c
 
 ## Glossing abbreviations
 
-ABL — ablative; ACC — accusative; ADV — adverbial; AUX — auxiliary; CAUS — causative; COM — comitative; COP — copula; CVB — converb; DAT — dative; GEN — genitive; HON — honorific; HOR — hortative; IMPFV — imperfective; INS — instrumental; M — masculine; NEG — negative; NOM — nominative; NPST — non-past; PASS — passive; PL — plural; PN — person name; PRON — pronoun; PST — past; QUOT — quotative; RFL — reflexive; SBSTV — substantivizer; SG — singular; SUBST — substantive; TOP — topic; VBZ — verbalizer.
+ABL — ablative; ACC — accusative; ADV — adverbial; AUX — auxiliary; CAUS — causative; COM — comitative; COP — copula; CVB — converb; DAT — dative; GEN — genitive; HON — honorific; HOR — hortative; IMPFV — imperfective; INS — instrumental; NEG — negative; NMLZ — nominaliser; NOM — nominative; NPST — non-past; PASS — passive; PL — plural; PN — person name; PST — past; QUOT — quotative; SG — singular; TOP — topic; VBZ — verbalizer.
