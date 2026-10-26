@@ -18,4 +18,6 @@ The data were gathered in {{ data_collection_year }} from {{ consultant }} and r
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+## Glossing abbreviations
 
+ACT — active; ADVS — adverbial suffix; APPL — applicative; BER — ?; CL — classifier; EXCL — exclusive; F — feminine; I — instrumental; INAN — inanimate; LOC — locative; NEG — negation; NMLZ — nominalizer; PASS — passive; PER — person; PL — plural; PN — proper name; REL — relative; RPL — replacive; SG — singular; SUPLAT — superlative; TER — terminative; TRNS — transitive.
