@@ -20,4 +20,4 @@ The data were gathered in {{ data_collection_year }} from {{ consultant }} and r
 
 ## Glossing abbreviations
 
-ACT — active; ADVS — adverbial suffix; APPL — applicative; BER — ?; CL — classifier; EXCL — exclusive; F — feminine; I — instrumental; INAN — inanimate; LOC — locative; NEG — negation; NMLZ — nominalizer; PASS — passive; PER — person; PL — plural; PN — proper name; REL — relative; RPL — replacive; SG — singular; SUPLAT — superlative; TER — terminative; TRNS — transitive.
+ACT — actor voice; ADVS — adversative; APPL — applicative; BER — prefix *ber*; CL — classifier; EXCL — exclusive; INAN — inanimate; LOC — locative; NEG — negation; NMLZ — nominalizer; PASS — passive; PER — prefix *per*; PL — plural; PN — person name; REL — relative; RPL — reduplication; SG — singular; SUPLAT — superlative; TER — prefix *ter*; TRNS — transitive.
