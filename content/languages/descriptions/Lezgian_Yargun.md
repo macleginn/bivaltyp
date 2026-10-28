@@ -26,8 +26,8 @@ There are two morphological classes of synthetic verbs: ‘weak’ and ‘strong
 
 |     |             | optative stem   | imperfective stem   | perfective stem   |
 | --- | ----------- | --------------- | ------------------- | ----------------- |
-| (1) | ‘to read’   | *k’el-*         | *k’el-              | *k’el-*           |
-| (2) | ‘to bring’  | *ğ-u-*          | *ğ-i-               | *ğ-a-*            |
+| (1) | ‘to read’   | *k’el-*         | *k’el-*             | *k’el-*           |
+| (2) | ‘to bring’  | *ğ-u-*          | *ğ-i-*              | *ğ-a-*            |
 | (3) | ‘to become’ | *xh-u-*         | *j-e-*              | *xh-a-*           |
 
 ### Case system
