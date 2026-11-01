@@ -59,7 +59,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 29	English	58	like	X (like) Y	нравиться	X-у (нравиться) Y	like	SBJ	DO	TR	TR		Peter likes this shirt.	 	 			
 29	English	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	need	SBJ	DO	TR	TR		Peter needs money.	 	 			
 29	English	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	surround	SBJ	DO	TR	TR		Walls surround the city.	 	 			
-29	English	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	have left	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination.	Peter has 10 euros left.	 	 			
+29	English	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	have left	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination.	Peter has ten euros left.	 	 			
 29	English	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	answer	SBJ	DO	TR	TR		Peter answered the teacher.	 	 			
 29	English	63	open	X (open) Y	открывать	X (открывать) Y	open	SBJ	DO	TR	TR		Peter opened a can.	 	 			
 29	English	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	be different	SBJ	from	Y	SBJ_from	Non-verbal predicate.	No, my shirt is different from yours.	 	 			
@@ -97,8 +97,8 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 29	English	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	take off	SBJ	DO	TR	TR		Peter took off his shirt.	 	 			phrasal verb
 29	English	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	dream	SBJ	about	Y	SBJ_about		Peter dreams about Mary.	 	 			Same as 48.
 29	English	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	agree	SBJ	with	Y	SBJ_with		Peter agreed with Mary.	 	 			
-29	English	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	have quarrel	SBJ	with	Y	SBJ_with		Peter had a quarrel with Mary.	 	 			CV
-29	English	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	cost	SBJ	DO	TR	TR		This cup costs 1 euro.	 	 			
+29	English	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	have a quarrel	SBJ	with	Y	SBJ_with		Peter had a quarrel with Mary.	 	 			CV
+29	English	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	cost	SBJ	DO	TR	TR		This cup costs one euro.	 	 			
 29	English	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	shoot	SBJ	at	Y	SBJ_at		Peter shot at the bird.	 	 			
 29	English	102	pour	X (pour) Y	сыпать	X (сыпать) Y	pour	SBJ	DO	TR	TR		Peter poured the sugar into the cup.	 	 			
 29	English	103	lose	X (lose) Y	терять	X (терять) Y	lose	SBJ	DO	TR	TR		Peter lost his keys.	 	 			Same as 42 and 82.
