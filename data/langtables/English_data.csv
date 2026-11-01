@@ -1,9 +1,9 @@
 language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate_label_ru	argument_frame_ru	verb	X	Y	locus	valency_pattern	comms	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comms_internal
-29	English	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	have X-ache	*	*	*		Not included in the database because Y is expressed as part of a nominal compound.	Peter has a headache.	 	 			
+29	English	1	feel_pain	X (have) Yache	болеть-1	у X-а (болеть) Y	have X-ache	*	*	*		Not included in the database because Y is expressed as part of a nominal compound.	Peter has a headache.	 	 			CV
 29	English	2	have#illness#	X (have) Y	болеть-2	X (болеть) Y-ом	have	SBJ	DO	TR	TR		Peter has the flu.	 	 			Same as 38.
 29	English	3	be_afraid	X (be afraid) of Y	бояться	X (бояться) Y-а	be afraid	SBJ	of	Y	SBJ_of	Non-verbal predicate.	Peter is afraid of the dog.	 	 			
 29	English	4	throw	X (throw) Y	бросить	X (бросить) Y(-а)	throw	SBJ	DO	TR	TR		Peter threw a stone first.	 	 			
-29	English	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	have enough	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).	Now Peter has enough money.	 	 			
+29	English	5	have_enough	X (have enough) Y	быть достаточно	X-у (хватать) Y-а	have enough	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination (predicate + adnominal modifier).	Now Peter has enough money.	 	 			CV
 29	English	6	resemble	X (resemble) Y	быть похожим	X (быть похожим) на Y(-а)	resemble	SBJ	DO	TR	TR		Peter resembles Mary.	 	 			
 29	English	7	believe	X (believe) Y	верить	X (верить)Y-у	believe	SBJ	DO	TR	TR		Peter believes Mary.	 	 			
 29	English	8	take	X (take) Y	взять	X (брать) Y(-а)	take	SBJ	DO	TR	TR		Peter took a book from the shelf.	 	 			
@@ -40,13 +40,13 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 29	English	39	look_for	X (look for) Y	искать	X (искать) Y(-а)	look	SBJ	for	Y	SBJ_for		Peter is looking for his keys.	 	 			Same verb as 95 (different pattern)
 29	English	40	paint	X (paint) Y	красить	X (красить) Y	paint	SBJ	DO	TR	TR		Peter painted the fence.	 	 			
 29	English	41	bite	X (bite) Y	кусать	X (кусать) Y-а	bite	SBJ	DO	TR	TR		A dog bit Peter.	 	 			
-29	English	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	lose	SBJ	DO	TR	TR		Peter lost his house.	 	 			Same as 82 and 103.
+29	English	42	forfeit	X (lose) Y	лишаться	X (лишаться) Y-а	lose	SBJ	DO	TR	TR		Peter lost his house.	 	 			Same as 103, same verb (but different pattern) as in 82.
 29	English	43	try_to_catch	X (try to catch) Y	ловить	X (ловить) Y(-а)	try to catch	SBJ	DO	TR	TR		Peter is trying to catch the cat.	 	 			CV
 29	English	44	break	X (break) Y	ломать	X (ломать) Y	break	SBJ	DO	TR	TR		Peter broke a stick.	 	 			
 29	English	45	flatter	X (flatter) Y	льстить	X (льстить) Y-у	flatter	SBJ	DO	TR	TR		Peter is flattering Mary.	 	 			
 29	English	46	love1	X (love) Y	любить-1	X (любить) Y-а (сына)	love	SBJ	DO	TR	TR		Peter loves Mary.	 	 			Same as 119.
 29	English	47	wave	X (wave) Y	махать	X (махать) Y-ом	wave	SBJ	DO	TR	TR		Peter is waving a handkerchief.	 	 			
-29	English	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dream	SBJ	of	Y	SBJ_of		Peter is dreaming of a new car.	 	 			Same as 97. Есть такое различие, что "dream of" это мечтать, а "dream about" -- видеть во сне
+29	English	48	dream	X (dream) of Y	мечтать	X (мечтать) об Y-е	dream	SBJ	of	Y	SBJ_of		Peter is dreaming of a new car.	 	 			Same verb as 97, different pattern. Есть такое различие, что "dream of" это мечтать, а "dream about" -- видеть во сне
 29	English	49	wash	X (wash) Y	мыть	X (мыть) Y	wash	SBJ	DO	TR	TR		Peter washed the cup.	 	 			
 29	English	50	put_on	X (put_on) Y	надевать	X (надевать) Y	put on	SBJ	DO	TR	TR		Peter put on his trousers.	 	 			phrasal verb
 29	English	51	be_called	X (be_called) Y	называться	X (называться) Y	be called	SBJ	BARE	Y	SBJ_BARE	Passive.	This tool is called a compass.	 	 			
@@ -59,7 +59,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 29	English	58	like	X (like) Y	нравиться	X-у (нравиться) Y	like	SBJ	DO	TR	TR		Peter likes this shirt.	 	 			
 29	English	59	need	X (need) Y	нуждаться	X (нуждаться) в Y-е	need	SBJ	DO	TR	TR		Peter needs money.	 	 			
 29	English	60	surround	X (surround) Y	окружать	X (окружать) Y (стена город)	surround	SBJ	DO	TR	TR		Walls surround the city.	 	 			
-29	English	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	have left	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination.	Peter has ten euros left.	 	 			
+29	English	61	remain	X (have) Y left	оставаться	у X-а (оставаться) Y	have left	*	*	*		Not included in the database because the intended meaning is expressed by a structurally discontinuous combination.	Peter has ten euros left.	 	 			CV
 29	English	62	answer	X (answer) Y	отвечать	X (отвечать) Y-у	answer	SBJ	DO	TR	TR		Peter answered the teacher.	 	 			
 29	English	63	open	X (open) Y	открывать	X (открывать) Y	open	SBJ	DO	TR	TR		Peter opened a can.	 	 			
 29	English	64	be_different	X (be different) from Y	отличаться	X (отличаться) от Y-а	be different	SBJ	from	Y	SBJ_from	Non-verbal predicate.	No, my shirt is different from yours.	 	 			
@@ -80,7 +80,7 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 29	English	79	hit#target#	X (hit) Y	попасть	X (попадать) в Y (молния в дом)	hit	SBJ	DO	TR	TR		Lightning hit the house.	 	 			Same as 106. JN: предложила struck как вариант (вроде в той же мере распространено)
 29	English	80	cut_oneself	X (cut oneself) with Y	порезаться	X (резаться) Y-ом	cut oneself	SBJ	with	Y	SBJ_with		Peter cut himself with a razor.	 	 			CV.
 29	English	81	get_stuck	X (get stuck) to Y	прилипать	X (прилипать) к Y-у	get stuck	SBJ	to	Y	SBJ_to	Get-passive.	The glass got stuck to the table.	 	 			
-29	English	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	lose	SBJ	to	Y	SBJ_to		Peter lost to Mary.	 	 			Same as 42 and 103.
+29	English	82	lose#game#	X (lose) to Y	проиграть	X (проиграть) Y-у	lose	SBJ	to	Y	SBJ_to		Peter lost to Mary.	 	 			Same verb (but different pattern) as 42 and 103.
 29	English	83	be_glad	X (be glad) about Y	радоваться	X (радоваться) Y-у	be glad	SBJ	about	Y	SBJ_about	Non-verbal predicate.	Peter was glad about the letter.	 	 			JN: Еще вариант (P. was glad to get the letter). REJOICE:    This is archaic (mostly Biblical).  Phrasal alternatives also include "happy to see", "happy to get"
 29	English	84	speak	X (speak) with Y	разговаривать	X (разговаривать) с Y-ом	speak	SBJ	with	Y	SBJ_with		Peter is speaking with Mary.	 	 			
 29	English	85	give_birth	X (give birth) to Y	рожать	X (рожать) Y-а	give birth	SBJ	to	Y	SBJ_to		Mary gave birth to a son.	 	 			CV
@@ -95,13 +95,13 @@ language_no	language	predicate_no	predicate_label_en	argument_frame_en	predicate
 29	English	94	mix	X (get mixed) with Y	смешаться	X (смешаться) с Y-ом	get mixed	SBJ	with	Y	SBJ_with	Get-passive.	The honey got mixed with the milk.	 	 			
 29	English	95	look	X (look) at Y	смотреть	X (смотреть) на Y	look	SBJ	at	Y	SBJ_at		Peter is looking at the clouds.	 	 			Same verb as 39 (different pattern)
 29	English	96	take_off	X (take off) Y	снимать	X (снимать) Y (рубашку)	take off	SBJ	DO	TR	TR		Peter took off his shirt.	 	 			phrasal verb
-29	English	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	dream	SBJ	about	Y	SBJ_about		Peter dreams about Mary.	 	 			Same as 48.
+29	English	97	dream#sleeping#	X (dream) about Y	сниться	X-у (сниться) Y	dream	SBJ	about	Y	SBJ_about		Peter dreams about Mary.	 	 			Same verb as 48, different pattern.
 29	English	98	agree	X (agree) with Y	соглашаться	X (соглашаться) с Y-ом	agree	SBJ	with	Y	SBJ_with		Peter agreed with Mary.	 	 			
 29	English	99	have_a_quarrel	X (have a quarrel) with Y	ссориться	X (ссориться) с кем Y	have a quarrel	SBJ	with	Y	SBJ_with		Peter had a quarrel with Mary.	 	 			CV
 29	English	100	cost	X (cost) Y	стоить	X (стоить) Y (один доллар)	cost	SBJ	DO	TR	TR		This cup costs one euro.	 	 			
 29	English	101	shoot_at	X (shoot) at Y	стрелять	X (стрелять) в Y-а	shoot	SBJ	at	Y	SBJ_at		Peter shot at the bird.	 	 			
 29	English	102	pour	X (pour) Y	сыпать	X (сыпать) Y	pour	SBJ	DO	TR	TR		Peter poured the sugar into the cup.	 	 			
-29	English	103	lose	X (lose) Y	терять	X (терять) Y	lose	SBJ	DO	TR	TR		Peter lost his keys.	 	 			Same as 42 and 82.
+29	English	103	lose	X (lose) Y	терять	X (терять) Y	lose	SBJ	DO	TR	TR		Peter lost his keys.	 	 			Same as 42, same verb (but different pattern) as in 82.
 29	English	104	sink	X (sink) in Y	тонуть	X (тонуть) в Y-е	sink	SBJ	in	Y	SBJ_in		The log sank in the water.	 	 			
 29	English	105	kill	X (kill) Y	убивать	X (убивать) Y-а	kill	SBJ	DO	TR	TR		Peter killed Mary.	 	 			
 29	English	106	hit	X (hit) Y	ударить	X (ударять) Y-а	hit	SBJ	DO	TR	TR		Peter hit Mary.	 	 			Same 79.
