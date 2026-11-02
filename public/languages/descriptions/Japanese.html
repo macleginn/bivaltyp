@@ -134,7 +134,9 @@
 
 <p><img src="https://bivaltyp.info/images/Kuznetsov.JPG" alt="A.K.'s photo" title="A.K.'s photo" /></p>
 
-<p>The Japanese data were initially provided and analyzed by Yukari Konuma in her capacity as a native speaker in 2011. The Russian version of the questionnaire was used at this stage. In 2026, the dataset was significantly reannotated based on Artemii Kuznetsov’s input, including corpus evidence, elicitation from native speakers, etc. The English version of the questionnaire was used at this stage.</p>
+<p>The Japanese data were initially provided and analyzed by Yukari Konuma in her capacity as a native speaker in 2011. The Russian version of the questionnaire was used at this stage. In 2026, the dataset was significantly reannotated based on Artemii Kuznetsov’s input, including corpus evidence, elicitation from native speakers, etc. The English version of the questionnaire was used at this stage. </p>
+
+<p>The data are presented in modified Hepburn romanisation. Long vowels are marked with a macron (<em>Tarō</em>, <em>kōkan</em>), except for long <em>i</em> in native words, which is written <em>ii</em> (<em>utsukushii</em>). Morpheme boundaries within verbal and adjectival forms are marked by hyphens.</p>
 
 <h2>How to cite</h2>
 
@@ -142,7 +144,7 @@
   <p>Konuma, Yukari &amp; Artemii Kuznetsov. 2026. Bivalent patterns in Japanese. 
   In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. 
   (Data first published on June 11, 2026; 
-  last revised on October 5, 2026.) (Available online at <a href="https://bivaltyp.info/">https://bivaltyp.info</a>, 
+  last revised on October 26, 2026.) (Available online at <a href="https://bivaltyp.info/">https://bivaltyp.info</a>, 
   Accessed on <span id="today"></span>.)</p>
 </blockquote>
 
@@ -154,9 +156,85 @@
 <li>Macro-area: East and Southeast Asia.</li>
 </ul>
 
+<h2>Grammar notes</h2>
+
+<h3>Basic clause structure and the transitive construction</h3>
+
+<p>Japanese is a verb-final language with dependent marking. Grammatical relations are expressed by postpositional particles (case markers), and the verb does not index its arguments. In the basic transitive construction, the A-argument is marked by the nominative <em>ga</em> and the P-argument by the accusative <em>o</em>, as in (1).</p>
+
+<pre><code>(1)  Tarō  ga   ishi   o    nage-ta
+     PN    NOM  stone  ACC  throw-PST
+     ‘Tarō threw a stone.’
+
+</code></pre>
+
+<p>The main difficulty in identifying valency patterns in Japanese comes from the topic marker <em>wa</em>. A topicalised argument that would otherwise be marked by <em>ga</em> or <em>o</em> loses its case marker and is marked by <em>wa</em> alone, as in (2). Other case markers may be retained and combine with <em>wa</em>, as in (3).</p>
+
+<pre><code>(2)  Tarō  wa   ringo  o    tabe-ta
+     PN    TOP  apple  ACC  eat-PST
+     ‘Tarō ate an apple.’
+
+(3)  Tarō  ni   wa   furansu-go       ga   wakar-u
+     PN    DAT  TOP  France-language  NOM  understand-NPST
+     ‘Tarō understands French.’
+
+</code></pre>
+
+<p>The most natural rendering of most questionnaire sentences topicalises the X-argument. As a result, a single example does not always show how the verb would encode its arguments in a neutral context. The valency patterns in the database reflect this neutral, non-topicalised encoding rather than the surface form of the example cited.</p>
+
+<p>For most verbs the neutral encoding is easy to establish. It is less clear for predicates that take two non-oblique arguments, mostly experiential verbs and adjectives, e.g. <em>kowai</em> ‘be afraid’ (#3), <em>suki da</em> ‘love’ (#46) and <em>kikoeru</em> ‘hear’ (#93). In neutral contexts these predicates occur in double-nominative (<em>ga … ga</em>) or dative-nominative (<em>ni … ga</em>) constructions.</p>
+
+<p>For these cases we ran a questionnaire survey with 15 native speakers. Each clause in question was embedded in a relative clause, a context that disallows the topic marker, and speakers chose between the possible encodings. Further doubtful cases, where competing constructions exist, were checked against the Balanced Corpus of Contemporary Written Japanese (BCCWJ; Maekawa et al. 2014). The survey results and corpus counts are summarised in the database-internal comments to the relevant items.</p>
+
+<p>To determine which argument is the subject, we used exaltation, i.e. the ability of an argument to control honorific and humble forms of the predicate. This is a standard subjecthood diagnostic for Japanese (Shibatani 1990). We use “exaltation” as an umbrella term for both honorification and humility. In the labels of valency patterns, (EXALT) and (NO.EXALT) indicate whether an argument does or does not control exaltation. For example:</p>
+
+<p>•   In NOM_NOM(NO.EXALT) (#3), both arguments are in the nominative, but only X behaves as a subject.</p>
+
+<p>•   In DAT(EXALT)_NOM(NO.EXALT) (#93), the dative experiencer is the subject.</p>
+
+<p>•   In NOM(NO.EXALT)_NOM (#1), the subject is the nominative Y.</p>
+
+<p>Only the NOM_ACC pattern is classified as transitive (TR).</p>
+
+<h3>Case system</h3>
+
+<p>Case is marked by enclitic postpositional particles. Ten cases are distinguished:</p>
+
+<p>•   nominative <em>ga</em></p>
+
+<p>•   accusative <em>o</em></p>
+
+<p>•   dative <em>ni</em></p>
+
+<p>•   genitive <em>no</em> (adnominal only)</p>
+
+<p>•   instrumental <em>de</em></p>
+
+<p>•   comitative <em>to</em></p>
+
+<p>•   ablative <em>kara</em></p>
+
+<p>•   allative <em>e</em></p>
+
+<p>•   terminative <em>made</em></p>
+
+<p>•   comparative <em>yori</em></p>
+
+<p>The particle <em>to</em> also introduces quotations, hence the label QUOT (#51). The topic marker <em>wa</em> and the focal particle <em>mo</em> are not treated as cases. The complex marker <em>N no koto o</em> ‘the matter of N’ is treated as a separate encoding device (pattern NOM_no.koto.o, #25).</p>
+
+<h2>Verb lemmas</h2>
+
+<p>Verbs and adjectives are cited in their dictionary (non-past affirmative) form, adjectival nouns with the copula <em>da</em>, and verbal nouns with the light verb <em>suru</em>.</p>
+
+<h2>References</h2>
+
+<p>Maekawa, Kikuo, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka &amp; Yasuharu Den. 2014. Balanced corpus of contemporary written Japanese. Language Resources and Evaluation 48(2). 345–371.</p>
+
+<p>Shibatani, Masayoshi. 1990. The languages of Japan. Cambridge: Cambridge University Press.</p>
+
 <h2>Glossing abbreviations</h2>
 
-<p>ABL — ablative; ACC — accusative; ADV — adverbial; AUX — auxiliary; CAUS — causative; COM — comitative; COP — copula; CVB — converb; DAT — dative; GEN — genitive; HON — honorific; HOR — hortative; IMPFV — imperfective; INS — instrumental; M — masculine; NEG — negative; NOM — nominative; NPST — non-past; PASS — passive; PL — plural; PN — person name; PRON — pronoun; PST — past; QUOT — quotative; RFL — reflexive; SBSTV — substantivizer; SG — singular; SUBST — substantive; TOP — topic; VBZ — verbalizer.</p>
+<p>ABL — ablative; ACC — accusative; ADV — adverbial; AUX — auxiliary; CAUS — causative; COM — comitative; COP — copula; CVB — converb; DAT — dative; GEN — genitive; HON — honorific; HOR — hortative; IMPFV — imperfective; INS — instrumental; NEG — negative; NMLZ — nominaliser; NOM — nominative; NPST — non-past; PASS — passive; PL — plural; PN — person name; PST — past; QUOT — quotative; SG — singular; TOP — topic; VBZ — verbalizer.</p>
 
 <h2>Data</h2>
 
@@ -301,7 +379,7 @@
                             <span class="gloss">dat</span>
                         </td>
                         <td class="example-gloss">
-                            <span>come.down.with-</span>
+                            <span>come_down_with-</span>
                             <span class="gloss">cvb</span>
                             <span>-</span>
                             <span class="gloss">aux</span>
@@ -312,7 +390,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo has the flu.’</td>
+                        <td colspan="5" class="example-translation">‘Taro has the flu.’</td>
                     </tr>
                 </table>
             </div>
@@ -435,7 +513,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo threw a stone.’</td>
+                        <td colspan="5" class="example-translation">‘Taro threw a stone.’</td>
                     </tr>
                 </table>
             </div>
@@ -504,7 +582,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo has enough money.’</td>
+                        <td colspan="7" class="example-translation">‘Taro has enough money.’</td>
                     </tr>
                     <tr>
                         <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
@@ -573,7 +651,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo resembles Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro resembles Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -639,7 +717,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo believes Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro believes Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -699,7 +777,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo took a book.’</td>
+                        <td colspan="5" class="example-translation">‘Taro took a book.’</td>
                     </tr>
                 </table>
             </div>
@@ -769,7 +847,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo sees a house.’</td>
+                        <td colspan="6" class="example-translation">‘Taro sees a house.’</td>
                     </tr>
                 </table>
             </div>
@@ -894,7 +972,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo encountered Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro encountered Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -954,7 +1032,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo entered the house.’</td>
+                        <td colspan="5" class="example-translation">‘Taro entered the house.’</td>
                     </tr>
                 </table>
             </div>
@@ -1014,7 +1092,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo beat Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro beat Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -1074,7 +1152,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo went out of the house.’</td>
+                        <td colspan="5" class="example-translation">‘Taro went out of the house.’</td>
                     </tr>
                 </table>
             </div>
@@ -1140,7 +1218,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is driving the cow.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is driving the cow.’</td>
                     </tr>
                 </table>
             </div>
@@ -1200,7 +1278,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo bent the branch.’</td>
+                        <td colspan="5" class="example-translation">‘Taro bent the branch.’</td>
                     </tr>
                 </table>
             </div>
@@ -1260,7 +1338,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo told Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro told Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -1326,7 +1404,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is holding a book.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is holding a book.’</td>
                     </tr>
                 </table>
             </div>
@@ -1386,7 +1464,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo caught up with Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro caught up with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -1454,7 +1532,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo milked the cow.’</td>
+                        <td colspan="7" class="example-translation">‘Taro milked the cow.’</td>
                     </tr>
                     <tr>
                         <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP-internal modifier.</td>
@@ -1517,7 +1595,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo reached the bank.’</td>
+                        <td colspan="5" class="example-translation">‘Taro reached the bank.’</td>
                     </tr>
                 </table>
             </div>
@@ -1577,7 +1655,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo touched the wall.’</td>
+                        <td colspan="5" class="example-translation">‘Taro touched the wall.’</td>
                     </tr>
                 </table>
             </div>
@@ -1648,7 +1726,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo is fighting with Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro is fighting with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -1720,7 +1798,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo is friends with Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro is friends with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -1794,7 +1872,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo is thinking about Hanako.’</td>
+                        <td colspan="7" class="example-translation">‘Taro is thinking about Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -1854,7 +1932,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo ate an apple.’</td>
+                        <td colspan="5" class="example-translation">‘Taro ate an apple.’</td>
                     </tr>
                 </table>
             </div>
@@ -1914,7 +1992,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo fried the fish.’</td>
+                        <td colspan="5" class="example-translation">‘Taro fried the fish.’</td>
                     </tr>
                 </table>
             </div>
@@ -1980,7 +2058,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is waiting for Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is waiting for Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -2048,7 +2126,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo forgot the other road.’</td>
+                        <td colspan="7" class="example-translation">‘Taro forgot the other road.’</td>
                     </tr>
                 </table>
             </div>
@@ -2168,7 +2246,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo called Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro called Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -2207,7 +2285,7 @@
                         <td class="example-word">wa</td>
                         <td class="example-word">Hanako</td>
                         <td class="example-word">to</td>
-                        <td class="example-word">ichinen</td>
+                        <td class="example-word">ichi-nen</td>
                         <td class="example-word">mae</td>
                         <td class="example-word">ni</td>
                         <td class="example-word">shiriat-ta</td>
@@ -2226,7 +2304,7 @@
                             <span class="gloss">com</span>
                         </td>
                         <td class="example-gloss">
-                            <span>year</span>
+                            <span>one-year</span>
                         </td>
                         <td class="example-gloss">
                             <span>earlier</span>
@@ -2240,7 +2318,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Taroo got to know Hanako a year ago.’</td>
+                        <td colspan="8" class="example-translation">‘Taro got to know Hanako a year ago.’</td>
                     </tr>
                 </table>
             </div>
@@ -2306,7 +2384,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo knows Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro knows Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -2372,7 +2450,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is playing the guitar.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is playing the guitar.’</td>
                     </tr>
                 </table>
             </div>
@@ -2438,7 +2516,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo avoids Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro avoids Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -2498,7 +2576,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo made a mousetrap.’</td>
+                        <td colspan="5" class="example-translation">‘Taro made a mousetrap.’</td>
                     </tr>
                 </table>
             </div>
@@ -2564,7 +2642,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is making fun of Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is making fun of Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -2630,7 +2708,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo has a car.’</td>
+                        <td colspan="5" class="example-translation">‘Taro has a car.’</td>
                     </tr>
                 </table>
             </div>
@@ -2696,7 +2774,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is looking for the keys.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is looking for the keys.’</td>
                     </tr>
                 </table>
             </div>
@@ -2756,7 +2834,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo painted the fence.’</td>
+                        <td colspan="5" class="example-translation">‘Taro painted the fence.’</td>
                     </tr>
                 </table>
             </div>
@@ -2816,7 +2894,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘A dog bit Taroo.’</td>
+                        <td colspan="5" class="example-translation">‘A dog bit Taro.’</td>
                     </tr>
                 </table>
             </div>
@@ -2876,7 +2954,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo lost his house.’</td>
+                        <td colspan="5" class="example-translation">‘Taro lost his house.’</td>
                     </tr>
                 </table>
             </div>
@@ -2952,7 +3030,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo is trying to catch the cat.’</td>
+                        <td colspan="7" class="example-translation">‘Taro is trying to catch the cat.’</td>
                     </tr>
                 </table>
             </div>
@@ -3012,7 +3090,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo broke a stick.’</td>
+                        <td colspan="5" class="example-translation">‘Taro broke a stick.’</td>
                     </tr>
                 </table>
             </div>
@@ -3087,7 +3165,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo is flattering Hanako.’</td>
+                        <td colspan="7" class="example-translation">‘Taro is flattering Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -3152,7 +3230,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo loves Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro loves Hanako.’</td>
                     </tr>
                     <tr>
                         <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
@@ -3192,7 +3270,7 @@
                     <tr>
                         <td class="example-word">Tarō</td>
                         <td class="example-word">ga</td>
-                        <td class="example-word">hankati</td>
+                        <td class="example-word">hankachi</td>
                         <td class="example-word">o</td>
                         <td class="example-word">fut-te-i-ru</td>
                     </tr>
@@ -3221,7 +3299,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is waving a handkerchief.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is waving a handkerchief.’</td>
                     </tr>
                 </table>
             </div>
@@ -3287,7 +3365,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is dreaming of a new car.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is dreaming of a new car.’</td>
                     </tr>
                 </table>
             </div>
@@ -3347,7 +3425,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo washed the cup.’</td>
+                        <td colspan="5" class="example-translation">‘Taro washed the cup.’</td>
                     </tr>
                 </table>
             </div>
@@ -3407,7 +3485,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo put on his trousers.’</td>
+                        <td colspan="5" class="example-translation">‘Taro put on his trousers.’</td>
                     </tr>
                 </table>
             </div>
@@ -3445,7 +3523,7 @@
                         <td class="example-word">kono</td>
                         <td class="example-word">dōgu</td>
                         <td class="example-word">wa</td>
-                        <td class="example-word">kompasu</td>
+                        <td class="example-word">Konpasu</td>
                         <td class="example-word">to</td>
                         <td class="example-word">i-u</td>
                     </tr>
@@ -3522,9 +3600,7 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">pron</span>
-                            <span>.</span>
-                            <span class="gloss">rfl</span>
+                            <span>self</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -3541,7 +3617,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo punished his son.’</td>
+                        <td colspan="7" class="example-translation">‘Taro punished his son.’</td>
                     </tr>
                 </table>
             </div>
@@ -3726,7 +3802,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo found his keys.’</td>
+                        <td colspan="5" class="example-translation">‘Taro found his keys.’</td>
                     </tr>
                 </table>
             </div>
@@ -3786,7 +3862,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is one dollar short.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is one dollar short.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The numeral phrase “ichi-doru” ‘one dollar’ takes no case marker. The label NOM(NO.EXALT) is based on the variant with an ordinary noun, cf. “Tarō ni wa o-kane ga tari-nai” ‘Tarō is short of money’.</td>
                     </tr>
                 </table>
             </div>
@@ -3851,7 +3930,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo hates Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro hates Hanako.’</td>
                     </tr>
                     <tr>
                         <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
@@ -3932,7 +4011,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Taroo likes this shirt.’</td>
+                        <td colspan="8" class="example-translation">‘Taro likes this shirt.’</td>
                     </tr>
                 </table>
             </div>
@@ -3993,7 +4072,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo needs money.’</td>
+                        <td colspan="5" class="example-translation">‘Taro needs money.’</td>
                     </tr>
                 </table>
             </div>
@@ -4125,7 +4204,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo has ten dollars left.’</td>
+                        <td colspan="5" class="example-translation">‘Taro has ten dollars left.’</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" style="background-color: rgb(240,240,240); max-width: 300px;">Note: The numeral phrase “jū-doru” ‘ten dollars’ takes no case marker. The label NOM(NO.EXALT) is based on the variant with an ordinary noun, cf. “Tarō ni wa ie ga nokot-te-i-ru” ‘Tarō still has his house’.</td>
                     </tr>
                 </table>
             </div>
@@ -4185,7 +4267,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo answered the teacher.’</td>
+                        <td colspan="5" class="example-translation">‘Taro answered the teacher.’</td>
                     </tr>
                 </table>
             </div>
@@ -4245,7 +4327,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo opened a can.’</td>
+                        <td colspan="5" class="example-translation">‘Taro opened a can.’</td>
                     </tr>
                 </table>
             </div>
@@ -4292,10 +4374,7 @@
                     </tr>
                     <tr>
                         <td class="example-gloss">
-                            <span>1.</span>
-                            <span class="gloss">sg</span>
-                            <span>.</span>
-                            <span class="gloss">m</span>
+                            <span class="gloss">i</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -4307,11 +4386,12 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span>2.</span>
+                            <span>you(</span>
                             <span class="gloss">sg</span>
+                            <span>)</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">sbstv</span>
+                            <span class="gloss">nmlz</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">com</span>
@@ -4391,7 +4471,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo fell behind Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro fell behind Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -4457,7 +4537,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is ploughing the field.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is ploughing the field.’</td>
                     </tr>
                 </table>
             </div>
@@ -4597,7 +4677,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo crossed the road.’</td>
+                        <td colspan="5" class="example-translation">‘Taro crossed the road.’</td>
                     </tr>
                 </table>
             </div>
@@ -4661,7 +4741,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo sang a beautiful song.’</td>
+                        <td colspan="6" class="example-translation">‘Taro sang a beautiful song.’</td>
                     </tr>
                 </table>
             </div>
@@ -4721,7 +4801,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo wrote a letter.’</td>
+                        <td colspan="5" class="example-translation">‘Taro wrote a letter.’</td>
                     </tr>
                 </table>
             </div>
@@ -4781,7 +4861,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo drank the milk.’</td>
+                        <td colspan="5" class="example-translation">‘Taro drank the milk.’</td>
                     </tr>
                 </table>
             </div>
@@ -4849,7 +4929,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo melted a piece of lead.’</td>
+                        <td colspan="7" class="example-translation">‘Taro melted a piece of lead.’</td>
                     </tr>
                 </table>
             </div>
@@ -4989,7 +5069,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo left his native town.’</td>
+                        <td colspan="7" class="example-translation">‘Taro left his native town.’</td>
                     </tr>
                 </table>
             </div>
@@ -5129,7 +5209,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo remembers the house well.’</td>
+                        <td colspan="6" class="example-translation">‘Taro remembers the house well.’</td>
                     </tr>
                 </table>
             </div>
@@ -5189,7 +5269,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo helped Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro helped Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -5254,7 +5334,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo understands French.’</td>
+                        <td colspan="6" class="example-translation">‘Taro understands French.’</td>
                     </tr>
                 </table>
             </div>
@@ -5379,7 +5459,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo cut himself with a razor.’</td>
+                        <td colspan="6" class="example-translation">‘Taro cut himself with a razor.’</td>
                     </tr>
                 </table>
             </div>
@@ -5416,7 +5496,7 @@
                     <tr>
                         <td class="example-word">koppu</td>
                         <td class="example-word">ga</td>
-                        <td class="example-word">tе̄buru</td>
+                        <td class="example-word">tēburu</td>
                         <td class="example-word">ni</td>
                         <td class="example-word">kuttsui-ta</td>
                     </tr>
@@ -5499,7 +5579,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo lost to Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro lost to Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -5559,7 +5639,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo was glad about the letter.’</td>
+                        <td colspan="5" class="example-translation">‘Taro was glad about the letter.’</td>
                     </tr>
                 </table>
             </div>
@@ -5625,7 +5705,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is speaking with Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is speaking with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -5662,7 +5742,8 @@
                     <tr>
                         <td class="example-word">Hanako</td>
                         <td class="example-word">wa</td>
-                        <td class="example-word">otoko-no</td>
+                        <td class="example-word">otoko</td>
+                        <td class="example-word">no</td>
                         <td class="example-word">ko</td>
                         <td class="example-word">o</td>
                         <td class="example-word">un-da</td>
@@ -5675,7 +5756,9 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span>man-</span>
+                            <span>man</span>
+                        </td>
+                        <td class="example-gloss">
                             <span class="gloss">gen</span>
                         </td>
                         <td class="example-gloss">
@@ -5690,7 +5773,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Hanako gave birth to a son.’</td>
+                        <td colspan="7" class="example-translation">‘Hanako gave birth to a son.’</td>
                     </tr>
                 </table>
             </div>
@@ -5750,7 +5833,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo dropped the glass.’</td>
+                        <td colspan="5" class="example-translation">‘Taro dropped the glass.’</td>
                     </tr>
                 </table>
             </div>
@@ -5802,8 +5885,7 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span>1.</span>
-                            <span class="gloss">sg</span>
+                            <span class="gloss">i</span>
                             <span>~</span>
                             <span class="gloss">pl</span>
                         </td>
@@ -5832,7 +5914,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Taroo runs our town.’</td>
+                        <td colspan="8" class="example-translation">‘Taro runs our town.’</td>
                     </tr>
                 </table>
             </div>
@@ -5952,7 +6034,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo follows Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro follows Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -6012,7 +6094,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo got down from the horse.’</td>
+                        <td colspan="5" class="example-translation">‘Taro got down from the horse.’</td>
                     </tr>
                 </table>
             </div>
@@ -6078,7 +6160,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is listening to radio.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is listening to radio.’</td>
                     </tr>
                 </table>
             </div>
@@ -6140,7 +6222,7 @@
                             <span class="gloss">npst</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">subst</span>
+                            <span>matter</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">acc</span>
@@ -6151,7 +6233,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Taroo listens to what his mother is saying.’</td>
+                        <td colspan="8" class="example-translation">‘Taro listens to what his mother is saying.’</td>
                     </tr>
                     <tr>
                         <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Not included in the database because Y is expressed as an NP within a dependent clause.</td>
@@ -6224,7 +6306,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo hears the music.’</td>
+                        <td colspan="6" class="example-translation">‘Taro hears the music.’</td>
                     </tr>
                 </table>
             </div>
@@ -6350,7 +6432,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is looking at the clouds.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is looking at the clouds.’</td>
                     </tr>
                 </table>
             </div>
@@ -6410,7 +6492,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo took off his shirt.’</td>
+                        <td colspan="5" class="example-translation">‘Taro took off his shirt.’</td>
                     </tr>
                 </table>
             </div>
@@ -6546,7 +6628,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo agreed with Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro agreed with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -6611,7 +6693,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo had a quarrel with Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro had a quarrel with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -6735,7 +6817,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo shot at the bird.’</td>
+                        <td colspan="5" class="example-translation">‘Taro shot at the bird.’</td>
                     </tr>
                 </table>
             </div>
@@ -6795,7 +6877,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo poured the sugar.’</td>
+                        <td colspan="5" class="example-translation">‘Taro poured the sugar.’</td>
                     </tr>
                 </table>
             </div>
@@ -6855,7 +6937,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo lost the key.’</td>
+                        <td colspan="5" class="example-translation">‘Taro lost the key.’</td>
                     </tr>
                 </table>
             </div>
@@ -6975,7 +7057,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo killed Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro killed Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -7035,7 +7117,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo hit Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro hit Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -7100,7 +7182,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo kissed Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro kissed Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -7164,7 +7246,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo read an interesting book.’</td>
+                        <td colspan="6" class="example-translation">‘Taro read an interesting book.’</td>
                     </tr>
                 </table>
             </div>
@@ -7224,7 +7306,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo moved his finger.’</td>
+                        <td colspan="5" class="example-translation">‘Taro moved his finger.’</td>
                     </tr>
                 </table>
             </div>
@@ -7295,7 +7377,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo respects Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro respects Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -7419,9 +7501,7 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">pron</span>
-                            <span>.</span>
-                            <span class="gloss">rfl</span>
+                            <span>self</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -7442,7 +7522,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Taroo is satisfied with his son.’</td>
+                        <td colspan="8" class="example-translation">‘Taro is satisfied with his son.’</td>
                     </tr>
                     <tr>
                         <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
@@ -7510,7 +7590,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo fell in love with Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro fell in love with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -7520,7 +7600,7 @@
         <p class="examples-header">
             <span>114. </span>
             <a class="data-link" href="https://bivaltyp.info/predicates/pred/trust.html">trust</a>
-            <span class="predicate-translation" style="margin-left: 3px;">shinyō suru</span>
+            <span class="predicate-translation" style="margin-left: 3px;">shin'yō suru</span>
         </p>
         <div class="predicate-info">
             <div class="example-info-div">
@@ -7549,7 +7629,7 @@
                         <td class="example-word">wa</td>
                         <td class="example-word">Hanako</td>
                         <td class="example-word">o</td>
-                        <td class="example-word">shinyō</td>
+                        <td class="example-word">shin'yō</td>
                         <td class="example-word">shi-te-i-ru</td>
                     </tr>
                     <tr>
@@ -7581,7 +7661,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo trusts Hanako.’</td>
+                        <td colspan="6" class="example-translation">‘Taro trusts Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -7633,9 +7713,7 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">pron</span>
-                            <span>.</span>
-                            <span class="gloss">rfl</span>
+                            <span>self</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -7656,7 +7734,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Taroo sympathises with his mother.’</td>
+                        <td colspan="8" class="example-translation">‘Taro sympathises with his mother.’</td>
                     </tr>
                     <tr>
                         <td colspan="8" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
@@ -7788,7 +7866,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo is angry with Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro is angry with Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -7852,7 +7930,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo was surprised at that gift.’</td>
+                        <td colspan="6" class="example-translation">‘Taro was surprised at that gift.’</td>
                     </tr>
                 </table>
             </div>
@@ -7918,7 +7996,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo loves tea.’</td>
+                        <td colspan="6" class="example-translation">‘Taro loves tea.’</td>
                     </tr>
                     <tr>
                         <td colspan="6" style="background-color: rgb(240,240,240); max-width: 300px;">Note: Non-verbal predicate.</td>
@@ -7993,7 +8071,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo enjoys hot tea.’</td>
+                        <td colspan="6" class="example-translation">‘Taro enjoys hot tea.’</td>
                     </tr>
                 </table>
             </div>
@@ -8124,7 +8202,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo holds a grudge against Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro holds a grudge against Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -8184,7 +8262,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo took offence at Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro took offence at Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -8255,7 +8333,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo greatly upset Hanako.’</td>
+                        <td colspan="7" class="example-translation">‘Taro greatly upset Hanako.’</td>
                     </tr>
                     <tr>
                         <td colspan="7" style="background-color: rgb(240,240,240); max-width: 300px;">Note: This is a causative construction.</td>
@@ -8322,7 +8400,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="6" class="example-translation">‘Taroo was impressed by that town.’</td>
+                        <td colspan="6" class="example-translation">‘Taro was impressed by that town.’</td>
                     </tr>
                 </table>
             </div>
@@ -8388,7 +8466,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="example-translation">‘Taroo despises Hanako.’</td>
+                        <td colspan="5" class="example-translation">‘Taro despises Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -8440,9 +8518,7 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">pron</span>
-                            <span>.</span>
-                            <span class="gloss">rfl</span>
+                            <span>self</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -8463,7 +8539,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="8" class="example-translation">‘Taroo got upset with his son.’</td>
+                        <td colspan="8" class="example-translation">‘Taro got upset with his son.’</td>
                     </tr>
                 </table>
             </div>
@@ -8514,9 +8590,7 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">pron</span>
-                            <span>.</span>
-                            <span class="gloss">rfl</span>
+                            <span>self</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -8539,7 +8613,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo is getting irritated with his daughter.’</td>
+                        <td colspan="7" class="example-translation">‘Taro is getting irritated with his daughter.’</td>
                     </tr>
                 </table>
             </div>
@@ -8613,7 +8687,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="example-translation">‘Taroo is fond of Hanako.’</td>
+                        <td colspan="7" class="example-translation">‘Taro is fond of Hanako.’</td>
                     </tr>
                 </table>
             </div>
@@ -8666,9 +8740,7 @@
                             <span class="gloss">top</span>
                         </td>
                         <td class="example-gloss">
-                            <span class="gloss">pron</span>
-                            <span>.</span>
-                            <span class="gloss">rfl</span>
+                            <span>self</span>
                         </td>
                         <td class="example-gloss">
                             <span class="gloss">gen</span>
@@ -8698,7 +8770,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="9" class="example-translation">‘Taroo is embarrassed about his height.’</td>
+                        <td colspan="9" class="example-translation">‘Taro is embarrassed about his height.’</td>
                     </tr>
                 </table>
             </div>
