@@ -16,3 +16,5 @@ The data were gathered in 2017 using the French version of the questionnaire.
 - Genealogy (as given in [WALS](https://wals.info/)). Family: {{ family_WALS }}, genus: {{ genus_WALS }}.
 - Macro-area: {{ macroarea }}.
 
+## Glossing abbreviations
+ACC — accusative; DEF — definite; F — feminine; IMP — imperative; INDF — indefinite; INF — infinitive; M — masculine; PL — plural; PN — person name; PRS — present; PST — past; PTCP — participle; REFL — reflexive; SG — singular.
