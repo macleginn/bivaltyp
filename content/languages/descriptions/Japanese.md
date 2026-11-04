@@ -5,7 +5,7 @@ Contributed by Yukari Konuma and [Artemii Kuznetsov](https://www.ames.ox.ac.uk/p
 
 The Japanese data were initially provided and analyzed by Yukari Konuma in her capacity as a native speaker in 2011. The Russian version of the questionnaire was used at this stage. In 2026, the dataset was significantly reannotated based on Artemii Kuznetsov’s input, including corpus evidence, elicitation from native speakers, etc. The English version of the questionnaire was used at this stage. 
 
-The data are presented in modified Hepburn romanisation. Long vowels are marked with a macron (*Tarō*, *kōkan*), except for long *i* in native words, which is written *ii* (*utsukushii*). Morpheme boundaries within verbal and adjectival forms are marked by hyphens.
+The data are presented in modified Hepburn romanisation. Long vowels are marked with a macron (*Tarō*, *kōkan*), except for long *i* in native words, which is written *ii* (*utsukushii*). Morpheme boundaries within verbal and adjectival forms are marked by hyphens. Personal names in translations are given in their conventional English spelling (e.g. Taro). 
 
 ## How to cite
 > Konuma, Yukari & Artemii Kuznetsov. 2026. Bivalent patterns in {{ language_external}}. 
@@ -28,7 +28,7 @@ Japanese is a verb-final language with dependent marking. Grammatical relations 
 ```
 (1)  Tarō  ga   ishi   o    nage-ta
      PN    NOM  stone  ACC  throw-PST
-     ‘Tarō threw a stone.’
+     ‘Taro threw a stone.’
 
 ```
 
@@ -37,11 +37,11 @@ The main difficulty in identifying valency patterns in Japanese comes from the t
 ```
 (2)  Tarō  wa   ringo  o    tabe-ta
      PN    TOP  apple  ACC  eat-PST
-     ‘Tarō ate an apple.’
+     ‘Taro ate an apple.’
 
 (3)  Tarō  ni   wa   furansu-go       ga   wakar-u
      PN    DAT  TOP  France-language  NOM  understand-NPST
-     ‘Tarō understands French.’
+     ‘Taro understands French.’
 
 ```
 
